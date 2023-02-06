@@ -5,15 +5,16 @@
 ToyBox、Bubble Buffs等功能性MOD不在本文档介绍范围。
 强烈建议先行阅读
 [正义之怒MOD教程](https://github.com/1onepower/KM-WotR_Modding_Wiki/blob/main/%E4%B8%AD%E6%96%87%E7%89%88.md) （1onepower）<br>
-该文档含有详细的UMM安装教程和部分MOD介绍，但文档时间较早，部分MOD可能已经失效。
+该文档含有详细的**UMM安装教程**和部分MOD介绍，但文档时间较早，部分MOD可能已经失效。
 
 ## 目录
 [TOC]
 - [基础知识](#前置安装)
   - [UMM的安装](#UMM的安装)
+  - [MOD须知](#MOD须知)
   - [ModFinder工具](#ModFinder工具)
   - [GITHUB访问](#GITHUB访问)
-  - [前置MOD] (#前置MOD)
+  - [前置MOD](#前置MOD)
 - [MOD列表](#MOD列表)
 
 ## *基础知识*
@@ -32,3 +33,11 @@ ModFinder在启动时可能会出现弹框错误，发生此种情况多半是Gi
 ## GITHUB访问
 在国内很多网络环境，Github访问都存在一定抽风现象，会出现时不时打开失败。通常刷新就可以解决。
 如果实在问题严重，[Watt Toolkit](https://steampp.net/)可以帮到你。
+
+## 前置MOD
+目前正义之怒所需主要前置MOD有两个：
+[TabletopTweaks-Core](https://github.com/Vek17/TabletopTweaks-Core)（**核心必备**，绝大部分MOD的基础框架，本身不会进行任何改动。）
+[ModMenu](https://github.com/WittleWolfie/ModMenu)（**非必备**，一部分MOD使用的基础框架。会在游戏中选项里添加一个新的页面来进行MOD功能调整。）
+
+
+
