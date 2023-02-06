@@ -1,7 +1,7 @@
 # 【正义之怒】内容扩展型MOD收集计划
 -------------------------------------------
 
-本文档用于收集整理为开拓者正义之怒提供内容扩充（新增职业、变体、专长、法术等游戏内容）的MOD，并尽量保持时效性。
+本文档用于收集整理为开拓者正义之怒提供内容扩充（新增或者修改职业、变体、专长、法术等游戏内容）的MOD，并尽量保持时效性。
 ToyBox、Bubble Buffs等功能性MOD不在本文档介绍范围。
 强烈建议先行阅读
 [正义之怒MOD教程](https://github.com/1onepower/KM-WotR_Modding_Wiki/blob/main/%E4%B8%AD%E6%96%87%E7%89%88.md) （1onepower）<br>
@@ -24,6 +24,14 @@ UMM是Unity Mod Manager的简称，基本属于必需的前置MOD管理工具。
 大部分MOD都通过UMM来进行安装和管理。
 关于UMM的安装，[上面链接](https://github.com/1onepower/KM-WotR_Modding_Wiki/blob/main/%E4%B8%AD%E6%96%87%E7%89%88.md) 已经有非常详细的阐述，在此不再赘述
 
+## MOD须知
+特别注意。目前绝大多数内容扩充MOD都可以随时在游戏中途新增并**正常添加内容**。
+但是绝对不要在游戏**中途移除内容扩充MOD**，通常这都会由于新增特性的丢失导致**存档无法载入**。如果遇到这种情况，**通常加回MOD可以解决**。
+绝大多数内容扩充MOD会提供**MOD选项**，可以用于单独开启或者关闭某一项特性。通常这个选项在UMM中，如果前置有**ModMenu**，则在游戏选项中的MOD页面。
+一般来说，修改性质的选项（比如TTT对专长的相关修改），都可以随时开关（但都需要**重启游戏才能生效**）
+但是新增内容（比如增加专长）一旦已经有人物使用后关闭，很可能同样导致**存档无法载入**。**一般重新启用选项可以解决**。
+
+
 ## ModFinder工具
 ModFinder是一个非必需的第三方工具，可以便捷的管理正义之怒MOD，检查MOD更新情况（包括在Github和Nexus更新的MOD），快速下载和安装（可以替代部分UMM功能）
 ModFinder可以在[这里](https://github.com/Pathfinder-WOTR-Modding-Community/ModFinder)下载。
@@ -35,7 +43,7 @@ ModFinder在启动时可能会出现弹框错误，发生此种情况多半是Gi
 如果实在问题严重，[Watt Toolkit](https://steampp.net/)可以帮到你。
 
 ## 前置MOD
-目前正义之怒所需主要前置MOD有两个：
+目前正义之怒所需主要前置MOD有两个：<br>
 [TabletopTweaks-Core](https://github.com/Vek17/TabletopTweaks-Core)（**核心必备**，绝大部分MOD的基础框架，本身不会进行任何改动。）
 [ModMenu](https://github.com/WittleWolfie/ModMenu)（**非必备**，一部分MOD使用的基础框架。会在游戏中选项里添加一个新的页面来进行MOD功能调整。）
 
