@@ -1,10 +1,9 @@
 # 【正义之怒】内容扩展型MOD收集计划
 -------------------------------------------
 
-本文档用于收集整理为开拓者正义之怒提供内容扩充（新增或者修改职业、变体、专长、法术等游戏内容）的MOD，并尽量保持时效性。<br>
-ToyBox、Bubble Buffs等功能性MOD不在本文档介绍范围。<br>
-强烈建议先行阅读[正义之怒MOD教程](https://github.com/1onepower/KM-WotR_Modding_Wiki/blob/main/%E4%B8%AD%E6%96%87%E7%89%88.md) （1onepower）<br>
-该文档含有详细的**UMM安装教程**和部分MOD介绍，但文档时间较早，部分MOD可能已经失效。<br>
++ 本文档用于收集整理为开拓者正义之怒提供内容扩充（新增或者修改职业、变体、专长、法术等游戏内容）的MOD，并尽量保持时效性。<br>
++ ToyBox、Bubble Buffs等功能性MOD不在本文档介绍范围。<br>
++ 强烈建议先行阅读[正义之怒MOD教程](https://github.com/1onepower/KM-WotR_Modding_Wiki/blob/main/%E4%B8%AD%E6%96%87%E7%89%88.md) （1onepower）。该文档含有详细的**UMM安装教程**和部分MOD介绍，但文档时间较早，部分MOD可能已经失效。<br>
 
 ## 目录
 [TOC]
@@ -16,7 +15,7 @@ ToyBox、Bubble Buffs等功能性MOD不在本文档介绍范围。<br>
   - [前置MOD](#前置MOD)
 - [MOD列表](#MOD列表)
 
-## *基础知识*
+## 基础知识
 
 ### UMM的安装
 + UMM是**Unity Mod Manager**的简称，用于很多Unity游戏的MOD管理。对正义之怒UMM基本属于必需的前置MOD管理工具。你需要先安装UMM来启用MOD，并可对MOD进行统一管理。
