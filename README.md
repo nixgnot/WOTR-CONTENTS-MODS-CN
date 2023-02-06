@@ -19,7 +19,7 @@ ToyBox、Bubble Buffs等功能性MOD不在本文档介绍范围。<br>
 ## *基础知识*
 
 ### UMM的安装
-+ UMM是Unity Mod Manager的简称，基本属于必需的前置MOD管理工具。你需要先安装UMM来启用MOD，并可对MOD进行统一管理。
++ UMM是**Unity Mod Manager**的简称，用于很多Unity游戏的MOD管理。对正义之怒UMM基本属于必需的前置MOD管理工具。你需要先安装UMM来启用MOD，并可对MOD进行统一管理。
 + 大部分MOD都通过UMM来进行安装和管理。<br>
 + 关于UMM的安装，[上面链接](https://github.com/1onepower/KM-WotR_Modding_Wiki/blob/main/%E4%B8%AD%E6%96%87%E7%89%88.md) 已经有非常详细的阐述，在此不再赘述。
 
