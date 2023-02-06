@@ -10,9 +10,9 @@ ToyBox、Bubble Buffs等功能性MOD不在本文档介绍范围。
 ## 目录
 [TOC]
 - [基础知识](#前置安装)
-  - [UMM的安装] (#UMM的安装)
-  - [ModFinder工具] (#ModFinder工具)
-  - [GITHUB访问] (#GITHUB访问)
+  - [UMM的安装](#UMM的安装)
+  - [ModFinder工具](#ModFinder工具)
+  - [GITHUB访问](#GITHUB访问)
   - [前置MOD] (#前置MOD)
 - [MOD列表](#MOD列表)
 
