@@ -49,8 +49,11 @@
 1. [TabletopTweaks-Core](https://github.com/Vek17/TabletopTweaks-Core)（**核心必备**，绝大部分MOD的基础框架，本身不会进行任何改动。）
 2. [ModMenu](https://github.com/WittleWolfie/ModMenu)（**非必备**，一部分MOD使用的基础框架。会在游戏中选项里添加一个新的页面来进行MOD功能调整。）
 
+-------------------------------------------
+
 ## MOD列表
 **本列表中MOD均在2.0.7版本测试通过**
+-------------------------------------------
 ### [TabletopTweaks-Base](https://github.com/Vek17/TabletopTweaks-Base)
 > *前置：* TabletopTweaks-Core<br>
 > *中文：* 自带中文（部分内容没更新）<br>
@@ -72,7 +75,19 @@
 + 如果你习惯了原版体系和构建，可能用了TTT会有极大怨言。好在这些修复都是可以关闭的<br>
 + （友情提示，但是由于新增了大量内容，关闭这些修复很容易导致过于滥强）<br>
 + TTT的更新过于庞杂海量，建议有一定英文基础和游戏基础再玩（虽然内容已经汉化但是选项菜单无法汉化）
+类别|添加清单/说明
+-|-
+基础能力|单手持用：在加载TableTopTweaks后，许多需要你空出一只手的能力*真的*需要你空出一只手。激活此能力以强制单手握持你的武器，你会因此只能将1倍调整值应用在伤害上而不是1.5倍。
+变体|Arcanist - Elemental Master
+Bloodrager - Metamagic Rager
+Cleric - Channeler Of The Unknown
+Magus - Blade Bound
+Druid - NatureFang
+Warpriest - Divine Commander
 
+
+
+-------------------------------------------
 ### [TabletopTweaks-Reworks](https://github.com/Vek17/TabletopTweaks-Reworks)
 > *前置：* TabletopTweaks-Core<br>
 > *中文：* 自带中文（存在小问题）<br>
