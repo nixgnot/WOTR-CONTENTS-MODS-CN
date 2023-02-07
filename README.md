@@ -15,6 +15,7 @@
   - [GITHUB访问和MOD下载](#GITHUB访问和MOD下载)
   - [Nexus访问和MOD下载](#Nexus访问和MOD下载)
   - [前置MOD](#前置MOD)
+  - [汉化修正文件](#汉化修正文件)
 - [MOD列表](#MOD列表)
 
 ## 基础知识
@@ -48,6 +49,12 @@
 目前正义之怒所需主要前置MOD有两个：
 1. [TabletopTweaks-Core](https://github.com/Vek17/TabletopTweaks-Core)（**核心必备**，绝大部分MOD的基础框架，本身不会进行任何改动。）
 2. [ModMenu](https://github.com/WittleWolfie/ModMenu)（**非必备**，一部分MOD使用的基础框架。会在游戏中选项里添加一个新的页面来进行MOD功能调整。）
+
+### 汉化修正文件
+本文档上方会收集一些个人提供的MOD汉化或汉化修正文件，不定时更新。
+一般修正文件的使用方法是直接替换游戏目录下\mods\对应mod名称\Localization\中同名文件即可
+但是某些MOD没有语言文件，有些替换后无效，我就不知道咋办了。
+文档作者是代码盲，需要大佬协助233
 
 -------------------------------------------
 
