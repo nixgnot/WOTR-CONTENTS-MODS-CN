@@ -98,6 +98,15 @@
       <b>推陈出新</b>：通用巅峰。职业具有至少4个奖励战斗专长可以选择。再获得4个奖励战斗专长。<br>
       其他职业还各自有不同的巅峰选择，例如法师可以获得额外法术位，在此不再一一列出。
       </td></tr>
+<tr><td rowspan="6">法术</td>
+      <td>Cloak of Winds 风之斗篷-敌方远程攻击受到惩罚</td></tr>
+  <tr><td>Long Arm 长臂咒-增加触及</td></tr>
+  <tr><td>Mage's Disjunction <b>法师裂解术</b>-无豁免驱散并使得魔法物品失效，逆天</td></tr>
+  <tr><td>Shadow Enchantment</td></tr>
+  <tr><td>Shadow Enchantment Greater</td></tr>
+  <tr><td>Stunning Barrier Greater</td></tr>
+
+  
 </table>
 
 -------------------------------------------
