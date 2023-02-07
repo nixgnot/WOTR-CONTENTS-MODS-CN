@@ -75,18 +75,23 @@
 + 如果你习惯了原版体系和构建，可能用了TTT会有极大怨言。好在这些修复都是可以关闭的<br>
 + （友情提示，但是由于新增了大量内容，关闭这些修复很容易导致过于滥强）<br>
 + TTT的更新过于庞杂海量，建议有一定英文基础和游戏基础再玩（虽然内容已经汉化但是选项菜单无法汉化）
-|
-类别|添加清单/说明
--|-
-基础能力|单手持用：在加载TableTopTweaks后，许多需要你空出一只手的能力*真的*需要你空出一只手。激活此能力以强制单手握持你的武器，你会因此只能将1倍调整值应用在伤害上而不是1.5倍。
-变体|Arcanist - Elemental Master
-Bloodrager - Metamagic Rager
-Cleric - Channeler Of The Unknown
-Magus - Blade Bound
-Druid - NatureFang
-Warpriest - Divine Commander
-|
 
+<table>
+<tr><th colspan="2">新增内容列表</th></tr> 
+<tr><td>基础能力</td>
+    <td>单手持用：在加载TableTopTweaks后，许多需要你空出一只手的能力*真的*需要你空出一只手。激活此能力以强制单手握持你的武器，你会因此只能将1倍调整值应用在伤害上而不是1.5倍。</td>
+</tr> 
+<tr><td rowspan="7">变体</td>
+               <td>Arcanist - Elemental Master</td>
+</tr>
+  <tr><td></td><td>Bloodrager - Metamagic Rager</td></tr>
+  <tr><td></td><td>Cleric - Channeler Of The Unknown</td></tr>
+  <tr><td></td><td>Magus - Blade Bound</td></tr>
+  <tr><td></td><td>Druid - NatureFang</td></tr>
+  <tr><td></td><td>Warpriest - Divine Commander</td></tr>
+  <tr><td></td><td>Witch - Cauldron Witch</td></tr>
+  
+</table>
 
 -------------------------------------------
 ### [TabletopTweaks-Reworks](https://github.com/Vek17/TabletopTweaks-Reworks)
