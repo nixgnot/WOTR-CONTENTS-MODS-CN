@@ -50,6 +50,7 @@
 2. [ModMenu](https://github.com/WittleWolfie/ModMenu)（**非必备**，一部分MOD使用的基础框架。会在游戏中选项里添加一个新的页面来进行MOD功能调整。）
 
 ## MOD列表
+**本列表中MOD均在2.0.7版本测试通过**
 ### [TabletopTweaks-Base](https://github.com/Vek17/TabletopTweaks-Base)
 > *前置：* TabletopTweaks-Core<br>
 > *中文：* 自带中文（部分内容没更新）<br>
@@ -74,7 +75,7 @@
 
 ### [TabletopTweaks-Reworks](https://github.com/Vek17/TabletopTweaks-Reworks)
 > *前置：* TabletopTweaks-Core<br>
-> *中文：* 自带中文（部分内容没更新）<br>
+> *中文：* 自带中文（存在小问题）<br>
 > *安装方式：* UMM<br>
 > *修改内容：* 神话能力、神话专长，道途等<br>
 + **TTT**的扩展附件，主要集中在**神话道途**的修改
@@ -83,3 +84,4 @@
 > **充裕施法**数量减半<br>
 > **高等持久法术**现在只能对持续10分钟以上法术生效，再也没法轮级常驻了<br>
 + 其他还包括对神话偷袭的修改（从多1骰变为骰子放大1级）。对御衡、灵使、巫妖、诡计均有修改，尤其是诡计几乎大变样
+> 目前发现问题：灵使惊世神力改为了其他加值，但是文本描述依然是士气加值
