@@ -114,27 +114,17 @@
   <tr><td>Shadow Enchantment Greater 高等阴影惑控 - 楼上的高级版</td></tr>
   <tr><td>Stunning Barrier Greater 重型重创壁垒 - 防御法术</td></tr>
 <tr><td rowspan="16">专长</td>
-      <td>Metamagic 超魔 - 敌方远程攻击受到惩罚</td></tr>
-  
-  Metamagic
+  <tr><td>Metamagic (Burning Spell) 超魔（燃烧法术）</td></tr>
+  <tr><td>Metamagic (Encouraging Spell) 超魔（激励法术）</td></tr>
+  <tr><td>Metamagic (Flaring Spell) 超魔（闪耀法术）</td></tr>
+  <tr><td>Metamagic (Intensified Spell) 超魔（强化法术）</td></tr>
+  <tr><td>Metamagic (Piercing Spell) 超魔（法术穿刺）</td></tr>
+  <tr><td>Metamagic (Rime Spell) 超魔（霜冻法术）</td></tr>
+  <tr><td>Metamagic (Solid Shadows) 超魔（真实阴影）</td></tr>
+  <tr><td>Metamagic (Elemental Spell) 超魔（元素魔法）</td></tr>
+ 
 
-Burning Spell (Metamagic)
-The acid or fire effects of the affected spell adhere to the creature, causing more damage the next round. When a creature takes acid or fire damage from the affected spell, that creature takes damage equal to 2x the spell’s actual level at the start of its next turn. The damage is acid or fire, as determined by the spell’s descriptor.
-Encouraging Spell (Metamagic)
-Any morale bonus granted by an encouraging spell is increased by 1.
-Flaring Spell (Metamagic)
-The electricity, fire, or light effects of the affected spell create a flaring that dazzles creatures that take damage from the spell. A flare spell causes a creature that takes fire or electricity damage from the affected spell to become dazzled for a number of rounds equal to the actual level of the spell. A flaring spell only affects spells with a fire, light, or electricity descriptor.
-Intensified Spell (Metamagic)
-An intensified spell increases the maximum number of damage dice by 5 levels. You must actually have sufficient caster levels to surpass the maximum in order to benefit from this feat. No other variables of the spell are affected, and spells that inflict damage that is not modified by caster level are not affected by this feat.
-Piercing Spell (Metamagic)
-When you cast a piercing spell against a target with spell resistance, it treats the spell resistance of the target as 5 lower than its actual SR.
-Rime Spell (Metamagic)
-The frost of your cold spell clings to the target, impeding it for a short time. A rime spell causes creatures that takes cold damage from the spell to become entangled for a number of rounds equal to the original level of the spell.
-Solid Shadows (Metamagic)
-When casting a shadow spell, that spell is 20% more real than normal.
-Elemental Spell (Metamagic)
-Choose one energy type: acid, cold, electricity, or fire. You may replace a spell’s normal damage with that energy type "or split the spell’s damage, so that half is of that energy type and half is of its normal type.
-Feats
+
 
 Ability Focus - Stunning Fist
 Add +2 to the DC for all saving throws against your stunning fist.
