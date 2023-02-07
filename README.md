@@ -82,14 +82,13 @@
     <td>单手持用：在加载TableTopTweaks后，许多需要你空出一只手的能力*真的*需要你空出一只手。激活此能力以强制单手握持你的武器，你会因此只能将1倍调整值应用在伤害上而不是1.5倍。</td>
 </tr> 
 <tr><td rowspan="7">变体</td>
-               <td>Arcanist - Elemental Master</td>
-</tr>
-  <tr><td></td><td>Bloodrager - Metamagic Rager</td></tr>
-  <tr><td></td><td>Cleric - Channeler Of The Unknown</td></tr>
-  <tr><td></td><td>Magus - Blade Bound</td></tr>
-  <tr><td></td><td>Druid - NatureFang</td></tr>
-  <tr><td></td><td>Warpriest - Divine Commander</td></tr>
-  <tr><td></td><td>Witch - Cauldron Witch</td></tr>
+      <td>Arcanist - Elemental Master</td></tr>
+  <tr><td>Bloodrager - Metamagic Rager</td></tr>
+  <tr><td>Cleric - Channeler Of The Unknown</td></tr>
+  <tr><td>Magus - Blade Bound</td></tr>
+  <tr><td>Druid - NatureFang</td></tr>
+  <tr><td>Warpriest - Divine Commander</td></tr>
+  <tr><td>Witch - Cauldron Witch</td></tr>
   
 </table>
 
