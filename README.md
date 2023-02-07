@@ -90,13 +90,13 @@
     <td>单手持用：在加载TableTopTweaks后，许多需要你空出一只手的能力*真的*需要你空出一只手。激活此能力以强制单手握持你的武器，你会因此只能将1倍调整值应用在伤害上而不是1.5倍。</td>
 </tr> 
 <tr><td rowspan="7">变体</td>
-      <td>Arcanist - Elemental Master 奥能师-元素大师</td></tr>
-  <tr><td>Bloodrager - Metamagic Rager 血怒者-超魔狂怒者</td></tr>
-  <tr><td>Cleric - Channeler Of The Unknown 牧师-熵化导能师</td></tr>
-  <tr><td>Magus - Blade Bound 魔战士-剑缚者</td></tr>
-  <tr><td>Druid - NatureFang 德鲁伊-自然之牙</td></tr>
-  <tr><td>Warpriest - Divine Commander 战争祭祀-神圣骑手</td></tr>
-  <tr><td>Witch - Cauldron Witch 巫师-</td></tr>
+      <td>Arcanist - Elemental Master 奥能师 - 元素大师</td></tr>
+  <tr><td>Bloodrager - Metamagic Rager 血怒者 - 超魔狂怒者</td></tr>
+  <tr><td>Cleric - Channeler Of The Unknown 牧师 - 熵化导能师</td></tr>
+  <tr><td>Magus - Blade Bound 魔战士 - 剑缚者</td></tr>
+  <tr><td>Druid - NatureFang 德鲁伊 - 自然之牙</td></tr>
+  <tr><td>Warpriest - Divine Commander 战争祭祀 - 神圣骑手</td></tr>
+  <tr><td>Witch - Cauldron Witch 巫师 - 炼药巫师</td></tr>
 <tr><td>巅峰</td>
       <td>TTT新增，当一个角色在某一职业上达到20级可以选择一个巅峰奖励。部分巅峰只供特定职业选择，另外一些则为通用。<br>
         原版游戏中已经有不少职业拥有所谓“20级大招”。在TTT中将其与巅峰进行了整合。你可以在选择巅峰时选择原有“20级大招”，但是如此你便不能选择其他巅峰奖励。<br>
@@ -107,12 +107,12 @@
       其他职业还各自有不同的巅峰选择，例如法师可以获得额外法术位，在此不再一一列出。
       </td></tr>
 <tr><td rowspan="6">法术</td>
-      <td>Cloak of Winds 风之斗篷-敌方远程攻击受到惩罚</td></tr>
-  <tr><td>Long Arm 长臂咒-增加触及</td></tr>
-  <tr><td>Mage's Disjunction <b>法师裂解术</b>-无豁免驱散并使得魔法物品失效，逆天</td></tr>
-  <tr><td>Shadow Enchantment</td></tr>
-  <tr><td>Shadow Enchantment Greater</td></tr>
-  <tr><td>Stunning Barrier Greater</td></tr>
+      <td>Cloak of Winds 风之斗篷 - 敌方远程攻击受到惩罚</td></tr>
+  <tr><td>Long Arm 长臂咒 - 增加触及</td></tr>
+  <tr><td>Mage's Disjunction <b>法师裂解术</b> - 无豁免驱散并使得魔法物品失效，逆天</td></tr>
+  <tr><td>Shadow Enchantment 阴影惑控 - 幻术系模拟惑控</td></tr>
+  <tr><td>Shadow Enchantment Greater 高等阴影惑控 - 楼上的高级版</td></tr>
+  <tr><td>Stunning Barrier Greater 重型重创壁垒 - 防御法术</td></tr>
 
   
 </table>
