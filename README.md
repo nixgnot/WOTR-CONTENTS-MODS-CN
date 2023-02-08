@@ -113,7 +113,7 @@
   <tr><td>Shadow Enchantment 阴影惑控：幻术系模拟惑控</td></tr>
   <tr><td>Shadow Enchantment Greater 高等阴影惑控：楼上的高级版</td></tr>
   <tr><td>Stunning Barrier Greater 重型重创壁垒：防御法术</td></tr>
-<tr><td rowspan="58">专长</td>
+<tr><td rowspan="59">专长</td>
   <tr><td>Metamagic (Burning Spell) 超魔（燃烧法术）</td></tr>
   <tr><td>Metamagic (Encouraging Spell) 超魔（激励法术）</td></tr>
   <tr><td>Metamagic (Flaring Spell) 超魔（闪耀法术）</td></tr>
