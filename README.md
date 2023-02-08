@@ -173,6 +173,23 @@
   <tr><td>Stumbling Bash 衰弱盾击：盾击降低对方AC</td></tr>
   <tr><td>Toppling Bash 倾覆盾击：盾击附带绊摔</td></tr>
   <tr><td>Tower Shield Specialist 塔盾专家：减少塔盾处罚</td></tr>  
+  
+<tr><td rowspan="59">神话专长</td>
+      <td>Cleave (Mythic) 顺势斩（神话）：你能够顺势劈砍触及中的任何敌人</td></tr>
+  <tr><td>Critical Focus (Mythic) 重击专攻（神话）：自动确认对非神话对手的重击威胁，护命类需要确认2次</td></tr> 
+  <tr><td>Combat Expertise (Mythic) 寓守于攻（神话）：寓守于攻获得额外两点AC的闪避加值</td></tr> 
+  <tr><td>Combat Reflexes (Mythic) 战斗反射（神话）：每轮可以进行借机攻击的次数没有上限</td></tr> 
+  <tr><td>Intimidating Prowess (Mythic) 威逼（神话）：威吓检定获得等同神话阶层的加值</td></tr> 
+  <tr><td>Manyshot (Mythic) 多重射击（神话）：第一次和第二次攻击中都触发多重射击专长的效果</td></tr> 
+  <tr><td>Shatter Defenses (Mythic) 粉碎防御：受到你的粉碎防御影响的敌人对你的攻击视为措手不及</td></tr> 
+  <tr><td>Two-Weapon Defense (Mythic) 双武器防御（神话）：双武器防御额外附加你的武器中增强加值较高者的增强加值作为盾牌AC</td></tr> 
+  <tr><td>Warrior Priest (Mythic) 信仰战士（神话）：你在先攻和专注上获得神话等级一半的加值</td></tr> 
+  <tr><td>Titan Strike 泰坦之力：徒手攻击的伤害骰提升一级。此外，你在你的所有战技检定和震慑拳的DC上附加你的对手的体型比中型大的级数作为加值</td></tr> 
+
+    
+
+
+  
 </table>
 
 -------------------------------------------
