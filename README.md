@@ -79,6 +79,7 @@
 > **扩充战法不能再由多系专攻获得大量DC**<br>
 > **游荡者天赋中额外战斗专长只能选一次**<br>
 > **AOE法术不会在释放时额外触发一次**<br>
+> **坐骑移动后主人无法整轮攻击**<br>
 > 等等<br>
 + 如果你习惯了原版体系和构建，可能用了TTT会有极大怨言。好在这些修复都是可以关闭的<br>
 + （友情提示，但是由于新增了大量内容，关闭这些修复很容易导致过于滥强）<br>
@@ -140,38 +141,38 @@
   <tr><td>Extra Revelation 额外启示</td></tr>
   <tr><td>Extra Rogue Talent 额外游荡者天赋</td></tr>
   <tr><td>Extra Slayer Talent 额外杀手绝技</td></tr>
-  <tr><td>Graceful Athlete </td></tr>
-  <tr><td>Improved Channel </td></tr>
-  <tr><td>Lunge </td></tr>
-  <tr><td>Lunging Spell Touch </td></tr>
-  <tr><td>Magical Aptitude </td></tr>
-  <tr><td>Mantis Style </td></tr>
-  <tr><td>Mantis Wisdom </td></tr>
-  <tr><td>Mantis Torment </td></tr>
-  <tr><td>Mounted Skirmisher </td></tr>
-  <tr><td>Nature Soul </td></tr>
-  <tr><td>Two-Weapon Defense </td></tr>
-  <tr><td>Quick Channel </td></tr>
-  <tr><td>Quick Draw </td></tr>
-  <tr><td>Quicken Blessing </td></tr>
-  <tr><td>Riving Strike </td></tr>
-  <tr><td>Scholar </td></tr>
-  <tr><td>Self-Sufficient </td></tr>
-  <tr><td>Shingle Runner </td></tr>
-  <tr><td>Greater Spell Specialization </td></tr>
-  <tr><td>Stalwart </td></tr>
-  <tr><td>Improved Stalwart </td></tr>
-  <tr><td>Trick Riding </td></tr>
-  <tr><td>Undersized Mount </td></tr>
-  <tr><td>Varisian Tattoo </td></tr>
-  <tr><td>Armor Mastery Feats - Intense Blows</td></tr>
-  <tr><td>Armor Mastery Feats - Knocking Blows</td></tr>
-  <tr><td>Armor Mastery Feats - Secured Armor</td></tr>
-  <tr><td>Armor Mastery Feats - Sprightly Armor</td></tr>
-  <tr><td>Defended Movement </td></tr>
-  <tr><td>Stumbling Bash </td></tr>
-  <tr><td>Toppling Bash </td></tr>
-  <tr><td>Tower Shield Specialist </td></tr>  
+  <tr><td>Graceful Athlete 灵巧运动：敏捷代替力量做运动检定</td></tr>
+  <tr><td>Improved Channel 精通导能：导能DC+2</td></tr>
+  <tr><td><s>Lunge 突刺</s>原版已有</td></tr>
+  <tr><td>Lunging Spell Touch 法术突刺：增加近战接触触及范围</td></tr>
+  <tr><td>Magical Aptitude 奥法本能：知识(神秘)和使用魔法物品上获得加值</td></tr>
+  <tr><td>Mantis Style 螳螂拳：你获得一次震慑拳每日使用次数。当你使用螳螂拳流派架势时，你的震慑拳DC+2</td></tr>
+  <tr><td>Mantis Wisdom 六合拳劲：你可以将你的非武僧等级折半加上你的武僧等级来决定你的震慑拳效果。你使用螳螂拳流派架势时，你的震慑拳攻击骰有+2加值</td></tr>
+  <tr><td>Mantis Torment 螳螂铁刺：使用螳螂拳流派架势时，你的震慑拳DC+2</td></tr>
+  <tr><td>Mounted Skirmisher 骑乘散兵：如果坐骑在本回合移动的距离不超过它1个移动动作，你在本回合内仍然可以进行一次整轮攻击（原版本就可以，适合TTT改动）</td></tr>
+  <tr><td>Nature Soul 自然之魂：知识(自然)和察觉上获得加值</td></tr>
+  <tr><td>Two-Weapon Defense 双武器防御：双持武器提高AC</td></tr>
+  <tr><td>Quick Channel 快速导能：消耗两次导能次数，以移动动作引导能量</td></tr>
+  <tr><td>Quick Draw 快速拔刀：以自由动作切换或拔出武器</td></tr>
+  <tr><td>Quicken Blessing 迅捷祝福：选择你的一项祝福，你可以用迅捷动作开启这项祝福，消耗两次每日祝福次数</td></tr>
+  <tr><td>Riving Strike 奥能收割：给你的武器注入奥术力量时，你的攻击会使敌人豁免降低</td></tr>
+  <tr><td>Scholar 学者：知识(神秘)和知识(世界)上获得加值</td></tr>
+  <tr><td>Self-Sufficient 自给自足：学识(自然)和学识(宗教)上获得加值</td></tr>
+  <tr><td>Shingle Runner 短跑健将：运动和灵巧上获得加值</td></tr>
+  <tr><td>Greater Spell Specialization 高等法术专精：随意牺牲一个同环或更高环的法术位来自发施放你专精的法术</td></tr>
+  <tr><td>Stalwart 坚毅：使用防御式攻击或寓守于攻时，你可以失去其AC加值，代之以获得等量的Dr</td></tr>
+  <tr><td>Improved Stalwart 精通坚毅：从坚毅获得的Dr翻倍但有上限</td></tr>
+  <tr><td>Trick Riding 诡计骑手：增加骑乘战斗可用次数</td></tr>
+  <tr><td>Undersized Mount 灵巧骑术：可以骑同体型生物</td></tr>
+  <tr><td>Varisian Tattoo 瓦里西安纹身：学派CL+1</td></tr>
+  <tr><td>Armor Mastery Feats - Intense Blows 盔甲掌握 - 强力冲击：猛力攻击提高自身CMD</td></tr>
+  <tr><td>Armor Mastery Feats - Knocking Blows 盔甲掌握 - 震撼冲击：猛力攻击降低对方CMD</td></tr>
+  <tr><td>Armor Mastery Feats - Secured Armor 盔甲掌握 - 护心盔甲：概率抵消重击或者偷袭，和护命叠加</td></tr>
+  <tr><td>Armor Mastery Feats - Sprightly Armor 盔甲掌握 - 轻快盔甲：盔甲的增强加值作为加值加到你的先攻检定</td></tr>
+  <tr><td>Defended Movement 谨慎移动：提高对借机攻击AC</td></tr>
+  <tr><td>Stumbling Bash 衰弱盾击：盾击降低对方AC</td></tr>
+  <tr><td>Toppling Bash 倾覆盾击：盾击附带绊摔</td></tr>
+  <tr><td>Tower Shield Specialist 塔盾专家：减少塔盾处罚</td></tr>  
 </table>
 
 -------------------------------------------
