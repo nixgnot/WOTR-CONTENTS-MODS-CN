@@ -113,33 +113,33 @@
   <tr><td>Shadow Enchantment 阴影惑控：幻术系模拟惑控</td></tr>
   <tr><td>Shadow Enchantment Greater 高等阴影惑控：楼上的高级版</td></tr>
   <tr><td>Stunning Barrier Greater 重型重创壁垒：防御法术</td></tr>
-<tr><td rowspan="59">专长</td>
-  <tr><td>Metamagic (Burning Spell) 超魔（燃烧法术）</td></tr>
-  <tr><td>Metamagic (Encouraging Spell) 超魔（激励法术）</td></tr>
-  <tr><td>Metamagic (Flaring Spell) 超魔（闪耀法术）</td></tr>
-  <tr><td>Metamagic (Intensified Spell) 超魔（强化法术）</td></tr>
-  <tr><td>Metamagic (Piercing Spell) 超魔（法术穿刺）</td></tr>
-  <tr><td>Metamagic (Rime Spell) 超魔（霜冻法术）</td></tr>
-  <tr><td>Metamagic (Solid Shadows) 超魔（真实阴影）</td></tr>
-  <tr><td>Metamagic (Elemental Spell) 超魔（元素魔法）</td></tr>
-  <tr><td>Ability Focus - Stunning Fist </td></tr>
-  <tr><td>Animal Ally </td></tr>
-  <tr><td>Celestial Servant </td></tr>
-  <tr><td>Dervish Dance </td></tr>
-  <tr><td>Dispel Focus </td></tr>
-  <tr><td>Greater Dispel Focus </td></tr>
-  <tr><td>Erastil's Blessing </td></tr>
-  <tr><td>Expanded Spell Kenning </td></tr>
-  <tr><td>Extra Arcana </td></tr>
-  <tr><td>Extra Arcanist Exploit </td></tr>
-  <tr><td>Extra Discovery </td></tr>
-  <tr><td>Extra Hex </td></tr>
-  <tr><td>Extra Ki </td></tr>
-  <tr><td>Extra Mercy </td></tr>
-  <tr><td>Extra Reservoir </td></tr>
-  <tr><td>Extra Revelation </td></tr>
-  <tr><td>Extra Rogue Talent </td></tr>
-  <tr><td>Extra Slayer Talent </td></tr>
+<tr><td rowspan="59">专长和职业特性</td>
+  <tr><td>Metamagic (Burning Spell) 超魔（燃烧法术）：火酸法术附加持续伤害</td></tr>
+  <tr><td>Metamagic (Encouraging Spell) 超魔（激励法术）：增加士气加值</td></tr>
+  <tr><td>Metamagic (Flaring Spell) 超魔（闪耀法术）：火光电法术使敌人眩晕</td></tr>
+  <tr><td>Metamagic (Intensified Spell) 超魔（强化法术）：增加伤害骰数量上限</td></tr>
+  <tr><td>Metamagic (Piercing Spell) 超魔（法术穿刺）：降低对方有效法术抗力</td></tr>
+  <tr><td>Metamagic (Rime Spell) 超魔（霜冻法术）：寒冷法术纠缠敌人</td></tr>
+  <tr><td>Metamagic (Solid Shadows) 超魔（真实阴影）：提高阴影真实度</td></tr>
+  <tr><td>Metamagic (Elemental Spell) 超魔（元素魔法）：转变法术伤害类型</td></tr>
+  <tr><td>Ability Focus - Stunning Fist 能力专攻-震慑拳：提高震慑拳DC</td></tr>
+  <tr><td>Animal Ally 动物盟友：获得动物伙伴</td></tr>
+  <tr><td>Celestial Servant 天界仆从：动物伙伴获得天界模板</td></tr>
+  <tr><td>Dervish Dance 致命舞步：当你持有一把弯刀且另一手空置时，你用敏捷取代力量作为伤害调整值。此外你将弯刀视为刺击而非挥砍武器</td></tr>
+  <tr><td>Dispel Focus 解法专攻：尝试解除魔法时，在施法者等级检定上获得+2加值</td></tr>
+  <tr><td>Greater Dispel Focus 高等解法专攻：楼上再+2</td></tr>
+  <tr><td>Erastil's Blessing 猎手祝福：用感知取代敏捷作为用弓进行远程攻击的攻击调整值</td></tr>
+  <tr><td>Expanded Spell Kenning 扩充法术认知：你使用法术认知时，你还可以从德鲁伊或巫师法表中选取法术</td></tr>
+  <tr><td>Extra Arcana 额外魔战士奥秘</td></tr>
+  <tr><td>Extra Arcanist Exploit 额外奥能技艺</td></tr>
+  <tr><td>Extra Discovery 额外医学发现</td></tr>
+  <tr><td>Extra Hex 额外巫术</td></tr>
+  <tr><td>Extra Ki 额外气海池</td></tr>
+  <tr><td>Extra Mercy 额外救赎</td></tr>
+  <tr><td>Extra Reservoir 额外奥能点</td></tr>
+  <tr><td>Extra Revelation 额外启示</td></tr>
+  <tr><td>Extra Rogue Talent 额外游荡者天赋</td></tr>
+  <tr><td>Extra Slayer Talent 额外杀手绝技</td></tr>
   <tr><td>Graceful Athlete </td></tr>
   <tr><td>Improved Channel </td></tr>
   <tr><td>Lunge </td></tr>
