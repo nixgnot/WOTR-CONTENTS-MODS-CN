@@ -107,13 +107,13 @@
       其他职业还各自有不同的巅峰选择，例如法师可以获得额外法术位，在此不再一一列出。
       </td></tr>
 <tr><td rowspan="6">法术</td>
-      <td>Cloak of Winds 风之斗篷 - 敌方远程攻击受到惩罚</td></tr>
-  <tr><td>Long Arm 长臂咒 - 增加触及</td></tr>
-  <tr><td>Mage's Disjunction <b>法师裂解术</b> - 无豁免驱散并使得魔法物品失效，逆天</td></tr>
-  <tr><td>Shadow Enchantment 阴影惑控 - 幻术系模拟惑控</td></tr>
-  <tr><td>Shadow Enchantment Greater 高等阴影惑控 - 楼上的高级版</td></tr>
-  <tr><td>Stunning Barrier Greater 重型重创壁垒 - 防御法术</td></tr>
-<tr><td rowspan="16">专长</td>
+      <td>Cloak of Winds 风之斗篷：敌方远程攻击受到惩罚</td></tr>
+  <tr><td>Long Arm 长臂咒：增加触及</td></tr>
+  <tr><td>Mage's Disjunction <b>法师裂解术</b>：无豁免驱散并使得魔法物品失效，逆天</td></tr>
+  <tr><td>Shadow Enchantment 阴影惑控：幻术系模拟惑控</td></tr>
+  <tr><td>Shadow Enchantment Greater 高等阴影惑控：楼上的高级版</td></tr>
+  <tr><td>Stunning Barrier Greater 重型重创壁垒：防御法术</td></tr>
+<tr><td rowspan="58">专长</td>
   <tr><td>Metamagic (Burning Spell) 超魔（燃烧法术）</td></tr>
   <tr><td>Metamagic (Encouraging Spell) 超魔（激励法术）</td></tr>
   <tr><td>Metamagic (Flaring Spell) 超魔（闪耀法术）</td></tr>
@@ -122,116 +122,56 @@
   <tr><td>Metamagic (Rime Spell) 超魔（霜冻法术）</td></tr>
   <tr><td>Metamagic (Solid Shadows) 超魔（真实阴影）</td></tr>
   <tr><td>Metamagic (Elemental Spell) 超魔（元素魔法）</td></tr>
- 
-
-
-
-Ability Focus - Stunning Fist
-Add +2 to the DC for all saving throws against your stunning fist.
-Animal Ally
-You gain an animal companion as if you were a druid of your character level -3. Unlike normal animals of its kind, an animal companion's Hit Dice, abilities, skills, and feats advance as you advance in level.
-Celestial Servant
-Your animal companion, familiar, or mount gains the celestial template and becomes a magical beast, though you may still treat it as an animal when using Handle Animal, wild empathy, or any other spells or class abilities that specifically affect animals.
-Dervish Dance
-When wielding a scimitar with one hand, you can use your Dexterity modifier instead of your Strength modifier on melee attack and damage rolls.
-Dispel Focus
-Whenever you attempt a dispel check based on your caster level, you gain a +2 bonus to the check.
-Greater Dispel Focus
-Whenever you attempt a dispel check based on your caster level, you gain a +2 bonus to the check. This stacks with the bonus from Dispel Focus.
-Erastil's Blessing
-You can use your Wisdom modifier instead of your Dexterity modifier on ranged attack rolls when using a bow.
-Expanded Spell Kenning
-When you use your spell kenning class feature, you can select a spell from either the druid or the witch spell list.
-Extra Arcana
-You gain one additional magus arcana. You must meet all the prerequisites for this magus arcana.
-Extra Arcanist Exploit
-You gain one additional arcanist exploit. You must meet the prerequisites for this arcanist exploit.
-Extra Discovery
-You gain one additional discovery. You must meet all of the prerequisites for this discovery.
-Extra Hex
-You gain one additional hex. You must meet the prerequisites for this hex.
-Extra Ki
-Your ki pool increases by 2.
-Extra Mercy
-Select one additional mercy for which you qualify. When you use lay on hands to heal damage to one target, it also receives the additional effects of this mercy.
-Extra Reservoir
-You gain 3 more points in your arcane reservoir, and the maximum number of points in your arcane reservoir increases by that amount.
-Extra Revelation
-You gain one additional revelation. You must meet all of the prerequisites for this revelation.
-Extra Rogue Talent
-You gain one additional rogue talent. You must meet all of the prerequisites for this rogue talent.
-Extra Slayer Talent
-You gain one additional slayer talent. You must meet the prerequisites for this slayer talent.
-Graceful Athlete
-Add your Dexterity modifier instead of your Strength bonus to Athletics checks.
-Improved Channel
-Add 2 to the DC of saving throws made to resist the effects of your channel energy ability.
-Lunge
-You can increase the reach of your melee attacks by 5 feet until the end of your turn by taking a –2 penalty to your AC until your next turn.
-Lunging Spell Touch
-You can increase the reach of your spells’ melee touch attacks by 5 feet until the end of your turn by taking a –2 penalty to your AC until your next turn. You must decide to use this ability before you attempt any attacks on your turn.
-Magical Aptitude
-You get a +2 bonus on Knowledge (Arcana) and Use Magic Device skill checks. If you have 10 or more ranks in one of these skills, the bonus increases to +4 for that skill.
-Mantis Style
-You gain one additional Stunning Fist attempt per day. While using this style, you gain a +2 bonus to the DC of effects you deliver with your Stunning Fist.
-Mantis Wisdom
-Treat half your levels in classes other than monk as monk levels for determining effects you can apply to a target of your Stunning Fist per the Stunning Fist monk class feature. While using Mantis Style, you gain a +2 bonus on unarmed attack rolls with which you are using Stunning Fist attempts.
-Mantis Torment
-While using Mantis Style, you make an unarmed attack that expends two daily attempts of your Stunning Fist. If you hit, your opponent must succeed at a saving throw against your Stunning Fist or become dazzled and staggered with crippling pain until the start of your next turn, and at that point the opponent becomes fatigued.
-Mounted Skirmisher
-If your mount moves its speed or less, you can still take a full-attack action.
-Nature Soul
-You get a +2 bonus on all Lore (Nature) checks and Perception checks. If you have 10 or more ranks in one of these skills, the bonus increases to +4 for that skill.
-Two-Weapon Defense
-When wielding a double weapon or two weapons (not including natural weapons or unarmed strikes), you gain a +1 shield bonus to your AC. When you are fighting defensively this shield bonus increases to +2.
-Quick Channel
-You may channel energy as a move action by spending 2 daily uses of that ability.
-Quick Draw
-You can draw a weapon as a free action instead of as a move action.
-Quicken Blessing
-Choose one of your blessings that normally requires a standard action to use. You can expend two of your daily uses of blessings to deliver that blessing (regardless of whether it’s a minor or major effect) as a swift action instead.
-Riving Strike
-If you have a weapon that is augmented by your Arcane Strike feat, when you damage a creature with an attack made with that weapon, that creature takes a –2 penalty on saving throws against spells and spell-like abilities. This effect lasts for 1 round.
-Scholar
-You get a +2 bonus on Knowledge (Arcana) and Knowledge (World) skill checks. If you have 10 or more ranks in one of these skills, the bonus increases to +4 for that skill.
-Self-Sufficient
-You get a +2 bonus on Lore (Nature) and Lore (Religion) skill checks. If you have 10 or more ranks in one of these skills, the bonus increases to +4 for that skill.
-Shingle Runner
-You get a +2 bonus on Athletics and Mobility skill checks. If you have 10 or more ranks in one of these skills, the bonus increases to +4 for that skill.
-Greater Spell Specialization
-By sacrificing a prepared spell of the same or higher level than your specialized spell, you may spontaneously cast your specialized spell. The specialized spell is treated as its normal level, regardless of the spell slot used to cast it.
-Stalwart
-While fighting defensively or using Combat Expertise, you can forgo the dodge bonus to AC you would normally gain to instead gain an equivalent amount of DR, to a maximum of DR 5/', until the start of your next turn.
-Improved Stalwart
-Double the DR you gain from Stalwart, to a maximum of DR 10/-.
-Trick Riding
-You can make a check using Mounted Combat to negate a hit on your mount twice per round instead of just once.
-Undersized Mount
-You can ride creatures equal to your own size category instead of only creatures larger than you.
-Varisian Tattoo
-Select a school of magic in which you have Spell Focus. Spells from this school are cast at +1 caster level.
-Armor Mastery Feats
-
-Intense Blows
-When wearing heavy armor and using Power Attack, you gain a +1 bonus to your CMD until the beginning of your next turn. When your base attack bonus reaches +4, and every 4 points thereafter, this bonus increases by another 1.
-Knocking Blows
-While wearing heavy armor if you hit a creature that is no more than one size category larger than you with a Power Attack, the creature you attacked is also knocked off balance. Until the beginning of your next turn, it takes a –4 penalty to its CMD against combat maneuvers that move it or knock it prone.
-Secured Armor
-When you are hit by a confirmed critical hit or a sneak attack while wearing medium or heavy armor, there is a 25% chance that the critical hit or sneak attack is negated and damage is instead rolled normally. Special: This chance stacks with the light fortification and moderate fortification armor special abilities.
-Sprightly Armor
-While wearing light armor you add your armor’s enhancement bonus as a bonus on your initiative checks.
-Shield Mastery Feats
-
-Defended Movement
-You gain a +2 bonus to your AC against attacks of opportunity.
-Stumbling Bash
-Creatures struck by your shield bash take a –2 penalty to their AC until the end of your next turn.
-Toppling Bash
-As a swift action when you hit a creature with a shield bash, you can attempt a trip combat maneuver against that creature at a –5 penalty. This does not provoke an attack of opportunity.
-Tower Shield Specialist
-You reduce the armor check penalty for tower shields by 3, and if you have the armor training class feature, you modify the armor check penalty and maximum Dexterity bonus of tower shields as if they were armor.
-
-  
+  <tr><td>Ability Focus - Stunning Fist </td></tr>
+  <tr><td>Animal Ally </td></tr>
+  <tr><td>Celestial Servant </td></tr>
+  <tr><td>Dervish Dance </td></tr>
+  <tr><td>Dispel Focus </td></tr>
+  <tr><td>Greater Dispel Focus </td></tr>
+  <tr><td>Erastil's Blessing </td></tr>
+  <tr><td>Expanded Spell Kenning </td></tr>
+  <tr><td>Extra Arcana </td></tr>
+  <tr><td>Extra Arcanist Exploit </td></tr>
+  <tr><td>Extra Discovery </td></tr>
+  <tr><td>Extra Hex </td></tr>
+  <tr><td>Extra Ki </td></tr>
+  <tr><td>Extra Mercy </td></tr>
+  <tr><td>Extra Reservoir </td></tr>
+  <tr><td>Extra Revelation </td></tr>
+  <tr><td>Extra Rogue Talent </td></tr>
+  <tr><td>Extra Slayer Talent </td></tr>
+  <tr><td>Graceful Athlete </td></tr>
+  <tr><td>Improved Channel </td></tr>
+  <tr><td>Lunge </td></tr>
+  <tr><td>Lunging Spell Touch </td></tr>
+  <tr><td>Magical Aptitude </td></tr>
+  <tr><td>Mantis Style </td></tr>
+  <tr><td>Mantis Wisdom </td></tr>
+  <tr><td>Mantis Torment </td></tr>
+  <tr><td>Mounted Skirmisher </td></tr>
+  <tr><td>Nature Soul </td></tr>
+  <tr><td>Two-Weapon Defense </td></tr>
+  <tr><td>Quick Channel </td></tr>
+  <tr><td>Quick Draw </td></tr>
+  <tr><td>Quicken Blessing </td></tr>
+  <tr><td>Riving Strike </td></tr>
+  <tr><td>Scholar </td></tr>
+  <tr><td>Self-Sufficient </td></tr>
+  <tr><td>Shingle Runner </td></tr>
+  <tr><td>Greater Spell Specialization </td></tr>
+  <tr><td>Stalwart </td></tr>
+  <tr><td>Improved Stalwart </td></tr>
+  <tr><td>Trick Riding </td></tr>
+  <tr><td>Undersized Mount </td></tr>
+  <tr><td>Varisian Tattoo </td></tr>
+  <tr><td>Armor Mastery Feats - Intense Blows</td></tr>
+  <tr><td>Armor Mastery Feats - Knocking Blows</td></tr>
+  <tr><td>Armor Mastery Feats - Secured Armor</td></tr>
+  <tr><td>Armor Mastery Feats - Sprightly Armor</td></tr>
+  <tr><td>Defended Movement </td></tr>
+  <tr><td>Stumbling Bash </td></tr>
+  <tr><td>Toppling Bash </td></tr>
+  <tr><td>Tower Shield Specialist </td></tr>  
 </table>
 
 -------------------------------------------
