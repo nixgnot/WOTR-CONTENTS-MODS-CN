@@ -90,7 +90,7 @@
 <tr><td>基础能力</td>
     <td>单手持用：在加载TableTopTweaks后，许多需要你空出一只手的能力*真的*需要你空出一只手。激活此能力以强制单手握持你的武器，你会因此只能将1倍调整值应用在伤害上而不是1.5倍。</td>
 </tr> 
-<tr><td rowspan="7">变体</td>
+  <tr><td rowspan="7">变体</td>
       <td>Arcanist - Elemental Master 奥能师 - 元素大师</td></tr>
   <tr><td>Bloodrager - Metamagic Rager 血怒者 - 超魔狂怒者</td></tr>
   <tr><td>Cleric - Channeler Of The Unknown 牧师 - 熵化导能师</td></tr>
@@ -98,7 +98,7 @@
   <tr><td>Druid - NatureFang 德鲁伊 - 自然之牙</td></tr>
   <tr><td>Warpriest - Divine Commander 战争祭祀 - 神圣骑手</td></tr>
   <tr><td>Witch - Cauldron Witch 巫师 - 炼药巫师</td></tr>
-<tr><td>巅峰</td>
+  <tr><td>巅峰</td>
       <td>TTT新增，当一个角色在某一职业上达到20级可以选择一个巅峰奖励。部分巅峰只供特定职业选择，另外一些则为通用。<br>
         原版游戏中已经有不少职业拥有所谓“20级大招”。在TTT中将其与巅峰进行了整合。你可以在选择巅峰时选择原有“20级大招”，但是如此你便不能选择其他巅峰奖励。<br>
         <b>重要</b>：若角色通过变体更换了职业原本的“20级大招”，那么他也无法选择其他巅峰，这条规则对<b>其他MOD职业</b>同样适用<br>
@@ -107,15 +107,15 @@
       <b>推陈出新</b>：通用巅峰。职业具有至少4个奖励战斗专长可以选择。再获得4个奖励战斗专长。<br>
       其他职业还各自有不同的巅峰选择，例如法师可以获得额外法术位，在此不再一一列出。
       </td></tr>
-<tr><td rowspan="6">法术</td>
+  <tr><td rowspan="6">法术</td>
       <td>Cloak of Winds 风之斗篷：敌方远程攻击受到惩罚</td></tr>
   <tr><td>Long Arm 长臂咒：增加触及</td></tr>
   <tr><td>Mage's Disjunction <b>法师裂解术</b>：无豁免驱散/过穿戴者意志豁免使得魔法物品失效，逆天</td></tr>
   <tr><td>Shadow Enchantment 阴影惑控：幻术系模拟惑控</td></tr>
   <tr><td>Shadow Enchantment Greater 高等阴影惑控：楼上的高级版</td></tr>
   <tr><td>Stunning Barrier Greater 重型重创壁垒：防御法术</td></tr>
-<tr><td rowspan="59">专长和职业特性</td>
-  <tr><td>Metamagic (Burning Spell) 超魔（燃烧法术）：火酸法术附加持续伤害</td></tr>
+  <tr><td rowspan="58">专长和职业特性</td>
+      <td>Metamagic (Burning Spell) 超魔（燃烧法术）：火酸法术附加持续伤害</td></tr>
   <tr><td>Metamagic (Encouraging Spell) 超魔（激励法术）：增加士气加值</td></tr>
   <tr><td>Metamagic (Flaring Spell) 超魔（闪耀法术）：火光电法术使敌人眩晕</td></tr>
   <tr><td>Metamagic (Intensified Spell) 超魔（强化法术）：增加伤害骰数量上限</td></tr>
@@ -174,7 +174,7 @@
   <tr><td>Toppling Bash 倾覆盾击：盾击附带绊摔</td></tr>
   <tr><td>Tower Shield Specialist 塔盾专家：减少塔盾处罚</td></tr>  
   
-<tr><td rowspan="59">神话专长</td>
+  <tr><td rowspan="10">神话专长</td>
       <td>Cleave (Mythic) 顺势斩（神话）：你能够顺势劈砍触及中的任何敌人</td></tr>
   <tr><td>Critical Focus (Mythic) 重击专攻（神话）：自动确认对非神话对手的重击威胁，护命类需要确认2次</td></tr> 
   <tr><td>Combat Expertise (Mythic) 寓守于攻（神话）：寓守于攻获得额外两点AC的闪避加值</td></tr> 
@@ -185,6 +185,10 @@
   <tr><td>Two-Weapon Defense (Mythic) 双武器防御（神话）：双武器防御额外附加你的武器中增强加值较高者的增强加值作为盾牌AC</td></tr> 
   <tr><td>Warrior Priest (Mythic) 信仰战士（神话）：你在先攻和专注上获得神话等级一半的加值</td></tr> 
   <tr><td>Titan Strike 泰坦之力：徒手攻击的伤害骰提升一级。此外，你在你的所有战技检定和震慑拳的DC上附加你的对手的体型比中型大的级数作为加值</td></tr> 
+  <tr><td rowspan="10">神话专长</td>
+      <td>Cleave (Mythic) 顺势斩（神话）：你能够顺势劈砍触及中的任何敌人</td></tr>
+  
+  <tr><td rowspan="18">神话能力</td>
 
     
 
