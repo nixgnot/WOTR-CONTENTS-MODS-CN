@@ -109,7 +109,7 @@
 <tr><td rowspan="6">法术</td>
       <td>Cloak of Winds 风之斗篷：敌方远程攻击受到惩罚</td></tr>
   <tr><td>Long Arm 长臂咒：增加触及</td></tr>
-  <tr><td>Mage's Disjunction <b>法师裂解术</b>：无豁免驱散并使得魔法物品失效，逆天</td></tr>
+  <tr><td>Mage's Disjunction <b>法师裂解术</b>：无豁免驱散/过穿戴者意志豁免使得魔法物品失效，逆天</td></tr>
   <tr><td>Shadow Enchantment 阴影惑控：幻术系模拟惑控</td></tr>
   <tr><td>Shadow Enchantment Greater 高等阴影惑控：楼上的高级版</td></tr>
   <tr><td>Stunning Barrier Greater 重型重创壁垒：防御法术</td></tr>
