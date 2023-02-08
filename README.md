@@ -185,11 +185,26 @@
   <tr><td>Two-Weapon Defense (Mythic) 双武器防御（神话）：双武器防御额外附加你的武器中增强加值较高者的增强加值作为盾牌AC</td></tr> 
   <tr><td>Warrior Priest (Mythic) 信仰战士（神话）：你在先攻和专注上获得神话等级一半的加值</td></tr> 
   <tr><td>Titan Strike 泰坦之力：徒手攻击的伤害骰提升一级。此外，你在你的所有战技检定和震慑拳的DC上附加你的对手的体型比中型大的级数作为加值</td></tr> 
-  <tr><td rowspan="10">神话专长</td>
-      <td>Cleave (Mythic) 顺势斩（神话）：你能够顺势劈砍触及中的任何敌人</td></tr>
   
-  <tr><td rowspan="18">神话能力</td>
-
+  <tr><td rowspan="17">神话能力</td>
+      <td>Abundant Blessing 无穷祝福</td></tr>
+  <tr><td>Abundant Bombs 无穷炸弹</td></tr>
+  <tr><td>Abundant Lay On Hands 无穷圣疗</td></tr>
+  <tr><td>Abundant Incense 无穷调香</td></tr>
+  <tr><td>Abundant Fervor 无尽热诚</td></tr>
+  <tr><td>Abundant Spell Kenning 充裕法术认知</td></tr>
+  <tr><td>Armored Might 超凡护甲：提高盔甲AC</td></tr>
+  <tr><td>Armor Master 神话护甲大师(重甲)：完全忽略重甲处罚</td></tr>
+  <tr><td>Enhanced Blessings 强效祝福：祝福的持续时间翻倍</td></tr>
+  <tr><td>Favorite Metamagic 偏好超魔（增加可选种类）</td></tr>
+  <tr><td>Harmonious Mage 奥术调谐：准备对立学派的法术不再需要额外一个法术槽</td></tr>
+  <tr><td>Impossible Blessing 奇迹祝福：获得一项额外祝福，忽略先决条件</td></tr>
+  <tr><td>Impossible Speed 非凡神速：提高移动速度</td></tr>
+  <tr><td>Mounted Maniac 疯狂骑手：骑乘冲锋时对周围30尺的所有敌人尝试打击士气</td></tr>
+  <tr><td>Mythic Spell Combat 神话法术战斗：魔战士可以用任何道途法术书的法术施展法术战斗</td></tr>
+  <tr><td>Precision Critical 精准重击：当你确认一次重击，将所有精准伤害的伤害骰乘二</td></tr>
+  <tr><td>Second Patron 第二庇护主</td></tr>
+  
     
 
 
