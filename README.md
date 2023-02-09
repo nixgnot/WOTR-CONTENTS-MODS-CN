@@ -6,8 +6,9 @@
 + 特别注意，本文档作者的游戏理解还是新手，很可能评价并不贴切。
 + 强烈建议先行阅读[正义之怒MOD教程](https://github.com/1onepower/KM-WotR_Modding_Wiki/blob/main/%E4%B8%AD%E6%96%87%E7%89%88.md) （1onepower）。该文档含有详细的**UMM安装教程**和部分MOD介绍，但文档时间较早，部分MOD可能已经失效。
 
+
 ## 目录
-[TOC]
+
 - [基础知识](#前置安装)
   - [UMM的安装](#UMM的安装)
   - [MOD须知](#MOD须知)
@@ -19,9 +20,9 @@
 - [MOD列表](#MOD列表)
   - [TabletopTweaks-Base](#TabletopTweaks-Base)
   - [TabletopTweaks-Reworks](#TabletopTweaks-Reworks)
-  - [Microscopic Content Expansion](#Microscopic Content Expansion)
+  - [MicroscopicContentExpansion](#MicroscopicContentExpansion)
   - [SparsSorcerousSundries](#SparsSorcerousSundries)
-  - [Tome Of The Firebird](#Tome Of The Firebird)
+  - [TomeOfTheFirebird](#TomeOfTheFirebird)
    
 ## 基础知识
 
@@ -249,7 +250,7 @@
 > **目前发现问题：灵使惊世神力改为了其他加值，但是文本描述依然是士气加值**
 
 -------------------------------------------
-### [Microscopic Content Expansion](https://github.com/alterasc/MicroscopicContentExpansion)
+### [MicroscopicContentExpansion](https://github.com/alterasc/MicroscopicContentExpansion)
 > *前置：* TabletopTweaks-Core<br>
 > *中文：* 无<br>
 > *安装方式：* UMM<br>
@@ -296,7 +297,7 @@
 </table>
 
 -------------------------------------------
-### [Tome Of The Firebird](https://github.com/pheonix99/TomeOfTheFirebird)
+### [TomeOfTheFirebird](https://github.com/pheonix99/TomeOfTheFirebird)
 > *前置：* TabletopTweaks-Core<br>
 > *中文：* 无<br>
 > *安装方式：* UMM<br>
