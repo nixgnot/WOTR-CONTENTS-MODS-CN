@@ -19,6 +19,9 @@
 - [MOD列表](#MOD列表)
   - [TabletopTweaks-Base](#TabletopTweaks-Base)
   - [TabletopTweaks-Reworks](#TabletopTweaks-Reworks)
+  - [Microscopic Content Expansion](#Microscopic Content Expansion)
+  - [SparsSorcerousSundries](#SparsSorcerousSundries)
+  - [Tome Of The Firebird](#Tome Of The Firebird)
    
 ## 基础知识
 
@@ -293,3 +296,9 @@
 </table>
 
 -------------------------------------------
+### [Tome Of The Firebird](https://github.com/pheonix99/TomeOfTheFirebird)
+> *前置：* TabletopTweaks-Core<br>
+> *中文：* 无<br>
+> *安装方式：* UMM<br>
+> *修改内容：* 物品、法术等<br>
+> 
