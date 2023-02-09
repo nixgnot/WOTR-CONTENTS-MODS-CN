@@ -309,7 +309,7 @@
 
 <table>
 <tr><th colspan="2">新增内容列表</th></tr> 
-  <tr><td rowspan="1">变体</td>
+  <tr><td>变体</td>
       <td>Magus - Eldritch Scion (Sage) 魔战士 - 奥法后继者（贤者）<br><b>注意不要和术士兼职</b></td></tr>
       
    <tr><td rowspan="12">法术<br><i>参阅PF文档</i></td>
@@ -325,20 +325,10 @@
     <tr><td>Spear Of Purity 纯善之矛</td></tr>
     <tr><td>Telekinetic Strikes 念力打击</td></tr>
     <tr><td>Burst Of Radiance 光耀爆发</td></tr>
-    
-    <tr><td rowspan="10">专长<br><i>参阅PF文档</i></td>
-       <td>Ability Focus- Breath Weapon 能力专攻 - 吐息武器：增加吐息攻击DC</td></tr>
-    <tr><td>Burn Resistance 超载抵抗：计算操念超载非致命伤害时将自己等级视为低2级计算</td></tr>
-    <tr><td>Extra Burn 额外超载：增加每日超载限制</td></tr>
-    <tr><td>Extended Buffer 额外念力缓冲：增加念力缓冲（MOD新增操念自带特性，减少一定量的超载）</td></tr>
-    <tr><td>Discordant Song 不谐之音：诗人歌曲。为盟友武器增加音波伤害，远程武器需要目标也在范围内</td></tr>
-    <tr><td>Prodigious Two-Weapon Fighting 有力双武器战斗：副手单手武器视为轻型，用力量属性代替敏捷属性来满足双武器系列专长的先决条件</td></tr>
-    <tr><td>Sundering Strike 破甲重击：原为破武重击，成功重击后附加击破武器，游戏中实为附加击破盔甲</td></tr>
-    <tr><td>Coordinated Shoot 准线规避：团队专长，如果同样有此专长的盟友威胁目标，远程攻击检定+1，如果该盟友再和其他盟友（可以无此专长）夹击目标，变为+2</td></tr>
-    <tr><td>Lastwall Phalanx 终焉之墙：团队专长，在对抗邪恶生物攻击的AC和豁免获得等同拥有此专长队友数量的崇圣加值</td></tr>
-    <tr><td>Swarm Strike 集群攻击：团队专长，敌人引起借机攻击时，你的攻击得到＋1加值，每多一个拥有此专长并威胁该敌人的盟友再＋1</td></tr>
-    <tr><td>Armor Of The Pit 深渊铠甲：魔裔种族专长，天生防御+2</td></tr>
-    
+  
+  </table>  
+   
+
      <tr><td >圣武士圣疗救赎</td>
        <td>Injured 救赎创伤（给予快速治疗）、Ensorcelled 救赎蛊惑（驱散，可对敌）</td></tr>
        
@@ -354,5 +344,19 @@
      <tr><td>原力：Clockwork Heart 械动之心</td></tr>
      <tr><td>庇护主：Light 光耀、Animal 动物、 Protection 保护、Plague 疫病</td></tr>
      <tr><td>狂暴之力：Rage Stance Mastery 狂暴姿态大师：同时使用两种野蛮人姿态</td></tr>
-</table>
+     
+        <tr><td rowspan="10">专长<br><i>参阅PF文档</i></td>
+       <td>Ability Focus- Breath Weapon 能力专攻 - 吐息武器：增加吐息攻击DC</td></tr>
+    <tr><td>Burn Resistance 超载抵抗：计算操念超载非致命伤害时将自己等级视为低2级计算</td></tr>
+    <tr><td>Extra Burn 额外超载：增加每日超载限制</td></tr>
+    <tr><td>Extended Buffer 额外念力缓冲：增加念力缓冲（MOD新增操念自带特性，减少一定量的超载）</td></tr>
+    <tr><td>Discordant Song 不谐之音：诗人歌曲。为盟友武器增加音波伤害，远程武器需要目标也在范围内</td></tr>
+    <tr><td>Prodigious Two-Weapon Fighting 有力双武器战斗：副手单手武器视为轻型，用力量属性代替敏捷属性来满足双武器系列专长的先决条件</td></tr>
+    <tr><td>Sundering Strike 破甲重击：原为破武重击，成功重击后附加击破武器，游戏中实为附加击破盔甲</td></tr>
+    <tr><td>Coordinated Shoot 准线规避：团队专长，如果同样有此专长的盟友威胁目标，远程攻击检定+1，如果该盟友再和其他盟友（可以无此专长）夹击目标，变为+2</td></tr>
+    <tr><td>Lastwall Phalanx 终焉之墙：团队专长，在对抗邪恶生物攻击的AC和豁免获得等同拥有此专长队友数量的崇圣加值</td></tr>
+    <tr><td>Swarm Strike 集群攻击：团队专长，敌人引起借机攻击时，你的攻击得到＋1加值，每多一个拥有此专长并威胁该敌人的盟友再＋1</td></tr>
+    <tr><td>Armor Of The Pit 深渊铠甲：魔裔种族专长，天生防御+2</td></tr>
+  
+  
 + 重要改动：驱散魔法类现在成为了”安全法术“，只会驱散敌人身上的BUFF和我方身上的DEBUFF
