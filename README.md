@@ -312,7 +312,7 @@
   <tr><td rowspan="1">变体</td>
       <td>Magus - Eldritch Scion (Sage) 魔战士 - 奥法后继者（贤者）<br><b>注意不要和术士兼职</b></td></tr>
       
-   <tr><td rowspan="11">法术<br><i>参阅PF文档</i></td>
+   <tr><td rowspan="12">法术<br><i>参阅PF文档</i></td>
        <td>Bone Fists 骸骨之拳</td></tr>
     <tr><td>Chains Of Fire 火焰链：闪电链火焰版本</td></tr>
     <tr><td>Fire Shield 火焰护盾</td></tr>
