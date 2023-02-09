@@ -306,7 +306,7 @@
 > *安装方式：* UMM<br>
 > *修改内容：* 修复部分BUG，职业能力调整<br>
 > *新增内容：* 物品、法术等<br>
-
++ 重要改动：驱散魔法类现在成为了”安全法术“，只会驱散敌人身上的BUFF和我方身上的DEBUFF
 <table>
 <tr><th colspan="2">新增内容列表</th></tr> 
   <tr><td>变体</td>
@@ -354,5 +354,5 @@
    <tr><td>庇护主：Light 光耀、Animal 动物、 Protection 保护、Plague 疫病</td></tr>
    <tr><td>狂暴之力：Rage Stance Mastery 狂暴姿态大师：同时使用两种野蛮人姿态</td></tr>
    <tr><td>圣疗救赎：Injured 救赎创伤（给予快速治疗）、Ensorcelled 救赎蛊惑（驱散，可对敌）</td></tr>
-  </table>  
-+ 重要改动：驱散魔法类现在成为了”安全法术“，只会驱散敌人身上的BUFF和我方身上的DEBUFF
+ </table> 
+
