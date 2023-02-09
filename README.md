@@ -339,8 +339,7 @@
    <tr><td>Swarm Strike 集群攻击：团队专长，敌人引起借机攻击时，你的攻击得到＋1加值，每多一个拥有此专长并威胁该敌人的盟友再＋1</td></tr>
    <tr><td>Armor Of The Pit 深渊铠甲：魔裔种族专长，天生防御+2</td></tr>
   
-   <tr><td>圣武士圣疗救赎</td>
-       <td>Injured 救赎创伤（给予快速治疗）、Ensorcelled 救赎蛊惑（驱散，可对敌）</td></tr>
+
        
    <tr><td rowspan="2">物品</td>
        <td>Bracers Of The Merciful Knight 仁慈骑士护腕：阿尔西诺伊处购买，增加圣疗效果和次数</td></tr>
@@ -349,11 +348,12 @@
    <tr><td>神话能力</td>
        <td>Mythic Kinetic Aegis 神话念盾：视为拥有1点超载来计算原力-元素防御，在神话3/6/9各增加1点</td></tr>
        
-   <tr><td rowspan="3">职业特性</td>
+   <tr><td rowspan="5">职业特性</td>
        <td>血怒血承：Phoenix  凤凰血承，需要TabletopTweaks-Base</td></tr>
    <tr><td>原力：Clockwork Heart 械动之心</td></tr>
    <tr><td>庇护主：Light 光耀、Animal 动物、 Protection 保护、Plague 疫病</td></tr>
    <tr><td>狂暴之力：Rage Stance Mastery 狂暴姿态大师：同时使用两种野蛮人姿态</td></tr>
+   <tr><td>圣疗救赎：Injured 救赎创伤（给予快速治疗）、Ensorcelled 救赎蛊惑（驱散，可对敌）</td></tr>
 
   
   </table>  
