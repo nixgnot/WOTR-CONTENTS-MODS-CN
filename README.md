@@ -255,7 +255,7 @@
 <table>
 <tr><th colspan="2">新增内容列表</th></tr> 
    <tr><td>职业</td>
-       <td><b>Antipaladin 反圣武士</b>及变体：<b>Iron Tyrant 死骸骑士、Knight of the Sepulcher 钢铁暴君、暴君 Tyrant</b></td>
+       <td>Antipaladin 反圣武士及变体：Iron Tyrant 死骸骑士、Knight of the Sepulcher 钢铁暴君、Tyrant 暴君</td>
    <tr><td rowspan="12">专长</td>
        <td>Unsanctioned Knowledge 禁忌学识（反圣武士版）：添加其他职业法术到圣武士法表</td></tr>
    <tr><td>Snake Style 蛇拳：察言观色+2，徒手攻击可造成穿刺伤害</td></tr>
