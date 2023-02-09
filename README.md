@@ -222,7 +222,7 @@
   <tr><td rowspan="1">背景</td>
          <td>Lecturer 讲师： 将知识（世界）和沟通加入本职技能列表，并可以用智力取代魅力进行沟通检定</td></tr>
          
-  <tr><td rowspan="4">额外职业选项</td>
+  <tr><td rowspan="4">额外种族替换特性</td>
       <td>矮人：Stoutheart 坚定、Stoic Negotiator 坚毅谈判者</td></tr>
   <tr><td>精灵： Fierani 菲拉尼、Arcane Focus 奥术专攻、Long Limbed 长跑者、Moon Kissed 月吻者、Vigilance 警觉</td></tr>
   <tr><td>侏儒： Artisan 艺术家、Keen 敏锐、Fell Magic 凶狠魔法、Utilitarian Magic 实用主义魔法、Inquisitive 好奇、Nosophobia 恐惧症</td></tr>
