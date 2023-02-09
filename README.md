@@ -95,8 +95,7 @@
 <tr><th colspan="2">新增内容列表</th></tr> 
   <tr><td>基础能力</td>
     <td>单手持用：在加载TableTopTweaks后，许多需要你空出一只手的能力*真的*需要你空出一只手。激活此能力以强制单手握持你的武器，你会因此只能将1倍调整值应用在伤害上而不是1.5倍。</td>
-  </tr> 
-  
+  </tr>   
   <tr><td rowspan="7">变体</td>
       <td>Arcanist - Elemental Master 奥能师 - 元素大师</td></tr>
   <tr><td>Bloodrager - Metamagic Rager 血怒者 - 超魔狂怒者</td></tr>
@@ -113,8 +112,7 @@
       <b>伟兽</b>：通用巅峰。拥有动物伙伴可以选择。动物伙伴的力量、敏捷、体质与智慧各增加4。<br>
       <b>推陈出新</b>：通用巅峰。职业具有至少4个奖励战斗专长可以选择。再获得4个奖励战斗专长。<br>
       其他职业还各自有不同的巅峰选择，例如法师可以获得额外法术位，在此不再一一列出。
-      </td></tr>
-  
+      </td></tr>  
   <tr><td rowspan="6">法术</td>
       <td>Cloak of Winds 风之斗篷：敌方远程攻击受到惩罚</td></tr>
   <tr><td>Long Arm 长臂咒：增加触及</td></tr>
@@ -181,11 +179,9 @@
   <tr><td>Stumbling Bash 衰弱盾击：盾击降低对方AC</td></tr>
   <tr><td>Toppling Bash 倾覆盾击：盾击附带绊摔</td></tr>
   <tr><td>Tower Shield Specialist 塔盾专家：减少塔盾处罚</td></tr>  
-  <tr><td>Arcane Discoveries 奥术发现（法师）：Alchemical Affinity 炼金亲和、Idealize 理想化、Knowledge Is Power 知识就是力量、Opposition Research 禁制研究、Yuelral's Blessing 约尔拉的赐福</td></tr> 
-  
+  <tr><td>Arcane Discoveries 奥术发现（法师）：Alchemical Affinity 炼金亲和、Idealize 理想化、Knowledge Is Power 知识就是力量、Opposition Research 禁制研究、Yuelral's Blessing 约尔拉的赐福</td></tr>   
   <tr><td rowspan="1">新物品</td>
-     <td>新增超魔对应的超魔权杖（商人购买）</td></tr>
-  
+     <td>新增超魔对应的超魔权杖（商人购买）</td></tr>  
   <tr><td rowspan="10">神话专长</td>
       <td>Cleave (Mythic) 顺势斩（神话）：你能够顺势劈砍触及中的任何敌人</td></tr>
   <tr><td>Critical Focus (Mythic) 重击专攻（神话）：自动确认对非神话对手的重击威胁，护命类需要确认2次</td></tr> 
@@ -196,8 +192,7 @@
   <tr><td>Shatter Defenses (Mythic) 粉碎防御：受到你的粉碎防御影响的敌人对你的攻击视为措手不及</td></tr> 
   <tr><td>Two-Weapon Defense (Mythic) 双武器防御（神话）：双武器防御额外附加你的武器中增强加值较高者的增强加值作为盾牌AC</td></tr> 
   <tr><td>Warrior Priest (Mythic) 信仰战士（神话）：你在先攻和专注上获得神话等级一半的加值</td></tr> 
-  <tr><td>Titan Strike 泰坦之力：徒手攻击的伤害骰提升一级。此外，你在你的所有战技检定和震慑拳的DC上附加你的对手的体型比中型大的级数作为加值</td></tr> 
-  
+  <tr><td>Titan Strike 泰坦之力：徒手攻击的伤害骰提升一级。此外，你在你的所有战技检定和震慑拳的DC上附加你的对手的体型比中型大的级数作为加值</td></tr>   
   <tr><td rowspan="17">神话能力</td>
       <td>Abundant Blessing 无穷祝福</td></tr>
   <tr><td>Abundant Bombs 无穷炸弹</td></tr>
@@ -215,19 +210,16 @@
   <tr><td>Mounted Maniac 疯狂骑手：骑乘冲锋时对周围30尺的所有敌人尝试打击士气</td></tr>
   <tr><td>Mythic Spell Combat 神话法术战斗：魔战士可以用任何道途法术书的法术施展法术战斗</td></tr>
   <tr><td>Precision Critical 精准重击：当你确认一次重击，将所有精准伤害的伤害骰乘二</td></tr>
-  <tr><td>Second Patron 第二庇护主</td></tr>
-  
+  <tr><td>Second Patron 第二庇护主</td></tr>  
   <tr><td rowspan="6">职业特性</td>
       <td>血承：Aberrant 异怪血承、Destined 命运血承</td></tr>
   <tr><td>奥能技艺：Familiar 魔宠、Item Crafting 造物精通、Metamagic Knowledge 超魔学识、Quick Study 快速研读 </td></tr>
   <tr><td>战士进阶防具训练：Armored Confidence 自信着甲、Armored Juggernaut 盔甲主宰、Armor Specialization 重甲掌握、Critical Deflection 重击偏转、Steel Headbutt 钢铁头槌</td></tr>
   <tr><td>战士进阶武器训练：Defensive Weapon Training 防御式武器训练、 Focused Weapon 专注武器、Trained Grace 庖丁解牛、Trained Throw 精通投掷、Warrior Spirit 勇士之魂"</td></tr>
   <tr><td>魔战士奥秘：Broad Study 奥术扩展、Spell Blending 混合奥法 </td></tr>
-  <tr><td>游荡者天赋： Graceful Athlete 灵巧运动、Bleeding Attack 流血攻击、Emboldening Strike 鼓舞攻击</td></tr>
-    
+  <tr><td>游荡者天赋： Graceful Athlete 灵巧运动、Bleeding Attack 流血攻击、Emboldening Strike 鼓舞攻击</td></tr>    
   <tr><td rowspan="1">背景</td>
-         <td>Lecturer 讲师： 将知识（世界）和沟通加入本职技能列表，并可以用智力取代魅力进行沟通检定</td></tr>
-         
+         <td>Lecturer 讲师： 将知识（世界）和沟通加入本职技能列表，并可以用智力取代魅力进行沟通检定</td></tr>         
   <tr><td rowspan="4">额外种族替换特性</td>
       <td>矮人：Stoutheart 坚定、Stoic Negotiator 坚毅谈判者</td></tr>
   <tr><td>精灵： Fierani 菲拉尼、Arcane Focus 奥术专攻、Long Limbed 长跑者、Moon Kissed 月吻者、Vigilance 警觉</td></tr>
@@ -310,8 +302,7 @@
 <table>
 <tr><th colspan="2">新增内容列表</th></tr> 
   <tr><td>变体</td>
-      <td>Magus - Eldritch Scion (Sage) 魔战士 - 奥法后继者（贤者）<br><b>注意不要和术士兼职</b></td></tr>
-      
+      <td>Magus - Eldritch Scion (Sage) 魔战士 - 奥法后继者（贤者）<br><b>注意不要和术士兼职</b></td></tr>      
    <tr><td rowspan="12">法术<br><i>参阅PF文档</i></td>
        <td>Bone Fists 骸骨之拳</td></tr>
    <tr><td>Chains Of Fire 火焰链：闪电链火焰版本</td></tr>
@@ -324,8 +315,7 @@
    <tr><td>Keen Edge 锋锐术</td></tr>
    <tr><td>Spear Of Purity 纯善之矛</td></tr>
    <tr><td>Telekinetic Strikes 念力打击</td></tr>
-   <tr><td>Burst Of Radiance 光耀爆发</td></tr>
-  
+   <tr><td>Burst Of Radiance 光耀爆发</td></tr>  
    <tr><td rowspan="11">专长<br><i>参阅PF文档</i></td>
        <td>Ability Focus- Breath Weapon 能力专攻 - 吐息武器：增加吐息攻击DC</td></tr>
    <tr><td>Burn Resistance 超载抵抗：计算操念超载非致命伤害时将自己等级视为低2级计算</td></tr>
@@ -337,17 +327,12 @@
    <tr><td>Coordinated Shoot 准线规避：团队专长，如果同样有此专长的盟友威胁目标，远程攻击检定+1，如果该盟友再和其他盟友（可以无此专长）夹击目标，变为+2</td></tr>
    <tr><td>Lastwall Phalanx 终焉之墙：团队专长，在对抗邪恶生物攻击的AC和豁免获得等同拥有此专长队友数量的崇圣加值</td></tr>
    <tr><td>Swarm Strike 集群攻击：团队专长，敌人引起借机攻击时，你的攻击得到＋1加值，每多一个拥有此专长并威胁该敌人的盟友再＋1</td></tr>
-   <tr><td>Armor Of The Pit 深渊铠甲：魔裔种族专长，天生防御+2</td></tr>
-  
-
-       
+   <tr><td>Armor Of The Pit 深渊铠甲：魔裔种族专长，天生防御+2</td></tr>        
    <tr><td rowspan="2">物品</td>
        <td>Bracers Of The Merciful Knight 仁慈骑士护腕：阿尔西诺伊处购买，增加使用圣疗时的有效等级和使用次数</td></tr>
-   <tr><td>Bracers Of The Avenging Knight 复仇其实护腕：阿尔西诺伊处购买，增加使用破邪斩时的有效等级</td></tr>
-    
+   <tr><td>Bracers Of The Avenging Knight 复仇骑士护腕：阿尔西诺伊处购买，增加使用破邪斩时的有效等级</td></tr>    
    <tr><td>神话能力</td>
-       <td>Mythic Kinetic Aegis 神话念盾：视为拥有1点超载来计算原力-元素防御，在神话3/6/9各增加1点</td></tr>
-       
+       <td>Mythic Kinetic Aegis 神话念盾：视为拥有1点超载来计算原力-元素防御，在神话3/6/9各增加1点</td></tr>       
    <tr><td rowspan="5">职业特性</td>
        <td>血怒血承：Phoenix  凤凰血承，需要TabletopTweaks-Base</td></tr>
    <tr><td>原力：Clockwork Heart 械动之心</td></tr>
