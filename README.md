@@ -342,8 +342,8 @@
 
        
    <tr><td rowspan="2">物品</td>
-       <td>Bracers Of The Merciful Knight 仁慈骑士护腕：阿尔西诺伊处购买，增加圣疗效果和次数</td></tr>
-   <tr><td>Bracers Of The Avenging Knight 复仇其实护腕：阿尔西诺伊处购买，增加破邪斩效果和次数</td></tr>
+       <td>Bracers Of The Merciful Knight 仁慈骑士护腕：阿尔西诺伊处购买，增加使用圣疗时的有效等级和使用次数</td></tr>
+   <tr><td>Bracers Of The Avenging Knight 复仇其实护腕：阿尔西诺伊处购买，增加使用破邪斩时的有效等级</td></tr>
     
    <tr><td>神话能力</td>
        <td>Mythic Kinetic Aegis 神话念盾：视为拥有1点超载来计算原力-元素防御，在神话3/6/9各增加1点</td></tr>
