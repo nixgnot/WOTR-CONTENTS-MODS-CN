@@ -304,18 +304,18 @@
   <tr><td>变体</td>
       <td>Magus - Eldritch Scion (Sage) 魔战士 - 奥法后继者（贤者）<br><b>注意不要和术士兼职</b></td></tr>      
    <tr><td rowspan="12">法术<br><i>参阅PF文档</i></td>
-       <td>Bone Fists 骸骨之拳</td></tr>
+       <td>Bone Fists 骸骨之拳：增加天生防御和天生武器伤害</td></tr>
    <tr><td>Chains Of Fire 火焰链：闪电链火焰版本</td></tr>
-   <tr><td>Fire Shield 火焰护盾</td></tr>
+   <tr><td>Fire Shield 火焰护盾：攻击者受到火焰伤害并减免寒冷伤害，也有完全相反的寒冷版本</td></tr>
    <tr><td>Vitrolic Mist 硫酸雾甲：火焰护盾酸蚀版</td></tr>
-   <tr><td>Entropic Shield 熵光护盾</td></tr>
-   <tr><td>Freezing Sphere 冰封法球</td></tr>
-   <tr><td>Gloomblind bolts 黑盲矢</td></tr>
-   <tr><td>Heal Mount 医疗坐骑</td></tr>
-   <tr><td>Keen Edge 锋锐术</td></tr>
-   <tr><td>Spear Of Purity 纯善之矛</td></tr>
-   <tr><td>Telekinetic Strikes 念力打击</td></tr>
-   <tr><td>Burst Of Radiance 光耀爆发</td></tr>  
+   <tr><td>Entropic Shield 熵光护盾：偏转远程攻击</td></tr>
+   <tr><td>Freezing Sphere 冰封法球：寒冷伤害</td></tr>
+   <tr><td>Gloomblind bolts 黑盲矢：多发负能量飞弹，附带目盲</td></tr>
+   <tr><td>Heal Mount 医疗坐骑：效果如名字</td></tr>
+   <tr><td>Keen Edge 锋锐术：效果如名字</td></tr>
+   <tr><td>Spear Of Purity 纯善之矛：远程接触，对邪恶异界特效</td></tr>
+   <tr><td>Telekinetic Strikes 念力打击：徒手和天生武器附带力场伤害</td></tr>
+   <tr><td>Burst Of Radiance 光耀爆发：群体致盲，邪恶生物受到伤害</td></tr>  
    <tr><td rowspan="11">专长<br><i>参阅PF文档</i></td>
        <td>Ability Focus- Breath Weapon 能力专攻 - 吐息武器：增加吐息攻击DC</td></tr>
    <tr><td>Burn Resistance 超载抵抗：计算操念超载非致命伤害时将自己等级视为低2级计算</td></tr>
