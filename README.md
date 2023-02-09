@@ -275,5 +275,21 @@
    <tr><td>Blade of Dark Triumph 光辉胜利之刃（圣武士3）：<i>参阅PF文档</i>，强化神契武器</td></tr>
    <tr><td>武僧气力</td>
        <td>Deadly Juggernaut 死亡化身：同同名法术</td></tr> 
-
 </table>
+
+-------------------------------------------
+### [SparsSorcerousSundries](https://github.com/TheSparhawk/SparsSorcerousSundries)
+> *前置：* TabletopTweaks-Core<br>
+> *中文：* 无<br>
+> *安装方式：* UMM<br>
+> *修改内容：* 物品、法术等<br>
+
+<table>
+<tr><th colspan="2">新增内容列表</th></tr> 
+   <tr><td>前作武器</td>
+       <td>增加大约40件前作装备，在商人处购买（大部分在原游戏商人，同时第四章O院加入了一个新商人）</td>
+   <tr><td>其他</td>
+       <td>增加10件新物品，1个新法术</td></tr>
+</table>
+
+-------------------------------------------
