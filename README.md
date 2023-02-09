@@ -15,7 +15,7 @@
   - [GITHUB访问和MOD下载](#GITHUB访问和MOD下载)
   - [Nexus访问和MOD下载](#Nexus访问和MOD下载)
   - [前置MOD](#前置MOD)
-  - [汉化修正文件](#汉化修正文件)
+  - [汉化修正文件及其他说明](#汉化修正文件及其他说明)
 - [MOD列表](#MOD列表)
   - [TabletopTweaks-Base](#TabletopTweaks-Base)
   - [TabletopTweaks-Reworks](#TabletopTweaks-Reworks)
@@ -52,13 +52,13 @@
 1. [TabletopTweaks-Core](https://github.com/Vek17/TabletopTweaks-Core)（**核心必备**，绝大部分MOD的基础框架，本身不会进行任何改动。）
 2. [ModMenu](https://github.com/WittleWolfie/ModMenu)（**非必备**，一部分MOD使用的基础框架。会在游戏中选项里添加一个新的页面来进行MOD功能调整。）
 
-### 汉化修正文件
-+ 本文档上方会收集一些个人提供的MOD汉化或汉化修正文件，不定时更新。
-+ 可以点击上方code按钮中的Download Zip打包下载。
-+ 一般*UMM安装*的MOD，汉化文件的使用方法是直接替换游戏目录下\mods\对应mod名称\Localization\中同名文件即可。
-+ 但是某些MOD没有语言文件，有些替换后无效，我就不知道咋办了。
-+ 文档作者是代码盲，需要大佬协助233
-
+### 汉化修正文件及其他说明
++ 本文档上方会收集一些个人提供的**MOD汉化或汉化修正文件**，不定时更新。
++ 可以点击上方**code**按钮中的**Download Zip**打包下载素有附件。
++ 一般**UMM安装*的MOD，汉化文件的使用方法是直接替换游戏目录下\mods\对应mod名称\Localization\中同名文件即可。
++ 但是某些MOD没有语言文件，有些替换后无效，我就不知道咋办了。文档作者是代码盲，需要大佬协助233
++ **变体、专长等可以尝试在“Pathfinder v2.02简体”文档中搜索译文，本文档尽量提供中英文对照。**
++ 大部分MOD是对原规则的还原，对于较为复杂的职业、专长详情会标明<i>参阅PF文档</i>，但并不一定完全效果相同。
 -------------------------------------------
 
 ## MOD列表
@@ -66,7 +66,7 @@
 -------------------------------------------
 ### [TabletopTweaks-Base](https://github.com/Vek17/TabletopTweaks-Base)
 > *前置：* TabletopTweaks-Core<br>
-> *中文：* **自带中文（部分内容没更新，提供修复）**<br>
+> *中文：* **自带中文（部分内容没更新，本处提供修复）**<br>
 > *安装方式：* UMM<br>
 > *修改内容：* UI、核心规则、法术、专长、职业特性、神话能力、神话专长，等<br>
 > *新增内容：* 变体、巅峰、法术、专长、种族、背景，等<br>
@@ -89,9 +89,10 @@
 
 <table>
 <tr><th colspan="2">新增内容列表</th></tr> 
-<tr><td>基础能力</td>
+  <tr><td>基础能力</td>
     <td>单手持用：在加载TableTopTweaks后，许多需要你空出一只手的能力*真的*需要你空出一只手。激活此能力以强制单手握持你的武器，你会因此只能将1倍调整值应用在伤害上而不是1.5倍。</td>
-</tr> 
+  </tr> 
+  
   <tr><td rowspan="7">变体</td>
       <td>Arcanist - Elemental Master 奥能师 - 元素大师</td></tr>
   <tr><td>Bloodrager - Metamagic Rager 血怒者 - 超魔狂怒者</td></tr>
@@ -109,6 +110,7 @@
       <b>推陈出新</b>：通用巅峰。职业具有至少4个奖励战斗专长可以选择。再获得4个奖励战斗专长。<br>
       其他职业还各自有不同的巅峰选择，例如法师可以获得额外法术位，在此不再一一列出。
       </td></tr>
+  
   <tr><td rowspan="6">法术</td>
       <td>Cloak of Winds 风之斗篷：敌方远程攻击受到惩罚</td></tr>
   <tr><td>Long Arm 长臂咒：增加触及</td></tr>
@@ -232,7 +234,7 @@
 -------------------------------------------
 ### [TabletopTweaks-Reworks](https://github.com/Vek17/TabletopTweaks-Reworks)
 > *前置：* TabletopTweaks-Core<br>
-> *中文：* **自带中文（存在小问题）**<br>
+> *中文：* **自带中文（本处提供修复，但是依然存在小问题）**<br>
 > *安装方式：* UMM<br>
 > *修改内容：* 神话能力、神话专长，道途等<br>
 + **TTT**的扩展附件，主要集中在**神话道途**的修改
@@ -241,18 +243,37 @@
 > **充裕施法**数量减半<br>
 > **高等持久法术**现在只能对持续10分钟以上法术生效，再也没法轮级常驻了<br>
 + 其他还包括对神话偷袭的修改（从多1骰变为骰子放大1级）。对御衡、灵使、巫妖、诡计均有修改，尤其是诡计几乎大变样
-> 目前发现问题：灵使惊世神力改为了其他加值，但是文本描述依然是士气加值
+> **目前发现问题：灵使惊世神力改为了其他加值，但是文本描述依然是士气加值**
 
 -------------------------------------------
 ### [Microscopic Content Expansion](https://github.com/alterasc/MicroscopicContentExpansion)
 > *前置：* TabletopTweaks-Core<br>
 > *中文：* 无<br>
 > *安装方式：* UMM<br>
-> *修改内容：* 神话能力、神话专长，道途等<br>
-+ **TTT**的扩展附件，主要集中在**神话道途**的修改
-+ 对神话能力、神话专长、道途均有修改，也导致很多人不习惯
-> 比较重点（坑爹）的修改：<br>
-> **充裕施法**数量减半<br>
-> **高等持久法术**现在只能对持续10分钟以上法术生效，再也没法轮级常驻了<br>
-+ 其他还包括对神话偷袭的修改（从多1骰变为骰子放大1级）。对御衡、灵使、巫妖、诡计均有修改，尤其是诡计几乎大变样
-> 目前发现问题：灵使惊世神力改为了其他加值，但是文本描述依然是士气加值
+> *修改内容：* 职业、专长、法术等<br>
++ 特别注意。本MOD不依赖于[TabletopTweaks-Base](#TabletopTweaks-Base)，但是作者建议安装来获得完整功能。
+<table>
+<tr><th colspan="2">新增内容列表</th></tr> 
+   <tr><td>职业</td>
+       <td><b>Antipaladin 反圣武士</b>及变体：<b>Iron Tyrant 死骸骑士、Knight of the Sepulcher 钢铁暴君、暴君 Tyrant</b></td>
+   <tr><td rowspan="12">专长</td>
+       <td>Unsanctioned Knowledge 禁忌学识（反圣武士版）：添加其他职业法术到圣武士法表</td></tr>
+   <tr><td>Snake Style 蛇拳：察言观色+2，徒手攻击可造成穿刺伤害</td></tr>
+   <tr><td>Snake Sidewind 蛇行：使用蛇拳流派徒手时对抗击倒和地面效果的反射检定+4，徒手攻击重击确认+4</td></tr>
+   <tr><td>Snake Fang 白蛇吐信：使用蛇拳流派徒手时对方攻击失手后对其借机攻击</td></tr>
+   <tr><td>Startoss Style 散星式：<i>参阅PF文档</i>，投掷远程攻击增益</td></tr>
+   <tr><td>Startoss Comet 散星击：<i>参阅PF文档</i>，投掷二目标攻击</td></tr>
+   <tr><td>Startoss Shower 散星流光：<i>参阅PF文档</i>，投掷多目标攻击</td></tr>
+   <tr><td>Dimensional Agility 次元灵巧：<i>参阅PF文档</i>，次元门后继续行动</td></tr>
+   <tr><td>Dimensional Assault 次元突击：<i>参阅PF文档</i>，可作为冲锋的一部分释放次元门</td></tr>
+   <tr><td>Dimensional Dervish 次元狂舞：<i>参阅PF文档</i>，整轮攻击中，能够以迅捷动作使用次元门</td></tr>
+   <tr><td>Flickering Step 闪现步伐：可用类法术能力释放次元门</td></tr>
+   <tr><td>Crusader's Flurry 圣战连击：可以用神祇偏好的近战武器进行疾风连击</td></tr>
+   <tr><td rowspan="3">法术</td>
+       <td>Deadly Juggernaut 死亡化身（牧师3，审判官3，圣武士3，反圣武士3，战争祭祀3）：<i>参阅PF文档</i>，击杀对手获得奖励</td></tr>
+   <tr><td>Blade of Dark Triumph 黑暗祝胜之刃（反圣武士3）：<i>参阅PF文档</i>，强化神契武器</td></tr>
+   <tr><td>Blade of Dark Triumph 光辉胜利之刃（圣武士3）：<i>参阅PF文档</i>，强化神契武器</td></tr>
+   <tr><td>武僧气力</td>
+       <td>Deadly Juggernaut 死亡化身：同同名法术</td></tr> 
+
+</table>
