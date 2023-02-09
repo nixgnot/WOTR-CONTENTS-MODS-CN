@@ -209,7 +209,7 @@
   <tr><td>Precision Critical 精准重击：当你确认一次重击，将所有精准伤害的伤害骰乘二</td></tr>
   <tr><td>Second Patron 第二庇护主</td></tr>
   
-  <tr><td rowspan="7">额外职业选项</td>
+  <tr><td rowspan="6">额外职业选项</td>
       <td>血承：Aberrant 异怪血承、Destined 命运血承</td></tr>
   <tr><td>奥能技艺：Familiar 魔宠、Item Crafting 造物精通、Metamagic Knowledge 超魔学识、Quick Study 快速研读 </td></tr>
   <tr><td>战士进阶防具训练：Armored Confidence 自信着甲、Armored Juggernaut 盔甲主宰、Armor Specialization 重甲掌握、Critical Deflection 重击偏转、Steel Headbutt 钢铁头槌</td></tr>
