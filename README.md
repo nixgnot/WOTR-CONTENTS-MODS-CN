@@ -408,9 +408,12 @@
          <td>克苏鲁系11个信仰</td></tr>
   <tr><td>领域</td>
          <td>Void 虚空领域</td></tr>
-  <tr><td rowspan="2">神话能力</td>
+  <tr><td rowspan="5">神话能力</td>
        <td>Poison Vulnerability 透体之毒</td>
   <tr><td>Sustained Vulnerability 毒入骨髓</td></tr>
+  <tr><td><b>AC专属</b> - Abundant Casting(Homebrew) <b>连锁施法：一定次数唤回任意法术**</b></td></tr>
+  <tr><td><b>AC专属</b> - Empowered Bombs 增强炸弹：提高炼金炸弹伤害</td></tr>
+  <tr><td><b>AC专属</b> - Maximized Bombs 终极炸弹：炼金炸弹总是造成最大伤害</td></tr>
   <tr><td rowspan="2">神话专长</td>
        <td>Mythic Guided Hand 引导之手（神话）</td>
   <tr><td>Mythic Crossbow Training 神话弩箭训练</td></tr>
