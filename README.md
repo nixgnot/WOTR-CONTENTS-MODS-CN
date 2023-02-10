@@ -426,7 +426,7 @@
 > *前置：* 无<br>
 > *中文：* **汉化发布**<br>
 > *安装方式：* **UMM**<br>
-> *新增内容：* 大量信仰、变体、专长<br>
+> *新增内容：* 大量信仰、变体、专长等<br>
  <table>
  <tr><th colspan="2">新增内容列表<br>详细介绍可以参阅汉化发布贴或游戏内说明</th></tr> 
    <tr><td rowspan="2">职业</td>
@@ -447,4 +447,46 @@
    <tr><td>Ocean's Echo 先知 - 海洋回声</td></tr> 
    <tr><td>Draconic Shaman 萨满 - 龙族萨满</td></tr> 
    <tr><td>Draconic Scholar 奥能师 - 龙之学者</td></tr> 
+   <tr><td>基础动作</td>
+       <td>Aid Another 援助他人</td></tr>
+   <tr><td>专长</td>
+       <td>Swift Aid 迅速援助</td></tr>
+   <tr><td rowspan="2">神话能力</td>
+       <td>Mythic Drake 神话龙兽</td>
+   <tr><td>Impossible Subdomain 无限子域可能</td></tr>
+   <tr><td>信仰</td>
+       <td>**海量新信仰**</td></tr>
+   <tr><td>领域</td>
+       <td>Scalykind 鳞状</td></tr>
+   <tr><td>子领域</td>
+       <td>Agathion 阿加西翁、 Archon 亚空, Blood 血液、Caves 洞穴、Curse 诅咒、 Demon, Dragon 龙、Ferocity 凶猛、Ice 冰、Lust 欲望、Psychopomp 招魂、Rage 狂暴、 Resolve 决心、Restoration 恢复、Revelation 启示、Revolution 革命、Rivers 河流、Stars 星空、Storm 风暴、Thievery 盗窃、Undead 不死、Whimsy 滑稽、Wind 风</td></tr>
+   <tr><td>职业特性</td>
+       <td>先知秘示域：Dragon 龙、Heavens 天堂、Succor 救助</td></tr>
+   <tr><td>先知诅咒：Vampirism 吸血鬼</td></tr>
+   <tr><td rowspan="25">法术<br><i>参阅PF文档</i></td>
+       <td>Hydraulic push 水流冲击</td></tr>
+   <tr><td>Slipstream 滑流</td></tr>
+   <tr><td>Scourge of the Horsemen 天启诸骑的蹂躏</td></tr>
+   <tr><td>Rigor mortis 尸僵</td></tr>
+   <tr><td>Reviving Finale 重振谢幕曲</td></tr>
+   <tr><td>Deadly Finale 致命谢幕曲</td></tr>
+   <tr><td>Purging Finale 净化谢幕曲</td></tr>
+   <tr><td>Stunning Finale 惊叹谢幕曲</td></tr>
+   <tr><td>Hollow Blades 空心刀刃</td></tr>
+   <tr><td>Goodberry 神莓</td></tr>
+   <tr><td>Steam Ray Fusillade 蒸汽融化射线</td></tr>
+   <tr><td>Inflict Pain 痛苦创伤</td></tr>
+   <tr><td>Inflict Pain Mass 群体疼痛创伤</td></tr>
+   <tr><td>Gloomblind Bolts 阴暗飞弹</td></tr>
+   <tr><td>Fury of the Sun 太阳之怒</td></tr>
+   <tr><td>Invoke Deity 召唤神明</td></tr>
+   <tr><td>Wall of Fire 烈焰之墙</td></tr>
+   <tr><td>Zephyr's Fleetness 岚风敏捷</td></tr>
+   <tr><td>Hypnotic Pattern 催眠图纹</td></tr>
+   <tr><td>Clay Skin 粘土皮肤</td></tr>
+   <tr><td>Entropic Shield 熵能护盾</td></tr>
+   <tr><td>Shield of Fortification 强化之盾</td></tr>
+   <tr><td>Greater Shield of Fortification 极化护盾</td></tr>
+   <tr><td>Dance of a Hundred Cuts 百袭战舞</td></tr>
+   <tr><td>Dance of a Thousand Cuts 千袭战舞</td></tr>
  </table>   
