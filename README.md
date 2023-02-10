@@ -60,6 +60,7 @@
 + 本文档上方会收集一些个人提供的**MOD汉化或汉化修正文件**，不定时更新。
 + 可以点击上方**code**按钮中的**Download Zip**打包下载素有附件。
 + 一般**UMM安装*的MOD，汉化文件的使用方法是直接替换游戏目录下\mods\对应mod名称\Localization\中同名文件即可。
++ 对于**非UMM安装*的MOD，替换C:\Users\你的用户文件夹\AppData\LocalLow\Owlcat Games\Pathfinder Wrath Of The Righteous\Modifications\对应mod名称\Localization\中同名文件。
 + 但是某些MOD没有语言文件，有些替换后无效，我就不知道咋办了。文档作者是代码盲，需要大佬协助233
 + **变体、专长等可以尝试在“Pathfinder v2.02简体文档”（分卷压缩）中搜索译文，本文档尽量提供中英文对照。**
 + 大部分MOD是对原规则的还原，对于较为复杂的职业、专长详情会标明<i>参阅PF文档</i>，可在上述Pathfinder v2.02简体文档中查看，但实际MOD中并不一定完全效果相同。
@@ -97,13 +98,13 @@
     <td>单手持用：在加载TableTopTweaks后，许多需要你空出一只手的能力*真的*需要你空出一只手。激活此能力以强制单手握持你的武器，你会因此只能将1倍调整值应用在伤害上而不是1.5倍。</td>
   </tr>   
   <tr><td rowspan="7">变体</td>
-      <td>Arcanist - Elemental Master 奥能师 - 元素大师</td></tr>
-  <tr><td>Bloodrager - Metamagic Rager 血怒者 - 超魔狂怒者</td></tr>
-  <tr><td>Cleric - Channeler Of The Unknown 牧师 - 熵化导能师</td></tr>
-  <tr><td>Magus - Blade Bound 魔战士 - 剑缚者</td></tr>
-  <tr><td>Druid - NatureFang 德鲁伊 - 自然之牙</td></tr>
-  <tr><td>Warpriest - Divine Commander 战争祭祀 - 圣战指挥官</td></tr>
-  <tr><td>Witch - Cauldron Witch 巫师 - 炼药巫师</td></tr>
+      <td>Elemental Master 奥能师 - 元素大师</td></tr>
+  <tr><td>Metamagic Rager 血怒者 - 超魔狂怒者</td></tr>
+  <tr><td>Channeler Of The Unknown 牧师 - 熵化导能师</td></tr>
+  <tr><td>Blade Bound 魔战士 - 剑缚者</td></tr>
+  <tr><td>NatureFang 德鲁伊 - 自然之牙</td></tr>
+  <tr><td>Divine Commander 战争祭祀 - 圣战指挥官</td></tr>
+  <tr><td>Cauldron Witch 巫师 - 炼药巫师</td></tr>
   <tr><td>巅峰</td>
       <td>TTT新增，当一个角色在某一职业上达到20级可以选择一个巅峰奖励。部分巅峰只供特定职业选择，另外一些则为通用。<br>
         原版游戏中已经有不少职业拥有所谓“20级大招”。在TTT中将其与巅峰进行了整合。你可以在选择巅峰时选择原有“20级大招”，但是如此你便不能选择其他巅峰奖励。<br>
@@ -302,7 +303,7 @@
 <table>
 <tr><th colspan="2">新增内容列表</th></tr> 
   <tr><td>变体</td>
-      <td>Magus - Eldritch Scion (Sage) 魔战士 - 奥法后继者（贤者）<br><b>注意不要和术士兼职</b></td></tr>      
+      <td>Eldritch Scion (Sage) 魔战士 - 奥法后继者（贤者）<br><b>注意不要和术士兼职</b></td></tr>      
    <tr><td rowspan="12">法术<br><i>参阅PF文档</i></td>
        <td>Bone Fists 骸骨之拳：增加天生防御和天生武器伤害</td></tr>
    <tr><td>Chains Of Fire 火焰链：闪电链火焰版本</td></tr>
@@ -341,3 +342,51 @@
    <tr><td>圣疗救赎：Injured 救赎创伤（给予快速治疗）、Ensorcelled 救赎蛊惑（驱散，可对敌）</td></tr>
  </table> 
 
+-------------------------------------------
+### [HomebrewArchetypes](https://www.nexusmods.com/pathfinderwrathoftherighteous/mods/279?tab=description&BH=0)
++ [贴吧汉化帖](https://tieba.baidu.com/p/7977216047?pn=1)
++ **注意！Homebrew Archetypes不能使用UMM安装，可以使用ModFinder安装或者参考汉化帖手动安装**
+> *前置：* 无<br>
+> *中文：* **自带中文（缺少最新更新，此处提供补充）**<br>
+> *安装方式：* **非UMM**<br>
+> *修改内容：* 物品、变体和机制（AC）<br>
+> *新增内容：*大量变体，信仰、领域、专长、职业特性<br>
++ Homebrew Archetypes分为三个部分：
+  + 本体：核心内容
+  + AC：修改部分物品和机制，**队友入队等级变为1**
+  + ACTestingGrounds：将部分队友变为桌面版规则原职业或变体，未汉化
+  
+ <tr><th colspan="2">新增内容列表<br>详细介绍可以参阅汉化发布贴或游戏内说明</th></tr> 
+ 
+  <tr><td rowspan="2">职业</td>
+       <td>Investigator 调查员及变体：Jinyiwei 锦衣卫、Questioner 发问者、Empiricist 演绎家</td>
+  <tr><td>NPC职业：5个NPC用职业，基本白板</td></tr>
+  <tr><td rowspan="12">变体</td>
+         <td></td>Blood Arcanist 奥能师 - 血奥师</tr>
+  <tr><td>School Savant 奥能师 - 学派家</td></tr>
+  <tr><td>Hateful Rager 野蛮人 - 恨意狂暴者</td></tr>
+  <tr><td>Arcane Duelist 吟游诗人 - 奥术决斗者</td></tr>
+  <tr><td>Dervish of Dawn 吟游诗人 - 晨花狂舞者</td></tr>
+  <tr><td>Stonesinger 吟游诗人 - 石之歌者</td></tr>
+  <tr><td>Untouchable Rager 血怒者 - 抗咒狂怒者</td></tr>
+  <tr><td>Bloody-Knuckled Rowdy 血怒者 - 血暴铁拳</td></tr>
+  <tr><td>Green Knight 骑将 - 苍翠骑士</td></tr>
+  <tr><td>Evangelist 牧师 - 宣教士</td></tr>
+  <tr><td>Undead Lord 牧师 - 尸骸领主</td></tr>
+  <tr><td>Elder Mythos Cultist 牧师 - 旧神密教徒</td></tr>
+  <tr><td>Halcyon Druid 德鲁伊 - 宁静德鲁伊</td></tr>
+  <tr><td>Viking 战士 - 维京人</td></tr>
+  <tr><td>Hellcat 武僧 - 地狱猫</td></tr>
+  <tr><td>Monk of the Mantis 武僧 - 螳螂僧</td></tr>
+  <tr><td>Oathbound - Oath of Vengeance 圣骑士 - 复仇誓约圣武士</td></tr>
+  <tr><td>Oathbound - Oath of the People's Council 圣骑士 - 人民民主誓约圣武士</td></tr>
+  <tr><td>Wilderness Warden 圣骑士 - 荒野守望者</td></tr>
+  <tr><td>Holy Guide 圣骑士 - 神圣向导</td></tr>
+  <tr><td>Ancient Lorekeeper 先知 - 传古学者</td></tr>
+  <tr><td>Wild Stalker 游侠 - 野性潜猎者</td></tr>
+  <tr><td>Sword-Devil 游侠 - 剑魔</td></tr>
+  <tr><td>Sacred Fist 战争祭祀 - 神拳使</td></tr>
+  <tr><td>Undead Master 法师 - 死灵之主</td></tr>
+  <tr><td>Scarred Witch Doctor 巫师 - 疤痕巫医</td></tr>
+
+</table>
