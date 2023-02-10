@@ -23,6 +23,7 @@
   - [MicroscopicContentExpansion](#MicroscopicContentExpansion)
   - [SparsSorcerousSundries](#SparsSorcerousSundries)
   - [TomeOfTheFirebird](#TomeOfTheFirebird)
+  - [HomebrewArchetypes](#HomebrewArchetypes)
    
 ## 基础知识
 
