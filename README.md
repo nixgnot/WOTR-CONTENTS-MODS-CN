@@ -322,7 +322,7 @@
    <tr><td>Burn Resistance 超载抵抗：计算操念超载非致命伤害时将自己等级视为低2级计算</td></tr>
    <tr><td>Extra Burn 额外超载：增加每日超载限制</td></tr>
    <tr><td>Extended Buffer 额外念力缓冲：增加念力缓冲（MOD新增操念自带特性，减少一定量的超载）</td></tr>
-   <tr><td>Discordant Song 不谐之音：诗人歌曲。为盟友武器增加音波伤害，远程武器需要目标也在范围内</td></tr>
+   <tr><td>Discordant Song 不谐之歌：诗人歌曲。为盟友武器增加音波伤害，远程武器需要目标也在范围内</td></tr>
    <tr><td>Prodigious Two-Weapon Fighting 有力双武器战斗：副手单手武器视为轻型，用力量属性代替敏捷属性来满足双武器系列专长的先决条件</td></tr>
    <tr><td>Sundering Strike 破甲重击：原为破武重击，成功重击后附加击破武器，游戏中实为附加击破盔甲</td></tr>
    <tr><td>Coordinated Shoot 准线规避：团队专长，如果同样有此专长的盟友威胁目标，远程攻击检定+1，如果该盟友再和其他盟友（可以无此专长）夹击目标，变为+2</td></tr>
@@ -354,7 +354,7 @@
 + Homebrew Archetypes分为三个部分：
   + 本体：核心内容
   + AC：修改部分物品和机制，**队友入队等级变为1**
-  + ACTestingGrounds：将部分队友变为桌面版规则原职业或变体，未汉化
+  + ACTestingGrounds：将部分队友变为桌面版规则原职业或变体，未汉化 
  <table>
  <tr><th colspan="2">新增内容列表<br>详细介绍可以参阅汉化发布贴或游戏内说明</th></tr> 
  
@@ -388,5 +388,30 @@
   <tr><td>Sacred Fist 战争祭祀 - 神拳使</td></tr>
   <tr><td>Undead Master 法师 - 死灵之主</td></tr>
   <tr><td>Scarred Witch Doctor 巫师 - 疤痕巫医</td></tr>
-
+  <tr><td rowspan="2">进阶职业</td>
+       <td>Razmiran Priest 拉兹密安牧师</td>
+  <tr><td>Assassin 刺客</td></tr>
+  <tr><td rowspan="10">专长</td>
+       <td>Adept Channel 导师导能</td>
+  <tr><td>Strike True 克敌机先</td></tr>
+  <tr><td>Channel Smite 导能打击</td></tr>
+  <tr><td>Greater Channel Smite 高等导能打击.</td></tr>
+  <tr><td>Guided Hand 引导之手</td></tr>
+  <tr><td>Hex Strike 巫术打击</td></tr>
+  <tr><td>Monastic Legacy 修道传承</td></tr>
+  <tr><td>Blooded Arcane Strike 血术之击</td></tr>
+  <tr><td>Fire Music 燃火之乐</td></tr>
+  <tr><td>Discordant Voice 不谐之音</td></tr>
+  <tr><td>基础动作</td>
+         <td></td>Aid Another 援助他人</tr>
+  <tr><td>信仰</td>
+         <td></td>克苏鲁系11个信仰</tr>
+  <tr><td>领域</td>
+         <td></td>Void 虚空领域</tr>
+  <tr><td rowspan="2">神话能力</td>
+       <td>Poison Vulnerability 透体之毒</td>
+  <tr><td>Sustained Vulnerability 毒入骨髓</td></tr>
+  <tr><td rowspan="2">神话专长</td>
+       <td>Mythic Guided Hand 引导之手（神话）</td>
+  <tr><td>Mythic Crossbow Training 神话弩箭训练</td></tr>
 </table>
