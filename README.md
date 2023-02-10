@@ -24,6 +24,7 @@
   - [SparsSorcerousSundries](#SparsSorcerousSundries)
   - [TomeOfTheFirebird](#TomeOfTheFirebird)
   - [HomebrewArchetypes](#HomebrewArchetypes)
+  - [ExpandedContent2022](#ExpandedContent2022)
    
 ## 基础知识
 
@@ -344,14 +345,14 @@
  </table> 
 
 -------------------------------------------
-### [HomebrewArchetypes](https://www.nexusmods.com/pathfinderwrathoftherighteous/mods/279?tab=description&BH=0)
+### [HomebrewArchetypes](https://www.nexusmods.com/pathfinderwrathoftherighteous/mods/279)
 + [贴吧汉化帖](https://tieba.baidu.com/p/7977216047?pn=1)
 + **注意！Homebrew Archetypes不能使用UMM安装，可以使用ModFinder安装或者参考汉化帖手动安装**
 > *前置：* 无<br>
 > *中文：* **自带中文（缺少最新更新，此处提供补充）**<br>
 > *安装方式：* **非UMM**<br>
 > *修改内容：* 物品、变体和机制（AC）<br>
-> *新增内容：*大量变体，信仰、领域、专长、职业特性<br>
+> *新增内容：*大量变体，信仰、领域、专长<br>
 + Homebrew Archetypes分为三个部分：
   + 本体：核心内容
   + AC：修改部分物品和机制，**队友入队等级变为1**
@@ -419,3 +420,11 @@
        <td>Mythic Guided Hand 引导之手（神话）</td>
   <tr><td>Mythic Crossbow Training 神话弩箭训练</td></tr>
 </table>
+
+-------------------------------------------
+### [ExpandedContent2022](https://www.nexusmods.com/pathfinderwrathoftherighteous/mods/377)
++ [贴吧汉化帖](https://tieba.baidu.com/p/7977216047?pn=1)
+> *前置：* 无<br>
+> *中文：* **贴吧汉化**<br>
+> *安装方式：* **UMM**<br>
+> *新增内容：*大量变体，信仰、领域、专长、职业特性<br>
