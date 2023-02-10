@@ -363,7 +363,7 @@
        <td>Investigator 调查员及变体：Jinyiwei 锦衣卫、Questioner 发问者、Empiricist 演绎家</td>
   <tr><td>NPC职业：5个NPC用职业，基本白板</td></tr>
   <tr><td rowspan="26">变体</td>
-         <td></td>Blood Arcanist 奥能师 - 血奥师</tr>
+         <td>Blood Arcanist 奥能师 - 血奥师</td></tr>
   <tr><td>School Savant 奥能师 - 学派家</td></tr>
   <tr><td>Hateful Rager 野蛮人 - 恨意狂暴者</td></tr>
   <tr><td>Arcane Duelist 吟游诗人 - 奥术决斗者</td></tr>
