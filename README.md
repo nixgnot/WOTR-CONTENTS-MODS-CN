@@ -403,11 +403,11 @@
   <tr><td>Fire Music 燃火之乐</td></tr>
   <tr><td>Discordant Voice 不谐之音</td></tr>
   <tr><td>基础动作</td>
-         <td></td>Aid Another 援助他人</tr>
+         <td>Aid Another 援助他人</td></tr>
   <tr><td>信仰</td>
-         <td></td>克苏鲁系11个信仰</tr>
+         <td>克苏鲁系11个信仰</td></tr>
   <tr><td>领域</td>
-         <td></td>Void 虚空领域</tr>
+         <td>Void 虚空领域</td></tr>
   <tr><td rowspan="2">神话能力</td>
        <td>Poison Vulnerability 透体之毒</td>
   <tr><td>Sustained Vulnerability 毒入骨髓</td></tr>
