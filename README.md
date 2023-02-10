@@ -352,16 +352,15 @@
 > *中文：* **自带中文（缺少最新更新，此处提供补充）**<br>
 > *安装方式：* **非UMM**<br>
 > *修改内容：* 物品、变体和机制（AC）<br>
-> *新增内容：*大量变体，信仰、领域、专长<br>
+> *新增内容：* 大量变体，职业、信仰、领域、专长<br>
 + Homebrew Archetypes分为三个部分：
   + 本体：核心内容
   + AC：修改部分物品和机制，**队友入队等级变为1**
   + ACTestingGrounds：将部分队友变为桌面版规则原职业或变体，未汉化 
  <table>
  <tr><th colspan="2">新增内容列表<br>详细介绍可以参阅汉化发布贴或游戏内说明</th></tr> 
- 
-  <tr><td rowspan="2">职业</td>
-       <td>Investigator 调查员及变体：Jinyiwei 锦衣卫、Questioner 发问者、Empiricist 演绎家</td>
+   <tr><td rowspan="2">职业</td>
+       <td>Investigator 调查员及变体：Jinyiwei 锦衣卫、Questioner 发问者、Empiricist 演绎家</td></tr>
   <tr><td>NPC职业：5个NPC用职业，基本白板</td></tr>
   <tr><td rowspan="26">变体</td>
          <td>Blood Arcanist 奥能师 - 血奥师</td></tr>
@@ -425,6 +424,27 @@
 ### [ExpandedContent2022](https://www.nexusmods.com/pathfinderwrathoftherighteous/mods/377)
 + [贴吧汉化帖](https://tieba.baidu.com/p/7977216047?pn=1)
 > *前置：* 无<br>
-> *中文：* **贴吧汉化**<br>
+> *中文：* **汉化发布**<br>
 > *安装方式：* **UMM**<br>
-> *新增内容：*大量变体，信仰、领域、专长、职业特性<br>
+> *新增内容：* 大量信仰、变体、专长<br>
+ <table>
+ <tr><th colspan="2">新增内容列表<br>详细介绍可以参阅汉化发布贴或游戏内说明</th></tr> 
+   <tr><td rowspan="2">职业</td>
+       <td>Oathbreaker 复仇暴徒及变体：Castigator 惩戒者</td></tr> 
+   <tr><td>DreadKnight 恐惧骑士及变体：Conqueror 征服者、Claw of the False Wyrm 虚龙之爪</td></tr> 
+   <tr><td rowspan="2">变体</td>
+       <td>Living Scripture 审判官 - 活圣经</td></tr> 
+   <tr><td>Mantis Zealot 战争祭祀 - 螳螂狂徒</td></tr> 
+   <tr><td>Mooncaller 德鲁伊 - 唤月者</td></tr> 
+   <tr><td>Draconic Druid 德鲁伊 - 龙之德鲁伊</td></tr> 
+   <tr><td>Storm Druid 德鲁伊 - 风暴德鲁伊</td></tr> 
+   <tr><td>Urban Druid 德鲁伊 - 文明德鲁伊</td></tr> 
+   <tr><td><s>Bear Shaman</s></td></tr> 
+   <tr><td>Temple Champion 圣骑士 - 圣殿冠军</td></tr> 
+   <tr><td>Silver Champion 圣骑士 - 银冠勇士</td></tr> 
+   <tr><td>Drake Warden 游侠 - 龙兽守望者</td></tr> 
+   <tr><td>Clutch Thief 游荡者 - 龙蛋小偷</td></tr> 
+   <tr><td>Ocean's Echo 先知 - 海洋回声</td></tr> 
+   <tr><td>Draconic Shaman 萨满 - 龙族萨满</td></tr> 
+   <tr><td>Draconic Scholar 奥能师 - 龙之学者</td></tr> 
+ </table>   
