@@ -432,7 +432,7 @@
    <tr><td rowspan="2">职业</td>
        <td>Oathbreaker 复仇暴徒及变体：Castigator 惩戒者</td></tr> 
    <tr><td>DreadKnight 恐惧骑士及变体：Conqueror 征服者、Claw of the False Wyrm 虚龙之爪</td></tr> 
-   <tr><td rowspan="2">变体</td>
+   <tr><td rowspan="14">变体</td>
        <td>Living Scripture 审判官 - 活圣经</td></tr> 
    <tr><td>Mantis Zealot 战争祭祀 - 螳螂狂徒</td></tr> 
    <tr><td>Mooncaller 德鲁伊 - 唤月者</td></tr> 
