@@ -460,7 +460,7 @@
        <td>Scalykind 鳞状</td></tr>
    <tr><td>子领域</td>
        <td>Agathion 阿加西翁、 Archon 亚空, Blood 血液、Caves 洞穴、Curse 诅咒、 Demon, Dragon 龙、Ferocity 凶猛、Ice 冰、Lust 欲望、Psychopomp 招魂、Rage 狂暴、 Resolve 决心、Restoration 恢复、Revelation 启示、Revolution 革命、Rivers 河流、Stars 星空、Storm 风暴、Thievery 盗窃、Undead 不死、Whimsy 滑稽、Wind 风</td></tr>
-   <tr><td>职业特性</td>
+   <tr><td rowspan="2">职业特性</td>
        <td>先知秘示域：Dragon 龙、Heavens 天堂、Succor 救助</td></tr>
    <tr><td>先知诅咒：Vampirism 吸血鬼</td></tr>
    <tr><td rowspan="25">法术<br><i>参阅PF文档</i></td>
