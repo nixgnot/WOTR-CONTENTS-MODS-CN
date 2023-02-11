@@ -430,7 +430,7 @@
 
 -------------------------------------------
 ### [ExpandedContent2022](https://www.nexusmods.com/pathfinderwrathoftherighteous/mods/377)
-+ [贴吧汉化帖](https://tieba.baidu.com/p/7977216047?pn=1)
++ [贴吧汉化帖](https://tieba.baidu.com/p/8108212678)
 > *前置：* 无<br>
 > *中文：* **汉化发布**<br>
 > *安装方式：* **UMM**<br>
