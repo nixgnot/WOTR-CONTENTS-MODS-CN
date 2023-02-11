@@ -393,31 +393,31 @@
        <td>Razmiran Priest 拉兹密安牧师</td>
   <tr><td>Assassin 刺客</td></tr>
   <tr><td rowspan="10">专长</td>
-       <td>Adept Channel 导师导能</td>
-  <tr><td>Strike True 克敌机先</td></tr>
-  <tr><td>Channel Smite 导能打击</td></tr>
-  <tr><td>Greater Channel Smite 高等导能打击.</td></tr>
-  <tr><td>Guided Hand 引导之手</td></tr>
-  <tr><td>Hex Strike 巫术打击</td></tr>
-  <tr><td>Monastic Legacy 修道传承</td></tr>
-  <tr><td>Blooded Arcane Strike 血术之击</td></tr>
-  <tr><td>Fire Music 燃火之乐</td></tr>
-  <tr><td>Discordant Voice 不谐之音</td></tr>
+       <td>Adept Channel 导师导能：增加导能能力</td>
+  <tr><td>Strike True 克敌机先：消耗移动动作增加AB</td></tr>
+  <tr><td>Channel Smite 导能打击：迅捷动作附带导能伤害到攻击</td></tr>
+  <tr><td>Greater Channel Smite 高等导能打击：楼上升级版，没打中不会消耗</td></tr>
+  <tr><td>Guided Hand 引导之手：使用神祗偏爱武器变为感知上AB（**仅限原版神祗和本MOD神祗才有效**）</td></tr>
+  <tr><td>Hex Strike 巫术打击：徒手攻击附加巫术</td></tr>
+  <tr><td>Monastic Legacy 修道传承：非武僧等级一半视为武僧等级</td></tr>
+  <tr><td>Blooded Arcane Strike 血术之击：狂暴时可以释放法术</td></tr>
+  <tr><td>Fire Music 燃火之乐：法术伤害转为火焰伤害并强化召唤生物</td></tr>
+  <tr><td>Discordant Voice 不谐之音：吟游诗人乐曲为盟友附加音波伤害</td></tr>
   <tr><td>基础动作</td>
-         <td>Aid Another 援助他人</td></tr>
+         <td>Aid Another 援助他人：消耗动作为盟友附加AB或者AC</td></tr>
   <tr><td>信仰</td>
          <td>克苏鲁系11个信仰</td></tr>
   <tr><td>领域</td>
-         <td>Void 虚空领域</td></tr>
+         <td>Void 虚空领域：擅长旅行移动和召唤</td></tr>
   <tr><td rowspan="5">神话能力</td>
-       <td>Poison Vulnerability 透体之毒</td>
-  <tr><td>Sustained Vulnerability 毒入骨髓</td></tr>
+       <td>Poison Vulnerability 透体之毒：解除敌人毒免</td>
+  <tr><td>Sustained Vulnerability 毒入骨髓：延长透体之毒有效期</td></tr>
   <tr><td><b>AC专属</b> - Abundant Casting(Homebrew) <b>连锁施法：一定次数唤回任意法术**</b></td></tr>
   <tr><td><b>AC专属</b> - Empowered Bombs 增强炸弹：提高炼金炸弹伤害</td></tr>
   <tr><td><b>AC专属</b> - Maximized Bombs 终极炸弹：炼金炸弹总是造成最大伤害</td></tr>
   <tr><td rowspan="2">神话专长</td>
-       <td>Mythic Guided Hand 引导之手（神话）</td>
-  <tr><td>Mythic Crossbow Training 神话弩箭训练</td></tr>
+       <td>Mythic Guided Hand 引导之手（神话）：引导之手后修，感知上伤害</td>
+  <tr><td>Mythic Crossbow Training 神话弩箭训练：弩获得敏上伤害</td></tr>
 </table>
 
 -------------------------------------------
