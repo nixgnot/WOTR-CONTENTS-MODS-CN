@@ -29,6 +29,7 @@
   - [MorvarchsPlaystyleExpansions](#MorvarchsPlaystyleExpansions) Morvarchs玩法扩展
   - [PhoenixsCantrips](#PhoenixsCantrips) Phoenixs戏法强化
     - [MoreCantrips](#MoreCantrips) 更多戏法
+  - [CharacterOptions+](#Character Options+) 角色选项+
 
 ## 基础知识
 
@@ -257,6 +258,7 @@
 > *修改内容：* 无<br>
 > *新增内容：* 职业、专长、法术等<br>
 + 特别注意。本MOD不依赖于[TabletopTweaks-Base](#TabletopTweaks-Base)，但是作者建议安装来获得完整功能。
++ 增加部分新内容
 <table>
 <tr><th colspan="2">新增内容列表</th></tr> 
    <tr><td>职业</td>
@@ -289,7 +291,7 @@
 > *安装方式：* UMM<br>
 > *修改内容：* 修复少量物品<br>
 > *新增内容：* 物品、法术等<br>
-
++ 主要是增加物品
 <table>
 <tr><th colspan="2">新增内容列表</th></tr> 
    <tr><td>前作武器</td>
@@ -305,6 +307,7 @@
 > *安装方式：* UMM<br>
 > *修改内容：* 修复部分BUG，职业能力调整<br>
 > *新增内容：* 物品、法术等<br>
++ 大型MOD，增加很多新内容
 + 重要改动：驱散魔法类现在成为了”安全法术“，只会驱散敌人身上的BUFF和我方身上的DEBUFF
 <table>
 <tr><th colspan="2">新增内容列表</th></tr> 
@@ -357,6 +360,7 @@
 > *安装方式：* **非UMM**<br>
 > *修改内容：* 物品、变体和机制（AC）<br>
 > *新增内容：* 大量变体，职业、信仰、领域、专长<br>
++ 大型MOD，增加很多新内容
 + Homebrew Archetypes分为三个部分：
   + 本体：核心内容
   + AC：修改部分物品和机制，**队友入队等级变为1**
@@ -431,6 +435,7 @@
 > *中文：* **汉化发布**<br>
 > *安装方式：* **UMM**<br>
 > *新增内容：* 大量信仰、变体、专长等<br>
++ 大型MOD，增加很多新内容
  <table>
  <tr><th colspan="2">新增内容列表<br>详细介绍可以参阅汉化发布贴或游戏内说明</th></tr> 
    <tr><td rowspan="2">职业</td>
@@ -510,6 +515,7 @@
 > *中文：* **无**<br>
 > *安装方式：* **UMM**<br>
 > *新增内容：* 专长等<br>
++ 增加少量新内容
 <table>
  <tr><th colspan="2">新增内容列表<br></th></tr> 
    <tr><td rowspan="2">专长</td>
@@ -547,3 +553,16 @@
    <tr><td>Lesser Shocking Grasp 次级电爪：电击近战接触</td></tr>
    <tr><td>Frosty Touch 寒霜之触：寒冷近战接触</td></tr>
  </table>   
+ 
+------------------------------------------- 
+### [CharacterOptions+](https://github.com/WittleWolfie/CharacterOptionsPlus)
+> *前置：* TabletopTweaks-Core, ModMenu<br>
+> *中文：* **无**<br>
+> *安装方式：* **UMM**<br>
+> *新增内容：* 大量<br>
++ 大型MOD，增加很多新内容
+<table>  
+ <tr><th colspan="2">新增内容列表<br></th></tr> 
+  
+</table>  
+  
