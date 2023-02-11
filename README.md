@@ -397,7 +397,7 @@
   <tr><td>Strike True 克敌机先：消耗移动动作增加AB</td></tr>
   <tr><td>Channel Smite 导能打击：迅捷动作附带导能伤害到攻击</td></tr>
   <tr><td>Greater Channel Smite 高等导能打击：楼上升级版，没打中不会消耗</td></tr>
-  <tr><td>Guided Hand 引导之手：使用神祗偏爱武器变为感知上AB（**仅限原版神祗和本MOD神祗才有效**）</td></tr>
+  <tr><td>Guided Hand 引导之手：使用神祗偏爱武器变为感知上AB（<b>仅限原版神祗和本MOD神祗才有效</b>）</td></tr>
   <tr><td>Hex Strike 巫术打击：徒手攻击附加巫术</td></tr>
   <tr><td>Monastic Legacy 修道传承：非武僧等级一半视为武僧等级</td></tr>
   <tr><td>Blooded Arcane Strike 血术之击：狂暴时可以释放法术</td></tr>
@@ -455,7 +455,7 @@
        <td>Mythic Drake 神话龙兽</td>
    <tr><td>Impossible Subdomain 无限子域可能</td></tr>
    <tr><td>信仰</td>
-       <td>**海量新信仰**</td></tr>
+       <td><b>海量新信仰</b></td></tr>
    <tr><td>领域</td>
        <td>Scalykind 鳞状</td></tr>
    <tr><td>子领域</td>
