@@ -520,6 +520,7 @@
    <tr><td rowspan="1">职业特性</td>
        <td>Hellknight Signifier Fixes：地狱骑士持节士和神术施法者获得联动强化</td></tr>
  </table> 
+ 
 -------------------------------------------  
 ### [PhoenixsCantrips](https://github.com/pheonix99/PhoenixsCantrips)
 > *前置：* 无<br>
@@ -535,6 +536,7 @@
 > *安装方式：* **UMM**<br>
 > *新增内容：* 更多戏法<br>
 + PhoenixsCantrips 戏法强化的扩展，增加了其他属性的接触戏法
+<table>  
  <tr><th colspan="2">新增内容列表<br></th></tr> 
    <tr><td rowspan="2">法术（戏法）</td>
        <td>Firebolt 火焰箭：火焰远程接触</td></tr>
