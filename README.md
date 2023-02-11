@@ -519,17 +519,29 @@
        <td>The Hellknight Vanguard 地狱骑士先锋：游荡者和地狱骑士混合变体</td></tr>
    <tr><td rowspan="1">职业特性</td>
        <td>Hellknight Signifier Fixes：地狱骑士持节士和神术施法者获得联动强化</td></tr>
-  
+ </table> 
+-------------------------------------------  
 ### [PhoenixsCantrips](https://github.com/pheonix99/PhoenixsCantrips)
 > *前置：* 无<br>
 > *中文：* **无**<br>
 > *安装方式：* **UMM**<br>
 > *修改内容：* 戏法强化<br>
 + 小型MOD，强化戏法，使其拥有更高成长性
- 
+  
+------------------------------------------- 
 ### [MoreCantrips](https://github.com/pheonix99/MoreCantrips)
 > *前置：* 无<br>
 > *中文：* **无**<br>
 > *安装方式：* **UMM**<br>
 > *新增内容：* 更多戏法<br>
 + PhoenixsCantrips 戏法强化的扩展，增加了其他属性的接触戏法
+ <tr><th colspan="2">新增内容列表<br></th></tr> 
+   <tr><td rowspan="2">法术（戏法）</td>
+       <td>Firebolt 火焰箭：火焰远程接触</td></tr>
+   <tr><td>Burning Touch 燃烧之触：火焰近战接触</td></tr>
+   <tr><td>Painful Note 苦痛单音：音波远程接触</td></tr>
+   <tr><td>Dissonant Touch 不谐之触：音波近战接触</td></tr>
+   <tr><td>Lesser Corrosive Touch 次级酸蚀之触：酸蚀近战接触</td></tr>
+   <tr><td>Lesser Shocking Grasp 次级电爪：电击近战接触</td></tr>
+   <tr><td>Frosty Touch 寒霜之触：寒冷近战接触</td></tr>
+ </table>   
