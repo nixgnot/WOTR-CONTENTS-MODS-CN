@@ -19,7 +19,7 @@
   - [汉化修正文件及其他说明](#汉化修正文件及其他说明)
 - [MOD列表](#MOD列表)
   - [TabletopTweaks-Base](#TabletopTweaks-Base) TTT
-  - [TabletopTweaks-Reworks](#TabletopTweaks-Reworks) TTT神话扩展
+    - [TabletopTweaks-Reworks](#TabletopTweaks-Reworks) TTT神话扩展
   - [MicroscopicContentExpansion](#MicroscopicContentExpansion) Microscopic内容扩展
   - [SparsSorcerousSundries](#SparsSorcerousSundries) SSS内展
   - [TomeOfTheFirebird](#TomeOfTheFirebird) TOTF扩展
@@ -27,8 +27,8 @@
   - [ExpandedContent2022](#ExpandedContent2022) 扩展内容2022
   - [ToggleableThrowingWeapons](#ToggleableThrowingWeapons) 可切换投掷武器
   - [MorvarchsPlaystyleExpansions](#MorvarchsPlaystyleExpansions) Morvarchs玩法扩展
-  - [PhoenixsCantrips 戏法强化](#PhoenixsCantrips) Phoenixs
-  - [MoreCantrips](#MoreCantrips) 
+  - [PhoenixsCantrips](#PhoenixsCantrips) Phoenixs戏法强化
+    - [MoreCantrips](#MoreCantrips) 更多戏法
 
 ## 基础知识
 
@@ -527,7 +527,7 @@
 > *修改内容：* 戏法强化<br>
 + 小型MOD，强化戏法，使其拥有更高成长性
  
-### [MoreCantrips](https://github.com/pheonix99/PhoenixsCantrips](https://github.com/pheonix99/MoreCantrips)
+### [MoreCantrips](https://github.com/pheonix99/MoreCantrips)
 > *前置：* 无<br>
 > *中文：* **无**<br>
 > *安装方式：* **UMM**<br>
