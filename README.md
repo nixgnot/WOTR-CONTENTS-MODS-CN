@@ -25,7 +25,8 @@
   - [TomeOfTheFirebird](#TomeOfTheFirebird)
   - [HomebrewArchetypes](#HomebrewArchetypes)
   - [ExpandedContent2022](#ExpandedContent2022)
-   
+  - [ToggleableThrowingWeapons](#ToggleableThrowingWeapons) 
+  - [MorvarchsPlaystyleExpansions](#MorvarchsPlaystyleExpansions) 
 ## 基础知识
 
 ### UMM的安装
@@ -490,3 +491,30 @@
    <tr><td>Dance of a Hundred Cuts 百袭战舞</td></tr>
    <tr><td>Dance of a Thousand Cuts 千袭战舞</td></tr>
  </table>   
+
+-------------------------------------------
+### [ToggleableThrowingWeapons](https://github.com/pheonix99/ToggleableThrowingWeapons)
+> *前置：* 无<br>
+> *中文：* **无**<br>
+> *安装方式：* **UMM**<br>
+> *新增内容：* 匕首和星刃投掷<br>
++ 小型MOD，持有匕首和星刃时会多出一个开关型能力，可以自由在**远程使用和近战使用**间切换。
++ Nexus上有类似功能的MOD Thrown Daggers，但是强烈推荐这个，不管是功能上还是兼容性上，本MOD都遥遥领先
+
+-------------------------------------------
+### [MorvarchsPlaystyleExpansions](https://github.com/MorvarchPrincess/MorvarchsPlaystyleExpansions)
+> *前置：* 无<br>
+> *中文：* **无**<br>
+> *安装方式：* **UMM**<br>
+> *新增内容：* 专长<br>
+<table>
+ <tr><th colspan="2">新增内容列表<br></th></tr> 
+   <tr><td rowspan="2">专长</td>
+       <td>Bladed brush 战刃舞绘：大砍刀使用敏捷决定AB和伤害</td></tr>
+   <tr><td>Way of the shooting star 飞星之道：星刃使用魅力决定AB和伤害（可与上方星刃投掷同时使用）</td></tr>
+   <tr><td rowspan="1">变体</td>
+       <td>The Hellknight Vanguard 地狱骑士先锋：游荡者和地狱骑士混合变体</td></tr>
+   <tr><td rowspan="1">职业特性</td>
+       <td>Hellknight Signifier Fixes：地狱骑士持节士和神术施法者获得联动强化</td></tr>
+
+   
