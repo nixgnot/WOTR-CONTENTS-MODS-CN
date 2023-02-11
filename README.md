@@ -538,7 +538,7 @@
 + PhoenixsCantrips 戏法强化的扩展，增加了其他属性的接触戏法
 <table>  
  <tr><th colspan="2">新增内容列表<br></th></tr> 
-   <tr><td rowspan="2">法术（戏法）</td>
+   <tr><td rowspan="7">法术（戏法）</td>
        <td>Firebolt 火焰箭：火焰远程接触</td></tr>
    <tr><td>Burning Touch 燃烧之触：火焰近战接触</td></tr>
    <tr><td>Painful Note 苦痛单音：音波远程接触</td></tr>
