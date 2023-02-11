@@ -522,7 +522,7 @@
        <td>Bladed brush 战刃舞绘：大砍刀使用敏捷决定AB和伤害</td></tr>
    <tr><td>Way of the shooting star 飞星之道：星刃使用魅力决定AB和伤害（可与上方星刃投掷同时使用）</td></tr>
    <tr><td rowspan="1">变体</td>
-       <td>The Hellknight Vanguard 地狱骑士先锋：游荡者和地狱骑士混合变体</td></tr>
+       <td>The Hellknight Shadow 地狱骑士之影：游荡者和地狱骑士混合职业</td></tr>
    <tr><td rowspan="1">职业特性</td>
        <td>Hellknight Signifier Fixes：地狱骑士持节士和神术施法者获得联动强化</td></tr>
  </table> 
