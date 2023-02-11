@@ -18,15 +18,18 @@
   - [前置MOD](#前置MOD)
   - [汉化修正文件及其他说明](#汉化修正文件及其他说明)
 - [MOD列表](#MOD列表)
-  - [TabletopTweaks-Base](#TabletopTweaks-Base)
-  - [TabletopTweaks-Reworks](#TabletopTweaks-Reworks)
-  - [MicroscopicContentExpansion](#MicroscopicContentExpansion)
-  - [SparsSorcerousSundries](#SparsSorcerousSundries)
-  - [TomeOfTheFirebird](#TomeOfTheFirebird)
-  - [HomebrewArchetypes](#HomebrewArchetypes)
-  - [ExpandedContent2022](#ExpandedContent2022)
-  - [ToggleableThrowingWeapons](#ToggleableThrowingWeapons) 
-  - [MorvarchsPlaystyleExpansions](#MorvarchsPlaystyleExpansions) 
+  - [TabletopTweaks-Base](#TabletopTweaks-Base) TTT
+  - [TabletopTweaks-Reworks](#TabletopTweaks-Reworks) TTT神话扩展
+  - [MicroscopicContentExpansion](#MicroscopicContentExpansion) Microscopic内容扩展
+  - [SparsSorcerousSundries](#SparsSorcerousSundries) SSS内展
+  - [TomeOfTheFirebird](#TomeOfTheFirebird) TOTF扩展
+  - [HomebrewArchetypes](#HomebrewArchetypes) 桌面变体
+  - [ExpandedContent2022](#ExpandedContent2022) 扩展内容2022
+  - [ToggleableThrowingWeapons](#ToggleableThrowingWeapons) 可切换投掷武器
+  - [MorvarchsPlaystyleExpansions](#MorvarchsPlaystyleExpansions) Morvarchs玩法扩展
+  - [PhoenixsCantrips 戏法强化](#PhoenixsCantrips) Phoenixs
+  - [MoreCantrips](#MoreCantrips) 
+
 ## 基础知识
 
 ### UMM的安装
@@ -497,7 +500,7 @@
 > *前置：* 无<br>
 > *中文：* **无**<br>
 > *安装方式：* **UMM**<br>
-> *新增内容：* 匕首和星刃投掷<br>
+> *修改内容：* 匕首和星刃投掷<br>
 + 小型MOD，持有匕首和星刃时会多出一个开关型能力，可以自由在**远程使用和近战使用**间切换。
 + Nexus上有类似功能的MOD Thrown Daggers，但是强烈推荐这个，不管是功能上还是兼容性上，本MOD都遥遥领先
 
@@ -516,5 +519,17 @@
        <td>The Hellknight Vanguard 地狱骑士先锋：游荡者和地狱骑士混合变体</td></tr>
    <tr><td rowspan="1">职业特性</td>
        <td>Hellknight Signifier Fixes：地狱骑士持节士和神术施法者获得联动强化</td></tr>
-
-   
+  
+### [PhoenixsCantrips](https://github.com/pheonix99/PhoenixsCantrips)
+> *前置：* 无<br>
+> *中文：* **无**<br>
+> *安装方式：* **UMM**<br>
+> *修改内容：* 戏法强化<br>
++ 小型MOD，强化戏法，使其拥有更高成长性
+ 
+### [MoreCantrips](https://github.com/pheonix99/PhoenixsCantrips](https://github.com/pheonix99/MoreCantrips)
+> *前置：* 无<br>
+> *中文：* **无**<br>
+> *安装方式：* **UMM**<br>
+> *新增内容：* 更多戏法<br>
++ PhoenixsCantrips 戏法强化的扩展，增加了其他属性的接触戏法
