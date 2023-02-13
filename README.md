@@ -29,7 +29,7 @@
   - [MorvarchsPlaystyleExpansions](#MorvarchsPlaystyleExpansions) Morvarchs玩法扩展
   - [PhoenixsCantrips](#PhoenixsCantrips) Phoenixs戏法强化
     - [MoreCantrips](#MoreCantrips) 更多戏法
-  - [CharacterOptions+](#Character Options+) 角色选项+
+  - [CharacterOptions+](#CharacterOptions+) 角色选项+
 
 ## 基础知识
 
