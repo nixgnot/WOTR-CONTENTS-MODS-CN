@@ -572,7 +572,7 @@
    <tr><td>游荡者天赋：Shadow Duplicate 影分身，被击中时可释放类似镜影</td></tr>
    <tr><td>杀手绝技：<br>Armored Marauder 装甲强袭，擅长重甲并减少惩罚<br>Armored Swiftness 迅捷甲士，重甲不影响速度并提高最大敏捷加值<br>Slowing Strike 延缓打击，偷袭造成减速</td></tr>
    <tr><td>巫术：Ice Tomb 冰冢，寒冷并麻痹</td></tr>
-   <tr><td rowspan="10">专长<br><i>参阅PF文档</i></td>
+   <tr><td rowspan="11">专长<br><i>参阅PF文档</i></td>
        <td>Dazing Assault 晕眩强袭：AB换取敌人眩晕</td></tr> 
    <tr><td>Divine Fighting Technique 神圣武器技法：包含11个神圣武器技法专长，限定信仰</td></tr>
    <tr><td>Eldritch Heritage 悠远血脉（另有进阶和高等）：获得额外血承能力</td></tr>
@@ -583,7 +583,8 @@
    <tr><td>Purifying Channel 净化导能：引导正能量可以对一个敌人造成火焰伤害和目眩</td></tr>
    <tr><td>Signature Skill 标志性技能：选择一项技能获得奖励，游荡者可自动获得</td></tr>
    <tr><td>Skald's Vigor 健硕之歌（另有高等）：维持战怒之歌给予快速医疗，高等在启动时对队友有效</td></tr>
-   <tr><td rowspan="35">法术<br><i>参阅PF文档</i></td>
+   <tr><td>Energy Channel 引导元素：消耗引导能量使你的武器攻击获得额外元素伤害</td></tr>
+   <tr><td rowspan="39">法术<br><i>参阅PF文档</i></td>
        <td>Bladed Dash 飞刃袭：直线移动并对路径上敌人攻击</td></tr> 
    <tr><td>Burning Disarm 灼热缴械：使物品变热强迫敌人丢下</td></tr> 
    <tr><td>Consecrate 祝圣术：祝圣一片区域</td></tr> 
@@ -610,5 +611,9 @@
    <tr><td>Weapon of Awe 敬畏武器：强化武器，在伤害骰上获得+2神圣加值，并且重击目标将会无豁免战栗一轮。
 </td></tr> 
    <tr><td>Wrath 狂怒：锁定目标，对指定目标攻击和伤害获得士气加值</td></tr> 
+   <tr><td>Cheetah's Sprint 豹急：迅捷动作，1轮内巨幅增加移动速度</td></tr> 
+   <tr><td>Defensive Shock 闪电之盾：对攻击你的敌人造成闪电伤害</td></tr> 
+   <tr><td>Frostbite 冻伤：近战接触造成寒冷非致命伤害和疲乏，可多次使用</td></tr> 
+   <tr><td>Chill Touch 寒冷之触：近战接触造成负能量和力量伤害，对不死生物造成恐慌，可多次使用</td></tr> 
 </table>  
   
