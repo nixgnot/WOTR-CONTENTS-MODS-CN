@@ -559,7 +559,8 @@
 > *前置：* TabletopTweaks-Core, ModMenu<br>
 > *中文：* **无**<br>
 > *安装方式：* **UMM**<br>
-> *新增内容：* 大量<br>
+> *修改内容：* 杀手绝技、冬巫进阶法表<br>
+> *新增内容：* 大量，法术专长为主<br>
 + 大型MOD，增加很多新内容
 <table>  
  <tr><th colspan="2">新增内容列表<br></th></tr> 
@@ -571,5 +572,16 @@
    <tr><td>游荡者天赋：Shadow Duplicate 影分身，被击中时可释放类似镜影</td></tr>
    <tr><td>杀手绝技：<br>Armored Marauder 装甲强袭，擅长重甲并减少惩罚<br>Armored Swiftness 迅捷甲士，重甲不影响速度并提高最大敏捷加值<br>Slowing Strike 延缓打击，偷袭造成减速</td></tr>
    <tr><td>巫术：Ice Tomb 冰冢，寒冷并麻痹</td></tr>
+   <tr><td rowspan="2">专长<br><i>参阅PF文档</i></td>
+      <td>Dazing Assault 晕眩强袭：AB换取敌人眩晕</td></tr> 
+      <tr><td>Divine Fighting Technique 神圣武器技法：包含11个神圣武器技法专长，限定信仰</td></tr>
+      <tr><td>Eldritch Heritage 悠远血脉（另有进阶和高等）：获得额外血承能力</td></tr>
+      <tr><td>Furious Focus 沉着暴怒：每轮第一次猛力攻击不受减值</td></tr>
+      <tr><td>Glorious Heat 火热荣耀：释放火焰法术时治疗盟友并提供士气加值</td></tr>
+      <tr><td>Hurtful 痛殴：成功威吓检定挫败了一个处于你的触及范围内生物的士气时，你可以以一个迅捷动作对这个目标进行一次近战攻击</td></tr>
+      <tr><td>Paired Opportunists 双重藉机：对共同威胁敌人借机攻击获得环境加值，触发队友借机攻击可以引发你也借机攻击</td></tr>
+      <tr><td>Purifying Channel 净化导能：引导正能量可以对一个敌人造成火焰伤害和目眩</td></tr>
+      <tr><td>Signature Skill 标志性技能：选择一项技能获得奖励，游荡者可自动获得</td></tr>
+      <tr><td>Skald's Vigor 健硕之歌（另有高等）：维持战怒之歌给予快速医疗，高等在启动时对队友有效</td></tr>
 </table>  
   
