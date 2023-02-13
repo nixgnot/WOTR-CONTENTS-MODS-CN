@@ -328,7 +328,7 @@
    <tr><td>Freezing Sphere 冰封法球：寒冷伤害</td></tr>
    <tr><td>Gloomblind bolts 黑盲矢：多发负能量飞弹，附带目盲</td></tr>
    <tr><td>Heal Mount 医疗坐骑：效果如名字</td></tr>
-   <tr><td>Keen Edge 锋锐术：效果如名字</td></tr>
+   <tr><td>Keen Edge 锋锐术：为武器附加锐锋</td></tr>
    <tr><td>Spear Of Purity 纯善之矛：远程接触，对邪恶异界特效</td></tr>
    <tr><td>Telekinetic Strikes 念力打击：徒手和天生武器附带力场伤害</td></tr>
    <tr><td>Burst Of Radiance 光耀爆发：群体致盲，邪恶生物受到伤害</td></tr>  
@@ -572,16 +572,43 @@
    <tr><td>游荡者天赋：Shadow Duplicate 影分身，被击中时可释放类似镜影</td></tr>
    <tr><td>杀手绝技：<br>Armored Marauder 装甲强袭，擅长重甲并减少惩罚<br>Armored Swiftness 迅捷甲士，重甲不影响速度并提高最大敏捷加值<br>Slowing Strike 延缓打击，偷袭造成减速</td></tr>
    <tr><td>巫术：Ice Tomb 冰冢，寒冷并麻痹</td></tr>
-   <tr><td rowspan="2">专长<br><i>参阅PF文档</i></td>
-      <td>Dazing Assault 晕眩强袭：AB换取敌人眩晕</td></tr> 
-      <tr><td>Divine Fighting Technique 神圣武器技法：包含11个神圣武器技法专长，限定信仰</td></tr>
-      <tr><td>Eldritch Heritage 悠远血脉（另有进阶和高等）：获得额外血承能力</td></tr>
-      <tr><td>Furious Focus 沉着暴怒：每轮第一次猛力攻击不受减值</td></tr>
-      <tr><td>Glorious Heat 火热荣耀：释放火焰法术时治疗盟友并提供士气加值</td></tr>
-      <tr><td>Hurtful 痛殴：成功威吓检定挫败了一个处于你的触及范围内生物的士气时，你可以以一个迅捷动作对这个目标进行一次近战攻击</td></tr>
-      <tr><td>Paired Opportunists 双重藉机：对共同威胁敌人借机攻击获得环境加值，触发队友借机攻击可以引发你也借机攻击</td></tr>
-      <tr><td>Purifying Channel 净化导能：引导正能量可以对一个敌人造成火焰伤害和目眩</td></tr>
-      <tr><td>Signature Skill 标志性技能：选择一项技能获得奖励，游荡者可自动获得</td></tr>
-      <tr><td>Skald's Vigor 健硕之歌（另有高等）：维持战怒之歌给予快速医疗，高等在启动时对队友有效</td></tr>
+   <tr><td rowspan="10">专长<br><i>参阅PF文档</i></td>
+       <td>Dazing Assault 晕眩强袭：AB换取敌人眩晕</td></tr> 
+   <tr><td>Divine Fighting Technique 神圣武器技法：包含11个神圣武器技法专长，限定信仰</td></tr>
+   <tr><td>Eldritch Heritage 悠远血脉（另有进阶和高等）：获得额外血承能力</td></tr>
+   <tr><td>Furious Focus 沉着暴怒：每轮第一次猛力攻击不受减值</td></tr>
+   <tr><td>Glorious Heat 火热荣耀：释放火焰法术时治疗盟友并提供士气加值</td></tr>
+   <tr><td>Hurtful 痛殴：成功威吓检定挫败了一个处于你的触及范围内生物的士气时，你可以以一个迅捷动作对这个目标进行一次近战攻击</td></tr>
+   <tr><td>Paired Opportunists 双重藉机：对共同威胁敌人借机攻击获得环境加值，触发队友借机攻击可以引发你也借机攻击</td></tr>
+   <tr><td>Purifying Channel 净化导能：引导正能量可以对一个敌人造成火焰伤害和目眩</td></tr>
+   <tr><td>Signature Skill 标志性技能：选择一项技能获得奖励，游荡者可自动获得</td></tr>
+   <tr><td>Skald's Vigor 健硕之歌（另有高等）：维持战怒之歌给予快速医疗，高等在启动时对队友有效</td></tr>
+   <tr><td rowspan="35">法术<br><i>参阅PF文档</i></td>
+       <td>Bladed Dash 飞刃袭：直线移动并对路径上敌人攻击</td></tr> 
+   <tr><td>Burning Disarm 灼热缴械：使物品变热强迫敌人丢下</td></tr> 
+   <tr><td>Consecrate 祝圣术：祝圣一片区域</td></tr> 
+   <tr><td>Desecrate 亵渎术：亵渎一片区域</td></tr> 
+   <tr><td>Dimensional Blade 次元剑：迅捷动作，使得1轮内武器能够进行接触攻击</td></tr> 
+   <tr><td>Fleshworm Infestation 血蛆侵袭：接触攻击造成持续生命值和敏捷伤害</td></tr> 
+   <tr><td>Freezing Sphere 冰封法球：寒冷伤害</td></tr> 
+   <tr><td>Frost Fall 冰河瀑布：区域内持续造成寒冷伤害，初始可造成恍惚</td></tr> 
+   <tr><td>Frozen Note 冻结音符：持续造成麻痹</td></tr> 
+   <tr><td>Hedging Weapons 护神武具：创造神祇的偏好武器悬浮在身边，提供保护并可抓住投掷</td></tr> 
+   <tr><td>Ice Slick 冰滑术：类似油腻术，释放时造成寒冷伤害</td></tr> 
+   <tr><td>Ice Spears 冰矛术：多发冰矛造成寒冷和穿刺伤害，可以击倒敌人</td></tr> 
+   <tr><td>Implosion 内爆术：维持专注，每一轮造成CL*10伤害</td></tr> 
+   <tr><td>Invisibility Purge 消除隐形：反隐形效果法球</td></tr> 
+   <tr><td>Judgement Light 审判之光：审判官法术，基于审判产生不同效果</td></tr> 
+   <tr><td>Keen Edge 锋锐术：为武器附加锐锋</td></tr> 
+   <tr><td>Mortal Terror 凡人怖惧：造成效果逐渐提升的恐惧</td></tr> 
+   <tr><td>Nine Lives 九命天猫：帮助抵消九次有害效果</td></tr> 
+   <tr><td>Screaming Flames 尖叫火墙：火焰及感知伤害</td></tr> 
+   <tr><td>Shadow Trap 阴影陷阱：纠缠目标</td></tr> 
+   <tr><td>Stricken Heart 剜心手：近战接触造成负能量伤害和恍惚</td></tr> 
+   <tr><td>Touch of Blindness 目盲之触：近战接触造成目盲</td></tr> 
+   <tr><td>Unshakable Zeal 狂热执念：增益，检定失败后下次检定获得加值；可以抵消情绪效果并消散</td></tr> 
+   <tr><td>Weapon of Awe 敬畏武器：强化武器，在伤害骰上获得+2神圣加值，并且重击目标将会无豁免战栗一轮。
+</td></tr> 
+   <tr><td>Wrath 狂怒：锁定目标，对指定目标攻击和伤害获得士气加值</td></tr> 
 </table>  
   
