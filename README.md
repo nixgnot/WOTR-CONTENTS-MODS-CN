@@ -121,6 +121,13 @@
       <b>推陈出新</b>：通用巅峰。职业具有至少4个奖励战斗专长可以选择。再获得4个奖励战斗专长。<br>
       其他职业还各自有不同的巅峰选择，例如法师可以获得额外法术位，在此不再一一列出。
       </td></tr>  
+  <tr><td rowspan="6">职业特性</td>
+      <td>血承：Aberrant 异怪血承、Destined 命运血承</td></tr>
+  <tr><td>奥能技艺：Familiar 魔宠、Item Crafting 造物精通、Metamagic Knowledge 超魔学识、Quick Study 快速研读 </td></tr>
+  <tr><td>战士进阶防具训练：Armored Confidence 自信着甲、Armored Juggernaut 盔甲主宰、Armor Specialization 重甲掌握、Critical Deflection 重击偏转、Steel Headbutt 钢铁头槌</td></tr>
+  <tr><td>战士进阶武器训练：Defensive Weapon Training 防御式武器训练、 Focused Weapon 专注武器、Trained Grace 庖丁解牛、Trained Throw 精通投掷、Warrior Spirit 勇士之魂"</td> </tr>
+  <tr><td>魔战士奥秘：Broad Study 奥术扩展、Spell Blending 混合奥法 </td></tr>
+  <tr><td>游荡者天赋： Graceful Athlete 灵巧运动、Bleeding Attack 流血攻击、Emboldening Strike 鼓舞攻击</td></tr>    
   <tr><td rowspan="6">法术</td>
       <td>Cloak of Winds 风之斗篷：敌方远程攻击受到惩罚</td></tr>
   <tr><td>Long Arm 长臂咒：增加触及</td></tr>
@@ -219,13 +226,6 @@
   <tr><td>Mythic Spell Combat 神话法术战斗：魔战士可以用任何道途法术书的法术施展法术战斗</td></tr>
   <tr><td>Precision Critical 精准重击：当你确认一次重击，将所有精准伤害的伤害骰乘二</td></tr>
   <tr><td>Second Patron 第二庇护主</td></tr>  
-  <tr><td rowspan="6">职业特性</td>
-      <td>血承：Aberrant 异怪血承、Destined 命运血承</td></tr>
-  <tr><td>奥能技艺：Familiar 魔宠、Item Crafting 造物精通、Metamagic Knowledge 超魔学识、Quick Study 快速研读 </td></tr>
-  <tr><td>战士进阶防具训练：Armored Confidence 自信着甲、Armored Juggernaut 盔甲主宰、Armor Specialization 重甲掌握、Critical Deflection 重击偏转、Steel Headbutt 钢铁头槌</td></tr>
-  <tr><td>战士进阶武器训练：Defensive Weapon Training 防御式武器训练、 Focused Weapon 专注武器、Trained Grace 庖丁解牛、Trained Throw 精通投掷、Warrior Spirit 勇士之魂"</td></tr>
-  <tr><td>魔战士奥秘：Broad Study 奥术扩展、Spell Blending 混合奥法 </td></tr>
-  <tr><td>游荡者天赋： Graceful Athlete 灵巧运动、Bleeding Attack 流血攻击、Emboldening Strike 鼓舞攻击</td></tr>    
   <tr><td rowspan="1">背景</td>
          <td>Lecturer 讲师： 将知识（世界）和沟通加入本职技能列表，并可以用智力取代魅力进行沟通检定</td></tr>         
   <tr><td rowspan="4">额外种族替换特性</td>
@@ -311,8 +311,14 @@
 + 重要改动：驱散魔法类现在成为了”安全法术“，只会驱散敌人身上的BUFF和我方身上的DEBUFF
 <table>
 <tr><th colspan="2">新增内容列表</th></tr> 
-  <tr><td>变体</td>
-      <td>Eldritch Scion (Sage) 魔战士 - 奥法后继者（贤者）<br><b>注意不要和术士兼职</b></td></tr>      
+   <tr><td>变体</td>
+      <td>Eldritch Scion (Sage) 魔战士 - 奥法后继者（贤者）<br><b>注意不要和术士兼职</b></td></tr>  
+   <tr><td rowspan="5">职业特性</td>
+       <td>血怒血承：Phoenix  凤凰血承，需要TabletopTweaks-Base</td></tr>
+   <tr><td>原力：Clockwork Heart 械动之心</td></tr>
+   <tr><td>庇护主：Light 光耀、Animal 动物、 Protection 保护、Plague 疫病</td></tr>
+   <tr><td>狂暴之力：Rage Stance Mastery 狂暴姿态大师：同时使用两种野蛮人姿态</td></tr>
+   <tr><td>圣疗救赎：Injured 救赎创伤（给予快速治疗）、Ensorcelled 救赎蛊惑（驱散，可对敌）</td></tr>
    <tr><td rowspan="12">法术<br><i>参阅PF文档</i></td>
        <td>Bone Fists 骸骨之拳：增加天生防御和天生武器伤害</td></tr>
    <tr><td>Chains Of Fire 火焰链：闪电链火焰版本</td></tr>
@@ -343,12 +349,6 @@
    <tr><td>Bracers Of The Avenging Knight 复仇骑士护腕：阿尔西诺伊处购买，增加使用破邪斩时的有效等级</td></tr>    
    <tr><td>神话能力</td>
        <td>Mythic Kinetic Aegis 神话念盾：视为拥有1点超载来计算原力-元素防御，在神话3/6/9各增加1点</td></tr>       
-   <tr><td rowspan="5">职业特性</td>
-       <td>血怒血承：Phoenix  凤凰血承，需要TabletopTweaks-Base</td></tr>
-   <tr><td>原力：Clockwork Heart 械动之心</td></tr>
-   <tr><td>庇护主：Light 光耀、Animal 动物、 Protection 保护、Plague 疫病</td></tr>
-   <tr><td>狂暴之力：Rage Stance Mastery 狂暴姿态大师：同时使用两种野蛮人姿态</td></tr>
-   <tr><td>圣疗救赎：Injured 救赎创伤（给予快速治疗）、Ensorcelled 救赎蛊惑（驱散，可对敌）</td></tr>
  </table> 
 
 -------------------------------------------
@@ -456,6 +456,9 @@
    <tr><td>Ocean's Echo 先知 - 海洋回声</td></tr> 
    <tr><td>Draconic Shaman 萨满 - 龙族萨满</td></tr> 
    <tr><td>Draconic Scholar 奥能师 - 龙之学者</td></tr> 
+   <tr><td rowspan="2">职业特性</td>
+       <td>先知秘示域：Dragon 龙、Heavens 天堂、Succor 救助</td></tr>
+   <tr><td>先知诅咒：Vampirism 吸血鬼</td></tr>
    <tr><td>基础动作</td>
        <td>Aid Another 援助他人</td></tr>
    <tr><td>专长</td>
@@ -469,9 +472,6 @@
        <td>Scalykind 鳞状</td></tr>
    <tr><td>子领域</td>
        <td>Agathion 阿加西翁、 Archon 亚空, Blood 血液、Caves 洞穴、Curse 诅咒、 Demon, Dragon 龙、Ferocity 凶猛、Ice 冰、Lust 欲望、Psychopomp 招魂、Rage 狂暴、 Resolve 决心、Restoration 恢复、Revelation 启示、Revolution 革命、Rivers 河流、Stars 星空、Storm 风暴、Thievery 盗窃、Undead 不死、Whimsy 滑稽、Wind 风</td></tr>
-   <tr><td rowspan="2">职业特性</td>
-       <td>先知秘示域：Dragon 龙、Heavens 天堂、Succor 救助</td></tr>
-   <tr><td>先知诅咒：Vampirism 吸血鬼</td></tr>
    <tr><td rowspan="25">法术<br><i>参阅PF文档</i></td>
        <td>Hydraulic push 水流冲击</td></tr>
    <tr><td>Slipstream 滑流</td></tr>
@@ -563,6 +563,13 @@
 + 大型MOD，增加很多新内容
 <table>  
  <tr><th colspan="2">新增内容列表<br></th></tr> 
-  
+  <tr><td rowspan="2">变体<br><i>参阅PF文档</i></td>
+       <td>Arrowsong Minstrel 吟游诗人 - 箭歌咏者</td></tr> 
+   <tr><td>Winter Witch 巫师 - 冬巫 <b>基础职业巫师变体，和进阶职业不同</b></td></tr> 
+   <tr><td rowspan="2">职业特性</td>
+       <td>原力：Shimmering Mirage 微光幻影、Suffocate 窒息</td></tr>
+   <tr><td>游荡者天赋：Shadow Duplicate 影分身，被击中时可释放类似镜影</td></tr>
+   <tr><td>杀手绝技：<br>Armored Marauder 装甲强袭，擅长重甲并减少惩罚<br>Armored Swiftness 迅捷甲士，重甲不影响速度并提高最大敏捷加值<br>Slowing Strike 延缓打击，偷袭造成减速</td></tr>
+   <tr><td>巫术：Ice Tomb 冰冢，寒冷并麻痹</td></tr>
 </table>  
   
