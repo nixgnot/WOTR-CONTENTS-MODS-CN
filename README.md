@@ -29,7 +29,7 @@
   - [MorvarchsPlaystyleExpansions](#MorvarchsPlaystyleExpansions) Morvarchs玩法扩展
   - [PhoenixsCantrips](#PhoenixsCantrips) Phoenixs戏法强化
     - [MoreCantrips](#MoreCantrips) 更多戏法
-  - [CharacterOptions+](#CharacterOptions+) 角色选项+
+  - [CharacterOptionsPlus](#CharacterOptionsPlus) 角色选项+
 
 ## 基础知识
 
@@ -555,7 +555,7 @@
  </table>   
  
 ------------------------------------------- 
-### [CharacterOptions+](https://github.com/WittleWolfie/CharacterOptionsPlus)
+### [CharacterOptionsPlus](https://github.com/WittleWolfie/CharacterOptionsPlus)
 > *前置：* TabletopTweaks-Core, ModMenu<br>
 > *中文：* **无**<br>
 > *安装方式：* **UMM**<br>
