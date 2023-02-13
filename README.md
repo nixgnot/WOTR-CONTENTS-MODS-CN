@@ -566,8 +566,8 @@
   <tr><td rowspan="2">变体<br><i>参阅PF文档</i></td>
        <td>Arrowsong Minstrel 吟游诗人 - 箭歌咏者</td></tr> 
    <tr><td>Winter Witch 巫师 - 冬巫 <b>基础职业巫师变体，和进阶职业不同</b></td></tr> 
-   <tr><td rowspan="2">职业特性</td>
-       <td>原力：Shimmering Mirage 微光幻影、Suffocate 窒息</td></tr>
+   <tr><td rowspan="4">职业特性</td>
+       <td>原力：<br>Shimmering Mirage 微光幻影，获得隐蔽<br>Suffocate 窒息，窒息目标可导致昏迷</td></tr>
    <tr><td>游荡者天赋：Shadow Duplicate 影分身，被击中时可释放类似镜影</td></tr>
    <tr><td>杀手绝技：<br>Armored Marauder 装甲强袭，擅长重甲并减少惩罚<br>Armored Swiftness 迅捷甲士，重甲不影响速度并提高最大敏捷加值<br>Slowing Strike 延缓打击，偷袭造成减速</td></tr>
    <tr><td>巫术：Ice Tomb 冰冢，寒冷并麻痹</td></tr>
