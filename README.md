@@ -504,154 +504,105 @@
             </td><td>是
             </td><td>否
             </td><td>林妖诡术师：妖精诡术现包括所有游荡者天赋</td></tr>
-
-  <tr><td>Shaman
-    <tr><td>Base
-    </td>
-        <tr><td>AmelioratingHex
+  <tr><td>萨满<br>Shaman</td>
+        <td>Base - AmelioratingHex
           </td><td>是
           </td><td>否
-          </td><td>No longer grants complete immunity to effects and instead suppresses correctly.  </td></tr>
-      <tr><td>IsExpanded<tr><td>: true
-</td></tr>
-    <tr><td>Archetypes}
-  </td></tr>
-  <tr><td>Skald
-    <tr><td>Base
-    </td>
-        <tr><td>SpellKenning
+          </td><td>救难不再给予完全免疫能力，改为压制效果</td></tr>
+  <tr><td rowspan="2">歌者<br>Skald</td>
+    <td>Base - SpellKenning
           </td><td>是
           </td><td>否
-          </td><td>Enables spell kenning as a feature.  </td></tr>
-      <tr><td>IsExpanded<tr><td>: true
-</td></tr>
-    <tr><td>Archetypes
-      <tr><td>BattleScion
-        </td>
-          <tr><td>BattleProwessSelection
+          </td><td>允许法术认知特性</td></tr>      
+    <tr><td>Archetypes - BattleScion - BattleProwessSelection
             </td><td>是
             </td><td>否
-            </td><td>Adds missing rage powers to selection.  </td></tr>
-        <tr><td>IsExpanded<tr><td>: true
-    }
-  </td></tr>
-  <tr><td>Slayer
-    <tr><td>Base
-    </td>
-        <tr><td>Trapfinding
+            </td><td>战歌贵胄：补充缺失的狂暴之力选项</td></tr>
+  <tr><td>杀手<br>Slayer</td>
+    <td>Base - Trapfinding
           </td><td>是
           </td><td>否
-          </td><td>Trapfinding now grants bonuses to perception and trickery.  </td></tr>
-      <tr><td>IsExpanded<tr><td>: true
-</td></tr>
-    <tr><td>Archetypes}
-  </td></tr>
-  <tr><td>Sorcerer
-    <tr><td>Base
-    </td>
-        <tr><td>DraconicBloodlineDescriptions
+          </td><td>寻找陷阱特性现在对察觉和巧手生效</td></tr>
+  <tr><td rowspan="3">术士<br>Sorcerer</td>
+    <td>Base - DraconicBloodlineDescriptions
           </td><td>是
           </td><td>否
-          </td><td>Fixes the arcana descriptions to better reflect what they actually do.  </td></tr>
+          </td><td>血承：修正奥术血承描述</td></tr>
         <tr><td>PatchElementalBloodlineDescriptions
           </td><td>是
           </td><td>否
-          </td><td>Fixes the arcana to show up in the level up UI with the correct name and descriptions.  </td></tr>
-      <tr><td>IsExpanded<tr><td>: true
-</td></tr>
-    <tr><td>Archetypes
-      <tr><td>Crossblooded
-        </td>
-          <tr><td>Drawbacks
+          </td><td>修复升级UI上元素血承的错误</td></tr>
+      <tr><td>Archetypes - Crossblooded - Drawbacks
             </td><td>是
             </td><td>否
-            </td><td>Crossblooded sorcerers now take the -2 will saving throw penalty that they were missing.  </td></tr>
-        <tr><td>IsExpanded<tr><td>: true
-    }
-  </td></tr>
-  <tr><td>Warpriest
-    <tr><td>Base
-    </td>
-        <tr><td>AirBlessing
+            </td><td>混血术士：补充混血术士应承受的-2意志豁免惩罚</td></tr>       
+  <tr><td>战斗祭司<br>Warpriest</td>
+        <td>Base - AirBlessing
           </td><td>是
           </td><td>否
-          </td><td>Air Major blessing no longer causes excessive damage instances.  </td></tr>
-        <tr><td>EarthBlessing
+          </td><td>空气主要祝福不再造成过多的伤害实例</td></tr>
+        <tr><td>Base - EarthBlessing
           </td><td>是
           </td><td>否
-          </td><td>Earth Minor blessing no longer causes excessive damage instances.  </td></tr>
-        <tr><td>FireBlessing
+          </td><td>大地次要祝福不再造成过多的伤害实例</td></tr>
+        <tr><td>Base - FireBlessing
           </td><td>是
           </td><td>否
-          </td><td>Fire Minor blessing no longer causes excessive damage instances.  </td></tr>
-        <tr><td>LuckBlessing
+          </td><td>火焰次要祝福不再造成过多的伤害实例</td></tr>
+        <tr><td>Base - LuckBlessing
           </td><td>是
           </td><td>否
-          </td><td>Luck Blessing now grants the correct major ability.  </td></tr>
-        <tr><td>WaterBlessing
+          </td><td>幸运祝福提供正确主要能力</td></tr>
+        <tr><td>Base - WaterBlessing
           </td><td>是
           </td><td>否
-          </td><td>Water Minor blessing no longer causes excessive damage instances.  </td></tr>
-        <tr><td>WeatherBlessing
+          </td><td>流水次要祝福不再造成过多的伤害实例</td></tr>
+        <tr><td>Base - WeatherBlessing
           </td><td>是
           </td><td>否
-          </td><td>Weather Minor blessing no longer causes excessive damage instances.  </td></tr>
-      <tr><td>IsExpanded<tr><td>: true
-</td></tr>
-    <tr><td>Archetypes}
-  </td></tr>
-  <tr><td>Witch
-    <tr><td>Base
-    </td>
-        <tr><td>AgilityPatron
+          </td><td>天气次要祝福不再造成过多的伤害实例</td></tr>      
+  <tr><td>巫师<br>Witch</td>
+        <td>Base - AgilityPatron
           </td><td>是
           </td><td>否
-          </td><td>Agility Patron now gets Animal Shapes at 16th level and Shapechange at 18th.  </td></tr>
-        <tr><td>AmelioratingHex
+          </td><td>机敏庇护主提供动物之型和变化形体</td></tr>
+        <tr><td>Base - AmelioratingHex
           </td><td>是
           </td><td>否
-          </td><td>No longer grants complete immunity to effects and instead suppresses correctly.  </td></tr>
-        <tr><td>MajorAmelioratingHex
+          </td><td>救难不再给予完全免疫能力，改为压制效果</td></tr>
+        <tr><td>Base - MajorAmelioratingHex
           </td><td>是
           </td><td>否
-          </td><td>No longer grants complete immunity to effects and instead suppresses correctly.  </td></tr>
-      <tr><td>IsExpanded<tr><td>: true
-</td></tr>
-    <tr><td>Archetypes}
-  </td></tr>
-  <tr><td>Hellknight</td>
+          </td><td>强效救难不再给予完全免疫能力，改为压制效果</td></tr>
+  <tr><td>地狱骑士<br>Hellknight</td>
       <td>PentamicFaith
         </td><td>是
         </td><td>否
-        </td><td>Pentamic Faith now requires the Godclaw hellknight order not the deity.</td></tr>
-    <tr><td>IsExpanded<tr><td>: true
-  </td></tr>
-  <tr><td>Loremaster</td>
+        </td><td>五誓：仅限神爪骑士团，不限信仰神祗</td></tr>
+  <tr><td>博学士<br>Loremaster</td>
       <td>Prerequisites
         </td><td>是
         </td><td>否
-        </td><td>Updates the prerequisites to be more strict and better match tabletop.</td></tr>
+        </td><td>将前置条件改为更符合桌面规则</td></tr>
       <tr><td>SpellProgression
         </td><td>是
         </td><td>否
-        </td><td>Grants spell progression at level 1. This is not retroactive.</td></tr>
+        </td><td>1级获得施法能力升级，这个改动不能回溯</td></tr>
       <tr><td>SpellSecrets
         </td><td>是
         </td><td>否
-        </td><td>Enables spell secrets.</td></tr>
+        </td><td>允许法术秘闻</td></tr>
       <tr><td>TricksterTricks
         </td><td>是
         </td><td>否
-        </td><td>Removes trickster tricks from the combat feat selection.</td></tr>
-    <tr><td>IsExpanded<tr><td>: true
-  </td></tr>
-  <tr><td>WinterWitch</td>
+        </td><td>从秘闻战斗专长列表中移除诡计道途相关专长</td></tr>
+  <tr><td>冬巫<br>WinterWitch</td>
       <td>UnearthlyCold
         </td><td>是
         </td><td>否
-        </td><td>Fixes unearthly cold to properly apply metamagic and bonus damage.</td></tr>
-    <tr><td>IsExpanded<tr><td>: true
-  </td></tr>
+        </td><td>修复异界严寒和超魔及奖励伤害的互动</td></tr>
+</table>
+
   <tr><td>Spells</td>
       <td>AbsoluteOrder
         </td><td>是
@@ -1221,7 +1172,7 @@
   <tr><td>Channeler Of The Unknown 牧师 - 熵化导能师</td></tr>
   <tr><td>Blade Bound 魔战士 - 剑缚者</td></tr>
   <tr><td>NatureFang 德鲁伊 - 自然之牙</td></tr>
-  <tr><td>Divine Commander 战争祭祀 - 圣战指挥官</td></tr>
+  <tr><td>Divine Commander 战斗祭司 - 圣战指挥官</td></tr>
   <tr><td>Cauldron Witch 巫师 - 炼药巫师</td></tr>
   <tr><td>巅峰</td>
       <td>TTT新增，当一个角色在某一职业上达到20级可以选择一个巅峰奖励。部分巅峰只供特定职业选择，另外一些则为通用。<br>
@@ -1388,7 +1339,7 @@
    <tr><td>Flickering Step 闪现步伐：可用类法术能力释放次元门</td></tr>
    <tr><td>Crusader's Flurry 圣战连击：可以用神祇偏好的近战武器进行疾风连击</td></tr>
    <tr><td rowspan="3">法术</td>
-       <td>Deadly Juggernaut 死亡化身（牧师3，审判官3，圣武士3，反圣武士3，战争祭祀3）：<i>参阅PF文档</i>，击杀对手获得奖励</td></tr>
+       <td>Deadly Juggernaut 死亡化身（牧师3，审判官3，圣武士3，反圣武士3，战斗祭司3）：<i>参阅PF文档</i>，击杀对手获得奖励</td></tr>
    <tr><td>Blade of Dark Triumph 黑暗祝胜之刃（反圣武士3）：<i>参阅PF文档</i>，强化神契武器</td></tr>
    <tr><td>Blade of Dark Triumph 光辉胜利之刃（圣武士3）：<i>参阅PF文档</i>，强化神契武器</td></tr>
    <tr><td>武僧气力</td>
@@ -1475,7 +1426,7 @@
 + Homebrew Archetypes分为三个部分：
   + 本体：核心内容
   + AC：修改部分物品和机制，**队友入队等级变为1**
-  + ACTestingGrounds：将部分队友变为桌面版规则原职业或变体，未汉化 
+  + ACTestingGrounds：将部分队友变为原创职业、规则书职业或变体，未汉化 
  <table>
  <tr><th colspan="2">新增内容列表<br>详细介绍可以参阅汉化发布贴或游戏内说明</th></tr> 
    <tr><td rowspan="2">职业</td>
@@ -1505,7 +1456,7 @@
   <tr><td>Ancient Lorekeeper 先知 - 传古学者</td></tr>
   <tr><td>Wild Stalker 游侠 - 野性潜猎者</td></tr>
   <tr><td>Sword-Devil 游侠 - 剑魔</td></tr>
-  <tr><td>Sacred Fist 战争祭祀 - 神拳使</td></tr>
+  <tr><td>Sacred Fist 战斗祭司 - 神拳使</td></tr>
   <tr><td>Undead Master 法师 - 死灵之主</td></tr>
   <tr><td>Scarred Witch Doctor 巫师 - 疤痕巫医</td></tr>
   <tr><td rowspan="2">进阶职业</td>
@@ -1554,7 +1505,7 @@
    <tr><td>DreadKnight 恐惧骑士及变体：Conqueror 征服者、Claw of the False Wyrm 虚龙之爪</td></tr> 
    <tr><td rowspan="14">变体</td>
        <td>Living Scripture 审判官 - 活圣经</td></tr> 
-   <tr><td>Mantis Zealot 战争祭祀 - 螳螂狂徒</td></tr> 
+   <tr><td>Mantis Zealot 战斗祭司 - 螳螂狂徒</td></tr> 
    <tr><td>Mooncaller 德鲁伊 - 唤月者</td></tr> 
    <tr><td>Draconic Druid 德鲁伊 - 龙之德鲁伊</td></tr> 
    <tr><td>Storm Druid 德鲁伊 - 风暴德鲁伊</td></tr> 
