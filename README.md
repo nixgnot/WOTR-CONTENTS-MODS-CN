@@ -265,7 +265,7 @@
         </td><td>否
         </td><td>神话诡计使用魔法装置2允许诡计大师忽略装备的阵营和职业需求</td></tr>
   <tr><td>巅峰</td>
-      <td>AlternateCapstones</td><td rolspan="3">允许单独开关各个职业巅峰，详见新增内容</td></tr>
+      <td>AlternateCapstones</td><td colspan="3">允许单独开关各个职业巅峰，详见新增内容</td></tr>
   <tr><td rowspan="6">炼金术士<br>Alchemist</td>
       <td>Base - MutagenStacking
             </td><td>是
@@ -372,7 +372,7 @@
             </td><td>否
             </td><td>防止穿透冲锋伤害重击，使用新的冲锋伤害系统</td></tr>
   <tr><td>牧师<br>Cleric</td>
-    <tr><td>Base - GloryDomain
+      <td>Base - GloryDomain
           </td><td>是
           </td><td>否
           </td><td><s>修复荣耀领域魅力奖励</s>原版已修复</td></tr>
@@ -457,7 +457,7 @@
           </td><td>是
           </td><td>否
           </td><td>启示：修复烈焰魔法CL计算</td></tr>
-  <tr><td>圣武士 rowspan="2"<br>Paladin</td>
+  <tr><td rowspan="2">圣武士<br>Paladin</td>
         <td>Base - DivineMountTemplate</td>
           </td><td>是
           </td><td>否
@@ -466,7 +466,7 @@
           </td><td>是
           </td><td>否
           </td><td>辟邪斩攻击加值不能再和类似能力（辟邪斩、正义烙印）等叠加</td></tr>
-   <tr><td>游侠 rowspan="2"<br>Ranger</td>
+   <tr><td rowspan="2">游侠<br>Ranger</td>
         <td>Base - FavoredEnemy</td>
           </td><td>是
           </td><td>否
@@ -475,7 +475,7 @@
             </td><td>是
             </td><td>否
             </td><td>谍报专家：寻找陷阱特性现在对察觉和巧手生效</td></tr>   
-  <tr><td>游荡者<br>Rogue</td>
+  <tr><td rowspan="7">游荡者<br>Rogue</td>
         <td>Base - DispellingAttack
           </td><td>是
           </td><td>否
