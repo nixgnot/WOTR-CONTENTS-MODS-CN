@@ -626,9 +626,9 @@
 + 大型MOD，增加很多新内容 
 > **重要对游戏机制改变选项提示**
 > **下列选项默认为关闭状态**
-> **General.PatchBasicFreebieFeats** 减少“专长税”，将大量低级基础专长（如猛力攻击、武器娴熟等）变为免费赠送，解放大量专长
-> **Mythic.PatchElementalBarrage** 元素狂潮回滚，可以用武器伤害触发
-> **Patch.Patch_ZippySpellLike** 灵动魔法回滚，可以对类法术能力生效
+> **General.PatchBasicFreebieFeats** 减少“专长税”，将大量低级基础专长（如猛力攻击、武器娴熟等）变为免费赠送，解放大量专长<br>
+> **Mythic.PatchElementalBarrage** 元素狂潮回滚，可以用武器伤害触发<br>
+> **Patch.Patch_ZippySpellLike** 灵动魔法回滚，可以对类法术能力生效<br>
 <table>  
  <tr><th colspan="2">新增内容列表<br></th></tr> 
   <tr><td rowspan="1">变体<br><i>参阅PF文档</i></td>
