@@ -536,7 +536,7 @@
             </td><td>是
             </td><td>否
             </td><td>混血术士：补充混血术士应承受的-2意志豁免惩罚</td></tr>       
-  <tr><td>战斗祭司<br>Warpriest</td>
+  <tr><td rowspan="6">战斗祭司<br>Warpriest</td>
         <td>Base - AirBlessing
           </td><td>是
           </td><td>否
@@ -561,7 +561,7 @@
           </td><td>是
           </td><td>否
           </td><td>天气次要祝福不再造成过多的伤害实例</td></tr>      
-  <tr><td>巫师<br>Witch</td>
+  <tr><td rowspan="3">巫师<br>Witch</td>
         <td>Base - AgilityPatron
           </td><td>是
           </td><td>否
@@ -579,7 +579,7 @@
         </td><td>是
         </td><td>否
         </td><td>五誓：仅限神爪骑士团，不限信仰神祗</td></tr>
-  <tr><td>博学士<br>Loremaster</td>
+  <tr><td rowspan="4">博学士<br>Loremaster</td>
       <td>Prerequisites
         </td><td>是
         </td><td>否
