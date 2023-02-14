@@ -587,7 +587,7 @@
       <tr><td>SpellProgression
         </td><td>是
         </td><td>否
-        </td><td>1级获得施法能力升级，这个改动不能回溯</td></tr>
+        </td><td>1级获得施法能力升级（拿可知法术），这个改动不能回溯</td></tr>
       <tr><td>SpellSecrets
         </td><td>是
         </td><td>否
