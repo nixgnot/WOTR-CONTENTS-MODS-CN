@@ -171,7 +171,7 @@
       <tr><td>FixCriticalConfirmation
         </td><td>是
         </td><td>否
-        </td><td>允许自然20自动确认重击</td></tr>
+        </td><td>允许天然20自动确认重击</td></tr>
       <tr><td>FixInherentBonuses
         </td><td>是
         </td><td>否
@@ -350,256 +350,161 @@
             </td><td>是
             </td><td>否
             </td><td>修复憎恨邪恶奖励</td></tr>
-
-  <tr><td rowspan="">骑将<br>Cavalier</td>
+  <tr><td rowspan="5">骑将<br>Cavalier</td>
     <td>Base - CavalierMobility
           </td><td>是
           </td><td>否
-          </td><td>Allows Cavalier to ignore their armor check penalty while mounted for mobility skill checks.  </td></tr>
+          </td><td>骑乘移动时忽略运动检定的护甲惩罚</td></tr>
         <tr><td>Base - CavalierMountSelection
           </td><td>是
           </td><td>否
-          </td><td>Allows the Cavalier to select a wolf for a mount if they are of small size.  </td></tr>
+          </td><td>小体型骑将允许选择狼坐骑</td></tr>
         <tr><td>Base - OrderOfTheStarCalling
           </td><td>是
           </td><td>否
-          </td><td>Bonuses should now actually be calculated instead of just being displayed.  </td></tr>
+          </td><td>修复星辰骑士团使命感效果</td></tr>
         <tr><td>Base - SupremeCharge
           </td><td>是
           </td><td>否
-          </td><td>Prevents Supreme Charge damage from criting and moves it into the new charge damage system.  </td></tr>
-
+          </td><td>防止至高冲锋伤害重击，使用新的冲锋伤害系统</td></tr>
         <tr><td>Archetypes - Gendarme - TransfixingCharge
             </td><td>是
             </td><td>否
-            </td><td>Prevents Transfixing Charge damage from criting and moves it into the new charge damage system.  </td></tr>
-
-  <tr><td>Cleric
-    <tr><td>Base
-    </td>
-        <tr><td>GloryDomain
+            </td><td>防止穿透冲锋伤害重击，使用新的冲锋伤害系统</td></tr>
+  <tr><td>牧师<br>Cleric</td>
+    <tr><td>Base - GloryDomain
           </td><td>是
           </td><td>否
-          </td><td>Glory domain no longer grants an untyped bonus the the raw Charisma stat.  </td></tr>
-      <tr><td>IsExpanded<tr><td>: true
-</td></tr>
-    <tr><td>Archetypes}
-  </td></tr>
-  <tr><td>Fighter
-    <tr><td>Base
-    </td>
-        <tr><td>AdvancedArmorTraining
+          </td><td><s>修复荣耀领域魅力奖励</s>原版已修复</td></tr>
+  <tr><td rowspan="6">战士<br>Fighter</td>
+        <td>Base - AdvancedArmorTraining
           </td><td>是
           </td><td>否
-          </td><td>Enables the fighter to take advanced armor training instead of increasing their armor training rank.  </td></tr>
+          </td><td>允许战士选择高级护甲训练，替代护甲训练升级</td></tr>
         <tr><td>AdvancedWeaponTraining
           </td><td>是
           </td><td>否
-          </td><td>Enforces the weapon training prerequisites properly.  </td></tr>
+          </td><td>修复武器训练先决条件</td></tr>
         <tr><td>TwoHandedWeaponTraining
           </td><td>是
           </td><td>否
-          </td><td>Treats two handed fighter's weapon training as proper weapon training.  </td></tr>
+          </td><td>修复双手武器战士训练没有被正确视为武器训练的问题</td></tr>
         <tr><td>UnarmedWeaponTraining
           </td><td>是
           </td><td>否
-          </td><td>Makes unarmed correctly count as the close weapon group.  </td></tr>
+          </td><td>徒手攻击被正确算作近身武器组</td></tr>
         <tr><td>WeaponTrainingStacking
           </td><td>是
           </td><td>否
-          </td><td>Prevents bonuses from multiple weapon training groups from stacking.  </td></tr>
-      <tr><td>IsExpanded<tr><td>: true
-</td></tr>
-    <tr><td>Archetypes
-      <tr><td>TwoHandedFighter
-        </td>
-          <tr><td>AdvancedWeaponTraining
+          </td><td>防止多个武器训练组叠加</td></tr>
+        <tr><td>Archetypes - TwoHandedFighter - AdvancedWeaponTraining
             </td><td>是
             </td><td>否
-            </td><td>Allows two handed fighter to pick advanced weapon training feats.  </td></tr>
-        <tr><td>IsExpanded<tr><td>: true
-    }
-  </td></tr>
-  <tr><td>Hunter
-    <tr><td>Base
-    </td></td></tr>
-      <tr><td>IsExpanded<tr><td>: true
-</td></tr>
-    <tr><td>Archetypes
-      <tr><td>DivineHunter
-        </td>
-          <tr><td>OtherworldlyCompanion
+            </td><td>双手武器战士：允许选择进阶武器训练专长</td></tr>
+  <tr><td rowspan="1">猎人</td>
+    <td>Archetypes - DivineHunter - OtherworldlyCompanion
             </td><td>是
             </td><td>否
-            </td><td>Fixes Celestial and Fiendish templates giving unlimited smites.  </td></tr>
-        <tr><td>IsExpanded<tr><td>: true
-    }
-  </td></tr>
-  <tr><td>Kineticist
-    <tr><td>Base
-    </td></td></tr>
-      <tr><td>IsExpanded<tr><td>: true
-</td></tr>
-    <tr><td>Archetypes}
-  </td></tr>
-  <tr><td>Magus
-    <tr><td>Base
-    </td>
-        <tr><td>AddMissingArcaneWeaponEffects
+            </td><td>神眷猎人：天界和魔界变体不再给予无限辟邪斩类能力</td></tr>
+  <tr><td rowspan="5">魔战士<br>Magus</td>
+    <td>Base - AddMissingArcaneWeaponEffects
           </td><td>是
           </td><td>否
-          </td><td>Adds: Flaming Burst, Icy Burst, Shocking Burst enchant options.  </td></tr>
-        <tr><td>SpellCombatAbilityVariants
+          </td><td>添加缺少的奥法武器效果：焰爆、霜爆、电爆</td></tr>
+        <tr><td>Base - SpellCombatAbilityVariants
           </td><td>是
           </td><td>否
-          </td><td>Lets spell combat work with spells that have variants like dimension door.  </td></tr>
-        <tr><td>SpellCombatDisableImmediatly
+          </td><td>使得法术战斗能够对带有进一步选项的法术（如：次元门）适用</td></tr>
+        <tr><td>Base - SpellCombatDisableImmediatly
           </td><td>是
           </td><td>否
-          </td><td>Disables spell combat immediately when toggled off instead of having to wait until the next round.  </td></tr>
-        <tr><td>SpellCombatSpellbookRestrictions
+          </td><td>关闭法术战斗时当个回合立刻生效，不需要等待下个回合</td></tr>
+        <tr><td>Base - SpellCombatSpellbookRestrictions
           </td><td>是
           </td><td>否
-          </td><td>Prevents spells that are not in the magus spellbook from working with spell combat.  </td></tr>
-      <tr><td>IsExpanded<tr><td>: true
-</td></tr>
-    <tr><td>Archetypes
-      <tr><td>SwordSaint
-        </td>
-          <tr><td>PerfectCritical
+          </td><td>防止不在魔战士法术表上的法术适用于法术战斗</td></tr>
+        <tr><td>Archetypes - SwordSaint - PerfectCritical
             </td><td>是
             </td><td>否
-            </td><td>Updates perfect critical's cost to 2 points of arcane pool instead of 1.  </td></tr>
-        <tr><td>IsExpanded<tr><td>: true
-    }
-  </td></tr>
-  <tr><td>Monk
-    <tr><td>Base
-    </td>
-        <tr><td>StunningFistVarriants
+            </td><td>剑圣：完美重击花费2点奥法点数</td></tr>
+  <tr><td rowspan="5">武僧<br>Monk</td>
+        <td>Base - StunningFistVarriants
           </td><td>是
           </td><td>否
-          </td><td>Adds the missing stunning fist variants at level 12, 16 and 20 of monk.  </td></tr>
-        <tr><td>StunningFistDescriptors
+          </td><td>增加缺失的在12、16、20级获得的震慑拳选项</td></tr>
+        <tr><td>Base - StunningFistDescriptors
           </td><td>是
           </td><td>否
-          </td><td>Fixes descriptors on stunning fist that prevents activation if you are immune to the effect.  </td></tr>
-      <tr><td>IsExpanded<tr><td>: true
-</td></tr>
-    <tr><td>Archetypes
-      <tr><td>ZenArcher
-        </td>
-          <tr><td>PerfectStrike
+          </td><td>修复震慑拳描述字段，避免免疫对应效果时生效</td></tr>
+        <tr><td>Archetypes - ZenArcher - PerfectStrike
             </td><td>是
             </td><td>否
-            </td><td>At level 10 a zen archer will roll 3 dice instead of 2 with perfect strike.  </td></tr>
-        <tr><td>IsExpanded<tr><td>: true
-</td></tr>
-      <tr><td>ScaledFist
-        </td>
-          <tr><td>FixStunningStrike
+            </td><td>禅宗射手：10级时极意击改为投3个骰子</td></tr>
+        <tr><td>Archetypes - ScaledFist - FixStunningStrike
             </td><td>是
             </td><td>否
-            </td><td>Fixes stunning fist to use the normal version instead of an unnecessary specific version.</td></tr>
+            </td><td>鳞甲之拳：使得震慑拳使用普通版本</td></tr>
           <tr><td>DraconicFury
             </td><td>是
             </td><td>否
-            </td><td>Fixes draconic fury to use the unchained version of the monk progression instead of the chained.  </td></tr>
-        <tr><td>IsExpanded<tr><td>: true
-    }
-  </td></tr>
-  <tr><td>Oracle
-    <tr><td>Base
-    </td>
-        <tr><td>NaturesWhisperMonkStacking
+            </td><td>鳞甲之拳：龙裔怒火替换为Unchained版本 </td></tr>
+  <tr><td rowspan="2">先知<br>Oracle</td>
+        <td>Base - NaturesWhisperMonkStacking</td>
           </td><td>是
           </td><td>否
-          </td><td>Prevents Natures Whispers from stacking with Scaled Fist AC bonus. If scaled fist is present dexterity will be used for AC not charisma.  </td></tr>
-        <tr><td>RevelationBurningMagic
+          </td><td>启示：自然低语不能再和鳞甲之拳的AC奖励叠加。拥有鳞甲之拳效果时会改回使用敏捷奖励</td></tr>
+        <tr><td>Base - RevelationBurningMagic
           </td><td>是
           </td><td>否
-          </td><td>Fixes the CL scaling to be equal to oracle level.  </td></tr>
-      <tr><td>IsExpanded<tr><td>: true
-</td></tr>
-    <tr><td>Archetypes}
-  </td></tr>
-  <tr><td>Paladin
-    <tr><td>Base
-    </td>
-        <tr><td>DivineMountTemplate
+          </td><td>启示：修复烈焰魔法CL计算</td></tr>
+  <tr><td>圣武士 rowspan="2"<br>Paladin</td>
+        <td>Base - DivineMountTemplate</td>
           </td><td>是
           </td><td>否
-          </td><td>Updates the template gained by the paladin mount at level 9 to have all of its features.  </td></tr>
-        <tr><td>SmiteAttackBonus
+          </td><td>修复圣骑士模板，给予应有特性</td></tr>
+        <tr><td>Base - SmiteAttackBonus
           </td><td>是
           </td><td>否
-          </td><td>The attack bonus from Smite Evil/Smite Chaos/Mark of Justice will no longer stack.  </td></tr>
-      <tr><td>IsExpanded<tr><td>: true
-</td></tr>
-    <tr><td>Archetypes}
-  </td></tr>
-  <tr><td>Ranger
-    <tr><td>Base
-    </td>
-        <tr><td>FavoredEnemy
+          </td><td>辟邪斩攻击加值不能再和类似能力（辟邪斩、正义烙印）等叠加</td></tr>
+   <tr><td>游侠 rowspan="2"<br>Ranger</td>
+        <td>Base - FavoredEnemy</td>
           </td><td>是
           </td><td>否
-          </td><td>Favored enemy outsider now applies to ALL demons. The Demons of X are disabled unless you already have ranks, but otherwise function identically to favored enemy outsider and you can keep picking them for compatibility with existing characters.  </td></tr>
-      <tr><td>IsExpanded<tr><td>: true
-</td></tr>
-    <tr><td>Archetypes
-      <tr><td>EspionageExpert
-        </td>
-          <tr><td>Trapfinding
+          </td><td>统一三种恶魔宿敌为异界生物，不能再选择单独种类恶魔（对于已经选择的不会删除，你依然可以继续选择防止出现兼容性问题）</td></tr>
+    <tr><td>Archetypes - EspionageExpert - Trapfinding
             </td><td>是
             </td><td>否
-            </td><td>Trapfinding now grants bonuses to perception and trickery.  </td></tr>
-        <tr><td>IsExpanded<tr><td>: true
-    }
-  </td></tr>
-  <tr><td>Rogue
-    <tr><td>Base
-    </td>
-        <tr><td>DispellingAttack
+            </td><td>谍报专家：寻找陷阱特性现在对察觉和巧手生效</td></tr>   
+  <tr><td>游荡者<br>Rogue</td>
+        <td>Base - DispellingAttack
           </td><td>是
           </td><td>否
-          </td><td>Makes Dispelling attack use the correct CL for the dispel and prevents Dispelling attack from removing debuffs.  </td></tr>
-        <tr><td>RogueTalentSelection
+          </td><td>修复职业特性解除正确CL，不会解除DEBUFF</td></tr>
+        <tr><td>Base - RogueTalentSelection
           </td><td>是
           </td><td>否
-          </td><td>Prevents you from selecting the same talent more than once.  </td></tr>
-        <tr><td>SlipperyMind
+          </td><td>游荡者天赋不能重复选择同一个（比如战斗专长）</td></tr>
+        <tr><td>Base - SlipperyMind
           </td><td>是
           </td><td>否
-          </td><td>Sets Slippery Mind to correctly be an advanced talent..  </td></tr>
-        <tr><td>Trapfinding
+          </td><td>心智灵活纠正为高级天赋</td></tr>
+        <tr><td>Base - Trapfinding
           </td><td>是
           </td><td>否
-          </td><td>Trapfinding now grants bonuses to perception and trickery.  </td></tr>
-      <tr><td>IsExpanded<tr><td>: true
-</td></tr>
-    <tr><td>Archetypes
-      <tr><td>EldritchScoundrel
-        </td>
-          <tr><td>RogueTalentProgression
+          </td><td>寻找陷阱特性现在对察觉和巧手生效</td></tr>
+        <tr><td>Archetypes - EldritchScoundrel - RogueTalentProgression
             </td><td>是
             </td><td>否
-            </td><td>Removes the level 2 rogue talent and adds in a level 4 talent.</td></tr>
-          <tr><td>SneakAttackProgression
+            </td><td>奥法暴徒：2级游荡者天赋移动到4级</td></tr>
+         <tr><td>Archetypes - EldritchScoundrel - SneakAttackProgression
             </td><td>是
             </td><td>否
-            </td><td>Removes the sneak attack dice granted at level 1.  </td></tr>
-        <tr><td>IsExpanded<tr><td>: true
-</td></tr>
-      <tr><td>SylvanTrickster
-        </td>
-          <tr><td>FeyTricks
+            </td><td>奥法暴徒：移除1级偷袭骰</td></tr>
+         <tr><td>Archetypes - SylvanTrickster - FeyTricks
             </td><td>是
             </td><td>否
-            </td><td>Fey tricks now properly includes all rogue talents.  </td></tr>
-        <tr><td>IsExpanded<tr><td>: true
-    }
-  </td></tr>
+            </td><td>林妖诡术师：妖精诡术现包括所有游荡者天赋</td></tr>
+
   <tr><td>Shaman
     <tr><td>Base
     </td>
