@@ -23,7 +23,7 @@
   - [MicroscopicContentExpansion](#MicroscopicContentExpansion) Microscopic内容扩展
   - [SparsSorcerousSundries](#SparsSorcerousSundries) SSS内展
   - [TomeOfTheFirebird](#TomeOfTheFirebird) TOTF扩展
-  - [HomebrewArchetypes](#HomebrewArchetypes) 桌面变体
+  - [HomebrewArchetypes](#HomebrewArchetypes) Homebrew(村规)变体
   - [ExpandedContent2022](#ExpandedContent2022) 扩展内容2022
   - [ToggleableThrowingWeapons](#ToggleableThrowingWeapons) 可切换投掷武器
   - [MorvarchsPlaystyleExpansions](#MorvarchsPlaystyleExpansions) Morvarchs玩法扩展
@@ -98,6 +98,148 @@
 + 如果你习惯了原版体系和构建，可能用了TTT会有极大怨言。好在这些修复都是可以关闭的<br>
 + （友情提示，但是由于新增了大量内容，关闭这些修复很容易导致过于滥强）<br>
 + TTT的更新过于庞杂海量，建议有一定英文基础和游戏基础再玩（虽然内容已经汉化但是选项菜单无法汉化）
+
+<table>
+<tr><th colspan="5">修改列表</th></tr> 
+<tr><td>分类</td><td>Config中选项</td><td>默认开启</td><td>房规</td><td>效果</td></tr>
+<tr><td rowspan="34">基本修复</td>
+   <td>AreaOfEffectDoubleTrigger
+        </td><td>是
+        </td><td>否
+        </td><td>修复AOE法术释放时额外触发一次</td></tr>
+      <tr><td>CoupDeGrace
+        </td><td>是
+        </td><td>否
+        </td><td>致命一击DC现在基于伤害</td></tr>
+      <tr><td>DamageReductionRework
+        </td><td>是
+        </td><td>否
+        </td><td>防止DR叠加，除非特别声明</td></tr>
+      <tr><td>DamageVulnerability
+        </td><td>是
+        </td><td>否
+        </td><td>易伤对多类型伤害正确生效</td></tr>
+      <tr><td>DiceReplacementUI
+        </td><td>是
+        </td><td>否
+        </td><td>修改掷骰点数显示</td></tr>
+      <tr><td>DisableAfterCombatDeactivationOfUnlimitedAbilities
+        </td><td>是
+        </td><td>否
+        </td><td>允许无限使用能力战斗后保持激活</td></tr>
+      <tr><td>DisableCannyDefenseStacking
+        </td><td>是
+        </td><td>否
+        </td><td>防止剑圣和决斗家AC奖励叠加</td></tr>
+      <tr><td>DisableNaturalArmorStacking
+        </td><td>是
+        </td><td>否
+        </td><td>天生防御加值不再叠加，除非特别说明。“天生防御加值”和“天生防御加值增强”依然正确叠加</td></tr>
+      <tr><td>DisablePolymorphSizeStacking
+        </td><td>是
+        </td><td>否
+        </td><td>激活变形法术会正确压制非变形法术的尺寸变化效果</td></tr>
+      <tr><td>DisablePolymorphStacking
+        </td><td>是
+        </td><td>否
+        </td><td>防止多个变形效果叠加</td></tr>
+      <tr><td>DisableSizeStacking
+        </td><td>是
+        </td><td>否
+        </td><td>防止多个尺寸变化效果叠加，后获得的效果只会被压制不生效，并不会被移除</td></tr>
+      <tr><td>DisplaySpellbookInTooltips
+        </td><td>是
+        </td><td>否
+        </td><td>修改法术界面显示其法术书来源</td></tr>
+      <tr><td>DynamicItemNaming
+        </td><td>是
+        </td><td>否
+        </td><td>为装备名称添加上附魔词缀</td></tr>
+      <tr><td>DynamicItemNamingTemporary
+        </td><td> 否
+        </td><td>否
+        </td><td>词缀包括临时抚摸</td></tr>
+      <tr><td>FeatSelections
+        </td><td>是
+        </td><td>否
+        </td><td><s>改正奖励专长选择，比如战士的额外专长，来允许选择所有指定类型专长</s>原版已修复</td></tr>
+      <tr><td>FixBackgroundModifiers
+        </td><td>是
+        </td><td>是
+        </td><td>背景给予的技能和攻击加值改为特性加值</td></tr>
+      <tr><td>FixBuffCasterOnSaveLoad
+        </td><td>是
+        </td><td>否
+        </td><td>读取存档时BUFF施法者能够被正确记录 </td></tr>
+      <tr><td>FixConcealment
+        </td><td>是
+        </td><td>否
+        </td><td>修复隐形的隐蔽检定</td></tr>
+      <tr><td>FixCriticalConfirmation
+        </td><td>是
+        </td><td>否
+        </td><td>允许自然20自动确认重击</td></tr>
+      <tr><td>FixInherentBonuses
+        </td><td>是
+        </td><td>否
+        </td><td>永久属性奖励能够作为专长前置</td></tr>
+      <tr><td>FixInherentSkillpoints
+        </td><td>是
+        </td><td>否
+        </td><td>永久智力奖励能够准确获取技能点</td></tr>
+      <tr><td>FixMountedLongspearModifer
+        </td><td>是
+        </td><td>否
+        </td><td>长矛在骑乘冲锋时获得额外伤害</td></tr>
+      <tr><td>FixPrebuffCasterLevels
+        </td><td>是
+        </td><td>否
+        </td><td>修正敌人自带BUFF的CL</td></tr>
+      <tr><td>FixProgressionDisplay
+        </td><td>是
+        </td><td>否
+        </td><td>进程不再显示你不会获得的特性</td></tr>
+      <tr><td>FixShadowSpells
+        </td><td>是
+        </td><td>否
+        </td><td>修复阴影模拟系列法术，使其正确从幻象学派获益</td></tr>
+      <tr><td>FixSizeShiftLimits
+        </td><td>是
+        </td><td>否
+        </td><td>修正从Fine到Colossal的尺寸比例</td></tr>
+      <tr><td>FixWeaponEnhancmentBonusModifiers
+        </td><td>是
+        </td><td>否
+        </td><td>武器增强加值和非武器增强价值现在从逻辑上区分开</td></tr>
+      <tr><td>MetamagicStacking
+        </td><td>是
+        </td><td>否
+        </td><td>防止强效超魔的额外骰子受到极效作用</td></tr>
+      <tr><td>MetamagicBolsterDoubleDiping
+        </td><td>是
+        </td><td>否
+        </td><td>防止法术增效超魔多次应用于同一法术</td></tr>
+      <tr><td>MountedActions
+        </td><td>是
+        </td><td>否
+        </td><td>骑乘移动后不能再进行整轮动作</td></tr>
+      <tr><td>NauseatedDescriptors
+        </td><td>是
+        </td><td>否
+        </td><td>移除恶心的移动受限描述</td></tr>
+      <tr><td>SelectiveMetamagicNonInstantaneous
+        </td><td>是
+        </td><td>否
+        </td><td>修复持续时间不是立即的法术也能应用甄选附魔的问题</td></tr>
+      <tr><td>StaggeredDescriptors
+        </td><td>是
+        </td><td>否
+        </td><td>移除恍惚的移动受限描述</td></tr>
+      <tr><td>SuppressedBuffUI
+        </td><td>是
+        </td><td>否
+        </td><td>改变被抑制的BUFF的渲染方式</td></tr>
+</table>
 
 <table>
 <tr><th colspan="2">新增内容列表</th></tr> 
