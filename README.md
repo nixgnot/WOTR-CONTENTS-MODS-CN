@@ -88,13 +88,6 @@
 > 新增的奥术发现专长可以让法师的变化系法术（动物园系列）提供额外属性加成，20级达到+8，是的玩家拥有属性头带腰带外的大量选择。<br>
 > 新增的巅峰系统给很多纯职都提供了福利
 + 特别需要注意的是，TTT对原版做出了大量修改，尤其是**良性BUG**方面。
-> 典型的包括<br>
-> **甄选法术不能再对持续性AOE法术生效**<br>
-> **扩充战法不能再由多系专攻获得大量DC**<br>
-> **游荡者天赋中额外战斗专长只能选一次**<br>
-> **AOE法术不会在释放时额外触发一次**<br>
-> **坐骑移动后主人无法整轮攻击**<br>
-> 等等<br>
 + 如果你习惯了原版体系和构建，可能用了TTT会有极大怨言。好在这些修复都是可以关闭的<br>
 + （友情提示，但是由于新增了大量内容，关闭这些修复很容易导致过于滥强）<br>
 + TTT的更新过于庞杂海量，建议有一定英文基础和游戏基础再玩（虽然内容已经汉化但是选项菜单无法汉化）
@@ -158,7 +151,7 @@
       <tr><td>DynamicItemNamingTemporary
         </td><td> 否
         </td><td>否
-        </td><td>词缀包括临时抚摸</td></tr>
+        </td><td>词缀包括临时附魔</td></tr>
       <tr><td>FeatSelections
         </td><td>是
         </td><td>否
@@ -239,6 +232,1077 @@
         </td><td>是
         </td><td>否
         </td><td>改变被抑制的BUFF的渲染方式</td></tr>
+ <tr><td rowspan="3">御衡道途</td>
+          <td>AeonDemythication
+        </td><td>是
+        </td><td>否
+        </td><td>神话抑制能够正确抑制神话效果了</td></tr>
+      <tr><td>AeonTenthLevelImmunities
+        </td><td>是
+        </td><td>否
+        </td><td>修复御衡者免疫效果</td></tr>
+      <tr><td>PowerOfLaw
+        </td><td>是
+        </td><td>否
+        </td><td>逼迫凝视（秩序之力）对于重投类效果正确生效了</td></tr>
+  <tr><td>恶魔道途</td>
+      <td>BrimorakAspect
+        </td><td>是
+        </td><td>否
+        </td><td>爆燃魔相对所有法术都能正确生效了</td></tr>
+  <tr><td rowspan="2">巫妖道途</td>
+      <td>DeathRush
+        </td><td>是
+        </td><td>否
+        </td><td>死亡冲击不再产生多次伪攻击并触发武器效果</td></tr>
+      <tr><td>SpellbookMerging
+        </td><td>是
+        </td><td>否
+        </td><td>允许自然魔法师巫妖合书</td></tr>
+  <tr><td>诡计道途</td>
+      <td>UseMagicDevice2
+        </td><td>是
+        </td><td>否
+        </td><td>神话诡计使用魔法装置2允许诡计大师忽略装备的阵营和职业需求</td></tr>
+  <tr><td>巅峰</td>
+      <td>AlternateCapstones</td><td rolspan="3">允许单独开关各个职业巅峰，详见新增内容</td></tr>
+  <tr><td rowspan="6">炼金术士<br>Alchemist</td>
+      <td>Base - MutagenStacking
+            </td><td>是
+            </td><td>否
+            </td><td>防止诱变剂叠加</td></tr>
+        <tr><td>Archetypes - Grenadier - BrewPotions
+            </td><td>是
+            </td><td>否
+            </td><td>掷弹兵：移除变体调制药水能力</td></tr>
+        <tr><td>Archetypes - Grenadier - PoisonResistance
+            </td><td>是
+            </td><td>否
+            </td><td>掷弹兵：移除变体毒素抵抗能力</td></tr>
+         <tr><td>Archetypes - IncenseSynthesizer - ImprovedIncense
+            </td><td>是
+            </td><td>否
+            </td><td>调香师：修正强化熏香范围扩大后效果</td></tr>
+          <tr><td>Archetypes - IncenseSynthesizer - ThickFog
+            </td><td>是
+            </td><td>否
+            </td><td>调香师：将浓雾的隐蔽类型改为烟雾性质而不再是幻象性质</td></tr>
+          <tr><td>Archetypes - IncenseSynthesizer - SacredIncense
+            </td><td>是
+            </td><td>否
+            </td><td>调香师：修复崇圣熏香效果</td></tr>
+  <tr><td rowspan="2">奥能师<br>Arcanist</td>
+    <td>Base - reparedSpellUI
+          </td><td>是
+          </td><td>否
+          </td><td>让奥能师的法术书UI更符合记忆施法者</td></tr>
+    <tr><td>Base - EnableMultipleMemorization
+          </td><td>是
+          </td><td>否
+          </td><td>允许奥能师记忆不同超魔的同个法术</td></tr>
+  <tr><td rowspan="2">野蛮人<br>Barbarian</td>
+        <td>Base - CripplingBlows
+          </td><td>是
+          </td><td>否
+          </td><td>致残猛击允许狂暴中使用</td></tr>
+        <tr><td>Base - WreckingBlows
+          </td><td>是
+          </td><td>否
+          </td><td>毁灭猛击允许狂暴中使用</td></tr>
+  <tr><td rowspan="10">血怒者<br>Bloodrager</td>
+    <td>Base - AbysalBulk
+          </td><td>是
+          </td><td>否
+          </td><td>深渊血脉巨化魔躯能力在狂暴结束时不再驱散已有的增大效果</td></tr>
+        <tr><td>Base - ArcaneBloodrage
+          </td><td>是
+          </td><td>否
+          </td><td>重做奥术血怒UI</td></tr>
+        <tr><td>Base - CastersBane
+          </td><td>是
+          </td><td>否
+          </td><td>允许奥术血怒巅峰 - 施法者克星</td></tr>
+        <tr><td>Base - DisruptiveBloodrage
+          </td><td>是
+          </td><td>否
+          </td><td>允许奥术血怒 - 扰法血怒</td></tr>
+        <tr><td>Base - Spellbook
+          </td><td>是
+          </td><td>否
+          </td><td>修复法术进程防止依赖预先施法的特性不生效</td></tr>
+        <tr><td>Base - TemporaryHitPoints
+          </td><td>是
+          </td><td>否
+          </td><td>修复临时生命值计算</td>
+        <tr><td>Archetypes - Primalist - FixBrokenRagePowers
+            </td><td>是
+            </td><td>否
+            </td><td>原怒者：允许血怒下使用所有狂暴之力</td></tr>
+        <tr><td>Archetypes - Primalist - RagePowerFeatQualifications
+            </td><td>是
+            </td><td>否
+            </td><td>原怒者：防止允许学习额外狂暴特技专长</td></tr>
+        <tr><td>Archetypes - ReformedFiend - DamageReduction
+            </td><td>是
+            </td><td>否
+            </td><td>自新魔士：DR纠正为DR/善良.</td></tr>
+        <tr><td>Archetypes - ReformedFiend - HatredAgainstEvil
+            </td><td>是
+            </td><td>否
+            </td><td>修复憎恨邪恶奖励</td></tr>
+
+  <tr><td rowspan="">骑将<br>Cavalier</td>
+    <td>Base - CavalierMobility
+          </td><td>是
+          </td><td>否
+          </td><td>Allows Cavalier to ignore their armor check penalty while mounted for mobility skill checks.  </td></tr>
+        <tr><td>Base - CavalierMountSelection
+          </td><td>是
+          </td><td>否
+          </td><td>Allows the Cavalier to select a wolf for a mount if they are of small size.  </td></tr>
+        <tr><td>Base - OrderOfTheStarCalling
+          </td><td>是
+          </td><td>否
+          </td><td>Bonuses should now actually be calculated instead of just being displayed.  </td></tr>
+        <tr><td>Base - SupremeCharge
+          </td><td>是
+          </td><td>否
+          </td><td>Prevents Supreme Charge damage from criting and moves it into the new charge damage system.  </td></tr>
+
+        <tr><td>Archetypes - Gendarme - TransfixingCharge
+            </td><td>是
+            </td><td>否
+            </td><td>Prevents Transfixing Charge damage from criting and moves it into the new charge damage system.  </td></tr>
+
+  <tr><td>Cleric
+    <tr><td>Base
+    </td>
+        <tr><td>GloryDomain
+          </td><td>是
+          </td><td>否
+          </td><td>Glory domain no longer grants an untyped bonus the the raw Charisma stat.  </td></tr>
+      <tr><td>IsExpanded<tr><td>: true
+</td></tr>
+    <tr><td>Archetypes}
+  </td></tr>
+  <tr><td>Fighter
+    <tr><td>Base
+    </td>
+        <tr><td>AdvancedArmorTraining
+          </td><td>是
+          </td><td>否
+          </td><td>Enables the fighter to take advanced armor training instead of increasing their armor training rank.  </td></tr>
+        <tr><td>AdvancedWeaponTraining
+          </td><td>是
+          </td><td>否
+          </td><td>Enforces the weapon training prerequisites properly.  </td></tr>
+        <tr><td>TwoHandedWeaponTraining
+          </td><td>是
+          </td><td>否
+          </td><td>Treats two handed fighter's weapon training as proper weapon training.  </td></tr>
+        <tr><td>UnarmedWeaponTraining
+          </td><td>是
+          </td><td>否
+          </td><td>Makes unarmed correctly count as the close weapon group.  </td></tr>
+        <tr><td>WeaponTrainingStacking
+          </td><td>是
+          </td><td>否
+          </td><td>Prevents bonuses from multiple weapon training groups from stacking.  </td></tr>
+      <tr><td>IsExpanded<tr><td>: true
+</td></tr>
+    <tr><td>Archetypes
+      <tr><td>TwoHandedFighter
+        </td>
+          <tr><td>AdvancedWeaponTraining
+            </td><td>是
+            </td><td>否
+            </td><td>Allows two handed fighter to pick advanced weapon training feats.  </td></tr>
+        <tr><td>IsExpanded<tr><td>: true
+    }
+  </td></tr>
+  <tr><td>Hunter
+    <tr><td>Base
+    </td></td></tr>
+      <tr><td>IsExpanded<tr><td>: true
+</td></tr>
+    <tr><td>Archetypes
+      <tr><td>DivineHunter
+        </td>
+          <tr><td>OtherworldlyCompanion
+            </td><td>是
+            </td><td>否
+            </td><td>Fixes Celestial and Fiendish templates giving unlimited smites.  </td></tr>
+        <tr><td>IsExpanded<tr><td>: true
+    }
+  </td></tr>
+  <tr><td>Kineticist
+    <tr><td>Base
+    </td></td></tr>
+      <tr><td>IsExpanded<tr><td>: true
+</td></tr>
+    <tr><td>Archetypes}
+  </td></tr>
+  <tr><td>Magus
+    <tr><td>Base
+    </td>
+        <tr><td>AddMissingArcaneWeaponEffects
+          </td><td>是
+          </td><td>否
+          </td><td>Adds: Flaming Burst, Icy Burst, Shocking Burst enchant options.  </td></tr>
+        <tr><td>SpellCombatAbilityVariants
+          </td><td>是
+          </td><td>否
+          </td><td>Lets spell combat work with spells that have variants like dimension door.  </td></tr>
+        <tr><td>SpellCombatDisableImmediatly
+          </td><td>是
+          </td><td>否
+          </td><td>Disables spell combat immediately when toggled off instead of having to wait until the next round.  </td></tr>
+        <tr><td>SpellCombatSpellbookRestrictions
+          </td><td>是
+          </td><td>否
+          </td><td>Prevents spells that are not in the magus spellbook from working with spell combat.  </td></tr>
+      <tr><td>IsExpanded<tr><td>: true
+</td></tr>
+    <tr><td>Archetypes
+      <tr><td>SwordSaint
+        </td>
+          <tr><td>PerfectCritical
+            </td><td>是
+            </td><td>否
+            </td><td>Updates perfect critical's cost to 2 points of arcane pool instead of 1.  </td></tr>
+        <tr><td>IsExpanded<tr><td>: true
+    }
+  </td></tr>
+  <tr><td>Monk
+    <tr><td>Base
+    </td>
+        <tr><td>StunningFistVarriants
+          </td><td>是
+          </td><td>否
+          </td><td>Adds the missing stunning fist variants at level 12, 16 and 20 of monk.  </td></tr>
+        <tr><td>StunningFistDescriptors
+          </td><td>是
+          </td><td>否
+          </td><td>Fixes descriptors on stunning fist that prevents activation if you are immune to the effect.  </td></tr>
+      <tr><td>IsExpanded<tr><td>: true
+</td></tr>
+    <tr><td>Archetypes
+      <tr><td>ZenArcher
+        </td>
+          <tr><td>PerfectStrike
+            </td><td>是
+            </td><td>否
+            </td><td>At level 10 a zen archer will roll 3 dice instead of 2 with perfect strike.  </td></tr>
+        <tr><td>IsExpanded<tr><td>: true
+</td></tr>
+      <tr><td>ScaledFist
+        </td>
+          <tr><td>FixStunningStrike
+            </td><td>是
+            </td><td>否
+            </td><td>Fixes stunning fist to use the normal version instead of an unnecessary specific version.</td></tr>
+          <tr><td>DraconicFury
+            </td><td>是
+            </td><td>否
+            </td><td>Fixes draconic fury to use the unchained version of the monk progression instead of the chained.  </td></tr>
+        <tr><td>IsExpanded<tr><td>: true
+    }
+  </td></tr>
+  <tr><td>Oracle
+    <tr><td>Base
+    </td>
+        <tr><td>NaturesWhisperMonkStacking
+          </td><td>是
+          </td><td>否
+          </td><td>Prevents Natures Whispers from stacking with Scaled Fist AC bonus. If scaled fist is present dexterity will be used for AC not charisma.  </td></tr>
+        <tr><td>RevelationBurningMagic
+          </td><td>是
+          </td><td>否
+          </td><td>Fixes the CL scaling to be equal to oracle level.  </td></tr>
+      <tr><td>IsExpanded<tr><td>: true
+</td></tr>
+    <tr><td>Archetypes}
+  </td></tr>
+  <tr><td>Paladin
+    <tr><td>Base
+    </td>
+        <tr><td>DivineMountTemplate
+          </td><td>是
+          </td><td>否
+          </td><td>Updates the template gained by the paladin mount at level 9 to have all of its features.  </td></tr>
+        <tr><td>SmiteAttackBonus
+          </td><td>是
+          </td><td>否
+          </td><td>The attack bonus from Smite Evil/Smite Chaos/Mark of Justice will no longer stack.  </td></tr>
+      <tr><td>IsExpanded<tr><td>: true
+</td></tr>
+    <tr><td>Archetypes}
+  </td></tr>
+  <tr><td>Ranger
+    <tr><td>Base
+    </td>
+        <tr><td>FavoredEnemy
+          </td><td>是
+          </td><td>否
+          </td><td>Favored enemy outsider now applies to ALL demons. The Demons of X are disabled unless you already have ranks, but otherwise function identically to favored enemy outsider and you can keep picking them for compatibility with existing characters.  </td></tr>
+      <tr><td>IsExpanded<tr><td>: true
+</td></tr>
+    <tr><td>Archetypes
+      <tr><td>EspionageExpert
+        </td>
+          <tr><td>Trapfinding
+            </td><td>是
+            </td><td>否
+            </td><td>Trapfinding now grants bonuses to perception and trickery.  </td></tr>
+        <tr><td>IsExpanded<tr><td>: true
+    }
+  </td></tr>
+  <tr><td>Rogue
+    <tr><td>Base
+    </td>
+        <tr><td>DispellingAttack
+          </td><td>是
+          </td><td>否
+          </td><td>Makes Dispelling attack use the correct CL for the dispel and prevents Dispelling attack from removing debuffs.  </td></tr>
+        <tr><td>RogueTalentSelection
+          </td><td>是
+          </td><td>否
+          </td><td>Prevents you from selecting the same talent more than once.  </td></tr>
+        <tr><td>SlipperyMind
+          </td><td>是
+          </td><td>否
+          </td><td>Sets Slippery Mind to correctly be an advanced talent..  </td></tr>
+        <tr><td>Trapfinding
+          </td><td>是
+          </td><td>否
+          </td><td>Trapfinding now grants bonuses to perception and trickery.  </td></tr>
+      <tr><td>IsExpanded<tr><td>: true
+</td></tr>
+    <tr><td>Archetypes
+      <tr><td>EldritchScoundrel
+        </td>
+          <tr><td>RogueTalentProgression
+            </td><td>是
+            </td><td>否
+            </td><td>Removes the level 2 rogue talent and adds in a level 4 talent.</td></tr>
+          <tr><td>SneakAttackProgression
+            </td><td>是
+            </td><td>否
+            </td><td>Removes the sneak attack dice granted at level 1.  </td></tr>
+        <tr><td>IsExpanded<tr><td>: true
+</td></tr>
+      <tr><td>SylvanTrickster
+        </td>
+          <tr><td>FeyTricks
+            </td><td>是
+            </td><td>否
+            </td><td>Fey tricks now properly includes all rogue talents.  </td></tr>
+        <tr><td>IsExpanded<tr><td>: true
+    }
+  </td></tr>
+  <tr><td>Shaman
+    <tr><td>Base
+    </td>
+        <tr><td>AmelioratingHex
+          </td><td>是
+          </td><td>否
+          </td><td>No longer grants complete immunity to effects and instead suppresses correctly.  </td></tr>
+      <tr><td>IsExpanded<tr><td>: true
+</td></tr>
+    <tr><td>Archetypes}
+  </td></tr>
+  <tr><td>Skald
+    <tr><td>Base
+    </td>
+        <tr><td>SpellKenning
+          </td><td>是
+          </td><td>否
+          </td><td>Enables spell kenning as a feature.  </td></tr>
+      <tr><td>IsExpanded<tr><td>: true
+</td></tr>
+    <tr><td>Archetypes
+      <tr><td>BattleScion
+        </td>
+          <tr><td>BattleProwessSelection
+            </td><td>是
+            </td><td>否
+            </td><td>Adds missing rage powers to selection.  </td></tr>
+        <tr><td>IsExpanded<tr><td>: true
+    }
+  </td></tr>
+  <tr><td>Slayer
+    <tr><td>Base
+    </td>
+        <tr><td>Trapfinding
+          </td><td>是
+          </td><td>否
+          </td><td>Trapfinding now grants bonuses to perception and trickery.  </td></tr>
+      <tr><td>IsExpanded<tr><td>: true
+</td></tr>
+    <tr><td>Archetypes}
+  </td></tr>
+  <tr><td>Sorcerer
+    <tr><td>Base
+    </td>
+        <tr><td>DraconicBloodlineDescriptions
+          </td><td>是
+          </td><td>否
+          </td><td>Fixes the arcana descriptions to better reflect what they actually do.  </td></tr>
+        <tr><td>PatchElementalBloodlineDescriptions
+          </td><td>是
+          </td><td>否
+          </td><td>Fixes the arcana to show up in the level up UI with the correct name and descriptions.  </td></tr>
+      <tr><td>IsExpanded<tr><td>: true
+</td></tr>
+    <tr><td>Archetypes
+      <tr><td>Crossblooded
+        </td>
+          <tr><td>Drawbacks
+            </td><td>是
+            </td><td>否
+            </td><td>Crossblooded sorcerers now take the -2 will saving throw penalty that they were missing.  </td></tr>
+        <tr><td>IsExpanded<tr><td>: true
+    }
+  </td></tr>
+  <tr><td>Warpriest
+    <tr><td>Base
+    </td>
+        <tr><td>AirBlessing
+          </td><td>是
+          </td><td>否
+          </td><td>Air Major blessing no longer causes excessive damage instances.  </td></tr>
+        <tr><td>EarthBlessing
+          </td><td>是
+          </td><td>否
+          </td><td>Earth Minor blessing no longer causes excessive damage instances.  </td></tr>
+        <tr><td>FireBlessing
+          </td><td>是
+          </td><td>否
+          </td><td>Fire Minor blessing no longer causes excessive damage instances.  </td></tr>
+        <tr><td>LuckBlessing
+          </td><td>是
+          </td><td>否
+          </td><td>Luck Blessing now grants the correct major ability.  </td></tr>
+        <tr><td>WaterBlessing
+          </td><td>是
+          </td><td>否
+          </td><td>Water Minor blessing no longer causes excessive damage instances.  </td></tr>
+        <tr><td>WeatherBlessing
+          </td><td>是
+          </td><td>否
+          </td><td>Weather Minor blessing no longer causes excessive damage instances.  </td></tr>
+      <tr><td>IsExpanded<tr><td>: true
+</td></tr>
+    <tr><td>Archetypes}
+  </td></tr>
+  <tr><td>Witch
+    <tr><td>Base
+    </td>
+        <tr><td>AgilityPatron
+          </td><td>是
+          </td><td>否
+          </td><td>Agility Patron now gets Animal Shapes at 16th level and Shapechange at 18th.  </td></tr>
+        <tr><td>AmelioratingHex
+          </td><td>是
+          </td><td>否
+          </td><td>No longer grants complete immunity to effects and instead suppresses correctly.  </td></tr>
+        <tr><td>MajorAmelioratingHex
+          </td><td>是
+          </td><td>否
+          </td><td>No longer grants complete immunity to effects and instead suppresses correctly.  </td></tr>
+      <tr><td>IsExpanded<tr><td>: true
+</td></tr>
+    <tr><td>Archetypes}
+  </td></tr>
+  <tr><td>Hellknight</td>
+      <td>PentamicFaith
+        </td><td>是
+        </td><td>否
+        </td><td>Pentamic Faith now requires the Godclaw hellknight order not the deity.</td></tr>
+    <tr><td>IsExpanded<tr><td>: true
+  </td></tr>
+  <tr><td>Loremaster</td>
+      <td>Prerequisites
+        </td><td>是
+        </td><td>否
+        </td><td>Updates the prerequisites to be more strict and better match tabletop.</td></tr>
+      <tr><td>SpellProgression
+        </td><td>是
+        </td><td>否
+        </td><td>Grants spell progression at level 1. This is not retroactive.</td></tr>
+      <tr><td>SpellSecrets
+        </td><td>是
+        </td><td>否
+        </td><td>Enables spell secrets.</td></tr>
+      <tr><td>TricksterTricks
+        </td><td>是
+        </td><td>否
+        </td><td>Removes trickster tricks from the combat feat selection.</td></tr>
+    <tr><td>IsExpanded<tr><td>: true
+  </td></tr>
+  <tr><td>WinterWitch</td>
+      <td>UnearthlyCold
+        </td><td>是
+        </td><td>否
+        </td><td>Fixes unearthly cold to properly apply metamagic and bonus damage.</td></tr>
+    <tr><td>IsExpanded<tr><td>: true
+  </td></tr>
+  <tr><td>Spells</td>
+      <td>AbsoluteOrder
+        </td><td>是
+        </td><td>否
+        </td><td>Adds the compulsion spell descriptor to match command.</td></tr>
+      <tr><td>AbyssalStorm
+        </td><td>是
+        </td><td>否
+        </td><td>Abyssal Storm no longer saves for half and no longer kills the caster.</td></tr>
+      <tr><td>AcidMaw
+        </td><td>是
+        </td><td>否
+        </td><td>Acid Maw no longer causes excessive damage instances to trigger when attacking.</td></tr>
+      <tr><td>AnimalGrowth
+        </td><td>是
+        </td><td>否
+        </td><td>Should now work properly on animal companions.</td></tr>
+      <tr><td>BelieveInYourself
+        </td><td>是
+        </td><td>否
+        </td><td>Believe in yourself now grants the correct bonus amount.</td></tr>
+      <tr><td>BestowCurseGreater
+        </td><td>是
+        </td><td>否
+        </td><td>Bestow Greater Curse now actually bestows a greater curse not a normal curse.</td></tr>
+      <tr><td>BreakEnchantment
+        </td><td>是
+        </td><td>否
+        </td><td>Break Enchantment no longer affects friendly buffs.</td></tr>
+      <tr><td>ChainLightning
+        </td><td>是
+        </td><td>否
+        </td><td>Chain Lightning now respect the 20 CL max for damage dice.</td></tr>
+      <tr><td>Command
+        </td><td>是
+        </td><td>否
+        </td><td>Adds missing spell descriptors to match tabletop.</td></tr>
+      <tr><td>CommandGreater
+        </td><td>是
+        </td><td>否
+        </td><td>Adds missing spell descriptors to match tabletop.</td></tr>
+      <tr><td>ConeOfCold
+        </td><td>是
+        </td><td>否
+        </td><td>Adds Cone of Cold to the Witch spell list.</td></tr>
+      <tr><td>CorruptMagic
+        </td><td>是
+        </td><td>否
+        </td><td>Corrupt Magic now uses a single dispel roll for all buffs like other dispels.</td></tr>
+      <tr><td>CrusadersEdge
+        </td><td>是
+        </td><td>否
+        </td><td>Crusaders Edge's nauseate effect now only procs on critical hits.</td></tr>
+      <tr><td>DeathWard
+        </td><td>是
+        </td><td>否
+        </td><td>Now suppresses existing negative levels.</td></tr>
+      <tr><td>DispelMagicGreater
+        </td><td>是
+        </td><td>否
+        </td><td>Greater Dispel Magic now only removes 1/4 CL buffs instead of all buffs.</td></tr>
+      <tr><td>EyeOfTheSun
+        </td><td>是
+        </td><td>否
+        </td><td>Eye Of The Sun now deals the correct amount of damage.</td></tr>
+      <tr><td>Firebrand
+        </td><td>是
+        </td><td>否
+        </td><td>Firebrand no longer causes excessive damage instances to trigger when attacking.</td></tr>
+      <tr><td>SunMarked
+        </td><td>是
+        </td><td>否
+        </td><td>Sun Marked no longer causes excessive damage instances to trigger when attacking.</td></tr>
+      <tr><td>FieldOfFlowers
+        </td><td>是
+        </td><td>否
+        </td><td>FieldOfFlowers ow correctly applies the Field of Flower debuffs instead of Repulsive Nature ones.</td></tr>
+      <tr><td>FixSpellFlags
+        </td><td>是
+        </td><td>否
+        </td><td>Retags buffs from spells as coming from spells to allow them to be dispelled correctly.</td></tr>
+      <tr><td>FlameStrike
+        </td><td>是
+        </td><td>否
+        </td><td>Now correctly halves divine damage on saving throw.</td></tr>
+      <tr><td>FriendlyHug
+        </td><td>是
+        </td><td>否
+        </td><td>Friendly Hug now correctly applies all immunities.</td></tr>
+      <tr><td>FrightfulAspect
+        </td><td>是
+        </td><td>否
+        </td><td>Frightful Aspect now correctly applies fear when hit in melee.</td></tr>
+      <tr><td>Geniekind
+        </td><td>是
+        </td><td>否
+        </td><td>Geniekind no longer causes excessive damage instances to trigger when attacking.</td></tr>
+      <tr><td>GreaterMagicWeapon
+        </td><td>是
+        </td><td>否
+        </td><td>Greater Magic Weapon no longer stacks with existing enhancement bonuses.</td></tr>
+      <tr><td>HellfireRay
+        </td><td>是
+        </td><td>否
+        </td><td>Hellfire Ray no longer has the Fire descriptor and deals the correct half damage.</td></tr>
+      <tr><td>JoyOfLife
+        </td><td>是
+        </td><td>否
+        </td><td>Joy of Life now converts outgoing damage to Holy.</td></tr>
+      <tr><td>LegendaryProportions
+        </td><td>是
+        </td><td>否
+        </td><td>LegendaryProportions now only increases size by one step instead of two to correctly match tabletop.</td></tr>
+      <tr><td>MagicalVestment
+        </td><td>是
+        </td><td>否
+        </td><td>Magical Vestment now enhances your armor instead of granting a floating modifier.</td></tr>
+      <tr><td>MicroscopicProportions
+        </td><td>是
+        </td><td>否
+        </td><td>Microscopic Proportions now correctly grants a size bonus instead of an untyped bonus.</td></tr>
+      <tr><td>NaturesGrasp
+        </td><td>是
+        </td><td>否
+        </td><td>Natures Grasp now deals the correct amount of damage.</td></tr>
+      <tr><td>OdeToMiraculousMagic
+        </td><td>是
+        </td><td>否
+        </td><td>Ode to Miraculous Magic's duration now correctly scales off CL instead of mythic rank.</td></tr>
+      <tr><td>PerfectForm
+        </td><td>是
+        </td><td>否
+        </td><td>Perfect Form can no longer be stacked multiple time for multiple stat boosts.</td></tr>
+      <tr><td>PowerFromDeath
+        </td><td>是
+        </td><td>否
+        </td><td>Now correctly lasts rounds per level instead of minutes per level.</td></tr>
+      <tr><td>ProtectionOfNature
+        </td><td>是
+        </td><td>否
+        </td><td>Protection of Nature's concealment is no longer bypassed by true seeing.</td></tr>
+      <tr><td>RemoveFear
+        </td><td>是
+        </td><td>否
+        </td><td>Remove fear no longer makes you immune to shaken and fear.</td></tr>
+      <tr><td>RemoveSickness
+        </td><td>是
+        </td><td>否
+        </td><td>Remove Sickness no longer makes you immune to sickness and nausea.</td></tr>
+      <tr><td>RepulsiveNature
+        </td><td>是
+        </td><td>否
+        </td><td>RepulsiveNature now uses the correct spell DC and actually applies its debuffs on fail.</td></tr>
+      <tr><td>ShadowConjuration
+        </td><td>是
+        </td><td>否
+        </td><td>Shadow Conjuration has been added to the Wizard spell list.</td></tr>
+      <tr><td>ShadowEvocation
+        </td><td>是
+        </td><td>否
+        </td><td>Shadow Evocation can now have the correct metamagics applied.</td></tr>
+      <tr><td>ShadowEvocationGreater
+        </td><td>是
+        </td><td>否
+        </td><td>Greater Shadow Evocation can now have the correct metamagic applied and get the correct shadow factor of 60.</td></tr>
+      <tr><td>SongsOfSteel
+        </td><td>是
+        </td><td>否
+        </td><td>Songs of Steel bonus weapon damage now works correctly.</td></tr>
+      <tr><td>Starlight
+        </td><td>是
+        </td><td>否
+        </td><td>Starlight no longer is affected by true sight.</td></tr>
+      <tr><td>SuddenSquall
+        </td><td>是
+        </td><td>否
+        </td><td>Sudden Squall now can be targeted and has a working debuff.</td></tr>
+      <tr><td>SunForm
+        </td><td>是
+        </td><td>否
+        </td><td>Sun Form now deals the correct amount of damage.</td></tr>
+      <tr><td>Supernova
+        </td><td>是
+        </td><td>否
+        </td><td>Supernova now respects the saving throw for the blind and always deals the correct amount of damage.</td></tr>
+      <tr><td>UnbreakableBond
+        </td><td>是
+        </td><td>否
+        </td><td>Friendly Hug now correctly applies all immunities.</td></tr>
+      <tr><td>UnbreakableHeart
+        </td><td>是
+        </td><td>否
+        </td><td>Unbreakable Heart no longer grants complete immunity to effects and instead suppresses correctly.</td></tr>
+      <tr><td>WaterPush
+        </td><td>是
+        </td><td>否
+        </td><td>Water Push now can be targeted and has the correct damage scaling and push distance.</td></tr>
+      <tr><td>WaterTorrent
+        </td><td>是
+        </td><td>否
+        </td><td>Water Torrent now can be targeted and has a working debuff.</td></tr>
+      <tr><td>WindsOfFall
+        </td><td>是
+        </td><td>否
+        </td><td>Winds of the Fall now can be targeted and has a working debuff.</td></tr>
+      <tr><td>WrackingRay
+        </td><td>是
+        </td><td>否
+        </td><td>Wracking Ray now deals the correct amount of ability damage.</td></tr>
+      <tr><td>VampiricBlade
+        </td><td>是
+        </td><td>否
+        </td><td>Vampiric Blade no longer causes excessive damage instances.</td></tr>
+      <tr><td>ZeroState
+        </td><td>是
+        </td><td>否
+        </td><td>Zero State now uses a single dispel roll for all buffs like other dispels.</td></tr>
+    <tr><td>IsExpanded<tr><td>: true
+  </td></tr>
+  <tr><td>AnimalCompanions</td>
+      <td>AnimalCompanionProgression
+        </td><td> 否
+        </td><td>否
+        </td><td>Updates animal companion progressions to reflect tabletop values.</td></tr>
+    <tr><td>IsExpanded<tr><td>: true
+  </td></tr>
+  <tr><td>Bloodlines</td>
+      <td>BloodlineRestrictions
+        </td><td>是
+        </td><td>否
+        </td><td>Cleans up bloodline restrictions to actually work correctly with things like Dragon disciple.</td></tr>
+    <tr><td>IsExpanded<tr><td>: true
+  </td></tr>
+  <tr><td>Features</td>
+      <td>IncorporealCharm
+        </td><td>是
+        </td><td>否
+        </td><td>Now properly updates when charisma is modified.</td></tr>
+      <tr><td>MongrolsBlessing
+        </td><td>是
+        </td><td>否
+        </td><td>Now properly applies negative levels.</td></tr>
+    <tr><td>IsExpanded<tr><td>: true
+  </td></tr>
+  <tr><td>Feats</td>
+      <td>AlliedSpellcaster
+        </td><td>是
+        </td><td>否
+        </td><td>Prevents Allied Spellcaster from applying globally.</td></tr>
+      <tr><td>ArcaneStrike
+        </td><td>是
+        </td><td>否
+        </td><td>Prevents draconic arcane strike from generating too many damage instances.</td></tr>
+      <tr><td>BolsteredMetamagic
+        </td><td>是
+        </td><td>否
+        </td><td>Allows sticky touch spells to be bolstered.</td></tr>
+      <tr><td>BrewPotions
+        </td><td>是
+        </td><td>否
+        </td><td>No longer is tagged as a combat feat.</td></tr>
+      <tr><td>Cleave
+        </td><td>是
+        </td><td>否
+        </td><td>Now checks for adjacency instead of just within reach. This also applies to cleaving finish.</td></tr>
+      <tr><td>CraneWing
+        </td><td>是
+        </td><td>否
+        </td><td>Now requires a free hand to receive the bonuses.</td></tr>
+      <tr><td>DestructiveDispel
+        </td><td>是
+        </td><td>true,
+        </td><td>Now calculates the DC based on the effective CL of the dispel and the highest mental stat to better support edge cases. Formula is 10 + 1/2 CL + Highest Mental Stat.</td></tr>
+      <tr><td>DestructiveDispelPrerequisites
+        </td><td>是
+        </td><td>否
+        </td><td>Reworked prerequisites to match tabletop.</td></tr>
+      <tr><td>DispelSynergy
+        </td><td>是
+        </td><td>否
+        </td><td>Reworked prerequisites to match tabletop.</td></tr>
+      <tr><td>EmpowerMetamagic
+        </td><td>是
+        </td><td>否
+        </td><td>Allows sticky touch spells to be empowered.</td></tr>
+      <tr><td>Endurance
+        </td><td>是
+        </td><td>true,
+        </td><td>Endurance now grants +4 Athletics if you have 10 ranks in Athletics like similar feats.</td></tr>
+      <tr><td>FencingGrace
+        </td><td>是
+        </td><td>否
+        </td><td>Now only works on one handed weapons always.</td></tr>
+      <tr><td>Lunge
+        </td><td>是
+        </td><td>否
+        </td><td>Now is available as a feat.</td></tr>
+      <tr><td>IndomitableMount
+        </td><td>是
+        </td><td>否
+        </td><td>Now works correctly.</td></tr>
+      <tr><td>MagicalTail
+        </td><td>是
+        </td><td>true,
+        </td><td>Magical Tail gives Hideous Laughter at 2 and Heroism at 5 instead of sleep spells.</td></tr>
+      <tr><td>MaximizeMetamagic
+        </td><td>是
+        </td><td>否
+        </td><td>Allows sticky touch spells to be maximized.</td></tr>
+      <tr><td>MountedCombat
+        </td><td>是
+        </td><td>否
+        </td><td>Now works correctly.</td></tr>
+      <tr><td>Outflank
+        </td><td>是
+        </td><td>否
+        </td><td>No longer triggers on missed attacks.</td></tr>
+      <tr><td>PersistantMetamagic
+        </td><td>是
+        </td><td>否
+        </td><td>Allows any spell with a saving throw to be made persistent.</td></tr>
+      <tr><td>SelectiveMetamagic
+        </td><td>是
+        </td><td>否
+        </td><td>Retags selective spells to exclude non instantaneous spells.</td></tr>
+      <tr><td>SelectivePrerequisites
+        </td><td>是
+        </td><td>否
+        </td><td>Now requires 10 ranks of knowledge arcana.</td></tr>
+      <tr><td>ShatterDefenses
+        </td><td>是
+        </td><td>否
+        </td><td>Now requires you to hit a shaken target once before they become flat footed.</td></tr>
+      <tr><td>SiezeTheMoment
+        </td><td>是
+        </td><td>否
+        </td><td>No longer triggers on missed attacks.</td></tr>
+      <tr><td>SlashingGrace
+        </td><td>是
+        </td><td>否
+        </td><td>Now only works on one handed weapons always.</td></tr>
+      <tr><td>SpellSpecialization
+        </td><td>是
+        </td><td>否
+        </td><td>Enables spell specialization selection on all classes.</td></tr>
+      <tr><td>SpiritedCharge
+        </td><td>是
+        </td><td>否
+        </td><td>Bonus damage no longer can crit.</td></tr>
+      <tr><td>VitalStrike
+        </td><td>是
+        </td><td>否
+        </td><td>Bonus damage no longer can crit.</td></tr>
+      <tr><td>WeaponFinesse
+        </td><td>是
+        </td><td>否
+        </td><td>No longer treats any weapon with Fencing/Slashing grace into a finesse weapon.</td></tr>
+    <tr><td>IsExpanded<tr><td>: true
+  </td></tr>
+  <tr><td>MythicAbilities</td>
+      <td>AscendantElement
+        </td><td>是
+        </td><td>否
+        </td><td>Actually ignores immunities again.</td></tr>
+      <tr><td>BloodlineAscendance
+        </td><td>是
+        </td><td>否
+        </td><td>All bloodline should now qualify including mutated ones.</td></tr>
+      <tr><td>CloseToTheAbyss
+        </td><td>是
+        </td><td>否
+        </td><td>Fixes the magic gore's damage multiplier to be 1.5 instead of 0.5</td></tr>
+      <tr><td>EnduringSpells
+        </td><td>是
+        </td><td>否
+        </td><td>Now works on equipment enhancing effects like crusader's edge.</td></tr>
+      <tr><td>ExposeVulnerability
+        </td><td>是
+        </td><td>否
+        </td><td>Now no longer critically hits and procs additional weapons effects.</td></tr>
+      <tr><td>MythicCharge
+        </td><td>是
+        </td><td>否
+        </td><td>Prevents Mythic charge from triggering multiple fake attacks and procing weapon effects more often than it should.</td></tr>
+      <tr><td>SecondBloodline
+        </td><td>是
+        </td><td>否
+        </td><td>All bloodlines now qualify for second bloodline including mutated ones.</td></tr>
+      <tr><td>SecondBloodragerBloodline
+        </td><td>是
+        </td><td>否
+        </td><td>Reformed fiend now qualifies.</td></tr>
+    <tr><td>IsExpanded<tr><td>: true
+  </td></tr>
+  <tr><td>MythicFeats</td>
+      <td>ExpandedArsenal
+        </td><td>是
+        </td><td>否
+        </td><td>No longer allows stacking multiple spell focuses, or school mastery on the same school to increase DC and CL, you can only benefit from spell focus and school mastery once.</td></tr>
+      <tr><td>ExtraFeat
+        </td><td>是
+        </td><td>否
+        </td><td>Can no longer be picked more than once.</td></tr>
+      <tr><td>ExtraMythicAbility
+        </td><td>是
+        </td><td>否
+        </td><td>Can no longer be picked more than once.</td></tr>
+    <tr><td>IsExpanded<tr><td>: true
+  </td></tr>
+  <tr><td>Units
+    <tr><td>Companions
+    </td></td></tr>
+      <tr><td>IsExpanded<tr><td>: true
+</td></tr>
+    <tr><td>Bosses
+    </td>
+        <tr><td>Deskari
+          </td><td>是
+          </td><td>否
+          </td><td>Made more of the hidden features visible in the inspect UI to make his mechanics make more sense.  </td></tr>
+        <tr><td>StauntonVane
+          </td><td>是
+          </td><td>否
+          </td><td>Now has the correct fighter feats instead of random default feats.  </td></tr>
+      <tr><td>IsExpanded<tr><td>: true
+</td></tr>
+    <tr><td>Enemies
+    </td>
+        <tr><td>Balors
+          </td><td>是
+          </td><td>否
+          </td><td>Now Correctly have Vorpal weapons.  </td></tr>
+      <tr><td>IsExpanded<tr><td>: true
+</td></tr>
+    <tr><td>NPCs
+    </td></td></tr>
+      <tr><td>IsExpanded<tr><td>: true
+    }
+  </td></tr>
+  <tr><td>Crusade
+    <tr><td>Buildings
+    </td>
+        <tr><td>TrainingGrounds
+          </td><td>是
+          </td><td>否
+          </td><td>Now grants the correct damage bonus.  </td></tr>
+      <tr><td>IsExpanded<tr><td>: true
+    }
+  </td></tr>
+  <tr><td>Items
+    <tr><td>Armor
+    </td>
+        <tr><td>Haramaki
+          </td><td>是
+          </td><td>否
+          </td><td>Haramaki are now counted as light armor properly.  </td></tr>
+        <tr><td>SingingSteel
+          </td><td>是
+          </td><td>否
+          </td><td>Singing Steel now works.  </td></tr>
+      <tr><td>IsExpanded<tr><td>: true
+</td></tr>
+    <tr><td>Equipment
+    </td>
+        <tr><td>AmuletOfQuickDraw
+          </td><td>是
+          </td><td>否
+          </td><td>No longer creates a separate damage instance and works with critical hits.  </td></tr>
+        <tr><td>AspectOfTheAsp
+          </td><td>是
+          </td><td>否
+          </td><td>Will now actually grant damage on ray spells.  </td></tr>
+        <tr><td>BaneOfSpirit
+          </td><td>是
+          </td><td>否
+          </td><td>Now is a free action to use.  </td></tr>
+        <tr><td>FixScrollUMDDCs
+          </td><td>是
+          </td><td>否
+          </td><td>Now properly uses 20 + Scroll CL instead of 20 + Scroll spell level.  </td></tr>
+        <tr><td>FlawlessBeltOfPhysicalPerfection8Availability
+          </td><td> 否
+          </td><td>否
+          </td><td>Now is available as a DLC reward instead of a normal +6 belt.  </td></tr>
+        <tr><td>FlawlessBeltOfPhysicalPerfection8CritIncrease
+          </td><td>是
+          </td><td>否
+          </td><td>Now increases critical threat range by 1 in all cases.  </td></tr>
+        <tr><td>HalfOfThePair
+          </td><td>是
+          </td><td>否
+          </td><td>Will more accurately update the bonus with range.  </td></tr>
+        <tr><td>HolySymbolofIomedae
+          </td><td>是
+          </td><td>否
+          </td><td>Will now stay on after saving/loading or changing areas.  </td></tr>
+        <tr><td>MagiciansRing
+          </td><td>是
+          </td><td>否
+          </td><td>Now grants +2 DC instead of +1 DC.  </td></tr>
+        <tr><td>ManglingFrenzy
+          </td><td>是
+          </td><td>否
+          </td><td>Now works with bloodrage.  </td></tr>
+        <tr><td>MetamagicRods
+          </td><td>是
+          </td><td>否
+          </td><td>Now default to off.  </td></tr>
+        <tr><td>StormlordsResolve
+          </td><td>是
+          </td><td>否
+          </td><td>Can now be deactivated immediately instead of taking 1 turn to turn off.  </td></tr>
+      <tr><td>IsExpanded<tr><td>: true
+</td></tr>
+    <tr><td>Weapons
+    </td>
+        <tr><td>BladeOfTheMerciful
+          </td><td>是
+          </td><td>否
+          </td><td>Prevents from triggering multiple fake attacks and procing weapon effects more often than it should.  </td></tr>
+        <tr><td>EnergyBurst
+          </td><td>是
+          </td><td>否
+          </td><td>Fixes the critical multiplier calculation of energy burst (like flaming burst) effects to get the correct value.  </td></tr>
+        <tr><td>Finnean
+          </td><td>是
+          </td><td>否
+          </td><td>Prevents from triggering multiple fake attacks and procing weapon effects more often than it should.  </td></tr>
+        <tr><td>HonorableJudgement
+          </td><td>是
+          </td><td>否
+          </td><td>Prevents from triggering multiple fake attacks and procing weapon effects more often than it should.  </td></tr>
+        <tr><td>MusicOfDeath
+          </td><td>是
+          </td><td>否
+          </td><td>Now correctly deals bonus damage against flat footed.  </td></tr>
+        <tr><td>Radiance
+          </td><td>是
+          </td><td>否
+          </td><td>Now grants spell resistance correctly instead of spell penetration.  </td></tr>
+        <tr><td>SoundOfTheVoid
+          </td><td>是
+          </td><td>否
+          </td><td>Now properly strips spell resistance.  </td></tr>
+        <tr><td>TerrifyingTremble
+          </td><td>是
+          </td><td>否
+          </td><td>Implements the missing on kill effect. Whenever the wielder of this weapon lands a killing blow, he deals sonic damage equal to his ranks in the Athletics skill to all enemies within 10 feet. Successful Reflex save (DC 30) halves the damage.  </td></tr>
+        <tr><td>ThunderingBurst
+          </td><td>是
+          </td><td>否
+          </td><td>Fixes thundering burst to deal D10s like the description says instead of D8s.  </td></tr>
+        <tr><td>Vorpal
+          </td><td>是
+          </td><td>否
+          </td><td>Vorpal now works correctly.  </td></tr>
 </table>
 
 <table>
