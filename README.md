@@ -1286,7 +1286,7 @@
         </td><td>是
         </td><td>是
         </td><td>神话偷袭：改为增大偷袭骰，而不是增加</td></tr>  
-            SchoolMastery
+      <td>SchoolMastery
         </td><td>是
         </td><td>是
         </td><td>学派掌控：改为 CL + 2</td></tr>  
