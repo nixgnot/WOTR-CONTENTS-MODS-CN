@@ -1463,6 +1463,7 @@
           </td><td>是
           </td><td>升级图标</td></tr>  
 </table>
+
 -------------------------------------------
 ### [MicroscopicContentExpansion](https://github.com/alterasc/MicroscopicContentExpansion)
 > *前置：* TabletopTweaks-Core<br>
