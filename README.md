@@ -95,7 +95,7 @@
 <table>
 <tr><th colspan="5">修改列表</th></tr> 
 <tr><td>分类</td><td>Config中选项</td><td>默认开启</td><td>房规</td><td>效果</td></tr>
-<tr><td rowspan="34">基本修复</td>
+<tr><td rowspan="34">基本修复<br>Base</td>
    <td>AreaOfEffectDoubleTrigger
         </td><td>是
         </td><td>否
@@ -600,10 +600,9 @@
       <td>UnearthlyCold
         </td><td>是
         </td><td>否
-        </td><td>修复异界严寒和超魔及奖励伤害的互动</td></tr>
-</table>
+        </td><td>修复异界严寒和超魔及奖励伤害的互动</td></tr
 
-  <tr><td>Spells</td>
+  <tr><td rowspan="34">法术<br>Spells</td>
       <td>AbsoluteOrder
         </td><td>是
         </td><td>否
@@ -820,8 +819,8 @@
         </td><td>是
         </td><td>否
         </td><td>Zero State now uses a single dispel roll for all buffs like other dispels.</td></tr>
-    <tr><td>IsExpanded<tr><td>: true
-  </td></tr>
+</table>
+
   <tr><td>AnimalCompanions</td>
       <td>AnimalCompanionProgression
         </td><td> 否
