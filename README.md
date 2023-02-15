@@ -998,20 +998,20 @@
           <td>Deskari
           </td><td>是
           </td><td>否
-          </td><td>Made more of the hidden features visible in the inspect UI to make his mechanics make more sense.  </td></tr>
+          </td><td>德斯卡瑞：完善UI描述</td></tr>
         <tr><td>StauntonVane
           </td><td>是
           </td><td>否
-          </td><td>Now has the correct fighter feats instead of random default feats.  </td></tr>
+          </td><td>斯陶顿·卫恒拥有正确专长</td></tr>
         <tr><td>Balors
           </td><td>是
           </td><td>否
-          </td><td>Now Correctly have Vorpal weapons.  </td></tr>
+          </td><td>霸烙魔：修复斩首武器</td></tr>
   <tr><td>圣教军模式<br>Crusade</td>
     <td>Buildings - TrainingGrounds
           </td><td>是
           </td><td>否
-          </td><td>Now grants the correct damage bonus.  </td></tr>
+          </td><td>训练场：修正伤害奖励</td></tr>
   <tr><td rowspan="24">物品<br>Items</td>
          <td>Armor - Haramaki
           </td><td>是
