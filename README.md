@@ -995,7 +995,7 @@
         </td><td>否
         </td><td>Can no longer be picked more than once.</td></tr>
     <tr><td>BOSS和敌人修复<br>Bosses/Enemies</td>
-        <tr><td>Deskari
+          <td>Deskari
           </td><td>是
           </td><td>否
           </td><td>Made more of the hidden features visible in the inspect UI to make his mechanics make more sense.  </td></tr>
