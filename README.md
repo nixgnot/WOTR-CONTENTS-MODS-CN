@@ -84,13 +84,11 @@
 > *新增内容：* 变体、巅峰、法术、专长、种族、背景，等<br>
 + 简称**TTT**，提到正义之怒MOD就必定会提到TTT，基本上也是大部分人第一个玩的内容型MOD。
 + 新增了海量的游戏内容，让游戏完全变了个样的同时，也提供了很多新的选项。
-> 例如，新增的重甲系两个神话专长可以进一步提升重甲提供的AC，同时降低重甲的惩罚，让玩家在无甲+大法师护甲外有了额外选项。<br>
-> 新增的奥术发现专长可以让法师的变化系法术（动物园系列）提供额外属性加成，20级达到+8，是的玩家拥有属性头带腰带外的大量选择。<br>
-> 新增的巅峰系统给很多纯职都提供了福利
-+ 特别需要注意的是，TTT对原版做出了大量修改，尤其是**良性BUG**方面。
++ 例如新增的巅峰系统给很多纯职都提供了福利
++ 特别需要注意的是，TTT对原版做出了大量修改和修复，尤其是**良性BUG**方面。
 + 如果你习惯了原版体系和构建，可能用了TTT会有极大怨言。好在这些修复都是可以关闭的<br>
-+ （友情提示，但是由于新增了大量内容，关闭这些修复很容易导致过于滥强）<br>
-+ TTT的更新过于庞杂海量，建议有一定英文基础和游戏基础再玩（虽然内容已经汉化但是选项菜单无法汉化）
++ 友情提示，但是由于新增了大量内容，关闭这些修复很容易导致过于滥强<br>
++ TTT的更新过于庞杂海量，建议有一定英文基础和游戏基础再玩（虽然内容已经汉化但是选项菜单无法汉化，此处提供选项对照）
 
 <table>
 <tr><th colspan="5">修改列表</th></tr> 
@@ -1016,99 +1014,99 @@
          <td>Armor - Haramaki
           </td><td>是
           </td><td>否
-          </td><td>Haramaki are now counted as light armor properly.  </td></tr>
+          </td><td>盔甲 - 腹卷：正确视为轻型护甲（原版视为无甲）</td></tr>
         <tr><td>Armor - SingingSteel
           </td><td>是
           </td><td>否
-          </td><td>Singing Steel now works.  </td></tr>
+          </td><td>盔甲 - 歌唱钢：正确生效</td></tr>
         <tr><td>Equipment - AmuletOfQuickDraw
           </td><td>是
           </td><td>否
-          </td><td>No longer creates a separate damage instance and works with critical hits.  </td></tr>
+          </td><td>快速应敌护符：不再造成单独伤害实例</td></tr>
         <tr><td>Equipment - AspectOfTheAsp
           </td><td>是
           </td><td>否
-          </td><td>Will now actually grant damage on ray spells.  </td></tr>
+          </td><td>蛇相：修复生效 </td></tr>
         <tr><td>Equipment - BaneOfSpirit
           </td><td>是
           </td><td>否
-          </td><td>Now is a free action to use.  </td></tr>
+          </td><td>灵魂之灾：使用为自由动作</td></tr>
         <tr><td>Equipment - FixScrollUMDDCs
           </td><td>是
           </td><td>否
-          </td><td>Now properly uses 20 + Scroll CL instead of 20 + Scroll spell level.  </td></tr>
+          </td><td>使用魔法卷轴DC：现在等级正确改为 20 + 卷轴 CL </td></tr>
         <tr><td>Equipment - FlawlessBeltOfPhysicalPerfection8Availability
-          </td><td> 否
           </td><td>否
-          </td><td>Now is available as a DLC reward instead of a normal +6 belt.  </td></tr>
+          </td><td>否
+          </td><td><s>无瑕+8极致体能腰带</s>原版已修复</td></tr>
         <tr><td>Equipment - FlawlessBeltOfPhysicalPerfection8CritIncrease
           </td><td>是
           </td><td>否
-          </td><td>Now increases critical threat range by 1 in all cases.  </td></tr>
+          </td><td>无瑕+8极致体能腰带：重击范围增加修复 </td></tr>
         <tr><td>Equipment - HalfOfThePair
           </td><td>是
           </td><td>否
-          </td><td>Will more accurately update the bonus with range.  </td></tr>
+          </td><td>出双入对：效果生效判定优化</td></tr>
         <tr><td>Equipment - HolySymbolofIomedae
           </td><td>是
           </td><td>否
-          </td><td>Will now stay on after saving/loading or changing areas.  </td></tr>
+          </td><td>艾奥梅黛神圣徽记：可以在存读档或切换区域时保留激活</td></tr>
         <tr><td>Equipment - MagiciansRing
           </td><td>是
           </td><td>否
-          </td><td>Now grants +2 DC instead of +1 DC.  </td></tr>
+          </td><td>魔术师的戒指：现为 +2 DC</td></tr>
         <tr><td>Equipment - ManglingFrenzy
           </td><td>是
           </td><td>否
-          </td><td>Now works with bloodrage.  </td></tr>
+          </td><td>凌虐狂怒：对血承狂暴也有效果</td></tr>
         <tr><td>Equipment - MetamagicRods
           </td><td>是
           </td><td>否
-          </td><td>Now default to off.  </td></tr>
+          </td><td>物品 - 超魔权杖（默认关闭）</td></tr>
         <tr><td>Equipment - StormlordsResolve
           </td><td>是
           </td><td>否
-          </td><td>Can now be deactivated immediately instead of taking 1 turn to turn off.  </td></tr>
+          </td><td>风暴领主的决意：现在可以立即关闭而不需等待1轮</td></tr>
         <tr><td>Weapons - BladeOfTheMerciful
           </td><td>是
           </td><td>否
-          </td><td>Prevents from triggering multiple fake attacks and procing weapon effects more often than it should.  </td></tr>
+          </td><td>慈悲之刃：防止多次触发伪攻击并过多触发武器特效</td></tr>
         <tr><td>Weapons - EnergyBurst
           </td><td>是
           </td><td>否
-          </td><td>Fixes the critical multiplier calculation of energy burst (like flaming burst) effects to get the correct value.  </td></tr>
+          </td><td>元素附魔：修复各类元素爆附魔（焰爆）伤害计算</td></tr>
         <tr><td>Weapons - Finnean
           </td><td>是
           </td><td>否
-          </td><td>Prevents from triggering multiple fake attacks and procing weapon effects more often than it should.  </td></tr>
+          </td><td>菲尼安：防止多次触发伪攻击并过多触发武器特效</td></tr>
         <tr><td>Weapons - HonorableJudgement
           </td><td>是
           </td><td>否
-          </td><td>Prevents from triggering multiple fake attacks and procing weapon effects more often than it should.  </td></tr>
+          </td><td>高尚裁决：防止多次触发伪攻击并过多触发武器特效</td></tr>
         <tr><td>Weapons - MusicOfDeath
           </td><td>是
           </td><td>否
-          </td><td>Now correctly deals bonus damage against flat footed.  </td></tr>
+          </td><td>死亡之音：修复效果</td></tr>
         <tr><td>Weapons - Radiance
           </td><td>是
           </td><td>否
-          </td><td>Now grants spell resistance correctly instead of spell penetration.  </td></tr>
+          </td><td>辉光：正确获得法术抗力</td></tr>
         <tr><td>Weapons - SoundOfTheVoid
           </td><td>是
           </td><td>否
-          </td><td>Now properly strips spell resistance.  </td></tr>
+          </td><td>虚空之声：修复效果</td></tr>
         <tr><td>Weapons - TerrifyingTremble
           </td><td>是
           </td><td>否
-          </td><td>Implements the missing on kill effect. Whenever the wielder of this weapon lands a killing blow, he deals sonic damage equal to his ranks in the Athletics skill to all enemies within 10 feet. Successful Reflex save (DC 30) halves the damage.  </td></tr>
+          </td><td>惧颤：修复效果</td></tr>
         <tr><td>Weapons - ThunderingBurst
           </td><td>是
           </td><td>否
-          </td><td>Fixes thundering burst to deal D10s like the description says instead of D8s.  </td></tr>
+          </td><td>武器附魔 - 鸣爆：修复伤害</td></tr>
         <tr><td>Weapons - Vorpal
           </td><td>是
           </td><td>否
-          </td><td>Vorpal now works correctly.  </td></tr>
+          </td><td>武器附魔 - 斩首：正确生效</td></tr>
 </table>
 
 <table>
