@@ -822,19 +822,19 @@
         <td>AnimalCompanions - AnimalCompanionProgression
         </td><td> 否
         </td><td>否
-        </td><td>Updates animal companion progressions to reflect tabletop values.</td></tr>
+        </td><td>修正动物同伴成长匹配桌面数据</td></tr>
      <tr><td>Bloodlines - BloodlineRestrictions
         </td><td>是
         </td><td>否
-        </td><td>Cleans up bloodline restrictions to actually work correctly with things like Dragon disciple.</td></tr>
+        </td><td>修正血承限制正确和龙脉术士等互动</td></tr>
      <tr><td>Features - IncorporealCharm
         </td><td>是
         </td><td>否
-        </td><td>Now properly updates when charisma is modified.</td></tr>
+        </td><td>虚化风姿：正确反映魅力的变化</td></tr>
       <tr><td>MongrolsBlessing
         </td><td>是
         </td><td>否
-        </td><td>Now properly applies negative levels.</td></tr>
+        </td><td>混种人的祝福：正确应用负向等级</td></tr>
   <tr><td rowspan="28">专长<br>Feats</td>
       <td>AlliedSpellcaster
         </td><td>是
@@ -952,48 +952,48 @@
       <td>AscendantElement
         </td><td>是
         </td><td>否
-        </td><td>Actually ignores immunities again.</td></tr>
+        </td><td>颠覆元素：现在可以正确无视免疫</td></tr>
       <tr><td>BloodlineAscendance
         </td><td>是
         </td><td>否
-        </td><td>All bloodline should now qualify including mutated ones.</td></tr>
+        </td><td>巅峰血承：可以选择所有血承</td></tr>
       <tr><td>CloseToTheAbyss
         </td><td>是
         </td><td>否
-        </td><td>Fixes the magic gore's damage multiplier to be 1.5 instead of 0.5</td></tr>
+        </td><td>深渊陷堕：修正伤害系数</td></tr>
       <tr><td>EnduringSpells
         </td><td>是
         </td><td>否
-        </td><td>Now works on equipment enhancing effects like crusader's edge.</td></tr>
+        </td><td>持久法术：对圣战之刃这类装备增强效果正确生效</td></tr>
       <tr><td>ExposeVulnerability
         </td><td>是
         </td><td>否
-        </td><td>Now no longer critically hits and procs additional weapons effects.</td></tr>
+        </td><td>揭示弱点：不再能重击和触发武器效果</td></tr>
       <tr><td>MythicCharge
         </td><td>是
         </td><td>否
-        </td><td>Prevents Mythic charge from triggering multiple fake attacks and procing weapon effects more often than it should.</td></tr>
+        </td><td>神话冲锋：防止触发多次伪攻击并触发武器效果</td></tr>
       <tr><td>SecondBloodline
         </td><td>是
         </td><td>否
-        </td><td>All bloodlines now qualify for second bloodline including mutated ones.</td></tr>
+        </td><td>第二血承：可以选择所有血承</td></tr>
       <tr><td>SecondBloodragerBloodline
         </td><td>是
         </td><td>否
-        </td><td>Reformed fiend now qualifies.</td></tr>
+        </td><td>第二血怒血承：自新魔士可选</td></tr>
   <tr><td rowspan="3">神话专长<br>MythicFeats</td>
       <td>ExpandedArsenal
         </td><td>是
         </td><td>否
-        </td><td>No longer allows stacking multiple spell focuses, or school mastery on the same school to increase DC and CL, you can only benefit from spell focus and school mastery once.</td></tr>
+        </td><td>扩充战法：不再能从多个其他学派获得DC和CL</td></tr>
       <tr><td>ExtraFeat
         </td><td>是
         </td><td>否
-        </td><td>Can no longer be picked more than once.</td></tr>
+        </td><td>额外专长：只能选择一次</td></tr>
       <tr><td>ExtraMythicAbility
         </td><td>是
         </td><td>否
-        </td><td>Can no longer be picked more than once.</td></tr>
+        </td><td>额外神话能力：只能选择一次</td></tr>
     <tr><td rowspan="3">BOSS和敌人修复<br>Bosses/Enemies</td>
           <td>Deskari
           </td><td>是
