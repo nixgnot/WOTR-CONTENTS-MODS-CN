@@ -601,8 +601,7 @@
         </td><td>是
         </td><td>否
         </td><td>修复异界严寒和超魔及奖励伤害的互动</td></tr
-
-  <tr><td rowspan="34">法术<br>Spells</td>
+  <tr><td rowspan="54">法术<br>Spells</td>
       <td>AbsoluteOrder
         </td><td>是
         </td><td>否
