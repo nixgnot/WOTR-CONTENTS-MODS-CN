@@ -92,7 +92,7 @@
 
 <table>
 <tr><th colspan="5">修改列表</th></tr> 
-<tr><td>分类</td><td>Config中选项</td><td>默认开启</td><td>房规</td><td>效果</td></tr>
+<tr><td>分类</td><td>Config中选项</td><td>默认</td><td>房规</td><td>效果</td></tr>
 <tr><td rowspan="34">基本修复<br>Base</td>
    <td>AreaOfEffectDoubleTrigger
         </td><td>是
