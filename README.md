@@ -147,7 +147,7 @@
         </td><td>否
         </td><td>为装备名称添加上附魔词缀</td></tr>
       <tr><td>DynamicItemNamingTemporary
-        </td><td> 否
+        </td><td>否
         </td><td>否
         </td><td>词缀包括临时附魔</td></tr>
       <tr><td>FeatSelections
@@ -876,7 +876,7 @@
         </td><td>超魔 - 强效：可用于黏液之触</td></tr>
       <tr><td>Endurance
         </td><td>是
-        </td><td>true,
+        </td><td>是
         </td><td>坚韧：如同同类专长在运动10级后获得额外加值</td></tr>
       <tr><td>FencingGrace
         </td><td>是
@@ -892,8 +892,8 @@
         </td><td>不屈坐骑：正确生效</td></tr>
       <tr><td>MagicalTail
         </td><td>是
-        </td><td>true,
-        </td><td>魔性之尾：改变给予法术</td></tr>
+        </td><td>是
+        </td><td>魔性之尾：改变给予法术为狂笑和英雄气概</td></tr>
       <tr><td>MaximizeMetamagic
         </td><td>是
         </td><td>否
