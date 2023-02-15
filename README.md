@@ -839,115 +839,115 @@
       <td>AlliedSpellcaster
         </td><td>是
         </td><td>否
-        </td><td>Prevents Allied Spellcaster from applying globally.</td></tr>
+        </td><td>结盟施法者：不再全局生效（测试发现也不会多次叠加）</td></tr>
       <tr><td>ArcaneStrike
         </td><td>是
         </td><td>否
-        </td><td>Prevents draconic arcane strike from generating too many damage instances.</td></tr>
+        </td><td>奥术打击：防止龙族奥术打击造成过多伤害实例</td></tr>
       <tr><td>BolsteredMetamagic
         </td><td>是
         </td><td>否
-        </td><td>Allows sticky touch spells to be bolstered.</td></tr>
+        </td><td>超魔 - 增效：可用于黏液之触</td></tr>
       <tr><td>BrewPotions
         </td><td>是
         </td><td>否
-        </td><td>No longer is tagged as a combat feat.</td></tr>
+        </td><td>调制药水：不再被视为战斗专长</td></tr>
       <tr><td>Cleave
         </td><td>是
         </td><td>否
-        </td><td>Now checks for adjacency instead of just within reach. This also applies to cleaving finish.</td></tr>
+        </td><td>顺势斩：正确检查临接目标而不是任意触及目标，对终誓斩同理</td></tr>
       <tr><td>CraneWing
         </td><td>是
         </td><td>否
-        </td><td>Now requires a free hand to receive the bonuses.</td></tr>
+        </td><td>白鹤亮翅：需要空出一只手才有效</td></tr>
       <tr><td>DestructiveDispel
         </td><td>是
-        </td><td>true,
-        </td><td>Now calculates the DC based on the effective CL of the dispel and the highest mental stat to better support edge cases. Formula is 10 + 1/2 CL + Highest Mental Stat.</td></tr>
+        </td><td>是
+        </td><td>暴力解法：现在使用驱散的有效CL和最高精神属性来计算DC，公式为 10 + 1/2 CL + 最高精神属性</td></tr>
       <tr><td>DestructiveDispelPrerequisites
         </td><td>是
         </td><td>否
-        </td><td>Reworked prerequisites to match tabletop.</td></tr>
+        </td><td>暴力解法：修改先决条件符合桌面规则</td></tr>
       <tr><td>DispelSynergy
         </td><td>是
         </td><td>否
-        </td><td>Reworked prerequisites to match tabletop.</td></tr>
+        </td><td>解法余波：修改先决条件符合桌面规则</td></tr>
       <tr><td>EmpowerMetamagic
         </td><td>是
         </td><td>否
-        </td><td>Allows sticky touch spells to be empowered.</td></tr>
+        </td><td>超魔 - 强效：可用于黏液之触</td></tr>
       <tr><td>Endurance
         </td><td>是
         </td><td>true,
-        </td><td>Endurance now grants +4 Athletics if you have 10 ranks in Athletics like similar feats.</td></tr>
+        </td><td>坚韧：如同同类专长在运动10级后获得额外加值</td></tr>
       <tr><td>FencingGrace
         </td><td>是
         </td><td>否
-        </td><td>Now only works on one handed weapons always.</td></tr>
+        </td><td>优雅刺击：永远只对单手武器生效</td></tr>
       <tr><td>Lunge
         </td><td>是
         </td><td>否
-        </td><td>Now is available as a feat.</td></tr>
+        </td><td><s>突刺专长</s>原版已有</td></tr>
       <tr><td>IndomitableMount
         </td><td>是
         </td><td>否
-        </td><td>Now works correctly.</td></tr>
+        </td><td>不屈坐骑：正确生效</td></tr>
       <tr><td>MagicalTail
         </td><td>是
         </td><td>true,
-        </td><td>Magical Tail gives Hideous Laughter at 2 and Heroism at 5 instead of sleep spells.</td></tr>
+        </td><td>魔性之尾：改变给予法术</td></tr>
       <tr><td>MaximizeMetamagic
         </td><td>是
         </td><td>否
-        </td><td>Allows sticky touch spells to be maximized.</td></tr>
+        </td><td>超魔 - 极效：可用于黏液之触</td></tr>
       <tr><td>MountedCombat
         </td><td>是
         </td><td>否
-        </td><td>Now works correctly.</td></tr>
+        </td><td>骑乘战斗：正确生效</td></tr>
       <tr><td>Outflank
         </td><td>是
         </td><td>否
-        </td><td>No longer triggers on missed attacks.</td></tr>
+        </td><td>包抄：攻击丢失不再触发</td></tr>
       <tr><td>PersistantMetamagic
         </td><td>是
         </td><td>否
-        </td><td>Allows any spell with a saving throw to be made persistent.</td></tr>
+        </td><td>超魔 - 顽强：所有有豁免骰的法术均可用</td></tr>
       <tr><td>SelectiveMetamagic
         </td><td>是
         </td><td>否
-        </td><td>Retags selective spells to exclude non instantaneous spells.</td></tr>
+        </td><td>超魔 - 甄选：不能用于非立即生效法术</td></tr>
       <tr><td>SelectivePrerequisites
         </td><td>是
         </td><td>否
-        </td><td>Now requires 10 ranks of knowledge arcana.</td></tr>
+        </td><td>超魔 - 甄选：需要10级知识（神秘）作为前置条件</td></tr>
       <tr><td>ShatterDefenses
         </td><td>是
         </td><td>否
-        </td><td>Now requires you to hit a shaken target once before they become flat footed.</td></tr>
+        </td><td>粉碎防御：需要击中后才会生效</td></tr>
       <tr><td>SiezeTheMoment
         </td><td>是
         </td><td>否
-        </td><td>No longer triggers on missed attacks.</td></tr>
+        </td><td>抓准时机：攻击丢失不再触发</td></tr>
       <tr><td>SlashingGrace
         </td><td>是
         </td><td>否
-        </td><td>Now only works on one handed weapons always.</td></tr>
+        </td><td>优雅挥砍：永远只对单手武器生效</td></tr>
       <tr><td>SpellSpecialization
         </td><td>是
         </td><td>否
-        </td><td>Enables spell specialization selection on all classes.</td></tr>
+        </td><td>法术专精：任意职业可选</td></tr>
       <tr><td>SpiritedCharge
         </td><td>是
         </td><td>否
-        </td><td>Bonus damage no longer can crit.</td></tr>
+        </td><td>奋力冲刺：额外伤害不再重击</td></tr>
       <tr><td>VitalStrike
         </td><td>是
         </td><td>否
-        </td><td>Bonus damage no longer can crit.</td></tr>
+        </td><td>要害打击：额外伤害不再重击</td></tr>
       <tr><td>WeaponFinesse
         </td><td>是
         </td><td>否
-        </td><td>No longer treats any weapon with Fencing/Slashing grace into a finesse weapon.</td></tr>
+        </td><td>武器娴熟：不再把拥有灵巧/优雅的武器都视为娴熟武器</td></tr>
   <tr><td rowspan="8">神话能力<br>MythicAbilities</td>
       <td>AscendantElement
         </td><td>是
