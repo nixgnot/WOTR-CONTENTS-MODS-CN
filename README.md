@@ -818,24 +818,16 @@
         </td><td>是
         </td><td>否
         </td><td>Zero State now uses a single dispel roll for all buffs like other dispels.</td></tr>
-</table>
-
-  <tr><td>AnimalCompanions</td>
-      <td>AnimalCompanionProgression
+  <tr><td rowspan="4">职业特性</td>
+        <td>AnimalCompanions - AnimalCompanionProgression
         </td><td> 否
         </td><td>否
         </td><td>Updates animal companion progressions to reflect tabletop values.</td></tr>
-    <tr><td>IsExpanded<tr><td>: true
-  </td></tr>
-  <tr><td>Bloodlines</td>
-      <td>BloodlineRestrictions
+     <tr><td>Bloodlines - BloodlineRestrictions
         </td><td>是
         </td><td>否
         </td><td>Cleans up bloodline restrictions to actually work correctly with things like Dragon disciple.</td></tr>
-    <tr><td>IsExpanded<tr><td>: true
-  </td></tr>
-  <tr><td>Features</td>
-      <td>IncorporealCharm
+     <tr><td>Features - IncorporealCharm
         </td><td>是
         </td><td>否
         </td><td>Now properly updates when charisma is modified.</td></tr>
@@ -843,9 +835,7 @@
         </td><td>是
         </td><td>否
         </td><td>Now properly applies negative levels.</td></tr>
-    <tr><td>IsExpanded<tr><td>: true
-  </td></tr>
-  <tr><td>Feats</td>
+  <tr><td rowspan="28">专长<br>Feats</td>
       <td>AlliedSpellcaster
         </td><td>是
         </td><td>否
@@ -958,9 +948,7 @@
         </td><td>是
         </td><td>否
         </td><td>No longer treats any weapon with Fencing/Slashing grace into a finesse weapon.</td></tr>
-    <tr><td>IsExpanded<tr><td>: true
-  </td></tr>
-  <tr><td>MythicAbilities</td>
+  <tr><td rowspan="8">神话能力<br>MythicAbilities</td>
       <td>AscendantElement
         </td><td>是
         </td><td>否
@@ -993,9 +981,7 @@
         </td><td>是
         </td><td>否
         </td><td>Reformed fiend now qualifies.</td></tr>
-    <tr><td>IsExpanded<tr><td>: true
-  </td></tr>
-  <tr><td>MythicFeats</td>
+  <tr><td rowspan="3">神话专长<br>MythicFeats</td>
       <td>ExpandedArsenal
         </td><td>是
         </td><td>否
@@ -1008,15 +994,7 @@
         </td><td>是
         </td><td>否
         </td><td>Can no longer be picked more than once.</td></tr>
-    <tr><td>IsExpanded<tr><td>: true
-  </td></tr>
-  <tr><td>Units
-    <tr><td>Companions
-    </td></td></tr>
-      <tr><td>IsExpanded<tr><td>: true
-</td></tr>
-    <tr><td>Bosses
-    </td>
+    <tr><td>BOSS和敌人修复<br>Bosses/Enemies</td>
         <tr><td>Deskari
           </td><td>是
           </td><td>否
@@ -1025,135 +1003,109 @@
           </td><td>是
           </td><td>否
           </td><td>Now has the correct fighter feats instead of random default feats.  </td></tr>
-      <tr><td>IsExpanded<tr><td>: true
-</td></tr>
-    <tr><td>Enemies
-    </td>
         <tr><td>Balors
           </td><td>是
           </td><td>否
           </td><td>Now Correctly have Vorpal weapons.  </td></tr>
-      <tr><td>IsExpanded<tr><td>: true
-</td></tr>
-    <tr><td>NPCs
-    </td></td></tr>
-      <tr><td>IsExpanded<tr><td>: true
-    }
-  </td></tr>
-  <tr><td>Crusade
-    <tr><td>Buildings
-    </td>
-        <tr><td>TrainingGrounds
+  <tr><td>圣教军模式<br>Crusade</td>
+    <td>Buildings - TrainingGrounds
           </td><td>是
           </td><td>否
           </td><td>Now grants the correct damage bonus.  </td></tr>
-      <tr><td>IsExpanded<tr><td>: true
-    }
-  </td></tr>
-  <tr><td>Items
-    <tr><td>Armor
-    </td>
-        <tr><td>Haramaki
+  <tr><td>物品<br>Items</td>
+         <td>Armor - Haramaki
           </td><td>是
           </td><td>否
           </td><td>Haramaki are now counted as light armor properly.  </td></tr>
-        <tr><td>SingingSteel
+        <tr><td>Armor - SingingSteel
           </td><td>是
           </td><td>否
           </td><td>Singing Steel now works.  </td></tr>
-      <tr><td>IsExpanded<tr><td>: true
-</td></tr>
-    <tr><td>Equipment
-    </td>
-        <tr><td>AmuletOfQuickDraw
+        <tr><td>Equipment - AmuletOfQuickDraw
           </td><td>是
           </td><td>否
           </td><td>No longer creates a separate damage instance and works with critical hits.  </td></tr>
-        <tr><td>AspectOfTheAsp
+        <tr><td>Equipment - AspectOfTheAsp
           </td><td>是
           </td><td>否
           </td><td>Will now actually grant damage on ray spells.  </td></tr>
-        <tr><td>BaneOfSpirit
+        <tr><td>Equipment - BaneOfSpirit
           </td><td>是
           </td><td>否
           </td><td>Now is a free action to use.  </td></tr>
-        <tr><td>FixScrollUMDDCs
+        <tr><td>Equipment - FixScrollUMDDCs
           </td><td>是
           </td><td>否
           </td><td>Now properly uses 20 + Scroll CL instead of 20 + Scroll spell level.  </td></tr>
-        <tr><td>FlawlessBeltOfPhysicalPerfection8Availability
+        <tr><td>Equipment - FlawlessBeltOfPhysicalPerfection8Availability
           </td><td> 否
           </td><td>否
           </td><td>Now is available as a DLC reward instead of a normal +6 belt.  </td></tr>
-        <tr><td>FlawlessBeltOfPhysicalPerfection8CritIncrease
+        <tr><td>Equipment - FlawlessBeltOfPhysicalPerfection8CritIncrease
           </td><td>是
           </td><td>否
           </td><td>Now increases critical threat range by 1 in all cases.  </td></tr>
-        <tr><td>HalfOfThePair
+        <tr><td>Equipment - HalfOfThePair
           </td><td>是
           </td><td>否
           </td><td>Will more accurately update the bonus with range.  </td></tr>
-        <tr><td>HolySymbolofIomedae
+        <tr><td>Equipment - HolySymbolofIomedae
           </td><td>是
           </td><td>否
           </td><td>Will now stay on after saving/loading or changing areas.  </td></tr>
-        <tr><td>MagiciansRing
+        <tr><td>Equipment - MagiciansRing
           </td><td>是
           </td><td>否
           </td><td>Now grants +2 DC instead of +1 DC.  </td></tr>
-        <tr><td>ManglingFrenzy
+        <tr><td>Equipment - ManglingFrenzy
           </td><td>是
           </td><td>否
           </td><td>Now works with bloodrage.  </td></tr>
-        <tr><td>MetamagicRods
+        <tr><td>Equipment - MetamagicRods
           </td><td>是
           </td><td>否
           </td><td>Now default to off.  </td></tr>
-        <tr><td>StormlordsResolve
+        <tr><td>Equipment - StormlordsResolve
           </td><td>是
           </td><td>否
           </td><td>Can now be deactivated immediately instead of taking 1 turn to turn off.  </td></tr>
-      <tr><td>IsExpanded<tr><td>: true
-</td></tr>
-    <tr><td>Weapons
-    </td>
-        <tr><td>BladeOfTheMerciful
+        <tr><td>Weapons - BladeOfTheMerciful
           </td><td>是
           </td><td>否
           </td><td>Prevents from triggering multiple fake attacks and procing weapon effects more often than it should.  </td></tr>
-        <tr><td>EnergyBurst
+        <tr><td>Weapons - EnergyBurst
           </td><td>是
           </td><td>否
           </td><td>Fixes the critical multiplier calculation of energy burst (like flaming burst) effects to get the correct value.  </td></tr>
-        <tr><td>Finnean
+        <tr><td>Weapons - Finnean
           </td><td>是
           </td><td>否
           </td><td>Prevents from triggering multiple fake attacks and procing weapon effects more often than it should.  </td></tr>
-        <tr><td>HonorableJudgement
+        <tr><td>Weapons - HonorableJudgement
           </td><td>是
           </td><td>否
           </td><td>Prevents from triggering multiple fake attacks and procing weapon effects more often than it should.  </td></tr>
-        <tr><td>MusicOfDeath
+        <tr><td>Weapons - MusicOfDeath
           </td><td>是
           </td><td>否
           </td><td>Now correctly deals bonus damage against flat footed.  </td></tr>
-        <tr><td>Radiance
+        <tr><td>Weapons - Radiance
           </td><td>是
           </td><td>否
           </td><td>Now grants spell resistance correctly instead of spell penetration.  </td></tr>
-        <tr><td>SoundOfTheVoid
+        <tr><td>Weapons - SoundOfTheVoid
           </td><td>是
           </td><td>否
           </td><td>Now properly strips spell resistance.  </td></tr>
-        <tr><td>TerrifyingTremble
+        <tr><td>Weapons - TerrifyingTremble
           </td><td>是
           </td><td>否
           </td><td>Implements the missing on kill effect. Whenever the wielder of this weapon lands a killing blow, he deals sonic damage equal to his ranks in the Athletics skill to all enemies within 10 feet. Successful Reflex save (DC 30) halves the damage.  </td></tr>
-        <tr><td>ThunderingBurst
+        <tr><td>Weapons - ThunderingBurst
           </td><td>是
           </td><td>否
           </td><td>Fixes thundering burst to deal D10s like the description says instead of D8s.  </td></tr>
-        <tr><td>Vorpal
+        <tr><td>Weapons - Vorpal
           </td><td>是
           </td><td>否
           </td><td>Vorpal now works correctly.  </td></tr>
@@ -1684,11 +1636,13 @@
 > *修改内容：* 较多可选，包括核心规则<br>
 > *新增内容：* 大量<br>
 + 大型MOD，增加很多新内容 
++ **特别注意，本MOD的滥强离谱东西很多，尤其是房规内容** 
 > **重要对游戏机制改变选项提示**<br>
 > **下列选项默认为关闭状态**<br>
 > **General.PatchBasicFreebieFeats** 减少“专长税”，将大量低级基础专长（如猛力攻击、武器娴熟等）变为免费赠送，解放大量专长<br>
 > **Mythic.PatchElementalBarrage** 元素狂潮回滚，可以用武器伤害触发<br>
 > **Patch.Patch_ZippySpellLike** 灵动魔法回滚，可以对类法术能力生效<br>
+
 <table>  
  <tr><th colspan="2">新增内容列表<br></th></tr> 
   <tr><td rowspan="1">变体<br><i>参阅PF文档</i></td>
