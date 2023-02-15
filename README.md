@@ -605,219 +605,219 @@
       <td>AbsoluteOrder
         </td><td>是
         </td><td>否
-        </td><td>Adds the compulsion spell descriptor to match command.</td></tr>
+        </td><td>绝对指令：加入胁迫描述</td></tr>
       <tr><td>AbyssalStorm
         </td><td>是
         </td><td>否
-        </td><td>Abyssal Storm no longer saves for half and no longer kills the caster.</td></tr>
+        </td><td>深渊风暴：不再豁免减半，不会杀死施法者</td></tr>
       <tr><td>AcidMaw
         </td><td>是
         </td><td>否
-        </td><td>Acid Maw no longer causes excessive damage instances to trigger when attacking.</td></tr>
+        </td><td>酸液之啮：攻击时不再造成过多伤害实体</td></tr>
       <tr><td>AnimalGrowth
         </td><td>是
         </td><td>否
-        </td><td>Should now work properly on animal companions.</td></tr>
+        </td><td>动物异变：对动物同伴正确生效</td></tr>
       <tr><td>BelieveInYourself
         </td><td>是
         </td><td>否
-        </td><td>Believe in yourself now grants the correct bonus amount.</td></tr>
+        </td><td>自信之心：修正奖励数值</td></tr>
       <tr><td>BestowCurseGreater
         </td><td>是
         </td><td>否
-        </td><td>Bestow Greater Curse now actually bestows a greater curse not a normal curse.</td></tr>
+        </td><td>高等降咒：修复效果为高级版</td></tr>
       <tr><td>BreakEnchantment
         </td><td>是
         </td><td>否
-        </td><td>Break Enchantment no longer affects friendly buffs.</td></tr>
+        </td><td>破除魔咒：不再影响友军BUFF</td></tr>
       <tr><td>ChainLightning
         </td><td>是
         </td><td>否
-        </td><td>Chain Lightning now respect the 20 CL max for damage dice.</td></tr>
+        </td><td>链状闪电：伤害骰上限为 20 CL</td></tr>
       <tr><td>Command
         </td><td>是
         </td><td>否
-        </td><td>Adds missing spell descriptors to match tabletop.</td></tr>
+        </td><td>命令术：修复缺失的描述，符合桌面规则</td></tr>
       <tr><td>CommandGreater
         </td><td>是
         </td><td>否
-        </td><td>Adds missing spell descriptors to match tabletop.</td></tr>
+        </td><td>高等命令术：修复缺失的描述，符合桌面规则</td></tr>
       <tr><td>ConeOfCold
         </td><td>是
         </td><td>否
-        </td><td>Adds Cone of Cold to the Witch spell list.</td></tr>
+        </td><td>寒冰锥：加入巫师法术表</td></tr>
       <tr><td>CorruptMagic
         </td><td>是
         </td><td>否
-        </td><td>Corrupt Magic now uses a single dispel roll for all buffs like other dispels.</td></tr>
+        </td><td>腐化魔法：如同其他驱散，使用单个驱散掷骰</td></tr>
       <tr><td>CrusadersEdge
         </td><td>是
         </td><td>否
-        </td><td>Crusaders Edge's nauseate effect now only procs on critical hits.</td></tr>
+        </td><td>圣战之刃：只有重击才能触发反胃</td></tr>
       <tr><td>DeathWard
         </td><td>是
         </td><td>否
-        </td><td>Now suppresses existing negative levels.</td></tr>
+        </td><td>防死结界：压制已经存在的效果</td></tr>
       <tr><td>DispelMagicGreater
         </td><td>是
         </td><td>否
-        </td><td>Greater Dispel Magic now only removes 1/4 CL buffs instead of all buffs.</td></tr>
+        </td><td>高等解除魔法：最多只会驱散 1/4 CL个BUFF</td></tr>
       <tr><td>EyeOfTheSun
         </td><td>是
         </td><td>否
-        </td><td>Eye Of The Sun now deals the correct amount of damage.</td></tr>
+        </td><td>烈阳之眼：修正伤害</td></tr>
       <tr><td>Firebrand
         </td><td>是
         </td><td>否
-        </td><td>Firebrand no longer causes excessive damage instances to trigger when attacking.</td></tr>
+        </td><td>火焰烙印：攻击时不再造成过多伤害实例</td></tr>
       <tr><td>SunMarked
         </td><td>是
         </td><td>否
-        </td><td>Sun Marked no longer causes excessive damage instances to trigger when attacking.</td></tr>
+        </td><td>太阳印记：攻击时不再造成过多伤害实例</td></tr>
       <tr><td>FieldOfFlowers
         </td><td>是
         </td><td>否
-        </td><td>FieldOfFlowers ow correctly applies the Field of Flower debuffs instead of Repulsive Nature ones.</td></tr>
+        </td><td>繁花原野：修复正确BUFF</td></tr>
       <tr><td>FixSpellFlags
         </td><td>是
         </td><td>否
-        </td><td>Retags buffs from spells as coming from spells to allow them to be dispelled correctly.</td></tr>
+        </td><td>将来自法术的BUFF正确标记，确保能被正确驱散</td></tr>
       <tr><td>FlameStrike
         </td><td>是
         </td><td>否
-        </td><td>Now correctly halves divine damage on saving throw.</td></tr>
+        </td><td>炽焰击：正确豁免减半</td></tr>
       <tr><td>FriendlyHug
         </td><td>是
         </td><td>否
-        </td><td>Friendly Hug now correctly applies all immunities.</td></tr>
+        </td><td>友善之拥：修复免疫效果</td></tr>
       <tr><td>FrightfulAspect
         </td><td>是
         </td><td>否
-        </td><td>Frightful Aspect now correctly applies fear when hit in melee.</td></tr>
+        </td><td>可怖外表：正确应用恐惧</td></tr>
       <tr><td>Geniekind
         </td><td>是
         </td><td>否
-        </td><td>Geniekind no longer causes excessive damage instances to trigger when attacking.</td></tr>
+        </td><td>巨灵化身：攻击时不再造成过多伤害实例</td></tr>
       <tr><td>GreaterMagicWeapon
         </td><td>是
         </td><td>否
-        </td><td>Greater Magic Weapon no longer stacks with existing enhancement bonuses.</td></tr>
+        </td><td>高等魔化武器：不再和已有附魔叠加</td></tr>
       <tr><td>HellfireRay
         </td><td>是
         </td><td>否
-        </td><td>Hellfire Ray no longer has the Fire descriptor and deals the correct half damage.</td></tr>
+        </td><td>地狱烈焰射线：不再有火焰描述，修复正确的半伤</td></tr>
       <tr><td>JoyOfLife
         </td><td>是
         </td><td>否
-        </td><td>Joy of Life now converts outgoing damage to Holy.</td></tr>
+        </td><td>生命欢愉：正确转换神圣伤害</td></tr>
       <tr><td>LegendaryProportions
         </td><td>是
         </td><td>否
-        </td><td>LegendaryProportions now only increases size by one step instead of two to correctly match tabletop.</td></tr>
+        </td><td>伟岸雄姿：只增加1级体型，符合桌面规则</td></tr>
       <tr><td>MagicalVestment
         </td><td>是
         </td><td>否
-        </td><td>Magical Vestment now enhances your armor instead of granting a floating modifier.</td></tr>
+        </td><td>魔化防具：实际增强护甲而不是获取modifier.</td></tr>
       <tr><td>MicroscopicProportions
         </td><td>是
         </td><td>否
-        </td><td>Microscopic Proportions now correctly grants a size bonus instead of an untyped bonus.</td></tr>
+        </td><td>微缩雄姿：获得体型加值，不再是其他</td></tr>
       <tr><td>NaturesGrasp
         </td><td>是
         </td><td>否
-        </td><td>Natures Grasp now deals the correct amount of damage.</td></tr>
+        </td><td>自然桎梏：修正伤害</td></tr>
       <tr><td>OdeToMiraculousMagic
         </td><td>是
         </td><td>否
-        </td><td>Ode to Miraculous Magic's duration now correctly scales off CL instead of mythic rank.</td></tr>
+        </td><td>奇迹颂诗：正确按照CL决定持续时间</td></tr>
       <tr><td>PerfectForm
         </td><td>是
         </td><td>否
-        </td><td>Perfect Form can no longer be stacked multiple time for multiple stat boosts.</td></tr>
+        </td><td>完美形态：不再能叠加多次获取多重奖励</td></tr>
       <tr><td>PowerFromDeath
         </td><td>是
         </td><td>否
-        </td><td>Now correctly lasts rounds per level instead of minutes per level.</td></tr>
+        </td><td>死亡之力：修正持续时间为论级</td></tr>
       <tr><td>ProtectionOfNature
         </td><td>是
         </td><td>否
-        </td><td>Protection of Nature's concealment is no longer bypassed by true seeing.</td></tr>
+        </td><td>自然庇护：掩蔽不再受到真视影响.</td></tr>
       <tr><td>RemoveFear
         </td><td>是
         </td><td>否
-        </td><td>Remove fear no longer makes you immune to shaken and fear.</td></tr>
+        </td><td>移除恐惧：不再免疫颤栗和恐惧效果</td></tr>
       <tr><td>RemoveSickness
         </td><td>是
         </td><td>否
-        </td><td>Remove Sickness no longer makes you immune to sickness and nausea.</td></tr>
+        </td><td>移除恶心：不再免疫不适和反胃效果</td></tr>
       <tr><td>RepulsiveNature
         </td><td>是
         </td><td>否
-        </td><td>RepulsiveNature now uses the correct spell DC and actually applies its debuffs on fail.</td></tr>
+        </td><td>烦扰植被：使用正确的法术DC并修复应用DEBUFF</td></tr>
       <tr><td>ShadowConjuration
         </td><td>是
         </td><td>否
-        </td><td>Shadow Conjuration has been added to the Wizard spell list.</td></tr>
+        </td><td>阴影咒法：加入法师法术表</td></tr>
       <tr><td>ShadowEvocation
         </td><td>是
         </td><td>否
-        </td><td>Shadow Evocation can now have the correct metamagics applied.</td></tr>
+        </td><td>阴影塑能：正确应用超魔</td></tr>
       <tr><td>ShadowEvocationGreater
         </td><td>是
         </td><td>否
-        </td><td>Greater Shadow Evocation can now have the correct metamagic applied and get the correct shadow factor of 60.</td></tr>
+        </td><td>高等阴影塑能：正确应用超魔，修复阴影真实度</td></tr>
       <tr><td>SongsOfSteel
         </td><td>是
         </td><td>否
-        </td><td>Songs of Steel bonus weapon damage now works correctly.</td></tr>
+        </td><td>钢铁之歌：修复奖励武器伤害</td></tr>
       <tr><td>Starlight
         </td><td>是
         </td><td>否
-        </td><td>Starlight no longer is affected by true sight.</td></tr>
+        </td><td>星光：不再受真视影响</td></tr>
       <tr><td>SuddenSquall
         </td><td>是
         </td><td>否
-        </td><td>Sudden Squall now can be targeted and has a working debuff.</td></tr>
+        </td><td>狂风突现：可选目标，拥有DEBUFF效果</td></tr>
       <tr><td>SunForm
         </td><td>是
         </td><td>否
-        </td><td>Sun Form now deals the correct amount of damage.</td></tr>
+        </td><td>太阳形态：修正伤害</td></tr>
       <tr><td>Supernova
         </td><td>是
         </td><td>否
-        </td><td>Supernova now respects the saving throw for the blind and always deals the correct amount of damage.</td></tr>
+        </td><td>超新星：修复致盲豁免，修正伤害</td></tr>
       <tr><td>UnbreakableBond
         </td><td>是
         </td><td>否
-        </td><td>Friendly Hug now correctly applies all immunities.</td></tr>
+        </td><td>友善之拥：正确应用免疫效果</td></tr>
       <tr><td>UnbreakableHeart
         </td><td>是
         </td><td>否
-        </td><td>Unbreakable Heart no longer grants complete immunity to effects and instead suppresses correctly.</td></tr>
+        </td><td>绝不动摇：不再完全免疫对应效果，改为压制</td></tr>
       <tr><td>WaterPush
         </td><td>是
         </td><td>否
-        </td><td>Water Push now can be targeted and has the correct damage scaling and push distance.</td></tr>
+        </td><td>水流击退：可选目标，修复伤害和推动距离</td></tr>
       <tr><td>WaterTorrent
         </td><td>是
         </td><td>否
-        </td><td>Water Torrent now can be targeted and has a working debuff.</td></tr>
+        </td><td>洁净激流：可选目标，拥有DEBUFF效果</td></tr>
       <tr><td>WindsOfFall
         </td><td>是
         </td><td>否
-        </td><td>Winds of the Fall now can be targeted and has a working debuff.</td></tr>
+        </td><td>秋风扫叶：可选目标，拥有DEBUFF效果</td></tr>
       <tr><td>WrackingRay
         </td><td>是
         </td><td>否
-        </td><td>Wracking Ray now deals the correct amount of ability damage.</td></tr>
+        </td><td>剧痛射线：修复伤害数值</td></tr>
       <tr><td>VampiricBlade
         </td><td>是
         </td><td>否
-        </td><td>Vampiric Blade no longer causes excessive damage instances.</td></tr>
+        </td><td>吸血鬼之刃：不再造成过多伤害实体.</td></tr>
       <tr><td>ZeroState
         </td><td>是
         </td><td>否
-        </td><td>Zero State now uses a single dispel roll for all buffs like other dispels.</td></tr>
+        </td><td>归零：使用单个骰子决定所有驱散效果</td></tr>
   <tr><td rowspan="4">职业特性</td>
         <td>AnimalCompanions - AnimalCompanionProgression
         </td><td> 否
