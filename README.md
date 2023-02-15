@@ -994,7 +994,7 @@
         </td><td>是
         </td><td>否
         </td><td>Can no longer be picked more than once.</td></tr>
-    <tr><td>BOSS和敌人修复<br>Bosses/Enemies</td>
+    <tr><td rowspan="3">BOSS和敌人修复<br>Bosses/Enemies</td>
           <td>Deskari
           </td><td>是
           </td><td>否
@@ -1012,7 +1012,7 @@
           </td><td>是
           </td><td>否
           </td><td>Now grants the correct damage bonus.  </td></tr>
-  <tr><td>物品<br>Items</td>
+  <tr><td rowspan="24">物品<br>Items</td>
          <td>Armor - Haramaki
           </td><td>是
           </td><td>否
