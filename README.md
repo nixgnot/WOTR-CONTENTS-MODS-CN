@@ -1853,11 +1853,11 @@
        <td>操念使内容<br><b>DarkCodex对操念使进行了大量扩充，包括允许自动使用过载来强化念袭、相应专长、专用背景、新的原力和注能、BUG修复等等</b><br>原力：Hurricane Queen、Mind Shield<br>注能：Blade Rush、Chain Infusion、Impale Infusion、Energize Weapon、Kinetic Fist、Venom Infusion、Kinetic Whip</td></tr> 
        
 <table>
-<tr><th colspan="4">新增和修改内容列表<br>:construction:表示是否未经作者测试<br>工作状态为:x:的功能并未实装</th></tr> 
+<tr><th colspan="4">新增和修改内容列表<br>实装：:construction:表示是否未经作者测试<br>实装：:x:表示未实装，无实际效果</th></tr> 
 <tr><td>选项</td>
     <td>内容</td>
     <td>房规</td>
-    <td>工作状态</td></tr>
+    <td>实装</td></tr>
 <tr><td>DEBUG.Enchantments</td>
     <td>DEBUG：显示隐藏附魔</td>
     <td>:x:</td>
