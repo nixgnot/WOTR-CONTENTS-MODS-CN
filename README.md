@@ -1317,7 +1317,7 @@
       <td>AeonGreaterBaneActionBoost
           </td><td>:heavy_check_mark:
           </td><td>:heavy_check_mark:
-          </td><td>高等御衡破敌：可用迅捷动作释放移动动作</td></tr>  
+          </td><td>高等御衡破敌：可用移动动作释放迅捷法术</td></tr>  
       <td>AeonGreaterBaneDamage
           </td><td>:heavy_check_mark:
           </td><td>:heavy_check_mark:
