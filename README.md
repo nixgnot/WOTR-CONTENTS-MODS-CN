@@ -818,7 +818,7 @@
         </td><td>归零：使用单个骰子决定所有驱散效果</td></tr>
   <tr><td rowspan="4">职业特性</td>
         <td>AnimalCompanions - AnimalCompanionProgression
-        </td><td> 否
+        </td><td>:x:
         </td><td>:x:
         </td><td>修正动物同伴成长匹配桌面数据</td></tr>
      <tr><td>Bloodlines - BloodlineRestrictions
@@ -1255,214 +1255,214 @@
 + **TTT**的扩展附件，主要集中在**神话道途**的修改
 + 对神话能力、神话专长、道途均有修改，也导致很多人不习惯
 > **目前发现问题：灵使惊世神力改为了其他加值，但是文本描述依然是士气加值**
-> 
 <table>
 <tr><th colspan="5">修改列表</th></tr> 
 <tr><td>分类</td><td>Config中选项</td><td>默认</td><td>房规</td><td>效果</td></tr>  
     <tr><td>专长<br>Feats</td>
       <td>BolsterSpell
-        </td><td>是
-        </td><td>是
+        </td><td>:heavy_check_mark:
+        </td><td>:heavy_check_mark:
         </td><td>超魔 - 增效：法术等级变为I+2.</td></tr>  
     <tr><td  rowspan="4">神话能力<br>MythicAbilities</td>
       <td>AbundantCasting
-        </td><td>是
-        </td><td>是
+        </td><td>:heavy_check_mark:
+        </td><td>:heavy_check_mark:
         </td><td>充裕施法：额外法术位减半</td></tr>  
       <td>DimensionalRetribution
-        </td><td>是
-        </td><td>是
+        </td><td>:heavy_check_mark:
+        </td><td>:heavy_check_mark:
         </td><td>次元反击：使其如魔猫飞扑版生效，自动传送并攻击对手</td></tr>  
       <td>ElementalBarrage
-        </td><td>是
-        </td><td>是
+        </td><td>:heavy_check_mark:
+        </td><td>:heavy_check_mark:
         </td><td>元素狂潮：重做元素狂潮改为施法者能力<br><b>原作已修改，可选用</b></td></tr>  
       <td>GreaterEnduringSpells
-        </td><td>是
-        </td><td>是
+        </td><td>:heavy_check_mark:
+        </td><td>:heavy_check_mark:
         </td><td>高等持久法术：对10分钟以上法术才能生效</td></tr>            
     <tr><td  rowspan="2">神话专长<br>MythicFeats</td>
       <td>MythicSneakAttack
-        </td><td>是
-        </td><td>是
+        </td><td>:heavy_check_mark:
+        </td><td>:heavy_check_mark:
         </td><td>神话偷袭：改为增大偷袭骰，而不是增加</td></tr>  
       <td>SchoolMastery
-        </td><td>是
-        </td><td>是
+        </td><td>:heavy_check_mark:
+        </td><td>:heavy_check_mark:
         </td><td>学派掌控：改为 CL + 2</td></tr>  
     <tr><td rowspan="10">御衡道途<br>MythicReworks - Aeon</td>
       <td>AeonBaneIcon
-          </td><td>是
-          </td><td>是
+          </td><td>:heavy_check_mark:
+          </td><td>:heavy_check_mark:
           </td><td>御衡破敌：修改图标</td></tr>  
       <td> AeonBaneAction
-          </td><td>是
-          </td><td>是
+          </td><td>:heavy_check_mark:
+          </td><td>:heavy_check_mark:
           </td><td>御衡破敌：改为自由动作</td></tr>  
       <td> AeonBaneSpellResistance
-          </td><td>是
-          </td><td>是
+          </td><td>:heavy_check_mark:
+          </td><td>:heavy_check_mark:
           </td><td>御衡破敌：加入神话等级进入抗力计算</td></tr>  
       <td>AeonBaneUses
-          </td><td>是
-          </td><td>是
+          </td><td>:heavy_check_mark:
+          </td><td>:heavy_check_mark:
           </td><td>御衡破敌：使用次数随 2x 神话阶层 + 角色等级增加</td></tr>  
       <td>AeonGazeActionSystem
-          </td><td>是
-          </td><td>是
+          </td><td>:heavy_check_mark:
+          </td><td>:heavy_check_mark:
           </td><td>逼迫凝视：如审判官审判一般可多次运用，并用迅捷动作释放</td></tr>  
       <td>AeonGazeIcons
-          </td><td>是
-          </td><td>是
+          </td><td>:heavy_check_mark:
+          </td><td>:heavy_check_mark:
           </td><td>逼迫凝视：修改图标</td></tr>  
       <td>AeonGreaterBaneActionBoost
-          </td><td>是
-          </td><td>是
+          </td><td>:heavy_check_mark:
+          </td><td>:heavy_check_mark:
           </td><td>高等御衡破敌：可用迅捷动作释放移动动作</td></tr>  
       <td>AeonGreaterBaneDamage
-          </td><td>是
-          </td><td>是
+          </td><td>:heavy_check_mark:
+          </td><td>:heavy_check_mark:
           </td><td>高等御衡破敌：伤害加入主武器，不再是单独实例</td></tr>  
       <td>AeonImprovedBaneDispelLimit
-          </td><td>是
-          </td><td>是
+          </td><td>:heavy_check_mark:
+          </td><td>:heavy_check_mark:
           </td><td>精通御衡破敌：使用同高等解法规则，CL为角色等级+神话阶层</td></tr>  
       <td>PatchAeonGreaterBaneDispel
-          </td><td>是
-          </td><td>是
+          </td><td>:heavy_check_mark:
+          </td><td>:heavy_check_mark:
           </td><td>高等御衡破敌：修复攻击解除魔法效果</td></tr>                  
     <tr><td rowspan="9">灵使道途<br>MythicReworks - Azata</td>
       <td>AzataPerformanceResource
-          </td><td>是
-          </td><td>是
+          </td><td>:heavy_check_mark:
+          </td><td>:heavy_check_mark:
           </td><td>灵使外观</td></tr>  
       <td>AzataSpellList
-          </td><td>是
-          </td><td>是
+          </td><td>:heavy_check_mark:
+          </td><td>:heavy_check_mark:
           </td><td>灵使法术书默认包含所有剧情分支灵使法术</td></tr>  
       <td>AzataSongActions
-          </td><td>是
-          </td><td>是
+          </td><td>:heavy_check_mark:
+          </td><td>:heavy_check_mark:
           </td><td>灵使之歌：从标准动作改为移动动作</td></tr>  
       <td>AzataSongToggles
-          </td><td>是
-          </td><td>是
+          </td><td>:heavy_check_mark:
+          </td><td>:heavy_check_mark:
           </td><td>灵使之歌：可在非战斗时使用</td></tr>  
       <td>FavorableMagic
-          </td><td>是
-          </td><td>是
+          </td><td>:heavy_check_mark:
+          </td><td>:heavy_check_mark:
           </td><td>卓越魔法：对于重投类效果正确生效（削弱4骰）</td></tr>  
       <td>ZippyMagic
-          </td><td>是
-          </td><td>是
+          </td><td>:heavy_check_mark:
+          </td><td>:heavy_check_mark:
           </td><td>灵动魔法：忽略部分有害效果，只对法术有效</td></tr>  
       <td>IncredibleMight
-          </td><td>是
-          </td><td>是
+          </td><td>:heavy_check_mark:
+          </td><td>:heavy_check_mark:
           </td><td>惊世神力：从士气加值改为神话加值</td></tr>  
       <td>LifeBondingFriendship
-          </td><td>是
-          </td><td>是
+          </td><td>:heavy_check_mark:
+          </td><td>:heavy_check_mark:
           </td><td>同生共死：次数现在基于神话阶层</td></tr>  
       <td>SupersonicSpeed
-          </td><td>是
-          </td><td>是
+          </td><td>:heavy_check_mark:
+          </td><td>:heavy_check_mark:
           </td><td>超音速：可与加速叠加</td></tr>  
     <tr><td rowspan="5">巫妖道途<br>MythicReworks - Lich</td>
       <td>DeadlyMagic
-          </td><td>是
-          </td><td>是
+          </td><td>:heavy_check_mark:
+          </td><td>:heavy_check_mark:
           </td><td>夺命魔法：可以使用等于神话阶层的轮数</td></tr>  
       <td>DecayingTouch
-          </td><td>是
-          </td><td>是
+          </td><td>:heavy_check_mark:
+          </td><td>:heavy_check_mark:
           </td><td>腐烂之触：完全重写减少BUG</td></tr>  
       <td>EclipseChill
-          </td><td>是
-          </td><td>是
+          </td><td>:heavy_check_mark:
+          </td><td>:heavy_check_mark:
           </td><td>噬星之寒：DC为 10 + 1/2 角色等级 + 神话阶层 + 最高属性加值. 可以使用等于神话阶层的轮数</td></tr>  
       <td>FearControl
-          </td><td>是
-          </td><td>是
+          </td><td>:heavy_check_mark:
+          </td><td>:heavy_check_mark:
           </td><td>操纵恐惧：DC为 10 + 1/2 角色等级 + 神话阶层 + 最高属性加值</td></tr>  
       <td>TainedSneakAttack
-          </td><td>是
-          </td><td>是
+          </td><td>:heavy_check_mark:
+          </td><td>:heavy_check_mark:
           </td><td>污染偷袭：对法术有效，DC为 10 + 1/2 角色等级 + 神话阶层 + 最高属性加值</td></tr>  
     <tr><td rowspan="18">诡术道途<br>MythicReworks - Trickster</td>
       <td>BoundOfPossibility
-          </td><td>是
-          </td><td>是
+          </td><td>:heavy_check_mark:
+          </td><td>:heavy_check_mark:
           </td><td>或然之缚（诡术）：任何技能鉴定双骰取高</td></tr>  
       <td>Progression
-          </td><td>是
-          </td><td>是
+          </td><td>:heavy_check_mark:
+          </td><td>:heavy_check_mark:
           </td><td>进程：改变获取神话诡计的进度</td></tr>  
       <td>TricksterKnowledgeArcana2
-          </td><td>是
-          </td><td>是
+          </td><td>:heavy_check_mark:
+          </td><td>:heavy_check_mark:
           </td><td>学识（神秘）2：增加允许的附魔类型</td></tr>  
       <td>TricksterKnowledgeArcana3
-          </td><td>是
-          </td><td>是
+          </td><td>:heavy_check_mark:
+          </td><td>:heavy_check_mark:
           </td><td>学识（神秘）3：增加允许的附魔类型</td></tr>  
       <td>TricksterLoreNature3
-          </td><td>是
-          </td><td>是
+          </td><td>:heavy_check_mark:
+          </td><td>:heavy_check_mark:
           </td><td>学识（自然）3：重建掉落表，增加大量物品</td></tr>  
       <td>TricksterLoreReligion2/3
-          </td><td>是
-          </td><td>是
+          </td><td>:heavy_check_mark:
+          </td><td>:heavy_check_mark:
           </td><td>学识（宗教）2/3：领域能力使用角色等级作为有效牧师等级，神话阶层作为感知修正，允许学习领域痴迷，领域法术单独成书而不再作为类法术能力</td></tr>  
       <td>TricksterMobility3
-          </td><td>是
-          </td><td>是
+          </td><td>:heavy_check_mark:
+          </td><td>:heavy_check_mark:
           </td><td>运动3：对所有攻击骰，包括法术攻击骰生效</td></tr>  
       <td>TricksterPerception1
-          </td><td>是
-          </td><td>是
+          </td><td>:heavy_check_mark:
+          </td><td>:heavy_check_mark:
           </td><td>察觉1：获得侦测潜行和掩蔽的掷骰重投</td></tr>  
       <td>TricksterPerception2
-          </td><td>是
-          </td><td>是
+          </td><td>:heavy_check_mark:
+          </td><td>:heavy_check_mark:
           </td><td>察觉2：不再解锁相关专长，改为获得护命重投，无视重击和偷袭免疫，+2 重击范围</td></tr>  
       <td>TricksterPerception3
-          </td><td>是
-          </td><td>是
+          </td><td>:heavy_check_mark:
+          </td><td>:heavy_check_mark:
           </td><td>察觉3：队友获得神话轨迹察觉效果</td></tr>  
       <td>TricksterPersuasion2
-          </td><td>是
-          </td><td>是
+          </td><td>:heavy_check_mark:
+          </td><td>:heavy_check_mark:
           </td><td>沟通2：造成恍惚1轮，DC为 10 + 沟通等级，打击士气使目标攻击和伤害骰将受到1 + 你的神话阶层一半的惩罚</td></tr>  
       <td>TricksterPersuasion3
-          </td><td>是
-          </td><td>是
+          </td><td>:heavy_check_mark:
+          </td><td>:heavy_check_mark:
           </td><td>沟通3：打击士气使敌人有50%概率攻击最近目标来替代正常行动，并减少其AC和豁免受到1 + 你的神话阶层一半的惩罚</td></tr>  
       <td>TricksterStealth1
-          </td><td>是
-          </td><td>是
+          </td><td>:heavy_check_mark:
+          </td><td>:heavy_check_mark:
           </td><td>潜行1：隐形不能再被预言类法术比如真知等发现</td></tr>  
       <td>TricksterStealth2
-          </td><td>是
-          </td><td>是
+          </td><td>:heavy_check_mark:
+          </td><td>:heavy_check_mark:
           </td><td>潜行2：隐形不能再被预言类法术比如真知等发现</td></tr>  
       <td>TricksterStealthAbilityName
-          </td><td>是
-          </td><td>是
+          </td><td>:heavy_check_mark:
+          </td><td>:heavy_check_mark:
           </td><td>修复潜行能力名称</td></tr>  
       <td>TricksterTrickery3
-          </td><td>是
-          </td><td>是
+          </td><td>:heavy_check_mark:
+          </td><td>:heavy_check_mark:
           </td><td>巧手3：巧手现在变为迅捷动作并可在触及范围内使用</td></tr>  
       <td>TricksterUseMagicDevice2
-          </td><td>是
-          </td><td>是
+          </td><td>:heavy_check_mark:
+          </td><td>:heavy_check_mark:
           </td><td>使用魔法装置2：除了原本效果还会获得专长，超魔-超正常法术</td></tr>  
       <td>UpdateIcons
-          </td><td>是
-          </td><td>是
+          </td><td>:heavy_check_mark:
+          </td><td>:heavy_check_mark:
           </td><td>升级图标</td></tr>  
 </table>
+
 
 -------------------------------------------
 ### [MicroscopicContentExpansion](https://github.com/alterasc/MicroscopicContentExpansion)
