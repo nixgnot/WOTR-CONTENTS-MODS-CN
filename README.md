@@ -1851,4 +1851,594 @@
        <td>Elemental Scion 操念使 - 元素后继者</td></tr> 
   <tr><td rowspan="3">职业特性</i></td>
        <td>操念使内容<br><b>DarkCodex对操念使进行了大量扩充，包括允许自动使用过载来强化念袭、相应专长、专用背景、新的原力和注能、BUG修复等等</b><br>原力：Hurricane Queen、Mind Shield<br>注能：Blade Rush、Chain Infusion、Impale Infusion、Energize Weapon、Kinetic Fist、Venom Infusion、Kinetic Whip</td></tr> 
+       
+<table>
+<tr><th colspan="4">新增和修改内容列表<br>:construction:表示是否未经作者测试<br>工作状态为:x:的功能并未实装</th></tr> 
+<tr><td>选项</td>
+    <td>内容</td>
+    <td>房规</td>
+    <td>工作状态</td></tr>
+<tr><td>DEBUG.Enchantments</td>
+    <td>DEBUG：显示隐藏附魔</td>
+    <td>:x:</td>
+    <td>:construction:</td></tr>
+<tr><td>Enchantments.NameAll</td>
+    <td>给予所有附魔名称和描述</td>
+    <td>:x:</td>
+    <td>:construction:</td></tr>
+<tr><td>General.CreateAbilityFocus</td>
+    <td><b>新增专长：</b>Ability Focus 技能专精 - 增加技能DC</td>
+    <td>:x:</td>
+    <td>:x:</td></tr>
+<tr><td>General.CreateBackgrounds</td>
+    <td><b>新增专长：</b>Additional Traits 附加背景；新增背景：Magical Lineage, Metamagic Master, Fate’s Favored</td>
+    <td>:x:</td>
+    <td>:heavy_check_mark:</td></tr>
+<tr><td>General.CreateBardStopSong</td>
+    <td>增加能力，随意立即结束吟游诗人歌曲</td>
+    <td>:x:</td>
+    <td>:heavy_check_mark:</td></tr>
+<tr><td>General.CreateDirtyFighting</td>
+    <td><b>新增专长：</b>Dirty Fighting; you don't suffer an attack of opportunity but incure a -4 penalty if you are not flanking and don't have the right maneuver feat</td>
+    <td>:x:</td>
+    <td>:heavy_check_mark:</td></tr>
+<tr><td>General.CreateHeritage</td>
+    <td>adds Orc-Atavism; Kindred-Raised Half-Elf regain Elven Immunity</td>
+    <td>:heavy_check_mark:</td>
+    <td>:heavy_check_mark:</td></tr>
+<tr><td>General.CreateKitsuneFoxfire</td>
+    <td>magical tail also grants Foxfire Bolt</td>
+    <td>:heavy_check_mark:</td>
+    <td>:heavy_check_mark:</td></tr>
+<tr><td>General.CreateMadMagic</td>
+    <td>combat feat: allows spell casting during a rage</td>
+    <td>:x:</td>
+    <td>:heavy_check_mark:</td></tr>
+<tr><td>General.CreateOpportuneParry</td>
+    <td>combat feat: duelist parry by expending Attack of Opportunities</td>
+    <td>:heavy_check_mark:</td>
+    <td>:heavy_check_mark:</td></tr>
+<tr><td>General.CreatePreferredSpell</td>
+    <td><b>新增专长：</b>Preferred Spell, spontaneously cast a specific spell</td>
+    <td>:x:</td>
+    <td>:heavy_check_mark:</td></tr>
+<tr><td>General.CreateSacredSummons</td>
+    <td><b>新增专长：</b>requires Channel Energy, summons act immediately</td>
+    <td>:x:</td>
+    <td>:heavy_check_mark:</td></tr>
+<tr><td>General.CreateSpellPerfection</td>
+    <td><b>新增专长：</b>Spell Perfection</td>
+    <td>:x:</td>
+    <td>:heavy_check_mark:</td></tr>
+<tr><td>General.PatchAngelsLight</td>
+    <td>'Light of the Angels' give temporary HP equal to character level</td>
+    <td>:heavy_check_mark:</td>
+    <td>:heavy_check_mark:</td></tr>
+<tr><td>General.PatchBasicFreebieFeats</td>
+    <td>reduced feat tax, inspired from https://michaeliantorno.com/feat-taxes-in-pathfinder/</td>
+    <td>:heavy_check_mark:</td>
+    <td>:heavy_check_mark:</td></tr>
+<tr><td>General.PatchHideBuffs</td>
+    <td>unclogs UI by hiding a few buffs</td>
+    <td>:x:</td>
+    <td>:construction:</td></tr>
+<tr><td>General.PatchVarious</td>
+    <td>removed PreciousTreat penalty, extend protection from X to 10 minutes</td>
+    <td>:heavy_check_mark:</td>
+    <td>:heavy_check_mark:</td></tr>
+<tr><td>General.FixMasterShapeshifter</td>
+    <td>ensures spells with the Polymorph descriptor get the benefit of Master Shapeshifter</td>
+    <td>:x:</td>
+    <td>:heavy_check_mark:</td></tr>
+<tr><td>General.FixSpellElementChange</td>
+    <td>fixes Elemental Bloodline and Spell Focus interaction</td>
+    <td>:x:</td>
+    <td>:heavy_check_mark:</td></tr>
+<tr><td>Items.CreateButcheringAxe</td>
+    <td>new weapon type Butchering Axe</td>
+    <td>:x:</td>
+    <td>:construction:</td></tr>
+<tr><td>Items.CreateImpactEnchantment</td>
+    <td>new enchantment Impact</td>
+    <td>:x:</td>
+    <td>:heavy_check_mark:</td></tr>
+<tr><td>Items.PatchArrows</td>
+    <td>will pick up non-magical arrows after combat</td>
+    <td>:x:</td>
+    <td>:heavy_check_mark:</td></tr>
+<tr><td>Items.PatchTerendelevScale</td>
+    <td>make the revive scale usable once per day</td>
+    <td>:heavy_check_mark:</td>
+    <td>:heavy_check_mark:</td></tr>
+<tr><td>Kineticist.CreateAutoMetakinesis</td>
+    <td>activatable to automatically empower and maximize blasts, if you have unused burn</td>
+    <td>:x:</td>
+    <td>:heavy_check_mark:</td></tr>
+<tr><td>Kineticist.CreateBladeRushInfusion</td>
+    <td>infusion: Blade Rush, expands Kinetic Knight</td>
+    <td>:x:</td>
+    <td>:heavy_check_mark:</td></tr>
+<tr><td>Kineticist.CreateChainInfusion</td>
+    <td>infusion: Chain</td>
+    <td>:x:</td>
+    <td>:heavy_check_mark:</td></tr>
+<tr><td>Kineticist.CreateElementalScion</td>
+    <td>new Kineticist archetype</td>
+    <td>:x:</td>
+    <td>:heavy_check_mark:</td></tr>
+<tr><td>Kineticist.CreateExpandedElement</td>
+    <td><b>新增专长：</b>select extra elements</td>
+    <td>:heavy_check_mark:</td>
+    <td>:heavy_check_mark:</td></tr>
+<tr><td>Kineticist.CreateExtraWildTalentFeat</td>
+    <td><b>新增专长：</b>Extra Wild Talent; required by other kineticist features!</td>
+    <td>:x:</td>
+    <td>:heavy_check_mark:</td></tr>
+<tr><td>Kineticist.CreateHurricaneQueen</td>
+    <td>Wild Talent: Hurricane Queen</td>
+    <td>:x:</td>
+    <td>:heavy_check_mark:</td></tr>
+<tr><td>Kineticist.CreateImpaleInfusion</td>
+    <td>infusion: Impale</td>
+    <td>:x:</td>
+    <td>:heavy_check_mark:</td></tr>
+<tr><td>Kineticist.CreateKineticEnergizeWeapon</td>
+    <td>infusion</td>
+    <td>:x:</td>
+    <td>:heavy_check_mark:</td></tr>
+<tr><td>Kineticist.CreateKineticFist</td>
+    <td>infusion</td>
+    <td>:x:</td>
+    <td>:heavy_check_mark:</td></tr>
+<tr><td>Kineticist.CreateKineticistBackground</td>
+    <td>regional background: gain +1 Kineticist level for the purpose of feat prerequisites</td>
+    <td>:heavy_check_mark:</td>
+    <td>:heavy_check_mark:</td></tr>
+<tr><td>Kineticist.CreateMindShield</td>
+    <td>Wild Talent: half Psychokineticist's penalties</td>
+    <td>:heavy_check_mark:</td>
+    <td>:heavy_check_mark:</td></tr>
+<tr><td>Kineticist.CreateMobileGatheringFeat</td>
+    <td><b>新增专长：</b>Mobile Gathering</td>
+    <td>:x:</td>
+    <td>:heavy_check_mark:</td></tr>
+<tr><td>Kineticist.CreateSelectiveMetakinesis</td>
+    <td>gain selective metakinesis at level 7</td>
+    <td>:heavy_check_mark:</td>
+    <td>:heavy_check_mark:</td></tr>
+<tr><td>Kineticist.CreateVenomInfusion</td>
+    <td>infusion: applies sickened or poisons the target</td>
+    <td>:x:</td>
+    <td>:heavy_check_mark:</td></tr>
+<tr><td>Kineticist.CreateWhipInfusion</td>
+    <td>infusion: Kinetic Whip, expands Kinetic Knight</td>
+    <td>:x:</td>
+    <td>:heavy_check_mark:</td></tr>
+<tr><td>Kineticist.FixExpandedElementFocus</td>
+    <td>fix missing talents and mastery when picking the same element focus multiple times</td>
+    <td>:x:</td>
+    <td>:heavy_check_mark:</td></tr>
+<tr><td>Kineticist.PatchDarkElementalist</td>
+    <td>faster animation and use anywhere, but only out of combat</td>
+    <td>:heavy_check_mark:</td>
+    <td>:heavy_check_mark:</td></tr>
+<tr><td>Kineticist.PatchDemonCharge</td>
+    <td>Demon Charge also gathers power</td>
+    <td>:heavy_check_mark:</td>
+    <td>:heavy_check_mark:</td></tr>
+<tr><td>Kineticist.PatchGatherPower</td>
+    <td>Kineticist Gather Power can be used manually</td>
+    <td>:x:</td>
+    <td>:heavy_check_mark:</td></tr>
+<tr><td>Kineticist.PatchVarious</td>
+    <td>bowling works with sandstorm blast, apply PsychokineticistStat setting, fixed Negative Energy Mastery</td>
+    <td>:heavy_check_mark:</td>
+    <td>:heavy_check_mark:</td></tr>
+<tr><td>Kineticist.FixBlastsAreSpellLike</td>
+    <td>makes blasts register as spell like, instead of supernatural</td>
+    <td>:x:</td>
+    <td>:heavy_check_mark:</td></tr>
+<tr><td>Kineticist.FixBloodKineticist</td>
+    <td>seeks to fix bugs in Blood Kineticist</td>
+    <td>:x:</td>
+    <td>:construction:</td></tr>
+<tr><td>Kineticist.FixWallInfusion</td>
+    <td>fix Wall Infusion not dealing damage while standing inside</td>
+    <td>:x:</td>
+    <td>:heavy_check_mark:</td></tr>
+<tr><td>Magus.CreateAccursedStrike</td>
+    <td>hexcrafter arcana: Accursed Strike</td>
+    <td>:x:</td>
+    <td>:x:</td></tr>
+<tr><td>Magus.FixHexcrafterProgression</td>
+    <td>allows hex selection with any arcana, add missing spell recall at level 11</td>
+    <td>:x:</td>
+    <td>:heavy_check_mark:</td></tr>
+<tr><td>Magus.PatchSwordSaint</td>
+    <td>allow Sword Saint to pick any weapon focus</td>
+    <td>:heavy_check_mark:</td>
+    <td>:heavy_check_mark:</td></tr>
+<tr><td>MartialArt.CreateProdigiousTwoWeaponFighting</td>
+    <td>combat feat: use STR for TWF and always treat offhand as light</td>
+    <td>:x:</td>
+    <td>:heavy_check_mark:</td></tr>
+<tr><td>Monk.CreateFeralCombatTraining</td>
+    <td><b>新增专长：</b>Feral Combat Training</td>
+    <td>:heavy_check_mark:</td>
+    <td>:heavy_check_mark:</td></tr>
+<tr><td>Monk.PatchSoheiRapidShot</td>
+    <td>disallow rapid shot for Sohei</td>
+    <td>:heavy_check_mark:</td>
+    <td>:heavy_check_mark:</td></tr>
+<tr><td>Mythic.CreateDemonLord</td>
+    <td>adds features of Demon Lords to the mythic Demon progression: teleport at will, ...</td>
+    <td>:heavy_check_mark:</td>
+    <td>:construction:</td></tr>
+<tr><td>Mythic.CreateDemonMastery</td>
+    <td>mythic feat: requires demon lv6; change the rage effect of an demon aspect into a passive effect</td>
+    <td>:heavy_check_mark:</td>
+    <td>:heavy_check_mark:</td></tr>
+<tr><td>Mythic.CreateExtraMythicFeats</td>
+    <td>mythic feat: can pick mythic abilities as feats and vice versa</td>
+    <td>:heavy_check_mark:</td>
+    <td>:heavy_check_mark:</td></tr>
+<tr><td>Mythic.CreateKineticMastery</td>
+    <td>mythic feat: physical Kinetic Blasts gain attack bonus equal to mythic level, or half with energy Blasts</td>
+    <td>:heavy_check_mark:</td>
+    <td>:heavy_check_mark:</td></tr>
+<tr><td>Mythic.CreateLimitlessArcanePool</td>
+    <td>mythic ability: infinite arcane pool, expect spell recall</td>
+    <td>:heavy_check_mark:</td>
+    <td>:heavy_check_mark:</td></tr>
+<tr><td>Mythic.CreateLimitlessArcaneReservoir</td>
+    <td>mythic ability: infinite arcane reservoir</td>
+    <td>:heavy_check_mark:</td>
+    <td>:heavy_check_mark:</td></tr>
+<tr><td>Mythic.CreateLimitlessBardicPerformance</td>
+    <td>mythic ability: Bardic Performances cost no resources mythic ability: Skald's Raging Song cost no resources</td>
+    <td>:heavy_check_mark:</td>
+    <td>:heavy_check_mark:</td></tr>
+<tr><td>Mythic.CreateLimitlessBloodlineClaws</td>
+    <td>mythic ability: use claws from bloodlines at will, use breath weapon more often, use dragon disciple form II at will</td>
+    <td>:heavy_check_mark:</td>
+    <td>:heavy_check_mark:</td></tr>
+<tr><td>Mythic.CreateLimitlessBombs</td>
+    <td>mythic ability: infinite alchemist bombs and incenses</td>
+    <td>:heavy_check_mark:</td>
+    <td>:heavy_check_mark:</td></tr>
+<tr><td>Mythic.CreateLimitlessDomain</td>
+    <td>mythic ability: use domain powers at will</td>
+    <td>:heavy_check_mark:</td>
+    <td>:heavy_check_mark:</td></tr>
+<tr><td>Mythic.CreateLimitlessInquisitorBane</td>
+    <td>mythic ability: infinite inquisitor bane</td>
+    <td>:heavy_check_mark:</td>
+    <td>:heavy_check_mark:</td></tr>
+<tr><td>Mythic.CreateLimitlessKi</td>
+    <td>mythic ability: reduce ki costs by 1</td>
+    <td>:heavy_check_mark:</td>
+    <td>:heavy_check_mark:</td></tr>
+<tr><td>Mythic.CreateLimitlessShaman</td>
+    <td>mythic ability: infinite spirit weapon uses (shaman, spirit hunter)</td>
+    <td>:heavy_check_mark:</td>
+    <td>:heavy_check_mark:</td></tr>
+<tr><td>Mythic.CreateLimitlessSmite</td>
+    <td>mythic ability: infinite Smites (chaotic and evil), requires Abundant Smite</td>
+    <td>:heavy_check_mark:</td>
+    <td>:heavy_check_mark:</td></tr>
+<tr><td>Mythic.CreateLimitlessWarpriest</td>
+    <td>mythic ability: infinite scared weapon uses</td>
+    <td>:heavy_check_mark:</td>
+    <td>:heavy_check_mark:</td></tr>
+<tr><td>Mythic.CreateLimitlessWarpriestBlessing</td>
+    <td>mythic ability: use blessing powers at will</td>
+    <td>:heavy_check_mark:</td>
+    <td>:heavy_check_mark:</td></tr>
+<tr><td>Mythic.CreateLimitlessWitchHexes</td>
+    <td>mythic ability: Hexes ignore their cooldown</td>
+    <td>:heavy_check_mark:</td>
+    <td>:heavy_check_mark:</td></tr>
+<tr><td>Mythic.CreateMagicItemAdept</td>
+    <td>mythic feat: trinket items use character level as caster level</td>
+    <td>:heavy_check_mark:</td>
+    <td>:heavy_check_mark:</td></tr>
+<tr><td>Mythic.CreateMetamagicAdept</td>
+    <td>mythic feat: allow spontaneous spellcasters to apply metamagic without casting time penalty</td>
+    <td>:heavy_check_mark:</td>
+    <td>:heavy_check_mark:</td></tr>
+<tr><td>Mythic.CreateMythicCompanion</td>
+    <td>mythic feat: unlocks companion equipment slots</td>
+    <td>:heavy_check_mark:</td>
+    <td>:heavy_check_mark:</td></tr>
+<tr><td>Mythic.CreateMythicEschewMaterials</td>
+    <td>mythic ability: you cast spells without expending material components</td>
+    <td>:heavy_check_mark:</td>
+    <td>:heavy_check_mark:</td></tr>
+<tr><td>Mythic.CreateNotAChance</td>
+    <td>mythic ability: immunity to crits</td>
+    <td>:heavy_check_mark:</td>
+    <td>:heavy_check_mark:</td></tr>
+<tr><td>Mythic.CreateResourcefulCaster</td>
+    <td>mythic ability: regain spells that fail because of spell failure, concentration, SR, saving throws</td>
+    <td>:heavy_check_mark:</td>
+    <td>:heavy_check_mark:</td></tr>
+<tr><td>Mythic.CreateSwiftHex</td>
+    <td>mythic ability: hexes other than grant can be used as a swift action</td>
+    <td>:heavy_check_mark:</td>
+    <td>:heavy_check_mark:</td></tr>
+<tr><td>Mythic.CreateSwiftHuntersBond</td>
+    <td>mythic ability: ranger's Hunter's Bond can be used as a swift action</td>
+    <td>:heavy_check_mark:</td>
+    <td>:heavy_check_mark:</td></tr>
+<tr><td>Mythic.ExtendLimitlessAnimalFocus</td>
+    <td>mythic ability: gain the Hunter capstone 'Master Hunter'</td>
+    <td>:heavy_check_mark:</td>
+    <td>:heavy_check_mark:</td></tr>
+<tr><td>Mythic.PatchAscendantSummons</td>
+    <td>buffed Ascendant Summons by +4 stats and DR 10</td>
+    <td>:heavy_check_mark:</td>
+    <td>:heavy_check_mark:</td></tr>
+<tr><td>Mythic.PatchBoundlessHealing</td>
+    <td>Boundless Healing also grants healing spells to spellbooks</td>
+    <td>:heavy_check_mark:</td>
+    <td>:heavy_check_mark:</td></tr>
+<tr><td>Mythic.PatchBoundlessInjury</td>
+    <td>mythic ability: like Boundless Injury but for harm spells</td>
+    <td>:heavy_check_mark:</td>
+    <td>:heavy_check_mark:</td></tr>
+<tr><td>Mythic.PatchElementalBarrage</td>
+    <td>reverse patch, trigger of weapon attacks again</td>
+    <td>:heavy_check_mark:</td>
+    <td>:heavy_check_mark:</td></tr>
+<tr><td>Mythic.PatchJudgementAura</td>
+    <td>Everlasting Judgement also applies to Judgement Aura</td>
+    <td>:heavy_check_mark:</td>
+    <td>:heavy_check_mark:</td></tr>
+<tr><td>Mythic.PatchKineticOvercharge</td>
+    <td>Kinetic Overcharge works always, not only while gathering power</td>
+    <td>:heavy_check_mark:</td>
+    <td>:heavy_check_mark:</td></tr>
+<tr><td>Mythic.PatchLimitlessDemonRage</td>
+    <td>Limitless Rage also applies to Demon Rage</td>
+    <td>:heavy_check_mark:</td>
+    <td>:heavy_check_mark:</td></tr>
+<tr><td>Mythic.PatchRangingShots</td>
+    <td>doesn't get weaker when hitting</td>
+    <td>:heavy_check_mark:</td>
+    <td>:heavy_check_mark:</td></tr>
+<tr><td>Mythic.PatchUnstoppable</td>
+    <td>Unstoppable works against more conditions like stun, daze, and confusion</td>
+    <td>:heavy_check_mark:</td>
+    <td>:heavy_check_mark:</td></tr>
+<tr><td>Mythic.PatchVarious</td>
+    <td>allow quicken on Demon Teleport, allow Elemental Barrage on any damage, Elemental Rampage works with Limitless Rage</td>
+    <td>:heavy_check_mark:</td>
+    <td>:heavy_check_mark:</td></tr>
+<tr><td>Mythic.PatchWanderingHex</td>
+    <td>can swap hex at will</td>
+    <td>:heavy_check_mark:</td>
+    <td>:heavy_check_mark:</td></tr>
+<tr><td>Mythic.PatchAlwaysAChance</td>
+    <td>'Always A Chance' succeeds on a natural one and applies to most d20 rolls</td>
+    <td>:heavy_check_mark:</td>
+    <td>:heavy_check_mark:</td></tr>
+<tr><td>Ranger.CreateImprovedHuntersBond</td>
+    <td>combat feat: Improved Hunter's Bond</td>
+    <td>:x:</td>
+    <td>:heavy_check_mark:</td></tr>
+<tr><td>Rogue.CreateBleedingAttack</td>
+    <td>rogue talent: Bleeding Attack; basic talent: Flensing Strike</td>
+    <td>:x:</td>
+    <td>:heavy_check_mark:</td></tr>
+<tr><td>Rogue.CreateExtraRogueTalent</td>
+    <td><b>新增专长：</b>Extra Rogue Talent</td>
+    <td>:x:</td>
+    <td>:heavy_check_mark:</td></tr>
+<tr><td>Spellcasters.CreateBestowHope</td>
+    <td><b>新增专长：</b>channel energy reduces fear</td>
+    <td>:x:</td>
+    <td>:heavy_check_mark:</td></tr>
+<tr><td>Spellcasters.CreateEnergyChannel</td>
+    <td><b>新增专长：</b>channel energy through weapon attacks</td>
+    <td>:x:</td>
+    <td>:heavy_check_mark:</td></tr>
+<tr><td>Spellcasters.CreatePurifyingChannel</td>
+    <td><b>新增专长：</b>channel positive energy deals fire damage</td>
+    <td>:x:</td>
+    <td>:heavy_check_mark:</td></tr>
+<tr><td>Spellcasters.FixBloodlineArcane</td>
+    <td>Arcane Apotheosis ignores metamagic casting time penalty</td>
+    <td>:x:</td>
+    <td>:heavy_check_mark:</td></tr>
+<tr><td>Spellcasters.PatchArcanistBrownFur</td>
+    <td>allows Share Transmutation to affect any spell</td>
+    <td>:heavy_check_mark:</td>
+    <td>:heavy_check_mark:</td></tr>
+<tr><td>Spells.CreateBladedDash</td>
+    <td>spell: Bladed Dash</td>
+    <td>:x:</td>
+    <td>:heavy_check_mark:</td></tr>
+<tr><td>Spells.CreateChillTouch</td>
+    <td>spell: Chill Touch</td>
+    <td>:x:</td>
+    <td>:heavy_check_mark:</td></tr>
+<tr><td>Spells.CreateDivineTrident</td>
+    <td>spell: Divine Trident</td>
+    <td>:x:</td>
+    <td>:heavy_check_mark:</td></tr>
+<tr><td>Spells.CreateFlameBlade</td>
+    <td>spell: Flame Blade, feat: Flame Blade Dervish Combat</td>
+    <td>:x:</td>
+    <td>:heavy_check_mark:</td></tr>
+<tr><td>Spells.CreateHealingFlames</td>
+    <td>spell: Healing Flames</td>
+    <td>:x:</td>
+    <td>:heavy_check_mark:</td></tr>
+<tr><td>Spells.CreateProduceFlame</td>
+    <td>spell: Produce Flame</td>
+    <td>:x:</td>
+    <td>:heavy_check_mark:</td></tr>
+<tr><td>Spells.PatchVarious</td>
+    <td>life bubble is AOE again</td>
+    <td>:x:</td>
+    <td>:heavy_check_mark:</td></tr>
+<tr><td>Unlock.UnlockAnimalCompanion</td>
+    <td>allows animal companions to reach up to level 40</td>
+    <td>:heavy_check_mark:</td>
+    <td>:construction:</td></tr>
+<tr><td>Unlock.UnlockKineticist</td>
+    <td>adds infusion, wild talent, and element focus up to level 40</td>
+    <td>:heavy_check_mark:</td>
+    <td>:heavy_check_mark:</td></tr>
+<tr><td>Unlock.UnlockSpells</td>
+    <td>unlocks some spells: Transformation</td>
+    <td>:heavy_check_mark:</td>
+    <td>:heavy_check_mark:</td></tr>
+<tr><td>Witch.CreateCackleActivatable</td>
+    <td>Cackle/Chant can be toggled to use move action passively</td>
+    <td>:heavy_check_mark:</td>
+    <td>:heavy_check_mark:</td></tr>
+<tr><td>Witch.CreateExtraHex</td>
+    <td><b>新增专长：</b>Extra Hex</td>
+    <td>:x:</td>
+    <td>:heavy_check_mark:</td></tr>
+<tr><td>Witch.CreateIceTomb</td>
+    <td>Hex: Ice Tomb</td>
+    <td>:x:</td>
+    <td>:heavy_check_mark:</td></tr>
+<tr><td>Witch.CreateSplitHex</td>
+    <td><b>新增专长：</b>Split Hex, Split Major Hex</td>
+    <td>:x:</td>
+    <td>:construction:</td></tr>
+<tr><td>Witch.FixBoundlessHealing</td>
+    <td>boundless healing applies to healing hex</td>
+    <td>:x:</td>
+    <td>:heavy_check_mark:</td></tr>
+<tr><td>Witch.FixFortuneHex</td>
+    <td>Fortune hex will only trigger once per type of roll and per round</td>
+    <td>:x:</td>
+    <td>:heavy_check_mark:</td></tr>
+<tr><td>Patch.Patch_AbilityRange</td>
+    <td>bonus spell range equal to 5 feet per 2 caster levels</td>
+    <td>:heavy_check_mark:</td>
+    <td>:heavy_check_mark:</td></tr>
+<tr><td>Patch.Patch_ActivatableHandleUnitRunCommand</td>
+    <td>fixes move actions disabling the activatable (since we have 2 of them)</td>
+    <td>:x:</td>
+    <td>:heavy_check_mark:</td></tr>
+<tr><td>Patch.Patch_ActivatableOnNewRound</td>
+    <td>uses up move action when triggered; deactivates activatable if no action left</td>
+    <td>:x:</td>
+    <td>:heavy_check_mark:</td></tr>
+<tr><td>Patch.Patch_ActivatableOnTurnOn</td>
+    <td>fixes activatable not being allowed to be active when they have the same action (like 2 move actions)</td>
+    <td>:x:</td>
+    <td>:heavy_check_mark:</td></tr>
+<tr><td>Patch.Patch_ActivatableTryStart</td>
+    <td>fixes activatable not starting the second time, while being outside of combat</td>
+    <td>:x:</td>
+    <td>:heavy_check_mark:</td></tr>
+<tr><td>Patch.Patch_AllowAchievements</td>
+    <td>clears the 'has used mods before' flag and also pretends that no mods are active</td>
+    <td>:x:</td>
+    <td>:heavy_check_mark:</td></tr>
+<tr><td>Patch.Patch_ArcanistSpontaneous</td>
+    <td>allows arcanist to use non memorized metamagic, but increases casting time</td>
+    <td>:x:</td>
+    <td>:heavy_check_mark:</td></tr>
+<tr><td>Patch.Patch_AzataFavorableMagic</td>
+    <td>include saving throws from auras (does not work with TableTopTweaks Azata.FavorableMagic enabled)</td>
+    <td>:heavy_check_mark:</td>
+    <td>:heavy_check_mark:</td></tr>
+<tr><td>Patch.Patch_BackgroundChecks</td>
+    <td>prevents identical background skills from causing an error</td>
+    <td>:x:</td>
+    <td>:heavy_check_mark:</td></tr>
+<tr><td>Patch.Patch_DarkElementalistBurn</td>
+    <td>for Wild Talents your current amount of burn includes the number of successful Soul Power uses</td>
+    <td>:heavy_check_mark:</td>
+    <td>:heavy_check_mark:</td></tr>
+<tr><td>Patch.Patch_DismissAnything</td>
+    <td>dismiss any spell regardless of who the caster is</td>
+    <td>:heavy_check_mark:</td>
+    <td>:heavy_check_mark:</td></tr>
+<tr><td>Patch.Patch_EnduringSpells</td>
+    <td>allows Enduring Spell to apply to spells from any source; fix for Magic Weapon</td>
+    <td>:x:</td>
+    <td>:heavy_check_mark:</td></tr>
+<tr><td>Patch.Patch_EnvelopingWindsCap</td>
+    <td>removes 50% evasion cap for Hurricane Queen</td>
+    <td>:x:</td>
+    <td>:heavy_check_mark:</td></tr>
+<tr><td>Patch.Patch_FixAreaDoubleDamage</td>
+    <td>fixes area effects triggering twice when cast</td>
+    <td>:x:</td>
+    <td>:heavy_check_mark:</td></tr>
+<tr><td>Patch.Patch_FixAreaEndOfTurn</td>
+    <td>in turn-based mode area effects happen at the end of each unit's round, instead of all at once at the start of the caster's round</td>
+    <td>:x:</td>
+    <td>:heavy_check_mark:</td></tr>
+<tr><td>Patch.Patch_FixFeatureSelection</td>
+    <td>fixes issue #189</td>
+    <td>:x:</td>
+    <td>:heavy_check_mark:</td></tr>
+<tr><td>Patch.Patch_FixPolymorphGather</td>
+    <td>makes it so polymorphed creatures can use Gather Power and creatures with hands Kinetic Blade</td>
+    <td>:x:</td>
+    <td>:heavy_check_mark:</td></tr>
+<tr><td>Patch.Patch_FixQuickenMetamagic</td>
+    <td>fixed quickened abilities taking more time than normal, if you already have used your swift action</td>
+    <td>:x:</td>
+    <td>:heavy_check_mark:</td></tr>
+<tr><td>Patch.Patch_HexcrafterSpellStrike</td>
+    <td>hexes with touch range can be used with Spell Strike</td>
+    <td>:heavy_check_mark:</td>
+    <td>:heavy_check_mark:</td></tr>
+<tr><td>Patch.Patch_KineticistAllowOpportunityAttack</td>
+    <td>allows Attack of Opportunities with anything but standard Kinetic Blade; so that Kinetic Whip works; also allows natural attacks to be used, if Whip isn't available</td>
+    <td>:x:</td>
+    <td>:heavy_check_mark:</td></tr>
+<tr><td>Patch.Patch_LimitlessActivatables</td>
+    <td>makes it so activatables with infinite resources start out of combat and stay on after combat</td>
+    <td>:x:</td>
+    <td>:heavy_check_mark:</td></tr>
+<tr><td>Patch.Patch_MagicItemAdept</td>
+    <td>patches for Magic Item Adept</td>
+    <td>:heavy_check_mark:</td>
+    <td>:heavy_check_mark:</td></tr>
+<tr><td>Patch.Patch_ParryAlways</td>
+    <td>use parry even if attack would have missed anyway</td>
+    <td>:x:</td>
+    <td>:heavy_check_mark:</td></tr>
+<tr><td>Patch.Patch_Polymorph</td>
+    <td>allows debug flags to keep inventory or model during polymorph</td>
+    <td>:x:</td>
+    <td>:heavy_check_mark:</td></tr>
+<tr><td>Patch.Patch_PreferredSpellMetamagic</td>
+    <td>necessary patches for Preferred Spell</td>
+    <td>:x:</td>
+    <td>:heavy_check_mark:</td></tr>
+<tr><td>Patch.Patch_ResourcefulCaster</td>
+    <td>patches for Resourceful Caster</td>
+    <td>:heavy_check_mark:</td>
+    <td>:heavy_check_mark:</td></tr>
+<tr><td>Patch.Patch_RespecPartially</td>
+    <td>allows respec to be finished at any point</td>
+    <td>:x:</td>
+    <td>:heavy_check_mark:</td></tr>
+<tr><td>Patch.Patch_TrueGatherPowerLevel</td>
+    <td>Normal: The level of gathering power is determined by the mode (none, low, medium, high) selected. If the mode is lower than the already accumulated gather level, then levels are lost. Patched: The level of gathering is true to the accumulated level or the selected mode, whatever is higher.</td>
+    <td>:x:</td>
+    <td>:heavy_check_mark:</td></tr>
+<tr><td>Patch.Patch_UnlockClassLevels</td>
+    <td>let's you pick class levels after level 20 with any class; this won't add new features except basic feats and won't allow character levels beyond 20 (which can be done with champion mythic path or Toybox)</td>
+    <td>:heavy_check_mark:</td>
+    <td>:heavy_check_mark:</td></tr>
+<tr><td>Patch.Patch_ZippySpellLike</td>
+    <td>allows zippy to work on spell-like abilities</td>
+    <td>:heavy_check_mark:</td>
+    <td>:heavy_check_mark:</td>
+    <td>
+ </table>
+
 
