@@ -1851,6 +1851,7 @@
        <td>Elemental Scion 操念使 - 元素后继者</td></tr> 
   <tr><td rowspan="3">职业特性</i></td>
        <td>操念使内容<br><b>DarkCodex对操念使进行了大量扩充，包括允许自动使用过载来强化念袭、相应专长、专用背景、新的原力和注能、BUG修复等等</b><br>原力：Hurricane Queen、Mind Shield<br>注能：Blade Rush、Chain Infusion、Impale Infusion、Energize Weapon、Kinetic Fist、Venom Infusion、Kinetic Whip</td></tr> 
+       </table>
        
 <table>
 <tr><th colspan="4">新增和修改内容列表<br>实装：:construction:表示是否未经作者测试<br>实装：:x:表示未实装，无实际效果</th></tr> 
@@ -2438,7 +2439,6 @@
     <td>allows zippy to work on spell-like abilities</td>
     <td>:heavy_check_mark:</td>
     <td>:heavy_check_mark:</td>
-    <td>
  </table>
 
 
