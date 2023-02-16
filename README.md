@@ -90,1024 +90,1022 @@
 + 友情提示，但是由于新增了大量内容，关闭这些修复很容易导致过于滥强<br>
 + TTT的更新过于庞杂海量，建议有一定英文基础和游戏基础再玩（虽然内容已经汉化但是选项菜单无法汉化，此处提供选项对照）
 
-
-
 <table>  
 <tr><th colspan="5">修改列表</th></tr> 
 <tr><td>分类</td><td>Config中选项</td><td>默认</td><td>房规</td><td>效果</td></tr>
 <tr><td rowspan="34">基本修复<br>Base</td>
    <td>AreaOfEffectDoubleTrigger
-        </td><td>是
-        </td><td>否
+        </td><td>:heavy_check_mark:
+        </td><td>:x:
         </td><td>修复AOE法术释放时额外触发一次</td></tr>
       <tr><td>CoupDeGrace
-        </td><td>是
-        </td><td>否
+        </td><td>:heavy_check_mark:
+        </td><td>:x:
         </td><td>致命一击DC现在基于伤害</td></tr>
       <tr><td>DamageReductionRework
-        </td><td>是
-        </td><td>否
+        </td><td>:heavy_check_mark:
+        </td><td>:x:
         </td><td>防止DR叠加，除非特别声明</td></tr>
       <tr><td>DamageVulnerability
-        </td><td>是
-        </td><td>否
+        </td><td>:heavy_check_mark:
+        </td><td>:x:
         </td><td>易伤对多类型伤害正确生效</td></tr>
       <tr><td>DiceReplacementUI
-        </td><td>是
-        </td><td>否
+        </td><td>:heavy_check_mark:
+        </td><td>:x:
         </td><td>修改掷骰点数显示</td></tr>
       <tr><td>DisableAfterCombatDeactivationOfUnlimitedAbilities
-        </td><td>是
-        </td><td>否
+        </td><td>:heavy_check_mark:
+        </td><td>:x:
         </td><td>允许无限使用能力战斗后保持激活</td></tr>
       <tr><td>DisableCannyDefenseStacking
-        </td><td>是
-        </td><td>否
+        </td><td>:heavy_check_mark:
+        </td><td>:x:
         </td><td>防止剑圣和决斗家AC奖励叠加</td></tr>
       <tr><td>DisableNaturalArmorStacking
-        </td><td>是
-        </td><td>否
+        </td><td>:heavy_check_mark:
+        </td><td>:x:
         </td><td>天生防御加值不再叠加，除非特别说明。“天生防御加值”和“天生防御加值增强”依然正确叠加</td></tr>
       <tr><td>DisablePolymorphSizeStacking
-        </td><td>是
-        </td><td>否
+        </td><td>:heavy_check_mark:
+        </td><td>:x:
         </td><td>激活变形法术会正确压制非变形法术的尺寸变化效果</td></tr>
       <tr><td>DisablePolymorphStacking
-        </td><td>是
-        </td><td>否
+        </td><td>:heavy_check_mark:
+        </td><td>:x:
         </td><td>防止多个变形效果叠加</td></tr>
       <tr><td>DisableSizeStacking
-        </td><td>是
-        </td><td>否
+        </td><td>:heavy_check_mark:
+        </td><td>:x:
         </td><td>防止多个尺寸变化效果叠加，后获得的效果只会被压制不生效，并不会被移除</td></tr>
       <tr><td>DisplaySpellbookInTooltips
-        </td><td>是
-        </td><td>否
+        </td><td>:heavy_check_mark:
+        </td><td>:x:
         </td><td>修改法术界面显示其法术书来源</td></tr>
       <tr><td>DynamicItemNaming
-        </td><td>是
-        </td><td>否
+        </td><td>:heavy_check_mark:
+        </td><td>:x:
         </td><td>为装备名称添加上附魔词缀</td></tr>
       <tr><td>DynamicItemNamingTemporary
-        </td><td>否
-        </td><td>否
+        </td><td>:x:
+        </td><td>:x:
         </td><td>词缀包括临时附魔</td></tr>
       <tr><td>FeatSelections
-        </td><td>是
-        </td><td>否
+        </td><td>:heavy_check_mark:
+        </td><td>:x:
         </td><td><s>改正奖励专长选择，比如战士的额外专长，来允许选择所有指定类型专长</s>原版已修复</td></tr>
       <tr><td>FixBackgroundModifiers
-        </td><td>是
-        </td><td>是
+        </td><td>:heavy_check_mark:
+        </td><td>:heavy_check_mark:
         </td><td>背景给予的技能和攻击加值改为特性加值</td></tr>
       <tr><td>FixBuffCasterOnSaveLoad
-        </td><td>是
-        </td><td>否
+        </td><td>:heavy_check_mark:
+        </td><td>:x:
         </td><td>读取存档时BUFF施法者能够被正确记录 </td></tr>
       <tr><td>FixConcealment
-        </td><td>是
-        </td><td>否
+        </td><td>:heavy_check_mark:
+        </td><td>:x:
         </td><td>修复隐形的隐蔽检定</td></tr>
       <tr><td>FixCriticalConfirmation
-        </td><td>是
-        </td><td>否
+        </td><td>:heavy_check_mark:
+        </td><td>:x:
         </td><td>允许天然20自动确认重击</td></tr>
       <tr><td>FixInherentBonuses
-        </td><td>是
-        </td><td>否
+        </td><td>:heavy_check_mark:
+        </td><td>:x:
         </td><td>永久属性奖励能够作为专长前置</td></tr>
       <tr><td>FixInherentSkillpoints
-        </td><td>是
-        </td><td>否
+        </td><td>:heavy_check_mark:
+        </td><td>:x:
         </td><td>永久智力奖励能够准确获取技能点</td></tr>
       <tr><td>FixMountedLongspearModifer
-        </td><td>是
-        </td><td>否
+        </td><td>:heavy_check_mark:
+        </td><td>:x:
         </td><td>长矛在骑乘冲锋时获得额外伤害</td></tr>
       <tr><td>FixPrebuffCasterLevels
-        </td><td>是
-        </td><td>否
+        </td><td>:heavy_check_mark:
+        </td><td>:x:
         </td><td>修正敌人自带BUFF的CL</td></tr>
       <tr><td>FixProgressionDisplay
-        </td><td>是
-        </td><td>否
+        </td><td>:heavy_check_mark:
+        </td><td>:x:
         </td><td>进程不再显示你不会获得的特性</td></tr>
       <tr><td>FixShadowSpells
-        </td><td>是
-        </td><td>否
+        </td><td>:heavy_check_mark:
+        </td><td>:x:
         </td><td>修复阴影模拟系列法术，使其正确从幻象学派获益</td></tr>
       <tr><td>FixSizeShiftLimits
-        </td><td>是
-        </td><td>否
+        </td><td>:heavy_check_mark:
+        </td><td>:x:
         </td><td>修正从Fine到Colossal的尺寸比例</td></tr>
       <tr><td>FixWeaponEnhancmentBonusModifiers
-        </td><td>是
-        </td><td>否
+        </td><td>:heavy_check_mark:
+        </td><td>:x:
         </td><td>武器增强加值和非武器增强价值现在从逻辑上区分开</td></tr>
       <tr><td>MetamagicStacking
-        </td><td>是
-        </td><td>否
+        </td><td>:heavy_check_mark:
+        </td><td>:x:
         </td><td>防止强效超魔的额外骰子受到极效作用</td></tr>
       <tr><td>MetamagicBolsterDoubleDiping
-        </td><td>是
-        </td><td>否
+        </td><td>:heavy_check_mark:
+        </td><td>:x:
         </td><td>防止法术增效超魔多次应用于同一法术</td></tr>
       <tr><td>MountedActions
-        </td><td>是
-        </td><td>否
+        </td><td>:heavy_check_mark:
+        </td><td>:x:
         </td><td>骑乘移动后不能再进行整轮动作</td></tr>
       <tr><td>NauseatedDescriptors
-        </td><td>是
-        </td><td>否
+        </td><td>:heavy_check_mark:
+        </td><td>:x:
         </td><td>移除恶心的移动受限描述</td></tr>
       <tr><td>SelectiveMetamagicNonInstantaneous
-        </td><td>是
-        </td><td>否
+        </td><td>:heavy_check_mark:
+        </td><td>:x:
         </td><td>修复持续时间不是立即的法术也能应用甄选附魔的问题</td></tr>
       <tr><td>StaggeredDescriptors
-        </td><td>是
-        </td><td>否
+        </td><td>:heavy_check_mark:
+        </td><td>:x:
         </td><td>移除恍惚的移动受限描述</td></tr>
       <tr><td>SuppressedBuffUI
-        </td><td>是
-        </td><td>否
+        </td><td>:heavy_check_mark:
+        </td><td>:x:
         </td><td>改变被抑制的BUFF的渲染方式</td></tr>
  <tr><td rowspan="3">御衡道途</td>
           <td>AeonDemythication
-        </td><td>是
-        </td><td>否
+        </td><td>:heavy_check_mark:
+        </td><td>:x:
         </td><td>神话抑制能够正确抑制神话效果了</td></tr>
       <tr><td>AeonTenthLevelImmunities
-        </td><td>是
-        </td><td>否
+        </td><td>:heavy_check_mark:
+        </td><td>:x:
         </td><td>修复御衡者免疫效果</td></tr>
       <tr><td>PowerOfLaw
-        </td><td>是
-        </td><td>否
+        </td><td>:heavy_check_mark:
+        </td><td>:x:
         </td><td>逼迫凝视（秩序之力）对于重投类效果正确生效了</td></tr>
   <tr><td>恶魔道途</td>
       <td>BrimorakAspect
-        </td><td>是
-        </td><td>否
+        </td><td>:heavy_check_mark:
+        </td><td>:x:
         </td><td>爆燃魔相对所有法术都能正确生效了</td></tr>
   <tr><td rowspan="2">巫妖道途</td>
       <td>DeathRush
-        </td><td>是
-        </td><td>否
+        </td><td>:heavy_check_mark:
+        </td><td>:x:
         </td><td>死亡冲击不再产生多次伪攻击并触发武器效果</td></tr>
       <tr><td>SpellbookMerging
-        </td><td>是
-        </td><td>否
+        </td><td>:heavy_check_mark:
+        </td><td>:x:
         </td><td>允许自然魔法师巫妖合书</td></tr>
   <tr><td>诡计道途</td>
       <td>UseMagicDevice2
-        </td><td>是
-        </td><td>否
+        </td><td>:heavy_check_mark:
+        </td><td>:x:
         </td><td>神话诡计使用魔法装置2允许诡计大师忽略装备的阵营和职业需求</td></tr>
   <tr><td>巅峰</td>
       <td>AlternateCapstones</td><td colspan="3">允许单独开关各个职业巅峰，详见新增内容</td></tr>
   <tr><td rowspan="6">炼金术士<br>Alchemist</td>
       <td>Base - MutagenStacking
-            </td><td>是
-            </td><td>否
+            </td><td>:heavy_check_mark:
+            </td><td>:x:
             </td><td>防止诱变剂叠加</td></tr>
         <tr><td>Archetypes - Grenadier - BrewPotions
-            </td><td>是
-            </td><td>否
+            </td><td>:heavy_check_mark:
+            </td><td>:x:
             </td><td>掷弹兵：移除变体调制药水能力</td></tr>
         <tr><td>Archetypes - Grenadier - PoisonResistance
-            </td><td>是
-            </td><td>否
+            </td><td>:heavy_check_mark:
+            </td><td>:x:
             </td><td>掷弹兵：移除变体毒素抵抗能力</td></tr>
          <tr><td>Archetypes - IncenseSynthesizer - ImprovedIncense
-            </td><td>是
-            </td><td>否
+            </td><td>:heavy_check_mark:
+            </td><td>:x:
             </td><td>调香师：修正强化熏香范围扩大后效果</td></tr>
           <tr><td>Archetypes - IncenseSynthesizer - ThickFog
-            </td><td>是
-            </td><td>否
+            </td><td>:heavy_check_mark:
+            </td><td>:x:
             </td><td>调香师：将浓雾的隐蔽类型改为烟雾性质而不再是幻象性质</td></tr>
           <tr><td>Archetypes - IncenseSynthesizer - SacredIncense
-            </td><td>是
-            </td><td>否
+            </td><td>:heavy_check_mark:
+            </td><td>:x:
             </td><td>调香师：修复崇圣熏香效果</td></tr>
   <tr><td rowspan="2">奥能师<br>Arcanist</td>
     <td>Base - reparedSpellUI
-          </td><td>是
-          </td><td>否
+          </td><td>:heavy_check_mark:
+          </td><td>:x:
           </td><td>让奥能师的法术书UI更符合记忆施法者</td></tr>
     <tr><td>Base - EnableMultipleMemorization
-          </td><td>是
-          </td><td>否
+          </td><td>:heavy_check_mark:
+          </td><td>:x:
           </td><td>允许奥能师记忆不同超魔的同个法术</td></tr>
   <tr><td rowspan="2">野蛮人<br>Barbarian</td>
         <td>Base - CripplingBlows
-          </td><td>是
-          </td><td>否
+          </td><td>:heavy_check_mark:
+          </td><td>:x:
           </td><td>致残猛击允许狂暴中使用</td></tr>
         <tr><td>Base - WreckingBlows
-          </td><td>是
-          </td><td>否
+          </td><td>:heavy_check_mark:
+          </td><td>:x:
           </td><td>毁灭猛击允许狂暴中使用</td></tr>
   <tr><td rowspan="10">血怒者<br>Bloodrager</td>
     <td>Base - AbysalBulk
-          </td><td>是
-          </td><td>否
+          </td><td>:heavy_check_mark:
+          </td><td>:x:
           </td><td>深渊血脉巨化魔躯能力在狂暴结束时不再驱散已有的增大效果</td></tr>
         <tr><td>Base - ArcaneBloodrage
-          </td><td>是
-          </td><td>否
+          </td><td>:heavy_check_mark:
+          </td><td>:x:
           </td><td>重做奥术血怒UI</td></tr>
         <tr><td>Base - CastersBane
-          </td><td>是
-          </td><td>否
+          </td><td>:heavy_check_mark:
+          </td><td>:x:
           </td><td>允许奥术血怒巅峰 - 施法者克星</td></tr>
         <tr><td>Base - DisruptiveBloodrage
-          </td><td>是
-          </td><td>否
+          </td><td>:heavy_check_mark:
+          </td><td>:x:
           </td><td>允许奥术血怒 - 扰法血怒</td></tr>
         <tr><td>Base - Spellbook
-          </td><td>是
-          </td><td>否
+          </td><td>:heavy_check_mark:
+          </td><td>:x:
           </td><td>修复法术进程防止依赖预先施法的特性不生效</td></tr>
         <tr><td>Base - TemporaryHitPoints
-          </td><td>是
-          </td><td>否
+          </td><td>:heavy_check_mark:
+          </td><td>:x:
           </td><td>修复临时生命值计算</td>
         <tr><td>Archetypes - Primalist - FixBrokenRagePowers
-            </td><td>是
-            </td><td>否
+            </td><td>:heavy_check_mark:
+            </td><td>:x:
             </td><td>原怒者：允许血怒下使用所有狂暴之力</td></tr>
         <tr><td>Archetypes - Primalist - RagePowerFeatQualifications
-            </td><td>是
-            </td><td>否
+            </td><td>:heavy_check_mark:
+            </td><td>:x:
             </td><td>原怒者：防止允许学习额外狂暴特技专长</td></tr>
         <tr><td>Archetypes - ReformedFiend - DamageReduction
-            </td><td>是
-            </td><td>否
+            </td><td>:heavy_check_mark:
+            </td><td>:x:
             </td><td>自新魔士：DR纠正为DR/善良.</td></tr>
         <tr><td>Archetypes - ReformedFiend - HatredAgainstEvil
-            </td><td>是
-            </td><td>否
+            </td><td>:heavy_check_mark:
+            </td><td>:x:
             </td><td>修复憎恨邪恶奖励</td></tr>
   <tr><td rowspan="5">骑将<br>Cavalier</td>
     <td>Base - CavalierMobility
-          </td><td>是
-          </td><td>否
+          </td><td>:heavy_check_mark:
+          </td><td>:x:
           </td><td>骑乘移动时忽略运动检定的护甲惩罚</td></tr>
         <tr><td>Base - CavalierMountSelection
-          </td><td>是
-          </td><td>否
+          </td><td>:heavy_check_mark:
+          </td><td>:x:
           </td><td>小体型骑将允许选择狼坐骑</td></tr>
         <tr><td>Base - OrderOfTheStarCalling
-          </td><td>是
-          </td><td>否
+          </td><td>:heavy_check_mark:
+          </td><td>:x:
           </td><td>修复星辰骑士团使命感效果</td></tr>
         <tr><td>Base - SupremeCharge
-          </td><td>是
-          </td><td>否
+          </td><td>:heavy_check_mark:
+          </td><td>:x:
           </td><td>防止至高冲锋伤害重击，使用新的冲锋伤害系统</td></tr>
         <tr><td>Archetypes - Gendarme - TransfixingCharge
-            </td><td>是
-            </td><td>否
+            </td><td>:heavy_check_mark:
+            </td><td>:x:
             </td><td>防止穿透冲锋伤害重击，使用新的冲锋伤害系统</td></tr>
   <tr><td>牧师<br>Cleric</td>
       <td>Base - GloryDomain
-          </td><td>是
-          </td><td>否
+          </td><td>:heavy_check_mark:
+          </td><td>:x:
           </td><td><s>修复荣耀领域魅力奖励</s>原版已修复</td></tr>
   <tr><td rowspan="6">战士<br>Fighter</td>
         <td>Base - AdvancedArmorTraining
-          </td><td>是
-          </td><td>否
+          </td><td>:heavy_check_mark:
+          </td><td>:x:
           </td><td>允许战士选择高级护甲训练，替代护甲训练升级</td></tr>
         <tr><td>AdvancedWeaponTraining
-          </td><td>是
-          </td><td>否
+          </td><td>:heavy_check_mark:
+          </td><td>:x:
           </td><td>修复武器训练先决条件</td></tr>
         <tr><td>TwoHandedWeaponTraining
-          </td><td>是
-          </td><td>否
+          </td><td>:heavy_check_mark:
+          </td><td>:x:
           </td><td>修复双手武器战士训练没有被正确视为武器训练的问题</td></tr>
         <tr><td>UnarmedWeaponTraining
-          </td><td>是
-          </td><td>否
+          </td><td>:heavy_check_mark:
+          </td><td>:x:
           </td><td>徒手攻击被正确算作近身武器组</td></tr>
         <tr><td>WeaponTrainingStacking
-          </td><td>是
-          </td><td>否
+          </td><td>:heavy_check_mark:
+          </td><td>:x:
           </td><td>防止多个武器训练组叠加</td></tr>
         <tr><td>Archetypes - TwoHandedFighter - AdvancedWeaponTraining
-            </td><td>是
-            </td><td>否
+            </td><td>:heavy_check_mark:
+            </td><td>:x:
             </td><td>双手武器战士：允许选择进阶武器训练专长</td></tr>
   <tr><td rowspan="1">猎人</td>
     <td>Archetypes - DivineHunter - OtherworldlyCompanion
-            </td><td>是
-            </td><td>否
+            </td><td>:heavy_check_mark:
+            </td><td>:x:
             </td><td>神眷猎人：天界和魔界变体不再给予无限辟邪斩类能力</td></tr>
   <tr><td rowspan="5">魔战士<br>Magus</td>
     <td>Base - AddMissingArcaneWeaponEffects
-          </td><td>是
-          </td><td>否
+          </td><td>:heavy_check_mark:
+          </td><td>:x:
           </td><td>添加缺少的奥法武器效果：焰爆、霜爆、电爆</td></tr>
         <tr><td>Base - SpellCombatAbilityVariants
-          </td><td>是
-          </td><td>否
+          </td><td>:heavy_check_mark:
+          </td><td>:x:
           </td><td>使得法术战斗能够对带有进一步选项的法术（如：次元门）适用</td></tr>
         <tr><td>Base - SpellCombatDisableImmediatly
-          </td><td>是
-          </td><td>否
+          </td><td>:heavy_check_mark:
+          </td><td>:x:
           </td><td>关闭法术战斗时当个回合立刻生效，不需要等待下个回合</td></tr>
         <tr><td>Base - SpellCombatSpellbookRestrictions
-          </td><td>是
-          </td><td>否
+          </td><td>:heavy_check_mark:
+          </td><td>:x:
           </td><td>防止不在魔战士法术表上的法术适用于法术战斗</td></tr>
         <tr><td>Archetypes - SwordSaint - PerfectCritical
-            </td><td>是
-            </td><td>否
+            </td><td>:heavy_check_mark:
+            </td><td>:x:
             </td><td>剑圣：完美重击花费2点奥法点数</td></tr>
   <tr><td rowspan="5">武僧<br>Monk</td>
         <td>Base - StunningFistVarriants
-          </td><td>是
-          </td><td>否
+          </td><td>:heavy_check_mark:
+          </td><td>:x:
           </td><td>增加缺失的在12、16、20级获得的震慑拳选项</td></tr>
         <tr><td>Base - StunningFistDescriptors
-          </td><td>是
-          </td><td>否
+          </td><td>:heavy_check_mark:
+          </td><td>:x:
           </td><td>修复震慑拳描述字段，避免免疫对应效果时生效</td></tr>
         <tr><td>Archetypes - ZenArcher - PerfectStrike
-            </td><td>是
-            </td><td>否
+            </td><td>:heavy_check_mark:
+            </td><td>:x:
             </td><td>禅宗射手：10级时极意击改为投3个骰子</td></tr>
         <tr><td>Archetypes - ScaledFist - FixStunningStrike
-            </td><td>是
-            </td><td>否
+            </td><td>:heavy_check_mark:
+            </td><td>:x:
             </td><td>鳞甲之拳：使得震慑拳使用普通版本</td></tr>
           <tr><td>DraconicFury
-            </td><td>是
-            </td><td>否
+            </td><td>:heavy_check_mark:
+            </td><td>:x:
             </td><td>鳞甲之拳：龙裔怒火替换为Unchained版本 </td></tr>
   <tr><td rowspan="2">先知<br>Oracle</td>
         <td>Base - NaturesWhisperMonkStacking</td>
-          </td><td>是
-          </td><td>否
+          </td><td>:heavy_check_mark:
+          </td><td>:x:
           </td><td>启示：自然低语不能再和鳞甲之拳的AC奖励叠加。拥有鳞甲之拳效果时会改回使用敏捷奖励</td></tr>
         <tr><td>Base - RevelationBurningMagic
-          </td><td>是
-          </td><td>否
+          </td><td>:heavy_check_mark:
+          </td><td>:x:
           </td><td>启示：修复烈焰魔法CL计算</td></tr>
   <tr><td rowspan="2">圣武士<br>Paladin</td>
         <td>Base - DivineMountTemplate</td>
-          </td><td>是
-          </td><td>否
+          </td><td>:heavy_check_mark:
+          </td><td>:x:
           </td><td>修复圣骑士模板，给予应有特性</td></tr>
         <tr><td>Base - SmiteAttackBonus
-          </td><td>是
-          </td><td>否
+          </td><td>:heavy_check_mark:
+          </td><td>:x:
           </td><td>辟邪斩攻击加值不能再和类似能力（辟邪斩、正义烙印）等叠加</td></tr>
    <tr><td rowspan="2">游侠<br>Ranger</td>
         <td>Base - FavoredEnemy</td>
-          </td><td>是
-          </td><td>否
+          </td><td>:heavy_check_mark:
+          </td><td>:x:
           </td><td>统一三种恶魔宿敌为异界生物，不能再选择单独种类恶魔（对于已经选择的不会删除，你依然可以继续选择防止出现兼容性问题）</td></tr>
     <tr><td>Archetypes - EspionageExpert - Trapfinding
-            </td><td>是
-            </td><td>否
+            </td><td>:heavy_check_mark:
+            </td><td>:x:
             </td><td>谍报专家：寻找陷阱特性现在对察觉和巧手生效</td></tr>   
   <tr><td rowspan="7">游荡者<br>Rogue</td>
         <td>Base - DispellingAttack
-          </td><td>是
-          </td><td>否
+          </td><td>:heavy_check_mark:
+          </td><td>:x:
           </td><td>修复职业特性解除正确CL，不会解除DEBUFF</td></tr>
         <tr><td>Base - RogueTalentSelection
-          </td><td>是
-          </td><td>否
+          </td><td>:heavy_check_mark:
+          </td><td>:x:
           </td><td>游荡者天赋不能重复选择同一个（比如战斗专长）</td></tr>
         <tr><td>Base - SlipperyMind
-          </td><td>是
-          </td><td>否
+          </td><td>:heavy_check_mark:
+          </td><td>:x:
           </td><td>心智灵活纠正为高级天赋</td></tr>
         <tr><td>Base - Trapfinding
-          </td><td>是
-          </td><td>否
+          </td><td>:heavy_check_mark:
+          </td><td>:x:
           </td><td>寻找陷阱特性现在对察觉和巧手生效</td></tr>
         <tr><td>Archetypes - EldritchScoundrel - RogueTalentProgression
-            </td><td>是
-            </td><td>否
+            </td><td>:heavy_check_mark:
+            </td><td>:x:
             </td><td>奥法暴徒：2级游荡者天赋移动到4级</td></tr>
          <tr><td>Archetypes - EldritchScoundrel - SneakAttackProgression
-            </td><td>是
-            </td><td>否
+            </td><td>:heavy_check_mark:
+            </td><td>:x:
             </td><td>奥法暴徒：移除1级偷袭骰</td></tr>
          <tr><td>Archetypes - SylvanTrickster - FeyTricks
-            </td><td>是
-            </td><td>否
+            </td><td>:heavy_check_mark:
+            </td><td>:x:
             </td><td>林妖诡术师：妖精诡术现包括所有游荡者天赋</td></tr>
   <tr><td>萨满<br>Shaman</td>
         <td>Base - AmelioratingHex
-          </td><td>是
-          </td><td>否
+          </td><td>:heavy_check_mark:
+          </td><td>:x:
           </td><td>救难不再给予完全免疫能力，改为压制效果</td></tr>
   <tr><td rowspan="2">歌者<br>Skald</td>
     <td>Base - SpellKenning
-          </td><td>是
-          </td><td>否
+          </td><td>:heavy_check_mark:
+          </td><td>:x:
           </td><td>允许法术认知特性</td></tr>      
     <tr><td>Archetypes - BattleScion - BattleProwessSelection
-            </td><td>是
-            </td><td>否
+            </td><td>:heavy_check_mark:
+            </td><td>:x:
             </td><td>战歌贵胄：补充缺失的狂暴之力选项</td></tr>
   <tr><td>杀手<br>Slayer</td>
     <td>Base - Trapfinding
-          </td><td>是
-          </td><td>否
+          </td><td>:heavy_check_mark:
+          </td><td>:x:
           </td><td>寻找陷阱特性现在对察觉和巧手生效</td></tr>
   <tr><td rowspan="3">术士<br>Sorcerer</td>
     <td>Base - DraconicBloodlineDescriptions
-          </td><td>是
-          </td><td>否
+          </td><td>:heavy_check_mark:
+          </td><td>:x:
           </td><td>血承：修正奥术血承描述</td></tr>
         <tr><td>PatchElementalBloodlineDescriptions
-          </td><td>是
-          </td><td>否
+          </td><td>:heavy_check_mark:
+          </td><td>:x:
           </td><td>修复升级UI上元素血承的错误</td></tr>
       <tr><td>Archetypes - Crossblooded - Drawbacks
-            </td><td>是
-            </td><td>否
+            </td><td>:heavy_check_mark:
+            </td><td>:x:
             </td><td>混血术士：补充混血术士应承受的-2意志豁免惩罚</td></tr>       
   <tr><td rowspan="6">战斗祭司<br>Warpriest</td>
         <td>Base - AirBlessing
-          </td><td>是
-          </td><td>否
+          </td><td>:heavy_check_mark:
+          </td><td>:x:
           </td><td>空气主要祝福不再造成过多的伤害实例</td></tr>
         <tr><td>Base - EarthBlessing
-          </td><td>是
-          </td><td>否
+          </td><td>:heavy_check_mark:
+          </td><td>:x:
           </td><td>大地次要祝福不再造成过多的伤害实例</td></tr>
         <tr><td>Base - FireBlessing
-          </td><td>是
-          </td><td>否
+          </td><td>:heavy_check_mark:
+          </td><td>:x:
           </td><td>火焰次要祝福不再造成过多的伤害实例</td></tr>
         <tr><td>Base - LuckBlessing
-          </td><td>是
-          </td><td>否
+          </td><td>:heavy_check_mark:
+          </td><td>:x:
           </td><td>幸运祝福提供正确主要能力</td></tr>
         <tr><td>Base - WaterBlessing
-          </td><td>是
-          </td><td>否
+          </td><td>:heavy_check_mark:
+          </td><td>:x:
           </td><td>流水次要祝福不再造成过多的伤害实例</td></tr>
         <tr><td>Base - WeatherBlessing
-          </td><td>是
-          </td><td>否
+          </td><td>:heavy_check_mark:
+          </td><td>:x:
           </td><td>天气次要祝福不再造成过多的伤害实例</td></tr>      
   <tr><td rowspan="3">巫师<br>Witch</td>
         <td>Base - AgilityPatron
-          </td><td>是
-          </td><td>否
+          </td><td>:heavy_check_mark:
+          </td><td>:x:
           </td><td>机敏庇护主提供动物之型和变化形体</td></tr>
         <tr><td>Base - AmelioratingHex
-          </td><td>是
-          </td><td>否
+          </td><td>:heavy_check_mark:
+          </td><td>:x:
           </td><td>救难不再给予完全免疫能力，改为压制效果</td></tr>
         <tr><td>Base - MajorAmelioratingHex
-          </td><td>是
-          </td><td>否
+          </td><td>:heavy_check_mark:
+          </td><td>:x:
           </td><td>强效救难不再给予完全免疫能力，改为压制效果</td></tr>
   <tr><td>地狱骑士<br>Hellknight</td>
       <td>PentamicFaith
-        </td><td>是
-        </td><td>否
+        </td><td>:heavy_check_mark:
+        </td><td>:x:
         </td><td>五誓：仅限神爪骑士团，不限信仰神祗</td></tr>
   <tr><td rowspan="4">博学士<br>Loremaster</td>
       <td>Prerequisites
-        </td><td>是
-        </td><td>否
+        </td><td>:heavy_check_mark:
+        </td><td>:x:
         </td><td>将前置条件改为更符合桌面规则</td></tr>
       <tr><td>SpellProgression
-        </td><td>是
-        </td><td>否
+        </td><td>:heavy_check_mark:
+        </td><td>:x:
         </td><td>1级获得施法能力升级（拿可知法术），这个改动不能回溯</td></tr>
       <tr><td>SpellSecrets
-        </td><td>是
-        </td><td>否
+        </td><td>:heavy_check_mark:
+        </td><td>:x:
         </td><td>允许法术秘闻</td></tr>
       <tr><td>TricksterTricks
-        </td><td>是
-        </td><td>否
+        </td><td>:heavy_check_mark:
+        </td><td>:x:
         </td><td>从秘闻战斗专长列表中移除诡计道途相关专长</td></tr>
   <tr><td>冬巫<br>WinterWitch</td>
       <td>UnearthlyCold
-        </td><td>是
-        </td><td>否
+        </td><td>:heavy_check_mark:
+        </td><td>:x:
         </td><td>修复异界严寒和超魔及奖励伤害的互动</td></tr
   <tr><td rowspan="54">法术<br>Spells</td>
       <td>AbsoluteOrder
-        </td><td>是
-        </td><td>否
+        </td><td>:heavy_check_mark:
+        </td><td>:x:
         </td><td>绝对指令：加入胁迫描述</td></tr>
       <tr><td>AbyssalStorm
-        </td><td>是
-        </td><td>否
+        </td><td>:heavy_check_mark:
+        </td><td>:x:
         </td><td>深渊风暴：不再豁免减半，不会杀死施法者</td></tr>
       <tr><td>AcidMaw
-        </td><td>是
-        </td><td>否
+        </td><td>:heavy_check_mark:
+        </td><td>:x:
         </td><td>酸液之啮：攻击时不再造成过多伤害实体</td></tr>
       <tr><td>AnimalGrowth
-        </td><td>是
-        </td><td>否
+        </td><td>:heavy_check_mark:
+        </td><td>:x:
         </td><td>动物异变：对动物同伴正确生效</td></tr>
       <tr><td>BelieveInYourself
-        </td><td>是
-        </td><td>否
+        </td><td>:heavy_check_mark:
+        </td><td>:x:
         </td><td>自信之心：修正奖励数值</td></tr>
       <tr><td>BestowCurseGreater
-        </td><td>是
-        </td><td>否
+        </td><td>:heavy_check_mark:
+        </td><td>:x:
         </td><td>高等降咒：修复效果为高级版</td></tr>
       <tr><td>BreakEnchantment
-        </td><td>是
-        </td><td>否
+        </td><td>:heavy_check_mark:
+        </td><td>:x:
         </td><td>破除魔咒：不再影响友军BUFF</td></tr>
       <tr><td>ChainLightning
-        </td><td>是
-        </td><td>否
+        </td><td>:heavy_check_mark:
+        </td><td>:x:
         </td><td>链状闪电：伤害骰上限为 20 CL</td></tr>
       <tr><td>Command
-        </td><td>是
-        </td><td>否
+        </td><td>:heavy_check_mark:
+        </td><td>:x:
         </td><td>命令术：修复缺失的描述，符合桌面规则</td></tr>
       <tr><td>CommandGreater
-        </td><td>是
-        </td><td>否
+        </td><td>:heavy_check_mark:
+        </td><td>:x:
         </td><td>高等命令术：修复缺失的描述，符合桌面规则</td></tr>
       <tr><td>ConeOfCold
-        </td><td>是
-        </td><td>否
+        </td><td>:heavy_check_mark:
+        </td><td>:x:
         </td><td>寒冰锥：加入巫师法术表</td></tr>
       <tr><td>CorruptMagic
-        </td><td>是
-        </td><td>否
+        </td><td>:heavy_check_mark:
+        </td><td>:x:
         </td><td>腐化魔法：如同其他驱散，使用单个驱散掷骰</td></tr>
       <tr><td>CrusadersEdge
-        </td><td>是
-        </td><td>否
+        </td><td>:heavy_check_mark:
+        </td><td>:x:
         </td><td>圣战之刃：只有重击才能触发反胃</td></tr>
       <tr><td>DeathWard
-        </td><td>是
-        </td><td>否
+        </td><td>:heavy_check_mark:
+        </td><td>:x:
         </td><td>防死结界：压制已经存在的效果</td></tr>
       <tr><td>DispelMagicGreater
-        </td><td>是
-        </td><td>否
+        </td><td>:heavy_check_mark:
+        </td><td>:x:
         </td><td>高等解除魔法：最多只会驱散 1/4 CL个BUFF</td></tr>
       <tr><td>EyeOfTheSun
-        </td><td>是
-        </td><td>否
+        </td><td>:heavy_check_mark:
+        </td><td>:x:
         </td><td>烈阳之眼：修正伤害</td></tr>
       <tr><td>Firebrand
-        </td><td>是
-        </td><td>否
+        </td><td>:heavy_check_mark:
+        </td><td>:x:
         </td><td>火焰烙印：攻击时不再造成过多伤害实例</td></tr>
       <tr><td>SunMarked
-        </td><td>是
-        </td><td>否
+        </td><td>:heavy_check_mark:
+        </td><td>:x:
         </td><td>太阳印记：攻击时不再造成过多伤害实例</td></tr>
       <tr><td>FieldOfFlowers
-        </td><td>是
-        </td><td>否
+        </td><td>:heavy_check_mark:
+        </td><td>:x:
         </td><td>繁花原野：修复正确BUFF</td></tr>
       <tr><td>FixSpellFlags
-        </td><td>是
-        </td><td>否
+        </td><td>:heavy_check_mark:
+        </td><td>:x:
         </td><td>将来自法术的BUFF正确标记，确保能被正确驱散</td></tr>
       <tr><td>FlameStrike
-        </td><td>是
-        </td><td>否
+        </td><td>:heavy_check_mark:
+        </td><td>:x:
         </td><td>炽焰击：正确豁免减半</td></tr>
       <tr><td>FriendlyHug
-        </td><td>是
-        </td><td>否
+        </td><td>:heavy_check_mark:
+        </td><td>:x:
         </td><td>友善之拥：修复免疫效果</td></tr>
       <tr><td>FrightfulAspect
-        </td><td>是
-        </td><td>否
+        </td><td>:heavy_check_mark:
+        </td><td>:x:
         </td><td>可怖外表：正确应用恐惧</td></tr>
       <tr><td>Geniekind
-        </td><td>是
-        </td><td>否
+        </td><td>:heavy_check_mark:
+        </td><td>:x:
         </td><td>巨灵化身：攻击时不再造成过多伤害实例</td></tr>
       <tr><td>GreaterMagicWeapon
-        </td><td>是
-        </td><td>否
+        </td><td>:heavy_check_mark:
+        </td><td>:x:
         </td><td>高等魔化武器：不再和已有附魔叠加</td></tr>
       <tr><td>HellfireRay
-        </td><td>是
-        </td><td>否
+        </td><td>:heavy_check_mark:
+        </td><td>:x:
         </td><td>地狱烈焰射线：不再有火焰描述，修复正确的半伤</td></tr>
       <tr><td>JoyOfLife
-        </td><td>是
-        </td><td>否
+        </td><td>:heavy_check_mark:
+        </td><td>:x:
         </td><td>生命欢愉：正确转换神圣伤害</td></tr>
       <tr><td>LegendaryProportions
-        </td><td>是
-        </td><td>否
+        </td><td>:heavy_check_mark:
+        </td><td>:x:
         </td><td>伟岸雄姿：只增加1级体型，符合桌面规则</td></tr>
       <tr><td>MagicalVestment
-        </td><td>是
-        </td><td>否
+        </td><td>:heavy_check_mark:
+        </td><td>:x:
         </td><td>魔化防具：实际增强护甲而不是获取modifier.</td></tr>
       <tr><td>MicroscopicProportions
-        </td><td>是
-        </td><td>否
+        </td><td>:heavy_check_mark:
+        </td><td>:x:
         </td><td>微缩雄姿：获得体型加值，不再是其他</td></tr>
       <tr><td>NaturesGrasp
-        </td><td>是
-        </td><td>否
+        </td><td>:heavy_check_mark:
+        </td><td>:x:
         </td><td>自然桎梏：修正伤害</td></tr>
       <tr><td>OdeToMiraculousMagic
-        </td><td>是
-        </td><td>否
+        </td><td>:heavy_check_mark:
+        </td><td>:x:
         </td><td>奇迹颂诗：正确按照CL决定持续时间</td></tr>
       <tr><td>PerfectForm
-        </td><td>是
-        </td><td>否
+        </td><td>:heavy_check_mark:
+        </td><td>:x:
         </td><td>完美形态：不再能叠加多次获取多重奖励</td></tr>
       <tr><td>PowerFromDeath
-        </td><td>是
-        </td><td>否
+        </td><td>:heavy_check_mark:
+        </td><td>:x:
         </td><td>死亡之力：修正持续时间为论级</td></tr>
       <tr><td>ProtectionOfNature
-        </td><td>是
-        </td><td>否
+        </td><td>:heavy_check_mark:
+        </td><td>:x:
         </td><td>自然庇护：掩蔽不再受到真视影响.</td></tr>
       <tr><td>RemoveFear
-        </td><td>是
-        </td><td>否
+        </td><td>:heavy_check_mark:
+        </td><td>:x:
         </td><td>移除恐惧：不再免疫颤栗和恐惧效果</td></tr>
       <tr><td>RemoveSickness
-        </td><td>是
-        </td><td>否
+        </td><td>:heavy_check_mark:
+        </td><td>:x:
         </td><td>移除恶心：不再免疫不适和反胃效果</td></tr>
       <tr><td>RepulsiveNature
-        </td><td>是
-        </td><td>否
+        </td><td>:heavy_check_mark:
+        </td><td>:x:
         </td><td>烦扰植被：使用正确的法术DC并修复应用DEBUFF</td></tr>
       <tr><td>ShadowConjuration
-        </td><td>是
-        </td><td>否
+        </td><td>:heavy_check_mark:
+        </td><td>:x:
         </td><td>阴影咒法：加入法师法术表</td></tr>
       <tr><td>ShadowEvocation
-        </td><td>是
-        </td><td>否
+        </td><td>:heavy_check_mark:
+        </td><td>:x:
         </td><td>阴影塑能：正确应用超魔</td></tr>
       <tr><td>ShadowEvocationGreater
-        </td><td>是
-        </td><td>否
+        </td><td>:heavy_check_mark:
+        </td><td>:x:
         </td><td>高等阴影塑能：正确应用超魔，修复阴影真实度</td></tr>
       <tr><td>SongsOfSteel
-        </td><td>是
-        </td><td>否
+        </td><td>:heavy_check_mark:
+        </td><td>:x:
         </td><td>钢铁之歌：修复奖励武器伤害</td></tr>
       <tr><td>Starlight
-        </td><td>是
-        </td><td>否
+        </td><td>:heavy_check_mark:
+        </td><td>:x:
         </td><td>星光：不再受真视影响</td></tr>
       <tr><td>SuddenSquall
-        </td><td>是
-        </td><td>否
+        </td><td>:heavy_check_mark:
+        </td><td>:x:
         </td><td>狂风突现：可选目标，拥有DEBUFF效果</td></tr>
       <tr><td>SunForm
-        </td><td>是
-        </td><td>否
+        </td><td>:heavy_check_mark:
+        </td><td>:x:
         </td><td>太阳形态：修正伤害</td></tr>
       <tr><td>Supernova
-        </td><td>是
-        </td><td>否
+        </td><td>:heavy_check_mark:
+        </td><td>:x:
         </td><td>超新星：修复致盲豁免，修正伤害</td></tr>
       <tr><td>UnbreakableBond
-        </td><td>是
-        </td><td>否
+        </td><td>:heavy_check_mark:
+        </td><td>:x:
         </td><td>友善之拥：正确应用免疫效果</td></tr>
       <tr><td>UnbreakableHeart
-        </td><td>是
-        </td><td>否
+        </td><td>:heavy_check_mark:
+        </td><td>:x:
         </td><td>绝不动摇：不再完全免疫对应效果，改为压制</td></tr>
       <tr><td>WaterPush
-        </td><td>是
-        </td><td>否
+        </td><td>:heavy_check_mark:
+        </td><td>:x:
         </td><td>水流击退：可选目标，修复伤害和推动距离</td></tr>
       <tr><td>WaterTorrent
-        </td><td>是
-        </td><td>否
+        </td><td>:heavy_check_mark:
+        </td><td>:x:
         </td><td>洁净激流：可选目标，拥有DEBUFF效果</td></tr>
       <tr><td>WindsOfFall
-        </td><td>是
-        </td><td>否
+        </td><td>:heavy_check_mark:
+        </td><td>:x:
         </td><td>秋风扫叶：可选目标，拥有DEBUFF效果</td></tr>
       <tr><td>WrackingRay
-        </td><td>是
-        </td><td>否
+        </td><td>:heavy_check_mark:
+        </td><td>:x:
         </td><td>剧痛射线：修复伤害数值</td></tr>
       <tr><td>VampiricBlade
-        </td><td>是
-        </td><td>否
+        </td><td>:heavy_check_mark:
+        </td><td>:x:
         </td><td>吸血鬼之刃：不再造成过多伤害实体.</td></tr>
       <tr><td>ZeroState
-        </td><td>是
-        </td><td>否
+        </td><td>:heavy_check_mark:
+        </td><td>:x:
         </td><td>归零：使用单个骰子决定所有驱散效果</td></tr>
   <tr><td rowspan="4">职业特性</td>
         <td>AnimalCompanions - AnimalCompanionProgression
         </td><td> 否
-        </td><td>否
+        </td><td>:x:
         </td><td>修正动物同伴成长匹配桌面数据</td></tr>
      <tr><td>Bloodlines - BloodlineRestrictions
-        </td><td>是
-        </td><td>否
+        </td><td>:heavy_check_mark:
+        </td><td>:x:
         </td><td>修正血承限制正确和龙脉术士等互动</td></tr>
      <tr><td>Features - IncorporealCharm
-        </td><td>是
-        </td><td>否
+        </td><td>:heavy_check_mark:
+        </td><td>:x:
         </td><td>虚化风姿：正确反映魅力的变化</td></tr>
       <tr><td>MongrolsBlessing
-        </td><td>是
-        </td><td>否
+        </td><td>:heavy_check_mark:
+        </td><td>:x:
         </td><td>混种人的祝福：正确应用负向等级</td></tr>
   <tr><td rowspan="28">专长<br>Feats</td>
       <td>AlliedSpellcaster
-        </td><td>是
-        </td><td>否
+        </td><td>:heavy_check_mark:
+        </td><td>:x:
         </td><td>结盟施法者：不再全局生效（测试发现也不会多次叠加）</td></tr>
       <tr><td>ArcaneStrike
-        </td><td>是
-        </td><td>否
+        </td><td>:heavy_check_mark:
+        </td><td>:x:
         </td><td>奥术打击：防止龙族奥术打击造成过多伤害实例</td></tr>
       <tr><td>BolsteredMetamagic
-        </td><td>是
-        </td><td>否
+        </td><td>:heavy_check_mark:
+        </td><td>:x:
         </td><td>超魔 - 增效：可用于黏液之触</td></tr>
       <tr><td>BrewPotions
-        </td><td>是
-        </td><td>否
+        </td><td>:heavy_check_mark:
+        </td><td>:x:
         </td><td>调制药水：不再被视为战斗专长</td></tr>
       <tr><td>Cleave
-        </td><td>是
-        </td><td>否
+        </td><td>:heavy_check_mark:
+        </td><td>:x:
         </td><td>顺势斩：正确检查临接目标而不是任意触及目标，对终誓斩同理</td></tr>
       <tr><td>CraneWing
-        </td><td>是
-        </td><td>否
+        </td><td>:heavy_check_mark:
+        </td><td>:x:
         </td><td>白鹤亮翅：需要空出一只手才有效</td></tr>
       <tr><td>DestructiveDispel
-        </td><td>是
-        </td><td>是
+        </td><td>:heavy_check_mark:
+        </td><td>:heavy_check_mark:
         </td><td>暴力解法：现在使用驱散的有效CL和最高精神属性来计算DC，公式为 10 + 1/2 CL + 最高精神属性</td></tr>
       <tr><td>DestructiveDispelPrerequisites
-        </td><td>是
-        </td><td>否
+        </td><td>:heavy_check_mark:
+        </td><td>:x:
         </td><td>暴力解法：修改先决条件符合桌面规则</td></tr>
       <tr><td>DispelSynergy
-        </td><td>是
-        </td><td>否
+        </td><td>:heavy_check_mark:
+        </td><td>:x:
         </td><td>解法余波：修改先决条件符合桌面规则</td></tr>
       <tr><td>EmpowerMetamagic
-        </td><td>是
-        </td><td>否
+        </td><td>:heavy_check_mark:
+        </td><td>:x:
         </td><td>超魔 - 强效：可用于黏液之触</td></tr>
       <tr><td>Endurance
-        </td><td>是
-        </td><td>是
+        </td><td>:heavy_check_mark:
+        </td><td>:heavy_check_mark:
         </td><td>坚韧：如同同类专长在运动10级后获得额外加值</td></tr>
       <tr><td>FencingGrace
-        </td><td>是
-        </td><td>否
+        </td><td>:heavy_check_mark:
+        </td><td>:x:
         </td><td>优雅刺击：永远只对单手武器生效</td></tr>
       <tr><td>Lunge
-        </td><td>是
-        </td><td>否
+        </td><td>:heavy_check_mark:
+        </td><td>:x:
         </td><td><s>突刺专长</s>原版已有</td></tr>
       <tr><td>IndomitableMount
-        </td><td>是
-        </td><td>否
+        </td><td>:heavy_check_mark:
+        </td><td>:x:
         </td><td>不屈坐骑：正确生效</td></tr>
       <tr><td>MagicalTail
-        </td><td>是
-        </td><td>是
+        </td><td>:heavy_check_mark:
+        </td><td>:heavy_check_mark:
         </td><td>魔性之尾：改变给予法术为狂笑和英雄气概</td></tr>
       <tr><td>MaximizeMetamagic
-        </td><td>是
-        </td><td>否
+        </td><td>:heavy_check_mark:
+        </td><td>:x:
         </td><td>超魔 - 极效：可用于黏液之触</td></tr>
       <tr><td>MountedCombat
-        </td><td>是
-        </td><td>否
+        </td><td>:heavy_check_mark:
+        </td><td>:x:
         </td><td>骑乘战斗：正确生效</td></tr>
       <tr><td>Outflank
-        </td><td>是
-        </td><td>否
+        </td><td>:heavy_check_mark:
+        </td><td>:x:
         </td><td>包抄：攻击丢失不再触发</td></tr>
       <tr><td>PersistantMetamagic
-        </td><td>是
-        </td><td>否
+        </td><td>:heavy_check_mark:
+        </td><td>:x:
         </td><td>超魔 - 顽强：所有有豁免骰的法术均可用</td></tr>
       <tr><td>SelectiveMetamagic
-        </td><td>是
-        </td><td>否
+        </td><td>:heavy_check_mark:
+        </td><td>:x:
         </td><td>超魔 - 甄选：不能用于非立即生效法术</td></tr>
       <tr><td>SelectivePrerequisites
-        </td><td>是
-        </td><td>否
+        </td><td>:heavy_check_mark:
+        </td><td>:x:
         </td><td>超魔 - 甄选：需要10级知识（神秘）作为前置条件</td></tr>
       <tr><td>ShatterDefenses
-        </td><td>是
-        </td><td>否
+        </td><td>:heavy_check_mark:
+        </td><td>:x:
         </td><td>粉碎防御：需要击中后才会生效</td></tr>
       <tr><td>SiezeTheMoment
-        </td><td>是
-        </td><td>否
+        </td><td>:heavy_check_mark:
+        </td><td>:x:
         </td><td>抓准时机：攻击丢失不再触发</td></tr>
       <tr><td>SlashingGrace
-        </td><td>是
-        </td><td>否
+        </td><td>:heavy_check_mark:
+        </td><td>:x:
         </td><td>优雅挥砍：永远只对单手武器生效</td></tr>
       <tr><td>SpellSpecialization
-        </td><td>是
-        </td><td>否
+        </td><td>:heavy_check_mark:
+        </td><td>:x:
         </td><td>法术专精：任意职业可选</td></tr>
       <tr><td>SpiritedCharge
-        </td><td>是
-        </td><td>否
+        </td><td>:heavy_check_mark:
+        </td><td>:x:
         </td><td>奋力冲刺：额外伤害不再重击</td></tr>
       <tr><td>VitalStrike
-        </td><td>是
-        </td><td>否
+        </td><td>:heavy_check_mark:
+        </td><td>:x:
         </td><td>要害打击：额外伤害不再重击</td></tr>
       <tr><td>WeaponFinesse
-        </td><td>是
-        </td><td>否
+        </td><td>:heavy_check_mark:
+        </td><td>:x:
         </td><td>武器娴熟：不再把拥有灵巧/优雅的武器都视为娴熟武器</td></tr>
   <tr><td rowspan="8">神话能力<br>MythicAbilities</td>
       <td>AscendantElement
-        </td><td>是
-        </td><td>否
+        </td><td>:heavy_check_mark:
+        </td><td>:x:
         </td><td>颠覆元素：现在可以正确无视免疫</td></tr>
       <tr><td>BloodlineAscendance
-        </td><td>是
-        </td><td>否
+        </td><td>:heavy_check_mark:
+        </td><td>:x:
         </td><td>巅峰血承：可以选择所有血承</td></tr>
       <tr><td>CloseToTheAbyss
-        </td><td>是
-        </td><td>否
+        </td><td>:heavy_check_mark:
+        </td><td>:x:
         </td><td>深渊陷堕：修正伤害系数</td></tr>
       <tr><td>EnduringSpells
-        </td><td>是
-        </td><td>否
+        </td><td>:heavy_check_mark:
+        </td><td>:x:
         </td><td>持久法术：对圣战之刃这类装备增强效果正确生效</td></tr>
       <tr><td>ExposeVulnerability
-        </td><td>是
-        </td><td>否
+        </td><td>:heavy_check_mark:
+        </td><td>:x:
         </td><td>揭示弱点：不再能重击和触发武器效果</td></tr>
       <tr><td>MythicCharge
-        </td><td>是
-        </td><td>否
+        </td><td>:heavy_check_mark:
+        </td><td>:x:
         </td><td>神话冲锋：防止触发多次伪攻击并触发武器效果</td></tr>
       <tr><td>SecondBloodline
-        </td><td>是
-        </td><td>否
+        </td><td>:heavy_check_mark:
+        </td><td>:x:
         </td><td>第二血承：可以选择所有血承</td></tr>
       <tr><td>SecondBloodragerBloodline
-        </td><td>是
-        </td><td>否
+        </td><td>:heavy_check_mark:
+        </td><td>:x:
         </td><td>第二血怒血承：自新魔士可选</td></tr>
   <tr><td rowspan="3">神话专长<br>MythicFeats</td>
       <td>ExpandedArsenal
-        </td><td>是
-        </td><td>否
+        </td><td>:heavy_check_mark:
+        </td><td>:x:
         </td><td>扩充战法：不再能从多个其他学派获得DC和CL</td></tr>
       <tr><td>ExtraFeat
-        </td><td>是
-        </td><td>否
+        </td><td>:heavy_check_mark:
+        </td><td>:x:
         </td><td>额外专长：只能选择一次</td></tr>
       <tr><td>ExtraMythicAbility
-        </td><td>是
-        </td><td>否
+        </td><td>:heavy_check_mark:
+        </td><td>:x:
         </td><td>额外神话能力：只能选择一次</td></tr>
     <tr><td rowspan="3">BOSS和敌人修复<br>Bosses/Enemies</td>
           <td>Deskari
-          </td><td>是
-          </td><td>否
+          </td><td>:heavy_check_mark:
+          </td><td>:x:
           </td><td>德斯卡瑞：完善UI描述</td></tr>
         <tr><td>StauntonVane
-          </td><td>是
-          </td><td>否
+          </td><td>:heavy_check_mark:
+          </td><td>:x:
           </td><td>斯陶顿·卫恒拥有正确专长</td></tr>
         <tr><td>Balors
-          </td><td>是
-          </td><td>否
+          </td><td>:heavy_check_mark:
+          </td><td>:x:
           </td><td>霸烙魔：修复斩首武器</td></tr>
   <tr><td>圣教军模式<br>Crusade</td>
     <td>Buildings - TrainingGrounds
-          </td><td>是
-          </td><td>否
+          </td><td>:heavy_check_mark:
+          </td><td>:x:
           </td><td>训练场：修正伤害奖励</td></tr>
   <tr><td rowspan="24">物品<br>Items</td>
          <td>Armor - Haramaki
-          </td><td>是
-          </td><td>否
+          </td><td>:heavy_check_mark:
+          </td><td>:x:
           </td><td>盔甲 - 腹卷：正确视为轻型护甲（原版视为无甲）</td></tr>
         <tr><td>Armor - SingingSteel
-          </td><td>是
-          </td><td>否
+          </td><td>:heavy_check_mark:
+          </td><td>:x:
           </td><td>盔甲 - 歌唱钢：正确生效</td></tr>
         <tr><td>Equipment - AmuletOfQuickDraw
-          </td><td>是
-          </td><td>否
+          </td><td>:heavy_check_mark:
+          </td><td>:x:
           </td><td>快速应敌护符：不再造成单独伤害实例</td></tr>
         <tr><td>Equipment - AspectOfTheAsp
-          </td><td>是
-          </td><td>否
+          </td><td>:heavy_check_mark:
+          </td><td>:x:
           </td><td>蛇相：修复生效 </td></tr>
         <tr><td>Equipment - BaneOfSpirit
-          </td><td>是
-          </td><td>否
+          </td><td>:heavy_check_mark:
+          </td><td>:x:
           </td><td>灵魂之灾：使用为自由动作</td></tr>
         <tr><td>Equipment - FixScrollUMDDCs
-          </td><td>是
-          </td><td>否
+          </td><td>:heavy_check_mark:
+          </td><td>:x:
           </td><td>使用魔法卷轴DC：现在等级正确改为 20 + 卷轴 CL </td></tr>
         <tr><td>Equipment - FlawlessBeltOfPhysicalPerfection8Availability
-          </td><td>否
-          </td><td>否
+          </td><td>:x:
+          </td><td>:x:
           </td><td><s>无瑕+8极致体能腰带</s>原版已修复</td></tr>
         <tr><td>Equipment - FlawlessBeltOfPhysicalPerfection8CritIncrease
-          </td><td>是
-          </td><td>否
+          </td><td>:heavy_check_mark:
+          </td><td>:x:
           </td><td>无瑕+8极致体能腰带：重击范围增加修复 </td></tr>
         <tr><td>Equipment - HalfOfThePair
-          </td><td>是
-          </td><td>否
+          </td><td>:heavy_check_mark:
+          </td><td>:x:
           </td><td>出双入对：效果生效判定优化</td></tr>
         <tr><td>Equipment - HolySymbolofIomedae
-          </td><td>是
-          </td><td>否
+          </td><td>:heavy_check_mark:
+          </td><td>:x:
           </td><td>艾奥梅黛神圣徽记：可以在存读档或切换区域时保留激活</td></tr>
         <tr><td>Equipment - MagiciansRing
-          </td><td>是
-          </td><td>否
+          </td><td>:heavy_check_mark:
+          </td><td>:x:
           </td><td>魔术师的戒指：现为 +2 DC</td></tr>
         <tr><td>Equipment - ManglingFrenzy
-          </td><td>是
-          </td><td>否
+          </td><td>:heavy_check_mark:
+          </td><td>:x:
           </td><td>凌虐狂怒：对血承狂暴也有效果</td></tr>
         <tr><td>Equipment - MetamagicRods
-          </td><td>是
-          </td><td>否
+          </td><td>:heavy_check_mark:
+          </td><td>:x:
           </td><td>物品 - 超魔权杖（默认关闭）</td></tr>
         <tr><td>Equipment - StormlordsResolve
-          </td><td>是
-          </td><td>否
+          </td><td>:heavy_check_mark:
+          </td><td>:x:
           </td><td>风暴领主的决意：现在可以立即关闭而不需等待1轮</td></tr>
         <tr><td>Weapons - BladeOfTheMerciful
-          </td><td>是
-          </td><td>否
+          </td><td>:heavy_check_mark:
+          </td><td>:x:
           </td><td>慈悲之刃：防止多次触发伪攻击并过多触发武器特效</td></tr>
         <tr><td>Weapons - EnergyBurst
-          </td><td>是
-          </td><td>否
+          </td><td>:heavy_check_mark:
+          </td><td>:x:
           </td><td>元素附魔：修复各类元素爆附魔（焰爆）伤害计算</td></tr>
         <tr><td>Weapons - Finnean
-          </td><td>是
-          </td><td>否
+          </td><td>:heavy_check_mark:
+          </td><td>:x:
           </td><td>菲尼安：防止多次触发伪攻击并过多触发武器特效</td></tr>
         <tr><td>Weapons - HonorableJudgement
-          </td><td>是
-          </td><td>否
+          </td><td>:heavy_check_mark:
+          </td><td>:x:
           </td><td>高尚裁决：防止多次触发伪攻击并过多触发武器特效</td></tr>
         <tr><td>Weapons - MusicOfDeath
-          </td><td>是
-          </td><td>否
+          </td><td>:heavy_check_mark:
+          </td><td>:x:
           </td><td>死亡之音：修复效果</td></tr>
         <tr><td>Weapons - Radiance
-          </td><td>是
-          </td><td>否
+          </td><td>:heavy_check_mark:
+          </td><td>:x:
           </td><td>辉光：正确获得法术抗力</td></tr>
         <tr><td>Weapons - SoundOfTheVoid
-          </td><td>是
-          </td><td>否
+          </td><td>:heavy_check_mark:
+          </td><td>:x:
           </td><td>虚空之声：修复效果</td></tr>
         <tr><td>Weapons - TerrifyingTremble
-          </td><td>是
-          </td><td>否
+          </td><td>:heavy_check_mark:
+          </td><td>:x:
           </td><td>惧颤：修复效果</td></tr>
         <tr><td>Weapons - ThunderingBurst
-          </td><td>是
-          </td><td>否
+          </td><td>:heavy_check_mark:
+          </td><td>:x:
           </td><td>武器附魔 - 鸣爆：修复伤害</td></tr>
         <tr><td>Weapons - Vorpal
-          </td><td>是
-          </td><td>否
+          </td><td>:heavy_check_mark:
+          </td><td>:x:
           </td><td>武器附魔 - 斩首：正确生效</td></tr>
 </table>
 
