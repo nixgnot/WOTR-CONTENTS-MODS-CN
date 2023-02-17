@@ -1580,43 +1580,57 @@
   + AC：修改部分物品和机制，**队友入队等级变为1**
   + ACTestingGrounds：将部分队友变为原创职业、规则书职业或变体，未汉化 
  <table>
- <tr><th colspan="2">新增内容列表<br>详细介绍可以参阅汉化发布贴或游戏内说明</th></tr> 
-   <tr><td rowspan="2">职业</td>
+ <tr><th colspan="3">新增内容列表<br>详细介绍可以参阅汉化发布贴或游戏内说明</th></tr> 
+   <tr><td colspan="2" rowspan="2">职业</td>
        <td>Investigator 调查员及变体：Jinyiwei 锦衣卫、Questioner 发问者、Empiricist 演绎家</td></tr>
   <tr><td>NPC职业：5个NPC用职业，基本白板</td></tr>
-  <tr><td rowspan="26">变体</td>
-         <td>Blood Arcanist 奥能师 - 血奥师</td></tr>
-  <tr><td>School Savant 奥能师 - 学派家</td></tr>
-  <tr><td>Hateful Rager 野蛮人 - 恨意狂暴者</td></tr>
-  <tr><td>Primal Hunter 野蛮人 - 原始猎手(暂未汉化)</td></tr>
-  <tr><td>Arcane Duelist 吟游诗人 - 奥术决斗者</td></tr>
-  <tr><td>Dervish of Dawn 吟游诗人 - 晨花狂舞者</td></tr>
-  <tr><td>Stonesinger 吟游诗人 - 石之歌者</td></tr>
-  <tr><td>Untouchable Rager 血怒者 - 抗咒狂怒者</td></tr>
-  <tr><td>Bloody-Knuckled Rowdy 血怒者 - 血暴铁拳</td></tr>
-  <tr><td>Green Knight 骑将 - 苍翠骑士</td></tr>
-  <tr><td>Evangelist 牧师 - 宣教士</td></tr>
-  <tr><td>Undead Lord 牧师 - 尸骸领主</td></tr>
-  <tr><td>Elder Mythos Cultist 牧师 - 旧神密教徒</td></tr>
-  <tr><td>Halcyon Druid 德鲁伊 - 宁静德鲁伊</td></tr>
-  <tr><td>Viking 战士 - 维京人</td></tr>
-  <tr><td>Hellcat 武僧 - 地狱猫</td></tr>
-  <tr><td>Monk of the Mantis 武僧 - 螳螂僧(暂未汉化)</td></tr>
-  <tr><td>Oathbound - Oath of Vengeance 圣武士 - 复仇誓约圣武士</td></tr>
-  <tr><td>Oathbound - Oath of the People's Council 圣武士 - 人民民主誓约圣武士</td></tr>
-  <tr><td>Wilderness Warden 圣武士 - 荒野守望者</td></tr>
-  <tr><td>Holy Guide 圣武士 - 神圣向导</td></tr>
-  <tr><td>Faithful Wanderer 圣武士 - 虔信流浪者(暂未汉化)</td></tr>
-  <tr><td>Ancient Lorekeeper 先知 - 传古学者</td></tr>
-  <tr><td>Wild Stalker 游侠 - 野性潜猎者</td></tr>
-  <tr><td>Sword-Devil 游侠 - 剑魔</td></tr>
-  <tr><td>Sacred Fist 战斗祭司 - 神拳使</td></tr>
-  <tr><td>Undead Master 法师 - 死灵之主</td></tr>
-  <tr><td>Scarred Witch Doctor 巫师 - 疤痕巫医</td></tr>
-  <tr><td rowspan="2">进阶职业</td>
+  <tr><td rowspan="28">变体</td>
+    <td rowspan="2">奥能师</td>
+         <td>Blood Arcanist 血奥师</td></tr>
+         <tr><td>School Savant 学派家</td></tr>
+    <td rowspan="2">野蛮人</td>
+         <td>Hateful Rager 恨意狂暴者</td></tr>
+         <tr><td>Primal Hunter 原始猎手(<b>暂未汉化/<b>)</td></tr>
+    <td rowspan="3">吟游诗人</td>  
+         <td>Arcane Duelist 奥术决斗者</td></tr>
+         <tr><td>Dervish of Dawn 晨花狂舞者</td></tr>
+         <tr><td>Stonesinger 石之歌者</td></tr>
+    <td rowspan="2">血怒者</td>       
+         <td>Untouchable Rager 抗咒狂怒者</td></tr>
+         <tr><td>Bloody-Knuckled Rowdy 血暴铁拳</td></tr>
+    <td rowspan="1">骑将</td>      
+         <td>Green Knight 苍翠骑士</td></tr>
+    <td rowspan="3">牧师</td>          
+         <td>Evangelist 宣教士</td></tr>
+         <tr><td>Undead Lord 尸骸领主</td></tr>
+         <tr><td>Elder Mythos Cultist 旧神密教徒</td></tr>
+    <td rowspan="1">德鲁伊</td>      
+         <td>Halcyon Druid 宁静德鲁伊</td></tr>
+    <td rowspan="1">战士</td>      
+         <td>Viking 维京人</td></tr>
+    <td rowspan="2">武僧</td>      
+         <td>Hellcat 地狱猫</td></tr>
+         <tr><td>Monk of the Mantis 螳螂僧(<b>暂未汉化/<b>)</td></tr>
+    <td rowspan="5">圣武士</td>      
+         <td>Oathbound - Oath of Vengeance 圣武士 - 复仇誓约圣武士</td></tr>
+         <tr><td>Oathbound - Oath of the People's Council 圣武士 - 人民民主誓约圣武士</td></tr>
+         <tr><td>Wilderness Warden 圣武士 - 荒野守望者</td></tr>
+         <tr><td>Holy Guide 圣武士 - 神圣向导</td></tr>
+         <tr><td>Faithful Wanderer 圣武士 - 虔信流浪者(<b>暂未汉化/<b>)</td></tr>
+     <td rowspan="1">先知</td>       
+         <td>Ancient Lorekeeper 传古学者</td></tr>
+     <td rowspan="2">游侠</td>      
+         <td>Wild Stalker 野性潜猎者</td></tr>
+         <tr><td>Sword-Devil 剑魔</td></tr>
+     <td rowspan="1">战斗祭司</td>        
+         <tr><td>Sacred Fist 神拳使</td></tr>
+         <tr><td>Undead Master 法师 - 死灵之主</td></tr>
+     <td rowspan="1">巫师</td>      
+         <tr><td>Scarred Witch Doctor 疤痕巫医</td></tr>
+  <tr><td colspan="2" rowspan="2">进阶职业</td>
        <td>Razmiran Priest 拉兹密安牧师</td>
   <tr><td>Assassin 刺客</td></tr>
-  <tr><td rowspan="10">专长</td>
+  <tr><td colspan="2" rowspan="10">专长</td>
        <td>Adept Channel 导师导能：增加导能能力</td>
   <tr><td>Strike True 克敌机先：消耗移动动作增加AB</td></tr>
   <tr><td>Channel Smite 导能打击：迅捷动作附带导能伤害到攻击</td></tr>
@@ -1627,21 +1641,23 @@
   <tr><td>Blooded Arcane Strike 血术之击：狂暴时可以释放法术</td></tr>
   <tr><td>Fire Music 燃火之乐：法术伤害转为火焰伤害并强化召唤生物</td></tr>
   <tr><td>Discordant Voice 不谐之音：吟游诗人乐曲为盟友附加音波伤害</td></tr>
-  <tr><td>基础动作</td>
+  <tr><td colspan="2">基础动作</td>
          <td>Aid Another 援助他人：消耗动作为盟友附加AB或者AC</td></tr>
-  <tr><td>信仰</td>
+  <tr><td colspan="2">信仰</td>
          <td>克苏鲁系11个信仰</td></tr>
-  <tr><td>领域</td>
+  <tr><td colspan="2">领域</td>
          <td>Void 虚空领域：擅长旅行移动和召唤</td></tr>
   <tr><td rowspan="5">神话能力</td>
+    <td rowspan="2">本体</td>
        <td>Poison Vulnerability 透体之毒：解除敌人毒免</td>
   <tr><td>Sustained Vulnerability 毒入骨髓：延长透体之毒有效期</td></tr>
-  <tr><td><b>AC专属</b> - Abundant Casting(Homebrew) <b>连锁施法：一定次数唤回任意法术**</b></td></tr>
-  <tr><td><b>AC专属</b> - Empowered Bombs 增强炸弹：提高炼金炸弹伤害</td></tr>
-  <tr><td><b>AC专属</b> - Maximized Bombs 终极炸弹：炼金炸弹总是造成最大伤害</td></tr>
-  <tr><td rowspan="2">神话专长</td>
-       <td>Mythic Guided Hand 引导之手（神话）：引导之手后修，感知上伤害</td>
-  <tr><td>Mythic Crossbow Training 神话弩箭训练：弩获得敏上伤害</td></tr>
+    <tr><td rowspan="3"><b>AC专属</b></td>
+          <td>Abundant Casting(Homebrew) <b>连锁施法：一定次数唤回任意法术**</b></td></tr>
+      <tr><td>Empowered Bombs 增强炸弹：提高炼金炸弹伤害</td></tr>
+      <tr><td>Maximized Bombs 终极炸弹：炼金炸弹总是造成最大伤害</td></tr>
+  <tr><td colspan="2" rowspan="2">神话专长</td>
+          <td>Mythic Guided Hand 引导之手（神话）：引导之手后修，感知上伤害</td>
+      <tr><td>Mythic Crossbow Training 神话弩箭训练：弩获得敏上伤害</td></tr>
 </table>
 
 -------------------------------------------
