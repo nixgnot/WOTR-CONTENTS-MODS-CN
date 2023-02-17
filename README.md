@@ -1814,17 +1814,17 @@
   <tr><td colspan="2" rowspan="2">变体<br><i>参阅PF文档</i></td>
        <td>Arrowsong Minstrel 吟游诗人 - 箭歌咏者</td></tr> 
    <tr><td>Winter Witch 巫师 - 冬巫 <b>基础职业巫师变体，和进阶职业不同</b></td></tr> 
-   <tr><td rowspan="4">职业特性</td>
-       <td rowspan="2">原力</td></tr>
+   <tr><td rowspan="7">职业特性</td>
+       <td rowspan="2">原力</td>
            <td>Shimmering Mirage 微光幻影，获得隐蔽</td></tr>
            <tr><rd>Suffocate 窒息，窒息目标可导致昏迷</td></tr>
-       <tr><td rowspan="1">游荡者天赋</td></tr>
+       <tr><td rowspan="1">游荡者天赋</td>
            <td>Shadow Duplicate 影分身，被击中时可释放类似镜影</td></tr>
-       <tr><td rowspan="3">杀手绝技</td></tr>           
+       <tr><td rowspan="3">杀手绝技</td>
            <td>Armored Marauder 装甲强袭，擅长重甲并减少惩罚</td></tr>
-           <tr><rd>Armored Swiftness 迅捷甲士，重甲不影响速度并提高最大敏捷加值</td></tr>
-           <tr><rd>Slowing Strike 延缓打击，偷袭造成减速</td></tr>
-       <tr><td rowspan="1">巫术</td></tr>  
+           <tr><td>Armored Swiftness 迅捷甲士，重甲不影响速度并提高最大敏捷加值</td></tr>
+           <tr><td>Slowing Strike 延缓打击，偷袭造成减速</td></tr>
+       <tr><td rowspan="1">巫术</td>
            <td>Ice Tomb 冰冢，寒冷并麻痹</td></tr>
    <tr><td colspan="2" rowspan="11">专长<br><i>参阅PF文档</i></td>
        <td>Dazing Assault 晕眩强袭：AB换取敌人眩晕</td></tr> 
@@ -1938,7 +1938,7 @@ Metamagic Master 超魔主宰：同上<br>Fate’s Favored 命运眷顾：所有
     <td>:x:</td>
     <td>:heavy_check_mark:</td></tr>
 <tr><td>General.CreateOpportuneParry</td>
-    <td>c<b>新增战斗专长：</b>Opportune Parry 适时格挡：决斗家消耗借机攻击次数进行格挡</td>
+    <td><b>新增战斗专长：</b>Opportune Parry 适时格挡：决斗家消耗借机攻击次数进行格挡</td>
     <td>:heavy_check_mark:</td>
     <td>:heavy_check_mark:</td></tr>
 <tr><td>General.CreatePreferredSpell</td>
