@@ -1810,16 +1810,23 @@
 > *新增内容：* 大量，法术专长为主<br>
 + 大型MOD，增加很多新内容
 <table>  
- <tr><th colspan="2">新增内容列表<br></th></tr> 
-  <tr><td rowspan="2">变体<br><i>参阅PF文档</i></td>
+ <tr><th colspan="3">新增内容列表<br></th></tr> 
+  <tr><td colspan="2" rowspan="2">变体<br><i>参阅PF文档</i></td>
        <td>Arrowsong Minstrel 吟游诗人 - 箭歌咏者</td></tr> 
    <tr><td>Winter Witch 巫师 - 冬巫 <b>基础职业巫师变体，和进阶职业不同</b></td></tr> 
    <tr><td rowspan="4">职业特性</td>
-       <td>原力：<br>Shimmering Mirage 微光幻影，获得隐蔽<br>Suffocate 窒息，窒息目标可导致昏迷</td></tr>
-   <tr><td>游荡者天赋：Shadow Duplicate 影分身，被击中时可释放类似镜影</td></tr>
-   <tr><td>杀手绝技：<br>Armored Marauder 装甲强袭，擅长重甲并减少惩罚<br>Armored Swiftness 迅捷甲士，重甲不影响速度并提高最大敏捷加值<br>Slowing Strike 延缓打击，偷袭造成减速</td></tr>
-   <tr><td>巫术：Ice Tomb 冰冢，寒冷并麻痹</td></tr>
-   <tr><td rowspan="11">专长<br><i>参阅PF文档</i></td>
+       <td rowspan="2">原力</td></tr>
+           <td>Shimmering Mirage 微光幻影，获得隐蔽</td></tr>
+           <tr><rd>Suffocate 窒息，窒息目标可导致昏迷</td></tr>
+       <tr><td rowspan="1">游荡者天赋</td></tr>
+           <td>Shadow Duplicate 影分身，被击中时可释放类似镜影</td></tr>
+       <tr><td rowspan="3">杀手绝技</td></tr>           
+           <td>Armored Marauder 装甲强袭，擅长重甲并减少惩罚</td></tr>
+           <tr><rd>Armored Swiftness 迅捷甲士，重甲不影响速度并提高最大敏捷加值</td></tr>
+           <tr><rd>Slowing Strike 延缓打击，偷袭造成减速</td></tr>
+       <tr><td rowspan="1">巫术</td></tr>  
+           <td>Ice Tomb 冰冢，寒冷并麻痹</td></tr>
+   <tr><td colspan="2" rowspan="11">专长<br><i>参阅PF文档</i></td>
        <td>Dazing Assault 晕眩强袭：AB换取敌人眩晕</td></tr> 
    <tr><td>Divine Fighting Technique 神圣武器技法：包含11个神圣武器技法专长，限定信仰</td></tr>
    <tr><td>Eldritch Heritage 悠远血脉（另有进阶和高等）：获得额外血承能力</td></tr>
@@ -1831,7 +1838,7 @@
    <tr><td>Signature Skill 标志性技能：选择一项技能获得奖励，游荡者可自动获得</td></tr>
    <tr><td>Skald's Vigor 健硕之歌（另有高等）：维持战怒之歌给予快速医疗，高等在启动时对队友有效</td></tr>
    <tr><td>Energy Channel 引导元素：消耗引导能量使你的武器攻击获得额外元素伤害</td></tr>
-   <tr><td rowspan="39">法术<br><i>参阅PF文档</i></td>
+   <tr><td colspan="2" rowspan="39">法术<br><i>参阅PF文档</i></td>
        <td>Bladed Dash 飞刃袭：直线移动并对路径上敌人攻击</td></tr> 
    <tr><td>Burning Disarm 灼热缴械：使物品变热强迫敌人丢下</td></tr> 
    <tr><td>Consecrate 祝圣术：祝圣一片区域</td></tr> 
