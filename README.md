@@ -1588,45 +1588,45 @@
     <td rowspan="2">奥能师</td>
          <td>Blood Arcanist 血奥师</td></tr>
          <tr><td>School Savant 学派家</td></tr>
-    <td rowspan="2">野蛮人</td>
+    <tr><td rowspan="2">野蛮人</td>
          <td>Hateful Rager 恨意狂暴者</td></tr>
          <tr><td>Primal Hunter 原始猎手(<b>暂未汉化<b>)</td></tr>
-    <td rowspan="3">吟游诗人</td>  
+    <tr><td rowspan="3">吟游诗人</td>  
          <td>Arcane Duelist 奥术决斗者</td></tr>
          <tr><td>Dervish of Dawn 晨花狂舞者</td></tr>
          <tr><td>Stonesinger 石之歌者</td></tr>
-    <td rowspan="2">血怒者</td>       
+    <tr><td rowspan="2">血怒者</td>       
          <td>Untouchable Rager 抗咒狂怒者</td></tr>
          <tr><td>Bloody-Knuckled Rowdy 血暴铁拳</td></tr>
-    <td rowspan="1">骑将</td>      
+    <tr><td rowspan="1">骑将</td>      
          <td>Green Knight 苍翠骑士</td></tr>
-    <td rowspan="3">牧师</td>          
+    <tr><td rowspan="3">牧师</td>          
          <td>Evangelist 宣教士</td></tr>
          <tr><td>Undead Lord 尸骸领主</td></tr>
          <tr><td>Elder Mythos Cultist 旧神密教徒</td></tr>
-    <td rowspan="1">德鲁伊</td>      
+    <tr><td rowspan="1">德鲁伊</td>      
          <td>Halcyon Druid 宁静德鲁伊</td></tr>
-    <td rowspan="1">战士</td>      
+    <tr><td rowspan="1">战士</td>      
          <td>Viking 维京人</td></tr>
-    <td rowspan="2">武僧</td>      
+    <tr><td rowspan="2">武僧</td>      
          <td>Hellcat 地狱猫</td></tr>
          <tr><td>Monk of the Mantis 螳螂僧(<b>暂未汉化<b>)</td></tr>
-    <td rowspan="5">圣武士</td>      
+    <tr><td rowspan="5">圣武士</td>      
          <td>Oathbound - Oath of Vengeance 圣武士 - 复仇誓约圣武士</td></tr>
          <tr><td>Oathbound - Oath of the People's Council 圣武士 - 人民民主誓约圣武士</td></tr>
          <tr><td>Wilderness Warden 圣武士 - 荒野守望者</td></tr>
          <tr><td>Holy Guide 圣武士 - 神圣向导</td></tr>
          <tr><td>Faithful Wanderer 圣武士 - 虔信流浪者(<b>暂未汉化<b>)</td></tr>
-     <td rowspan="1">先知</td>       
+     <tr><td rowspan="1">先知</td>       
          <td>Ancient Lorekeeper 传古学者</td></tr>
-     <td rowspan="2">游侠</td>      
+     <tr><td rowspan="2">游侠</td>      
          <td>Wild Stalker 野性潜猎者</td></tr>
          <tr><td>Sword-Devil 剑魔</td></tr>
-     <td rowspan="1">战斗祭司</td>        
+     <tr><td rowspan="1">战斗祭司</td>        
          <td>Sacred Fist 神拳使</td></tr>
-     <td rowspan="1">法师</td>     
+     <tr><td rowspan="1">法师</td>     
          <td>Undead Master 死灵之主</td></tr>
-     <td rowspan="1">巫师</td>      
+     <tr><td rowspan="1">巫师</td>      
          <td>Scarred Witch Doctor 疤痕巫医</td></tr>
   <tr><td colspan="2" rowspan="2">进阶职业</td>
        <td>Razmiran Priest 拉兹密安牧师</td>
@@ -1670,42 +1670,57 @@
 > *新增内容：* 大量信仰、变体、专长等<br>
 + 大型MOD，增加很多新内容
  <table>
- <tr><th colspan="2">新增内容列表<br>详细介绍可以参阅汉化发布贴或游戏内说明</th></tr> 
-   <tr><td rowspan="2">职业</td>
-       <td>Oathbreaker 复仇暴徒及变体：Castigator 惩戒者</td></tr> 
-   <tr><td>DreadKnight 恐惧骑士及变体：Conqueror 征服者、Claw of the False Wyrm 虚龙之爪</td></tr> 
+ <tr><th colspan="3">新增内容列表<br>详细介绍可以参阅汉化发布贴或游戏内说明</th></tr> 
+   <tr><td rowspan="3">职业及变体</td>
+       <td>Oathbreaker 复仇暴徒</td>
+           <td>Castigator 惩戒者</td></tr> 
+   <tr><td rowspan="2">DreadKnight 恐惧骑士</td>
+           <td>Conqueror 征服者</td></tr> 
+           <tr><td>Claw of the False Wyrm 虚龙之爪</td></tr> 
    <tr><td rowspan="14">变体</td>
-       <td>Living Scripture 审判官 - 活圣经</td></tr> 
-   <tr><td>Mantis Zealot 战斗祭司 - 螳螂狂徒</td></tr> 
-   <tr><td>Mooncaller 德鲁伊 - 唤月者</td></tr> 
-   <tr><td>Draconic Druid 德鲁伊 - 龙之德鲁伊</td></tr> 
-   <tr><td>Storm Druid 德鲁伊 - 风暴德鲁伊</td></tr> 
-   <tr><td>Urban Druid 德鲁伊 - 文明德鲁伊</td></tr> 
-   <tr><td><s>Bear Shaman</s></td></tr> 
-   <tr><td>Temple Champion 圣骑士 - 圣殿冠军</td></tr> 
-   <tr><td>Silver Champion 圣骑士 - 银冠勇士</td></tr> 
-   <tr><td>Drake Warden 游侠 - 龙兽守望者</td></tr> 
-   <tr><td>Clutch Thief 游荡者 - 龙蛋小偷</td></tr> 
-   <tr><td>Ocean's Echo 先知 - 海洋回声</td></tr> 
-   <tr><td>Draconic Shaman 萨满 - 龙族萨满</td></tr> 
-   <tr><td>Draconic Scholar 奥能师 - 龙之学者</td></tr> 
+       <td rowspan="1">审判官</td>
+           <td>Living Scripture 活圣经</td></tr> 
+       <tr><td rowspan="1">战斗祭司</td>
+           <td>螳螂狂徒</td></tr> 
+       <tr><td rowspan="5">德鲁伊</td>
+           <td>Mooncaller 唤月者</td></tr> 
+           <tr><td>Draconic Druid 龙之德鲁伊</td></tr> 
+           <tr><td>Storm Druid 风暴德鲁伊</td></tr> 
+           <tr><td>Urban Druid 文明德鲁伊</td></tr> 
+           <tr><td><s>Bear Shaman</s></td></tr> 
+       <tr><td rowspan="2">圣骑士</td>
+           <tr><td>Temple Champion 圣殿冠军</td></tr> 
+           <tr><td>Silver Champion 银冠勇士</td></tr> 
+       <tr><td rowspan="1">游侠</td>
+           <tr><td>Drake Warden 龙兽守望者</td></tr> 
+       <tr><td rowspan="1">游荡者</td>
+           <tr><td>Clutch Thief 龙蛋小偷</td></tr> 
+       <tr><td rowspan="1">先知</td>
+           <tr><td>Ocean's Echo 海洋回声</td></tr>
+       <tr><td rowspan="1">萨满</td>
+           <tr><td>Draconic Shaman 龙族萨满</td></tr> 
+       <tr><td rowspan="1">奥能师</td>
+           <tr><td>Draconic Scholar 龙之学者</td></tr> 
    <tr><td rowspan="2">职业特性</td>
-       <td>先知秘示域：Dragon 龙、Heavens 天堂、Succor 救助</td></tr>
-   <tr><td>先知诅咒：Vampirism 吸血鬼</td></tr>
-   <tr><td>基础动作</td>
+       <td>先知秘示域</td>
+       <td>Dragon 龙、Heavens 天堂、Succor 救助</td></tr>
+   <tr><td>先知诅咒</td>
+       <td>Vampirism 吸血鬼</td></tr>
+   <tr><td colspan="2">基础动作</td>
        <td>Aid Another 援助他人</td></tr>
-   <tr><td>专长</td>
+   <tr><td colspan="2">专长</td>
        <td>Swift Aid 迅速援助</td></tr>
-   <tr><td rowspan="2">神话能力</td>
+   <tr><td colspan="2" rowspan="2">神话能力</td>
        <td>Mythic Drake 神话龙兽</td>
    <tr><td>Impossible Subdomain 无限子域可能</td></tr>
-   <tr><td>信仰</td>
-       <td><b>海量新信仰</b></td></tr>
+   <tr><td rowspan="3">信仰</td>
+       <td>神祗</td>
+       <td><b>海量新神祗</b></td></tr>
    <tr><td>领域</td>
        <td>Scalykind 鳞状</td></tr>
    <tr><td>子领域</td>
        <td>Agathion 阿加西翁、 Archon 亚空, Blood 血液、Caves 洞穴、Curse 诅咒、 Demon, Dragon 龙、Ferocity 凶猛、Ice 冰、Lust 欲望、Psychopomp 招魂、Rage 狂暴、 Resolve 决心、Restoration 恢复、Revelation 启示、Revolution 革命、Rivers 河流、Stars 星空、Storm 风暴、Thievery 盗窃、Undead 不死、Whimsy 滑稽、Wind 风</td></tr>
-   <tr><td rowspan="25">法术<br><i>参阅PF文档</i></td>
+   <tr><td colspan="2" rowspan="25">法术<br><i>参阅PF文档</i></td>
        <td>Hydraulic push 水流冲击</td></tr>
    <tr><td>Slipstream 滑流</td></tr>
    <tr><td>Scourge of the Horsemen 天启诸骑的蹂躏</td></tr>
