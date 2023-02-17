@@ -463,7 +463,7 @@
         <tr><td>Base - SmiteAttackBonus
           </td><td>:heavy_check_mark:
           </td><td>:x:
-          </td><td>辟邪斩攻击加值不能再和类似能力（辟邪斩、正义烙印）等叠加</td></tr>
+          </td><td>辟邪斩攻击加值不能再和类似能力（辟乱斩、正义烙印）等叠加</td></tr>
    <tr><td rowspan="2">游侠<br>Ranger</td>
         <td>Base - FavoredEnemy</td>
           </td><td>:heavy_check_mark:
