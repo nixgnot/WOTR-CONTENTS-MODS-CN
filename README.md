@@ -1588,6 +1588,7 @@
          <td>Blood Arcanist 奥能师 - 血奥师</td></tr>
   <tr><td>School Savant 奥能师 - 学派家</td></tr>
   <tr><td>Hateful Rager 野蛮人 - 恨意狂暴者</td></tr>
+  <tr><td>Primal Hunter 野蛮人 - 原始猎手(暂未汉化)</td></tr>
   <tr><td>Arcane Duelist 吟游诗人 - 奥术决斗者</td></tr>
   <tr><td>Dervish of Dawn 吟游诗人 - 晨花狂舞者</td></tr>
   <tr><td>Stonesinger 吟游诗人 - 石之歌者</td></tr>
@@ -1600,11 +1601,12 @@
   <tr><td>Halcyon Druid 德鲁伊 - 宁静德鲁伊</td></tr>
   <tr><td>Viking 战士 - 维京人</td></tr>
   <tr><td>Hellcat 武僧 - 地狱猫</td></tr>
-  <tr><td>Monk of the Mantis 武僧 - 螳螂僧</td></tr>
-  <tr><td>Oathbound - Oath of Vengeance 圣骑士 - 复仇誓约圣武士</td></tr>
-  <tr><td>Oathbound - Oath of the People's Council 圣骑士 - 人民民主誓约圣武士</td></tr>
-  <tr><td>Wilderness Warden 圣骑士 - 荒野守望者</td></tr>
-  <tr><td>Holy Guide 圣骑士 - 神圣向导</td></tr>
+  <tr><td>Monk of the Mantis 武僧 - 螳螂僧(暂未汉化)</td></tr>
+  <tr><td>Oathbound - Oath of Vengeance 圣武士 - 复仇誓约圣武士</td></tr>
+  <tr><td>Oathbound - Oath of the People's Council 圣武士 - 人民民主誓约圣武士</td></tr>
+  <tr><td>Wilderness Warden 圣武士 - 荒野守望者</td></tr>
+  <tr><td>Holy Guide 圣武士 - 神圣向导</td></tr>
+  <tr><td>Faithful Wanderer 圣武士 - 虔信流浪者(暂未汉化)</td></tr>
   <tr><td>Ancient Lorekeeper 先知 - 传古学者</td></tr>
   <tr><td>Wild Stalker 游侠 - 野性潜猎者</td></tr>
   <tr><td>Sword-Devil 游侠 - 剑魔</td></tr>
