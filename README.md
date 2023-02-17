@@ -1624,7 +1624,8 @@
          <tr><td>Sword-Devil 剑魔</td></tr>
      <td rowspan="1">战斗祭司</td>        
          <tr><td>Sacred Fist 神拳使</td></tr>
-         <tr><td>Undead Master 法师 - 死灵之主</td></tr>
+     <td rowspan="1">法师</td>     
+         <tr><td>Undead Master 死灵之主</td></tr>
      <td rowspan="1">巫师</td>      
          <tr><td>Scarred Witch Doctor 疤痕巫医</td></tr>
   <tr><td colspan="2" rowspan="2">进阶职业</td>
