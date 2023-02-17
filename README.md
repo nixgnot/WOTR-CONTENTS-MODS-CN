@@ -1590,7 +1590,7 @@
          <tr><td>School Savant 学派家</td></tr>
     <td rowspan="2">野蛮人</td>
          <td>Hateful Rager 恨意狂暴者</td></tr>
-         <tr><td>Primal Hunter 原始猎手(<b>暂未汉化/<b>)</td></tr>
+         <tr><td>Primal Hunter 原始猎手(<b>暂未汉化<b>)</td></tr>
     <td rowspan="3">吟游诗人</td>  
          <td>Arcane Duelist 奥术决斗者</td></tr>
          <tr><td>Dervish of Dawn 晨花狂舞者</td></tr>
@@ -1610,13 +1610,13 @@
          <td>Viking 维京人</td></tr>
     <td rowspan="2">武僧</td>      
          <td>Hellcat 地狱猫</td></tr>
-         <tr><td>Monk of the Mantis 螳螂僧(<b>暂未汉化/<b>)</td></tr>
+         <tr><td>Monk of the Mantis 螳螂僧(<b>暂未汉化<b>)</td></tr>
     <td rowspan="5">圣武士</td>      
          <td>Oathbound - Oath of Vengeance 圣武士 - 复仇誓约圣武士</td></tr>
          <tr><td>Oathbound - Oath of the People's Council 圣武士 - 人民民主誓约圣武士</td></tr>
          <tr><td>Wilderness Warden 圣武士 - 荒野守望者</td></tr>
          <tr><td>Holy Guide 圣武士 - 神圣向导</td></tr>
-         <tr><td>Faithful Wanderer 圣武士 - 虔信流浪者(<b>暂未汉化/<b>)</td></tr>
+         <tr><td>Faithful Wanderer 圣武士 - 虔信流浪者(<b>暂未汉化<b>)</td></tr>
      <td rowspan="1">先知</td>       
          <td>Ancient Lorekeeper 传古学者</td></tr>
      <td rowspan="2">游侠</td>      
