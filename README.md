@@ -1681,13 +1681,13 @@
        <td rowspan="1">审判官</td>
            <td>Living Scripture 活圣经</td></tr> 
        <tr><td rowspan="1">战斗祭司</td>
-           <td>螳螂狂徒</td></tr> 
+           <td>Mantis Zealot 螳螂狂徒</td></tr> 
        <tr><td rowspan="5">德鲁伊</td>
            <td>Mooncaller 唤月者</td></tr> 
            <tr><td>Draconic Druid 龙之德鲁伊</td></tr> 
            <tr><td>Storm Druid 风暴德鲁伊</td></tr> 
            <tr><td>Urban Druid 文明德鲁伊</td></tr> 
-           <tr><td><s>Bear Shaman</s></td></tr> 
+           <tr><td><s>Bear Totem Shaman 熊图腾萨满(<b>暂未翻译</b>)</s></td></tr> 
        <tr><td rowspan="2">圣骑士</td>
            <td>Temple Champion 圣殿冠军</td></tr> 
            <tr><td>Silver Champion 银冠勇士</td></tr> 
