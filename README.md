@@ -1689,18 +1689,18 @@
            <tr><td>Urban Druid 文明德鲁伊</td></tr> 
            <tr><td><s>Bear Shaman</s></td></tr> 
        <tr><td rowspan="2">圣骑士</td>
-           <tr><td>Temple Champion 圣殿冠军</td></tr> 
+           <td>Temple Champion 圣殿冠军</td></tr> 
            <tr><td>Silver Champion 银冠勇士</td></tr> 
        <tr><td rowspan="1">游侠</td>
-           <tr><td>Drake Warden 龙兽守望者</td></tr> 
+           <td>Drake Warden 龙兽守望者</td></tr> 
        <tr><td rowspan="1">游荡者</td>
-           <tr><td>Clutch Thief 龙蛋小偷</td></tr> 
+           <td>Clutch Thief 龙蛋小偷</td></tr> 
        <tr><td rowspan="1">先知</td>
-           <tr><td>Ocean's Echo 海洋回声</td></tr>
+           <td>Ocean's Echo 海洋回声</td></tr>
        <tr><td rowspan="1">萨满</td>
-           <tr><td>Draconic Shaman 龙族萨满</td></tr> 
+           <td>Draconic Shaman 龙族萨满</td></tr> 
        <tr><td rowspan="1">奥能师</td>
-           <tr><td>Draconic Scholar 龙之学者</td></tr> 
+           <td>Draconic Scholar 龙之学者</td></tr> 
    <tr><td rowspan="2">职业特性</td>
        <td>先知秘示域</td>
        <td>Dragon 龙、Heavens 天堂、Succor 救助</td></tr>
