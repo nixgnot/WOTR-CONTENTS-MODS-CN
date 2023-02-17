@@ -1891,7 +1891,8 @@
     <td>:x:</td>
     <td>:x:</td></tr>
 <tr><td>General.CreateBackgrounds</td>
-    <td><b>新增专长：</b>Additional Traits 附加背景；新增背景：Magical Lineage, Metamagic Master, Fate’s Favored</td>
+    <td><b>新增专长：</b>Additional Traits 附加背景<br>新增背景：<br>Magical Lineage 魔法裔,指定一个法术。当你超魔施展该法术时，其最终占用的法术环位视为比正常状况降低1级<br>
+Metamagic Master 超魔主宰：同上<br>Fate’s Favored 命运眷顾：所有幸运加值额外+1</td>
     <td>:x:</td>
     <td>:heavy_check_mark:</td></tr>
 <tr><td>General.CreateBardStopSong</td>
@@ -1899,51 +1900,51 @@
     <td>:x:</td>
     <td>:heavy_check_mark:</td></tr>
 <tr><td>General.CreateDirtyFighting</td>
-    <td><b>新增专长：</b>Dirty Fighting; you don't suffer an attack of opportunity but incure a -4 penalty if you are not flanking and don't have the right maneuver feat</td>
+    <td><b>新增专长：</b>Dirty Fighting 卑劣战斗：如果你没有进行夹击或者拥有对应战技专长，使用战技时不会引发借机攻击但是受到-4处罚</td>
     <td>:x:</td>
     <td>:heavy_check_mark:</td></tr>
 <tr><td>General.CreateHeritage</td>
-    <td>adds Orc-Atavism; Kindred-Raised Half-Elf regain Elven Immunity</td>
+    <td>半兽人替换种族特性：Orc-Atavism 返祖兽人；亲眷半精灵重新获得精灵免疫</td>
     <td>:heavy_check_mark:</td>
     <td>:heavy_check_mark:</td></tr>
 <tr><td>General.CreateKitsuneFoxfire</td>
-    <td>magical tail also grants Foxfire Bolt</td>
+    <td>魔性之尾获得Foxfire Bolt 狐火箭</td>
     <td>:heavy_check_mark:</td>
     <td>:heavy_check_mark:</td></tr>
 <tr><td>General.CreateMadMagic</td>
-    <td>combat feat: allows spell casting during a rage</td>
+    <td><b>新增战斗专长：</b>Mad Magic 狂躁魔法，允许狂暴时施法e</td>
     <td>:x:</td>
     <td>:heavy_check_mark:</td></tr>
 <tr><td>General.CreateOpportuneParry</td>
-    <td>combat feat: duelist parry by expending Attack of Opportunities</td>
+    <td>c<b>新增战斗专长：</b>Opportune Parry 适时格挡：决斗家消耗借机攻击次数进行格挡</td>
     <td>:heavy_check_mark:</td>
     <td>:heavy_check_mark:</td></tr>
 <tr><td>General.CreatePreferredSpell</td>
-    <td><b>新增专长：</b>Preferred Spell, spontaneously cast a specific spell</td>
+    <td><b>新增专长：</b>Preferred Spell 偏好法术，选定一个法术，使其能够自发施法</td>
     <td>:x:</td>
     <td>:heavy_check_mark:</td></tr>
 <tr><td>General.CreateSacredSummons</td>
-    <td><b>新增专长：</b>requires Channel Energy, summons act immediately</td>
+    <td><b>新增专长：</b>Sacred Summons 特定召唤生物可以立即召唤</td>
     <td>:x:</td>
     <td>:heavy_check_mark:</td></tr>
 <tr><td>General.CreateSpellPerfection</td>
-    <td><b>新增专长：</b>Spell Perfection</td>
+    <td><b>新增专长：</b>Spell Perfection 完全法术，附加任意一个超魔到法术而不影响其实际环数（但附加此超魔后理论环数不能大于9）和施法时间，专攻等专长数值奖励对该法术加倍</td>
     <td>:x:</td>
     <td>:heavy_check_mark:</td></tr>
 <tr><td>General.PatchAngelsLight</td>
-    <td>'Light of the Angels' give temporary HP equal to character level</td>
+    <td>天使之光（天使）：给予等于角色等级的临时生命值</td>
     <td>:heavy_check_mark:</td>
     <td>:heavy_check_mark:</td></tr>
 <tr><td>General.PatchBasicFreebieFeats</td>
-    <td>reduced feat tax, inspired from https://michaeliantorno.com/feat-taxes-in-pathfinder/</td>
+    <td>减少“专长税”，将大量低级基础专长（如猛力攻击、武器娴熟等）变为免费赠送，解放大量专长<br>https://michaeliantorno.com/feat-taxes-in-pathfinder/</td>
     <td>:heavy_check_mark:</td>
     <td>:heavy_check_mark:</td></tr>
 <tr><td>General.PatchHideBuffs</td>
-    <td>unclogs UI by hiding a few buffs</td>
+    <td>隐藏部分BUFF使UI更清晰</td>
     <td>:x:</td>
     <td>:construction:</td></tr>
 <tr><td>General.PatchVarious</td>
-    <td>removed PreciousTreat penalty, extend protection from X to 10 minutes</td>
+    <td>移除贵重款待的处罚，removed PreciousTreat penalty, extend protection from X to 10 minutes</td>
     <td>:heavy_check_mark:</td>
     <td>:heavy_check_mark:</td></tr>
 <tr><td>General.FixMasterShapeshifter</td>
