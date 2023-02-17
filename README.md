@@ -1687,7 +1687,7 @@
            <tr><td>Draconic Druid 龙之德鲁伊</td></tr> 
            <tr><td>Storm Druid 风暴德鲁伊</td></tr> 
            <tr><td>Urban Druid 文明德鲁伊</td></tr> 
-           <tr><td><s>Bear Totem Shaman 熊图腾萨满(<b>暂未翻译</b>)</s></td></tr> 
+           <tr><td>Bear Totem Shaman 熊图腾萨满(<b>暂未翻译</b>)</td></tr> 
        <tr><td rowspan="2">圣骑士</td>
            <td>Temple Champion 圣殿冠军</td></tr> 
            <tr><td>Silver Champion 银冠勇士</td></tr> 
