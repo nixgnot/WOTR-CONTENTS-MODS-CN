@@ -1873,7 +1873,7 @@
   
 ------------------------------------------- 
 ### [DarkCodex](https://github.com/Truinto/DarkCodex)
-> *前置：* TabletopTweaks-Core,<br>
+> *前置：* TabletopTweaks-Core<br>
 > *中文：* **无**<br>
 > *安装方式：* **UMM**<br>
 > *修改内容：* 较多可选，包括核心规则<br>
@@ -2483,4 +2483,135 @@ Metamagic Master 超魔主宰：同上<br>Fate’s Favored 命运眷顾：所有
     <td>:heavy_check_mark:</td>
  </table>
 
-
+------------------------------------------- 
+### AddedFeats(https://github.com/Telyl/AddedFeats)
+> *前置：* ModMenu<br>
+> *中文：* **无**<br>
+> *安装方式：* **UMM**<br>
+> *修改内容：* <br>
+> *新增内容：* 专长，法术<br>
++ 小型内容Mod，持续开发中
+  
+------------------------------------------- 
+### [BetterBackgrounds](https://www.nexusmods.com/pathfinderwrathoftherighteous/mods/205)
+> *前置：* 无<br>
+> *中文：* **无**<br>
+> *安装方式：* **非UMM**<br>
+> *修改内容：* <br>
+> *新增内容：* 人物背景<br>
++ 增加大量背景，有不少滥强的，非UMM安装
+    
+------------------------------------------- 
+### [MartialExcellence](https://github.com/Envibel/MartialExcellence)
+> *前置：* 无<br>
+> *中文：* **无**<br>
+> *安装方式：* **非UMM**<br>
+> *修改内容：* <br>
+> *新增内容：* 种族，专长等<br>
++ 小型内容Mod，持续开发中
+      
+------------------------------------------- 
+### [MediumClass](https://github.com/Telyl/MediumClass)
+> *前置：* 无<br>
+> *中文：* **无**<br>
+> *安装方式：* **非UMM**<br>
+> *修改内容：* <br>
+> *新增内容：* 通灵者职业，少量专长<br>
++ 早期版本，主要添加通灵者（Medium）职业，还做了一些制作中的专长，不保证有效，建议等待完善
+        
+------------------------------------------- 
+### [MysticalMayhem](https://github.com/kreaddy/MysticalMayhem)
+> *前置：* 无<br>
+> *中文：* **自带**<br>
+> *安装方式：* **非UMM**<br>
+> *修改内容：* <br>
+> *新增内容：* 变体，专长，神话能力，法术等<br>
++ 增加了新内容，**自带中文！**推荐
+  
+------------------------------------------- 
+### [MythicArcanist](https://github.com/Llisandur/MythicArcanist)
+> *前置：* 无<br>
+> *中文：* **自带**<br>
+> *安装方式：* **非UMM**<br>
+> *修改内容：* <br>
+> *新增内容：* 变体，专长，神话能力，法术等<br>
++ 增加了新内容，**自带中文！**推荐
+  
+------------------------------------------- 
+### [ChampionFeatsAnew](https://www.nexusmods.com/pathfinderwrathoftherighteous/mods/384)
+> *前置：* 无<br>
+> *中文：* **自带**<br>
+> *安装方式：* **非UMM**<br>
+> *修改内容：* <br>
+> *新增内容：* "冠军"专长<br>
++ 增加一系列原创"冠军"专长，挺强的  
+  
+------------------------------------------- 
+### [KineticistElementsExpanded](https://github.com/SpencerMycek/KineticistExpandedElements)
+> *前置：* 无<br>
+> *中文：* **自带**<br>
+> *安装方式：* **非UMM**<br>
+> *修改内容：* <br>
+> *新增内容：*操念使元素<br>
++ 为操念使加入Aether 以太、Void 虚空、Wood 木三种元素
+    
+------------------------------------------- 
+### [KineticistElementsExpanded](https://github.com/SpencerMycek/KineticistExpandedElements)
+> *前置：* 无<br>
+> *中文：* **无**<br>
+> *安装方式：* **非UMM**<br>
+> *修改内容：* <br>
+> *新增内容：*操念使元素<br>
++ 
+      
+------------------------------------------- 
+### [Madison'sMetagaming](https://github.com/madisoncfallin/MadisonsMetagaming)
+> *前置：* 无<br>
+> *中文：* **无**<br>
+> *安装方式：* **非UMM**<br>
+> *修改内容：* <br>
+> *新增内容：*专长<br>
++ 目前只加入了一个专长Fey Foundling
+        
+------------------------------------------- 
+### [NinjaClass](https://www.nexusmods.com/pathfinderwrathoftherighteous/mods/233)
+> *前置：* 无<br>
+> *中文：* **无**<br>
+> *安装方式：* **非UMM**<br>
+> *修改内容：* <br>
+> *新增内容：*忍者职业<br>
++ 加入了Ninja 忍者职业，较久没有更新，不确认是否正常，留在此处作为留档
+          
+------------------------------------------- 
+### [BrawlerClass](https://www.nexusmods.com/pathfinderwrathoftherighteous/mods/207)
+> *前置：* 无<br>
+> *中文：* **无**<br>
+> *安装方式：* **非UMM**<br>
+> *修改内容：* <br>
+> *新增内容：*拳师职业<br>
++ 加入了Brawler 拳师职业，较久没有更新，不确认是否正常，留在此处作为留档
+        
+-------------------------------------------   
+###[WOTR_PATH_OF_BLING](https://github.com/Balkoth-dev/WOTR_PATH_OF_BLING)
+###[WOTR_PATH_OF_HELL](https://github.com/Balkoth-dev/WOTR_PATH_OF_HELL)
+###[WOTR_PATH_OF_RAGE](https://github.com/Balkoth-dev/WOTR_PATH_OF_RAGE)
+> *前置：* 无<br>
+> *中文：* **无**<br>
+> *安装方式：* **非UMM**<br>
+> *修改内容：* <br>
+> *新增内容：*道途重做<br>
++ 同一作者的三个MOD，分别重做了金龙、魔鬼、恶魔三个比较被人诟病的道途
++ 其中恶魔几乎完全重做，比较有趣  
+         
+-------------------------------------------   
+###[WorldCrawl](https://www.moddb.com/mods/worldcrawl-core/downloads)
+> *前置：* 无<br>
+> *中文：* **无**<br>
+> *安装方式：* **非UMM**<br>
+> *修改内容：* <br>
+> *新增内容：*海量<br>
++ 超大型MOD，对游戏多方面进行了调整，几乎成为了全新游戏
++ 大量的平衡性调整，并对游戏的遭遇和掉落进行了随机  
++ 改动文档就有4M大...  
++ 和其他MOD可预见的兼容性差，游戏本体更新后可能问题也比较多
++ 笔者没有尝试过，玩家可以自行尝试
