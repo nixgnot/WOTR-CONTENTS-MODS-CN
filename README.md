@@ -1959,7 +1959,7 @@ Metamagic Master 超魔主宰：同上<br>Fate’s Favored 命运眷顾：所有
     <td>:x:</td>
     <td>:heavy_check_mark:</td></tr>
 <tr><td>General.CreateOpportuneParry</td>
-    <td><b>新增战斗专长：</b>Opportune Parry 适时格挡：决斗家消耗借机攻击次数进行格挡</td>
+    <td><b>新增战斗专长：</b>Opportune Parry 适时格挡：决斗家消耗借机攻击次数，用自由动作进行格挡</td>
     <td>:heavy_check_mark:</td>
     <td>:heavy_check_mark:</td></tr>
 <tr><td>General.CreatePreferredSpell</td>
