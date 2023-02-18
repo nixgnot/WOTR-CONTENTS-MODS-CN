@@ -18,18 +18,39 @@
   - [前置MOD](#前置MOD)
   - [汉化修正文件及其他说明](#汉化修正文件及其他说明)
 - [MOD列表](#MOD列表)
-  - [TabletopTweaks-Base](#TabletopTweaks-Base) TTT
-    - [TabletopTweaks-Reworks](#TabletopTweaks-Reworks) TTT神话扩展
-  - [MicroscopicContentExpansion](#MicroscopicContentExpansion) Microscopic内容扩展
-  - [SparsSorcerousSundries](#SparsSorcerousSundries) SSS内展
-  - [TomeOfTheFirebird](#TomeOfTheFirebird) TOTF扩展
-  - [HomebrewArchetypes](#HomebrewArchetypes) Homebrew(村规)变体
-  - [ExpandedContent2022](#ExpandedContent2022) 扩展内容2022
-  - [ToggleableThrowingWeapons](#ToggleableThrowingWeapons) 可切换投掷武器
-  - [MorvarchsPlaystyleExpansions](#MorvarchsPlaystyleExpansions) Morvarchs玩法扩展
-  - [PhoenixsCantrips](#PhoenixsCantrips) Phoenixs戏法强化
+  - [TabletopTweaks-Base](#TabletopTweaks-Base) TTT :star::star::star: :exclamation:
+    - [TabletopTweaks-Reworks](#TabletopTweaks-Reworks) TTT神话扩展 :star::star: :exclamation:
+  - [MicroscopicContentExpansion](#MicroscopicContentExpansion) Microscopic内容扩展 :star::star::star:
+  - [SparsSorcerousSundries](#SparsSorcerousSundries) SSS扩展 :star::star:
+  - [TomeOfTheFirebird](#TomeOfTheFirebird) TOTF扩展 :star::star::star:
+  - [HomebrewArchetypes](#HomebrewArchetypes) Homebrew(村规)变体 :star::star::star:
+  - [ExpandedContent2022](#ExpandedContent2022) 扩展内容2022 :star::star:
+  - [ToggleableThrowingWeapons](#ToggleableThrowingWeapons) 可切换投掷武器 :star::star::star:
+  - [MorvarchsPlaystyleExpansions](#MorvarchsPlaystyleExpansions) Morvarchs玩法扩展 :star::star::star:
+  - [PhoenixsCantrips](#PhoenixsCantrips) Phoenixs戏法强化 
     - [MoreCantrips](#MoreCantrips) 更多戏法
-  - [CharacterOptionsPlus](#CharacterOptionsPlus) 角色选项+
+  - [CharacterOptionsPlus](#CharacterOptionsPlus) 角色选项+ :star::star::star:
+  - [DarkCodex](#DarkCodex) DarkCodex扩展和修复 :star::star::star: :exclamation:
+  - [AddedFeats](#AddedFeats)
+  - [BetterBackgrounds](#BetterBackgrounds) :star::star:
+  - [MartialExcellence](#MartialExcellence) :star::star:
+  - [MediumClass](#MediumClass)
+  - [MysticalMayhem](#MysticalMayhem) :star::star::star:
+  - [MythicArcanist](#MythicArcanist) :star::star::star: 
+  - [ChampionFeatsAnew](#ChampionFeatsAnew)  
+  - [KineticistElementsExpanded](#KineticistElementsExpanded)  
+  - [Madison'sMetagaming](#sMetagaming)  
+  - [NinjaClass](#NinjaClass) 忍者职业
+  - [BrawlerClass](#BrawlerClass)  拳师职业
+  - [WOTR_PATH_OF_BLING](#WOTR_PATH_OF_BLING) 金龙重做  
+  - [WOTR_PATH_OF_HELL](#WOTR_PATH_OF_HELL)  魔鬼重做
+  - [WOTR_PATH_OF_RAGE](#WOTR_PATH_OF_RAGE) 恶魔重做 :star::star: :exclamation:
+  - [WorldCrawl](#WorldCrawl)  :exclamation:
+
+:star:表示笔者个人推荐
+:exclamation: 表示对游戏原本内容有大幅度修改，需要注意
+
+------------------------------------------- 
 
 ## 基础知识
 
@@ -74,7 +95,7 @@
 -------------------------------------------
 
 ## MOD列表
-**本列表中MOD均在2.0.7版本测试通过**
+**若无特别说明，则MOD在2.0.7版本测试通过**
 -------------------------------------------
 ### [TabletopTweaks-Base](https://github.com/Vek17/TabletopTweaks-Base)
 > *前置：* TabletopTweaks-Core<br>
@@ -2484,7 +2505,7 @@ Metamagic Master 超魔主宰：同上<br>Fate’s Favored 命运眷顾：所有
  </table>
 
 ------------------------------------------- 
-### AddedFeats(https://github.com/Telyl/AddedFeats)
+### [AddedFeats](https://github.com/Telyl/AddedFeats)
 > *前置：* ModMenu<br>
 > *中文：* **无**<br>
 > *安装方式：* **UMM**<br>
@@ -2554,15 +2575,6 @@ Metamagic Master 超魔主宰：同上<br>Fate’s Favored 命运眷顾：所有
 > *修改内容：* <br>
 > *新增内容：*操念使元素<br>
 + 为操念使加入Aether 以太、Void 虚空、Wood 木三种元素
-    
-------------------------------------------- 
-### [KineticistElementsExpanded](https://github.com/SpencerMycek/KineticistExpandedElements)
-> *前置：* 无<br>
-> *中文：* **无**<br>
-> *安装方式：* **非UMM**<br>
-> *修改内容：* <br>
-> *新增内容：*操念使元素<br>
-+ 
       
 ------------------------------------------- 
 ### [Madison'sMetagaming](https://github.com/madisoncfallin/MadisonsMetagaming)
@@ -2592,9 +2604,9 @@ Metamagic Master 超魔主宰：同上<br>Fate’s Favored 命运眷顾：所有
 + 加入了Brawler 拳师职业，较久没有更新，不确认是否正常，留在此处作为留档
         
 -------------------------------------------   
-###[WOTR_PATH_OF_BLING](https://github.com/Balkoth-dev/WOTR_PATH_OF_BLING)
-###[WOTR_PATH_OF_HELL](https://github.com/Balkoth-dev/WOTR_PATH_OF_HELL)
-###[WOTR_PATH_OF_RAGE](https://github.com/Balkoth-dev/WOTR_PATH_OF_RAGE)
+### [WOTR_PATH_OF_BLING](https://github.com/Balkoth-dev/WOTR_PATH_OF_BLING)
+### [WOTR_PATH_OF_HELL](https://github.com/Balkoth-dev/WOTR_PATH_OF_HELL)
+### [WOTR_PATH_OF_RAGE](https://github.com/Balkoth-dev/WOTR_PATH_OF_RAGE)
 > *前置：* 无<br>
 > *中文：* **无**<br>
 > *安装方式：* **非UMM**<br>
@@ -2604,7 +2616,7 @@ Metamagic Master 超魔主宰：同上<br>Fate’s Favored 命运眷顾：所有
 + 其中恶魔几乎完全重做，比较有趣  
          
 -------------------------------------------   
-###[WorldCrawl](https://www.moddb.com/mods/worldcrawl-core/downloads)
+### [WorldCrawl](https://www.moddb.com/mods/worldcrawl-core/downloads)
 > *前置：* 无<br>
 > *中文：* **无**<br>
 > *安装方式：* **非UMM**<br>
