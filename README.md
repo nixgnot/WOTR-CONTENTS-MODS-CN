@@ -2645,7 +2645,7 @@ Metamagic Master 超魔主宰：同上<br>Fate’s Favored 命运眷顾：所有
        <tr><td>Awareness</td>
           <td>洞察：在所有的豁免检定和专注检定上获得+1种族加值。本特性替换人类的奖励专长</td></tr>
        <tr><td>Comprehensive Education</td>
-          <td>素质教育（Comprehensive Education）：将所有知识技能视为本职技能，并在所有他们通过职业等级获得作为本职技能的知识技能检定上获得+1种族加值。本特性替换奖励技能</td></tr>
+          <td>素质教育：将所有知识技能视为本职技能，并在所有他们通过职业等级获得作为本职技能的知识技能检定上获得+1种族加值。本特性替换奖励技能</td></tr>
        <tr><td>Dual Talent</td>
           <td>双重天赋：选择两种属性获得+2种族加值。这个种族特性取代单项属性+2，奖励专长以及奖励技能</td></tr>
        <tr><td>Focused Study</td>
