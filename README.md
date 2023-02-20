@@ -46,6 +46,7 @@
   - [WOTR_PATH_OF_HELL](#WOTR_PATH_OF_HELL)  魔鬼重做
   - [WOTR_PATH_OF_RAGE](#WOTR_PATH_OF_RAGE) 恶魔重做 :star::star: :exclamation:
   - [WorldCrawl](#WorldCrawl)  :exclamation:
+  - [AlternateHumanTraits](#AlternateHumanTraits) 人类替换特性
 
 :star:表示笔者个人推荐
 :exclamation: 表示对游戏原本内容有大幅度修改，需要注意
@@ -2627,3 +2628,36 @@ Metamagic Master 超魔主宰：同上<br>Fate’s Favored 命运眷顾：所有
 + 改动文档就有4M大...  
 + 和其他MOD可预见的兼容性差，游戏本体更新后可能问题也比较多
 + 笔者没有尝试过，玩家可以自行尝试
+         
+-------------------------------------------   
+### [AlternateHumanTraits](https://github.com/microsoftenator2022/AlternateHumanTraits)
+> *前置：* 无<br>
+> *中文：* **无**<br>
+> *安装方式：* **非UMM**<br>
+> *修改内容：* <br>
+> *新增内容：*人类替换种族特性<br>
++ 提供来自规则书的人类可选替换种族特性
+<table>  
+ <tr><th colspan="3">新增内容列表<br></th></tr> 
+  <tr><td rowspan="10">种族特性</i></td>
+       <td>Adoptive Parentage</td>
+          <td>养子：选择一种不具备人类亚种的种族。你使用该种族的起始语言以及【武器熟悉】种族特性。如果该种族没有武器熟悉，获得一种和该种族风格相符的“技能专攻”或者“武器专攻”。本特性替换人类的奖励专长。</td></tr>
+       <tr><td>Awareness</td>
+          <td>洞察：在所有的豁免检定和专注检定上获得+1种族加值。本特性替换人类的奖励专长</td></tr>
+       <tr><td>Comprehensive Education</td>
+          <td>素质教育（Comprehensive Education）：将所有知识技能视为本职技能，并在所有他们通过职业等级获得作为本职技能的知识技能检定上获得+1种族加值。本特性替换奖励技能</td></tr>
+       <tr><td>Dual Talent</td>
+          <td>双重天赋：选择两种属性获得+2种族加值。这个种族特性取代单项属性+2，奖励专长以及奖励技能</td></tr>
+       <tr><td>Focused Study</td>
+          <td>精研：在1级、8级以及16级时，选择一项技能，获得该技能的“技能专攻”专长。这个种族特性取代奖励专长</td></tr>
+       <tr><td>Giant Ancestry</td>
+          <td>巨人祖先：+1战技检定和CMD，-2潜行，这个种族特性取代奖励技能</td></tr>
+       <tr><td>History Of Terrors</td>
+          <td>壮胆：同同名专长，不能同时选择这个特性和对应专长，这个种族特性取代奖励技能</td></tr>
+       <tr><td>Military Tradition</td>
+         <td>战斗民族：根据他们的所属文化群体获得最多两件军用或异种武器的擅长。本特性替换人类的奖励专长</td></tr>
+       <tr><td>Practiced Hunter</td>
+         <td>老练猎手：在潜行和生存检定上获得+2种族加值，并且潜行和生存被他们视为本职技能。本特性替换奖励技能</td></tr>
+       <tr><td>Unstoppable Magic</td>
+         <td>法力澎湃：在穿透法术抗力的施法者等级检定上获得+2种族加值。本特性替换人类的奖励专长</td></tr>
+  </table>
