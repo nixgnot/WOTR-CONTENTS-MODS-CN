@@ -47,6 +47,8 @@
   - [WOTR_PATH_OF_RAGE](#WOTR_PATH_OF_RAGE) 恶魔重做 :star::star: :exclamation:
   - [WorldCrawl](#WorldCrawl)  :exclamation:
   - [AlternateHumanTraits](#AlternateHumanTraits) 人类替换特性
+  - [WOTR_IsekaiMod](#WOTR_IsekaiMod) 异世界主角（滥强警告）
+
 
 :star:表示笔者个人推荐
 :exclamation: 表示对游戏原本内容有大幅度修改，需要注意
@@ -2610,7 +2612,7 @@ Metamagic Master 超魔主宰：同上<br>Fate’s Favored 命运眷顾：所有
 ### [WOTR_PATH_OF_RAGE](https://github.com/Balkoth-dev/WOTR_PATH_OF_RAGE)
 > *前置：* 无<br>
 > *中文：* **无**<br>
-> *安装方式：* **非UMM**<br>
+> *安装方式：* **UMM**<br>
 > *修改内容：* <br>
 > *新增内容：*道途重做<br>
 + 同一作者的三个MOD，分别重做了金龙、魔鬼、恶魔三个比较被人诟病的道途
@@ -2620,7 +2622,7 @@ Metamagic Master 超魔主宰：同上<br>Fate’s Favored 命运眷顾：所有
 ### [WorldCrawl](https://www.moddb.com/mods/worldcrawl-core/downloads)
 > *前置：* 无<br>
 > *中文：* **无**<br>
-> *安装方式：* **非UMM**<br>
+> *安装方式：* **UMM**<br>
 > *修改内容：* <br>
 > *新增内容：*海量<br>
 + 超大型MOD，对游戏多方面进行了调整，几乎成为了全新游戏
@@ -2633,7 +2635,7 @@ Metamagic Master 超魔主宰：同上<br>Fate’s Favored 命运眷顾：所有
 ### [AlternateHumanTraits](https://github.com/microsoftenator2022/AlternateHumanTraits)
 > *前置：* 无<br>
 > *中文：* **无**<br>
-> *安装方式：* **非UMM**<br>
+> *安装方式：* **UMM**<br>
 > *修改内容：* <br>
 > *新增内容：*人类替换种族特性<br>
 + 提供来自规则书的人类可选替换种族特性
@@ -2661,3 +2663,15 @@ Metamagic Master 超魔主宰：同上<br>Fate’s Favored 命运眷顾：所有
        <tr><td>Unstoppable Magic</td>
          <td>法力澎湃：在穿透法术抗力的施法者等级检定上获得+2种族加值。本特性替换人类的奖励专长</td></tr>
   </table>
+  
+  -------------------------------------------   
+### [WOTR_IsekaiMod](https://github.com/JohN100x1/WOTR_IsekaiMod)
+> *前置：* 无<br>
+> *中文：* **无**<br>
+> *安装方式：* **UMM**<br>
+> *修改内容：* <br>
+> *新增内容：*人类替换种族特性<br>
++ **极端不平衡imba警告**
++ 提供新职业“异世界主角”及其变体，还有相关的专长、神祗等
++ 大量动漫NETA
++ 都是异世界主角了，能有多离谱你们自己想象下
