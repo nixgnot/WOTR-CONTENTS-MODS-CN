@@ -1677,7 +1677,7 @@
        <td>Poison Vulnerability 透体之毒：解除敌人毒免</td>
   <tr><td>Sustained Vulnerability 毒入骨髓：延长透体之毒有效期</td></tr>
     <tr><td rowspan="3"><b>AC专属</b></td>
-          <td>Abundant Casting(Homebrew) <b>连锁施法：一定次数唤回任意法术**</b></td></tr>
+          <td>Abundant Casting(Homebrew) <b>连锁施法：一定次数唤回任意法术</b></td></tr>
       <tr><td>Empowered Bombs 增强炸弹：提高炼金炸弹伤害</td></tr>
       <tr><td>Maximized Bombs 终极炸弹：炼金炸弹总是造成最大伤害</td></tr>
   <tr><td colspan="2" rowspan="2">神话专长</td>
