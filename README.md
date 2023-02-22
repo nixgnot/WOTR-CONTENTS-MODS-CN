@@ -1990,95 +1990,95 @@ Metamagic Master 超魔主宰：同上<br>Fate’s Favored 命运眷顾：所有
     <td>:x:</td>
     <td>:construction:</td></tr>
 <tr><td>General.PatchVarious</td>
-    <td>移除贵重款待的处罚，removed PreciousTreat penalty, extend protection from X to 10 minutes</td>
+    <td>移除贵重款待的处罚，防护XX法术持续时间变为10分钟</td>
     <td>:heavy_check_mark:</td>
     <td>:heavy_check_mark:</td></tr>
 <tr><td>General.FixMasterShapeshifter</td>
-    <td>ensures spells with the Polymorph descriptor get the benefit of Master Shapeshifter</td>
+    <td>确保带有变形描述符的法术都能享受变化自如效果</td>
     <td>:x:</td>
     <td>:heavy_check_mark:</td></tr>
 <tr><td>General.FixSpellElementChange</td>
-    <td>fixes Elemental Bloodline and Spell Focus interaction</td>
+    <td>修复元素血承和法术专攻的交互</td>
     <td>:x:</td>
     <td>:heavy_check_mark:</td></tr>
 <tr><td>Items.CreateButcheringAxe</td>
-    <td>new weapon type Butchering Axe</td>
+    <td><b>新武器类型：</b> Butchering Axe 屠戮斧</td>
     <td>:x:</td>
     <td>:construction:</td></tr>
 <tr><td>Items.CreateImpactEnchantment</td>
-    <td>new enchantment Impact</td>
+    <td><b>新附魔类型：</b> Impact 冲击</td>
     <td>:x:</td>
     <td>:heavy_check_mark:</td></tr>
 <tr><td>Items.PatchArrows</td>
-    <td>will pick up non-magical arrows after combat</td>
+    <td>战后拾起非魔法的箭矢</td>
     <td>:x:</td>
     <td>:heavy_check_mark:</td></tr>
 <tr><td>Items.PatchTerendelevScale</td>
-    <td>make the revive scale usable once per day</td>
+    <td>特伦笛利弗鳞片能够每日复活一次</td>
     <td>:heavy_check_mark:</td>
     <td>:heavy_check_mark:</td></tr>
 <tr><td>Kineticist.CreateAutoMetakinesis</td>
-    <td>activatable to automatically empower and maximize blasts, if you have unused burn</td>
+    <td>拥有过量超载自动增强念袭</td>
     <td>:x:</td>
     <td>:heavy_check_mark:</td></tr>
 <tr><td>Kineticist.CreateBladeRushInfusion</td>
-    <td>infusion: Blade Rush, expands Kinetic Knight</td>
+    <td><b>注能(念刃骑士)：</b> Blade Rush 念刃冲锋</td>
     <td>:x:</td>
     <td>:heavy_check_mark:</td></tr>
 <tr><td>Kineticist.CreateChainInfusion</td>
-    <td>infusion: Chain</td>
+    <td><b>注能：</b> Chain 连锁</td>
     <td>:x:</td>
     <td>:heavy_check_mark:</td></tr>
 <tr><td>Kineticist.CreateElementalScion</td>
-    <td>new Kineticist archetype</td>
+    <td><b>新操念使变体：</b>元素后继者</td>
     <td>:x:</td>
     <td>:heavy_check_mark:</td></tr>
 <tr><td>Kineticist.CreateExpandedElement</td>
-    <td><b>新增专长：</b>select extra elements</td>
+    <td><b>新增专长：</b>select extra elements 选择额外元素</td>
     <td>:heavy_check_mark:</td>
     <td>:heavy_check_mark:</td></tr>
 <tr><td>Kineticist.CreateExtraWildTalentFeat</td>
-    <td><b>新增专长：</b>Extra Wild Talent; required by other kineticist features!</td>
+    <td><b>新增专长：</b>Extra Wild Talent 额外原力，前置专长</td>
     <td>:x:</td>
     <td>:heavy_check_mark:</td></tr>
 <tr><td>Kineticist.CreateHurricaneQueen</td>
-    <td>Wild Talent: Hurricane Queen</td>
+    <td><b>原力：</b>Hurricane Queen 飓风女王</td>
     <td>:x:</td>
     <td>:heavy_check_mark:</td></tr>
 <tr><td>Kineticist.CreateImpaleInfusion</td>
-    <td>infusion: Impale</td>
+    <td><b>注能：</b>Impale 贯通</td>
     <td>:x:</td>
     <td>:heavy_check_mark:</td></tr>
 <tr><td>Kineticist.CreateKineticEnergizeWeapon</td>
-    <td>infusion</td>
+    <td><b>注能：</b>Energize Weapon 充能武器</td>
     <td>:x:</td>
     <td>:heavy_check_mark:</td></tr>
 <tr><td>Kineticist.CreateKineticFist</td>
-    <td>infusion</td>
+    <td><b>注能：</b>Kinetic Fist 念拳</td>
     <td>:x:</td>
     <td>:heavy_check_mark:</td></tr>
 <tr><td>Kineticist.CreateKineticistBackground</td>
-    <td>regional background: gain +1 Kineticist level for the purpose of feat prerequisites</td>
+    <td><b>出生地背景：</b>作为专长学习前置时，操念使等级视为 +1</td>
     <td>:heavy_check_mark:</td>
     <td>:heavy_check_mark:</td></tr>
 <tr><td>Kineticist.CreateMindShield</td>
-    <td>Wild Talent: half Psychokineticist's penalties</td>
+    <td><b>原力：</b>Mind Shield 减半心念使处罚</td>
     <td>:heavy_check_mark:</td>
     <td>:heavy_check_mark:</td></tr>
 <tr><td>Kineticist.CreateMobileGatheringFeat</td>
-    <td><b>新增专长：</b>Mobile Gathering</td>
+    <td><b>新增专长：</b>Mobile Gathering 移动凝聚 - 念力凝聚时可以以减半速度移动</td>
     <td>:x:</td>
     <td>:heavy_check_mark:</td></tr>
 <tr><td>Kineticist.CreateSelectiveMetakinesis</td>
-    <td>gain selective metakinesis at level 7</td>
+    <td>7级时获得甄选超念</td>
     <td>:heavy_check_mark:</td>
     <td>:heavy_check_mark:</td></tr>
 <tr><td>Kineticist.CreateVenomInfusion</td>
-    <td>infusion: applies sickened or poisons the target</td>
+    <td><b>注能：</b>Venom Infusion 毒素注能：对目标造成恶心或毒素效果</td>
     <td>:x:</td>
     <td>:heavy_check_mark:</td></tr>
 <tr><td>Kineticist.CreateWhipInfusion</td>
-    <td>infusion: Kinetic Whip, expands Kinetic Knight</td>
+    <td><b>注能(念刃骑士)：</b> Kinetic Whip 念鞭</td>
     <td>:x:</td>
     <td>:heavy_check_mark:</td></tr>
 <tr><td>Kineticist.FixExpandedElementFocus</td>
@@ -2112,7 +2112,7 @@ Metamagic Master 超魔主宰：同上<br>Fate’s Favored 命运眷顾：所有
 <tr><td>Kineticist.FixWallInfusion</td>
     <td>fix Wall Infusion not dealing damage while standing inside</td>
     <td>:x:</td>
-    <td>:heavy_check_mark:</td></tr>
+    <td>:heavy_check_mark:</td></tr>  
 <tr><td>Magus.CreateAccursedStrike</td>
     <td>hexcrafter arcana: Accursed Strike</td>
     <td>:x:</td>
