@@ -31,15 +31,15 @@
     - [MoreCantrips](#MoreCantrips) 更多戏法
   - [CharacterOptionsPlus](#CharacterOptionsPlus) 角色选项+ :star::star::star:
   - [DarkCodex](#DarkCodex) DarkCodex扩展和修复 :star::star::star: :exclamation:
-  - [AddedFeats](#AddedFeats)
-  - [BetterBackgrounds](#BetterBackgrounds) :star::star:
-  - [MartialExcellence](#MartialExcellence) :star::star:
-  - [MediumClass](#MediumClass)
-  - [MysticalMayhem](#MysticalMayhem) :star::star::star:
-  - [MythicArcanist](#MythicArcanist) :star::star::star: 
-  - [ChampionFeatsAnew](#ChampionFeatsAnew)  
-  - [KineticistElementsExpanded](#KineticistElementsExpanded)  
-  - [Madison'sMetagaming](#sMetagaming)  
+  - [AddedFeats](#AddedFeats) 新增专长
+  - [BetterBackgrounds](#BetterBackgrounds) 更多背景 :star::star:
+  - [MartialExcellence](#MartialExcellence) 杰出武艺:star::star:
+  - [MediumClass](#MediumClass) 通灵者职业
+  - [MysticalMayhem](#MysticalMayhem) 神秘骚乱:star::star::star:
+  - [MythicArcanist](#MythicArcanist) 神话秘术:star::star::star: 
+  - [ChampionFeatsAnew](#ChampionFeatsAnew) 冠军专长 
+  - [KineticistElementsExpanded](#KineticistElementsExpanded) 操念元素扩展 
+  - [Madison'sMetagaming](#sMetagaming) Madison的超级游戏
   - [NinjaClass](#NinjaClass) 忍者职业
   - [BrawlerClass](#BrawlerClass)  拳师职业
   - [WOTR_PATH_OF_BLING](#WOTR_PATH_OF_BLING) 金龙重做  
