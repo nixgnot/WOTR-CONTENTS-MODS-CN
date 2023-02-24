@@ -1940,7 +1940,7 @@
 <tr>
 <th rowspan="17">General<br>通用</td> 
     <td>General.CreateAbilityFocus</td>
-    <td><b>新增专长：</b>Ability Focus 技能专精 - 增加技能DC</td>
+    <td><b>新增专长：</b>Ability Focus 技能专精，增加技能DC</td>
     <td>:x:</td>
     <td>:x:</td></tr>
 <tr><td>General.CreateBackgrounds</td>
@@ -1953,11 +1953,11 @@ Metamagic Master 超魔主宰：同上<br>Fate’s Favored 命运眷顾：所有
     <td>:x:</td>
     <td>:heavy_check_mark:</td></tr>
 <tr><td>General.CreateDirtyFighting</td>
-    <td><b>新增专长：</b>Dirty Fighting 卑劣战斗：如果你没有进行夹击或者拥有对应战技专长，使用战技时不会引发借机攻击但是受到-4处罚</td>
+    <td><b>新增专长：</b>Dirty Fighting 卑劣战斗，如果你没有进行夹击或者拥有对应战技专长，使用战技时不会引发借机攻击但是受到-4处罚</td>
     <td>:x:</td>
     <td>:heavy_check_mark:</td></tr>
 <tr><td>General.CreateHeritage</td>
-    <td>半兽人替换种族特性：Orc-Atavism 返祖兽人；亲眷半精灵重新获得精灵免疫</td>
+    <td>半兽人替换种族特性：Orc-Atavism 返祖兽人，亲眷半精灵重新获得精灵免疫</td>
     <td>:heavy_check_mark:</td>
     <td>:heavy_check_mark:</td></tr>
 <tr><td>General.CreateKitsuneFoxfire</td>
@@ -1969,7 +1969,7 @@ Metamagic Master 超魔主宰：同上<br>Fate’s Favored 命运眷顾：所有
     <td>:x:</td>
     <td>:heavy_check_mark:</td></tr>
 <tr><td>General.CreateOpportuneParry</td>
-    <td><b>新增战斗专长：</b>Opportune Parry 适时格挡：决斗家消耗借机攻击次数，用自由动作进行格挡</td>
+    <td><b>新增战斗专长：</b>Opportune Parry 适时格挡，决斗家消耗借机攻击次数，用自由动作进行格挡</td>
     <td>:heavy_check_mark:</td>
     <td>:heavy_check_mark:</td></tr>
 <tr><td>General.CreatePreferredSpell</td>
@@ -2124,7 +2124,9 @@ Metamagic Master 超魔主宰：同上<br>Fate’s Favored 命运眷顾：所有
     <td>修复墙壁注能不对内部敌人造成伤害的问题</td>
     <td>:x:</td>
     <td>:heavy_check_mark:</td></tr>  
-<tr><td>Magus.CreateAccursedStrike</td>
+<tr>
+<th rowspan="3">Magus<br>魔战士</td> 
+    <td>Magus.CreateAccursedStrike</td>
     <td>hexcrafter arcana: Accursed Strike</td>
     <td>:x:</td>
     <td>:x:</td></tr>
@@ -2136,11 +2138,15 @@ Metamagic Master 超魔主宰：同上<br>Fate’s Favored 命运眷顾：所有
     <td>allow Sword Saint to pick any weapon focus</td>
     <td>:heavy_check_mark:</td>
     <td>:heavy_check_mark:</td></tr>
-<tr><td>MartialArt.CreateProdigiousTwoWeaponFighting</td>
-    <td>combat feat: use STR for TWF and always treat offhand as light</td>
+<tr>
+<th rowspan="1">MartialArt<br>武技</td> 
+    <td>MartialArt.CreateProdigiousTwoWeaponFighting</td>
+    <td><b>新增专长：</b>Prodigious Two Weapon Fighting 有力双武器战斗，使用力量代替敏捷计算双武器专长要求，副手单手武器视为轻型</td>
     <td>:x:</td>
     <td>:heavy_check_mark:</td></tr>
-<tr><td>Monk.CreateFeralCombatTraining</td>
+<tr>
+<th rowspan="2">Monk<br>武僧</td> 
+    <td>Monk.CreateFeralCombatTraining</td>
     <td><b>新增专长：</b>Feral Combat Training</td>
     <td>:heavy_check_mark:</td>
     <td>:heavy_check_mark:</td></tr>
@@ -2148,7 +2154,9 @@ Metamagic Master 超魔主宰：同上<br>Fate’s Favored 命运眷顾：所有
     <td>disallow rapid shot for Sohei</td>
     <td>:heavy_check_mark:</td>
     <td>:heavy_check_mark:</td></tr>
-<tr><td>Mythic.CreateDemonLord</td>
+<tr>
+<th rowspan="38">Mythic<br>神话</td> 
+    <td>Mythic.CreateDemonLord</td>
     <td>adds features of Demon Lords to the mythic Demon progression: teleport at will, ...</td>
     <td>:heavy_check_mark:</td>
     <td>:construction:</td></tr>
@@ -2300,11 +2308,15 @@ Metamagic Master 超魔主宰：同上<br>Fate’s Favored 命运眷顾：所有
     <td>'Always A Chance' succeeds on a natural one and applies to most d20 rolls</td>
     <td>:heavy_check_mark:</td>
     <td>:heavy_check_mark:</td></tr>
-<tr><td>Ranger.CreateImprovedHuntersBond</td>
+<tr>
+<th rowspan="1">Ranger<br>游侠</td> 
+    <td>Ranger.CreateImprovedHuntersBond</td>
     <td>combat feat: Improved Hunter's Bond</td>
     <td>:x:</td>
     <td>:heavy_check_mark:</td></tr>
-<tr><td>Rogue.CreateBleedingAttack</td>
+<tr>
+<th rowspan="2">Rogue<br>游荡者</td> 
+    <td>Rogue.CreateBleedingAttack</td>
     <td>rogue talent: Bleeding Attack; basic talent: Flensing Strike</td>
     <td>:x:</td>
     <td>:heavy_check_mark:</td></tr>
@@ -2312,7 +2324,9 @@ Metamagic Master 超魔主宰：同上<br>Fate’s Favored 命运眷顾：所有
     <td><b>新增专长：</b>Extra Rogue Talent</td>
     <td>:x:</td>
     <td>:heavy_check_mark:</td></tr>
-<tr><td>Spellcasters.CreateBestowHope</td>
+<tr>
+<th rowspan="5">Spellcasters<br>施法者</td> 
+    <td>Spellcasters.CreateBestowHope</td>
     <td><b>新增专长：</b>channel energy reduces fear</td>
     <td>:x:</td>
     <td>:heavy_check_mark:</td></tr>
@@ -2332,7 +2346,9 @@ Metamagic Master 超魔主宰：同上<br>Fate’s Favored 命运眷顾：所有
     <td>allows Share Transmutation to affect any spell</td>
     <td>:heavy_check_mark:</td>
     <td>:heavy_check_mark:</td></tr>
-<tr><td>Spells.CreateBladedDash</td>
+<tr>
+<th rowspan="7">Spells<br>法术</td> 
+ <td>Spells.CreateBladedDash</td>
     <td>spell: Bladed Dash</td>
     <td>:x:</td>
     <td>:heavy_check_mark:</td></tr>
@@ -2360,7 +2376,9 @@ Metamagic Master 超魔主宰：同上<br>Fate’s Favored 命运眷顾：所有
     <td>life bubble is AOE again</td>
     <td>:x:</td>
     <td>:heavy_check_mark:</td></tr>
-<tr><td>Unlock.UnlockAnimalCompanion</td>
+<tr>
+<th rowspan="3">Unlock<br>解锁</td> 
+    <td>Unlock.UnlockAnimalCompanion</td>
     <td>allows animal companions to reach up to level 40</td>
     <td>:heavy_check_mark:</td>
     <td>:construction:</td></tr>
@@ -2372,7 +2390,9 @@ Metamagic Master 超魔主宰：同上<br>Fate’s Favored 命运眷顾：所有
     <td>unlocks some spells: Transformation</td>
     <td>:heavy_check_mark:</td>
     <td>:heavy_check_mark:</td></tr>
-<tr><td>Witch.CreateCackleActivatable</td>
+<tr>
+<th rowspan="6">Witch<br>巫师</td> 
+    <td>Witch.CreateCackleActivatable</td>
     <td>Cackle/Chant can be toggled to use move action passively</td>
     <td>:heavy_check_mark:</td>
     <td>:heavy_check_mark:</td></tr>
@@ -2396,7 +2416,9 @@ Metamagic Master 超魔主宰：同上<br>Fate’s Favored 命运眷顾：所有
     <td>Fortune hex will only trigger once per type of roll and per round</td>
     <td>:x:</td>
     <td>:heavy_check_mark:</td></tr>
-<tr><td>Patch.Patch_AbilityRange</td>
+<tr>
+<th rowspan="30">Patch<br>补丁</td> 
+    <td>Patch.Patch_AbilityRange</td>
     <td>bonus spell range equal to 5 feet per 2 caster levels</td>
     <td>:heavy_check_mark:</td>
     <td>:heavy_check_mark:</td></tr>
