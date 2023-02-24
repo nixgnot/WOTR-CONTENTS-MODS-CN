@@ -1920,19 +1920,26 @@
        
 <table>
 <tr><th colspan="4">新增和修改内容列表<br>实装：:construction:表示是否未经作者测试<br>实装：:x:表示未实装，无实际效果</th></tr> 
-<tr><td>选项</td>
+<tr><td>分类</td>
+    <td>选项</td>
     <td>内容</td>
     <td>房规</td>
     <td>实装</td></tr>
-<tr><td>DEBUG.Enchantments</td>
+<tr>
+<th rowspan="1">DEBUG</td> 
+    <td>DEBUG.Enchantments</td>
     <td>DEBUG：显示隐藏附魔</td>
     <td>:x:</td>
     <td>:construction:</td></tr>
-<tr><td>Enchantments.NameAll</td>
+<tr>
+<th rowspan="1">Enchantments<br>附魔</td> 
+    <td>Enchantments.NameAll</td>
     <td>给予所有附魔名称和描述</td>
     <td>:x:</td>
     <td>:construction:</td></tr>
-<tr><td>General.CreateAbilityFocus</td>
+<tr>
+<th rowspan="17">General<br>通用</td> 
+    <td>General.CreateAbilityFocus</td>
     <td><b>新增专长：</b>Ability Focus 技能专精 - 增加技能DC</td>
     <td>:x:</td>
     <td>:x:</td></tr>
@@ -2001,7 +2008,9 @@ Metamagic Master 超魔主宰：同上<br>Fate’s Favored 命运眷顾：所有
     <td>修复元素血承和法术专攻的交互</td>
     <td>:x:</td>
     <td>:heavy_check_mark:</td></tr>
-<tr><td>Items.CreateButcheringAxe</td>
+<tr>
+<th rowspan="4">Items<br>物品</td> 
+    <td>Items.CreateButcheringAxe</td>
     <td><b>新武器类型：</b> Butchering Axe 屠戮斧</td>
     <td>:x:</td>
     <td>:construction:</td></tr>
@@ -2017,7 +2026,9 @@ Metamagic Master 超魔主宰：同上<br>Fate’s Favored 命运眷顾：所有
     <td>特伦笛利弗鳞片能够每日复活一次</td>
     <td>:heavy_check_mark:</td>
     <td>:heavy_check_mark:</td></tr>
-<tr><td>Kineticist.CreateAutoMetakinesis</td>
+<tr>
+<th rowspan="24">Kineticist<br>操念</td> 
+    <td>Kineticist.CreateAutoMetakinesis</td>
     <td>拥有过量超载自动增强念袭</td>
     <td>:x:</td>
     <td>:heavy_check_mark:</td></tr>
@@ -2082,35 +2093,35 @@ Metamagic Master 超魔主宰：同上<br>Fate’s Favored 命运眷顾：所有
     <td>:x:</td>
     <td>:heavy_check_mark:</td></tr>
 <tr><td>Kineticist.FixExpandedElementFocus</td>
-    <td>fix missing talents and mastery when picking the same element focus multiple times</td>
+    <td>元素扩展：修复多次选择同一元素时缺失的原力和掌控</td>
     <td>:x:</td>
     <td>:heavy_check_mark:</td></tr>
 <tr><td>Kineticist.PatchDarkElementalist</td>
-    <td>faster animation and use anywhere, but only out of combat</td>
+    <td>黑暗元素使：加快战斗外动画速度并可随处使用</td>
     <td>:heavy_check_mark:</td>
     <td>:heavy_check_mark:</td></tr>
 <tr><td>Kineticist.PatchDemonCharge</td>
-    <td>Demon Charge also gathers power</td>
+    <td>恶魔降临：不再影响使用念力凝聚</td>
     <td>:heavy_check_mark:</td>
     <td>:heavy_check_mark:</td></tr>
 <tr><td>Kineticist.PatchGatherPower</td>
-    <td>Kineticist Gather Power can be used manually</td>
+    <td>念力凝聚：可以手动使用</td>
     <td>:x:</td>
     <td>:heavy_check_mark:</td></tr>
 <tr><td>Kineticist.PatchVarious</td>
-    <td>bowling works with sandstorm blast, apply PsychokineticistStat setting, fixed Negative Energy Mastery</td>
+    <td>强击注能可用于沙暴念袭，心念使状态设置，修复负向能量掌控</td>
     <td>:heavy_check_mark:</td>
     <td>:heavy_check_mark:</td></tr>
 <tr><td>Kineticist.FixBlastsAreSpellLike</td>
-    <td>makes blasts register as spell like, instead of supernatural</td>
+    <td>念袭成为类法术能力，而不再是超自然能力</td>
     <td>:x:</td>
     <td>:heavy_check_mark:</td></tr>
 <tr><td>Kineticist.FixBloodKineticist</td>
-    <td>seeks to fix bugs in Blood Kineticist</td>
+    <td>尝试修复血念使相关BUG</td>
     <td>:x:</td>
     <td>:construction:</td></tr>
 <tr><td>Kineticist.FixWallInfusion</td>
-    <td>fix Wall Infusion not dealing damage while standing inside</td>
+    <td>修复墙壁注能不对内部敌人造成伤害的问题</td>
     <td>:x:</td>
     <td>:heavy_check_mark:</td></tr>  
 <tr><td>Magus.CreateAccursedStrike</td>
