@@ -48,7 +48,7 @@
   - [WorldCrawl](#WorldCrawl)  :exclamation:
   - [AlternateHumanTraits](#AlternateHumanTraits) 人类替换特性
   - [WOTR_IsekaiMod](#WOTR_IsekaiMod) 异世界主角（滥强警告）
-  - [功能MOD索引](#功能MOD索引) 异世界主角（滥强警告）
+  - [功能MOD索引](#功能MOD索引) 
 
 
 :star:表示笔者个人推荐
@@ -2707,10 +2707,10 @@ Metamagic Master 超魔主宰：同上<br>Fate’s Favored 命运眷顾：所有
    --------------------------------------
 ### 功能MOD索引
 + 常用功能mod索引
-[ToyBox](https://www.nexusmods.com/pathfinderwrathoftherighteous/mods/8) 应该不用介绍？
-[RespecMod](https://github.com/BarleyFlour/RespecMod) 洗点MOD（允许更自由洗点，自定义初始点数等）
-[BubblesBuffs](https://www.nexusmods.com/pathfinderwrathoftherighteous/mods/195) 自动BUFF
-[BubbleTweaks](https://github.com/factubsio/BubbleTweaks) 选项调节（调节动画速度等）
-[MoreBulkSell](https://www.nexusmods.com/pathfinderwrathoftherighteous/mods/163) 强化自动出售（一键出售支持更多物品）
-[SpellPouch](https://github.com/Truinto/SpellPouch) 图标合一（可以将多个能力合为一个层叠图标便于使用）
+> [ToyBox](https://www.nexusmods.com/pathfinderwrathoftherighteous/mods/8) 应该不用介绍？
+> [RespecMod](https://github.com/BarleyFlour/RespecMod) 洗点MOD（允许更自由洗点，自定义初始点数等）
+> [BubblesBuffs](https://www.nexusmods.com/pathfinderwrathoftherighteous/mods/195) 自动BUFF
+> [BubbleTweaks](https://github.com/factubsio/BubbleTweaks) 选项调节（调节动画速度等）
+> [MoreBulkSell](https://www.nexusmods.com/pathfinderwrathoftherighteous/mods/163) 强化自动出售（一键出售支持更多物品）
+> [SpellPouch](https://github.com/Truinto/SpellPouch) 图标合一（可以将多个能力合为一个层叠图标便于使用）
 
