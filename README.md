@@ -1594,7 +1594,7 @@
 + [贴吧汉化帖](https://tieba.baidu.com/p/7977216047?pn=1)
 + **注意！Homebrew Archetypes不能使用UMM安装，可以使用ModFinder安装或者参考汉化帖手动安装**
 > *前置：* 无<br>
-> *中文：* **自带中文（缺少最新更新，此处提供补充）**<br>
+> *中文：* **自带中文（主页中文不一定保持最新，可在贴吧汉化贴确认）**<br>
 > *安装方式：* **非UMM**<br>
 > *修改内容：* 物品、变体和机制（AC）<br>
 > *新增内容：* 大量变体，职业、信仰、领域、专长<br>
@@ -1841,7 +1841,7 @@
    <tr><td rowspan="7">职业特性</td>
        <td rowspan="2">原力</td>
            <td>Shimmering Mirage 微光幻影，获得隐蔽</td></tr>
-           <tr><rd>Suffocate 窒息，窒息目标可导致昏迷</td></tr>
+           <tr><td>Suffocate 窒息，窒息目标可导致昏迷</td></tr>
        <tr><td rowspan="1">游荡者天赋</td>
            <td>Shadow Duplicate 影分身，被击中时可释放类似镜影</td></tr>
        <tr><td rowspan="3">杀手绝技</td>
@@ -2605,8 +2605,9 @@ Metamagic Master 超魔主宰：同上<br>Fate’s Favored 命运眷顾：所有
   
 ------------------------------------------- 
 ### [KineticistElementsExpanded](https://github.com/SpencerMycek/KineticistExpandedElements)
++ [贴吧汉化帖](https://tieba.baidu.com/p/8112471310)
 > *前置：* 无<br>
-> *中文：* **自带**<br>
+> *中文：* **汉化发布**<br>
 > *安装方式：* **非UMM**<br>
 > *修改内容：* <br>
 > *新增内容：* 操念使元素<br>
