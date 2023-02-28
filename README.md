@@ -1909,17 +1909,9 @@
 > **General.PatchBasicFreebieFeats** 减少“专长税”，将大量低级基础专长（如猛力攻击、武器娴熟等）变为免费赠送，解放大量专长<br>
 > **Mythic.PatchElementalBarrage** 元素狂潮回滚，可以用武器伤害触发<br>
 > **Patch.Patch_ZippySpellLike** 灵动魔法回滚，可以对类法术能力生效<br>
-
-<table>  
- <tr><th colspan="2">新增内容列表<br></th></tr> 
-  <tr><td rowspan="1">变体<br><i>参阅PF文档</i></td>
-       <td>Elemental Scion 操念使 - 元素后继者</td></tr> 
-  <tr><td rowspan="3">职业特性</i></td>
-       <td>操念使内容<br><b>DarkCodex对操念使进行了大量扩充，包括允许自动使用过载来强化念袭、相应专长、专用背景、新的原力和注能、BUG修复等等</b><br>原力：Hurricane Queen、Mind Shield<br>注能：Blade Rush、Chain Infusion、Impale Infusion、Energize Weapon、Kinetic Fist、Venom Infusion、Kinetic Whip</td></tr> 
-       </table>
-       
+     
 <table>
-<tr><th colspan="4">新增和修改内容列表<br>实装：:construction:表示是否未经作者测试<br>实装：:x:表示未实装，无实际效果</th></tr> 
+<tr><th colspan="5">新增和修改内容列表<br>实装：:construction:表示是否未经作者测试<br>实装：:x:表示未实装，无实际效果</th></tr> 
 <tr><td>分类</td>
     <td>选项</td>
     <td>内容</td>
@@ -2127,15 +2119,15 @@ Metamagic Master 超魔主宰：同上<br>Fate’s Favored 命运眷顾：所有
 <tr>
 <th rowspan="3">魔战士</td> 
     <td>Magus.CreateAccursedStrike</td>
-    <td>hexcrafter arcana: Accursed Strike</td>
+    <td>巫战士：奥秘 - Accursed Strike 诅咒打击</td>
     <td>:x:</td>
     <td>:x:</td></tr>
 <tr><td>Magus.FixHexcrafterProgression</td>
-    <td>allows hex selection with any arcana, add missing spell recall at level 11</td>
+    <td>巫战士：允许任意奥秘选择巫术, 修复缺失的法术唤回</td>
     <td>:x:</td>
     <td>:heavy_check_mark:</td></tr>
 <tr><td>Magus.PatchSwordSaint</td>
-    <td>allow Sword Saint to pick any weapon focus</td>
+    <td>剑圣：允许选择任意武器</td>
     <td>:heavy_check_mark:</td>
     <td>:heavy_check_mark:</td></tr>
 <tr>
@@ -2147,165 +2139,165 @@ Metamagic Master 超魔主宰：同上<br>Fate’s Favored 命运眷顾：所有
 <tr>
 <th rowspan="2">武僧</td> 
     <td>Monk.CreateFeralCombatTraining</td>
-    <td><b>新增专长：</b>Feral Combat Training</td>
+    <td><b>新增专长：</b>Feral Combat Training 野性战斗训练 - 选择一种天生武器，视为徒手攻击应用以精通徒手攻击为前提的专长，也包括疾风连击</td>
     <td>:heavy_check_mark:</td>
     <td>:heavy_check_mark:</td></tr>
 <tr><td>Monk.PatchSoheiRapidShot</td>
-    <td>disallow rapid shot for Sohei</td>
+    <td>僧兵：禁用快速射击</td>
     <td>:heavy_check_mark:</td>
     <td>:heavy_check_mark:</td></tr>
 <tr>
 <th rowspan="38">神话</td> 
     <td>Mythic.CreateDemonLord</td>
-    <td>adds features of Demon Lords to the mythic Demon progression: teleport at will, ...</td>
+    <td>恶魔道途：增加恶魔领主特性 - 随意传送等</td>
     <td>:heavy_check_mark:</td>
     <td>:construction:</td></tr>
 <tr><td>Mythic.CreateDemonMastery</td>
-    <td>mythic feat: requires demon lv6; change the rage effect of an demon aspect into a passive effect</td>
+    <td>神话专长：Demon Mastery 恶魔掌握 - 需要恶魔道途6，选择一种魔相成为被动效果</td>
     <td>:heavy_check_mark:</td>
     <td>:heavy_check_mark:</td></tr>
 <tr><td>Mythic.CreateExtraMythicFeats</td>
-    <td>mythic feat: can pick mythic abilities as feats and vice versa</td>
+    <td>神话能力：Extra Mythic Feats 额外神话专长</td>
     <td>:heavy_check_mark:</td>
     <td>:heavy_check_mark:</td></tr>
 <tr><td>Mythic.CreateKineticMastery</td>
-    <td>mythic feat: physical Kinetic Blasts gain attack bonus equal to mythic level, or half with energy Blasts</td>
+    <td>神话专长：Kinetic Mastery 物理念袭获得等于神话阶层的攻击加值，能量念袭加值减半</td>
     <td>:heavy_check_mark:</td>
     <td>:heavy_check_mark:</td></tr>
 <tr><td>Mythic.CreateLimitlessArcanePool</td>
-    <td>mythic ability: infinite arcane pool, expect spell recall</td>
+    <td>神话能力：Limitless Arcane Pool 无限奥法池 - 除了法术唤回外的能力不消耗奥法池点数</td>
     <td>:heavy_check_mark:</td>
     <td>:heavy_check_mark:</td></tr>
 <tr><td>Mythic.CreateLimitlessArcaneReservoir</td>
-    <td>mythic ability: infinite arcane reservoir</td>
+    <td>神话能力：Limitless Arcane Reservoir 无限奥能源泉</td>
     <td>:heavy_check_mark:</td>
     <td>:heavy_check_mark:</td></tr>
 <tr><td>Mythic.CreateLimitlessBardicPerformance</td>
-    <td>mythic ability: Bardic Performances cost no resources mythic ability: Skald's Raging Song cost no resources</td>
+    <td>神话能力：Limitless Bardic Performance 无限吟游演艺；Limitless Raging Song 无限战怒之歌</td>
     <td>:heavy_check_mark:</td>
     <td>:heavy_check_mark:</td></tr>
 <tr><td>Mythic.CreateLimitlessBloodlineClaws</td>
-    <td>mythic ability: use claws from bloodlines at will, use breath weapon more often, use dragon disciple form II at will</td>
+    <td>神话能力：True Dragon 真龙 - 无限使用龙裔血承龙爪，增加龙息次数，随意使用龙型II</td>
     <td>:heavy_check_mark:</td>
     <td>:heavy_check_mark:</td></tr>
 <tr><td>Mythic.CreateLimitlessBombs</td>
-    <td>mythic ability: infinite alchemist bombs and incenses</td>
+    <td>神话能力：Limitless Alchemist's Creations 无限炼金造物 - 无限使用炼金炸弹和熏香</td>
     <td>:heavy_check_mark:</td>
     <td>:heavy_check_mark:</td></tr>
 <tr><td>Mythic.CreateLimitlessDomain</td>
-    <td>mythic ability: use domain powers at will</td>
+    <td>神话能力：Limitless Domain Powers 无限领域能力</td>
     <td>:heavy_check_mark:</td>
     <td>:heavy_check_mark:</td></tr>
 <tr><td>Mythic.CreateLimitlessInquisitorBane</td>
-    <td>mythic ability: infinite inquisitor bane</td>
+    <td>神话能力：Limitless Inquisitor Bane 无限审判官破敌</td>
     <td>:heavy_check_mark:</td>
     <td>:heavy_check_mark:</td></tr>
 <tr><td>Mythic.CreateLimitlessKi</td>
-    <td>mythic ability: reduce ki costs by 1</td>
+    <td>神话能力：Limitless Ki 无限气海 - 气海消耗量-1</td>
     <td>:heavy_check_mark:</td>
     <td>:heavy_check_mark:</td></tr>
 <tr><td>Mythic.CreateLimitlessShaman</td>
-    <td>mythic ability: infinite spirit weapon uses (shaman, spirit hunter)</td>
+    <td>神话能力：Limitless Spirit Weapon 无限精魂武器（萨满和精魂猎手）</td>
     <td>:heavy_check_mark:</td>
     <td>:heavy_check_mark:</td></tr>
 <tr><td>Mythic.CreateLimitlessSmite</td>
-    <td>mythic ability: infinite Smites (chaotic and evil), requires Abundant Smite</td>
+    <td>神话能力：Limitless Smite 无限辟邪/辟乱斩，需要原版无穷辟邪/辟乱斩作为前提</td>
     <td>:heavy_check_mark:</td>
     <td>:heavy_check_mark:</td></tr>
 <tr><td>Mythic.CreateLimitlessWarpriest</td>
-    <td>mythic ability: infinite scared weapon uses</td>
+    <td>神话能力：Limitless Sacred Warpriest 无限崇圣战祭 - 无限使用崇圣武器和崇圣盔甲</td>
     <td>:heavy_check_mark:</td>
     <td>:heavy_check_mark:</td></tr>
 <tr><td>Mythic.CreateLimitlessWarpriestBlessing</td>
-    <td>mythic ability: use blessing powers at will</td>
+    <td>神话能力：Limitless Warpriest Blessings 无限战斗祭司祝福</td>
     <td>:heavy_check_mark:</td>
     <td>:heavy_check_mark:</td></tr>
 <tr><td>Mythic.CreateLimitlessWitchHexes</td>
-    <td>mythic ability: Hexes ignore their cooldown</td>
+    <td>神话能力：Limitless Witch Hexes 无限巫术 - 无视冷却时间</td>
     <td>:heavy_check_mark:</td>
     <td>:heavy_check_mark:</td></tr>
 <tr><td>Mythic.CreateMagicItemAdept</td>
-    <td>mythic feat: trinket items use character level as caster level</td>
+    <td>神话能力：Magic Item Adept 魔法物品专家 - 魔法物品（不包括魔杖、卷轴、药水）使用自身等级作为施法者等级</td>
     <td>:heavy_check_mark:</td>
     <td>:heavy_check_mark:</td></tr>
 <tr><td>Mythic.CreateMetamagicAdept</td>
-    <td>mythic feat: allow spontaneous spellcasters to apply metamagic without casting time penalty</td>
+    <td>神话专长：Mythic Metamagic Adept 神话超魔专家 - 自发施法者超魔不再需要整轮</td>
     <td>:heavy_check_mark:</td>
     <td>:heavy_check_mark:</td></tr>
 <tr><td>Mythic.CreateMythicCompanion</td>
-    <td>mythic feat: unlocks companion equipment slots</td>
+    <td>神话专长：Mythic Animal Companion 神话动物同伴 - 解锁动物同伴所有装备槽</td>
     <td>:heavy_check_mark:</td>
     <td>:heavy_check_mark:</td></tr>
 <tr><td>Mythic.CreateMythicEschewMaterials</td>
-    <td>mythic ability: you cast spells without expending material components</td>
+    <td>神话能力：Mythic Eschew Materials 神话节约材料：施法不再需要材料</td>
     <td>:heavy_check_mark:</td>
     <td>:heavy_check_mark:</td></tr>
 <tr><td>Mythic.CreateNotAChance</td>
-    <td>mythic ability: immunity to crits</td>
+    <td>神话能力：Not A Chance 并非良机 - 对方投出20也不会自动命中，免疫重击</td>
     <td>:heavy_check_mark:</td>
     <td>:heavy_check_mark:</td></tr>
 <tr><td>Mythic.CreateResourcefulCaster</td>
-    <td>mythic ability: regain spells that fail because of spell failure, concentration, SR, saving throws</td>
+    <td>神话能力：Resourceful Caster 丰裕施法者 - 法术失败、专注失败、被抵抗、被豁免时回收法术位</td>
     <td>:heavy_check_mark:</td>
     <td>:heavy_check_mark:</td></tr>
 <tr><td>Mythic.CreateSwiftHex</td>
-    <td>mythic ability: hexes other than grant can be used as a swift action</td>
+    <td>神话能力：Cursing Gaze 诅咒凝视 - 可以迅捷动作使用巫术和强力巫术，高等巫术除外</td>
     <td>:heavy_check_mark:</td>
     <td>:heavy_check_mark:</td></tr>
 <tr><td>Mythic.CreateSwiftHuntersBond</td>
-    <td>mythic ability: ranger's Hunter's Bond can be used as a swift action</td>
+    <td>神话能力：Swift Hunters Bond 迅捷猎人羁绊 - 猎人羁绊变为迅捷动作</td>
     <td>:heavy_check_mark:</td>
     <td>:heavy_check_mark:</td></tr>
 <tr><td>Mythic.ExtendLimitlessAnimalFocus</td>
-    <td>mythic ability: gain the Hunter capstone 'Master Hunter'</td>
+    <td>神话能力：Limitless Animal Focus 无限动物之力 - 获得猎人巅峰宗师猎人</td>
     <td>:heavy_check_mark:</td>
     <td>:heavy_check_mark:</td></tr>
 <tr><td>Mythic.PatchAscendantSummons</td>
-    <td>buffed Ascendant Summons by +4 stats and DR 10</td>
+    <td>巅峰召唤：强化为+4属性, DR 10</td>
     <td>:heavy_check_mark:</td>
     <td>:heavy_check_mark:</td></tr>
 <tr><td>Mythic.PatchBoundlessHealing</td>
-    <td>Boundless Healing also grants healing spells to spellbooks</td>
+    <td>无界治疗：将治疗法术加入法术书</td>
     <td>:heavy_check_mark:</td>
     <td>:heavy_check_mark:</td></tr>
 <tr><td>Mythic.PatchBoundlessInjury</td>
-    <td>mythic ability: like Boundless Injury but for harm spells</td>
+    <td>伤害能力：Boundless Injury 无界伤害 - 类似无界治疗，对造成伤害类法术生效</td>
     <td>:heavy_check_mark:</td>
     <td>:heavy_check_mark:</td></tr>
 <tr><td>Mythic.PatchElementalBarrage</td>
-    <td>reverse patch, trigger of weapon attacks again</td>
+    <td>元素狂潮：回滚补丁，可被武器攻击触发</td>
     <td>:heavy_check_mark:</td>
     <td>:heavy_check_mark:</td></tr>
 <tr><td>Mythic.PatchJudgementAura</td>
-    <td>Everlasting Judgement also applies to Judgement Aura</td>
+    <td>永恒审判：现在对审判灵光也有效果</td>
     <td>:heavy_check_mark:</td>
     <td>:heavy_check_mark:</td></tr>
 <tr><td>Mythic.PatchKineticOvercharge</td>
-    <td>Kinetic Overcharge works always, not only while gathering power</td>
+    <td>念力超量：持续保持有效，不再需要念力凝聚</td>
     <td>:heavy_check_mark:</td>
     <td>:heavy_check_mark:</td></tr>
 <tr><td>Mythic.PatchLimitlessDemonRage</td>
-    <td>Limitless Rage also applies to Demon Rage</td>
+    <td>无限狂暴：现在对恶魔狂怒也有效果</td>
     <td>:heavy_check_mark:</td>
     <td>:heavy_check_mark:</td></tr>
 <tr><td>Mythic.PatchRangingShots</td>
-    <td>doesn't get weaker when hitting</td>
+    <td>试射瞄准：击中后加成不会减少</td>
     <td>:heavy_check_mark:</td>
     <td>:heavy_check_mark:</td></tr>
 <tr><td>Mythic.PatchUnstoppable</td>
-    <td>Unstoppable works against more conditions like stun, daze, and confusion</td>
+    <td>一往无前：对更多状态如震慑、眩晕、困惑有效</td>
     <td>:heavy_check_mark:</td>
     <td>:heavy_check_mark:</td></tr>
 <tr><td>Mythic.PatchVarious</td>
-    <td>allow quicken on Demon Teleport, allow Elemental Barrage on any damage, Elemental Rampage works with Limitless Rage</td>
+    <td>加快恶魔传送，允许任何伤害触发元素狂潮，无限狂暴对元素凶性（元素蛮徒）有效</td>
     <td>:heavy_check_mark:</td>
     <td>:heavy_check_mark:</td></tr>
 <tr><td>Mythic.PatchWanderingHex</td>
-    <td>can swap hex at will</td>
+    <td>游魂巫术：可以随意切换巫术</td>
     <td>:heavy_check_mark:</td>
     <td>:heavy_check_mark:</td></tr>
 <tr><td>Mythic.PatchAlwaysAChance</td>
-    <td>'Always A Chance' succeeds on a natural one and applies to most d20 rolls</td>
+    <td>不失水准：投出自然1时自动成功，对绝大多数d20有效</td>
     <td>:heavy_check_mark:</td>
     <td>:heavy_check_mark:</td></tr>
 <tr>
