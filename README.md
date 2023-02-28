@@ -2153,103 +2153,103 @@ Metamagic Master 超魔主宰：同上<br>Fate’s Favored 命运眷顾：所有
     <td>:heavy_check_mark:</td>
     <td>:construction:</td></tr>
 <tr><td>Mythic.CreateDemonMastery</td>
-    <td>神话专长：Demon Mastery 恶魔掌握 - 需要恶魔道途6，选择一种魔相成为被动效果</td>
+    <td><b>神话专长：</b>Demon Mastery 恶魔掌握 - 需要恶魔道途6，选择一种魔相成为被动效果</td>
     <td>:heavy_check_mark:</td>
     <td>:heavy_check_mark:</td></tr>
 <tr><td>Mythic.CreateExtraMythicFeats</td>
-    <td>神话能力：Extra Mythic Feats 额外神话专长</td>
+    <td><b>神话能力：</b>Extra Mythic Feats 额外神话专长</td>
     <td>:heavy_check_mark:</td>
     <td>:heavy_check_mark:</td></tr>
 <tr><td>Mythic.CreateKineticMastery</td>
-    <td>神话专长：Kinetic Mastery 物理念袭获得等于神话阶层的攻击加值，能量念袭加值减半</td>
+    <td><b>神话专长：</b>Kinetic Mastery 物理念袭获得等于神话阶层的攻击加值，能量念袭加值减半</td>
     <td>:heavy_check_mark:</td>
     <td>:heavy_check_mark:</td></tr>
 <tr><td>Mythic.CreateLimitlessArcanePool</td>
-    <td>神话能力：Limitless Arcane Pool 无限奥法池 - 除了法术唤回外的能力不消耗奥法池点数</td>
+    <td><b>神话能力：</b>Limitless Arcane Pool 无限奥法池 - 除了法术唤回外的能力不消耗奥法池点数</td>
     <td>:heavy_check_mark:</td>
     <td>:heavy_check_mark:</td></tr>
 <tr><td>Mythic.CreateLimitlessArcaneReservoir</td>
-    <td>神话能力：Limitless Arcane Reservoir 无限奥能源泉</td>
+    <td><b>神话能力：</b>Limitless Arcane Reservoir 无限奥能源泉</td>
     <td>:heavy_check_mark:</td>
     <td>:heavy_check_mark:</td></tr>
 <tr><td>Mythic.CreateLimitlessBardicPerformance</td>
-    <td>神话能力：Limitless Bardic Performance 无限吟游演艺；Limitless Raging Song 无限战怒之歌</td>
+    <td><b>神话能力：</b>Limitless Bardic Performance 无限吟游演艺；Limitless Raging Song 无限战怒之歌</td>
     <td>:heavy_check_mark:</td>
     <td>:heavy_check_mark:</td></tr>
 <tr><td>Mythic.CreateLimitlessBloodlineClaws</td>
-    <td>神话能力：True Dragon 真龙 - 无限使用龙裔血承龙爪，增加龙息次数，随意使用龙型II</td>
+    <td><b>神话能力：</b>True Dragon 真龙 - 无限使用龙裔血承龙爪，增加龙息次数，随意使用龙型II</td>
     <td>:heavy_check_mark:</td>
     <td>:heavy_check_mark:</td></tr>
 <tr><td>Mythic.CreateLimitlessBombs</td>
-    <td>神话能力：Limitless Alchemist's Creations 无限炼金造物 - 无限使用炼金炸弹和熏香</td>
+    <td><b>神话能力：</b>Limitless Alchemist's Creations 无限炼金造物 - 无限使用炼金炸弹和熏香</td>
     <td>:heavy_check_mark:</td>
     <td>:heavy_check_mark:</td></tr>
 <tr><td>Mythic.CreateLimitlessDomain</td>
-    <td>神话能力：Limitless Domain Powers 无限领域能力</td>
+    <td><b>神话能力：</b>Limitless Domain Powers 无限领域能力</td>
     <td>:heavy_check_mark:</td>
     <td>:heavy_check_mark:</td></tr>
 <tr><td>Mythic.CreateLimitlessInquisitorBane</td>
-    <td>神话能力：Limitless Inquisitor Bane 无限审判官破敌</td>
+    <td><b>神话能力：</b>Limitless Inquisitor Bane 无限审判官破敌</td>
     <td>:heavy_check_mark:</td>
     <td>:heavy_check_mark:</td></tr>
 <tr><td>Mythic.CreateLimitlessKi</td>
-    <td>神话能力：Limitless Ki 无限气海 - 气海消耗量-1</td>
+    <td><b>神话能力：</b>Limitless Ki 无限气海 - 气海消耗量-1</td>
     <td>:heavy_check_mark:</td>
     <td>:heavy_check_mark:</td></tr>
 <tr><td>Mythic.CreateLimitlessShaman</td>
-    <td>神话能力：Limitless Spirit Weapon 无限精魂武器（萨满和精魂猎手）</td>
+    <td><b>神话能力：</b>Limitless Spirit Weapon 无限精魂武器（萨满和精魂猎手）</td>
     <td>:heavy_check_mark:</td>
     <td>:heavy_check_mark:</td></tr>
 <tr><td>Mythic.CreateLimitlessSmite</td>
-    <td>神话能力：Limitless Smite 无限辟邪/辟乱斩，需要原版无穷辟邪/辟乱斩作为前提</td>
+    <td><b>神话能力：</b>Limitless Smite 无限辟邪/辟乱斩，需要原版无穷辟邪/辟乱斩作为前提</td>
     <td>:heavy_check_mark:</td>
     <td>:heavy_check_mark:</td></tr>
 <tr><td>Mythic.CreateLimitlessWarpriest</td>
-    <td>神话能力：Limitless Sacred Warpriest 无限崇圣战祭 - 无限使用崇圣武器和崇圣盔甲</td>
+    <td><b>神话能力：</b>Limitless Sacred Warpriest 无限崇圣战祭 - 无限使用崇圣武器和崇圣盔甲</td>
     <td>:heavy_check_mark:</td>
     <td>:heavy_check_mark:</td></tr>
 <tr><td>Mythic.CreateLimitlessWarpriestBlessing</td>
-    <td>神话能力：Limitless Warpriest Blessings 无限战斗祭司祝福</td>
+    <td><b>神话能力：</b>Limitless Warpriest Blessings 无限战斗祭司祝福</td>
     <td>:heavy_check_mark:</td>
     <td>:heavy_check_mark:</td></tr>
 <tr><td>Mythic.CreateLimitlessWitchHexes</td>
-    <td>神话能力：Limitless Witch Hexes 无限巫术 - 无视冷却时间</td>
+    <td><b>神话能力：</b>Limitless Witch Hexes 无限巫术 - 无视冷却时间</td>
     <td>:heavy_check_mark:</td>
     <td>:heavy_check_mark:</td></tr>
 <tr><td>Mythic.CreateMagicItemAdept</td>
-    <td>神话能力：Magic Item Adept 魔法物品专家 - 魔法物品（不包括魔杖、卷轴、药水）使用自身等级作为施法者等级</td>
+    <td><b>神话能力：</b>Magic Item Adept 魔法物品专家 - 魔法物品（不包括魔杖、卷轴、药水）使用自身等级作为施法者等级</td>
     <td>:heavy_check_mark:</td>
     <td>:heavy_check_mark:</td></tr>
 <tr><td>Mythic.CreateMetamagicAdept</td>
-    <td>神话专长：Mythic Metamagic Adept 神话超魔专家 - 自发施法者超魔不再需要整轮</td>
+    <td><b>神话专长：</b>Mythic Metamagic Adept 神话超魔专家 - 自发施法者超魔不再需要整轮</td>
     <td>:heavy_check_mark:</td>
     <td>:heavy_check_mark:</td></tr>
 <tr><td>Mythic.CreateMythicCompanion</td>
-    <td>神话专长：Mythic Animal Companion 神话动物同伴 - 解锁动物同伴所有装备槽</td>
+    <td><b>神话专长：</b>Mythic Animal Companion 神话动物同伴 - 解锁动物同伴所有装备槽</td>
     <td>:heavy_check_mark:</td>
     <td>:heavy_check_mark:</td></tr>
 <tr><td>Mythic.CreateMythicEschewMaterials</td>
-    <td>神话能力：Mythic Eschew Materials 神话节约材料：施法不再需要材料</td>
+    <td><b>神话能力：</b>Mythic Eschew Materials 神话节约材料：施法不再需要材料</td>
     <td>:heavy_check_mark:</td>
     <td>:heavy_check_mark:</td></tr>
 <tr><td>Mythic.CreateNotAChance</td>
-    <td>神话能力：Not A Chance 并非良机 - 对方投出20也不会自动命中，免疫重击</td>
+    <td><b>神话能力：</b>Not A Chance 并非良机 - 对方投出20也不会自动命中，免疫重击</td>
     <td>:heavy_check_mark:</td>
     <td>:heavy_check_mark:</td></tr>
 <tr><td>Mythic.CreateResourcefulCaster</td>
-    <td>神话能力：Resourceful Caster 丰裕施法者 - 法术失败、专注失败、被抵抗、被豁免时回收法术位</td>
+    <td><b>神话能力：</b>Resourceful Caster 丰裕施法者 - 法术失败、专注失败、被抵抗、被豁免时回收法术位</td>
     <td>:heavy_check_mark:</td>
     <td>:heavy_check_mark:</td></tr>
 <tr><td>Mythic.CreateSwiftHex</td>
-    <td>神话能力：Cursing Gaze 诅咒凝视 - 可以迅捷动作使用巫术和强力巫术，高等巫术除外</td>
+    <td><b>神话能力：</b>Cursing Gaze 诅咒凝视 - 可以迅捷动作使用巫术和强力巫术，高等巫术除外</td>
     <td>:heavy_check_mark:</td>
     <td>:heavy_check_mark:</td></tr>
 <tr><td>Mythic.CreateSwiftHuntersBond</td>
-    <td>神话能力：Swift Hunters Bond 迅捷猎人羁绊 - 猎人羁绊变为迅捷动作</td>
+    <td><b>神话能力：</b>Swift Hunters Bond 迅捷猎人羁绊 - 猎人羁绊变为迅捷动作</td>
     <td>:heavy_check_mark:</td>
     <td>:heavy_check_mark:</td></tr>
 <tr><td>Mythic.ExtendLimitlessAnimalFocus</td>
-    <td>神话能力：Limitless Animal Focus 无限动物之力 - 获得猎人巅峰宗师猎人</td>
+    <td><b>神话能力：</b>Limitless Animal Focus 无限动物之力 - 获得猎人巅峰宗师猎人</td>
     <td>:heavy_check_mark:</td>
     <td>:heavy_check_mark:</td></tr>
 <tr><td>Mythic.PatchAscendantSummons</td>
@@ -2303,109 +2303,109 @@ Metamagic Master 超魔主宰：同上<br>Fate’s Favored 命运眷顾：所有
 <tr>
 <th rowspan="1">游侠</td> 
     <td>Ranger.CreateImprovedHuntersBond</td>
-    <td>combat feat: Improved Hunter's Bond</td>
+    <td><b>新增专长：</b>Improved Hunter's Bond 强化猎人羁绊 - 猎人羁绊给予完整加值</td>
     <td>:x:</td>
     <td>:heavy_check_mark:</td></tr>
 <tr>
 <th rowspan="2">游荡者</td> 
     <td>Rogue.CreateBleedingAttack</td>
-    <td>rogue talent: Bleeding Attack; basic talent: Flensing Strike</td>
+    <td>游荡者天赋：Bleeding Attack 流血攻击<br><b>新增专长：</b>Flensing Strike 剥皮打击 - 偷袭削弱天生护甲</td>
     <td>:x:</td>
     <td>:heavy_check_mark:</td></tr>
 <tr><td>Rogue.CreateExtraRogueTalent</td>
-    <td><b>新增专长：</b>Extra Rogue Talent</td>
+    <td><b>新增专长：</b>Extra Rogue Talent 额外游荡者天赋</td>
     <td>:x:</td>
     <td>:heavy_check_mark:</td></tr>
 <tr>
 <th rowspan="5">施法者</td> 
     <td>Spellcasters.CreateBestowHope</td>
-    <td><b>新增专长：</b>channel energy reduces fear</td>
+    <td><b>新增专长：</b>Bestow Hope 授予希望 - 引导减少恐惧等级</td>
     <td>:x:</td>
     <td>:heavy_check_mark:</td></tr>
 <tr><td>Spellcasters.CreateEnergyChannel</td>
-    <td><b>新增专长：</b>channel energy through weapon attacks</td>
+    <td><b>新增专长：</b>Energy Channel 能力引导 - 使用引导次数为武器充能</td>
     <td>:x:</td>
     <td>:heavy_check_mark:</td></tr>
 <tr><td>Spellcasters.CreatePurifyingChannel</td>
-    <td><b>新增专长：</b>channel positive energy deals fire damage</td>
+    <td><b>新增专长：</b>Purifying Channel 净化引导 - 引导正能量造成火焰伤害</td>
     <td>:x:</td>
     <td>:heavy_check_mark:</td></tr>
 <tr><td>Spellcasters.FixBloodlineArcane</td>
-    <td>Arcane Apotheosis ignores metamagic casting time penalty</td>
+    <td>奥术血承：奥法巅峰能够无视超魔施法时间惩罚</td>
     <td>:x:</td>
     <td>:heavy_check_mark:</td></tr>
 <tr><td>Spellcasters.PatchArcanistBrownFur</td>
-    <td>allows Share Transmutation to affect any spell</td>
+    <td>棕毛变化师：允许分享变化用于任何法术</td>
     <td>:heavy_check_mark:</td>
     <td>:heavy_check_mark:</td></tr>
 <tr>
-<th rowspan="7">法术</td> 
+<th rowspan="7">法术<br><i>法术详<br>情可参<br>阅PF文<br>档</i></td> 
  <td>Spells.CreateBladedDash</td>
-    <td>spell: Bladed Dash</td>
+    <td><b>新增法术：</b>Bladed Dash 飞刃袭</td>
     <td>:x:</td>
     <td>:heavy_check_mark:</td></tr>
 <tr><td>Spells.CreateChillTouch</td>
-    <td>spell: Chill Touch</td>
+    <td><b>新增法术：</b>Chill Touch 寒冷之触</td>
     <td>:x:</td>
     <td>:heavy_check_mark:</td></tr>
 <tr><td>Spells.CreateDivineTrident</td>
-    <td>spell: Divine Trident</td>
+    <td><b>新增法术：</b>Divine Trident 神圣三叉戟</td>
     <td>:x:</td>
     <td>:heavy_check_mark:</td></tr>
 <tr><td>Spells.CreateFlameBlade</td>
-    <td>spell: Flame Blade, feat: Flame Blade Dervish Combat</td>
+    <td><b>新增法术：</b>Flame Blade 火焰刀<br><b>新增专长：</b>  Flame Blade Dervish Combat 炎刃狂舞</td>
     <td>:x:</td>
     <td>:heavy_check_mark:</td></tr>
 <tr><td>Spells.CreateHealingFlames</td>
-    <td>spell: Healing Flames</td>
+    <td><b>新增法术：</b>Healing Flames 治愈之焰</td>
     <td>:x:</td>
     <td>:heavy_check_mark:</td></tr>
 <tr><td>Spells.CreateProduceFlame</td>
-    <td>spell: Produce Flame</td>
+    <td><b>新增法术：</b>Produce Flame 燃火术</td>
     <td>:x:</td>
     <td>:heavy_check_mark:</td></tr>
 <tr><td>Spells.PatchVarious</td>
-    <td>life bubble is AOE again</td>
+    <td>修复维生气泡为范围效果</td>
     <td>:x:</td>
     <td>:heavy_check_mark:</td></tr>
 <tr>
 <th rowspan="3">解锁</td> 
     <td>Unlock.UnlockAnimalCompanion</td>
-    <td>allows animal companions to reach up to level 40</td>
+    <td>允许动物伙伴提升到最多40级</td>
     <td>:heavy_check_mark:</td>
     <td>:construction:</td></tr>
 <tr><td>Unlock.UnlockKineticist</td>
-    <td>adds infusion, wild talent, and element focus up to level 40</td>
+    <td>提升操念使注能/原力/元素到最多40级</td>
     <td>:heavy_check_mark:</td>
     <td>:heavy_check_mark:</td></tr>
 <tr><td>Unlock.UnlockSpells</td>
-    <td>unlocks some spells: Transformation</td>
+    <td>解锁部分法术：变形</td>
     <td>:heavy_check_mark:</td>
     <td>:heavy_check_mark:</td></tr>
 <tr>
 <th rowspan="6">Witch<br>巫师</td> 
     <td>Witch.CreateCackleActivatable</td>
-    <td>Cackle/Chant can be toggled to use move action passively</td>
+    <td>尖笑/诵咒可以切换为被动使用移动动作</td>
     <td>:heavy_check_mark:</td>
     <td>:heavy_check_mark:</td></tr>
 <tr><td>Witch.CreateExtraHex</td>
-    <td><b>新增专长：</b>Extra Hex</td>
+    <td><b>新增专长：</b>Extra Hex 额外巫术</td>
     <td>:x:</td>
     <td>:heavy_check_mark:</td></tr>
 <tr><td>Witch.CreateIceTomb</td>
-    <td>Hex: Ice Tomb</td>
+    <td><b>新增巫术：</b>Ice Tomb 冰冢</td>
     <td>:x:</td>
     <td>:heavy_check_mark:</td></tr>
 <tr><td>Witch.CreateSplitHex</td>
-    <td><b>新增专长：</b>Split Hex, Split Major Hex</td>
+    <td><b>新增专长：</b>Split Hex 分裂巫术；Split Major Hex 分裂强力巫术</td>
     <td>:x:</td>
     <td>:construction:</td></tr>
 <tr><td>Witch.FixBoundlessHealing</td>
-    <td>boundless healing applies to healing hex</td>
+    <td>无界治疗：对治疗性巫术生效</td>
     <td>:x:</td>
     <td>:heavy_check_mark:</td></tr>
 <tr><td>Witch.FixFortuneHex</td>
-    <td>Fortune hex will only trigger once per type of roll and per round</td>
+    <td>祈福：每个类型每轮只能触发一次</td>
     <td>:x:</td>
     <td>:heavy_check_mark:</td></tr>
 <tr>
