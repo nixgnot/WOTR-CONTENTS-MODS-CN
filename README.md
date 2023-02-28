@@ -1932,13 +1932,13 @@
     <td>:x:</td>
     <td>:construction:</td></tr>
 <tr>
-<th rowspan="1">Enchantments<br>附魔</td> 
+<th rowspan="1">附魔</td> 
     <td>Enchantments.NameAll</td>
     <td>给予所有附魔名称和描述</td>
     <td>:x:</td>
     <td>:construction:</td></tr>
 <tr>
-<th rowspan="17">General<br>通用</td> 
+<th rowspan="17">通用</td> 
     <td>General.CreateAbilityFocus</td>
     <td><b>新增专长：</b>Ability Focus 技能专精，增加技能DC</td>
     <td>:x:</td>
@@ -2009,7 +2009,7 @@ Metamagic Master 超魔主宰：同上<br>Fate’s Favored 命运眷顾：所有
     <td>:x:</td>
     <td>:heavy_check_mark:</td></tr>
 <tr>
-<th rowspan="4">Items<br>物品</td> 
+<th rowspan="4">物品</td> 
     <td>Items.CreateButcheringAxe</td>
     <td><b>新武器类型：</b> Butchering Axe 屠戮斧</td>
     <td>:x:</td>
@@ -2027,7 +2027,7 @@ Metamagic Master 超魔主宰：同上<br>Fate’s Favored 命运眷顾：所有
     <td>:heavy_check_mark:</td>
     <td>:heavy_check_mark:</td></tr>
 <tr>
-<th rowspan="24">Kineticist<br>操念</td> 
+<th rowspan="24">操念</td> 
     <td>Kineticist.CreateAutoMetakinesis</td>
     <td>拥有过量超载自动增强念袭</td>
     <td>:x:</td>
@@ -2125,7 +2125,7 @@ Metamagic Master 超魔主宰：同上<br>Fate’s Favored 命运眷顾：所有
     <td>:x:</td>
     <td>:heavy_check_mark:</td></tr>  
 <tr>
-<th rowspan="3">Magus<br>魔战士</td> 
+<th rowspan="3">魔战士</td> 
     <td>Magus.CreateAccursedStrike</td>
     <td>hexcrafter arcana: Accursed Strike</td>
     <td>:x:</td>
@@ -2139,13 +2139,13 @@ Metamagic Master 超魔主宰：同上<br>Fate’s Favored 命运眷顾：所有
     <td>:heavy_check_mark:</td>
     <td>:heavy_check_mark:</td></tr>
 <tr>
-<th rowspan="1">MartialArt<br>武技</td> 
+<th rowspan="1">武技</td> 
     <td>MartialArt.CreateProdigiousTwoWeaponFighting</td>
     <td><b>新增专长：</b>Prodigious Two Weapon Fighting 有力双武器战斗，使用力量代替敏捷计算双武器专长要求，副手单手武器视为轻型</td>
     <td>:x:</td>
     <td>:heavy_check_mark:</td></tr>
 <tr>
-<th rowspan="2">Monk<br>武僧</td> 
+<th rowspan="2">武僧</td> 
     <td>Monk.CreateFeralCombatTraining</td>
     <td><b>新增专长：</b>Feral Combat Training</td>
     <td>:heavy_check_mark:</td>
@@ -2155,7 +2155,7 @@ Metamagic Master 超魔主宰：同上<br>Fate’s Favored 命运眷顾：所有
     <td>:heavy_check_mark:</td>
     <td>:heavy_check_mark:</td></tr>
 <tr>
-<th rowspan="38">Mythic<br>神话</td> 
+<th rowspan="38">神话</td> 
     <td>Mythic.CreateDemonLord</td>
     <td>adds features of Demon Lords to the mythic Demon progression: teleport at will, ...</td>
     <td>:heavy_check_mark:</td>
@@ -2309,13 +2309,13 @@ Metamagic Master 超魔主宰：同上<br>Fate’s Favored 命运眷顾：所有
     <td>:heavy_check_mark:</td>
     <td>:heavy_check_mark:</td></tr>
 <tr>
-<th rowspan="1">Ranger<br>游侠</td> 
+<th rowspan="1">游侠</td> 
     <td>Ranger.CreateImprovedHuntersBond</td>
     <td>combat feat: Improved Hunter's Bond</td>
     <td>:x:</td>
     <td>:heavy_check_mark:</td></tr>
 <tr>
-<th rowspan="2">Rogue<br>游荡者</td> 
+<th rowspan="2">游荡者</td> 
     <td>Rogue.CreateBleedingAttack</td>
     <td>rogue talent: Bleeding Attack; basic talent: Flensing Strike</td>
     <td>:x:</td>
@@ -2325,7 +2325,7 @@ Metamagic Master 超魔主宰：同上<br>Fate’s Favored 命运眷顾：所有
     <td>:x:</td>
     <td>:heavy_check_mark:</td></tr>
 <tr>
-<th rowspan="5">Spellcasters<br>施法者</td> 
+<th rowspan="5">施法者</td> 
     <td>Spellcasters.CreateBestowHope</td>
     <td><b>新增专长：</b>channel energy reduces fear</td>
     <td>:x:</td>
@@ -2347,7 +2347,7 @@ Metamagic Master 超魔主宰：同上<br>Fate’s Favored 命运眷顾：所有
     <td>:heavy_check_mark:</td>
     <td>:heavy_check_mark:</td></tr>
 <tr>
-<th rowspan="7">Spells<br>法术</td> 
+<th rowspan="7">法术</td> 
  <td>Spells.CreateBladedDash</td>
     <td>spell: Bladed Dash</td>
     <td>:x:</td>
@@ -2377,7 +2377,7 @@ Metamagic Master 超魔主宰：同上<br>Fate’s Favored 命运眷顾：所有
     <td>:x:</td>
     <td>:heavy_check_mark:</td></tr>
 <tr>
-<th rowspan="3">Unlock<br>解锁</td> 
+<th rowspan="3">解锁</td> 
     <td>Unlock.UnlockAnimalCompanion</td>
     <td>allows animal companions to reach up to level 40</td>
     <td>:heavy_check_mark:</td>
@@ -2417,7 +2417,7 @@ Metamagic Master 超魔主宰：同上<br>Fate’s Favored 命运眷顾：所有
     <td>:x:</td>
     <td>:heavy_check_mark:</td></tr>
 <tr>
-<th rowspan="30">Patch<br>补丁</td> 
+<th rowspan="30">补丁</td> 
     <td>Patch.Patch_AbilityRange</td>
     <td>bonus spell range equal to 5 feet per 2 caster levels</td>
     <td>:heavy_check_mark:</td>
