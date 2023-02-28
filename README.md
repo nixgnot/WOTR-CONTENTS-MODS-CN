@@ -2,7 +2,7 @@
 -------------------------------------------
 
 + 本文档用于收集整理为开拓者正义之怒提供内容扩充（新增或者修改职业、变体、专长、法术等游戏内容）的MOD，并尽量保持时效性。
-+ ToyBox、Bubble Buffs等功能性MOD不在本文档介绍范围。
++ ToyBox、Bubble Buffs等功能性MOD不在本文档介绍范围，但是文末会给出常用MOD链接。
 + 特别注意，本文档作者的游戏理解还是新手，很可能评价并不贴切。
 + 强烈建议先行阅读[正义之怒MOD教程](https://github.com/1onepower/KM-WotR_Modding_Wiki/blob/main/%E4%B8%AD%E6%96%87%E7%89%88.md) （1onepower）。该文档含有详细的**UMM安装教程**和部分MOD介绍，但文档时间较早，部分MOD可能已经失效。
 
@@ -48,6 +48,7 @@
   - [WorldCrawl](#WorldCrawl)  :exclamation:
   - [AlternateHumanTraits](#AlternateHumanTraits) 人类替换特性
   - [WOTR_IsekaiMod](#WOTR_IsekaiMod) 异世界主角（滥强警告）
+  - [功能MOD索引](#功能MOD索引) 异世界主角（滥强警告）
 
 
 :star:表示笔者个人推荐
@@ -2701,3 +2702,15 @@ Metamagic Master 超魔主宰：同上<br>Fate’s Favored 命运眷顾：所有
 + 提供新职业“异世界主角”及其变体，还有相关的专长、神祗等
 + 大量动漫NETA
 + 都是异世界主角了，能有多离谱你们自己想象下
+
+
+   --------------------------------------
+### 功能MOD索引
++ 常用功能mod索引
+[ToyBox](https://www.nexusmods.com/pathfinderwrathoftherighteous/mods/8) 应该不用介绍？
+[RespecMod](https://github.com/BarleyFlour/RespecMod) 洗点MOD（允许更自由洗点，自定义初始点数等）
+[BubblesBuffs](https://www.nexusmods.com/pathfinderwrathoftherighteous/mods/195) 自动BUFF
+[BubbleTweaks](https://github.com/factubsio/BubbleTweaks) 选项调节（调节动画速度等）
+[MoreBulkSell](https://www.nexusmods.com/pathfinderwrathoftherighteous/mods/163) 强化自动出售（一键出售支持更多物品）
+[SpellPouch](https://github.com/Truinto/SpellPouch) 图标合一（可以将多个能力合为一个层叠图标便于使用）
+
