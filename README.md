@@ -2353,7 +2353,7 @@ Metamagic Master 超魔主宰：同上<br>Fate’s Favored 命运眷顾：所有
     <td>:x:</td>
     <td>:heavy_check_mark:</td></tr>
 <tr><td>Spells.CreateFlameBlade</td>
-    <td><b>新增法术：</b>Flame Blade 火焰刀<br><b>新增专长：</b>  Flame Blade Dervish Combat 炎刃狂舞</td>
+    <td><b>新增法术：</b>Flame Blade 火焰刀<br><b>新增专长：</b>Flame Blade Dervish Combat 炎刃狂舞</td>
     <td>:x:</td>
     <td>:heavy_check_mark:</td></tr>
 <tr><td>Spells.CreateHealingFlames</td>
@@ -2411,123 +2411,123 @@ Metamagic Master 超魔主宰：同上<br>Fate’s Favored 命运眷顾：所有
 <tr>
 <th rowspan="30">补丁</td> 
     <td>Patch.Patch_AbilityRange</td>
-    <td>bonus spell range equal to 5 feet per 2 caster levels</td>
+    <td>每2CL提高法术射程5尺</td>
     <td>:heavy_check_mark:</td>
     <td>:heavy_check_mark:</td></tr>
 <tr><td>Patch.Patch_ActivatableHandleUnitRunCommand</td>
-    <td>fixes move actions disabling the activatable (since we have 2 of them)</td>
+    <td>修复可激活能力移动动作会自动关闭</td>
     <td>:x:</td>
     <td>:heavy_check_mark:</td></tr>
 <tr><td>Patch.Patch_ActivatableOnNewRound</td>
-    <td>uses up move action when triggered; deactivates activatable if no action left</td>
+    <td>触发时使用移动动作，无剩余动作自动关闭</td>
     <td>:x:</td>
     <td>:heavy_check_mark:</td></tr>
 <tr><td>Patch.Patch_ActivatableOnTurnOn</td>
-    <td>fixes activatable not being allowed to be active when they have the same action (like 2 move actions)</td>
+    <td>修复同类动作可激活能力不能同时激活</td>
     <td>:x:</td>
     <td>:heavy_check_mark:</td></tr>
 <tr><td>Patch.Patch_ActivatableTryStart</td>
-    <td>fixes activatable not starting the second time, while being outside of combat</td>
+    <td>修复可激活能力在战斗外不能二次激活</td>
     <td>:x:</td>
     <td>:heavy_check_mark:</td></tr>
 <tr><td>Patch.Patch_AllowAchievements</td>
-    <td>clears the 'has used mods before' flag and also pretends that no mods are active</td>
+    <td>禁用'has used mods before' 标签，允许解锁成就</td>
     <td>:x:</td>
     <td>:heavy_check_mark:</td></tr>
 <tr><td>Patch.Patch_ArcanistSpontaneous</td>
-    <td>allows arcanist to use non memorized metamagic, but increases casting time</td>
+    <td>允许奥能师使用未记忆超魔，但是需要增加施法时间</td>
     <td>:x:</td>
     <td>:heavy_check_mark:</td></tr>
 <tr><td>Patch.Patch_AzataFavorableMagic</td>
-    <td>include saving throws from auras (does not work with TableTopTweaks Azata.FavorableMagic enabled)</td>
+    <td>卓越魔法（灵使）对光环豁免生效，如果开启了TTT的相关卓越魔法选项，本功能无效</td>
     <td>:heavy_check_mark:</td>
     <td>:heavy_check_mark:</td></tr>
 <tr><td>Patch.Patch_BackgroundChecks</td>
-    <td>prevents identical background skills from causing an error</td>
+    <td>防止相同的背景技能导致错误</td>
     <td>:x:</td>
     <td>:heavy_check_mark:</td></tr>
 <tr><td>Patch.Patch_DarkElementalistBurn</td>
-    <td>for Wild Talents your current amount of burn includes the number of successful Soul Power uses</td>
+    <td>对于原力，当前超载值也包含成功的灵魂能源次数</td>
     <td>:heavy_check_mark:</td>
     <td>:heavy_check_mark:</td></tr>
 <tr><td>Patch.Patch_DismissAnything</td>
-    <td>dismiss any spell regardless of who the caster is</td>
+    <td>无视施法者来解除法术</td>
     <td>:heavy_check_mark:</td>
     <td>:heavy_check_mark:</td></tr>
 <tr><td>Patch.Patch_EnduringSpells</td>
-    <td>allows Enduring Spell to apply to spells from any source; fix for Magic Weapon</td>
+    <td>允许持久法术对任何来源法术生效; 修复魔法武器</td>
     <td>:x:</td>
     <td>:heavy_check_mark:</td></tr>
 <tr><td>Patch.Patch_EnvelopingWindsCap</td>
-    <td>removes 50% evasion cap for Hurricane Queen</td>
+    <td>移除Hurricane Queen 飓风女王的 50% 闪避上限</td>
     <td>:x:</td>
     <td>:heavy_check_mark:</td></tr>
 <tr><td>Patch.Patch_FixAreaDoubleDamage</td>
-    <td>fixes area effects triggering twice when cast</td>
+    <td>修复范围效果施法时触发两次</td>
     <td>:x:</td>
     <td>:heavy_check_mark:</td></tr>
 <tr><td>Patch.Patch_FixAreaEndOfTurn</td>
-    <td>in turn-based mode area effects happen at the end of each unit's round, instead of all at once at the start of the caster's round</td>
+    <td>回合模式中范围效果在目标单位的回合结束触发，而不是施法者的回合开始触发</td>
     <td>:x:</td>
     <td>:heavy_check_mark:</td></tr>
 <tr><td>Patch.Patch_FixFeatureSelection</td>
-    <td>fixes issue #189</td>
+    <td>修复错误 #189</td>
     <td>:x:</td>
     <td>:heavy_check_mark:</td></tr>
 <tr><td>Patch.Patch_FixPolymorphGather</td>
-    <td>makes it so polymorphed creatures can use Gather Power and creatures with hands Kinetic Blade</td>
+    <td>变形后可以使用念力凝聚，有手生物可以使用念刃</td>
     <td>:x:</td>
     <td>:heavy_check_mark:</td></tr>
 <tr><td>Patch.Patch_FixQuickenMetamagic</td>
-    <td>fixed quickened abilities taking more time than normal, if you already have used your swift action</td>
+    <td>修复如果已经使用迅捷动作后，瞬发能力需要消耗更长时间</td>
     <td>:x:</td>
     <td>:heavy_check_mark:</td></tr>
 <tr><td>Patch.Patch_HexcrafterSpellStrike</td>
-    <td>hexes with touch range can be used with Spell Strike</td>
+    <td>巫战士：接触型巫术适用于法术打击</td>
     <td>:heavy_check_mark:</td>
     <td>:heavy_check_mark:</td></tr>
 <tr><td>Patch.Patch_KineticistAllowOpportunityAttack</td>
-    <td>allows Attack of Opportunities with anything but standard Kinetic Blade; so that Kinetic Whip works; also allows natural attacks to be used, if Whip isn't available</td>
+    <td>允许念鞭借机攻击，念鞭不可用时也能使用天生攻击</td>
     <td>:x:</td>
     <td>:heavy_check_mark:</td></tr>
 <tr><td>Patch.Patch_LimitlessActivatables</td>
-    <td>makes it so activatables with infinite resources start out of combat and stay on after combat</td>
+    <td>可无限使用的能力战斗外可以激活并在战斗后保持</td>
     <td>:x:</td>
     <td>:heavy_check_mark:</td></tr>
 <tr><td>Patch.Patch_MagicItemAdept</td>
-    <td>patches for Magic Item Adept</td>
+    <td>修复魔法物品专家</td>
     <td>:heavy_check_mark:</td>
     <td>:heavy_check_mark:</td></tr>
 <tr><td>Patch.Patch_ParryAlways</td>
-    <td>use parry even if attack would have missed anyway</td>
+    <td>即使攻击本会丢失，也强制使用格挡（决斗家）</td>
     <td>:x:</td>
     <td>:heavy_check_mark:</td></tr>
 <tr><td>Patch.Patch_Polymorph</td>
-    <td>allows debug flags to keep inventory or model during polymorph</td>
+    <td>允许debug flag在变形期间保持物品栏和模型</td>
     <td>:x:</td>
     <td>:heavy_check_mark:</td></tr>
 <tr><td>Patch.Patch_PreferredSpellMetamagic</td>
-    <td>necessary patches for Preferred Spell</td>
+    <td>偏好法术所需补丁</td>
     <td>:x:</td>
     <td>:heavy_check_mark:</td></tr>
 <tr><td>Patch.Patch_ResourcefulCaster</td>
-    <td>patches for Resourceful Caster</td>
+    <td>丰裕施法者所需补丁</td>
     <td>:heavy_check_mark:</td>
     <td>:heavy_check_mark:</td></tr>
 <tr><td>Patch.Patch_RespecPartially</td>
-    <td>allows respec to be finished at any point</td>
+    <td>允许重置后加点随时终止</td>
     <td>:x:</td>
     <td>:heavy_check_mark:</td></tr>
 <tr><td>Patch.Patch_TrueGatherPowerLevel</td>
-    <td>Normal: The level of gathering power is determined by the mode (none, low, medium, high) selected. If the mode is lower than the already accumulated gather level, then levels are lost. Patched: The level of gathering is true to the accumulated level or the selected mode, whatever is higher.</td>
+    <td>通常情况下念力凝聚等级基于选择的模式，如果模式低于实际积累等级，凝聚等级会丢失。修复后凝聚等级基于选择的模式或者积累量中较高者</td>
     <td>:x:</td>
     <td>:heavy_check_mark:</td></tr>
 <tr><td>Patch.Patch_UnlockClassLevels</td>
-    <td>let's you pick class levels after level 20 with any class; this won't add new features except basic feats and won't allow character levels beyond 20 (which can be done with champion mythic path or Toybox)</td>
+    <td>允许职业等级超过20级，但是并不会增加新的能力（除了基本加值），通常情况下角色等级也不能超过20级</td>
     <td>:heavy_check_mark:</td>
     <td>:heavy_check_mark:</td></tr>
 <tr><td>Patch.Patch_ZippySpellLike</td>
-    <td>allows zippy to work on spell-like abilities</td>
+    <td>允许灵动魔法（灵使）对类法术能力生效</td>
     <td>:heavy_check_mark:</td>
     <td>:heavy_check_mark:</td>
  </table>
