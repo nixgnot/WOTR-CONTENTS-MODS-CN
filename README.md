@@ -2541,7 +2541,39 @@ Metamagic Master 超魔主宰：同上<br>Fate’s Favored 命运眷顾：所有
 > *修改内容：* <br>
 > *新增内容：* 专长，法术<br>
 + 小型内容Mod，持续开发中
-  
+
+ <table>  
+ <tr><th colspan="3">新增内容列表<br></th></tr> 
+  <tr><td rowspan="1">村规</i></td>
+      <td>Mythic Bond<br>(Mythic Animal Focus)</td><td>
+      神话羁绊（神话动物之力）：允许猎人激活额外一种动物之力</td></tr>
+  <tr><td rowspan="10">专长</i></td>
+      <td>Forceful Charge</td><td>
+      暴力冲锋（动物同伴专长，包括进阶版Improved Forceful Charge）：冲锋攻击附带重装</td></tr>
+      <tr><td>Favored Animal Focus</td><td>
+      偏好动物之力：加强动物之力效果</td></tr>
+      <tr><td>Planar Focus</td><td>
+      位面之力：动物之力获得新的形态</td></tr>
+      <tr><td>Totem Beast</td><td>
+      兽魂图腾：动物伙伴获得额外选定的动物之力效果</td></tr>
+      <tr><td>Evolved Companion (partial)</td><td>
+      伙伴进化：动物伙伴获得进化</td></tr>
+      <tr><td>Improved Natural Armor (Animal Companion Feat)</td><td>
+      精通天生护甲（动物伙伴专长）</td></tr>
+      <tr><td>Improved Natural Attack (Animal Companion Feat)</td><td>
+      精通天生武器攻击（动物伙伴专长）</td></tr>
+      <tr><td>Spirit's Gift</td><td>
+      精魂赠礼：授予动物伙伴精魂</td></tr>
+      <tr><td>Vampiric Companion</td><td>
+      吸血同伴：伙伴转为亡灵生物并获得亡灵主人能力</td></tr>
+      <tr><td>Improved Spell Sharing (Teamwork)</td><td>
+      精通法术共享（团队专长）：可以将自身法术效果分享给动物同伴，持续时间平分</td></tr>
+  <tr><td rowspan="2">法术</i></td>
+      <td>Strong Jaw</td><td>
+      铁碎颚：增强天生武器威力</td></tr>
+      <tr><td>Atavism</td><td>
+      原始野性：动物获得进化模板</td></tr>
+ </table>
 ------------------------------------------- 
 ### [BetterBackgrounds](https://www.nexusmods.com/pathfinderwrathoftherighteous/mods/205)
 > *前置：* 无<br>
