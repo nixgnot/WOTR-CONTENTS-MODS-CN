@@ -24,21 +24,21 @@
   - [SparsSorcerousSundries](#SparsSorcerousSundries) SSS扩展 :star::star:
   - [TomeOfTheFirebird](#TomeOfTheFirebird) TOTF扩展 :star::star::star:
   - [HomebrewArchetypes](#HomebrewArchetypes) Homebrew(村规)变体 :star::star::star:
-  - [ExpandedContent2022](#ExpandedContent2022) 扩展内容2022 :star::star:
+  - [ExpandedContent2022](#ExpandedContent2022) 扩展内容2022 :star:
   - [ToggleableThrowingWeapons](#ToggleableThrowingWeapons) 可切换投掷武器 :star::star::star:
   - [MorvarchsPlaystyleExpansions](#MorvarchsPlaystyleExpansions) Morvarchs玩法扩展 :star::star::star:
-  - [PhoenixsCantrips](#PhoenixsCantrips) Phoenixs戏法强化 
-    - [MoreCantrips](#MoreCantrips) 更多戏法
+  - [PhoenixsCantrips](#PhoenixsCantrips) Phoenixs戏法强化 :star:
+    - [MoreCantrips](#MoreCantrips) 更多戏法 
   - [CharacterOptionsPlus](#CharacterOptionsPlus) 角色选项+ :star::star::star:
   - [DarkCodex](#DarkCodex) DarkCodex扩展和修复 :star::star::star: :exclamation:
-  - [AddedFeats](#AddedFeats) 新增专长
+  - [AddedFeats](#AddedFeats) 新增专长 :star::star:
   - [BetterBackgrounds](#BetterBackgrounds) 更多背景 :star::star:
   - [MartialExcellence](#MartialExcellence) 杰出武艺:star::star:
   - [MediumClass](#MediumClass) 通灵者职业
   - [MysticalMayhem](#MysticalMayhem) 神秘骚乱:star::star::star:
   - [MythicArcanist](#MythicArcanist) 神话秘术:star::star::star: 
   - [ChampionFeatsAnew](#ChampionFeatsAnew) 冠军专长 
-  - [KineticistElementsExpanded](#KineticistElementsExpanded) 操念元素扩展 
+  - [KineticistElementsExpanded](#KineticistElementsExpanded) 操念元素扩展 :star:
   - [Madison'sMetagaming](#sMetagaming) Madison的超级游戏
   - [NinjaClass](#NinjaClass) 忍者职业
   - [BrawlerClass](#BrawlerClass)  拳师职业
@@ -72,6 +72,7 @@
 ### ModFinder工具
 + ModFinder是一个非必需的第三方工具，可以便捷的管理正义之怒MOD，检查MOD更新情况（包括在Github和Nexus更新的MOD），快速下载和安装（可以替代部分UMM功能）
 + ModFinder可以在[这里](https://github.com/Pathfinder-WOTR-Modding-Community/ModFinder)下载。
++ [汉化分支地址](https://github.com/magicskysword/ModFinder_CN)
 + ModFinder为绿色工具，可以在任何路径打开（但是最好不要用中文路径），会自动识别正义之怒的安装位置。
 + ModFinder在启动时可能会出现弹框错误，发生此种情况多半是Github访问失败的导致的，请参照下一节解决。
 
@@ -2574,6 +2575,7 @@ Metamagic Master 超魔主宰：同上<br>Fate’s Favored 命运眷顾：所有
       <tr><td>Atavism</td><td>
       原始野性：动物获得进化模板</td></tr>
  </table>
+ 
 ------------------------------------------- 
 ### [BetterBackgrounds](https://www.nexusmods.com/pathfinderwrathoftherighteous/mods/205)
 > *前置：* 无<br>
