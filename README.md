@@ -1938,8 +1938,8 @@
     <td>:x:</td>
     <td>:x:</td></tr>
 <tr><td>General.CreateBackgrounds</td>
-    <td><b>新增专长：</b>Additional Traits 附加背景<br>新增背景：<br>Magical Lineage 魔法裔,指定一个法术。当你超魔施展该法术时，其最终占用的法术环位视为比正常状况降低1级<br>
-Metamagic Master 超魔主宰：同上<br>Fate’s Favored 命运眷顾：所有幸运加值额外+1</td>
+    <td><b>新增专长：</b>Additional Traits 附加背景<br>新增背景：<br>Magical Lineage 魔法裔,指定一个法术。当你超魔施展该法术时，其最终占用的法术环位视为比正常状况降低1级，cl+2（但是不会超过当前HD）<br>
+Metamagic Master 超魔主宰：指定一个法术。当你超魔施展该法术时，其最终占用的法术环位视为比正常状况降低2级<br>Fate’s Favored 命运眷顾：所有幸运加值额外+1</td>
     <td>:x:</td>
     <td>:heavy_check_mark:</td></tr>
 <tr><td>General.CreateBardStopSong</td>
