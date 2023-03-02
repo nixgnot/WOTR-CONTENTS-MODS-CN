@@ -2649,74 +2649,76 @@ C:\Users\你的用户名\AppData\LocalLow\Owlcat Games\Pathfinder Wrath Of The R
 > *新增内容：* 变体，专长，神话能力，法术等<br>
 + 增加了新内容，**自带中文！**推荐
 <table>
-<tr><th colspan="3">新增内容列表</th></tr> 
+<tr><th colspan="4">新增内容列表</th></tr> 
 <tr><td>类别</td>
        <td>选项</td>
+       <td>名称</td>
        <td>描述</td>
        <td>村规</td></tr>
 <tr><td rowspan="4">变体<br>Archetype</td>
-	<td>Flagellant</td>
-		<td>A cleric archetype designed by Kobold Press.<br>Can get bonuses to DC and CL by sacrificing health. Very powerful with the right domains for a casting-focused cleric.</td>
+	<td>苦修者</td><td>Flagellant</td>
+		<td>牧师变体，对自己造成伤害来获得CL或DC加成，适合施法者构建</td>
 		<td>:heavy_check_mark:</td></tr>
-	<tr><td>Pact Wizard</td>
-		<td>Haunted Heroes Handbook version. A wizard who trades bonus feats for a witch patron, an oracle curse and other goodies.</td>
+	<tr><td>密契法师</td><td>Pact Wizard</td>
+		<td>法师变体，失去奖励专长获得巫师庇护主和先知诅咒等能力</td>
 		<td>:x:</td></tr>
-	<tr><td>Razmiran Priest</td>
-		<td>Not the prestige class but the sorcerer archetype. Loses a few bloodline spells and one bloodline power in exchange for infinite scrolls and wands as long as you have enough spells per day to cover them.<br>Slightly nerfed from their tabletop equivalent as their abilities only work with spells on the cleric list instead of all divine spells. Still very overpowered but you have to live with the shame of worshipping a level 19 wizard who has to beg Tar-Baphon to leave him alone.</td>
+	<tr><td>拉兹密安牧师</td><td>Razmiran Priest</td>
+		<td>非进阶职业，术士变体，失去部分血承能力换取消耗法术位来无限使用特定的魔杖和卷轴的能力</td>
 		<td>:x:</td></tr>
-	<tr><td>Warsighted</td>
-		<td>A more fighter-y oracle archetype who loses revelations in favor of fighter bonus feats.</td>
+	<tr><td>千军武神</td><td>Warsighted</td>
+		<td>先知变体，获得额外战斗专长但是失去启示。</td>
 		<td>:x:</td></tr>
 <tr><td rowspan="5">专长<br>Feat</td>
-	<td>Acadamae Graduate</td>
-		<td>Cast full-round summoning spells as standard actions but with a Fortitude save to avoid being fatigued.</td>
+	<td>魔学院毕业生</td><td>Acadamae Graduate</td>
+		<td>当你施放一个当天已准备的具有召唤描述符的咒法系奥术法术时，将施法时间由整轮动作缩短为标准动作。以这种方式施放一个法术十分费力，你需要通过一个强韧豁免(DC 15 +法术等级)来避免陷入1分钟的疲劳。如果你已经疲劳，则施法时间不会减少</td>
 		<td>:x:</td></tr>
-	<tr><td>Earth Magic</td>
-		<td>+1 CL when on your favorite terrain.</td>
+	<tr><td>大地魔法</td><td>Earth Magic</td>
+		<td>当你处于你偏好的地形时，你的有效施法者等级提高1级</td>
 		<td>:x:</td></tr>
-	<tr><td>Purity of Sin</td>
-		<td>Thassilonian Specialist only. +2 CL for the school of magic associated with the sin.<br>Becomes an arcane discovery if Tabletop Tweaks Base is installed.</td>
+	<tr><td>纯粹之罪<sup>注</sup></td><td>Purity of Sin</td>
+		<td>当你施放属于你的塔西伦专精学派的法术时，你在施法者等级上获得+2加值</td>
 		<td>:heavy_check_mark:</td></tr>
-	<tr><td>School Expertise</td>
-		<td>Arcane school powers can be used 3 additional times. Can be taken multiple times.<br>Becomes an arcane discovery if Tabletop Tweaks Base is installed.</td>
+	<tr><td>学派专擅<sup>注</sup></td><td>School Expertise</td>
+		<td>你的专精学派能力获得额外3次使用次数。你可以多次选取这项发现</td>
 	       <td>:heavy_check_mark:</td></tr>
-	<tr><td>Staff-like Wand</td>
-		<td>Calculate wands CL and DC with the wizard's caster level and stats.<br>Becomes an arcane discovery if Tabletop Tweaks Base is installed.</td>
+	<tr><td>类权杖魔杖<sup>注</sup></td><td>Staff-like Wand</td>
+		<td>你的研究解锁了一种与魔杖结合的新力量。你通过魔杖施放的法术的DC使用你自己的智力和相关专长调整值，如果你的施法者等级高于魔杖的施法者等级，你可以在激活魔杖的力量时使用你的施法者等级</td>
 		<td>:x:</td></tr>
 <tr><td rowspan="2">魔战士奥秘<br>Magus Arcana</td>
-	<td>Circle of Order</td>
-		<td>Adds half the magus level to AC against Chaotic enemies for 1 round.</td>
+	<td>秩序之环</td><td>Circle of Order</td>
+		<td>以一个迅捷动作，魔战士可以从他的奥法池中消耗1点来增强对混乱攻击的防御。在对抗混乱攻击和效果，以及混乱类型的敌人时，AC获得等同于他魔战士等级的一半的闪避加值(在第20级时最高+10)，持续到他的下一回合开始</td>
 		<td>:x:</td></tr>
-	<tr><td>Malice</td>
-		<td>Originally designed by Rite Publishing.<br>The hexcrafter's attacks deal an additional 2d6 unholy damage to targets under the effect of their hexes.</td>
+	<tr><td>恶意</td><td>Malice</td>
+		<td>巫战士专用，他的近战攻击对任何正在受其巫术影响的敌人额外造成2d6点污邪伤害</td>
 		<td>:heavy_check_mark:</td></tr>
 <tr><td rowspan="2">神话能力<br>Mythic Ability</td>
-	<td>Abundant Spell Synthesis</td>
-		<td>Spell Synthesis can be used one extra time per 3 mythic ranks. This ability can't be taken before rank 3 so it's basically 3 extra uses at rank 9.</td>
+	<td>充裕双法合璧</td><td>Abundant Spell Synthesis</td>
+		<td>每有三个神话阶层，你可以额外使用一次双法合璧能力</td>
 		<td>:heavy_check_mark:</td></tr>
-	<tr><td>Material Freedom</td>
-		<td>Can ignore a specific material spell component (Diamond, Jade, etc...).</td>
+	<tr><td>材料自由</td><td>Material Freedom</td>
+		<td>选择一种特定的材料成分：你可以在不持有此材料成分的情况下施放某个通常需要它的法术。你可以多次选取这项能力</td>
 		<td>:heavy_check_mark:</td></tr>
 <tr><td rowspan="1">神话专长<br>Mythic Feat</td>
 	<td>Purity of Sin (Mythic)</td>
 		<td>Purity of Sin also grants +2 bonus to DC.</td>
 		<td>:heavy_check_mark:</td></tr>
 <tr><td rowspan="2">职业特性<br>Class Feature</td>
-	<td>Spell Synthesis</td>
+	<td>双法合璧</td><td>Spell Synthesis</td>
 		<td>Add the Mystic Theurge's capstone.</td>
 		<td>:x:</td></tr>
-	<tr><td>Manifestations</td>
-		<td>Add the capstones to Shaman spirits. They have been adapted to the game the same way Owlcat adapted the final revelations for Oracle mysteries (they're virtually identical).</td>
+	<tr><td>显圣</td><td>Manifestations</td>
+		<td>加入萨满精魂巅峰，类似先知最终启示效果</td>
 		<td>:x:</td></tr>
 <tr><td rowspan="2">法术<br>Spell</td>
-	<td>Meteor Swarm</td>
-		<td>Add the level 9 Wizard spell Meteor Swarm.<br>It's quite simplified from its TT version because having to pick 4 targets every time you cast it would be annoying. It now simply deals 28d6 fire damage in an area (to counterbalance the fact the save penalty after the touch attack doesn't exist anymore). Might need a balance pass.</td>
+	<td>流星爆</td><td>Meteor Swarm</td>
+		<td>流星爆是一个强力且壮观的法术，当你施放此法术时，四颗炽热的流星将坠落在你选定的区域，一旦它们到达地面就会爆炸，对该区域的所有生物造成28d6点火焰伤害</td>
 		<td>:x:</td></tr>
-	<tr><td>Baldur's Gate Stoneskin</td>
-		<td>**Disabled by default!**<br>Change Stoneskin to be closer to its [Baldur's Gate incarnation](https://baldursgate.fandom.com/wiki/Stoneskin).</td>
+	<tr><td>石肤（博德之门）</td><td>Baldur's Gate Stoneskin</td>
+		<td><b>默认未开启</b><br>改变石肤法术，使其更接近[博德之门中的版本](https://baldursgate.fandom.com/wiki/Stoneskin)<br>此法术创造一层完全覆盖施法者的石制外壳。石肤当然是魔法的，不会妨碍到施法者。它可以抵御物理攻击，如近战武器和炮弹。施法者等级每提高2级，施法时会获得额外的石肤层数(到第20级时最多可获得10层石肤)。施法者每拥有一层石肤，该法术将抵御一次攻击。如果所有石肤都被移除，法术就会消散。需要注意的是，这并不能保护施法者免受任何能量或力场攻击</td>
 		<td>:heavy_check_mark:</td></tr>
 </table>
-  
+注：如果同时安装了TTT，会成为奥术发现中的一种 
+ 
 ------------------------------------------- 
 ### [MythicArcanist](https://github.com/Llisandur/MythicArcanist)
 > *前置：* 无<br>
