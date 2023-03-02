@@ -63,7 +63,7 @@
 	    {"Key": "MinerFeature_Description",
 	    "Value": "矿工将{g|Encyclopedia:Athletics}运动{/g}加入本职{g|Encyclopedia:Skills}技能{/g}列表。她还会擅长 轻十字镐、重十字镐，并且强韧{g|Encyclopedia:Saving_Throw}豁免检定{/g}获得+1{g|Encyclopedia:Bonus}加值{/g}。\n如果角色已在角色创建过程中，通过职业获取了上述本职技能，{g|Encyclopedia:Weapon_Proficiency}武器擅长{/g}或防具擅长，则背景提供的相应{g|Encyclopedia:Bonus}加值{/g}改为相关技能上的+1表现加值，相关武器上的+1特性加值，相关防具上的防具{g|Encyclopedia:Check}检定{/g}{g|Encyclopedia:Penalty}减值{/g}-1。"},
 	    {"Key": "MuggerFeature_Description",
-	    "Value": "Mugger将{g|Encyclopedia:Trickery}巧手{/g}和{g|Encyclopedia:Persuasion}沟通{/g}加入本职{g|Encyclopedia:Skills}技能{/g}列表。她还会擅长她还会擅长匕首、拳匕和反曲刀。\n如果角色已在角色创建过程中，通过职业获取了上述本职技能，{g|Encyclopedia:Weapon_Proficiency}武器擅长{/g}或防具擅长，则背景提供的相应{g|Encyclopedia:Bonus}加值{/g}改为相关技能上的+1表现加值，相关武器上的+1特性加值，相关防具上的防具{g|Encyclopedia:Check}检定{/g}{g|Encyclopedia:Penalty}减值{/g}-1。"},
+	    "Value": "劫匪将{g|Encyclopedia:Trickery}巧手{/g}和{g|Encyclopedia:Persuasion}沟通{/g}加入本职{g|Encyclopedia:Skills}技能{/g}列表。她还会擅长她还会擅长匕首、拳匕和反曲刀。\n如果角色已在角色创建过程中，通过职业获取了上述本职技能，{g|Encyclopedia:Weapon_Proficiency}武器擅长{/g}或防具擅长，则背景提供的相应{g|Encyclopedia:Bonus}加值{/g}改为相关技能上的+1表现加值，相关武器上的+1特性加值，相关防具上的防具{g|Encyclopedia:Check}检定{/g}{g|Encyclopedia:Penalty}减值{/g}-1。"},
 	    {"Key": "MwangianHunter_Description",
 	    "Value": "莽迹猎人将{g|Encyclopedia:Lore_Nature}学识（自然）{/g}和{g|Encyclopedia:Stealth}隐匿{/g}加入本职{g|Encyclopedia:Skills}技能{/g}列表。她还会擅长飞镖、飞斧、投石锁和标枪。此外，莽迹猎人在用所有投掷武器造成的{g|Encyclopedia:Damage}伤害{/g}上获得+1{g|Encyclopedia:Bonus}加值{/g}。\n如果角色已在角色创建过程中，通过职业获取了上述本职技能，{g|Encyclopedia:Weapon_Proficiency}武器擅长{/g}或防具擅长，则背景提供的相应{g|Encyclopedia:Bonus}加值{/g}改为相关技能上的+1表现加值，相关武器上的+1特性加值，相关防具上的防具{g|Encyclopedia:Check}检定{/g}{g|Encyclopedia:Penalty}减值{/g}-1。"},
 	    {"Key": "NexianScholar_Description",
