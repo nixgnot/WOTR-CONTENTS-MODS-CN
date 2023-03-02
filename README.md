@@ -2699,8 +2699,8 @@ C:\Users\你的用户名\AppData\LocalLow\Owlcat Games\Pathfinder Wrath Of The R
 		<td>选择一种特定的材料成分：你可以在不持有此材料成分的情况下施放某个通常需要它的法术。你可以多次选取这项能力</td>
 		<td>:heavy_check_mark:</td></tr>
 <tr><td rowspan="1">神话专长<br>Mythic Feat</td>
-	<td>Purity of Sin (Mythic)</td>
-		<td>Purity of Sin also grants +2 bonus to DC.</td>
+	<td>纯粹之罪（神话）</td><td>Purity of Sin (Mythic)</td>
+		<td>纯粹之罪的额外加值现在也适用于法术的DC</td>
 		<td>:heavy_check_mark:</td></tr>
 <tr><td rowspan="2">职业特性<br>Class Feature</td>
 	<td>双法合璧</td><td>Spell Synthesis</td>
