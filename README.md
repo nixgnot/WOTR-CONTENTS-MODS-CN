@@ -2583,8 +2583,15 @@ Metamagic Master 超魔主宰：指定一个法术。当你超魔施展该法术
 > *安装方式：* **非UMM**<br>
 > *修改内容：* <br>
 > *新增内容：* 人物背景<br>
-+ 增加大量背景，有不少滥强的，非UMM安装
-    
++ 修改了大量原版背景，还加入几个新背景，有滥强，非UMM安装
++ 本处提供汉化。请查阅安装说明，或用modfinder安装，然后把汉化放进
+C:\Users\你的用户名\AppData\LocalLow\Owlcat Games\Pathfinder Wrath Of The Righteous\Modifications\BetterBackgrounds\Localization
+<table>
+   <tr><th colspan="2">新增内容列表<br></th></tr> 
+   <td>新增背景</td><td>奥法技工<br>骑士<br>终焉之墙骑士团<br>天寻者<br>星球行者<br>神殿武士<br>天狗门徒</tr><tr> 
+   <td>原背景</td><td>对大量原背景进行了修改，包括新特性和擅长武器等<br>背景提供的武器擅长在你已有相应擅长时变为特征加值</td>
+</table>
+  
 ------------------------------------------- 
 ### [MartialExcellence](https://github.com/Envibel/MartialExcellence)
 > *前置：* 无<br>
