@@ -2647,7 +2647,7 @@ C:\Users\你的用户名\AppData\LocalLow\Owlcat Games\Pathfinder Wrath Of The R
 > *安装方式：* **非UMM**<br>
 > *修改内容：* <br>
 > *新增内容：* 变体，专长，神话能力，法术等<br>
-+ 增加了新内容，**自带中文！**推荐
++ 增加了新内容， **自带中文！** 推荐
 <table>
 <tr><th colspan="4">新增内容列表</th></tr> 
 <tr><td>类别</td>
@@ -2725,7 +2725,7 @@ C:\Users\你的用户名\AppData\LocalLow\Owlcat Games\Pathfinder Wrath Of The R
 > *安装方式：* **非UMM**<br>
 > *修改内容：* <br>
 > *新增内容：* 变体，专长，神话能力，法术等<br>
-+ 增加了新内容，**自带中文！**推荐
++ 增加了新内容， **自带中文！** 推荐
   
 <table>
 <tr><th colspan="3">新增内容列表</th></tr> 
