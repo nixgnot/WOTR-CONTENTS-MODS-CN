@@ -2649,71 +2649,70 @@ C:\Users\你的用户名\AppData\LocalLow\Owlcat Games\Pathfinder Wrath Of The R
 > *新增内容：* 变体，专长，神话能力，法术等<br>
 + 增加了新内容，**自带中文！**推荐
 <table>
-<tr><th colspan="5">新增内容列表</th></tr> 
+<tr><th colspan="4">新增内容列表</th></tr> 
 <tr><td>类别</td>
        <td>选项</td>
-       <td>名称</td>
        <td>描述</td>
        <td>村规</td></tr>
 <tr><td rowspan="4">变体<br>Archetype</td>
-	<td>苦修者</td><td>Flagellant</td>
+	<td>苦修者<br>Flagellant</td>
 		<td>牧师变体，对自己造成伤害来获得CL或DC加成，适合施法者构建</td>
 		<td>:heavy_check_mark:</td></tr>
-	<tr><td>密契法师</td><td>Pact Wizard</td>
+	<tr><td>密契法师<br>Pact Wizard</td>
 		<td>法师变体，失去奖励专长获得巫师庇护主和先知诅咒等能力</td>
 		<td>:x:</td></tr>
-	<tr><td>拉兹密安牧师</td><td>Razmiran Priest</td>
+	<tr><td>拉兹密安牧师<br>Razmiran Priest</td>
 		<td>非进阶职业，术士变体，失去部分血承能力换取消耗法术位来无限使用特定的魔杖和卷轴的能力</td>
 		<td>:x:</td></tr>
-	<tr><td>千军武神</td><td>Warsighted</td>
+	<tr><td>千军武神<br>Warsighted</td>
 		<td>先知变体，获得额外战斗专长但是失去启示。</td>
 		<td>:x:</td></tr>
 <tr><td rowspan="5">专长<br>Feat</td>
-	<td>魔学院毕业生</td><td>Acadamae Graduate</td>
+	<td>魔学院毕业生<br>Acadamae Graduate</td>
 		<td>当你施放一个当天已准备的具有召唤描述符的咒法系奥术法术时，将施法时间由整轮动作缩短为标准动作</td>
 		<td>:x:</td></tr>
-	<tr><td>大地魔法</td><td>Earth Magic</td>
+	<tr><td>大地魔法<br>Earth Magic</td>
 		<td>当你处于你偏好的地形时，你的有效施法者等级提高1级</td>
 		<td>:x:</td></tr>
-	<tr><td>纯粹之罪<sup>注</sup></td><td>Purity of Sin</td>
+	<tr><td>纯粹之罪<sup>注</sup><br>Purity of Sin</td>
 		<td>当你施放属于你的塔西伦专精学派的法术时，你在施法者等级上获得+2加值</td>
 		<td>:heavy_check_mark:</td></tr>
-	<tr><td>学派专擅<sup>注</sup></td><td>School Expertise</td>
+	<tr><td>学派专擅<sup>注</sup><br>School Expertise</td>
 		<td>你的专精学派能力获得额外3次使用次数。你可以多次选取这项发现</td>
 	       <td>:heavy_check_mark:</td></tr>
-	<tr><td>类权杖魔杖<sup>注</sup></td><td>Staff-like Wand</td>
+	<tr><td>类权杖魔杖<sup>注</sup><br>Staff-like Wand</td>
 		<td>你通过魔杖施放的法术的DC使用你自己的智力、相关专长调整值、施法者等级</td>
 		<td>:x:</td></tr>
 <tr><td rowspan="2">魔战士奥秘<br>Magus Arcana</td>
-	<td>秩序之环</td><td>Circle of Order</td>
+	<td>秩序之环<br>Circle of Order</td>
 		<td>以一个迅捷动作，消耗奥法池。在对抗混乱敌人时，AC获得等同于他魔战士等级的一半的闪避加值</td>
 		<td>:x:</td></tr>
-	<tr><td>恶意</td><td>Malice</td>
+	<tr><td>恶意<br>Malice</td>
 		<td>巫战士专用，近战攻击对任何正在受其巫术影响的敌人额外造成2d6点污邪伤害</td>
 		<td>:heavy_check_mark:</td></tr>
 <tr><td rowspan="2">神话能力<br>Mythic Ability</td>
-	<td>充裕双法合璧</td><td>Abundant Spell Synthesis</td>
+	<td>充裕双法合璧<br>Abundant Spell Synthesis</td>
 		<td>每有三个神话阶层，你可以额外使用一次双法合璧能力</td>
 		<td>:heavy_check_mark:</td></tr>
-	<tr><td>材料自由</td><td>Material Freedom</td>
+	<tr><td>材料自由<br>Material Freedom</td>
 		<td>选择一种特定的材料成分：你可以在不持有此材料成分的情况下施放某个通常需要它的法术</td>
 		<td>:heavy_check_mark:</td></tr>
 <tr><td rowspan="1">神话专长<br>Mythic Feat</td>
-	<td>纯粹之罪（神话）</td><td>Purity of Sin (Mythic)</td>
+	<td>纯粹之罪（神话）<br>Purity of Sin (Mythic)</td>
 		<td>纯粹之罪的额外加值现在也适用于法术的DC</td>
 		<td>:heavy_check_mark:</td></tr>
 <tr><td rowspan="2">职业特性<br>Class Feature</td>
-	<td>双法合璧</td><td>Spell Synthesis</td>
+	<td>双法合璧<br>Spell Synthesis</td>
 		<td>添加秘术师巅峰，10级时，秘术师可以使用一个动作施放两个法术</td>
 		<td>:x:</td></tr>
-	<tr><td>显圣</td><td>Manifestations</td>
+	<tr><td>显圣<br>Manifestations</td>
 		<td>添加萨满精魂巅峰，类似先知最终启示效果</td>
 		<td>:x:</td></tr>
 <tr><td rowspan="2">法术<br>Spell</td>
-	<td>流星爆</td><td>Meteor Swarm</td>
+	<td>流星爆<br>Meteor Swarm</td>
 		<td>流星爆是一个强力且壮观的法术，当你施放此法术时，四颗炽热的流星将坠落在你选定的区域，一旦它们到达地面就会爆炸，对该区域的所有生物造成28d6点火焰伤害</td>
 		<td>:x:</td></tr>
-	<tr><td>石肤（博德之门）</td><td>Baldur's Gate Stoneskin</td>
+	<tr><td>石肤（博德之门）<br>Baldur's Gate Stoneskin</td>
 		<td><b>默认未开启</b><br>改变石肤法术，使其更接近[博德之门中的版本](https://baldursgate.fandom.com/wiki/Stoneskin)<br>此法术创造一层完全覆盖施法者的石制外壳。石肤当然是魔法的，不会妨碍到施法者。它可以抵御物理攻击，如近战武器和炮弹。施法者等级每提高2级，施法时会获得额外的石肤层数(到第20级时最多可获得10层石肤)。施法者每拥有一层石肤，该法术将抵御一次攻击。如果所有石肤都被移除，法术就会消散。需要注意的是，这并不能保护施法者免受任何能量或力场攻击</td>
 		<td>:heavy_check_mark:</td></tr>
 </table>
