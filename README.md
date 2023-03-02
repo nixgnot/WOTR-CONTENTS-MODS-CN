@@ -2602,7 +2602,7 @@ C:\Users\你的用户名\AppData\LocalLow\Owlcat Games\Pathfinder Wrath Of The R
 + 小型内容Mod，持续开发中
 
 <table>
-   <tr><th colspan="3">新增内容列表<br></th></tr> 
+   <tr><th colspan="3">新增内容列表</th></tr> 
    <td>种族</td>
           <td>Skinwalker</td>
           <td>兽态人<br>包含亚种Classic 典型、Ragebred 怒孽、Bloodmarked 血印、Coldborn 冷嗣、Scaleheart 鳞心、Nightskulk 夜隐、Seascarred 海疤、Fanglord 牙王、Witchwolf 巫狼、Aerieborn 鹰裔<br><i>参阅PF文档</i></td></tr>
@@ -2648,6 +2648,74 @@ C:\Users\你的用户名\AppData\LocalLow\Owlcat Games\Pathfinder Wrath Of The R
 > *修改内容：* <br>
 > *新增内容：* 变体，专长，神话能力，法术等<br>
 + 增加了新内容，**自带中文！**推荐
+<table>
+<tr><th colspan="3">新增内容列表</th></tr> 
+<tr><td>类别</td>
+       <td>选项</td>
+       <td>描述</td>
+       <td>村规</td></tr>
+<tr><td rowspan="4">变体<br>Archetype</td>
+	<td>Flagellant</td>
+		<td>A cleric archetype designed by Kobold Press.<br>Can get bonuses to DC and CL by sacrificing health. Very powerful with the right domains for a casting-focused cleric.</td>
+		<td>:heavy_check_mark:</td></tr>
+	<tr><td>Pact Wizard</td>
+		<td>Haunted Heroes Handbook version. A wizard who trades bonus feats for a witch patron, an oracle curse and other goodies.</td>
+		<td>:x:</td></tr>
+	<tr><td>Razmiran Priest</td>
+		<td>Not the prestige class but the sorcerer archetype. Loses a few bloodline spells and one bloodline power in exchange for infinite scrolls and wands as long as you have enough spells per day to cover them.<br>Slightly nerfed from their tabletop equivalent as their abilities only work with spells on the cleric list instead of all divine spells. Still very overpowered but you have to live with the shame of worshipping a level 19 wizard who has to beg Tar-Baphon to leave him alone.</td>
+		<td>:x:</td></tr>
+	<tr><td>Warsighted</td>
+		<td>A more fighter-y oracle archetype who loses revelations in favor of fighter bonus feats.</td>
+		<td>:x:</td></tr>
+<tr><td rowspan="5">专长<br>Feat</td>
+	<td>Acadamae Graduate</td>
+		<td>Cast full-round summoning spells as standard actions but with a Fortitude save to avoid being fatigued.</td>
+		<td>:x:</td></tr>
+	<tr><td>Earth Magic</td>
+		<td>+1 CL when on your favorite terrain.</td>
+		<td>:x:</td></tr>
+	<tr><td>Purity of Sin</td>
+		<td>Thassilonian Specialist only. +2 CL for the school of magic associated with the sin.<br>Becomes an arcane discovery if Tabletop Tweaks Base is installed.</td>
+		<td>:heavy_check_mark:</td></tr>
+	<tr><td>School Expertise</td>
+		<td>Arcane school powers can be used 3 additional times. Can be taken multiple times.<br>Becomes an arcane discovery if Tabletop Tweaks Base is installed.</td>
+	       <td>:heavy_check_mark:</td></tr>
+	<tr><td>Staff-like Wand</td>
+		<td>Calculate wands CL and DC with the wizard's caster level and stats.<br>Becomes an arcane discovery if Tabletop Tweaks Base is installed.</td>
+		<td>:x:</td></tr>
+<tr><td rowspan="2">魔战士奥秘<br>Magus Arcana</td>
+	<td>Circle of Order</td>
+		<td>Adds half the magus level to AC against Chaotic enemies for 1 round.</td>
+		<td>:x:</td></tr>
+	<tr><td>Malice</td>
+		<td>Originally designed by Rite Publishing.<br>The hexcrafter's attacks deal an additional 2d6 unholy damage to targets under the effect of their hexes.</td>
+		<td>:heavy_check_mark:</td></tr>
+<tr><td rowspan="2">神话能力<br>Mythic Ability</td>
+	<td>Abundant Spell Synthesis</td>
+		<td>Spell Synthesis can be used one extra time per 3 mythic ranks. This ability can't be taken before rank 3 so it's basically 3 extra uses at rank 9.</td>
+		<td>:heavy_check_mark:</td></tr>
+	<tr><td>Material Freedom</td>
+		<td>Can ignore a specific material spell component (Diamond, Jade, etc...).</td>
+		<td>:heavy_check_mark:</td></tr>
+<tr><td rowspan="1">神话专长<br>Mythic Feat</td>
+	<td>Purity of Sin (Mythic)</td>
+		<td>Purity of Sin also grants +2 bonus to DC.</td>
+		<td>:heavy_check_mark:</td></tr>
+<tr><td rowspan="2">职业特性<br>Class Feature</td>
+	<td>Spell Synthesis</td>
+		<td>Add the Mystic Theurge's capstone.</td>
+		<td>:x:</td></tr>
+	<tr><td>Manifestations</td>
+		<td>Add the capstones to Shaman spirits. They have been adapted to the game the same way Owlcat adapted the final revelations for Oracle mysteries (they're virtually identical).</td>
+		<td>:x:</td></tr>
+<tr><td rowspan="2">法术<br>Spell</td>
+	<td>Meteor Swarm</td>
+		<td>Add the level 9 Wizard spell Meteor Swarm.<br>It's quite simplified from its TT version because having to pick 4 targets every time you cast it would be annoying. It now simply deals 28d6 fire damage in an area (to counterbalance the fact the save penalty after the touch attack doesn't exist anymore). Might need a balance pass.</td>
+		<td>:x:</td></tr>
+	<tr><td>Baldur's Gate Stoneskin</td>
+		<td>**Disabled by default!**<br>Change Stoneskin to be closer to its [Baldur's Gate incarnation](https://baldursgate.fandom.com/wiki/Stoneskin).</td>
+		<td>:heavy_check_mark:</td></tr>
+</table>
   
 ------------------------------------------- 
 ### [MythicArcanist](https://github.com/Llisandur/MythicArcanist)
