@@ -2606,7 +2606,7 @@ C:\Users\你的用户名\AppData\LocalLow\Owlcat Games\Pathfinder Wrath Of The R
    <td>种族</td>
           <td>Skinwalker</td>
           <td>兽态人<br>包含亚种Classic 典型、Ragebred 怒孽、Bloodmarked 血印、Coldborn 冷嗣、Scaleheart 鳞心、Nightskulk 夜隐、Seascarred 海疤、Fanglord 牙王、Witchwolf 巫狼、Aerieborn 鹰裔<br><i>参阅PF文档</i><td></tr>
-   <tr rowspan="7"><td>专长</td>
+   <tr><td rowspan="7">专长</td>
           <td>Dazing Assault</td><td>
              晕眩强袭：降低5AB为代价攻击造成敌人眩晕，DC=10+BAB</td></tr>
           <tr><td>Stunning Assault</td><td>
@@ -2621,12 +2621,12 @@ C:\Users\你的用户名\AppData\LocalLow\Owlcat Games\Pathfinder Wrath Of The R
              勇猛之手：1天1次，使用圣疗时可以灌输友军，使其在攻击鉴定和对抗恐惧的豁免检定上获得等于你魅力修正的崇圣加值，持续1分钟</td></tr>
           <tr><td>Extra Feature</td><td>
              额外特性：兽态人使用自带改变形态时，可以选择额外一种获得的特性</td></tr>
-    <tr rowspan="2"><td>狂暴之力</td>
+    <tr><td rowspan="2">狂暴之力</td>
          <tr><td>Come and Get Me!</td><td>
              反击态势：直到野蛮人的下一回合之前，敌人对他的攻击检定和伤害检定+4，但是敌人对他的每次攻击之前都会引起野蛮人的借机攻击</td></tr>
          <tr><td>Unrestrained Rage</td><td>
              无尽狂怒：（有修改）狂暴时免疫麻痹</td></tr>
-     <tr rowspan="1"><td>背景</td>
+     <tr><td>背景</td>
          <tr><td>Jungle Explorer</td><td>
              丛林探索者：（村规原创）+1强韧豁免，运动和灵巧成为本职技能，擅长反曲刀</td></tr>   
 </table>
