@@ -2733,7 +2733,7 @@ C:\Users\你的用户名\AppData\LocalLow\Owlcat Games\Pathfinder Wrath Of The R
 <tr><td rowspan="1">变体</td>
     <td>Two-Weapon Warrior</td>
         <td>Fighter archetype that specializes in dual-wielding</td></tr>
-<tr><td rowspan="4">职业特性</td>    
+<tr><td rowspan="2">职业特性</td>    
     <td>Loremaster Secret - Paladin Spell Selection (Homebrew)</td>
         <td>Added paladin spells to the list of selections.</td></tr>
     <tr><td>Arcanist Exploit - Martial Training / Martial Training, Greater</td>
@@ -2749,7 +2749,7 @@ C:\Users\你的用户名\AppData\LocalLow\Owlcat Games\Pathfinder Wrath Of The R
         <td>Even higher level magic missile that deals more damage and has no limit on the number of missiles.</td></tr>
     <tr><td>Shield II (3PP)</td>    
         <td>A higher level version of the shield spell that lasts longer.</td></tr>
-<tr><td rowspan="4">神话能力</td>    
+<tr><td rowspan="3">神话能力</td>    
    <td>Abundant Preparation (Homebrew)</td>
         <td>Similar to Abundant Casting, Abundant Preparation adds an additional four spell preparation slots to 1st, 2nd, and 3rd spell levels for an arcanist.</td></tr>
    <tr><td>Improved Abundant Preparation (Homebrew)</td>
