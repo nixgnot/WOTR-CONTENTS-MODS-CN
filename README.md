@@ -2681,7 +2681,7 @@ C:\Users\你的用户名\AppData\LocalLow\Owlcat Games\Pathfinder Wrath Of The R
 		<td>你的专精学派能力获得额外3次使用次数。你可以多次选取这项发现</td>
 	       <td>:heavy_check_mark:</td></tr>
 	<tr><td>类权杖魔杖<sup>注</sup><br>Staff-like Wand</td>
-		<td>你通过魔杖施放的法术的DC使用你自己的智力、相关专长调整值、施法者等级</td>
+		<td>你通过魔杖施放的法术的DC使用你自己的智力和相关专长调整值，使用你的施法者等级</td>
 		<td>:x:</td></tr>
 <tr><td rowspan="2">魔战士奥秘<br>Magus Arcana</td>
 	<td>秩序之环<br>Circle of Order</td>
@@ -2726,6 +2726,37 @@ C:\Users\你的用户名\AppData\LocalLow\Owlcat Games\Pathfinder Wrath Of The R
 > *修改内容：* <br>
 > *新增内容：* 变体，专长，神话能力，法术等<br>
 + 增加了新内容，**自带中文！**推荐
+  
+<table>
+<tr><th colspan="3">新增内容列表</th></tr> 
+
+<tr><td rowspan="1">变体</td>
+    <td>Two-Weapon Warrior</td>
+        <td>Fighter archetype that specializes in dual-wielding</td></tr>
+<tr><td rowspan="4">职业特性</td>    
+    <td>Loremaster Secret - Paladin Spell Selection (Homebrew)</td>
+        <td>Added paladin spells to the list of selections.</td></tr>
+    <tr><td>Arcanist Exploit - Martial Training / Martial Training, Greater</td>
+        <td>Spend exploit selections to gain base attack bonus.</td></tr>
+<tr><td rowspan="5">法术</td>    
+    <td>Force Armor (3PP)</td>    
+        <td>A spell for the alchemist, bard, and wizard spellbooks that adds a spell similar to shield of faith for arcane casters.</td></tr>
+    <tr><td>Mage Armor II / III / IV (3PP)</td>    
+        <td>Higher level versions of mage armor that add +6/+8/+10 AC.</td></tr>
+    <tr><td>Magic Missile, Greater (3PP)</td>    
+        <td>Higher level magic missile that deals more damage.</td></tr>
+    <tr><td>Magic Missile, Mastered (3PP)</td>    
+        <td>Even higher level magic missile that deals more damage and has no limit on the number of missiles.</td></tr>
+    <tr><td>Shield II (3PP)</td>    
+        <td>A higher level version of the shield spell that lasts longer.</td></tr>
+<tr><td rowspan="4">神话能力</td>    
+   <td>Abundant Preparation (Homebrew)</td>
+        <td>Similar to Abundant Casting, Abundant Preparation adds an additional four spell preparation slots to 1st, 2nd, and 3rd spell levels for an arcanist.</td></tr>
+   <tr><td>Improved Abundant Preparation (Homebrew)</td>
+        <td>Adds an additional four spell preparation slots to 4th, 5th, and 6th spell levels for an arcanist.</td></tr>
+   <tr><td>Greater Abundant Preparation (Homebrew)</td>
+        <td>Adds an additional four spell preparation slots to 7th, 8th, and 9th spell levels for an arcanist.</td></tr>
+</table>
   
 ------------------------------------------- 
 ### [ChampionFeatsAnew](https://www.nexusmods.com/pathfinderwrathoftherighteous/mods/384)
