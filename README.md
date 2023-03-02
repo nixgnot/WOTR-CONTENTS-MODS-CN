@@ -2649,7 +2649,7 @@ C:\Users\你的用户名\AppData\LocalLow\Owlcat Games\Pathfinder Wrath Of The R
 > *新增内容：* 变体，专长，神话能力，法术等<br>
 + 增加了新内容，**自带中文！**推荐
 <table>
-<tr><th colspan="4">新增内容列表</th></tr> 
+<tr><th colspan="5">新增内容列表</th></tr> 
 <tr><td>类别</td>
        <td>选项</td>
        <td>名称</td>
@@ -2670,7 +2670,7 @@ C:\Users\你的用户名\AppData\LocalLow\Owlcat Games\Pathfinder Wrath Of The R
 		<td>:x:</td></tr>
 <tr><td rowspan="5">专长<br>Feat</td>
 	<td>魔学院毕业生</td><td>Acadamae Graduate</td>
-		<td>当你施放一个当天已准备的具有召唤描述符的咒法系奥术法术时，将施法时间由整轮动作缩短为标准动作。以这种方式施放一个法术十分费力，你需要通过一个强韧豁免(DC 15 +法术等级)来避免陷入1分钟的疲劳。如果你已经疲劳，则施法时间不会减少</td>
+		<td>当你施放一个当天已准备的具有召唤描述符的咒法系奥术法术时，将施法时间由整轮动作缩短为标准动作</td>
 		<td>:x:</td></tr>
 	<tr><td>大地魔法</td><td>Earth Magic</td>
 		<td>当你处于你偏好的地形时，你的有效施法者等级提高1级</td>
@@ -2682,21 +2682,21 @@ C:\Users\你的用户名\AppData\LocalLow\Owlcat Games\Pathfinder Wrath Of The R
 		<td>你的专精学派能力获得额外3次使用次数。你可以多次选取这项发现</td>
 	       <td>:heavy_check_mark:</td></tr>
 	<tr><td>类权杖魔杖<sup>注</sup></td><td>Staff-like Wand</td>
-		<td>你的研究解锁了一种与魔杖结合的新力量。你通过魔杖施放的法术的DC使用你自己的智力和相关专长调整值，如果你的施法者等级高于魔杖的施法者等级，你可以在激活魔杖的力量时使用你的施法者等级</td>
+		<td>你通过魔杖施放的法术的DC使用你自己的智力、相关专长调整值、施法者等级</td>
 		<td>:x:</td></tr>
 <tr><td rowspan="2">魔战士奥秘<br>Magus Arcana</td>
 	<td>秩序之环</td><td>Circle of Order</td>
-		<td>以一个迅捷动作，魔战士可以从他的奥法池中消耗1点来增强对混乱攻击的防御。在对抗混乱攻击和效果，以及混乱类型的敌人时，AC获得等同于他魔战士等级的一半的闪避加值(在第20级时最高+10)，持续到他的下一回合开始</td>
+		<td>以一个迅捷动作，消耗奥法池。在对抗混乱敌人时，AC获得等同于他魔战士等级的一半的闪避加值</td>
 		<td>:x:</td></tr>
 	<tr><td>恶意</td><td>Malice</td>
-		<td>巫战士专用，他的近战攻击对任何正在受其巫术影响的敌人额外造成2d6点污邪伤害</td>
+		<td>巫战士专用，近战攻击对任何正在受其巫术影响的敌人额外造成2d6点污邪伤害</td>
 		<td>:heavy_check_mark:</td></tr>
 <tr><td rowspan="2">神话能力<br>Mythic Ability</td>
 	<td>充裕双法合璧</td><td>Abundant Spell Synthesis</td>
 		<td>每有三个神话阶层，你可以额外使用一次双法合璧能力</td>
 		<td>:heavy_check_mark:</td></tr>
 	<tr><td>材料自由</td><td>Material Freedom</td>
-		<td>选择一种特定的材料成分：你可以在不持有此材料成分的情况下施放某个通常需要它的法术。你可以多次选取这项能力</td>
+		<td>选择一种特定的材料成分：你可以在不持有此材料成分的情况下施放某个通常需要它的法术</td>
 		<td>:heavy_check_mark:</td></tr>
 <tr><td rowspan="1">神话专长<br>Mythic Feat</td>
 	<td>纯粹之罪（神话）</td><td>Purity of Sin (Mythic)</td>
@@ -2704,7 +2704,7 @@ C:\Users\你的用户名\AppData\LocalLow\Owlcat Games\Pathfinder Wrath Of The R
 		<td>:heavy_check_mark:</td></tr>
 <tr><td rowspan="2">职业特性<br>Class Feature</td>
 	<td>双法合璧</td><td>Spell Synthesis</td>
-		<td>添加秘术师巅峰，10级时，秘术师可以使用一个动作施放两个法术，分别来自他的两个施法职业。两个法术的施法时间必须相同</td>
+		<td>添加秘术师巅峰，10级时，秘术师可以使用一个动作施放两个法术</td>
 		<td>:x:</td></tr>
 	<tr><td>显圣</td><td>Manifestations</td>
 		<td>添加萨满精魂巅峰，类似先知最终启示效果</td>
