@@ -87,7 +87,7 @@
 	    {"Key": "SmithFeature_Description",
 	    "Value": "铁匠将{g|Encyclopedia:Athletics}运动{/g}加入本职{g|Encyclopedia:Skills}技能{/g}列表。她还会擅长轻锤、战锤，并且强韧{g|Encyclopedia:Saving_Throw}豁免检定{/g}获得+1{g|Encyclopedia:Bonus}加值{/g}。\n如果角色已在角色创建过程中，通过职业获取了上述本职技能，{g|Encyclopedia:Weapon_Proficiency}武器擅长{/g}或防具擅长，则背景提供的相应{g|Encyclopedia:Bonus}加值{/g}改为相关技能上的+1表现加值，相关武器上的+1特性加值，相关防具上的防具{g|Encyclopedia:Check}检定{/g}{g|Encyclopedia:Penalty}减值{/g}-1。"},
 	    {"Key": "SpherewalkerFeature_DisplayName",
-	    "Value": "Spherewalker"},
+	    "Value": "星球行者"},
 	    {"Key": "SpherewalkerFeature_Description",
 	    "Value": "星球行者将{g|Encyclopedia:Knowledge_World}知识（世界）{/g}加入本职{g|Encyclopedia:Skills}技能{/g}列表。她还会擅长星刃，并在所有技能检定上获得和+1幸运加值。\n如果角色已在角色创建过程中，通过职业获取了上述本职技能，{g|Encyclopedia:Weapon_Proficiency}武器擅长{/g}或防具擅长，则背景提供的相应{g|Encyclopedia:Bonus}加值{/g}改为相关技能上的+1表现加值，相关武器上的+1特性加值，相关防具上的防具{g|Encyclopedia:Check}检定{/g}{g|Encyclopedia:Penalty}减值{/g}-1。"},
             {"Key": "TemplarFeature_DisplayName",
