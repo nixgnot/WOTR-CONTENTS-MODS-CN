@@ -23,7 +23,7 @@
   - [MicroscopicContentExpansion](#MicroscopicContentExpansion) Microscopic内容扩展 :star::star::star:
   - [SparsSorcerousSundries](#SparsSorcerousSundries) SSS扩展 :star::star:
   - [TomeOfTheFirebird](#TomeOfTheFirebird) TOTF扩展 :star::star::star:
-  - [HomebrewArchetypes](#HomebrewArchetypes) Homebrew(村规)变体 :star::star::star:
+  - [HomebrewArchetypes](#HomebrewArchetypes) Homebrew(房规)变体 :star::star::star:
   - [ExpandedContent2022](#ExpandedContent2022) 扩展内容2022 :star:
   - [ToggleableThrowingWeapons](#ToggleableThrowingWeapons) 可切换投掷武器 :star::star::star:
   - [MorvarchsPlaystyleExpansions](#MorvarchsPlaystyleExpansions) Morvarchs玩法扩展 :star::star::star:
@@ -2545,7 +2545,7 @@ Metamagic Master 超魔主宰：指定一个法术。当你超魔施展该法术
 
  <table>  
  <tr><th colspan="3">新增内容列表<br></th></tr> 
-  <tr><td rowspan="1">村规</i></td>
+  <tr><td rowspan="1">房规</i></td>
       <td>Mythic Bond<br>(Mythic Animal Focus)</td><td>
       神话羁绊（神话动物之力）：允许猎人激活额外一种动物之力</td></tr>
   <tr><td rowspan="10">专长</i></td>
@@ -2628,7 +2628,7 @@ C:\Users\你的用户名\AppData\LocalLow\Owlcat Games\Pathfinder Wrath Of The R
              无尽狂怒：（有修改）狂暴时免疫麻痹</td></tr>
      <tr><td>背景</td>
          <td>Jungle Explorer</td><td>
-             丛林探索者：（村规原创）+1强韧豁免，运动和灵巧成为本职技能，擅长反曲刀</td></tr>   
+             丛林探索者：（房规原创）+1强韧豁免，运动和灵巧成为本职技能，擅长反曲刀</td></tr>   
 </table>
       
 ------------------------------------------- 
@@ -2653,7 +2653,7 @@ C:\Users\你的用户名\AppData\LocalLow\Owlcat Games\Pathfinder Wrath Of The R
 <tr><td>类别</td>
        <td>选项</td>
        <td>描述</td>
-       <td>村规</td></tr>
+       <td>房规</td></tr>
 <tr><td rowspan="4">变体<br>Archetype</td>
 	<td>苦修者<br>Flagellant</td>
 		<td>牧师变体，对自己造成伤害来获得CL或DC加成，适合施法者构建</td>
@@ -2731,31 +2731,31 @@ C:\Users\你的用户名\AppData\LocalLow\Owlcat Games\Pathfinder Wrath Of The R
 <tr><th colspan="3">新增内容列表</th></tr> 
 
 <tr><td rowspan="1">变体</td>
-    <td>Two-Weapon Warrior</td>
-        <td>Fighter archetype that specializes in dual-wielding</td></tr>
+    <td>双持战士<br>Two-Weapon Warrior</td>
+        <td>专精双持的展示变体</td></tr>
 <tr><td rowspan="2">职业特性</td>    
-    <td>Loremaster Secret - Paladin Spell Selection (Homebrew)</td>
-        <td>Added paladin spells to the list of selections.</td></tr>
-    <tr><td>Arcanist Exploit - Martial Training / Martial Training, Greater</td>
-        <td>Spend exploit selections to gain base attack bonus.</td></tr>
+    <td>博学士秘闻 - 圣武士法术</td>
+        <td><b>房规原创</b><br>博学士可以学习圣武士法术</td></tr>
+    <tr><td>奥能技艺 - 武术训练 / 高等武术训练</td>
+        <td>为奥能师提供AB奖励</td></tr>
 <tr><td rowspan="5">法术</td>    
-    <td>Force Armor (3PP)</td>    
-        <td>A spell for the alchemist, bard, and wizard spellbooks that adds a spell similar to shield of faith for arcane casters.</td></tr>
-    <tr><td>Mage Armor II / III / IV (3PP)</td>    
-        <td>Higher level versions of mage armor that add +6/+8/+10 AC.</td></tr>
-    <tr><td>Magic Missile, Greater (3PP)</td>    
-        <td>Higher level magic missile that deals more damage.</td></tr>
-    <tr><td>Magic Missile, Mastered (3PP)</td>    
-        <td>Even higher level magic missile that deals more damage and has no limit on the number of missiles.</td></tr>
-    <tr><td>Shield II (3PP)</td>    
-        <td>A higher level version of the shield spell that lasts longer.</td></tr>
+    <td>力场护甲<br>Force Armor</td>    
+        <td><b>第三方</b><br>类似虔诚护盾的奥术</td></tr>
+    <tr><td>法师护甲 II / III / IV <br>Mage Armor II / III / IV </td>    
+        <td><b>第三方</b><br>高级法师护甲，给予 +6/+8/+10 AC.</td></tr>
+    <tr><td>高等魔法飞弹<br>Magic Missile, Greater</td>    
+        <td><b>第三方</b><br>造成更高伤害的高级版魔法飞弹</td></tr>
+    <tr><td><br>大师魔法飞弹</td>    
+        <td><b>第三方</b><br>更高级的魔法飞弹，没有弹数上限</td></tr>
+    <tr><td>护盾术 II<br>Shield II</td>    
+        <td><b>第三方</b><br>高级版护盾术，视为塔盾并持续更久</td></tr>
 <tr><td rowspan="3">神话能力</td>    
-   <td>Abundant Preparation (Homebrew)</td>
-        <td>Similar to Abundant Casting, Abundant Preparation adds an additional four spell preparation slots to 1st, 2nd, and 3rd spell levels for an arcanist.</td></tr>
-   <tr><td>Improved Abundant Preparation (Homebrew)</td>
-        <td>Adds an additional four spell preparation slots to 4th, 5th, and 6th spell levels for an arcanist.</td></tr>
-   <tr><td>Greater Abundant Preparation (Homebrew)</td>
-        <td>Adds an additional four spell preparation slots to 7th, 8th, and 9th spell levels for an arcanist.</td></tr>
+   <td>充裕备法<br>Abundant Preparation</td>
+        <td><b>房规原创</b><br>类似充裕施法，为奥能师提供额外1到3级法术位</td></tr>
+   <tr><td>高等充裕备法<br>Improved Abundant Preparation</td>
+        <td><b>房规原创</b><br>为奥能师提供额外4到6级法术位</td></tr>
+   <tr><td>精通充裕备法<br>Greater Abundant Preparation (Homebrew)</td>
+        <td><b>房规原创</b><br>为奥能师提供额外7到9级法术位</td></tr>
 </table>
   
 ------------------------------------------- 
