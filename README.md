@@ -2622,12 +2622,12 @@ C:\Users\你的用户名\AppData\LocalLow\Owlcat Games\Pathfinder Wrath Of The R
           <tr><td>Extra Feature</td><td>
              额外特性：兽态人使用自带改变形态时，可以选择额外一种获得的特性</td></tr>
     <tr><td rowspan="2">狂暴之力</td>
-         <tr><td>Come and Get Me!</td><td>
+         <td>Come and Get Me!</td><td>
              反击态势：直到野蛮人的下一回合之前，敌人对他的攻击检定和伤害检定+4，但是敌人对他的每次攻击之前都会引起野蛮人的借机攻击</td></tr>
          <tr><td>Unrestrained Rage</td><td>
              无尽狂怒：（有修改）狂暴时免疫麻痹</td></tr>
      <tr><td>背景</td>
-         <tr><td>Jungle Explorer</td><td>
+         <td>Jungle Explorer</td><td>
              丛林探索者：（村规原创）+1强韧豁免，运动和灵巧成为本职技能，擅长反曲刀</td></tr>   
 </table>
       
