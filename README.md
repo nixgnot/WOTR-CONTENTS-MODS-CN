@@ -2704,10 +2704,10 @@ C:\Users\你的用户名\AppData\LocalLow\Owlcat Games\Pathfinder Wrath Of The R
 		<td>:heavy_check_mark:</td></tr>
 <tr><td rowspan="2">职业特性<br>Class Feature</td>
 	<td>双法合璧</td><td>Spell Synthesis</td>
-		<td>Add the Mystic Theurge's capstone.</td>
+		<td>添加秘术师巅峰，10级时，秘术师可以使用一个动作施放两个法术，分别来自他的两个施法职业。两个法术的施法时间必须相同</td>
 		<td>:x:</td></tr>
 	<tr><td>显圣</td><td>Manifestations</td>
-		<td>加入萨满精魂巅峰，类似先知最终启示效果</td>
+		<td>添加萨满精魂巅峰，类似先知最终启示效果</td>
 		<td>:x:</td></tr>
 <tr><td rowspan="2">法术<br>Spell</td>
 	<td>流星爆</td><td>Meteor Swarm</td>
