@@ -2595,11 +2595,33 @@ C:\Users\你的用户名\AppData\LocalLow\Owlcat Games\Pathfinder Wrath Of The R
 ------------------------------------------- 
 ### [MartialExcellence](https://github.com/Envibel/MartialExcellence)
 > *前置：* 无<br>
-> *中文：* **无**<br>
+> *中文：* **本处提供汉化**<br>
 > *安装方式：* **非UMM**<br>
 > *修改内容：* <br>
 > *新增内容：* 种族，专长等<br>
 + 小型内容Mod，持续开发中
+
+<table>
+   <tr><th colspan="3">新增内容列表<br></th></tr> 
+   <td>种族</td>
+          <td>Skinwalker</td>
+          <td>兽态人<br>包含亚种Classic 典型、Ragebred 怒孽、Bloodmarked 血印、Coldborn 冷嗣、Scaleheart 鳞心、Nightskulk 夜隐、Seascarred 海疤、Fanglord 牙王、Witchwolf 巫狼、Aerieborn 鹰裔<br><i>参阅PF文档</i><td></tr>
+   <tr><td>专长</td>
+          <td>Dazing Assault</td><td>
+             晕眩强袭：降低5AB为代价造成敌人眩晕，DC=10+BAB</td></tr>
+          <tr><td>Stunning Assault</td><td>
+             震慑强袭：降低5AB为代价造成敌人震慑，DC=10+BAB</td></tr>
+          <tr><td>Shield Slam</td><td>
+             盾牌猛冲：盾击时发动冲撞（村规：仅冲撞效果）</td></tr>
+          <tr><td>Vicious Stomp</td><td>
+             恶毒踩踏：队友倒地时借机攻击（不和恶毒践踏者叠加）</td></tr>
+          <tr><td>Raging Brutality</td><td>
+             狂暴猛击：狂暴时将体质修正添加到伤害（村规：无双手奖励，可重击）</td></tr>
+          <tr><td>Hands of Valor</td><td>
+             勇猛之手：1天1次，使用圣疗时可以灌输友军，使其在攻击鉴定和对抗恐惧的豁免检定上获得等于你魅力修正的崇圣加值，持续1分钟</td></tr>
+          <tr><td>Extra Feature</td><td>
+             额外特性：兽态人使用自带改变形态时，可以选择额外一种获得的特性</td></tr>
+</table>
       
 ------------------------------------------- 
 ### [MediumClass](https://github.com/Telyl/MediumClass)
