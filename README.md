@@ -2883,4 +2883,4 @@ C:\Users\你的用户名\AppData\LocalLow\Owlcat Games\Pathfinder Wrath Of The R
 + [BubbleTweaks](https://github.com/factubsio/BubbleTweaks) 选项调节（调节动画速度等）
 + [MoreBulkSell](https://www.nexusmods.com/pathfinderwrathoftherighteous/mods/163) 强化自动出售（一键出售支持更多物品）
 + [SpellPouch](https://github.com/Truinto/SpellPouch) 图标合一（可以将多个能力合为一个层叠图标便于使用）
-
++ [FamiliarPlus](https://www.nexusmods.com/pathfinderwrathoftherighteous/mods/192) 宠物加强（物品小宠物不召唤出来能力也生效）
