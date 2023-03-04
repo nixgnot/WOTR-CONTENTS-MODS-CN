@@ -2874,6 +2874,87 @@ C:\Users\你的用户名\AppData\LocalLow\Owlcat Games\Pathfinder Wrath Of The R
 + 大量动漫NETA
 + 都是异世界主角了，能有多离谱你们自己想象下
 
+  -------------------------------------------   
+### [Way-of-the-shield](https://github.com/ScaredKurufinve/Way-of-the-shield)
+> *前置：* ModMenu<br>
+> *中文：* **已汉化**<br>
+> *安装方式：* **UMM**<br>
+> *修改内容：* 夹击规则<br>
+> *新增内容：* 变体、专长<br>
++ 提供了还原桌面规则的夹击功能
++ 提供了盾牌的原创规则
++ 提供了新变体和专长
+ <tr><th colspan="4">新增内容列表<br></th></tr> 
+  <tr><td rowspan="2">变体</i></td>
+      <td>Sacred Shield</td>
+      <td>圣盾卫</td>
+          <td>专精于保护队友的圣武士防御性变体</td></tr>
+      <td colspan="2">其它</td>
+          <td>擅长盾牌不再包括小圆盾</td></tr>
+  <tr><td rowspan="2">桌面规则</i></td>
+      <td>Soft Cover</td>
+      <td>软掩蔽</td>
+     	  <td>加入桌面规则中由于软掩蔽导致的AC加值</td></tr>
+      <td>Flanking</td>
+      <td>夹击</td>
+          <td>修改夹击规则和桌面相同，要求计算夹角</td></tr>
+   <tr><td rowspan="2">原创规则</i></td>
+      <td>Backstab</td>
+      <td>背刺</td>
+     	  <td>背后攻击可以无视对方盾牌、获得隐蔽加值，甚至视为完全隐蔽（视同对方措手不及），可在选项中调节</td></tr>
+  <tr><td rowspan="11">专长</i></td>
+      <td>Shield Brace</td>
+      <td>盾牌支撑</td>
+          <td>使用盾牌同时可以单手使用长柄类武器</td></tr>
+      <td>Unhindering Shield</td>
+      <td>自由之盾</td>
+          <td>使用小圆盾视为空手</td></tr>
+      <tr><td>Light Shield Parry</td>
+      <td>轻盾格挡</td>
+          <td>使用轻盾格挡攻击</td></tr>
+      <tr><td>Upsetting Shield Style<br>Upsetting Strike<br>Upsetting Vengeance</td>
+      <td>盾扰流派<br>盾扰强击<br>盾扰回击</td>
+          <td>小圆盾系列专长，使用小圆盾盾击，造成对方攻击减值，并在对方攻击失手后对其借机攻击</td></tr>
+      <tr><td>Immediate Repositioning</td>
+      <td>瞬间换防</td>
+          <td>塔盾专精斗士能力，迅捷动作改变塔盾方向</td></tr>
+      <tr><td>Phalanx Formation</td>
+      <td>集团方阵</td>
+          <td>你使用擅长的长触及武器时，盟友不会为你攻击的敌人提供软掩蔽</td></tr>
+      <tr><td>Improved Outflank</td>
+      <td>精通包抄</td>
+          <td>降低夹击所需最小角度</td></tr>
+      <tr><td>Friendly Fire Maneuvers</td>
+      <td>友军火力</td>
+          <td>有该专长的敌人不会为敌人提供对你的软掩蔽，对你释放区域型法术时你获得反射豁免加值</td></tr> 
+      <tr><td>Back To Back</td>
+      <td>背靠背</td>
+          <td>针对背刺规则调整背靠背效果</td></tr>
+      <tr><td>Improved Back To Back</td>
+      <td>精通背靠背</td>
+          <td>加强背靠背专长，背刺规则下效果变更</td></tr>
+      <tr><td>Mounted Combat</td>
+      <td>骑乘战斗</td>
+          <td>骑乘战斗下可以单手持矛</td></tr>
+   <tr><td rowspan="3">特殊能力</i></td>
+      <td>BucklerParry</td>
+      <td>擅长小圆盾（圆盾格挡）</td>
+          <td>使用小圆盾格挡攻击，但是会受到双武器减值</td></tr>
+      <tr><td>Tower Shield Defense</td>
+      <td>塔盾防御姿态</td>
+          <td>躲在塔盾后方。面对正面攻击获得完全掩蔽</td></tr>
+      <tr><td>Shielded Defense</td>
+      <td>盾牌防御</td>
+          <td>获得额外盾牌AC但是受到双武器减值</td></tr>
+    <tr><td rowspan="2">神话专长</i></td>
+      <td>Shielded Defense, Mythic</td>
+      <td>神话盾牌防御</td>
+          <td>使用盾牌防御时，每第二次攻击才会降低其AC加值</td></tr>
+      <tr><td>Buckler Parry, Mythic</td>
+      <td>神话圆盾格挡</td>
+          <td>增加圆盾格挡次数</td></tr>
+</table>
+
 
    --------------------------------------
 ### 功能MOD索引
