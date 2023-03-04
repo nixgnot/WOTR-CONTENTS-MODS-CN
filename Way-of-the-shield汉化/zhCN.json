@@ -1,1 +1,1018 @@
+{
 
+    "strings": [
+
+		{
+            "Key": "Empty", 
+            "Value": ""
+        },
+		{
+            "Key": "ModifierDescriptor_SoftCover",
+            "Value": "软掩蔽"
+        },
+		{
+            "Key": "BonusType_NonProficient_name",
+            "Value": "不擅长此武器"
+        },
+		{
+            "Key": "BonusType_Backstab_name",
+            "Value": "背刺"
+        },
+		{
+            "Key": "Flanking_can_not_be_flanked",
+            "Value": "不会被夹击"
+        },
+		{
+            "Key": "Flanking_distracts",
+            "Value": "{trueFlanker} 正在使得 {target} 分心"
+        },
+		{
+            "Key": "Flanking_With_a_masterful_feat_of_teamwork",
+            "Value": "拥有精通团队专长"
+        },
+		{
+            "Key": "Flanking_improvedOutflank",
+            "Value": "拥有高等团队专长"
+        },
+		{
+            "Key": "Flanking_from_another_flank",
+            "Value": "侧翼正在被 {source} 攻击。双方夹角为 {angle}。"
+        },
+		{
+            "Key": "Flanking_angle_of_attacks",
+            "Value": "来自攻击者 {source} 和侧翼攻击者 {flanker} 的夹角只有 {angle}. 这不足以达到 {requirement} 的要求，不能分散 {target} 的注意力。"
+        },
+		{
+            "Key": "Flanking_and",
+            "Value": "和"
+        },
+		{
+            "Key": "Flanking_is_only",
+            "Value": "只有"
+        },
+		{
+            "Key": "Flanking_less_than",
+            "Value": "不足以达到"
+        },
+		{
+            "Key": "Flanking_not_enough_to_distract",
+            "Value": "来自攻击者 {source} 和侧翼攻击者 {flanker} 的夹角只有 {angle}. 这不足以达到 {requirement} 的要求，不能分散 {target} 的注意力。"
+        },
+		{
+            "Key": "Flanking_not_flanking_attack",
+            "Value": "不能形成夹击。"
+        },
+		{
+            "Key": "Flanking_soloTactics",
+            "Value": "{outflanker} 熟练掌握了 <b>独行战术</b> ，可以<b>单独</b>对目标形成包抄。"
+        },
+		{
+            "Key": "Flanking_but",
+            "Value": "\n但是 "
+        },
+		{
+            "Key": "Flanking_outsandingTeamwork",
+            "Value": "需要拥有出色的团队合作。"
+        },
+		{
+            "Key": "BucklerParry_DisplayName",
+            "Value": "圆盾格挡"
+        },
+		{
+            "Key": "BucklerParry_Description",
+            "Value": "你可以使用小圆盾或者轻盾格挡袭来的攻击。为了格挡攻击，进行一次如同你发动了盾击的攻击检定，包含可应用的加值。如果检定结果高于攻击者的检定结果，当次攻击自动失手。你每回合的格挡次数等于你持盾手的可用攻击次数。\n你必须在回合开始时决定是否使用格挡。当回合不能使用盾牌防御。如果你当回合用其他手进行了攻击，你在下个回合开始前受到双武器战斗处罚。"
+        },
+		{
+            "Key": "BucklerParry_DynamicDescription",
+            "Value": "剩余格挡"
+        },
+		{
+            "Key": "BucklerParry_ShortDescription",
+            "Value": "使用小圆盾格挡袭来的攻击。你每回合的格挡次数等于你持盾手的可用攻击次数。"
+        },
+		{
+            "Key": "TowerShieldEnchantment_Description",
+            "Value": "在大多数情况下，塔盾为你的护甲等级提供标明的盾牌加值。你可以使用一个标准动作来获得完全的掩蔽，直到你的下一回合开始。当以这种方式使用塔盾时，它对于正在瞄准你的攻击者被视为固体墙。你可以获得从你的盾牌方向攻击的完全掩蔽，但对其他方向的攻击无效。然而，塔盾并不能为目标型法术提供掩蔽；施法者可以通过瞄准盾牌对你施法。你不能用塔盾盾击，也不能用你的持盾手做任何其他事情。\n当在战斗中使用塔盾时，由于盾的阻碍，你在攻击掷骰时会受到-2减值。"
+        },
+		{
+            "Key": "TowerShieldDefense_DisplayName",
+            "Value": "塔盾防御姿态"
+        },
+		{
+            "Key": "TowerShieldDefense_Description",
+            "Value": "使用一个标准动作，你躲在塔盾后方。如此使用塔盾时其对瞄准你的对象视为固体墙。你可以获得从你的盾牌方向攻击的完全掩蔽，但对其他方向的攻击无效。然而，塔盾并不能为目标型法术提供掩蔽；施法者可以通过瞄准盾牌对你施法。你不能用塔盾盾击，也不能用你的持盾手做任何其他事情。"
+        },		
+		{
+            "Key": "TowerShieldDefense_ShortDescription",
+            "Value": "躲在塔盾后方获得从你的盾牌方向攻击的完全掩蔽，但对其他方向的攻击无效。然而，塔盾并不能为目标型法术提供掩蔽。你不能用塔盾盾击，也不能用你的持盾手做任何其他事情。"
+        },
+		{
+            "Key": "OneHandedBuff_DisplayName",
+            "Value": "单手使用武器"
+        },
+		{
+            "Key": "OneHandedBuff_Description",
+            "Value": ""
+        },
+		{
+            "Key": "OneHandedBuff_ShortDescription",
+            "Value": ""
+        },
+		{
+            "Key": "OneHandedAbility_DisplayName",
+            "Value": "单手使用武器"
+        },
+		{
+            "Key": "OneHandedAbility_Description",
+            "Value": "你可以选择单手持用你的武器，而不是尽可能使用双手。"
+        },
+		{
+            "Key": "OneHandedAbility_ShortDescription",
+            "Value": ""
+        },
+		{
+            "Key": "OneHandedFeature_DisplayName",
+            "Value": "单手持用切换"
+        },
+		{
+            "Key": "OneHandedFeature_Description",
+            "Value": "你可以选择单手持用你的武器，而不是尽可能使用双手。"
+        },
+		{
+            "Key": "OneHandedFeature_ShortDescription",
+            "Value": ""
+        },
+		{
+            "Key": "Buckler1h_Name",
+            "Value": "小圆盾"
+        },
+		{
+            "Key": "Buckler_Description",
+            "Value": "这个小型金属盾系在你的前臂上。携带小圆盾，你可以使用弓或弩而不受惩罚。你也可以在挥舞双手近战武器时使用小圆盾，但在这样做时，你会在攻击掷骰时受到-1减值。如果你将持盾手用于除防御以外的任何目的，则在下一回合之前，你将失去小圆盾的护甲等级加值。你不能用小圆盾盾击。"
+        },
+		{
+            "Key": "ShieldBraceFeature_DisplayName",
+            "Value": "盾牌支撑"
+        },
+		{
+            "Key": "ShieldBraceFeature_Description",
+            "Value": "<i>执矛持盾，攻守兼备。</i>\n效果：你可以在使用擅长的轻型盾、重型盾、塔盾时同时使用长柄或矛武器组的武器。如果盾牌有防具检定减值，那么也会应用于你的攻击检定。"
+        },
+		{
+            "Key": "ShieldBraceFeature_ShortDescription",
+            "Value": "你可以在使用擅长的轻型盾、重型盾、塔盾时同时使用长柄或矛武器组的武器。如果盾牌有防具检定减值，那么也会应用于你的攻击检定。"
+        },
+		{
+            "Key": "ShieldWallRenewed_Description",
+            "Value": "<i>万众一心，铁壁铜墙。</i>\n当你持有盾牌位于一个同样持有盾牌且具有该{g|Encyclopedia:Feat}专长{/g}的队友附近，且你们视线方向一致时，盾牌带来的{g|Encyclopedia:Armor_Class}防御等级{/g}{g|Encyclopedia:Bonus}加值{/g}提升，数值取决于队友所持盾牌类型。 \n如队友持有小圆盾或轻型盾，盾牌加值提升+1。\n如队友持有重型盾，盾牌加值提升+2。\n如队友持有塔盾，盾牌加值提升+3。\n\n<b>注意：</b>这个能力的效果叠加两次 - 你可以同时从左右两边的队友处获得奖励。"
+        },
+		{
+            "Key": "ShieldWallRenewed_ShortDescription",
+            "Value": "当你持有盾牌位于一个同样持有盾牌且具有该{g|Encyclopedia:Feat}专长{/g}的队友附近，且你们视线方向一致时，盾牌带来的{g|Encyclopedia:Armor_Class}防御等级{/g}{g|Encyclopedia:Bonus}加值{/g}提升，数值取决于队友所持盾牌类型，小圆盾或轻型盾+1，重型盾+2，塔盾+3。你可以同时从左右两边的队友处获得奖励。"
+        },
+		{
+            "Key": "UnhinderingShieldFeature_DisplayName",
+            "Value": "自由之盾"
+        },
+		{
+            "Key": "NewBucklerProficiencyFeature_DisplayName",
+            "Value": "小圆盾擅长"
+        },
+		{
+            "Key": "NewBucklerProficiencyFeature_Description",
+            "Value": "你变得擅长使用小圆盾。"
+        },
+		{
+            "Key": "LightShieldParryFeature_DisplayName",
+            "Value": "轻盾格挡"
+        },
+		{
+            "Key": "LightShieldParryFeature_Description",
+            "Value": "你可以使用轻型盾格挡。"
+        },
+		{
+            "Key": "UnhinderingShieldFeature_Description",
+            "Value": "<i>盾随身动，如臂指使。</i>\n<b>效果</b>：当你用持盾手做其他事时，依然可以获得小圆盾的防御等级（AC）加值。当你使用小圆盾时，你的持盾手被视为空手，来用于施法、持用武器及使用其他需要你空出一只手的能力，比如游荡剑客的精准刺击或者武器娴熟，同时也能使用和盾牌相关的能力。\n<b>特殊</b>：使用该专长的武僧在判断其AC加值、健步如飞、疾风连击时，不被视为持盾。"
+        },
+		{
+            "Key": "UnhinderingShieldFeature_ShortDescription",
+            "Value": "你善于使用盾牌战斗。当你用持盾手做其他事时，依然可以获得小圆盾的防御等级（AC）加值。"
+        },
+		{
+            "Key": "UpsettingShieldStyle_DisplayName",
+            "Value": "盾扰流派"
+        },
+		{
+            "Key": "UpsettingShieldStyle_Description",
+            "Value": "<i>以盾御敌，滴水不漏。</i>\n<b>效果</b>：你可以将小圆盾视为轻型盾来进行盾击，也可以用于满足任意需要轻型盾的专长和能力。使用该流派时，每次用小圆盾盾击敌人都会使其在你的下一个回合开始前，在对你的所有攻击上受到-2减值。"
+        },
+		{
+            "Key": "UpsettingShieldStyle_ShortDescription",
+            "Value": "你可以将小圆盾视为轻型盾来进行盾击，也可以用于满足任意需要轻型盾的专长和能力。使用该流派时，每次用小圆盾盾击敌人都会使其在你的下一个回合开始前，在对你的所有攻击上受到-2减值。"
+        },
+		{
+            "Key": "UpsettingStrike_DisplayName",
+            "Value": "盾扰强击"
+        },
+		{
+            "Key": "UpsettingStrike_Description",
+            "Value": "<i>后发制人，反败为胜。</i>\n<b>效果</b>：使用盾扰流派时，如果敌人对你使用近战攻击低于你的防御等级（AC）5点以上导致失手，且正在因为你的盾扰流派受到攻击减值，这个敌人引发你的借机攻击。\n你以这种方式每个回合只能对单个敌人触发一次借机攻击。"
+        },
+		{
+            "Key": "UpsettingStrike_ShortDescription",
+            "Value": "使用盾扰流派时，如果敌人对你使用近战攻击低于你的防御等级（AC）5点以上导致失手，且正在因为你的盾扰流派受到攻击减值，会引发你的借机攻击。\n你以这种方式每个回合只能对单个敌人触发一次借机攻击。"
+        },
+		{
+            "Key": "UpsettingVengeance_DisplayName",
+            "Value": "盾扰回击"
+        },
+		{
+            "Key": "UpsettingVengeance_Description",
+            "Value": "<i>百密一疏， 乘隙而入。</i>\n<b>效果</b>：使用盾扰流派时，因为你的盾扰流派受到减值的敌人在攻击任何目标时都受到减值。如果附近受到这个减值的敌人攻击任何目标，且因为低于目标防御等级（AC）5点以上导致失手，,会引发你的借机攻击。\n你以这种方式或盾扰强击每个回合只能对单个敌人触发一次借机攻击。"
+        },
+		{
+            "Key": "UpsettingVengeance_ShortDescription",
+            "Value": "使用盾扰流派时，因为你的盾扰流派受到减值的敌人在攻击任何目标时都受到减值。如果附近受到这个减值的敌人攻击任何目标，且因为低于目标防御等级（AC）5点以上导致失手，会引发你的借机攻击。\n你以这种方式或盾扰强击每个回合只能对单个敌人触发一次借机攻击。"
+        },
+		{
+            "Key": "UpsettingShieldEffect_DisplayName",
+            "Value": "盾扰"
+        },
+		{
+            "Key": "UpsettingShieldEffect_Description",
+            "Value": "你已经被盾扰击中。直到你的下个回合你对造成该效果的敌人攻击受到-2减值。"
+        },
+		{
+            "Key": "UpsettingShieldEffect_ShortDescription",
+            "Value": "直到你的下个回合你对造成该效果的敌人攻击受到-2减值。"
+        },
+		{
+            "Key": "UpsettingStrikeEffect_DisplayName",
+            "Value": "盾扰强击"
+        },
+		{
+            "Key": "UpsettingStrikeEffect_Description",
+            "Value": "你已经被盾扰击中，局势已经逆转。直到你的下个回合你对造成该效果的敌人攻击受到-2减值。此外如果你攻击这个敌人并且因为低于目标防御等级（AC）5点以上导致失手，会引发其借机攻击。"
+        },
+		{
+            "Key": "UpsettingStrikeEffectt_ShortDescription",
+            "Value": "直到你的下个回合你对造成该效果的敌人攻击受到-2减值。此外如果你攻击这个敌人并且因为低于目标防御等级（AC）5点以上导致失手，会引发其借机攻击。"
+        },
+		{
+            "Key": "UpsettingVengeanceEffect_DisplayName",
+            "Value": "盾扰回击"
+        },
+		{
+            "Key": "UpsettingVengeaceEffect_Description",
+            "Value": "你已经被盾扰击中，局势已经逆转。直到你的下个回合你对造成该效果的敌人攻击受到-2减值。此外如果你攻击这个敌人并且因为低于目标防御等级（AC）5点以上导致失手，会引发其借机攻击。"
+        },
+		{
+            "Key": "UpsettingVengeanceEffect_ShortDescription",
+            "Value": "你已经被盾扰击中，局势已经逆转并急转直下。直到你的下个回合你对所有敌人攻击受到-2减值。此外如果你攻击任何敌人并且因为低于目标防御等级（AC）5点以上导致失手，会引发导致本效果的敌人借机攻击。"
+        },
+		{
+            "Key": "ImmediateRepositioningFeature_DisplayName",
+            "Value": "瞬间换防"
+        },
+		{
+            "Key": "ImmediateRepositioningAbility_DisplayName",
+            "Value": "瞬间换防"
+        },
+		{
+            "Key": "ImmediateRepositioningFeature_Description",
+            "Value": "达到13级时，以一个迅捷动作，塔盾专精斗士可以将其塔盾转向另外一个方向，但是不能使用这个能力中断敌人攻击。\n这替代了武器训练3。"
+        },		{
+            "Key": "ImmediateRepositioningAbility_Description",
+            "Value": "达到13级时，以一个迅捷动作，塔盾专精斗士可以将其塔盾转向另外一个方向，但是不能使用这个能力中断敌人攻击。\n这替代了武器训练3。"
+        },
+		{
+            "Key": "ImmediateRepositioningFeature_ShortDescription",
+            "Value": "以一个迅捷动作，塔盾专精斗士可以将其塔盾转向另外一个方向，但是不能使用这个能力中断敌人攻击。"
+        },
+		{
+            "Key": "ImmediateRepositioningAbility_ShortDescription",
+            "Value": "以一个迅捷动作，塔盾专精斗士可以将其塔盾转向另外一个方向，但是不能使用这个能力中断敌人攻击。"
+        },
+		{
+            "Key": "PhalanxFormationFeature_DisplayName",
+            "Value": "集团方阵"
+        },
+		{
+            "Key": "PhalanxFormationFeature_Description",
+            "Value": "<b>效果：</b> 当你使用擅长的长触及武器时，盟友不会为你攻击的敌人提供软掩蔽。\n<b>正常：</b>越过其他生物，包括盟友攻击目标会使得目标对你的攻击拥有软掩蔽。"
+        },
+		{
+            "Key": "PhalanxFormationFeature_ShortDescription",
+            "Value": "使用擅长的长触及武器时，盟友不会为你攻击的敌人提供软掩蔽。"
+        },
+		{
+            "Key": "ImprovedPreciseShot_Description",
+            "Value": "<i>除了完全{g|Encyclopedia:Concealment}隐蔽{/g}和掩蔽，你的{g|Encyclopedia:RangedAttack}远程攻击{/g}将无视一切。</i>\n<b>效果：</b> 你的远程攻击忽略任何非完全掩蔽带来的AC加值，忽略任何非完全隐蔽带来的失手率。完全掩蔽和完全隐蔽对抗你的远程攻击时给予正常效果。"
+        },
+		{
+            "Key": "ImprovedOutflankFeature_DisplayName",
+            "Value": "精通包抄"
+        },
+		{
+            "Key": "ImprovedOutflankFeature_Description",
+            "Value": "<i>齐心协力，攻敌不备。</i>\n<b>效果：</b> 当你和同样拥有此专长的敌人威胁同一个敌人时，如果你们之间拥有至少60度夹角，即可被判断为夹击敌人。\n<b>正常：</b> 你们必须拥有至少110度夹角来被判定为夹击 。"
+        },
+		{
+            "Key": "ImprovedOutflankFeature_ShortDescription",
+            "Value": "当你和同样拥有此专长的敌人威胁同一个敌人时，如果你们之间拥有至少60度夹角，即可被判断为夹击敌人。"
+        },
+		{
+            "Key": "FriendlyFireManeuversFeature_DisplayName",
+            "Value": "友军火力"
+        },
+		{
+            "Key": "FriendlyFireManeuversFeature_Description",
+            "Value": "<i>一心同体，有条不紊。</i>\n<b>效果：</b> 拥有该专长的敌人不会为敌人提供对你的软掩蔽，因此你也可以对这些通常拥有软掩蔽的敌人发动借机攻击。如果拥有此专长的盟友对你所在的区域释放可以使用反射豁免躲避的区域效果（比如火球术），你在该次豁免检定上获得+4闪避加值。"
+        },
+		{
+            "Key": "FriendlyFireManeuversFeature_ShortDescription",
+            "Value": "拥有该专长的敌人不会为敌人提供对你的软掩蔽，因此你也可以对这些通常拥有软掩蔽的敌人发动借机攻击。如果拥有此专长的盟友对你所在的区域释放可以使用反射豁免躲避的区域效果（比如火球术），你在该次豁免检定上获得+4闪避加值。"
+        },
+		{
+            "Key": "ShieldedDefenseActivatableAbility_DisplayName",
+            "Value": "盾牌防御"
+        },
+		{
+            "Key": "ShieldedDefenseActivatableAbility_Description",
+            "Value": "你可以用盾牌灵活防御，而不再将其作为一件死物。如果你这样做，直到回合结束，你的盾牌AC加值+1，但是你会在攻击上受到如同使用双武器战斗的减值。如果你使用轻型盾，该加值在你的基本攻击加值达到6及之后每6点时额外加1；如果你使用重型盾或塔盾，该加值在你的基本攻击加值达到4及之后每4点时额外加1。\n然而，每次你受到攻击后，不管该次攻击是否失手，该加值都会减少1。你也不能在措手不及，或者其他失去敏捷防御加值的场合从此能力中收益。"
+        },
+		{
+            "Key": "ShieldedDefenseActivatableAbility_ShortDescription",
+            "Value": "直到回合结束，你的盾牌AC加值+1，但是你会在攻击上受到如同使用双武器战斗的减值。如果你使用轻型盾，该加值在你的基本攻击加值达到6及之后每6点时额外加1；如果你使用重型盾或塔盾，该加值在你的基本攻击加值达到4及之后每4点时额外加1。每次你受到攻击后，不管该次攻击是否失手，该加值都会减少1。你也不能在措手不及，或者其他失去敏捷防御加值的场合从此能力中收益。"
+        },
+		{
+            "Key": "ShieldedDefenseEffectBuff_DynamicDecription",
+            "Value": "正在提供加值到AC"
+        },
+		{
+            "Key": "SacredShieldArchetype_DisplayName",
+            "Value": "圣盾卫"
+        },
+		{
+            "Key": "SacredShieldArchetype_Description",
+            "Value": "直面邪恶时，圣盾卫首先拿起的不是武器，而是她值得信赖的盾牌。靠着自己的信念，她可以保卫他人免受伤害。"
+        },
+		{
+            "Key": "HolyShield4Feature_DisplayName", 
+            "Value": "圣光盾牌"
+        },
+		{
+            "Key": "HolyShield4Feature_Description", 
+            "Value": "达到4级时，圣盾卫可以用信念充能盾牌，保护友军。附近友军获得盾牌{g|Encyclopedia:Bonus}加值{/g}，等于圣盾卫本身的盾牌{g|Encyclopedia:Bonus}加值{/g}，包含其,增强{g|Encyclopedia:Bonus}加值{/g}。该加值不能和已经存在的盾牌加值叠加。圣盾激活时圣武士会发出如同光亮术的光芒。\n达到11级时，保护效果扩展到10尺范围，同时光芒效果如同昼明术。\n达到20级时，保护效果扩展到20尺范围。\n使用这个能力消耗2次圣疗，且效果持续3+圣盾卫的 {g|Encyclopedia:Charisma}魅力{/g}调整值（如果有）。\n这替代了引导正向能量。"
+        },
+		{
+            "Key": "HolyShield4Feature_ShortDescription", 
+            "Value": "附近友军获得圣盾卫本身的盾牌加值，包括增强加值。该加值不能和已经存在的盾牌加值叠加。圣盾激活时圣武士会发出如同光亮术的光芒。\n达到11级时，保护效果扩展到10尺范围，同时光芒效果如同昼明术。\n达到20级时，保护效果扩展到20尺范围。\n使用这个能力消耗2次圣疗，且效果持续3+圣盾卫的 {g|Encyclopedia:Charisma}魅力{/g}调整值（如果有）。"
+        },
+		{
+            "Key": "HolyShield11Feature_Description", 
+            "Value": "达到11级时，圣光盾牌保护效果扩展到10尺范围，同时光芒效果如同昼明术。"
+        },
+		{
+            "Key": "HolyShield11Feature_ShortDescription", 
+            "Value": "圣光盾牌保护效果扩展到10尺范围，同时光芒效果如同昼明术。"
+        },
+		{
+            "Key": "HolyShield20Feature_Description", 
+            "Value": "达到20级时，圣光盾牌保护效果扩展到20尺范围。"
+        },
+		{
+            "Key": "HolyShield20Feature_ShortDescription", 
+            "Value": "圣光盾牌保护效果扩展到20尺范围。"
+        },
+		{
+            "Key": "HolyShieldEnchantment_Description", 
+            "Value": "圣盾卫用信念充能盾牌。附近友军获得圣盾卫本身的盾牌加值，包括增强加值。该加值不能和已经存在的盾牌加值叠加（除非另有说明）。保护范围取决于圣盾卫等级。如果盾牌解除装备效果会消失。"
+        },
+		{
+            "Key": "HolyShieldBuff5_Description", 
+            "Value": "圣盾卫用信念充能盾牌。附近友军获等于得圣盾卫本身的盾牌{g|Encyclopedia_AC}AC{/g} {g|Encyclopedia:Bonus}加值{/g}，包含增强{g|Encyclopedia:Bonus}加值{/g}。该{g|Encyclopedia:Bonus}加值{/g} 不能和已经存在的盾牌加值叠加。圣盾卫会发出如同光亮术的光芒。"
+        },
+		{
+            "Key": "HolyShieldBuff5_ShortDescription", 
+            "Value": "附近友军获等于得圣盾卫本身的盾牌AC加值，包含增强加值。该加值不能和已经存在的盾牌加值叠加。圣盾卫会发出如同光亮术的光芒。"
+        },
+		{
+            "Key": "HolyShieldBuff10_Description", 
+            "Value": "圣盾卫用信念充能盾牌。10尺内友军获等于得圣盾卫本身的盾牌{g|Encyclopedia_AC}AC{/g} {g|Encyclopedia:Bonus}加值{/g}，包含增强{g|Encyclopedia:Bonus}加值{/g}。该{g|Encyclopedia:Bonus}加值{/g} 不能和已经存在的盾牌加值叠加。圣盾卫会发出如同昼明术的光芒。"
+        },
+		{
+            "Key": "HolyShieldBuff10_ShortDescription", 
+            "Value": "10尺内友军获等于得圣盾卫本身的盾牌AC加值，包含增强加值。该加值不能和已经存在的盾牌加值叠加。圣盾卫会发出如同昼明术的光芒。"
+        },
+		{
+            "Key": "HolyShieldBuff20_Description", 
+            "Value": "圣盾卫用信念充能盾牌。20尺内友军获等于得圣盾卫本身的盾牌{g|Encyclopedia_AC}AC{/g} {g|Encyclopedia:Bonus}加值{/g}，包含增强{g|Encyclopedia:Bonus}加值{/g}。该{g|Encyclopedia:Bonus}加值{/g} 不能和已经存在的盾牌加值叠加。圣盾卫会发出如同昼明术的光芒。"
+        },
+		{
+            "Key": "HolyShieldBuff20_ShortDescription", 
+            "Value": "20尺内友军获等于得圣盾卫本身的盾牌AC加值，包含增强加值。该加值不能和已经存在的盾牌加值叠加。圣盾卫会发出如同昼明术的光芒。"
+        },
+		{
+            "Key": "HolyShieldEffectBuff_Description", 
+            "Value": "你位于圣光盾牌效果范围内，获得等于圣盾卫本的盾牌{g|Encyclopedia_AC}AC{/g}{g|Encyclopedia:Bonus}加值{/g}，包含增强{g|Encyclopedia:Bonus}加值{/g}。该加值不能和已经存在的盾牌加值叠加（除非另有说明）。"
+        },
+		{
+            "Key": "HolyShieldEffectBuff_ShortDescription", 
+            "Value": "获得等于圣盾卫本的盾牌AC加值，包含增强加值。该加值不能和已经存在的盾牌加值叠加（除非另有说明）。"
+        },
+		{
+            "Key": "ShieldSmiteAllyBuff_Displayname",
+            "Value": "善良壁垒"
+        },
+		{
+            "Key": "ShieldSmiteAllyBuff_Description",
+            "Value": "善良壁垒的目标造成生命值伤害时伤害减半。"
+        },
+		{
+            "Key": "ShieldSmiteAllyBuffPerfect_Displayname",
+            "Value": "善良壁垒 - 完美"
+        },
+		{
+            "Key": "ShieldSmiteAllyBuffPerfect_Description",
+            "Value": "善良壁垒的目标造成生命值伤害时伤害减半。此外，你还会面对该目标的攻击获得再生10（会被来自其他来源的伤害终止）。"
+        },
+		{
+            "Key": "ShieldSmiteBuff_DisplayName",
+            "Value": "辟邪斩（善良壁垒）"
+        },
+		{
+            "Key": "BastionOfGoodFeature_DisplayName",
+            "Value": "善良壁垒"
+        },
+		{
+            "Key": "BastionOfGoodFeature_Description",
+            "Value": "达到1级时，圣盾卫呼唤善良之力保护盟友对抗邪恶。该能力如同辟邪斩生效，但是圣盾卫不会获得攻击和伤害检定奖励。作为替代，目标对圣盾卫10尺内盟友造成的伤害减半。目标对圣盾卫造成正常伤害，但是圣盾卫对该目标在AC上获得等于魅力调整值的偏斜加值。每有4个圣武士等级该加值+1（20级时达到最大值+6）。如同辟邪斩，如果目标生物不是邪恶阵营，该能力会被浪费掉。增加辟邪斩使用次数的专长、能力和效果也能增加善良壁垒使用次数。\n这替代了辟邪斩。"
+        },
+		{
+            "Key": "BastionOfGoodFeature_ShortDescription",
+            "Value": "该能力如同辟邪斩生效，但是圣盾卫不会获得攻击和伤害检定奖励。作为替代，目标对圣盾卫10尺内盟友造成的伤害减半。目标对圣盾卫造成正常伤害，但是圣盾卫对该目标在AC上获得等于魅力调整值的偏斜加值。每有4个圣武士等级该加值+1（20级时达到最大值+6）。如同辟邪斩，如果目标生物不是邪恶阵营，该能力会被浪费掉。"
+        },
+		{
+            "Key": "BastionOfGoodImprovedFeature_DisplayName",
+            "Value": "精通善良壁垒"
+        },
+		{
+            "Key": "BastionOfGoodImprovedFeature_Description",
+            "Value": "达到11级时，善良壁垒范围增加到20尺。\n这替代了正义烙印。"
+        },
+		{
+            "Key": "BastionOfGoodImprovedFeature_ShortDescription",
+            "Value": "善良壁垒范围增加到20尺。"
+        },
+		{
+            "Key": "PerfectBastionFeature_Displayname",
+            "Value": "完美善良壁垒"
+        },
+		{
+            "Key": "PerfectBastionFeature_Description",
+            "Value": "达到20级时，圣盾卫和20尺内盟友还会面对善良壁垒目标的攻击获得再生10（会被来自其他来源的伤害终止）。\n这替代了神圣护卫。"
+        },
+		{
+            "Key": "PerfectBastionFeature_ShortDescription",
+            "Value": "圣盾卫和20尺内盟友面对善良壁垒目标的攻击获得再生10（会被来自其他来源的伤害终止）。"
+        },
+		{
+            "Key": "ShieldSmite10Buff_Description",
+            "Value": "10尺内盟友受到善良壁垒目标的攻击伤害减半。你面对其攻击受到全额伤害但在AC上获得等于魅力调整值的偏斜加值。每有4个圣武士等级该加值+1（20级时达到最大值+6）。"
+        },
+		{
+            "Key": "ShieldSmite20Buff_Description",
+            "Value": "20尺内盟友受到善良壁垒目标的攻击伤害减半。你面对其攻击受到全额伤害但在AC上获得等于魅力调整值的偏斜加值。每有4个圣武士等级该加值+1（20级时达到最大值+6）。"
+        },
+		{
+            "Key": "ShieldSmitePerfectBuff_Description",
+            "Value": "10尺内盟友受到善良壁垒目标的攻击伤害减半。你面对其攻击受到全额伤害但在AC上获得等于魅力调整值的偏斜加值。每有4个圣武士等级该加值+1（20级时达到最大值+6）。此外圣盾卫和20尺内盟友还会面对善良壁垒目标的攻击获得再生10（会被来自其他来源的伤害终止）。"
+        },
+		{
+            "Key": "ArrowCatching_SourceAttacks",
+            "Value": "{source}攻击"
+        },
+		{
+            "Key": "ArrowCatching_ShieldOfTarget",
+            "Value": "，使用{text}, 但是投射物飞向了{target}的附魔盾牌。"
+        },
+		{
+            "Key": "SacredShieldBondAdditionalUsesFeature_DisplayName", 
+            "Value": "神圣盟誓（盾）额外使用次数"
+        },
+		{
+            "Key": "SacredShieldBondAdditionalUsesFeature_Description", 
+            "Value": "增加神圣盟誓（盾）每天使用次数"
+        },
+		{
+            "Key": "ShieldSacredBondFeature_DisplayName", 
+            "Value": "神圣盟誓（盾）"
+        },
+		{
+            "Key": "ShieldSacredBondFeature_Description", 
+            "Value": "达到5级时，替代通常的武器或者坐骑，圣盾卫和盾牌结成神圣盟誓。使用标准动作，圣盾卫召唤天界精魂为盾牌附魔，持续每圣武士等级1分钟。附魔会让盾牌如同火把般发光。\n精魂为盾牌提供+1增强加值，并在5级后的每3级额外+1。该加值可以和盾牌原本的增强加值叠加，最多达到+5。\n此外精魂还能为盾牌提供以下属性：辟矢、吸矢、猛击、增援、决心、护命、镜反和抗法。镜反能力在每次使用神圣盟誓时可以使用一次。添加以上属性会占用一定数量的加值，数值等于该属性的等价加值。以上属性可添加至已存在属性的武器，但相同效果不会叠加。如果盾牌并非魔法盾牌，必须至少为其附魔+1增强加值才能增加特殊属性。如果盾牌被卸下，属性会全部消失。\n圣盾卫5级起每天可以使用1次此能力，并在5级后每4级使用额外1次，在17级时达到最大4次。"
+        },
+		{
+            "Key": "ShieldSacredBondFeature_DescriptionModified", 
+            "Value": "达到5级时，替代通常的武器或者坐骑，圣盾卫和盾牌结成神圣盟誓。使用标准动作，圣盾卫召唤天界精魂为盾牌附魔，持续每圣武士等级1分钟。附魔会让盾牌如同火把般发光。\n精魂为盾牌提供+1增强加值，并在5级后的每3级额外+1。该加值可以和盾牌原本的增强加值叠加，最多达到+5。\n此外精魂还能为盾牌提供以下属性：辟矢、吸矢、猛击、增援、决心、护命、镜反和法术抗力。镜反能力在每次使用神圣盟誓时可以使用一次。添加以上属性会占用一定数量的加值，数值等于该属性的等价加值。以上属性可添加至已存在属性的武器，但相同效果不会叠加。如果盾牌并非魔法盾牌，必须至少为其附魔+1增强加值才能增加特殊属性。如果盾牌被卸下，属性会全部消失。\n圣盾卫5级起每天可以使用1次此能力，并在5级后每4级使用额外1次，在17级时达到最大4次。"
+        },
+		{
+            "Key": "ShieldSacredBondFeature_ShortDescription", 
+            "Value": "达到5级时，替代通常的武器或者坐骑，圣盾卫和盾牌结成神圣盟誓。使用标准动作，圣盾卫召唤天界精魂为盾牌附魔，持续每圣武士等级1分钟。附魔会让盾牌如同火把般发光。\n精魂为盾牌提供+1增强加值，并在5级后的每3级额外+1。该加值可以和盾牌原本的增强加值叠加，最多达到+5。\n此外精魂还能为盾牌提供以下属性：辟矢、吸矢、猛击、增援、决心、护命、镜反和法术抗力。镜反能力在每次使用神圣盟誓时可以使用一次。添加以上属性会占用一定数量的加值，数值等于该属性的等价加值。"
+        },
+		{
+            "Key": "TemporaryEnhancement6_EnchantName", 
+            "Value": "临时增强+6"
+        },
+		{
+            "Key": "TemporaryEnhancement6_Description", 
+            "Value": "使用该武器{g|Encyclopedia:Attack}攻击{/g}在攻击和{g|Encyclopedia:Damage}伤害检定{/g}上获得+6增强{g|Encyclopedia:Bonus}加值{/g}。"
+        },
+		{
+            "Key": "TemporaryArmorEnhancementBonus6_EnchantName", 
+            "Value": "临时增强+6"
+        },
+		{
+            "Key": "TemporaryArmorEnhancementBonus6_Description", 
+            "Value": "该护甲获得额外+6增强加值到AC。"
+        },
+		{
+            "Key": "BashingEnchantment_EnchantName", 
+            "Value": "猛击"
+        },
+		{
+            "Key": "BashingEnchantment_Description", 
+            "Value": "拥有该属性的盾牌被设计用来盾击。。它造成的伤害等同于型号大二级的武器（中体型轻盾造成1d6伤害，中体型重盾造成1d8伤害）。用于施展盾击时，这面盾牌可作为+1武器。只有轻型和重型盾牌可以获得该属性。"
+        },
+		{
+            "Key": "BashingBondActivatableAbility_DisplayName", 
+            "Value": "圣盾卫 - 猛击"
+        },
+		{
+            "Key": "BashingBondActivatableAbility_Description", 
+            "Value": "圣盾卫使用神圣盟誓强化盾牌时可以附加猛击属性，占用1点增强加值。\n拥有该属性的盾牌被设计用来盾击。它造成的伤害等同于型号大二级的武器（中体型轻盾造成1d6伤害，中体型重盾造成1d8伤害）。用于施展盾击时，这面盾牌可作为+1武器。只有轻型和重型盾牌可以获得该属性。 "
+        },
+		{
+            "Key": "ArrowCatchingActivatableAbility_DisplayName", 
+            "Value": "圣盾卫 - 吸矢"
+        },
+		{
+            "Key": "ArrowCatchingActivatableAbility_Description", 
+            "Value": "圣盾卫使用神圣盟誓强化盾牌时可以附加吸矢属性，占用1点增强加值。\n拥有该属性的盾牌面对远程武器AC获得+2加值，因为投射物会被吸向这面盾牌。此外，射向5尺内其他目标的远程攻击也会被吸引向该盾牌持有者。如果盾牌持有者对于攻击者有全掩蔽，则攻击不会转向。增强加值高于盾牌基本AC加值的投射物不会转向（但是盾牌面对这些攻击的AC加值悠然有效）。"
+        },
+		{
+            "Key": "ArrowCatchingEffectBuff_DisplayName", 
+            "Value": "吸矢（保护友军）"
+        },
+		{
+            "Key": "ArrowCatchingEffectBuff_Description", 
+            "Value": "邻接友军正在保护你，射向你的投射物如果增强加值不高于该友军的盾牌增强加值，会被转向持盾的友军。"
+        },
+		{
+            "Key": "ArrowCatchingEffectBuff_DescriptionShort", 
+            "Value": "邻接友军正在保护你免于投射物攻击。"
+        },
+		{
+            "Key": "ArrowCatchingAoEBuff_DisplayName",
+            "Value": "吸矢（保护者）"
+        },
+		{
+            "Key": "ArrowCatchingAoEBuff_Description", 
+            "Value": "你的魔法盾牌正在吸引射向5尺内范围友军的投射物。"
+        },
+		{
+            "Key": "ArrowCatchingEnchantment_EnchantName", 
+            "Value": "吸矢"
+        },
+		{
+            "Key": "ArrowCatchingEnchantment_Description", 
+            "Value": "拥有该属性的盾牌面对远程武器AC获得+2加值，因为投射物会被吸向这面盾牌。此外，射向5尺内其他目标的远程攻击也会被吸引向该盾牌持有者。如果盾牌持有者对于攻击者有全掩蔽，则攻击不会转向。增强加值高于盾牌基本AC加值的投射物不会转向（但是盾牌面对这些攻击的AC加值悠然有效）。"
+        },
+		{
+            "Key": "Fortification25BondActivatableAbility_DisplayName", 
+            "Value": "圣盾卫 - 轻度护命"
+        },
+		{
+            "Key": "Fortification25BondActivatableAbility_Description", 
+            "Value": "圣盾卫使用神圣盟誓强化盾牌时可以附加轻度护命属性，占用1点增强加值。\n此盾牌可为装备者的要害部位提供更有效的魔法防护。当敌人对装备者确认{g|Encyclopedia:Critical}重击{/g}或造成偷袭时，可获得一次机会将其抵消，改为只{g|Encyclopedia:Dice}掷骰{/g}正常{g|Encyclopedia:Damage}伤害{/g}。轻度护命的生效几率为25%，中度护命的生效几率为50%，重度护命的生效几率为75%。"
+        },
+		{
+            "Key": "Fortification50BondActivatableAbility_DisplayName", 
+            "Value": "圣盾卫 - 中度护命"
+        },
+		{
+            "Key": "Fortification50BondActivatableAbility_Description", 
+            "Value": "圣盾卫使用神圣盟誓强化盾牌时可以附加中度护命属性，占用3点增强加值。\n此盾牌可为装备者的要害部位提供更有效的魔法防护。当敌人对装备者确认{g|Encyclopedia:Critical}重击{/g}或造成偷袭时，可获得一次机会将其抵消，改为只{g|Encyclopedia:Dice}掷骰{/g}正常{g|Encyclopedia:Damage}伤害{/g}。轻度护命的生效几率为25%，中度护命的生效几率为50%，重度护命的生效几率为75%。"
+        },
+		{
+            "Key": "Fortification75BondActivatableAbility_DisplayName", 
+            "Value": "圣盾卫 - 重度护命"
+        },
+		{
+            "Key": "Fortification75BondActivatableAbility_Description", 
+            "Value": "圣盾卫使用神圣盟誓强化盾牌时可以附加重度护命属性，占用5点增强加值。\n此盾牌可为装备者的要害部位提供更有效的魔法防护。当敌人对装备者确认{g|Encyclopedia:Critical}重击{/g}或造成偷袭时，可获得一次机会将其抵消，改为只{g|Encyclopedia:Dice}掷骰{/g}正常{g|Encyclopedia:Damage}伤害{/g}。轻度护命的生效几率为25%，中度护命的生效几率为50%，重度护命的生效几率为75%。"
+        },
+		{
+            "Key": "SpellResistance13BondActivatableAbility_DisplayName", 
+            "Value": "圣盾卫 - 法术抗力（13）"
+        },
+		{
+            "Key": "SpellResistance13BondActivatableAbility_Description", 
+            "Value": "圣盾卫使用神圣盟誓强化盾牌时可以附加法术抗力（13）属性，占用2点增强加值。\n该属性在装备时为持有者提供法术抗力。"
+        },
+		{
+            "Key": "SpellResistance15BondActivatableAbility_DisplayName", 
+            "Value": "圣盾卫 - 法术抗力（15）"
+        },
+		{
+            "Key": "SpellResistance15BondActivatableAbility_Description", 
+            "Value": "圣盾卫使用神圣盟誓强化盾牌时可以附加法术抗力（15）属性，占用3点增强加值。\n该属性在装备时为持有者提供法术抗力。"
+        },
+		{
+            "Key": "SpellResistance17BondActivatableAbility_DisplayName", 
+            "Value": "圣盾卫 - 法术抗力（17）"
+        },
+		{
+            "Key": "SpellResistance17BondActivatableAbility_Description", 
+            "Value": "圣盾卫使用神圣盟誓强化盾牌时可以附加法术抗力（17）属性，占用4点增强加值。\n该属性在装备时为持有者提供法术抗力。"
+        },
+		{
+            "Key": "SpellResistance19BondActivatableAbility_DisplayName", 
+            "Value": "圣盾卫 - 法术抗力（19）"
+        },
+		{
+            "Key": "SpellResistance19BondActivatableAbility_Description", 
+            "Value": "圣盾卫使用神圣盟誓强化盾牌时可以附加法术抗力（19）属性，占用5点增强加值。\n该属性在装备时为持有者提供法术抗力。"
+        },
+		{
+            "Key": "DeterminationBuff_DisplayName", 
+            "Value": "决心"
+        },
+		{
+            "Key": "DeterminationBuff_Description", 
+            "Value": "你逃得一命。当你处于这个效果下并死亡时，一个自动激发的生命之息会将你救回50点实名制，但是随后该效果移除。"
+        },
+		{
+            "Key": "DeterminationEnchantment_EnchantName", 
+            "Value": "决心"
+        },
+		{
+            "Key": "DeterminationEnchantment_Description", 
+            "Value": "拥有这个属性盾牌将在希望渺茫的战斗中为你提供帮助。每天一次，当持有者生命低于0时会自动激发一次生命之息法术。"
+        },
+		{
+            "Key": "DeterminationBondActivatableAbility_DisplayName", 
+            "Value": "圣盾卫 - 决心"
+        },
+		{
+            "Key": "DeterminationBondActivatableAbility_Description", 
+            "Value": "圣盾卫使用神圣盟誓强化盾牌时可以附加决心属性，占用5点增强加值。\n拥有这个属性盾牌将在希望渺茫的战斗中为你提供帮助。每天一次，当持有者生命低于0时会自动激发一次生命之息法术。"
+        },
+		{
+            "Key": "SacredBondPlus2Feature_DisplayName", 
+            "Value": "神圣盟誓（盾）+2"
+        },
+		{
+            "Key": "SacredBondPlus2Feature_Description", 
+            "Value": "达到8级起圣盾卫可以为盾牌附加+2增强和以下魔法属性：法术抗力（13）、辟矢、增援。"
+        },
+		{
+            "Key": "SacredBondPlus3Feature_DisplayName", 
+            "Value": "神圣盟誓（盾）+3"
+        },
+		{
+            "Key": "SacredBondPlus3Feature_Description", 
+            "Value": "达到11级起圣盾卫可以为盾牌附加+3增强和以下魔法属性：法术抗力（15）、中度护命。"
+        },
+		{
+            "Key": "SacredBondPlus4Feature_DisplayName", 
+            "Value": "神圣盟誓（盾）+4"
+        },
+		{
+            "Key": "SacredBondPlus4Feature_Description", 
+            "Value": "达到14级起圣盾卫可以为盾牌附加+4增强和以下魔法属性：法术抗力（17)。"
+        },
+		{
+            "Key": "SacredBondPlus5Feature_DisplayName", 
+            "Value": "神圣盟誓（盾）+5"
+        },
+		{
+            "Key": "SacredBondPlus5Feature_Description", 
+            "Value": "达到17级起圣盾卫可以为盾牌附加+5增强和以下魔法属性：法术抗力（19）、重度护命、决心。"
+        },
+		{
+            "Key": "SacredBondPlus6Feature_DisplayName", 
+            "Value": "神圣盟誓（盾）+6"
+        },
+		{
+            "Key": "SacredBondPlus6Feature_Description", 
+            "Value": "达到20级起圣盾卫可以为盾牌附加+6增强。"
+        },
+		{
+            "Key": "RallyingBuff_DisplayName", 
+            "Value": "增援"
+        },
+		{
+            "Key": "RallyingBuff_Description", 
+            "Value": "面对恐惧效果获得+6士气加值。"
+        },
+		{
+            "Key": "RallyingEnchantment_EnchantName", 
+            "Value": "增援"
+        },
+		{
+            "Key": "RallyingEnchantment_Description", 
+            "Value": "这种盔甲或盾牌闪耀着光辉的明亮魔法表面给同伴带来信心。30尺内盟军面对恐惧效果豁免检定获得+6士气加值。"
+        },
+		{
+            "Key": "RallyingBondActivatableAbility_DisplayName",
+            "Value": "增援"
+        },
+		{
+            "Key": "RallyingBondActivatableAbility_Description", 
+            "Value": "圣盾卫使用神圣盟誓强化盾牌时可以附加增援属性，占用2点增强加值。\n这种盔甲或盾牌闪耀着光辉的明亮魔法表面给同伴带来信心。30尺内盟军面对恐惧效果豁免检定获得+6士气加值。"
+        },
+		{
+            "Key": "MageShield_description", 
+            "Value": "{g|Encyclopedia:Attack}{/g}护盾术制造一个隐形的力场盾牌悬浮在你身前。它可以吸收射向你的魔法飞弹。该盾牌同时为{g|Encyclopedia:Armor_Class}防御等级{/g}提供+4其它{g|Encyclopedia:Bonus}加值{/g}。[LONGSTART]该加值属于力场效应，故对{g|Encyclopedia:Incorporeal_Touch_Attack}虚体{/g}{g|Encyclopedia:TouchAttack}接触攻击{/g}有效。该盾牌不会带来防具{g|Encyclopedia:Check}检定{/g}{g|Encyclopedia:Penalty}减值{/g}和{g|Encyclopedia:Spell_Fail_Chance}奥术失败率{/g}。[LONGEND]"
+        },
+		{
+            "Key": "ShieldsProficiency_DescriptionWithoutBuckler", 
+            "Value": "你擅长使用轻型盾牌和重型盾牌，学会在防御式战斗中更好使用它们。"
+        },
+		{
+            "Key": "BucklerProficiency_DisplayName", 
+            "Value": "小圆盾擅长"
+        },
+		{
+            "Key": "BucklerProficiencyWithParry_Description", 
+            "Value": "你擅长使用小圆盾，用它们格挡袭来的攻击。"
+        },
+		{
+            "Key": "WayOfTheShield_BarbarianProficiencies_Shieldless", 
+            "Value": "野蛮人擅长使用所有简易和{g|Encyclopedia:Weapon_Proficiency}军用武器{/g}、轻型盔甲、中型盔甲和盾牌（不包括小圆盾和塔盾）。"
+        },
+		{
+            "Key": "WayOfTheShield_CavalierProficiencies_Shieldless", 
+            "Value": "骑将擅长使用所有简易和{g|Encyclopedia:Weapon_Proficiency}军用武器{/g}，以及所有类型盔甲（重型、中型和轻型）和盾牌（不包括小圆盾和塔盾）。"
+        },
+		{
+            "Key": "WayOfTheShield_ClericProficiencies_Shieldless", 
+            "Value": "牧师擅长使用所有{g|Encyclopedia:Weapon_Proficiency}简易武器{/g}、轻型盔甲、中型盔甲和盾牌（不包括小圆盾和塔盾）。牧师同时擅长其侍奉神祇的偏好武器。"
+        },
+		{
+            "Key": "WayOfTheShield_DruidProficiencies_Shieldless", 
+            "Value": "德鲁伊擅长使用以下武器：木棒、匕首、飞镖、木棍、弯刀、巨镰、镰刀、短矛、投石索和矛。他们同样精通野性变身后获得的所有{g|Encyclopedia:NaturalAttack}天生攻击{/g}（爪抓、啮咬等）。\n德鲁伊擅长轻型和中型盔甲，但不可穿戴金属盔甲，只能穿戴厚布甲、皮甲或革甲。德鲁伊还可穿戴被施放过金刚木，变得如钢铁般坚硬的木制盔甲。德鲁伊擅长盾牌（小圆盾和塔盾除外），但只能使用木制盾牌。{g|Encyclopedia:Spell}{/g}"
+        },
+		{
+            "Key": "WayOfTheShield_OracleProficiency_Shieldless", 
+            "Value": "先知擅长使用所有{g|Encyclopedia:Weapon_Proficiency}简易武器{/g}，轻型盔甲，中型盔甲和盾牌（不包括小圆盾和塔盾）。"
+        },
+		{
+            "Key": "WayOfTheShield_PaladinProficiencies_Shieldless", 
+            "Value": "圣武士擅长使用所有简易和{g|Encyclopedia:Weapon_Proficiency}军用武器{/g}，以及所有类型盔甲（重型、中型和轻型）和盾牌（不包括小圆盾和塔盾）。"
+        },
+		{
+            "Key": "WayOfTheShield_SkaldProficiencies_Shieldless", 
+            "Value": "歌者擅长所有简易和{g|Encyclopedia:Weapon_Proficiency}军用武器{/g}，轻型和中型盔甲，以及盾牌（不包括小圆盾和塔盾）。歌者可以在装备轻型、中型盔甲，甚至使用盾牌时施放歌者{g|Encyclopedia:Spell}法术{/g}，而不会承受正常的{g|Encyclopedia:Spell_Fail_Chance}奥术失败率{/g}。这不会影响来自其他职业的奥术失败率。与其他奥术施法者一样，如果法术具有姿势要素，歌者在穿戴重型盔甲时便会承受正常的奥术失败率。"
+        },
+		{
+            "Key": "WayOfTheShield_WarpriestProficiencies_Shieldless", 
+            "Value": "战斗祭司擅长所有简易和{g|Encyclopedia:Weapon_Proficiency}军用武器{/g}，以及所信仰神祇的偏好武器，擅长所有盔甲（轻型、中型和重型）和盾牌（不包括小圆盾和塔盾）。"
+        },
+		{
+            "Key": "WayOfTheShield_StalwartDefenderProficiencies_Shieldless", 
+            "Value": "坚定防御者擅长所有简易和{g|Encyclopedia:Weapon_Proficiency}军用武器{/g}，擅长所有盔甲（轻型、中型和重型）和盾牌（包括塔盾，不包括小圆盾）。"
+        },
+		{
+            "Key": "WayOfTheShield_BeastRiderProficiencies_Shieldless", 
+            "Value": "兽骑兵擅长使用轻型和中型盔甲，以及盾牌（不包括小圆盾和塔盾）。"
+        },
+		{
+            "Key": "WayOfTheShield_AngelfireApostleProficiencies_Shieldless", 
+            "Value": "天火使徒只擅长使用轻型盔甲。"
+        },
+		{
+            "Key": "WayOfTheShield_SettingsGroup_Title", 
+            "Value": "盾牌之道 - 设置"
+        },
+		{
+            "Key": "way-of-the-shield.SettingButton_Default", 
+            "Value": "默认"
+        },
+		{
+            "Key": "way-of-the-shield.SettingButton_Apply", 
+            "Value": "应用"
+        },
+		{
+            "Key": "way-of-the-shield.SettingButton_Cancel", 
+            "Value": "取消"
+        },
+		{
+            "Key": "way-of-the-shield.debug_Description", 
+            "Value": "调试"
+        },
+		{
+            "Key": "way-of-the-shield.debug_TooltipDescription", 
+            "Value": "开启这项会让你的游戏日志填满调试信息。你应该不会想要这样。"
+        },
+		{
+            "Key": "way-of-the-shield.allow-equip-non-profficient-items_Description", 
+            "Value": "允许装备你不擅长的装备"
+        },
+		{
+            "Key": "way-of-the-shield.allow-equip-non-profficient-items_TooltipDescription", 
+            "Value": "桌面规则中，允许你装备不擅长的武器和护甲，但是在攻击检定上获得减值。"
+        },
+		{
+            "Key": "way-of-the-shield.forbid-close-flanking_Description", 
+            "Value": "允许桌面夹击规则"
+        },
+		{
+            "Key": "way-of-the-shield.forbid-close-flanking_TooltipDescription", 
+            "Value": "默认游戏中，只要同时攻击目标，不需要考虑位置就能形成夹击。桌面规则中，夹击者必须从另一侧攻击才能形成夹击。开启该选项会启用桌面规则。（最小夹击角度为110度。精通包抄专长可以将这个角度降低到60度。"
+        },
+		{
+            "Key": "way-of-the-shield.allow-close-flanking-to-enemies_Description", 
+            "Value": "敌人忽略桌面夹击规则"
+        },
+		{
+            "Key": "way-of-the-shield.allow-close-flanking-to-enemies_TooltipDescription", 
+            "Value": "如果你开启上面的桌面夹击规则，你也许会发现游戏过于简单，因为怪物AI并不会做对应调整。开启这个选项你可以让夹击规则只对玩家生效。"
+        },
+		{
+            "Key": "way-of-the-shield.concealment-attack-bonus-on-backstab_Description", 
+            "Value": "允许背刺获得隐蔽加值"
+        },
+		{
+            "Key": "way-of-the-shield.concealment-attack-bonus-on-backstab_TooltipDescription", 
+            "Value": "原创规则。当从背后攻击时，如果该选项开启且目标没有任何类型的盲斗能力，攻击者获得+2隐蔽加值。不会提供其他隐蔽好处。"
+        },
+		{
+            "Key": "way-of-the-shield.deny-shield-bonus-on-backstab_Description", 
+            "Value": "允许背后攻击无视盾牌"
+        },
+		{
+            "Key": "way-of-the-shield.deny-shield-bonus-on-backstab_TooltipDescription", 
+            "Value": "原创规则。当从背后攻击时，如果该选项开启，目标无法用盾牌防御因此会失去盾牌对AC的加值。"
+        },
+		{
+            "Key": "way-of-the-shield.flat-footed-on-backstab_Description", 
+            "Value": "允许背后攻击视为完全隐蔽"
+        },
+		{
+            "Key": "way-of-the-shield.flat-footed-on-backstab_TooltipDescription", 
+            "Value": "原创规则。当从背后攻击时，如果该选项开启且目标没有任何类型的盲斗能力，攻击者视为拥有完全隐蔽。这会导致目标视为措手不及。"
+        },
+		{
+            "Key": "way-of-the-shield.add-buckler-parry_Description", 
+            "Value": "允许圆盾格挡"
+        },
+		{
+            "Key": "way-of-the-shield.add-buckler-parry_TooltipDescription", 
+            "Value": "原创规则。加入新的擅长圆盾基础能力。这个能力允许你使用小圆盾来格挡袭来的攻击，但是受到双武器战斗减值。"
+        },
+		{
+            "Key": "way-of-the-shield.fix-rapiers_Description", 
+            "Value": "禁止双手持用细剑"
+        },
+		{
+            "Key": "way-of-the-shield.fix-rapiers_TooltipDescription", 
+            "Value": "桌面规则并不允许你双手持有细剑来获得1.5倍力量调整值。开启该选项使用此规则。"
+        },
+		{
+            "Key": "way-of-the-shield.allow-two-handed-spears-as-one-handed-when-mounted_Description", 
+            "Value": "允许骑乘持矛"
+        },
+		{
+            "Key": "way-of-the-shield.allow-two-handed-spears-as-one-handed-when-mounted_TooltipDescription", 
+            "Value": "原创规则。开启此选项让你在使用骑乘战斗时，允许单手持用矛和长矛。你可以使用“单手持用武器”来切换持有方式。"
+        },
+		{
+            "Key": "way-of-the-shield.allow-two-handed-as-one-handed-when-buckler_Description", 
+            "Value": "允许使用小圆盾时装备双手武器"
+        },
+		{
+            "Key": "way-of-the-shield.allow-two-handed-as-one-handed-when-buckler_TooltipDescription", 
+            "Value": "桌面规则中，你可以在持有小圆盾的同时使用双手武器，但是在双手攻击时失去小圆盾的AC加值。如果如此装备武器，你攻击时受到-1减值，但是在使用弓弩或者拥有自由之盾专长时除外。 "
+        },
+		{
+            "Key": "way-of-the-shield.give-immediate-repositioning-to-tss_Description", 
+            "Value": "允许塔盾专精斗士变体的瞬间换防能力"
+        },
+		{
+            "Key": "way-of-the-shield.give-immediate-repositioning-to-tss_TooltipDescription", 
+            "Value": "桌面规则中，战士的塔盾专精斗士变体13级拥有瞬间换防能力，允许使用迅捷动作改变塔盾朝向。 默认游戏中该能力被完全掩蔽替代，启用此选项恢复该能力。如果已经达到13级的角色会需重置人物才能生效。"
+        },
+		{
+            "Key": "way-of-the-shield.remove-total-cover-feature-from-tss_Description", 
+            "Value": "移除塔盾专精斗士变体完全掩蔽专长"
+        },
+		{
+            "Key": "way-of-the-shield.remove-total-cover-feature-from-tss_TooltipDescription", 
+            "Value": "桌面规则中，战士的塔盾专精斗士变体13级拥有瞬间换防能力，允许使用迅捷动作改变塔盾朝向。 默认游戏中该能力被完全掩蔽替代，启用此选项移除完全掩蔽能力。如果已经达到13级的角色会需重置人物才能生效。"
+        },
+		{
+            "Key": "way-of-the-shield.enable-soft-sover_Description", 
+            "Value": "允许软掩蔽"
+        },
+		{
+            "Key": "way-of-the-shield.enable-soft-sover_TooltipDescription", 
+            "Value": "桌面规则中，任何处于攻击线上的其他生物的阻碍，都会使目标在AC上获得掩蔽加值。掩蔽加值取决于障碍物尺寸。启用此选项使用桌面规则。"
+        },
+		{
+            "Key": "way-of-the-shield.add-soft-cover-denial-to-improved-precise-shot_Description", 
+            "Value": "精通精确射击忽视软掩蔽"
+        },
+		{
+            "Key": "way-of-the-shield.add-soft-cover-denial-to-improved-precise-shot_TooltipDescription", 
+            "Value": "桌面规则中，精通精确射击也能忽略软掩蔽。如果启用了软掩蔽规则，你可以开启此选项来同样改变精通精确射击专长。"
+        },
+		{
+            "Key": "way-of-the-shield.change-shield-wall_Description", 
+            "Value": "改变盾墙专长"
+        },
+		{
+            "Key": "way-of-the-shield.change-shield-wall_TooltipDescription", 
+            "Value": "原创规则。改变团队专长盾墙，用更苛刻的发动条件换取更高AC加值。"
+        },
+		{
+            "Key": "way-of-the-shield.buff-sacred-shield-enhacement-array_Description", 
+            "Value": "增强圣盾卫"
+        },
+		{
+            "Key": "way-of-the-shield.buff-sacred-shield-enhacement-array_TooltipDescription", 
+            "Value": "原创规则。默认规则中圣盾卫不能使得增强加值超过5，开启此选项允许加值达到+6。"
+        },
+		{
+            "Key": "way-of-the-shield.remove-buckler-proficiencies_Description", 
+            "Value": "移除默认小圆盾擅长"
+        },
+		{
+            "Key": "way-of-the-shield.remove-buckler-proficiencies_TooltipDescription", 
+            "Value": "原创规则。擅长盾牌不再包括小圆盾，而改为独立专长。大量职业的默认擅长被重新调整。"
+        },
+		{
+            "Key": "way-of-the-shield.change-shield-spell_Description", 
+            "Value": "改变护盾术"
+        },
+		{
+            "Key": "way-of-the-shield.change-shield-spell_TooltipDescription", 
+            "Value": "激活此选项使得护盾术的AC加值类型从盾牌加值变为其它加值。但是炼金术士不能再获得该法术。"
+        },
+		{
+            "Key": "way-of-the-shield.allow-shield-bash-without-improved-feature_Description", 
+            "Value": "允许无专长使用盾击"
+        },
+		{
+            "Key": "way-of-the-shield.allow-shield-bash-without-improved-feature_TooltipDescription", 
+            "Value": "桌面规则中，任何装备盾的人物都可以发动盾击，但是会在回合结束前失去AC上的盾牌加值。学习精通盾击专长可以避免失去AC。默认游戏中则必须拥有精通盾击专长才能发动盾击。激活此选项使用桌面规则。"
+        },
+		{
+            "Key": "way-of-the-shield.change-back-to-back_Description", 
+            "Value": "修改背靠背团队专长"
+        },
+		{
+            "Key": "way-of-the-shield.change-back-to-back_TooltipDescription", 
+            "Value": "如果您在启用此选项的同时启用软掩蔽选项，背靠背不再为你对抗夹击时的AC提供+2环境加值，而是改为提高你队友对你的软掩蔽效果，增加1.5倍；此外，如果你启用了在背刺时失去盾牌加值的选项，那么当你从背靠背中受益时，你的盟友将能够为你提供他们自己的盾牌加值。然而，为了从中受益，你和盟友必须背靠背，且彼此之间的距离不得超过1英尺。\n此设置也会改变新团队技能精通背靠背的效果。当此设置被禁用时，专长的改进版本只会将专长的基本版本的加成增加2。如果启用了此设置，同时您还启用了在背刺获得隐蔽加值和/或背刺视为目标措手不及的选项，精通背靠背可以抵消这些效果。"
+        },
+		{
+            "Key": "MountedCombat_description", 
+            "Value": "每{g|Encyclopedia:Combat_Round}轮{/g}一次，当你的坐骑在战斗中被击中时，你可以尝试{g|Encyclopedia:Mobility}灵巧{/g}检定来抵消这次{g|Encyclopedia:Attack}攻击{/g}。如果你的灵巧{g|Encyclopedia:Check}检定{/g}结果高于敌方攻击检定结果，这次攻击就会被抵消。{shield_check_set_bool|allow-two-handed-spears-as-one-handed-when-mounted| \n此外，当你骑乘战斗时，你可以单手持用双手长矛。| }"
+        },
+		{
+            "Key": "BackToBackNew_Description", 
+            "Value": "<i>铁壁坚垒，不及汝肩。</i>\n<b>效果：</b> 与友军背靠背站立时（双方距离不能大于1尺，双方需要面向相反方向，友军需要能正常行动），{shield_check_set_bool|enable-soft-sover|友军为你提供的软掩蔽增加1.5倍|当你被夹击时在AC上获得+2 环境加值} 。{shield_check_set_bool|deny-shield-bonus-on-backstab|此外，当该友军装备盾牌时，你会在面对背刺时，在AC上获得其使用的盾牌加值和盾牌增强加值（但是不能获得其它来自盾牌的能力和其他来源的盾牌加值）。}"
+        },
+		{
+            "Key": "BackToBackImproved_DisplayName", 
+            "Value": "精通背靠背"
+        },
+		{
+            "Key": "BackToBackImproved_Description", 
+            "Value": "<i>心有灵犀，生死相托。</i>\n<b>效果：</b>当你从背靠背专长中获益时，{shield_check_set_bool|concealment-attack-bonus-on-backstab|从背后攻击你的敌人无法获得+2隐蔽加值}{shield_check_set_bool|concealment-attack-bonus-on-backstab|，被背刺时你不被视为措手不及}。"
+        },
+		{
+            "Key": "BackToBackImproved_Unchanged_Description", 
+            "Value": "<i>心有灵犀，生死相托。</i>\n背靠背的环境加值提高到+4。"
+        },
+		{
+            "Key": "Mythic_ShieldedDefense_m_DisplayName", 
+            "Value": "神话盾牌防御"
+        },
+		{
+            "Key": "Mythic_ShieldedDefense_m_Description", 
+            "Value": "<i>盾若流光，八面迎敌。</i> \n使用盾牌防御时，每第二次攻击才会降低其AC加值。"
+        },
+		{
+            "Key": "Mythic_BucklerParryFeature_DisplayName", 
+            "Value": "神话圆盾格挡"
+        },
+		{
+            "Key": "Mythic_BucklerParryFeature_Description", 
+            "Value": "每个回合你可以用最高攻击加值，用圆盾和轻型盾进行额外一次格挡。如果你你拥有精通双武器战斗和高等双武器战斗专长，你从每个专长获得额外1次格挡。"
+        },
+        
+	]	
+}
