@@ -2900,7 +2900,7 @@ C:\Users\你的用户名\AppData\LocalLow\Owlcat Games\Pathfinder Wrath Of The R
       <td>Flanking</td>
       <td>夹击</td>
           <td>修改夹击规则和桌面相同，要求计算夹角</td></tr>
-   <tr><td rowspan="2">原创规则</i></td>
+   <tr><td rowspan="1">原创规则</i></td>
       <td>Backstab</td>
       <td>背刺</td>
      	  <td>背后攻击可以无视对方盾牌、获得隐蔽加值，甚至视为完全隐蔽（视同对方措手不及），可在选项中调节</td></tr>
