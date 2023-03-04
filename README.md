@@ -48,6 +48,7 @@
   - [WorldCrawl](#WorldCrawl)  :exclamation:
   - [AlternateHumanTraits](#AlternateHumanTraits) 人类替换特性
   - [WOTR_IsekaiMod](#WOTR_IsekaiMod) 异世界主角（滥强警告）
+  - [Way-of-the-shield](#Way-of-the-shield) 盾牌之道
   - [功能MOD索引](#功能MOD索引) 
 
 
@@ -2884,6 +2885,7 @@ C:\Users\你的用户名\AppData\LocalLow\Owlcat Games\Pathfinder Wrath Of The R
 + 提供了还原桌面规则的夹击功能
 + 提供了盾牌的原创规则
 + 提供了新变体和专长
+<table>
  <tr><th colspan="4">新增内容列表<br></th></tr> 
   <tr><td rowspan="2">变体</i></td>
       <td>Sacred Shield</td>
