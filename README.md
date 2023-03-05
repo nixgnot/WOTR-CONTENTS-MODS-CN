@@ -2606,7 +2606,7 @@ C:\Users\你的用户名\AppData\LocalLow\Owlcat Games\Pathfinder Wrath Of The R
    <tr><th colspan="3">新增内容列表</th></tr> 
    <td>种族</td>
           <td>Skinwalker</td>
-          <td>兽态人<br>包含亚种Classic 典型、Ragebred 怒孽、Bloodmarked 血印、Coldborn 冷嗣、Scaleheart 鳞心、Nightskulk 夜隐、Seascarred 海疤、Fanglord 牙王、Witchwolf 巫狼、Aerieborn 鹰裔<br><i>参阅PF文档</i></td></tr>
+          <td>兽态人<br>包含亚种Classic 典型、Ragebred 怒孽、Bloodmarked 血印、Coldborn 冷嗣、Scaleheart 鳞心、Nightskulk 夜隐、Seascarred 海疤、Fanglord 牙王、Witchwolf 巫狼、Aerieborn 羽族<br><i>参阅PF文档</i></td></tr>
    <tr><td rowspan="7">专长</td>
           <td>Dazing Assault</td><td>
              晕眩强袭：降低5AB为代价攻击造成敌人眩晕，DC=10+BAB</td></tr>
