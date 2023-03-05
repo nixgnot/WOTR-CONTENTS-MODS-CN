@@ -1,1 +1,1163 @@
+[
 
+  {
+    "Key": "ComeAndGetMe.Name",
+    "ProcessTemplates": false,
+    "enGB": "Come And Get Me!",
+    "zhCN": "反击态势"
+  },
+
+  {
+    "Key": "ComeAndGetMe.Description",
+    "enGB": "While raging, as a free action the barbarian may leave herself open to attack while preparing devastating counterattacks. Enemies gain a +4 bonus on attack and damage rolls against the barbarian until the beginning of her next turn, but every attack against the barbarian provokes an attack of opportunity from her, which is resolved prior to resolving each enemy attack.",
+    "zhCN": "狂暴时，野蛮人可以用自由动作让自己处于空门大开的状态。敌人直到野蛮人下个回合前获得对野蛮人+4的攻击和伤害掷骰加值， 但是每次对野蛮人的攻击都会提前引发其借机攻击。"
+  },
+
+  {
+    "Key": "BrokenWingGambit.Name",
+    "ProcessTemplates": false,
+    "enGB": "Broken Wing Gambit",
+    "zhCN": "断翼赌局"
+  },
+
+  {
+    "Key": "BrokenWingGambit.Description",
+    "enGB": "Whenever you make a melee attack and hit your opponent, you can use a free action to grant that opponent a +2 bonus on attack and damage rolls against you until the end of your next turn or until your opponent attacks you, whichever happens first. If that opponent attacks you with this bonus, it provokes attacks of opportunity from your allies who have this feat.",
+    "zhCN": "每次你成功用近战攻击击中对手，你可以使用自由动作，为那个敌人授予对你+2的攻击和伤害掷骰加值，直到你的下个回合或者直到其攻击你。如果敌人用此加值攻击了你，会引发拥有此专长的盟友借机攻击。"
+  },
+
+  {
+    "Key": "DazingAssault.Name",
+    "ProcessTemplates": false,
+    "enGB": "Dazing Assault",
+    "zhCN": "晕眩强袭"
+  },
+
+  {
+    "Key": "DazingAssault.Description",
+    "enGB": "You can choose to take a -5 penalty on all melee attack rolls and combat maneuver checks to daze opponents you hit with your melee attacks for 1 round, in addition to the normal damage dealt by the attack. A successful Fortitude save negates the effect. The DC of this save is 10 + your base attack bonus. You must choose to use this feat before making the attack roll, and its effects last until your next turn.",
+    "zhCN": "你可以选择在1轮内所有近战攻击和战技检定上受到–5减值，但是能够眩晕你近战击中的敌人。成功的强韧豁免可以避免此效果。DC为 10 + 你的基础攻击加值。你必须在攻击前选择是否启用此专长，效果持续到你的下个回合。"
+  },
+
+  {
+    "Key": "StunningAssault.Name",
+    "ProcessTemplates": false,
+    "enGB": "Stunning Assault",
+    "zhCN": "震慑强袭"
+  },
+
+  {
+    "Key": "StunningAssault.Description",
+    "enGB": "You can choose to take a –5 penalty on all melee attack rolls and combat maneuver checks to stun targets you hit with your melee attacks for 1 round. A successful Fortitude save negates the effect. The DC of this save is 10 + your base attack bonus. You must choose to use this feat before making the attack roll, and its effects last until your next turn.",
+    "zhCN": "你可以选择在1轮内所有近战攻击和战技检定上受到–5减值，但是能够震慑你近战击中的敌人。成功的强韧豁免可以避免此效果。DC为 10 + 你的基础攻击加值。你必须在攻击前选择是否启用此专长，效果持续到你的下个回合。"
+  },
+
+  {
+    "Key": "ShieldSlam.Name",
+    "ProcessTemplates": false,
+    "enGB": "Shield Slam",
+    "zhCN": "盾牌猛冲"
+  },
+
+  {
+    "Key": "ShieldSlam.Description",
+    "enGB": "Any opponents hit by your shield bash are also hit with a free bull rush attack.",
+    "zhCN": "被你盾击击中的敌人也会受到一次冲撞攻击。"
+  },
+
+  {
+    "Key": "ViciousStomp.Name",
+    "ProcessTemplates": false,
+    "enGB": "Vicious Stomp",
+    "zhCN": "恶毒踩踏"
+  },
+
+  {
+    "Key": "ViciousStomp.Description",
+    "enGB": "Whenever an opponent falls prone adjacent to you, that opponent provokes an attack of opportunity from you. This does not stack with greater trip. This attack must be an unarmed strike.",
+    "zhCN": "每当邻接敌人倒地时，那个敌人引发你的借机攻击。这不能和恶毒践踏者叠加。这次攻击必须为徒手攻击。"
+  },
+
+  {
+    "Key": "RagingBrutality.Name",
+    "ProcessTemplates": false,
+    "enGB": "Raging Brutality",
+    "zhCN": "狂暴猛击"
+  },
+
+  {
+    "Key": "RagingBrutality.Description",
+    "enGB": "While raging and using Power Attack, you can spend 3 additional rounds of your rage as a swift action to add your Constitution bonus on damage rolls for melee attacks or thrown weapon attacks you make on your turn. This bonus damage is multiplied on a critical hit.",
+    "zhCN": "在狂暴并使用猛力攻击时，你花费额外3轮狂暴轮数，用一个迅捷动作在你的回合将你的体质调整值加入近战或者投掷武器伤害中。该额外伤害可以重击。"
+  },
+
+  {
+    "Key": "RagingBrutality.StandardRage.Name",
+    "ProcessTemplates": false,
+    "enGB": "Raging Brutality - Rage",
+    "zhCN": "狂暴猛击 - 狂暴"
+  },
+
+  {
+    "Key": "RagingBrutality.FocusedRage.Name",
+    "ProcessTemplates": false,
+    "enGB": "Raging Brutality - Focused Rage",
+    "zhCN": "狂暴猛击 - 凝神狂暴"
+  },
+
+  {
+    "Key": "RagingBrutality.BloodragerRage.Name",
+    "ProcessTemplates": false,
+    "enGB": "Raging Brutality - Bloodrage",
+    "zhCN": "狂暴猛击 - 血承狂暴"
+  },
+
+  {
+    "Key": "JungleExplorer.Name",
+    "ProcessTemplates": false,
+    "enGB": "Jungle Explorer",
+    "zhCN": "丛林探索者"
+  },
+
+  {
+    "Key": "JungleExplorer.Description",
+    "enGB": "Lumberjack adds {g|Encyclopedia:Athletics}Athletics{/g} and {g|Encyclopedia:Mobility}Mobility{/g} to the list of her class {g|Encyclopedia:Skills}skills{/g}. She also becomes proficient with kukri and gets a +1 {g|Encyclopedia:Bonus}bonus{/g} on Fortitude {g|Encyclopedia:Saving_Throw}saving throws{/g}. \n If the character already has the class skill, {g|Encyclopedia:Weapon_Proficiency}weapon proficiency{/g} or armor proficiency granted by the selected background from her class during character creation, then the corresponding bonuses from background change to a +1 competence bonus in case of skills, a +1 enhancement bonus in case of weapon proficiency and a -1 Armor {g|Encyclopedia:Check}Check{/g} {g|Encyclopedia:Penalty}Penalty{/g} reduction in case of armor proficiency.",
+    "zhCN": "丛林探索者将{g|Encyclopedia:Athletics}运动{/g}和{g|Encyclopedia:Mobility}灵巧{/g}加入本职{g|Encyclopedia:Skills}技能{/g}列表。她也会擅长使用反曲刀，并在强韧 {g|Encyclopedia:Saving_Throw}豁免 检定{/g}上获得+1{g|Encyclopedia:Bonus}加值{/g}。\n如果角色已在角色创建过程中，通过职业获取了上述本职技能，{g|Encyclopedia:Weapon_Proficiency}武器擅长{/g}或防具擅长，则背景提供的相应{g|Encyclopedia:Bonus}加值{/g}改为相关技能上的+1表现加值，相关武器上的+1增强加值，相关防具上的防具{g|Encyclopedia:Check}检定{/g}{g|Encyclopedia:Penalty}减值{/g}-1。"
+  },
+
+  {
+    "Key": "UnrestrainedRage.Name",
+    "ProcessTemplates": false,
+    "enGB": "Unrestrained Rage",
+    "zhCN": "无尽狂怒"
+  },
+
+  {
+    "Key": "UnrestrainedRage.Description",
+    "enGB": "While raging, the barbarian is immune to paralysis. A barbarian must be at least 12th level to select this rage power.",
+    "zhCN": "狂暴时免疫麻痹。野蛮人必须达到12级才能选择这项狂暴之力。"
+  },
+
+  {
+    "Key": "SpiritTotemLesser.Name",
+    "ProcessTemplates": false,
+    "enGB": "Spirit Totem, Lesser",
+    "zhCN": "低阶精魂图腾"
+  },
+
+  {
+    "Key": "SpiritTotemLesser.Description",
+    "enGB": "While raging, the barbarian is surrounded by spirit wisps that harass her foes. These spirits make one slam attack each round against a living foe that is adjacent to the barbarian. This slam attack is made using the barbarian''s full base attack bonus, plus the barbarian''s Charisma modifier. The slam deals 1d4 points of negative energy damage, plus the barbarian''s Charisma modifier.",
+    "zhCN": "狂暴时，野蛮人被不断侵扰敌人的精魂之力环绕。精魂每轮对一个邻接野蛮人的活物敌人挥击一次，攻击加值为野蛮人的最高BAB加上魅力修正。每次挥击造成1d4+野蛮人魅力修正点的负能量伤害。"
+  },
+
+  {
+    "Key": "HandsOfValor.Name",
+    "ProcessTemplates": false,
+    "enGB": "Hands of Valor",
+    "zhCN": "勇猛之手"
+  },
+
+  {
+    "Key": "HandsOfValor.Self.Name",
+    "ProcessTemplates": false,
+    "enGB": "Hands of Valor - Self",
+    "zhCN": "勇猛之手 - 自身"
+  },
+
+  {
+    "Key": "HandsOfValor.Others.Name",
+    "ProcessTemplates": false,
+    "enGB": "Hands of Valor - Others",
+    "zhCN": "勇猛之手 - 他人"
+  },
+
+  {
+    "Key": "HandsOfValor.Description",
+    "enGB": "Once per day when you use lay on hands, you can also imbue that ally with valor. In addition to the normal effects of your lay on hands, the targeted ally gains a sacred bonus on attack rolls and on saves against fear effects equal to your Charisma bonus (minimum +1) for 1 minute.",
+    "zhCN": "1天1次，使用圣疗时可以灌输友军，除了通常的圣疗效果，还使其在攻击鉴定和对抗恐惧的豁免检定上获得等于你魅力修正的崇圣加值，持续1分钟。"
+  },
+
+  {
+    "Key": "Skinwalker.Name",
+    "ProcessTemplates": false,
+    "enGB": "Skinwalker",
+    "zhCN": "兽态人"
+  },
+
+  {
+    "Key": "Skinwalker.Description",
+    "enGB": "Skinwalkers resemble humans much of the time, but they possess the uncanny ability to transform into bestial humanoids who combine the most fearsome aspects of flesh and fur. Most people believe skinwalkers are half-breeds of lycanthropes, or that they share some slight version of the curse of those creatures. Skinwalker shamans say they are chosen by nature or the gods to be a bridge between the world of humanity and the animal world. The truth may lie somewhere between these two ideas. For indeed, skinwalkers are those with a lycanthrope crouching somewhere in the branches of their family tree. These distant progeny of monstrous werewolves and other creatures of the night have special talents unlike those of most civilized peoples, and they arise randomly among remote humanoid populations as well as within their own secretive sects. A pair of humans may give birth to a skinwalker—the dormant lycanthropic ancestry making itself known in a child neither beast nor human—or a pair of skinwalker parents may produce a skinwalker child, though these couplings can sometimes produce human children as well.",
+    "zhCN": "兽态人在大多数都与人类相似，但他们拥有不可思议的能力，能够变身为长有皮毛的可怕类人野兽。大多数人认为，兽态人是兽化人的混血儿，或者受到了这些生物某种程度的诅咒。但是兽态人萨满坚持，他们是被大自然或神灵选中而成为人类世界和动物世界之间的桥梁。事实的真相可能可能介于这两者之间。事实上，兽态人确实是兽化人家谱树上的远房后裔。这些可怕的兽化人和其他夜间生物的后代具有与大多数文明种族不同的特殊天赋，可能会在时隔多年的人形后裔中随机出现，或者出现在自己的神秘群体中。一对人类可能由于远古的兽化人祖先而生下一个非人也非兽的兽态人；一对兽态人父母也可能会生下一个兽态人的孩子，也可能会生下人类的孩子。"
+  },
+
+  {
+    "Key": "Skinwalker.ChangeShapeRevert.Name",
+    "ProcessTemplates": false,
+    "enGB": "Change Shape - Revert",
+    "zhCN": "改变形态 - 还原"
+  },
+
+  {
+    "Key": "Skinwalker.ChangeShapeRevert.Description",
+    "enGB": "The benefits of change shape last until the skinwalker returns to her humanoid form as a swift action. A skinwalker must first return to her humanoid form before changing to bestial form again to change benefits. Different skinwalker heritages allow skinwalker characters to select from different sets of bestial features.",
+    "zhCN": "改变形状的奖励效果会持续到光行者迅速恢复人形。一个光行者必须先回到人形，然后再换成野兽形态以改变奖励效果。不同的兽态人血脉允许兽态人从不同的兽性特征中选择奖励效果。"
+  },
+
+  {
+    "Key": "Skinwalker.HeritageSelection.Name",
+    "ProcessTemplates": false,
+    "enGB": "Skinwalker Heritage",
+    "zhCN": "兽态人血脉"
+  },
+
+  {
+    "Key": "Skinwalker.HeritageSelection.Description",
+    "enGB": "The base skinwalker is merely the most common of its kind but there are those who’ve inherited a larger share of their ancestors’ animalistic beings, and in whom can be seen the traits of very specific types of lycanthropes. Whether the scions of wereboars, the grandchildren of werecrocodiles, or the distant progeny of wererats, these individuals possess stronger ties to their ancestors than other skinwalkers.",
+    "zhCN": "基础兽态人是兽态人中最常见的一种，而其他一些兽态人继承了更典型的动物特征，在他们身上可以看到非常特殊类型的兽化人的特征。无论是野猪人的后代、鳄鱼人的孙子，还是鼠人的远亲后代，这些个体与祖先的联系都比其他兽态人更强。"
+  },
+
+  {
+    "Key": "Skinwalker.Heritage.Classic.Name",
+    "ProcessTemplates": false,
+    "enGB": "Skinwalker",
+    "zhCN": "兽态人"
+  },
+
+  {
+    "Key": "Skinwalker.Heritage.Classic.Description",
+    "enGB": "The base skinwalker is merely the most common of its kind but there are those who’ve inherited a larger share of their ancestors’ animalistic beings, and in whom can be seen the traits of very specific types of lycanthropes. Whether the scions of wereboars, the grandchildren of werecrocodiles, or the distant progeny of wererats, these individuals possess stronger ties to their ancestors than other skinwalkers.",
+    "zhCN": "基础兽态人是兽态人中最常见的一种，而其他一些兽态人继承了更典型的动物特征，在他们身上可以看到非常特殊类型的兽化人的特征。无论是野猪人的后代、鳄鱼人的孙子，还是鼠人的远亲后代，这些个体与祖先的联系都比其他兽态人更强。"
+  },
+
+  {
+    "Key": "Skinwalker.HeritageSelectionClassicStrength.Name",
+    "ProcessTemplates": false,
+    "enGB": "Skinwalker (Str)",
+    "zhCN": "兽态人（力量）"
+  },
+
+  {
+    "Key": "Skinwalker.HeritageSelectionClassicStrength.Description",
+    "enGB": "The base skinwalker is merely the most common of its kind but there are those who’ve inherited a larger share of their ancestors’ animalistic beings, and in whom can be seen the traits of very specific types of lycanthropes. Whether the scions of wereboars, the grandchildren of werecrocodiles, or the distant progeny of wererats, these individuals possess stronger ties to their ancestors than other skinwalkers. \n Skinwalkers of uncertain heritage have a +2 racial bonus to Wisdom, a +2 racial bonus to Strength, a -2 penalty to Intelligence, and a +2 bonus to Lore (Nature) checks. They can use Animal Aspect once per day using their Wisdom as their spell casting ability.",
+    "zhCN": "基础兽态人是兽态人中最常见的一种，而其他一些兽态人继承了更典型的动物特征，在他们身上可以看到非常特殊类型的兽化人的特征。无论是野猪人的后代、鳄鱼人的孙子，还是鼠人的远亲后代，这些个体与祖先的联系都比其他兽态人更强。\n没有特定血脉的兽态人在感知和力量上获得+2种族加值，智力受到-2减值，学识（自然）检定上获得+2加值。他们每天可以释放一次动物之型，并用感知来作为其施法者属性。"
+  },
+
+  {
+    "Key": "Skinwalker.HeritageSelectionClassicDexterity.Name",
+    "ProcessTemplates": false,
+    "enGB": "Skinwalker (Dex)",
+    "zhCN": "兽态人（敏捷）"
+  },
+
+  {
+    "Key": "Skinwalker.HeritageSelectionClassicDexterity.Description",
+    "enGB": "The base skinwalker is merely the most common of its kind but there are those who’ve inherited a larger share of their ancestors’ animalistic beings, and in whom can be seen the traits of very specific types of lycanthropes. Whether the scions of wereboars, the grandchildren of werecrocodiles, or the distant progeny of wererats, these individuals possess stronger ties to their ancestors than other skinwalkers. \n Skinwalkers of uncertain heritage have a +2 racial bonus to Wisdom, a +2 racial bonus to Dexterity, a -2 penalty to Intelligence, and a +2 bonus to Lore (Nature) checks. They can use Animal Aspect once per day using their Wisdom as their spell casting ability.",
+    "zhCN": "基础兽态人是兽态人中最常见的一种，而其他一些兽态人继承了更典型的动物特征，在他们身上可以看到非常特殊类型的兽化人的特征。无论是野猪人的后代、鳄鱼人的孙子，还是鼠人的远亲后代，这些个体与祖先的联系都比其他兽态人更强。\n没有特定血脉的兽态人在感知和敏捷上获得+2种族加值，智力受到-2减值，学识（自然）检定上获得+2加值。他们每天可以释放一次动物之型，并用感知来作为其施法者属性。"
+  },
+
+  {
+    "Key": "Skinwalker.HeritageSelectionClassicConstitution.Name",
+    "ProcessTemplates": false,
+    "enGB": "Skinwalker (Con)",
+    "zhCN": "兽态人（体质）"
+  },
+
+  {
+    "Key": "Skinwalker.HeritageSelectionClassicConstitution.Description",
+    "enGB": "The base skinwalker is merely the most common of its kind but there are those who’ve inherited a larger share of their ancestors’ animalistic beings, and in whom can be seen the traits of very specific types of lycanthropes. Whether the scions of wereboars, the grandchildren of werecrocodiles, or the distant progeny of wererats, these individuals possess stronger ties to their ancestors than other skinwalkers. \n Skinwalkers of uncertain heritage have a +2 racial bonus to Wisdom, a +2 racial bonus to Constitution, a -2 penalty to Intelligence, and a +2 bonus to Lore (Nature) checks. They can use Animal Aspect once per day using their Wisdom as their spell casting ability.",
+    "zhCN": "基础兽态人是兽态人中最常见的一种，而其他一些兽态人继承了更典型的动物特征，在他们身上可以看到非常特殊类型的兽化人的特征。无论是野猪人的后代、鳄鱼人的孙子，还是鼠人的远亲后代，这些个体与祖先的联系都比其他兽态人更强。\n没有特定血脉的兽态人在感知和体质上获得+2种族加值，智力受到-2减值，学识（自然）检定上获得+2加值。他们每天可以释放一次动物之型，并用感知来作为其施法者属性。"
+  },
+
+  {
+    "Key": "Skinwalker.Heritage.Classic.ChangeShapeBase.Name",
+    "ProcessTemplates": false,
+    "enGB": "Change Shape",
+    "zhCN": "改变形态"
+  },
+
+  {
+    "Key": "Skinwalker.Heritage.Classic.ChangeShapeBase.Description",
+    "enGB": "A skinwalker can change shape to and from a bestial form as a move action. While in this form, a skinwalker also takes on an animalistic feature that provides a special effect. Each time a skinwalker assumes bestial form, she can choose to gain one of the following features: \n 2 claw attacks that each deal 1d4 points of damage. \n Darkvision to a range of 60 feet. \n +1 racial bonus to natural armor.",
+    "zhCN": "兽态人能够以一个移动动作进入一种兽形状态。在这种状态下，兽态人获得动物的特性来获得特殊效果。每次兽态人进入兽形状态时，他可以从下列特征中选择一项：\n 2次1d4伤害的爪抓攻击\n 60尺黑暗视觉\n 天生护甲＋1种族加值"
+  },
+
+  {
+    "Key": "Skinwalker.Heritage.Classic.ChangeShapeClaws.Name",
+    "ProcessTemplates": false,
+    "enGB": "Change Shape - Claws",
+    "zhCN": "改变形态 - 利爪"
+  },
+
+  {
+    "Key": "Skinwalker.Heritage.Classic.ChangeShapeClaws.Description",
+    "ProcessTemplates": false,
+    "enGB": "A skinwalker can change shape to and from a bestial form as a move action. While in this form, a skinwalker also takes on an animalistic feature that provides a special effect. Each time a skinwalker assumes bestial form, she can choose to gain one of the following features: \n 2 claw attacks that each deal 1d4 points of damage. \n Darkvision to a range of 60 feet. \n +1 racial bonus to natural armor.",
+    "zhCN": "兽态人能够以一个移动动作进入一种兽形状态。在这种状态下，兽态人获得动物的特性来获得特殊效果。每次兽态人进入兽形状态时，他可以从下列特征中选择一项：\n 2次1d4伤害的爪抓攻击\n 60尺黑暗视觉\n 天生护甲＋1种族加值"
+  },
+
+  {
+    "Key": "Skinwalker.Heritage.Classic.ChangeShapeArmor.Name",
+    "ProcessTemplates": false,
+    "enGB": "Change Shape - Armor",
+    "zhCN": "改变形态 - 护甲"
+  },
+
+  {
+    "Key": "Skinwalker.Heritage.Classic.ChangeShapeArmor.Description",
+    "ProcessTemplates": false,
+    "enGB": "A skinwalker can change shape to and from a bestial form as a move action. While in this form, a skinwalker also takes on an animalistic feature that provides a special effect. Each time a skinwalker assumes bestial form, she can choose to gain one of the following features: \n 2 claw attacks that each deal 1d4 points of damage. \n Darkvision to a range of 60 feet. \n +1 racial bonus to natural armor.",
+    "zhCN": "兽态人能够以一个移动动作进入一种兽形状态。在这种状态下，兽态人获得动物的特性来获得特殊效果。每次兽态人进入兽形状态时，他可以从下列特征中选择一项：\n 2次1d4伤害的爪抓攻击\n 60尺黑暗视觉\n 天生护甲＋1种族加值"
+  },
+
+  {
+    "Key": "Skinwalker.Heritage.Classic.ChangeShapePerception.Name",
+    "ProcessTemplates": false,
+    "enGB": "Change Shape - Perception",
+    "zhCN": "改变形态 - 察觉"
+  },
+
+  {
+    "Key": "Skinwalker.Heritage.Classic.ChangeShapePerception.Description",
+    "ProcessTemplates": false,
+    "enGB": "A skinwalker can change shape to and from a bestial form as a move action. While in this form, a skinwalker also takes on an animalistic feature that provides a special effect. Each time a skinwalker assumes bestial form, she can choose to gain one of the following features: \n 2 claw attacks that each deal 1d4 points of damage. \n Darkvision to a range of 60 feet. \n +1 racial bonus to natural armor.",
+    "zhCN": "兽态人能够以一个移动动作进入一种兽形状态。在这种状态下，兽态人获得动物的特性来获得特殊效果。每次兽态人进入兽形状态时，他可以从下列特征中选择一项：\n 2次1d4伤害的爪抓攻击\n 60尺黑暗视觉\n 天生护甲＋1种族加值"
+  },
+
+  {
+    "Key": "Skinwalker.Heritage.Ragebred.Name",
+    "ProcessTemplates": false,
+    "enGB": "Ragebred (Wereboar-Kin)",
+    "zhCN": "怒孽（野猪人裔）"
+  },
+
+  {
+    "Key": "Skinwalker.Heritage.Ragebred.Description",
+    "enGB": "Wereboar-kin are known for their fiery tempers, wide stubborn streaks, and strong familial bonds. The ragebred’s tenacity and irrepressible expressiveness has also earned this race respect and a reputation as freedom fighters. Wereboar-kin are often ashamed of where their abilities come from and have no shortage of ill feelings for true wereboars, even if this hatred is mingled with martial respect. Wereboar-kin generally avoid large groups of people unless they feel confident of their own ability to buy, charm, or bully their way into power and respect. The ragebred who do live in busy social circles are those able to channel their strong emotions into far-reaching schemes, creative expression, or their professional crafts. Others choose the more common route of carving out a place where they hold power at the edge of civilization. More than one upstart liege has been a wereboar-kin who successfully created a place where he need not fear anyone’s judgment.\n Ragebred skinwalkers have a +2 racial bonus to Strength, a +2 racial bonus to Constitution, a -2 penalty to Charisma, a +2 bonus to Lore (Nature) checks, and a +2 bonus to Perception checks. They can use Animal Aspect - Gorilla once per day using their Wisdom as their spell casting ability.",
+    "zhCN": "野猪人裔以脾气火爆、性情倔强、家庭关系密切而闻名。怒孽的坚韧和难以抑制的表现力为这一种族赢了尊重和自由斗士的美誉。野猪人裔常常对自己的能力来源感到羞愧，对真正的兽化人也不乏恶感，然而这种仇恨也与军事上的尊重交织在一起。野猪人裔通常会避开大群人，除非他们对自己的购买力、魅力，或其他从他人处赢得权力和尊重的方式有信心。生活在繁忙社交圈中的野猪后裔是那些能够将自己强烈的情绪转化为深远的计划、创造性的表达力或专业技能的人。其他人则选择了更为常见的路线，即在文明的边缘开辟一个他们掌握权力的地方。已经有不止一位怒孽新贵成功地创造了一个不用在意其他人评判的自主之地。\n怒孽在力量和体质上获得+2种族加值，魅力受到-2减值，学识（自然）和察觉检定上获得+2加值。他们每天可以释放一次动物之型 - 大猩猩，并用感知来作为其施法者属性。"
+  },
+
+  {
+    "Key": "Skinwalker.Heritage.Ragebred.ChangeShapeBase.Name",
+    "ProcessTemplates": false,
+    "enGB": "Change Shape",
+    "zhCN": "改变形态"
+  },
+
+  {
+    "Key": "Skinwalker.Heritage.Ragebred.ChangeShapeBase.Description",
+    "enGB": "A skinwalker can change shape to and from a bestial form as a move action. While in this form, a skinwalker also takes on an animalistic feature that provides a special effect. Each time a skinwalker assumes bestial form, she can choose to gain one of the following features: \n +10 foot racial bonus to speed \n Gore attack that deals 1d6 points of damage \n 2 hoof attacks that each deal 1d4 points of damage \n Scent to a range of 30 feet.",
+        "zhCN": "兽态人能够以一个移动动作进入一种兽形状态。在这种状态下，兽态人获得动物的特性来获得特殊效果。每次兽态人进入兽形状态时，他可以从下列特征中选择一项：\n +10 基础速度种族加值 \n 1d6伤害抵撞攻击 \n 2次1d4伤害蹄踢攻击 \n 30尺灵敏嗅觉."
+  },
+
+  {
+    "Key": "Skinwalker.Heritage.Ragebred.ChangeShapeSpeed.Name",
+    "ProcessTemplates": false,
+    "enGB": "Change Shape - Speed",
+    "zhCN": "改变形态 - 速度"
+  },
+
+  {
+    "Key": "Skinwalker.Heritage.Ragebred.ChangeShapeSpeed.Description",
+    "ProcessTemplates": false,
+    "enGB": "A skinwalker can change shape to and from a bestial form as a move action. While in this form, a skinwalker also takes on an animalistic feature that provides a special effect. Each time a skinwalker assumes bestial form, she can choose to gain one of the following features: \n +10 foot racial bonus to speed \n Gore attack that deals 1d6 points of damage \n 2 hoof attacks that each deal 1d4 points of damage \n Scent to a range of 30 feet.",
+        "zhCN": "兽态人能够以一个移动动作进入一种兽形状态。在这种状态下，兽态人获得动物的特性来获得特殊效果。每次兽态人进入兽形状态时，他可以从下列特征中选择一项：\n +10 基础速度种族加值 \n 1d6伤害抵撞攻击 \n 2次1d4伤害蹄踢攻击 \n 30尺灵敏嗅觉."
+  },
+
+  {
+    "Key": "Skinwalker.Heritage.Ragebred.ChangeShapeGore.Name",
+    "ProcessTemplates": false,
+    "enGB": "Change Shape - Gore",
+    "zhCN": "改变形态 - 抵撞"
+  },
+
+  {
+    "Key": "Skinwalker.Heritage.Ragebred.ChangeShapeGore.Description",
+    "ProcessTemplates": false,
+    "enGB": "A skinwalker can change shape to and from a bestial form as a move action. While in this form, a skinwalker also takes on an animalistic feature that provides a special effect. Each time a skinwalker assumes bestial form, she can choose to gain one of the following features: \n +10 foot racial bonus to speed \n Gore attack that deals 1d6 points of damage \n 2 hoof attacks that each deal 1d4 points of damage \n Scent to a range of 30 feet.",
+        "zhCN": "兽态人能够以一个移动动作进入一种兽形状态。在这种状态下，兽态人获得动物的特性来获得特殊效果。每次兽态人进入兽形状态时，他可以从下列特征中选择一项：\n +10 基础速度种族加值 \n 1d6伤害抵撞攻击 \n 2次1d4伤害蹄踢攻击 \n 30尺灵敏嗅觉."
+  },
+
+  {
+    "Key": "Skinwalker.Heritage.Ragebred.ChangeShapeHooves.Name",
+    "ProcessTemplates": false,
+    "enGB": "Change Shape - Hooves",
+    "zhCN": "改变形态 - 蹄踢"
+  },
+
+  {
+    "Key": "Skinwalker.Heritage.Ragebred.ChangeShapeHooves.Description",
+    "ProcessTemplates": false,
+    "enGB": "A skinwalker can change shape to and from a bestial form as a move action. While in this form, a skinwalker also takes on an animalistic feature that provides a special effect. Each time a skinwalker assumes bestial form, she can choose to gain one of the following features: \n +10 foot racial bonus to speed \n Gore attack that deals 1d6 points of damage \n 2 hoof attacks that each deal 1d4 points of damage \n Scent to a range of 30 feet.",
+        "zhCN": "兽态人能够以一个移动动作进入一种兽形状态。在这种状态下，兽态人获得动物的特性来获得特殊效果。每次兽态人进入兽形状态时，他可以从下列特征中选择一项：\n +10 基础速度种族加值 \n 1d6伤害抵撞攻击 \n 2次1d4伤害蹄踢攻击 \n 30尺灵敏嗅觉."
+  },
+
+  {
+    "Key": "Skinwalker.Heritage.Ragebred.ChangeShapeScent.Name",
+    "ProcessTemplates": false,
+    "enGB": "Change Shape - Scent",
+    "zhCN": "改变形态 - 嗅觉"
+  },
+
+  {
+    "Key": "Skinwalker.Heritage.Ragebred.ChangeShapeScent.Description",
+    "ProcessTemplates": false,
+    "enGB": "A skinwalker can change shape to and from a bestial form as a move action. While in this form, a skinwalker also takes on an animalistic feature that provides a special effect. Each time a skinwalker assumes bestial form, she can choose to gain one of the following features: \n +10 foot racial bonus to speed \n Gore attack that deals 1d6 points of damage \n 2 hoof attacks that each deal 1d4 points of damage \n Scent to a range of 30 feet.",
+        "zhCN": "兽态人能够以一个移动动作进入一种兽形状态。在这种状态下，兽态人获得动物的特性来获得特殊效果。每次兽态人进入兽形状态时，他可以从下列特征中选择一项：\n +10 基础速度种族加值 \n 1d6伤害抵撞攻击 \n 2次1d4伤害蹄踢攻击 \n 30尺灵敏嗅觉."
+  },
+
+  {
+    "Key": "Skinwalker.Heritage.Bloodmarked.Name",
+    "ProcessTemplates": false,
+    "enGB": "Bloodmarked (Werebat-Kin)",
+    "zhCN": "血印（蝙蝠人裔）"
+  },
+
+  {
+    "Key": "Skinwalker.Heritage.Bloodmarked.Description",
+    "enGB": "Bloodmarked, like werebats, are generally communal and often defer readily to their superiors within their flocks or even other leaders or employers. They tend to be gregarious yet savage, and enjoy using their unassuming natural forms to trick others before revealing their true bestial powers. Bloodmarked reveal their human ancestry in their ability to break from the group, make their own choices, and associate with humans without trying to force their way of life upon them, although troublemakers are strongly frowned upon and find it hard to get any other werebat-kin to take their side if in opposition to the group.\n Bloodmarked skinwalkers have a +2 racial bonus to Dexterity, a +2 racial bonus to Intelligence, a -2 penalty to Wisdom, a +2 bonus to Mobility checks, and a +2 bonus to Perception checks. They can use Invisibility once per day using their Wisdom as their spell casting ability.",
+    "zhCN": "血印是蝙蝠人后裔，一般结群而居，他们高度服从于自己的上级、领导或雇主。他们倾向于群居但野蛮，喜欢在展示自己真正的兽性力量之前，利用自己谦逊的自然形态欺骗他人。有一些血印更多显现自己的的人类血统，他们有能力做出自己的选择，脱离群体，并与人类交往，而不试图将自己的生活方式强加给他们。然而，这些麻烦制造者一旦与群体对立，那就很难让任何其他蝙蝠人裔亲属站在他们一边。\n血印在敏捷和智力上获得+2种族加值，感知受到-2减值，灵巧和察觉检定上获得+2加值。他们每天可以释放一次隐形术，并用感知来作为其施法者属性。"
+  },
+
+  {
+    "Key": "Skinwalker.Heritage.Bloodmarked.ChangeShapeBase.Name",
+    "ProcessTemplates": false,
+    "enGB": "Change Shape",
+    "zhCN": "改变形态"
+  },
+
+  {
+    "Key": "Skinwalker.Heritage.Bloodmarked.ChangeShapeBase.Description",
+    "enGB": "A skinwalker can change shape to and from a bestial form as a move action. While in this form, a skinwalker also takes on an animalistic feature that provides a special effect. Each time a skinwalker assumes bestial form, she can choose to gain one of the following features: \n Bite attack that deals 1d6 points of damage \n +4 racial bonus on Perception checks \n Scent to a range of 30 feet \n Immunity to ground based effects.",
+        "zhCN": "兽态人能够以一个移动动作进入一种兽形状态。在这种状态下，兽态人获得动物的特性来获得特殊效果。每次兽态人进入兽形状态时，他可以从下列特征中选择一项：\n 1d6伤害啮咬攻击 \n +4 察觉检定种族加值 \n 30尺灵敏嗅觉 \n 免疫地面效果."
+  },
+
+  {
+    "Key": "Skinwalker.Heritage.Bloodmarked.ChangeShapeBite.Name",
+    "ProcessTemplates": false,
+    "enGB": "Change Shape - Bite",
+    "zhCN": "改变形态 - 啮咬"
+  },
+
+  {
+    "Key": "Skinwalker.Heritage.Bloodmarked.ChangeShapeBite.Description",
+    "ProcessTemplates": false,
+    "enGB": "A skinwalker can change shape to and from a bestial form as a move action. While in this form, a skinwalker also takes on an animalistic feature that provides a special effect. Each time a skinwalker assumes bestial form, she can choose to gain one of the following features: \n Bite attack that deals 1d6 points of damage \n +4 racial bonus on Perception checks \n Scent to a range of 30 feet \n Immunity to ground based effects.",
+        "zhCN": "兽态人能够以一个移动动作进入一种兽形状态。在这种状态下，兽态人获得动物的特性来获得特殊效果。每次兽态人进入兽形状态时，他可以从下列特征中选择一项：\n 1d6伤害啮咬攻击 \n +4 察觉检定种族加值 \n 30尺灵敏嗅觉 \n 免疫地面效果."
+  },
+
+  {
+    "Key": "Skinwalker.Heritage.Bloodmarked.ChangeShapePerception.Name",
+    "ProcessTemplates": false,
+    "enGB": "Change Shape - Perception",
+    "zhCN": "改变形态 - 察觉"
+  },
+
+  {
+    "Key": "Skinwalker.Heritage.Bloodmarked.ChangeShapePerception.Description",
+    "ProcessTemplates": false,
+    "enGB": "A skinwalker can change shape to and from a bestial form as a move action. While in this form, a skinwalker also takes on an animalistic feature that provides a special effect. Each time a skinwalker assumes bestial form, she can choose to gain one of the following features: \n Bite attack that deals 1d6 points of damage \n +4 racial bonus on Perception checks \n Scent to a range of 30 feet \n Immunity to ground based effects.",
+        "zhCN": "兽态人能够以一个移动动作进入一种兽形状态。在这种状态下，兽态人获得动物的特性来获得特殊效果。每次兽态人进入兽形状态时，他可以从下列特征中选择一项：\n 1d6伤害啮咬攻击 \n +4 察觉检定种族加值 \n 30尺灵敏嗅觉 \n 免疫地面效果."
+  },
+
+  {
+    "Key": "Skinwalker.Heritage.Bloodmarked.ChangeShapeGroundImmunity.Name",
+    "ProcessTemplates": false,
+    "enGB": "Change Shape - Ground Immunity",
+    "zhCN": "改变形态 - 地面免疫"
+  },
+
+  {
+    "Key": "Skinwalker.Heritage.Bloodmarked.ChangeShapeGroundImmunity.Description",
+    "ProcessTemplates": false,
+    "enGB": "A skinwalker can change shape to and from a bestial form as a move action. While in this form, a skinwalker also takes on an animalistic feature that provides a special effect. Each time a skinwalker assumes bestial form, she can choose to gain one of the following features: \n Bite attack that deals 1d6 points of damage \n +4 racial bonus on Perception checks \n Scent to a range of 30 feet \n Immunity to ground based effects.",
+        "zhCN": "兽态人能够以一个移动动作进入一种兽形状态。在这种状态下，兽态人获得动物的特性来获得特殊效果。每次兽态人进入兽形状态时，他可以从下列特征中选择一项：\n 1d6伤害啮咬攻击 \n +4 察觉检定种族加值 \n 30尺灵敏嗅觉 \n 免疫地面效果."
+  },
+
+  {
+    "Key": "Skinwalker.Heritage.Bloodmarked.ChangeShapeScent.Name",
+    "ProcessTemplates": false,
+    "enGB": "Change Shape - Scent",
+    "zhCN": "改变形态 - 嗅觉"
+  },
+
+  {
+    "Key": "Skinwalker.Heritage.Bloodmarked.ChangeShapeScent.Description",
+    "ProcessTemplates": false,
+    "enGB": "A skinwalker can change shape to and from a bestial form as a move action. While in this form, a skinwalker also takes on an animalistic feature that provides a special effect. Each time a skinwalker assumes bestial form, she can choose to gain one of the following features: \n Bite attack that deals 1d6 points of damage \n +4 racial bonus on Perception checks \n Scent to a range of 30 feet \n Immunity to ground based effects.",
+        "zhCN": "兽态人能够以一个移动动作进入一种兽形状态。在这种状态下，兽态人获得动物的特性来获得特殊效果。每次兽态人进入兽形状态时，他可以从下列特征中选择一项：\n 1d6伤害啮咬攻击 \n +4 察觉检定种族加值 \n 30尺灵敏嗅觉 \n 免疫地面效果."
+  },
+
+  {
+    "Key": "Skinwalker.Heritage.Coldborn.Name",
+    "ProcessTemplates": false,
+    "enGB": "Coldborn (Werebear-Kin)",
+    "zhCN": "冷嗣（熊人裔）"
+  },
+
+  {
+    "Key": "Skinwalker.Heritage.Coldborn.Description",
+    "enGB": "Werebear-kin are known and respected as defenders of the wilds. They tend to carve out niches as woodland guides, rangers, and recluses to whom humans can turn for guidance in the wilderness.\nThey are called coldborn because they often become torpid and withdrawn during the winter months unless they have matters to attend to, and they resume their typical demeanors with renewed energy at winter’s end.\nAlthough they often avoid large settlements, coldborn are known to defy their ursine urges in favor of their humanlike desire for community, either forming small, intimate communities of their own (consisting of a few families or a chosen family of good friends) or arranging annual or seasonal gatherings to keep in touch with their fellows from all across the area. \nColdborn skinwalkers have a +2 racial bonus to Constitution, a +2 racial bonus to Wisdom, a -2 penalty to Charisma, a +2 bonus to Athletics checks, and a +2 bonus to Lore(Nature) checks. They can use Summon Nature Ally III once per day using their Wisdom as their spell casting ability.",
+    "zhCN": "熊人裔以荒野卫士的美名而受人尊重。他们倾向于担任林地向导、护林员和隐居者，人们人类可以在荒野中向他们寻求帮助。\n他们之所以被称为冷嗣，是因为他们会在冬天的几个月里经常变得迟钝和孤僻，除非它们有事情要处理。而在冬天结束时，他们会恢复自己新的活力来照常生活。\n尽管大部分会避开大型定居点，但熊人裔也会无视它们的熊的欲望，来寻求在人类般的社区生活，要么形成自己的小而亲密的社区（由几个家庭或选定的好朋友组成），要么安排年度或季节性聚会，与来自该地区各地的同伴保持联系。\n冷嗣在体质和感知上获得+2种族加值，魅力受到-2减值，学识（自然）和运动检定上获得+2加值。他们每天可以释放一次召唤自然盟友III，并用感知来作为其施法者属性。"
+  },
+
+  {
+    "Key": "Skinwalker.Heritage.Coldborn.ChangeShapeBase.Name",
+    "ProcessTemplates": false,
+    "enGB": "Change Shape",
+    "zhCN": "改变形态"
+  },
+
+  {
+    "Key": "Skinwalker.Heritage.Coldborn.ChangeShapeBase.Description",
+    "enGB": "A skinwalker can change shape to and from a bestial form as a move action. While in this form, a skinwalker also takes on an animalistic feature that provides a special effect. Each time a skinwalker assumes bestial form, she can choose to gain one of the following features: \n Bite attack that deals 1d6 points of damage \n 2 claw attacks that each deal 1d4 points of damage \n +4 racial bonus on Athletics checks \n Scent to a range of 30 feet.",
+        "zhCN": "兽态人能够以一个移动动作进入一种兽形状态。在这种状态下，兽态人获得动物的特性来获得特殊效果。每次兽态人进入兽形状态时，他可以从下列特征中选择一项：\n 1d6伤害啮咬攻击 \n 2次1d4伤害爪抓攻击 \n +4 运动检定种族加值 \n 30尺灵敏嗅觉."
+  },
+
+  {
+    "Key": "Skinwalker.Heritage.Coldborn.ChangeShapeBite.Name",
+    "ProcessTemplates": false,
+    "enGB": "Change Shape - Bite",
+    "zhCN": "改变形态 - 啮咬"
+  },
+
+  {
+    "Key": "Skinwalker.Heritage.Coldborn.ChangeShapeBite.Description",
+    "ProcessTemplates": false,
+    "enGB": "A skinwalker can change shape to and from a bestial form as a move action. While in this form, a skinwalker also takes on an animalistic feature that provides a special effect. Each time a skinwalker assumes bestial form, she can choose to gain one of the following features: \n Bite attack that deals 1d6 points of damage \n 2 claw attacks that each deal 1d4 points of damage \n +4 racial bonus on Athletics checks \n Scent to a range of 30 feet.",
+        "zhCN": "兽态人能够以一个移动动作进入一种兽形状态。在这种状态下，兽态人获得动物的特性来获得特殊效果。每次兽态人进入兽形状态时，他可以从下列特征中选择一项：\n 1d6伤害啮咬攻击 \n 2次1d4伤害爪抓攻击 \n +4 运动检定种族加值 \n 30尺灵敏嗅觉."
+  },
+
+  {
+    "Key": "Skinwalker.Heritage.Coldborn.ChangeShapeClaws.Name",
+    "ProcessTemplates": false,
+    "enGB": "Change Shape - Claws",
+    "zhCN": "改变形态 - 爪抓"
+  },
+
+  {
+    "Key": "Skinwalker.Heritage.Coldborn.ChangeShapeClaws.Description",
+    "ProcessTemplates": false,
+    "enGB": "A skinwalker can change shape to and from a bestial form as a move action. While in this form, a skinwalker also takes on an animalistic feature that provides a special effect. Each time a skinwalker assumes bestial form, she can choose to gain one of the following features: \n Bite attack that deals 1d6 points of damage \n 2 claw attacks that each deal 1d4 points of damage \n +4 racial bonus on Athletics checks \n Scent to a range of 30 feet.",
+        "zhCN": "兽态人能够以一个移动动作进入一种兽形状态。在这种状态下，兽态人获得动物的特性来获得特殊效果。每次兽态人进入兽形状态时，他可以从下列特征中选择一项：\n 1d6伤害啮咬攻击 \n 2次1d4伤害爪抓攻击 \n +4 运动检定种族加值 \n 30尺灵敏嗅觉."
+  },
+
+  {
+    "Key": "Skinwalker.Heritage.Coldborn.ChangeShapeAthletics.Name",
+    "ProcessTemplates": false,
+    "enGB": "Change Shape - Athletics",
+    "zhCN": "改变形态 - 运动"
+  },
+
+  {
+    "Key": "Skinwalker.Heritage.Coldborn.ChangeShapeAthletics.Description",
+    "ProcessTemplates": false,
+    "enGB": "A skinwalker can change shape to and from a bestial form as a move action. While in this form, a skinwalker also takes on an animalistic feature that provides a special effect. Each time a skinwalker assumes bestial form, she can choose to gain one of the following features: \n Bite attack that deals 1d6 points of damage \n 2 claw attacks that each deal 1d4 points of damage \n +4 racial bonus on Athletics checks \n Scent to a range of 30 feet.",
+        "zhCN": "兽态人能够以一个移动动作进入一种兽形状态。在这种状态下，兽态人获得动物的特性来获得特殊效果。每次兽态人进入兽形状态时，他可以从下列特征中选择一项：\n 1d6伤害啮咬攻击 \n 2次1d4伤害爪抓攻击 \n +4 运动检定种族加值 \n 30尺灵敏嗅觉."
+  },
+
+  {
+    "Key": "Skinwalker.Heritage.Coldborn.ChangeShapeScent.Name",
+    "ProcessTemplates": false,
+    "enGB": "Change Shape - Scent",
+    "zhCN": "改变形态 - 嗅觉"
+  },
+
+  {
+    "Key": "Skinwalker.Heritage.Coldborn.ChangeShapeScent.Description",
+    "ProcessTemplates": false,
+    "enGB": "A skinwalker can change shape to and from a bestial form as a move action. While in this form, a skinwalker also takes on an animalistic feature that provides a special effect. Each time a skinwalker assumes bestial form, she can choose to gain one of the following features: \n Bite attack that deals 1d6 points of damage \n 2 claw attacks that each deal 1d4 points of damage \n +4 racial bonus on Athletics checks \n Scent to a range of 30 feet.",
+        "zhCN": "兽态人能够以一个移动动作进入一种兽形状态。在这种状态下，兽态人获得动物的特性来获得特殊效果。每次兽态人进入兽形状态时，他可以从下列特征中选择一项：\n 1d6伤害啮咬攻击 \n 2次1d4伤害爪抓攻击 \n +4 运动检定种族加值 \n 30尺灵敏嗅觉."
+  },
+
+  {
+    "Key": "Skinwalker.Heritage.Scaleheart.Name",
+    "ProcessTemplates": false,
+    "enGB": "Scaleheart (Werecrocodile-Kin)",
+    "zhCN": "鳞心（鳄鱼人裔）"
+  },
+
+  {
+    "Key": "Skinwalker.Heritage.Scaleheart.Description",
+    "enGB": "Werecrocodile-kin are the most common skinwalkers. Physically, they are thick-skinned and usually sluggish unless engaged in combat. They tend to be ruthless but patient. All are natural swimmers. In a pattern stretching all the way back to scalehearts’ counterparts in Arcadia, scaleheart culture respects nothing so much as the ability to demonstrate power over others, most often physically but also through cunning and magic. Werecrocodile-kin are renowned for their surprising and violent displays of dominance they have an equally strong reputation for proving their superiority by manipulating and seducing prominent humans. Not as powerful or as solitary as true werecrocodiles, scalehearts prefer to form their own small waterside communities when they do collaborate. \nScaleheart skinwalkers have a +2 racial bonus to Constitution, a +2 racial bonus to Strength, a -2 penalty to Wisdom, a +2 bonus to Stealth checks, and a +2 bonus to Lore(Nature) checks. They can use Scare once per day using their Wisdom as their spell casting ability.",
+    "zhCN": "鳄鱼人裔是最常见的兽态人。从身体上看，他们皮肤厚实，并在战斗外都。他们往往冷酷无情，但极有耐心，而且全员都是天生的游泳健将。鳄鱼人的文化可以上溯到在阿卡迪亚的鳞心们，他们最为尊重强者，这种强大可以是来自身体上，也可以是来自狡诈或者魔力。鳞心氏族通常以其强有力的统治和高暴力的表现而闻名。并不像真正的鳄鱼人那样强大且孤独，鳞心更喜欢集聚形成自己的小型水边社区，就像真的鳄鱼那样。\n鳞心在体质和力量上获得+2种族加值，感知受到-2减值，学识（自然）和隐匿检定上获得+2加值。他们每天可以释放一次惊恐术，并用感知来作为其施法者属性。"
+  },
+
+  {
+    "Key": "Skinwalker.Heritage.Scaleheart.ChangeShapeBase.Name",
+    "ProcessTemplates": false,
+    "enGB": "Change Shape",
+    "zhCN": "改变形态"
+  },
+
+  {
+    "Key": "Skinwalker.Heritage.Scaleheart.ChangeShapeBase.Description",
+    "enGB": "A skinwalker can change shape to and from a bestial form as a move action. While in this form, a skinwalker also takes on an animalistic feature that provides a special effect. Each time a skinwalker assumes bestial form, she can choose to gain one of the following features: \n Bite attack that deals 1d6 points of damage \n +1 natural armor bonus \n +2 racial bonus on initiative checks \n Ferocity.",
+        "zhCN": "兽态人能够以一个移动动作进入一种兽形状态。在这种状态下，兽态人获得动物的特性来获得特殊效果。每次兽态人进入兽形状态时，他可以从下列特征中选择一项：\n 1d6伤害啮咬攻击 \n +1 天生护甲加值 \n +2 先攻检定种族奖励 \n 凶猛（生命低于0可继续战斗）."
+  },
+
+  {
+    "Key": "Skinwalker.Heritage.Scaleheart.ChangeShapeBite.Name",
+    "ProcessTemplates": false,
+    "enGB": "Change Shape - Bite",
+    "zhCN": "改变形态 - 啮咬"
+  },
+
+  {
+    "Key": "Skinwalker.Heritage.Scaleheart.ChangeShapeBite.Description",
+    "ProcessTemplates": false,
+    "enGB": "A skinwalker can change shape to and from a bestial form as a move action. While in this form, a skinwalker also takes on an animalistic feature that provides a special effect. Each time a skinwalker assumes bestial form, she can choose to gain one of the following features: \n Bite attack that deals 1d6 points of damage \n +1 natural armor bonus \n +2 racial bonus on initiative checks \n Ferocity.",
+        "zhCN": "兽态人能够以一个移动动作进入一种兽形状态。在这种状态下，兽态人获得动物的特性来获得特殊效果。每次兽态人进入兽形状态时，他可以从下列特征中选择一项：\n 1d6伤害啮咬攻击 \n +1 天生护甲加值 \n +2 先攻检定种族奖励 \n 凶猛（生命低于0可继续战斗）."
+  },
+
+  {
+    "Key": "Skinwalker.Heritage.Scaleheart.ChangeShapeArmor.Name",
+    "ProcessTemplates": false,
+    "enGB": "Change Shape - Armor",
+    "zhCN": "改变形态 - 护甲"
+  },
+
+  {
+    "Key": "Skinwalker.Heritage.Scaleheart.ChangeShapeArmor.Description",
+    "ProcessTemplates": false,
+    "enGB": "A skinwalker can change shape to and from a bestial form as a move action. While in this form, a skinwalker also takes on an animalistic feature that provides a special effect. Each time a skinwalker assumes bestial form, she can choose to gain one of the following features: \n Bite attack that deals 1d6 points of damage \n +1 natural armor bonus \n +2 racial bonus on initiative checks \n Ferocity.",
+        "zhCN": "兽态人能够以一个移动动作进入一种兽形状态。在这种状态下，兽态人获得动物的特性来获得特殊效果。每次兽态人进入兽形状态时，他可以从下列特征中选择一项：\n 1d6伤害啮咬攻击 \n +1 天生护甲加值 \n +2 先攻检定种族奖励 \n 凶猛（生命低于0可继续战斗）."
+  },
+
+  {
+    "Key": "Skinwalker.Heritage.Scaleheart.ChangeShapeInitiative.Name",
+    "ProcessTemplates": false,
+    "enGB": "Change Shape - Initiative",
+    "zhCN": "改变形态 - 先攻"
+  },
+
+  {
+    "Key": "Skinwalker.Heritage.Scaleheart.ChangeShapeInitiative.Description",
+    "ProcessTemplates": false,
+    "enGB": "A skinwalker can change shape to and from a bestial form as a move action. While in this form, a skinwalker also takes on an animalistic feature that provides a special effect. Each time a skinwalker assumes bestial form, she can choose to gain one of the following features: \n Bite attack that deals 1d6 points of damage \n +1 natural armor bonus \n +2 racial bonus on initiative checks \n Ferocity.",
+        "zhCN": "兽态人能够以一个移动动作进入一种兽形状态。在这种状态下，兽态人获得动物的特性来获得特殊效果。每次兽态人进入兽形状态时，他可以从下列特征中选择一项：\n 1d6伤害啮咬攻击 \n +1 天生护甲加值 \n +2 先攻检定种族奖励 \n 凶猛（生命低于0可继续战斗）."
+  },
+
+  {
+    "Key": "Skinwalker.Heritage.Scaleheart.ChangeShapeFerocity.Name",
+    "ProcessTemplates": false,
+    "enGB": "Change Shape - Ferocity",
+    "zhCN": "改变形态 - 凶猛"
+  },
+
+  {
+    "Key": "Skinwalker.Heritage.Scaleheart.ChangeShapeFerocity.Description",
+    "ProcessTemplates": false,
+    "enGB": "A skinwalker can change shape to and from a bestial form as a move action. While in this form, a skinwalker also takes on an animalistic feature that provides a special effect. Each time a skinwalker assumes bestial form, she can choose to gain one of the following features: \n Bite attack that deals 1d6 points of damage \n +1 natural armor bonus \n +2 racial bonus on initiative checks \n Ferocity.",
+        "zhCN": "兽态人能够以一个移动动作进入一种兽形状态。在这种状态下，兽态人获得动物的特性来获得特殊效果。每次兽态人进入兽形状态时，他可以从下列特征中选择一项：\n 1d6伤害啮咬攻击 \n +1 天生护甲加值 \n +2 先攻检定种族奖励 \n 凶猛（生命低于0可继续战斗）."
+  },
+
+  {
+    "Key": "Skinwalker.Heritage.Aerieborn.Name",
+    "ProcessTemplates": false,
+    "enGB": "Aerieborn (Wereraptor-Kin)",
+    "zhCN": "羽族 (鹰人裔)"
+  },
+
+  {
+    "Key": "Skinwalker.Heritage.Aerieborn.Description",
+    "enGB": "Skinwalkers descended from wereraptors, aerieborn lack beaks, but have feathers in their bestial form. \nAerieborn skinwalkers have a +2 racial bonus to Wisdom, a +2 racial bonus to Dexterity, a -2 penalty to Charisma, a +2 bonus to Perception checks, and a +2 bonus to Persuasion checks when used for diplomacy. They can use Feather Step once per day using their Wisdom as their spell casting ability.",
+    "zhCN": "羽族是鹰人的后裔，他们没有鸟喙，但是拥有猛禽的羽毛。\n羽族在感知和敏捷上获得+2种族加值，魅力受到-2减值，察觉和用于交涉的沟通检定上获得+2加值。他们每天可以释放一次轻羽步，并用感知来作为其施法者属性。"
+  },
+
+  {
+    "Key": "Skinwalker.Heritage.Aerieborn.ChangeShapeBase.Name",
+    "ProcessTemplates": false,
+    "enGB": "Change Shape",
+    "zhCN": "改变形态"
+  },
+
+  {
+    "Key": "Skinwalker.Heritage.Aerieborn.ChangeShapeBase.Description",
+    "enGB": "A skinwalker can change shape to and from a bestial form as a move action. While in this form, a skinwalker also takes on an animalistic feature that provides a special effect. Each time a skinwalker assumes bestial form, she can choose to gain one of the following features: \n Bite attack that deals 1d6 points of damage \n +4 racial bonus to perception \n 2 Talon attacks that deal 1d4 damage \n +1 dodge bonus to AC.",
+        "zhCN": "兽态人能够以一个移动动作进入一种兽形状态。在这种状态下，兽态人获得动物的特性来获得特殊效果。每次兽态人进入兽形状态时，他可以从下列特征中选择一项：\n 1d6伤害啮咬攻击 \n +4 察觉鉴定种族加值 \n 2次1d4伤害爪击攻击 \n +1 AC上的闪避加值."
+  },
+
+  {
+    "Key": "Skinwalker.Heritage.Aerieborn.ChangeShapeBite.Name",
+    "ProcessTemplates": false,
+    "enGB": "Change Shape - Bite",
+    "zhCN": "改变形态 - 啮咬"
+  },
+
+  {
+    "Key": "Skinwalker.Heritage.Aerieborn.ChangeShapeBite.Description",
+    "ProcessTemplates": false,
+    "enGB": "A skinwalker can change shape to and from a bestial form as a move action. While in this form, a skinwalker also takes on an animalistic feature that provides a special effect. Each time a skinwalker assumes bestial form, she can choose to gain one of the following features: \n Bite attack that deals 1d6 points of damage \n +4 racial bonus to perception \n 2 Talon attacks that deal 1d4 damage \n +1 dodge bonus to AC.",
+        "zhCN": "兽态人能够以一个移动动作进入一种兽形状态。在这种状态下，兽态人获得动物的特性来获得特殊效果。每次兽态人进入兽形状态时，他可以从下列特征中选择一项：\n 1d6伤害啮咬攻击 \n +4 察觉鉴定种族加值 \n 2次1d4伤害爪击攻击 \n +1 AC上的闪避加值."
+  },
+
+  {
+    "Key": "Skinwalker.Heritage.Aerieborn.ChangeShapePerception.Name",
+    "ProcessTemplates": false,
+    "enGB": "Change Shape - Perception",
+    "zhCN": "改变形态 - 察觉"
+  },
+
+  {
+    "Key": "Skinwalker.Heritage.Aerieborn.ChangeShapePerception.Description",
+    "ProcessTemplates": false,
+    "enGB": "A skinwalker can change shape to and from a bestial form as a move action. While in this form, a skinwalker also takes on an animalistic feature that provides a special effect. Each time a skinwalker assumes bestial form, she can choose to gain one of the following features: \n Bite attack that deals 1d6 points of damage \n +4 racial bonus to perception \n 2 Talon attacks that deal 1d4 damage \n +1 dodge bonus to AC.",
+        "zhCN": "兽态人能够以一个移动动作进入一种兽形状态。在这种状态下，兽态人获得动物的特性来获得特殊效果。每次兽态人进入兽形状态时，他可以从下列特征中选择一项：\n 1d6伤害啮咬攻击 \n +4 察觉鉴定种族加值 \n 2次1d4伤害爪击攻击 \n +1 AC上的闪避加值."
+  },
+
+  {
+    "Key": "Skinwalker.Heritage.Aerieborn.ChangeShapeTalons.Name",
+    "ProcessTemplates": false,
+    "enGB": "Change Shape - Talons",
+    "zhCN": "改变形态 - 爪击"
+  },
+
+  {
+    "Key": "Skinwalker.Heritage.Aerieborn.ChangeShapeTalons.Description",
+    "ProcessTemplates": false,
+    "enGB": "A skinwalker can change shape to and from a bestial form as a move action. While in this form, a skinwalker also takes on an animalistic feature that provides a special effect. Each time a skinwalker assumes bestial form, she can choose to gain one of the following features: \n Bite attack that deals 1d6 points of damage \n +4 racial bonus to perception \n 2 Talon attacks that deal 1d4 damage \n +1 dodge bonus to AC.",
+        "zhCN": "兽态人能够以一个移动动作进入一种兽形状态。在这种状态下，兽态人获得动物的特性来获得特殊效果。每次兽态人进入兽形状态时，他可以从下列特征中选择一项：\n 1d6伤害啮咬攻击 \n +4 察觉鉴定种族加值 \n 2次1d4伤害爪击攻击 \n +1 AC上的闪避加值."
+  },
+
+  {
+    "Key": "Skinwalker.Heritage.Aerieborn.ChangeShapeDodge.Name",
+    "ProcessTemplates": false,
+    "enGB": "Change Shape - Dodge",
+    "zhCN": "改变形态 - 闪避"
+  },
+
+  {
+    "Key": "Skinwalker.Heritage.Aerieborn.ChangeShapeDodge.Description",
+    "ProcessTemplates": false,
+    "enGB": "A skinwalker can change shape to and from a bestial form as a move action. While in this form, a skinwalker also takes on an animalistic feature that provides a special effect. Each time a skinwalker assumes bestial form, she can choose to gain one of the following features: \n Bite attack that deals 1d6 points of damage \n +4 racial bonus to perception \n 2 Talon attacks that deal 1d4 damage \n +1 dodge bonus to AC.",
+        "zhCN": "兽态人能够以一个移动动作进入一种兽形状态。在这种状态下，兽态人获得动物的特性来获得特殊效果。每次兽态人进入兽形状态时，他可以从下列特征中选择一项：\n 1d6伤害啮咬攻击 \n +4 察觉鉴定种族加值 \n 2次1d4伤害爪击攻击 \n +1 AC上的闪避加值."
+  },
+
+  {
+    "Key": "Skinwalker.Heritage.Nightskulk.Name",
+    "ProcessTemplates": false,
+    "enGB": "Nightskulk (Wererat-Kin)",
+    "zhCN": "夜隐（鼠人裔）"
+  },
+
+  {
+    "Key": "Skinwalker.Heritage.Nightskulk.Description",
+    "enGB": "Wererat-kin are common in urban areas, and like wererats, they usually rely on their stealth and cunning to get by in those metropolitan centers where they are persecuted. Many rogues and scoundrels think of a trace of rodent blood as a useful advantage, and some even falsely brag of having this trait to earn a quick reputation and intimidate rivals. True nightskulks, however, know that spreading such information only invites despair, for of all the skinwalkers nightskulks are perhaps the most universally despised. \nUnlike other skinwalkers, even large nightskulk communities often draw their culture almost completely from the surrounding human society, assimilating at the cost of losing their ancient skinwalker traditions. \nNightskulk skinwalkers have a +2 racial bonus to Intelligence, a +2 racial bonus to Dexterity, a -2 penalty to Strength, a +2 bonus to Stealth checks, and a +2 bonus to Lore(Nature) checks. They can use Animal Aspect - Raccoon once per day using their Wisdom as their spell casting ability.",
+    "zhCN": "鼠人裔在城市地区很常见，像鼠人一样，他们通常依靠自己的隐秘和狡猾在那些残酷的大都市中心生活。许多无赖和无赖认为，微量的鼠血是一种有用的优势，有些人甚至谎称拥有这种特质可以迅速赢得声誉并恐吓对手。然而，真正的夜隐都知道，传播这种信息只会带来绝望，因为在所有的兽态人中，夜隐可能是最被普遍鄙视的一群人。\n与其他的兽态人不同，即使是最大型的夜隐社区，也几乎完全在文化上和周围的人类社会同化了，失去了其所有的古老兽态人传统。\n夜隐在智力和敏捷上获得+2种族加值，力量受到-2减值，隐匿和学识（自然）检定上获得+2加值。他们每天可以释放一次动物之型 - 浣熊，并用感知来作为其施法者属性。"
+  },
+
+  {
+    "Key": "Skinwalker.Heritage.Nightskulk.ChangeShapeBase.Name",
+    "ProcessTemplates": false,
+    "enGB": "Change Shape",
+    "zhCN": "改变形态"
+  },
+
+  {
+    "Key": "Skinwalker.Heritage.Nightskulk.ChangeShapeBase.Description",
+    "enGB": "A skinwalker can change shape to and from a bestial form as a move action. While in this form, a skinwalker also takes on an animalistic feature that provides a special effect. Each time a skinwalker assumes bestial form, she can choose to gain one of the following features: \n Bite attack that deals 1d6 points of damage \n +4 racial bonus to Athletics \n Distraction, except only the first hit with a natural attack per round, and sickens instead of nauseates. Fortitude save (DC 10 + 1/2 creature''s HD + creature''s Con modifier) negates the effect \n Scent to a range of 30 feet.",
+        "zhCN": "兽态人能够以一个移动动作进入一种兽形状态。在这种状态下，兽态人获得动物的特性来获得特殊效果。每次兽态人进入兽形状态时，他可以从下列特征中选择一项：\n 1d6伤害啮咬攻击 \n +4 运动检定种族加值 \n 扰乱心神，只对第一次天生武器攻击有效，且用恶心替代反胃。强韧豁免（DC为10+1/2生物HD数+生物体质修正）可以无效该效果 \n 30尺灵敏嗅觉."
+  },
+
+  {
+    "Key": "Skinwalker.Heritage.Nightskulk.ChangeShapeBite.Name",
+    "ProcessTemplates": false,
+    "enGB": "Change Shape - Bite",
+    "zhCN": "改变形态 - 啮咬"
+  },
+
+  {
+    "Key": "Skinwalker.Heritage.Nightskulk.ChangeShapeBite.Description",
+    "ProcessTemplates": false,
+    "enGB": "A skinwalker can change shape to and from a bestial form as a move action. While in this form, a skinwalker also takes on an animalistic feature that provides a special effect. Each time a skinwalker assumes bestial form, she can choose to gain one of the following features: \n Bite attack that deals 1d6 points of damage \n +4 racial bonus to Athletics \n Distraction, except only the first hit with a natural attack per round, and sickens instead of nauseates. Fortitude save (DC 10 + 1/2 creature''s HD + creature''s Con modifier) negates the effect \n Scent to a range of 30 feet.",
+        "zhCN": "兽态人能够以一个移动动作进入一种兽形状态。在这种状态下，兽态人获得动物的特性来获得特殊效果。每次兽态人进入兽形状态时，他可以从下列特征中选择一项：\n 1d6伤害啮咬攻击 \n +4 运动检定种族加值 \n 扰乱心神，只对第一次天生武器攻击有效，且用恶心替代反胃。强韧豁免（DC为10+1/2生物HD数+生物体质修正）可以无效该效果 \n 30尺灵敏嗅觉."
+  },
+
+  {
+    "Key": "Skinwalker.Heritage.Nightskulk.ChangeShapeAthletics.Name",
+    "ProcessTemplates": false,
+    "enGB": "Change Shape - Athletics",
+    "zhCN": "改变形态 - 运动"
+  },
+
+  {
+    "Key": "Skinwalker.Heritage.Nightskulk.ChangeShapeAthletics.Description",
+    "ProcessTemplates": false,
+    "enGB": "A skinwalker can change shape to and from a bestial form as a move action. While in this form, a skinwalker also takes on an animalistic feature that provides a special effect. Each time a skinwalker assumes bestial form, she can choose to gain one of the following features: \n Bite attack that deals 1d6 points of damage \n +4 racial bonus to Athletics \n Distraction, except only the first hit with a natural attack per round, and sickens instead of nauseates. Fortitude save (DC 10 + 1/2 creature''s HD + creature''s Con modifier) negates the effect \n Scent to a range of 30 feet.",
+        "zhCN": "兽态人能够以一个移动动作进入一种兽形状态。在这种状态下，兽态人获得动物的特性来获得特殊效果。每次兽态人进入兽形状态时，他可以从下列特征中选择一项：\n 1d6伤害啮咬攻击 \n +4 运动检定种族加值 \n 扰乱心神，只对第一次天生武器攻击有效，且用恶心替代反胃。强韧豁免（DC为10+1/2生物HD数+生物体质修正）可以无效该效果 \n 30尺灵敏嗅觉."
+  },
+
+  {
+    "Key": "Skinwalker.Heritage.Nightskulk.ChangeShapeDistraction.Name",
+    "ProcessTemplates": false,
+    "enGB": "Change Shape - Distraction",
+    "zhCN": "改变形态 - 扰乱心神"
+  },
+
+  {
+    "Key": "Skinwalker.Heritage.Nightskulk.ChangeShapeDistraction.Description",
+    "ProcessTemplates": false,
+    "enGB": "A skinwalker can change shape to and from a bestial form as a move action. While in this form, a skinwalker also takes on an animalistic feature that provides a special effect. Each time a skinwalker assumes bestial form, she can choose to gain one of the following features: \n Bite attack that deals 1d6 points of damage \n +4 racial bonus to Athletics \n Distraction, except only the first hit with a natural attack per round, and sickens instead of nauseates. Fortitude save (DC 10 + 1/2 creature''s HD + creature''s Con modifier) negates the effect \n Scent to a range of 30 feet.",
+        "zhCN": "兽态人能够以一个移动动作进入一种兽形状态。在这种状态下，兽态人获得动物的特性来获得特殊效果。每次兽态人进入兽形状态时，他可以从下列特征中选择一项：\n 1d6伤害啮咬攻击 \n +4 运动检定种族加值 \n 扰乱心神，只对第一次天生武器攻击有效，且用恶心替代反胃。强韧豁免（DC为10+1/2生物HD数+生物体质修正）可以无效该效果 \n 30尺灵敏嗅觉."
+  },
+
+  {
+    "Key": "Skinwalker.Heritage.Nightskulk.ChangeShapeScent.Name",
+    "ProcessTemplates": false,
+    "enGB": "Change Shape - Scent",
+    "zhCN": "改变形态 - 嗅觉"
+  },
+
+  {
+    "Key": "Skinwalker.Heritage.Nightskulk.ChangeShapeScent.Description",
+    "ProcessTemplates": false,
+    "enGB": "A skinwalker can change shape to and from a bestial form as a move action. While in this form, a skinwalker also takes on an animalistic feature that provides a special effect. Each time a skinwalker assumes bestial form, she can choose to gain one of the following features: \n Bite attack that deals 1d6 points of damage \n +4 racial bonus to Athletics \n Distraction, except only the first hit with a natural attack per round, and sickens instead of nauseates. Fortitude save (DC 10 + 1/2 creature''s HD + creature''s Con modifier) negates the effect \n Scent to a range of 30 feet.",
+        "zhCN": "兽态人能够以一个移动动作进入一种兽形状态。在这种状态下，兽态人获得动物的特性来获得特殊效果。每次兽态人进入兽形状态时，他可以从下列特征中选择一项：\n 1d6伤害啮咬攻击 \n +4 运动检定种族加值 \n 扰乱心神，只对第一次天生武器攻击有效，且用恶心替代反胃。强韧豁免（DC为10+1/2生物HD数+生物体质修正）可以无效该效果 \n 30尺灵敏嗅觉."
+  },
+
+  {
+    "Key": "Skinwalker.Heritage.Seascarred.Name",
+    "ProcessTemplates": false,
+    "enGB": "Seascarred (Wereshark-Kin)",
+    "zhCN": "海疤（鲨人裔）"
+  },
+
+  {
+    "Key": "Skinwalker.Heritage.Seascarred.Description",
+    "enGB": "Much like lions are seen as kings of the savanna, sharks are kings of the sea, and so seascarred—those skinwalkers descended from weresharks—often think of themselves as having noble blood.\nFittingly, wereshark-kin are often related to island nobility and shamans, and thus many expect others to defer to their often-blunt methods and habits. Like weresharks, they tend to be singleminded and do not like to be questioned. Although some are selfish and others heroic, most seascarred prefer to live relatively simple lives consisting primarily of hunting and eating. Many greedy or unscrupulous wereshark-kin make their way as pirates, simply taking what they want and letting their cowed peers deal with complications.\nWereshark-kin prefer to be their own masters, but are willing to follow obviously more powerful leaders. \nSeascarred culture tells them that they are natural lords of the water, leading many wereshark-kin communities and loners alike to defend chosen stretches of coastline against all intruders and to live in harmony with the sea under the guidance of a druid or shaman. \nSeascarred skinwalkers have a +2 racial bonus to Wisdom, a +2 racial bonus to Constitution, a -2 penalty to Intelligence, a +2 bonus to Perception checks, and a +2 bonus to Athletics checks. They can use Resist Energy - Cold once per day using their Wisdom as their spell casting ability.",
+    "zhCN": "就像狮子被视为草原之王一样，鲨鱼也是海洋之王，因此，那些从鲨人演化而来的海疤经常认为自己拥有高贵的血统。\n令人惊讶的是，鲨人裔家族通常与岛上的贵族和萨满有关，因此许多人希望其他人遵从他们通常生硬的方法和习惯。像鲨人一样，他们倾向于独断专行，不喜欢被质疑。尽管其中有些很自私，有些很英勇，但大多数海疤还是更喜欢过相对简单的生活，也就是狩猎和吃饭。许多贪婪或肆无忌惮的鲨人裔家族以海盗的身份出现，他们只需要得到他们想要的东西，让他们怯懦的同伴处理复杂的问题。\n鲨人裔更愿意成为自己的主人，但也愿意追随更强大的领导人。\n海疤文化告诉他们，他们自己是天生的水之王，因此许多鲨人裔社区和独行者都会保卫选定的海岸线，抵御所有入侵者，并在德鲁伊或萨满的指导下与大海和谐相处。\n鲨人裔在体质和感知上获得+2种族加值，智力受到-2减值，察觉和运动检定上获得+2加值。他们每天可以释放一次抵抗能量 - 寒冷，并用感知来作为其施法者属性。"
+  },
+
+  {
+    "Key": "Skinwalker.Heritage.Seascarred.ChangeShapeBase.Name",
+    "ProcessTemplates": false,
+    "enGB": "Change Shape",
+    "zhCN": "改变形态"
+  },
+
+  {
+    "Key": "Skinwalker.Heritage.Seascarred.ChangeShapeBase.Description",
+    "enGB": "A skinwalker can change shape to and from a bestial form as a move action. While in this form, a skinwalker also takes on an animalistic feature that provides a special effect. Each time a skinwalker assumes bestial form, she can choose to gain one of the following features: \n Bite attack that deals 1d6 points of damage \n +2 racial bonus to initiative \n Ferocity \n Scent to a range of 30 feet.",
+        "zhCN": "兽态人能够以一个移动动作进入一种兽形状态。在这种状态下，兽态人获得动物的特性来获得特殊效果。每次兽态人进入兽形状态时，他可以从下列特征中选择一项：\n 1d6伤害啮咬攻击 \n +2 racial bonus to initiative \n 凶猛（生命低于0可继续战斗） \n 30尺灵敏嗅觉."
+  },
+
+  {
+    "Key": "Skinwalker.Heritage.Seascarred.ChangeShapeBite.Name",
+    "ProcessTemplates": false,
+    "enGB": "Change Shape - Bite",
+    "zhCN": "改变形态 - 啮咬"
+  },
+
+  {
+    "Key": "Skinwalker.Heritage.Seascarred.ChangeShapeBite.Description",
+    "ProcessTemplates": false,
+    "enGB": "A skinwalker can change shape to and from a bestial form as a move action. While in this form, a skinwalker also takes on an animalistic feature that provides a special effect. Each time a skinwalker assumes bestial form, she can choose to gain one of the following features: \n Bite attack that deals 1d6 points of damage \n +2 racial bonus to initiative \n Ferocity \n Scent to a range of 30 feet.",
+        "zhCN": "兽态人能够以一个移动动作进入一种兽形状态。在这种状态下，兽态人获得动物的特性来获得特殊效果。每次兽态人进入兽形状态时，他可以从下列特征中选择一项：\n 1d6伤害啮咬攻击 \n +2 racial bonus to initiative \n 凶猛（生命低于0可继续战斗） \n 30尺灵敏嗅觉."
+  },
+
+  {
+    "Key": "Skinwalker.Heritage.Seascarred.ChangeShapeInitiative.Name",
+    "ProcessTemplates": false,
+    "enGB": "Change Shape - Initiative",
+    "zhCN": "改变形态 - 先攻"
+  },
+
+  {
+    "Key": "Skinwalker.Heritage.Seascarred.ChangeShapeInitiative.Description",
+    "ProcessTemplates": false,
+    "enGB": "A skinwalker can change shape to and from a bestial form as a move action. While in this form, a skinwalker also takes on an animalistic feature that provides a special effect. Each time a skinwalker assumes bestial form, she can choose to gain one of the following features: \n Bite attack that deals 1d6 points of damage \n +2 racial bonus to initiative \n Ferocity \n Scent to a range of 30 feet.",
+        "zhCN": "兽态人能够以一个移动动作进入一种兽形状态。在这种状态下，兽态人获得动物的特性来获得特殊效果。每次兽态人进入兽形状态时，他可以从下列特征中选择一项：\n 1d6伤害啮咬攻击 \n +2 racial bonus to initiative \n 凶猛（生命低于0可继续战斗） \n 30尺灵敏嗅觉."
+  },
+
+  {
+    "Key": "Skinwalker.Heritage.Seascarred.ChangeShapeFerocity.Name",
+    "ProcessTemplates": false,
+    "enGB": "Change Shape - Ferocity",
+    "zhCN": "改变形态 - 凶猛"
+  },
+
+  {
+    "Key": "Skinwalker.Heritage.Seascarred.ChangeShapeFerocity.Description",
+    "ProcessTemplates": false,
+    "enGB": "A skinwalker can change shape to and from a bestial form as a move action. While in this form, a skinwalker also takes on an animalistic feature that provides a special effect. Each time a skinwalker assumes bestial form, she can choose to gain one of the following features: \n Bite attack that deals 1d6 points of damage \n +2 racial bonus to initiative \n Ferocity \n Scent to a range of 30 feet.",
+        "zhCN": "兽态人能够以一个移动动作进入一种兽形状态。在这种状态下，兽态人获得动物的特性来获得特殊效果。每次兽态人进入兽形状态时，他可以从下列特征中选择一项：\n 1d6伤害啮咬攻击 \n +2 racial bonus to initiative \n 凶猛（生命低于0可继续战斗） \n 30尺灵敏嗅觉."
+  },
+
+  {
+    "Key": "Skinwalker.Heritage.Seascarred.ChangeShapeScent.Name",
+    "ProcessTemplates": false,
+    "enGB": "Change Shape - Scent",
+    "zhCN": "改变形态 - 嗅觉"
+  },
+
+  {
+    "Key": "Skinwalker.Heritage.Seascarred.ChangeShapeScent.Description",
+    "ProcessTemplates": false,
+    "enGB": "A skinwalker can change shape to and from a bestial form as a move action. While in this form, a skinwalker also takes on an animalistic feature that provides a special effect. Each time a skinwalker assumes bestial form, she can choose to gain one of the following features: \n Bite attack that deals 1d6 points of damage \n +2 racial bonus to initiative \n Ferocity \n Scent to a range of 30 feet.",
+        "zhCN": "兽态人能够以一个移动动作进入一种兽形状态。在这种状态下，兽态人获得动物的特性来获得特殊效果。每次兽态人进入兽形状态时，他可以从下列特征中选择一项：\n 1d6伤害啮咬攻击 \n +2 racial bonus to initiative \n 凶猛（生命低于0可继续战斗） \n 30尺灵敏嗅觉."
+  },
+
+  {
+    "Key": "Skinwalker.Heritage.Fanglord.Name",
+    "ProcessTemplates": false,
+    "enGB": "Fanglord (Weretiger-Kin)",
+    "zhCN": "牙王（虎人裔）"
+  },
+
+  {
+    "Key": "Skinwalker.Heritage.Fanglord.Description",
+    "enGB": "Weretiger-kin are known for their fickle attitudes and unpredictable behavior. Usually, a fanglord makes his living by intimidation, cutthroat business dealings, political ploys, and military ventures. Very much like weretigers, they rarely congregate with others of their kind except as mated pairs or one or two parents with a few children, although they sometimes agree to form oligarchic arrangements of mutual protection with neighboring fanglords or weretigers when each of them can respect the other’s strength. They often have aristocratic connections or the charm to fake it, and are happy to settle in affluent areas, where one fanglord typically claims dominion over anything from a small neighborhood to a large city district.\nWeretiger-kin tend to be exceptionally proud of their heritage and confident to the point of hubris regarding their authority over not only humans, but also animals.\nAlthough usually quite capable, fanglords are not opposed to waiting for just the right moment to spring a plan or strike against an enemy, making sure they can act with overwhelming effectiveness and completely negate the chance of an opponent fighting back. As a result, they make impeccable assassins and frustrating political enemies. Weretiger-kin often have large eyes, long noses, and sharp cheekbones. \nFanglord skinwalkers have a +2 racial bonus to Dexterity, a +2 racial bonus to Charisma, a -2 penalty to Wisdom, a +2 bonus to Perception checks, and a +2 bonus to Mobility checks. They can use Magic Fang once per day using their Wisdom as their spell casting ability.",
+    "zhCN": "虎人裔以其变化无常的态度和不可预测的行为而闻名。通常，虎人裔以恐吓、残酷的商业交易、政治策略和军事冒险为生。与虎人非常相似，他们很少与同类动物聚集在一起，除非是一对伴侣，或者或一两位父母带着几个孩子，尽管它们有时会也同意与附近的虎人或虎人裔形成相互保护的同盟，只要他们彼此尊重对方的力量。他们通常和贵族有关系，或真或假，并乐于定居在富裕的地区，在那里，一个牙王通常声称对从一个小社区到一个大城市范围的任何事物都拥有统治权。\n虎人裔往往对自己的血脉感到特别自豪，并对自己不仅对人类，而且对动物也有效的权威感到骄傲。\n尽管通常很有能力，但虎人裔也并不反对等待时机，来制定计划或打击敌人，以确保他们能够拥有压倒性的优势，完全杜绝对手反击的可能性。因此，他们会成为无可挑剔的刺客和令人沮丧的政敌。虎人裔通常有大眼睛、长鼻子和锋利的颧骨。\n虎人裔在敏捷和魅力上获得+2种族加值，感知受到-2减值，察觉和灵巧检定上获得+2加值。他们每天可以释放一次魔牙，并用感知来作为其施法者属性。"
+  },
+
+  {
+    "Key": "Skinwalker.Heritage.Fanglord.ChangeShapeBase.Name",
+    "ProcessTemplates": false,
+    "enGB": "Change Shape",
+    "zhCN": "改变形态"
+  },
+
+  {
+    "Key": "Skinwalker.Heritage.Fanglord.ChangeShapeBase.Description",
+    "enGB": "A skinwalker can change shape to and from a bestial form as a move action. While in this form, a skinwalker also takes on an animalistic feature that provides a special effect. Each time a skinwalker assumes bestial form, she can choose to gain one of the following features: \n Bite attack that deals 1d6 points of damage \n 2 claw attacks that each deal 1d4 points of damage \n +10 racial bonus to speed \n Scent to a range of 30 feet.",
+        "zhCN": "兽态人能够以一个移动动作进入一种兽形状态。在这种状态下，兽态人获得动物的特性来获得特殊效果。每次兽态人进入兽形状态时，他可以从下列特征中选择一项：\n 1d6伤害啮咬攻击 \n 2次1d4伤害爪抓攻击 \n +10 基础速度种族加值 \n 30尺灵敏嗅觉."
+  },
+
+  {
+    "Key": "Skinwalker.Heritage.Fanglord.ChangeShapeBite.Name",
+    "ProcessTemplates": false,
+    "enGB": "Change Shape - Bite",
+    "zhCN": "改变形态 - 啮咬"
+  },
+
+  {
+    "Key": "Skinwalker.Heritage.Fanglord.ChangeShapeBite.Description",
+    "ProcessTemplates": false,
+    "enGB": "A skinwalker can change shape to and from a bestial form as a move action. While in this form, a skinwalker also takes on an animalistic feature that provides a special effect. Each time a skinwalker assumes bestial form, she can choose to gain one of the following features: \n Bite attack that deals 1d6 points of damage \n 2 claw attacks that each deal 1d4 points of damage \n +10 racial bonus to speed \n Scent to a range of 30 feet.",
+        "zhCN": "兽态人能够以一个移动动作进入一种兽形状态。在这种状态下，兽态人获得动物的特性来获得特殊效果。每次兽态人进入兽形状态时，他可以从下列特征中选择一项：\n 1d6伤害啮咬攻击 \n 2次1d4伤害爪抓攻击 \n +10 基础速度种族加值 \n 30尺灵敏嗅觉."
+  },
+
+  {
+    "Key": "Skinwalker.Heritage.Fanglord.ChangeShapeClaws.Name",
+    "ProcessTemplates": false,
+    "enGB": "Change Shape - Claws",
+    "zhCN": "改变形态 - 爪抓"
+  },
+
+  {
+    "Key": "Skinwalker.Heritage.Fanglord.ChangeShapeClaws.Description",
+    "ProcessTemplates": false,
+    "enGB": "A skinwalker can change shape to and from a bestial form as a move action. While in this form, a skinwalker also takes on an animalistic feature that provides a special effect. Each time a skinwalker assumes bestial form, she can choose to gain one of the following features: \n Bite attack that deals 1d6 points of damage \n 2 claw attacks that each deal 1d4 points of damage \n +10 racial bonus to speed \n Scent to a range of 30 feet.",
+        "zhCN": "兽态人能够以一个移动动作进入一种兽形状态。在这种状态下，兽态人获得动物的特性来获得特殊效果。每次兽态人进入兽形状态时，他可以从下列特征中选择一项：\n 1d6伤害啮咬攻击 \n 2次1d4伤害爪抓攻击 \n +10 基础速度种族加值 \n 30尺灵敏嗅觉."
+  },
+
+  {
+    "Key": "Skinwalker.Heritage.Fanglord.ChangeShapeSpeed.Name",
+    "ProcessTemplates": false,
+    "enGB": "Change Shape - Speed",
+    "zhCN": "改变形态 - 速度"
+  },
+
+  {
+    "Key": "Skinwalker.Heritage.Fanglord.ChangeShapeSpeed.Description",
+    "ProcessTemplates": false,
+    "enGB": "A skinwalker can change shape to and from a bestial form as a move action. While in this form, a skinwalker also takes on an animalistic feature that provides a special effect. Each time a skinwalker assumes bestial form, she can choose to gain one of the following features: \n Bite attack that deals 1d6 points of damage \n 2 claw attacks that each deal 1d4 points of damage \n +10 racial bonus to speed \n Scent to a range of 30 feet.",
+        "zhCN": "兽态人能够以一个移动动作进入一种兽形状态。在这种状态下，兽态人获得动物的特性来获得特殊效果。每次兽态人进入兽形状态时，他可以从下列特征中选择一项：\n 1d6伤害啮咬攻击 \n 2次1d4伤害爪抓攻击 \n +10 基础速度种族加值 \n 30尺灵敏嗅觉."
+  },
+
+  {
+    "Key": "Skinwalker.Heritage.Fanglord.ChangeShapeScent.Name",
+    "ProcessTemplates": false,
+    "enGB": "Change Shape - Scent",
+    "zhCN": "改变形态 - 嗅觉"
+  },
+
+  {
+    "Key": "Skinwalker.Heritage.Fanglord.ChangeShapeScent.Description",
+    "ProcessTemplates": false,
+    "enGB": "A skinwalker can change shape to and from a bestial form as a move action. While in this form, a skinwalker also takes on an animalistic feature that provides a special effect. Each time a skinwalker assumes bestial form, she can choose to gain one of the following features: \n Bite attack that deals 1d6 points of damage \n 2 claw attacks that each deal 1d4 points of damage \n +10 racial bonus to speed \n Scent to a range of 30 feet.",
+        "zhCN": "兽态人能够以一个移动动作进入一种兽形状态。在这种状态下，兽态人获得动物的特性来获得特殊效果。每次兽态人进入兽形状态时，他可以从下列特征中选择一项：\n 1d6伤害啮咬攻击 \n 2次1d4伤害爪抓攻击 \n +10 基础速度种族加值 \n 30尺灵敏嗅觉."
+  },
+
+  {
+    "Key": "Skinwalker.Heritage.Witchwolf.Name",
+    "ProcessTemplates": false,
+    "enGB": "Witchwolf (Werewolf-Kin)",
+    "zhCN": "巫狼（狼人裔）"
+  },
+
+  {
+    "Key": "Skinwalker.Heritage.Witchwolf.Description",
+    "enGB": "Werewolf-kin are found in many areas, ranging from misty moors to dark alleys of bustling cities, and theirs is perhaps the most common visible skinwalker heritage to be found throughout the Inner Sea region and beyond.\nThey often dwell with werewolves or others of their kind in small, isolated settlements that resound with howls on the night of the full moon. Many werewolves and witchwolves live in seminomadic bands as traders, mystics, adventurers, or entertainers, allowing them to wreak havoc in remote settlements before slipping off into the darkness to escape the subsequent suspicion and hostility of townsfolk. Most such bands include only werewolves or only werewolf-kin, but occasionally one group adopts a member of the other sort out of circumstance or convenience, particularly if the two share common blood.\nWerewolf-kin generally have prominent eyebrows that grow together, long index fingers, or wild hair that seems impossible to tame. Witchwolf packs are often led by witches trained in a tradition of curses and transformation tied closely to the original curse of lycanthropy; these witches are also usually the most powerful members of their packs, though exceptions exist where a witch leads with the aid of a favored ally of incredible strength. Because werewolf-kin cannot recruit ordinary humans the way werewolves can, they tend to be more cautious and maintain closer bonds with their fellows than true werewolves usually do, and their bands typically consist of only one or a few extended families or possibly longtime friends. \nWitchwolf skinwalkers have a +2 racial bonus to Constitution, a +2 racial bonus to Wisdom, a -2 penalty to Intelligence, a +2 bonus to Perception checks, and a +2 bonus to Lore(Nature) checks. They can use Magic Fang once per day using their Wisdom as their spell casting ability.",
+    "zhCN": "狼人裔分布在许多地区，从迷雾重重的荒野到繁华城市的黑暗小巷，他们的家族可能是整个内海地区乃至更远地区最广泛的可见兽态人群体。\n他们经常与狼人或其他同类动物一起居住在小而孤立的定居点，在满月的夜晚，这些定居点会发出嚎叫。许多狼人和狼人裔以商人、神秘主义者、冒险家或艺人的身份生活在半游牧队伍中，让他们在偏远的定居点里大肆破坏，然后溜到黑暗中逃避随后的怀疑和居民的敌意。大多数这样的队伍只包括狼人或狼人裔，但偶尔也会有队伍出于环境或方便而收养另一类成员，特别是如果在他们有血统关系时。\n狼人裔通常有连在一起的突出眉毛，长食指，或者看起来不太顺服的狂野毛发。巫狼群体通常由熟识诅咒和变形技艺的巫师领导，这些技艺和他们的狼人原始传统关系密切；这些巫师通常都是他们群体中最强大的成员，但也偶有例外，巫师在实力惊人的盟友帮助下成为领导者。狼人裔并不能像真正的狼人那样转化腹痛人，他们通常比真正的狼人更加谨慎，与同伴保持更紧密的关系，而且他们的群体通常只由一个或几个大家族或长期朋友组成。\n狼人裔在感知和体质上获得+2种族加值，智力受到-2减值，学识（自然）和察觉检定上获得+2加值。他们每天可以释放一次魔牙，并用感知来作为其施法者属性。"
+  },
+
+  {
+    "Key": "Skinwalker.Heritage.Witchwolf.ChangeShapeBase.Name",
+    "ProcessTemplates": false,
+    "enGB": "Change Shape",
+    "zhCN": "改变形态"
+  },
+
+  {
+    "Key": "Skinwalker.Heritage.Witchwolf.ChangeShapeBase.Description",
+    "enGB": "A skinwalker can change shape to and from a bestial form as a move action. While in this form, a skinwalker also takes on an animalistic feature that provides a special effect. Each time a skinwalker assumes bestial form, she can choose to gain one of the following features: \n Bite attack that deals 1d6 points of damage \n 2 claw attacks that each deal 1d4 points of damage \n +2 racial bonus to all saving throws \n Scent to a range of 30 feet.",
+        "zhCN": "兽态人能够以一个移动动作进入一种兽形状态。在这种状态下，兽态人获得动物的特性来获得特殊效果。每次兽态人进入兽形状态时，他可以从下列特征中选择一项：\n 1d6伤害啮咬攻击 \n 2次1d4伤害爪抓攻击 \n +2 所有豁免检定种族加值 \n 30尺灵敏嗅觉."
+  },
+
+  {
+    "Key": "Skinwalker.Heritage.Witchwolf.ChangeShapeBite.Name",
+    "ProcessTemplates": false,
+    "enGB": "Change Shape - Bite",
+    "zhCN": "改变形态 - 啮咬"
+  },
+
+  {
+    "Key": "Skinwalker.Heritage.Witchwolf.ChangeShapeBite.Description",
+    "ProcessTemplates": false,
+    "enGB": "A skinwalker can change shape to and from a bestial form as a move action. While in this form, a skinwalker also takes on an animalistic feature that provides a special effect. Each time a skinwalker assumes bestial form, she can choose to gain one of the following features: \n Bite attack that deals 1d6 points of damage \n 2 claw attacks that each deal 1d4 points of damage \n +2 racial bonus to all saving throws \n Scent to a range of 30 feet.",
+        "zhCN": "兽态人能够以一个移动动作进入一种兽形状态。在这种状态下，兽态人获得动物的特性来获得特殊效果。每次兽态人进入兽形状态时，他可以从下列特征中选择一项：\n 1d6伤害啮咬攻击 \n 2次1d4伤害爪抓攻击 \n +2 所有豁免检定种族加值 \n 30尺灵敏嗅觉."
+  },
+
+  {
+    "Key": "Skinwalker.Heritage.Witchwolf.ChangeShapeClaws.Name",
+    "ProcessTemplates": false,
+    "enGB": "Change Shape - Claws",
+    "zhCN": "改变形态 - 爪抓"
+  },
+
+  {
+    "Key": "Skinwalker.Heritage.Witchwolf.ChangeShapeClaws.Description",
+    "ProcessTemplates": false,
+    "enGB": "A skinwalker can change shape to and from a bestial form as a move action. While in this form, a skinwalker also takes on an animalistic feature that provides a special effect. Each time a skinwalker assumes bestial form, she can choose to gain one of the following features: \n Bite attack that deals 1d6 points of damage \n 2 claw attacks that each deal 1d4 points of damage \n +2 racial bonus to all saving throws \n Scent to a range of 30 feet.",
+        "zhCN": "兽态人能够以一个移动动作进入一种兽形状态。在这种状态下，兽态人获得动物的特性来获得特殊效果。每次兽态人进入兽形状态时，他可以从下列特征中选择一项：\n 1d6伤害啮咬攻击 \n 2次1d4伤害爪抓攻击 \n +2 所有豁免检定种族加值 \n 30尺灵敏嗅觉."
+  },
+
+  {
+    "Key": "Skinwalker.Heritage.Witchwolf.ChangeShapeSavingThrows.Name",
+    "ProcessTemplates": false,
+    "enGB": "Change Shape - Saving Throws",
+    "zhCN": "改变形态 - 豁免"
+  },
+
+  {
+    "Key": "Skinwalker.Heritage.Witchwolf.ChangeShapeSavingThrows.Description",
+    "ProcessTemplates": false,
+    "enGB": "A skinwalker can change shape to and from a bestial form as a move action. While in this form, a skinwalker also takes on an animalistic feature that provides a special effect. Each time a skinwalker assumes bestial form, she can choose to gain one of the following features: \n Bite attack that deals 1d6 points of damage \n 2 claw attacks that each deal 1d4 points of damage \n +2 racial bonus to all saving throws \n Scent to a range of 30 feet.",
+        "zhCN": "兽态人能够以一个移动动作进入一种兽形状态。在这种状态下，兽态人获得动物的特性来获得特殊效果。每次兽态人进入兽形状态时，他可以从下列特征中选择一项：\n 1d6伤害啮咬攻击 \n 2次1d4伤害爪抓攻击 \n +2 所有豁免检定种族加值 \n 30尺灵敏嗅觉."
+  },
+
+  {
+    "Key": "Skinwalker.Heritage.Witchwolf.ChangeShapeScent.Name",
+    "ProcessTemplates": false,
+    "enGB": "Change Shape - Scent",
+    "zhCN": "改变形态 - 嗅觉"
+  },
+
+  {
+    "Key": "Skinwalker.Heritage.Witchwolf.ChangeShapeScent.Description",
+    "ProcessTemplates": false,
+    "enGB": "A skinwalker can change shape to and from a bestial form as a move action. While in this form, a skinwalker also takes on an animalistic feature that provides a special effect. Each time a skinwalker assumes bestial form, she can choose to gain one of the following features: \n Bite attack that deals 1d6 points of damage \n 2 claw attacks that each deal 1d4 points of damage \n +10 racial bonus to speed \n Scent to a range of 30 feet.",
+        "zhCN": "兽态人能够以一个移动动作进入一种兽形状态。在这种状态下，兽态人获得动物的特性来获得特殊效果。每次兽态人进入兽形状态时，他可以从下列特征中选择一项：\n 1d6伤害啮咬攻击 \n 2次1d4伤害爪抓攻击 \n +10 基础速度种族加值 \n 30尺灵敏嗅觉."
+  },
+
+  {
+    "Key": "Orc.Name",
+    "ProcessTemplates": false,
+    "enGB": "Orc",
+    "zhCN": "兽人"
+  },
+
+  {
+    "Key": "Orc.Description",
+    "ProcessTemplates": false,
+    "enGB": "Orcs are aggressive, callous, and domineering. Bullies by nature, they respect strength and power as the highest virtues. On an almost instinctive level, orcs believe they are entitled to anything they want unless someone stronger can stop them from seizing it. They rarely exert themselves off the battlefield except when forced to do so; this attitude stems not just from laziness but also from an ingrained belief that work should trickle down through the pecking order until it falls upon the shoulders of the weak. They take slaves from other races, orc men brutalize orc women, and both abuse children and elders, on the grounds that anyone too feeble to fight back deserves little more than a life of suffering. Surrounded at all times by bitter enemies, orcs cultivate an attitude of indifference to pain, vicious tempers, and a fierce willingness to commit unspeakable acts of vengeance against anyone who dares to defy them.",
+    "zhCN": "兽人好斗、冷酷、霸道。恃强凌弱的天性，他们将力量和权力视为最高的美德。在几乎本能的层面上，兽人认为他们有权得到任何他们想要的东西，除非有更强大的人能够阻止他们夺取它。除非被迫这样做，否则他们很少在战场上努力；这种态度不仅源于懒惰，还源于一种根深蒂固的信念，即工作应该通过啄食的顺序向下流动，直到落到弱者的肩上。他们从其他种族带走奴隶，兽人男人虐待兽人女人，再一起虐待儿童和老人，理由是任何无力反抗的人都应该忍受痛苦。因为总被强敌环伺，兽人养成了一种对痛苦漠不关心的态度，暴躁的脾气，以及对任何敢于反抗他们的人进行难以言喻的报复的强烈意愿。"
+  },
+
+  {
+    "Key": "Orc.Ferocity.Name",
+    "ProcessTemplates": false,
+    "enGB": "Ferocity",
+    "zhCN": "凶猛"
+  },
+
+  {
+    "Key": "Orc.Ferocity.Description",
+    "ProcessTemplates": false,
+    "enGB": "Orcs possess the ferocity ability which allows them to remain conscious and continue fighting even if their hit point totals fall below 0. Orcs are still staggered at 0 hit points or lower and lose 1 hit point each round as normal.",
+    "zhCN": "兽人的凶猛能力使其生命值低于0后依旧意识清醒，可以继续战斗。该生物依然处于恍惚状态，每轮损失1生命值。"
+  },
+
+  {
+    "Key": "ExtraFeature.Name",
+    "ProcessTemplates": false,
+    "enGB": "Extra Feature",
+    "zhCN": "额外特征"
+  },
+
+  {
+    "Key": "ExtraFeature.Description",
+    "ProcessTemplates": false,
+    "enGB": "When you change shape to your bestial form, you may choose one additional feature from those listed in your shapechange ability and gain that benefit while in bestial form. \n You can select this feat multiple times. However, you gain no benefit from being able to select for change shape features than you have change shape features.",
+    "zhCN": "当你使用改变形态变为野兽形态时，你可以多选择一项特征奖励。 \n 你可以多次获得次能力，但是只能从可用特征选项中选择。"
+  },
+
+  {
+    "Key": "MartialExcellence.Settings.Title",
+    "ProcessTemplates": false,
+    "enGB": "Martial Excellence",
+    "zhCN": "杰出武艺"
+  },
+
+  {
+    "Key": "MartialExcellence.Settings.Homebrew.Title",
+    "ProcessTemplates": false,
+    "enGB": "Optional Rules",
+    "zhCN": "可选规则"
+  },
+
+  {
+    "Key": "MartialExcellence.Settings.Archetypes.Title",
+    "ProcessTemplates": false,
+    "enGB": "Archetypes",
+    "zhCN": "变体"
+  },
+
+  {
+    "Key": "MartialExcellence.Settings.ClassFeatures.Title",
+    "ProcessTemplates": false,
+    "enGB": "Class Features",
+    "zhCN": "职业特性"
+  },
+
+  {
+    "Key": "MartialExcellence.Settings.Feats.Title",
+    "ProcessTemplates": false,
+    "enGB": "Feats",
+    "zhCN": "专长"
+  },
+
+  {
+    "Key": "MartialExcellence.Settings.Fixes.Title",
+    "ProcessTemplates": false,
+    "enGB": "Bug Fixes",
+    "zhCN": "Bug修复"
+  },
+
+  {
+    "Key": "MartialExcellence.Settings.RagePowers.Title",
+    "ProcessTemplates": false,
+    "enGB": "Rage Powers",
+    "zhCN": "狂暴之力"
+  },
+
+  {
+    "Key": "MartialExcellence.Settings.EnableFeature",
+    "ProcessTemplates": false,
+    "enGB": "REQUIRES RESTART\n\nTurning this off prevents the feature from working: characters cannot select this feature and characters with it cannot use it. You can still load save games that reference it.",
+    "zhCN": "需要重启\n\n关闭这个选项也阻止改特性工作：角色无法选择这个特性，已有改特性的角色也无法使用。你还是可以正常读取原先的存档。"
+  }
+
+]
