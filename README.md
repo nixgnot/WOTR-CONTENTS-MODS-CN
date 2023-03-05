@@ -2878,13 +2878,14 @@ C:\Users\你的用户名\AppData\LocalLow\Owlcat Games\Pathfinder Wrath Of The R
   -------------------------------------------   
 ### [Way-of-the-shield](https://github.com/ScaredKurufinve/Way-of-the-shield)
 > *前置：* ModMenu<br>
-> *中文：* **已汉化**<br>
+> *中文：* **自带中文**<br>
 > *安装方式：* **UMM**<br>
 > *修改内容：* 夹击规则<br>
 > *新增内容：* 变体、专长<br>
 + 提供了还原桌面规则的夹击功能
 + 提供了盾牌的原创规则
 + 提供了新变体和专长
++ 笔者提供汉化，现已提交到原作者处合并
 <table>
  <tr><th colspan="4">新增内容列表<br></th></tr> 
   <tr><td rowspan="2">变体</i></td>
