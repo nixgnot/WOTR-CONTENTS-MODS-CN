@@ -2615,20 +2615,18 @@ C:\Users\你的用户名\AppData\LocalLow\Owlcat Games\Pathfinder Wrath Of The R
           <tr><td>Shield Slam</td><td>
              盾牌猛冲：（有修改）盾击时发动冲撞</td></tr>
           <tr><td>Vicious Stomp</td><td>
-             恶毒踩踏：队友倒地时借机攻击（不和恶毒践踏者叠加）</td></tr>
+             恶毒踩踏：对方倒地时借机攻击（不和恶毒践踏者叠加）</td></tr>
           <tr><td>Raging Brutality</td><td>
              狂暴猛击：（有修改）狂暴时将体质修正添加到伤害，无双手奖励，可重击</td></tr>
           <tr><td>Hands of Valor</td><td>
              勇猛之手：1天1次，使用圣疗时可以灌输友军，使其在攻击鉴定和对抗恐惧的豁免检定上获得等于你魅力修正的崇圣加值，持续1分钟</td></tr>
           <tr><td>Extra Feature</td><td>
              额外特性：兽态人使用自带改变形态时，可以选择额外一种获得的特性</td></tr>
-    <tr><td rowspan="3">狂暴之力</td>
+    <tr><td rowspan="2">狂暴之力</td>
          <td>Come and Get Me!</td><td>
              反击态势：直到野蛮人的下一回合之前，敌人对他的攻击检定和伤害检定+4，但是敌人对他的每次攻击之前都会引起野蛮人的借机攻击</td></tr>
          <tr><td>Unrestrained Rage</td><td>
              无尽狂怒：（有修改）狂暴时免疫麻痹</td></tr>
-	 <tr><td>Spirit Totem, Lesser</td><td>
-             低阶精魂图腾：野蛮人被不断侵扰敌人的精魂之力环绕。精魂每轮对一个邻接野蛮人的活物敌人挥击一次，攻击加值为野蛮人的最高BAB加上魅力修正。每次挥击造成1d4+野蛮人魅力修正点的负能量伤害</td></tr>
      <tr><td>背景</td>
          <td>Jungle Explorer</td><td>
              丛林探索者：（房规原创）+1强韧豁免，运动和灵巧成为本职技能，擅长反曲刀</td></tr>   
