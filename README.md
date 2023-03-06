@@ -960,7 +960,7 @@
       <tr><td>SpellSpecialization
         </td><td>:heavy_check_mark:
         </td><td>:x:
-        </td><td>法术专精：任意职业可选</td></tr>
+        </td><td>法术专精：任意职业可选<br><b>注：据说会造成无法更换专精的BUG</b></td></tr>
       <tr><td>SpiritedCharge
         </td><td>:heavy_check_mark:
         </td><td>:x:
