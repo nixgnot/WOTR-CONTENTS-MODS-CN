@@ -2752,11 +2752,11 @@ C:\Users\你的用户名\AppData\LocalLow\Owlcat Games\Pathfinder Wrath Of The R
         <td><b>第三方</b><br>高级版护盾术，视为塔盾并持续更久</td></tr>
 <tr><td rowspan="3">神话能力</td>    
    <td>充裕备法<br>Abundant Preparation</td>
-        <td><b>房规原创</b><br>类似充裕施法，为奥能师提供额外1到3级法术位</td></tr>
+        <td><b>房规原创</b><br>类似充裕施法，为奥能师提供额外1到3级法术准备位</td></tr>
    <tr><td>高等充裕备法<br>Improved Abundant Preparation</td>
-        <td><b>房规原创</b><br>为奥能师提供额外4到6级法术位</td></tr>
+        <td><b>房规原创</b><br>为奥能师提供额外4到6级法术准备位</td></tr>
    <tr><td>精通充裕备法<br>Greater Abundant Preparation (Homebrew)</td>
-        <td><b>房规原创</b><br>为奥能师提供额外7到9级法术位</td></tr>
+        <td><b>房规原创</b><br>为奥能师提供额外7到9级法术准备位</td></tr>
 </table>
   
 ------------------------------------------- 
