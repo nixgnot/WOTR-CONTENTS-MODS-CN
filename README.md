@@ -1302,7 +1302,7 @@
       <td>ElementalBarrage
         </td><td>:heavy_check_mark:
         </td><td>:heavy_check_mark:
-        </td><td>元素狂潮：重做元素狂潮改为施法者能力<br><b>原作已修改，可选用</b></td></tr>  
+        </td><td>元素狂潮：重做元素狂潮，改为施法者能力（原作也已修改），且队友可以触发</td></tr>  
       <td>GreaterEnduringSpells
         </td><td>:heavy_check_mark:
         </td><td>:heavy_check_mark:
