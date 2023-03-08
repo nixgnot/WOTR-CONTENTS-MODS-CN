@@ -1804,8 +1804,9 @@
  
 -------------------------------------------  
 ### [PhoenixsCantrips](https://github.com/pheonix99/PhoenixsCantrips)
+ + [贴吧汉化帖](https://tieba.baidu.com/p/8298217679)
 > *前置：* 无<br>
-> *中文：* **无**<br>
+> *中文：* **有汉化**<br>
 > *安装方式：* **UMM**<br>
 > *修改内容：* 戏法强化<br>
 + 小型MOD，强化戏法，使其拥有更高成长性
@@ -1813,7 +1814,7 @@
 ------------------------------------------- 
 ### [MoreCantrips](https://github.com/pheonix99/MoreCantrips)
 > *前置：* 无<br>
-> *中文：* **无**<br>
+> *中文：* **有汉化**<br>
 > *安装方式：* **UMM**<br>
 > *新增内容：* 更多戏法<br>
 + PhoenixsCantrips 戏法强化的扩展，增加了其他属性的接触戏法
