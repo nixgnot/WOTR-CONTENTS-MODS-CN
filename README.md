@@ -2597,7 +2597,7 @@ C:\Users\你的用户名\AppData\LocalLow\Owlcat Games\Pathfinder Wrath Of The R
 ------------------------------------------- 
 ### [MartialExcellence](https://github.com/Envibel/MartialExcellence)
 > *前置：* 无<br>
-> *中文：* **本处提供汉化**<br>
+> *中文：* **已自带中文（本人提交）**<br>
 > *安装方式：* **非UMM**<br>
 > *修改内容：* <br>
 > *新增内容：* 种族，专长等<br>
