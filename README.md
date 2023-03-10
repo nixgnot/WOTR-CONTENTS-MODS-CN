@@ -2646,7 +2646,7 @@ C:\Users\你的用户名\AppData\LocalLow\Owlcat Games\Pathfinder Wrath Of The R
 ### [MysticalMayhem](https://github.com/kreaddy/MysticalMayhem)
 > *前置：* 无<br>
 > *中文：* **自带**<br>
-> *安装方式：* **非UMM**<br>
+> *安装方式：* **UMM**<br>
 > *修改内容：* <br>
 > *新增内容：* 变体，专长，神话能力，法术等<br>
 + 增加了新内容， **自带中文！** 推荐
@@ -2724,7 +2724,7 @@ C:\Users\你的用户名\AppData\LocalLow\Owlcat Games\Pathfinder Wrath Of The R
 ### [MythicArcanist](https://github.com/Llisandur/MythicArcanist)
 > *前置：* 无<br>
 > *中文：* **自带**<br>
-> *安装方式：* **非UMM**<br>
+> *安装方式：* **UMM**<br>
 > *修改内容：* <br>
 > *新增内容：* 变体，专长，神话能力，法术等<br>
 + 增加了新内容， **自带中文！** 推荐
@@ -2764,7 +2764,7 @@ C:\Users\你的用户名\AppData\LocalLow\Owlcat Games\Pathfinder Wrath Of The R
 ### [ChampionFeatsAnew](https://www.nexusmods.com/pathfinderwrathoftherighteous/mods/384)
 > *前置：* 无<br>
 > *中文：* **自带**<br>
-> *安装方式：* **非UMM**<br>
+> *安装方式：* **UMM**<br>
 > *修改内容：* <br>
 > *新增内容：* "冠军"专长<br>
 + 增加一系列原创"冠军"专长，挺强的  
@@ -2774,7 +2774,7 @@ C:\Users\你的用户名\AppData\LocalLow\Owlcat Games\Pathfinder Wrath Of The R
 + [贴吧汉化帖](https://tieba.baidu.com/p/8112471310)
 > *前置：* 无<br>
 > *中文：* **汉化发布**<br>
-> *安装方式：* **非UMM**<br>
+> *安装方式：* **UMM**<br>
 > *修改内容：* <br>
 > *新增内容：* 操念使元素<br>
 + 为操念使加入Aether 以太、Void 虚空、Wood 木三种元素
@@ -2783,7 +2783,7 @@ C:\Users\你的用户名\AppData\LocalLow\Owlcat Games\Pathfinder Wrath Of The R
 ### [Madison'sMetagaming](https://github.com/madisoncfallin/MadisonsMetagaming)
 > *前置：* 无<br>
 > *中文：* **无**<br>
-> *安装方式：* **非UMM**<br>
+> *安装方式：* **UMM**<br>
 > *修改内容：* <br>
 > *新增内容：* 专长<br>
 + 目前只加入了一个专长Fey Foundling
