@@ -2598,7 +2598,7 @@ C:\Users\你的用户名\AppData\LocalLow\Owlcat Games\Pathfinder Wrath Of The R
 ### [MartialExcellence](https://github.com/Envibel/MartialExcellence)
 > *前置：* 无<br>
 > *中文：* **已自带中文（本人提交）**<br>
-> *安装方式：* **非UMM**<br>
+> *安装方式：* **UMM**<br>
 > *修改内容：* <br>
 > *新增内容：* 种族，专长等<br>
 + 小型内容Mod，持续开发中
@@ -2637,7 +2637,7 @@ C:\Users\你的用户名\AppData\LocalLow\Owlcat Games\Pathfinder Wrath Of The R
 ### [MediumClass](https://github.com/Telyl/MediumClass)
 > *前置：* 无<br>
 > *中文：* **无**<br>
-> *安装方式：* **非UMM**<br>
+> *安装方式：* **UMM**<br>
 > *修改内容：* <br>
 > *新增内容：* 通灵者职业，少量专长<br>
 + 早期版本，主要添加通灵者（Medium）职业，还做了一些制作中的专长，不保证有效，建议等待完善
