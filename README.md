@@ -20,6 +20,7 @@
 - [MOD列表](#MOD列表)
   - [TabletopTweaks-Base](#TabletopTweaks-Base) TTT :star::star::star: :exclamation:
     - [TabletopTweaks-Reworks](#TabletopTweaks-Reworks) TTT神话扩展 :star::star: :exclamation:
+    - [TabletopTweaks-Flanking](#TabletopTweaks-Flanking) TTT夹击扩展 :star::star: :exclamation:
   - [MicroscopicContentExpansion](#MicroscopicContentExpansion) Microscopic内容扩展 :star::star::star:
   - [SparsSorcerousSundries](#SparsSorcerousSundries) SSS扩展 :star::star:
   - [TomeOfTheFirebird](#TomeOfTheFirebird) TOTF扩展 :star::star::star:
@@ -105,7 +106,7 @@
 -------------------------------------------
 ### [TabletopTweaks-Base](https://github.com/Vek17/TabletopTweaks-Base)
 > *前置：* TabletopTweaks-Core<br>
-> *中文：* **自带中文（部分内容没更新，本处提供修复）**<br>
+> *中文：* **自带中文（部分内容没更新）**<br>
 > *安装方式：* UMM<br>
 > *修改内容：* UI、核心规则、法术、专长、职业特性、神话能力、神话专长，等<br>
 > *新增内容：* 变体、巅峰、法术、专长、种族、背景，等<br>
@@ -1275,7 +1276,7 @@
 -------------------------------------------
 ### [TabletopTweaks-Reworks](https://github.com/Vek17/TabletopTweaks-Reworks)
 > *前置：* TabletopTweaks-Core<br>
-> *中文：* **自带中文（本处提供修复，但是依然存在小问题）**<br>
+> *中文：* **自带中文（部分内容需要更新）**<br>
 > *安装方式：* UMM<br>
 > *修改内容：* 神话能力、神话专长，道途等<br>
 > *新增内容：* 神话道途能力<br>
@@ -1491,6 +1492,27 @@
 </table>
 
 
+-------------------------------------------
+### [TabletopTweaks-Flanking](https://github.com/Vek17/TabletopTweaks-Flanking/releases/tag/v0.1.0)
+> *前置：* TabletopTweaks-Core<br>
+> *中文：* **暂无中文**<br>
+> *安装方式：* UMM<br>
+> *修改内容：* 夹击规则<br>
+> *新增内容：* 相关专长<br>
++ **TTT**的新扩展附件，主要集中在**夹击规则**的修改
++ 恢复了桌面规则对夹击角度的要求，同时增加了相关专长
+<table>
+<tr><th colspan="3">修改列表</th></tr> 
+<tr><td>分类</td><td>名称</td>效果</td></tr>  
+    <tr><td rowspan="3">专长<br>Feats</td>
+      <td>Improved Outflank
+        </td><td>精通包抄：降低夹击所需角度</td></tr>  
+      <tr><td>Gang Up
+        </td><td>一拥而上：至少两个盟友与敌人邻接时视同形成夹击</td></tr>  
+      <tr><td>Pack Flanking
+        </td><td>兽群围猎 ：与动物伙伴威胁同一个对手视同形成夹击</td></tr>  
+
+</table>
 -------------------------------------------
 ### [MicroscopicContentExpansion](https://github.com/alterasc/MicroscopicContentExpansion)
 > *前置：* TabletopTweaks-Core<br>
