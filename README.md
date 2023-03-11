@@ -2844,21 +2844,22 @@ C:\Users\你的用户名\AppData\LocalLow\Owlcat Games\Pathfinder Wrath Of The R
         
 ------------------------------------------- 
 ### [NinjaClass](https://www.nexusmods.com/pathfinderwrathoftherighteous/mods/233)
+[2.10汉化发布贴](https://tieba.baidu.com/p/8303652146?qq-pf-to=pcqq.c2c)
 > *前置：* 无<br>
 > *中文：* **无**<br>
 > *安装方式：* **非UMM**<br>
 > *修改内容：* <br>
 > *新增内容：* 忍者职业<br>
-+ 加入了Ninja 忍者职业，较久没有更新，不确认是否正常，留在此处作为留档
++ 加入了Ninja 忍者职业，较久没有更新
           
 ------------------------------------------- 
 ### [BrawlerClass](https://www.nexusmods.com/pathfinderwrathoftherighteous/mods/207)
 > *前置：* 无<br>
 > *中文：* **无**<br>
-> *安装方式：* **非UMM**<br>
+> *安装方式：* **UMM**<br>
 > *修改内容：* <br>
 > *新增内容：* 拳师职业<br>
-+ 加入了Brawler 拳师职业，较久没有更新，不确认是否正常，留在此处作为留档
++ 加入了Brawler 拳师职业
 + **已有2.10临时版本和汉化，请在release下载MOD，在上方下载汉化**
         
 -------------------------------------------   
