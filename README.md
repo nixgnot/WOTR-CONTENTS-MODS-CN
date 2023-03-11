@@ -95,6 +95,10 @@
 > 汉化文件的使用请参考下方
 **辅助工具下载**
 > 在右侧的Release中，可以下载**MOD外挂汉化工具QuickLocalization**、**Pathfinder中文文档**
+> 注意不要下载Source code，为空文件
+**临时MOD下载**
+> 在右侧的Release中，可以临时下载**一部分没有主页发布的2.10MOD**
+> 注意不要下载Source code，为空文件
 
 ### 前置MOD
 目前正义之怒所需主要前置MOD有两个：
