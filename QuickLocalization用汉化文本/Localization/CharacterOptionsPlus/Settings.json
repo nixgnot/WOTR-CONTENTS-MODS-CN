@@ -1,0 +1,80 @@
+[
+  {
+    "Key": "COP.Settings.Title",
+    "ProcessTemplates": false,
+    "enGB": "Character Options+",
+    "zhCN": "Character Options+",
+    "ruRU": "Расширенные опции персонажа"
+  },
+
+  {
+    "Key": "COP.Settings.VerboseLogging",
+    "ProcessTemplates": false,
+    "enGB": "Enable Detailed Logs",
+    "zhCN": "允许详细日志",
+    "ruRU": "Включить подробный лог игры"
+  },
+  {
+    "Key": "COP.Settings.VerboseLogging.Description",
+    "ProcessTemplates": false,
+    "enGB": "REQUIRES RESTART\nTurn this on and restart your game to get detailed logs for capturing bug reports.\nThis will probably cause lag as the logging is extremely detailed, but this makes it a lot easier to identify and fix bugs quickly.",
+    "zhCN": "需要重启\n开启该选项并重启游戏，获得用于报告BUG的详细日志。\n可能造成卡顿，但是有助于快速找到并修复BUG。",
+    "ruRU": "ТРЕБУЕТ РЕСТАРТА\n\nВключите эту опцию и перезапустите игру, чтобы получить подробный лог, если хотите послать баг-репорт.\nДанная настройка может вызвать заметное снижение производительности, но позволит проще выявить и устранить ошибки."
+  },
+
+  {
+    "Key": "COP.Settings.Homebrew.Title",
+    "ProcessTemplates": false,
+    "enGB": "Optional Rules",
+    "zhCN": "可选规则",
+    "ruRU": "Опциональные правила"
+  },
+
+  {
+    "Key": "COP.Settings.Archetypes.Title",
+    "ProcessTemplates": false,
+    "enGB": "Archetypes",
+    "zhCN": "变体",
+    "ruRU": "Архетипы"
+  },
+
+  {
+    "Key": "COP.Settings.ClassFeatures.Title",
+    "ProcessTemplates": false,
+    "enGB": "Class Features",
+    "zhCN": "职业特性",
+    "ruRU": "Классовые черты"
+  },
+
+  {
+    "Key": "COP.Settings.Feats.Title",
+    "ProcessTemplates": false,
+    "enGB": "Feats",
+    "zhCN": "专长",
+    "ruRU": "Черты"
+  },
+
+  {
+    "Key": "COP.Settings.Fixes.Title",
+    "ProcessTemplates": false,
+    "enGB": "Bug Fixes",
+    "zhCN": "BUG修复",
+    "ruRU": "Исправления багов"
+  },
+
+  {
+    "Key": "COP.Settings.Spells.Title",
+    "ProcessTemplates": false,
+    "enGB": "Spells",
+    "zhCN": "法术",
+    "ruRU": "Заклинания"
+  },
+
+  {
+    "Key": "COP.Settings.EnableFeature",
+    "ProcessTemplates": false,
+    "enGB": "REQUIRES RESTART\n\nTurning this off prevents the feature from working: characters cannot select this feature and characters with it cannot use it. You can still load save games that reference it.",
+    "zhCN": "需要重启\n\n关闭此选项防止对应特性工作：角色不能选择此特性，已有此特性的角色也不能使用。你依然可以正常加载拥有此特性的存档。",
+    "ruRU": "ТРЕБУЕТ РЕСТАРТА\n\nЕсли вы отключите эту настройку, черта перестанет работать: персонажи, у которых она уже есть, не смогут ею пользоваться. Но это не помешает загружать сохранения, в которых присутствует эта черта."
+  }
+]

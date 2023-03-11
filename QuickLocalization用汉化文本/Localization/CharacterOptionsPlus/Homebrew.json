@@ -1,0 +1,101 @@
+[
+  {
+    "Key": "CompanionShareSpells.Name",
+    "ProcessTemplates": false,
+    "enGB": "Share Spells (Animal Companion)",
+    "zhCN": "共享法术（动物同伴）",
+    "ruRu": "Поделиться магией (с верным зверем)"
+  },
+  {
+    "Key": "CompanionShareSpells.Description",
+    "enGB": "Spells with a range of personal can target animal companions.\nWhen this is enabled you will have to select a target when casting personal spells.",
+    "zhCN": "目标为自身的法术可以分享给动物同伴。\n激活后释放这些法术时需要选择目标。",
+    "ruRu": "Вы можете накладывать на своего верного зверя заклинания, которые обычно можно накладывать только на себя. \nКогда эта способность активна, вам необходимо выбирать цель для заклинаний с дальностью 'на себя'"
+  },
+
+  {
+    "Key": "ConeOfCold.WinterPatron.Name",
+    "ProcessTemplates": false,
+    "enGB": "Cone of Cold - Winter Patron",
+    "zhCN": "寒冰锥- 寒冬庇护主",
+    "ruRu": "Конус холода - Покровитель зимы"
+  },
+  {
+    "Key": "ConeOfCold.WinterPatron.Description",
+    "enGB": "REQUIRES RESTART\n\nCone of Cold replaces Cold Ice Strike for the bonus spells granted by the Winter Patron.",
+    "zhCN": "需要重启\n\n寒冰锥替代了寒冬庇护主法术表中的碎冰击。",
+    "ruRu": "ТРЕБУЕТ РЕСТАРТ\n\n Конус холода заменяет Удар холодного льда в списке заклинаний, дарованных Ведьме зимы её покровителем"
+  },
+
+  {
+    "Key": "Homebrew.FreezingSphere.Name",
+    "ProcessTemplates": false,
+    "enGB": "Freezing Sphere - Selective",
+    "zhCN": "冰封法球 - 甄选",
+    "ruRu": "Сфера заморозки - Избирательное"
+  },
+  {
+    "Key": "Homebrew.FreezingSphere.Description",
+    "enGB": "REQUIRES RESTART\n\nFreezing Sphere only hits enemies.",
+    "zhCN": "需要重启\n\n冰封法球只会击中敌人。",
+    "ruRu": "ТРЕБУЕТ РЕСТАРТА\n\nСфера заморозки воздействует только на врагов"
+  },
+
+  {
+    "Key": "Homebrew.GloriousHeat.Name",
+    "ProcessTemplates": false,
+    "enGB": "Use original Glorious Heat",
+    "zhCN": "使用原版火热荣耀",
+    "ruRU": "Не использовать исправленную версию Благостного Жара."
+  },
+
+  {
+    "Key": "Homebrew.GloriousHeat.Description",
+    "ProcessTemplates": false,
+    "enGB": "REQUIRES RESTART\n\nThe default implementation of Glorious Heat applies the errata, reducing the healing from 1/2 Character Level to Spell Level. If this is turned on the original implementation is restored although healing from cantrips is disabled explicitly to prevent unlimited healing.",
+    "zhCN": "需要重启\n\n默认情况下的火热荣耀会应用勘误，将治疗量从等于1/2角色等级降低到等于法术等级。如果开启此选项，会恢复原本的描述，然而戏法触发治疗依然会为了防止无限治疗被禁用。",
+    "ruRU": "ТРЕБУЕТ РЕСТАРТА\n\nПо умолчанию Благостному Жару учитывает официальную эррату, согласно которой эффект лечения с 1/2 Уровня Персонажа до Круга Заклинания. Если эта настройка включена, то будет использоваться старая врсия правил, хотя лечение с Фокусов всё равно намеренно запрещено, чтобы не допустить возможности бесконечного лечения."
+  },
+
+  {
+    "Key": "Implosion.DestructionDomain.Name",
+    "ProcessTemplates": false,
+    "enGB": "Implosion - Destruction Domain",
+    "zhCN": "内爆术 - 毁灭领域",
+    "ruRu": "Схлопывание - домейн Разрушения"
+  },
+  {
+    "Key": "Implosion.DestructionDomain.Description",
+    "enGB": "REQUIRES RESTART\n\nImplosion replaces Tsunami in for the bonus spells granted by the Destruction Domain.",
+    "zhCN": "需要重启\n\n内爆术替代毁灭领域的奖励法术津波。",
+    "ruRu": "ТРЕБУЕТ РЕСТАРТА\n\nЗаклинание Схлопывание заменяет Цунами в списке дополнитульных заклинаний, даруемых домейном Разрушения"
+  },
+
+  {
+    "Key": "SingleDraconicBloodline.Name",
+    "ProcessTemplates": false,
+    "enGB": "Single Draconic Bloodline",
+    "zhCN": "单龙裔血承",
+    "ruRU": "Одиночное Драконье Наследие"
+  },
+  {
+    "Key": "SingleDraconicBloodline.Description",
+    "enGB": "REQUIRES RESTART\n\nPrevents picking multiple versions of the draconic bloodline.",
+    "zhCN": "需要重启\n\n阻止选择多个不同的龙裔血承。",
+    "ruRU": "ТРЕБУЕТ РЕСТАРТА\n\nЗапрещает выбор нескольких Драконьих Наследий одним персонажем."
+  },
+
+  {
+    "Key": "SingleElementalBloodline.Name",
+    "ProcessTemplates": false,
+    "enGB": "Single Elemental Bloodline",
+    "zhCN": "单元素血承",
+    "ruRU": "Одиночное Стихийное Наследие"
+  },
+  {
+    "Key": "SingleElementalBloodline.Description",
+    "enGB": "REQUIRES RESTART\n\nPrevents picking multiple versions of the elemental bloodline.",
+    "zhCN": "需要重启\n\n阻止选择多个不同的元素血承。",
+    "ruRU": "ТРЕБУЕТ РЕСТАРТА\n\nЗапрещает выбор нескольких Стихийных Наследий одним персонажем."
+  }
+]

@@ -1,0 +1,83 @@
+[
+  {
+    "Key": "HeavenlyFireResourceAmount.Name",
+    "ProcessTemplates": false,
+    "enGB": "Heavenly Fire Resource Amount",
+    "zhCN": "神炎射线可用数量",
+    "ruRU": "Запас ресурса для Небесного Огня."
+  },
+  {
+    "Key": "HeavenlyFireResourceAmount.Description",
+    "enGB": "REQUIRES RESTART\n\nCorrectly sets the max uses per day to 3 + Charisma modifier.",
+    "zhCN": "需要重启\n\n修正神炎射线的最大每日次数为3 + 魅力调整值。",
+    "ruRU": "ТРЕБУЕТ РЕСТАРТА\n\nКорректно устанавливает максимальнее количество использований Небесного Огня за день на 3 + Модификатор Харизмы."
+  },
+
+  {
+    "Key": "LordBeyondTheGraveLag.Name",
+    "ProcessTemplates": false,
+    "enGB": "Lord Beyond The Grave Lag",
+    "zhCN": "墓穴之主卡顿"
+  },
+  {
+    "Key": "LordBeyondTheGraveLag.Description",
+    "enGB": "REQUIRES RESTART\n\nMakes Lord Beyond the Grave a permanent buff to your allies, once applied. This prevents their stats from changing constantly leading to lag when you walk around.",
+    "zhCN": "需要重启\n\n将墓穴领主的效果应用给盟友后变为被动BUFF，防止在你移动时，他们的状态持续不断变化引发的卡顿。"
+  },
+
+  {
+    "Key": "PackRagerTeamworkSelection.Name",
+    "ProcessTemplates": false,
+    "enGB": "Pack Rager Teamwork Selection",
+    "zhCN": "共斗蛮人团队专长选择",
+    "ruRU": "Выбор Командных Черт Стайного Дикаря"
+  },
+  {
+    "Key": "PackRagerTeamworkSelection.Description",
+    "enGB": "REQUIRES RESTART\n\nFlags the Pack Rager's Teamwork Selection so Teamwork Feats added using BlueprintCore or TTT-Core are included.",
+    "zhCN": "需要重启\n\n修正共斗蛮人的团队专长选择，使之可以选择通过MOD（BlueprintCore或TTT-Core）加入的团队专长。",
+    "ruRU": "ТРЕБУЕТ РЕСТАРТА\n\nПомечает Выбор Командных черт Стайного Дикаря, чтобы они работали с чертами, добавленными через моды на базе TTT или BPCore."
+  },
+
+  {
+    "Key": "SerpentineFriendBonus.Name",
+    "ProcessTemplates": false,
+    "enGB": "Serpentine Friend Bonus",
+    "zhCN": "蛇之友奖励",
+    "ruRU": "Бонус от способности Друг Змей"
+  },
+  {
+    "Key": "SerpentineFriendBonus.Description",
+    "enGB": "REQUIRES RESTART\n\nApplies +3 to Perception and Persuasion as stated, instead of +2 to Perception and +3 to Persuasion.",
+    "zhCN": "需要重启\n\n将蛇之友的奖励改为和描述匹配的+3察觉+3沟通，而不是错误的+2察觉+3沟通。",
+    "ruRU": "ТРЕБУЕТ РЕСТАРТА\n\nДруг Змей теперь даёт +3 к Восприятию и Убеждению в соответствии с описанием (вместо +2 к Восприятию и +2 к Убеждению)."
+  },
+
+  {
+    "Key": "SerpentineBiteDC.Name",
+    "ProcessTemplates": false,
+    "enGB": "Serpentine Bite DC",
+    "zhCN": "蛇牙DC",
+    "ruRU": "Сложость спасброска Змеиного Клыка"
+  },
+  {
+    "Key": "SerpentineBiteDC.Description",
+    "enGB": "REQUIRES RESTART\n\nCorrectly sets the DC of the Serpentine Bloodline Bite poison for Socererors and Magi.",
+    "zhCN": "需要重启\n\n修正蛇族血承蛇牙的DC.",
+    "ruRU": "ТРЕБУЕТ РЕСТАРТА\n\nКорректно устанавливает значение сложности способности Змеиный Клык от Змеиного Наследия для Колдунов и Магусов."
+  },
+
+  {
+    "Key": "SlayerEvasionTalent.Name",
+    "ProcessTemplates": false,
+    "enGB": "Slayer Evasion Talent",
+    "zhCN": "杀手绝技闪避",
+    "ruRU": "Талант Палача - Уклонение"
+  },
+  {
+    "Key": "SlayerEvasionTalent.Description",
+    "enGB": "REQUIRES RESTART\n\nAdds Evasion to the Slayer's Advanced Talent selection",
+    "zhCN": "需要重启\n\n将反射闪避加入高级杀手绝技选项中。",
+    "ruRU": "ТРЕБУЕТ РЕСТАРТА\n\nДобавляет Уклонение к списку доступных для выбора Продвинутых Приёмов Палача."
+  }
+]
