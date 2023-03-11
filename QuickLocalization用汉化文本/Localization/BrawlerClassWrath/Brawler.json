@@ -990,6 +990,11 @@
     "zhCN": "13级起，变异狂徒会在使用突变药剂时获得盲视。",
   },
   {
+    "Key": "MutagenicMaulerGreaterMutagen.Description",
+    "ProcessTemplates": false,
+    "zhCN": "12级起，变异狂徒可以学习高等炼金发现。",
+  },
+  {
     "Key": "ExemplarInspireCourageToggleAbility.Description",
     "ProcessTemplates": false,
     "zhCN": "3级起，教头可以用表演激励盟友（包括自己），帮助他们直面恐惧，增强战斗能力。只要盟友能够感知到教头的表演，即可获得其效果。受到激励的盟友在对抗魅惑和恐惧效应的{g|Encyclopedia:Saving_Throw}豁免检定{/g}上获得+1士气{g|Encyclopedia:Bonus}加值{/g}，在{g|Encyclopedia:Attack}攻击检定{/g}和武器{g|Encyclopedia:Damage}伤害检定{/g}上获得+1表现加值。教头达到7级后，以及之后每提高6级，该加值都会提高1点，在19级时达到最高值+4。勇气颂歌属于影响心智的能力。",
