@@ -2859,6 +2859,7 @@ C:\Users\你的用户名\AppData\LocalLow\Owlcat Games\Pathfinder Wrath Of The R
 > *修改内容：* <br>
 > *新增内容：* 拳师职业<br>
 + 加入了Brawler 拳师职业，较久没有更新，不确认是否正常，留在此处作为留档
++ **已有2.10临时版本和汉化，请在release下载MOD，在上方下载汉化**
         
 -------------------------------------------   
 ### [WOTR_PATH_OF_BLING](https://github.com/Balkoth-dev/WOTR_PATH_OF_BLING)
