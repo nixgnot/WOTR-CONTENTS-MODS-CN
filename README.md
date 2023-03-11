@@ -1503,7 +1503,7 @@
 + 恢复了桌面规则对夹击角度的要求，同时增加了相关专长
 <table>
 <tr><th colspan="3">修改列表</th></tr> 
-<tr><td>分类</td><td>名称</td>效果</td></tr>  
+<tr><td>分类</td><td>名称</td><td>效果</td></tr>  
     <tr><td rowspan="3">专长<br>Feats</td>
       <td>Improved Outflank
         </td><td>精通包抄：降低夹击所需角度</td></tr>  
@@ -1513,6 +1513,7 @@
         </td><td>兽群围猎 ：与动物伙伴威胁同一个对手视同形成夹击</td></tr>  
 
 </table>
+
 -------------------------------------------
 ### [MicroscopicContentExpansion](https://github.com/alterasc/MicroscopicContentExpansion)
 > *前置：* TabletopTweaks-Core<br>
