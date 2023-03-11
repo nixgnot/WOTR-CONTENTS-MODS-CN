@@ -1,0 +1,22 @@
+[
+  {
+    "Key": "ThrowWeaponsBuff.Name",
+    "ProcessTemplates": false,
+    "zhCN": "投掷武器"
+  },
+  {
+    "Key": "ThrowWeaponsBuff.Desc",
+    "ProcessTemplates": false,
+    "zhCN": "将匕首和星刃作为远程武器使用"
+  },
+ {
+    "Key": "ThrowWeaponsToggle.Name",
+    "ProcessTemplates": false,
+    "zhCN": "投掷武器"
+  },
+  {
+    "Key": "ThrowWeaponsToggle.Desc",
+    "ProcessTemplates": false,
+    "zhCN": "将匕首和星刃作为远程武器使用"
+  }
+]
