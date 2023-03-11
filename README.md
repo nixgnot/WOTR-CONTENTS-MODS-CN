@@ -15,8 +15,9 @@
   - [ModFinder工具](#ModFinder工具)
   - [GITHUB访问和MOD下载](#GITHUB访问和MOD下载)
   - [Nexus访问和MOD下载](#Nexus访问和MOD下载)
+  - [本文档使用说明](#本文档使用说明)
   - [前置MOD](#前置MOD)
-  - [汉化修正文件及其他说明](#汉化修正文件及其他说明)
+  - [汉化文件及其他说明](#汉化文件及其他说明)
 - [MOD列表](#MOD列表)
   - [TabletopTweaks-Base](#TabletopTweaks-Base) TTT :star::star::star: :exclamation:
     - [TabletopTweaks-Reworks](#TabletopTweaks-Reworks) TTT神话扩展 :star::star: :exclamation:
@@ -86,21 +87,46 @@
 + Nexus的MOD在标题右方的Manual按钮即可直接下载。如果有额外文件会在FILES标签中。
 + Nexus目前需要注册用户才能下载。
 
+### 本文档使用说明
+**汉化文件下载**
+> 直接点击上方Code按钮，然后选择Download Zip即可打包下载全部汉化文件
+> 如果需要单独汉化文件，可以自行新建文本文档并复制放入文件内容，注意保存格式为**UTF-8**
+> 汉化文件的使用请参考下方
+**辅助工具下载**
+> 在右侧的Release中，可以下载**MOD外挂汉化工具QuickLocalization**、**Pathfinder中文文档**
+
 ### 前置MOD
 目前正义之怒所需主要前置MOD有两个：
 1. [TabletopTweaks-Core](https://github.com/Vek17/TabletopTweaks-Core)（**核心必备**，绝大部分MOD的基础框架，本身不会进行任何改动。）
 2. [ModMenu](https://github.com/WittleWolfie/ModMenu)（**非必备**，一部分MOD使用的基础框架。会在游戏中选项里添加一个新的页面来进行MOD功能调整。）
 
-### 汉化修正文件及其他说明
+### 汉化文件及其他说明
 + 本文档上方会收集一些个人提供的**MOD汉化或汉化修正文件**，不定时更新。
 + 可以点击上方**code**按钮中的**Download Zip**打包下载素有附件。
-+ 一般**UMM安装*的MOD，汉化文件的使用方法是直接替换游戏目录下\mods\对应mod名称\Localization\中同名文件即可。
-+ 对于**非UMM安装*的MOD，替换C:\Users\你的用户文件夹\AppData\LocalLow\Owlcat Games\Pathfinder Wrath Of The Righteous\Modifications\对应mod名称\Localization\中同名文件。
-+ 但是某些MOD没有语言文件，有些替换后无效，我就不知道咋办了。文档作者是代码盲，需要大佬协助233
-+ **变体、专长等可以尝试在“Pathfinder v2.02简体文档”（分卷压缩）中搜索译文，本文档尽量提供中英文对照。**
++ 一般**UMM安装**的MOD，汉化文件的使用方法是直接替换游戏目录下\mods\对应mod名称\Localization\中同名文件即可。
++ 对于**非UMM安装**的MOD，替换C:\Users\你的用户文件夹\AppData\LocalLow\Owlcat Games\Pathfinder Wrath Of The Righteous\Modifications\对应mod名称\Localization\中同名文件。
++ 对于**QuickLocalization用汉化**，请参考QuickLocalization说明
 + 大部分MOD是对原规则的还原，对于较为复杂的职业、专长详情会标明<i>参阅PF文档</i>，可在上述Pathfinder v2.02简体文档中查看，但实际MOD中并不一定完全效果相同。
--------------------------------------------
 
+-------------------------------------------
+### MOD外挂汉化工具QuickLocalization
+本工具是一个“外挂式”汉化工具，用于在其他MOD载入后，再外挂载入语言文件，实现不需要修改原MOD就能实现外挂汉化
+只要原MOD更新后没有修改语言文件，汉化也不会受到更新影响
+且本工具可以实现在游戏启动中动态重载文本，来帮助进行所见即所得的汉化或修改汉化文件错误
+
+> 本MOD由@magicskysword制作，适用版本为WOTR 2.1
+> 该版本为临时版本，不保证完善。但该MOD不涉及任何存档操作，不会对游戏本身造成任何影响。
+
+UMM安装后，找到游戏文件夹下\Mods\QuickLocalization
+新建一个Localization文件夹，然后将外挂汉化文件丢进去即可。
+外挂汉化文件需为JSON格式，文件名不限（建议建立子文件夹并妥善命名，方便管理）
+
+目前已经完成的汉化：
+**Brawler(拳师) MOD 2.10用版本**
+**CharacterOptionsPlus 2.10用版本**
+本文档会不定期更新补充一些汉化
+
+-------------------------------------------
 ## MOD列表
 **若无特别说明，则MOD在2.0.7版本测试通过**
 -------------------------------------------
