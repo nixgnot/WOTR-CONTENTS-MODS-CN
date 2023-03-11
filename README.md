@@ -18,6 +18,7 @@
   - [本文档使用说明](#本文档使用说明)
   - [前置MOD](#前置MOD)
   - [汉化文件及其他说明](#汉化文件及其他说明)
+  - [MOD外挂汉化工具QuickLocalization](#MOD外挂汉化工具QuickLocalization)
 - [MOD列表](#MOD列表)
   - [TabletopTweaks-Base](#TabletopTweaks-Base) TTT :star::star::star: :exclamation:
     - [TabletopTweaks-Reworks](#TabletopTweaks-Reworks) TTT神话扩展 :star::star: :exclamation:
@@ -89,7 +90,7 @@
 
 ### 本文档使用说明
 **汉化文件下载**
-> 直接点击上方Code按钮，然后选择Download Zip即可打包下载全部汉化文件
+> 直接点击上方**Code**按钮，然后选择**Download Zip**即可打包下载全部汉化文件
 > 如果需要单独汉化文件，可以自行新建文本文档并复制放入文件内容，注意保存格式为**UTF-8**
 > 汉化文件的使用请参考下方
 **辅助工具下载**
