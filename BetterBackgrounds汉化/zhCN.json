@@ -41,7 +41,7 @@
 	    {"Key": "HermitFeature_Description",
 	    "Value": "隐士将{g|Encyclopedia:Lore_Nature}学识（自然）{/g}加入本职{g|Encyclopedia:Skills}技能{/g}列表。她还会擅长木棒、巨木棒、木棍和飞镖。\n如果角色已在角色创建过程中，通过职业获取了上述本职技能，{g|Encyclopedia:Weapon_Proficiency}武器擅长{/g}或防具擅长，则背景提供的相应{g|Encyclopedia:Bonus}加值{/g}改为相关技能上的+1表现加值，相关武器上的+1特性加值，相关防具上的防具{g|Encyclopedia:Check}检定{/g}{g|Encyclopedia:Penalty}减值{/g}-1。"},
 	    {"Key": "HunterFeature_Description",
-	    "Value": "猎人将{g|Encyclopedia:Lore_Nature}学识（自然）{/g}和{g|Encyclopedia:Perception}察觉{/g}加入本职{g|Encyclopedia:Skills}技能{/g}列表。她还会擅长 shortbows和longbows.\n如果角色已在角色创建过程中，通过职业获取了上述本职技能，{g|Encyclopedia:Weapon_Proficiency}武器擅长{/g}或防具擅长，则背景提供的相应{g|Encyclopedia:Bonus}加值{/g}改为相关技能上的+1表现加值，相关武器上的+1特性加值，相关防具上的防具{g|Encyclopedia:Check}检定{/g}{g|Encyclopedia:Penalty}减值{/g}-1。"},
+	    "Value": "猎人将{g|Encyclopedia:Lore_Nature}学识（自然）{/g}和{g|Encyclopedia:Perception}察觉{/g}加入本职{g|Encyclopedia:Skills}技能{/g}列表。她还会擅长短弓和长弓。\n如果角色已在角色创建过程中，通过职业获取了上述本职技能，{g|Encyclopedia:Weapon_Proficiency}武器擅长{/g}或防具擅长，则背景提供的相应{g|Encyclopedia:Bonus}加值{/g}改为相关技能上的+1表现加值，相关武器上的+1特性加值，相关防具上的防具{g|Encyclopedia:Check}检定{/g}{g|Encyclopedia:Penalty}减值{/g}-1。"},
             {"Key": "KnightFeature_DisplayName",
             "Value": "骑士"},  
             {"Key": "KnightFeature_Description",
