@@ -1,0 +1,112 @@
+[
+  {
+    "Key": "VoidSchoolGreaterFeature.Name",
+    "ProcessTemplates": false,
+    "zhCN": "虚学派进阶特性"
+  },
+ {
+    "Key": "VoidSchoolGreaterFeature.Description",
+    "ProcessTemplates": false,
+    "zhCN": "此灵光内的盟友在所有的技能和属性检定、攻击和伤害投骰以及豁免投骰上获得+2洞察加值。"
+  },
+  {
+    "Key": "VoidAwarenessFeature.Name",
+    "ProcessTemplates": false,
+    "zhCN": "虚能感应"
+  },
+  {
+    "Key": "RevealWeaknessDebuff.Name",
+    "ProcessTemplates": false,
+    "zhCN": "揭示弱点"
+  },
+  {
+    "Key": "AuraOfPrescienceBuff.Name",
+    "ProcessTemplates": false,
+    "zhCN": "预见灵光"
+  },
+ {
+    "Key": "AuraOfPrescienceBuff.Description",
+    "ProcessTemplates": false,
+    "zhCN": "此灵光内的盟友在所有的技能和属性检定、攻击和伤害投骰以及豁免投骰上获得+2洞察加值。"
+  },
+  {
+    "Key": "AuraOfPrescienceEffectBuff.Name",
+    "ProcessTemplates": false,
+    "zhCN": "预见灵光"
+  },
+ {
+    "Key": "AuraOfPrescienceEffectBuff.Description",
+    "ProcessTemplates": false,
+    "zhCN": "此灵光内的盟友在所有的技能和属性检定、攻击和伤害投骰以及豁免投骰上获得+2洞察加值。"
+  },
+  {
+    "Key": "AuraOfPrescienceResource.Name",
+    "ProcessTemplates": false,
+    "zhCN": "预见灵光"
+  },
+ {
+    "Key": "AuraOfPrescienceResource.Description",
+    "ProcessTemplates": false,
+    "zhCN": "此灵光内的盟友在所有的技能和属性检定、攻击和伤害投骰以及豁免投骰上获得+2洞察加值。"
+  },
+  {
+    "Key": "AuraOfPrescienceActivatableAbility.Name",
+    "ProcessTemplates": false,
+    "zhCN": "预见灵光"
+  },
+ {
+    "Key": "AuraOfPrescienceActivatableAbility.Description",
+    "ProcessTemplates": false,
+    "zhCN": "此灵光内的盟友在所有的技能和属性检定、攻击和伤害投骰以及豁免投骰上获得+2洞察加值。"
+  },
+ {
+    "Key": "AuraOfPrescienceAOE.Description",
+    "ProcessTemplates": false,
+    "zhCN": "此灵光内的盟友在所有的技能和属性检定、攻击和伤害投骰以及豁免投骰上获得+2洞察加值。"
+  },
+  {
+    "Key": "AuraOfPrescienceAOE.Name",
+    "ProcessTemplates": false,
+    "zhCN": "预见灵光"
+  },
+  {
+    "Key": "AuraOfPrescienceFeature.Name",
+    "ProcessTemplates": false,
+    "zhCN": "预见灵光"
+  },
+ {
+    "Key": "AuraOfPrescienceFeature.Description",
+    "ProcessTemplates": false,
+    "zhCN": "此灵光内的盟友在所有的技能和属性检定、攻击和伤害投骰以及豁免投骰上获得+2洞察加值。"
+  },
+ {
+    "Key": "RevealWeaknessDebuff.Description",
+    "ProcessTemplates": false,
+    "zhCN": "每当你以一个标准动作发动此学派能力，你就可以选择距离你30尺内的一个敌人目标，此生物会在防御等级和所有的豁免投骰上受到等于你的施法者等级1/2的减值（最少为1），持续1轮。你每天可以使用此能力的次数等于3+你的智力调整值。"
+  },
+ {
+    "Key": "VoidAwarenessFeature.Description",
+    "ProcessTemplates": false,
+    "zhCN": "你对虚能量的认知使得你的身体在魔法能量接近时会下意识的做出反应。你在对抗法术和类法术能力的豁免上获得+2洞察加值，这个加值随着你每提升5个法师等级还会+1。20级时，你只要受到可以进行豁免检定的法术和类法术能力影响，你就可以在检定中投两次骰并选择较好的那个结果。"
+  },
+  {
+    "Key": "SpecialisationSchoolVoidProgression.Name",
+    "ProcessTemplates": false,
+    "zhCN": "特殊学派 （虚）"
+  },
+ {
+    "Key": "SpecialisationSchoolVoidProgression.Description",
+    "ProcessTemplates": false,
+    "zhCN": "“虚”是一个相对复杂的元素概念，一些理解“虚”的施法者将它界定为气、土、火、水以外的“第五元素”——一种综合了思想、空间、灵魂和心智力量的存在。精研这一力量的法师们擅于操纵连接天与地、位面于阵营、肉体与灵魂之间的强大能量。虚学派可以作为法师可选的新奥术学派。"
+  },
+ {
+    "Key": "VoidSchoolFeature.Name",
+    "ProcessTemplates": false,
+    "zhCN": "特殊学派 （虚）"
+  },
+ {
+    "Key": "VoidSchoolFeature.Description",
+    "ProcessTemplates": false,
+    "zhCN": "“虚”是一个相对复杂的元素概念，一些理解“虚”的施法者将它界定为气、土、火、水以外的“第五元素”——一种综合了思想、空间、灵魂和心智力量的存在。精研这一力量的法师们擅于操纵连接天与地、位面于阵营、肉体与灵魂之间的强大能量。虚学派可以作为法师可选的新奥术学派。"
+  }
+]
