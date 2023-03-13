@@ -1,0 +1,247 @@
+[
+ {
+    "Key": "AdoptiveParentageDescription",
+    "ProcessTemplates": false,
+    "zhCN": "选择一种不具备人类亚种的{g|Encyclopedia:Race}种族{/g}。你使用该种族的起始语言以及武器熟悉种族特性。如果该种族没有武器熟悉，你以奖励{g|Encyclopedia:Feat}专长{/g}的形式获得一种和该种族风格相符的“技能专攻”或者“武器专攻”。本特性替换人类的奖励专长"
+  },
+  {
+    "Key": "AdoptiveParentageSelectionDisplayName",
+    "ProcessTemplates": false,
+    "zhCN": "养子"
+  },
+  {
+    "Key": "AdoptiveParentageElf.Name",
+    "ProcessTemplates": false,
+    "zhCN": "养子 - 精灵"
+  },
+  {
+    "Key": "AdoptiveParentageOrc.Name",
+    "ProcessTemplates": false,
+    "zhCN": "养子 - 兽人"
+  },
+  {
+    "Key": "AdoptiveParentageDwarf.Name",
+    "ProcessTemplates": false,
+    "zhCN": "养子 - 矮人"
+  },
+  {
+    "Key": "AdoptiveParentageGnome.Name",
+    "ProcessTemplates": false,
+    "zhCN": "养子 - 侏儒"
+  },
+  {
+    "Key": "AdoptiveParentageHalfling.Name",
+    "ProcessTemplates": false,
+    "zhCN": "养子 - 半身人"
+  },
+  {
+    "Key": "AdoptiveParentageAasimar.Name",
+    "ProcessTemplates": false,
+    "zhCN": "养子 - 神裔"
+  },
+  {
+    "Key": "AdoptiveParentageTiefling.Name",
+    "ProcessTemplates": false,
+    "zhCN": "养子 - 魔裔"
+  },
+  {
+    "Key": "AdoptiveParentageOread.Name",
+    "ProcessTemplates": false,
+    "zhCN": "养子 - 土元素裔"
+  },
+  {
+    "Key": "AdoptiveParentageKitsune.Name",
+    "ProcessTemplates": false,
+    "zhCN": "养子 - 狐妖"
+  },
+  {
+    "Key": "AdoptiveParentageDhampir.Name",
+    "ProcessTemplates": false,
+    "zhCN": "养子 - 吸血裔"
+  },
+  {
+    "Key": "HalflingWeaponFamiliarityDisplayName",
+    "ProcessTemplates": false,
+    "zhCN": "半身人武器熟练"
+  },
+  {
+    "Key": "HalflingWeaponFamiliarityDescription",
+    "ProcessTemplates": false,
+    "zhCN": "半身人擅长使用投石杖，并将任何名字中带有“半身人”的武器视作{g|Encyclopedia:Weapon_Proficiency}军用武器{/g}。"
+  },
+  {
+    "Key": "GnomishWeaponFamiliarityDisplayName",
+    "ProcessTemplates": false,
+    "zhCN": "侏儒武器熟练"
+  },
+  {
+    "Key": "GnomishWeaponFamiliarityDescription",
+    "ProcessTemplates": false,
+    "zhCN": "侏儒将任何名字中带有“侏儒”的武器视作{g|Encyclopedia:Weapon_Proficiency}军用武器{/g}。"
+  },
+  {
+    "Key": "DualTalentDisplayName",
+    "ProcessTemplates": false,
+    "zhCN": "双重天赋"
+  },
+  {
+    "Key": "DualTalentDescription",
+    "ProcessTemplates": false,
+    "zhCN": "某些人类熟练于最大程度发挥自己的天赋，他们选择两项{g|Encyclopedia:Ability_Scores}属性{/g}获得+2种族{g|Encyclopedia:Bonus}加值{/g}。该特性会取代单项属性+2，奖励专长以及奖励技能。"
+  },
+  {
+    "Key": "DualTalentStrength.Name",
+    "ProcessTemplates": false,
+    "zhCN": "双重天赋力量"
+  },
+  {
+    "Key": "DualTalentDexterity.Name",
+    "ProcessTemplates": false,
+    "zhCN": "双重天赋敏捷"
+  },
+  {
+    "Key": "DualTalentConstitution.Name",
+    "ProcessTemplates": false,
+    "zhCN": "双重天赋体质"
+  },
+  {
+    "Key": "DualTalentIntelligence.Name",
+    "ProcessTemplates": false,
+    "zhCN": "双重天赋智力"
+  },
+  {
+    "Key": "DualTalentWisdom.Name",
+    "ProcessTemplates": false,
+    "zhCN": "双重天赋感知"
+  },
+  {
+    "Key": "DualTalentCharisma.Name",
+    "ProcessTemplates": false,
+    "zhCN": "双重天赋魅力"
+  },
+  {
+    "Key": "AwarenessDisplayName",
+    "ProcessTemplates": false,
+    "zhCN": "洞察"
+  },
+  {
+    "Key": "AwarenessDescription",
+    "ProcessTemplates": false,
+    "zhCN": "在所有的{g|Encyclopedia:Saving_Throw}豁免检定{/g}和{g|Encyclopedia:Concentration}专注检定{/g}上获得+1种族{g|Encyclopedia:Bonus}加值{/g}。本特性替换人类的奖励专长。"
+  },
+  {
+    "Key": "ComprehensiveEducationDisplayName",
+    "ProcessTemplates": false,
+    "zhCN": "素质教育"
+  },
+  {
+    "Key": "ComprehensiveEducationDescription",
+    "ProcessTemplates": false,
+    "zhCN": "在熟练教师的帮助下成长的人类，会充分利用数百年文明中获得的大量知识。将所有知识技能视为{g|Encyclopedia:Skills}本职技能{/g}，并在所有他们通过职业等级获得作为本职技能的知识技能{g|Encyclopedia:Check}检定{/g}上获得+1种族。本特性替换奖励技能。"
+  },
+  {
+    "Key": "FocusedStudyDisplayName",
+    "ProcessTemplates": false,
+    "zhCN": "精研"
+  },
+  {
+    "Key": "FocusedStudyDescription",
+    "ProcessTemplates": false,
+    "zhCN": "所有的人都多才多艺，但有些人不是通才，而是专精于某项{g|Encyclopedia:Skills}技能{/g}。在1级、8级以及16级时，选择一项技能，获得该技能的“技能专攻”专长。这个种族特性取代奖励专长。"
+  },
+  {
+    "Key": "GiantAncestryDisplayName",
+    "ProcessTemplates": false,
+    "zhCN": "巨人祖先"
+  },
+  {
+    "Key": "GiantAncestryDescription",
+    "ProcessTemplates": false,
+    "zhCN": "拥有食人魔或巨魔血统的人类最终拥有笨重的身材和不协调的特征。在{g|Encyclopedia:Combat_Maneuvers}战技检定{/g}和{g|Encyclopedia:CMD}CMD{/g}上获得+1{g|Encyclopedia:Bonus}加值{/g}，但在潜行检定上受到-2{g|Encyclopedia:Penalty}减值{/g}，这个种族特性取代奖励技能。"
+  },
+  {
+    "Key": "HumanBonusFeatDisplayName",
+    "ProcessTemplates": false,
+    "zhCN": "奖励专长"
+  },
+  {
+    "Key": "HumanBonusFeatDescription",
+    "ProcessTemplates": false,
+    "zhCN": "人类在1级时选择一个额外{g|Encyclopedia:Feat}专长{/g}。"
+  },
+  {
+    "Key": "HumanFeatureSelectionDisplayName",
+    "ProcessTemplates": false,
+    "zhCN": "种族替换特性"
+  },
+  {
+    "Key": "HumanFeatureSelectionDescription",
+    "ProcessTemplates": false,
+    "zhCN": "有以下种族特性可选"
+  },
+  {
+    "Key": "NoAdditionalTraitsDisplayName",
+    "ProcessTemplates": false,
+    "zhCN": "不替换种族特性"
+  },
+  {
+    "Key": "NoAdditionalTraitsDescription",
+    "ProcessTemplates": false,
+    "zhCN": "不替换种族特性"
+  },
+  {
+    "Key": "MilitaryTraditionDisplayName",
+    "ProcessTemplates": false,
+    "zhCN": "战斗民族"
+  },
+  {
+    "Key": "MilitaryTraditionDescription",
+    "ProcessTemplates": false,
+    "zhCN": "一些人类文化群体会培养所有儿童（或某一社会阶层的所有儿童）参军训练武力。根据他们的所属文化群体获得最多两件军用或异种武器的{g|Encyclopedia:.Weapon_Proficiency}擅长{/g}。本特性替换人类的奖励专长。"
+  },
+  {
+    "Key": "EarthBreakerProficiencyDisplayName",
+    "ProcessTemplates": false,
+    "zhCN": "武器擅长（裂地锤）"
+  },
+  {
+    "Key": "EarthBreakerProficiencyDescription",
+    "ProcessTemplates": false,
+    "zhCN": "你变得擅长使用裂地锤，可将它们作为武器使用。"
+  },
+  {
+    "Key": "BardicheProficiencyDisplayName",
+    "ProcessTemplates": false,
+    "zhCN": "武器擅长（新月战斧）"
+  },
+  {
+    "Key": "BardicheProficiencyDeescription",
+    "ProcessTemplates": false,
+    "zhCN": "你变得擅长使用新月战斧，可将它们作为武器使用。"
+  },
+  {
+    "Key": "PracticedHunterDisplayName",
+    "ProcessTemplates": false,
+    "zhCN": "老练猎手"
+  },
+  {
+    "Key": "PracticedHunterDescription",
+    "ProcessTemplates": false,
+    "zhCN": "在潜行和生存{g|Encyclopedia:Check}检定{/g}上获得+2种族{g|Encyclopedia:Bonus}加值{/g}，并且潜行和生存被他们视为本职技能。本特性替换奖励技能。"
+  },
+  {
+    "Key": "UnstoppableMagicDisplayName",
+    "ProcessTemplates": false,
+    "zhCN": "法力澎湃"
+  },
+  {
+    "Key": "UnstoppableMagicDescription",
+    "ProcessTemplates": false,
+    "zhCN": "来自建立在高级魔法基础上的文明的人类会受到各种方式的教育，以实现他们的魔法追求。在穿透法术抗力的{g|Encyclopedia:Caster_Level}施法者等级{/g}{g|Encyclopedia:Check}检定{/g}上获得+2种族{g|Encyclopedia:Bonus}加值{/g}。本特性替换人类的奖励专长。"
+  },
+  {
+    "Key": "HistoryOfTerrorsTrait.Description",
+    "ProcessTemplates": false,
+    "zhCN": "具有此{g|Encyclopedia:Feat}专长{/g}的人类在对抗心智效应的{g|Encyclopedia:Saving_Throw}豁免检定{/g}上获得+2种族{g|Encyclopedia:Bonus}加值{/g}。如果该效应同时也是恐惧效应，则加值提高到+4。本特性替换奖励技能。"
+  }
+]
