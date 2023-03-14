@@ -24,39 +24,39 @@
 
 |  MOD   |  内容简介 |  中文  |  UMM   |  个人推荐  |  内容量  |  修改  |  2.10 |
 |  ----  | ----  | ----  | ----  | ----  | ----  | ----  | ----  |
-| [TabletopTweaks-Base](#TabletopTweaks-Base)  | TTT | :cn:自带 | :heavy_check_mark:  | :star::star::star: | :file_folder::file_folder::file_folder: | 🛠️🛠️ ||
-| [TabletopTweaks-Reworks](#TabletopTweaks-Reworks)  | TTT神话扩展 | :cn:自带 | :heavy_check_mark:  | :star::star: | :file_folder::file_folder: | 🛠️🛠️ ||
+| [TabletopTweaks-Base](#TabletopTweaks-Base)  | TTT | 自带 | :heavy_check_mark:  | :star::star::star: | :file_folder::file_folder::file_folder: | 🛠️🛠️ ||
+| [TabletopTweaks-Reworks](#TabletopTweaks-Reworks)  | TTT神话扩展 | 自带 | :heavy_check_mark:  | :star::star: | :file_folder::file_folder: | 🛠️🛠️ ||
 | [TabletopTweaks-Flanking](#TabletopTweaks-Flanking)   | TTT夹击扩展 |   | :heavy_check_mark:  | :star::star: | :file_folder: | 🛠️🛠️ ||
-| [MicroscopicContentExpansion](#MicroscopicContentExpansion)|Microscopic内容扩展| :cn:汉化 | :heavy_check_mark: | :star::star::star: | :file_folder::file_folder: |||
+| [MicroscopicContentExpansion](#MicroscopicContentExpansion)|Microscopic内容扩展| 汉化 | :heavy_check_mark: | :star::star::star: | :file_folder::file_folder: |||
 | [SparsSorcerousSundries](#SparsSorcerousSundries) | SSS扩展 |  | :heavy_check_mark: | :star::star: | :file_folder::file_folder: |||
 | [TomeOfTheFirebird](#TomeOfTheFirebird) | TOTF扩展 |  | :heavy_check_mark: | :star::star::star: | :file_folder::file_folder::file_folder: |||
-| [HomebrewArchetypes](#HomebrewArchetypes) | Homebrew(房规)变体 | :cn:自带 | :x: | :star::star::star: | :file_folder::file_folder::file_folder: |||
-| [ExpandedContent2022](#ExpandedContent2022)  | 内容扩展2022 | :cn:汉化 | :heavy_check_mark: | :star: | :file_folder::file_folder::file_folder: |||
-| [ToggleableThrowingWeapons](#ToggleableThrowingWeapons) | 可切换投掷武器 | :cn:QL汉化 | :heavy_check_mark: | :star::star::star: | :file_folder: |||
+| [HomebrewArchetypes](#HomebrewArchetypes) | Homebrew(房规)变体 | 自带 | :x: | :star::star::star: | :file_folder::file_folder::file_folder: |||
+| [ExpandedContent2022](#ExpandedContent2022)  | 内容扩展2022 | 汉化 | :heavy_check_mark: | :star: | :file_folder::file_folder::file_folder: |||
+| [ToggleableThrowingWeapons](#ToggleableThrowingWeapons) | 可切换投掷武器 | QL汉化 | :heavy_check_mark: | :star::star::star: | :file_folder: |||
 | [MorvarchsPlaystyleExpansions](#MorvarchsPlaystyleExpansions)  | Morvarchs玩法扩展 |  | :heavy_check_mark: | :star::star::star: | :file_folder:||:steam_locomotive:|
-| [PhoenixsCantrips](#PhoenixsCantrips) | Phoenixs戏法强化 | :cn:汉化 | :heavy_check_mark: | :star: | :file_folder: | 🛠️ ||
-| [MoreCantrips](#MoreCantrips) | Phoenixs更多戏法   | :cn:汉化 | :heavy_check_mark: | :star: | :file_folder: | 🛠️ ||
-| [CharacterOptionsPlus](#CharacterOptionsPlus) | 角色选项+ | :cn:自带 | :heavy_check_mark: | :star::star::star: | :file_folder::file_folder::file_folder: |||
+| [PhoenixsCantrips](#PhoenixsCantrips) | Phoenixs戏法强化 | 汉化 | :heavy_check_mark: | :star: | :file_folder: | 🛠️ ||
+| [MoreCantrips](#MoreCantrips) | Phoenixs更多戏法   | 汉化 | :heavy_check_mark: | :star: | :file_folder: | 🛠️ ||
+| [CharacterOptionsPlus](#CharacterOptionsPlus) | 角色选项+ | 自带 | :heavy_check_mark: | :star::star::star: | :file_folder::file_folder::file_folder: |||
 | [DarkCodex](#DarkCodex) | DarkCodex扩展和修复 |  | :heavy_check_mark: | :star::star::star: |  :file_folder::file_folder::file_folder: |🛠️🛠️ ||
 | [AddedFeats](#AddedFeats) | 新增专长 | :cn:QL汉化 | :heavy_check_mark: |  :star::star: |  :file_folder::file_folder: |||
-| [BetterBackgrounds](#BetterBackgrounds) | 更多背景 | :cn:汉化| :x: |:star::star: | :file_folder: | 🛠️ ||
-| [MartialExcellence](#MartialExcellence) | 杰出武艺 | :cn:自带 |:heavy_check_mark: | :star::star: | :file_folder::file_folder: |||
+| [BetterBackgrounds](#BetterBackgrounds) | 更多背景 | 汉化| :x: |:star::star: | :file_folder: | 🛠️ ||
+| [MartialExcellence](#MartialExcellence) | 杰出武艺 | 自带 |:heavy_check_mark: | :star::star: | :file_folder::file_folder: |||
 | [MediumClass](#MediumClass)| 通灵者职业 |  | :heavy_check_mark: |  | :file_folder: |||
-| [MysticalMayhem](#MysticalMayhem) | 神秘骚乱 | :cn:自带 | :heavy_check_mark: | :star::star::star: | :file_folder::file_folder: |||
-| [MythicArcanist](#MythicArcanist) | 神话秘术 | :cn:自带 | :heavy_check_mark: | :star::star::star: | :file_folder::file_folder: |||
-| [ChampionFeatsAnew](#ChampionFeatsAnew) | 冠军专长 | :cn:自带 | :heavy_check_mark: |  | :file_folder::file_folder: |||
-| [KineticistElementsExpanded](#KineticistElementsExpanded) | 操念元素扩展 | :cn:汉化 | :heavy_check_mark: | :star: | :file_folder::file_folder: |||
+| [MysticalMayhem](#MysticalMayhem) | 神秘骚乱 | 自带 | :heavy_check_mark: | :star::star::star: | :file_folder::file_folder: |||
+| [MythicArcanist](#MythicArcanist) | 神话秘术 | 自带 | :heavy_check_mark: | :star::star::star: | :file_folder::file_folder: |||
+| [ChampionFeatsAnew](#ChampionFeatsAnew) | 冠军专长 | 自带 | :heavy_check_mark: |  | :file_folder::file_folder: |||
+| [KineticistElementsExpanded](#KineticistElementsExpanded) | 操念元素扩展 | 汉化 | :heavy_check_mark: | :star: | :file_folder::file_folder: |||
 | [Madison'sMetagaming](#sMetagaming) | Madison的超级游戏 | |:heavy_check_mark: |  | :file_folder: |||
-| [NinjaClass](#NinjaClass) | 忍者职业 | :cn:汉化 | :x: | :star: | :file_folder: |||
-| [BrawlerClass](#BrawlerClass) | 拳师职业 |:cn:QL汉化 | :heavy_check_mark: | :star: | :file_folder::file_folder: |||
+| [NinjaClass](#NinjaClass) | 忍者职业 | 汉化 | :x: | :star: | :file_folder: |||
+| [BrawlerClass](#BrawlerClass) | 拳师职业 |QL汉化 | :heavy_check_mark: | :star: | :file_folder::file_folder: |||
 | [WOTR_PATH_OF_BLING](#WOTR_PATH_OF_BLING) | 金龙重做  | |:heavy_check_mark: | |:file_folder: |🛠️||
 | [WOTR_PATH_OF_HELL](#WOTR_PATH_OF_HELL)  | 魔鬼重做 | |:heavy_check_mark: | |:file_folder: |🛠️||
 | [WOTR_PATH_OF_RAGE](#WOTR_PATH_OF_RAGE) | 恶魔重做 | |:heavy_check_mark: | :star::star: |:file_folder::file_folder: |🛠️||
 | [WorldCrawl](#WorldCrawl) | 大型重置 | |:heavy_check_mark: | |:file_folder::file_folder::file_folder:|🛠️🛠️🛠️||
-| [AlternateHumanTraits](#AlternateHumanTraits)|人类替换特性|:cn:QL汉化| :heavy_check_mark: | :star: | :file_folder: |||
+| [AlternateHumanTraits](#AlternateHumanTraits)|人类替换特性|QL汉化| :heavy_check_mark: | :star: | :file_folder: |||
 | [WOTR_IsekaiMod](#WOTR_IsekaiMod) | 异世界主角| |:heavy_check_mark: | :star: | :file_folder: |||
-| [Way-of-the-shield](#Way-of-the-shield) | 盾牌之道 |:cn:自带 |:heavy_check_mark: | :star: | :file_folder::file_folder: |🛠️||
-| [CyniikalBrokenFeatures](#CyniikalBrokenFeatures) | 法师虚学派 |:cn:QL汉化| :heavy_check_mark: | :star: | :file_folder::file_folder: |||
+| [Way-of-the-shield](#Way-of-the-shield) | 盾牌之道 |自带 |:heavy_check_mark: | :star: | :file_folder::file_folder: |🛠️||
+| [CyniikalBrokenFeatures](#CyniikalBrokenFeatures) | 法师虚学派 |QL汉化| :heavy_check_mark: | :star: | :file_folder::file_folder: |||
 
 备注
 + UMM一栏为是否使用UMM安装
