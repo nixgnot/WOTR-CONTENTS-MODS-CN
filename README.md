@@ -52,6 +52,7 @@
   - [AlternateHumanTraits](#AlternateHumanTraits) 人类替换特性
   - [WOTR_IsekaiMod](#WOTR_IsekaiMod) 异世界主角（滥强警告）
   - [Way-of-the-shield](#Way-of-the-shield) 盾牌之道
+  - [CyniikalBrokenFeatures](#CyniikalBrokenFeatures) 法师虚学派
   - [功能MOD索引](#功能MOD索引) 
 
 
@@ -1591,6 +1592,7 @@
 > *修改内容：* 修复辉光最终形态附魔效果<br>
 > *新增内容：* 物品、法术等<br>
 + 主要是增加物品
++ **2.1版本Discord发布了临时更新，可在本处Release下载临时版**
 <table>
 <tr><th colspan="2">新增内容列表</th></tr> 
    <tr><td>前作武器</td>
@@ -1836,7 +1838,7 @@
 -------------------------------------------
 ### [ToggleableThrowingWeapons](https://github.com/pheonix99/ToggleableThrowingWeapons)
 > *前置：* 无<br>
-> *中文：* **无**<br>
+> *中文：* **已有汉化（本人提供，QL挂载）**<br>
 > *安装方式：* **UMM**<br>
 > *修改内容：* 匕首和星刃投掷<br>
 + 小型MOD，持有匕首和星刃时会多出一个开关型能力，可以自由在**远程使用和近战使用**间切换。
@@ -2597,7 +2599,7 @@ Metamagic Master 超魔主宰：指定一个法术。当你超魔施展该法术
 ------------------------------------------- 
 ### [AddedFeats](https://github.com/Telyl/AddedFeats)
 > *前置：* ModMenu<br>
-> *中文：* **无**<br>
+> *中文：* **已有汉化（@HerryZheng8提供，QL挂载）**<br>
 > *安装方式：* **UMM**<br>
 > *修改内容：* <br>
 > *新增内容：* 专长，法术<br>
@@ -2859,7 +2861,7 @@ C:\Users\你的用户名\AppData\LocalLow\Owlcat Games\Pathfinder Wrath Of The R
 ------------------------------------------- 
 ### [BrawlerClass](https://www.nexusmods.com/pathfinderwrathoftherighteous/mods/207)
 > *前置：* 无<br>
-> *中文：* **无**<br>
+> *中文：* **已有汉化（本人提供，QL挂载）**<br>
 > *安装方式：* **UMM**<br>
 > *修改内容：* <br>
 > *新增内容：* 拳师职业<br>
@@ -2894,7 +2896,7 @@ C:\Users\你的用户名\AppData\LocalLow\Owlcat Games\Pathfinder Wrath Of The R
 -------------------------------------------   
 ### [AlternateHumanTraits](https://github.com/microsoftenator2022/AlternateHumanTraits)
 > *前置：* 无<br>
-> *中文：* **无**<br>
+> *中文：* **已有汉化（本人提供，QL挂载）**<br>
 > *安装方式：* **UMM**<br>
 > *修改内容：* <br>
 > *新增内容：* 人类替换种族特性<br>
@@ -2939,7 +2941,7 @@ C:\Users\你的用户名\AppData\LocalLow\Owlcat Games\Pathfinder Wrath Of The R
   -------------------------------------------   
 ### [Way-of-the-shield](https://github.com/ScaredKurufinve/Way-of-the-shield)
 > *前置：* ModMenu<br>
-> *中文：* **自带中文**<br>
+> *中文：* **自带中文（本人维护）**<br>
 > *安装方式：* **UMM**<br>
 > *修改内容：* 夹击规则<br>
 > *新增内容：* 变体、专长<br>
@@ -3019,6 +3021,13 @@ C:\Users\你的用户名\AppData\LocalLow\Owlcat Games\Pathfinder Wrath Of The R
           <td>增加圆盾格挡次数</td></tr>
 </table>
 
+### CyniikalBrokenFeatures
+> *前置：* 无<br>
+> *中文：* **已有汉化（本人维护，QL挂载）**<br>
+> *安装方式：* **UMM**<br>
+> *新增内容：* 法师学派：虚<br>
++ 增加了法师的虚学派
++ 原发布在Discord，本文档Release处有临时下载
 
    --------------------------------------
 ### 功能MOD索引
