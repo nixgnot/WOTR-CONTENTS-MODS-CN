@@ -21,23 +21,21 @@
   - [MOD外挂汉化工具QuickLocalization](#MOD外挂汉化工具QuickLocalization)
 - [MOD列表](#MOD列表)
 
-|  MOD   |  主要内容 |  中文  |  UMM   |  个人推荐  |  内容量  |  内容修改  |
+|  MOD   |  内容简介 |  中文  |  UMM   |  个人推荐  |  内容量  |  备注  |
 |  ----  | ----  | ----  | ----  | ----  | ----  | ----  |
-| [TabletopTweaks-Base](#TabletopTweaks-Base)  | TTT |  自带 | :heavy_check_mark:  | :star::star::star: | :file_folder::file_folder::file_folder: | :exclamation:  |
-| [TabletopTweaks-Reworks](#TabletopTweaks-Reworks)  | TTT神话扩展 |  自带 | :heavy_check_mark:  | :star::star: | :file_folder::file_folder: | :exclamation:  |
-| [TabletopTweaks-Flanking](#TabletopTweaks-Flanking)   | TTT夹击扩展 |  自带 | :heavy_check_mark:  | :star::star: | :file_folder: | :exclamation:  |
-
-
-  - [MicroscopicContentExpansion](#MicroscopicContentExpansion) Microscopic内容扩展 :star::star::star:
-  - [SparsSorcerousSundries](#SparsSorcerousSundries) SSS扩展 :star::star:
-  - [TomeOfTheFirebird](#TomeOfTheFirebird) TOTF扩展 :star::star::star:
-  - [HomebrewArchetypes](#HomebrewArchetypes) Homebrew(房规)变体 :star::star::star:
-  - [ExpandedContent2022](#ExpandedContent2022) 扩展内容2022 :star:
-  - [ToggleableThrowingWeapons](#ToggleableThrowingWeapons) 可切换投掷武器 :star::star::star:
-  - [MorvarchsPlaystyleExpansions](#MorvarchsPlaystyleExpansions) Morvarchs玩法扩展 :star::star::star:
-  - [PhoenixsCantrips](#PhoenixsCantrips) Phoenixs戏法强化 :star:
-    - [MoreCantrips](#MoreCantrips) 更多戏法 
-  - [CharacterOptionsPlus](#CharacterOptionsPlus) 角色选项+ :star::star::star:
+| [TabletopTweaks-Base](#TabletopTweaks-Base)  | TTT | :cn:自带 | :heavy_check_mark:  | :star::star::star: | :file_folder::file_folder::file_folder: | :wrench: |
+| [TabletopTweaks-Reworks](#TabletopTweaks-Reworks)  | TTT神话扩展 | :cn:自带 | :heavy_check_mark:  | :star::star: | :file_folder::file_folder: | :wrench: |
+| [TabletopTweaks-Flanking](#TabletopTweaks-Flanking)   | TTT夹击扩展 |  暂无 | :heavy_check_mark:  | :star::star: | :file_folder: | :wrench:  |
+| [MicroscopicContentExpansion](#MicroscopicContentExpansion) | Microscopic内容扩展  | :cn:自带 | :heavy_check_mark:  | :star::star::star: | :file_folder::file_folder: |  |
+| [SparsSorcerousSundries](#SparsSorcerousSundries) | SSS扩展 | 暂无 | :heavy_check_mark: | :star::star: | :file_folder::file_folder: ||
+| [TomeOfTheFirebird](#TomeOfTheFirebird) | TOTF扩展 | 暂无 | :heavy_check_mark: | :star::star::star: | :file_folder::file_folder::file_folder: ||
+| [HomebrewArchetypes](#HomebrewArchetypes) | Homebrew(房规)变体 | :cn:自带 | :x: | :star::star::star: | :file_folder::file_folder::file_folder: ||
+| [ExpandedContent2022](#ExpandedContent2022)  | 内容2022 | :cn:汉化 | :heavy_check_mark: | :star: | :file_folder::file_folder::file_folder: ||
+| [ToggleableThrowingWeapons](#ToggleableThrowingWeapons) | 可切换投掷武器 | :cn:QL汉化 | :heavy_check_mark: | :star::star::star: | :file_folder: ||
+| [MorvarchsPlaystyleExpansions](#MorvarchsPlaystyleExpansions)  | Morvarchs玩法扩展 | 暂无 | :heavy_check_mark: | :star::star::star: | :file_folder: |:hammer:|
+| [PhoenixsCantrips](#PhoenixsCantrips) | Phoenixs戏法强化 | :cn:汉化 | :heavy_check_mark: | :star: | :file_folder: | :wrench: |
+| [MoreCantrips](#MoreCantrips) | Phoenixs更多戏法   | :cn:汉化 | :heavy_check_mark: | :star: | :file_folder: | :wrench: 
+| [CharacterOptionsPlus](#CharacterOptionsPlus) | 角色选项+ | :cn:自带 | :heavy_check_mark: | :star::star::star: | :file_folder::file_folder::file_folder: ||
   - [DarkCodex](#DarkCodex) DarkCodex扩展和修复 :star::star::star: :exclamation:
   - [AddedFeats](#AddedFeats) 新增专长 :star::star:
   - [BetterBackgrounds](#BetterBackgrounds) 更多背景 :star::star:
@@ -1558,7 +1556,7 @@
 -------------------------------------------
 ### [MicroscopicContentExpansion](https://github.com/alterasc/MicroscopicContentExpansion)
 > *前置：* TabletopTweaks-Core<br>
-> *中文：* **汉化**<br>
+> *中文：* **无**<br>
 > *安装方式：* UMM<br>
 > *修改内容：* 无<br>
 > *新增内容：* 职业、专长、法术等<br>
