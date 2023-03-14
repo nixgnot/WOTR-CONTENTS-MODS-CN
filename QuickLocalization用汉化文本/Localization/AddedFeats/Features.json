@@ -8,7 +8,7 @@
   {
     "Key": "PlanarFocus.Description",
     "enGB": "When you use your animal focus class feature, you can choose any of the following new aspects: Air, Chaotic, Cold, Earth, Evil, Fire, Good, Lawful, Shadow, Water.",
-    "zhCN": "当你使用你具有动物之力职业能力时，你可以选择以下任意一个位面：空气，混乱，寒冷，大地，邪恶，火焰，善良，守序，阴影，流水，动物伙伴获得该位面的增益"
+    "zhCN": "当你具有动物之力职业能力时，你可以选择以下任意一个位面：空气，混乱，寒冷，大地，邪恶，火焰，善良，守序，阴影，流水，动物伙伴获得该位面的增益。"
   },
 
   {
@@ -144,12 +144,12 @@
     "Key": "FavoredBull.Name",
     "ProcessTemplates": false,
     "enGB": "Favored Animal Focus - Bull",
-    "zhCN": "偏好动物之力（公牛）"
+    "zhCN": "偏好动物之力（牛）"
   },
   {
     "Key": "FavoredBull.Description",
     "enGB": "The animal companions Strength bonus increases by one step when using Animal Focus - Bull up to +8.",
-    "zhCN": "使用动物之力（公牛）时，动物伙伴上的力量加成进一步提高，至多获得+8。"
+    "zhCN": "使用动物之力（牛）时，动物伙伴上的力量加成进一步提高，至多获得+8。"
   },
   {
     "Key": "FavoredBear.Name",
@@ -177,23 +177,23 @@
     "Key": "FavoredStag.Name",
     "ProcessTemplates": false,
     "enGB": "Favored Animal Focus - Stag",
-    "zhCN": "偏好动物之力（雄鹿）"
+    "zhCN": "偏好动物之力（鹿）"
   },
   {
     "Key": "FavoredStag.Description",
     "enGB": "The animal companions movement speed bonus increases by one step when using Animal Focus - Stag up to +30.",
-    "zhCN": "使用动物之力（雄鹿）时，动物伙伴移动速度上的加成进一步提高，至多获得+30。"
+    "zhCN": "使用动物之力（鹿）时，动物伙伴移动速度上的加成进一步提高，至多获得+30。"
   },
   {
     "Key": "FavoredFalcon.Name",
     "ProcessTemplates": false,
     "enGB": "Favored Animal Focus - Falcon",
-    "zhCN": "偏好动物之力（猎鹰）"
+    "zhCN": "偏好动物之力（隼）"
   },
   {
     "Key": "FavoredFalcon.Description",
     "enGB": "The animal companions Perception bonus increases by one step when using Animal Focus - Falcon up to +12.",
-    "zhCN": "使用动物之力（猎鹰）时，动物伙伴在察觉检定上的加成进一步提高，至多获得+12。"
+    "zhCN": "使用动物之力（隼）时，动物伙伴在察觉检定上的加成进一步提高，至多获得+12。"
   },
   {
     "Key": "FavoredMouse.Name",
@@ -270,7 +270,7 @@
   {
     "Key": "ImprovedNaturalAttack.Description",
     "enGB": "Choose one of the creatures natural attack forms (not an unarmed strike). The damage for this natural attack increases by one step on the following list, as if the creatures size had increased by one category. Damage dice increase as follows: 1d2, 1d3, 1d4, 1d6, 1d8, 2d6, 3d6, 4d6, 6d6, 8d6, 12d6. This feat can be taken multiple times for a different natural attack.",
-    "zhCN": "择一个生物的天生武器(不是徒手打击)。这种天生武器的伤害骰增大，如同生物的体型增大一级。\n伤害骰增加列表:1d2, 1d3, 1d4, 1d6, 1d8, 2d6, 3d6, 4d6, 6d6, 8d6, 12d6。这个专长可以多次选取，每次必须应用于不同的天生武器。"
+    "zhCN": "选择一个生物的天生武器(不是徒手打击)。这种天生武器的伤害骰增大，如同生物的体型增大一级。\n伤害骰增加列表:1d2, 1d3, 1d4, 1d6, 1d8, 2d6, 3d6, 4d6, 6d6, 8d6, 12d6。这个专长可以多次选取，每次必须应用于不同的天生武器。"
   },
   {
     "Key": "EvolvedCompanion.Name",
@@ -314,7 +314,7 @@
   {
     "Key": "TotemBeastSelection.Description",
     "enGB": "Select one animal aspect from the list presented in the hunter classs animal focus class feature. Your animal companion gains the benefits of the selected animal aspect, treating its Hit Dice as its effective hunter level for this ability.",
-    "zhCN": "从猎人的动物之力中选择一个动物属性。你的动物伙伴将获得所选动物之力的增益，以猎人的有效等级计算增益"
+    "zhCN": "从猎人的动物之力中选择一个动物属性。你的动物伙伴将获得所选动物之力的增益，以动物伙伴等级作为猎人等级计算增益。"
   },
   {
     "Key": "TotemBeastBull.Name",
@@ -353,7 +353,7 @@
     "Key": "TotemBeastFalcon.Name",
     "ProcessTemplates": false,
     "enGB": "Totem Beast - Falcon",
-    "zhCN": "兽魂图腾（猎鹰）"
+    "zhCN": "兽魂图腾（隼）"
   },
   {
     "Key": "TotemBeastFalcon.Description",
@@ -375,7 +375,7 @@
     "Key": "TotemBeastStag.Name",
     "ProcessTemplates": false,
     "enGB": "Totem Beast - Stag",
-    "zhCN": "兽魂图腾（雄鹿）"
+    "zhCN": "兽魂图腾（鹿）"
   },
   {
     "Key": "TotemBeastStag.Description",
@@ -580,12 +580,12 @@
     "Key": "VampiricCompanion.Name",
     "ProcessTemplates": false,
     "enGB": "Vampiric Companion",
-    "zhCN": "吸血同伴"
+    "zhCN": "吸血伴兽"
   },
   {
     "Key": "VampiricCompanion.Description",
     "enGB": "Your animal companion or familiars type changes to �gundead.�h The creature gains fast healing 5 as well as your vampire or dhampir weaknesses.",
-    "zhCN": "你的动物同伴或仆从的类型变为不死生物。这个生物获得快速医疗5以及吸血鬼或吸血裔的弱点"
+    "zhCN": "你的动物同伴或仆从的类型变为不死生物。这个生物获得快速医疗5以及吸血鬼或吸血裔的弱点。"
   },
   {
     "Key": "SpiritsGift.Name",
