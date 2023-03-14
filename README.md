@@ -52,7 +52,7 @@
 | [WOTR_PATH_OF_BLING](#WOTR_PATH_OF_BLING) | 金龙重做  | |:heavy_check_mark: | |:file_folder: |🛠️||
 | [WOTR_PATH_OF_HELL](#WOTR_PATH_OF_HELL)  | 魔鬼重做 | |:heavy_check_mark: | |:file_folder: |🛠️||
 | [WOTR_PATH_OF_RAGE](#WOTR_PATH_OF_RAGE) | 恶魔重做 | |:heavy_check_mark: | :star::star: |:file_folder::file_folder: |🛠️||
-| [WorldCrawl](#WorldCrawl) | 大型重置 | |:heavy_check_mark: | |:file_folder::file_folder::file_folder::file_folder::file_folder::file_folder:|🛠️🛠️🛠️||
+| [WorldCrawl](#WorldCrawl) | 大型重置 | |:heavy_check_mark: | |:file_folder::file_folder::file_folder::|🛠️🛠️🛠️||
 | [AlternateHumanTraits](#AlternateHumanTraits)|人类替换特性|:cn:QL汉化| :heavy_check_mark: | :star: | :file_folder: |||
 | [WOTR_IsekaiMod](#WOTR_IsekaiMod) | 异世界主角| |:heavy_check_mark: | :star: | :file_folder: |||
 | [Way-of-the-shield](#Way-of-the-shield) | 盾牌之道 |:cn:自带 |:heavy_check_mark: | :star: | :file_folder::file_folder: |🛠️||
