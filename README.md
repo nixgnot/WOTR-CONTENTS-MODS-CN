@@ -21,46 +21,47 @@
   - [MOD外挂汉化工具QuickLocalization](#MOD外挂汉化工具QuickLocalization)
 - [MOD列表](#MOD列表)
 
-|  MOD   |  内容简介 |  中文  |  UMM   |  个人推荐  |  内容量  |  备注  |
-|  ----  | ----  | ----  | ----  | ----  | ----  | ----  |
-| [TabletopTweaks-Base](#TabletopTweaks-Base)  | TTT | :cn:自带 | :heavy_check_mark:  | :star::star::star: | :file_folder::file_folder::file_folder: | :wrench: |
-| [TabletopTweaks-Reworks](#TabletopTweaks-Reworks)  | TTT神话扩展 | :cn:自带 | :heavy_check_mark:  | :star::star: | :file_folder::file_folder: | :wrench: |
-| [TabletopTweaks-Flanking](#TabletopTweaks-Flanking)   | TTT夹击扩展 |  暂无 | :heavy_check_mark:  | :star::star: | :file_folder: | :wrench:  |
-| [MicroscopicContentExpansion](#MicroscopicContentExpansion) | Microscopic内容扩展  | :cn:自带 | :heavy_check_mark:  | :star::star::star: | :file_folder::file_folder: |  |
-| [SparsSorcerousSundries](#SparsSorcerousSundries) | SSS扩展 | 暂无 | :heavy_check_mark: | :star::star: | :file_folder::file_folder: ||
-| [TomeOfTheFirebird](#TomeOfTheFirebird) | TOTF扩展 | 暂无 | :heavy_check_mark: | :star::star::star: | :file_folder::file_folder::file_folder: ||
-| [HomebrewArchetypes](#HomebrewArchetypes) | Homebrew(房规)变体 | :cn:自带 | :x: | :star::star::star: | :file_folder::file_folder::file_folder: ||
-| [ExpandedContent2022](#ExpandedContent2022)  | 内容2022 | :cn:汉化 | :heavy_check_mark: | :star: | :file_folder::file_folder::file_folder: ||
-| [ToggleableThrowingWeapons](#ToggleableThrowingWeapons) | 可切换投掷武器 | :cn:QL汉化 | :heavy_check_mark: | :star::star::star: | :file_folder: ||
-| [MorvarchsPlaystyleExpansions](#MorvarchsPlaystyleExpansions)  | Morvarchs玩法扩展 | 暂无 | :heavy_check_mark: | :star::star::star: | :file_folder: |:hammer:|
-| [PhoenixsCantrips](#PhoenixsCantrips) | Phoenixs戏法强化 | :cn:汉化 | :heavy_check_mark: | :star: | :file_folder: | :wrench: |
-| [MoreCantrips](#MoreCantrips) | Phoenixs更多戏法   | :cn:汉化 | :heavy_check_mark: | :star: | :file_folder: | :wrench: 
-| [CharacterOptionsPlus](#CharacterOptionsPlus) | 角色选项+ | :cn:自带 | :heavy_check_mark: | :star::star::star: | :file_folder::file_folder::file_folder: ||
-  - [DarkCodex](#DarkCodex) DarkCodex扩展和修复 :star::star::star: :exclamation:
-  - [AddedFeats](#AddedFeats) 新增专长 :star::star:
-  - [BetterBackgrounds](#BetterBackgrounds) 更多背景 :star::star:
-  - [MartialExcellence](#MartialExcellence) 杰出武艺:star::star:
-  - [MediumClass](#MediumClass) 通灵者职业
-  - [MysticalMayhem](#MysticalMayhem) 神秘骚乱:star::star::star:
-  - [MythicArcanist](#MythicArcanist) 神话秘术:star::star::star: 
-  - [ChampionFeatsAnew](#ChampionFeatsAnew) 冠军专长 
-  - [KineticistElementsExpanded](#KineticistElementsExpanded) 操念元素扩展 :star:
-  - [Madison'sMetagaming](#sMetagaming) Madison的超级游戏
-  - [NinjaClass](#NinjaClass) 忍者职业
-  - [BrawlerClass](#BrawlerClass)  拳师职业
-  - [WOTR_PATH_OF_BLING](#WOTR_PATH_OF_BLING) 金龙重做  
-  - [WOTR_PATH_OF_HELL](#WOTR_PATH_OF_HELL)  魔鬼重做
-  - [WOTR_PATH_OF_RAGE](#WOTR_PATH_OF_RAGE) 恶魔重做 :star::star: :exclamation:
-  - [WorldCrawl](#WorldCrawl)  :exclamation:
-  - [AlternateHumanTraits](#AlternateHumanTraits) 人类替换特性
-  - [WOTR_IsekaiMod](#WOTR_IsekaiMod) 异世界主角（滥强警告）
-  - [Way-of-the-shield](#Way-of-the-shield) 盾牌之道
-  - [CyniikalBrokenFeatures](#CyniikalBrokenFeatures) 法师虚学派
+|  MOD   |  内容简介 |  中文  |  UMM   |  个人推荐  |  内容量  |  修改  |  2.10 |
+|  ----  | ----  | ----  | ----  | ----  | ----  | ----  | ----  |
+| [TabletopTweaks-Base](#TabletopTweaks-Base)  | TTT | :cn:自带 | :heavy_check_mark:  | :star::star::star: | :file_folder::file_folder::file_folder: | 🛠️🛠️ ||
+| [TabletopTweaks-Reworks](#TabletopTweaks-Reworks)  | TTT神话扩展 | :cn:自带 | :heavy_check_mark:  | :star::star: | :file_folder::file_folder: | 🛠️🛠️ ||
+| [TabletopTweaks-Flanking](#TabletopTweaks-Flanking)   | TTT夹击扩展 |   | :heavy_check_mark:  | :star::star: | :file_folder: | 🛠️🛠️ ||
+| [MicroscopicContentExpansion](#MicroscopicContentExpansion)|Microscopic内容扩展| :cn:自带 | :heavy_check_mark: | :star::star::star: | :file_folder::file_folder: |||
+| [SparsSorcerousSundries](#SparsSorcerousSundries) | SSS扩展 |  | :heavy_check_mark: | :star::star: | :file_folder::file_folder: |||
+| [TomeOfTheFirebird](#TomeOfTheFirebird) | TOTF扩展 |  | :heavy_check_mark: | :star::star::star: | :file_folder::file_folder::file_folder: |||
+| [HomebrewArchetypes](#HomebrewArchetypes) | Homebrew(房规)变体 | :cn:自带 | :x: | :star::star::star: | :file_folder::file_folder::file_folder: |||
+| [ExpandedContent2022](#ExpandedContent2022)  | 内容2022 | :cn:汉化 | :heavy_check_mark: | :star: | :file_folder::file_folder::file_folder: |||
+| [ToggleableThrowingWeapons](#ToggleableThrowingWeapons) | 可切换投掷武器 | :cn:QL汉化 | :heavy_check_mark: | :star::star::star: | :file_folder: |||
+| [MorvarchsPlaystyleExpansions](#MorvarchsPlaystyleExpansions)  | Morvarchs玩法扩展 |  | :heavy_check_mark: | :star::star::star: | :file_folder:||:steam_locomotive:|
+| [PhoenixsCantrips](#PhoenixsCantrips) | Phoenixs戏法强化 | :cn:汉化 | :heavy_check_mark: | :star: | :file_folder: | 🛠️ ||
+| [MoreCantrips](#MoreCantrips) | Phoenixs更多戏法   | :cn:汉化 | :heavy_check_mark: | :star: | :file_folder: | 🛠️ ||
+| [CharacterOptionsPlus](#CharacterOptionsPlus) | 角色选项+ | :cn:自带 | :heavy_check_mark: | :star::star::star: | :file_folder::file_folder::file_folder: |||
+| [DarkCodex](#DarkCodex) | DarkCodex扩展和修复 |  | :heavy_check_mark: | :star::star::star: |  :file_folder::file_folder::file_folder: |🛠️🛠️ ||
+| [AddedFeats](#AddedFeats) | 新增专长 | :cn:QL汉化 | :heavy_check_mark: |  :star::star: |  :file_folder::file_folder: |||
+| [BetterBackgrounds](#BetterBackgrounds) | 更多背景 | :cn:汉化| :x: |:star::star: | :file_folder: | 🛠️ ||
+| [MartialExcellence](#MartialExcellence) | 杰出武艺 | :cn:自带 |:heavy_check_mark: | :star::star: | :file_folder::file_folder: |||
+| [MediumClass](#MediumClass)| 通灵者职业 |  | :heavy_check_mark: |  | :file_folder: |||
+| [MysticalMayhem](#MysticalMayhem) | 神秘骚乱 | :cn:自带 | :heavy_check_mark: | :star::star::star: | :file_folder::file_folder: |||
+| [MythicArcanist](#MythicArcanist) | 神话秘术 | :cn:自带 | :heavy_check_mark: | :star::star::star: | :file_folder::file_folder: |||
+| [ChampionFeatsAnew](#ChampionFeatsAnew) | 冠军专长 | :cn:自带 | :heavy_check_mark: |  | :file_folder::file_folder: |||
+| [KineticistElementsExpanded](#KineticistElementsExpanded) | 操念元素扩展 | :cn:汉化 | :heavy_check_mark: | :star: | :file_folder::file_folder: |||
+| [Madison'sMetagaming](#sMetagaming) | Madison的超级游戏 | |:heavy_check_mark: |  | :file_folder: |||
+| [NinjaClass](#NinjaClass) | 忍者职业 | :cn:汉化 | :x: | :star: | :file_folder: |||
+| [BrawlerClass](#BrawlerClass) | 拳师职业 |:cn:QL汉化 | :heavy_check_mark: | :star: | :file_folder::file_folder: |||
+| [WOTR_PATH_OF_BLING](#WOTR_PATH_OF_BLING) | 金龙重做  | |:heavy_check_mark: | |:file_folder: |🛠️||
+| [WOTR_PATH_OF_HELL](#WOTR_PATH_OF_HELL)  | 魔鬼重做 | |:heavy_check_mark: | |:file_folder: |🛠️||
+| [WOTR_PATH_OF_RAGE](#WOTR_PATH_OF_RAGE) | 恶魔重做 | |:heavy_check_mark: | :star::star: |:file_folder::file_folder: |🛠️||
+| [WorldCrawl](#WorldCrawl) | 大型重置 | |:heavy_check_mark: | |:file_folder::file_folder::file_folder::file_folder::file_folder::file_folder:|🛠️🛠️🛠️||
+| [AlternateHumanTraits](#AlternateHumanTraits)|人类替换特性|:cn:QL汉化| :heavy_check_mark: | :star: | :file_folder: |||
+| [WOTR_IsekaiMod](#WOTR_IsekaiMod) | 异世界主角| |:heavy_check_mark: | :star: | :file_folder: |||
+| [Way-of-the-shield](#Way-of-the-shield) | 盾牌之道 |:cn:自带 |:heavy_check_mark: | :star: | :file_folder::file_folder: |🛠️||
+| [CyniikalBrokenFeatures](#CyniikalBrokenFeatures) | 法师虚学派 |:cn:QL汉化| :heavy_check_mark: | :star: | :file_folder::file_folder: |||
+
+备注
++ 🛠️ 表示对游戏原本内容有大幅度修改，需要注意自行开关选项<br>
++ :steam_locomotive: 表示暂未更新到2.1版本，或在2.1版本运行有已知问题
+
   - [功能MOD索引](#功能MOD索引) 
-
-
-:star:表示笔者个人推荐
-:exclamation: 表示对游戏原本内容有大幅度修改，需要注意
 
 ------------------------------------------- 
 
@@ -114,7 +115,7 @@
 + 可以点击上方**code**按钮中的**Download Zip**打包下载素有附件。
 + 一般**UMM安装**的MOD，汉化文件的使用方法是直接替换游戏目录下\mods\对应mod名称\Localization\中同名文件即可。
 + 对于**非UMM安装**的MOD，替换C:\Users\你的用户文件夹\AppData\LocalLow\Owlcat Games\Pathfinder Wrath Of The Righteous\Modifications\对应mod名称\Localization\中同名文件。
-+ 对于**QuickLocalization用汉化**，请参考QuickLocalization说明
++ 列表中标明**QL汉化**的MOD为**QuickLocalization用汉化**，请参考QuickLocalization说明
 + 大部分MOD是对原规则的还原，对于较为复杂的职业、专长详情会标明<i>参阅PF文档</i>，可在上述Pathfinder v2.02简体文档中查看，但实际MOD中并不一定完全效果相同。
 
 -------------------------------------------
@@ -2644,7 +2645,7 @@ Metamagic Master 超魔主宰：指定一个法术。当你超魔施展该法术
 ------------------------------------------- 
 ### [BetterBackgrounds](https://www.nexusmods.com/pathfinderwrathoftherighteous/mods/205)
 > *前置：* 无<br>
-> *中文：* **无**<br>
+> *中文：* **本处提供汉化**<br>
 > *安装方式：* **非UMM**<br>
 > *修改内容：* <br>
 > *新增内容：* 人物背景<br>
