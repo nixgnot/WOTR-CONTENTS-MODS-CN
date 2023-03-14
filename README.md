@@ -20,6 +20,11 @@
   - [汉化文件及其他说明](#汉化文件及其他说明)
   - [MOD外挂汉化工具QuickLocalization](#MOD外挂汉化工具QuickLocalization)
 - [MOD列表](#MOD列表)
+
+|  MOD   | 中文  |
+|  ----  | ----  |
+| [TabletopTweaks-Base](#TabletopTweaks-Base)  | 自带 |
+
   - [TabletopTweaks-Base](#TabletopTweaks-Base) TTT :star::star::star: :exclamation:
     - [TabletopTweaks-Reworks](#TabletopTweaks-Reworks) TTT神话扩展 :star::star: :exclamation:
     - [TabletopTweaks-Flanking](#TabletopTweaks-Flanking) TTT夹击扩展 :star::star: :exclamation:
