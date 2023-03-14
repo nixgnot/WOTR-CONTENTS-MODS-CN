@@ -31,7 +31,7 @@
 | [SparsSorcerousSundries](#SparsSorcerousSundries) | SSS扩展 |  | :heavy_check_mark: | :star::star: | :file_folder::file_folder: |||
 | [TomeOfTheFirebird](#TomeOfTheFirebird) | TOTF扩展 |  | :heavy_check_mark: | :star::star::star: | :file_folder::file_folder::file_folder: |||
 | [HomebrewArchetypes](#HomebrewArchetypes) | Homebrew(房规)变体 | :cn:自带 | :x: | :star::star::star: | :file_folder::file_folder::file_folder: |||
-| [ExpandedContent2022](#ExpandedContent2022)  | 内容2022 | :cn:汉化 | :heavy_check_mark: | :star: | :file_folder::file_folder::file_folder: |||
+| [ExpandedContent2022](#ExpandedContent2022)  | 内容扩展2022 | :cn:汉化 | :heavy_check_mark: | :star: | :file_folder::file_folder::file_folder: |||
 | [ToggleableThrowingWeapons](#ToggleableThrowingWeapons) | 可切换投掷武器 | :cn:QL汉化 | :heavy_check_mark: | :star::star::star: | :file_folder: |||
 | [MorvarchsPlaystyleExpansions](#MorvarchsPlaystyleExpansions)  | Morvarchs玩法扩展 |  | :heavy_check_mark: | :star::star::star: | :file_folder:||:steam_locomotive:|
 | [PhoenixsCantrips](#PhoenixsCantrips) | Phoenixs戏法强化 | :cn:汉化 | :heavy_check_mark: | :star: | :file_folder: | 🛠️ ||
