@@ -1,0 +1,49 @@
+[
+  {
+    "Key": "Settings.Title",
+    "ProcessTemplates": false,
+    "enGB": "Added Features"
+  },
+
+  {
+    "Key": "Settings.Homebrew.Title",
+    "ProcessTemplates": false,
+    "enGB": "Optional Rules"
+  },
+
+  {
+    "Key": "Settings.Archetypes.Title",
+    "ProcessTemplates": false,
+    "enGB": "Archetypes"
+  },
+
+  {
+    "Key": "Settings.ClassFeatures.Title",
+    "ProcessTemplates": false,
+    "enGB": "Class Features"
+  },
+
+  {
+    "Key": "Settings.Feats.Title",
+    "ProcessTemplates": false,
+    "enGB": "Feats"
+  },
+
+  {
+    "Key": "Settings.Fixes.Title",
+    "ProcessTemplates": false,
+    "enGB": "Bug Fixes"
+  },
+
+  {
+    "Key": "Settings.Spells.Title",
+    "ProcessTemplates": false,
+    "enGB": "Spells"
+  },
+
+  {
+    "Key": "Settings.EnableFeature",
+    "ProcessTemplates": false,
+    "enGB": "REQUIRES RESTART\n\nTurning this off prevents the feature from working: characters cannot select this feature and characters with it cannot use it. You can still load save games that reference it."
+  }
+]

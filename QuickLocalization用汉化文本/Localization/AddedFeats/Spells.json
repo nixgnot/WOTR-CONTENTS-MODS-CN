@@ -1,0 +1,24 @@
+﻿[
+  {
+    "Key": "StrongJaw.Name",
+    "ProcessTemplates": false,
+    "enGB": "Strong Jaw",
+    "zhCN": "铁碎颚"
+  },
+  {
+    "Key": "StrongJaw.Description",
+    "enGB": "Laying a hand upon an allied creatures jaw, claws, tentacles, or other natural weapons, you enhance the power of that creatures natural attacks. Each natural attack that creature makes deals damage as if the creature were two sizes larger than it actually is. If the creature is already Gargantuan or Colossal-sized, double the amount of damage dealt by each of its natural attacks instead. This spell does not actually change the creature’s size; all of its statistics except the amount of damage dealt by its natural attacks remain unchanged.",
+    "zhCN": "通过用手触摸盟友的下颚，双爪，触手或其他天生武器，你增强了该名生物所拥有的天生武器的威力。该生物的每个天生武器所造成的伤害均视同比实际体型大2级。如果该名生物的体型已经为巨型 (Gargantuan) 或超巨型 (Colossal)，那么他的每次天生武器攻击均会造成双倍伤害。该法术并不会改变生物的体型；也不会改变目标的天生武器造成的伤害数值之外的任何属性。"
+  },
+  {
+    "Key": "Atavism.Name",
+    "ProcessTemplates": false,
+    "enGB": "Atavism",
+    "zhCN": "原始野性"
+  },
+  {
+    "Key": "Atavism.Description",
+    "enGB": "By bringing forth the primeval ancestry of the target animal, you awaken a savage engine of destruction. The animal immediately gains the advanced creature simple template. It gains a +2 bonus on all rolls, including damage rolls and special ability DCs, a +4 bonus to AC and CMD, and +2 hit points per HD. The animals primal instincts take hold for the duration of this spell—if the animal knows tricks granted by the Lore (Nature) skill, it loses access to all of those tricks save for attack. ",
+    "zhCN": "通过展现目标动物的太古先祖，你唤醒了它野蛮的破坏欲。该动物立即获得简单模板中的进化模板。它在所有检定 (包括伤害骰) 和特殊能力的DC获得+2加值，AC与CMD获得+4加值，并且每HD获得+2生命值。在该法术存续期间，动物的原始本能会扎根在其心中——如果该名动物持有学识（自然）技能的话，它会失去这些把戏的使用权，除了‘攻击’以外。该法术对已经拥有进化模板的动物没有效果。"
+  }
+]

@@ -1,0 +1,15 @@
+[
+  {
+    "Key": "MythicAnimalFocus.Name",
+    "ProcessTemplates": false,
+    "enGB": "Mythic Bond",
+    "zhCN": "神话羁绊"
+  },
+
+  {
+    "Key": "MythicAnimalFocus.Description",
+    "ProcessTemplates": false,
+    "enGB": "You use your mythic powers to power your bond with your animal companion. Benefit: You may now apply an additional animal foci to both herself and her animal companion.",
+    "zhCN": "你用你的神话之力来加强你和你的动物伙伴的关系。\n增益：你现在可以对自己和动物伙伴施加额外的动物之力。"
+  }
+]
