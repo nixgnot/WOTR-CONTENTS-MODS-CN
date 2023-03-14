@@ -1558,7 +1558,7 @@
 -------------------------------------------
 ### [MicroscopicContentExpansion](https://github.com/alterasc/MicroscopicContentExpansion)
 > *前置：* TabletopTweaks-Core<br>
-> *中文：* **无**<br>
+> *中文：* **汉化**<br>
 > *安装方式：* UMM<br>
 > *修改内容：* 无<br>
 > *新增内容：* 职业、专长、法术等<br>
