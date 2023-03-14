@@ -27,7 +27,7 @@
 | [TabletopTweaks-Base](#TabletopTweaks-Base)  | TTT | :cn:自带 | :heavy_check_mark:  | :star::star::star: | :file_folder::file_folder::file_folder: | 🛠️🛠️ ||
 | [TabletopTweaks-Reworks](#TabletopTweaks-Reworks)  | TTT神话扩展 | :cn:自带 | :heavy_check_mark:  | :star::star: | :file_folder::file_folder: | 🛠️🛠️ ||
 | [TabletopTweaks-Flanking](#TabletopTweaks-Flanking)   | TTT夹击扩展 |   | :heavy_check_mark:  | :star::star: | :file_folder: | 🛠️🛠️ ||
-| [MicroscopicContentExpansion](#MicroscopicContentExpansion)|Microscopic内容扩展| :cn:自带 | :heavy_check_mark: | :star::star::star: | :file_folder::file_folder: |||
+| [MicroscopicContentExpansion](#MicroscopicContentExpansion)|Microscopic内容扩展| :cn:汉化 | :heavy_check_mark: | :star::star::star: | :file_folder::file_folder: |||
 | [SparsSorcerousSundries](#SparsSorcerousSundries) | SSS扩展 |  | :heavy_check_mark: | :star::star: | :file_folder::file_folder: |||
 | [TomeOfTheFirebird](#TomeOfTheFirebird) | TOTF扩展 |  | :heavy_check_mark: | :star::star::star: | :file_folder::file_folder::file_folder: |||
 | [HomebrewArchetypes](#HomebrewArchetypes) | Homebrew(房规)变体 | :cn:自带 | :x: | :star::star::star: | :file_folder::file_folder::file_folder: |||
@@ -1558,7 +1558,7 @@
 -------------------------------------------
 ### [MicroscopicContentExpansion](https://github.com/alterasc/MicroscopicContentExpansion)
 > *前置：* TabletopTweaks-Core<br>
-> *中文：* **无**<br>
+> *中文：* **本处提供汉化**<br>
 > *安装方式：* UMM<br>
 > *修改内容：* 无<br>
 > *新增内容：* 职业、专长、法术等<br>
