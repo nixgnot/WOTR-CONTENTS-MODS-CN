@@ -20,14 +20,13 @@
   - [汉化文件及其他说明](#汉化文件及其他说明)
   - [MOD外挂汉化工具QuickLocalization](#MOD外挂汉化工具QuickLocalization)
 - [MOD列表](#MOD列表)
+|  MOD   |  主要内容 |  中文  |  UMM   |  个人推荐  |  内容量  |  内容修改  |
+|  ----  | ----  | ----  | ----  | ----  | ----  | ----  |
+| [TabletopTweaks-Base](#TabletopTweaks-Base)  | TTT |  自带 | :heavy_check_mark:  | :star::star::star: | :file_folder::file_folder::file_folder: | :exclamation:  |
+| [TabletopTweaks-Reworks](#TabletopTweaks-Reworks)  | TTT神话扩展 |  自带 | :heavy_check_mark:  | :star::star: | :file_folder::file_folder: | :exclamation:  |
+| [TabletopTweaks-Flanking](#TabletopTweaks-Flanking)   | TTT夹击扩展 |  自带 | :heavy_check_mark:  | :star::star: | :file_folder: | :exclamation:  |
 
-|  MOD   | 中文  |
-|  ----  | ----  |
-| [TabletopTweaks-Base](#TabletopTweaks-Base)  | 自带 |
 
-  - [TabletopTweaks-Base](#TabletopTweaks-Base) TTT :star::star::star: :exclamation:
-    - [TabletopTweaks-Reworks](#TabletopTweaks-Reworks) TTT神话扩展 :star::star: :exclamation:
-    - [TabletopTweaks-Flanking](#TabletopTweaks-Flanking) TTT夹击扩展 :star::star: :exclamation:
   - [MicroscopicContentExpansion](#MicroscopicContentExpansion) Microscopic内容扩展 :star::star::star:
   - [SparsSorcerousSundries](#SparsSorcerousSundries) SSS扩展 :star::star:
   - [TomeOfTheFirebird](#TomeOfTheFirebird) TOTF扩展 :star::star::star:
