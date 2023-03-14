@@ -128,7 +128,11 @@
 
 目前已经完成的汉化：
 **Brawler(拳师) MOD 2.10用版本**
-**CharacterOptionsPlus 2.10用版本**
+**AlternateHumanTraits（人类替换特性）**
+**CyniikalBrokenFeatures（法师虚学派，在release中有）**
+**ToggleableThrowingWeapons（可切换投掷武器）**
+
+
 本文档会不定期更新补充一些汉化
 
 -------------------------------------------
@@ -1887,7 +1891,7 @@
 ------------------------------------------- 
 ### [CharacterOptionsPlus](https://github.com/WittleWolfie/CharacterOptionsPlus)
 > *前置：* TabletopTweaks-Core, ModMenu<br>
-> *中文：* **无**<br>
+> *中文：* **自带（本人维护）**<br>
 > *安装方式：* **UMM**<br>
 > *新增内容：* 大量，法术专长为主<br>
 + 大型MOD，增加很多新内容
