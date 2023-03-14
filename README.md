@@ -38,7 +38,7 @@
 | [MoreCantrips](#MoreCantrips) | Phoenixs更多戏法   | 汉化 | :heavy_check_mark: | :star: | :file_folder: | 🛠️ ||
 | [CharacterOptionsPlus](#CharacterOptionsPlus) | 角色选项+ | 自带 | :heavy_check_mark: | :star::star::star: | :file_folder::file_folder::file_folder: |||
 | [DarkCodex](#DarkCodex) | DarkCodex扩展和修复 |  | :heavy_check_mark: | :star::star::star: |  :file_folder::file_folder::file_folder: |🛠️🛠️ ||
-| [AddedFeats](#AddedFeats) | 新增专长 | :cn:QL汉化 | :heavy_check_mark: |  :star::star: |  :file_folder::file_folder: |||
+| [AddedFeats](#AddedFeats) | 新增专长 | QL汉化 | :heavy_check_mark: |  :star::star: |  :file_folder::file_folder: |||
 | [BetterBackgrounds](#BetterBackgrounds) | 更多背景 | 汉化| :x: |:star::star: | :file_folder: | 🛠️ ||
 | [MartialExcellence](#MartialExcellence) | 杰出武艺 | 自带 |:heavy_check_mark: | :star::star: | :file_folder::file_folder: |||
 | [MediumClass](#MediumClass)| 通灵者职业 |  | :heavy_check_mark: |  | :file_folder: |||
