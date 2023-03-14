@@ -59,6 +59,7 @@
 | [CyniikalBrokenFeatures](#CyniikalBrokenFeatures) | 法师虚学派 |:cn:QL汉化| :heavy_check_mark: | :star: | :file_folder::file_folder: |||
 
 备注
++ UMM一栏为是否使用UMM安装
 + 🛠️ 表示对游戏原本内容有大幅度修改，需要注意自行开关选项<br>
 + :steam_locomotive: 表示暂未更新到2.1版本，或在2.1版本运行有已知问题
 
