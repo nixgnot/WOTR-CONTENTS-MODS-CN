@@ -2392,11 +2392,11 @@ Metamagic Master 超魔主宰：指定一个法术。当你超魔施展该法术
     <td>:x:</td>
     <td>:heavy_check_mark:</td></tr>
 <tr><td>Spellcasters.CreateEnergyChannel</td>
-    <td><b>新增专长：</b>Energy Channel 能力引导 - 使用引导次数为武器充能</td>
+    <td><b>新增专长：</b>Energy Channel 能量导能 - 使用引导次数为武器充能</td>
     <td>:x:</td>
     <td>:heavy_check_mark:</td></tr>
 <tr><td>Spellcasters.CreatePurifyingChannel</td>
-    <td><b>新增专长：</b>Purifying Channel 净化引导 - 引导正能量造成火焰伤害</td>
+    <td><b>新增专长：</b>Purifying Channel 净化导能 - 引导正能量造成火焰伤害</td>
     <td>:x:</td>
     <td>:heavy_check_mark:</td></tr>
 <tr><td>Spellcasters.FixBloodlineArcane</td>
