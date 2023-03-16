@@ -2014,7 +2014,7 @@ Metamagic Master 超魔主宰：指定一个法术。当你超魔施展该法术
     <td>:x:</td>
     <td>:heavy_check_mark:</td></tr>
 <tr><td>General.CreateDirtyFighting</td>
-    <td><b>新增专长：</b>Dirty Fighting 卑劣战斗，如果你没有进行夹击或者拥有对应战技专长，使用战技时不会引发借机攻击但是受到-4处罚</td>
+    <td><b>新增专长：</b>Dirty Fighting 卑劣战斗，放弃夹击加值来避免战技引发借机攻击，或者在本就不会引发借机攻击时战技获得加值。</td>
     <td>:x:</td>
     <td>:heavy_check_mark:</td></tr>
 <tr><td>General.CreateHeritage</td>
