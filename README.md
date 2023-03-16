@@ -1930,7 +1930,7 @@
    <tr><td>Purifying Channel 净化导能：引导正能量可以对一个敌人造成火焰伤害和目眩</td></tr>
    <tr><td>Signature Skill 标志性技能：选择一项技能获得奖励，游荡者可自动获得</td></tr>
    <tr><td>Skald's Vigor 健硕之歌（另有高等）：维持战怒之歌给予快速医疗，高等在启动时对队友有效</td></tr>
-   <tr><td>Energy Channel 引导元素：消耗引导能量使你的武器攻击获得额外元素伤害</td></tr>
+   <tr><td>Energy Channel 元素能量引导：消耗引导能量使你的武器攻击获得额外元素伤害</td></tr>
    <tr><td colspan="2" rowspan="39">法术<br><i>参阅PF文档</i></td>
        <td>Bladed Dash 飞刃袭：直线移动并对路径上敌人攻击</td></tr> 
    <tr><td>Burning Disarm 灼热缴械：使物品变热强迫敌人丢下</td></tr> 
@@ -2392,7 +2392,7 @@ Metamagic Master 超魔主宰：指定一个法术。当你超魔施展该法术
     <td>:x:</td>
     <td>:heavy_check_mark:</td></tr>
 <tr><td>Spellcasters.CreateEnergyChannel</td>
-    <td><b>新增专长：</b>Energy Channel 能量导能 - 使用引导次数为武器充能</td>
+    <td><b>新增专长：</b>Energy Channel 元素能量引导 - 使用引导次数为武器充能</td>
     <td>:x:</td>
     <td>:heavy_check_mark:</td></tr>
 <tr><td>Spellcasters.CreatePurifyingChannel</td>
