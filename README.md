@@ -2038,7 +2038,7 @@ Metamagic Master 超魔主宰：指定一个法术。当你超魔施展该法术
     <td>:x:</td>
     <td>:heavy_check_mark:</td></tr>
 <tr><td>General.CreateSacredSummons</td>
-    <td><b>新增专长：</b>Sacred Summons 特定召唤生物可以立即召唤</td>
+    <td><b>新增专长：</b>Sacred Summons 神圣召唤，特定召唤生物可以立即召唤</td>
     <td>:x:</td>
     <td>:heavy_check_mark:</td></tr>
 <tr><td>General.CreateSpellPerfection</td>
