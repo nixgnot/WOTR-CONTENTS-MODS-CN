@@ -2208,7 +2208,7 @@ Metamagic Master 超魔主宰：指定一个法术。当你超魔施展该法术
 <tr>
 <th rowspan="2">武僧</td> 
     <td>Monk.CreateFeralCombatTraining</td>
-    <td><b>新增专长：</b>Feral Combat Training 野性战斗训练 - 选择一种天生武器，视为徒手攻击应用以精通徒手攻击为前提的专长，也包括疾风连击</td>
+    <td><b>新增专长：</b>Feral Combat Training 野性战斗训练 - 使用任意天生武器时，你可以应用那些需要精通徒手击打作为前提的专长。如果你是武僧，也可以应用两仪回风效果。</td>
     <td>:heavy_check_mark:</td>
     <td>:heavy_check_mark:</td></tr>
 <tr><td>Monk.PatchSoheiRapidShot</td>
