@@ -1623,7 +1623,7 @@
        <td>血怒血承：Phoenix  凤凰血承，需要TabletopTweaks-Base</td></tr>
    <tr><td>原力：Clockwork Heart 械动之心</td></tr>
    <tr><td>庇护主：Light 光耀、Animal 动物、 Protection 保护、Plague 疫病</td></tr>
-   <tr><td>狂暴之力：Rage Stance Mastery 狂暴姿态大师：同时使用两种野蛮人姿态</td></tr>
+   <tr><td>狂暴之力：Rage Stance Mastery 狂暴姿态大师，同时使用两种野蛮人姿态、Elemental Stance 元素战姿，近战攻击额外造成能量伤害</td></tr>
    <tr><td>圣疗救赎：Injured 救赎创伤（给予快速治疗）、Ensorcelled 救赎蛊惑（驱散，可对敌）</td></tr>
    <tr><td rowspan="12">法术<br><i>参阅PF文档</i></td>
        <td>Bone Fists 骸骨之拳：增加天生防御和天生武器伤害</td></tr>
