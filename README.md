@@ -1638,8 +1638,9 @@
    <tr><td>Spear Of Purity 纯善之矛：远程接触，对邪恶异界特效</td></tr>
    <tr><td>Telekinetic Strikes 念力打击：徒手和天生武器附带力场伤害</td></tr>
    <tr><td>Burst Of Radiance 光耀爆发：群体致盲，邪恶生物受到伤害</td></tr>  
-   <tr><td rowspan="11">专长<br><i>参阅PF文档</i></td>
+   <tr><td rowspan="12">专长<br><i>参阅PF文档</i></td>
        <td>Ability Focus- Breath Weapon 能力专攻 - 吐息武器：增加吐息攻击DC</td></tr>
+   <tr><td>Ancestral Scorn 先祖蔑视：当你成功使用威吓检定挫败邪恶子类的异界生物的士气时，目标除了受到挫败士气的正常影响以外，还会恶心1轮。如果你的检定高于DC5点或更多的话，该生物则会反胃1轮以取代恶心效果</td></tr>
    <tr><td>Burn Resistance 超载抵抗：计算操念超载非致命伤害时将自己等级视为低2级计算</td></tr>
    <tr><td>Extra Burn 额外超载：增加每日超载限制</td></tr>
    <tr><td>Extended Buffer 额外念力缓冲：增加念力缓冲（MOD新增操念自带特性，减少一定量的超载）</td></tr>
