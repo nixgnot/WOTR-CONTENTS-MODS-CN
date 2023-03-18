@@ -28,8 +28,8 @@
 | [TabletopTweaks-Reworks](#TabletopTweaks-Reworks)  | TTT神话扩展 | 自带 | :heavy_check_mark:  | :star::star: | :file_folder::file_folder: | 🛠️🛠️ ||
 | [TabletopTweaks-Flanking](#TabletopTweaks-Flanking)   | TTT夹击扩展 |   | :heavy_check_mark:  | :star::star: | :file_folder: | 🛠️🛠️ ||
 | [MicroscopicContentExpansion](#MicroscopicContentExpansion)|Microscopic内容扩展| 汉化 | :heavy_check_mark: | :star::star::star: | :file_folder::file_folder: |||
-| [SparsSorcerousSundries](#SparsSorcerousSundries) | SSS扩展 |  | :heavy_check_mark: | :star::star: | :file_folder::file_folder: |||
-| [TomeOfTheFirebird](#TomeOfTheFirebird) | TOTF扩展 |  | :heavy_check_mark: | :star::star::star: | :file_folder::file_folder::file_folder: |||
+| [SparsSorcerousSundries](#SparsSorcerousSundries) | SSS扩展 | 汉化 | :heavy_check_mark: | :star::star: | :file_folder::file_folder: |||
+| [TomeOfTheFirebird](#TomeOfTheFirebird) | TOTF扩展 | QL汉化 | :heavy_check_mark: | :star::star::star: | :file_folder::file_folder::file_folder: |||
 | [HomebrewArchetypes](#HomebrewArchetypes) | Homebrew(房规)变体 | 自带 | :x: | :star::star::star: | :file_folder::file_folder::file_folder: |||
 | [ExpandedContent2022](#ExpandedContent2022)  | 内容扩展2022 | 汉化 | :heavy_check_mark: | :star: | :file_folder::file_folder::file_folder: |||
 | [ToggleableThrowingWeapons](#ToggleableThrowingWeapons) | 可切换投掷武器 | QL汉化 | :heavy_check_mark: | :star::star::star: | :file_folder: |||
