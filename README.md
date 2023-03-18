@@ -153,7 +153,7 @@
 -------------------------------------------
 ### [TabletopTweaks-Base](https://github.com/Vek17/TabletopTweaks-Base)
 > *前置：* TabletopTweaks-Core<br>
-> *中文：* **自带中文（部分内容没更新）**<br>
+> *中文：* **自带中文**<br>
 > *安装方式：* UMM<br>
 > *修改内容：* UI、核心规则、法术、专长、职业特性、神话能力、神话专长，等<br>
 > *新增内容：* 变体、巅峰、法术、专长、种族、背景，等<br>
@@ -1323,7 +1323,7 @@
 -------------------------------------------
 ### [TabletopTweaks-Reworks](https://github.com/Vek17/TabletopTweaks-Reworks)
 > *前置：* TabletopTweaks-Core<br>
-> *中文：* **自带中文（部分内容需要更新）**<br>
+> *中文：* **自带中文**<br>
 > *安装方式：* UMM<br>
 > *修改内容：* 神话能力、神话专长，道途等<br>
 > *新增内容：* 神话道途能力<br>
@@ -1615,7 +1615,7 @@
 -------------------------------------------
 ### [TomeOfTheFirebird](https://github.com/pheonix99/TomeOfTheFirebird)
 > *前置：* TabletopTweaks-Core<br>
-> *中文：* **无**<br>
+> *中文：* **QL汉化**<br>
 > *安装方式：* UMM<br>
 > *修改内容：* 修复部分BUG，职业能力调整<br>
 > *新增内容：* 物品、法术等<br>
@@ -1850,7 +1850,7 @@
 -------------------------------------------
 ### [ToggleableThrowingWeapons](https://github.com/pheonix99/ToggleableThrowingWeapons)
 > *前置：* 无<br>
-> *中文：* **已有汉化（本人提供，QL挂载）**<br>
+> *中文：* **QL汉化**<br>
 > *安装方式：* **UMM**<br>
 > *修改内容：* 匕首和星刃投掷<br>
 + 小型MOD，持有匕首和星刃时会多出一个开关型能力，可以自由在**远程使用和近战使用**间切换。
@@ -2611,7 +2611,7 @@ Metamagic Master 超魔主宰：指定一个法术。当你超魔施展该法术
 ------------------------------------------- 
 ### [AddedFeats](https://github.com/Telyl/AddedFeats)
 > *前置：* ModMenu<br>
-> *中文：* **已有汉化（@HerryZheng8提供，QL挂载）**<br>
+> *中文：* **QL汉化（@HerryZheng8提供）**<br>
 > *安装方式：* **UMM**<br>
 > *修改内容：* <br>
 > *新增内容：* 专长，法术<br>
@@ -2851,7 +2851,7 @@ C:\Users\你的用户名\AppData\LocalLow\Owlcat Games\Pathfinder Wrath Of The R
 ### [KineticistElementsExpanded](https://github.com/SpencerMycek/KineticistExpandedElements)
 + [贴吧汉化帖](https://tieba.baidu.com/p/8112471310)
 > *前置：* 无<br>
-> *中文：* **汉化发布**<br>
+> *中文：* **汉化**<br>
 > *安装方式：* **UMM**<br>
 > *修改内容：* <br>
 > *新增内容：* 操念使元素<br>
@@ -2870,7 +2870,7 @@ C:\Users\你的用户名\AppData\LocalLow\Owlcat Games\Pathfinder Wrath Of The R
 ### [NinjaClass](https://www.nexusmods.com/pathfinderwrathoftherighteous/mods/233)
 [2.10汉化发布贴](https://tieba.baidu.com/p/8303652146?qq-pf-to=pcqq.c2c)
 > *前置：* 无<br>
-> *中文：* **无**<br>
+> *中文：* **汉化**<br>
 > *安装方式：* **非UMM**<br>
 > *修改内容：* <br>
 > *新增内容：* 忍者职业<br>
@@ -2879,7 +2879,7 @@ C:\Users\你的用户名\AppData\LocalLow\Owlcat Games\Pathfinder Wrath Of The R
 ------------------------------------------- 
 ### [BrawlerClass](https://www.nexusmods.com/pathfinderwrathoftherighteous/mods/207)
 > *前置：* 无<br>
-> *中文：* **已有汉化（本人提供，QL挂载）**<br>
+> *中文：* **QL汉化**<br>
 > *安装方式：* **UMM**<br>
 > *修改内容：* <br>
 > *新增内容：* 拳师职业<br>
@@ -2914,7 +2914,7 @@ C:\Users\你的用户名\AppData\LocalLow\Owlcat Games\Pathfinder Wrath Of The R
 -------------------------------------------   
 ### [AlternateHumanTraits](https://github.com/microsoftenator2022/AlternateHumanTraits)
 > *前置：* 无<br>
-> *中文：* **已有汉化（本人提供，QL挂载）**<br>
+> *中文：* **QL汉化**<br>
 > *安装方式：* **UMM**<br>
 > *修改内容：* <br>
 > *新增内容：* 人类替换种族特性<br>
@@ -3041,7 +3041,7 @@ C:\Users\你的用户名\AppData\LocalLow\Owlcat Games\Pathfinder Wrath Of The R
 
 ### CyniikalBrokenFeatures
 > *前置：* 无<br>
-> *中文：* **已有汉化（本人维护，QL挂载）**<br>
+> *中文：* **QL汉化**<br>
 > *安装方式：* **UMM**<br>
 > *新增内容：* 法师学派：虚<br>
 + 增加了法师的虚学派
