@@ -1627,7 +1627,7 @@
    <tr><td>圣疗救赎：Injured 救赎创伤（给予快速治疗）、Ensorcelled 救赎蛊惑（驱散，可对敌）</td></tr>
    <tr><td rowspan="12">法术<br><i>参阅PF文档</i></td>
        <td>Bone Fists 骸骨之拳：增加天生防御和天生武器伤害</td></tr>
-   <tr><td>Chains Of Fire 火焰链：闪电链火焰版本</td></tr>
+   <tr><td>Chains Of Fire 连环炽焰：闪电链火焰版本</td></tr>
    <tr><td>Fire Shield 火焰护盾：攻击者受到火焰伤害并减免寒冷伤害，也有完全相反的寒冷版本</td></tr>
    <tr><td>Vitrolic Mist 硫酸雾甲：火焰护盾酸蚀版</td></tr>
    <tr><td>Entropic Shield 熵光护盾：偏转远程攻击</td></tr>
