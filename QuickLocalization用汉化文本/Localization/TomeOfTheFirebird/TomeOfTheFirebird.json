@@ -1,0 +1,1094 @@
+   [
+    {
+      "Key": "1fce4d74954144fbb8722476ae513ba4",
+      "SimpleName": "BloodragerPheonixBloodlineWandering.Name",
+      "ProcessTemplates": false,
+      "enGB": "",
+      "ruRU": null,
+      "deDE": null,
+      "frFR": null,
+      "zhCN": "",
+      "esES": null
+    },
+    {
+      "Key": "52e7a7e35795436aa91250d6eb6cdaaf",
+      "SimpleName": "BloodragerPheonixMoltenWings.Description",
+      "ProcessTemplates": true,
+      "enGB": "At 12th level, you spout molten wings during bloodrage",
+      "ruRU": null,
+      "deDE": null,
+      "frFR": null,
+      "zhCN": "12级起，你在血承狂暴时喷出炽焰之翼",
+      "esES": null
+    },
+    {
+      "Key": "f4348ba827e44eb9a59f367df7a6cd7b",
+      "SimpleName": "BloodragerPheonixMoltenWings.Name",
+      "ProcessTemplates": false,
+      "enGB": "Molten Wings",
+      "ruRU": null,
+      "deDE": null,
+      "frFR": null,
+      "zhCN": "熔岩之翼",
+      "esES": null
+    },
+    {
+      "Key": "cc1c1278b8054a6aa94ff40d68e5ea22",
+      "SimpleName": "BloodragerPhoenixBaseBuff.Name",
+      "ProcessTemplates": false,
+      "enGB": "Phoenix Bloodrage",
+      "ruRU": null,
+      "deDE": null,
+      "frFR": null,
+      "zhCN": "凤凰血承狂暴",
+      "esES": null
+    },
+    {
+      "Key": "b40733d0596f42559aaa58b81d2d1669",
+      "SimpleName": "BloodragerPhoenixBlazingVitality.Description",
+      "ProcessTemplates": true,
+      "enGB": "When tensions run high and your emotions flare, you let forth waves of restorative energy from within. At 8th level, you emit a 10-foot-radius aura of energizing fire while bloodraging. Any ally that ends their turn within this aura gains a number of temporary hit points equal to your Constitution modifier. These temporary hit points last for 1 minute.",
+      "ruRU": null,
+      "deDE": null,
+      "frFR": null,
+      "zhCN": "当紧张情绪高涨，情绪爆发时，你会从内心释放出一波又一波的恢复性能量。8级起，你会在血承狂暴时释放出半径为10尺的能量火焰光环。任何在这个光环中结束回合的盟友都会获得与你的体质调整值相等的临时生命值。这些临时生命值持续1分钟。",
+      "esES": null
+    },
+    {
+      "Key": "a08956b8f10349d49caa7f54470b74ba",
+      "SimpleName": "BloodragerPhoenixBlazingVitality.Name",
+      "ProcessTemplates": false,
+      "enGB": "Blazing Vitality",
+      "ruRU": null,
+      "deDE": null,
+      "frFR": null,
+      "zhCN": "焕发活力",
+      "esES": null
+    },
+    {
+      "Key": "e7dc5cbe0e1d42d89f19dfd08fa39375",
+      "SimpleName": "BloodragerPhoenixBlazingVitalityBuff.Description",
+      "ProcessTemplates": true,
+      "enGB": "When tensions run high and your emotions flare, you let forth waves of restorative energy from within. At 8th level, you emit a 10-foot-radius aura of energizing fire while bloodraging. Any ally that ends their turn within this aura gains a number of temporary hit points equal to your Constitution modifier. These temporary hit points last for 1 minute.",
+      "ruRU": null,
+      "deDE": null,
+      "frFR": null,
+      "zhCN": "当紧张情绪高涨，情绪爆发时，你会从内心释放出一波又一波的恢复性能量。8级起，你会在血承狂暴时释放出半径为10尺的能量火焰光环。任何在这个光环中结束回合的盟友都会获得与你的体质调整值相等的临时生命值。这些临时生命值持续1分钟。",
+      "esES": null
+    },
+    {
+      "Key": "a2d66d28096c48c6918a599ab2eae550",
+      "SimpleName": "BloodragerPhoenixBlazingVitalityEffectBuff.Description",
+      "ProcessTemplates": true,
+      "enGB": "When tensions run high and your emotions flare, you let forth waves of restorative energy from within. At 8th level, you emit a 10-foot-radius aura of energizing fire while bloodraging. Any ally that ends their turn within this aura gains a number of temporary hit points equal to your Constitution modifier. These temporary hit points last for 1 minute.",
+      "ruRU": null,
+      "deDE": null,
+      "frFR": null,
+      "zhCN": "当紧张情绪高涨，情绪爆发时，你会从内心释放出一波又一波的恢复性能量。8级起，你会在血承狂暴时释放出半径为10尺的能量火焰光环。任何在这个光环中结束回合的盟友都会获得与你的体质调整值相等的临时生命值。这些临时生命值持续1分钟。",
+      "esES": null
+    },
+    {
+      "Key": "64a293f88e3e4d5886df5ce5ce0c3601",
+      "SimpleName": "BloodragerPhoenixBloodline.Description",
+      "ProcessTemplates": true,
+      "enGB": "One of your ancestors may have witnessed the fiery resurrection of a phoenix or been healed by the grace of this legendary bird. Whatever the case, the flames of the phoenix burn brightly within your soul, filling you with an inextinguishable vitality that can withstand the most harrowing of assaults. .\nWhen you bloodrage, vibrant energy boils forth from beneath your skin, granting you both the soothing warmth to heal a friend’s wounds and the brutal power to burn flesh from bone. Your rage is an awesome and terrible thing to behold, as the raw power of your untamed life force can allow you to pull yourself back from the grasp of death itself.\nCombat Reflexes, Critical Focus, Diehard, Dodge, Endurance, Improved Initiative, <b><color=#703565><link=\"Encyclopedia:Mobility\">Mobility</link></color></b>\nBonus Spells: Burning Hands(7th), Lesser Restoration (10th), Cure Serious Wounds (13th), Fire Shield (16th).",
+      "ruRU": null,
+      "deDE": null,
+      "frFR": null,
+      "zhCN": "你的一位祖先可能目睹了凤凰涅槃，或者被这只传说中的鸟的恩典治愈过。不管如何，凤凰的火焰现在在你的灵魂熊熊燃烧，让你充满了难以磨灭的活力，能够承受最惨烈的攻击。\n当你进入血承狂暴时，充满活力的能量在你的皮肤下沸腾，同时赋予你能治愈盟友的舒缓温度和能焚敌骨肉的残酷火力。你的狂暴是一件如此可怕而令人敬畏，因为你那狂野的原始生命力甚至可以让你从死亡的掌控中抽身而出。\n额外{g|Encyclopedia:Feat}专长{/g}：战斗反射、重击专攻 、顽强、闪避、坚韧、精通先攻、灵活移动。\n额外{g|Encyclopedia:Spell}法术{/g}：燃烧之手（7级）、次级复原术（10级）、治疗重伤（13级）、火焰护盾（16级）。",
+      "esES": null
+    },
+    {
+      "Key": "0c8072e3f50349a8b95be252c9bf1655",
+      "SimpleName": "BloodragerPhoenixBloodline.Name",
+      "ProcessTemplates": false,
+      "enGB": "Phoenix",
+      "ruRU": null,
+      "deDE": null,
+      "frFR": null,
+      "zhCN": "凤凰",
+      "esES": null
+    },
+    {
+      "Key": "68f9469c3a67418f8e8112ed1261a489",
+      "SimpleName": "BloodragerPhoenixDispellingStrikesDisplay.Description",
+      "ProcessTemplates": true,
+      "enGB": "At 1st level, when you confirm a critical hit against a target, you can also attempt to dispel the target as if you had cast dispel magic as a bloodrager spell and used the targeted dispel function. You can dispel only a single magical effect per use of this ability, and you can use this ability against a particular creature only once per day. At 8th level, you gain a +2 bonus on your dispel check when using this ability. At 20th level, you can attempt to dispel all magical effects on your target when using this ability.",
+      "ruRU": null,
+      "deDE": null,
+      "frFR": null,
+      "zhCN": "1级起，当你确认对目标的暴击时，你也可以尝试对其使用驱散，就好像你以血怒者法术，对目标使用了驱散魔法（目标）一样。每次使用该能力只能驱散一个魔法效果，并且每天只能对特定生物使用一次。8级起，使用此能力时，你的驱散检定会获得+2加值。20级起，你可以尝试在使用该技能时驱散目标上的所有魔法效果。",
+      "esES": null
+    },
+    {
+      "Key": "16296281707d44c3bb4ace444fbeba49",
+      "SimpleName": "BloodragerPhoenixDispellingStrikesDisplay.Name",
+      "ProcessTemplates": false,
+      "enGB": "Dispelling Strikes",
+      "ruRU": null,
+      "deDE": null,
+      "frFR": null,
+      "zhCN": "驱魔一击",
+      "esES": null
+    },
+    {
+      "Key": "73790964bcb34dec99349f73031f2c80",
+      "SimpleName": "BloodragerPhoenixDispellingStrikesLevel1.Description",
+      "ProcessTemplates": true,
+      "enGB": "At 1st level, when you confirm a critical hit against a target, you can also attempt to dispel the target as if you had cast dispel magic as a bloodrager spell and used the targeted dispel function. You can dispel only a single magical effect per use of this ability, and you can use this ability against a particular creature only once per day. At 8th level, you gain a +2 bonus on your dispel check when using this ability. At 20th level, you can attempt to dispel all magical effects on your target when using this ability.",
+      "ruRU": null,
+      "deDE": null,
+      "frFR": null,
+      "zhCN": "1级起，当你确认对目标的暴击时，你也可以尝试对其使用驱散，就好像你以血怒者法术，对目标使用了驱散魔法（目标）一样。每次使用该能力只能驱散一个魔法效果，并且每天只能对特定生物使用一次。8级起，使用此能力时，你的驱散检定会获得+2加值。20级起，你可以尝试在使用该技能时驱散目标上的所有魔法效果。",
+      "esES": null
+    },
+    {
+      "Key": "a20e64c9f03448c1a0594fc211e1d7c1",
+      "SimpleName": "BloodragerPhoenixDispellingStrikesLevel1Buff.Description",
+      "ProcessTemplates": true,
+      "enGB": "At 1st level, when you confirm a critical hit against a target, you can also attempt to dispel the target as if you had cast dispel magic as a bloodrager spell and used the targeted dispel function. You can dispel only a single magical effect per use of this ability, and you can use this ability against a particular creature only once per day. At 8th level, you gain a +2 bonus on your dispel check when using this ability. At 20th level, you can attempt to dispel all magical effects on your target when using this ability.",
+      "ruRU": null,
+      "deDE": null,
+      "frFR": null,
+      "zhCN": "1级起，当你确认对目标的暴击时，你也可以尝试对其使用驱散，就好像你以血怒者法术，对目标使用了驱散魔法（目标）一样。每次使用该能力只能驱散一个魔法效果，并且每天只能对特定生物使用一次。8级起，使用此能力时，你的驱散检定会获得+2加值。20级起，你可以尝试在使用该技能时驱散目标上的所有魔法效果。",
+      "esES": null
+    },
+    {
+      "Key": "2a48c75da8214e91b03ae0fa6008a663",
+      "SimpleName": "BloodragerPhoenixDispellingStrikesLevel20.Description",
+      "ProcessTemplates": true,
+      "enGB": "At 1st level, when you confirm a critical hit against a target, you can also attempt to dispel the target as if you had cast dispel magic as a bloodrager spell and used the targeted dispel function. You can dispel only a single magical effect per use of this ability, and you can use this ability against a particular creature only once per day. At 8th level, you gain a +2 bonus on your dispel check when using this ability. At 20th level, you can attempt to dispel all magical effects on your target when using this ability.",
+      "ruRU": null,
+      "deDE": null,
+      "frFR": null,
+      "zhCN": "1级起，当你确认对目标的暴击时，你也可以尝试对其使用驱散，就好像你以血怒者法术，对目标使用了驱散魔法（目标）一样。每次使用该能力只能驱散一个魔法效果，并且每天只能对特定生物使用一次。8级起，使用此能力时，你的驱散检定会获得+2加值。20级起，你可以尝试在使用该技能时驱散目标上的所有魔法效果。",
+      "esES": null
+    },
+    {
+      "Key": "84aa2ab0170a4ec3866e260773f480e3",
+      "SimpleName": "BloodragerPhoenixDispellingStrikesLevel20Buff.Description",
+      "ProcessTemplates": true,
+      "enGB": "At 1st level, when you confirm a critical hit against a target, you can also attempt to dispel the target as if you had cast dispel magic as a bloodrager spell and used the targeted dispel function. You can dispel only a single magical effect per use of this ability, and you can use this ability against a particular creature only once per day. At 8th level, you gain a +2 bonus on your dispel check when using this ability. At 20th level, you can attempt to dispel all magical effects on your target when using this ability.",
+      "ruRU": null,
+      "deDE": null,
+      "frFR": null,
+      "zhCN": "1级起，当你确认对目标的暴击时，你也可以尝试对其使用驱散，就好像你以血怒者法术，对目标使用了驱散魔法（目标）一样。每次使用该能力只能驱散一个魔法效果，并且每天只能对特定生物使用一次。8级起，使用此能力时，你的驱散检定会获得+2加值。20级起，你可以尝试在使用该技能时驱散目标上的所有魔法效果。",
+      "esES": null
+    },
+    {
+      "Key": "e683cc47a70944f582fadb993af21a8b",
+      "SimpleName": "BloodragerPhoenixDispellingStrikesLevel8.Description",
+      "ProcessTemplates": true,
+      "enGB": "At 1st level, when you confirm a critical hit against a target, you can also attempt to dispel the target as if you had cast dispel magic as a bloodrager spell and used the targeted dispel function. You can dispel only a single magical effect per use of this ability, and you can use this ability against a particular creature only once per day. At 8th level, you gain a +2 bonus on your dispel check when using this ability. At 20th level, you can attempt to dispel all magical effects on your target when using this ability.",
+      "ruRU": null,
+      "deDE": null,
+      "frFR": null,
+      "zhCN": "1级起，当你确认对目标的暴击时，你也可以尝试对其使用驱散，就好像你以血怒者法术，对目标使用了驱散魔法（目标）一样。每次使用该能力只能驱散一个魔法效果，并且每天只能对特定生物使用一次。8级起，使用此能力时，你的驱散检定会获得+2加值。20级起，你可以尝试在使用该技能时驱散目标上的所有魔法效果。",
+      "esES": null
+    },
+    {
+      "Key": "7ba064d6f9bb4125a52941c70055b792",
+      "SimpleName": "BloodragerPhoenixDispellingStrikesLevel8Buff.Description",
+      "ProcessTemplates": true,
+      "enGB": "At 1st level, when you confirm a critical hit against a target, you can also attempt to dispel the target as if you had cast dispel magic as a bloodrager spell and used the targeted dispel function. You can dispel only a single magical effect per use of this ability, and you can use this ability against a particular creature only once per day. At 8th level, you gain a +2 bonus on your dispel check when using this ability. At 20th level, you can attempt to dispel all magical effects on your target when using this ability.",
+      "ruRU": null,
+      "deDE": null,
+      "frFR": null,
+      "zhCN": "1级起，当你确认对目标的暴击时，你也可以尝试对其使用驱散，就好像你以血怒者法术，对目标使用了驱散魔法（目标）一样。每次使用该能力只能驱散一个魔法效果，并且每天只能对特定生物使用一次。8级起，使用此能力时，你的驱散检定会获得+2加值。20级起，你可以尝试在使用该技能时驱散目标上的所有魔法效果。",
+      "esES": null
+    },
+    {
+      "Key": "ef6a71fa0c07438eb7735c3423a3d4d1",
+      "SimpleName": "BloodragerPhoenixFeatSelection.Description",
+      "ProcessTemplates": true,
+      "enGB": "Combat Reflexes, Critical Focus, Diehard, Dodge, Endurance, Improved Initiative, Mobility",
+      "ruRU": null,
+      "deDE": null,
+      "frFR": null,
+      "zhCN": "战斗反射、重击专攻 、顽强、闪避、坚韧、精通先攻、灵活移动",
+      "esES": null
+    },
+    {
+      "Key": "90c2dd994c694eef901e02858fa55baa",
+      "SimpleName": "BloodragerPhoenixFeatSelection.Name",
+      "ProcessTemplates": false,
+      "enGB": "Bonus Feats",
+      "ruRU": null,
+      "deDE": null,
+      "frFR": null,
+      "zhCN": "额外专长",
+      "esES": null
+    },
+    {
+      "Key": "ba77c383b5b64805a6ee121a88d68c72",
+      "SimpleName": "BloodragerPhoenixFire.Description",
+      "ProcessTemplates": true,
+      "enGB": "The power of the phoenix brings righteous destruction to any who oppose it. At 20th level, while bloodraging, you gain the following effects: your melee attacks deal an additional 2d6 points of fire damage, any enemies within 20 feet of you must succeed at a Reflex save (DC = 10 + 1/2 your bloodrager level + your Constitution modifier) or take 4d6 points of fire damage at the start of their turn, and any creature that attacks you with a natural or non-reach weapon takes 1d6 points of fire damage (no save) with each successful hit.",
+      "ruRU": null,
+      "deDE": null,
+      "frFR": null,
+      "zhCN": "凤凰的力量会给任何反对它的人带来正义的毁灭。20级起，血承狂暴下你会获得以下效果：你的近战攻击会额外造成2d6点的火焰伤害，距离你20英尺以内的任何敌人都必须成功进行反射豁免（DC=10+1/2你的血怒者等级+你的体质调整值），否则在回合开始时受到4d6点的火伤害，任何使用天生武器或非长触及武器攻击你的生物，每次成功命中都会受到1d6点的火焰伤害（无豁免）。",
+      "esES": null
+    },
+    {
+      "Key": "24140a03c7784a2f9e03379dd4ba7a21",
+      "SimpleName": "BloodragerPhoenixFire.Name",
+      "ProcessTemplates": false,
+      "enGB": "Phoenix Fire",
+      "ruRU": null,
+      "deDE": null,
+      "frFR": null,
+      "zhCN": "凤凰火焰",
+      "esES": null
+    },
+    {
+      "Key": "fb6aaeea59f548bd8be14fc0405dd845",
+      "SimpleName": "BloodragerPhoenixFireBuff.Description",
+      "ProcessTemplates": true,
+      "enGB": "The power of the phoenix brings righteous destruction to any who oppose it. At 20th level, while bloodraging, you gain the following effects: your melee attacks deal an additional 2d6 points of fire damage, any enemies within 20 feet of you must succeed at a Reflex save (DC = 10 + 1/2 your bloodrager level + your Constitution modifier) or take 4d6 points of fire damage at the start of their turn, and any creature that attacks you with a natural or non-reach weapon takes 1d6 points of fire damage (no save) with each successful hit.",
+      "ruRU": null,
+      "deDE": null,
+      "frFR": null,
+      "zhCN": "凤凰的力量会给任何反对它的人带来正义的毁灭。20级起，血承狂暴下你会获得以下效果：你的近战攻击会额外造成2d6点的火焰伤害，距离你20英尺以内的任何敌人都必须成功进行反射豁免（DC=10+1/2你的血怒者等级+你的体质调整值），否则在回合开始时受到4d6点的火伤害，任何使用天生武器或非长触及武器攻击你的生物，每次成功命中都会受到1d6点的火焰伤害（无豁免）。",
+      "esES": null
+    },
+    {
+      "Key": "d2ed325f0cda42d492fd3e519f1b0e18",
+      "SimpleName": "BloodragerPhoenixHeartOfFire.Description",
+      "ProcessTemplates": true,
+      "enGB": "At 4th level, you gain fire resistance 5. Whenever you are subjected to a magical healing effect from a cure spell, you regain 1 additional hit point per die rolled. At 8th level, your fire resistance increases to 10, and you regain 2 additional hit points per die rolled when you are healed by a cure spell.",
+      "ruRU": null,
+      "deDE": null,
+      "frFR": null,
+      "zhCN": "4级起，你获得5点火焰抗力。每当你受到治疗法术的魔法治疗效果时，每个骰子会使你获得1点额外的生命值。8级起来，你的火焰抗力增加到10，当你被治疗法术治愈时，每个骰子会使你获得2点额外的生命值。",
+      "esES": null
+    },
+    {
+      "Key": "dc116bca28134ffeaba9f40e526dadb7",
+      "SimpleName": "BloodragerPhoenixHeartOfFire.Name",
+      "ProcessTemplates": false,
+      "enGB": "Heart Of Fire",
+      "ruRU": null,
+      "deDE": null,
+      "frFR": null,
+      "zhCN": "火之心",
+      "esES": null
+    },
+    {
+      "Key": "f37e4d052df94f068d5305e3802cd9e4",
+      "SimpleName": "BloodragerPhoenixHeartOfFireBuff.Description",
+      "ProcessTemplates": true,
+      "enGB": "At 4th level, you gain fire resistance 5. Whenever you are subjected to a magical healing effect from a cure spell, you regain 1 additional hit point per die rolled. At 8th level, your fire resistance increases to 10, and you regain 2 additional hit points per die rolled when you are healed by a cure spell.",
+      "ruRU": null,
+      "deDE": null,
+      "frFR": null,
+      "zhCN": "4级起，你获得5点火焰抗力。每当你受到治疗法术的魔法治疗效果时，每个骰子会使你获得1点额外的生命值。8级起来，你的火焰抗力增加到10，当你被治疗法术治愈时，每个骰子会使你获得2点额外的生命值。",
+      "esES": null
+    },
+    {
+      "Key": "c082874e1bc540cc8e9add8bafacdd9b",
+      "SimpleName": "BloodragerPhoenixHeartOfFireBuff.Name",
+      "ProcessTemplates": false,
+      "enGB": "HeartOfFire",
+      "ruRU": null,
+      "deDE": null,
+      "frFR": null,
+      "zhCN": "火之心",
+      "esES": null
+    },
+    {
+      "Key": "7db37fd69b49428c8d0b32fa17a06c50",
+      "SimpleName": "BloodragerPhoenixSelfResurrection.Description",
+      "ProcessTemplates": true,
+      "enGB": "From the ashes of your body springs forth new life. At 16th level, once per day when you are reduced below 0 hit points while you are bloodraging, you can call upon the power in your blood to pull yourself back from death. This functions as a breath of life spell cast upon yourself. At 20th level, this instead functions as a heal spell, except that the healing can return you to life as per breath of life, using your bloodrager level as your caster level. Using this ability does not take an action. This ability does not function if your body is completely destroyed by an effect such as disintegrate.",
+      "ruRU": null,
+      "deDE": null,
+      "frFR": null,
+      "zhCN": "你从身体的灰烬中孕育出新的生命。第16级起，当你血承狂暴状态下生命值降低到0点以下时，你可以每天一次调用血液中的力量将自己从死亡中唤回。这如同对你自己释放生命之息。在20级时，改为如同医疗术的作用，此医疗术可以让你如同生命之息般起死回生，使用你的血怒者等级作为施法等级。使用此功能不会花费任何动作。如果你的身体被分解等效果完全摧毁，这种能力无法发挥作用。",
+      "esES": null
+    },
+    {
+      "Key": "c3969bd169c24fffb43240f10e382c19",
+      "SimpleName": "BloodragerPhoenixSelfResurrectionEffectBuff.Description",
+      "ProcessTemplates": true,
+      "enGB": "From the ashes of your body springs forth new life. At 16th level, once per day when you are reduced below 0 hit points while you are bloodraging, you can call upon the power in your blood to pull yourself back from death. This functions as a breath of life spell cast upon yourself. At 20th level, this instead functions as a heal spell, except that the healing can return you to life as per breath of life, using your bloodrager level as your caster level. Using this ability does not take an action. This ability does not function if your body is completely destroyed by an effect such as disintegrate.",
+      "ruRU": null,
+      "deDE": null,
+      "frFR": null,
+      "zhCN": "你从身体的灰烬中孕育出新的生命。第16级起，当你血承狂暴状态下生命值降低到0点以下时，你可以每天一次调用血液中的力量将自己从死亡中唤回。这如同对你自己释放生命之息。在20级时，改为如同医疗术的作用，此医疗术可以让你如同生命之息般起死回生，使用你的血怒者等级作为施法等级。使用此功能不会花费任何动作。如果你的身体被分解等效果完全摧毁，这种能力无法发挥作用。",
+      "esES": null
+    },
+    {
+      "Key": "0351569da39a4ec7af295de6ca568381",
+      "SimpleName": "BloodragerPhoenixSelfResurrectionEffectBuff.Name",
+      "ProcessTemplates": false,
+      "enGB": "Self-Resurrection",
+      "ruRU": null,
+      "deDE": null,
+      "frFR": null,
+      "zhCN": "额外法术（自我复生）",
+      "esES": null
+    },
+    {
+      "Key": "e86a765221734f8794458f197bed2cdd",
+      "SimpleName": "BloodragerPhoenixSpell10.Description",
+      "ProcessTemplates": true,
+      "enGB": "At 7th, 10th, 13th, and 16th levels, a bloodrager learns an additional spell derived from his bloodline.",
+      "ruRU": null,
+      "deDE": null,
+      "frFR": null,
+      "zhCN": "7级、10级、13级以及16级时，血怒者学会来自血承的额外{g|Encyclopedia:Spell}法术{/g}。 ",
+      "esES": null
+    },
+    {
+      "Key": "7146dca84914465b848d779fea55d332",
+      "SimpleName": "BloodragerPhoenixSpell10.Name",
+      "ProcessTemplates": false,
+      "enGB": "Bonus Spell — Lesser Restoration",
+      "ruRU": null,
+      "deDE": null,
+      "frFR": null,
+      "zhCN": "额外法术（次级复原术）",
+      "esES": null
+    },
+    {
+      "Key": "276fb5f570e04c99a0b45cc323af349c",
+      "SimpleName": "BloodragerPhoenixSpell13.Description",
+      "ProcessTemplates": true,
+      "enGB": "At 7th, 10th, 13th, and 16th levels, a bloodrager learns an additional spell derived from his bloodline.",
+      "ruRU": null,
+      "deDE": null,
+      "frFR": null,
+      "zhCN": "7级、10级、13级以及16级时，血怒者学会来自血承的额外{g|Encyclopedia:Spell}法术{/g}。 ",
+      "esES": null
+    },
+    {
+      "Key": "c845afae234143e0a1b70f69f3672d48",
+      "SimpleName": "BloodragerPhoenixSpell13.Name",
+      "ProcessTemplates": false,
+      "enGB": "Bonus Spell — Cure Serious Wounds",
+      "ruRU": null,
+      "deDE": null,
+      "frFR": null,
+      "zhCN": "额外法术（治疗重伤）",
+      "esES": null
+    },
+    {
+      "Key": "89e549c5004542338e3c2e977a6ee736",
+      "SimpleName": "BloodragerPhoenixSpell16.Description",
+      "ProcessTemplates": true,
+      "enGB": "At 7th, 10th, 13th, and 16th levels, a bloodrager learns an additional spell derived from his bloodline.",
+      "ruRU": null,
+      "deDE": null,
+      "frFR": null,
+      "zhCN": "7级、10级、13级以及16级时，血怒者学会来自血承的额外{g|Encyclopedia:Spell}法术{/g}。 ",
+      "esES": null
+    },
+    {
+      "Key": "a0b2bc0442a3490493cff19faa989377",
+      "SimpleName": "BloodragerPhoenixSpell16.Name",
+      "ProcessTemplates": false,
+      "enGB": "Bonus Spell — Fire Shield",
+      "ruRU": null,
+      "deDE": null,
+      "frFR": null,
+      "zhCN": "额外法术（火焰护盾）",
+      "esES": null
+    },
+    {
+      "Key": "234f01c506554132b750ee70c574b071",
+      "SimpleName": "BloodragerPhoenixSpell7.Description",
+      "ProcessTemplates": true,
+      "enGB": "At 7th, 10th, 13th, and 16th levels, a bloodrager learns an additional spell derived from his bloodline.",
+      "ruRU": null,
+      "deDE": null,
+      "frFR": null,
+      "zhCN": "7级、10级、13级以及16级时，血怒者学会来自血承的额外{g|Encyclopedia:Spell}法术{/g}。 ",
+      "esES": null
+    },
+    {
+      "Key": "1b60d9923fdf49119d4698070720c1ab",
+      "SimpleName": "BloodragerPhoenixSpell7.Name",
+      "ProcessTemplates": false,
+      "enGB": "Bonus Spell — Burning Hands",
+      "ruRU": null,
+      "deDE": null,
+      "frFR": null,
+      "zhCN": "额外法术（燃烧之手）",
+      "esES": null
+    },
+    {
+      "Key": "cd17ce39e5404abca5ca4baf984a711f",
+      "SimpleName": "PhoenixBloodlineRequisiteFeature.Description",
+      "ProcessTemplates": true,
+      "enGB": "Phoenix Bloodline Requisite Feature",
+      "ruRU": null,
+      "deDE": null,
+      "frFR": null,
+      "zhCN": "凤凰血承必须特性",
+      "esES": null
+    },
+    {
+      "Key": "869f6b750e8f421abd6a435fc124c984",
+      "SimpleName": "PhoenixBloodlineRequisiteFeature.Name",
+      "ProcessTemplates": false,
+      "enGB": "Phoenix Bloodline",
+      "ruRU": null,
+      "deDE": null,
+      "frFR": null,
+      "zhCN": "凤凰血承",
+      "esES": null
+    },
+    {
+      "Key": "106aa454677740c4a1febe73d1642664",
+      "SimpleName": "TieflingNoAlternateTrait.Description",
+      "ProcessTemplates": true,
+      "enGB": "No Alternate Trait",
+      "ruRU": null,
+      "deDE": null,
+      "frFR": null,
+      "zhCN": "无替换特性",
+      "esES": null
+    },
+    {
+      "Key": "3451885546df4141a5fb3630d2186752",
+      "SimpleName": "TieflingNoAlternateTrait.Name",
+      "ProcessTemplates": false,
+      "enGB": "None",
+      "ruRU": null,
+      "deDE": null,
+      "frFR": null,
+      "zhCN": "无",
+      "esES": null
+    },
+    {
+      "Key": "EldritchScionSageArchetype.Desc",
+      "zhCN": "与典型的法师不同，奥法传贤者不仅仅研读魔法书卷，也不仅仅花时间学习如何将武术与魔法相结合。他们的法术来自于血脉世代积累的知识和传统，而不仅仅是自身的力量。你使用你的{g|Encyclopedia:Intelligence}智力{/g}来确定你的法术效果和魔法类能力的效果，就像普通法师一样；并同样用{g|Encyclopedia:Intelligence}智力{/g}确定血承的效果，就像贤者术士一样。"
+    },
+    {
+      "Key": "EldritchScionSageArchetype.Name",
+      "zhCN": "奥法传贤者"
+    },
+    {
+      "Key": "DragonClaws1d4DamageFeature.Desc",
+      "zhCN": "1级起，你能够以{g|Encyclopedia:Free_Action}自由动作{/g}长出利爪。利爪被视为{g|Encyclopedia:NaturalAttack}天生武器{/g}，使你能够在整轮{g|Encyclopedia:Attack}攻击{/g}时，以最高{g|Encyclopedia:BAB}基础攻击加值{/g}进行2次爪抓攻击。每次攻击造成{g|Encyclopedia:Dice}1d4{/g}（小体型则为1d3点）+{g|Encyclopedia:Strength}力量{/g}调整值的{g|Encyclopedia:Damage}伤害{/g}。达到5级后，利爪在穿透{g|Encyclopedia:Damage_Reduction}伤害减免{/g}时可视为魔法武器。达到7级后，伤害提高一级，变为1d6点（小体型则为1d4点）。达到11级后，利爪在攻击命中后额外造成1d6点{g|Encyclopedia:Energy_Damage}伤害（类型取决于血承）{/g}。你每天可使用爪抓的{g|Encyclopedia:Combat_Round}轮数{/g}等于3+{g|Encyclopedia:Charisma}魅力{/g}调整值。生效轮次无需连续。"
+    },
+    {
+      "Key": "DragonClaws1d4DamageFeature.Name",
+      "zhCN": "龙爪"
+    },
+    {
+      "Key": "ElementalStrikesFireBurstBuff.Desc",
+      "zhCN": "元素打击爆发模式"
+    },
+    {
+      "Key": "ElementalStrikesFireBurstBuff.Name",
+      "zhCN": "元素打击爆发模式"
+    },
+    {
+      "Key": "ElementalStrikesColdBurstBuff.Desc",
+      "zhCN": "元素打击爆发模式"
+    },
+    {
+      "Key": "ElementalStrikesColdBurstBuff.Name",
+      "zhCN": "元素打击爆发模式"
+    },
+    {
+      "Key": "ElementalStrikesElectricityBurstBuff.Desc",
+      "zhCN": "元素打击爆发模式"
+    },
+    {
+      "Key": "ElementalStrikesElectricityBurstBuff.Name",
+      "zhCN": "元素打击爆发模式"
+    },
+    {
+      "Key": "ElementalStrikesAcidBurstBuff.Desc",
+      "zhCN": "元素打击爆发模式"
+    },
+    {
+      "Key": "ElementalStrikesAcidBurstBuff.Name",
+      "zhCN": "元素打击爆发模式"
+    },
+    {
+      "Key": "MonsterSlayersRe.Desc",
+      "zhCN": "所有单位获得{g|ReadyForAnything}[应对万全]{/g}专长。"
+    },
+    {
+      "Key": "MonsterSlayersRe2.Desc",
+      "zhCN": "所有单位获得{g|ReadyForAnything}[应对万全]{/g}专长。"
+    },
+    {
+      "Key": "CombatBoostFeatureSelector.Name",
+      "zhCN": ""
+    },
+    {
+      "Key": "CombatBoostFeatureSelector.Desc",
+      "zhCN": ""
+    },
+    {
+      "Key": "AncestralScorn.Name",
+      "zhCN": "先祖蔑视"
+    },
+    {
+      "Key": "AncestralScorn.Desc",
+      "zhCN": "源自你炼狱先祖的愤怒给予那些邪恶异界生物一个很好的理由去害怕你。\n效果：当你成功使用威吓检定挫败邪恶子类的异界生物的士气时，目标除了受到挫败士气的正常影响以外，还会恶心1轮。如果你的检定高于DC5点或更多的话，该生物则会反胃1轮以取代恶心效果。"
+    },
+    {
+      "Key": "ArmorOfThePitMasterFeature.Name",
+      "zhCN": "深渊铠甲"
+    },
+    {
+      "Key": "ArmorOfThePitMasterFeature.Desc",
+      "zhCN": "你获得+2天生防御加值。\n 特殊：如果你拥有鳞片皮肤种族特性，则改为获得+1天生防御，并在寒冷、电击以及火焰这三种能量类型中选择两种你尚未获得抗力的类型，并获得5点能量抗力。"
+    },
+    {
+      "Key": "ArmorOfThePitSSOnFeature.Name",
+      "zhCN": "深渊铠甲（鳞片皮肤）"
+    },
+    {
+      "Key": "ArmorOfThePitSSOffFeature.Name",
+      "zhCN": "深渊铠甲"
+    },
+    {
+      "Key": "AotPSSonResistFireFeature.Name",
+      "zhCN": "深渊铠甲：抵抗火焰"
+    },
+    {
+      "Key": "AotPSSonResistColdFeature.Name",
+      "zhCN": "深渊铠甲：抵抗寒冷"
+    },
+    {
+      "Key": "AotPSSonResistElectricityFeature.Name",
+      "zhCN": "深渊铠甲：抵抗电击"
+    },
+    {
+      "Key": "AbilityFocusBreathWeapon.Name",
+      "zhCN": "能力专攻 - 吐息武器"
+    },
+    {
+      "Key": "AbilityFocusBreathWeapon.Desc",
+      "zhCN": "你的吐息武器DC+2"
+    },
+    {
+      "Key": "BurnResistanceFeature.Name",
+      "zhCN": "超载抵抗"
+    },
+    {
+      "Key": "BurnResistanceFeature.Desc",
+      "zhCN": "计算操念超载处罚时将自己等级视为低2级计算"
+    },
+    {
+      "Key": "CoordinatedShot.Name",
+      "zhCN": "准线规避"
+    },
+    {
+      "Key": "CoordinatedShot.Desc",
+      "zhCN": "若拥有该专长的盟友威胁一个目标，且其不会在你远程攻击该目标时提供软掩蔽，你该对目标的远程攻击检定就获得+1加值。如果该盟友与其他盟友（不必拥有此专长）正在夹击此目标，那么你以此获得的攻击加值上升到+2。"
+    },
+    {
+      "Key": "DiscordantSongAllyBuff.Name",
+      "zhCN": "不谐之歌（盟友）"
+    },
+    {
+      "Key": "DiscordantSongAllyBuff.Desc",
+      "zhCN": "吟游演艺使得你的近战攻击和对区域内目标的远程攻击造成额外1d6的声波伤害。"
+    },
+    {
+      "Key": "DiscordantSongEnemyBuff.Name",
+      "zhCN": "不谐之歌（敌人）"
+    },
+    {
+      "Key": "DiscordantSongEnemyBuff.Desc",
+      "zhCN": "远程攻击对该目标造成额外1d6的声波伤害。"
+    },
+    {
+      "Key": "DiscordantSongBuff.Name",
+      "zhCN": "表演不谐之歌"
+    },
+    {
+      "Key": "DiscordantSongBuff.Desc",
+      "zhCN": "距离你30尺以内的盟友在成功武器击中时额外造成1d6点的声波伤害，该伤害与武器可能造成的其他能量伤害叠加。投射武器的弹药同样会造成额外伤害，但只有当命中目标也距离你30尺以内时，才会造成额外伤害。"
+    },
+    {
+      "Key": "DiscordantSong.Name",
+      "zhCN": "表演不谐之歌"
+    },
+    {
+      "Key": "DiscordantSong.Desc",
+      "zhCN": "当你使用吟游演艺时，距离你30尺以内的盟友在成功武器击中时额外造成1d6点的声波伤害，该伤害与武器可能造成的其他能量伤害叠加。投射武器的弹药同样会造成额外伤害，但只有当命中目标也距离你30尺以内时，才会造成额外伤害。"
+    },
+    {
+      "Key": "ExtendedBufferFeature.Name",
+      "zhCN": "额外念力缓冲"
+    },
+    {
+      "Key": "ExtendedBufferFeature.Desc",
+      "zhCN": "您可以增加你念力缓冲职业特性的存储量1。\n特殊：此专长可以在7级获取一次，在第13级和第19级再次获取。"
+    },
+    {
+      "Key": "ExtraBurnFeature.Name",
+      "zhCN": "额外超载"
+    },
+    {
+      "Key": "ExtraBurnFeature.Desc",
+      "zhCN": "增加每日可承受超载2点\n特殊：你可以多次获得此专长，效果叠加。"
+    },
+    {
+      "Key": "LastwallPhalanx.Name",
+      "zhCN": "终焉之墙"
+    },
+    {
+      "Key": "LastwallPhalanx.Desc",
+      "zhCN": "在对抗邪恶生物攻击的AC和对抗邪恶生物法术和效果的豁免上，获得等同拥有此专长的相邻战友数量的神圣加值。"
+    },
+    {
+      "Key": "ProdigiousTWF.Name",
+      "zhCN": "有力双武器战斗"
+    },
+    {
+      "Key": "ProdigiousTWF.Desc",
+      "zhCN": "你能在副手如同轻型武器一般使用单手武器。额外的，你能用你的力量属性代替敏捷属性来满足双武器战斗和以双武器战斗为先决的专长的先决条件。"
+    },
+    {
+      "Key": "SunderingStrike.Name",
+      "zhCN": "破甲重击"
+    },
+    {
+      "Key": "SunderingStrike.Desc",
+      "zhCN": "当你在近战攻击中确认重击时，除了攻击造成的正常伤害外，你还可以撕裂对手的护甲。如果你的确认掷骰超过了对手的CMD，你可能会击破对手的盔甲，如同使用了击破盔甲战技能。这不会引发借机攻击。"
+    },
+    {
+      "Key": "SunderingStrikeToggleAbility.Name",
+      "zhCN": "破甲重击"
+    },
+    {
+      "Key": "SunderingStrikeToggleAbility.Desc",
+      "zhCN": "当你在近战攻击中确认重击时，除了攻击造成的正常伤害外，你还可以撕裂对手的护甲。如果你的确认掷骰超过了对手的CMD，你可能会击破对手的盔甲，如同使用了击破盔甲战技能。这不会引发借机攻击。"
+    },
+    {
+      "Key": "SwarmStrike.Name",
+      "zhCN": "集群攻击"
+    },
+    {
+      "Key": "SwarmStrike.Desc",
+      "zhCN": "当敌人引起你的借机攻击时，你的攻击得到＋1加值，每多一个拥有此专长并威胁该敌人的盟友再＋1。"
+    },
+    {
+      "Key": "PurifierLimitedCures.Name",
+      "zhCN": "基础治疗法术"
+    },
+    {
+      "Key": "PurifierLimitedCures.Desc",
+      "zhCN": "净化者仍可使用大部分基础治疗法术"
+    },
+    {
+      "Key": "CelestialArmorProgression.Name",
+      "zhCN": "天界盔甲"
+    },
+    {
+      "Key": "CelestialArmorProgression.Desc",
+      "zhCN": "7级起，净化师的盔甲呈现出金色或银色的光泽，变得像羽毛一样轻。她会获得比她的先知等级低4级的战士的防具训练。这也包含了高级护甲训练。在11级时，净化师获得重型盔甲擅长。 "
+    },
+    {
+      "Key": "InternalBufferResource.Name",
+      "zhCN": "念力缓冲"
+    },
+    {
+      "Key": "InternalBufferResource.Desc",
+      "zhCN": "6级起，操念使对自己身体与元素念力进行了长时间的研究，这让她可以在体内构筑出内在储念缓冲池用以存贮额外的能量。\n当她从别的途径承受超载时，操念使可以从其缓冲池中花费1点能量避免承受超载。她可以每天进行一次该动作。在17和16级，获得额外此能力的使用次数。"
+    },
+    {
+      "Key": "InternalBufferActivatableAbility.Name",
+      "zhCN": "念力缓冲"
+    },
+    {
+      "Key": "InternalBufferActivatableAbility.Desc",
+      "zhCN": "6级起，操念使对自己身体与元素念力进行了长时间的研究，这让她可以在体内构筑出内在储念缓冲池用以存贮额外的能量。\n当她从别的途径承受超载时，操念使可以从其缓冲池中花费1点能量避免承受超载。她可以每天进行一次该动作。在17和16级，获得额外此能力的使用次数。"
+    },
+    {
+      "Key": "MercyEnsorcelled.Name",
+      "zhCN": "救赎（驱魔）"
+    },
+    {
+      "Key": "MercyEnsorcelled.Desc",
+      "zhCN": "圣武士使用圣疗为目标{g|Encyclopedia:Healing}治疗{/g}{g|Encyclopedia:Damage}伤害{/g}的同时，也会附带驱散魔法，使用圣骑士等级作为施法者等级。  "
+    },
+    {
+      "Key": "MercyInjured.Name",
+      "zhCN": "救赎（创伤）"
+    },
+    {
+      "Key": "MercyInjured.Desc",
+      "zhCN": "圣武士使用圣疗时为目标{g|Encyclopedia:Healing}治疗{/g}{g|Encyclopedia:Damage}伤害{/g}的同时给予目标快速治疗3，持续1/2圣武士等级。"
+    },
+    {
+      "Key": "MercyInjuredBuff.Name",
+      "zhCN": "救赎（创伤）"
+    },
+    {
+      "Key": "MercyInjuredBuff.Desc",
+      "zhCN": "圣武士使用圣疗时为目标{g|Encyclopedia:Healing}治疗{/g}{g|Encyclopedia:Damage}伤害{/g}的同时给予目标快速治疗3"
+    },
+    {
+      "Key": "MythicKineticDefensesEffectFeature.Name",
+      "zhCN": "神话念盾"
+    },
+    {
+      "Key": "MythicKineticDefensesEffectFeature.Desc",
+      "zhCN": "神话能力增强了你的护身原力，护身原力现在如同你使用1点免费超载增强了他们，在神话阶层3,6和9获得额外1点。"
+    },
+    {
+      "Key": "TieflingNAStackerFeature.Name",
+      "zhCN": "魔裔天生防御"
+    },
+    {
+      "Key": "MawTieflingRacialFeature.Name",
+      "zhCN": "尖牙或利爪（尖牙）"
+    },
+    {
+      "Key": "MawTieflingRacialFeature.Desc",
+      "zhCN": "有的魔裔呈现出更多他们残忍祖先的兽性特征。这些魔裔拥有强有力的尖牙或危险的利爪。魔裔可以选择造成1d6伤害的啮咬攻击或者每只造成1d4伤害的双爪。这些攻击方式属于天生武器。该特性取代类法术能力。"
+    },
+    {
+      "Key": "ClawTieflingRacialFeature.Name",
+      "zhCN": "尖牙或利爪（利爪）"
+    },
+    {
+      "Key": "ClawTieflingRacialFeature.Desc",
+      "zhCN": "有的魔裔呈现出更多他们残忍祖先的兽性特征。这些魔裔拥有强有力的尖牙或危险的利爪。魔裔可以选择造成1d6伤害的啮咬攻击或者每只造成1d4伤害的双爪。这些攻击方式属于天生武器。该特性取代类法术能力。"
+    },
+    {
+      "Key": "ClawTieflingRacialBuff.Name",
+      "zhCN": "尖牙或利爪（利爪）"
+    },
+    {
+      "Key": "ClawTieflingRacialBuff.Desc",
+      "zhCN": "有的魔裔呈现出更多他们残忍祖先的兽性特征。这些魔裔拥有强有力的尖牙或危险的利爪。魔裔可以选择造成1d6伤害的啮咬攻击或者每只造成1d4伤害的双爪。这些攻击方式属于天生武器。该特性取代类法术能力。"
+    },
+    {
+      "Key": "ClawTieflingRacialToggle.Name",
+      "zhCN": "尖牙或利爪（利爪）"
+    },
+    {
+      "Key": "ClawTieflingRacialToggle.Desc",
+      "zhCN": "有的魔裔呈现出更多他们残忍祖先的兽性特征。这些魔裔拥有强有力的尖牙或危险的利爪。魔裔可以选择造成1d6伤害的啮咬攻击或者每只造成1d4伤害的双爪。这些攻击方式属于天生武器。该特性取代类法术能力。"
+    },
+    {
+      "Key": "ScaledSkinTieflingRacialFeature.Name",
+      "zhCN": "鳞片皮肤"
+    },
+    {
+      "Key": "ScaledSkinTieflingRacialFeature.Desc",
+      "zhCN": "某些魔裔的皮肤给予他们能量抗力，同时也坚硬如甲。选择以下能量类型之一：寒冷，电击或火焰。拥有该特性的魔裔获得5点该种类型的能量抗力，并且还获得1点天生防御。"
+    },
+    {
+      "Key": "ScaledSkinResistFireFeature.Name",
+      "zhCN": "鳞片皮肤：抗火"
+    },
+    {
+      "Key": "ScaledSkinResistFireFeature.Desc",
+      "zhCN": "某些魔裔的皮肤给予他们能量抗力，同时也坚硬如甲。拥有该特性的魔裔获得5点火焰抗力，并且还获得1点天生防御。"
+    },
+    {
+      "Key": "ScaledSkinResistElectricityFeature.Name",
+      "zhCN": "鳞片皮肤：抗电"
+    },
+    {
+      "Key": "ScaledSkinResistElectricityFeature.Desc",
+      "zhCN": "某些魔裔的皮肤给予他们能量抗力，同时也坚硬如甲。拥有该特性的魔裔获得5点电击抗力，并且还获得1点天生防御。"
+    },
+    {
+      "Key": "ScaledSkinResistColdFeature.Name",
+      "zhCN": "鳞片皮肤：抗寒"
+    },
+    {
+      "Key": "ScaledSkinResistColdFeature.Desc",
+      "zhCN": "某些魔裔的皮肤给予他们能量抗力，同时也坚硬如甲。拥有该特性的魔裔获得5点寒冷抗力，并且还获得1点天生防御。"
+    },
+    {
+      "Key": "TieflingAlternateTraitSelector.Name",
+      "zhCN": "替换特性"
+    },
+    {
+      "Key": "TieflingAlternateTraitSelector.Desc",
+      "zhCN": "不同的地方和生活条件造就了与同龄人不同的亚种族。他们获得了独特的种族特征，来替换一些常见的特征。"
+    },
+    {
+      "Key": "ElementalStanceRagePowerSelector.Name",
+      "zhCN": "元素战姿"
+    },
+    {
+      "Key": "ElementalStanceRagePowerSelector.Desc",
+      "zhCN": "当野蛮人采取这种战姿时，她选择一种能量类型（酸，寒，电，火）。她的近战攻击额外造成1点该能量类型伤害，在8级时提升为1d6，12级时重击会造成额外1d10该能量类型伤害（如果重击倍数X3则为2d10，重击倍数X4则为3d10）。"
+    },
+    {
+      "Key": "RageStanceMastery.Name",
+      "zhCN": "狂暴姿态大师"
+    },
+    {
+      "Key": "RageStanceMastery.Desc",
+      "zhCN": "野蛮人可以同时使用两种狂暴姿态"
+    },
+    {
+      "Key": "WildTalentClockworkHeart.Name",
+      "zhCN": "械动之心"
+    },
+    {
+      "Key": "WildTalentClockworkHeart.Desc",
+      "zhCN": "元素：土\n类型：通用(Su)\n等级： 3\n超载： —\n你已经用你的力量支配了金属，为你自己的身体添加了发条组件。只要这些发条组件保持生效（根据发条子类型决定生效能力），你就可以获得精通先攻和闪电反射专长的好处。"
+    },
+    {
+      "Key": "ShimmeringMirageWildTalent.Name",
+      "zhCN": "微光幻影"
+    },
+    {
+      "Key": "ShimmeringMirageWildTalent.Desc",
+      "zhCN": "你的护罩能够偏折光线，形成闪亮的幻影。当你启动水之护罩后，对你进行的攻击会由于隐蔽而承受20%的失手率，直至你所承受的超载移除为止。"
+    },
+    {
+      "Key": "ShimmeringMirageWildTalentAbility.Name",
+      "zhCN": "微光幻影"
+    },
+    {
+      "Key": "ShimmeringMirageWildTalentAbility.Desc",
+      "zhCN": "你的护罩能够偏折光线，形成闪亮的幻影。当你启动水之护罩后，对你进行的攻击会由于隐蔽而承受20%的失手率，直至你所承受的超载移除为止。"
+    },
+    {
+      "Key": "ShimmeringMirageWildTalentBuff.Name",
+      "zhCN": "微光幻影"
+    },
+    {
+      "Key": "ShimmeringMirageWildTalentBuff.Desc",
+      "zhCN": "你的护罩能够偏折光线，形成闪亮的幻影。当你启动水之护罩后，对你进行的攻击会由于隐蔽而承受20%的失手率，直至你所承受的超载移除为止。"
+    },
+    {
+      "Key": "ShimmeringMirageWildTalentSystemBuff.Name",
+      "zhCN": "微光幻影"
+    },
+    {
+      "Key": "ShimmeringMirageWildTalentSystemBuff.Desc",
+      "zhCN": "你的护罩能够偏折光线，形成闪亮的幻影。当你启动水之护罩后，对你进行的攻击会由于隐蔽而承受20%的失手率，直至你所承受的超载移除为止。"
+    },
+    {
+      "Key": "WitchAnimalPatronProgression.Name",
+      "zhCN": "动物"
+    },
+    {
+      "Key": "WitchDeathPatronProgression.Name",
+      "zhCN": "死亡"
+    },
+    {
+      "Key": "WitchPlaguePatronProgression.Name",
+      "zhCN": "瘟疫"
+    },
+    {
+      "Key": "WitchLightPatronProgression.Name",
+      "zhCN": "光明"
+    },
+    {
+      "Key": "WitchProtectionPatronProgression.Name",
+      "zhCN": "保护"
+    },
+    {
+      "Key": "BracersOfTheAvengingKnightEnchant.Name",
+      "zhCN": "复仇骑士护腕"
+    },
+    {
+      "Key": "BracersOfTheAvengingKnightEnchant.Desc",
+      "zhCN": "如果佩戴者有职业给予类似辟邪斩、辟乱斩的能力（如圣骑士或地狱骑士），计算其伤害时，她的职业等级将被视为比实际值高4级。"
+    },
+    {
+      "Key": "BracersOfTheAvengingKnight.Name",
+      "zhCN": "复仇骑士护腕"
+    },
+    {
+      "Key": "BracersOfTheAvengingKnight.Desc",
+      "zhCN": "这对银色护腕被抛光成镜面光泽，在其他方面它们的外观会自动改变，以匹配任何盔甲。\n如果佩戴者有职业给予类似辟邪斩、辟乱斩的能力（如圣骑士或地狱骑士），计算其伤害时，她的职业等级将被视为比实际值高4级。"
+    },
+    {
+      "Key": "BracersOfTheMercifulKnightEnchant.Name",
+      "zhCN": "仁慈骑士护腕"
+    },
+    {
+      "Key": "BracersOfTheMercifulKnightEnchant.Desc",
+      "zhCN": "被圣骑士装备时，在计算圣疗的每日使用次数或者治疗效果时，她的职业等级被视为比实际值高4级。"
+    },
+    {
+      "Key": "BracersOfTheMercifulKnight.Name",
+      "zhCN": "仁慈骑士护腕"
+    },
+    {
+      "Key": "BracersOfTheMercifulKnight.Desc",
+      "zhCN": "这对金色的护腕上绘着天界生物的图样。\n被圣骑士装备时，在计算圣疗的每日使用次数或者治疗效果时，她的职业等级被视为比实际值高4级。"
+    },
+    {
+      "Key": "Fly.Name",
+      "ProcessTemplates": false,
+      "zhCN": "飞行"
+    },
+    {
+      "Key": "Fly.Desc",
+      "ProcessTemplates": false,
+      "zhCN": "目标获得飞行，增加10尺速度，忽略地面效果，并对近战攻击在AC上获得+3闪避加值。"
+    },
+    {
+      "Key": "EntropicShield.Name",
+      "ProcessTemplates": false,
+      "zhCN": "熵光护盾"
+    },
+    {
+      "Key": "EntropicShield.Desc",
+      "ProcessTemplates": false,
+      "zhCN": "你周围出现闪着多种混乱色调的魔法场。这个魔法场可使箭矢、射线以及其他远程攻击偏斜。这些瞄准你的远程攻击的攻击者若必须做攻击检定的话，则有20%的失手率，这类似于隐蔽的效果。其他仅仅是从远处发起的攻击不受影响。"
+    },
+    {
+      "Key": "HealMount.Name",
+      "ProcessTemplates": false,
+      "zhCN": "医疗坐骑"
+    },
+    {
+      "Key": "HealMount.Desc",
+      "ProcessTemplates": false,
+      "zhCN": "该法术的功能如同‘医疗术 (heal)’一般，不过只影响圣骑士的特殊坐骑 (通常为马匹)。\n医疗术可以让你向生物引导正向能量，驱除{g|Encyclopedia:Damage}伤害{/g}和负向效果。它可立即结束以下所有影响目标的不利状态：{g|Encyclopedia:AbilityDamage}属性伤害{/g}、目盲、困惑、眩晕、目眩、患病、力竭、疲劳、反胃、中毒、恶心及震慑。它还能{g|Encyclopedia:Healing}治疗{/g}伤害，恢复10点/每施法者等级的{g|Encyclopedia:HP}生命值{/g}（在15级时达到最多的150点）。\n医疗术不会移除负向等级，也无法恢复永久的属性流失。"
+    },
+    {
+      "Key": "HealMountCast.Name",
+      "ProcessTemplates": false,
+      "zhCN": "医疗坐骑"
+    },
+    {
+      "Key": "HealMountCast.Desc",
+      "ProcessTemplates": false,
+      "zhCN": "该法术的功能如同‘医疗术 (heal)’一般，不过只影响圣骑士的特殊坐骑 (通常为马匹)。\n医疗术可以让你向生物引导正向能量，驱除{g|Encyclopedia:Damage}伤害{/g}和负向效果。它可立即结束以下所有影响目标的不利状态：{g|Encyclopedia:AbilityDamage}属性伤害{/g}、目盲、困惑、眩晕、目眩、患病、力竭、疲劳、反胃、中毒、恶心及震慑。它还能{g|Encyclopedia:Healing}治疗{/g}伤害，恢复10点/每施法者等级的{g|Encyclopedia:HP}生命值{/g}（在15级时达到最多的150点）。\n医疗术不会移除负向等级，也无法恢复永久的属性流失。"
+    },
+    {
+      "Key": "BoneFists.Name",
+      "ProcessTemplates": false,
+      "zhCN": "骸骨之拳"
+    },
+    {
+      "Key": "BoneFists.Desc",
+      "ProcessTemplates": false,
+      "zhCN": "你目标关节中的骨头变得厚而锋利，从指、肘、肩、脊柱和膝部等关节处痛苦地穿透出皮肤。每个目标获得+1天生防御加值和天生武器伤害骰上的+2加值。"
+    },
+    {
+      "Key": "BurstOfRadiance.Name",
+      "ProcessTemplates": false,
+      "zhCN": "光耀爆发"
+    },
+    {
+      "Key": "BurstOfRadiance.Desc",
+      "ProcessTemplates": false,
+      "zhCN": "该法术把目标区域笼罩在耀眼的闪光中。区域内生物目盲1d4轮，反射豁免成功目眩（dazzled）1d4轮。邪恶生物遭到每施法等级1d4点伤害（最高5d4），无论是否豁免成功。"
+    },
+    {
+      "Key": "ChainsOfFire.Name",
+      "ProcessTemplates": false,
+      "zhCN": "连环炽焰"
+    },
+    {
+      "Key": "ChainsOfFire.Desc",
+      "ProcessTemplates": false,
+      "zhCN": "除了用火焰伤害替代闪电伤害以外，该法术的作用方式和链状闪电一样。\n链状闪电：此{g|Encyclopedia:Spell}法术{/g}会让你的指尖释放出闪电形成一次冲击。[LONGSTART]与闪电束不同，链状闪电先攻击一个物品或生物，然后形成电弧攻击其他目标。[LONGEND]\n这道闪电会对主要目标造成每{g|Encyclopedia:Caster_Level}施法者等级{/g}{g|Encyclopedia:Dice}1d6{/g}点{g|Encyclopedia:Energy_Damage}电击伤害{/g}（最高20d6点）。链状闪电击中目标后，还可以弹射出电弧，攻击数目等于施法者等级（最高20个）的次要目标。每道击中次要目标的闪电会造成与主要目标相同的{g|Encyclopedia:Damage}伤害{/g}。\n每个目标都可以尝试反射{g|Encyclopedia:Saving_Throw}豁免{/g}以使受到的伤害减半。次要目标应在主要目标30英尺的范围内，并且只会受到一次攻击。"
+    },
+    {
+      "Key": "FireShieldWarm.Name",
+      "ProcessTemplates": false,
+      "zhCN": "火焰护盾"
+    },
+    {
+      "Key": "FireShieldWarm.Desc",
+      "ProcessTemplates": false,
+      "zhCN": "这个法术将火焰环绕在你的身上，并且对每个在近战中攻击你的生物造成伤害。这种火焰同时还在基于寒冷的攻击中保护你，基于寒冷的攻击只能对你造成一半的伤害。如果这类攻击允许通过反射豁免来减半伤害，那么当豁免成功时，你将不受伤害。\n任何用肢体或手持武器攻击到你的人依然造成正常伤害，但是同时攻击者会受到 1d6+CL (最高+15) 点火焰伤害。如果攻击者有法术抗力，那么它可以应用在该效果上。使用长触及武器的生物在攻击你时不会受到这个伤害。"
+    },
+    {
+      "Key": "FireShieldCold.Name",
+      "ProcessTemplates": false,
+      "zhCN": "冷焰护盾"
+    },
+    {
+      "Key": "FireShieldCold.Desc",
+      "ProcessTemplates": false,
+      "zhCN": "这个法术将冷焰环绕在你的身上，并且对每个在近战中攻击你的生物造成伤害。这种冷焰同时还在基于火焰的攻击中保护你，基于火焰的攻击只能对你造成一半的伤害。如果这类攻击允许通过反射豁免来减半伤害，那么当豁免成功时，你将不受伤害。\n任何用肢体或手持武器攻击到你的人依然造成正常伤害，但是同时攻击者会受到 1d6+CL (最高+15) 点寒冷伤害。如果攻击者有法术抗力，那么它可以应用在该效果上。使用长触及武器的生物在攻击你时不会受到这个伤害。"
+    },
+    {
+      "Key": "VitrolicMist.Name",
+      "ProcessTemplates": false,
+      "zhCN": "硫酸之雾"
+    },
+    {
+      "Key": "VitrolicMist.Desc",
+      "ProcessTemplates": false,
+      "zhCN": "这个法术将硫酸云雾环绕在你的身上，并且对每个在近战中攻击你的生物造成伤害。这种云雾同时还在基于酸蚀的攻击中保护你，基于酸蚀的攻击只能对你造成一半的伤害。如果这类攻击允许通过反射豁免来减半伤害，那么当豁免成功时，你将不受伤害。\n任何用肢体或手持武器攻击到你的人依然造成正常伤害，但是同时攻击者会受到 1d6+CL (最高+15) 点酸蚀伤害。如果攻击者有法术抗力，那么它可以应用在该效果上。使用长触及武器的生物在攻击你时不会受到这个伤害。"
+    },
+    {
+      "Key": "FreezingSphere.Name",
+      "ProcessTemplates": false,
+      "zhCN": "冰封法球"
+    },
+    {
+      "Key": "FreezingSphere.Desc",
+      "ProcessTemplates": false,
+      "zhCN": "冰封法球以寒冷能量创造出一个冻寒能量组成的小球，从你的指尖射出飞向你选择的地点，之后在那里造成半径20或40尺的爆发，对区域内的每个生物造成每CL 1d6点寒冷伤害 (最多20d6)。水系亚种生物会受到每CL 1d8点寒冷伤害 (最多20d8) 并且会恍惚1d4轮。"
+    },
+    {
+      "Key": "FreezingSphereSmall.Name",
+      "ProcessTemplates": false,
+      "zhCN": "冰封法球（小）"
+    },
+    {
+      "Key": "FreezingSphereSmall.Desc",
+      "ProcessTemplates": false,
+      "zhCN": "冰封法球以寒冷能量创造出一个冻寒能量组成的小球，从你的指尖射出飞向你选择的地点，之后在那里造成半径20尺的爆发，对区域内的每个生物造成每CL 1d6点寒冷伤害 (最多20d6)。水系亚种生物会受到每CL 1d8点寒冷伤害 (最多20d8) 并且会恍惚1d4轮。"
+    },
+    {
+      "Key": "FreezingSphereBig.Name",
+      "ProcessTemplates": false,
+      "zhCN": "冰封法球（大）"
+    },
+    {
+      "Key": "FreezingSphereBig.Desc",
+      "ProcessTemplates": false,
+      "zhCN": "冰封法球以寒冷能量创造出一个冻寒能量组成的小球，从你的指尖射出飞向你选择的地点，之后在那里造成半径40尺的爆发，对区域内的每个生物造成每CL 1d6点寒冷伤害 (最多20d6)。水系亚种生物会受到每CL 1d8点寒冷伤害 (最多20d8) 并且会恍惚1d4轮。"
+    },
+    {
+      "Key": "GloomblindBolts.Name",
+      "ProcessTemplates": false,
+      "zhCN": "黑盲矢"
+    },
+    {
+      "Key": "GloomblindBolts.Desc",
+      "ProcessTemplates": false,
+      "zhCN": "　你创造了一支或多支注入阴影位面能量的负能量弩矢。你能创造1支，加上5级之后每4施法者等级1支的弩矢 (最多13级3支)。你能使其射向同一个或不同的若干个目标，不过所有目标彼此距离不得超过30尺。若远程接触攻击命中，每支弩矢对活物造成4d6伤害或对不死生物提供4d6治疗。此外，弩矢的能量将会包裹目标的皮肤，使其在短时间内陷入目盲。任何被弩矢命中的生物如果反射检定失败则会目盲1轮。"
+    },
+    {
+      "Key": "KeenEdge.Name",
+      "ProcessTemplates": false,
+      "zhCN": "锐锋术"
+    },
+    {
+      "Key": "KeenEdge.Desc",
+      "ProcessTemplates": false,
+      "zhCN": "这个法术可以使一件武器锋利异常，提升其重击能力。该法术使武器的重击范围加倍。原重击范围为20者变为19 – 20, 原为19 – 20者变为17 – 20, 原为18 – 20者变为15 – 20。此法术只能施展在穿刺或挥砍武器上。如果施展在箭矢或弩矢上，那么无论是否击中目标，这支箭矢上的锐锋术都会在使用一次后结束。在判断该法术的功用时，将手里剑视为箭矢，而非投掷武器。\n多种增加武器重击范围的效果 (例如锐锋术和‘精通重击’专长) 不能相叠加。你不能将该法术施放至天生武器上，比如爪抓。"
+    },
+    {
+      "Key": "SpearOfPurity.Name",
+      "ProcessTemplates": false,
+      "zhCN": "纯善之矛"
+    },
+    {
+      "Key": "SpearOfPurity.Desc",
+      "ProcessTemplates": false,
+      "zhCN": "你从你的圣徽中发射出一支白色或金色的长矛，对范围内的任一目标进行远程接触攻击。\n一个邪恶的生物被长矛击中会造成每两施法者等级1d8点伤害 (最高5d8)。\n而一个邪恶异界生物将会受到每施法者等级1d6点伤害 (最高10d6) 并且目盲一轮。一个成功的意志检定将会使伤害减半并且不会目盲。\n长矛对一个既不善良也不邪恶的生物造成一半伤害，并且不会目盲。\n长矛不会对善良阵营的生物造成任何伤害。"
+    },
+    {
+      "Key": "TelekineticStrikes.Name",
+      "ProcessTemplates": false,
+      "zhCN": "念力打击"
+    },
+    {
+      "Key": "TelekineticStrikes.Desc",
+      "ProcessTemplates": false,
+      "zhCN": "接触的生物的肢体充满了意念力量。在法术持续时间内，目标的徒手攻击或者天生武器攻击在成功的徒手攻击命中时造成额外1d4点力场伤害。"
+    }
+  ]
