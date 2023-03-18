@@ -39,7 +39,7 @@
 | [CharacterOptionsPlus](#CharacterOptionsPlus) | 角色选项+ | 自带 | :heavy_check_mark: | :star::star::star: | :file_folder::file_folder::file_folder: |||
 | [DarkCodex](#DarkCodex) | DarkCodex扩展和修复 | 汉化 | :heavy_check_mark: | :star::star::star: |  :file_folder::file_folder::file_folder: |🛠️🛠️ ||
 | [AddedFeats](#AddedFeats) | 新增专长 | QL汉化 | :heavy_check_mark: |  :star::star: |  :file_folder::file_folder: |||
-| [BetterBackgrounds](#BetterBackgrounds) | 更多背景 | 汉化| :x: |:star::star: | :file_folder: | 🛠️ ||
+| [BetterBackgrounds](#BetterBackgrounds) | 更多背景 | QL汉化| :x: |:star::star: | :file_folder: | 🛠️ ||
 | [MartialExcellence](#MartialExcellence) | 杰出武艺 | 自带 |:heavy_check_mark: | :star::star: | :file_folder::file_folder: |||
 | [MediumClass](#MediumClass)| 通灵者职业 |  | :heavy_check_mark: |  | :file_folder: ||:steam_locomotive:|
 | [MysticalMayhem](#MysticalMayhem) | 神秘骚乱 | 自带 | :heavy_check_mark: | :star::star::star: | :file_folder::file_folder: |||
@@ -2652,7 +2652,7 @@ Metamagic Master 超魔主宰：指定一个法术。当你超魔施展该法术
 ------------------------------------------- 
 ### [BetterBackgrounds](https://www.nexusmods.com/pathfinderwrathoftherighteous/mods/205)
 > *前置：* 无<br>
-> *中文：* **本处提供汉化**<br>
+> *中文：* **QL汉化**<br>
 > *安装方式：* **非UMM**<br>
 > *修改内容：* <br>
 > *新增内容：* 人物背景<br>
