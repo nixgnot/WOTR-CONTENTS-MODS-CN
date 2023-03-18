@@ -134,10 +134,14 @@
 + 外挂汉化文件需为JSON格式，文件名不限（建议建立子文件夹并妥善命名，方便管理）
 
 目前已经完成的汉化：
-**Brawler(拳师) MOD 2.10用版本**
-**AlternateHumanTraits（人类替换特性）**
-**CyniikalBrokenFeatures（法师虚学派，在release中有）**
-**ToggleableThrowingWeapons（可切换投掷武器）**
++ **Brawler(拳师) MOD 2.10用版本**
++ **AlternateHumanTraits（人类替换特性）**
++ **CyniikalBrokenFeatures（法师虚学派，在release中有）**
++ **ToggleableThrowingWeapons（可切换投掷武器）**
++ **AddedFeats**
++ **SparsSorcerousSundries**
++ **TomeOfTheFirebird**
++ **CharacterOptionsPlus(临时补充)** CharacterOptionsPlus汉化已经提交给官方但是有遗漏，此处提供临时补充汉化
 
 
 本文档会不定期更新补充一些汉化
