@@ -28,7 +28,7 @@
 | [TabletopTweaks-Reworks](#TabletopTweaks-Reworks)  | TTT神话扩展 | 自带 | :heavy_check_mark:  | :star::star: | :file_folder::file_folder: | 🛠️🛠️ ||
 | [TabletopTweaks-Flanking](#TabletopTweaks-Flanking)   | TTT夹击扩展 |   | :heavy_check_mark:  | :star::star: | :file_folder: | 🛠️🛠️ ||
 | [MicroscopicContentExpansion](#MicroscopicContentExpansion)|Microscopic内容扩展| QL汉化 | :heavy_check_mark: | :star::star::star: | :file_folder::file_folder: |||
-| [SparsSorcerousSundries](#SparsSorcerousSundries) | SSS扩展 | 汉化 | :heavy_check_mark: | :star::star: | :file_folder::file_folder: |||
+| [SparsSorcerousSundries](#SparsSorcerousSundries) | SSS扩展 | QL汉化 | :heavy_check_mark: | :star::star: | :file_folder::file_folder: |||
 | [TomeOfTheFirebird](#TomeOfTheFirebird) | TOTF扩展 | QL汉化 | :heavy_check_mark: | :star::star::star: | :file_folder::file_folder::file_folder: |||
 | [HomebrewArchetypes](#HomebrewArchetypes) | Homebrew(房规)变体 | 自带 | :x: | :star::star::star: | :file_folder::file_folder::file_folder: |||
 | [ExpandedContent2022](#ExpandedContent2022)  | 内容扩展2022 | 汉化 | :heavy_check_mark: | :star: | :file_folder::file_folder::file_folder: |||
@@ -141,6 +141,7 @@
 + **AddedFeats**
 + **SparsSorcerousSundries**
 + **TomeOfTheFirebird**
++ **MicroscopicContentExpansion**
 + **CharacterOptionsPlus(临时补充)** CharacterOptionsPlus汉化已经提交给官方但是有遗漏，此处提供临时补充汉化
 
 
@@ -1597,7 +1598,7 @@
 -------------------------------------------
 ### [SparsSorcerousSundries](https://github.com/TheSparhawk/SparsSorcerousSundries)
 > *前置：* TabletopTweaks-Core<br>
-> *中文：* **无**<br>
+> *中文：* **QL汉化**<br>
 > *安装方式：* UMM<br>
 > *修改内容：* 修复辉光最终形态附魔效果<br>
 > *新增内容：* 物品、法术等<br>
