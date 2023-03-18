@@ -994,6 +994,16 @@
       "zhCN": "除了用火焰伤害替代闪电伤害以外，该法术的作用方式和链状闪电一样。\n链状闪电：此{g|Encyclopedia:Spell}法术{/g}会让你的指尖释放出闪电形成一次冲击。[LONGSTART]与闪电束不同，链状闪电先攻击一个物品或生物，然后形成电弧攻击其他目标。[LONGEND]\n这道闪电会对主要目标造成每{g|Encyclopedia:Caster_Level}施法者等级{/g}{g|Encyclopedia:Dice}1d6{/g}点{g|Encyclopedia:Energy_Damage}电击伤害{/g}（最高20d6点）。链状闪电击中目标后，还可以弹射出电弧，攻击数目等于施法者等级（最高20个）的次要目标。每道击中次要目标的闪电会造成与主要目标相同的{g|Encyclopedia:Damage}伤害{/g}。\n每个目标都可以尝试反射{g|Encyclopedia:Saving_Throw}豁免{/g}以使受到的伤害减半。次要目标应在主要目标30英尺的范围内，并且只会受到一次攻击。"
     },
     {
+      "Key": "FireShield.Name",
+      "ProcessTemplates": false,
+      "zhCN": "火焰护盾"
+    },
+    {
+      "Key": "FireShield.Desc",
+      "ProcessTemplates": false,
+      "zhCN": "这个法术将火焰或者冷焰环绕在你的身上，并且对每个在近战中攻击你的生物造成伤害。这种火焰同时还在基于火焰或者寒冷的攻击（取决于你选择的火焰类型）中保护你，对应类型的攻击只能对你造成一半的伤害。如果这类攻击允许通过反射豁免来减半伤害，那么当豁免成功时，你将不受伤害。\n任何用肢体或手持武器攻击到你的人依然造成正常伤害，但是同时攻击者会受到 1d6+CL (最高+15) 点火焰或寒冷伤害，伤害类型取决于你选择的火焰类型。如果攻击者有法术抗力，那么它可以应用在该效果上。使用长触及武器的生物在攻击你时不会受到这个伤害。"
+    },
+    {
       "Key": "FireShieldWarm.Name",
       "ProcessTemplates": false,
       "zhCN": "火焰护盾"
@@ -1090,6 +1100,26 @@
     },
     {
       "Key": "TelekineticStrikes.Desc",
+      "ProcessTemplates": false,
+      "zhCN": "接触的生物的肢体充满了意念力量。在法术持续时间内，目标的徒手攻击或者天生武器攻击在成功的徒手攻击命中时造成额外1d4点力场伤害。"
+    },
+    {
+      "Key": "TelekineticStrikesCast.Name",
+      "ProcessTemplates": false,
+      "zhCN": "念力打击"
+    },
+    {
+      "Key": "TelekineticStrikesCast.Desc",
+      "ProcessTemplates": false,
+      "zhCN": "接触的生物的肢体充满了意念力量。在法术持续时间内，目标的徒手攻击或者天生武器攻击在成功的徒手攻击命中时造成额外1d4点力场伤害。"
+    },
+    {
+      "Key": "TelekineticStrikesBuff.Name",
+      "ProcessTemplates": false,
+      "zhCN": "念力打击"
+    },
+    {
+      "Key": "TelekineticStrikesBuff.Desc",
       "ProcessTemplates": false,
       "zhCN": "接触的生物的肢体充满了意念力量。在法术持续时间内，目标的徒手攻击或者天生武器攻击在成功的徒手攻击命中时造成额外1d4点力场伤害。"
     }
