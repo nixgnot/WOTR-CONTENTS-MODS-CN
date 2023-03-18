@@ -2776,13 +2776,19 @@ C:\Users\你的用户名\AppData\LocalLow\Owlcat Games\Pathfinder Wrath Of The R
 	<tr><td>显圣<br>Manifestations</td>
 		<td>添加萨满精魂巅峰，类似先知最终启示效果</td>
 		<td>:x:</td></tr>
-<tr><td rowspan="2">法术<br>Spell</td>
+<tr><td rowspan="4">法术<br>Spell</td>
 	<td>流星爆<br>Meteor Swarm</td>
 		<td>流星爆是一个强力且壮观的法术，当你施放此法术时，四颗炽热的流星将坠落在你选定的区域，一旦它们到达地面就会爆炸，对该区域的所有生物造成28d6点火焰伤害</td>
 		<td>:x:</td></tr>
 	<tr><td>石肤（博德之门）<br>Baldur's Gate Stoneskin</td>
 		<td><b>默认未开启</b><br>改变石肤法术，使其更接近[博德之门中的版本](https://baldursgate.fandom.com/wiki/Stoneskin)<br>此法术创造一层完全覆盖施法者的石制外壳。石肤当然是魔法的，不会妨碍到施法者。它可以抵御物理攻击，如近战武器和炮弹。施法者等级每提高2级，施法时会获得额外的石肤层数(到第20级时最多可获得10层石肤)。施法者每拥有一层石肤，该法术将抵御一次攻击。如果所有石肤都被移除，法术就会消散。需要注意的是，这并不能保护施法者免受任何能量或力场攻击</td>
 		<td>:heavy_check_mark:</td></tr>
+	<tr><td>精确施法<br>Staff-like Wand</td>
+		<td>下个法术穿透法术抗力</td>
+		<td>:x:</td></tr>
+	<tr><td>血泪与利齿狞笑<br>Bloody Tears and Jagged Smile</td>
+		<td>获得啮咬攻击、威吓和恐惧法术获得加成。</td>
+		<td>:x:</td></tr>
 </table>
 注：如果同时安装了TTT，会成为奥术发现中的一种 
  
