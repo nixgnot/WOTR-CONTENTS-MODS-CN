@@ -1611,7 +1611,8 @@
    <tr><td>其他</td>
        <td>增加10件新物品，1个新法术</td></tr>
 </table>
-> 补充一个自制补丁，需要安装SparsSorcerousSundries才能使用<br>
+
+> 本处补充一个自制补丁，需要安装SparsSorcerousSundries才能使用<br>
 > 在商店添加了几乎全部前代特殊装备<br>
 > 售价随便定的，效果也可能有BUG，仅供娱乐！<br>
 
