@@ -314,9 +314,9 @@ d88d5d845c34b9649b2d83101df40d32 C5Exotic 1 180250 IrovettisBreastplate
 d8ee7209715003b44bbcb02164c6692d C5Exotic 1 239500 AugmentedPlateItem
 e9c7e91d3b032ab4d96d9588b985bab5 C5Exotic 1 317825 HeartOfThunderShieldItem 
 #袍
-61ead8ede5f473049b36441f6a9f7768 C2Woljif 1 100000 Robe of Eyes
+61ead8ede5f473049b36441f6a9f7768 C2Woljif 1 50000 Robe of Eyes
 2394c36e06b84f008f49754c7ed0317e C2Woljif 1 120000 Dark Acolyte's Robe
-8b044d16442f5dc44bd26884a088d093 C2Woljif 1 120000 Unnatural Robe
+8b044d16442f5dc44bd26884a088d093 C2Woljif 1 80000 Unnatural Robe
 bad754cddbddc3741822051eabb8e611 C3Arsinoe 1 150000 Draping Veil of Prowess
 f389db9e641c45a2b3f7ab9cca0f76ce C3Arsinoe 1 150000 Ambrosial Attire of Arcane Annihilation
 d2eb319bc6b399a48b1b1d0a73238ac4 C3Arsinoe 1 161000 Arbiter's Robe
