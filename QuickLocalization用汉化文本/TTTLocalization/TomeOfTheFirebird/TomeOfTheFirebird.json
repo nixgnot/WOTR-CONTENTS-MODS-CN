@@ -740,6 +740,22 @@
       "zhCN": "神话能力增强了你的护身原力，护身原力现在如同你使用1点免费超载增强了他们，在神话阶层3,6和9获得额外1点。"
     },
     {
+      "Key": "MythicKineticDefensesProgression.Name",
+      "zhCN": "神话念盾"
+    },
+    {
+      "Key": "MythicKineticDefensesProgression.Desc",
+      "zhCN": "神话能力增强了你的护身原力，护身原力现在如同你使用1点免费超载增强了他们，在神话阶层3,6和9获得额外1点。"
+    },
+    {
+      "Key": "MythicKineticDefenses.Name",
+      "zhCN": "神话念盾"
+    },
+    {
+      "Key": "MythicKineticDefenses.Desc",
+      "zhCN": "神话能力增强了你的护身原力，护身原力现在如同你使用1点免费超载增强了他们，在神话阶层3,6和9获得额外1点。"
+    },
+    {
       "Key": "TieflingNAStackerFeature.Name",
       "zhCN": "魔裔天生防御"
     },
@@ -822,6 +838,134 @@
     {
       "Key": "ElementalStanceRagePowerSelector.Desc",
       "zhCN": "当野蛮人采取这种战姿时，她选择一种能量类型（酸，寒，电，火）。她的近战攻击额外造成1点该能量类型伤害，在8级时提升为1d6，12级时重击会造成额外1d10该能量类型伤害（如果重击倍数X3则为2d10，重击倍数X4则为3d10）。"
+    },
+    {
+      "Key": "ElementalStanceRagePowerFireEffectBuff.Name",
+      "zhCN": "元素战姿（火焰）"
+    },
+    {
+      "Key": "ElementalStanceRagePowerFireEffectBuff.Desc",
+      "zhCN": "当野蛮人采取这种战姿时，她的近战攻击额外造成1点火焰伤害，在8级时提升为1d6，12级时重击会造成额外1d10火焰伤害（如果重击倍数X3则为2d10，重击倍数X4则为3d10）。"
+    },
+    {
+      "Key": "ElementalStanceRagePowerColdEffectBuff.Name",
+      "zhCN": "元素战姿（寒冷）"
+    },
+    {
+      "Key": "ElementalStanceRagePowerColdEffectBuff.Desc",
+      "zhCN": "当野蛮人采取这种战姿时，她的近战攻击额外造成1点寒冷伤害，在8级时提升为1d6，12级时重击会造成额外1d10寒冷伤害（如果重击倍数X3则为2d10，重击倍数X4则为3d10）。"
+    },
+    {
+      "Key": "ElementalStanceRagePowerElectricityEffectBuff.Name",
+      "zhCN": "元素战姿（电击）"
+    },
+    {
+      "Key": "ElementalStanceRagePowerElectricityEffectBuff.Desc",
+      "zhCN": "当野蛮人采取这种战姿时，她的近战攻击额外造成1点电击伤害，在8级时提升为1d6，12级时重击会造成额外1d10电击伤害（如果重击倍数X3则为2d10，重击倍数X4则为3d10）。"
+    },
+    {
+      "Key": "ElementalStanceRagePowerAcidEffectBuff.Name",
+      "zhCN": "元素战姿（酸蚀）"
+    },
+    {
+      "Key": "ElementalStanceRagePowerAcidEffectBuff.Desc",
+      "zhCN": "当野蛮人采取这种战姿时，她的近战攻击额外造成1点酸蚀伤害，在8级时提升为1d6，12级时重击会造成额外1d10酸蚀伤害（如果重击倍数X3则为2d10，重击倍数X4则为3d10）。"
+    },
+    {
+      "Key": "ElementalStanceRagePowerFire.Name",
+      "zhCN": "元素战姿（火焰）"
+    },
+    {
+      "Key": "ElementalStanceRagePowerFire.Desc",
+      "zhCN": "当野蛮人采取这种战姿时，她的近战攻击额外造成1点火焰伤害，在8级时提升为1d6，12级时重击会造成额外1d10火焰伤害（如果重击倍数X3则为2d10，重击倍数X4则为3d10）。"
+    },
+    {
+      "Key": "ElementalStanceRagePowerCold.Name",
+      "zhCN": "元素战姿（寒冷）"
+    },
+    {
+      "Key": "ElementalStanceRagePowerCold.Desc",
+      "zhCN": "当野蛮人采取这种战姿时，她的近战攻击额外造成1点寒冷伤害，在8级时提升为1d6，12级时重击会造成额外1d10寒冷伤害（如果重击倍数X3则为2d10，重击倍数X4则为3d10）。"
+    },
+    {
+      "Key": "ElementalStanceRagePowerElectricity.Name",
+      "zhCN": "元素战姿（电击）"
+    },
+    {
+      "Key": "ElementalStanceRagePowerElectricity.Desc",
+      "zhCN": "当野蛮人采取这种战姿时，她的近战攻击额外造成1点电击伤害，在8级时提升为1d6，12级时重击会造成额外1d10电击伤害（如果重击倍数X3则为2d10，重击倍数X4则为3d10）。"
+    },
+    {
+      "Key": "ElementalStanceRagePowerAcid.Name",
+      "zhCN": "元素战姿（酸蚀）"
+    },
+    {
+      "Key": "ElementalStanceRagePowerAcid.Desc",
+      "zhCN": "当野蛮人采取这种战姿时，她的近战攻击额外造成1点酸蚀伤害，在8级时提升为1d6，12级时重击会造成额外1d10酸蚀伤害（如果重击倍数X3则为2d10，重击倍数X4则为3d10）。"
+    },
+    {
+      "Key": "ElementalStanceRagePowerFireToggleAbility.Name",
+      "zhCN": "元素战姿（火焰）"
+    },
+    {
+      "Key": "ElementalStanceRagePowerFireToggleAbility.Desc",
+      "zhCN": "当野蛮人采取这种战姿时，她的近战攻击额外造成1点火焰伤害，在8级时提升为1d6，12级时重击会造成额外1d10火焰伤害（如果重击倍数X3则为2d10，重击倍数X4则为3d10）。"
+    },
+    {
+      "Key": "ElementalStanceRagePowerColdToggleAbility.Name",
+      "zhCN": "元素战姿（寒冷）"
+    },
+    {
+      "Key": "ElementalStanceRagePowerColdToggleAbility.Desc",
+      "zhCN": "当野蛮人采取这种战姿时，她的近战攻击额外造成1点寒冷伤害，在8级时提升为1d6，12级时重击会造成额外1d10寒冷伤害（如果重击倍数X3则为2d10，重击倍数X4则为3d10）。"
+    },
+    {
+      "Key": "ElementalStanceRagePowerElectricityToggleAbility.Name",
+      "zhCN": "元素战姿（电击）"
+    },
+    {
+      "Key": "ElementalStanceRagePowerElectricityToggleAbility.Desc",
+      "zhCN": "当野蛮人采取这种战姿时，她的近战攻击额外造成1点电击伤害，在8级时提升为1d6，12级时重击会造成额外1d10电击伤害（如果重击倍数X3则为2d10，重击倍数X4则为3d10）。"
+    },
+    {
+      "Key": "ElementalStanceRagePowerAcidToggleAbility.Name",
+      "zhCN": "元素战姿（酸蚀）"
+    },
+    {
+      "Key": "ElementalStanceRagePowerAcidToggleAbility.Desc",
+      "zhCN": "当野蛮人采取这种战姿时，她的近战攻击额外造成1点酸蚀伤害，在8级时提升为1d6，12级时重击会造成额外1d10酸蚀伤害（如果重击倍数X3则为2d10，重击倍数X4则为3d10）。"
+    },
+    {
+      "Key": "ElementalStanceRagePowerFireSwitchBuff.Name",
+      "zhCN": "元素战姿（火焰）"
+    },
+    {
+      "Key": "ElementalStanceRagePowerFireSwitchBuff.Desc",
+      "zhCN": "当野蛮人采取这种战姿时，她的近战攻击额外造成1点火焰伤害，在8级时提升为1d6，12级时重击会造成额外1d10火焰伤害（如果重击倍数X3则为2d10，重击倍数X4则为3d10）。"
+    },
+    {
+      "Key": "ElementalStanceRagePowerColdSwitchBuff.Name",
+      "zhCN": "元素战姿（寒冷）"
+    },
+    {
+      "Key": "ElementalStanceRagePowerColdSwitchBuff.Desc",
+      "zhCN": "当野蛮人采取这种战姿时，她的近战攻击额外造成1点寒冷伤害，在8级时提升为1d6，12级时重击会造成额外1d10寒冷伤害（如果重击倍数X3则为2d10，重击倍数X4则为3d10）。"
+    },
+    {
+      "Key": "ElementalStanceRagePowerElectricitySwitchBuff.Name",
+      "zhCN": "元素战姿（电击）"
+    },
+    {
+      "Key": "ElementalStanceRagePowerElectricitySwitchBuff.Desc",
+      "zhCN": "当野蛮人采取这种战姿时，她的近战攻击额外造成1点电击伤害，在8级时提升为1d6，12级时重击会造成额外1d10电击伤害（如果重击倍数X3则为2d10，重击倍数X4则为3d10）。"
+    },
+    {
+      "Key": "ElementalStanceRagePowerAcidSwitchBuff.Name",
+      "zhCN": "元素战姿（酸蚀）"
+    },
+    {
+      "Key": "ElementalStanceRagePowerAcidSwitchBuff.Desc",
+      "zhCN": "当野蛮人采取这种战姿时，她的近战攻击额外造成1点酸蚀伤害，在8级时提升为1d6，12级时重击会造成额外1d10酸蚀伤害（如果重击倍数X3则为2d10，重击倍数X4则为3d10）。"
     },
     {
       "Key": "RageStanceMastery.Name",
