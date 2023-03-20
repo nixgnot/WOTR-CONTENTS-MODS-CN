@@ -124,6 +124,7 @@
 + 本工具是一个“外挂式”汉化工具，用于在其他MOD载入后，再外挂载入语言文件，实现不需要修改原MOD就能实现外挂汉化
 + 只要原MOD更新后没有修改语言文件，汉化也不会受到更新影响
 + 且本工具可以实现在游戏启动中动态重载文本，来帮助进行所见即所得的汉化或修改汉化文件错误
++ 在[Release页面](https://github.com/nixgnot/WOTR-CONTENTS-MODS-CN/releases)可以找到最新QuickLocalization下载
 
 > 本MOD由@magicskysword制作，适用版本为WOTR 2.1<br>
 > 该版本为临时版本，不保证完善。但该MOD不涉及任何存档操作，不会对游戏本身造成任何影响。
