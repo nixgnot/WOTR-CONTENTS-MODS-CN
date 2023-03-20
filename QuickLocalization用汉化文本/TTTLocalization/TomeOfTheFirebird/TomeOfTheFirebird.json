@@ -636,6 +636,14 @@
       "zhCN": "增加每日可承受超载2点\n特殊：你可以多次获得此专长，效果叠加。"
     },
     {
+      "Key": "ExtraBurnFeaturePK.Name",
+      "zhCN": "额外超载"
+    },
+    {
+      "Key": "ExtraBurnFeaturePK.Desc",
+      "zhCN": "增加每日可承受超载2点\n特殊：你可以多次获得此专长，效果叠加。"
+    },
+    {
       "Key": "LastwallPhalanx.Name",
       "zhCN": "终焉之墙"
     },
