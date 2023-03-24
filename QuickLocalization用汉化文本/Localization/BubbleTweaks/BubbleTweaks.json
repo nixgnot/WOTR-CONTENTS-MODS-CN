@@ -1,0 +1,97 @@
+[
+  {
+    "Key": "bubble.speed-tweaks",
+    "ProcessTemplates": false,
+    "zhCN": "Bubble速度调整"
+  },
+  {
+    "Key": "bubble.cursor-tweaks",
+    "ProcessTemplates": false,
+    "zhCN": "Bubble鼠标指针调整"
+  },
+  {
+    "Key": "bubble.ui-tweaks",
+    "ProcessTemplates": false,
+    "zhCN": "Bubble界面调整"
+  },
+  {
+    "Key": "settings.game.pause.fade-strength.description",
+    "ProcessTemplates": false,
+    "zhCN": "暂停时界面暗化"
+  },
+  {
+    "Key": "settings.game.pause.fade-strength.tooltip-description",
+    "ProcessTemplates": false,
+    "zhCN": "减少游戏暂停时的界面暗化效果。"
+  },
+  {
+    "Key": "settings.game.tactical.time-scale.description",
+    "ProcessTemplates": false,
+    "zhCN": "增加回合制战斗动画速度"
+  },
+  {
+    "Key": "settings.game.tactical.time-scale.tooltip-description",
+    "ProcessTemplates": false,
+    "zhCN": "增加回合制战斗中所有角色动画速度。"
+  },
+  {
+    "Key": "settings.game.in-combat.time-scale.description",
+    "ProcessTemplates": false,
+    "zhCN": "增加即时制战斗动画速度"
+  },
+  {
+    "Key": "settings.game.in-combat.time-scale.tooltip-description",
+    "ProcessTemplates": false,
+    "zhCN": "增加即时制战斗中所有角色战斗动画速度。"
+  },
+  {
+    "Key": "settings.game.out-of-combat.time-scale.description",
+    "ProcessTemplates": false,
+    "zhCN": "增加非战斗状态动画速度"
+  },
+  {
+    "Key": "settings.game.out-of-combat.time-scale.tooltip-description",
+    "ProcessTemplates": false,
+    "zhCN": "增加非战斗状态下所有角色动画速度。"
+  },
+  {
+    "Key": "settings.game.global-map.time-scale.description",
+    "ProcessTemplates": false,
+    "zhCN": "增加大地图动画速度"
+  },
+  {
+    "Key": "settings.game.global-map.time-scale.tooltip-description",
+    "ProcessTemplates": false,
+    "zhCN": "增加大地图上所有棋子移动动画速度。"
+  },
+  {
+    "Key": "settings.game.cursor-scale.combat.description",
+    "ProcessTemplates": false,
+    "zhCN": "缩放战斗指令指针"
+  },
+  {
+    "Key": "settings.game.cursor-scale.combat.tooltip-description",
+    "ProcessTemplates": false,
+    "zhCN": "调节战斗指令图标指针（比如近战、远程、移动）的大小。"
+  },
+  {
+    "Key": "settings.game.cursor-scale.non-combat.description",
+    "ProcessTemplates": false,
+    "zhCN": "缩放非战斗指令指针"
+  },
+  {
+    "Key": "settings.game.cursor-scale.non-combat.tooltip-description",
+    "ProcessTemplates": false,
+    "zhCN": "调节非战斗状态下指令图标指针的大小。"
+  },
+  {
+    "Key": "settings.game.cursor-text-color.description",
+    "ProcessTemplates": false,
+    "zhCN": "攻击次数文本颜色"
+  },
+  {
+    "Key": "settings.game.cursor-text-color.tooltip-description",
+    "ProcessTemplates": false,
+    "zhCN": "调节指针上攻击次数文本的颜色。"
+  },
+]
