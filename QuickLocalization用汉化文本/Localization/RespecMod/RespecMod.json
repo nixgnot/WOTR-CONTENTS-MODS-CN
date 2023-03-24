@@ -1,0 +1,107 @@
+[
+  {
+    "Key": "barley-attrib-selection.name",
+    "ProcessTemplates": false,
+    "zhCN": "属性选择"
+  },
+  {
+    "Key": "barley-attrib-selection.description",
+    "ProcessTemplates": false,
+    "zhCN": "属性选择"
+  },
+  {
+    "Key": "barley-attrib-selection.description-short",
+    "ProcessTemplates": false,
+    "zhCN": "属性选择"
+  },
+  {
+    "Key": "barley-attrib-strength.name",
+    "ProcessTemplates": false,
+    "zhCN": "力量"
+  },
+  {
+    "Key": "barley-attrib-strength.description",
+    "ProcessTemplates": false,
+    "zhCN": "力量"
+  },
+  {
+    "Key": "barley-attrib-strength.description-short",
+    "ProcessTemplates": false,
+    "zhCN": "力量"
+  },
+  {
+    "Key": "barley-attrib-dexterity.name",
+    "ProcessTemplates": false,
+    "zhCN": "敏捷"
+  },
+  {
+    "Key": "barley-attrib-dexterity.description",
+    "ProcessTemplates": false,
+    "zhCN": "敏捷"
+  },
+  {
+    "Key": "barley-attrib-dexterity.description-short",
+    "ProcessTemplates": false,
+    "zhCN": "敏捷"
+  },
+  {
+    "Key": "barley-attrib-constitution.name",
+    "ProcessTemplates": false,
+    "zhCN": "体质"
+  },
+  {
+    "Key": "barley-attrib-constitution.description",
+    "ProcessTemplates": false,
+    "zhCN": "体质"
+  },
+  {
+    "Key": "barley-attrib-constitution.description-short",
+    "ProcessTemplates": false,
+    "zhCN": "体质"
+  },
+  {
+    "Key": "barley-attrib-intelligence.name",
+    "ProcessTemplates": false,
+    "zhCN": "智力"
+  },
+  {
+    "Key": "barley-attrib-intelligence.description",
+    "ProcessTemplates": false,
+    "zhCN": "智力"
+  },
+  {
+    "Key": "barley-attrib-intelligence.description-short",
+    "ProcessTemplates": false,
+    "zhCN": "智力"
+  },
+  {
+    "Key": "barley-attrib-wisdom.name",
+    "ProcessTemplates": false,
+    "zhCN": "感知"
+  },
+  {
+    "Key": "barley-attrib-wisdom.description",
+    "ProcessTemplates": false,
+    "zhCN": "感知"
+  },
+  {
+    "Key": "barley-attrib-wisdom.description-short",
+    "ProcessTemplates": false,
+    "zhCN": "感知"
+  },
+  {
+    "Key": "barley-attrib-charisma.name",
+    "ProcessTemplates": false,
+    "zhCN": "魅力"
+  },
+  {
+    "Key": "barley-attrib-charisma.description",
+    "ProcessTemplates": false,
+    "zhCN": "魅力"
+  },
+  {
+    "Key": "barley-attrib-charisma.description-short",
+    "ProcessTemplates": false,
+    "zhCN": "魅力"
+  },
+]
