@@ -1183,7 +1183,7 @@
           </td><td>:heavy_check_mark:
           </td><td>:x:
           </td><td>训练场：修正伤害奖励</td></tr>
-  <tr><td rowspan="31">物品<br>Items</td>
+  <tr><td rowspan="30">物品<br>Items</td>
          <td>Armor - Haramaki
           </td><td>:heavy_check_mark:
           </td><td>:x:
