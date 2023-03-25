@@ -546,12 +546,16 @@
         <tr><td>Base - RevelationBurningMagic
           </td><td>:heavy_check_mark:
           </td><td>:x:
-          </td><td>启示：修复烈焰魔法CL计算</td></tr>
-  <tr><td rowspan="2">圣武士<br>Paladin</td>
+          </td><td>启示：烈焰魔法机制改为桌面规则</td></tr>
+  <tr><td rowspan="3">圣武士<br>Paladin</td>
         <td>Base - DivineMountTemplate</td>
           </td><td>:heavy_check_mark:
           </td><td>:x:
-          </td><td>修复圣骑士模板，给予应有特性</td></tr>
+          </td><td>修复圣骑士坐骑模板，给予应有特性</td></tr>
+	 <tr><td>Base - DivineMountIntelligence
+          </td><td>:heavy_check_mark:
+          </td><td>:x:
+          </td><td>神圣坐骑现在至少拥有6点智力</td></tr>
         <tr><td>Base - SmiteAttackBonus
           </td><td>:heavy_check_mark:
           </td><td>:x:
@@ -703,12 +707,20 @@
         </td><td>:heavy_check_mark:
         </td><td>:x:
         </td><td>从秘闻战斗专长列表中移除诡计道途相关专长</td></tr>
-  <tr><td>冬巫<br>WinterWitch</td>
-      <td>UnearthlyCold
+  <tr><td rowspan="3">冬巫<br>WinterWitch</td>
+      <tr><td>ColdFlesh
         </td><td>:heavy_check_mark:
         </td><td>:x:
-        </td><td>修复异界严寒和超魔及奖励伤害的互动</td></tr
-  <tr><td rowspan="57">法术<br>Spells</td>
+        </td><td>：寒冰血肉：新特性，增加寒冷抗性</td></tr
+     <td>UnearthlyCold
+        </td><td>:heavy_check_mark:
+        </td><td>:x:
+        </td><td>异界严寒：修复和超魔及伤害加值的互动</td></tr
+     <tr><td>UnnaturalCold
+        </td><td>:heavy_check_mark:
+        </td><td>:x:
+        </td><td>：超然酷寒：新特性，忽略目标一半寒冷抗性</td></tr>
+  <tr><td rowspan="59">法术<br>Spells</td>
       <td>AbsoluteOrder
         </td><td>:heavy_check_mark:
         </td><td>:x:
@@ -856,11 +868,15 @@
       <tr><td>PowerFromDeath
         </td><td>:heavy_check_mark:
         </td><td>:x:
-        </td><td>死亡之力：修正持续时间为论级</td></tr>
+        </td><td>死亡之力：修正持续时间为轮级</td></tr>
+      <tr><td>ProtectionFromAlignmentGreater
+        </td><td>:heavy_check_mark:
+        </td><td>:x:
+        </td><td>秩序之盾和混沌护幕：不再错误的给予心智免疫效果</td></tr>
       <tr><td>ProtectionOfNature
         </td><td>:heavy_check_mark:
         </td><td>:x:
-        </td><td>自然庇护：掩蔽不再受到真视影响.</td></tr>
+        </td><td>自然庇护：掩蔽不再受到真视影响</td></tr>
       <tr><td>RemoveFear
         </td><td>:heavy_check_mark:
         </td><td>:x:
@@ -925,6 +941,10 @@
         </td><td>:heavy_check_mark:
         </td><td>:x:
         </td><td>秋风扫叶：可选目标，拥有DEBUFF效果</td></tr>
+      <tr><td>WintersGrasp
+        </td><td>:heavy_check_mark:
+        </td><td>:x:
+        </td><td>凛冬之握：改为桌面规则效果，不再击倒</td></tr>
       <tr><td>WrackingRay
         </td><td>:heavy_check_mark:
         </td><td>:x:
@@ -937,7 +957,7 @@
         </td><td>:heavy_check_mark:
         </td><td>:x:
         </td><td>归零：使用单个骰子决定所有驱散效果</td></tr>
-  <tr><td rowspan="4">职业特性</td>
+  <tr><td rowspan="5">其他特性<br>Features</td>
         <td>AnimalCompanions - AnimalCompanionProgression
         </td><td>:x:
         </td><td>:x:
@@ -954,7 +974,11 @@
         </td><td>:heavy_check_mark:
         </td><td>:x:
         </td><td>混种人的祝福：正确应用负向等级</td></tr>
-  <tr><td rowspan="33">专长<br>Feats</td>
+      <tr><td>ProfaneAscension
+        </td><td>:heavy_check_mark:
+        </td><td>:x:
+        </td><td>亵渎晋升：优先用基础属性来计算最高属性</td></tr>
+  <tr><td rowspan="34">专长<br>Feats</td>
       <td>AlliedSpellcaster
         </td><td>:heavy_check_mark:
         </td><td>:x:
@@ -1043,6 +1067,10 @@
         </td><td>:heavy_check_mark:
         </td><td>:x:
         </td><td>超魔 - 顽强：所有有豁免骰的法术均可用</td></tr>
+     <tr><td>RakingClaws
+        </td><td>:heavy_check_mark:
+        </td><td>:x:
+        </td><td>裂伤之爪：修复对于非德鲁伊但是拥有野性变身能力的职业的前置条件</td></tr>
       <tr><td>SelectiveMetamagic
         </td><td>:heavy_check_mark:
         </td><td>:x:
@@ -1155,7 +1183,7 @@
           </td><td>:heavy_check_mark:
           </td><td>:x:
           </td><td>训练场：修正伤害奖励</td></tr>
-  <tr><td rowspan="25">物品<br>Items</td>
+  <tr><td rowspan="31">物品<br>Items</td>
          <td>Armor - Haramaki
           </td><td>:heavy_check_mark:
           </td><td>:x:
@@ -1168,6 +1196,10 @@
           </td><td>:heavy_check_mark:
           </td><td>:x:
           </td><td>快速应敌护符：不再造成单独伤害实例</td></tr>
+	<tr><td>Equipment - ApprenticeRobe
+          </td><td>:heavy_check_mark:
+          </td><td>:x:
+          </td><td>学徒长袍：不再受到法师护甲影响时获得额外1AC </td></tr>
         <tr><td>Equipment - AspectOfTheAsp
           </td><td>:heavy_check_mark:
           </td><td>:x:
@@ -1176,14 +1208,18 @@
           </td><td>:heavy_check_mark:
           </td><td>:x:
           </td><td>灵魂之灾：使用为自由动作</td></tr>
+	 <tr><td>Equipment - BoundOfPossibilityAeon
+          </td><td>:heavy_check_mark:
+          </td><td>:x:
+          </td><td>或然之缚（御衡）：加值匹配描述</td></tr>
+	<tr><td>Equipment - BracersOfArchery
+          </td><td>:heavy_check_mark:
+          </td><td>:x:
+          </td><td>神射护腕：修复效果</td></tr>
         <tr><td>Equipment - FixScrollUMDDCs
           </td><td>:heavy_check_mark:
           </td><td>:x:
           </td><td>使用魔法卷轴DC：现在等级正确改为 20 + 卷轴 CL </td></tr>
-        <tr><td>Equipment - FlawlessBeltOfPhysicalPerfection8Availability
-          </td><td>:x:
-          </td><td>:x:
-          </td><td><s>无瑕+8极致体能腰带</s>原版已修复</td></tr>
         <tr><td>Equipment - FlawlessBeltOfPhysicalPerfection8CritIncrease
           </td><td>:heavy_check_mark:
           </td><td>:x:
@@ -1208,10 +1244,18 @@
           </td><td>:heavy_check_mark:
           </td><td>:x:
           </td><td>物品 - 超魔权杖（默认关闭）</td></tr>
+	<tr><td>Equipment - ShapeshiftersHelm
+          </td><td>:heavy_check_mark:
+          </td><td>:x:
+          </td><td>变形者头盔：修复和化形师的互动</td></tr>
         <tr><td>Equipment - StormlordsResolve
           </td><td>:heavy_check_mark:
           </td><td>:x:
           </td><td>风暴领主的决意：现在可以立即关闭而不需等待1轮</td></tr>
+	<tr><td>Equipment - QuiverOfRosesThorns
+          </td><td>:heavy_check_mark:
+          </td><td>:x:
+          </td><td>玫瑰刺弹药箭筒：修复效果匹配描述</td></tr>
         <tr><td>Weapons - BladeOfTheMerciful
           </td><td>:heavy_check_mark:
           </td><td>:x:
@@ -1224,6 +1268,10 @@
           </td><td>:heavy_check_mark:
           </td><td>:x:
           </td><td>元素附魔：修复各类元素爆附魔（焰爆）伤害计算</td></tr>
+	<tr><td>Weapons - EyeForAnEye
+          </td><td>:heavy_check_mark:
+          </td><td>:x:
+          </td><td>以眼还眼：防止多次触发伪攻击并过多触发武器特效</td></tr>
         <tr><td>Weapons - Finnean
           </td><td>:heavy_check_mark:
           </td><td>:x:
@@ -1256,6 +1304,11 @@
           </td><td>:heavy_check_mark:
           </td><td>:x:
           </td><td>武器附魔 - 斩首：正确生效</td></tr>
+  <tr><td>烹饪<br>Cooking</td>
+    <td>ScreamingOmelet
+          </td><td>:heavy_check_mark:
+          </td><td>:x:
+          </td><td>尖叫煎蛋卷：正确获得每级2点生命值</td></tr>
 </table>
 
 <table>
