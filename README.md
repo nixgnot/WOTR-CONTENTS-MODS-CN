@@ -352,7 +352,7 @@
         </td><td>神话诡计使用魔法装置2允许诡计大师忽略装备的阵营和职业需求</td></tr>
   <tr><td>巅峰</td>
       <td>AlternateCapstones</td><td colspan="3">允许单独开关各个职业巅峰，详见新增内容</td></tr>
-  <tr><td rowspan="6">炼金术士<br>Alchemist</td>
+  <tr><td rowspan="7">炼金术士<br>Alchemist</td>
       <td>Base - DispelingBombs
             </td><td>:heavy_check_mark:
             </td><td>:x:
