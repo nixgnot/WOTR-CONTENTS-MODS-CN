@@ -708,14 +708,14 @@
         </td><td>:x:
         </td><td>从秘闻战斗专长列表中移除诡计道途相关专长</td></tr>
   <tr><td rowspan="3">冬巫<br>WinterWitch</td>
-      <tr><td>ColdFlesh
+      <td>ColdFlesh
         </td><td>:heavy_check_mark:
         </td><td>:x:
-        </td><td>：寒冰血肉：新特性，增加寒冷抗性</td></tr
-     <td>UnearthlyCold
+        </td><td>：寒冰血肉：新特性，增加寒冷抗性</td></tr>
+     <tr><td>UnearthlyCold
         </td><td>:heavy_check_mark:
         </td><td>:x:
-        </td><td>异界严寒：修复和超魔及伤害加值的互动</td></tr
+        </td><td>异界严寒：修复和超魔及伤害加值的互动</td></tr>
      <tr><td>UnnaturalCold
         </td><td>:heavy_check_mark:
         </td><td>:x:
