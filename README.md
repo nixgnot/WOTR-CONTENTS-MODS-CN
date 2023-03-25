@@ -954,7 +954,7 @@
         </td><td>:heavy_check_mark:
         </td><td>:x:
         </td><td>混种人的祝福：正确应用负向等级</td></tr>
-  <tr><td rowspan="34">专长<br>Feats</td>
+  <tr><td rowspan="33">专长<br>Feats</td>
       <td>AlliedSpellcaster
         </td><td>:heavy_check_mark:
         </td><td>:x:
@@ -1091,7 +1091,7 @@
       <td>AscendantElement
         </td><td>:heavy_check_mark:
         </td><td>:x:
-        </td><td>颠覆元素：现在可以正确无视免疫</td></tr>
+        </td><td>巅峰元素：现在可以正确无视免疫</td></tr>
       <tr><td>BloodlineAscendance
         </td><td>:heavy_check_mark:
         </td><td>:x:
