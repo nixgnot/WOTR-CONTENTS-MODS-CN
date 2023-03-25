@@ -169,11 +169,15 @@
 <table>  
 <tr><th colspan="5">修改列表</th></tr> 
 <tr><td>分类</td><td>Config中选项</td><td>默认</td><td>房规</td><td>效果</td></tr>
-<tr><td rowspan="34">基本修复<br>Base</td>
+<tr><td rowspan="37">基本修复<br>Base</td>
    <td>AreaOfEffectDoubleTrigger
-        </td><td>:heavy_check_mark:
+        </td><td>:x:
         </td><td>:x:
         </td><td>修复AOE法术释放时额外触发一次</td></tr>
+     <tr><td>BuffInspector
+        </td><td>:heavy_check_mark:
+        </td><td>:x:
+        </td><td>BUFF指示器现在更好的显示实际生效的BUFF</td></tr>
       <tr><td>CoupDeGrace
         </td><td>:heavy_check_mark:
         </td><td>:x:
@@ -258,6 +262,10 @@
         </td><td>:heavy_check_mark:
         </td><td>:x:
         </td><td>长矛在骑乘冲锋时获得额外伤害</td></tr>
+      <tr><td>FixMonkAcBonusNames
+        </td><td>:heavy_check_mark:
+        </td><td>:x:
+        </td><td>修复武僧的AC奖励显示</td></tr>
       <tr><td>FixPrebuffCasterLevels
         </td><td>:heavy_check_mark:
         </td><td>:x:
@@ -294,6 +302,10 @@
         </td><td>:heavy_check_mark:
         </td><td>:x:
         </td><td>移除恶心的移动受限描述</td></tr>
+      <tr><td>SpellImmunity
+        </td><td>:heavy_check_mark:
+        </td><td>:x:
+        </td><td>忽略法术抗力不再无视法术免疫</td></tr>
       <tr><td>SelectiveMetamagicNonInstantaneous
         </td><td>:heavy_check_mark:
         </td><td>:x:
@@ -341,7 +353,11 @@
   <tr><td>巅峰</td>
       <td>AlternateCapstones</td><td colspan="3">允许单独开关各个职业巅峰，详见新增内容</td></tr>
   <tr><td rowspan="6">炼金术士<br>Alchemist</td>
-      <td>Base - MutagenStacking
+      <td>Base - DispelingBombs
+            </td><td>:heavy_check_mark:
+            </td><td>:x:
+            </td><td>解法炸弹正确驱散单个BUFF而不是全部BUFF</td></tr>
+	<tr><td>Base - MutagenStacking
             </td><td>:heavy_check_mark:
             </td><td>:x:
             </td><td>防止诱变剂叠加</td></tr>
@@ -403,7 +419,7 @@
         <tr><td>Base - Spellbook
           </td><td>:heavy_check_mark:
           </td><td>:x:
-          </td><td>修复法术进程防止依赖预先施法的特性不生效</td></tr>
+          </td><td>修复法术进程防止某些以施法为前提的早期特性不生效</td></tr>
         <tr><td>Base - TemporaryHitPoints
           </td><td>:heavy_check_mark:
           </td><td>:x:
@@ -423,7 +439,7 @@
         <tr><td>Archetypes - ReformedFiend - HatredAgainstEvil
             </td><td>:heavy_check_mark:
             </td><td>:x:
-            </td><td>修复憎恨邪恶奖励</td></tr>
+            </td><td>自新魔士：修复憎恨邪恶奖励</td></tr>
   <tr><td rowspan="5">骑将<br>Cavalier</td>
     <td>Base - CavalierMobility
           </td><td>:heavy_check_mark:
@@ -583,6 +599,23 @@
           </td><td>:heavy_check_mark:
           </td><td>:x:
           </td><td>救难不再给予完全免疫能力，改为压制效果</td></tr>
+  <tr><td rowspan="4">化形师<br>Shifter</td>
+        <td>Archetypes - GriffonheartShifter
+          </td><td>:heavy_check_mark:
+          </td><td>:x:
+          </td><td>允许玩家创建人物使用鹫心变体</td></tr>
+       <tr><td>Archetypes - WildEffigy - ArmorPlating
+          </td><td>:heavy_check_mark:
+          </td><td>:x:
+          </td><td>荒野塑像：修复多变体叠加时甲片护身问题</td></tr>
+       <tr><td>Archetypes - WildEffigy - HeartOfEarth
+          </td><td>:heavy_check_mark:
+          </td><td>:x:
+          </td><td>荒野塑像：修复多变体叠加时大地之心问题</td></tr>
+       <tr><td>Archetypes - WildEffigy - StoneclawStrike
+          </td><td>:heavy_check_mark:
+          </td><td>:x:
+          </td><td>荒野塑像：修复多变体叠加时石爪打击问题</td></tr>
   <tr><td rowspan="2">歌者<br>Skald</td>
     <td>Base - SpellKenning
           </td><td>:heavy_check_mark:
@@ -675,7 +708,7 @@
         </td><td>:heavy_check_mark:
         </td><td>:x:
         </td><td>修复异界严寒和超魔及奖励伤害的互动</td></tr
-  <tr><td rowspan="54">法术<br>Spells</td>
+  <tr><td rowspan="57">法术<br>Spells</td>
       <td>AbsoluteOrder
         </td><td>:heavy_check_mark:
         </td><td>:x:
@@ -740,10 +773,22 @@
         </td><td>:heavy_check_mark:
         </td><td>:x:
         </td><td>烈阳之眼：修正伤害</td></tr>
+     <tr><td>FieryBody
+        </td><td>:heavy_check_mark:
+        </td><td>:x:
+        </td><td>火焰之躯：不再是变形法术</td></tr>
       <tr><td>Firebrand
         </td><td>:heavy_check_mark:
         </td><td>:x:
         </td><td>火焰烙印：攻击时不再造成过多伤害实例</td></tr>
+      <tr><td>IcyBody
+        </td><td>:heavy_check_mark:
+        </td><td>:x:
+        </td><td>寒冰之躯：不再是变形法术</td></tr>
+      <tr><td>IronBody
+        </td><td>:heavy_check_mark:
+        </td><td>:x:
+        </td><td>钢铁之躯：不再是变形法术</td></tr>
       <tr><td>SunMarked
         </td><td>:heavy_check_mark:
         </td><td>:x:
@@ -909,7 +954,7 @@
         </td><td>:heavy_check_mark:
         </td><td>:x:
         </td><td>混种人的祝福：正确应用负向等级</td></tr>
-  <tr><td rowspan="28">专长<br>Feats</td>
+  <tr><td rowspan="34">专长<br>Feats</td>
       <td>AlliedSpellcaster
         </td><td>:heavy_check_mark:
         </td><td>:x:
@@ -954,10 +999,22 @@
         </td><td>:heavy_check_mark:
         </td><td>:heavy_check_mark:
         </td><td>坚韧：如同同类专长在运动10级后获得额外加值</td></tr>
+      <tr><td>EnergizedWildShapeDamage
+        </td><td>:heavy_check_mark:
+        </td><td>:x:
+        </td><td>赋能野性变身：不再造成独立伤害实例</td></tr>
+      <tr><td>EnergizedWildShapePrerequisites
+        </td><td>:heavy_check_mark:
+        </td><td>:x:
+        </td><td>赋能野性变身前置：修复对于非德鲁伊但是拥有野性变身能力的职业的前置条件</td></tr>
       <tr><td>FencingGrace
         </td><td>:heavy_check_mark:
         </td><td>:x:
         </td><td>优雅刺击：永远只对单手武器生效</td></tr>
+      <tr><td>FrightfulShape
+        </td><td>:heavy_check_mark:
+        </td><td>:x:
+        </td><td>慑人变身：修复对于非德鲁伊但是拥有野性变身能力的职业的前置条件</td></tr>
       <tr><td>Lunge
         </td><td>:heavy_check_mark:
         </td><td>:x:
@@ -978,10 +1035,10 @@
         </td><td>:heavy_check_mark:
         </td><td>:x:
         </td><td>骑乘战斗：正确生效</td></tr>
-      <tr><td>Outflank
+      <tr><td>NaturalSpell
         </td><td>:heavy_check_mark:
         </td><td>:x:
-        </td><td>包抄：攻击丢失不再触发</td></tr>
+        </td><td>自然施法：修复对于非德鲁伊但是拥有野性变身能力的职业的前置条件</td></tr>
       <tr><td>PersistantMetamagic
         </td><td>:heavy_check_mark:
         </td><td>:x:
@@ -998,6 +1055,10 @@
         </td><td>:heavy_check_mark:
         </td><td>:x:
         </td><td>粉碎防御：需要击中后才会生效</td></tr>
+      <tr><td>ShifterRush
+        </td><td>:heavy_check_mark:
+        </td><td>:x:
+        </td><td>化形师疾冲：修复对于非德鲁伊但是拥有野性变身能力的职业的前置条件</td></tr>
       <tr><td>SiezeTheMoment
         </td><td>:heavy_check_mark:
         </td><td>:x:
@@ -1022,6 +1083,10 @@
         </td><td>:heavy_check_mark:
         </td><td>:x:
         </td><td>武器娴熟：不再把拥有灵巧/优雅的武器都视为娴熟武器</td></tr>
+      <tr><td>VitalStrike
+        </td><td>:heavy_check_mark:
+        </td><td>:x:
+        </td><td>要害打击：修复和过肩斩的互动</td></tr>
   <tr><td rowspan="8">神话能力<br>MythicAbilities</td>
       <td>AscendantElement
         </td><td>:heavy_check_mark:
@@ -1068,7 +1133,7 @@
         </td><td>:heavy_check_mark:
         </td><td>:x:
         </td><td>额外神话能力：只能选择一次</td></tr>
-    <tr><td rowspan="3">BOSS和敌人修复<br>Bosses/Enemies</td>
+    <tr><td rowspan="4">BOSS和敌人修复<br>Bosses/Enemies</td>
           <td>Deskari
           </td><td>:heavy_check_mark:
           </td><td>:x:
@@ -1077,6 +1142,10 @@
           </td><td>:heavy_check_mark:
           </td><td>:x:
           </td><td>斯陶顿·卫恒拥有正确专长</td></tr>
+	 <tr><td>Anomaly
+          </td><td>:heavy_check_mark:
+          </td><td>:x:
+          </td><td>混乱心智正常生效</td></tr>
         <tr><td>Balors
           </td><td>:heavy_check_mark:
           </td><td>:x:
@@ -1086,7 +1155,7 @@
           </td><td>:heavy_check_mark:
           </td><td>:x:
           </td><td>训练场：修正伤害奖励</td></tr>
-  <tr><td rowspan="24">物品<br>Items</td>
+  <tr><td rowspan="25">物品<br>Items</td>
          <td>Armor - Haramaki
           </td><td>:heavy_check_mark:
           </td><td>:x:
@@ -1147,6 +1216,10 @@
           </td><td>:heavy_check_mark:
           </td><td>:x:
           </td><td>慈悲之刃：防止多次触发伪攻击并过多触发武器特效</td></tr>
+	<tr><td>Weapons - DevastatingBlowFromAbove
+          </td><td>:heavy_check_mark:
+          </td><td>:x:
+          </td><td>居高夺命：防止多次触发伪攻击并过多触发武器特效</td></tr>
         <tr><td>Weapons - EnergyBurst
           </td><td>:heavy_check_mark:
           </td><td>:x:
