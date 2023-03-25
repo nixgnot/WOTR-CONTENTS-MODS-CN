@@ -137,7 +137,7 @@
   {
     "Key": "ComprehensiveEducationDescription",
     "ProcessTemplates": false,
-    "zhCN": "在熟练教师的帮助下成长的人类，会充分利用数百年文明中获得的大量知识。将所有知识技能视为{g|Encyclopedia:Skills}本职技能{/g}，并在所有他们通过职业等级获得作为本职技能的知识技能{g|Encyclopedia:Check}检定{/g}上获得+1种族。本特性替换奖励技能。"
+    "zhCN": "在熟练教师的帮助下成长的人类，会充分利用数百年文明中获得的大量知识。将所有知识技能视为{g|Encyclopedia:Skills}本职技能{/g}，并在所有他们通过职业等级获得作为本职技能的知识技能{g|Encyclopedia:Check}检定{/g}上获得+1种族加值。本特性替换奖励技能。"
   },
   {
     "Key": "FocusedStudyDisplayName",
@@ -157,7 +157,7 @@
   {
     "Key": "GiantAncestryDescription",
     "ProcessTemplates": false,
-    "zhCN": "拥有食人魔或巨魔血统的人类最终拥有笨重的身材和不协调的特征。在{g|Encyclopedia:Combat_Maneuvers}战技检定{/g}和{g|Encyclopedia:CMD}CMD{/g}上获得+1{g|Encyclopedia:Bonus}加值{/g}，但在潜行检定上受到-2{g|Encyclopedia:Penalty}减值{/g}，这个种族特性取代奖励技能。"
+    "zhCN": "拥有食人魔或巨魔血统的人类最终拥有笨重的身材和不协调的特征。在{g|Encyclopedia:Combat_Maneuvers}战技检定{/g}和{g|Encyclopedia:CMD}CMD{/g}上获得+1{g|Encyclopedia:Bonus}加值{/g}，但在隐匿检定上受到-2{g|Encyclopedia:Penalty}减值{/g}，这个种族特性取代奖励技能。"
   },
   {
     "Key": "HumanBonusFeatDisplayName",
@@ -227,7 +227,7 @@
   {
     "Key": "PracticedHunterDescription",
     "ProcessTemplates": false,
-    "zhCN": "在潜行和生存{g|Encyclopedia:Check}检定{/g}上获得+2种族{g|Encyclopedia:Bonus}加值{/g}，并且潜行和生存被他们视为本职技能。本特性替换奖励技能。"
+    "zhCN": "在隐匿和学识（自然）{g|Encyclopedia:Check}检定{/g}上获得+2种族{g|Encyclopedia:Bonus}加值{/g}，并且隐匿和学识（自然）被他们视为本职技能。本特性替换奖励技能。"
   },
   {
     "Key": "UnstoppableMagicDisplayName",
