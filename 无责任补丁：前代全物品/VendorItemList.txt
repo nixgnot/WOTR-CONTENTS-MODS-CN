@@ -314,25 +314,25 @@ d8ee7209715003b44bbcb02164c6692d C5Exotic 1 239500 AugmentedPlateItem
 e9c7e91d3b032ab4d96d9588b985bab5 C5Exotic 1 317825 HeartOfThunderShieldItem 
 #袍
 61ead8ede5f473049b36441f6a9f7768 C2Woljif 1 50000 Robe of Eyes
-2394c36e06b84f008f49754c7ed0317e C2Woljif 1 120000 Dark Acolyte's Robe
-8b044d16442f5dc44bd26884a088d093 C2Woljif 1 80000 Unnatural Robe
-bad754cddbddc3741822051eabb8e611 C3Arsinoe 1 150000 Draping Veil of Prowess
-f389db9e641c45a2b3f7ab9cca0f76ce C3Arsinoe 1 150000 Ambrosial Attire of Arcane Annihilation
-d2eb319bc6b399a48b1b1d0a73238ac4 C3Arsinoe 1 161000 Arbiter's Robe
-779208f1c1c1b6f4b83a327594673b4e C4Gilmore 1 200000 Integrity
-c18a1d22dca8b684195633d685855d0c C4Gilmore 1 280000 Enforcer's Robe
-70c13c319f3d18841bb4c4e5c27125c9 C4Gilmore 1 320000 Protector's Robe
-62d2df6b7f534378b3492a4d2f78889d C5Arsinoe 1 640000 Dark Master's Robe
+2394c36e06b84f008f49754c7ed0317e C2Woljif 1 80000 Dark Acolyte's Robe
+8b044d16442f5dc44bd26884a088d093 C2Woljif 1 45000 Unnatural Robe
+bad754cddbddc3741822051eabb8e611 C3Arsinoe 1 64000 Draping Veil of Prowess
+f389db9e641c45a2b3f7ab9cca0f76ce C3Arsinoe 1 70000 Ambrosial Attire of Arcane Annihilation
+d2eb319bc6b399a48b1b1d0a73238ac4 C3Arsinoe 1 81000 Arbiter's Robe
+779208f1c1c1b6f4b83a327594673b4e C4Gilmore 1 120000 Integrity
+c18a1d22dca8b684195633d685855d0c C4Gilmore 1 180000 Enforcer's Robe
+70c13c319f3d18841bb4c4e5c27125c9 C4Gilmore 1 220000 Protector's Robe
+62d2df6b7f534378b3492a4d2f78889d C5Arsinoe 1 440000 Dark Master's Robe
 #披风
 e8157dd509418c449a642dbe4c4dd102 C2Woljif 1 48000 Herbalist's Cape
 03d72918c5f5c4d498607e76231e3487 C2Woljif 1 72000 Shroud of Abaddon
 ae0cf84fb23478f4aaa07e3d10984bea C2Woljif 1 80000 Black Fur Cloak
-8dfafc99c41d5f645888eb15388904ea C2Woljif 1 110000 Cloak of Inner Warmth
+8dfafc99c41d5f645888eb15388904ea C3Arsinoe 1 95000 Cloak of Inner Warmth
 77491022ca26d194fbee5e04395ae967 C3Arsinoe 1 220000 Cloak of the Winter Wolf
-e8596ae383f840c4899f6b1228c731e0 C3Arsinoe 1 360000 Cloak of the Chosen
-9af35985be20c384a957e5c7dfdb41f2 C4Gilmore 1 420000 Cloak of the Bear
-029d52c91f3e6af488610609033bb011 C4Gilmore 1 650000 Shaman's Cloak
-465bcf20235d0d04593d671bf9b607f0 C5Arsinoe 1 800000 Cloak of the Lion
+e8596ae383f840c4899f6b1228c731e0 C3Arsinoe 1 160000 Cloak of the Chosen
+9af35985be20c384a957e5c7dfdb41f2 C4Gilmore 1 220000 Cloak of the Bear
+029d52c91f3e6af488610609033bb011 C4Gilmore 1 350000 Shaman's Cloak
+465bcf20235d0d04593d671bf9b607f0 C5Arsinoe 1 600000 Cloak of the Lion
 #头盔
 f33dadeeb51cdba45b23bb40a40e5fb3 C2Woljif 1 8000 Flamboyant Hat
 384b6c0809611814cb6be00f5d8e32f0 C2Woljif 1 24000 Sparkling Helmet
@@ -377,12 +377,12 @@ f02eb9b8cb10d434d905225796f0345b C2Woljif 1 50000 AmuletOfEvilDoomItem 
 c17f627fedd420d4aa871f23d0995fcf C2Woljif 1 72000 HeartOfIraItem 
 b9bc244f20551564da681a54865a2103 C3Arsinoe 1 80000 AmuletOfSpells 
 35a3d8b21bf0a6044aeff000bb965cd8 C3Arsinoe 1 81750 AmuletOfDeepWaterItem 
-4537e2beb46b28a47bde3e3e1ac95255 C3Arsinoe 1 85000 XavornsCrossItem 
-138f2b7ce23a4fa4fa3d633c1d3a0ae3 C3Arsinoe 1 107800 AmuletOfLifeVeilItem 
-6bbf04b71ee91734dab328837fc168cf C3Arsinoe 1 120000 SecretsOfSuramgaminNecklaceItem 
-33674f7c73f0da0448ce6d84c6846f1a C4Gilmore 1 270000 BindingsOfThePrinceItem 
-df779981b70c04641b26ad9ba90b245e C4Gilmore 1 345000 GyronnasAmuletItem 
-169fd99b68c1dd04692c2368a7b957b7 C4Gilmore 1 388000 RiverFoxPendantItem 
+4537e2beb46b28a47bde3e3e1ac95255 C3Arsinoe 1 65000 XavornsCrossItem 
+138f2b7ce23a4fa4fa3d633c1d3a0ae3 C3Arsinoe 1 58000 AmuletOfLifeVeilItem 
+6bbf04b71ee91734dab328837fc168cf C3Arsinoe 1 80000 SecretsOfSuramgaminNecklaceItem 
+33674f7c73f0da0448ce6d84c6846f1a C4Gilmore 1 180000 BindingsOfThePrinceItem 
+df779981b70c04641b26ad9ba90b245e C4Gilmore 1 240000 GyronnasAmuletItem 
+169fd99b68c1dd04692c2368a7b957b7 C4Gilmore 1 320000 RiverFoxPendantItem 
 f38cb29529feaaf459af443fdf567a54 C5Arsinoe 1 440000 NegatorAmuletItem 
 8722776a6f94485499fe476bce767716 C5Arsinoe 1 450000 AmuletOfInnerVirtue
 #靴子
@@ -402,7 +402,7 @@ c994ba965699973479c0a7c57549ba86 C3Arsinoe 1 40000 GoldenHallucinationBracersIte
 47f01a08b59205c4eac8c33a1fcb6b6a C3Arsinoe 1 42000 CharonsTouch
 ac79bcf464e676f49b630895f8b2fd42 C3Arsinoe 1 42500 DeliquescentGlovesItem 
 ecf27920f812bcf49a533019c0255207 C3Arsinoe 1 45000 CrazyScientistsGlovesItem 
-593e8705f91e20a4ea62e0a068cb0ad4 C3Arsinoe 1 80000 CheatSheetGlovesItem 
+593e8705f91e20a4ea62e0a068cb0ad4 C3Arsinoe 1 60000 CheatSheetGlovesItem 
 8f14d568b2324334aafc209c9fcd1b6e C3Arsinoe 1 80000 TrickstersGloves 
 ab75ae2763172474eac628651b301ada C3Arsinoe 1 84600 BlessedHandsGlovesItem 
 30bbe160980b63b4a9a4c8234318edfc C3Arsinoe 1 92500 GlovesOfTheScribeItem 
@@ -421,21 +421,20 @@ fde80a3b342957f4b88b90fe8b8c261a C2Woljif 1 30000 RingOfHuntersLuckItem 
 70dadcb5b5184e746a7ee1b8e43b8b63 C2Woljif 1 30000 RingOfSecurityItem 
 1bcd56737f1ca8d44a278839e4e32c02 C2Woljif 1 31000 RingofAdditionalRage 
 c4e6665dbb126624991d78072ff919aa C2Woljif 1 32500 RingOfEnhancedSummonsItem 
-c29d9ca30384c5e47a2a0392fe750878 C2Woljif 1 46800 RingOfHumbleMasterItem 
+c29d9ca30384c5e47a2a0392fe750878 C2Woljif 1 66800 RingOfHumbleMasterItem 
+71d0a43206dc9b449b6721c09b160332 C2Woljif 1 32000 RingOfEternalSkyItem 
 1fdfcfdaeee3ca441adc14f204fca521 C2Woljif 1 56250 RingofForceShield 
 1555403753fe1064a88d0282bf3df674 C3Arsinoe 1 65000 SigilOfDestructionRingItem 
-97e6c9904cb2b8a40942068019f88be3 C3Arsinoe 1 80000 RingOfAcidImmunityItem 
-5004d122ca41d2b4897d9c2c5ec08439 C3Arsinoe 1 110000 RingOfLawItem 
-9811125a437824c41a1b106653de7eda C3Arsinoe 1 117750 RingOfBlurItem 
-97143f0ec43f505409929934811144c3 C3Arsinoe 1 118750 RingOfChaosItem 
-e270a14888c38dd44a6818ce2599ebbf C3Arsinoe 1 120000 RingOfPowerStoneItem 
-10260ec4544af3846baa124f04617b3f C3Arsinoe 1 125000 RingOfSourceOfInvisibilityItem 
-04cfe9660005b05438b9ba46ba85e08d C3Arsinoe 1 125000 SigilOfCreationRingItem 
-daad77fb90218914eaa68c24068c946c C3Arsinoe 1 126000 TristianRing 
-71d0a43206dc9b449b6721c09b160332 C3Arsinoe 1 149000 RingOfEternalSkyItem 
-0afdc38b32896db4897b832b4b5242b8 C3Arsinoe 1 162000 RingOfHonorOfDeathItem 
-e9c38a2a8d25ddf44a12e57ed6f003f7 C3Arsinoe 1 183000 UnmakerRingItem 
-8bbc59e0c2e891346a2f1006cea2e810 C3Arsinoe 1 195000 RingOfUltimateProtectionLesserItem 
+97e6c9904cb2b8a40942068019f88be3 C3Arsinoe 1 50000 RingOfAcidImmunityItem 
+5004d122ca41d2b4897d9c2c5ec08439 C3Arsinoe 1 91200 RingOfLawItem 
+9811125a437824c41a1b106653de7eda C3Arsinoe 1 91200 RingOfBlurItem 
+97143f0ec43f505409929934811144c3 C3Arsinoe 1 91200 RingOfChaosItem 
+e270a14888c38dd44a6818ce2599ebbf C3Arsinoe 1 75000 RingOfPowerStoneItem 
+10260ec4544af3846baa124f04617b3f C3Arsinoe 1 68000 RingOfSourceOfInvisibilityItem 
+daad77fb90218914eaa68c24068c946c C3Arsinoe 1 96000 TristianRing 
+0afdc38b32896db4897b832b4b5242b8 C3Arsinoe 1 62000 RingOfHonorOfDeathItem 
+e9c38a2a8d25ddf44a12e57ed6f003f7 C3Arsinoe 1 53000 UnmakerRingItem 
+8bbc59e0c2e891346a2f1006cea2e810 C3Arsinoe 1 145000 RingOfUltimateProtectionLesserItem 
 db042ab0c7b93dc4c945c9a134b12d98 C4Gilmore 1 210000 RingOfBalanceLesserItem 
 459cff3f67aea3846a228e0119f5e522 C4Gilmore 1 223500 RingOfBalanceGreaterItem 
 a71872b5b18d31c42b8bfc19c9a16d5f C4Gilmore 1 248750 RingofSickeningEntanglement 
