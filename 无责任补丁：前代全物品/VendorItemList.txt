@@ -191,7 +191,6 @@ cdb9de995aa45aa4393706bc8af54f31 C3Wilcer 1 81600 TheMenanceDuelSwordItem 
 8762d9897514dd241b19e32ee9cf3f54 C3Wilcer 1 83000 CrossbowOfEscape 
 b6c71cc97303b0f4f9f0a28e14bbb66e C3Wilcer 1 123400 EyeOfTheTornadoLightRepShortbowItem 
 368792eeddcfcf747bacb15ee0e95a28 C3Wilcer 1 50000 FrozenCrescentItem 
-137fc6acf3f645a40a3ec041b472ba86 C3Wilcer 1 37500 PlanarHunterLightCrossbowItem 
 ad5cbd0bec32b6042abb0a0e82a43925 C3Wilcer 1 36870 ShadyLongbowItem 
 ceb4ae2d5f784e54594863a0a3e1813e C3Wilcer 1 36500 WhimsyItem 
 70e83bb165be77640bf6b798fdd8b2a9 C3Wilcer 1 60250 GhostLeatherItem 
