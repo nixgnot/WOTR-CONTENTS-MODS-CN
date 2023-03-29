@@ -27,6 +27,7 @@
 | [TabletopTweaks-Base](#TabletopTweaks-Base)  | TTT | 自带 | :heavy_check_mark:  | :star::star::star: | :file_folder::file_folder::file_folder: | 🛠️🛠️ ||
 | [TabletopTweaks-Reworks](#TabletopTweaks-Reworks)  | TTT神话扩展 | 自带 | :heavy_check_mark:  | :star::star: | :file_folder::file_folder: | 🛠️🛠️ ||
 | [TabletopTweaks-Flanking](#TabletopTweaks-Flanking)   | TTT夹击扩展 |   | :heavy_check_mark:  | :star::star: | :file_folder: | 🛠️🛠️ ||
+| [WrathMods-MultipleArchetypes](#WrathMods-MultipleArchetypes)   | 多重变体 |   | :heavy_check_mark:  | :star::star: | :file_folder: | 🛠️ ||
 | [MicroscopicContentExpansion](#MicroscopicContentExpansion)|Microscopic内容扩展| QL汉化 | :heavy_check_mark: | :star::star::star: | :file_folder::file_folder: |||
 | [SparsSorcerousSundries](#SparsSorcerousSundries) | SSS扩展 | QL汉化 | :heavy_check_mark: | :star::star: | :file_folder::file_folder: |||
 | [TomeOfTheFirebird](#TomeOfTheFirebird) | TOTF扩展 | QL汉化 | :heavy_check_mark: | :star::star::star: | :file_folder::file_folder::file_folder: |||
@@ -1685,8 +1686,15 @@
         </td><td>一拥而上：至少两个盟友与敌人邻接时视同形成夹击</td></tr>  
       <tr><td>Pack Flanking
         </td><td>兽群围猎 ：与动物伙伴威胁同一个对手视同形成夹击</td></tr>  
-
 </table>
+
+-------------------------------------------
+### [WrathMods-MultipleArchetypes](https://github.com/Vek17/WrathMods-MultipleArchetypes)
+> *前置：* 无<br>
+> *中文：* **无文本**<br>
+> *安装方式：* UMM<br>
+> *新增内容：* 多重变体<br>
++ 小型MOD，允许兼选同一职业的多个变体形成新的混合职业，前提是这些变体能力之间不会冲突（不会替换同一基础职业能力）
 
 -------------------------------------------
 ### [MicroscopicContentExpansion](https://github.com/alterasc/MicroscopicContentExpansion)
