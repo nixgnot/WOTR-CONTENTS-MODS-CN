@@ -1,0 +1,54 @@
+[
+  {
+    "Key": "MundaneBeating.Name",
+    // Don't process this since it is just a name. Without this it might create strange artifacts by trying to create
+    // links to encycolpedia pages.
+    "ProcessTemplates": false,
+    "zhCN": "平凡重击"
+  },
+
+  {
+    "Key": "MundaneBeating.Description",
+    "zhCN": "你的非重击攻击变得不寻常的强大。\效果：你的非重击攻击造成额外伤害，如同其尺寸增大一级。"
+  },
+
+  {
+    "Key": "ArchdruidArmor.Name",
+    // Don't process this since it is just a name. Without this it might create strange artifacts by trying to create
+    // links to encycolpedia pages.
+    "ProcessTemplates": false,
+    "zhCN": "大德鲁伊护甲"
+  },
+
+  {
+    "Key": "ArchdruidArmor.Description",
+    "zhCN": "你成为精擅树肤法术的大师 。/效果：你对自己施放的法师护甲可提供等于你的神话阶层的天生防御加值。"
+
+  },
+  {
+    "Key": "BaseGrappleFeature.Name",
+    // Don't process this since it is just a name. Without this it might create strange artifacts by trying to create
+    // links to encycolpedia pages.
+    "ProcessTemplates": false,
+    "zhCN": "精通擒抱"
+
+  },
+
+  {
+    "Key": "BaseGrappleFeature.Description",
+    "zhCN": "你可以进行擒抱。"
+  },
+
+  {
+    "Key": "Lion.Name",
+    "ProcessTemplates": false,
+
+    "zhCN": "动物伙伴（狮子）"
+  },
+
+
+  {
+    "Key": "Lion.Description",
+    "zhCN": "一只大猫。"
+  }
+]
