@@ -27,7 +27,7 @@
 | [TabletopTweaks-Base](#TabletopTweaks-Base)  | TTT | 自带 | :heavy_check_mark:  | :star::star::star: | :file_folder::file_folder::file_folder: | 🛠️🛠️ ||
 | [TabletopTweaks-Reworks](#TabletopTweaks-Reworks)  | TTT神话扩展 | 自带 | :heavy_check_mark:  | :star::star: | :file_folder::file_folder: | 🛠️🛠️ ||
 | [TabletopTweaks-Flanking](#TabletopTweaks-Flanking)   | TTT夹击扩展 |   | :heavy_check_mark:  | :star::star: | :file_folder: | 🛠️🛠️ ||
-| [WrathMods-MultipleArchetypes](#WrathMods-MultipleArchetypes)   | 多重变体 |   | :heavy_check_mark:  | :star::star: | :file_folder: | 🛠️ ||
+| [WrathMods-MultipleArchetypes](#WrathMods-MultipleArchetypes)   | 多重变体 |   | :heavy_check_mark:  | :star::star::star: | :file_folder: | 🛠️ ||
 | [MicroscopicContentExpansion](#MicroscopicContentExpansion)|Microscopic内容扩展| QL汉化 | :heavy_check_mark: | :star::star::star: | :file_folder::file_folder: |||
 | [SparsSorcerousSundries](#SparsSorcerousSundries) | SSS扩展 | QL汉化 | :heavy_check_mark: | :star::star: | :file_folder::file_folder: |||
 | [TomeOfTheFirebird](#TomeOfTheFirebird) | TOTF扩展 | QL汉化 | :heavy_check_mark: | :star::star::star: | :file_folder::file_folder::file_folder: |||
