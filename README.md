@@ -28,17 +28,17 @@
 | [TabletopTweaks-Reworks](#TabletopTweaks-Reworks)  | TTT神话扩展 | 自带 | :heavy_check_mark:  | :star::star: | :file_folder::file_folder: | 🛠️🛠️ ||
 | [TabletopTweaks-Flanking](#TabletopTweaks-Flanking)   | TTT夹击扩展 |   | :heavy_check_mark:  | :star::star: | :file_folder: | 🛠️🛠️ ||
 | [WrathMods-MultipleArchetypes](#WrathMods-MultipleArchetypes)   | 多重变体 |   | :heavy_check_mark:  | :star::star::star: | :file_folder: | 🛠️ ||
-| [MicroscopicContentExpansion](#MicroscopicContentExpansion)|Microscopic内容扩展| QL汉化 | :heavy_check_mark: | :star::star::star: | :file_folder::file_folder: |||
-| [SparsSorcerousSundries](#SparsSorcerousSundries) | SSS扩展 | QL汉化 | :heavy_check_mark: | :star::star: | :file_folder::file_folder: |||
+| [MicroscopicContentExpansion](#MicroscopicContentExpansion)|MCE内容扩展| QL汉化 | :heavy_check_mark: | :star::star::star: | :file_folder::file_folder: |||
+| [SparsSorcerousSundries](#SparsSorcerousSundries) | 物品扩展 | QL汉化 | :heavy_check_mark: | :star::star: | :file_folder::file_folder: |||
 | [TomeOfTheFirebird](#TomeOfTheFirebird) | TOTF扩展 | QL汉化 | :heavy_check_mark: | :star::star::star: | :file_folder::file_folder::file_folder: |||
-| [HomebrewArchetypes](#HomebrewArchetypes) | Homebrew(房规)变体 | 自带 | :x: | :star::star::star: | :file_folder::file_folder::file_folder: |||
+| [HomebrewArchetypes](#HomebrewArchetypes) | 房规变体 | 自带 | :x: | :star::star::star: | :file_folder::file_folder::file_folder: |||
 | [ExpandedContent2022](#ExpandedContent2022)  | 内容扩展2022 | 汉化 | :heavy_check_mark: | :star: | :file_folder::file_folder::file_folder: |||
 | [ToggleableThrowingWeapons](#ToggleableThrowingWeapons) | 可切换投掷武器 | QL汉化 | :heavy_check_mark: | :star::star::star: | :file_folder: |||
 | [MorvarchsPlaystyleExpansions](#MorvarchsPlaystyleExpansions)  | Morvarchs玩法扩展 |  | :heavy_check_mark: | :star::star::star: | :file_folder:||:steam_locomotive:|
-| [PhoenixsCantrips](#PhoenixsCantrips) | Phoenixs戏法强化 | 汉化 | :heavy_check_mark: | :star: | :file_folder: | 🛠️ ||
-| [MoreCantrips](#MoreCantrips) | Phoenixs更多戏法   | 汉化 | :heavy_check_mark: | :star: | :file_folder: | 🛠️ ||
-| [CharacterOptionsPlus](#CharacterOptionsPlus) | 角色选项+ | 自带 | :heavy_check_mark: | :star::star::star: | :file_folder::file_folder::file_folder: |||
-| [DarkCodex](#DarkCodex) | DarkCodex扩展和修复 | 汉化 | :heavy_check_mark: | :star::star::star: |  :file_folder::file_folder::file_folder: |🛠️🛠️ ||
+| [PhoenixsCantrips](#PhoenixsCantrips) | 戏法强化 | 汉化 | :heavy_check_mark: | :star: | :file_folder: | 🛠️ ||
+| [MoreCantrips](#MoreCantrips) | 更多戏法   | 汉化 | :heavy_check_mark: | :star: | :file_folder: | 🛠️ ||
+| [CharacterOptionsPlus](#CharacterOptionsPlus) | CO+扩展 | 自带 | :heavy_check_mark: | :star::star::star: | :file_folder::file_folder::file_folder: |||
+| [DarkCodex](#DarkCodex) | DC扩展修复 | 汉化 | :heavy_check_mark: | :star::star::star: |  :file_folder::file_folder::file_folder: |🛠️🛠️ ||
 | [AddedFeats](#AddedFeats) | 新增专长 | QL汉化 | :heavy_check_mark: |  :star::star: |  :file_folder::file_folder: |||
 | [BetterBackgrounds](#BetterBackgrounds) | 更多背景 | QL汉化| :x: |:star::star: | :file_folder: | 🛠️ ||
 | [MartialExcellence](#MartialExcellence) | 杰出武艺 | 自带 |:heavy_check_mark: | :star::star: | :file_folder::file_folder: |||
@@ -47,7 +47,7 @@
 | [MythicArcanist](#MythicArcanist) | 神话秘术 | 自带 | :heavy_check_mark: | :star::star::star: | :file_folder::file_folder: |||
 | [ChampionFeatsAnew](#ChampionFeatsAnew) | 冠军专长 |   | :heavy_check_mark: |  | :file_folder::file_folder: ||:steam_locomotive:|
 | [KineticistElementsExpanded](#KineticistElementsExpanded) | 操念元素扩展 | 汉化 | :heavy_check_mark: | :star: | :file_folder::file_folder: |||
-| [Madison'sMetagaming](#sMetagaming) | Madison的超级游戏 | |:heavy_check_mark: |  | :file_folder: |||
+| [Madison'sMetagaming](#sMetagaming) | Madison扩展 | |:heavy_check_mark: |  | :file_folder: |||
 | [NinjaClass](#NinjaClass) | 忍者职业 | 汉化 | :x: | :star: | :file_folder: |||
 | [BrawlerClass](#BrawlerClass) | 拳师职业 |QL汉化 | :heavy_check_mark: | :star: | :file_folder::file_folder: |||
 | [WOTR_PATH_OF_BLING](#WOTR_PATH_OF_BLING) | 金龙重做  | |:heavy_check_mark: | |:file_folder: |🛠️||
