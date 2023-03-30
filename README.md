@@ -3215,7 +3215,7 @@ C:\Users\你的用户名\AppData\LocalLow\Owlcat Games\Pathfinder Wrath Of The R
 > *中文：* **自带中文**<br>
 > *安装方式：* **非UMM**<br>
 > *新增内容：* 战斗祭司变体：随军神父<br>
-+ 正义之怒群友自制，增加战斗祭司新变体随军神父。本文档[Release页面](https://github.com/nixgnot/WOTR-CONTENTS-MODS-CN/releases)处可下载，注意非UMM安装
++ 正义之怒群友自制，增加战斗祭司新变体随军神父。本文档[Release页面](https://github.com/nixgnot/WOTR-CONTENTS-MODS-CN/releases)处可下载（SuiJunShenFu.zip），注意非UMM安装
  
 --------------------------------------
 ### 功能MOD索引
