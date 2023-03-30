@@ -58,6 +58,7 @@
 | [WOTR_IsekaiMod](#WOTR_IsekaiMod) | 异世界主角| |:heavy_check_mark: | :star: | :file_folder: |||
 | [Way-of-the-shield](#Way-of-the-shield) | 盾牌之道 |自带 |:heavy_check_mark: | :star: | :file_folder::file_folder: |🛠️||
 | [CyniikalBrokenFeatures](#CyniikalBrokenFeatures) | 法师虚学派 |QL汉化| :heavy_check_mark: | :star: | :file_folder::file_folder: |||
+| [随军神父](#随军神父) | 随军神父 | 自带 | :heavy_check_mark: | :star: | :file_folder: |||
 
 备注
 + UMM一栏为是否使用UMM安装
@@ -3199,6 +3200,7 @@ C:\Users\你的用户名\AppData\LocalLow\Owlcat Games\Pathfinder Wrath Of The R
           <td>增加圆盾格挡次数</td></tr>
 </table>
 
+-------------------------------------------   
 ### CyniikalBrokenFeatures
 > *前置：* 无<br>
 > *中文：* **QL汉化**<br>
@@ -3207,7 +3209,15 @@ C:\Users\你的用户名\AppData\LocalLow\Owlcat Games\Pathfinder Wrath Of The R
 + 增加了法师的虚学派
 + 原发布在Discord，本文档Release处有临时下载
 
-   --------------------------------------
+-------------------------------------------   
+### 随军神父
+> *前置：* 无<br>
+> *中文：* **自带中文**<br>
+> *安装方式：* **非UMM**<br>
+> *新增内容：* 战斗祭司变体：随军神父<br>
++ 正义之怒群友自制，增加战斗祭司新变体随军神父。本页面Release处可下载，注意非UMM安装
++ 
+--------------------------------------
 ### 功能MOD索引
 + [ToyBox](https://www.nexusmods.com/pathfinderwrathoftherighteous/mods/8) 应该不用介绍？
 + [RespecMod](https://github.com/BarleyFlour/RespecMod) 洗点MOD（允许更自由洗点，自定义初始点数等）
