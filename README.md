@@ -3022,9 +3022,22 @@ C:\Users\你的用户名\AppData\LocalLow\Owlcat Games\Pathfinder Wrath Of The R
 > *安装方式：* **UMM**<br>
 > *修改内容：* <br>
 > *新增内容：* 拳师职业<br>
-+ 加入了Brawler 拳师职业
-+ **已有2.10临时版本和汉化，请在release下载MOD，在上方下载汉化**
-        
++ 加入了Brawler 拳师职业。原发布页已经更新了2.10版本<br>
++ **已有汉化**，通过QL挂载<br>
+<table>  
+<tr><th colspan="2">新增内容列表<br></th></tr> 
+  <tr><td rowspan="10">职业及变体</i></td>
+       <td>拳师 Brawler</td></tr>
+       <tr><td> - 毒拳士 Venomous Fist</td></tr>
+       <tr><td> - 野性之子 Wild Child</td></tr>
+       <tr><td> - 蛇咬击士 Snakebite Striker</td></tr>
+       <tr><td> - 断钢拳士 Steel-Breaker</td></tr>
+       <tr><td> - 地头蛇 Turfer</td></tr>
+       <tr><td> - 搏兽士 Beast Wrestler</td></tr>
+       <tr><td> - 教头 Exemplar</td></tr>
+       <tr><td> - 变异狂徒 Mutagenic Mauler</td></tr>
+ </table>  
+               
 -------------------------------------------   
 ### [WOTR_PATH_OF_BLING](https://github.com/Balkoth-dev/WOTR_PATH_OF_BLING)
 ### [WOTR_PATH_OF_HELL](https://github.com/Balkoth-dev/WOTR_PATH_OF_HELL)
