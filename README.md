@@ -3014,6 +3014,14 @@ C:\Users\你的用户名\AppData\LocalLow\Owlcat Games\Pathfinder Wrath Of The R
 > *修改内容：* <br>
 > *新增内容：* 忍者职业<br>
 + 加入了Ninja 忍者职业，较久没有更新
+<table>  
+<tr><th colspan="2">新增内容列表<br></th></tr> 
+  <tr><td rowspan="4">职业及变体</i></td>
+       <td>忍者 Ninja</td></tr>
+       <tr><td> - 轩猿众 Nokizaru</td></tr>
+       <tr><td> - 千面狐 Formless Ninja</td></tr>
+       <tr><td> - 火影忍者 Rappa</td></tr>
+ </table>  
           
 ------------------------------------------- 
 ### [BrawlerClass](https://www.nexusmods.com/pathfinderwrathoftherighteous/mods/207)
@@ -3026,7 +3034,7 @@ C:\Users\你的用户名\AppData\LocalLow\Owlcat Games\Pathfinder Wrath Of The R
 + **已有汉化**，通过QL挂载<br>
 <table>  
 <tr><th colspan="2">新增内容列表<br></th></tr> 
-  <tr><td rowspan="10">职业及变体</i></td>
+  <tr><td rowspan="9">职业及变体</i></td>
        <td>拳师 Brawler</td></tr>
        <tr><td> - 毒拳士 Venomous Fist</td></tr>
        <tr><td> - 野性之子 Wild Child</td></tr>
