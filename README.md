@@ -33,7 +33,7 @@
 | [TomeOfTheFirebird](#TomeOfTheFirebird) | TOTF扩展 | QL汉化 | :heavy_check_mark: | :star::star::star: | :file_folder::file_folder::file_folder: |||
 | [HomebrewArchetypes](#HomebrewArchetypes) | 房规变体 | 自带 | :x: | :star::star::star: | :file_folder::file_folder::file_folder: |||
 | [ExpandedContent2022](#ExpandedContent2022)  | 内容扩展2022 | 汉化 | :heavy_check_mark: | :star: | :file_folder::file_folder::file_folder: |||
-| [ToggleableThrowingWeapons](#ToggleableThrowingWeapons) | 可切换投掷武器 | QL汉化 | :heavy_check_mark: | :star::star::star: | :file_folder: |||
+| [ToggleableThrowingWeapons](#ToggleableThrowingWeapons) | 切换投掷 | QL汉化 | :heavy_check_mark: | :star::star::star: | :file_folder: |||
 | [MorvarchsPlaystyleExpansions](#MorvarchsPlaystyleExpansions)  | MPE扩展 |  | :heavy_check_mark: | :star::star::star: | :file_folder:||:steam_locomotive:|
 | [PhoenixsCantrips](#PhoenixsCantrips) | 戏法强化 | 汉化 | :heavy_check_mark: | :star: | :file_folder: | 🛠️ ||
 | [MoreCantrips](#MoreCantrips) | 更多戏法   | 汉化 | :heavy_check_mark: | :star: | :file_folder: | 🛠️ ||
