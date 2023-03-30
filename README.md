@@ -90,7 +90,7 @@
 
 ### GITHUB访问和MOD下载
 + 在国内很多网络环境，Github访问都存在一定抽风现象，会出现时不时打开失败。通常刷新就可以解决。如果实在问题严重，[Watt Toolkit](https://steampp.net/)可以帮到你。
-+ 给予完全萌新的提示：大部分MOD发布页中，直接点击右侧**Releases** 按钮即打开下载页面，Assets中第一项即为MOD。下载后不需要解压缩，直接使用UMM或者ModFinder安装。
++ 给予完全萌新的提示：大部分MOD发布页中，直接点击右侧[Release页面](https://github.com/nixgnot/WOTR-CONTENTS-MODS-CN/releases)按钮即打开下载页面，Assets中第一项即为MOD。下载后不需要解压缩，直接使用UMM或者ModFinder安装。
 
 ### Nexus访问和MOD下载
 + Nexus的MOD在标题右方的Manual按钮即可直接下载。如果有额外文件会在FILES标签中。
@@ -102,10 +102,10 @@
 > 如果需要单独汉化文件，可以自行新建文本文档并复制放入文件内容，注意保存格式为**UTF-8**<br>
 > 汉化文件的使用请参考下方
 + **辅助工具下载**
-> 在右侧的Release中，可以下载**MOD外挂汉化工具QuickLocalization**、**Pathfinder中文文档**<br>
+> 在[Release页面](https://github.com/nixgnot/WOTR-CONTENTS-MODS-CN/releases)中，可以下载**MOD外挂汉化工具QuickLocalization**、**Pathfinder中文文档**<br>
 > 注意不要下载Source code，为空文件
 + **临时MOD下载**
-> 在右侧的Release中，可以临时下载**一部分没有主页发布的2.10MOD**<br>
+> 在[Release页面](https://github.com/nixgnot/WOTR-CONTENTS-MODS-CN/releases)，可以临时下载**一部分没有主页发布的2.10MOD**<br>
 > 注意不要下载Source code，为空文件
 
 ### 前置MOD
@@ -1739,7 +1739,7 @@
 > *修改内容：* 修复辉光最终形态附魔效果<br>
 > *新增内容：* 物品、法术等<br>
 + 主要是增加物品
-+ **2.1版本Discord发布了临时更新，可在本处Release下载临时版**
++ **2.1版本Discord发布了临时更新，可在本处[Release页面](https://github.com/nixgnot/WOTR-CONTENTS-MODS-CN/releases)下载临时版**
 <table>
 <tr><th colspan="2">新增内容列表</th></tr> 
    <tr><td>前作武器</td>
@@ -1748,7 +1748,7 @@
        <td>增加10件新物品，1个新法术</td></tr>
 </table>
 
-> 本处补充一个自制补丁，需要安装SparsSorcerousSundries才能使用<br>
+> 上方文件中补了充一个自制补丁，需要安装SparsSorcerousSundries才能使用<br>
 > 在商店添加了几乎全部前代特殊装备<br>
 > 售价随便定的，效果也可能有BUG，仅供娱乐！<br>
 
@@ -3207,7 +3207,7 @@ C:\Users\你的用户名\AppData\LocalLow\Owlcat Games\Pathfinder Wrath Of The R
 > *安装方式：* **UMM**<br>
 > *新增内容：* 法师学派：虚<br>
 + 增加了法师的虚学派
-+ 原发布在Discord，本文档Release处有临时下载
++ 原发布在Discord，本文档[Release页面](https://github.com/nixgnot/WOTR-CONTENTS-MODS-CN/releases)处有临时下载
 
 -------------------------------------------   
 ### 随军神父
@@ -3215,8 +3215,8 @@ C:\Users\你的用户名\AppData\LocalLow\Owlcat Games\Pathfinder Wrath Of The R
 > *中文：* **自带中文**<br>
 > *安装方式：* **非UMM**<br>
 > *新增内容：* 战斗祭司变体：随军神父<br>
-+ 正义之怒群友自制，增加战斗祭司新变体随军神父。本页面Release处可下载，注意非UMM安装
-+ 
++ 正义之怒群友自制，增加战斗祭司新变体随军神父。本文档[Release页面](https://github.com/nixgnot/WOTR-CONTENTS-MODS-CN/releases)处可下载，注意非UMM安装
+ 
 --------------------------------------
 ### 功能MOD索引
 + [ToyBox](https://www.nexusmods.com/pathfinderwrathoftherighteous/mods/8) 应该不用介绍？
