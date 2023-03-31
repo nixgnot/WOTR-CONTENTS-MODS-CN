@@ -110,6 +110,9 @@
 + 一般来说，将原始语言文件**复制一份**进行编辑最为简便。（注意你可能需要**修改文件头尾，或者将"Value"改为"zhCN"供QL识别**）
 + 复制后的文件语言文件可能还有一些额外信息，比如"ProcessTemplates"、"enGB"等，可以**不必理会**。只要不破坏文件格式就不会影响QL识别
 + 你可以在[这里](https://github.com/nixgnot/WOTR-CONTENTS-MODS-CN/tree/main/QuickLocalization%E7%94%A8%E6%B1%89%E5%8C%96%E6%96%87%E6%9C%AC/Localization)找到很多QL语言文件的例子
++ 完成汉化文件准备(**注意编码格式用utf-8！**)后，将其放置在**路径\Mods\QuickLocalization\Localization**即可生效
++ 你可以随时修改汉化文件，然后在游戏中Ctrl+F10呼出菜单，在QL中选择重载文本，即可看到更新后效果（可能需要关闭一下游戏中界面再打开）
++ 建议校验一下汉化文件。如果汉化文件格式有误，QL本身也会报错提示错误位置
 
 ### 官方接口MOD格式
 所谓官方接口MOD，就是指的**非UMM安装**，安装在Locallow文件夹中一类MOD，比如[HomebrewArchetypes](https://github.com/nixgnot/WOTR-CONTENTS-MODS-CN#HomebrewArchetypes)  
