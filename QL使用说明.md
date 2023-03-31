@@ -46,11 +46,11 @@
    + JSON语法检查工具，比如**VScode**或者[在线校验](https://www.sojson.com/)
    + MOD反编译工具，比如[**dnSpy**](https://github.com/dnSpy/dnSpy)
 ### 标准语言文件格式
-本部分适用于**有语言文件**，且使用**标准语言文件**接口的MOD  
-典型的代表是[Way of the Shield](https://github.com/nixgnot/WOTR-CONTENTS-MODS-CN#Way-of-the-shield)  
-这类MOD在MOD路径下有标准的语言文件，一般在**Localization**文件夹下，**enGB.json**为英文语言文件   
-打开后可以很明显看到，"**Key**"是文本的索引，而"**Value**"是文本内容。
-实际上通过复制一份**enGB.json**，汉化内容，然后改名为**zhCN.json**即可实现汉化，不需要依赖QL  
+本部分适用于**有语言文件**，且使用**标准语言文件**接口的MOD  <br>
+典型的代表是[Way of the Shield](https://github.com/nixgnot/WOTR-CONTENTS-MODS-CN#Way-of-the-shield)  <br>
+这类MOD在MOD路径下有标准的语言文件，一般在**Localization**文件夹下，**enGB.json**为英文语言文件   <br>
+打开后可以很明显看到，"**Key**"是文本的索引，而"**Value**"是文本内容<br>
+实际上通过复制一份**enGB.json**，汉化内容，然后改名为**zhCN.json**即可实现汉化，不需要依赖QL  <br>
 ```
 {
 
@@ -73,9 +73,9 @@
 	]	
 }
 ```
-也有一些MOD的语言文件是**单个文件**，内容同时包含中文和英文文本  
-这里"**Key**"是文本的索引，而"**enGB**"、"**zhCN**"是对应语言的文本内容  
-这类MOD可以直接将汉化文本写入"zhCN":后面，如果没有该行，也可以自行增加（注意格式标点）
+也有一些MOD的语言文件是**单个文件**，内容同时包含中文和英文文本  <br>
+这里"**Key**"是文本的索引，而"**enGB**"、"**zhCN**"是对应语言的文本内容  <br>
+这类MOD可以直接将汉化文本写入"zhCN":后面，如果没有该行，也可以自行增加（注意格式标点）<br>
 ```
 [
   {
@@ -107,40 +107,136 @@
 ```
 + 一目了然，只需要**将“Key”和"zhCN"一一对应**，就能完成汉化。其中Key直接在原语言文件就能找到
 + 请注意汉化文件**最前面和最后面的[]**
++ 语言文件代码是**大小写敏感**的，请注意不要出错
 + 一般来说，将原始语言文件**复制一份**进行编辑最为简便。（注意你可能需要**修改文件头尾，或者将"Value"改为"zhCN"供QL识别**）
 + 复制后的文件语言文件可能还有一些额外信息，比如"ProcessTemplates"、"enGB"等，可以**不必理会**。只要不破坏文件格式就不会影响QL识别
 + 你可以在[这里](https://github.com/nixgnot/WOTR-CONTENTS-MODS-CN/tree/main/QuickLocalization%E7%94%A8%E6%B1%89%E5%8C%96%E6%96%87%E6%9C%AC/Localization)找到很多QL语言文件的例子
-+ 完成汉化文件准备(**注意编码格式用utf-8！**)后，将其放置在**路径\Mods\QuickLocalization\Localization**即可生效
++ 完成汉化文件准备(**注意编码格式用utf-8！**)后，将其放置在 **\Mods\QuickLocalization\Localization** 即可生效
 + 你可以随时修改汉化文件，然后在游戏中Ctrl+F10呼出菜单，在QL中选择重载文本，即可看到更新后效果（可能需要关闭一下游戏中界面再打开）
 + 建议校验一下汉化文件。如果汉化文件格式有误，QL本身也会报错提示错误位置
 
 ### 官方接口MOD格式
 所谓官方接口MOD，就是指的**非UMM安装**，安装在Locallow文件夹中一类MOD，比如[HomebrewArchetypes](https://github.com/nixgnot/WOTR-CONTENTS-MODS-CN#HomebrewArchetypes)  
-这类MOD**全部使用标准语言接口**，可以直接汉化   
-也可以使用QL挂载，汉化方法参考上一章节即可  
+这类MOD**全部使用标准语言接口**，可以直接汉化  <br> 
+也可以使用QL挂载，汉化方法参考上一章节即可  <br>
 
 ### 无语言文件的MOD
-这类MOD**不会生成语言文件，也不会读取**
-但是我们依然可以**使用QL进行外挂汉化**
-典型例子如ToggleableThrowingWeapons(https://github.com/nixgnot/WOTR-CONTENTS-MODS-CN#ToggleableThrowingWeapons)  
-要汉化此类MOD，你可能需要**少量的编程知识（一丁点就行）**  
-在[ToggleableThrowingWeapons的发布页](https://github.com/pheonix99/ToggleableThrowingWeapons)我们能直接看到其源代码文件  
-在[ModeSwitching.cs](https://github.com/pheonix99/ToggleableThrowingWeapons/blob/master/ToggleableThrowingWeapons/Content/ModeSwitching.cs)中可以找到下列代码  
+这类MOD**不会生成语言文件，也不会读取**<br>
+但是我们依然可以**使用QL进行外挂汉化**<br>
+典型例子如ToggleableThrowingWeapons(https://github.com/nixgnot/WOTR-CONTENTS-MODS-CN#ToggleableThrowingWeapons)  <br>
+要汉化此类MOD，你可能需要**少量的编程知识（一丁点就行）**  <br>
+在[ToggleableThrowingWeapons的发布页](https://github.com/pheonix99/ToggleableThrowingWeapons)我们能直接看到其源代码文件  <br>
+在[ModeSwitching.cs](https://github.com/pheonix99/ToggleableThrowingWeapons/blob/master/ToggleableThrowingWeapons/Content/ModeSwitching.cs)中可以找到下列代码  <br>
 ```
  var desc = LocalizationTool.CreateString("ThrowWeaponsToggle.Desc", "Use Daggers And Starknives As Ranged Weapons");
             var toglleCOnfig = ActivatableAbilityConfigurator.For(toggleBP).SetDisplayName(LocalizationTool.CreateString("ThrowWeaponsToggle.Name", "Throw Weapons")).SetDescription(desc).SetDescriptionShort(desc);
 ```
-其中，**ThrowWeaponsToggle.Desc**即为**Key**，后面为其文本；下面则是**ThrowWeaponsToggle.Name**及其对应文本。
-那么只需要在QL汉化文件中将其一一对应，即可实现汉化，[示例](https://github.com/nixgnot/WOTR-CONTENTS-MODS-CN/blob/main/QuickLocalization%E7%94%A8%E6%B1%89%E5%8C%96%E6%96%87%E6%9C%AC/Localization/ToggleableThrowingWeapons/ToggleableThrowingWeapons.json)  
+其中，**ThrowWeaponsToggle.Desc**即为**Key**，后面为其文本；下面则是**ThrowWeaponsToggle.Name**及其对应文本。<br>
+那么只需要在QL汉化文件中将其一一对应，即可实现汉化，[示例](https://github.com/nixgnot/WOTR-CONTENTS-MODS-CN/blob/main/QuickLocalization%E7%94%A8%E6%B1%89%E5%8C%96%E6%96%87%E6%9C%AC/Localization/ToggleableThrowingWeapons/ToggleableThrowingWeapons.json)  <br>
 + 一般来说，将**MOD源文件**打包下载，然后使用支持多重文件内容搜索的**Powergrep**来查询文本比较迅捷
 + 不同MOD的写法并不一定一致，有的可能会用自行定义的其他方法来调用**CreateString**，甚至用循环变量来生成多条类似的文本，所以需要一定的代码阅读能力
 
 ### 无语言文件且未开源的MOD
-还有一些MOD，不光没有语言文件，甚至也没有开源  
-所幸MOD本身的dll文件都没有加密，所以我们可以使用[反编译软件](https://github.com/dnSpy/dnSpy)直接打开dll文件来阅读代码实现汉化
-其实现方式参考上一节
+还有一些MOD，不光没有语言文件，甚至也没有开源  <br>
+所幸MOD本身的dll文件都没有加密，所以我们可以使用[反编译软件](https://github.com/dnSpy/dnSpy)直接打开dll文件来阅读代码实现汉化<br>
+其实现方式参考上一节<br>
 + 因为dnSpy的分析能力比较好用，我甚至开源也喜欢用他来读代码我会说嘛
 + 本身我dnSpy也不怎么会用，就不在此献丑了
 
 ### 使用TTT语言接口的MOD
-施工中
+有大量基于TTT核心（TabletopTweaks-Core）的MOD（当然也包括TTT本身）使用的是TTT自带的语言系统  <br>
++ 但是并不是说需要TTT核心前置的MOD必定使用该系统<br>
+这类MOD都自带语言文件，可以不依赖于QL实现汉化  <br>
+但是恕我直言....这个语言系统简直就是**屎山**.....**建议全部改用QL挂载**  <br>
+下面这是一个典型的使用TTT语言系统的MOD语言文件<br>
+```
+{
+  "LocalizedStrings": [
+    {
+      "Key": "f9efdd62ab6e4956b59147e896d33a2f",
+      "SimpleName": "AbundantPreparationFeature.Description",
+      "ProcessTemplates": true,
+      "enGB": "You've learned a way to increase the number of spells you can prepare per day.\nBenefit: You can prepare four more spells per day of 1st, 2nd, and 3rd levels each. This ability only affects arcanist spellbooks.",
+      "ruRU": null,
+      "deDE": null,
+      "frFR": null,
+      "zhCN": "你学会了增加每天可以准备的法术数量的方法。\n效果：你可以每天准备4个额外的1、2、3级法术。此能力只作用于奥能师法术书。",
+      "esES": null
+    },
+  ...
+  ]
+}
+```
+和之前**标准语言文件格式**不同的是，这里我们需要注意三行  <br>
++ **"Key"** 是前面的**文本索引**
+   + 你可能已经注意到，和**标准语言文件格式**不同的是，**TTT文件格式**的Key是一串**数字字母代码**
++ **"SimpleName"** 是MOD作者用来标明这个文本的用处的，此处我们称之为**文本名**
+   + 你可能又已经注意到，此处的**文本名**和之前**标准语言文件格式**的 **"Key"** 类似
++ **"zhCN"** 是中文文本
+
+TTT这个语言系统的本意可能是为了避免不同MOD间文本的冲突（比如两个MOD都做了aaa这个专长，但是效果不同，他们的描述 **"Key"** 都是aaa.Description就会导致冲突）  <br>
+只要每条文本都拥有一个独立的**代码**，那就完全不会有此问题了  <br>
+然而事与愿违，这实际上引起了更大的问题<br>
+
+对于**标准语言文件格式**，直接使用**文本名**作为**Key**，每次MOD更新一般也只会加入新内容，或者偶尔修改一部分老内容<br>
+而对于**TTT文件格式**最大的问题就是，不知道什么原理，每次**MOD更新后**，某一文本(比如"魔法飞弹")对应的 **"Key"(代码)** 都会**大量变化**  <br>
+甚至不同人安装的MOD，其某一文本对应的 **"Key"(代码)** 都可能会 **不同**  <br>
+这就导致每次MOD更新后，之前的**汉化文件都会部分失效**  <br>
+由于Key看起来完全就是一串乱码不具备可读性，排查修复起来就会更为困难  <br>
+例如旧版是  <br>
+```
+{
+  "LocalizedStrings": [
+    {
+      "Key": "1112223331001",
+      "SimpleName": "MagicMissle.Name",
+      "enGB": "Magic Missle",
+      "zhCN": "魔法飞弹",
+    },
+  ...
+  ]
+}
+```
+新版魔法飞弹对应的文本就可能会变成1112223444555  <br>
+那你之前的汉化文件，当然就不能用了  <br>
+
+而这还不是最糟糕的....  <br>
+由于MOD汉化者也不可能每次都及时更新，当你更新MOD并启动后，MOD会发现，哎呀语言文件里怎么没有魔法飞弹需要的1112223444555呢....  <br>
+没关系！我生成一个！<br>
+于是你的语言文件就会变成这样：<br>
+```
+{
+  "LocalizedStrings": [
+    {
+      "Key": "1112223331001",
+      "SimpleName": "MagicMissle.Name",
+      "enGB": "Magic Missle",
+      "zhCN": "魔法飞弹",
+    },
+    {
+      "Key": "1112223444555",
+      "SimpleName": "MagicMissle.Name",
+      "enGB": "Magic Missle",
+      "zhCN": null,
+    },
+  ...
+  ]
+}
+```
+由于MOD源代码中并没有中文文本（其实应该做个读取旧文件自动更新的功能，但是TTT作者没做），新生成的文本中没有中文文本，汉化也就失效了  <br>
+然后汉化者把1112223444555对应汉化做了后，下次他又变成1112223678909了 😢<br>
+
+时至今日，当你打开[TabletopTweaks-Base](https://github.com/nixgnot/WOTR-CONTENTS-MODS-CN#TabletopTweaks-Base)或者[ExpandedContent2022](https://github.com/nixgnot/WOTR-CONTENTS-MODS-CN#ExpandedContent2022)的语言文件，你就会看到一座货真价实的**屎山**  <br>
+大量不同版本的**重复文本**堆积在一起，让原语言文件大了几倍...维护也根本无从下手  <br>
+你甚至不知道**哪个Key是对应正确的文本**<br>
+
+所幸现在我们可以用QL**解决这个问题**<br>
+特别注意，对于**TTT文件格式** MOD的QL外挂汉化，需要放置路径为 **\Mods\QuickLocalization\TTTLocalization**
+
+
+
+
+
+
+
+
