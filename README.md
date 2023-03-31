@@ -127,6 +127,7 @@
 + 只要原MOD更新后没有修改语言文件，汉化也不会受到更新影响
 + 且本工具可以实现在游戏启动中动态重载文本，来帮助进行所见即所得的汉化或修改汉化文件错误
 + 在[Release页面](https://github.com/nixgnot/WOTR-CONTENTS-MODS-CN/releases)可以找到最新QuickLocalization下载
++ 在[这里](https://github.com/nixgnot/WOTR-CONTENTS-MODS-CN/blob/main/QL%E4%BD%BF%E7%94%A8%E8%AF%B4%E6%98%8E.md)可以阅读QuickLocalization的详细使用说明
 
 > 本MOD由@magicskysword制作，适用版本为WOTR 2.1<br>
 > 该版本为临时版本，不保证完善。但该MOD不涉及任何存档操作，不会对游戏本身造成任何影响。
