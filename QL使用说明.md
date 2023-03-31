@@ -6,14 +6,14 @@
 
 ## 目录
 
-- [QuickLocalization使用]#QuickLocalization使用
-  - [我为什么要使用QL]#我为什么要使用QL
-  - [QL使用指南]#QL使用指南
-- [进阶：QL运行机制和文件格式]#进阶：QL运行机制和文件格式
-  - [标准语言文件格式]#标准语言文件格式
-  - [官方接口MOD格式]#官方接口MOD格式
-  - [无语言文件的MOD]#无语言文件的MOD
-  - [使用TTT语言接口的MOD]#使用TTT语言接口的MOD
+- [QuickLocalization使用](#QuickLocalization使用)
+  - [我为什么要使用QL](#我为什么要使用QL)
+  - [QL使用指南](#QL使用指南)
+- [进阶：QL运行机制和文件格式](#进阶：QL运行机制和文件格式)
+  - [标准语言文件格式](#标准语言文件格式)
+  - [官方接口MOD格式](#官方接口MOD格式)
+  - [无语言文件的MOD](#无语言文件的MOD)
+  - [使用TTT语言接口的MOD](#使用TTT语言接口的MOD)
 
 
 ## QuickLocalization使用
