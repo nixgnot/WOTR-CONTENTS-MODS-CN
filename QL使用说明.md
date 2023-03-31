@@ -190,6 +190,7 @@ TTT这个语言系统的本意可能是为了避免不同MOD间文本的冲突�
     {
       "Key": "1112223331001",
       "SimpleName": "MagicMissle.Name",
+      "ProcessTemplates": true,
       "enGB": "Magic Missle",
       "zhCN": "魔法飞弹",
     },
@@ -210,12 +211,14 @@ TTT这个语言系统的本意可能是为了避免不同MOD间文本的冲突�
     {
       "Key": "1112223331001",
       "SimpleName": "MagicMissle.Name",
+      "ProcessTemplates": true,
       "enGB": "Magic Missle",
       "zhCN": "魔法飞弹",
     },
     {
       "Key": "1112223444555",
       "SimpleName": "MagicMissle.Name",
+      "ProcessTemplates": true,
       "enGB": "Magic Missle",
       "zhCN": null,
     },
@@ -232,9 +235,48 @@ TTT这个语言系统的本意可能是为了避免不同MOD间文本的冲突�
 
 所幸现在我们可以用QL**解决这个问题**<br>
 特别注意，对于**TTT文件格式** MOD的QL外挂汉化，需要放置路径为 **\Mods\QuickLocalization\TTTLocalization**
+其格式如下
+```
+{
+  "ModPath":"***/Localization/LocalizationPack.json",
+  "LocalizedStrings": [
+    {
+      "Key": "1112223331001",
+      "SimpleName": "MagicMissle.Name",
+      "ProcessTemplates": true,
+      "enGB": "Magic Missle",
+      "zhCN": "魔法飞弹",
+    },
+    ...
+    ]
+}
+```
++ 请注意文本两端的{"ModPath":... "LocalizedStrings": [...]}和前述格式的区别
++ **"ModPath"** 中，需要指定 **原MOD语言文件** 的位置，注意是\ 而不是 /
++ 此处的 **"Key"** 、 **"ProcessTemplates"** 、 **"enGB"** 从原文件复制而来，实际不生效，**不需要理会**
+在这种模式下，QL的**工作机制有所不同**<br>
+QL会先去搜索**原MOD语言文件**，记录下所有 **"SimpleName"(文本名)** 为 **"MagicMissle.Name"** 的文本对应的 **"Key"(代码)**<br>
+在上面的例子里，就是1112223331001、1112223444555、1112223678909<br>
+随后，QL会将这三个Key**全部替换**为 **QL汉化文件中的汉化文本**<br>
+
++ 由于MOD更新后，**"SimpleName"(文本名)** 并不会改变，所以可以避免 **"Key"(代码)** 改变导致汉化失效
++ 即使存在重复文本，QL也能完成**全部替换**，防止找不到正确文本
+
+额外说明：某些MOD有一部分文本使用**TTT文件格式**，但是一部分文本没有使用，此处可以混合使用QL两种模式，一部分不指定  **"SimpleName"(文本名)**，直接使用 **"Key"** 完成汉化<br>
+[示例](https://github.com/nixgnot/WOTR-CONTENTS-MODS-CN/blob/main/QuickLocalization%E7%94%A8%E6%B1%89%E5%8C%96%E6%96%87%E6%9C%AC/TTTLocalization/TomeOfTheFirebird/TomeOfTheFirebird.json)
 
 
+**其他存在的问题**<br>
+使用QL挂载，能解决大部分**TTT文件格式** ，但是依然存在问题<br>
+很容易理解的是，按照这种工作模式，在 **QL汉化文件** 中不能存在重复的 **"SimpleName"(文本名)**（实际上会识别第一条文本并报错，但是可以正常读取） <br>
+如果你复制 **原MOD语言文件** 来制作  **QL汉化文件** ,你需要手动删除重复的**屎山文本** 来防止报错  <br>
 
+但是，有些MOD，在 **原MOD语言文件** 就存在，**并不是同一个文本** 但是 **"SimpleName"(文本名)** 相同的情况<br>
+其中大部分是原作者写错了，少部分是写法不规范故意为之<br>
+对于这种文本，如果使用 **QL汉化文件** 会导致**所有文本都被统一成一个** ，影响使用<br>
++ 此处建议有二种解决办法
+   + 如果不需要汉化（原MOD已有），可以在 **QL汉化文件** 中删除对应字段，使用**原MOD语言文件**
+   + 如果需要汉化或对文本进行修改，可以在 **QL汉化文件** 中 **不指定SimpleName** ，直接使用**原MOD语言文件** 中查询获得的 **"Key"(一串代码数字)** 进行汉化，但是版本更新后依然需要修改
 
 
 
