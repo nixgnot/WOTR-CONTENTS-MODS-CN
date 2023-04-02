@@ -304,7 +304,7 @@
       <tr><td>NauseatedDescriptors
         </td><td>:heavy_check_mark:
         </td><td>:x:
-        </td><td>移除恶心的移动受限描述</td></tr>
+        </td><td>移除反胃的中毒描述</td></tr>
       <tr><td>SpellImmunity
         </td><td>:heavy_check_mark:
         </td><td>:x:
