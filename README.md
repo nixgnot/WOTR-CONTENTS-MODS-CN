@@ -248,7 +248,7 @@
       <tr><td>FixConcealment
         </td><td>:heavy_check_mark:
         </td><td>:x:
-        </td><td>修复隐形的隐蔽检定</td></tr>
+        </td><td>修复隐形的隐蔽效果</td></tr>
       <tr><td>FixCriticalConfirmation
         </td><td>:heavy_check_mark:
         </td><td>:x:
