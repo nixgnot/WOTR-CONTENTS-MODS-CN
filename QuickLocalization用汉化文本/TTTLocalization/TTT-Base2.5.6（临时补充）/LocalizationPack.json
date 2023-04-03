@@ -255,6 +255,50 @@
       "esES": null
     },
     {
+      "Key": "144ae4054cf04ad6bf120cd512f0a4b3",
+      "SimpleName": "AccursedHexBuff.Name",
+      "ProcessTemplates": false,
+      "enGB": "Accursed Hex",
+      "ruRU": null,
+      "deDE": null,
+      "frFR": null,
+      "zhCN": "诅咒巫术",
+      "esES": null
+    },
+    {
+      "Key": "fcf48dcd32ec45a481de759b8b82144c",
+      "SimpleName": "AccursedHexFeature.Description",
+      "ProcessTemplates": true,
+      "enGB": "When you target a creature with a hex that cannot target the same creature more than once per day, and that creature succeeds at its saving throw against the hex’s effect, you can target the creature with the same hex a second time before the end of your next turn. If the second attempt fails, you can make no further attempts to target that creature with the same hex for 1 day. ",
+      "ruRU": null,
+      "deDE": null,
+      "frFR": null,
+      "zhCN": "当你对目标施放一个1天内对同一生物仅能施放一次的巫术，且该生物成功豁免该巫术的效果时，你可以在你下一回合结束前对该生物再次施放该巫术。如果第二次尝试失败，该生物在1天内无法再成为此巫术的目标。",
+      "esES": null
+    },
+    {
+      "Key": "6dcd8cd567404910b445b76c075c485c",
+      "SimpleName": "AccursedHexMythicFeature.Description",
+      "ProcessTemplates": true,
+      "enGB": "When you use Accursed Hex to target a creature with one of your hexes a second time, that creature must roll its saving throw twice and take the lower result.",
+      "ruRU": null,
+      "deDE": null,
+      "frFR": null,
+      "zhCN": "当你运用诅咒巫术对目标生物再次施放巫术时，该生物必须掷两次骰，并取较低的结果。",
+      "esES": null
+    },
+    {
+      "Key": "cf35941211894f73a2b0dd4a17e7dfc6",
+      "SimpleName": "AccursedHexMythicFeature.Name",
+      "ProcessTemplates": false,
+      "enGB": "Accursed Hex (Mythic)",
+      "ruRU": null,
+      "deDE": null,
+      "frFR": null,
+      "zhCN": "诅咒巫术（神话）",
+      "esES": null
+    },
+    {
       "Key": "fda6a12008ac40dc9d42cf138af26f20",
       "SimpleName": "AcidResistance10Enchant.Prefix",
       "ProcessTemplates": false,
@@ -4163,6 +4207,28 @@
       "esES": null
     },
     {
+      "Key": "9edd03986abc44aa90f09ed9d5c71157",
+      "SimpleName": "CauldronHexFeature.Description",
+      "ProcessTemplates": true,
+      "enGB": "The witch receives Brew Potions as a bonus feat and a +4 bonus on skill checks to brew potions.",
+      "ruRU": null,
+      "deDE": null,
+      "frFR": null,
+      "zhCN": "巫师获得调制药水作为额外专长，并且在调制药水的技能检定上获得+4加值。",
+      "esES": null
+    },
+    {
+      "Key": "c49135a1dc424f069391a0b573e7db43",
+      "SimpleName": "CauldronHexFeature.Name",
+      "ProcessTemplates": false,
+      "enGB": "Cauldron",
+      "ruRU": null,
+      "deDE": null,
+      "frFR": null,
+      "zhCN": "魔釜",
+      "esES": null
+    },
+    {
       "Key": "a46f66eedeb24c578390fd011ff34329",
       "SimpleName": "CavalierMobilityBuff.Name",
       "ProcessTemplates": false,
@@ -6382,6 +6448,28 @@
       "deDE": null,
       "frFR": null,
       "zhCN": "额外救赎",
+      "esES": null
+    },
+    {
+      "Key": "0b6ac4464f2344dfa08dfa832c749b56",
+      "SimpleName": "ExtraMythicFeatMythicAbility.Description",
+      "ProcessTemplates": true,
+      "enGB": "You gain a bonus mythic feat. You can take this mythic ability once.",
+      "ruRU": null,
+      "deDE": null,
+      "frFR": null,
+      "zhCN": "你获得一个额外神话专长。你只能选取一次该神话能力。",
+      "esES": null
+    },
+    {
+      "Key": "e0975d17b2254d33bd4c66051593a729",
+      "SimpleName": "ExtraMythicFeatMythicAbility.Name",
+      "ProcessTemplates": false,
+      "enGB": "Extra Mythic Feat",
+      "ruRU": null,
+      "deDE": null,
+      "frFR": null,
+      "zhCN": "额外神话专长",
       "esES": null
     },
     {
@@ -11170,6 +11258,39 @@
       "esES": null
     },
     {
+      "Key": "9a3034fdd2564c9fb39695628cac3299",
+      "SimpleName": "RetributionHexAbility.Duration",
+      "ProcessTemplates": false,
+      "enGB": "1 round/int mod",
+      "ruRU": null,
+      "deDE": null,
+      "frFR": null,
+      "zhCN": null,
+      "esES": null
+    },
+    {
+      "Key": "8c884839ce384ae091f3c8724138578f",
+      "SimpleName": "RetributionHexBuff.Description",
+      "ProcessTemplates": true,
+      "enGB": "A witch can place a retribution hex on a creature within 60 feet, causing terrible wounds to open across the target’s flesh whenever it deals damage to another creature in melee. Immediately after the hexed creature deals with a melee attack, it takes half that damage (round down). This damage bypasses any resistances, immunities, or damage reduction the creature possesses. This effect lasts for a number of rounds equal to the witch’s Intelligence modifier. A Will save negates this effect.",
+      "ruRU": null,
+      "deDE": null,
+      "frFR": null,
+      "zhCN": "巫师能够对60尺内的一名生物降下诅咒，当目标对其他生物造成近战伤害时，自身也会受到撕裂血肉的严重创伤。在目标成功进行一次近战攻击后，他会立刻受到等同于所造成伤害一半的反噬（向下取整）。该伤害忽略目标拥有的一切抗性、免疫和伤害减免。此巫术持续轮数等同于巫师的智力调整值。成功的意志豁免可以令其无效。",
+      "esES": null
+    },
+    {
+      "Key": "a71c488c1f4e407c92cd446a60fb8a4b",
+      "SimpleName": "RetributionHexBuff.Name",
+      "ProcessTemplates": false,
+      "enGB": "Retribution",
+      "ruRU": null,
+      "deDE": null,
+      "frFR": null,
+      "zhCN": "报偿",
+      "esES": null
+    },
+    {
       "Key": "c99137a8e6394f8dbcb40d5a77a4a36d",
       "SimpleName": "RimeEntagledBuff.Name",
       "ProcessTemplates": false,
@@ -11870,7 +11991,7 @@
       "ruRU": null,
       "deDE": null,
       "frFR": null,
-      "zhCN": "在3级以及之后每2级，术士都可以额外学习一个来自于血承的法术。\n弱智术: 目标的{g|Encyclopedia:Intelligence}智力{/g}和{g|Encyclopedia:Charisma}魅力{/g}都将降至1点。被影响的生物不能使用任何基于智力或魅力的 {g|Encyclopedia:Skills}技能{/g} 或释放 {g|Encyclopedia:Spell}法术{/g}。 但是他依然知道谁是他的朋友，也能跟随他们行动，甚至可以保护他们。受术者会始终保持这一状态，直到被{g|Encyclopedia:Healing}医疗术{/g}取消掉弱智术效果为止。 能施放奥术的生物，例如术士或法师，在{g|Encyclopedia:Saving_Throw}豁免检定{/g}中要受到-4{g|Encyclopedia:Penalty}减值{/g}。",
+      "zhCN": "在3级以及之后每2级，术士都可以额外学习一个来自于血承的法术。\n弱智术：目标生物的{g|Encyclopedia:Intelligence}智力{/g}和{g|Encyclopedia:Charisma}魅力{/g}值降到1点。受影响的生物将无法使用基于智力或魅力的{g|Encyclopedia:Skills}技能{/g}，也不能{g|Encyclopedia:Spell}施法{/g}。但该生物仍清楚谁是自己的盟友，并可以跟随甚至保护他们。目标将保持此状态，直到通过医疗术或破除魔咒去除弱智效果。能够施放奥术的生物，如术士和法师，在{g|Encyclopedia:Saving_Throw}豁免检定{/g}上受到-4{g|Encyclopedia:Penalty}减值{/g}。",
       "esES": null
     },
     {
@@ -11881,7 +12002,7 @@
       "ruRU": null,
       "deDE": null,
       "frFR": null,
-      "zhCN": "在3级以及之后每2级，术士都可以额外学习一个来自于血承的法术。\n凶险注视: 每 {g|Encyclopedia:Combat_Round}轮{/g}你都能够以单个活物为目标，驱使力量的波动对其发动袭击。 目标必须通过一个成功的强韧豁免检定,否则就会受到法术的影响。 根据目标的HD，这种{g|Encyclopedia:Attack}攻击{/g}能够产生至多三种效果:\n如果目标的HD在10以上, 它会陷入恶心10分钟每CL。\n如果目标的HD在5-9, 它会陷入惊惧和恶心10分钟每CL。\n如果目标的HD在4以下, 它会陷入麻痹惊惧和恶心。\n这些影响并发且同时存在，持续10分钟每CL。\n在法术的第一轮之后，你必须每轮花费一个{g|Encyclopedia:Swift_Action}迅捷动作{/g}来瞄准目标。",
+      "zhCN": "在3级以及之后每2级，术士都可以额外学习一个来自于血承的法术。\n凶险注视：{g|Encyclopedia:Attack}{/g}你每{g|Encyclopedia:Combat_Round}轮{/g}可以指定一个活物为目标，以能量波动对其发起袭击。目标必须成功进行强韧豁免检定，否则将承受法术的有害效果。根据目标的生命骰数，这种袭击具有三种不同效果。\n如果目标生命骰数大于或等于10，它在每{g|Encyclopedia:Caster_Level}施法者等级{/g}10分钟内陷入恶心状态。\n如果目标生命骰数在5-9之间，它在每施法者等级10分钟内陷入惊恐和恶心状态。\n如果目标生命骰数小于或等于4，它陷入麻痹、惊恐和恶心状态。\n这些效果互相累计并同时生效，持续每施法者等级10分钟。\n在第一轮之后的每一轮，你都必须花费一个{g|Encyclopedia:Swift_Action}迅捷动作{/g}才能指定一个敌人为目标。",
       "esES": null
     },
     {
@@ -11892,7 +12013,7 @@
       "ruRU": null,
       "deDE": null,
       "frFR": null,
-      "zhCN": "在3级以及之后每2级，术士都可以额外学习一个来自于血承的法术。\n高等变形术: 此{g|Encyclopedia:Spell}法术{/g}能将盟友生物变成大型剑齿虎、蔓生怪、元素生物、双足飞龙或中型类龙生物。受术者可以选择花费一个{g|Encyclopedia:Full_Round_Action}整轮动作 action{/g}变回原来的形态。这样做将终止此法术的效果。",
+      "zhCN": "在3级以及之后每2级，术士都可以额外学习一个来自于血承的法术。\n高等变形术：此{g|Encyclopedia:Spell}法术{/g}能将盟友生物变成大型剑齿虎、蔓生怪、元素生物、双足飞龙或{g|Encyclopedia:Size}中型{/g}类龙生物。受术者可以选择花费一个{g|Encyclopedia:Full_Round_Action}整轮动作{/g}变回原来的形态。这样做将终止此法术的效果。",
       "esES": null
     },
     {
@@ -11903,7 +12024,7 @@
       "ruRU": null,
       "deDE": null,
       "frFR": null,
-      "zhCN": "在3级以及之后每2级，术士都可以额外学习一个来自于血承的法术。\n心灵屏障: 此{g|Encyclopedia:Spell}法术{/g}使生物在对抗所有影响心智的法术和效果的{g|Encyclopedia:Saving_Throw}豁免检定{/g}中获得+8抗力{g|Encyclopedia:Bonus}加值{/g}。此外，受术者不会被通过预言系魔法效果收集情报的物品和法术（比如思维感应、真知术和识破隐形）所影响。",
+      "zhCN": "在3级以及之后每2级，术士都可以额外学习一个来自于血承的法术。\n心灵屏障：此{g|Encyclopedia:Spell}法术{/g}使生物在对抗所有影响心智的法术和效果的{g|Encyclopedia:Saving_Throw}豁免检定{/g}中获得+8抗力{g|Encyclopedia:Bonus}加值{/g}。此外，受术者不会被通过预言系魔法效果收集情报的物品和法术（比如思维感应、真知术和识破隐形）所影响。",
       "esES": null
     },
     {
@@ -11914,7 +12035,7 @@
       "ruRU": null,
       "deDE": null,
       "frFR": null,
-      "zhCN": "在3级以及之后每2级，术士都可以额外学习一个来自于血承的法术。\n变化形体: 此{g|Encyclopedia:Spell}法术{/g}允许你变成多种生物。此法术可产生如同野兽之状IV、元素之躯IV、龙形III的效果，取决于你变成的形体。你能够以{g|Encyclopedia:Free_Action}自由动作{/g}每{g|Encyclopedia:Combat_Round}轮{/g}改变一次形体。变形会在你的常规{g|Encyclopedia:CA_Types}动作{/g}之前或之后立即发生，但不能在动作中途发生。",
+      "zhCN": "在3级以及之后每2级，术士都可以额外学习一个来自于血承的法术。\n变化形体：此{g|Encyclopedia:Spell}法术{/g}允许你变成多种生物。此法术可产生如同野兽之状IV、元素之躯IV、龙形III的效果，取决于你变成的形体。你能够以{g|Encyclopedia:Free_Action}自由动作{/g}每{g|Encyclopedia:Combat_Round}轮{/g}改变一次形体。变形会在你的常规{g|Encyclopedia:CA_Types}动作{/g}之前或之后立即发生，但不能在动作中途发生。",
       "esES": null
     },
     {
@@ -11925,7 +12046,7 @@
       "ruRU": null,
       "deDE": null,
       "frFR": null,
-      "zhCN": "在3级以及之后每2级，术士都可以额外学习一个来自于血承的法术。\n变巨术: 此{g|Encyclopedia:Spell}法术{/g}会使一个类人生物立刻快速成长，身高变成原来的2倍，体重变为原来的8倍。这会让生物的{g|Encyclopedia:Size}体型{/g}上升一级。由于体型增大，目标的{g|Encyclopedia:Strength}力量{/g}属性获得+2体型{g|Encyclopedia:Bonus}加值{/g}，{g|Encyclopedia:Dexterity}敏捷{/g}承受-2体型{g|Encyclopedia:Penalty}减值{/g}（最低降为1点），{g|Encyclopedia:Attack}攻击{/g}检定和{g|Encyclopedia:Armor_Class}AC{/g}承受-1减值。该生物使用的近战或远程武器能造成更高{g|Encyclopedia:Damage}伤害{/g}。\n体型增加到大型的类人生物占据10英尺的空间，拥有10英尺的天生触及范围。此法术不改变目标的{g|Encyclopedia:Speed}速度{/g}。\n变巨术能够解除缩小术。",
+      "zhCN": "在3级以及之后每2级，术士都可以额外学习一个来自于血承的法术。\n变巨术：此{g|Encyclopedia:Spell}法术{/g}会使一个类人生物立刻快速成长，身高变成原来的2倍，体重变为原来的8倍。这会让生物的{g|Encyclopedia:Size}体型{/g}上升一级。由于体型增大，目标的{g|Encyclopedia:Strength}力量{/g}属性获得+2体型{g|Encyclopedia:Bonus}加值{/g}，{g|Encyclopedia:Dexterity}敏捷{/g}承受-2体型{g|Encyclopedia:Penalty}减值{/g}（最低降为1点），{g|Encyclopedia:Attack}攻击{/g}检定和{g|Encyclopedia:Armor_Class}AC{/g}承受-1减值。该生物使用的近战或远程武器能造成更高{g|Encyclopedia:Damage}伤害{/g}。\n体型增加到大型的类人生物占据10英尺的空间，拥有10英尺的天生触及范围。此法术不改变目标的{g|Encyclopedia:Speed}速度{/g}。\n变巨术能够解除缩小术。",
       "esES": null
     },
     {
@@ -11936,7 +12057,7 @@
       "ruRU": "На 3-ем уровне и каждые два уровня псле этого колдун узнаёт дополнительное заклинание, присущее его наследству.\nУвидеть незримое: вы можете видеть невидимые предметы и существ, находящиеся в зоне видимости.",
       "deDE": null,
       "frFR": null,
-      "zhCN": "3级和之后的每2级，术士都可以额外学习一个来自于血承的法术。\n识破隐形: 你可以看到视野内的隐形事物。",
+      "zhCN": "3级和之后的每2级，术士都可以额外学习一个来自于血承的法术。\n识破隐形：你可以看到视野内的隐形事物。",
       "esES": null
     },
     {
@@ -11947,7 +12068,7 @@
       "ruRU": null,
       "deDE": null,
       "frFR": null,
-      "zhCN": "在3级以及之后每2级，术士都可以额外学习一个来自于血承的法术。\n闪现术: 对你发动的物理攻击有50%几率失手，由于你处于灵化状态而非仅仅隐形，即便对手有“盲斗”{g|Encyclopedia:Feat}专长{/g}也无济于事。若该攻击能够击中灵体生物，那么失手率仅为20%（因隐蔽效果而失手）。任何对你施放的单体{g|Encyclopedia:Spell}法术{/g}有50%几率失败，除非施法者能够以隐形生物和灵体生物为目标。\n假如攻击者能够看见隐形生物，失手率同样仅有20%。对于同时能够看见和击中灵体生物的攻击者而言，不会有失手几率。\n同样，你自己发动的攻击也有20%失手率。 在闪现期间，范围攻击对你只会造成一半伤害（但能够延伸到灵界位面的范围攻击会造成全部伤害）。虽然只有部分可见，但你不被视为隐形状态，目标在对抗你的攻击时也能够保留防御等级（AC）的敏捷加值。你在对看不见隐形生物的敌人发动攻击时，攻击检定会获得+2加值。",
+      "zhCN": "在3级以及之后每2级，术士都可以额外学习一个来自于血承的法术。\n闪现术：对你发动的物理攻击有50%几率失手，由于你处于灵化状态而非仅仅隐形，即便对手有“盲斗”{g|Encyclopedia:Feat}专长{/g}也无济于事。若该攻击能够击中灵体生物，那么失手率仅为20%（因隐蔽效果而失手）。任何对你施放的单体{g|Encyclopedia:Spell}法术{/g}有50%几率失败，除非施法者能够以隐形生物和灵体生物为目标。\n假如攻击者能够看见隐形生物，失手率同样仅有20%。对于同时能够看见和击中灵体生物的攻击者而言，不会有失手几率。\n同样，你自己发动的攻击也有20%失手率。 在闪现期间，范围攻击对你只会造成一半伤害（但能够延伸到灵界位面的范围攻击会造成全部伤害）。虽然只有部分可见，但你不被视为隐形状态，目标在对抗你的攻击时也能够保留防御等级（AC）的敏捷加值。你在对看不见隐形生物的敌人发动攻击时，攻击检定会获得+2加值。",
       "esES": null
     },
     {
@@ -11958,7 +12079,7 @@
       "ruRU": null,
       "deDE": null,
       "frFR": null,
-      "zhCN": "在3级以及之后每2级，术士都可以额外学习一个来自于血承的法术。\n岩刺: 岩质地面、石地板与类似的表面形状改变，形成长而尖的石刺，与背景融为一体。\n岩刺使该区域难以通行，并造成{g|Encyclopedia:Damage}伤害{/g}。任何徒步进入或穿过法术影响区域的生物移动速度减半。此外，在区域内的生物每移动5英尺，便受到1d8点穿刺伤害。\n因岩刺受到伤害的生物还需要反射豁免成功才能避免腿脚受伤。若豁免失败，则生物的速度减半，持续1分钟。",
+      "zhCN": "在3级以及之后每2级，术士都可以额外学习一个来自于血承的法术。\n岩刺：岩质地面、石地板与类似的表面形状改变，形成长而尖的石刺，与背景融为一体。\n岩刺使该区域难以通行，并造成{g|Encyclopedia:Damage}伤害{/g}。任何徒步进入或穿过法术影响区域的生物移动速度减半。此外，在区域内的生物每移动5英尺，便受到1d8点穿刺伤害。\n因岩刺受到伤害的生物还需要反射豁免成功才能避免腿脚受伤。若豁免失败，则生物的速度减半，持续1分钟。",
       "esES": null
     },
     {
@@ -12178,7 +12299,7 @@
       "ruRU": null,
       "deDE": null,
       "frFR": null,
-      "zhCN": "在3级以及之后每2级，术士都可以额外学习一个来自于血承的法术。\n破除魔咒: 此{g|Encyclopedia:Spell}法术{/g}能够解除目标身上的惑控、变化和诅咒效果。破除魔咒甚至还能逆转立即生效的效果。对于这些效果，你需要分别进行{g|Encyclopedia:Caster_Level}施法者等级{/g}{g|Encyclopedia:Check}检定{/g}（{g|Encyclopedia:Dice}1d20{/g}+施法者等级，最高为+15），对抗等于11+该效果施法者等级的{g|Encyclopedia:DC}DC{/g}。检定成功意味着受术生物从法术、诅咒或效果中解脱。破除魔咒只对不超过5级的法术有效。",
+      "zhCN": "在3级以及之后每2级，术士都可以额外学习一个来自于血承的法术。\n破除魔咒：；此{g|Encyclopedia:Spell}法术{/g}能够解除目标身上的惑控、变化和诅咒效果。破除魔咒甚至还能逆转立即生效的效果。对于这些效果，你需要分别进行{g|Encyclopedia:Caster_Level}施法者等级{/g}{g|Encyclopedia:Check}检定{/g}（{g|Encyclopedia:Dice}1d20{/g}+施法者等级，最高为+15），对抗等于11+该效果施法者等级的{g|Encyclopedia:DC}DC{/g}。检定成功意味着受术生物从法术、诅咒或效果中解脱。破除魔咒只对不超过5级的法术有效。",
       "esES": null
     },
     {
@@ -12189,7 +12310,7 @@
       "ruRU": null,
       "deDE": null,
       "frFR": null,
-      "zhCN": "在3级以及之后每2级，术士都可以额外学习一个来自于血承的法术。\n高等英雄气概: 此{g|Encyclopedia:Spell}法术{/g}效果类似于英雄气概，区别在于生物在{g|Encyclopedia:Attack}攻击{/g}、{g|Encyclopedia:Saving_Throw}豁免{/g}和{g|Encyclopedia:Skills}技能检定{/g}上获得+4士气{g|Encyclopedia:Bonus}加值{/g}，免疫恐惧效应，并获得等于你的{g|Encyclopedia:Caster_Level}施法者等级{/g}的临时{g|Encyclopedia:HP}生命值{/g}（最高20）。",
+      "zhCN": "在3级以及之后每2级，术士都可以额外学习一个来自于血承的法术。\n高等英雄气概：此{g|Encyclopedia:Spell}法术{/g}效果类似于英雄气概，区别在于生物在{g|Encyclopedia:Attack}攻击{/g}、{g|Encyclopedia:Saving_Throw}豁免{/g}和{g|Encyclopedia:Skills}技能检定{/g}上获得+4士气{g|Encyclopedia:Bonus}加值{/g}，免疫恐惧效应，并获得等于你的{g|Encyclopedia:Caster_Level}施法者等级{/g}的临时{g|Encyclopedia:HP}生命值{/g}（最高20）。",
       "esES": null
     },
     {
@@ -12200,7 +12321,7 @@
       "ruRU": null,
       "deDE": null,
       "frFR": null,
-      "zhCN": "在3级以及之后每2级，术士都可以额外学习一个来自于血承的法术。\n明晰之环: 你创造出魔法能量场，干扰范围内的所有幻象，为辨别幻术的{g|Encyclopedia:Saving_Throw}豁免检定{/g}提供+4{g|Encyclopedia:Bonus}加值{/g}。能量场还会抵消范围内弱于完全{g|Encyclopedia:Concealment}隐蔽{/g}的隐蔽效果。在范围内用于发现生物或物品的{g|Encyclopedia:Perception}察觉检定{/g}获得等于{g|Encyclopedia:Caster_Level}施法者等级{/g}一半的加值（最高+10）。如果施放于空间中的一点，{g|Encyclopedia:Spell}法术{/g}位置将固定不变。如果施放在一个生物或物品上，法术就能够移动，不过生物或被持有的物品可以通过豁免检定或{g|Encyclopedia:Spell_Resistance}法术抗力{/g}来免除法术效果。",
+      "zhCN": "在3级以及之后每2级，术士都可以额外学习一个来自于血承的法术。\n明晰之环：你创造出魔法能量场，干扰范围内的所有幻象，为辨别幻术的{g|Encyclopedia:Saving_Throw}豁免检定{/g}提供+4{g|Encyclopedia:Bonus}加值{/g}。能量场还会抵消范围内弱于完全{g|Encyclopedia:Concealment}隐蔽{/g}的隐蔽效果。在范围内用于发现生物或物品的{g|Encyclopedia:Perception}察觉检定{/g}获得等于{g|Encyclopedia:Caster_Level}施法者等级{/g}一半的加值（最高+10）。如果施放于空间中的一点，{g|Encyclopedia:Spell}法术{/g}位置将固定不变。如果施放在一个生物或物品上，法术就能够移动，不过生物或被持有的物品可以通过豁免检定或{g|Encyclopedia:Spell_Resistance}法术抗力{/g}来免除法术效果。",
       "esES": null
     },
     {
@@ -12211,7 +12332,7 @@
       "ruRU": null,
       "deDE": null,
       "frFR": null,
-      "zhCN": "在3级以及之后每2级，术士都可以额外学习一个来自于血承的法术。\n防护魔法: 受术者对抗{g|Encyclopedia:Spell}法术{/g}和{g|Encyclopedia:Special_Abilities}类法术能力{/g}的{g|Encyclopedia:Saving_Throw}豁免检定{/g}具有+8抗力{g|Encyclopedia:Bonus}加值{/g}（对超自然能力和特异能力无效）。",
+      "zhCN": "在3级以及之后每2级，术士都可以额外学习一个来自于血承的法术。\n防护魔法：受术者对抗{g|Encyclopedia:Spell}法术{/g}和{g|Encyclopedia:Special_Abilities}类法术能力{/g}的{g|Encyclopedia:Saving_Throw}豁免检定{/g}具有+8抗力{g|Encyclopedia:Bonus}加值{/g}（对超自然能力和特异能力无效）。",
       "esES": null
     },
     {
@@ -12222,7 +12343,7 @@
       "ruRU": null,
       "deDE": null,
       "frFR": null,
-      "zhCN": "在3级以及之后每2级，术士都可以额外学习一个来自于血承的法术。\n预警: {g|Encyclopedia:CA_Types}{/g}该{g|Encyclopedia:Spell}法术{/g}给予你强大的第六感。一旦施放预警术，只要施法对象面临危险或即将受到伤害，你就会立即得到警告。你永远不会陷入{g|Encyclopedia:Flat_Footed}措手不及{/g}状态。此外，该法术将指引你如何更好地保护自身，使你的{g|Encyclopedia:Armor_Class}防御等级{/g}和反射{g|Encyclopedia:Saving_Throw}豁免{/g}得到+2洞察{g|Encyclopedia:Bonus}加值{/g}。",
+      "zhCN": "在3级以及之后每2级，术士都可以额外学习一个来自于血承的法术。\n预警：{g|Encyclopedia:CA_Types}{/g}该{g|Encyclopedia:Spell}法术{/g}给予你强大的第六感。一旦施放预警术，只要施法对象面临危险或即将受到伤害，你就会立即得到警告。你永远不会陷入{g|Encyclopedia:Flat_Footed}措手不及{/g}状态。此外，该法术将指引你如何更好地保护自身，使你的{g|Encyclopedia:Armor_Class}防御等级{/g}和反射{g|Encyclopedia:Saving_Throw}豁免{/g}得到+2洞察{g|Encyclopedia:Bonus}加值{/g}。",
       "esES": null
     },
     {
@@ -12233,7 +12354,7 @@
       "ruRU": null,
       "deDE": null,
       "frFR": null,
-      "zhCN": "在3级以及之后每2级，术士都可以额外学习一个来自于血承的法术。\n护盾术: {g|Encyclopedia:Attack}{/g}护盾术制造一个隐形的力场盾牌悬浮在你身前。它可以吸收射向你的魔法飞弹。该盾牌同时为{g|Encyclopedia:Armor_Class}防御等级{/g}提供+4盾牌{g|Encyclopedia:Bonus}加值{/g}。该加值属于力场效应，故对{g|Encyclopedia:Incorporeal_Touch_Attack}虚体{/g}{g|Encyclopedia:TouchAttack}接触攻击{/g}有效。该盾牌不会带来防具{g|Encyclopedia:Check}检定{/g}{g|Encyclopedia:Penalty}减值{/g}和{g|Encyclopedia:Spell_Fail_Chance}奥术失败率{/g}。",
+      "zhCN": "在3级以及之后每2级，术士都可以额外学习一个来自于血承的法术。\n护盾术：{g|Encyclopedia:Attack}{/g}护盾术制造一个隐形的力场盾牌悬浮在你身前。它可以吸收射向你的魔法飞弹。该盾牌同时为{g|Encyclopedia:Armor_Class}防御等级{/g}提供+4盾牌{g|Encyclopedia:Bonus}加值{/g}。该加值属于力场效应，故对{g|Encyclopedia:Incorporeal_Touch_Attack}虚体{/g}{g|Encyclopedia:TouchAttack}接触攻击{/g}有效。该盾牌不会带来防具{g|Encyclopedia:Check}检定{/g}{g|Encyclopedia:Penalty}减值{/g}和{g|Encyclopedia:Spell_Fail_Chance}奥术失败率{/g}。",
       "esES": null
     },
     {
@@ -12244,7 +12365,7 @@
       "ruRU": null,
       "deDE": null,
       "frFR": null,
-      "zhCN": "在3级以及之后每2级，术士都可以额外学习一个来自于血承的法术。\n朦胧术: 目标的轮廓变得朦胧、歪曲、变化不定。该{g|Encyclopedia:Spell}法术{/g}使目标获得{g|Encyclopedia:Concealment}隐蔽{/g}状态（20%失手几率）。\n识破隐形法术不能抵消朦胧效果，但真知术可以。\n看不到目标的对手无视此法术的效果（不过与不可见的对手战斗本身就有不利影响）。",
+      "zhCN": "在3级以及之后每2级，术士都可以额外学习一个来自于血承的法术。\n朦胧术：目标的轮廓变得朦胧、歪曲、变化不定。该{g|Encyclopedia:Spell}法术{/g}使目标获得{g|Encyclopedia:Concealment}隐蔽{/g}状态（20%失手几率）。\n识破隐形法术不能抵消朦胧效果，但真知术可以。\n看不到目标的对手无视此法术的效果（不过与不可见的对手战斗本身就有不利影响）。",
       "esES": null
     },
     {
@@ -12255,7 +12376,7 @@
       "ruRU": null,
       "deDE": null,
       "frFR": null,
-      "zhCN": "在3级以及之后每2级，术士都可以额外学习一个来自于血承的法术。\n防护能量: 防护能量使目标暂时对你施法时指定的能量类型免疫（酸蚀、寒冷、电击、火焰或音波）。{g|Encyclopedia:Spell}法术{/g}吸收每{g|Encyclopedia:Caster_Level}施法者等级{/g}12点{g|Encyclopedia:Energy_Damage}能量伤害{/g}后（10级时达到最大值120点）就会消散。",
+      "zhCN": "在3级以及之后每2级，术士都可以额外学习一个来自于血承的法术。\n防护能量：防护能量使目标暂时对你施法时指定的能量类型免疫（酸蚀、寒冷、电击、火焰或音波）。{g|Encyclopedia:Spell}法术{/g}吸收每{g|Encyclopedia:Caster_Level}施法者等级{/g}12点{g|Encyclopedia:Energy_Damage}能量伤害{/g}后（10级时达到最大值120点）就会消散。",
       "esES": null
     },
     {
@@ -12266,7 +12387,7 @@
       "ruRU": null,
       "deDE": null,
       "frFR": null,
-      "zhCN": "在3级以及之后每2级，术士都可以额外学习一个来自于血承的法术。\n行动自如: 该{g|Encyclopedia:Spell}法术{/g}使得你或你{g|Encyclopedia:TouchAttack}接触{/g}的一个生物在法术持续时间内，即使遭到限制行动的魔法影响时，也可以正常移动和{g|Encyclopedia:Attack}攻击{/g}，例如麻痹、重雾术、缓慢术与蛛网术。所有尝试擒抱目标的{g|Encyclopedia:Combat_Maneuvers}战技{/g}{g|Encyclopedia:Check}检定{/g}都会自动失败。",
+      "zhCN": "在3级以及之后每2级，术士都可以额外学习一个来自于血承的法术。\n行动自如：该{g|Encyclopedia:Spell}法术{/g}使得你或你{g|Encyclopedia:TouchAttack}接触{/g}的一个生物在法术持续时间内，即使遭到限制行动的魔法影响时，也可以正常移动和{g|Encyclopedia:Attack}攻击{/g}，例如麻痹、重雾术、缓慢术与蛛网术。所有尝试擒抱目标的{g|Encyclopedia:Combat_Maneuvers}战技{/g}{g|Encyclopedia:Check}检定{/g}都会自动失败。",
       "esES": null
     },
     {
@@ -12388,6 +12509,39 @@
       "deDE": null,
       "frFR": null,
       "zhCN": "法术混合",
+      "esES": null
+    },
+    {
+      "Key": "94535baf3c8843b6a5538e6b0940c2dd",
+      "SimpleName": "SpellCurseAbility.Description",
+      "ProcessTemplates": true,
+      "enGB": "You disrupt any spell energy affecting your target, causing that energy to crackle with power and harm the target. The target takes 1d6 points of damage for each spell with a duration of 1 round or greater currently affecting it. The spells themselves are not dispelled or modified.",
+      "ruRU": null,
+      "deDE": null,
+      "frFR": null,
+      "zhCN": "你扰乱了影响你目标的所有法术能量，使得这些能量猛然碎裂并伤害目标。每有一个持续时间至少在1轮以上的法术正影响目标，他就会受到1d6点伤害。那些法术并不会被解除或改变。",
+      "esES": null
+    },
+    {
+      "Key": "aaad4837529342b3a2ba244b81dda169",
+      "SimpleName": "SpellCurseAbility.Name",
+      "ProcessTemplates": false,
+      "enGB": "Spellcurse",
+      "ruRU": null,
+      "deDE": null,
+      "frFR": null,
+      "zhCN": "法咒",
+      "esES": null
+    },
+    {
+      "Key": "59d212f40fb04f20b6ac8db0bed5f697",
+      "SimpleName": "SpellCurseAbility.SavingThrow",
+      "ProcessTemplates": false,
+      "enGB": "Will half",
+      "ruRU": null,
+      "deDE": null,
+      "frFR": null,
+      "zhCN": "意志，伤害减半",
       "esES": null
     },
     {
@@ -13971,7 +14125,7 @@
       "ruRU": null,
       "deDE": null,
       "frFR": null,
-      "zhCN": "巫师诅咒30尺内的一个生物使其迅速老化，增强女巫的力量。目标的年龄进入下一个年龄阶段（成年到中年，依此类推）。巫师获得等于1d10+巫师等级的临时生命值，并且在体质上获得+2增强加值，持续等同于其智力调整值的小时数。法术效果持续等同于巫师等级的小时数。一个生物的年龄不会由于该巫术超过暮年，并且可以通过一次强韧豁免检定来完全忽视这些效果。一旦一个生物成功抵抗了凋零巫术，他就不再会被其影响。\n\n中年：所有物理属性-1，所有精神属性+1。\n老年：所有物理属性-3，所有精神属性+2。\n暮年：所有物理属性-6，所有精神属性+3。",
+      "zhCN": "巫师对30尺内的一个生物降下诅咒使其迅速老化，并同时增强巫师的力量。目标的年龄进入下一个年龄阶段（成年到中年，依此类推）。巫师获得等于1d10+巫师等级的临时生命值，并且在体质上获得+2增强加值，持续等同于其智力调整值的小时数。法术效果持续等同于巫师等级的小时数。一个生物的年龄不会由于该巫术超过暮年，并且可以通过一次强韧豁免检定来完全忽视这些效果。一旦一个生物成功抵抗了凋零巫术，他就不再会被其影响。\n\n中年：所有物理属性-1，所有精神属性+1。\n老年：所有物理属性-3，所有精神属性+2。\n暮年：所有物理属性-6，所有精神属性+3。",
       "esES": null
     },
     {
