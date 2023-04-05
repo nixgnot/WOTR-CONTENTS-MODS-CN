@@ -78,7 +78,7 @@ e6193f290bd809945bad1a9f2ca15a1a C1Barkeep 1 8800 Trollreaper
 4636ef8b8a64b3941ac5dda42918d765 C1Barkeep 1 15000 Lucky Longbow
 694504fde5dc8ef4f87dd3517b13eb16 C1Barkeep 1 12000 Ornery
 fb2897fe1f42e414fa5230d0ae462d2d C1Barkeep 1 13500 Bogeyman's Robe
-10df573e9968ccd48906d56fcdc8bc2a C1Barkeep 1 23000 Leviathan's Gift
+10df573e9968ccd48906d56fcdc8bc2a C1Barkeep 1 65000 Leviathan's Gift
 75f2d4bf94a14398ad1ca9db8e3a579f C1Barkeep 1 12000 Robe of Air
 009c8ed2e4fe4b62b1df9b577b5d4e29 C1Barkeep 1 12000 Robe of the Wise
 aeb82599c5c745d9b6ec12e282569f30 C1Barkeep 1 12000 Robe of Water
