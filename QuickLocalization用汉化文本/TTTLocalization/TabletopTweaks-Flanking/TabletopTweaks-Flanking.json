@@ -1,0 +1,148 @@
+﻿{
+  "ModPath":"TabletopTweaks-Flanking/Localization/LocalizationPack.json",
+  "LocalizedStrings": [
+    {
+      "Key": "85e6052fedec41bc84eb26ff0cc77719",
+      "SimpleName": "Empty",
+      "ProcessTemplates": false,
+      "enGB": "",
+      "ruRU": null,
+      "deDE": null,
+      "frFR": null,
+      "zhCN": "",
+      "esES": null
+    },
+    {
+      "Key": "15eb45270bf4411ebb4bfb4d7c7c0ecd",
+      "SimpleName": "Flanking.encyclopedia",
+      "ProcessTemplates": true,
+      "enGB": "When making a melee attack, a character gets a +2 flanking bonus if an opponent is threatened by an ally on the opposite side of their target.",
+      "ruRU": null,
+      "deDE": null,
+      "frFR": null,
+      "zhCN": "近战攻击时，如果有盟军在攻击目标的另一侧造成威胁，攻击方获得+2夹击加值",
+      "esES": null
+    },
+    {
+      "Key": "17bc0a713fcf48eeabcc120af8e28c59",
+      "SimpleName": "ForesterTacticianImprovedOutflankAbility.Name",
+      "ProcessTemplates": false,
+      "enGB": "Tactician — Improved Outflank",
+      "ruRU": null,
+      "deDE": null,
+      "frFR": null,
+      "zhCN": "战术（精通包抄）",
+      "esES": null
+    },
+    {
+      "Key": "30799fbeb8654a55b15696c5b04128c3",
+      "SimpleName": "ForesterTacticianPackFlankingAbility.Name",
+      "ProcessTemplates": false,
+      "enGB": "Tactician — Pack Flanking",
+      "ruRU": null,
+      "deDE": null,
+      "frFR": null,
+      "zhCN": "战术（兽群围猎）",
+      "esES": null
+    },
+    {
+      "Key": "8edea7967fce4a108a2bcfa0b375990f",
+      "SimpleName": "GangUp.Description",
+      "ProcessTemplates": true,
+      "enGB": "You are adept at using greater numbers against foes.\nBenefit: You are considered to be flanking an opponent if at least two of your allies are threatening that opponent, regardless of your actual positioning.\nNormal: You must be positioned opposite an ally to flank an opponent.",
+      "ruRU": null,
+      "deDE": null,
+      "frFR": null,
+      "zhCN": "你善于使用数量优势压倒敌人。\n效果：如果有2个以上其他盟友在威胁你的攻击目标，你被视为正在夹击目标，而无视你们的实际站位角度\n通常：你必须处于和盟友正对角才能形成夹击。",
+      "esES": null
+    },
+    {
+      "Key": "afd0429918e54f3785f85a6940e69508",
+      "SimpleName": "GangUp.Name",
+      "ProcessTemplates": false,
+      "enGB": "Gang Up",
+      "ruRU": null,
+      "deDE": null,
+      "frFR": null,
+      "zhCN": "一拥而上",
+      "esES": null
+    },
+    {
+      "Key": "9ff8fba202f741969554ea626591b743",
+      "SimpleName": "glossery.Flanking.description",
+      "ProcessTemplates": true,
+      "enGB": "When making a melee attack, a character gets a +2 flanking bonus if an opponent is threatened by an ally on the opposite side of their target.",
+      "ruRU": null,
+      "deDE": null,
+      "frFR": null,
+      "zhCN": "近战攻击时，如果有盟军在攻击目标的另一侧造成威胁，攻击方获得+2夹击加值",
+      "esES": null
+    },
+    {
+      "Key": "6cc29044d353496bb2cd4a034d49f54a",
+      "SimpleName": "glossery.Flanking.name",
+      "ProcessTemplates": false,
+      "enGB": "Flanking",
+      "ruRU": null,
+      "deDE": null,
+      "frFR": null,
+      "zhCN": "夹击",
+      "esES": null
+    },
+    {
+      "Key": "fefdcbf53a374e609c40412f8a07630d",
+      "SimpleName": "ImprovedOutflank.Description",
+      "ProcessTemplates": true,
+      "enGB": "You can easily find openings in your enemies’ defenses.\nBenefit: Whenever you and an ally who also has this feat are threatening the same foe, you are considered to be flanking if you are at least perpendicular with your ally.\nNormal: You must be positioned opposite an ally to flank an opponent.",
+      "ruRU": null,
+      "deDE": null,
+      "frFR": null,
+      "zhCN": "你能轻而易举地找到敌人防御的薄弱之处。\n效果：当你和一名同样拥有这个专长的盟友威胁同一个敌人时，只要你们之间拥有至少90度夹角即可被视为形成夹击。\n通常：你必须处于和盟友正对角才能形成夹击。",
+      "esES": null
+    },
+    {
+      "Key": "9025fab718734251be3a7dfa1867de79",
+      "SimpleName": "ImprovedOutflank.Name",
+      "ProcessTemplates": false,
+      "enGB": "Improved Outflank",
+      "ruRU": null,
+      "deDE": null,
+      "frFR": null,
+      "zhCN": "精通包抄",
+      "esES": null
+    },
+    {
+      "Key": "162db626e4b5421d9b5efab16975be82",
+      "SimpleName": "PackFlanking.Description",
+      "ProcessTemplates": true,
+      "enGB": "You and your companion creature are adept at fighting together against foes.\nBenefit: When you and your companion creature have this feat, and you both threaten the same opponent, you are both considered to be flanking that opponent, regardless of your actual positioning.\nNormal: You must be positioned opposite an ally to flank an opponent.",
+      "ruRU": null,
+      "deDE": null,
+      "frFR": null,
+      "zhCN": "你和你的动物伙伴练习过如何围杀猎物。\n效果：当你和拥有此专长的动物伙伴同时威胁一个目标时，你们即都视为夹击目标，不管实际位置如何。\n通常：你必须处于和盟友正对角才能形成夹击。",
+      "esES": null
+    },
+    {
+      "Key": "634d0cf7f8eb4d53a86d3f1392a0c684",
+      "SimpleName": "PackFlanking.Name",
+      "ProcessTemplates": false,
+      "enGB": "Pack Flanking",
+      "ruRU": null,
+      "deDE": null,
+      "frFR": null,
+      "zhCN": "兽群围猎",
+      "esES": null
+    },
+    {
+      "Key": "3e14899eade445e4aa713e727abd6361",
+      "SimpleName": "Tactician.prefix",
+      "ProcessTemplates": false,
+      "enGB": "Tactician — ",
+      "ruRU": null,
+      "deDE": null,
+      "frFR": null,
+      "zhCN": "战术 - ",
+      "esES": null
+    }
+  ]
+}
