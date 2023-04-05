@@ -96,7 +96,7 @@ bdbf0a7a8b95dc6488008872f497f16b C1Barkeep 1 12000 Blue Dragonscale Helmet
 5d47f2fbf9eb8ae41a88f28e7707f627 C1Barkeep 1 15400 Helmet of Battlefield Clarity
 2140811c26dede24aa00bf7fe6cf3a1d C1Barkeep 1 7000 Identifying Glasses
 7437f12e61554634595e36fdbf804bbc C1Barkeep 1 12000 Stag Helmet
-127fd5a7b742937428953334f6c13052 C1Barkeep 1 24000 Stubborn Head
+127fd5a7b742937428953334f6c13052 C1Barkeep 1 64000 Stubborn Head
 45468bf062c538940ba72aed88d880a5 C1Barkeep 1 8000 Tight Helmet
 3b7820965662afe4ab17627103e44228 C1Barkeep 1 6500 Cord of Stubborn Fury
 ec34985b81b9f744488456e7009044ee C1Barkeep 1 7500 Explorer's Belt
