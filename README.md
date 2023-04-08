@@ -2153,7 +2153,7 @@
 <tr>
 <th rowspan="17">通用</td> 
     <td>General.CreateAbilityFocus</td>
-    <td><b>新增专长：</b>Ability Focus 技能专精，增加技能DC</td>
+    <td><b>新增专长：</b>Ability Focus 能力专精，增加能力DC</td>
     <td>:x:</td>
     <td>:x:</td></tr>
 <tr><td>General.CreateBackgrounds</td>
