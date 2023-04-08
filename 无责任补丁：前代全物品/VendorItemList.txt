@@ -323,6 +323,7 @@ d2eb319bc6b399a48b1b1d0a73238ac4 C3Arsinoe 1 81000 Arbiter's Robe
 c18a1d22dca8b684195633d685855d0c C4Heraxa 1 180000 Enforcer's Robe
 70c13c319f3d18841bb4c4e5c27125c9 C4Heraxa 1 220000 Protector's Robe
 62d2df6b7f534378b3492a4d2f78889d C5Arsinoe 1 440000 Dark Master's Robe
+b2b41b525b33406596ef4051d6232c1f C5Arsinoe 2 1000000 Robe of the Sin
 #披风
 e8157dd509418c449a642dbe4c4dd102 C2Woljif 1 48000 Herbalist's Cape
 03d72918c5f5c4d498607e76231e3487 C2Woljif 1 72000 Shroud of Abaddon
