@@ -1748,9 +1748,11 @@
    <tr><td>其他</td>
        <td>增加10件新物品，1个新法术</td></tr>
 </table>
+
 **注意，更新游戏到2.12版本后，SparsSorcerousSundries似乎出现了BUG，万乐园的新商人无法成功出现**<br>
 **为暂时解决此问题，可以用记事本打开VendorItemList.txt，将其中C4Gilmore全部替换为C4Heraxa（万乐园新老板）**<br>
 **自制全物品补丁已同样操作**<br>
+
 > 上方文件中补了充一个自制补丁，需要安装SparsSorcerousSundries才能使用<br>
 > 在商店添加了几乎全部前代特殊装备<br>
 > 售价随便定的，效果也可能有BUG，仅供娱乐！<br>
