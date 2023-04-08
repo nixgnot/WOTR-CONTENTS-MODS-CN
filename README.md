@@ -2157,8 +2157,8 @@
     <td>:x:</td>
     <td>:x:</td></tr>
 <tr><td>General.CreateBackgrounds</td>
-    <td><b>新增专长：</b>Additional Traits 附加背景<br>新增背景：<br>Magical Lineage 魔法裔,指定一个法术。当你超魔施展该法术时，其最终占用的法术环位视为比正常状况降低1级，cl+2（但是不会超过当前HD）<br>
-Metamagic Master 超魔主宰：指定一个法术。当你超魔施展该法术时，其最终占用的法术环位视为比正常状况降低2级<br>Fate’s Favored 命运眷顾：所有幸运加值额外+1</td>
+    <td><b>新增专长：</b>Additional Traits 额外背景特性<br>新增背景：<br>Magical Lineage 魔法裔,指定一个法术。当你超魔施展该法术时，其最终占用的法术环位视为比正常状况降低1级，cl+2（但是不会超过当前HD）<br>
+Metamagic Master 超魔主宰：指定一个法术。当你超魔施展该法术时，其最终占用的法术环位视为比正常状况降低2级<br>Fate’s Favored 天佑者：所有幸运加值额外+1</td>
     <td>:x:</td>
     <td>:heavy_check_mark:</td></tr>
 <tr><td>General.CreateBardStopSong</td>
@@ -2166,11 +2166,11 @@ Metamagic Master 超魔主宰：指定一个法术。当你超魔施展该法术
     <td>:x:</td>
     <td>:heavy_check_mark:</td></tr>
 <tr><td>General.CreateDirtyFighting</td>
-    <td><b>新增专长：</b>Dirty Fighting 卑劣战斗，放弃夹击加值来避免战技引发借机攻击，或者在本就不会引发借机攻击时战技获得加值。</td>
+    <td><b>新增专长：</b>Dirty Fighting 卑劣战斗，在没有夹击且没有相应专长时，战技不会引发借机攻击但是受到减值</td>
     <td>:x:</td>
     <td>:heavy_check_mark:</td></tr>
 <tr><td>General.CreateHeritage</td>
-    <td>半兽人替换种族特性：Orc-Atavism 返祖兽人，亲眷半精灵重新获得精灵免疫</td>
+    <td>半兽人替换种族特性：Orc-Atavism 正宗绿皮，亲眷半精灵重新获得精灵免疫</td>
     <td>:heavy_check_mark:</td>
     <td>:heavy_check_mark:</td></tr>
 <tr><td>General.CreateKitsuneFoxfire</td>
@@ -2178,7 +2178,7 @@ Metamagic Master 超魔主宰：指定一个法术。当你超魔施展该法术
     <td>:heavy_check_mark:</td>
     <td>:heavy_check_mark:</td></tr>
 <tr><td>General.CreateMadMagic</td>
-    <td><b>新增战斗专长：</b>Mad Magic 狂躁魔法，允许狂暴时施法e</td>
+    <td><b>新增战斗专长：</b>Mad Magic 疯狂魔法，允许狂暴时施法e</td>
     <td>:x:</td>
     <td>:heavy_check_mark:</td></tr>
 <tr><td>General.CreateOpportuneParry</td>
@@ -2186,7 +2186,7 @@ Metamagic Master 超魔主宰：指定一个法术。当你超魔施展该法术
     <td>:heavy_check_mark:</td>
     <td>:heavy_check_mark:</td></tr>
 <tr><td>General.CreatePreferredSpell</td>
-    <td><b>新增专长：</b>Preferred Spell 偏好法术，选定一个法术，使其能够自发施法</td>
+    <td><b>新增专长：</b>Preferred Spell 偏好法术，选定一个法术，使其能够自发转换施法</td>
     <td>:x:</td>
     <td>:heavy_check_mark:</td></tr>
 <tr><td>General.CreateSacredSummons</td>
@@ -2242,7 +2242,7 @@ Metamagic Master 超魔主宰：指定一个法术。当你超魔施展该法术
 <tr>
 <th rowspan="24">操念</td> 
     <td>Kineticist.CreateAutoMetakinesis</td>
-    <td>拥有过量超载自动增强念袭</td>
+    <td>拥有超载自动增强念袭</td>
     <td>:x:</td>
     <td>:heavy_check_mark:</td></tr>
 <tr><td>Kineticist.CreateBladeRushInfusion</td>
@@ -2322,7 +2322,7 @@ Metamagic Master 超魔主宰：指定一个法术。当你超魔施展该法术
     <td>:x:</td>
     <td>:heavy_check_mark:</td></tr>
 <tr><td>Kineticist.PatchVarious</td>
-    <td>强击注能可用于沙暴念袭，心念使状态设置，修复负向能量掌控</td>
+    <td>强击注能可用于沙暴念袭，应用心念使主属性设置，修复负向能量掌控</td>
     <td>:heavy_check_mark:</td>
     <td>:heavy_check_mark:</td></tr>
 <tr><td>Kineticist.FixBlastsAreSpellLike</td>
@@ -2352,9 +2352,17 @@ Metamagic Master 超魔主宰：指定一个法术。当你超魔施展该法术
     <td>:heavy_check_mark:</td>
     <td>:heavy_check_mark:</td></tr>
 <tr>
-<th rowspan="1">武技</td> 
-    <td>MartialArt.CreateProdigiousTwoWeaponFighting</td>
+<th rowspan="3">武技</td> 
+    <td>MartialArt.CreateBladedBrush</td>
+    <td><b>新增专长：</b>Bladed Brush 战刃舞绘，对大砍刀应用武器娴熟和精确刺击</td>
+    <td>:x:</td>
+    <td>:heavy_check_mark:</td></tr>
+<tr><td>MartialArt.CreateProdigiousTwoWeaponFighting</td>
     <td><b>新增专长：</b>Prodigious Two Weapon Fighting 有力双武器战斗，使用力量代替敏捷计算双武器专长要求，副手单手武器视为轻型</td>
+    <td>:x:</td>
+    <td>:heavy_check_mark:</td></tr>
+<tr><td>MartialArt.CreatePaladinVirtuousBravo</td>
+    <td><b>圣武士变体仁义剑客</td>
     <td>:x:</td>
     <td>:heavy_check_mark:</td></tr>
 <tr>
@@ -2368,7 +2376,7 @@ Metamagic Master 超魔主宰：指定一个法术。当你超魔施展该法术
     <td>:heavy_check_mark:</td>
     <td>:heavy_check_mark:</td></tr>
 <tr>
-<th rowspan="38">神话</td> 
+<th rowspan="39">神话</td> 
     <td>Mythic.CreateDemonLord</td>
     <td>恶魔道途：增加恶魔领主特性 - 随意传送等</td>
     <td>:heavy_check_mark:</td>
@@ -2378,7 +2386,11 @@ Metamagic Master 超魔主宰：指定一个法术。当你超魔施展该法术
     <td>:heavy_check_mark:</td>
     <td>:heavy_check_mark:</td></tr>
 <tr><td>Mythic.CreateExtraMythicFeats</td>
-    <td><b>神话能力：</b>Extra Mythic Feats 额外神话专长</td>
+    <td><b>神话能力可以选择额外神话专长，反之亦然</td>
+    <td>:heavy_check_mark:</td>
+    <td>:heavy_check_mark:</td></tr>
+<tr><td>Mythic.CreateHarmoniousMage</td>
+    <td><b>神话能力：</b>Harmonious Mage 奥术调谐 - 忽略对立学派惩罚</td>
     <td>:heavy_check_mark:</td>
     <td>:heavy_check_mark:</td></tr>
 <tr><td>Mythic.CreateKineticMastery</td>
@@ -2538,9 +2550,13 @@ Metamagic Master 超魔主宰：指定一个法术。当你超魔施展该法术
     <td>:x:</td>
     <td>:heavy_check_mark:</td></tr>
 <tr>
-<th rowspan="5">施法者</td> 
+<th rowspan="6">施法者</td> 
     <td>Spellcasters.CreateBestowHope</td>
-    <td><b>新增专长：</b>Bestow Hope 授予希望 - 引导减少恐惧等级</td>
+    <td><b>新增专长：</b>Bestow Hope 授予希望 - 引导能量减少恐惧等级</td>
+    <td>:x:</td>
+    <td>:heavy_check_mark:</td></tr>
+<tr><td>Spellcasters.CreateChannelForm</td>
+    <td><b>新增专长：</b>Channel Form 导能塑形 - 改变引导能量形状的一系列能力</td>
     <td>:x:</td>
     <td>:heavy_check_mark:</td></tr>
 <tr><td>Spellcasters.CreateEnergyChannel</td>
@@ -2618,7 +2634,7 @@ Metamagic Master 超魔主宰：指定一个法术。当你超魔施展该法术
     <td>:x:</td>
     <td>:heavy_check_mark:</td></tr>
 <tr><td>Witch.CreateSplitHex</td>
-    <td><b>新增专长：</b>Split Hex 分裂巫术；Split Major Hex 分裂强力巫术</td>
+    <td><b>新增专长：</b>Split Hex 分裂巫术；Split Major Hex 分裂强效巫术</td>
     <td>:x:</td>
     <td>:construction:</td></tr>
 <tr><td>Witch.FixBoundlessHealing</td>
@@ -2636,15 +2652,15 @@ Metamagic Master 超魔主宰：指定一个法术。当你超魔施展该法术
     <td>:heavy_check_mark:</td>
     <td>:heavy_check_mark:</td></tr>
 <tr><td>Patch.Patch_ActivatableHandleUnitRunCommand</td>
-    <td>修复可激活能力移动动作会自动关闭</td>
+    <td>修复移动动作会自动关闭可激活能力（当有2个同时激活时）</td>
     <td>:x:</td>
     <td>:heavy_check_mark:</td></tr>
 <tr><td>Patch.Patch_ActivatableOnNewRound</td>
-    <td>触发时使用移动动作，无剩余动作自动关闭</td>
+    <td>触发时使用光移动动作，无剩余动作自动关闭</td>
     <td>:x:</td>
     <td>:heavy_check_mark:</td></tr>
 <tr><td>Patch.Patch_ActivatableOnTurnOn</td>
-    <td>修复同类动作可激活能力不能同时激活</td>
+    <td>修复使用同一动作的可激活能力不能同时激活</td>
     <td>:x:</td>
     <td>:heavy_check_mark:</td></tr>
 <tr><td>Patch.Patch_ActivatableTryStart</td>
@@ -2676,7 +2692,7 @@ Metamagic Master 超魔主宰：指定一个法术。当你超魔施展该法术
     <td>:heavy_check_mark:</td>
     <td>:heavy_check_mark:</td></tr>
 <tr><td>Patch.Patch_EnduringSpells</td>
-    <td>允许持久法术对任何来源法术生效; 修复魔法武器</td>
+    <td>允许持久法术对任何来源法术生效; 修复魔化武器</td>
     <td>:x:</td>
     <td>:heavy_check_mark:</td></tr>
 <tr><td>Patch.Patch_EnvelopingWindsCap</td>
