@@ -8634,14 +8634,14 @@
       "SimpleName": "OracleRevelationGuidingStarFeature.Description",
       "ProcessTemplates": true,
       "enGB": "The stars themselves hold many answers, you may add your Charisma modifier to your Wisdom modifier on all Wisdom-based checks. In addition, once per day you can cast one spell from the oracle spellbook as if it were modified by the Empower Spell or Extend Spell feat without increasing the spell’s casting time or level.",
-      "zhCN": "星辰蕴含着许多奥秘，你可以在所有基于感知的检查中将您的魅力调整值添加到你的感知调整值。此外，每天一次，你可以从先知法术书中施展一个法术，就好像它应用了法术强效或法术延时专长，但不会增加法术的施法时间或环位。"
+      "zhCN": "星辰蕴含着许多奥秘，你可以在所有基于感知的检查中将您的魅力调整值添加到你的感知调整值。此外，每天一次，你可以从先知法术书中施展一个法术，就好像它应用了法术强效或法术延时专长，但不会增加法术的施法时间或等级。"
     },
     {
       "Key": "f6acd10730d1426b953e3ff29b9b00b1",
       "SimpleName": "OracleRevelationGuidingStarMetamagicAbilityBase.Description",
       "ProcessTemplates": true,
       "enGB": "Once per day you can cast one spell from the oracle spellbook as if it were modified by the Empower Spell or Extend Spell feat without increasing the spell’s casting time or level.",
-      "zhCN": "每天一次，你可以从先知法术书中施展一个法术，就好像它应用了法术强效或法术延时专长，但不会增加法术的施法时间或环位。"
+      "zhCN": "每天一次，你可以从先知法术书中施展一个法术，就好像它应用了法术强效或法术延时专长，但不会增加法术的施法时间或等级。"
     },
     {
       "Key": "1879c1cab5a2464fba3b61b73083d5c8",
@@ -8656,7 +8656,7 @@
       "ProcessTemplates": true,
       "IsUsed": false,
       "enGB": "Once per day you can cast one spell from the oracle spellbook as if it were modified by the Empower Spell feat without increasing the spell’s casting time or level.",
-      "zhCN": "每天一次，你可以从先知法术书中施展一个法术，就好像它应用了法术强效专长，但不会增加法术的施法时间或环位。"
+      "zhCN": "每天一次，你可以从先知法术书中施展一个法术，就好像它应用了法术强效专长，但不会增加法术的施法时间或等级。"
     },
     {
       "Key": "1d51cdc9b08e4f0691f670b8bfde03fa",
@@ -8664,14 +8664,14 @@
       "ProcessTemplates": true,
       "IsUsed": false,
       "enGB": "Once per day you can cast one spell from the oracle spellbook as if it were modified by the Extend Spell feat without increasing the spell’s casting time or level.",
-      "zhCN": "每天一次，你可以从先知法术书中施展一个法术，就好像它应用了法术延时专长，但不会增加法术的施法时间或环位。"
+      "zhCN": "每天一次，你可以从先知法术书中施展一个法术，就好像它应用了法术延时专长，但不会增加法术的施法时间或等级。"
     },
     {
       "Key": "a389eab486054c5092a65049770556ab",
       "SimpleName": "OracleRevelationGuidingStarMetamagicBuffEmpower.Description",
       "ProcessTemplates": true,
       "enGB": "Once per day you can cast one spell from the oracle spellbook as if it were modified by the Empower Spell feat without increasing the spell’s casting time or level.",
-      "zhCN": "每天一次，你可以从先知法术书中施展一个法术，就好像它应用了法术强效专长，但不会增加法术的施法时间或环位。"
+      "zhCN": "每天一次，你可以从先知法术书中施展一个法术，就好像它应用了法术强效专长，但不会增加法术的施法时间或等级。"
     },
     {
       "Key": "71f072c102534d3fb43ba2999e807dc5",
@@ -8685,7 +8685,7 @@
       "SimpleName": "OracleRevelationGuidingStarMetamagicBuffExtend.Description",
       "ProcessTemplates": true,
       "enGB": "Once per day you can cast one spell from the oracle spellbook as if it were modified by the Extend Spell feat without increasing the spell’s casting time or level.",
-      "zhCN": "每天一次，你可以从先知法术书中施展一个法术，就好像它应用了法术延时专长，但不会增加法术的施法时间或环位。"
+      "zhCN": "每天一次，你可以从先知法术书中施展一个法术，就好像它应用了法术延时专长，但不会增加法术的施法时间或等级。"
     },
     {
       "Key": "c17324347a1449ff83721fc8c27ffc2a",
@@ -10769,7 +10769,7 @@
       "SimpleName": "ShamanHeavensSpiritManifestationFeature.Description",
       "ProcessTemplates": true,
       "enGB": "Upon reaching 20th level, the shaman becomes the spirit of heaven. You receive a bonus on all saving throws equal to your Wisdom modifier. You become immune to fear effects, and automatically confirm all critical hits. Once per day, should you die, 1 round after dying you are reborn. Your body re-forms with all your equipment, and you return to life with maximum hit points.",
-      "zhCN":"２０级时，萨满成为苍天的精魂。你可以将感知调整值添加到所有豁免上。你免疫恐惧效果，所造成的重击威胁自动确认。每天一次，若你死亡，将在1轮内重生，你的身体会带着所有装备重组，回到最大生命值。"
+      "zhCN":"20级时，萨满成为苍天的精魂。你可以将感知调整值添加到所有豁免上。你免疫恐惧效果，所造成的重击威胁自动确认。每天一次，若你死亡，将在1轮内重生，你的身体会带着所有装备重组，回到最大生命值。"
     },
     {
       "Key": "9d4fd2a232f14609a962c599a69a23b2",
@@ -10804,7 +10804,7 @@
       "SimpleName": "ShamanHexGuidingStarFeature.Description",
       "ProcessTemplates": true,
       "enGB": "The stars themselves hold many answers, you may add your Charisma modifier to your Wisdom modifier on all Wisdom-based checks. In addition, once per day you can cast one spell from the shaman spellbook as if it were modified by the Empower Spell or Extend Spell feat without increasing the spell’s casting time or level.",
-      "zhCN":""
+   "zhCN": "星辰蕴含着许多奥秘，你可以在所有基于感知的检查中将您的魅力调整值添加到你的感知调整值。此外，每天一次，你可以从萨满法术书中施展一个法术，就好像它应用了法术强效或法术延时专长，但不会增加法术的施法时间或等级。"
     },
     {
       "Key": "5a07be573b7d427abf028323a1a890a5",
@@ -10874,14 +10874,14 @@
       "SimpleName": "ShamanHexStarburnAbility.Description",
       "ProcessTemplates": true,
       "enGB": "As a standard action, the shaman causes one creature within 30 feet to burn like a star. The creature takes 1d6 points of fire damage for every 2 levels the shaman possesses and emits bright light for 1 round. A successful Fortitude saving throw halves the damage and negates the emission of bright light. The shaman can use this hex a number of times per day equal to her Charisma modifier (minimum 1), but must wait 1d4 rounds between uses.",
-      "zhCN":"以一个标准动作，萨满可以使30尺内一个单位燃起星光。目标受到每2萨满等级1ｄ6点火焰伤害，并散发出强光１轮。成功的强韧豁免可以减半伤害并不会发光。该巫术每日使用次数为萨满的魅力调整值，连续使用之间至少间距1ｄ4轮。"
+      "zhCN":"以一个标准动作，萨满可以使30尺内一个单位燃起星光。目标受到每2萨满等级1d6点火焰伤害，并散发出强光１轮。成功的强韧豁免可以减半伤害并不会发光。该巫术每日使用次数为萨满的魅力调整值，连续使用之间至少间距1d4轮。"
     },
     {
       "Key": "e9bed7a18d6e44449703d5ac9bf73720",
       "SimpleName": "ShamanHexStarburnBuff.Description",
       "ProcessTemplates": true,
       "enGB": "As a standard action, the shaman causes one creature within 30 feet to burn like a star. The creature takes 1d6 points of fire damage for every 2 levels the shaman possesses and emits bright light for 1 round. A successful Fortitude saving throw halves the damage and negates the emission of bright light. The shaman can use this hex a number of times per day equal to her Charisma modifier (minimum 1), but must wait 1d4 rounds between uses.",
-      "zhCN":"以一个标准动作，萨满可以使30尺内一个单位燃起星光。目标受到每2萨满等级1ｄ6点火焰伤害，并散发出强光１轮。成功的强韧豁免可以减半伤害并不会发光。该巫术每日使用次数为萨满的魅力调整值，连续使用之间至少间距1ｄ4轮。"
+      "zhCN":"以一个标准动作，萨满可以使30尺内一个单位燃起星光。目标受到每2萨满等级1d6点火焰伤害，并散发出强光１轮。成功的强韧豁免可以减半伤害并不会发光。该巫术每日使用次数为萨满的魅力调整值，连续使用之间至少间距1d4轮。"
     },
     {
       "Key": "255fbe5ed27e433fac1eaac01bd33cf5",
@@ -10895,7 +10895,7 @@
       "SimpleName": "ShamanHexStarburnFeature.Description",
       "ProcessTemplates": true,
       "enGB": "As a standard action, the shaman causes one creature within 30 feet to burn like a star. The creature takes 1d6 points of fire damage for every 2 levels the shaman possesses and emits bright light for 1 round. A successful Fortitude saving throw halves the damage and negates the emission of bright light. The shaman can use this hex a number of times per day equal to her Charisma modifier (minimum 1), but must wait 1d4 rounds between uses.",
-      "zhCN":"以一个标准动作，萨满可以使30尺内一个单位燃起星光。目标受到每2萨满等级1ｄ6点火焰伤害，并散发出强光１轮。成功的强韧豁免可以减半伤害并不会发光。该巫术每日使用次数为萨满的魅力调整值，连续使用之间至少间距1ｄ4轮。"
+      "zhCN":"以一个标准动作，萨满可以使30尺内一个单位燃起星光。目标受到每2萨满等级1d6点火焰伤害，并散发出强光１轮。成功的强韧豁免可以减半伤害并不会发光。该巫术每日使用次数为萨满的魅力调整值，连续使用之间至少间距1d4轮。"
     },
     {
       "Key": "45f0b8710285465a9d435b571a14e270",
@@ -14175,4 +14175,1277 @@
       "zhCN": "泽弗斯"
     }
   ]
-}
+}领域"
+    },
+    {
+      "Key": "414a8bcb4c3f4e78b16108c21c1fec71",
+      "SimpleName": "GloryDomainProgressionDruid.Description",
+      "ProcessTemplates": true,
+      "enGB": "\nYou are infused with the glory of the divine, and are a true foe of the undead. In addition, when you channel positive energy to harm undead creatures, the save DC to halve the damage is increased by 2.\nTouch of Glory: You can cause your hand to shimmer with divine radiance, allowing you to touch a creature as a standard action and give it a bonus equal to your level in the class that gave you access to this domain on a single Charisma-based skill check or Charisma ability check. This ability lasts for 1 hour or until the creature touched applies the bonus to a roll. You can use this ability to grant the bonus a number of times per day equal to 3 + your Wisdom modifier.\nAura of Heroism: At 8th level, you can emit a 30-foot aura of heroism for a number of rounds per day equal to your level in the class that gave you access to this domain. Using this ability is a swift action. Allies in the area are treated as if they were under the effects of heroism spell.\nDomain Spells: shield of faith, bless weapon, searing light, divine power, burst of glory, inspiring recovery, holy sword, holy aura, overwhelming presence.",
+      "zhCN": "\n你自身已注入圣洁的光辉，是一切不死生物的天生死敌。此外，在你引导正向能量对不死生物造成伤害时，使伤害减半的豁免DC将提升2点。\n光辉之触：你的手部可发出圣洁闪光，使你能够以标准动作接触生物，使其在单次基于魅力的技能检定或魅力属性检定时获得加值，加值数等于赋予你此领域的职业等级。此能力可持续1小时，或是在该生物为某次检定应用此加值后结束。每天可使用次数为感知调整值+3。\n英雄气概灵光：在8级时，你可发出30英尺范围的英雄气概灵光，每天可持续的轮数等于赋予你此领域的职业等级。施展此能力是一个迅捷动作。在范围内的盟友都视为受到英雄气概的法术效果影响。\n领域法术：虔诚护盾，祝福武器，炽热光辉，神能，荣光爆发，振奋复苏，圣剑术，神圣灵光，神威如岳。"
+    },
+    {
+      "Key": "60841d310e574b37a172c9d3e9fb1d22",
+      "SimpleName": "GloryInvokeDeityAbility.Description",
+      "ProcessTemplates": true,
+      "IsUsed": false,
+      "enGB": "By holding aloft a holy symbol and calling your deity’s name, you take on an aspect of that divinity. When you cast this spell, choose a domain offered by your deity. You gain that domain’s benefits, along with the listed physical changes; abilities that allow a saving throw use this spell’s DC. \nGlory: You gain the benefits of heroism and protection from evil, and your first successful attack each round against an undead target deals an additional 1d6 points of positive energy damage.",
+      "zhCN": "通过高举一个圣徽并呼唤你信仰的神灵的名字，你就获得了祂的一部分神性。当你施展此法术时，选择一个由你的神祇提供的领域。您将获得该领域的好处，以及列出的物理变化；允许豁免检定的能力的DC等同该法术的DC。\n荣耀：你获得英雄气概和防护邪恶的好处，并且你每轮首次对不死生物的成功攻击会造成额外的 1d6 点正能量伤害。"
+    },
+    {
+      "Key": "ff4181b25a504a488f4fa3d71e8f857b",
+      "SimpleName": "GloryInvokeDeityBuff.Description",
+      "ProcessTemplates": true,
+      "enGB": "By holding aloft a holy symbol and calling your deity’s name, you take on an aspect of that divinity. When you cast this spell, choose a domain offered by your deity. You gain that domain’s benefits, along with the listed physical changes; abilities that allow a saving throw use this spell’s DC. \nGlory: You gain the benefits of heroism and protection from evil, and your first successful attack each round against an undead target deals an additional 1d6 points of positive energy damage.",
+      "zhCN": "通过高举一个圣徽并呼唤你信仰的神灵的名字，你就获得了祂的一部分神性。当你施展此法术时，选择一个由你的神祇提供的领域。您将获得该领域的好处，以及列出的物理变化；允许豁免检定的能力的DC等同该法术的DC。\n荣耀：你获得英雄气概和防护邪恶的好处，并且你每轮首次对不死生物的成功攻击会造成额外的 1d6 点正能量伤害。"
+    },
+    {
+      "Key": "247b6f7c96ff446c8ed2d1085a1f3980",
+      "SimpleName": "GloryInvokeDeityBuff.Name",
+      "ProcessTemplates": false,
+      "enGB": "Invoke Deity - Glory Domain",
+      "zhCN": "召唤神灵 - 荣耀领域"
+    },
+    {
+      "Key": "cdc785eea9cf468597472dc8b328af09",
+      "SimpleName": "GoguntaFeature.Description",
+      "ProcessTemplates": true,
+      "enGB": "\nTitles: Song of the Swamp, Goddess of the Boggards, Mother of Swamps, Frog Mother   \nAlignment: Chaotic Evil   \nAreas of Concern: Amphibians, Boggards, Swamps   \nDomains: Chaos, Death, Evil, Water   \nSubdomains: Demon, Murder, Oceans, Undead   \nFavoured Weapon: Whip (dagger)   \nHoly Symbol: Twig fetish of a boggard   \nSacred Animal: Frog   \nThe goddess of the boggards, Gogunta began her life as a mighty mobogo. Her route to ascension as a demon lord is believed by the boggards to have been the result of a life spent slaughtering just the right creatures and feeding on just the right parts of their bodies. Scholars of the demonic believe it more likely that she was a herzrou in Dagon’s service who ascended to the role of demon lord by more traditional means—certainly she favors the hezrous as guardians and lovers, and often sends them to guard or even lead boggard tribes on the Material Plane (particularly tribes in Varisia’s Mushfens, the River Kingdoms, or the Sodden Lands). Gogunta is unusual among the demon lords in that her realm is not wholly her own—the stinking saltmarsh of Mephizim is a vast region, yet it is contained wholly within the realm of Dagon’s Ishiar. Mephizim floats upon the surface of the vast sea of Ishiar, being pulled idly along by the current. Despite the swampy island’s continental size, it remains a relative speck on the surface of the great Abyssal sea. Dagon seems content to let Gogunta rule her tiny realm above his own, ignoring her blasphemous cavortings. Gogunta’s cult often mingles freely with that of Dagon on the Material Plane, with her boggards and Dagon’s cultists mixing and mating in disgusting ways that nature never intended. Gogunta appears as an immense, multi-headed frog with too many eyes and even more tongues, but in some boggard artwork she appears instead as an immense boggard queen.",
+      "zhCN": "\n称号：沼泽之歌、沼泽地女神、沼泽之母、青蛙母亲 \n阵营：混乱邪恶 \n关注领域：两栖动物、沼泽地、沼泽 \n领域：混乱、死亡、邪恶、水 \n子域：恶魔、谋杀、海洋、不死生物 \n武器：鞭子（匕首） \n圣徽：博格德的树枝神物 \n圣兽：青蛙 \n博格德的女神 Gogunta 开始了她作为强大的 mobogo 的生活。沼怪们认为，她成为恶魔领主的道路是一生都在屠杀正确的生物并以他们身体的正确部位为食的结果。研究恶魔的学者认为，她更有可能是为达贡服务的 herzrou，通过更传统的方式升任恶魔领主的角色——当然，她喜欢 hezrous 作为监护人和爱人，并经常派他们看守甚至领导 boggard 部落在物质位面（特别是瓦里西亚的 Mushfens、河流王国或湿地）的部落。 Gogunta 在恶魔领主中是不寻常的，因为她的领域不完全是她自己的——Mephizim 的恶臭盐沼是一个广阔的区域，但它完全包含在 Dagon 的 Ishiar 领域内。 Mephizim 漂浮在广阔的 Ishiar 海面上，随波逐流。尽管这个沼泽岛有大陆那么大，但它仍然是巨大深海表面上的一个相对斑点。 Dagon 似乎满足于让 Gogunta 统治她自己的小王国，无视她亵渎神明的嬉戏。 Gogunta 的教派经常在主物质位面与 Dagon 的教派自由混合，她的沼人和 Dagon 的教徒以自然从未打算的令人厌恶的方式混合和交配。 Gogunta 看起来像一只巨大的多头青蛙，有太多的眼睛和更多的舌头，但在一些博格德艺术作品中，她反而表现为一个巨大的博格德女王。"
+    },
+    {
+      "Key": "c3ebc10472e249919a734c995f6db5d8",
+      "SimpleName": "GoguntaFeature.Name",
+      "ProcessTemplates": false,
+      "enGB": "Gogunta",
+      "zhCN": "古贡塔"
+    },
+    {
+      "Key": "7eca3fdd4bf947219fb2d9384f850c73",
+      "SimpleName": "GoodberryAbility.Description",
+      "ProcessTemplates": true,
+      "enGB": "Casting Goodberry creates a Bunch of Goodberries and stores them in the party inventeory. When eaten the goodberries heal 2d4 point of damage, however if they are eaten more than once a day they can make the creature that ate them sick for a short time.",
+      "zhCN": "施放神莓术会创建一堆神莓并将它们存储在公共物品栏中。食用神莓时会治疗 2d4 点伤害，但是如果每天食用超过一次，它们会使食用它们的生物在短时间内患病。"
+    },
+    {
+      "Key": "dd9396b7bb5a471da4425ad983693b29",
+      "SimpleName": "GoodberryItem.Name",
+      "ProcessTemplates": false,
+      "enGB": "Bunch of Goodberries",
+      "zhCN": "一堆神莓"
+    },
+    {
+      "Key": "ba09eb0746ad482fbaf102ff15dfd8e7",
+      "SimpleName": "GoodberryItemAbility.Description",
+      "ProcessTemplates": true,
+      "enGB": "When eaten goodberries heal 2d4 point of damage, however if they are eaten more than once every 24 hours they can make the creature that ate them sick for a short time.",
+      "zhCN": "食用神莓时会治疗 2d4 点伤害，但是如果每天食用超过一次，它们会使食用它们的生物在短时间内患病。"
+    },
+    {
+      "Key": "9eb24a979b2246028de5f43826685937",
+      "SimpleName": "GoodberryItemAbility.Name",
+      "ProcessTemplates": false,
+      "enGB": "Goodberry",
+      "zhCN": "神莓"
+    },
+    {
+      "Key": "dabbeb07f51f478da8e5bb6d297402ff",
+      "SimpleName": "GoodInvokeDeityAbility.Description",
+      "ProcessTemplates": true,
+      "IsUsed": false,
+      "enGB": "By holding aloft a holy symbol and calling your deity’s name, you take on an aspect of that divinity. When you cast this spell, choose a domain offered by your deity. You gain that domain’s benefits, along with the listed physical changes; abilities that allow a saving throw use this spell’s DC. \nGood: You are immune to fear and compulsion effects, and weapons you wield count as good for the purpose of overcoming damage reduction.",
+      "zhCN": "通过高举一个圣徽并呼唤你信仰的神灵的名字，你就获得了祂的一部分神性。当你施展此法术时，选择一个由你的神祇提供的领域。您将获得该领域的好处，以及列出的物理变化；允许豁免检定的能力的DC等同该法术的DC。\n善良：你免疫恐惧和胁迫效果，你使用的武器在穿透伤害减免时视为善良武器。"
+    },
+    {
+      "Key": "461606b2ce434f9f9fbeecd83ad5dc4c",
+      "SimpleName": "GoodInvokeDeityBuff.Description",
+      "ProcessTemplates": true,
+      "enGB": "By holding aloft a holy symbol and calling your deity’s name, you take on an aspect of that divinity. When you cast this spell, choose a domain offered by your deity. You gain that domain’s benefits, along with the listed physical changes; abilities that allow a saving throw use this spell’s DC. \nGood: You are immune to fear and compulsion effects, and weapons you wield count as good for the purpose of overcoming damage reduction.",
+      "zhCN": "通过高举一个圣徽并呼唤你信仰的神灵的名字，你就获得了祂的一部分神性。当你施展此法术时，选择一个由你的神祇提供的领域。您将获得该领域的好处，以及列出的物理变化；允许豁免检定的能力的DC等同该法术的DC。\n善良：你免疫恐惧和胁迫效果，你使用的武器在穿透伤害减免时视为善良武器。"
+    },
+    {
+      "Key": "aa33f47ccec0491f946624003f62df65",
+      "SimpleName": "GoodInvokeDeityBuff.Name",
+      "ProcessTemplates": false,
+      "enGB": "Invoke Deity - Good Domain",
+      "zhCN": "召唤神灵 - 善良领域"
+    },
+    {
+      "Key": "334e3761ece040e48fe21bfb1696d75e",
+      "SimpleName": "GreenFaithFeature.Description",
+      "ProcessTemplates": true,
+      "enGB": "\nType: Druidic  \nLeader: \bThe Archdruid   \nDomains: Air, Earth, Animal, Fire, Plant. \nFavoured Weapons: Sickle, Quarterstaff\nThe Green Faith (also known as the Old Faith, the Great Eld, or the Wyrd) is a naturalistic philosophy based on the belief that natural forces are worthy of attention and respect. Followers of the Green Faith meditate daily, commune with natural forms of power, and show respect to nature in all things. They often hang fresh herbs from the lintels of doorways as a sign of respect for nature. Although the Green Faith is based on nature, one need not be a druid to value its tenets, nor do all druids necessarily count themselves as members of this philosophy, although almost all of them appreciate its values. On Golarion, the Green Faith is centred in Andoran, Nirmathas, Taldor, and the River Kingdoms. Sarkoris, prior to its destruction at the hands of demons, was formerly the Green Faith's greatest bastion; since then, Green Faith holdouts continue their fight to protect nature from the corruption of the Worldwound. Humans, elves, and half-elves make up the majority of the Green Faith's members. The Green Faith is one of the oldest forms of worship in Golarion, as evidenced by the numerous druidic symbols found in the cave drawings of early man. According to legend, in the earliest years of its existence, the Green Faith was split into four factions. One group venerated the strength and endurance of stone, another the power and ferocity of wild beasts, a third the bountiful earth, and the last, the cleansing purity of fire. For years, these four factions fought for supremacy, each claiming that the aspect of nature it venerated was the most important. Finally, the leaders of the four factions agreed to resolve their conflict through single combat. Before the battle could begin, however, a multicolored geyser sprang from the ground, equal parts water, earth, and flame. The geyser was followed by an enormous flock of multicolored birds, which flew off in all directions. The faction leaders saw this as a clear sign from nature that no one element could be more important than another, and that ultimately, the four factions shared the same basic philosophy.",
+      "zhCN": "苍翠誓约是一种自然主义哲学，其基础是坚信自然力量值得关注和尊重。苍翠誓约的追随者每天进行冥想，与力量的各种自然形式进行交流，并对自然界的一切事物表示尊重。\n领域：动物，大地，火焰，植物，流水。\n偏好武器：镰刀"
+    },
+    {
+      "Key": "82aa1c078858494da05e109a3a801234",
+      "SimpleName": "HalcamoraFeature.Description",
+      "ProcessTemplates": true,
+      "enGB": "\nTitles: Lady of Ripe Bounty   \nAlignment: Neutral Good   \nAreas of Concern: Gardens, Orchards, Wine   \nDomains: Good, Luck, Plant, Weather   \nSubdomains: Agathion, Growth, Revelry, Seasons   \nFavoured Weapon: Club   \nHoly Symbol: Jug of grapes   \nSacred Animal: Ladybug   \nHalcamora appears as a young woman with sun-darkened skin, eyes of green so pale they're almost white, and a friendly, knowing smile. She wears brown robes kilted up to her knees, and her feet are always smudged with dirt and wine stains. From her shoulders sweep shell-like red wings marked with the distinctive black spots of a ladybug. Two slender black antennae curve up from her temples, and sleek black hair falls to her shoulders. Halcamora can be found where sunlight shines on cultivated garden plots, where workers rest after a day in the fields, and anywhere where wine flows and grapes ripen. The Lady of Ripe Bounty leaves wilder areas to others and contents herself with small gardens, parks, and wineries. Peaceful farming communities that build temples to more powerful nature gods often raise a small shrine to Halcamora as well. Gardeners and vintners pay particular homage to the Lady of Ripe Bounty and her celestial agents, particularly in times of drought or harsh weather. The gentle agathion has little room for hatred in her heart, but she despises insect-bodied fiends who blight crops and carry plague. Halcamora is a social empyreal lord and can often been found visiting the palaces of others, relaxing with a jug of wine at her elbow. At other times she resides in a leafy bower in the depths of the Forest of Whispered Longing in Nirvana.",
+      "zhCN": "\n称号：丰盈满贯女士\n阵营：绝对中立 \n神职：花园、果园、葡萄酒 \n领域：善良、幸运、植物、天气\n子领域：盖森、滋长、狂欢、季节\n偏好武器：木棒\n圣徽：葡萄酒壶\n圣兽：瓢虫\n哈卡莫拉以幼年女子的形象出现，她的皮肤晒得黝黑，闪烁绿光的眼睛几近白色，还带着友好、会心的微笑。她穿着长及膝盖的棕色长袍，她的脚上总是沾满泥土和酒渍。从她的肩膀上掠过贝壳状的红色翅膀，上面有瓢虫独特的黑色斑点。两根细长的黑色触角从她的太阳穴向上弯曲，光滑的黑发垂到肩上。哈卡莫拉可以在阳光照射在耕地花园的地方，工人在田间休息一天后的地方，以及葡萄酒流动和葡萄成熟的地方。\n丰盈满贯女士将荒野留给他人，并以建立小花园、公园和酿酒厂为满足。为更强大的自然神建造寺庙的和平农业联盟通常也会为哈卡莫拉建一座小神殿。园丁和葡萄酒商特别向丰盈满贯女士和她的神祇致敬，特别是在干旱或恶劣天气的时候。温柔的盖森在她的心中几乎没有仇恨的余地，但她鄙视那些破坏庄稼和携带瘟疫的虫体恶魔。\n哈卡莫拉是一位至高天领主，经常可以看到她参观其他人的宫殿，手肘端着一壶酒放松身心。其他时候，她住在涅槃境的低语渴望森林深处的一个绿树成荫的凉亭里。"
+    },
+    {
+      "Key": "f4140511fd87421cbd1dc13c235ce21d",
+      "SimpleName": "HalcamoraFeature.Name",
+      "ProcessTemplates": false,
+      "enGB": "Halcamora",
+      "zhCN": "哈卡莫拉"
+    },
+    {
+      "Key": "22c8605b07e0433d9d3e240fca1191a0",
+      "SimpleName": "HasturFeature.Description",
+      "ProcessTemplates": true,
+      "enGB": "\nTitles: The King in Yellow, Him Who is Not to be Named, The Unspeakable  \nAlignment: Chaotic Evil   \nAreas of Concern: Decadence, Disorder, Nihilism   \nRank: Great Old One   \nDomains: Chaos, Evil, Rune, Void (Nobility) \nSubdomains: Dark Tapestry, Language, Stars, Wards  \nFavoured Weapon: Rapier   \nHoly Symbol: The Yellow Sign: a three-armed triskelion   \nAs with many of the Great Old Ones, Hastur is imprisoned on a distant world. Yet unlike most of the imprisoned Great Old Ones, Hastur can manifest an avatar on other worlds as long as the light from the strange star in the sky of his prison world shines upon the targeted portion of the second world. He requires the assistance of powerful magic in order to manifest this avatar, known as the King in Yellow, but such magic need not be consciously wrought. His cultists are masters of subtle magics that can trick unsuspecting victims into opening the way for the King in Yellow. Hastur’s symbol, the Yellow Sign, is often used in conjunction with such magic, and often those who find the Yellow Sign become doomed to host the King in Yellow in their own minds, slowly transforming into his agents. Some of his followers regard him as a patron of shepherds, believing that the bulk of humanity are but sheep to be gathered for an unknown future use. None know what Hastur looks like, for he has been imprisoned far longer than mortal life has existed. Those he takes as avatars when manifesting as the King in Yellow appear as entities clad in what seem to be frayed and tattered yellow robes. Only upon closer inspection are the “robes” revealed to be the creatures’ flesh, and what lies hidden under the darkened hoods is horror incarnate.",
+      "zhCN": "\n称号：黄衣之王\n阵营：混乱邪恶\n神职：颓废，动乱与虚无主义\n等级：旧日支配者\n领域：混乱、邪恶、符文、虚空（崇高）\n子领域：异幕，语言，星辰，守护\n偏好武器：细剑\n圣徽：黄衣之印\n和许多旧日支配者相同，哈斯塔也被囚禁在一个遥远世界。但和大多数旧日支配者不同，当囚禁哈斯塔的怪异行星自天空投下光芒，祂便可在该地显现一个化身。虽然祂需要强大的魔法帮助这个号称黄衣之王的化身降临，然而此种魔法并不需要有意识地完成。\n祂的教徒皆是隐秘魔法的大师，致力于欺骗无防备的受害者开启黄衣之王降临的道路。哈斯塔的邪徽被称作黄衣之印，时常与此类魔法同在，而那些寻见黄衣之印的凡人的心灵往往会被黄衣之王侵染，慢慢转化为祂的代理人。祂的部分崇拜者认为祂是牧羊人的保护神，而芸芸众生不过为将来的未知用途备好的羔羊。\n无人知晓哈斯塔的真实容貌，因祂被囚禁的时间远比人世更加漫长。当祂以黄衣之王的化身显现时，看上去近似身披褴褛黄袍的实体。然而，仔细观察却能发现“长袍”实为某种生物的血肉，而隐藏在兜帽之下的则是超越人智所能理解的恐怖具现。"
+    },
+    {
+      "Key": "bf813c7e99a64489b4052880b677c3c1",
+      "SimpleName": "HasturFeature.Name",
+      "ProcessTemplates": false,
+      "enGB": "Hastur",
+      "zhCN": "哈斯塔"
+    },
+    {
+      "Key": "cec2a13783664b12853eb919f7d34224",
+      "SimpleName": "HathorFeature.Description",
+      "ProcessTemplates": true,
+      "enGB": "\nTitles: Mistress of Jubilation   \nAlignment: Chaotic Good   \nAreas of Concern: Dance, Joy, Love, Music, The Sky   \nDomains: Air, Chaos, Charm, Good, Travel   \nSubdomains: Azata, Cloud, Exploration, Love, Revelry, Trade   \nFavoured Weapon: Shortsword   \nHoly Symbol: Solar Disk with Horns   \nSacred Animal: Cow   \nThe cow-headed goddess Hathor was worshiped from the earliest days of Ancient Osirion, and remained a popular deity throughout its history. A divinity of air and sky, Hathor is also a goddess of beauty and love, happiness and merriment. She is the queen of the dance, the mistress of music, and the sovereign of song. Hathor is a wife, a mother, and a lover, a goddess of fertility, sexuality, and motherhood. She is also a goddess of trade and goods that bring wealth from foreign lands. Hathor is the daughter of Ra, and sister to Bastet, Maat, and Sekhmet. She is the consort of Horus, and as he is a god of kings, so is she a goddess of queens, though she is venerated by royalty and commoners alike. Hathor appears as a voluptuous cow-headed woman with the solar disk ofher father Ra between her horns and carrying a sistrum. Sometimes she is depicted as a human woman with a horned headdress. More rarely, she is depicted as a great wild cow whose milk nourishes the living. Hathor is a patron and protector of women, and is worshiped by mothers, wives, and lovers of all ages. She also serves as a patron ofbards, dancers, musicians, and performers, which makes her a popular deity in thriving cities and their playhouses. In her role as a goddess of trade, Hathor is also a patron of miners, particularly those who mine for precious stones. Hathor's priesthood is predominantly female, and her temples hold great festivals full of music and dance where worshipers consume large amounts of beer and wine and revel for days on end.",
+      "zhCN": "\n称号：欢腾女士\n阵营：混乱善良\n神职：舞蹈、欢愉、爱情、音乐、天空\n领域：空气、混乱、魅力、善良、旅行\n子领域：爱塔、云、探索、爱慕、狂欢、交易\n偏好武器：短剑\n圣徽：日轮与牛角\n圣兽：母牛\n牛头女神哈索尔从古奥西里昂建国初期就受敬拜，直至今日信众依旧众多。虽为天与空之神，哈索尔也是美、爱、欢、娱的女神。祂是华舞天后，美音女士，以及歌之圣皇。哈索尔也是妻母爱人，是多产、性欲与母性之神。祂同时也是从远方带来财富的贸易与货品女神。\n哈索尔是拉的女儿，芭丝特、玛亚特与塞赫美特的姊妹。祂是荷鲁斯的配偶，因此当丈夫是王之神时，祂也是后之神，但祂受到上下各阶级一同崇拜。哈索尔以角间头顶父亲日轮，手持响铃的牛首佳丽姿态示人，有时也会被以穿戴牛角头饰的人类女性形象描绘。更罕见的画像则把祂画成一只乳汁滋养众生的巨大野牛。\n哈索尔是女性的守护神，受到各个年龄层的母亲、妻子及爱人所敬拜。祂也是吟游诗人、舞者、音乐家及艺人的守护神，因此在大城市及其中的戏院信徒众多。虽然哈索尔是贸易女神，祂同时也是矿业女神，尤其庇护开采宝石的矿工。哈索尔的祭司几乎全是女人，其神庙会举办充满了音乐与舞蹈，酒流满地且持续数日的盛大狂欢庆典。"
+    },
+    {
+      "Key": "05c79dc4411340858b5f65f45b90df0b",
+      "SimpleName": "HathorFeature.Name",
+      "ProcessTemplates": false,
+      "enGB": "Hathor",
+      "zhCN": "哈索尔"
+    },
+    {
+      "Key": "f699a117e16f4f0bb292166180259e28",
+      "SimpleName": "HavocDragonPet.DescriptionShort",
+      "ProcessTemplates": false,
+      "enGB": "This dragon’s scales and insectile wings dance with color, while its whiplike tail waves as if stirred by an unseen breeze. \nDespite their best intentions, the appropriately named havoc dragons often cause collateral damage as they develop whimsical wonderlands of revelry and relaxation.",
+      "zhCN": "这条龙的鳞片和虫翼跃动着色彩，而它的鞭子般的尾巴则像被看不见的微风吹动一样摇曳着。尽管它们的意图不坏，这种被恰当命名为狂欢龙的生物经常会造成附带损害，因为它们会像在异想天开的仙境中狂欢和放松。"
+    },
+    {
+      "Key": "6b8b90fff0ca4248833db2f50a537c46",
+      "SimpleName": "HavocDragonPetLarge.Description",
+      "ProcessTemplates": true,
+      "enGB": "This large dragon’s scales and insectile wings dance with color, while its whiplike tail waves as if stirred by an unseen breeze. \nDespite their best intentions, the appropriately named havoc dragons often cause collateral damage as they develop whimsical wonderlands of revelry and relaxation.",
+      "zhCN": "这条龙的鳞片和虫翼跃动着色彩，而它的鞭子般的尾巴则像被看不见的微风吹动一样摇曳着。尽管它们的意图不坏，这种被恰当命名为狂欢龙的生物经常会造成附带损害，因为它们会像在异想天开的仙境中狂欢和放松。"
+    },
+    {
+      "Key": "f15d4d2820684bb99b53a35f4a49f78c",
+      "SimpleName": "HavocDragonPetLarge.Name",
+      "ProcessTemplates": false,
+      "enGB": "Havoc Dragon Companion - Large",
+      "zhCN": "狂欢龙——大型"
+    },
+    {
+      "Key": "f11625fa427b4cbd8a0cd1a327ff7ca1",
+      "SimpleName": "HavocDragonPetMedium.Description",
+      "ProcessTemplates": true,
+      "enGB": "This medium dragon’s scales and insectile wings dance with color, while its whiplike tail waves as if stirred by an unseen breeze. \nDespite their best intentions, the appropriately named havoc dragons often cause collateral damage as they develop whimsical wonderlands of revelry and relaxation.",
+      "zhCN": "这条中型龙的鳞片和虫翼跃动着色彩，而它的鞭子般的尾巴则像被看不见的微风吹动一样摇曳着。尽管它们的意图不坏，这种被恰当命名为狂欢龙的生物经常会造成附带损害，因为它们会像在异想天开的仙境中狂欢和放松。"
+    },
+    {
+      "Key": "94ef10af325f43b1b92763b33019c9fc",
+      "SimpleName": "HavocDragonPetMedium.Name",
+      "ProcessTemplates": false,
+      "enGB": "Havoc Dragon Companion - Medium",
+      "zhCN": "狂欢龙——中型"
+    },
+    {
+      "Key": "cfb71888cb384ad2ba0c5e0eb1465ad2",
+      "SimpleName": "HealingInvokeDeityAbility.Description",
+      "ProcessTemplates": true,
+      "IsUsed": false,
+      "enGB": "By holding aloft a holy symbol and calling your deity’s name, you take on an aspect of that divinity. When you cast this spell, choose a domain offered by your deity. You gain that domain’s benefits, along with the listed physical changes; abilities that allow a saving throw use this spell’s DC. \nHealing: You gain fast healing 3. Your spells and class features that have the Cure spell descriptor, along with channeling energy to heal, have their caster level raised by 2.",
+      "zhCN": "通过高举一个圣徽并呼唤你信仰的神灵的名字，你就获得了祂的一部分神性。当你施展此法术时，选择一个由你的神祇提供的领域。您将获得该领域的好处，以及列出的物理变化；允许豁免检定的能力的DC等同该法术的DC。\n医疗：你获得快速医疗 3。你的具有治疗法术描述符的法术和职业能力，以及引导能量治疗时，其施法者等级提高 2。"
+    },
+    {
+      "Key": "39e624958d4d4d4580a79f98c9cb2f19",
+      "SimpleName": "HealingInvokeDeityBuff.Description",
+      "ProcessTemplates": true,
+      "enGB": "By holding aloft a holy symbol and calling your deity’s name, you take on an aspect of that divinity. When you cast this spell, choose a domain offered by your deity. You gain that domain’s benefits, along with the listed physical changes; abilities that allow a saving throw use this spell’s DC. \nHealing: You gain fast healing 3. Your spells and class features that have the Cure spell descriptor, along with channeling energy to heal, have their caster level raised by 2.",
+      "zhCN": "通过高举一个圣徽并呼唤你信仰的神灵的名字，你就获得了祂的一部分神性。当你施展此法术时，选择一个由你的神祇提供的领域。您将获得该领域的好处，以及列出的物理变化；允许豁免检定的能力的DC等同该法术的DC。\n医疗：你获得快速医疗 3。你的具有治疗法术描述符的法术和职业能力，以及引导能量治疗时，其施法者等级提高 2"
+    },
+    {
+      "Key": "a4a94692db834f429a07cbb774fad0c1",
+      "SimpleName": "HealingInvokeDeityBuff.Name",
+      "ProcessTemplates": false,
+      "enGB": "Invoke Deity - Healing Domain",
+      "zhCN": "召唤神灵 - 医疗领域"
+    },
+    {
+      "Key": "1d396f6d718146a8b9b97939155f8ce2",
+      "SimpleName": "HeiFengFeature.Description",
+      "ProcessTemplates": true,
+      "enGB": "\nTitles: Duke of Thunder   \nAlignment: Chaotic Neutral   \nAreas of Concern: Sea, Storms, Thunder, Wind   \nDomains: Air, Chaos, Destruction, Water, Weather   \nSubdomains: Catastrophe, Cloud, Ocean, Protean, Storms, Wind   \nFavoured Weapon: Nine-ring broadsword (Longsword)   \nHoly Symbol: Lightning bolt arcing out of a dark storm cloud   \nSacred Animal: Raven   \nThe Tian Xia god Hei Feng's domain is the sea and the sky, whether it brings good fortune or ill. His holy symbol is a lightning bolt arcing out of a dark storm cloud. He is the patron deity of tengu and is worshiped in many lands. He often appears as a powerful tengu swordsman with a nine-ring broadsword and is accompanied by divine servants known as the counts of wind, rain, thunder, and lightning. A group of tengu Hei Fengan priests known as the Sunderstorm Covenant were key contributors to the establishment of the tengu nation of Kwanlai, though their creed of overwhelming response to any slight has caused their faith to lose influence.",
+      "zhCN": "\n称号：暴霆候\n阵营：混乱中立\n神职：海、风暴、雷、风\n领域：空气、混乱、毁灭、流水、天气\n子领域：天灾、云、海、星灵、风暴、风\n偏好武器：九环阔剑（长剑）\n圣徽：从乌云中射出的闪电\n圣兽：乌鸦\n天洲神黑风的领域是海天，无论是带来好运还是带来厄运。他的圣徽是一道从黑暗风暴云中射出的闪电。他是天狗的守护神，在许多地方都受到崇拜。他经常以佩戴九环大刀的强大天狗剑士形象出现，并伴随着被称为风雨雷电的神仆。一群被称为“风暴盟约“的黑风牧师是天狗国度昆莱的建立者，尽管他们对任何轻视都会做出压倒性回应的信条已经导致他们的信仰失去了影响力。"
+    },
+    {
+      "Key": "24bdb5f38ef8452fb92653025dd348b1",
+      "SimpleName": "HeiFengFeature.Name",
+      "ProcessTemplates": false,
+      "enGB": "Hei Feng",
+      "zhCN": "黑风"
+    },
+    {
+      "Key": "8439e022d08e44f6ae71053e83a77410",
+      "SimpleName": "HellknightSigniferDreadknightLevelUp.Description",
+      "ProcessTemplates": true,
+      "IsUsed": false,
+      "enGB": "At 1st level, and at every level thereafter, a Hellknight signifer gains new spells per day as if he had also gained a level in a spellcasting class he belonged to before adding the prestige class. He does not, however, gain any other benefit a character of that class would have gained, except for additional spells per day, spells known, and an increased effective level of spellcasting. If a character had more than one spellcasting class before becoming a Hellknight signifer, he must decide to which class he adds the new level for purposes of determining spells per day.",
+      "zhCN": "1级时，以及之后每个等级，地狱骑士持节士都能够获得新的每日法术量，如同他在进阶之前已有的施法职业上也获得了一个等级。但是除了额外的每日法术量、已知法术、有效施法者等级之外，他无法获得该职业角色升级之际本应获得的其他好处。若角色在进阶成为地狱骑士持节士之前拥有多个施法职业，那么他必须决定将新的一级追加在哪个职业上，以用于判断每日法术量。"
+    },
+    {
+      "Key": "a8e2551648be4203a358f43eb5963429",
+      "SimpleName": "HellknightSigniferDreadknightLevelUp.Name",
+      "ProcessTemplates": false,
+      "enGB": "Dreadknight",
+      "zhCN": "恐惧骑士"
+    },
+    {
+      "Key": "ea02b7047256456d94312d881cc39b0c",
+      "SimpleName": "HellknightSigniferDreadknightProgression.Description",
+      "ProcessTemplates": true,
+      "enGB": "At 1st level, and at every level thereafter, a Hellknight signifer gains new spells per day as if he had also gained a level in a spellcasting class he belonged to before adding the prestige class. He does not, however, gain any other benefit a character of that class would have gained, except for additional spells per day, spells known, and an increased effective level of spellcasting. If a character had more than one spellcasting class before becoming a Hellknight signifer, he must decide to which class he adds the new level for purposes of determining spells per day.",
+      "zhCN": "1级时，以及之后每个等级，地狱骑士持节士都能够获得新的每日法术量，如同他在进阶之前已有的施法职业上也获得了一个等级。但是除了额外的每日法术量、已知法术、有效施法者等级之外，他无法获得该职业角色升级之际本应获得的其他好处。若角色在进阶成为地狱骑士持节士之前拥有多个施法职业，那么他必须决定将新的一级追加在哪个职业上，以用于判断每日法术量。"
+    },
+        {
+      "Key": "c2a8c29a8ac8495e9fc9750c627ffd32",
+      "SimpleName": "HeroismDomainBaseAbility.Description",
+      "ProcessTemplates": true,
+      "enGB": "As a standard action, you can touch an ally to grant him heroism as if the heroism spell had been cast on him for a number of rounds equal to half the level of the class that gave you access to this domain (min 1). You can use this ability a number of times per day equal to 3 + your Wisdom modifier.",
+      "zhCN": "你能够以{g|Encyclopedia:Standard_Actions}标准动作{/g}接触生物，使其获得如同英雄气概法术的效果。此能力持续轮数等于授予你该领域职业等级的一半（最小1），每天可使用次数为{g|Encyclopedia:Wisdom}感知{/g}调整值+3。"
+    },
+    {
+      "Key": "63764276ecff4ca5b86ba538b9fdf01f",
+      "SimpleName": "HeroismDomainBaseAbility.Name",
+      "ProcessTemplates": false,
+      "enGB": "Touch of Glory",
+      "zhCN": "荣耀之触"
+    },
+    {
+      "Key": "e45ceee55833496aa9dafbb038445e61",
+      "SimpleName": "HeroismDomainBaseFeature.Description",
+      "ProcessTemplates": true,
+      "enGB": "\nYou are a true example of the heroic nature of your deity. In addition, when you channel positive energy to harm undead creatures, the save DC to halve the damage is increased by 2.\nTouch of Glory: As a standard action, you can touch an ally to grant him heroism as if the heroism spell had been cast on him for a number of rounds equal to half the level of the class that gave you access to this domain (min 1). You can use this ability a number of times per day equal to 3 + your Wisdom modifier.\nAura of Heroism: At 8th level, you can emit a 30-foot aura of heroism for a number of rounds per day equal to your level in the class that gave you access to this domain. Using this ability is a swift action. Allies in the area are treated as if they were under the effects of heroism spell.",
+      "zhCN": "你是神赐英雄本质的真实范例。此外，当你引导能量伤害不死生物时，用于减半伤害的豁免DC+2。\n荣耀之触：你能够以{g|Encyclopedia:Standard_Actions}标准动作{/g}接触生物，使其获得如同英雄气概法术的效果。此能力持续轮数等于授予你该领域职业等级的一半（最小1），每天可使用次数为{g|Encyclopedia:Wisdom}感知{/g}调整值+3。\n英雄气概灵光：在8级时，你可发出30英尺范围的英雄气概灵光，每天可持续的{g|Encyclopedia:Combat_Round}轮数{/g}等于赋予你此领域的职业等级。施展此能力是一个{g|Encyclopedia:Swift_Action}迅捷动作{/g}。在范围内的盟友都视为受到英雄气概的{g|Encyclopedia:Spell}法术{/g}效果影响。"
+    },
+    {
+      "Key": "2f478ab4091b456592619d82d3220ada",
+      "SimpleName": "HeroismDomainBaseFeature.Name",
+      "ProcessTemplates": false,
+      "enGB": "Heroism Subdomain",
+      "zhCN": "英勇子域"
+    },
+    {
+      "Key": "fd5de01dbc564ecfbee7c7748499e957",
+      "SimpleName": "HeroismDomainProgression.Description",
+      "ProcessTemplates": true,
+      "enGB": "\nYou are a true example of the heroic nature of your deity. In addition, when you channel positive energy to harm undead creatures, the save DC to halve the damage is increased by 2.\nTouch of Glory: As a standard action, you can touch an ally to grant him heroism as if the heroism spell had been cast on him for a number of rounds equal to half the level of the class that gave you access to this domain (min 1). You can use this ability a number of times per day equal to 3 + your Wisdom modifier.\nAura of Heroism: At 8th level, you can emit a 30-foot aura of heroism for a number of rounds per day equal to your level in the class that gave you access to this domain. Using this ability is a swift action. Allies in the area are treated as if they were under the effects of heroism spell.\nDomain Spells: shield of faith, bless weapon, heroism, divine power, burst of glory, greater heroism, holy sword, holy aura, overwhelming presence.",
+      "zhCN": "你是神赐英雄本质的真实范例。此外，当你引导能量伤害不死生物时，用于减半伤害的豁免DC+2。\n荣耀之触：你能够以{g|Encyclopedia:Standard_Actions}标准动作{/g}接触生物，使其获得如同英雄气概法术的效果。此能力持续轮数等于授予你该领域职业等级的一半（最小1），每天可使用次数为{g|Encyclopedia:Wisdom}感知{/g}调整值+3。\n英雄气概灵光：在8级时，你可发出30英尺范围的英雄气概灵光，每天可持续的{g|Encyclopedia:Combat_Round}轮数{/g}等于赋予你此领域的职业等级。施展此能力是一个{g|Encyclopedia:Swift_Action}迅捷动作{/g}。在范围内的盟友都视为受到英雄气概的{g|Encyclopedia:Spell}法术{/g}效果影响。"
+    },
+    {
+      "Key": "744bc35a4b90434abe9bdcab26e24a38",
+      "SimpleName": "HeroismDomainProgressionSecondary.Description",
+      "ProcessTemplates": true,
+      "enGB": "\nYou are a true example of the heroic nature of your deity. In addition, when you channel positive energy to harm undead creatures, the save DC to halve the damage is increased by 2.\nTouch of Glory: As a standard action, you can touch an ally to grant him heroism as if the heroism spell had been cast on him for a number of rounds equal to half the level of the class that gave you access to this domain (min 1). You can use this ability a number of times per day equal to 3 + your Wisdom modifier.\nAura of Heroism: At 8th level, you can emit a 30-foot aura of heroism for a number of rounds per day equal to your level in the class that gave you access to this domain. Using this ability is a swift action. Allies in the area are treated as if they were under the effects of heroism spell.\nDomain Spells: shield of faith, bless weapon, heroism, divine power, burst of glory, greater heroism, holy sword, holy aura, overwhelming presence.",
+      "zhCN": "你是神赐英雄本质的真实范例。此外，当你引导能量伤害不死生物时，用于减半伤害的豁免DC+2。\n荣耀之触：你能够以{g|Encyclopedia:Standard_Actions}标准动作{/g}接触生物，使其获得如同英雄气概法术的效果。此能力持续轮数等于授予你该领域职业等级的一半（最小1），每天可使用次数为{g|Encyclopedia:Wisdom}感知{/g}调整值+3。\n英雄气概灵光：在8级时，你可发出30英尺范围的英雄气概灵光，每天可持续的{g|Encyclopedia:Combat_Round}轮数{/g}等于赋予你此领域的职业等级。施展此能力是一个{g|Encyclopedia:Swift_Action}迅捷动作{/g}。在范围内的盟友都视为受到英雄气概的{g|Encyclopedia:Spell}法术{/g}效果影响。"
+    },
+    {
+      "Key": "2f1bd34726854d25a39e3c6182383984",
+      "SimpleName": "HollowBladesAbility.Description",
+      "ProcessTemplates": true,
+      "enGB": "Hollow Blades lowers the momentum and density of the targets melee weapons the moment they would land an attack. All melee weapons used by the target deal damageas if they are one size category smaller than they actually are. For instance, a Large longsword normally deals 2d6 points of damage, but it would instead deal 1d8 points of damage if effected by hollow blades.",
+      "zhCN": "当目标发动攻击时，空心刀刃会降低近战武器的动量和密度。目标使用的所有近战武器造成的伤害都比实际小一个尺寸。例如，一把大型长剑通常造成2d6点伤害，但如果是空心刀刃，它会造成1d8点伤害。"
+    },
+    {
+      "Key": "d129eb639ed64bd38eab02c1025c5972",
+      "SimpleName": "HollowBladesAbility.Duration",
+      "ProcessTemplates": false,
+      "enGB": "1 round/level",
+      "zhCN": "1轮/CL"
+    },
+    {
+      "Key": "3ce2ac4ccf7348f596f95c1a35358bba",
+      "SimpleName": "HollowBladesAbility.SavingThrow",
+      "ProcessTemplates": false,
+      "enGB": "Fortitude negates",
+      "zhCN": "强韧 无效"
+    },
+    {
+      "Key": "0f854f1af1fc4fa3a87c5e6886bb0c8b",
+      "SimpleName": "HollowBladesBuff.Name",
+      "ProcessTemplates": false,
+      "enGB": "Hollow Blades",
+      "zhCN": "空心刀刃"
+    },
+    {
+      "Key": "6c96cfb89d62491c94f691454cacf23c",
+      "SimpleName": "HorusFeature.Description",
+      "ProcessTemplates": true,
+      "enGB": "\nTitles: The Distant Falcon, Horakhty   \nAlignment: Lawful Neutral   \nAreas of Concern: Rulership, Sky, Sun   \nDomains: Air, Animal, Law, Nobility, Sun   \nSubdomains: Day, Feather, Inevitable, Leadership, Light, Revelation, Wind   \nFavoured Weapon: Khopesh (Falcata)   \nHoly Symbol: Eye of Horus   \nSacred Animal: Falcon   \nHorus is the god of the sky, the celestial falcon whose eyes are the sun and moon, whose speckled feathers are the stars, and whose wings are the sky. He is also a sun god, and in the form of Horakhty he is a deity of both the rising and setting suns. The posthumous son of Osiris and Isis, Horus faced off against the usurper Set, and with his victory over the Lord of the Dark Desert, Horus became the rightful heir of Osiris. Horus took his father's place as king and ruled Osirion with his consort Hathor during the Age of Anguish, becoming also a god of kings and pharaonic rule. Horus appears as a man with the head of a falcon wearing the traditional double crown of pharaohs called the pschent. He is also sometimes represented as a great celestial falcon. His symbol, the eye of Horus, is used to ward off evil, and the symbol commonly appears on protective amulets and trinkets. As a sun deity and god of kings, Horus lends his support to Ra, and aids him in his continuous battles against Apep. An ally of Osiris and Isis , Horus is a steadfast enemy of Set, and the two have fought countless battles over the ages. Horus is worshiped by kings and pharaohs, as well as by hunters, paladins, rangers, and warriors. He is sometimes venerated as part of a triad with Osiris and Isis, or as one-half of a royal couple with his consort Hathor, but there are temples dedicated solely to Horus as well. Though rare in this age, Horus' clergy gets along well with the faithful of Abadar, as both churche s value leadership and law. Temples to Horus are still found in the larger cities of Osirion.",
+      "zhCN": "\n称号：彼方之鹰\n阵营：守序中立\n神职：统驭、天空、太阳\n领域：空气、动物、守序、崇高、太阳\n子领域：白昼、飞羽、制裁、领导、光明、风\n偏好武器：镰状剑(反曲剑)\n圣徽：荷鲁斯之眼\n圣兽：隼\n荷鲁斯是天空之神，是双目为日月，飞羽为繁星，展翼为长空的神鹰。祂也是太阳神，当化身为荷拉赫提─二个地平线的荷鲁斯─时，祂同时身兼日出与日落之神。身为欧西里斯与伊西斯的遗腹子，荷鲁斯与窜乱者赛特大战，在祂击退了黑沙魔王以后成为了欧西里斯的正统后继者。荷鲁斯接掌了父亲留下的王位，并与配偶哈索尔于痛苦之年共同治理奥西里昂，从此成为了君王与法老政权之神。\n荷鲁斯以头戴传统法老红白双冠的隼首男子的姿态示人，但偶尔也被描绘成巨大神鹰。祂的圣徽荷鲁斯之眼被用来避邪，因此常出现在保平安的护符或饰品上。作为太阳与君主之神，荷鲁斯支持拉并协助祂持续对抗阿佩普。而荷鲁斯作为欧西里斯与伊西斯的盟友，自然与赛特是死敌，两者在几千年以来不断地争斗。\n荷鲁斯受到君王与法老，以及猎人、圣武士、游侠和武人所敬拜。祂一般是被视为与欧西里斯及伊西斯并列的三神之一，或是与哈索尔同席的神君夫妇的一半来崇拜，但也存在单纯供奉荷鲁斯的神殿。虽然在过去很罕见，但荷鲁斯的祭司与阿巴达尔的信徒交流友善，毕竟两神都强调权威与法治的重要。直至今日在奥西里昂的大城市之中依然可以找到荷鲁斯的神殿。"
+    },
+    {
+      "Key": "fb3bfd2a4b4b47009e33fcd94acf1672",
+      "SimpleName": "HorusFeature.Name",
+      "ProcessTemplates": false,
+      "enGB": "Horus",
+      "zhCN": "荷鲁斯"
+    },
+    {
+      "Key": "6c201858724f49bab2b2da5fa6d293c1",
+      "SimpleName": "HydraulicPushAbility.Description",
+      "ProcessTemplates": true,
+      "enGB": "You call forth a quick blast of water that knocks over and soaks one creature or square. You can use this blast of water to make a bull rush against any one creature or object. Your CMB for this bull rush is equal to your caster level plus your Intelligence, Wisdom, or Charisma modifier, whichever is highest. This bull rush does not provoke an attack of opportunity.",
+      "zhCN": "你召唤一股激烈的水流冲击并浸湿一个生物或一个方格。你可以用这一股高压水流对任何物体或生物进行一次冲撞检定。你这次冲撞的CMD等于你的施法者等级加上你的智力、感知或魅力中最高的一个的调整值。这次冲撞不会引发藉机攻击。"
+    },
+    {
+      "Key": "6ee0fd0ffa8f447fa8fc50cbf204d2b9",
+      "SimpleName": "HydraulicPushAbility.Name",
+      "ProcessTemplates": false,
+      "enGB": "Hydraulic Push",
+      "zhCN": "水流冲击"
+    },
+    {
+      "Key": "0ddac8bf5f5f4269b1b49697480b8513",
+      "SimpleName": "HypnoticPatternAbility.Description",
+      "ProcessTemplates": true,
+      "IsUsed": false,
+      "enGB": "A twisting pattern of subtle, shifting colors weaves through the air, fascinating creatures within it. Roll 2d4 and add your caster level (maximum 10) to determine the total number of HD of creatures affected. Creatures who are closest to the spell’s point of origin are affected first. HD that are not sufficient to affect a creature are wasted. Sightless creatures are not affected.",
+      "zhCN": "空中出现色彩构成变化多端的多彩图纹，这会使区域内的生物迷魂。投掷2d4并加上你的CL (最高+10) 来判断你能影响的生物的总HD数量。离法术源发点最近的先被影响。剩下不足以影响生物的HD数则被浪费。受影响的生物将会被多彩图纹迷魂，没有视觉的生物不受影响。"
+    },
+    {
+      "Key": "468157870581468f8d4db78bc1e4c5a3",
+      "SimpleName": "HypnoticPatternAbility.Duration",
+      "ProcessTemplates": false,
+      "enGB": "3 rounds",
+      "zhCN": "3轮"
+    },
+    {
+      "Key": "08d66f0dd67545168996fdc7e1c858e3",
+      "SimpleName": "HypnoticPatternBuff.Description",
+      "ProcessTemplates": true,
+      "enGB": "A twisting pattern of subtle, shifting colors weaves through the air, fascinating creatures within it. Roll 2d4 and add your caster level (maximum 10) to determine the total number of HD of creatures affected. Creatures who are closest to the spell’s point of origin are affected first. HD that are not sufficient to affect a creature are wasted. Sightless creatures are not affected.",
+      "zhCN": "空中出现色彩构成变化多端的多彩图纹，这会使区域内的生物迷魂。投掷2d4并加上你的CL (最高+10) 来判断你能影响的生物的总HD数量。离法术源发点最近的先被影响。剩下不足以影响生物的HD数则被浪费。受影响的生物将会被多彩图纹迷魂，没有视觉的生物不受影响。"
+    },
+    {
+      "Key": "933b5a3170f94b7bb18d62fd9625f1be",
+      "SimpleName": "HypnoticPatternBuff.Name",
+      "ProcessTemplates": false,
+      "enGB": "Hypnotic Pattern",
+      "zhCN": "催眠图纹"
+    },
+    {
+      "Key": "72b3666c54de4c92b9d9a1c4cef5dcb2",
+      "SimpleName": "IceDomainBaseFeature.Description",
+      "ProcessTemplates": true,
+      "enGB": "\nYou have mastery over rock and stone, can manifest vast pits, and command earth creatures.\nAcid Dart: As a standard action, you can unleash an acid dart targeting any foe within 30 feet as a ranged touch attack. This acid dart deals 1d6 points of acid damage+ 1 point for every two levels you possess in the class that gave you access to this domain. You can use this ability a number of times per day equal to 3 + your Wisdom modifier.\nTunnel Runner (Su): At 6th level, as a standard action, you can create a 30-foot aura of gale-like winds that slows the progress of enemies. Creatures in the aura cannot take a 5-foot step and treat it as as difficult terrain. You can use this ability for a number of rounds per day equal to your cleric level. The rounds do not need to be consecutive.",
+      "zhCN": "你能够熟练掌控水、雾和冰，召唤水的生物，以及抵抗寒冷。\n冰锥：作为{g|Encyclopedia:Standard_Actions}标准动作{/g}，你能够以远程{g|Encyclopedia:TouchAttack}接触攻击{/g}的方式，对30英尺内的任意敌人发射一枚冰锥。此冰锥将造成{g|Encyclopedia:Dice}1d6{/g}点{g|Encyclopedia:Energy_Damage}寒冷伤害{/g}，赋予你此领域的职业等级每提升2级，可额外造成1点伤害。每天可使用次数为{g|Encyclopedia:Wisdom}感知{/g}调整值+3。\n寒冰之躯：到了8级，就可用标准动作令自己身心像冰川一样玉洁冰清。此时你免疫寒冷伤害，并与获得伤害减免5/-，但是会受到双倍的火伤害。每天变成冰的轮数等于牧师等级，自由动作解除，无需连续。"
+    },
+    {
+      "Key": "75db1ef0bee54df0a0ba5c43f4c8b4f9",
+      "SimpleName": "IceDomainBaseFeature.Name",
+      "ProcessTemplates": false,
+      "enGB": "Ice Subdomain",
+      "zhCN": "冰子域"
+    },
+    {
+      "Key": "29f8711ab45d4e7f8c823438a1aea0d8",
+      "SimpleName": "IceDomainGreaterAbility.Description",
+      "ProcessTemplates": true,
+      "IsUsed": false,
+      "enGB": "At 8th level, you can transmute your body and equipment to ice for a period of time. It takes a standard action to take on the form of ice, and you can end the transmutation with a free action on your turn. When you take on the form of ice, you are immune to cold and have DR 5/—, but you take twice the normal amount of damage from fire. You can take on the form of ice for a number of rounds per day equal to your cleric level. The rounds need not be consecutive",
+      "zhCN": "到了8级，就可用标准动作令自己身心像冰川一样玉洁冰清。此时你免疫寒冷伤害，并与获得伤害减免5/-，但是会受到双倍的火伤害。每天变成冰的轮数等于牧师等级，自由动作解除，无需连续。"
+    },
+    {
+      "Key": "d05959d32a064155b10a54e238c85d16",
+      "SimpleName": "IceDomainGreaterBuff.Description",
+      "ProcessTemplates": true,
+      "enGB": "Your body is transmuted to a ice form, you are immune to cold and have DR 5/—, but you take twice the normal amount of damage from fire.You can end the transmutation with a free action on your turn. You can take on the form of ice for a number of rounds per day equal to your cleric level. The rounds need not be consecutive",
+      "zhCN": "你的身体被转化为冰冻形态你免疫寒冷伤害，并与获得伤害减免5/-，但是会受到双倍的火伤害。每天变成冰的轮数等于牧师等级，自由动作解除，无需连续。"
+    },
+    {
+      "Key": "492d9644a9064ec0a88716c83d6e9a2b",
+      "SimpleName": "IceDomainGreaterBuff.Name",
+      "ProcessTemplates": false,
+      "enGB": "Body of Ice",
+      "zhCN": "寒冰之躯"
+    },
+    {
+      "Key": "64e4c22e3aaf4c67948fa173176d63f9",
+      "SimpleName": "IceDomainGreaterFeature.Description",
+      "ProcessTemplates": true,
+      "enGB": "At 8th level, you can transmute your body and equipment to ice for a period of time. It takes a standard action to take on the form of ice, and you can end the transmutation with a free action on your turn. When you take on the form of ice, you are immune to cold and have DR 5/—, but you take twice the normal amount of damage from fire. You can take on the form of ice for a number of rounds per day equal to your cleric level. The rounds need not be consecutive",
+      "zhCN": "到了8级，就可用标准动作令自己身心像冰川一样玉洁冰清。此时你免疫寒冷伤害，并与获得伤害减免5/-，但是会受到双倍的火伤害。每天变成冰的轮数等于牧师等级，自由动作解除，无需连续。"
+    },
+    {
+      "Key": "fd67d83c63e04b31baa4acd6c4702309",
+      "SimpleName": "IceDomainProgression.Description",
+      "ProcessTemplates": true,
+      "IsUsed": false,
+      "enGB": "\nYou can manipulate ice and water and mist, conjure hails of ice, and transmute yourself into a frozen form.\nIcicle: As a standard action, you can fire an icicle from your finger, targeting any foe within 30 feet as a ranged touch attack. The icicle deals 1d6 points of cold damage+ 1 point for every two levels you possess in the class that gave you access to this domain. You can use this ability a number of times per day equal to 3 + your Wisdom modifier.\nBody of Ice: At 8th level, you can transmute your body and equipment to ice for a period of time. It takes a standard action to take on the form of ice, and you can end the transmutation with a free action on your turn. When you take on the form of ice, you are immune to cold and have DR 5/—, but you take twice the normal amount of damage from fire. You can take on the form of ice for a number of rounds per day equal to your cleric level. The rounds need not be consecutive.\nDomain Spells: ray of sickening, acid arrow, stinking cloud, freedom of movement, ice storm, cone of cold, ice body, horrid wilting, polar ray.",
+      "zhCN": "\n你能够熟练掌控水、雾和冰，召唤水的生物，以及抵抗寒冷。\n冰锥：作为{g|Encyclopedia:Standard_Actions}标准动作{/g}，你能够以远程{g|Encyclopedia:TouchAttack}接触攻击{/g}的方式，对30英尺内的任意敌人发射一枚冰锥。此冰锥将造成{g|Encyclopedia:Dice}1d6{/g}点{g|Encyclopedia:Energy_Damage}寒冷伤害{/g}，赋予你此领域的职业等级每提升2级，可额外造成1点伤害。每天可使用次数为{g|Encyclopedia:Wisdom}感知{/g}调整值+3。\n寒冰之躯：到了8级，就可用标准动作令自己身心像冰川一样玉洁冰清。此时你免疫寒冷伤害，并与获得伤害减免5/-，但是会受到双倍的火伤害。每天变成冰的轮数等于牧师等级，自由动作解除，无需连续。\n领域法术：恶心射线，强酸箭，臭云术，行动自如，寒冰风暴，寒冰锥，寒冰之躯，凋死术，极寒射线。"
+    },
+    {
+      "Key": "5ff38568c4084c6b8bfdefe19784b147",
+      "SimpleName": "IceDomainProgressionDruid.Description",
+      "ProcessTemplates": true,
+      "IsUsed": false,
+      "enGB": "\nYou can manipulate ice and water and mist, conjure hails of ice, and transmute yourself into a frozen form.\nIcicle: As a standard action, you can fire an icicle from your finger, targeting any foe within 30 feet as a ranged touch attack. The icicle deals 1d6 points of cold damage+ 1 point for every two levels you possess in the class that gave you access to this domain. You can use this ability a number of times per day equal to 3 + your Wisdom modifier.\nBody of Ice: At 8th level, you can transmute your body and equipment to ice for a period of time. It takes a standard action to take on the form of ice, and you can end the transmutation with a free action on your turn. When you take on the form of ice, you are immune to cold and have DR 5/—, but you take twice the normal amount of damage from fire. You can take on the form of ice for a number of rounds per day equal to your cleric level. The rounds need not be consecutive.\nDomain Spells: ray of sickening, acid arrow, stinking cloud, freedom of movement, ice storm, cone of cold, ice body, horrid wilting, polar ray.",
+      "zhCN": "\n你能够熟练掌控水、雾和冰，召唤水的生物，以及抵抗寒冷。\n冰锥：作为{g|Encyclopedia:Standard_Actions}标准动作{/g}，你能够以远程{g|Encyclopedia:TouchAttack}接触攻击{/g}的方式，对30英尺内的任意敌人发射一枚冰锥。此冰锥将造成{g|Encyclopedia:Dice}1d6{/g}点{g|Encyclopedia:Energy_Damage}寒冷伤害{/g}，赋予你此领域的职业等级每提升2级，可额外造成1点伤害。每天可使用次数为{g|Encyclopedia:Wisdom}感知{/g}调整值+3。\n寒冰之躯：到了8级，就可用标准动作令自己身心像冰川一样玉洁冰清。此时你免疫寒冷伤害，并与获得伤害减免5/-，但是会受到双倍的火伤害。每天变成冰的轮数等于牧师等级，自由动作解除，无需连续。\n领域法术：恶心射线，强酸箭，臭云术，行动自如，寒冰风暴，寒冰锥，寒冰之躯，凋死术，极寒射线。"
+    },
+    {
+      "Key": "bd212580d73344218545bc0ed60b8c04",
+      "SimpleName": "IceDomainProgressionSecondary.Description",
+      "ProcessTemplates": true,
+      "enGB": "\nYou can manipulate ice and water and mist, conjure hails of ice, and transmute yourself into a frozen form.\nIcicle: As a standard action, you can fire an icicle from your finger, targeting any foe within 30 feet as a ranged touch attack. The icicle deals 1d6 points of cold damage+ 1 point for every two levels you possess in the class that gave you access to this domain. You can use this ability a number of times per day equal to 3 + your Wisdom modifier.\nBody of Ice: At 8th level, you can transmute your body and equipment to ice for a period of time. It takes a standard action to take on the form of ice, and you can end the transmutation with a free action on your turn. When you take on the form of ice, you are immune to cold and have DR 5/—, but you take twice the normal amount of damage from fire. You can take on the form of ice for a number of rounds per day equal to your cleric level. The rounds need not be consecutive.\nDomain Spells: ray of sickening, acid arrow, stinking cloud, freedom of movement, ice storm, cone of cold, ice body, horrid wilting, polar ray.",
+      "zhCN": "\n你能够熟练掌控水、雾和冰，召唤水的生物，以及抵抗寒冷。\n冰锥：作为{g|Encyclopedia:Standard_Actions}标准动作{/g}，你能够以远程{g|Encyclopedia:TouchAttack}接触攻击{/g}的方式，对30英尺内的任意敌人发射一枚冰锥。此冰锥将造成{g|Encyclopedia:Dice}1d6{/g}点{g|Encyclopedia:Energy_Damage}寒冷伤害{/g}，赋予你此领域的职业等级每提升2级，可额外造成1点伤害。每天可使用次数为{g|Encyclopedia:Wisdom}感知{/g}调整值+3。\n寒冰之躯：到了8级，就可用标准动作令自己身心像冰川一样玉洁冰清。此时你免疫寒冷伤害，并与获得伤害减免5/-，但是会受到双倍的火伤害。每天变成冰的轮数等于牧师等级，自由动作解除，无需连续。\n领域法术：恶心射线，强酸箭，臭云术，行动自如，寒冰风暴，寒冰锥，寒冰之躯，凋死术，极寒射线。"
+    },
+    {
+      "Key": "dbed963795aa4f9fb453f287ed6ea584",
+      "SimpleName": "IlsurrishFeature.Description",
+      "ProcessTemplates": true,
+      "enGB": "\nTitles: The Wanderer   \nAlignment: Chaotic Neutral   \nForm: Protean Lord  \nAreas of Concern: Formlessness, Loss of control, Potential \nDomains: Animal, Artifice, Chaos, Plant  \nFavoured Weapon: Unarmed strike   \nHoly Symbol: Cerulean sphere dotted with stars   \nIl’surrish the Wanderer seldom manifests physically, but when it does, it usually appears as a lesser protean wrought of furious cerulean light. More commonly the Wanderer possesses a demon, devil, or archon who, overwhelmed, burns like a metaphysical candle from the inside out, consumed by the experience. Those few who survive recall only a beautiful and horrific sensory avalanche—an experience on par with a keketar’s description of its first shallow communion with the Speakers of the Depths. Il’surrish’s largely protean clergy are collectively known as the Asomatous Clutch, and many of them are gifted with insubstantiality as well. Il’surrish’s mobile realm, the Labyrinth of Light and Loss, is an ever-shifting amalgamation of hundreds of castles, a serpentine mating ball of architecture orbited by shattered, petrified qlippoth and the broken remnants of the primal inevitable Argreth the Burning Monolith. The realm only rarely ventures beyond the deep Maelstrom, usually during rare conclaves of gods and protean lords.",
+      "zhCN": "\n称号：流浪者 \n阵营：混沌中立 \n形态：千变万化的领主 \n领域：无形，失去控制，潜在\n领域：动物，技艺，混沌，植物 \n偏好武器：徒手攻击 \n圣徽：星辰点缀的蔚蓝球体 Il&#39;surrish the Wanderer很少出现在物理上，但当它出现时，它通常表现为由愤怒的蔚蓝之光锻造而成的较小的变化无常。更常见的是，流浪者拥有一个恶魔、恶魔或亚空，他们不知所措，从内到外像形而上学的蜡烛一样燃烧，被体验所吞噬。少数幸存者只记得一次美丽而可怕的感官雪崩——这种经历与 keketar 描述的与深渊发言人的第一次浅薄交流的经历相提并论。 Il&#39;surrish 大部分多变的神职人员被统称为 Asomatous Clutch，他们中的许多人也被赋予了虚无的天赋。 Il&#39;surrish 的移动领域，光明与失落的迷宫，是数百座城堡不断变化的融合，是一个由破碎、石化的 qlippoth 和原始不可避免的燃烧巨石 Argreth 的残骸环绕的蛇形交配的建筑球。这个领域很少冒险超越大漩涡，通常是在罕见的众神和多变领主的秘密会议期间。"
+    },
+    {
+      "Key": "e6b39e360a6b4d61ab71cd075a856652",
+      "SimpleName": "IlsurrishFeature.Name",
+      "ProcessTemplates": false,
+      "enGB": "Il'surrish",
+      "zhCN": "I1'萨瑞斯"
+    },
+    {
+      "Key": "39125f0886954149bdd422b3346234ad",
+      "SimpleName": "ImbrexFeature.Description",
+      "ProcessTemplates": true,
+      "enGB": "\nTitles: The Twins   \nAlignment: Lawful Neutral   \nAreas of Concern: Endings, Statues, Twins   \nDomains: Community, Earth, Law, Strength   \nSubdomains: Family, Home, Metal, Resolve   \nFavoured Weapon: Dire flail (Heavy flail)   \nHoly Symbol: Clasped hands whose forearms join to form a loop   \nSacred Animal: Hibernating animals   \nStanding hundreds of feet high, the twin statues known collectively as Imbrex are simultaneously the most and least accessible of the Eldest. True, the Statue Lords can be found and approached easily enough, yet even those who live in the city sprawling over and around the Eldest’s feet have no idea when or how the unmoving demigod might answer their prayers and questions. The entity called Imbrex takes the form of two immense statues of identical androgynous humanoids, their abbreviated features and smooth skin suggesting a vaguely reptilian nature. Whether these statues are in fact the Eldest’s bodies or simply monuments in which their consciousness resides remains an enigma, as does the question of whether the Twins are siblings sharing some sort of hive mind or a single creature split into two bodies. Regardless, for as long as the Twins have stood, they have never been seen to move or change expression. To most observers, the only signs of their sentience are the booming telepathic commands capable of shattering minds or elevating them, as well as the strange, addictive dreams that leak out into the area around the statues, sometimes taking on physical substance. Though Imbrex has remained silent on the subject, many First World residents—including other Eldest—believe that when the Statue Lords finally deign to walk, it will be to bring about the end of both the First World and the Material Plane, unmaking them both in order to usher in the next phase of creation.",
+      "zhCN": "\n称号：双生者\n阵营：守序中立 \n神职：结局、雕像、孪生\n领域：联盟、大地、守序、力量\n子领域：家庭、家园、铁、决意 \n偏好武器：双头链枷（重型连枷） \n圣徽：紧握的双手前臂连接形成一个环\n圣兽：冬眠的动物\n这个被称为双胞胎的存在是真正的一对兄弟姐妹，或单纯是一个生物分裂成的两具身体，是一个永远得不到答案的问题。他们是有如雕像一般高达数百英呎的人形生物，外表看来依稀有爬行动物的特征，被统称为因博莱克斯，是最容易接近和最不易接近的雕像始祖。\n雕像领主可以很容易地找到和接近，但即使是那些住在城市里的人，也不知道这个一动不动的半神会在什么时候或如何回答他们的祈祷和问题。\n这个名为因博莱克斯的实体是两个巨大的雌雄同体的人形雕像，它们简洁的特征和光滑的皮肤暗示着一种隐约的爬行动物本性。这些雕像实际上是始祖的身体还是仅仅是他们意识所在的纪念碑仍然是一个谜，双生者是共享某种蜂巢思想的兄弟姐妹还是分裂成两个身体的单个生物的问题也是一个谜。\n无论如何，只要双生者还站着，他们就从未被看到移动或改变表情。对于大多数观察者来说，他们有知觉的唯一迹象是能够打破思想或提升思想的心灵感应命令，以及泄漏到雕像周围区域的奇怪的、令人上瘾的梦，有时是有形的。\n尽管因博莱克斯一直对这个话题保持缄默，但许多第一世界居民——包括其他长老——相信当雕像领主最终屈尊行走时，将导致第一世界和主物质位面的终结，使他们都毁灭以迎接下一阶段的创作。"
+    },
+    {
+      "Key": "05c5de54431041119d80f064c44b75b8",
+      "SimpleName": "ImbrexFeature.Name",
+      "ProcessTemplates": false,
+      "enGB": "Imbrex",
+      "zhCN": "因博莱克斯"
+    },
+    {
+      "Key": "db86e9a0affa47e4aeff867733044082",
+      "SimpleName": "ImmonhielFeature.Description",
+      "ProcessTemplates": true,
+      "enGB": "\nTitles: Balm-Bringer   \nAlignment: Chaotic Good   \nAreas of Concern: Herbs, Medicine, Toads   \nDomains: Chaos, Good, Healing, Plant   \nSubdomains: Azata, Growth, Restoration, Resurrection   \nFavoured Weapon: Handaxe   \nHoly Symbol: Herb-covered wooden toad   \nSacred Animal: Toad   \nImmonhiel appears as a regal woman of advanced age. Her moss-green hair hangs in two thick braids on either side of her lined face, and she has brown skin and dark, flashing eyes that hold great wisdom. She wears a soft leather vest fringed with emerald green silk and a leather skirt. The innumerable tiny pouches and glass vials that hang from a sash around her waist are rumored to contain cures to every malady known to mortals. The soothing empyreal lord's right arm is not flesh, but a knotty length of pine carved in the shape of an arm with long, capable-looking fingers at its end. Balm-Bringer is a healer on the eternal battlefields of the planes, where she nurses injured angels back to health and soothes the wounds of empyreal lords who clashed with the armies of evil and destruction. Her favored servants travel the mortal world, passing on herbal remedies and advice on how best to tend potent marsh plants, all the while teaching combat medics and battlefield healers the best techniques to ensure their warriors live to fight another day. Balm-Bringer also understands that some cannot be healed. For them, she provides ointments that take away the pain and grant peace until life's final moments. Many have need of Balm-Bringer, and she finds a home wherever she wanders. Nearly all the empyreal lords have hosted Immonhiel at some point, and many mortals have housed her without even knowing the nature of the stranger who slept under their roof.",
+      "zhCN": "\n称号：携膏者\n阵营：混乱善良 \n神职：草药、医学、蟾蜍\n领域：混乱、善良、医疗、植物\n子领域：爱塔、滋长、复原、回生\n偏好武器：手斧\n圣徽：药草覆盖的木蟾蜍\n圣兽:蟾蜍\n伊默哈尔以高龄贵妇的形象出现。苔绿色的头发在布满皱纹的脸庞两侧垂成两条粗辫子，棕色的皮肤和深邃的眼睛闪烁着海量的智慧。她穿着一件饰有翠绿色丝绸的柔软皮革背心和一条皮裙。\n据传，她腰间的腰带上挂着无数的小袋子和玻璃小瓶，里面装着凡人已知的所有疾病的治疗方法。携膏者的右臂不是肉，而是一根多节的松木，雕刻成手臂的形状，末端有一双干练的长手指。\n伊默哈尔是位面永恒战场上的治疗师，她在那里护理受伤的天使令他们恢复健康，并抚平与邪恶和毁灭军队发生冲突的至高天领主的伤口。她最喜欢的仆人周游凡间，传授草药和如何最好地照料强大的沼泽植物的建议，同时教授战斗医务人员和战场治疗师最好的技术，以确保他们的战士能够活到最后一天。\n伊默哈尔也明白有些疾病是无法治愈的。对他们来说，她提供的药膏可以消除痛苦并给予和平，直到生命的最后时刻。许多人需要携膏者，无论她走到哪里，她都能找到一个家。几乎所有的至高天领主都曾在某个时候接待过伊默哈尔，许多凡人都收留过她，甚至不知道睡在他们屋檐下的陌生人的本质。"
+    },
+    {
+      "Key": "68f5378172f54f1fb04e4118e6205439",
+      "SimpleName": "ImmonhielFeature.Name",
+      "ProcessTemplates": false,
+      "enGB": "Immonhiel",
+      "zhCN": "伊默哈尔"
+    },
+    {
+      "Key": "e6298288131b40d4af82752147c849f7",
+      "SimpleName": "ImotFeature.Description",
+      "ProcessTemplates": true,
+      "enGB": "\nTitles: The Symbol of Doom   \nAlignment: Neutral   \nForm: Psychopomp Usher \nAreas of Concern: Inevitability, Mathematics, Portents  \nDomains: Luck, Repose, Rune, Weather  \nFavoured Weapon: Light shield   \nHoly Symbol: Three adjacent circles arranged vertically, bisected by a horizontal line  \nWhile most commonly associated with mass deaths, Imot was born from mortal guilt and the desire for hindsight in the wake of tragedy. Rather than cause loss of life directly, their machinations precede large disasters, though as the penultimate usher of order, they also arrange for disasters when mortal cultures are too slow in dying. A compulsion buried deep within Imot compels them to hide clues to every disaster in the natural world before the event transpires, wrapped in confounding symbolism and boggling equations. These vague hints and hidden meanings inspire anxiety in most mortal minds. To those unaware of the true nature of these premonitions, this takes the form of subconscious unease; to those aware of the usher’s omens, these clues provide a means of averting disaster that is often found far too late. Because of this, Imot is also the usher of dread, paranoia, self-blame for unavoidable disasters, and the omnipresent fear of personal failing. Imot’s nature makes them the natural patron of mathematicians—especially those who press the boundaries of mortal understanding—and the bearer of souls that perished due to seemingly inevitable ends or that died en masse. People plagued with uneasy premonitions, be they true glimpses of impending tragedy or simply figments of the mind, are sometimes drawn toward the worship of Imot. Prophets who seek accurate omens in an age of lost prophecy are drawn to Imot’s complex and hidden portents, seeking to painstakingly unravel the usher’s hidden clues to look into the future. The Symbol of Doom’s own predictions aren’t divine in nature, however, and are simply the result of their own infinitely complex calculations. Imot manifests as a golden, four-sided pyramid with a wing sprouting from each of their facets. They have great difficulty expressing themselves verbally and instead conjure images and symbols to communicate.",
+      "zhCN": "\n称号：末日的象征 \n阵营：绝对中立 \n形态：招魂使 \n领域：必然性、数学、预兆 \n领域：幸运、安息、符文、天气偏好 武器：光盾 \n圣徽：垂直排列的三个相邻圆圈，被水平线一分为二虽然最常与大规模死亡有关，但伊莫特出生于致命的内疚和悲剧发生后对事后诸葛亮的渴望。他们的阴谋不是直接造成生命损失，而是先于大灾难，尽管作为倒数第二位秩序的引领者，他们也会在凡人文化消亡太慢时安排灾难。深埋在伊莫特体内的一种冲动迫使他们在事件发生之前隐藏自然界中每场灾难的线索，包裹在令人困惑的象征意义和令人难以置信的方程式中。这些模糊的暗示和隐藏的含义激发了大多数凡人头脑中的焦虑。对于那些不知道这些预感的真实性质的人来说，这表现为潜意识的不安。对于那些知道引座者预兆的人来说，这些线索提供了一种避免灾难的方法，而这种灾难往往发现得太晚了。正因为如此，伊莫特也是恐惧、偏执、对不可避免的灾难的自责以及对个人失败的无所不在的恐惧的引领者。伊莫特的天性使他们成为数学家的天然守护神——尤其是那些突破凡人理解界限的人——以及因看似不可避免的目的而死亡或集体死亡的灵魂的承载者。人们被不安的预感所困扰，无论是对即将发生的悲剧的真实一瞥还是仅仅是脑海中的虚构，有时都会被伊莫特的崇拜所吸引。在失落的预言时代寻求准确预兆的先知们被伊莫特复杂而隐秘的预兆所吸引，他们煞费苦心地解开引导者隐藏的线索以展望未来。然而，末日象征本身的预测在本质上并不是神圣的，而仅仅是他们自己无限复杂计算的结果。伊莫特表现为一个金色的四面金字塔，每个侧面都长出一个翅膀。他们很难用语言表达自己，而是想出图像和符号来交流。"
+    },
+    {
+      "Key": "216796503e8a422ab000698f70dc846c",
+      "SimpleName": "ImotFeature.Name",
+      "ProcessTemplates": false,
+      "enGB": "Imot",
+      "zhCN": "依摩泰"
+    },
+    {
+      "Key": "06baa16cb5a74fe7910179eb859a79bb",
+      "SimpleName": "ImpenetrableScriptureFeature.Description",
+      "ProcessTemplates": true,
+      "enGB": "At 6th level, the living scripture is a magical bastion of his faith, gaining an innate, stackable spell resistance of 13.",
+      "zhCN": "6 级时，活圣经的信仰成为守护他的魔法壁垒，获得天生的可叠加法术抗力 13。"
+    },
+    {
+      "Key": "c896a71940b642afa1b2b1e305214d67",
+      "SimpleName": "ImpenetrableScriptureFeature.Name",
+      "ProcessTemplates": false,
+      "enGB": "Impenetrable Scripture",
+      "zhCN": "不破圣典"
+    },
+    {
+      "Key": "1b937e1963e74eeeab4abef40052e1c0",
+      "SimpleName": "ImpossibleSubdomainSelection.Description",
+      "ProcessTemplates": true,
+      "enGB": "Your mastery over domains grants you access to more niche areas of divine power.",
+      "zhCN": "你对领域的精通使你能够获取更多神圣力量的连接子域。"
+    },
+    {
+      "Key": "72387bc163cd4327b4d9bfe5612241bc",
+      "SimpleName": "ImpossibleSubdomainSelection.Name",
+      "ProcessTemplates": false,
+      "enGB": "Impossible Subdomain",
+      "zhCN": "无限连接子域"
+    },
+    {
+      "Key": "d126666cfbb9433aa7395e7b0a662fab",
+      "SimpleName": "InflictPainAbility.Description",
+      "ProcessTemplates": true,
+      "enGB": "You telepathically wrack the target’s mind and body with agonizing pain that imposes a –4 penalty on attack rolls, skill checks, and combat maneuver checks. A successful Will save reduces the duration to 1 round.",
+      "zhCN": "你以心灵感应方式破坏目标的身心，让其在攻击检定、技能检定和战技检定上受到–4 减值的剧痛。成功的意志豁免将持续时间缩短至 1 轮。"
+    },
+    {
+      "Key": "cf9477eb02794180aeab229cc05c4e5e",
+      "SimpleName": "InflictPainAbility.SavingThrow",
+      "ProcessTemplates": false,
+      "enGB": "Will disbelief, then Fortitude partial",
+      "zhCN": "意志 部分"
+    },
+    {
+      "Key": "ce3735ec762040b4a44ce9dcc374f3fd",
+      "SimpleName": "InflictPainBuff.Description",
+      "ProcessTemplates": true,
+      "enGB": "The target’s mind and body are wracked with agonizing pain that imposes a –4 penalty on attack rolls, skill checks, and combat maneuver checks.",
+      "zhCN": "目标的身心被极度痛苦所折磨，攻击检定、技能检定和战技检定都会受到–4的惩罚。"
+    },
+    {
+      "Key": "2af54a4144a8452bb519e7dcb3e59aeb",
+      "SimpleName": "InflictPainBuff.Name",
+      "ProcessTemplates": false,
+      "enGB": "Inflict Pain",
+      "zhCN": "痛苦创伤"
+    },
+    {
+      "Key": "59faeec5075c4020b93d7c7007827864",
+      "SimpleName": "InflictPainMassAbility.Description",
+      "ProcessTemplates": true,
+      "enGB": "This spell functions as Inflict pain, except that is affects multiple creatures.\nInflict Pain: You telepathically wrack the target’s mind and body with agonizing pain that imposes a –4 penalty on attack rolls, skill checks, and combat maneuver checks. A successful Will save reduces the duration to 1 round.",
+      "zhCN": "这个法术的作用如同痛苦创伤，除了影响多个生物。痛苦创伤：你通过心灵感应使目标的身心遭受痛苦的痛苦，在攻击检定、技能检定和战技检定上施加–4减值。成功的意志豁免将持续时间缩短至 1 轮。"
+    },
+    {
+      "Key": "a3f7957888b34ea89c5b67da15fe9061",
+      "SimpleName": "InflictPainMassAbility.Name",
+      "ProcessTemplates": false,
+      "enGB": "Inflict Pain, Mass ",
+      "zhCN": "群体疼痛创伤"
+    },
+    {
+      "Key": "51001929ec7f4860852329a8fd142be0",
+      "SimpleName": "InspiringSongFeature.Description",
+      "ProcessTemplates": true,
+      "enGB": "The voice of an ocean’s echo provides inspiration to allies. Allowing her to inspire courage at 1st level, inspire competence at 3rd level, and inspire heroics at 15th level, as a bard of the ocean’s echo’s level. It is usable a total number of rounds per day equal to her level + her Charisma modifier (minimum 1). \nThis ability replaces the revelations gained at 1st, 3rd, and 15th level.",
+      "zhCN": "海洋回声为盟友提供了灵感。允许她在 1 级时使用勇气颂歌，在 3 级时使用信念颂歌，在 15 级时使用英雄颂歌，使用海洋回声等级作为吟游诗人等级。每天可以使用的总轮数等于她的等级 + 魅力修正值（最少 1 个）。此能力取代在第 1、第 3 和第 15 级获得的启示。"
+    },
+    {
+      "Key": "998843eb7ca84bbd9eb87a2ed2dc68d9",
+      "SimpleName": "InspiringSongFeature.Name",
+      "ProcessTemplates": false,
+      "enGB": "Inspiring Song",
+      "zhCN": "鼓舞颂歌"
+    },
+    {
+      "Key": "032811cdc048463b93c9a81ba1ddd0bd",
+      "SimpleName": "InvokeDeityAbility.Description",
+      "ProcessTemplates": true,
+      "enGB": "By holding aloft a holy symbol and calling your deity’s name, you take on an aspect of that divinity. When you cast this spell, choose a domain offered by your deity. You gain that domain’s benefits, along with the listed physical changes; abilities that allow a saving throw use this spell’s DC.\nYou must worship a being that grants access to domains in order to cast this spell.",
+      "zhCN": "通过高举一个圣徽并呼唤你信仰的神灵的名字，你就获得了祂的一部分神性。当你施展此法术时，选择一个由你的神祇提供的领域。您将获得该领域的好处，以及列出的物理变化；允许豁免检定的能力的DC等同该法术的DC。\n你必须信仰一个拥有领域的存在才能施展此法术。"
+    },
+    {
+      "Key": "f78d8778455f4d2a870349d486aacb38",
+      "SimpleName": "InvokeDeityAbility.Name",
+      "ProcessTemplates": false,
+      "enGB": "Invoke Deity",
+      "zhCN": "召唤神灵"
+    },
+    {
+      "Key": "b373ea5aa59f46d2a3c54f6201e26305",
+      "SimpleName": "IrezFeature.Description",
+      "ProcessTemplates": true,
+      "enGB": "\nTitles: Lady of Inscribed Wonder   \nAlignment: Neutral Good   \nAreas of Concern: Cards, Scribes, Spells   \nEdict: Read fortunes, practice calligraphy, devise and study runes.   \nDomains: Good, Luck, Magic, Rune   \nSubdomains: Agathion, Fate, Language, Wards   \nFavoured Weapon: Dart   \nHoly Symbol: Fan of parchment strips   \nSacred Animal: Roc   \nIrez emerged from the reeds along the coast of the Sea of No Shadows in Nirvana. She understands the mystical symbolism behind runes, particularly how runes can empower arcane magic. Harrow readers and gamblers pay homage to the Lady of lnscribed Wonder, and her agents teach the exacting art of calligraphy to favored mortals. Irez still makes her home among the reeds where she first appeared. Her palace is a fantastical amalgamation of woven reed floors, paper walls, and bamboo roofs, and while it looks fragile enough to blow away in a stiffbreeze, it has stood undamaged for thousands of years.",
+      "zhCN": "\n称号：纸上奇观女士\n阵营：绝对中立 \n神职：卡牌，象形文，卷轴和法术\n领域：善良、幸运、魔法、符文 \n子领域：盖森、天命、语言、守护\n偏好武器：飞镖 \n圣徽：羊皮纸扇 \n圣兽：大鹏\n撰奇女士掌管卡牌，象形文，卷轴和法术。她掌握着符文知识，了解其背后象征含义的伟大力量。伊瑞兹尤其了解符文是如何补全并增幅奥术魔法。通过理解这一关系，伊瑞兹能够对遥远未来的事件做出神秘的预测，而这些预测往往成为现实。伊瑞兹的追随者中有很多书法家，赌徒，哈罗牌解读者和一些其他经常处理卡牌与符号的人，无论是为了研究奥术魔法，预测未来，还是其他世俗应用。\n曾见过伊瑞兹的人——无论是见到了她本人，还是在纸牌上看过她的形象——都将她描述为一个拥有强健蛇身和巨大蝙蝠翅膀的女人。她的身上总是挂着羊皮纸的纸条，每张纸条上都写着某个特定咒语或卡牌的秘密，比如哈罗牌中的“暴君”牌。"
+    },
+    {
+      "Key": "5eaa56ac154a4f36825a6c80fb263ed3",
+      "SimpleName": "IrezFeature.Name",
+      "ProcessTemplates": false,
+      "enGB": "Irez",
+      "zhCN": "伊瑞兹"
+    },
+    {
+      "Key": "b2338ba35d18449ca58c3df3e86ef1e1",
+      "SimpleName": "IsisFeature.Description",
+      "ProcessTemplates": true,
+      "enGB": "\nTitles: Queen of Miracles   \nAlignment: Neutral Good   \nAreas of Concern: Fertility, Magic, Motherhood, Rebirth   \nDomains: Charm, Community, Good, Healing, Magic   \nSubdomains: Agathion, Arcane, Divine, Family, Love, Resurrection   \nFavoured Weapon: Quarterstaff   \nHoly Symbol: Knot of Isis   \nSacred Animal: Kite   \nWhen Set killed his brother Osiris, it was their sister Isis who recovered Osiris's body, and using her magic, conceived a son, Horus, with her dead husband. Enraged, Set then dismembered Osiris's corpse and scattered the remains, but Isis gathered up all of the pieces of her husband's body and with a magic spell resurrected Osiris. Isis ruled as queen alongside Osiris during the Age of Legend, and like him, she is a fertility and nature goddess, viewed as the ideal mother and wife . She is a goddess of rebirth and resurrection, and the protector of the canopic jar that holds the deceased's liver. She is also a deity of magic, both arcane and divine. Isis appears as a beautiful human woman with winged arms, wearing a crown shaped like a throne. She is the loyal wife and partner of Osiris, and is fiercely protective of her son Horus. Isis is close to her sister Nephthys, but is a sworn enemy of her brother Set. Isis is worshiped by sorcerers, wizards, and witches as a patron of magic, but also by mothers, wives, and druids in her role as a goddess of fertility. The vast majority of her clerics are women, but men and women both are initiated into her mystery cults to learn her secret and sacred rites.",
+      "zhCN": "\n称号：奇迹天后\n阵营：绝对中立\n神职：多产、魔法、母性、重生\n领域：魅惑、联盟、善良、医疗、魔法 \n子领域：盖丁、奥秘、神力、家族、爱慕、回生\n偏好武器：木棍\n圣徽：伊西斯之结\n圣兽：鸢\n当赛特击杀祂兄弟的欧西里斯后，是祂们的姊妹伊西斯回收欧西里昂的尸骸，并透过魔法与亡夫产下一子荷鲁斯。塞特听闻后大怒之下将欧西里斯分尸并四散尸块，但伊西斯将全部的碎片收集拼凑起来以后又施了一道法术将欧西里斯复活。\n伊西斯在欧西里斯身侧以天后的身分于传说之年统治奥西里昂，和夫君共享多产与自然的神职，被凡人视为妻子与母亲的典范。祂是重生与复活的女神，也是装载死者肝脏的卡诺波坛的守护神。祂也是不论神术或奥术一切魔法之神。伊西斯以臂下生羽，穿戴宝座型头饰的美丽人类女性形象示人。祂是欧西里斯忠贞的配偶，对儿子荷鲁斯有着很强的保护心。伊西斯与姊妹奈芙蒂斯的关系友好，但是兄弟赛特的死敌。\n伊西斯受术士、法师、巫师以魔法之神的身分敬拜，但也被母亲、妻子、德鲁伊以多产之神的身分供奉。伊西斯的祭司绝大多数皆为女性，但其教派也愿意接纳来学习密典与仪式的男人。"
+    },
+    {
+      "Key": "90057398ddf442fc8d1b67d29bc6840a",
+      "SimpleName": "IsisFeature.Name",
+      "ProcessTemplates": false,
+      "enGB": "Isis",
+      "zhCN": "伊西斯"
+    },
+    {
+      "Key": "ff53978355294a2aac4c9fe39ba72740",
+      "SimpleName": "IthaquaFeature.Description",
+      "ProcessTemplates": true,
+      "enGB": "\nTitles: Wind-Walker   \nAlignment: Chaotic Evil   \nAreas of Concern: Cannibalism, Cold, The Wind   \nRank: Great Old One   \nDomains: Air, Chaos, Evil, Weather   \nSubdomains: Cloud, Ice, Storms, Wind   \nFavoured Weapon: Handaxe   \nHoly Symbol: Antlered wooden humanoid effigy  \nThe frozen lands at all the worlds’ northern poles are the domains of Ithaqua, the Wind-Walker. He is capable of striding the gulfs between planets on icy winds to visit any world that might catch his interest, yet his explorations and influence over the worlds he treads upon seem to be curiously limited in scope to those regions above each world’s arctic circle. He can, for short periods of time, venture south, but never for long, and his touch is unknown in the southern reaches of these worlds. Yet in his realm, he is greatly feared, for cannibalism and the monstrous creatures known as wendigos are rampant in the times before and after his visits. Ithaqua often takes a personal interest in certain souls, be they worshipers or unbelievers. He takes these folk into the skies and may even bring them to other worlds, yet his purpose in these abductions is unclear, for those who walk with Ithaqua always meet the same fate—a devastating fall from a great height resulting in either death in some frozen wilderness or transformation into a wendigo and the loss of all memories of a previous life. Ithaqua is known by many names in icy regions. He appears humanoid in form, yet his limbs are long and gaunt, and his feet are often concealed in gusts and blasts of blizzard winds. When he visits, despite these winds that surround him, he leaves monstrous tracks in the snow that show webbing between the toes. Those who gaze upon the Wind-Walker often don’t remember his shape at all, only the two points of light—so like strange sparkling stars in the night sky—that are in fact his eyes. \nNote that while Ithaqua does not grant the domain of Water, his followers can take the subdomain of Ice.",
+      "zhCN": "\n称号：风行者\n阵营：混乱邪恶\n神职：食人，寒冷与风\n等级：旧日支配者\n领域：空气、混乱、邪恶、天气\n子领域：云、冰、风暴、风\n偏好武器：手斧\n圣徽：木质鹿角仿人雕像\n所有世界的极北冰原皆为风行者伊塔库亚之领地。祂携带极寒之风穿梭于行星之间，造访任何可能勾起祂兴趣的世界，然而祂对踏足世界的探索和影响被奇异地限制在每个世界的北极圈地区以内。祂可冒险南下一小段时间但绝不会长久，亦不会触碰这些世界的南部地区。\n然而在祂在自己的国度中极度可怕，食人癖（cannibalism）与被称为温迪戈雪魔（Windego）的怪物会在祂到访前后的时期中泛滥肆虐。伊塔库亚时常对某个灵魂产生兴趣而不在乎其是否是祂的信徒。祂会将其带往天空乃至其他世界，但祂的绑架意图为何还无人知晓，而那些与伊塔库亚同行者总会遭受相同命运——从冰封原野的高空被抛下而在毁灭性的坠落中死亡，亦或变为温迪戈雪魔而失去前世的所有记忆。\n伊塔库亚在冰盖区有着许多名字。祂近似人形，但四肢修长而枯槁，脚常隐藏在狂风暴雪之中。尽管有着风暴环绕，但祂的到访总会在雪中留下趾间生蹼的恐怖足迹。凝视风行者往往会发现根本记不得祂的容貌，只能记住两个光点——宛如夜空中诡异闪烁的星辰——而那实际上正是祂的眼睛。\n需要注意的是，虽然伊塔库亚不授予水领域，但祂的牧师仍可连接冰子域。"
+    },
+    {
+      "Key": "f46f1b17f30f436da95cec8dfe11498e",
+      "SimpleName": "IthaquaFeature.Name",
+      "ProcessTemplates": false,
+      "enGB": "Ithaqua",
+      "zhCN": "伊塔库亚"
+    },
+    {
+      "Key": "08764f1156ef47d683746ea68a8bb71a",
+      "SimpleName": "JaidzFeature.Description",
+      "ProcessTemplates": true,
+      "IsUsed": false,
+      "enGB": "\nTitles: Fearless Claw   \nAlignment: Neutral Good   \nAreas of Concern: Cowards, The Untested, Youths   \nDomains: Glory, Good, Protection, Travel   \nSubdomains: Agathion, Defense, Exploration, Purity   \nFavoured Weapon: Short sword   \nHoly Symbol: Winding path between two trees   \nSacred Animal: Black tiger   \nJaidz believes cowards can be turned to a life of bravery with compassion and firm guidance. He steps softly so as not to frighten those who need to hear his wisdom, and helps those he visits to find the strength within themselves. Jaidz appears as a giant black tiger with ghostly white spots. While in the mortal realm, he often takes the shape of a dark-skinned man with thick black hair streaked with white. His catlike golden eyes gleam in the shadows, and curved golden claws sprout from his hands. Even in his human form he boasts a long black tail tipped with white. The cowardly, the anxious, and the untested pay homage to Jaidz. Youths are especially drawn to Fearless Claw, hoping that when adulthood comes, it will find them brave enough to face the challenges of maturity. Jaidz teaches that the cowardly are not to be scorned, but to be helped,and his agents often provide tests of courage to those who underestimate their own potential.Jaidz dwells in a pavilion of black walnut with gold lattice walls and floor-length faille curtains of emerald green, magenta, and indigo. His pavilion stands on the topmost of three stone tiers cut into one of the Dragonmane Mountains on Nirvana.",
+      "zhCN": "\n称号：无畏之爪 \n阵营：绝对中立 \n神职：懦夫、未经考验、青年 \n领域：荣耀、善良、保护、旅行 \n子领域：Agathion、防御、探索、纯洁 \n偏好武器：短剑 \n圣徽：两棵树之间的蜿蜒小径 \n圣兽：黑虎 \nJaidz 相信，只要有同情心和忠诚指导，懦夫就能变成勇敢的生活。他脚步轻柔，以免吓到需要听他智慧的人，并帮助他拜访的人找到自己的力量。 Jaidz 的形象是一只巨大的黑虎，身上带有幽灵般的白斑。在凡间，他经常化身为一个黑发浓密的黑发男子，夹杂着白色的条纹。金色的猫眼在阴影中闪烁，弯曲的金色爪子从他的手中长出。即使在他的人形中，他也拥有一条长长的黑色尾巴，末端是白色的。懦弱、焦虑和未经考验的人向 Jaidz 致敬。幼年人尤其喜欢无畏爪，希望成年后，他们会勇敢地面对成熟的挑战。 Jaidz 教导说，胆小者不应该被鄙视，而是应该得到帮助，他的经纪人经常为那些低估自己潜力的人提供勇气的考验。 Jaidz 住在一个带有金色格子墙和落地罗缎窗帘的黑胡桃木亭子里翠绿色、洋红色和靛蓝色。他的亭子位于涅槃的龙鬃山脉之一的三层石阶的最顶端。"
+    },
+    {
+      "Key": "049b8173b11d43b1adaf9df051648ed2",
+      "SimpleName": "JaidzFeature.Name",
+      "ProcessTemplates": false,
+      "enGB": "Jaidz",
+      "zhCN": "贾兹"
+    },
+    {
+      "Key": "59e3ebed3bae4b69abecb4091f48ee1c",
+      "SimpleName": "JalaijataliFeature.Description",
+      "ProcessTemplates": true,
+      "IsUsed": false,
+      "enGB": "\nTitles: Rillsong   \nAlignment: Chaotic Good   \nAreas of Concern: Natural music, Rapids, Waterfalls   \nDomains: Chaos, Good, Scalykind , Water   \nSubdomains: Azata, Flotsam, Revelry, Rivers   \nFavoured Weapon: Whip (Trident)   \nHoly Symbol: Water from wood pipe   \nSacred Animal: Water lizard   \nJalaijatali is a free-spirited empyreal lord who sings with the voice of a rushing creek. Her presence can be felt in the rapids of a flowing river or beneath the misty cascade of a waterfall. Jalaijatali appears as a beautiful Mwangi woman with skin formed of tiny, iridescent scales . Her pointed ears peek through short black hair, and her body is garbed in a robe of living water that continually splashes and rushes over her form. At a moment's notice, the empyreal lord can pluck a stream of water from her robe to wield as a whip. Rillsong loves to teach mortals the beauty of natural music, from the patter of a summer rain to the sawing of katydids. While Jalaijatali much prefers making music to making war, she can be roused to anger by fiends and evil creatures that corrupt her waters, particularly river drakes or water oni. On Elysium, Jalaijatali lives in a pool fed by a waterfall that falls continually from the sky with no apparent source. Around the pool stands a gazebo of acacia wood and crystal, with raised wooden platforms covered in soft mats of greenery where guests can recline.",
+      "zhCN": "\n称号：Rillsong \n阵营：混乱善良 \n神职：自然音乐、激流、瀑布 \n领域：混乱、善良、Scalykind 、水 \n子领域：爱塔、漂浮、狂欢、河流 \n偏好武器：鞭子（三叉戟） \n圣徽：来自木管的水 \n圣兽：水蜥蜴 \nJalaijatali 是一位自由奔放的至高天领主，他用湍急的小溪的声音歌唱。在流淌的河流的激流中或在迷雾缭绕的瀑布下，都能感受到她的存在。 Jalaijatali 是一个美丽的 Mwangi 女人，皮肤由微小的虹彩鳞片组成。她的尖耳朵从黑色的短发中探出头来，她的身体披着一件活水长袍，不断地溅起她的身躯。刹那间，天尊可以从她的长袍中拔出一股水流，作为鞭子挥舞。里尔松喜欢向凡人传授自然音乐之美，从夏雨的淅淅沥沥到螽斯的锯切。虽然 Jalaijatali 更喜欢制作音乐而不是发动战争，但她可能会被恶魔和邪恶生物激怒，这些生物会腐蚀她的水域，尤其是河龙或水鬼。在极乐世界，Jalaijatali 住在一个由瀑布供水的水池中，瀑布从天而降，没有明显的来源。泳池周围矗立着一个由洋槐木和水晶制成的凉亭，凸起的木制平台覆盖着柔软的绿色垫子，客人可以在那里躺下。"
+    },
+    {
+      "Key": "8e2a5f0557a94d51be2ebb1313ae91b8",
+      "SimpleName": "JalaijataliFeature.Name",
+      "ProcessTemplates": false,
+      "enGB": "Jalaijatali",
+      "zhCN": "贾莱贾塔利"
+    },
+    {
+      "Key": "7d897910667942cebb61f1ca41dd5279",
+      "SimpleName": "JerishallFeature.Description",
+      "ProcessTemplates": true,
+      "enGB": "\nTitles: The Turning Sphere   \nAlignment: Lawful Neutral   \nForm: Primordial Inevitable   \nAreas of Concern: The planes, Planetary orbits, Separation \nDomains: Earth, Knowledge, Law, Sun   \nFavoured Weapon: Longspear   \nHoly Symbol: Linked pair of ringed planets   \nThe conquest of nature and advent of cities is ultimately a late step in the rise of civilization. For millions of years before that, the planets on which they form must maintain predictable orbits and respect the laws of cosmic physics. Jerishall monitors the multiverse from their powerful observatory floating above Axis to ensure that its stars, solar systems, and even galaxies flow in an orderly fashion, not deviating beyond predictable models. Jerishall recognizes that asteroids, meteors, and other planets can crash into a species’ home world, yet they do not condone the utter destruction of such threats. Instead, Jerishall encourages the development of astronomy, astrophysics, and technology to redirect such missiles or allow large populations to escape their planet entirely. As a result, the Turning Sphere is an indirect patron of space travel, earning them the respect of spacefaring creatures such as witchwyrds and even elder things. Jerishall is especially wary of the ways in which the Outer Planes and Inner Planes interact, preferring each plane’s isolated physics to prevail rather than for an encroaching realm’s influence to alter the other’s orbits and processes. Jerishall’s faithful often frequent planar portals and breaches to ensure they do not unduly expand or impede upon other regions.",
+      "zhCN": "\n称号：旋转球体\n阵营：守序中立\n形态：原始不可避免\n领域：位面，行星轨道，分离\n领域：大地，知识，秩序，太阳\n偏好武器：长矛\n圣徽：连接的一对环形行星征服自然和城市的出现最终是文明兴起的后期。在此之前的数百万年里，它们形成的行星必须保持可预测的轨道并遵守宇宙物理定律。 Jerishall 从他们漂浮在 Axis 上方的强大天文台监控多元宇宙，以确保其恒星、太阳系甚至星系以有序的方式流动，不会偏离可预测的模型。杰里歇尔认识到小行星、流星和其他行星可能会撞击一个物种的家园，但他们并不容忍彻底摧毁这些威胁。相反，杰里歇尔鼓励天文学、天体物理学和技术的发展，以重定向此类导弹或让大量人口完全逃离他们的星球。因此，旋转球是太空旅行的间接守护神，为他们赢得了太空生物的尊重，例如巫师甚至是远古生物。 Jerishall 尤其警惕外层位面和内层位面相互作用的方式，宁愿每个位面的孤立物理占上风，而不是让一个侵占领域的影响来改变另一个位面的轨道和过程。杰里歇尔的信徒经常频繁出现位面传送门和突破口，以确保它们不会过度扩张或阻碍其他地区。"
+    },
+    {
+      "Key": "e5c332f658704a01845be50d29628168",
+      "SimpleName": "JerishallFeature.Name",
+      "ProcessTemplates": false,
+      "enGB": "Jerishall",
+      "zhCN": "杰里歇尔"
+    },
+    {
+      "Key": "d24400078cd6451fae349dd8377fff86",
+      "SimpleName": "JezeldaFeature.Description",
+      "ProcessTemplates": true,
+      "enGB": "\nTitles: Mistress of the Hungry Moon, Lord of Werewolves, Demon Lord of The Moon and Werewolves\nAlignment: Chaotic Evil   \nAreas of Concern: Desolation, The Moon, Werewolves\nDomains: Animal, Chaos, Evil, Trickery\nSubdomains: Deception, Demon, Fur, Moon\nFavoured Weapon: Scimitar   \nHoly Symbol: Full moon above moor   \nSacred Animal: Wolf   \nIn certain rural areas of the world, particularly in the region around Darkmoon Vale and the darkened woodlands of Lozeri in northern Ustalav, the barrier between human and wolf grows thin on nights of the full moon. Many religious texts point to the werewolf Jezelda as the first to spread lycanthropy among the mortals of the world, but strangely, neither she nor her faithful support that claim; instead they remain strangely silent upon her history, as if they shared a secret that the world is not yet meant to know. As the patron of werewolves, Jezelda is herself a shapechanger. She can appear as a beautiful and darkhaired Varisian woman, a feral and slavering wolf with huge fangs and yellow eyes, or her favored form—that of an emaciated amalgamation of these two embodiments, also bearing a pair of demonic horns. She despises non-werewolf lycanthropes, and charges her worshipers with seeking out such creatures as heretics worthy only for sacrifice. Goodaligned lycanthropes in particular raise Jezelda’s ire, and such a sacrifice almost always curries her favor. Jezelda’s realm on the Abyss is known as the Moonbog. This vast realm is large enough to contain a single glowing moon high above—the “stars” in the night sky are said to be the eyes of her favored wolf consorts looking down upon the realm below. Below, the Moonbog consists of vast stretches of moorland separated by winding wetlands of bogs and fens infested with all manner of monstrous denizens—the deeper and more remote of these bogs are often ruled by powerful hezrous or half-fiend froghemoths. Yet it is on the moors themselves where the true dangers of this realm can be found—for it is here that Jezelda and her favored consorts hunt under the wan light of the moon. These moors are populated by isolated communities of humanoids harvested from countless worlds. Jezelda enjoys moving from one village to the other, constantly hunting while her minions work furiously to abduct and repopulate the realm behind her so she need never be faced with an empty realm.",
+      "zhCN": "\n称号：饥饿月亮的女主人、狼人之王、月亮恶魔之王和狼人 \n阵营：混乱邪恶 \n关注领域：荒凉、月亮、狼人 \n领域：动物、混乱、邪恶、诡计 \n子领域：欺骗、恶魔、毛皮、月亮 \n偏好武器：弯刀 \n圣徽：荒野上空的满月 \n圣兽：狼 \n在世界的某些农村地区，特别是在暗月谷周围的地区和乌斯塔拉夫北部洛泽里的黑暗林地，人与狼之间的屏障在满月之夜。许多宗教文献都指出狼人耶泽尔达是第一个在世间凡人中传播狼人的人，但奇怪的是，她和她的忠实信徒都不支持这种说法；相反，他们对她的历史保持奇怪的沉默，就好像他们分享了一个世界还不应该知道的秘密。作为狼人的守护神，耶泽尔达本身就是一个变形者。她可以表现为一个美丽的黑发瓦里西亚女人，一个有着巨大的尖牙和黄色眼睛的野性而流口水的狼，或者她最喜欢的形式——这两个化身的消瘦结合，还长着一对恶魔角。她鄙视非狼人的兽化人，并指责她的崇拜者寻找像异教徒这样的生物，只值得献祭。善良阵营的兽化人尤其会引起耶泽尔达的愤怒，而这样的牺牲几乎总是能讨好她。 Jezelda 在深渊上的王国被称为 Moonbog。这广阔的天地足以容纳一轮皎洁的明月高高在上——夜空中的“星辰”据说是她宠爱的狼妃俯视下方天地的眼睛。下面，Moonbog 由广阔的沼泽地组成，沼泽地由沼泽和沼泽组成的蜿蜒湿地隔开，沼泽和沼泽中遍布着各种怪物——这些沼泽的更深处和更偏远的地方通常由强大的狂暴或半恶魔 froghemoths 统治。然而，正是在荒原上才能发现这个领域的真正危险所在——因为杰泽尔达和她最宠爱的配偶正是在这里在苍白的月光下狩猎。这些荒原上居住着来自无数世界的孤立的类人生物群落。 Jezelda 喜欢从一个村庄搬到另一个村庄，不断地狩猎，而她的爪牙则疯狂地绑架并重新填充她身后的领域，因此她永远不需要面对一个空旷的领域。"
+    },
+    {
+      "Key": "464f03b6c68a4835b3e3695e03b4c250",
+      "SimpleName": "JezeldaFeature.Name",
+      "ProcessTemplates": false,
+      "enGB": "Jezelda",
+      "zhCN": "杰萨尔达"
+    },
+    {
+      "Key": "6a3bffdae72649e39f0b3a964375b5c7",
+      "SimpleName": "JubilexFeature.Description",
+      "ProcessTemplates": true,
+      "enGB": "\nTitles: The Faceless Lord, Lord of Sloth, Demon Lord of Poison and Ooze   \nAlignment: Chaotic Evil   \nAreas of Concern: Poison, Ooze, Sloth  \nDomains: Chaos, Destruction, Evil, Water   \nSubdomains: Catastrophe, Demon, Flotsam, Rage   \nFavoured Weapon: Heavy mace   \nHoly Symbol: Melting red eye   \nSacred Animal: None   \nOf the demon lords listed here, Jubilex is perhaps the one least concerned with maintaining a cult. His favored minions, the omoxes, do more to spread his cults than he does—in fact, it’s debatable whether Jubilex even realizes he has worshipers. Only among the drow is his faith particularly popular and pervasive. Certainly, those who worship him tend not to think of him as an entity to be venerated as much as a source of power. Yet despite the Faceless Lord’s lack of interest in his faithful, he certainly knows of the Material Plane and enjoys absorbing the bodies of unwilling mortals into his protoplasmic bulk. Jubilex appears as a shapeless green mass of ooze shot through with dark ribbons of tar and hundreds of glaring red eyes the size of a man’s head. His realm on the Abyss is called the Undersump, and consists of a tangled warren of sewer-like catacombs and tunnels that winds below dozens of other Abyssal realms—many creatures use the Undersump as a method of covertly moving from one such realm to the other, but they must take care to avoid Jubilex’s awareness when they do. Of course, Jubilex’s wanderings and attention to the regions of the Undersump are basically random, and certain parts of the realm are so rarely visited by the Faceless Lord that other strange and dangerous creatures have claimed them.",
+      "zhCN": "\n称号：无面者领主、懒惰领主、毒药和软泥怪领主 \n阵营：混乱邪恶 \n关注领域：毒药、软泥怪、懒惰 \n领域：混乱、毁灭、邪恶、水 \n子域：灾难、恶魔、漂浮、狂暴 \n偏好武器：沉重的狼牙棒 \n圣徽：融化的红眼 \n圣兽：没有 \n在这里列出的恶魔领主中，Jubilex 可能是最不关心维护邪教的人。他最喜欢的爪牙 omoxes 比他更能传播他的教派——事实上，Jubilex 是否意识到他有崇拜者是值得商榷的。只有在卓尔精灵中，他的信仰才特别受欢迎和普遍。当然，那些崇拜他的人往往不会将他视为一个值得崇敬的实体，而不是一种力量的来源。然而，尽管无面者领主对他的信徒缺乏兴趣，但他当然知道物质位面并且喜欢将不情愿的凡人的身体吸收到他的原生质体中。 Jubilex 看起来像一团无形的绿色软泥，上面有深色的焦油带和数百个人头大小的红眼睛。他在深渊上的领域被称为 Undersump，由一个由下水道般的地下墓穴和隧道组成的杂乱无章的沃伦组成，这些地下墓穴和隧道蜿蜒在数十个其他深渊领域的下方——许多生物使用 Undersump 作为从一个这样的领域秘密移动到另一个这样的领域的方法，但是当他们这样做时，他们必须小心避免 Jubilex 的意识。当然，Jubilex 的漫游和对 Undersump 地区的关注基本上是随机的，并且该领域的某些部分很少被无面之主访问，以至于其他奇怪和危险的生物已经占领了它们。"
+    },
+    {
+      "Key": "82f71d2ced64496cbc269a724242fb61",
+      "SimpleName": "JubilexFeature.Name",
+      "ProcessTemplates": false,
+      "enGB": "Jubilex",
+      "zhCN": "章怖涙恪斯"
+    },
+    {
+      "Key": "17abc08df90f4066a1ca4af7eacdd8fe",
+      "SimpleName": "KerkamothFeature.Description",
+      "ProcessTemplates": true,
+      "enGB": "\nTitles: The Waiting Void   \nAlignment: Lawful Neutral   \nForm: Primordial Inevitable   \nAreas of Concern: Emptiness, Entropy, Stillness   \nDomains: Darkness, Destruction, Law, Void (Travel)   \nFavoured Weapon: Warhammer   \nHoly Symbol: Starry circle within an iron ring   \nAlthough philosophers often confuse decay for the onslaught of entropy, the faithful of Kerkamoth understand that natural decay on both a visible and atomic level is key to a healthy multiverse. That which is empty has its own order and potential to form great things. Just as a toppling tree leaves space for new growth, so too does the deterioration and controlled demolition of civilization leave fallow realms just waiting to be filled by fresh innovation. For creation to continue, there must be regulated emptiness. Above all, these processes must be silently calculated, predictable, and systematic; the wanton destruction inflicted by the likes of daemons, demons, and proteans threatens the entire process.",
+      "zhCN": "\n称号：等待虚空\n阵营：守序中立形态：原始不可避免\n领域：空虚、熵、静止\n领域：黑暗、毁灭、守序、虚空（旅行）\n偏好武器：战锤\n圣徽：铁环内的星环虽然哲学家经常将衰变与熵的冲击混淆，Kerkamoth 的忠实信徒明白，可见和原子层面的自然衰变是健康多元宇宙的关键。空性有其自身的秩序和形成伟大事物的潜力。就像一棵倒下的树为新的生长留下空间一样，文明的退化和有控制的破坏也让休耕的领域等待着新的创新来填补。创造要继续，必须有规范的空虚。最重要的是，这些过程必须经过默默计算、可预测和系统化；恶魔、恶魔和变形虫之类的肆意破坏威胁着整个过程。"
+    },
+    {
+      "Key": "0b64103a97074353b5fe075147c40864",
+      "SimpleName": "KerkamothFeature.Name",
+      "ProcessTemplates": false,
+      "enGB": "Kerkamoth",
+      "zhCN": "克卡莫斯"
+    },
+    {
+      "Key": "5f128f8ec3b242e290ae05bab3a30f9a",
+      "SimpleName": "KetephysFeature.Description",
+      "ProcessTemplates": true,
+      "enGB": "\nTitles: The Hunter   \nAlignment: Chaotic Good   \nAreas of Concern: Hunting, Forestry, Running, The Moon   \nDomains: Animal, Chaos, Good, Plant, Weather   \nSubdomains: Azata, Feather, Fur, Growth, Moon, Seasons   \nFavoured Weapon: Longbow   \nHoly Symbol: Hawk with moon and sun   \nSacred Animal: Hawk   \nThis long-faced elven god rarely speaks unless coordinating the efforts of other beings in a hunt for a dangerous or especially prized creature. In holy art, he is shown barefoot, wearing form-fitting brown and forestgreen to prevent snags and excess noise. He is usually accompanied by his dog Meycho and his hawk Falling Star, though he keeps them for companionship rather than assistance, as he prefers to succeed or fail on his own skill.Ketephys is an occasional hunting partner of Erastil, but disapproves of his insistence upon marriage; in turn, Erastil attributes this to elven immaturity and capriciousness. Ketephys is an ally of Gozreh against threats to the natural world. He views Treerazer as his arch-enemy, and personally served as a commander during the conflict that pushed Treerazer to Tanglebriar, where he hides to this day. Ketephys also watches over Cyth-V'sug, Treerazer's former master, for any signs of an alliance between the two.",
+      "zhCN": "\n称号：猎人\n阵营：混乱善良\n神职：狩猎、林业、跑步、月亮\n领域：动物、混沌、善良、植物、天气\n子领域：爱塔、羽毛、毛皮、生长、月亮、季节\n偏好武器：长弓\n圣徽：鹰与月亮和太阳\n圣兽：鹰\n这个长脸的精灵神沉默寡言，除非是在狩猎危险或者有价值的生物并努力和别人协作时。\n在绘像中，他赤着脚，穿着合身的棕色和森林绿色，避免妨碍行动和发出噪音的的衣服。他通常由他的狗梅乔和鹰坠星陪伴，尽管他只是让他们陪伴而不是帮助自己，因为他更喜欢靠自己的技艺来一决胜负。\n偶尔克忒菲斯和艾若斯提的结伴狩猎，但是一直反对他赞成婚姻的态度；艾若斯提反过来将此归因于精灵的不成熟和反复无常。克忒菲斯将戈兹雷视为一同对抗自然界威胁的盟友。他将毁木者视为他的头号敌人，并在和躲藏在扭曲棘林毁木者的冲突中亲自担任指挥官。克忒菲斯还监视着毁木者的前主人西斯瓦萨格，随时观察两人是否有任何结盟的迹象。"
+    },
+    {
+      "Key": "f5bf6df7fcfd4e9e9385c15ffd1636b1",
+      "SimpleName": "KetephysFeature.Name",
+      "ProcessTemplates": false,
+      "enGB": "Ketephys",
+      "zhCN": "克忒菲斯"
+    },
+    {
+      "Key": "28e52c04bc37473193285ba43b18f6f8",
+      "SimpleName": "KhepriFeature.Description",
+      "ProcessTemplates": true,
+      "enGB": "\nTitles: The Humble Hand   \nAlignment: Neutral Good   \nAreas of Concern: Freedom, The Rising Sun, Work   \nDomains: Artifice, Good, Liberation, Sun, Trickery   \nSubdomains: Agathion, Day, Deception, Freedom, Revolution, Toil   \nFavoured Weapon: Sling (Slingstaff)   \nHoly Symbol: Blue Scarab   \nSacred Animal: Scarab Beetle   \nPerhaps the most popular of the old gods among the common folk of Osirion is Khepri, who takes the form of a scarab or dung beetle. Khepri is the god of the rising sun in the eastern horizon, and the scarab rolling a ball of dung across the ground is seen as a symbol of Khepri pushing the sun across the sky. As the sun rises in the morning, so do the peasants who work all day with little reward, and Khepri is their divine embodiment, promising freedom from toil and reward for their labor in the afterlife. He is also a mischievous prankster, breaking up the tedium of the long days with his antics and poking fun at those who consider themselves the commoners' betters. Khepri is typically represented as a scarab beetle, or as a man with a scarab beetle for a head. As a solar deity, Khepri works closely with Ra and Horus, is friendly with Hathor, and is opposed to Apep and Set and their evil machinations. As a trickster, Khepri is close friends with Bes, and he relishes the distaste that his strange appearance, his pungent aroma, and all that he represents elicit in more refined and civilized gods such as Bastet, Maat, and Thoth. Khepri seldom has dedicated temples, but as the patron of peasants, his priests can be found anywhere the common folk labor. Temporary shrines to the scarab god often spring up next to fields or at building sites, where workers make small offerings of a bite of their food or a sip of their beer, and ask Khepri to grant them an easy and productive day of work.",
+      "zhCN": "\n称号：谦卑之手\n阵营：绝对中立 \n神职：自由、朝阳、工作\n领域：工匠、善良、自由、太阳、诡术\n子领域：盖森、白昼、欺骗、自由、革命、疲累\n偏好武器：投石杖\n圣徽：青色圣甲虫\n圣兽：圣甲虫\n在古代诸神之中，最受奥西里昂普罗大众爱载的莫过于以圣甲虫/粪金龟形象显现的凯布里了。凯布里是日出东方之神，而圣甲虫在地上滚屎球的动作被视为凯布里在推太阳上天的象征。凯布里是日出而作工作整天却赚不了几个钱的百姓的神圣化身，应许他们在死后能从疲累中解放并收获劳动应得的报酬。祂同时也喜好整人恶搞，用笑声打破漫长工作的沉闷，并捉弄那些自以为比平民了不起的人。\n凯布里一般是被以圣甲虫的形象，或是以长着一整只圣甲虫当作头的男子的姿态描绘。作为一个太阳神，凯布里与拉及荷鲁斯密切合作，与哈索尔友善相处，也对抗阿佩普及赛特的邪恶阴谋。白烂的凯布里是贝斯的亲友，尤其喜欢欣赏其他那些诸如芭丝特、玛阿特与托特等更...斯文的神见识到贝斯的奇形怪状和诡异体味以及祂所象征的一切时的反应。\n凯布里的神殿很少，但由于百姓之神的身分，有人劳动的地方就有祂的祭司。在建筑工地附近偶尔会立起临时的甲虫神祭坛，工人们会向凯布里献上杯酒片饼以祈求工事平稳迅速地进行。"
+    },
+    {
+      "Key": "a54403cc038d4b6f98427ad76e46343c",
+      "SimpleName": "KhepriFeature.Name",
+      "ProcessTemplates": false,
+      "enGB": "Khepri",
+      "zhCN": "凯布里"
+    },
+    {
+      "Key": "04c66d3e24e74140b3993e55f1a5cdb4",
+      "SimpleName": "KnowledgeDomainBaseFeatureDruid.Description",
+      "ProcessTemplates": true,
+      "enGB": "\nYou are a scholar and a sage of legends. In addition, you treat all Knowledge and Lore skills as class skills. Void Form: You can become semi-tangible as a standard action. While in this form, you are immune to critical hits and gain a +1 deflection bonus to AC. This bonus increases by 1 at 8th level and every 4 levels thereafter. You can use this power a number of rounds per day equal to your level in the class that gave you access to this domain. Teaching Moment: At 8th level as a swift action you can grant all allies within 30 feet special insights. Once during the next minute, each affected creature can choose to roll twice and take the better result before attempting an attack roll, ability check, skill check, or saving throw. You can use this ability once per day at 8th level, and one additional time per day for every 4 levels in the class that gave you access to this domain beyond 8th.",
+      "zhCN": "\n你是位学者，一位传说中的圣贤。此外，你可将所有知识和学识{g|Encyclopedia:Skills}技能{/g}视为你的本职技能。\n虚空形态：作为{g|Encyclopedia:Standard_Actions}标准动作{/g}，你可进入半实体状态。进入此状态后，你将免疫{g|Encyclopedia:Critical}重击{/g}，且{g|Encyclopedia:Armor_Class}防御等级{/g}获得+1偏斜{g|Encyclopedia:Bonus}加值{/g}。在8级时，此加值会增加1点，随后每4级再增加1点。每天可使用{g|Encyclopedia:Combat_Round}轮数{/g}等于赋予你此领域的职业等级。\n授业时刻：8级时，作为{g|Encyclopedia:Swift_Action}迅捷动作{/g}，你可赋予30英尺范围内所有盟友特殊的洞察力。在下一分钟内，每个受影响生物在进行单次{g|Encyclopedia:Attack}攻击检定{/g}、{g|Encyclopedia:Ability_Scores}属性检定{/g}、技能{g|Encyclopedia:Check}检定{/g}或{g|Encyclopedia:Saving_Throw}豁免检定{/g}时，可选择投骰两次，并采用更高的{g|Encyclopedia:Dice}检定{/g}结果。在8级时，每天可使用一次此能力，8级后赋予你此领域的职业每升4级，可获得1次额外的使用次数。"
+    },
+    {
+      "Key": "202a55c7a5b24b339f27cbb5543fee1c",
+      "SimpleName": "KnowledgeDomainProgressionDruid.Description",
+      "ProcessTemplates": true,
+      "enGB": "\nYou are a scholar and a sage of legends. In addition, you treat all Knowledge and Lore skills as class skills. Void Form: You can become semi-tangible as a standard action. While in this form, you are immune to critical hits and gain a +1 deflection bonus to AC. This bonus increases by 1 at 8th level and every 4 levels thereafter. You can use this power a number of rounds per day equal to your level in the class that gave you access to this domain. Teaching Moment: At 8th level as a swift action you can grant all allies within 30 feet special insights. Once during the next minute, each affected creature can choose to roll twice and take the better result before attempting an attack roll, ability check, skill check, or saving throw. You can use this ability once per day at 8th level, and one additional time per day for every 4 levels in the class that gave you access to this domain beyond 8th. Domain Spells: true strike, fox's cunning, communal see invisibility, death ward, true seeing, mass fox's cunning, power word blind, power word stun, power word kill.",
+      "zhCN": "\n你是位学者，一位传说中的圣贤。此外，你可将所有知识和学识{g|Encyclopedia:Skills}技能{/g}视为你的本职技能。\n虚空形态：作为{g|Encyclopedia:Standard_Actions}标准动作{/g}，你可进入半实体状态。进入此状态后，你将免疫{g|Encyclopedia:Critical}重击{/g}，且{g|Encyclopedia:Armor_Class}防御等级{/g}获得+1偏斜{g|Encyclopedia:Bonus}加值{/g}。在8级时，此加值会增加1点，随后每4级再增加1点。每天可使用{g|Encyclopedia:Combat_Round}轮数{/g}等于赋予你此领域的职业等级。\n授业时刻：8级时，作为{g|Encyclopedia:Swift_Action}迅捷动作{/g}，你可赋予30英尺范围内所有盟友特殊的洞察力。在下一分钟内，每个受影响生物在进行单次{g|Encyclopedia:Attack}攻击检定{/g}、{g|Encyclopedia:Ability_Scores}属性检定{/g}、技能{g|Encyclopedia:Check}检定{/g}或{g|Encyclopedia:Saving_Throw}豁免检定{/g}时，可选择投骰两次，并采用更高的{g|Encyclopedia:Dice}检定{/g}结果。在8级时，每天可使用一次此能力，8级后赋予你此领域的职业每升4级，可获得1次额外的使用次数。\n领域法术：克敌机先，狐之狡黠，共用识破隐形，防死结界，真知术，群体狐之狡黠，律令目盲，律令震慑，律令死亡。"
+    },
+    {
+      "Key": "460762daf8be4891bf86a7a8a58fa4df",
+      "SimpleName": "KnowledgeDomainProgressionDruid.Name",
+      "ProcessTemplates": false,
+      "enGB": "Knowledge Domain",
+      "zhCN": "知识领域"
+    },
+    {
+      "Key": "5a317e5c52a24a7aade5ed29bc75227a",
+      "SimpleName": "KnowledgeInvokeDeityAbility.Description",
+      "ProcessTemplates": true,
+      "IsUsed": false,
+      "enGB": "By holding aloft a holy symbol and calling your deity’s name, you take on an aspect of that divinity. When you cast this spell, choose a domain offered by your deity. You gain that domain’s benefits, along with the listed physical changes; abilities that allow a saving throw use this spell’s DC. \nKnowledge: You gain a +6 enhancement bonus to Intelligence.",
+      "zhCN": "通过高举一个圣徽并呼唤你信仰的神灵的名字，你就获得了祂的一部分神性。当你施展此法术时，选择一个由你的神祇提供的领域。您将获得该领域的好处，以及列出的物理变化；允许豁免检定的能力的DC等同该法术的DC。\n知识：你的智力获得+6增强加值。"
+    },
+    {
+      "Key": "ec174dad015846ddb4485922068cc89c",
+      "SimpleName": "KnowledgeInvokeDeityBuff.Description",
+      "ProcessTemplates": true,
+      "enGB": "By holding aloft a holy symbol and calling your deity’s name, you take on an aspect of that divinity. When you cast this spell, choose a domain offered by your deity. You gain that domain’s benefits, along with the listed physical changes; abilities that allow a saving throw use this spell’s DC. \nKnowledge: You gain a +6 enhancement bonus to Intelligence.",
+      "zhCN": "通过高举一个圣徽并呼唤你信仰的神灵的名字，你就获得了祂的一部分神性。当你施展此法术时，选择一个由你的神祇提供的领域。您将获得该领域的好处，以及列出的物理变化；允许豁免检定的能力的DC等同该法术的DC。\n知识：你的智力获得+6增强加值。"
+    },
+    {
+      "Key": "5f121fc71f6846c2a779e2d2d2b43470",
+      "SimpleName": "KnowledgeInvokeDeityBuff.Name",
+      "ProcessTemplates": false,
+      "enGB": "Invoke Deity - Knowledge Domain",
+      "zhCN": "召唤神灵 - 知识领域"
+    },
+    {
+      "Key": "d9eb7c9f822d447d8bcc09820a1d58b6",
+      "SimpleName": "KofusachiFeature.Description",
+      "ProcessTemplates": true,
+      "enGB": "\nTitles: The Laughing God   \nAlignment: Chaotic Good   \nAreas of Concern: Abundance, Discovery, Happiness, Prosperity   \nDomains: Chaos, Charm, Good, Luck, Travel   \nSubdomains: Azata, Exploration, Fate, Love, Lust,  Trade   \nFavoured Weapon: Quarterstaff   \nHoly Symbol: String of seven coins   \nSacred Animal: Dog   \nKofusachi, the Laughing God, is the deity of happiness, prosperity, and abundance. His blessing is invoked when a child is born, at weddings, before business deals, and at the beginning of long journeys. He is depicted as a plump, bald man, always smiling, with bare, calloused feet, a walking stick in hand, and a dog at his heels. An incurable wanderer and inveterate libertine, Kofusachi has taken numerous gods and goddesses as lovers. Though his wanderlust always keeps such relationships from becoming too serious, Kofusachi is fast friends with Daikitsu, Desna, and Shelyn.",
+      "zhCN": "\n称号：笑面仙\n阵营：混乱善良\n神职：丰富、发现、幸福、繁荣\n领域：混乱、魅力、善良、幸运、旅行\n子领域：爱塔、探索、天命、爱慕、情欲、交易\n偏好武器：木棍\n圣徽：七文钱串\n圣兽：狗\n笑面仙国府幸是福气、财富与丰足之神，当有喜事将至，比如生子、嫁娶，以及买卖和远行之前人们都会祈求他的祝福。国府幸的形象通常是一个秃顶而大腹便便，笑嘻嘻的老头，光着脚丫子，一手擎着一支拐杖，身边跟着一条忠犬。  国府幸是一个不可救药和放浪不羁的游荡者，男女通吃但是又总是在最后一刻撒手以免把事情闹大，他和大狐女，黛斯娜和莎琳的关系都很好。"
+    },
+    {
+      "Key": "45cd7035a74e4fc985b8f9558ded7b25",
+      "SimpleName": "KofusachiFeature.Name",
+      "ProcessTemplates": false,
+      "enGB": "Kofusachi",
+      "zhCN": "国府幸"
+    },
+    {
+      "Key": "3d3d71d0ea054073b1dc8ed7c6d88852",
+      "SimpleName": "KoradaFeature.Description",
+      "ProcessTemplates": true,
+      "enGB": "\nTitles: The Open Hand of Harmony   \nAlignment: Neutral Good   \nAreas of Concern: Foresight, Forgiveness, Peace   \nDomains: Good, Healing, Magic, Protection   \nSubdomains: Agathion, Defense, Divine, Restoration   \nFavoured Weapon: Unarmed strikes   \nHoly Symbol: Lotus above two figures    \nSacred Animal: Monkey   \nKorada is neither young nor old, only present and wise. Sparse light brown fur covers his body, and his three monkey tails constantly writhe behind him like the flickering flames of a fire. He carries no weapons; when spurred to anger, the Open Hand of Harmony uses only his hands and millennia of martial training to defend himself, refusing to cause lethal harm to his attacker. Korada's holy symbol has several incarnations based on the viewer's region and the local ideals of enlightenment and peace, though the most common representation is that of two kneeling figures before a lotus. Many who are weary from a lifetime of imbalance or violence turn to Korada in search of peace. Retired soldiers, their hands stained with blood, lay down their weapons forever in the name of this empyreal lord. Likewise, diplomats in strange lands, individuals facing difficult moral choices, and champions of evil who long for absolution all find comfort in the teachings of the OpenHand of Harmony. While true repentance is necessary for evil to turn to good, Korada believes that no mortals are beyond redemption. Korada is said to possess the gift of foresight, but he rarely acts on these strange visions. He believes the struggle to change is always worthwhile, even if such a journey does not always end in success. It is the process, not the result, that matters most to Korada and his followers. When he is not teaching lessons of harmony to his devotees, Korada resides in Nirvana, in the heart of the Dream Lotus-an efflorescent palace whose blossoming violet walls always drip with cool, golden nectar that is said to calm even the wildest of spirits.",
+      "zhCN": "\n称号：和谐之手 \n阵营：中立善良 \n神职：远见、宽恕、和平 \n领域：善良、治疗、魔法、保护 \n子领域：Agathion、防御、神圣、恢复 \n偏好武器：徒手攻击 \n圣徽：莲花上方两个数字\n圣兽：猴科拉达既不幼年也不老，只有在场和智慧。稀疏的浅棕色毛皮覆盖着他的身体，三条猴尾在他身后不断地扭动，就像一团火光闪烁。他没有携带武器；当被激怒时，和谐之手只用他的双手和几千年的武术训练来保护自己，拒绝对攻击者造成致命的伤害。科拉达的圣徽根据观众所在的地区和当地的启蒙与和平理想有几个化身，尽管最常见的表现是两个跪在莲花前的人物。许多因一生不平衡或暴力而感到厌倦的人转向科拉达寻求和平。双手沾满鲜血的退伍军人，以这位至尊圣主的名义，永远放下武器。同样，在陌生土地上的外交官、面临艰难道德选择的个人以及渴望得到赦免的邪恶拥护者都在和谐之手的教导中找到了安慰。虽然真正的悔改对于邪恶转向善良是必要的，但科拉达相信没有凡人是无法救赎的。据说科拉达拥有远见的天赋，但他很少对这些奇怪的愿景采取行动。他相信变革的努力总是值得的，即使这样的旅程并不总是以成功告终。对科拉达和他的追随者来说，最重要的是过程，而不是结果。当他不向他的信徒传授和谐课程时，科拉达居住在涅槃，在梦莲花的中心——一座盛开的宫殿，其盛开的紫罗兰色的墙壁总是滴下凉爽的金色花蜜，据说即使是最狂野的灵魂也能平静下来。"
+    },
+    {
+      "Key": "f38ad177856145fead44501a2962264c",
+      "SimpleName": "KoradaFeature.Name",
+      "ProcessTemplates": false,
+      "enGB": "Korada",
+      "zhCN": "科拉达"
+    },
+    {
+      "Key": "4f11f8ad55964b58956fe5dd2bcb19e0",
+      "SimpleName": "KurgessFeature.Description",
+      "ProcessTemplates": true,
+      "enGB": "\nTitles: The Strong Man   \nAlignment: Neutral Good   \nAreas of Concern: Bravery, Competition, Sport   \nDomains: Community, Good, Luck, Strength, Travel   \nSubdomains: Agathion, Competition, Family, Fate, Home, Resolve, Trade   \nFavoured Weapon: Javelin   \nHoly Symbol: Flexing arm with chain   \nSacred Animal: Horse   \nKurgess, the Strong Man, was once a mortal of peerless physical prowess. As legends of his sporting victories and his noble death spread across the Inner Sea region—and even other planes—athletes began looking to Kurgess as a role model, and competitions were often dedicated to him as the embodiment of honor and athleticism. Shortly thereafter, Cayden Cailean and Desna raised Kurgess to godhood, crowning him with deific powers. Why they did this remains up for debate, but more than a few scholars whisper that Kurgess might actually be the two deities’ half-mortal son. He stands as patron of and inspiration for all who engage in physical challenges.",
+      "zhCN": "\n称号：强者\n阵营：中立善良\n神职：勇敢、竞争、运动\n领域：联盟、善良、幸运、力量、旅行\n子领域：盖森、竞技、家族、天命、家园、决意、交易\n偏好武器：标枪\n圣徽：攥着黄金锁链的强壮手臂\n圣兽：马\n库尔吉斯，曾经只是来自于塔尔多的一个农场男孩，从童年时期就展现出了超人的力量的库尔吉斯最终因为他在赛场上无私的牺牲而登神。被称为“强者”的库尔吉斯既是一个冠军，也是对于那些追求运动成就和全力以赴参与竞争之人的光辉榜样，无论他们最终是否胜出。\n无论是库尔吉斯的牧师还是普通的信徒，信仰库尔吉斯的人都相信强健的身体和刚强的心灵是通往涅槃之门的双重支柱，而且大多数信徒都为了实现这些理念而不懈地锻炼。库尔吉斯的信徒陶醉于自身的强壮，也热衷于展示这份强壮，但与其说这是炫耀，不如说他们渴望于激励他人开发自身的潜能。固然库尔吉斯的教义更强调身体的强健，但发誓和其他施法者也偶尔能从强者的范例中得到启迪，用那些传统的信徒进行体能锻炼时同样的热情去钻研魔法。一些施法者相信，保持良好的身体状态有助于帮助大脑保持敏锐。他们主动地寻求肉体的锻炼，将其视为发展精神的敏锐力和耐力的一部分。无论他们采取什么方法进行锻炼，库尔吉斯的信徒通常都是欢快且相互鼓励的。即使在面对他们的宿敌时也是如此。而他们的伙伴也常常不禁被他们的热情所鼓舞。\n虽然库尔吉斯的信徒愿意在战斗中展示他们的力量，尤其是在保护他人，或者捍卫自己的理想的情况下，但致命的战斗，乃至他们最可怕的敌人的死亡对强者的信徒而言都毫无乐趣可言。总体而言，库尔吉斯的信徒是一个轻松的群体，他们更偏爱训练，比赛和气氛友好的竞争，而不是战争与流血冲突。不过，再有需要的时候，人们也能在前线战场发现库尔吉斯信徒的身影，并且那些英雄主义的组织，例如终焉之墙骑士团，就经常在队伍中吸纳库尔吉斯的信徒作为成员。"
+    },
+    {
+      "Key": "30446d9c11c34cfe9bd3552f5fa7b8f0",
+      "SimpleName": "KurgessFeature.Name",
+      "ProcessTemplates": false,
+      "enGB": "Kurgess",
+      "zhCN": "库尔吉斯"
+    },
+    {
+      "Key": "feb1f7a6c6dd480aac5c13145b2bc08e",
+      "SimpleName": "LadyNanbyoFeature.Description",
+      "ProcessTemplates": true,
+      "enGB": "\nTitles: The Widow of Suffering   \nAlignment: Chaotic Evil   \nAreas of Concern: Earthquakes, Fire, Plague, Suffering   \nDomains: Chaos, Destruction, Evil, Fire, Plant   \nSubdomains: Ash, Catastrophe, Decay, Demon, Rage, Smoke   \nFavoured Weapon: Warhammer   \nHoly Symbol: Flaming rift in the earth   \nSacred Animal: Crow   \nLady Nanbyo is the goddess of plague, fire, earthquakes, and other calamities. Even tsunamis and volcanic eruptions (usually the work of Hei Feng and Yamatsumi, respectively) are typically blamed on Lady Nanbyo, for she eagerly adds her own torments to such catastrophes and delights in the pain and suffering that follow in their wake. At the same time, however, people pray to Lady Nanbyo to spare them during such times of upheaval. Called the Widow of Suffering, Lady Nanbyo has been married many times, but all of her husbands have met terrible and tragic ends. While Lady Nanbyo can appear as a seductive woman when she wishes, her true form is said to be that of a ravenous, firebreathing dragon with a dozen legs.",
+      "zhCN": "\n称号：苦难寡妇 \n阵营：混乱邪恶 \n神职：地震、火、瘟疫、苦难\n领域：混乱、毁灭、邪恶、烈火、植物 \n子领域：灰烬、天灾、腐朽、邪魔、狂暴、烟幕\n偏好武器：战锤\n圣徽：大地上燃烧的裂谷\n圣兽：乌鸦\n病难母是瘟疫.火焰,地震和其他灾害的代表女神,大多数时候，那些不归病难母掌管的灾祸（比如黑风搅起的海啸和山积制造的火山爆发）也会被归罪到她的头上，虽然她只是乐意于在它们袭来以后再用自己偏爱的方式推波助澜一把，然后满意的看着那些饱经磨难的凡人对自己烧香膜拜以求免祸。病难母以苦寡妇的名号为人们所熟知，传说她曾经下嫁多次，但是每个和她成亲的男人都落得个被克死的下场。大多数时候，病难母会以美艳的少妇形象出现，不过据说她的本相则是一条暴虐无比，吞吐烈焰的多爪帝龙。"
+    },
+    {
+      "Key": "5574a7ae93584f74b21e39c554150e34",
+      "SimpleName": "LadyNanbyoFeature.Name",
+      "ProcessTemplates": false,
+      "enGB": "Lady Nanbyo",
+      "zhCN": "病难母"
+    },
+    {
+      "Key": "44cfe3bd69c84e1b9f07ca7fde904b3d",
+      "SimpleName": "LalaciFeature.Description",
+      "ProcessTemplates": true,
+      "enGB": "\nTitles: He of Motley Repose   \nAlignment: Chaotic Good   \nAreas of Concern: Rainbows, Relaxation, Shade   \nDomains: Chaos, Good, Luck, Sun   \nSubdomains: Azata, Fate, Light, Whimsy   \nFavoured Weapon: Sling (Slingstaff)   \nHoly Symbol: Rainbow with shadow   \nSacred Animal: Lacewing   \nLalaci sees the beauty in conflict. The sun wars with the rain and creates a rainbow, and He of Motley Repose believes that everyone's inner nature should be a similar mix of action and restraint, placid adoration and righteous scorn. He offers rest and relaxation to those who meet each day with excitement and vigor and who may be tired from the chaotic beauty that is their life. To mortal eyes, Lalaci appears to be fair-skinned with white-blonde hair and yellow-white eyes. He tucks the two prismatic wings that curve from his shoulders down so that he appears to wear a beautiful multicolored cloak, though among his own kind he walks in his true naked form, with crystalline flesh that refracts light as golden rays. He of Motley Repose provides rest to the hardworking and shade to those exhausted from the sun. Glassblowers and illusionists often find creative inspiration in Lalaci's rainbows; particularly gifted glass artists and lightweavers who lead worthy lives sometimes find small prisms at their workstations-tokens of Lalaci's favor. His devotees claim that the reflections of rainbows in natural bodies of water create portals to his celestial domain: an enormous, warped gla s s palace that floats on a cloud across the surface of Elysium.",
+      "zhCN": "\n称号：七彩长眠者\n阵营：混乱善良 \n神职：彩虹、休闲、阴影 \n领域：混乱、善良、幸运、太阳\n子领域：爱塔、天命、光明、滑稽\n偏好武器：吊索（投石杖） \n圣徽：带阴影的彩虹\n圣兽：草蜻蛉\n拉剌奇看到了冲突中的美。太阳与雨交相辉映，创造出彩虹，七彩长眠者认为，每个人的内在本性都应该是类似的混合行动和克制，平静的崇拜和正义的蔑视。他为那些每天都充满兴奋和活力的人提供休息和放松，他们可能会因生活中混乱的美丽而感到疲倦。\n在凡人眼中，拉剌奇似乎皮肤白皙，有着白金色的头发和黄白色的眼睛。他把从肩膀上弯曲的两个棱柱形翅膀掖好，这样他看起来就穿着一件漂亮的彩色斗篷，尽管在他自己的同类中，他以真正赤裸的形式行走，水晶般的肉体折射出金色的光芒。\n七彩长眠者为辛勤工作的人提供休息，为那些因太阳而疲劳的人提供阴凉。吹玻璃工和魔术师经常在拉剌奇的彩虹中找到创意灵感；特别有天赋的玻璃艺术家和过着有价值生活的织光师有时会在他们的工作站上找到小棱镜——这是拉剌奇青睐的象征。他的信徒声称，自然水体中彩虹的反射创造了通往他的天界的门户：奔放之野云端一座巨大扭曲的玻璃城堡，漂浮在极乐境表面的云层上。"
+    },
+    {
+      "Key": "2ea2124c29414986a7b509b9b5184b8b",
+      "SimpleName": "LalaciFeature.Name",
+      "ProcessTemplates": false,
+      "enGB": "Lalaci",
+      "zhCN": "拉剌奇"
+    },
+    {
+      "Key": "d160efcb44df480f854670f07ddf2f92",
+      "SimpleName": "LanishraFeature.Description",
+      "ProcessTemplates": true,
+      "enGB": "\nTitles: The Slavelord   \nAlignment: Chaotic Neutral   \nAreas of Concern: Slavery, Subjugation, Tyranny   \nDomains: Chaos, Evil, Nobility, Strength   \nSubdomains: Demon, Resolve, Slavery, Tyranny   \nFavoured Weapon: Heavy flail   \nHoly Symbol: Sabre-tooth tiger skull   \nSacred Animal: Sabre-toothed tiger   \nLanishra is the orc god of rulership. He assures orcs of their inherent superiority over all other humanoids, and over most other creatures as well. The Slavelord does not believe in peers, teaching that in all relationships one party is superior to the other. An orc must know his place in the pecking order, but he must never be satisfied unless he’s at the top. For a follower of Lanishra, it’s better to be feared than loved, for only those who can dominate others deserve to lead. Lanishra is depicted as an orc chieftain, richly attired (for an orc), but armed for a fight. His favored weapon is the war flail—a mockery of the farmer’s tool, unsuitable for threshing grain but ideal for flaying those who disobey him or deign to think themselves his better. Lanishra teaches that a warrior’s job is to excel at warfare and that manual labor is beneath him. The reward for a warrior’s work is the free acquisition of the goods produced by those he conquers—both from their past labors and those carried out under his whip. Lanishra’s philosophy is most at odds with those of Nulgreth and Zagresh, who would rather kill than enslave. Yet his fiercest rival is Verex, whose desire for slaves equals the Slavelord’s; despite their shared goal, the two rarely get along. Tribes dedicated to Lanishra are heavily involved in the slave trade, though even tribes devoted to other gods may have priests of the Slavelord to oversee their chattel. Many orc chieftains promote the worship of Lanishra, as his teachings legitimize their rule and supremacy.",
+      "zhCN": "\n称号：奴隶主\n阵营：混乱中立\n神职：奴隶制、征服、暴政\n领域：混乱、邪恶、崇高、力量\n子领域：恶魔、决意、奴隶、专制\n偏好武器：重型连枷\n圣徽：剑齿虎头骨\n圣兽：剑齿虎\n拉尼什拉是兽人的统治之神。他向兽人保证，他们比所有其他类人生物，以及大多数其他生物，都有与生俱来的优越性。奴隶领主不相信平等关系，认为在所有关系中一方都比另一方优越。一个兽人必须清楚自己在等级秩序中的位置，但除非他处于顶端，否则他永远不会满足。对于拉尼什拉的追随者来说，被人畏惧比被人爱戴更好，因为只有那些能够支配他人的人才值得作为领袖。\n拉尼什拉被描绘成一个兽人酋长，衣着华丽（对于兽人来说），但全副武装时刻准备着战斗。他最偏好武器是连枷——这是对农民工具的嘲弄，不适合打谷，但非常适合从那些不服从他或自以为是比他强的人那剥皮。\n拉尼什拉教导说，战士的工作是在战争中出类拔萃，体力劳动是不适合他的。战士工作的回报是免费获得他征服的人所生产的货物——包括他们过去的劳动和在他的鞭子下进行的那些。\n拉尼什拉的哲学与宁可杀戮也不愿奴役的努尔格雷斯和萨格勒什的哲学最不一致。然而，他最凶猛的对手是威雷克斯，他对奴隶的渴望与奴隶主不相上下。尽管他们有共同的目标，但两人很少相处。信仰拉尼什拉的部落大量参与奴隶贸易，即使是信奉其他神灵的部落也可能有奴隶主的祭司来监督他们的动产。\n许多兽人酋长提倡对拉尼什拉的崇拜，因为他的教义使他们的统治和霸权守序化。"
+    },
+    {
+      "Key": "4a89d908a01c4fcbb26a557f580006b9",
+      "SimpleName": "LanishraFeature.Name",
+      "ProcessTemplates": false,
+      "enGB": "Lanishra",
+      "zhCN": "拉尼什拉"
+    },
+    {
+      "Key": "01026afc334340f6accfef751d4b4e0f",
+      "SimpleName": "LaoShuPoFeature.Description",
+      "ProcessTemplates": true,
+      "enGB": "\nTitles: Old Rat Woman   \nAlignment: Neutral Evil   \nAreas of Concern: Night, Rats, Thieves   \nEdict: Work quietly toward your goals in the shadows, steal what you need, keep an ear among the ignored and downtrodden   \nDomains: Animal, Darkness, Evil, Luck, Trickery   \nSubdomains: Curse, Daemon, Fur, Loss, Night, Thievery   \nFavoured Weapon: Dagger   \nHoly Symbol: Emaciated Rat   \nSacred Animal: Rat   \nLao Shu Po, or Old Rat Woman, was not always a goddess. Once, long ago, she was simply a rat, skulking in the shadows. When Fumeiyoshi killed his brother Tsukiyo, Lao Shu Po crept into the moon god’s grave to feed on Tsukiyo’s corpse. She absorbed some of Tsukiyo’s divine power, such that when Tsukiyo was returned to life and Fumeiyoshi was banished from heaven, she was able to steal the portfolio of night from Fumeiyoshi, becoming the goddess of night, thieves, and rats. Lao Shu Po is the patron of thieves and of many wayangs, who pray to her to hide their activities in the dark of night. Lao Shu Po appears as an old hag or as an immense, six-legged rat.",
+      "zhCN": "\n称号：老鼠夫人\n阵营：中立邪恶 \n神职：夜晚、老鼠、盗贼\n信条：在阴影中安静地朝着你的目标努力，偷走你需要的东西，留意被忽视和受压迫的\n领域：动物、黑暗、邪恶、幸运、诡计\n子领域：诅咒、邪魔、毛兽、失却、暗夜、盗窃 \n偏好武器：匕首 \n圣徽：瘦弱的老鼠\n圣兽：老鼠\n老鼠婆，或者也被称为鼠夫人，是一个相对年轻的神祗。很久以前，老鼠婆不过是一条在阴影中窜来窜去的大老鼠，当文业犯下弑兄罪行以后，它偷偷刨开了死去月神的坟墓，嚼食了一部分月夜的尸身。也正是因此，老鼠婆窃取了一部分月夜的神力，并在月夜复活，文业被贬下天界之后又偷来了文业以前的夜神之职，得以登上暗夜，鼠类和盗窃之神的位置。老鼠婆是盗贼和一部分剪影人的守护神，用黑暗的夜色遮蔽她信徒的踪迹。老鼠婆通常化身为一个老鬼婆或者一头巨大的，六只脚爪的老鼠。"
+    },
+    {
+      "Key": "7e6c82ecb458493da43ee328d81ecf16",
+      "SimpleName": "LaoShuPoFeature.Name",
+      "ProcessTemplates": false,
+      "enGB": "Lao Shu Po",
+      "zhCN": "老鼠婆"
+    },
+    {
+      "Key": "a29e08f2f19a44a2a020e86869f7eeda",
+      "SimpleName": "LawInvokeDeityAbility.Description",
+      "ProcessTemplates": true,
+      "IsUsed": false,
+      "enGB": "By holding aloft a holy symbol and calling your deity’s name, you take on an aspect of that divinity. When you cast this spell, choose a domain offered by your deity. You gain that domain’s benefits, along with the listed physical changes; abilities that allow a saving throw use this spell’s DC. \nLaw: You are immune to confusion effects, gain a +4 bonus on saving throws against transmutation spells, and weapons you wield count as lawful for the purpose of overcoming damage reduction.",
+      "zhCN": "通过高举一个圣徽并呼唤你信仰的神灵的名字，你就获得了祂的一部分神性。当你施展此法术时，选择一个由你的神祇提供的领域。您将获得该领域的好处，以及列出的物理变化；允许豁免检定的能力的DC等同该法术的DC。\n秩序：你免疫困惑，在对抗变形法术的豁免检定上获得 +4 加值，并且你使用的武器在穿透伤害减免时被视为守序武器。"
+    },
+    {
+      "Key": "efb89a6460a345cbbab6342aea15475e",
+      "SimpleName": "LawInvokeDeityBuff.Description",
+      "ProcessTemplates": true,
+      "enGB": "By holding aloft a holy symbol and calling your deity’s name, you take on an aspect of that divinity. When you cast this spell, choose a domain offered by your deity. You gain that domain’s benefits, along with the listed physical changes; abilities that allow a saving throw use this spell’s DC. \nLaw: You are immune to confusion effects, gain a +4 bonus on saving throws against transmutation spells, and weapons you wield count as lawful for the purpose of overcoming damage reduction.",
+      "zhCN": "通过高举一个圣徽并呼唤你信仰的神灵的名字，你就获得了祂的一部分神性。当你施展此法术时，选择一个由你的神祇提供的领域。您将获得该领域的好处，以及列出的物理变化；允许豁免检定的能力的DC等同该法术的DC。\n秩序：你免疫困惑，在对抗变形法术的豁免检定上获得 +4 加值，并且你使用的武器在穿透伤害减免时被视为守序武器。"
+    },
+    {
+      "Key": "e7975061d49a460fadf96c8767122811",
+      "SimpleName": "LawInvokeDeityBuff.Name",
+      "ProcessTemplates": false,
+      "enGB": "Invoke Deity - Law Domain",
+      "zhCN": "召唤神灵——秩序领域"
+    },
+    {
+      "Key": "4ca806a100044c338f88fad4f8a4f425",
+      "SimpleName": "LiberationInvokeDeityAbility.Description",
+      "ProcessTemplates": true,
+      "IsUsed": false,
+      "enGB": "By holding aloft a holy symbol and calling your deity’s name, you take on an aspect of that divinity. When you cast this spell, choose a domain offered by your deity. You gain that domain’s benefits, along with the listed physical changes; abilities that allow a saving throw use this spell’s DC. \nLiberation: You gain a +6 enhancement bonus to Dexterity.",
+      "zhCN": "通过高举一个圣徽并呼唤你信仰的神灵的名字，你就获得了祂的一部分神性。当你施展此法术时，选择一个由你的神祇提供的领域。您将获得该领域的好处，以及列出的物理变化；允许豁免检定的能力的DC等同该法术的DC。\n解放：你的敏捷获得+6增强加值。"
+    },
+    {
+      "Key": "f7c6652424b1466a894916b9fdcbfa67",
+      "SimpleName": "LiberationInvokeDeityBuff.Description",
+      "ProcessTemplates": true,
+      "enGB": "By holding aloft a holy symbol and calling your deity’s name, you take on an aspect of that divinity. When you cast this spell, choose a domain offered by your deity. You gain that domain’s benefits, along with the listed physical changes; abilities that allow a saving throw use this spell’s DC. \nLiberation: You gain a +6 enhancement bonus to Dexterity.",
+      "zhCN": "通过高举一个圣徽并呼唤你信仰的神灵的名字，你就获得了祂的一部分神性。当你施展此法术时，选择一个由你的神祇提供的领域。您将获得该领域的好处，以及列出的物理变化；允许豁免检定的能力的DC等同该法术的DC。\n解放：你的敏捷获得+6增强加值。"
+    },
+    {
+      "Key": "e3ecff9a43d64914beb317330c2498bf",
+      "SimpleName": "LiberationInvokeDeityBuff.Name",
+      "ProcessTemplates": false,
+      "enGB": "Invoke Deity - Liberation Domain",
+      "zhCN": "召唤神灵——解放领域"
+    },
+    {
+      "Key": "dcf93abfee98445eb8af11b4118f70d2",
+      "SimpleName": "LichDeityFeature.Description",
+      "ProcessTemplates": true,
+      "IsUsed": false,
+      "enGB": "Leader of a small cult of undead, created by h own hands,  became famous as the indomitable commander of the Fifth Mendevian Crusade against the Worldwound. Determined to destroy the forces of the Abyss at any cost, he ventured on the path of the L of Death. For millennia, powerful necromancers have dreamed of a power that could rival the divine. They have created cults in their own names, and attracted many followers. Thanks to h legendary powers,  has managed to achieve much greater success than the others: he has acquired a talent to bestow divine spells upon h followers. From that moment, the undead created by h needed no other deities to cast spells.\nDomains: Death, Evil, Strength, War. \nFavoured Weapons: Scythe, Sickle.",
+      "zhCN": "{name}是蒙蒂维对抗世界之伤的第五次圣战指挥官，领导着由{mf|他|她}亲手建立的一支小型死灵教团。在下定决心要不惜一切代价消灭深渊的势力后，{mf|他|她}铤而走险，成为了一名死亡{mf|领主|女士}。千百年来，强大的死灵法师们一直梦想着拥有能与神灵相媲美的力量。他们以自己的名义建立了教派，并吸引了许多追随者。凭借{mf|他|她}的传奇力量，{name}比其他人取得了更进一步的成功：{mf|他|她}获得了一种天赋，可以赐予{mf|他|她}的追随者施展神术的能力。从此，{mf|他|她}创造的不死生物在施法时不必再依靠其他神祇。\n领域：死亡，邪恶，力量，战争。\n偏好武器：巨镰、镰刀。"
+    },
+    {
+      "Key": "f1ef28cf5f3344dbb8f5f2a78d7abc1d",
+      "SimpleName": "LionShamanArchetype.Description",
+      "ProcessTemplates": false,
+      "enGB": "A druid with this totem calls upon the proud lion, imposing and majestic, the mighty leader of deadly hunters.",
+      "zhCN": "雄狮德鲁伊有着狮子的荣耀、雄伟的气势，他们是强壮的领导者和致命的猎手。"
+    },
+    {
+      "Key": "9f4b2a48a3f643b6a2a52d560c98c8c6",
+      "SimpleName": "LionShamanArchetype.Name",
+      "ProcessTemplates": false,
+      "enGB": "Lion Totem Druid",
+      "zhCN": "雄狮德鲁伊"
+    },
+    {
+      "Key": "7cf8d93c518641f5adfa5a375bdeab83",
+      "SimpleName": "LionShamanBonusFeatSelection.Description",
+      "ProcessTemplates": true,
+      "enGB": "At 9th level and every 4 levels thereafter, a lion totem druid gains one of the following bonus feats: Dodge, Lunge, Improved Iron Will, Iron Will, or Skill Focus (Acrobatics). She must meet the prerequisites for these bonus feats.",
+      "zhCN": "在9级和之后的每4级，雄狮德鲁伊可以选择一个奖励专长，他的奖励专长必须从以下专长中选取：闪避、突刺、钢铁意志、精通钢铁意志、技能专攻（特技）。他必须要达到条件才能选取这些奖励专长。"
+    },
+    {
+      "Key": "6101461166a7418eb90b30b52fe51380",
+      "SimpleName": "LionShamanBonusFeatSelection.Name",
+      "ProcessTemplates": false,
+      "enGB": "Lion Totem Druid Bonus Feat",
+      "zhCN": "雄狮德鲁伊奖励专长"
+    },
+    {
+      "Key": "44ee8127c483488e9dba689602652a96",
+      "SimpleName": "LionShamanCompanionSelection.Description",
+      "ProcessTemplates": true,
+      "enGB": "Unlike normal animals of its kind, an animal companion's Hit Dice, abilities, skills, and feats advance as the druid advances in level. If a character receives an animal companion from more than one source, her effective druid levels stack for the purposes of determining the statistics and abilities of the companion. Most animal companions increase in size when their druid reaches 4th or 7th level, depending on the companion.",
+      "zhCN": "与同类的普通动物不同的是，动物伙伴的生命骰，属性，技能和专长都会随着德鲁伊等级的提升而增长。如果人物从多个来源获得了动物伙伴，将她的有效德鲁伊等级相互叠加以决定伙伴的数据和能力。根据伙伴种类的不同，大多数伙伴的体型会在德鲁伊达到4级或7级时增长。具体取决于伙伴类型。"
+    },
+    {
+      "Key": "579daab041214948bbe008d5f3f5b616",
+      "SimpleName": "LionShamanCompanionSelection.Name",
+      "ProcessTemplates": false,
+      "enGB": "Lion Totem Animal Companion",
+      "zhCN": "狮图腾动物伙伴"
+    },
+    {
+      "Key": "5566249330e242f0b0ab83fc3b5172c7",
+      "SimpleName": "LionShamanDomainSelection.Description",
+      "ProcessTemplates": true,
+      "enGB": "A lion totem druid who chooses an animal companion must select a feline. If choosing a domain, the lion totem druid must choose from the Animal, Glory, Nobility, and Sun domains.",
+      "zhCN": "雄狮德鲁伊动物伙伴只能选择狮子，如果他选择了领域能力，他必须从以下几个领域中挑选：动物、荣耀、崇高和太阳。"
+    },
+    {
+      "Key": "7fad0f16e592430eaa94c8719f69659d",
+      "SimpleName": "LionShamanDomainSelection.Name",
+      "ProcessTemplates": false,
+      "enGB": "Lion Totem Druids Bond",
+      "zhCN": "雄狮德鲁伊纽带"
+    },
+    {
+      "Key": "2619af29f76b4fe2a87b7bc2ae4ca7b4",
+      "SimpleName": "LionShamanTotemicSummonsFeature.Description",
+      "ProcessTemplates": true,
+      "enGB": "At 5th level, a lion totem druid may cast summon nature’s ally as a standard action when summoning felines, and summoned felines gain temporary hit points equal to their druid level. They can apply the young template to any feline to reduce the level of the summoning spell required by one. They can also increase the level of summoning required by one in order to apply either the advanced or the giant template, or increase it by two to apply both the advanced and giant templates.",
+      "zhCN": "5级时，在召唤猫科动物的时候，雄狮德鲁伊可以用一个标准动作施放召唤自然盟友，被召唤出来的猫科动物得到相当于其德鲁伊等级的额外生命值。他们可以将幼年模板应用到任何猫科动物身上，以降低一只猫科动物所需的召唤法术等级。也可以将召唤等级增加1级以应用高等或巨型模板，将召唤等级增加2级可以同时应用高等和巨型模板。"
+    },
+    {
+      "Key": "57389dfecbcc4665916062b1e3e3eccc",
+      "SimpleName": "LionShamanTotemicSummonsTempHitPoints.Description",
+      "ProcessTemplates": true,
+      "enGB": "A lion totem druid may cast summon nature’s ally as a standard action when summoning felines, and summoned felines gain temporary hit points equal to their druid level.",
+      "zhCN": "雄狮德鲁伊可以用一个标准动作施放召唤自然盟友，被召唤出来的猫科动物得到相当于其德鲁伊等级的额外生命值。"
+    },
+    {
+      "Key": "6a07aefdf0154ca3b82a52d0c8aa5af2",
+      "SimpleName": "LionShamanTotemTransformationAbilityMove.Description",
+      "ProcessTemplates": true,
+      "enGB": "As a move action a lion totem druid may adopt an aspect of the lion while retaining her normal form. They gain one of the following bonuses: \nMovement (+20 enhancement bonus to speed, +4 racial bonus on Mobility checks)\nSenses (Blind Fight feat, +4 on perception checks)\nNatural Weapons (bite attack dealing 1d4 damage and two claws dealing 1d4 damage for a Medium druid, +2 to CMB)",
+      "zhCN": "以一个移动动作，雄狮德鲁伊可以模拟猫科动物一部分的力量。他们获得以下加值之一：\n速度：得到20尺陆地移动速度的增强加值，灵巧检定获得+4种族加值。\n感官：盲斗专长，+4 感知检定。\n爪牙：中体型的雄狮德鲁伊得到啮咬（1d4），2爪抓（1d4），CMB+2加值。"
+    },
+    {
+      "Key": "c1c8753be8e24727a6452a9d80ea2e79",
+      "SimpleName": "LionShamanTotemTransformationAbilityMove.Name",
+      "ProcessTemplates": false,
+      "enGB": "Lion Totem Transformation - Move Action",
+      "zhCN": "狮图腾转化-移动动作"
+    },
+    {
+      "Key": "097b9ef8f0094d9da7a1266b8f2ed18d",
+      "SimpleName": "LionShamanTotemTransformationAbilityStandard.Description",
+      "ProcessTemplates": true,
+      "enGB": "As a standard action a lion totem druid may adopt an aspect of the lion while retaining her normal form. They gain one of the following bonuses: \nMovement (+20 enhancement bonus to speed, +4 racial bonus on Mobility checks)\nSenses (Blind Fight feat, +4 on perception checks)\nNatural Weapons (bite attack dealing 1d4 damage and two claws dealing 1d4 damage for a Medium druid, +2 to CMB)",
+      "zhCN": "以一个标准动作，雄狮德鲁伊可以模拟猫科动物一部分的力量。他们获得以下加值之一：\n速度：得到20尺陆地移动速度的增强加值，灵巧检定获得+4种族加值。\n感官：盲斗专长，+4 感知检定。\n爪牙：中体型的雄狮德鲁伊得到啮咬（1d4），2爪抓（1d4），CMB+2加值。"
+    },
+    {
+      "Key": "51e695df8b8544129f4eab6332a96f63",
+      "SimpleName": "LionShamanTotemTransformationAbilityStandard.Name",
+      "ProcessTemplates": false,
+      "enGB": "Lion Totem Transformation",
+      "zhCN": "狮图腾转化"
+    },
+    {
+      "Key": "e201b9e564c94e95846c8d90f2c9f72b",
+      "SimpleName": "LionShamanTotemTransformationAbilitySwift.Description",
+      "ProcessTemplates": true,
+      "enGB": "As a swift action a lion totem druid may adopt an aspect of the lion while retaining her normal form. They gain one of the following bonuses: \nMovement (+20 enhancement bonus to speed, +4 racial bonus on Mobility checks)\nSenses (Blind Fight feat, +4 on perception checks)\nNatural Weapons (bite attack dealing 1d4 damage and two claws dealing 1d4 damage for a Medium druid, +2 to CMB)",
+      "zhCN": "以一个迅捷动作，雄狮德鲁伊可以模拟猫科动物一部分的力量。他们获得以下加值之一：\n速度：得到20尺陆地移动速度的增强加值，灵巧检定获得+4种族加值。\n感官：盲斗专长，+4 感知检定。\n爪牙：中体型的雄狮德鲁伊得到啮咬（1d4），2爪抓（1d4），CMB+2加值。"
+    },
+    {
+      "Key": "d4b3558fd95542f99285c5408c4f210c",
+      "SimpleName": "LionShamanTotemTransformationAbilitySwift.Name",
+      "ProcessTemplates": false,
+      "enGB": "Lion Totem Transformation - Swift Action",
+      "zhCN": "狮图腾转化-迅捷动作"
+    },
+    {
+      "Key": "0d97d394cbb94ffeaaeca93ff89d149e",
+      "SimpleName": "LionShamanTotemTransformationFeature.Description",
+      "ProcessTemplates": true,
+      "IsUsed": false,
+      "enGB": "At 2nd level, a lion totem druid may adopt an aspect of the lion while retaining their normal form. They gain one of the following bonuses: \nMovement (+20 enhancement bonus to speed, +4 racial bonus on Mobility checks)\nSenses (Blind Fight feat, +4 on perception checks)\nNatural Weapons (bite attack dealing 1d4 damage and two claws dealing 1d4 damage for a Medium druid, +2 to CMB)\nUsing this ability is a standard action at 2nd level, a move action at 7th level, and a swift action at 12th level. This ability lasts one minute and can be used a number of times equal to their druid level. This is a polymorph effect and cannot be used while the druid is using another polymorph effect, such as wild shape.",
+      "zhCN": "2级时，雄狮德鲁伊可以模拟猫科动物一部分的力量。他们获得以下加值之一：\n速度：得到20尺陆地移动速度的增强加值，灵巧检定获得+4种族加值。\n感官：盲斗专长，+4 感知检定。\n爪牙：中体型的雄狮德鲁伊得到啮咬（1d4），2爪抓（1d4），CMB+2加值。使用此能力在 2 级是一个标准动作，在 7 级是一个移动动作，在 12 级是一个迅捷动作。这种能力持续一分钟，可以使用的次数等于他们的德鲁伊等级。这是一种变形效果，不能在德鲁伊使用另一种变形效果时使用，例如野性形态。"
+    },
+    {
+      "Key": "450f1d014e7e452484f30e4e2acd2e93",
+      "SimpleName": "LionShamanTotemTransformationMoveFeature.Description",
+      "ProcessTemplates": true,
+      "IsUsed": false,
+      "enGB": "At 2nd level, a lion totem druid may adopt an aspect of the lion while retaining their normal form. They gain one of the following bonuses: \nMovement (+20 enhancement bonus to speed, +4 racial bonus on Mobility checks)\nSenses (Blind Fight feat, +4 on perception checks)\nNatural Weapons (bite attack dealing 1d4 damage and two claws dealing 1d4 damage for a Medium druid, +2 to CMB)\nUsing this ability is a standard action at 2nd level, a move action at 7th level, and a swift action at 12th level. This ability lasts one minute and can be used a number of times equal to their druid level. This is a polymorph effect and cannot be used while the druid is using another polymorph effect, such as wild shape.",
+      "zhCN": "2级时，雄狮德鲁伊可以模拟猫科动物一部分的力量。他们获得以下加值之一：\n速度：得到20尺陆地移动速度的增强加值，灵巧检定获得+4种族加值。\n感官：盲斗专长，+4 感知检定。\n爪牙：中体型的雄狮德鲁伊得到啮咬（1d4），2爪抓（1d4），CMB+2加值。使用此能力在 2 级是一个标准动作，在 7 级是一个移动动作，在 12 级是一个迅捷动作。这种能力持续一分钟，可以使用的次数等于他们的德鲁伊等级。这是一种变形效果，不能在德鲁伊使用另一种变形效果时使用，例如野性形态。"
+    },
+    {
+      "Key": "58c8e9c36dab41b5b727f15e9b2a55a7",
+      "SimpleName": "LionShamanTotemTransformationMoveFeature.Name",
+      "ProcessTemplates": false,
+      "enGB": "Lion Totem Transformation (Move Action)",
+      "zhCN": "狮图腾转化（移动动作）"
+    },
+    {
+      "Key": "decd85c29c9745bdab8123f13d29ec60",
+      "SimpleName": "LionShamanTotemTransformationMovementBuff.Description",
+      "ProcessTemplates": true,
+      "IsUsed": false,
+      "enGB": "A lion totem druid may select which aspect of the lion to embue themselves with.\nMovement (+20 enhancement bonus to speed, +4 racial bonus on Mobility checks)",
+      "zhCN": "雄狮德鲁伊可以模拟猫科动物一部分的力量。\n速度：得到20尺陆地移动速度的增强加值，灵巧检定获得+4种族加值。"
+    },
+    {
+      "Key": "44c8afbced244fdcbaf917ee3968885d",
+      "SimpleName": "LionShamanTotemTransformationMovementBuff.Name",
+      "ProcessTemplates": false,
+      "enGB": "Lion Totem Transformation - Movement",
+      "zhCN": "狮图腾转化-速度"
+    },
+    {
+      "Key": "03bc059f009e4f9eb8c11955846ab453",
+      "SimpleName": "LionShamanTotemTransformationMovementToggleAbility.Description",
+      "ProcessTemplates": true,
+      "enGB": "A lion totem druid may select which aspect of the lion to embue themselves with.\nMovement (+20 enhancement bonus to speed, +4 racial bonus on Mobility checks)",
+      "zhCN": "雄狮德鲁伊可以模拟猫科动物一部分的力量。\n速度：得到20尺陆地移动速度的增强加值，灵巧检定获得+4种族加值。"
+    },
+    {
+      "Key": "7462a1c73f184425894fb4e3674d2ebf",
+      "SimpleName": "LionShamanTotemTransformationNaturalWeaponsBuff.Description",
+      "ProcessTemplates": true,
+      "IsUsed": false,
+      "enGB": "A lion totem druid may select which aspect of the lion to embue themselves with.\nNatural Weapons (bite attack dealing 1d4 damage and two claws dealing 1d4 damage for a Medium druid, +2 to CMB)",
+      "zhCN": "雄狮德鲁伊可以模拟猫科动物一部分的力量。\n爪牙：中体型的雄狮德鲁伊得到啮咬（1d4），2爪抓（1d4），CMB+2加值。"
+    },
+    {
+      "Key": "9777702483114145a85fe2074f58e92a",
+      "SimpleName": "LionShamanTotemTransformationNaturalWeaponsBuff.Name",
+      "ProcessTemplates": false,
+      "enGB": "Lion Totem Transformation - Natural Weapons",
+      "zhCN": "狮图腾转化-爪牙"
+    },
+    {
+      "Key": "4734f1de70fd414583f27c65b765fb2c",
+      "SimpleName": "LionShamanTotemTransformationNaturalWeaponsToggleAbility.Description",
+      "ProcessTemplates": true,
+      "enGB": "A lion totem druid may select which aspect of the lion to embue themselves with.\nNatural Weapons (bite attack dealing 1d4 damage and two claws dealing 1d4 damage for a Medium druid, +2 to CMB)",
+      "zhCN": "雄狮德鲁伊可以模拟猫科动物一部分的力量。\n爪牙：中体型的雄狮德鲁伊得到啮咬（1d4），2爪抓（1d4），CMB+2加值。"
+    },
+    {
+      "Key": "03f526af2b0d41289153c763121e4710",
+      "SimpleName": "LionShamanTotemTransformationSensesBuff.Description",
+      "ProcessTemplates": true,
+      "enGB": "A lion totem druid may select which aspect of the lion to embue themselves with.\nSenses (Blind Fight feat, +4 on racial bonus on perception checks)",
+      "zhCN": "雄狮德鲁伊可以模拟猫科动物一部分的力量。\n感官：盲斗专长，+4 感知检定。"
+    },
+    {
+      "Key": "6a7f53ef81e74eea829c6b43ec97a786",
+      "SimpleName": "LionShamanTotemTransformationSensesBuff.Name",
+      "ProcessTemplates": false,
+      "enGB": "Lion Totem Transformation - Senses",
+      "zhCN": "狮图腾转化-感官"
+    },
+    {
+      "Key": "419364f20bf440a8a54a77fa7b7d3b7b",
+      "SimpleName": "LionShamanTotemTransformationSensesToggleAbility.Description",
+      "ProcessTemplates": true,
+      "enGB": "A lion totem druid may select which aspect of the lion to embue themselves with.\nSenses (Blind Fight feat, +4 on perception checks)",
+      "zhCN": "雄狮德鲁伊可以模拟猫科动物一部分的力量。\n感官：盲斗专长，+4 感知检定。"
+    },
+    {
+      "Key": "9dc00df801704df4bf20ab1f4925e310",
+      "SimpleName": "LionShamanTotemTransformationSwiftFeature.Description",
+      "ProcessTemplates": true,
+      "enGB": "At 2nd level, a lion totem druid may adopt an aspect of the lion while retaining their normal form. They gain one of the following bonuses: \nMovement (+20 enhancement bonus to speed, +4 racial bonus on Mobility checks)\nSenses (Blind Fight feat, +4 on perception checks)\nNatural Weapons (bite attack dealing 1d4 damage and two claws dealing 1d4 damage for a Medium druid, +2 to CMB)\nUsing this ability is a standard action at 2nd level, a move action at 7th level, and a swift action at 12th level. This ability lasts one minute and can be used a number of times equal to their druid level. This is a polymorph effect and cannot be used while the druid is using another polymorph effect, such as wild shape.",
+      "zhCN": "在第 2 级，雄狮德鲁伊可以模拟猫科动物一部分的力量。他们获得以下加值之一：\n移动（+20 速度增强加值，+4 移动性检定种族加值）\n感官（盲斗专长，+4 感知检定）\n天生武器（啮咬攻击造成 1d4 伤害，两个爪子造成 1d4伤害,如果是中型德鲁伊，+2 CMB）使用此能力在 2 级是一个标准动作，在 7 级是一个移动动作，在 12 级是一个迅捷动作。这种能力持续一分钟，可以使用的次数等于他们的德鲁伊等级。这是一种变形效果，不能在德鲁伊使用另一种变形效果时使用，例如狂野变身。"
+    },
+    {
+      "Key": "6d67e7d6c03d4078906e1263d44fb838",
+      "SimpleName": "LionShamanTotemTransformationSwiftFeature.Name",
+      "ProcessTemplates": false,
+      "enGB": "Lion Totem Transformation (Swift Action)",
+      "zhCN": "狮图腾转化（迅捷动作）"
+    },
+    {
+      "Key": "582ebdf8147644769888dd8385a33ac5",
+      "SimpleName": "LionShamanWildShape.Description",
+      "ProcessTemplates": true,
+      "enGB": "A lion totem druid wild shape is effected by their dedication to feline sprits. All wild shape forms gained from level 6 onwards are gained 2 levels later than a standard druid, however feline forms are gained 2 levels earlier.",
+      "zhCN": "雄狮德鲁伊的野性形态受到他们对猫科动物的奉献精神影响。所有从 6 级开始获得的野性形态比标准德鲁伊推迟 2 级获得，但是猫科动物形态获得的时间提早 2 级。"
+    },
+    {
+      "Key": "d15180011a77461cacef9d8154c18ec9",
+      "SimpleName": "LionShamanWildShape.Name",
+      "ProcessTemplates": false,
+      "enGB": "Wild Shape - Lion Totem Druid",
+      "zhCN": "野性形态 - 雄狮德鲁伊"
+    },
+    {
+      "Key": "3d2b85c4110b44dcae8a149272b71fe8",
+      "SimpleName": "LivingScriptureArchetype.Description",
+      "ProcessTemplates": false,
+      "enGB": "The living scripture literally wields the sacred word of his deity, memorizing scripture to smite the foes of his god with divine might. Unlike most inquisitors, a living scripture focuses on careful study of divine scripture, valuing knowledge over intuition.",
+      "zhCN": "活圣经确实地应用他的神明的圣言，熟记圣经并以其神圣力量毁灭神的敌人。与大多数审判官不同，活圣经侧重于仔细研究神圣的经文，重视知识胜于直觉。"
+    },
+    {
+      "Key": "2b1c43e11cd74bf9aba8ee960ac4a0ec",
+      "SimpleName": "LongswordCompanion.Description",
+      "ProcessTemplates": true,
+      "enGB": "You gain an intelligent longsword companion.",
+      "zhCN": "你获得一个智能长剑伙伴。"
+    },
+    {
+      "Key": "aad6e8e30b1c4664aefce155cfdd925d",
+      "SimpleName": "LongswordCompanion.Name",
+      "ProcessTemplates": false,
+      "enGB": "Intelligent Longsword",
+      "zhCN": "智能长剑"
+    },
+    {
+      "Key": "8893093462ae4cb4bb75b39fb52a524b",
+      "SimpleName": "LuckInvokeDeityAbility.Description",
+      "ProcessTemplates": true,
+      "IsUsed": false,
+      "enGB": "By holding aloft a holy symbol and calling your deity’s name, you take on an aspect of that divinity. When you cast this spell, choose a domain offered by your deity. You gain that domain’s benefits, along with the listed physical changes; abilities that allow a saving throw use this spell’s DC. \nLuck: You gain a +1 luck bonus to your AC and on attack rolls, ability checks, saving throws, and skill checks.",
+      "zhCN": "通过高举一个圣徽并呼唤你信仰的神灵的名字，你就获得了祂的一部分神性。当你施展此法术时，选择一个由你的神祇提供的领域。您将获得该领域的好处，以及列出的物理变化；允许豁免检定的能力的DC等同该法术的DC。\n运气：你的 AC 和攻击检定、属性检定、豁免检定和技能检定获得 +1 运气加值。"
+    },
+    {
+      "Key": "0e54e2462f044bc489eec9e745bbe575",
+      "SimpleName": "LuckInvokeDeityBuff.Description",
+      "ProcessTemplates": true,
+      "enGB": "By holding aloft a holy symbol and calling your deity’s name, you take on an aspect of that divinity. When you cast this spell, choose a domain offered by your deity. You gain that domain’s benefits, along with the listed physical changes; abilities that allow a saving throw use this spell’s DC. \nLuck: You gain a +1 luck bonus to your AC and on attack rolls, ability checks, saving throws, and skill checks.",
+      "zhCN": "通过高举一个圣徽并呼唤你信仰的神灵的名字，你就获得了祂的一部分神性。当你施展此法术时，选择一个由你的神祇提供的领域。您将获得该领域的好处，以及列出的物理变化；允许豁免检定的能力的DC等同该法术的DC。\n运气：你的 AC 和攻击检定、属性检定、豁免检定和技能检定获得 +1 运气加值。"
+    },
+    {
+      "Key": "6fb814ad1f54424ea45c2ec20f44a9f0",
+      "SimpleName": "LuckInvokeDeityBuff.Name",
+      "ProcessTemplates": false,
+      "enGB": "Invoke Deity - Luck Domain",
+      "zhCN": "召唤神灵 - 幸运领域"
+    },
+    {
+      "Key": "70e563f8ced04cdb80c6981d8fa58323",
+      "SimpleName": "LustDomainBaseFeature.Description",
+      "ProcessTemplates": true,
+      "enGB": "\nYou can entrance friend and foe alike, able to inspire people or reduce them to a stunned stupor.\nDazing Touch: You can cause a living creature to become dazed for 1 round as a melee touch attack. Creatures with more Hit Dice than your level in the class that gave you access to this domain are unaffected. You can use this ability a number of times per day equal to 3 + your Wisdom modifier.\nAnything to Please: At 8th level, you can compel a creature within close range to attempt to please you as a standard action. The creature receives a Will save to negate this affect. If the save fails, the creature attacks your enemies for 1 round, stands stunned by you for 1 round, or drops prone and grovels for 1d4 rounds, chosen at random. You can use this ability once per day at 8th level and one additional time per day for every four levels beyond 8th. This is a mind-affecting effect.",
+      "zhCN": "\n你可以诱惑盟友和敌人，既能鼓舞人心，又能使人目瞪口呆陷入昏迷。\n眩晕之触：作为近战{g|Encyclopedia:TouchAttack}接触攻击{/g}，你的接触可使活物眩晕，效果持续1{g|Encyclopedia:Combat_Round}轮{/g}。{g|Encyclopedia:Hit_Dice}生命骰数{/g}超过赋予你此领域的职业等级的活物，将不会受到影响。每天可使用次数为{g|Encyclopedia:Wisdom}感知{/g}调整值+3。\n予取予求：8级时，你能以标准动作的心智效果强迫30尺生物服从。生物可用成功的意志豁免避免此效果，但若豁免失败，该生物将攻击你的敌人 1 轮，被你击晕 1 轮，或俯卧跪地 1d4 轮，随机选择。你能在8级每天使用此能力1次，每比8级高4级多1次。这是影响心灵的效果。"
+    },
+    {
+      "Key": "a13812e143314c7286dd337d2eafbf74",
+      "SimpleName": "LustDomainBaseFeature.Name",
+      "ProcessTemplates": false,
+      "enGB": "Lust Subdomain",
+      "zhCN": "情欲子域"
+    },
+    {
+      "Key": "c7e6033803394a25a2c56785503ce3a0",
+      "SimpleName": "LustDomainGreaterAbility.Description",
+      "ProcessTemplates": true,
+      "IsUsed": false,
+      "enGB": "At 8th level, you can compel a creature within close range to attempt to please you as a standard action. The creature receives a Will save to negate this affect. If the save fails, the creature attacks your enemies for 1 round, stands stunned by you for 1 round, or drops prone and grovels for 1d4 rounds, chosen at random. You can use this ability once per day at 8th level and one additional time per day for every four levels beyond 8th. This is a mind-affecting effect.",
+      "zhCN": "8级时，你能以标准动作的心智效果强迫30尺生物服从。生物可用成功的意志豁免避免此效果，但若豁免失败，该生物将攻击你的敌人 1 轮，被你击晕 1 轮，或俯卧跪地 1d4 轮，随机选择。你能在8级每天使用此能力1次，每比8级高4级多1次。这是影响心灵的效果。"
+    },
+    {
+      "Key": "1090a8cd0aa141b5a912917e545eacfb",
+      "SimpleName": "LustDomainGreaterAbility.Name",
+      "ProcessTemplates": false,
+      "enGB": "Anything to Please",
+      "zhCN": "予取予求"
+    },
+    {
+      "Key": "9d0f1c783c634d7f98d6321c79b250eb",
+      "SimpleName": "LustDomainGreaterFeature.Description",
+      "ProcessTemplates": true,
+      "enGB": "At 8th level, you can compel a creature within close range to attempt to please you as a standard action. The creature receives a Will save to negate this affect. If the save fails, the creature attacks your enemies for 1 round, stands stunned by you for 1 round, or drops prone and grovels for 1d4 rounds, chosen at random. You can use this ability once per day at 8th level and one additional time per day for every four levels beyond 8th. This is a mind-affecting effect.",
+      "zhCN": "8级时，你能以标准动作的心智效果强迫30尺生物服从。生物可用成功的意志豁免避免此效果，但若豁免失败，该生物将攻击你的敌人 1 轮，被你击晕 1 轮，或俯卧跪地 1d4 轮，随机选择。你能在8级每天使用此能力1次，每比8级高4级多1次。这是影响心灵的效果。"
+    },
+    {
+      "Key": "92109be1054344b6abb063dbd0379bb1",
+      "SimpleName": "LustDomainProgression.Description",
+      "ProcessTemplates": true,
+      "IsUsed": false,
+      "enGB": "\nYou can entrance friend and foe alike, able to inspire people or reduce them to a stunned stupor.\nDazing Touch: You can cause a living creature to become dazed for 1 round as a melee touch attack. Creatures with more Hit Dice than your level in the class that gave you access to this domain are unaffected. You can use this ability a number of times per day equal to 3 + your Wisdom modifier.\nAnything to Please: At 8th level, you can compel a creature within close range to attempt to please you as a standard action. The creature receives a Will save to negate this affect. If the save fails, the creature attacks your enemies for 1 round, stands stunned by you for 1 round, or drops prone and grovels for 1d4 rounds, chosen at random. You can use this ability once per day at 8th level and one additional time per day for every four levels beyond 8th. This is a mind-affecting effect.\nDomain Spells: hypnotism, hideous laughter, deep slumber, confusion, dominate person, mass eagle's splendor, insanity, euphoric tranquility, dominate monster.",
+      "zhCN": "\n你可以诱惑盟友和敌人，既能鼓舞人心，又能使人目瞪口呆陷入昏迷。\n眩晕之触：作为近战{g|Encyclopedia:TouchAttack}接触攻击{/g}，你的接触可使活物眩晕，效果持续1{g|Encyclopedia:Combat_Round}轮{/g}。{g|Encyclopedia:Hit_Dice}生命骰数{/g}超过赋予你此领域的职业等级的活物，将不会受到影响。每天可使用次数为{g|Encyclopedia:Wisdom}感知{/g}调整值+3。\n予取予求：8级时，你能以标准动作的心智效果强迫30尺生物服从。生物可用成功的意志豁免避免此效果，但若豁免失败，该生物将攻击你的敌人 1 轮，被你击晕 1 轮，或俯卧跪地 1d4 轮，随机选择。你能在8级每天使用此能力1次，每比8级高4级多1次。这是影响心灵的效果。\n领域法术：催眠术，狂笑术，沉眠术、困惑术、支配他人，群体鹰之威仪，神智错乱，狂喜宁静，支配怪物。"
+    },
+    {
+      "Key": "1efef1fc28fb4516b0a5924c01795874",
+      "SimpleName": "LustDomainProgressionSecondary.Description",
+      "ProcessTemplates": true,
+      "enGB": "\nYou can entrance friend and foe alike, able to inspire people or reduce them to a stunned stupor.\nDazing Touch: You can cause a living creature to become dazed for 1 round as a melee touch attack. Creatures with more Hit Dice than your level in the class that gave you access to this domain are unaffected. You can use this ability a number of times per day equal to 3 + your Wisdom modifier.\nAnything to Please: At 8th level, you can compel a creature within close range to attempt to please you as a standard action. The creature receives a Will save to negate this affect. If the save fails, the creature attacks your enemies for 1 round, stands stunned by you for 1 round, or drops prone and grovels for 1d4 rounds, chosen at random. You can use this ability once per day at 8th level and one additional time per day for every four levels beyond 8th. This is a mind-affecting effect.\nDomain Spells: hypnotism, hideous laughter, deep slumber, confusion, dominate person, mass eagle's splendor, insanity, euphoric tranquility, dominate monster.",
+      "zhCN": "\n你可以诱惑盟友和敌人，既能鼓舞人心，又能使人目瞪口呆陷入昏迷。\n眩晕之触：作为近战{g|Encyclopedia:TouchAttack}接触攻击{/g}，你的接触可使活物眩晕，效果持续1{g|Encyclopedia:Combat_Round}轮{/g}。{g|Encyclopedia:Hit_Dice}生命骰数{/g}超过赋予你此领域的职业等级的活物，将不会受到影响。每天可使用次数为{g|Encyclopedia:Wisdom}感知{/g}调整值+3。\n予取予求：8级时，你能以标准动作的心智效果强迫30尺生物服从。生物可用成功的意志豁免避免此效果，但若豁免失败，该生物将攻击你的敌人 1 轮，被你击晕 1 轮，或俯卧跪地 1d4 轮，随机选择。你能在8级每天使用此能力1次，每比8级高4级多1次。这是影响心灵的效果。\n领域法术：催眠术，狂笑术，沉眠术、困惑术、支配他人，群体鹰之威仪，神智错乱，狂喜宁静，支配怪物。"
+    },
+    {
+      "Key": "f63572b4d35f4621a73c6e7ab9db09b8",
+      "SimpleName": "LymnierisFeature.Description",
+      "ProcessTemplates": true,
+      "enGB": "\nTitles: The Auroral Tower   \nAlignment: Lawful Good   \nAreas of Concern: Prostitution, Rites of passage, Virginity   \nEdict: Help others achieve their desires, aid and protect sex workers, help others through difficult transitions   \nDomains: Community, Good, Law, Protection   \nSubdomains: Archon, Friendship, Lust, Purity   \nFavoured Weapon: Longsword   \nHoly Symbol: White-hooded profile   \nSacred Animal: Rabbit   \nLymnieris teaches that the passage from one state of being to another is a sacred time in every mortal's life. He is thought to have originally been a planetar, as evidenced by the empyreal lord's tall stature, emerald green skin, and four white wings. His hard, radiant body is always coated in a thin sheen of perspiration, and he carries no weapons, instead wielding in one of his delicate hands a great white shield made of celestial ivory. Lymnieris and his agents sometimes come to the aid of good-hearted virgins pressed into marriage or threatened with being deflowered against their will, as well as those devotees who wish to fulfill their sexual desires but who are restrained by culture or tradition. Any individual on the threshold of a major personal change may call on Lymnieris for aid. Prostitutes who work lawfully and willingly out of love for their profession also worship Lymnieris, and those forced into carnal service pray to him for salvation. Lymnieris lives in a palace made ofblue agate in Heaven, where he often entertains the visiting Arshea.",
+      "zhCN": "\n称号：极光之塔\n阵营：守序善良\n神职：特殊服务，成人礼，贞操\n领域：联盟、善良、守序、保护\n子领域：亚空，友谊，情欲，纯净\n偏好武器：长剑 \n圣徽：藏在白斗篷下的脸\n圣兽：兔\n林尼芮斯教导说，从人生的一个阶段过渡到下一个阶段是神圣的过程。\n他被认为最初是一个行星，这可以从这位至高天领主的高大身材、翠绿色的皮肤和四只白色的翅膀中得到证明。他那坚硬而容光焕发的身体总是覆盖着一层薄薄的汗珠，他没有携带任何武器，而是在一只纤巧的手中挥舞着一面由天象牙制成的巨大的白色盾牌。\n林尼芮斯和他的代理人有时会帮助那些被迫结婚或违背意愿被剥夺尊严的善良处女，以及那些希望满足性欲但受文化或传统限制的信徒。任何即将发生重大个人变化的个人都可以向林尼芮斯寻求帮助。出于对职业的热爱而合法且自愿地工作的妓女也崇拜林尼芮斯，那些被迫从事肉体服务的妓女向他祈祷以求救赎。\n林尼芮斯住在天堂的一座蓝玛瑙宫殿，总是在那里接待好友阿榭依。"
+    },
+    {
+      "Key": "69d7ae98866d4dd1b3ef33d99891b425",
+      "SimpleName": "LymnierisFeature.Name",
+      "ProcessTemplates": false,
+      "enGB": "Lymnieris",
+      "zhCN": "林尼芮斯"
+    },
+    {
+      "Key": "32b46bad34b743e693118a29163357c6",
+      "SimpleName": "MaatFeature.Description",
+      "ProcessTemplates": true,
+      "enGB": "\nTitles: The Feather of Truth   \nAlignment: Lawful Neutral   \nAreas of Concern: Justice, Law, Order, Truth   \nDomains: Knowledge, Law, Protection, Void (Travel), Weather   \nSubdomains: Inevitable, Judgment, Purity, Seasons, Stars, Thought   \nFavoured Weapon: Starknife   \nHoly Symbol: Blue Ostrich Feather   \nSacred Animal: Leopard   \nWhen the universe was created, it was given an innate harmony, and the goddess Maat is the guardian of this cosmic order. She is a deity of balance, justice, law, and truth, and is responsible for the uniform movement of the celestial bodies through the sky and the ordered procession of seasons. Ancient Osirians believed that the legitimacy and efficacy of a pharaoh's reign were dependent on upholding the concepts embodied by Maat, and to prevent the universe from dissolving into chaos, this order must be constantly renewed and preserved by both humans and the gods. Maat is the 
