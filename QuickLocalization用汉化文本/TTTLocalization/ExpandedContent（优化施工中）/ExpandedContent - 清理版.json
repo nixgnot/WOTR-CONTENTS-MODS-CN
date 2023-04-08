@@ -236,7 +236,6 @@
       "Key": "b70142319c4d4d8cbc8b2bb573e929f4",
       "SimpleName": "$OathbreakersSoloTactics.DescriptionShort",
       "ProcessTemplates": false,
-      "IsUsed": false,
       "enGB": "At 2nd level, all of the Oathbreaker's allies are treated as if they possessed the same teamwork feats as the Oathbreaker for the purpose of determining whether the Oathbreaker receives a bonus from her teamwork feats. Her allies do not receive any bonuses from these feats unless they actually possess the feats themselves. The allies' positioning and actions must still meet the prerequisites listed in the teamwork feat for the Oathbreaker to receive the listed bonus.",
       "zhCN": "2级时，所有复仇暴徒的盟友都被视为拥有与复仇暴徒相同的团队专长，以确定复仇暴徒是否从她的团队专长中获得加成。但她的盟友不会从这些专长中受益，除非他们自己确实拥有这些专长。盟友的站位和行动仍然必须满足团队专长中列出的先决条件，复仇暴徒才能获得所列的加成。"
     },
@@ -281,14 +280,6 @@
       "ProcessTemplates": false,
       "enGB": "Divine/Profane Weapon Bond",
       "zhCN": "神圣/亵渎武器盟誓"
-    },
-    {
-      "Key": "f1047d721d884a54af13e3c1ed7bf9d2",
-      "SimpleName": "<null>Description",
-      "ProcessTemplates": false,
-      "IsUsed": false,
-      "enGB": "When eaten goodberries heal 2d4 point of damage, however if they are eaten more than once every 24 hours they can make the creature that ate them sick for a short time.",
-      "zhCN": "食用神莓会治疗 2d4 点伤害，但是如果每 24 小时食用超过一次，它们会使食用它们的生物在短时间内生病。"
     },
     {
       "Key": "1f793c98c9d84419a226e3e543d88f8c",
@@ -485,14 +476,6 @@
       "zhCN": "在近战中，您可以通过分散或干扰对手来帮助您的盟友进攻或防御。如果你处于对对手进行近战攻击的位置，你可以尝试以标准动作帮助你的盟友对抗该敌人。分心的敌人在对抗你盟友的下一次攻击时，他们的 AC 会受到 -2 的惩罚。此惩罚仅适用于第一次攻击掷骰，并在 1 轮后移除。"
     },
     {
-      "Key": "7dc97786bee64a61b2b76c6cd234944a",
-      "SimpleNameDis": "屎山标记",
-      "ProcessTemplates": false,
-      "IsUsed": false,
-      "enGB": "Aid Another - Offence",
-      "zhCN": "援助他人 - 进攻"
-    },
-    {
       "Key": "14d0bb6d437c47ea9ed86b0e20c9f789",
       "SimpleNameDis": "屎山标记",
       "ProcessTemplates": false,
@@ -500,10 +483,9 @@
       "zhCN": "援助他人 - 干扰防御"
     },
     {
-      "Key": "5d9f9bc653ac4408b471657f86002042",
+      "Key": "8f472234a7824ae5baedb5386d27468c",
       "SimpleName": "AirInvokeDeityAbility.Description",
       "ProcessTemplates": true,
-      "IsUsed": false,
       "enGB": "By holding aloft a holy symbol and calling your deity’s name, you take on an aspect of that divinity. When you cast this spell, choose a domain offered by your deity. You gain that domain’s benefits, along with the listed physical changes; abilities that allow a saving throw use this spell’s DC. \nAir: Increase your current speed by 30 feet and gain a +1 dodge bonus to your AC.",
       "zhCN": "通过高举一个圣徽并呼唤你信仰的神灵的名字，你就获得了祂的一部分神性。当你施展此法术时，选择一个由你的神祇提供的领域。您将获得该领域的好处，以及列出的物理变化；允许豁免检定的能力的DC等同该法术的DC。\n空气：将你当前的速度提高 30 英尺，并在你的 AC 上获得 +1 闪避加值。"
     },
@@ -2862,6 +2844,66 @@
       "zhCN": "召唤神灵 - 死亡领域"
     },
     {
+      "Key": "df3e803903b94f21aa188aae7395c447",
+      "SimpleName": "DefenseDomainBaseAbility.Description",
+      "ProcessTemplates": true,
+      "enGB": "Once each day, you can emit a 30-foot aura for a number of rounds equal to your cleric level. Allies within the aura gain a +2 deflection bonus to AC and combat maneuver defense."
+    },
+    {
+      "Key": "5bb76337a40342f4970cd83e8278722d",
+      "SimpleName": "DefenseDomainBaseAreaBuff.Description",
+      "ProcessTemplates": true,
+      "enGB": "Once each day, you can emit a 30-foot aura for a number of rounds equal to your cleric level. Allies within the aura gain a +2 deflection bonus to AC and combat maneuver defense."
+    },
+    {
+      "Key": "9ff6e9ee0d154ac4959478407033cf95",
+      "SimpleName": "DefenseDomainBaseAreaBuff.Name",
+      "ProcessTemplates": false,
+      "enGB": "Deflection Aura"
+    },
+    {
+      "Key": "0d3887c03f554daf8982e677b866e467",
+      "SimpleName": "DefenseDomainBaseBuff.Description",
+      "ProcessTemplates": true,
+      "enGB": "Once each day, you can emit a 30-foot aura for a number of rounds equal to your cleric level. Allies within the aura gain a +2 deflection bonus to AC and combat maneuver defense."
+    },
+    {
+      "Key": "34518c092b8a4ca7a431fa45de2ca242",
+      "SimpleName": "DefenseDomainBaseClassFeature.Description",
+      "ProcessTemplates": true,
+      "enGB": "Your faith is your greatest source of protection, and you can use that faith to defend others. In addition, you receive a +1 resistance bonus on saving throws. This bonus increases by 1 for every 5 levels you possess."
+    },
+    {
+      "Key": "cbada2dab63c4223b8f43a7239e99697",
+      "SimpleName": "DefenseDomainBaseClassFeature.Name",
+      "ProcessTemplates": false,
+      "enGB": "Defense Domain Resistance Bonus"
+    },
+    {
+      "Key": "b1de9f250b8b4848a03bb1a008c7c681",
+      "SimpleName": "DefenseDomainBaseFeature.Description",
+      "ProcessTemplates": true,
+      "enGB": "\nYour faith is your fortitude, inspiring all with the strength to defend aginst any blow. In addition, you receive a +1 resistance bonus on saving throws. This bonus increases by 1 for every 5 levels you possess in the class that gave you access to this domain.\nDeflection Aura: Once each day, you can emit a 30-foot aura for a number of rounds equal to your cleric level. Allies within the aura gain a +2 deflection bonus to AC and combat maneuver defense.\nAura of Protection: At 8th level, you can emit a 30-foot aura of protection for a number of rounds per day equal to your level in the class that gave you access to this domain. You and your allies within this aura gain a +1 deflection bonus to AC and resistance 5 against all elements (acid, cold, electricity, fire, and sonic). The deflection bonus increases by +1 for every four levels you possess in the class that gave you access to this domain beyond 8th. At 14th level, the resistance against all elements increases to 10. These rounds do not need to be consecutive."
+    },
+    {
+      "Key": "b5bab6d5e63340b68ec774cc4e12be07",
+      "SimpleName": "DefenseDomainBaseFeature.Name",
+      "ProcessTemplates": false,
+      "enGB": "Defense Subdomain"
+    },
+    {
+      "Key": "8965d182341e4781819f73fdbe4d29ad",
+      "SimpleName": "DefenseDomainProgression.Description",
+      "ProcessTemplates": true,
+      "enGB": "\nYour faith is your fortitude, inspiring all with the strength to defend aginst any blow. In addition, you receive a +1 resistance bonus on saving throws. This bonus increases by 1 for every 5 levels you possess in the class that gave you access to this domain.\nDeflection Aura: Once each day, you can emit a 30-foot aura for a number of rounds equal to your cleric level. Allies within the aura gain a +2 deflection bonus to AC and combat maneuver defense.\nAura of Protection: At 8th level, you can emit a 30-foot aura of protection for a number of rounds per day equal to your level in the class that gave you access to this domain. You and your allies within this aura gain a +1 deflection bonus to AC and resistance 5 against all elements (acid, cold, electricity, fire, and sonic). The deflection bonus increases by +1 for every four levels you possess in the class that gave you access to this domain beyond 8th. At 14th level, the resistance against all elements increases to 10. These rounds do not need to be consecutive.\nDomain Spells: shield, barkskin, protection from energy, communal protection from energy, spell resistance, communal stoneskin, particulate form, protection from spells, seamantle."
+    },
+    {
+      "Key": "75ef6e269fff45d293432eb17be730e3",
+      "SimpleName": "DefenseDomainProgressionSecondary.Description",
+      "ProcessTemplates": true,
+      "enGB": "\nYour faith is your fortitude, inspiring all with the strength to defend aginst any blow. In addition, you receive a +1 resistance bonus on saving throws. This bonus increases by 1 for every 5 levels you possess in the class that gave you access to this domain.\nDeflection Aura: Once each day, you can emit a 30-foot aura for a number of rounds equal to your cleric level. Allies within the aura gain a +2 deflection bonus to AC and combat maneuver defense.\nAura of Protection: At 8th level, you can emit a 30-foot aura of protection for a number of rounds per day equal to your level in the class that gave you access to this domain. You and your allies within this aura gain a +1 deflection bonus to AC and resistance 5 against all elements (acid, cold, electricity, fire, and sonic). The deflection bonus increases by +1 for every four levels you possess in the class that gave you access to this domain beyond 8th. At 14th level, the resistance against all elements increases to 10. These rounds do not need to be consecutive.\nDomain Spells: shield, barkskin, protection from energy, communal protection from energy, spell resistance, communal stoneskin, particulate form, protection from spells, seamantle."
+    },
+    {
       "Key": "b4a6fe16d0964fc19c9bf778b5dc2d04",
       "SimpleName": "DeitiesofAncientOsirionSelection.Description",
       "ProcessTemplates": true,
@@ -3038,21 +3080,21 @@
       "SimpleName": "DivineHerbalistDragonMysteryFeature.Description",
       "ProcessTemplates": true,
       "enGB": "Gain access to the spells and revelations of the dragon mystery. \nDue to the divine herbalist archetype the class skills gained from this archetypeare replaced by the master herbalist feature and the brew potions feat.",
-      "zhCN": "具有巨龙秘示域的先知将灵巧、沟通、感知和知识（世界）添加到她的本职技能列表中。"
+      "zhCN": "获取巨龙秘示域的法术和启示。\n由于神圣草药师变体，获得的职业技能被草药学大师特性和调制药水专长所取代。"
     },
     {
       "Key": "91616eb97ea3471abc626b1a183afe2f",
       "SimpleName": "DivineHerbalistHeavensMysteryFeature.Description",
       "ProcessTemplates": true,
       "enGB": "Gain access to the spells and revelations of the heavens mystery. \nDue to the divine herbalist archetype the class skills gained from this archetypeare replaced by the master herbalist feature and the brew potions feat.",
-      "zhCN": "获得对天堂奥秘的咒语和启示。\n由于源于神圣草药师，从该变体获得的职业技能被草药大师特征和制作药水专长所取代。"
+      "zhCN": "获得苍天秘示域的法术和启示。\n由于神圣草药师变体，获得的职业技能被草药学大师特性和调制药水专长所取代。"
     },
     {
       "Key": "4a642454073a4745b4c5bf6b29f54c33",
       "SimpleName": "DivineHerbalistSuccorMysteryFeature.Description",
       "ProcessTemplates": true,
       "enGB": "Gain access to the spells and revelations of the succor mystery. \nDue to the divine herbalist archetype the class skills gained from this archetypeare replaced by the master herbalist feature and the brew potions feat.",
-      "zhCN": "获得救助秘示域的法术和启示。\n由于神圣草药师原型，从该原型获得的职业技能被草药大师特征和酿造药水专长所取代。"
+      "zhCN": "获得救助秘示域的法术和启示。\n由于神圣草药师变体，获得的职业技能被草药学大师特性和调制药水专长所取代。"
     },
     {
       "Key": "b564652a73a94e4eafbb7f0d8d4e9e5d",
@@ -7362,12 +7404,11 @@
       "zhCN": "骸骨"
     },
     {
-      "Key": "98f88456e0f44c4b816a7118f3d98e27",
+      "Key": "652e3f84a2804e83b5bc11a0934f7453",
       "SimpleName": "OceansEchoDragonMysteryFeature.Description",
       "ProcessTemplates": true,
-      "IsUsed": false,
-      "enGB": "An oracle with the dragon mystery adds Mobility, Persuasion, Perception and Knowledge (world)  to her list of class skills.",
-      "zhCN": "具有巨龙秘示域的先知将灵巧、沟通、感知和知识（世界）添加到她的本职技能列表中。"
+      "enGB": "Gain access to the spells and revelations of the dragon mystery. \nDue to the ocean's echo archetype the class skills gained from this archtypeare changed to Persuasion, Knowledge (world) and Lore (nature)",
+      "zhCN": "获得巨龙秘示域的法术和启示\n由于海洋回声变体，从该变体获得的本职技能更改为沟通、知识（世界）和学识（自然）。"
     },
     {
       "Key": "911140f184994084b59382f6e5ff0dcf",
@@ -7388,7 +7429,7 @@
       "SimpleName": "OceansEchoHeavensMysteryFeature.Description",
       "ProcessTemplates": true,
       "enGB": "Gain access to the spells and revelations of the heavens mystery. \nDue to the ocean's echo archetype the class skills gained from this archtypeare changed to Persuasion, Knowledge (world) and Lore (nature)",
-      "zhCN": "获得对天堂奥秘的咒语和启示。\n由于海洋回声变体，从该变体获得的本职技能更改为沟通、知识（世界）和学识（自然）。"
+      "zhCN": "获得苍天秘示域的咒语和启示。\n由于海洋回声变体，从该变体获得的本职技能更改为沟通、知识（世界）和学识（自然）。"
     },
     {
       "Key": "fd19d8b057554c64a07e9ea308176e27",
