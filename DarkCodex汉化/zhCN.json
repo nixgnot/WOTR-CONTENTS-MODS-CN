@@ -129,7 +129,7 @@
   "4722adba69eae809197e9beccf544b17bc340c17": "导能锥形",
   "59f5704a95edc8c460e10f6f89a5eb2eb46de043": "将引导能量范围改为30尺锥形。",
   "3af3b5e538c09c9690c0aff718ef78ed3ab9b916": "导能形式",
-  "67d996f3ffbe37cc93f36cb9869c8e13c1f33b73": "你可以用自由动作切换引导能量的范围为以下形状：\n10尺范围的定点爆发，射程为10尺\n60尺直线\n30尺锥形",
+  "c8d95c3fa20a26db66a3305f2a8d57c2706c9bff": "你可以用自由动作切换引导能量的范围为以下形状：\n10尺范围的定点爆发，射程为10尺\n60尺直线\n30尺锥形",
   "910e52926b6f8e6e87e6245a13eabe3ca2a7d145": "仁义剑客",
   "92d50f05f730e18249a938811c894d2315577ad3": "有别于其他依赖力量和坚甲的圣武士同僚，仁义剑客凭藉着自身的才智以及优雅引领着正义和希望的光辉。",
   "77285009d1096702c17b59638be90a2eeef9845a": "仁义剑客擅长",
@@ -533,5 +533,7 @@
   "1a4a649477fb65c37cd963197e9010462c0dd850": "allows respec to be finished at any point",
   "7498ad86b3c0c03eb43aae99232728a8319f51fb": "Normal: The level of gathering power is determined by the mode (none, low, medium, high) selected. If the mode is lower than the already accumulated gather level, then levels are lost.\nPatched: The level of gathering is true to the accumulated level or the selected mode, whatever is higher.",
   "56b77515d2add149adf5b178eb32576d2425b598": "let's you pick class levels after level 20 with any class; this won't add new features except basic feats and won't allow character levels beyond 20 (which can be done with champion mythic path or Toybox)",
-  "3e7840eb134e01055edcfaa8dd43b7a052e08a3c": "allows zippy to work on spell-like abilities"
+  "3e7840eb134e01055edcfaa8dd43b7a052e08a3c": "允许灵动魔法对类法术能力生效",
+  "6730e22becce0d054375f1cfbb9236fbad0403d3": "注意：请时刻牢记，使用MOD游玩通常都会导致你的存档对该MOD产生依赖性，删除相应MOD会导致坏档！",
+  "cf29ed797e97568dd5c26f6da1654e2d569af20a": "说明：[F] 选项添加专长，你依然需要选择此专长（或者绝技等）来获取效果。如果你已经选择了这些特性，它们会无视以上选项继续生效。\n[*] 该选项可以立即开关，不需要重新启动游戏。"
 }
