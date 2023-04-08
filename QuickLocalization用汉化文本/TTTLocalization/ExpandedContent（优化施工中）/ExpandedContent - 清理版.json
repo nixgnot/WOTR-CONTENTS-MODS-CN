@@ -303,6 +303,20 @@
       "zhCN": "一小束由植物物质制成的魔法浆果，带有德鲁伊魔法。"
     },
     {
+      "Key": "dd5dab8b8404404e86d0e6371eb206a9",
+      "SimpleNameDis": "屎山标记",
+      "ProcessTemplates": false,
+      "enGB": "Additional Hexes:",
+      "zhCN": "额外巫术："
+    },
+    {
+      "Key": "1f339f9d31594459b1ef3b5d57e8aca2",
+      "SimpleNameDis": "屎山标记",
+      "ProcessTemplates": false,
+      "enGB": "Bonus Spells:",
+      "zhCN": "额外法术："
+    },
+    {
       "Key": "9d48e03819b44541a35e8cd517094a44",
       "SimpleName": "AbhothFeature.Description",
       "ProcessTemplates": true,
@@ -490,7 +504,7 @@
       "zhCN": "通过高举一个圣徽并呼唤你信仰的神灵的名字，你就获得了祂的一部分神性。当你施展此法术时，选择一个由你的神祇提供的领域。您将获得该领域的好处，以及列出的物理变化；允许豁免检定的能力的DC等同该法术的DC。\n空气：将你当前的速度提高 30 英尺，并在你的 AC 上获得 +1 闪避加值。"
     },
     {
-      "Key": "8f472234a7824ae5baedb5386d27468c",
+      "Key": "8f472234a7824ae5baedb5386d27468d",
       "SimpleName": "AirInvokeDeityBuff.Description",
       "ProcessTemplates": true,
       "enGB": "By holding aloft a holy symbol and calling your deity’s name, you take on an aspect of that divinity. When you cast this spell, choose a domain offered by your deity. You gain that domain’s benefits, along with the listed physical changes; abilities that allow a saving throw use this spell’s DC. \nAir: Increase your current speed by 30 feet and gain a +1 dodge bonus to your AC.",
