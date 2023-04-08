@@ -20,13 +20,13 @@ f8142664c2c8bd1499e86f729737da70 C3Wilcer 1 16500 ForsakenEdge
 c5690d9f705cb254e83e7ac6e8c852ad C3Wilcer 1 35000 MenaceStorm
 c3e704d94d4fcd24ca79b1b2a68d388c C3Wilcer 1 42000 Torpor
 007d72299a0c85743bccd47fb5ed6bdc C5Wilcer 1 320000 HunterBlessing
-b3977451f2d9e64498b3208bd78a5394 C4Gilmore 1 420000 Perfection
-50e7f5c17e327e2438f8878a0af1cc8c C4Gilmore 1 419999 Redeemer
-e5b46c4b36c2ca74d8a30f68a93bc77c C4Gilmore 1 500000 BearGodClaw
-d1605b9f9a5a74c46a0dde19f01eae40 C4Gilmore 1 400000 SerpentPrince
+b3977451f2d9e64498b3208bd78a5394 C4Heraxa 1 420000 Perfection
+50e7f5c17e327e2438f8878a0af1cc8c C4Heraxa 1 419999 Redeemer
+e5b46c4b36c2ca74d8a30f68a93bc77c C4Heraxa 1 500000 BearGodClaw
+d1605b9f9a5a74c46a0dde19f01eae40 C4Heraxa 1 400000 SerpentPrince
 8eac691deaf5ec44bbc972a8e0ddb3c1 C5Wilcer 1 320000 BlindingLight
 137fc6acf3f645a40a3ec041b472ba86 C3Wilcer 1 302000 PlanarHunter
-dec4acdd0677f1c4eaf2f5a180dfa4f5 C4Gilmore 1 302000 Malice
+dec4acdd0677f1c4eaf2f5a180dfa4f5 C4Heraxa 1 302000 Malice
 6500b366ea906a94ab21576e69e79264 C3Wilcer 1 35000 NoblemansAmusement
 0a5e909be70d3c841b09a2f175a6e3ce C2Wilcer 1 13000 LordProtector
 e5e63ad98ceb68d45b5a4c011f35857c C2Wilcer 1 15000 OppertunistWarraxe
@@ -35,22 +35,22 @@ b7e4ce7020d84754a816242520f153cd C3Wilcer 1 15000 NecromancersStaff
 368792eeddcfcf747bacb15ee0e95a28 C5Wilcer 1 302000 FrozenCrescent
 65d29ca8c81c124418417bff73f8eaae C3Wilcer 1 35000 MoonLongbow
 2f771b62ffb4bdf45a425ba0a0130217 C1Jorum 1 9000 LongbowErestil
-4b6fe376ec6af3247805fb9aba2665b3 C4Gilmore 1 302000 Staffofwhisperingsouls
+4b6fe376ec6af3247805fb9aba2665b3 C4Heraxa 1 302000 Staffofwhisperingsouls
 436ec3989c26a3442ab12cb055b2b22f C1Jorum 1 13000 CrimsonCounselor
 3d4ab4a38a6b41c4a941a23fd6a47143 C2Wilcer 1 23000 WilloftheDisciple
-fa02b3d13a6598c4f97acfbabfe1e01e C4Gilmore 1 302000 TwinSerpents
-81310913ee067e14dbb3d35a71f25b14 C4Gilmore 1 252000 SolidStrategy
+fa02b3d13a6598c4f97acfbabfe1e01e C4Heraxa 1 302000 TwinSerpents
+81310913ee067e14dbb3d35a71f25b14 C4Heraxa 1 252000 SolidStrategy
 04cfe9660005b05438b9ba46ba85e08d C3Arsinoe 1 56000 SigilOfCreation
 # 
 1d9782b28b47cb64ea5e90e093db087b C5Wilcer 1 302000 DeathCrusherplate
-fd54ed3702d98a24283a400bd76c6b03 C4Gilmore 1 220000 AssassinChainshirt
+fd54ed3702d98a24283a400bd76c6b03 C4Heraxa 1 220000 AssassinChainshirt
 53e3c078b543f1b4e9c3b1e7dba7e452 C5Wilcer 1 300000 heavenlychain
 4ac204fcd49e8ef4e8065fda2ec47f71 C5Wilcer 1 303000 Sagearmour
 #
 bb0ed39b655024946b04396b247081ca C5Wilcer 1 292000 EvasiveHelmet
 7188029fda598f749a9dfbf23bec9bdc C2Wilcer 1 13000 marksmanHat
 d254a9e1b1ebcf44faa326b277c937c5 C4Heraxa 1 190000 DyingWisdomAmulet
-828561d73332c5846b11ffb4bd6df94d C4Gilmore 1 220000 ChalatanLocket
+828561d73332c5846b11ffb4bd6df94d C4Heraxa 1 220000 ChalatanLocket
 a42d83fee9771e349bb885dd702bad96 C3Wilcer 1 35000 ClockworkPendant
 #
 fedef0913b7d598478918b81eed9fada C2Scroll 1 13000 ApprenticeRobe
@@ -207,45 +207,45 @@ ae204741f8f01a14eaaaf54a1a89388b C3Wilcer 1 26160 LightShieldItemPlus3againstEvo
 05d8f2e20b09a3d43871d76424c195c6 C3Wilcer 1 52150 WildGuardianShieldItem 
 954bab43deeac3b47a390623647cbdd6 C3Wilcer 1 59000 DefendersBulwarkShieldItem 
 #新增 第四章武器护甲
-2e7ce0eac8655044f9ea2590df25e64c C4Gilmore 1 102400 BoneshardItem 
-16a21907f1988ae4bb92b5ef1579af01 C4Gilmore 1 158000 PrimeWiperItem 
-1ee9ba56d3874414bada34a9652f633c C4Gilmore 1 253750 StaffOfTheCallItem 
-30880fe99cff7f84fac8c2672464d335 C4Gilmore 1 122250 ChaosHammerItem 
-c1cb73b9437bb324ca8d85793ebda3a7 C4Gilmore 1 237800 ClarityElvenBladeItem
-cd2bb6783419f35439457b3bdf83744e C4Gilmore 1 98000 ColdBloodItem 
-7df39a3df79ebdb4e8fc1e5446f39051 C4Gilmore 1 128125 DarkForestItem 
-8df12b4e95fee2846a4c78b1bb2faa50 C4Gilmore 1 328350 DivineInterventionScimitarItem 
-3b3b9723d646a6649ab3c3281d5b656b C4Gilmore 1 112175 EdictItem 
-0171c4bce2a18cb45840714906b2e163 C4Gilmore 1 237125 TheEradicatorGreataxeItem 
-6929f2f0de978dd4a9ae0d4f03278a03 C4Gilmore 1 118000 FieryBloodItem 
-854e566488509a04994101344c3c4e2a C4Gilmore 1 146250 FirebornWarhammer 
-476180ae2aa374946a965880c5dc5385 C4Gilmore 1 94250 HarbingerItem 
-86c6380df95b60549bf1562a529effe6 C4Gilmore 1 91875 NightmareItem 
-255195c1cd2cbc04baf7ef8d399c09d1 C4Gilmore 1 226000 GameChangerEstocItem 
-1feeaad7087a2df46ba1283d31a162dd C4Gilmore 1 224500 MourningItem 
-0294288c8194d7847a8f261646bf835a C4Gilmore 1 214650 TheOpressorBastardSwordItem 
-3f477e35c8c4278458bac33e2b4a0a79 C4Gilmore 1 182050 InspiringWillWarhammerItem 
-3e55ebd643d5df949a19a0e17a0d8380 C4Gilmore 1 191250 ElderToothItem 
-dfdb6779e8cd91e48ad096147836ec31 C4Gilmore 1 224325 RetributionGreataxe 
-0a3fb024f4e27c64f8d1d00932e676d5 C4Gilmore 1 181250 SwiftBlowItem 
-afab96bdb52d22f4796eb365c3f5df8c C4Gilmore 1 89950 FalseJusticeItem 
-7c46e43f88dbd7f418da2ce71439d8b6 C4Gilmore 1 260750 RighteousPunishmentItem 
-bd1d72fd2953d3c46a2ba8c85f7ba091 C4Gilmore 1 131000 UnbendingItem 
-4d46a97ba8c349c498abd8c49a9db0f6 C4Gilmore 1 127000 UnboundBladeItem 
-24ef71eb824832e4eaf2c2266f9f0fc3 C4Gilmore 1 212500 UndauntedStaffItem 
-d4527cae04ea33b41aeada428880b864 C4Gilmore 1 264250 JagannathKhanda 
-2f33db8e7a502d542b6fd8eae9102b89 C4Gilmore 1 144000 IgnitionItem 
-b2efb7b31a638d8479c3ab507038eaf3 C4Gilmore 1 294250 ShortbowElvenItem 
-051ccf83137987847aade5287788bf9c C4Gilmore 1 163250 HuntingCatComShBowItem 
-7510be4c91e6a754d8c887db44585324 C4Gilmore 1 217500 TangledClawsItem 
-fd54ed3702d98a24283a400bd76c6b03 C4Gilmore 1 100750 AssassinsChainshirtItem
-2c4699388c4b9c14dbc7d50bdab30c87 C4Gilmore 1 247250 BlizzardsHeartLeathArmorItem 
-71e8a7c15aeebcf4ea11370f3d35ad58 C4Gilmore 1 214250 BonemailItem 
-193082c3f970e7740a02013ad775cd64 C4Gilmore 1 239260 BattlemastersPlate 
-1d9782b28b47cb64ea5e90e093db087b C4Gilmore 1 287600 DeathCrushersFullPlateItem 
-7c034e82710f36b45850f2127406992f C4Gilmore 1 126500 ArrowguardBucklerItem 
-7ab0c34a329421045b61d2f15f91b6b1 C4Gilmore 1 97500 ShieldofWill 
-aadfa4f5a1ecbac4eae9daa65bde7138 C4Gilmore 1 172700 UnbreakableBastionShieldItem 
+2e7ce0eac8655044f9ea2590df25e64c C4Heraxa 1 102400 BoneshardItem 
+16a21907f1988ae4bb92b5ef1579af01 C4Heraxa 1 158000 PrimeWiperItem 
+1ee9ba56d3874414bada34a9652f633c C4Heraxa 1 253750 StaffOfTheCallItem 
+30880fe99cff7f84fac8c2672464d335 C4Heraxa 1 122250 ChaosHammerItem 
+c1cb73b9437bb324ca8d85793ebda3a7 C4Heraxa 1 237800 ClarityElvenBladeItem
+cd2bb6783419f35439457b3bdf83744e C4Heraxa 1 98000 ColdBloodItem 
+7df39a3df79ebdb4e8fc1e5446f39051 C4Heraxa 1 128125 DarkForestItem 
+8df12b4e95fee2846a4c78b1bb2faa50 C4Heraxa 1 328350 DivineInterventionScimitarItem 
+3b3b9723d646a6649ab3c3281d5b656b C4Heraxa 1 112175 EdictItem 
+0171c4bce2a18cb45840714906b2e163 C4Heraxa 1 237125 TheEradicatorGreataxeItem 
+6929f2f0de978dd4a9ae0d4f03278a03 C4Heraxa 1 118000 FieryBloodItem 
+854e566488509a04994101344c3c4e2a C4Heraxa 1 146250 FirebornWarhammer 
+476180ae2aa374946a965880c5dc5385 C4Heraxa 1 94250 HarbingerItem 
+86c6380df95b60549bf1562a529effe6 C4Heraxa 1 91875 NightmareItem 
+255195c1cd2cbc04baf7ef8d399c09d1 C4Heraxa 1 226000 GameChangerEstocItem 
+1feeaad7087a2df46ba1283d31a162dd C4Heraxa 1 224500 MourningItem 
+0294288c8194d7847a8f261646bf835a C4Heraxa 1 214650 TheOpressorBastardSwordItem 
+3f477e35c8c4278458bac33e2b4a0a79 C4Heraxa 1 182050 InspiringWillWarhammerItem 
+3e55ebd643d5df949a19a0e17a0d8380 C4Heraxa 1 191250 ElderToothItem 
+dfdb6779e8cd91e48ad096147836ec31 C4Heraxa 1 224325 RetributionGreataxe 
+0a3fb024f4e27c64f8d1d00932e676d5 C4Heraxa 1 181250 SwiftBlowItem 
+afab96bdb52d22f4796eb365c3f5df8c C4Heraxa 1 89950 FalseJusticeItem 
+7c46e43f88dbd7f418da2ce71439d8b6 C4Heraxa 1 260750 RighteousPunishmentItem 
+bd1d72fd2953d3c46a2ba8c85f7ba091 C4Heraxa 1 131000 UnbendingItem 
+4d46a97ba8c349c498abd8c49a9db0f6 C4Heraxa 1 127000 UnboundBladeItem 
+24ef71eb824832e4eaf2c2266f9f0fc3 C4Heraxa 1 212500 UndauntedStaffItem 
+d4527cae04ea33b41aeada428880b864 C4Heraxa 1 264250 JagannathKhanda 
+2f33db8e7a502d542b6fd8eae9102b89 C4Heraxa 1 144000 IgnitionItem 
+b2efb7b31a638d8479c3ab507038eaf3 C4Heraxa 1 294250 ShortbowElvenItem 
+051ccf83137987847aade5287788bf9c C4Heraxa 1 163250 HuntingCatComShBowItem 
+7510be4c91e6a754d8c887db44585324 C4Heraxa 1 217500 TangledClawsItem 
+fd54ed3702d98a24283a400bd76c6b03 C4Heraxa 1 100750 AssassinsChainshirtItem
+2c4699388c4b9c14dbc7d50bdab30c87 C4Heraxa 1 247250 BlizzardsHeartLeathArmorItem 
+71e8a7c15aeebcf4ea11370f3d35ad58 C4Heraxa 1 214250 BonemailItem 
+193082c3f970e7740a02013ad775cd64 C4Heraxa 1 239260 BattlemastersPlate 
+1d9782b28b47cb64ea5e90e093db087b C4Heraxa 1 287600 DeathCrushersFullPlateItem 
+7c034e82710f36b45850f2127406992f C4Heraxa 1 126500 ArrowguardBucklerItem 
+7ab0c34a329421045b61d2f15f91b6b1 C4Heraxa 1 97500 ShieldofWill 
+aadfa4f5a1ecbac4eae9daa65bde7138 C4Heraxa 1 172700 UnbreakableBastionShieldItem 
 #新增 第五章武器护甲
 5f8ab08551f51c341bd3b36334e007ed C5Exotic 1 433500 AllslayerItem 
 c19e5e3414d8fba489d760d8a86bca21 C5Exotic 1 233500 AuthorityHeavyMaceItem 
@@ -319,9 +319,9 @@ e9c7e91d3b032ab4d96d9588b985bab5 C5Exotic 1 317825 HeartOfThunderShieldItem
 bad754cddbddc3741822051eabb8e611 C3Arsinoe 1 64000 Draping Veil of Prowess
 f389db9e641c45a2b3f7ab9cca0f76ce C3Arsinoe 1 70000 Ambrosial Attire of Arcane Annihilation
 d2eb319bc6b399a48b1b1d0a73238ac4 C3Arsinoe 1 81000 Arbiter's Robe
-779208f1c1c1b6f4b83a327594673b4e C4Gilmore 1 120000 Integrity
-c18a1d22dca8b684195633d685855d0c C4Gilmore 1 180000 Enforcer's Robe
-70c13c319f3d18841bb4c4e5c27125c9 C4Gilmore 1 220000 Protector's Robe
+779208f1c1c1b6f4b83a327594673b4e C4Heraxa 1 120000 Integrity
+c18a1d22dca8b684195633d685855d0c C4Heraxa 1 180000 Enforcer's Robe
+70c13c319f3d18841bb4c4e5c27125c9 C4Heraxa 1 220000 Protector's Robe
 62d2df6b7f534378b3492a4d2f78889d C5Arsinoe 1 440000 Dark Master's Robe
 #披风
 e8157dd509418c449a642dbe4c4dd102 C2Woljif 1 48000 Herbalist's Cape
@@ -330,8 +330,8 @@ ae0cf84fb23478f4aaa07e3d10984bea C2Woljif 1 80000 Black Fur Cloak
 8dfafc99c41d5f645888eb15388904ea C3Arsinoe 1 95000 Cloak of Inner Warmth
 77491022ca26d194fbee5e04395ae967 C3Arsinoe 1 220000 Cloak of the Winter Wolf
 e8596ae383f840c4899f6b1228c731e0 C3Arsinoe 1 160000 Cloak of the Chosen
-9af35985be20c384a957e5c7dfdb41f2 C4Gilmore 1 220000 Cloak of the Bear
-029d52c91f3e6af488610609033bb011 C4Gilmore 1 350000 Shaman's Cloak
+9af35985be20c384a957e5c7dfdb41f2 C4Heraxa 1 220000 Cloak of the Bear
+029d52c91f3e6af488610609033bb011 C4Heraxa 1 350000 Shaman's Cloak
 465bcf20235d0d04593d671bf9b607f0 C5Arsinoe 1 600000 Cloak of the Lion
 #头盔
 f33dadeeb51cdba45b23bb40a40e5fb3 C2Woljif 1 8000 Flamboyant Hat
@@ -347,13 +347,13 @@ e9cc3f1f8074fc14eb3ada35871c98da C3Arsinoe 1 52000 The Paragon of Defenders
 e11492eec1164544aa16d991b5fdc2d0 C3Arsinoe 1 60000 Warding Helmet
 f7d8c27c57d6bd949a5c2a85dc5ca045 C3Arsinoe 1 80000 Eel's Circlet
 cc90636f359f53247a5065c106d89090 C3Arsinoe 1 80000 Helmet of Confidence
-8db1c151a8250f7479a5f23a615babdf C4Gilmore 1 80000 Helmet of the Guiding Light
-f286eaf3897455147be99fbcde210774 C4Gilmore 1 87500 Sharp Eye
-9628598182b76784e975ce8486b2c944 C4Gilmore 1 96000 Frozen Shout
-bc87fd1cd75d1814f93695259906ba01 C4Gilmore 1 130000 Brightest Darkness
-d0d41be9c327b2848aa98496baf75f13 C4Gilmore 1 140000 Apex Predator
-713e371e88a44984cacfaadf48551d47 C4Gilmore 1 170000 Helmet of the Dusk
-be1486487d0b94247b2af03c60bbd860 C4Gilmore 1 220000 Dark Revelation
+8db1c151a8250f7479a5f23a615babdf C4Heraxa 1 80000 Helmet of the Guiding Light
+f286eaf3897455147be99fbcde210774 C4Heraxa 1 87500 Sharp Eye
+9628598182b76784e975ce8486b2c944 C4Heraxa 1 96000 Frozen Shout
+bc87fd1cd75d1814f93695259906ba01 C4Heraxa 1 130000 Brightest Darkness
+d0d41be9c327b2848aa98496baf75f13 C4Heraxa 1 140000 Apex Predator
+713e371e88a44984cacfaadf48551d47 C4Heraxa 1 170000 Helmet of the Dusk
+be1486487d0b94247b2af03c60bbd860 C4Heraxa 1 220000 Dark Revelation
 2bffd039eb8f54847a2e0642db6c9080 C5Arsinoe 1 350000 Crown
 0e7082c3e45af414e8516afbe58f0f6e C5Arsinoe 1 460000 Crown of Elements
 #腰带
@@ -367,9 +367,9 @@ c6edeb6c69d5da74a9bf5d73700ed04e C2Woljif 1 60000 Hermit's Rope
 bc195fd6225959c439bee1088a83aa6b C3Arsinoe 1 100000 Belt of Perfect Components
 04992d8f7ac12674eab02d73f726d4ac C3Arsinoe 1 150000 Korgath's Shackled Fury
 da13dd41c96287e4d934cb10ae069c28 C3Arsinoe 1 160000 Divine Support
-1fa5125a155d06543aebddfcfeee5cd2 C4Gilmore 1 200000 Conqueror Wurm
-3b6c082651fcb2344b292656ccf058e5 C4Gilmore 1 270000 Belt of Athach
-bfa671a8f5e9f8549ba0abc86f550c9f C4Gilmore 1 320000 Devil's Sash
+1fa5125a155d06543aebddfcfeee5cd2 C4Heraxa 1 200000 Conqueror Wurm
+3b6c082651fcb2344b292656ccf058e5 C4Heraxa 1 270000 Belt of Athach
+bfa671a8f5e9f8549ba0abc86f550c9f C4Heraxa 1 320000 Devil's Sash
 841d3d5dfb09f6c468f4fae3567937ee C5Arsinoe 1 420000 Greater Belt of Perfect Components
 #项链
 a35a6b6cb58453f47b10a81cddb6b9c3 C2Woljif 1 32000 AmuletofPersuasion 
@@ -380,9 +380,9 @@ b9bc244f20551564da681a54865a2103 C3Arsinoe 1 80000 AmuletOfSpells 
 4537e2beb46b28a47bde3e3e1ac95255 C3Arsinoe 1 65000 XavornsCrossItem 
 138f2b7ce23a4fa4fa3d633c1d3a0ae3 C3Arsinoe 1 58000 AmuletOfLifeVeilItem 
 6bbf04b71ee91734dab328837fc168cf C3Arsinoe 1 80000 SecretsOfSuramgaminNecklaceItem 
-33674f7c73f0da0448ce6d84c6846f1a C4Gilmore 1 180000 BindingsOfThePrinceItem 
-df779981b70c04641b26ad9ba90b245e C4Gilmore 1 240000 GyronnasAmuletItem 
-169fd99b68c1dd04692c2368a7b957b7 C4Gilmore 1 320000 RiverFoxPendantItem 
+33674f7c73f0da0448ce6d84c6846f1a C4Heraxa 1 180000 BindingsOfThePrinceItem 
+df779981b70c04641b26ad9ba90b245e C4Heraxa 1 240000 GyronnasAmuletItem 
+169fd99b68c1dd04692c2368a7b957b7 C4Heraxa 1 320000 RiverFoxPendantItem 
 f38cb29529feaaf459af443fdf567a54 C5Arsinoe 1 440000 NegatorAmuletItem 
 8722776a6f94485499fe476bce767716 C5Arsinoe 1 450000 AmuletOfInnerVirtue
 #靴子
@@ -390,8 +390,8 @@ f38cb29529feaaf459af443fdf567a54 C5Arsinoe 1 440000 NegatorAmuletItem 
 91b1162500bb78545b0f802e33dfd8d6 C2Woljif 1 45000 EvadingStepsItem 
 0da402fcbd1ab3d4e852a4a831c3f468 C3Arsinoe 1 52000 DevilsBootsItem 
 591b91f6bd5b7d841a6cf3a9d401f4eb C3Arsinoe 1 62000 BonethreaderBoots
-57d89d9340dedb449a279622ec0541be C4Gilmore 1 80000 ConnectiontoEarthBoostItem 
-29ec0781b00678541acd9d0f30043967 C4Gilmore 1 117500 PermanentFreedomItem 
+57d89d9340dedb449a279622ec0541be C4Heraxa 1 80000 ConnectiontoEarthBoostItem 
+29ec0781b00678541acd9d0f30043967 C4Heraxa 1 117500 PermanentFreedomItem 
 f52308050f98ebe4a8e22f05024ddc94 C5Arsinoe 1 164500 BootsOfManticoreItem 
 #护腕和手套
 b1b4dbff499ceb541a148d70ef17046e C2Woljif 1 25000 GlovesOfUseMagiDevicesItem 
@@ -407,10 +407,10 @@ ecf27920f812bcf49a533019c0255207 C3Arsinoe 1 45000 CrazyScientistsGlovesItem 
 ab75ae2763172474eac628651b301ada C3Arsinoe 1 84600 BlessedHandsGlovesItem 
 30bbe160980b63b4a9a4c8234318edfc C3Arsinoe 1 92500 GlovesOfTheScribeItem 
 e82d860e41a13534ea605fa0b00a9bb0 C3Arsinoe 1 128000 GlovesStaglordItem 
-1397ec489f9467c4d98c5257c186f32c C4Gilmore 1 150000 GlovesOfLighterTouch 
-971a577a8cd4e6744a5d0fab84931037 C4Gilmore 1 180000 ButterflyWingsGlovesItem 
-c76341cfbc0d0f14ea51ceb30efee432 C4Gilmore 1 200000 GearsRuleItem 
-08dee7b852c2ef647ab5290eb2055102 C4Gilmore 1 244550 RoyalGlovesOfValorItem 
+1397ec489f9467c4d98c5257c186f32c C4Heraxa 1 150000 GlovesOfLighterTouch 
+971a577a8cd4e6744a5d0fab84931037 C4Heraxa 1 180000 ButterflyWingsGlovesItem 
+c76341cfbc0d0f14ea51ceb30efee432 C4Heraxa 1 200000 GearsRuleItem 
+08dee7b852c2ef647ab5290eb2055102 C4Heraxa 1 244550 RoyalGlovesOfValorItem 
 34682af5f1b1a814bb174077dc3b4ee2 C5Arsinoe 1 287500 RubyPhoenixItem 
 d7647a51c7b5e04499276e60a9977119 C5Arsinoe 1 312500 UltimateGripGlovesItem 
 #戒指
@@ -435,13 +435,13 @@ daad77fb90218914eaa68c24068c946c C3Arsinoe 1 96000 TristianRing 
 0afdc38b32896db4897b832b4b5242b8 C3Arsinoe 1 62000 RingOfHonorOfDeathItem 
 e9c38a2a8d25ddf44a12e57ed6f003f7 C3Arsinoe 1 53000 UnmakerRingItem 
 8bbc59e0c2e891346a2f1006cea2e810 C3Arsinoe 1 145000 RingOfUltimateProtectionLesserItem 
-db042ab0c7b93dc4c945c9a134b12d98 C4Gilmore 1 210000 RingOfBalanceLesserItem 
-459cff3f67aea3846a228e0119f5e522 C4Gilmore 1 223500 RingOfBalanceGreaterItem 
-a71872b5b18d31c42b8bfc19c9a16d5f C4Gilmore 1 248750 RingofSickeningEntanglement 
-4a7525548113cbc4c9e0721e2a51cae4 C4Gilmore 1 250000 SealedRingItem 
-bf9ede076df62094fbcafac6900681ea C4Gilmore 1 252000 FireflyRingItem 
-290d4c8bda1002845b2089bfcab1e88d C4Gilmore 1 307500 RingOfUltimateProtectionGreaterItem 
-459cff3f67aea3846a228e0119f5e522 C4Gilmore 1 380000 RingMasterpieceItem 
+db042ab0c7b93dc4c945c9a134b12d98 C4Heraxa 1 210000 RingOfBalanceLesserItem 
+459cff3f67aea3846a228e0119f5e522 C4Heraxa 1 223500 RingOfBalanceGreaterItem 
+a71872b5b18d31c42b8bfc19c9a16d5f C4Heraxa 1 248750 RingofSickeningEntanglement 
+4a7525548113cbc4c9e0721e2a51cae4 C4Heraxa 1 250000 SealedRingItem 
+bf9ede076df62094fbcafac6900681ea C4Heraxa 1 252000 FireflyRingItem 
+290d4c8bda1002845b2089bfcab1e88d C4Heraxa 1 307500 RingOfUltimateProtectionGreaterItem 
+459cff3f67aea3846a228e0119f5e522 C4Heraxa 1 380000 RingMasterpieceItem 
 a4aa862b9e7771d4fae3402aa905ae3b C5Arsinoe 1 450000 RingOfBigBoom
 dde6fa4881bed584aa5647cb0d16dd45 C5Arsinoe 1 529000 RingOfCircumstancesItem 
 #主动物品
@@ -449,5 +449,5 @@ d280563507024194b8922ab65cf7e3ea C5Arsinoe 1 600000 RodOfFiredVengenceItem
 679d85cca6340514c82c00821ffd0267 C5Arsinoe 1 450000 RodOfPowerItem 
 61acb6c4b1c6d0f46a11e082484e8f23 C5Arsinoe 1 280000 RodOfUndeadItem 
 e718a3632de427a45909f6224183c46e C3Arsinoe 1 67500 LightningArrowsQuiverItem 
-059441667d95ad140924a36452799a3c C4Gilmore 1 120000 LoversArrowsQuiverItem 
+059441667d95ad140924a36452799a3c C4Heraxa 1 120000 LoversArrowsQuiverItem 
 911d0f8cad672454a94286a9feafc360 C5Arsinoe 1 222500 WeakenArrowsQuiverItem 
