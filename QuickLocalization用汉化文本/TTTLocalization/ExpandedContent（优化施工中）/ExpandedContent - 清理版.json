@@ -1992,6 +1992,20 @@
       "zhCN": "在龙兽长大后，它获得了缩小到中等体型的能力。当此功能处于激活状态时，龙兽能力获得以下变化； -4 力量，+2 敏捷，攻击范围缩小到中等范围。"
     },
     {
+      "Key": "90e7e0aef07941a3b87973e0e0c203e6",
+      "SimpleName": "CompactDrake2.Description",
+      "ProcessTemplates": true,
+      "enGB": "After the drake grows to a huge size it gains the ability to shrink back down to their large size. When this is active the drakes stats are modified; -4 Strength, +2 Dexterity, and the range on attacks is reduced to the large size range.",
+      "zhCN": "在龙兽长大为巨型后，它获得了缩小到大体型的能力。当此功能处于激活状态时，龙兽能力获得以下变化； -4 力量，+2 敏捷，攻击范围缩小到大型范围。"
+    },
+    {
+      "Key": "2a3f178ca9274359ba6be529a2c95845",
+      "SimpleName": "CompactDrake2Buff.Description",
+      "ProcessTemplates": true,
+      "enGB": "After the drake grows to a huge size it gains the ability to shrink back down to their large size. When this is active the drakes stats are modified; -4 Strength, +2 Dexterity, and the range on attacks is reduced to the large size range.",
+      "zhCN": "在龙兽长大为巨型后，它获得了缩小到大体型的能力。当此功能处于激活状态时，龙兽能力获得以下变化； -4 力量，+2 敏捷，攻击范围缩小到大型范围。"
+    },
+    {
       "Key": "8e1e197f3692483d83f9bf40f19156ab",
       "SimpleName": "CompactDrakeBuff.Description",
       "ProcessTemplates": true,
@@ -2012,6 +2026,20 @@
       "ProcessTemplates": true,
       "enGB": "After the drake grows to a large size it gains the ability to shrink back down to their medium size. When this is active the drakes stats are modified; -4 Strength, +2 Dexterity, and the range on attacks is reduced to the medium size range.",
       "zhCN": "在龙兽长大后，它获得了缩小到中等体型的能力。当此功能处于激活状态时，龙兽能力获得以下变化； -4 力量，+2 敏捷，攻击范围缩小到中等范围。"
+    },
+    {
+      "Key": "8e3062abdaf64cc4b5143bba1d0037b9",
+      "SimpleName": "CompactDrakeFeature2.Description",
+      "ProcessTemplates": true,
+      "enGB": "After the drake grows to a huge size it gains the ability to shrink back down to their large size. When this is active the drakes stats are modified; -4 Strength, +2 Dexterity, and the range on attacks is reduced to the large size range.",
+      "zhCN": "在龙兽长大后，它获得了缩小到中等体型的能力。当此功能处于激活状态时，龙兽能力获得以下变化； -4 力量，+2 敏捷，攻击范围缩小到中等范围。"
+    },
+    {
+      "Key": "2eee0f357b7645b78653f59fbcb0c5e8",
+      "SimpleName": "CompactDrakeFeature2.Name",
+      "ProcessTemplates": false,
+      "enGB": "Compact Drake - Large",
+       "zhCN": "缩小龙兽 - 大型"
     },
     {
       "Key": "fcf939ddd7904373a62d6f0219142ec7",
@@ -2847,61 +2875,71 @@
       "Key": "df3e803903b94f21aa188aae7395c447",
       "SimpleName": "DefenseDomainBaseAbility.Description",
       "ProcessTemplates": true,
-      "enGB": "Once each day, you can emit a 30-foot aura for a number of rounds equal to your cleric level. Allies within the aura gain a +2 deflection bonus to AC and combat maneuver defense."
+      "enGB": "Once each day, you can emit a 30-foot aura for a number of rounds equal to your cleric level. Allies within the aura gain a +2 deflection bonus to AC and combat maneuver defense.",
+      "zhCN": "每天1次，你能放出持续轮数为牧师等级的30尺灵光，盟友获得AC+2偏斜加值和+2战技防御。"
     },
     {
       "Key": "5bb76337a40342f4970cd83e8278722d",
       "SimpleName": "DefenseDomainBaseAreaBuff.Description",
       "ProcessTemplates": true,
-      "enGB": "Once each day, you can emit a 30-foot aura for a number of rounds equal to your cleric level. Allies within the aura gain a +2 deflection bonus to AC and combat maneuver defense."
+      "enGB": "Once each day, you can emit a 30-foot aura for a number of rounds equal to your cleric level. Allies within the aura gain a +2 deflection bonus to AC and combat maneuver defense.",
+      "zhCN": "每天1次，你能放出持续轮数为牧师等级的30尺灵光，盟友获得AC+2偏斜加值和+2战技防御。"
     },
     {
       "Key": "9ff6e9ee0d154ac4959478407033cf95",
       "SimpleName": "DefenseDomainBaseAreaBuff.Name",
       "ProcessTemplates": false,
-      "enGB": "Deflection Aura"
+      "enGB": "Deflection Aura",
+      "zhCN": "偏转灵光"
     },
     {
       "Key": "0d3887c03f554daf8982e677b866e467",
       "SimpleName": "DefenseDomainBaseBuff.Description",
       "ProcessTemplates": true,
-      "enGB": "Once each day, you can emit a 30-foot aura for a number of rounds equal to your cleric level. Allies within the aura gain a +2 deflection bonus to AC and combat maneuver defense."
+      "enGB": "Once each day, you can emit a 30-foot aura for a number of rounds equal to your cleric level. Allies within the aura gain a +2 deflection bonus to AC and combat maneuver defense.",
+      "zhCN": "每天1次，你能放出持续轮数为牧师等级的30尺灵光，盟友获得AC+2偏斜加值和+2战技防御。"
     },
     {
       "Key": "34518c092b8a4ca7a431fa45de2ca242",
       "SimpleName": "DefenseDomainBaseClassFeature.Description",
       "ProcessTemplates": true,
-      "enGB": "Your faith is your greatest source of protection, and you can use that faith to defend others. In addition, you receive a +1 resistance bonus on saving throws. This bonus increases by 1 for every 5 levels you possess."
+      "enGB": "Your faith is your greatest source of protection, and you can use that faith to defend others. In addition, you receive a +1 resistance bonus on saving throws. This bonus increases by 1 for every 5 levels you possess.",
+      "zhCN": "你以信念为要塞，赐予你抵抗一切攻击的力量。此外，你在反射豁免检定上获得+1抗力加值。这个加值每在授予你此能力的职业上提升5级额外增加1。"
     },
     {
       "Key": "cbada2dab63c4223b8f43a7239e99697",
       "SimpleName": "DefenseDomainBaseClassFeature.Name",
       "ProcessTemplates": false,
-      "enGB": "Defense Domain Resistance Bonus"
+      "enGB": "Defense Domain Resistance Bonus",
+      "zhCN": "防御子域抵抗加值"
     },
     {
       "Key": "b1de9f250b8b4848a03bb1a008c7c681",
       "SimpleName": "DefenseDomainBaseFeature.Description",
       "ProcessTemplates": true,
-      "enGB": "\nYour faith is your fortitude, inspiring all with the strength to defend aginst any blow. In addition, you receive a +1 resistance bonus on saving throws. This bonus increases by 1 for every 5 levels you possess in the class that gave you access to this domain.\nDeflection Aura: Once each day, you can emit a 30-foot aura for a number of rounds equal to your cleric level. Allies within the aura gain a +2 deflection bonus to AC and combat maneuver defense.\nAura of Protection: At 8th level, you can emit a 30-foot aura of protection for a number of rounds per day equal to your level in the class that gave you access to this domain. You and your allies within this aura gain a +1 deflection bonus to AC and resistance 5 against all elements (acid, cold, electricity, fire, and sonic). The deflection bonus increases by +1 for every four levels you possess in the class that gave you access to this domain beyond 8th. At 14th level, the resistance against all elements increases to 10. These rounds do not need to be consecutive."
+      "enGB": "\nYour faith is your fortitude, inspiring all with the strength to defend aginst any blow. In addition, you receive a +1 resistance bonus on saving throws. This bonus increases by 1 for every 5 levels you possess in the class that gave you access to this domain.\nDeflection Aura: Once each day, you can emit a 30-foot aura for a number of rounds equal to your cleric level. Allies within the aura gain a +2 deflection bonus to AC and combat maneuver defense.\nAura of Protection: At 8th level, you can emit a 30-foot aura of protection for a number of rounds per day equal to your level in the class that gave you access to this domain. You and your allies within this aura gain a +1 deflection bonus to AC and resistance 5 against all elements (acid, cold, electricity, fire, and sonic). The deflection bonus increases by +1 for every four levels you possess in the class that gave you access to this domain beyond 8th. At 14th level, the resistance against all elements increases to 10. These rounds do not need to be consecutive.",
+      "zhCN": "你以信念为要塞，赐予你抵抗一切攻击的力量。此外，你在反射豁免检定上获得+1抗力加值。这个加值每在授予你此能力的职业上提升5级额外增加1。\n偏转灵光：每天1次，你能放出持续轮数为牧师等级的30尺灵光，盟友获得AC+2偏斜加值和+2战技防御。\n守护灵光：达到8级后，你可发出30英尺范围的守护灵光，每天可持续的{g|Encyclopedia:Combat_Round}轮数{/g}等于赋予你此领域的职业等级。在此灵光范围内的盟友，包括你自身的{g|Encyclopedia:Armor_Class}防御等级{/g}获得+1偏斜加值，以及对抗所有能量的5点抗性（酸蚀、寒冷、电击、火焰和音波）。在8级后，赋予你此领域的职业每升4级，可额外提高1点偏斜加值。14级时，对抗所有能量的抗性将提高到10点。生效轮次无需连续。"
     },
     {
       "Key": "b5bab6d5e63340b68ec774cc4e12be07",
       "SimpleName": "DefenseDomainBaseFeature.Name",
       "ProcessTemplates": false,
-      "enGB": "Defense Subdomain"
+      "enGB": "Defense Subdomain",
+      "zhCN": "防御子域"
     },
     {
       "Key": "8965d182341e4781819f73fdbe4d29ad",
       "SimpleName": "DefenseDomainProgression.Description",
       "ProcessTemplates": true,
-      "enGB": "\nYour faith is your fortitude, inspiring all with the strength to defend aginst any blow. In addition, you receive a +1 resistance bonus on saving throws. This bonus increases by 1 for every 5 levels you possess in the class that gave you access to this domain.\nDeflection Aura: Once each day, you can emit a 30-foot aura for a number of rounds equal to your cleric level. Allies within the aura gain a +2 deflection bonus to AC and combat maneuver defense.\nAura of Protection: At 8th level, you can emit a 30-foot aura of protection for a number of rounds per day equal to your level in the class that gave you access to this domain. You and your allies within this aura gain a +1 deflection bonus to AC and resistance 5 against all elements (acid, cold, electricity, fire, and sonic). The deflection bonus increases by +1 for every four levels you possess in the class that gave you access to this domain beyond 8th. At 14th level, the resistance against all elements increases to 10. These rounds do not need to be consecutive.\nDomain Spells: shield, barkskin, protection from energy, communal protection from energy, spell resistance, communal stoneskin, particulate form, protection from spells, seamantle."
+      "enGB": "\nYour faith is your fortitude, inspiring all with the strength to defend aginst any blow. In addition, you receive a +1 resistance bonus on saving throws. This bonus increases by 1 for every 5 levels you possess in the class that gave you access to this domain.\nDeflection Aura: Once each day, you can emit a 30-foot aura for a number of rounds equal to your cleric level. Allies within the aura gain a +2 deflection bonus to AC and combat maneuver defense.\nAura of Protection: At 8th level, you can emit a 30-foot aura of protection for a number of rounds per day equal to your level in the class that gave you access to this domain. You and your allies within this aura gain a +1 deflection bonus to AC and resistance 5 against all elements (acid, cold, electricity, fire, and sonic). The deflection bonus increases by +1 for every four levels you possess in the class that gave you access to this domain beyond 8th. At 14th level, the resistance against all elements increases to 10. These rounds do not need to be consecutive.\nDomain Spells: shield, barkskin, protection from energy, communal protection from energy, spell resistance, communal stoneskin, particulate form, protection from spells, seamantle.",
+      "zhCN": "你以信念为要塞，赐予你抵抗一切攻击的力量。此外，你在反射豁免检定上获得+1抗力加值。这个加值每在授予你此能力的职业上提升5级额外增加1。\n偏转灵光：每天1次，你能放出持续轮数为牧师等级的30尺灵光，盟友获得AC+2偏斜加值和+2战技防御。\n守护灵光：达到8级后，你可发出30英尺范围的守护灵光，每天可持续的{g|Encyclopedia:Combat_Round}轮数{/g}等于赋予你此领域的职业等级。在此灵光范围内的盟友，包括你自身的{g|Encyclopedia:Armor_Class}防御等级{/g}获得+1偏斜加值，以及对抗所有能量的5点抗性（酸蚀、寒冷、电击、火焰和音波）。在8级后，赋予你此领域的职业每升4级，可额外提高1点偏斜加值。14级时，对抗所有能量的抗性将提高到10点。生效轮次无需连续。\n领域法术：护盾术，树肤术，防护能量，共用防护能量，法术抵抗，共用石肤，粒子形态，防护魔法，水幕拒敌。"
     },
     {
       "Key": "75ef6e269fff45d293432eb17be730e3",
       "SimpleName": "DefenseDomainProgressionSecondary.Description",
       "ProcessTemplates": true,
-      "enGB": "\nYour faith is your fortitude, inspiring all with the strength to defend aginst any blow. In addition, you receive a +1 resistance bonus on saving throws. This bonus increases by 1 for every 5 levels you possess in the class that gave you access to this domain.\nDeflection Aura: Once each day, you can emit a 30-foot aura for a number of rounds equal to your cleric level. Allies within the aura gain a +2 deflection bonus to AC and combat maneuver defense.\nAura of Protection: At 8th level, you can emit a 30-foot aura of protection for a number of rounds per day equal to your level in the class that gave you access to this domain. You and your allies within this aura gain a +1 deflection bonus to AC and resistance 5 against all elements (acid, cold, electricity, fire, and sonic). The deflection bonus increases by +1 for every four levels you possess in the class that gave you access to this domain beyond 8th. At 14th level, the resistance against all elements increases to 10. These rounds do not need to be consecutive.\nDomain Spells: shield, barkskin, protection from energy, communal protection from energy, spell resistance, communal stoneskin, particulate form, protection from spells, seamantle."
+      "enGB": "\nYour faith is your fortitude, inspiring all with the strength to defend aginst any blow. In addition, you receive a +1 resistance bonus on saving throws. This bonus increases by 1 for every 5 levels you possess in the class that gave you access to this domain.\nDeflection Aura: Once each day, you can emit a 30-foot aura for a number of rounds equal to your cleric level. Allies within the aura gain a +2 deflection bonus to AC and combat maneuver defense.\nAura of Protection: At 8th level, you can emit a 30-foot aura of protection for a number of rounds per day equal to your level in the class that gave you access to this domain. You and your allies within this aura gain a +1 deflection bonus to AC and resistance 5 against all elements (acid, cold, electricity, fire, and sonic). The deflection bonus increases by +1 for every four levels you possess in the class that gave you access to this domain beyond 8th. At 14th level, the resistance against all elements increases to 10. These rounds do not need to be consecutive.\nDomain Spells: shield, barkskin, protection from energy, communal protection from energy, spell resistance, communal stoneskin, particulate form, protection from spells, seamantle.",
+      "zhCN": "你以信念为要塞，赐予你抵抗一切攻击的力量。此外，你在反射豁免检定上获得+1抗力加值。这个加值每在授予你此能力的职业上提升5级额外增加1。\n偏转灵光：每天1次，你能放出持续轮数为牧师等级的30尺灵光，盟友获得AC+2偏斜加值和+2战技防御。\n守护灵光：达到8级后，你可发出30英尺范围的守护灵光，每天可持续的{g|Encyclopedia:Combat_Round}轮数{/g}等于赋予你此领域的职业等级。在此灵光范围内的盟友，包括你自身的{g|Encyclopedia:Armor_Class}防御等级{/g}获得+1偏斜加值，以及对抗所有能量的5点抗性（酸蚀、寒冷、电击、火焰和音波）。在8级后，赋予你此领域的职业每升4级，可额外提高1点偏斜加值。14级时，对抗所有能量的抗性将提高到10点。生效轮次无需连续。\n领域法术：护盾术，树肤术，防护能量，共用防护能量，法术抵抗，共用石肤，粒子形态，防护魔法，水幕拒敌。"
     },
     {
       "Key": "b4a6fe16d0964fc19c9bf778b5dc2d04",
@@ -5541,6 +5579,48 @@
       "ProcessTemplates": true,
       "enGB": "At 1st level, and at every level thereafter, a Hellknight signifer gains new spells per day as if he had also gained a level in a spellcasting class he belonged to before adding the prestige class. He does not, however, gain any other benefit a character of that class would have gained, except for additional spells per day, spells known, and an increased effective level of spellcasting. If a character had more than one spellcasting class before becoming a Hellknight signifer, he must decide to which class he adds the new level for purposes of determining spells per day.",
       "zhCN": "1级时，以及之后每个等级，地狱骑士持节士都能够获得新的每日法术量，如同他在进阶之前已有的施法职业上也获得了一个等级。但是除了额外的每日法术量、已知法术、有效施法者等级之外，他无法获得该职业角色升级之际本应获得的其他好处。若角色在进阶成为地狱骑士持节士之前拥有多个施法职业，那么他必须决定将新的一级追加在哪个职业上，以用于判断每日法术量。"
+    },
+        {
+      "Key": "c2a8c29a8ac8495e9fc9750c627ffd32",
+      "SimpleName": "HeroismDomainBaseAbility.Description",
+      "ProcessTemplates": true,
+      "enGB": "As a standard action, you can touch an ally to grant him heroism as if the heroism spell had been cast on him for a number of rounds equal to half the level of the class that gave you access to this domain (min 1). You can use this ability a number of times per day equal to 3 + your Wisdom modifier.",
+      "zhCN": "你能够以{g|Encyclopedia:Standard_Actions}标准动作{/g}接触生物，使其获得如同英雄气概法术的效果。此能力持续轮数等于授予你该领域职业等级的一半（最小1），每天可使用次数为{g|Encyclopedia:Wisdom}感知{/g}调整值+3。"
+    },
+    {
+      "Key": "63764276ecff4ca5b86ba538b9fdf01f",
+      "SimpleName": "HeroismDomainBaseAbility.Name",
+      "ProcessTemplates": false,
+      "enGB": "Touch of Glory",
+      "zhCN": "荣耀之触"
+    },
+    {
+      "Key": "e45ceee55833496aa9dafbb038445e61",
+      "SimpleName": "HeroismDomainBaseFeature.Description",
+      "ProcessTemplates": true,
+      "enGB": "\nYou are a true example of the heroic nature of your deity. In addition, when you channel positive energy to harm undead creatures, the save DC to halve the damage is increased by 2.\nTouch of Glory: As a standard action, you can touch an ally to grant him heroism as if the heroism spell had been cast on him for a number of rounds equal to half the level of the class that gave you access to this domain (min 1). You can use this ability a number of times per day equal to 3 + your Wisdom modifier.\nAura of Heroism: At 8th level, you can emit a 30-foot aura of heroism for a number of rounds per day equal to your level in the class that gave you access to this domain. Using this ability is a swift action. Allies in the area are treated as if they were under the effects of heroism spell.",
+      "zhCN": "你是神赐英雄本质的真实范例。此外，当你引导能量伤害不死生物时，用于减半伤害的豁免DC+2。\n荣耀之触：你能够以{g|Encyclopedia:Standard_Actions}标准动作{/g}接触生物，使其获得如同英雄气概法术的效果。此能力持续轮数等于授予你该领域职业等级的一半（最小1），每天可使用次数为{g|Encyclopedia:Wisdom}感知{/g}调整值+3。\n英雄气概灵光：在8级时，你可发出30英尺范围的英雄气概灵光，每天可持续的{g|Encyclopedia:Combat_Round}轮数{/g}等于赋予你此领域的职业等级。施展此能力是一个{g|Encyclopedia:Swift_Action}迅捷动作{/g}。在范围内的盟友都视为受到英雄气概的{g|Encyclopedia:Spell}法术{/g}效果影响。"
+    },
+    {
+      "Key": "2f478ab4091b456592619d82d3220ada",
+      "SimpleName": "HeroismDomainBaseFeature.Name",
+      "ProcessTemplates": false,
+      "enGB": "Heroism Subdomain",
+      "zhCN": "英勇子域"
+    },
+    {
+      "Key": "fd5de01dbc564ecfbee7c7748499e957",
+      "SimpleName": "HeroismDomainProgression.Description",
+      "ProcessTemplates": true,
+      "enGB": "\nYou are a true example of the heroic nature of your deity. In addition, when you channel positive energy to harm undead creatures, the save DC to halve the damage is increased by 2.\nTouch of Glory: As a standard action, you can touch an ally to grant him heroism as if the heroism spell had been cast on him for a number of rounds equal to half the level of the class that gave you access to this domain (min 1). You can use this ability a number of times per day equal to 3 + your Wisdom modifier.\nAura of Heroism: At 8th level, you can emit a 30-foot aura of heroism for a number of rounds per day equal to your level in the class that gave you access to this domain. Using this ability is a swift action. Allies in the area are treated as if they were under the effects of heroism spell.\nDomain Spells: shield of faith, bless weapon, heroism, divine power, burst of glory, greater heroism, holy sword, holy aura, overwhelming presence.",
+      "zhCN": "你是神赐英雄本质的真实范例。此外，当你引导能量伤害不死生物时，用于减半伤害的豁免DC+2。\n荣耀之触：你能够以{g|Encyclopedia:Standard_Actions}标准动作{/g}接触生物，使其获得如同英雄气概法术的效果。此能力持续轮数等于授予你该领域职业等级的一半（最小1），每天可使用次数为{g|Encyclopedia:Wisdom}感知{/g}调整值+3。\n英雄气概灵光：在8级时，你可发出30英尺范围的英雄气概灵光，每天可持续的{g|Encyclopedia:Combat_Round}轮数{/g}等于赋予你此领域的职业等级。施展此能力是一个{g|Encyclopedia:Swift_Action}迅捷动作{/g}。在范围内的盟友都视为受到英雄气概的{g|Encyclopedia:Spell}法术{/g}效果影响。"
+    },
+    {
+      "Key": "744bc35a4b90434abe9bdcab26e24a38",
+      "SimpleName": "HeroismDomainProgressionSecondary.Description",
+      "ProcessTemplates": true,
+      "enGB": "\nYou are a true example of the heroic nature of your deity. In addition, when you channel positive energy to harm undead creatures, the save DC to halve the damage is increased by 2.\nTouch of Glory: As a standard action, you can touch an ally to grant him heroism as if the heroism spell had been cast on him for a number of rounds equal to half the level of the class that gave you access to this domain (min 1). You can use this ability a number of times per day equal to 3 + your Wisdom modifier.\nAura of Heroism: At 8th level, you can emit a 30-foot aura of heroism for a number of rounds per day equal to your level in the class that gave you access to this domain. Using this ability is a swift action. Allies in the area are treated as if they were under the effects of heroism spell.\nDomain Spells: shield of faith, bless weapon, heroism, divine power, burst of glory, greater heroism, holy sword, holy aura, overwhelming presence.",
+      "zhCN": "你是神赐英雄本质的真实范例。此外，当你引导能量伤害不死生物时，用于减半伤害的豁免DC+2。\n荣耀之触：你能够以{g|Encyclopedia:Standard_Actions}标准动作{/g}接触生物，使其获得如同英雄气概法术的效果。此能力持续轮数等于授予你该领域职业等级的一半（最小1），每天可使用次数为{g|Encyclopedia:Wisdom}感知{/g}调整值+3。\n英雄气概灵光：在8级时，你可发出30英尺范围的英雄气概灵光，每天可持续的{g|Encyclopedia:Combat_Round}轮数{/g}等于赋予你此领域的职业等级。施展此能力是一个{g|Encyclopedia:Swift_Action}迅捷动作{/g}。在范围内的盟友都视为受到英雄气概的{g|Encyclopedia:Spell}法术{/g}效果影响。"
     },
     {
       "Key": "2f1bd34726854d25a39e3c6182383984",
@@ -10601,6 +10681,208 @@
       "enGB": "A draconic shaman gains a drake companion instead of a spirit animal, and she communes with the drake to prepare her spells just as other shamans commune with their spirit animals. She doesn’t gain a primary spirit, but she still gains wandering spirit at 4th level. She must select all her hexes (other than her wandering hexes) from the list of shaman hexes. She doesn’t gain spirit magic slots until 4th level when she gains her wandering spirit. \nThis ability replaces spirit, spirit animal, and the hexes gained at 4th and 10th levels and alters spirit magic.",
       "zhCN": "龙之萨满获得龙兽伙伴而不是魂兽，她通过与龙兽交流来准备她的法术，就像其他萨满与他们的魂兽交流一样。她没有获得初始精魂，但她仍然在 4 级获得游荡精魂。她必须从萨满巫术列表中选择她可以获得的巫术（除了她的游荡精魂巫术）。直到第4级她获得游荡精魂时，她才获得精魂魔法。\n此能力取代精魂、魂兽和在 4 级和 10 级获得的巫术，并改变精魂魔法。"
     },
+        {
+      "Key": "8f1b1760618e435bba1695a2eb35fbff",
+      "SimpleName": "ShamanHeavensPrismaticSprayAbility.Description",
+      "ProcessTemplates": true,
+      "enGB": "This spell causes seven shimmering, multicolored beams of light to spray from your hand. Each beam has a different power. Creatures in the area of the spell with 8 HD or less are automatically blinded for 2d4 rounds. Every creature in the area is randomly struck by one or more beams, which have additional effects:\n20 points fire damage (Reflex half)\n40 points acid damage (Reflex half)\n80 points electricity damage (Reflex half)\nPoison (Frequency 1/rd. for 6 rds.; Init. effect death; Sec. effect 1 Con/rd.; Cure 2 consecutive Fort saves)\nBaleful Polymorph (Fortitude negates)\nInsane, as insanity spell (Will negates)\nSent to another plane forever (Will negates)\nCreature struck by two rays receives both rays' effects at once.",
+      "zhCN":"此{g|Encyclopedia:Spell}法术{/g}使七道闪烁的彩色光线从你的手中射出。每道光线都有不同的特异力量。处于法术范围内且生命骰数不超过8的生物自动陷入目盲{g|Encyclopedia:Dice}2d4{/g}{g|Encyclopedia:Combat_Round}轮{/g}。范围内每个生物随机被一道或更多光线击中，每道光线都具有额外的效果：\n20点{g|Encyclopedia:Energy_Damage}火焰伤害{/g}（反射减半）\n40点酸蚀{g|Encyclopedia:Damage}伤害{/g}（反射减半）\n80点电击伤害（反射减半）\n毒素（频率为每轮1次，持续6轮；初始效果为即死；次要效果为每轮1点{g|Encyclopedia:Constitution}体质{/g}伤害；连续两次强韧{g|Encyclopedia:Saving_Throw}豁免{/g}成功可治愈）\n恶意变形术（强韧免除）\n疯狂，效果如同神智错乱（意志免除）\n永远传送至另一位面（意志免除）\n被两道光线击中的生物会同时承受两道光线的效果。"
+    },
+    {
+      "Key": "827becce1a4442bba53766dcd6f56b9d",
+      "SimpleName": "ShamanHeavensPrismaticSprayAbility.Name",
+      "ProcessTemplates": false,
+      "enGB": "Phantasmagoric Display - Prismatic Spray",
+      "zhCN":"虹彩使徒 - 虹光喷射"
+    },
+    {
+      "Key": "be256e4e149e4b4f90b3c3ea9b0d030b",
+      "SimpleName": "ShamanHeavensScintillatingPatternAbility.Description",
+      "ProcessTemplates": true,
+      "enGB": "A twisting pattern of coruscating colors weaves through the air, affecting creatures within. The spell affects a total number of HD of creatures equal to your caster level (maximum 20). Creatures with the fewest HD are affected first, and among creatures with equal HD, those who are closest to the spell's point of origin are affected first. HD that are not sufficient to affect a creature are wasted. The spell affects each subject according to its HD.\n6 or less: Unconscious for 1d4 rounds, then stunned for the same amount of rounds, and then confused for the same amount of rounds. (Treat an unconscious result as stunned for nonliving creatures.)\n7 to 12: Stunned for 1d4 rounds, then confused for the same amount of rounds.\n13 or more: Confused for 1d4 rounds.\nSightless creatures are not affected by scintillating pattern.",
+      "zhCN":"充满生动色彩的交缠图纹在空中汇集，对身在其中的生物造成影响。此{g|Encyclopedia:Spell}法术{/g}可影响生物的总生命骰数等于你的{g|Encyclopedia:Caster_Level}施法者等级{/g}（最高20级）。生命骰数最低的生物首先受到影响，相同生命骰数的生物当中则是最靠近法术源点的首先受到影响。不足以影响一个生物的生命骰数将被浪费。法术将根据受术生物的生命骰数造成不同效果。\n6或更低：{g|Encyclopedia:Injury_Death}昏迷{/g}{g|Encyclopedia:Dice}1d4{/g}轮，然后震慑相同的{g|Encyclopedia:Combat_Round}轮数{/g}，然后困惑相同的轮数。（对于非活物，将昏迷按震慑判定）\n7到12：震慑1d4轮，然后困惑相同的轮数。\n13或更高：困惑1d4轮。\n无视觉的生物不受迷幻图纹影响。"
+    },
+    {
+      "Key": "b40a591f0d1b4494b7fe66174870832b",
+      "SimpleName": "ShamanHeavensScintillatingPatternAbility.Name",
+      "ProcessTemplates": false,
+      "enGB": "虹彩使徒 - 迷幻图纹"
+    },
+    {
+      "Key": "2cb06b96a01149ddbc206cabc6fae89f",
+      "SimpleName": "ShamanHeavensSpiritBaseAbility.Description",
+      "ProcessTemplates": true,
+      "enGB": "As a standard action, the shaman causes stardust to materialize around one creature within 30 feet. This stardust causes the target to shed light as a candle, and it cannot benefit from concealment or any invisibility effects. The creature takes a –1 penalty on attack rolls and sight-based Perception checks. This penalty to attack rolls and Perception checks increases by 1 at 4th level and every 4 levels thereafter, to a maximum of –6 at 20th level. This effect lasts for a number of rounds equal to half the shaman’s level (minimum 1). Sightless creatures cannot be affected by this ability. The shaman can use this ability a number of times per day equal to 3 + her Charisma modifier.",
+      "zhCN":"以一个标准动作，萨满召唤来一团星尘包裹30尺内一个生物。星尘会使目标如同蜡烛一般发光，并且不能从隐蔽和隐形效果中获得任何好处。目标的攻击和基于视力的察觉检定都会获得-1减值，该减值在4级及之后每4级都会增加1,最高20级时的-6。该能力持续轮数为萨满等级的一半（最少为1）。不依靠视力的生物不受该能力影响。该能力每日使用次数为3+萨满魅力调整值。"
+    },
+    {
+      "Key": "2ac7fa2c5c05485aba7c0ff9fd8f48ee",
+      "SimpleName": "ShamanHeavensSpiritBaseAbilityBuff.Description",
+      "ProcessTemplates": true,
+      "enGB": "As a standard action, the shaman causes stardust to materialize around one creature within 30 feet. This stardust causes the target to shed light as a candle, and it cannot benefit from concealment or any invisibility effects. The creature takes a –1 penalty on attack rolls and sight-based Perception checks. This penalty to attack rolls and Perception checks increases by 1 at 4th level and every 4 levels thereafter, to a maximum of –6 at 20th level. This effect lasts for a number of rounds equal to half the shaman’s level (minimum 1). Sightless creatures cannot be affected by this ability.",
+      "zhCN":"以一个标准动作，萨满召唤来一团星尘包裹30尺内一个生物。星尘会使目标如同蜡烛一般发光，并且不能从隐蔽和隐形效果中获得任何好处。目标的攻击和基于视力的察觉检定都会获得-1减值，该减值在4级及之后每4级都会增加1,最高20级时的-6。该能力持续轮数为萨满等级的一半（最少为1）。不依靠视力的生物不受该能力影响。"
+    },
+    {
+      "Key": "083d9d1dc856406a81919abd23dc2ea3",
+      "SimpleName": "ShamanHeavensSpiritBaseAbilityBuff.Name",
+      "ProcessTemplates": false,
+      "enGB": "Stardust",
+      "zhCN":"星夜尘沙"
+    },
+    {
+      "Key": "651e2edbc30b4c9296f575254e20e853",
+      "SimpleName": "ShamanHeavensSpiritBaseFeature.Description",
+      "ProcessTemplates": true,
+      "enGB": "As a standard action, the shaman causes stardust to materialize around one creature within 30 feet. This stardust causes the target to shed light as a candle, and it cannot benefit from concealment or any invisibility effects. The creature takes a –1 penalty on attack rolls and sight-based Perception checks. This penalty to attack rolls and Perception checks increases by 1 at 4th level and every 4 levels thereafter, to a maximum of –6 at 20th level. This effect lasts for a number of rounds equal to half the shaman’s level (minimum 1). Sightless creatures cannot be affected by this ability. The shaman can use this ability a number of times per day equal to 3 + her Charisma modifier.",
+      "zhCN":"以一个标准动作，萨满召唤来一团星尘包裹30尺内一个生物。星尘会使目标如同蜡烛一般发光，并且不能从隐蔽和隐形效果中获得任何好处。目标的攻击和基于视力的察觉检定都会获得-1减值，该减值在4级及之后每4级都会增加1,最高20级时的-6。该能力持续轮数为萨满等级的一半（最少为1）。不依靠视力的生物不受该能力影响。该能力每日使用次数为3+萨满魅力调整值。"
+    },
+    {
+      "Key": "ba6c2c348c0945968fa855683807cce6",
+      "SimpleName": "ShamanHeavensSpiritGreaterFeature.Description",
+      "ProcessTemplates": true,
+      "enGB": "The shaman gains cold resistance 15. In addition, every time you miss an attack roll because of concealment, you can reroll your miss chance percentile roll one time to see if you actually hit.",
+      "zhCN":"萨满获得寒冷抵抗15。此外，每次因为你因为隐蔽而导致攻击失手，你可以重掷一次来决定是否命中。"
+    },
+    {
+      "Key": "5a0892da9cad4a5ca320524e54db2c93",
+      "SimpleName": "ShamanHeavensSpiritGreaterFeature.Name",
+      "ProcessTemplates": false,
+      "enGB": "Void Adaptation",
+      "zhCN":"适应虚空"
+    },
+    {
+      "Key": "bc68723ff6d54f4bbee49881668944d8",
+      "SimpleName": "ShamanHeavensSpiritManifestationFeature.Description",
+      "ProcessTemplates": true,
+      "enGB": "Upon reaching 20th level, the shaman becomes the spirit of heaven. You receive a bonus on all saving throws equal to your Wisdom modifier. You become immune to fear effects, and automatically confirm all critical hits. Once per day, should you die, 1 round after dying you are reborn. Your body re-forms with all your equipment, and you return to life with maximum hit points.",
+      "zhCN":"２０级时，萨满成为苍天的精魂。你可以将感知调整值添加到所有豁免上。你免疫恐惧效果，所造成的重击威胁自动确认。每天一次，若你死亡，将在1轮内重生，你的身体会带着所有装备重组，回到最大生命值。"
+    },
+    {
+      "Key": "9d4fd2a232f14609a962c599a69a23b2",
+      "SimpleName": "ShamanHeavensSpiritManifestationFeature.Name",
+      "ProcessTemplates": false,
+      "enGB": "Manifestation",
+      "zhCN":"显圣"
+    },
+    {
+      "Key": "6d74088dd135419c852a98bb2d804ec4",
+      "SimpleName": "ShamanHeavensSpiritProgression.Description",
+      "ProcessTemplates": true,
+      "enGB": "A shaman who selects the heavens spirit has eyes that sparkle like starlight, exuding an aura of otherworldliness to those she is around. When she calls upon one of this spirit’s abilities, her eyes turn pitch black and the colors around her drain for a brief moment.",
+      "zhCN":"选择苍天魂域的萨满双眼透射出星光，周身散发出异世的霞光。当她激活该魂域能力时，她的双眼会忽然变得深邃而幽暗，瞬间吸收掉周遭的光芒。"
+    },
+    {
+      "Key": "c4de97a223f842169bc9d4420e3c4410",
+      "SimpleName": "ShamanHeavensSpiritTrueFeature.Description",
+      "ProcessTemplates": true,
+      "enGB": "The shaman can cast prismatic spray and scintillating pattern, each once per day with a caster level equal to her shaman level.",
+      "zhCN":"萨满每天可以使用虹光喷射和迷幻图纹各1次，施法者等级等于其萨满等级。"
+    },
+    {
+      "Key": "67f57b9327c741a38e6ec6e14273d696",
+      "SimpleName": "ShamanHeavensSpiritTrueFeature.Name",
+      "ProcessTemplates": false,
+      "enGB": "Phantasmagoric Display",
+      "zhCN":"虹彩使徒"
+    },
+    {
+      "Key": "2f46ccf119464d638855831a6114776b",
+      "SimpleName": "ShamanHexGuidingStarFeature.Description",
+      "ProcessTemplates": true,
+      "enGB": "The stars themselves hold many answers, you may add your Charisma modifier to your Wisdom modifier on all Wisdom-based checks. In addition, once per day you can cast one spell from the shaman spellbook as if it were modified by the Empower Spell or Extend Spell feat without increasing the spell’s casting time or level.",
+      "zhCN":""
+    },
+    {
+      "Key": "5a07be573b7d427abf028323a1a890a5",
+      "SimpleName": "ShamanHexGuidingStarMetamagicAbilityBase.Description",
+      "ProcessTemplates": true,
+      "enGB": "Once per day you can cast one spell from the shaman spellbook as if it were modified by the Empower Spell or Extend Spell feat without increasing the spell’s casting time or level.",
+      "zhCN":"每天一次，你可以从萨满法术书中释放一个法术，如同其被增效或者延时超魔专长影响，而不实际增加其施法时间或者等级。"
+    },
+    {
+      "Key": "0c8f3c9aeed9404a8ed54d582d14b8b5",
+      "SimpleName": "ShamanHexGuidingStarMetamagicAbilityEmpower.Description",
+      "ProcessTemplates": true,
+      "enGB": "Once per day you can cast one spell from the shaman spellbook as if it were modified by the Empower Spell feat without increasing the spell’s casting time or level.",
+      "zhCN":"每天一次，你可以从萨满法术书中释放一个法术，如同其被增效超魔专长影响，而不实际增加其施法时间或者等级。"
+    },
+    {
+      "Key": "0827f20bf8f14de9958d7b35f59d2e4c",
+      "SimpleName": "ShamanHexGuidingStarMetamagicAbilityExtend.Description",
+      "ProcessTemplates": true,
+      "enGB": "Once per day you can cast one spell from the shaman spellbook as if it were modified by the Extend Spell feat without increasing the spell’s casting time or level.",
+      "zhCN":"每天一次，你可以从萨满法术书中释放一个法术，如同其被延时超魔专长影响，而不实际增加其施法时间或者等级。"
+    },
+    {
+      "Key": "6c484f2fe0b34dc99585833df175e282",
+      "SimpleName": "ShamanHexGuidingStarMetamagicBuffEmpower.Description",
+      "ProcessTemplates": true,
+      "enGB": "Once per day you can cast one spell from the shaman spellbook as if it were modified by the Empower Spell feat without increasing the spell’s casting time or level.",
+      "zhCN":"每天一次，你可以从萨满法术书中释放一个法术，如同其被增效超魔专长影响，而不实际增加其施法时间或者等级。"
+    },
+    {
+      "Key": "9c7ff0d33262403e848517635fb3d58e",
+      "SimpleName": "ShamanHexGuidingStarMetamagicBuffExtend.Description",
+      "ProcessTemplates": true,
+      "enGB": "Once per day you can cast one spell from the shaman spellbook as if it were modified by the Extend Spell feat without increasing the spell’s casting time or level.",
+      "zhCN":"每天一次，你可以从萨满法术书中释放一个法术，如同其被延时超魔专长影响，而不实际增加其施法时间或者等级。"
+    },
+    {
+      "Key": "cee627eeda7e45ac9e386605ba6d4b7d",
+      "SimpleName": "ShamanHexLureOfTheHeavensFeature.Description",
+      "ProcessTemplates": true,
+      "enGB": "Your connection to the skies above is so strong that your feet barely touch the ground. At 1st level, you no longer leave tracks gaining a +1 to stealth. At 5th level, you can hover up to 6 inches above the ground, avoiding difficult terrain. At 10th level you gain the ability to fly along the ground, gaining a +3 dodge bonus to AC against melee attacks, for a number of minutes per day equal to your shaman level. This duration does not need to be consecutive, but it must be spent in 1-minute increments.",
+      "zhCN":"你和天际的强大连结让你连想要双脚着地都有困难。1级时你不再留下足迹并获得+1隐匿。5级时你可以悬浮在地面上6尺的位置，无视困难地形。10级时你得到飞行的能力，对近战攻击在AC上获得+3闪避加值。每日可用时间为每萨满等级1分钟。使用无需连续，每次至少1分钟。"
+    },
+    {
+      "Key": "73a1301d02d4465786140b66ad561e90",
+      "SimpleName": "ShamanHexLureOfTheHeavensFlyAbility.Description",
+      "ProcessTemplates": true,
+      "enGB": "Your connection to the skies above is so strong that your feet barely touch the ground. At 1st level, you no longer leave tracks gaining a +1 to stealth. At 5th level, you can hover up to 6 inches above the ground, avoiding difficult terrain. At 10th level you gain the ability to fly along the ground, gaining a +3 dodge bonus to AC against melee attacks, for a number of minutes per day equal to your shaman level. This duration does not need to be consecutive, but it must be spent in 1-minute increments.",
+      "zhCN":"你和天际的强大连结让你连想要双脚着地都有困难。1级时你不再留下足迹并获得+1隐匿。5级时你可以悬浮在地面上6尺的位置，无视困难地形。10级时你得到飞行的能力，对近战攻击在AC上获得+3闪避加值。每日可用时间为每萨满等级1分钟。使用无需连续，每次至少1分钟。"
+    },
+    {
+      "Key": "a62bef608bde4d9186227bf7abebcc3e",
+      "SimpleName": "ShamanHexLureOfTheHeavensFlyBuff.Description",
+      "ProcessTemplates": true,
+      "enGB": "Your connection to the skies above is so strong that your feet barely touch the ground. At 1st level, you no longer leave tracks gaining a +1 to stealth. At 5th level, you can hover up to 6 inches above the ground, avoiding difficult terrain. At 10th level you gain the ability to fly along the ground, gaining a +3 dodge bonus to AC against melee attacks, for a number of minutes per day equal to your shaman level. This duration does not need to be consecutive, but it must be spent in 1-minute increments.",
+      "zhCN":"你和天际的强大连结让你连想要双脚着地都有困难。1级时你不再留下足迹并获得+1隐匿。5级时你可以悬浮在地面上6尺的位置，无视困难地形。10级时你得到飞行的能力，对近战攻击在AC上获得+3闪避加值。每日可用时间为每萨满等级1分钟。使用无需连续，每次至少1分钟。"
+    },
+    {
+      "Key": "192b4a1f65bc4d21aaca499bee67946b",
+      "SimpleName": "ShamanHexLureOfTheHeavensFlyFeature.Description",
+      "ProcessTemplates": true,
+      "enGB": "Your connection to the skies above is so strong that your feet barely touch the ground. At 1st level, you no longer leave tracks gaining a +1 to stealth. At 5th level, you can hover up to 6 inches above the ground, avoiding difficult terrain. At 10th level you gain the ability to fly along the ground, gaining a +3 dodge bonus to AC against melee attacks, for a number of minutes per day equal to your shaman level. This duration does not need to be consecutive, but it must be spent in 1-minute increments.",
+      "zhCN":"你和天际的强大连结让你连想要双脚着地都有困难。1级时你不再留下足迹并获得+1隐匿。5级时你可以悬浮在地面上6尺的位置，无视困难地形。10级时你得到飞行的能力，对近战攻击在AC上获得+3闪避加值。每日可用时间为每萨满等级1分钟。使用无需连续，每次至少1分钟。"
+    },
+    {
+      "Key": "2e58306b57ed46efa5996724e48109cd",
+      "SimpleName": "ShamanHexStarburnAbility.Description",
+      "ProcessTemplates": true,
+      "enGB": "As a standard action, the shaman causes one creature within 30 feet to burn like a star. The creature takes 1d6 points of fire damage for every 2 levels the shaman possesses and emits bright light for 1 round. A successful Fortitude saving throw halves the damage and negates the emission of bright light. The shaman can use this hex a number of times per day equal to her Charisma modifier (minimum 1), but must wait 1d4 rounds between uses.",
+      "zhCN":"以一个标准动作，萨满可以使30尺内一个单位燃起星光。目标受到每2萨满等级1ｄ6点火焰伤害，并散发出强光１轮。成功的强韧豁免可以减半伤害并不会发光。该巫术每日使用次数为萨满的魅力调整值，连续使用之间至少间距1ｄ4轮。"
+    },
+    {
+      "Key": "e9bed7a18d6e44449703d5ac9bf73720",
+      "SimpleName": "ShamanHexStarburnBuff.Description",
+      "ProcessTemplates": true,
+      "enGB": "As a standard action, the shaman causes one creature within 30 feet to burn like a star. The creature takes 1d6 points of fire damage for every 2 levels the shaman possesses and emits bright light for 1 round. A successful Fortitude saving throw halves the damage and negates the emission of bright light. The shaman can use this hex a number of times per day equal to her Charisma modifier (minimum 1), but must wait 1d4 rounds between uses.",
+      "zhCN":"以一个标准动作，萨满可以使30尺内一个单位燃起星光。目标受到每2萨满等级1ｄ6点火焰伤害，并散发出强光１轮。成功的强韧豁免可以减半伤害并不会发光。该巫术每日使用次数为萨满的魅力调整值，连续使用之间至少间距1ｄ4轮。"
+    },
+    {
+      "Key": "255fbe5ed27e433fac1eaac01bd33cf5",
+      "SimpleName": "ShamanHexStarburnBuff.Name",
+      "ProcessTemplates": false,
+      "enGB": "Starburn",
+      "zhCN":"星光燃烧"
+    },
+    {
+      "Key": "fe6333dc0fa14976bc38c18901ad9296",
+      "SimpleName": "ShamanHexStarburnFeature.Description",
+      "ProcessTemplates": true,
+      "enGB": "As a standard action, the shaman causes one creature within 30 feet to burn like a star. The creature takes 1d6 points of fire damage for every 2 levels the shaman possesses and emits bright light for 1 round. A successful Fortitude saving throw halves the damage and negates the emission of bright light. The shaman can use this hex a number of times per day equal to her Charisma modifier (minimum 1), but must wait 1d4 rounds between uses.",
+      "zhCN":"以一个标准动作，萨满可以使30尺内一个单位燃起星光。目标受到每2萨满等级1ｄ6点火焰伤害，并散发出强光１轮。成功的强韧豁免可以减半伤害并不会发光。该巫术每日使用次数为萨满的魅力调整值，连续使用之间至少间距1ｄ4轮。"
+    },
     {
       "Key": "45f0b8710285465a9d435b571a14e270",
       "SimpleName": "ShaxFeature.Description",
@@ -13218,6 +13500,34 @@
       "ProcessTemplates": true,
       "enGB": "\nYour touch infuses life and weapons with chaos, and you carry a divine whimsy wherever you go.\nTouch of Chaos: You can imbue a target with chaos as a melee touch attack. For the next round, anytime the target rolls a d20, he must roll twice and take the less favorable result. You can use this ability a number of times per day equal to 3 + your Wisdom modifier.\nUnexpected Whimsy: All enemies within 30 feet of you that can see and hear you must succeed a Will saving throw or they collapse into gales of manic laughter, falling prone. Those who fail their saving throws can take no actions other than laughing for 1 round, but are not considered helpless. You can use this ability once per day at 8th level and one additional time for every 4 levels you possess beyond 8th.\nDomain Spells: hideous laughter, communal protection from law, dispel magic, confusion, acidic spray, cloak of dreams, word of chaos, cloak of chaos, summon monster IX.",
       "zhCN": "\n以你的手为武器注入混乱的生命，无论你走到哪里，你都带着各种奇思妙想。\n混乱之触：混乱之触：以近战{g|Encyclopedia:TouchAttack}接触攻击{/g}，对目标灌注混乱之力。在下一轮中，当目标{g|Encyclopedia:Dice}投骰{/g}结果为d20时，他必须投骰两次，并取较不利的那次投骰结果。每天可使用次数为{g|Encyclopedia:Wisdom}感知{/g}调整值+3。\n无厘头：以一个标准动作，你可以通过舞蹈，演剧或说笑话打破他人的敌意。所有处于你30尺范围内的敌人都必须通过一个DC=（10+1/2你的牧师等级+你感知调整值一半）的意志检定，否则将直接笑倒在地1轮，陷入俯卧状态。同时，在豁免检定上失败的生物将在1轮内无法进行任何动作（不过不视为无助）。你可以在8级每天使用一次此能力，之后每4级多获得一次。\n领域法术：狂笑术，共用防护守序，解除魔法，困惑术，酸液喷射，梦境护幕，混沌之语，混沌护幕，召唤怪物 IX。"
+    },
+    {
+      "Key": "9240f66015294c0093c875a914316e8c",
+      "SimpleName": "WildShapeDragonShapeBiteAbility.Description",
+      "ProcessTemplates": true,
+      "enGB": "You can use wild shape to change into a dragon-scaled version of yourself with long fangs, gaining a +1 natural armor bonus to your AC and a bite attack appropriate for your size (1d6 points of damage for a Medium druid) but otherwise retaining your usual form.",
+      "zhCN":"你使用野性变身，成为长有长牙的龙鳞形态，在AC上获得+1天生防御，获得一次适合你体型的啮咬攻击（中体型德鲁伊造成1d6伤害），其他则保留正常身体状态。"
+    },
+    {
+      "Key": "cfde0250a3f04542854be368c722522e",
+      "SimpleName": "WildShapeDragonShapeBiteBuff.Description",
+      "ProcessTemplates": true,
+      "enGB": "You can use wild shape to change into a dragon-scaled version of yourself with long fangs, gaining a +1 natural armor bonus to your AC and a bite attack appropriate for your size (1d6 points of damage for a Medium druid) but otherwise retaining your usual form.",
+      "zhCN":"你使用野性变身，成为长有长牙的龙鳞形态，在AC上获得+1天生防御，获得一次适合你体型的啮咬攻击（中体型德鲁伊造成1d6伤害），其他则保留正常身体状态。"
+    },
+    {
+      "Key": "58709f019aaf4f4991f8e0980a20c98e",
+      "SimpleName": "WildShapeDragonShapeBiteBuff.Name",
+      "ProcessTemplates": false,
+      "enGB": "Dragon Shape - Dragon Fangs",
+      "zhCN":"龙形 - 龙牙"
+    },
+    {
+      "Key": "c185ddeb17eb46f8899009098a6f65ba",
+      "SimpleName": "WildShapeDragonShapeBiteFeature.Description",
+      "ProcessTemplates": true,
+      "enGB": "You can use wild shape to change into a dragon-scaled version of yourself with long fangs, gaining a +1 natural armor bonus to your AC and a bite attack appropriate for your size (1d6 points of damage for a Medium druid) but otherwise retaining your usual form.",
+      "zhCN":"你使用野性变身，成为长有长牙的龙鳞形态，在AC上获得+1天生防御，获得一次适合你体型的啮咬攻击（中体型德鲁伊造成1d6伤害），其他则保留正常身体状态。"
     },
     {
       "Key": "4d25f40b05944d1599a60db9883d8cff",
