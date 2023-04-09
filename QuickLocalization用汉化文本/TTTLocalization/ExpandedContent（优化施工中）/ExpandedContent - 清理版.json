@@ -3307,9 +3307,9 @@
       "Key": "aaba18be64f94dc89a37bd275b7b1e5c",
       "SimpleName": "DraconicCompanionBreathAbilityElectricityCone.Description",
       "ProcessTemplates": true,
-      "enGB": "At 9th level, a draconic companion gains a breath weapon, usable once per day, that deals 1d6 points of damage per Hit Dice of the energy type matching its draconic resistance in either a 30-foot cone or a 60-foot line (chosen when the draconic companion gains this ability). At 15th level, it can use the breath weapon three times per day, but it must wait 1d4 rounds between uses. Targets of this breath weapon can attempt a Reflex save (DC = 10 + half the draconic companion’s Hit Dice + the draconic companion’s Constitution modifier) for half damage."
-    },,
+      "enGB": "At 9th level, a draconic companion gains a breath weapon, usable once per day, that deals 1d6 points of damage per Hit Dice of the energy type matching its draconic resistance in either a 30-foot cone or a 60-foot line (chosen when the draconic companion gains this ability). At 15th level, it can use the breath weapon three times per day, but it must wait 1d4 rounds between uses. Targets of this breath weapon can attempt a Reflex save (DC = 10 + half the draconic companion’s Hit Dice + the draconic companion’s Constitution modifier) for half damage.",
       "zhCN": "9级起，龙化伙伴获得1天1次的喷吐武器攻击，造成每HD 1d6点的它所选的能量类型的伤害，范围为30尺扇形或60尺线型(在它获得该能力时选择)。15级时,它能使用喷吐武器攻击的次数上升至每天3次，但两次喷吐武器攻击间必须间隔1d4轮。被喷吐武器攻击的目标可以通过一个DC = （10 + 1/2HD + 体质调整值）的反射检定使得伤害减半。"
+    },
     {
       "Key": "41f9e216b7c0454d8cb2f317721b4751",
       "SimpleName": "DraconicCompanionBreathAbilityElectricityCone.Name",
