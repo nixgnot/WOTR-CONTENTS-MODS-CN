@@ -2,466 +2,270 @@
   "ModPath":"TomeOfTheFirebird/Localization/LocalizationPack.json",
   "LocalizedStrings":    [
     {
-      "Key": "1fce4d74954144fbb8722476ae513ba4",
-      "SimpleName": "BloodragerPheonixBloodlineWandering.Name",
+      "Key": "BloodragerPheonixBloodlineWandering.Name",
       "ProcessTemplates": false,
       "enGB": "",
-      "ruRU": null,
-      "deDE": null,
-      "frFR": null,
-      "zhCN": "",
-      "esES": null
+      "zhCN": ""
     },
     {
-      "Key": "52e7a7e35795436aa91250d6eb6cdaaf",
-      "SimpleName": "BloodragerPheonixMoltenWings.Description",
+      "Key": "PheonixBloodlineRequisiteFeature.Name",
+      "ProcessTemplates": false,
+      "enGB": "",
+      "zhCN": "凤凰血承"
+    },
+    {
+      "Key": "BloodragerPheonixMoltenWings.Description",
       "ProcessTemplates": true,
       "enGB": "At 12th level, you spout molten wings during bloodrage",
-      "ruRU": null,
-      "deDE": null,
-      "frFR": null,
-      "zhCN": "12级起，你在血承狂暴时喷出炽焰之翼",
-      "esES": null
+      "zhCN": "12级起，你在血承狂暴时喷出炽焰之翼"
     },
     {
-      "Key": "f4348ba827e44eb9a59f367df7a6cd7b",
-      "SimpleName": "BloodragerPheonixMoltenWings.Name",
+      "Key": "BloodragerPheonixMoltenWings.Name",
       "ProcessTemplates": false,
       "enGB": "Molten Wings",
-      "ruRU": null,
-      "deDE": null,
-      "frFR": null,
-      "zhCN": "熔岩之翼",
-      "esES": null
+      "zhCN": "熔岩之翼"
     },
     {
-      "Key": "cc1c1278b8054a6aa94ff40d68e5ea22",
-      "SimpleName": "BloodragerPhoenixBaseBuff.Name",
+      "Key": "BloodragerPhoenixBaseBuff.Name",
       "ProcessTemplates": false,
       "enGB": "Phoenix Bloodrage",
-      "ruRU": null,
-      "deDE": null,
-      "frFR": null,
-      "zhCN": "凤凰血承狂暴",
-      "esES": null
+      "zhCN": "凤凰血承狂暴"
     },
     {
-      "Key": "b40733d0596f42559aaa58b81d2d1669",
-      "SimpleName": "BloodragerPhoenixBlazingVitality.Description",
+      "Key": "BloodragerPhoenixBlazingVitality.Description",
       "ProcessTemplates": true,
       "enGB": "When tensions run high and your emotions flare, you let forth waves of restorative energy from within. At 8th level, you emit a 10-foot-radius aura of energizing fire while bloodraging. Any ally that ends their turn within this aura gains a number of temporary hit points equal to your Constitution modifier. These temporary hit points last for 1 minute.",
-      "ruRU": null,
-      "deDE": null,
-      "frFR": null,
-      "zhCN": "当紧张情绪高涨，情绪爆发时，你会从内心释放出一波又一波的恢复性能量。8级起，你会在血承狂暴时释放出半径为10尺的能量火焰光环。任何在这个光环中结束回合的盟友都会获得与你的体质调整值相等的临时生命值。这些临时生命值持续1分钟。",
-      "esES": null
+      "zhCN": "当紧张情绪高涨，情绪爆发时，你会从内心释放出一波又一波的恢复性能量。8级起，你会在血承狂暴时释放出半径为10尺的能量火焰光环。任何在这个光环中结束回合的盟友都会获得与你的体质调整值相等的临时生命值。这些临时生命值持续1分钟。"
     },
     {
-      "Key": "a08956b8f10349d49caa7f54470b74ba",
-      "SimpleName": "BloodragerPhoenixBlazingVitality.Name",
+      "Key": "BloodragerPhoenixBlazingVitality.Name",
       "ProcessTemplates": false,
       "enGB": "Blazing Vitality",
-      "ruRU": null,
-      "deDE": null,
-      "frFR": null,
-      "zhCN": "焕发活力",
-      "esES": null
+      "zhCN": "焕发活力"
     },
     {
-      "Key": "e7dc5cbe0e1d42d89f19dfd08fa39375",
-      "SimpleName": "BloodragerPhoenixBlazingVitalityBuff.Description",
+      "Key": "BloodragerPhoenixBlazingVitalityBuff.Description",
       "ProcessTemplates": true,
       "enGB": "When tensions run high and your emotions flare, you let forth waves of restorative energy from within. At 8th level, you emit a 10-foot-radius aura of energizing fire while bloodraging. Any ally that ends their turn within this aura gains a number of temporary hit points equal to your Constitution modifier. These temporary hit points last for 1 minute.",
-      "ruRU": null,
-      "deDE": null,
-      "frFR": null,
-      "zhCN": "当紧张情绪高涨，情绪爆发时，你会从内心释放出一波又一波的恢复性能量。8级起，你会在血承狂暴时释放出半径为10尺的能量火焰光环。任何在这个光环中结束回合的盟友都会获得与你的体质调整值相等的临时生命值。这些临时生命值持续1分钟。",
-      "esES": null
+      "zhCN": "当紧张情绪高涨，情绪爆发时，你会从内心释放出一波又一波的恢复性能量。8级起，你会在血承狂暴时释放出半径为10尺的能量火焰光环。任何在这个光环中结束回合的盟友都会获得与你的体质调整值相等的临时生命值。这些临时生命值持续1分钟。"
     },
     {
-      "Key": "a2d66d28096c48c6918a599ab2eae550",
-      "SimpleName": "BloodragerPhoenixBlazingVitalityEffectBuff.Description",
+      "Key": "BloodragerPhoenixBlazingVitalityEffectBuff.Description",
       "ProcessTemplates": true,
       "enGB": "When tensions run high and your emotions flare, you let forth waves of restorative energy from within. At 8th level, you emit a 10-foot-radius aura of energizing fire while bloodraging. Any ally that ends their turn within this aura gains a number of temporary hit points equal to your Constitution modifier. These temporary hit points last for 1 minute.",
-      "ruRU": null,
-      "deDE": null,
-      "frFR": null,
-      "zhCN": "当紧张情绪高涨，情绪爆发时，你会从内心释放出一波又一波的恢复性能量。8级起，你会在血承狂暴时释放出半径为10尺的能量火焰光环。任何在这个光环中结束回合的盟友都会获得与你的体质调整值相等的临时生命值。这些临时生命值持续1分钟。",
-      "esES": null
+      "zhCN": "当紧张情绪高涨，情绪爆发时，你会从内心释放出一波又一波的恢复性能量。8级起，你会在血承狂暴时释放出半径为10尺的能量火焰光环。任何在这个光环中结束回合的盟友都会获得与你的体质调整值相等的临时生命值。这些临时生命值持续1分钟。"
     },
     {
-      "Key": "64a293f88e3e4d5886df5ce5ce0c3601",
-      "SimpleName": "BloodragerPhoenixBloodline.Description",
+      "Key": "BloodragerPhoenixBloodline.Description",
       "ProcessTemplates": true,
       "enGB": "One of your ancestors may have witnessed the fiery resurrection of a phoenix or been healed by the grace of this legendary bird. Whatever the case, the flames of the phoenix burn brightly within your soul, filling you with an inextinguishable vitality that can withstand the most harrowing of assaults. .\nWhen you bloodrage, vibrant energy boils forth from beneath your skin, granting you both the soothing warmth to heal a friend’s wounds and the brutal power to burn flesh from bone. Your rage is an awesome and terrible thing to behold, as the raw power of your untamed life force can allow you to pull yourself back from the grasp of death itself.\nCombat Reflexes, Critical Focus, Diehard, Dodge, Endurance, Improved Initiative, <b><color=#703565><link=\"Encyclopedia:Mobility\">Mobility</link></color></b>\nBonus Spells: Burning Hands(7th), Lesser Restoration (10th), Cure Serious Wounds (13th), Fire Shield (16th).",
-      "ruRU": null,
-      "deDE": null,
-      "frFR": null,
-      "zhCN": "你的一位祖先可能目睹了凤凰涅槃，或者被这只传说中的鸟的恩典治愈过。不管如何，凤凰的火焰现在在你的灵魂熊熊燃烧，让你充满了难以磨灭的活力，能够承受最惨烈的攻击。\n当你进入血承狂暴时，充满活力的能量在你的皮肤下沸腾，同时赋予你能治愈盟友的舒缓温度和能焚敌骨肉的残酷火力。你的狂暴是一件如此可怕而令人敬畏，因为你那狂野的原始生命力甚至可以让你从死亡的掌控中抽身而出。\n额外{g|Encyclopedia:Feat}专长{/g}：战斗反射、重击专攻 、顽强、闪避、坚韧、精通先攻、灵活移动。\n额外{g|Encyclopedia:Spell}法术{/g}：燃烧之手（7级）、次级复原术（10级）、治疗重伤（13级）、火焰护盾（16级）。",
-      "esES": null
+      "zhCN": "你的一位祖先可能目睹了凤凰涅槃，或者被这只传说中的鸟的恩典治愈过。不管如何，凤凰的火焰现在在你的灵魂熊熊燃烧，让你充满了难以磨灭的活力，能够承受最惨烈的攻击。\n当你进入血承狂暴时，充满活力的能量在你的皮肤下沸腾，同时赋予你能治愈盟友的舒缓温度和能焚敌骨肉的残酷火力。你的狂暴是一件如此可怕而令人敬畏，因为你那狂野的原始生命力甚至可以让你从死亡的掌控中抽身而出。\n额外{g|Encyclopedia:Feat}专长{/g}：战斗反射、重击专攻 、顽强、闪避、坚韧、精通先攻、灵活移动。\n额外{g|Encyclopedia:Spell}法术{/g}：燃烧之手（7级）、次级复原术（10级）、治疗重伤（13级）、火焰护盾（16级）。"
     },
     {
-      "Key": "0c8072e3f50349a8b95be252c9bf1655",
-      "SimpleName": "BloodragerPhoenixBloodline.Name",
+      "Key": "BloodragerPhoenixBloodline.Name",
       "ProcessTemplates": false,
       "enGB": "Phoenix",
-      "ruRU": null,
-      "deDE": null,
-      "frFR": null,
-      "zhCN": "凤凰",
-      "esES": null
+      "zhCN": "凤凰"
     },
     {
-      "Key": "68f9469c3a67418f8e8112ed1261a489",
-      "SimpleName": "BloodragerPhoenixDispellingStrikesDisplay.Description",
+      "Key": "BloodragerPhoenixDispellingStrikesDisplay.Description",
       "ProcessTemplates": true,
       "enGB": "At 1st level, when you confirm a critical hit against a target, you can also attempt to dispel the target as if you had cast dispel magic as a bloodrager spell and used the targeted dispel function. You can dispel only a single magical effect per use of this ability, and you can use this ability against a particular creature only once per day. At 8th level, you gain a +2 bonus on your dispel check when using this ability. At 20th level, you can attempt to dispel all magical effects on your target when using this ability.",
-      "ruRU": null,
-      "deDE": null,
-      "frFR": null,
-      "zhCN": "1级起，当你确认对目标的暴击时，你也可以尝试对其使用驱散，就好像你以血怒者法术，对目标使用了驱散魔法（目标）一样。每次使用该能力只能驱散一个魔法效果，并且每天只能对特定生物使用一次。8级起，使用此能力时，你的驱散检定会获得+2加值。20级起，你可以尝试在使用该技能时驱散目标上的所有魔法效果。",
-      "esES": null
+      "zhCN": "1级起，当你确认对目标的暴击时，你也可以尝试对其使用驱散，就好像你以血怒者法术，对目标使用了驱散魔法（目标）一样。每次使用该能力只能驱散一个魔法效果，并且每天只能对特定生物使用一次。8级起，使用此能力时，你的驱散检定会获得+2加值。20级起，你可以尝试在使用该技能时驱散目标上的所有魔法效果。"
     },
     {
-      "Key": "16296281707d44c3bb4ace444fbeba49",
-      "SimpleName": "BloodragerPhoenixDispellingStrikesDisplay.Name",
+      "Key": "BloodragerPhoenixDispellingStrikesDisplay.Name",
       "ProcessTemplates": false,
       "enGB": "Dispelling Strikes",
-      "ruRU": null,
-      "deDE": null,
-      "frFR": null,
-      "zhCN": "驱魔一击",
-      "esES": null
+      "zhCN": "驱魔一击"
     },
     {
-      "Key": "73790964bcb34dec99349f73031f2c80",
-      "SimpleName": "BloodragerPhoenixDispellingStrikesLevel1.Description",
+      "Key": "BloodragerPhoenixDispellingStrikesLevel1.Description",
       "ProcessTemplates": true,
       "enGB": "At 1st level, when you confirm a critical hit against a target, you can also attempt to dispel the target as if you had cast dispel magic as a bloodrager spell and used the targeted dispel function. You can dispel only a single magical effect per use of this ability, and you can use this ability against a particular creature only once per day. At 8th level, you gain a +2 bonus on your dispel check when using this ability. At 20th level, you can attempt to dispel all magical effects on your target when using this ability.",
-      "ruRU": null,
-      "deDE": null,
-      "frFR": null,
-      "zhCN": "1级起，当你确认对目标的暴击时，你也可以尝试对其使用驱散，就好像你以血怒者法术，对目标使用了驱散魔法（目标）一样。每次使用该能力只能驱散一个魔法效果，并且每天只能对特定生物使用一次。8级起，使用此能力时，你的驱散检定会获得+2加值。20级起，你可以尝试在使用该技能时驱散目标上的所有魔法效果。",
-      "esES": null
+      "zhCN": "1级起，当你确认对目标的暴击时，你也可以尝试对其使用驱散，就好像你以血怒者法术，对目标使用了驱散魔法（目标）一样。每次使用该能力只能驱散一个魔法效果，并且每天只能对特定生物使用一次。8级起，使用此能力时，你的驱散检定会获得+2加值。20级起，你可以尝试在使用该技能时驱散目标上的所有魔法效果。"
     },
     {
-      "Key": "a20e64c9f03448c1a0594fc211e1d7c1",
-      "SimpleName": "BloodragerPhoenixDispellingStrikesLevel1Buff.Description",
+      "Key": "BloodragerPhoenixDispellingStrikesLevel1Buff.Description",
       "ProcessTemplates": true,
       "enGB": "At 1st level, when you confirm a critical hit against a target, you can also attempt to dispel the target as if you had cast dispel magic as a bloodrager spell and used the targeted dispel function. You can dispel only a single magical effect per use of this ability, and you can use this ability against a particular creature only once per day. At 8th level, you gain a +2 bonus on your dispel check when using this ability. At 20th level, you can attempt to dispel all magical effects on your target when using this ability.",
-      "ruRU": null,
-      "deDE": null,
-      "frFR": null,
-      "zhCN": "1级起，当你确认对目标的暴击时，你也可以尝试对其使用驱散，就好像你以血怒者法术，对目标使用了驱散魔法（目标）一样。每次使用该能力只能驱散一个魔法效果，并且每天只能对特定生物使用一次。8级起，使用此能力时，你的驱散检定会获得+2加值。20级起，你可以尝试在使用该技能时驱散目标上的所有魔法效果。",
-      "esES": null
+      "zhCN": "1级起，当你确认对目标的暴击时，你也可以尝试对其使用驱散，就好像你以血怒者法术，对目标使用了驱散魔法（目标）一样。每次使用该能力只能驱散一个魔法效果，并且每天只能对特定生物使用一次。8级起，使用此能力时，你的驱散检定会获得+2加值。20级起，你可以尝试在使用该技能时驱散目标上的所有魔法效果。"
     },
     {
-      "Key": "2a48c75da8214e91b03ae0fa6008a663",
-      "SimpleName": "BloodragerPhoenixDispellingStrikesLevel20.Description",
+      "Key": "BloodragerPhoenixDispellingStrikesLevel20.Description",
       "ProcessTemplates": true,
       "enGB": "At 1st level, when you confirm a critical hit against a target, you can also attempt to dispel the target as if you had cast dispel magic as a bloodrager spell and used the targeted dispel function. You can dispel only a single magical effect per use of this ability, and you can use this ability against a particular creature only once per day. At 8th level, you gain a +2 bonus on your dispel check when using this ability. At 20th level, you can attempt to dispel all magical effects on your target when using this ability.",
-      "ruRU": null,
-      "deDE": null,
-      "frFR": null,
-      "zhCN": "1级起，当你确认对目标的暴击时，你也可以尝试对其使用驱散，就好像你以血怒者法术，对目标使用了驱散魔法（目标）一样。每次使用该能力只能驱散一个魔法效果，并且每天只能对特定生物使用一次。8级起，使用此能力时，你的驱散检定会获得+2加值。20级起，你可以尝试在使用该技能时驱散目标上的所有魔法效果。",
-      "esES": null
+      "zhCN": "1级起，当你确认对目标的暴击时，你也可以尝试对其使用驱散，就好像你以血怒者法术，对目标使用了驱散魔法（目标）一样。每次使用该能力只能驱散一个魔法效果，并且每天只能对特定生物使用一次。8级起，使用此能力时，你的驱散检定会获得+2加值。20级起，你可以尝试在使用该技能时驱散目标上的所有魔法效果。"
     },
     {
-      "Key": "84aa2ab0170a4ec3866e260773f480e3",
-      "SimpleName": "BloodragerPhoenixDispellingStrikesLevel20Buff.Description",
+      "Key": "BloodragerPhoenixDispellingStrikesLevel20Buff.Description",
       "ProcessTemplates": true,
       "enGB": "At 1st level, when you confirm a critical hit against a target, you can also attempt to dispel the target as if you had cast dispel magic as a bloodrager spell and used the targeted dispel function. You can dispel only a single magical effect per use of this ability, and you can use this ability against a particular creature only once per day. At 8th level, you gain a +2 bonus on your dispel check when using this ability. At 20th level, you can attempt to dispel all magical effects on your target when using this ability.",
-      "ruRU": null,
-      "deDE": null,
-      "frFR": null,
-      "zhCN": "1级起，当你确认对目标的暴击时，你也可以尝试对其使用驱散，就好像你以血怒者法术，对目标使用了驱散魔法（目标）一样。每次使用该能力只能驱散一个魔法效果，并且每天只能对特定生物使用一次。8级起，使用此能力时，你的驱散检定会获得+2加值。20级起，你可以尝试在使用该技能时驱散目标上的所有魔法效果。",
-      "esES": null
+      "zhCN": "1级起，当你确认对目标的暴击时，你也可以尝试对其使用驱散，就好像你以血怒者法术，对目标使用了驱散魔法（目标）一样。每次使用该能力只能驱散一个魔法效果，并且每天只能对特定生物使用一次。8级起，使用此能力时，你的驱散检定会获得+2加值。20级起，你可以尝试在使用该技能时驱散目标上的所有魔法效果。"
     },
     {
-      "Key": "e683cc47a70944f582fadb993af21a8b",
-      "SimpleName": "BloodragerPhoenixDispellingStrikesLevel8.Description",
+      "Key": "BloodragerPhoenixDispellingStrikesLevel8.Description",
       "ProcessTemplates": true,
       "enGB": "At 1st level, when you confirm a critical hit against a target, you can also attempt to dispel the target as if you had cast dispel magic as a bloodrager spell and used the targeted dispel function. You can dispel only a single magical effect per use of this ability, and you can use this ability against a particular creature only once per day. At 8th level, you gain a +2 bonus on your dispel check when using this ability. At 20th level, you can attempt to dispel all magical effects on your target when using this ability.",
-      "ruRU": null,
-      "deDE": null,
-      "frFR": null,
-      "zhCN": "1级起，当你确认对目标的暴击时，你也可以尝试对其使用驱散，就好像你以血怒者法术，对目标使用了驱散魔法（目标）一样。每次使用该能力只能驱散一个魔法效果，并且每天只能对特定生物使用一次。8级起，使用此能力时，你的驱散检定会获得+2加值。20级起，你可以尝试在使用该技能时驱散目标上的所有魔法效果。",
-      "esES": null
+      "zhCN": "1级起，当你确认对目标的暴击时，你也可以尝试对其使用驱散，就好像你以血怒者法术，对目标使用了驱散魔法（目标）一样。每次使用该能力只能驱散一个魔法效果，并且每天只能对特定生物使用一次。8级起，使用此能力时，你的驱散检定会获得+2加值。20级起，你可以尝试在使用该技能时驱散目标上的所有魔法效果。"
     },
     {
-      "Key": "7ba064d6f9bb4125a52941c70055b792",
-      "SimpleName": "BloodragerPhoenixDispellingStrikesLevel8Buff.Description",
+      "Key": "BloodragerPhoenixDispellingStrikesLevel8Buff.Description",
       "ProcessTemplates": true,
       "enGB": "At 1st level, when you confirm a critical hit against a target, you can also attempt to dispel the target as if you had cast dispel magic as a bloodrager spell and used the targeted dispel function. You can dispel only a single magical effect per use of this ability, and you can use this ability against a particular creature only once per day. At 8th level, you gain a +2 bonus on your dispel check when using this ability. At 20th level, you can attempt to dispel all magical effects on your target when using this ability.",
-      "ruRU": null,
-      "deDE": null,
-      "frFR": null,
-      "zhCN": "1级起，当你确认对目标的暴击时，你也可以尝试对其使用驱散，就好像你以血怒者法术，对目标使用了驱散魔法（目标）一样。每次使用该能力只能驱散一个魔法效果，并且每天只能对特定生物使用一次。8级起，使用此能力时，你的驱散检定会获得+2加值。20级起，你可以尝试在使用该技能时驱散目标上的所有魔法效果。",
-      "esES": null
+      "zhCN": "1级起，当你确认对目标的暴击时，你也可以尝试对其使用驱散，就好像你以血怒者法术，对目标使用了驱散魔法（目标）一样。每次使用该能力只能驱散一个魔法效果，并且每天只能对特定生物使用一次。8级起，使用此能力时，你的驱散检定会获得+2加值。20级起，你可以尝试在使用该技能时驱散目标上的所有魔法效果。"
     },
     {
-      "Key": "ef6a71fa0c07438eb7735c3423a3d4d1",
-      "SimpleName": "BloodragerPhoenixFeatSelection.Description",
+      "Key": "BloodragerPhoenixFeatSelection.Description",
       "ProcessTemplates": true,
       "enGB": "Combat Reflexes, Critical Focus, Diehard, Dodge, Endurance, Improved Initiative, Mobility",
-      "ruRU": null,
-      "deDE": null,
-      "frFR": null,
-      "zhCN": "战斗反射、重击专攻 、顽强、闪避、坚韧、精通先攻、灵活移动",
-      "esES": null
+      "zhCN": "战斗反射、重击专攻 、顽强、闪避、坚韧、精通先攻、灵活移动"
     },
     {
-      "Key": "90c2dd994c694eef901e02858fa55baa",
-      "SimpleName": "BloodragerPhoenixFeatSelection.Name",
+      "Key": "BloodragerPhoenixFeatSelection.Name",
       "ProcessTemplates": false,
       "enGB": "Bonus Feats",
-      "ruRU": null,
-      "deDE": null,
-      "frFR": null,
-      "zhCN": "额外专长",
-      "esES": null
+      "zhCN": "额外专长"
     },
     {
-      "Key": "ba77c383b5b64805a6ee121a88d68c72",
-      "SimpleName": "BloodragerPhoenixFire.Description",
+      "Key": "BloodragerPhoenixFire.Description",
       "ProcessTemplates": true,
       "enGB": "The power of the phoenix brings righteous destruction to any who oppose it. At 20th level, while bloodraging, you gain the following effects: your melee attacks deal an additional 2d6 points of fire damage, any enemies within 20 feet of you must succeed at a Reflex save (DC = 10 + 1/2 your bloodrager level + your Constitution modifier) or take 4d6 points of fire damage at the start of their turn, and any creature that attacks you with a natural or non-reach weapon takes 1d6 points of fire damage (no save) with each successful hit.",
-      "ruRU": null,
-      "deDE": null,
-      "frFR": null,
-      "zhCN": "凤凰的力量会给任何反对它的人带来正义的毁灭。20级起，血承狂暴下你会获得以下效果：你的近战攻击会额外造成2d6点的火焰伤害，距离你20英尺以内的任何敌人都必须成功进行反射豁免（DC=10+1/2你的血怒者等级+你的体质调整值），否则在回合开始时受到4d6点的火伤害，任何使用天生武器或非长触及武器攻击你的生物，每次成功命中都会受到1d6点的火焰伤害（无豁免）。",
-      "esES": null
+      "zhCN": "凤凰的力量会给任何反对它的人带来正义的毁灭。20级起，血承狂暴下你会获得以下效果：你的近战攻击会额外造成2d6点的火焰伤害，距离你20英尺以内的任何敌人都必须成功进行反射豁免（DC=10+1/2你的血怒者等级+你的体质调整值），否则在回合开始时受到4d6点的火伤害，任何使用天生武器或非长触及武器攻击你的生物，每次成功命中都会受到1d6点的火焰伤害（无豁免）。"
     },
     {
-      "Key": "24140a03c7784a2f9e03379dd4ba7a21",
-      "SimpleName": "BloodragerPhoenixFire.Name",
+      "Key": "BloodragerPhoenixFire.Name",
       "ProcessTemplates": false,
       "enGB": "Phoenix Fire",
-      "ruRU": null,
-      "deDE": null,
-      "frFR": null,
-      "zhCN": "凤凰火焰",
-      "esES": null
+      "zhCN": "凤凰火焰"
     },
     {
-      "Key": "fb6aaeea59f548bd8be14fc0405dd845",
-      "SimpleName": "BloodragerPhoenixFireBuff.Description",
+      "Key": "BloodragerPhoenixFireBuff.Description",
       "ProcessTemplates": true,
       "enGB": "The power of the phoenix brings righteous destruction to any who oppose it. At 20th level, while bloodraging, you gain the following effects: your melee attacks deal an additional 2d6 points of fire damage, any enemies within 20 feet of you must succeed at a Reflex save (DC = 10 + 1/2 your bloodrager level + your Constitution modifier) or take 4d6 points of fire damage at the start of their turn, and any creature that attacks you with a natural or non-reach weapon takes 1d6 points of fire damage (no save) with each successful hit.",
-      "ruRU": null,
-      "deDE": null,
-      "frFR": null,
-      "zhCN": "凤凰的力量会给任何反对它的人带来正义的毁灭。20级起，血承狂暴下你会获得以下效果：你的近战攻击会额外造成2d6点的火焰伤害，距离你20英尺以内的任何敌人都必须成功进行反射豁免（DC=10+1/2你的血怒者等级+你的体质调整值），否则在回合开始时受到4d6点的火伤害，任何使用天生武器或非长触及武器攻击你的生物，每次成功命中都会受到1d6点的火焰伤害（无豁免）。",
-      "esES": null
+      "zhCN": "凤凰的力量会给任何反对它的人带来正义的毁灭。20级起，血承狂暴下你会获得以下效果：你的近战攻击会额外造成2d6点的火焰伤害，距离你20英尺以内的任何敌人都必须成功进行反射豁免（DC=10+1/2你的血怒者等级+你的体质调整值），否则在回合开始时受到4d6点的火伤害，任何使用天生武器或非长触及武器攻击你的生物，每次成功命中都会受到1d6点的火焰伤害（无豁免）。"
     },
     {
-      "Key": "d2ed325f0cda42d492fd3e519f1b0e18",
-      "SimpleName": "BloodragerPhoenixHeartOfFire.Description",
+      "Key": "BloodragerPhoenixHeartOfFire.Description",
       "ProcessTemplates": true,
       "enGB": "At 4th level, you gain fire resistance 5. Whenever you are subjected to a magical healing effect from a cure spell, you regain 1 additional hit point per die rolled. At 8th level, your fire resistance increases to 10, and you regain 2 additional hit points per die rolled when you are healed by a cure spell.",
-      "ruRU": null,
-      "deDE": null,
-      "frFR": null,
-      "zhCN": "4级起，你获得5点火焰抗力。每当你受到治疗法术的魔法治疗效果时，每个骰子会使你获得1点额外的生命值。8级起来，你的火焰抗力增加到10，当你被治疗法术治愈时，每个骰子会使你获得2点额外的生命值。",
-      "esES": null
+      "zhCN": "4级起，你获得5点火焰抗力。每当你受到治疗法术的魔法治疗效果时，每个骰子会使你获得1点额外的生命值。8级起来，你的火焰抗力增加到10，当你被治疗法术治愈时，每个骰子会使你获得2点额外的生命值。"
     },
     {
-      "Key": "dc116bca28134ffeaba9f40e526dadb7",
-      "SimpleName": "BloodragerPhoenixHeartOfFire.Name",
+      "Key": "BloodragerPhoenixHeartOfFire.Name",
       "ProcessTemplates": false,
       "enGB": "Heart Of Fire",
-      "ruRU": null,
-      "deDE": null,
-      "frFR": null,
-      "zhCN": "火之心",
-      "esES": null
+      "zhCN": "火之心"
     },
     {
-      "Key": "f37e4d052df94f068d5305e3802cd9e4",
-      "SimpleName": "BloodragerPhoenixHeartOfFireBuff.Description",
+      "Key": "BloodragerPhoenixHeartOfFireBuff.Description",
       "ProcessTemplates": true,
       "enGB": "At 4th level, you gain fire resistance 5. Whenever you are subjected to a magical healing effect from a cure spell, you regain 1 additional hit point per die rolled. At 8th level, your fire resistance increases to 10, and you regain 2 additional hit points per die rolled when you are healed by a cure spell.",
-      "ruRU": null,
-      "deDE": null,
-      "frFR": null,
-      "zhCN": "4级起，你获得5点火焰抗力。每当你受到治疗法术的魔法治疗效果时，每个骰子会使你获得1点额外的生命值。8级起来，你的火焰抗力增加到10，当你被治疗法术治愈时，每个骰子会使你获得2点额外的生命值。",
-      "esES": null
+      "zhCN": "4级起，你获得5点火焰抗力。每当你受到治疗法术的魔法治疗效果时，每个骰子会使你获得1点额外的生命值。8级起来，你的火焰抗力增加到10，当你被治疗法术治愈时，每个骰子会使你获得2点额外的生命值。"
     },
     {
-      "Key": "c082874e1bc540cc8e9add8bafacdd9b",
-      "SimpleName": "BloodragerPhoenixHeartOfFireBuff.Name",
+      "Key": "BloodragerPhoenixHeartOfFireBuff.Name",
       "ProcessTemplates": false,
       "enGB": "HeartOfFire",
-      "ruRU": null,
-      "deDE": null,
-      "frFR": null,
-      "zhCN": "火之心",
-      "esES": null
+      "zhCN": "火之心"
     },
     {
-      "Key": "7db37fd69b49428c8d0b32fa17a06c50",
-      "SimpleName": "BloodragerPhoenixSelfResurrection.Description",
+      "Key": "BloodragerPhoenixSelfResurrection.Name",
+      "ProcessTemplates": true,
+      "enGB": "Self-Resurrection",
+      "zhCN": "自我复生"
+    },
+    {
+      "Key": "BloodragerPhoenixSelfResurrection.Description",
       "ProcessTemplates": true,
       "enGB": "From the ashes of your body springs forth new life. At 16th level, once per day when you are reduced below 0 hit points while you are bloodraging, you can call upon the power in your blood to pull yourself back from death. This functions as a breath of life spell cast upon yourself. At 20th level, this instead functions as a heal spell, except that the healing can return you to life as per breath of life, using your bloodrager level as your caster level. Using this ability does not take an action. This ability does not function if your body is completely destroyed by an effect such as disintegrate.",
-      "ruRU": null,
-      "deDE": null,
-      "frFR": null,
-      "zhCN": "你从身体的灰烬中孕育出新的生命。第16级起，当你血承狂暴状态下生命值降低到0点以下时，你可以每天一次调用血液中的力量将自己从死亡中唤回。这如同对你自己释放生命之息。在20级时，改为如同医疗术的作用，此医疗术可以让你如同生命之息般起死回生，使用你的血怒者等级作为施法等级。使用此功能不会花费任何动作。如果你的身体被分解等效果完全摧毁，这种能力无法发挥作用。",
-      "esES": null
+      "zhCN": "你从身体的灰烬中孕育出新的生命。第16级起，当你血承狂暴状态下生命值降低到0点以下时，你可以每天一次调用血液中的力量将自己从死亡中唤回。这如同对你自己释放生命之息。在20级时，改为如同医疗术的作用，此医疗术可以让你如同生命之息般起死回生，使用你的血怒者等级作为施法等级。使用此功能不会花费任何动作。如果你的身体被分解等效果完全摧毁，这种能力无法发挥作用。"
     },
     {
-      "Key": "c3969bd169c24fffb43240f10e382c19",
-      "SimpleName": "BloodragerPhoenixSelfResurrectionEffectBuff.Description",
+      "Key": "BloodragerPhoenixSelfResurrectionEffectBuff.Description",
       "ProcessTemplates": true,
       "enGB": "From the ashes of your body springs forth new life. At 16th level, once per day when you are reduced below 0 hit points while you are bloodraging, you can call upon the power in your blood to pull yourself back from death. This functions as a breath of life spell cast upon yourself. At 20th level, this instead functions as a heal spell, except that the healing can return you to life as per breath of life, using your bloodrager level as your caster level. Using this ability does not take an action. This ability does not function if your body is completely destroyed by an effect such as disintegrate.",
-      "ruRU": null,
-      "deDE": null,
-      "frFR": null,
-      "zhCN": "你从身体的灰烬中孕育出新的生命。第16级起，当你血承狂暴状态下生命值降低到0点以下时，你可以每天一次调用血液中的力量将自己从死亡中唤回。这如同对你自己释放生命之息。在20级时，改为如同医疗术的作用，此医疗术可以让你如同生命之息般起死回生，使用你的血怒者等级作为施法等级。使用此功能不会花费任何动作。如果你的身体被分解等效果完全摧毁，这种能力无法发挥作用。",
-      "esES": null
+      "zhCN": "你从身体的灰烬中孕育出新的生命。第16级起，当你血承狂暴状态下生命值降低到0点以下时，你可以每天一次调用血液中的力量将自己从死亡中唤回。这如同对你自己释放生命之息。在20级时，改为如同医疗术的作用，此医疗术可以让你如同生命之息般起死回生，使用你的血怒者等级作为施法等级。使用此功能不会花费任何动作。如果你的身体被分解等效果完全摧毁，这种能力无法发挥作用。"
     },
     {
-      "Key": "0351569da39a4ec7af295de6ca568381",
-      "SimpleName": "BloodragerPhoenixSelfResurrectionEffectBuff.Name",
+      "Key": "BloodragerPhoenixSelfResurrectionEffectBuff.Name",
       "ProcessTemplates": false,
       "enGB": "Self-Resurrection",
-      "ruRU": null,
-      "deDE": null,
-      "frFR": null,
-      "zhCN": "额外法术（自我复生）",
-      "esES": null
+      "zhCN": "额外法术（自我复生）"
     },
     {
-      "Key": "e86a765221734f8794458f197bed2cdd",
-      "SimpleName": "BloodragerPhoenixSpell10.Description",
+      "Key": "BloodragerPhoenixSpell10.Description",
       "ProcessTemplates": true,
       "enGB": "At 7th, 10th, 13th, and 16th levels, a bloodrager learns an additional spell derived from his bloodline.",
-      "ruRU": null,
-      "deDE": null,
-      "frFR": null,
-      "zhCN": "7级、10级、13级以及16级时，血怒者学会来自血承的额外{g|Encyclopedia:Spell}法术{/g}。 ",
-      "esES": null
+      "zhCN": "7级、10级、13级以及16级时，血怒者学会来自血承的额外{g|Encyclopedia:Spell}法术{/g}。 "
     },
     {
-      "Key": "7146dca84914465b848d779fea55d332",
-      "SimpleName": "BloodragerPhoenixSpell10.Name",
+      "Key": "BloodragerPhoenixSpell10.Name",
       "ProcessTemplates": false,
       "enGB": "Bonus Spell — Lesser Restoration",
-      "ruRU": null,
-      "deDE": null,
-      "frFR": null,
-      "zhCN": "额外法术（次级复原术）",
-      "esES": null
+      "zhCN": "额外法术（次级复原术）"
     },
     {
-      "Key": "276fb5f570e04c99a0b45cc323af349c",
-      "SimpleName": "BloodragerPhoenixSpell13.Description",
+      "Key": "BloodragerPhoenixSpell13.Description",
       "ProcessTemplates": true,
       "enGB": "At 7th, 10th, 13th, and 16th levels, a bloodrager learns an additional spell derived from his bloodline.",
-      "ruRU": null,
-      "deDE": null,
-      "frFR": null,
-      "zhCN": "7级、10级、13级以及16级时，血怒者学会来自血承的额外{g|Encyclopedia:Spell}法术{/g}。 ",
-      "esES": null
+      "zhCN": "7级、10级、13级以及16级时，血怒者学会来自血承的额外{g|Encyclopedia:Spell}法术{/g}。 "
     },
     {
-      "Key": "c845afae234143e0a1b70f69f3672d48",
-      "SimpleName": "BloodragerPhoenixSpell13.Name",
+      "Key": "BloodragerPhoenixSpell13.Name",
       "ProcessTemplates": false,
       "enGB": "Bonus Spell — Cure Serious Wounds",
-      "ruRU": null,
-      "deDE": null,
-      "frFR": null,
-      "zhCN": "额外法术（治疗重伤）",
-      "esES": null
+      "zhCN": "额外法术（治疗重伤）"
     },
     {
-      "Key": "89e549c5004542338e3c2e977a6ee736",
-      "SimpleName": "BloodragerPhoenixSpell16.Description",
+      "Key": "BloodragerPhoenixSpell16.Description",
       "ProcessTemplates": true,
       "enGB": "At 7th, 10th, 13th, and 16th levels, a bloodrager learns an additional spell derived from his bloodline.",
-      "ruRU": null,
-      "deDE": null,
-      "frFR": null,
-      "zhCN": "7级、10级、13级以及16级时，血怒者学会来自血承的额外{g|Encyclopedia:Spell}法术{/g}。 ",
-      "esES": null
+      "zhCN": "7级、10级、13级以及16级时，血怒者学会来自血承的额外{g|Encyclopedia:Spell}法术{/g}。 "
     },
     {
-      "Key": "a0b2bc0442a3490493cff19faa989377",
-      "SimpleName": "BloodragerPhoenixSpell16.Name",
+      "Key": "BloodragerPhoenixSpell16.Name",
       "ProcessTemplates": false,
       "enGB": "Bonus Spell — Fire Shield",
-      "ruRU": null,
-      "deDE": null,
-      "frFR": null,
-      "zhCN": "额外法术（火焰护盾）",
-      "esES": null
+      "zhCN": "额外法术（火焰护盾）"
     },
     {
-      "Key": "234f01c506554132b750ee70c574b071",
-      "SimpleName": "BloodragerPhoenixSpell7.Description",
+      "Key": "BloodragerPhoenixSpell7.Description",
       "ProcessTemplates": true,
       "enGB": "At 7th, 10th, 13th, and 16th levels, a bloodrager learns an additional spell derived from his bloodline.",
-      "ruRU": null,
-      "deDE": null,
-      "frFR": null,
-      "zhCN": "7级、10级、13级以及16级时，血怒者学会来自血承的额外{g|Encyclopedia:Spell}法术{/g}。 ",
-      "esES": null
+      "zhCN": "7级、10级、13级以及16级时，血怒者学会来自血承的额外{g|Encyclopedia:Spell}法术{/g}。 "
     },
     {
-      "Key": "1b60d9923fdf49119d4698070720c1ab",
-      "SimpleName": "BloodragerPhoenixSpell7.Name",
+      "Key": "BloodragerPhoenixSpell7.Name",
       "ProcessTemplates": false,
       "enGB": "Bonus Spell — Burning Hands",
-      "ruRU": null,
-      "deDE": null,
-      "frFR": null,
-      "zhCN": "额外法术（燃烧之手）",
-      "esES": null
+      "zhCN": "额外法术（燃烧之手）"
     },
     {
-      "Key": "cd17ce39e5404abca5ca4baf984a711f",
-      "SimpleName": "PhoenixBloodlineRequisiteFeature.Description",
+      "Key": "PhoenixBloodlineRequisiteFeature.Description",
       "ProcessTemplates": true,
       "enGB": "Phoenix Bloodline Requisite Feature",
-      "ruRU": null,
-      "deDE": null,
-      "frFR": null,
-      "zhCN": "凤凰血承必须特性",
-      "esES": null
+      "zhCN": "凤凰血承必须特性"
     },
     {
-      "Key": "869f6b750e8f421abd6a435fc124c984",
-      "SimpleName": "PhoenixBloodlineRequisiteFeature.Name",
+      "Key": "PhoenixBloodlineRequisiteFeature.Name",
       "ProcessTemplates": false,
       "enGB": "Phoenix Bloodline",
-      "ruRU": null,
-      "deDE": null,
-      "frFR": null,
-      "zhCN": "凤凰血承",
-      "esES": null
+      "zhCN": "凤凰血承"
     },
     {
       "Key": "106aa454677740c4a1febe73d1642664",
       "SimpleName": "TieflingNoAlternateTrait.Description",
       "ProcessTemplates": true,
       "enGB": "No Alternate Trait",
-      "ruRU": null,
-      "deDE": null,
-      "frFR": null,
-      "zhCN": "无替换特性",
-      "esES": null
+      "zhCN": "无替换特性"
     },
     {
       "Key": "3451885546df4141a5fb3630d2186752",
       "SimpleName": "TieflingNoAlternateTrait.Name",
       "ProcessTemplates": false,
       "enGB": "None",
-      "ruRU": null,
-      "deDE": null,
-      "frFR": null,
-      "zhCN": "无",
-      "esES": null
+      "zhCN": "无"
     },
     {
       "Key": "EldritchScionSageArchetype.Desc",
@@ -1098,6 +902,26 @@
     {
       "Key": "BracersOfTheMercifulKnight.Desc",
       "zhCN": "这对金色的护腕上绘着天界生物的图样。\n被圣骑士装备时，在计算圣疗的每日使用次数或者治疗效果时，她的职业等级被视为比实际值高4级。"
+    },
+    {
+      "Key": "FieryRunes.Name",
+      "enGB": "Fiery Runes",
+      "zhCN": "烈焰符文"
+    },
+    {
+      "Key": "FieryRunes.Desc",
+      "enGB": "You charge a ally with a magic rune of fire. \n When the wielder of the weapon successfully strikes a foe in melee with the weapon, the wielder can discharge the rune as a swift action to deal 1d4+1 points of fire damage to the target.This damage isn’t multiplied on a critical hit. If the target has spell resistance, you attempt a caster level check (1d20 + caster level) against that spell resistance when the rune is discharged.If the rune is successfully resisted, the rune is expended and does no damage; otherwise, the rune deals damage normally.\n For every 2 caster levels beyond 3rd the caster possesses, the rune deals an additional 1d4+1 points of fire damage(2d4+2 at caster level 5th, 3d4+3 at 7th, and so on) to a maximum of 5d4+5 points of fire damage at caster level 11th.",
+      "zhCN": "你用烈焰符文充能一把武器。当武器持用者用该武器近战攻击命中敌人时，持用者可以迅捷动作解消符文造成额外1d4+1点火焰伤害。该伤害无法被重击翻倍。若命中目标有法术抗力，你需要在持用者解消符文时进行施法者等级检定（d20+cl）对抗命中目标的法术抗力。若法术抗力成功，符文被解除；不然，符文正常造成伤害。3级之后的每有两个施法者等级，符文就会再额外造成1d4+1点火焰伤害，最高在施法者等级11时5d4+5点。"
+    },
+    {
+      "Key": "FieryRuneArray.Name",
+      "enGB": "Fiery Rune Array",
+      "zhCN": "烈焰符文阵列"
+    },
+    {
+      "Key": "FieryRuneArray.Desc",
+      "enGB": "You charge a ally with  magic runes of fire. \n When the wielder of the weapon successfully strikes a foe in melee with the weapon, the wielder can discharge a  rune as a swift action to deal 1d4+1 points of fire damage to the target.This damage isn’t multiplied on a critical hit. If the target has spell resistance, you attempt a caster level check (1d20 + caster level) against that spell resistance when the rune is discharged. If the rune is successfully resisted, a rune is expended and does no damage; otherwise, the rune deals damage normally.\n For every 2 caster levels beyond 3rd the caster possesses, the rune deals an additional 1d4+1 points of fire damage(2d4+2 at caster level 5th, 3d4+3 at 7th, and so on) to a maximum of 5d4+5 points of fire damage at caster level 11th.\n The spell creates 1 rune, plus 1 per 5 caster levels, to a maximum of 5 at level 20.",
+      "zhCN": "你用烈焰符文充能一把武器。当武器持用者用该武器近战攻击命中敌人时，持用者可以迅捷动作解消符文造成额外1d4+1点火焰伤害。该伤害无法被重击翻倍。若命中目标有法术抗力，你需要在持用者解消符文时进行施法者等级检定（d20+cl）对抗命中目标的法术抗力。若法术抗力成功，符文被解除；不然，符文正常造成伤害。3级之后的每有两个施法者等级，符文就会再额外造成1d4+1点火焰伤害，最高在施法者等级11时5d4+5点。\n该法术创造1个符文，每5个施法者等级额外1个，最大在施法者等级20时5个。"
     },
     {
       "Key": "Fly.Name",
