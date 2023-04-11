@@ -3195,6 +3195,17 @@
       "esES": null
     },
     {
+      "Key": "8c55f1700a614de8a02c8c209acc801d",
+      "SimpleName": "BloodragerAberrantSecondBloodline.Description",
+      "ProcessTemplates": true,
+      "enGB": "There is a taint in your blood that is both alien and bizarre. When you bloodrage, this manifests in peculiar and terrifying ways.\nWhile bloodraging, you gain the abilities and immunities of some aberrations, but show signs of your tainted heritage.\n<b><color=#703565><link=\"Encyclopedia:Bonus\">Bonus</link></color></b> Feats: Combat Reflexes, Great Fortitude, Improved Disarm, Improved Dirty Trick, Improved Initiative, Improved Unarmed Strike, Iron Will.\nBonus Spells: Enlarge Person (7th), See Invisibility (10th), Displacement (13th), Spike Stones (16th).",
+      "ruRU": null,
+      "deDE": null,
+      "frFR": null,
+      "zhCN": "你的血液中蕴含着外来者和异怪的污染。当你处于血承狂暴时，这些污染会以异常而可怕的方式显现出来。\n{g|Encyclopedia:Bonus}额外{/g}专长：战斗反射、顽石强韧、精通徒手击打、精通阴招、精通先攻、精通缴械、钢铁意志。\n额外法术：变巨术（7级）、识破隐形（11级）、移位术（13级）、岩刺（16级）。",
+      "esES": null
+    },
+    {
       "Key": "05904ca55b1e4a579480927db8907b97",
       "SimpleName": "BloodragerAberrantBloodline.Name",
       "ProcessTemplates": false,
