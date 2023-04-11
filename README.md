@@ -3249,17 +3249,17 @@ C:\Users\你的用户名\AppData\LocalLow\Owlcat Games\Pathfinder Wrath Of The R
 + 为同伴增加额外神话特性（在神话4和神话8获取）
 
 <table>
- <tr><th colspan="3">新增内容列表<br></th></tr> 
+ <tr><th colspan="4">新增内容列表<br></th></tr> 
   <tr><td rowspan="3">神话4</i></td>
-		    <td colspan="2">选择一个神话英雄奖励（无拘乐器等）</td></tr>
-		<tr><td colspan="2">选择一个奖励专长、神话能力，或者神话专长</td></tr>
-		<tr><td colspan="2">给予同伴无视职业阵营限制的能力（如同主角效果）<br>
+		    <td colspan="3">选择一个神话英雄奖励（无拘乐器等）</td></tr>
+		<tr><td colspan="3">选择一个奖励专长、神话能力，或者神话专长</td></tr>
+		<tr><td colspan="3">给予同伴无视职业阵营限制的能力（如同主角效果）<br>
 			* 只能重新激活阵营限制的职业特性和能力<br>
 			* 并不能允许提升阵营限制的职业等级<br>
 			* 目前只能影响一个同伴</td></tr>
   <tr><td rowspan="11">神话8</i></td>
-		<td colspan="2">选择一个奖励专长、神话能力，或者神话专长</td></tr>
-		<tr><td rowspan="10">*其他选项，取决于主角的道途</td></tr>
+		<td colspan="3">选择一个奖励专长、神话能力，或者神话专长</td></tr>
+		<tr><td rowspan="11">*其他选项<br>取决于主角道途</td>
 			    <td>默认选项</td>
 				<td>神话身心：提升你最高的物理属性、最高的精神属性、最低的豁免</td></tr>
 			<tr><td>御衡</td>
