@@ -3259,7 +3259,7 @@ C:\Users\你的用户名\AppData\LocalLow\Owlcat Games\Pathfinder Wrath Of The R
 			* 目前只能影响一个同伴</td></tr>
   <tr><td rowspan="11">神话8</i></td>
 		<td colspan="3">选择一个奖励专长、神话能力，或者神话专长</td></tr>
-		<tr><td rowspan="11">*其他选项<br>取决于主角道途</td>
+		<tr><td rowspan="10">*其他选项<br>取决于主角道途</td>
 			    <td>默认选项</td>
 				<td>神话身心：提升你最高的物理属性、最高的精神属性、最低的豁免</td></tr>
 			<tr><td>御衡</td>
