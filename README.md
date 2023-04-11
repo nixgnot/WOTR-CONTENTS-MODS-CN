@@ -3257,9 +3257,9 @@ C:\Users\你的用户名\AppData\LocalLow\Owlcat Games\Pathfinder Wrath Of The R
 			* 只能重新激活阵营限制的职业特性和能力<br>
 			* 并不能允许提升阵营限制的职业等级<br>
 			* 目前只能影响一个同伴</td></tr>
-  <tr><td rowspan="11">神话8</i></td>
+  <tr><td rowspan="12">神话8</i></td>
 		<td colspan="3">选择一个奖励专长、神话能力，或者神话专长</td></tr>
-		<tr><td rowspan="10">*其他选项<br>取决于主角道途</td>
+		<tr><td rowspan="11">*其他选项<br>取决于主角道途</td>
 			    <td>默认选项</td>
 				<td>神话身心：提升你最高的物理属性、最高的精神属性、最低的豁免</td></tr>
 			<tr><td>御衡</td>
@@ -3279,7 +3279,7 @@ C:\Users\你的用户名\AppData\LocalLow\Owlcat Games\Pathfinder Wrath Of The R
 				    亡灵之伴：为同伴提供亡灵生物模板</td></tr>
 			<tr><td>诡计</td>
 				<td>选取一项1级的神话诡计</td></tr>
-			<tr><td>魔鬼（仍在构建和平衡）</td>
+			<tr><td>魔鬼<br>（仍在构建和平衡）</td>
 				<td>戴玛维嘎契约：提升敏捷、魅力、法术和近战范围<br>
 				    深狱炼魔契约：提升力量、感知、AC、豁免和法术抗力<br>
 				    燔祭魔契约：提升体质、智力，增加法术伤害和武器上的混乱异界生物破敌</td></tr>
@@ -3287,7 +3287,7 @@ C:\Users\你的用户名\AppData\LocalLow\Owlcat Games\Pathfinder Wrath Of The R
 				<td>选择两项金龙专长（另一项在神话9）<br>
 				    金龙防御：获取免疫、能量抗性、豁免加值和翅膀<br>
 				    金龙力量：增加所有属性到最低14，增加最高属性，所有武器被视为+5增强</td></tr>
-			<tr><td>传奇（仍在构建和平衡）</td>
+			<tr><td>传奇<br>（仍在构建和平衡）</td>
 				<td>传奇属性：增加所有属性值2<br>
 				    传奇之伴：允许所有同伴等级提升到24</td></tr>
 			<tr><td>虫群</td>
