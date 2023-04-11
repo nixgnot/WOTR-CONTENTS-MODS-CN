@@ -59,6 +59,7 @@
 | [Way-of-the-shield](#Way-of-the-shield) | 盾牌之道 |自带 |:heavy_check_mark: | :star: | :file_folder::file_folder: |🛠️||
 | [CyniikalBrokenFeatures](#CyniikalBrokenFeatures) | 法师虚学派 |QL汉化| :heavy_check_mark: | :star: | :file_folder::file_folder: |||
 | [随军神父](#随军神父) | 随军神父 | 自带 | :heavy_check_mark: | :star: | :file_folder: |||
+| [CompanionAscension](#CompanionAscension) | 同伴提升 |  | :heavy_check_mark: | :star: | :file_folder: |||
 
 备注
 + UMM一栏为是否使用UMM安装
@@ -3238,6 +3239,60 @@ C:\Users\你的用户名\AppData\LocalLow\Owlcat Games\Pathfinder Wrath Of The R
 > *安装方式：* **非UMM**<br>
 > *新增内容：* 战斗祭司变体：随军神父<br>
 + 正义之怒群友自制，增加战斗祭司新变体随军神父。本文档[Release页面](https://github.com/nixgnot/WOTR-CONTENTS-MODS-CN/releases)处可下载（SuiJunShenFu.zip），注意非UMM安装
+
+-------------------------------------------   
+### [CompanionAscension](https://github.com/WraithJT/CompanionAscension)
+> *前置：* 无<br>
+> *中文：* **暂无**<br>
+> *安装方式：* **UMM**<br>
+> *新增内容：* 同伴神话能力<br>
++ 为同伴增加额外神话特性（在神话4和神话8获取）
+
+<table>
+ <tr><th colspan="3">新增内容列表<br></th></tr> 
+  <tr><td rowspan="3">神话4</i></td>
+		    <td colspan="2">选择一个神话英雄奖励（无拘乐器等）</td></tr>
+		<tr><td colspan="2">选择一个奖励专长、神话能力，或者神话专长</td></tr>
+		<tr><td colspan="2">给予同伴无视职业阵营限制的能力（如同主角效果）<br>
+			* 只能重新激活阵营限制的职业特性和能力<br>
+			* 并不能允许提升阵营限制的职业等级<br>
+			* 目前只能影响一个同伴</td></tr>
+  <tr><td rowspan="11">神话8</i></td>
+		<td colspan="2">选择一个奖励专长、神话能力，或者神话专长</td></tr>
+		<tr><td rowspan="10">*其他选项，取决于主角的道途</td></tr>
+			    <td>默认选项</td>
+				<td>神话身心：提升你最高的物理属性、最高的精神属性、最低的豁免</td></tr>
+			<tr><td>御衡</td>
+				<td>御衡破敌：仅基础能力，无后续提升<br>
+				    御衡者免疫：为同伴获取第二项（神话9获得第三项）御衡者免疫</td></tr>
+			<tr><td>天使</td>
+				<td>天堂宝剑：仅基础能力，无后续提升<br>
+				    天使之伴：为同伴提供多种天界生物模板的特性</td></tr>
+			<tr><td>灵使</td>
+				<td>选取一项超然之力</td></tr>
+			<tr><td>恶魔</td>
+				<td>恶魔狂怒：仅基础能力，无后续提升<br>
+				    恶魔降临：仅基础能力，无后续提升<br>
+				    恶魔之相：选择2个恶魔之相或者1个高等恶魔之相的被动效果</td></tr>
+			<tr><td>巫妖</td>
+				<td>巫妖之力：选取一项巫妖之力<br>
+				    亡灵之伴：为同伴提供亡灵生物模板</td></tr>
+			<tr><td>诡计</td>
+				<td>选取一项1级的神话诡计</td></tr>
+			<tr><td>魔鬼（仍在构建和平衡）</td>
+				<td>戴玛维嘎契约：提升敏捷、魅力、法术和近战范围<br>
+				    深狱炼魔契约：提升力量、感知、AC、豁免和法术抗力<br>
+				    燔祭魔契约：提升体质、智力，增加法术伤害和武器上的混乱异界生物破敌</td></tr>
+			<tr><td>金龙</td>
+				<td>选择两项金龙专长（另一项在神话9）<br>
+				    金龙防御：获取免疫、能量抗性、豁免加值和翅膀<br>
+				    金龙力量：增加所有属性到最低14，增加最高属性，所有武器被视为+5增强</td></tr>
+			<tr><td>传奇（仍在构建和平衡）</td>
+				<td>传奇属性：增加所有属性值2<br>
+				    传奇之伴：允许所有同伴等级提升到24</td></tr>
+			<tr><td>虫群</td>
+				<td>你特喵的还有同伴？啥都没！</td></tr>
+  </table>
  
 --------------------------------------
 ### 功能MOD索引
