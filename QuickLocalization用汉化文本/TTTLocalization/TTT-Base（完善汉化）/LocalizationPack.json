@@ -3668,6 +3668,17 @@
       "esES": null
     },
     {
+      "Key": "28cae4dc1b214fb4bda55244460ea377",
+      "SimpleName": "BloodragerDestinedSecondBloodline.Description",
+      "ProcessTemplates": true,
+      "enGB": "Your bloodline is destined for great things. When you bloodrage, you exude a greatness that makes all but the most legendary creatures seem lesser.\nYour future greatness grants you the might to strike your enemies with awe.\n<b><color=#703565><link=\"Encyclopedia:Bonus\">Bonus</link></color></b> Feats: Diehard, Endurance, Improved Initiative, Intimidating Prowess, Sieze The Moment, Lightning Reflexes, Weapon Focus.\nBonus Spells: Shield (7th), Blur (10th), Protection From Energy (13th), Freedom Of Movement (16th).",
+      "ruRU": null,
+      "deDE": null,
+      "frFR": null,
+      "zhCN": "血脉中的某种力量使你命中注定会成就伟业。当你处于血承狂暴时，身上所散发出的伟大气息能够让除了传奇生物以外的所有生物显得渺小而平凡，你未来的伟大赐予你令对手拜服的力量。\n{g|Encyclopedia:Bonus}额外{/g}专长：顽强、坚韧、精通先攻、威逼、抓准时机、闪电反射、武器专攻。\n额外法术：护盾术（7级）、朦胧术（11级）、防护能量（13级）、行动自如（16级）。",
+      "esES": null
+    },
+    {
       "Key": "c6a74ccfd3064e4cad25c85486cccf9b",
       "SimpleName": "BloodragerDestinedBloodline.Name",
       "ProcessTemplates": false,
