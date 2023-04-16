@@ -206,6 +206,7 @@ ae204741f8f01a14eaaaf54a1a89388b C3Wilcer 1 26160 LightShieldItemPlus3againstEvo
 63beefff8449fd94a8e5fada3b18ef72 C3Wilcer 1 45250 BlazingCavalierShieldItem 
 05d8f2e20b09a3d43871d76424c195c6 C3Wilcer 1 52150 WildGuardianShieldItem 
 954bab43deeac3b47a390623647cbdd6 C3Wilcer 1 59000 DefendersBulwarkShieldItem 
+cfdbf55b99884879809679012b84a245 C3Wilcer 1 62000 NumerianGreatswordItem
 #新增 第四章武器护甲
 2e7ce0eac8655044f9ea2590df25e64c C4Heraxa 1 102400 BoneshardItem 
 16a21907f1988ae4bb92b5ef1579af01 C4Heraxa 1 158000 PrimeWiperItem 
@@ -312,6 +313,7 @@ d88d5d845c34b9649b2d83101df40d32 C5Exotic 1 180250 IrovettisBreastplate
 21bcbc018a604214cb10694abb3a5056 C5Exotic 1 260750 MarkOfTheGuardianArmorItem 
 d8ee7209715003b44bbcb02164c6692d C5Exotic 1 239500 AugmentedPlateItem
 e9c7e91d3b032ab4d96d9588b985bab5 C5Exotic 1 317825 HeartOfThunderShieldItem 
+848c1e3f33b319244a09d10b0a26f651 C5Exotic 1 260750 BloodyCrescentItem
 #袍
 61ead8ede5f473049b36441f6a9f7768 C2Woljif 1 50000 Robe of Eyes
 2394c36e06b84f008f49754c7ed0317e C2Woljif 1 80000 Dark Acolyte's Robe
