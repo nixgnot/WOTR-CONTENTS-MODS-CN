@@ -3186,7 +3186,7 @@
         },
 		{
             "Key": "HomebrewArchtypes_HeraldClass",
-            "zhCN": "先锋"
+            "zhCN": "先驱"
         },
 		{
             "Key": "HomebrewArchtypes_HeraldClassDesc",
@@ -3194,15 +3194,15 @@
         },
 		{
             "Key": "HomebrewArchtypes_HeraldClassDescShort",
-            "zhCN": "先锋的宗旨是为前线提供支持，援助盟友，诅咒敌人。他们总是为了让他们的团队在战斗中保持斗志和士气，让敌人闻风而逃。"
+            "zhCN": "先驱的宗旨是为前线提供支持，援助盟友，诅咒敌人。他们总是为了让他们的团队在战斗中保持斗志和士气，让敌人闻风而逃。"
         },
 		{
             "Key": "HomebrewArchtypes_HeraldClassProficiencies",
-            "zhCN": "先锋擅长"
+            "zhCN": "先驱擅长"
         },
 		{
             "Key": "HomebrewArchtypes_HeraldClassProficienciesDesc",
-            "zhCN": "先锋擅长所有建议武器，以及长剑、细剑、短剑和短弓。 先锋也擅长轻甲，盾牌(塔盾除外)以及信仰神祇的偏好武器。"
+            "zhCN": "先驱擅长所有简易武器，以及长剑、细剑、短剑和短弓。 先驱也擅长轻甲，盾牌(塔盾除外)以及信仰神祇的偏好武器。"
         },
 		{
             "Key": "HomebrewArchtypes_HeraldClassDoctrineSelection",
@@ -3210,7 +3210,7 @@
         },
 		{
             "Key": "HomebrewArchtypes_HeraldClassDoctrineSelectionDesc",
-            "zhCN": "一些先锋被派去作为被诅咒者的救世主，而其他人则被派去惩戒邪恶。在1级时，先锋必须选择使用仁慈信条或暴怒信条。一旦做出了选择，就无法改变。\n信条代表了先锋被赋予的使命和理想，以及他们被赋予的实现这些理想的天赋。你们的教义并非受限于阵营，一个残酷的灵魂可以去治愈病人，和平主义者也可能会去领导圣战。\n信条为先锋提供了一些已知的额外法术，代表他们受到祝福的力量，以及确定在1级时你获得的第一个神之音。你的信条也让你获得独有的巅峰能力。"
+            "zhCN": "一些先驱被派去作为被诅咒者的救世主，而其他人则被派去惩戒邪恶。在1级时，先驱必须选择使用仁慈信条或暴怒信条。一旦做出了选择，就无法改变。\n信条代表了先驱被赋予的使命和理想，以及他们被赋予的实现这些理想的天赋。你们的教义并非受限于阵营，一个残酷的灵魂可以去治愈病人，和平主义者也可能会去领导圣战。\n信条为先驱提供了一些已知的额外法术，代表他们受到祝福的力量，以及确定在1级时你获得的第一个神之音。你的信条也让你获得独有的巅峰能力。"
         },
 		{
             "Key": "HomebrewArchtypes_HeraldClassDoctrineMercy",
@@ -3218,7 +3218,7 @@
         },
 		{
             "Key": "HomebrewArchtypes_HeraldClassDoctrineMercyDesc",
-            "zhCN": "选择仁慈信条的先锋为那些被带到战场上受苦受难的人带来和平。作为仁慈先锋，你的任务是治愈病人，驱散恐惧，保护弱者。"
+            "zhCN": "选择仁慈信条的先驱为那些被带到战场上受苦受难的人带来和平。作为仁慈先驱，你的任务是治愈病人，驱散恐惧，保护弱者。"
         },
 		{
             "Key": "HomebrewArchtypes_HeraldClassDoctrineWrath",
@@ -3226,7 +3226,7 @@
         },
 		{
             "Key": "HomebrewArchtypes_HeraldClassDoctrineWrathDesc",
-            "zhCN": "选择暴怒信条的先锋为战场带来带来痛苦与苦难。 作为愤怒先锋，你的任务是制造痛苦，激发恐惧，折磨那些胆敢对抗你的人。"
+            "zhCN": "选择暴怒信条的先驱为战场带来带来痛苦与苦难。 作为愤怒先驱，你的任务是制造痛苦，激发恐惧，折磨那些胆敢对抗你的人。"
         },
 		{
             "Key": "HomebrewArchtypes_HeraldClassDoctrineMercySongofMercy",
@@ -3234,7 +3234,7 @@
         },
 		{
             "Key": "HomebrewArchtypes_HeraldClassDoctrineMercySongofMercyDesc",
-            "zhCN": "先锋的存在可以保护他们的盟友。受到怜悯之歌影响的盟友在AC和豁免上获得+1崇圣加值，这个加值在1级之后的每5个先锋等级再加1。"
+            "zhCN": "先驱的存在可以保护他们的盟友。受到怜悯之歌影响的盟友在AC和豁免上获得+1崇圣加值，这个加值在1级之后的每5个先驱等级再加1。"
         },
 		{
             "Key": "HomebrewArchtypes_HeraldClassDoctrineWarWordsofWar",
@@ -3242,7 +3242,7 @@
         },
 		{
             "Key": "HomebrewArchtypes_HeraldClassDoctrineWarWordsofWarDesc",
-            "zhCN": "先锋的盟友充满了正义的力量。受到影响的盟友在攻击检定和伤害检定上获得+1崇圣加值，这个加值在1级之后的每5个先锋等级再加1。"
+            "zhCN": "先驱的盟友充满了正义的力量。受到影响的盟友在攻击检定和伤害检定上获得+1崇圣加值，这个加值在1级之后的每5个先驱等级再加1。"
         },
 		{
             "Key": "HomebrewArchtypes_HeraldClassSermonSelection",
@@ -3250,7 +3250,7 @@
         },
 		{
             "Key": "HomebrewArchtypes_HeraldClassSermonSelectionDesc",
-            "zhCN": "通过他们的超自然能力和与他们的神祇链接，一个先锋可以照亮道路，为他们周围的人指明方向，让他们充满勇士的力量和韧性。 1级时，先锋可以使用此能力的轮数等于他的魅力。之后的每一级先锋可以每天额外使用神之音3轮。\n神之音无法被打断，但如果先锋被杀死、麻痹、震慑、昏迷，或在每轮中无法采取自由动作来维持神之音，神之音就会立即结束。先锋无法同时维持一个以上的神之音效果。\n7级时，先锋可以使用移动动作代替标准动作开启神之音，13级时则是使用迅捷动作。\n每个神之音都包含声音和视觉成分。目标必须能够听见先锋的声音才能获得神之音的增益。\n昏迷的盟友同样会受到神之音的影响。该效果持续到神之音的效果结束或者盟友行动，这取决于哪一种情况先到来。\n神之音的范围是50英尺，除非另有说明，DC为10 + 1/2先锋等级+魅力调整值。\n先锋从他的信条中学习他的第一个神之音，在第3级以及之后的每一个奇数等级，都可以选择从下面的列表中获取一个额外的神之音。同种神之音只能选择一次。"
+            "zhCN": "通过他们的超自然能力和与他们的神祇链接，一个先驱可以照亮道路，为他们周围的人指明方向，让他们充满勇士的力量和韧性。 1级时，先驱可以使用此能力的轮数等于他的魅力。之后的每一级先驱可以每天额外使用神之音3轮。\n神之音无法被打断，但如果先驱被杀死、麻痹、震慑、昏迷，或在每轮中无法采取自由动作来维持神之音，神之音就会立即结束。先驱无法同时维持一个以上的神之音效果。\n7级时，先驱可以使用移动动作代替标准动作开启神之音，13级时则是使用迅捷动作。\n每个神之音都包含声音和视觉成分。目标必须能够听见先驱的声音才能获得神之音的增益。\n昏迷的盟友同样会受到神之音的影响。该效果持续到神之音的效果结束或者盟友行动，这取决于哪一种情况先到来。\n神之音的范围是50英尺，除非另有说明，DC为10 + 1/2先驱等级+魅力调整值。\n先驱从他的信条中学习他的第一个神之音，在第3级以及之后的每一个奇数等级，都可以选择从下面的列表中获取一个额外的神之音。同种神之音只能选择一次。"
         },
 		{
             "Key": "HomebrewArchtypes_HeraldClassSermonMove",
@@ -3258,7 +3258,7 @@
         },
 		{
             "Key": "HomebrewArchtypes_HeraldClassSermonMoveDesc",
-            "zhCN": "7级时，先锋可以使用{g|Encyclopedia:Move_Action}移动动作{/g}代替{g|Encyclopedia:Standard_Actions}标准动作{/g}开启神之音。"
+            "zhCN": "7级时，先驱可以使用{g|Encyclopedia:Move_Action}移动动作{/g}代替{g|Encyclopedia:Standard_Actions}标准动作{/g}开启神之音。"
         },
 		{
             "Key": "HomebrewArchtypes_HeraldClassSermonSwift",
@@ -3266,7 +3266,7 @@
         },
 		{
             "Key": "HomebrewArchtypes_HeraldClassSermonSwiftDesc",
-            "zhCN": "13级时，先锋可以以{g|Encyclopedia:Swift_Action}迅捷动作{/g}开启神之音。"
+            "zhCN": "13级时，先驱可以以{g|Encyclopedia:Swift_Action}迅捷动作{/g}开启神之音。"
         },
 		{
             "Key": "HomebrewArchtypes_HeraldClassTouchoftheFaithfulSelection",
@@ -3274,7 +3274,7 @@
         },
 		{
             "Key": "HomebrewArchtypes_HeraldClassTouchoftheFaithfulSelectionDesc",
-            "zhCN": "在 2 级时，先锋可以通过指尖引导神祇的力量，每天使用次数相当于他们的先锋等级的一半加上魅力调整值。 使用此能力是一个不会引发借机攻击的近战接触攻击。 如果攻击命中，虔诚之触造成1d6点伤害，并在 2 级之后每4级先锋等级额外造成1d6点伤害。生物无法通过豁免对抗虔诚之触。\n对那些服务于善良神祇的人来说该技能造成神圣伤害，反之则造成污邪伤害。 如果你信仰中立阵营的神祇，你可以任选其一。选择以后就不能改变。\n此外，先锋的虔诚之触受到他们选择的信条影响，赋予它更强的崭新用途以满足他们对正义的追求。"
+            "zhCN": "在 2 级时，先驱可以通过指尖引导神祇的力量，每天使用次数相当于他们的先驱等级的一半加上魅力调整值。 使用此能力是一个不会引发借机攻击的近战接触攻击。 如果攻击命中，虔诚之触造成1d6点伤害，并在 2 级之后每4级先驱等级额外造成1d6点伤害。生物无法通过豁免对抗虔诚之触。\n对那些服务于善良神祇的人来说该技能造成神圣伤害，反之则造成污邪伤害。 如果你信仰中立阵营的神祇，你可以任选其一。选择以后就不能改变。\n此外，先驱的虔诚之触受到他们选择的信条影响，赋予它更强的崭新用途以满足他们对正义的追求。"
         },
 		{
             "Key": "HomebrewArchtypes_HeraldClassVoiceofGod",
@@ -3282,7 +3282,7 @@
         },
 		{
             "Key": "HomebrewArchtypes_HeraldClassVoiceofGodDesc",
-            "zhCN": "先锋在激励他人和团结人心为一个共同目标而奋斗方面具有独特的天赋。在2级时，先锋在沟通检定中获得相当于其先锋等级一半的洞察加值。"
+            "zhCN": "先驱在激励他人和团结人心为一个共同目标而奋斗方面具有独特的天赋。在2级时，先驱在沟通检定中获得相当于其先驱等级一半的洞察加值。"
         },
 		{
             "Key": "HomebrewArchtypes_HeraldClassMinorApotheosisSelection",
@@ -3290,7 +3290,7 @@
         },
 		{
             "Key": "HomebrewArchtypes_HeraldClassMinorApotheosisSelectionDesc",
-            "zhCN": "随着先锋影响力的增长，他们开始展现自己的神力。在3级时，先锋获得一个圣化。  她在6级获得额外的圣化，之后每3级获得一次。除非另有说明，单个圣化只能选择一次。要选择一个圣化，你必须满足它的先决条件。你也可以选择你的信条所提供给你的任何圣化。\n除非额外说明，当圣化相关能力需要进行豁免时，其豁免DC为10 +先锋等级的一半+魅力调整值。"
+            "zhCN": "随着先驱影响力的增长，他们开始展现自己的神力。在3级时，先驱获得一个圣化。  她在6级获得额外的圣化，之后每3级获得一次。除非另有说明，单个圣化只能选择一次。要选择一个圣化，你必须满足它的先决条件。你也可以选择你的信条所提供给你的任何圣化。\n除非额外说明，当圣化相关能力需要进行豁免时，其豁免DC为10 +先驱等级的一半+魅力调整值。"
         },
 		{
             "Key": "HomebrewArchtypes_HeraldClassSermonHealingHymns",
@@ -3298,7 +3298,7 @@
         },
 		{
             "Key": "HomebrewArchtypes_HeraldClassSermonHealingHymnsDesc",
-            "zhCN": "先锋颂唱的圣歌可以治愈伤痛，盟友获得快速回复1，盟友每轮恢复1点生命值(直到他们的最大生命值)。4级以及之后每3个先锋等级额外增加，快速回复量增加1点。"
+            "zhCN": "先驱颂唱的圣歌可以治愈伤痛，盟友获得快速回复1，盟友每轮恢复1点生命值(直到他们的最大生命值)。4级以及之后每3个先驱等级额外增加，快速回复量增加1点。"
         },
 		{
             "Key": "HomebrewArchtypes_HeraldClassSermonSerenadeofSpellPiercing",
@@ -3306,7 +3306,7 @@
         },
 		{
             "Key": "HomebrewArchtypes_HeraldClassSermonSerenadeofSpellPiercingDesc",
-            "zhCN": "先锋的圣言使他们的盟友保持极强的专注力，并使他们的法术更容易起效。这个能力给予施法者专注检定和穿透法术抗力的施法者检定提供+1加值，4级以及之后每3个先锋等级额外增加1。"
+            "zhCN": "先驱的圣言使他们的盟友保持极强的专注力，并使他们的法术更容易起效。这个能力给予施法者专注检定和穿透法术抗力的施法者检定提供+1加值，4级以及之后每3个先驱等级额外增加1。"
         },
 		{
             "Key": "HomebrewArchtypes_HeraldClassSermonRequiemofResistance",
@@ -3314,7 +3314,7 @@
         },
 		{
             "Key": "HomebrewArchtypes_HeraldClassSermonRequiemofResistanceDesc",
-            "zhCN": "先锋闪烁的灵光保护着他的盟友，在你开启神之音时(火焰、寒冷、电击、酸蚀和音波)给予盟友所有能量类型抗性10点。每个先锋等级，该抗性额外增加1点。"
+            "zhCN": "先驱闪烁的灵光保护着他的盟友，在你开启神之音时(火焰、寒冷、电击、酸蚀和音波)给予盟友所有能量类型抗性10点。每个先驱等级，该抗性额外增加1点。"
         },
 		{
             "Key": "HomebrewArchtypes_HeraldClassSermonRiteofResilience",
@@ -3342,7 +3342,7 @@
         },
 		{
             "Key": "HomebrewArchtypes_HeraldClassSermonRiteofResilienceDesc",
-            "zhCN": "这个神之音给予盟友抵抗物理伤害的能力，授予他们DR 1/魔法。这个DR在1级之后每2个先锋等级就增加1（最高为10）。10级时，这个伤害减免需要与你散发的灵光对立的阵营效果来穿透。如果你没有灵光，或者服侍一个中立神祇，它会被魔法武器和银制武器穿过。"
+            "zhCN": "这个神之音给予盟友抵抗物理伤害的能力，授予他们DR 1/魔法。这个DR在1级之后每2个先驱等级就增加1（最高为10）。10级时，这个伤害减免需要与你散发的灵光对立的阵营效果来穿透。如果你没有灵光，或者服侍一个中立神祇，它会被魔法武器和银制武器穿过。"
         },
 		{
             "Key": "HomebrewArchtypes_HeraldClassSermonChorusofCowardice",
@@ -3374,7 +3374,7 @@
         },
 		{
             "Key": "HomebrewArchtypes_HeraldClassSermonAriaofAlignmentDesc",
-            "zhCN": "先锋可以将他们的神圣灵光导入盟友体内，以支援他们对抗敌人。 所有的盟友都受到了灵光防护，效果类似防护邪恶，具体针对的阵营由你选择的灵光决定。 如果你没有灵光，或者服侍一个绝对中立的神祇，效果默认为防护邪恶。\n在10级时，盟友的武器视作和你的灵光相同的阵营用于穿透伤害减免。如果你没有灵光，或者服侍一个绝对中立的神祇，效果默认为善良武器。"
+            "zhCN": "先驱可以将他们的神圣灵光导入盟友体内，以支援他们对抗敌人。 所有的盟友都受到了灵光防护，效果类似防护邪恶，具体针对的阵营由你选择的灵光决定。 如果你没有灵光，或者服侍一个绝对中立的神祇，效果默认为防护邪恶。\n在10级时，盟友的武器视作和你的灵光相同的阵营用于穿透伤害减免。如果你没有灵光，或者服侍一个绝对中立的神祇，效果默认为善良武器。"
         },
 		{
             "Key": "HomebrewArchtypes_HeraldClassSermonMelodyofMovement",
@@ -3398,7 +3398,7 @@
         },
 		{
             "Key": "HomebrewArchtypes_HeraldClassSermonWordsofWeaknessDesc",
-            "zhCN": "先锋的话语迷惑了他们的敌人。神之音范围内的敌人在攻击检定时承受-1减值，4级以及之后每4个先锋等级额外增加-1减值。"
+            "zhCN": "先驱的话语迷惑了他们的敌人。神之音范围内的敌人在攻击检定时承受-1减值，4级以及之后每4个先驱等级额外增加-1减值。"
         },
 		{
             "Key": "HomebrewArchtypes_HeraldClassSermonEpicofElements",
@@ -3422,7 +3422,7 @@
         },
 		{
             "Key": "HomebrewArchtypes_HeraldClassSermonEpicofElementsDesc",
-            "zhCN": "先锋展开一个球形空间向盟友注入元素之力。  当神之音启动时，选择一种能量类型(火焰，寒冷，电击，酸蚀)。受到影响的盟友可以将他们的武器伤害或法术伤害转换为对应能量类型，转换后的伤害正常适用于元素抗性和免疫。"
+            "zhCN": "先驱展开一个球形空间向盟友注入元素之力。  当神之音启动时，选择一种能量类型(火焰，寒冷，电击，酸蚀)。受到影响的盟友可以将他们的武器伤害或法术伤害转换为对应能量类型，转换后的伤害正常适用于元素抗性和免疫。"
         },
 		{
             "Key": "HomebrewArchtypes_HeraldClassMinorApotheosisDivineArmory",
@@ -3430,7 +3430,7 @@
         },
 		{
             "Key": "HomebrewArchtypes_HeraldClassMinorApotheosisDivineArmoryDesc",
-            "zhCN": "选择暴怒信条的先锋获得健壮专长，擅长使用军用武器、中型盔甲和重型盔甲。"
+            "zhCN": "选择暴怒信条的先驱获得健壮专长，擅长使用军用武器、中型盔甲和重型盔甲。"
         },
 		{
             "Key": "HomebrewArchtypes_HeraldClassMinorApotheosisDivineMight",
@@ -3438,7 +3438,7 @@
         },
 		{
             "Key": "HomebrewArchtypes_HeraldClassMinorApotheosisDivineMightDesc",
-            "zhCN": "以一个迅捷动作，先锋选择视线内的一个目标，将神力聚焦向敌人。 如果目标阵营和先锋差距两阶以上，则先锋在攻击检定上获得一半的魅力调整值的加值(最低+ 0)，并在神力聚焦的目标的伤害检定上增加先锋等级的一半。\n此外，当神力聚焦生效时，先锋在受到神力聚焦目标的攻击时，将获得相当于其魅力调整值一半的偏斜AC加值。如果先锋选定了了一个阵营差距不到两阶的生物，则神力聚焦的次数会被浪费掉并且不产生任何效果。\n神力聚焦的效果会一直持续到目标死亡或先锋选定了新的目标。在9级和之后的每5级，先锋可以每天额外使用一次神力聚焦，在19级时每天最多使用4次。\n对于任何物品、功能或效果来说，该能力都视为辟邪斩。"
+            "zhCN": "以一个迅捷动作，先驱选择视线内的一个目标，将神力聚焦向敌人。 如果目标阵营和先驱差距两阶以上，则先驱在攻击检定上获得一半的魅力调整值的加值(最低+ 0)，并在神力聚焦的目标的伤害检定上增加先驱等级的一半。\n此外，当神力聚焦生效时，先驱在受到神力聚焦目标的攻击时，将获得相当于其魅力调整值一半的偏斜AC加值。如果先驱选定了了一个阵营差距不到两阶的生物，则神力聚焦的次数会被浪费掉并且不产生任何效果。\n神力聚焦的效果会一直持续到目标死亡或先驱选定了新的目标。在9级和之后的每5级，先驱可以每天额外使用一次神力聚焦，在19级时每天最多使用4次。\n对于任何物品、功能或效果来说，该能力都视为辟邪斩。"
         },
 		{
             "Key": "HomebrewArchtypes_HeraldClassMinorApotheosisDivineGrace",
@@ -3446,7 +3446,7 @@
         },
 		{
             "Key": "HomebrewArchtypes_HeraldClassMinorApotheosisDivineGraceDesc",
-            "zhCN": "先锋所有豁免均获得等于魅力加值一半(若存在)的加值。"
+            "zhCN": "先驱所有豁免均获得等于魅力加值一半(若存在)的加值。"
         },
 		{
             "Key": "HomebrewArchtypes_HeraldClassMinorApotheosisCombatFeatSelection",
@@ -3474,11 +3474,11 @@
         },
 		{
             "Key": "HomebrewArchtypes_HeraldClassMinorApotheosisChannelEnergyPositiveHealDesc",
-            "zhCN": "引导正向能量的爆发效果将{g|Encyclopedia:Healing}治疗{/g}先锋周围30英尺内的所有活物。治疗量为{g|Encyclopedia:Dice}1d6{/g}点，先锋在1级之后，每提升2级，再增加1d6点（3级时2d6，5级时3d6，以此类推）。{g|Encyclopedia:Damage}{/g}"
+            "zhCN": "引导正向能量的爆发效果将{g|Encyclopedia:Healing}治疗{/g}先驱周围30英尺内的所有活物。治疗量为{g|Encyclopedia:Dice}1d6{/g}点，先驱在1级之后，每提升2级，再增加1d6点（3级时2d6，5级时3d6，以此类推）。{g|Encyclopedia:Damage}{/g}"
         },
 		{
             "Key": "HomebrewArchtypes_HeraldClassMinorApotheosisChannelEnergyPositiveHarmDesc",
-            "zhCN": "引导正向能量的爆发效果将对先锋周围30英尺内的所有不死生物造成{g|Encyclopedia:Damage}伤害{/g}。伤害量为{g|Encyclopedia:Dice}1d6{/g}点，先锋在1级之后，每提升2级，再增加1d6点（3级时2d6，5级时3d6，以此类推）。受到引导能量伤害的生物可以进行意志{g|Encyclopedia:Saving_Throw}豁免检定{/g}，成功则伤害减半。意志豁免的{g|Encyclopedia:DC}DC{/g}为10+1/2先锋等级+先锋的{g|Encyclopedia:Wisdom}感知{/g}调整值。"
+            "zhCN": "引导正向能量的爆发效果将对先驱周围30英尺内的所有不死生物造成{g|Encyclopedia:Damage}伤害{/g}。伤害量为{g|Encyclopedia:Dice}1d6{/g}点，先驱在1级之后，每提升2级，再增加1d6点（3级时2d6，5级时3d6，以此类推）。受到引导能量伤害的生物可以进行意志{g|Encyclopedia:Saving_Throw}豁免检定{/g}，成功则伤害减半。意志豁免的{g|Encyclopedia:DC}DC{/g}为10+1/2先驱等级+先驱的{g|Encyclopedia:Wisdom}感知{/g}调整值。"
         },
 		{
             "Key": "HomebrewArchtypes_HeraldClassMinorApotheosisChannelEnergyNegative", 
@@ -3494,23 +3494,23 @@
         },
 		{
             "Key": "HomebrewArchtypes_HeraldClassMinorApotheosisChannelEnergyNegativeHarmDesc", 
-            "zhCN": "引导负向能量的爆发效果将对先锋周围30英尺内的所有活物造成{g|Encyclopedia:Damage}伤害{/g}。伤害量为{g|Encyclopedia:Dice}1d6{/g}点，先锋在1级之后，每提升2级，再增加1d6点（3级时2d6、5级时3d6，以此类推）。受到引导能量伤害的生物可以进行意志{g|Encyclopedia:Saving_Throw}豁免检定{/g}，成功则伤害减半。意志豁免的{g|Encyclopedia:DC}DC{/g}为10+1/2先锋等级+先锋{g|Encyclopedia:Charisma}魅力{/g}调整值。"
+            "zhCN": "引导负向能量的爆发效果将对先驱周围30英尺内的所有活物造成{g|Encyclopedia:Damage}伤害{/g}。伤害量为{g|Encyclopedia:Dice}1d6{/g}点，先驱在1级之后，每提升2级，再增加1d6点（3级时2d6、5级时3d6，以此类推）。受到引导能量伤害的生物可以进行意志{g|Encyclopedia:Saving_Throw}豁免检定{/g}，成功则伤害减半。意志豁免的{g|Encyclopedia:DC}DC{/g}为10+1/2先驱等级+先驱{g|Encyclopedia:Charisma}魅力{/g}调整值。"
         },
 		{
             "Key": "HomebrewArchtypes_HeraldClassMinorApotheosisChannelEnergyNegativeHealDesc", 
-            "zhCN": "引导负向能量的爆发效果将{g|Encyclopedia:Healing}治疗{/g}先锋周围30英尺内的所有不死生物。治疗量为{g|Encyclopedia:Dice}1d6{/g}点，先锋在1级之后，每提升2级，再增加1d6点（3级时2d6、5级时3d6，以此类推）。{g|Encyclopedia:Damage}{/g}"
+            "zhCN": "引导负向能量的爆发效果将{g|Encyclopedia:Healing}治疗{/g}先驱周围30英尺内的所有不死生物。治疗量为{g|Encyclopedia:Dice}1d6{/g}点，先驱在1级之后，每提升2级，再增加1d6点（3级时2d6、5级时3d6，以此类推）。{g|Encyclopedia:Damage}{/g}"
         },
 		{
             "Key": "HomebrewArchtypes_HeraldClassMinorApotheosisChannelEnergySelectionDesc", 
-            "zhCN": "先锋通过消耗两次虔诚之触次数来使用引导能量。以仁慈信条的先锋引导正向能量，而选择暴怒信条的先锋引导负向能量。视你的先锋等级为你有效牧师等级。"
+            "zhCN": "先驱通过消耗两次虔诚之触次数来使用引导能量。以仁慈信条的先驱引导正向能量，而选择暴怒信条的先驱引导负向能量。视你的先驱等级为你有效牧师等级。"
         },
 		{
             "Key": "HomebrewArchtypes_HeraldClassMinorApotheosisChannelEnergyPositiveDesc",
-            "zhCN": "选择仁慈信条的先锋可以引导正向能量，可以选择对不死生物造成{g|Encyclopedia:Damage}伤害{/g}，也可以选择对{g|Encyclopedia:Healing}治疗{/g}活物。\n引导正向能量的爆发效果对先锋周围30英尺内，所有某类生物（不死生物或活物）造成影响。伤害量或治疗量为{g|Encyclopedia:Dice}1d6{/g}点，先锋在1级之后，每提升2级，再增加1d6点（3级时2d6、5级时3d6，以此类推）。受到引导能量伤害的生物可以进行意志{g|Encyclopedia:Saving_Throw}豁免检定{/g}，成功则伤害减半。意志豁免的{g|Encyclopedia:DC}DC{/g}为10+1/2先锋等级+先锋{g|Encyclopedia:Charisma}魅力{/g}调整值。引导能量的治疗量不能超过生物的最大生命值，过量治疗全部无效。先锋可以花费2点虔诚之触来使用此技能。先锋每天可引导能量的次数等于魅力调整值+3。引导能量为{g|Encyclopedia:Standard_Actions}标准动作{/g}，不会引发{g|Encyclopedia:Attack_Of_Opportunity}借机攻击{/g}。先锋可以选择自身是否受此效果影响。"
+            "zhCN": "选择仁慈信条的先驱可以引导正向能量，可以选择对不死生物造成{g|Encyclopedia:Damage}伤害{/g}，也可以选择对{g|Encyclopedia:Healing}治疗{/g}活物。\n引导正向能量的爆发效果对先驱周围30英尺内，所有某类生物（不死生物或活物）造成影响。伤害量或治疗量为{g|Encyclopedia:Dice}1d6{/g}点，先驱在1级之后，每提升2级，再增加1d6点（3级时2d6、5级时3d6，以此类推）。受到引导能量伤害的生物可以进行意志{g|Encyclopedia:Saving_Throw}豁免检定{/g}，成功则伤害减半。意志豁免的{g|Encyclopedia:DC}DC{/g}为10+1/2先驱等级+先驱{g|Encyclopedia:Charisma}魅力{/g}调整值。引导能量的治疗量不能超过生物的最大生命值，过量治疗全部无效。先驱可以花费2点虔诚之触来使用此技能。先驱每天可引导能量的次数等于魅力调整值+3。引导能量为{g|Encyclopedia:Standard_Actions}标准动作{/g}，不会引发{g|Encyclopedia:Attack_Of_Opportunity}借机攻击{/g}。先驱可以选择自身是否受此效果影响。"
         },
 		{
             "Key": "HomebrewArchtypes_HeraldClassMinorApotheosisChannelEnergyNegativeDesc",
-            "zhCN": "选择暴怒信条的先锋可以引导负向能量，可以选择对活物造成{g|Encyclopedia:Damage}伤害{/g}，也可以选择对{g|Encyclopedia:Healing}治疗{/g}不死生物。\n引导负向能量的爆发效果对先锋周围30英尺内，所有某类生物（不死生物或活物）造成影响。伤害量或治疗量为{g|Encyclopedia:Dice}1d6{/g}点，先锋在1级之后，每提升2级，再增加1d6点（3级时2d6、5级时3d6，以此类推）。受到引导能量伤害的生物可以进行意志{g|Encyclopedia:Saving_Throw}豁免检定{/g}，成功则伤害减半。意志豁免的{g|Encyclopedia:DC}DC{/g}为10+1/2先锋等级+先锋{g|Encyclopedia:Charisma}魅力{/g}调整值。引导能量的治疗量不能超过生物的最大生命值，过量治疗全部无效。先锋可以花费2点虔诚之触来使用此技能。先锋每天可引导能量的次数等于魅力调整值+3。引导能量为{g|Encyclopedia:Standard_Actions}标准动作{/g}，不会引发{g|Encyclopedia:Attack_Of_Opportunity}借机攻击{/g}。先锋可以选择自身是否受此效果影响。"
+            "zhCN": "选择暴怒信条的先驱可以引导负向能量，可以选择对活物造成{g|Encyclopedia:Damage}伤害{/g}，也可以选择对{g|Encyclopedia:Healing}治疗{/g}不死生物。\n引导负向能量的爆发效果对先驱周围30英尺内，所有某类生物（不死生物或活物）造成影响。伤害量或治疗量为{g|Encyclopedia:Dice}1d6{/g}点，先驱在1级之后，每提升2级，再增加1d6点（3级时2d6、5级时3d6，以此类推）。受到引导能量伤害的生物可以进行意志{g|Encyclopedia:Saving_Throw}豁免检定{/g}，成功则伤害减半。意志豁免的{g|Encyclopedia:DC}DC{/g}为10+1/2先驱等级+先驱{g|Encyclopedia:Charisma}魅力{/g}调整值。引导能量的治疗量不能超过生物的最大生命值，过量治疗全部无效。先驱可以花费2点虔诚之触来使用此技能。先驱每天可引导能量的次数等于魅力调整值+3。引导能量为{g|Encyclopedia:Standard_Actions}标准动作{/g}，不会引发{g|Encyclopedia:Attack_Of_Opportunity}借机攻击{/g}。先驱可以选择自身是否受此效果影响。"
         },
 		{
             "Key": "HomebrewArchtypes_HeraldClassMinorApotheosisLifeLink", 
@@ -3554,7 +3554,7 @@
         },
 		{
             "Key": "HomebrewArchtypes_HeraldClassMinorApotheosisWeaponofWrathFlamingDesc", 
-            "zhCN": "先锋可使用暴怒武器向武器添加炽焰属性，但会占用赋予武器的1点增强{g|Encyclopedia:Bonus}加值{/g}。\n炽焰武器覆盖有高温火焰，成功命中后会造成{g|Encyclopedia:Dice}1d6{/g}点额外{g|Encyclopedia:Energy_Damage}火焰伤害{/g}。火焰不会伤害持用者。"
+            "zhCN": "先驱可使用暴怒武器向武器添加炽焰属性，但会占用赋予武器的1点增强{g|Encyclopedia:Bonus}加值{/g}。\n炽焰武器覆盖有高温火焰，成功命中后会造成{g|Encyclopedia:Dice}1d6{/g}点额外{g|Encyclopedia:Energy_Damage}火焰伤害{/g}。火焰不会伤害持用者。"
         },
 		{
             "Key": "HomebrewArchtypes_HeraldClassMinorApotheosisWeaponofWrathKeen", 
@@ -3562,7 +3562,7 @@
         },
 		{
             "Key": "HomebrewArchtypes_HeraldClassMinorApotheosisWeaponofWrathKeenDesc", 
-            "zhCN": "先锋可使用暴怒武器向武器添加锐锋属性，但会占用赋予武器的1点增强{g|Encyclopedia:Bonus}加值{/g}。\n锐锋属性能够使得武器的{g|Encyclopedia:Critical}重击{/g}威胁范围翻倍。该效果不与其他可增加武器重击威胁范围的效果叠加（例如磨锋砺刃{g|Encyclopedia:Spell}法术{/g}或精通重击{g|Encyclopedia:Feat}专长{/g}）。"
+            "zhCN": "先驱可使用暴怒武器向武器添加锐锋属性，但会占用赋予武器的1点增强{g|Encyclopedia:Bonus}加值{/g}。\n锐锋属性能够使得武器的{g|Encyclopedia:Critical}重击{/g}威胁范围翻倍。该效果不与其他可增加武器重击威胁范围的效果叠加（例如磨锋砺刃{g|Encyclopedia:Spell}法术{/g}或精通重击{g|Encyclopedia:Feat}专长{/g}）。"
         },
 		{
             "Key": "HomebrewArchtypes_HeraldClassMinorApotheosisWeaponofWrathAxiomatic", 
@@ -3570,7 +3570,7 @@
         },
 		{
             "Key": "HomebrewArchtypes_HeraldClassMinorApotheosisWeaponofWrathAxiomaticDesc", 
-            "zhCN": "先锋可使用暴怒武器向武器添加公正属性，但会占用赋予武器的2点增强{g|Encyclopedia:Bonus}加值{/g}。\n公正武器灌有守序之力。该力量使得该武器成为守序{g|Encyclopedia:Alignment}阵营{/g}武器，因此可穿透相关的{g|Encyclopedia:Damage_Reduction}伤害减免{/g}。在击中混乱阵营生物时，额外造成{g|Encyclopedia:Dice}2d6{/g}点{g|Encyclopedia:Damage}伤害{/g}。"
+            "zhCN": "先驱可使用暴怒武器向武器添加公正属性，但会占用赋予武器的2点增强{g|Encyclopedia:Bonus}加值{/g}。\n公正武器灌有守序之力。该力量使得该武器成为守序{g|Encyclopedia:Alignment}阵营{/g}武器，因此可穿透相关的{g|Encyclopedia:Damage_Reduction}伤害减免{/g}。在击中混乱阵营生物时，额外造成{g|Encyclopedia:Dice}2d6{/g}点{g|Encyclopedia:Damage}伤害{/g}。"
         },
 		{
             "Key": "HomebrewArchtypes_HeraldClassMinorApotheosisWeaponofWrathHoly", 
@@ -3578,7 +3578,7 @@
         },
 		{
             "Key": "HomebrewArchtypes_HeraldClassMinorApotheosisWeaponofWrathHolyDesc", 
-            "zhCN": "先锋可使用暴怒武器向武器添加神圣属性，但会占用赋予武器的2点增强{g|Encyclopedia:Bonus}加值{/g}。\n神圣武器灌有神圣之力。该力量使得该武器成为善良{g|Encyclopedia:Alignment}阵营{/g}武器，因此可穿透相关的{g|Encyclopedia:Damage_Reduction}伤害减免{/g}。在击中邪恶阵营生物时，额外造成{g|Encyclopedia:Dice}2d6{/g}点{g|Encyclopedia:Damage}伤害{/g}。"
+            "zhCN": "先驱可使用暴怒武器向武器添加神圣属性，但会占用赋予武器的2点增强{g|Encyclopedia:Bonus}加值{/g}。\n神圣武器灌有神圣之力。该力量使得该武器成为善良{g|Encyclopedia:Alignment}阵营{/g}武器，因此可穿透相关的{g|Encyclopedia:Damage_Reduction}伤害减免{/g}。在击中邪恶阵营生物时，额外造成{g|Encyclopedia:Dice}2d6{/g}点{g|Encyclopedia:Damage}伤害{/g}。"
         },
 		{
             "Key": "HomebrewArchtypes_HeraldClassMinorApotheosisWeaponofWrathDisruption", 
@@ -3586,7 +3586,7 @@
         },
 		{
             "Key": "HomebrewArchtypes_HeraldClassMinorApotheosisWeaponofWrathDisruptionDesc", 
-            "zhCN": "先锋可使用暴怒武器向武器添加瓦解属性，但会占用赋予武器的2点增强{g|Encyclopedia:Bonus}加值{/g}。\n瓦解武器是所有不死生物的克星。所有被瓦解武器击中的不死生物都必须进行{g|Encyclopedia:DC}DC{/g} 14的意志{g|Encyclopedia:Saving_Throw}豁免检定{/g}，失败则立刻被摧毁。添加瓦解属性的武器必须为{g|Encyclopedia:Damage_Type}钝击{/g}近战武器。"
+            "zhCN": "先驱可使用暴怒武器向武器添加瓦解属性，但会占用赋予武器的2点增强{g|Encyclopedia:Bonus}加值{/g}。\n瓦解武器是所有不死生物的克星。所有被瓦解武器击中的不死生物都必须进行{g|Encyclopedia:DC}DC{/g} 14的意志{g|Encyclopedia:Saving_Throw}豁免检定{/g}，失败则立刻被摧毁。添加瓦解属性的武器必须为{g|Encyclopedia:Damage_Type}钝击{/g}近战武器。"
         },
 		{
             "Key": "HomebrewArchtypes_HeraldClassMinorApotheosisWeaponofWrathFlamingBurst", 
@@ -3594,7 +3594,7 @@
         },
 		{
             "Key": "HomebrewArchtypes_HeraldClassMinorApotheosisWeaponofWrathFlamingBurstDesc", 
-            "zhCN": "先锋可使用暴怒武器向武器添加焰爆属性，但会占用赋予武器的2点增强{g|Encyclopedia:Bonus}加值{/g}。\n焰爆武器的作用如同炽焰武器，不过在成功进行{g|Encyclopedia:Critical}重击{/g}时还会爆出一阵烈焰。火焰不会伤害持用者。除了炽焰武器给予的{g|Encyclopedia:Dice}1d6{/g}点额外{g|Encyclopedia:Energy_Damage}火焰伤害{/g}之外，焰爆武器在成功重击时还会额外造成1d10点火焰{g|Encyclopedia:Damage}伤害{/g}。若武器重击倍数为×3，则改为额外造成2d10点火焰伤害。若重击倍数为×4，则改为额外造成3d10点火焰伤害。"
+            "zhCN": "先驱可使用暴怒武器向武器添加焰爆属性，但会占用赋予武器的2点增强{g|Encyclopedia:Bonus}加值{/g}。\n焰爆武器的作用如同炽焰武器，不过在成功进行{g|Encyclopedia:Critical}重击{/g}时还会爆出一阵烈焰。火焰不会伤害持用者。除了炽焰武器给予的{g|Encyclopedia:Dice}1d6{/g}点额外{g|Encyclopedia:Energy_Damage}火焰伤害{/g}之外，焰爆武器在成功重击时还会额外造成1d10点火焰{g|Encyclopedia:Damage}伤害{/g}。若武器重击倍数为×3，则改为额外造成2d10点火焰伤害。若重击倍数为×4，则改为额外造成3d10点火焰伤害。"
         },
 		{
             "Key": "HomebrewArchtypes_HeraldClassMinorApotheosisWeaponofWrathSpeed", 
@@ -3602,7 +3602,7 @@
         },
 		{
             "Key": "HomebrewArchtypes_HeraldClassMinorApotheosisWeaponofWrathSpeedDesc", 
-            "zhCN": "先锋可使用暴怒武器向武器添加追击属性，但会占用赋予武器的3点增强{g|Encyclopedia:Bonus}加值{/g}。{g|Encyclopedia:Speed}{/g}\n持用追击武器的圣武士进行整轮{g|Encyclopedia:Attack}攻击{/g}时，可进行1次额外攻击。该额外攻击使用持用者的最高{g|Encyclopedia:BAB}基础攻击加值{/g}，并附加适用于该状况的调整值。（该效果不与类似效果叠加，例如加速术。）{g|Encyclopedia:Spell}{/g}"
+            "zhCN": "先驱可使用暴怒武器向武器添加追击属性，但会占用赋予武器的3点增强{g|Encyclopedia:Bonus}加值{/g}。{g|Encyclopedia:Speed}{/g}\n持用追击武器的圣武士进行整轮{g|Encyclopedia:Attack}攻击{/g}时，可进行1次额外攻击。该额外攻击使用持用者的最高{g|Encyclopedia:BAB}基础攻击加值{/g}，并附加适用于该状况的调整值。（该效果不与类似效果叠加，例如加速术。）{g|Encyclopedia:Spell}{/g}"
         },
 		{
             "Key": "HomebrewArchtypes_HeraldClassMinorApotheosisWeaponofWrathBrilliantEnergy", 
@@ -3610,7 +3610,7 @@
         },
 		{
             "Key": "HomebrewArchtypes_HeraldClassMinorApotheosisWeaponofWrathBrilliantEnergyDesc", 
-            "zhCN": "先锋可使用暴怒武器向武器添加光能属性，但会占用赋予武器的4点增强{g|Encyclopedia:Bonus}加值{/g}。\n光能武器能够无视无生命物质。因武器能够直接穿过防具，所以盔甲和盾牌对于{g|Encyclopedia:Armor_Class}防御等级{/g}的加值（包括防具的强化加值）无效。（{g|Encyclopedia:Dexterity}敏捷{/g}、偏斜、闪避、天生防御和其他类似加值依旧生效。）光能武器无法对不死生物、构装体或物品造成伤害"
+            "zhCN": "先驱可使用暴怒武器向武器添加光能属性，但会占用赋予武器的4点增强{g|Encyclopedia:Bonus}加值{/g}。\n光能武器能够无视无生命物质。因武器能够直接穿过防具，所以盔甲和盾牌对于{g|Encyclopedia:Armor_Class}防御等级{/g}的加值（包括防具的强化加值）无效。（{g|Encyclopedia:Dexterity}敏捷{/g}、偏斜、闪避、天生防御和其他类似加值依旧生效。）光能武器无法对不死生物、构装体或物品造成伤害"
         },
 		{
             "Key": "HomebrewArchtypes_HeraldClassMinorApotheosisWeaponofWrathIcyBurst", 
@@ -3622,11 +3622,11 @@
         },
 		{
             "Key": "HomebrewArchtypes_HeraldClassMinorApotheosisWeaponofWrathIcyBurstDesc", 
-            "zhCN": "先锋可使用暴怒武器向武器添加霜爆属性，但会占用赋予武器的2点增强{g|Encyclopedia:Bonus}加值{/g}。\n霜爆武器的效果如同寒霜武器，不过它还会在成功造成{g|Encyclopedia:Critical}重击{/g}时爆发出冰霜。该冰霜不会{g|Encyclopedia:Damage}伤害{/g}武器持用者。除了寒霜能力造成的额外{g|Encyclopedia:Energy_Damage}寒冷伤害{/g}之外，霜爆武器在成功重击时，可额外造成{g|Encyclopedia:Dice}1d10{/g}点寒冷伤害。若该武器的重击倍数为×3，则改为额外造成2d10点寒冷伤害；若重击倍数为×4，改为额外造成3d10点寒冷伤害。"
+            "zhCN": "先驱可使用暴怒武器向武器添加霜爆属性，但会占用赋予武器的2点增强{g|Encyclopedia:Bonus}加值{/g}。\n霜爆武器的效果如同寒霜武器，不过它还会在成功造成{g|Encyclopedia:Critical}重击{/g}时爆发出冰霜。该冰霜不会{g|Encyclopedia:Damage}伤害{/g}武器持用者。除了寒霜能力造成的额外{g|Encyclopedia:Energy_Damage}寒冷伤害{/g}之外，霜爆武器在成功重击时，可额外造成{g|Encyclopedia:Dice}1d10{/g}点寒冷伤害。若该武器的重击倍数为×3，则改为额外造成2d10点寒冷伤害；若重击倍数为×4，改为额外造成3d10点寒冷伤害。"
         },
 		{
             "Key": "HomebrewArchtypes_HeraldClassMinorApotheosisWeaponofWrathFrostDesc", 
-            "zhCN": "先锋可使用暴怒武器向武器添加寒霜属性，但会占用赋予武器的1点增强{g|Encyclopedia:Bonus}加值{/g}。\n寒霜武器覆盖有寒冷冰霜，成功命中后会造成{g|Encyclopedia:Dice}1d6{/g}点额外{g|Encyclopedia:Energy_Damage}寒冷伤害{/g}。寒冷不会伤害持用者。"
+            "zhCN": "先驱可使用暴怒武器向武器添加寒霜属性，但会占用赋予武器的1点增强{g|Encyclopedia:Bonus}加值{/g}。\n寒霜武器覆盖有寒冷冰霜，成功命中后会造成{g|Encyclopedia:Dice}1d6{/g}点额外{g|Encyclopedia:Energy_Damage}寒冷伤害{/g}。寒冷不会伤害持用者。"
         },
 		{
             "Key": "HomebrewArchtypes_HeraldClassMinorApotheosisWeaponofWrathFrost", 
@@ -3646,7 +3646,7 @@
         },
 		{
             "Key": "HomebrewArchtypes_HeraldClassMinorApotheosisWeaponofWrathShockDesc", 
-            "zhCN": "先锋可使用暴怒武器添加震电属性，但会占用赋予武器的1点增强{g|Encyclopedia:Bonus}加值{/g}。\n震电武器覆盖有强力电击，成功命中后会造成{g|Encyclopedia:Dice}1d6{/g}点额外{g|Encyclopedia:Energy_Damage}电击伤害{/g}。电击不会伤害持用者。"
+            "zhCN": "先驱可使用暴怒武器添加震电属性，但会占用赋予武器的1点增强{g|Encyclopedia:Bonus}加值{/g}。\n震电武器覆盖有强力电击，成功命中后会造成{g|Encyclopedia:Dice}1d6{/g}点额外{g|Encyclopedia:Energy_Damage}电击伤害{/g}。电击不会伤害持用者。"
         },
 		{
             "Key": "HomebrewArchtypes_HeraldClassMinorApotheosisWeaponofWrathShockingBurst", 
@@ -3658,7 +3658,7 @@
         },
 		{
             "Key": "HomebrewArchtypes_HeraldClassMinorApotheosisWeaponofWrathShockingBurstDesc", 
-            "zhCN": "先锋可使用暴怒武器向武器添加电爆属性，但会占用赋予武器的2点增强{g|Encyclopedia:Bonus}加值{/g}。\n电爆武器的效果如同震电武器，不过它还会在成功造成{g|Encyclopedia:Critical}重击{/g}时爆发出电击。电击不会{g|Encyclopedia:Damage}伤害{/g}武器持用者。除了震电能力造成的额外{g|Encyclopedia:Energy_Damage}电击伤害{/g}之外，电爆武器在成功重击时，可额外造成{g|Encyclopedia:Dice}1d10{/g}点电击伤害。若该武器的重击倍数为×3，则改为额外造成2d10点电击伤害；若重击倍数为×4，改为额外造成3d10点伤害。"
+            "zhCN": "先驱可使用暴怒武器向武器添加电爆属性，但会占用赋予武器的2点增强{g|Encyclopedia:Bonus}加值{/g}。\n电爆武器的效果如同震电武器，不过它还会在成功造成{g|Encyclopedia:Critical}重击{/g}时爆发出电击。电击不会{g|Encyclopedia:Damage}伤害{/g}武器持用者。除了震电能力造成的额外{g|Encyclopedia:Energy_Damage}电击伤害{/g}之外，电爆武器在成功重击时，可额外造成{g|Encyclopedia:Dice}1d10{/g}点电击伤害。若该武器的重击倍数为×3，则改为额外造成2d10点电击伤害；若重击倍数为×4，改为额外造成3d10点伤害。"
         },
 		{
             "Key": "HomebrewArchtypes_HeraldClassMinorApotheosisWeaponofWrathUnholy", 
@@ -3666,7 +3666,7 @@
         },
 		{
             "Key": "HomebrewArchtypes_HeraldClassMinorApotheosisWeaponofWrathUnholyDesc", 
-            "zhCN": "先锋可使用暴怒武器向武器添加污邪属性，但会占用2点增强{g|Encyclopedia:Bonus}加值{/g}。\n污邪武器灌有亵渎之力。该力量使得该武器成为邪恶{g|Encyclopedia:Alignment}阵营{/g}武器，因此可穿透相关的{g|Encyclopedia:Damage_Reduction}伤害减免{/g}。在击中善良阵营生物时，额外造成{g|Encyclopedia:Dice}2d6{/g}点{g|Encyclopedia:Damage}伤害{/g}。"
+            "zhCN": "先驱可使用暴怒武器向武器添加污邪属性，但会占用2点增强{g|Encyclopedia:Bonus}加值{/g}。\n污邪武器灌有亵渎之力。该力量使得该武器成为邪恶{g|Encyclopedia:Alignment}阵营{/g}武器，因此可穿透相关的{g|Encyclopedia:Damage_Reduction}伤害减免{/g}。在击中善良阵营生物时，额外造成{g|Encyclopedia:Dice}2d6{/g}点{g|Encyclopedia:Damage}伤害{/g}。"
         },
 		{
             "Key": "HomebrewArchtypes_HeraldClassMinorApotheosisWeaponofWrathAnarchic", 
@@ -3674,11 +3674,11 @@
         },
 		{
             "Key": "HomebrewArchtypes_HeraldClassMinorApotheosisWeaponofWrathAnarchicDesc", 
-            "zhCN": "先锋可使用暴怒武器向武器添加无序属性，但会占用赋予武器的2点增强{g|Encyclopedia:Bonus}加值{/g}。\n无序武器灌有混乱之力。该力量使得该武器成为混乱{g|Encyclopedia:Alignment}阵营{/g}武器，因此可穿透相关的{g|Encyclopedia:Damage_Reduction}伤害减免{/g}。在击中守序阵营生物时，额外造成{g|Encyclopedia:Dice}2d6{/g}点{g|Encyclopedia:Damage}伤害{/g}。"
+            "zhCN": "先驱可使用暴怒武器向武器添加无序属性，但会占用赋予武器的2点增强{g|Encyclopedia:Bonus}加值{/g}。\n无序武器灌有混乱之力。该力量使得该武器成为混乱{g|Encyclopedia:Alignment}阵营{/g}武器，因此可穿透相关的{g|Encyclopedia:Damage_Reduction}伤害减免{/g}。在击中守序阵营生物时，额外造成{g|Encyclopedia:Dice}2d6{/g}点{g|Encyclopedia:Damage}伤害{/g}。"
         },
 		{
             "Key": "HomebrewArchtypes_HeraldClassMinorApotheosisWeaponofWrathDesc", 
-            "zhCN": "先锋可以使用他们的虔诚之触来为他们的武器注入神圣的力量。以一个迅捷动作授予武器+1增强加值，持续1分钟。1级后每升4级，武器获得的增强加值+1，在17级时达到最大值+5。该加值可与武器已经存在的加值叠加，最高可达到+5。多次使用此能力不会叠加。\n在6级时，先锋还可以为武器添加以下属性:炽焰，焰爆，寒霜，霜爆，锐锋，震电，电爆，追击，光能。\n此外，暴怒信条先锋可以根据他们的阵营获得额外的武器属性：\n守序阵营可以获得公正武器\n混乱阵营可以获得无序武器\n善良阵营可以获得神圣武器\n邪恶阵营可以获得污邪武器\n添加这些属性将占用相应的增强加值。这些属性与武器原本的属性共存，但是重复属性不会叠加 。如果是非魔法武器，在添加其他的属性之前必须获得至少+1的增强加值。\n该能力授予的加成和属性在使用时被确定，再次使用之前无法改变。如果武器不由先锋持有则添加的属性无效，但是在武器归还给先锋以后效果会恢复。 对于双头武器，该效果只作用于其中一头。\n该技能被视为圣武士的武器神圣盟誓，使用所有相关物品、能力和效果。"
+            "zhCN": "先驱可以使用他们的虔诚之触来为他们的武器注入神圣的力量。以一个迅捷动作授予武器+1增强加值，持续1分钟。1级后每升4级，武器获得的增强加值+1，在17级时达到最大值+5。该加值可与武器已经存在的加值叠加，最高可达到+5。多次使用此能力不会叠加。\n在6级时，先驱还可以为武器添加以下属性:炽焰，焰爆，寒霜，霜爆，锐锋，震电，电爆，追击，光能。\n此外，暴怒信条先驱可以根据他们的阵营获得额外的武器属性：\n守序阵营可以获得公正武器\n混乱阵营可以获得无序武器\n善良阵营可以获得神圣武器\n邪恶阵营可以获得污邪武器\n添加这些属性将占用相应的增强加值。这些属性与武器原本的属性共存，但是重复属性不会叠加 。如果是非魔法武器，在添加其他的属性之前必须获得至少+1的增强加值。\n该能力授予的加成和属性在使用时被确定，再次使用之前无法改变。如果武器不由先驱持有则添加的属性无效，但是在武器归还给先驱以后效果会恢复。 对于双头武器，该效果只作用于其中一头。\n该技能被视为圣武士的武器神圣盟誓，使用所有相关物品、能力和效果。"
         },
 		{
             "Key": "HomebrewArchtypes_HeraldClassMinorApotheosisAuraofEnfeeblement", 
@@ -3686,7 +3686,7 @@
         },
 		{
             "Key": "HomebrewArchtypes_HeraldClassMinorApotheosisAuraofEnfeeblementDesc", 
-            "zhCN": "在先驱20英尺内的敌人的豁免承受-1减值，该减值每5个先锋等级额外加1，直到20级时达到上限-4。"
+            "zhCN": "在先驱20英尺内的敌人的豁免承受-1减值，该减值每5个先驱等级额外加1，直到16级时达到上限-4。"
         },
 		{
             "Key": "HomebrewArchtypes_HeraldClassMinorApotheosisAblativeArcana", 
@@ -3694,7 +3694,7 @@
         },
 		{
             "Key": "HomebrewArchtypes_HeraldClassMinorApotheosisAblativeArcanaDesc", 
-            "zhCN": "当先锋对一个从他的神之音中受益的盟友施放法术时，该盟友会获得等于你的先锋等级+先锋魅力调整值的临时生命值。这个临时生命值不会与自身叠加，持续1分钟。"
+            "zhCN": "当先驱对一个从他的神之音中受益的盟友施放法术时，该盟友会获得等于你的先驱等级+先驱魅力调整值的临时生命值。这个临时生命值不会与自身叠加，持续1分钟。"
         },
 		{
             "Key": "HomebrewArchtypes_HeraldClassMinorApotheosisRadiantHealer", 
@@ -3726,7 +3726,7 @@
         },
 		{
             "Key": "HomebrewArchtypes_HeraldClassTouchoftheFaithfulDesc", 
-            "zhCN": "在 2 级时，先锋可以通过指尖引导神祇的力量，每天使用次数相当于他们的先锋等级的一半加上魅力调整值。 使用此能力是一个不会引发借机攻击的近战接触攻击。 如果攻击命中，虔诚之触造成1d6点伤害，并在 2 级之后每4级先锋等级额外造成1d6点伤害。生物无法通过豁免对抗虔诚之触。\n对那些服务于善良神祇的人来说该技能造成神圣伤害，反之则造成污邪伤害。 如果你信仰中立阵营的神祇，你可以任选其一。选择以后就不能改变。\n此外，先锋的虔诚之触受到他们选择的信条影响，赋予它更强的崭新用途以满足他们对正义的追求。"
+            "zhCN": "在 2 级时，先驱可以通过指尖引导神祇的力量，每天使用次数相当于他们的先驱等级的一半加上魅力调整值。 使用此能力是一个不会引发借机攻击的近战接触攻击。 如果攻击命中，虔诚之触造成1d6点伤害，并在 2 级之后每4级先驱等级额外造成1d6点伤害。生物无法通过豁免对抗虔诚之触。\n对那些服务于善良神祇的人来说该技能造成神圣伤害，反之则造成污邪伤害。 如果你信仰中立阵营的神祇，你可以任选其一。选择以后就不能改变。\n此外，先驱的虔诚之触受到他们选择的信条影响，赋予它更强的崭新用途以满足他们对正义的追求。"
         },
 		{
             "Key": "HomebrewArchtypes_HeraldClassTouchoftheFaithfulMercy", 
@@ -3734,7 +3734,7 @@
         },
 		{
             "Key": "HomebrewArchtypes_HeraldClassTouchoftheFaithfulMercyDesc", 
-            "zhCN": "仁慈先锋通过引导正能量获得帮助病人和治愈严重创伤的能力。 先锋可以使用他们的虔诚之触技能治疗一个生物，相当于圣武士的圣疗。 这个能力和圣武士的职业特性完全一样，你被视为一个与你的先锋等级相等的圣武士，用以计算治疗效果。仁慈之触在满足先决条件的情况下，可以适用于影响圣疗的任何专长、技能或效果，有效圣武士等级等于你的先锋等级。\n圣疗：2级起，圣武士可以通过{g|Encyclopedia:TouchAttack}接触{/g}{g|Encyclopedia:Healing}治疗{/g}伤口（自己或他人）。每天可施展此能力的次数等于1/2圣武士等级+{g|Encyclopedia:Charisma}魅力{/g}调整值。圣武士可以使用此能力治疗{g|Encyclopedia:Dice}1d6{/g} x 1/2圣武士等级{g|Encyclopedia:Damage}伤害{/g}。正常情况下施展此能力为{g|Encyclopedia:Standard_Actions}标准动作{/g}，当目标为圣洁誓言目标时，变为{g|Encyclopedia:Swift_Action}迅捷动作{/g}。圣武士需要空出一只手，才能施展此能力。{g|Encyclopedia:HP}{/g}\n另外，圣武士也可使用该治疗力量对不死生物造成伤害，伤害量为1d6x1/2圣武士等级。以这种方式施放圣疗需要成功进行近战{g|Encyclopedia:Attack}攻击检定{/g}，且不会引发{g|Encyclopedia:Attack_Of_Opportunity}借机攻击{/g}。不死生物无法对此能力的伤害进行{g|Encyclopedia:Saving_Throw}豁免检定{/g}。"
+            "zhCN": "仁慈先驱通过引导正能量获得帮助病人和治愈严重创伤的能力。 先驱可以使用他们的虔诚之触技能治疗一个生物，相当于圣武士的圣疗。 这个能力和圣武士的职业特性完全一样，你被视为一个与你的先驱等级相等的圣武士，用以计算治疗效果。仁慈之触在满足先决条件的情况下，可以适用于影响圣疗的任何专长、技能或效果，有效圣武士等级等于你的先驱等级。\n圣疗：2级起，圣武士可以通过{g|Encyclopedia:TouchAttack}接触{/g}{g|Encyclopedia:Healing}治疗{/g}伤口（自己或他人）。每天可施展此能力的次数等于1/2圣武士等级+{g|Encyclopedia:Charisma}魅力{/g}调整值。圣武士可以使用此能力治疗{g|Encyclopedia:Dice}1d6{/g} x 1/2圣武士等级{g|Encyclopedia:Damage}伤害{/g}。正常情况下施展此能力为{g|Encyclopedia:Standard_Actions}标准动作{/g}，当目标为圣洁誓言目标时，变为{g|Encyclopedia:Swift_Action}迅捷动作{/g}。圣武士需要空出一只手，才能施展此能力。{g|Encyclopedia:HP}{/g}\n另外，圣武士也可使用该治疗力量对不死生物造成伤害，伤害量为1d6x1/2圣武士等级。以这种方式施放圣疗需要成功进行近战{g|Encyclopedia:Attack}攻击检定{/g}，且不会引发{g|Encyclopedia:Attack_Of_Opportunity}借机攻击{/g}。不死生物无法对此能力的伤害进行{g|Encyclopedia:Saving_Throw}豁免检定{/g}。"
         },
 		{
             "Key": "HomebrewArchtypes_HeraldClassMinorApotheosisMercy", 
@@ -3742,7 +3742,7 @@
         },
 		{
             "Key": "HomebrewArchtypes_HeraldClassMinorApotheosisMercyDesc", 
-            "zhCN": "先锋获得圣武士的救赎。功能与圣武士的救赎能力完全相同，除了先锋需要通过仁慈之触来使用这个能力。你依然必须满足先决条件才能选择救赎。当你用仁慈之触治疗某人时，你可以使用你目前拥有的所有救赎。计算DC和等级需求时，使用先锋等级作为圣武士等级。"
+            "zhCN": "先驱获得圣武士的救赎。功能与圣武士的救赎能力完全相同，除了先驱需要通过仁慈之触来使用这个能力。你依然必须满足先决条件才能选择救赎。当你用仁慈之触治疗某人时，你可以使用你目前拥有的所有救赎。计算DC和等级需求时，使用先驱等级作为圣武士等级。"
         },
 		{
             "Key": "HomebrewArchtypes_HeraldClassTouchoftheFaithfulWrath", 
@@ -3750,7 +3750,7 @@
         },
 		{
             "Key": "HomebrewArchtypes_HeraldClassTouchoftheFaithfulWrathDesc", 
-            "zhCN": "暴怒先锋学会了如何给他们的敌人带来痛苦。 暴怒先锋可以通过虔诚之触使用负能量来攻击敌人。改能力相当于反圣武士的堕落之触，使用先锋等级作为反圣武士等级来计算伤害。暴怒之触在满足先决条件的情况下，可以适用于影响堕落之触的任何专长、技能或效果，有效反圣武士等级等于你的先锋等级。"
+            "zhCN": "暴怒先驱学会了如何给他们的敌人带来痛苦。 暴怒先驱可以通过虔诚之触使用负能量来攻击敌人。改能力相当于反圣武士的堕落之触，使用先驱等级作为反圣武士等级来计算伤害。暴怒之触在满足先决条件的情况下，可以适用于影响堕落之触的任何专长、技能或效果，有效反圣武士等级等于你的先驱等级。"
         },
 		{
             "Key": "HomebrewArchtypes_HeraldClassMinorApotheosisCrueltySelection", 
@@ -3758,7 +3758,7 @@
         },
 		{
             "Key": "HomebrewArchtypes_HeraldClassMinorApotheosisCrueltySelectionDesc", 
-            "zhCN": "先锋获得反圣武士的暴行。功能与反圣武士的暴行能力完全相同，除了先锋需要通过暴怒之触来使用这个能力。你依然必须满足先决条件才能选择暴行。计算DC和等级需求时，使用先锋等级作为反圣武士等级。你可以多次选择此圣化。每一次你必须选择不同的暴行。"
+            "zhCN": "先驱获得反圣武士的暴行。功能与反圣武士的暴行能力完全相同，除了先驱需要通过暴怒之触来使用这个能力。你依然必须满足先决条件才能选择暴行。计算DC和等级需求时，使用先驱等级作为反圣武士等级。你可以多次选择此圣化。每一次你必须选择不同的暴行。"
         },
 		{
             "Key": "HomebrewArchtypes_HeraldClassMinorApotheosisCruelty", 
@@ -3766,7 +3766,7 @@
         },
 		{
             "Key": "HomebrewArchtypes_HeraldClassMinorApotheosisCrueltyDesc", 
-            "zhCN": "先锋获得反圣武士的暴行。功能与反圣武士的暴行能力完全相同，除了先锋需要通过暴怒之触来使用这个能力。你依然必须满足先决条件才能选择暴行。计算DC和等级需求时，使用先锋等级作为反圣武士等级。你可以多次选择此圣化。每一次你必须选择不同的暴行。"
+            "zhCN": "先驱获得反圣武士的暴行。功能与反圣武士的暴行能力完全相同，除了先驱需要通过暴怒之触来使用这个能力。你依然必须满足先决条件才能选择暴行。计算DC和等级需求时，使用先驱等级作为反圣武士等级。你可以多次选择此圣化。每一次你必须选择不同的暴行。"
         },
 		{
             "Key": "HomebrewArchtypes_HeraldClassMinorApotheosisCrueltyFatigued", 
@@ -3982,7 +3982,7 @@
         },
 		{
             "Key": "HomebrewArchtypes_HeraldClassTouchoftheFaithfulSwiftDesc", 
-            "zhCN": "强大的信仰带来神话般的力量。拥有这种能力的先锋可以通过迅捷动作来使用虔诚之触能力。"
+            "zhCN": "强大的信仰带来神话般的力量。拥有这种能力的先驱可以通过迅捷动作来使用虔诚之触能力。"
         },
 		{
             "Key": "HomebrewArchtypes_HeraldClassFeatureMinorApotheosis", 
@@ -3990,7 +3990,7 @@
         },
 		{
             "Key": "HomebrewArchtypes_HeraldClassFeatureMinorApotheosisDesc", 
-            "zhCN": "每隔一段时间，先锋就会获得额外的能力作为一个圣化。"
+            "zhCN": "每隔一段时间，先驱就会获得额外的能力作为一个圣化。"
         },
 		{
             "Key": "HomebrewArchtypes_HeraldClassFeatureSermon", 
@@ -3998,7 +3998,7 @@
         },
 		{
             "Key": "HomebrewArchtypes_HeraldClassFeatureSermonDesc", 
-            "zhCN": "神之音通常有助于增强盟友的力量，但也可以控制或削弱敌人。这个能力的生效范围很广。随着先锋的进步，他们可以学习新的具有不同效果的神之音。"
+            "zhCN": "神之音通常有助于增强盟友的力量，但也可以控制或削弱敌人。这个能力的生效范围很广。随着先驱的进步，他们可以学习新的具有不同效果的神之音。"
         },
 		{
             "Key": "HomebrewArchtypes_HeraldClassFeatureTouchoftheFaithful", 
@@ -4006,6 +4006,6 @@
         },
 		{
             "Key": "HomebrewArchtypes_HeraldClassFeatureTouchoftheFaithfulDesc", 
-            "zhCN": "虔诚之触可以用于治疗或伤害。这种能力可以被先锋所遵循的信条和服侍的神祇影响。"
+            "zhCN": "虔诚之触可以用于治疗或伤害。这种能力可以被先驱所遵循的信条和服侍的神祇影响。"
         }
 ]
