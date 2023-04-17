@@ -1,0 +1,29 @@
+---------------------------------------------------------
+2023/4/17 补充了汉化文本说明
+汉化文件如无特别说明，均适应于最新版本MOD
+每次更新建议完全删除之前的汉化文件，再覆盖
+
+QL详细使用说明请参阅https://github.com/nixgnot/WOTR-CONTENTS-MODS-CN/blob/main/QL%E4%BD%BF%E7%94%A8%E8%AF%B4%E6%98%8E.md
+
+汉化文本目前包含：
+ --Localization
+       ---AddedFeats
+       ---AlternateHumanTraits
+       ---BetterBackgrounds
+       ---BrawlerClassWrath
+       ---BrokenFeatures
+       ---BubbleTweaks
+       ---HomebrewArchetypes(自带汉化，为补充修正用文件，可选用)
+       ---RespecMod
+       ---SmolCraft
+       ---ToggleableThrowingWeapons
+       *CharacterOptionsPlus 自带汉化已经更新，现已不需要补充文件，删除
+ --TTTLocalization
+       ---ExpandedContent（自带中文但存在屎山问题导致汉化漏失，提供优化汉化，仍在持续施工）
+       ---MicroscopicContentExpansion
+       ---MythicArcanist（自带中文但存在屎山问题导致汉化漏失，提供优化汉化）
+       ---SparsSorcerousSundries
+       ---TTT-Base（自带中文但存在屎山问题导致汉化漏失，提供优化汉化）
+       ---TabletopTweaks-Flanking
+       ---TomeOfTheFirebird
+ 
