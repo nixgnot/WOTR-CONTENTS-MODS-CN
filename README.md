@@ -38,7 +38,7 @@
 | [PhoenixsCantrips](#PhoenixsCantrips) | 戏法强化 | 汉化 | :heavy_check_mark: | :star: | :file_folder: | 🛠️ ||
 | [MoreCantrips](#MoreCantrips) | 更多戏法   | 汉化 | :heavy_check_mark: | :star: | :file_folder: | 🛠️ ||
 | [CharacterOptionsPlus](#CharacterOptionsPlus) | CO+扩展 | 自带 | :heavy_check_mark: | :star::star::star: | :file_folder::file_folder::file_folder: |||
-| [DarkCodex](#DarkCodex) | DC扩展修复 | 汉化 | :heavy_check_mark: | :star::star::star: |  :file_folder::file_folder::file_folder: |🛠️🛠️ ||
+| [DarkCodex](#DarkCodex) | DC扩展修复 | 自带 | :heavy_check_mark: | :star::star::star: |  :file_folder::file_folder::file_folder: |🛠️🛠️ ||
 | [AddedFeats](#AddedFeats) | 新增专长 | QL汉化 | :heavy_check_mark: |  :star::star: |  :file_folder::file_folder: |||
 | [BetterBackgrounds](#BetterBackgrounds) | 更多背景 | QL汉化| :x: |:star::star: | :file_folder: | 🛠️ ||
 | [MartialExcellence](#MartialExcellence) | 杰出武艺 | 自带 |:heavy_check_mark: | :star::star: | :file_folder::file_folder: |||
@@ -2121,7 +2121,7 @@
 ------------------------------------------- 
 ### [DarkCodex](https://github.com/Truinto/DarkCodex)
 > *前置：* TabletopTweaks-Core<br>
-> *中文：* **本处提供汉化**<br>
+> *中文：* **自带中文**（本人维护，已经合并到官方）<br>
 > *安装方式：* **UMM**<br>
 > *修改内容：* 较多可选，包括核心规则<br>
 > *新增内容：* 大量<br>
