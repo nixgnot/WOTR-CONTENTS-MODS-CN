@@ -427,8 +427,7 @@
       "ruRU": null,
       "deDE": null,
       "frFR": null,
-      "zhCN": "你可以忽略中年或老年的身体劣势。这个法术不会让你看起来更年轻，也不会让你免于老死，但是只要法术持续，你就能忽略你步入老年时获得的-3的力量、敏捷和体质减值。
-    在法术持续中，你仍然保留年龄带给你的智力、感知和魅力加值。暮年阶段的追加减值仍然会完整保留。",
+      "zhCN": "你可以忽略中年或老年的身体劣势。这个法术不会让你看起来更年轻，也不会让你免于老死，但是只要法术持续，你就能忽略你步入老年时获得的-3的力量、敏捷和体质减值。在法术持续中，你仍然保留年龄带给你的智力、感知和魅力加值。暮年阶段的追加减值仍然会完整保留。",
       "esES": null
     },
     {
@@ -450,8 +449,7 @@
       "ruRU": null,
       "deDE": null,
       "frFR": null,
-      "zhCN": "你可以忽略年龄带来的身体劣势。这个法术不会让你看起来更年轻，也不会让你免于老死，但是只要法术持续，你就能忽略你步入暮年时获得的-6的力量、敏捷和体质减值。
-    在法术持续中，你仍然保留年龄带给你的智力、感知和魅力加值。",
+      "zhCN": "你可以忽略年龄带来的身体劣势。这个法术不会让你看起来更年轻，也不会让你免于老死，但是只要法术持续，你就能忽略你步入暮年时获得的-6的力量、敏捷和体质减值。在法术持续中，你仍然保留年龄带给你的智力、感知和魅力加值。",
       "esES": null
     },
     {
@@ -484,8 +482,7 @@
       "ruRU": null,
       "deDE": null,
       "frFR": null,
-      "zhCN": "你可以忽略中年的身体劣势。这个法术不会让你看起来更年轻，也不会让你免于老死，但是只要法术持续，你就能忽略你步入中年时获得的-1的力量、敏捷和体质减值。
-    在法术持续中，你仍然保留年龄带给你的智力、感知和魅力加值。老年和暮年阶段的追加减值仍然会完整保留。",
+      "zhCN": "你可以忽略中年的身体劣势。这个法术不会让你看起来更年轻，也不会让你免于老死，但是只要法术持续，你就能忽略你步入中年时获得的-1的力量、敏捷和体质减值。在法术持续中，你仍然保留年龄带给你的智力、感知和魅力加值。老年和暮年阶段的追加减值仍然会完整保留。",
       "esES": null
     },
     {
@@ -618,6 +615,17 @@
       "deDE": null,
       "frFR": null,
       "zhCN": "动物盟友等级",
+      "esES": null
+    },
+    {
+      "Key": "c0b2eb22c9724852be5a40f2d7c4d15b",
+      "SimpleName": "AnimalCompanionUpgradeBear.Name",
+      "ProcessTemplates": false,
+      "enGB": "Animal Companion Upgrade",
+      "ruRU": null,
+      "deDE": null,
+      "frFR": null,
+      "zhCN": "动物伙伴成长",
       "esES": null
     },
     {
@@ -7111,6 +7119,28 @@
       "esES": null
     },
     {
+      "Key": "44952c4bb1804b9d8a5c109bea53ac74",
+      "SimpleName": "GreaterAnimalFuryBuff.Description",
+      "ProcessTemplates": true,
+      "enGB": "The bite attack from animal fury deals damage as if you were one size larger.",
+      "ruRU": null,
+      "deDE": null,
+      "frFR": null,
+      "zhCN": "兽类冲动的啮咬攻击造成的伤害相当于你的体型增大了一级",
+      "esES": null
+    },
+    {
+      "Key": "f491c46da35a4286b36d6fe887c0136f",
+      "SimpleName": "GreaterAnimalFuryBuff.Name",
+      "ProcessTemplates": false,
+      "enGB": "Greater Animal Fury",
+      "ruRU": null,
+      "deDE": null,
+      "frFR": null,
+      "zhCN": "高等兽类冲动",
+      "esES": null
+    },
+    {
       "Key": "c779d24f024d442c9eb3cf7d352aa9a6",
       "SimpleName": "GreatKenning.Description",
       "ProcessTemplates": true,
@@ -7592,6 +7622,50 @@
       "deDE": null,
       "frFR": null,
       "zhCN": "精通导能",
+      "esES": null
+    },
+    {
+      "Key": "1dc1f62a3b424d22b9dd948fe44ec1ae",
+      "SimpleName": "ImprovedNaturalArmor.Description",
+      "ProcessTemplates": true,
+      "enGB": "This creature’s hide is tougher than most.\nThe creature’s natural armor bonus increases by +1.\nA creature can gain this feat multiple times. Each time the creature takes the feat, its natural armor bonus increases by another point.",
+      "ruRU": null,
+      "deDE": null,
+      "frFR": null,
+      "zhCN": "这个生物的表皮比大多数动物都坚韧。该生物的天生防御加值增加+1。\n一个生物可以多次获得此专长。每当该生物获得该专长时，其天生防御加值增加1点",
+      "esES": null
+    },
+    {
+      "Key": "3997179ff96c473ebfbc59972d782210",
+      "SimpleName": "ImprovedNaturalArmor.Name",
+      "ProcessTemplates": false,
+      "enGB": "Improved Natural Armor",
+      "ruRU": null,
+      "deDE": null,
+      "frFR": null,
+      "zhCN": "强化天生防御",
+      "esES": null
+    },
+    {
+      "Key": "d95a332bc47a46e78b79f3830002683a",
+      "SimpleName": "ImprovedNaturalAttack.Description",
+      "ProcessTemplates": true,
+      "enGB": "Attacks made by one of this creature’s natural attacks leave vicious wounds.\nChoose one of the creature’s natural attack forms. The damage for this natural attack increases by one step, as if the creature’s size had increased by one category.",
+      "ruRU": null,
+      "deDE": null,
+      "frFR": null,
+      "zhCN": "这种生物的天生武器所造成的攻击会留下严重的创伤。选择该生物的一种天生武器。\n该天生武器的伤害骰增大一级，如同该生物的体型增大了一级。",
+      "esES": null
+    },
+    {
+      "Key": "448c552d8a2a4b6b8df868bd7dae0699",
+      "SimpleName": "ImprovedNaturalAttack.Name",
+      "ProcessTemplates": false,
+      "enGB": "Improved Natural Attack",
+      "ruRU": null,
+      "deDE": null,
+      "frFR": null,
+      "zhCN": "强化天生武器",
       "esES": null
     },
     {
@@ -8758,6 +8832,28 @@
       "deDE": null,
       "frFR": null,
       "zhCN": "精制品",
+      "esES": null
+    },
+    {
+      "Key": "8c12fef32872401b80ea7e5308a17cef",
+      "SimpleName": "MaximizedCritical.Description",
+      "ProcessTemplates": true,
+      "enGB": "Whenever you score a critical hit, the weapon’s damage result is always the maximum possible amount you could roll. This doesn’t affect other dice added to the damage, such as from sneak attack or the flaming weapon special ability. For example, if you score a critical hit with a longsword (1d8/×2), treat the sword’s damage dice as if you had rolled 8 both times, then add any other damage bonuses that you would normally apply to a critical hit.",
+      "ruRU": null,
+      "deDE": null,
+      "frFR": null,
+      "zhCN": "每当你成功进行重击时，武器的伤害结果总是会达到你可能骰出的最高数值。这不会影响其他会加诸于伤害的骰子，比如偷袭或者炽焰武器特殊能力。例如：如果你成功使用长剑（1d8/x2）造成重击，那么将长剑的伤害骰视为两次均掷出8点，然后再加上通常情况下能加到重击上的其他伤害加值。",
+      "esES": null
+    },
+    {
+      "Key": "8a6c760ec3e1497880c9ed15dcafe359",
+      "SimpleName": "MaximizedCritical.Name",
+      "ProcessTemplates": false,
+      "enGB": "Maximized Critical",
+      "ruRU": null,
+      "deDE": null,
+      "frFR": null,
+      "zhCN": "极效重击",
       "esES": null
     },
     {
@@ -14104,6 +14200,50 @@
       "deDE": null,
       "frFR": null,
       "zhCN": "超然酷寒",
+      "esES": null
+    },
+    {
+      "Key": "285281db5b4542e993287a1510d586e7",
+      "SimpleName": "WitchHexDireProphecyAbility.Duration",
+      "ProcessTemplates": false,
+      "enGB": "1 day",
+      "ruRU": null,
+      "deDE": null,
+      "frFR": null,
+      "zhCN": "1天",
+      "esES": null
+    },
+    {
+      "Key": "6ebb4089336b40ff803784b1c79da262",
+      "SimpleName": "WitchHexDireProphecyBuff.Description",
+      "ProcessTemplates": true,
+      "enGB": "The witch curses the target so he is doomed to die. As long as the curse persists, the target takes a –4 penalty to his armor class and on attack rolls, saves, ability checks, and skill checks.\nA target can only have one dire prophecy upon him at a time. Whether or not the target’s save against the hex is successful, a creature cannot be the target of this hex for 1 day. This is a curse effect.",
+      "ruRU": null,
+      "deDE": null,
+      "frFR": null,
+      "zhCN": "巫师诅咒的目标注定要死亡（意志豁免通过则无效）。只要诅咒仍然存在，目标的AC、攻击、豁免、属性和技能检定就遭受-4减值。一个目标同时只能背负至多一项凶兆。无论豁免成功与否，该生物在1天内都不会再次成为此巫术的目标。这是一个〔诅咒〕效果。",
+      "esES": null
+    },
+    {
+      "Key": "94df57409ca04e149f6ef7f8983d8c2e",
+      "SimpleName": "WitchHexDireProphecyBuff.Name",
+      "ProcessTemplates": false,
+      "enGB": "Dire Prophecy",
+      "ruRU": null,
+      "deDE": null,
+      "frFR": null,
+      "zhCN": "凶兆",
+      "esES": null
+    },
+    {
+      "Key": "87aebbe0a1b9405cb1987dfae29ea4a3",
+      "SimpleName": "WitchHexDireProphecyBuffCooldownBuff.Name",
+      "ProcessTemplates": false,
+      "enGB": "Dire Prophecy Cooldown",
+      "ruRU": null,
+      "deDE": null,
+      "frFR": null,
+      "zhCN": "凶兆冷却",
       "esES": null
     },
     {
