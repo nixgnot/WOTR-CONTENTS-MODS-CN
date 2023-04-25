@@ -11893,7 +11893,7 @@
       "SimpleName": "StargazerProgression.Description",
       "ProcessTemplates": true,
       "enGB": "The empyreal lord Pulura, the Shimmering Maiden, is said to dance among the lights of the aurora. Some of her worshipers seek her guidance in the starry skies, attuning themselves to the constellations of the Cosmic Caravan. Beyond the stargazers’ interests in the heavens, though, they also train for the inevitable conflict with demons. Pulura’s bastion of worship in the Inner Sea region has traditionally been in the land of Sarkoris, which was consumed from within by the Worldwound at the advent of the Age of Lost Omens. Many of Pulura’s worshipers perished during that disastrous invasion from the Abyss, but those who survived remained behind and, over the past several decades, have grown in power.",
-      "zhCN": "The empyreal lord Pulura, the Shimmering Maiden, is said to dance among the lights of the aurora. Some of her worshipers seek her guidance in the starry skies, attuning themselves to the constellations of the Cosmic Caravan. Beyond the stargazers’ interests in the heavens, though, they also train for the inevitable conflict with demons. Pulura’s bastion of worship in the Inner Sea region has traditionally been in the land of Sarkoris, which was consumed from within by the Worldwound at the advent of the Age of Lost Omens. Many of Pulura’s worshipers perished during that disastrous invasion from the Abyss, but those who survived remained behind and, over the past several decades, have grown in power."
+      "zhCN": "据称被称作微光少女的至高天神使璞露拉会在极光之下翩翩起舞。因此璞露拉的部分信徒会循着星空寻找着她的指引，致力于让自身和悬挂在空中的宇宙之辇星座群产生共鸣。尽管观星者的关注点远在天际之中，但他们仍旧会为了对抗那些必然与其产生冲突的恶魔而接受训练。璞露拉的信众在内海地区的传统聚居地原本是被称为萨阔力的土地，然而随着预言破灭时代的到来，这片地区被世界之伤所吞噬。许多璞露拉的信徒死于深渊的入侵，而幸存者们仍然在过去的几十年间挣扎求存、积蓄力量。"
     },
     {
       "Key": "05e4a2f4c0f44446985ad0c4736b3d59",
@@ -11963,7 +11963,7 @@
       "SimpleName": "StargazerSiderealArcanaSelection.Description",
       "ProcessTemplates": true,
       "enGB": "As he studies the skies, the stargazer binds himself to constellations from the Cosmic Caravan, drawing on their unearthly power. At 2nd level and every 2 class levels thereafter, the stargazer gains one sidereal arcana of his choice.",
-      "zhCN": "随着对夜空有着更加深入的研究，观星者与天际篷车星座群中的某些星座构筑起联系，获取了来自星体的神秘力量。在2级以及之后的每2个等级，观星者都可以从后述列表中自行选择1项星座奥秘。"
+      "zhCN": "随着对夜空有着更加深入的研究，观星者与宇宙之辇星座群中的某些星座构筑起联系，获取了来自星体的神秘力量。在2级以及之后的每2个等级，观星者都可以从后述列表中自行选择1项星座奥秘。"
     },
     {
       "Key": "64cdbe50de494bf98c6971cef3ebdf3a",
@@ -12586,14 +12586,14 @@
       "SimpleName": "StargazerStarsDanceDaughterBuff.Description",
       "ProcessTemplates": true,
       "enGB": "The Daughter emboldens hearts with the promise of springtime and new life. The stargazer and allies within 10 feet gain a +4 morale bonus on saving throws against fear. The stargazer is immune to fear effects created by demons.",
-      "zhCN": "息女座 emboldens hearts with the promise of springtime and new life. The stargazer and allies within 10 feet gain a +4 morale bonus on saving throws against fear. The stargazer is immune to fear effects created by demons."
+      "zhCN": "息女座能用春季的到来以及万物的新生鼓舞人心。观星者和10尺范围内的所有盟友会在对抗恐惧的豁免检定中获得+4士气加值。观星者免疫恶魔创造的恐惧效果。"
     },
     {
       "Key": "4501a6dddcdb44518b7065bd1dc5ce39",
       "SimpleName": "StargazerStarsDanceDaughterFeature.Description",
       "ProcessTemplates": true,
       "enGB": "The Daughter emboldens hearts with the promise of springtime and new life. The stargazer and allies within 10 feet gain a +4 morale bonus on saving throws against fear. The stargazer is immune to fear effects created by demons.",
-      "zhCN": "息女座 emboldens hearts with the promise of springtime and new life. The stargazer and allies within 10 feet gain a +4 morale bonus on saving throws against fear. The stargazer is immune to fear effects created by demons."
+      "zhCN": "息女座能用春季的到来以及万物的新生鼓舞人心。观星者和10尺范围内的所有盟友会在对抗恐惧的豁免检定中获得+4士气加值。观星者免疫恶魔创造的恐惧效果。"
     },
     {
       "Key": "d827b141be634cc4bc3c565da2348a79",
@@ -12691,7 +12691,7 @@
       "SimpleName": "StargazerStarsDanceDaughterSwapParent.Description",
       "ProcessTemplates": true,
       "enGB": "Once per day, the stargazer can replace one of his sidereal arcana with any other one. \nAll variants of this ability give up The Daughter. \nThe Daughter emboldens hearts with the promise of springtime and new life. The stargazer and allies within 10 feet gain a +4 morale bonus on saving throws against fear. The stargazer is immune to fear effects created by demons.",
-      "zhCN": "每日1次，观星者能够将自己已有的星座奥秘替换为任意一个其他的星座奥秘。\n该组能力放弃息女座。\n息女座 emboldens hearts with the promise of springtime and new life. The stargazer and allies within 10 feet gain a +4 morale bonus on saving throws against fear. The stargazer is immune to fear effects created by demons."
+      "zhCN": "每日1次，观星者能够将自己已有的星座奥秘替换为任意一个其他的星座奥秘。\n该组能力放弃息女座。\n息女座能用春季的到来以及万物的新生鼓舞人心。观星者和10尺范围内的所有盟友会在对抗恐惧的豁免检定中获得+4士气加值。观星者免疫恶魔创造的恐惧效果。"
     },
     {
       "Key": "673b267daabe47bfaf54c1d6636c76f1",
@@ -12789,28 +12789,28 @@
       "SimpleName": "StargazerStarsDanceFeature.Description",
       "ProcessTemplates": true,
       "enGB": "At 10th level, the stargazer’s mastery of the Cosmic Caravan reaches its zenith. Once per day, the stargazer can replace one of his sidereal arcana with any other one.",
-      "zhCN": "At 10th level, the stargazer’s mastery of the Cosmic Caravan reaches its zenith. Once per day, the stargazer can replace one of his sidereal arcana with any other one."
+      "zhCN": "10级起，观星者对宇宙之辇星座群的理解达到了顶点。每日1次，观星者能够将自己已有的星座奥秘替换为任意一个其他的星座奥秘。"
     },
     {
       "Key": "43064deb7a8d4905906f74efad1e22eb",
       "SimpleName": "StargazerStarsDanceFeature.Name",
       "ProcessTemplates": false,
       "enGB": "Stars’ Dance",
-      "zhCN": "Stars’ Dance"
+      "zhCN": "星之舞"
     },
     {
       "Key": "9c17a7b1239247ed872829d762eee5be",
       "SimpleName": "StargazerStarsDanceFollowerBuff.Description",
       "ProcessTemplates": true,
       "enGB": "The specter of death follows the stargazer, shielding him from doom. The stargazer gains a +4 bonus on saves against death effects. In addition, he is immune to all death effects, negative energy effects, and negative levels created by demons.",
-      "zhCN": "The specter of death follows the stargazer, shielding him from doom. The stargazer gains a +4 bonus on saves against death effects. In addition, he is immune to all death effects, negative energy effects, and negative levels created by demons."
+      "zhCN": "死之阴影跟随着观星者，让他免受毁灭之痛。观星者在对抗死亡效果的豁免检定中获得+4加值。此外，他免疫所有由恶魔创造的死亡效果、负能量效果和负向等级。"
     },
     {
       "Key": "066d0e446211479b95eeaf8ebbf306af",
       "SimpleName": "StargazerStarsDanceFollowerFeature.Description",
       "ProcessTemplates": true,
       "enGB": "The specter of death follows the stargazer, shielding him from doom. The stargazer gains a +4 bonus on saves against death effects. In addition, he is immune to all death effects, negative energy effects, and negative levels created by demons.",
-      "zhCN": "The specter of death follows the stargazer, shielding him from doom. The stargazer gains a +4 bonus on saves against death effects. In addition, he is immune to all death effects, negative energy effects, and negative levels created by demons."
+      "zhCN": "死之阴影跟随着观星者，让他免受毁灭之痛。观星者在对抗死亡效果的豁免检定中获得+4加值。此外，他免疫所有由恶魔创造的死亡效果、负能量效果和负向等级。"
     },
     {
       "Key": "52809e64d8dd4cc88381cfb4f7bb5e64",
@@ -12908,7 +12908,7 @@
       "SimpleName": "StargazerStarsDanceFollowerSwapParent.Description",
       "ProcessTemplates": true,
       "enGB": "Once per day, the stargazer can replace one of his sidereal arcana with any other one. \nAll variants of this ability give up The Follower. \nThe specter of death follows the stargazer, shielding him from doom. The stargazer gains a +4 bonus on saves against death effects. In addition, he is immune to all death effects, negative energy effects, and negative levels created by demons.",
-      "zhCN": "每日1次，观星者能够将自己已有的星座奥秘替换为任意一个其他的星座奥秘。\n该组能力放弃猎命座。\nThe specter of death follows the stargazer, shielding him from doom. The stargazer gains a +4 bonus on saves against death effects. In addition, he is immune to all death effects, negative energy effects, and negative levels created by demons."
+      "zhCN": "每日1次，观星者能够将自己已有的星座奥秘替换为任意一个其他的星座奥秘。\n该组能力放弃猎命座。\n死之阴影跟随着观星者，让他免受毁灭之痛。观星者在对抗死亡效果的豁免检定中获得+4加值。此外，他免疫所有由恶魔创造的死亡效果、负能量效果和负向等级。"
     },
     {
       "Key": "3c0ffc7aec1249d7a21c4a3afbd75896",
