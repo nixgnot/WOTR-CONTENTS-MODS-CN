@@ -59,7 +59,7 @@
 | [Way-of-the-shield](#Way-of-the-shield) | 盾牌之道 |自带 |:heavy_check_mark: | :star: | :file_folder::file_folder: |🛠️||
 | [CyniikalBrokenFeatures](#CyniikalBrokenFeatures) | 法师虚学派 |QL汉化| :heavy_check_mark: | :star: | :file_folder::file_folder: |||
 | [随军神父](#随军神父) | 随军神父 | 自带 | :heavy_check_mark: | :star: | :file_folder: |||
-| [CompanionAscension](#CompanionAscension) | 同伴提升 |  | :heavy_check_mark: | :star: | :file_folder: ||未测试|
+| [CompanionAscension](#CompanionAscension) | 同伴提升 |  | :heavy_check_mark: | :star: | :file_folder: ||:steam_locomotive:|
 
 备注
 + UMM一栏为是否使用UMM安装
