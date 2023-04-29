@@ -1122,6 +1122,41 @@
       "Key": "TelekineticStrikesBuff.Desc",
       "ProcessTemplates": false,
       "zhCN": "接触的生物的肢体充满了意念力量。在法术持续时间内，目标的徒手攻击或者天生武器攻击在成功的徒手攻击命中时造成额外1d4点力场伤害。"
-    }
+    },
+    {
+      "Key": "TwinSpell.Name",
+      "enGB": "Metamagic (Twin Spell)",
+      "zhCN": "超魔（双发法术）"
+    },
+    {
+      "Key": "TwinSpell.Desc",
+      "enGB": "You can modify a spell to strike twice.\nBenefit: The spell takes effect twice in the same area or on the same target simultaneously. Any variable characteristics or decisions you would make about the spell (including target and area), are applied to both spells, with affected creatures receiving all the effects of each spell individually (including getting two saving throws if applicable). A spell whose effects wouldn't stack if it was cast twice under normal circumstances will create redundant effects if successfully twinned. Note that \nLevel Increase: +4.\nMany (but not all) buff and debuff spells will not benefit from being twinned, even at the level of needing to be dispelled twice, because of implementation details. ",
+      "zhCN": "你可以修改一个法术让其造成两次打击。\n效果：该法术对同一个目标或者同一目标区域连续释放两次。任何该法术的可变要素或者选项（包括目标和区域）都会对两次施法同样生效，而受到影响的生物会独立受到两次法术效果（比如进行两次豁免）。注意在通常情况下无法叠加效果的法术如果成功两次释放可能会浪费效果。\n等级提升：+4（双发法术需要使用比该法术实际等级高4级的法术位。）\n由于实现细节的原因，许多（但不是全部）增益和减益法术不会从双发法术中受益，即使是在需要驱散两次的程度上也是如此。"
+    },
+    {
+      "Key": "BloodKineticBladeSystem.Name",
+      "enGB": "Blood Kinetic Blade",
+      "zhCN": "血念刃"
+    },
+    {
+      "Key": "MetakinesisDouble.Name",
+      "enGB": "Metakinesis - Double",
+      "zhCN": "超念（双发）"
+    },
+    {
+      "Key": "MetakinesisDouble.Desc",
+      "enGB": "At 17th level, by accepting 4 points of burn, the kineticist can use her kinetic blast twice with the same standard action, or swift action if she also uses metakinesis to quicken the blast. When she uses a double kinetic blast, all modifications, such as metakinesis and infusions, apply to both of the blasts, but the kineticist needs to pay the burn cost only once.",
+      "zhCN": "17级起，通过接受4点超载，操念使可以使用一个标准动作释放两次念袭，如果同时使用瞬发超念则使用迅捷动作。成功使用双发超念时，两次念袭都会应用其他超念和注能，但是只需要承受1次超载。"
+    },
+    {
+      "Key": "MetakinesisDoubleExpert.Name",
+      "enGB": "Metakinesis Expert - Double",
+      "zhCN": "超念专家 - 双发"
+    },
+    {
+      "Key": "MetakinesisDoubleExpert.Desc",
+      "enGB": "Metakinesis - Double now only costs 3 points of burn.",
+      "zhCN": "双发超念只消耗3点超载。"
+    },
   ]
 }
