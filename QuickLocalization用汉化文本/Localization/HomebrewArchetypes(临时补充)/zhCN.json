@@ -1,5 +1,5 @@
 ﻿[
-		{
+	{
             "Key": "HomebrewArchtypes_ChildofWar", // "15edb451-dc5b-4def-807c-a451743eb3a6" for example
             "zhCN": "旧神圣子"
         },
@@ -1577,7 +1577,7 @@
         },
 		{
             "Key": "HomebrewArchtypes_MythicAbilityAbundantCastingDesc", // "15edb451-dc5b-4def-807c-a451743eb3a6" for example
-            "zhCN": "神话生物可以通过此能力唤回任意环级的法术，最多2+神话阶层次。"
+            "zhCN": "神话生物可以通过此能力唤回任意环级的法术，最多6次。"
         },
 		{
             "Key": "HomebrewArchtypes_SarenraeSword1Desc", // "15edb451-dc5b-4def-807c-a451743eb3a6" for example
@@ -3202,7 +3202,7 @@
         },
 		{
             "Key": "HomebrewArchtypes_HeraldClassProficienciesDesc",
-            "zhCN": "先驱擅长所有简易武器，以及长剑、细剑、短剑和短弓。 先驱也擅长轻甲，盾牌(塔盾除外)以及信仰神祇的偏好武器。"
+            "zhCN": "先驱擅长所有建议武器，以及长剑、细剑、短剑和短弓。 先驱也擅长轻甲，盾牌(塔盾除外)以及信仰神祇的偏好武器。"
         },
 		{
             "Key": "HomebrewArchtypes_HeraldClassDoctrineSelection",
@@ -4007,5 +4007,113 @@
 		{
             "Key": "HomebrewArchtypes_HeraldClassFeatureTouchoftheFaithfulDesc", 
             "zhCN": "虔诚之触可以用于治疗或伤害。这种能力可以被先驱所遵循的信条和服侍的神祇影响。"
+        },
+		{
+            "Key": "HomebrewArchtypes_HeraldClassFeatureAcceptElements", 
+            "zhCN": "元素诗篇 - 接受效果"
+        },
+		{
+            "Key": "HomebrewArchtypes_HeraldClassFeatureAcceptElementsDesc", 
+            "zhCN": "该能力允许单位接受元素诗篇效果。如果关闭，该角色不再接受先驱的元素诗篇效果。"
+        },
+		{
+            "Key": "HomebrewArchtypes_ArcaneTricksterSpellbookSelectionDesc", 
+            "zhCN": "诡术师达到1级时，诡术师在她进阶之前所拥有的奥术施法职业中选择一个。每次获得新的诡术师等级，该角色会获得额外的每日{g|Encyclopedia:Spell}法术{/g}数量和新的法术，如同在此施法职业中获得新的等级。 "
+        },
+		{
+            "Key": "HomebrewArchtypes_ArcaneTricksterSpellbookSelectionWitch", 
+            "zhCN": "巫师"
+        },
+		{
+            "Key": "HomebrewArchtypes_ArcaneTricksterSpellbookSelectionHerald", 
+            "zhCN": "先驱"
+        },
+		{
+            "Key": "HomebrewArchtypes_DragonDiscipleSpellbookSelectionDesc", 
+            "zhCN": "达到2级时，以及之后除了5级和9级的每个等级，龙脉术士都能够获得新的每日{g|Encyclopedia:Spell}法术{/g}量，如同他在进阶之前已有的奥术施法职业上也获得了一个等级。但是除了额外的每日法术量、已知法术、有效施法者等级之外，他无法获得该职业角色升级之际本应获得的其他好处。若角色在进阶成为龙脉术士之前拥有多个奥术施法职业，那么他必须决定将新的一级追加在哪个职业上，以用于判断每日法术量。"
+        },
+		{
+            "Key": "HomebrewArchtypes_HellKnightSpellbookSelectionHerald", 
+            "zhCN": "先驱"
+        },
+		{
+            "Key": "HomebrewArchtypes_HellKnightSpellbookSelectionCleric", 
+            "zhCN": "牧师"
+        },
+		{
+            "Key": "HomebrewArchtypes_HellKnightSpellbookSelectionClericDesc", 
+            "zhCN": "1级时，以及之后每个等级，地狱骑士持节士都能够获得新的每日{g|Encyclopedia:Spell}法术{/g}量，如同他在进阶之前已有的施法职业上也获得了一个等级。但是除了额外的每日法术量、已知法术、有效施法者等级之外，他无法获得该职业角色升级之际本应获得的其他好处。若角色在进阶成为地狱骑士持节士之前拥有多个施法职业，那么他必须决定将新的一级追加在哪个职业上，以用于判断每日法术量。"
+        },
+		{
+            "Key": "HomebrewArchtypes_LoreMasterSpellbookSelectionClericDesc", 
+            "zhCN": "在获得一级新的博学士等级时，角色将获得新的每日{g|Encyclopedia:Spell}法术{/g}量，如同他在进阶之前已有的施法职业上也获得了一个等级。但是除了额外的每日法术量、已知法术（若其为自发施法者）和有效施法者等级之外，他无法获得该职业角色升级之际能够获得的其他奖励。如果角色在成为博学士之前拥有多个施法职业，那么他必须决定将新的一级追加在哪个职业上以决定每日法术量。"
+        },
+		{
+            "Key": "HomebrewArchtypes_MysticTheurgeSpellbookSelectionDesc", 
+            "zhCN": "1级起，秘术师可以从进阶该职业前的神术施法职业中选择一个。每次获得新的秘术师等级时，该角色可以如同也获得了该施法职业的等级一般，增加每日{g|Encyclopedia:Spell}法术{/g}量和新的所知法术。"
+        },
+		{
+            "Key": "HomebrewArchtypes_InquisitorArchetypeUmbralStalker", 
+            "zhCN": "本影追踪者"
+        },
+		{
+            "Key": "HomebrewArchtypes_InquisitorArchetypeUmbralStalkerDesc", 
+            "zhCN": "作为一个阴影中的完美潜伏者，本影追踪者暗中观察她的信仰之敌，并在不幸的受害者尚未察觉时发动攻击。"
+        },
+		{
+            "Key": "HomebrewArchtypes_InquisitorArchetypeUmbralStalkerDarkDescent", 
+            "zhCN": "黑暗血统"
+        },
+		{
+            "Key": "HomebrewArchtypes_InquisitorArchetypeUmbralStalkerDarkDescentDesc", 
+            "zhCN": "本影追踪者通过黑暗领域获得暗夜子域，即使她的神灵通常不提供它。"
+        },
+		{
+            "Key": "HomebrewArchtypes_InquisitorArchetypeUmbralStalkerDarkDescentNightDomain", 
+            "zhCN": "暗夜子域"
+        },
+		{
+            "Key": "HomebrewArchtypes_InquisitorArchetypeUmbralStalkerDarkDescentNightDomainDesc", 
+            "zhCN": "你将掌控暗影与黑暗。\n黑暗之触：作为近战{g|Encyclopedia:TouchAttack}接触攻击{/g}，利用暗影与黑暗，你可使接触到的生物视线混乱。所有其他生物对该生物而言都视为具有{g|Encyclopedia:Concealment}隐蔽{/g}，所有{g|Encyclopedia:Attack}攻击检定{/g}承受20%的失手率。此效果持续{g|Encyclopedia:Combat_Round}轮数{/g}等于1/2赋予你此领域的职业等级（最低为1）。每天可使用次数为{g|Encyclopedia:Wisdom}感知{/g}调整值+3。\n暗夜猎手（SU）：8级起以一个标准动作，你可以融入夜之暗影，变得近乎隐形。你进入隐形状态（如同隐形术）。该效果持续1/2赋予你此领域的职业等级（最低为1）。每天可使用次数为{g|Encyclopedia:Wisdom}感知{/g}调整值+3。"
+        },
+		{
+            "Key": "HomebrewArchtypes_InquisitorArchetypeUmbralStalkerDarkDescentNightDomainNightHunter", 
+            "zhCN": "暗夜猎手"
+        },
+		{
+            "Key": "HomebrewArchtypes_InquisitorArchetypeUmbralStalkerDarkDescentNightDomainNightHunterDesc", 
+            "zhCN": "8级起以一个标准动作，你可以融入夜之暗影，变得近乎隐形。你进入隐形状态（如同隐形术）。该效果持续1/2赋予你此领域的职业等级（最低为1）。每天可使用次数为{g|Encyclopedia:Wisdom}感知{/g}调整值+3。"
+        },
+		{
+            "Key": "HomebrewArchtypes_InquisitorArchetypeUmbralStalkerJudgement", 
+            "zhCN": "审判"
+        },
+		{
+            "Key": "HomebrewArchtypes_InquisitorArchetypeUmbralStalkerJudgementDesc", 
+            "zhCN": "1级起，审判官可花费{g|Encyclopedia:Swift_Action}迅捷动作{/g}对敌人宣布审判。审判下达后，审判官将根据审判类型获得额外{g|Encyclopedia:Bonus}加值{/g}或{g|Encyclopedia:Special_Abilities}特殊能力{/g}。\n1级时，审判官每天可施展1次此能力。达到4级时，以及之后每升3级，审判官每天便可多施展1次此能力。激活审判后，该能力将持续至战斗结束，届时所有加值都会立刻消失。\n当审判官施展此能力时，必须选择一个审判类型。审判官能够以迅捷{g|Encyclopedia:CA_Types}动作{/g}切换审判类型。\n\n本影追踪者获得：\n审判（追踪者）：本影追踪者对没有察觉到其存在的生物（通常由于她处于隐形或者隐匿状态）在攻击检定上获得+2崇圣加值。每拥有5个审判官等级，该加值提升2点。该能力替换审判（正义）"
+        },
+		{
+            "Key": "HomebrewArchtypes_InquisitorArchetypeUmbralStalkerJudgementStalking", 
+            "zhCN": "审判（追踪者）"
+        },
+		{
+            "Key": "HomebrewArchtypes_InquisitorArchetypeUmbralStalkerJudgementStalkingDesc", 
+            "zhCN": "审判（追踪者）：本影追踪者对没有察觉到其存在的生物（通常由于她处于隐形或者隐匿状态）在攻击检定上获得+2崇圣加值。每拥有5个审判官等级，该加值提升2点。"
+        },
+		{
+            "Key": "HomebrewArchtypes_InquisitorArchetypeUmbralStalkerSwiftandSilent", 
+            "zhCN": "无声迅行"
+        },
+		{
+            "Key": "HomebrewArchtypes_InquisitorArchetypeUmbralStalkerSwiftandSilentDesc", 
+            "zhCN": "本影追踪者以致命的优雅和效率接近猎物。本影追踪者在{g|Encyclopedia:Athletics}运动{/g}和{g|Encyclopedia:Stealth}隐匿{/g}检定上，获得等于1/2审判官等级的士气{g|Encyclopedia:Bonus}加值{/g}（最小为+1）。"
+        },
+		{
+            "Key": "HomebrewArchtypes_InquisitorArchetypeUmbralStalkerDeadlyEfficiency", 
+            "zhCN": "致命高效"
+        },
+		{
+            "Key": "HomebrewArchtypes_InquisitorArchetypeUmbralStalkerDeadlyEfficiencyDesc", 
+            "zhCN": "14级起，本影追踪者对那些还没有在阴影中注意到她的敌人变得更加致命。每当她确认对一个没有察觉到她存在的敌人确认重击时，她都会忽略目标可能拥有的任何伤害减免，并将她的感知调整值加到伤害检定上（该伤害会如常在重击时加倍）；此外，如果目标拥有{g|Encyclopedia:Regeneration}再生{/g}能力，则它会在受到重击的下一{g|Encyclopedia:Combat_Round}轮{/g}内失去再生能力，并且可以被如常杀死。再生始终生效的生物对此能力免疫。"
         }
-]
+	]
