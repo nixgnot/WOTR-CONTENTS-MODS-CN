@@ -1728,7 +1728,7 @@
    <tr><td rowspan="3">法术</td>
        <td>Deadly Juggernaut 死亡化身（牧师3，审判官3，圣武士3，反圣武士3，战斗祭司3）：<i>参阅PF文档</i>，击杀对手获得奖励</td></tr>
    <tr><td>Blade of Dark Triumph 黑暗祝胜之刃（反圣武士3）：<i>参阅PF文档</i>，强化神契武器</td></tr>
-   <tr><td>Blade of Dark Triumph 光辉胜利之刃（圣武士3）：<i>参阅PF文档</i>，强化神契武器</td></tr>
+   <tr><td>Blade of Bright Victory 光辉胜利之刃（圣武士3）：<i>参阅PF文档</i>，强化神契武器</td></tr>
    <tr><td>武僧气力</td>
        <td>Deadly Juggernaut 死亡化身：同同名法术</td></tr> 
 </table>
