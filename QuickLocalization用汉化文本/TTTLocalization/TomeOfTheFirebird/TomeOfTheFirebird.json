@@ -926,12 +926,22 @@
     {
       "Key": "Fly.Name",
       "ProcessTemplates": false,
-      "zhCN": "飞行"
+      "zhCN": "飞行术"
     },
     {
       "Key": "Fly.Desc",
       "ProcessTemplates": false,
       "zhCN": "目标获得飞行，增加10尺速度，忽略地面效果，并对近战攻击在AC上获得+3闪避加值。"
+    },
+    {
+      "Key": "MassFly.Name",
+      "ProcessTemplates": false,
+      "zhCN": "群体飞行术"
+    },
+    {
+      "Key": "MassFly.Desc",
+      "ProcessTemplates": false,
+      "zhCN": "全队获得飞行，增加10尺速度，忽略地面效果，并对近战攻击在AC上获得+3闪避加值。"
     },
     {
       "Key": "EntropicShield.Name",
@@ -1157,6 +1167,6 @@
       "Key": "MetakinesisDoubleExpert.Desc",
       "enGB": "Metakinesis - Double now only costs 3 points of burn.",
       "zhCN": "双发超念只消耗3点超载。"
-    },
+    }
   ]
 }
