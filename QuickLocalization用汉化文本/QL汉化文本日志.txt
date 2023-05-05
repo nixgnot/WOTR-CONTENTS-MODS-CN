@@ -32,3 +32,5 @@ QL详细使用说明请参阅https://github.com/nixgnot/WOTR-CONTENTS-MODS-CN/bl
 2023/4/25 更新ExpandedContent汉化，更新TTT-Base汉化
  ---------------------------------------------------------
 2023/4/29 更新HomebrewArchetypes汉化，支持新变体；更新TomeOfTheFirebird汉化，支持新专长
+ ---------------------------------------------------------
+2023/5/5  更新TomeOfTheFirebird汉化，群体飞行术
