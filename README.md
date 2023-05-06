@@ -2009,6 +2009,8 @@
 > *中文：* **无**<br>
 > *安装方式：* **UMM**<br>
 > *新增内容：* 专长等<br>
+
+**注意！本MOD在最新版本运行有问题，需等待更新**
 + 增加少量新内容
 <table>
  <tr><th colspan="2">新增内容列表<br></th></tr> 
@@ -2875,6 +2877,8 @@ C:\Users\你的用户名\AppData\LocalLow\Owlcat Games\Pathfinder Wrath Of The R
 > *安装方式：* **UMM**<br>
 > *修改内容：* <br>
 > *新增内容：* 通灵者职业，少量专长<br>
+
+**注意！本MOD在最新版本尚未测试**
 + 早期版本，主要添加通灵者（Medium）职业，还做了一些制作中的专长，不保证有效，建议等待完善
         
 ------------------------------------------- 
@@ -3008,6 +3012,8 @@ C:\Users\你的用户名\AppData\LocalLow\Owlcat Games\Pathfinder Wrath Of The R
 > *安装方式：* **UMM**<br>
 > *修改内容：* <br>
 > *新增内容：* "冠军"专长<br>
+
+**注意！本MOD在最新版本尚未测试**
 + 增加一系列原创"冠军"专长，挺强的  
   
 ------------------------------------------- 
@@ -3246,8 +3252,10 @@ C:\Users\你的用户名\AppData\LocalLow\Owlcat Games\Pathfinder Wrath Of The R
 > *中文：* **暂无**<br>
 > *安装方式：* **UMM**<br>
 > *新增内容：* 同伴神话能力<br>
+
+**注意！本MOD在最新版本尚未测试**
 + 为同伴增加额外神话特性（在神话4和神话8获取）
-+ 2.1.x可用性未测试
+
 
 <table>
  <tr><th colspan="4">新增内容列表<br></th></tr> 
