@@ -2839,7 +2839,7 @@ C:\Users\你的用户名\AppData\LocalLow\Owlcat Games\Pathfinder Wrath Of The R
 > *修改内容：* <br>
 > *新增内容：* 种族，专长等<br>
 + 小型内容Mod，持续开发中
-+ 汉化已经提交给官方但是不一定能及时更新，可以在[这里](https://github.com/nixgnot/MartialExcellence/blob/main/MartialExcellence/LocalizedStrings.json)下载并替换汉化
++ 汉化已经提交给官方但是不一定能及时更新，可以在[这里](https://github.com/nixgnot/MartialExcellence/blob/main/MartialExcellence/LocalizedStrings.json)下载并替换汉化（直接复制全文并替换MOD文件夹下LocalizedStrings.json内容）
 
 <table>
    <tr><th colspan="3">新增内容列表</th></tr> 
