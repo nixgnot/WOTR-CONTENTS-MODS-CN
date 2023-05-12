@@ -60,6 +60,7 @@
 | [CyniikalBrokenFeatures](#CyniikalBrokenFeatures) | 法师虚学派 |QL汉化| :heavy_check_mark: | :star: | :file_folder::file_folder: |||
 | [随军神父](#随军神父) | 随军神父 | 自带 | :heavy_check_mark: | :star: | :file_folder: |||
 | [CompanionAscension](#CompanionAscension) | 同伴提升 |  | :heavy_check_mark: | :star: | :file_folder: ||:steam_locomotive:|
+| [SwashbucklerWOTR](#SwashbucklerWOTR) | 游荡剑客 | QL汉化 | :heavy_check_mark: | :star: | :file_folder: |||
 
 备注
 + UMM一栏为是否使用UMM安装
@@ -3303,8 +3304,16 @@ C:\Users\你的用户名\AppData\LocalLow\Owlcat Games\Pathfinder Wrath Of The R
 			<tr><td>虫群</td>
 				<td>你特喵的还有同伴？啥都没！</td></tr>
   </table>
- 
+
+-------------------------------------------   
+### [SwashbucklerWOTR](https://github.com/novumvita/SwashbucklerWOTR)
+> *前置：* 无<br>
+> *中文：* **QL汉化**<br>
+> *安装方式：* **UMM**<br>
+> *新增内容：* 游荡剑客<br>
++ 增加基础职业游荡剑客
 --------------------------------------
+
 ### 功能MOD索引
 + [ToyBox](https://www.nexusmods.com/pathfinderwrathoftherighteous/mods/8) 应该不用介绍？
 + [RespecMod](https://github.com/BarleyFlour/RespecMod) 洗点MOD（允许更自由洗点，自定义初始点数等）
