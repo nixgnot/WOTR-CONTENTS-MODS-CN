@@ -225,6 +225,12 @@
     "enGB": "At 3rd level, while she has at least 1 panache point, a swashbuckler gains the ability to strike precisely with a light or one-handed piercing melee weapon (though not natural weapon attacks), adding her swashbuckler level to the damage dealt. To use this deed, a swashbuckler cannot attack with a weapon in her other hand or use a shield other than a buckler. She can even use this ability with thrown light or one-handed piercing melee weapons, so long as the target is within 30 feet of her. Any creature that is immune to sneak attacks is immune to the additional damage granted by precise strike, and any item or ability that protects a creature from critical hits also protects a creature from the additional damage of a precise strike. This additional damage is precision damage, and isn’t multiplied on a critical hit. As a swift action, a swashbuckler can spend 1 panache point to double her precise strike’s damage bonus on the next attack. This benefit must be used before the end of her turn, or it is lost. This deed’s cost cannot be reduced by any ability or effect that reduces the amount of panache points a deed costs (such as the Signature Deed feat).",
     "zhCN": "3级时，只要游荡剑客拥有至少1点时髦值，在使用轻型或单手穿刺类近战武器（不能是天生武器）进行攻击时，游荡剑客将她的游荡剑客等级加到伤害上。使用精确刺击时，游荡剑客不能使用另一只手持用武器攻击或持用小圆盾以外的盾牌。另外，只要敌人在距离游荡剑客30尺以内，她还能将精确刺击能力用于轻型或单手穿刺类投掷武器上。任意免疫重击的生物都不受精确刺击影响，并且任意可以防止重击的物品或能力也可以保护生物不受影响。精确刺击造成的额外伤害是精准伤害，因此不能因为重击而翻倍。使用1个迅捷动作，一名游荡剑客可以花费1点时髦值使她的下一次精确刺击伤害翻倍。这次攻击必须在她的回合结束前进行，否则就会失去这个效果。此壮举消耗的时髦值点数，无法通过任何降低时髦值消耗的能力或效果（如标志动作专长）所降低。"
   },
+  
+  {
+    "Key": "PreciseAbility.Description",
+    "enGB": "As a swift action, a swashbuckler can spend 1 panache point to double her precise strike’s damage bonus on the next attack. This benefit must be used before the end of her turn, or it is lost. This deed’s cost cannot be reduced by any ability or effect that reduces the amount of panache points a deed costs (such as the Signature Deed feat).",
+    "zhCN": "使用1个迅捷动作，一名游荡剑客可以花费1点时髦值使她的下一次精确刺击伤害翻倍。这次攻击必须在她的回合结束前进行，否则就会失去这个效果。此壮举消耗的时髦值点数，无法通过任何降低时髦值消耗的能力或效果（如标志动作专长）所降低。"
+  },
 
   {
     "Key": "Initiative.Name",
@@ -250,6 +256,12 @@
     "Key": "Grace.Description",
     "enGB": "At 7th level, while the swashbuckler has at least 1 panache point, she moves at full speed when she uses Acrobatics to attempt to move through a threatened area or an enemy’s space.",
     "zhCN": "7级时，只要游荡剑客拥有至少1点时髦值，就可以在使用特技动作检定尝试穿越敌人威胁范围或占据区域的时候不减速。"
+  },
+
+  {
+    "Key": "GraceAbility.Description",
+    "enGB": "You can move through a threatened square without provoking an attack of opportunity from an enemy by using Swashbuckler's Grace while you have more than 1 panache.",
+    "zhCN": "拥有拥有至少1点时髦值时，就可以使用游荡剑客之优雅穿越敌人威胁范围时不会受到借机攻击。"
   },
 
   {
