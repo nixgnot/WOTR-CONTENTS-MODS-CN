@@ -537,5 +537,98 @@
     "Key": "Stunning.Description",
     "enGB": "At 19th level, when a swashbuckler hits a creature with a light or one-handed piercing melee weapon, she can spend 2 panache points to stun the creature for 1 round. The creature must succeed at a Fortitude saving throw (DC = 10 + 1/2 the swashbuckler’s level + the swashbuckler’s Dexterity modifier) or be stunned for 1 round. Creatures that are immune to critical hits are also immune to this effect.",
     "zhCN": "19级时，每当游荡剑客使用轻型或单手穿刺类近战武器攻击命中时，她可以花费2点时髦值，迫使对方进行DC为“10+1/2游荡剑客等级+敏捷调整值”的强韧豁免，失败则眩晕1轮。免疫重击的生物同样免疫本效果。"
+  },
+
+  {
+    "Key": "InspiredBlade.Name",
+    "enGB": "Inspired Blade",
+    "zhCN": "灵感之刃"
+  },
+
+  {
+    "Key": "InspiredBlade.Description",
+    "enGB": "An inspired blade is both a force of personality and a sage of swordplay dedicated to the perfection of combat with the rapier. They use the science and geometry with swordplay to beautiful and deadly effect.",
+    "zhCN": "灵感之刃同时注重人格和智慧的力量，他们专注于完美使用刺剑作战的武艺。他们用科学和几何学来使自己的剑术同时有着美丽和致命的效果。"
+  },
+
+  {
+    "Key": "InspiredPanache.Name",
+    "enGB": "Inspired Panache",
+    "zhCN": "灵感派头"
+  },
+
+  {
+    "Key": "InspiredPanache.Description",
+    "enGB": "Each day, an inspired blade gains a number of panache points equal to her Charisma modifier (minimum 1) plus her Intelligence modifier (minimum 1), instead of just her Charisma modifier.\n Unlike other swashbucklers, an inspired blade regains no panache from scoring a killing blow. She regains panache only from scoring a critical hit with a rapier.",
+    "zhCN": "每天，一名灵感之刃斗湖获得等同于他的魅力调整值（至少为1）和智力调整值（至少为1）之和的时髦值，而非仅仅等于魅力调整值的时髦值。\n和其他游荡剑客不同，灵感之刃不会在杀死敌人时回复时髦值。他只会在使用刺剑造成重击时回复时髦值。
+"
+  },
+
+  {
+    "Key": "InspiredFinesse.Name",
+    "enGB": "Inspired Finesse",
+    "zhCN": "巧手灵感"
+  },
+
+  {
+    "Key": "InspiredFinesse.Description",
+    "enGB": "At 1st level, an inspired blade gains the benefits of Weapon Finesse with the rapier (this ability counts as having the Weapon Finesse feat for the purpose of meeting feat prerequisites) and gains Weapon Focus (rapier) as a bonus feat.",
+    "zhCN": "在1级时，一名灵感之刃会在使用刺剑时获得武器娴熟专长的好处（这个职业能力在满足其他专长的前提条件时视作“武器娴熟”专长。），除此之外，他还会获得武器专攻（刺剑）作为额外专长。"
+  },
+
+  {
+    "Key": "InspiredStrike.Name",
+    "enGB": "Inspired Strike",
+    "zhCN": "灵感打击"
+  },
+
+  {
+    "Key": "InspiredStrike.Description",
+    "enGB": "At 11th level, an inspired blade can spend 1 panache point when making an attack with a rapier to gain an insight bonus on that attack roll equal to her Intelligence modifier (minimum +1). When an inspired blade hits with an attack augmented by inspired strike, she can spend 1 additional panache point to make the hit a critical threat, though if she does so, she does not regain panache if she confirms that critical threat. The cost of this deed cannot be reduced by abilities such as Signature Deed.",
+    "zhCN": "在11级时，一名灵感之刃可以花费1点时髦值来在使用细剑进行攻击时获得等同于他的智力调整值（至少为1）的洞察加值。当一名灵感之刃使用灵感打击成功命中目标时，他可以额外花费1点时髦值使这次攻击造成重击威胁。如果他这么做了，这次重击确认时不会使他回复时髦值。该炫技的时髦值消耗不能通过类似标志动作专长这样的能力减少。"
+  },
+
+  {
+    "Key": "InspiredStrikeAbility.Description",
+    "enGB": "An inspired blade can spend 1 panache point when making an attack with a rapier to gain an insight bonus on that attack roll equal to her Intelligence modifier (minimum +1).",
+    "zhCN": "一名灵感之刃可以花费1点时髦值来在使用细剑进行攻击时获得等同于他的智力调整值（至少为1）的洞察加值。"
+  },
+
+  {
+    "Key": "InspiredStrikeCritAbility.Name",
+    "enGB": "Inspired Strike (Critical)",
+    "zhCN": "灵感打击（重击）"
+  },
+
+  {
+    "Key": "InspiredStrikeCritAbility.Description",
+    "enGB": "When an inspired blade hits with an attack augmented by inspired strike, she can spend 1 additional panache point to make the hit a critical threat, though if she does so, she does not regain panache if she confirms that critical threat.",
+    "zhCN": "当一名灵感之刃使用灵感打击成功命中目标时，他可以额外花费1点时髦值使这次攻击造成重击威胁。如果他这么做了，这次重击确认时不会使他回复时髦值。该炫技的时髦值消耗不能通过类似标志动作专长这样的能力减少。"
+  },
+
+  {
+    "Key": "RTraining.Name",
+    "ProcessTemplates": false,
+    "enGB": "Rapier Training",
+    "zhCN": "刺剑训练"
+  },
+
+  {
+    "Key": "RTraining.Description",
+    "enGB": "At 5th level, an inspired blade gains a +1 bonus on attack rolls and a +2 bonus on damage rolls with rapiers. While wielding a rapier, she gains the benefit of the Improved Critical feat. These attack and damage bonuses increase by 1 for every 4 levels beyond 5th (to a maximum of +4 on attack rolls and +5 on damage rolls at 17th level).",
+    "zhCN": "在5级时，灵感之刃在使用刺剑时在攻击检定获得+1加值，并在伤害检定上获得+2加值。除此以外，当使用刺剑时，灵感之刃还会获得精通重击专长的效果。这个加值在5级后的每4级会额外加1（最大在17级时达到+4命中和+5伤害）。"
+  },
+
+  {
+    "Key": "RMastery.Name",
+    "ProcessTemplates": false,
+    "enGB": "Rapier Weapon Mastery",
+    "zhCN": "刺剑武器大师"
+  },
+
+  {
+    "Key": "RMastery.Description",
+    "enGB": "At 20th level, when an inspired blade threatens a critical hit with a rapier, that critical hit is automatically confirmed. Furthermore, the critical threat range increases by 1 (this increase to the critical threat range stacks with the increase from rapier training, to a total threat range of 14–20), and the critical modifier of the weapon increases by 1 (×2 becomes ×3, for example).",
+    "zhCN": "在20级时，一名灵感之刃在使用刺剑造成重击威胁时，重击确认自动成功。额外地，灵感之刃使用细剑时重击范围增加1（这个增加会与刺剑训练能力叠加，因此最终的重击范围为14-20），并且重击时的伤害倍数将会额外加1（如X2会变为X3）。"
   }
 ]
