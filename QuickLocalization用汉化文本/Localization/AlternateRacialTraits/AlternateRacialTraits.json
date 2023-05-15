@@ -1,0 +1,182 @@
+[
+ {
+    "Key": "AlternateRacialTraits.Features.Human.AdoptiveParentage.Description",
+    "ProcessTemplates": false,
+    "zhCN": "选择一种不具备人类亚种的{g|Encyclopedia:Race}种族{/g}。你使用该种族的起始语言以及武器熟悉种族特性。如果该种族没有武器熟悉，你以奖励{g|Encyclopedia:Feat}专长{/g}的形式获得一种和该种族风格相符的“技能专攻”或者“武器专攻”。本特性替换人类的奖励专长"
+  },
+  {
+    "Key": "AlternateRacialTraits.Features.Human.AdoptiveParentage.DisplayName",
+    "ProcessTemplates": false,
+    "zhCN": "养子"
+  },
+  {
+    "Key": "AlternateRacialTraits.Features.RacialWeaponFamiliarities.Halfling.DisplayName",
+    "ProcessTemplates": false,
+    "zhCN": "半身人武器熟练"
+  },
+  {
+    "Key": "AlternateRacialTraits.Features.RacialWeaponFamiliarities.Halfling.Description",
+    "ProcessTemplates": false,
+    "zhCN": "半身人擅长使用投石杖，并将任何名字中带有“半身人”的武器视作{g|Encyclopedia:Weapon_Proficiency}军用武器{/g}。"
+  },
+  {
+    "Key": "AlternateRacialTraits.Features.RacialWeaponFamiliarities.Gnome.DisplayName",
+    "ProcessTemplates": false,
+    "zhCN": "侏儒武器熟练"
+  },
+  {
+    "Key": "AlternateRacialTraits.Features.RacialWeaponFamiliarities.Gnome.Description",
+    "ProcessTemplates": false,
+    "zhCN": "侏儒将任何名字中带有“侏儒”的武器视作{g|Encyclopedia:Weapon_Proficiency}军用武器{/g}。"
+  }, 
+  {
+    "Key": "AlternateRacialTraits.Features.Human.DualTalent.DisplayName",
+    "ProcessTemplates": false,
+    "zhCN": "双重天赋"
+  },
+  {
+    "Key": "AlternateRacialTraits.Features.Human.DualTalent.Description",
+    "ProcessTemplates": false,
+    "zhCN": "某些人类熟练于最大程度发挥自己的天赋，他们选择两项{g|Encyclopedia:Ability_Scores}属性{/g}获得+2种族{g|Encyclopedia:Bonus}加值{/g}。该特性会取代单项属性+2，奖励专长以及奖励技能。"
+  },
+  {
+    "Key": "AlternateRacialTraits.Features.Human.DualTalent.DisplayName.DualTalentStrength",
+    "ProcessTemplates": false,
+    "zhCN": "双重天赋力量"
+  },
+  {
+    "Key": "AlternateRacialTraits.Features.Human.DualTalent.DisplayName.DualTalentDexterity",
+    "ProcessTemplates": false,
+    "zhCN": "双重天赋敏捷"
+  },
+  {
+    "Key": "AlternateRacialTraits.Features.Human.DualTalent.DisplayName.DualTalentConstitution",
+    "ProcessTemplates": false,
+    "zhCN": "双重天赋体质"
+  },
+  {
+    "Key": "AlternateRacialTraits.Features.Human.DualTalent.DisplayName.DualTalentIntelligence",
+    "ProcessTemplates": false,
+    "zhCN": "双重天赋智力"
+  },
+  {
+    "Key": "AlternateRacialTraits.Features.Human.DualTalent.DisplayName.DualTalentWisdom",
+    "ProcessTemplates": false,
+    "zhCN": "双重天赋感知"
+  },
+  {
+    "Key": "AlternateRacialTraits.Features.Human.DualTalent.DisplayName.DualTalentCharisma",
+    "ProcessTemplates": false,
+    "zhCN": "双重天赋魅力"
+  },
+  {
+    "Key": "AlternateRacialTraits.Features.Human.AwarenessFeature.DisplayName",
+    "ProcessTemplates": false,
+    "zhCN": "洞察"
+  },
+  {
+    "Key": "AlternateRacialTraits.Features.Human.AwarenessFeature.Description",
+    "ProcessTemplates": false,
+    "zhCN": "在所有的{g|Encyclopedia:Saving_Throw}豁免检定{/g}和{g|Encyclopedia:Concentration}专注检定{/g}上获得+1种族{g|Encyclopedia:Bonus}加值{/g}。本特性替换人类的奖励专长。"
+  },
+  {
+    "Key": "AlternateRacialTraits.Features.Human.ComprehensiveEducation.DisplayName",
+    "ProcessTemplates": false,
+    "zhCN": "素质教育"
+  },
+  {
+    "Key": "AlternateRacialTraits.Features.Human.ComprehensiveEducation.Description",
+    "ProcessTemplates": false,
+    "zhCN": "在熟练教师的帮助下成长的人类，会充分利用数百年文明中获得的大量知识。将所有知识技能视为{g|Encyclopedia:Skills}本职技能{/g}，并在所有他们通过职业等级获得作为本职技能的知识技能{g|Encyclopedia:Check}检定{/g}上获得+1种族加值。本特性替换奖励技能。"
+  },
+  {
+    "Key": "AlternateRacialTraits.Features.Human.FocusedStudyProgression.DisplayName",
+    "ProcessTemplates": false,
+    "zhCN": "精研"
+  },
+  {
+    "Key": "AlternateRacialTraits.Features.Human.FocusedStudyProgression.Description",
+    "ProcessTemplates": false,
+    "zhCN": "所有的人都多才多艺，但有些人不是通才，而是专精于某项{g|Encyclopedia:Skills}技能{/g}。在1级、8级以及16级时，选择一项技能，获得该技能的“技能专攻”专长。这个种族特性取代奖励专长。"
+  },
+  {
+    "Key": "AlternateRacialTraits.Features.Human.GiantAncestry.DisplayName",
+    "ProcessTemplates": false,
+    "zhCN": "巨人祖先"
+  },
+  {
+    "Key": "AlternateRacialTraits.Features.Human.GiantAncestry.Description",
+    "ProcessTemplates": false,
+    "zhCN": "拥有食人魔或巨魔血统的人类最终拥有笨重的身材和不协调的特征。在{g|Encyclopedia:Combat_Maneuvers}战技检定{/g}和{g|Encyclopedia:CMD}CMD{/g}上获得+1{g|Encyclopedia:Bonus}加值{/g}，但在隐匿检定上受到-2{g|Encyclopedia:Penalty}减值{/g}，这个种族特性取代奖励技能。"
+  },
+  {
+    "Key": "AlternateRacialTraits.Features.Human.HumanBonusFeat.DisplayName",
+    "ProcessTemplates": false,
+    "zhCN": "奖励专长"
+  },
+  {
+    "Key": "AlternateRacialTraits.Features.Human.HumanBonusFeat.Description",
+    "ProcessTemplates": false,
+    "zhCN": "人类在1级时选择一个额外{g|Encyclopedia:Feat}专长{/g}。"
+  },
+  {
+    "Key": "AlternateRacialTraits.Features.Human.HumanFeatureSelection.DisplayName",
+    "ProcessTemplates": false,
+    "zhCN": "种族替换特性"
+  },
+  {
+    "Key": "AlternateRacialTraits.Features.Human.HumanFeatureSelection.Description",
+    "ProcessTemplates": false,
+    "zhCN": "有以下种族特性可选"
+  },
+  {
+    "Key": "AlternateRacialTraits.Features.Human.NoAdditionalTraits.DisplayName",
+    "ProcessTemplates": false,
+    "zhCN": "不替换种族特性"
+  },
+  {
+    "Key": "AlternateRacialTraits.Features.Human.NoAdditionalTraits.Description",
+    "ProcessTemplates": false,
+    "zhCN": "不替换种族特性"
+  },
+  {
+    "Key": "AlternateRacialTraits.Features.Human.MilitaryTradition.DisplayName",
+    "ProcessTemplates": false,
+    "zhCN": "战斗民族"
+  },
+  {
+    "Key": "AlternateRacialTraits.Features.Human.MilitaryTradition.Description",
+    "ProcessTemplates": false,
+    "zhCN": "一些人类文化群体会培养所有儿童（或某一社会阶层的所有儿童）参军训练武力。根据他们的所属文化群体获得最多两件军用或异种武器的{g|Encyclopedia:.Weapon_Proficiency}擅长{/g}。本特性替换人类的奖励专长。"
+  },
+  {
+    "Key": "AlternateRacialTraits.Features.WeaponProficiencySelections.MartialWeaponProficiencyDisplayName",
+    "ProcessTemplates": false,
+    "zhCN": "擅长军用武器"
+  },
+  {
+    "Key": "AlternateRacialTraits.Features.WeaponProficiencySelections.MartialWeaponProficiencyDescription",
+    "ProcessTemplates": false,
+    "zhCN": "选择一种军用武器获得其擅长"
+  },
+  {
+    "Key": "AlternateRacialTraits.Features.Human.PracticedHunter.DisplayName",
+    "ProcessTemplates": false,
+    "zhCN": "老练猎手"
+  },
+  {
+    "Key": "AlternateRacialTraits.Features.Human.PracticedHunter.Description",
+    "ProcessTemplates": false,
+    "zhCN": "在隐匿和学识（自然）{g|Encyclopedia:Check}检定{/g}上获得+2种族{g|Encyclopedia:Bonus}加值{/g}，并且隐匿和学识（自然）被他们视为本职技能。本特性替换奖励技能。"
+  },
+  {
+    "Key": "AlternateRacialTraits.Features.Human.UnstoppableMagic.DisplayName",
+    "ProcessTemplates": false,
+    "zhCN": "法力澎湃"
+  },
+  {
+    "Key": "AlternateRacialTraits.Features.Human.UnstoppableMagic.Description",
+    "ProcessTemplates": false,
+    "zhCN": "来自建立在高级魔法基础上的文明的人类会受到各种方式的教育，以实现他们的魔法追求。在穿透法术抗力的{g|Encyclopedia:Caster_Level}施法者等级{/g}{g|Encyclopedia:Check}检定{/g}上获得+2种族{g|Encyclopedia:Bonus}加值{/g}。本特性替换人类的奖励专长。"
+  },
+]
