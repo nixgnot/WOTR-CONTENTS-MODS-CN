@@ -560,7 +560,7 @@
   {
     "Key": "InspiredPanache.Description",
     "enGB": "Each day, an inspired blade gains a number of panache points equal to her Charisma modifier (minimum 1) plus her Intelligence modifier (minimum 1), instead of just her Charisma modifier.\n Unlike other swashbucklers, an inspired blade regains no panache from scoring a killing blow. She regains panache only from scoring a critical hit with a rapier.",
-    "zhCN": "每天，一名灵感之刃斗湖获得等同于他的魅力调整值（至少为1）和智力调整值（至少为1）之和的时髦值，而非仅仅等于魅力调整值的时髦值。\n和其他游荡剑客不同，灵感之刃不会在杀死敌人时回复时髦值。他只会在使用刺剑造成重击时回复时髦值。"
+    "zhCN": "每天，一名灵感之刃都会获得等同于他的魅力调整值（至少为1）和智力调整值（至少为1）之和的时髦值，而非仅仅等于魅力调整值的时髦值。\n和其他游荡剑客不同，灵感之刃不会在杀死敌人时回复时髦值。他只会在使用刺剑造成重击时回复时髦值。"
   },
 
   {
