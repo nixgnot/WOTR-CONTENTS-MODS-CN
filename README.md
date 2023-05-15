@@ -3111,6 +3111,8 @@ C:\Users\你的用户名\AppData\LocalLow\Owlcat Games\Pathfinder Wrath Of The R
 > *修改内容：* <br>
 > *新增内容：* 人类替换种族特性<br>
 + 提供来自规则书的人类可选替换种族特性
+> 重写版：[AlternateRacialTraits](https://github.com/microsoftenator2022/AlternateRacialTraits)
+> 功能一致，优化了代码，但是也不能使用双重天赋获得任意属性+4了，可自行选用
 <table>  
  <tr><th colspan="3">新增内容列表<br></th></tr> 
   <tr><td rowspan="10">种族特性</i></td>
