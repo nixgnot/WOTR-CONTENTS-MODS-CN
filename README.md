@@ -3335,7 +3335,7 @@ C:\Users\你的用户名\AppData\LocalLow\Owlcat Games\Pathfinder Wrath Of The R
        <td>精通擒抱</td>
           <td>你可以进行擒抱</td></tr>
   <tr><td rowspan="1">其他</i></td>
-       <tr><td colspan="2">动物伙伴（狮子）</td>
+       <td colspan="2">动物伙伴（狮子）</td>
   </table>
 --------------------------------------
 
