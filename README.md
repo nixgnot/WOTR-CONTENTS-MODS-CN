@@ -62,6 +62,7 @@
 | [CompanionAscension](#CompanionAscension) | 同伴提升 |  | :heavy_check_mark: | :star: | :file_folder: ||:steam_locomotive:|
 | [SwashbucklerWOTR](#SwashbucklerWOTR) | 游荡剑客 | QL汉化 | :heavy_check_mark: | :star: | :file_folder: |||
 | [SmolCraft](#SmolCraft) | SmolCraft | QL汉化 | :heavy_check_mark: | :star: | :file_folder: |||
+| [EnduringRework](#EnduringRework) | 持久重置 | QL汉化 | :heavy_check_mark: | :star: | :file_folder: |||
 
 备注
 + UMM一栏为是否使用UMM安装
@@ -3321,7 +3322,7 @@ C:\Users\你的用户名\AppData\LocalLow\Owlcat Games\Pathfinder Wrath Of The R
 > *前置：* 无<br>
 > *中文：* **QL汉化**<br>
 > *安装方式：* **UMM**<br>
-> *新增内容：* 游荡剑客<br>
+> *新增内容：* 神话能力。专长，动物伙伴<br>
 + Discord发布，早期版本，自行承担风险。本文档[Release页面](https://github.com/nixgnot/WOTR-CONTENTS-MODS-CN/releases)处可下载（SmolCraft.zip）
 
  <table>
@@ -3337,6 +3338,24 @@ C:\Users\你的用户名\AppData\LocalLow\Owlcat Games\Pathfinder Wrath Of The R
   <tr><td rowspan="1">其他</i></td>
        <td colspan="2">动物伙伴（狮子）</td>
   </table>
+  
+--------------------------------------
+### [EnduringRework](https://github.com/alterasc/EnduringRework)
+> *前置：* 无<br>
+> *中文：* **QL汉化**<br>
+> *安装方式：* **UMM**<br>
+> *修改内容：* 持久法术和高等持久法术<br>
++ 修改神话能力持久法术和高等持久法术的机制
+
+ <table>
+ <tr><th colspan="3">修改内容列表<br></th></tr> 
+  <tr><td rowspan="2">神话能力</i></td>
+       <td>持久法术</td>
+          <td>当你对盟友释放应用了延时超魔的法术时，如果其效果持续时间本应超过1小时但是低于24小时，现在持续24小时。<br>本应超过10分钟（但是不超过1小时）的效果现在持续1小时。<br>本应超过1分钟（但是不超过10分钟）的效果现在持续10分钟 。</td></tr>
+       <tr><td>高等持久法术</td>
+          <td>除原本效果外，现在当你对盟友释放应用了延时超魔的法术时，持续时间本应超过1小时的效果变为永久效果。</td></tr>
+  </table>
+  
 --------------------------------------
 
 ### 功能MOD索引
