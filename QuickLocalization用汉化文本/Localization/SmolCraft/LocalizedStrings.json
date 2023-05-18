@@ -1,54 +1,50 @@
 [
   {
     "Key": "MundaneBeating.Name",
-    // Don't process this since it is just a name. Without this it might create strange artifacts by trying to create
-    // links to encycolpedia pages.
     "ProcessTemplates": false,
-    "zhCN": "Æ½·²ÖØ»÷"
+    "zhCN": "å¹³å‡¡é‡å‡»"
   },
-
   {
     "Key": "MundaneBeating.Description",
-    "zhCN": "ÄãµÄ·ÇÖØ»÷¹¥»÷±äµÃ²»Ñ°³£µÄÇ¿´ó¡£\Ğ§¹û£ºÄãµÄ·ÇÖØ»÷¹¥»÷Ôì³É¶îÍâÉËº¦£¬ÈçÍ¬Æä³ß´çÔö´óÒ»¼¶¡£"
+    "zhCN": "ä½ çš„éé‡å‡»æ”»å‡»å˜å¾—ä¸å¯»å¸¸çš„å¼ºå¤§ã€‚\næ•ˆæœï¼šä½ çš„éé‡å‡»æ”»å‡»é€ æˆé¢å¤–ä¼¤å®³ï¼Œå¦‚åŒå…¶å°ºå¯¸å¢å¤§ä¸€çº§ã€‚"
   },
 
   {
     "Key": "ArchdruidArmor.Name",
-    // Don't process this since it is just a name. Without this it might create strange artifacts by trying to create
-    // links to encycolpedia pages.
     "ProcessTemplates": false,
-    "zhCN": "´óµÂÂ³ÒÁ»¤¼×"
+    "zhCN": "å¤§å¾·é²ä¼ŠæŠ¤ç”²"
   },
-
   {
     "Key": "ArchdruidArmor.Description",
-    "zhCN": "Äã³ÉÎª¾«ÉÃÊ÷·ô·¨ÊõµÄ´óÊ¦ ¡£/Ğ§¹û£ºÄã¶Ô×Ô¼ºÊ©·ÅµÄ·¨Ê¦»¤¼×¿ÉÌá¹©µÈÓÚÄãµÄÉñ»°½×²ãµÄÌìÉú·ÀÓù¼ÓÖµ¡£"
-
+    "zhCN": "ä½ æˆä¸ºç²¾æ“…æ ‘è‚¤æ³•æœ¯çš„å¤§å¸ˆ ã€‚\næ•ˆæœï¼šä½ å¯¹è‡ªå·±æ–½æ”¾çš„æ³•å¸ˆæŠ¤ç”²å¯æä¾›ç­‰äºä½ çš„ç¥è¯é˜¶å±‚çš„å¤©ç”Ÿé˜²å¾¡åŠ å€¼ã€‚"
   },
   {
     "Key": "BaseGrappleFeature.Name",
-    // Don't process this since it is just a name. Without this it might create strange artifacts by trying to create
-    // links to encycolpedia pages.
     "ProcessTemplates": false,
-    "zhCN": "¾«Í¨ÇÜ±§"
-
+    "zhCN": "ç²¾é€šæ“’æŠ±"
   },
-
   {
     "Key": "BaseGrappleFeature.Description",
-    "zhCN": "Äã¿ÉÒÔ½øĞĞÇÜ±§¡£"
+    "zhCN": "ä½ å¯ä»¥è¿›è¡Œæ“’æŠ±ã€‚"
   },
-
+  {
+    "Key": "BaseGrappleBuff.Name",
+    "ProcessTemplates": false,
+    "zhCN": "ç²¾é€šæ“’æŠ±"
+  },
+  {
+    "Key": "BaseGrappleAbility.Name",
+    "ProcessTemplates": false,
+    "zhCN": "ç²¾é€šæ“’æŠ±"
+  },
   {
     "Key": "Lion.Name",
     "ProcessTemplates": false,
 
-    "zhCN": "¶¯Îï»ï°é£¨Ê¨×Ó£©"
+    "zhCN": "åŠ¨ç‰©ä¼™ä¼´ï¼ˆç‹®å­ï¼‰"
   },
-
-
   {
     "Key": "Lion.Description",
-    "zhCN": "Ò»Ö»´óÃ¨¡£"
+    "zhCN": "ä¸€åªå¤§çŒ«ã€‚"
   }
 ]
