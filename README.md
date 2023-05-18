@@ -61,6 +61,7 @@
 | [随军神父](#随军神父) | 随军神父 | 自带 | :heavy_check_mark: | :star: | :file_folder: |||
 | [CompanionAscension](#CompanionAscension) | 同伴提升 |  | :heavy_check_mark: | :star: | :file_folder: ||:steam_locomotive:|
 | [SwashbucklerWOTR](#SwashbucklerWOTR) | 游荡剑客 | QL汉化 | :heavy_check_mark: | :star: | :file_folder: |||
+| [SmolCraft](#SmolCraft) | SmolCraft | QL汉化 | :heavy_check_mark: | :star: | :file_folder: |||
 
 备注
 + UMM一栏为是否使用UMM安装
@@ -3314,6 +3315,27 @@ C:\Users\你的用户名\AppData\LocalLow\Owlcat Games\Pathfinder Wrath Of The R
 > *安装方式：* **UMM**<br>
 > *新增内容：* 游荡剑客<br>
 + 增加基础职业游荡剑客
+
+--------------------------------------
+### [SmolCraft]
+> *前置：* 无<br>
+> *中文：* **QL汉化**<br>
+> *安装方式：* **UMM**<br>
+> *新增内容：* 游荡剑客<br>
++ Discord发布，早期版本，自行承担风险。本文档[Release页面](https://github.com/nixgnot/WOTR-CONTENTS-MODS-CN/releases)处可下载（SmolCraft.zip）
+
+ <tr><th colspan="3">新增内容列表<br></th></tr> 
+  <tr><td rowspan="2">神话能力</i></td>
+       <td>平凡重击</td>
+          <td>你的非重击攻击造成额外伤害，如同其尺寸增大一级。</td></tr>
+       <tr><td>大德鲁伊护甲</td>
+          <td>你对自己施放的法师护甲可提供等于你的神话阶层的天生防御加值。</td></tr>
+  <tr><td rowspan="1">专长</i></td>
+       <tr><td>精通擒抱</td>
+          <td>你可以进行擒抱</td></tr>
+  <tr><td rowspan="1">其他</i></td>
+       <tr><td colspan="2">动物伙伴（狮子）</td>
+  </table>
 --------------------------------------
 
 ### 功能MOD索引
