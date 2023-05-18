@@ -3317,13 +3317,14 @@ C:\Users\你的用户名\AppData\LocalLow\Owlcat Games\Pathfinder Wrath Of The R
 + 增加基础职业游荡剑客
 
 --------------------------------------
-### [SmolCraft]
+### SmolCraft
 > *前置：* 无<br>
 > *中文：* **QL汉化**<br>
 > *安装方式：* **UMM**<br>
 > *新增内容：* 游荡剑客<br>
 + Discord发布，早期版本，自行承担风险。本文档[Release页面](https://github.com/nixgnot/WOTR-CONTENTS-MODS-CN/releases)处可下载（SmolCraft.zip）
 
+ <table>
  <tr><th colspan="3">新增内容列表<br></th></tr> 
   <tr><td rowspan="2">神话能力</i></td>
        <td>平凡重击</td>
