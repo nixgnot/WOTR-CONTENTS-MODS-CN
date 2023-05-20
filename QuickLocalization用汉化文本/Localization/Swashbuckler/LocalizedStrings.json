@@ -184,7 +184,7 @@
   {
     "Key": "SwashParry.Description",
     "enGB": "At 1st level, when an opponent makes a melee attack against the swashbuckler, she can spend 1 panache point and expend a use of an attack of opportunity to attempt to parry that attack. The swashbuckler makes an attack roll as if she were making an attack of opportunity; for each size category the attacking creature is larger than the swashbuckler, the swashbuckler takes a –2 penalty on this roll. If her result is greater than the attacking creature’s result, the creature’s attack automatically misses. The swashbuckler must declare the use of this ability after the creature’s attack is announced, but before its attack roll is made. Upon performing a successful parry and if she has at least 1 panache point, the swashbuckler can as an immediate action make an attack against the creature whose attack she parried, provided that creature is within her reach. This deed’s cost cannot be reduced by any ability or effect that reduces the number of panache points a deed costs.",
-    "zhCN": "1级时，当一名敌人向游荡剑客发动近战攻击时，她可以花费1点时髦值并使用一次机会攻击的次数来尝试格挡这次攻击。游荡剑客就如同进行一次机会攻击一般做一次攻击检定。如果她的攻击高于对方的攻击，则这次攻击自动失手。发动攻击的生物每比游荡剑客大一个体形，游荡剑客在这次攻击中都会承受-2的罚值。游荡剑客必须在敌人宣告发动攻击而尚未投掷攻击骰时使用这个能力。在一名游荡剑客进行了一次成功的格挡后，只要她还有至少1点时髦值，并且那个生物在她的触及范围之内，就可以用直觉动作向被她阻挡了攻击的敌人发动一次攻击。这个能力的消耗无法被任何能力或效果减少。"
+    "zhCN": "1级时，当一名敌人向游荡剑客发动近战攻击时，她可以花费1点时髦值并使用一次借机攻击的次数来尝试格挡这次攻击。游荡剑客就如同进行一次借机攻击一般做一次攻击检定。如果她的攻击高于对方的攻击，则这次攻击自动失手。发动攻击的生物每比游荡剑客大一个体形，游荡剑客在这次攻击中都会承受-2的罚值。游荡剑客必须在敌人宣告发动攻击而尚未投掷攻击骰时使用这个能力。在一名游荡剑客进行了一次成功的格挡后，只要她还有至少1点时髦值，并且那个生物在她的触及范围之内，就可以用直觉动作向被她阻挡了攻击的敌人发动一次攻击。这个能力的消耗无法被任何能力或效果减少。"
   },
 
   {
@@ -225,7 +225,7 @@
     "enGB": "At 3rd level, while she has at least 1 panache point, a swashbuckler gains the ability to strike precisely with a light or one-handed piercing melee weapon (though not natural weapon attacks), adding her swashbuckler level to the damage dealt. To use this deed, a swashbuckler cannot attack with a weapon in her other hand or use a shield other than a buckler. She can even use this ability with thrown light or one-handed piercing melee weapons, so long as the target is within 30 feet of her. Any creature that is immune to sneak attacks is immune to the additional damage granted by precise strike, and any item or ability that protects a creature from critical hits also protects a creature from the additional damage of a precise strike. This additional damage is precision damage, and isn’t multiplied on a critical hit. As a swift action, a swashbuckler can spend 1 panache point to double her precise strike’s damage bonus on the next attack. This benefit must be used before the end of her turn, or it is lost. This deed’s cost cannot be reduced by any ability or effect that reduces the amount of panache points a deed costs (such as the Signature Deed feat).",
     "zhCN": "3级时，只要游荡剑客拥有至少1点时髦值，在使用轻型或单手穿刺类近战武器（不能是天生武器）进行攻击时，游荡剑客将她的游荡剑客等级加到伤害上。使用精确刺击时，游荡剑客不能使用另一只手持用武器攻击或持用小圆盾以外的盾牌。另外，只要敌人在距离游荡剑客30尺以内，她还能将精确刺击能力用于轻型或单手穿刺类投掷武器上。任意免疫重击的生物都不受精确刺击影响，并且任意可以防止重击的物品或能力也可以保护生物不受影响。精确刺击造成的额外伤害是精准伤害，因此不能因为重击而翻倍。使用1个迅捷动作，一名游荡剑客可以花费1点时髦值使她的下一次精确刺击伤害翻倍。这次攻击必须在她的回合结束前进行，否则就会失去这个效果。此壮举消耗的时髦值点数，无法通过任何降低时髦值消耗的能力或效果（如标志动作专长）所降低。"
   },
-  
+
   {
     "Key": "PreciseAbility.Description",
     "enGB": "As a swift action, a swashbuckler can spend 1 panache point to double her precise strike’s damage bonus on the next attack. This benefit must be used before the end of her turn, or it is lost. This deed’s cost cannot be reduced by any ability or effect that reduces the amount of panache points a deed costs (such as the Signature Deed feat).",
@@ -265,15 +265,15 @@
   },
 
   {
-    "Key": "Feint.Name",
+    "Key": "FeintDebuff.Name",
     "ProcessTemplates": false,
     "enGB": "Feinted",
     "zhCN": "佯攻"
   },
 
   {
-    "Key": "Feint.Description",
-    "enGB": "Denied Dexterity Bonus to AC.",
+    "Key": "FeintDebuff.Description",
+    "enGB": "Denied Dexterity Bonus to AC against melee attacks.",
     "zhCN": "失去AC上的敏捷加值。"
   },
 
@@ -572,7 +572,7 @@
   {
     "Key": "InspiredFinesse.Description",
     "enGB": "At 1st level, an inspired blade gains the benefits of Weapon Finesse with the rapier (this ability counts as having the Weapon Finesse feat for the purpose of meeting feat prerequisites) and gains Weapon Focus (rapier) as a bonus feat.",
-    "zhCN": "在1级时，一名灵感之刃会在使用刺剑时获得武器娴熟专长的好处（这个职业能力在满足其他专长的前提条件时视作“武器娴熟”专长。），除此之外，他还会获得武器专攻（刺剑）作为额外专长。"
+    "zhCN": "1级时，一名灵感之刃会在使用刺剑时获得武器娴熟专长的好处（这个职业能力在满足其他专长的前提条件时视作“武器娴熟”专长。），除此之外，他还会获得武器专攻（刺剑）作为额外专长。"
   },
 
   {
@@ -584,7 +584,7 @@
   {
     "Key": "InspiredStrike.Description",
     "enGB": "At 11th level, an inspired blade can spend 1 panache point when making an attack with a rapier to gain an insight bonus on that attack roll equal to her Intelligence modifier (minimum +1). When an inspired blade hits with an attack augmented by inspired strike, she can spend 1 additional panache point to make the hit a critical threat, though if she does so, she does not regain panache if she confirms that critical threat. The cost of this deed cannot be reduced by abilities such as Signature Deed.",
-    "zhCN": "在11级时，一名灵感之刃可以花费1点时髦值来在使用细剑进行攻击时获得等同于他的智力调整值（至少为1）的洞察加值。当一名灵感之刃使用灵感打击成功命中目标时，他可以额外花费1点时髦值使这次攻击造成重击威胁。如果他这么做了，这次重击确认时不会使他回复时髦值。该炫技的时髦值消耗不能通过类似标志动作专长这样的能力减少。"
+    "zhCN": "11级时，一名灵感之刃可以花费1点时髦值来在使用细剑进行攻击时获得等同于他的智力调整值（至少为1）的洞察加值。当一名灵感之刃使用灵感打击成功命中目标时，他可以额外花费1点时髦值使这次攻击造成重击威胁。如果他这么做了，这次重击确认时不会使他回复时髦值。该炫技的时髦值消耗不能通过类似标志动作专长这样的能力减少。"
   },
 
   {
@@ -615,7 +615,7 @@
   {
     "Key": "RTraining.Description",
     "enGB": "At 5th level, an inspired blade gains a +1 bonus on attack rolls and a +2 bonus on damage rolls with rapiers. While wielding a rapier, she gains the benefit of the Improved Critical feat. These attack and damage bonuses increase by 1 for every 4 levels beyond 5th (to a maximum of +4 on attack rolls and +5 on damage rolls at 17th level).",
-    "zhCN": "在5级时，灵感之刃在使用刺剑时在攻击检定获得+1加值，并在伤害检定上获得+2加值。除此以外，当使用刺剑时，灵感之刃还会获得精通重击专长的效果。这个加值在5级后的每4级会额外加1（最大在17级时达到+4命中和+5伤害）。"
+    "zhCN": "5级时，灵感之刃在使用刺剑时在攻击检定获得+1加值，并在伤害检定上获得+2加值。除此以外，当使用刺剑时，灵感之刃还会获得精通重击专长的效果。这个加值在5级后的每4级会额外加1（最大在17级时达到+4命中和+5伤害）。"
   },
 
   {
@@ -628,6 +628,162 @@
   {
     "Key": "RMastery.Description",
     "enGB": "At 20th level, when an inspired blade threatens a critical hit with a rapier, that critical hit is automatically confirmed. Furthermore, the critical threat range increases by 1 (this increase to the critical threat range stacks with the increase from rapier training, to a total threat range of 14–20), and the critical modifier of the weapon increases by 1 (×2 becomes ×3, for example).",
-    "zhCN": "在20级时，一名灵感之刃在使用刺剑造成重击威胁时，重击确认自动成功。额外地，灵感之刃使用细剑时重击范围增加1（这个增加会与刺剑训练能力叠加，因此最终的重击范围为14-20），并且重击时的伤害倍数将会额外加1（如X2会变为X3）。"
+    "zhCN": "20级时，一名灵感之刃在使用刺剑造成重击威胁时，重击确认自动成功。额外地，灵感之刃使用细剑时重击范围增加1（这个增加会与刺剑训练能力叠加，因此最终的重击范围为14-20），并且重击时的伤害倍数将会额外加1（如X2会变为X3）。"
+  },
+
+  {
+    "Key": "Feint.Name",
+    "ProcessTemplates": false,
+    "enGB": "Feint",
+    "zhCN": "虚招"
+  },
+
+  {
+    "Key": "Feint.Description",
+    "enGB": "You can attempt to feint against an enemy in melee as a move action. To feint, make a Bluff skill check. The DC of this check is equal to 10 + your opponent’s base attack bonus + your opponent’s Wisdom modifier.\n If successful, the enemy is denied its Dexterity bonus to AC against your next attack on or before its next turn.\n If you have Greater Feint, the enemy is denied its Dexterity bonus to AC until its next turn.",
+    "zhCN": "你能够尝试使用移动动作对对手发动虚招。使用虚招时，进行一次唬骗技能检定，虚招的DC为“10+目标BAB+感知修正”。\n如果你成功地使用了虚招，目标将在对抗你的下一次近战攻击时或者直到其下一轮前（取较先发生者），无法在AC上获得自己的敏捷加值。\n如果拥有高等虚招，敌人直到其下一轮前失去其AC上的敏捷加值。"
+  },
+
+  {
+    "Key": "GFeint.Name",
+    "ProcessTemplates": false,
+    "enGB": "Greater Feint",
+    "zhCN": "高等虚招"
+  },
+
+  {
+    "Key": "GFeint.Description",
+    "enGB": "Whenever you use feint to cause an opponent to lose their Dexterity bonus, they lose that bonus for one turn.",
+    "zhCN": "当你使用虚招使得敌人失去其AC上的敏捷加值时，效果持续到其下一轮。"
+  },
+
+  {
+    "Key": "Swordplay.Name",
+    "ProcessTemplates": false,
+    "enGB": "Swordplay Style",
+    "zhCN": "刺剑流"
+  },
+
+  {
+    "Key": "Swordplay.Description",
+    "enGB": "While using this style and wielding a weapon from the heavy blades or light blades fighter weapon groups and fighting defensively or using the Combat Expertise feat, you gain a +1 shield bonus to your Armor Class. In addition, you do not take the penalty on melee attacks from Combat Expertise on the first attack roll you make each turn. You still take the penalty on additional attacks, including attacks of opportunity.",
+    "zhCN": "当你开启此流派架势时，如果你持有重刃或轻刃战士武器组中的武器，进行防御式战斗或使用寓守于攻时，那么你会在防御等级上获得+1盾牌加值。除此之外，你在使用寓守于攻专长时每轮发动的第一次近战攻击不会因为使用寓守于攻而承受减值。你本轮的其他攻击，包括藉机攻击，仍然会承受正常减值。"
+  },
+
+  {
+    "Key": "SwordplayUpset.Name",
+    "ProcessTemplates": false,
+    "enGB": "Swordplay Upset",
+    "zhCN": "刺剑闪"
+  },
+
+  {
+    "Key": "SwordplayUpset.Description",
+    "enGB": "While using Swordplay Style, you can attempt a feint against an opponent that makes a melee attack against you and misses.",
+    "zhCN": "当开启刺剑流架势时，你可以在一个敌人对你近战攻击失手时对他发动一次虚招。"
+  },
+
+  {
+    "Key": "Azatariel.Name",
+    "ProcessTemplates": false,
+    "enGB": "Azatariel",
+    "zhCN": "灵使剑客"
+  },
+
+  {
+    "Key": "Azatariel.Description",
+    "enGB": "Azatariels are the champions of Elysium, dedicated to spreading its unpredictable whimsy and capricious goodness across the planes. Irrepressible and happy-golucky even in the face of the most tyrannical devil, azatariels take their name from the azatas that they emulate. In battle, azatariels exult in darting among their foes, heedless of danger. Mastery of combat’s chaos allows azatariels to turn enemies’ strikes against each other, while supernatural good fortune protects them from dire afflictions. When allies falter with fear or suffer the effects of dark magic, a compassionate gesture from an azatariel cures their ills and spurs them onward.",
+    "zhCN": "灵使剑客是极乐世界的拥护者，致力于将他们的奇思妙想和任性的善良传播到各个位面。即使面对最残暴的魔鬼，灵使剑客也不为所动，仍然快乐而勇敢，他们的名字来源于他们所模仿的灵使天族。在战斗中，灵使剑客不顾危险，在敌人间恣意奔袭。对混战的熟悉让灵使剑客可以将敌人的攻击转向对方，同时超自然的好运保护他们免受可怕的折磨。当盟友因恐惧而动摇或遭受黑魔法的影响时，灵使剑客积极奋进的情感将感染他们，治愈他们的疾病并激励他们前进。"
+  },
+
+  {
+    "Key": "ElysianConviction.Name",
+    "ProcessTemplates": false,
+    "enGB": "Elysian Conviction",
+    "zhCN": "乐土信念"
+  },
+
+  {
+    "Key": "ElysianConviction.Description",
+    "enGB": "At 2nd level, while she has at least 1 panache point, an azatariel adds her Charisma bonus to her saving throws against mind-affecting effects.",
+    "zhCN": "2级起，灵使剑客如果有至少一点时髦值，她可以将她的魅力调整加值加到对抗影响心灵效果的豁免掷骰上。"
+  },
+
+  {
+    "Key": "Affection.Name",
+    "ProcessTemplates": false,
+    "enGB": "Affection of Elysium",
+    "zhCN": "乐土之爱"
+  },
+
+  {
+    "Key": "Affection.Description",
+    "enGB": "An azatariel’s affection relieves harmful afflictions. At 4th level and every 4 levels thereafter, an azatariel selects a mercy from those available to a paladin whose class level is equal to her swashbuckler level. She can show her affection to a willing, adjacent creature as a standard action to apply the effects of these mercies to the targeted creature, treating her swashbuckler level as her paladin level. An azatariel can use this ability a number of times per day equal to half her swashbuckler level plus her Charisma modifier.",
+    "zhCN": "灵使剑客丰富的情感可以感染其他人，以治愈他们的伤痛。在第4级和之后的每4级，灵使剑客可以如同圣武士般选择一种恩惠，以她的游荡剑客等级作为圣武士等级以决定她可选择的恩惠。她可以影响一个临近的自愿生物，以一个标准动作，将这些恩惠的效果应用到目标生物上，将她的游荡剑客等级视为圣骑士等级。灵使剑客每天可以使用这个能力的次数等于她的游荡剑客等级的一半加上她的魅力调整值。"
+  },
+
+  {
+    "Key": "Bralani.Name",
+    "ProcessTemplates": false,
+    "enGB": "Bralani’s Swiftness",
+    "zhCN": "伴风灵使迅突"
+  },
+
+  {
+    "Key": "Bralani.Description",
+    "enGB": "At 3rd level, while the azatariel has at least 1 point of panache, she ignores movement penalties from difficult terrain.",
+    "zhCN": "3级起，只要灵使剑客拥有至少1点时髦值，她就可以无视来自困难地形的移动惩罚。"
+  },
+
+  {
+    "Key": "BattleDance.Name",
+    "ProcessTemplates": false,
+    "enGB": "Battle Dance",
+    "zhCN": "战斗之舞"
+  },
+
+  {
+    "Key": "BattleDance.Description",
+    "enGB": "At 3rd level and every 4 levels thereafter, an azatariel’s base speed increases by 10 feet. This is an enhancement bonus. An azatariel in medium or heavy armor or carrying a medium or heavy load loses this extra speed.",
+    "zhCN": "3级起以及之后每4级，灵使剑客的基本速度增加10尺，这是一个增强加值。当灵使剑客着穿中型或重型盔甲，或当达到中或重载时，将失去这个额外的速度。"
+  },
+
+  {
+    "Key": "Whimsical.Name",
+    "ProcessTemplates": false,
+    "enGB": "Whimsical Riposte",
+    "zhCN": "诡妙还击"
+  },
+
+  {
+    "Key": "Whimsical.Description",
+    "enGB": "At 3rd level, the azatariel adds her Charisma modifier to attack and damage rolls made with light or one-handed piercing weapons as part of her opportune parry and riposte deed (including when riposting). In addition, whenever the azatariel successfully parries an opponent’s attack, instead of riposting she can redirect that attack to another target as an immediate action. The new target must be within the attacker’s reach, and the attacker uses the original attack roll to determine the attack’s success.",
+    "zhCN": "3级时，灵使剑客可以在进行适时格挡反击时，将她的魅力调整值增加到她用轻型或单手穿刺武器做出的攻击检定和伤害骰上，这包括格挡时的攻击检定和格挡成功后反击的攻击检定和伤害检定。此外，当灵使剑客成功格挡来自敌人的攻击时，她可以用直觉动作将攻击重定向至另一个目标而不是进行还击。新目标必须在攻击者的攻击范围内，攻击者使用原始攻击骰的结果来决定命中。"
+  },
+
+  {
+    "Key": "Lillend.Name",
+    "ProcessTemplates": false,
+    "enGB": "Lillend's Misdirection",
+    "zhCN": "恋艺灵使误导"
+  },
+
+  {
+    "Key": "Lillend.Description",
+    "enGB": "At 7th level, when a foe flanking the azatariel misses her with a melee attack, the azatariel can spend 2 panache points as an immediate action to attempt a reposition combat maneuver check against the attacking foe. If she succeeds at the combat maneuver check, she and the attacking foe switch positions, and the melee attack roll that missed the azatariel instead targets the flanking opponent that did not make the attack, using the same attack roll result (including the bonus gained from flanking).",
+    "zhCN": "7级时，当一个敌人夹击灵使剑客近战攻击失手，灵使剑客可以用2点时髦值以一个直觉动作尝试一次复位战技对抗这名敌人。如果她在战技检定中成功，她和攻击对手交换位置，同时该敌人的攻击将会指向提供夹击的另一名敌人，以相同的攻击骰(包括夹击加值)来决定命中。"
+  },
+
+  {
+    "Key": "Ghaele.Name",
+    "ProcessTemplates": false,
+    "enGB": "Ghaele’s Assault",
+    "zhCN": "迦勒灵使突袭"
+  },
+
+  {
+    "Key": "Ghaele.Description",
+    "enGB": "At 11th level, the azatariel can spend 2 panache points when charging. If she does, the AC penalty for charging changes to –4 and she can make a full attack at the end of her charge.",
+    "zhCN": "11级时，灵使剑客在冲锋时可以消耗2点时髦值，以冲锋AC减值提高到-4为代价，在冲锋结束后进行全力攻击。"
   }
 ]
