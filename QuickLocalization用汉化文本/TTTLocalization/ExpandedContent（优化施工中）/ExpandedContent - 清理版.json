@@ -8725,7 +8725,7 @@
       "SimpleName": "OracleRevelationFormOfTheDragonBrass2.Description",
       "ProcessTemplates": true,
       "enGB": "You become a large brass dragon. You gain a +6 size bonus to Strength, a +4 size bonus to Constitution, a +6 form natural armor bonus to AC, immunity to difficult terrain, a fire breath weapon, damage reduction 5/magic, and resistance to fire 20. Your movement speed is increased by 10 feet. You also gain one bite (2d6), two claws (1d8), two wing attacks (1d6), and one tail slap attacks (1d8). You can only use the breath weapon once per casting of this spell. All breath weapons deal 8d8 points of damage and allow a Reflex save for half damage.",
-      "zhCN": "你变成了一条大型黄铜龙。你的力量获得+6体型加值，体质获得+4体型加值，AC获得+6形态天生防御加值，免疫困难地形，火焰吐息武器，伤害减免5/魔法，火焰抗力20。你的移动速度提高 10 英尺。你还获得一次啮咬（2d6）、两次爪抓（1d8）、两次翼击（1d6）和一次尾扫（1d8）。每次施放此法术时，你只能使用一次喷吐武器。所有喷吐武器造成 8d8 点伤害并允许反射豁免减半伤害。"
+      "zhCN": "你变成了一条大型黄铜龙。你的力量获得+6体型加值，体质获得+4体型加值，AC获得+6形态天生防御加值，免疫困难地形，火焰喷吐武器，伤害减免5/魔法，火焰抗力20。你的移动速度提高 10 英尺。你还获得一次啮咬（2d6）、两次爪抓（1d8）、两次翼击（1d6）和一次尾扫（1d8）。每次施放此法术时，你只能使用一次喷吐武器。所有喷吐武器造成 8d8 点伤害并允许反射豁免减半伤害。"
     },
     {
       "Key": "caa5bc60614d435b8fd48c71f6adfefb",
@@ -17854,7 +17854,7 @@
       "SimpleName": "WildShapeDragonShapeBrass2.Description",
       "ProcessTemplates": true,
       "enGB": "You become a large brass dragon. You gain a +6 size bonus to Strength, a +4 size bonus to Constitution, a +6 form natural armor bonus to AC, immunity to difficult terrain, a fire breath weapon, damage reduction 5/magic, and resistance to fire 20. Your movement speed is increased by 10 feet. You also gain one bite (2d6), two claws (1d8), two wing attacks (1d6), and one tail slap attacks (1d8). You can only use the breath weapon once per casting of this spell. All breath weapons deal 8d8 points of damage and allow a Reflex save for half damage.\nThis ability costs 2 uses of your Wild Shape resource.",
-      "zhCN": "你变成了一条大型黄铜龙。你的力量获得+6体型加值，体质获得+4体型加值，AC获得+6形态天生防御加值，免疫困难地形，火焰吐息武器，伤害减免5/魔法，火焰抗力20。你的移动速度提高 10 英尺。你还获得一次啮咬（2d6）、两次爪抓（1d8）、两次翼击（1d6）和一次尾扫（1d8）。每次施放此法术时，你只能使用一次喷吐武器。所有喷吐武器造成 8d8 点伤害并允许反射豁免减半伤害。此能力需要消耗 2 次野性形态次数。"
+      "zhCN": "你变成了一条大型黄铜龙。你的力量获得+6体型加值，体质获得+4体型加值，AC获得+6形态天生防御加值，免疫困难地形，火焰喷吐武器，伤害减免5/魔法，火焰抗力20。你的移动速度提高 10 英尺。你还获得一次啮咬（2d6）、两次爪抓（1d8）、两次翼击（1d6）和一次尾扫（1d8）。每次施放此法术时，你只能使用一次喷吐武器。所有喷吐武器造成 8d8 点伤害并允许反射豁免减半伤害。此能力需要消耗 2 次野性形态次数。"
     },
     {
       "Key": "045e509eb16c43009ec53483decf0d1c",
@@ -17938,7 +17938,7 @@
       "SimpleName": "WildShapeDragonShapeRed2.Description",
       "ProcessTemplates": true,
       "enGB": "You become a large red dragon. You gain a +6 size bonus to Strength, a +4 size bonus to Constitution, a +6 form natural armor bonus to AC, immunity to difficult terrain, a fire breath weapon, damage reduction 5/magic, and resistance to fire 20. Your movement speed is increased by 10 feet. You also gain one bite (2d6), two claws (1d8), two wing attacks (1d6), and one tail slap attacks (1d8). You can only use the breath weapon once per casting of this spell. All breath weapons deal 8d8 points of damage and allow a Reflex save for half damage.\nThis ability costs 2 uses of your Wild Shape resource.",
-      "zhCN": "你变成一条大型红龙。你的力量获得+6体型加值，体质获得+4体型加值，AC获得+6形态天生防御加值，免疫困难地形，火焰吐息武器，伤害减免5/魔法，火焰抗力20。你的移动速度提高 10 英尺。你还获得一次啮咬（2d6）、两次爪抓（1d8）、两次翼击（1d6）和一次尾扫（1d8）。每次施放此法术时，你只能使用一次喷吐武器。所有喷吐武器造成 8d8 点伤害并允许反射豁免减半伤害。此能力需要消耗 2 次野性形态次数。"
+      "zhCN": "你变成一条大型红龙。你的力量获得+6体型加值，体质获得+4体型加值，AC获得+6形态天生防御加值，免疫困难地形，火焰喷吐武器，伤害减免5/魔法，火焰抗力20。你的移动速度提高 10 英尺。你还获得一次啮咬（2d6）、两次爪抓（1d8）、两次翼击（1d6）和一次尾扫（1d8）。每次施放此法术时，你只能使用一次喷吐武器。所有喷吐武器造成 8d8 点伤害并允许反射豁免减半伤害。此能力需要消耗 2 次野性形态次数。"
     },
     {
       "Key": "ec0b08a7304941a59112c78ca182c467",
@@ -18198,6 +18198,625 @@
       "ProcessTemplates": false,
       "enGB": "Wukong",
       "zhCN": "悟空"
+    },
+    {
+      "Key": "647d3ea122ed4697b5a1c3ae0ad81c05",
+      "SimpleName": "WyrmSingerArchetype.Description",
+      "ProcessTemplates": false,
+      "enGB": "Wyrm singers spin fragments of the story of the ongoing struggle between noble Apsu and wicked Dahak.",
+      "zhCN": "龙战颂者们一代代传唱关于善龙之父阿卜苏与恶龙之神达哈克二者间永续万古的龙族战争的秘闻片段。"
+    },
+    {
+      "Key": "210a926280d14228a733f0a0095f1d0f",
+      "SimpleName": "WyrmSingerArchetype.Name",
+      "ProcessTemplates": false,
+      "enGB": "Wyrm Singer",
+      "zhCN": "龙战颂者"
+    },
+    {
+      "Key": "cdef2e2faede44d290adb9293bbb5e43",
+      "SimpleName": "WyrmSingerBreathWeaponAbility.Description",
+      "ProcessTemplates": true,
+      "enGB": "At 12th level, once per day as a swift action, a wyrm singer can grant a breath weapon attack to himself or an ally affected by his draconic rage raging song. Using the breath weapon is a standard action, and it affects creatures in a 30-foot cone or a 60-foot line. The breath weapons deal 1d6 points of damage per 2 character levels, and are of an energy type of the wyrm singer’s choice (acid, cold, electricity, or fire). Creatures caught in the area can attempt a Reflex save (DC = 10 + 1/2 the characters level + their Constiution modifier) to halve the damage.",
+      "zhCN": "在12级时，以一个迅捷动作，龙战颂者可以使自己或是一个被龙族狂怒影响的盟友获得一次喷吐武器攻击。使用这个喷吐武器需要一个标准动作，它的范围可以是30尺锥形或是60尺线型。这个喷吐武器造成每两个龙战颂者的歌者等级1d6点能量伤害，伤害类型由龙战颂者选择（酸蚀，寒冷，火焰或电击）。被喷吐武器攻击的生物可以通过一个DC=（10+龙战颂者的歌者等级一半+他的魅力调整值）的反射检定来减半伤害。"
+    },
+    {
+      "Key": "67c4c59c7c71497592a04030925fbadb",
+      "SimpleName": "WyrmSingerBreathWeaponAbility.Name",
+      "ProcessTemplates": false,
+      "enGB": "Grant Breath Weapon",
+      "zhCN": "获得喷吐武器"
+    },
+    {
+      "Key": "f15125fd607f49c5ac31ad1f60f19337",
+      "SimpleName": "WyrmSingerBreathWeaponAbilityAcid.Description",
+      "ProcessTemplates": true,
+      "enGB": "At 12th level, once per day as a swift action, a wyrm singer can grant a breath weapon attack to himself or an ally affected by his draconic rage raging song. Using the breath weapon is a standard action, and it affects creatures in a 30-foot cone or a 60-foot line. The breath weapon deals 1d6 points of acid damage per 2 character levels. Creatures caught in the area can attempt a Reflex save (DC = 10 + 1/2 the characters level + their Constiution modifier) to halve the damage.",
+      "zhCN": "在12级时，以一个迅捷动作，龙战颂者可以使自己或是一个被龙族狂怒影响的盟友获得一次喷吐武器攻击。使用这个喷吐武器需要一个标准动作，它的范围可以是30尺锥形或是60尺线型。这个喷吐武器造成每两个龙战颂者的歌者等级1d6点酸蚀伤害。被喷吐武器攻击的生物可以通过一个DC=（10+龙战颂者的歌者等级一半+他的魅力调整值）的反射检定来减半伤害。"
+    },
+    {
+      "Key": "2e74fd89bafe47d58d7978e0a69077f9",
+      "SimpleName": "WyrmSingerBreathWeaponAbilityCold.Description",
+      "ProcessTemplates": true,
+      "enGB": "At 12th level, once per day as a swift action, a wyrm singer can grant a breath weapon attack to himself or an ally affected by his draconic rage raging song. Using the breath weapon is a standard action, and it affects creatures in a 30-foot cone or a 60-foot line. The breath weapon deals 1d6 points of cold damage per 2 character levels. Creatures caught in the area can attempt a Reflex save (DC = 10 + 1/2 the characters level + their Constiution modifier) to halve the damage.",
+      "zhCN": "在12级时，以一个迅捷动作，龙战颂者可以使自己或是一个被龙族狂怒影响的盟友获得一次喷吐武器攻击。使用这个喷吐武器需要一个标准动作，它的范围可以是30尺锥形或是60尺线型。这个喷吐武器造成每两个龙战颂者的歌者等级1d6点寒冷伤害。被喷吐武器攻击的生物可以通过一个DC=（10+龙战颂者的歌者等级一半+他的魅力调整值）的反射检定来减半伤害。"
+    },
+    {
+      "Key": "5651ec4ab14a44dcb4b8a710314212f8",
+      "SimpleName": "WyrmSingerBreathWeaponAbilityElectricity.Description",
+      "ProcessTemplates": true,
+      "enGB": "At 12th level, once per day as a swift action, a wyrm singer can grant a breath weapon attack to himself or an ally affected by his draconic rage raging song. Using the breath weapon is a standard action, and it affects creatures in a 30-foot cone or a 60-foot line. The breath weapon deals 1d6 points of electricity damage per 2 character levels. Creatures caught in the area can attempt a Reflex save (DC = 10 + 1/2 the characters level + their Constiution modifier) to halve the damage.",
+      "zhCN": "在12级时，以一个迅捷动作，龙战颂者可以使自己或是一个被龙族狂怒影响的盟友获得一次喷吐武器攻击。使用这个喷吐武器需要一个标准动作，它的范围可以是30尺锥形或是60尺线型。这个喷吐武器造成每两个龙战颂者的歌者等级1d6点电击伤害。被喷吐武器攻击的生物可以通过一个DC=（10+龙战颂者的歌者等级一半+他的魅力调整值）的反射检定来减半伤害。"
+    },
+    {
+      "Key": "9a4d1e51240b403d9a2656ed1c1b49f1",
+      "SimpleName": "WyrmSingerBreathWeaponAbilityFire.Description",
+      "ProcessTemplates": true,
+      "enGB": "At 12th level, once per day as a swift action, a wyrm singer can grant a breath weapon attack to himself or an ally affected by his draconic rage raging song. Using the breath weapon is a standard action, and it affects creatures in a 30-foot cone or a 60-foot line. The breath weapon deals 1d6 points of fire damage per 2 character levels. Creatures caught in the area can attempt a Reflex save (DC = 10 + 1/2 the characters level + their Constiution modifier) to halve the damage.",
+      "zhCN": "在12级时，以一个迅捷动作，龙战颂者可以使自己或是一个被龙族狂怒影响的盟友获得一次喷吐武器攻击。使用这个喷吐武器需要一个标准动作，它的范围可以是30尺锥形或是60尺线型。这个喷吐武器造成每两个龙战颂者的歌者等级1d6点火焰伤害。被喷吐武器攻击的生物可以通过一个DC=（10+龙战颂者的歌者等级一半+他的魅力调整值）的反射检定来减半伤害。"
+    },
+    {
+      "Key": "6cacd14d04644ecdb54720bb0cdb7ce2",
+      "SimpleName": "WyrmSingerBreathWeaponBaseAcid.Description",
+      "ProcessTemplates": true,
+      "enGB": "Your breath weapon may be either a 30-foot cone or a 60-foot line. The breath weapon deals 1d6 points of elemental damage per 2 character levels. Creatures caught in the area can attempt a Reflex save (DC = 10 + 1/2 the characters level + their Constiution modifier) to halve the damage.",
+      "zhCN": "你的喷吐武器可以是30尺锥形或者60尺线形。这个喷吐武器造成每两个龙战颂者的歌者等级1d6点能量伤害。被喷吐武器攻击的生物可以通过一个DC=（10+龙战颂者的歌者等级一半+他的魅力调整值）的反射检定来减半伤害。"
+    },
+    {
+      "Key": "4a22549734ee40e3a622f42dd96f6b54",
+      "SimpleName": "WyrmSingerBreathWeaponBaseAcid.Name",
+      "ProcessTemplates": false,
+      "enGB": "Wyrm Singers Acid Breath",
+      "zhCN": "龙战颂者酸蚀喷吐"
+    },
+    {
+      "Key": "691f333a62d942e09a7fba521fccee78",
+      "SimpleName": "WyrmSingerBreathWeaponBuffAcid.Description",
+      "ProcessTemplates": true,
+      "enGB": "A wyrm singer can grant a breath weapon attack to himself or an ally affected by his draconic rage raging song. Using the breath weapon is a standard action, and it affects creatures in a 30-foot cone or a 60-foot line. The breath weapon deals 1d6 points of acid damage per 2 character levels. Creatures caught in the area can attempt a Reflex save (DC = 10 + 1/2 the characters level + their Constiution modifier) to halve the damage. This ability is lost either when used, or when no longer effected by the wyrm singers draconic rage raging song.",
+      "zhCN": "龙战颂者可以使自己或是一个被龙族狂怒影响的盟友获得一次喷吐武器攻击。使用这个喷吐武器需要一个标准动作，它的范围可以是30尺锥形或是60尺线型。这个喷吐武器造成每两个龙战颂者的歌者等级1d6点酸蚀伤害。被喷吐武器攻击的生物可以通过一个DC=（10+龙战颂者的歌者等级一半+他的魅力调整值）的反射检定来减半伤害。喷吐武器能力会在被使用后或者不再受到龙族狂怒影响后消失。"
+    },
+    {
+      "Key": "903cd15be34f4741b799b58cd0de6b1d",
+      "SimpleName": "WyrmSingerBreathWeaponBuffAcid.Name",
+      "ProcessTemplates": false,
+      "enGB": "Grant Breath Weapon - Acid",
+      "zhCN": "获得喷吐武器（酸蚀）"
+    },
+    {
+      "Key": "d14fe5442b4f4168bb5a960b4685b992",
+      "SimpleName": "WyrmSingerBreathWeaponBuffCold.Description",
+      "ProcessTemplates": true,
+      "enGB": "A wyrm singer can grant a breath weapon attack to himself or an ally affected by his draconic rage raging song. Using the breath weapon is a standard action, and it affects creatures in a 30-foot cone or a 60-foot line. The breath weapon deals 1d6 points of cold damage per 2 character levels. Creatures caught in the area can attempt a Reflex save (DC = 10 + 1/2 the characters level + their Constiution modifier) to halve the damage. This ability is lost either when used, or when no longer effected by the wyrm singers draconic rage raging song.",
+      "zhCN": "龙战颂者可以使自己或是一个被龙族狂怒影响的盟友获得一次喷吐武器攻击。使用这个喷吐武器需要一个标准动作，它的范围可以是30尺锥形或是60尺线型。这个喷吐武器造成每两个龙战颂者的歌者等级1d6点寒冷蚀伤害。被喷吐武器攻击的生物可以通过一个DC=（10+龙战颂者的歌者等级一半+他的魅力调整值）的反射检定来减半伤害。喷吐武器能力会在被使用后或者不再受到龙族狂怒影响后消失。"
+    },
+    {
+      "Key": "6a94611f59124175a37e0c7a20c81089",
+      "SimpleName": "WyrmSingerBreathWeaponBuffCold.Name",
+      "ProcessTemplates": false,
+      "enGB": "Grant Breath Weapon - Cold",
+      "zhCN": "获得喷吐武器（寒冷）"
+    },
+    {
+      "Key": "31d8f77f7782461e83e46342b369179f",
+      "SimpleName": "WyrmSingerBreathWeaponBuffElectricity.Description",
+      "ProcessTemplates": true,
+      "enGB": "A wyrm singer can grant a breath weapon attack to himself or an ally affected by his draconic rage raging song. Using the breath weapon is a standard action, and it affects creatures in a 30-foot cone or a 60-foot line. The breath weapon deals 1d6 points of electricity damage per 2 character levels. Creatures caught in the area can attempt a Reflex save (DC = 10 + 1/2 the characters level + their Constiution modifier) to halve the damage. This ability is lost either when used, or when no longer effected by the wyrm singers draconic rage raging song.",
+      "zhCN": "龙战颂者可以使自己或是一个被龙族狂怒影响的盟友获得一次喷吐武器攻击。使用这个喷吐武器需要一个标准动作，它的范围可以是30尺锥形或是60尺线型。这个喷吐武器造成每两个龙战颂者的歌者等级1d6点电击伤害。被喷吐武器攻击的生物可以通过一个DC=（10+龙战颂者的歌者等级一半+他的魅力调整值）的反射检定来减半伤害。喷吐武器能力会在被使用后或者不再受到龙族狂怒影响后消失。"
+    },
+    {
+      "Key": "bdbc152a149543c1b5221b578bb9c7c0",
+      "SimpleName": "WyrmSingerBreathWeaponBuffElectricity.Name",
+      "ProcessTemplates": false,
+      "enGB": "Grant Breath Weapon - Electricity",
+      "zhCN": "获得喷吐武器（电击）"
+    },
+    {
+      "Key": "697c8dfec92a427d8b3e44e942a93fe3",
+      "SimpleName": "WyrmSingerBreathWeaponBuffFire.Description",
+      "ProcessTemplates": true,
+      "enGB": "A wyrm singer can grant a breath weapon attack to himself or an ally affected by his draconic rage raging song. Using the breath weapon is a standard action, and it affects creatures in a 30-foot cone or a 60-foot line. The breath weapon deals 1d6 points of fire damage per 2 character levels. Creatures caught in the area can attempt a Reflex save (DC = 10 + 1/2 the characters level + their Constiution modifier) to halve the damage. This ability is lost either when used, or when no longer effected by the wyrm singers draconic rage raging song.",
+      "zhCN": "龙战颂者可以使自己或是一个被龙族狂怒影响的盟友获得一次喷吐武器攻击。使用这个喷吐武器需要一个标准动作，它的范围可以是30尺锥形或是60尺线型。这个喷吐武器造成每两个龙战颂者的歌者等级1d6点火焰伤害。被喷吐武器攻击的生物可以通过一个DC=（10+龙战颂者的歌者等级一半+他的魅力调整值）的反射检定来减半伤害。喷吐武器能力会在被使用后或者不再受到龙族狂怒影响后消失。"
+    },
+    {
+      "Key": "17989cf2d26a4d8582101aefa8220a15",
+      "SimpleName": "WyrmSingerBreathWeaponBuffFire.Name",
+      "ProcessTemplates": false,
+      "enGB": "Grant Breath Weapon - Fire",
+      "zhCN": "获得喷吐武器（火焰）"
+    },
+    {
+      "Key": "944229a023854184b5a32de9ccf7848c",
+      "SimpleName": "WyrmSingerBreathWeaponConeAcid.Description",
+      "ProcessTemplates": true,
+      "enGB": "Your breath weapon may be either a 30-foot cone or a 60-foot line. The breath weapon deals 1d6 points of acid damage per 2 character levels. Creatures caught in the area can attempt a Reflex save (DC = 10 + 1/2 the characters level + their Constiution modifier) to halve the damage.",
+      "zhCN": "你的喷吐武器可以是30尺锥形或者60尺线形。这个喷吐武器造成每两个龙战颂者的歌者等级1d6点酸蚀伤害。被喷吐武器攻击的生物可以通过一个DC=（10+龙战颂者的歌者等级一半+他的魅力调整值）的反射检定来减半伤害。"
+    },
+    {
+      "Key": "0fd31e110edc4965b36e92f091b32b91",
+      "SimpleName": "WyrmSingerBreathWeaponConeAcid.Name",
+      "ProcessTemplates": false,
+      "enGB": "Wyrm Singers Acid Breath - Cone",
+      "zhCN": "龙战颂者酸蚀吐息（锥形）"
+    },
+    {
+      "Key": "ca32b2e326194226902b3624cdaefc80",
+      "SimpleName": "WyrmSingerBreathWeaponConeCold.Description",
+      "ProcessTemplates": true,
+      "enGB": "Your breath weapon may be either a 30-foot cone or a 60-foot line. The breath weapon deals 1d6 points of cold damage per 2 character levels. Creatures caught in the area can attempt a Reflex save (DC = 10 + 1/2 the characters level + their Constiution modifier) to halve the damage.",
+      "zhCN": "你的喷吐武器可以是30尺锥形或者60尺线形。这个喷吐武器造成每两个龙战颂者的歌者等级1d6点寒冷伤害。被喷吐武器攻击的生物可以通过一个DC=（10+龙战颂者的歌者等级一半+他的魅力调整值）的反射检定来减半伤害。"
+    },
+    {
+      "Key": "5ab2ebeb7ab84ecd8a38d071bdd23a8d",
+      "SimpleName": "WyrmSingerBreathWeaponConeCold.Name",
+      "ProcessTemplates": false,
+      "enGB": "Wyrm Singers Cold Breath - Cone",
+      "zhCN": "龙战颂者寒冷吐息（锥形）"
+    },
+    {
+      "Key": "a8c6a865f0664d479221ce5dbfb79bbc",
+      "SimpleName": "WyrmSingerBreathWeaponConeElectricity.Description",
+      "ProcessTemplates": true,
+      "enGB": "Your breath weapon may be either a 30-foot cone or a 60-foot line. The breath weapon deals 1d6 points of electricity damage per 2 character levels. Creatures caught in the area can attempt a Reflex save (DC = 10 + 1/2 the characters level + their Constiution modifier) to halve the damage.",
+      "zhCN": "你的喷吐武器可以是30尺锥形或者60尺线形。这个喷吐武器造成每两个龙战颂者的歌者等级1d6点电击伤害。被喷吐武器攻击的生物可以通过一个DC=（10+龙战颂者的歌者等级一半+他的魅力调整值）的反射检定来减半伤害。"
+    },
+    {
+      "Key": "6d4cb4084fa24cb3b5463a83b5547f16",
+      "SimpleName": "WyrmSingerBreathWeaponConeElectricity.Name",
+      "ProcessTemplates": false,
+      "enGB": "Wyrm Singers Electricity Breath - Cone",
+      "zhCN": "龙战颂者电击吐息（锥形）"
+    },
+    {
+      "Key": "e48807b65da342d3aa5aba7684acde4c",
+      "SimpleName": "WyrmSingerBreathWeaponConeFire.Description",
+      "ProcessTemplates": true,
+      "enGB": "Your breath weapon may be either a 30-foot cone or a 60-foot line. The breath weapon deals 1d6 points of fire damage per 2 character levels. Creatures caught in the area can attempt a Reflex save (DC = 10 + 1/2 the characters level + their Constiution modifier) to halve the damage.",
+      "zhCN": "你的喷吐武器可以是30尺锥形或者60尺线形。这个喷吐武器造成每两个龙战颂者的歌者等级1d6点火焰伤害。被喷吐武器攻击的生物可以通过一个DC=（10+龙战颂者的歌者等级一半+他的魅力调整值）的反射检定来减半伤害。"
+    },
+    {
+      "Key": "f61f332769b74ea6abc8ef19c65e4651",
+      "SimpleName": "WyrmSingerBreathWeaponConeFire.Name",
+      "ProcessTemplates": false,
+      "enGB": "Wyrm Singers Fire Breath - Cone",
+      "zhCN": "龙战颂者火焰吐息（锥形）"
+    },
+    {
+      "Key": "61a8c6cbb1824b11a7304aedb63d8cbe",
+      "SimpleName": "WyrmSingerBreathWeaponFeature.Description",
+      "ProcessTemplates": true,
+      "enGB": "At 12th level, once per day as a swift action, a wyrm singer can grant a breath weapon attack to himself or an ally affected by his draconic rage raging song. Using the breath weapon is a standard action, and it affects creatures in a 30-foot cone or a 60-foot line. The breath weapons deal 1d6 points of damage per 2 skald levels the wyrm singer has, and are of an energy type of the wyrm singer’s choice (acid, cold, electricity, or fire). Creatures caught in the area can attempt a Reflex save (DC = 10 + 1/2 the characters level + their Constiution modifier) to halve the damage.",
+      "zhCN": "在12级时，以一个迅捷动作，龙战颂者可以使自己或是一个被龙族狂怒影响的盟友获得一次喷吐武器攻击。使用这个喷吐武器需要一个标准动作，它的范围可以是30尺锥形或是60尺线型。这个喷吐武器造成每两个龙战颂者的歌者等级1d6点能量伤害，伤害类型由龙战颂者选择（酸蚀，寒冷，火焰或电击）。被喷吐武器攻击的生物可以通过一个DC=（10+龙战颂者的歌者等级一半+他的魅力调整值）的反射检定来减半伤害。"
+    },
+    {
+      "Key": "61ecd24fed9340da9860ee4492ee7923",
+      "SimpleName": "WyrmSingerBreathWeaponLineAcid.Description",
+      "ProcessTemplates": true,
+      "enGB": "Your breath weapon may be either a 30-foot cone or a 60-foot line. The breath weapon deals 1d6 points of acid damage per 2 character levels. Creatures caught in the area can attempt a Reflex save (DC = 10 + 1/2 the characters level + their Constiution modifier) to halve the damage.",
+      "zhCN": "你的喷吐武器可以是30尺锥形或者60尺线形。这个喷吐武器造成每两个龙战颂者的歌者等级1d6点酸蚀伤害。被喷吐武器攻击的生物可以通过一个DC=（10+龙战颂者的歌者等级一半+他的魅力调整值）的反射检定来减半伤害。"
+    },
+    {
+      "Key": "78e46bcc332641ecbfdfb66979f41669",
+      "SimpleName": "WyrmSingerBreathWeaponLineAcid.Name",
+      "ProcessTemplates": false,
+      "enGB": "Wyrm Singers Acid Breath - Line",
+      "zhCN": "龙战颂者酸蚀吐息（线形）"
+    },
+    {
+      "Key": "4984d2651bfa40cab49bfd905b12fad4",
+      "SimpleName": "WyrmSingerBreathWeaponLineCold.Description",
+      "ProcessTemplates": true,
+      "enGB": "Your breath weapon may be either a 30-foot cone or a 60-foot line. The breath weapon deals 1d6 points of cold damage per 2 character levels. Creatures caught in the area can attempt a Reflex save (DC = 10 + 1/2 the characters level + their Constiution modifier) to halve the damage.",
+      "zhCN": "你的喷吐武器可以是30尺锥形或者60尺线形。这个喷吐武器造成每两个龙战颂者的歌者等级1d6点寒冷伤害。被喷吐武器攻击的生物可以通过一个DC=（10+龙战颂者的歌者等级一半+他的魅力调整值）的反射检定来减半伤害。"
+    },
+    {
+      "Key": "e4ff9922924e4da68d7678644450989e",
+      "SimpleName": "WyrmSingerBreathWeaponLineCold.Name",
+      "ProcessTemplates": false,
+      "enGB": "Wyrm Singers Cold Breath - Line",
+      "zhCN": "龙战颂者寒冷吐息（线形）"
+    },
+    {
+      "Key": "e4eab72d7ef54bd393ea3c83c7b5524e",
+      "SimpleName": "WyrmSingerBreathWeaponLineElectricity.Description",
+      "ProcessTemplates": true,
+      "enGB": "Your breath weapon may be either a 30-foot cone or a 60-foot line. The breath weapon deals 1d6 points of electricity damage per 2 character levels. Creatures caught in the area can attempt a Reflex save (DC = 10 + 1/2 the characters level + their Constiution modifier) to halve the damage.",
+      "zhCN": "你的喷吐武器可以是30尺锥形或者60尺线形。这个喷吐武器造成每两个龙战颂者的歌者等级1d6点电击伤害。被喷吐武器攻击的生物可以通过一个DC=（10+龙战颂者的歌者等级一半+他的魅力调整值）的反射检定来减半伤害。"
+    },
+    {
+      "Key": "9ddc9faa6696440f94baa347bc8cc7fc",
+      "SimpleName": "WyrmSingerBreathWeaponLineElectricity.Name",
+      "ProcessTemplates": false,
+      "enGB": "Wyrm Singers Electricity Breath - Line",
+      "zhCN": "龙战颂者电击吐息（线形）"
+    },
+    {
+      "Key": "844a5c50e1eb43c68bb90b3689b51f71",
+      "SimpleName": "WyrmSingerBreathWeaponLineFire.Description",
+      "ProcessTemplates": true,
+      "enGB": "Your breath weapon may be either a 30-foot cone or a 60-foot line. The breath weapon deals 1d6 points of fire damage per 2 character levels. Creatures caught in the area can attempt a Reflex save (DC = 10 + 1/2 the characters level + their Constiution modifier) to halve the damage.",
+      "zhCN": "你的喷吐武器可以是30尺锥形或者60尺线形。这个喷吐武器造成每两个龙战颂者的歌者等级1d6点火焰伤害。被喷吐武器攻击的生物可以通过一个DC=（10+龙战颂者的歌者等级一半+他的魅力调整值）的反射检定来减半伤害。"
+    },
+    {
+      "Key": "348062878c894c25936fc7cb62c3cf5b",
+      "SimpleName": "WyrmSingerBreathWeaponLineFire.Name",
+      "ProcessTemplates": false,
+      "enGB": "Wyrm Singers Fire Breath - Line",
+      "zhCN": "龙战颂者火焰吐息（线形）"
+    },
+    {
+      "Key": "6559de296dd2472b98e4bbd592901ade",
+      "SimpleName": "WyrmSingerDraconicRageAbility.Description",
+      "ProcessTemplates": true,
+      "enGB": "At 1st level, a wyrm singer can kindle an echo of ancient rage felt between warring dragon clans in his allies. This ability acts as inspired rage, except those affected gain a +2 bonus on melee attack and damage rolls and a +2 bonus on saving throws against paralysis and sleep effects (but they still take a –1 penalty to their AC), rather than inspired rage’s normal bonuses. At 4th level and every 4 skald levels thereafter, the song’s bonuses on saves against paralysis and sleep effects increase by 1. At 8th and 16th levels, the song’s bonus on melee attack and damage rolls increases by 1.",
+      "zhCN": "在1级时，龙战颂者可以在他的盟友心中点燃诸龙在进入战争时所爆发的古老狂怒。这个能力的效果与激发狂暴战怒之歌类似，但被它所影响的目标不会获得激发狂暴战怒之歌原本赋予的好处，而是会在近战攻击与伤害检定，以及对抗麻痹与睡眠效果的豁免检定上获得+2士气加值（在防御等级上仍然会承受-1减值）。在4级和之后每提升4个歌者等级时，龙战颂者的本战怒之歌赋予的对抗麻痹与睡眠效果的豁免检定加值额外+1；在8级和16级时，本战怒之歌在近战攻击和伤害检定上提供的加值再额外+1。
+"
+    },
+    {
+      "Key": "8df53f28a6334f79bd29bdfd3087892d",
+      "SimpleName": "WyrmSingerDraconicRageEffectBuff.Description",
+      "ProcessTemplates": true,
+      "enGB": "At 1st level, a wyrm singer can kindle an echo of ancient rage felt between warring dragon clans in his allies. This ability acts as inspired rage, except those affected gain a +2 bonus on melee attack and damage rolls and a +2 bonus on saving throws against paralysis and sleep effects (but they still take a –1 penalty to their AC), rather than inspired rage’s normal bonuses. At 4th level and every 4 skald levels thereafter, the song’s bonuses on saves against paralysis and sleep effects increase by 1. At 8th and 16th levels, the song’s bonus on melee attack and damage rolls increases by 1.",
+      "zhCN": "在1级时，龙战颂者可以在他的盟友心中点燃诸龙在进入战争时所爆发的古老狂怒。这个能力的效果与激发狂暴战怒之歌类似，但被它所影响的目标不会获得激发狂暴战怒之歌原本赋予的好处，而是会在近战攻击与伤害检定，以及对抗麻痹与睡眠效果的豁免检定上获得+2士气加值（在防御等级上仍然会承受-1减值）。在4级和之后每提升4个歌者等级时，龙战颂者的本战怒之歌赋予的对抗麻痹与睡眠效果的豁免检定加值额外+1；在8级和16级时，本战怒之歌在近战攻击和伤害检定上提供的加值再额外+1。
+"
+    },
+    {
+      "Key": "4e0924643d1f480281e0063e9e37ca35",
+      "SimpleName": "WyrmSingerDraconicRageEffectBuff.Name",
+      "ProcessTemplates": false,
+      "enGB": "Draconic Rage",
+      "zhCN": "龙族狂怒"
+    },
+    {
+      "Key": "f82e05a7634e45e79e66871df5744cc2",
+      "SimpleName": "WyrmSingerDraconicRageFeature.Description",
+      "ProcessTemplates": true,
+      "enGB": "At 1st level, a wyrm singer can kindle an echo of ancient rage felt between warring dragon clans in his allies. This ability acts as inspired rage, except those affected gain a +2 bonus on melee attack and damage rolls and a +2 bonus on saving throws against paralysis and sleep effects (but they still take a –1 penalty to their AC), rather than inspired rage’s normal bonuses. At 4th level and every 4 skald levels thereafter, the song’s bonuses on saves against paralysis and sleep effects increase by 1. At 8th and 16th levels, the song’s bonus on melee attack and damage rolls increases by 1.",
+      "zhCN": "在1级时，龙战颂者可以在他的盟友心中点燃诸龙在进入战争时所爆发的古老狂怒。这个能力的效果与激发狂暴战怒之歌类似，但被它所影响的目标不会获得激发狂暴战怒之歌原本赋予的好处，而是会在近战攻击与伤害检定，以及对抗麻痹与睡眠效果的豁免检定上获得+2士气加值（在防御等级上仍然会承受-1减值）。在4级和之后每提升4个歌者等级时，龙战颂者的本战怒之歌赋予的对抗麻痹与睡眠效果的豁免检定加值额外+1；在8级和16级时，本战怒之歌在近战攻击和伤害检定上提供的加值再额外+1。
+"
+    },
+    {
+      "Key": "752761d3047a48de897de5ea976cb346",
+      "SimpleName": "WyrmSingerWyrmSagaAbility.Description",
+      "ProcessTemplates": true,
+      "enGB": "At 14th level, a wyrm singer embraces the essence of the draconic histories, allowing his allies to manifest aspects of a dragon in their physical forms. The wyrm singer selects a single ally within 50 feet to take on a draconic aspect (as per form of the dragon I) of a type of the wyrm singer’s choice. The ally cannot use the breath weapon attack provided by form of the dragon. The wyrm singer must expend 1 round of raging song each round to maintain wyrm saga, and can affect only a single ally at a time.",
+      "zhCN": "在14级时，龙战颂者念诵龙族历史中关于其一族本质的秘密，将自己的盟友变化为巨龙之型。龙战颂者可以选择一个距离他60尺内的盟友使其获得龙族的化身（如同法术龙形I），变身的龙类生物类型由龙战颂者指定。这个盟友在变身时不能使用龙类的喷吐武器。龙战颂者每轮必须消耗1轮的战怒之歌使用时间来维持龙吟，并且他只能使用本战怒之歌来影响一个盟友。"
+    },
+    {
+      "Key": "3c4af8b0e7a346fc8880193b2e76b978",
+      "SimpleName": "WyrmSingerWyrmSagaAbility.Name",
+      "ProcessTemplates": false,
+      "enGB": "Wyrm Saga",
+      "zhCN": "龙吟"
+    },
+    {
+      "Key": "108890f387224306b6af9146187bf84a",
+      "SimpleName": "WyrmSingerWyrmSagaEffectBlack.Description",
+      "ProcessTemplates": true,
+      "enGB": "You are in a dragon-like creature form now. You have a +4 polymorph bonus to Strength, a +2 polymorph bonus to Constitution, a +4 natural armor bonus to AC, immunity to difficult terrain, and resistance to acid 20. Your movement speed is increased by 10 feet. You also gain one bite (1d8), two claws (1d6), and two wing attacks (1d4). You do not gain the breath weapon normally gained from dragonkind spells.",
+      "zhCN": "你现在变身为类龙生物形态。你的{g|Encyclopedia:Strength}力量属性{/g}获得+4{g|Encyclopedia:Size}体型{/g}{g|Encyclopedia:Bonus}加值{/g}，{g|Encyclopedia:Constitution}体质属性{/g}获得+2体型加值，{g|Encyclopedia:Armor_Class}AC{/g}获得+4天生防御加值，对困难地形免疫，获得喷吐{g|Encyclopedia:Attack}攻击{/g}，20点酸蚀抗性。你的{g|Encyclopedia:Speed}移动速度{/g}提高10英尺。你还获得了1次啮咬（{g|Encyclopedia:Dice}1d8{/g}），2次爪抓（1d6），2次翼击（1d4）。你不会获得一般龙形法术给予的喷吐攻击。"
+    },
+    {
+      "Key": "05daa14346b64fe3a10a3ef787911f3e",
+      "SimpleName": "WyrmSingerWyrmSagaEffectBlack.Name",
+      "ProcessTemplates": false,
+      "enGB": "Wyrm Saga - Black",
+      "zhCN": "龙吟（黑龙）"
+    },
+    {
+      "Key": "72ea497ddfe844449acaa40718b584e3",
+      "SimpleName": "WyrmSingerWyrmSagaEffectBlue.Description",
+      "ProcessTemplates": true,
+      "enGB": "You are in a dragon-like creature form now. You have a +4 polymorph bonus to Strength, a +2 polymorph bonus to Constitution, a +4 natural armor bonus to AC, immunity to difficult terrain, and resistance to electricity 20. Your movement speed is increased by 10 feet. You also gain one bite (1d8), two claws (1d6), and two wing attacks (1d4). You do not gain the breath weapon normally gained from dragonkind spells.",
+      "zhCN": "你现在变身为类龙生物形态。你的{g|Encyclopedia:Strength}力量属性{/g}获得+4{g|Encyclopedia:Size}体型{/g}{g|Encyclopedia:Bonus}加值{/g}，{g|Encyclopedia:Constitution}体质属性{/g}获得+2体型加值，{g|Encyclopedia:Armor_Class}AC{/g}获得+4天生防御加值，对困难地形免疫，获得喷吐{g|Encyclopedia:Attack}攻击{/g}，20点电击抗性。你的{g|Encyclopedia:Speed}移动速度{/g}提高10英尺。你还获得了1次啮咬（{g|Encyclopedia:Dice}1d8{/g}），2次爪抓（1d6），2次翼击（1d4）。你不会获得一般龙形法术给予的喷吐攻击。"
+    },
+    {
+      "Key": "ef38d3886f8b4eeebf2e6b6b2493547b",
+      "SimpleName": "WyrmSingerWyrmSagaEffectBlue.Name",
+      "ProcessTemplates": false,
+      "enGB": "Wyrm Saga - Blue",
+      "zhCN": "龙吟（蓝龙）"
+    },
+    {
+      "Key": "b4b825746ff74445812935ff0e13b6bf",
+      "SimpleName": "WyrmSingerWyrmSagaEffectBrass.Description",
+      "ProcessTemplates": true,
+      "enGB": "You are in a dragon-like creature form now. You have a +4 polymorph bonus to Strength, a +2 polymorph bonus to Constitution, a +4 natural armor bonus to AC, immunity to difficult terrain, and resistance to fire 20. Your movement speed is increased by 10 feet. You also gain one bite (1d8), two claws (1d6), and two wing attacks (1d4). You do not gain the breath weapon normally gained from dragonkind spells.",
+      "zhCN": "你现在变身为类龙生物形态。你的{g|Encyclopedia:Strength}力量属性{/g}获得+4{g|Encyclopedia:Size}体型{/g}{g|Encyclopedia:Bonus}加值{/g}，{g|Encyclopedia:Constitution}体质属性{/g}获得+2体型加值，{g|Encyclopedia:Armor_Class}AC{/g}获得+4天生防御加值，对困难地形免疫，获得喷吐{g|Encyclopedia:Attack}攻击{/g}，20点火焰抗性。你的{g|Encyclopedia:Speed}移动速度{/g}提高10英尺。你还获得了1次啮咬（{g|Encyclopedia:Dice}1d8{/g}），2次爪抓（1d6），2次翼击（1d4）。你不会获得一般龙形法术给予的喷吐攻击。"
+    },
+    {
+      "Key": "ce98706ffc4e452c9c0d4b1dd722bcf0",
+      "SimpleName": "WyrmSingerWyrmSagaEffectBrass.Name",
+      "ProcessTemplates": false,
+      "enGB": "Wyrm Saga - Brass",
+      "zhCN": "龙吟（黄铜龙）"
+    },
+    {
+      "Key": "69d8d6d9ee3e4531b0398752364632bf",
+      "SimpleName": "WyrmSingerWyrmSagaEffectGreen.Description",
+      "ProcessTemplates": true,
+      "enGB": "You are in a dragon-like creature form now. You have a +4 polymorph bonus to Strength, a +2 polymorph bonus to Constitution, a +4 natural armor bonus to AC, immunity to difficult terrain, and resistance to acid 20. Your movement speed is increased by 10 feet. You also gain one bite (1d8), two claws (1d6), and two wing attacks (1d4). You do not gain the breath weapon normally gained from dragonkind spells.",
+      "zhCN": "你现在变身为类龙生物形态。你的{g|Encyclopedia:Strength}力量属性{/g}获得+4{g|Encyclopedia:Size}体型{/g}{g|Encyclopedia:Bonus}加值{/g}，{g|Encyclopedia:Constitution}体质属性{/g}获得+2体型加值，{g|Encyclopedia:Armor_Class}AC{/g}获得+4天生防御加值，对困难地形免疫，获得喷吐{g|Encyclopedia:Attack}攻击{/g}，20点酸蚀抗性。你的{g|Encyclopedia:Speed}移动速度{/g}提高10英尺。你还获得了1次啮咬（{g|Encyclopedia:Dice}1d8{/g}），2次爪抓（1d6），2次翼击（1d4）。你不会获得一般龙形法术给予的喷吐攻击。"
+    },
+    {
+      "Key": "54fe6dfed6234d4d9465e3df6b7680db",
+      "SimpleName": "WyrmSingerWyrmSagaEffectGreen.Name",
+      "ProcessTemplates": false,
+      "enGB": "Wyrm Saga - Green",
+      "zhCN": "龙吟（绿龙）"
+    },
+    {
+      "Key": "321b713963ae49d2a385f20cb0e5d8ad",
+      "SimpleName": "WyrmSingerWyrmSagaEffectRed.Description",
+      "ProcessTemplates": true,
+      "enGB": "You are in a dragon-like creature form now. You have a +4 polymorph bonus to Strength, a +2 polymorph bonus to Constitution, a +4 natural armor bonus to AC, immunity to difficult terrain, and resistance to fire 20. Your movement speed is increased by 10 feet. You also gain one bite (1d8), two claws (1d6), and two wing attacks (1d4). You do not gain the breath weapon normally gained from dragonkind spells.",
+      "zhCN": "你现在变身为类龙生物形态。你的{g|Encyclopedia:Strength}力量属性{/g}获得+4{g|Encyclopedia:Size}体型{/g}{g|Encyclopedia:Bonus}加值{/g}，{g|Encyclopedia:Constitution}体质属性{/g}获得+2体型加值，{g|Encyclopedia:Armor_Class}AC{/g}获得+4天生防御加值，对困难地形免疫，获得喷吐{g|Encyclopedia:Attack}攻击{/g}，20点火焰抗性。你的{g|Encyclopedia:Speed}移动速度{/g}提高10英尺。你还获得了1次啮咬（{g|Encyclopedia:Dice}1d8{/g}），2次爪抓（1d6），2次翼击（1d4）。你不会获得一般龙形法术给予的喷吐攻击。"
+    },
+    {
+      "Key": "6e9167f8c2504363a149207ce01c59f0",
+      "SimpleName": "WyrmSingerWyrmSagaEffectRed.Name",
+      "ProcessTemplates": false,
+      "enGB": "Wyrm Saga - Red",
+      "zhCN": "龙吟（红龙）"
+    },
+    {
+      "Key": "24ac2f27f94043e48f868af315f7424f",
+      "SimpleName": "WyrmSingerWyrmSagaEffectSilver.Description",
+      "ProcessTemplates": true,
+      "enGB": "You are in a dragon-like creature form now. You have a +4 polymorph bonus to Strength, a +2 polymorph bonus to Constitution, a +4 natural armor bonus to AC, immunity to difficult terrain, and resistance to cold 20. Your movement speed is increased by 10 feet. You also gain one bite (1d8), two claws (1d6), and two wing attacks (1d4). You do not gain the breath weapon normally gained from dragonkind spells.",
+      "zhCN": "你现在变身为类龙生物形态。你的{g|Encyclopedia:Strength}力量属性{/g}获得+4{g|Encyclopedia:Size}体型{/g}{g|Encyclopedia:Bonus}加值{/g}，{g|Encyclopedia:Constitution}体质属性{/g}获得+2体型加值，{g|Encyclopedia:Armor_Class}AC{/g}获得+4天生防御加值，对困难地形免疫，获得喷吐{g|Encyclopedia:Attack}攻击{/g}，20点寒冷抗性。你的{g|Encyclopedia:Speed}移动速度{/g}提高10英尺。你还获得了1次啮咬（{g|Encyclopedia:Dice}1d8{/g}），2次爪抓（1d6），2次翼击（1d4）。你不会获得一般龙形法术给予的喷吐攻击。"
+    },
+    {
+      "Key": "ce2ca73eee2144df983b6a16f6451521",
+      "SimpleName": "WyrmSingerWyrmSagaEffectSilver.Name",
+      "ProcessTemplates": false,
+      "enGB": "Wyrm Saga - Silver",
+      "zhCN": "龙吟（银龙）"
+    },
+    {
+      "Key": "5aa578900f0b432fb9b8693b4dddc965",
+      "SimpleName": "WyrmSingerWyrmSagaEffectWhite.Description",
+      "ProcessTemplates": true,
+      "enGB": "You are in a dragon-like creature form now. You have a +4 polymorph bonus to Strength, a +2 polymorph bonus to Constitution, a +4 natural armor bonus to AC, immunity to difficult terrain, and resistance to cold 20. Your movement speed is increased by 10 feet. You also gain one bite (1d8), two claws (1d6), and two wing attacks (1d4). You do not gain the breath weapon normally gained from dragonkind spells.",
+      "zhCN": "你现在变身为类龙生物形态。你的{g|Encyclopedia:Strength}力量属性{/g}获得+4{g|Encyclopedia:Size}体型{/g}{g|Encyclopedia:Bonus}加值{/g}，{g|Encyclopedia:Constitution}体质属性{/g}获得+2体型加值，{g|Encyclopedia:Armor_Class}AC{/g}获得+4天生防御加值，对困难地形免疫，获得喷吐{g|Encyclopedia:Attack}攻击{/g}，20点寒冷抗性。你的{g|Encyclopedia:Speed}移动速度{/g}提高10英尺。你还获得了1次啮咬（{g|Encyclopedia:Dice}1d8{/g}），2次爪抓（1d6），2次翼击（1d4）。你不会获得一般龙形法术给予的喷吐攻击。"
+    },
+    {
+      "Key": "cc3fcd304e014e43b7c3916bba6fd215",
+      "SimpleName": "WyrmSingerWyrmSagaEffectWhite.Name",
+      "ProcessTemplates": false,
+      "enGB": "Wyrm Saga - White",
+      "zhCN": "龙吟（白龙）"
+    },
+    {
+      "Key": "390b53fc10d3410c8b73b00bd64ecb07",
+      "SimpleName": "WyrmSingerWyrmSagaFeature.Description",
+      "ProcessTemplates": true,
+      "enGB": "At 14th level, a wyrm singer embraces the essence of the draconic histories, allowing his allies to manifest aspects of a dragon in their physical forms. The wyrm singer selects a single ally within 50 feet to take on a draconic aspect (as per form of the dragon I) of a type of the wyrm singer’s choice. The ally cannot use the breath weapon attack provided by form of the dragon. The wyrm singer must expend 1 round of raging song each round to maintain wyrm saga, and can affect only a single ally at a time.",
+      "zhCN": "在14级时，龙战颂者念诵龙族历史中关于其一族本质的秘密，将自己的盟友变化为巨龙之型。龙战颂者可以选择一个距离他60尺内的盟友使其获得龙族的化身（如同法术龙形I），变身的龙类生物类型由龙战颂者指定。这个盟友在变身时不能使用龙类的喷吐武器。龙战颂者每轮必须消耗1轮的战怒之歌使用时间来维持龙吟，并且他只能使用本战怒之歌来影响一个盟友。"
+    },
+    {
+      "Key": "d80d9959b3744ec1aa36c6019cb81611",
+      "SimpleName": "WyrmSingerWyrmSagaFlagBlack.Description",
+      "ProcessTemplates": true,
+      "enGB": "When performing the wyrm saga raging song, the selected ally will be effected by the black dragon variant of form of the dragon I.",
+      "zhCN": "演奏龙吟时，目标盟友如同受到龙形I（黑龙）影响"
+    },
+    {
+      "Key": "95f0dd8ae20d47269fbe6987a938b443",
+      "SimpleName": "WyrmSingerWyrmSagaFlagBlack.Name",
+      "ProcessTemplates": false,
+      "enGB": "Wyrm Saga Selection - Black",
+      "zhCN": "龙吟（黑龙）"
+    },
+    {
+      "Key": "e9006186c06e4180b94d56f9bd6699a6",
+      "SimpleName": "WyrmSingerWyrmSagaFlagBlue.Description",
+      "ProcessTemplates": true,
+      "enGB": "When performing the wyrm saga raging song, the selected ally will be effected by the blue dragon variant of form of the dragon I.",
+      "zhCN": "演奏龙吟时，目标盟友如同受到龙形I（蓝龙）影响"
+    },
+    {
+      "Key": "1081d77cceec4f7f9d97747fc2bef2c5",
+      "SimpleName": "WyrmSingerWyrmSagaFlagBlue.Name",
+      "ProcessTemplates": false,
+      "enGB": "Wyrm Saga Selection - Blue",
+      "zhCN": "龙吟（蓝龙）"
+    },
+    {
+      "Key": "36820fe8ba9a48ceac39f3ad386103d0",
+      "SimpleName": "WyrmSingerWyrmSagaFlagBrass.Description",
+      "ProcessTemplates": true,
+      "enGB": "When performing the wyrm saga raging song, the selected ally will be effected by the brass dragon variant of form of the dragon I.",
+      "zhCN": "演奏龙吟时，目标盟友如同受到龙形I（黄铜龙）影响"
+    },
+    {
+      "Key": "2b1c04a28d184966be17db06bf9f3280",
+      "SimpleName": "WyrmSingerWyrmSagaFlagBrass.Name",
+      "ProcessTemplates": false,
+      "enGB": "Wyrm Saga Selection - Brass",
+      "zhCN": "龙吟（黄铜龙）"
+    },
+    {
+      "Key": "21b23878007e4c1295e95273c6e7f380",
+      "SimpleName": "WyrmSingerWyrmSagaFlagGreen.Description",
+      "ProcessTemplates": true,
+      "enGB": "When performing the wyrm saga raging song, the selected ally will be effected by the green dragon variant of form of the dragon I.",
+      "zhCN": "演奏龙吟时，目标盟友如同受到龙形I（绿龙）影响"
+    },
+    {
+      "Key": "98834992e28640c48bb76d5f7382c464",
+      "SimpleName": "WyrmSingerWyrmSagaFlagGreen.Name",
+      "ProcessTemplates": false,
+      "enGB": "Wyrm Saga Selection - Green",
+      "zhCN": "龙吟（绿龙）"
+    },
+    {
+      "Key": "0fd432a1ba77489c98db1f6399961e54",
+      "SimpleName": "WyrmSingerWyrmSagaFlagRed.Description",
+      "ProcessTemplates": true,
+      "enGB": "When performing the wyrm saga raging song, the selected ally will be effected by the red dragon variant of form of the dragon I.",
+      "zhCN": "演奏龙吟时，目标盟友如同受到龙形I（红龙）影响"
+    },
+    {
+      "Key": "42bde63ef65d47de92532ae02b2633c7",
+      "SimpleName": "WyrmSingerWyrmSagaFlagRed.Name",
+      "ProcessTemplates": false,
+      "enGB": "Wyrm Saga Selection - Red",
+      "zhCN": ""
+    },
+    {
+      "Key": "4e7eae468f4b496a98e0abdb74697418",
+      "SimpleName": "WyrmSingerWyrmSagaFlagSilver.Description",
+      "ProcessTemplates": true,
+      "enGB": "When performing the wyrm saga raging song, the selected ally will be effected by the silver dragon variant of form of the dragon I.",
+      "zhCN": "演奏龙吟时，目标盟友如同受到龙形I（银龙）影响"
+    },
+    {
+      "Key": "ca4a2560882547ee8a7cdb46477d421d",
+      "SimpleName": "WyrmSingerWyrmSagaFlagSilver.Name",
+      "ProcessTemplates": false,
+      "enGB": "Wyrm Saga Selection - Silver",
+      "zhCN": "龙吟（银龙）"
+    },
+    {
+      "Key": "ecf00aee8f47459caf8fe8503e5bf8b0",
+      "SimpleName": "WyrmSingerWyrmSagaFlagWhite.Description",
+      "ProcessTemplates": true,
+      "enGB": "When performing the wyrm saga raging song, the selected ally will be effected by the white dragon variant of form of the dragon I.",
+      "zhCN": "演奏龙吟时，目标盟友如同受到龙形I（白龙）影响"
+    },
+    {
+      "Key": "161710fae6fa405cace301ee5d1776c6",
+      "SimpleName": "WyrmSingerWyrmSagaFlagWhite.Name",
+      "ProcessTemplates": false,
+      "enGB": "Wyrm Saga Selection - White",
+      "zhCN": "龙吟（白龙）"
+    },
+    {
+      "Key": "6adfaf50eb1e45d69c253fe6efad2938",
+      "SimpleName": "WyrmSingerWyrmSagaTargetBuff.Description",
+      "ProcessTemplates": true,
+      "enGB": "This ally is selected to take on a draconic aspect (as per form of the dragon I) of a type of the wyrm singer’s choice when under the effect of the Wyrm Saga performance. This ally cannot use the breath weapon attack provided by form of the dragon. The wyrm singer must expend 1 round of raging song each round to maintain wyrm saga, and can affect only a single ally at a time.",
+      "zhCN": "这个盟友如同受到龙形I影响，变身的龙类生物类型由龙战颂者指定。这个盟友在变身时不能使用龙类的喷吐武器。龙战颂者每轮必须消耗1轮的战怒之歌使用时间来维持龙吟，并且他只能使用本战怒之歌来影响一个盟友。"
+    },
+    {
+      "Key": "a647699291174977b4e944d44d1c353f",
+      "SimpleName": "WyrmSingerWyrmSagaTargetBuff.Name",
+      "ProcessTemplates": false,
+      "enGB": "Wyrm Saga Target",
+      "zhCN": "龙吟目标"
+    },
+    {
+      "Key": "c5d11f67f01f416faa96661e0f12dbaa",
+      "SimpleName": "WyrmSingerWyrmSagaTargetSelectorAbility.Description",
+      "ProcessTemplates": true,
+      "enGB": "Choose the ally to be affected by wyrm saga, along with which variant of form of the dragon I the saga will imbue them with.",
+      "zhCN": "目标受到龙吟影响，效果如同龙形I"
+    },
+    {
+      "Key": "404f8c19322044db989d53ed0b251fd4",
+      "SimpleName": "WyrmSingerWyrmSagaTargetSelectorAbility.Name",
+      "ProcessTemplates": false,
+      "enGB": "Wyrm Saga Selector",
+      "zhCN": "选择龙吟目标"
+    },
+    {
+      "Key": "a25d3496481045069b189f00d2daa9bb",
+      "SimpleName": "WyrmSingerWyrmSagaTargetSelectorAbilityBlack.Description",
+      "ProcessTemplates": true,
+      "enGB": "Choose the ally to be affected by wyrm saga, gaining the effect of the black dragon variant of form of the dragon I while able to hear the raging song.",
+      "zhCN": "选择目标受到龙吟影响，在其受到战怒之歌影响期间获得如同龙形I（黑龙）的效果"
+    },
+    {
+      "Key": "2cbe70ad6a4e4420bea701a9addd1626",
+      "SimpleName": "WyrmSingerWyrmSagaTargetSelectorAbilityBlack.Name",
+      "ProcessTemplates": false,
+      "enGB": "Wyrm Saga Selector - Black",
+      "zhCN": "选择龙吟目标（黑龙）"
+    },
+    {
+      "Key": "cf47fe61d1d3423491c4d97080c55364",
+      "SimpleName": "WyrmSingerWyrmSagaTargetSelectorAbilityBlue.Description",
+      "ProcessTemplates": true,
+      "enGB": "Choose the ally to be affected by wyrm saga, gaining the effect of the blue dragon variant of form of the dragon I while able to hear the raging song.",
+      "zhCN": "选择目标受到龙吟影响，在其受到战怒之歌影响期间获得如同龙形I（蓝龙）的效果"
+    },
+    {
+      "Key": "007f1af4cbf94651aa7dc8092e424544",
+      "SimpleName": "WyrmSingerWyrmSagaTargetSelectorAbilityBlue.Name",
+      "ProcessTemplates": false,
+      "enGB": "Wyrm Saga Selector - Blue",
+      "zhCN": "选择龙吟目标（蓝龙）"
+    },
+    {
+      "Key": "8a50e323f25b42d8a5f87a63531fa80b",
+      "SimpleName": "WyrmSingerWyrmSagaTargetSelectorAbilityBrass.Description",
+      "ProcessTemplates": true,
+      "enGB": "Choose the ally to be affected by wyrm saga, gaining the effect of the brass dragon variant of form of the dragon I while able to hear the raging song.",
+      "zhCN": "选择目标受到龙吟影响，在其受到战怒之歌影响期间获得如同龙形I（黄铜龙）的效果"
+    },
+    {
+      "Key": "a9444bc2635f4aa486e3dd74dd2ba93a",
+      "SimpleName": "WyrmSingerWyrmSagaTargetSelectorAbilityBrass.Name",
+      "ProcessTemplates": false,
+      "enGB": "Wyrm Saga Selector - Brass",
+      "zhCN": "选择龙吟目标（黄铜龙）"
+    },
+    {
+      "Key": "b3403e4f32724bdc832e40ac0844f9e5",
+      "SimpleName": "WyrmSingerWyrmSagaTargetSelectorAbilityGreen.Description",
+      "ProcessTemplates": true,
+      "enGB": "Choose the ally to be affected by wyrm saga, gaining the effect of the green dragon variant of form of the dragon I while able to hear the raging song.",
+      "zhCN": "选择目标受到龙吟影响，在其受到战怒之歌影响期间获得如同龙形I（绿龙）的效果"
+    },
+    {
+      "Key": "e0c512f2ac3140899ed1d858028468b3",
+      "SimpleName": "WyrmSingerWyrmSagaTargetSelectorAbilityGreen.Name",
+      "ProcessTemplates": false,
+      "enGB": "Wyrm Saga Selector - Green",
+      "zhCN": "选择龙吟目标（绿龙）"
+    },
+    {
+      "Key": "111da05d698549fdad15b9f4142b19f9",
+      "SimpleName": "WyrmSingerWyrmSagaTargetSelectorAbilityRed.Description",
+      "ProcessTemplates": true,
+      "enGB": "Choose the ally to be affected by wyrm saga, gaining the effect of the red dragon variant of form of the dragon I while able to hear the raging song.",
+      "zhCN": "选择目标受到龙吟影响，在其受到战怒之歌影响期间获得如同龙形I（红龙）的效果"
+    },
+    {
+      "Key": "debdad8b5283443aa295e8db8483945e",
+      "SimpleName": "WyrmSingerWyrmSagaTargetSelectorAbilityRed.Name",
+      "ProcessTemplates": false,
+      "enGB": "Wyrm Saga Selector - Red",
+      "zhCN": "选择龙吟目标（红龙）"
+    },
+    {
+      "Key": "364e062a3df44224a69a53af3f5f25ab",
+      "SimpleName": "WyrmSingerWyrmSagaTargetSelectorAbilitySilver.Description",
+      "ProcessTemplates": true,
+      "enGB": "Choose the ally to be affected by wyrm saga, gaining the effect of the silver dragon variant of form of the dragon I while able to hear the raging song.",
+      "zhCN": "选择目标受到龙吟影响，在其受到战怒之歌影响期间获得如同龙形I（银龙）的效果"
+    },
+    {
+      "Key": "172262b7ce86422aba5d86deebcc088b",
+      "SimpleName": "WyrmSingerWyrmSagaTargetSelectorAbilitySilver.Name",
+      "ProcessTemplates": false,
+      "enGB": "Wyrm Saga Selector - Silver",
+      "zhCN": "选择龙吟目标（银龙）"
+    },
+    {
+      "Key": "5431974484e546d8a9becd18e6ce11fb",
+      "SimpleName": "WyrmSingerWyrmSagaTargetSelectorAbilityWhite.Description",
+      "ProcessTemplates": true,
+      "enGB": "Choose the ally to be affected by wyrm saga, gaining the effect of the white dragon variant of form of the dragon I while able to hear the raging song.",
+      "zhCN": "选择目标受到龙吟影响，在其受到战怒之歌影响期间获得如同龙形I（白龙）的效果"
+    },
+    {
+      "Key": "477e5efdc5554b3990fb7319a95643ad",
+      "SimpleName": "WyrmSingerWyrmSagaTargetSelectorAbilityWhite.Name",
+      "ProcessTemplates": false,
+      "enGB": "Wyrm Saga Selector - White",
+      "zhCN": "选择龙吟目标（白龙）"
     },
     {
       "Key": "06d323bbfe134bc8b52b16b86076b181",
