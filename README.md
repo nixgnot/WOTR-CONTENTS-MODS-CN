@@ -3320,7 +3320,7 @@ C:\Users\你的用户名\AppData\LocalLow\Owlcat Games\Pathfinder Wrath Of The R
  <tr><th colspan="3">新增内容列表<br></th></tr> 
   <tr><td rowspan="1">职业</i></td>
        <td>游荡剑客</td>
-          <td>变体<br> 灵感之刃</td></tr>。</td></tr>
+          <td>变体<br> 灵感之刃<br> 灵使剑客</td></tr>
   <tr><td rowspan="4">专长</i></td>
        <td>Feint 虚招</td>
           <td>你能够尝试使用移动动作对对手发动虚招。使用虚招时，进行一次唬骗技能检定，虚招的DC为“10+目标BAB+感知修正”。\n如果你成功地使用了虚招，目标将在对抗你的下一次近战攻击时或者直到其下一轮前（取较先发生者），无法在AC上获得自己的敏捷加值。</td></tr>
