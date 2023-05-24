@@ -18111,6 +18111,69 @@
       "zhCN": "神殿智慧"
     },
     {
+      "Key": "82dc565f57f14ac694555598148967d9",
+      "SimpleName": "WitchHexGuidingStarFeature.Description",
+      "ProcessTemplates": true,
+      "enGB": "The stars themselves hold many answers, you may add your Charisma modifier to your Wisdom modifier on all Wisdom-based checks. In addition, once per day you can cast one spell as if it were modified by the Empower Spell or Extend Spell feat without increasing the spell’s casting time or level.",
+      "zhCN": "星辰蕴含着许多奥秘，你可以在所有基于感知的检查中将您的魅力调整值添加到你的感知调整值。此外，每天一次，你可以施展一个法术，就好像它应用了法术强效或法术延时专长，但不会增加法术的施法时间或等级。"
+    },
+    {
+      "Key": "295fbc5a0f13428bbee81c687ca46e8a",
+      "SimpleName": "WitchHexGuidingStarMetamagicAbilityBase.Description",
+      "ProcessTemplates": true,
+      "enGB": "Once per day you can cast one spell as if it were modified by the Empower Spell or Extend Spell feat without increasing the spell’s casting time or level.",
+      "zhCN": "每天一次，你可以释放一个法术，如同其被增效或者延时超魔专长影响，而不实际增加其施法时间或者等级。"
+    },
+    {
+      "Key": "75f362f017684d5c9d0b690ee3dbfb65",
+      "SimpleName": "WitchHexGuidingStarMetamagicAbilityEmpower.Description",
+      "ProcessTemplates": true,
+      "enGB": "Once per day you can cast one spell as if it were modified by the Empower Spell feat without increasing the spell’s casting time or level.",
+      "zhCN":"每天一次，你可以释放一个法术，如同其被增效超魔专长影响，而不实际增加其施法时间或者等级。"
+    },
+    {
+      "Key": "6c759966d629477fbf08e291dce7586e",
+      "SimpleName": "WitchHexGuidingStarMetamagicAbilityExtend.Description",
+      "ProcessTemplates": true,
+      "enGB": "Once per day you can cast one spell as if it were modified by the Extend Spell feat without increasing the spell’s casting time or level.",
+      "zhCN":"每天一次，你可以释放一个法术，如同其被延时超魔专长影响，而不实际增加其施法时间或者等级。"
+    },
+    {
+      "Key": "43ffef41b2934fabbd07163cec6dd902",
+      "SimpleName": "WitchHexGuidingStarMetamagicBuffEmpower.Description",
+      "ProcessTemplates": true,
+      "enGB": "Once per day you can cast one spell as if it were modified by the Empower Spell feat without increasing the spell’s casting time or level.",
+      "zhCN":"每天一次，你可以释放一个法术，如同其被增效超魔专长影响，而不实际增加其施法时间或者等级。"
+    },
+    {
+      "Key": "9670236a98b1412c88c3660fae09fd98",
+      "SimpleName": "WitchHexGuidingStarMetamagicBuffExtend.Description",
+      "ProcessTemplates": true,
+      "enGB": "Once per day you can cast one spell as if it were modified by the Extend Spell feat without increasing the spell’s casting time or level.",
+      "zhCN":"每天一次，你可以释放一个法术，如同其被延时超魔专长影响，而不实际增加其施法时间或者等级。"
+    },
+    {
+      "Key": "10a0c082a7304dd9ae4c457e672f8b44",
+      "SimpleName": "WitchHexStarburnAbility.Description",
+      "ProcessTemplates": true,
+      "enGB": "As a standard action, the stargazer causes one creature within 30 feet to burn like a star. The creature takes 1d6 points of fire damage for every 2 levels the stargazer possesses and emits bright light for 1 round. A successful Fortitude saving throw halves the damage and negates the emission of bright light. The stargazer can use this hex a number of times per day equal to her Charisma modifier (minimum 1), but must wait 1d4 rounds between uses.",
+      "zhCN":"以一个标准动作，观星者可以使30尺内一个单位燃起星光。目标受到每2观星者等级1d6点火焰伤害，并散发出强光１轮。成功的强韧豁免可以减半伤害并不会发光。该巫术每日使用次数为观星者的魅力调整值，连续使用之间至少间距1d4轮。"
+    },
+    {
+      "Key": "ca2c27420a9d448795f0e13fd3103364",
+      "SimpleName": "WitchHexStarburnBuff.Description",
+      "ProcessTemplates": true,
+      "enGB": "As a standard action, the stargazer causes one creature within 30 feet to burn like a star. The creature takes 1d6 points of fire damage for every 2 levels the stargazer possesses and emits bright light for 1 round. A successful Fortitude saving throw halves the damage and negates the emission of bright light. The Witch can use this hex a number of times per day equal to her Charisma modifier (minimum 1), but must wait 1d4 rounds between uses.",
+      "zhCN":"以一个标准动作，观星者可以使30尺内一个单位燃起星光。目标受到每2观星者等级1d6点火焰伤害，并散发出强光１轮。成功的强韧豁免可以减半伤害并不会发光。该巫术每日使用次数为观星者的魅力调整值，连续使用之间至少间距1d4轮。"
+    },
+    {
+      "Key": "50d430ce29ce410794d9ce6607f02ce0",
+      "SimpleName": "WitchHexStarburnFeature.Description",
+      "ProcessTemplates": true,
+      "enGB": "As a standard action, the stargazer causes one creature within 30 feet to burn like a star. The creature takes 1d6 points of fire damage for every 2 levels the stargazer possesses and emits bright light for 1 round. A successful Fortitude saving throw halves the damage and negates the emission of bright light. The stargazer can use this hex a number of times per day equal to her Charisma modifier (minimum 1), but must wait 1d4 rounds between uses.",
+      "zhCN":"以一个标准动作，观星者可以使30尺内一个单位燃起星光。目标受到每2观星者等级1d6点火焰伤害，并散发出强光１轮。成功的强韧豁免可以减半伤害并不会发光。该巫术每日使用次数为观星者的魅力调整值，连续使用之间至少间距1d4轮。"
+    },
+    {
       "Key": "9ae2d19c4e104c6cbc01fd55413c5747",
       "SimpleName": "WolfsbaneFeature1.Description",
       "ProcessTemplates": true,
@@ -18449,16 +18512,14 @@
       "SimpleName": "WyrmSingerDraconicRageAbility.Description",
       "ProcessTemplates": true,
       "enGB": "At 1st level, a wyrm singer can kindle an echo of ancient rage felt between warring dragon clans in his allies. This ability acts as inspired rage, except those affected gain a +2 bonus on melee attack and damage rolls and a +2 bonus on saving throws against paralysis and sleep effects (but they still take a –1 penalty to their AC), rather than inspired rage’s normal bonuses. At 4th level and every 4 skald levels thereafter, the song’s bonuses on saves against paralysis and sleep effects increase by 1. At 8th and 16th levels, the song’s bonus on melee attack and damage rolls increases by 1.",
-      "zhCN": "在1级时，龙战颂者可以在他的盟友心中点燃诸龙在进入战争时所爆发的古老狂怒。这个能力的效果与激发狂暴战怒之歌类似，但被它所影响的目标不会获得激发狂暴战怒之歌原本赋予的好处，而是会在近战攻击与伤害检定，以及对抗麻痹与睡眠效果的豁免检定上获得+2士气加值（在防御等级上仍然会承受-1减值）。在4级和之后每提升4个歌者等级时，龙战颂者的本战怒之歌赋予的对抗麻痹与睡眠效果的豁免检定加值额外+1；在8级和16级时，本战怒之歌在近战攻击和伤害检定上提供的加值再额外+1。
-"
+      "zhCN": "在1级时，龙战颂者可以在他的盟友心中点燃诸龙在进入战争时所爆发的古老狂怒。这个能力的效果与激发狂暴战怒之歌类似，但被它所影响的目标不会获得激发狂暴战怒之歌原本赋予的好处，而是会在近战攻击与伤害检定，以及对抗麻痹与睡眠效果的豁免检定上获得+2士气加值（在防御等级上仍然会承受-1减值）。在4级和之后每提升4个歌者等级时，龙战颂者的本战怒之歌赋予的对抗麻痹与睡眠效果的豁免检定加值额外+1；在8级和16级时，本战怒之歌在近战攻击和伤害检定上提供的加值再额外+1。"
     },
     {
       "Key": "8df53f28a6334f79bd29bdfd3087892d",
       "SimpleName": "WyrmSingerDraconicRageEffectBuff.Description",
       "ProcessTemplates": true,
       "enGB": "At 1st level, a wyrm singer can kindle an echo of ancient rage felt between warring dragon clans in his allies. This ability acts as inspired rage, except those affected gain a +2 bonus on melee attack and damage rolls and a +2 bonus on saving throws against paralysis and sleep effects (but they still take a –1 penalty to their AC), rather than inspired rage’s normal bonuses. At 4th level and every 4 skald levels thereafter, the song’s bonuses on saves against paralysis and sleep effects increase by 1. At 8th and 16th levels, the song’s bonus on melee attack and damage rolls increases by 1.",
-      "zhCN": "在1级时，龙战颂者可以在他的盟友心中点燃诸龙在进入战争时所爆发的古老狂怒。这个能力的效果与激发狂暴战怒之歌类似，但被它所影响的目标不会获得激发狂暴战怒之歌原本赋予的好处，而是会在近战攻击与伤害检定，以及对抗麻痹与睡眠效果的豁免检定上获得+2士气加值（在防御等级上仍然会承受-1减值）。在4级和之后每提升4个歌者等级时，龙战颂者的本战怒之歌赋予的对抗麻痹与睡眠效果的豁免检定加值额外+1；在8级和16级时，本战怒之歌在近战攻击和伤害检定上提供的加值再额外+1。
-"
+      "zhCN": "在1级时，龙战颂者可以在他的盟友心中点燃诸龙在进入战争时所爆发的古老狂怒。这个能力的效果与激发狂暴战怒之歌类似，但被它所影响的目标不会获得激发狂暴战怒之歌原本赋予的好处，而是会在近战攻击与伤害检定，以及对抗麻痹与睡眠效果的豁免检定上获得+2士气加值（在防御等级上仍然会承受-1减值）。在4级和之后每提升4个歌者等级时，龙战颂者的本战怒之歌赋予的对抗麻痹与睡眠效果的豁免检定加值额外+1；在8级和16级时，本战怒之歌在近战攻击和伤害检定上提供的加值再额外+1。"
     },
     {
       "Key": "4e0924643d1f480281e0063e9e37ca35",
@@ -18472,8 +18533,7 @@
       "SimpleName": "WyrmSingerDraconicRageFeature.Description",
       "ProcessTemplates": true,
       "enGB": "At 1st level, a wyrm singer can kindle an echo of ancient rage felt between warring dragon clans in his allies. This ability acts as inspired rage, except those affected gain a +2 bonus on melee attack and damage rolls and a +2 bonus on saving throws against paralysis and sleep effects (but they still take a –1 penalty to their AC), rather than inspired rage’s normal bonuses. At 4th level and every 4 skald levels thereafter, the song’s bonuses on saves against paralysis and sleep effects increase by 1. At 8th and 16th levels, the song’s bonus on melee attack and damage rolls increases by 1.",
-      "zhCN": "在1级时，龙战颂者可以在他的盟友心中点燃诸龙在进入战争时所爆发的古老狂怒。这个能力的效果与激发狂暴战怒之歌类似，但被它所影响的目标不会获得激发狂暴战怒之歌原本赋予的好处，而是会在近战攻击与伤害检定，以及对抗麻痹与睡眠效果的豁免检定上获得+2士气加值（在防御等级上仍然会承受-1减值）。在4级和之后每提升4个歌者等级时，龙战颂者的本战怒之歌赋予的对抗麻痹与睡眠效果的豁免检定加值额外+1；在8级和16级时，本战怒之歌在近战攻击和伤害检定上提供的加值再额外+1。
-"
+      "zhCN": "在1级时，龙战颂者可以在他的盟友心中点燃诸龙在进入战争时所爆发的古老狂怒。这个能力的效果与激发狂暴战怒之歌类似，但被它所影响的目标不会获得激发狂暴战怒之歌原本赋予的好处，而是会在近战攻击与伤害检定，以及对抗麻痹与睡眠效果的豁免检定上获得+2士气加值（在防御等级上仍然会承受-1减值）。在4级和之后每提升4个歌者等级时，龙战颂者的本战怒之歌赋予的对抗麻痹与睡眠效果的豁免检定加值额外+1；在8级和16级时，本战怒之歌在近战攻击和伤害检定上提供的加值再额外+1。"
     },
     {
       "Key": "752761d3047a48de897de5ea976cb346",
