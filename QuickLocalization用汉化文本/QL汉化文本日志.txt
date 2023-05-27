@@ -17,7 +17,7 @@ QL详细使用说明请参阅https://github.com/nixgnot/WOTR-CONTENTS-MODS-CN/bl
        ---RespecMod
        ---SmolCraft
        ---ToggleableThrowingWeapons
-       *CharacterOptionsPlus 自带汉化已经更新，现已不需要补充文件，删除
+       *CharacterOptionsPlus 自带汉化已经更新，现已不需要补充文件，删除。如果汉化未及时更新可访问 https://github.com/nixgnot/CharacterOptionsPlus/tree/main/CharacterOptionsPlus/CharacterOptionsPlus/Strings
  --TTTLocalization
        ---ExpandedContent（自带中文但存在屎山问题导致汉化漏失，提供优化汉化，仍在持续施工）
        ---MicroscopicContentExpansion
@@ -38,3 +38,5 @@ QL详细使用说明请参阅https://github.com/nixgnot/WOTR-CONTENTS-MODS-CN/bl
 2023/5/18  加入AlternateRacialTraits、Swashbuckler、EnduringRework汉化
  ---------------------------------------------------------
 2023/5/21  更新Swashbuckler、ExpandedContent汉化
+ ---------------------------------------------------------
+2023/5/21  *Swashbuckler自带汉化已经更新，不再需要。如果汉化未及时更新可访问 https://github.com/nixgnot/SwashbucklerWOTR/blob/main/Swashbuckler/LocalizedStrings.json
