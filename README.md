@@ -63,6 +63,7 @@
 | [SwashbucklerWOTR](#SwashbucklerWOTR) | 游荡剑客 | QL汉化 | :heavy_check_mark: | :star: | :file_folder: |||
 | [SmolCraft](#SmolCraft) | SmolCraft | QL汉化 | :heavy_check_mark: | :star: | :file_folder: |||
 | [EnduringRework](#EnduringRework) | 持久重置 | QL汉化 | :heavy_check_mark: | :star: | :file_folder: |||
+| [CraftMaster](#CraftMaster) | 造物MOD | 自带 | :heavy_check_mark: | :star::star: | :file_folder::file_folder: |||
 
 备注
 + UMM一栏为是否使用UMM安装
