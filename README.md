@@ -2038,7 +2038,7 @@
   
 ------------------------------------------- 
 ### [MoreCantrips](https://github.com/pheonix99/MoreCantrips)
-> *前置：* 无<br>
+> *前置：* TabletopTweaks-Core<br>
 > *中文：* **有汉化**<br>
 > *安装方式：* **UMM**<br>
 > *新增内容：* 更多戏法<br>
