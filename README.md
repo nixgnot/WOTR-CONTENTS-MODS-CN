@@ -3383,6 +3383,16 @@ C:\Users\你的用户名\AppData\LocalLow\Owlcat Games\Pathfinder Wrath Of The R
   </table>
   
 --------------------------------------
+### [CraftMaster](https://github.com/magicskysword/CraftMaster)
+> *前置：* 无<br>
+> *中文：* **QL汉化**<br>
+> *安装方式：* **UMM**<br>
+> *新增内容：* 制造奇物功能<br>
++ 国产MOD，由@magicskysword（也是QL Mod的作者）制作
++ 增加了制造奇物的功能，Mod目前处于开发阶段
++ 详细说明反馈问题和建议请去原发布页
+  
+--------------------------------------
 
 ### 功能MOD索引
 + [ToyBox](https://www.nexusmods.com/pathfinderwrathoftherighteous/mods/8) 应该不用介绍？
