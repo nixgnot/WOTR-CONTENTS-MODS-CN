@@ -1651,7 +1651,7 @@
       "ProcessTemplates": true,
       "IsUsed": false,
       "enGB": "\nYou have mastery over rock and stone, can manifest vast pits, and command earth creatures.\nAcid Dart: As a standard action, you can unleash an acid dart targeting any foe within 30 feet as a ranged touch attack. This acid dart deals 1d6 points of acid damage+ 1 point for every two levels you possess in the class that gave you access to this domain. You can use this ability a number of times per day equal to 3 + your Wisdom modifier.\nTunnel Runner (Su): At 6th level, as a standard action, you can create a 30-foot aura of gale-like winds that slows the progress of enemies. Creatures in the aura cannot take a 5-foot step and treat it as as difficult terrain. You can use this ability for a number of rounds per day equal to your cleric level. The rounds do not need to be consecutive.",
-      "zhCN": "\n你拥有对大地、金属与石头的掌控，可发射酸蚀飞镖并指挥土系生物。\n强酸镖：作为{g|Encyclopedia:Standard_Actions}标准动作{/g}，你能够以远程{g|Encyclopedia:TouchAttack}接触攻击{/g}的方式，对30英尺内的任意敌人发射一枚强酸镖。此强酸镖将造成{g|Encyclopedia:Dice}1d6{/g}点{g|Encyclopedia:Energy_Damage}酸蚀伤害{/g}，赋予你此领域的职业等级每提升2级，可额外造成1点伤害。每天可使用次数为{g|Encyclopedia:Wisdom}感知{/g}调整值+3。\n隧道竞走：在第 6 级，在地下时，你在隐匿和察觉技能检定上获得等同于你牧师等级的洞察加值，在先攻检定上获得等同于你的感知调整值的洞察加值。每天时间为每牧师等级1分钟，不需连续但必须以分钟计。"
+      "zhCN": "\n你能够操纵土和石头，和土系生物沟通。\n酸镖：作为{g|Encyclopedia:Standard_Actions}标准动作{/g}，你能够以远程{g|Encyclopedia:TouchAttack}接触攻击{/g}的方式，对30英尺内的任意敌人发射一枚酸镖。此酸镖将造成{g|Encyclopedia:Dice}1d6{/g}点{g|Encyclopedia:Energy_Damage}酸蚀伤害{/g}，赋予你此领域的职业等级每提升2级，可额外造成1点伤害。每天可使用次数为{g|Encyclopedia:Wisdom}感知{/g}调整值+3。\n隧道竞走：到了8级，你可以用标准动作创造一股30尺范围的减缓敌人行动的灵光。范围内的生物无法进行5尺快步且视为处于困难地形。每天可用的轮数等于牧师等级，自由动作解除，无需连续。"
     },
     {
       "Key": "a1d121274e404e86a3d6ba0729da73f8",
@@ -1695,7 +1695,7 @@
       "ProcessTemplates": true,
       "IsUsed": false,
       "enGB": "\nYou have mastery over rock and stone, can manifest vast pits, and command earth creatures.\nAcid Dart: As a standard action, you can unleash an acid dart targeting any foe within 30 feet as a ranged touch attack. This acid dart deals 1d6 points of acid damage+ 1 point for every two levels you possess in the class that gave you access to this domain. You can use this ability a number of times per day equal to 3 + your Wisdom modifier.\nTunnel Runner (Su): At 6th level, as a standard action, you can create a 30-foot aura of gale-like winds that slows the progress of enemies. Creatures in the aura cannot take a 5-foot step and treat it as as difficult terrain. You can use this ability for a number of rounds per day equal to your cleric level. The rounds do not need to be consecutive.\nDomain Spells: stone fist, createpit, spiked pit, spike stones, acidic spray, hungry pit, elemental body IV (earth), iron body, elemental swarm (earth).",
-      "zhCN": "\n你拥有对大地、金属与石头的掌控，可发射酸蚀飞镖并指挥土系生物。\n强酸镖：作为{g|Encyclopedia:Standard_Actions}标准动作{/g}，你能够以远程{g|Encyclopedia:TouchAttack}接触攻击{/g}的方式，对30英尺内的任意敌人发射一枚强酸镖。此强酸镖将造成{g|Encyclopedia:Dice}1d6{/g}点{g|Encyclopedia:Energy_Damage}酸蚀伤害{/g}，赋予你此领域的职业等级每提升2级，可额外造成1点伤害。每天可使用次数为{g|Encyclopedia:Wisdom}感知{/g}调整值+3。\n隧道竞走：在第 6 级，在地下时，你在隐匿和察觉技能检定上获得等同于你牧师等级的洞察加值，在先攻检定上获得等同于你的感知调整值的洞察加值。每天时间为每牧师等级1分钟，不需连续但必须以分钟计。"
+      "zhCN": "\n你能够操纵土和石头，和土系生物沟通。\n酸镖：作为{g|Encyclopedia:Standard_Actions}标准动作{/g}，你能够以远程{g|Encyclopedia:TouchAttack}接触攻击{/g}的方式，对30英尺内的任意敌人发射一枚酸镖。此酸镖将造成{g|Encyclopedia:Dice}1d6{/g}点{g|Encyclopedia:Energy_Damage}酸蚀伤害{/g}，赋予你此领域的职业等级每提升2级，可额外造成1点伤害。每天可使用次数为{g|Encyclopedia:Wisdom}感知{/g}调整值+3。\n隧道竞走：到了8级，你可以用标准动作创造一股30尺范围的减缓敌人行动的灵光。范围内的生物无法进行5尺快步且视为处于困难地形。每天可用的轮数等于牧师等级，自由动作解除，无需连续。"
     },
     {
       "Key": "c726bdc6998c4867a38412255a68c9dc",
@@ -1703,14 +1703,14 @@
       "ProcessTemplates": true,
       "IsUsed": false,
       "enGB": "\nYou have mastery over rock and stone, can manifest vast pits, and command earth creatures.\nAcid Dart: As a standard action, you can unleash an acid dart targeting any foe within 30 feet as a ranged touch attack. This acid dart deals 1d6 points of acid damage+ 1 point for every two levels you possess in the class that gave you access to this domain. You can use this ability a number of times per day equal to 3 + your Wisdom modifier.\nTunnel Runner (Su): At 6th level, as a standard action, you can create a 30-foot aura of gale-like winds that slows the progress of enemies. Creatures in the aura cannot take a 5-foot step and treat it as as difficult terrain. You can use this ability for a number of rounds per day equal to your cleric level. The rounds do not need to be consecutive.\nDomain Spells: stone fist, createpit, spiked pit, spike stones, acidic spray, hungry pit, elemental body IV (earth), iron body, elemental swarm (earth).",
-      "zhCN": "\n你拥有对大地、金属与石头的掌控，可发射酸蚀飞镖并指挥土系生物。\n强酸镖：作为{g|Encyclopedia:Standard_Actions}标准动作{/g}，你能够以远程{g|Encyclopedia:TouchAttack}接触攻击{/g}的方式，对30英尺内的任意敌人发射一枚强酸镖。此强酸镖将造成{g|Encyclopedia:Dice}1d6{/g}点{g|Encyclopedia:Energy_Damage}酸蚀伤害{/g}，赋予你此领域的职业等级每提升2级，可额外造成1点伤害。每天可使用次数为{g|Encyclopedia:Wisdom}感知{/g}调整值+3。\n隧道竞走：在第 6 级，在地下时，你在隐匿和察觉技能检定上获得等同于你牧师等级的洞察加值，在先攻检定上获得等同于你的感知调整值的洞察加值。每天时间为每牧师等级1分钟，不需连续但必须以分钟计。\n领域法术: 石拳，次元陷坑，次元刺坑，岩刺，酸液喷射，次元饥坑，元素之躯IV（土），钢铁之躯，召集元素（土）"
+      "zhCN": "\n你能够操纵土和石头，和土系生物沟通。\n酸镖：作为{g|Encyclopedia:Standard_Actions}标准动作{/g}，你能够以远程{g|Encyclopedia:TouchAttack}接触攻击{/g}的方式，对30英尺内的任意敌人发射一枚酸镖。此酸镖将造成{g|Encyclopedia:Dice}1d6{/g}点{g|Encyclopedia:Energy_Damage}酸蚀伤害{/g}，赋予你此领域的职业等级每提升2级，可额外造成1点伤害。每天可使用次数为{g|Encyclopedia:Wisdom}感知{/g}调整值+3。\n隧道竞走：到了8级，你可以用标准动作创造一股30尺范围的减缓敌人行动的灵光。范围内的生物无法进行5尺快步且视为处于困难地形。每天可用的轮数等于牧师等级，自由动作解除，无需连续。\n领域法术: 石拳，次元陷坑，次元刺坑，岩刺，酸液喷射，次元饥坑，元素之躯IV（土），钢铁之躯，召集元素（土）"
     },
     {
       "Key": "8078268c10a84ba2b1af8245341e36f0",
       "SimpleName": "CavesDomainProgressionSecondary.Description",
       "ProcessTemplates": true,
       "enGB": "\nYou have mastery over rock and stone, can manifest vast pits, and command earth creatures.\nAcid Dart: As a standard action, you can unleash an acid dart targeting any foe within 30 feet as a ranged touch attack. This acid dart deals 1d6 points of acid damage+ 1 point for every two levels you possess in the class that gave you access to this domain. You can use this ability a number of times per day equal to 3 + your Wisdom modifier.\nTunnel Runner (Su): At 6th level, as a standard action, you can create a 30-foot aura of gale-like winds that slows the progress of enemies. Creatures in the aura cannot take a 5-foot step and treat it as as difficult terrain. You can use this ability for a number of rounds per day equal to your cleric level. The rounds do not need to be consecutive.\nDomain Spells: stone fist, createpit, spiked pit, spike stones, acidic spray, hungry pit, elemental body IV (earth), iron body, elemental swarm (earth).",
-      "zhCN": "\n你拥有对大地、金属与石头的掌控，可发射酸蚀飞镖并指挥土系生物。\n强酸镖：作为{g|Encyclopedia:Standard_Actions}标准动作{/g}，你能够以远程{g|Encyclopedia:TouchAttack}接触攻击{/g}的方式，对30英尺内的任意敌人发射一枚强酸镖。此强酸镖将造成{g|Encyclopedia:Dice}1d6{/g}点{g|Encyclopedia:Energy_Damage}酸蚀伤害{/g}，赋予你此领域的职业等级每提升2级，可额外造成1点伤害。每天可使用次数为{g|Encyclopedia:Wisdom}感知{/g}调整值+3。\n隧道竞走：在第 6 级，在地下时，你在隐匿和察觉技能检定上获得等同于你牧师等级的洞察加值，在先攻检定上获得等同于你的感知调整值的洞察加值。每天时间为每牧师等级1分钟，不需连续但必须以分钟计\n领域法术: 石拳，次元陷坑，次元刺坑，岩刺，酸液喷射，次元饥坑，元素之躯IV（土），钢铁之躯，召集元素（土）"
+      "zhCN": "\n你能够操纵土和石头，和土系生物沟通。\n酸镖：作为{g|Encyclopedia:Standard_Actions}标准动作{/g}，你能够以远程{g|Encyclopedia:TouchAttack}接触攻击{/g}的方式，对30英尺内的任意敌人发射一枚酸镖。此酸镖将造成{g|Encyclopedia:Dice}1d6{/g}点{g|Encyclopedia:Energy_Damage}酸蚀伤害{/g}，赋予你此领域的职业等级每提升2级，可额外造成1点伤害。每天可使用次数为{g|Encyclopedia:Wisdom}感知{/g}调整值+3。\n隧道竞走：到了8级，你可以用标准动作创造一股30尺范围的减缓敌人行动的灵光。范围内的生物无法进行5尺快步且视为处于困难地形。每天可用的轮数等于牧师等级，自由动作解除，无需连续。\n领域法术: 石拳，次元陷坑，次元刺坑，岩刺，酸液喷射，次元饥坑，元素之躯IV（土），钢铁之躯，召集元素（土）"
     },
     {
       "Key": "89c087d077424607889e3599dc721cf2",
@@ -5925,8 +5925,8 @@
       "zhCN": "催眠图纹"
     },
     {
-      "Key": "72b3666c54de4c92b9d9a1c4cef5dcb2",
-      "SimpleName": "IceDomainBaseFeature.Description",
+      "Key": "06f3c959eebc44238c4971655e40c363",
+      "SimpleName": "屎山标记",
       "ProcessTemplates": true,
       "enGB": "\nYou have mastery over rock and stone, can manifest vast pits, and command earth creatures.\nAcid Dart: As a standard action, you can unleash an acid dart targeting any foe within 30 feet as a ranged touch attack. This acid dart deals 1d6 points of acid damage+ 1 point for every two levels you possess in the class that gave you access to this domain. You can use this ability a number of times per day equal to 3 + your Wisdom modifier.\nTunnel Runner (Su): At 6th level, as a standard action, you can create a 30-foot aura of gale-like winds that slows the progress of enemies. Creatures in the aura cannot take a 5-foot step and treat it as as difficult terrain. You can use this ability for a number of rounds per day equal to your cleric level. The rounds do not need to be consecutive.",
       "zhCN": "你能够熟练掌控水、雾和冰，召唤水的生物，以及抵抗寒冷。\n冰锥：作为{g|Encyclopedia:Standard_Actions}标准动作{/g}，你能够以远程{g|Encyclopedia:TouchAttack}接触攻击{/g}的方式，对30英尺内的任意敌人发射一枚冰锥。此冰锥将造成{g|Encyclopedia:Dice}1d6{/g}点{g|Encyclopedia:Energy_Damage}寒冷伤害{/g}，赋予你此领域的职业等级每提升2级，可额外造成1点伤害。每天可使用次数为{g|Encyclopedia:Wisdom}感知{/g}调整值+3。\n寒冰之躯：到了8级，就可用标准动作令自己身心像冰川一样玉洁冰清。此时你免疫寒冷伤害，并与获得伤害减免5/-，但是会受到双倍的火伤害。每天变成冰的轮数等于牧师等级，自由动作解除，无需连续。"
@@ -19088,6 +19088,328 @@
       "ProcessTemplates": false,
       "enGB": "Zyphus",
       "zhCN": "泽弗斯"
+    },
+    {
+      "Key": "7db029f7c5784a18b62a8505b27225d8",
+      "SimpleName": "ArcherArchetype.Description",
+      "ProcessTemplates": false,
+      "enGB": "The archer is dedicated to the careful mastery of the bow, perfecting his skills with years of practice honed day after day on ranges and hunting for game, or else on the battlefield, raining destruction down on the enemy lines.",
+      "zhCN": "弓手专注于使用弓，通过长年累月的练习来完善他的技巧，一天又一天的在游戏中或战场上狩猎，朝敌阵中洒下毁灭之雨。"
+    },
+    {
+      "Key": "cfb8a3959b3742b0b21556c623b63356",
+      "SimpleName": "ArcherArchetype.Name",
+      "ProcessTemplates": false,
+      "enGB": "Archer",
+      "zhCN": "弓手"
+    },
+    {
+      "Key": "752e61d062c04ece83c7c4347c244d9f",
+      "SimpleName": "EvasiveArcherFeature.Description",
+      "ProcessTemplates": true,
+      "enGB": "At 13th level, an archer gains a +2 dodge bonus to AC against ranged attacks. This bonus increases to +4 at 17th level.",
+      "zhCN": "13级开始，弓手对远程攻击AC获得+2的闪避加值。此加值在17级时提高到+4。"
+    },
+    {
+      "Key": "a330fc91ebf947dbbc1ff419b0442b57",
+      "SimpleName": "EvasiveArcherFeature.Name",
+      "ProcessTemplates": false,
+      "enGB": "Evasive Archer",
+      "zhCN": "弓手闪避"
+    },
+{
+      "Key": "9b629f08ce6a4ddebc4e3bc3af179a81",
+      "SimpleName": "ExpertArcherFeature.Description",
+      "ProcessTemplates": true,
+      "enGB": "At 5th level, an archer gains a +1 bonus on attack and damage rolls with bows. This bonus increases by +1 for every four levels beyond 5th.",
+      "zhCN": "5级开始，弓手使用弓时在攻击和伤害上获得+1加值。这个加值在5级后每4级增加1。"
+    },
+    {
+      "Key": "d1651ecd11cf4905831b878de522b91a",
+      "SimpleName": "ExpertArcherFeature.Name",
+      "ProcessTemplates": false,
+      "enGB": "Expert Archer",
+      "zhCN": "射击专家"
+    },
+    {
+      "Key": "071a366dd20a4622ba5dc244d754eb72",
+      "SimpleName": "HawkeyeFeature.Description",
+      "ProcessTemplates": true,
+      "enGB": "At 2nd level, an archer gains a +1 bonus on Perception checks. This bonus increases by +1 for every 4 levels beyond 2nd.",
+      "zhCN": "2级开始，弓手在察觉检定上获得+1加值，且使用任何弓的射程增量都增加5尺。这些加值在2级后每4级+1且+5尺。"
+    },
+    {
+      "Key": "dad5817c7c634d9fb23c2510b0d77689",
+      "SimpleName": "HawkeyeFeature.Name",
+      "ProcessTemplates": false,
+      "enGB": "Hawkeye",
+      "zhCN": "鹰眼"
+    },
+    {
+      "Key": "663e5c6a23f34d469230cf405ca8d0dd",
+      "SimpleName": "RangedDefenceEffectBuff.Description",
+      "ProcessTemplates": true,
+      "enGB": "An archer may catch an arrow fired at him once per round as if he had the deflect arrows feat, but only while holding a bow. \nWhen an arrow is successfully caught, he may fire it along with his next fired arrow as an extra attack. You may only fire one additional arrow at a time from this feature.",
+      "zhCN": "19级开始，弓手对远程攻击获得伤害减免5/-。此外，在装备弓时，以一个直觉动作，他能抓住一支射向他的箭，如同有抓取飞箭专长。\n成功抓取箭后，他可以以额外攻击的方式在下次射击中将其射出去。你同时只能用该特性射出一支箭。"
+    },
+    {
+      "Key": "c68dc92f708b4ce9a41186e4882ebbfa",
+      "SimpleName": "RangedDefenseFeature.Description",
+      "ProcessTemplates": true,
+      "enGB": "At 19th level, an archer gains DR 5/— against ranged attacks. In addition, an archer may catch an arrow fired at him once per round as if he had the deflect arrows feat, but only while holding a bow. \nWhen an arrow is successfully caught, he may fire it along with his next fired arrow as an extra attack. You may only fire one additional arrow at a time from this feature.",
+      "zhCN": "19级开始，弓手对远程攻击获得伤害减免5/-。此外，在装备弓时，以一个直觉动作，他能抓住一支射向他的箭，如同有抓取飞箭专长。\n成功抓取箭后，他可以以额外攻击的方式在下次射击中将其射出去。你同时只能用该特性射出一支箭。"
+    },
+    {
+      "Key": "fc862a83a70d4a30a501dd934e72fecc",
+      "SimpleName": "RangedDefenseFeature.Name",
+      "ProcessTemplates": false,
+      "enGB": "Ranged Defense",
+      "zhCN": "远程防御"
+    },
+    {
+      "Key": "1c2b87faeff74888b6f93ee46246d0a0",
+      "SimpleName": "SafeShotFeature.Description",
+      "ProcessTemplates": true,
+      "enGB": "At 9th level, an archer does not provoke attacks of opportunity when making ranged attacks with a bow.",
+      "zhCN": "9级开始，弓手用弓进行远程攻击时不会触发借机攻击。"
+    },
+    {
+      "Key": "8877e93523704c928f9b0f9b0002a54e",
+      "SimpleName": "SafeShotFeature.Name",
+      "ProcessTemplates": false,
+      "enGB": "Safe Shot",
+      "zhCN": "安全射击"
+    },
+    {
+      "Key": "ae8ca2725390491696c06e6fe58f09a4",
+      "SimpleName": "TrickShotBullRushAbility.Description",
+      "ProcessTemplates": true,
+      "enGB": "The next arrow the archer fires that hits this round will also perform the bull rush combat maneuver, the archer performs this maneuver with a –4 penalty to his CMB.",
+      "zhCN": "这一轮内下次弓箭射击会发动冲撞战技，对于该战技，弓手在CMB上获得-4减值。"
+    },
+    {
+      "Key": "79c33607b6394780b5d47a57af5cafca",
+      "SimpleName": "TrickShotBullRushBuff.Description",
+      "ProcessTemplates": true,
+      "enGB": "The next arrow the archer fires that hits this round will also perform the bull rush combat maneuver, the archer performs this maneuver with a –4 penalty to his CMB.",
+      "zhCN": "这一轮内下次弓箭射击会发动冲撞战技，对于该战技，弓手在CMB上获得-4减值。"
+    },
+    {
+      "Key": "77075d1c66f741f68a1a064be99a79f2",
+      "SimpleName": "TrickShotBullRushBuff.Name",
+      "ProcessTemplates": false,
+      "enGB": "Trick Shot - Bull Rush",
+      "zhCN": "特技射击（冲撞）"
+    },
+    {
+      "Key": "49fcd4dc5672412894ad0f450084cd82",
+      "SimpleName": "TrickShotBullRushFeature.Description",
+      "ProcessTemplates": true,
+      "enGB": "The archer can perform a bull rush combat maneuver along with a bow attack, the archer performs this maneuver with a –4 penalty to his CMB.",
+      "zhCN": "弓手可以在弓箭射击中发动冲撞战技，但CMB有-4减值。"
+    },
+    {
+      "Key": "da71d7fb3cfb4e8b86a8eb0344f008a1",
+      "SimpleName": "TrickShotDisarmAbility.Description",
+      "ProcessTemplates": true,
+      "enGB": "The next arrow the archer fires that hits this round will also perform the disarm combat maneuver, the archer performs this maneuver with a –4 penalty to his CMB.",
+      "zhCN": "这一轮内下次弓箭射击会发动缴械战技，对于该战技，弓手在CMB上获得-4减值。"
+    },
+    {
+      "Key": "cd51bc65f44c47b5b6c528c5c533419b",
+      "SimpleName": "TrickShotDisarmBuff.Description",
+      "ProcessTemplates": true,
+      "enGB": "The next arrow the archer fires that hits this round will also perform the disarm combat maneuver, the archer performs this maneuver with a –4 penalty to his CMB.",
+      "zhCN": "这一轮内下次弓箭射击会发动缴械战技，对于该战技，弓手在CMB上获得-4减值。"
+    },
+    {
+      "Key": "b1c6a9e44b504eaa953912c2b8affcb2",
+      "SimpleName": "TrickShotDisarmBuff.Name",
+      "ProcessTemplates": false,
+      "enGB": "Trick Shot - Disarm",
+      "zhCN": "特技射击（缴械）"
+    },
+    {
+      "Key": "d1158025ad0b4c56ac7d896d1e927be9",
+      "SimpleName": "TrickShotDisarmFeature.Description",
+      "ProcessTemplates": true,
+      "enGB": "The archer can perform a disarm combat maneuver along with a bow attack, the archer performs this maneuver with a –4 penalty to his CMB.",
+      "zhCN": "弓手可以在弓箭射击中发动缴械战技，但CMB有-4减值。"
+    },
+    {
+      "Key": "c208a87f07534606b2be413745406064",
+      "SimpleName": "TrickShotGrappleAbility.Description",
+      "ProcessTemplates": true,
+      "enGB": "The next arrow the archer fires that hits this round will also perform the grapple combat maneuver, the archer performs this maneuver with a –4 penalty to his CMB.",
+      "zhCN": "这一轮内下次弓箭射击会发动擒抱战技，对于该战技，弓手在CMB上获得-4减值。"
+    },
+    {
+      "Key": "e376c291fb5f49f78f3a05265e1435c1",
+      "SimpleName": "TrickShotGrappleBuff.Description",
+      "ProcessTemplates": true,
+      "enGB": "The next arrow the archer fires that hits this round will also perform the grapple combat maneuver, the archer performs this maneuver with a –4 penalty to his CMB.",
+      "zhCN": "这一轮内下次弓箭射击会发动擒抱战技，对于该战技，弓手在CMB上获得-4减值。"
+    },
+    {
+      "Key": "7a413e3833764734be7df9ade367500b",
+      "SimpleName": "TrickShotGrappleBuff.Name",
+      "ProcessTemplates": false,
+      "enGB": "Trick Shot - Grapple",
+      "zhCN": "特技射击（擒抱）"
+    },
+    {
+      "Key": "9310e194e7b34953aef9df94b7ca12dd",
+      "SimpleName": "TrickShotGrappleCasterBuff.Name",
+      "ProcessTemplates": false,
+      "enGB": "Test Stuff",
+      "zhCN": "测试杂项"
+    },
+    {
+      "Key": "067e997d790e41b2b67cedf5ad222553",
+      "SimpleName": "TrickShotGrappleFeature.Description",
+      "ProcessTemplates": true,
+      "enGB": "The archer can perform a grapple combat maneuver along with a bow attack, the archer performs this maneuver with a –4 penalty to his CMB.",
+      "zhCN": "弓手可以在弓箭射击中发动擒抱战技，但CMB有-4减值。"
+    },
+    {
+      "Key": "11d203884469458c8d2155aa83e24f8e",
+      "SimpleName": "TrickShotGrappleTargetBuff.Description",
+      "ProcessTemplates": true,
+      "enGB": "A target grappled by an arrow can attempt to escape every round by making a successful combat maneuver, Strength, Athletics, or Mobility check against the archers CMD. The pinned target gets a +4 bonus on this check.",
+      "zhCN": "被箭擒抱的目标可以用CMB、力量、运动或者灵巧检定来对抗射手的CMD获得自由。该单位在这些检定上获得+4加值。"
+    },
+    {
+      "Key": "10a0664f3d3a4bd2b808fcde844391bb",
+      "SimpleName": "TrickShotGrappleTargetBuff.Name",
+      "ProcessTemplates": false,
+      "enGB": "Pinned by arrows",
+      "zhCN": "箭矢定身"
+    },
+    {
+      "Key": "9b5dfd12a3dd4e0cb13b5efe2ae4900c",
+      "SimpleName": "TrickShotSelection.Description",
+      "ProcessTemplates": true,
+      "enGB": "At 3rd level, an archer can choose one of the following combat maneuvers or actions: disarm or sunder. He can perform this action with a bow against any target within 30 feet, with a –4 penalty to his CMB. Every four levels beyond 3rd, he may choose an additional trick shot to learn. \nAt 11th level, he may also choose from the following combat maneuvers: bull rush, grapple, trip.",
+      "zhCN": "3级开始，弓手能在下列战斗技巧或动作中选择一项：缴械，破物。他可用弓对30尺内的目标使用这些行动，但CMB有-4减值。3级后每4级，他可以再额外选择一项特技射击。\n11级开始，他也可以从下列战斗技巧中选择：冲撞，擒抱，绊摔。"
+    },
+    {
+      "Key": "263633e085d54dae9b9d4f30ca076b43",
+      "SimpleName": "TrickShotSelection.Name",
+      "ProcessTemplates": false,
+      "enGB": "Trick Shot Selection",
+      "zhCN": "特技射击（选择）"
+    },
+    {
+      "Key": "a040fd090f7241a19731d8befe87e8e8",
+      "SimpleName": "TrickShotSunderAbility.Description",
+      "ProcessTemplates": true,
+      "enGB": "The next arrow the archer fires that hits this round will also perform the sunder combat maneuver, the archer performs this maneuver with a –4 penalty to his CMB.",
+      "zhCN": "这一轮内下次弓箭射击会发动破物战技，对于该战技，弓手在CMB上获得-4减值。"
+    },
+    {
+      "Key": "16955b6912fb4ecfb38dd3603ce8ae05",
+      "SimpleName": "TrickShotSunderBuff.Description",
+      "ProcessTemplates": true,
+      "enGB": "The next arrow the archer fires that hits this round will also perform the sunder combat maneuver, the archer performs this maneuver with a –4 penalty to his CMB.",
+      "zhCN": "这一轮内下次弓箭射击会发动破物战技，对于该战技，弓手在CMB上获得-4减值。"
+    },
+    {
+      "Key": "102350e3e5ef4d7b850bd8f34d87b0aa",
+      "SimpleName": "TrickShotSunderBuff.Name",
+      "ProcessTemplates": false,
+      "enGB": "Trick Shot - Sunder",
+      "zhCN": "特技射击（破物）"
+    },
+    {
+      "Key": "73da4f18923a4d208458c6f8c42c7c92",
+      "SimpleName": "TrickShotSunderFeature.Description",
+      "ProcessTemplates": true,
+      "enGB": "The archer can perform a sunder combat maneuver along with a bow attack, the archer performs this maneuver with a –4 penalty to his CMB.",
+      "zhCN": "弓手可以在弓箭射击中发动破物战技，但CMB有-4减值。"
+    },
+    {
+      "Key": "5eae2b296e6d49cba87030cda93f9e11",
+      "SimpleName": "TrickShotTripAbility.Description",
+      "ProcessTemplates": true,
+      "enGB": "The next arrow the archer fires that hits this round will also perform the trip combat maneuver, the archer performs this maneuver with a –4 penalty to his CMB.",
+      "zhCN": "这一轮内下次弓箭射击会发动绊摔战技，对于该战技，弓手在CMB上获得-4减值。"
+    },
+    {
+      "Key": "3f9e97feca0e41babec7f719891485fa",
+      "SimpleName": "TrickShotTripBuff.Description",
+      "ProcessTemplates": true,
+      "enGB": "The next arrow the archer fires that hits this round will also perform the trip combat maneuver, the archer performs this maneuver with a –4 penalty to his CMB.",
+      "zhCN": "这一轮内下次弓箭射击会发动绊摔战技，对于该战技，弓手在CMB上获得-4减值。"
+    },
+    {
+      "Key": "f17cfae4d45743aca0470e3159657a92",
+      "SimpleName": "TrickShotTripBuff.Name",
+      "ProcessTemplates": false,
+      "enGB": "Trick Shot - Trip",
+      "zhCN": "特技射击（绊摔）"
+    },
+    {
+      "Key": "1c9565ddac0f4724bc7d8d26be0072d5",
+      "SimpleName": "TrickShotTripFeature.Description",
+      "ProcessTemplates": true,
+      "enGB": "The archer can perform a trip combat maneuver along with a bow attack, the archer performs this maneuver with a –4 penalty to his CMB.",
+      "zhCN": "弓手可以用弓箭攻击对发动战技，但CMB有-4减值。"
+    },
+    {
+      "Key": "0e3aa7c1d5704741a1c9402c02050c3f",
+      "SimpleName": "VolleyAbility.Description",
+      "ProcessTemplates": true,
+      "enGB": "At 17th level, as a full-round action, an archer can make a single bow attack at his highest base attack bonus against any number of creatures in a 15-foot radius burst, making separate attack and damage rolls for each creature.",
+      "zhCN": "17级开始，以一个全回合动作，弓手能以他的最高基本攻击加值对一个半径15尺爆发的范围内任意数量的目标发起攻击，对每个目标分别骰攻击和伤害。"
+    },
+    {
+      "Key": "4ea3c16ddbdc49b48631fd8256598f9a",
+      "SimpleName": "VolleyAbility.Name",
+      "ProcessTemplates": false,
+      "enGB": "Volley ",
+      "zhCN": "箭雨"
+    },
+    {
+      "Key": "6a49ff5202b246b898e7d86e6d2578a7",
+      "SimpleName": "VolleyFeature.Description",
+      "ProcessTemplates": true,
+      "enGB": "At 17th level, as a full-round action, an archer can make a single bow attack at his highest base attack bonus against any number of creatures in a 15-foot radius burst, making separate attack and damage rolls for each creature.",
+      "zhCN": "17级开始，以一个全回合动作，弓手能以他的最高基本攻击加值对一个半径15尺爆发的范围内任意数量的目标发起攻击，对每个目标分别骰攻击和伤害。"
+    },
+    {
+      "Key": "e1188d4668a74a3eb2b40d88b5e2d5fb",
+      "SimpleName": "VolleyFeature.Name",
+      "ProcessTemplates": false,
+      "enGB": "Volley",
+      "zhCN": "箭雨"
+    },
+    {
+      "Key": "a91c925ff8e6411583823e40e7151c6e",
+      "SimpleName": "OpeningVolleyFeature.Description",
+      "ProcessTemplates": true,
+      "enGB": "Your ranged assault leaves your foe disoriented and vulnerable to your melee attack. \nWhenever you deal damage with a ranged attack, you gain a + 4 circumstance bonus on the next melee attack roll you make against the opponent.This attack must occur before the end of your next turn.",
+      "zhCN": "你用远程武器封锁敌人的活动空间，使他无从闪避你的近战攻击。\n效果：每当你对一个敌人造成远程伤害，你对该敌人进行的下一次近战攻击检定将会有+4环境加值。这次近战攻击必须在你下一轮结束前进行。"
+    },
+    {
+      "Key": "94d6b463d84d46b3a68e9e36c24f856d",
+      "SimpleName": "OpeningVolleyFeature.Name",
+      "ProcessTemplates": false,
+      "enGB": "Opening Volley",
+      "zhCN": "远近夹攻"
+    },
+    {
+      "Key": "8edd353271c4483cac3576f50cb745c0",
+      "SimpleName": "OpeningVolleyTargetBuff.Description",
+      "ProcessTemplates": true,
+      "enGB": "Your ranged assault leaves your foe disoriented and vulnerable to your melee attack. \nWhenever you deal damage with a ranged attack, you gain a + 4 circumstance bonus on the next melee attack roll you make against the opponent.This attack must occur before the end of your next turn.",
+      "zhCN": "你用远程武器封锁敌人的活动空间，使他无从闪避你的近战攻击。\n效果：每当你对一个敌人造成远程伤害，你对该敌人进行的下一次近战攻击检定将会有+4环境加值。这次近战攻击必须在你下一轮结束前进行。"
+    },
+    {
+      "Key": "baab2c54bebc40aa8c4773477f9312f4",
+      "SimpleName": "OpeningVolleyTargetBuff.Name",
+      "ProcessTemplates": false,
+      "enGB": "Opening Volley Targeted",
+      "zhCN": "远近夹攻目标"
     }
   ]
 }
