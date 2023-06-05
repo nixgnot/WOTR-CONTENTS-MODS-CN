@@ -1,1 +1,77 @@
-
+[
+  {
+    "Key": "BladedBrushName",
+    "enGB": "Bladed Brush",
+    "zhCN": "战刃舞绘"
+  },
+  {
+    "Key": "BladedBrushDescription",
+    "enGB": "A worshipper of Shelyn can take this feat to use their dexterity on attack and damage with glaives.",
+    "zhCN": "雪琳的崇拜者可以获取该专长，使用敏捷修正值替代力量应用于大砍刀的攻击检定和伤害检定中。"
+  },
+  {
+    "Key": "ShootingStarName",
+    "enGB": "Way of the Shooting Star",
+    "zhCN": "飞星之道"
+  },
+  {
+    "Key": "ShootingStarhDescription",
+    "enGB": "Utilizing the fighting techniques channeled through Desna, add your charisma to attack and damage with starknives instead of dexterity or strength.",
+    "zhCN": "运用德丝娜传授的战斗技巧，你可以用魅力修正值替代力量敏捷应用于使用星刃的攻击检定和伤害检定中。"
+  },
+  {
+    "Key": "ShadowExpertiseName",
+    "enGB": "Shadow Expertise",
+    "zhCN": "暗影专家"
+  },
+  {
+    "Key": "ShadowExpertiseDescription",
+    "enGB": "A Hellknight Shadow is trained on the common situations they will be expected to run into when deployed to their squadron, every two levels starting at level 3, a Hellknight Shadow can pick one Vangaurd Expertise to add to their repetoire. A Shadow cannot select an individual talent more than once.",
+    "zhCN": "暗影地狱骑士在被部署到中队时，会根据他们预计会遇到的常见情况进行训练，从3级开始，每两级，地狱骑士之影都可以选择一个先锋专业技能。暗影地狱骑士不能选择一个独特天赋多于1次。"
+  },
+  {
+    "Key": "HellknightsDreadName",
+    "enGB": "Hellknights Dread",
+    "zhCN": "地狱骑士之惧"
+  },
+  {
+    "Key": "HellknightsDreadDescription",
+    "enGB": "Hellknights have a dreaded reputation throughout most of Golarion, and none more so than the Hellknight Shadow. They use this reputation to great effect, terrifyingnear all they come across. This gives the Hellknight Shadow a bonus to persuasion checks to intimidate equal to the Shadow's Class Level.",
+    "zhCN": "地狱骑士在格拉利昂有着广为人知的可怕名声，而暗影地狱骑士尤甚。他们利用这一声誉取得了巨大的效果，让几乎所有遇到的人都感到害怕。暗影地狱骑士在用于威吓的说服检定上获得等于其职业等级的加值。"
+  },
+  {
+    "Key": "ShadowExecutionName",
+    "enGB": "Shadow Execution",
+    "zhCN": "暗影处决"
+  },
+  {
+    "Key": "ShadowExecutionDescription",
+    "enGB": "A Hellknight Shadow's pinnacle technique is learning to deftly slide into the gaps left by opponents not in their right mind, taking advantage of a scared or otherwise mentally imparied opponent to strike true. This gives the Hellknight Shadow a +3 to attack against any opponent affected by a fear or mind affecting effect.",
+    "zhCN": "暗影地狱骑士阴影的巅峰技巧是学会巧妙地滑入对手在分神时留下的空隙，建立对害怕或精神紧张的对手的优势来直击要害。这使暗影地狱骑士在攻击任何受到恐惧或影响心灵效果影响的对手时攻击检定+3。"
+  },
+  {
+    "Key": "HellknightShadowName",
+    "enGB": "Hellknight Shadow",
+    "zhCN": "暗影地狱骑士"
+  },
+  {
+    "Key": "HellknightShadowDescription",
+    "enGB": "Hellknight Shadows are the group called upon when the Hellknights need a defter touch. Specialized in subterfuge, scouting and very occasionally assassination, the Hellknight Shadows are a terrifying rumor in the ears of enemies of the Hellknights.",
+    "zhCN": "暗影地狱骑士是地狱骑士团中需要某些精密巧计时会呼唤的群体。他们专门从事诡计、侦察和偶尔的暗杀，暗影地狱骑士的存在是一个在地狱骑士的敌人之间口口相传的可怕传言。"
+  },
+  {
+    "Key": "HellknightShadowShortDescription",
+    "enGB": "The Hellknight Shadow is a rogue focused Hellknight prestige class",
+    "zhCN": "暗影地狱骑士是专注游荡者战斗方式的地狱骑士团进阶职业"
+  },
+  {
+    "Key": "CatechesisName",
+    "enGB": "Catechesis",
+    "zhCN": "口授传承"
+  },
+  {
+    "Key": "CatechesisDescription",
+    "enGB": "A divine signifier's level stacks with other divine spellcasting classes for the purposes of determining the effects of those classes domain powers, inquisitions, mysteries and channel energy.",
+    "zhCN": "在计算领域能力、审判、秘示域和导能能力时，地狱骑士持节士等级与其他神术施法者等级叠加。"
+  } 
+]
