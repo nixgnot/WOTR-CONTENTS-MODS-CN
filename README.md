@@ -2010,11 +2010,9 @@
 -------------------------------------------
 ### [MorvarchsPlaystyleExpansions](https://github.com/MorvarchPrincess/MorvarchsPlaystyleExpansions)
 > *前置：* 无<br>
-> *中文：* **无**<br>
+> *中文：* **QL汉化**<br>
 > *安装方式：* **UMM**<br>
 > *新增内容：* 专长等<br>
-
-**注意！本MOD在最新版本运行有问题，需等待更新**
 + 增加少量新内容
 <table>
  <tr><th colspan="2">新增内容列表<br></th></tr> 
