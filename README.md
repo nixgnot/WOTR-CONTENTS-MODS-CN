@@ -3319,8 +3319,8 @@ C:\Users\你的用户名\AppData\LocalLow\Owlcat Games\Pathfinder Wrath Of The R
  <tr><th colspan="3">新增内容列表<br></th></tr> 
   <tr><td rowspan="1">职业</i></td>
        <td>游荡剑客</td>
-          <td>变体<br> - 灵感之刃<br> - 灵使剑客<br> - 花间诗剑</td></tr>
-  <tr><td rowspan="9">专长</i></td>
+          <td>变体<br> - 灵感之刃<br> - 灵使剑客<br> - 花间诗剑<br> - 雷斯兰暴徒</td></tr>
+  <tr><td rowspan="11">专长</i></td>
        <td>Feint 虚招</td>
           <td>你能够尝试使用移动动作对对手发动虚招。使用虚招时，进行一次唬骗技能检定，虚招的DC为“10+目标BAB+感知修正”。如果你成功地使用了虚招，目标将在对抗你的下一次近战攻击时或者直到其下一轮前（取较先发生者），无法在AC上获得自己的敏捷加值。</td></tr>
 	<tr><td>Greater Feint 高等虚招</td>
@@ -3339,6 +3339,13 @@ C:\Users\你的用户名\AppData\LocalLow\Owlcat Games\Pathfinder Wrath Of The R
           <td>你可以在跳跃攻击中应用要害打击效果。如果你拥有精通要害打击或高等要害打击，则改为应用对应效果。</td></tr>
 	<tr><td>Seize the Opportunity 把握良机</td>
           <td>当你做出借机攻击时，你可以应用要害打击。</td></tr>
+	<tr><td>Wind Stance 疾风步</td>
+          <td>若你在一轮中移动超过10尺，则该轮中你针对远程攻击获得20％隐蔽。</td></tr>
+	<tr><td>Lightning Stance 闪电步</td>
+          <td>若你在一轮中移动超过60尺，则该轮中你获得50％隐蔽。</td></tr>
+  <tr><td rowspan="9">神话能力</i></td>
+       <td>Abundant Panache 充裕时髦</td>
+          <td>每次游荡剑客使用轻型或者单手穿刺近战武器击中，或者将敌人的攻击导向其他敌人时，都能返还1点时髦值。</td></tr>
   </table>
 
 --------------------------------------
