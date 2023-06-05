@@ -73,5 +73,10 @@
     "Key": "CatechesisDescription",
     "enGB": "A divine signifier's level stacks with other divine spellcasting classes for the purposes of determining the effects of those classes domain powers, inquisitions, mysteries and channel energy.",
     "zhCN": "在计算领域能力、审判、秘示域和导能能力时，地狱骑士持节士等级与其他神术施法者等级叠加。"
-  } 
+  },
+  {
+    "Key": "HellknightShadowProgression",
+    "enGB": "Hellknight Shadow Progression",
+    "zhCN": "暗影地狱骑士"
+  }
 ]
