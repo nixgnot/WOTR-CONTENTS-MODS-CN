@@ -1927,7 +1927,7 @@
    <tr><td rowspan="2">DreadKnight 恐惧骑士</td>
            <td>Conqueror 征服者</td></tr> 
            <tr><td>Claw of the False Wyrm 虚龙之爪</td></tr> 
-   <tr><td rowspan="14">变体</td>
+   <tr><td rowspan="16">变体</td>
        <td rowspan="1">审判官</td>
            <td>Living Scripture 活圣经</td></tr> 
        <tr><td rowspan="1">战斗祭司</td>
@@ -1951,11 +1951,21 @@
            <td>Draconic Shaman 龙族萨满</td></tr> 
        <tr><td rowspan="1">奥能师</td>
            <td>Draconic Scholar 龙之学者</td></tr> 
-   <tr><td rowspan="2">职业特性</td>
+       <tr><td rowspan="1">歌者</td>
+           <td>Wyrm Singer 龙战颂者</td></tr> 
+       <tr><td rowspan="1">战士</td>
+           <td>Archer 弓手</td></tr> 
+   <tr><td rowspan="5">职业特性</td>
        <td>先知秘示域</td>
-       <td>Dragon 龙、Heavens 天堂、Succor 救助</td></tr>
+       <td>Dragon 龙、Heavens 苍天、Succor 救助</td></tr>
    <tr><td>先知诅咒</td>
        <td>Vampirism 吸血鬼</td></tr>
+   <tr><td>萨满精魂</td>
+       <td>Heavens 苍天</td></tr>
+   <tr><td>动物伙伴</td>
+       <td>Wolverine 狼獾、Web Tyrant Spider 暴君蜘蛛、Giant Fly 巨苍蝇</td></tr>
+   <tr><td>龙兽伙伴</td>
+       <td>部分职业或变体可用</td></tr>
    <tr><td colspan="2">基础动作</td>
        <td>Aid Another 援助他人</td></tr>
    <tr><td colspan="2">专长</td>
@@ -1996,6 +2006,7 @@
    <tr><td>Greater Shield of Fortification 极化护盾</td></tr>
    <tr><td>Dance of a Hundred Cuts 百袭战舞</td></tr>
    <tr><td>Dance of a Thousand Cuts 千袭战舞</td></tr>
+   <tr><td>Particulate Form 粒子形态</td></tr>
  </table>   
 
 -------------------------------------------
