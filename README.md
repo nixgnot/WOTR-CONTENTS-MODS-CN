@@ -1915,7 +1915,7 @@
 ### [ExpandedContent2022](https://www.nexusmods.com/pathfinderwrathoftherighteous/mods/377)
 + [贴吧汉化帖](https://tieba.baidu.com/p/8108212678)
 > *前置：* 无<br>
-> *中文：* **汉化发布**<br>
+> *中文：* **有汉化，提供QL汉化修正**<br>
 > *安装方式：* **UMM**<br>
 > *新增内容：* 大量信仰、变体、专长等<br>
 + 大型MOD，增加很多新内容
@@ -1937,7 +1937,7 @@
            <tr><td>Draconic Druid 龙之德鲁伊</td></tr> 
            <tr><td>Storm Druid 风暴德鲁伊</td></tr> 
            <tr><td>Urban Druid 文明德鲁伊</td></tr> 
-           <tr><td>Bear Totem Shaman 熊图腾萨满(<b>暂未翻译</b>)</td></tr> 
+           <tr><td>Bear Totem Shaman 熊图腾萨满</td></tr> 
        <tr><td rowspan="2">圣骑士</td>
            <td>Temple Champion 圣殿冠军</td></tr> 
            <tr><td>Silver Champion 银冠勇士</td></tr> 
