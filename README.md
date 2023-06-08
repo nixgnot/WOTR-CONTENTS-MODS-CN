@@ -1968,8 +1968,9 @@
        <td>部分职业或变体可用</td></tr>
    <tr><td colspan="2">基础动作</td>
        <td>Aid Another 援助他人</td></tr>
-   <tr><td colspan="2">专长</td>
+   <tr><td colspan="2" rowspan="2">专长</td>
        <td>Swift Aid 迅速援助</td></tr>
+       <tr><td>Opening Volley 远近夹攻</td></tr>
    <tr><td colspan="2" rowspan="2">神话能力</td>
        <td>Mythic Drake 神话龙兽</td>
    <tr><td>Impossible Subdomain 无限子域可能</td></tr>
