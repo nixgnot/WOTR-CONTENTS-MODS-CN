@@ -19424,7 +19424,7 @@
       "ProcessTemplates": false,
       "enGB": "Balanced Stride",
       "zhCN": "游龙步"
-    },,
+    },
     {
       "Key": "e4c46f5a844c4ac985bf5dee3eb41358",
       "SimpleName": "BullseyeShotAbility.Description",
@@ -19453,7 +19453,6 @@
       "enGB": "You slow your breath, calm yourself, and hit the bullseye, just as you were trained to do. \nYou can spend a move action to steady your shot. When you do, you gain a +4 bonus on your next ranged attack roll before the start of your next turn.",
       "zhCN": "你知道如何在射击时调整呼吸，放松身体，以求一击命中。\n你可以花费一个移动动作校准自己的瞄线，如果你这样做，你将在本轮结束之前的下一次远程攻击投骰时获得+4加值。"
     },
-    ,
     {
       "Key": "248864d5d06946e7a0325a65aac7254f",
       "SimpleName": "PinpointTargetingAbility.Description",
@@ -19600,6 +19599,6 @@
       "ProcessTemplates": false,
       "enGB": "Spear Parry Penalty Decrease",
       "zhCN": "枪矛格挡减值减少"
-    },
+    }
   ]
 }
