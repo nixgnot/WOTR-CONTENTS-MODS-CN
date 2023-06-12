@@ -19410,6 +19410,196 @@
       "ProcessTemplates": false,
       "enGB": "Opening Volley Targeted",
       "zhCN": "远近夹攻目标"
-    }
+    },
+    {
+      "Key": "24db2ad8165c472cbb7cd8e0e8e55d46",
+      "SimpleName": "BalancedStrideFeature.Description",
+      "ProcessTemplates": true,
+      "enGB": "At 2nd level, the spear fighter gains a +1 AC bonus on checks to avoid attacks of opportunity. This bonus increases by 1 for every 4 levels he has beyond 2nd.",
+      "zhCN": "2级起，枪矛手在躲避借机攻击时获得+1AC加值，这个加值在2级后每4级额外+1。"
+    },
+    {
+      "Key": "a05e1c4acf2b4202b5ae18b00899ca98",
+      "SimpleName": "BalancedStrideFeature.Name",
+      "ProcessTemplates": false,
+      "enGB": "Balanced Stride",
+      "zhCN": "游龙步"
+    },,
+    {
+      "Key": "e4c46f5a844c4ac985bf5dee3eb41358",
+      "SimpleName": "BullseyeShotAbility.Description",
+      "ProcessTemplates": true,
+      "enGB": "You slow your breath, calm yourself, and hit the bullseye, just as you were trained to do. \nYou can spend a move action to steady your shot. When you do, you gain a +4 bonus on your next ranged attack roll before the start of your next turn.",
+      "zhCN": "你知道如何在射击时调整呼吸，放松身体，以求一击命中。\n你可以花费一个移动动作校准自己的瞄线，如果你这样做，你将在本轮结束之前的下一次远程攻击投骰时获得+4加值。"
+    },
+    {
+      "Key": "f63b9e6adbf4457aaa814df4dcc87dc9",
+      "SimpleName": "BullseyeShotBuff.Description",
+      "ProcessTemplates": true,
+      "enGB": "You slow your breath, calm yourself, and hit the bullseye, just as you were trained to do. \nYou can spend a move action to steady your shot. When you do, you gain a +4 bonus on your next ranged attack roll before the start of your next turn.",
+      "zhCN": "你知道如何在射击时调整呼吸，放松身体，以求一击命中。\n你可以花费一个移动动作校准自己的瞄线，如果你这样做，你将在本轮结束之前的下一次远程攻击投骰时获得+4加值。"
+    },
+    {
+      "Key": "964b9e2668224797ac727bf9a308f4e3",
+      "SimpleName": "BullseyeShotBuff.Name",
+      "ProcessTemplates": false,
+      "enGB": "Bullseye Shot",
+      "zhCN": "中的射击"
+    },
+    {
+      "Key": "929399aef1024fba8084dad561e121a7",
+      "SimpleName": "BullseyeShotFeature.Description",
+      "ProcessTemplates": true,
+      "enGB": "You slow your breath, calm yourself, and hit the bullseye, just as you were trained to do. \nYou can spend a move action to steady your shot. When you do, you gain a +4 bonus on your next ranged attack roll before the start of your next turn.",
+      "zhCN": "你知道如何在射击时调整呼吸，放松身体，以求一击命中。\n你可以花费一个移动动作校准自己的瞄线，如果你这样做，你将在本轮结束之前的下一次远程攻击投骰时获得+4加值。"
+    },
+    ,
+    {
+      "Key": "248864d5d06946e7a0325a65aac7254f",
+      "SimpleName": "PinpointTargetingAbility.Description",
+      "ProcessTemplates": true,
+      "enGB": "You can target the weak points in your opponent’s armor. \nAs a standard action, make a single ranged attack. The target does not gain any armor, natural armor, or shield bonuses to its Armor Class. You do not gain the benefit of this feat if you move this round.",
+      "zhCN": "你能够瞄准对手盔甲上的弱点。\n以一个标准动作，做一次单独的远程攻击。目标无法获得任何盔甲、天生护甲或盾牌加值到他的AC上。如果你本轮进行了移动，你无法受益于此专长。"
+    },
+    {
+      "Key": "a70f17fe8f4543b3b5959eeadc54a179",
+      "SimpleName": "PinpointTargetingAttackAbility.Description",
+      "ProcessTemplates": true,
+      "enGB": "You can target the weak points in your opponent’s armor. \nAs a standard action, make a single ranged attack. The target does not gain any armor, natural armor, or shield bonuses to its Armor Class. You do not gain the benefit of this feat if you move this round.",
+      "zhCN": "你能够瞄准对手盔甲上的弱点。\n以一个标准动作，做一次单独的远程攻击。目标无法获得任何盔甲、天生护甲或盾牌加值到他的AC上。如果你本轮进行了移动，你无法受益于此专长。"
+    },
+    {
+      "Key": "aaefef9aba5f4c999122d1fc7dfd3a12",
+      "SimpleName": "PinpointTargetingBuff.Description",
+      "ProcessTemplates": true,
+      "enGB": "You can target the weak points in your opponent’s armor. \nAs a standard action, make a single ranged attack. The target does not gain any armor, natural armor, or shield bonuses to its Armor Class. You do not gain the benefit of this feat if you move this round.",
+      "zhCN": "你能够瞄准对手盔甲上的弱点。\n以一个标准动作，做一次单独的远程攻击。目标无法获得任何盔甲、天生护甲或盾牌加值到他的AC上。如果你本轮进行了移动，你无法受益于此专长。"
+    },
+    {
+      "Key": "c5b8f9a006574375869f9f4fcb5ad41f",
+      "SimpleName": "PinpointTargetingBuff.Name",
+      "ProcessTemplates": false,
+      "enGB": "Pinpoint Targeting",
+      "zhCN": "精确瞄准"
+    },
+    {
+      "Key": "b08242efdba44cb49ae9c5f77f174f62",
+      "SimpleName": "PinpointTargetingDisabledFlag.Name",
+      "ProcessTemplates": false,
+      "enGB": "Pinpoint Targeting Disabled flag",
+      "zhCN": "精确瞄准禁用标记"
+    },
+    {
+      "Key": "2d7c1aa5c022432f9535e793387b6949",
+      "SimpleName": "PinpointTargetingFeature.Description",
+      "ProcessTemplates": true,
+      "enGB": "You can target the weak points in your opponent’s armor. \nAs a standard action, make a single ranged attack. The target does not gain any armor, natural armor, or shield bonuses to its Armor Class. You do not gain the benefit of this feat if you move this round.",
+      "zhCN": "你能够瞄准对手盔甲上的弱点。\n以一个标准动作，做一次单独的远程攻击。目标无法获得任何盔甲、天生护甲或盾牌加值到他的AC上。如果你本轮进行了移动，你无法受益于此专长。"
+    },
+    {
+      "Key": "df1d329fd80b4f0fa1ed91c12e8e8698",
+      "SimpleName": "PinpointTargetingMovementChecker.Name",
+      "ProcessTemplates": false,
+      "enGB": "Pinpoint Targeting Move checker",
+      "zhCN": "精确瞄准移动监测"
+    },
+    {
+      "Key": "a92618bc42a64146b4260da0aad3c324",
+      "SimpleName": "SpearFighterArchetype.Description",
+      "ProcessTemplates": false,
+      "enGB": "The spear is one of the oldest weapons known to most humanoid races, and no weapon has seen as much use. Many martial arts traditions consider the spear to be the ultimate weapon.",
+      "zhCN": "枪矛是大多数类人种族最早使用的武器之一，也是最常见的武器。许多传统的武艺将枪矛视为百兵之王。"
+    },
+    {
+      "Key": "fdf982b202ba47cea22e909f46fecd2b",
+      "SimpleName": "SpearFighterArchetype.Name",
+      "ProcessTemplates": false,
+      "enGB": "Spear Fighter",
+      "zhCN": "枪矛手"
+    },
+    {
+      "Key": "64fe6164ad014be6976f219ab404c561",
+      "SimpleName": "SpearFighterProficiencies.Description",
+      "ProcessTemplates": true,
+      "enGB": "A spear fighter is proficient with all simple and martial weapons, with light and medium armor, and with shields (excluding tower shields). \nHe gains dodge as a bonus feat, even if he doesn’t fulfill the prerequisites.",
+      "zhCN": "枪矛手擅长所有简易和军用武器，轻型和中型护甲，以及盾牌（除了塔盾）。\n他获得闪避作为额外专长，即使他不满足其先决条件。"
+    },
+    {
+      "Key": "4e7fdec09ec04d97b24ecbd344e55b4a",
+      "SimpleName": "SpearFighterProficiencies.Name",
+      "ProcessTemplates": false,
+      "enGB": "Spear Fighter Proficiencies",
+      "zhCN": "枪矛手擅长"
+    },
+    {
+      "Key": "64fa6fdcb16544ccb29d898090fae72e",
+      "SimpleName": "SpearParryActivatableAbility.Description",
+      "ProcessTemplates": true,
+      "enGB": "When attacked in melee, the spear fighter makes an attack roll as if he were making an attack of opportunity; for each size category the attacking creature is larger than the spear fighter, he takes a –2 penalty on this roll. If his result is greater than the attacking creature’s result, the creature’s attack automatically misses. Upon performing a successful parry, he makes an attack of opportunity against the creature whose attack he parried, provided that creature is within his reach and the spear fighter has remaining attacks of opportunity.\nWhen an incoming attack is successfully parried gain a cumulative –4 penalty on all attacks (including further parry attempts) for a full round. At 7th, 11th, and 15th levels, the penalty decreases by 1. At 19th level, a spear fighter can use spear parry without penalty.",
+      "zhCN": "当被近战攻击时，枪矛手需要如同进行借机攻击一般进行一次攻击检定，攻击者的体型每比枪矛手大一级，枪矛手便要在此攻击检定上受-2减值。如果他的攻击检定结果高于攻击者，当次攻击便自动失手。成功进行格挡后，如果攻击者处于他的触及范围且他还有剩余的借机攻击次数，他可以对攻击者进行借机攻击。\n每当成功格挡一次袭来的攻击时，枪矛手在整轮内都会在攻击检定上承受可叠加的-4减值（这也包括了后续的尝试格挡中的检定）。在7级，11级和15级，这个减值减少1。19级起，枪矛手不需要承受该减值。"
+    },
+    {
+      "Key": "e61166eaa65e4dc794c16530ce71f5e7",
+      "SimpleName": "SpearParryBuff.Description",
+      "ProcessTemplates": true,
+      "enGB": "When attacked in melee, the spear fighter makes an attack roll as if he were making an attack of opportunity; for each size category the attacking creature is larger than the spear fighter, he takes a –2 penalty on this roll. If his result is greater than the attacking creature’s result, the creature’s attack automatically misses. Upon performing a successful parry, he makes an attack of opportunity against the creature whose attack he parried, provided that creature is within his reach and the spear fighter has remaining attacks of opportunity.\nWhen an incoming attack is successfully parried gain a cumulative –4 penalty on all attacks (including further parry attempts) for a full round. At 7th, 11th, and 15th levels, the penalty decreases by 1. At 19th level, a spear fighter can use spear parry without penalty.",
+      "zhCN": "当被近战攻击时，枪矛手需要如同进行借机攻击一般进行一次攻击检定，攻击者的体型每比枪矛手大一级，枪矛手便要在此攻击检定上受-2减值。如果他的攻击检定结果高于攻击者，当次攻击便自动失手。成功进行格挡后，如果攻击者处于他的触及范围且他还有剩余的借机攻击次数，他可以对攻击者进行借机攻击。\n每当成功格挡一次袭来的攻击时，枪矛手在整轮内都会在攻击检定上承受可叠加的-4减值（这也包括了后续的尝试格挡中的检定）。在7级，11级和15级，这个减值减少1。19级起，枪矛手不需要承受该减值。"
+    },
+    {
+      "Key": "b9d75f90f0304a1198fd593193a0b413",
+      "SimpleName": "SpearParryBuff.Name",
+      "ProcessTemplates": false,
+      "enGB": "Spear Parry",
+      "zhCN": "枪矛格挡"
+    },
+    {
+      "Key": "fe62c47345664a029d79cf557083a222",
+      "SimpleName": "SpearParryFeature.Description",
+      "ProcessTemplates": true,
+      "enGB": "At 3rd level, a spear fighter learns to parry his opponents’ attacks with his spear. When attacked in melee, the spear fighter makes an attack roll as if he were making an attack of opportunity; for each size category the attacking creature is larger than the spear fighter, he takes a –2 penalty on this roll. If his result is greater than the attacking creature’s result, the creature’s attack automatically misses. Upon performing a successful parry, he makes an attack of opportunity against the creature whose attack he parried, provided that creature is within his reach and the spear fighter has remaining attacks of opportunity.\nWhen an incoming attack is successfully parried gain a cumulative –4 penalty on all attacks (including further parry attempts) for a full round. At 7th, 11th, and 15th levels, the penalty decreases by 1. At 19th level, a spear fighter can use spear parry without penalty.",
+      "zhCN": "3级起，枪矛手学会了使用矛格挡对手攻击的技术。当被近战攻击时，枪矛手需要如同进行借机攻击一般进行一次攻击检定，攻击者的体型每比枪矛手大一级，枪矛手便要在此攻击检定上受-2减值。如果他的攻击检定结果高于攻击者，当次攻击便自动失手。成功进行格挡后，如果攻击者处于他的触及范围且他还有剩余的借机攻击次数，他可以对攻击者进行借机攻击。\n每当成功格挡一次袭来的攻击时，枪矛手在整轮内都会在攻击检定上承受可叠加的-4减值（这也包括了后续的尝试格挡中的检定）。在7级，11级和15级，这个减值减少1。19级起，枪矛手不需要承受该减值。"
+    },
+    {
+      "Key": "c499d5945ae44a5e86896d6143076c5d",
+      "SimpleName": "SpearParryFreeMarker.Description",
+      "ProcessTemplates": true,
+      "enGB": "At 19th level, a spear fighter can use spear parry without penalty.",
+      "zhCN": "19级起，枪矛手使用枪矛格挡时不需要承受减值。"
+    },
+    {
+      "Key": "480707cf35864225921af18c5604a04d",
+      "SimpleName": "SpearParryFreeMarker.Name",
+      "ProcessTemplates": false,
+      "enGB": "Spear Parry Penalty Removed",
+      "zhCN": "枪矛格挡减值已移除"
+    },
+    {
+      "Key": "502ef9f810ab48b7ac755efc34aeb997",
+      "SimpleName": "SpearParryPenaltyBuff.Description",
+      "ProcessTemplates": true,
+      "enGB": "When an incoming attack is successfully parried using the spear parry feature gain a cumulative –4 penalty on all attacks (including further parry attempts) for a full round. At 7th, 11th, and 15th levels, the penalty decreases by 1. At 19th level, a spear fighter can use spear parry without penalty.",
+      "zhCN": "当被近战攻击时，枪矛手需要如同进行借机攻击一般进行一次攻击检定，攻击者的体型每比枪矛手大一级，枪矛手便要在此攻击检定上受-2减值。如果他的攻击检定结果高于攻击者，当次攻击便自动失手。成功进行格挡后，如果攻击者处于他的触及范围且他还有剩余的借机攻击次数，他可以对攻击者进行借机攻击。\n每当成功格挡一次袭来的攻击时，枪矛手在整轮内都会在攻击检定上承受可叠加的-4减值（这也包括了后续的尝试格挡中的检定）。在7级，11级和15级，这个减值减少1。19级起，枪矛手不需要承受该减值。"
+    },
+    {
+      "Key": "804406d8130f42568f646c6218aa822d",
+      "SimpleName": "SpearParryPenaltyBuff.Name",
+      "ProcessTemplates": false,
+      "enGB": "Spear Parry Penalty",
+      "zhCN": "枪矛格挡减值"
+    },
+    {
+      "Key": "b2baaebb015c4504a49a81eeecaa5d1c",
+      "SimpleName": "SpearParryRankMarker.Description",
+      "ProcessTemplates": true,
+      "enGB": "At 7th, 11th, and 15th levels, the penalty gained from parrying using the spear parry feature decreases by 1. At 19th level, a spear fighter can use spear parry without penalty.",
+      "zhCN": "在7级，11级和15级，枪矛格挡带来的攻击检定减值减少1。19级起，枪矛手不需要承受该减值。"
+    },
+    {
+      "Key": "c89db3f21b45442489c9d587fce504db",
+      "SimpleName": "SpearParryRankMarker.Name",
+      "ProcessTemplates": false,
+      "enGB": "Spear Parry Penalty Decrease",
+      "zhCN": "枪矛格挡减值减少"
+    },
   ]
 }
