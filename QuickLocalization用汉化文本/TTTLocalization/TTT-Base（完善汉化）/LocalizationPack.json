@@ -427,7 +427,8 @@
       "ruRU": null,
       "deDE": null,
       "frFR": null,
-      "zhCN": "你可以忽略中年或老年的身体劣势。这个法术不会让你看起来更年轻，也不会让你免于老死，但是只要法术持续，你就能忽略你步入老年时获得的-3的力量、敏捷和体质减值。在法术持续中，你仍然保留年龄带给你的智力、感知和魅力加值。暮年阶段的追加减值仍然会完整保留。",
+      "zhCN": "你可以忽略中年或老年的身体劣势。这个法术不会让你看起来更年轻，也不会让你免于老死，但是只要法术持续，你就能忽略你步入老年时获得的-3的力量、敏捷和体质减值。
+    在法术持续中，你仍然保留年龄带给你的智力、感知和魅力加值。暮年阶段的追加减值仍然会完整保留。",
       "esES": null
     },
     {
@@ -449,7 +450,8 @@
       "ruRU": null,
       "deDE": null,
       "frFR": null,
-      "zhCN": "你可以忽略年龄带来的身体劣势。这个法术不会让你看起来更年轻，也不会让你免于老死，但是只要法术持续，你就能忽略你步入暮年时获得的-6的力量、敏捷和体质减值。在法术持续中，你仍然保留年龄带给你的智力、感知和魅力加值。",
+      "zhCN": "你可以忽略年龄带来的身体劣势。这个法术不会让你看起来更年轻，也不会让你免于老死，但是只要法术持续，你就能忽略你步入暮年时获得的-6的力量、敏捷和体质减值。
+    在法术持续中，你仍然保留年龄带给你的智力、感知和魅力加值。",
       "esES": null
     },
     {
@@ -482,7 +484,8 @@
       "ruRU": null,
       "deDE": null,
       "frFR": null,
-      "zhCN": "你可以忽略中年的身体劣势。这个法术不会让你看起来更年轻，也不会让你免于老死，但是只要法术持续，你就能忽略你步入中年时获得的-1的力量、敏捷和体质减值。在法术持续中，你仍然保留年龄带给你的智力、感知和魅力加值。老年和暮年阶段的追加减值仍然会完整保留。",
+      "zhCN": "你可以忽略中年的身体劣势。这个法术不会让你看起来更年轻，也不会让你免于老死，但是只要法术持续，你就能忽略你步入中年时获得的-1的力量、敏捷和体质减值。
+    在法术持续中，你仍然保留年龄带给你的智力、感知和魅力加值。老年和暮年阶段的追加减值仍然会完整保留。",
       "esES": null
     },
     {
@@ -625,7 +628,7 @@
       "ruRU": null,
       "deDE": null,
       "frFR": null,
-      "zhCN": "动物伙伴成长",
+      "zhCN": "动物伙伴升级",
       "esES": null
     },
     {
@@ -3203,17 +3206,6 @@
       "esES": null
     },
     {
-      "Key": "8c55f1700a614de8a02c8c209acc801d",
-      "SimpleName": "BloodragerAberrantSecondBloodline.Description",
-      "ProcessTemplates": true,
-      "enGB": "There is a taint in your blood that is both alien and bizarre. When you bloodrage, this manifests in peculiar and terrifying ways.\nWhile bloodraging, you gain the abilities and immunities of some aberrations, but show signs of your tainted heritage.\n<b><color=#703565><link=\"Encyclopedia:Bonus\">Bonus</link></color></b> Feats: Combat Reflexes, Great Fortitude, Improved Disarm, Improved Dirty Trick, Improved Initiative, Improved Unarmed Strike, Iron Will.\nBonus Spells: Enlarge Person (7th), See Invisibility (10th), Displacement (13th), Spike Stones (16th).",
-      "ruRU": null,
-      "deDE": null,
-      "frFR": null,
-      "zhCN": "你的血液中蕴含着外来者和异怪的污染。当你处于血承狂暴时，这些污染会以异常而可怕的方式显现出来。\n{g|Encyclopedia:Bonus}额外{/g}专长：战斗反射、顽石强韧、精通徒手击打、精通阴招、精通先攻、精通缴械、钢铁意志。\n额外法术：变巨术（7级）、识破隐形（11级）、移位术（13级）、岩刺（16级）。",
-      "esES": null
-    },
-    {
       "Key": "05904ca55b1e4a579480927db8907b97",
       "SimpleName": "BloodragerAberrantBloodline.Name",
       "ProcessTemplates": false,
@@ -3667,17 +3659,6 @@
     {
       "Key": "ecb9ba349bca489caf8490c78599f3f2",
       "SimpleName": "BloodragerDestinedBloodline.Description",
-      "ProcessTemplates": true,
-      "enGB": "Your bloodline is destined for great things. When you bloodrage, you exude a greatness that makes all but the most legendary creatures seem lesser.\nYour future greatness grants you the might to strike your enemies with awe.\n<b><color=#703565><link=\"Encyclopedia:Bonus\">Bonus</link></color></b> Feats: Diehard, Endurance, Improved Initiative, Intimidating Prowess, Sieze The Moment, Lightning Reflexes, Weapon Focus.\nBonus Spells: Shield (7th), Blur (10th), Protection From Energy (13th), Freedom Of Movement (16th).",
-      "ruRU": null,
-      "deDE": null,
-      "frFR": null,
-      "zhCN": "血脉中的某种力量使你命中注定会成就伟业。当你处于血承狂暴时，身上所散发出的伟大气息能够让除了传奇生物以外的所有生物显得渺小而平凡，你未来的伟大赐予你令对手拜服的力量。\n{g|Encyclopedia:Bonus}额外{/g}专长：顽强、坚韧、精通先攻、威逼、抓准时机、闪电反射、武器专攻。\n额外法术：护盾术（7级）、朦胧术（11级）、防护能量（13级）、行动自如（16级）。",
-      "esES": null
-    },
-    {
-      "Key": "28cae4dc1b214fb4bda55244460ea377",
-      "SimpleName": "BloodragerDestinedSecondBloodline.Description",
       "ProcessTemplates": true,
       "enGB": "Your bloodline is destined for great things. When you bloodrage, you exude a greatness that makes all but the most legendary creatures seem lesser.\nYour future greatness grants you the might to strike your enemies with awe.\n<b><color=#703565><link=\"Encyclopedia:Bonus\">Bonus</link></color></b> Feats: Diehard, Endurance, Improved Initiative, Intimidating Prowess, Sieze The Moment, Lightning Reflexes, Weapon Focus.\nBonus Spells: Shield (7th), Blur (10th), Protection From Energy (13th), Freedom Of Movement (16th).",
       "ruRU": null,
@@ -7126,7 +7107,7 @@
       "ruRU": null,
       "deDE": null,
       "frFR": null,
-      "zhCN": "兽类冲动的啮咬攻击造成的伤害相当于你的体型增大了一级",
+      "zhCN": "动物之怒的啮咬攻击造成的伤害骰增大一级，如同你的体型增大一级。",
       "esES": null
     },
     {
@@ -7137,7 +7118,7 @@
       "ruRU": null,
       "deDE": null,
       "frFR": null,
-      "zhCN": "高等兽类冲动",
+      "zhCN": "高等动物之怒",
       "esES": null
     },
     {
@@ -7632,7 +7613,7 @@
       "ruRU": null,
       "deDE": null,
       "frFR": null,
-      "zhCN": "这个生物的表皮比大多数动物都坚韧。该生物的天生防御加值增加+1。\n一个生物可以多次获得此专长。每当该生物获得该专长时，其天生防御加值增加1点",
+      "zhCN": "这种生物的皮肤比大多数生物都坚硬。该生物的天生防御加值+1。n一个生物可以多次选择该专长。每当此生物获得该专长时，其天生防御加值增加1点。",
       "esES": null
     },
     {
@@ -7643,7 +7624,7 @@
       "ruRU": null,
       "deDE": null,
       "frFR": null,
-      "zhCN": "强化天生防御",
+      "zhCN": "精通天生防御",
       "esES": null
     },
     {
@@ -7654,7 +7635,7 @@
       "ruRU": null,
       "deDE": null,
       "frFR": null,
-      "zhCN": "这种生物的天生武器所造成的攻击会留下严重的创伤。选择该生物的一种天生武器。\n该天生武器的伤害骰增大一级，如同该生物的体型增大了一级。",
+      "zhCN": "这种生物的天生武器所造成的攻击会留下恶毒的伤口。\n选择该生物的一种天生武器攻击，这种天生武器攻击造成的伤害骰增大一级，如同该生物的体型增大一级。",
       "esES": null
     },
     {
@@ -7665,7 +7646,7 @@
       "ruRU": null,
       "deDE": null,
       "frFR": null,
-      "zhCN": "强化天生武器",
+      "zhCN": "精通天生武器",
       "esES": null
     },
     {
@@ -8842,7 +8823,7 @@
       "ruRU": null,
       "deDE": null,
       "frFR": null,
-      "zhCN": "每当你成功进行重击时，武器的伤害结果总是会达到你可能骰出的最高数值。这不会影响其他会加诸于伤害的骰子，比如偷袭或者炽焰武器特殊能力。例如：如果你成功使用长剑（1d8/x2）造成重击，那么将长剑的伤害骰视为两次均掷出8点，然后再加上通常情况下能加到重击上的其他伤害加值。",
+      "zhCN": "每当你进行一次重击时，武器的伤害结果永远是你可以掷出的最大值。这不会影响该伤害的其他附加伤害骰，如偷袭攻击或炽焰武器特殊能力。例如，当你使用长剑进行一次重击（1d8/×2）时，将此长剑的伤害骰结果视为2次均掷出8点，再加上你通常应用于重击的所有其他伤害加值。",
       "esES": null
     },
     {
@@ -11383,7 +11364,7 @@
       "ruRU": null,
       "deDE": null,
       "frFR": null,
-      "zhCN": null,
+      "zhCN": "1轮/智力调整值",
       "esES": null
     },
     {
@@ -14221,7 +14202,7 @@
       "ruRU": null,
       "deDE": null,
       "frFR": null,
-      "zhCN": "巫师诅咒的目标注定要死亡（意志豁免通过则无效）。只要诅咒仍然存在，目标的AC、攻击、豁免、属性和技能检定就遭受-4减值。一个目标同时只能背负至多一项凶兆。无论豁免成功与否，该生物在1天内都不会再次成为此巫术的目标。这是一个〔诅咒〕效果。",
+      "zhCN": "巫师诅咒的目标注定要死亡。只要诅咒仍然存在，目标的AC、攻击、豁免、属性和技能检定就受到-4减值。\n一个目标身上只能同时存在一个凶兆。无论目标对该巫术的豁免是否成功，该生物在1天内都不能再次成为该巫术的目标。这是一种诅咒效果。",
       "esES": null
     },
     {
@@ -14243,7 +14224,7 @@
       "ruRU": null,
       "deDE": null,
       "frFR": null,
-      "zhCN": "凶兆冷却",
+      "zhCN": "凶兆（冷却中）",
       "esES": null
     },
     {
