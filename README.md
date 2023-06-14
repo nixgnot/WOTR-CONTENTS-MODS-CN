@@ -104,7 +104,7 @@
 ### 本文档使用说明
 + **汉化文件下载**
 > 直接点击上方**Code**按钮，然后选择**Download Zip**即可打包下载全部汉化文件<br>
-> 如果需要单独汉化文件，可以自行新建文本文档并复制放入文件内容，注意保存格式为**UTF-8**<br>
+> 如果需要单独汉化文件，可以点击对应文件后选择右上方的Download raw file图标<br>
 > 汉化文件的使用请参考下方
 + **辅助工具下载**
 > 在[Release页面](https://github.com/nixgnot/WOTR-CONTENTS-MODS-CN/releases)中，可以下载**MOD外挂汉化工具QuickLocalization**、**Pathfinder中文文档**<br>
