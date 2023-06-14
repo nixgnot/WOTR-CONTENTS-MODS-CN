@@ -3154,7 +3154,7 @@ C:\Users\你的用户名\AppData\LocalLow\Owlcat Games\Pathfinder Wrath Of The R
   -------------------------------------------   
 ### [WOTR_IsekaiMod](https://github.com/JohN100x1/WOTR_IsekaiMod)
 > *前置：* 无<br>
-> *中文：* **无**<br>
+> *中文：* **自带中文（机翻），提供QL用修正（By 无望的灰烬）**<br>
 > *安装方式：* **UMM**<br>
 > *修改内容：* <br>
 > *新增内容：* 人类替换种族特性<br>
