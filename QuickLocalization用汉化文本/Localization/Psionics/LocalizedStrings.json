@@ -1,1 +1,878 @@
+[
+  // ==== ABILITIES ====
+  // Soulknife
+  {
+    "Key": "ShapeMindBladeAbility.Name",
+    "ProcessTemplates": false,
+    "enGB_Base": "Shape Mind Blade",
+    "zhCN": "念刃变形"
+  },
+  {
+    "Key": "ShapeMindBladeAbility.Description",
+    "enGB_Base": "As a Standard Action, change the shape of your mind blade.",
+    "zhCN": "用一个标准动作，改变念刃的形状。"
+  },
+  // Variants
+  {
+    "Key": "FormMindBladeAbility.Name",
+    "ProcessTemplates": false,
+    "enGB_Base": "Form Mind Blade",
+    "zhCN": "念刃塑形"
+  },
+  {
+    "Key": "FormMindBladeAbility.Description",
+    "enGB_Base": "As a move action, a soulknife can form a semi-solid weapon composed of psychic energy distilled from her own mind.\nA soulknife must choose the form of her mind blade at 1st level. She can either form it into a light weapon, a one-handed weapon, or a two-handed weapon. Once chosen, her mind blade stays in this form every time the soulknife forms her mind blade. The light weapon deals 1d6 points of damage, the one-handed weapon deals 1d8 points of damage, and the two-handed weapon deals 2d6 points of damage. All damages are based on a Medium-sized creature wielding Medium-sized weapons; adjust the weapon damage as appropriate for different sized weapons. In all forms, the mind blade has a critical range of 19-20/x2. A soulknife with powerful build or any similar ability forms an appropriately-sized mind blade dealing the size-appropriate amount of damage. If the soulknife’s chosen form is a light weapon, she may choose to form two light weapons when forming her mind blade if she so chooses, but she suffers the standard penalties for two-weapon fighting.\nRegardless of the weapon form a soulknife has chosen, her mind blade does not have a set damage type. When shaping her weapon and assigning abilities to it, the soulknife chooses whether it will deal bludgeoning, piercing, or slashing damage. The soulknife may change the damage type of an existing mind blade, or may summon a new mind blade with a different damage type, as a full-round action; otherwise, the mind blade retains the last damage type chosen every time it is summoned.\nThe blade can be broken (it has hardness 10 and 10 hit points); however, a soulknife can simply create another on her next move action. The moment she relinquishes her grip on her blade, it dissipates (unless she intends to throw it; see below). A mind blade is considered a magic weapon for the purpose of overcoming damage reduction and is considered a masterwork weapon.\nA soulknife can use feats such as Power Attack or Combat Expertise in conjunction with the mind blade just as if it were a normal weapon. She can also choose her mind blade for feats requiring a specific weapon choice, such as Weapon Focus and Improved Critical. Powers or spells that upgrade weapons can be used on a mind blade. The soulknife can use feats such as Weapon Finesse that work on light weapons with her mind blade, but such feats only work on mind blades in a light weapon form.\nEven in places where psionic effects do not normally function (such as within a null psionics field), a soulknife can attempt to sustain her mind blade by making a DC 20 Will save. On a successful save, the soulknife maintains her mind blade for a number of rounds equal to her class level before she needs to check again, although the mind blade is treated for all purposes as a non-magical, masterwork weapon while in a place where psionic effects do not normally function. On an unsuccessful attempt, the mind blade vanishes. As a move action on her turn, the soulknife can attempt a new Will save to rematerialize her mind blade while she remains within the psionics-negating effect. She gains a bonus on Will saves made to maintain or form her mind blade equal to the total enhancement bonus of her mind blade (see below).\nThe soulknife chooses the appearance of her mind blade, although its shape must reflect the selections the soulknife has chosen: a bludgeoning mind blade would be blunt, slashing would have an edge, etc.",
+    "zhCN": "以一个移动动作，魂刃可以以灵能塑形出一把由她思想铸造的半固态念刃\n魂刃必须在1级决定念刃的形态．她可以选择将之塑形为一件轻型武器，一把单手武器，亦或是双手武器。一旦决定了造型，以后当她塑形念刃时她的念刃都会以这一形态出现。轻型武器形态可以造成1d6点伤害，单手武器形态可以造成1d8点伤害，双手武器可以造成2d6点伤害。以上的所有伤害都是以中型生物挥舞的中型武器计算的，根据不同的体型大小调整你的武器伤害。不论是那一种形态，念刃的重击范围都是19-20/X2。如果你的魂刃是大体型生物或是小体型生物，你可以根据她的体型来调整念刃的伤害骰。如果魂刃选择将她的念刃塑形为轻型武器，那她可以选择在显形念刃时显现2把轻型武器造型的念刃。如果她这么做的话她承受标准的双武减值。\n不论魂刃以何种形态塑形她的念刃，念刃本身并没有固定的伤害类型。当她显形念刃并向其中灌注能量时，魂刃可以选择这把念刃造成的伤害类型，钝击，挥砍，亦或是穿刺。以一个整轮动作，魂刃可以改变她现有念刃的伤害类型或者重新显形一把不同伤害类型的念刃。如果不这么做的话，念刃会一直保持上一次显形时的伤害类型。\n念刃可以被击碎（它的硬度为10并且有10点生命值），但魂刃可以用他的下一个移动等效动作重铸造一把。当魂刃松开了她紧握的念刃时，这把念刃会即时消散（除非她这么做是为了抛掷念刃，详情见下文）。一把念刃在计算DR时被视为魔法武器，同时被视为精制武器。\n如同普通武器一样，魂刃可以对念刃应用“猛力攻击”，“寓守于攻”专长。此外，她也可以选择念刃作为特殊专长的需求，比如武器专攻和精通重击。强化武器的灵能和法术也可以对念刃起效。武器娴熟也可对念刃生效，当然前提条件是这位魂刃的念刃属于轻型武器形态。\n即使在灵能无法正常作用的地方（比如位于“反灵能力场”内），通过一个20dc的意志检定，魂刃依然可以制造并维持念刃，通过这一方法显形的念刃维持等于她魂刃职业等级的轮数。当持续时间结束后，她可以通过另一个20dc的意志检定维持她的念刃，同时，在灵能无法正常作用地区，念刃被视为非魔法武器及非精制武器。如果她未能成功通过这一意志检定，那她的念刃将即时消散。于灵能无效地区，在她自己的行动回合内，魂刃可以通过一个新的意志检定（dc20）以一个移动动作重塑念刃。她在这个意志检定上获得等同于念刃增强加值的增强加值（念刃增强加值见下）。\n魂刃可以决定她的念刃造型，当然这一造型必须符合念刃的伤害类型，比如钝击伤害类型的念刃必须是钝器，挥砍伤害的念刃必须有刃口，诸如此类。"
+  },
 
+
+  // ==== FEATS ====
+  // General
+  {
+    "Key": "MyFeat.Name",
+    // Don't process this since it is just a name. Without this it might create strange artifacts by trying to create
+    // links to encycolpedia pages.
+    "ProcessTemplates": false,
+    "enGB_Base": "My Feat",
+    "zhCN": "My Feat"
+  },
+
+  {
+    "Key": "MyFeat.Description",
+    "enGB_Base": "This is my feat, not your feat.",
+    "zhCN": "This is my feat, not your feat."
+  },
+  // Soulknife
+  {
+    "Key": "SoulknifeProficiencies.Name",
+    "ProcessTemplates": false,
+    "enGB_Base": "Soulknife Proficiencies",
+    "zhCN": "魂刃擅长"
+  },
+  {
+    "Key": "SoulknifeProficiencies.Description",
+    "enGB_Base": "A soulknife is proficient with all simple weapons, with her own mind blade (regardless of form), with light and medium armor, and with shields (but not tower shields).",
+    "zhCN": "魂刃擅长使用所有简单武器以及她的念刃（不论是何种形态）．她们擅长轻型和中型甲以及盾牌（不包括塔盾）。"
+  },
+  {
+    "Key": "FormMindBladeFeat.Name",
+    "ProcessTemplates": false,
+    "enGB_Base": "Form Mind Blade",
+    "zhCN": "念刃塑形"
+  },
+  {
+    "Key": "FormMindBladeFeat.Description",
+    "enGB_Base": "As a move action, a soulknife can form a semi-solid weapon composed of psychic energy distilled from her own mind.\nA soulknife must choose the form of her mind blade at 1st level. She can either form it into a light weapon, a one-handed weapon, or a two-handed weapon. Once chosen, her mind blade stays in this form every time the soulknife forms her mind blade. The light weapon deals 1d6 points of damage, the one-handed weapon deals 1d8 points of damage, and the two-handed weapon deals 2d6 points of damage. All damages are based on a Medium-sized creature wielding Medium-sized weapons; adjust the weapon damage as appropriate for different sized weapons. In all forms, the mind blade has a critical range of 19-20/x2. A soulknife with powerful build or any similar ability forms an appropriately-sized mind blade dealing the size-appropriate amount of damage. If the soulknife’s chosen form is a light weapon, she may choose to form two light weapons when forming her mind blade if she so chooses, but she suffers the standard penalties for two-weapon fighting.\nRegardless of the weapon form a soulknife has chosen, her mind blade does not have a set damage type. When shaping her weapon and assigning abilities to it, the soulknife chooses whether it will deal bludgeoning, piercing, or slashing damage. The soulknife may change the damage type of an existing mind blade, or may summon a new mind blade with a different damage type, as a full-round action; otherwise, the mind blade retains the last damage type chosen every time it is summoned.\nThe blade can be broken (it has hardness 10 and 10 hit points); however, a soulknife can simply create another on her next move action. The moment she relinquishes her grip on her blade, it dissipates (unless she intends to throw it; see below). A mind blade is considered a magic weapon for the purpose of overcoming damage reduction and is considered a masterwork weapon.\nA soulknife can use feats such as Power Attack or Combat Expertise in conjunction with the mind blade just as if it were a normal weapon. She can also choose her mind blade for feats requiring a specific weapon choice, such as Weapon Focus and Improved Critical. Powers or spells that upgrade weapons can be used on a mind blade. The soulknife can use feats such as Weapon Finesse that work on light weapons with her mind blade, but such feats only work on mind blades in a light weapon form.\nEven in places where psionic effects do not normally function (such as within a null psionics field), a soulknife can attempt to sustain her mind blade by making a DC 20 Will save. On a successful save, the soulknife maintains her mind blade for a number of rounds equal to her class level before she needs to check again, although the mind blade is treated for all purposes as a non-magical, masterwork weapon while in a place where psionic effects do not normally function. On an unsuccessful attempt, the mind blade vanishes. As a move action on her turn, the soulknife can attempt a new Will save to rematerialize her mind blade while she remains within the psionics-negating effect. She gains a bonus on Will saves made to maintain or form her mind blade equal to the total enhancement bonus of her mind blade (see below).",
+    "zhCN": "以一个移动动作，魂刃可以以灵能塑形出一把由她思想铸造的半固态念刃\n魂刃必须在1级决定念刃的形态．她可以选择将之塑形为一件轻型武器，一把单手武器，亦或是双手武器。一旦决定了造型，以后当她塑形念刃时她的念刃都会以这一形态出现。轻型武器形态可以造成1d6点伤害，单手武器形态可以造成1d8点伤害，双手武器可以造成2d6点伤害。以上的所有伤害都是以中型生物挥舞的中型武器计算的，根据不同的体型大小调整你的武器伤害。不论是那一种形态，念刃的重击范围都是19-20/X2。如果你的魂刃是大体型生物或是小体型生物，你可以根据她的体型来调整念刃的伤害骰。如果魂刃选择将她的念刃塑形为轻型武器，那她可以选择在显形念刃时显现2把轻型武器造型的念刃。如果她这么做的话她承受标准的双武减值。\n不论魂刃以何种形态塑形她的念刃，念刃本身并没有固定的伤害类型。当她显形念刃并向其中灌注能量时，魂刃可以选择这把念刃造成的伤害类型，钝击，挥砍，亦或是穿刺。以一个整轮动作，魂刃可以改变她现有念刃的伤害类型或者重新显形一把不同伤害类型的念刃。如果不这么做的话，念刃会一直保持上一次显形时的伤害类型。\n念刃可以被击碎（它的硬度为10并且有10点生命值），但魂刃可以用他的下一个移动等效动作重铸造一把。当魂刃松开了她紧握的念刃时，这把念刃会即时消散（除非她这么做是为了抛掷念刃，详情见下文）。一把念刃在计算DR时被视为魔法武器，同时被视为精制武器。\n如同普通武器一样，魂刃可以对念刃应用“猛力攻击”，“寓守于攻”专长。此外，她也可以选择念刃作为特殊专长的需求，比如武器专攻和精通重击。强化武器的灵能和法术也可以对念刃起效。武器娴熟也可对念刃生效，当然前提条件是这位魂刃的念刃属于轻型武器形态。\n即使在灵能无法正常作用的地方（比如位于“反灵能力场”内），通过一个20dc的意志检定，魂刃依然可以制造并维持念刃，通过这一方法显形的念刃维持等于她魂刃职业等级的轮数。当持续时间结束后，她可以通过另一个20dc的意志检定维持她的念刃，同时，在灵能无法正常作用地区，念刃被视为非魔法武器及非精制武器。如果她未能成功通过这一意志检定，那她的念刃将即时消散。于灵能无效地区，在她自己的行动回合内，魂刃可以通过一个新的意志检定（dc20）以一个移动动作重塑念刃。她在这个意志检定上获得等同于念刃增强加值的增强加值（念刃增强加值见下）。"
+  },
+  {
+    "Key": "ShapeMindBladeFeat.Name",
+    "ProcessTemplates": false,
+    "enGB_Base": "Shape Mind Blade",
+    "zhCN": "念刃变形"
+  },
+  {
+    "Key": "ShapeMindBladeFeat.Description",
+    "enGB_Base": "The soulknife’s mind blade retains the last chosen form every time it is formed until the soulknife reshapes it. If the soulknife chooses to reshape her blade, it requires a full-round action to do so. She may also re-assign the type of damage dealt as part of reshaping her mind blade if she so chooses. A soulknife can reassign the ability or abilities she has added to her mind blade; see below. To do so, she must first spend 8 hours in concentration. These cannot be the normal 8 hours used for rest, even if the soulknife does not require sleep. After that period, the mind blade materializes with the new ability or abilities selected by the soulknife.",
+    "zhCN": "除非你改变念刃的造型，否则魂刃的念刃会维持上一次的显形造型。改变念刃的造型是一个整轮动作，在这一重塑过程中魂刃可以改变念刃的伤害类型。魂刃也可以通过重塑念刃来改变念刃的特殊能力（如果有的话，见下表），这一过程需要8小时的专注时间。这8小时无法用于休息，即使这位魂刃并不需要休息．经过8小时后，这把念刃的特殊能力就彻底改变了。"
+  },
+
+  // ==== CLASSES ====
+  {
+    "Key": "Soulknife.Name",
+    "ProcessTemplates": false,
+    "enGB_Base": "Soulknife",
+    "zhCN": "魂刃"
+  },
+
+  {
+    "Key": "Soulknife.Description",
+    "enGB_Base": "Never caught unarmed, the soulknife is the literal interpretation of using the power of the mind as a weapon. Creating a mind blade is the core of the soulknife, and with it, she is a deadly combatant. Versatile and varied, the soulknife can be found in all shapes and sizes, wielding blades unique to the wielder and customized to fit the needs of the soulknife. Fluid in function, the soulknife has mastered how to alter her mind blade to fit the situation, bringing power and versatility into any combat.",
+    "zhCN": "就如同字面上的意义一样，一位魂刃永远不会担心在战斗中以赤手空拳的状态迎击敌人，他们能以自身的意念来铸造兵器迎接战斗。创造一把念刃是一个魂刃最基础的核心工作，当一位魂刃手持念刃时，她便是最为致命的战士．念刃的姿态千姿多彩而绝非千人一面，你可以找到各式大小及不同形态的念刃，念刃的形态及功能会根据挥舞者的不同需求或适应使用者的个人习惯而转变。如流水般变幻形态切换功能，魂刃能根据不同的局势状况熟练的转变重塑她的念刃，以一种强大多变的方式来投入战斗。"
+  },
+
+  // ==== Added Feats====
+  {
+    "Key": "ExtraBladeSkill.Name",
+    "enGB_Base": "Extra Blade Skill",
+    "zhCN": "额外魂之剑技"
+  },
+  {
+    "Key": "ExtraBladeSkill.Description",
+    "enGB_Base": "You gain an additional blade skill.",
+    "zhCN": "你获得额外一个魂之剑技。"
+  },
+  {
+    "Key": "PowerPointPool.Name",
+    "enGB_Base": "Power Point Pool",
+    "zhCN": "灵能点池"
+  },
+  {
+    "Key": "PowerPointPool.Description",
+    "enGB_Base": "You have a pool of Power Points",
+    "zhCN": "你拥有灵能点池"
+  },
+  {
+    "Key": "PsionicBody.Name",
+    "enGB_Base": "Psionic Body",
+    "zhCN": "灵能身躯"
+  },
+  {
+    "Key": "PsionicBody.Description",
+    "enGB_Base": "When you take this feat, you gain 2 hit points for each psionic feat you have (including this one). Whenever you take a new psionic feat, you gain 2 more hit points.",
+    "zhCN": "当你选取本专长时，你每拥有一个灵能专长（包括这个），就获得2点生命值。你获得每个新灵能专长时，还可以再获得2点生命值。"
+  },
+  {
+    "Key": "PsionicMeditation.Name",
+    "enGB_Base": "Psionic Meditation",
+    "zhCN": "灵能冥想"
+  },
+  {
+    "Key": "PsionicMeditation.Description",
+    "enGB_Base": "You can take a move action to become psionically focused.",
+    "zhCN": "你能用一个移动动作进入“灵能集中”状态。"
+  },
+  {
+    "Key": "WildTalent.Name",
+    "enGB_Base": "Wild Talent",
+    "zhCN": "原始天赋"
+  },
+  {
+    "Key": "WildTalent.Description",
+    "enGB_Base": "Your latent power of psionics flares to life, conferring upon you the designation of a psionic character. As a psionic character, you gain a reserve of 2 power points and can take psionic feats, metapsionic feats, and psionic item creation feats. You do not, however, gain the ability to manifest powers simply by virtue of having this feat. Additionally, you can take this feat multiple times. The first, you gain 2 additional power points, every other time, you gain only one.",
+    "zhCN": "你潜在的灵能力量在你的生命中闪亮起来，你现在变为了一名灵能人物。作为灵能人物，你获得了2点灵能点而且可以选择灵能专长、超能专长和制造灵能物品专长，不过本专长本身不会给你展现异能的能力。此外，当你多次获得此专长时，首次你获得2点额外灵能点，之后每次只获得1点。"
+  },
+  // ==== Added Soulknife Feats====
+  {
+    "Key": "BladeSkillsFeat.Name",
+    "enGB_Base": "Blade Skill",
+    "zhCN": "魂之剑技"
+  },
+  {
+    "Key": "BladeSkillsFeat.Description",
+    "enGB_Base": "Beginning at 2nd level and every even soulknife level thereafter, a soulknife may choose one of a number of abilities to add to her repertoire. Some blade skills have prerequisites that must be met before they can be chosen. All blade skills may only be chosen once and require the soulknife to be using her mind blade unless otherwise stated in the skill’s description.",
+    "zhCN": "自2级开始，以及之后的每个偶数等级魂刃可以选择获得一个魂之剑技。其中一些魂之剑技需要一些前置条件才能选择。除非这一魂之剑技的描述中有特殊提到，否则所有魂之剑技都只能选择一次并且只有在使用念刃时才能使用。"
+  },
+  {
+    "Key": "EnhancedMindBladeFeat.Name",
+    "enGB_Base": "Enhanced Mind Blade",
+    "zhCN": "念刃强化"
+  },
+  {
+    "Key": "EnhancedMindBladeFeat.Description",
+    "enGB_Base": "A soulknife’s mind blade improves as the character gains higher levels. At 3rd level and every odd level thereafter, the mind blade gains a cumulative +1 enhancement bonus that she may spend on an actual enhancement bonus or on weapon special abilities. A soulknife’s level determines her maximum enhancement bonus. The soulknife may (and must, when her total enhancement is higher than her maximum bonus) apply any special ability instead of an enhancement bonus, as long as she meets the level requirements. A soulknife can choose any combination of weapon special abilities and/or enhancement bonus enhancement bonus before assigning any special abilities. If the soulknife shapes her mind blade into two items, the enhancement bonus of her mind blade (if any) is reduced by 1 (to a minimum of 0). If this would reduce the enhancement bonus on the mind blades to 0 and weapon special abilities are applied, the soulknife must reshape her mind blade to make the options valid. Both mind blades have the same selection of enhancement bonus that does not exceed the total allowed by the soulknife’s level, but she must assign at least a +1 and weapon special abilities (if any). This penalty does not apply when using the Mind Shield blade skill.",
+    "zhCN": "魂刃的念刃随着魂刃的等级提高而强化．自3级开始以及之后的每个单数等级，魂刃的念刃获得1点累计的增强加值，她可以选择用来提高念刃的实际增强加值或者增添特殊能力。魂刃的职业等级决定了她念刃的增强加值上限。魂刃可以（在她的念刃增强加值已经是当前增强加值上限时是必须）选择往念刃上添加特殊能力来替代增添增强加值（只要她满足等级需求）。魂刃可以选择任意的特殊能力与不超过当前增强加值上限的增强加值组合，但是在往念刃上添加特殊特性前，念刃必须拥有至少1点增强加值。如果魂刃选择将她的念刃变形为两件物品（例如双武模式），那她的念刃的增强加值（如果有增强加值）-1（最低0）。如果念刃的增强加值降到0，那念刃上的所有特殊特性都将失效。魂刃必须重塑她的念刃来恢复特殊特性。使用以念化盾并不承受这一减值。"
+  },
+  {
+    "Key": "FormMindBoltFeat.Name",
+    "enGB_Base": "Form Mind Bolt",
+    "zhCN": "念矢塑形"
+  },
+  {
+    "Key": "FormMindBoltFeat.Description",
+    "enGB_Base": "At 1st level, as a move action, a soulbolt can form a semi-solid ranged weapon composed of psychic energy distilled from her own mind. This mind bolt appears inside of or enveloping the soulbolt’s hand.\r\nA soulbolt must choose the form of her mind bolt at 1st level. She can either form it into a short range, medium range, or long range bolt which determines the weapon’s range increment and base damage. Once chosen, her mind bolt stays in this form every time the soulknife forms her mind bolt. The long range bolt form is the smallest of forms and deals 1d6 points of damage and has a 100 ft. range increment. The medium range bolt form deals 1d8 points of damage, with a 60 ft. range increment, and the short range bolt form is the largest and heaviest form and deals 1d10 points of damage with a 20 ft. range increment. A soulbolt adds her Strength modifier to damage rolls when using the mind bolt in the short range form. All damages are based on a Medium-sized creature wielding Medium-sized weapons; adjust the weapon damage as appropriate for different sized weapons. A soulbolt with powerful build or any similar ability forms an appropriately-sized mind bolt dealing the size-appropriate amount of damage. Regardless of form, the mind bolt has a 19-20 critical threat range, has a maximum range of 10 range increments, and is treated as a projectile.\nThe form of the soulbolt’s mind bolt also determines how many hands must be used to form and manipulate the mind bolt. If the mind bolt is in long range form, both of the soulbolt’s hands remain free to hold other items such as a shield or a weapon. If the mind bolt is in medium range form, the soulbolt must have at least one hand free to form and manipulate the mind bolt. If the mind bolt is in short range form, the soulbolt must have both hands free to wield and launch the mind bolt.\n    A soulbolt can wield a buckler without penalty regardless of the form of her mind bolt.\nRegardless of the weapon form a soulbolt has chosen, her mind bolt does not have a set damage type. When shaping her weapon and assigning abilities to it, the soulbolt chooses whether it will deal bludgeoning, piercing, or slashing damage. The soulbolt may change the damage type of an existing mind bolt, or may summon a new mind bolt with a different damage type, as a full-round action; otherwise, the mind bolt retains the last damage type chosen every time it is summoned.\nThe bolt can be broken (it has hardness 10 and 10 hit points); however, a soulbolt can simply create another on her next move action. The moment she relinquishes her grip on her blade, it dissipates (unless she intends to throw it; see below). A mind bolt is considered a magic weapon for the purpose of overcoming damage reduction and is considered a masterwork weapon.\n    A soulbolt can use feats such as Rapid Shot or Precise Shot in conjunction with the mind bolt just as if it were a normal ranged weapon. She can also choose her mind bolt for feats requiring a specific weapon choice, such as Weapon Focus and Improved Critical. Powers or spells that upgrade weapons can be used on a mind bolt. The soulbolt can use feats such as Weapon Finesse that work on light weapons with her mind bolt, but such feats only work on mind bolts in a light weapon form, such as using the Mind Daggers blade skill.\nEven in places where psionic effects do not normally function (such as within a null psionics field), a soulbolt can attempt to sustain her mind bolt by making a DC 20 Will save. On a successful save, the soulbolt maintains her mind bolt for a number of rounds equal to her class level before she needs to check again, although the mind bolt is treated for all purposes as a non-magical, masterwork ranged weapon while in a place where psionic effects do not normally function. On an unsuccessful attempt, the mind bolt vanishes. As a move action on her turn, the soulbolt can attempt a new Will save to rematerialize her mind bolt while she remains within the psionics-negating effect. She gains a bonus on Will saves made to maintain or form her mind bolt equal to the total enhancement bonus of her mind bolt (see below).\nThe soulbolt chooses the appearance of her mind bolt, although its shape must reflect the selections the soulbolt has chosen: a bludgeoning mind bolt would be blunt, slashing would have an edge, etc.\nThis ability replaces the Form Mind Blade class feature normally gained by soulknives.",
+    "zhCN": "1级起，以一个移动动作，魂矢可以以灵能塑形出一把由她思想铸造的半固态远程武器。念矢会在魂矢的手中或者围绕双手出现。\r\n魂矢必须在1级决定念矢的形态．她可以选择短距离、中距离或者长距离念矢来决定武器的射程和基础伤害。一旦决定了造型，以后当她塑形念矢时她的念矢都会以这一形态出现。长距离念矢尺寸最小，造成1d6点伤害并拥有100尺射程增量，中距离念矢可以造成1d8点伤害并拥有60尺射程增量，短距离念矢则是最大最重的形态，造成1d10伤害并拥有20尺射程增量。使用短距离念矢时，魂矢将自己的力量调整值加到伤害骰中。以上的所有伤害都是以中型生物使用的中型武器计算的，根据不同的体型大小调整你的武器伤害。如果你的魂矢是大体型生物或是小体型生物，你可以根据她的体型来调整念矢的伤害骰。不论是那一种形态，念矢的重击范围都是19-20/X2，拥有10点射程增量。并被视为投射物。\n念矢的形态也会影响魂矢需要用几只手来形成或操纵念矢。使用长距离念矢时，她的两只手都可以用来做别的事情。使用中距离念矢时，她必须拥有至少一只空闲手来形成和操纵念矢。使用短距离念矢时，魂矢必须使用两只空闲手来持有和发射念矢。\n魂矢可以无视她念矢的形态，在没有任何处罚的情况下装备小圆盾。\n不论魂矢以何种形态塑形她的念矢，念矢本身并没有固定的伤害类型。当她显形念矢并向其中灌注能量时，魂矢可以选择念矢造成的伤害类型，钝击，挥砍，亦或是穿刺。以一个整轮动作，魂矢可以改变她现有念矢的伤害类型或者重新显形一把不同伤害类型的念矢。如果不这么做的话，念矢会一直保持上一次显形时的伤害类型。\n念矢可以被击碎（它的硬度为10并且有10点生命值），但魂矢可以用他的下一个移动等效动作重铸造一把。当魂矢松开了她紧握的念矢时，念矢会即时消散（除非她这么做是为了抛掷念矢，详情见下文）。念矢在计算DR时被视为魔法武器，同时被视为精制武器。\n如同普通远程武器一样，魂矢可以对念矢应用“快速射击”，“精准射击”专长。此外，她也可以选择念矢作为特殊专长的需求，比如武器专攻和精通重击。强化武器的灵能和法术也可以对念矢起效。武器娴熟也可对念矢生效，当然前提条件是这位魂矢的念矢属于轻型武器形态，比如使用念刃化匕时。\n即使在灵能无法正常作用的地方（比如位于“反灵能力场”内），通过一个20dc的意志检定，魂矢依然可以制造并维持念矢，通过这一方法显形的念矢维持等于她魂矢职业等级的轮数。当持续时间结束后，她可以通过另一个20dc的意志检定维持她的念矢，同时，在灵能无法正常作用地区，念矢被视为非魔法武器及非精制武器。如果她未能成功通过这一意志检定，那她的念矢将即时消散。于灵能无效地区，在她自己的行动回合内，魂矢可以通过一个新的意志检定（dc20）以一个移动动作重塑念矢。她在这个意志检定上获得等同于念矢增强加值的增强加值（念刃增强加值见下）。\n魂矢可以决定她的念矢造型，当然这一造型必须符合念矢的伤害类型，比如钝击伤害类型的念矢必须是钝器，挥砍伤害的念刃必须有刃口，诸如此类。\n这个能力替代了魂刃的念刃塑形。"
+  },
+  {
+    "Key": "FormMindBoltAbility.Name",
+    "enGB_Base": "Form Mind Bolt",
+    "zhCN": "念矢塑形"
+  },
+  {
+    "Key": "FormMindBoltAbility.Description",
+    "enGB_Base": "At 1st level, as a move action, a soulbolt can form a semi-solid ranged weapon composed of psychic energy distilled from her own mind. This mind bolt appears inside of or enveloping the soulbolt’s hand.\r\nA soulbolt must choose the form of her mind bolt at 1st level. She can either form it into a short range, medium range, or long range bolt which determines the weapon’s range increment and base damage. Once chosen, her mind bolt stays in this form every time the soulknife forms her mind bolt. The long range bolt form is the smallest of forms and deals 1d6 points of damage and has a 100 ft. range increment. The medium range bolt form deals 1d8 points of damage, with a 60 ft. range increment, and the short range bolt form is the largest and heaviest form and deals 1d10 points of damage with a 20 ft. range increment. A soulbolt adds her Strength modifier to damage rolls when using the mind bolt in the short range form. All damages are based on a Medium-sized creature wielding Medium-sized weapons; adjust the weapon damage as appropriate for different sized weapons. A soulbolt with powerful build or any similar ability forms an appropriately-sized mind bolt dealing the size-appropriate amount of damage. Regardless of form, the mind bolt has a 19-20 critical threat range, has a maximum range of 10 range increments, and is treated as a projectile.\nThe form of the soulbolt’s mind bolt also determines how many hands must be used to form and manipulate the mind bolt. If the mind bolt is in long range form, both of the soulbolt’s hands remain free to hold other items such as a shield or a weapon. If the mind bolt is in medium range form, the soulbolt must have at least one hand free to form and manipulate the mind bolt. If the mind bolt is in short range form, the soulbolt must have both hands free to wield and launch the mind bolt.\n    A soulbolt can wield a buckler without penalty regardless of the form of her mind bolt.\nRegardless of the weapon form a soulbolt has chosen, her mind bolt does not have a set damage type. When shaping her weapon and assigning abilities to it, the soulbolt chooses whether it will deal bludgeoning, piercing, or slashing damage. The soulbolt may change the damage type of an existing mind bolt, or may summon a new mind bolt with a different damage type, as a full-round action; otherwise, the mind bolt retains the last damage type chosen every time it is summoned.\nThe bolt can be broken (it has hardness 10 and 10 hit points); however, a soulbolt can simply create another on her next move action. The moment she relinquishes her grip on her blade, it dissipates (unless she intends to throw it; see below). A mind bolt is considered a magic weapon for the purpose of overcoming damage reduction and is considered a masterwork weapon.\n    A soulbolt can use feats such as Rapid Shot or Precise Shot in conjunction with the mind bolt just as if it were a normal ranged weapon. She can also choose her mind bolt for feats requiring a specific weapon choice, such as Weapon Focus and Improved Critical. Powers or spells that upgrade weapons can be used on a mind bolt. The soulbolt can use feats such as Weapon Finesse that work on light weapons with her mind bolt, but such feats only work on mind bolts in a light weapon form, such as using the Mind Daggers blade skill.\nEven in places where psionic effects do not normally function (such as within a null psionics field), a soulbolt can attempt to sustain her mind bolt by making a DC 20 Will save. On a successful save, the soulbolt maintains her mind bolt for a number of rounds equal to her class level before she needs to check again, although the mind bolt is treated for all purposes as a non-magical, masterwork ranged weapon while in a place where psionic effects do not normally function. On an unsuccessful attempt, the mind bolt vanishes. As a move action on her turn, the soulbolt can attempt a new Will save to rematerialize her mind bolt while she remains within the psionics-negating effect. She gains a bonus on Will saves made to maintain or form her mind bolt equal to the total enhancement bonus of her mind bolt (see below).\nThe soulbolt chooses the appearance of her mind bolt, although its shape must reflect the selections the soulbolt has chosen: a bludgeoning mind bolt would be blunt, slashing would have an edge, etc.\nThis ability replaces the Form Mind Blade class feature normally gained by soulknives.",
+    "zhCN": "1级起，以一个移动动作，魂矢可以以灵能塑形出一把由她思想铸造的半固态远程武器。念矢会在魂矢的手中或者围绕双手出现。\r\n魂矢必须在1级决定念矢的形态．她可以选择短距离、中距离或者长距离念矢来决定武器的射程和基础伤害。一旦决定了造型，以后当她塑形念矢时她的念矢都会以这一形态出现。长距离念矢尺寸最小，造成1d6点伤害并拥有100尺射程增量，中距离念矢可以造成1d8点伤害并拥有60尺射程增量，短距离念矢则是最大最重的形态，造成1d10伤害并拥有20尺射程增量。使用短距离念矢时，魂矢将自己的力量调整值加到伤害骰中。以上的所有伤害都是以中型生物使用的中型武器计算的，根据不同的体型大小调整你的武器伤害。如果你的魂矢是大体型生物或是小体型生物，你可以根据她的体型来调整念矢的伤害骰。不论是那一种形态，念矢的重击范围都是19-20/X2，拥有10点射程增量。并被视为投射物。\n念矢的形态也会影响魂矢需要用几只手来形成或操纵念矢。使用长距离念矢时，她的两只手都可以用来做别的事情。使用中距离念矢时，她必须拥有至少一只空闲手来形成和操纵念矢。使用短距离念矢时，魂矢必须使用两只空闲手来持有和发射念矢。\n魂矢可以无视她念矢的形态，在没有任何处罚的情况下装备小圆盾。\n不论魂矢以何种形态塑形她的念矢，念矢本身并没有固定的伤害类型。当她显形念矢并向其中灌注能量时，魂矢可以选择念矢造成的伤害类型，钝击，挥砍，亦或是穿刺。以一个整轮动作，魂矢可以改变她现有念矢的伤害类型或者重新显形一把不同伤害类型的念矢。如果不这么做的话，念矢会一直保持上一次显形时的伤害类型。\n念矢可以被击碎（它的硬度为10并且有10点生命值），但魂矢可以用他的下一个移动等效动作重铸造一把。当魂矢松开了她紧握的念矢时，念矢会即时消散（除非她这么做是为了抛掷念矢，详情见下文）。念矢在计算DR时被视为魔法武器，同时被视为精制武器。\n如同普通远程武器一样，魂矢可以对念矢应用“快速射击”，“精准射击”专长。此外，她也可以选择念矢作为特殊专长的需求，比如武器专攻和精通重击。强化武器的灵能和法术也可以对念矢起效。武器娴熟也可对念矢生效，当然前提条件是这位魂矢的念矢属于轻型武器形态，比如使用念刃化匕时。\n即使在灵能无法正常作用的地方（比如位于“反灵能力场”内），通过一个20dc的意志检定，魂矢依然可以制造并维持念矢，通过这一方法显形的念矢维持等于她魂矢职业等级的轮数。当持续时间结束后，她可以通过另一个20dc的意志检定维持她的念矢，同时，在灵能无法正常作用地区，念矢被视为非魔法武器及非精制武器。如果她未能成功通过这一意志检定，那她的念矢将即时消散。于灵能无效地区，在她自己的行动回合内，魂矢可以通过一个新的意志检定（dc20）以一个移动动作重塑念矢。她在这个意志检定上获得等同于念矢增强加值的增强加值（念刃增强加值见下）。\n魂矢可以决定她的念矢造型，当然这一造型必须符合念矢的伤害类型，比如钝击伤害类型的念矢必须是钝器，挥砍伤害的念刃必须有刃口，诸如此类。\n这个能力替代了魂刃的念刃塑形。"
+  },
+  {
+    "Key": "MindbladeEnchantment1Feat.Name",
+    "enGB_Base": "Mind Blade Enchantments (+1)",
+    "zhCN": "念刃强化 (+1)"
+  },
+  {
+    "Key": "MindbladeEnchantment1Feat.Description",
+    "enGB_Base": "The Soulknife can apply +1 Enchantments to their Mind Blades",
+    "zhCN": "魂刃可以对其念刃应用+1增强加值"
+  },
+  {
+    "Key": "MindbladeEnchantment2Feat.Name",
+    "enGB_Base": "Mind Blade Enchantments (+2)",
+    "zhCN": "念刃强化 (+2)"
+  },
+  {
+    "Key": "MindbladeEnchantment2Feat.Description",
+    "enGB_Base": "The Soulknife can apply +2 Enchantments to their Mind Blades",
+    "zhCN": "魂刃可以对其念刃应用+2增强加值"
+  },
+  {
+    "Key": "MindbladeEnchantment4Feat.Name",
+    "enGB_Base": "Mind Blade Enchantments (+4)",
+    "zhCN": "念刃强化 (+4)"
+  },
+  {
+    "Key": "MindbladeEnchantment4Feat.Description",
+    "enGB_Base": "The Soulknife can apply +4 Enchantments to their Mind Blades",
+    "zhCN": "魂刃可以对其念刃应用+4增强加值"
+  },
+  {
+    "Key": "MindBoltShapeFeat.Name",
+    "enGB_Base": "Select Mind Bolt Shape",
+    "zhCN": "选择念矢塑形"
+  },
+  {
+    "Key": "MindBoltShapeFeat.Description",
+    "enGB_Base": "Selected Range for the wielder's Mind Bolt.",
+    "zhCN": "选择念矢的射程。"
+  },
+  {
+    "Key": "MindBoltShapeShortFeat.Name",
+    "enGB_Base": "Mind Bolt Shape (Short)",
+    "zhCN": "念矢塑形（短距离）"
+  },
+  {
+    "Key": "MindBoltShapeMediumFeat.Name",
+    "enGB_Base": "Mind Bolt Shape (Medium)",
+    "zhCN": "念矢塑形（中距离）"
+  },
+  {
+    "Key": "MindBoltShapeLongFeat.Name",
+    "enGB_Base": "Mind Bolt Shape (Long)",
+    "zhCN": "念矢塑形（长距离）"
+  },
+  {
+    "Key": "PsychicStrikeAbility.Name",
+    "enGB_Base": "Psychic Strike",
+    "zhCN": "灵能打击"
+  },
+  {
+    "Key": "PsychicStrikeAbility.Description",
+    "enGB_Base": "As a move action, a soulknife of 3rd level or higher can imbue her mind blade with destructive psychic energy. This effect deals an extra 1d8 points of damage on any attack she wishes to activate it on (as long as the attack is made with her mind blade). A soulknife may hold the charge as long as she likes without discharging. It does not go off on any attack unless she chooses to use it, and the charge is not wasted if an attack misses. Mindless creatures are immune to this damage, although non-mindless creatures immune to mind-affecting effects are affected by this damage as normal. (Unlike the rogue’s sneak attack, the psychic strike is not precision damage and can affect creatures otherwise immune to extra damage from critical hits or more than 30 feet away.) A mind blade deals this extra damage only once when this ability is called upon, but a soulknife can imbue her mind blade with psychic energy again by taking another move action. Additionally, she may recharge it as a swift action by expending her psionic focus.\nOnce a soulknife has prepared her blade for a psychic strike, it holds the extra energy until it is used (whether the attack is successful or not). Even if the soulknife drops the mind blade (or it otherwise dissipates, such as when it is thrown), it is still imbued with psychic energy when the soulknife next materializes it.\nIf the soulknife forms her mind blade into two weapons, she may imbue each mind blade with psychic strike as normal. If she reshapes her mind blade into a single weapon form, the additional psychic strike imbued into the additional weapon is lost. At every four levels thereafter (7th, 11th, etc), the extra damage from a soulknife’s psychic strike increases by 1d8.",
+    "zhCN": "自3级开始，魂刃可以以一个移动动作向她的念刃灌注毁灭性的灵能力量．这可以使她的一次攻击造成额外1d8伤害（她可以指定任意一次攻击，只要这次攻击是由她念刃造成的）。魂刃可以保持这一充能状态。除非魂刃在攻击中使用了灵能打击，否则这一充能状态会一直维持，而且充能状态不会因攻击失手而消失．无心智生物对灵能打击的额外伤害免疫，尽管他们依然会承受正常伤害．（不同于游荡者的偷袭，灵能打击不属于精准伤害，可以伤害那些没有明确身体结构而对重击免疫或者距离超过30尺的生物。）1次充能只能造成一次额外伤害，但魂刃可以以另一个移动动作对念刃进行充能．此外魂刃可以通过耗费灵能集中来以迅捷动作进行充能。\n一旦魂刃选择对念刃进行灵能打击的充能，这一充能状态会一直保持到使用为止（不论攻击是否成功）。即使魂刃将念刃抛弃或者进行投掷攻击，在下次显形念刃时念刃依然维持充能状态。\n如果魂刃选择显形双武器形态的念刃，她可以和正常状态一样对念刃灌注灵能。如果她再将念刃塑形为单件武器形态，那灌注在另一件武器上的灵能就会消失。自3级之后每4级（7级，11级，以此类推），灵能打击增加1d8额外伤害。"
+  },
+  {
+    "Key": "PsychicStrikeFreeAbility.Name",
+    "enGB_Base": "Psychic Strike (Swift)",
+    "zhCN": "灵能打击（迅捷）"
+  },
+  {
+    "Key": "SoulknifeBonusFeat.Name",
+    "enGB_Base": "Soulknife Bonus Feat",
+    "zhCN": "魂刃额外专长"
+  },
+  {
+    "Key": "SoulknifeBonusFeat.Description",
+    "enGB_Base": "The soulknife may choose Power Attack, Two-Weapon Fighting, or Weapon Focus (mind blade) as a bonus feat at 1st level.",
+    "zhCN": "魂刃在1级时可以从猛力攻击、双武器战斗、武器专攻（魂刃）中选择一项作为额外专长。"
+  },
+  {
+    "Key": "SoulknifeKinetBlastFeat.Name",
+    "enGB_Base": "Weapon Focus (Mind Blade)",
+    "zhCN": "武器专攻（魂刃）"
+  },
+  {
+    "Key": "SoulknifeKinetBlastFeat.Description",
+    "enGB_Base": "You gain a +1 {g|Encyclopedia:Bonus}bonus{/g} on all {g|Encyclopedia:Attack}attack rolls{/g} you make using your mind blade.",
+    "zhCN": "使用魂刃进行的所有{g|Encyclopedia:Attack}攻击检定{/g}均获得+1{g|Encyclopedia:Bonus}加值{/g}。"
+  },
+  {
+    "Key": "SoulknifeQuickDraw.Name",
+    "enGB_Base": "Quick Draw",
+    "zhCN": "即时备战"
+  },
+  {
+    "Key": "SoulknifeQuickDraw.Description",
+    "enGB_Base": "A 5th level soulknife may manifest her mind blade as a free action, though she may still only attempt to do so once per round (unless throwing the weapon multiple times using the Multiple Throw blade skill).",
+    "zhCN": "自5级开始，魂刃可以以一个自由动作显形念刃，尽管她一回合依然只能显形一把念刃（除非是使用暴雨梨花这一剑技进行复数念刃投掷，她可以显形复数的念刃）。"
+  },
+  {
+    "Key": "ThrowMindBladeFeat.Name",
+    "enGB_Base": "Throw Mind Blade",
+    "zhCN": "念刃投掷"
+  },
+  {
+    "Key": "ThrowMindBladeFeat.Description",
+    "enGB_Base": "All soulknives have some knowledge of how to throw their mind blades, though the range increment varies by form and the largest of blade forms cannot be thrown. Light weapon mind blades have a range increment of 20 ft. One-handed weapon mind blades have a range increment of 15 ft. Two-handed weapon mind blades cannot be thrown without the Two-Handed Throw blade skill. Whether or not the attack hits, a thrown mind blade then dissipates.",
+    "zhCN": "所有的魂刃都精擅于投掷念刃，尽管射程增量受限于念刃的造型，而且那些大型的念刃无法投掷。轻型武器造型的念刃的射程增量为20尺，单手武器为15尺，大型念刃无法投掷，除非拥有对应剑技。无论攻击是否命中，念刃都会在投掷之后消失。"
+  },  
+  {
+    "Key": "ThrowMindBladeAbility.Name",
+    "enGB_Base": "Throw Mind Blade",
+    "zhCN": "念刃投掷"
+  },
+  {
+    "Key": "ThrowMindBladeAbility.Description",
+    "enGB_Base": "All soulknives have some knowledge of how to throw their mind blades, though the range increment varies by form and the largest of blade forms cannot be thrown. Light weapon mind blades have a range increment of 20 ft. One-handed weapon mind blades have a range increment of 15 ft. Two-handed weapon mind blades cannot be thrown without the Two-Handed Throw blade skill. Whether or not the attack hits, a thrown mind blade then dissipates.",
+    "zhCN": "所有的魂刃都精擅于投掷念刃，尽管射程增量受限于念刃的造型，而且那些大型的念刃无法投掷。轻型武器造型的念刃的射程增量为20尺，单手武器为15尺，大型念刃无法投掷，除非拥有对应剑技。无论攻击是否命中，念刃都会在投掷之后消失。"
+  },  
+  // ==== Added Soulknife Blade Skills====
+  {
+    "Key": "AlterBladeFeat.Name",
+    "enGB_Base": "Alter Blade",
+    "zhCN": "剑式莫测"
+  },
+  {
+    "Key": "AlterBladeFeat.Description",
+    "enGB_Base": "The soulknife gains the ability to shape her mind blade into different weapon forms. She may change her blade’s form to the light weapon, one-handed weapon, or two-handed weapon forms any time she forms her mind blade. Additionally, the soulknife may choose to form her mind blade into a one-handed weapon and a light weapon instead of two light weapons.",
+    "zhCN": "魂刃获得将自己念刃变形转化为另一种武器的能力。她可以在显现念刃时将念刃的形态转化为轻型武器，单手武器，或者是双手武器，无论她的念刃的原型是何种武器。如果一位魂刃的念刃是两把轻型武器，那她可以选择将之转化为一把轻型武器和一把单手武器。"
+  },
+  {
+    "Key": "BladeRushFeat.Name",
+    "enGB_Base": "Blade Rush",
+    "zhCN": "刀锋舞步"
+  },
+  {
+    "Key": "BladeRushFeat.Description",
+    "enGB_Base": "The soulknife rushes forward with a dash of incredible speed. As a Swift action, the soulknife may expend her psionic focus and move up to her speed without provoking attacks of opportunity. The soulknife must be at least 6th level in order to select this blade skill.",
+    "zhCN": "魂刃以不可置信的速度向前方冲锋。以一个迅捷动作，魂刃可以消耗她的灵能集中移动等于其速度的距离，而不会引发借机攻击。选择这一魂之剑技需要至少6级魂刃等级。"
+  },
+  {
+    "Key": "BladeRushAbility.Name",
+    "enGB_Base": "Blade Rush",
+    "zhCN": "刀锋舞步"
+  },
+  {
+    "Key": "BladeRushAbility.Description",
+    "enGB_Base": "The soulknife rushes forward with a dash of incredible speed. As a Swift action, the soulknife may expend her psionic focus and move up to her speed without provoking attacks of opportunity. The soulknife must be at least 6th level in order to select this blade skill.",
+    "zhCN": "魂刃以不可置信的速度向前方冲锋。以一个迅捷动作，魂刃可以消耗她的灵能集中移动等于其速度的距离，而不会引发借机攻击。选择这一魂之剑技需要至少6级魂刃等级。"
+  },
+  {
+    "Key": "BladestormAbility.Name",
+    "enGB_Base": "Bladestorm",
+    "zhCN": "剑刃风暴"
+  },
+  {
+    "Key": "BladestormAbility.Description",
+    "enGB_Base": "As a full attack, when wielding her mind blade, the soulknife can give up her regular attacks and instead throw one mind blade at her full attack bonus at all opponents within 30 feet, ignoring the normal range increments for throwing a mind blade. Regardless of the number of attacks she makes, she only provokes attacks of opportunity as though she made a single ranged attack. The soulknife must possess the Bladewind blade skill to take this ability, this ability may not be used if the mind blade is in a two-handed weapon form, and the soulknife must be at least 16th level to choose this blade skill.",
+    "zhCN": "以一个整轮动作，魂刃可以选择放弃她的普通攻击，以她完整的基础攻击加值对30尺内所有对手投掷一把念刃，这一攻击忽视正常情况下念刃投掷的射程增量。无论这一行动造成了几次攻击次数，使用剑刃风暴被视为一次远程远程攻击因而只提供一次借机攻击机会。选择这一魂之剑技需要魔刀千刃及至少16级魂刃等级。魂刃无法在使用双手武器模式念刃的状况下使用这一魂之剑技。"
+  },
+  {
+    "Key": "BladewindAbility.Name",
+    "enGB_Base": "Bladewind",
+    "zhCN": "魔刀千刃"
+  },
+  {
+    "Key": "BladewindAbility.Description",
+    "enGB_Base": "The soulknife gains the ability to momentarily fragment her mind blade into numerous identical blades, each of which strikes at a nearby opponent. As a full attack, when wielding her mind blade, a soulknife can give up her regular attacks and instead fragment her mind blade to make one melee attack at her fullbase attack bonus against each opponent within reach. Each fragment functions identically to the soulknife’s regular mind blade. When using bladewind, the soulknife can choose to expend her psychic strike if an attack misses to reroll that attack, but none of the bladewind attacks deal any extra damage from psychic strike. When using bladewind, a soulknife forfeits any bonus or extra attacks granted by other feats or abilities (such as Cleave or haste). The mind blade immediately reverts to its previous form after the bladewind attack. A soulknife must be at least 8th level to choose this blade skill.",
+    "zhCN": "魂刃可以选择将她的念刃炸裂产生无数致命的剑刃碎片，来对附近的对手产生强烈的打击。当显形她的念刃时，魂刃可以选择放弃她的通常攻击以一个整轮动作将她的念刃炸裂对来所有触及内的对手进行一次猛烈攻击，这一攻击采取她的正常攻击加值。每一片碎片的伤害的都采取这位魂刃通常的念刃伤害。当使用魔刀千刃时，魂刃可以选择消耗灵能打击充能，来在攻击失手的时候重掷攻击骰，但这一行为并不会带来额外伤害。当使用魔刀千刃的时候魂刃放弃其他所有额外攻击的机会（比如加速或顺势斩）。在攻击结束后念刃会迅速恢复原本的形态。选择这一魂之剑技需要至少8级魂刃等级。"
+  },
+  {
+    "Key": "BladewindSpendPsionicStrikeAbility.Name",
+    "enGB_Base": "Bladewind Spend Psionic Strike",
+    "zhCN": "魔刀千刃（消耗灵能打击）"
+  },
+  {
+    "Key": "BladewindSpendPsionicStrikeAbility.Description",
+    "enGB_Base": "As part of a Bladewind attack, a Soulknife can opt to use their Psychic Strike to reroll a missed attack, rather than for damage.",
+    "zhCN": "魔刀千刃攻击时，魂刃可以选择消耗灵能打击充能，来在攻击失手的时候重掷攻击骰，但这一行为并不会带来额外伤害。"
+  },
+  {
+    "Key": "DazzlingBladeFeat.Name",
+    "enGB_Base": "Dazzling Blade",
+    "zhCN": "炫目之锋"
+  },
+  {
+    "Key": "DazzlingBladeFeat.Description",
+    "enGB_Base": "The soulknife may, as a standard action, channel psionic energy into her mind blade, dazzling all creatures within 30 feet. A successful Fortitude save negates this effect. The save DC is 10 + the soulknife’s base attack bonus.",
+    "zhCN": "魂刃能使用一个标准动作，将灵能灌入念刃，使得30尺内生物进入目眩状态。强韧豁免成功能免除这个效果。豁免DC为10+魂刃的基础攻击加值。"
+  },
+  {
+    "Key": "DeadlyBlow.Name",
+    "enGB_Base": "Deadly Blow",
+    "zhCN": "死风过境"
+  },
+  {
+    "Key": "DeadlyBlow.Description",
+    "enGB_Base": "The soulknife’s mind blade critical multiplier increases by 1. A soulknife must be at least 10th level to choose this blade skill.",
+    "zhCN": "魂刃的念刃重击倍数增加1。选择这一魂之剑技需要至少10级魂刃等级。"
+  },
+  {
+    "Key": "DispellingStrikeFeat.Name",
+    "enGB_Base": "Dispelling Strike",
+    "zhCN": "解法强袭"
+  },
+  {
+    "Key": "DispellingStrikeFeat.Description",
+    "enGB_Base": "With this blade skill, the soulknife is capable of channeling her psychic strike damage into caustic, anti-psionic energy. As a standard action, the soulknife can expend her psionic focus and her psionic strike to make an attack with her mind blade (or equivalent weapon). If it hits, it deals weapon damage as normal, and the soulknife affects the target with a targeted dispel psionics power as a psilike ability, with a manifester level equal to her class level. The soulknife does not apply the expended psychic strike’s damage to her attack. The soulknife must be 8th level to select this blade skill.",
+    "zhCN": "使用此魂之剑技，魂刃能够将她的心灵打击伤害转化为腐蚀性的反灵能。用一个标准动作，灵魂之刀可以消耗掉他的灵能集中和灵能打击，用她的念刃（或同等武器）进行一次攻击。如果命中，它会像正常情况一样造成武器伤害，同时魂刃的目标受到如同对目标施放的驱散灵能影响，显能等级等于她的职业等级。魂刃不会对这次攻击施加消耗的心灵打击的伤害。选择这一魂之剑技需要至少8级魂刃等级。"
+  },
+  {
+    "Key": "DisruptingStrikeFeat.Name",
+    "enGB_Base": "Disrupting Strike",
+    "zhCN": "腐化强袭"
+  },
+  {
+    "Key": "DisruptingStrikeFeat.Description",
+    "enGB_Base": "As a full-round action, a soulknife can make one melee attack against each enemy adjacent to her. If she hits, the attack deals no damage, but each enemy hit takes a -5 penalty to all melee and ranged damage rolls until the start of the soulknife’s next turn. This blade skill may not be used with the mind bolt.",
+    "zhCN": "使用整轮动作，魂刃可以对一个邻接的敌人进行单次攻击。如果命中，该次攻击不会造成伤害，但是敌人在所有的近战和远程攻击伤害骰中都会受到-5减值，直到魂刃的下一轮开始。这个剑技不能用魂矢发动。"
+  },
+  {
+    "Key": "DisruptedBuff.Name",
+    "enGB_Base": "Disrupted",
+    "zhCN": "腐化强袭"
+  },
+  {
+    "Key": "DisruptedBuff.Description",
+    "enGB_Base": "Target takes a -5 penalty to all melee and ranged damage rolls.",
+    "zhCN": "目标在所有的近战和远程攻击伤害骰中都会受到-5减值。"
+  },
+  {
+    "Key": "DuelingBladeFeat.Name",
+    "enGB_Base": "Dueling Blade",
+    "zhCN": "决斗剑锋"
+  },
+  {
+    "Key": "DuelingBladeFeat.Description",
+    "enGB_Base": "When a soulknife is fighting defensively, or using the Combat Expertise feat, with a mind blade, and an opponent misses her in melee, she may expend her psionic focus to make an attack of opportunity against that opponent with her mind blade.",
+    "zhCN": "当魂刃使用防御式战斗或者寓守于攻专长时，如果有对手对其近战攻击失手，她可以消耗掉灵能集中，使用魂刃对攻击者发动一次借机攻击。"
+  },
+  {
+    "Key": "DuelingBladeAbility.Name",
+    "enGB_Base": "Dueling Blade (Toggle)",
+    "zhCN": "决斗剑锋（切换开关）"
+  },
+  {
+    "Key": "EnhancedRange.Name",
+    "enGB_Base": "Enhanced Range",
+    "zhCN": "射程增量"
+  },
+  {
+    "Key": "EnhancedRange.Description",
+    "enGB_Base": "The soulknife’s range increment when throwing her mind blade in any form doubles.",
+    "zhCN": "魂刃的所有形态念刃投掷射程增量加倍。"
+  },
+  {
+    "Key": "ExpandShieldFeat.Name",
+    "enGB_Base": "Expand Shield",
+    "zhCN": "念盾延展"
+  },
+  {
+    "Key": "ExpandShieldFeat.Description",
+    "enGB_Base": "When using the total defense action or attacking defensively, as a free action on her turn the soulknife can transform her mind shield into a tower shield until the start of her next turn. All of the standard penalties for having a mind shield shaped as a tower shield apply. The soulknife must have the Mind Shield blade skill to choose this blade skill.",
+    "zhCN": "使用全力防御或者防御性战斗时，以一个自由动作，魂刃可以将她的念盾化为塔盾形态，直到她的下一轮开始。魂刃会受到所有塔盾的标准减值。魂刃必须拥有以念化盾剑技才能选择此剑技。"
+  },
+  {
+    "Key": "ExplodingCriticalFeat.Name",
+    "enGB_Base": "Exploding Critical",
+    "zhCN": "势如破竹"
+  },
+  {
+    "Key": "ExplodingCriticalFeat.Description",
+    "enGB_Base": "When a soulknife confirms a critical hit, she can expend her psionic focus to deal her psychic strike damage, even if her mind blade was not charged with psychic strike, and even if she already dealt psychic strike on the attack. a soulknife must be at least 12th level to choose this blade skill.",
+    "zhCN": "当一位魂刃成功确认重击时，她可以选择耗费灵能集中充能灵能打击造成额外伤害。即使重击时她还未进行灵能打击充能或是已经在攻击时使用了灵能打击。选择这一魂之剑技需要至少12级魂刃等级。"
+  },
+  {
+    "Key": "FireBladeFeat.Name",
+    "enGB_Base": "Fire Blade",
+    "zhCN": "炽热灼锋"
+  },
+  {
+    "Key": "FireBladeSpendFocusAbility.Name",
+    "enGB_Base": "Fire Blade (Spend Focus)",
+    "zhCN": "炽热灼锋（消耗灵能集中）"
+  },
+  {
+    "Key": "FireBladeFeat.Description",
+    "enGB_Base": "When the soulknife makes an attack with her mind blade, she can choose to have it deal fire damage instead of its normal damage. In addition, the soulknife can expend her psionic focus when she hits with an attack to deal an additional +1d10 fire damage. The soulknife must be at least 8th level to choose this blade skill.",
+    "zhCN": "魂刃使用念刃攻击时，可以选择让其造成火焰伤害来替代通常的伤害。此外，魂刃可以在攻击命中时消耗掉灵能集中，造成额外1d10火焰伤害。选择这一魂之剑技需要至少8级魂刃等级。"
+  },
+  {
+    "Key": "FullEnhancement.Name",
+    "enGB_Base": "Full Enhancement",
+    "zhCN": "剑质天成"
+  },
+  {
+    "Key": "FullEnhancement.Description",
+    "enGB_Base": "When forming her mind blade into multiple items, the soulknife suffers no reduction in enhancement bonus.",
+    "zhCN": "当将她的念刃转化为多把时，魂刃不必承受任何增强减值。"
+  },
+  {
+    "Key": "GruesomeRiposteFeat.Name",
+    "enGB_Base": "Gruesome Riposte",
+    "zhCN": "极恶反击"
+  },
+  {
+    "Key": "GruesomeRiposteAbility.Name",
+    "enGB_Base": "Gruesome Riposte (Toggle)",
+    "zhCN": "极恶反击（切换开关）"
+  },
+  {
+    "Key": "GruesomeRiposteFeat.Description",
+    "enGB_Base": "The soulknife may expend her psionic focus as an immediate action to attack an enemy who has successfully struck her in melee. This attack is assumed to happen after the successful attack, so she cannot use this ability if the attack would put her below 0 hit points, nor does dropping her enemy below 0 hit points prevent the attack from hitting. A soulknife must be at least 10th level to choose this blade skill.",
+    "zhCN": "当对手以一个近战攻击命中魂刃时，魂刃可以选择耗费灵能集中以一个直觉动作对敌手进行攻击。这一攻击必须在对手攻击结束后才能展开，因而使用这一剑技时魂刃的生命值不能低于0，否则无法使用这一剑技，你也无法通过反击把对手的生命值降低到0以下来避免其攻击。选择这一魂之剑技需要至少10级魂刃等级."
+  },
+  {
+    "Key": "IceBladeFeat.Name",
+    "enGB_Base": "Ice Blade",
+    "zhCN": "凛冬冰锋"
+  },
+  {
+    "Key": "IceBladeSpendFocusAbility.Name",
+    "enGB_Base": "Ice Blade (Spend Focus)",
+    "zhCN": "凛冬冰锋（消耗灵能集中）"
+  },
+  {
+    "Key": "IceBladeFeat.Description",
+    "enGB_Base": "When the soulknife makes an attack with her mind blade, she can choose to have it deal cold damage instead of its normal damage. In addition, the soulknife can expend her psionic focus when she hits with an attack to reduce the target’s speed by half until the end of the soulknife’s next turn. The soulknife must be at least 8th level to choose this blade skill.",
+    "zhCN": "魂刃使用念刃攻击时，可以选择让其造成寒冷伤害来替代通常的伤害。此外，魂刃可以在攻击命中时消耗掉灵能集中，使得敌人的速度减半，直到魂刃的下一轮。选择这一魂之剑技需要至少8级魂刃等级。"
+  },
+  {
+    "Key": "ImprovedEnhancement.Name",
+    "enGB_Base": "Improved Enhancement",
+    "zhCN": "增强强化"
+  },
+  {
+    "Key": "ImprovedEnhancement.Description",
+    "enGB_Base": "The soulknife’s enhancement bonus on her mind blade increases by 1. This increase may be used to increase the actual enhancement bonus of the mind blade (to a maximum of +5) or be spent on weapon special abilities, as normal. A soulknife must be at least 12th level to choose this blade skill.",
+    "zhCN": "魂刃的念刃增强加值加1，这一加值可以转化为实际的增强加值（最高＋5）或者用来添加特殊能力。选择这一魂之剑技需要至少12级魂刃等级。"
+  },
+  {
+    "Key": "ImprovedMindShield.Name",
+    "enGB_Base": "Improved Mind Shield",
+    "zhCN": "念盾强化"
+  },
+  {
+    "Key": "ImprovedMindShield.Description",
+    "enGB_Base": "The shield bonus to AC granted by the soulknife’s mind shield increases by 1. The soulknife must have the Mind Shield blade skill in order to select this blade skill.",
+    "zhCN": "念盾提供的AC上的盾牌加值增加1。魂刃必须拥有以念化盾剑技才能选择此剑技。"
+  },
+  {
+    "Key": "LaunchMultibolt.Name",
+    "enGB_Base": "Launch Multibolt",
+    "zhCN": "多重念矢"
+  },
+  {
+    "Key": "LaunchMultibolt.Description",
+    "enGB_Base": "The soulknife gains the benefits of the Manyshot feat. The soulknife must possess the Launch Mindbolt class feature to select this blade skill.",
+    "zhCN": "魂刃获得多重射击专长的效果。魂刃必须拥有发射念矢的职业特性才能选择此剑技。"
+  },
+  {
+    "Key": "LightningBladeFeat.Name",
+    "enGB_Base": "Lightning Blade",
+    "zhCN": "霹雳雷锋"
+  },
+  {
+    "Key": "LightningBladeSpendFocusAbility.Name",
+    "enGB_Base": "Lightning Blade (Spend Focus)",
+    "zhCN": "霹雳雷锋（消耗灵能集中）"
+  },
+  {
+    "Key": "LightningBladeFeat.Description",
+    "enGB_Base": "When the soulknife makes an attack with her mind blade, she can choose to have it deal electricity damage instead of its normal damage. In addition, the soulknife can expend her psionic focus when she hits with an attack to give the target a -2 penalty to attack and damage rolls until the end of her next turn. If the target is wearing metal armor, the penalty increases to -3. The soulknife must be at least 8th level to choose this blade skill.",
+    "zhCN": "魂刃使用念刃攻击时，可以选择让其造成电击伤害来替代通常的伤害。此外，魂刃可以在攻击命中时消耗掉灵能集中，使得目标在攻击和伤害骰上获得-2减值，直到魂刃的下一轮。如果目标穿着金属盔甲，该减值增加到-3。选择这一魂之剑技需要至少8级魂刃等级。"
+  },
+  {
+    "Key": "MindBladeFinesse.Name",
+    "enGB_Base": "Mind Blade Finesse",
+    "zhCN": "念刃娴熟"
+  },
+  {
+    "Key": "MindBladeFinesse.Description",
+    "enGB_Base": "Mind Blade Finesse: The benefits of the Weapon Finesse feat apply to the mind blade even when it is in forms that cannot normally be the subject of Weapon Finesse (including two-handed forms).",
+    "zhCN": "念刃可以享受到武器娴熟的效果，即使其原本的形态通常并不能获得武器娴熟的效果（包括双手武器形态）。"
+  },
+  {
+    "Key": "MindShield.Name",
+    "enGB_Base": "Mind Shield",
+    "zhCN": "以念化盾"
+  },
+  {
+    "Key": "MindShield.Description",
+    "enGB_Base": "The soulknife gains a +2 shield bonus to armor class, as long as she has a hand free.",
+    "zhCN": "在有空闲手时，魂刃在AC上获得+2盾牌加值。"
+  },
+  {
+    "Key": "PowerfulStrikes.Name",
+    "enGB_Base": "Powerful Strikes",
+    "zhCN": "猛力强袭"
+  },
+  {
+    "Key": "PowerfulStrikes.Description",
+    "enGB_Base": "The soulknife’s psychic strike deals an additional 1d8 damage.",
+    "zhCN": "灵能打击造成1d8额外伤害。"
+  },
+  {
+    "Key": "PsionicTraining.Name",
+    "enGB_Base": "Psionic Training",
+    "zhCN": "灵能训练"
+  },
+  {
+    "Key": "PsionicTraining.Description",
+    "enGB_Base": "Gain a psionic feat instead of selecting a blade skill. The soulknife must meet all prerequisites of the psionic feat selected. She may not select the feat Extra Blade Skill with this blade skill. This blade skill may be selected multiple times.",
+    "zhCN": "获得一项灵能专长来替代剑技。魂刃需要满足对应专长的前置条件。她不能选择额外额外魂之剑技。该剑技可以选择多次。"
+  },
+  {
+    "Key": "ReachingBladeFeat.Name",
+    "enGB_Base": "Reaching Blade",
+    "zhCN": "如意锋刃"
+  },
+  {
+    "Key": "ReachingBladeFeat.Description",
+    "enGB_Base": "The soulknife may expend her focus to increase her reach with her mind blade by 5 feet until the start of her next turn. Unlike normal reach weapons, a soulknife may also attack adjacent opponents with her mind blade. A soulknife must be at least 8th level to choose this blade skill.",
+    "zhCN": "魂刃可以选择耗费灵能集中使她的念刃增加5点触及范围直到她下一轮的开始。不同于其他长型武器，魂刃依然可以使用念刃攻击邻近单位。选择这一魂之剑技需要至少8级魂刃等级．
+"
+  },
+  {
+    "Key": "ReapersBladeFeat.Name",
+    "enGB_Base": "Reaper's Blade",
+    "zhCN": "收割刀锋"
+  },
+  {
+    "Key": "ReapersBladeFeat.Description",
+    "enGB_Base": "A soulknife with this ability automatically recharges her psychic strike ability if she reduces an enemy’s hit points to below 0 with a melee attack using her mind blade. A soulknife must be at least 10th level to choose this blade skill.",
+    "zhCN": "拥有这一剑技的魂刃可以在使用念刃将一个敌人的生命值降到0以下时进行自动重新为灵能打击能力。选择这一魂之剑技需要至少10级魂刃等级。"
+  },
+  {
+    "Key": "RendingBlades.Name",
+    "enGB_Base": "Rending Blades",
+    "zhCN": "撕皮剔骨"
+  },
+  {
+    "Key": "RendingBlades.Description",
+    "enGB_Base": "Hooks extend from the soulknife’s mind blade, dealing an additional 1d6 bleed damage on a critical hit.",
+    "zhCN": "给念刃添加额外的倒钩，在重击时造成额外1d6流血伤害。"
+  },
+  {
+    "Key": "TelekineticBolt.Name",
+    "enGB_Base": "Telekinetic Bolt",
+    "zhCN": "心灵念矢"
+  },
+  {
+    "Key": "TelekineticBolt.Description",
+    "enGB_Base": "The soulknife learns to manifest her mind blade as a variety of ranged weapons as well as the forms her mind blade normally may take. Selection of this blade skill grants the form mind bolt and launch mind bolt class features (see soulbolt archetype). The soulknife is always considered proficient with her mind bolt. The mind bolt gains the enhancement bonus of the soulknife’s mind blade and may select its own enhancements (such as distance or flaming) as if it were a separate weapon from her mind blade. The soulknife may now also take soulbolt specific blade skills. This cannot be taken if you possess the form mind bolt class feature previously. The soulknife must be at least 4th level to select this blade skill.",
+    "zhCN": "魂刃学会了将念刃塑形为多种远程武器的方法。选择该剑技会获得念矢塑形和发射念矢职业特性（如同变体职业魂矢）。魂刃总会被视为擅长其念矢。念矢获得如同念刃的强化并且可以选择一部分独有的特性（比如远距或炽焰），如同其是一把独立武器。魂刃也会同样获得魂矢专用的魂之剑技。如果你已经拥有了念矢塑形则无法选择此剑技。选择这一魂之剑技需要至少4级魂刃等级。"
+  },
+  {
+    "Key": "ThunderBladeFeat.Name",
+    "enGB_Base": "Thunder Blade",
+    "zhCN": "轰鸣音锋"
+  },
+  {
+    "Key": "ThunderBladeSpendFocusAbility.Name",
+    "enGB_Base": "Thunder Blade (Spend Focus)",
+    "zhCN": "轰鸣音锋（消耗灵能集中）"
+  },
+  {
+    "Key": "ThunderBladeFeat.Description",
+    "enGB_Base": "When the soulknife makes an attack with her mind blade, she can choose to have it deal sonic damage instead of its normal damage, although the damage of the attack is halved. In addition, the soulknife can expend her psionic focus when she hits with an attack to stagger the target until the end of her next turn unless the target makes a successful Fortitude save (DC 10 + the soulknife’s base attack bonus). The soulknife must be at least 8th level to choose this blade skill.",
+    "zhCN": "魂刃使用念刃攻击时，可以选择让其造成音波伤害来替代通常的伤害，然而伤害会减半。此外，魂刃可以在攻击命中时消耗掉灵能集中，使得目标恍惚，除非其通过强韧检定（DC为10+魂刃的基本攻击加值）。选择这一魂之剑技需要至少8级魂刃等级。"
+  },
+  {
+    "Key": "TowerMindShieldFeat.Name",
+    "enGB_Base": "Tower Mind Shield",
+    "zhCN": "念化塔盾"
+  },
+  {
+    "Key": "TowerMindShieldFeat.Description",
+    "enGB_Base": "The soulknife’s mind shield can be shaped into a tower shield. Altering the mind shield in this fashion is a move action that does not provoke attacks of opportunity. The mind shield remains in this form until shaped back into its standard form. The mind shield is treated in all ways (except visually) as a masterwork tower shield, granting a +4 shield bonus to AC, imposing a +2 Maximum Dexterity Bonus, a -9 armor check penalty, and a 50% arcane spell failure chance. The soulknife must have the Mind Shield blade skill to select this blade skill.",
+    "zhCN": "魂刃的念盾成为塔盾形态。以这种方式改变念盾形态是一个移动动作但是不会引起借机攻击。念盾将保持这种形态，直到再次被塑形为标准形态。念盾在所有方面（视觉上除外）都被视为精制品塔盾，在AC上给予+4盾牌加成，同时获得+2最大敏捷加值，-9护甲检定减值，以及50%奥术失败率。魂刃必须拥有化念为盾剑技才能选择此剑技。"
+  },
+  {
+    "Key": "TwoHandedThrow.Name",
+    "enGB_Base": "Two-Handed Throw",
+    "zhCN": "双手投掷"
+  },
+  {
+    "Key": "TwoHandedThrow.Description",
+    "enGB_Base": "The soulknife gains the ability to throw her mind blade if it is in two-handed form, with a range increment of 10 ft.",
+    "zhCN": "魂刃获得可以投掷双手武器模式的念刃的能力，射程增量为10尺。"
+  },
+   // ==== Added Soulknife Items====
+  {
+    "Key": "MindBlade.Name",
+    "enGB_Base": "Mind Blade",
+    "zhCN": "念刃"
+  },
+  {
+    "Key": "MindBlade.Description",
+    "enGB_Base": "A blade formed by a Soulknife",
+    "zhCN": "魂刃塑形而成的武器"
+  },
+  {
+    "Key": "MindBoltShort.Name",
+    "enGB_Base": "Mind Bolt (Short Range)",
+    "zhCN": "念矢（短距离）"
+  },
+  {
+    "Key": "MindBoltMedium.Name",
+    "enGB_Base": "Mind Bolt (Medium Range)",
+    "zhCN": "念矢（中距离）"
+  },
+  {
+    "Key": "MindBoltLong.Name",
+    "enGB_Base": "Mind Bolt (Long Range)",
+    "zhCN": "念矢（长距离）"
+  },
+  {
+    "Key": "MindBolt.Description",
+    "enGB_Base": "A bolt of psionic energy",
+    "zhCN": "灵能形成的念矢"
+  },
+  {
+    "Key": "MindTowerShieldItem.Name",
+    "enGB_Base": "Mind Tower Shield",
+    "zhCN": "念力塔盾"
+  },
+  {
+    "Key": "MindTowerShieldItem.Description",
+    "enGB_Base": "A Tower-shield made of Psychic Energy",
+    "zhCN": "灵能形成的塔盾"
+  },
+  // ==== Added Soulknife Buffs====
+  {
+    "Key": "MindBladeBuff.Name",
+    "enGB_Base": "Formed Mind Blade",
+    "zhCN": "念刃塑形"
+  },
+  {
+    "Key": "MindBladeBuff.Description",
+    "enGB_Base": "A Mind Blade has been formed",
+    "zhCN": "已塑形了一把念刃"
+  },
+   {
+    "Key": "MindTowerShieldBuff.Name",
+    "enGB_Base": "Formed Mind Tower Shield",
+    "zhCN": "念化塔盾"
+  },
+  {
+    "Key": "MindTowerShieldBuff.Description",
+    "enGB_Base": "A Mind Tower Shield has been formed",
+    "zhCN": "已塑形了一面念力塔盾"
+  },
+   // ==== Added Soulknife MindbladeAbilities====
+  {
+    "Key": "EnhanceMindBladeAgile.Name",
+    "enGB_Base": "Enhance Mind Blade(Agile +1)",
+    "zhCN": "增强念刃（灵巧 +1）"
+  },
+  {
+    "Key": "EnhanceMindBladeCorrosive.Name",
+    "enGB_Base": "Enhance Mind Blade(Corrosive +1)",
+    "zhCN": "增强念刃（烈酸 +1）"
+  },
+  {
+    "Key": "EnhanceMindBladeFlaming.Name",
+    "enGB_Base": "Enhance Mind Blade(Flaming +1)",
+    "zhCN": "增强念刃（炽焰 +1）"
+  },
+  {
+    "Key": "EnhanceMindBladeFrost.Name",
+    "enGB_Base": "Enhance Mind Blade(Frost +1)",
+    "zhCN": "增强念刃（寒霜 +1）"
+  },
+  {
+    "Key": "EnhanceMindBladeFurious.Name",
+    "enGB_Base": "Enhance Mind Blade(Furious +1)",
+    "zhCN": "增强念刃（暴怒 +1）"
+  },
+  {
+    "Key": "EnhanceMindBladeGhostTouch.Name",
+    "enGB_Base": "Enhance Mind Blade(Ghost Touch +1)",
+    "zhCN": "增强念刃（幽冥 +1）"
+  },
+  {
+    "Key": "EnhanceMindBladeKeen.Name",
+    "enGB_Base": "Enhance Mind Blade(Keen +1)",
+    "zhCN": "增强念刃（锐锋 +1）"
+  },
+  {
+    "Key": "EnhanceMindBladeShock.Name",
+    "enGB_Base": "Enhance Mind Blade(Shock +1)",
+    "zhCN": "增强念刃（震电 +1）"
+  },
+  {
+    "Key": "EnhanceMindBladeVicious.Name",
+    "enGB_Base": "Enhance Mind Blade(Vicious +1)",
+    "zhCN": "增强念刃（恶毒 +1）"
+  },
+  {
+    "Key": "EnhanceMindBladeAnarchic.Name",
+    "enGB_Base": "Enhance Mind Blade(Anarchic +2)",
+    "zhCN": "增强念刃（无序 +2）"
+  },
+  {
+    "Key": "EnhanceMindBladeAxiomatic.Name",
+    "enGB_Base": "Enhance Mind Blade(Axiomatic +2)",
+    "zhCN": "增强念刃（公正 +2）"
+  },
+  {
+    "Key": "EnhanceMindBladeFlamingBurst.Name",
+    "enGB_Base": "Enhance Mind Blade(Flaming Burst +2)",
+    "zhCN": "增强念刃（焰爆 +2）"
+  },
+  {
+    "Key": "EnhanceMindBladeHoly.Name",
+    "enGB_Base": "Enhance Mind Blade(Holy +2)",
+    "zhCN": "增强念刃（神圣 +2）"
+  },
+  {
+    "Key": "EnhanceMindBladeIcyBurst.Name",
+    "enGB_Base": "Enhance Mind Blade(Icy Burst +2)",
+    "zhCN": "增强念刃（霜爆 +2）"
+  },
+  {
+    "Key": "EnhanceMindBladeShockingBurst.Name",
+    "enGB_Base": "Enhance Mind Blade(Shocking Burst +2)",
+    "zhCN": "增强念刃（电爆 +2）"
+  },
+  {
+    "Key": "EnhanceMindBladeUnholy.Name",
+    "enGB_Base": "Enhance Mind Blade(Unholy +2)",
+    "zhCN": "增强念刃（污邪 +2）"
+  },
+  {
+    "Key": "EnhanceMindBladeBrilliantEnergy.Name",
+    "enGB_Base": "Enhance Mind Blade(Brilliant Energy +4)",
+    "zhCN": "增强念刃（光能 +4）"
+  },
+  // ==== Added Soulknife Abilities====
+  {
+    "Key": "GainPsionicFocus.Name",
+    "enGB_Base": "Gain Psionic Focus",
+    "zhCN": "获取灵能集中"
+  },
+  {
+    "Key": "GainPsionicFocus.Description",
+    "enGB_Base": "Merely having the ability to hold a reservoir of psionic power points in mind gives psionic characters a special energy. Psionic characters can put that energy to work without actually paying a power point cost—they can become psionically focused.\nIf you have a power point pool or the ability to manifest psi-like abilities, you can meditate to become psionically focused. Meditating is a full-round action that provokes attacks of opportunity.\nWhen you are psionically focused, you can expend your focus on any single concentration check you make thereafter. When you expend your focus in this manner, your concentration check is treated as if you rolled a 15. It’s like taking 10, except that the number you add to your concentration modifier is 15. You can also expend your focus to gain the benefit of a psionic feat—many psionic feats are activated in this way.\nOnce you are psionically focused, you remain focused until you expend your focus, become unconscious, or go to sleep (or enter a meditative trance, in cases such as elans or elves).\r\n\r\nYou may still gain psionic focus even if you have depleted all of your power points.\nExpending your psionic focus to power a feat, class feature, or any other ability only powers a single effect. You cannot gain the benefit of multiple abilities that require expending focus by expending your psionic focus once; each effect requires its own instance of expending psionic focus.",
+    "zhCN": "仅仅只是在脑海中储存灵能点就能给带给灵能角色一种特殊的能量。灵能角色可以不实际消耗能量点就获得效果，以进入“灵能集中”的方式。\n只要你拥有灵能点池如果你有一个能量点池或类似显能的能力，你就可以通过冥想来进入灵能集中状态。冥想是一种会引发借机攻击的整轮动作。\n    当已经进入灵能集中后，你可以消耗掉集中来用于之后一次专注检定上。如果你如此做，你的转出检定被视为取15。除了数字是15外，这在各方面都和取10的规则相同。你也可以消耗掉灵能集中来加强灵能专长的效果，很多灵能专长都拥有相应的效果。\n一旦进入灵能集中状态，你将保持集中状态，直到你消耗掉集中效果，失去意识，或者进入睡眠（或者埃兰和精灵的冥想状态）。\r\n\r\n即使你耗尽了所有的灵能点，你仍然可以获得灵能集中。\n消耗你的灵能集中来为一个专长、职业特性或任何其他技能提供能量，只会为一个效果提供能量。你不能通过消耗一次灵能集中来获得多种能力的消耗效果；每种效果都需要单独消耗一次灵能集中。"
+  },
+  {
+    "Key": "GainPsionicFocusMOve.Name",
+    "enGB_Base": "Gain Psionic Focus (Move)",
+    "zhCN": "获得灵能集中（移动动作）"
+  },
+  {
+    "Key": "GainPsionicFocusMove.Name",
+    "enGB_Base": "Gain Psionic Focus (Move)",
+    "zhCN": "获得灵能集中（移动动作）"
+  },
+  {
+    "Key": "ReformLight.Name",
+    "enGB_Base": "Reform Mindblade (Light)",
+    "zhCN": "念刃变形（轻型武器）"
+  },
+  {
+    "Key": "ReformSword.Name",
+    "enGB_Base": "Reform Mindblade (One-Handed)",
+    "zhCN": "念刃变形（单手武器）"
+  },
+  {
+    "Key": "ReformHeavy.Name",
+    "enGB_Base": "Reform Mindblade (Two-Handed)",
+    "zhCN": "念刃变形（双手武器）"
+  },
+  {
+    "Key": "TwinMindBlade.Name",
+    "enGB_Base": "Twin Mind Blade",
+    "zhCN": "双子念刃"
+  },
+  {
+    "Key": "TwinMindBlade.Description",
+    "enGB_Base": "Summon two Mind Blades instead of one. The enhancement bonus of each is reduced by 1.",
+    "zhCN": "召唤两把念刃来代替一把。每把念刃的增强加值减少1。"
+  },
+  {
+    "Key": "ShapeMindBladeFreeAbility.Name",
+    "ProcessTemplates": false,
+    "enGB_Base": "Shape Mind Blade (Free)",
+    "zhCN": "念刃变形（自由动作）"
+  }  
+  ]
