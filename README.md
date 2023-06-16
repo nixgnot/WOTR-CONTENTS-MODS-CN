@@ -64,6 +64,7 @@
 | [SmolCraft](#SmolCraft) | SmolCraft | QL汉化 | :heavy_check_mark: | :star: | :file_folder: |||
 | [EnduringRework](#EnduringRework) | 持久重置 | QL汉化 | :heavy_check_mark: | :star: | :file_folder: |||
 | [CraftMaster](#CraftMaster) | 造物MOD | 自带 | :heavy_check_mark: | :star::star: | :file_folder::file_folder: |||
+| [Psionics](#Psionics) | 灵能MOD | QL汉化 | :heavy_check_mark: | :star::star: | :file_folder::file_folder: |||
 
 备注
 + UMM一栏为是否使用UMM安装
@@ -3408,6 +3409,16 @@ C:\Users\你的用户名\AppData\LocalLow\Owlcat Games\Pathfinder Wrath Of The R
 + 国产MOD，由@magicskysword（也是QL Mod的作者）制作
 + 增加了制造奇物的功能，Mod目前处于开发阶段
 + 详细说明反馈问题和建议请去原发布页
+  
+--------------------------------------
+### [Psionics](https://www.nexusmods.com/pathfinderwrathoftherighteous/mods/513)
+> *前置：* 无<br>
+> *中文：* **QL汉化（仍在施工！）**<br>
+> *安装方式：* **UMM**<br>
+> *新增内容：* 灵能<br>
++ 增加了灵能内容的MOD，目前仍在开发阶段
++ 目前增加了魂刃基础职业，和少量灵能专长
++ 未来可期
   
 --------------------------------------
 
