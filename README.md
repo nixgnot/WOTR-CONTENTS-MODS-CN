@@ -3413,7 +3413,7 @@ C:\Users\你的用户名\AppData\LocalLow\Owlcat Games\Pathfinder Wrath Of The R
 --------------------------------------
 ### [Psionics](https://www.nexusmods.com/pathfinderwrathoftherighteous/mods/513)
 > *前置：* 无<br>
-> *中文：* **QL汉化（仍在施工！）**<br>
+> *中文：* **QL汉化**<br>
 > *安装方式：* **UMM**<br>
 > *新增内容：* 灵能<br>
 + 增加了灵能内容的MOD，目前仍在开发阶段
