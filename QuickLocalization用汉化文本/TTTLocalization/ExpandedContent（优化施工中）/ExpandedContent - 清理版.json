@@ -19599,6 +19599,279 @@
       "ProcessTemplates": false,
       "enGB": "Spear Parry Penalty Decrease",
       "zhCN": "枪矛格挡减值减少"
+    },
+    {
+      "Key": "f17b3268c5ff4d379e88e06f0fc46b44",
+      "SimpleName": "DemonHunterFeature.Description",
+      "ProcessTemplates": true,
+      "enGB": "You are well-versed in demonic lore.\nYou gain a +2 morale bonus on all attack rolls and a +2 morale bonus on caster level checks to penetrate spell resistance made against creatures with the demon subtype you recognize as demons.",
+      "zhCN": "你通晓各种恶魔的传说。\n在对抗你成功辨识为恶魔的恶魔子类别生物时，你在攻击检定和用于穿透法术抗力的施法者等级检定上获得+2士气加值。"
+    },
+    {
+      "Key": "be0f1272c66c422fa5f7b38975469c74",
+      "SimpleName": "DemonHunterFeature.Name",
+      "ProcessTemplates": false,
+      "enGB": "Demon Hunter",
+      "zhCN": "恶魔猎手"
+    },
+    {
+      "Key": "581f362d74a048558bd270cea9cc2a08",
+      "SimpleName": "RavenerDemonHunterFeature.Description",
+      "ProcessTemplates": true,
+      "enGB": "At 3rd level, a ravener hunter gains Demon Hunter as a bonus feat, ignoring its prerequisites. In addition she gains a +2 morale bonus on attack rolls and caster level checks to overcome spell resistance of creatures that she recognizes as followers of demonic deities.\nDemon Hunter: You gain a +2 morale bonus on all attack rolls and a +2 morale bonus on caster level checks to penetrate spell resistance made against creatures with the demon subtype you recognize as demons.",
+      "zhCN": "3级时，狩魔猎手得到恶魔猎手作为奖励专长，并忽略其先决条件。同时如果狩魔猎手成功辨识出恶魔类神祇的追随者，则在对他们的攻击检定和用于穿透法术抗力的施法者等级检定上获得+2士气加值。\n恶魔猎手：在对抗你成功辨识为恶魔的恶魔子类别生物时，你在攻击检定和用于穿透法术抗力的施法者等级检定上获得+2士气加值。"
+    },
+    {
+      "Key": "221d769b391744e393e606271a3f0ae0",
+      "SimpleName": "RavenerHunterAncestorsMysteryProgression.Description",
+      "ProcessTemplates": true,
+      "enGB": "At 1st level, the ravener hunter chooses one revelation from her chosen mystery. She must meet the revelation’s prerequisites, using her inquisitor level as her effective oracle level to determine the revelation’s effects, and she never qualifies for the Extra Revelation feat. The ravener hunter gains a second revelation from her chosen mystery at 8th level.",
+      "zhCN": "1级时，狩魔猎手从他选定的秘示域中获得一项启示。狩魔猎手必须满足启示的先决条件，并将其职业等级视作有效先知等级以决定启示的效果。同时狩魔猎手永远也没法满足额外启示专长的先决条件。他在第8级的时候从所选秘示域获得第二个启示。"
+    },
+    {
+      "Key": "3344e43d324e42a5b800b905fe1fab63",
+      "SimpleName": "RavenerHunterAncestorsRevelationSelection.Description",
+      "ProcessTemplates": true,
+      "enGB": "At 1st level, the ravener hunter chooses one revelation from her chosen mystery. She must meet the revelation’s prerequisites, using her inquisitor level as her effective oracle level to determine the revelation’s effects, and she never qualifies for the Extra Revelation feat. The ravener hunter gains a second revelation from her chosen mystery at 8th level.",
+      "zhCN": "1级时，狩魔猎手从他选定的秘示域中获得一项启示。狩魔猎手必须满足启示的先决条件，并将其职业等级视作有效先知等级以决定启示的效果。同时狩魔猎手永远也没法满足额外启示专长的先决条件。他在第8级的时候从所选秘示域获得第二个启示。"
+    },
+    {
+      "Key": "ddefe542e6e247eb8aeab1b1b9e435ce",
+      "SimpleName": "RavenerHunterAncestorsRevelationSelection.Name",
+      "ProcessTemplates": false,
+      "enGB": "Ancestors Revelation",
+      "zhCN": "先祖启示"
+    },
+    {
+      "Key": "aa80603fd475433e8611be7cead5914d",
+      "SimpleName": "RavenerHunterArchetype.Description",
+      "ProcessTemplates": false,
+      "enGB": "Throughout the Mwangi Expanse, cults of Angazhan pollute the pristine jungle with demonic influence and wanton bloodshed. For generations, the catfolk of Murraseth have viewed such faiths with loathing and hatred, and they believe it is their sacred duty to hunt down the followers of the Ravener King and expel them from the Material Plane.",
+      "zhCN": "纵观整个莽迹荒原，安加赞的邪教正以恶魔的力量以及放肆的虐杀污染这片远古的丛林。世代以来，穆拉斯芙的猫人对此邪教满怀憎恶并将其视作首要大敌，同时也相信着把劫掠之王的爪牙从主物质界驱逐干净就是他们的神圣义务。"
+    },
+    {
+      "Key": "88b832929273451683d04bded624c121",
+      "SimpleName": "RavenerHunterArchetype.Name",
+      "ProcessTemplates": false,
+      "enGB": "Ravener Hunter",
+      "zhCN": "狩魔猎手"
+    },
+    {
+      "Key": "30744677827748618643f27418a3a72f",
+      "SimpleName": "RavenerHunterBattleMysteryProgression.Description",
+      "ProcessTemplates": true,
+      "enGB": "At 1st level, the ravener hunter chooses one revelation from her chosen mystery. She must meet the revelation’s prerequisites, using her inquisitor level as her effective oracle level to determine the revelation’s effects, and she never qualifies for the Extra Revelation feat. The ravener hunter gains a second revelation from her chosen mystery at 8th level.",
+      "zhCN": "1级时，狩魔猎手从他选定的秘示域中获得一项启示。狩魔猎手必须满足启示的先决条件，并将其职业等级视作有效先知等级以决定启示的效果。同时狩魔猎手永远也没法满足额外启示专长的先决条件。他在第8级的时候从所选秘示域获得第二个启示。"
+    },
+    {
+      "Key": "c9bda3bb7cc3442d8d0450d537b1b34e",
+      "SimpleName": "RavenerHunterBattleRevelationSelection.Description",
+      "ProcessTemplates": true,
+      "enGB": "At 1st level, the ravener hunter chooses one revelation from her chosen mystery. She must meet the revelation’s prerequisites, using her inquisitor level as her effective oracle level to determine the revelation’s effects, and she never qualifies for the Extra Revelation feat. The ravener hunter gains a second revelation from her chosen mystery at 8th level.",
+      "zhCN": "1级时，狩魔猎手从他选定的秘示域中获得一项启示。狩魔猎手必须满足启示的先决条件，并将其职业等级视作有效先知等级以决定启示的效果。同时狩魔猎手永远也没法满足额外启示专长的先决条件。他在第8级的时候从所选秘示域获得第二个启示。"
+    },
+    {
+      "Key": "4812e50b5df5420995ccbbc792831dad",
+      "SimpleName": "RavenerHunterBattleRevelationSelection.Name",
+      "ProcessTemplates": false,
+      "enGB": "Battle Revelation",
+      "zhCN": "战斗启示"
+    },
+    {
+      "Key": "4cb69267b3864fbaab3b6659641587b2",
+      "SimpleName": "RavenerHunterChargedByNatureSelection.Description",
+      "ProcessTemplates": true,
+      "enGB": "Rather than having a deity patron, a ravener hunter is charged by the spirits of the Mwangi to eradicate evil wherever it appears. At 1st level, a ravener hunter chooses an oracle mystery from the following list: ancestor, battle, flame, heavens, life, nature, stone, waves, wind, or wood. She gains one revelation from her chosen mystery. She must meet the revelation’s prerequisites, using her inquisitor level as her effective oracle level to determine the revelation’s effects, and she never qualifies for the Extra Revelation feat. The ravener hunter gains a second revelation from her chosen mystery at 8th level.",
+      "zhCN": "狩魔猎手得到的并非来自某一特定神祇的庇佑，而是来自莽迹的精魂的加护，以把显现的邪恶完全根除。1级时，狩魔猎手从下列的秘示域中选择一个：先祖、战斗、烈焰、苍天、生命、自然、磐石、波涛、流风、林木（译注：未实装），并且从所选的秘示域里面获得一个启示。狩魔猎手必须满足启示的先决条件，并将其职业等级视作有效先知等级以决定启示的效果。同时狩魔猎手永远也没法满足额外启示专长的先决条件。他在第8级的时候从所选秘示域获得第二个启示。"
+    },
+    {
+      "Key": "c9e009370c564d83ad4ef899e8dd22e7",
+      "SimpleName": "RavenerHunterChargedByNatureSelection.Name",
+      "ProcessTemplates": false,
+      "enGB": "Charged by Nature",
+      "zhCN": "自然伟力"
+    },
+    {
+      "Key": "748763c893504e329d3bcee53a25f8cb",
+      "SimpleName": "RavenerHunterFlameMysteryProgression.Description",
+      "ProcessTemplates": true,
+      "enGB": "At 1st level, the ravener hunter chooses one revelation from her chosen mystery. She must meet the revelation’s prerequisites, using her inquisitor level as her effective oracle level to determine the revelation’s effects, and she never qualifies for the Extra Revelation feat. The ravener hunter gains a second revelation from her chosen mystery at 8th level.",
+      "zhCN": "1级时，狩魔猎手从他选定的秘示域中获得一项启示。狩魔猎手必须满足启示的先决条件，并将其职业等级视作有效先知等级以决定启示的效果。同时狩魔猎手永远也没法满足额外启示专长的先决条件。他在第8级的时候从所选秘示域获得第二个启示。"
+    },
+    {
+      "Key": "e6eee75ebc7c4ccf998bc39cd60e328a",
+      "SimpleName": "RavenerHunterFlameRevelationSelection.Description",
+      "ProcessTemplates": true,
+      "enGB": "At 1st level, the ravener hunter chooses one revelation from her chosen mystery. She must meet the revelation’s prerequisites, using her inquisitor level as her effective oracle level to determine the revelation’s effects, and she never qualifies for the Extra Revelation feat. The ravener hunter gains a second revelation from her chosen mystery at 8th level.",
+      "zhCN": "1级时，狩魔猎手从他选定的秘示域中获得一项启示。狩魔猎手必须满足启示的先决条件，并将其职业等级视作有效先知等级以决定启示的效果。同时狩魔猎手永远也没法满足额外启示专长的先决条件。他在第8级的时候从所选秘示域获得第二个启示。"
+    },
+    {
+      "Key": "2ec3b8c84b40482d85a60dc0916a9ecb",
+      "SimpleName": "RavenerHunterFlameRevelationSelection.Name",
+      "ProcessTemplates": false,
+      "enGB": "Flame Revelation",
+      "zhCN": "烈焰启示"
+    },
+    {
+      "Key": "85cb67d072da480a90eab43dedc63adf",
+      "SimpleName": "RavenerHunterHeavensMysteryProgression.Description",
+      "ProcessTemplates": true,
+      "enGB": "At 1st level, the ravener hunter chooses one revelation from her chosen mystery. She must meet the revelation’s prerequisites, using her inquisitor level as her effective oracle level to determine the revelation’s effects, and she never qualifies for the Extra Revelation feat. The ravener hunter gains a second revelation from her chosen mystery at 8th level.",
+      "zhCN": "1级时，狩魔猎手从他选定的秘示域中获得一项启示。狩魔猎手必须满足启示的先决条件，并将其职业等级视作有效先知等级以决定启示的效果。同时狩魔猎手永远也没法满足额外启示专长的先决条件。他在第8级的时候从所选秘示域获得第二个启示。"
+    },
+    {
+      "Key": "db5a80322a894f1cb2a0721464acce7b",
+      "SimpleName": "RavenerHunterHeavensRevelationSelection.Description",
+      "ProcessTemplates": true,
+      "enGB": "At 1st level, the ravener hunter chooses one revelation from her chosen mystery. She must meet the revelation’s prerequisites, using her inquisitor level as her effective oracle level to determine the revelation’s effects, and she never qualifies for the Extra Revelation feat. The ravener hunter gains a second revelation from her chosen mystery at 8th level.",
+      "zhCN": "1级时，狩魔猎手从他选定的秘示域中获得一项启示。狩魔猎手必须满足启示的先决条件，并将其职业等级视作有效先知等级以决定启示的效果。同时狩魔猎手永远也没法满足额外启示专长的先决条件。他在第8级的时候从所选秘示域获得第二个启示。"
+    },
+    {
+      "Key": "b50aaeea8f3349c5b9b2bbc081f345ad",
+      "SimpleName": "RavenerHunterHeavensRevelationSelection.Name",
+      "ProcessTemplates": false,
+      "enGB": "Heavens Revelation",
+      "zhCN": "苍天启示"
+    },
+    {
+      "Key": "d9c6c2c4625b42779ab62e80a1051946",
+      "SimpleName": "RavenerHunterHolyMagicFeature.Description",
+      "ProcessTemplates": true,
+      "enGB": "A ravener hunter adds all spells of 6th-level and lower on the cleric spell list with the good descriptor to her inquisitor spell list as inquisitor spells of the same level. If a spell appears on both the cleric and inquisitor spell lists, the ravener hunter uses the lower of the two spell levels listed for the spell. She cannot cast spells with the chaotic, evil, or lawful descriptors, even from spell trigger or spell completion items.",
+      "zhCN": "狩魔猎手将牧师法术列表里面所有具有善良描述符的6环及更低的法术加入到其法术列表内，同时环级不变。如果某一法术同时出现在牧师法术列表和审判者法术列表内，以其中环位最低的为准。他无法施放带有混乱，邪恶，或者守序描述符的法术，即使是通过法术触发型或者法术完成型物品也不行。"
+    },
+    {
+      "Key": "3d9451f76c9f4781afd803d7599ad7c3",
+      "SimpleName": "RavenerHunterHolyMagicFeature.Name",
+      "ProcessTemplates": false,
+      "enGB": "Holy Magic",
+      "zhCN": "神圣魔法"
+    },
+    {
+      "Key": "c389d17588be4132accf127df7d8dbe4",
+      "SimpleName": "RavenerHunterLifeMysteryProgression.Description",
+      "ProcessTemplates": true,
+      "enGB": "At 1st level, the ravener hunter chooses one revelation from her chosen mystery. She must meet the revelation’s prerequisites, using her inquisitor level as her effective oracle level to determine the revelation’s effects, and she never qualifies for the Extra Revelation feat. The ravener hunter gains a second revelation from her chosen mystery at 8th level.",
+      "zhCN": "1级时，狩魔猎手从他选定的秘示域中获得一项启示。狩魔猎手必须满足启示的先决条件，并将其职业等级视作有效先知等级以决定启示的效果。同时狩魔猎手永远也没法满足额外启示专长的先决条件。他在第8级的时候从所选秘示域获得第二个启示。"
+    },
+    {
+      "Key": "975cbec2effd439b9a68327cc2630c05",
+      "SimpleName": "RavenerHunterLifeRevelationSelection.Description",
+      "ProcessTemplates": true,
+      "enGB": "At 1st level, the ravener hunter chooses one revelation from her chosen mystery. She must meet the revelation’s prerequisites, using her inquisitor level as her effective oracle level to determine the revelation’s effects, and she never qualifies for the Extra Revelation feat. The ravener hunter gains a second revelation from her chosen mystery at 8th level.",
+      "zhCN": "1级时，狩魔猎手从他选定的秘示域中获得一项启示。狩魔猎手必须满足启示的先决条件，并将其职业等级视作有效先知等级以决定启示的效果。同时狩魔猎手永远也没法满足额外启示专长的先决条件。他在第8级的时候从所选秘示域获得第二个启示。"
+    },
+    {
+      "Key": "fafa241481884b23a5267763c9fe93a6",
+      "SimpleName": "RavenerHunterLifeRevelationSelection.Name",
+      "ProcessTemplates": false,
+      "enGB": "Life Revelation",
+      "zhCN": "生命启示"
+    },
+    {
+      "Key": "5a5c4ca7ba7b4df0a2370d2e13aa6eb3",
+      "SimpleName": "RavenerHunterNatureMysteryProgression.Description",
+      "ProcessTemplates": true,
+      "enGB": "At 1st level, the ravener hunter chooses one revelation from her chosen mystery. She must meet the revelation’s prerequisites, using her inquisitor level as her effective oracle level to determine the revelation’s effects, and she never qualifies for the Extra Revelation feat. The ravener hunter gains a second revelation from her chosen mystery at 8th level.",
+      "zhCN": "1级时，狩魔猎手从他选定的秘示域中获得一项启示。狩魔猎手必须满足启示的先决条件，并将其职业等级视作有效先知等级以决定启示的效果。同时狩魔猎手永远也没法满足额外启示专长的先决条件。他在第8级的时候从所选秘示域获得第二个启示。"
+    },
+    {
+      "Key": "300d4076f9b143b9809feb0a4d327fce",
+      "SimpleName": "RavenerHunterNatureRevelationSelection.Description",
+      "ProcessTemplates": true,
+      "enGB": "At 1st level, the ravener hunter chooses one revelation from her chosen mystery. She must meet the revelation’s prerequisites, using her inquisitor level as her effective oracle level to determine the revelation’s effects, and she never qualifies for the Extra Revelation feat. The ravener hunter gains a second revelation from her chosen mystery at 8th level.",
+      "zhCN": "1级时，狩魔猎手从他选定的秘示域中获得一项启示。狩魔猎手必须满足启示的先决条件，并将其职业等级视作有效先知等级以决定启示的效果。同时狩魔猎手永远也没法满足额外启示专长的先决条件。他在第8级的时候从所选秘示域获得第二个启示。"
+    },
+    {
+      "Key": "8444297c234d466d867465f2a4d50a50",
+      "SimpleName": "RavenerHunterNatureRevelationSelection.Name",
+      "ProcessTemplates": false,
+      "enGB": "Nature Revelation",
+      "zhCN": "自然启示"
+    },
+    {
+      "Key": "ae0173af307b4cbc8c7c9b1dc0608a52",
+      "SimpleName": "RavenerHunterSpellbook.Name",
+      "ProcessTemplates": false,
+      "enGB": "RavenerHunter",
+      "zhCN": "狩魔猎手"
+    },
+    {
+      "Key": "f7815fe0c5134f388371e1f7a0203109",
+      "SimpleName": "RavenerHunterStoneMysteryProgression.Description",
+      "ProcessTemplates": true,
+      "enGB": "At 1st level, the ravener hunter chooses one revelation from her chosen mystery. She must meet the revelation’s prerequisites, using her inquisitor level as her effective oracle level to determine the revelation’s effects, and she never qualifies for the Extra Revelation feat. The ravener hunter gains a second revelation from her chosen mystery at 8th level.",
+      "zhCN": "1级时，狩魔猎手从他选定的秘示域中获得一项启示。狩魔猎手必须满足启示的先决条件，并将其职业等级视作有效先知等级以决定启示的效果。同时狩魔猎手永远也没法满足额外启示专长的先决条件。他在第8级的时候从所选秘示域获得第二个启示。"
+    },
+    {
+      "Key": "c390436dbe414d0aa0b6b3f422510248",
+      "SimpleName": "RavenerHunterStoneRevelationSelection.Description",
+      "ProcessTemplates": true,
+      "enGB": "At 1st level, the ravener hunter chooses one revelation from her chosen mystery. She must meet the revelation’s prerequisites, using her inquisitor level as her effective oracle level to determine the revelation’s effects, and she never qualifies for the Extra Revelation feat. The ravener hunter gains a second revelation from her chosen mystery at 8th level.",
+      "zhCN": "1级时，狩魔猎手从他选定的秘示域中获得一项启示。狩魔猎手必须满足启示的先决条件，并将其职业等级视作有效先知等级以决定启示的效果。同时狩魔猎手永远也没法满足额外启示专长的先决条件。他在第8级的时候从所选秘示域获得第二个启示。"
+    },
+    {
+      "Key": "823ff873aca64b0f9d82944bf3d6ae25",
+      "SimpleName": "RavenerHunterStoneRevelationSelection.Name",
+      "ProcessTemplates": false,
+      "enGB": "Stone Revelation",
+      "zhCN": "磐石启示"
+    },
+    {
+      "Key": "a241f755677b46d1876f61b57f2625b5",
+      "SimpleName": "RavenerHunterWavesMysteryProgression.Description",
+      "ProcessTemplates": true,
+      "enGB": "At 1st level, the ravener hunter chooses one revelation from her chosen mystery. She must meet the revelation’s prerequisites, using her inquisitor level as her effective oracle level to determine the revelation’s effects, and she never qualifies for the Extra Revelation feat. The ravener hunter gains a second revelation from her chosen mystery at 8th level.",
+      "zhCN": "1级时，狩魔猎手从他选定的秘示域中获得一项启示。狩魔猎手必须满足启示的先决条件，并将其职业等级视作有效先知等级以决定启示的效果。同时狩魔猎手永远也没法满足额外启示专长的先决条件。他在第8级的时候从所选秘示域获得第二个启示。"
+    },
+    {
+      "Key": "73d4fcc9de934b26be85d4ea8c48c679",
+      "SimpleName": "RavenerHunterWavesRevelationSelection.Description",
+      "ProcessTemplates": true,
+      "enGB": "At 1st level, the ravener hunter chooses one revelation from her chosen mystery. She must meet the revelation’s prerequisites, using her inquisitor level as her effective oracle level to determine the revelation’s effects, and she never qualifies for the Extra Revelation feat. The ravener hunter gains a second revelation from her chosen mystery at 8th level.",
+      "zhCN": "1级时，狩魔猎手从他选定的秘示域中获得一项启示。狩魔猎手必须满足启示的先决条件，并将其职业等级视作有效先知等级以决定启示的效果。同时狩魔猎手永远也没法满足额外启示专长的先决条件。他在第8级的时候从所选秘示域获得第二个启示。"
+    },
+    {
+      "Key": "d577c253d64e4f98817198f66fa1cdd2",
+      "SimpleName": "RavenerHunterWavesRevelationSelection.Name",
+      "ProcessTemplates": false,
+      "enGB": "Waves Revelation",
+      "zhCN": "波涛启示"
+    },
+    {
+      "Key": "d17a54d795bc4a2099554a00d135b2db",
+      "SimpleName": "RavenerHunterWindMysteryProgression.Description",
+      "ProcessTemplates": true,
+      "enGB": "At 1st level, the ravener hunter chooses one revelation from her chosen mystery. She must meet the revelation’s prerequisites, using her inquisitor level as her effective oracle level to determine the revelation’s effects, and she never qualifies for the Extra Revelation feat. The ravener hunter gains a second revelation from her chosen mystery at 8th level.",
+      "zhCN": "1级时，狩魔猎手从他选定的秘示域中获得一项启示。狩魔猎手必须满足启示的先决条件，并将其职业等级视作有效先知等级以决定启示的效果。同时狩魔猎手永远也没法满足额外启示专长的先决条件。他在第8级的时候从所选秘示域获得第二个启示。"
+    },
+    {
+      "Key": "21a71ef95fea45c7ad308563adaffd5a",
+      "SimpleName": "RavenerHunterWindRevelationSelection.Description",
+      "ProcessTemplates": true,
+      "enGB": "At 1st level, the ravener hunter chooses one revelation from her chosen mystery. She must meet the revelation’s prerequisites, using her inquisitor level as her effective oracle level to determine the revelation’s effects, and she never qualifies for the Extra Revelation feat. The ravener hunter gains a second revelation from her chosen mystery at 8th level.",
+      "zhCN": "1级时，狩魔猎手从他选定的秘示域中获得一项启示。狩魔猎手必须满足启示的先决条件，并将其职业等级视作有效先知等级以决定启示的效果。同时狩魔猎手永远也没法满足额外启示专长的先决条件。他在第8级的时候从所选秘示域获得第二个启示。"
+    },
+    {
+      "Key": "f271b1f293fc4c6ea9003cc82c3a65ae",
+      "SimpleName": "RavenerHunterWindRevelationSelection.Name",
+      "ProcessTemplates": false,
+      "enGB": "Wind Revelation",
+      "zhCN": "流风启示"
+    },
+    {
+      "Key": "65384174b2cc45dc815dcfd153bb207d",
+      "SimpleName": "SecondChargedByNatureSelection.Description",
+      "ProcessTemplates": true,
+      "enGB": "Mythic power allows you further access to the power of the spirits.\nYou select a second mystery from charged by nature, getting all its benefits.",
+      "zhCN": "神话之力允许你更进一步接受精魂的力量。\n你可以选择第二个自然伟力秘示域，获取全部益处。"
+    },
+    {
+      "Key": "9ac7fd70251a4a8292f3997ab7e33acc",
+      "SimpleName": "SecondChargedByNatureSelection.Name",
+      "ProcessTemplates": false,
+      "enGB": "Mythic Charged by Nature",
+      "zhCN": "神话自然伟力"
     }
   ]
 }
