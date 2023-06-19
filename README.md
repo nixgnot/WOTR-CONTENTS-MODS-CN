@@ -65,6 +65,7 @@
 | [EnduringRework](#EnduringRework) | 持久重置 | QL汉化 | :heavy_check_mark: | :star: | :file_folder: |🛠️||
 | [CraftMaster](#CraftMaster) | 造物MOD | 自带 | :heavy_check_mark: | :star::star: | :file_folder::file_folder: |||
 | [Psionics](#Psionics) | 灵能MOD | QL汉化 | :heavy_check_mark: | :star::star: | :file_folder::file_folder: |||
+| [KineticArchetypes](#KineticArchetypes) | 念力变体 | 自带 | :heavy_check_mark: | :star::star: | :file_folder: |||
 
 备注
 + UMM一栏为是否使用UMM安装
@@ -3436,7 +3437,18 @@ C:\Users\你的用户名\AppData\LocalLow\Owlcat Games\Pathfinder Wrath Of The R
 	<td>Wild Talent 原始天赋</td>
           <td>你潜在的灵能力量在你的生命中闪亮起来，你现在变为了一名灵能人物。作为灵能人物，你获得了2点灵能点而且可以选择灵能专长、超能专长和制造灵能物品专长，不过本专长本身不会给你展现异能的能力。此外，当你多次获得此专长时，首次你获得2点额外灵能点，之后每次只获得1点。</td></tr>
   </table>  
---------------------------------------
+
+-------------------------------------------   
+### [KineticArchetypes](https://github.com/NosVladimir/KineticArchetypes)
+> *前置：* 无<br>
+> *中文：* **自带中文**<br>
+> *安装方式：* **UMM**<br>
+> *新增内容：* 操念相关<br>
++ 国产MOD，目前增加了操念变体并修正了一些BUG，还在进一步开发
++ [贴吧发布页](https://tieba.baidu.com/p/8467346017)
++ 详细内容和反馈问题请去贴吧发布页，也提供了网盘下载
+
+
 
 ### 功能MOD索引
 + [ToyBox](https://www.nexusmods.com/pathfinderwrathoftherighteous/mods/8) 应该不用介绍？
