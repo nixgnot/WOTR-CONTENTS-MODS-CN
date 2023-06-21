@@ -2372,17 +2372,21 @@ Metamagic Master 超魔主宰：指定一个法术。当你超魔施展该法术
     <td>:heavy_check_mark:</td>
     <td>:heavy_check_mark:</td></tr>
 <tr>
-<th rowspan="3">武技</td> 
+<th rowspan="4">武技</td> 
     <td>MartialArt.CreateBladedBrush</td>
     <td><b>新增专长：</b>Bladed Brush 战刃舞绘，对大砍刀应用武器娴熟和精确刺击</td>
+    <td>:x:</td>
+    <td>:heavy_check_mark:</td></tr>
+<tr><td>MartialArt.CreatePaladinVirtuousBravo</td>
+    <td><b>圣武士变体仁义剑客</td>
     <td>:x:</td>
     <td>:heavy_check_mark:</td></tr>
 <tr><td>MartialArt.CreateProdigiousTwoWeaponFighting</td>
     <td><b>新增专长：</b>Prodigious Two Weapon Fighting 有力双武器战斗，使用力量代替敏捷计算双武器专长要求，副手单手武器视为轻型</td>
     <td>:x:</td>
     <td>:heavy_check_mark:</td></tr>
-<tr><td>MartialArt.CreatePaladinVirtuousBravo</td>
-    <td><b>圣武士变体仁义剑客</td>
+<tr><td>MartialArt.CreateTwoWeaponRend</td>
+    <td><b>新增专长：</b>Two Weapon Rend 双武器撕裂，双武器命中造成额外伤害</td>
     <td>:x:</td>
     <td>:heavy_check_mark:</td></tr>
 <tr>
