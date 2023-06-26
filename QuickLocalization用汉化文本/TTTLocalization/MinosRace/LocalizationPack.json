@@ -1,0 +1,302 @@
+{
+  "ModPath":"MinosRace/Localization/LocalizationPack.json",
+  "LocalizedStrings": [
+    {
+      "Key": "f3aa7e2a8a92441ebfdfcd2aacec46bd",
+      "SimpleName": "Emphatic.Description",
+      "ProcessTemplates": true,
+      "enGB": "Persuasion is always considered a class skill for Minos.",
+      "ruRU": null,
+      "deDE": null,
+      "frFR": null,
+      "zhCN": "沟通总是被视为牛头人的本职技能。",
+      "esES": null
+    },
+    {
+      "Key": "26c026f2a5ab44a7be1f1060e04a7e6d",
+      "SimpleName": "Emphatic.Name",
+      "ProcessTemplates": false,
+      "enGB": "Emphatic",
+      "ruRU": null,
+      "deDE": null,
+      "frFR": null,
+      "zhCN": "强势",
+      "esES": null
+    },
+    {
+      "Key": "88aa945749304afdb9b902069424a382",
+      "SimpleName": "Gregarious.Description",
+      "ProcessTemplates": true,
+      "enGB": "Minos gain a +2 racial bonus on Persuasion (Diplomacy) checks.",
+      "ruRU": null,
+      "deDE": null,
+      "frFR": null,
+      "zhCN": "牛头人在用于交涉的沟通技能检定上获得+2种族加值。",
+      "esES": null
+    },
+    {
+      "Key": "00cb3877aaf14f4bac1a51f1345bbd09",
+      "SimpleName": "Gregarious.Name",
+      "ProcessTemplates": false,
+      "enGB": "Gregarious",
+      "ruRU": null,
+      "deDE": null,
+      "frFR": null,
+      "zhCN": "合群",
+      "esES": null
+    },
+    {
+      "Key": "e49d90fabccc4aa386045d009450d3b0",
+      "SimpleName": "MinosHeritageSelection.Description",
+      "ProcessTemplates": true,
+      "enGB": "Various places and living conditions create sub-races different from their peers. They gain unique racial traits in exchange for losing some of the usual ones.",
+      "ruRU": null,
+      "deDE": null,
+      "frFR": null,
+      "zhCN": "各种各样的地点与生活条件造成了与同胞有所区别的亚种。他们获得独特的种族特性，并失去某些常见的特性。",
+      "esES": null
+    },
+    {
+      "Key": "aaa3f0cd66324605a786a2f24b793eb7",
+      "SimpleName": "MinosHeritageSelection.Name",
+      "ProcessTemplates": false,
+      "enGB": "Racial heritage",
+      "ruRU": null,
+      "deDE": null,
+      "frFR": null,
+      "zhCN": "种族传承",
+      "esES": null
+    },
+    {
+      "Key": "8a8fe5c73878422b8b13d7a36c8d6f85",
+      "SimpleName": "MinosHorns.Description",
+      "ProcessTemplates": true,
+      "enGB": "Minos have horns that deals 1d6 damage.",
+      "ruRU": null,
+      "deDE": null,
+      "frFR": null,
+      "zhCN": "牛头人拥有造成1d6伤害的角抵刺攻击",
+      "esES": null
+    },
+    {
+      "Key": "19df67f8278f4d708e4b42e2c3e14cac",
+      "SimpleName": "MinosHorns.Name",
+      "ProcessTemplates": false,
+      "enGB": "Bullheaded",
+      "ruRU": null,
+      "deDE": null,
+      "frFR": null,
+      "zhCN": "牛头",
+      "esES": null
+    },
+    {
+      "Key": "102733a5ac3d4f109b287fd275e81510",
+      "SimpleName": "MinosHornsFeat.Description",
+      "ProcessTemplates": true,
+      "enGB": "You are more headstrong than other Timid minos, and able to use your head in battle.",
+      "ruRU": null,
+      "deDE": null,
+      "frFR": null,
+      "zhCN": "你比那些胆怯的同族更头铁，可以在战斗中使用头部进行攻击。",
+      "esES": null
+    },
+    {
+      "Key": "519d5ae6e3bb42f49775b116cbbc665f",
+      "SimpleName": "MinosRace.Description",
+      "ProcessTemplates": true,
+      "enGB": "Minotaur blooded, or simply called minos, have both human and minotaur blood running through their veins, but are considered their own separate race. Their faces look human, and their skin is smooth and hairless, but they do have the horns and tail of a minotaur. Despite their size and heritage, they are mostly peaceful, which is why most true minotaurs consider it an insult that they are related. They are not drawn towards the abyss or hell like tieflings are, and they usually get along much better with humans due to their gregarious nature. Those that decide to adventure, instead of living a life of farming, often make use of their greater physical prowess in battle.",
+      "ruRU": null,
+      "deDE": null,
+      "frFR": null,
+      "zhCN": "牛头怪混血人，或者简称为牛头人，他们的血管中流淌着人类和牛头怪的血液，但被认为已经形成了独立种族。他们的脸看起来像人，皮肤光滑无毛，但他们确实有牛头怪的角和尾巴。与他们的体型和传统给人的印象不同，他们大多爱好和平，这也是为什么大多数真正的牛头怪认为与他们有亲缘关系是一种侮辱。它们不像提夫林那样受到深渊或地狱影响，而且由于群居天性，他们通常与人类相处得更好。那些决定参加冒险而不是务农的牛头人，常会在战斗中善用他们强大的体力。",
+      "esES": null
+    },
+    {
+      "Key": "ccf5a76a3ca549139bed4f9fac584454",
+      "SimpleName": "MinosRace.Name",
+      "ProcessTemplates": false,
+      "enGB": "Minos",
+      "ruRU": null,
+      "deDE": null,
+      "frFR": null,
+      "zhCN": "牛头人",
+      "esES": null
+    },
+    {
+      "Key": "4dff46cb48cc4679aa8e68555722f1a0",
+      "SimpleName": "minosweaponfamiliarity.Description",
+      "ProcessTemplates": true,
+      "enGB": "Minos are proficient with greataxes and earth breakers.",
+      "ruRU": null,
+      "deDE": null,
+      "frFR": null,
+      "zhCN": "牛头人擅长使用巨斧和裂地锤。",
+      "esES": null
+    },
+    {
+      "Key": "76b98dda266042df93b7e0780fb60c17",
+      "SimpleName": "minosweaponfamiliarity.Name",
+      "ProcessTemplates": false,
+      "enGB": "Minos weapon familiarity",
+      "ruRU": null,
+      "deDE": null,
+      "frFR": null,
+      "zhCN": "牛头人武器熟练",
+      "esES": null
+    },
+    {
+      "Key": "c523669f3b1d4711a49c1cedb0ea51f6",
+      "SimpleName": "NoAlternateTrait.Description",
+      "ProcessTemplates": true,
+      "enGB": "You are a usual exemplar of your race.",
+      "ruRU": null,
+      "deDE": null,
+      "frFR": null,
+      "zhCN": "你是种族中的典型成员。",
+      "esES": null
+    },
+    {
+      "Key": "3743d7f133ea4ba591ca9889ea44aefb",
+      "SimpleName": "NoAlternateTrait.Name",
+      "ProcessTemplates": false,
+      "enGB": "Basic",
+      "ruRU": null,
+      "deDE": null,
+      "frFR": null,
+      "zhCN": "基本",
+      "esES": null
+    },
+    {
+      "Key": "ffd2600b4c0640a18a2b46d4648b07c5",
+      "SimpleName": "PowerfulBuild.Description",
+      "ProcessTemplates": true,
+      "enGB": "Minos have a powerful build that grants them a +2 bonus to combat maneuver checks and combat maneuver defense, 300 lbs. increased carrying capacity, and increased damage with melee weapons as if they were one size larger than they actually are.",
+      "ruRU": null,
+      "deDE": null,
+      "frFR": null,
+      "zhCN": "牛头人拥有强大的体格，可以在战技检定和战技防御上获得+2加值，增加300磅负重，并增加近战武器的伤害，如同它们比实际尺寸大一级。",
+      "esES": null
+    },
+    {
+      "Key": "c0e124bb39d34ee18ff03e9a68404350",
+      "SimpleName": "PowerfulBuild.Name",
+      "ProcessTemplates": false,
+      "enGB": "Powerful build",
+      "ruRU": null,
+      "deDE": null,
+      "frFR": null,
+      "zhCN": "强健体格",
+      "esES": null
+    },
+    {
+      "Key": "491796dff1df4ff398465f11e044cbd8",
+      "SimpleName": "SmallBuildHeritage.Description",
+      "ProcessTemplates": true,
+      "enGB": "Although it doesn't happen often due to the size difference between minos and other humanoids, some minos have a parent from another race (usually human) and are smaller than ordinary minos, but are also more adaptable. They select one extra feat at 1st level, and gain a +2 racial bonus to Strength. This racial trait replaces Powerful Build and the minos' usual racial ability score modifiers.",
+      "ruRU": null,
+      "deDE": null,
+      "frFR": null,
+      "zhCN": "尽管由于牛头人和其他类人生物之间的体型差异，这种情况并不经常发生，但一些牛头人的父母来自另一个种族（通常是人类），比普通牛头人更小，但也更具适应性。他们在一级选择一个额外的专长，并在力量上获得+2种族加值。该特性取代强健体格和牛头人通常的种族属性调整。",
+      "esES": null
+    },
+    {
+      "Key": "0ea0143271a94b309c2e6b9ff04d4a75",
+      "SimpleName": "SmallBuildHeritage.Name",
+      "ProcessTemplates": false,
+      "enGB": "Small build",
+      "ruRU": null,
+      "deDE": null,
+      "frFR": null,
+      "zhCN": "小型体格",
+      "esES": null
+    },
+    {
+      "Key": "acd4ca5ce9814a7c9218fc6fe942f329",
+      "SimpleName": "TimidCharming.Description",
+      "ProcessTemplates": true,
+      "enGB": "Some minos are born more timid than others, but are also more gifted in their mental pursuits. They gain a +2 racial bonus to Charisma. This racial trait replaces Gregarious, Bullheaded, and Minos Weapon Familiarity.",
+      "ruRU": null,
+      "deDE": null,
+      "frFR": null,
+      "zhCN": "有些牛头人比同族更胆怯，但在精神追求方面也更有天赋。他们在魅力上获得+2种族加值。这一特性取代了合群、牛头，以及牛头人武器熟练。",
+      "esES": null
+    },
+    {
+      "Key": "d059e41d47b34440af200c1d567f42d3",
+      "SimpleName": "TimidCharming.Name",
+      "ProcessTemplates": false,
+      "enGB": "Charming",
+      "ruRU": null,
+      "deDE": null,
+      "frFR": null,
+      "zhCN": "魅力十足",
+      "esES": null
+    },
+    {
+      "Key": "5ee72f7faa9d42059aed4dc5cd9c2b69",
+      "SimpleName": "TimidContemplating.Description",
+      "ProcessTemplates": true,
+      "enGB": "Some minos are born more timid than others, but are also more gifted in their mental pursuits. They gain a +2 racial bonus to  Wisdom. This racial trait replaces Gregarious, Bullheaded, and Minos Weapon Familiarity.",
+      "ruRU": null,
+      "deDE": null,
+      "frFR": null,
+      "zhCN": "有些牛头人比同族更胆怯，但在精神追求方面也更有天赋。他们在感知上获得+2种族加值。这一特性取代了合群、牛头，以及牛头人武器熟练。",
+      "esES": null
+    },
+    {
+      "Key": "88b84c0024ac4aaa8dbcd266f1f7a822",
+      "SimpleName": "TimidContemplating.Name",
+      "ProcessTemplates": false,
+      "enGB": "Contemplating",
+      "ruRU": null,
+      "deDE": null,
+      "frFR": null,
+      "zhCN": "苦思冥想",
+      "esES": null
+    },
+    {
+      "Key": "b94428ad90a6401f91d2752b80f6dedc",
+      "SimpleName": "TimidGenius.Description",
+      "ProcessTemplates": true,
+      "enGB": "Some minos are born more timid than others, but are also more gifted in their mental pursuits. They gain a +2 racial bonus to  Intelligence. This racial trait replaces Gregarious, Bullheaded, and Minos Weapon Familiarity.",
+      "ruRU": null,
+      "deDE": null,
+      "frFR": null,
+      "zhCN": "有些牛头人比同族更胆怯，但在精神追求方面也更有天赋。他们在智力上获得+2种族加值。这一特性取代了合群、牛头，以及牛头人武器熟练。",
+      "esES": null
+    },
+    {
+      "Key": "6319eaaa17f2457d8a5e36286b9d2a34",
+      "SimpleName": "TimidGenius.Name",
+      "ProcessTemplates": false,
+      "enGB": "Genius",
+      "ruRU": null,
+      "deDE": null,
+      "frFR": null,
+      "zhCN": "天资过人",
+      "esES": null
+    },
+    {
+      "Key": "ff8d39f1678b4f0ea5edd945b47d4c27",
+      "SimpleName": "TimidHeritage.Description",
+      "ProcessTemplates": true,
+      "enGB": "Some minos are born more timid than others, but are also more gifted in their mental pursuits. They gain a +2 racial bonus to one mental ability score of their choice (Intelligence, Wisdom, or Charisma). This racial trait replaces Gregarious, Bullheaded, and Minos Weapon Familiarity.",
+      "ruRU": null,
+      "deDE": null,
+      "frFR": null,
+      "zhCN": "有些牛头人比同族更胆怯，但在精神追求方面也更有天赋。他们在选择的一项精神属性（智力、感知或敏捷）上获得+2种族加值。这一特性取代了合群、牛头，以及牛头人武器熟练。",
+      "esES": null
+    },
+    {
+      "Key": "f43c0f8ccff7433294c3a3830940cc48",
+      "SimpleName": "TimidHeritage.Name",
+      "ProcessTemplates": false,
+      "enGB": "Timid",
+      "ruRU": null,
+      "deDE": null,
+      "frFR": null,
+      "zhCN": "胆怯",
+      "esES": null
+    }
+  ]
+}
