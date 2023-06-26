@@ -635,6 +635,22 @@
     "enGB_Base": "Telekinetic Bolt",
     "zhCN": "心灵念矢"
   },
+
+  {
+    "Key": "TelekineticBoltShort.Name",
+    "enGB_Base": "Telekinetic Bolt (Short)",
+    "zhCN": "心灵念矢（短距离）"
+  },
+  {
+    "Key": "TelekineticBoltMedium.Name",
+    "enGB_Base": "Telekinetic Bolt (Medium)",
+    "zhCN": "心灵念矢（中距离）"
+  },
+  {
+    "Key": "TelekineticBoltLong.Name",
+    "enGB_Base": "Telekinetic Bolt (Long)",
+    "zhCN": "心灵念矢（长距离）"
+  },
   {
     "Key": "TelekineticBolt.Description",
     "enGB_Base": "The soulknife learns to manifest her mind blade as a variety of ranged weapons as well as the forms her mind blade normally may take. Selection of this blade skill grants the form mind bolt and launch mind bolt class features (see soulbolt archetype). The soulknife is always considered proficient with her mind bolt. The mind bolt gains the enhancement bonus of the soulknife’s mind blade and may select its own enhancements (such as distance or flaming) as if it were a separate weapon from her mind blade. The soulknife may now also take soulbolt specific blade skills. This cannot be taken if you possess the form mind bolt class feature previously. The soulknife must be at least 4th level to select this blade skill.",
@@ -835,6 +851,16 @@
     "zhCN": "仅仅只是在脑海中储存灵能点就能给带给灵能角色一种特殊的能量。灵能角色可以不实际消耗能量点就获得效果，以进入“灵能集中”的方式。\n只要你拥有灵能点池如果你有一个能量点池或类似显能的能力，你就可以通过冥想来进入灵能集中状态。冥想是一种会引发借机攻击的整轮动作。\n    当已经进入灵能集中后，你可以消耗掉集中来用于之后一次专注检定上。如果你如此做，你的转出检定被视为取15。除了数字是15外，这在各方面都和取10的规则相同。你也可以消耗掉灵能集中来加强灵能专长的效果，很多灵能专长都拥有相应的效果。\n一旦进入灵能集中状态，你将保持集中状态，直到你消耗掉集中效果，失去意识，或者进入睡眠（或者埃兰和精灵的冥想状态）。\r\n\r\n即使你耗尽了所有的灵能点，你仍然可以获得灵能集中。\n消耗你的灵能集中来为一个专长、职业特性或任何其他技能提供能量，只会为一个效果提供能量。你不能通过消耗一次灵能集中来获得多种能力的消耗效果；每种效果都需要单独消耗一次灵能集中。"
   },
   {
+    "Key": "PsionicFocus.Name",
+    "enGB_Base": "Psionic Focus",
+    "zhCN": "灵能集中"
+  },
+  {
+    "Key": "PsionicFocus.Description",
+    "enGB_Base": ""You have become Psionically Focused",
+    "zhCN": "你进入灵能集中状态"
+  },
+  {
     "Key": "GainPsionicFocusMOve.Name",
     "enGB_Base": "Gain Psionic Focus (Move)",
     "zhCN": "获得灵能集中（移动动作）"
@@ -857,6 +883,21 @@
   {
     "Key": "ReformHeavy.Name",
     "enGB_Base": "Reform Mindblade (Two-Handed)",
+    "zhCN": "念刃变形（双手武器）"
+  },
+  {
+    "Key": "MindBladeShapeLightBuff.Name",
+    "enGB_Base": "Shaped Mind Blade (Light)",
+    "zhCN": "念刃变形（轻型武器）"
+  },
+  {
+    "Key": "MindBladeShapeSwordBuff.Name",
+    "enGB_Base": "Shaped Mind Blade (Sword)",
+    "zhCN": "念刃变形（单手武器）"
+  },
+  {
+    "Key": "MindBladeShapeHeavyBuff.Name",
+    "enGB_Base": "Shaped Mind Blade (Heavy)",
     "zhCN": "念刃变形（双手武器）"
   },
   {
