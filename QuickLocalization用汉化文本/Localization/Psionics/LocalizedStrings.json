@@ -845,6 +845,26 @@
     "zhCN": "获取灵能集中"
   },
   {
+    "Key": "GainPsionicFocusFire.Name",
+    "enGB_Base": "Gain Psionic Focus (Fire)",
+    "zhCN": "获取灵能集中（火焰）"
+  },
+  {
+    "Key": "GainPsionicFocusCold.Name",
+    "enGB_Base": "Gain Psionic Focus (Cold)",
+    "zhCN": "获取灵能集中（寒冷）"
+  },
+  {
+    "Key": "GainPsionicFocusElectricity.Name",
+    "enGB_Base": "Gain Psionic Focus (Electricity)",
+    "zhCN": "获取灵能集中（电击）"
+  },
+  {
+    "Key": "GainPsionicFocusSonic.Name",
+    "enGB_Base": "Gain Psionic Focus (Sonic)",
+    "zhCN": "获取灵能集中（音波）"
+  },
+  {
     "Key": "GainPsionicFocus.Description",
     "enGB_Base": "Merely having the ability to hold a reservoir of psionic power points in mind gives psionic characters a special energy. Psionic characters can put that energy to work without actually paying a power point cost—they can become psionically focused.\nIf you have a power point pool or the ability to manifest psi-like abilities, you can meditate to become psionically focused. Meditating is a full-round action that provokes attacks of opportunity.\nWhen you are psionically focused, you can expend your focus on any single concentration check you make thereafter. When you expend your focus in this manner, your concentration check is treated as if you rolled a 15. It’s like taking 10, except that the number you add to your concentration modifier is 15. You can also expend your focus to gain the benefit of a psionic feat—many psionic feats are activated in this way.\nOnce you are psionically focused, you remain focused until you expend your focus, become unconscious, or go to sleep (or enter a meditative trance, in cases such as elans or elves).\r\n\r\nYou may still gain psionic focus even if you have depleted all of your power points.\nExpending your psionic focus to power a feat, class feature, or any other ability only powers a single effect. You cannot gain the benefit of multiple abilities that require expending focus by expending your psionic focus once; each effect requires its own instance of expending psionic focus.",
     "zhCN": "仅仅只是在脑海中储存灵能点就能给带给灵能角色一种特殊的能量。灵能角色可以不实际消耗能量点就获得效果，以进入“灵能集中”的方式。\n只要你拥有灵能点池如果你有一个能量点池或类似显能的能力，你就可以通过冥想来进入灵能集中状态。冥想是一种会引发借机攻击的整轮动作。\n    当已经进入灵能集中后，你可以消耗掉集中来用于之后一次专注检定上。如果你如此做，你的转出检定被视为取15。除了数字是15外，这在各方面都和取10的规则相同。你也可以消耗掉灵能集中来加强灵能专长的效果，很多灵能专长都拥有相应的效果。\n一旦进入灵能集中状态，你将保持集中状态，直到你消耗掉集中效果，失去意识，或者进入睡眠（或者埃兰和精灵的冥想状态）。\r\n\r\n即使你耗尽了所有的灵能点，你仍然可以获得灵能集中。\n消耗你的灵能集中来为一个专长、职业特性或任何其他技能提供能量，只会为一个效果提供能量。你不能通过消耗一次灵能集中来获得多种能力的消耗效果；每种效果都需要单独消耗一次灵能集中。"
@@ -858,6 +878,31 @@
     "Key": "PsionicFocus.Description",
     "enGB_Base": "You have become Psionically Focused",
     "zhCN": "你进入灵能集中状态"
+  },
+  {
+    "Key": "ElementalFocusFire.Name",
+    "enGB_Base": "Fire Focus",
+    "zhCN": "火焰集中"
+  },
+  {
+    "Key": "ElementalFocusCold.Name",
+    "enGB_Base": "Cold Focus",
+    "zhCN": "寒冷集中"
+  },
+  {
+    "Key": "ElementalFocusElectricity.Name",
+    "enGB_Base": "Electricity Focus",
+    "zhCN": "电击集中"
+  },
+  {
+    "Key": "ElementalFocusSonic.Name",
+    "enGB_Base": "Sonic Focus",
+    "zhCN": "音波集中"
+  },
+  {
+    "Key": "ElementalFocus.Description",
+    "enGB_Base": "When gaining Psionic Focus, you may choose to focus Fire, Cold, Electricity, or Sonic, which may affect powers manifested.",
+    "zhCN": "当进入灵能集中状态时，可以选择火焰、寒冷、电击或音波集中，影响显现的能力。"
   },
   {
     "Key": "GainPsionicFocusMOve.Name",
