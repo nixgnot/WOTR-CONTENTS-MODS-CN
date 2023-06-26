@@ -5025,7 +5025,7 @@
       "ruRU": "Любое {g|Encyclopedia:Spell}заклинание{/g}, наносящее {g|Encyclopedia:Damage}урон{/g}, теперь меняет свои кости на d10, если они были меньше. Если они уже были равны или больше d10, то вместо этого заклинание наносит на один дополнительный урон за каждую кость, брошенную.",
       "deDE": "Alle {g|Encyclopedia:Spell}Zauber{/g}, die {g|Encyclopedia:Damage}Schaden{/g} verursachen, ändern nun ihre Würfel zu d10, wenn sie nicht bereits d10 oder größer sind. Wenn sie bereits d10 oder größer sind, verursacht der Zauber stattdessen einen zusätzlichen Schadenspunkt pro gewürfeltem Würfel.",
       "frFR": "Tous les {g|Encyclopedia:Spell}sorts{/g} infligeant des {g|Encyclopedia:Damage}dégâts{/g} utilisent désormais des d10, s'ils n'utilisent pas déjà des d10 ou supérieurs. S'ils utilisent déjà des d10 ou supérieurs, le sort inflige à la place un point de dégât supplémentaire par dé.",
-      "zhCN": "任何{g | Encyclopedia：Spell}法术{/ g}造成{g | Encyclopedia：Damage}伤害{/ g}的骰子现在都会变成d10。如果已经是d10或更高，则改为每个骰子额外造成一点伤害。",
+      "zhCN": "任何{g|Encyclopedia:Spell}法术{/g}造成{g|Encyclopedia:Damage}伤害{/g}的骰子现在都会变成d10。如果已经是d10或更高，则改为每个骰子额外造成一点伤害。",
       "esES": "Cualquier {g|Encyclopedia:Spell}hechizo{/g} que cause {g|Encyclopedia:Damage}daño{/g} ahora cambia sus dados a d10, si no era d10 o mayor. Si ya era d10 o mayor, en cambio, el hechizo inflige un punto adicional de daño por cada dado lanzado."
     },
     {
