@@ -607,8 +607,7 @@
   {
     "Key": "ReachingBladeFeat.Description",
     "enGB_Base": "The soulknife may expend her focus to increase her reach with her mind blade by 5 feet until the start of her next turn. Unlike normal reach weapons, a soulknife may also attack adjacent opponents with her mind blade. A soulknife must be at least 8th level to choose this blade skill.",
-    "zhCN": "魂刃可以选择耗费灵能集中使她的念刃增加5点触及范围直到她下一轮的开始。不同于其他长型武器，魂刃依然可以使用念刃攻击邻近单位。选择这一魂之剑技需要至少8级魂刃等级．
-"
+    "zhCN": "魂刃可以选择耗费灵能集中使她的念刃增加5点触及范围直到她下一轮的开始。不同于其他长型武器，魂刃依然可以使用念刃攻击邻近单位。选择这一魂之剑技需要至少8级魂刃等级．"
   },
   {
     "Key": "ReapersBladeFeat.Name",
@@ -857,7 +856,7 @@
   },
   {
     "Key": "PsionicFocus.Description",
-    "enGB_Base": ""You have become Psionically Focused",
+    "enGB_Base": "You have become Psionically Focused",
     "zhCN": "你进入灵能集中状态"
   },
   {
