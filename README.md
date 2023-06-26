@@ -66,7 +66,7 @@
 | [CraftMaster](#CraftMaster) | 造物MOD | 自带 | :heavy_check_mark: | :star::star: | :file_folder::file_folder: |||
 | [Psionics](#Psionics) | 灵能MOD | QL汉化 | :heavy_check_mark: | :star::star: | :file_folder::file_folder: |||
 | [KineticArchetypes](#KineticArchetypes) | 念力变体 | 自带 | :heavy_check_mark: | :star::star: | :file_folder: |||
-| [MinosPlayerRace](#MinosPlayerRace) | 牛头人种族 | 暂无 | :heavy_check_mark: | :star: | :file_folder: |||
+| [MinosPlayerRace](#MinosPlayerRace) | 牛头人种族 | QL汉化 | :heavy_check_mark: | :star: | :file_folder: |||
 
 
 备注
@@ -3457,7 +3457,7 @@ C:\Users\你的用户名\AppData\LocalLow\Owlcat Games\Pathfinder Wrath Of The R
 
 ### [MinosPlayerRace](https://www.nexusmods.com/pathfinderwrathoftherighteous/mods/517)
 > *前置：* TabletopTweaks-Core、TabletopTweaks-Base<br>
-> *中文：* **暂无**<br>
+> *中文：* **QL汉化**<br>
 > *安装方式：* **UMM**<br>
 > *新增内容：* 牛头人种族<br>
 
