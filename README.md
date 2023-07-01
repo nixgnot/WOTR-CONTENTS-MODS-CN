@@ -936,7 +936,7 @@
       <tr><td>UnbreakableBond
         </td><td>:heavy_check_mark:
         </td><td>:x:
-        </td><td>友善之拥：正确应用免疫效果</td></tr>
+        </td><td>不破联结：正确应用免疫效果</td></tr>
       <tr><td>UnbreakableHeart
         </td><td>:heavy_check_mark:
         </td><td>:x:
