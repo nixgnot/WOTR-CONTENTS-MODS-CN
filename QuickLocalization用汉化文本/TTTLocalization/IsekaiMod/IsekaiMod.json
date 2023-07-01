@@ -2858,7 +2858,7 @@
       "ruRU": "Вы талантливы во всех навыках и профессиях. Вы получаете +4 компетентностный бонус ко всем навыкам и всегда берете высшее из двух бросков d20.",
       "deDE": "Du bist talentiert in allen Fähigkeiten und Berufen. Du erhältst einen +4 Kompetenzbonus auf alle Fähigkeiten und nimmst immer den höheren von zwei Würfen mit d20.",
       "frFR": "Vous êtes talentueux dans toutes les compétences et professions. Vous obtenez un bonus de compétence de +4 à toutes les compétences et vous prenez toujours le résultat le plus élevé des deux lancers de d20.",
-      "zhCN": "您在所有技能方面都很有天赋。您所有技能都获得+4的表现加值，并且您宗师投2次d20并取高。",
+      "zhCN": "您在所有技能方面都很有天赋。您所有技能都获得+4的表现加值，并且您总是投2次d20并取高。",
       "esES": "Eres talentoso en todas las habilidades y profesiones. Obtienes un bono de competencia de +4 en todas las habilidades y siempre tomas el resultado más alto de dos tiradas de d20."
     },
     {
@@ -5894,7 +5894,7 @@
       "ruRU": "Владыки могут выбирать дополнительные сверхмощные способности.",
       "deDE": "Overlords können zusätzliche übermächtige Fähigkeiten auswählen.",
       "frFR": "Les Suzerains ont la possibilité de choisir des capacités surpuissantes supplémentaires.",
-      "zhCN": "吧霸王可以选择额外的超模力量。",
+      "zhCN": "霸王可以选择额外的超模力量。",
       "esES": "Los señores tienen la opción de seleccionar habilidades sobrepotenciadas adicionales."
     },
     {
