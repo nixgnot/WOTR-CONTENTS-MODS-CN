@@ -4580,7 +4580,7 @@
       "SimpleName": "DrakeNaturalArmor.Name",
       "ProcessTemplates": false,
       "enGB": "Drake Natural Armor",
-      "zhCN": "龙兽天生护甲"
+      "zhCN": "龙兽天生防御"
     },
     {
       "Key": "dfeacce197c54853969f7b9a6e2d619a",
@@ -7890,7 +7890,7 @@
       "SimpleName": "OceansEchoWavesMysteryFeature.Description",
       "ProcessTemplates": true,
       "enGB": "Gain access to the spells and revelations of the waves mystery \nDue to the ocean's echo archetype the class skills gained from this archtypeare changed to Persuasion, Knowledge (world) and Lore (nature)",
-      "zhCN": "获得波涛之秘示域的法术和启示\n由于海洋回声变体，从该变体获得的本职技能更改为沟通、知识（世界）和学识（自然）。"
+      "zhCN": "获得波涛秘示域的法术和启示\n由于海洋回声变体，从该变体获得的本职技能更改为沟通、知识（世界）和学识（自然）。"
     },
     {
       "Key": "279a4e8c218f4f05af3d4b8d7faa953c",
@@ -19458,21 +19458,21 @@
       "SimpleName": "PinpointTargetingAbility.Description",
       "ProcessTemplates": true,
       "enGB": "You can target the weak points in your opponent’s armor. \nAs a standard action, make a single ranged attack. The target does not gain any armor, natural armor, or shield bonuses to its Armor Class. You do not gain the benefit of this feat if you move this round.",
-      "zhCN": "你能够瞄准对手盔甲上的弱点。\n以一个标准动作，做一次单独的远程攻击。目标无法获得任何盔甲、天生护甲或盾牌加值到他的AC上。如果你本轮进行了移动，你无法受益于此专长。"
+      "zhCN": "你能够瞄准对手盔甲上的弱点。\n以一个标准动作，做一次单独的远程攻击。目标无法获得任何盔甲、天生防御或盾牌加值到他的AC上。如果你本轮进行了移动，你无法受益于此专长。"
     },
     {
       "Key": "a70f17fe8f4543b3b5959eeadc54a179",
       "SimpleName": "PinpointTargetingAttackAbility.Description",
       "ProcessTemplates": true,
       "enGB": "You can target the weak points in your opponent’s armor. \nAs a standard action, make a single ranged attack. The target does not gain any armor, natural armor, or shield bonuses to its Armor Class. You do not gain the benefit of this feat if you move this round.",
-      "zhCN": "你能够瞄准对手盔甲上的弱点。\n以一个标准动作，做一次单独的远程攻击。目标无法获得任何盔甲、天生护甲或盾牌加值到他的AC上。如果你本轮进行了移动，你无法受益于此专长。"
+      "zhCN": "你能够瞄准对手盔甲上的弱点。\n以一个标准动作，做一次单独的远程攻击。目标无法获得任何盔甲、天生防御或盾牌加值到他的AC上。如果你本轮进行了移动，你无法受益于此专长。"
     },
     {
       "Key": "aaefef9aba5f4c999122d1fc7dfd3a12",
       "SimpleName": "PinpointTargetingBuff.Description",
       "ProcessTemplates": true,
       "enGB": "You can target the weak points in your opponent’s armor. \nAs a standard action, make a single ranged attack. The target does not gain any armor, natural armor, or shield bonuses to its Armor Class. You do not gain the benefit of this feat if you move this round.",
-      "zhCN": "你能够瞄准对手盔甲上的弱点。\n以一个标准动作，做一次单独的远程攻击。目标无法获得任何盔甲、天生护甲或盾牌加值到他的AC上。如果你本轮进行了移动，你无法受益于此专长。"
+      "zhCN": "你能够瞄准对手盔甲上的弱点。\n以一个标准动作，做一次单独的远程攻击。目标无法获得任何盔甲、天生防御或盾牌加值到他的AC上。如果你本轮进行了移动，你无法受益于此专长。"
     },
     {
       "Key": "c5b8f9a006574375869f9f4fcb5ad41f",
@@ -19493,7 +19493,7 @@
       "SimpleName": "PinpointTargetingFeature.Description",
       "ProcessTemplates": true,
       "enGB": "You can target the weak points in your opponent’s armor. \nAs a standard action, make a single ranged attack. The target does not gain any armor, natural armor, or shield bonuses to its Armor Class. You do not gain the benefit of this feat if you move this round.",
-      "zhCN": "你能够瞄准对手盔甲上的弱点。\n以一个标准动作，做一次单独的远程攻击。目标无法获得任何盔甲、天生护甲或盾牌加值到他的AC上。如果你本轮进行了移动，你无法受益于此专长。"
+      "zhCN": "你能够瞄准对手盔甲上的弱点。\n以一个标准动作，做一次单独的远程攻击。目标无法获得任何盔甲、天生防御或盾牌加值到他的AC上。如果你本轮进行了移动，你无法受益于此专长。"
     },
     {
       "Key": "df1d329fd80b4f0fa1ed91c12e8e8698",
@@ -19682,7 +19682,7 @@
       "SimpleName": "RavenerHunterChargedByNatureSelection.Description",
       "ProcessTemplates": true,
       "enGB": "Rather than having a deity patron, a ravener hunter is charged by the spirits of the Mwangi to eradicate evil wherever it appears. At 1st level, a ravener hunter chooses an oracle mystery from the following list: ancestor, battle, flame, heavens, life, nature, stone, waves, wind, or wood. She gains one revelation from her chosen mystery. She must meet the revelation’s prerequisites, using her inquisitor level as her effective oracle level to determine the revelation’s effects, and she never qualifies for the Extra Revelation feat. The ravener hunter gains a second revelation from her chosen mystery at 8th level.",
-      "zhCN": "狩魔猎手得到的并非来自某一特定神祇的庇佑，而是来自莽迹的精魂的加护，以把显现的邪恶完全根除。1级时，狩魔猎手从下列的秘示域中选择一个：先祖、战斗、烈焰、苍天、生命、自然、磐石、波涛、流风、林木（译注：未实装），并且从所选的秘示域里面获得一个启示。狩魔猎手必须满足启示的先决条件，并将其职业等级视作有效先知等级以决定启示的效果。同时狩魔猎手永远也没法满足额外启示专长的先决条件。他在第8级的时候从所选秘示域获得第二个启示。"
+      "zhCN": "狩魔猎手得到的并非来自某一特定神祇的庇佑，而是来自莽迹的精魂的加护，以把显现的邪恶完全根除。1级时，狩魔猎手从下列的秘示域中选择一个：先祖、战斗、烈焰、苍天、生命、自然、磐石、波涛、流风、林木，并且从所选的秘示域里面获得一个启示。狩魔猎手必须满足启示的先决条件，并将其职业等级视作有效先知等级以决定启示的效果。同时狩魔猎手永远也没法满足额外启示专长的先决条件。他在第8级的时候从所选秘示域获得第二个启示。"
     },
     {
       "Key": "c9e009370c564d83ad4ef899e8dd22e7",
@@ -19872,6 +19872,569 @@
       "ProcessTemplates": false,
       "enGB": "Mythic Charged by Nature",
       "zhCN": "神话自然伟力"
+    },
+    {
+      "Key": "493b066c4cb147428d324a07aac485e1",
+      "SimpleName": "DivineHerbalistWoodMysteryFeature.Description",
+      "ProcessTemplates": true,
+      "enGB": "Gain access to the spells and revelations of the wood mystery. \nDue to the divine herbalist archetype the class skills gained from this archetypeare replaced by the master herbalist feature and the brew potions feat.",
+      "zhCN": "获取林木秘示域的法术和启示。\n由于神圣草药师变体，获得的职业技能被草药学大师特性和调制药水专长所取代。"
+    },
+    {
+      "Key": "b56d9344442342f89c88bc865ace5320",
+      "SimpleName": "OceansEchoWoodMysteryFeature.Description",
+      "ProcessTemplates": true,
+      "enGB": "Gain access to the spells and revelations of the wood mystery. \nDue to the ocean's echo archetype the class skills gained from this archtypeare changed to Persuasion, Knowledge (world) and Lore (nature)",
+      "zhCN": "获得林木秘示域的法术和启示\n由于海洋回声变体，从该变体获得的本职技能更改为沟通、知识（世界）和学识（自然）。"
+    },
+    {
+      "Key": "a5c2eb2a911447c7ad7b95a7500b602f",
+      "SimpleName": "EnlightnedPhilosopherWoodMysteryFeature.Description",
+      "ProcessTemplates": true,
+      "IsUsed": false,
+      "enGB": "An oracle with the wood mystery adds Mobility, Lore (nature), Stealth  and Knowledge (World)  to her list of class skills.",
+      "zhCN": "具有林木秘示域的先知将灵巧、学识（自然）、隐匿和知识（世界）添加到她的本职技能列表中。"
+    },
+    {
+      "Key": "a58b32c4458c41459e1b720c27394a51",
+      "SimpleName": "OracleRevelationLignificationAbility.Description",
+      "ProcessTemplates": true,
+      "IsUsed": false,
+      "enGB": "Once per day, you can turn a creature into wood. As a standard action, you may direct your gaze against a single creature within 30 feet. The targeted creature must make a Fortitude save or turn into a mindless, inert statue made out of wood for a number of rounds equal to 1/2 your oracle level. This ability otherwise functions as a flesh to stone spell, except the target turns to wood instead of stone. This can be reversed by any effect that can reverse flesh to stone.",
+      "zhCN": "每天1次，你可以将一个目标变成木雕。以一个标准动作，你可以注视30尺内的单个目标，除非对方通过强韧检定，否则就会变为一个无意识的木雕，效果的持续轮数相当于你先知等级的一半，除了上述效果和变成木头之外，此能力类似石化，这个效果可以被任何能移除石化的效果解除。"
+    },
+    {
+      "Key": "e95ae190e3594c028bc4fe05ff0e869a",
+      "SimpleName": "OracleRevelationLignificationBuff.Description",
+      "ProcessTemplates": true,
+      "enGB": "Once per day, you can turn a creature into wood. As a standard action, you may direct your gaze against a single creature within 30 feet. The targeted creature must make a Fortitude save or turn into a mindless, inert statue made out of wood for a number of rounds equal to 1/2 your oracle level. This ability otherwise functions as a flesh to stone spell, except the target turns to wood instead of stone. This can be reversed by any effect that can reverse flesh to stone.",
+      "zhCN": "每天1次，你可以将一个目标变成木雕。以一个标准动作，你可以注视30尺内的单个目标，除非对方通过强韧检定，否则就会变为一个无意识的木雕，效果的持续轮数相当于你先知等级的一半，除了上述效果和变成木头之外，此能力类似石化，这个效果可以被任何能移除石化的效果解除。"
+    },
+    {
+      "Key": "01bf1c8a1c8f49169a20cfe978a08d67",
+      "SimpleName": "OracleRevelationLignificationBuff.Name",
+      "ProcessTemplates": false,
+      "enGB": "Lignification",
+      "zhCN": "木质转化"
+    },
+    {
+      "Key": "e16cb37f6f2d4a6d88e6cd809054bfeb",
+      "SimpleName": "OracleRevelationLignificationFeature.Description",
+      "ProcessTemplates": true,
+      "enGB": "Once per day, you can turn a creature into wood. As a standard action, you may direct your gaze against a single creature within 30 feet. The targeted creature must make a Fortitude save or turn into a mindless, inert statue made out of wood for a number of rounds equal to 1/2 your oracle level. This ability otherwise functions as a flesh to stone spell, except the target turns to wood instead of stone. This can be reversed by any effect that can reverse flesh to stone. At 15th level, you can use this ability twice per day. You must be at least 11th level to select this revelation.",
+      "zhCN": "每天1次，你可以将一个目标变成木雕。以一个标准动作，你可以注视30尺内的单个目标，除非对方通过强韧检定，否则就会变为一个无意识的木雕，效果的持续轮数相当于你先知等级的一半，除了上述效果和变成木头之外，此能力类似石化，这个效果可以被任何能移除石化的效果解除。15级你可以得到1次额外的使用次数。你必须达到至少11级才能选择此启示。"
+    },
+    {
+      "Key": "a6bb125b0ee1465e9d276c43a17a2715",
+      "SimpleName": "OracleRevelationThornBurstAbility.Description",
+      "ProcessTemplates": true,
+      "IsUsed": false,
+      "enGB": "As a swift action, you can cause sharp splinters of wood to explode outward from your body. These splinters deal 1d6 points of piercing damage per two oracle levels (minimum 1d6) to all creatures within a 10-foot burst. A Reflex save halves this damage. You can use this ability once per day, plus one additional time per day at 5th level and every five levels thereafter.",
+      "zhCN": "以一个迅捷动作，你可以在自己身上暴出一团锋锐的棘刺，波及你身边10尺的范围，造成每两先知等级1d6点伤害（最少1d6。）成功的反射检定可以让伤害减半。此外，棘刺的碎片会散落在范围内，产生如同铁棘藜的效果，直到你下一轮开始。你每天可以使用此能力1次，5级以及之后的每5级再多一次。"
+    },
+    {
+      "Key": "b85d126bab5b4f1d9ca5588ce03a31bc",
+      "SimpleName": "OracleRevelationThornBurstAbility.Name",
+      "ProcessTemplates": false,
+      "enGB": "Thorn Burst",
+      "zhCN": "棘刺爆发"
+    },
+    {
+      "Key": "0b7e0d88993047bc89300bb3ff12b942",
+      "SimpleName": "OracleRevelationThornBurstFeature.Description",
+      "ProcessTemplates": true,
+      "enGB": "As a swift action, you can cause sharp splinters of wood to explode outward from your body. These splinters deal 1d6 points of piercing damage per two oracle levels (minimum 1d6) to all creatures within a 10-foot burst. A Reflex save halves this damage. You can use this ability once per day, plus one additional time per day at 5th level and every five levels thereafter.",
+      "zhCN": "以一个迅捷动作，你可以在自己身上暴出一团锋锐的棘刺，波及你身边10尺的范围，造成每两先知等级1d6点伤害（最少1d6。）成功的反射检定可以让伤害减半。此外，棘刺的碎片会散落在范围内，产生如同铁棘藜的效果，直到你下一轮开始。你每天可以使用此能力1次，5级以及之后的每5级再多一次。"
+    },
+    {
+      "Key": "39a1d9209fd4476dbcfd451d1e97d1f8",
+      "SimpleName": "OracleRevelationTreeFormFeature1.Name",
+      "ProcessTemplates": false,
+      "enGB": "Tree Form",
+      "zhCN": "树木型态"
+    },
+    {
+      "Key": "d62c59f7c701472a8d1bef2142d7310c",
+      "SimpleName": "OracleRevelationTreeFormProgression.Description",
+      "ProcessTemplates": true,
+      "enGB": "You can assume the form of a mandragora, as plant shape I. At 10th level, you can assume the form of a large shambling mound, as plant shape II. At 12th level, you can assume the form of a Huge Treant or a Huge Giant Flytrap, as plant shape III. You can use this ability once per day, but the duration is 1 hour/level. You must be at least 8th level to select this revelation.",
+      "zhCN": "你可以如同使用了植物形态 I 一般化身曼陀拉魔。10级起，你可以如同使用了植物形态 II  一般化身蔓生怪。12级起，你可以如同使用了植物形态 III 一般化身巨型树人或者巨捕蝇草。每天你只能使用此能力1次，不过可以持续每先知等级1小时的时间。你必须达到至少8级才能选择此启示。"
+    },
+    {
+      "Key": "f45c924a938f49dca53b2feefc9e23a3",
+      "SimpleName": "OracleRevelationWoodArmorDCAbility.Description",
+      "ProcessTemplates": true,
+      "IsUsed": false,
+      "enGB": "You can conjure wooden armor around yourself, which grants you a +4 armor bonus. At 7th level, and every four levels thereafter, this bonus increases by +2. At 13th level, this armor grants you DR 5/slashing. You can use this armor for 1 hour per day per oracle level. This duration does not need to be consecutive, but it must be spent in 1-hour increments.",
+      "zhCN": "你在自己身边创造出由木质所构成的装甲，给予你+4的盔甲加值。在7级以及之后的每4级，此盔甲加值上升2。13级此盔甲给予你伤害减免5/挥砍。你每天可以使用此能力的时间为每先知等级1小时，使用的时间不须连续，但每次使用最少消耗1个小时。"
+    },
+    {
+      "Key": "dfa8ca29107b4f259779baac1257f92a",
+      "SimpleName": "OracleRevelationWoodArmorDCBuff.Description",
+      "ProcessTemplates": true,
+      "IsUsed": false,
+      "enGB": "You can conjure wooden armor around yourself, which grants you a +4 armor bonus. At 7th level, and every four levels thereafter, this bonus increases by +2. At 13th level, this armor grants you DR 5/slashing. You can use this armor for 1 hour per day per oracle level. This duration does not need to be consecutive, but it must be spent in 1-hour increments.",
+      "zhCN": "你在自己身边创造出由木质所构成的装甲，给予你+4的盔甲加值。在7级以及之后的每4级，此盔甲加值上升2。13级此盔甲给予你伤害减免5/挥砍。你每天可以使用此能力的时间为每先知等级1小时，使用的时间不须连续，但每次使用最少消耗1个小时。"
+    },
+    {
+      "Key": "689670aab5f14eb4937d6f4ecb6b7047",
+      "SimpleName": "OracleRevelationWoodArmorDCBuff.Name",
+      "ProcessTemplates": false,
+      "enGB": "Wood Armor",
+      "zhCN": "原木装甲"
+    },
+    {
+      "Key": "9784c9e0c119416b91e5aeb12ad3dee0",
+      "SimpleName": "OracleRevelationWoodArmorDRAbility.Description",
+      "ProcessTemplates": true,
+      "IsUsed": false,
+      "enGB": "You can conjure wooden armor around yourself, which grants you a +4 armor bonus. At 7th level, and every four levels thereafter, this bonus increases by +2. At 13th level, this armor grants you DR 5/slashing. You can use this armor for 1 hour per day per oracle level. This duration does not need to be consecutive, but it must be spent in 1-hour increments.",
+      "zhCN": "你在自己身边创造出由木质所构成的装甲，给予你+4的盔甲加值。在7级以及之后的每4级，此盔甲加值上升2。13级此盔甲给予你伤害减免5/挥砍。你每天可以使用此能力的时间为每先知等级1小时，使用的时间不须连续，但每次使用最少消耗1个小时。"
+    },
+    {
+      "Key": "d7a40ccbeff54c11874b690f8da312d4",
+      "SimpleName": "OracleRevelationWoodArmorDRBuff.Description",
+      "ProcessTemplates": true,
+      "IsUsed": false,
+      "enGB": "You can conjure wooden armor around yourself, which grants you a +4 armor bonus. At 7th level, and every four levels thereafter, this bonus increases by +2. At 13th level, this armor grants you DR 5/slashing. You can use this armor for 1 hour per day per oracle level. This duration does not need to be consecutive, but it must be spent in 1-hour increments.",
+      "zhCN": "你在自己身边创造出由木质所构成的装甲，给予你+4的盔甲加值。在7级以及之后的每4级，此盔甲加值上升2。13级此盔甲给予你伤害减免5/挥砍。你每天可以使用此能力的时间为每先知等级1小时，使用的时间不须连续，但每次使用最少消耗1个小时。"
+    },
+    {
+      "Key": "fa4ba30a4ded447c88492d9641a0b1da",
+      "SimpleName": "OracleRevelationWoodArmorFeature.Description",
+      "ProcessTemplates": true,
+      "enGB": "You can conjure wooden armor around yourself, which grants you a +4 armor bonus. At 7th level, and every four levels thereafter, this bonus increases by +2. At 13th level, this armor grants you DR 5/slashing. You can use this armor for 1 hour per day per oracle level. This duration does not need to be consecutive, but it must be spent in 1-hour increments.",
+      "zhCN": "你在自己身边创造出由木质所构成的装甲，给予你+4的盔甲加值。在7级以及之后的每4级，此盔甲加值上升2。13级此盔甲给予你伤害减免5/挥砍。你每天可以使用此能力的时间为每先知等级1小时，使用的时间不须连续，但每次使用最少消耗1个小时。"
+    },
+    {
+      "Key": "0e6b200cb0b445599f353db2c621f30e",
+      "SimpleName": "OracleRevelationWoodBondFeature.Description",
+      "ProcessTemplates": true,
+      "enGB": "Your mystical bond with wood is such that your weapons become an extension of your body. You gain a +1 competence bonus on attack rolls when wielding a weapon made of or mostly consisting of wood (such as a bow, club, quarterstaff, or spear). This bonus increases by +1 at 5th level and every five levels thereafter.",
+      "zhCN": "原木和你产生强烈的共鸣，让你手中的武器变成你肢体的延伸。当你使用木造武器时（矛，弓，木棒和木棍之类），你在攻击掷骰上得到+1的表现加值。此加值在5级还有之后的每5级上升1。"
+    },
+    {
+      "Key": "558f8a6fa06947ecb9ee1d4372d5fabb",
+      "SimpleName": "OracleRevelationWoodBondFeature.Name",
+      "ProcessTemplates": false,
+      "enGB": "Wood Bond",
+      "zhCN": "魂木连结"
+    },
+    {
+      "Key": "21fa2cde0a7c4c67a7db24dc4b03c105",
+      "SimpleName": "OracleRevelationWoodenWeaponEnchantAbility.Description",
+      "ProcessTemplates": true,
+      "IsUsed": false,
+      "enGB": "You can imbue held weapons made mostly of wood, while enchanted the weapon is considered masterwork. At 7th level, 15th level, and 19th level, the weapon gains a +1 enhancement bonus. At 11th level, the weapon gains the keen weapon property (or the equivalent increase to its critical threat range, if it is a bludgeoning weapon). This effect lasts a number of minutes equal to your oracle level. You can use this ability a number of times per day equal to 3 + your Charisma modifier.",
+      "zhCN": "你可以向持有的大部分木质武器灌注魔力，使其被视为精制品。该武器在7，15，19级得到+1的增强加值。11级这些武器得到锐锋特性（在钝器上获得锐锋等效的扩展重击范围的效果）。持续分钟数相当于你的先知等级。你每天能使用此能力的次数等于3+魅力调整值。"
+    },
+    {
+      "Key": "a5ff52f1af5542d9b272b51b5730c9e6",
+      "SimpleName": "OracleRevelationWoodenWeaponEnchantAbility.Name",
+      "ProcessTemplates": false,
+      "enGB": "Wooden Weapon Enchant",
+      "zhCN": "构木武装"
+    },
+    {
+      "Key": "275003e8e58d424b9143e97d27972bf9",
+      "SimpleName": "OracleRevelationWoodenWeaponEnchantAbilityMainHand.Description",
+      "ProcessTemplates": true,
+      "IsUsed": false,
+      "enGB": "You can imbue held weapons made mostly of wood, while enchanted the weapon is considered masterwork. At 7th level, 15th level, and 19th level, the weapon gains a +1 enhancement bonus. At 11th level, the weapon gains the keen weapon property (or the equivalent increase to its critical threat range, if it is a bludgeoning weapon). This effect lasts a number of minutes equal to your oracle level. You can use this ability a number of times per day equal to 3 + your Charisma modifier.",
+      "zhCN": "你可以向持有的大部分木质武器灌注魔力，使其被视为精制品。该武器在7，15，19级得到+1的增强加值。11级这些武器得到锐锋特性（在钝器上获得锐锋等效的扩展重击范围的效果）。持续分钟数相当于你的先知等级。你每天能使用此能力的次数等于3+魅力调整值。"
+    },
+    {
+      "Key": "e20040481b04457cac95ab0e26f19555",
+      "SimpleName": "OracleRevelationWoodenWeaponEnchantAbilityOffHand.Description",
+      "ProcessTemplates": true,
+      "IsUsed": false,
+      "enGB": "You can imbue held weapons made mostly of wood, while enchanted the weapon is considered masterwork. At 7th level, 15th level, and 19th level, the weapon gains a +1 enhancement bonus. At 11th level, the weapon gains the keen weapon property (or the equivalent increase to its critical threat range, if it is a bludgeoning weapon). This effect lasts a number of minutes equal to your oracle level. You can use this ability a number of times per day equal to 3 + your Charisma modifier.",
+      "zhCN": "你可以向持有的大部分木质武器灌注魔力，使其被视为精制品。该武器在7，15，19级得到+1的增强加值。11级这些武器得到锐锋特性（在钝器上获得锐锋等效的扩展重击范围的效果）。持续分钟数相当于你的先知等级。你每天能使用此能力的次数等于3+魅力调整值。"
+    },
+    {
+      "Key": "145a63f7de184cd5b4278074bc8f4f32",
+      "SimpleName": "OracleRevelationWoodenWeaponEnchantBuff11Main.Description",
+      "ProcessTemplates": true,
+      "IsUsed": false,
+      "enGB": "You can imbue held weapons made mostly of wood, while enchanted the weapon is considered masterwork. At 7th level, 15th level, and 19th level, the weapon gains a +1 enhancement bonus. At 11th level, the weapon gains the keen weapon property (or the equivalent increase to its critical threat range, if it is a bludgeoning weapon). This effect lasts a number of minutes equal to your oracle level. You can use this ability a number of times per day equal to 3 + your Charisma modifier.",
+      "zhCN": "你可以向持有的大部分木质武器灌注魔力，使其被视为精制品。该武器在7，15，19级得到+1的增强加值。11级这些武器得到锐锋特性（在钝器上获得锐锋等效的扩展重击范围的效果）。持续分钟数相当于你的先知等级。你每天能使用此能力的次数等于3+魅力调整值。"
+    },
+    {
+      "Key": "1116e71b1d2d4490972a69f960856d0c",
+      "SimpleName": "OracleRevelationWoodenWeaponEnchantBuff11OffHand.Description",
+      "ProcessTemplates": true,
+      "IsUsed": false,
+      "enGB": "You can imbue held weapons made mostly of wood, while enchanted the weapon is considered masterwork. At 7th level, 15th level, and 19th level, the weapon gains a +1 enhancement bonus. At 11th level, the weapon gains the keen weapon property (or the equivalent increase to its critical threat range, if it is a bludgeoning weapon). This effect lasts a number of minutes equal to your oracle level. You can use this ability a number of times per day equal to 3 + your Charisma modifier.",
+      "zhCN": "你可以向持有的大部分木质武器灌注魔力，使其被视为精制品。该武器在7，15，19级得到+1的增强加值。11级这些武器得到锐锋特性（在钝器上获得锐锋等效的扩展重击范围的效果）。持续分钟数相当于你的先知等级。你每天能使用此能力的次数等于3+魅力调整值。"
+    },
+    {
+      "Key": "12831da613af4307bee54354a4533a95",
+      "SimpleName": "OracleRevelationWoodenWeaponEnchantBuff15Main.Description",
+      "ProcessTemplates": true,
+      "IsUsed": false,
+      "enGB": "You can imbue held weapons made mostly of wood, while enchanted the weapon is considered masterwork. At 7th level, 15th level, and 19th level, the weapon gains a +1 enhancement bonus. At 11th level, the weapon gains the keen weapon property (or the equivalent increase to its critical threat range, if it is a bludgeoning weapon). This effect lasts a number of minutes equal to your oracle level. You can use this ability a number of times per day equal to 3 + your Charisma modifier.",
+      "zhCN": "你可以向持有的大部分木质武器灌注魔力，使其被视为精制品。该武器在7，15，19级得到+1的增强加值。11级这些武器得到锐锋特性（在钝器上获得锐锋等效的扩展重击范围的效果）。持续分钟数相当于你的先知等级。你每天能使用此能力的次数等于3+魅力调整值。"
+    },
+    {
+      "Key": "11f3bce3ad67486ba58f09a0d1b039ff",
+      "SimpleName": "OracleRevelationWoodenWeaponEnchantBuff15OffHand.Description",
+      "ProcessTemplates": true,
+      "IsUsed": false,
+      "enGB": "You can imbue held weapons made mostly of wood, while enchanted the weapon is considered masterwork. At 7th level, 15th level, and 19th level, the weapon gains a +1 enhancement bonus. At 11th level, the weapon gains the keen weapon property (or the equivalent increase to its critical threat range, if it is a bludgeoning weapon). This effect lasts a number of minutes equal to your oracle level. You can use this ability a number of times per day equal to 3 + your Charisma modifier.",
+      "zhCN": "你可以向持有的大部分木质武器灌注魔力，使其被视为精制品。该武器在7，15，19级得到+1的增强加值。11级这些武器得到锐锋特性（在钝器上获得锐锋等效的扩展重击范围的效果）。持续分钟数相当于你的先知等级。你每天能使用此能力的次数等于3+魅力调整值。"
+    },
+    {
+      "Key": "bab6a2516fd24b56b6b3916684c6935f",
+      "SimpleName": "OracleRevelationWoodenWeaponEnchantBuff19Main.Description",
+      "ProcessTemplates": true,
+      "IsUsed": false,
+      "enGB": "You can imbue held weapons made mostly of wood, while enchanted the weapon is considered masterwork. At 7th level, 15th level, and 19th level, the weapon gains a +1 enhancement bonus. At 11th level, the weapon gains the keen weapon property (or the equivalent increase to its critical threat range, if it is a bludgeoning weapon). This effect lasts a number of minutes equal to your oracle level. You can use this ability a number of times per day equal to 3 + your Charisma modifier.",
+      "zhCN": "你可以向持有的大部分木质武器灌注魔力，使其被视为精制品。该武器在7，15，19级得到+1的增强加值。11级这些武器得到锐锋特性（在钝器上获得锐锋等效的扩展重击范围的效果）。持续分钟数相当于你的先知等级。你每天能使用此能力的次数等于3+魅力调整值。"
+    },
+    {
+      "Key": "feda422ec31a41648178133ed62e2344",
+      "SimpleName": "OracleRevelationWoodenWeaponEnchantBuff19OffHand.Description",
+      "ProcessTemplates": true,
+      "IsUsed": false,
+      "enGB": "You can imbue held weapons made mostly of wood, while enchanted the weapon is considered masterwork. At 7th level, 15th level, and 19th level, the weapon gains a +1 enhancement bonus. At 11th level, the weapon gains the keen weapon property (or the equivalent increase to its critical threat range, if it is a bludgeoning weapon). This effect lasts a number of minutes equal to your oracle level. You can use this ability a number of times per day equal to 3 + your Charisma modifier.",
+      "zhCN": "你可以向持有的大部分木质武器灌注魔力，使其被视为精制品。该武器在7，15，19级得到+1的增强加值。11级这些武器得到锐锋特性（在钝器上获得锐锋等效的扩展重击范围的效果）。持续分钟数相当于你的先知等级。你每天能使用此能力的次数等于3+魅力调整值。"
+    },
+    {
+      "Key": "5ffc13a2b1fe47ccbad059f9c94fc403",
+      "SimpleName": "OracleRevelationWoodenWeaponEnchantBuff7Main.Description",
+      "ProcessTemplates": true,
+      "IsUsed": false,
+      "enGB": "You can imbue held weapons made mostly of wood, while enchanted the weapon is considered masterwork. At 7th level, 15th level, and 19th level, the weapon gains a +1 enhancement bonus. At 11th level, the weapon gains the keen weapon property (or the equivalent increase to its critical threat range, if it is a bludgeoning weapon). This effect lasts a number of minutes equal to your oracle level. You can use this ability a number of times per day equal to 3 + your Charisma modifier.",
+      "zhCN": "你可以向持有的大部分木质武器灌注魔力，使其被视为精制品。该武器在7，15，19级得到+1的增强加值。11级这些武器得到锐锋特性（在钝器上获得锐锋等效的扩展重击范围的效果）。持续分钟数相当于你的先知等级。你每天能使用此能力的次数等于3+魅力调整值。"
+    },
+    {
+      "Key": "b82d381f5a4f4e08bc1ebe7b3da07aea",
+      "SimpleName": "OracleRevelationWoodenWeaponEnchantBuff7OffHand.Description",
+      "ProcessTemplates": true,
+      "IsUsed": false,
+      "enGB": "You can imbue held weapons made mostly of wood, while enchanted the weapon is considered masterwork. At 7th level, 15th level, and 19th level, the weapon gains a +1 enhancement bonus. At 11th level, the weapon gains the keen weapon property (or the equivalent increase to its critical threat range, if it is a bludgeoning weapon). This effect lasts a number of minutes equal to your oracle level. You can use this ability a number of times per day equal to 3 + your Charisma modifier.",
+      "zhCN": "你可以向持有的大部分木质武器灌注魔力，使其被视为精制品。该武器在7，15，19级得到+1的增强加值。11级这些武器得到锐锋特性（在钝器上获得锐锋等效的扩展重击范围的效果）。持续分钟数相当于你的先知等级。你每天能使用此能力的次数等于3+魅力调整值。"
+    },
+    {
+      "Key": "acfd1f2bb8d44f2fbf3ea5cb10d4b4ec",
+      "SimpleName": "OracleRevelationWoodenWeaponEnchantBuffBaseMain.Description",
+      "ProcessTemplates": true,
+      "IsUsed": false,
+      "enGB": "You can imbue held weapons made mostly of wood, while enchanted the weapon is considered masterwork. At 7th level, 15th level, and 19th level, the weapon gains a +1 enhancement bonus. At 11th level, the weapon gains the keen weapon property (or the equivalent increase to its critical threat range, if it is a bludgeoning weapon). This effect lasts a number of minutes equal to your oracle level. You can use this ability a number of times per day equal to 3 + your Charisma modifier.",
+      "zhCN": "你可以向持有的大部分木质武器灌注魔力，使其被视为精制品。该武器在7，15，19级得到+1的增强加值。11级这些武器得到锐锋特性（在钝器上获得锐锋等效的扩展重击范围的效果）。持续分钟数相当于你的先知等级。你每天能使用此能力的次数等于3+魅力调整值。"
+    },
+    {
+      "Key": "43aaba069c4345f1a7172c93f9f9c7f2",
+      "SimpleName": "OracleRevelationWoodenWeaponEnchantBuffBaseMain.Name",
+      "ProcessTemplates": false,
+      "enGB": "Wooden Weapon Enchant (Main Hand)",
+      "zhCN": "构木武装（主手）"
+    },
+    {
+      "Key": "87f75b3d09fa44a58e698b67a1af09be",
+      "SimpleName": "OracleRevelationWoodenWeaponEnchantBuffBaseOffHand.Description",
+      "ProcessTemplates": true,
+      "enGB": "You can imbue held weapons made mostly of wood, while enchanted the weapon is considered masterwork. At 7th level, 15th level, and 19th level, the weapon gains a +1 enhancement bonus. At 11th level, the weapon gains the keen weapon property (or the equivalent increase to its critical threat range, if it is a bludgeoning weapon). This effect lasts a number of minutes equal to your oracle level. You can use this ability a number of times per day equal to 3 + your Charisma modifier.",
+      "zhCN": "你可以向持有的大部分木质武器灌注魔力，使其被视为精制品。该武器在7，15，19级得到+1的增强加值。11级这些武器得到锐锋特性（在钝器上获得锐锋等效的扩展重击范围的效果）。持续分钟数相当于你的先知等级。你每天能使用此能力的次数等于3+魅力调整值。"
+    },
+    {
+      "Key": "2f3a80f6476849cf831283f1dcfdf167",
+      "SimpleName": "OracleRevelationWoodenWeaponEnchantBuffBaseOffHand.Name",
+      "ProcessTemplates": false,
+      "enGB": "Wooden Weapon Enchant (Off Hand)",
+      "zhCN": "构木武装（副手）"
+    },
+    {
+      "Key": "a7397a660ee743bc8d52b6f4af43d3e9",
+      "SimpleName": "OracleRevelationWoodenWeaponEnchantFeature.Description",
+      "ProcessTemplates": true,
+      "enGB": "You can imbue held weapons made mostly of wood, while enchanted the weapons are considered masterwork. At 7th level, 15th level, and 19th level, the weapon gains a +1 enhancement bonus. At 11th level, the weapon gains the keen weapon property (or the equivalent increase to its critical threat range, if it is a bludgeoning weapon). This effect lasts a number of minutes equal to your oracle level. You can use this ability a number of times per day equal to 3 + your Charisma modifier.",
+      "zhCN": "你可以向持有的大部分木质武器灌注魔力，使其被视为精制品。该武器在7，15，19级得到+1的增强加值。11级这些武器得到锐锋特性（在钝器上获得锐锋等效的扩展重击范围的效果）。持续分钟数相当于你的先知等级。你每天能使用此能力的次数等于3+魅力调整值。"
+    },
+    {
+      "Key": "8cd0f950f1034aafaf50c4f93f38af2c",
+      "SimpleName": "OracleRevelationWoodenWeaponEnchantFlag11.Name",
+      "ProcessTemplates": false,
+      "enGB": "OracleRevelationWoodenWeaponEnchantFlag11",
+      "zhCN": "先知构木武装附魔标记11"
+    },
+    {
+      "Key": "d752646089134de98cd3e2753bcdb3b6",
+      "SimpleName": "OracleRevelationWoodenWeaponEnchantFlag15.Name",
+      "ProcessTemplates": false,
+      "enGB": "OracleRevelationWoodenWeaponEnchantFlag15",
+      "zhCN": "先知构木武装附魔标记15"
+    },
+    {
+      "Key": "bfa8907816664986bae65c85f7557146",
+      "SimpleName": "OracleRevelationWoodenWeaponEnchantFlag19.Name",
+      "ProcessTemplates": false,
+      "enGB": "OracleRevelationWoodenWeaponEnchantFlag19",
+      "zhCN": "先知构木武装附魔标记19"
+    },
+    {
+      "Key": "9fa422777ef24da09c22046eb091c21d",
+      "SimpleName": "OracleRevelationWoodenWeaponEnchantFlag7.Name",
+      "ProcessTemplates": false,
+      "enGB": "OracleRevelationWoodenWeaponEnchantFlag7",
+      "zhCN": "先知构木武装附魔标记7"
+    },
+    {
+      "Key": "13d165210da64a8cb518488743b972c9",
+      "SimpleName": "OracleWoodFinalRevelation.Description",
+      "ProcessTemplates": true,
+      "enGB": "Upon reaching 20th level, you become a living creature of wood. You gain a +4 natural armor bonus to your Armor Class and you gain immunity to paralysis, poison, stunning, sleep, and enemy polymorph effects.",
+      "zhCN": "在20级，你变成活生生的木制生物。你得到+4天生防御加值，免疫麻痹，毒素，睡眠，震慑，以及敌方的变形效果。"
+    },
+    {
+      "Key": "07442b70f65e4fefbb1d4d59754f70a1",
+      "SimpleName": "OracleWoodMysteryFeature.Description",
+      "ProcessTemplates": true,
+      "enGB": "An oracle with the wood mystery adds Mobility, Lore (nature), Stealth  and Knowledge (World)  to her list of class skills.",
+      "zhCN": "具有林木秘示域的先知将灵巧、学识（自然）、隐匿和知识（世界）添加到她的本职技能列表中。"
+    },
+    {
+      "Key": "0cf6b305b97e406db670c27be0074619",
+      "SimpleName": "OracleWoodMysteryFeature.Name",
+      "ProcessTemplates": false,
+      "enGB": "Wood",
+      "zhCN": "林木"
+    },
+    {
+      "Key": "6a009cb272f742698acc2ea3e83b6ec5",
+      "SimpleName": "PlantShapeIAbility.Description",
+      "ProcessTemplates": true,
+      "IsUsed": false,
+      "enGB": "You become a small mandragora. You gain a +2 size bonus to your Dexterity and Constitution and a +2 natural armor bonus. Your movement speed is increased by 10 feet. You also gain one 1d6 bite attack, two 1d4 slams and poison ability.",
+      "zhCN": "你变成了一只曼陀拉魔。你的敏捷和体质获得+2体型加值，获得+2天生防御加值。你的移动速度增加10尺。你也会获得一次1d6啮咬攻击，2次1d4挥击和毒素能力。"
+    },
+    {
+      "Key": "3b34d19047ad419aa9cef631c2b6ed9d",
+      "SimpleName": "PlantShapeIAbility.Name",
+      "ProcessTemplates": false,
+      "enGB": "Plant Shape I",
+      "zhCN": "植物形态 I"
+    },
+    {
+      "Key": "c5b0d5c816134474a61ae5824101b76b",
+      "SimpleName": "PlantShapeIBuff.Description",
+      "ProcessTemplates": true,
+      "enGB": "You are in mandragora form now. You have a +2 size bonus to Dexterity and  Constitution and a +2 natural armor bonus. Your movement speed is increased by 10 feet. You also have one 1d6 bite attack, two 1d4 slams and poison ability.",
+      "zhCN": "你变成了一只曼陀拉魔。你的敏捷和体质获得+2体型加值，获得+2天生防御加值。你的移动速度增加10尺。你也会获得一次1d6啮咬攻击，2次1d4挥击和毒素能力。"
+    },
+    {
+      "Key": "e766d9d5fee3440eb1696237c0d985b6",
+      "SimpleName": "PlantShapeIBuff.Name",
+      "ProcessTemplates": false,
+      "enGB": "Plant Shape (Mandragora)",
+      "zhCN": "植物形态（曼陀拉魔）"
+    },
+    {
+      "Key": "65fa6c709e534750a411104e94202a10",
+      "SimpleName": "PlantShapeIIAbility.Description",
+      "ProcessTemplates": true,
+      "IsUsed": false,
+      "enGB": "You become a large shambling mound. You gain a +4 size bonus to your Strength, a +2 size bonus to your Constitution, +4 natural armor bonus, resist fire 20, and resist electricity 20. Your movement speed is reduced by 10 feet. You also have two 2d6 slam attacks, the constricting vines ability, and the poison ability.\nConstricting Vines: A shambling mound's vines coil around any creature it hits with a slam attack. The shambling mound attempts a grapple maneuver check against its target, and on a successful check its vines deal 2d6+5 damage and the foe is grappled.\nGrappled characters cannot move, and take a -2 penalty on all attack rolls and a -4 penalty to Dexterity. Grappled characters attempt to escape every round by making a successful combat maneuver, Strength, Athletics, or Mobility check. The DC of this check is the shambling mound's CMD.\nEach round, creatures grappled by a shambling mound suffer 4d6+Strength modifier × 2 damage.\nA shambling mound receives a +4 bonus on grapple maneuver checks.\nPoison:\nSlam; Save: Fortitude\nFrequency: 1/round for 2 rounds\nEffect: 1d2 Strength and 1d2 Dexterity damage\nCure: 1 save\nThe save DC is Constitution-based.",
+      "zhCN": "你变成了一只大型蔓生怪。你的{g|Encyclopedia:Strength}力量{/g}获得+4{g|Encyclopedia:Size}体型{/g}{g|Encyclopedia:Bonus}加值{/g}，{g|Encyclopedia:Constitution}体质{/g}获得+2体型加值，获得+4天生{g|Encyclopedia:Armor_Class}防御加值{/g}、20点火焰抗性、20点电击抗性。你的{g|Encyclopedia:Speed}移动速度{/g}降低10英尺。你还拥有2次可造成{g|Encyclopedia:Dice}2d6{/g}点{g|Encyclopedia:Damage}伤害{/g}的挥击{g|Encyclopedia:Attack}攻击{/g}，以及紧勒藤蔓和毒素能力。\n紧勒藤蔓：蔓生怪使用挥击攻击命中生物后，会用藤蔓将其缠住。蔓生怪将对攻击目标进行一次擒抱{g|Encyclopedia:Combat_Maneuvers}战技{/g}{g|Encyclopedia:Check}检定{/g}。检定成功后，藤蔓会对目标造成2d6+5点伤害且目标陷入“擒抱”状态。\n被擒抱的角色无法移动，所有攻击检定受到-2{g|Encyclopedia:Penalty}减值{/g}，{g|Encyclopedia:Dexterity}敏捷{/g}受到-4减值。被擒抱的角色每{g|Encyclopedia:Combat_Round}轮{/g}可通过成功的战技、力量、{g|Encyclopedia:Athletics}运动{/g}或{g|Encyclopedia:Mobility}灵巧检定{/g}挣脱擒抱。此检定的{g|Encyclopedia:DC}难度等级{/g}等于蔓生怪的{g|Encyclopedia:CMD}战技防御{/g}值。\n被蔓生怪擒抱的生物每轮还会受到4d6+2倍力量调整值点伤害。\n蔓生怪用于擒抱的战技检定获得+4加值。\n毒素：\n挥击；{g|Encyclopedia:Saving_Throw}豁免{/g}：强韧\n频率：1次/轮，持续2轮\n效果：1d2点力量和1d2点{g|Encyclopedia:AbilityDamage}敏捷伤害{/g}\n{g|Encyclopedia:Healing}痊愈{/g}：1次豁免成功\n豁免难度等级基于体质。"
+    },
+    {
+      "Key": "0a156e37bfbc47f49fe9d94dba648df9",
+      "SimpleName": "PlantShapeIIAbility.Name",
+      "ProcessTemplates": false,
+      "enGB": "Plant Shape II",
+      "zhCN": "植物形态 II"
+    },
+    {
+      "Key": "4c5b838e83a44f23aa03f623d638e6dd",
+      "SimpleName": "PlantShapeIIBuff.Name",
+      "ProcessTemplates": false,
+      "enGB": "Plant Shape (Shambling Mound)",
+      "zhCN": "植物形态（蔓生怪）"
+    },
+    {
+      "Key": "48082b12d5804a47a8261058503f27ce",
+      "SimpleName": "PlantShapeIIIAbility.Description",
+      "ProcessTemplates": true,
+      "enGB": "You become a Huge Treant or a Huge Giant Flytrap.",
+      "zhCN": "你可以变形成巨大树人或者巨大捕蝇草。"
+    },
+    {
+      "Key": "40f2795f415840d0a612bfddf8b3d741",
+      "SimpleName": "PlantShapeIIIAbility.Name",
+      "ProcessTemplates": false,
+      "enGB": "Plant Shape III",
+      "zhCN": "植物形态 III"
+    },
+    {
+      "Key": "88c07cee366941db894348cd1fcb6240",
+      "SimpleName": "PlantShapeIIIGiantFlytrapAbility.Description",
+      "ProcessTemplates": true,
+      "IsUsed": false,
+      "enGB": "You become a huge giant flytrap. You gain a +8 size bonus to your Strength, +4 to Constitution, -2 penalty to Dexterity and a +6 natural armor bonus. You also gain four 1d8 bite attacks, acid Resistance 20 and blindsight and poison ability.",
+      "zhCN": "你变成了巨大的捕蝇草。你的力量获得+8体型加值，体质获得+4加值，敏捷受到-2减值，获得+6天生防御加值。你也会获得四次1d8啮咬攻击，酸蚀抗性20，盲视能力和毒素能力。"
+    },
+    {
+      "Key": "99e267524d604a56a7890103184ec758",
+      "SimpleName": "PlantShapeIIIGiantFlytrapAbility.Name",
+      "ProcessTemplates": false,
+      "enGB": "Plant Shape III (Giant Flytrap)",
+      "zhCN": "植物形态 III（巨捕蝇草）"
+    },
+    {
+      "Key": "1d3feb68281944f7ba67c4b8206c29d0",
+      "SimpleName": "PlantShapeIIIGiantFlytrapBuff.Description",
+      "ProcessTemplates": true,
+      "enGB": "You are in giant flytrap form now. You have a +8 size bonus to your Strength, +4 to Constitution, -2 penalty to Dexterity and a +6 natural armor bonus. You also have four 1d8 bite attacks, acid Resistance 20, immunity to trip and blindsight.",
+      "zhCN": "你变成了巨大的捕蝇草。你的力量获得+8体型加值，体质获得+4加值，敏捷受到-2减值，获得+6天生防御加值。你也会获得四次1d8啮咬攻击，酸蚀抗性20，免疫绊摔和盲视能力。"
+    },
+    {
+      "Key": "80a45581fe66436aa7e6e14fc425e3b7",
+      "SimpleName": "PlantShapeIIIGiantFlytrapBuff.Name",
+      "ProcessTemplates": false,
+      "enGB": "Plant Shape (Giant Flytrap)",
+      "zhCN": "植物形态（巨捕蝇草）"
+    },
+    {
+      "Key": "46016199c6954ba3b293a883b2c21945",
+      "SimpleName": "PlantShapeIIITreantAbility.Description",
+      "ProcessTemplates": true,
+      "IsUsed": false,
+      "enGB": "You become a huge treant. You gain a +8 size bonus to your Strength, +4 to Constitution, -2 penalty to Dexterity and a +6 natural armor bonus. You also gain two 2d6 slam attacks, damage reduction 10/slashing, vulnerability to fire and overrun ability.",
+      "zhCN": "你变成了巨大的树人。你的力量获得+8体型加值，体质获得+4加值，敏捷受到-2减值，获得+6天生防御加值。你也会获得两次2d6挥击攻击，伤害减免10/挥砍，火焰易伤和闯越能力。"
+    },
+    {
+      "Key": "fb07819bea0846558ad917de27fc2948",
+      "SimpleName": "PlantShapeIIITreantAbility.Name",
+      "ProcessTemplates": false,
+      "enGB": "Plant Shape III (Treant)",
+      "zhCN": "植物形态 III（树人）"
+    },
+    {
+      "Key": "4e8652ebeacc4c308bd546df4c88be0c",
+      "SimpleName": "PlantShapeIIITreantBuff.Description",
+      "ProcessTemplates": true,
+      "enGB": "You are in treant form now. You have a +8 size bonus to your Strength, +4 to Constitution, -2 penalty to Dexterity and a +6 natural armor bonus. You also have two 2d6 slam attacks, damage reduction 10/slashing, vulnerability to fire and overrun ability.",
+      "zhCN": "你变成了巨大的树人。你的力量获得+8体型加值，体质获得+4加值，敏捷受到-2减值，获得+6天生防御加值。你也会获得两次2d6挥击攻击，伤害减免10/挥砍，火焰易伤和闯越能力。"
+    },
+    {
+      "Key": "9b70b7741b0844c18b04701fb1992f8a",
+      "SimpleName": "PlantShapeIIITreantBuff.Name",
+      "ProcessTemplates": false,
+      "enGB": "Plant Shape (Treant)",
+      "zhCN": "植物形态（树人）"
+    },
+    {
+      "Key": "0b5050c58edb4874a0e501d4e08b4c4f",
+      "SimpleName": "RavenerHunterWoodRevelationSelection.Name",
+      "ProcessTemplates": false,
+      "enGB": "Wood Revelation",
+      "zhCN": "林木启示"
+    },
+    {
+      "Key": "a062370d9fcc423d913ece75e2ed7cbc",
+      "SimpleName": "ShillelaghAbility.Description",
+      "ProcessTemplates": true,
+      "IsUsed": false,
+      "enGB": "Your own non-magical club or quarterstaff becomes a weapon with a +1 enhancement bonus on attack and damage rolls. A quarterstaff gains this enhancement for both ends of the weapon. It deals damage as if it were two size categories larger (a Small club or quarterstaff so transmuted deals 1d8 points of damage, a Medium 2d6, and a Large 3d6), +1 for its enhancement bonus. These effects only occur when the weapon is wielded by you. If you do not wield it, the weapon behaves as if unaffected by this spell. A magical weapon still gains the damage via size increase, but not the additional +1 bonuses.",
+      "zhCN": "你的非魔法木棒或木棍变为在攻击与伤害检定中具有+1增强加值的武器。木棍的两端均会获得这个增强。它所造成的伤害视为比正常大两级 (小型木棒或木棍会变为1d8点伤害，中型为2d6, 大型为3d6)，具有+1增强加值。这些效果只有在你自己持用武器时才会产生。若你不再持用它，武器就会表现为没有受到该法术影响一般。魔法武器依然会因为获得尺寸增大伤害，但是不会获得额外+1增强加值。"
+    },
+    {
+      "Key": "9d9bc533968e4d89ab33634269c28489",
+      "SimpleName": "ShillelaghBuff.Description",
+      "ProcessTemplates": true,
+      "enGB": "Your own non-magical club or quarterstaff becomes a weapon with a +1 enhancement bonus on attack and damage rolls. A quarterstaff gains this enhancement for both ends of the weapon. It deals damage as if it were two size categories larger (a Small club or quarterstaff so transmuted deals 1d8 points of damage, a Medium 2d6, and a Large 3d6), +1 for its enhancement bonus. These effects only occur when the weapon is wielded by you. If you do not wield it, the weapon behaves as if unaffected by this spell. A magical weapon still gains the damage via size increase, but not the additional +1 bonuses.",
+      "zhCN": "你的非魔法木棒或木棍变为在攻击与伤害检定中具有+1增强加值的武器。木棍的两端均会获得这个增强。它所造成的伤害视为比正常大两级 (小型木棒或木棍会变为1d8点伤害，中型为2d6, 大型为3d6)，具有+1增强加值。这些效果只有在你自己持用武器时才会产生。若你不再持用它，武器就会表现为没有受到该法术影响一般。魔法武器依然会因为获得尺寸增大伤害，但是不会获得额外+1增强加值。"
+    },
+    {
+      "Key": "10ed929f73a34f31b6db7f57d5831835",
+      "SimpleName": "ShillelaghBuff.Name",
+      "ProcessTemplates": false,
+      "enGB": "Shillelagh",
+      "zhCN": "橡棍术"
+    },
+    {
+      "Key": "5717905ca6e34c9eaebf7b7305655948",
+      "SimpleName": "TreeFormIAbility.Description",
+      "ProcessTemplates": true,
+      "enGB": "You become a small mandragora. You gain a +2 size bonus to your Dexterity and Constitution and a +2 natural armor bonus. Your movement speed is increased by 10 feet. You also gain one 1d6 bite attack, two 1d4 slams and poison ability.",
+      "zhCN": "你变成了一只曼陀拉魔。你的敏捷和体质获得+2体型加值，获得+2天生防御加值。你的移动速度增加10尺。你也会获得一次1d6啮咬攻击，2次1d4挥击和毒素能力。"
+    },
+    {
+      "Key": "3cce43d89e39480e8ce29f38c54fa44e",
+      "SimpleName": "TreeFormIAbility.Name",
+      "ProcessTemplates": false,
+      "enGB": "Tree Form (Mandragora)",
+      "zhCN": "树木形态（曼陀拉魔）"
+    },
+    {
+      "Key": "79c6a7b357d04c05ac7a80acbca33518",
+      "SimpleName": "TreeFormIIAbility.Description",
+      "ProcessTemplates": true,
+      "enGB": "You become a large shambling mound. You gain a +4 size bonus to your Strength, a +2 size bonus to your Constitution, +4 natural armor bonus, resist fire 20, and resist electricity 20. Your movement speed is reduced by 10 feet. You also have two 2d6 slam attacks, the constricting vines ability, and the poison ability.\nConstricting Vines: A shambling mound's vines coil around any creature it hits with a slam attack. The shambling mound attempts a grapple maneuver check against its target, and on a successful check its vines deal 2d6+5 damage and the foe is grappled.\nGrappled characters cannot move, and take a -2 penalty on all attack rolls and a -4 penalty to Dexterity. Grappled characters attempt to escape every round by making a successful combat maneuver, Strength, Athletics, or Mobility check. The DC of this check is the shambling mound's CMD.\nEach round, creatures grappled by a shambling mound suffer 4d6+Strength modifier × 2 damage.\nA shambling mound receives a +4 bonus on grapple maneuver checks.\nPoison:\nSlam; Save: Fortitude\nFrequency: 1/round for 2 rounds\nEffect: 1d2 Strength and 1d2 Dexterity damage\nCure: 1 save\nThe save DC is Constitution-based.",
+      "zhCN": "你变成了一只大型蔓生怪。你的{g|Encyclopedia:Strength}力量{/g}获得+4{g|Encyclopedia:Size}体型{/g}{g|Encyclopedia:Bonus}加值{/g}，{g|Encyclopedia:Constitution}体质{/g}获得+2体型加值，获得+4天生{g|Encyclopedia:Armor_Class}防御加值{/g}、20点火焰抗性、20点电击抗性。你的{g|Encyclopedia:Speed}移动速度{/g}降低10英尺。你还拥有2次可造成{g|Encyclopedia:Dice}2d6{/g}点{g|Encyclopedia:Damage}伤害{/g}的挥击{g|Encyclopedia:Attack}攻击{/g}，以及紧勒藤蔓和毒素能力。\n紧勒藤蔓：蔓生怪使用挥击攻击命中生物后，会用藤蔓将其缠住。蔓生怪将对攻击目标进行一次擒抱{g|Encyclopedia:Combat_Maneuvers}战技{/g}{g|Encyclopedia:Check}检定{/g}。检定成功后，藤蔓会对目标造成2d6+5点伤害且目标陷入“擒抱”状态。\n被擒抱的角色无法移动，所有攻击检定受到-2{g|Encyclopedia:Penalty}减值{/g}，{g|Encyclopedia:Dexterity}敏捷{/g}受到-4减值。被擒抱的角色每{g|Encyclopedia:Combat_Round}轮{/g}可通过成功的战技、力量、{g|Encyclopedia:Athletics}运动{/g}或{g|Encyclopedia:Mobility}灵巧检定{/g}挣脱擒抱。此检定的{g|Encyclopedia:DC}难度等级{/g}等于蔓生怪的{g|Encyclopedia:CMD}战技防御{/g}值。\n被蔓生怪擒抱的生物每轮还会受到4d6+2倍力量调整值点伤害。\n蔓生怪用于擒抱的战技检定获得+4加值。\n毒素：\n挥击；{g|Encyclopedia:Saving_Throw}豁免{/g}：强韧\n频率：1次/轮，持续2轮\n效果：1d2点力量和1d2点{g|Encyclopedia:AbilityDamage}敏捷伤害{/g}\n{g|Encyclopedia:Healing}痊愈{/g}：1次豁免成功\n豁免难度等级基于体质。"
+    },
+    {
+      "Key": "190cf6d097a6490abb41f909f48d8f32",
+      "SimpleName": "TreeFormIIAbility.Name",
+      "ProcessTemplates": false,
+      "enGB": "Tree Form (Shambling Mound)",
+      "zhCN": "树木形态（蔓生怪）"
+    },
+    {
+      "Key": "fc6e5f5b909a443dad7549de0e0b4d61",
+      "SimpleName": "TreeFormIIIAbility.Name",
+      "ProcessTemplates": false,
+      "enGB": "Tree Form (Final)",
+      "zhCN": "树木形态（终极）"
+    },
+    {
+      "Key": "c8b99f15874144a3a30b2e9789f3db33",
+      "SimpleName": "TreeFormIIIGiantFlytrapAbility.Description",
+      "ProcessTemplates": true,
+      "enGB": "You become a huge giant flytrap. You gain a +8 size bonus to your Strength, +4 to Constitution, -2 penalty to Dexterity and a +6 natural armor bonus. You also gain four 1d8 bite attacks, acid Resistance 20 and blindsight and poison ability.",
+      "zhCN": "你变成了巨大的捕蝇草。你的力量获得+8体型加值，体质获得+4加值，敏捷受到-2减值，获得+6天生防御加值。你也会获得四次1d8啮咬攻击，酸蚀抗性20，盲视能力和毒素能力。"
+    },
+    {
+      "Key": "627728f3aba044bd99d8a61342ef1638",
+      "SimpleName": "TreeFormIIIGiantFlytrapAbility.Name",
+      "ProcessTemplates": false,
+      "enGB": "Tree Form (Giant Flytrap)",
+      "zhCN": "树木形态（巨捕蝇草）"
+    },
+    {
+      "Key": "e6cf567bc11442128c626ecda4ecbae4",
+      "SimpleName": "TreeFormIIITreantAbility.Description",
+      "ProcessTemplates": true,
+      "enGB": "You become a huge treant. You gain a +8 size bonus to your Strength, +4 to Constitution, -2 penalty to Dexterity and a +6 natural armor bonus. You also gain two 2d6 slam attacks, damage reduction 10/slashing, vulnerability to fire and overrun ability.",
+      "zhCN": "你变成了巨大的树人。你的力量获得+8体型加值，体质获得+4加值，敏捷受到-2减值，获得+6天生防御加值。你也会获得两次2d6挥击攻击，伤害减免10/挥砍，火焰易伤和闯越能力。"
+    },
+    {
+      "Key": "a390a9dfa68a4bc2baaad389a1c64620",
+      "SimpleName": "TreeFormIIITreantAbility.Name",
+      "ProcessTemplates": false,
+      "enGB": "Tree Form (Treant)",
+      "zhCN": "树木形态（树人）"
+    },
+    {
+      "Key": "4de06f11a32e419bae0d5fc4a231a7b4",
+      "SimpleName": "WoodenPhalanxAbility.Description",
+      "ProcessTemplates": true,
+      "enGB": "You create 1d4+2 wood golems with the advanced template. The golems willingly aid you in combat or battle, perform a specific mission, or serve as bodyguards. You can only have one wooden phalanx spell in effect at one time. If you cast this spell while another casting is still in effect, the previous casting is dispelled.",
+      "zhCN": "你创造了1d4+2个被套上进化模板的木魔像。这些魔像会自愿协助你参与搏斗或战斗，执行特殊任务或充当保镖。你同时只能维持一个该法术的效果。如果你在前一次法术生效时间内再次施放本法术，前次法术将被解除。"
+    },
+    {
+      "Key": "e8e450460e4947a88dbe21bba398e5d9",
+      "SimpleName": "WoodenPhalanxAbility.Duration",
+      "ProcessTemplates": false,
+      "enGB": "1 hour/level",
+      "zhCN": "1小时/级"
+    },
+    {
+      "Key": "950e47e37aff4c738754e82311abbfdb",
+      "SimpleName": "WoodenPhalanxAbility.Name",
+      "ProcessTemplates": false,
+      "enGB": "Wooden Phalanx",
+      "zhCN": "点木成兵"
     }
   ]
 }
