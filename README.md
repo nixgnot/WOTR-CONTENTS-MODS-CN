@@ -1931,9 +1931,10 @@
    <tr><td rowspan="2">DreadKnight 恐惧骑士</td>
            <td>Conqueror 征服者</td></tr> 
            <tr><td>Claw of the False Wyrm 虚龙之爪</td></tr> 
-   <tr><td rowspan="16">变体</td>
-       <td rowspan="1">审判官</td>
+   <tr><td rowspan="19">变体</td>
+       <td rowspan="2">审判官</td>
            <td>Living Scripture 活圣经</td></tr> 
+	   <tr><td>Ravener Hunter 狩魔猎手</td></tr> 
        <tr><td rowspan="1">战斗祭司</td>
            <td>Mantis Zealot 螳螂狂徒</td></tr> 
        <tr><td rowspan="5">德鲁伊</td>
@@ -1957,11 +1958,14 @@
            <td>Draconic Scholar 龙之学者</td></tr> 
        <tr><td rowspan="1">歌者</td>
            <td>Wyrm Singer 龙战颂者</td></tr> 
-       <tr><td rowspan="1">战士</td>
+       <tr><td rowspan="2">战士</td>
            <td>Archer 弓手</td></tr> 
+	   <tr><td>Spear Fighter 枪矛手</td></tr> 
+       <tr><td rowspan="1">猎人</td>
+           <td>Skulking Hunter 潜伏猎手</td></tr>
    <tr><td rowspan="5">职业特性</td>
        <td>先知秘示域</td>
-       <td>Dragon 龙、Heavens 苍天、Succor 救助</td></tr>
+       <td>Dragon 龙、Heavens 苍天、Succor 救助、Wood 林木</td></tr>
    <tr><td>先知诅咒</td>
        <td>Vampirism 吸血鬼</td></tr>
    <tr><td>萨满精魂</td>
@@ -1972,9 +1976,12 @@
        <td>部分职业或变体可用</td></tr>
    <tr><td colspan="2">基础动作</td>
        <td>Aid Another 援助他人</td></tr>
-   <tr><td colspan="2" rowspan="2">专长</td>
+   <tr><td colspan="2" rowspan="5">专长</td>
        <td>Swift Aid 迅速援助</td></tr>
        <tr><td>Opening Volley 远近夹攻</td></tr>
+       <tr><td>Demon Hunter 恶魔猎手</td></tr>
+       <tr><td>Bullseye Shot 中的射击</td></tr>
+       <tr><td>Pinpoint Targeting 精确瞄准</td></tr>
    <tr><td colspan="2" rowspan="2">神话能力</td>
        <td>Mythic Drake 神话龙兽</td>
    <tr><td>Impossible Subdomain 无限子域可能</td></tr>
@@ -1985,7 +1992,7 @@
        <td>Scalykind 鳞状</td></tr>
    <tr><td>子领域</td>
        <td>Agathion 阿加西翁、 Archon 亚空, Blood 血液、Caves 洞穴、Curse 诅咒、 Demon, Dragon 龙、Ferocity 凶猛、Ice 冰、Lust 欲望、Psychopomp 招魂、Rage 狂暴、 Resolve 决心、Restoration 恢复、Revelation 启示、Revolution 革命、Rivers 河流、Stars 星空、Storm 风暴、Thievery 盗窃、Undead 不死、Whimsy 滑稽、Wind 风</td></tr>
-   <tr><td colspan="2" rowspan="25">法术<br><i>参阅PF文档</i></td>
+   <tr><td colspan="2" rowspan="28">法术<br><i>参阅PF文档</i></td>
        <td>Hydraulic push 水流冲击</td></tr>
    <tr><td>Slipstream 滑流</td></tr>
    <tr><td>Scourge of the Horsemen 天启诸骑的蹂躏</td></tr>
@@ -2012,6 +2019,9 @@
    <tr><td>Dance of a Hundred Cuts 百袭战舞</td></tr>
    <tr><td>Dance of a Thousand Cuts 千袭战舞</td></tr>
    <tr><td>Particulate Form 粒子形态</td></tr>
+   <tr><td>Plant Shape 植物形态（I、II、III）</td></tr>
+   <tr><td>Shillelagh 橡棍术</td></tr>
+   <tr><td>Wooden Phalanx 点木成兵</td></tr>
  </table>   
 
 -------------------------------------------
