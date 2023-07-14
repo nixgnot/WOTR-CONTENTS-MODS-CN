@@ -124,7 +124,7 @@
 
 ### 汉化文件及其他说明
 + 本文档上方会收集一些个人提供的**MOD汉化或汉化修正文件**，不定时更新。
-+ 可以点击上方**code**按钮中的**Download Zip**打包下载素有附件。
++ 可以点击上方**code**按钮中的**Download Zip**打包下载所有附件。
 + 一般**UMM安装**的MOD，汉化文件的使用方法是直接替换游戏目录下\mods\对应mod名称\Localization\中同名文件即可。
 + 对于**非UMM安装**的MOD，替换C:\Users\你的用户文件夹\AppData\LocalLow\Owlcat Games\Pathfinder Wrath Of The Righteous\Modifications\对应mod名称\Localization\中同名文件。
 + 列表中标明**QL汉化**的MOD为**QuickLocalization用汉化**，请参考QuickLocalization说明
