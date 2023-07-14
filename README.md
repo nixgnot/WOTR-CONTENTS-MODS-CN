@@ -1992,7 +1992,7 @@
        <td>Scalykind 鳞状</td></tr>
    <tr><td>子领域</td>
        <td>Agathion 阿加西翁、 Archon 亚空, Blood 血液、Caves 洞穴、Curse 诅咒、 Demon, Dragon 龙、Ferocity 凶猛、Ice 冰、Lust 欲望、Psychopomp 招魂、Rage 狂暴、 Resolve 决心、Restoration 恢复、Revelation 启示、Revolution 革命、Rivers 河流、Stars 星空、Storm 风暴、Thievery 盗窃、Undead 不死、Whimsy 滑稽、Wind 风</td></tr>
-   <tr><td colspan="2" rowspan="28">法术<br><i>参阅PF文档</i></td>
+   <tr><td colspan="2" rowspan="29">法术<br><i>参阅PF文档</i></td>
        <td>Hydraulic push 水流冲击</td></tr>
    <tr><td>Slipstream 滑流</td></tr>
    <tr><td>Scourge of the Horsemen 天启诸骑的蹂躏</td></tr>
