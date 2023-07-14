@@ -20435,6 +20435,412 @@
       "ProcessTemplates": false,
       "enGB": "Wooden Phalanx",
       "zhCN": "点木成兵"
+    },
+    {
+      "Key": "f9824e8ba16d4d5db3ecb4776c558ac2",
+      "SimpleName": "LoremasterClawOfTheFalseWyrmLevelUp.Description",
+      "ProcessTemplates": true,
+      "enGB": "At 1st level, the mystic theurge selects a divine spellcasting class she belonged to before adding the prestige class. When a new mystic theurge level is gained, the character gains new spells per day and new spells known as if she had also gained a level in that spellcasting class.",
+      "zhCN": "1级起，秘术师可以从进阶该职业前的神术施法职业中选择一个。每次获得新的秘术师等级时，该角色可以如同也获得了该施法职业的等级一般，增加每日{g|Encyclopedia:Spell}法术{/g}量和新的所知法术。"
+    },
+    {
+      "Key": "3d19566c4af54bdc8f61bbf5d3fcdcef",
+      "SimpleName": "LoremasterClawOfTheFalseWyrmProgression.Description",
+      "ProcessTemplates": true,
+      "enGB": "When a new loremaster level is gained, the character gains new spells per day as if he had also gained a level in a spellcasting class he belonged to before adding the prestige class. He does not, however, gain other benefits a character of that class would have gained, except for additional spells per day, spells known (if he is a spontaneous spellcaster), and an increased effective level of spellcasting. If a character had more than one spellcasting class before becoming a loremaster, he must decide to which class he adds the new level for purposes of determining the number of spells per day.",
+      "zhCN": "在获得一级新的博学士等级时，角色将获得新的每日{g|Encyclopedia:Spell}法术{/g}量，如同他在进阶之前已有的施法职业上也获得了一个等级。但是除了额外的每日法术量、已知法术（若其为自发施法者）和有效施法者等级之外，他无法获得该职业角色升级之际能够获得的其他奖励。如果角色在成为博学士之前拥有多个施法职业，那么他必须决定将新的一级追加在哪个职业上以决定每日法术量"
+    },
+    {
+      "Key": "e9f6d742b9304a6ba63779a87881a911",
+      "SimpleName": "LoremasterDreadKnightLevelUp.Description",
+      "ProcessTemplates": true,
+      "enGB": "At 1st level, the loremaster selects a divine spellcasting class she belonged to before adding the prestige class. When a new loremaster level is gained, the character gains new spells per day and new spells known as if she had also gained a level in that spellcasting class.",
+      "zhCN": "1级起，博学士可以从进阶该职业前的神术施法职业中选择一个。每次获得新的博学士等级时，该角色可以如同也获得了该施法职业的等级一般，增加每日{g|Encyclopedia:Spell}法术{/g}量和新的所知法术。"
+    },
+    {
+      "Key": "ca2c7e8ce7174935a01d37b5db82dbbd",
+      "SimpleName": "LoremasterDreadKnightProgression.Description",
+      "ProcessTemplates": true,
+      "enGB": "When a new loremaster level is gained, the character gains new spells per day as if he had also gained a level in a spellcasting class he belonged to before adding the prestige class. He does not, however, gain other benefits a character of that class would have gained, except for additional spells per day, spells known (if he is a spontaneous spellcaster), and an increased effective level of spellcasting. If a character had more than one spellcasting class before becoming a loremaster, he must decide to which class he adds the new level for purposes of determining the number of spells per day.",
+      "zhCN": "在获得一级新的博学士等级时，角色将获得新的每日{g|Encyclopedia:Spell}法术{/g}量，如同他在进阶之前已有的施法职业上也获得了一个等级。但是除了额外的每日法术量、已知法术（若其为自发施法者）和有效施法者等级之外，他无法获得该职业角色升级之际能够获得的其他奖励。如果角色在成为博学士之前拥有多个施法职业，那么他必须决定将新的一级追加在哪个职业上以决定每日法术量"
+    },
+    {
+      "Key": "4ef129fc82204145bac2c5829fd1fce5",
+      "SimpleName": "LoremasterLivingScriptureLevelUp.Description",
+      "ProcessTemplates": true,
+      "enGB": "At 1st level, the mystic theurge selects a divine spellcasting class she belonged to before adding the prestige class. When a new mystic theurge level is gained, the character gains new spells per day and new spells known as if she had also gained a level in that spellcasting class.",
+      "zhCN": "1级起，秘术师可以从进阶该职业前的神术施法职业中选择一个。每次获得新的秘术师等级时，该角色可以如同也获得了该施法职业的等级一般，增加每日{g|Encyclopedia:Spell}法术{/g}量和新的所知法术。"
+    },
+    {
+      "Key": "d443f399b9e14e6daaafa9d2cf85d27a",
+      "SimpleName": "LoremasterLivingScriptureProgression.Description",
+      "ProcessTemplates": true,
+      "enGB": "When a new loremaster level is gained, the character gains new spells per day as if he had also gained a level in a spellcasting class he belonged to before adding the prestige class. He does not, however, gain other benefits a character of that class would have gained, except for additional spells per day, spells known (if he is a spontaneous spellcaster), and an increased effective level of spellcasting. If a character had more than one spellcasting class before becoming a loremaster, he must decide to which class he adds the new level for purposes of determining the number of spells per day.",
+      "zhCN": "在获得一级新的博学士等级时，角色将获得新的每日{g|Encyclopedia:Spell}法术{/g}量，如同他在进阶之前已有的施法职业上也获得了一个等级。但是除了额外的每日法术量、已知法术（若其为自发施法者）和有效施法者等级之外，他无法获得该职业角色升级之际能够获得的其他奖励。如果角色在成为博学士之前拥有多个施法职业，那么他必须决定将新的一级追加在哪个职业上以决定每日法术量"
+    },
+    {
+      "Key": "dc017dedb9af42c1a7f5e038a24840f4",
+      "SimpleName": "LoremasterRavenerHunterLevelUp.Description",
+      "ProcessTemplates": true,
+      "enGB": "At 1st level, the loremaster selects a divine spellcasting class she belonged to before adding the prestige class. When a new loremaster level is gained, the character gains new spells per day and new spells known as if she had also gained a level in that spellcasting class.",
+      "zhCN": "1级起，博学士可以从进阶该职业前的神术施法职业中选择一个。每次获得新的博学士等级时，该角色可以如同也获得了该施法职业的等级一般，增加每日{g|Encyclopedia:Spell}法术{/g}量和新的所知法术。"
+    },
+    {
+      "Key": "daa289fc9fa54fb88acfa81ba2f39c67",
+      "SimpleName": "LoremasterRavenerHunterProgression.Description",
+      "ProcessTemplates": true,
+      "enGB": "When a new loremaster level is gained, the character gains new spells per day as if he had also gained a level in a spellcasting class he belonged to before adding the prestige class. He does not, however, gain other benefits a character of that class would have gained, except for additional spells per day, spells known (if he is a spontaneous spellcaster), and an increased effective level of spellcasting. If a character had more than one spellcasting class before becoming a loremaster, he must decide to which class he adds the new level for purposes of determining the number of spells per day.",
+      "zhCN": "在获得一级新的博学士等级时，角色将获得新的每日{g|Encyclopedia:Spell}法术{/g}量，如同他在进阶之前已有的施法职业上也获得了一个等级。但是除了额外的每日法术量、已知法术（若其为自发施法者）和有效施法者等级之外，他无法获得该职业角色升级之际能够获得的其他奖励。如果角色在成为博学士之前拥有多个施法职业，那么他必须决定将新的一级追加在哪个职业上以决定每日法术量"
+    },
+    {
+      "Key": "cfc96b1a901b47fdb74c905a3bde0cc4",
+      "SimpleName": "LoremasterSilverChampionLevelUp.Description",
+      "ProcessTemplates": true,
+      "enGB": "At 1st level, the mystic theurge selects a divine spellcasting class she belonged to before adding the prestige class. When a new mystic theurge level is gained, the character gains new spells per day and new spells known as if she had also gained a level in that spellcasting class.",
+      "zhCN": "1级起，秘术师可以从进阶该职业前的神术施法职业中选择一个。每次获得新的秘术师等级时，该角色可以如同也获得了该施法职业的等级一般，增加每日{g|Encyclopedia:Spell}法术{/g}量和新的所知法术。"
+    },
+    {
+      "Key": "2993620ee9cc453cbce216a8f52c7a65",
+      "SimpleName": "LoremasterSilverChampionProgression.Description",
+      "ProcessTemplates": true,
+      "enGB": "When a new loremaster level is gained, the character gains new spells per day as if he had also gained a level in a spellcasting class he belonged to before adding the prestige class. He does not, however, gain other benefits a character of that class would have gained, except for additional spells per day, spells known (if he is a spontaneous spellcaster), and an increased effective level of spellcasting. If a character had more than one spellcasting class before becoming a loremaster, he must decide to which class he adds the new level for purposes of determining the number of spells per day.",
+      "zhCN": "在获得一级新的博学士等级时，角色将获得新的每日{g|Encyclopedia:Spell}法术{/g}量，如同他在进阶之前已有的施法职业上也获得了一个等级。但是除了额外的每日法术量、已知法术（若其为自发施法者）和有效施法者等级之外，他无法获得该职业角色升级之际能够获得的其他奖励。如果角色在成为博学士之前拥有多个施法职业，那么他必须决定将新的一级追加在哪个职业上以决定每日法术量"
+    },
+    {
+      "Key": "85b70ba21b734970a301ff318912d78c",
+      "SimpleName": "MysticTheurgeClawOfTheFalseWyrmLevelUp.Description",
+      "ProcessTemplates": true,
+      "enGB": "At 1st level, the mystic theurge selects a divine spellcasting class she belonged to before adding the prestige class. When a new mystic theurge level is gained, the character gains new spells per day and new spells known as if she had also gained a level in that spellcasting class.",
+      "zhCN": "1级起，秘术师可以从进阶该职业前的神术施法职业中选择一个。每次获得新的秘术师等级时，该角色可以如同也获得了该施法职业的等级一般，增加每日{g|Encyclopedia:Spell}法术{/g}量和新的所知法术。"
+    },
+    {
+      "Key": "4e2f89ad97b445979ceaee7b578e9eab",
+      "SimpleName": "MysticTheurgeClawOfTheFalseWyrmProgression.Description",
+      "ProcessTemplates": true,
+      "enGB": "At 1st level, the mystic theurge selects a divine spellcasting class she belonged to before adding the prestige class. When a new mystic theurge level is gained, the character gains new spells per day and new spells known as if she had also gained a level in that spellcasting class.",
+      "zhCN": "1级起，秘术师可以从进阶该职业前的神术施法职业中选择一个。每次获得新的秘术师等级时，该角色可以如同也获得了该施法职业的等级一般，增加每日{g|Encyclopedia:Spell}法术{/g}量和新的所知法术。"
+    },
+    {
+      "Key": "902b2c8287a6417faca887399015e606",
+      "SimpleName": "MysticTheurgeDreadKnightLevelParametrized1.Description",
+      "ProcessTemplates": true,
+      "enGB": "You can select new known dread knight spells when you gain a new level in this class.",
+      "zhCN": "当你在此职业获得新等级时, 你可以选择新的恐惧骑士法术。"
+    },
+    {
+      "Key": "27fb2e4913654f5ba2f8144717e5a9a0",
+      "SimpleName": "MysticTheurgeDreadKnightLevelParametrized1.Name",
+      "ProcessTemplates": false,
+      "enGB": "Dread Knight Spell (1st Level)",
+      "zhCN": "恐惧骑士法术 (等级 1)"
+    },
+    {
+      "Key": "92493f19ad0649f8b779873037fc5fee",
+      "SimpleName": "MysticTheurgeDreadKnightLevelParametrized2.Description",
+      "ProcessTemplates": true,
+      "enGB": "You can select new known dread knight spells when you gain a new level in this class.",
+      "zhCN": "当你在此职业获得新等级时, 你可以选择新的恐惧骑士法术。"
+    },
+    {
+      "Key": "2b745419ede9413886eb0d67831b20b4",
+      "SimpleName": "MysticTheurgeDreadKnightLevelParametrized2.Name",
+      "ProcessTemplates": false,
+      "enGB": "Dread Knight Spell (2nd Level)",
+      "zhCN": "恐惧骑士法术 (等级 2)"
+    },
+    {
+      "Key": "42445c13bf3940409457c561f12c8ad1",
+      "SimpleName": "MysticTheurgeDreadKnightLevelParametrized3.Description",
+      "ProcessTemplates": true,
+      "enGB": "You can select new known dread knight spells when you gain a new level in this class.",
+      "zhCN": "当你在此职业获得新等级时, 你可以选择新的恐惧骑士法术。"
+    },
+    {
+      "Key": "68f4fd55e1ae4c0e80f80d977d295aba",
+      "SimpleName": "MysticTheurgeDreadKnightLevelParametrized3.Name",
+      "ProcessTemplates": false,
+      "enGB": "Dread Knight Spell (3rd Level)",
+      "zhCN": "恐惧骑士法术 (等级 3)"
+    },
+    {
+      "Key": "7fdb7e6a9f4e470994a2894342a2867e",
+      "SimpleName": "MysticTheurgeDreadKnightLevelParametrized4.Description",
+      "ProcessTemplates": true,
+      "enGB": "You can select new known dread knight spells when you gain a new level in this class.",
+      "zhCN": "当你在此职业获得新等级时, 你可以选择新的恐惧骑士法术。"
+    },
+    {
+      "Key": "2c32ec8130a348f4afd7c8c69a506985",
+      "SimpleName": "MysticTheurgeDreadKnightLevelParametrized4.Name",
+      "ProcessTemplates": false,
+      "enGB": "Dread Knight Spell (4th Level)",
+      "zhCN": "恐惧骑士法术 (等级 4)"
+    },
+    {
+      "Key": "8fd6b8700a8e4d81b2be0576863c939b",
+      "SimpleName": "MysticTheurgeDreadKnightLevelSelection1.Description",
+      "ProcessTemplates": true,
+      "enGB": "You can select new known dread knight spells when you gain a new level in this class.",
+      "zhCN": "当你在此职业获得新等级时, 你可以选择新的恐惧骑士法术。"
+    },
+    {
+      "Key": "103b65dec23e460991b77c6553a7aaf8",
+      "SimpleName": "MysticTheurgeDreadKnightLevelSelection2.Description",
+      "ProcessTemplates": true,
+      "enGB": "You can select new known dread knight spells when you gain a new level in this class.",
+      "zhCN": "当你在此职业获得新等级时, 你可以选择新的恐惧骑士法术。"
+    },
+    {
+      "Key": "de0e4db1368e42eb9db5827359fd6957",
+      "SimpleName": "MysticTheurgeDreadKnightLevelSelection3.Description",
+      "ProcessTemplates": true,
+      "enGB": "You can select new known dread knight spells when you gain a new level in this class.",
+      "zhCN": "当你在此职业获得新等级时, 你可以选择新的恐惧骑士法术。"
+    },
+    {
+      "Key": "082fefc5331c499f83647a107bfdbe90",
+      "SimpleName": "MysticTheurgeDreadKnightLevelSelection4.Description",
+      "ProcessTemplates": true,
+      "enGB": "You can select new known dread knight spells when you gain a new level in this class.",
+      "zhCN": "当你在此职业获得新等级时, 你可以选择新的恐惧骑士法术。"
+    },
+    {
+      "Key": "ca1192bdd4ef47f083787e7838100edd",
+      "SimpleName": "MysticTheurgeDreadKnightLevelUp.Description",
+      "ProcessTemplates": true,
+      "enGB": "At 1st level, the mystic theurge selects a divine spellcasting class she belonged to before adding the prestige class. When a new mystic theurge level is gained, the character gains new spells per day and new spells known as if she had also gained a level in that spellcasting class.",
+      "zhCN": "1级起，秘术师可以从进阶该职业前的神术施法职业中选择一个。每次获得新的秘术师等级时，该角色可以如同也获得了该施法职业的等级一般，增加每日{g|Encyclopedia:Spell}法术{/g}量和新的所知法术。"
+    },
+    {
+      "Key": "e7c9b80946df4c36a9e247401f76c4c8",
+      "SimpleName": "MysticTheurgeDreadKnightProgression.Description",
+      "ProcessTemplates": true,
+      "enGB": "At 1st level, the mystic theurge selects a divine spellcasting class she belonged to before adding the prestige class. When a new mystic theurge level is gained, the character gains new spells per day and new spells known as if she had also gained a level in that spellcasting class.",
+      "zhCN": "1级起，秘术师可以从进阶该职业前的神术施法职业中选择一个。每次获得新的秘术师等级时，该角色可以如同也获得了该施法职业的等级一般，增加每日{g|Encyclopedia:Spell}法术{/g}量和新的所知法术。"
+    },
+    {
+      "Key": "c918cc9835f740859a086504d46c54c0",
+      "SimpleName": "MysticTheurgeLivingScriptureLevelUp.Description",
+      "ProcessTemplates": true,
+      "enGB": "At 1st level, the mystic theurge selects a divine spellcasting class she belonged to before adding the prestige class. When a new mystic theurge level is gained, the character gains new spells per day and new spells known as if she had also gained a level in that spellcasting class.",
+      "zhCN": "1级起，秘术师可以从进阶该职业前的神术施法职业中选择一个。每次获得新的秘术师等级时，该角色可以如同也获得了该施法职业的等级一般，增加每日{g|Encyclopedia:Spell}法术{/g}量和新的所知法术。"
+    },
+    {
+      "Key": "b303607b82e644de844a7dcf0936115f",
+      "SimpleName": "MysticTheurgeLivingScriptureProgression.Description",
+      "ProcessTemplates": true,
+      "enGB": "At 1st level, the mystic theurge selects a divine spellcasting class she belonged to before adding the prestige class. When a new mystic theurge level is gained, the character gains new spells per day and new spells known as if she had also gained a level in that spellcasting class.",
+      "zhCN": "1级起，秘术师可以从进阶该职业前的神术施法职业中选择一个。每次获得新的秘术师等级时，该角色可以如同也获得了该施法职业的等级一般，增加每日{g|Encyclopedia:Spell}法术{/g}量和新的所知法术。"
+    },
+    {
+      "Key": "96bc40e8bdfb42348be42849f81095e3",
+      "SimpleName": "MysticTheurgeRavenerHunterLevelParametrized1.Description",
+      "ProcessTemplates": true,
+      "enGB": "You can select new known ravener hunter spells when you gain a new level in this class.",
+      "zhCN": "当你在此职业获得新等级时, 你可以选择新的狩魔猎手法术。"
+    },
+    {
+      "Key": "b5b61ebe4136493ba40075f65921effc",
+      "SimpleName": "MysticTheurgeRavenerHunterLevelParametrized1.Name",
+      "ProcessTemplates": false,
+      "enGB": "Ravener Hunter Spell (1st Level)",
+      "zhCN": "狩魔猎手法术 (等级 1)"
+    },
+    {
+      "Key": "7858769b807141a4845e2ac02bceee63",
+      "SimpleName": "MysticTheurgeRavenerHunterLevelParametrized2.Description",
+      "ProcessTemplates": true,
+      "enGB": "You can select new known ravener hunter spells when you gain a new level in this class.",
+      "zhCN": "当你在此职业获得新等级时, 你可以选择新的狩魔猎手法术。"
+    },
+    {
+      "Key": "260c846f47014ca38544dedade982e38",
+      "SimpleName": "MysticTheurgeRavenerHunterLevelParametrized2.Name",
+      "ProcessTemplates": false,
+      "enGB": "Ravener Hunter Spell (2nd Level)",
+      "zhCN": "狩魔猎手法术 (等级 2)"
+    },
+    {
+      "Key": "b692ac16f658479dbce1287d5820b4f1",
+      "SimpleName": "MysticTheurgeRavenerHunterLevelParametrized3.Description",
+      "ProcessTemplates": true,
+      "enGB": "You can select new known ravener hunter spells when you gain a new level in this class.",
+      "zhCN": "当你在此职业获得新等级时, 你可以选择新的狩魔猎手法术。"
+    },
+    {
+      "Key": "fe97c6d374b84d1482383514f4fa01f8",
+      "SimpleName": "MysticTheurgeRavenerHunterLevelParametrized3.Name",
+      "ProcessTemplates": false,
+      "enGB": "Ravener Hunter Spell (3rd Level)",
+      "zhCN": "狩魔猎手法术 (等级 3)"
+    },
+    {
+      "Key": "08d4e3704e574a7eb2b9d67b0feae99a",
+      "SimpleName": "MysticTheurgeRavenerHunterLevelParametrized4.Description",
+      "ProcessTemplates": true,
+      "enGB": "You can select new known ravener hunter spells when you gain a new level in this class.",
+      "zhCN": "当你在此职业获得新等级时, 你可以选择新的狩魔猎手法术。"
+    },
+    {
+      "Key": "bdb6cd2149ea4bb1b380c6b95a86f2e1",
+      "SimpleName": "MysticTheurgeRavenerHunterLevelParametrized4.Name",
+      "ProcessTemplates": false,
+      "enGB": "Ravener Hunter Spell (4th Level)",
+      "zhCN": "狩魔猎手法术 (等级 4)"
+    },
+    {
+      "Key": "03e245bfe0134974a9a5a8d10e477215",
+      "SimpleName": "MysticTheurgeRavenerHunterLevelParametrized5.Description",
+      "ProcessTemplates": true,
+      "enGB": "You can select new known ravener hunter spells when you gain a new level in this class.",
+      "zhCN": "当你在此职业获得新等级时, 你可以选择新的狩魔猎手法术。"
+    },
+    {
+      "Key": "4459ac559daa448aa38e4b6b1e99cb7e",
+      "SimpleName": "MysticTheurgeRavenerHunterLevelParametrized5.Name",
+      "ProcessTemplates": false,
+      "enGB": "Ravener Hunter Spell (5th Level)",
+      "zhCN": "狩魔猎手法术 (等级 5)"
+    },
+    {
+      "Key": "4276a3fdadac48988b7a57db543e7cd0",
+      "SimpleName": "MysticTheurgeRavenerHunterLevelParametrized6.Description",
+      "ProcessTemplates": true,
+      "enGB": "You can select new known ravener hunter spells when you gain a new level in this class.",
+      "zhCN": "当你在此职业获得新等级时, 你可以选择新的狩魔猎手法术。"
+    },
+    {
+      "Key": "eaaab56d39634b68bffed9076fb9e4ef",
+      "SimpleName": "MysticTheurgeRavenerHunterLevelParametrized6.Name",
+      "ProcessTemplates": false,
+      "enGB": "Ravener Hunter Spell (6th Level)",
+      "zhCN": "狩魔猎手法术 (等级 6)"
+    },
+    {
+      "Key": "a4a3fdd35812449c8b7f31d49b21064a",
+      "SimpleName": "MysticTheurgeRavenerHunterLevelSelection1.Description",
+      "ProcessTemplates": true,
+      "enGB": "You can select new known ravener hunter spells when you gain a new level in this class.",
+      "zhCN": "当你在此职业获得新等级时, 你可以选择新的狩魔猎手法术。"
+    },
+    {
+      "Key": "a8122d0ffecb4927b7dc4706709f254b",
+      "SimpleName": "MysticTheurgeRavenerHunterLevelSelection2.Description",
+      "ProcessTemplates": true,
+      "enGB": "You can select new known ravener hunter spells when you gain a new level in this class.",
+      "zhCN": "当你在此职业获得新等级时, 你可以选择新的狩魔猎手法术。"
+    },
+    {
+      "Key": "b5751a0a6f7c4eb08dd9242ec766ff77",
+      "SimpleName": "MysticTheurgeRavenerHunterLevelSelection3.Description",
+      "ProcessTemplates": true,
+      "enGB": "You can select new known ravener hunter spells when you gain a new level in this class.",
+      "zhCN": "当你在此职业获得新等级时, 你可以选择新的狩魔猎手法术。"
+    },
+    {
+      "Key": "e6ba450e686c4019974e4fb192cf8b69",
+      "SimpleName": "MysticTheurgeRavenerHunterLevelSelection4.Description",
+      "ProcessTemplates": true,
+      "enGB": "You can select new known ravener hunter spells when you gain a new level in this class.",
+      "zhCN": "当你在此职业获得新等级时, 你可以选择新的狩魔猎手法术。"
+    },
+    {
+      "Key": "63cee4ba8bad4a908593e224dfeb5201",
+      "SimpleName": "MysticTheurgeRavenerHunterLevelSelection5.Description",
+      "ProcessTemplates": true,
+      "enGB": "You can select new known ravener hunter spells when you gain a new level in this class.",
+      "zhCN": "当你在此职业获得新等级时, 你可以选择新的狩魔猎手法术。"
+    },
+    {
+      "Key": "25bc96769b554afe80dc4a62fe198fe2",
+      "SimpleName": "MysticTheurgeRavenerHunterLevelSelection6.Description",
+      "ProcessTemplates": true,
+      "enGB": "You can select new known ravener hunter spells when you gain a new level in this class.",
+      "zhCN": "当你在此职业获得新等级时, 你可以选择新的狩魔猎手法术。"
+    },
+    {
+      "Key": "0779291c70314a49a1647578db04cb36",
+      "SimpleName": "MysticTheurgeRavenerHunterLevelUp.Description",
+      "ProcessTemplates": true,
+      "enGB": "At 1st level, the mystic theurge selects a divine spellcasting class she belonged to before adding the prestige class. When a new mystic theurge level is gained, the character gains new spells per day and new spells known as if she had also gained a level in that spellcasting class.",
+      "zhCN": "1级起，秘术师可以从进阶该职业前的神术施法职业中选择一个。每次获得新的秘术师等级时，该角色可以如同也获得了该施法职业的等级一般，增加每日{g|Encyclopedia:Spell}法术{/g}量和新的所知法术。"
+    },
+    {
+      "Key": "a104d9e0c6ef48d2a17b1ea28893e765",
+      "SimpleName": "MysticTheurgeRavenerHunterProgression.Description",
+      "ProcessTemplates": true,
+      "enGB": "At 1st level, the mystic theurge selects a divine spellcasting class she belonged to before adding the prestige class. When a new mystic theurge level is gained, the character gains new spells per day and new spells known as if she had also gained a level in that spellcasting class.",
+      "zhCN": "1级起，秘术师可以从进阶该职业前的神术施法职业中选择一个。每次获得新的秘术师等级时，该角色可以如同也获得了该施法职业的等级一般，增加每日{g|Encyclopedia:Spell}法术{/g}量和新的所知法术。"
+    },
+    {
+      "Key": "bf1940956a5f43629ae6661d275cbb01",
+      "SimpleName": "MysticTheurgeSilverChampionLevelUp.Description",
+      "ProcessTemplates": true,
+      "enGB": "At 1st level, the mystic theurge selects a divine spellcasting class she belonged to before adding the prestige class. When a new mystic theurge level is gained, the character gains new spells per day and new spells known as if she had also gained a level in that spellcasting class.",
+      "zhCN": "1级起，秘术师可以从进阶该职业前的神术施法职业中选择一个。每次获得新的秘术师等级时，该角色可以如同也获得了该施法职业的等级一般，增加每日{g|Encyclopedia:Spell}法术{/g}量和新的所知法术。"
+    },
+    {
+      "Key": "10b314c9c6f24327894bc5a0ea9a96b5",
+      "SimpleName": "MysticTheurgeSilverChampionProgression.Description",
+      "ProcessTemplates": true,
+      "enGB": "At 1st level, the mystic theurge selects a divine spellcasting class she belonged to before adding the prestige class. When a new mystic theurge level is gained, the character gains new spells per day and new spells known as if she had also gained a level in that spellcasting class.",
+      "zhCN": "1级起，秘术师可以从进阶该职业前的神术施法职业中选择一个。每次获得新的秘术师等级时，该角色可以如同也获得了该施法职业的等级一般，增加每日{g|Encyclopedia:Spell}法术{/g}量和新的所知法术。"
+    },
+    {
+      "Key": "27cb5f9fbeb14935aebb2c30e986ed14",
+      "SimpleName": "SkulkingHunterArchetype.Description",
+      "ProcessTemplates": false,
+      "enGB": "Skulking hunters use their magic to lie in wait for their prey, ambushing them with a decisive, fatal strike.",
+      "zhCN": "潜伏猎手使用魔法的力量静待猎物，以发动决定性的致命突袭。"
+    },
+    {
+      "Key": "2c4c5c4cff504433af866518910ea009",
+      "SimpleName": "SkulkingHunterArchetype.Name",
+      "ProcessTemplates": false,
+      "enGB": "Skulking Hunter",
+      "zhCN": "潜伏猎手"
+    },
+    {
+      "Key": "da57240dd2854d7fbf9eed207124e531",
+      "SimpleName": "SkulkingHunterStudyTargetFeature.Description",
+      "ProcessTemplates": true,
+      "enGB": "At 1st level, the skulking hunter gains the slayer’s studied target class feature. She uses her hunter level as her effective slayer level to determine the effects of studied target, stacking with other sources of studied target. The skulking hunter shares the bonuses granted by her studied target ability with her animal companion, however these bonuses do not stack with other sources of studied target.",
+      "zhCN": "1级起，潜伏猎手获得杀手的职业特性“研究目标”。使用猎人等级作为有效杀手等级来决定研究目标的效果。并和其他来源的研究目标效果叠加。潜伏猎手会将其研究目标的效果共享给动物同伴，但是这种效果不能和其他来源的研究目标叠加。"
+    },
+    {
+      "Key": "106a6de684d9485f98bd6776ec8cb660",
+      "SimpleName": "SkulkingHunterStudyTargetFeature.Name",
+      "ProcessTemplates": false,
+      "enGB": "Studied Target",
+      "zhCN": "研究目标"
+    },
+    {
+      "Key": "f0f04419e5c64644a5c61cef155c3ee5",
+      "SimpleName": "SkulkingPetFeature.Description",
+      "ProcessTemplates": true,
+      "enGB": "The skulking hunter shares the bonuses granted by her studied target ability with her animal companion, however these bonuses do not stack with other sources of studied target.",
+      "zhCN": "潜伏猎手会将其研究目标的效果共享给动物同伴，但是这种效果不能和其他来源的研究目标叠加。"
+    },
+    {
+      "Key": "bd100c86c2894adab5c162bef61f705b",
+      "SimpleName": "SkulkingPetFeature.Name",
+      "ProcessTemplates": false,
+      "enGB": "Skulking Pet",
+      "zhCN": "潜伏战宠"
+    },
+    {
+      "Key": "d9be12bf54e446b18e8e9ee41d756f24",
+      "SimpleName": "SkulkingSpellsFeature.Description",
+      "ProcessTemplates": true,
+      "enGB": "A skulking hunter casts divine spells drawn from the druid, ranger, and sorcerer/wizard spell list. Only druid and sorcerer/wizard spells of 6th level and lower and ranger spells that belong to the enchantment, illusion, and transmutation schools are considered to be part of the skulking hunter’s spell list. If a spell appears on any combination of these spell lists, the skulking hunter uses the lower of the two spell levels listed for the spell. This ability modifies the standard spells and orisons abilities and replaces nature training.",
+      "zhCN": "潜伏猎手释放神术，法术来自德鲁伊、游侠和术士/法师的法术列表。潜伏猎手的法术列表只包括惑控、幻术、变化学派的，游侠法术以及不超过6级的德鲁伊及术士/法师法术。如果法术出现在多个法术列表中，潜伏猎手使用其中等级较低的法术位。这个能力会修改基础法术和祷言，并替换自然训练。"
+    },
+    {
+      "Key": "35ce6726053b46cea3fac2ba873d5ee3",
+      "SimpleName": "SkulkingSpellsFeature.Name",
+      "ProcessTemplates": false,
+      "enGB": "Skulking Spells",
+      "zhCN": "潜伏猎手法术"
     }
   ]
 }
