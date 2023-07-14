@@ -137,7 +137,6 @@
 + 且本工具可以实现在游戏启动中动态重载文本，来帮助进行所见即所得的汉化或修改汉化文件错误
 + 在[Release页面](https://github.com/nixgnot/WOTR-CONTENTS-MODS-CN/releases)可以找到最新QuickLocalization下载
 + 在[这里](https://github.com/nixgnot/WOTR-CONTENTS-MODS-CN/blob/main/QL%E4%BD%BF%E7%94%A8%E8%AF%B4%E6%98%8E.md)可以阅读QuickLocalization的详细使用说明
-+ 下载页面中的 QL懒人包为**自带了本Github所有QL汉化文件**的版本，但是不一定能时刻保持更新，请注意版本时间。同时，安装懒人包建议完全卸载之前的QL再重新安装。
 
 > 本MOD由@magicskysword制作，适用版本为WOTR 2.1<br>
 > 该版本为临时版本，不保证完善。但该MOD不涉及任何存档操作，不会对游戏本身造成任何影响。
@@ -145,6 +144,7 @@
 + UMM安装后，找到游戏文件夹下\Mods\QuickLocalization
 + 新建一个**Localization**文件夹和一个**TTTLocalization**文件夹，然后放入汉化文件。
 + 具体放入哪个文件夹和MOD本身本地化格式有关，此处我分享的文件已经分别放好了位置，请注意不要放错文件夹。
++ 建议直接使用**code**按钮中的**Download Zip**打包下载所有附件。如果你没有安装汉化文件对应的MOD，不会影响实际运行但是QL会出现警告。觉得碍眼可以手动删除多余的汉化文件。
 + 外挂汉化文件需为JSON格式，文件名不限（建议建立子文件夹并妥善命名，方便管理）
 
 目前已经完成的汉化：
