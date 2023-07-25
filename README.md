@@ -3057,9 +3057,8 @@ C:\Users\你的用户名\AppData\LocalLow\Owlcat Games\Pathfinder Wrath Of The R
   
 ------------------------------------------- 
 ### [KineticistElementsExpanded](https://github.com/SpencerMycek/KineticistExpandedElements)
-+ [贴吧汉化帖](https://tieba.baidu.com/p/8112471310)
 > *前置：* 无<br>
-> *中文：* **汉化**<br>
+> *中文：* **自带**<br>
 > *安装方式：* **UMM**<br>
 > *修改内容：* <br>
 > *新增内容：* 操念使元素<br>
