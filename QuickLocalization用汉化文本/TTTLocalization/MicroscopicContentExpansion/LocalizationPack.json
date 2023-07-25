@@ -2312,6 +2312,72 @@
       "esES": null
     },
     {
+      "Key": "513d7dfb9dc04a39ab6e348623691f5b",
+      "SimpleName": "DruidicConcoctions.Description",
+      "ProcessTemplates": true,
+      "enGB": "Druid can brew any potion without spending ingredients.",
+      "ruRU": "Друид может сварить любое зелье без использования ингредиентов.",
+      "deDE": null,
+      "frFR": null,
+      "zhCN": "德鲁伊可以不消耗原材料调制任何药水",
+      "esES": null
+    },
+    {
+      "Key": "63b15265b0904a0babad60f68dd3f0d2",
+      "SimpleName": "DruidicConcoctions.Name",
+      "ProcessTemplates": false,
+      "enGB": "Druidic Concoctions",
+      "ruRU": "Друидские отвары",
+      "deDE": null,
+      "frFR": null,
+      "zhCN": "德鲁伊调合",
+      "esES": null
+    },
+    {
+      "Key": "9bcc72fff85b4a4f9c860d447877e08e",
+      "SimpleName": "DruidicHerbalism.Description",
+      "ProcessTemplates": true,
+      "enGB": "A druid who chooses to learn druidic herbalism can create herbal concoctions that function like potions.\n\nAt 1st level druid receives Brew Potions feat, and can make any potion without spending ingredients.\n\nAt 7th level druid can craft herbal concoctions in no time. She can create a special concoction of any spell that she can cast, but to do so, she must expend a spell slot of the same level. These special concoctions do not cost her anything to create and function like extracts created by an alchemist with the infusion discovery.",
+      "ruRU": "Друид который выбирает изучение друидского травничества может создавать травяные отвары, которые действуют как зелья.\n\nНа 1 уровне друид получает черту Зельеварение и может сварить любое зелье без использования ингредиентов.\n\nНа 7 уровне друид может мгновенно создавать травяные отвары. Она может создать особую смесь любого заклинания, которое она может сотворить, но для этого она должна потратить ячейку заклинания того же уровня. Создание этих особых отваров ей ничего не стоит, и они действуют подобно экстрактам, созданным алхимиком с изобретением насыщение.",
+      "deDE": null,
+      "frFR": null,
+      "zhCN": "选择学习德鲁伊草药学的德鲁伊可以制造类似药剂的草药混合物。\n\n1级起德鲁伊获得调制药水专长，并且可以不消耗材料制造任何药水。\n\n7级起德鲁伊制造草药混合物不需要消耗时间。她可以制造用任何包含她可以释放的法术的草药，但是如此做会消耗到同级法术位。草药混合物不需要消耗任何原材料并且如同拥有了注入科研发现的炼金提炼物一般作用。",
+      "esES": null
+    },
+    {
+      "Key": "553882d34406435792101948aac4095b",
+      "SimpleName": "DruidicHerbalism.Name",
+      "ProcessTemplates": false,
+      "enGB": "Druidic Herbalism",
+      "ruRU": "Друидское травничество",
+      "deDE": null,
+      "frFR": null,
+      "zhCN": "德鲁伊草药学",
+      "esES": null
+    },
+    {
+      "Key": "9249ed3efee1453f87bb90a4ea473277",
+      "SimpleName": "DruidicHerbalismInfusion.Description",
+      "ProcessTemplates": true,
+      "enGB": "At 7th level druid can craft herbal concoctions in no time. She can create a special concoction of any spell that she can cast, but to do so, she must expend a spell slot of the same level. These special concoctions do not cost her anything to create and function like extracts created by an alchemist with the infusion discovery.",
+      "ruRU": "На 7 уровне друид может мгновенно создавать травяные отвары. Она может создать особую смесь любого заклинания, которое она может сотворить, но для этого она должна потратить ячейку заклинания того же уровня. Создание этих особых отваров ей ничего не стоит, и они действуют подобно экстрактам, созданным алхимиком с изобретением насыщение.",
+      "deDE": null,
+      "frFR": null,
+      "zhCN": "在7级时，德鲁伊可以不消耗时间制造任何一份草药混合物。她可以制造一份包含有任何她能施展的法术的草药，但是这样做也会花费她对应等级的法术位。制造这些特殊的混合物没有任何代价，并且如同拥有注入科研发现的炼金提炼物一样运作。",
+      "esES": null
+    },
+    {
+      "Key": "7a982e02fc3743ee8dd3f959cbaa21d1",
+      "SimpleName": "DruidicHerbalismInfusion.Name",
+      "ProcessTemplates": false,
+      "enGB": "Druidic Herbalism - Infusion",
+      "ruRU": "Друидское Травничество - Насыщение",
+      "deDE": null,
+      "frFR": null,
+      "zhCN": "德鲁伊草药学 - 注入",
+      "esES": null
+    },
+    {
       "Key": "928835c5ff154fc98821f9fd8eed8bdd",
       "SimpleName": "FlickeringStepAbility.Description",
       "ProcessTemplates": true,
