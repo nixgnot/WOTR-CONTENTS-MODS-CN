@@ -52,3 +52,5 @@ QL详细使用说明请参阅https://github.com/nixgnot/WOTR-CONTENTS-MODS-CN/bl
 2023/7/3 部分汉化修复，更新ExpandedContent汉化（暂未测试！）
 ---------------------------------------------------------
 2023/7/14 更新ExpandedContent汉化（暂未测试！），修改语言包结构（建议完全卸载旧版QL后重新安装），加入a234106261修复的TTT-Rework汉化修正
+---------------------------------------------------------
+2023/7/25 更新Microscopic Content Expansion 汉化
