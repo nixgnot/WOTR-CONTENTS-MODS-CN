@@ -1937,7 +1937,7 @@
    <tr><td rowspan="2">DreadKnight 恐惧骑士</td>
            <td>Conqueror 征服者</td></tr> 
            <tr><td>Claw of the False Wyrm 虚龙之爪</td></tr> 
-   <tr><td rowspan="19">变体</td>
+   <tr><td rowspan="20">变体</td>
        <td rowspan="2">审判官</td>
            <td>Living Scripture 活圣经</td></tr> 
 	   <tr><td>Ravener Hunter 狩魔猎手</td></tr> 
@@ -1996,7 +1996,7 @@
        <td>神祗</td>
        <td><b>海量新神祗</b></td></tr>
    <tr><td>领域</td>
-       <td>Scalykind 鳞状</td><br>Plant 植物领域修改为桌面规则</tr>
+       <td>Scalykind 鳞状<br>Plant 植物领域修改为桌面规则</td></tr>
    <tr><td>子领域</td>
        <td>Agathion 阿加西翁、 Archon 亚空, Blood 血液、Caves 洞穴、Curse 诅咒、 Demon, Dragon 龙、Ferocity 凶猛、Ice 冰、Lust 欲望、Psychopomp 招魂、Rage 狂暴、 Resolve 决心、Restoration 恢复、Revelation 启示、Revolution 革命、Rivers 河流、Stars 星空、Storm 风暴、Thievery 盗窃、Undead 不死、Whimsy 滑稽、Wind 风<br>Growth 生长、Fist 铁拳、Loyalty 忠诚（暂未汉化）</td></tr>
    <tr><td colspan="2" rowspan="29">法术<br><i>参阅PF文档</i></td>
