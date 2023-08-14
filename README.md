@@ -70,6 +70,9 @@
 | [Psionics](#Psionics) | 灵能MOD | QL汉化 | :heavy_check_mark: | :star::star: | :file_folder::file_folder: |||
 | [KineticArchetypes](#KineticArchetypes) | 念力变体 | 自带 | :heavy_check_mark: | :star::star: | :file_folder: |||
 | [MinosPlayerRace](#MinosPlayerRace) | 牛头人种族 | QL汉化 | :heavy_check_mark: | :star: | :file_folder: |||
+| [WoTRHolyVindicator](#WoTRHolyVindicator) | 神圣辩护者 | 暂无 | :heavy_check_mark: | :star::star: | :file_folder: |||
+| [PrestigePlus](#PrestigePlus) | 进阶职业扩展 | 暂无 | :heavy_check_mark: | :star::star: | :file_folder: |||
+| [TransfiguredCasterArchetypes](#TransfiguredCasterArchetypes) | 施法者变体 | 暂无 | :heavy_check_mark: | :star::star: | :file_folder: |||
 
 
 备注
@@ -3023,7 +3026,7 @@ C:\Users\你的用户名\AppData\LocalLow\Owlcat Games\Pathfinder Wrath Of The R
 
 <tr><td rowspan="1">变体</td>
     <td>双持战士<br>Two-Weapon Warrior</td>
-        <td>专精双持的展示变体</td></tr>
+        <td>专精双持的战士变体</td></tr>
 <tr><td rowspan="2">职业特性</td>    
     <td>博学士秘闻 - 圣武士法术</td>
         <td><b>房规原创</b><br>博学士可以学习圣武士法术</td></tr>
@@ -3474,12 +3477,56 @@ C:\Users\你的用户名\AppData\LocalLow\Owlcat Games\Pathfinder Wrath Of The R
 + [贴吧发布页](https://tieba.baidu.com/p/8467346017)
 + 详细内容和反馈问题请去贴吧发布页，也提供了网盘下载
 
-
 ### [MinosPlayerRace](https://www.nexusmods.com/pathfinderwrathoftherighteous/mods/517)
 > *前置：* TabletopTweaks-Core、TabletopTweaks-Base<br>
 > *中文：* **QL汉化**<br>
 > *安装方式：* **UMM**<br>
 > *新增内容：* 牛头人种族<br>
+<table>
+ <tr><th colspan="3">新增内容列表<br></th></tr> 
+  <tr><td rowspan="1">种族</i></td>
+       <td colspan="2">牛头人 Minos</td>
+  </table>  
+
+### [WoTRHolyVindicator](https://github.com/SpencerMycek/WoTR-HolyVindicator)
+> *前置：* 无<br>
+> *中文：* **暂无**<br>
+> *安装方式：* **UMM**<br>
+> *新增内容：* 神圣辩护者<br>
+<table>
+ <tr><th colspan="3">新增内容列表<br></th></tr> 
+  <tr><td rowspan="1">进阶职业</i></td>
+       <td colspan="2">神圣辩护者 Holy Vindicator</td>
+</table>  
+
+### [PrestigePlus](https://github.com/YLMstring/PrestigePlus)
+> *前置：* 影舞者专长需要MicroscopicContentExpansion和TabletopTweaks-Core<br>
+> *中文：* **暂无**<br>
+> *安装方式：* **UMM**<br>
+> *新增内容：* 进阶职业<br>
+<table>
+ <tr><th colspan="3">新增内容列表<br></th></tr> 
+  <tr><td rowspan="3">进阶职业</i></td>
+       <td colspan="2">大骑士 Chevalier</td></tr>
+       <tr><td colspan="2">后继者远征骑士 Inheritor’s Crusader</td></tr>
+       <tr><td colspan="2">影舞者 Shadowdancer</td></tr>
+  <tr><td rowspan="1">游荡者天赋</i></td>
+       <td>防御翻滚 Defensive Roll </td><td>房规改动，加入类似屹立不倒的效果</td></tr>
+</table>  
+
+### [TransfiguredCasterArchetypes](https://github.com/AdamMeloy/TransfiguredCasterArchetypes)
+> *前置：* 无<br>
+> *中文：* **暂无**<br>
+> *安装方式：* **UMM**<br>
+> *新增内容：* 变体<br>
+<table>
+ <tr><th colspan="3">新增内容列表<br></th></tr> 
+  <tr><td rowspan="1">变体</i></td>
+       <td rowspan="1">审判官</td>
+	       <td>怀言者 Living Grimoire</td>
+</table>  
+
+
 
 ### 功能MOD索引
 + [ToyBox](https://www.nexusmods.com/pathfinderwrathoftherighteous/mods/8) 应该不用介绍？
