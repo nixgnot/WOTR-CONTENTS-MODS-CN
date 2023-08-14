@@ -1943,12 +1943,13 @@
 	   <tr><td>Ravener Hunter 狩魔猎手</td></tr> 
        <tr><td rowspan="1">战斗祭司</td>
            <td>Mantis Zealot 螳螂狂徒</td></tr> 
-       <tr><td rowspan="5">德鲁伊</td>
+       <tr><td rowspan="6">德鲁伊</td>
            <td>Mooncaller 唤月者</td></tr> 
            <tr><td>Draconic Druid 龙之德鲁伊</td></tr> 
            <tr><td>Storm Druid 风暴德鲁伊</td></tr> 
            <tr><td>Urban Druid 文明德鲁伊</td></tr> 
            <tr><td>Bear Totem Shaman 熊图腾萨满</td></tr> 
+	   <tr><td>Treesinger 树之歌者（暂未汉化）</td></tr> 
        <tr><td rowspan="2">圣骑士</td>
            <td>Temple Champion 圣殿冠军</td></tr> 
            <tr><td>Silver Champion 银冠勇士</td></tr> 
@@ -1995,9 +1996,9 @@
        <td>神祗</td>
        <td><b>海量新神祗</b></td></tr>
    <tr><td>领域</td>
-       <td>Scalykind 鳞状</td></tr>
+       <td>Scalykind 鳞状</td><br>Plant 植物领域修改为桌面规则</tr>
    <tr><td>子领域</td>
-       <td>Agathion 阿加西翁、 Archon 亚空, Blood 血液、Caves 洞穴、Curse 诅咒、 Demon, Dragon 龙、Ferocity 凶猛、Ice 冰、Lust 欲望、Psychopomp 招魂、Rage 狂暴、 Resolve 决心、Restoration 恢复、Revelation 启示、Revolution 革命、Rivers 河流、Stars 星空、Storm 风暴、Thievery 盗窃、Undead 不死、Whimsy 滑稽、Wind 风</td></tr>
+       <td>Agathion 阿加西翁、 Archon 亚空, Blood 血液、Caves 洞穴、Curse 诅咒、 Demon, Dragon 龙、Ferocity 凶猛、Ice 冰、Lust 欲望、Psychopomp 招魂、Rage 狂暴、 Resolve 决心、Restoration 恢复、Revelation 启示、Revolution 革命、Rivers 河流、Stars 星空、Storm 风暴、Thievery 盗窃、Undead 不死、Whimsy 滑稽、Wind 风<br>Growth 生长、Fist 铁拳、Loyalty 忠诚（暂未汉化）</td></tr>
    <tr><td colspan="2" rowspan="29">法术<br><i>参阅PF文档</i></td>
        <td>Hydraulic push 水流冲击</td></tr>
    <tr><td>Slipstream 滑流</td></tr>
@@ -2934,9 +2935,9 @@ C:\Users\你的用户名\AppData\LocalLow\Owlcat Games\Pathfinder Wrath Of The R
        <td>选项</td>
        <td>描述</td>
        <td>房规</td></tr>
-<tr><td rowspan="1">职业<br>Archetype</td>
+<tr><td rowspan="1">职业<br>Class</td>
 	<td>邪术师<br>Warlock</td>
-	<td>来自第三方内容，暂无汉化</td>
+	<td>来自第三方内容，含变体。暂无汉化</td>
 	<td>:x:</td></tr>
 <tr><td rowspan="4">变体<br>Archetype</td>
 	<td>苦修者<br>Flagellant</td>
