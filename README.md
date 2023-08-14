@@ -2934,6 +2934,10 @@ C:\Users\你的用户名\AppData\LocalLow\Owlcat Games\Pathfinder Wrath Of The R
        <td>选项</td>
        <td>描述</td>
        <td>房规</td></tr>
+<tr><td rowspan="1">职业<br>Archetype</td>
+	<td>邪术师<br>Warlock</td>
+	<td>来自第三方内容，暂无汉化</td>
+	<td>:x:</td></tr>
 <tr><td rowspan="4">变体<br>Archetype</td>
 	<td>苦修者<br>Flagellant</td>
 		<td>牧师变体，对自己造成伤害来获得CL或DC加成，适合施法者构建</td>
