@@ -68,7 +68,7 @@
 | [EnduringRework](#EnduringRework) | 持久重置 | QL汉化 | :heavy_check_mark: | :star: | :file_folder: |🛠️||
 | [CraftMaster](#CraftMaster) | 造物MOD | 自带 | :heavy_check_mark: | :star::star: | :file_folder::file_folder: |||
 | [Psionics](#Psionics) | 灵能MOD | QL汉化 | :heavy_check_mark: | :star::star: | :file_folder::file_folder: |||
-| [KineticArchetypes](#KineticArchetypes) | 念力变体 | 自带 | :heavy_check_mark: | :star::star: | :file_folder: |||
+| [KineticArchetypes](#KineticArchetypes) | 念力变体 | 自带 | :heavy_check_mark: | :star::star::star: | :file_folder: |||
 | [MinosPlayerRace](#MinosPlayerRace) | 牛头人种族 | QL汉化 | :heavy_check_mark: | :star: | :file_folder: |||
 | [WoTRHolyVindicator](#WoTRHolyVindicator) | 神圣辩护者 | 暂无 | :heavy_check_mark: | :star::star: | :file_folder: |||
 | [PrestigePlus](#PrestigePlus) | 进阶职业扩展 | 暂无 | :heavy_check_mark: | :star::star: | :file_folder: |||
@@ -3473,9 +3473,21 @@ C:\Users\你的用户名\AppData\LocalLow\Owlcat Games\Pathfinder Wrath Of The R
 > *中文：* **自带中文**<br>
 > *安装方式：* **UMM**<br>
 > *新增内容：* 操念相关<br>
-+ 国产MOD，目前增加了操念变体并修正了一些BUG，还在进一步开发
++ 国产MOD，增加了操念类变体并修正了一些BUG，还在进一步开发
 + [贴吧发布页](https://tieba.baidu.com/p/8467346017)
-+ 详细内容和反馈问题请去贴吧发布页，也提供了网盘下载  
++ 详细内容和反馈问题请去贴吧发布页，也提供了网盘下载
+变体非常有（强）趣（力），推荐尝试！
+<table>
+ <tr><th colspan="3">新增内容列表<br></th></tr> 
+  <tr><td rowspan="1">变体</i></td>
+       <td rowspan="4">操念使</td>
+	       <td>斗念使</td></tr>
+	   <tr><td>薪火驭者</td></tr>
+	   <tr><td>念枪</td></tr>
+	   <tr><td>狂轰使</td></tr>
+      <tr><td rowspan="1">战士</td>
+	   <td>秘刃</td></tr>
+</table> 
 
 -------------------------------------------   
 ### [MinosPlayerRace](https://www.nexusmods.com/pathfinderwrathoftherighteous/mods/517)
