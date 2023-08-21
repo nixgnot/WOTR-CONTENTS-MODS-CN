@@ -3479,7 +3479,7 @@ C:\Users\你的用户名\AppData\LocalLow\Owlcat Games\Pathfinder Wrath Of The R
 变体非常有（强）趣（力），推荐尝试！
 <table>
  <tr><th colspan="3">新增内容列表<br></th></tr> 
-  <tr><td rowspan="1">变体</i></td>
+  <tr><td rowspan="5">变体</i></td>
        <td rowspan="4">操念使</td>
 	       <td>斗念使</td></tr>
 	   <tr><td>薪火驭者</td></tr>
