@@ -1940,7 +1940,7 @@
    <tr><td rowspan="2">DreadKnight 恐惧骑士</td>
            <td>Conqueror 征服者</td></tr> 
            <tr><td>Claw of the False Wyrm 虚龙之爪</td></tr> 
-   <tr><td rowspan="20">变体</td>
+   <tr><td rowspan="21">变体</td>
        <td rowspan="2">审判官</td>
            <td>Living Scripture 活圣经</td></tr> 
 	   <tr><td>Ravener Hunter 狩魔猎手</td></tr> 
@@ -1953,6 +1953,8 @@
            <tr><td>Urban Druid 文明德鲁伊</td></tr> 
            <tr><td>Bear Totem Shaman 熊图腾萨满</td></tr> 
 	   <tr><td>Treesinger 树之歌者（暂未汉化）</td></tr> 
+       <tr><td rowspan="1">牧师</td>
+           <td>Divine Scourge 神圣鞭笞者（暂未汉化）</td></tr> 
        <tr><td rowspan="2">圣骑士</td>
            <td>Temple Champion 圣殿冠军</td></tr> 
            <tr><td>Silver Champion 银冠勇士</td></tr> 
@@ -3521,10 +3523,11 @@ C:\Users\你的用户名\AppData\LocalLow\Owlcat Games\Pathfinder Wrath Of The R
 > *新增内容：* 进阶职业<br>
 <table>
  <tr><th colspan="3">新增内容列表<br></th></tr> 
-  <tr><td rowspan="3">进阶职业</i></td>
+  <tr><td rowspan="4">进阶职业</i></td>
        <td colspan="2">大骑士 Chevalier</td></tr>
        <tr><td colspan="2">后继者远征骑士 Inheritor’s Crusader</td></tr>
        <tr><td colspan="2">影舞者 Shadowdancer</td></tr>
+       <tr><td colspan="2">墓穴使徒 Agent of the Grave</td></tr>
   <tr><td rowspan="1">游荡者天赋</i></td>
        <td>防御翻滚 Defensive Roll </td><td>房规改动，加入类似屹立不倒的效果</td></tr>
 </table>    
