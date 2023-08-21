@@ -169,7 +169,7 @@
 
 -------------------------------------------
 ## MOD列表
-**若无特别说明，则MOD在2.0.7版本测试通过**
+**若无特别说明，则MOD在2.1.0版本测试通过**
 -------------------------------------------
 ### [TabletopTweaks-Base](https://github.com/Vek17/TabletopTweaks-Base)
 > *前置：* TabletopTweaks-Core<br>
