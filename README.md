@@ -71,7 +71,7 @@
 | [KineticArchetypes](#KineticArchetypes) | 念力变体 | 自带 | :heavy_check_mark: | :star::star::star: | :file_folder: |||
 | [MinosPlayerRace](#MinosPlayerRace) | 牛头人种族 | QL汉化 | :heavy_check_mark: | :star: | :file_folder: |||
 | [WoTRHolyVindicator](#WoTRHolyVindicator) | 神圣辩护者 | 暂无 | :heavy_check_mark: | :star::star: | :file_folder: |||
-| [PrestigePlus](#PrestigePlus) | 进阶职业扩展 | 暂无 | :heavy_check_mark: | :star::star: | :file_folder: |||
+| [PrestigePlus](#PrestigePlus) | 进阶职业扩展 | 自带 | :heavy_check_mark: | :star::star: | :file_folder: |||
 | [TransfiguredCasterArchetypes](#TransfiguredCasterArchetypes) | 施法者变体 | 暂无 | :heavy_check_mark: | :star::star: | :file_folder: |||
 
 
@@ -3517,17 +3517,18 @@ C:\Users\你的用户名\AppData\LocalLow\Owlcat Games\Pathfinder Wrath Of The R
 
 -------------------------------------------   
 ### [PrestigePlus](https://github.com/YLMstring/PrestigePlus)
-> *前置：* 影舞者专长需要MicroscopicContentExpansion和TabletopTweaks-Core<br>
-> *中文：* **暂无**<br>
+> *前置：* 影舞者专长需要MicroscopicContentExpansion和TabletopTweaks-Core，戍乡人专长需要TabletopTweaks-Base和ExpandedContent,<br>
+> *中文：* **自带中文**<br>
 > *安装方式：* **UMM**<br>
 > *新增内容：* 进阶职业<br>
 <table>
  <tr><th colspan="3">新增内容列表<br></th></tr> 
-  <tr><td rowspan="4">进阶职业</i></td>
+  <tr><td rowspan="5">进阶职业</i></td>
        <td colspan="2">大骑士 Chevalier</td></tr>
        <tr><td colspan="2">后继者远征骑士 Inheritor’s Crusader</td></tr>
        <tr><td colspan="2">影舞者 Shadowdancer</td></tr>
        <tr><td colspan="2">墓穴使徒 Agent of the Grave</td></tr>
+       <tr><td colspan="2">戍乡人 Hinterlander</td></tr>
   <tr><td rowspan="1">游荡者天赋</i></td>
        <td>防御翻滚 Defensive Roll </td><td>房规改动，加入类似屹立不倒的效果</td></tr>
 </table>    
