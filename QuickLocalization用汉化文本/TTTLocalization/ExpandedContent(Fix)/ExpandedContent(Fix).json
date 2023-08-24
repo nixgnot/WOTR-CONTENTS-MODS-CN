@@ -191,6 +191,34 @@
       "zhCN": "召唤高等灰熊"
     },
     {
+      "Key": "f8965a40cdce4b03840f3403362aa277",
+      "SimpleNameDis": "屎山标记",
+      "ProcessTemplates": false,
+      "enGB": "Sapling Treant",
+      "zhCN": "树人幼苗"
+    }, 
+    {
+      "Key": "6eafdf9201084d4984570d387657970a",
+      "SimpleNameDis": "屎山标记",
+      "ProcessTemplates": false,
+      "enGB": "Advanced Wood Golum",
+      "zhCN": "高级木傀儡"
+    },
+    {
+      "Key": "9fec9602c34c4fffa07d78e1f46219e4",
+      "SimpleNameDis": "屎山标记",
+      "ProcessTemplates": false,
+      "enGB": "Advanced Shambling Mound",
+      "zhCN": "高级爬蔓怪"
+    },
+    {
+      "Key": "7654a5eb9541443da42ae4c9eabccf8d",
+      "SimpleNameDis": "屎山标记",
+      "ProcessTemplates": false,
+      "enGB": "Crawling Mound",
+      "zhCN": "爬蔓怪"
+    },
+    {
       "Key": "72649485145f43a1b53eb14219424047",
       "SimpleName": "$BackgroundArchdukeOfCheliax.DescriptionShort",
       "ProcessTemplates": false,
@@ -20241,8 +20269,43 @@
       "Key": "0a156e37bfbc47f49fe9d94dba648df9",
       "SimpleName": "PlantShapeIIAbility.Name",
       "ProcessTemplates": false,
-      "enGB": "Plant Shape II",
-      "zhCN": "植物形态 II"
+      "enGB": "Plant Shape II(Shambling Mound)",
+      "zhCN": "植物形态 II（蔓生怪）"
+    },
+    {
+      "Key": "c547e46a5a774b1e8da1c97ed7350fc4",
+      "SimpleName": "PlantShapeIIParentAbility.Description",
+      "ProcessTemplates": true,
+      "enGB": "You become a large shambling mound or a huge quickwood.",
+      "zhCN": "你可以变形成一个大型蔓生怪或者巨型快木"
+    },
+    {
+      "Key": "e54269d78596451182110bfbac430f35",
+      "SimpleName": "PlantShapeIIQuickwoodAbility.Description",
+      "ProcessTemplates": true,
+      "enGB": "You become a huge quickwood. You gain a +4 size bonus to your Strength, a +2 size bonus to your Constitution, +4 natural armor bonus, resist fire 20, resist electricity 20, and spell resistance equal to 10 + half your caster level. Your movement speed is reduced by 10 feet. You also have one 2d6 bite attack and two 1d4 root (tentacle) attacks.",
+      "zhCN": "你变成了巨型快木。你的力量获得+4体型加值，体质获得+2体型加值，获得+4天生防御加值，抗火20，抗电20，法术抗力等于10+你CL的一半。你的移动速度减少10尺。你也会获得一次2d6啮咬攻击和两次1d4根须（触手）攻击。"
+    },
+    {
+      "Key": "7fb9f9b2bfb0406db24eba5deb780eda",
+      "SimpleName": "PlantShapeIIQuickwoodAbility.Name",
+      "ProcessTemplates": false,
+      "enGB": "Plant Shape II (Quickwood)",
+      "zhCN": "植物形态 II（快木）"
+    },
+    {
+      "Key": "ca4606ac6b6d44f0a511fcc8db268c50",
+      "SimpleName": "PlantShapeIIQuickwoodBuff.Description",
+      "ProcessTemplates": true,
+      "enGB": "You become a huge quickwood. You gain a +4 size bonus to your Strength, a +2 size bonus to your Constitution, +4 natural armor bonus, resist fire 20, resist electricity 20, and spell resistance equal to 10 + half your caster level. Your movement speed is reduced by 10 feet. You also have one 2d6 bite attack and two 1d4 root (tentacle) attacks.",
+      "zhCN": "你变成了巨型快木。你的力量获得+4体型加值，体质获得+2体型加值，获得+4天生防御加值，抗火20，抗电20，法术抗力等于10+你CL的一半。你的移动速度减少10尺。你也会获得一次2d6啮咬攻击和两次1d4根须（触手）攻击。"
+    },
+    {
+      "Key": "816242ba2c424ec7bb23b0a134bdf62f",
+      "SimpleName": "PlantShapeIIQuickwoodBuff.Name",
+      "ProcessTemplates": false,
+      "enGB": "Plant Shape (Quickwood)",
+      "zhCN": "植物形态（快木）"
     },
     {
       "Key": "4c5b838e83a44f23aa03f623d638e6dd",
@@ -20841,6 +20904,475 @@
       "ProcessTemplates": false,
       "enGB": "Skulking Spells",
       "zhCN": "潜伏猎手法术"
+    },
+    {
+      "Key": "fed965a6b4cf49e6a70e230fa0c27ea6",
+      "SimpleName": "CompanionCrawlingMoundConstrictFeature.Description",
+      "ProcessTemplates": true,
+      "enGB": "Whenever the crawling mound's vines coil successfully grapples a creature, they take 1d6 damage. Everyround the grappled creature fails to escape the grapple they take 1d6 damage.",
+      "zhCN": "爬蔓怪的藤蔓攻击成功擒抱生物时，其受到1d6伤害。被擒抱的生物如果没有成功逃脱擒抱，每一轮受到1d6伤害。"
+    },
+    {
+      "Key": "5a780b78fdd5432688e9149394c19d53",
+      "SimpleName": "CompanionCrawlingMoundConstrictFeature.Name",
+      "ProcessTemplates": false,
+      "enGB": "Constrict",
+      "zhCN": "纠缠"
+    },
+    {
+      "Key": "e2dcbe09fb7e44ba9cce8ff36a91bb0a",
+      "SimpleName": "CompanionCrawlingMoundFeature.Description",
+      "ProcessTemplates": true,
+      "enGB": "Size: Medium\nSpeed: 20 ft.\nAC: +6 natural armor\nAttack: slam (1d4) + grab\nAbility scores: Str 13, Dex 17, Con 13, Int 1, Wis 12, Cha 2\nAt 4th level size becomes Large, Str +8, Dex -2, Con +4, +1 natural armor, iterative attacks, and grab now deals 1d6 damage on successful grapple and each round.\nThis animal companion can't be used as a mount.",
+      "zhCN": "体型：中型\n速度：20 尺\nAC：+6 天生防御\n攻击： 挥击 (1d4) + 攫抓\n属性：力量 13，敏捷 17，体质 13，智力 1，感知 12，魅力 2\n4级起体型变为大型，力量 +8，敏捷 -2，体质 +4，+1 天生防御，更多攻击次数，攫抓在成功时和之后每一轮造成1d6伤害。\n这个动物伙伴不能用作坐骑。"
+    },
+    {
+      "Key": "dded5b19fe914f9bbaf66e3d147f8a31",
+      "SimpleName": "CompanionCrawlingMoundFeature.Name",
+      "ProcessTemplates": false,
+      "enGB": "Animal Companion — Crawling Mound",
+      "zhCN": "动物伙伴（爬蔓怪）"
+    },
+    {
+      "Key": "e87b6024fdf14082aac5ccd0f5fe72a8",
+      "SimpleName": "CompanionCrawlingMoundGrabActivatableAbility.Description",
+      "ProcessTemplates": true,
+      "enGB": "A crawling mound's vines coil around any creature it hits with a slam attack. The crawling mound attempts a grapple maneuver check against its target, on a successful check the foe is grappled. \nGrappled characters cannot move, and take a -2 penalty on all attack rolls and a -4 penalty to Dexterity. Grappled characters attempt to escape every round by making a successful combat maneuver, Strength, Athletics, or Mobility check. The DC of this check is the crawling mound's CMD.",
+      "zhCN": "爬蔓怪的藤蔓会缠绕它挥击击中的任何生物。爬蔓怪会对攻击目标尝试一次擒抱战技检定，检定成功后，目标陷入“擒抱”状态。\n被擒抱的角色无法移动，所有攻击检定受到-2{g|Encyclopedia:Penalty}减值{/g}，{g|Encyclopedia:Dexterity}敏捷{/g}受到-4减值。被擒抱的角色每{g|Encyclopedia:Combat_Round}轮{/g}可通过成功的战技、力量、{g|Encyclopedia:Athletics}运动{/g}或{g|Encyclopedia:Mobility}灵巧检定{/g}挣脱擒抱。此检定的{g|Encyclopedia:DC}难度等级{/g}等于爬蔓怪的{g|Encyclopedia:CMD}战技防御{/g}值。"
+    },
+    {
+      "Key": "5176d5c4ca3e48b4b9cbe227ca8ad826",
+      "SimpleName": "CompanionCrawlingMoundGrabFeature.Description",
+      "ProcessTemplates": true,
+      "enGB": "A crawling mound's vines coil around any creature it hits with a slam attack. The crawling mound attempts a grapple maneuver check against its target, on a successful check the foe is grappled. \nGrappled characters cannot move, and take a -2 penalty on all attack rolls and a -4 penalty to Dexterity. Grappled characters attempt to escape every round by making a successful combat maneuver, Strength, Athletics, or Mobility check. The DC of this check is the crawling mound's CMD.",
+      "zhCN": "爬蔓怪的藤蔓会缠绕它挥击击中的任何生物。爬蔓怪会对攻击目标尝试一次擒抱战技检定，检定成功后，目标陷入“擒抱”状态。\n被擒抱的角色无法移动，所有攻击检定受到-2{g|Encyclopedia:Penalty}减值{/g}，{g|Encyclopedia:Dexterity}敏捷{/g}受到-4减值。被擒抱的角色每{g|Encyclopedia:Combat_Round}轮{/g}可通过成功的战技、力量、{g|Encyclopedia:Athletics}运动{/g}或{g|Encyclopedia:Mobility}灵巧检定{/g}挣脱擒抱。此检定的{g|Encyclopedia:DC}难度等级{/g}等于爬蔓怪的{g|Encyclopedia:CMD}战技防御{/g}值。"
+    },
+    {
+      "Key": "57454e0473084edfab063a4065f62820",
+      "SimpleName": "CompanionCrawlingMoundGrappleBuff.Description",
+      "ProcessTemplates": true,
+      "enGB": "A crawling mound's vines coil around any creature it hits with a slam attack. The crawling mound attempts a grapple maneuver check against its target, on a successful check the foe is grappled. \nGrappled characters cannot move, and take a -2 penalty on all attack rolls and a -4 penalty to Dexterity. Grappled characters attempt to escape every round by making a successful combat maneuver, Strength, Athletics, or Mobility check. The DC of this check is the crawling mound's CMD.",
+      "zhCN": "爬蔓怪的藤蔓会缠绕它挥击击中的任何生物。爬蔓怪会对攻击目标尝试一次擒抱战技检定，检定成功后，目标陷入“擒抱”状态。\n被擒抱的角色无法移动，所有攻击检定受到-2{g|Encyclopedia:Penalty}减值{/g}，{g|Encyclopedia:Dexterity}敏捷{/g}受到-4减值。被擒抱的角色每{g|Encyclopedia:Combat_Round}轮{/g}可通过成功的战技、力量、{g|Encyclopedia:Athletics}运动{/g}或{g|Encyclopedia:Mobility}灵巧检定{/g}挣脱擒抱。此检定的{g|Encyclopedia:DC}难度等级{/g}等于爬蔓怪的{g|Encyclopedia:CMD}战技防御{/g}值。"
+    },
+    {
+      "Key": "8609e03984ad408aadff5be97db5fbe2",
+      "SimpleName": "CompanionCrawlingMoundGrappleTargetBuff.Description",
+      "ProcessTemplates": true,
+      "enGB": "A crawling mound's vines coil around any creature it hits with a slam attack. The crawling mound attempts a grapple maneuver check against its target, on a successful check the foe is grappled. \nGrappled characters cannot move, and take a -2 penalty on all attack rolls and a -4 penalty to Dexterity. Grappled characters attempt to escape every round by making a successful combat maneuver, Strength, Athletics, or Mobility check. The DC of this check is the crawling mound's CMD.",
+      "zhCN": "爬蔓怪的藤蔓会缠绕它挥击击中的任何生物。爬蔓怪会对攻击目标尝试一次擒抱战技检定，检定成功后，目标陷入“擒抱”状态。\n被擒抱的角色无法移动，所有攻击检定受到-2{g|Encyclopedia:Penalty}减值{/g}，{g|Encyclopedia:Dexterity}敏捷{/g}受到-4减值。被擒抱的角色每{g|Encyclopedia:Combat_Round}轮{/g}可通过成功的战技、力量、{g|Encyclopedia:Athletics}运动{/g}或{g|Encyclopedia:Mobility}灵巧检定{/g}挣脱擒抱。此检定的{g|Encyclopedia:DC}难度等级{/g}等于爬蔓怪的{g|Encyclopedia:CMD}战技防御{/g}值。"
+    },
+    {
+      "Key": "5288ac6cc05d41a8b63785c096d9098f",
+      "SimpleName": "CompanionCrawlingMoundGrappleTargetBuff.Name",
+      "ProcessTemplates": false,
+      "enGB": "Constricting Vines",
+      "zhCN": "Constricting Vines"
+    },
+    {
+      "Key": "41266817a6ed46c4bda6bad87158ec35",
+      "SimpleName": "CompanionCrawlingMoundGrappleTargetBuffUpgraded.Description",
+      "ProcessTemplates": true,
+      "enGB": "A crawling mound's vines coil around any creature it hits with a slam attack. The crawling mound attempts a grapple maneuver check against its target, on a successful check the foe is grappled. \nGrappled characters cannot move, and take a -2 penalty on all attack rolls and a -4 penalty to Dexterity. Grappled characters attempt to escape every round by making a successful combat maneuver, Strength, Athletics, or Mobility check. The DC of this check is the crawling mound's CMD. \nWhen a creature is successfully grappled or spends a whole round failing to escape the grapple, they are dealt 1d6 damage.",
+      "zhCN": "爬蔓怪的藤蔓会缠绕它挥击击中的任何生物。爬蔓怪会对攻击目标尝试一次擒抱战技检定，检定成功后，目标陷入“擒抱”状态。\n被擒抱的角色无法移动，所有攻击检定受到-2{g|Encyclopedia:Penalty}减值{/g}，{g|Encyclopedia:Dexterity}敏捷{/g}受到-4减值。被擒抱的角色每{g|Encyclopedia:Combat_Round}轮{/g}可通过成功的战技、力量、{g|Encyclopedia:Athletics}运动{/g}或{g|Encyclopedia:Mobility}灵巧检定{/g}挣脱擒抱。此检定的{g|Encyclopedia:DC}难度等级{/g}等于爬蔓怪的{g|Encyclopedia:CMD}战技防御{/g}值。\n当生物被成功擒抱时或者花费整轮也没有逃脱擒抱时，他们会受到1d6伤害。"
+    },
+    {
+      "Key": "b7f9af718b1c4e5f9896839bb5f3e5c4",
+      "SimpleName": "CompanionSaplingTreantConstructFeature.Description",
+      "ProcessTemplates": true,
+      "enGB": "The sapling treat deals double damage to constructs and objects.",
+      "zhCN": "幼苗树人对构装体或物品造成双倍伤害。"
+    },
+    {
+      "Key": "31577f6e144f44b9a89a7598203c23a0",
+      "SimpleName": "CompanionSaplingTreantConstructFeature.Name",
+      "ProcessTemplates": false,
+      "enGB": "Construct Smasher",
+      "zhCN": "构装粉碎者"
+    },
+    {
+      "Key": "d2a56a6e6f4c4421b99bb55a8bf41dc9",
+      "SimpleName": "CompanionSaplingTreantFeature.Description",
+      "ProcessTemplates": true,
+      "enGB": "Size: Medium\nSpeed: 30 ft.\nAC: +5 natural armor\nAttack: 2 slams (1d6) \nAbility scores: Str 15, Dex 10, Con 12, Int 2, Wis 12, Cha 7\nSpecial Attacks: The sapling treat deals double damage to constructs and objects.\nAt 4th level size becomes Large, Str +8, Dex -2, Con +4, +2 natural armor, and also gains an additional slam attack.\nThis animal companion can't be used as a mount.",
+      "zhCN": "体型：中型\n速度：30 尺\nAC：+5 天生防御\n攻击： 2 挥击 (1d6) \n属性：力量 15，敏捷 10，体质 12，智力 2，感知 12，魅力 7\n特殊攻击：幼苗树人对构装体或物品造成双倍伤害。\n4级起体型变为大型，力量 +8，敏捷 -2，体质 +4，+2 天生防御，+1 挥击攻击次数。\n这个动物伙伴不能用作坐骑。"
+    },
+    {
+      "Key": "3afa9628bbdc440b8337f7197f737946",
+      "SimpleName": "CompanionSaplingTreantFeature.Name",
+      "ProcessTemplates": false,
+      "enGB": "Animal Companion — Sapling Treant",
+      "zhCN": "动物伙伴（幼苗树人）"
+    },
+    {
+      "Key": "f94559b5194e4371ba7b67dee5e1430e",
+      "SimpleName": "GrowthDomainBaseFeature.Description",
+      "ProcessTemplates": true,
+      "enGB": "\nYou are gifted the power to expand life, can gain defensive thorns, and can communicate with plants. \nEnlarge: As a swift action you can enlarge yourself for 1 round, as if you were the target of the enlarge person spell. You can use this power a number of times per day equal to 3 + your Wisdom modifier. \nBramble Armor: At 6th level, you can cause a host of wooden thorns to burst from your skin as a free action. While bramble armor is in effect, any foe striking you with a melee weapon without reach takes 1d6 points of piercing damage + 1 point per two levels you possess in the class that gave you access to this domain. You can use this ability for a number of rounds per day equal to your level in the class that gave you access to this domain. These rounds do not need to be consecutive.",
+      "zhCN": "\n你被赋予了扩展生命的力量，可以获得防御性的荆棘，并与植物交流。 \n巨大化：迅捷动作发动，变大1轮，效果如同以自身为目标的“变巨术”。这项能力的每天可用次数等于3+感知调整值。\n荆棘护甲：达到6级时，作为{g|Encyclopedia:Free_Action}自由动作{/g}，你可使自身长满木刺荆棘。在荆棘护甲效果持续期间，任何使用非{g|Encyclopedia:Reach}长触及{/g}近战武器攻击你的敌人都将受到{g|Encyclopedia:Dice}1d6{/g}点{g|Encyclopedia:Damage_Type}穿刺伤害{/g}，赋予你此领域的职业等级每提升2级，可额外造成1点伤害。每天可使用{g|Encyclopedia:Combat_Round}轮数{/g}等于赋予你此领域的职业等级。生效轮次无需连续。"
+    },
+    {
+      "Key": "fdf385047c0546729aaa74229982ef81",
+      "SimpleName": "GrowthDomainBaseFeature.Name",
+      "ProcessTemplates": false,
+      "enGB": "Growth Subdomain",
+      "zhCN": "生长子域"
+    },
+    {
+      "Key": "4640384af5fc461bb68366b09504fe4a",
+      "SimpleName": "GrowthDomainProgression.Description",
+      "ProcessTemplates": true,
+      "enGB": "\nYou are gifted the power to expand life, can gain defensive thorns, and can communicate with plants. \nEnlarge: As a swift action you can enlarge yourself for 1 round, as if you were the target of the enlarge person spell. You can use this power a number of times per day equal to 3 + your Wisdom modifier. \nBramble Armor: At 6th level, you can cause a host of wooden thorns to burst from your skin as a free action. While bramble armor is in effect, any foe striking you with a melee weapon without reach takes 1d6 points of piercing damage + 1 point per two levels you possess in the class that gave you access to this domain. You can use this ability for a number of rounds per day equal to your level in the class that gave you access to this domain. These rounds do not need to be consecutive. \nDomain Spells: enlarge person, barkskin, contagion, thorn body, righteous might, plant shape II (shambling mound), changestaff, mind blank, shambler.",
+      "zhCN": "\n你被赋予了扩展生命的力量，可以获得防御性的荆棘，并与植物交流。 \n巨大化：迅捷动作发动，变大1轮，效果如同以自身为目标的“变巨术”。这项能力的每天可用次数等于3+感知调整值。\n荆棘护甲：达到6级时，作为{g|Encyclopedia:Free_Action}自由动作{/g}，你可使自身长满木刺荆棘。在荆棘护甲效果持续期间，任何使用非{g|Encyclopedia:Reach}长触及{/g}近战武器攻击你的敌人都将受到{g|Encyclopedia:Dice}1d6{/g}点{g|Encyclopedia:Damage_Type}穿刺伤害{/g}，赋予你此领域的职业等级每提升2级，可额外造成1点伤害。每天可使用{g|Encyclopedia:Combat_Round}轮数{/g}等于赋予你此领域的职业等级。生效轮次无需连续。 \n领域{g|Encyclopedia:Spell}法术{/g}：变巨术，树肤， 疫病术， 荆棘之躯， 正气如虹，植物形态 II（蔓生怪），杖化守卫， 心灵屏障，蔓生术。"
+    },
+    {
+      "Key": "5a047d4be66b4974a3dbfcdb4c0cc22d",
+      "SimpleName": "GrowthDomainProgressionDruid.Description",
+      "ProcessTemplates": true,
+      "enGB": "\nYou are gifted the power to expand life, can gain defensive thorns, and can communicate with plants. \nEnlarge: As a swift action you can enlarge yourself for 1 round, as if you were the target of the enlarge person spell. You can use this power a number of times per day equal to 3 + your Wisdom modifier. \nBramble Armor: At 6th level, you can cause a host of wooden thorns to burst from your skin as a free action. While bramble armor is in effect, any foe striking you with a melee weapon without reach takes 1d6 points of piercing damage + 1 point per two levels you possess in the class that gave you access to this domain. You can use this ability for a number of rounds per day equal to your level in the class that gave you access to this domain. These rounds do not need to be consecutive. \nDomain Spells: enlarge person, barkskin, contagion, thorn body, righteous might, plant shape II (shambling mound), changestaff, mind blank, shambler.",
+      "zhCN": "\n你被赋予了扩展生命的力量，可以获得防御性的荆棘，并与植物交流。 \n巨大化：迅捷动作发动，变大1轮，效果如同以自身为目标的“变巨术”。这项能力的每天可用次数等于3+感知调整值。\n荆棘护甲：达到6级时，作为{g|Encyclopedia:Free_Action}自由动作{/g}，你可使自身长满木刺荆棘。在荆棘护甲效果持续期间，任何使用非{g|Encyclopedia:Reach}长触及{/g}近战武器攻击你的敌人都将受到{g|Encyclopedia:Dice}1d6{/g}点{g|Encyclopedia:Damage_Type}穿刺伤害{/g}，赋予你此领域的职业等级每提升2级，可额外造成1点伤害。每天可使用{g|Encyclopedia:Combat_Round}轮数{/g}等于赋予你此领域的职业等级。生效轮次无需连续。 \n领域{g|Encyclopedia:Spell}法术{/g}：变巨术，树肤， 疫病术， 荆棘之躯， 正气如虹，植物形态 II（蔓生怪），杖化守卫， 心灵屏障，蔓生术。"
+    },
+    {
+      "Key": "d030c97ca735432ab1f1602c5af2e538",
+      "SimpleName": "GrowthDomainProgressionSecondary.Description",
+      "ProcessTemplates": true,
+      "enGB": "\nYou are gifted the power to expand life, can gain defensive thorns, and can communicate with plants. \nEnlarge: As a swift action you can enlarge yourself for 1 round, as if you were the target of the enlarge person spell. You can use this power a number of times per day equal to 3 + your Wisdom modifier. \nBramble Armor: At 6th level, you can cause a host of wooden thorns to burst from your skin as a free action. While bramble armor is in effect, any foe striking you with a melee weapon without reach takes 1d6 points of piercing damage + 1 point per two levels you possess in the class that gave you access to this domain. You can use this ability for a number of rounds per day equal to your level in the class that gave you access to this domain. These rounds do not need to be consecutive. \nDomain Spells: enlarge person, barkskin, contagion, thorn body, righteous might, plant shape II (shambling mound), changestaff, mind blank, shambler.",
+      "zhCN": "\n你被赋予了扩展生命的力量，可以获得防御性的荆棘，并与植物交流。 \n巨大化：迅捷动作发动，变大1轮，效果如同以自身为目标的“变巨术”。这项能力的每天可用次数等于3+感知调整值。\n荆棘护甲：达到6级时，作为{g|Encyclopedia:Free_Action}自由动作{/g}，你可使自身长满木刺荆棘。在荆棘护甲效果持续期间，任何使用非{g|Encyclopedia:Reach}长触及{/g}近战武器攻击你的敌人都将受到{g|Encyclopedia:Dice}1d6{/g}点{g|Encyclopedia:Damage_Type}穿刺伤害{/g}，赋予你此领域的职业等级每提升2级，可额外造成1点伤害。每天可使用{g|Encyclopedia:Combat_Round}轮数{/g}等于赋予你此领域的职业等级。生效轮次无需连续。 \n领域{g|Encyclopedia:Spell}法术{/g}：变巨术，树肤， 疫病术， 荆棘之躯， 正气如虹，植物形态 II（蔓生怪），杖化守卫， 心灵屏障，蔓生术。"
+    },
+    {
+      "Key": "a2182097dc7f4acb85b3f738a8bfa7eb",
+      "SimpleName": "PlantDomainBaseFeature.Description",
+      "ProcessTemplates": true,
+      "enGB": "You find solace in the green, can grow defensive thorns, and can communicate with plants.\nWooden Fist: As a free action, your hands can become as hard as wood, covered in tiny thorns. While you have wooden fists, your unarmed strikes do not provoke attacks of opportunity, and gain a bonus on damage rolls equal to 1/2 your cleric level (minimum +1). You can use this ability for a number of rounds per day equal to 3 + your Wisdom modifier. These rounds do not need to be consecutive.\nBramble Armor: At 6th level, you can cause a host of wooden thorns to burst from your skin as a free action. While bramble armor is in effect, any foe striking you with a melee weapon without reach takes 1d6 points of piercing damage + 1 point per two levels you possess in the class that gave you access to this domain. You can use this ability for a number of rounds per day equal to your level in the class that gave you access to this domain. These rounds do not need to be consecutive.",
+      "zhCN": "\n你被赋予了扩展生命的力量，可以获得防御性的荆棘，并与植物交流。 \n巨大化：迅捷动作发动，变大1轮，效果如同以自身为目标的“变巨术”。这项能力的每天可用次数等于3+感知调整值。\n荆棘护甲：达到6级时，作为{g|Encyclopedia:Free_Action}自由动作{/g}，你可使自身长满木刺荆棘。在荆棘护甲效果持续期间，任何使用非{g|Encyclopedia:Reach}长触及{/g}近战武器攻击你的敌人都将受到{g|Encyclopedia:Dice}1d6{/g}点{g|Encyclopedia:Damage_Type}穿刺伤害{/g}，赋予你此领域的职业等级每提升2级，可额外造成1点伤害。每天可使用{g|Encyclopedia:Combat_Round}轮数{/g}等于赋予你此领域的职业等级。生效轮次无需连续。"
+    },
+    {
+      "Key": "8bfb8a7e5030467992c4b22dc2ca76c7",
+      "SimpleName": "PlantDomainNewBaseAbility.Description",
+      "ProcessTemplates": true,
+      "enGB": "As a free action, your hands can become as hard as wood, covered in tiny thorns. While you have wooden fists, your unarmed strikes do not provoke attacks of opportunity, and gain a bonus on damage rolls equal to 1/2 your cleric level (minimum +1). You can use this ability for a number of rounds per day equal to 3 + your Wisdom modifier. These rounds do not need to be consecutive.",
+      "zhCN": "你可以用一个自由动作令你的双手变得像木头般坚硬，并在表面生满细小的棘刺。当你使用木拳时，你的徒手攻击不会触发藉机攻击，造成致命伤害，并获得等同于你的牧师等级一半的伤害加值（最小+1）。你每日可使用本能力的轮数为“3+感知修正”。生效轮数不必连续。"
+    },
+    {
+      "Key": "ea6d05268ce54e45943aa806943f1b20",
+      "SimpleName": "PlantDomainNewBaseBuff.Description",
+      "ProcessTemplates": true,
+      "enGB": "As a free action, your hands can become as hard as wood, covered in tiny thorns. While you have wooden fists, your unarmed strikes do not provoke attacks of opportunity, and gain a bonus on damage rolls equal to 1/2 your cleric level (minimum +1). You can use this ability for a number of rounds per day equal to 3 + your Wisdom modifier. These rounds do not need to be consecutive.",
+      "zhCN": "你可以用一个自由动作令你的双手变得像木头般坚硬，并在表面生满细小的棘刺。当你使用木拳时，你的徒手攻击不会触发藉机攻击，造成致命伤害，并获得等同于你的牧师等级一半的伤害加值（最小+1）。你每日可使用本能力的轮数为“3+感知修正”。生效轮数不必连续。"
+    },
+    {
+      "Key": "2ea0effd9b8a4987986712e69cf4991f",
+      "SimpleName": "PlantDomainNewBaseBuff.Name",
+      "ProcessTemplates": false,
+      "enGB": "Wooden Fist",
+      "zhCN": "木拳"
+    },
+    {
+      "Key": "6473f9c166684e5ab9ef3094d730b932",
+      "SimpleName": "PlantDomainProgression.Description",
+      "ProcessTemplates": true,
+      "enGB": "\nYou find solace in the green, can grow defensive thorns, and can communicate with plants.\nWooden Fist: As a free action, your hands can become as hard as wood, covered in tiny thorns. While you have wooden fists, your unarmed strikes do not provoke attacks of opportunity, and gain a bonus on damage rolls equal to 1/2 your cleric level (minimum +1). You can use this ability for a number of rounds per day equal to 3 + your Wisdom modifier. These rounds do not need to be consecutive.\nBramble Armor: At 6th level, you can cause a host of wooden thorns to burst from your skin as a free action. While bramble armor is in effect, any foe striking you with a melee weapon without reach takes 1d6 points of piercing damage + 1 point per two levels you possess in the class that gave you access to this domain. You can use this ability for a number of rounds per day equal to your level in the class that gave you access to this domain. These rounds do not need to be consecutive.\nDomain Spells: entangle, barkskin, contagion, thorn body, vinetrap, plant shape II (shambling mound), changestaff, mind blank, shambler.",
+      "zhCN": "\n你在绿色自然中得到放松，可长出防御荆棘，并可与植物进行沟通。\n木拳：你可以用一个自由动作令你的双手变得像木头般坚硬，并在表面生满细小的棘刺。当你使用木拳时，你的徒手攻击不会触发藉机攻击，造成致命伤害，并获得等同于你的牧师等级一半的伤害加值（最小+1）。你每日可使用本能力的轮数为“3+感知修正”。生效轮数不必连续。\n荆棘护甲：达到6级时，作为{g|Encyclopedia:Free_Action}自由动作{/g}，你可使自身长满木刺荆棘。在荆棘护甲效果持续期间，任何使用非{g|Encyclopedia:Reach}长触及{/g}近战武器攻击你的敌人都将受到{g|Encyclopedia:Dice}1d6{/g}点{g|Encyclopedia:Damage_Type}穿刺伤害{/g}，赋予你此领域的职业等级每提升2级，可额外造成1点伤害。每天可使用{g|Encyclopedia:Combat_Round}轮数{/g}等于赋予你此领域的职业等级。生效轮次无需连续。\n领域法术：纠缠术，树肤，疫病术，荆棘之躯，藤蔓陷阱，植物形态 II（蔓生怪），杖化守卫，心灵屏障，蔓生术。"
+    },
+    {
+      "Key": "42d65d16a4874bb1bf5c4d96c0830716",
+      "SimpleName": "PlantDomainProgressionDruid.Description",
+      "ProcessTemplates": true,
+      "enGB": "\nYou find solace in the green, can grow defensive thorns, and can communicate with plants.\nWooden Fist: As a free action, your hands can become as hard as wood, covered in tiny thorns. While you have wooden fists, your unarmed strikes do not provoke attacks of opportunity, and gain a bonus on damage rolls equal to 1/2 your cleric level (minimum +1). You can use this ability for a number of rounds per day equal to 3 + your Wisdom modifier. These rounds do not need to be consecutive.\nBramble Armor: At 6th level, you can cause a host of wooden thorns to burst from your skin as a free action. While bramble armor is in effect, any foe striking you with a melee weapon without reach takes 1d6 points of piercing damage + 1 point per two levels you possess in the class that gave you access to this domain. You can use this ability for a number of rounds per day equal to your level in the class that gave you access to this domain. These rounds do not need to be consecutive.\nDomain Spells: entangle, barkskin, contagion, thorn body, vinetrap, plant shape II (shambling mound), changestaff, mind blank, shambler.",
+      "zhCN": "\n你在绿色自然中得到放松，可长出防御荆棘，并可与植物进行沟通。\n木拳：你可以用一个自由动作令你的双手变得像木头般坚硬，并在表面生满细小的棘刺。当你使用木拳时，你的徒手攻击不会触发藉机攻击，造成致命伤害，并获得等同于你的牧师等级一半的伤害加值（最小+1）。你每日可使用本能力的轮数为“3+感知修正”。生效轮数不必连续。\n荆棘护甲：达到6级时，作为{g|Encyclopedia:Free_Action}自由动作{/g}，你可使自身长满木刺荆棘。在荆棘护甲效果持续期间，任何使用非{g|Encyclopedia:Reach}长触及{/g}近战武器攻击你的敌人都将受到{g|Encyclopedia:Dice}1d6{/g}点{g|Encyclopedia:Damage_Type}穿刺伤害{/g}，赋予你此领域的职业等级每提升2级，可额外造成1点伤害。每天可使用{g|Encyclopedia:Combat_Round}轮数{/g}等于赋予你此领域的职业等级。生效轮次无需连续。\n领域法术：纠缠术，树肤，疫病术，荆棘之躯，藤蔓陷阱，植物形态 II（蔓生怪），杖化守卫，心灵屏障，蔓生术。"
+    },
+    {
+      "Key": "1bcb2f004bca4bdabbeba269b0059105",
+      "SimpleName": "PlantDomainProgressionSecondary.Description",
+      "ProcessTemplates": true,
+      "enGB": "\nYou find solace in the green, can grow defensive thorns, and can communicate with plants.\nWooden Fist: As a free action, your hands can become as hard as wood, covered in tiny thorns. While you have wooden fists, your unarmed strikes do not provoke attacks of opportunity, and gain a bonus on damage rolls equal to 1/2 your cleric level (minimum +1). You can use this ability for a number of rounds per day equal to 3 + your Wisdom modifier. These rounds do not need to be consecutive.\nBramble Armor: At 6th level, you can cause a host of wooden thorns to burst from your skin as a free action. While bramble armor is in effect, any foe striking you with a melee weapon without reach takes 1d6 points of piercing damage + 1 point per two levels you possess in the class that gave you access to this domain. You can use this ability for a number of rounds per day equal to your level in the class that gave you access to this domain. These rounds do not need to be consecutive.\nDomain Spells: entangle, barkskin, contagion, thorn body, vinetrap, plant shape II (shambling mound), changestaff, mind blank, shambler.",
+      "zhCN": "\n你在绿色自然中得到放松，可长出防御荆棘，并可与植物进行沟通。\n木拳：你可以用一个自由动作令你的双手变得像木头般坚硬，并在表面生满细小的棘刺。当你使用木拳时，你的徒手攻击不会触发藉机攻击，造成致命伤害，并获得等同于你的牧师等级一半的伤害加值（最小+1）。你每日可使用本能力的轮数为“3+感知修正”。生效轮数不必连续。\n荆棘护甲：达到6级时，作为{g|Encyclopedia:Free_Action}自由动作{/g}，你可使自身长满木刺荆棘。在荆棘护甲效果持续期间，任何使用非{g|Encyclopedia:Reach}长触及{/g}近战武器攻击你的敌人都将受到{g|Encyclopedia:Dice}1d6{/g}点{g|Encyclopedia:Damage_Type}穿刺伤害{/g}，赋予你此领域的职业等级每提升2级，可额外造成1点伤害。每天可使用{g|Encyclopedia:Combat_Round}轮数{/g}等于赋予你此领域的职业等级。生效轮次无需连续。\n领域法术：纠缠术，树肤，疫病术，荆棘之躯，藤蔓陷阱，植物形态 II（蔓生怪），杖化守卫，心灵屏障，蔓生术。"
+    },
+    {
+      "Key": "c9fb40aed58744d7b1f36375ab426ba1",
+      "SimpleName": "ShamblerAbility.Description",
+      "ProcessTemplates": true,
+      "enGB": "The shambler spell creates 1d4+2 shambling mounds with the advanced template. The creatures willingly aid you in combat or battle, perform a specific mission, or serve as bodyguards. The creatures remain with you for 7 days. You can only have one shambler spell in effect at one time. If you cast this spell while another casting is still in effect, the previous casting is dispelled.",
+      "zhCN": "蔓生术可造出1d4+2个具有进化模板的蔓生怪。这些生物会自愿帮你作战、执行特殊任务或者作为保镖工作。只要你不消解它们，它们就可以在你身边逗留七天。同一时间段内你只能有一个蔓生术生效。如果再次释放，之前的蔓生术会被消解。"
+    },
+    {
+      "Key": "231a7ed382174adf8c4b49348f3d815a",
+      "SimpleName": "ShamblerAbility.Duration",
+      "ProcessTemplates": false,
+      "enGB": "7 days",
+      "zhCN": "7 天"
+    },
+    {
+      "Key": "2d4b060a9a72495aac3cd235a0b05b3d",
+      "SimpleName": "ShamblerAbility.Name",
+      "ProcessTemplates": false,
+      "enGB": "Shambler",
+      "zhCN": "蔓生术"
+    },
+    {
+      "Key": "09e38ab3691c4e0eafbc191540c3344f",
+      "SimpleName": "TreesingerArchetype.Description",
+      "ProcessTemplates": false,
+      "enGB": "Elves live far longer than other common races, and a single elf may see whole empires rise and fall. Given the impermanence of the cultures around them, it’s small wonder that some elves turn to the timeless growth of nature for solace, finding allies among the great trees themselves, and even leading the forest’s plants into combat.",
+      "zhCN": "精灵的寿命比其他大多数种族都要长得多，一个精灵个体甚至可以见证一个帝国的兴起和衰落。考虑到他们周边的文化是如此短暂，有些精灵去向无尽增长的大自然寻求慰藉，或许并不会令人感到费解。他们在古树之间寻找伙伴，甚至带领着森林中的植物加入战斗。"
+    },
+    {
+      "Key": "ba5baef21a0547279b8f7ac6e47470f0",
+      "SimpleName": "TreesingerArchetype.Name",
+      "ProcessTemplates": false,
+      "enGB": "Treesinger",
+      "zhCN": "树之歌者"
+    },
+    {
+      "Key": "b8f7f965f46f43e09b2e6b0419c56fc5",
+      "SimpleName": "TreesingerCompanionSelection.Description",
+      "ProcessTemplates": true,
+      "enGB": "A treesinger may begin play with a plant companion. This plant is a loyal companion that accompanies the treesinger on her adventures. Except for the companion being a creature of the plant type, drawn from the list of plant companions, this ability otherwise works like the standard druid’s animal companion ability.",
+      "zhCN": "一名树之歌者可以在开始时选择植物伙伴列表中的任何一个植物。该植物是一名忠实的伙伴，并会在冒险中陪伴树之歌者。除了在伙伴列表中该伙伴的生物类型为植物，这一能力在其他方面如同标准德鲁伊的动物伙伴能力般运作。"
+    },
+    {
+      "Key": "9fbb70f1f4034e9b9b7fb01e8e740aac",
+      "SimpleName": "TreesingerCompanionSelection.Name",
+      "ProcessTemplates": false,
+      "enGB": "Plant Companion",
+      "zhCN": "植物伙伴"
+    },
+    {
+      "Key": "937bac4f383a4d0b91a5b7456fdcad98",
+      "SimpleName": "TreesingerDomainSelection.Description",
+      "ProcessTemplates": true,
+      "enGB": "A treesinger may begin play with a plant companion. This plant is a loyal companion that accompanies the treesinger on her adventures. Except for the companion being a creature of the plant type, drawn from the list of plant companions, this ability otherwise works like the standard druid’s animal companion ability. \nA treesinger may instead may choose the plant or growth domain.",
+      "zhCN": "一名树之歌者可以在开始时选择植物伙伴列表中的任何一个植物。该植物是一名忠实的伙伴，并会在冒险中陪伴树之歌者。除了在伙伴列表中该伙伴的生物类型为植物，这一能力在其他方面如同标准德鲁伊的动物伙伴能力般运作。\n树之歌者可以改为选择植物或者生长领域。"
+    },
+    {
+      "Key": "ed661f51e837449980183a358a297d0c",
+      "SimpleName": "TreesingerDomainSelection.Name",
+      "ProcessTemplates": false,
+      "enGB": "Treesingers Domain",
+      "zhCN": "树之歌者领域"
+    },
+    {
+      "Key": "8ba6bc47247843989ce3b074dce7efc4",
+      "SimpleName": "TreesingerPlantBondSelection.Name",
+      "ProcessTemplates": false,
+      "enGB": "Treesingers Bond",
+      "zhCN": "树之歌者纽带"
+    },
+    {
+      "Key": "e512eeb607ad4cd28f430dcce7faf925",
+      "SimpleName": "TreesingerWildShapeGiantFlytrapBuff.Name",
+      "ProcessTemplates": false,
+      "enGB": "Wild Shape (Giant Flytrap)",
+      "zhCN": "自然变身（巨捕蝇草）"
+    },
+    {
+      "Key": "456ad6d9f6c245d0a10aa19619b25621",
+      "SimpleName": "TreesingerWildShapeGiantFlytrapFeature.Description",
+      "ProcessTemplates": true,
+      "enGB": "At 6th level, a treesinger can use wildshape to change into a mandragora and back twice a day. The effect lasts for 1 hour per druid level, or until she changes back. \nChanging form is a standard action and doesn't provoke an attack of opportunity. A druid can use this ability an additional time per day at 8th level and every two levels thereafter, for a total of eight times at 18th level. At 9th level, a treesinger can use wild shape to change into a shambling mound ro a quickwood. At 12th level, a treesinger can use wild shape to change into a giant flytrap or a treant.",
+      "zhCN": "6级时，树之歌者可以使用自然变身变为曼陀拉或者变回原形，每天2次。效果持续每德鲁伊等级1小时，或者直到其变回原形。 \n改变形态是一个标准动作，且不会引发借机攻击。德鲁伊可是在8级获得额外1次该能力使用次数，随后每2级额外1次，直到18级达到最大可用8次。9级时，树之歌者可以使用自然变身变为蔓生怪或快木。12级时，树之歌者可以使用自然变身变为巨捕蝇草或树人。"
+    },
+    {
+      "Key": "7cb0c597b14743caa2737dee04b93031",
+      "SimpleName": "TreesingerWildShapeMandragoraBuff.Name",
+      "ProcessTemplates": false,
+      "enGB": "Wild Shape (Mandragora)",
+      "zhCN": "自然变身（曼陀拉）"
+    },
+    {
+      "Key": "a213d1972a7a476d85be6a17236aef68",
+      "SimpleName": "TreesingerWildShapeMandragoraFeature.Description",
+      "ProcessTemplates": true,
+      "enGB": "At 6th level, a treesinger can use wildshape to change into a mandragora and back twice a day. The effect lasts for 1 hour per druid level, or until she changes back. \nChanging form is a standard action and doesn't provoke an attack of opportunity. A druid can use this ability an additional time per day at 8th level and every two levels thereafter, for a total of eight times at 18th level. At 9th level, a treesinger can use wild shape to change into a shambling mound ro a quickwood. At 12th level, a treesinger can use wild shape to change into a giant flytrap or a treant.",
+      "zhCN": "6级时，树之歌者可以使用自然变身变为曼陀拉或者变回原形，每天2次。效果持续每德鲁伊等级1小时，或者直到其变回原形。 \n改变形态是一个标准动作，且不会引发借机攻击。德鲁伊可是在8级获得额外1次该能力使用次数，随后每2级额外1次，直到18级达到最大可用8次。9级时，树之歌者可以使用自然变身变为蔓生怪或快木。12级时，树之歌者可以使用自然变身变为巨捕蝇草或树人。"
+    },
+    {
+      "Key": "f568d4dbc9004c21a2ac58255ff2f283",
+      "SimpleName": "TreesingerWildShapeQuickwoodAbility.Description",
+      "ProcessTemplates": true,
+      "enGB": "You become a huge quickwood. You gain a +4 size bonus to your Strength, a +2 size bonus to your Constitution, +4 natural armor bonus, resist fire 20, resist electricity 20, and spell resistance equal to 10 + half your caster level. Your movement speed is reduced by 10 feet. You also have one 2d6 bite attack and two 1d4 root (tentacle) attacks.",
+      "zhCN": "你变为巨大的快木，力量上获得+4体型加值，体质上获得+2体型加值，+4天生防御加值，抗火20，抗电20，以及等于你施法者等级一半的法术抗力。你的移动速度减少10尺。你也会获得一次2d6啮咬攻击和两次1d4根须（触手）攻击。 "
+    },
+    {
+      "Key": "e285a59da3fd49769b7900d9e7fb8db6",
+      "SimpleName": "TreesingerWildShapeQuickwoodBuff.Name",
+      "ProcessTemplates": false,
+      "enGB": "Wild Shape (Quickwood)",
+      "zhCN": "自然变身（快木）"
+    },
+    {
+      "Key": "c96e0c83f5834c5d806987db5c74b8f7",
+      "SimpleName": "TreesingerWildShapeQuickwoodFeature.Description",
+      "ProcessTemplates": true,
+      "enGB": "At 6th level, a treesinger can use wildshape to change into a mandragora and back twice a day. The effect lasts for 1 hour per druid level, or until she changes back. \nChanging form is a standard action and doesn't provoke an attack of opportunity. A druid can use this ability an additional time per day at 8th level and every two levels thereafter, for a total of eight times at 18th level. At 9th level, a treesinger can use wild shape to change into a shambling mound ro a quickwood. At 12th level, a treesinger can use wild shape to change into a giant flytrap or a treant.",
+      "zhCN": "6级时，树之歌者可以使用自然变身变为曼陀拉或者变回原形，每天2次。效果持续每德鲁伊等级1小时，或者直到其变回原形。 \n改变形态是一个标准动作，且不会引发借机攻击。德鲁伊可是在8级获得额外1次该能力使用次数，随后每2级额外1次，直到18级达到最大可用8次。9级时，树之歌者可以使用自然变身变为蔓生怪或快木。12级时，树之歌者可以使用自然变身变为巨捕蝇草或树人。"
+    },
+    {
+      "Key": "2835d82e2471419d88ab9b61433aaf10",
+      "SimpleName": "TreesingerWildShapeShamblingMoundBuff.Name",
+      "ProcessTemplates": false,
+      "enGB": "Wild Shape (Shambling Mound)",
+      "zhCN": "自然变身（蔓生怪）"
+    },
+    {
+      "Key": "3c9f91ee0b14480dad0823f6ff500ece",
+      "SimpleName": "TreesingerWildShapeShamblingMoundFeature.Description",
+      "ProcessTemplates": true,
+      "enGB": "At 6th level, a treesinger can use wildshape to change into a mandragora and back twice a day. The effect lasts for 1 hour per druid level, or until she changes back. \nChanging form is a standard action and doesn't provoke an attack of opportunity. A druid can use this ability an additional time per day at 8th level and every two levels thereafter, for a total of eight times at 18th level. At 9th level, a treesinger can use wild shape to change into a shambling mound ro a quickwood. At 12th level, a treesinger can use wild shape to change into a giant flytrap or a treant.",
+      "zhCN": "6级时，树之歌者可以使用自然变身变为曼陀拉或者变回原形，每天2次。效果持续每德鲁伊等级1小时，或者直到其变回原形。 \n改变形态是一个标准动作，且不会引发借机攻击。德鲁伊可是在8级获得额外1次该能力使用次数，随后每2级额外1次，直到18级达到最大可用8次。9级时，树之歌者可以使用自然变身变为蔓生怪或快木。12级时，树之歌者可以使用自然变身变为巨捕蝇草或树人。"
+    },
+    {
+      "Key": "0ac2fdeaac374a1ab9bd5895b85dccd3",
+      "SimpleName": "TreesingerWildShapeTreantBuff.Name",
+      "ProcessTemplates": false,
+      "enGB": "Wild Shape (Treant)",
+      "zhCN": "Wild Shape (Treant)"
+    },
+    {
+      "Key": "cf8d79745f7d4cc7ba2c1bf1ef0b4621",
+      "SimpleName": "TreesingerWildShapeTreantFeature.Description",
+      "ProcessTemplates": true,
+      "enGB": "At 6th level, a treesinger can use wildshape to change into a mandragora and back twice a day. The effect lasts for 1 hour per druid level, or until she changes back. \nChanging form is a standard action and doesn't provoke an attack of opportunity. A druid can use this ability an additional time per day at 8th level and every two levels thereafter, for a total of eight times at 18th level. At 9th level, a treesinger can use wild shape to change into a shambling mound ro a quickwood. At 12th level, a treesinger can use wild shape to change into a giant flytrap or a treant.",
+      "zhCN": "6级时，树之歌者可以使用自然变身变为曼陀拉或者变回原形，每天2次。效果持续每德鲁伊等级1小时，或者直到其变回原形。 \n改变形态是一个标准动作，且不会引发借机攻击。德鲁伊可是在8级获得额外1次该能力使用次数，随后每2级额外1次，直到18级达到最大可用8次。9级时，树之歌者可以使用自然变身变为蔓生怪或快木。12级时，树之歌者可以使用自然变身变为巨捕蝇草或树人。"
+    },
+    {
+      "Key": "15d871ec664f4d15a6adb41af0ffb306",
+      "SimpleName": "FistDomainBaseFeature.Description",
+      "ProcessTemplates": true,
+      "enGB": "\nTrue strength frees believers for the need of weaponry, as with training the faithful become weapons themselves. \nWooden Fist: As a free action, your hands can become as hard as wood, covered in tiny thorns. While you have wooden fists, your unarmed strikes do not provoke attacks of opportunity, and gain a bonus on damage rolls equal to 1/2 your cleric level (minimum +1). You can use this ability for a number of rounds per day equal to 3 + your Wisdom modifier. These rounds do not need to be consecutive.\nMight of the Gods: At 8th level, you add 1/2 of your level in the class that gave you access to this domain as an enhancement bonus to your Athletics checks.",
+      "zhCN": "\n真正的力量解放了信徒对武器的需求，训练让信徒自身成为了人类兵器。\n木拳：你可以用一个自由动作令你的双手变得像木头般坚硬，并在表面生满细小的棘刺。当你使用木拳时，你的徒手攻击不会触发藉机攻击，造成致命伤害，并获得等同于你的牧师等级一半的伤害加值（最小+1）。你每日可使用本能力的轮数为“3+感知修正”。生效轮数不必连续。\n神授力量：在8级时，你的运动{g|Encyclopedia:Check}检定{/g}将获得增强加值，加值等于1/2赋予你此领域的职业等级。"
+    },
+    {
+      "Key": "78102787b48c4328b864cc4b24e26687",
+      "SimpleName": "FistDomainBaseFeature.Name",
+      "ProcessTemplates": false,
+      "enGB": "Fist Subdomain",
+      "zhCN": "铁拳子域"
+    },
+    {
+      "Key": "dfeb5a63115841d6bb53cc0405023033",
+      "SimpleName": "FistDomainProgression.Description",
+      "ProcessTemplates": true,
+      "enGB": "\nTrue strength frees believers for the need of weaponry, as with training the faithful become weapons themselves. \nWooden Fist: As a free action, your hands can become as hard as wood, covered in tiny thorns. While you have wooden fists, your unarmed strikes do not provoke attacks of opportunity, and gain a bonus on damage rolls equal to 1/2 your cleric level (minimum +1). You can use this ability for a number of rounds per day equal to 3 + your Wisdom modifier. These rounds do not need to be consecutive.\nMight of the Gods: At 8th level, you add 1/2 of your level in the class that gave you access to this domain as an enhancement bonus to your Athletics checks.\nDomain Spells: true strike, bull's strength, greater magic fang, force punch, righteous might, stoneskin, legendary proportions, frightful aspect, transformation.",
+      "zhCN": "\n真正的力量解放了信徒对武器的需求，训练让信徒自身成为了人类兵器。\n木拳：你可以用一个自由动作令你的双手变得像木头般坚硬，并在表面生满细小的棘刺。当你使用木拳时，你的徒手攻击不会触发藉机攻击，造成致命伤害，并获得等同于你的牧师等级一半的伤害加值（最小+1）。你每日可使用本能力的轮数为“3+感知修正”。生效轮数不必连续。\n神授力量：在8级时，你的运动{g|Encyclopedia:Check}检定{/g}将获得增强加值，加值等于1/2赋予你此领域的职业等级。\n领域法术：克敌机先、牛之蛮力、高等魔牙、力场拳、正气如虹、石肤、伟岸雄姿、可怖外表、战法转换"
+    },
+    {
+      "Key": "7dbf1ea927ce48a5869259330d536684",
+      "SimpleName": "FistDomainProgressionSecondary.Description",
+      "ProcessTemplates": true,
+      "enGB": "\nTrue strength frees believers for the need of weaponry, as with training the faithful become weapons themselves. \nWooden Fist: As a free action, your hands can become as hard as wood, covered in tiny thorns. While you have wooden fists, your unarmed strikes do not provoke attacks of opportunity, and gain a bonus on damage rolls equal to 1/2 your cleric level (minimum +1). You can use this ability for a number of rounds per day equal to 3 + your Wisdom modifier. These rounds do not need to be consecutive.\nMight of the Gods: At 8th level, you add 1/2 of your level in the class that gave you access to this domain as an enhancement bonus to your Athletics checks.\nDomain Spells: true strike, bull's strength, greater magic fang, force punch, righteous might, stoneskin, legendary proportions, frightful aspect, transformation.",
+      "zhCN": "\n真正的力量解放了信徒对武器的需求，训练让信徒自身成为了人类兵器。\n木拳：你可以用一个自由动作令你的双手变得像木头般坚硬，并在表面生满细小的棘刺。当你使用木拳时，你的徒手攻击不会触发藉机攻击，造成致命伤害，并获得等同于你的牧师等级一半的伤害加值（最小+1）。你每日可使用本能力的轮数为“3+感知修正”。生效轮数不必连续。\n神授力量：在8级时，你的运动{g|Encyclopedia:Check}检定{/g}将获得增强加值，加值等于1/2赋予你此领域的职业等级。\n领域法术：克敌机先、牛之蛮力、高等魔牙、力场拳、正气如虹、石肤、伟岸雄姿、可怖外表、战法转换"
+    },
+    {
+      "Key": "a956480503fa45fc8aaf5f682720998c",
+      "SimpleName": "LoyaltyDomainBaseAbility.Description",
+      "ProcessTemplates": true,
+      "enGB": "As a standard action, you can touch a willing creature, granting it a +4 sacred bonus on saving throws to resist charm, compulsion, and fear effects for 1 hour. You can use this ability a number of times per day equal to 3 + your Wisdom modifier.",
+      "zhCN": "以一个标准动作，你可以接触一个自愿的生物，使他在对抗魅惑，胁迫和恐惧效果时在豁免检定上获得+4崇圣加值，持续1小时。每天可用次数为3+感知调整值。"
+    },
+    {
+      "Key": "18205dda64b24f52b030b6972a9bd855",
+      "SimpleName": "LoyaltyDomainBaseAbility.Duration",
+      "ProcessTemplates": false,
+      "enGB": "1 hour",
+      "zhCN": "1 小时"
+    },
+    {
+      "Key": "e4d58ffcfae44c7aa4d92b2d33239d58",
+      "SimpleName": "LoyaltyDomainBaseBuff.Description",
+      "ProcessTemplates": true,
+      "enGB": "You have been granted a +4 sacred bonus on saving throws to resist charm, compulsion, and fear effects.",
+      "zhCN": "你在对抗魅惑，胁迫和恐惧效果时在豁免检定上获得+4崇圣加值。"
+    },
+    {
+      "Key": "b276ddbb0c8a48b599f98d20106038c2",
+      "SimpleName": "LoyaltyDomainBaseBuff.Name",
+      "ProcessTemplates": false,
+      "enGB": "Touch of Loyalty",
+      "zhCN": "忠诚之触"
+    },
+    {
+      "Key": "814179f0f854467e939833e2c033cdfb",
+      "SimpleName": "LoyaltyDomainBaseFeature.Description",
+      "ProcessTemplates": true,
+      "enGB": "\nYou value loyalty above other virtues, both between allies and towards ones holy patron. \nTouch of Loyalty: As a standard action, you can touch a willing creature, granting it a +4 sacred bonus on saving throws to resist charm, compulsion, and fear effects for 1 hour. You can use this ability a number of times per day equal to 3 + your Wisdom modifier.\nStaff of Order: At 8th level, you can give a weapon you touch the axiomatic special weapon quality for a number of rounds equal to 1/2 your level in the class that gave you access to this domain. You can use this ability once per day at 8th level, and an additional time per day for every four levels beyond 8th.",
+      "zhCN": "\nYou value loyalty above other virtues, both between allies and towards ones holy patron. \nTouch of Loyalty: As a standard action, you can touch a willing creature, granting it a +4 sacred bonus on saving throws to resist charm, compulsion, and fear effects for 1 hour. You can use this ability a number of times per day equal to 3 + your Wisdom modifier.\nStaff of Order: At 8th level, you can give a weapon you touch the axiomatic special weapon quality for a number of rounds equal to 1/2 your level in the class that gave you access to this domain. You can use this ability once per day at 8th level, and an additional time per day for every four levels beyond 8th."
+    },
+    {
+      "Key": "98f4fa384e9e4ab885c78dd31ec7487a",
+      "SimpleName": "LoyaltyDomainBaseFeature.Name",
+      "ProcessTemplates": false,
+      "enGB": "Loyalty Subdomain",
+      "zhCN": "忠诚子域"
+    },
+    {
+      "Key": "730779b985b4488680a6606a1675ebe3",
+      "SimpleName": "LoyaltyDomainProgression.Description",
+      "ProcessTemplates": true,
+      "enGB": "\nYou value loyalty above other virtues, both between allies and towards ones holy patron. \nTouch of Loyalty: As a standard action, you can touch a willing creature, granting it a +4 sacred bonus on saving throws to resist charm, compulsion, and fear effects for 1 hour. You can use this ability a number of times per day equal to 3 + your Wisdom modifier.\nStaff of Order: At 8th level, you can give a weapon you touch the axiomatic special weapon quality for a number of rounds equal to 1/2 your level in the class that gave you access to this domain. You can use this ability once per day at 8th level, and an additional time per day for every four levels beyond 8th.\nDomain Spells: remove fear, communal protection from chaos, prayer, communal protection from energy, greater command, blade barrier, dictum, shield of law, dominate monster.",
+      "zhCN": "\n无论是在盟友之间还是面对守护圣人，你都把忠诚看得高于其他美德。\n忠诚之触：以一个标准动作，你可以接触一个自愿的生物，使他在对抗魅惑，胁迫和恐惧效果时在豁免检定上获得+4崇圣加值，持续1小时。每天可用次数为3+感知调整值。\n秩序法杖：8级时，你可以为你{g|Encyclopedia:TouchAttack}接触{/g}的武器注入武器特性“公正”，效果持续{g|Encyclopedia:Combat_Round}轮数{/g}等于赋予你此领域的职业等级的1/2。在8级时，每天可使用一次此能力，8级后每升4级可获得1次额外的使用次数。\n领域{g|Encyclopedia:Spell}法术{/g}：移除恐惧，共用防护混乱，祈祷术，共用防护能量，高等命令术，剑刃障壁，箴铭之语，秩序护盾，支配怪物。"
+    },
+    {
+      "Key": "2ea83ce856c5404aa3af97471d7072a3",
+      "SimpleName": "LoyaltyDomainProgressionSecondary.Description",
+      "ProcessTemplates": true,
+      "enGB": "\nYou value loyalty above other virtues, both between allies and towards ones holy patron. \nTouch of Loyalty: As a standard action, you can touch a willing creature, granting it a +4 sacred bonus on saving throws to resist charm, compulsion, and fear effects for 1 hour. You can use this ability a number of times per day equal to 3 + your Wisdom modifier.\nStaff of Order: At 8th level, you can give a weapon you touch the axiomatic special weapon quality for a number of rounds equal to 1/2 your level in the class that gave you access to this domain. You can use this ability once per day at 8th level, and an additional time per day for every four levels beyond 8th.\nDomain Spells: remove fear, communal protection from chaos, prayer, communal protection from energy, greater command, blade barrier, dictum, shield of law, dominate monster.",
+      "zhCN": "\n无论是在盟友之间还是面对守护圣人，你都把忠诚看得高于其他美德。\n忠诚之触：以一个标准动作，你可以接触一个自愿的生物，使他在对抗魅惑，胁迫和恐惧效果时在豁免检定上获得+4崇圣加值，持续1小时。每天可用次数为3+感知调整值。\n秩序法杖：8级时，你可以为你{g|Encyclopedia:TouchAttack}接触{/g}的武器注入武器特性“公正”，效果持续{g|Encyclopedia:Combat_Round}轮数{/g}等于赋予你此领域的职业等级的1/2。在8级时，每天可使用一次此能力，8级后每升4级可获得1次额外的使用次数。\n领域{g|Encyclopedia:Spell}法术{/g}：移除恐惧，共用防护混乱，祈祷术，共用防护能量，高等命令术，剑刃障壁，箴铭之语，秩序护盾，支配怪物。"
+    },
+    {
+      "Key": "1b69a1487ecd46aa9ba9057f8ecdc954",
+      "SimpleName": "DivineScourgeArchetype.Description",
+      "ProcessTemplates": false,
+      "enGB": "Some divine servants take on the role of dealing out unique punishments on behalf of their deities, taking pleasure in carrying out their sacrosanct duties. Divine scourges make a point of inflicting long-lasting maladies and curses on those deserving of such fates under the tenets of the scourges’ religions.",
+      "zhCN": "某些神仆扮演了代表他们的神祇降下惩罚的角色，并在执行他们不可侵犯的任务时获得愉悦。神圣鞭笞者精于对那些在其所在教派的教义中值得接受如此命运的家伙施加长期性的疾病与诅咒。"
+    },
+    {
+      "Key": "00bf52efea2c47468f7a2ac98102f764",
+      "SimpleName": "DivineScourgeArchetype.Name",
+      "ProcessTemplates": false,
+      "enGB": "Divine Scourge",
+      "zhCN": "神圣鞭笞者"
+    },
+    {
+      "Key": "d3aa52c681fc47ffaa0367f229c3049e",
+      "SimpleName": "DivineScourgeCurserBackupDomainSelection.Description",
+      "ProcessTemplates": true,
+      "enGB": "A divine scourge must take the curse subdomain as a domain, regardless of the actual domains offered by her deity. The divine scourge does not receive a second domain.\nIf the divine scourge already the curse subdomain from another class, they may select another domain or subdomain granted by their deity.",
+      "zhCN": "神圣鞭笞者必须选择诅咒子域作为领域，而无视他的神祇实际提供的领域。他不会获得第二个领域。\n如果神圣鞭笞者已经从其他职业获得了诅咒子域，他可以从神祇的允许范围中选择另一个领域或子域。"
+    },
+    {
+      "Key": "195ac423bc1f42d5bf797b6639b945df",
+      "SimpleName": "DivineScourgeCurserBackupDomainSelection.Name",
+      "ProcessTemplates": false,
+      "enGB": "Curser",
+      "zhCN": "诅咒者"
+    },
+    {
+      "Key": "326c4a1c3eb04f3b9c64dd4184c6eb08",
+      "SimpleName": "DivineScourgeDivineHexesFeature.Description",
+      "ProcessTemplates": true,
+      "enGB": "At 3rd level and every 4 cleric levels thereafter, a divine scourge can select the following hexes from the witch class hex list, up to a maximum of five hexes at 19th level: cackle, evil eye, misfortune, slumber, and vulnerability. \nAt 11th level, a divine scourge can instead select from the following list of major hexes: agony, delicious fright, hoarfrost, and restless slumber. \nThe divine scourge uses her Wisdom modifier instead of her Intelligence modifier to determine the save DCs of her hexes.Any hex that refers to using her Intelligence modifier to determine its duration or effect instead uses her Charisma modifier for that purpose.",
+      "zhCN": "在3级和之后每4级，神圣鞭笞者能在女巫职业巫术列表中选择一个下列的巫术，最多能在19级获得5个巫术：尖笑，邪眼，降祸，沉眠，易伤。11级时，他还可以从下列强效巫术中选择：折磨，品尝惊惧，白霜，噩梦沉眠。神圣鞭笞者使用他的感知调整值取代智力调整值来决定他巫术的豁免DC，并用他的魅力调整值取代智力调整值来决定巫术的效果或持续时间。"
+    },
+    {
+      "Key": "ce65ea4f253445d4bdcf1901cacc9826",
+      "SimpleName": "DivineScourgeDivineHexesFeature.Name",
+      "ProcessTemplates": false,
+      "enGB": "Divine Hexes",
+      "zhCN": "神圣巫术"
+    },
+    {
+      "Key": "39f14894aa274824b82ba0246dbb2d91",
+      "SimpleName": "DivineScourgeDivineHexesImprovedFeature.Description",
+      "ProcessTemplates": true,
+      "enGB": "At 3rd level and every 4 cleric levels thereafter, a divine scourge can select the following hexes from the witch class hex list, up to a maximum of five hexes at 19th level: cackle, evil eye, misfortune, slumber, and vulnerability. \nAt 11th level, a divine scourge can instead select from the following list of major hexes: agony, delicious fright, hoarfrost, and restless slumber. \nThe divine scourge uses her Wisdom modifier instead of her Intelligence modifier to determine the save DCs of her hexes.Any hex that refers to using her Intelligence modifier to determine its duration or effect instead uses her Charisma modifier for that purpose.",
+      "zhCN": "在3级和之后每4级，神圣鞭笞者能在女巫职业巫术列表中选择一个下列的巫术，最多能在19级获得5个巫术：尖笑，邪眼，降祸，沉眠，易伤。11级时，他还可以从下列强效巫术中选择：折磨，品尝惊惧，白霜，噩梦沉眠。神圣鞭笞者使用他的感知调整值取代智力调整值来决定他巫术的豁免DC，并用他的魅力调整值取代智力调整值来决定巫术的效果或持续时间。"
+    },
+    {
+      "Key": "19eeaa6ca3f5497eae78add44c7ec543",
+      "SimpleName": "DivineScourgeHexFlag.Name",
+      "ProcessTemplates": false,
+      "enGB": "DivineScourgeHexFlag",
+      "zhCN": "DivineScourgeHexFlag"
     }
   ]
 }
