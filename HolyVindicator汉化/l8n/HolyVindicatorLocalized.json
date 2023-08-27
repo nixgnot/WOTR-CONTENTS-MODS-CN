@@ -1,0 +1,303 @@
+[
+  {
+    "Key": "HV.Class.Name",
+    "ProcessTemplates": false,
+    "enGB": "Holy Vindicator",
+    "ruRU": "Holy Vindicator",
+    "zhCN": "神圣辩护者"
+  },
+  {
+    "Key": "HV.Class.Description",
+    "ProcessTemplates": false,
+    "enGB": "Many faiths have within their membership an order of the church militant, be they holy knights or dark warriors, who put their lives and immortal souls on the line for their faith. They are paragons of battle, eschewing sermons for steel. These men and women are living conduits of divine power, down to their very blood, which they happily shed in a moment if it brings greater glory to their deity or judgment upon heretics, infidels, and all enemies of the faith. Holy vindicators are usually clerics or fighter/clerics, though many paladins (or even paladin/clerics) are drawn to this class as well. In all cases, the class offers a further opportunity to fuse and refine their martial and ministerial powers and role.\nThe holy vindicator has substantial spellcasting ability, though not so much as a focused cleric or paladin.His combat skills are considerable and his healing powers prodigious, and those whose religious views align well with the vindicator will find a ready ally.",
+    "ruRU": "Many faiths have within their membership an order of the church militant, be they holy knights or dark warriors, who put their lives and immortal souls on the line for their faith. They are paragons of battle, eschewing sermons for steel. These men and women are living conduits of divine power, down to their very blood, which they happily shed in a moment if it brings greater glory to their deity or judgment upon heretics, infidels, and all enemies of the faith. Holy vindicators are usually clerics or fighter/clerics, though many paladins (or even paladin/clerics) are drawn to this class as well. In all cases, the class offers a further opportunity to fuse and refine their martial and ministerial powers and role.\nThe holy vindicator has substantial spellcasting ability, though not so much as a focused cleric or paladin.His combat skills are considerable and his healing powers prodigious, and those whose religious views align well with the vindicator will find a ready ally.",
+    "zhCN": "很多信仰的组织成员中都拥有一支护教军，他们是神圣的骑士或黑暗的战士，为他们的信仰奉献出生命和永恒灵魂。他们是战斗的典范，用钢铁替代言语布道。神力降至这些活着的男女的血液之中，令他们乐于为神祇带来更大的荣耀或是为异教徒、无信者和所有信仰的敌人送去判罚。神圣辩护者大多是牧师或战士兼牧师，很多圣武士（甚至是圣武士兼牧师）也同样会选择本职业。无论哪种情况，这一职业都令他们在武力和职责上得到进一步提升。\n神圣辩护者拥有强大的施法能力，尽管赶不上牧师或圣骑士。她的战斗技巧与治疗能力也同样可观，那些和他们信仰相处良好的同伴会发现他们的可靠一面。"
+  },
+  {
+    "Key": "HV.null",
+    "ProcessTemplates": false,
+    "enGB": "",
+    "ruRU": "",
+    "zhCN": ""
+  },
+  {
+    "Key": "HV.Prof.Name",
+    "ProcessTemplates": false,
+    "enGB": "Holy Vindicator Proficiencies",
+    "ruRU": "Holy Vindicator Proficiencies",
+    "zhCN": "神圣辩护者擅长"
+  },
+  {
+    "Key": "HV.Prof.Description",
+    "ProcessTemplates": true,
+    "enGB": "A vindicator is proficient with all simple and {g|Encyclopedia:Weapon_Proficiency}martial weapons{/g} and with all armor (heavy, light, and medium) and shields (except tower shields).",
+    "ruRU": "A vindicator is proficient with all simple and {g|Encyclopedia:Weapon_Proficiency}martial weapons{/g} and with all armor (heavy, light, and medium) and shields (except tower shields).",
+    "zhCN": "神圣辩护者擅长所有简易和{g|Encyclopedia:Weapon_Proficiency}军用武器{/g}，以及所有类型的盔甲与盾牌（塔盾除外）。"
+  },
+  {
+    "Key": "HV.Spells.Name",
+    "ProcessTemplates": false,
+    "enGB": "Holy Vindicator spellcasting",
+    "ruRU": "Holy Vindicator spellcasting",
+    "zhCN": "神圣辩护者施法"
+  },
+  {
+    "Key": "HV.Spells.Description",
+    "ProcessTemplates": true,
+    "enGB": "At second level, and every level after except 5 and 9, a vindicator gains new {g|Encyclopedia:Spells}spells{/g} per day as if he had also gained a level in a divine spellcasting class he belonged to before adding the prestige class. He does not, however, gain other benefits of that class other than spells per day, spells known, and an increased effective level of spellcasting. If he had more than one divine spellcasting class before becoming a vindicator, he must decide to which class he adds the new level for the purpose of determining spells per day.",
+    "ruRU": "At second level, and every level after except 5 and 9, a vindicator gains new {g|Encyclopedia:Spells}spells{/g} per day as if he had also gained a level in a divine spellcasting class he belonged to before adding the prestige class. He does not, however, gain other benefits of that class other than spells per day, spells known, and an increased effective level of spellcasting. If he had more than one divine spellcasting class before becoming a vindicator, he must decide to which class he adds the new level for the purpose of determining spells per day.",
+    "zhCN": "2级起，以及除了5级和9级外的每一级，神圣辩护者获得新的每日{g|Encyclopedia:Spells}法术{/g} ，就像在获得进阶之前的一个神术施法职业获得提升一个等级一样。然而除每日法术数量、可知法术及一个有效施法等级提升外，她不能获得该职业的其它能力。若人物之前拥有多个神术施法职业，则必须选择要将新等级加在哪一种职业上以决定每日法术。"
+  },
+  {
+    "Key": "HV.Stigmata.Name",
+    "ProcessTemplates": false,
+    "enGB": "Stigmata",
+    "ruRU": "Stigmata",
+    "zhCN": "圣痕"
+  },
+  {
+    "Key": "HV.Stigmata.Name.Move",
+    "ProcessTemplates": false,
+    "enGB": " — Move Action",
+    "ruRU": " — Move Action",
+    "zhCN": " — 移动动作"
+  },
+  {
+    "Key": "HV.Stigmata.Name.Swift",
+    "ProcessTemplates": false,
+    "enGB": " — Swift Action",
+    "ruRU": " — Swift Action",
+    "zhCN": " — 迅捷动作"
+  },
+  {
+    "Key": "HV.Stigmata.Description",
+    "ProcessTemplates": false,
+    "enGB": "A vindicator willingly gives his blood in service to his faith, and is marked by scarified wounds appropriate to his deity. At 2nd level, he may stop or start the flow of blood by force of will as a standard action; at 6th level it becomes a move action, and at 10th level it becomes a swift action. Activating stigmata causes holy or unholy damage equal to half the vindicator’s class level every round. While the stigmata are bleeding, the vindicator gains a sacred bonus (if he channels positive energy) or profane bonus (if he channels negative energy) equal to half his class level. Each time he activates his stigmata, the vindicator decides if the bonus applies to attack rolls, weapon damage rolls, Armor Class, caster level checks, or saving throws; to change what the bonus applies to, the vindicator must deactivate and reactivate his stigmata. While his stigmata are bleeding, the vindicator ignores blood drain and bleed damage from any other source and can use bleed or stabilize at will as a standard action.",
+    "ruRU": "A vindicator willingly gives his blood in service to his faith, and is marked by scarified wounds appropriate to his deity. At 2nd level, he may stop or start the flow of blood by force of will as a standard action; at 6th level it becomes a move action, and at 10th level it becomes a swift action. Activating stigmata causes holy or unholy damage equal to half the vindicator’s class level every round. While the stigmata are bleeding, the vindicator gains a sacred bonus (if he channels positive energy) or profane bonus (if he channels negative energy) equal to half his class level. Each time he activates his stigmata, the vindicator decides if the bonus applies to attack rolls, weapon damage rolls, Armor Class, caster level checks, or saving throws; to change what the bonus applies to, the vindicator must deactivate and reactivate his stigmata. While his stigmata are bleeding, the vindicator ignores blood drain and bleed damage from any other source and can use bleed or stabilize at will as a standard action.",
+    "zhCN": "自愿将鲜血为其信仰服务的辩护者，身上会被他的信仰神祇赋予伤痕作为印记。他能够用一个标准动作以意念之力制止或开始这种出血；在6级时改为一个移动动作，而10级时改为一个迅捷动作。圣痕生效会造成等于辩护者职业等级一半的持续性出血伤害，且该出血伤害无法被医疗魔法所停止。当圣痕持续出血时，辩护者获得等于其职业等级一半的崇圣加值（若其引导正能量）或亵渎加值（若其引导负能量）。每次他令圣痕生效时，辩护者选择将加值加在攻击检定、武器伤害、AC、施法者等级检定或是豁免上；要改变加值加成的项目，辩护者必须先停止然后再次启动圣痕效果。当圣痕持续出血时，辩护者忽视任何其他来源带来的血液吸取和出血伤害效果，并能够以标准动作随意施展“出血术”或“伤势稳定”。"
+  },
+  {
+    "Key": "HV.Stigmata.Description.Move",
+    "ProcessTemplates": false,
+    "enGB": "At 6th level it becomes a move action, a vindicator can stop or start the bleeding of his stigmata as a move action.",
+    "ruRU": "At 6th level it becomes a move action, a vindicator can stop or start the bleeding of his stigmata as a move action.",
+    "zhCN": "在6级时，圣痕改为一个移动动作，神圣辩护者能够用一个移动动作以意念之力制止或开始圣痕出血。"
+  },
+  {
+    "Key": "HV.Stigmata.Description.Swift",
+    "ProcessTemplates": false,
+    "enGB": "At 6th level it becomes a move action, a vindicator can stop or start the bleeding of his stigmata as a Swift action.",
+    "ruRU": "At 6th level it becomes a move action, a vindicator can stop or start the bleeding of his stigmata as a Swift action.",
+    "zhCN": "在6级时，圣痕改为一个迅捷动作，神圣辩护者能够用一个迅捷动作以意念之力制止或开始圣痕出血。"
+  },
+  {
+    "Key": "HV.Stigmata.Sacred.AttackRolls",
+    "ProcessTemplates": false,
+    "enGB": " — Attack Rolls (Sacred)",
+    "ruRU": " — Attack Rolls (Sacred)",
+    "zhCN": " — 攻击检定（崇圣）"
+  },
+  {
+    "Key": "HV.Stigmata.Sacred.WeaponDamage",
+    "ProcessTemplates": false,
+    "enGB": " — Weapon Damage (Sacred)",
+    "ruRU": " — Weapon Damage (Sacred)",
+    "zhCN": " — 武器伤害（崇圣）"
+  },
+  {
+    "Key": "HV.Stigmata.Sacred.ArmorClass",
+    "ProcessTemplates": false,
+    "enGB": " — Armor Class (Sacred)",
+    "ruRU": " — Armor Class (Sacred)",
+    "zhCN": " — 防御等级（崇圣）"
+  },
+  {
+    "Key": "HV.Stigmata.Sacred.CasterLevel",
+    "ProcessTemplates": false,
+    "enGB": " — Caster Level Checks (Sacred)",
+    "ruRU": " — Caster Level Checks (Sacred)",
+    "zhCN": " — 施法者等级检定（崇圣）"
+  },
+  {
+    "Key": "HV.Stigmata.Sacred.Saves",
+    "ProcessTemplates": false,
+    "enGB": " — Saving Throws (Sacred)",
+    "ruRU": " — Saving Throws (Sacred)",
+    "zhCN": " — 豁免检定（崇圣）"
+  },
+  {
+    "Key": "HV.Stigmata.Profane.AttackRolls",
+    "ProcessTemplates": false,
+    "enGB": " — Attack Rolls (Profane)",
+    "ruRU": " — Attack Rolls (Profane)",
+    "zhCN": " — 攻击检定（亵渎）"
+  },
+  {
+    "Key": "HV.Stigmata.Profane.WeaponDamage",
+    "ProcessTemplates": false,
+    "enGB": " — Weapon Damage (Profane)",
+    "ruRU": " — Weapon Damage (Profane)",
+    "zhCN": " — 武器伤害（亵渎）"
+  },
+  {
+    "Key": "HV.Stigmata.Profane.ArmorClass",
+    "ProcessTemplates": false,
+    "enGB": " — Armor Class (Profane)",
+    "ruRU": " — Armor Class (Profane)",
+    "zhCN": " — 防御等级（亵渎）"
+  },
+  {
+    "Key": "HV.Stigmata.Profane.CasterLevel",
+    "ProcessTemplates": false,
+    "enGB": " — Caster Level Checks (Profane)",
+    "ruRU": " — Caster Level Checks (Profane)",
+    "zhCN": " — 施法者等级检定（亵渎）"
+  },
+  {
+    "Key": "HV.Stigmata.Profane.Saves",
+    "ProcessTemplates": false,
+    "enGB": " — Saving Throws (Profane)",
+    "ruRU": " — Saving Throws (Profane)",
+    "zhCN": " — 豁免检定（亵渎）"
+  },
+  {
+    "Key": "HV.Faith.Name",
+    "ProcessTemplates": false,
+    "enGB": "Faith Healing",
+    "ruRU": "Faith Healing",
+    "zhCN": "信念医疗"
+  },
+  {
+    "Key": "HV.Faith.Empower.Name",
+    "ProcessTemplates": false,
+    "enGB": " — Empowered",
+    "ruRU": " — Empowered",
+    "zhCN": " — 强效"
+  },
+  {
+    "Key": "HV.Faith.Empower.Description",
+    "ProcessTemplates": false,
+    "enGB": "At 3rd level, any cure wounds spells a vindicator casts on himself are automatically empowered as if by the Empower Spell feat, except they do not use higher spell level slots or an increased casting time. If the vindicator targets himself with a cure spell that affects multiple creatures, this ability only applies to himself.",
+    "ruRU": "At 3rd level, any cure wounds spells a vindicator casts on himself are automatically empowered as if by the Empower Spell feat, except they do not use higher spell level slots or an increased casting time. If the vindicator targets himself with a cure spell that affects multiple creatures, this ability only applies to himself.",
+    "zhCN": "3级时，辩护者对自己施展的任何治疗伤害法术自动强效，如同被“法术强效”专长增强一样，但并不使用更高等级的法术位或延长施法时间。若辩护者对自己释放一个能影响多个生物的治疗法术，则本能力仅对他自身生效。在8级时，这些治疗法术改为极效（代替强效）。"
+  },
+  {
+    "Key": "HV.Faith.Maximize.Name",
+    "ProcessTemplates": false,
+    "enGB": " — Maximized",
+    "ruRU": " — Maximized",
+    "zhCN": " — 极效"
+  },
+  {
+    "Key": "HV.Faith.Maximize.Description",
+    "ProcessTemplates": false,
+    "enGB": "At 8th level, any cure wounds spells a vindicator casts on himself are automatically maximized, instead of empowered, as if by the Empower Spell feat, except they do not use higher spell level slots or an increased casting time. If the vindicator targets himself with a cure spell that affects multiple creatures, this ability only applies to himself.",
+    "ruRU": "At 8th level, any cure wounds spells a vindicator casts on himself are automatically maximized, instead of empowered, as if by the Empower Spell feat, except they do not use higher spell level slots or an increased casting time. If the vindicator targets himself with a cure spell that affects multiple creatures, this ability only applies to himself.",
+    "zhCN": "8级时，辩护者对自己施展的任何治疗伤害法术自动极效（代替强效），如同被“法术极效”专长增强一样，但并不使用更高等级的法术位或延长施法时间。若辩护者对自己释放一个能影响多个生物的治疗法术，则本能力仅对他自身生效。"
+  },
+  {
+    "Key": "HV.Wrath.Name",
+    "ProcessTemplates": false,
+    "enGB": "Divine Wrath",
+    "ruRU": "Divine Wrath",
+    "zhCN": "圣怒"
+  },
+  {
+    "Key": "HV.Wrath.Description",
+    "ProcessTemplates": false,
+    "enGB": "At 4th level, when a vindicator confirms a critical hit, he may sacrifice a prepared 1st-level spell or available 1st-level spell slot to invoke doom upon the target as an immediate action",
+    "ruRU": "At 4th level, when a vindicator confirms a critical hit, he may sacrifice a prepared 1st-level spell or available 1st-level spell slot to invoke doom upon the target as an immediate action",
+    "zhCN": "4级时，每当辩护者确认重击命中时，他可以牺牲一个已准备好的1级法术或可用1级法术位对目标以即时动作造成“丧志术”"
+  },
+  {
+    "Key": "HV.Wrath.Buff.Description",
+    "ProcessTemplates": false,
+    "enGB": "You're next confirmed critical hit will invoke doom upon the target",
+    "ruRU": "You're next confirmed critical hit will invoke doom upon the target",
+    "zhCN": "你下次确认重击命中会对目标施加“丧志术”"
+  },
+  {
+    "Key": "HV.Shield.Name",
+    "ProcessTemplates": false,
+    "enGB": "Vindicator’s Shield",
+    "ruRU": "Vindicator’s Shield",
+    "zhCN": "辩护之盾"
+  },
+  {
+    "Key": "HV.Shield.Description",
+    "ProcessTemplates": false,
+    "enGB": "A vindicator can channel energy into his shield as a standard action; when worn, the shield gives the vindicator a sacred bonus (if positive energy) or profane bonus (if negative energy) to his Armor Class equal to the number of dice of the vindicator’s channel energy. This bonus lasts for 24 hours or until the vindicator is struck in combat, whichever comes first. The shield does not provide this bonus to any other wielder, but the vindicator does not need to be holding the shield for it to retain this power.",
+    "ruRU": "A vindicator can channel energy into his shield as a standard action; when worn, the shield gives the vindicator a sacred bonus (if positive energy) or profane bonus (if negative energy) to his Armor Class equal to the number of dice of the vindicator’s channel energy. This bonus lasts for 24 hours or until the vindicator is struck in combat, whichever comes first. The shield does not provide this bonus to any other wielder, but the vindicator does not need to be holding the shield for it to retain this power.",
+    "zhCN": "辩护者能够以标准动作引导能量到他的盾中；当装备时，盾牌提供给辩护者崇圣加值（若为正能量）或亵渎加值（若为负能量）到他的AC上，加值等于其引导能量的骰数。此加值持续24小时或直到辩护者在战斗中被命中。盾牌对任何其他使用者不会提供此加值，但辩护者无需一直手持盾牌以使其保留此效果。"
+  },
+  {
+    "Key": "HV.Channel.Name",
+    "ProcessTemplates": false,
+    "enGB": "Channel Energy",
+    "ruRU": "Channel Energy",
+    "zhCN": "引导能量"
+  },
+  {
+    "Key": "HV.Channel.Description",
+    "ProcessTemplates": false,
+    "enGB": "The vindicator’s class level stacks with levels in any other class that grants the channel energy ability.",
+    "ruRU": "The vindicator’s class level stacks with levels in any other class that grants the channel energy ability.",
+    "zhCN": "辩护者的职业等级与其他带来“引导能量”能力的职业等级合计。"
+  },
+  {
+    "Key": "HV.Versatile.Name",
+    "ProcessTemplates": false,
+    "enGB": "Versatile Channel",
+    "ruRU": "Versatile Channel",
+    "zhCN": "多样化引导"
+  },
+  {
+    "Key": "HV.Versatile.Description",
+    "ProcessTemplates": false,
+    "enGB": "At 6th level, a vindicator’s channel energy can instead affect a 30-foot cone or a 120-foot line.",
+    "ruRU": "At 6th level, a vindicator’s channel energy can instead affect a 30-foot cone or a 120-foot line.",
+    "zhCN": "6级时，辩护者的引导能量能够改为影响30尺的锥形或120尺直线区域。"
+  },
+  {
+    "Key": "HV.Smite.Name",
+    "ProcessTemplates": false,
+    "enGB": "Channel Smite",
+    "ruRU": "Channel Smite",
+    "zhCN": "导能打击"
+  },
+  {
+    "Key": "HV.Smite.Description",
+    "ProcessTemplates": false,
+    "enGB": "At 5th level, a vindicator gains Channel Smite as a bonus feat.",
+    "ruRU": "At 5th level, a vindicator gains Channel Smite as a bonus feat.",
+    "zhCN": "5级时，辩护者获得“导能打击”作为额外专长。"
+  },
+  {
+    "Key": "HV.Bloodfire.Name",
+    "ProcessTemplates": false,
+    "enGB": "Bloodfire",
+    "ruRU": "Bloodfire",
+    "zhCN": "血焰"
+  },
+  {
+    "Key": "HV.Bloodfire.Description",
+    "ProcessTemplates": false,
+    "enGB": "At 5th level, while a vindicator’s stigmata are bleeding, his blood runs down his weapons like sacred or profane liquid energy; when he uses Channel Smite, the damage increases by 1d6, and if the target fails its save, it is sickened and takes 1d6 points of bleed damage each round on its turn. The target can attempt a new save every round to end the sickened and bleed effects.",
+    "ruRU": "At 5th level, while a vindicator’s stigmata are bleeding, his blood runs down his weapons like sacred or profane liquid energy; when he uses Channel Smite, the damage increases by 1d6, and if the target fails its save, it is sickened and takes 1d6 points of bleed damage each round on its turn. The target can attempt a new save every round to end the sickened and bleed effects.",
+    "zhCN": "5级时，当辩护者的圣痕出血时，他的鲜血淌至他的武器上，如同液态的崇圣或亵渎能量；当他使用“导能打击”时伤害增加1d6。并且若目标豁免失败，则陷入恶心状态并在行动时每轮受1d6出血伤害。目标可以每轮尝试豁免检定以结束恶心和出血效果。"
+  },
+  {
+    "Key": "HV.Bloodrain.Name",
+    "ProcessTemplates": false,
+    "enGB": "Bloodrain",
+    "ruRU": "Bloodrain",
+    "zhCN": "血雨"
+  },
+  {
+    "Key": "HV.Bloodrain.Description",
+    "ProcessTemplates": false,
+    "enGB": "At 9th level, while his stigmata are bleeding, the vindicator’s harmful channeled energy is accompanied by a burst of sacred or profane liquid energy, increasing the damage by 1d6. Creatures failing their saves against the channeled energy become sickened and take 1d6 points of bleed damage each round. Affected creatures can attempt a new save every round to end the sickened and bleed effects.",
+    "ruRU": "At 9th level, while his stigmata are bleeding, the vindicator’s harmful channeled energy is accompanied by a burst of sacred or profane liquid energy, increasing the damage by 1d6. Creatures failing their saves against the channeled energy become sickened and take 1d6 points of bleed damage each round. Affected creatures can attempt a new save every round to end the sickened and bleed effects.",
+    "zhCN": "9级时，当圣痕出血时，辩护者的伤害性引导能量伴随着一阵崇圣或亵渎液态能量的爆发，令伤害增加1D6。对抗引导能量豁免失败的生物陷入恶心并每轮受到1d6点出血伤害。受影响的生物可以每轮进行检定以终止恶心和出血效果。"
+  }
+]
