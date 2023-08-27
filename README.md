@@ -1952,9 +1952,9 @@
            <tr><td>Storm Druid 风暴德鲁伊</td></tr> 
            <tr><td>Urban Druid 文明德鲁伊</td></tr> 
            <tr><td>Bear Totem Shaman 熊图腾萨满</td></tr> 
-	   <tr><td>Treesinger 树之歌者（暂未汉化）</td></tr> 
+	   <tr><td>Treesinger 树之歌者</td></tr> 
        <tr><td rowspan="1">牧师</td>
-           <td>Divine Scourge 神圣鞭笞者（暂未汉化）</td></tr> 
+           <td>Divine Scourge 神圣鞭笞者</td></tr> 
        <tr><td rowspan="2">圣骑士</td>
            <td>Temple Champion 圣殿冠军</td></tr> 
            <tr><td>Silver Champion 银冠勇士</td></tr> 
@@ -2003,7 +2003,7 @@
    <tr><td>领域</td>
        <td>Scalykind 鳞状<br>Plant 植物领域修改为桌面规则</td></tr>
    <tr><td>子领域</td>
-       <td>Agathion 阿加西翁、 Archon 亚空, Blood 血液、Caves 洞穴、Curse 诅咒、 Demon, Dragon 龙、Ferocity 凶猛、Ice 冰、Lust 欲望、Psychopomp 招魂、Rage 狂暴、 Resolve 决心、Restoration 恢复、Revelation 启示、Revolution 革命、Rivers 河流、Stars 星空、Storm 风暴、Thievery 盗窃、Undead 不死、Whimsy 滑稽、Wind 风<br>Growth 生长、Fist 铁拳、Loyalty 忠诚（暂未汉化）</td></tr>
+       <td>Agathion 阿加西翁、 Archon 亚空, Blood 血液、Caves 洞穴、Curse 诅咒、 Demon, Dragon 龙、Ferocity 凶猛、Ice 冰、Lust 欲望、Psychopomp 招魂、Rage 狂暴、 Resolve 决心、Restoration 恢复、Revelation 启示、Revolution 革命、Rivers 河流、Stars 星空、Storm 风暴、Thievery 盗窃、Undead 不死、Whimsy 滑稽、Wind 风、Growth 生长、Fist 铁拳、Loyalty 忠诚</td></tr>
    <tr><td colspan="2" rowspan="29">法术<br><i>参阅PF文档</i></td>
        <td>Hydraulic push 水流冲击</td></tr>
    <tr><td>Slipstream 滑流</td></tr>
