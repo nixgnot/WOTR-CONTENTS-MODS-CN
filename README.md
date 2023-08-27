@@ -3523,12 +3523,13 @@ C:\Users\你的用户名\AppData\LocalLow\Owlcat Games\Pathfinder Wrath Of The R
 > *新增内容：* 进阶职业<br>
 <table>
  <tr><th colspan="3">新增内容列表<br></th></tr> 
-  <tr><td rowspan="5">进阶职业</i></td>
+  <tr><td rowspan="6">进阶职业</i></td>
        <td colspan="2">大骑士 Chevalier</td></tr>
        <tr><td colspan="2">后继者远征骑士 Inheritor’s Crusader</td></tr>
        <tr><td colspan="2">影舞者 Shadowdancer</td></tr>
        <tr><td colspan="2">墓穴使徒 Agent of the Grave</td></tr>
        <tr><td colspan="2">戍乡人 Hinterlander</td></tr>
+       <tr><td colspan="2">魔射手 Arcane Archer</td></tr>
   <tr><td rowspan="1">游荡者天赋</i></td>
        <td>防御翻滚 Defensive Roll </td><td>房规改动，加入类似屹立不倒的效果</td></tr>
 </table>    
