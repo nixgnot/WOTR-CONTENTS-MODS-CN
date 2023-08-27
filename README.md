@@ -3506,7 +3506,7 @@ C:\Users\你的用户名\AppData\LocalLow\Owlcat Games\Pathfinder Wrath Of The R
 -------------------------------------------   
 ### [WoTRHolyVindicator](https://github.com/SpencerMycek/WoTR-HolyVindicator)
 > *前置：* 无<br>
-> *中文：* **暂无**<br>
+> *中文：* **已提交**<br>
 > *安装方式：* **UMM**<br>
 > *新增内容：* 神圣辩护者<br>
 <table>
