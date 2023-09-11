@@ -281,7 +281,7 @@
   {
     "Key": "SoulknifeQuickDraw.Description",
     "enGB_Base": "A 5th level soulknife may manifest her mind blade as a free action, though she may still only attempt to do so once per round (unless throwing the weapon multiple times using the Multiple Throw blade skill).",
-    "zhCN": "自5级开始，魂刃可以以一个自由动作显形念刃，尽管她一回合依然只能显形一把念刃（除非是使用暴雨梨花这一剑技进行复数念刃投掷，她可以显形复数的念刃）。"
+    "zhCN": "自5级开始，魂刃可以以一个自由动作显形念刃，尽管她一轮依然只能显形一把念刃（除非是使用暴雨梨花这一剑技进行复数念刃投掷，她可以显形复数的念刃）。"
   },
   {
     "Key": "ThrowMindBladeFeat.Name",
