@@ -75,7 +75,7 @@
 | [WoTRHolyVindicator](#WoTRHolyVindicator) | 神圣辩护者 | 暂无 | :heavy_check_mark: | :star::star: | :file_folder: |||
 | [PrestigePlus](#PrestigePlus) | 进阶职业扩展 | 自带 | :heavy_check_mark: | :star::star: | :file_folder: |||
 | [TransfiguredCasterArchetypes](#TransfiguredCasterArchetypes) | 施法者变体 | 暂无 | :heavy_check_mark: | :star::star: | :file_folder: |||
-
+| [HomebrewWarlock](#HomebrewWarlock) | 3.5e邪术师 | QL汉化 | :heavy_check_mark: | :star::star: | :file_folder: |||
 
 备注
 + UMM一栏为是否使用UMM安装
@@ -3546,10 +3546,25 @@ C:\Users\你的用户名\AppData\LocalLow\Owlcat Games\Pathfinder Wrath Of The R
  <tr><th colspan="3">新增内容列表<br></th></tr> 
   <tr><td rowspan="1">变体</i></td>
        <td rowspan="1">审判官</td>
-	       <td>怀言者 Living Grimoire</td>
+	       <td>怀言者 Living Grimoire</td></tr>
 </table>    
 
 -------------------------------------------   
+### [HomebrewWarlock](https://github.com/microsoftenator2022/HomebrewWarlock)
+> *前置：* 无<br>
+> *中文：* **暂无**<br>
+> *安装方式：* **UMM**<br>
+> *新增内容：* 变体<br>
++ 移植并改编DND3.5E的邪术师到WOTR
+<table>
+ <tr><th colspan="2">新增内容列表<br></th></tr> 
+  <tr><td rowspan="2">职业</i></td>
+       <td rowspan="1">原邪术师 Warlock</td></tr>
+	       <td>注：由于MysticalMayhem已经添加了为PF设计的第三方规则邪术师（Warlock），为了更好区别两者，故翻译中将该来自DND3.5E移植改编的职业改名原邪术师，并将Eldritch Blast译名改为“魔能爆”，以防止相关专长混淆。</td></tr>
+  <tr><td rowspan="1">专长</i></td>
+       <td rowspan="1">魔能爆相关超魔</td></tr>
+</table>    
+
 
 ### 功能MOD索引
 + [ToyBox](https://www.nexusmods.com/pathfinderwrathoftherighteous/mods/8) 应该不用介绍？
