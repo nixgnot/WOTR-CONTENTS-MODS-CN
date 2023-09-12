@@ -1,1 +1,1066 @@
-
+ [
+    {
+      "Key": "MM_MaterialFreedom_Name",
+      "zhCN": "材料自由"
+    },
+    {
+      "Key": "MM_MaterialFreedom_Desc",
+      "zhCN": "你的神话力量允许你忽视法术的材料成分。\n效果：选择一种特定的材料成分：你可以在不持有此材料成分的情况下施放某个通常需要它的法术。你可以多次选取这项能力。"
+    },
+    {
+      "Key": "MM_MaterialFreedomJade_Name",
+      "zhCN": "材料自由（翡翠）"
+    },
+    {
+      "Key": "MM_MaterialFreedomJade_Desc",
+      "zhCN": "你可以忽视法术成分中对翡翠的需求。"
+    },
+    {
+      "Key": "MM_MaterialFreedomDust_Name",
+      "zhCN": "材料自由（钻石尘）"
+    },
+    {
+      "Key": "MM_MaterialFreedomDust_Desc",
+      "zhCN": "你可以忽视法术成分中对钻石尘的需求。"
+    },
+    {
+      "Key": "MM_MaterialFreedomDiamond_Name",
+      "zhCN": "材料自由（钻石）"
+    },
+    {
+      "Key": "MM_MaterialFreedomDiamond_Desc",
+      "zhCN": "你可以忽视法术成分中对钻石的需求。"
+    },
+    {
+      "Key": "MM_MaterialFreedomBone_Name",
+      "zhCN": "材料自由（恐龙骨头）"
+    },
+    {
+      "Key": "MM_MaterialFreedomBone_Desc",
+      "zhCN": "你可以忽视法术成分中对恐龙骨头的需求。"
+    },
+    {
+      "Key": "MM_AcadamaeGraduate_Name",
+      "zhCN": "魔学院毕业生"
+    },
+    {
+      "Key": "MM_AcadamaeGraduate_Desc",
+      "zhCN": "当你施放一个当天已准备的具有召唤描述符的咒法系奥术法术时，将施法时间由整轮动作缩短为标准动作。以这种方式施放一个法术十分费力，你需要通过一次强韧豁免（DC=15 +法术等级）检定来避免陷入1分钟的疲劳。如果你已经疲劳，则施法时间不会缩短。"
+    },
+    {
+      "Key": "MM_CircleOfOrder_Name",
+      "zhCN": "秩序之环"
+    },
+    {
+      "Key": "MM_CircleOfOrder_Desc",
+      "zhCN": "以一个迅捷动作，魔战士可以从他的奥法池中消耗1点奥法点数来增强对混乱攻击的防御。在对抗混乱攻击和效果以及混乱类型的敌人时，防御等级（AC）获得等同于他魔战士等级的一半的闪避加值（20级时达到最高+10），持续到他的下一回合开始。"
+    },
+    {
+      "Key": "MM_Warsighted_Name",
+      "zhCN": "千军武神"
+    },
+    {
+      "Key": "MM_Warsighted_Desc",
+      "zhCN": "一位千军武神的独特天赋不在于奇特的魔法启示，而在于他在战斗中适应新的战斗技术的能力。"
+    },
+    {
+      "Key": "MM_WarsightedFeatSelection_Name",
+      "zhCN": "额外战斗专长"
+    },
+    {
+      "Key": "MM_WarsightedFeatSelection_Desc",
+      "zhCN": "1级，7级，11级和15级时，千军武神可以学习一个额外战斗专长。他仍需满足这些专长的先决条件。"
+    },
+    {
+      "Key": "MM_Flagellant_Name",
+      "zhCN": "苦修者"
+    },
+    {
+      "Key": "MM_Flagellant_Desc",
+      "zhCN": "苦修者相信痛苦和苦难通向神性的觉醒。一种常见的鞭笞方法是在祈祷时用皮带抽打肩膀。还有一些苦修者用刀刃洗擦他们的四肢。他们的伤口表明了他们的虔诚，而对自己造成的痛苦则凝聚了他们的信仰。"
+    },
+    {
+      "Key": "MM_FlagellantProfs_Name",
+      "zhCN": "苦修者擅长"
+    },
+    {
+      "Key": "MM_FlagellantProfs_Desc",
+      "zhCN": "苦修者擅长使用轻型盔甲和盾牌，以及以下武器：木棒、匕首、重型硬头锤、轻型硬头锤、木棍和轻弩。"
+    },
+    {
+      "Key": "MM_FlagellantFocused_Name",
+      "zhCN": "专注"
+    },
+    {
+      "Key": "MM_FlagellantFocused_Desc",
+      "zhCN": "苦修者每级获得额外2个技能点。"
+    },
+    {
+      "Key": "MM_FlagellantDR_Name",
+      "zhCN": "行尸走肉"
+    },
+    {
+      "Key": "MM_FlagellantDR_Desc",
+      "zhCN": "7级时，苦修者变得十分习惯物理伤害，他获得DR 1/—。10级时，以及之后的每3个牧师等级（13级、16级和19级），此伤害减免提高1点。"
+    },
+    {
+      "Key": "MM_FlagellantMortifiedCasting_Name",
+      "zhCN": "殉术施法"
+    },
+    {
+      "Key": "MM_FlagellantMortifiedCasting_Desc",
+      "zhCN": "苦修者通过他自己的血液来驱动施法。以一个迅捷动作，他可以对自己造成等同于即将施放的法术等级的伤害。如果他这样做了，他可以将此法术的施法者等级或豁免难度（DC）提高1点。\n如果他剩下的生命值低于法术等级，法术就会失效。"
+    },
+    {
+      "Key": "MM_FlagellantMortifiedCastingDCBuff_Desc",
+      "zhCN": "你在此回合施放的下一个法术的豁免难度（DC）+1，但你将受到与施放法术等级相同的伤害。"
+    },
+    {
+      "Key": "MM_FlagellantMortifiedCastingCLBuff_Desc",
+      "zhCN": "你在此回合施放的下一个法术的施法者等级+1，但你将受到与施放法术等级相同的伤害。"
+    },
+    {
+      "Key": "MM_FlagellantMortifiedCastingDCAb_Name",
+      "zhCN": "殉术施法 — 提高DC"
+    },
+    {
+      "Key": "MM_FlagellantMortifiedCastingDCAb_Desc",
+      "zhCN": "你施放的下一个法术的豁免难度（DC）+1。"
+    },
+    {
+      "Key": "MM_FlagellantMortifiedCastingCLAb_Name",
+      "zhCN": "殉术施法 — 提高CL"
+    },
+    {
+      "Key": "MM_FlagellantMortifiedCastingCLAb_Desc",
+      "zhCN": "你施放的下一个法术的施法者等级+1。"
+    },
+    {
+      "Key": "MM_FlagellantGMortifiedCasting_Name",
+      "zhCN": "高等殉术施法"
+    },
+    {
+      "Key": "MM_FlagellantGMortifiedCasting_Desc",
+      "zhCN": "11级时，苦修者可以将法术的施法者等级或豁免难度（DC）提高2点而不是1点，但对自己造成的伤害变为原来的2倍。"
+    },
+    {
+      "Key": "MM_FlagellantGMortifiedCastingDCBuff_Desc",
+      "zhCN": "你在此回合施放的下一个法术的DC+2，但你将受到施放法术等级2倍的伤害。"
+    },
+    {
+      "Key": "MM_FlagellantGMortifiedCastingCLBuff_Desc",
+      "zhCN": "你在此回合施放的下一个法术的CL+2，但你将受到施放法术等级2倍的伤害。"
+    },
+    {
+      "Key": "MM_FlagellantGMortifiedCastingAb_Desc",
+      "zhCN": "以一个迅捷动作，他可以对自己造成等同于即将施放的法术等级2倍的伤害。如果他这样做了，他可以将此法术的施法者等级或豁免难度（DC）提高2点。\n如果他剩下的生命值低于法术等级，法术就会失效。"
+    },
+    {
+      "Key": "MM_FlagellantGMortifiedCastingDCAb_Name",
+      "zhCN": "高等殉术施法 — 提高DC"
+    },
+    {
+      "Key": "MM_FlagellantGMortifiedCastingDCAb_Desc",
+      "zhCN": "你在此回合施放的下一个法术的豁免难度（DC）+2。"
+    },
+    {
+      "Key": "MM_FlagellantGMortifiedCastingCLAb_Name",
+      "zhCN": "高等殉术施法 — 提高CL"
+    },
+    {
+      "Key": "MM_FlagellantGMortifiedCastingCLAb_Desc",
+      "zhCN": "你在此回合施放的下一个法术的施法者等级+2。"
+    },
+    {
+      "Key": "MM_StaffLikeWand_Name",
+      "zhCN": "类权杖魔杖"
+    },
+    {
+      "Key": "MM_StaffLikeWand_Desc",
+      "zhCN": "你的研究解锁了一种与魔杖结合的新力量。你通过魔杖施放的法术的豁免难度（DC）使用你自己的智力和相关专长的调整值，如果你的施法者等级高于魔杖的施法者等级，你可以在激活魔杖的力量时使用你的施法者等级。"
+    },
+    {
+      "Key": "MM_PurityOfSin_Name",
+      "zhCN": "纯粹原罪"
+    },
+    {
+      "Key": "MM_PurityOfSin_Desc",
+      "zhCN": "你在理解塔西伦施法体系上达到了一个重要的转折点。\n效果：当你施放属于你的塔西伦专精学派的法术时，你在施法者等级上获得+2加值。"
+    },
+    {
+      "Key": "MM_MythicPurityOfSin_Name",
+      "zhCN": "纯粹原罪（神话）"
+    },
+    {
+      "Key": "MM_MythicPurityOfSin_Desc",
+      "zhCN": "你完全掌握了塔西伦原罪魔法。\n效果：纯粹原罪的额外加值现在也适用于法术的豁免难度（DC）。"
+    },
+    {
+      "Key": "MM_PactWizard_Name",
+      "zhCN": "密契法师"
+    },
+    {
+      "Key": "MM_PactWizard_Desc",
+      "zhCN": "虽然魔法技艺通常是学者的追求，但也有一些人寻求无需枯燥学习和单调研究就能掌握奥法力量的方法。在愚蠢的野心的驱使下，这些人转向宇宙中伟大的神秘存在，希望获得更强大的力量。虽然很少有人成功地吸引了这些力量的注意，但那些确实因为他们的努力而获得了惊人的奥法力量的人，却成为了与他们结合的力量的尽职的玩物和仆人。"
+    },
+    {
+      "Key": "MM_PactWizardPatron_Name",
+      "zhCN": "庇护主"
+    },
+    {
+      "Key": "MM_PactWizardPatron_Desc",
+      "zhCN": "1级时，密契法师必须选择一个庇护主。这个能力类似于巫师的同名职业能力，不同的是密契法师会自动将庇护主的法术添加到他的法术书中，而不是添加到他的魔宠法术书中。"
+    },
+    {
+      "Key": "MM_PactWizardConversion_Name",
+      "zhCN": "自发施法转换"
+    },
+    {
+      "Key": "MM_PactWizardConversion_Desc",
+      "zhCN": "除从专精学派获得的额外法术位外，密契法师可以消耗任何一个已准备的法术，来自发地施放一个相同级别或更低级别的庇护主法术。"
+    },
+    {
+      "Key": "MM_PactWizardCurse_Name",
+      "zhCN": "得千失万"
+    },
+    {
+      "Key": "MM_PactWizardCurse_Desc",
+      "zhCN": "随着密契法师的力量增强，他所选择的庇护主会开始影响他的肉体。\n5级时，密契巫师选择一个先知诅咒，在决定这个诅咒的效果时，使用他角色等级的一半作为他的有效先知等级。\n如果一个先知诅咒会把法术添加到先知的已知法术列表中，密契法师就会把这些法术添加到法师的法术列表和他的法术书中。"
+    },
+    {
+      "Key": "MM_PactWizardReroll_Desc",
+      "zhCN": "10级时，密契法师可以祈求他的庇护主的力量，在尝试任何施法者等级检定、专注检定、先攻检定或豁免检定时掷两次骰并取更高的结果。他可以在尝试检定前以自由动作激活此能力。密契法师每日可以使用这个技能的次数等于3+他的智力调整值的一半。"
+    },
+    {
+      "Key": "MM_PactWizardRollBonus_Desc",
+      "zhCN": "15级时，当密契法师祈求他的庇护主的力量掷两次骰时，他可以将自己的智力调整值作为洞察加值添加到结果中。"
+    },
+    {
+      "Key": "MM_PactWizardMetamagic_Desc",
+      "zhCN": "当密契法师将超魔专长应用于通过庇护主或先知诅咒获得的任何法术时，他可以将该法术的最终有效等级降低1级（最低等于该法术的原始等级）。"
+    },
+    {
+      "Key": "MM_PactWizardAutoSuccess_Desc",
+      "zhCN": "20级时，当密契法师祈求他的庇护主的力量掷两次骰，而结果出现自然20时，他可以自动确认成功，而不管该类型的检定通常是否允许自动确认成功。"
+    },
+    {
+      "Key": "MM_Shaman20_Name",
+      "zhCN": "显圣"
+    },
+    {
+      "Key": "MM_Shaman20_Battle_Desc",
+      "zhCN": "20级时，萨满化身为战斗之灵。他获得猛扑能力。每当他造成重击时，攻击会忽略伤害减免。萨满对抗重击确认检定的防御等级（AC）获得+4洞察加值。"
+    },
+    {
+      "Key": "MM_Shaman20_Bones_Desc",
+      "zhCN": "20级时，萨满化身为死亡之灵。他可以随意施放操纵亡者，并可以每日一次以类法术能力施放律令死亡。"
+    },
+    {
+      "Key": "MM_Shaman20_Flame_Desc",
+      "zhCN": "20级时，萨满化身为火焰之灵。萨满获得30点火焰抗性。他施放的所有带有火焰描述符的法术将被强效，如同运用法术强效专长。"
+    },
+    {
+      "Key": "MM_Shaman20_Frost_Desc",
+      "zhCN": "20级时，萨满化身为寒冰与雪的存在。萨满获得对寒冷的免疫。他施放的所有带有寒冷描述符的法术将被强效，如同运用法术强效专长。"
+    },
+    {
+      "Key": "MM_Shaman20_Life_Desc",
+      "zhCN": "20级时，萨满化身为生命能量的完美引导者。他对流血、死亡攻击、力竭、疲劳、反胃、负向等级和恶心免疫。"
+    },
+    {
+      "Key": "MM_Shaman20_Nature_Desc",
+      "zhCN": "20级时，萨满化身为自然之灵。每日一次，以一个整轮动作，萨满可以将自己转化为植物，动物或类人生物，并获得相应的物理特性。这项转化不会改变他的生命骰，生命值，豁免检定，技能点，职业能力或擅长。每次进行转化时，萨满将清除所有毒素或疾病，恢复满生命值，并治疗所有属性伤害。每次进行转化时，萨满必须选择一个新的类型。"
+    },
+    {
+      "Key": "MM_Shaman20_Nature_Animal",
+      "zhCN": "显圣 — 动物"
+    },
+    {
+      "Key": "MM_Shaman20_Nature_Plant",
+      "zhCN": "显圣 — 植物"
+    },
+    {
+      "Key": "MM_Shaman20_Nature_Humanoid",
+      "zhCN": "显圣 — 类人生物"
+    },
+    {
+      "Key": "MM_Shaman20_Stone_Desc",
+      "zhCN": "20级时，萨满化身为酸蚀与土的存在。萨满获得30点酸蚀抗性。他施放的所有带有酸蚀描述符的法术将被强效，如同运用法术强效专长。"
+    },
+    {
+      "Key": "MM_MinuteLevel",
+      "zhCN": "1分钟/级"
+    },
+    {
+      "Key": "MM_1Round",
+      "zhCN": "1轮"
+    },
+    {
+      "Key": "MM_Blank",
+      "zhCN": ""
+    },
+    {
+      "Key": "MM_SchoolExpertise_Name",
+      "zhCN": "学派专擅"
+    },
+    {
+      "Key": "MM_SchoolExpertise_Desc",
+      "zhCN": "你花时间进一步研究了你选择的法术学派。\n效果：你的专精学派能力获得额外3次使用次数。你可以多次选取这项发现。"
+    },
+    {
+      "Key": "MM_Corrupted_Dragon_Prereq",
+      "zhCN": "腐化之龙"
+    },
+    {
+      "Key": "MM_EarthMagic_Name",
+      "zhCN": "大地魔法"
+    },
+    {
+      "Key": "MM_EarthMagic_Desc",
+      "zhCN": "你可以从大地汲取原始的魔法能量来增强你的法术。\n效果：当你处于你偏好的地形时，你的有效施法者等级提高1级，以提高依赖于施法者等级的法术的效果。有效施法者等级的提高并不能让你获得更多的法术。"
+    },
+    {
+      "Key": "MM_Shaman20_Waves_Desc",
+      "zhCN": "20级时，萨满化身为寒冰与水的掌控者。萨满获得30点寒冷抗性。他施放的所有带有寒冷描述符的法术将被强效，如同运用法术强效专长。"
+    },
+    {
+      "Key": "MM_Shaman20_Wind_Desc",
+      "zhCN": "20级时，萨满化身为风与电的存在。萨满获得30点电击抗性。他施放的所有带有电击描述符的法术将被强效，如同运用法术强效专长。"
+    },
+    {
+      "Key": "MM_RazmiranPriest_Name",
+      "zhCN": "拉兹密安牧师"
+    },
+    {
+      "Key": "MM_RazmiranPriest_Desc",
+      "zhCN": "所谓的拉兹密安的“牧师”是神奇的江湖骗子——活神的传教士仆人，他们无论到哪里都在传播活神的狂热信仰。被拉兹密安的魔法转变后，他们可以表现对其他术士来说不可能的专长。"
+    },
+    {
+      "Key": "MM_Razmir_Name",
+      "zhCN": "拉兹密安"
+    },
+    {
+      "Key": "MM_Razmir_Desc",
+      "zhCN": "拉兹密安是拉兹密尔地区的统治者，他自称是活神。\n虽然拉兹密安是一个强大的法师和优秀的骗子，但他不是一个真正的神，因此不能给他的追随者赐予神术，相反他们虚张声势，以神术的方式传递奥术魔法。"
+    },
+    {
+      "Key": "MM_FalsePiety_Name",
+      "zhCN": "伪牧师"
+    },
+    {
+      "Key": "MM_FalsePiety_Desc",
+      "zhCN": "1级时，拉兹密安牧师将学识（宗教）添加到他的本职技能列表中。在使用物品施放法术时，他将自己术士等级的一半添加到使用魔法装置的检定中，该效果只有当这些法术在牧师法术列表中才生效。"
+    },
+    {
+      "Key": "MM_LayHealer_Name",
+      "zhCN": "假疗者"
+    },
+    {
+      "Key": "MM_LayHealerLv3_Desc",
+      "zhCN": "3级时，拉兹密安牧师将援助术添加到他的已知法术列表。这将取代通常在3级学习的血承法术。"
+    },
+    {
+      "Key": "MM_LayHealerLv5_Desc",
+      "zhCN": "5级时，拉兹米尔牧师将移除疾病添加到他的已知法术列表。这将取代通常在5级学习的血承法术。"
+    },
+    {
+      "Key": "MM_RazmiranChannel_Name",
+      "zhCN": "拉兹密安的指引"
+    },
+    {
+      "Key": "MM_RazmiranChannel_Desc",
+      "zhCN": "9级时，拉兹密安牧师可以选择使用他自己的魔法来补充充满神术的物品。如果一根魔杖、卷轴或任何其他物品中含有牧师法术列表中的法术，拉兹密安牧师将消耗比该法术等级高一级的法术位，而不是消耗充能次数或消耗该物品。\n这将取代通常在9级取得的血承能力。"
+    },
+    {
+      "Key": "MM_RazmiranChannelAb_Desc",
+      "zhCN": "9级时，拉兹密安牧师可以选择使用他自己的魔法来补充充满神术的物品。如果一根魔杖、卷轴或任何其他物品中含有牧师法术列表中的法术，拉兹密安牧师将消耗比该法术等级高一级的法术位，而不是消耗充能次数或消耗该物品。"
+    },
+    {
+      "Key": "MM_RazmiranChannelBuff_Desc",
+      "zhCN": "当使用拉兹密安的指引时，你将消耗法术位而不是消耗物品充能次数来施放牧师法术。"
+    },
+    {
+      "Key": "MM_S_Title",
+      "zhCN": "Mystical Mayhem"
+    },
+    {
+      "Key": "MM_S_NoHomebrew",
+      "zhCN": "禁用自制内容"
+    },
+    {
+      "Key": "MM_S_NoHomebrew_Desc",
+      "zhCN": "禁用所有非官方内容。开启这个选项可以阻止你选择自制内容，但不会从现有的角色中删除自制内容。此选项只在重新启动游戏后生效。"
+    },
+    {
+      "Key": "MM_Malice_Name",
+      "zhCN": "恶意"
+    },
+    {
+      "Key": "MM_Malice_Desc",
+      "zhCN": "巫战士的攻击会因他和敌人之间的恶意连结而增强。他的近战攻击对任何正在受其巫术影响的敌人额外造成2d6点污邪伤害。"
+    },
+    {
+      "Key": "MM_SpellSynthesis_Name",
+      "zhCN": "双法合璧"
+    },
+    {
+      "Key": "MM_SpellSynthesis_Desc",
+      "zhCN": "10级时，秘术师可以使用一个动作施放两个法术，分别来自他的两个施法职业。两个法术的施法时间必须相同。秘术师可以独立做出关于这两个法术的决定。秘术师在这两个法术的豁免难度（DC）和穿透法术抗力所需的施法者等级检定中获得+2加值。秘术师每日可以使用这项能力一次。"
+    },
+    {
+      "Key": "MM_MythicSpellSynthesis_Name",
+      "zhCN": "充裕双法合璧"
+    },
+    {
+      "Key": "MM_MythicSpellSynthesis_Desc",
+      "zhCN": "你驾驭奥法和神圣力量的能力登峰造极。\n效果：每有三个神话阶层，你可以额外使用一次双法合璧能力。"
+    },
+    {
+      "Key": "MM_MeteorSwarm_Name",
+      "zhCN": "流星爆"
+    },
+    {
+      "Key": "MM_MeteorSwarm_Desc",
+      "zhCN": "流星爆是一个强力且壮观的法术，当你施放此法术时，四颗炽热的流星将坠落在你选定的区域。一旦它们到达地面就会爆炸，对该区域的所有生物造成28d6点火焰伤害。"
+    },
+    {
+      "Key": "MM_S_Adnd_Stoneskin",
+      "zhCN": "石肤（博德之门）"
+    },
+    {
+      "Key": "MM_S_Adnd_Stoneskin_Desc",
+      "zhCN": "改变石肤法术，使其更接近博德之门中的版本。"
+    },
+    {
+      "Key": "MM_Stoneskin_Desc",
+      "zhCN": "此法术创造一层完全覆盖施法者的石制外壳。石肤当然是魔法的，不会妨碍到施法者。它可以抵御物理攻击，如近战武器和炮弹。施法者等级每提高2级，施法时会获得额外的石肤层数（20级时最多可获得10层石肤）。施法者每拥有一层石肤，该法术将抵御一次攻击。如果所有石肤都被移除，法术就会消散。需要注意的是，这并不能保护施法者免受任何能量或力场攻击。"
+    },
+    {
+      "Key": "MM_StoneskinMass_Desc",
+      "zhCN": "此法术可以为距离施法者30尺内的一个目标创造一层完全覆盖目标的石制外壳。石肤当然是魔法的，不会妨碍到施法者。它可以抵御物理攻击，如近战武器和炮弹。施法者等级每提高2级，施法时会获得额外的石肤层数（20级时最多可获得10层石肤）。目标每拥有一层石肤，该法术将抵御一次攻击。如果所有石肤都被移除，法术就会消散。需要注意的是，这并不能保护目标免受任何能量或力场攻击。"
+    },
+    {
+      "Key": "MM_SureCasting_Name",
+      "zhCN": "精确施法"
+    },
+    {
+      "Key": "MM_SureCasting_Desc",
+      "zhCN": "你获得暂时的洞察力来看穿敌人的魔法防御。当你在下一轮结束前施放一个法术时，在进行穿透法术抗力的检定时将你的施法者等级视为比正常情况高5级。此加值不会增加任何其他由施法者等级影响的效果，如法术的伤害或范围，并只影响施放精确施法后的第一个法术。"
+    },
+    {
+      "Key": "MM_BloodyTears_Name",
+      "zhCN": "血泪与利齿狞笑"
+    },
+    {
+      "Key": "MM_BloodyTears_Desc",
+      "zhCN": "你的眼睛变为黑色并流出鲜血，牙齿变成参差不齐的利齿。你获得啮咬攻击(小体型伤害1d3，中体型伤害1d4)。你的威吓检定和带有恐惧描述符的法术的豁免难度（DC）检定获得+4亵渎加值。"
+    },
+    {
+      "Key": "MM_Warlock_Name",
+      "zhCN": "邪术师"
+    },
+    {
+      "Key": "MM_Warlock_Desc",
+      "zhCN": "邪术师从与下层位面的强大住民的契约和交易中汲取力量。这些下层位面的力量在他们的血脉中流动。对邪术师来说，控制这些力量和抵抗被它们控制的斗争仍然是一场永恒的斗争。邪术师的本质使他们被大多数社会和善良的居民所恐惧和攻击。因此，许多邪术师试图隐藏他们的能力和与下层位面的联系。一些人寻找接受他们的社群，另一些人则建立自己的社群。他们的工具有利于一种进攻性和主动性的心态。"
+    },
+    {
+      "Key": "MM_DraconicMalice_Name",
+      "zhCN": "龙威术"
+    },
+    {
+      "Key": "MM_DraconicMalice_Desc",
+      "zhCN": "你散发出一道蕴含龙威的灵光。灵光中的活物若免疫恐惧或影响心灵能力，则他们无法免疫你的法术、类法术能力、超自然能力所造成的恐惧，你试图挫败敌人士气的威吓检定也是一样无法免疫。"
+    },
+    {
+      "Key": "MM_DraconicMaliceBuff_Desc",
+      "zhCN": "你对恐惧和心灵影响能力的免疫被暂时移除。"
+    },
+    {
+      "Key": "MM_MightyStrength_Name",
+      "zhCN": "强壮之力"
+    },
+    {
+      "Key": "MM_MightyStrength_Desc",
+      "zhCN": "受术者变得更强壮。该法术能使目标的{g|Encyclopedia:Strength}力量{/g}获得+8增强{g|Encyclopedia:Bonus}加值{/g}，并如常提高{g|Encyclopedia:MeleeAttack}近战攻击{/g}检定、近战{g|Encyclopedia:Damage}伤害检定{/g}等应用力量调整值的情况。"
+    },
+    {
+      "Key": "MM_EXD_Draconic",
+      "zhCN": "龙"
+    },
+    {
+      "Key": "MM_EXD_SpellProtection",
+      "zhCN": "法术防护"
+    },
+    {
+      "Key": "MM_SpellTurning_Desc",
+      "zhCN": "以你为目标的法术或类法术效果会弹回原施法者的身上。这种防护性质的法术只会反转以你为目标的法术。效果型和区域型的法术不受影响，对远程接触类法术也无效。可反转的法术等级为7到10 (1d4+6)。具体数值由暗投决定。\n如果你成为了法术等级高于法术逆转剩余数值的法术目标，法术将会消散而不是对施法者造成伤害。"
+    },
+    {
+      "Key": "MM_S_Enemy_Prebuff",
+      "zhCN": "敌人预释放BUFF"
+    },
+    {
+      "Key": "MM_S_Enemy_Prebuff_Desc",
+      "zhCN": "允许敌人预先获得一部分新法术的BUFF。"
+    },
+    {
+      "Key": "MM_WarlockPatron_Name",
+      "zhCN": "邪术庇护主"
+    },
+    {
+      "Key": "MM_WarlockPatron_Short_Desc",
+      "zhCN": "一个邪术师必须从几个强大的外部实体中选择一个庇护主。这个选择将决定邪术师的能力，即他可以获得的祝福和显圣。"
+    },
+    {
+      "Key": "MM_WarlockBlessing_Short_Name",
+      "zhCN": "祝福"
+    },
+    {
+      "Key": "MM_WarlockBlessing_Short_Desc",
+      "zhCN": "邪术师可以在特定等级或者替代常规专长，选择若干项祝福。"
+    },
+    {
+      "Key": "MM_WarlockManif_Short_Name",
+      "zhCN": "显圣"
+    },
+    {
+      "Key": "MM_WarlockManif_Short_Desc",
+      "zhCN": "随着邪术师的力量增强，他开始展现与其庇护主相似的特质。"
+    },
+    {
+      "Key": "MM_WarlockCantrips_Desc",
+      "zhCN": "邪术师可以释放数个戏法或者0级法术，这些法术可以像其他法术一样实战，但是释放后不会被消耗，可以再次使用。"
+    },
+    {
+      "Key": "MM_WarlockProfs_Name",
+      "zhCN": "邪术师擅长"
+    },
+    {
+      "Key": "MM_WarlockProfs_Desc",
+      "zhCN": "邪术师擅长使用所有简易武器，也擅长轻型盔甲。穿着轻型盔甲时，邪术师施放邪术师法术不会承受通常的奥术失败率。然而，和其他任何奥术施法者一样，如果施展的法术包含姿势成分，穿着中型或重型盔甲或使用盾牌的邪术师需要承受奥术失败率。兼职其他职业的邪术师施展其他职业获得的奥术时，仍需要承受通常的奥术失败率"
+    },
+    {
+      "Key": "MM_WarlockPatron_Desc",
+      "zhCN": "邪术师的庇护主是他们力量的来源。邪术师的庇护主可以是恶魔系的祖先，也可以是强大的契约魔鬼，但每个庇护主都属于以下类别之一：地狱、邪魔、深渊、旧日支配者或精类生物。邪术师的庇护主决定了其契约的代价、庇护主的力量表现形式以及庇护主赋予他们的祝福。邪术师在首次选择职业等级时必须选择一个类型的庇护主，一旦选定，就无法更改。邪术师在获得其庇护主时必须与其庇护主的阵营一致。如果以后阵营变化，是否继续赋予邪术师力量将由庇护主决定。"
+    },
+    {
+      "Key": "MM_WarlockPatronGreatOldOne_Name",
+      "zhCN": "旧日支配者庇护主"
+    },
+    {
+      "Key": "MM_WarlockPact_Name",
+      "zhCN": "契约"
+    },
+    {
+      "Key": "MM_WarlockPactGreatOldOne_Desc",
+      "zhCN": "旧日支配者之愿望与阴谋皆为不可知。众者仅所能为乃拥抱疯狂和混乱。然而，频繁地窥视虚空已经让你失去了一些理智。一个旧日支配者的仆人经常承受理智被撕裂的启示。每当邪术师进入战斗进行先攻检定时，他也必须进行意志豁免，豁免难度等于10+邪术师等级的一半+邪术师的感知调整值。如果邪术师未能通过豁免，他会困惑1d4轮。因为这种持续的轰击，邪术师的头脑更善于处理威胁。每当邪术师进行意志豁免检定时，他必须掷骰两次并取更好的结果。"
+    },
+    {
+      "Key": "MM_WarlockDevotion_Name",
+      "zhCN": "奉献"
+    },
+    {
+      "Key": "MM_WarlockDevotionGreatOldOne_Desc",
+      "zhCN": "选择旧日支配者庇护主的邪术师在困惑时，用于确定其行动的D100掷骰结果减去1。"
+    },
+    {
+      "Key": "MM_WarlockInsanity_Name",
+      "zhCN": "舒适疯狂"
+    },
+    {
+      "Key": "MM_WarlockInsanity_Desc",
+      "zhCN": "旧日支配者的邪教徒们对那些无法想象的存在早已习以为常，并已经适应了这种疯狂带来的影响。每当邪术师陷入困惑时，他的随机行为会如下所述而发生改变：\n正常行动：没有任何变化。\n胡言乱语：邪术师的胡言乱语会变得混乱而疯狂。30英尺内的一名敌人必须通过意志豁免，否则会陷入1d4轮的困惑。意志豁免的难度等于10+邪术师等级的一半+邪术师的感知调整值。如果30英尺内没有敌人，邪术师会选择一名盟友作为目标。如果找不到盟友，就什么也不会发生。\n伤害自己：伤害为非致命伤害。\n攻击最近的生物：邪术师在攻击骰上获得+1洞察加值，同时对盟友攻击时承受-5的减值。\n此外，邪术师在困惑时施展的所有邪术师法术都不消耗法术位。作为一个标准动作，不处于困惑状态的邪术师依然可以选择胡言乱语。邪术师每天可以胡言乱语的次数等于3加上他的感知调整值。"
+    },
+    {
+      "Key": "MM_WarlockBabble_Name",
+      "zhCN": "混乱呓语"
+    },
+    {
+      "Key": "MM_WarlockBabble_Desc",
+      "zhCN": "邪术师的胡言乱语会变得混乱而疯狂。30尺内的一个目标必须通过意志豁免，否则会陷入1d4轮的困惑。意志豁免的难度等于10+邪术师等级的一半+邪术师的感知调整值。"
+    },
+    {
+      "Key": "MM_1d4_Rounds",
+      "zhCN": "1D4 轮"
+    },
+    {
+      "Key": "MM_WarlockBlessing_Name",
+      "zhCN": "魔界祝福"
+    },
+    {
+      "Key": "MM_WarlockBlessing_Desc",
+      "zhCN": "在2级、6级、10级、14级、18级和20级，邪术师可以获得一个新的魔界祝福。邪术师可以选择他们的庇护主提供的特定魔界祝福，或者通用的魔界祝福。一旦选定，魔界祝福就不能更改。除非另有说明，否则每个魔界祝福只能选择一次。\n每当邪术师获得一个专长时，他都可以改为选择一项可用的魔界祝福。"
+    },
+    {
+      "Key": "MM_WarlockMaleficium_Name",
+      "zhCN": "恶行"
+    },
+    {
+      "Key": "MM_WarlockMaleficium_Desc",
+      "zhCN": "获得此项祝福的邪术师成为黑暗魔法的宗师，带有邪恶描述标识的法术根据选择此祝福的次数，获得效果增益。\n阶段 1: DC 增加 1。\n阶段 2: 当对邪恶法术应用超魔专长时，其法术等级调整值减少1（最小为0）。\n阶段 3: DC 增加 1，和阶段1的效果叠加。\n阶段 4: 邪恶法术的施法者等级 +2。\n这个祝福不能被选择超过 4 次。"
+    },
+    {
+      "Key": "MM_WarlockCharisma_Name",
+      "zhCN": "强化魅力"
+    },
+    {
+      "Key": "MM_WarlockCharisma_Desc",
+      "zhCN": "邪术师的魅力属性永久增加 2 点。"
+    },
+    {
+      "Key": "MM_WarlockFelHide_Name",
+      "zhCN": "粗粝皮肤"
+    },
+    {
+      "Key": "MM_WarlockFelHide_Desc",
+      "zhCN": "邪术师的皮肤变得超自然的坚硬，天生防御获得了 +1 加值。在 6 级及之后的每 4 级，这个加值增加 1（最大在18级达到 +5 加值）。"
+    },
+    {
+      "Key": "MM_WarlockFelResist_Name",
+      "zhCN": "抗性皮肤"
+    },
+    {
+      "Key": "MM_WarlockFelResist_Desc",
+      "zhCN": "邪术师在邪恶的火焰获得了淬炼，获得了5点火焰抗性。这个数值在10级时增加到10点，15级时增加到15点。在20级时，他对火焰免疫。"
+    },
+    {
+      "Key": "MM_Warlock_LifeTap_Name",
+      "zhCN": "生命分流"
+    },
+    {
+      "Key": "MM_Warlock_LifeTap_Desc",
+      "zhCN": "3级起，邪术师可以牺牲自己的一部分躯体来获得更多的力量。每当邪术师施放一个法术时，他可以献祭他的最大生命值，数值等于所施放法术的等级的两倍。如果邪术师这么做，则对应的法术位不会消耗。这个生命值损失不能被任何方式防止，也不靠完整休息一晚（这会恢复邪术师原本的最大生命值）以外的任何方式治愈。\n该能力不能将邪术师的最大生命值降低到0以下，如果不符合条件则不会生效，对应法术位会正常消耗。"
+    },
+    {
+      "Key": "MM_WarlockCultCaster_Name",
+      "zhCN": "邪教施法"
+    },
+    {
+      "Key": "MM_WarlockCultCaster_Desc",
+      "zhCN": "邪术师获得一项超魔专长作为额外专长。邪术师依然需要满足其先决条件。邪术师可以多次选择此祝福。"
+    },
+    {
+      "Key": "MM_WarlockWisdom_Name",
+      "zhCN": "疯狂知觉"
+    },
+    {
+      "Key": "MM_WarlockWisdom_Desc",
+      "zhCN": "邪术师的感知属性永久增加 2 点。"
+    },
+    {
+      "Key": "MM_WarlockWillbreaker_Name",
+      "zhCN": "意志破坏"
+    },
+    {
+      "Key": "MM_WarlockWillbreaker_Desc",
+      "zhCN": "获得此祝福的邪术师除了魅力，还将其感知调整值也加到威吓检定上。"
+    },
+    {
+      "Key": "MM_WarlockMadnessDomain_Name",
+      "zhCN": "疯狂领域"
+    },
+    {
+      "Key": "MM_WarlockMadnessDomain_Desc",
+      "zhCN": "邪术师获得牧师疯狂领域的疯狂愿景能力，将邪术师等级当作有效牧师等级。"
+    },
+    {
+      "Key": "MM_WarlockMadnessDomainII_Name",
+      "zhCN": "高等疯狂领域"
+    },
+    {
+      "Key": "MM_WarlockMadnessDomainII_Desc",
+      "zhCN": "邪术师获得牧师疯狂领域的疯狂灵光能力，将邪术师等级当作有效牧师等级。"
+    },
+    {
+      "Key": "MM_WarlockTransformation_Name",
+      "zhCN": "转变形态"
+    },
+    {
+      "Key": "MM_WarlockTransformation_Desc",
+      "zhCN": "4级起，邪术师陷入困惑状态中时，其形态会变得更贴合精神状态。邪术师在天生防御上获得 +1 加值。4 级后每 4 级，这个加值增加 1（最大在 20 级达到 +5）。此外，困惑时，邪术师的手臂变成触手，增加其触及范围15尺。他刻意使用这些触手正常持用武器和施法。"
+    },
+    {
+      "Key": "MM_WarlockWhispers_Name",
+      "zhCN": "疯狂轻语"
+    },
+    {
+      "Key": "MM_WarlockWhispers_Desc",
+      "zhCN": "8 级起，充斥着疯狂的耳语会渗入邪术师的每个念头中。每当敌人影响心智能力指定邪术师为目标是，邪术师的思维反馈会对其造成相当于 1d6 + 邪术师感知调整值的伤害。如果该能力需要进行意志豁免，且邪术师在豁免中失败，伤害增加到每 2 个邪术师等级 1d6 + 邪术师的感知调整值。"
+    },
+    {
+      "Key": "MM_WarlockEnthrallingMadness_Name",
+      "zhCN": "迷醉疯狂"
+    },
+    {
+      "Key": "MM_WarlockEnthrallingMadness_Desc",
+      "zhCN": "12 级起，邪术师完全拥抱了疯狂。当其对自己释放困惑术时，必然成功，并穿透一切可能拥有的免疫。"
+    },
+    {
+      "Key": "MM_WarlockNonEuclideanBlessing_Name",
+      "zhCN": "非欧祝福"
+    },
+    {
+      "Key": "MM_WarlockNonEuclideanBlessing_Desc",
+      "zhCN": "16 级起，邪术师的形态变为不可思议的形状。当邪术师陷入困惑时，其在困惑持续时间内获得如同移位术效果法术的效果。"
+    },
+    {
+      "Key": "MM_SubtypeGreatOldOne_Name",
+      "zhCN": "旧日支配者子类别"
+    },
+    {
+      "Key": "MM_SubtypeGreatOldOne_Desc",
+      "zhCN": "旧日支配者是一类强大的异界存在。所有的旧日支配者都属于混乱阵营，而且大多数是邪恶的。它们可能属于任何生物类型，但绝大多数属于异怪和魔法兽。"
+    },
+    {
+      "Key": "MM_OtherworldlyInsight_Name",
+      "zhCN": "外世洞察"
+    },
+    {
+      "Key": "MM_OtherworldlyInsight_Desc",
+      "zhCN": "所有旧日支配者在先攻检定和AC上获得 +10 洞察加值。"
+    },
+    {
+      "Key": "MM_WarlockIncarnation_Name",
+      "zhCN": "化身"
+    },
+    {
+      "Key": "MM_WarlockIncarnationElder_Desc",
+      "zhCN": "每天一次，邪术师可以用一个标准动作变为旧日化身，持续分钟数等于他的感知调整值。他的类型会变为异界生物（混乱、邪恶、旧日支配者）。在化身期间，邪术师会陷入困惑但是在决定行动时永远掷出0。邪术师获得6次触手攻击（2次主要，4次次要）。所有触手攻击都拥有20尺的触及范围，并造成1d8点钝击伤害（对于大型化身）。无论是攻击骰还是伤害骰都应用邪术师的感知调整值而非力量调整值。在化身期间，邪术师会受到“可怖外表”效果的影响。"
+    },
+    {
+      "Key": "MM_WarlockPatronInfernal_Name",
+      "zhCN": "地狱庇护主"
+    },
+    {
+      "Key": "MM_WarlockDevotionInfernal_Desc",
+      "zhCN": "地狱庇护主授予将以下法术加入邪术师已知法术列表："
+    },
+    {
+      "Key": "MM_WarlockPactInfernal_Desc",
+      "zhCN": "地狱的魔鬼们支配着弱者，折磨着比他们更低下的存在，而邪术师通过寻求地狱能量来承认自己值得被折磨。为了证明他对秩序的顺从和承诺，他保卫自己不受敌人攻击的能力受到了阻碍。如果他在被敌人擒抱状态下开始他的回合，那么这个回合他无法采取任何行动。此外，每当邪术师未能成功抵抗敌人持续时间超过立即生效的魔法时，该魔法的持续时间就会加倍。\n\n为了更好地折磨他的敌人，与地狱庇护主签约的邪术师会获得“折磨施法”能力。"
+    },
+    {
+      "Key": "MM_WarlockHex_Desc",
+      "zhCN": "1 级起，邪术师获得了巫师的巫术。他只能选择尖笑、邪眼和降祸。用于抵抗其巫术的豁免DC等于 10 + 1/2 邪术师等级 + 邪术师魅力调整值。"
+    },
+    {
+      "Key": "MM_WarlockTormentingFocus_Name",
+      "zhCN": "折磨专攻"
+    },
+    {
+      "Key": "MM_WarlockTormentingFocus_Desc",
+      "zhCN": "邪术师获得法术专攻作为额外专长。邪术师的法术专攻会对其所有的折磨法术生效，而不需要选择特定学派。以法术专攻为前提的专长和能力都会对折磨法术生效，如同他们属于法术专攻所选择的学派一样。"
+    },
+    {
+      "Key": "MM_WarlockTormentingFocusGreater_Name",
+      "zhCN": "高等折磨专攻"
+    },
+    {
+      "Key": "MM_WarlockTormentingFocusGreater_Desc",
+      "zhCN": "你的折磨法术更难被抵抗。\n效果：对抗你的折磨法术的豁免检定难度等级 +1。这个加值和法术专攻提供的加值叠加。"
+    },
+    {
+      "Key": "MM_WarlockTormentingFocusMythic_Name",
+      "zhCN": "神话折磨专攻"
+    },
+    {
+      "Key": "MM_WarlockTormentingFocusMythic_Desc",
+      "zhCN": "你的魔法专精特别有效。\n效果：对你的折磨法术，法术专攻和高等法术专攻为豁免检定难度等级提供的加值提高1点。"
+    },
+    {
+      "Key": "MM_WarlockMetamagian_Name",
+      "zhCN": "大魔术师"
+    },
+    {
+      "Key": "MM_WarlockAffliction_Name",
+      "zhCN": "苦难加身"
+    },
+    {
+      "Key": "MM_WarlockAffliction_Desc",
+      "zhCN": "4 级起，在邪术师开始回合时，每个正在被邪术师的折磨法术或者巫术影响的敌人，受到每个此类效果 1d6 的伤害。"
+    },
+    {
+      "Key": "MM_WarlockCorruptingRay_Name",
+      "zhCN": "腐败射线"
+    },
+    {
+      "Key": "MM_WarlockCorruptingRay_Desc",
+      "zhCN": "邪术师用一个标准动作放出腐败射线，以远程接触攻击 30 尺内的任意敌人。射线造成 1d6 + 每个正在影响目标的折磨法术和巫术 1d6 的伤害。每日可以使用该能力的次数等于 3 + 邪术师的智力调整值。"
+    },
+    {
+      "Key": "MM_WarlockSplitHex_Desc",
+      "zhCN": "邪术师获得分裂巫术作为额外专长"
+    },
+    {
+      "Key": "MM_WarlockUnstableAffliction_Name",
+      "zhCN": "不息苦难"
+    },
+    {
+      "Key": "MM_WarlockUnstableAffliction_Desc",
+      "zhCN": "邪术师的苦难加身伤害骰增加到 D8。"
+    },
+    {
+      "Key": "MM_WarlockEternalTorment_Name",
+      "zhCN": "永恒折磨"
+    },
+    {
+      "Key": "MM_WarlockEternalTorment_Desc",
+      "zhCN": "8 级起，以一个标准动作，邪术师可以延长 30 尺内所有敌人身上的折磨法术和巫术持续时间 1 轮。"
+    },
+    {
+      "Key": "MM_WarlockForbiddenKnowledge_Name",
+      "zhCN": "禁忌知识"
+    },
+    {
+      "Key": "MM_WarlockForbiddenKnowledge_Desc",
+      "zhCN": "邪术师深入研究了超越其庇护者所赐的魔法奥秘。\n从术士/法师的法术列表中选择一个等级不高于你能释放的法术等级（且不高于 7）的法术。这个法术加入邪术师法术书且等级提高1级。这个祝福可以选择多次。"
+    },
+    {
+      "Key": "MM_WarlockHexMajor_Desc",
+      "zhCN": "12 级起，邪术师获得了额外的可选巫术，除了 1 级可用的巫术外，现在还可以选择折磨。"
+    },
+    {
+      "Key": "MM_WarlockInfectiousGuilt_Name",
+      "zhCN": "罪行传播"
+    },
+    {
+      "Key": "MM_WarlockInfectiousGuilt_Desc",
+      "zhCN": "16 级起，当一个处于折磨法术或者巫术影响下的敌人死去时，邪术师可以试图将这些效果转移到距离其 30 尺内的另一个敌人身上。新的目标必须通过 DC 等于 10 + 1/2 邪术师等级 + 邪术师智力调整值的意志豁免，否则会承受死去单位身上所有剩余的折磨法术和巫术。"
+    },
+    {
+      "Key": "MM_WarlockTormentingCasting_Name",
+      "zhCN": "折磨施法"
+    },
+    {
+      "Key": "MM_WarlockTormentingCasting_Desc",
+      "zhCN": "当该能力激活时，持续时间为立即生效的邪术师法术成为折磨法术。他们释放时只会造成一半伤害（如果需要进行豁免检定且目标豁免成功则为四分之一），但是该伤害在接下来两轮中会再次施加。"
+    },
+    {
+      "Key": "MM_EXD_Tormenting",
+      "zhCN": "折磨"
+    },
+    {
+      "Key": "MM_WarlockIncarnationHell_Desc",
+      "zhCN": "每天一次，邪术师可以用一个标准动作变为地狱化身，持续分钟数等于他的智力调整值。他的类型会变为异界生物（恶魔、邪恶、跨位面、守序）。在成为地狱化身的期间，他施放的每个折磨法术以及使用的每个巫术的时间都会增加1轮。此外，邪术师可以消耗1分钟的化身时间，而不需要降低最大生命值来使用“生命分流”。以这种方式使用生命分流无视法术等级，必定消耗一分钟化身时间。最后，对抗地狱化身的法术和巫术的豁免难度增加2。"
+    },
+    {
+      "Key": "MM_WarlockIntelligence_Name",
+      "zhCN": "地狱之智"
+    },
+    {
+      "Key": "MM_WarlockIntelligence_Desc",
+      "zhCN": "邪术师的智力属性永久增加 2 点。"
+    },
+    {
+      "Key": "MM_WarlockPatronDaemonic_Name",
+      "zhCN": "邪魔庇护主"
+    },
+    {
+      "Key": "MM_WarlockDevotionDaemonic_Desc",
+      "zhCN": "拥有邪魔庇护主的邪术师在所有重击确认检定中获得+1环境加值。这个加值每4级额外+1，最大在17级达到+5。"
+    },
+    {
+      "Key": "MM_WarlockPactDaemonic_Desc",
+      "zhCN": "邪魔生于愤怒、憎恨和饥饿。为了满足邪魔庇护主，邪术师不仅要造成痛苦，还要自己体验痛苦。每当邪术师施放一个法术时，他都会受到等于该法术等级的伤害。这种伤害不能被任何方法防止或降低。\n\n邪魔们也与邪术师分享他们的饥饿。每当邪术师确认一次重击，或者用武器和天生攻击杀死一个敌人时，他每2邪术师等级恢复1d6生命值（至少1d6）。这仅在战斗中有效。"
+    },
+    {
+      "Key": "MM_WarlockDaemonicFury_Name",
+      "zhCN": "邪魔狂热"
+    },
+    {
+      "Key": "MM_WarlockDaemonicFury_Desc",
+      "zhCN": "1级起，邪术师可以拥抱邪魔的狂暴来增强自己的攻击，要如此做，他必须在回合开始时献祭等于其邪术师等级的生命值。如果他这么做，他的邪术师等级将在1轮内为其提供完整的基础攻击加值。此外，攻击加值将应用体质调整值，而不再使用力量或者敏捷。"
+    },
+    {
+      "Key": "MM_WarlockInsatiableHunger_Name",
+      "zhCN": "贪婪饥渴"
+    },
+    {
+      "Key": "MM_WarlockInsatiableHunger_Desc",
+      "zhCN": "邪术师的契约和可口点心能力治疗骰增加到 D8。"
+    },
+    {
+      "Key": "MM_WarlockFuriousFrenzy_Name",
+      "zhCN": "疯狂愤怒"
+    },
+    {
+      "Key": "MM_WarlockFuriousFrenzy_Desc",
+      "zhCN": "4 级起，处于邪魔狂热中时，邪术师获得 DR 1/-。该伤害减免在 8 级和之后每 4 级额外加 1（最大在 20 级达到DR 5/-）。同时，处于邪魔狂热中时，邪术师将其体质调整值替代力量调整值，加入伤害检定中。此外，他使用体质属性替代力量，来满足战斗专长所需的先决条件。"
+    },
+    {
+      "Key": "MM_WarlockSecondSkin_Name",
+      "zhCN": "贴身如肤"
+    },
+    {
+      "Key": "MM_WarlockSecondSkin_Desc",
+      "zhCN": "邪术师获得擅长中型盔甲作为额外专长。他可以穿着中型盔甲施法而不需要承受通常的奥术失败率。"
+    },
+    {
+      "Key": "MM_WarlockSecondSkinII_Name",
+      "zhCN": "高等贴身如肤"
+    },
+    {
+      "Key": "MM_WarlockSecondSkinII_Desc",
+      "zhCN": "邪术师获得擅长重型盔甲作为额外专长。他可以穿着重型盔甲施法而不需要承受通常的奥术失败率。"
+    },
+    {
+      "Key": "MM_WarlockThirstingBlade_Name",
+      "zhCN": "饥渴之刃"
+    },
+    {
+      "Key": "MM_WarlockThirstingBlade_Desc",
+      "zhCN": "邪术师获得精通重击作为额外专长，即使他不满足其先决条件。这个祝福可以多次选择。"
+    },
+    {
+      "Key": "MM_WarlockWWarrior_Name",
+      "zhCN": "废土勇士"
+    },
+    {
+      "Key": "MM_WarlockWWarrior_Desc",
+      "zhCN": "邪术师获得一项额外战斗专长。对于此专长，邪术师可以选择那些需要战士等级作为先决条件的专长，并将其邪术师等级 - 3 视为战士等级。这项祝福可以多次选择。"
+    },
+    {
+      "Key": "MM_WarlockSpellCombat_Desc",
+      "zhCN": "8 级起，邪术师获得魔战士的法术战斗职业特性。在判断法术战斗可用的法术时，他使用邪术师法术列表而不是魔战士法术列表。"
+    },
+    {
+      "Key": "MM_WarlockUnstoppable_Name",
+      "zhCN": "不息狂热"
+    },
+    {
+      "Key": "MM_WarlockUnstoppable_Desc",
+      "zhCN": "邪术师获得健壮作为额外专长。此外，从邪术师作为天赋职业中获得的生命值奖励翻倍。"
+    },
+    {
+      "Key": "MM_WarlockBloodyGash_Name",
+      "zhCN": "血腥伤口"
+    },
+    {
+      "Key": "MM_WarlockBloodyGash_Desc",
+      "zhCN": "12级起，使用邪魔狂热时，每一轮邪术师首次用武器或者天生攻击击中的敌人会被撕开深深的伤口。受害者每轮承受 4d6 伤害，持续 3 轮，或者直到其通过强韧豁免来取消此效果。该豁免的 DC 等于 10 + 邪术师等级的一半 + 邪术师体质调整值。"
+    },
+    {
+      "Key": "MM_Hemorrhaging_Name",
+      "zhCN": "大出血"
+    },
+    {
+      "Key": "MM_Hemorrhaging_Desc",
+      "zhCN": "用于对抗血腥伤口的 DC 增加 2。此外，其效果持续时间增加到 5 轮，且治愈该效果需要连续通过两次豁免。"
+    },
+    {
+      "Key": "MM_WarlockConstitution_Name",
+      "zhCN": "邪魔耐久"
+    },
+    {
+      "Key": "MM_WarlockConstitution_Desc",
+      "zhCN": "邪术师的体质属性永久增加 2 点。"
+    },
+    {
+      "Key": "MM_WarlockTastyMorsel_Name",
+      "zhCN": "可口点心"
+    },
+    {
+      "Key": "MM_WarlockTastyMorsel_Desc",
+      "zhCN": "16 级起，当邪术师利用武器或者天生攻击在战斗中将敌人的生命值降低到 0 或者更低时，他会束缚其灵魂以供将来使用。邪术师可以存储的灵魂数量等于其体质调整值。拥有束缚的灵魂时，邪术师可以使用迅捷动作吞噬一个灵魂，治疗每 2 邪术师等级 1d6 的生命值。除此之外，以一个迅捷动作，邪术师可以消耗一个灵魂而不需要献祭最大生命值，来使用生命分流能力。"
+    },
+    {
+      "Key": "MM_WarlockSoulTap_Name",
+      "zhCN": "可口点心（灵魂分流）"
+    },
+    {
+      "Key": "MM_WarlockSoulTap_Desc",
+      "zhCN": "以一个迅捷动作，术士可以消耗一个储存的灵魂，来使用生命分流能力，而不需要献祭最大生命值。效果持续 1 轮或直到施法。"
+    },
+    {
+      "Key": "MM_WarlockDevour_Name",
+      "zhCN": "可口点心（吞噬灵魂）"
+    },
+    {
+      "Key": "MM_WarlockDevour_Desc",
+      "zhCN": "以一个迅捷动作，术士可以消耗一个储存的灵魂，来治疗每 2 邪术师等级 1d6 的生命值。"
+    },
+    {
+      "Key": "MM_WarlockIncarnationDaemon_Desc",
+      "zhCN": "每天一次，邪术师可以用一个标准动作变为邪魔化身，持续分钟数等于他的体质调整值。他的类型会变为异界生物（邪魔、邪恶、跨位面）。变身时，邪术师会治愈其受到的所有伤害和属性伤害，并自动驱散所有有害效果。邪术师体形增大1级，所有身体属性获得+6亵渎加值，并获得快速回复 5。每一轮如果没有进行战斗，邪魔化身的持续时间都会减少额外1轮。邪术师可以通过“可口点心”能力消耗两个灵魂，使得化身持续时间延长1分钟。"
+    },
+    {
+      "Key": "MM_WarlockRefreshDaemonic_Name",
+      "zhCN": "化身 — 增加持续时间"
+    },
+    {
+      "Key": "MM_WarlockRefreshDaemonic_Desc",
+      "zhCN": "邪术师可以用自由动作，消耗2个储存的灵魂增加邪魔化身的持续时间1分钟。"
+    },
+    {
+      "Key": "MM_WarlockPatronAbyssal_Name",
+      "zhCN": "深渊庇护主"
+    },
+    {
+      "Key": "MM_WarlockDevotionAbyssal_Desc",
+      "zhCN": "选择深渊庇护主的邪术师将其邪术师等级的一半加到其召唤生物的持续时间上（以轮计算）。"
+    },
+    {
+      "Key": "MM_WarlockPactAbyssal_Desc",
+      "zhCN": "深渊中的恶魔和古魔以暴力和破坏为乐，不论受害者是谁。拥挤战场带来的狂热能让他们如鱼得水，但也极端危险。夹击邪术师的敌人获得额外的+2攻击加值，在确认重击时获得+4加值。反过来，邪术师在夹击敌人时也获得同样的好处。"
+    },
+    {
+      "Key": "MM_WarlockSummon_Name",
+      "zhCN": "魔界召唤"
+    },
+    {
+      "Key": "MM_WarlockSummon_Desc",
+      "zhCN": "1级起，以一个标准动作，邪术师可以以类法术能力释放召唤怪物，可用次数等于 3 + 力量调整值。当决定召唤的生物类型时，其阵营被视为邪恶（即使他的实际阵营并非如此）。3 级起和之后的每 2 级，这个召唤能力效果提升相当于一个法术等级（最大在 17 级变为召唤怪物IX）。"
+    },
+    {
+      "Key": "MM_Invoker_Name",
+      "zhCN": "祈唤师"
+    },
+    {
+      "Key": "MM_Invoker_Desc",
+      "zhCN": "祈唤师抛弃了他们庇护主的复杂恩赐，转而将这些力量引导进破坏性能量的爆发中。"
+    },
+    {
+      "Key": "MM_InvokerBlast_Name",
+      "zhCN": "魔焰"
+    },
+    {
+      "Key": "MM_InvokerBlast_Desc",
+      "zhCN": "祈唤师可以引导庇护主之力，创造毁灭射线，造成 1d6 + 魅力调整值的污邪伤害，每隔一个邪术师等级伤害还会提升额外 1d6。这是一种远程接触攻击。"
+    },
+    {
+      "Key": "MM_InvokerLuck_Name",
+      "zhCN": "黑暗护佑"
+    },
+    {
+      "Key": "MM_InvokerLuck_Desc",
+      "zhCN": "选择这项祝福的祈唤师总是被黑暗之力所关注，授予他额外的幸运来达成自己的目的。他在AC和豁免检定上获得 +2 运气加值。"
+    },
+    {
+      "Key": "MM_InvokerChain_Name",
+      "zhCN": "魔焰锁链"
+    },
+    {
+      "Key": "MM_InvokerChain_Desc",
+      "zhCN": "10 级起，祈唤师的魔焰可以在目标间弹跳。使用此能力时，他必须选定一个目标。该攻击不再需要攻击检定但是目标可以通过反射豁免使得伤害减半（否则造成标准的魔焰伤害）。魔焰随后会跳跃向20尺内的随机敌人，并且继续弹跳，直到所有可用目标都被击中至少一次。"
+    },
+    {
+      "Key": "MM_PrerequisiteSpell",
+      "zhCN": "必须已知法术"
+    },
+    {
+      "Key": "MM_InvokerTrueStrike_Name",
+      "zhCN": "迅捷克敌"
+    },
+    {
+      "Key": "MM_InvokerTrueStrike_Desc",
+      "zhCN": "选择此项祝福的祈唤师自动对释放的克敌机先法术应用瞬发超魔，不论是否来自邪术师法术书。"
+    },
+    {
+      "Key": "MM_InvokerImpulse_Name",
+      "zhCN": "毁灭脉冲"
+    },
+    {
+      "Key": "MM_InvokerImpulse_Desc",
+      "zhCN": "20级起，祈唤师成为使用庇护主之力释放毁灭的大师。他可以用移动动作释放魔焰和魔焰锁链。"
+    }
+  ]
