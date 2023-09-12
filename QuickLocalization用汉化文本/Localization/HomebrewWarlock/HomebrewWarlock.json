@@ -393,31 +393,31 @@
   },
    {
     "Key": "HomebrewWarlock.Features.EnergyResistance.DisplayName",
-    "zhCN": "能量抗力"
+    "zhCN": "能量抗性"
   },
    {
     "Key": "HomebrewWarlock.Features.EnergyResistance.Description",
-    "zhCN": "从10级起，原邪术师获得对两种类型的能量的5点抗力，可选择的能量类型包括酸蚀，寒冷，电击，火焰和音波，类型一旦选定则无法改变。在20级时，这种抗力提升为10点。"
+    "zhCN": "从10级起，原邪术师获得对两种类型的能量的5点抗性，可选择的能量类型包括酸蚀，寒冷，电击，火焰和音波，类型一旦选定则无法改变。在20级时，这种抗性提升为10点。"
   },
    {
     "Key": "HomebrewWarlock.Features.EnergyResistance.DisplayNameFire",
-    "zhCN": "能量抗力（火焰）"
+    "zhCN": "能量抗性（火焰）"
   },
    {
     "Key": "HomebrewWarlock.Features.EnergyResistance.DisplayNameElectricity",
-    "zhCN": "能量抗力（电击）"
+    "zhCN": "能量抗性（电击）"
   },
    {
     "Key": "HomebrewWarlock.Features.EnergyResistance.DisplayNameCold",
-    "zhCN": "能量抗力（寒冷）"
+    "zhCN": "能量抗性（寒冷）"
   },
    {
     "Key": "HomebrewWarlock.Features.EnergyResistance.DisplayNameAcid",
-    "zhCN": "能量抗力（酸蚀）"
+    "zhCN": "能量抗性（酸蚀）"
   },
    {
     "Key": "HomebrewWarlock.Features.EnergyResistance.DisplayNameSonic",
-    "zhCN": "能量抗力（音波）"
+    "zhCN": "能量抗性（音波）"
   },
    {
     "Key": "HomebrewWarlock.Features.EldritchBlast.EldritchBlast.DisplayName",
