@@ -288,17 +288,6 @@
       "esES": null
     },
     {
-      "Key": "35038d0a766648ca9fca42d478594813",
-      "SimpleName": "ElementalBarrageFireBuff.Description",
-      "ProcessTemplates": true,
-      "enGB": "If this creature takes elemental damage from a type other than fire it will take additional damage and consume the mark.",
-      "ruRU": null,
-      "deDE": null,
-      "frFR": null,
-      "zhCN": "这个目标如果受到火以外的元素伤害，会触发元素狂潮效果。",
-      "esES": null
-    },
-    {
       "Key": "3142b96a095148839dbd2f83d4e96877",
       "SimpleName": "EmptyString",
       "ProcessTemplates": true,
