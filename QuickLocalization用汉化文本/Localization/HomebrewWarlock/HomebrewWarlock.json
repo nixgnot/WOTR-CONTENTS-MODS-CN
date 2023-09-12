@@ -5,7 +5,7 @@
   },
   {
     "Key": "HomebrewWarlock.WarlockClass.Description",
-    "zhCN": "原邪术师是继承了超自然血脉的一群人，他们追寻着对流淌在其灵魂深处的混沌魔法力量更好的控制。和术士或是法师不同，原邪术师无需借助任何外物，仅凭一念便可发挥出魔法的强大力量。在意志的控制下，原邪术师可以利用这天生的魔法力量，来完成隐秘行动，控制意志薄弱的灵魂，或是直接用魔能消灭敌人。/n/n译注：该邪术师（Warlock）来自3E规则移植改编，为和MysticalMayhem的来自第三方扩展的邪术师区分，改名原邪术师。"
+    "zhCN": "原邪术师是继承了超自然血脉的一群人，他们追寻着对流淌在其灵魂深处的混沌魔法力量更好的控制。和术士或是法师不同，原邪术师无需借助任何外物，仅凭一念便可发挥出魔法的强大力量。在意志的控制下，原邪术师可以利用这天生的魔法力量，来完成隐秘行动，控制意志薄弱的灵魂，或是直接用魔能消灭敌人。\n\n译注：该邪术师（Warlock）来自3E规则移植改编，为和MysticalMayhem的来自第三方扩展的邪术师区分，改名原邪术师。"
    },
    {
     "Key": "HomebrewWarlock.Settings.Title",
@@ -29,7 +29,7 @@
   },
    {
     "Key": "HomebrewWarlock.Features.WarlockProficiencies.Description",
-    "zhCN": "原邪术师擅长所有简易武器和轻型盔甲，但不擅长盾牌。/n由于邪术所需的动作成分很少，原邪术师可以在着轻甲时正常施法而无视通常的奥术失败率。然而，在着中甲或是重甲时，原邪术师仍需如常承担奥术失败率（所有的邪术，包括魔能爆，都有动作成分）。拥有其他奥术施法职业等级的原邪术师在施展那些职业带来的奥术时如常承担奥术失败率。"
+    "zhCN": "原邪术师擅长所有简易武器和轻型盔甲，但不擅长盾牌。\n由于邪术所需的动作成分很少，原邪术师可以在着轻甲时正常施法而无视通常的奥术失败率。然而，在着中甲或是重甲时，原邪术师仍需如常承担奥术失败率（所有的邪术，包括魔能爆，都有动作成分）。拥有其他奥术施法职业等级的原邪术师在施展那些职业带来的奥术时如常承担奥术失败率。"
   },
    {
     "Key": "HomebrewWarlock.Features.WarlockDamageReduction.DisplayName",
@@ -85,7 +85,7 @@
   },
    {
     "Key": "HomebrewWarlock.Features.Invocations.Lesser.HellrimeBlast.Description",
-    "zhCN": "<b>魔能异变</b>/n<b>等效法术等级：</b>4/n该魔能异变会让你的魔能爆变为地狱霜爆。地狱霜爆造成寒冷伤害。/n任何被其击中的生物必须通过强韧豁免，否则10分钟内在敏捷上承受-4减值。/n来自多个地狱霜爆的减值不会叠加。"
+    "zhCN": "<b>魔能异变</b>\n<b>等效法术等级：</b>4\n该魔能异变会让你的魔能爆变为地狱霜爆。地狱霜爆造成寒冷伤害。\n任何被其击中的生物必须通过强韧豁免，否则10分钟内在敏捷上承受-4减值。\n来自多个地狱霜爆的减值不会叠加。"
   },
    {
     "Key": "HomebrewWarlock.Features.Invocations.Lesser.FellFlight.DisplayName",
@@ -97,7 +97,7 @@
   },
    {
     "Key": "HomebrewWarlock.Features.Invocations.Lesser.EldritchChain.Description",
-    "zhCN": "<b>魔能塑形</b>/n<b>等效法术等级：</b>4/n该魔能塑形使你增强魔能爆，使其变成一道能量弧，从第一个目标弹跳到其他目标。一道魔能链爆可以跳到第一个目标30尺内的一个或多个次要目标，让你能够进行额外的远程接触攻击，如果攻击命中则对次要目标造成伤害。/n每施展者等级5可以额外弹跳一个目标，所以你在等级10时可以攻击2个额外目标，在等级15时可以攻击3个额外目标，在等级20时可以攻击4个额外目标。每个新目标必须距离上一个目标30尺以内，并且魔能链爆不能对同一个生物重复生效。如果中途魔能链爆对任意一个目标失手，魔能链爆攻击就会结束。每个额外目标受到的伤害是第一个目标所受伤害的一半。如果需要适用的法术穿透情况，你必须对每个目标进行单独的法术穿透检定。"
+    "zhCN": "<b>魔能塑形</b>\n<b>等效法术等级：</b>4\n该魔能塑形使你增强魔能爆，使其变成一道能量弧，从第一个目标弹跳到其他目标。一道魔能链爆可以跳到第一个目标30尺内的一个或多个次要目标，让你能够进行额外的远程接触攻击，如果攻击命中则对次要目标造成伤害。\n每施展者等级5可以额外弹跳一个目标，所以你在等级10时可以攻击2个额外目标，在等级15时可以攻击3个额外目标，在等级20时可以攻击4个额外目标。每个新目标必须距离上一个目标30尺以内，并且魔能链爆不能对同一个生物重复生效。如果中途魔能链爆对任意一个目标失手，魔能链爆攻击就会结束。每个额外目标受到的伤害是第一个目标所受伤害的一半。如果需要适用的法术穿透情况，你必须对每个目标进行单独的法术穿透检定。"
   },
    {
     "Key": "HomebrewWarlock.Features.Invocations.Lesser.CurseOfDespair.DisplayName",
@@ -105,7 +105,7 @@
   },
    {
     "Key": "HomebrewWarlock.Features.Invocations.Lesser.CurseOfDespair.Description",
-    "zhCN": "<b>等效法术等级：</b>4/n你能够使用该邪术来对一个被触碰的敌人施加诅咒（如同法术降咒）。如果目标成功豁免，该生物在1分钟内攻击受到-1减值。"
+    "zhCN": "<b>等效法术等级：</b>4\n你能够使用该邪术来对一个被触碰的敌人施加诅咒（如同法术降咒）。如果目标成功豁免，该生物在1分钟内攻击受到-1减值。"
   },
    {
     "Key": "HomebrewWarlock.Features.Invocations.Lesser.BrimstoneBlast.DisplayName",
@@ -113,7 +113,7 @@
   },
    {
     "Key": "HomebrewWarlock.Features.Invocations.Lesser.BrimstoneBlast.Description",
-    "zhCN": "<b>魔能异变</b>/n<b>等效法术等级：</b>3/n该魔能异变会让你的魔能爆变为硫磺魔爆。硫磺魔爆造成火焰伤害。/n任何被其击中的生物必须通过反射检定，否则会着火，每轮受到2d6点火伤害直到持续时间结束。你每有5职业等级，火焰伤害持续一轮。/n举例来说，一个15级原邪术师在初次硫磺魔爆攻击后，会引发3轮2d6点火伤害。以此方式燃烧的生物每轮受到的火焰伤害不会超过2d6点，即使它被多次硫磺魔爆击中也是如此。"
+    "zhCN": "<b>魔能异变</b>\n<b>等效法术等级：</b>3\n该魔能异变会让你的魔能爆变为硫磺魔爆。硫磺魔爆造成火焰伤害。\n任何被其击中的生物必须通过反射检定，否则会着火，每轮受到2d6点火伤害直到持续时间结束。你每有5职业等级，火焰伤害持续一轮。\n举例来说，一个15级原邪术师在初次硫磺魔爆攻击后，会引发3轮2d6点火伤害。以此方式燃烧的生物每轮受到的火焰伤害不会超过2d6点，即使它被多次硫磺魔爆击中也是如此。"
   },
    {
     "Key": "HomebrewWarlock.Features.Invocations.Lesser.BeshadowedBlast.DisplayName",
@@ -121,7 +121,7 @@
   },
    {
     "Key": "HomebrewWarlock.Features.Invocations.Lesser.BeshadowedBlast.Description",
-    "zhCN": "<b>魔能异变</b>/n<b>等效法术等级：</b>4/n该魔能异变会让你的魔能爆变为暗影魔爆。暗影魔爆造成火焰伤害。/n任何被其击中的生物必须通过强韧豁免，否则会目盲一轮。"
+    "zhCN": "<b>魔能异变</b>\n<b>等效法术等级：</b>4\n该魔能异变会让你的魔能爆变为暗影魔爆。暗影魔爆造成火焰伤害。\n任何被其击中的生物必须通过强韧豁免，否则会目盲一轮。"
   },
    {
     "Key": "HomebrewWarlock.Features.Invocations.Least.SummonSwarm.DisplayName",
@@ -129,7 +129,7 @@
   },
    {
     "Key": "HomebrewWarlock.Features.Invocations.Least.SummonSwarm.SpellDescription",
-    "zhCN": "<b>等效法术等级：</b>2/n这个法术可以召来蛛群。所召来的蛛群会在你指定的位置出现并按照其自身的本能发动攻击。它会尽其所能地攻击你的敌人。"
+    "zhCN": "<b>等效法术等级：</b>2\n这个法术可以召来蛛群。所召来的蛛群会在你指定的位置出现并按照其自身的本能发动攻击。它会尽其所能地攻击你的敌人。"
   },
    {
     "Key": "HomebrewWarlock.Features.Invocations.Least.SummonSwarm.FeatureDescription",
@@ -141,7 +141,7 @@
   },
    {
     "Key": "HomebrewWarlock.Features.Invocations.Least.SickeningBlast.Description",
-    "zhCN": "<b>魔能异变</b>/n<b>等效法术等级：</b>2/n该魔能异变会让你的魔能爆变为作呕魔爆。被作呕魔爆击中的任何生物必须进行强韧豁免，否则将会陷入恶心1分钟。被第二发作呕魔爆击中的恶心中的生物不会受到恶心的影响，但仍然会正常受到伤害。"
+    "zhCN": "<b>魔能异变</b>\n<b>等效法术等级：</b>2\n该魔能异变会让你的魔能爆变为作呕魔爆。被作呕魔爆击中的任何生物必须进行强韧豁免，否则将会陷入恶心1分钟。被第二发作呕魔爆击中的恶心中的生物不会受到恶心的影响，但仍然会正常受到伤害。"
   },
    {
     "Key": "HomebrewWarlock.Features.Invocations.Least.SeeTheUnseen.DisplayName",
@@ -149,7 +149,7 @@
   },
    {
     "Key": "HomebrewWarlock.Features.Invocations.Least.SeeTheUnseen.Description",
-    "zhCN": "<b>等效法术等级：</b>2/n获得如同识破隐形法术的能力。"
+    "zhCN": "<b>等效法术等级：</b>2\n获得如同识破隐形法术的能力。"
   },
    {
     "Key": "HomebrewWarlock.Features.Invocations.Least.OtherworldlyWhispers.DisplayName",
@@ -169,7 +169,7 @@
   },
    {
     "Key": "HomebrewWarlock.Features.Invocations.Least.HideousBlow.Description",
-    "zhCN": "<b>魔能塑形</b>/n<b>等效法术等级：</b>1/n用一个标准动作，你可以进行一次近战攻击。若你命中，目标会受到如同被魔能爆击中的效果影响（包括附加在魔能爆上的魔能异变）。该伤害是附加在武器伤害之外的伤害，你的当次攻击不需要实际造成伤害也能引发魔能爆的效果。"
+    "zhCN": "<b>魔能塑形</b>\n<b>等效法术等级：</b>1\n用一个标准动作，你可以进行一次近战攻击。若你命中，目标会受到如同被魔能爆击中的效果影响（包括附加在魔能爆上的魔能异变）。该伤害是附加在武器伤害之外的伤害，你的当次攻击不需要实际造成伤害也能引发魔能爆的效果。"
   },
    {
     "Key": "HomebrewWarlock.Features.Invocations.Least.FrightfulBlast.DisplayName",
@@ -177,7 +177,7 @@
   },
    {
     "Key": "HomebrewWarlock.Features.Invocations.Least.FrightfulBlast.Description",
-    "zhCN": "<b>魔能异变</b>/n<b>等效法术等级：</b>2/n该魔能异变会让你的魔能爆变为恐惧魔爆。任何被恐惧魔爆击中的生物必须通过意志豁免，否则将会战栗1分钟。被恐惧魔爆造成战栗的生物不会受到战栗影响，但仍然会正常受到伤害。免疫影响心灵法术和能力或恐惧效果的生物不会进入战栗。"
+    "zhCN": "<b>魔能异变</b>\n<b>等效法术等级：</b>2\n该魔能异变会让你的魔能爆变为恐惧魔爆。任何被恐惧魔爆击中的生物必须通过意志豁免，否则将会战栗1分钟。被恐惧魔爆造成战栗的生物不会受到战栗影响，但仍然会正常受到伤害。免疫影响心灵法术和能力或恐惧效果的生物不会进入战栗。"
   },
    {
     "Key": "HomebrewWarlock.Features.Invocations.Least.EldritchSpear.DisplayName",
@@ -185,7 +185,7 @@
   },
    {
     "Key": "HomebrewWarlock.Features.Invocations.Least.EldritchSpear.Description",
-    "zhCN": "<b>魔能塑形</b>/n<b>等效法术等级：</b>2/n该魔能塑形延长你魔能爆攻击的射程范围，使其变为远距范围。"
+    "zhCN": "<b>魔能塑形</b>\n<b>等效法术等级：</b>2\n该魔能塑形延长你魔能爆攻击的射程范围，使其变为远距范围。"
   },
    {
     "Key": "HomebrewWarlock.Features.Invocations.Least.EldritchGlaive.DisplayName",
@@ -193,7 +193,7 @@
   },
    {
     "Key": "HomebrewWarlock.Features.Invocations.Least.EldritchGlaive.Description",
-    "zhCN": "<b>魔能塑形</b>/n<b>等效法术等级：</b>1/n你的魔能凝聚为实体形态，看起来如同一把大砍刀。/n使用该武器进行攻击属于近战接触攻击。如果你命中，你的目标会受到如同被魔能爆击中的效果影响（包括附加在魔能爆上的魔能异变）。与惊骇打击不同，你不能获得魔能大砍刀之外的实际手持武器的伤害。"
+    "zhCN": "<b>魔能塑形</b>\n<b>等效法术等级：</b>1\n你的魔能凝聚为实体形态，看起来如同一把大砍刀。\n使用该武器进行攻击属于近战接触攻击。如果你命中，你的目标会受到如同被魔能爆击中的效果影响（包括附加在魔能爆上的魔能异变）。与惊骇打击不同，你不能获得魔能大砍刀之外的实际手持武器的伤害。"
   },
    {
     "Key": "HomebrewWarlock.Features.Invocations.Least.DarkOnesOwnLuck.DisplayNameWill",
@@ -229,7 +229,7 @@
   },
    {
     "Key": "HomebrewWarlock.Features.Invocations.Greater.VitriolicBlast.Description",
-    "zhCN": "<b>魔能异变</b>/n<b>等效法术等级：</b>6/n该魔能异变让你把邪能轰炸转变为腐蚀魔爆。腐蚀魔爆造成酸蚀伤害，这种伤害由召唤出的酸形成，因此和其他魔能异变不同，它可以忽视法术抗力。被腐蚀魔爆击中的生物在接下来的每轮自动额外受到2d6点酸伤害。你每有5级职业等级，酸蚀伤害持续一轮。\n举例来说，一个15级原邪术师的腐蚀魔爆攻击后，会在初始伤害后引发3轮2d6点酸蚀伤害。"
+    "zhCN": "<b>魔能异变</b>\n<b>等效法术等级：</b>6\n该魔能异变让你把邪能轰炸转变为腐蚀魔爆。腐蚀魔爆造成酸蚀伤害，这种伤害由召唤出的酸形成，因此和其他魔能异变不同，它可以忽视法术抗力。被腐蚀魔爆击中的生物在接下来的每轮自动额外受到2d6点酸伤害。你每有5级职业等级，酸蚀伤害持续一轮。\n举例来说，一个15级原邪术师的腐蚀魔爆攻击后，会在初始伤害后引发3轮2d6点酸蚀伤害。"
   },
    {
     "Key": "HomebrewWarlock.Features.Invocations.Greater.RepellingBlast.DisplayName",
@@ -237,7 +237,7 @@
   },
    {
     "Key": "HomebrewWarlock.Features.Invocations.Greater.RepellingBlast.Description",
-    "zhCN": "<b>魔能异变</b>/n<b>等效法术等级：</b>6/n该魔能异变让你把魔能爆转变为推斥魔爆。被推斥魔爆击中的任何中型和更小的生物必须通过反射豁免，否则会被推斥魔爆掀飞1d6×5尺（1d6格）并被击倒。/n如果被掀飞的生物撞到固体物体，它会提前停止，每10尺受到1d6点伤害，并且依然被击倒。/n掀飞造成的移动不会引发借机攻击。"
+    "zhCN": "<b>魔能异变</b>\n<b>等效法术等级：</b>6\n该魔能异变让你把魔能爆转变为推斥魔爆。被推斥魔爆击中的任何中型和更小的生物必须通过反射豁免，否则会被推斥魔爆掀飞1d6×5尺（1d6格）并被击倒。\n如果被掀飞的生物撞到固体物体，它会提前停止，每10尺受到1d6点伤害，并且依然被击倒。\n掀飞造成的移动不会引发借机攻击。"
   },
    {
     "Key": "HomebrewWarlock.Features.Invocations.Greater.RepellingBlast.LocalizedSavingThrow",
@@ -249,7 +249,7 @@
   },
    {
     "Key": "HomebrewWarlock.Features.Invocations.Greater.NoxiousBlast.Description",
-    "zhCN": "<b>魔能异变</b>/n<b>等效法术等级：</b>6/n该魔能异变让你把魔能爆转变为恶臭魔爆。被恶臭魔爆击中的任何生物必须通过强韧豁免，否则除了受到伤害还会陷入反胃1分钟。"
+    "zhCN": "<b>魔能异变</b>\n<b>等效法术等级：</b>6\n该魔能异变让你把魔能爆转变为恶臭魔爆。被恶臭魔爆击中的任何生物必须通过强韧豁免，否则除了受到伤害还会陷入反胃1分钟。"
   },
    {
     "Key": "HomebrewWarlock.Features.Invocations.Greater.GreaterInvocationSelection.DisplayName",
@@ -261,7 +261,7 @@
   },
    {
     "Key": "HomebrewWarlock.Features.Invocations.Greater.EldritchCone.Description",
-    "zhCN": "<b>魔能塑形</b>/n<b>等效法术等级：</b>5/n该魔能塑形让你将魔能爆变为30尺锥形。魔能锥爆对范围内所有敌人造成伤害，这不再是射线攻击因此不需要进行远程接触检定。任何范围内生物可以尝试通过反射检定使伤害减半。"
+    "zhCN": "<b>魔能塑形</b>\n<b>等效法术等级：</b>5\n该魔能塑形让你将魔能爆变为30尺锥形。魔能锥爆对范围内所有敌人造成伤害，这不再是射线攻击因此不需要进行远程接触检定。任何范围内生物可以尝试通过反射检定使伤害减半。"
   },
    {
     "Key": "HomebrewWarlock.Features.Invocations.Greater.EldritchCone.SavingThrow",
@@ -273,7 +273,7 @@
   },
    {
     "Key": "HomebrewWarlock.Features.Invocations.Greater.DevourMagic.Description",
-    "zhCN": "<b>等效法术等级：</b>6/n该邪术允许你用触摸释放高等驱散魔法（指定目标）。/n每个该触摸接触的法术效果等级给予你5临时生命值，这些临时生命值不与其他来源的临时生命值叠加。/n你不能驱散自身的邪术。"
+    "zhCN": "<b>等效法术等级：</b>6\n该邪术允许你用触摸释放高等驱散魔法（指定目标）。\n每个该触摸接触的法术效果等级给予你5临时生命值，这些临时生命值不与其他来源的临时生命值叠加。\n你不能驱散自身的邪术。"
   },
    {
     "Key": "HomebrewWarlock.Features.Invocations.Greater.DevourMagic.LocalizedDuration",
@@ -285,7 +285,7 @@
   },
    {
     "Key": "HomebrewWarlock.Features.Invocations.Greater.ChillingTentacles.Description",
-    "zhCN": "<b>等效法术等级：</b>5/n该邪术可以让你从地面召唤出令人毛骨悚然的黑色触手，这些触手仿佛是从冥土中冒出来的一样不停地摸索着寻找受害者。/n该邪术与法术黑触手的作用完全相同，但这个邪术施放范围内的每只生物每轮都会受到2d6点寒冷伤害。该范围内的生物无论是否被触手抓住，都会受到寒冷伤害。"
+    "zhCN": "<b>等效法术等级：</b>5\n该邪术可以让你从地面召唤出令人毛骨悚然的黑色触手，这些触手仿佛是从冥土中冒出来的一样不停地摸索着寻找受害者。\n该邪术与法术黑触手的作用完全相同，但这个邪术施放范围内的每只生物每轮都会受到2d6点寒冷伤害。该范围内的生物无论是否被触手抓住，都会受到寒冷伤害。"
   },
    {
     "Key": "HomebrewWarlock.Features.Invocations.Greater.ChillingTentacles.LocalizedDuration",
@@ -297,7 +297,7 @@
   },
    {
     "Key": "HomebrewWarlock.Features.Invocations.Greater.BewitchingBlast.Description",
-    "zhCN": "<b>魔能异变</b>/n<b>等效法术等级：</b>4/n该魔能异变让你把魔能爆转变为困惑魔爆。被困惑魔爆击中的任何生物必须通过意志豁免，否则除了受到伤害还会陷入困惑1分钟。"
+    "zhCN": "<b>魔能异变</b>\n<b>等效法术等级：</b>4\n该魔能异变让你把魔能爆转变为困惑魔爆。被困惑魔爆击中的任何生物必须通过意志豁免，否则除了受到伤害还会陷入困惑1分钟。"
   },
    {
     "Key": "HomebrewWarlock.Features.Invocations.Dark.WordOfChanging.DisplayName",
@@ -305,7 +305,7 @@
   },
    {
     "Key": "HomebrewWarlock.Features.Invocations.Dark.WordOfChanging.Description",
-    "zhCN": "<b>等效法术等级：</b>5/n你用一个真言将生物变为无害化的形态，这个效果如同恶意变形术。"
+    "zhCN": "<b>等效法术等级：</b>5\n你用一个真言将生物变为无害化的形态，这个效果如同恶意变形术。"
   },
    {
     "Key": "HomebrewWarlock.Features.Invocations.Dark.UtterdarkBlast.DisplayName",
@@ -313,7 +313,7 @@
   },
    {
     "Key": "HomebrewWarlock.Features.Invocations.Dark.UtterdarkBlast.Description",
-    "zhCN": "<b>魔能异变</b>/n<b>等效法术等级：</b>8/n该魔能异变让你把魔能爆转变为至暗魔爆。被至暗魔爆击中的任何生物必须通过强韧豁免，否则在1小时内承受2个负向等级。"
+    "zhCN": "<b>魔能异变</b>\n<b>等效法术等级：</b>8\n该魔能异变让你把魔能爆转变为至暗魔爆。被至暗魔爆击中的任何生物必须通过强韧豁免，否则在1小时内承受2个负向等级。"
   },
    {
     "Key": "HomebrewWarlock.Features.Invocations.Dark.EldritchDoom.DisplayName",
@@ -321,7 +321,7 @@
   },
    {
     "Key": "HomebrewWarlock.Features.Invocations.Dark.EldritchDoom.Description",
-    "zhCN": "<b>魔能塑形</b>/n<b>等效法术等级：</b>8/n该魔能塑形让你可以把魔能爆转变为可怕的魔能灭爆，引发神秘力量构成的能弹，重创附近的敌人。魔能灭爆可以对你指定的距离20尺以内的任何目标造成魔能爆伤害。这不是射线攻击因此不需要进行远程接触检定。每个目标都可以尝试进行反射豁免检定来减半受到的伤害。"
+    "zhCN": "<b>魔能塑形</b>\n<b>等效法术等级：</b>8\n该魔能塑形让你可以把魔能爆转变为可怕的魔能灭爆，引发神秘力量构成的能弹，重创附近的敌人。魔能灭爆可以对你指定的距离20尺以内的任何目标造成魔能爆伤害。这不是射线攻击因此不需要进行远程接触检定。每个目标都可以尝试进行反射豁免检定来减半受到的伤害。"
   },
    {
     "Key": "HomebrewWarlock.Features.Invocations.Dark.EldritchDoom.LocalizedSavingThrow",
@@ -337,7 +337,7 @@
   },
    {
     "Key": "HomebrewWarlock.Features.Invocations.Dark.DarkDiscorporation.Description",
-    "zhCN": "<b>等效法术等级：</b>8/n你掌握了黑暗的力量，学会了抛弃自己的肉体。当你使用这个能力时，你变成一个由微小蝙蝠状阴影组成的巨大集群。/n集群形态下，你获得以下属性和特征：/n你的力量属性降低到1，但是敏捷属性增加6。/n你在AC上获得+4体型加值，并在AC上获得等于你魅力加值的偏斜加值。/n你获得40尺飞行速度。/n你对武器伤害、重击和战技免疫。你不能被夹击。你对针对特定数量生物的任何法术或效果免疫，但影响心灵的法术和能力除外。你会额外受到一半范围法术或效果造成的伤害的（向上取整）。如果你的生命值减少到0点或以下，或者因非致命伤害陷入昏迷，你会立刻恢复到你的正常形态。/n你获得一次集群攻击，在你的回合开始时，对你锁占据空间内的任何生物造成4d6点伤害。你的集群攻击视为你所属阵营的魔法武器。/n任何易受你的集群攻击的生物，如果在你的集群占据的方格中开始它的回合，必须通过坚韧豁免，否则反胃1轮。在你的集群的范围内进行法术施放或保持专注需要专注检定（难度DC=15+2×法术等级）。/n在黑暗解体的效果影响下，你只能使用移动动作（你不能使用其他邪术）。"
+    "zhCN": "<b>等效法术等级：</b>8\n你掌握了黑暗的力量，学会了抛弃自己的肉体。当你使用这个能力时，你变成一个由微小蝙蝠状阴影组成的巨大集群。\n集群形态下，你获得以下属性和特征：\n你的力量属性降低到1，但是敏捷属性增加6。\n你在AC上获得+4体型加值，并在AC上获得等于你魅力加值的偏斜加值。\n你获得40尺飞行速度。\n你对武器伤害、重击和战技免疫。你不能被夹击。你对针对特定数量生物的任何法术或效果免疫，但影响心灵的法术和能力除外。你会额外受到一半范围法术或效果造成的伤害的（向上取整）。如果你的生命值减少到0点或以下，或者因非致命伤害陷入昏迷，你会立刻恢复到你的正常形态。\n你获得一次集群攻击，在你的回合开始时，对你锁占据空间内的任何生物造成4d6点伤害。你的集群攻击视为你所属阵营的魔法武器。\n任何易受你的集群攻击的生物，如果在你的集群占据的方格中开始它的回合，必须通过坚韧豁免，否则反胃1轮。在你的集群的范围内进行法术施放或保持专注需要专注检定（难度DC=15+2×法术等级）。\n在黑暗解体的效果影响下，你只能使用移动动作（你不能使用其他邪术）。"
   },
    {
     "Key": "HomebrewWarlock.Features.Invocations.Dark.DarkDiscorporation.ShortDescription",
@@ -349,7 +349,7 @@
   },
    {
     "Key": "HomebrewWarlock.Features.InvocationSelection.Description",
-    "zhCN": "和其他奥术施法者不同，原邪术师并不准备或施展法术，而是通过聚集流淌在他灵魂中的狂野魔法力量来攻击、防御或是达成其他效果，这种能力被称为邪术。/n只要满足下述条件，原邪术师可以随意使用任何他所知的邪术。/n邪术是一种类法术能力，因此，使用邪术是一个会引发借机攻击的标准动作。和法术一样，邪术可以被打断，如果在施展时被击中，原邪术师必须通过一个专注检定来正常施展这个邪术，但原邪术师可以选择使用防御性施法来避免借机攻击。除非特殊说明，法术抗力对邪术有效。邪术的施法者等级等于施展者的原邪术师等级。/n邪术的豁免难度（如果允许豁免的话）是10+等效法术等级+原邪术师的魅力调整。/n邪术的四个等级由低到高依次是基础邪术、次级邪术、高等邪术和至暗邪术。原邪术师在一级时仅能使用一种基础邪术。/n6级起，原邪术师可以获得次级邪术，13级起获得高等邪术，16级起获得至暗邪术。/n与其他类法术能力不同，邪术可能需要承担奥术失败率。"
+    "zhCN": "和其他奥术施法者不同，原邪术师并不准备或施展法术，而是通过聚集流淌在他灵魂中的狂野魔法力量来攻击、防御或是达成其他效果，这种能力被称为邪术。\n只要满足下述条件，原邪术师可以随意使用任何他所知的邪术。\n邪术是一种类法术能力，因此，使用邪术是一个会引发借机攻击的标准动作。和法术一样，邪术可以被打断，如果在施展时被击中，原邪术师必须通过一个专注检定来正常施展这个邪术，但原邪术师可以选择使用防御性施法来避免借机攻击。除非特殊说明，法术抗力对邪术有效。邪术的施法者等级等于施展者的原邪术师等级。\n邪术的豁免难度（如果允许豁免的话）是10+等效法术等级+原邪术师的魅力调整。\n邪术的四个等级由低到高依次是基础邪术、次级邪术、高等邪术和至暗邪术。原邪术师在一级时仅能使用一种基础邪术。\n6级起，原邪术师可以获得次级邪术，13级起获得高等邪术，16级起获得至暗邪术。\n与其他类法术能力不同，邪术可能需要承担奥术失败率。"
   },
    {
     "Key": "HomebrewWarlock.Features.InvocationSelection.ShortDescription",
@@ -389,7 +389,7 @@
   },
    {
     "Key": "HomebrewWarlock.Features.FiendishResilience.Description",
-    "zhCN": "从8级起，原邪术师获得了炼狱活力能力。每天一次，作为一个自由动作，他可以进入一种持续2分钟的状态，在这种状态中，他获得了快速回复1。/n从13级起，原邪术师的炼狱活力能力得到了增强。当处于该状态时，他获得快速回复2；而在18级时，则进一步增强为快速回复5。"
+    "zhCN": "从8级起，原邪术师获得了炼狱活力能力。每天一次，作为一个自由动作，他可以进入一种持续2分钟的状态，在这种状态中，他获得了快速回复1。\n从13级起，原邪术师的炼狱活力能力得到了增强。当处于该状态时，他获得快速回复2；而在18级时，则进一步增强为快速回复5。"
   },
    {
     "Key": "HomebrewWarlock.Features.EnergyResistance.DisplayName",
@@ -425,7 +425,7 @@
   },
    {
     "Key": "HomebrewWarlock.Features.EldritchBlast.EldritchBlast.Description",
-    "zhCN": "原邪术师所学到的第一项能力就是魔能爆。他可以利用这种负面的魔法能量伤害敌人，甚至同时造成其他负面效果。/n魔能爆是一种射程为60尺的射线效果，使用它需要进行接触攻击。魔能爆影响单个敌人，并且不允许豁免。在一级时，魔能爆能造成1d6点伤害，随着原邪术师等级的提高，伤害也会提高。魔能爆可以视为一个1级的法术，但你对其使用魔能异变或者魔能塑形时，则使用对应的等效法术等级。/n法术抗力对魔焰有效，但法术穿透专长或是其他提高施法者等级检定的效果同样作用于魔能爆。超魔专长不能增强魔能爆（因为这是一种类法术能力），但是异能专注（魔能爆）可以提高任何和魔能爆有关的豁免检定的难度。"
+    "zhCN": "原邪术师所学到的第一项能力就是魔能爆。他可以利用这种负面的魔法能量伤害敌人，甚至同时造成其他负面效果。\n魔能爆是一种射程为60尺的射线效果，使用它需要进行接触攻击。魔能爆影响单个敌人，并且不允许豁免。在一级时，魔能爆能造成1d6点伤害，随着原邪术师等级的提高，伤害也会提高。魔能爆可以视为一个1级的法术，但你对其使用魔能异变或者魔能塑形时，则使用对应的等效法术等级。\n法术抗力对魔焰有效，但法术穿透专长或是其他提高施法者等级检定的效果同样作用于魔能爆。超魔专长不能增强魔能爆（因为这是一种类法术能力），但是异能专注（魔能爆）可以提高任何和魔能爆有关的豁免检定的难度。"
   },
    {
     "Key": "HomebrewWarlock.Features.EldritchBlast.EldritchBlast.ShortDescription",
@@ -437,7 +437,7 @@
   },
    {
     "Key": "HomebrewWarlock.Features.EldritchBlast.EldritchBlastMetamagic.QuickenDescription",
-    "zhCN": "你可以每天使用三次瞬发魔能爆（包括魔能塑形和魔能异变）。/n应用瞬发后的类法术能力只需一个迅捷动作。在施放瞬发类法术能力的同一轮，还可以进行其他动作，甚至是再施放一个类法术能力（但不能是另外一个迅捷动作）。每一轮只能使用一个瞬发类法术能力。"
+    "zhCN": "你可以每天使用三次瞬发魔能爆（包括魔能塑形和魔能异变）。\n应用瞬发后的类法术能力只需一个迅捷动作。在施放瞬发类法术能力的同一轮，还可以进行其他动作，甚至是再施放一个类法术能力（但不能是另外一个迅捷动作）。每一轮只能使用一个瞬发类法术能力。"
   },
    {
     "Key": "HomebrewWarlock.Features.EldritchBlast.EldritchBlastMetamagic.MaximizeDisplayName",
@@ -445,7 +445,7 @@
   },
    {
     "Key": "HomebrewWarlock.Features.EldritchBlast.EldritchBlastMetamagic.MaximizeDescription",
-    "zhCN": "你可以每天使用三次极效魔能爆（包括魔能塑形和魔能异变）。/n应用强效后的类法术能力中，所有可变的数字效果都将最大化。豁免检定、对抗检定，以及无随机变量的类法术能力不受此专长影响。"
+    "zhCN": "你可以每天使用三次极效魔能爆（包括魔能塑形和魔能异变）。\n应用强效后的类法术能力中，所有可变的数字效果都将最大化。豁免检定、对抗检定，以及无随机变量的类法术能力不受此专长影响。"
   },
    {
     "Key": "HomebrewWarlock.Features.EldritchBlast.EldritchBlastMetamagic.EmpowerDisplayName",
@@ -453,7 +453,7 @@
   },
    {
     "Key": "HomebrewWarlock.Features.EldritchBlast.EldritchBlastMetamagic.EmpowerDescription",
-    "zhCN": "你可以每天使用三次强效魔能爆（包括魔能塑形和魔能异变）。/n应用强效后的类法术能力中，所有可变的数字效果都提高一半。豁免检定、对抗检定，以及无随机变量的类法术能力不受此专长影响。"
+    "zhCN": "你可以每天使用三次强效魔能爆（包括魔能塑形和魔能异变）。\n应用强效后的类法术能力中，所有可变的数字效果都提高一半。豁免检定、对抗检定，以及无随机变量的类法术能力不受此专长影响。"
   },
    {
     "Key": "HomebrewWarlock.Features.EldritchBlast.EldritchBlastMetamagic.DisplayName",
