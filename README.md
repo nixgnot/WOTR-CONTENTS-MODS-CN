@@ -1760,7 +1760,7 @@
 > *修改内容：* 修复辉光最终形态附魔效果<br>
 > *新增内容：* 物品、法术等<br>
 + 主要是增加物品
-+ **2.1版本Discord发布了临时更新，可在本处[Release页面](https://github.com/nixgnot/WOTR-CONTENTS-MODS-CN/releases)下载临时版**
++ **2.1版本Discord发布了临时更新，可在本处[Release页面](https://github.com/nixgnot/WOTR-S-MODS-CN/releases)下载临时版**
 <table>
 <tr><th colspan="2">新增内容列表</th></tr> 
    <tr><td>前作武器</td>
@@ -1927,7 +1927,7 @@
 </table>
 
 -------------------------------------------
-### [ExpandedContent2022](https://www.nexusmods.com/pathfinderwrathoftherighteous/mods/377)
+### [ExpandedContent2022](https://github.com/ka-dyn/ExpandedContent)
 + [贴吧汉化帖](https://tieba.baidu.com/p/8108212678)
 > *前置：* 无<br>
 > *中文：* **有汉化，提供QL汉化修正**<br>
