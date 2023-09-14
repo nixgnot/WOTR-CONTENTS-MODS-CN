@@ -2931,7 +2931,7 @@ C:\Users\你的用户名\AppData\LocalLow\Owlcat Games\Pathfinder Wrath Of The R
 ------------------------------------------- 
 ### [MysticalMayhem](https://github.com/kreaddy/MysticalMayhem)
 > *前置：* 无<br>
-> *中文：* **自带**<br>
+> *中文：* **自带（需要QL汉化补全内容）**<br>
 > *安装方式：* **UMM**<br>
 > *修改内容：* <br>
 > *新增内容：* 变体，专长，神话能力，法术等<br>
@@ -2944,7 +2944,7 @@ C:\Users\你的用户名\AppData\LocalLow\Owlcat Games\Pathfinder Wrath Of The R
        <td>房规</td></tr>
 <tr><td rowspan="1">职业<br>Class</td>
 	<td>邪术师<br>Warlock</td>
-	<td>来自第三方内容，含变体。暂无汉化</td>
+	<td>来自第三方内容，含变体。需要QL汉化</td>
 	<td>:x:</td></tr>
 <tr><td rowspan="4">变体<br>Archetype</td>
 	<td>苦修者<br>Flagellant</td>
