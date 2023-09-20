@@ -12019,7 +12019,7 @@
       "SimpleName": "StargazerSiderealFinalTheLanternBearerFeature.Description",
       "ProcessTemplates": true,
       "enGB": "The stargazer’s ability to conjure light increases. Any spell cast by the stargazer with the fire descriptor has its spell level increased by 2.",
-      "zhCN": "观星者塑造光明的力量得到了增强。观星者释放的所有带有火描述标识的法术的环级视为比正常高2级。"
+      "zhCN": "观星者塑造光明的力量得到了增强。观星者释放的所有带有火描述标识的法术的施法者等级视为比正常高2级。"
     },
     {
       "Key": "bce9bee80fdb4f00be24eb136b23e97b",
@@ -12138,21 +12138,21 @@
       "SimpleName": "StargazerSiderealTheLanternBearerEffect.Description",
       "ProcessTemplates": true,
       "enGB": "The stargazer’s ability to conjure light increases. Any spell cast by the stargazer with the fire descriptor has its spell level increased by 2.",
-      "zhCN": "观星者塑造光明的力量得到了增强。观星者释放的所有带有火描述标识的法术的环级视为比正常高2级。"
+      "zhCN": "观星者塑造光明的力量得到了增强。观星者释放的所有带有火描述标识的法术的施法者等级视为比正常高2级。"
     },
     {
       "Key": "3a63b4e83f444032aece218d8eb95339",
       "SimpleName": "StargazerSiderealTheLanternBearerFeature.Description",
       "ProcessTemplates": true,
       "enGB": "The stargazer’s ability to conjure light increases. Any spell cast by the stargazer with the fire descriptor has its spell level increased by 2.",
-      "zhCN": "观星者塑造光明的力量得到了增强。观星者释放的所有带有火描述标识的法术的环级视为比正常高2级。"
+      "zhCN": "观星者塑造光明的力量得到了增强。观星者释放的所有带有火描述标识的法术的施法者等级视为比正常高2级。"
     },
     {
       "Key": "3b0055d3af5f407db4867b281631890a",
       "SimpleName": "StargazerSiderealTheLanternBearerHolder.Description",
       "ProcessTemplates": true,
       "enGB": "The stargazer’s ability to conjure light increases. Any spell cast by the stargazer with the fire descriptor has its spell level increased by 2.",
-      "zhCN": "观星者塑造光明的力量得到了增强。观星者释放的所有带有火描述标识的法术的环级视为比正常高2级。"
+      "zhCN": "观星者塑造光明的力量得到了增强。观星者释放的所有带有火描述标识的法术的施法者等级视为比正常高2级。"
     },
     {
       "Key": "42afc7fe542048e693e7ea21d343e829",
@@ -12460,7 +12460,7 @@
       "SimpleName": "StargazerStarsDanceBridgeSwapLanternBearer.Description",
       "ProcessTemplates": true,
       "enGB": "Once per day, the stargazer can replace one of his sidereal arcana with any other one. This ability gives up The Bridge and gains The Lantern Bearer.\nThe LanternBearer: The stargazer’s ability to conjure light increases. Any spell cast by the stargazer with the fire descriptor has its spell level increased by 2.",
-      "zhCN": "每日1次，观星者能够将自己已有的星座奥秘替换为任意一个其他的星座奥秘。该能力放弃桥梁座并获得灯夫座。\n灯夫座: 观星者塑造光明的力量得到了增强。观星者释放的所有带有火描述标识的法术的环级视为比正常高2级。"
+      "zhCN": "每日1次，观星者能够将自己已有的星座奥秘替换为任意一个其他的星座奥秘。该能力放弃桥梁座并获得灯夫座。\n灯夫座: 观星者塑造光明的力量得到了增强。观星者释放的所有带有火描述标识的法术的施法者等级视为比正常高2级。"
     },
     {
       "Key": "54cfc121d9ed4e788fffa07693f15e6d",
@@ -12663,7 +12663,7 @@
       "SimpleName": "StargazerStarsDanceDaughterSwapLanternBearer.Description",
       "ProcessTemplates": true,
       "enGB": "Once per day, the stargazer can replace one of his sidereal arcana with any other one. This ability gives up The Daughter and gains The Lantern Bearer.\nThe LanternBearer: The stargazer’s ability to conjure light increases. Any spell cast by the stargazer with the fire descriptor has its spell level increased by 2.",
-      "zhCN": "每日1次，观星者能够将自己已有的星座奥秘替换为任意一个其他的星座奥秘。该能力放弃息女座并获得灯夫座。\n灯夫座: 观星者塑造光明的力量得到了增强。观星者释放的所有带有火描述标识的法术的环级视为比正常高2级。"
+      "zhCN": "每日1次，观星者能够将自己已有的星座奥秘替换为任意一个其他的星座奥秘。该能力放弃息女座并获得灯夫座。\n灯夫座: 观星者塑造光明的力量得到了增强。观星者释放的所有带有火描述标识的法术的施法者等级视为比正常高2级。"
     },
     {
       "Key": "c6893d882e9d4973a4f7cbeec4385391",
@@ -12880,7 +12880,7 @@
       "SimpleName": "StargazerStarsDanceFollowerSwapLanternBearer.Description",
       "ProcessTemplates": true,
       "enGB": "Once per day, the stargazer can replace one of his sidereal arcana with any other one. This ability gives up The Follower and gains The Lantern Bearer.\nThe LanternBearer: The stargazer’s ability to conjure light increases. Any spell cast by the stargazer with the fire descriptor has its spell level increased by 2.",
-      "zhCN": "每日1次，观星者能够将自己已有的星座奥秘替换为任意一个其他的星座奥秘。该能力放弃猎命座并获得灯夫座。\n灯夫座: 观星者塑造光明的力量得到了增强。观星者释放的所有带有火描述标识的法术的环级视为比正常高2级。"
+      "zhCN": "每日1次，观星者能够将自己已有的星座奥秘替换为任意一个其他的星座奥秘。该能力放弃猎命座并获得灯夫座。\n灯夫座: 观星者塑造光明的力量得到了增强。观星者释放的所有带有火描述标识的法术的施法者等级视为比正常高2级。"
     },
     {
       "Key": "49da60a2878a4be2ace9793a50dc51d5",
@@ -13034,14 +13034,14 @@
       "SimpleName": "StargazerStarsDanceLanternBearerBuff.Description",
       "ProcessTemplates": true,
       "enGB": "The stargazer’s ability to conjure light increases. Any spell cast by the stargazer with the fire descriptor has its spell level increased by 2.",
-      "zhCN": "观星者塑造光明的力量得到了增强。观星者释放的所有带有火描述标识的法术的环级视为比正常高2级。"
+      "zhCN": "观星者塑造光明的力量得到了增强。观星者释放的所有带有火描述标识的法术的施法者等级视为比正常高2级。"
     },
     {
       "Key": "020571d00b1142628388240047c0ddcf",
       "SimpleName": "StargazerStarsDanceLanternBearerFeature.Description",
       "ProcessTemplates": true,
       "enGB": "The stargazer’s ability to conjure light increases. Any spell cast by the stargazer with the fire descriptor has its spell level increased by 2.",
-      "zhCN": "观星者塑造光明的力量得到了增强。观星者释放的所有带有火描述标识的法术的环级视为比正常高2级。"
+      "zhCN": "观星者塑造光明的力量得到了增强。观星者释放的所有带有火描述标识的法术的施法者等级视为比正常高2级。"
     },
     {
       "Key": "3dd8db79c5f44cd58aacc2c46306e2b4",
@@ -13139,7 +13139,7 @@
       "SimpleName": "StargazerStarsDanceLanternBearerSwapParent.Description",
       "ProcessTemplates": true,
       "enGB": "Once per day, the stargazer can replace one of his sidereal arcana with any other one. \nAll variants of this ability give up The Lantern Bearer. \nThe stargazer’s ability to conjure light increases. Any spell cast by the stargazer with the fire descriptor has its spell level increased by 2.",
-      "zhCN": "每日1次，观星者能够将自己已有的星座奥秘替换为任意一个其他的星座奥秘。\n该组能力放弃灯夫座。\n观星者塑造光明的力量得到了增强。观星者释放的所有带有火描述标识的法术的环级视为比正常高2级。"
+      "zhCN": "每日1次，观星者能够将自己已有的星座奥秘替换为任意一个其他的星座奥秘。\n该组能力放弃灯夫座。\n观星者塑造光明的力量得到了增强。观星者释放的所有带有火描述标识的法术的施法者等级视为比正常高2级。"
     },
     {
       "Key": "59740ac864244f738adc8cffe12c411c",
@@ -13300,7 +13300,7 @@
       "SimpleName": "StargazerStarsDanceMotherSwapLanternBearer.Description",
       "ProcessTemplates": true,
       "enGB": "Once per day, the stargazer can replace one of his sidereal arcana with any other one. This ability gives up The Mother and gains The Lantern Bearer.\nThe LanternBearer: The stargazer’s ability to conjure light increases. Any spell cast by the stargazer with the fire descriptor has its spell level increased by 2.",
-      "zhCN": "每日1次，观星者能够将自己已有的星座奥秘替换为任意一个其他的星座奥秘。该能力放弃慈母座并获得灯夫座。\n灯夫座: 观星者塑造光明的力量得到了增强。观星者释放的所有带有火描述标识的法术的环级视为比正常高2级。"
+      "zhCN": "每日1次，观星者能够将自己已有的星座奥秘替换为任意一个其他的星座奥秘。该能力放弃慈母座并获得灯夫座。\n灯夫座: 观星者塑造光明的力量得到了增强。观星者释放的所有带有火描述标识的法术的施法者等级视为比正常高2级。"
     },
     {
       "Key": "443844c1db294d9897b748fa0170cdfa",
@@ -13503,7 +13503,7 @@
       "SimpleName": "StargazerStarsDanceNewlywedsSwapLanternBearer.Description",
       "ProcessTemplates": true,
       "enGB": "Once per day, the stargazer can replace one of his sidereal arcana with any other one. This ability gives up The Newlyweds and gains The Lantern Bearer.\nThe LanternBearer: The stargazer’s ability to conjure light increases. Any spell cast by the stargazer with the fire descriptor has its spell level increased by 2.",
-      "zhCN": "每日1次，观星者能够将自己已有的星座奥秘替换为任意一个其他的星座奥秘。该能力放弃好合座并获得灯夫座。\n灯夫座: 观星者塑造光明的力量得到了增强。观星者释放的所有带有火描述标识的法术的环级视为比正常高2级。"
+      "zhCN": "每日1次，观星者能够将自己已有的星座奥秘替换为任意一个其他的星座奥秘。该能力放弃好合座并获得灯夫座。\n灯夫座: 观星者塑造光明的力量得到了增强。观星者释放的所有带有火描述标识的法术的施法者等级视为比正常高2级。"
     },
     {
       "Key": "e0ce611ef0a24839999988fa7d22c269",
@@ -13706,7 +13706,7 @@
       "SimpleName": "StargazerStarsDancePackSwapLanternBearer.Description",
       "ProcessTemplates": true,
       "enGB": "Once per day, the stargazer can replace one of his sidereal arcana with any other one. This ability gives up The Pack and gains The Lantern Bearer.\nThe LanternBearer: The stargazer’s ability to conjure light increases. Any spell cast by the stargazer with the fire descriptor has its spell level increased by 2.",
-      "zhCN": "每日1次，观星者能够将自己已有的星座奥秘替换为任意一个其他的星座奥秘。该能力放弃兽群座并获得灯夫座。\n灯夫座: 观星者塑造光明的力量得到了增强。观星者释放的所有带有火描述标识的法术的环级视为比正常高2级。"
+      "zhCN": "每日1次，观星者能够将自己已有的星座奥秘替换为任意一个其他的星座奥秘。该能力放弃兽群座并获得灯夫座。\n灯夫座: 观星者塑造光明的力量得到了增强。观星者释放的所有带有火描述标识的法术的施法者等级视为比正常高2级。"
     },
     {
       "Key": "6527408d99244d5a9ffc60c100d93cd5",
@@ -13909,7 +13909,7 @@
       "SimpleName": "StargazerStarsDancePatriarchSwapLanternBearer.Description",
       "ProcessTemplates": true,
       "enGB": "Once per day, the stargazer can replace one of his sidereal arcana with any other one. This ability gives up The Patriarch and gains The Lantern Bearer.\nThe LanternBearer: The stargazer’s ability to conjure light increases. Any spell cast by the stargazer with the fire descriptor has its spell level increased by 2.",
-      "zhCN": "每日1次，观星者能够将自己已有的星座奥秘替换为任意一个其他的星座奥秘。该能力放弃族长座并获得灯夫座。\n灯夫座: 观星者塑造光明的力量得到了增强。观星者释放的所有带有火描述标识的法术的环级视为比正常高2级。"
+      "zhCN": "每日1次，观星者能够将自己已有的星座奥秘替换为任意一个其他的星座奥秘。该能力放弃族长座并获得灯夫座。\n灯夫座: 观星者塑造光明的力量得到了增强。观星者释放的所有带有火描述标识的法术的施法者等级视为比正常高2级。"
     },
     {
       "Key": "fd67e9887b084798837076cd4bf44220",
@@ -14091,7 +14091,7 @@
       "SimpleName": "StargazerStarsDanceRiderSwapLanternBearer.Description",
       "ProcessTemplates": true,
       "enGB": "Once per day, the stargazer can replace one of his sidereal arcana with any other one. This ability gives up The Rider and gains The Lantern Bearer.\nThe LanternBearer: The stargazer’s ability to conjure light increases. Any spell cast by the stargazer with the fire descriptor has its spell level increased by 2.",
-      "zhCN": "每日1次，观星者能够将自己已有的星座奥秘替换为任意一个其他的星座奥秘。该能力放弃骑士座并获得灯夫座。\n灯夫座: 观星者塑造光明的力量得到了增强。观星者释放的所有带有火描述标识的法术的环级视为比正常高2级。"
+      "zhCN": "每日1次，观星者能够将自己已有的星座奥秘替换为任意一个其他的星座奥秘。该能力放弃骑士座并获得灯夫座。\n灯夫座: 观星者塑造光明的力量得到了增强。观星者释放的所有带有火描述标识的法术的施法者等级视为比正常高2级。"
     },
     {
       "Key": "841e9224cb3646648a758e3d0c750ed7",
@@ -14294,7 +14294,7 @@
       "SimpleName": "StargazerStarsDanceStargazerSwapLanternBearer.Description",
       "ProcessTemplates": true,
       "enGB": "Once per day, the stargazer can replace one of his sidereal arcana with any other one. This ability gives up The Stargazer and gains The Lantern Bearer.\nThe LanternBearer: The stargazer’s ability to conjure light increases. Any spell cast by the stargazer with the fire descriptor has its spell level increased by 2.",
-      "zhCN": "每日1次，观星者能够将自己已有的星座奥秘替换为任意一个其他的星座奥秘。该能力放弃观星座并获得灯夫座。\n灯夫座: 观星者塑造光明的力量得到了增强。观星者释放的所有带有火描述标识的法术的环级视为比正常高2级。"
+      "zhCN": "每日1次，观星者能够将自己已有的星座奥秘替换为任意一个其他的星座奥秘。该能力放弃观星座并获得灯夫座。\n灯夫座: 观星者塑造光明的力量得到了增强。观星者释放的所有带有火描述标识的法术的施法者等级视为比正常高2级。"
     },
     {
       "Key": "29722aef8e0a4ab1815f653aa324b14f",
@@ -14497,7 +14497,7 @@
       "SimpleName": "StargazerStarsDanceStrangerSwapLanternBearer.Description",
       "ProcessTemplates": true,
       "enGB": "Once per day, the stargazer can replace one of his sidereal arcana with any other one. This ability gives up The Stranger and gains The Lantern Bearer.\nThe LanternBearer: The stargazer’s ability to conjure light increases. Any spell cast by the stargazer with the fire descriptor has its spell level increased by 2.",
-      "zhCN": "每日1次，观星者能够将自己已有的星座奥秘替换为任意一个其他的星座奥秘。该能力放弃陌客座并获得灯夫座。\n灯夫座: 观星者塑造光明的力量得到了增强。观星者释放的所有带有火描述标识的法术的环级视为比正常高2级。"
+      "zhCN": "每日1次，观星者能够将自己已有的星座奥秘替换为任意一个其他的星座奥秘。该能力放弃陌客座并获得灯夫座。\n灯夫座: 观星者塑造光明的力量得到了增强。观星者释放的所有带有火描述标识的法术的施法者等级视为比正常高2级。"
     },
     {
       "Key": "e8a254c955d74b9faf65ae3a3869f72c",
@@ -14700,7 +14700,7 @@
       "SimpleName": "StargazerStarsDanceThrushSwapLanternBearer.Description",
       "ProcessTemplates": true,
       "enGB": "Once per day, the stargazer can replace one of his sidereal arcana with any other one. This ability gives up The Thrush and gains The Lantern Bearer.\nThe LanternBearer: The stargazer’s ability to conjure light increases. Any spell cast by the stargazer with the fire descriptor has its spell level increased by 2.",
-      "zhCN": "每日1次，观星者能够将自己已有的星座奥秘替换为任意一个其他的星座奥秘。该能力放弃画眉座并获得灯夫座。\n灯夫座: 观星者塑造光明的力量得到了增强。观星者释放的所有带有火描述标识的法术的环级视为比正常高2级。"
+      "zhCN": "每日1次，观星者能够将自己已有的星座奥秘替换为任意一个其他的星座奥秘。该能力放弃画眉座并获得灯夫座。\n灯夫座: 观星者塑造光明的力量得到了增强。观星者释放的所有带有火描述标识的法术的施法者等级视为比正常高2级。"
     },
     {
       "Key": "1e3cb9eab4ee4d1389655fb17ad2c3fc",
@@ -14903,7 +14903,7 @@
       "SimpleName": "StargazerStarsDanceWagonSwapLanternBearer.Description",
       "ProcessTemplates": true,
       "enGB": "Once per day, the stargazer can replace one of his sidereal arcana with any other one. This ability gives up The Wagon and gains The Lantern Bearer.\nThe LanternBearer: The stargazer’s ability to conjure light increases. Any spell cast by the stargazer with the fire descriptor has its spell level increased by 2.",
-      "zhCN": "每日1次，观星者能够将自己已有的星座奥秘替换为任意一个其他的星座奥秘。该能力放弃车辇座并获得灯夫座。\n灯夫座: 观星者塑造光明的力量得到了增强。观星者释放的所有带有火描述标识的法术的环级视为比正常高2级。"
+      "zhCN": "每日1次，观星者能够将自己已有的星座奥秘替换为任意一个其他的星座奥秘。该能力放弃车辇座并获得灯夫座。\n灯夫座: 观星者塑造光明的力量得到了增强。观星者释放的所有带有火描述标识的法术的施法者等级视为比正常高2级。"
     },
     {
       "Key": "f6e7ae7fd79640db9c28597fc2f448e4",
@@ -21807,6 +21807,111 @@
       "ProcessTemplates": false,
       "enGB": "Pheromones",
       "zhCN": "信息素"
+    },
+    {
+      "Key": "258a8e095ef94b1cb968d1d2dbf12c9d",
+      "SimpleName": "EldritchArmorTrainingAbility.Description",
+      "ProcessTemplates": true,
+      "enGB": "As a swift action she can also reduce the arcane spell failure chance due to armor she is wearing by 15% for any spells she casts this round. This reduction increases to 20% at 7th level, 25% at 11th level, and 30% at 15th level.\nThis ability stacks with the arcane spell failure chance from the arcane armor training and arcane armor mastery feats.",
+      "zhCN": "以一个迅捷动作，旧神圣子可以降低本轮中他所穿戴的护甲造成的奥术魔法失败率15%。在7级时，降低20%；在11级时，降低25%；在15级时，降低30%。\n这个能力和披甲奥术训练、披甲奥术大师专长叠加。"
+    },
+    {
+      "Key": "6ec3caf318a6404796a2f6daa9ad2e9c",
+      "SimpleName": "EldritchArmorTrainingAbility.Duration",
+      "ProcessTemplates": false,
+      "enGB": "One round",
+      "zhCN": "1 轮"
+    },
+    {
+      "Key": "fe9faa2f664648c1ae0c615a14af06d1",
+      "SimpleName": "EldritchArmorTrainingBuff15.Description",
+      "ProcessTemplates": true,
+      "enGB": "Arcane spell failure chance due to armor she is wearing is reduced by 15% for any spells she casts this round.\nThis ability stacks with the arcane spell failure chance from the arcane armor training and arcane armor mastery feats.",
+      "zhCN": "本轮穿着护甲带来的奥术失败率减少 15%。\n这个能力和披甲奥术训练、披甲奥术大师专长叠加。"
+    },
+    {
+      "Key": "dc50f17374824b47a746f210cbfb1de0",
+      "SimpleName": "EldritchArmorTrainingBuff20.Description",
+      "ProcessTemplates": true,
+      "enGB": "Arcane spell failure chance due to armor she is wearing is reduced by 20% for any spells she casts this round.\nThis ability stacks with the arcane spell failure chance from the arcane armor training and arcane armor mastery feats.",
+      "zhCN": "本轮穿着护甲带来的奥术失败率减少 20%。\n这个能力和披甲奥术训练、披甲奥术大师专长叠加。"
+    },
+    {
+      "Key": "6091145b84354cb8902aaa3191502ce0",
+      "SimpleName": "EldritchArmorTrainingBuff25.Description",
+      "ProcessTemplates": true,
+      "enGB": "Arcane spell failure chance due to armor she is wearing is reduced by 25% for any spells she casts this round.\nThis ability stacks with the arcane spell failure chance from the arcane armor training and arcane armor mastery feats.",
+      "zhCN": "本轮穿着护甲带来的奥术失败率减少 25%。\n这个能力和披甲奥术训练、披甲奥术大师专长叠加。"
+    },
+    {
+      "Key": "a6cd3a88e7684be48929a40f51a96529",
+      "SimpleName": "EldritchArmorTrainingBuff30.Description",
+      "ProcessTemplates": true,
+      "enGB": "Arcane spell failure chance due to armor she is wearing is reduced by 30% for any spells she casts this round.\nThis ability stacks with the arcane spell failure chance from the arcane armor training and arcane armor mastery feats.",
+      "zhCN": "本轮穿着护甲带来的奥术失败率减少 30%。\n这个能力和披甲奥术训练、披甲奥术大师专长叠加。"
+    },
+    {
+      "Key": "61107c05c5584ece92af224815f84d3d",
+      "SimpleName": "EldritchArmorTrainingFeature.Description",
+      "ProcessTemplates": true,
+      "enGB": "At 3rd level, a child of Acavna and Amaznen gains eldritch armor training. As a swift action she can also reduce the arcane spell failure chance due to armor she is wearing by 15% for any spells she casts this round. This reduction increases to 20% at 7th level, 25% at 11th level, and 30% at 15th level.\nThis ability stacks with the arcane spell failure chance from the arcane armor training and arcane armor mastery feats.",
+      "zhCN": "3级起旧神圣子获得神秘护甲训练。以一个迅捷动作，旧神圣子可以降低本轮中他所穿戴的护甲造成的奥术魔法失败率15%。在7级时，降低20%；在11级时，降低25%；在15级时，降低30%。\n这个能力和披甲奥术训练、披甲奥术大师专长叠加。"
+    },
+    {
+      "Key": "f3e59585d5004eaeba19455edcf077bd",
+      "SimpleName": "EldritchArmorTrainingRank20.Description",
+      "ProcessTemplates": true,
+      "enGB": "At 3rd level, a child of Acavna and Amaznen gains eldritch armor training. As a swift action she can also reduce the arcane spell failure chance due to armor she is wearing by 15% for any spells she casts this round. This reduction increases to 20% at 7th level, 25% at 11th level, and 30% at 15th level.\nThis ability stacks with the arcane spell failure chance from the arcane armor training and arcane armor mastery feats.",
+      "zhCN": "3级起旧神圣子获得神秘护甲训练。以一个迅捷动作，旧神圣子可以降低本轮中他所穿戴的护甲造成的奥术魔法失败率15%。在7级时，降低20%；在11级时，降低25%；在15级时，降低30%。\n这个能力和披甲奥术训练、披甲奥术大师专长叠加。"
+    },
+    {
+      "Key": "0991c5e792404889a36aee42147afabe",
+      "SimpleName": "EldritchArmorTrainingRank25.Description",
+      "ProcessTemplates": true,
+      "enGB": "At 3rd level, a child of Acavna and Amaznen gains eldritch armor training. As a swift action she can also reduce the arcane spell failure chance due to armor she is wearing by 15% for any spells she casts this round. This reduction increases to 20% at 7th level, 25% at 11th level, and 30% at 15th level.\nThis ability stacks with the arcane spell failure chance from the arcane armor training and arcane armor mastery feats.",
+      "zhCN": "3级起旧神圣子获得神秘护甲训练。以一个迅捷动作，旧神圣子可以降低本轮中他所穿戴的护甲造成的奥术魔法失败率15%。在7级时，降低20%；在11级时，降低25%；在15级时，降低30%。\n这个能力和披甲奥术训练、披甲奥术大师专长叠加。"
+    },
+    {
+      "Key": "4177b6e2e4504bf4989e9f22a3b4f298",
+      "SimpleName": "EldritchArmorTrainingRank30.Description",
+      "ProcessTemplates": true,
+      "enGB": "At 3rd level, a child of Acavna and Amaznen gains eldritch armor training. As a swift action she can also reduce the arcane spell failure chance due to armor she is wearing by 15% for any spells she casts this round. This reduction increases to 20% at 7th level, 25% at 11th level, and 30% at 15th level.\nThis ability stacks with the arcane spell failure chance from the arcane armor training and arcane armor mastery feats.",
+      "zhCN": "3级起旧神圣子获得神秘护甲训练。以一个迅捷动作，旧神圣子可以降低本轮中他所穿戴的护甲造成的奥术魔法失败率15%。在7级时，降低20%；在11级时，降低25%；在15级时，降低30%。\n这个能力和披甲奥术训练、披甲奥术大师专长叠加。"
+    },
+    {
+      "Key": "73573f461f4b4ab19555441165976f0a",
+      "SimpleName": "EldritchArmorTrainingRank30.Name",
+      "ProcessTemplates": false,
+      "enGB": "Eldritch Armor Training",
+      "zhCN": "神秘护甲训练 "
+    },
+    {
+      "Key": "1eabf202e22e4ee78fe8a4e825f46cd3",
+      "SimpleName": "LoreOfAcavnaAndAmaznenFeature.Description",
+      "ProcessTemplates": true,
+      "enGB": "At 2nd level, a child of Acavna and Amaznen is further initiated into the arcane secrets passed down from Azlant. This gives her minor spellcasting abilities and access to lore collected to give her an edge against the enemies of humanity.\nThe child of Acavna and Amaznen gains a spellbook containing wizard cantrips. She can prepare and cast these spells as a wizard, using her fighter level as her caster level.\nShe also gains a +2 bonus on Knowledge checks.",
+      "zhCN": "2 级起，旧神圣子学习了从古阿兹兰特流传下来的魔法奥义，这使他在通常战士的武技之外，可以将一些较弱的法术作为自己的新武器用来打击人类之敌。\n旧神圣子获得一本记录了戏法的法师法术书。旧神圣子可以如同法师一般准备和施放这些法术，以战士等级作为施法者等级。\n同时，旧神圣子在知识检定上获得 +2 加值。"
+    },
+    {
+      "Key": "5eea6e53ad4e41c2ad8a96ad56948b16",
+      "SimpleName": "LoreOfAcavnaAndAmaznenFeature.Name",
+      "ProcessTemplates": false,
+      "enGB": "Lore of Acavna and Amaznen",
+      "zhCN": "旧神学识"
+    },
+    {
+      "Key": "5c7cfcaeeecf4808919a067c1616cf82",
+      "SimpleName": "OneHandedMartialWeaponProficiency.Description",
+      "ProcessTemplates": true,
+      "enGB": "You become proficient with all Martial Weapons that can be used one-handed.",
+      "zhCN": "你擅长所有单手持用的军用武器。"
+    },
+    {
+      "Key": "a43309c90aff4be18a7a0ad197a59553",
+      "SimpleName": "OneHandedMartialWeaponProficiency.Name",
+      "ProcessTemplates": false,
+      "enGB": "One Handed Martial Weapons Proficiency",
+      "zhCN": "单手军用武器擅长"
     }
   ]
 }
