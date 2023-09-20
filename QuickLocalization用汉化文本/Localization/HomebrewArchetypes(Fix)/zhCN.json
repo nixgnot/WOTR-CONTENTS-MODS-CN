@@ -1577,7 +1577,7 @@
         },
 		{
             "Key": "HomebrewArchtypes_MythicAbilityAbundantCastingDesc", // "15edb451-dc5b-4def-807c-a451743eb3a6" for example
-            "zhCN": "神话生物可以通过此能力唤回任意环级的法术，最多6次。"
+            "zhCN": "神话生物可以通过此能力唤回任意环级的法术，最多2+神话阶层次。"
         },
 		{
             "Key": "HomebrewArchtypes_SarenraeSword1Desc", // "15edb451-dc5b-4def-807c-a451743eb3a6" for example
