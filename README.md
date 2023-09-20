@@ -3525,15 +3525,51 @@ C:\Users\你的用户名\AppData\LocalLow\Owlcat Games\Pathfinder Wrath Of The R
 > *新增内容：* 进阶职业<br>
 <table>
  <tr><th colspan="3">新增内容列表<br></th></tr> 
-  <tr><td rowspan="6">进阶职业</i></td>
-       <td colspan="2">大骑士 Chevalier</td></tr>
+  <tr><td rowspan="9">进阶职业</i></td>
+       <td colspan="2">骑士 Chevalier</td></tr>
        <tr><td colspan="2">后继者远征骑士 Inheritor’s Crusader</td></tr>
        <tr><td colspan="2">影舞者 Shadowdancer</td></tr>
        <tr><td colspan="2">墓穴使徒 Agent of the Grave</td></tr>
        <tr><td colspan="2">戍乡人 Hinterlander</td></tr>
-       <tr><td colspan="2">魔射手 Arcane Archer</td></tr>
+       <tr><td colspan="2">魔射手 Arcane Archer<br>魔射手变体 神射信徒 Deadeye Devotee</td></tr>
+       <tr><td colspan="2">大地旅者 Horizon Walker</td></tr>
+       <tr><td colspan="2">染血天使 Sanguine Angel</td></tr>
+       <tr><td colspan="2">负痕求道者 Scar Seeker</td></tr>
   <tr><td rowspan="1">游荡者天赋</i></td>
        <td>防御翻滚 Defensive Roll </td><td>房规改动，加入类似屹立不倒的效果</td></tr>
+  <tr><td rowspan="9">专长</i></td>
+       <td colspan="2">擒抱（精通擒抱）Grapple</td></tr>
+       <tr><td colspan="2">高等擒抱 Greater Grapple</td></tr>
+       <tr><td colspan="2">快速擒抱 Rapid Grappler</td></tr>
+       <tr><td colspan="2">盘身扭 Unfair Grip</td></tr>
+       <tr><td colspan="2">压制击昏 Pinning Knockout</td></tr>
+       <tr><td colspan="2">压制撕裂 Pinning Rend</td></tr>
+       <tr><td colspan="2">野蛮裂地 Savage Slam</td></tr>
+       <tr><td colspan="2">炫目裂地 Dramatic Slam</td></tr>
+       <tr><td colspan="2">尖刺魔之触 Hamatula Strike</td></tr>
+  <tr><td rowspan="15">流派专长</i></td>
+       <td colspan="2">黑堕流 Black Seraph Style</td></tr>
+       <tr><td colspan="2">黑堕恶念 Black Seraph’s Malevolence</td></tr>
+       <tr><td colspan="2">黑堕湮灭 Black Seraph Annihilation</td></tr>
+       <tr><td colspan="2">大擒拿手 Grabbing Style</td></tr>
+       <tr><td colspan="2">万象天引 Grabbing Drag</td></tr>
+       <tr><td colspan="2">天地合 Grabbing Master</td></tr>
+       <tr><td colspan="2">鹿冲流 Charging Stag Style</td></tr>
+       <tr><td colspan="2">鹿绞角 Stag Horns</td></tr>
+       <tr><td colspan="2">鹿角绞 Stag Submission</td></tr>
+       <tr><td colspan="2">鳄龟流 Snapping Turtle Style</td></tr>
+       <tr><td colspan="2">鳄龟爪 Snapping Turtle Clutch</td></tr>
+       <tr><td colspan="2">鳄龟甲 Snapping Turtle Shell</td></tr>
+       <tr><td colspan="2">触手流 Kraken Style</td></tr>
+       <tr><td colspan="2">触手紧缚 Kraken Wrack</td></tr>
+       <tr><td colspan="2">万蛇出洞 Medusa's Wrath</td></tr>
+  <tr><td rowspan="6">神话专长</i></td>
+       <td colspan="2">擒抱（神话） Grapple (Mythic)</td></tr>
+       <tr><td colspan="2">粗野擒抱 Uncanny Grapple</td></tr>
+       <tr><td colspan="2">飞跃突袭 Aerial Assault</td></tr>
+       <tr><td colspan="2">绳结专家 Knot Expert</td></tr>
+       <tr><td colspan="2">肉盾 Meat Shield,</td></tr>
+       <tr><td colspan="2">战技专家 Maneuver Expert</td></tr>
 </table>    
 
 -------------------------------------------   
