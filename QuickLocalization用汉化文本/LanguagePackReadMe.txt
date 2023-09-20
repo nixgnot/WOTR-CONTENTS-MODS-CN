@@ -62,4 +62,6 @@ QL详细使用说明请参阅https://github.com/nixgnot/WOTR-CONTENTS-MODS-CN/bl
 2023/9/12 更新MysticalMayhem补充汉化。
 ---------------------------------------------------------
 2023/9/15 更新ExpandedContent汉化（待测试）。更新PrestigePlus补充汉化。（待测试）
+---------------------------------------------------------
+2023/9/20 更新ExpandedContent汉化（待测试）。修复ExpandedContent和HomebrewArchetypes的汉化。PrestigePlus补充汉化已经合并到其自带中文，删除。
 
