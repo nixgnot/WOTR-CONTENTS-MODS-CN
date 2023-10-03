@@ -969,7 +969,7 @@
     },
     {
       "Key": "MM_WarlockSoulTap_Desc",
-      "zhCN": "以一个迅捷动作，术士可以消耗一个储存的灵魂，来使用生命分流能力，而不需要献祭最大生命值。效果持续 1 轮或直到施法。"
+      "zhCN": "以一个迅捷动作，邪术师可以消耗一个储存的灵魂，来使用生命分流能力，而不需要献祭最大生命值。效果持续 1 轮或直到施法。"
     },
     {
       "Key": "MM_WarlockDevour_Name",
@@ -977,7 +977,7 @@
     },
     {
       "Key": "MM_WarlockDevour_Desc",
-      "zhCN": "以一个迅捷动作，术士可以消耗一个储存的灵魂，来治疗每 2 邪术师等级 1d6 的生命值。"
+      "zhCN": "以一个迅捷动作，邪术师可以消耗一个储存的灵魂，来治疗每 2 邪术师等级 1d6 的生命值。"
     },
     {
       "Key": "MM_WarlockIncarnationDaemon_Desc",
@@ -1062,5 +1062,125 @@
     {
       "Key": "MM_InvokerImpulse_Desc",
       "zhCN": "20级起，祈唤师成为使用庇护主之力释放毁灭的大师。他可以用移动动作释放魔焰和魔焰锁链。"
+    },
+    {
+      "Key": "MM_S_NoWarlock",
+      "zhCN": "禁止邪术师"
+    },
+    {
+      "Key": "MM_S_NoWarlock_Desc",
+      "zhCN": "从职业菜单中移除Optical Sheanigans Games的邪术师版本，如果你希望使用其他MOD的版本，比如Microsoftenator的Homebrew Warlock。"
+    },
+    {
+      "Key": "MM_S_SpellbarFix",
+      "zhCN": "修正重复法术位"
+    },
+    {
+      "Key": "MM_S_SpellbarFix_Desc",
+      "zhCN": "当两本不同的法术书在相同等级上具有相同的法术（准备好的或已知的）和相同的超魔数据时，它只能从角色获得的第一个法术书中施放。独立的神话法术书是最明显的例子。此选项修正了此特性，使你可以从任何法术书中施放相同的法术。"
+    },
+    {
+      "Key": "MM_FaithMagic_Name",
+      "zhCN": "信念魔法"
+    },
+    {
+      "Key": "MM_FaithMagic_Desc",
+      "zhCN": "选择一个由你所崇拜的神祇的领域所赋予的法术。该法术必须比你能够施展的最高法师法术等级低至少2级。你将此法术添加到你的法术列表中，其等级会比原本高出1级。"
+    },
+    {
+      "Key": "MM_Elixir_Name",
+      "zhCN": "生命灵药"
+    },
+    {
+      "Key": "MM_Elixir_Desc",
+      "zhCN": "每天一次，炼金术士可以炼成一份生命灵药。这份药水被炼成它的炼金术士使用时可以复活已死的生物，如同“复生术”一般。此外，炼金术师本人也可以饮用这份药剂，那将使他在被杀死之时立即复活，如同法术“复生术”。如此施为则药剂只持续等同于炼金智力修正的小时数。如果在这段时间他未曾死去，那灵药即会失效。"
+    },
+    {
+      "Key": "MM_ElixirSelf_Name",
+      "zhCN": "生命灵药 — 自用"
+    },
+    {
+      "Key": "MM_ElixirSelf_Desc",
+      "zhCN": "当炼金术士自身使用该灵药时，药剂将使他在被杀死之时立即复活，如同法术“复生术”。"
+    },
+    {
+      "Key": "MM_ElixirOther_Desc",
+      "zhCN": "当对盟友使用时，该药剂作用如同法术“复生术”。\n此{g|Encyclopedia:Spell}法术{/g}效果如同复活亡者，但你能够使任何{g|Encyclopedia:Injury_Death}死亡{/g}的生物重获生命、{g|Encyclopedia:Healing}恢复{/g}全部的{g|Encyclopedia:Strength}力量{/g}，即便目标因即死效应或裂解术而死。\n当法术施放完成时，目标生物立即以满{g|Encyclopedia:HP}生命值{/g}复活，他将具有饱满的活力和完好的健康状况，所准备的法术也不会失去。"
+    },
+    {
+      "Key": "MM_EternalPotion_Name",
+      "zhCN": "永恒药水"
+    },
+    {
+      "Key": "MM_EternalPotion_Desc",
+      "zhCN": "如果一个炼金术士饮用了一份他延时处理过的药水，这份药水的效果可以永久保持，除非他选择另一份永恒药水来替换效果。"
+    },
+    {
+      "Key": "MM_EternalPotion_Buff_Desc",
+      "zhCN": "下一份药水的效果永久保持。"
+    },
+    {
+      "Key": "MM_SpellKnowledge_Name",
+      "zhCN": "法术知识"
+    },
+    {
+      "Key": "MM_SpellKnowledge_Desc",
+      "zhCN": "你对万物如何相互联系的研究教会了你施放数量非常有限的法术。\n效果：从法师/术士法术列表中选择一个至少比你已知最高等级的法术低2级的法术。你可以将这个法术准备为比原始法术高1级的炼金化合物。"
+    },
+    {
+      "Key": "MM_GoldWizard_Name",
+      "zhCN": "金袍法师"
+    },
+    {
+      "Key": "MM_GoldWizard_Desc",
+      "zhCN": "大多数努力保护世界及其人民免受邪恶力量侵害的人都会求助于闪耀的钢铁和神灵的神术。然而，还有另一些利用神秘的力量来保护无辜者的英杰。这些身穿金色长袍的法师是用神秘力量击败邪恶、召唤神圣生物与敌人作战，以及将邪魔外道驱逐回邪恶深渊的大师。"
+    },
+    {
+      "Key": "MM_GoldWizard_Alignment_Desc",
+      "zhCN": "金袍法师必须是守序善良阵营，并遵循与圣骑士相同的行为准则。如果金袍法师不再是守序善良阵营，他将失去所有的法术和职业特性。且在此之后，他无法再作为法师获得等级，除非他改变自己的阵营。"
+    },
+    {
+      "Key": "MM_ArcaneSmite_Name",
+      "zhCN": "奥法辟邪"
+    },
+    {
+      "Key": "MM_ArcaneSmite_Desc",
+      "zhCN": "金袍法师可以召唤善良之力助其对抗邪恶。花费{g|Encyclopedia:Swift_Action}迅捷动作{/g}，金袍法师可选择对视线内的一个目标施展奥法辟邪。如果目标属于邪恶阵营，金袍法师对这个目标进行的用于穿透法术抗力的施法者等级检定附加{g|Encyclopedia:Charisma}魅力{/g}{g|Encyclopedia:Bonus}加值{/g}（若存在），同时所有{g|Encyclopedia:Damage}伤害检定{/g}均附加法师等级。施展奥法辟邪后，攻击可自动穿透目标生物的所有能量抗性（但是不能穿透免疫）。\n此外，奥法辟邪生效期间，金袍法师在对抗奥法辟邪目标发动的攻击时，{g|Encyclopedia:Armor_Class}防御等级{/g}获得等于魅力加值（若存在）的偏斜加值。如果金袍法师选择的目标不是邪恶生物，辟邪斩次数会浪费掉且不产生任何效果。\n奥法辟邪持续至目标死亡或金袍法师选择了新目标。7级起和之后每6级，金袍法师可以获得额外1次奥法辟邪的每日使用次数，直到19级时达到最大次数4次。"
+    },
+    {
+      "Key": "MM_ArcaneSmiteAdd_Name",
+      "zhCN": "奥法辟邪（额外使用次数） "
+    },
+    {
+      "Key": "MM_EmpyrealMagic_Name",
+      "zhCN": "天界魔法"
+    },
+    {
+      "Key": "MM_EmpyrealMagic_Desc",
+      "zhCN": "所有具有善良描述标识的的牧师法术列表中的法术都被视为比起原本等级高1级的金袍法师法术。金袍法师可以在升级时学习这些法术，并将它们写入自己的法术书中，如同它们是法师法术一样。他无法学习带有邪恶描述标识的法术。"
+    },
+    {
+      "Key": "MM_CelestialSummons_Name",
+      "zhCN": "天界召唤"
+    },
+    {
+      "Key": "MM_CelestialSummons_Desc",
+      "zhCN": "5级起，当金袍法师使用召唤怪物法术法术召唤非邪恶生物时，他可以用一个标准动作释放该法术。"
+    },
+    {
+      "Key": "MM_ImprovedBanishment_Name",
+      "zhCN": "改良放逐"
+    },
+    {
+      "Key": "MM_ImprovedBanishment_Desc",
+      "zhCN": "10级起，当金袍法师使用驱逐术或者放逐术A并对带有邪恶子类别的异界生物释放时，其豁免DC加2。这个效果和法术专攻及类似专长叠加。"
+    },
+    {
+      "Key": "MM_AbundantArcaneSmite_Name",
+      "zhCN": "无穷奥法辟邪"
+    },
+    {
+      "Key": "MM_AbundantArcaneSmite_Desc",
+      "zhCN": "你学会了增加奥法辟邪能力施展次数的方法。\n效果：你每日的奥法辟邪施展次数增加你的神话阶层的一半。"
     }
   ]
