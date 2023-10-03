@@ -1471,13 +1471,12 @@
 -------------------------------------------
 ### [TabletopTweaks-Reworks](https://github.com/Vek17/TabletopTweaks-Reworks)
 > *前置：* TabletopTweaks-Core<br>
-> *中文：* **自带中文**<br>
+> *中文：* **自带中文（需要QL修正）**<br>
 > *安装方式：* UMM<br>
 > *修改内容：* 神话能力、神话专长，道途等<br>
 > *新增内容：* 神话道途能力<br>
 + **TTT**的扩展附件，主要集中在**神话道途**的修改
 + 对神话能力、神话专长、道途均有修改，也导致很多人不习惯
-> **目前发现问题：灵使惊世神力改为了其他加值，但是文本描述依然是士气加值**
 <table>
 <tr><th colspan="5">修改列表</th></tr> 
 <tr><td>分类</td><td>Config中选项</td><td>默认</td><td>房规</td><td>效果</td></tr>  
@@ -1503,7 +1502,7 @@
         </td><td>:heavy_check_mark:
         </td><td>:heavy_check_mark:
         </td><td>高等持久法术：对10分钟以上法术才能生效</td></tr>            
-    <tr><td  rowspan="2">神话专长<br>MythicFeats</td>
+    <tr><td  rowspan="3">神话专长<br>MythicFeats</td>
       <td>MythicSneakAttack
         </td><td>:heavy_check_mark:
         </td><td>:heavy_check_mark:
@@ -1512,6 +1511,10 @@
         </td><td>:heavy_check_mark:
         </td><td>:heavy_check_mark:
         </td><td>学派掌控：改为 CL + 2</td></tr>  
+      <td>MythicImprovedCritical
+        </td><td>:heavy_check_mark:
+        </td><td>:heavy_check_mark:
+        </td><td>神话精通重击：改为重击附加额外伤害</td></tr>  
     <tr><td rowspan="10">御衡道途<br>MythicReworks - Aeon</td>
       <td>AeonBaneIcon
           </td><td>:heavy_check_mark:
