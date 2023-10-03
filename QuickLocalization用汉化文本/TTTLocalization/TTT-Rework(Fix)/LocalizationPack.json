@@ -5,11 +5,11 @@
       "Key": "ba6caea33b7a4beca16198d874537bf0",
       "SimpleName": "AbundantCasting.Description",
       "ProcessTemplates": true,
-      "enGB": "You've learned a way to increase the number of spells you can cast per day.\nBenefit: You can cast two more spells per day of 1st, 2nd, and 3rd ranks each. This ability does not affect mythic spellbooks.",
-      "ruRU": "Вы научились увеличивать количество заклинаний, которое вы можете подготовить на день.\nПреимущество: вы можете сотворить по 2 дополнительных заклинания 1-го, 2-го и 3-го уровней. Эта способность не влияет на мифические книги заклинаний.",
+      "enGB": "You've learned a way to increase the number of spells you can cast per day.\nBenefit: You can cast four more spells per day of 1st, 2nd, and 3rd ranks each. This ability does not affect mythic spellbooks.",
+      "ruRU": null,
       "deDE": null,
       "frFR": null,
-      "zhCN": "你已经学会了一种增加每天施法次数的方法。\n你每天可以多施放2个1、2、3级法术。这个能力不会影响神话法术书。",
+      "zhCN": "你已经学会了一种增加每天施法次数的方法。\n你每天可以多施放4个1、2、3级法术。这个能力不会影响神话法术书。",
       "esES": null
     },
     {
@@ -20,18 +20,18 @@
       "ruRU": "Вы научились увеличивать количество заклинаний, которое вы можете подготовить на день.\nПреимущество: вы можете сотворить по 4 дополнительных заклинания 7-го, 8-го и 9-го уровней. Эта способность не влияет на мифические книги заклинаний.",
       "deDE": null,
       "frFR": null,
-      "zhCN": "你已经掌握了一种增加每天施法次数的方法。\n你每天可以多施放4个等级分别为7、8、9的法术。这个能力不会影响神话法术书。",
+      "zhCN": "你已经掌握了一种增加每天施法次数的方法。\n你每天可以多施放2个等级分别为7、8、9的法术。这个能力不会影响神话法术书。",
       "esES": null
     },
     {
       "Key": "290ae44253fb47ceb850482d22e13eb4",
       "SimpleName": "AbundantCastingImproved.Description",
       "ProcessTemplates": true,
-      "enGB": "You have studied a way to increase the number of spells you can cast per day.\nBenefit: You can cast two more spells per day of 4th, 5th, and 6th levels each. This ability does not affect mythic spellbooks.",
-      "ruRU": "Вы научились увеличивать количество заклинаний, которое вы можете подготовить на день.\nПреимущество: вы можете сотворить по 2 дополнительных заклинания 4-го, 5-го и 6-го уровней. Эта способность не влияет на мифические книги заклинаний.",
+      "enGB": "You have studied a way to increase the number of spells you can cast per day.\nBenefit: You can cast three more spells per day of 4th, 5th, and 6th levels each. This ability does not affect mythic spellbooks.",
+      "ruRU": null,
       "deDE": null,
       "frFR": null,
-      "zhCN": "你已经研究了一种增加你每天可以施放的法术数量的方法。\n你每天可以多施放2个等级分别是4、5、6级的法术。这个能力不会影响神话法术书。",
+      "zhCN": "你已经研究了一种增加你每天可以施放的法术数量的方法。\n你每天可以多施放3个等级分别是4、5、6级的法术。这个能力不会影响神话法术书。",
       "esES": null
     },
     {
