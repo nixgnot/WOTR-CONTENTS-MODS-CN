@@ -2946,12 +2946,15 @@ C:\Users\你的用户名\AppData\LocalLow\Owlcat Games\Pathfinder Wrath Of The R
 	<td>邪术师<br>Warlock</td>
 	<td>来自第三方内容，含变体。需要QL汉化</td>
 	<td>:x:</td></tr>
-<tr><td rowspan="4">变体<br>Archetype</td>
+<tr><td rowspan="5">变体<br>Archetype</td>
 	<td>苦修者<br>Flagellant</td>
 		<td>牧师变体，对自己造成伤害来获得CL或DC加成，适合施法者构建</td>
 		<td>:heavy_check_mark:</td></tr>
 	<tr><td>密契法师<br>Pact Wizard</td>
 		<td>法师变体，失去奖励专长获得巫师庇护主和先知诅咒等能力</td>
+		<td>:x:</td></tr>
+	<tr><td>金袍法师<br>Gold-Robed Wizard</td>
+		<td>法师变体，拥有类似圣武士的法术辟邪能力</td>
 		<td>:x:</td></tr>
 	<tr><td>拉兹密安牧师<br>Razmiran Priest</td>
 		<td>非进阶职业，术士变体，失去部分血承能力换取消耗法术位来无限使用特定的魔杖和卷轴的能力</td>
@@ -2982,6 +2985,20 @@ C:\Users\你的用户名\AppData\LocalLow\Owlcat Games\Pathfinder Wrath Of The R
 	<tr><td>恶意<br>Malice</td>
 		<td>巫战士专用，近战攻击对任何正在受其巫术影响的敌人额外造成2d6点污邪伤害</td>
 		<td>:heavy_check_mark:</td></tr>
+<tr><td rowspan="1">奥术发现（TTT）</td>
+	<td>信念魔法<br>Faith Magic</td>
+		<td>获得信仰神祇的领域法术</td>
+		<td>:x:</td></tr>
+<tr><td rowspan="3">科研发现<br>Discovery</td>
+	<td>生命灵药<br>Elixir of Life</td>
+		<td>复活</td>
+		<td>:x:</td></tr>
+	<tr><td>永恒药水<br>Eternal Potion</td>
+		<td>药剂持续时间变为永久，同时只能存在一个</td>
+		<td>:x:</td></tr>
+	<tr><td>法术知识<br>Spell Knowledge</td>
+		<td>获取法师/术士列表上的法术</td>
+		<td>:x:</td></tr>
 <tr><td rowspan="2">神话能力<br>Mythic Ability</td>
 	<td>充裕双法合璧<br>Abundant Spell Synthesis</td>
 		<td>每有三个神话阶层，你可以额外使用一次双法合璧能力</td>
