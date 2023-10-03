@@ -2929,7 +2929,7 @@ C:\Users\你的用户名\AppData\LocalLow\Owlcat Games\Pathfinder Wrath Of The R
 + 早期版本，主要添加通灵者（Medium）职业，还做了一些制作中的专长，不保证有效，建议等待完善
         
 ------------------------------------------- 
-### [MysticalMayhem](https://github.com/kreaddy/MysticalMayhem)
+### [MysticalMayhem](https://gitgud.io/Kreaddy/mysticalmayhem)
 > *前置：* 无<br>
 > *中文：* **自带（需要QL汉化补全内容）**<br>
 > *安装方式：* **UMM**<br>
