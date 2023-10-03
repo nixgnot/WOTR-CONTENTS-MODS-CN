@@ -781,6 +781,17 @@
       "frFR": null,
       "zhCN": "灵动魔法",
       "esES": null
-    }
+    },
+    {
+      "Key": "01cdd2dee77a4282b2dd4ac79d773f46",
+      "SimpleName": "ImprovedCriticalMythicFeat.Description",
+      "ProcessTemplates": true,
+      "enGB": "Your critical strikes with your chosen weapon are deadlier than most.\nBenefit: When you score a critical hit with your chosen weapon you deal an additional 3d10 damage. This is increased by 3d10 for every critical multiplier above ×2.\nFor example a ×2 critical weapon would deal an additional 3d10 damage, a ×4 critical weapon would deal an additional 9d10 damage.",
+      "ruRU": null,
+      "deDE": null,
+      "frFR": null,
+      "zhCN": "你用选定武器造成的{g|Encyclopedia:Critical}重击{/g}无比致命。\n效果：你用选定武器造成的重击造成额外3d10伤害。对于超过×2的重击倍率，每一倍增加该额外伤害3d10\n例如，对于×2重击的武器，造成额外3d10伤害，对于×4重击的武器，造成额外9d10伤害。",
+      "esES": null
+    },
   ]
 }
