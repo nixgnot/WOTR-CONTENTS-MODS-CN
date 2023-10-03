@@ -1354,13 +1354,14 @@
       <b>推陈出新</b>：通用巅峰。职业具有至少4个奖励战斗专长可以选择。再获得4个奖励战斗专长。<br>
       其他职业还各自有不同的巅峰选择，例如法师可以获得额外法术位，在此不再一一列出。
       </td></tr>  
-  <tr><td rowspan="6">职业特性</td>
+  <tr><td rowspan="7">职业特性</td>
       <td>血承：Aberrant 异怪血承、Destined 命运血承</td></tr>
   <tr><td>奥能技艺：Familiar 魔宠、Item Crafting 造物精通、Metamagic Knowledge 超魔学识、Quick Study 快速研读 </td></tr>
   <tr><td>战士进阶防具训练：Armored Confidence 自信着甲、Armored Juggernaut 盔甲主宰、Armor Specialization 重甲掌握、Critical Deflection 重击偏转、Steel Headbutt 钢铁头槌</td></tr>
   <tr><td>战士进阶武器训练：Defensive Weapon Training 防御式武器训练、 Focused Weapon 专注武器、Trained Grace 庖丁解牛、Trained Throw 精通投掷、Warrior Spirit 勇士之魂"</td> </tr>
   <tr><td>魔战士奥秘：Broad Study 奥术扩展、Spell Blending 混合奥法 </td></tr>
   <tr><td>游荡者天赋： Graceful Athlete 灵巧运动、Bleeding Attack 流血攻击、Emboldening Strike 鼓舞攻击</td></tr>    
+  <tr><td>狂暴之力： Greater Animal Fury 高等兽类冲动</td></tr>    
   <tr><td rowspan="6">法术</td>
       <td>Cloak of Winds 风之斗篷：敌方远程攻击受到惩罚</td></tr>
   <tr><td>Long Arm 长臂咒：增加触及</td></tr>
@@ -1368,7 +1369,7 @@
   <tr><td>Shadow Enchantment 阴影惑控：幻术系模拟惑控</td></tr>
   <tr><td>Shadow Enchantment Greater 高等阴影惑控：楼上的高级版</td></tr>
   <tr><td>Stunning Barrier Greater 重型重创壁垒：防御法术</td></tr>
-  <tr><td rowspan="59">专长和职业特性</td>
+  <tr><td rowspan="60">专长和职业特性</td>
       <td>Metamagic (Burning Spell) 超魔（燃烧法术）：火酸法术附加持续伤害</td></tr>
   <tr><td>Metamagic (Encouraging Spell) 超魔（激励法术）：增加士气加值</td></tr>
   <tr><td>Metamagic (Flaring Spell) 超魔（闪耀法术）：火光电法术使敌人眩晕</td></tr>
@@ -1428,6 +1429,7 @@
   <tr><td>Toppling Bash 倾覆盾击：盾击附带绊摔</td></tr>
   <tr><td>Tower Shield Specialist 塔盾专家：减少塔盾处罚</td></tr>  
   <tr><td>Arcane Discoveries 奥术发现（法师）：Alchemical Affinity 炼金亲和、Idealize 理想化、Knowledge Is Power 知识就是力量、Opposition Research 禁制研究、Yuelral's Blessing 约尔拉的赐福</td></tr>   
+  <tr><td>Magic Trick (Fireball) 魔术技法（火球）</td></tr>  	
   <tr><td rowspan="1">新物品</td>
      <td>新增超魔对应的超魔权杖（商人购买）</td></tr>  
   <tr><td rowspan="10">神话专长</td>
@@ -1441,7 +1443,7 @@
   <tr><td>Two-Weapon Defense (Mythic) 双武器防御（神话）：双武器防御额外附加你的武器中增强加值较高者的增强加值作为盾牌AC</td></tr> 
   <tr><td>Warrior Priest (Mythic) 信仰战士（神话）：你在先攻和专注上获得神话等级一半的加值</td></tr> 
   <tr><td>Titan Strike 泰坦之力：徒手攻击的伤害骰提升一级。此外，你在你的所有战技检定和震慑拳的DC上附加你的对手的体型比中型大的级数作为加值</td></tr>   
-  <tr><td rowspan="17">神话能力</td>
+  <tr><td rowspan="23">神话能力</td>
       <td>Abundant Blessing 无穷祝福</td></tr>
   <tr><td>Abundant Bombs 无穷炸弹</td></tr>
   <tr><td>Abundant Lay On Hands 无穷圣疗</td></tr>
@@ -1459,6 +1461,12 @@
   <tr><td>Mythic Spell Combat 神话法术战斗：魔战士可以用任何道途法术书的法术施展法术战斗</td></tr>
   <tr><td>Precision Critical 精准重击：当你确认一次重击，将所有精准伤害的伤害骰乘二</td></tr>
   <tr><td>Second Patron 第二庇护主</td></tr>  
+  <tr><td>Maximized Critical 极效重击：每当你进行一次重击时，武器的伤害结果永远是你可以掷出的最大值</td></tr>
+  <tr><td>Adamantine Mind 精金意志</td></tr>
+  <tr><td>Eldritch Breach 冲击魔障：当你尝试进行施法者等级检定来解除效果或克服法术抗力时，掷两次并取较高的结果。</td></tr>
+  <tr><td>Elemental Bond 元素联结：对某个元素的法术增加施法者等级并获得对应抗性</td></tr>
+  <tr><td>Energy Conversion 能量转换：转换法术元素类型</td></tr>
+  <tr><td>Mythic Bond 神话羁绊：加强游侠羁绊效果</td></tr>
   <tr><td rowspan="1">背景</td>
          <td>Lecturer 讲师： 将知识（世界）和沟通加入本职技能列表，并可以用智力取代魅力进行沟通检定</td></tr>         
   <tr><td rowspan="4">额外种族替换特性</td>
