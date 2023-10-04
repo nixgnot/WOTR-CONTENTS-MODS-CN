@@ -1,0 +1,352 @@
+﻿[
+
+		{
+            "Key": "HomebrewArchtypes_MythicAbilityAbundantCasting", // "15edb451-dc5b-4def-807c-a451743eb3a6" for example
+            "zhCN": "连锁施法"
+        },
+		{
+            "Key": "HomebrewArchtypes_MythicAbilityAbundantCastingDesc", // "15edb451-dc5b-4def-807c-a451743eb3a6" for example
+            "zhCN": "神话角色可以使用此能力唤回任意环的法术，每日3次。你每再拥有一个神话等级，唤回次数额外加1，直到最多的12次。"
+        },
+		{
+            "Key": "HomebrewArchtypes_MythicAbilityAbundantCastingSpontaneous", // "15edb451-dc5b-4def-807c-a451743eb3a6" for example
+            "zhCN": "连锁施法：自发"
+        },
+		{
+            "Key": "HomebrewArchtypes_MythicAbilityAbundantCastingPrepared", // "15edb451-dc5b-4def-807c-a451743eb3a6" for example
+            "zhCN": "连锁施法：记忆"
+        },
+		{
+            "Key": "AC_NumerianGreatswordItemDesc", // "15edb451-dc5b-4def-807c-a451743eb3a6" for example
+            "zhCN": "这把+3巨剑融合了纽玫瑞亚科技。每日限一次，持用者可以启动五项增强中的一项，持续等于持用者等级一半的{g|Encyclopedia:Combat_Round}轮数{/g}。\n\n纤维肌肉：纤维肌肉的主改造对象的{g|Encyclopedia:Dexterity}敏捷{/g}和{g|Encyclopedia:Strength}力量属性{/g}获得+4炼金{g|Encyclopedia:Bonus}加值{/g}，{g|Encyclopedia:Mobility}灵巧{/g}{g|Encyclopedia:Skills}技能检定{/g}获得+4炼金加值。\n\n增强心脏：增强心脏的主改造对象在{g|Encyclopedia:Constitution}体质属性{/g}上获得+6炼金加值，并获得护命25。\n\n力场盾牌：这面盾牌由这座地城中的一些发生器供能。它为持用者的{g|Encyclopedia:Armor_Class}AC{/g}提供+4盾牌加值。魔法飞弹及类似效果能够穿透它。\n\n不锈皮肤：不锈皮肤的主改造对象的AC获得+4天生防御加值，对抗{g|Encyclopedia:TouchAttack}接触攻击{/g}的AC获得+4加值。\n\n升级版神经系统：升级版神经系统的主改造对象的{g|Encyclopedia:Intelligence}智力属性{/g}获得+4炼金加值，所施展{g|Encyclopedia:Spell}法术{/g}和能力的{g|Encyclopedia:Saving_Throw}豁免检定{/g}{g|Encyclopedia:DC}DC{/g}提高2点。"
+        },
+		{
+            "Key": "AC_NumerianGreatswordFiberMuscleDesc", // "15edb451-dc5b-4def-807c-a451743eb3a6" for example
+            "zhCN": "纤维肌肉的主改造对象的{g|Encyclopedia:Dexterity}敏捷{/g}和{g|Encyclopedia:Strength}力量属性{/g}获得+4炼金{g|Encyclopedia:Bonus}加值{/g}，{g|Encyclopedia:Mobility}灵巧{/g}{g|Encyclopedia:Skills}技能检定{/g}获得+4炼金加值。"
+        },
+		{
+            "Key": "AC_NumerianGreatswordAugmentedHeartDesc", // "15edb451-dc5b-4def-807c-a451743eb3a6" for example
+            "zhCN": "增强心脏的主改造对象在{g|Encyclopedia:Constitution}体质属性{/g}上获得+6炼金加值，并获得护命25。"
+        },
+		{
+            "Key": "AC_NumerianGreatswordUpgradedNeuralSystemDesc", // "15edb451-dc5b-4def-807c-a451743eb3a6" for example
+            "zhCN": "升级版神经系统的主改造对象的{g|Encyclopedia:Intelligence}智力属性{/g}获得+4炼金加值，所施展{g|Encyclopedia:Spell}法术{/g}和能力的{g|Encyclopedia:Saving_Throw}豁免检定{/g}{g|Encyclopedia:DC}DC{/g}提高2点。"
+        },
+		{
+            "Key": "AC_NumerianGreatswordForceShield", // "15edb451-dc5b-4def-807c-a451743eb3a6" for example
+            "zhCN": "力场盾牌"
+        },
+		{
+            "Key": "AC_NumerianGreatswordForceShieldDesc", // "15edb451-dc5b-4def-807c-a451743eb3a6" for example
+            "zhCN": "这面盾牌由这座地城中的一些发生器供能。它为持用者的{g|Encyclopedia:Armor_Class}AC{/g}提供+4盾牌加值。魔法飞弹及类似效果能够穿透它。"
+        },
+		{
+            "Key": "AC_DiscoveryEmpoweredBombs", // "15edb451-dc5b-4def-807c-a451743eb3a6" for example
+            "zhCN": "增强炸弹"
+        },
+		{
+            "Key": "AC_DiscoveryEmpoweredBombsDesc", // "15edb451-dc5b-4def-807c-a451743eb3a6" for example
+            "zhCN": "拥有这一科研发现的炼金术士制造的炼金炸弹的伤害骰提升50%。"
+        },
+		{
+            "Key": "AC_DiscoveryMaximizedBombs", // "15edb451-dc5b-4def-807c-a451743eb3a6" for example
+            "zhCN": "终极炸弹"
+        },
+		{
+            "Key": "AC_DiscoveryMaximizedBombsDesc", // "15edb451-dc5b-4def-807c-a451743eb3a6" for example
+            "zhCN": "拥有这一科研发现的炼金术士制造的炼金炸弹总是造成最大的伤害。"
+        },
+		{
+            "Key": "AC_FangofMaliceEnemyBuff", // "15edb451-dc5b-4def-807c-a451743eb3a6" for example
+            "zhCN": "撕裂"
+        },
+		{
+            "Key": "AC_FangofMaliceItemDesc", // "15edb451-dc5b-4def-807c-a451743eb3a6" for example
+            "zhCN": "当这把+3渐狂大剑的持用者处于狂暴效果中时，其{g|Encyclopedia:Armor_Class}防御等级（AC）{/g}无需承受通常的-2{g|Encyclopedia:Penalty}减值{/g}并且体型增大，如同处在“伟岸雄姿”法术的影响下。此外，持用者在愤怒中撕裂对手的防御，使目标的{g|Encyclopedia:Armor_Class}防御等级{/g}永久承受-1的减值，可叠加5次。"
+        },
+		{
+            "Key": "AC_WoljifArchetype", // "15edb451-dc5b-4def-807c-a451743eb3a6" for example
+            "zhCN": "贼裔"
+        },
+		{
+            "Key": "AC_WoljifArchetypeDesc", // "15edb451-dc5b-4def-807c-a451743eb3a6" for example
+            "zhCN": "蒙蒂维的贼裔是一群被遗弃的人，他们联合起来保护自己。贼裔已经学会利用他们的深渊遗产，以在被世界之伤影响下的严酷现实中生存。【译者：AAATHL】"
+        },
+		{
+            "Key": "AC_WoljifArchetypeProficiency", // "15edb451-dc5b-4def-807c-a451743eb3a6" for example
+            "zhCN": "贼裔擅长"
+        },
+		{
+            "Key": "AC_WoljifArchetypeProficiencyDesc", // "15edb451-dc5b-4def-807c-a451743eb3a6" for example
+            "zhCN": "贼裔擅长使用所有简单武器，还有剑、短剑和短弓。贼裔不擅长使用任何盾牌，但擅长使用轻甲，并且可以在穿戴轻甲时施放法术。"
+        },
+		{
+            "Key": "AC_WoljifArchetypeTalentSelection", // "15edb451-dc5b-4def-807c-a451743eb3a6" for example
+            "zhCN": "贼裔奥秘"
+        },
+		{
+            "Key": "AC_WoljifArchetypeTalentSelectionDesc", // "15edb451-dc5b-4def-807c-a451743eb3a6" for example
+            "zhCN": "贼裔可以选择有限的魔战士奥秘来代替游荡者天赋。或者，他们可以像普通游荡者一样选择一个游荡者天赋。"
+        },
+		{
+            "Key": "AC_WoljifArchetypeArcanePool", // "15edb451-dc5b-4def-807c-a451743eb3a6" for example
+            "zhCN": "奥法池"
+        },
+		{
+            "Key": "AC_WoljifArchetypeArcanePoolDesc", // "15edb451-dc5b-4def-807c-a451743eb3a6" for example
+            "zhCN": "2级时，贼裔获得一个类似魔战士的奥法池，用于贼裔的奥秘. 贼裔奥法池的奥法点数等于 1/2贼裔等级+{g|Encyclopedia:Intelligence}智力{/g}调整值。 每当贼裔准备{g|Encyclopedia:Spell}法术{/g}时，奥法池会刷新，每天一次。"
+        },
+		{
+            "Key": "AC_WoljifArchetypeArcaneAccuracyDesc", // "15edb451-dc5b-4def-807c-a451743eb3a6" for example
+            "zhCN": "贼裔能够以迅捷动作从奥法池中付出1点奥法点数，使所有攻击检定获得等同于智力加值的洞察加值，效果持续至本回合结束。"
+        },
+		{
+            "Key": "AC_WoljifArchetypeDimensionStrike", // "15edb451-dc5b-4def-807c-a451743eb3a6" for example
+            "zhCN": "空间斩"
+        },
+		{
+            "Key": "AC_WoljifArchetypeDimensionStrikeDesc", // "15edb451-dc5b-4def-807c-a451743eb3a6" for example
+            "zhCN": "贼裔能够以迅捷动作从奧法池中付出2点奧法点数，将所有近战武器攻击变为近战接触攻击，持续到本回合结束。"
+        },
+		{
+            "Key": "AC_WoljifArchetypeHastedAssault", // "15edb451-dc5b-4def-807c-a451743eb3a6" for example
+            "zhCN": "极速突击"
+        },
+		{
+            "Key": "AC_WoljifArchetypeHastedAssaultDesc", // "15edb451-dc5b-4def-807c-a451743eb3a6" for example
+            "zhCN": "贼裔能够以迅捷动作从奧法池中付出1点奥法点数，从而提高行动速度。此效果类似加速术，但只对贼裔生效，持续轮数等于贼裔的智力加值。"
+        },
+		{
+            "Key": "AC_WoljifArchetypePrescientAttack", // "15edb451-dc5b-4def-807c-a451743eb3a6" for example
+            "zhCN": "远见打击"
+        },
+		{
+            "Key": "AC_WoljifArchetypePrescientAttackDesc", // "15edb451-dc5b-4def-807c-a451743eb3a6" for example
+            "zhCN": "贼裔能够以迅捷动作从奧法池中付出1点奧法点数，使自身能够预见敌人的防御。敌人在受到贼裔攻击时，防御等级失去敏捷加值，效果持续至贼裔的下一回合结束。"
+        },
+		{
+            "Key": "AC_WoljifArchetypeWandMastery", // "15edb451-dc5b-4def-807c-a451743eb3a6" for example
+            "zhCN": "魔杖大师"
+        },
+		{
+            "Key": "AC_WoljifArchetypeWandMasteryDesc", // "15edb451-dc5b-4def-807c-a451743eb3a6" for example
+            "zhCN": "当贼裔使用魔杖时，使用智力调整值计算法术DC，而非施放该等级法术所需的最小调整值。"
+        },
+		{
+            "Key": "AC_WoljifArchetypeEmpoweredArcana", // "15edb451-dc5b-4def-807c-a451743eb3a6" for example
+            "zhCN": "强效魔法"
+        },
+		{
+            "Key": "AC_WoljifArchetypeEmpoweredArcanaDesc", // "15edb451-dc5b-4def-807c-a451743eb3a6" for example
+            "zhCN": "每天三次，贼裔可以如同运用专长“法术强效”般施放法术。"
+        },
+		{
+            "Key": "AC_WoljifArchetypeExtendArcana", // "15edb451-dc5b-4def-807c-a451743eb3a6" for example
+            "zhCN": "延时魔法"
+        },
+		{
+            "Key": "AC_WoljifArchetypeExtendArcanaDesc", // "15edb451-dc5b-4def-807c-a451743eb3a6" for example
+            "zhCN": "每天三次，贼裔可以如同运用专长“法术延时”般施放法术。"
+        },
+		{
+            "Key": "AC_WoljifArchetypeMaximizeArcana", // "15edb451-dc5b-4def-807c-a451743eb3a6" for example
+            "zhCN": "极效魔法"
+        },
+		{
+            "Key": "AC_WoljifArchetypeMaximizeArcanaDesc", // "15edb451-dc5b-4def-807c-a451743eb3a6" for example
+            "zhCN": "每天三次，贼裔可以如同运用专长“法术极效”般施放法术。"
+        },
+		{
+            "Key": "AC_WoljifArchetypeQuickenArcana", // "15edb451-dc5b-4def-807c-a451743eb3a6" for example
+            "zhCN": "瞬发魔法"
+        },
+		{
+            "Key": "AC_WoljifArchetypeQuickenArcanaDesc", // "15edb451-dc5b-4def-807c-a451743eb3a6" for example
+            "zhCN": "每天三次，贼裔可以如同运用专长“法术瞬发”般施放法术。"
+        },
+		{
+            "Key": "AC_WoljifArchetypeReachArcana", // "15edb451-dc5b-4def-807c-a451743eb3a6" for example
+            "zhCN": "及远魔法"
+        },
+		{
+            "Key": "AC_WoljifArchetypeReachArcanaDesc", // "15edb451-dc5b-4def-807c-a451743eb3a6" for example
+            "zhCN": "每天三次，贼裔可以如同运用专长“法术及远”般施放法术。"
+        },
+		{
+            "Key": "AC_WoljifArchetypeCapstone", // "15edb451-dc5b-4def-807c-a451743eb3a6" for example
+            "zhCN": "恶魔起源"
+        },
+		{
+            "Key": "AC_WoljifArchetypeCapstoneDesc", // "15edb451-dc5b-4def-807c-a451743eb3a6" for example
+            "zhCN": "贼裔接受恶魔一面，获得异界生物类别，免疫电击和毒素，获得10点寒冷抗性、酸蚀抗性和火焰抗性，敏捷和智力属性获得+2亵渎加值，并且获得等于11+贼裔等级的法术抗力。"
+        },
+		{
+            "Key": "AC_WoljifArchetypeExtraArcana", // "15edb451-dc5b-4def-807c-a451743eb3a6" for example
+            "zhCN": "额外贼裔奥秘"
+        },
+		{
+            "Key": "AC_WoljifArchetypeExtraArcanaDesc", // "15edb451-dc5b-4def-807c-a451743eb3a6" for example
+            "zhCN": "你获得一项额外贼裔奥秘，你需要满足先决条件。此专长可选择多次"
+        },
+		{
+            "Key": "AC_WoljifArchetypeExtraArcanePool", // "15edb451-dc5b-4def-807c-a451743eb3a6" for example
+            "zhCN": "额外奥法池（贼裔）"
+        },
+		{
+            "Key": "AC_WoljifArchetypeExtraArcanePoolDesc", // "15edb451-dc5b-4def-807c-a451743eb3a6" for example
+            "zhCN": "你的奥法池增加2点。
+你可以多次获得此专长。其效果可叠加，每次获得此专长时，你的奧法池点数都会增加。"
+        },
+		{
+            "Key": "AC_GreyborArchetype", // "15edb451-dc5b-4def-807c-a451743eb3a6" for example
+            "zhCN": "契约杀手"
+        },
+		{
+            "Key": "AC_GreyborArchetypeDesc", // "15edb451-dc5b-4def-807c-a451743eb3a6" for example
+            "zhCN": "有些人是为了荣誉而工作，有些人是为了做好事，还有一些人是为了特殊的事业。 另一方面，契约杀手只为黄金工作。 受雇实施暗杀或打击的契约杀手为雇主提供了各种技能，这些技能可能需要额外付费，也可能不需要额外付费。【译者：AAATHL】"
+        },
+		{
+            "Key": "AC_GreyborArchetypeArmorBuffMain", // "15edb451-dc5b-4def-807c-a451743eb3a6" for example
+            "zhCN": "阴影笼罩"
+        },
+		{
+            "Key": "AC_GreyborArchetypeArmorBuffMainDesc", // "15edb451-dc5b-4def-807c-a451743eb3a6" for example
+            "zhCN": "契约杀手每天可以将自己笼罩在阴影迷雾中，次数等于其体质调整值。这种迷雾使他们能够获得相当于其体质调整值的AC加值【闪避】和快速治疗，持续每等级 1 轮。"
+        },
+		{
+            "Key": "AC_GreyborArchetypeFadeBuff", // "15edb451-dc5b-4def-807c-a451743eb3a6" for example
+            "zhCN": "渐隐"
+        },
+		{
+            "Key": "AC_GreyborArchetypeFadeDesc", // "15edb451-dc5b-4def-807c-a451743eb3a6" for example
+            "zhCN": "契约杀手可以变得灵体化，让自己有 50% 的几率无效攻击或法术。该能力持续的轮数等于其职业等级的 1/2，每天能使用 3 次。"
+        },
+		{
+            "Key": "AC_GreyborArchetypeWeaponFocus", // "15edb451-dc5b-4def-807c-a451743eb3a6" for example
+            "zhCN": "武器大师"
+        },
+		{
+            "Key": "AC_GreyborArchetypeWeaponFocusDesc", // "15edb451-dc5b-4def-807c-a451743eb3a6" for example
+            "zhCN": "在 6 级时，契约杀手获得武器专精作为奖励专长。在 10 级时，他获得了高等武器专攻作为奖励专长。 在 12 级时，他获得了高等武器专精作为奖励专长。通过此能力获得专长时，契约杀手不需要满足这些专长的先决条件。"
+        },
+		{
+            "Key": "AC_GreyborArchetypePreparations", // "15edb451-dc5b-4def-807c-a451743eb3a6" for example
+            "zhCN": "Preparations（准备工作）"
+        },
+		{
+            "Key": "AC_GreyborArchetypePreparationsDesc", // "15edb451-dc5b-4def-807c-a451743eb3a6" for example
+            "zhCN": "【暂定】契约杀手除了能够选择普通的杀手天赋之外，还可以获得特殊的准备，如果他们的费用得到满足，他们就可以使用这些准备。 此选择在第 2、6、10、14、18 级获得。"
+        },
+		{
+            "Key": "AC_GreyborArchetypePreparationsResource", // "15edb451-dc5b-4def-807c-a451743eb3a6" for example
+            "zhCN": "Preparation Cache（准备之匣）"
+        },
+		{
+            "Key": "AC_GreyborArchetypePreparationsResourceDesc", // "15edb451-dc5b-4def-807c-a451743eb3a6" for example
+            "zhCN": "【暂定】契约杀手每天可以准备一些方法来帮助他消灭目标，次数等于他的职业等级。"
+        },
+		{
+            "Key": "AC_GreyborArchetypePreparationsAssassinateFeature", // "15edb451-dc5b-4def-807c-a451743eb3a6" for example
+            "zhCN": "分心杀戮"
+        },
+		{
+            "Key": "AC_GreyborArchetypePreparationsAssassinateFeatureDesc", // "15edb451-dc5b-4def-807c-a451743eb3a6" for example
+            "zhCN": "契约杀手以整轮行动使目标分心 3d2 轮。 目标必须成功进行意志豁免 DC = 10 + 契约杀手的职业等级 + 他的魅力调整值，否则就会被迷魂。 迷魂时，受到的任何伤害都会立即导致目标意识到自己及其周围环境。 当目标被分心所迷魂时，契约杀手可以视目标为无助状态从而尝试致命一击。 此尝试不会引发借机攻击。"
+        },
+		{
+            "Key": "AC_GreyborArchetypePreparationsAssassinateFascinate", // "15edb451-dc5b-4def-807c-a451743eb3a6" for example
+            "zhCN": "分心"
+        },
+		{
+            "Key": "AC_GreyborArchetypePreparationsAssassinateFascinateDesc", // "15edb451-dc5b-4def-807c-a451743eb3a6" for example
+            "zhCN": "契约杀手以整轮行动使目标分心 3d2 轮。 目标必须成功进行意志豁免 DC = 10 + 契约杀手的职业等级 + 他的魅力调整值，否则就会被迷魂。 迷魂时，受到的任何伤害都会立即导致目标意识到自己及其周围环境。"
+        },
+		{
+            "Key": "AC_GreyborArchetypePreparationsAssassinateAbility", // "15edb451-dc5b-4def-807c-a451743eb3a6" for example
+            "zhCN": "暗杀"
+        },
+		{
+            "Key": "AC_GreyborArchetypePreparationsAssassinateAbilityDesc", // "15edb451-dc5b-4def-807c-a451743eb3a6" for example
+            "zhCN": "当目标被分心所迷魂时，契约杀手可以视目标为无助状态从而尝试致命一击。 此尝试不会引发借机攻击。"
+        },
+		{
+            "Key": "AC_GreyborArchetypeGolemShift", // "15edb451-dc5b-4def-807c-a451743eb3a6" for example
+            "zhCN": "魔像之形"
+        },
+		{
+            "Key": "AC_GreyborArchetypeGolemShiftDesc", // "15edb451-dc5b-4def-807c-a451743eb3a6" for example
+            "zhCN": "在14级，契约杀手可以通过将自己变成铁魔像来临时增强防御力，持续每等级1分钟，每天可以使用一次。"
+        },
+		{
+            "Key": "AC_GreyborArchetypeGolemSummon", // "15edb451-dc5b-4def-807c-a451743eb3a6" for example
+            "zhCN": "袖珍魔像"
+        },
+		{
+            "Key": "AC_GreyborArchetypeGolemSummonDesc", // "15edb451-dc5b-4def-807c-a451743eb3a6" for example
+            "zhCN": "契约杀手总是准备好后备计划。 契约杀手每天3次可以召唤精金魔像来帮助他战斗，持续每等级1轮。"
+        },
+		{
+            "Key": "AC_GreyborArchetypeSpellbook", // "15edb451-dc5b-4def-807c-a451743eb3a6" for example
+            "zhCN": "杀手"
+        },
+		{
+            "Key": "AC_GreyborArchetypeProficiencies", // "15edb451-dc5b-4def-807c-a451743eb3a6" for example
+            "zhCN": "契约杀手擅长"
+        },
+		{
+            "Key": "AC_GreyborArchetypeProficienciesDesc", // "15edb451-dc5b-4def-807c-a451743eb3a6" for example
+            "zhCN": "契约杀手精通所有简单武器和{g|Encyclopedia:Weapon_Proficiency}军用武器{/g}，以及轻型盔甲、中型盔甲和盾牌（塔盾除外）。 契约杀手可以在穿着轻甲或中甲时施展契约杀手{g|Encyclopedia:Spell}法术{/g}，而不会产生正常的{g|Encyclopedia:SpellFail_Chance}奥术失败几率{/g}。 与其他奥术施法者一样，穿着重甲或盾牌的契约杀手也有可能导致奥术失败。"
+        },
+		{
+            "Key": "AC_ArueshalaeArchetype", // "15edb451-dc5b-4def-807c-a451743eb3a6" for example
+            "zhCN": "间谍专家"
+        },
+		{
+            "Key": "AC_ArueshalaeArchetypeDesc", // "15edb451-dc5b-4def-807c-a451743eb3a6" for example
+            "zhCN": "间谍专家是无与伦比的欺骗实践者，他们依靠欺骗和诡计胜过武力和咒语。 间谍专家是擅长使用魔法和非魔法逃避侦查手段的专家，并且在即兴创作方面非常有天赋。【译者：AAATHL】"
+        },
+		{
+            "Key": "AC_ArueshalaeArchetypeArtofDeception", // "15edb451-dc5b-4def-807c-a451743eb3a6" for example
+            "zhCN": "欺骗的艺术"
+        },
+		{
+            "Key": "AC_ArueshalaeArchetypeArtofDeceptionDesc", // "15edb451-dc5b-4def-807c-a451743eb3a6" for example
+            "zhCN": "间谍专家会将 1/2 的职业等级添加到{g|Encyclopedia:Perception}察觉检定{/g}和{g|Encyclopedia:Persuasion}说服检定{/g}中。"
+        },
+		{
+            "Key": "AC_ArueshalaeArchetypeHiddenMind", // "15edb451-dc5b-4def-807c-a451743eb3a6" for example
+            "zhCN": "藏匿心灵"
+        },
+		{
+            "Key": "AC_ArueshalaeArchetypeHiddenMindDesc", // "15edb451-dc5b-4def-807c-a451743eb3a6" for example
+            "zhCN": "间谍专家可以通过一个标准动作获得心灵屏障法术的好处，每次使用持续时间为 1 分钟，使用时间不必连续。 间谍专家每升 4 级，每天可获得一次使用机会。"
+        },
+		{
+            "Key": "AC_ArueshalaeArchetypeHiddenMindCooldown", // "15edb451-dc5b-4def-807c-a451743eb3a6" for example
+            "zhCN": "精神疲劳"
+        },
+		{
+            "Key": "AC_ArueshalaeArchetypeDeathAttack", // "15edb451-dc5b-4def-807c-a451743eb3a6" for example
+            "zhCN": "夺命攻击"
+        },
+		{
+            "Key": "AC_ArueshalaeArchetypeDeathAttackDesc", // "15edb451-dc5b-4def-807c-a451743eb3a6" for example
+            "zhCN": "在第 8 级，间谍专家学习通过谨慎的攻击杀死或麻痹敌人的艺术。 该能力相当于刺客的夺命攻击能力。 如果间谍专家具有授予夺命攻击能力的另一个职业的等级，则这些等级与她的间谍专家等级叠加以确定她的夺命攻击的DC，即使她还没有达到8级间谍专家。"
+        },
+		{
+            "Key": "AC_ArueshalaeArchetypeCharmMonster", // "15edb451-dc5b-4def-807c-a451743eb3a6" for example
+            "zhCN": "魅力怪物"
+        },
+		{
+            "Key": "AC_ArueshalaeArchetypeCharmMonsterDesc", // "15edb451-dc5b-4def-807c-a451743eb3a6" for example
+            "zhCN": "这种魅力让其他生物将你视为其值得信赖的朋友和盟友（将目标的态度视为友好）。 晋升魅魔每天只能使用该能力 3 次，持续时间为每半个角色等级 1 轮，DC 为 10 + 魅力调整值 + 该职业等级。"
+        },
+		{
+            "Key": "AC_ArueshalaeArchetypeBootsofSpeed", // "15edb451-dc5b-4def-807c-a451743eb3a6" for example
+            "zhCN": "速度之靴"
+        },
+		{
+            "Key": "AC_ArueshalaeArchetypeBootsofSpeedDesc", // "15edb451-dc5b-4def-807c-a451743eb3a6" for example
+            "zhCN": "以一个自由动作，速度之靴的穿着者可以将她的脚跟敲在一起，让她表现得就像受到了加速术的影响一样，每天最多 10 轮。 加速术效果的持续时间不必是连续的。"
+        },
+]	
