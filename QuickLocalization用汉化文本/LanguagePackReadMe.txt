@@ -65,4 +65,4 @@ QL详细使用说明请参阅https://github.com/nixgnot/WOTR-CONTENTS-MODS-CN/bl
 ---------------------------------------------------------
 2023/9/20 更新ExpandedContent汉化（待测试）。修复ExpandedContent和HomebrewArchetypes的汉化。PrestigePlus补充汉化已经合并到其自带中文，删除。
 ---------------------------------------------------------
-2023/10/3 更新MysticalMayhem补充汉化。更新TTT-Rework汉化修正。更新TTT-Base汉化修正。
+2023/10/3 更新MysticalMayhem补充汉化。更新TTT-Rework汉化修正。更新TTT-Base汉化修正。更新AddedFeats汉化。
