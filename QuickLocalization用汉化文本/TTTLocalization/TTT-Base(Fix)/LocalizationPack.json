@@ -3078,7 +3078,7 @@
       "ruRU": "Когда вы творите заклинание с дескриптором Электричество, это заклинание наносит +1 очко урона за каждую брошенную кость.",
       "deDE": null,
       "frFR": null,
-      "zhCN": "每当你施放一个包含电击描述符的法术时，它的每个伤害骰额外造成1点伤害。",
+      "zhCN": "每当你施放一个包含电击描述标识的法术时，它的每个伤害骰额外造成1点伤害。",
       "esES": null
     },
     {
@@ -3089,7 +3089,7 @@
       "ruRU": "Когда вы творите заклинание с дескриптором Кислота, это заклинание наносит +1 очко урона за каждую брошенную кость.",
       "deDE": null,
       "frFR": null,
-      "zhCN": "每当你施放一个包含酸蚀描述符的法术时，它的每个伤害骰额外造成1点伤害。",
+      "zhCN": "每当你施放一个包含酸蚀描述标识的法术时，它的每个伤害骰额外造成1点伤害。",
       "esES": null
     },
     {
@@ -3100,7 +3100,7 @@
       "ruRU": null,
       "deDE": null,
       "frFR": null,
-      "zhCN": "每当你施放一个带有火焰描述符的法术时，它的每个伤害骰额外造成1点伤害。",
+      "zhCN": "每当你施放一个带有火焰描述标识的法术时，它的每个伤害骰额外造成1点伤害。",
       "esES": null
     },
     {
@@ -3111,7 +3111,7 @@
       "ruRU": "Когда вы творите заклинание с дескриптором Холод, это заклинание наносит +1 очко урона за каждую брошенную кость.",
       "deDE": null,
       "frFR": null,
-      "zhCN": "每当你施放一个包含寒冷描述符的法术，它的每个伤害骰额外造成1点伤害。",
+      "zhCN": "每当你施放一个包含寒冷描述标识的法术，它的每个伤害骰额外造成1点伤害。",
       "esES": null
     },
     {
@@ -4156,7 +4156,7 @@
       "ruRU": "Вы можете усилить свои заклинания с дескрипторами Огонь или Кислота таким образом, что они наносят целям дополнительный урон. \nПреимущество: огненные и клислотные эффекты от жгучих заклинаний постепенно прожигают цели, нанося им дополнительный урон в рачале следующего хода. Когда существо получает огненный или кислотный урон от жгучего заклинания, на следующий ход это существо получит дополнительный урон, равный удвоенному действительному уровню заклинания. Этот урон является огненным или кислотным в зависимости от дескриптора заклиннаия. \nПовышение круга: +2 (жгучее заклинание использует слот на 2 круга выше актуального уровня заклинания).",
       "deDE": null,
       "frFR": null,
-      "zhCN": "当你用带有酸蚀或火焰描述符的法术影响生物时，你会使他们受到额外的伤害。\n效果：你施放的包含酸蚀或火焰描述符的法术的效果粘附在目标身上 ，受到该法术伤害的目标在下一轮开始时，受到等同这个法术实际等级2倍的酸蚀或火焰伤害。\n等级提升：+2（燃烧法术需要使用比该法术实际等级高2级的法术位。）",
+      "zhCN": "当你用带有酸蚀或火焰描述标识的法术影响生物时，你会使他们受到额外的伤害。\n效果：你施放的包含酸蚀或火焰描述标识的法术的效果粘附在目标身上 ，受到该法术伤害的目标在下一轮开始时，受到等同这个法术实际等级2倍的酸蚀或火焰伤害。\n等级提升：+2（燃烧法术需要使用比该法术实际等级高2级的法术位。）",
       "esES": null
     },
     {
@@ -6741,7 +6741,7 @@
       "ruRU": "Вы оследпяете существ, когда воздействуете на них заклинаниями с дескрипторами Огонь, Электричество и Свет.\nПреимущество: электрические, огненные и световые эффекты ослепляющего заклинания создают вспышку, которая оставляет получившее урон существо растерянным на количество раундов равное действительному кругу заклинания.\nЭта форма метамагии применима только к заклинаниям с дескрипторами Огонь, Электричество и Свет.\nПовышение круга: +1 (ослепляющее заклинание использует слот заклинания на 1 круг выше действительного).",
       "deDE": null,
       "frFR": null,
-      "zhCN": "当你使用具有火焰、光或电击描述符的法术影响生物时，你会使他们目眩。\n效果：受影响的法术的电击、火焰或光效果产生一种闪光，使受到该法术伤害的生物目眩。一个闪耀法术会使受其影响的生物受到火焰或电击伤害，并使其目眩数轮，持续轮数相当于该法术的实际等级。\n闪耀法术只影响具有火焰、光或电击描述符的法术。\n等级提升：+1（闪耀法术需要使用比该法术实际等级高1级的法术位。）",
+      "zhCN": "当你使用具有火焰、光或电击描述标识的法术影响生物时，你会使他们目眩。\n效果：受影响的法术的电击、火焰或光效果产生一种闪光，使受到该法术伤害的生物目眩。一个闪耀法术会使受其影响的生物受到火焰或电击伤害，并使其目眩数轮，持续轮数相当于该法术的实际等级。\n闪耀法术只影响具有火焰、光或电击描述标识的法术。\n等级提升：+1（闪耀法术需要使用比该法术实际等级高1级的法术位。）",
       "esES": null
     },
     {
@@ -7104,7 +7104,7 @@
       "ruRU": null,
       "deDE": null,
       "frFR": null,
-      "zhCN": "动物之怒的啮咬攻击造成的伤害骰增大一级，如同你的体型增大一级。",
+      "zhCN": "兽类冲动的啮咬攻击造成的伤害骰增大一级，如同你的体型增大一级。",
       "esES": null
     },
     {
@@ -7115,7 +7115,7 @@
       "ruRU": null,
       "deDE": null,
       "frFR": null,
-      "zhCN": "高等动物之怒",
+      "zhCN": "高等兽类冲动",
       "esES": null
     },
     {
@@ -8875,7 +8875,7 @@
       "ruRU": "Этот скипетр даёт своему владельцу возможность сотворить до 3 жгучих заклинаний в день, как будто к ним применена черта Жгучее заклинание.\nВысшие скипетры могут быть использованы с заклинаниями 9-го уровня и ниже.\nЖгучее заклинание: Когда существо получает огненный или кислотный урон, на следующий ход оно дополнительно получит урон равный удвоенному эффективному уровню заклинания. Этот урон является огненным или кислотным в зависимости от дескриптора заклинания.",
       "deDE": null,
       "frFR": null,
-      "zhCN": "这根权杖赋予持用者每天施放三次燃烧法术的能力，如同运用了专长“燃烧法术”。高等权杖可被用于不超过9级的法术。\n燃烧法术：当一个生物受到受影响的法术的酸蚀或火焰伤害时，该生物在下一回合开始时受到等于该法术实际等级的2倍的伤害。伤害是酸蚀或火焰，由法术描述符决定。",
+      "zhCN": "这根权杖赋予持用者每天施放三次燃烧法术的能力，如同运用了专长“燃烧法术”。高等权杖可被用于不超过9级的法术。\n燃烧法术：当一个生物受到受影响的法术的酸蚀或火焰伤害时，该生物在下一回合开始时受到等于该法术实际等级的2倍的伤害。伤害是酸蚀或火焰，由法术描述标识决定。",
       "esES": null
     },
     {
@@ -9007,7 +9007,7 @@
       "ruRU": "Этот скипетр даёт своему владельцу возможность сотворить до 3 ослепляющих заклинаний в день, как будто к ним применена черта Ослепляющее заклинание.\nВысшие скипетры могут быть использованы с заклинаниями 9-го уровня и ниже.\nОслепляющее заклинание: ослепляющее заклинание оставляет цель растерянной на количество уровней равное действительному уровню заклинания.\nМетамагия Ослепляющее заклинание применима только к заклинаниям с дескрипторами Огонь, Свет и Электричествр.",
       "deDE": null,
       "frFR": null,
-      "zhCN": "这根权杖赋予持用者每天施放三次闪耀法术的能力，如同运用了专长“闪耀法术”。\n高等权杖可被用于不超过9级的法术。\n闪耀法术：受影响的法术的电击、火焰或光效果产生一种闪光，使受到该法术伤害的生物目眩。一个闪耀法术会使受其影响的生物受到火焰或电击伤害，并使其目眩数轮，持续轮数相当于该法术的实际等级。\n闪耀法术只影响具有火焰、光或电击描述符的法术。",
+      "zhCN": "这根权杖赋予持用者每天施放三次闪耀法术的能力，如同运用了专长“闪耀法术”。\n高等权杖可被用于不超过9级的法术。\n闪耀法术：受影响的法术的电击、火焰或光效果产生一种闪光，使受到该法术伤害的生物目眩。一个闪耀法术会使受其影响的生物受到火焰或电击伤害，并使其目眩数轮，持续轮数相当于该法术的实际等级。\n闪耀法术只影响具有火焰、光或电击描述标识的法术。",
       "esES": null
     },
     {
@@ -9073,7 +9073,7 @@
       "ruRU": "Этот скипетр даёт своему владельцу возможность сотворить до 3 обмораживающих заклинаний в день, как будто к ним применена черта Обмораживающее заклинание.\nВысшие скипетры могут быть использованы с заклинаниями 9-го уровня и ниже.\nОбмораживающее заклинание: обмораживающее заклинание оставляет опутанной цель, получившую урон холодом от этого заклинания, на количество уровней, равное действительному уровню заклинания. Эта форма метамагии применима только к заклинаниям с дескриптором Холод.",
       "deDE": null,
       "frFR": null,
-      "zhCN": "这根权杖赋予持用者每天施放三个霜冻法术的能力，如同运用了专长“霜冻法术”。\n高等权杖可被用于不超过9级的法术。\n霜冻法术：你的寒冷法术的冰霜附着在目标身上，在短时间内阻碍目标。霜冻法术会使受到该法术寒冷伤害的生物在相当于该法术原始等级的轮数内陷入纠缠状态。该专长只影响带有寒冷描述符的法术。",
+      "zhCN": "这根权杖赋予持用者每天施放三个霜冻法术的能力，如同运用了专长“霜冻法术”。\n高等权杖可被用于不超过9级的法术。\n霜冻法术：你的寒冷法术的冰霜附着在目标身上，在短时间内阻碍目标。霜冻法术会使受到该法术寒冷伤害的生物在相当于该法术原始等级的轮数内陷入纠缠状态。该专长只影响带有寒冷描述标识的法术。",
       "esES": null
     },
     {
@@ -9095,7 +9095,7 @@
       "ruRU": "Этот скипетр даёт своему владельцу возможность сотворить до 3 жгучих заклинаний в день, как будто к ним применена черта Жгучее заклинание.\nизшие скипетры могут быть использованы с заклинаниями 3-го уровня и ниже.\nЖгучее заклинание: Когда существо получает огненный или кислотный урон, на следующий ход оно дополнительно получит урон равный удвоенному эффективному уровню заклинания. Этот урон является огненным или кислотным в зависимости от дескриптора заклинания.",
       "deDE": null,
       "frFR": null,
-      "zhCN": "这根权杖赋予持用者每天施放三个燃烧法术的能力，如同使用了专长“燃烧法术”。\n次级权杖可被用于不超过3级的法术。\n燃烧法术：当一个生物受到受影响的法术的酸蚀或火焰伤害时，该生物在下一回合开始时受到等于该法术实际等级的2倍的伤害。伤害是酸蚀或火焰，由法术描述符决定。",
+      "zhCN": "这根权杖赋予持用者每天施放三个燃烧法术的能力，如同使用了专长“燃烧法术”。\n次级权杖可被用于不超过3级的法术。\n燃烧法术：当一个生物受到受影响的法术的酸蚀或火焰伤害时，该生物在下一回合开始时受到等于该法术实际等级的2倍的伤害。伤害是酸蚀或火焰，由法术描述标识决定。",
       "esES": null
     },
     {
@@ -9227,7 +9227,7 @@
       "ruRU": "Этот скипетр даёт своему владельцу возможность сотворить до 3 ослепляющих заклинаний в день, как будто к ним применена черта Ослепляющее заклинание.\nизшие скипетры могут быть использованы с заклинаниями 3-го уровня и ниже.\nОслепляющее заклинание: ослепляющее заклинание оставляет цель растерянной на количество уровней равное действительному уровню заклинания.\nМетамагия Ослепляющее заклинание применима только к заклинаниям с дескрипторами Огонь, Свет и Электричествр.",
       "deDE": null,
       "frFR": null,
-      "zhCN": "这根权杖赋予持用者每天施放三次闪耀法术的能力，如同运用了专长“闪耀法术”。\n次级权杖可被用于不超过3级的法术。\n闪耀法术：受影响的法术的电击、火焰或光效果产生一种闪光，使受到该法术伤害的生物目眩。一个闪耀法术会使受其影响的生物受到火焰或电击伤害，并使其目眩数轮，持续轮数相当于该法术的实际等级。\n闪耀法术只影响具有火焰、光或电击描述符的法术。",
+      "zhCN": "这根权杖赋予持用者每天施放三次闪耀法术的能力，如同运用了专长“闪耀法术”。\n次级权杖可被用于不超过3级的法术。\n闪耀法术：受影响的法术的电击、火焰或光效果产生一种闪光，使受到该法术伤害的生物目眩。一个闪耀法术会使受其影响的生物受到火焰或电击伤害，并使其目眩数轮，持续轮数相当于该法术的实际等级。\n闪耀法术只影响具有火焰、光或电击描述标识的法术。",
       "esES": null
     },
     {
@@ -9304,7 +9304,7 @@
       "ruRU": "Этот скипетр даёт своему владельцу возможность сотворить до 3 обмораживающих заклинаний в день, как будто к ним применена черта Обмораживающее заклинание.\nизшие скипетры могут быть использованы с заклинаниями 3-го уровня и ниже.\nОбмораживающее заклинание: обмораживающее заклинание оставляет опутанной цель, получившую урон холодом от этого заклинания, на количество уровней, равное действительному уровню заклинания. Эта форма метамагии применима только к заклинаниям с дескриптором Холод.",
       "deDE": null,
       "frFR": null,
-      "zhCN": "这根权杖赋予持用者每天施放三个霜冻法术的能力，如同运用了专长“霜冻法术”。\n次级权杖可被用于不超过3级的法术。\n霜冻法术：你的寒冷法术的冰霜附着在目标身上，在短时间内阻碍目标。霜冻法术会使受到该法术寒冷伤害的生物在相当于该法术原始等级的轮数内陷入纠缠状态。该专长只影响带有寒冷描述符的法术。",
+      "zhCN": "这根权杖赋予持用者每天施放三个霜冻法术的能力，如同运用了专长“霜冻法术”。\n次级权杖可被用于不超过3级的法术。\n霜冻法术：你的寒冷法术的冰霜附着在目标身上，在短时间内阻碍目标。霜冻法术会使受到该法术寒冷伤害的生物在相当于该法术原始等级的轮数内陷入纠缠状态。该专长只影响带有寒冷描述标识的法术。",
       "esES": null
     },
     {
@@ -9326,7 +9326,7 @@
       "ruRU": "Этот скипетр даёт своему владельцу возможность сотворить до 3 жгучих заклинаний в день, как будто к ним применена черта Жгучее заклинание.\nредние скипетры могут быть использованы с заклинаниями 6-го уровня и ниже.\nЖгучее заклинание: Когда существо получает огненный или кислотный урон, на следующий ход оно дополнительно получит урон равный удвоенному эффективному уровню заклинания. Этот урон является огненным или кислотным в зависимости от дескриптора заклинания.",
       "deDE": null,
       "frFR": null,
-      "zhCN": "这根权杖赋予持用者每天施放三次燃烧法术的能力，如同运用了专长“燃烧法术”。\n普通权杖可被用于不超过6级的法术。\n燃烧法术：当一个生物受到受影响的法术的酸蚀或火焰伤害时，该生物在下一回合开始时受到等于该法术实际等级的2倍的伤害。伤害是酸蚀或火焰，由法术描述符决定。",
+      "zhCN": "这根权杖赋予持用者每天施放三次燃烧法术的能力，如同运用了专长“燃烧法术”。\n普通权杖可被用于不超过6级的法术。\n燃烧法术：当一个生物受到受影响的法术的酸蚀或火焰伤害时，该生物在下一回合开始时受到等于该法术实际等级的2倍的伤害。伤害是酸蚀或火焰，由法术描述标识决定。",
       "esES": null
     },
     {
@@ -9458,7 +9458,7 @@
       "ruRU": "Этот скипетр даёт своему владельцу возможность сотворить до 3 ослепляющих заклинаний в день, как будто к ним применена черта Ослепляющее заклинание.\nредние скипетры могут быть использованы с заклинаниями 6-го уровня и ниже.\nОслепляющее заклинание: ослепляющее заклинание оставляет цель растерянной на количество уровней равное действительному уровню заклинания.\nМетамагия Ослепляющее заклинание применима только к заклинаниям с дескрипторами Огонь, Свет и Электричествр.",
       "deDE": null,
       "frFR": null,
-      "zhCN": "这根权杖赋予持用者每天施放三次闪耀法术的能力，如同运用了专长“闪耀法术”。\n普通权杖可被用于不超过6级的法术。\n闪耀法术：受影响的法术的电击、火焰或光效果产生一种闪光，使受到该法术伤害的生物目眩。一个闪耀法术会使受其影响的生物受到火焰或电击伤害，并使其目眩数轮，持续轮数相当于该法术的实际等级。\n闪耀法术只影响具有火焰、光或电击描述符的法术。",
+      "zhCN": "这根权杖赋予持用者每天施放三次闪耀法术的能力，如同运用了专长“闪耀法术”。\n普通权杖可被用于不超过6级的法术。\n闪耀法术：受影响的法术的电击、火焰或光效果产生一种闪光，使受到该法术伤害的生物目眩。一个闪耀法术会使受其影响的生物受到火焰或电击伤害，并使其目眩数轮，持续轮数相当于该法术的实际等级。\n闪耀法术只影响具有火焰、光或电击描述标识的法术。",
       "esES": null
     },
     {
@@ -9524,7 +9524,7 @@
       "ruRU": "Этот скипетр даёт своему владельцу возможность сотворить до 3 обмораживающих заклинаний в день, как будто к ним применена черта Обмораживающее заклинание.\nредние скипетры могут быть использованы с заклинаниями 6-го уровня и ниже.\nОбмораживающее заклинание: обмораживающее заклинание оставляет опутанной цель, получившую урон холодом от этого заклинания, на количество уровней, равное действительному уровню заклинания. Эта форма метамагии применима только к заклинаниям с дескриптором Холод.",
       "deDE": null,
       "frFR": null,
-      "zhCN": "这根权杖赋予持用者每天施放三个霜冻法术的能力，如同运用了专长“霜冻法术”。\n普通权杖可被用于不超过6级的法术。\n霜冻法术：你的寒冷法术的冰霜附着在目标身上，在短时间内阻碍目标。霜冻法术会使受到该法术寒冷伤害的生物在相当于该法术原始等级的轮数内陷入纠缠状态。该专长只影响带有寒冷描述符的法术。",
+      "zhCN": "这根权杖赋予持用者每天施放三个霜冻法术的能力，如同运用了专长“霜冻法术”。\n普通权杖可被用于不超过6级的法术。\n霜冻法术：你的寒冷法术的冰霜附着在目标身上，在短时间内阻碍目标。霜冻法术会使受到该法术寒冷伤害的生物在相当于该法术原始等级的轮数内陷入纠缠状态。该专长只影响带有寒冷描述标识的法术。",
       "esES": null
     },
     {
@@ -11405,7 +11405,7 @@
       "ruRU": null,
       "deDE": null,
       "frFR": null,
-      "zhCN": "被你的拥有寒冷描述符的法术伤害的生物会被纠缠。\n效果：你的寒冷法术的冰霜附着在目标身上，在短时间内阻碍目标。霜冻法术会使受到该法术寒冷伤害的生物在相当于该法术原始等级的轮数内陷入纠缠状态。\n等级提升：+1（霜冻法术需要使用比该法术实际等级高1级的法术位。）",
+      "zhCN": "被你的拥有寒冷描述标识的法术伤害的生物会被纠缠。\n效果：你的寒冷法术的冰霜附着在目标身上，在短时间内阻碍目标。霜冻法术会使受到该法术寒冷伤害的生物在相当于该法术原始等级的轮数内陷入纠缠状态。\n等级提升：+1（霜冻法术需要使用比该法术实际等级高1级的法术位。）",
       "esES": null
     },
     {
@@ -14310,6 +14310,402 @@
       "deDE": null,
       "frFR": null,
       "zhCN": "约拉尔的赐福",
+      "esES": null
+    },
+    {
+      "Key": "5ac871dbcefd4397adbc4a3faa246ffe",
+      "SimpleName": "AdamantineMind.Description",
+      "ProcessTemplates": true,
+      "enGB": "你的头脑就像任何盔甲一样坚硬，而且还很危险。\n在对抗影响心智效果的豁免中，你获得等于你神话阶层的加值。每当你在对抗影响心智效果时成功豁免，使用该效果攻击你的生物必须通过一次DC相同的意志豁免，否则将被震慑1轮。",
+      "ruRU": null,
+      "deDE": null,
+      "frFR": null,
+      "zhCN": "",
+      "esES": null
+    },
+    {
+      "Key": "5e4978a6c28840a79ac8c691ca27011d",
+      "SimpleName": "AdamantineMind.Name",
+      "ProcessTemplates": false,
+      "enGB": "Adamantine Mind",
+      "ruRU": null,
+      "deDE": null,
+      "frFR": null,
+      "zhCN": "精金意志",
+      "esES": null
+    },
+    {
+      "Key": "3f6a49442ff540a08147642e0c398014",
+      "SimpleName": "EldritchBreach.Description",
+      "ProcessTemplates": true,
+      "enGB": "You are adept at breaching magical defenses and overcoming resistance to your magic.\nWhen attempting a caster level check to dispel an effect or overcome spell resistance roll twice and take the higher result.",
+      "ruRU": null,
+      "deDE": null,
+      "frFR": null,
+      "zhCN": "你是破坏魔法防御以及利用法术击破抗力的行家里手。\n当你尝试进行施法者等级检定来解除效果或克服法术抗力时，掷两次并取较高的结果。",
+      "esES": null
+    },
+    {
+      "Key": "18670c7faeb7421faa4528ee72a4e02c",
+      "SimpleName": "EldritchBreach.Name",
+      "ProcessTemplates": false,
+      "enGB": "Eldritch Breach",
+      "ruRU": null,
+      "deDE": null,
+      "frFR": null,
+      "zhCN": "冲击魔障",
+      "esES": null
+    },
+    {
+      "Key": "0e45ef71bb064404904a64d83c479eea",
+      "SimpleName": "ElementalBondAir.Description",
+      "ProcessTemplates": true,
+      "enGB": "You are connected to the elemental plane of air. Whenever you cast a spell with the electricity descriptor, add your mythic rank to your caster level for that spell. You gain resistance 10 against electricity. At 6th tier, this resistance increases to 20. At 9th tier, this resistance increases to 30.",
+      "ruRU": null,
+      "deDE": null,
+      "frFR": null,
+      "zhCN": "你和风元素位面进行了联结。每当你施放的法术带有与描述标识“电击”时，将你的神话阶层加到你所施放的该法术的施法者等级上。你获得10点电击抗性。阶层6起，该抗性增加至20点。阶层9起，该抗性增加至30点。",
+      "esES": null
+    },
+    {
+      "Key": "61f60cbd3930428490da3bc91bb8e805",
+      "SimpleName": "ElementalBondAir.Name",
+      "ProcessTemplates": false,
+      "enGB": "Elemental Bond (Air)",
+      "ruRU": null,
+      "deDE": null,
+      "frFR": null,
+      "zhCN": "元素联结（风）",
+      "esES": null
+    },
+    {
+      "Key": "3899e1660bc04f9fb6e31c1a2359d3e3",
+      "SimpleName": "ElementalBondEarth.Description",
+      "ProcessTemplates": true,
+      "enGB": "You are connected to the elemental plane of earth. Whenever you cast a spell with the acid descriptor, add your mythic rank to your caster level for that spell. You gain resistance 10 against acid. At 6th tier, this resistance increases to 20. At 9th tier, this resistance increases to 30.",
+      "ruRU": null,
+      "deDE": null,
+      "frFR": null,
+      "zhCN": "你和土元素位面进行了联结。每当你施放的法术带有与描述标识“酸蚀”时，将你的神话阶层加到你所施放的该法术的施法者等级上。你获得10点酸蚀抗性。阶层6起，该抗性增加至20点。阶层9起，该抗性增加至30点。",
+      "esES": null
+    },
+    {
+      "Key": "c7902426502c4465aa0eb21c6c3d11a7",
+      "SimpleName": "ElementalBondEarth.Name",
+      "ProcessTemplates": false,
+      "enGB": "Elemental Bond (Earth)",
+      "ruRU": null,
+      "deDE": null,
+      "frFR": null,
+      "zhCN": "元素联结（土）",
+      "esES": null
+    },
+    {
+      "Key": "92a339b994644ec9b1e0002d847d46fa",
+      "SimpleName": "ElementalBondFire.Description",
+      "ProcessTemplates": true,
+      "enGB": "You are connected to the elemental plane of fire. Whenever you cast a spell with the fire descriptor, add your mythic rank to your caster level for that spell. You gain resistance 10 against fire. At 6th tier, this resistance increases to 20. At 9th tier, this resistance increases to 30.",
+      "ruRU": null,
+      "deDE": null,
+      "frFR": null,
+      "zhCN": "你和火元素位面进行了联结。每当你施放的法术带有与描述标识“火焰”时，将你的神话阶层加到你所施放的该法术的施法者等级上。你获得10点火焰抗性。阶层6起，该抗性增加至20点。阶层9起，该抗性增加至30点。",
+      "esES": null
+    },
+    {
+      "Key": "315e1e1e99934010a75a586edd29de6a",
+      "SimpleName": "ElementalBondFire.Name",
+      "ProcessTemplates": false,
+      "enGB": "Elemental Bond (Fire)",
+      "ruRU": null,
+      "deDE": null,
+      "frFR": null,
+      "zhCN": "元素联结（火）",
+      "esES": null
+    },
+    {
+      "Key": "d1b0d17e7acf4a469f1334a6feab8e9e",
+      "SimpleName": "ElementalBondSelection.Description",
+      "ProcessTemplates": true,
+      "enGB": "You are connected to one of the elemental planes. Select one elemental plane: air, earth, fire, or water. Whenever you cast a spell with a descriptor matching that plane, add your mythic rank to your caster level for that spell. You gain resistance 10 against an energy type associated with your chosen plane—electricity for air, acid for earth, fire for fire, and cold for water. At 6th tier, this resistance increases to 20. At 9th tier, this resistance increases to 30.",
+      "ruRU": null,
+      "deDE": null,
+      "frFR": null,
+      "zhCN": "你和某个元素位面进行了联结。选择1个元素位面：风、土、火或水。每当你施放的法术带有与该位面相符的描述标识时，将你的神话阶层加到你所施放的该法术的施法者等级上。你获得与所选位面能量类型相关的10点抗性（电击-风、酸蚀-土、火焰-火、寒冷-水）。阶层6起，该抗性增加至20点。阶层9起，该抗性增加至30点。",
+      "esES": null
+    },
+    {
+      "Key": "49822885599f4dfe8f9af7f7926f110f",
+      "SimpleName": "ElementalBondSelection.Name",
+      "ProcessTemplates": false,
+      "enGB": "Elemental Bond",
+      "ruRU": null,
+      "deDE": null,
+      "frFR": null,
+      "zhCN": "元素联结",
+      "esES": null
+    },
+    {
+      "Key": "a56334f3fc864b369f8c09f2fcb5b700",
+      "SimpleName": "ElementalBondWater.Description",
+      "ProcessTemplates": true,
+      "enGB": "You are connected to the elemental plane of water. Whenever you cast a spell with the cold descriptor, add your mythic rank to your caster level for that spell. You gain resistance 10 against cold. At 6th tier, this resistance increases to 20. At 9th tier, this resistance increases to 30.",
+      "ruRU": null,
+      "deDE": null,
+      "frFR": null,
+      "zhCN": "你和水元素位面进行了联结。每当你施放的法术带有与描述标识“寒冷”时，将你的神话阶层加到你所施放的该法术的施法者等级上。你获得10点寒冷抗性。阶层6起，该抗性增加至20点。阶层9起，该抗性增加至30点。",
+      "esES": null
+    },
+    {
+      "Key": "692a8059dcdf45749a1890e3acf3c1d5",
+      "SimpleName": "ElementalBondWater.Name",
+      "ProcessTemplates": false,
+      "enGB": "Elemental Bond (Water)",
+      "ruRU": null,
+      "deDE": null,
+      "frFR": null,
+      "zhCN": "元素联结（水）",
+      "esES": null
+    },
+    {
+      "Key": "1a8918b0ac4f4da89d81eaf92d7b2c0c",
+      "SimpleName": "EnergyConversion.Description",
+      "ProcessTemplates": true,
+      "enGB": "Whenever you cast a spell with the acid, cold, electricity, or fire descriptor you can switch the energy type to a different one of those energy types. If the spell normally has its original energy type as a descriptor, it loses that descriptor and gains the new type as a descriptor. All other effects of the spell remain unchanged.",
+      "ruRU": null,
+      "deDE": null,
+      "frFR": null,
+      "zhCN": "当你释放带有火焰、电击、寒冷或酸蚀描述标识的法术时，你可以将其能量类型改为另外一种。如果原法术描述标识与其能量类型匹配，法术会失去该描述标识，并改为新的能量类型描述标识。所有其他法术效果都不会改变。",
+      "esES": null
+    },
+    {
+      "Key": "117612c56ce54115a1c39d8cbd3111e2",
+      "SimpleName": "EnergyConversionBuffAcid.Description",
+      "ProcessTemplates": true,
+      "enGB": "Whenever you cast a spell with the cold, electricity, or fire descriptor you can switch the energy type to acid. If the spell normally has its original energy type as a descriptor, it loses that descriptor and gains the new type as a descriptor. All other effects of the spell remain unchanged.",
+      "ruRU": null,
+      "deDE": null,
+      "frFR": null,
+      "zhCN": "当你释放带有火焰、电击、寒冷或酸蚀描述标识的法术时，你可以将其能量类型改为另外一种。如果原法术描述标识与其能量类型匹配，法术会失去该描述标识，并改为新的能量类型描述标识。所有其他法术效果都不会改变。",
+      "esES": null
+    },
+    {
+      "Key": "ea344d92e9474e529b73bf9056efa1e1",
+      "SimpleName": "EnergyConversionBuffAcid.Name",
+      "ProcessTemplates": false,
+      "enGB": "Energy Conversion — Acid",
+      "ruRU": null,
+      "deDE": null,
+      "frFR": null,
+      "zhCN": "能量转换（酸蚀）",
+      "esES": null
+    },
+    {
+      "Key": "d2de75dda1ca405ebb9827063161079f",
+      "SimpleName": "EnergyConversionBuffCold.Description",
+      "ProcessTemplates": true,
+      "enGB": "Whenever you cast a spell with the acid, electricity, or fire descriptor you can switch the energy type to cold. If the spell normally has its original energy type as a descriptor, it loses that descriptor and gains the new type as a descriptor. All other effects of the spell remain unchanged.",
+      "ruRU": null,
+      "deDE": null,
+      "frFR": null,
+      "zhCN": "当你释放带有火焰、电击、寒冷或酸蚀描述标识的法术时，你可以将其能量类型改为另外一种。如果原法术描述标识与其能量类型匹配，法术会失去该描述标识，并改为新的能量类型描述标识。所有其他法术效果都不会改变。",
+      "esES": null
+    },
+    {
+      "Key": "998bb2a713f144b183ced48c45aa969b",
+      "SimpleName": "EnergyConversionBuffCold.Name",
+      "ProcessTemplates": false,
+      "enGB": "Energy Conversion — Cold",
+      "ruRU": null,
+      "deDE": null,
+      "frFR": null,
+      "zhCN": "能量转换（寒冷）",
+      "esES": null
+    },
+    {
+      "Key": "d34ca98d484242aba644bc72db70d5e1",
+      "SimpleName": "EnergyConversionBuffElectricity.Description",
+      "ProcessTemplates": true,
+      "enGB": "Whenever you cast a spell with the acid, cold, electricity, or fire descriptor you can switch the energy type to a different one of those energy types. If the spell normally has its original energy type as a descriptor, it loses that descriptor and gains the new type as a descriptor. All other effects of the spell remain unchanged.",
+      "ruRU": null,
+      "deDE": null,
+      "frFR": null,
+      "zhCN": "当你释放带有火焰、电击、寒冷或酸蚀描述标识的法术时，你可以将其能量类型改为另外一种。如果原法术描述标识与其能量类型匹配，法术会失去该描述标识，并改为新的能量类型描述标识。所有其他法术效果都不会改变。",
+      "esES": null
+    },
+    {
+      "Key": "df2666b79c9a4e979b54808af0717551",
+      "SimpleName": "EnergyConversionBuffElectricity.Name",
+      "ProcessTemplates": false,
+      "enGB": "Energy Conversion — Electricity",
+      "ruRU": null,
+      "deDE": null,
+      "frFR": null,
+      "zhCN": "能量转换（电击）",
+      "esES": null
+    },
+    {
+      "Key": "a7687a8c8a62421d81a2ebce2670a3cd",
+      "SimpleName": "EnergyConversionBuffFire.Description",
+      "ProcessTemplates": true,
+      "enGB": "Whenever you cast a spell with the acid, cold, or electricity descriptor you can switch the energy type to fire. If the spell normally has its original energy type as a descriptor, it loses that descriptor and gains the new type as a descriptor. All other effects of the spell remain unchanged.",
+      "ruRU": null,
+      "deDE": null,
+      "frFR": null,
+      "zhCN": "当你释放带有火焰、电击、寒冷或酸蚀描述标识的法术时，你可以将其能量类型改为另外一种。如果原法术描述标识与其能量类型匹配，法术会失去该描述标识，并改为新的能量类型描述标识。所有其他法术效果都不会改变。",
+      "esES": null
+    },
+    {
+      "Key": "0c816517494f4f8da40817d723abd019",
+      "SimpleName": "EnergyConversionBuffFire.Name",
+      "ProcessTemplates": false,
+      "enGB": "Energy Conversion — Fire",
+      "ruRU": null,
+      "deDE": null,
+      "frFR": null,
+      "zhCN": "能量转换（火焰）",
+      "esES": null
+    },
+    {
+      "Key": "68925bf23402417889aaf1264115f082",
+      "SimpleName": "EnergyConversionToggleAcid.Description",
+      "ProcessTemplates": true,
+      "enGB": "Whenever you cast a spell with the cold, electricity, or fire descriptor you can switch the energy type to acid. If the spell normally has its original energy type as a descriptor, it loses that descriptor and gains the new type as a descriptor. All other effects of the spell remain unchanged.",
+      "ruRU": null,
+      "deDE": null,
+      "frFR": null,
+      "zhCN": "当你释放带有火焰、电击、寒冷或酸蚀描述标识的法术时，你可以将其能量类型改为另外一种。如果原法术描述标识与其能量类型匹配，法术会失去该描述标识，并改为新的能量类型描述标识。所有其他法术效果都不会改变。",
+      "esES": null
+    },
+    {
+      "Key": "cf598b47d14a48878b6185f3e0419d4e",
+      "SimpleName": "EnergyConversionToggleCold.Description",
+      "ProcessTemplates": true,
+      "enGB": "Whenever you cast a spell with the acid, electricity, or fire descriptor you can switch the energy type to cold. If the spell normally has its original energy type as a descriptor, it loses that descriptor and gains the new type as a descriptor. All other effects of the spell remain unchanged.",
+      "ruRU": null,
+      "deDE": null,
+      "frFR": null,
+      "zhCN": "当你释放带有火焰、电击、寒冷或酸蚀描述标识的法术时，你可以将其能量类型改为另外一种。如果原法术描述标识与其能量类型匹配，法术会失去该描述标识，并改为新的能量类型描述标识。所有其他法术效果都不会改变。",
+      "esES": null
+    },
+    {
+      "Key": "3d491a7219774d5aa9b3da6790f8020e",
+      "SimpleName": "EnergyConversionToggleElectricity.Description",
+      "ProcessTemplates": true,
+      "enGB": "Whenever you cast a spell with the acid, cold, or fire descriptor you can switch the energy type to electricity. If the spell normally has its original energy type as a descriptor, it loses that descriptor and gains the new type as a descriptor. All other effects of the spell remain unchanged.",
+      "ruRU": null,
+      "deDE": null,
+      "frFR": null,
+      "zhCN": "当你释放带有火焰、电击、寒冷或酸蚀描述标识的法术时，你可以将其能量类型改为另外一种。如果原法术描述标识与其能量类型匹配，法术会失去该描述标识，并改为新的能量类型描述标识。所有其他法术效果都不会改变。",
+      "esES": null
+    },
+    {
+      "Key": "3742089ca9464222ac26321f61cbb0e3",
+      "SimpleName": "EnergyConversionToggleFire.Description",
+      "ProcessTemplates": true,
+      "enGB": "Whenever you cast a spell with the acid, cold, or electricity descriptor you can switch the energy type to fire. If the spell normally has its original energy type as a descriptor, it loses that descriptor and gains the new type as a descriptor. All other effects of the spell remain unchanged.",
+      "ruRU": null,
+      "deDE": null,
+      "frFR": null,
+      "zhCN": "当你释放带有火焰、电击、寒冷或酸蚀描述标识的法术时，你可以将其能量类型改为另外一种。如果原法术描述标识与其能量类型匹配，法术会失去该描述标识，并改为新的能量类型描述标识。所有其他法术效果都不会改变。",
+      "esES": null
+    },
+    {
+      "Key": "62069d28b8ca4e18b29db4859d50faa3",
+      "SimpleName": "EnergyConversionToggleVariants.Description",
+      "ProcessTemplates": true,
+      "enGB": "Whenever you cast a spell with the acid, cold, electricity, or fire descriptor you can switch the energy type to a different one of those energy types. If the spell normally has its original energy type as a descriptor, it loses that descriptor and gains the new type as a descriptor. All other effects of the spell remain unchanged.",
+      "ruRU": null,
+      "deDE": null,
+      "frFR": null,
+      "zhCN": "当你释放带有火焰、电击、寒冷或酸蚀描述标识的法术时，你可以将其能量类型改为另外一种。如果原法术描述标识与其能量类型匹配，法术会失去该描述标识，并改为新的能量类型描述标识。所有其他法术效果都不会改变。",
+      "esES": null
+    },
+    {
+      "Key": "fa66d4d9b789455e93e1b59f16600d25",
+      "SimpleName": "EnergyConversionToggleVariants.Name",
+      "ProcessTemplates": false,
+      "enGB": "Energy Conversion",
+      "ruRU": null,
+      "deDE": null,
+      "frFR": null,
+      "zhCN": "能量转换",
+      "esES": null
+    },
+    {
+      "Key": "1800996183374ec5bf09ddf415071e65",
+      "SimpleName": "FireballClusterBomb.Description",
+      "ProcessTemplates": true,
+      "enGB": "You are able to throw multiple small explosions with a single spell instead of the normal effect. For every 2 caster levels, you toss a miniature fireball with a 10-foot radius that deals 2d6 points of fire damage. A creature attempts a single Reflex save against the combined damage.",
+      "ruRU": null,
+      "deDE": null,
+      "frFR": null,
+      "zhCN": "你可以用单个法术投掷多个小型爆炸来替代原本效果。每2个施法者等级，你就可以投掷一个半径为10英尺的微型火球，造成2d6点火焰伤害。生物会总伤害进行单次反射豁免。",
+      "esES": null
+    },
+    {
+      "Key": "4055029706294a3d93f36c778d70382e",
+      "SimpleName": "FireballClusterBomb.Name",
+      "ProcessTemplates": false,
+      "enGB": "Fireball — Cluster Bomb",
+      "ruRU": null,
+      "deDE": null,
+      "frFR": null,
+      "zhCN": "火球（集束炸弹）",
+      "esES": null
+    },
+    {
+      "Key": "3aef0cd10c0c4b6e9964350ea57e485d",
+      "SimpleName": "FireballClusterBomb.SavingThrow",
+      "ProcessTemplates": false,
+      "enGB": "Reflex half",
+      "ruRU": null,
+      "deDE": null,
+      "frFR": null,
+      "zhCN": "反射，伤害减半",
+      "esES": null
+    },
+    {
+      "Key": "f047aa5f69e54eb29bdc575dc9c01f10",
+      "SimpleName": "MagicTrickFireball.Description",
+      "ProcessTemplates": true,
+      "enGB": "Cluster Bomb: You are able to throw multiple small explosions with a single spell instead of the normal effect. For every 2 caster levels, you toss a miniature fireball with a 10-foot radius that deals 2d6 points of fire damage. A creature attempts a single Reflex save against the combined damage.",
+      "ruRU": null,
+      "deDE": null,
+      "frFR": null,
+      "zhCN": "你可以用单个法术投掷多个小型爆炸来替代原本效果。每2个施法者等级，你就可以投掷一个半径为10英尺的微型火球，造成2d6点火焰伤害。生物会总伤害进行单次反射豁免。",
+      "esES": null
+    },
+    {
+      "Key": "51b31e35798a4bb9bc7c64300b2ea679",
+      "SimpleName": "MagicTrickFireball.Name",
+      "ProcessTemplates": false,
+      "enGB": "Magic Trick (Fireball)",
+      "ruRU": null,
+      "deDE": null,
+      "frFR": null,
+      "zhCN": "魔术技法（火球）",
+      "esES": null
+    },
+    {
+      "Key": "c3d38a52898e4b0eb39696d3564ea444",
+      "SimpleName": "MythicBondFeature.Description",
+      "ProcessTemplates": true,
+      "enGB": "Your ranger’s bond ability is more powerful than most.\nIf your ranger’s bond is with your companions, you can activate the bond as a swift action, granting your allies your full favored enemy bonus instead of just half.",
+      "ruRU": null,
+      "deDE": null,
+      "frFR": null,
+      "zhCN": "你的游侠羁绊比大部分人更强。\n如果你与同伴形成羁绊，你可以用迅捷动作激活羁绊，使得盟友获得完整宿敌加值，而不再是减半。",
+      "esES": null
+    },
+    {
+      "Key": "2bf01b3856374751bedc317833548852",
+      "SimpleName": "MythicBondFeature.Name",
+      "ProcessTemplates": false,
+      "enGB": "Mythic Bond",
+      "ruRU": null,
+      "deDE": null,
+      "frFR": null,
+      "zhCN": "神话羁绊",
       "esES": null
     }
   ]
