@@ -3626,7 +3626,7 @@ C:\Users\你的用户名\AppData\LocalLow\Owlcat Games\Pathfinder Wrath Of The R
        <tr><td colspan="2">战技专家 Maneuver Expert</td></tr>
        <tr><td colspan="2">太极-四两拨千斤 Ki Throw Mastery</td></tr>
   <tr><td rowspan="8">神话进阶职业特性</i></td>
-       <td>轻巧夺命 Swift Death<br>你的夺命攻击变成标准动作，刺客10级时还会变成移动动作。</td></tr>
+       <td colspan="2">轻巧夺命 Swift Death<br>你的夺命攻击变成标准动作，刺客10级时还会变成移动动作。</td></tr>
        <tr><td colspan="2">高等轻巧夺命 Greater Swift Death<br>你的夺命攻击变成移动动作，刺客10级时还会变成迅捷动作。</td></tr>
        <tr><td colspan="2">固若金汤 UnbreakableDefance<br>你使用防御姿态时不再有轮数限制。</td></tr>
        <tr><td colspan="2">龙翼 Draconic Wings<br>你获得两个1d4翼击作为主要天生武器。</td></tr>
