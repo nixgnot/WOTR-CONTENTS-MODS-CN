@@ -73,7 +73,7 @@
 | [KineticArchetypes](#KineticArchetypes) | 念力变体 | 自带 | :heavy_check_mark: | :star::star::star: | :file_folder: |||
 | [MinosPlayerRace](#MinosPlayerRace) | 牛头人种族 | QL汉化 | :heavy_check_mark: | :star: | :file_folder: |||
 | [WoTRHolyVindicator](#WoTRHolyVindicator) | 神圣辩护者 | 暂无 | :heavy_check_mark: | :star::star: | :file_folder: |||
-| [PrestigePlus](#PrestigePlus) | 进阶职业扩展 | 自带 | :heavy_check_mark: | :star::star: | :file_folder: |||
+| [PrestigePlus](#PrestigePlus) | 进阶职业扩展 | 自带 | :heavy_check_mark: | :star::star::star: | :file_folder::file_folder::file_folder: |||
 | [TransfiguredCasterArchetypes](#TransfiguredCasterArchetypes) | 施法者变体 | 暂无 | :heavy_check_mark: | :star::star: | :file_folder: |||
 | [HomebrewWarlock](#HomebrewWarlock) | 3.5e邪术师 | QL汉化 | :heavy_check_mark: | :star::star: | :file_folder: |||
 
@@ -3553,7 +3553,12 @@ C:\Users\你的用户名\AppData\LocalLow\Owlcat Games\Pathfinder Wrath Of The R
 > *新增内容：* 进阶职业<br>
 <table>
  <tr><th colspan="3">新增内容列表<br></th></tr> 
-  <tr><td rowspan="9">进阶职业</i></td>
+  <tr><td rowspan="3">变体</i></td>
+       <td rowspan="3">战士 Fighter</td>
+       <td>奥法卫士 Eldritch Guardian</td></tr>
+       <tr><td>学识守卫 Lore Warden</td></tr>
+       <tr><td>战争领主 Warlord</td></tr>
+  <tr><td rowspan="14">进阶职业</i></td>
        <td colspan="2">骑士 Chevalier</td></tr>
        <tr><td colspan="2">后继者远征骑士 Inheritor’s Crusader</td></tr>
        <tr><td colspan="2">影舞者 Shadowdancer</td></tr>
@@ -3563,9 +3568,17 @@ C:\Users\你的用户名\AppData\LocalLow\Owlcat Games\Pathfinder Wrath Of The R
        <tr><td colspan="2">大地旅者 Horizon Walker</td></tr>
        <tr><td colspan="2">染血天使 Sanguine Angel</td></tr>
        <tr><td colspan="2">负痕求道者 Scar Seeker</td></tr>
-  <tr><td rowspan="1">游荡者天赋</i></td>
-       <td>防御翻滚 Defensive Roll </td><td>房规改动，加入类似屹立不倒的效果</td></tr>
-  <tr><td rowspan="9">专长</i></td>
+       <tr><td colspan="2">阴影代理人 Umbral Agent</td></tr>
+       <tr><td colspan="2">巨兽驭手 Mammoth Rider</td></tr>
+       <tr><td colspan="2">亚萨维尔 Asavir</td></tr>
+       <tr><td colspan="2">半身任侠 Halfling Opportunist</td></tr>
+       <tr><td colspan="2">龙怒狂徒 Dragon Fury</td></tr>
+  <tr><td rowspan="4">职业特性和其他</i></td>
+       <td>游荡者天赋</td><td>防御翻滚 Defensive Roll<br>房规改动，加入类似屹立不倒的效果</td></tr>
+       <tr><td>魔宠</td><td>蟹王 Crab King</td></tr>
+       <tr><td>炼金科研发现</td><td>触手 Tentacle</td></tr>
+       <tr><td>狂暴之力</td><td>怒涛狂涌 Strength Surge</td></tr>
+  <tr><td rowspan="17">专长</i></td>
        <td colspan="2">擒抱（精通擒抱）Grapple</td></tr>
        <tr><td colspan="2">高等擒抱 Greater Grapple</td></tr>
        <tr><td colspan="2">快速擒抱 Rapid Grappler</td></tr>
@@ -3575,29 +3588,52 @@ C:\Users\你的用户名\AppData\LocalLow\Owlcat Games\Pathfinder Wrath Of The R
        <tr><td colspan="2">野蛮裂地 Savage Slam</td></tr>
        <tr><td colspan="2">炫目裂地 Dramatic Slam</td></tr>
        <tr><td colspan="2">尖刺魔之触 Hamatula Strike</td></tr>
+       <tr><td colspan="2">割喉者 Throat Slicer</td></tr>
+       <tr><td colspan="2">批亢捣虚 Seize the Opportunity</td></tr>
+       <tr><td colspan="2">风吹幡动 Ripple in Still Water</td></tr>
+       <tr><td colspan="2">次级双法合璧 Lesser Spell Synthesis<br>参见[MysticalMayhem](#MysticalMayhem)</td></tr>
+       <tr><td colspan="2">太极拳 Ki Throw</td></tr>
+       <tr><td colspan="2">太极-揽雀尾 Improved Ki Throw</td></tr>
+       <tr><td colspan="2">太极-抱虎归山 Binding Throw</td></tr>
+       <tr><td colspan="2">太极-倒撵猴 Enhanced Ki Throw</td></tr>
   <tr><td rowspan="15">流派专长</i></td>
-       <td colspan="2">黑堕流 Black Seraph Style</td></tr>
-       <tr><td colspan="2">黑堕恶念 Black Seraph’s Malevolence</td></tr>
-       <tr><td colspan="2">黑堕湮灭 Black Seraph Annihilation</td></tr>
-       <tr><td colspan="2">大擒拿手 Grabbing Style</td></tr>
-       <tr><td colspan="2">万象天引 Grabbing Drag</td></tr>
-       <tr><td colspan="2">天地合 Grabbing Master</td></tr>
-       <tr><td colspan="2">鹿冲流 Charging Stag Style</td></tr>
-       <tr><td colspan="2">鹿绞角 Stag Horns</td></tr>
-       <tr><td colspan="2">鹿角绞 Stag Submission</td></tr>
-       <tr><td colspan="2">鳄龟流 Snapping Turtle Style</td></tr>
-       <tr><td colspan="2">鳄龟爪 Snapping Turtle Clutch</td></tr>
-       <tr><td colspan="2">鳄龟甲 Snapping Turtle Shell</td></tr>
-       <tr><td colspan="2">触手流 Kraken Style</td></tr>
-       <tr><td colspan="2">触手紧缚 Kraken Wrack</td></tr>
-       <tr><td colspan="2">万蛇出洞 Medusa's Wrath</td></tr>
-  <tr><td rowspan="6">神话专长</i></td>
+       <td rowspan="3">黑堕</td>
+           <td>黑堕流 Black Seraph Style</td></tr>
+       <tr><td>黑堕恶念 Black Seraph’s Malevolence</td></tr>
+       <tr><td>黑堕湮灭 Black Seraph Annihilation</td></tr>
+       <tr><td rowspan="3">擒拿</td>
+           <td>擒拿手 Grabbing Style</td></tr>
+       <tr><td>擒拿手-擒龙控鹤 Grabbing Drag</td></tr>
+       <tr><td>擒拿手-五指山 Grabbing Master</td></tr>
+       <tr><td rowspan="3">鹿家</td>
+           <td>鹿家赶蟾步 Charging Stag Style</td></tr>
+       <tr><td>鹿家鹰爪功 Stag Horns</td></tr>
+       <tr><td>鹿家一指 Stag Submission</td></tr>
+       <tr><td rowspan="3">玄武</td>
+           <td>玄武掌 Snapping Turtle Style</td></tr>
+       <tr><td>玄武寂灭抓 Snapping Turtle Clutch</td></tr>
+       <tr><td>玄武不坏神功 Snapping Turtle Shell</td></tr>
+       <tr><td rowspan="3">缠丝手</td>
+           <td>缠丝手 Kraken Style</td></tr>
+       <tr><td>缠丝手-金蛇擒鹤 Kraken Wrack</td></tr>
+       <tr><td>缠丝手-万蛇出洞 Medusa's Wrath</td></tr>
+  <tr><td rowspan="7">神话专长</i></td>
        <td colspan="2">擒抱（神话） Grapple (Mythic)</td></tr>
        <tr><td colspan="2">粗野擒抱 Uncanny Grapple</td></tr>
        <tr><td colspan="2">飞跃突袭 Aerial Assault</td></tr>
        <tr><td colspan="2">绳结专家 Knot Expert</td></tr>
-       <tr><td colspan="2">肉盾 Meat Shield,</td></tr>
+       <tr><td colspan="2">肉盾 Meat Shield</td></tr>
        <tr><td colspan="2">战技专家 Maneuver Expert</td></tr>
+       <tr><td colspan="2">太极-四两拨千斤 Ki Throw Mastery</td></tr>
+  <tr><td rowspan="8">神话进阶职业特性</i></td>
+       <td>轻巧夺命 Swift Death</td><td>你的夺命攻击变成标准动作，刺客10级时还会变成移动动作。</td></tr>
+       <tr><td colspan="2">高等轻巧夺命 Greater Swift Death</td><td>你的夺命攻击变成移动动作，刺客10级时还会变成迅捷动作。</td></tr>
+       <tr><td colspan="2">固若金汤 UnbreakableDefance</td><td>你使用防御姿态时不再有轮数限制。</td></tr>
+       <tr><td colspan="2">龙翼 Draconic Wings</td><td>你获得两个1d4翼击作为主要天生武器。</td></tr>
+       <tr><td colspan="2">无尽吐息 Endless Breath</td><td>你每回合开始时有1/3概率恢复一次吐息次数，另外，你的金龙道途吐息变成移动动作。</td></tr>
+       <tr><td colspan="2">格挡反击（神话）Riposte (Mythic)/td><td>决斗家在格挡和反击时将神话等级加到攻击骰上，不与时刻备战神话专长的效果叠加。</td></tr>
+       <tr><td colspan="2">形上学偷袭 Metaphysical Sneak Attack</td><td>战争学徒在偷袭敌人时自动研究目标，可以直接进行知识检定。另外，他的偷袭伤害不再是精准伤害。</td></tr>
+       <tr><td colspan="2">秘术催化剂 Mystic Catalyst</td><td>你能随意使用次级双法合璧。</td></tr>
 </table>    
 
 -------------------------------------------   
