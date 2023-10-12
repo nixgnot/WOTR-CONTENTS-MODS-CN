@@ -3626,14 +3626,14 @@ C:\Users\你的用户名\AppData\LocalLow\Owlcat Games\Pathfinder Wrath Of The R
        <tr><td colspan="2">战技专家 Maneuver Expert</td></tr>
        <tr><td colspan="2">太极-四两拨千斤 Ki Throw Mastery</td></tr>
   <tr><td rowspan="8">神话进阶职业特性</i></td>
-       <td>轻巧夺命 Swift Death</td><td>你的夺命攻击变成标准动作，刺客10级时还会变成移动动作。</td></tr>
-       <tr><td>高等轻巧夺命 Greater Swift Death</td><td>你的夺命攻击变成移动动作，刺客10级时还会变成迅捷动作。</td></tr>
-       <tr><td>固若金汤 UnbreakableDefance</td><td>你使用防御姿态时不再有轮数限制。</td></tr>
-       <tr><td>龙翼 Draconic Wings</td><td>你获得两个1d4翼击作为主要天生武器。</td></tr>
-       <tr><td>无尽吐息 Endless Breath</td><td>你每回合开始时有1/3概率恢复一次吐息次数，另外，你的金龙道途吐息变成移动动作。</td></tr>
-       <tr><td>格挡反击（神话）Riposte (Mythic)</td><td>决斗家在格挡和反击时将神话等级加到攻击骰上，不与时刻备战神话专长的效果叠加。</td></tr>
-       <tr><td>形上学偷袭 Metaphysical Sneak Attack</td><td>战争学徒在偷袭敌人时自动研究目标，可以直接进行知识检定。另外，他的偷袭伤害不再是精准伤害。</td></tr>
-       <tr><td>秘术催化剂 Mystic Catalyst</td><td>你能随意使用次级双法合璧。</td></tr>
+       <td>轻巧夺命 Swift Death<br>你的夺命攻击变成标准动作，刺客10级时还会变成移动动作。</td></tr>
+       <tr><td colspan="2">高等轻巧夺命 Greater Swift Death<br>你的夺命攻击变成移动动作，刺客10级时还会变成迅捷动作。</td></tr>
+       <tr><td colspan="2">固若金汤 UnbreakableDefance<br>你使用防御姿态时不再有轮数限制。</td></tr>
+       <tr><td colspan="2">龙翼 Draconic Wings<br>你获得两个1d4翼击作为主要天生武器。</td></tr>
+       <tr><td colspan="2">无尽吐息 Endless Breath<br>你每回合开始时有1/3概率恢复一次吐息次数，另外，你的金龙道途吐息变成移动动作。</td></tr>
+       <tr><td colspan="2">格挡反击（神话）Riposte (Mythic)<br>决斗家在格挡和反击时将神话等级加到攻击骰上，不与时刻备战神话专长的效果叠加。</td></tr>
+       <tr><td colspan="2">形上学偷袭 Metaphysical Sneak Attack<br>战争学徒在偷袭敌人时自动研究目标，可以直接进行知识检定。另外，他的偷袭伤害不再是精准伤害。</td></tr>
+       <tr><td colspan="2">秘术催化剂 Mystic Catalyst<br>你能随意使用次级双法合璧。</td></tr>
 </table>    
 
 -------------------------------------------   
