@@ -1,0 +1,303 @@
+[
+  {
+    "Key": "wotr-making-friends.summonersecondspellbook.name",
+    "zhCN": "召唤怪物",
+    "enGB": "Summon Monster"
+  },
+  {
+    "Key": "wotr-making-friends.summonersecondspellbookfeat.name",
+    "zhCN": "召唤怪物",
+    "enGB": "Summon Monster"
+  },
+  {
+    "Key": "wotr-making-friends.summonersecondspellbookfeat.description",
+    "zhCN": "召唤怪物（Summon monster Sp）：1级起，召唤师能够以类法术能力施放召唤怪物 I（summon monster I），这么做的每日次数为3 + 他的魅力调整值。由于该能力和召唤师召唤幻灵使用了相同的力量。因此召唤师只能在没有召唤自己的幻灵时使用该能力。召唤师能够以标准动作使用该能力，而且召唤出的生物会持续每等级1分钟（以取代每等级1轮）。在3级以及之后的每2个等级，该能力的力量都会增加1个法术等级，这使得召唤师能够召唤更加强大的生物（最高为17级时的召唤怪物 IX）。在19级时，该能力可以作为异界之门（Gate）或召唤怪物 IX（Summon Monster IX）来使用。作为异界之门来使用时，召唤师必须支付任何必要的材料成分。召唤师以此方式在同一时间仅能让一个召唤怪物或异界之门法术生效。若再次使用该能力，那么由此类法术能力而正在生效的召唤怪物或异界之门会立即结束。在判断法术触发（spell trigger）和法术完成型（spell completion）物品时，这些召唤法术被视为包含在召唤师的法术列表内。此外，只要召唤师能够使用该能力来施放造物需要的法术，他就可以花费该能力的使用次数来满足任何由他制作的魔法物品的造物要求。
+",
+    "enGB": "At 1st level, a summoner can cast summon monster I as a spell-like ability a number of times per day equal to 3 + his Charisma modifier. He can cast this spell as a standard action, and the creatures remain for 1 minute per level (instead of 1 round per level). At 3rd level, and every 2 levels thereafter, the power of this ability increases by 1 spell level, allowing him to summon more powerful creatures (to a maximum of summon monster IX at 17th level). At 19th level, this ability can be used as gate or summon monster IX. If used as gate, the summoner must pay any required material components. A summoner cannot have more than one summon monster or gate spell active in this way at one time. If this ability is used again, any existing summon monster or gate from this spell-like ability immediately ends. These summon spells are considered to be part of the summoner�s spell list for the purposes of spell trigger and spell completion items."
+  },
+  {
+    "Key": "wotr-making-friends.summonerspellbook.name",
+    "zhCN": "召唤师",
+    "enGB": "Summoner"
+  },
+  {
+    "Key": "wotr-making-friends.summonminormonsterbase.name",
+    "zhCN": "召唤次级怪物",
+    "enGB": "Summon Minor Monster"
+  },
+  {
+    "Key": "wotr-making-friends.summonminormonsterbase.description",
+    "zhCN": "这个法术类似召唤一级怪物，但是你可以召唤1d3只超小型或更小的动物。召唤来的生物必须是同一种类。因为是使用召唤怪物的方式召唤的动物，你可以申请一个符合阵营的模板套在这些动物上。",
+    "enGB": "This spell functions as summon monster I, except you can summon 1d3 Tiny or smaller animals, The summoned animals must all be the same type of creature. As with animals summoned with summon monster I, you apply one alignment-appropriate template to these animals."
+  },
+  {
+    "Key": "wotr-making-friends.summonminormonsterredpanda.name",
+    "zhCN": "召唤1d3只小熊猫",
+    "enGB": "Summon 1d3 Red Pandas"
+  },
+  {
+    "Key": "wotr-making-friends.summonminormonsterredpanda.description",
+    "zhCN": "这个法术类似召唤一级怪物，但是你可以召唤1d3只小熊猫，因为是使用召唤怪物的方式召唤的动物，你可以申请一个符合阵营的模板套在这些动物上。",
+    "enGB": "This spell functions as summon monster I, except you can summon 1d3 red pandas, As with animals summoned with summon monster I, you apply one alignment-appropriate template to these animals."
+  },
+  {
+    "Key": "wotr-making-friends.summonminormonstercat.name",
+    "zhCN": "召唤1d3只猫",
+    "enGB": "Summon 1d3 Cats"
+  },
+  {
+    "Key": "wotr-making-friends.summonminormonstercat.description",
+    "zhCN": "这个法术类似召唤一级怪物，但是你可以召唤1d3只猫，因为是使用召唤怪物的方式召唤的动物，你可以申请一个符合阵营的模板套在这些动物上。",
+    "enGB": "This spell functions as summon monster I, except you can summon 1d3 cats, As with animals summoned with summon monster I, you apply one alignment-appropriate template to these animals."
+  },
+  {
+    "Key": "wotr-making-friends.summoncacodaemon.name",
+    "zhCN": "召唤狂躁邪魔",
+    "enGB": "Summon Cacodaemon"
+  },
+  {
+    "Key": "wotr-making-friends.summoncacodaemon.description",
+    "zhCN": "这个法术类似召唤怪物，除了它只能召唤一个狂躁邪魔",
+    "enGB": "This spell functions like summon monster, except it summons a single cacodaemon."
+  },
+  {
+    "Key": "wotr-making-friends.summoncacodaemongreater.name",
+    "zhCN": "高等召唤狂躁邪魔",
+    "enGB": "Summon Cacodaemon, Greater"
+  },
+  {
+    "Key": "wotr-making-friends.summoncacodaemongreater.description",
+    "zhCN": "这个法术类似召唤狂躁邪魔，除了它能召唤1d4＋1只狂躁邪魔",
+    "enGB": "This spell functions like summon cacodaemon, except that it summons 1d4+1 cacodaemons."
+  },
+  {
+    "Key": "wotr-making-friends.summonswarm.name",
+    "zhCN": "飞虫走兽",
+    "enGB": "Summon Swarm"
+  },
+  {
+    "Key": "wotr-making-friends.summonswarm.description",
+    "zhCN": "你可以召唤一个蜘蛛集群来攻击它所在区域内的所有生物 (你可以召唤这些集群并于其他其他生物共用同一片区域内)。如果该区域没有活物，虫兽群将尽可能攻击或者接近最近的生物。施法者将无法控制它们的攻击目标或移动方向。",
+    "enGB": "You summon a swarm of spiders, which attack all other creatures within its area. (You may summon the swarm so that it shares the area of other creatures.) If no living creatures are within its area, the swarm attacks or pursues the nearest creature as best it can. The caster has no control over its target or direction of travel."
+  },
+  {
+    "Key": "wotr-making-friends.summondraconicallybase.name",
+    "zhCN": "萌龙仆从",
+    "enGB": "Draconic Ally"
+  },
+  {
+    "Key": "wotr-making-friends.summondraconicallybase.description",
+    "zhCN": "你创造一个有智力的半生命体，这种萌龙仆从可以忠诚地服从和侍奉你。这个仆从视为拥有巨龙形态 I的所有能力的伪龙。他们保留喷吐武器，根据所选龙的类型造成6d8伤害。你一次只能召唤一个萌龙侍从",
+    "enGB": "You create a semi-living intelligent draconic servant that loyally obeys and serves you. Treat this servant as a pseudodragon with all of the abilities of Form of the Dragon I. They keep their breath weapon, dealing 6d8 damage depending on the type of dragon chosen. You may only summon one draconic ally at a time."
+  },
+  {
+    "Key": "wotr-making-friends.summondraconicallyblack.name",
+    "zhCN": "萌龙仆从 黑龙",
+    "enGB": "Draconic Ally Black"
+  },
+  {
+    "Key": "wotr-making-friends.summondraconicallyblack.description",
+    "zhCN": "你的萌龙仆从将获得龙形 I黑龙的能力以及喷吐武器",
+    "enGB": "Your draconic ally will cast Form of The Dragon I: Black, including their acid breath weapon."
+  },
+  {
+    "Key": "wotr-making-friends.summondraconicallyblue.name",
+    "zhCN": "萌龙仆从 蓝龙",
+    "enGB": "Draconic Ally Blue"
+  },
+  {
+    "Key": "wotr-making-friends.summondraconicallyblue.description",
+    "zhCN": "你的萌龙仆从将获得龙形 I蓝龙的能力以及喷吐武器",
+    "enGB": "Your draconic ally will cast Form of The Dragon I: Blue, including their lightning breath weapon."
+  },
+  {
+    "Key": "wotr-making-friends.summondraconicallybrass.name",
+    "zhCN": "萌龙仆从 黄铜龙",
+    "enGB": "Draconic Ally Brass"
+  },
+  {
+    "Key": "wotr-making-friends.summondraconicallybrass.description",
+    "zhCN": "你的萌龙仆从将获得龙形 I黄铜龙的能力以及喷吐武器",
+    "enGB": "Your draconic ally will cast Form of The Dragon I: Brass, including their fire breath weapon."
+  },
+  {
+    "Key": "wotr-making-friends.summondraconicallyred.name",
+    "zhCN": "萌龙仆从 红龙",
+    "enGB": "Draconic Ally Red"
+  },
+  {
+    "Key": "wotr-making-friends.summondraconicallyred.description",
+    "zhCN": "你的萌龙仆从将获得龙形 I红龙的能力以及喷吐武器",
+    "enGB": "Your draconic ally will cast Form of The Dragon I: Red, including their fire breath weapon."
+  },
+  {
+    "Key": "wotr-making-friends.summondraconicallygreen.name",
+    "zhCN": "萌龙仆从 绿龙",
+    "enGB": "Draconic Ally Green"
+  },
+  {
+    "Key": "wotr-making-friends.summondraconicallygreen.description",
+    "zhCN": "你的萌龙仆从将获得龙形 I绿龙的能力以及喷吐武器",
+    "enGB": "Your draconic ally will cast Form of The Dragon I: Green, including their acid breath weapon."
+  },
+  {
+    "Key": "wotr-making-friends.summondraconicallysilver.name",
+    "zhCN": "萌龙仆从 银龙",
+    "enGB": "Draconic Ally Silver"
+  },
+  {
+    "Key": "wotr-making-friends.summondraconicallysilver.description",
+    "zhCN": "你的萌龙仆从将获得龙形 I银龙的能力以及喷吐武器",
+    "enGB": "Your draconic ally will cast Form of The Dragon I: Silver, including their cold breath weapon."
+  },
+  {
+    "Key": "wotr-making-friends.summondraconicallywhite.name",
+    "zhCN": "萌龙仆从 白龙",
+    "enGB": "Draconic Ally White"
+  },
+  {
+    "Key": "wotr-making-friends.summondraconicallywhite.description",
+    "zhCN": "你的萌龙仆从将获得龙形 I白龙的能力以及喷吐武器",
+    "enGB": "Your draconic ally will cast Form of The Dragon I: White, including their cold breath weapon."
+  },
+  {
+    "Key": "wotr-making-friends.summonlesserdemonbase.name",
+    "zhCN": "召唤次级恶魔",
+    "enGB": "Summon Lesser Demon"
+  },
+  {
+    "Key": "wotr-making-friends.summonlesserdemonbase.description",
+    "zhCN": "这个法术类似召唤怪物，除了它能召唤一个火灾魔，一个梦魔，1d3个希尔魔或者1d4个虫裂魔",
+    "enGB": "This spell functions like summon monster, except it allows you to summon a single brimorak, one incubus, 1d3 schir demons, or 1d4 vermlek demons."
+  },
+  {
+    "Key": "wotr-making-friends.summonlesserdemonbrimorak.name",
+    "zhCN": "召唤火灾魔",
+    "enGB": "Summon Brimorak"
+  },
+  {
+    "Key": "wotr-making-friends.summonlesserdemonbrimorak.description",
+    "zhCN": "这个法术类似召唤怪物，除了它能召唤一个火灾魔",
+    "enGB": "This spell functions like summon monster, except it allows you to summon a single brimorak."
+  },
+  {
+    "Key": "wotr-making-friends.summonlesserdemonincubus.name",
+    "zhCN": "召唤梦魔",
+    "enGB": "Summon Incubus"
+  },
+  {
+    "Key": "wotr-making-friends.summonlesserdemonincubus.description",
+    "zhCN": "这个法术类似召唤怪物，除了它能召唤一个梦魔",
+    "enGB": "This spell functions like summon monster, except it allows you to summon a single incubus."
+  },
+  {
+    "Key": "wotr-making-friends.summonlesserdemonschir.name",
+    "zhCN": "召唤1d3个希尔魔",
+    "enGB": "Summon 1d3 Schirs"
+  },
+  {
+    "Key": "wotr-making-friends.summonlesserdemonschir.description",
+    "zhCN": "这个法术类似召唤怪物，除了它能召唤1d3个希尔魔",
+    "enGB": "This spell functions like summon monster, except it allows you to summon 1d3 schir demons."
+  },
+  {
+    "Key": "wotr-making-friends.summonlesserdemonvermlek.name",
+    "zhCN": "召唤1d4＋1个虫裂魔",
+    "enGB": "Summon 1d4+1 Vermleks"
+  },
+  {
+    "Key": "wotr-making-friends.summonlesserdemonvermlek.description",
+    "zhCN": "这个法术类似召唤怪物，除了它能召唤1d4＋1个虫裂魔",
+    "enGB": "This spell functions like summon monster, except it allows you to summon 1d4+1 vermlek demons."
+  },
+  {
+    "Key": "wotr-making-friends.summonstampede.name",
+    "zhCN": "召唤狂野兽群",
+    "enGB": "Summon Stampede"
+  },
+  {
+    "Key": "wotr-making-friends.summonstampede.description",
+    "zhCN": "这个法术类似召唤怪物，除了它召唤1d4＋4匹马。这些马不会攻击敌人，但会不断在战场移动。被马群包围的生物在回合开始时受到4d6＋9的钝击伤害，因为它们被数十只蹄子践踏",
+    "enGB": "This spell functions like summon monster, except it summons 1d4+4 horses. These horses do not attack enemies, but move about the battlefield.\nAny creatures caught in the herd�s path take 4d6+9 points of bludgeoning damage at the start of their turn as they are trampled beneath dozens of animals� hooves."
+  },
+  {
+    "Key": "wotr-making-friends.summonreleasethehounds.name",
+    "zhCN": "关门放狗",
+    "enGB": "Release The Hounds"
+  },
+  {
+    "Key": "wotr-making-friends.summonreleasethehounds.description",
+    "zhCN": "这个法术类似召唤怪物，除了它能召唤1d4＋4只霜狼。这些霜狼不会攻击敌人，但会不断在战场移动。被狼群包围的生物在回合开始时受到3d6的寒冷伤害。并且可能被击倒（dc20）",
+    "enGB": "This spell functions like summon monster, except it summons 1d4+4 frost wolves. These wolves do not attack enemies, but move about the battlefield.\nAny enemies caught in the pack�s path take 3d6 points of cold damage at the start of their turn and may become prone (DC 20 Reflex)."
+  },
+  {
+    "Key": "wotr-making-friends.summonerinyes.name",
+    "zhCN": "召唤怒魔",
+    "enGB": "Summon Erinyes"
+  },
+  {
+    "Key": "wotr-making-friends.summonerinyes.description",
+    "zhCN": "这个法术类似召唤怪物，除了它能召唤一个怒魔",
+    "enGB": "This spell functions like summon monster, except it summons an Erinyes devil."
+  },
+  {
+    "Key": "wotr-making-friends.summonmeladaemon.name",
+    "zhCN": "召唤饥馑邪魔",
+    "enGB": "Summon Meladaemon"
+  },
+  {
+    "Key": "wotr-making-friends.summonmeladaemon.description",
+    "zhCN": "这个法术类似召唤怪物，除了它能召唤一个饥馑邪魔",
+    "enGB": "This spell functions like summon monster, except it summons a Meladaemon."
+  },
+  {
+    "Key": "wotr-making-friends.blacktentaclesspell.name",
+    "zhCN": "黑触手",
+    "enGB": "Black Tentacles"
+  },
+  {
+    "Key": "wotr-making-friends.blacktentaclesspell.description",
+    "zhCN": "　　这个法术产生一片具有韧性的黑色触手，它们从地上涌起并伸向区域内的任何生物。法术区域内的每个生物都会在每一轮中，你的回合开始时成为一次擒抱战技检定的目标，这也包括施放黑触手的那一轮。进入效果区域的生物也会被自动攻击。触手不会进行藉机攻击。在确定触手的CMB时，使用你的CL作为它们的BAB，并且CMB由于它们的力量而获得+4加值，外加+1体型加值。每轮只需要为整个法术效果投掷一次检定，并将结果应用至所有在效果区域内的生物上。若黑触手成功擒抱一个敌人，那么该名敌人会受到 {1d6+4} 点伤害，并且处于擒抱状态。被擒抱的敌人首先需要挣脱擒抱，之后才能移动。黑触手法术对在对抗已经被擒抱的生物时，擒抱检定会获得+5加值，但是无法移动敌人或压制敌人。在摆脱擒抱时，黑触手的CMD等同于其 {CMB+10}。",
+    "enGB": "Every creature within the area of the spell is the target of a combat maneuver check made to grapple each round at the beginning of your turn, including the round that black tentacles is cast. Creatures that enter the area of effect are also automatically attacked. The tentacles do not provoke attacks of opportunity. When determining the tentacles� CMB, the tentacles use your caster level as their base attack bonus and receive a +4 bonus due to their Strength and a +1 size bonus. Roll only once for the entire spell effect each round and apply the result to all creatures in the area of effect.\nIf the tentacles succeed in grappling a foe, that foe takes 1d6+4 points of damage and gains the grappled condition. Grappled opponents cannot move without first breaking the grapple. All other movement is prohibited unless the creature breaks the grapple first. The black tentacles spell receives a +5 bonus on grapple checks made against opponents it is already grappling, but cannot move foes or pin foes. Each round that black tentacles succeeds on a grapple check, it deals an additional 1d6+4 points of damage. The CMD of black tentacles, for the purposes of escaping the grapple, is equal to 10 + its CMB."
+  },
+  {
+    "Key": "wotr-making-friends.infernalhealingspell.name",
+    "zhCN": "地狱治疗",
+    "enGB": "Infernal Healing"
+  },
+  {
+    "Key": "wotr-making-friends.infernalhealingspell.description",
+    "zhCN": "你以魔鬼血液或诅咒邪水涂抹受伤生物，使其获得1快速治疗。",
+    "enGB": "You anoint a wounded creature with devil�s blood or unholy water, giving it fast healing 1."
+  },
+  {
+    "Key": "wotr-making-friends.greaterinfernalhealingspell.name",
+    "zhCN": "高等地狱治疗",
+    "enGB": "Infernal Healing, Greater"
+  },
+  {
+    "Key": "wotr-making-friends.greaterinfernalhealingspell.description",
+    "zhCN": "你以魔鬼血液或诅咒邪水涂抹受伤生物，使其获得4快速治疗。",
+    "enGB": "You anoint a wounded creature with devil�s blood or unholy water, giving it fast healing 4."
+  },
+  {
+    "Key": "wotr-making-friends.overstimulatespell.name",
+    "zhCN": "激情四溢",
+    "enGB": "Overstimulate"
+  },
+  {
+    "Key": "wotr-making-friends.overstimulatespell.description",
+    "zhCN": "不是使生物即便重伤也使其坚持到底，就是延长其苦痛，你使一个生物失去昏迷时的幸福无知觉状态。在法术持续时间内，该目标获得凶猛（ferocity）能力（Pathfinder RPG Bestiary 300），允许它即使在 HP 达到 0 以下，也可以保持清醒并且继续战斗。该目标仍然会恍惚并每轮失去 1 点 HP，而且该目标仍然会在 HP 降到体质属性负值时死亡。",
+    "enGB": "You deprive a creature of the blissful oblivion of unconsciousness, either to keep it going despite grievous injuries or to prolong its suffering. For the duration of the spell, the target gains the ferocity ability, allowing it to remain conscious and continue fighting even if its hit point total is below 0. The target is still staggered and loses 1 hit point each round, and the target still dies when its hit point total reaches a negative amount equal to its Constitution score."
+  },
+  {
+    "Key": "wotr-making-friends.transmogrifyspell.name",
+    "zhCN": "幻灵重塑术",
+    "enGB": "Transmogrify"
+  },
+  {
+    "Key": "wotr-making-friends.transmogrifyspell.description",
+    "zhCN": "你的幻灵的形态进行变化与转换。该法术允许你通过将幻灵的进化池分配给新的进化，来改变它当前的任何进化。如果你拥有异界形态或高等异界形态 (aspect or greater aspect ability)，该法术也允许你更改那些用于强化你的进化点数，包括在这些能力所限定的范围内去除或添加点数。",
+    "enGB": "Your eidolon’s form shifts and transforms. This spell allows you to change any of the eidolon’s evolutions by allocating its evolution pool on new evolutions. If you have the aspect or greater aspect ability, this spell also allows you to change the evolution points spent to modify you, including removing or adding points as allowed by those abilities."
+  }
+]

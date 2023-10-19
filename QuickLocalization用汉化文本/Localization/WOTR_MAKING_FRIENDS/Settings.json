@@ -1,0 +1,21 @@
+[
+  {
+    "Key": "wotr-making-friends.settings.title",
+	"zhCN": "召唤师",
+    "enGB": "Making Friends"
+  },
+  {
+    "Key": "wotr-making-friends.settings.hotkeysubheader",
+	"zhCN": "热键",
+    "enGB": "Hotkeys"
+  },
+  {
+    "Key": "wotr-making-friends.settings.reloadsetting.description",
+	"zhCN": "重载",
+    "enGB": "Reload"
+  },
+  {
+    "Key": "wotr-making-friends.settings.reloadsetting.longdescription",
+    "enGB": ""
+  }
+]

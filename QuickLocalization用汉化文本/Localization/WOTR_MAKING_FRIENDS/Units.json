@@ -1,0 +1,67 @@
+[
+  {
+    "Key": "wotr-making-friends.redpandasummon.name",
+    "zhCN": "小熊猫",
+    "enGB": "Red Panda"
+  },
+  {
+    "Key": "wotr-making-friends.catsummon.name",
+    "zhCN": "猫",
+    "enGB": "Cat"
+  },
+  {
+    "Key": "wotr-making-friends.cacodaemonsummon.name",
+    "zhCN": "狂躁邪魔",
+    "enGB": "Cacodaemon"
+  },
+  {
+    "Key": "wotr-making-friends.draconicallysummon.name",
+    "zhCN": "萌龙仆从",
+    "enGB": "Draconic Ally"
+  },
+  {
+    "Key": "wotr-making-friends.releasethehoundswolf.name",
+    "zhCN": "冬狼",
+    "enGB": "Winter Wolf"
+  },
+  {
+    "Key": "wotr-making-friends.meladaemonsummon.name",
+    "zhCN": "饥馑邪魔",
+    "enGB": "Meladaemon"
+  },
+  {
+    "Key": "wotr-making-friends.eidolonunit.name",
+    "zhCN": "幻灵",
+    "enGB": "Eidolon"
+  },
+  {
+    "Key": "wotr-making-friends.eidolonstatbonus.name",
+    "zhCN": "幻灵统计数据",
+    "enGB": "Eidolon Stat Bonus"
+  },
+  {
+    "Key": "wotr-making-friends.eidolonstatbonus.description",
+    "zhCN": "幻灵获得＋1力量和敏捷以及＋2ac",
+    "enGB": "The Eidolon gains a +1 to Strength and Dexterity and a +2 AC bonus"
+  },
+  {
+    "Key": "wotr-making-friends.eidolonaddabilityunnervinggazeability.name",
+    "zhCN": "不安凝视",
+    "enGB": "Unnerving Gaze"
+  },
+  {
+    "Key": "wotr-making-friends.eidolonaddabilityunnervinggazeability.description",
+    "zhCN": "",
+    "enGB": ""
+  },
+  {
+    "Key": "wotr-making-friends.eidolonaddabilityunnervinggazecooldownbuff.name",
+    "zhCN": "不安凝视冷却",
+    "enGB": "Unnerving Gaze Cooldown"
+  },
+  {
+    "Key": "wotr-making-friends.eidolonaddabilityunnervinggazecooldownbuff.description",
+    "zhCN": "不安凝视每轮只能使用1次",
+    "enGB": "Unnerving Gaze can only be used once per round."
+  }
+]

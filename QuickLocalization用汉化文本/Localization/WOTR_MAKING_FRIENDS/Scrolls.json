@@ -1,0 +1,102 @@
+[
+  {
+    "Key": "wotr-making-friends.summonminormonsterredpandascroll.name",
+    "zhCN": "卷轴 召唤1d3只小熊猫",
+    "enGB": "Scroll of Summon 1d3 Red Pandas"
+  },
+  {
+    "Key": "wotr-making-friends.summonminormonstercatscroll.name",
+    "zhCN": "卷轴 召唤1d3只猫",
+    "enGB": "Scroll of Summon 1d3 Cats"
+  },
+  {
+    "Key": "wotr-making-friends.summoncacodaemonscroll.name",
+    "zhCN": "卷轴 召唤狂躁邪魔",
+    "enGB": "Scroll of Summon Cacodaemon"
+  },
+  {
+    "Key": "wotr-making-friends.summoncacodaemongreaterscroll.name",
+    "zhCN": "卷轴 高等召唤狂躁邪魔",
+    "enGB": "Scroll of Summon Cacodaemon, Greater"
+  },
+  {
+    "Key": "wotr-making-friends.summonswarmscroll.name",
+    "zhCN": "卷轴 飞虫走兽",
+    "enGB": "Scroll of Summon Swarm"
+  },
+  {
+    "Key": "wotr-making-friends.summondraconicallyblackscroll.name",
+    "zhCN": "卷轴 萌龙仆从 黑龙",
+    "enGB": "Scroll of Draconic Ally Black"
+  },
+  {
+    "Key": "wotr-making-friends.summondraconicallybluescroll.name",
+    "zhCN": "卷轴 萌龙仆从 蓝龙",
+    "enGB": "Scroll of Draconic Ally Blue"
+  },
+  {
+    "Key": "wotr-making-friends.summondraconicallybrassscroll.name",
+    "zhCN": "卷轴 萌龙仆从 黄铜龙",
+    "enGB": "Scroll of Draconic Ally Brass"
+  },
+  {
+    "Key": "wotr-making-friends.summondraconicallyredscroll.name",
+    "zhCN": "卷轴 萌龙仆从 红龙",
+    "enGB": "Scroll of Draconic Ally Red"
+  },
+  {
+    "Key": "wotr-making-friends.summondraconicallygreenscroll.name",
+    "zhCN": "卷轴 萌龙仆从 绿龙",
+    "enGB": "Scroll of Draconic Ally Green"
+  },
+  {
+    "Key": "wotr-making-friends.summondraconicallysilverscroll.name",
+    "zhCN": "卷轴 萌龙仆从 银龙",
+    "enGB": "Scroll of Draconic Ally Silver"
+  },
+  {
+    "Key": "wotr-making-friends.summondraconicallywhitescroll.name",
+    "zhCN": "卷轴 萌龙仆从 白龙",
+    "enGB": "Scroll of Draconic Ally White"
+  },
+  {
+    "Key": "wotr-making-friends.summonlesserdemonbrimorakscroll.name",
+    "zhCN": "卷轴 召唤火灾魔",
+    "enGB": "Scroll of Summon Brimorak"
+  },
+  {
+    "Key": "wotr-making-friends.summonlesserdemonincubusscroll.name",
+    "zhCN": "卷轴 召唤梦魔",
+    "enGB": "Scroll of Summon Incubus"
+  },
+  {
+    "Key": "wotr-making-friends.summonlesserdemonschirscroll.name",
+    "zhCN": "卷轴 召唤1d3个希尔魔",
+    "enGB": "Scroll of Summon 1d3 Schirs"
+  },
+  {
+    "Key": "wotr-making-friends.summonlesserdemonvermlekscroll.name",
+    "zhCN": "卷轴 召唤1d4＋1个虫裂魔",
+    "enGB": "Scroll of Summon 1d4+1 Vermleks"
+  },
+  {
+    "Key": "wotr-making-friends.summonstampedescroll.name",
+    "zhCN": "卷轴 召唤狂野兽群",
+    "enGB": "Scroll of Summon Stampede"
+  },
+  {
+    "Key": "wotr-making-friends.summonreleasethehoundsscroll.name",
+    "zhCN": "卷轴 关门放狗",
+    "enGB": "Scroll of Release The Hounds"
+  },
+  {
+    "Key": "wotr-making-friends.summonerinyesscroll.name",
+    "zhCN": "卷轴 召唤怒魔",
+    "enGB": "Scroll of Summon Erinyes"
+  },
+  {
+    "Key": "wotr-making-friends.summonmeladaemonscroll.name",
+    "zhCN": "卷轴 召唤饥馑邪魔",
+    "enGB": "Scroll of Summon Meladaemon"
+  }
+]

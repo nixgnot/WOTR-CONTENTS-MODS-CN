@@ -1,0 +1,32 @@
+[
+  {
+    "Key": "wotr-making-friends.eidolonbaseclass.name",
+    "zhCN": "幻灵",
+    "enGB": "Eidolon"
+  },
+  {
+    "Key": "wotr-making-friends.eidolonbaseclass.description",
+    "zhCN": "幻灵",
+    "enGB": "Eidolon"
+  },
+  {
+    "Key": "wotr-making-friends.summoner.name",
+    "zhCN": "召唤师",
+    "enGB": "Summoner"
+  },
+  {
+    "Key": "wotr-making-friends.summoner.description",
+    "zhCN": "即便有许多钻研奥术的施法者精通从最遥远的位面召唤怪物，却没有任何人能比召唤师更加熟练。这些奥术的实践者都与一个特定的异界生物有着强烈的绊笃，它们被称为幻灵（Eidolon），当召唤师对召唤技艺的逐渐精熟，他们也将随之更为强大。随着时间，召唤师与他的幻灵间会产生独特的连结，最后甚至分享同一个灵魂。",
+    "enGB": "There are those who take a different path when pursuing the arcane arts, reaching across the boundaries of the world to the far-flung planes to call forth all manner of creatures to do their bidding. Known as summoners, these arcane practitioners form close bonds with particular outsiders, known as eidolons, which increase in power along with their callers. In the end, summoners and their eidolons become linked, sharing shards of the same souls."
+  },
+  {
+    "Key": "wotr-making-friends.summonerproficiencies.name",
+    "zhCN": "召唤师熟练",
+    "enGB": "Summoner Proficiencies"
+  },
+  {
+    "Key": "wotr-making-friends.summonerproficiencies.description",
+    "zhCN": "召唤师擅长所有简易武器，同时擅长轻型盔甲。召唤师施展召唤师法术列表里的法术时，可以忽略轻型盔甲的法术失败率。但是穿着中甲、重甲、或者着盾时，他们将如常承受防具的法术失败率。",
+    "enGB": "Summoners are proficient with all simple weapons and light armor. A summoner can cast summoner spells while wearing light armor without incurring the normal arcane spell failure chance. Like any other arcane spellcaster, a summoner wearing medium or heavy armor, or using a shield, incurs a chance of arcane spell failure if the spell in question has a somatic component. A summoner still incurs the normal arcane spell failure chance for arcane spells granted by other classes."
+  }
+]

@@ -1,0 +1,3126 @@
+[
+  {
+    "Key": "wotr-making-friends.fakeeidolonfeature.name",
+    "zhCN": "虚假幻灵",
+    "enGB": "Fake Eidolon"
+  },
+  {
+    "Key": "wotr-making-friends.fakeeidolonfeature.description",
+    "zhCN": "虚假幻灵",
+    "enGB": "Fake Eidolon"
+  },
+  {
+    "Key": "wotr-making-friends.eidolonsubtypefeature.name",
+    "zhCN": "幻灵",
+    "enGB": "Eidolon"
+  },
+  {
+    "Key": "wotr-making-friends.eidolonsubtypefeature.description",
+    "zhCN": "幻灵",
+    "enGB": "Eidolon"
+  },
+  {
+    "Key": "wotr-making-friends.summonerlifelinkfeature.name",
+    "zhCN": "生命连结",
+    "enGB": "Life Link"
+  },
+  {
+    "Key": "wotr-making-friends.summonerlifelinkfeature.description",
+    "zhCN": "以一个自由动作，召唤师与幻灵间形成了一种紧密的联系。当幻灵受到致死伤害，将会由召唤师承担。",
+    "enGB": "As a {g|Encyclopedia:Free_Actions}free action{/g}, the summoner may create a bond between the summoner and the summoner's eidolon. Whenever damage would kill the summoner's eidolon, the summoner may take the damage instead."
+  },
+  {
+    "Key": "wotr-making-friends.summonerbondedsensesfeature.name",
+    "zhCN": "连觉",
+    "enGB": "Bonded Senses"
+  },
+  {
+    "Key": "wotr-making-friends.summonerbondedsensesfeature.description",
+    "zhCN": "从2级开始，召唤师可以分享他幻灵的知觉：从听觉、视觉、嗅觉、味觉以及幻灵触碰物品的感觉。幻灵的察觉等级与召唤师的察觉等级相同，除非幻灵有着更高的察觉等级。",
+    "enGB": "At 2nd level, a summoner can share the senses of his eidolon, hearing, seeing, smelling, tasting, and touching everything the eidolon does./nThe summoner's perception ranks are equal to their eidolon's, if they eidolon has more ranks in perception."
+  },
+  {
+    "Key": "wotr-making-friends.summonermakerscallfeature.name",
+    "zhCN": "主宰呼唤",
+    "enGB": "Maker's Call"
+  },
+  {
+    "Key": "wotr-making-friends.summonermakerscallfeature.description",
+    "zhCN": "6级起，以标准动作，召唤师能够将幻灵召唤到自己的身边。这个效果的功能就如同任意门（Dimension Door）一般，使用召唤师的施法者等级。在使用该能力之后，幻灵会出现在与召唤师相邻的位置（如果所有与召唤师相邻的空间都被占据，则尽可能地靠近召唤师）。若幻灵在该能力的范围之外，则该次能力被浪费掉。召唤师在6级时每日能够使用1次主宰呼唤，在6级之后的每4个等级，该能力的每日使用次数会额外增加1次。",
+    "enGB": "At 6th level, as a standard action, a summoner can call his eidolon to his side. This functions as dimension door, using the summoner's caster level. When this ability is used, the eidolon appears adjacent to the summoner (or as close as possible if all adjacent spaces are occupied). If the eidolon is out of range, the ability is wasted. The summoner can use this ability once per day at 6th level, plus one additional time per day for every four levels beyond 6th."
+  },
+  {
+    "Key": "wotr-making-friends.summonertranspositionfeature.name",
+    "zhCN": "位置转换",
+    "enGB": "Transposition"
+  },
+  {
+    "Key": "wotr-making-friends.summonertranspositionfeature.description",
+    "zhCN": "8级起，召唤师能够使用主宰呼唤能力来与自己的幻灵交换位置。若幻灵占据的空间比召唤师大，则召唤师可以出现在幻灵占据的任何方格上。如果可能的话，幻灵必须出现在召唤师原本占据的空间，如果无法这么做，则要尽可能地靠近那里。",
+    "enGB": "At 8th level, a summoner can use his maker’s call ability to swap locations with his eidolon. If the eidolon occupies more squares than the summoner, the summoner can appear in any square occupied by the eidolon. The eidolon must occupy the square that was occupied by the summoner if able, or as close as possible if it is not able."
+  },
+  {
+    "Key": "wotr-making-friends.summonershieldallyfeature.name",
+    "zhCN": "幻灵护体",
+    "enGB": "Shield Ally"
+  },
+  {
+    "Key": "wotr-making-friends.summonershieldallyfeature.description",
+    "zhCN": "从4级开始，当召唤师处在幻灵的触及范围内，召唤师的将获得AC+2盾牌加值，以及所有豁免+2环境加值。",
+    "enGB": "At 4th level, whenever a summoner is within his eidolon’s reach, the summoner gains a +2 shield bonus to his Armor Class and a +2 circumstance bonus on his saving throws."
+  },
+  {
+    "Key": "wotr-making-friends.summonershieldallygreaterfeature.name",
+    "zhCN": "强力幻灵护体",
+    "enGB": "Shield Ally, Greater"
+  },
+  {
+    "Key": "wotr-making-friends.summonershieldallygreaterfeature.description",
+    "zhCN": "12级后，当有任何盟友位在幻灵的触及范围，盟友能得到AC+2盾牌加值以及全豁免+2环境加值。如果该生物是召唤师本人，这些加值提升到+4。",
+    "enGB": "At 12th level, whenever an ally is within reach of the summoner’s eidolon, the ally gains a +2 shield bonus to its Armor Class and a +2 circumstance bonus on its saving throws. If this ally is the summoner, these bonuses increase to +4."
+  },
+  {
+    "Key": "wotr-making-friends.summonerlifebondfeature.name",
+    "zhCN": "生命羁绊",
+    "enGB": "Life Bond"
+  },
+  {
+    "Key": "wotr-making-friends.summonerlifebondfeature.description",
+    "zhCN": "以一个自由动作，召唤师与幻灵间形成了一种紧密的联系。当召唤师受到致死伤害时，将会由幻灵承担。",
+    "enGB": "As a {g|Encyclopedia:Free_Actions}free action{/g}, the summoner may create a bond between the summoner and the summoner's eidolon. Whenever damage would kill the summoner, the summoner's eidolon may take the damage instead."
+  },
+  {
+    "Key": "wotr-making-friends.eidolonrank.name",
+    "zhCN": "幻灵等级",
+    "enGB": "Eidolon Rank"
+  },
+  {
+    "Key": "wotr-making-friends.eidolonrank.description",
+    "zhCN": "幻灵等级",
+    "enGB": "Eidolon Rank"
+  },
+  {
+    "Key": "wotr-making-friends.eidolonabberantbaseformfeature.name",
+    "zhCN": "异怪基础形态",
+    "enGB": "Abberant Base Form"
+  },
+  {
+    "Key": "wotr-making-friends.eidolonbipedbaseformfeature.name",
+    "zhCN": "二足型基础形态",
+    "enGB": "Biped Base Form"
+  },
+  {
+    "Key": "wotr-making-friends.eidolonquadrupedbaseformfeature.name",
+    "zhCN": "四足型基础形态",
+    "enGB": "Quadruped Base Form"
+  },
+  {
+    "Key": "wotr-making-friends.eidolonserpentinebaseformfeature.name",
+    "zhCN": "蛇身型基础形态",
+    "enGB": "Serpentine Base Form"
+  },
+  {
+    "Key": "wotr-making-friends.eidolonaberrantsubtypefeature.name",
+    "zhCN": "异怪幻灵",
+    "enGB": "Abberant Subtype"
+  },
+  {
+    "Key": "wotr-making-friends.eidolonaeonsubtypefeature.name",
+    "zhCN": "御衡者幻灵",
+    "enGB": "Aeon Subtype"
+  },
+  {
+    "Key": "wotr-making-friends.eidolonagathionsubtypefeature.name",
+    "zhCN": "盖丁幻灵",
+    "enGB": "Agathion Subtype"
+  },
+  {
+    "Key": "wotr-making-friends.eidolonancestorsubtypefeature.name",
+    "zhCN": "先祖幻灵",
+    "enGB": "Ancestor Subtype"
+  },
+  {
+    "Key": "wotr-making-friends.eidolonangelsubtypefeature.name",
+    "zhCN": "天使幻灵",
+    "enGB": "Angel Subtype"
+  },
+  {
+    "Key": "wotr-making-friends.eidolonarchonsubtypefeature.name",
+    "zhCN": "神使幻灵",
+    "enGB": "Archon Subtype"
+  },
+  {
+    "Key": "wotr-making-friends.eidolonastralsubtypefeature.name",
+    "zhCN": "星界幻灵",
+    "enGB": "Astral Subtype"
+  },
+  {
+    "Key": "wotr-making-friends.eidolonazatasubtypefeature.name",
+    "zhCN": "爱塔幻灵",
+    "enGB": "Azata Subtype"
+  },
+  {
+    "Key": "wotr-making-friends.eidolondaemonsubtypefeature.name",
+    "zhCN": "邪魔幻灵",
+    "enGB": "Daemon Subtype"
+  },
+  {
+    "Key": "wotr-making-friends.eidolondeepwatersubtypefeature.name",
+    "zhCN": "深海幻灵",
+    "enGB": "Deepwater Subtype"
+  },
+  {
+    "Key": "wotr-making-friends.eidolondemonsubtypefeature.name",
+    "zhCN": "恶魔幻灵",
+    "enGB": "Demon Subtype"
+  },
+  {
+    "Key": "wotr-making-friends.eidolondevilsubtypefeature.name",
+    "zhCN": "魔鬼幻灵",
+    "enGB": "Devil Subtype"
+  },
+  {
+    "Key": "wotr-making-friends.eidolondivsubtypefeature.name",
+    "zhCN": "妖灵幻灵",
+    "enGB": "Div Subtype"
+  },
+  {
+    "Key": "wotr-making-friends.eidolonelementalsubtypefeature.name",
+    "zhCN": "元素幻灵",
+    "enGB": "Elemental Subtype"
+  },
+  {
+    "Key": "wotr-making-friends.eidolongeniesubtypefeature.name",
+    "zhCN": "巨灵幻灵",
+    "enGB": "Genie Subtype"
+  },
+  {
+    "Key": "wotr-making-friends.eidoloninevitablesubtypefeature.name",
+    "zhCN": "制裁者幻灵",
+    "enGB": "Inevitable Subtype"
+  },
+  {
+    "Key": "wotr-making-friends.eidolonkamisubtypefeature.name",
+    "zhCN": "式神幻灵",
+    "enGB": "Kami Subtype"
+  },
+  {
+    "Key": "wotr-making-friends.eidolonkytonsubtypefeature.name",
+    "zhCN": "链魔幻灵",
+    "enGB": "Kyton Subtype"
+  },
+  {
+    "Key": "wotr-making-friends.eidolonplantsubtypefeature.name",
+    "zhCN": "植物幻灵",
+    "enGB": "Plant Subtype"
+  },
+  {
+    "Key": "wotr-making-friends.eidolonproteansubtypefeature.name",
+    "zhCN": "幻蛇幻灵",
+    "enGB": "Protean Subtype"
+  },
+  {
+    "Key": "wotr-making-friends.eidolonpsychopompsubtypefeature.name",
+    "zhCN": "招魂者幻灵",
+    "enGB": "Psychopomp Subtype"
+  },
+  {
+    "Key": "wotr-making-friends.eidolonradiantsubtypefeature.name",
+    "zhCN": "辐光幻灵",
+    "enGB": "Radiant Subtype"
+  },
+  {
+    "Key": "wotr-making-friends.eidolonshadowsubtypefeature.name",
+    "zhCN": "阴影幻灵",
+    "enGB": "Shadow Subtype"
+  },
+  {
+    "Key": "wotr-making-friends.eidolonstorykinsubtypefeature.name",
+    "zhCN": "叙中人幻灵",
+    "enGB": "Storykin Subtype"
+  },
+  {
+    "Key": "wotr-making-friends.eidolontwinnedsubtypefeature.name",
+    "zhCN": "双子幻灵",
+    "enGB": "Twinned Subtype"
+  },
+  {
+    "Key": "wotr-making-friends.eidolonvoidsubtypefeature.name",
+    "zhCN": "虚体幻灵",
+    "enGB": "Void Subtype"
+  },
+  {
+    "Key": "wotr-making-friends.eidolonrankfeature.name",
+    "zhCN": "幻灵等级",
+    "enGB": "Eidolon Rank"
+  },
+  {
+    "Key": "wotr-making-friends.eidolonrankfeature.description",
+    "zhCN": "幻灵等级",
+    "enGB": "Eidolon Rank"
+  },
+  {
+    "Key": "wotr-making-friends.addevolutionpointsfeature.name",
+    "zhCN": "增加进化点",
+    "enGB": "Add Evolution Points"
+  },
+  {
+    "Key": "wotr-making-friends.addevolutionpointsfeature.description",
+    "zhCN": "增加进化点",
+    "enGB": "Add Evolution Points"
+  },
+  {
+    "Key": "wotr-making-friends.extraevolutionpoolfeature.name",
+    "zhCN": "额外进化点",
+    "enGB": "Extra Evolution Pool"
+  },
+  {
+    "Key": "wotr-making-friends.extraevolutionpoolfeature.description",
+    "zhCN": "你幻灵的进化池增加1点。",
+    "enGB": "The eidolon gains an extra point in its evolution pool."
+  },
+  {
+    "Key": "wotr-making-friends.eidolonaddabilityconsumefearfeature.name",
+    "zhCN": "吞噬恐惧",
+    "enGB": "Consume Fear"
+  },
+  {
+    "Key": "wotr-making-friends.eidolonaddabilityconsumefearfeature.description",
+    "zhCN": "这个幻灵获得随意施放吞噬恐惧的能力。你让目标看起来更加恐怖，可以以恐惧为食。目标在进行恐吓说服检定时获得与你的施法者等级相等的额外加值。每轮开始，目标在30英尺半径内每有一个处于颤栗或惊惧的敌人就会被治疗1点生命值。当施法时，目标周围10英尺内的每个敌人都必须进行意志豁免检定，否则将受到1d4回合的惊惧。",
+    "enGB": "The eidolon gains the ability to cast Consume Fear at will.\n You make the target appear more intimidating, while making it possible to feed on fear. The target gains a bonus on Persuasion checks made to intimidate equal to your caster level. Every round the target is healed for 1 hp for every shaken or frightened enemy in 30 feet radius.\nWhen the spell is cast, every enemy in 10 feet around the target must make a Will saving throw or be frightened for 1d4 rounds."
+  },
+  {
+    "Key": "wotr-making-friends.eidolonancestorbonusfeatfeature.name",
+    "zhCN": "属性提升",
+    "enGB": "Increase Stat"
+  },
+  {
+    "Key": "wotr-making-friends.eidolonancestorbonusfeatfeature.description",
+    "zhCN": "幻灵任一项属性+2",
+    "enGB": "The eidolon gains a choice of increase a single stat by 2."
+  },
+  {
+    "Key": "wotr-making-friends.eidolonaddabilitydivinetrothfeature.name",
+    "zhCN": "神圣忠诚",
+    "enGB": "Divine Troth"
+  },
+  {
+    "Key": "wotr-making-friends.eidolonaddabilitydivinetrothfeature.description",
+    "zhCN": "幻灵获得神圣忠诚与勇气防御能力。",
+    "enGB": "The eidolon gains the Divine Troth and Courageous Defense feats."
+  },
+  {
+    "Key": "wotr-making-friends.eidolonaddabilityincoporealfeature.name",
+    "zhCN": "虚体形态",
+    "enGB": "Incoporeal Form"
+  },
+  {
+    "Key": "wotr-making-friends.eidolonaddabilityincoporealfeature.description",
+    "zhCN": "幻灵获得能够变为虚体的能力。幻灵进行攻击将会移除虚体状态。",
+    "enGB": "The eidolon gains the ability to become incoporeal. Attacking breaks this effect."
+  },
+  {
+    "Key": "wotr-making-friends.eidolonaddabilityunnervinggazefeature.name",
+    "zhCN": " 不安凝视",
+    "enGB": "Unnerving Gaze"
+  },
+  {
+    "Key": "wotr-making-friends.eidolonaddabilityunnervinggazefeature.description",
+    "zhCN": "链魔幻灵获得不安凝视能力，影响那些观察他的人。和典型的凝视武器不同，链魔幻灵的不安凝视每回合只能影响一个生物，链魔可以在自己的回合中使用一个自由动作决定凝视的目标。不安凝视有30尺的距离，并且可以被成功的意志豁免无效。豁免失败的生物会因为链魔的可怕异变而恶心一轮。",
+    "enGB": "A kyton eidolon gains an unnerving gaze that manipulates the perceptions of those who look upon it. Unlike typical gaze weapons, a kyton eidolon’s unnerving gaze can affect only one creature per round when the kyton directs its gaze at the target on its turn as a free action. An unnerving gaze has a range of 30 feet, and can be negated by a successful Will save. Any creature that fails the save becomes sickened by the kyton’s grisly modifications for 1 round."
+  },
+  {
+    "Key": "wotr-making-friends.eidolonaddabilityunnervinggazeareafeature.name",
+    "zhCN": "进阶不安凝视",
+    "enGB": "Improved Unnerving Gaze"
+  },
+  {
+    "Key": "wotr-making-friends.eidolonaddabilityunnervinggazeareafeature.description",
+    "zhCN": "每轮链魔幻灵可以选择15尺内另一个目标受他的凝视影响",
+    "enGB": "A kyton eidolon's gaze will now chain to one other target in 15 feet."
+  },
+  {
+    "Key": "wotr-making-friends.eidolonaddabilityunnervinggazeareastaggerfeature.name",
+    "zhCN": "恍惚不安凝视",
+    "enGB": "Staggering Unnerving Gaze"
+  },
+  {
+    "Key": "wotr-making-friends.eidolonaddabilityunnervinggazeareastaggerfeature.description",
+    "zhCN": "链魔幻灵的不安凝视能力现在会让目标恍惚一轮，并且每轮链魔幻灵可以自由动作选择3个目标受他的凝视影响",
+    "enGB": "A kyton eidolon's gaze can stagger a target for one round and chain to two other targets within 15 feet."
+  },
+  {
+    "Key": "wotr-making-friends.eidolonaddfeaturelayonhandsfeature.name",
+    "zhCN": "圣疗",
+    "enGB": "Lay On Hands"
+  },
+  {
+    "Key": "wotr-making-friends.eidolonaddfeaturelayonhandsfeature.description",
+    "zhCN": "幻灵获得圣疗能力，每天可以使用3次，并且使用幻灵等级替代圣武士等级。",
+    "enGB": "The eidolon gains the ability to Lay on Hands up to three times per day. This scales with the eidolon's level instead of paladin levels.'"
+  },
+  {
+    "Key": "wotr-making-friends.eidolonaddspellbanefeature.name",
+    "zhCN": "绝望术",
+    "enGB": "Bane"
+  },
+  {
+    "Key": "wotr-making-friends.eidolonaddspellbanefeature.description",
+    "zhCN": "幻灵获得绝望术能力，每天可以使用3次",
+    "enGB": "The eidolon gains the ability to cast Bane three times per day."
+  },
+  {
+    "Key": "wotr-making-friends.eidolonaddspellblinkfeature.name",
+    "zhCN": "闪现术",
+    "enGB": "Blink"
+  },
+  {
+    "Key": "wotr-making-friends.eidolonaddspellblinkfeature.description",
+    "zhCN": "幻灵获得闪现术能力，并且能够以自由动作施放。",
+    "enGB": "The eidolon gains the ability to cast Blink at-will as a free action."
+  },
+  {
+    "Key": "wotr-making-friends.eidolonaddspellblurfeature.name",
+    "zhCN": "朦胧术",
+    "enGB": "Blur"
+  },
+  {
+    "Key": "wotr-making-friends.eidolonaddspellblurfeature.description",
+    "zhCN": "幻灵获得朦胧术能力，并且能够以自由动作施放。",
+    "enGB": "The eidolon gains the ability to cast Blur at-will as a free action."
+  },
+  {
+    "Key": "wotr-making-friends.eidolonaddspellbreathoflifefeature.name",
+    "zhCN": "生命之息",
+    "enGB": "Breath Of Life"
+  },
+  {
+    "Key": "wotr-making-friends.eidolonaddspellbreathoflifefeature.description",
+    "zhCN": "幻灵获得生命之息能力，每天可以使用3次",
+    "enGB": "The eidolon gains the ability to cast Breath Of Life three times per day."
+  },
+  {
+    "Key": "wotr-making-friends.eidolonaddspellcrushingdespairfeature.name",
+    "zhCN": "极度绝望",
+    "enGB": "Crushing Despair"
+  },
+  {
+    "Key": "wotr-making-friends.eidolonaddspellcrushingdespairfeature.description",
+    "zhCN": "情感制衡者能够释放极度绝望与意气风发，它每天能够施放二者总计三次。",
+    "enGB": "An Emotion Aeon eidolon can cast either Crushing Despair or Good Hope three times per day, they share the amount per day."
+  },
+  {
+    "Key": "wotr-making-friends.eidolonaeonselectionfeaturefeature.name",
+    "zhCN": "制衡者形态",
+    "enGB": "Aeon Type"
+  },
+  {
+    "Key": "wotr-making-friends.eidolonaeonselectionfeaturefeature.description",
+    "zhCN": "制衡者幻灵能选择成为时间制衡者或情感制衡者。时间制衡者可以每天施放加速术和缓慢术总计每天三次，情感制衡者能够施放极度绝望与意气风发每天三次。",
+    "enGB": "An Aeon eidolon can either become a Time Aeon, which gives them the ability to cast Haste and Slow three times per day. Or an Emotion Aeon which gives them the ability to cast Good Hope and Crushing Despair three times per day."
+  },
+  {
+    "Key": "wotr-making-friends.eidolonaddspellcureseriouswoundsfeature.name",
+    "zhCN": "治疗重伤",
+    "enGB": "Cure Serious Wounds"
+  },
+  {
+    "Key": "wotr-making-friends.eidolonaddspellcureseriouswoundsfeature.description",
+    "zhCN": "你的幻灵能够施放治疗重伤每天三次。法术效果取决于幻灵等级。",
+    "enGB": "Your Eidolon can cast Cure Serious Wounds up to three times per day. This scales with the Eidolon's level."
+  },
+  {
+    "Key": "wotr-making-friends.eidolonaddspelldimensiondoorfeature.name",
+    "zhCN": "任意门",
+    "enGB": "Dimension Door"
+  },
+  {
+    "Key": "wotr-making-friends.eidolonaddspelldimensiondoorfeature.description",
+    "zhCN": "幻灵能够随意施放任意门。",
+    "enGB": "The Eidolon can cast Dimension Door at-will."
+  },
+  {
+    "Key": "wotr-making-friends.eidolonaddspellgoodhopefeature.name",
+    "zhCN": "意义风发",
+    "enGB": "Good Hope"
+  },
+  {
+    "Key": "wotr-making-friends.eidolonaddspellgoodhopefeature.description",
+    "zhCN": "情感制衡者能够施放极度绝望与意气风发每天三次。",
+    "enGB": "An Emotion Aeon eidolon can cast either Crushing Despair or Good Hope three times per day, they share the amount per day."
+  },
+  {
+    "Key": "wotr-making-friends.eidolonaddspellhastefeature.name",
+    "zhCN": "加速术",
+    "enGB": "Haste"
+  },
+  {
+    "Key": "wotr-making-friends.eidolonaddspellhastefeature.description",
+    "zhCN": "时间制衡者可以每天施放加速术和缓慢术总计每天三次。",
+    "enGB": "A Time Aeon eidolon can cast either Haste or Slow three times per day, they share the amount per day."
+  },
+  {
+    "Key": "wotr-making-friends.eidolonfeatureaddspellholyaurafeature.name",
+    "zhCN": "圣洁灵光",
+    "enGB": "Holy Aura"
+  },
+  {
+    "Key": "wotr-making-friends.eidolonfeatureaddspellholyaurafeature.description",
+    "zhCN": "幻灵能够随意施放圣洁灵光。",
+    "enGB": "The Eidolon can cast Holy Aura at-will."
+  },
+  {
+    "Key": "wotr-making-friends.eidolonaddspellinvisibilityfeature.name",
+    "zhCN": "隐形术",
+    "enGB": "Invisibility"
+  },
+  {
+    "Key": "wotr-making-friends.eidolonaddspellinvisibilityfeature.description",
+    "zhCN": "幻灵能够以自由动作随意施放隐形术。",
+    "enGB": "The eidolon can cast Invisbility at-will as a free action."
+  },
+  {
+    "Key": "wotr-making-friends.eidolonaddspellslowfeature.name",
+    "zhCN": "缓慢术",
+    "enGB": "Slow"
+  },
+  {
+    "Key": "wotr-making-friends.eidolonaddspellslowfeature.description",
+    "zhCN": "时间制衡者可以每天施放加速术和缓慢术总计每天三次。",
+    "enGB": "A Time Aeon eidolon can cast either Haste or Slow three times per day, they share the amount per day."
+  },
+  {
+    "Key": "wotr-making-friends.eidolonaddspelltrueseeingfeature.name",
+    "zhCN": "真知术",
+    "enGB": "True Seeing"
+  },
+  {
+    "Key": "wotr-making-friends.eidolonaddspelltrueseeingfeature.description",
+    "zhCN": "幻灵能够以自由动作随意施放真知术。",
+    "enGB": "The eidolon can cast True Seeing at-will as a free action."
+  },
+  {
+    "Key": "wotr-making-friends.eidolonaddspelltruestrikefeature.name",
+    "zhCN": "克敌机先",
+    "enGB": "True Strike"
+  },
+  {
+    "Key": "wotr-making-friends.eidolonaddspelltruestrikefeature.description",
+    "zhCN": "幻灵能够以一个迅捷动作施放克敌机先，它每天能够施放三次。",
+    "enGB": "The Eidolon can cast True Strike as a swift action three times per day."
+  },
+  {
+    "Key": "wotr-making-friends.eidolonaeonemotionsfeaturefeature.name",
+    "zhCN": "情感",
+    "enGB": "Emotions"
+  },
+  {
+    "Key": "wotr-making-friends.eidolonaeonemotionsfeaturefeature.description",
+    "zhCN": "情感制衡者能够释放极度绝望与意气风发，它每天能够施放二者总计三次。",
+    "enGB": "An Emotion Aeon eidolon can cast either Crushing Despair or Good Hope three times per day, they share the amount per day."
+  },
+  {
+    "Key": "wotr-making-friends.eidolonaeontimefeaturefeature.name",
+    "zhCN": "时间",
+    "enGB": "Time"
+  },
+  {
+    "Key": "wotr-making-friends.eidolonaeontimefeaturefeature.description",
+    "zhCN": "时间制衡者可以每天施放加速术和缓慢术总计每天三次，情感制衡者能够施放极度绝望与意气风发每天三次。",
+    "enGB": "A Time Aeon eidolon can cast either Haste or Slow three times per day, they share the amount per day."
+  },
+  {
+    "Key": "wotr-making-friends.eidolonaugmentsummoningmasterfeature.name",
+    "zhCN": "增强召唤",
+    "enGB": "Augment Summoning"
+  },
+  {
+    "Key": "wotr-making-friends.eidolonaugmentsummoningmasterfeature.description",
+    "zhCN": "幻灵给予它的主人增强召唤作为奖励专长。",
+    "enGB": "The eidolon gives its master the Augment Summoning feat."
+  },
+  {
+    "Key": "wotr-making-friends.eidolonascendantsummonsmasterfeature.name",
+    "zhCN": "卓越召唤",
+    "enGB": "Ascendant Summons"
+  },
+  {
+    "Key": "wotr-making-friends.eidolonascendantsummonsmasterfeature.description",
+    "zhCN": "幻灵给予它的主人增强召唤作为奖励专长。",
+    "enGB": "The eidolon gives its master the Augment Summoning feat."
+  },
+  {
+    "Key": "wotr-making-friends.eidolonaddbreathoflifespellfeature.name",
+    "zhCN": "生命之息",
+    "enGB": "Breath Of Life"
+  },
+  {
+    "Key": "wotr-making-friends.eidolonaddbreathoflifespellfeature.description",
+    "zhCN": "为幻灵增加生命之息能力。",
+    "enGB": "Adds Breath of Life to the eidolon."
+  },
+  {
+    "Key": "wotr-making-friends.eidolondr10adamantinefeature.name",
+    "zhCN": "DR10/精金",
+    "enGB": "DR10/Adamantine"
+  },
+  {
+    "Key": "wotr-making-friends.eidolondr10adamantinefeature.description",
+    "zhCN": "幻灵获得DR10/精金。",
+    "enGB": "The eidolon gains DR10/Adamantine"
+  },
+  {
+    "Key": "wotr-making-friends.eidolondr10evilfeature.name",
+    "zhCN": "DR10/邪恶",
+    "enGB": "DR10/Evil"
+  },
+  {
+    "Key": "wotr-making-friends.eidolondr10evilfeature.description",
+    "zhCN": "幻灵获得DR10/邪恶。",
+    "enGB": "The eidolon gains DR10/Evil"
+  },
+  {
+    "Key": "wotr-making-friends.eidolondr10magicfeature.name",
+    "zhCN": "DR10/魔法",
+    "enGB": "DR10/Magic"
+  },
+  {
+    "Key": "wotr-making-friends.eidolondr10magicfeature.description",
+    "zhCN": "幻灵获得DR10/魔法。",
+    "enGB": "The eidolon gains DR10/Magic"
+  },
+  {
+    "Key": "wotr-making-friends.eidolondr5feature.name",
+    "zhCN": "DR5/-",
+    "enGB": "DR5/-"
+  },
+  {
+    "Key": "wotr-making-friends.eidolondr5feature.description",
+    "zhCN": "幻灵获得DR5/-",
+    "enGB": "The eidolon gains DR5/-"
+  },
+  {
+    "Key": "wotr-making-friends.eidolondr5adamantinefeature.name",
+    "zhCN": "DR5/精金",
+    "enGB": "DR5/Adamantine"
+  },
+  {
+    "Key": "wotr-making-friends.eidolondr5adamantinefeature.description",
+    "zhCN": "幻灵获得DR5/精金。",
+    "enGB": "The Eidolon gains DR5/Adamantine"
+  },
+  {
+    "Key": "wotr-making-friends.eidolondr5chaoticfeature.name",
+    "zhCN": "DR5/混乱",
+    "enGB": "DR5/Chaotic"
+  },
+  {
+    "Key": "wotr-making-friends.eidolondr5chaoticfeature.description",
+    "zhCN": "幻灵获得DR5/混乱。",
+    "enGB": "The Eidolon gains DR5/Chaotic"
+  },
+  {
+    "Key": "wotr-making-friends.eidolondr5lawfulfeature.name",
+    "zhCN": "DR5/守序",
+    "enGB": "DR5/Lawful"
+  },
+  {
+    "Key": "wotr-making-friends.eidolondr5lawfulfeature.description",
+    "zhCN": "幻灵获得DR5/守序。",
+    "enGB": "The Eidolon gains DR5/Lawful"
+  },
+  {
+    "Key": "wotr-making-friends.eidolondr5evilfeature.name",
+    "zhCN": "DR/5邪恶",
+    "enGB": "DR5/Evil"
+  },
+  {
+    "Key": "wotr-making-friends.eidolondr5evilfeature.description",
+    "zhCN": "幻灵获得DR5/邪恶。",
+    "enGB": "The Eidolon gains DR5/Evil"
+  },
+  {
+    "Key": "wotr-making-friends.eidolondr5goodfeature.name",
+    "zhCN": "DR5/善良",
+    "enGB": "DR5/Good"
+  },
+  {
+    "Key": "wotr-making-friends.eidolondr5goodfeature.description",
+    "zhCN": "幻灵获得DR5/善良。",
+    "enGB": "The Eidolon gains DR5/Good"
+  },
+  {
+    "Key": "wotr-making-friends.eidolondr5magicfeature.name",
+    "zhCN": "DR5/魔法",
+    "enGB": "DR5/Magic"
+  },
+  {
+    "Key": "wotr-making-friends.eidolondr5magicfeature.description",
+    "zhCN": "幻灵获得DR5/魔法。",
+    "enGB": "The Eidolon gains DR5/Magic"
+  },
+  {
+    "Key": "wotr-making-friends.eidolondr5slashingfeature.name",
+    "zhCN": "DR5/挥砍",
+    "enGB": "DR5/Slashing"
+  },
+  {
+    "Key": "wotr-making-friends.eidolondr5slashingfeature.description",
+    "zhCN": "幻灵获得DR5/挥砍。",
+    "enGB": "The Eidolon gains DR5/Slashing"
+  },
+  {
+    "Key": "wotr-making-friends.eidolonenergydrainbitefeature.name",
+    "zhCN": "能量吸取",
+    "enGB": "Energy Drain"
+  },
+  {
+    "Key": "wotr-making-friends.eidolonenergydrainbitefeature.description",
+    "zhCN": "幻灵每次耿工的攻击都会造成一个负向等级。",
+    "enGB": "The eidolon will drain 1 level per hit."
+  },
+  {
+    "Key": "wotr-making-friends.eidolonfeaturefreedomofmovementfeature.name",
+    "zhCN": "行动自如",
+    "enGB": "Freedom Of Movement"
+  },
+  {
+    "Key": "wotr-making-friends.eidolonfeaturefreedomofmovementfeature.description",
+    "zhCN": "幻灵现在永久获得行动自如状态。",
+    "enGB": "The eidolon is now affected by Freedom of Movement permanently"
+  },
+  {
+    "Key": "wotr-making-friends.eidolonfrightfulpresencefeature.name",
+    "zhCN": "气势凶猛",
+    "enGB": "Frightful Presence"
+  },
+  {
+    "Key": "wotr-making-friends.eidolonfrightfulpresencefeature.description",
+    "zhCN": "幻灵使得它的敌人心绪不宁，获得气势凶猛能力。幻灵能够启动此能力作为攻击动作的一部分，例如冲锋或攻击。在幻灵30尺内的敌人必须进行意志豁免，失败则陷入战栗状态1d4轮。",
+    "enGB": "The eidolon emits an aura that emanates 30 feet from them. Enemy creatures within the aura are shaken. Each time a creature shaken by this aura hits you with a melee attack, that creature becomes frightened for 1d4 rounds, though at the end of that duration it is no longer affected by this aura. The aura's effect is a fear and mind-affecting effect."
+  },
+  {
+    "Key": "wotr-making-friends.eidolonghosttouchfeature.name",
+    "zhCN": "幽冥武器",
+    "enGB": "Ghost Touch"
+  },
+  {
+    "Key": "wotr-making-friends.eidolonghosttouchfeature.description",
+    "zhCN": "幽冥武器能正常伤害虚体生物，且无视其加值。虚体生物受到实体魔法武器伤害时有50%的伤害减免，但在受到幽冥武器的攻击时无效。",
+    "enGB": "A ghost touch weapon deals damage normally against incorporeal creatures, regardless of its bonus. An incorporeal creature's 50% reduction in damage from corporeal sources does not apply to attacks made against it with ghost touch weapons."
+  },
+  {
+    "Key": "wotr-making-friends.eidolonimmunityabilitydamagefeature.name",
+    "zhCN": "属性伤害免疫",
+    "enGB": "Ability Damage Immunity"
+  },
+  {
+    "Key": "wotr-making-friends.eidolonimmunityabilitydamagefeature.description",
+    "zhCN": "幻灵免疫属性伤害。",
+    "enGB": "The eidolon is immune to Ability Damage"
+  },
+  {
+    "Key": "wotr-making-friends.eidolonimmunitybleedfeature.name",
+    "zhCN": "流血免疫",
+    "enGB": "Bleed Immunity"
+  },
+  {
+    "Key": "wotr-making-friends.eidolonimmunitybleedfeature.description",
+    "zhCN": "幻灵免疫流血效果。",
+    "enGB": "The eidolon is immune to Bleed"
+  },
+  {
+    "Key": "wotr-making-friends.eidolonimmunitydeathfeature.name",
+    "zhCN": "即死免疫",
+    "enGB": "Death Effect Immunity"
+  },
+  {
+    "Key": "wotr-making-friends.eidolonimmunitydeathfeature.description",
+    "zhCN": "幻灵免疫死亡效果。",
+    "enGB": "The eidolon is immune to Death effects"
+  },
+  {
+    "Key": "wotr-making-friends.eidolonimmunitydiseasefeature.name",
+    "zhCN": "疾病免疫",
+    "enGB": "Disease Immunity"
+  },
+  {
+    "Key": "wotr-making-friends.eidolonimmunitydiseasefeature.description",
+    "zhCN": "幻灵免疫疾病效果。",
+    "enGB": "The eidolon is immune to Disease"
+  },
+  {
+    "Key": "wotr-making-friends.eidolonimmunityenergydrainfeature.name",
+    "zhCN": "能量吸取免疫",
+    "enGB": "Energy Drain Immunity"
+  },
+  {
+    "Key": "wotr-making-friends.eidolonimmunityenergydrainfeature.description",
+    "zhCN": "幻灵免疫能量吸取。",
+    "enGB": "The eidolon is immune to Energy Drain"
+  },
+  {
+    "Key": "wotr-making-friends.eidolonimmunityfortitudesavefeature.name",
+    "zhCN": "强韧豁免免疫",
+    "enGB": "Fortitude Save Immunity"
+  },
+  {
+    "Key": "wotr-making-friends.eidolonimmunityfortitudesavefeature.description",
+    "zhCN": "幻灵总是在强韧豁免检定中投出20.",
+    "enGB": "The eidolon will always roll 20 on all fortitude saves"
+  },
+  {
+    "Key": "wotr-making-friends.eidolonimmunitymindfeature.name",
+    "zhCN": "影响心灵免疫",
+    "enGB": "Mind Effects Immunity"
+  },
+  {
+    "Key": "wotr-making-friends.eidolonimmunitymindfeature.description",
+    "zhCN": "幻灵免疫影响心灵效果。",
+    "enGB": "The eidolon is immune to Mind effects"
+  },
+  {
+    "Key": "wotr-making-friends.eidolonimmunityparalysisfeature.name",
+    "zhCN": "麻痹免疫",
+    "enGB": "Paralysis Immunity"
+  },
+  {
+    "Key": "wotr-making-friends.eidolonimmunityparalysisfeature.description",
+    "zhCN": "幻灵免疫麻痹效果。",
+    "enGB": "The eidolon is immune to Paralysis"
+  },
+  {
+    "Key": "wotr-making-friends.eidolonimmunitypetrificationfeature.name",
+    "zhCN": "石化免疫",
+    "enGB": "Petrification Immunity"
+  },
+  {
+    "Key": "wotr-making-friends.eidolonimmunitypetrificationfeature.description",
+    "zhCN": "幻灵免疫石化效果。",
+    "enGB": "The eidolon is immune to Petrification"
+  },
+  {
+    "Key": "wotr-making-friends.eidolonimmunitypoisonfeature.name",
+    "zhCN": "毒素免疫",
+    "enGB": "Poison Immunity"
+  },
+  {
+    "Key": "wotr-making-friends.eidolonimmunitypoisonfeature.description",
+    "zhCN": "幻灵免疫毒素效果。",
+    "enGB": "The eidolon is immune to Poison"
+  },
+  {
+    "Key": "wotr-making-friends.eidolonimmunitypolymorphfeature.name",
+    "zhCN": "变形免疫",
+    "enGB": "Polymorph Immunity"
+  },
+  {
+    "Key": "wotr-making-friends.eidolonimmunitypolymorphfeature.description",
+    "zhCN": "幻灵免疫变形效果。",
+    "enGB": "The eidolon is immune to Polymorph effects"
+  },
+  {
+    "Key": "wotr-making-friends.eidolonimmunitysleepfeature.name",
+    "zhCN": "睡眠免疫",
+    "enGB": "Sleep Immunity"
+  },
+  {
+    "Key": "wotr-making-friends.eidolonimmunitysleepfeature.description",
+    "zhCN": "幻灵免疫睡眠效果。",
+    "enGB": "The eidolon is immune to Sleep effects"
+  },
+  {
+    "Key": "wotr-making-friends.eidolonimmunitystunfeature.name",
+    "zhCN": "震慑免疫",
+    "enGB": "Stun Immunity"
+  },
+  {
+    "Key": "wotr-making-friends.eidolonimmunitystunfeature.description",
+    "zhCN": "幻灵免疫震慑效果。",
+    "enGB": "The eidolon is immune to Stun"
+  },
+  {
+    "Key": "wotr-making-friends.eidolonimmunitycursefeature.name",
+    "zhCN": "诅咒免疫",
+    "enGB": "Curse Immunity"
+  },
+  {
+    "Key": "wotr-making-friends.eidolonimmunitycursefeature.description",
+    "zhCN": "幻灵免疫诅咒效果。",
+    "enGB": "The eidolon is immune to Curse effects"
+  },
+  {
+    "Key": "wotr-making-friends.eidolonelemental1feature.name",
+    "zhCN": "元素位面",
+    "enGB": "Elemental Plane"
+  },
+  {
+    "Key": "wotr-making-friends.eidolonelemental1feature.description",
+    "zhCN": "元素幻灵的基础进化取决于它所属于的元素类型。当召唤师初次召唤元素幻灵时，他必须从气、土、火和水这四种元素中选择其一。一旦做出选择便无法更改。幻灵根据自身的元素类型后述进化和能力。",
+    "enGB": "Choose which Elemental plane your Eidolon comes from, this determines their starting immunity and the bonus feat they get at level 20."
+  },
+  {
+    "Key": "wotr-making-friends.eidolonelemental8feature.name",
+    "zhCN": "元素之速",
+    "enGB": "Elemental Movement"
+  },
+  {
+    "Key": "wotr-making-friends.eidolonelemental8feature.description",
+    "zhCN": "幻灵的移动速度增加20尺。",
+    "enGB": "The eidolon gains 20 extra feet of movement."
+  },
+  {
+    "Key": "wotr-making-friends.eidolonelemental20feature.name",
+    "zhCN": "元素之躯",
+    "enGB": "Elemental Body"
+  },
+  {
+    "Key": "wotr-making-friends.eidolonelemental20feature.description",
+    "zhCN": "幻灵基于它的元素类型获得额外的能力。",
+    "enGB": "The eidolon gains abilities based on their elemental type."
+  },
+  {
+    "Key": "wotr-making-friends.eidolonmagelightfeature.name",
+    "zhCN": "光亮术",
+    "enGB": "Light"
+  },
+  {
+    "Key": "wotr-making-friends.eidolonmagelightfeature.description",
+    "zhCN": "幻灵能够随意施放光亮术。",
+    "enGB": "The eidolon can cast Light at-will."
+  },
+  {
+    "Key": "wotr-making-friends.eidolonmaximizehealingfeature.name",
+    "zhCN": "极效治疗",
+    "enGB": "Maximize Healing"
+  },
+  {
+    "Key": "wotr-making-friends.eidolonmaximizehealingfeature.description",
+    "zhCN": "幻灵施放的任何治疗法术均视为被添加了极效超魔。",
+    "enGB": "Whenever the eidolon uses a spell to heal, it is affected by the Maximize metamagic."
+  },
+  {
+    "Key": "wotr-making-friends.eidolonmoderatefortificationfeature.name",
+    "zhCN": "护命铠甲",
+    "enGB": "Moderate Fortification"
+  },
+  {
+    "Key": "wotr-making-friends.eidolonmoderatefortificationfeature.description",
+    "zhCN": "幻灵有50%的概率将重击或偷袭视为普通命中的攻击，就如同穿戴中级护命铠甲。",
+    "enGB": "The eidolon gains Moderate Fortification.\nWhen a critical hit or sneak attack is scored on the wearer, there is a chance that the critical hit or sneak attack is negated and damage is instead rolled normally. The chance is 25% for light fortification, 50% for moderate fortification, and 75% for heavy fortification."
+  },
+  {
+    "Key": "wotr-making-friends.eidolonresistance4cursesfeature.name",
+    "zhCN": "抵抗诅咒",
+    "enGB": "Resistance 4 Curse"
+  },
+  {
+    "Key": "wotr-making-friends.eidolonresistance4cursesfeature.description",
+    "zhCN": "幻灵在对抗诅咒效果时获得额外的+4豁免。",
+    "enGB": "The eidolon gains a +4 bonus to Curse saves"
+  },
+  {
+    "Key": "wotr-making-friends.eidolonresistance4deathfeature.name",
+    "zhCN": "抵抗死亡",
+    "enGB": "Resistance 4 Death"
+  },
+  {
+    "Key": "wotr-making-friends.eidolonresistance4deathfeature.description",
+    "zhCN": "幻灵在对抗死亡效果时获得额外的+4豁免。",
+    "enGB": "The eidolon gains a +4 bonus to Death saves"
+  },
+  {
+    "Key": "wotr-making-friends.eidolonresistance4diseasefeature.name",
+    "zhCN": "抵抗疾病",
+    "enGB": "Resistance 4 Disease"
+  },
+  {
+    "Key": "wotr-making-friends.eidolonresistance4diseasefeature.description",
+    "zhCN": "幻灵在对抗疾病效果时获得额外的+4豁免。",
+    "enGB": "The eidolon gains a +4 bonus to Disease saves"
+  },
+  {
+    "Key": "wotr-making-friends.eidolonresistance4paralysisfeature.name",
+    "zhCN": "抵抗麻痹",
+    "enGB": "Resistance 4 paralysis"
+  },
+  {
+    "Key": "wotr-making-friends.eidolonresistance4paralysisfeature.description",
+    "zhCN": "幻灵在对抗麻痹效果时获得额外的+4豁免。",
+    "enGB": "The eidolon gains a +4 bonus to paralysis saves"
+  },
+  {
+    "Key": "wotr-making-friends.eidolonresistance4poisonfeature.name",
+    "zhCN": "抵抗毒素",
+    "enGB": "Resistance 4 Poison"
+  },
+  {
+    "Key": "wotr-making-friends.eidolonresistance4poisonfeature.description",
+    "zhCN": "幻灵在对抗毒素效果时获得额外的+4豁免。",
+    "enGB": "The eidolon gains a +4 bonus to Poison saves"
+  },
+  {
+    "Key": "wotr-making-friends.eidolonresistance4mindfeature.name",
+    "zhCN": "抵抗心灵",
+    "enGB": "Resistance 4 Mind"
+  },
+  {
+    "Key": "wotr-making-friends.eidolonresistance4mindfeature.description",
+    "zhCN": "幻灵在对抗影响心灵效果时获得额外的+4豁免。",
+    "enGB": "The eidolon gains a +4 bonus to Mind affecting saves."
+  },
+  {
+    "Key": "wotr-making-friends.eidolonstorykinbonusfeatfeature.name",
+    "zhCN": "奖励专长",
+    "enGB": "Bonus Feat"
+  },
+  {
+    "Key": "wotr-making-friends.eidolonstorykinbonusfeatfeature.description",
+    "zhCN": "幻灵获得一个额外的奖励专长。",
+    "enGB": "The eidolon gains a selection of bonus feats."
+  },
+  {
+    "Key": "wotr-making-friends.eidolonsuperiorsummoningmasterfeature.name",
+    "zhCN": "高等召唤",
+    "enGB": "Superior Summoning"
+  },
+  {
+    "Key": "wotr-making-friends.eidolonsuperiorsummoningmasterfeature.description",
+    "zhCN": "召唤师获得高等召唤专长。",
+    "enGB": "The eidolon's master gains the Superior Summoning feat"
+  },
+  {
+    "Key": "wotr-making-friends.eidolonsubtypeselectionfeature.name",
+    "zhCN": "幻灵亚种",
+    "enGB": "Subtype"
+  },
+  {
+    "Key": "wotr-making-friends.eidolonsubtypeselectionfeature.description",
+    "zhCN": "幻灵的亚种决定了它的多项基础属性和能力。",
+    "enGB": "Depending on the body of the eidolon, they gain a subtype that gives them extra abilities."
+  },
+  {
+    "Key": "wotr-making-friends.eidolonbasefeatureselection.name",
+    "zhCN": "幻灵基本形态",
+    "enGB": "Eidolon Body Type"
+  },
+  {
+    "Key": "wotr-making-friends.eidolonbasefeatureselection.description",
+    "zhCN": "每个幻灵都有一种基本型态，用于决定免费的进化能力与可选亚种。",
+    "enGB": "Depending on the body type of an eidolon, they gain an addition of free evolutions and a selection of subtypes."
+  },
+  {
+    "Key": "wotr-making-friends.eidolonabberantbaseformselectionfeature.name",
+    "zhCN": "异怪",
+    "enGB": "Abberant"
+  },
+  {
+    "Key": "wotr-making-friends.eidolonabberantbaseformselectionfeature.description",
+    "zhCN": "起始数据（Starting Statistics）：体型 中型；速度 20尺，游泳20尺；AC +2天生护甲；豁免 强韧（高），反射（低），意志（高）；攻击 啮咬（1d6），触手（1d6）；属性 力量 12，敏捷 13，体质 16，智力 7，感知 10，魅力 11",
+    "enGB": "Starting Statistics: Size Medium; Speed: 20f ft.,swim 20 ft.; AC: +2 natural armor; Saves: Fort (good), Ref (poor), Will (good); Attack: bite (1d6), tentacles (1d6); Ability Scores: Str 12, Dex 13, Con 16, Int 7, Wis 10, Cha 11"
+  },
+  {
+    "Key": "wotr-making-friends.eidolonbipedbaseformselectionfeature.name",
+    "zhCN": "二足型",
+    "enGB": "Biped"
+  },
+  {
+    "Key": "wotr-making-friends.eidolonbipedbaseformselectionfeature.description",
+    "zhCN": "起始数据体型：中型；速度：30尺，AC：天生护甲+2；豁免：强韧（高），反射（低），意志（高），攻击：2爪抓（1d4）属性：力量16，敏捷12，体质13，智力7，感知10，魅力11",
+    "enGB": "Starting Statistics: Size Medium; Speed: 30 ft.; AC: +2 natural armor; Saves: Fort (good), Ref (poor), Will (good); Attack: 2 claws (1d4); Ability Scores: Str 16, Dex 12, Con 13, Int 7, Wis 10, Cha 11"
+  },
+  {
+    "Key": "wotr-making-friends.eidolonquadrupedbaseformselectionfeature.name",
+    "zhCN": "四足型",
+    "enGB": "Quadruped"
+  },
+  {
+    "Key": "wotr-making-friends.eidolonquadrupedbaseformselectionfeature.description",
+    "zhCN": "起始数据 体型：中型；速度：40尺 AC：天生护甲+2；豁免：强韧（高），反射（高），意志（低）攻击：啮咬（1d6）属性：力量14，敏捷14，体质13，智力7，感知10，魅力11",
+    "enGB": "Starting Statistics: Size Medium; Speed: 40 ft.; AC: +2 natural armor; Saves: Fort (good), Ref (good), Will (poor); Attack: bite (1d6); Ability Scores: Str 14, Dex 14, Con 13, Int 7, Wis 10, Cha 11"
+  },
+  {
+    "Key": "wotr-making-friends.eidolonserpentinebaseformselectionfeature.name",
+    "zhCN": "蛇身型",
+    "enGB": "Serpentine"
+  },
+  {
+    "Key": "wotr-making-friends.eidolonserpentinebaseformselectionfeature.description",
+    "zhCN": "起始数据 体型：中型；速度：20尺 AC：天生护甲+2；豁免：强韧（低），反射（高），意志（高） 攻击：啮咬（1d6），尾扫（1d6） 属性：力量12，敏捷16，体质13，智力7，感知10，魅力11",
+    "enGB": "Starting Statistics: Size Medium; Speed: 20 ft., climb 20 ft.; AC: +2 natural armor; Saves: Fort (poor), Ref (good), Will (good); Attack: bite (1d6), tail slap (1d6); Ability Scores: Str 12, Dex 16, Con 13, Int 7, Wis 10, Cha 11"
+  },
+  {
+    "Key": "wotr-making-friends.eidolonairelementalcompanionfeature.name",
+    "zhCN": "气元素",
+    "enGB": "Air Elemental"
+  },
+  {
+    "Key": "wotr-making-friends.eidolonairelementalcompanionfeature.description",
+    "zhCN": "气元素使用鲜活的空气制造出的快速的飞行生物。传统并有领地意识，与其讨厌被召唤或者凡人的命令，他们宁愿在气元素位面花时间在天空的尽头搞飞行竞赛。虽然气元素的形状都几乎一样，但是精细的外貌可以将气元素们区分开来。一个也许是由流动着的风和烟雾组成，另外一个是冒着烟的像鸟一样的生物长着深邃的眼睛和风做成的翅膀。一个气元素更喜欢攻击在天空中或者正在飞行的目标，不仅仅是因为天空熟悉给予它战斗上的优势，还因为它们讨厌接触地面。一个气元素可以在水下移动，并且它还是元素形态而没有溺水的危险，它没有游泳等级，所以在水中会损失大量移动力和机动性。",
+    "enGB": "Air elementals are fast, flying creatures made of living air. Primitive and territorial, they resent being summoned or doing the bidding of mortals, and much prefer to spend their time on the Plane of Air, swooping and racing through the endless skies.\nAlthough all air elementals of a similar size have identical statistics, the exact appearance of an air elemental can vary wildly between individuals. One might be an animated vortex of wind and smoke, while another might be a smoky bird-like creature with glowing eyes and wind for wings.\nAn air elemental prefers to attack flying or otherwise airbone targets, not only because its mastery over flight gives it a slight advantage, but also because it detests the thought of having to touch the ground. An air elemental can move underwater, and although it is an elemental and thus runs no risk of drowning, it has no ranks in Swim and loses much of its speed and mobility when underwater."
+  },
+  {
+    "Key": "wotr-making-friends.eidolonfireelementalcompanionfeature.name",
+    "zhCN": "火元素",
+    "enGB": "Fire Elemental"
+  },
+  {
+    "Key": "wotr-making-friends.eidolonfireelementalcompanionfeature.description",
+    "zhCN": "火元素是迅捷、残忍的活体火焰。他们乐于惊吓比自己弱小的生物，并且喜欢恐吓任何它们能纵火点着的生物。火元素无法进入水中或其他不易燃的液体中。水体对于火元素来说是无法逾越的障碍，除非火元素能跨过或跳过它，或者水面上复盖着一层易燃物质（例如一层油）。火元素的外观多变——它们通常卷曲成一道由烟雾和火焰组成的蛇形躯体，但是一些火元素也会呈现出接近于人类、恶魔或其他怪物的外观，这是为了使它突然出现时能造成更强烈的惊恐效果。火元素的容貌一般由深色火焰勾勒而出，点缀着一些亚稳态的烟雾、灰烬和碳渣。",
+    "enGB": "Fire elementals are quick, cruel creatures of living flame. They enjoy frightening beings weaker than themselves, and terrorizing any creature they can set on fire.\nA fire elemental cannot enter water or any other nonflammable liquid. A body of water is an impassible barrier unless the fire elemental can step or jump over it or the water is covered with a flammable material (such as a layer of oil).\nFire elementals vary in appearance—they usually manifest as coiling serpentine forms made of smoke and flame, but some fire elementals take on shapes more akin to humans, demons, or other monsters in order to increase the terror of their sudden appearance. Features on a fire elemental’s body are made by darker bits of flame or patches of semi-stable smoke, ash, and cinders."
+  },
+  {
+    "Key": "wotr-making-friends.eidolonwaterelementalcompanionfeature.name",
+    "zhCN": "水元素",
+    "enGB": "Water Elemental"
+  },
+  {
+    "Key": "wotr-making-friends.eidolonwaterelementalcompanionfeature.description",
+    "zhCN": "水元素是耐心、无情的生物，由活化的淡水和海水组成。它们喜欢潜伏然后把敌人拖进水里来获得优势。和其他元素一样，所有水元素都有自己独一无二的独特形状和外表。大多数的外貌看起来像是一个由浪花组成的生物，长着人形生物的面庞，身体两侧有小一点的浪花组成的“手臂”。另外一种常见的形态是任意水生生物，例如鲨鱼或章鱼，但是完全是由水构成的。",
+    "enGB": "Water elementals are patient, relentless creatures made of living fresh or salt water. They prefer to hide or drag their opponents into the water to gain an advantage.\nAs with other elementals, all water elementals have their own unique shapes and appearances. Most appear as wave-like creatures with vaguely humanoid faces and smaller wave “arms” to either side. Another common form is that of any aquatic creature, such as a shark or octopus, but made entirely out of water."
+  },
+  {
+    "Key": "wotr-making-friends.eidolonearthelementalcompanionfeature.name",
+    "zhCN": "土元素",
+    "enGB": "Earth Elemental"
+  },
+  {
+    "Key": "wotr-making-friends.eidolonearthelementalcompanionfeature.description",
+    "zhCN": "土元素是由岩石或者泥土制成沉重而顽固的生物。当他们完全静止不动时，他们看起来就像一堆石头或者一座小山丘。当一个土元素开始他缓慢的动作时，实际上他的动作还是可以做出一些变化，尽管他可能没有其他相应体型的元素生物行动灵敏。大多数土元素看起来都像是石质，泥土甚至是水晶制成的陆地动物，他们有着钻石般的眼睛。大体型的土元素往往有着一个石质的类人生物外形。少量植物会生长在土元素的身体的某些部位上。",
+    "enGB": "Earth elementals are plodding, stubborn creatures made of living stone or earth. When utterly still, they resemble a heap of stone or a small hill.\nWhen an earth elemental lumbers into action, its actual appearance can vary, although its statistics remain identical to other elementals of its size. Most earth elementals look like terrestrial animals made out of rock, earth, or even crystal, with glowing gemstones for eyes. Larger earth elementals often have a stony humanoid appearance. Bits of vegetation frequently grow in the soil that makes up parts of an earth elemental’s body."
+  },
+  {
+    "Key": "wotr-making-friends.eidolongolddragoncompanionfeature.name",
+    "zhCN": "金龙",
+    "enGB": "Gold Dragon"
+  },
+  {
+    "Key": "wotr-making-friends.eidolongolddragoncompanionfeature.description",
+    "zhCN": "金龙是美德的化身。其他金属龙敬畏他们的黄金同胞，视其为神圣力量的代言人和真龙的典范，常常向他们寻求建议或帮助。",
+    "enGB": "Gold dragons are the epitome of virtue. Other metallic dragons revere their gold cousins as the agents of divine forces and the paragons of dragonkind, and often seek them for advice or aid."
+  },
+  {
+    "Key": "wotr-making-friends.eidolonsilverdragoncompanionfeature.name",
+    "zhCN": "银龙",
+    "enGB": "Silver Dragon"
+  },
+  {
+    "Key": "wotr-making-friends.eidolonsilverdragoncompanionfeature.description",
+    "zhCN": "在所有的真龙中，银龙是最英勇无畏的一种；他们像骑士一样帮助弱者，打击邪恶，举止带着高贵的礼仪。",
+    "enGB": "Silver dragons are among the most chivalrous of all dragonkind; they wield frost and cold as weapons, can walk on clouds, and dwell high upon snowy mountain peaks or deep in steep, misty valleys. Although they typically make their lairs among the highlands, the pursuit of justice leads silver dragons to travel far and wide—often into the very heart of realms overrun by evil. These exemplars of righteousness are ceaseless in their determination to help the weak, spread honor, and stamp out evil."
+  },
+  {
+    "Key": "wotr-making-friends.eidolonbrassdragoncompanionfeature.name",
+    "zhCN": "黄铜龙",
+    "enGB": "Brass Dragon"
+  },
+  {
+    "Key": "wotr-making-friends.eidolonbrassdragoncompanionfeature.description",
+    "zhCN": "作为非凡的健谈者，黄铜龙喜好交谈更胜战斗。黄铜龙的巢穴往往靠近类人生物的居住地，令他们能够听到最快的消息和传闻。",
+    "enGB": "Brass dragons are whimsical tricksters who delight in humor and play. They particularly enjoy conversations with humans and other civilized humanoids, delighting in the naive customs of these diminutive races without showing them haughtiness or scorn. While they may seem merely curious, brass dragons engage in this sort of conversation with the goal of keeping up to date on regional politics so they can anticipate future conflicts. Along the way, they create extensive information networks that begin with their own allies but stretch across all levels of humanoid society—networks which the brass dragon then uses to subtly assist settlements near their lair. Unlike the schemes and manipulations of blue dragons, brass dragons use their informant networks to establish justice and equality."
+  },
+  {
+    "Key": "wotr-making-friends.eidoloncopperdragoncompanionfeature.name",
+    "zhCN": "赤铜龙",
+    "enGB": "Copper Dragon"
+  },
+  {
+    "Key": "wotr-making-friends.eidoloncopperdragoncompanionfeature.description",
+    "zhCN": "这种异想天开的巨龙在战斗中大多数时间都在试图干扰和妨碍敌人。",
+    "enGB": "Capricious and always eager to share a good laugh, copper dragons are among the wiliest of the metallic dragons, but this by no means interferes with their mission to spread freedom in oppressive lands. Copper dragons are hedonists who are quick to indulge in simple pleasures, but they're also sympathetic to other creatures, slow to pass judgment, and careful to always examine a situation from as many perspectives as possible. This philosophy has its drawbacks, however, as copper dragons are susceptible to negative influences and prone to forgiving the less serious evil acts performed by their chromatic cousins and other cruel creatures. Copper dragons also have a difficult time keeping their temper in check once they are roused to anger."
+  },
+  {
+    "Key": "wotr-making-friends.eidolontrollcompanionfeature.name",
+    "zhCN": "巨魔",
+    "enGB": "Troll"
+  },
+  {
+    "Key": "wotr-making-friends.eidolontrollcompanionfeature.description",
+    "zhCN": "这高大的生物拥有粗糙的绿皮身躯。它的手末端是尖爪，并且野兽般的脸孔上有两根可怕而尖锐的下牙。",
+    "enGB": "Trolls possess incredibly sharp claws and amazing regenerative powers, allowing them to recover from nearly any wound. They are stooped, fantastically ugly, and astonishingly strong—combined with their claws, their strength allows them to literally tear apart flesh to feed their voracious appetites. Trolls stand about 14 feet tall, but their hunched postures often make them appear shorter. An adult troll weighs around 1,000 pounds."
+  },
+  {
+    "Key": "wotr-making-friends.eidolonsuccubuscompanionfeature.name",
+    "zhCN": "魅魔",
+    "enGB": "Succubus"
+  },
+  {
+    "Key": "wotr-making-friends.eidolonsuccubuscompanionfeature.description",
+    "zhCN": "在一个恶魔群体中，一只魅魔能通过他的手段与肉欲魔力爬到一个难以置信的权力高位，并且一场又一场恶魔战争的施虐也要归功于这些生物的阴谋诡计。魅魔是由那些特别的淫邪与贪婪的凡人灵魂所构成的。",
+    "enGB": "Among the demon hordes, a succubus can often rise to incredible heights of power through her manipulations and sensual charms, and many a demonic war has raged due to the subtle machinations of such creatures. A succubus is formed from the souls of particularly lustful and rapacious evil mortals."
+  },
+  {
+    "Key": "wotr-making-friends.eidolonincubuscompanionfeature.name",
+    "zhCN": "梦魔",
+    "enGB": "Incubus"
+  },
+  {
+    "Key": "wotr-making-friends.eidolonincubuscompanionfeature.description",
+    "zhCN": "梦魔在他的真实形态中总是布满肌肉和充满吸引力的，长着长发和热情的双眼。他的皮肤可以是任何颜色，但是总是如丝般顺滑。当他不用翅膀飞行的时候，梦魔总是把它们收在背后，如同肩膀上披着的斗篷——许多装饰点缀着翅膀内外，像纹身、墨水或自残留下的伤痕。梦魔站立在6到6.5尺高，一般重200磅。",
+    "enGB": "An incubus in his true form is always muscular and attractive, with long hair and intense eyes. His skin can be of any color, but is always smooth and silky. When not using his wings for flight, an incubus can fold them to drape across its shoulders like a cloak—many decorate both the inside and outside of their wings with tattoos, ink, or self-inflicted scars. Incubi stand between 6 and 6-1/2 feet tall and typically weigh 200 pounds."
+  },
+  {
+    "Key": "wotr-making-friends.eidolonbabaucompanionfeature.name",
+    "zhCN": "巴布魔",
+    "enGB": "Babau"
+  },
+  {
+    "Key": "wotr-making-friends.eidolonbabaucompanionfeature.description",
+    "zhCN": "巴布魔有6尺高但是重量只有140磅。它们由凡人杀手孤独的灵魂所形成——他们生前更喜欢独自行动并且精于杀戮。巴布魔在主物质位面是松散的，它们通常扮演同样的角色，在世界上阴暗角落阴魂不散的无情的刺客。",
+    "enGB": "The babau is an assassin, a murderer, and a sadist—certainly not traits unusual in the demons, yet the babau’s penchant for stealth and surprise sets it apart from its generally less-subtle kin. With no need to eat (although most babaus relish the flavor of mortal meat on their thin, raspy tongues), a babau can wait in ambush for years or decades—their inhuman patience in anticipating a well-conceived murder also setting them apart from the other denizens of the Abyss. Babaus obsess over the act of killing and take great pride in their grisly art, often leaving behind some form of grim marker or obscure signature, whether it be a distinctive modus operandi, an unnerving token, or other profane evidence."
+  },
+  {
+    "Key": "wotr-making-friends.eidolonmarilithcompanionfeature.name",
+    "zhCN": "六臂蛇魔",
+    "enGB": "Marilith"
+  },
+  {
+    "Key": "wotr-making-friends.eidolonmarilithcompanionfeature.description",
+    "zhCN": "作为无底深渊中众多部落的首领和许多国家的王后，可怕的六臂蛇魔通常以教师、顾问或甚至爱人的身份服侍着恶魔领主，当然她们战术家般的才华让她们大多数寻求着将军或军队指挥者的职位。最强大的六臂蛇魔不为任何人服务，而是统御着贪婪的恶魔军团六臂蛇魔高6到9英尺，从头到尾尖大约20英尺。它重4000磅。只有最为傲慢自大和自负的邪恶灵魂，特别是像残暴的国王、暴虐的将军和特别暴力的军阀，他们的灵魂能被构建成六臂蛇魔。",
+    "enGB": "The leaders of Abyssal hordes and queens of Abyssal nations, the dreaded mariliths serve demon lords as governesses, advisors, and even lovers, yet their brilliance as tacticians makes them most sought after as generals and commanders of armies. The most powerful mariliths serve no one, and instead command ravenous fiendish legions."
+  },
+  {
+    "Key": "wotr-making-friends.eidolondretchcompanionfeature.name",
+    "zhCN": "怯魔",
+    "enGB": "Dretch"
+  },
+  {
+    "Key": "wotr-making-friends.eidolondretchcompanionfeature.description",
+    "zhCN": "即使是无底深渊最低等的恶魔也是危险的，它们充满了强烈的散布毁灭和沮丧的天性。低贱的怯魔丑恶且污秽，即使它缺乏力量和能力来实现它残忍对待其他本地生物的天性。大多数怯魔作为其他更强大恶魔的玩物存在，只有少数活得长的幸运儿能进化。怯魔站立有4尺高，180磅重。怯魔由懒惰的邪恶灵魂形成——尽管它们只需要一小块灵魂碎片就可以诞生。一个单独的灵魂常常以一小群怯魔的形式诞生，看见一大群刚刚诞生的怯魔从无底深渊中波涛起伏的源质中被拉出来确实是一件恶心和可怕的事情。",
+    "enGB": "Even the lowest demons of the Abyss are dangerous and filled with a driving need to spread ruin and dismay. The lowly dretch is as hideous and foul as it is cruel, even if it lacks the strength and power to realize its need to brutalize others in its native realm. The lot of the dretch’s existence is to serve more powerful demons as victims, and only the lucky few survive long enough to evolve."
+  },
+  {
+    "Key": "wotr-making-friends.eidolonbalorcompanionfeature.name",
+    "zhCN": "巴洛炎魔",
+    "enGB": "Balor"
+  },
+  {
+    "Key": "wotr-making-friends.eidolonbalorcompanionfeature.description",
+    "zhCN": "当民间流传着关于恶魔的传说时，大部分的描述都是“火焰和肉体组成的巨大的身躯、装备着长剑和鞭子的有角的噩梦、在夜空中飞过以寻找它的下一个受害者”。这种民间所恐惧的恶魔就是巴洛炎魔，并且这种恐惧名列前茅，因为几乎没有哪种恶魔能在力量和残暴上与巴洛炎魔比肩。",
+    "enGB": "When folk whisper frightened tales of the demonic, what most envision is a towering figure of fire and flesh, a horned nightmare armed with flaming whip and sword flying through the night in search of its latest victim. The demon these folk fear is the balor, and that fear is justly placed, for few demons can match the mighty balor in strength or brutality."
+  },
+  {
+    "Key": "wotr-making-friends.eidolonschircompanionfeature.name",
+    "zhCN": "希尔魔",
+    "enGB": "Schir"
+  },
+  {
+    "Key": "wotr-making-friends.eidolonschircompanionfeature.description",
+    "zhCN": "希尔魔看上去是一个肌肉发达的、高大的人型生物，长着恶魔般的羊头和羊蹄。参差不齐的兽皮复盖着希尔魔身体，通常环绕着前臂和小腿，以及从头顶到颈后的背脊。希尔魔高7尺，因为他们经常弯腰驼背因此看起来更矮一些，重达300磅。",
+    "enGB": "A schir resembles a tall, muscular humanoid with the head and hooves of a demonic goat. A ragged hide covers patches of a schir’s body, usually around the forearms and lower legs, with a crestlike patch running down from the creature’s crown to the nape of its neck. Schir demons are 7 feet tall, though they usually stoop and so appear shorter, and weigh 300 pounds."
+  },
+  {
+    "Key": "wotr-making-friends.eidoloncoloxuscompanionfeature.name",
+    "zhCN": "蝇魔",
+    "enGB": "Coloxus"
+  },
+  {
+    "Key": "wotr-making-friends.eidoloncoloxuscompanionfeature.description",
+    "zhCN": "蝇魔，又称为“苍蝇魔”，看起来像一个人类长着苍蝇脑袋并且带着一双轻薄的翅膀。甚至他们细微的动作和手势看上去都像是带着魔法般的迅捷和机敏。蝇魔喜欢穿着富丽的服装和珠宝，甚至可以和任何种族中最富有的贵族比肩。蝇魔高6尺，重150磅。",
+    "enGB": "Coloxus demons, known also as fly demons, resemble humans with the head of a fly and twin pairs of gossamer wings. Even their smallest movements and gestures seem infused with manic quickness and alertness. A coloxus prefers to wear opulent clothing and jewels that would rival the wealthiest nobility of any race. A coloxus is 6 feet tall and weighs 150 pounds."
+  },
+  {
+    "Key": "wotr-making-friends.eidolonglabrezucompanionfeature.name",
+    "zhCN": "迷诱魔",
+    "enGB": "Glabrezu"
+  },
+  {
+    "Key": "wotr-making-friends.eidolonglabrezucompanionfeature.description",
+    "zhCN": "与使用诡计挑起凡人的情欲和欲望使其堕落的魅魔不同，迷诱魔是另一种类的引诱者。虽然外表上充满凶猛的兽性，其实迷诱魔是欺骗和谎言的大师。迷诱魔通过幻象能力来掩盖它的真实面目，它使用魔法来满足凡人的愿望，通过这种方法来奖赏那些屈从于它谎言和诡计的人。迷诱魔经常通过最具暴力和破坏性的方式来满足许愿者的愿望——虽然这种方式可能不会立刻产生效果。一个努力奋斗的武器匠也许会许愿让他的手艺名扬天下，到头来它会发现他最好的作品被残暴的凶手当做武器去大肆破坏；孤独的人也许会许愿让自己得到一个伴侣，到头来他会失去爱情并且变成吸血鬼，诸如此类。所以迷诱魔并不会真正地实现凡人的愿望。",
+    "enGB": "Whereas the succubus is a demon that works her wiles by exploiting the physical lusts and needs of her prey, the glabrezu is a tempter of a different sort. Ferocious and bestial in form, the glabrezu is in fact a master of trickery and lies. With its ability to cloak its true form in pleasant illusions, the glabrezu uses its magic to grant wishes to mortal humanoids as a method of rewarding those who succumb to its guile and deceit. A wish granted by a glabrezu always fulfills the wisher’s need in the most destructive way possible—although such methods might not be immediately apparent. A struggling weaponsmith might wish for fame and skill at his craft, only to find that his best patron is a cruel and sadistic murderer who uses the weapons to further his destructive desires. A lonely man who wishes for a companion might have his wish granted in the form of a lost love returned to “life” as a vampire, and so on—the glabrezu is nothing if not creative in addressing a mortal’s desires."
+  },
+  {
+    "Key": "wotr-making-friends.eidolonvrockcompanionfeature.name",
+    "zhCN": "鹫魔",
+    "enGB": "Vrock"
+  },
+  {
+    "Key": "wotr-making-friends.eidolonvrockcompanionfeature.description",
+    "zhCN": "作为无底深渊里亵渎的捍卫者，鹫魔体现出了这个卑鄙的国度里所有的愤怒、仇恨和暴力。和食腐动物一样贪婪、奇异且投机，鹫魔从流血中获得愉悦，享受从活物体内扯出内脏时的声音和感觉。",
+    "enGB": "When the gates to the Abyss swing wide, the first demons through are often vrocks, vulture-headed scions of rage who wheel through the air on black wings or dance with the exultation of their fiendish power. Their hatred for mortals is matched only by their desire to inflict suffering through their horrible screech or their devastating dance. Vrocks form from the souls of hateful mortals who are thus given another chance to inflict their rage on the world."
+  },
+  {
+    "Key": "wotr-making-friends.eidolonpainajicompanionfeature.name",
+    "zhCN": "帕纳贾",
+    "enGB": "Painaji"
+  },
+  {
+    "Key": "wotr-making-friends.eidolonpainajicompanionfeature.description",
+    "zhCN": "拉马什图创造了帕纳贾恶魔，以萦绕在凡人的梦境中，观看他们的噩梦，并追捕孤独的乌努贾·阿扎塔斯（见第9页）。尽管painajais的人数远远超过uinujas，但恶魔们无法合作，使他们无法在永恒的斗争中占据上风。这些恶魔还会不分青红皂白地攻击任何穿越他们道路的人，包括梦幻旅行者和其他痛苦的人，只有拥有压倒性力量的监督者才能阻止他们这样做。痛苦的人说话时声音低沉而有共鸣，似乎会擦伤掉在上面的任何耳朵。他们强迫性地磨牙，有时是故意让对手感到不安，甚至可能咀嚼脸颊内侧，产生血腥肮脏的泡沫。",
+    "enGB": "Lamashtu created the painajai demons to haunt mortal dreams and watch their nightmares, as well as to hunt lone uinuja azatas (see page 9). Though painajais far outnumber uinujas, the demons’ inability to cooperate keeps them from gaining the upper hand in their eternal struggle. These demons also indiscriminately attack anyone crossing their path, including dream travelers and other painajais, and only an overseer of overwhelming strength can prevent them from doing so. Painajais speak in a throaty and resonating voice that seems to abrade any ear upon which it falls. They grind their sharp teeth compulsively, sometimes on purpose to unnerve their opponents, and may even chew on the insides of their cheeks to produce a bloody, filthy froth."
+  },
+  {
+    "Key": "wotr-making-friends.eidolonbrimorakcompanionfeature.name",
+    "zhCN": "火灾魔",
+    "enGB": "Brimorak"
+  },
+  {
+    "Key": "wotr-making-friends.eidolonbrimorakcompanionfeature.description",
+    "zhCN": " 和它们守序阵营的同行，九层地狱的魔鬼以腐化和扭曲凡人的价值观并将他们慢慢转化为地狱邪恶的倒影不同，无底深渊的恶魔只为一个理由而存在——毁灭。摧残，吞噬，消灭，恶魔吸引着有着相同品位的凡人灵魂加入它们的行列并时刻准备着湮灭多元宇宙的一切善意和希望。相对来说，凡人的死亡并非恶魔的助力，因为死去的凡人不但无法满足恶魔制造痛苦的嗜好，反而会逃脱人间的苦难获得新的存在形式。恶魔寄生于凡物产生的痛苦而存在，有罪之人则会最终落入地狱成为新一代的恶魔。
+",
+    "enGB": "Demons exist for one reason—to destroy. Where their more lawful counterparts, the devils of Hell, seek to twist mortal minds and values to remake and reshape them into reflections of their own evil, demons seek only to maim, ruin, and feed. They recruit mortal life only if such cohorts speed along the eventual destruction of hope and goodness. Death is, in some ways, their enemy—for a mortal who dies can often escape a demon's depredations and flee to his just reward in the afterlife. It is the prolonging of mortal pain and suffering that fuels a demon's lusts and desires, for it is partially from mortal sin and cruelty that these monstrous fiends were born."
+  },
+  {
+    "Key": "wotr-making-friends.eidolonlilitucompanionfeature.name",
+    "zhCN": "莉莉图",
+    "enGB": "Lilitu"
+  },
+  {
+    "Key": "wotr-making-friends.eidolonlilitucompanionfeature.description",
+    "zhCN": "莉莉图是极其危险又隐蔽的恐怖存在，在不断寻求摧毁和毁灭的过程中潜移默化的工作。尽管大多数恶魔喜欢撕裂和摧毁，但是莉莉图更像是魅魔-她更喜欢以人形花的形式进行工作，以内部罪恶感染社会。莉莉图除了引导凡人进行各种形式的罪恶形式外，别无其他享受，当凡人的希望毁灭时，其灵魂将成为深渊的燃料。尽管与魅魔有一些外表上的相似之处，但莉莉图并不仅仅关注欲望的罪恶。莉莉图诱使凡人犯下的罪恶确切性质各不相同，因为这些恶魔善于阅读凡人的欲望和秘密。可以迅速找出可以说服特定目标执行的罪恶。",
+    "enGB": "Lilitus are subversive and hidden horrors, demons who work subtly in their constant quest to destroy and devastate. Whereas most demons prefer to rend and destroy, the lilitu is more akin to the succubus—she prefers to do her work in humanoid form to infect society with sin from within. Lilitus enjoy few things more than leading mortals into all manner of sinful acts, in the hope that when the mortal perishes, its soul will fuel the Abyss. Despite some superficial similarities to succubi, lilitus are not solely concerned with the sin of lust. The exact nature of sin that a lilitu tempts a mortal into committing varies, for these demons are adept at reading mortal desires and secrets, quickly discerning which sins a specific target can be convinced to perform."
+  },
+  {
+    "Key": "wotr-making-friends.eidolonvavakiacompanionfeature.name",
+    "zhCN": "威加魔",
+    "enGB": "Vavakia"
+  },
+  {
+    "Key": "wotr-making-friends.eidolonvavakiacompanionfeature.description",
+    "zhCN": "  威加魔是具有强大力量的巨大恶魔。比巨蜥有过之而无不及的身材、胃口和破坏力。它们最常出现在主物质位面，而且这些恶魔不像其他恶魔一样受人召唤而来，而是作为暴虐的侵略者们透过人们的眼泪或者从通向更深裂隙之处现身。在主物质位面，威加魔是一个可怕的存在，这奇异的恶魔被驱使着吞食着还活着的灵魂，并散播着它们的破坏。",
+    "enGB": "Vavakias are immense demons of great power. Saurian in shape, appetite, and destructive power, they are most often encountered on the Material Plane, though not as demons conjured by spellcasters to serve, but rather as violent invaders come to the world through tears in reality or portals to the deeper rifts. On the Material Plane, a single vavakia is a formidable presence, for the strange demon is driven to feed on living souls and spread destruction— roles at which it excels."
+  },
+  {
+    "Key": "wotr-making-friends.eidolonbythoscompanionfeature.name",
+    "zhCN": "时空御衡者",
+    "enGB": "Bythos"
+  },
+  {
+    "Key": "wotr-making-friends.eidolonbythoscompanionfeature.description",
+    "zhCN": "在大部分情况下，时空御衡者以搜索滥用空间旅行能力者为主要工作，包括那些撕裂现实与异界壁障进行空间跳跃的生物，或者过于频繁的使用异界传送能力的生物。多数时候时空御衡者是无暇顾及较小的空间失衡发生的，但是如果被它找上了哪里的时空状况不对劲，一个时空御衡者，甚至是一个三人审判团就会尽快赶去执行评估损失和“修复”工作——主要是“修理”造成这一情况的罪魁祸首，不过除了暴力解决以外，用永恒静滞能力囚禁这个生物也是通常的选择。",
+    "enGB": "The bythos is a guardian of space and time, and at all times seeks out those who misuse planar and temporal magic. A bythos is a roughly humanoid creature with four arms and a body made of swirling clouds and mist. Despite its appearance, its body feels like dry stone. A bythos seeks out paradoxes caused by irresponsible planar or dimensional travelers and repairs breaches where the barriers between planes have become thin or damaged. If the mortals responsible remain in the area and cannot be convinced to cease their activities, the bythos has no qualms about removing them. Using its ability to manipulate time, a bythos might cause an opponent to quickly die of old age as time speeds up around them, or cause a target to disappear from time and space."
+  },
+  {
+    "Key": "wotr-making-friends.eidolonaxiomitemasccompanionfeature.name",
+    "zhCN": "奇匠族",
+    "enGB": "Axiomite"
+  },
+  {
+    "Key": "wotr-making-friends.eidolonaxiomitemasccompanionfeature.description",
+    "zhCN": "生活在秩序位面的远古而庞大的都市中,奇匠族维持着对于秩序力量根本的不懈探索.在奇匠族的历史中,它们诞生于众神出现之前,为秩序世界的根基所化——原始的材质与自我意识的具象结合产生了这个种族。而更晚成形的奇匠族则是在灵魂——和上层界与低层界生物类似的灵魂，与一块诸位面间的晶屑攒成的石体合铸成的，它们确保了这个生物对秩序的专一侍奉。
+",
+    "enGB": "Stewards of ancient, colossal cities on lawful planes, axiomites represent the fundamental search for order. According to their own history, the first axiomites sprang from the raw mathematical underpinnings of the cosmos long before the first gods began to stir—they are personifications of a primordial reality made flesh in an attempt to understand itself. New axiomites are formed from souls much like celestials or fiends, with spirits drawn across the planes to one of the axiomites’ humming crystal monoliths, emerging later as purified creatures of law and theory."
+  },
+  {
+    "Key": "wotr-making-friends.eidolongolemwoodcompanionfeature.name",
+    "zhCN": "木魔像",
+    "enGB": "Golem, Wood"
+  },
+  {
+    "Key": "wotr-making-friends.eidolongolemwoodcompanionfeature.description",
+    "zhCN": "魔像是一种具有强大力量的、用魔法制造的机器生物。它们和其他构装体有很大不同的地方在于它们有富有生气的力量——魔像从元素灵魂中获得魔法生命，通常那会是一个土元素。创建魔像的过程会把那灵魂绑在人造的躯体上，它会和这个特别准备的容器相融合，并且服从于创造者的意志。",
+    "enGB": "Golems are magically created automatons of great power. They stand apart from other constructs in the nature of their animating force—golems are granted their magical life via an elemental spirit, typically that of an earth elemental. The process of creating a golem binds the spirit to the artificial body, merging it with this specially prepared vessel and subjecting it to the will of the golem's creator."
+  },
+  {
+    "Key": "wotr-making-friends.eidolongolemironcompanionfeature.name",
+    "zhCN": "铁魔像",
+    "enGB": "Golem, Iron"
+  },
+  {
+    "Key": "wotr-making-friends.eidolongolemironcompanionfeature.description",
+    "zhCN": "魔像是一种具有强大力量的、用魔法制造的机器生物。它们和其他构装体有很大不同的地方在于它们有富有生气的力量——魔像从元素灵魂中获得魔法生命，通常那会是一个土元素。创建魔像的过程会把那灵魂绑在人造的躯体上，它会和这个特别准备的容器相融合，并且服从于创造者的意志。",
+    "enGB": "Golems are magically created automatons of great power. They stand apart from other constructs in the nature of their animating force—golems are granted their magical life via an elemental spirit, typically that of an earth elemental. The process of creating a golem binds the spirit to the artificial body, merging it with this specially prepared vessel and subjecting it to the will of the golem's creator."
+  },
+  {
+    "Key": "wotr-making-friends.eidolonastraldevacompanionfeature.name",
+    "zhCN": "星界神使",
+    "enGB": "Astral Deva"
+  },
+  {
+    "Key": "wotr-making-friends.eidolonastraldevacompanionfeature.description",
+    "zhCN": "星界神使听命于善良阵营的神祗。他们监督位面旅行者并且给有能力的凡人提供帮助以引导他们往善良的方向前进。一个标准的星界神使看起来就像一个人类，除了那对羽翼，不过也有一些长得像其他类人种族而且极少部分甚至长有不寻常的外表。一个星界神使有7.5尺高，250磅重。",
+    "enGB": "Astral devas are messengers of the gods of good. They watch over planar travelers and sponsor powerful mortals, pushing them to take on good causes. A typical astral deva looks human except for its wings, though some look like other humanoid races and a rare few have even more unusual forms. An astral deva is 7-1/2 feet tall and weighs 250 pounds."
+  },
+  {
+    "Key": "wotr-making-friends.eidolonmonadicdevacompanionfeature.name",
+    "zhCN": "元素使徒",
+    "enGB": "Monadic Deva"
+  },
+  {
+    "Key": "wotr-making-friends.eidolonmonadicdevacompanionfeature.description",
+    "zhCN": "元素使徒是以太界和元素界庄严的守护者。他们巡视这些位面搜索魔族的巢穴，跟邪恶的位面怪物如锡尔族(Xill)战斗，也是天界在灯神和元素间的联络官。他们斡旋于交战的元素势力之间缔结停火协定，用自身的魔力阻止交战行为足够长，使得交涉成为可能。在善良位面的军队中他们是领袖与军官，服务某个神祗数个世纪后他们可能变身为星界使徒。",
+    "enGB": "Monadic devas are stoic watchers of the Ethereal Plane and the Elemental Planes. They search those planes for fiendish enclaves, battle evil planar monsters such as xills, and act as celestial liaisons to the genies and elementals. They have been known to broker temporary peace between warring elemental factions, often using their inherent magic to end hostilities long enough for negotiations to take place. In the armies of the good planes, they are leaders and officers, and after centuries of service to a deity, they may be transformed into astral devas.,"
+  },
+  {
+    "Key": "wotr-making-friends.eidolonmovanicdevacompanionfeature.name",
+    "zhCN": "元素使徒",
+    "enGB": "Movanic Deva"
+  },
+  {
+    "Key": "wotr-making-friends.eidolonmovanicdevacompanionfeature.description",
+    "zhCN": "元素使徒是以太界和元素界庄严的守护者。他们巡视这些位面搜索魔族的巢穴，跟邪恶的位面怪物如锡尔族(Xill)战斗，也是天界在灯神和元素间的联络官。他们斡旋于交战的元素势力之间缔结停火协定，用自身的魔力阻止交战行为足够长，使得交涉成为可能。在善良位面的军队中他们是领袖与军官，服务某个神祗数个世纪后他们可能变身为星界使徒。",
+    "enGB": "Movanic devas are stewards of the flow of good creatures' souls through the cycle of life and death, from the point a creature is born to the day it dies. These angels arise from the souls of stalwart nurturers and protectors, and share a specific connection with a creature's vital essence—its life force. Movanic devas are most concerned with guiding and protecting good creatures during their mortal lives, so once a soul has passed into the River of Souls, the movanic deva leaves its protection to the soul angels, or monadic devas. As part of their stewardship over good creatures, movanic devas can waken within animals a level of sapience to allow them to become kindly and benevolent as well, thus increasing the flow of goodness into the afterlife. They also spend time patrolling the Positive Energy Plane and Negative Energy Plane, seeking to contain significant threats to life."
+  },
+  {
+    "Key": "wotr-making-friends.eidolonlillendcompanionfeature.name",
+    "zhCN": "翼蛇人",
+    "enGB": "Lillend"
+  },
+  {
+    "Key": "wotr-making-friends.eidolonlillendcompanionfeature.description",
+    "zhCN": "在爱塔神族中，翼蛇人是说书人和历史记载者，收集知识并用传奇诗歌的方式将其记录。她们是和平的一族，但是当珍惜的艺术品或天才的艺术家受到威胁时会快速行动。翼蛇人的下半身有20尺长，标准体重3800磅。",
+    "enGB": "Among the azatas, lillends are the tale-tellers and chroniclers, gathering lore and recording stories in the form of epic poems and songs. They are generally peaceful, though they are swift to act if they believe a piece of rare art or a talented artist is threatened. A lillend’s lower section is about 20 feet long, and a typical lillend weighs 3,800 pounds."
+  },
+  {
+    "Key": "wotr-making-friends.eidolonbralanicompanionfeature.name",
+    "zhCN": "巴拉尼天使",
+    "enGB": "Bralani"
+  },
+  {
+    "Key": "wotr-making-friends.eidolonbralanicompanionfeature.description",
+    "zhCN": "巴拉尼天使是爱塔神族中最勇猛狂野的成员，总是活在当下，寻找验证自己战斗能力的机会。除了他们精灵似的外表，他们也能化身为沙，尘或雪的旋风。在凡人眼中他们经常被误认为灯神。他们在恶劣天气中自得其乐，不是因为它所带来的毁灭，而是因为其激烈而充满能量。很多传说提到巴拉尼天使迎着最猛烈的风暴放声大笑",
+    "enGB": "Bralanis are among the fiercest and wildest of the azatas, living from moment to moment and always on the lookout for chances to test their skill in battle. In addition to their elf-like forms, they can take the shape of whirlwinds of dust, snow, or sand. In the mortal realm, they are often mistaken for djinn. They delight in violent weather, not for the destructive qualities of such events, but for the intensity and energy, and many tales describe bralani as spirits who laugh as they sail amid the strongest storms."
+  },
+  {
+    "Key": "wotr-making-friends.eidolonveranalliacompanionfeature.name",
+    "zhCN": "圣藤神使",
+    "enGB": "Veranallia"
+  },
+  {
+    "Key": "wotr-making-friends.eidolonveranalliacompanionfeature.description",
+    "zhCN": "美丽而壮观，女王般的圣藤神使的身体是妖精般的女性和自然之力的组合。圣藤神使上半身是人型，而本该是腿的地方则由无数藤蔓，枝叶和植物组织代替。这些植被代表了植物全年的生命周期，不停的在勃发的翠绿与萧瑟的枯灰间往复交替。",
+    "enGB": "Beautiful and majestic, the queenly veranallia has a form that combines aspects of a beautiful woman and the subtle power of nature. A veranallia appears humanoid from the waist up, but where her thighs and legs should be, she instead sprouts countless vines, leaves, and various kinds of plant matter. These flora represent the life of plants throughout all stages of the year, continually shifting from blooming, verdant colors and textures to crisp, withered specimens and back in a matter of seconds."
+  },
+  {
+    "Key": "wotr-making-friends.eidolonyinudjacompanionfeature.name",
+    "zhCN": "夜游螟",
+    "enGB": "Uinuja"
+  },
+  {
+    "Key": "wotr-making-friends.eidolonyinudjacompanionfeature.description",
+    "zhCN": "夜游螟诞生于极乐境里那些由愉悦的梦境所组成的位面能量中,这些灵使观察并研究着凡人的梦境。她们通常生活在共享的心像结界里。这些结界通常是一个有着高高的石质尖顶的小岛,最顶上有着以深蓝色丝绸所组成的茧。整个结界都沐浴在月光下。",
+    "enGB": "Born in Elysium from planar energies charged by pleasant dreams, these azatas watch over and study dreaming mortal minds. Uinujas live in collective mindscapes, which are often moonlit islands where rock spires rise to great heights, topped by large cocoons of dark blue silk."
+  },
+  {
+    "Key": "wotr-making-friends.eidolontreantcompanionfeature.name",
+    "zhCN": "树人",
+    "enGB": "Treant"
+  },
+  {
+    "Key": "wotr-making-friends.eidolontreantcompanionfeature.description",
+    "zhCN": "  树人是森林的守护者，树木的代言人。如同森林一般长寿，并自视为父母和牧者而非园丁，树人做事总是迟缓而有条理，但为守护丛林而战时非常恐怖。虽然他们很少与短命的族群为伴，对改变也不太信任，它们依然容忍那些愿意从自己冗长模糊的长篇大论中学习的人，尤其是当对方愿意守卫荒野时。对于危害森林的人，尤其是砍伐树木来兴建堡垒或城镇的伐木工，树人的愤怒迅速又具毁灭性。他们尤其擅长摧毁建筑物，一种非常契合愤怒树人的特技。",
+    "enGB": "Treants are guardians of the forest and speakers for the trees. As long-lived as the forests themselves, and seeing themselves as parents and shepherds rather than gardeners, treants are slow and methodical in most things but terrifying when forced to fight in defense of their flock. Though they rarely seek out the companionship of the short-lived races, and have an inherent distrust of change, they have been known to tolerate those who seek to learn from their long, rambling monologues, especially if the pupils express a desire to help protect the wildlands. Yet against those who would threaten the forest, especially loggers who seek to harvest wood for lumber or those who try to clearcut a section of forest in order to build a fort or establish a town, the treants’ wrath is swift and devastating. They are particularly gifted at tearing down what others build—a trait that serves angry treants well."
+  },
+  {
+    "Key": "wotr-making-friends.eidolonerinyescompanionfeature.name",
+    "zhCN": "欲魔",
+    "enGB": "Erinyes"
+  },
+  {
+    "Key": "wotr-making-friends.eidolonerinyescompanionfeature.description",
+    "zhCN": "以许多名讳为人所知——堕天使、灰烬之翼以及复仇女神——这类被称做欲魔的魔鬼，藉复仇暴行与血腥正义的强索之举嘲弄着诸天界军士的外型。欲魔是刽子手而非法官，她们飞落在迪斯——地狱都市般的第二层——的刀锋屋簷边上，不断注意著投入战斗的机会，无论那机会是来自于保卫地狱，还是魔鬼主人一时的起心动念，又或者是因被抛弃的凡人召唤者充满情感的召唤。所有的欲魔都会用自己的头发编出一条致命的活化绳，在战斗中将敌人拽到空中，在她们把受害者从高空中丢下来前嘲弄一番，并宣判他们的罪行。
+",
+    "enGB": "Known by many names—the Fallen, the Ash Wings, and the Furies—the devils called erinyes mock the form of the angelic hosts in their exaction of vengeance and bloody justice. Executioners, not judges, erinyes alight upon the bladed eaves of Dis, Hell’s cosmopolitan second layer, ever attentive for chances to soar into battle, whether in defense of Hell, on the whims of diabolical masters, or at the impassioned summons of jilted mortal summoners. All erinyes weave deadly living ropes from their own hair, which they use in battle to lift their foes into the air, mocking and condemning their victims for their transgressions before dropping them from great heights."
+  },
+  {
+    "Key": "wotr-making-friends.eidolondeathsnatchercompanionfeature.name",
+    "zhCN": "死亡掠夺者",
+    "enGB": "Deathsnatcher"
+  },
+  {
+    "Key": "wotr-making-friends.eidolondeathsnatchercompanionfeature.description",
+    "zhCN": "死亡掠夺者栖身在堕落文明的废墟之中，在那里扮演着被不死生物奴隶们崇拜的神祗的身份。虽然是自吹自擂，但众所周知，死亡掠夺者崇拜着黑暗、沙漠以及各种不死的恶魔领主，并声称自己是他们的后裔。
+",
+    "enGB": "Deathsnatchers dwell amid the ruins of fallen civilizations, where they play at being godlings worshiped by undead slaves. Though self-aggrandizing, deathsnatchers are known to give homage to (and claim descent from) the various demon lords of darkness, the desert, and undeath."
+  },
+  {
+    "Key": "wotr-making-friends.eidolonspiritcompanionfeature.name",
+    "zhCN": "魂魄",
+    "enGB": "Spirit"
+  },
+  {
+    "Key": "wotr-making-friends.eidolonspiritcompanionfeature.description",
+    "zhCN": "魂魄是由其精神本质来定义生存时间的生物。它们通常缺乏物质形态。",
+    "enGB": "A spirit is part of a broad classification creatures that are comprised of ephemeral spiritual essence, often without a corporeal form."
+  },
+  {
+    "Key": "wotr-making-friends.eidolonshadecompanionfeature.name",
+    "zhCN": "阴魂",
+    "enGB": "Shade"
+  },
+  {
+    "Key": "wotr-making-friends.eidolonshadecompanionfeature.description",
+    "zhCN": "被称为阴魂的神秘不死生物潜伏在黑暗的地方，以那些偏离光明太远的人为食。那些与阴魂进行谈判的人，通常是用发光的武器来阻止他们，他们可能会学到伟大的秘密，因为他们是理想的间谍。",
+    "enGB": "The mysterious undead known as shadows lurk in dark places and feed on those who stray too far from the light. Those who parley with shadows, typically by keeping them at bay with a glowing weapon, may learn great secrets, for they are ideal spies."
+  },
+  {
+    "Key": "wotr-making-friends.eidolonkeketarcompanionfeature.name",
+    "zhCN": "科科塔尔",
+    "enGB": "Keketar"
+  },
+  {
+    "Key": "wotr-making-friends.eidolonkeketarcompanionfeature.description",
+    "zhCN": "科科塔尔属于幻蛇中统治阶级的种姓，他们策划了对秩序壁垒（bastions of law）的袭击，并能自信地且率性裁决幻蛇间的争端。科科塔尔从外观来看是一只闪耀的蛇形生物，生有尖刺、爪子和龙类样子的头颅。科科塔尔的实际外形在不断地变化，但通常会维持大约18尺长，体重保持在大概1500磅重。尽管实体形态会发生变化，但科科塔尔有两件事是不会改变的：首先，科科塔尔的眼睛总是敏锐的渐变琥珀色或紫色。第二，科科塔尔的阶级标志——头顶上徘徊着的皇冠形徽记——从不会改变。科科塔尔无法摘掉他的皇冠，但可以短暂压制它，不过大多数科科塔尔都不愿意这么做，因为他们将此行为视为一种懦弱或耻辱的象征。
+",
+    "enGB": "The ruling caste of the proteans, keketars orchestrate attacks against the bastions of law and adjudicate protean disputes confidently and capriciously. A keketar resembles a shimmering, serpentine creature with spines, claws, and a dragon-like head. A keketar’s actual appearance is in constant flux, but they generally stay about 18 feet long with a weight of around 1,500 pounds. While their physical forms can vary, two things remain constant: First, a keketar’s eyes are always a piercing shade of amber or violet. Second, the keketar’s mark of office—a crown of shifting symbols that hovers above its head—never changes. A keketar cannot remove its crown but can suppress it, although most are loath to do so and consider such an act one of cowardice or shame."
+  },
+  {
+    "Key": "wotr-making-friends.eidoloncraglinnormcompanionfeature.name",
+    "zhCN": "峭壁蛇龙",
+    "enGB": "Crag Linnorm"
+  },
+  {
+    "Key": "wotr-making-friends.eidoloncraglinnormcompanionfeature.description",
+    "zhCN": "蛇龙是居住在世界北方，狡诈的原始龙类，牠们对其眼中的低等动物充满了厌恶之情，而且总是想方设法在牠们不幸的受害者身上施加更多折磨。典型的蛇龙天生有着无餍的贪婪和骇人的贪食，牠们的洞穴里到处都是大堆大堆丢弃的骨头和四散的财宝，而他们还能把周遭搞得比这更惨。谢天谢地，很少有生物像蛇龙这么鲁莽而残暴。",
+    "enGB": "Treacherous primeval dragons of the northern regions of the world, linnorms thrive on their hatred for those they deem to be lesser creatures and seek to inflict as much suffering as possible unto their unfortunate victims. Sweeping bones and treasures alike into giant piles in its lair, the typical linnorm has a barbaric nature made all the worse by its insatiable greed and atrocious gluttony. Few creatures are as bold and as cruel as linnorms, and for that most people are thankful."
+  },
+  {
+    "Key": "wotr-making-friends.eidolonreddragoncompanionfeature.name",
+    "zhCN": "红龙",
+    "enGB": "Red Dragon"
+  },
+  {
+    "Key": "wotr-making-friends.eidolonreddragoncompanionfeature.description",
+    "zhCN": "无论是体型还是力量，红龙在彩色龙中都是最为出类拔萃的。它们威胁着所有的文明，而能与其力量相匹敌的也就只有它们的傲慢了。红龙将自己视为所有龙种的领袖和霸主。在它们眼里这绝非是傲慢和夸耀，而是毋庸置疑的真实，头顶上的赤红棘冠和领命而动的烈焰猛火就是最好的证明。
+",
+    "enGB": "The largest and most powerful of the chromatic dragons, red dragons are a menace to civilizations everywhere, and their strength is rivaled only by their arrogance. Red dragons see themselves as regents and overlords of all dragonkind. With their crowns of crimson spikes and their command of blistering frame, this is no haughty boast in their eyes—only unquestioned fact."
+  },
+  {
+    "Key": "wotr-making-friends.eidolongreendragoncompanionfeature.name",
+    "zhCN": "绿龙",
+    "enGB": "Green Dragon"
+  },
+  {
+    "Key": "wotr-making-friends.eidolongreendragoncompanionfeature.description",
+    "zhCN": "绿龙是彩色龙中最为喜好沉思的，同样也是最为平易近人的那一类。理解绿龙的关键是要先理解它们对于知识和自律的执著。只要能够小心谨慎地利用绿龙的执迷，任何一场遭遇都可能以外交的方式收场，然而只要有一丁点的过失或怠慢都可能会将交涉变为一场暴虐的袭击。与绝大多数的彩色龙一样，绿龙无法忍受任何蠢货，只是它们对于“不蠢”的要求着实是太高了一些。
+",
+    "enGB": "Green dragons are the most contemplative of the chromatic dragons as well as the most approachable. The key to understanding green dragons is to understand their obsession with knowledge and self-discipline. Any careful approach that takes advantage of a green dragon’s fixations may end in a diplomatic outcome, but any misstep or slight can provoke a savage attack. Like most chromatic dragons, green dragons do not suffer fools—and the threshold for what they consider foolish is very low."
+  },
+  {
+    "Key": "wotr-making-friends.eidolonwhitedragoncompanionfeature.name",
+    "zhCN": "白龙",
+    "enGB": "White Dragon"
+  },
+  {
+    "Key": "wotr-making-friends.eidolonwhitedragoncompanionfeature.description",
+    "zhCN": "在彩色龙中，白龙是最为野蛮和愚笨的，它们的凶残和掠夺成性只是一种自我保护。在几乎所有龙类的眼中，白龙的粗莽和愚钝都已经达到了无可救药的地步，然而这并不会影响它们成为可怖的威胁。想要和白龙互相交流几乎是一件不可能的任务，这并非是因为它们缺乏交流能力，仅仅只是它们根本就不在乎。白龙有多么难以应对，就有多么易怒，几乎任何一件事情都能够将它们激怒。威胁、讽刺、胡言乱语，白龙的言语往往都是一场攻击的序幕，随之而来的便是那血腥无情的暴虐。
+",
+    "enGB": "The most feral and least intelligent of all the chromatic dragons, white dragons are brutish, predatory, and chiefly motivated by self-preservation. Nearly all other dragons look down on white dragons as hopelessly hotheaded and dull, though this does not make them any less dangerous—in fact, it may mean the opposite. It’s nearly impossible to treat with white dragons, not because they lack the capacity to do so, but because they just don’t care to. They are as difficult to deal with as they are quick to anger, and they become incensed at almost anything. When a white dragon does speak, it spews threats, inane jokes, and incoherent babbling as a prelude to attacking—and when the attack comes, it’s bloody and relentless."
+  },
+  {
+    "Key": "wotr-making-friends.eidolonblackdragoncompanionfeature.name",
+    "zhCN": "黑龙",
+    "enGB": "Black Dragon"
+  },
+  {
+    "Key": "wotr-making-friends.eidolonblackdragoncompanionfeature.description",
+    "zhCN": "　身为君临于沼地的暴君，黑龙以它们炽热的激情震慑着属于它们的国度。依靠着迅雷般的掠袭和恶毒的诡计，这些以施虐为乐的暴君自幽暗的洞窟或是沼泽的孤岛之中统治着属于它们的腐臭王国。它们对于其他生物的憎恶就像它们吐息的酸液那般强烈，除非是为了交配或是暂时合作来消灭共同的敌人，它们甚至无法容忍其他的龙类出现在它们的王国之中。
+",
+    "enGB": "Murderous tyrants of marshes, swamps, bogs, and fens, black dragons terrorize their domains with intense fervor. Gleefully sadistic, they rule their fetid principalities from a deep cave or otherwise isolated part of the swamp with a mix of lightning-quick raids and subterfuge. Their hatred for other creatures is as acidic as their breath weapons, and they rarely tolerate even other dragons of their kind—except perhaps to mate or temporarily collaborate to take down a mutual enemy."
+  },
+  {
+    "Key": "wotr-making-friends.eidolonbluedragoncompanionfeature.name",
+    "zhCN": "蓝龙",
+    "enGB": "Blue Dragon"
+  },
+  {
+    "Key": "wotr-making-friends.eidolonbluedragoncompanionfeature.description",
+    "zhCN": "在彩色龙之中，四海为家的蓝龙处事最为圆滑、镇定。有组织化、善于操控、领袖之风，这些都成就了它们的赫赫恶名。蓝龙通常将将巢穴安置在城市附近或是城市之中，而后着手让人们屈服于它们的意志，从而聚集起成群的奴仆。这些巨龙喜欢将阴谋编织成一张张大网。蓝龙的爪牙们甚至都不会意识到自己是在为一条龙在卖命，而是以为在替一位残暴却符合法理的主人征收保护费与税金。从某些方面来说，蓝龙甚至会将它们的爪牙视为长着手脚的财宝。更有甚者，这些巨龙甚至会将这些伎俩用在它们的彩色龙表亲身上。
+",
+    "enGB": "Blue dragons are the sleek and poised cosmopolitans of the chromatic dragons. Their brand of evil is organized, manipulative, and regal. Blue dragons often lair near or within cities and set out to bend the population to their will and gather hordes of servants. These dragons love spinning webs of conspiracy. A blue dragon’s lackeys typically don’t even realize that they serve a dragon, but instead think the protection money, tariffs, or taxes they are amassing is treasure for a cruel but legitimate master. In some ways, blue dragons even see their servants as a living hoard and value them like treasure. These dragons have been known to use these tactics even with their own chromatic cousins."
+  },
+  {
+    "Key": "wotr-making-friends.eidolonsalamandercompanionfeature.name",
+    "zhCN": "火蜥蜴",
+    "enGB": "Salamander"
+  },
+  {
+    "Key": "wotr-making-friends.eidolonsalamandercompanionfeature.description",
+    "zhCN": "火蜥蜴下半身是蛇形的躯干，但上半身如同人类，有爬行动物的牙齿和鼻子。它们的残忍和暴力让它们跟容易和来自深渊位面的恶魔组成紧密的同盟。",
+    "enGB": "Salamanders have serpentine lower torsos, but humanoid upper bodies with toothy reptilian snouts. Their affinity for cruelty and violence puts them in close alliance with the demons of the Abyss."
+  },
+  {
+    "Key": "wotr-making-friends.eidolonshamblingmoundcompanionfeature.name",
+    "zhCN": "蔓生怪",
+    "enGB": "Shambling Mound"
+  },
+  {
+    "Key": "wotr-making-friends.eidolonshamblingmoundcompanionfeature.description",
+    "zhCN": "蔓生怪，或称为“蔓怪（shambler）”，看起来像一堆腐坏的植物。它们实际上是聪明的食腐类植物，尤其喜欢精灵的肉。蔓生怪的大脑和感觉器官位于它的上半身。蔓生怪一般横围8尺，并且站立时有6-9尺高，重约3800磅。",
+    "enGB": "Shambling mounds, also called shamblers, appear to be heaps of rotting vegetation. They are actually intelligent, carnivorous plants with a fondness for elf flesh in particular. What serve as a shambler’s brain and sensory organs are located in its upper body. Shambling mounds typically have an 8-foot girth and stand between 6 and 9 feet tall. They weigh about 3,800 pounds."
+  },
+  {
+    "Key": "wotr-making-friends.eidolonnightmarecompanionfeature.name",
+    "zhCN": "梦魇",
+    "enGB": "Nightmare"
+  },
+  {
+    "Key": "wotr-making-friends.eidolonnightmarecompanionfeature.description",
+    "zhCN": "梦魇是燃烧着的死亡预兆。它们只允许最邪恶的生物骑乘，并且不仅仅是骑手的坐骑，更是毁灭之路上最忠实的伴侣。",
+    "enGB": "Nightmares are flaming harbingers of death. They allow only the most evil of creatures to ride them, and are never mere mounts, but rather willing partners in destruction."
+  },
+  {
+    "Key": "wotr-making-friends.eidolonhellhoundcompanionfeature.name",
+    "zhCN": "地狱犬",
+    "enGB": "Hell Hound"
+  },
+  {
+    "Key": "wotr-making-friends.eidolonhellhoundcompanionfeature.description",
+    "zhCN": "地狱猎犬是邪恶的，跨位面的犬科动物，在深渊中嚎叫着追捕猎物，并可以喷出超自然的滚滚烈焰。它们喜怒无常，
+对攻击性行为反应迅速。",
+    "enGB": "Hell hounds are fiendish, extraplanar canines hailing from the pit that can hunt down quarry and breathe supernatural gouts of flame. They are temperamental and quick to aggressive behavior."
+  },
+  {
+    "Key": "wotr-making-friends.eidolonastradaemoncompanionfeature.name",
+    "zhCN": "星界邪魔",
+    "enGB": "Astradaemon"
+  },
+  {
+    "Key": "wotr-making-friends.eidolonastradaemoncompanionfeature.description",
+    "zhCN": "这些令人不安的卑鄙邪魔代表着对灵魂或生命力量直接进行攻击所造成的死亡——这也包括了它们的致命触摸所导致的灵魂剥离的死法。星界邪魔很少出现在主物质位面，它们大部分时间都在生者世界前往来生的必经之路上进行狩猎。在那里，它们捕食迁徙的灵魂，夺走他们应得的奖励或惩罚，把他们拖到末日荒原，作为他们永恒主人的贡品。这些可怕的邪魔也会出现在星界（Astral Plane）的灵魂之河（River of Souls），在那里不断寻找着新的猎物。招魂者（Psychopomps）对星界邪魔有一种特殊的仇恨，它们和这些怪诞的灵魂猎手之间的冲突在很多传说里都有所体现。
+",
+    "enGB": "These unnerving, almost reptilian daemons represent death by direct assault against a soul or life-force—the same numbing death they bring with their fell touch. Rarely seen on the Material Plane, astradaemons spend most of their time hunting the pathways between the living world and the afterlife. There, they capture migrating souls, snatching them from their rightful rewards or punishments and dragging them to Abaddon as tribute to their undying masters. These horrifying predators of the dead can also be found stalking the banks of the River of Souls in the Astral Plane, where they constantly hunt for new victims. Psychopomps have a particular hatred of astradaemons as a result, and clashes between them and these eerie hunters of the recently departed are indeed the stuff of legend."
+  },
+  {
+    "Key": "wotr-making-friends.eidolonwerewolfcompanionfeature.name",
+    "zhCN": "狼人",
+    "enGB": "Werewolf"
+  },
+  {
+    "Key": "wotr-making-friends.eidolonwerewolfcompanionfeature.description",
+    "zhCN": "化形生物是在满月的光芒照耀下注定会转变为动物以及动物与类人混合形态的类人生物。这些变形生物是一种古老原能诅咒的产物，这种诅咒能够在转化后通过自身牙齿的啃咬来传播。他们能够潜藏在野外或人群中，再加上这种状态的传染性，使得化形生物恒久不变地成为了引发人群恐慌般猜忌的诱因。",
+    "enGB": "Werecreatures are humanoids doomed to transform into animals and animal-humanoid hybrids under the light of the full moon. These shapechanging creatures are the result of an ancient primal curse that they can, in turn, transmit through their own bites. Their ability to lurk unseen in the wilds as well as among people, combined with the contagiousness of their condition, makes werecreatures a perennial cause of panicked suspicion."
+  },
+  {
+    "Key": "wotr-making-friends.eidolonmimiccompanionfeature.name",
+    "zhCN": "拟形怪",
+    "enGB": "Mimic"
+  },
+  {
+    "Key": "wotr-making-friends.eidolonmimiccompanionfeature.description",
+    "zhCN": "拟形怪一般被认为是由失败的实验产生的一种活化物品，或是阴险的底栖魔鱼族（alghollthu）的造物。它们是聪明的怪物，可以拟态成常见的人工制品。拟形怪是伏击捕食者和贪婪的大胃王，用它们令人惊奇的模仿能力模仿成常见的家具或杂物，给他们的猎物带来惊喜。他们会保持伪装，直到毫无戒心的冒险者碰巧路过，然后对他们发动猛烈地伏击。
+",
+    "enGB": "Thought to be the result of a failed experiment meant to animate objects or a sinister alghollthu creation, mimics are clever monsters that can take the form of common manufactured objects. Mimics are ambush predators and voracious eaters, surprising their prey through their uncanny ability to mimic the form of common furniture and miscellany. They remain disguised until unsuspecting adventurers happen by, then they lash out in ambush."
+  },
+  {
+    "Key": "wotr-making-friends.eidolonmanticorecompanionfeature.name",
+    "zhCN": "蝎尾狮",
+    "enGB": "Manticore"
+  },
+  {
+    "Key": "wotr-making-friends.eidolonmanticorecompanionfeature.description",
+    "zhCN": "蝎尾狮是狮子、龙和人的混合怪物，嗜好人肉。它与众不同的尾巴上点缀着豪猪一样的尖刺，会像甩动鞭子一样甩动尾巴来攻击猎物。这些致命的尖刺赋予它强大的力量，甚至能杀死天空中的装备精良的勇士。",
+    "enGB": "The manticore is a monstrous amalgamation of lion, dragon, and human with a penchant for feasting on human flesh. Its distinctive tail is festooned with large quills like those of a porcupine, which the manticore flings at prey by whipping its tail like a sling. These deadly spikes give the manticore the power to slaughter even well-armed warriors from the safety of the sky."
+  },
+  {
+    "Key": "wotr-making-friends.eidolonwillowispcompanionfeature.name",
+    "zhCN": "鬼火",
+    "enGB": "Will O' Wisp"
+  },
+  {
+    "Key": "wotr-making-friends.eidolonwillowispcompanionfeature.description",
+    "zhCN": "这微微发光的光球在空中轻轻摇动，在它深处能看到一个模糊的头骨。",
+    "enGB": "This faintly glowing ball of light bobs gently in the air, the nebulous image of what might be a skull visible somewhere in its depths."
+  },
+  {
+    "Key": "wotr-making-friends.eidolonfairydragoncompanionfeature.name",
+    "zhCN": "仙灵龙",
+    "enGB": "Fairy Dragon"
+  },
+  {
+    "Key": "wotr-making-friends.eidolonfairydragoncompanionfeature.description",
+    "zhCN": "作为伪龙pseudodragons的近亲,仙灵龙生性精灵古怪且好开玩笑，总是花费大量时间在林间空地嬉戏或是准备各种恶作剧。尽管这类恶作剧通常天真，但据知有些仙灵龙会花费数月甚至数年时间准备一个绝对壮观的玩笑。需要途经这些善良天性——但有时也很恼人——的恶作剧生物所居住地域的旅行者常被告知最好保持警戒以免受到各种异想天开玩笑的困扰（马匹被涂满浆果汁，睡袋里被放进松鼠，衣服被挂在高处树杈上，这只是简单的一些例子）。",
+    "enGB": "Related to pseudodragons, faerie dragons are whimsical, playful pranksters that spend most of their time either relaxing in cool forest glades or engaged in some sort of prank. Although such mischief is usually spontaneous, some faerie dragons have been known to spend months or even years in preparation of one truly spectacular joke.Travelers making their way through lands known to be inhabited by these good-natured—but sometimes annoying—tricksters are advised to keep up their guard lest they face all manner of creative annoyances (horses painted with berry juice, squirrels placed inside bedrolls, and clothing decorating high branches being a few examples)."
+  },
+  {
+    "Key": "wotr-making-friends.eidolonbulettecompanionfeature.name",
+    "zhCN": "鲨蜥兽",
+    "enGB": "Bulette"
+  },
+  {
+    "Key": "wotr-making-friends.eidolonbulettecompanionfeature.description",
+    "zhCN": "从某个未知的奥术师创造出鲨蜥兽已经过去几千年，鲨蜥兽已经繁衍成为了山地最凶猛的捕食者之一。鲨蜥兽在地表下的土层里迅速穿行，有时候它们带装甲的背鳍会在地表留下显著的痕迹。鲨蜥兽从沙土和石头里猛地窜出扑向猎物，不带任何怜悯。这使得它得到了“陆上鲨鱼”的称号。",
+    "enGB": "The creation of some unknown arcanist in millennia past, the bulette has bred true to become one of the fiercest predators of the hills. Burrowing rapidly through the earth just beneath the surface, sometimes with its armored fin cutting a distinctive wake behind it, the bulette launches itself free of stone and soil to tear into its prey without remorse, giving rise to the common appellation \"landshark.\""
+  },
+  {
+    "Key": "wotr-making-friends.evolutioncost1feature.name",
+    "zhCN": "1 进化点",
+    "enGB": "1 Point Evolutions"
+  },
+  {
+    "Key": "wotr-making-friends.evolutioncost1feature.description",
+    "zhCN": "幻灵是由熟练的召唤师召唤的神秘同伴，依据召唤师等级，每名幻灵会获得一个进化点数池，可以用来赋予幻灵不同的特殊能力与力量。每次召唤师提升等级时，可以重新决定如何使用这些进化点数来强化他的幻灵。",
+    "enGB": "Eidolons, mystical companions summoned by skilled summoners, possess an evolution pool that allows them to gain new abilities, powers, and enhancements. These abilities, known as evolutions, define the eidolon’s unique traits and capabilities. As the summoner gains levels, they can modify these evolutions to suit their needs."
+  },
+  {
+    "Key": "wotr-making-friends.evolutionbitefeature.name",
+    "zhCN": "啮咬",
+    "enGB": "Bite"
+  },
+  {
+    "Key": "wotr-making-friends.evolutionbitefeature.description",
+    "zhCN": "幻灵获得一次啮咬攻击 这个进化只能选择一次 先决条件：盖丁（Agathion），邪魔（Daemon），恶魔（Demon），魔鬼（Devil），妖灵（Div），元素（Elemental），幻蛇（Protean）或招魂者（Psychopomp）亚种",
+    "enGB": "The eidolon gains a bite attack. They may only select this feature once. \nRequirements: Agathion, daemon, demon, devil, div, elemental, protean, or psychopomp subtype."
+  },
+  {
+    "Key": "wotr-making-friends.evolutiongorefeature.name",
+    "zhCN": "抵撞",
+    "enGB": "Gore"
+  },
+  {
+    "Key": "wotr-making-friends.evolutiongorefeature.description",
+    "zhCN": "幻灵获得一次抵撞攻击 这个进化只能选择一次 先决条件：盖丁（Agathion），邪魔（Daemon），恶魔（Demon），魔鬼（Devil），妖灵（Div），元素（Elemental），幻蛇（Protean）或招魂者（Psychopomp）亚种",
+    "enGB": "The eidolon gains a gore attack. They may only select this feature once. \nRequirements: Agathion, daemon, demon, devil, div, elemental, protean, or psychopomp subtype."
+  },
+  {
+    "Key": "wotr-making-friends.evolutionclawsfeature.name",
+    "zhCN": "爪抓 主要天生武器",
+    "enGB": "Claws, Primary"
+  },
+  {
+    "Key": "wotr-making-friends.evolutionclawsfeature.description",
+    "zhCN": "幻灵在肢体末端长出凶暴的爪，给予它2次爪抓攻击。这项攻击是主要攻击。 这个进化只能选择一次 先决条件：盖丁（Agathion），邪魔（Daemon），恶魔（Demon），魔鬼（Devil），妖灵（Div），元素（Elemental），幻蛇（Protean）或招魂者（Psychopomp）亚种",
+    "enGB": "The eidolon gains two claws as part of their primary attack. These do not stack with weapon attacks or oher natural primary attacks. \nRequirements: Agathion, daemon, demon, devil, div, elemental, protean, or psychopomp subtype."
+  },
+  {
+    "Key": "wotr-making-friends.evolutionmagicattacksfeature.name",
+    "zhCN": "魔法攻击	",
+    "enGB": "Magic Attacks"
+  },
+  {
+    "Key": "wotr-making-friends.evolutionmagicattacksfeature.description",
+    "zhCN": "幻灵在判断能否克服伤害减免时，它的所有天生攻击均被视为魔法武器",
+    "enGB": "The eidolon's attacks are considered magical for the purpose of bypassing DR."
+  },
+  {
+    "Key": "wotr-making-friends.evolutionnaturalarmorfeature.name",
+    "zhCN": "天防强化",
+    "enGB": "Improved Natural Armor"
+  },
+  {
+    "Key": "wotr-making-friends.evolutionnaturalarmorfeature.description",
+    "zhCN": "幻灵的表皮上会长出厚重的皮毛、坚硬的鳞片或者骨板，这使得它的天生防御获得+2加值。这项进化可以被选取多次，召唤师每具有5个等级可以额外选取1次。每次选取该项进化，加值都会增加2点。
+",
+    "enGB": "The eidolon’s hide grows thick fur, rigid scales, or bony plates, giving it a +2 bonus to its natural armor. This evolution can be taken once, plus one additional time for every 5 levels the summoner possesses. Each additional time it’s taken, the bonus increases by 2."
+  },
+  {
+    "Key": "wotr-making-friends.evolutionpincersfeature.name",
+    "zhCN": "螯夹",
+    "enGB": "EvolutionPincersFeature.Name"
+  },
+  {
+    "Key": "wotr-making-friends.evolutionpincersfeature.description",
+    "zhCN": "幻灵获得的一对肢体的先端长出大螯，这使得它获得2次螯夹攻击。这些攻击是主要攻击。不会与武器攻击和其他主要天生武器叠加 先决条件：盖丁（Agathion），邪魔（Daemon），恶魔（Demon），魔鬼（Devil），妖灵（Div），元素（Elemental），幻蛇（Protean）或招魂者（Psychopomp）亚种",
+    "enGB": "The eidolon grows large pincers at the ends of one pair of its limbs, giving it two pincer attacks as their primary attack. These do not stack with weapon attacks or oher natural primary attacks. \nRequirements: Agathion, daemon, demon, devil, div, elemental, protean, or psychopomp subtype."
+  },
+  {
+    "Key": "wotr-making-friends.evolutionresistanceacidfeature.name",
+    "zhCN": "能量抵抗 强酸",
+    "enGB": "Resistance, Acid"
+  },
+  {
+    "Key": "wotr-making-friends.evolutionresistanceacidfeature.description",
+    "zhCN": "幻灵获得10点强酸抗力，在每次升级时提高1点，最高15点。",
+    "enGB": "The eidolon gains Resistance 10 to Acid, this scales an additional 1 resistance every level up to 15."
+  },
+  {
+    "Key": "wotr-making-friends.evolutionresistancecoldfeature.name",
+    "zhCN": "能量抵抗 寒冷",
+    "enGB": "Resistance, Cold"
+  },
+  {
+    "Key": "wotr-making-friends.evolutionresistancecoldfeature.description",
+    "zhCN": "幻灵获得10点寒冷抗力，在每次升级时提高1点，最高15点。",
+    "enGB": "The eidolon gains Resistance 10 to Cold, this scales an additional 1 resistance every level up to 15."
+  },
+  {
+    "Key": "wotr-making-friends.evolutionresistanceelectricityfeature.name",
+    "zhCN": "能量抵抗 电击",
+    "enGB": "Resistance, Electricity"
+  },
+  {
+    "Key": "wotr-making-friends.evolutionresistanceelectricityfeature.description",
+    "zhCN": "幻灵获得10点电击抗力，在每次升级时提高1点，最高15点。",
+    "enGB": "The eidolon gains Resistance 10 to Electricity, this scales an additional 1 resistance every level up to 15."
+  },
+  {
+    "Key": "wotr-making-friends.evolutionresistancefirefeature.name",
+    "zhCN": "能量抵抗 火焰",
+    "enGB": "Resistance, Fire"
+  },
+  {
+    "Key": "wotr-making-friends.evolutionresistancefirefeature.description",
+    "zhCN": "幻灵获得10点火焰抗力，在每次升级时提高1点，最高15点。",
+    "enGB": "The eidolon gains Resistance 10 to Fire, this scales an additional 1 resistance every level up to 15."
+  },
+  {
+    "Key": "wotr-making-friends.evolutionresistancesonicfeature.name",
+    "zhCN": "能量抵抗 声波",
+    "enGB": "Resistance, Sonic"
+  },
+  {
+    "Key": "wotr-making-friends.evolutionresistancesonicfeature.description",
+    "zhCN": "幻灵获得10点声波抗力，在每次升级时提高1点，最高15点",
+    "enGB": "The eidolon gains Resistance 10 to Sonic, this scales an additional 1 resistance every level up to 15."
+  },
+  {
+    "Key": "wotr-making-friends.evolutionscentfeature.name",
+    "zhCN": "灵敏嗅觉",
+    "enGB": "Scent"
+  },
+  {
+    "Key": "wotr-making-friends.evolutionscentfeature.description",
+    "zhCN": "幻灵的嗅觉变得格外敏锐。幻灵得到灵敏嗅觉特性，允许它通过嗅觉来定位30尺内的对象。",
+    "enGB": "The eidolon’s sense of smell becomes quite acute. The eidolon gains the scent special quality, allowing it to detect opponents within 30 feet by sense of smell."
+  },
+  {
+    "Key": "wotr-making-friends.evolutionskilledskillperceptionfeature.name",
+    "zhCN": "技能精通 察觉",
+    "enGB": "Skilled, Perception"
+  },
+  {
+    "Key": "wotr-making-friends.evolutionskilledskillperceptionfeature.description",
+    "zhCN": "幻灵变得十分擅长某项技能，它在该项技能上获得+8种族加值。这项进化可以被选取多次。它的效果不会叠加。幻灵每次选取这项进化，都要应用至不同的技能上。",
+    "enGB": " The eidolon becomes especially adept at a specific skill, gaining a +8 racial bonus on that skill. This evolution can be selected more than once. Its effects do not stack. Each time the eidolon selects this evolution, it applies to a different skill."
+  },
+  {
+    "Key": "wotr-making-friends.evolutionskilledskillthieveryfeature.name",
+    "zhCN": "技能精通 巧手",
+    "enGB": "Skilled, Thievery"
+  },
+  {
+    "Key": "wotr-making-friends.evolutionskilledskillthieveryfeature.description",
+    "zhCN": "幻灵变得十分擅长某项技能，它在该项技能上获得+8种族加值。这项进化可以被选取多次。它的效果不会叠加。幻灵每次选取这项进化，都要应用至不同的技能上。",
+    "enGB": " The eidolon becomes espeskill. This evolution can be selected more than once. Its effects do not stack. Each time the eidolon selects this evolution, it applies to a different skill."
+  },
+  {
+    "Key": "wotr-making-friends.evolutionskilledskillusemagicdevicefeature.name",
+    "zhCN": "技能精通 使用魔法装置",
+    "enGB": "Skilled, Use Magic Device"
+  },
+  {
+    "Key": "wotr-making-friends.evolutionskilledskillusemagicdevicefeature.description",
+    "zhCN": "幻灵变得十分擅长某项技能，它在该项技能上获得+8种族加值。这项进化可以被选取多次。它的效果不会叠加。幻灵每次选取这项进化，都要应用至不同的技能上。",
+    "enGB": "The eidolon becomes especially adept at a specific skill, gaining a +8 racial bonus on that skill. This evolution can be selected more than once. Its effects do not stack. Each time the eidolon selects this evolution, it applies to a different skill."
+  },
+  {
+    "Key": "wotr-making-friends.evolutionslamfeature.name",
+    "zhCN": "挥击",
+    "enGB": "Slam"
+  },
+  {
+    "Key": "wotr-making-friends.evolutionslamfeature.description",
+    "zhCN": "幻灵可以进行强有力的挥打攻击。这使得它获得2次挥击攻击，这些攻击是主要攻击。不会与武器攻击和其他主要天生武器叠加。",
+    "enGB": "The eidolon can deliver a devastating slam attack, giving it two slam attacks as their primary attack. These do not stack with weapon attacks or oher natural primary attacks."
+  },
+  {
+    "Key": "wotr-making-friends.evolutionspikefeature.name",
+    "zhCN": "钉刺",
+    "enGB": "Spike"
+  },
+  {
+    "Key": "wotr-making-friends.evolutionspikefeature.description",
+    "zhCN": "幻灵的尾巴先端具有长长的倒刺，这使它能够进行钉刺攻击。这项进化可以被选取多次，选取次数至多和幻灵所具有的尾巴进化数量相同。",
+    "enGB": "The eidolon can throw a spike from its tail. An eidolon can select this as many times as they have tails."
+  },
+  {
+    "Key": "wotr-making-friends.evolutiontailfeature.name",
+    "zhCN": "尾巴",
+    "enGB": "Tail"
+  },
+  {
+    "Key": "wotr-making-friends.evolutiontailfeature.description",
+    "zhCN": "幻灵长出有力的长尾。这让幻灵在灵巧检定获得+2种族加值。这项进化可以被选取多次，增加2点额外加值。先决条件：盖丁（Agathion），邪魔（Daemon），恶魔（Demon），魔鬼（Devil），妖灵（Div），元素（Elemental），幻蛇（Protean）或招魂者（Psychopomp）亚种。",
+    "enGB": "The eidolon grows a tail, giving it +2 to Mobility checks. They can select this evolution multiple times, increasing that bonus by 2. \nRequirements: Agathion, daemon, demon, devil, div, elemental, protean, or psychopomp subtype."
+  },
+  {
+    "Key": "wotr-making-friends.evolutiontailslapfeature.name",
+    "zhCN": "尾扫",
+    "enGB": "Tail Slap"
+  },
+  {
+    "Key": "wotr-making-friends.evolutiontailslapfeature.description",
+    "zhCN": "幻灵能够使用它的尾巴猛击附近的敌人，这使得它获得尾扫攻击。只有当它们有尾巴或者蛇型基础形态时才能选择这个进化",
+    "enGB": "An eidolon gains the Tail Slap attack. They may only take this evolution if they have a tail or have a serpentine base form."
+  },
+  {
+    "Key": "wotr-making-friends.evolutiontentaclefeature.name",
+    "zhCN": "触手",
+    "enGB": "Tentacle"
+  },
+  {
+    "Key": "wotr-making-friends.evolutiontentaclefeature.description",
+    "zhCN": "幻灵具有长而灵活的触手，这使得它获得触手攻击。这项进化可以被选取多次，每根触手都能给予额外攻击。先决条件：邪魔（Daemon），恶魔（Demon），幻蛇（Protean），异怪（abberant）亚种",
+    "enGB": "An eidolon grows a tentacle from its body, giving it an additional tentacle attack. These stack, with each tentacle giving a bonus attack.  \nRequirements: Daemon, demon, abberant, or protean subtype."
+  },
+  {
+    "Key": "wotr-making-friends.evolutiontentaclemassfeature.name",
+    "zhCN": "触手团",
+    "enGB": "Tentacle, Mass"
+  },
+  {
+    "Key": "wotr-making-friends.evolutiontentaclemassfeature.description",
+    "zhCN": "幻灵从身体上长出触手，这使得它获得2次触手攻击，这些攻击是主要攻击。不会与武器攻击和其他主要天生武器叠加。先决条件：邪魔（Daemon），恶魔（Demon），幻蛇（Protean），异怪（abberant）亚种",
+    "enGB": "The eidolon grows tentacles from its body, giving it two tentacle attacks as their primary attack. These do not stack with weapon attacks or oher natural primary attacks. \nRequirements: Daemon, demon, abberant, or protean subtype."
+  },
+  {
+    "Key": "wotr-making-friends.evolutionwingbuffetfeature.name",
+    "zhCN": "翼击",
+    "enGB": "Wing Buffet"
+  },
+  {
+    "Key": "wotr-making-friends.evolutionwingbuffetfeature.description",
+    "zhCN": "幻灵学会了如何用翅膀拍打敌人，它获得2次翼击攻击。 这个进化只能选择一次",
+    "enGB": "The eidolon can use its wings for two extra attacks. The eidolon can only take this evolution once."
+  },
+  {
+    "Key": "wotr-making-friends.evolutioncost2feature.name",
+    "zhCN": "2 进化点",
+    "enGB": "2 Point Evolutions"
+  },
+  {
+    "Key": "wotr-making-friends.evolutioncost2feature.description",
+    "zhCN": "幻灵是由熟练的召唤师召唤的神秘同伴，依据召唤师等级，每名幻灵会获得一个进化点数池，可以用来赋予幻灵不同的特殊能力与力量。每次召唤师提升等级时，可以重新决定如何使用这些进化点数来强化他的幻灵。",
+    "enGB": "Eidolons, mystical companions summoned by skilled summoners, possess an evolution pool that allows them to gain new abilities, powers, and enhancements. These abilities, known as evolutions, define the eidolon’s unique traits and capabilities. As the summoner gains levels, they can modify these evolutions to suit their needs."
+  },
+  {
+    "Key": "wotr-making-friends.evolutionabilityincreasestrengthfeature.name",
+    "zhCN": "属性强化 力量",
+    "enGB": "Ability Increase, Strength"
+  },
+  {
+    "Key": "wotr-making-friends.evolutionabilityincreasestrengthfeature.description",
+    "zhCN": "幻灵的拥有更强的力量、更加迅捷的反应、变得更加聪慧或者其他某一项属性得到强化。幻灵的一种属性增加2点。这项进化可以被选取多次。但是对于任意一种属性来说，这项进化仅能应用1次，召唤师每具有6个等级时可以额外再应用1次。",
+    "enGB": "The eidolon grows larger muscles, gains faster reflexes, achieves greater intelligence, or acquires another increase to one of its abilities. Increase one of the eidolon’s ability scores by 2. This evolution can be selected more than once. It can be applied only once to an individual ability score, plus one additional time for every 6 levels the summoner possesses."
+  },
+  {
+    "Key": "wotr-making-friends.evolutionabilityincreasedexterityfeature.name",
+    "zhCN": "属性强化 敏捷",
+    "enGB": "Ability Increase, Dexterity"
+  },
+  {
+    "Key": "wotr-making-friends.evolutionabilityincreasedexterityfeature.description",
+    "zhCN": "幻灵的拥有更强的力量、更加迅捷的反应、变得更加聪慧或者其他某一项属性得到强化。幻灵的一种属性增加2点。这项进化可以被选取多次。但是对于任意一种属性来说，这项进化仅能应用1次，召唤师每具有6个等级时可以额外再应用1次。",
+    "enGB": "The eidolon grows larger muscles, gains faster reflexes, achieves greater intelligence, or acquires another increase to one of its abilities. Increase one of the eidolon’s ability scores by 2. This evolution can be selected more than once. It can be applied only once to an individual ability score, plus one additional time for every 6 levels the summoner possesses."
+  },
+  {
+    "Key": "wotr-making-friends.evolutionabilityincreaseconstitutionfeature.name",
+    "zhCN": "属性强化 体质",
+    "enGB": "Ability Increase, Constitution"
+  },
+  {
+    "Key": "wotr-making-friends.evolutionabilityincreaseconstitutionfeature.description",
+    "zhCN": "幻灵的拥有更强的力量、更加迅捷的反应、变得更加聪慧或者其他某一项属性得到强化。幻灵的一种属性增加2点。这项进化可以被选取多次。但是对于任意一种属性来说，这项进化仅能应用1次，召唤师每具有6个等级时可以额外再应用1次。",
+    "enGB": "The eidolon grows larger muscles, gains faster reflexes, achieves greater intelligence, or acquires another increase to one of its abilities. Increase one of the eidolon’s ability scores by 2. This evolution can be selected more than once. It can be applied only once to an individual ability score, plus one additional time for every 6 levels the summoner possesses."
+  },
+  {
+    "Key": "wotr-making-friends.evolutionabilityincreaseintelligencefeature.name",
+    "zhCN": "属性强化 智力",
+    "enGB": "Ability Increase, Intelligence"
+  },
+  {
+    "Key": "wotr-making-friends.evolutionabilityincreaseintelligencefeature.description",
+    "zhCN": "幻灵的拥有更强的力量、更加迅捷的反应、变得更加聪慧或者其他某一项属性得到强化。幻灵的一种属性增加2点。这项进化可以被选取多次。但是对于任意一种属性来说，这项进化仅能应用1次，召唤师每具有6个等级时可以额外再应用1次。",
+    "enGB": "The eidolon grows larger muscles, gains faster reflexes, achieves greater intelligence, or acquires another increase to one of its abilities. Increase one of the eidolon’s ability scores by 2. This evolution can be selected more than once. It can be applied only once to an individual ability score, plus one additional time for every 6 levels the summoner possesses."
+  },
+  {
+    "Key": "wotr-making-friends.evolutionabilityincreasewisdomfeature.name",
+    "zhCN": "属性强化 感知",
+    "enGB": "Ability Increase, Wisdom"
+  },
+  {
+    "Key": "wotr-making-friends.evolutionabilityincreasewisdomfeature.description",
+    "zhCN": "幻灵的拥有更强的力量、更加迅捷的反应、变得更加聪慧或者其他某一项属性得到强化。幻灵的一种属性增加2点。这项进化可以被选取多次。但是对于任意一种属性来说，这项进化仅能应用1次，召唤师每具有6个等级时可以额外再应用1次。",
+    "enGB": "The eidolon grows larger muscles, gains faster reflexes, achieves greater intelligence, or acquires another increase to one of its abilities. Increase one of the eidolon’s ability scores by 2. This evolution can be selected more than once. It can be applied only once to an individual ability score, plus one additional time for every 6 levels the summoner possesses."
+  },
+  {
+    "Key": "wotr-making-friends.evolutionabilityincreasecharismafeature.name",
+    "zhCN": "属性强化 魅力",
+    "enGB": "Ability Increase, Charisma"
+  },
+  {
+    "Key": "wotr-making-friends.evolutionabilityincreasecharismafeature.description",
+    "zhCN": "幻灵的拥有更强的力量、更加迅捷的反应、变得更加聪慧或者其他某一项属性得到强化。幻灵的一种属性增加2点。这项进化可以被选取多次。但是对于任意一种属性来说，这项进化仅能应用1次，召唤师每具有6个等级时可以额外再应用1次。",
+    "enGB": "The eidolon grows larger muscles, gains faster reflexes, achieves greater intelligence, or acquires another increase to one of its abilities. Increase one of the eidolon’s ability scores by 2. This evolution can be selected more than once. It can be applied only once to an individual ability score, plus one additional time for every 6 levels the summoner possesses."
+  },
+  {
+    "Key": "wotr-making-friends.evolutionbloodfrenzyfeature.name",
+    "zhCN": "鲜血狂怒",
+    "enGB": "Blood Frenzy"
+  },
+  {
+    "Key": "wotr-making-friends.evolutionbloodfrenzyfeature.description",
+    "zhCN": "当幻灵受到伤害时，它会进入鲜血狂怒状态，在攻击检定和武器伤害检定获得＋2士气加值，每回合还会攻击最近的生物 先决条件：异怪（Aberrant），邪魔（daemon），恶魔（demon）亚种 召唤师等级7",
+    "enGB": "When the eidolon is dealt damage, it enters a blood frenzy. It gains a +2 morale bonus on attack rolls and weapon damage rolls and attacks the nearest creature each round. \nRequirements: Aberrant, daemon, or demon subtype; summoner level 7th."
+  },
+  {
+    "Key": "wotr-making-friends.evolutionenergyattacksacidfeature.name",
+    "zhCN": "能量攻击 强酸",
+    "enGB": "Energy Attacks, Acid"
+  },
+  {
+    "Key": "wotr-making-friends.evolutionenergyattacksacidfeature.description",
+    "zhCN": "幻灵的攻击充盈着能量。选择一种能量类型：强酸（acid）、寒冷（cold）、闪电（electricity）或火焰（fire）。幻灵的所有天生攻击在成功命中时，都会造成1d6点所选类型的能量伤害。先决条件：召唤师等级5级。",
+    "enGB": "The eidolon’s attacks become charged with energy. Select one energy type: acid, cold, electricity, or fire. All of the eidolon’s natural attacks deal 1d6 points of energy damage of the chosen type on a successful hit. \nRequirements: Summoner level 5th."
+  },
+  {
+    "Key": "wotr-making-friends.evolutionenergyattackscoldfeature.name",
+    "zhCN": "能量攻击 寒冷",
+    "enGB": "Energy Attacks, Cold"
+  },
+  {
+    "Key": "wotr-making-friends.evolutionenergyattackscoldfeature.description",
+    "zhCN": "幻灵的攻击充盈着能量。选择一种能量类型：强酸（acid）、寒冷（cold）、闪电（electricity）或火焰（fire）。幻灵的所有天生攻击在成功命中时，都会造成1d6点所选类型的能量伤害。先决条件：召唤师等级5级。",
+    "enGB": "The eidolon’s attacks become charged with energy. Select one energy type: acid, cold, electricity, or fire. All of the eidolon’s natural attacks deal 1d6 points of energy damage of the chosen type on a successful hit. \nRequirements: Summoner level 5th."
+  },
+  {
+    "Key": "wotr-making-friends.evolutionenergyattackselectricityfeature.name",
+    "zhCN": "能量攻击 电击",
+    "enGB": "Energy Attacks, Electricity"
+  },
+  {
+    "Key": "wotr-making-friends.evolutionenergyattackselectricityfeature.description",
+    "zhCN": "幻灵的攻击充盈着能量。选择一种能量类型：强酸（acid）、寒冷（cold）、闪电（electricity）或火焰（fire）。幻灵的所有天生攻击在成功命中时，都会造成1d6点所选类型的能量伤害。先决条件：召唤师等级5级。",
+    "enGB": "The eidolon’s attacks become charged with energy. Select one energy type: acid, cold, electricity, or fire. All of the eidolon’s natural attacks deal 1d6 points of energy damage of the chosen type on a successful hit. \nRequirements: Summoner level 5th."
+  },
+  {
+    "Key": "wotr-making-friends.evolutionenergyattacksfirefeature.name",
+    "zhCN": "能量攻击 火焰",
+    "enGB": "Energy Attacks, Fire"
+  },
+  {
+    "Key": "wotr-making-friends.evolutionenergyattacksfirefeature.description",
+    "zhCN": "幻灵的攻击充盈着能量。选择一种能量类型：强酸（acid）、寒冷（cold）、闪电（electricity）或火焰（fire）。幻灵的所有天生攻击在成功命中时，都会造成1d6点所选类型的能量伤害。先决条件：召唤师等级5级。",
+    "enGB": "The eidolon’s attacks become charged with energy. Select one energy type: acid, cold, electricity, or fire. All of the eidolon’s natural attacks deal 1d6 points of energy damage of the chosen type on a successful hit. \nRequirements: Summoner level 5th."
+  },
+  {
+    "Key": "wotr-making-friends.evolutionflightfeature.name",
+    "zhCN": "飞行",
+    "enGB": "Flight"
+  },
+  {
+    "Key": "wotr-making-friends.evolutionflightfeature.description",
+    "zhCN": "幻灵长出巨大的双翼，这对翅膀看起来可能与蝙蝠、鸟、昆虫或龙的翅膀类似，这使得幻灵获得飞行的能力。使其免疫地面效应。先决条件：召唤师等级5",
+    "enGB": "The eidolon grows large wings, like those of a bat, bird, insect, or dragon, gaining the ability to fly. Making it immune to ground effects. \nRequirements: Summoner level 5th."
+  },
+  {
+    "Key": "wotr-making-friends.evolutionimmunityacidfeature.name",
+    "zhCN": "能量免疫 强酸",
+    "enGB": "Immunity, Acid"
+  },
+  {
+    "Key": "wotr-making-friends.evolutionimmunityacidfeature.description",
+    "zhCN": "幻灵的身体对某种能量类型具有极端的耐受力。选择一种能量类型：强酸（acid）、寒冷（cold）、闪电（electricity）、火焰（fire）或音波（sonic）。幻灵免疫此类能量类型。这项进化可以被选取多次。它的效果不会叠加。幻灵每次选取这项进化，都要应用至不同的能量类型上。先决条件：召唤师等级7级。",
+    "enGB": "The eidolon’s body becomes extremely resilient to one energy type. Select one energy type: acid, cold, electricity, fire, or sonic. The eidolon gains immunity to that energy type. This evolution can be selected more than once. Its effects do not stack. Each time it applies to a different energy type. \nRequirements: Summoner level 7th."
+  },
+  {
+    "Key": "wotr-making-friends.evolutionimmunitycoldfeature.name",
+    "zhCN": "能量免疫 寒冷",
+    "enGB": "Immunity, Cold"
+  },
+  {
+    "Key": "wotr-making-friends.evolutionimmunitycoldfeature.description",
+    "zhCN": "幻灵的身体对某种能量类型具有极端的耐受力。选择一种能量类型：强酸（acid）、寒冷（cold）、闪电（electricity）、火焰（fire）或音波（sonic）。幻灵免疫此类能量类型。这项进化可以被选取多次。它的效果不会叠加。幻灵每次选取这项进化，都要应用至不同的能量类型上。先决条件：召唤师等级7级。",
+    "enGB": "The eidolon’s body becomes extremely resilient to one energy type. Select one energy type: acid, cold, electricity, fire, or sonic. The eidolon gains immunity to that energy type. This evolution can be selected more than once. Its effects do not stack. Each time it applies to a different energy type. \nRequirements: Summoner level 7th."
+  },
+  {
+    "Key": "wotr-making-friends.evolutionimmunityelectricityfeature.name",
+    "zhCN": "能量免疫 电击",
+    "enGB": "Immunity, Electricity"
+  },
+  {
+    "Key": "wotr-making-friends.evolutionimmunityelectricityfeature.description",
+    "zhCN": "幻灵的身体对某种能量类型具有极端的耐受力。选择一种能量类型：强酸（acid）、寒冷（cold）、闪电（electricity）、火焰（fire）或音波（sonic）。幻灵免疫此类能量类型。这项进化可以被选取多次。它的效果不会叠加。幻灵每次选取这项进化，都要应用至不同的能量类型上。先决条件：召唤师等级7级。",
+    "enGB": "The eidolon’s body becomes extremely resilient to one energy type. Select one energy type: acid, cold, electricity, fire, or sonic. The eidolon gains immunity to that energy type. This evolution can be selected more than once. Its effects do not stack. Each time it applies to a different energy type. \nRequirements: Summoner level 7th."
+  },
+  {
+    "Key": "wotr-making-friends.evolutionimmunityfirefeature.name",
+    "zhCN": "能量免疫 火焰",
+    "enGB": "Immunity, Fire"
+  },
+  {
+    "Key": "wotr-making-friends.evolutionimmunityfirefeature.description",
+    "zhCN": "幻灵的身体对某种能量类型具有极端的耐受力。选择一种能量类型：强酸（acid）、寒冷（cold）、闪电（electricity）、火焰（fire）或音波（sonic）。幻灵免疫此类能量类型。这项进化可以被选取多次。它的效果不会叠加。幻灵每次选取这项进化，都要应用至不同的能量类型上。先决条件：召唤师等级7级。",
+    "enGB": "The eidolon’s body becomes extremely resilient to one energy type. Select one energy type: acid, cold, electricity, fire, or sonic. The eidolon gains immunity to that energy type. This evolution can be selected more than once. Its effects do not stack. Each time it applies to a different energy type. \nRequirements: Summoner level 7th."
+  },
+  {
+    "Key": "wotr-making-friends.evolutionimmunitysonicfeature.name",
+    "zhCN": "能量免疫 音波",
+    "enGB": "Immunity, Sonic"
+  },
+  {
+    "Key": "wotr-making-friends.evolutionimmunitysonicfeature.description",
+    "zhCN": "幻灵的身体对某种能量类型具有极端的耐受力。选择一种能量类型：强酸（acid）、寒冷（cold）、闪电（electricity）、火焰（fire）或音波（sonic）。幻灵免疫此类能量类型。这项进化可以被选取多次。它的效果不会叠加。幻灵每次选取这项进化，都要应用至不同的能量类型上。先决条件：召唤师等级7级。",
+    "enGB": "The eidolon’s body becomes extremely resilient to one energy type. Select one energy type: acid, cold, electricity, fire, or sonic. The eidolon gains immunity to that energy type. This evolution can be selected more than once. Its effects do not stack. Each time it applies to a different energy type. \nRequirements: Summoner level 7th."
+  },
+  {
+    "Key": "wotr-making-friends.evolutionlimbsarmsfeature.name",
+    "zhCN": "肢体 手臂",
+    "enGB": "Limbs, Arms"
+  },
+  {
+    "Key": "wotr-making-friends.evolutionlimbsarmsfeature.description",
+    "zhCN": "这个幻灵获得一双手臂，使其能够挥舞武器。当幻灵多次选择这个进化时，它们的每条肢体都会获得额外攻击。即使幻灵使用的是双手武器，在其最大攻击上限里也算做两次攻击",
+    "enGB": "The eidolon gains a pair of arms, allowing it to wield weapons. When the eidolon select this power multiple times they gain an extra attack for each limb. This counts as two attacks for its maximum attack limit, even if the eidolon is using a two-handed weapon."
+  },
+  {
+    "Key": "wotr-making-friends.evolutionlimbslegsfeature.name",
+    "zhCN": "肢体 双腿",
+    "enGB": "Limbs, Legs"
+  },
+  {
+    "Key": "wotr-making-friends.evolutionlimbslegsfeature.description",
+    "zhCN": "幻灵的基础速度增加10尺，这个进化可以多次选择",
+    "enGB": "The eidolon gains an extra 10 feet of movement. This evolution can be selected multiple times."
+  },
+  {
+    "Key": "wotr-making-friends.evolutionrendfeature.name",
+    "zhCN": "撕扯",
+    "enGB": "Rend"
+  },
+  {
+    "Key": "wotr-making-friends.evolutionrendfeature.description",
+    "zhCN": "每当幻灵在对目标作出2次爪抓攻击时，它的爪子会额外造成1d6加力量调整值的伤害。先决条件：召唤师等级6 爪抓进化",
+    "enGB": "Whenever the eidolon hits an opponent twice with a claw attack, they deal an additional 1d6+Strength damage. \nRequirements: Summoner level 6th, claws evolution."
+  },
+  {
+    "Key": "wotr-making-friends.evolutiontramplefeature.name",
+    "zhCN": " 践踏",
+    "enGB": "Trample"
+  },
+  {
+    "Key": "wotr-making-friends.evolutiontramplefeature.description",
+    "zhCN": "幻灵获得将脚下的敌人碾碎的能力，它获得践踏能力。这只能由二足型或四足型基础形态选择。即使幻灵有肢体进化",
+    "enGB": "The eidolon gains the ability to trample their opponents. This can only be selected by Bipeds or Quadrupeds base forms even if the eidolon has the Limbs, Legs evolution."
+  },
+  {
+    "Key": "wotr-making-friends.evolutiontripfeature.name",
+    "zhCN": "摔绊",
+    "enGB": "Trip"
+  },
+  {
+    "Key": "wotr-making-friends.evolutiontripfeature.description",
+    "zhCN": "当幻灵使用啃咬攻击时可以对目标进行一次摔绊战技检定。先决条件：邪魔（Daemon），恶魔（Demon），魔鬼（Devil），元素（Elemental）或幻蛇（Protean）亚种；啮咬（bite）进化。",
+    "enGB": "When the eidolon uses a bite attack, they may also attempt to trip their opponent. \nRequirements: Daemon, demon, devil, elemental, or protean subtype; bite evolution."
+  },
+  {
+    "Key": "wotr-making-friends.evolutionbullrushfeature.name",
+    "zhCN": "冲撞",
+    "enGB": "Bull Rush"
+  },
+  {
+    "Key": "wotr-making-friends.evolutionbullrushfeature.description",
+    "zhCN": "当幻灵使用啃咬攻击时可以对目标进行一次冲撞战技检定。",
+    "enGB": "When the eidolon uses a slam attack, they may also attempt to push their opponent 5ft."
+  },
+  {
+    "Key": "wotr-making-friends.evolutionsunderarmorfeature.name",
+    "zhCN": "击破盔甲",
+    "enGB": "Sundering Pincers"
+  },
+  {
+    "Key": "wotr-making-friends.evolutionsunderarmorfeature.description",
+    "zhCN": "当幻灵使用螯夹攻击时可以对目标进行一次击破盔甲战技检定。",
+    "enGB": "When the eidolon uses Pincers, they may attempt to sunder the armor of their opponent."
+  },
+  {
+    "Key": "wotr-making-friends.evolutioncost3feature.name",
+    "zhCN": "3 进化点",
+    "enGB": "3 Point Evolutions"
+  },
+  {
+    "Key": "wotr-making-friends.evolutioncost3feature.description",
+    "zhCN": "幻灵是由熟练的召唤师召唤的神秘同伴，依据召唤师等级，每名幻灵会获得一个进化点数池，可以用来赋予幻灵不同的特殊能力与力量。每次召唤师提升等级时，可以重新决定如何使用这些进化点数来强化他的幻灵。",
+    "enGB": "Eidolons, mystical companions summoned by skilled summoners, possess an evolution pool that allows them to gain new abilities, powers, and enhancements. These abilities, known as evolutions, define the eidolon’s unique traits and capabilities. As the summoner gains levels, they can modify these evolutions to suit their needs."
+  },
+  {
+    "Key": "wotr-making-friends.evolutiondamagereductionfeature.name",
+    "zhCN": "伤害减免",
+    "enGB": "Damage Reduction"
+  },
+  {
+    "Key": "wotr-making-friends.evolutiondamagereductionfeature.description",
+    "zhCN": "幻灵的身体变得坚不可摧。幻灵通过亚种获得的伤害减免增加5点。先决条件：召唤师等级15级。",
+    "enGB": "The eidolon’s body becomes more resistant to harm. Increase the damage reduction granted by the eidolon’s subtype by 5. \nRequirements: Summoner level 15th."
+  },
+  {
+    "Key": "wotr-making-friends.evolutionpouncefeature.name",
+    "zhCN": "猛扑",
+    "enGB": "Pounce"
+  },
+  {
+    "Key": "wotr-making-friends.evolutionpouncefeature.description",
+    "zhCN": "幻灵变得反应灵敏，这使得它可以在冲锋后做出一次全力攻击（full attack）。先决条件：召唤师等级7级，四足型（Quadruped）基础形态。",
+    "enGB": "The eidolon gains quick reflexes, allowing it to make a full attack after a charge. \nRequirements: Summoner level 7th, quadruped base form."
+  },
+  {
+    "Key": "wotr-making-friends.evolutionwebfeature.name",
+    "zhCN": "织网",
+    "enGB": "Web"
+  },
+  {
+    "Key": "wotr-making-friends.evolutionwebfeature.description",
+    "zhCN": "幻灵可以随意释放蛛网术，幻灵等级视作施法者等级",
+    "enGB": "The eidolon can cast the Web spell at-will. The save scales with the eidolon's level. \nRequirements: Summoner level 7th; daemon, demon, or protean subtype"
+  },
+  {
+    "Key": "wotr-making-friends.evolutionimproveddamagefeature.name",
+    "zhCN": "伤害强化",
+    "enGB": "Improved Damage"
+  },
+  {
+    "Key": "wotr-making-friends.evolutionimproveddamagefeature.description",
+    "zhCN": "幻灵的天生武器骰变大一级",
+    "enGB": "The eidolon's natural attacks' damage dice go up by one step."
+  },
+  {
+    "Key": "wotr-making-friends.evolutionreachfeature.name",
+    "zhCN": "触及",
+    "enGB": "Reach"
+  },
+  {
+    "Key": "wotr-making-friends.evolutionreachfeature.description",
+    "zhCN": "幻灵的触及增加了5尺",
+    "enGB": "The eidolon's Reach increases by 5ft."
+  },
+  {
+    "Key": "wotr-making-friends.evolutionclawslimbsfeature.name",
+    "zhCN": "肢体 爪抓",
+    "enGB": "Limbs, Claws"
+  },
+  {
+    "Key": "wotr-making-friends.evolutionclawslimbsfeature.description",
+    "zhCN": "幻灵获得两次爪抓攻击",
+    "enGB": "The eidolon gains two secondary claw attacks."
+  },
+  {
+    "Key": "wotr-making-friends.evolutionpincerslimbsfeature.name",
+    "zhCN": "肢体 螯夹",
+    "enGB": "Limbs, Pincers"
+  },
+  {
+    "Key": "wotr-making-friends.evolutionpincerslimbsfeature.description",
+    "zhCN": "幻灵获得两次螯夹攻击",
+    "enGB": "The eidolon gains two secondary pincer attacks."
+  },
+  {
+    "Key": "wotr-making-friends.evolutionslamlimbsfeature.name",
+    "zhCN": "肢体 挥击",
+    "enGB": "Limbs, Slams"
+  },
+  {
+    "Key": "wotr-making-friends.evolutionslamlimbsfeature.description",
+    "zhCN": "幻灵获得两次挥击攻击",
+    "enGB": "The eidolon gains two secondary slam attacks."
+  },
+  {
+    "Key": "wotr-making-friends.evolutioncost4feature.name",
+    "zhCN": "4 进化点",
+    "enGB": "4 Point Evolutions"
+  },
+  {
+    "Key": "wotr-making-friends.evolutioncost4feature.description",
+    "zhCN": "幻灵是由熟练的召唤师召唤的神秘同伴，依据召唤师等级，每名幻灵会获得一个进化点数池，可以用来赋予幻灵不同的特殊能力与力量。每次召唤师提升等级时，可以重新决定如何使用这些进化点数来强化他的幻灵。",
+    "enGB": "Eidolons, mystical companions summoned by skilled summoners, possess an evolution pool that allows them to gain new abilities, powers, and enhancements. These abilities, known as evolutions, define the eidolon’s unique traits and capabilities. As the summoner gains levels, they can modify these evolutions to suit their needs."
+  },
+  {
+    "Key": "wotr-making-friends.evolutionamorphousfeature.name",
+    "zhCN": "不定型体",
+    "enGB": "Amorphous"
+  },
+  {
+    "Key": "wotr-making-friends.evolutionamorphousfeature.description",
+    "zhCN": "幻灵的身体变幻不定。他免疫基于精准的伤害 (比如偷袭) 和重击。",
+    "enGB": "The eidolon’s biology lacks discernible weak points. It is not subject to critical hits and sneak attacks. \nRequirements: Aberrant or elemental subtype; summoner level 9th."
+  },
+  {
+    "Key": "wotr-making-friends.evolutionblindsightfeature.name",
+    "zhCN": "盲视",
+    "enGB": "Blindsight"
+  },
+  {
+    "Key": "wotr-making-friends.evolutionblindsightfeature.description",
+    "zhCN": "幻灵的感官进一步锐化，这使得它获得30尺范围的盲视。幻灵只要与目标有效果线（line of effect）连接，便能够无视黑暗（darkness）、隐身（invisibility）以及绝大多数的隐蔽（most forms of concealment），正常使用策略和发动攻击。",
+    "enGB": "The eidolon’s biology lacks discernible weak points. It is not subject to critical hits and sneak attacks. \nRequirements: Aberrant or elemental subtype; summoner level 9th."
+  },
+  {
+    "Key": "wotr-making-friends.evolutionbreathweaponacidfeature.name",
+    "zhCN": "喷吐武器 强酸",
+    "enGB": "Breath Weapon, Acid"
+  },
+  {
+    "Key": "wotr-making-friends.evolutionbreathweaponacidfeature.description",
+    "zhCN": "幻灵学会了如何释放出锥形或线形的魔法能量，这使它获得了喷吐武器。选择强酸（acid）、寒冷（cold）、闪电（electricity）或火焰（fire）。幻灵能够喷出30尺锥形（或60尺线形）的喷吐武器，造成每个幻灵具有的生命骰1d6点对应类型的伤害。被喷吐武器笼罩的目标能够尝试一次反射豁免来使伤害减半。",
+    "enGB": "The eidolon learns to exhale a cone or line of magical energy, gaining a breath weapon. Select acid, cold, electricity, or fire. The eidolon can breathe a 30-foot cone (or 60-foot line) that deals 1d6 points of damage of the selected type per Hit Dice it possesses. Those caught in the breath weapon can attempt a Reflex save for half damage."
+  },
+  {
+    "Key": "wotr-making-friends.evolutionbreathweaponcoldfeature.name",
+    "zhCN": "喷吐武器 寒冷",
+    "enGB": "Breath Weapon, Cold"
+  },
+  {
+    "Key": "wotr-making-friends.evolutionbreathweaponcoldfeature.description",
+    "zhCN": "幻灵学会了如何释放出锥形或线形的魔法能量，这使它获得了喷吐武器。选择强酸（acid）、寒冷（cold）、闪电（electricity）或火焰（fire）。幻灵能够喷出30尺锥形（或60尺线形）的喷吐武器，造成每个幻灵具有的生命骰1d6点对应类型的伤害。被喷吐武器笼罩的目标能够尝试一次反射豁免来使伤害减半。",
+    "enGB": "The eidolon learns to exhale a cone or line of magical energy, gaining a breath weapon. Select acid, cold, electricity, or fire. The eidolon can breathe a 30-foot cone (or 60-foot line) that deals 1d6 points of damage of the selected type per Hit Dice it possesses. Those caught in the breath weapon can attempt a Reflex save for half damage."
+  },
+  {
+    "Key": "wotr-making-friends.evolutionbreathweaponelectricityfeature.name",
+    "zhCN": "喷吐武器 电击",
+    "enGB": "Breath Weapon, Electricity"
+  },
+  {
+    "Key": "wotr-making-friends.evolutionbreathweaponelectricityfeature.description",
+    "zhCN": "幻灵学会了如何释放出锥形或线形的魔法能量，这使它获得了喷吐武器。选择强酸（acid）、寒冷（cold）、闪电（electricity）或火焰（fire）。幻灵能够喷出30尺锥形（或60尺线形）的喷吐武器，造成每个幻灵具有的生命骰1d6点对应类型的伤害。被喷吐武器笼罩的目标能够尝试一次反射豁免来使伤害减半。",
+    "enGB": "The eidolon learns to exhale a cone or line of magical energy, gaining a breath weapon. Select acid, cold, electricity, or fire. The eidolon can breathe a 30-foot cone (or 60-foot line) that deals 1d6 points of damage of the selected type per Hit Dice it possesses. Those caught in the breath weapon can attempt a Reflex save for half damage."
+  },
+  {
+    "Key": "wotr-making-friends.evolutionbreathweaponfirefeature.name",
+    "zhCN": "喷吐武器 火焰",
+    "enGB": "Breath Weapon, Fire"
+  },
+  {
+    "Key": "wotr-making-friends.evolutionbreathweaponfirefeature.description",
+    "zhCN": "幻灵学会了如何释放出锥形或线形的魔法能量，这使它获得了喷吐武器。选择强酸（acid）、寒冷（cold）、闪电（electricity）或火焰（fire）。幻灵能够喷出30尺锥形（或60尺线形）的喷吐武器，造成每个幻灵具有的生命骰1d6点对应类型的伤害。被喷吐武器笼罩的目标能够尝试一次反射豁免来使伤害减半。",
+    "enGB": "The eidolon learns to exhale a cone or line of magical energy, gaining a breath weapon. Select acid, cold, electricity, or fire. The eidolon can breathe a 30-foot cone (or 60-foot line) that deals 1d6 points of damage of the selected type per Hit Dice it possesses. Those caught in the breath weapon can attempt a Reflex save for half damage."
+  },
+  {
+    "Key": "wotr-making-friends.evolutionfasthealingfeature.name",
+    "zhCN": "快速痊愈 5",
+    "enGB": "Fast Healing, 5"
+  },
+  {
+    "Key": "wotr-making-friends.evolutionfasthealingfeature.description",
+    "zhCN": "幻灵获得快速痊愈 5 先决条件：召唤师等级11",
+    "enGB": "The eidolon gains Fast Healing 5. \nRequirements: Summoner level 11th."
+  },
+  {
+    "Key": "wotr-making-friends.evolutionlargefeature.name",
+    "zhCN": "体型增大",
+    "enGB": "Growth"
+  },
+  {
+    "Key": "wotr-making-friends.evolutionlargefeature.description",
+    "zhCN": "体型增大（Large，Ex）：幻灵的体型增大，变为大型。幻灵的力量获得+4加值，体质获得+2加值，天生防御获得+2加值。它的敏捷受到-2减值。这种体型的变更使得幻灵的AC和攻击检定受到-1体型减值，战技检定和CMD获得+1加值，飞行检定受到-2减值，潜行检定受到-4减值。若幻灵的基础形态为二足型（Biped），它还会获得10尺的触及范围。幻灵已经选取的任何触及进化都会加到这个范围上。若额外花费6点进化点，幻灵便能够变为超大型。幻灵的力量获得+8加值，体质获得+4加值，天生防御获得+5加值。它的敏捷受到-4减值。这种体型的变更使得幻灵的AC和攻击检定受到-2体型减值，战技检定和CMD获得+2加值，获得10尺的触及范围，飞行检定受到-4减值，潜行检定受到-8减值。若幻灵的基础形态为二足型（Biped），它还会获得15尺的触及范围以取代10尺。幻灵已经选取的任何触及进化都会加到这个范围上。这些加值与减值会取代变为大型幻灵的加值和减值，而非叠加。当大型或超大型幻灵选取属性强化进化来增强力量或体质属性时，属性强化进化的消耗会变为2倍（4点进化点）。先决条件（Requirements）：召唤师等级8级（超大型为13级），中等体型。",
+    "enGB": "The eidolon grows in size, becoming Large. The eidolon gains a +4 bonus to Strength, a +2 bonus to Constitution, and a +2 bonus to its natural armor. It takes a –2 penalty to Dexterity. This size change also gives the creature a –1 size penalty to AC and on attack rolls, a +1 bonus on combat maneuver checks and to CMD, a –2 penalty on Mobility checks, and a –4 penalty on Thievery checks. If the eidolon has the biped base form, it also gains a reach of 10 feet. Any reach evolutions the eidolon possesses are added to this total.\nIf 6 additional evolution points are spent, the eidolon instead becomes Huge. The eidolon gains a +8 bonus to Strength, a +4 bonus to Constitution, and a +5 bonus to its natural armor. It takes a –4 penalty to Dexterity. This size change also gives the creature a –2 size penalty to AC and on attack rolls, a +2 bonus on combat maneuver checks and to CMD, a 10-foot reach, a –4 penalty on Mobility checks, and a –8 penalty on Thievery checks. If the eidolon has the biped base form, its reach increases to 15 feet instead of 10 feet. Any reach evolutions the eidolon possesses are added to this total. These bonuses and penalties replace, and do not stack with, those gained from becoming Large.\nThe ability increase evolution costs twice as much (4 evolution points) when adding to the Strength or Constitution scores of a Large or Huge eidolon. \nRequirements: Summoner level 8th (13th for Huge), Medium size."
+  },
+  {
+    "Key": "wotr-making-friends.evolutionspellresistancefeature.name",
+    "zhCN": "法术抗力",
+    "enGB": "Spell Resistance"
+  },
+  {
+    "Key": "wotr-making-friends.evolutionspellresistancefeature.description",
+    "zhCN": "幻灵能够抵御魔法，它获得法术抗力。幻灵的法术抗力为11 + 召唤师的等级。这个法术抗力不会对召唤师施放的法术生效。先决条件：召唤师等级9",
+    "enGB": "The eidolon is protected against magic, gaining spell resistance. The eidolon’s spell resistance is equal to 11 + the eidolon's level. This spell resistance does not apply to spells cast by the summoner. \nRequirements: Summoner level 9th."
+  },
+  {
+    "Key": "wotr-making-friends.evolutionbaseabilitiesfeature.name",
+    "zhCN": "基础进化",
+    "enGB": "Base Evolutions"
+  },
+  {
+    "Key": "wotr-making-friends.evolutionbaseabilitiesfeature.description",
+    "zhCN": "一些幻灵获得了其基础形态的一部分能力。使用幻灵重塑术不会移除这些能力。",
+    "enGB": "Some eidolons gain features as part of their base subtype. These features are not removed when using Transmogrify."
+  },
+  {
+    "Key": "wotr-making-friends.evolutionsizechangefinefeature.name",
+    "zhCN": "幻灵体型改变 超微型",
+    "enGB": "Eidolon Size Change, Fine"
+  },
+  {
+    "Key": "wotr-making-friends.evolutionsizechangefinefeature.description",
+    "zhCN": "一些生物比正常的幻灵更大或更小，这个能力将他们的基础伤害和武器大小修改为中型。如果进行了大型或者超大型进化，那么这些进化会更加优先",
+    "enGB": "Some creatures are normally larger or smaller than normal for an eidolon. This ability changes their base damage and weapon size modifiers to Medium, if the Large or Huge evolutions are taken, then those evolutions will take precidence."
+  },
+  {
+    "Key": "wotr-making-friends.evolutionsizechangediminutivefeature.name",
+    "zhCN": "幻灵体型改变 微型",
+    "enGB": "Eidolon Size Change, Diminutive"
+  },
+  {
+    "Key": "wotr-making-friends.evolutionsizechangediminutivefeature.description",
+    "zhCN": "一些生物比正常的幻灵更大或更小，这个能力将他们的基础伤害和武器大小修改为中型。如果进行了大型或者超大型进化，那么这些进化的效果会更加优先",
+    "enGB": "Some creatures are normally larger or smaller than normal for an eidolon. This ability changes their base damage and weapon size modifiers to Medium, if the Large or Huge evolutions are taken, then those evolutions will take precidence."
+  },
+  {
+    "Key": "wotr-making-friends.evolutionsizechangetinyfeature.name",
+    "zhCN": "幻灵体型改变 超小型",
+    "enGB": "Eidolon Size Change, Tiny"
+  },
+  {
+    "Key": "wotr-making-friends.evolutionsizechangetinyfeature.description",
+    "zhCN": "一些生物比正常的幻灵更大或更小，这个能力将他们的基础伤害和武器大小修改为中型。如果进行了大型或者超大型进化，那么这些进化的效果会更加优先",
+    "enGB": "Some creatures are normally larger or smaller than normal for an eidolon. This ability changes their base damage and weapon size modifiers to Medium, if the Large or Huge evolutions are taken, then those evolutions will take precidence."
+  },
+  {
+    "Key": "wotr-making-friends.evolutionsizechangesmallfeature.name",
+    "zhCN": "幻灵体型改变 小型",
+    "enGB": "Eidolon Size Change, Small"
+  },
+  {
+    "Key": "wotr-making-friends.evolutionsizechangesmallfeature.description",
+    "zhCN": "一些生物比正常的幻灵更大或更小，这个能力将他们的基础伤害和武器大小修改为中型。如果进行了大型或者超大型进化，那么这些进化的效果会更加优先",
+    "enGB": "Some creatures are normally larger or smaller than normal for an eidolon. This ability changes their base damage and weapon size modifiers to Medium, if the Large or Huge evolutions are taken, then those evolutions will take precidence."
+  },
+  {
+    "Key": "wotr-making-friends.evolutionsizechangemediumfeature.name",
+    "zhCN": "幻灵体型改变 中型",
+    "enGB": "Eidolon Size Change, Medium"
+  },
+  {
+    "Key": "wotr-making-friends.evolutionsizechangemediumfeature.description",
+    "zhCN": "一些生物比正常的幻灵更大或更小，这个能力将他们的基础伤害和武器大小修改为中型。如果进行了大型或者超大型进化，那么这些进化的效果会更加优先",
+    "enGB": "Some creatures are normally larger or smaller than normal for an eidolon. This ability changes their base damage and weapon size modifiers to Medium, if the Large or Huge evolutions are taken, then those evolutions will take precidence."
+  },
+  {
+    "Key": "wotr-making-friends.evolutionsizechangelargefeature.name",
+    "zhCN": "幻灵体型改变 大型",
+    "enGB": "Eidolon Size Change, Large"
+  },
+  {
+    "Key": "wotr-making-friends.evolutionsizechangelargefeature.description",
+    "zhCN": "一些生物比正常的幻灵更大或更小，这个能力将他们的基础伤害和武器大小修改为中型。如果进行了大型或者超大型进化，那么这些进化的效果会更加优先",
+    "enGB": "Some creatures are normally larger or smaller than normal for an eidolon. This ability changes their base damage and weapon size modifiers to Medium, if the Large or Huge evolutions are taken, then those evolutions will take precidence."
+  },
+  {
+    "Key": "wotr-making-friends.evolutionsizechangehugefeature.name",
+    "zhCN": "幻灵体型改变 超大型",
+    "enGB": "Eidolon Size Change, Huge"
+  },
+  {
+    "Key": "wotr-making-friends.evolutionsizechangehugefeature.description",
+    "zhCN": "一些生物比正常的幻灵更大或更小，这个能力将他们的基础伤害和武器大小修改为中型。如果进行了大型或者超大型进化，那么这些进化的效果会更加优先",
+    "enGB": "Some creatures are normally larger or smaller than normal for an eidolon. This ability changes their base damage and weapon size modifiers to Medium, if the Large or Huge evolutions are taken, then those evolutions will take precidence."
+  },
+  {
+    "Key": "wotr-making-friends.evolutionsizechangegargantuanfeature.name",
+    "zhCN": "幻灵体型改变 巨型",
+    "enGB": "Eidolon Size Change, Gargantuan"
+  },
+  {
+    "Key": "wotr-making-friends.evolutionsizechangegargantuanfeature.description",
+    "zhCN": "一些生物比正常的幻灵更大或更小，这个能力将他们的基础伤害和武器大小修改为中型。如果进行了大型或者超大型进化，那么这些进化的效果会更加优先",
+    "enGB": "Some creatures are normally larger or smaller than normal for an eidolon. This ability changes their base damage and weapon size modifiers to Medium, if the Large or Huge evolutions are taken, then those evolutions will take precidence."
+  },
+  {
+    "Key": "wotr-making-friends.evolutionsizechangecolossalfeature.name",
+    "zhCN": "幻灵体型改变 超巨型",
+    "enGB": "Eidolon Size Change, Colossal"
+  },
+  {
+    "Key": "wotr-making-friends.evolutionsizechangecolossalfeature.description",
+    "zhCN": "一些生物比正常的幻灵更大或更小，这个能力将他们的基础伤害和武器大小修改为中型。如果进行了大型或者超大型进化，那么这些进化的效果会更加优先",
+    "enGB": "Some creatures are normally larger or smaller than normal for an eidolon. This ability changes their base damage and weapon size modifiers to Medium, if the Large or Huge evolutions are taken, then those evolutions will take precidence."
+  },
+  {
+    "Key": "wotr-making-friends.addmaxattacksfeature.name",
+    "zhCN": "最大攻击次数",
+    "enGB": "Maximum Attacks"
+  },
+  {
+    "Key": "wotr-making-friends.addmaxattacksfeature.description",
+    "zhCN": "幻灵的攻击进化受到最大攻击次数的限制。这将使最大值增加1。",
+    "enGB": "The eidolon's attack evolutions are restricted by a maximum number of attacks. This increases that maximum by 1."
+  },
+  {
+    "Key": "wotr-making-friends.eidolonstartingevolutionsfeature.name",
+    "zhCN": "起始进化",
+    "enGB": "Starting Evolutions"
+  },
+  {
+    "Key": "wotr-making-friends.eidolonstartingevolutionsfeature.description",
+    "zhCN": "一些幻灵根据其亚种和基础形态获得额外进化",
+    "enGB": "Some eidolons are given evolutions based on their base form and their subtype."
+  },
+  {
+    "Key": "wotr-making-friends.abberantaberrantstartingevolutionsfeature.name",
+    "zhCN": "异怪型/异怪",
+    "enGB": "Abberant/Aberrant"
+  },
+  {
+    "Key": "wotr-making-friends.abberantaberrantstartingevolutionsfeature.description",
+    "zhCN": "异怪型/异怪",
+    "enGB": "Abberant/Aberrant"
+  },
+  {
+    "Key": "wotr-making-friends.quadrupedaberrantstartingevolutionsfeature.name",
+    "zhCN": "四足型/异怪",
+    "enGB": "Quadruped/Aberrant"
+  },
+  {
+    "Key": "wotr-making-friends.quadrupedaberrantstartingevolutionsfeature.description",
+    "zhCN": "四足型/异怪",
+    "enGB": "Quadruped/Aberrant"
+  },
+  {
+    "Key": "wotr-making-friends.serpentineaberrantstartingevolutionsfeature.name",
+    "zhCN": "蛇身型/异怪",
+    "enGB": "Serpentine/Aberrant"
+  },
+  {
+    "Key": "wotr-making-friends.serpentineaberrantstartingevolutionsfeature.description",
+    "zhCN": "蛇身型/异怪",
+    "enGB": "Serpentine/Aberrant"
+  },
+  {
+    "Key": "wotr-making-friends.bipedaeonstartingevolutionsfeature.name",
+    "zhCN": "二足型/御衡",
+    "enGB": "Biped/Aeon"
+  },
+  {
+    "Key": "wotr-making-friends.bipedaeonstartingevolutionsfeature.description",
+    "zhCN": "二足型/御衡",
+    "enGB": "Biped/Aeon"
+  },
+  {
+    "Key": "wotr-making-friends.serpentineaeonstartingevolutionsfeature.name",
+    "zhCN": "蛇身型/御衡",
+    "enGB": "Serpentine/Aeon"
+  },
+  {
+    "Key": "wotr-making-friends.serpentineaeonstartingevolutionsfeature.description",
+    "zhCN": "蛇身型/御衡",
+    "enGB": "Serpentine/Aeon"
+  },
+  {
+    "Key": "wotr-making-friends.bipedagathionstartingevolutionsfeature.name",
+    "zhCN": "二足型/盖丁",
+    "enGB": "Biped/Agathion"
+  },
+  {
+    "Key": "wotr-making-friends.bipedagathionstartingevolutionsfeature.description",
+    "zhCN": "二足型/盖丁",
+    "enGB": "Biped/Agathion"
+  },
+  {
+    "Key": "wotr-making-friends.quadrupedagathionstartingevolutionsfeature.name",
+    "zhCN": "四足型/盖丁",
+    "enGB": "Quadruped/Agathion"
+  },
+  {
+    "Key": "wotr-making-friends.quadrupedagathionstartingevolutionsfeature.description",
+    "zhCN": "四足型/盖丁",
+    "enGB": "Quadruped/Agathion"
+  },
+  {
+    "Key": "wotr-making-friends.bipedancestorstartingevolutionsfeature.name",
+    "zhCN": "二足型/先祖",
+    "enGB": "Biped/Ancestor"
+  },
+  {
+    "Key": "wotr-making-friends.bipedancestorstartingevolutionsfeature.description",
+    "zhCN": "二足型/先祖",
+    "enGB": "Biped/Ancestor"
+  },
+  {
+    "Key": "wotr-making-friends.bipedangelstartingevolutionsfeature.name",
+    "zhCN": "二足型/天使",
+    "enGB": "Biped/Angel"
+  },
+  {
+    "Key": "wotr-making-friends.bipedangelstartingevolutionsfeature.description",
+    "zhCN": "二足型/天使",
+    "enGB": "Biped/Angel"
+  },
+  {
+    "Key": "wotr-making-friends.bipedarchonstartingevolutionsfeature.name",
+    "zhCN": "二足型/神使",
+    "enGB": "Biped/Archon"
+  },
+  {
+    "Key": "wotr-making-friends.bipedarchonstartingevolutionsfeature.description",
+    "zhCN": "二足型/神使",
+    "enGB": "Biped/Archon"
+  },
+  {
+    "Key": "wotr-making-friends.bipedastralstartingevolutionsfeature.name",
+    "zhCN": "二足型/星界",
+    "enGB": "Biped/Astral"
+  },
+  {
+    "Key": "wotr-making-friends.bipedastralstartingevolutionsfeature.description",
+    "zhCN": "二足型/星界",
+    "enGB": "Biped/Astral"
+  },
+  {
+    "Key": "wotr-making-friends.serpentineastralstartingevolutionsfeature.name",
+    "zhCN": "蛇身型/星界",
+    "enGB": "Serpentine/Astral"
+  },
+  {
+    "Key": "wotr-making-friends.serpentineastralstartingevolutionsfeature.description",
+    "zhCN": "蛇身型/星界",
+    "enGB": "Serpentine/Astral"
+  },
+  {
+    "Key": "wotr-making-friends.bipedazatastartingevolutionsfeature.name",
+    "zhCN": "二足型/爱塔",
+    "enGB": "Biped/Azata"
+  },
+  {
+    "Key": "wotr-making-friends.bipedazatastartingevolutionsfeature.description",
+    "zhCN": "二足型/爱塔",
+    "enGB": "Biped/Azata"
+  },
+  {
+    "Key": "wotr-making-friends.serpentineazatastartingevolutionsfeature.name",
+    "zhCN": "蛇身型/爱塔",
+    "enGB": "Serpentine/Azata"
+  },
+  {
+    "Key": "wotr-making-friends.serpentineazatastartingevolutionsfeature.description",
+    "zhCN": "蛇身型/爱塔",
+    "enGB": "Serpentine/Azata"
+  },
+  {
+    "Key": "wotr-making-friends.bipeddaemonstartingevolutionsfeature.name",
+    "zhCN": "二足型/邪魔",
+    "enGB": "Biped/Daemon"
+  },
+  {
+    "Key": "wotr-making-friends.bipeddaemonstartingevolutionsfeature.description",
+    "zhCN": "二足型/邪魔",
+    "enGB": "Biped/Daemon"
+  },
+  {
+    "Key": "wotr-making-friends.abberantdaemonstartingevolutionsfeature.name",
+    "zhCN": "异怪型/邪魔",
+    "enGB": "Abberant/Daemon"
+  },
+  {
+    "Key": "wotr-making-friends.abberantdaemonstartingevolutionsfeature.description",
+    "zhCN": "异怪型/邪魔",
+    "enGB": "Abberant/Daemon"
+  },
+  {
+    "Key": "wotr-making-friends.serpentinedaemonstartingevolutionsfeature.name",
+    "zhCN": "蛇身型/邪魔",
+    "enGB": "Serpentine/Daemon"
+  },
+  {
+    "Key": "wotr-making-friends.serpentinedaemonstartingevolutionsfeature.description",
+    "zhCN": "蛇身型/邪魔",
+    "enGB": "Serpentine/Daemon"
+  },
+  {
+    "Key": "wotr-making-friends.serpentinedeepwaterstartingevolutionsfeature.name",
+    "zhCN": "蛇身型/深海",
+    "enGB": "Serpentine/Deepwater"
+  },
+  {
+    "Key": "wotr-making-friends.serpentinedeepwaterstartingevolutionsfeature.description",
+    "zhCN": "蛇身型/深海",
+    "enGB": "Serpentine/Deepwater"
+  },
+  {
+    "Key": "wotr-making-friends.abberantdemonstartingevolutionsfeature.name",
+    "zhCN": "异怪型/恶魔",
+    "enGB": "Abberant/Demon"
+  },
+  {
+    "Key": "wotr-making-friends.abberantdemonstartingevolutionsfeature.description",
+    "zhCN": "异怪型/恶魔",
+    "enGB": "Abberant/Demon"
+  },
+  {
+    "Key": "wotr-making-friends.bipeddemonstartingevolutionsfeature.name",
+    "zhCN": "二足型/恶魔",
+    "enGB": "Biped/Demon"
+  },
+  {
+    "Key": "wotr-making-friends.bipeddemonstartingevolutionsfeature.description",
+    "zhCN": "二足型/恶魔",
+    "enGB": "Biped/Demon"
+  },
+  {
+    "Key": "wotr-making-friends.quadrupeddemonstartingevolutionsfeature.name",
+    "zhCN": "四足型/恶魔",
+    "enGB": "Quadruped/Demon"
+  },
+  {
+    "Key": "wotr-making-friends.quadrupeddemonstartingevolutionsfeature.description",
+    "zhCN": "四足型/恶魔",
+    "enGB": "Quadruped/Demon"
+  },
+  {
+    "Key": "wotr-making-friends.serpentinedemonstartingevolutionsfeature.name",
+    "zhCN": "蛇身型/恶魔",
+    "enGB": "Serpentine/Demon"
+  },
+  {
+    "Key": "wotr-making-friends.serpentinedemonstartingevolutionsfeature.description",
+    "zhCN": "蛇身型/恶魔",
+    "enGB": "Serpentine/Demon"
+  },
+  {
+    "Key": "wotr-making-friends.bipeddevilstartingevolutionsfeature.name",
+    "zhCN": "二足型/魔鬼",
+    "enGB": "Biped/Devil"
+  },
+  {
+    "Key": "wotr-making-friends.bipeddevilstartingevolutionsfeature.description",
+    "zhCN": "二足型/魔鬼",
+    "enGB": "Biped/Devil"
+  },
+  {
+    "Key": "wotr-making-friends.bipeddivstartingevolutionsfeature.name",
+    "zhCN": "二足型/妖灵",
+    "enGB": "Biped/Div"
+  },
+  {
+    "Key": "wotr-making-friends.bipeddivstartingevolutionsfeature.description",
+    "zhCN": "二足型/妖灵",
+    "enGB": "Biped/Div"
+  },
+  {
+    "Key": "wotr-making-friends.abberantelementalstartingevolutionsfeature.name",
+    "zhCN": "异怪型/元素",
+    "enGB": "Abberant/Elemental"
+  },
+  {
+    "Key": "wotr-making-friends.abberantelementalstartingevolutionsfeature.description",
+    "zhCN": "异怪型/元素",
+    "enGB": "Abberant/Elemental"
+  },
+  {
+    "Key": "wotr-making-friends.bipedelementalstartingevolutionsfeature.name",
+    "zhCN": "二足型/元素",
+    "enGB": "Biped/Elemental"
+  },
+  {
+    "Key": "wotr-making-friends.bipedelementalstartingevolutionsfeature.description",
+    "zhCN": "二足型/元素",
+    "enGB": "Biped/Elemental"
+  },
+  {
+    "Key": "wotr-making-friends.serpentineelementalstartingevolutionsfeature.name",
+    "zhCN": "蛇身型/元素",
+    "enGB": "Serpentine/Elemental"
+  },
+  {
+    "Key": "wotr-making-friends.serpentineelementalstartingevolutionsfeature.description",
+    "zhCN": "蛇身型/元素",
+    "enGB": "Serpentine/Elemental"
+  },
+  {
+    "Key": "wotr-making-friends.bipedgeniestartingevolutionsfeature.name",
+    "zhCN": "二足型/巨灵",
+    "enGB": "Biped/Genie"
+  },
+  {
+    "Key": "wotr-making-friends.bipedgeniestartingevolutionsfeature.description",
+    "zhCN": "二足型/巨灵",
+    "enGB": "Biped/Genie"
+  },
+  {
+    "Key": "wotr-making-friends.bipedinevitablestartingevolutionsfeature.name",
+    "zhCN": "二足型/制裁者",
+    "enGB": "Biped/Inevitable"
+  },
+  {
+    "Key": "wotr-making-friends.bipedinevitablestartingevolutionsfeature.description",
+    "zhCN": "二足型/制裁者",
+    "enGB": "Biped/Inevitable"
+  },
+  {
+    "Key": "wotr-making-friends.bipedkamistartingevolutionsfeature.name",
+    "zhCN": "二足型/式神",
+    "enGB": "Biped/Kami"
+  },
+  {
+    "Key": "wotr-making-friends.bipedkamistartingevolutionsfeature.description",
+    "zhCN": "二足型/式神",
+    "enGB": "Biped/Kami"
+  },
+  {
+    "Key": "wotr-making-friends.bipedkytonstartingevolutionsfeature.name",
+    "zhCN": "二足型/链魔",
+    "enGB": "Biped/Kyton"
+  },
+  {
+    "Key": "wotr-making-friends.bipedkytonstartingevolutionsfeature.description",
+    "zhCN": "二足型/链魔",
+    "enGB": "Biped/Kyton"
+  },
+  {
+    "Key": "wotr-making-friends.serpentineproteanstartingevolutionsfeature.name",
+    "zhCN": "蛇身型/幻蛇",
+    "enGB": "Serpentine/Protean"
+  },
+  {
+    "Key": "wotr-making-friends.serpentineproteanstartingevolutionsfeature.description",
+    "zhCN": "蛇身型/幻蛇",
+    "enGB": "Serpentine/Protean"
+  },
+  {
+    "Key": "wotr-making-friends.bipedpsychopompstartingevolutionsfeature.name",
+    "zhCN": "二足型/招魂者",
+    "enGB": "Biped/Psychopomp"
+  },
+  {
+    "Key": "wotr-making-friends.bipedpsychopompstartingevolutionsfeature.description",
+    "zhCN": "二足型/招魂者",
+    "enGB": "Biped/Psychopomp"
+  },
+  {
+    "Key": "wotr-making-friends.quadrupedpsychopompstartingevolutionsfeature.name",
+    "zhCN": "四足型/招魂者",
+    "enGB": "Quadruped/Psychopomp"
+  },
+  {
+    "Key": "wotr-making-friends.quadrupedpsychopompstartingevolutionsfeature.description",
+    "zhCN": "四足型/招魂者",
+    "enGB": "Quadruped/Psychopomp"
+  },
+  {
+    "Key": "wotr-making-friends.serpentinepsychopompstartingevolutionsfeature.name",
+    "zhCN": "蛇身型/招魂者",
+    "enGB": "Serpentine/Psychopomp"
+  },
+  {
+    "Key": "wotr-making-friends.serpentinepsychopompstartingevolutionsfeature.description",
+    "zhCN": "蛇身型/招魂者",
+    "enGB": "Serpentine/Psychopomp"
+  },
+  {
+    "Key": "wotr-making-friends.bipedradiantstartingevolutionsfeature.name",
+    "zhCN": "二足型/辐光",
+    "enGB": "Biped/Radiant"
+  },
+  {
+    "Key": "wotr-making-friends.bipedradiantstartingevolutionsfeature.description",
+    "zhCN": "二足型/辐光",
+    "enGB": "Biped/Radiant"
+  },
+  {
+    "Key": "wotr-making-friends.quadrupedradiantstartingevolutionsfeature.name",
+    "zhCN": "四足型/辐光",
+    "enGB": "Quadruped/Radiant"
+  },
+  {
+    "Key": "wotr-making-friends.quadrupedradiantstartingevolutionsfeature.description",
+    "zhCN": "四足型/辐光",
+    "enGB": "Quadruped/Radiant"
+  },
+  {
+    "Key": "wotr-making-friends.bipedshadowstartingevolutionsfeature.name",
+    "zhCN": "二足型/阴影",
+    "enGB": "Biped/Shadow"
+  },
+  {
+    "Key": "wotr-making-friends.bipedshadowstartingevolutionsfeature.description",
+    "zhCN": "二足型/阴影",
+    "enGB": "Biped/Shadow"
+  },
+  {
+    "Key": "wotr-making-friends.serpentineshadowstartingevolutionsfeature.name",
+    "zhCN": "蛇身型/阴影",
+    "enGB": "Serpentine/Shadow"
+  },
+  {
+    "Key": "wotr-making-friends.serpentineshadowstartingevolutionsfeature.description",
+    "zhCN": "蛇身型/阴影",
+    "enGB": "Serpentine/Shadow"
+  },
+  {
+    "Key": "wotr-making-friends.bipedstorykinstartingevolutionsfeature.name",
+    "zhCN": "二足型/叙中人",
+    "enGB": "Biped/Storykin"
+  },
+  {
+    "Key": "wotr-making-friends.bipedstorykinstartingevolutionsfeature.description",
+    "zhCN": "二足型/叙中人",
+    "enGB": "Biped/Storykin"
+  },
+  {
+    "Key": "wotr-making-friends.quadrupedstorykinstartingevolutionsfeature.name",
+    "zhCN": "四足型/叙中人",
+    "enGB": "Quadruped/Storykin"
+  },
+  {
+    "Key": "wotr-making-friends.quadrupedstorykinstartingevolutionsfeature.description",
+    "zhCN": "四足型/叙中人",
+    "enGB": "Quadruped/Storykin"
+  },
+  {
+    "Key": "wotr-making-friends.serpentinestorykinstartingevolutionsfeature.name",
+    "zhCN": "蛇身型/叙中人",
+    "enGB": "Serpentine/Storykin"
+  },
+  {
+    "Key": "wotr-making-friends.serpentinestorykinstartingevolutionsfeature.description",
+    "zhCN": "蛇身型/叙中人",
+    "enGB": "Serpentine/Storykin"
+  },
+  {
+    "Key": "wotr-making-friends.bipedtwinnedstartingevolutionsfeature.name",
+    "zhCN": "二足型/双子",
+    "enGB": "Biped/Twinned"
+  },
+  {
+    "Key": "wotr-making-friends.bipedtwinnedstartingevolutionsfeature.description",
+    "zhCN": "二足型/双子",
+    "enGB": "Biped/Twinned"
+  },
+  {
+    "Key": "wotr-making-friends.bipedvoidstartingevolutionsfeature.name",
+    "zhCN": "二足型/虚体",
+    "enGB": "Biped/Void"
+  },
+  {
+    "Key": "wotr-making-friends.bipedvoidstartingevolutionsfeature.description",
+    "zhCN": "二足型/虚体",
+    "enGB": "Biped/Void"
+  },
+  {
+    "Key": "wotr-making-friends.summoneraspectfeature.name",
+    "zhCN": "异界型态",
+    "enGB": "Aspect"
+  },
+  {
+    "Key": "wotr-making-friends.summoneraspectfeature.description",
+    "zhCN": "10级起，召唤师能够从幻灵的进化池中转移至多2点进化点，并将进化添加在自己身上。他无法选择幻灵无法选取的进化，而且他本人也必须满足进化的先决条件（只要幻灵满足进化的先决条件中的亚种，召唤师本人就可以忽略进化对于亚种的要求）。召唤师无法通过该能力选择属性强化（Ability Increase）这项进化。任何以此方式花费的进化点数都来自幻灵的进化池（这会减少可以应用至幻灵身上的总进化点数）。每当召唤师可以改变幻灵的进化时，他也可以改变由这些点数而获得的进化。",
+    "enGB": "At 10th level, a summoner can divert up to 2 points from his eidolon’s evolution pool to add evolutions to himself. He cannot select any evolution that the eidolon could not possess, and he must be able to meet the requirements as well (except for subtype requirements, so long as his eidolon meets the subtype requirement). He cannot select the ability increase evolution through this ability. Any points spent in this way are taken from the eidolon’s evolution pool (reducing the total number available to the eidolon). The summoner can change the evolutions granted by these points anytime he can change the eidolon’s evolutions."
+  },
+  {
+    "Key": "wotr-making-friends.summoneraspectgreaterfeature.name",
+    "zhCN": "高等异界型态",
+    "enGB": "Greater Aspect"
+  },
+  {
+    "Key": "wotr-making-friends.summoneraspectgreaterfeature.description",
+    "zhCN": "18级起，召唤师能够将更多的幻灵进化点转移至自己身上。该能力的功能如同异界型态（Aspect）一般，不过召唤师最多能够转移给自己的进化点增加至6点。此外，召唤师每转移2点进化点（不足2点的部分按照2点计算），幻灵的进化池仅会失去1点进化点，而不是每转移1点进化点从进化池中消耗1点。",
+    "enGB": "At 18th level, a summoner can divert more of his eidolon’s evolutions to himself. This ability functions as the aspect ability, but the maximum number of evolution points the summoner can divert increases to 6. In addition, the eidolon loses 1 point from its evolution pool for every 2 points (or fraction thereof ) diverted to the summoner instead of losing 1 point from the evolution pool for each point diverted."
+  },
+  {
+    "Key": "wotr-making-friends.eidolonfireelementalvariantfeature.name",
+    "zhCN": "火",
+    "enGB": "Fire"
+  },
+  {
+    "Key": "wotr-making-friends.eidolonairelementalvariantfeature.name",
+    "zhCN": "气",
+    "enGB": "Air"
+  },
+  {
+    "Key": "wotr-making-friends.eidolonwaterelementalvariantfeature.name",
+    "zhCN": "水",
+    "enGB": "Water"
+  },
+  {
+    "Key": "wotr-making-friends.eidolonearthelementalvariantfeature.name",
+    "zhCN": "土",
+    "enGB": "Earth"
+  },
+  {
+    "Key": "wotr-making-friends.eidolonfireelementalcapstonefeature.name",
+    "zhCN": "火",
+    "enGB": "Fire"
+  },
+  {
+    "Key": "wotr-making-friends.eidolonfireelementalcapstonefeature.description",
+    "zhCN": "这个幻灵获得灵活移动专长",
+    "enGB": "The eidolon gains Mobility."
+  },
+  {
+    "Key": "wotr-making-friends.eidolonearthelementalcapstonefeature.name",
+    "zhCN": "土",
+    "enGB": "Earth"
+  },
+  {
+    "Key": "wotr-making-friends.eidolonearthelementalcapstonefeature.description",
+    "zhCN": "这个幻灵获得能量攻击 酸液进化",
+    "enGB": "The eidolon gains the Energy Attacks, Acid evolution."
+  },
+  {
+    "Key": "wotr-making-friends.eidolonairelementalcapstonefeature.name",
+    "zhCN": "气",
+    "enGB": "Air"
+  },
+  {
+    "Key": "wotr-making-friends.eidolonairelementalcapstonefeature.description",
+    "zhCN": "这个幻灵获得旋风能力",
+    "enGB": "The eidolon gains the Whirlwind ability."
+  },
+  {
+    "Key": "wotr-making-friends.eidolonwaterelementalcapstonefeature.name",
+    "zhCN": "水",
+    "enGB": "Water"
+  },
+  {
+    "Key": "wotr-making-friends.eidolonwaterelementalcapstonefeature.description",
+    "zhCN": "这个幻灵获得旋风能力",
+    "enGB": "The eidolon gains the Whirlwind ability."
+  },
+  {
+    "Key": "wotr-making-friends.grandeidolonfeaturefeature.name",
+    "zhCN": "宏伟幻灵",
+    "enGB": "Grand Eidolon"
+  },
+  {
+    "Key": "wotr-making-friends.grandeidolonfeaturefeature.description",
+    "zhCN": "幻灵获得额外4个进化点，并且在选择进化时忽略一切亚种限制",
+    "enGB": "The eidolon gains 4 additional evolution points and ignores all subtype restrictions when choosing an evolution."
+  },
+  {
+    "Key": "wotr-making-friends.eidolonbonushealingfeature.name",
+    "zhCN": "额外治疗",
+    "enGB": "Bonus Healing"
+  },
+  {
+    "Key": "wotr-making-friends.eidolonbonushealingfeature.description",
+    "zhCN": "每当幻灵受到回复生命值的法术或非法术治疗效果时，每个角色等级额外回复1点，这不会影响再生或者快速痊愈",
+    "enGB": "Whenever the eidolon is subject to a spell or a non-spell healing effect that cures hit point damage, it heals 1 additional point of damage per her character level. This does not affect fast healing or regeneration."
+  },
+  {
+    "Key": "wotr-making-friends.eidolonabberantbaseformfeature.description",
+    "zhCN": "起始数据：体型 中型；速度 20尺，游泳20尺；AC +2天生护甲；豁免 强韧（高），反射（低），意志（高）；攻击 啮咬（1d6），触手（1d6）；属性 力量 12，敏捷 13，体质 16，智力 7，感知 10，魅力 11",
+    "enGB": "Starting Statistics: Size Medium; Speed: 20f ft.,swim 20 ft.; AC: +2 natural armor; Saves: Fort (good), Ref (poor), Will (good); Attack: bite (1d6), tentacles (1d6); Ability Scores: Str 12, Dex 13, Con 16, Int 7, Wis 10, Cha 11"
+  },
+  {
+    "Key": "wotr-making-friends.eidolonbipedbaseformfeature.description",
+    "zhCN": "起始数据：体型：中型；速度：30尺；AC：天生护甲+2；豁免：强韧（高），反射（低），意志（高）；攻击：2爪抓（1d4）；属性：力量16，敏捷12，体质13，智力7，感知10，魅力11",
+    "enGB": "Starting Statistics: Size Medium; Speed: 30 ft.; AC: +2 natural armor; Saves: Fort (good), Ref (poor), Will (good); Attack: 2 claws (1d4); Ability Scores: Str 16, Dex 12, Con 13, Int 7, Wis 10, Cha 11"
+  },
+  {
+    "Key": "wotr-making-friends.eidolonquadrupedbaseformfeature.description",
+    "zhCN": "起始数据：体型：中型；速度：40尺；AC：天生护甲+2；豁免：强韧（高），反射（高），意志（低）；攻击：啮咬（1d6）；属性：力量14，敏捷14，体质13，智力7，感知10，魅力11",
+    "enGB": "Starting Statistics: Size Medium; Speed: 40 ft.; AC: +2 natural armor; Saves: Fort (good), Ref (good), Will (poor); Attack: bite (1d6); Ability Scores: Str 14, Dex 14, Con 13, Int 7, Wis 10, Cha 11"
+  },
+  {
+    "Key": "wotr-making-friends.eidolonserpentinebaseformfeature.description",
+    "zhCN": "起始数据：体型：中型；速度：20尺，攀爬：20尺；AC：天生护甲+2；豁免：强韧（低），反射（高），意志（高）；攻击：啮咬（1d6），尾扫（1d6）；属性：力量12，敏捷16，体质13，智力7，感知10，魅力11",
+    "enGB": "Starting Statistics: Size Medium; Speed: 20 ft., climb 20 ft.; AC: +2 natural armor; Saves: Fort (poor), Ref (good), Will (good); Attack: bite (1d6), tail slap (1d6); Ability Scores: Str 12, Dex 16, Con 13, Int 7, Wis 10, Cha 11"
+  },
+  {
+    "Key": "wotr-making-friends.eidolonaberrantsubtypefeature.description",
+    "zhCN": "来自遥远群星、幽暗地域的无光深渊、深海或甚至是狂人噩梦之中的异形实体，长久以来一直吸引着那些过于癡迷此种诡怪型态的召唤师们。当大多数的召唤师从伟大彼岸（Great Beyond）呼唤异界生物时，有些召唤师发现如何从主物质位面的诡奇角落召唤这些异形实体。这些受召唤前来的仆役被称作异怪幻灵。异怪幻灵跟那些栖居于无人铭记或无名的现实边缘的非异界生物的异怪在许多能力与体态上的相似之处，但这些畸形的实体与其它幻灵一样，在决定那些法术能够影响他们时仍然属于异界生物。",
+    "enGB": "Alien entities from the farthest stars, the lightless depths of the Darklands, the sea itself, or even a lunatic’s nightmares have long intrigued summoners who become obsessed with the monstrous form. While most summoners call upon outsiders from the Great Beyond, some discover the secret to summoning alien entities from strange corners of the Material Plane. These summoned minions are known as aberrant eidolons. Aberrant eidolons share many abilities and physical features with the nonoutsider aberrations that dwell in forgotten or nameless reaches of reality, but these malformed entities are still outsiders like any other eidolon for the purposes of determining which spells affect them."
+  },
+  {
+    "Key": "wotr-making-friends.eidolonaeonsubtypefeature.description",
+    "zhCN": "御衡者幻灵被创造的目的是监视特定的二元性，他们在执行自己理解的平衡时令人沮丧地固执。",
+    "enGB": "Created to monitor a specific duality, an aeon eidolon often proves frustratingly headstrong in enforcing its own interpretation of balance."
+  },
+  {
+    "Key": "wotr-making-friends.eidolonagathionsubtypefeature.description",
+    "zhCN": "身为外层位面（Outer Planes）中善良阵营的联络官，沉着而睿智的盖丁幻灵力图做到除暴安良。盖丁幻灵总是具有某一种动物或生物的面貌，而非几种存在的混合体。即便盖丁幻灵会对行事方法不太正统和偏离善良之路的召唤师抱持耐心，但它们绝不会让自己的力量用在邪恶的目的上。盖丁幻灵会试图让召唤师受到自己的教化。",
+    "enGB": "Patient and enlightened liaisons of the good-aligned Outer Planes, agathion eidolons seek to vanquish evil and protect that which is good. Agathion eidolons always have aspects of a single animal or creature, rather than a hodgepodge of several. Though they have patience for summoners with unorthodox methods and even those who stray from the path of good, they will not brook their powers being used for evil ends. An agathion eidolon seeks to bring its summoner closer to its own enlightenment."
+  },
+  {
+    "Key": "wotr-making-friends.eidolonancestorsubtypefeature.description",
+    "zhCN": "无论由是召唤师与他已经列为外位面存在的祈并者的祖先之间产生联结，又或是他的先人魂魄在灵界或是阿卡夏记录中留下的记忆回响被召唤现世，先祖幻灵是拥有凡人之型的异界存在，但它们拥有的力量和天赋远超主物质界生物的能力。这些幻灵的外貌近似于他们仍然在生时候的模样，但总是显得更为独特和坚毅。出于它与召唤师之间基于血缘，崇敬或是荣誉之间无言的联结，先祖幻灵总是会毫无保留地支持与自己达成契约的召唤者。",
+    "enGB": "Whether created by bonding with the soul of a petitioner that was the summoner’s ancestor in life or calling upon the impressions of such a soul left behind on the Ethereal Plane or the Akashic Record, ancestor eidolons are outsiders cast in the mold of mortals, and exhibit extraordinary skill and talent. They usually appear as idealized versions of the bodies they possessed while still alive, but distinctive and proud. Ancestor eidolons lend whatever aid they can to their summoner, who typically has some form of familial connection with the eidolon, be it by blood, honor, or devotion."
+  },
+  {
+    "Key": "wotr-making-friends.eidolonangelsubtypefeature.description",
+    "zhCN": "自天界降临的天使幻灵是美的化身。它们的外貌通常都是理想化的人形形态，具有光洁的肌肤、华美的长发与澄明的双瞳。天使幻灵具有无可挑剔的荣誉感，值得信赖又擅长沟通，但是在面对邪恶势力何其爪牙时，它们不会回避冲突。",
+    "enGB": "Hailing from the higher planes, angel eidolons are creatures of exquisite beauty. They usually appear in idealized humanoid forms, with smooth skin, shining hair, and bright eyes. Angel eidolons are impeccably honorable, trustworthy, and diplomatic, but they do not shy away from confrontation when facing off against evil and its minions."
+  },
+  {
+    "Key": "wotr-making-friends.eidolonarchonsubtypefeature.description",
+    "zhCN": "自天堂接受呼唤的神使幻灵是正义的化身。它们通常会呈现出强大而又优美的形体，具有强健的肌肉却又能够优雅地行动。神使幻灵通常会投身于善良的事业中，对于有悖自身誓言和理想的存在抱有些许的容忍——这也包括呼唤它们的召唤师。只要是为了保护无辜之人和阻止邪恶力量的脚步，神使幻灵愿意去做任何事情。",
+    "enGB": "Summoned from heaven, archon eidolons are the embodiments of righteousness. They often take on powerful, graceful forms, rippling with muscles but refined in their movements. Archon eidolons are totally dedicated to the cause of good, and have little patience for those who violate their oaths and ideals—including the summoner who called them. Archons will do whatever it takes to stop the advance of evil and protect the innocent."
+  },
+  {
+    "Key": "wotr-making-friends.eidolonastralsubtypefeature.description",
+    "zhCN": "虽然有些类似于衔尾蛇，大部分星界幻灵是从原始思想中纺编出来，或者断了银线（Silver cord）的星际旅行者的外壳。",
+    "enGB": "While some resemble ouroboroses, most astral eidolons are spun from raw thought or the husks of Astral travelers whose silver cords broke."
+  },
+  {
+    "Key": "wotr-making-friends.eidolonazatasubtypefeature.description",
+    "zhCN": "身为极乐园野（Elysium）那不羁之美和崇高基情的化身，爱塔幻灵同时兼具了野性和美丽这两种特质。它们通常呈现为精灵或精类这样优雅的形态，不过有时候它们也会呈现为如同翼蛇人（lillends）一样的外观，具有蛇形的长尾。爱塔幻灵反覆无常而且具有主见，关于如何战胜邪恶和享乐，它们往往会有自己的主意。因此当召唤师命令它进行让人不快或恶毒的行为时，可能会遭到爱塔幻灵的拒绝。而在另一方面，爱塔幻灵对召唤师来说也是热情而又忠实的伙伴。",
+    "enGB": "Embodiments of the untamable beauty and noble passion of Elysium, azata eidolons have wild and beautiful features. They often take graceful forms reminiscent of elves or fey, but they occasionally appear like lillends, with serpentine tails. Azata eidolons are flighty and independent, and they often have their own ideas about how to defeat evil or have a good time. Thus, an azata eidolon is likely to balk if its summoner commands it to perform offensive or nefarious actions. On the other hand, an azata eidolon in sync with its summoner is a passionate and devoted companion."
+  },
+  {
+    "Key": "wotr-making-friends.eidolondaemonsubtypefeature.description",
+    "zhCN": "作为可怖死亡的代理者，邪魔幻灵希望所有的一切都被彻底毁灭。根据邪魔幻灵自身所代表的死亡类型，它们具有千奇百怪的形态，相比为人所知晓的邪魔来说，邪魔幻灵所代表的死亡可能是一种晦涩不清的类型。邪魔幻灵希望能够通过各种手段散播死亡和痛苦。大多数邪魔幻灵都能够看清大局，即便是中立召唤师也够让它们的服从。杀生是冒险者生涯的标准组成部分，因此追随召唤师能够让邪魔幻灵为了自己那黑暗而又神秘的目标收集到许多凡人的灵魂能量。",
+    "enGB": "The agents of horrible deaths, daemon eidolons desire the utter annihilation of all things. Their forms vary wildly depending on which type of death they embody, and daemon eidolons sometimes represent a more obscure kind of death than the most famous daemons. Daemon eidolons wish to sow death and misery through a variety of means. Most are capable of seeing the big picture, and will obediently follow even a neutral summoner. Ending lives is a typical part of an adventurer’s career, so following along with a summoner gives a daemon eidolon many opportunities to gather mortal soul energy for its own dark and inscrutable purposes."
+  },
+  {
+    "Key": "wotr-making-friends.eidolondeepwatersubtypefeature.description",
+    "zhCN": "在茫茫大海中有着连光线都甚少触及的地方，那里是跟危险位面有联系而且拥有无法想象的力量的生物的家园。有少数召唤师尝试从这些深海幽谷中召唤出完全非人存在的幻灵作盟友，他们拥有蠕动的触手和咬喙。尽管这些深水幻灵表面上看来像原始的野兽，例如底栖魔鱼、克拉肯或乌贼鳗鱼之类——那只是因为他们在以前遭遇过类似的深海生命体，他们始于跟其他幻灵一样在判断影响他们的法术和能力时视作异界生物。",
+    "enGB": "The vast, lightless reaches of the sea are home to creatures of unimaginable power with connections to dangerous planes. A few rare summoners attempt to conjure forth eidolons from these cold, alien depths, drawing forth utterly inhuman allies with squirming tentacles and gnashing beaks. Although these eidolons may superficially resemble primeval beasts such as aboleths, krakens, or monstrous squids or eels—if they resemble any previously encountered deep-sea life-form at all—they are outsiders like any other eidolon for the purposes of spells and effects that affect them."
+  },
+  {
+    "Key": "wotr-making-friends.eidolondemonsubtypefeature.description",
+    "zhCN": "恶魔幻灵是为了纯粹的毁灭而诞生的实体，它们由深渊中备受煎熬的灵魂能量所构成，这让学者们不由得推测，召唤师的技艺和最初诞生恶魔的魔法影响有关。恶魔幻灵沉醉于制造毁灭和向他人施加痛苦，它们会毫无异议地为召唤师执行此类行为，并为它们所制造的任何毁灭而感到欢愉。对于恶魔幻灵来说，过程比结果更为重要。",
+    "enGB": "Raw destruction given material substance, demon eidolons form out of the Abyss’s stew of soul energy, leading some scholars to speculate that the summoner’s arts are related to the magical tampering that gave rise to the first demons. Demon eidolons revel in causing destruction and inflicting suffering, and they will do so for their summoners without question, taking pleasure in whatever havoc they can create. For a demon eidolon, the means justify the ends."
+  },
+  {
+    "Key": "wotr-making-friends.eidolondevilsubtypefeature.description",
+    "zhCN": "魔鬼幻灵是腐蚀者、诱惑者和掠夺者，它们通常会顺从而高效地为召唤师服务，花费漫长的时间尝试引诱召唤师的灵魂堕入地狱的最深处。尽管有的魔鬼具有别具一格的形态，不过相比那种真正怪异的外观来说，魔鬼幻灵一般都会化身为传统的双足形态，因为这样更容易和召唤师构筑深厚的关系从而引诱他堕落。",
+    "enGB": "Corruptors, tempters, and despoilers, devil eidolons often serve their summoners obediently and efficiently, all in a long-term attempt to damn the summoner’s soul to the deepest depths of Hell. While some types of devils have truly unusual forms, devil eidolons have found that the more traditional bipedal form allows them to build up a strong rapport with their summoners—and consequently to corrupt them—more easily than if they possessed a more monstrous appearance."
+  },
+  {
+    "Key": "wotr-making-friends.eidolondivsubtypefeature.description",
+    "zhCN": "妖灵幻灵由怨念与仇恨构筑而成，它们希望掠夺并摧毁所有美好和快乐的事物。妖灵幻灵对于拥有凡人主子这件事深恶痛绝，它迫切希望毁灭自己的召唤者，让那家伙明白痛苦与失却的滋味。每个妖灵幻灵都有必须遵循一种独特的强迫行为——比如飞颅妖（doru）对秘密的着迷——这使得妖灵幻灵能够与召唤师达成协议，以某种代价交换它们的忠诚。妖灵幻灵的召唤师利用幻灵的强迫症来引诱并控制它。然而妖灵幻灵绝不会放弃，它们继续计划并尝试摧毁主人的珍爱之物。",
+    "enGB": "Formed of hatred and spite, div eidolons seek to despoil and ruin all things beautiful and joyous. Div eidolons particularly resent having mortal masters, and seek to doom their summoners to existences full of suffering and loss. Each div eidolon has a unique compulsion it must follow—usually something similar to the doru’s obsession with secrets—that leads it to bargain its loyalty for something the summoner provides. The div’s summoner uses his eidolon’s compulsion to entrap and control the eidolon. Still, div eidolons never fully give in, and continue to plot ways they might corrupt that which their masters hold dearest."
+  },
+  {
+    "Key": "wotr-making-friends.eidolonelementalsubtypefeature.description",
+    "zhCN": "元素幻灵来自四大元素位面之一，它们连接着1种元素：气、土、火或水。一般来说，元素幻灵看起来像是完全由某种元素构成的生物，在此基础上会产生一些变化。元素幻灵的意图和行为明确而有节制。只要能够寻求维持平衡，它们便会倾向于避免和他人产生冲突。但是也有例外，那便是元素幻灵在面对自己极度仇恨的对立元素的使者的时候。",
+    "enGB": "Pulled in from one of the four elemental planes, these eidolons are linked to one of the four elements: air, earth, fire, or water. Generally, an elemental eidolon appears as a creature made entirely of one element, but there is some variation. Elemental eidolons are decidedly moderate in their views and actions. They tend to avoid the conf licts of others when they can and seek to maintain balance. The only exception is when facing off against emissaries of their opposing elements, which they hate utterly."
+  },
+  {
+    "Key": "wotr-making-friends.eidolongeniesubtypefeature.description",
+    "zhCN": "巨灵是拥有人形的元素生物，并且巨灵幻灵通常会在对召唤师的阿谀奉承和对其能让幻灵感到优越感的怪癖的尖酸讽刺之间摇摆。",
+    "enGB": "Genies are elemental beings that take humanoid forms, and genie eidolons often vacillate between humble kowtowing and biting observations about the summoner’s foibles that make the eidolon look superior. The following rules are designed for the unchained summoner—see Pathfinder RPG Pathfinder Unchained for more details on this optional variant of the summoner class."
+  },
+  {
+    "Key": "wotr-making-friends.eidoloninevitablesubtypefeature.description",
+    "zhCN": "制裁者幻灵永不停歇地对抗者混沌以及那些打破自然规律的存在，它们对于循规蹈矩的守序召唤师来说是忠诚的同伴。制裁者的召唤师通常会与奇匠族（Axiomite）相处得很好，因为他们能向召唤师分享打造和改装制裁者的知识和工艺。制裁者幻灵看起来就好像发条构装体与理想化的类人雕像的结合体。",
+    "enGB": "Implacable and ceaseless in their fight against chaos and those who break natural laws, inevitables make loyal, if literal-minded, companions for lawful summoners. Summoners of inevitables generally get along well with axiomites, who share their understanding of the process of forging and modifying an inevitable. Inevitable eidolons appear as a mixture between clockwork constructs and idealized humanoid statues."
+  },
+  {
+    "Key": "wotr-making-friends.eidolonkamisubtypefeature.description",
+    "zhCN": "社神幻灵是与Unchained版召唤师紧密连接在一起的自然之灵。他们力图守护自身的御守，由于他们与召唤师之间的纽带，其选择御守的灵活性强于大部分同类。",
+    "enGB": "Kami eidolons are spirits of nature bound to an unchained summoner. They seek to protect their wards, but because of their summoner’s bond, they have more flexibility choosing their wards than most of their kind."
+  },
+  {
+    "Key": "wotr-making-friends.eidolonkytonsubtypefeature.description",
+    "zhCN": "学者们对痛苦的细腻和肉体局限性的探索者们都明白，凡人的形态是一张渴望改变的空白画布。它们看起来像人形，只是身上布满了穿孔，身上挂着链子，身上有可怕的变形。Kyton eidolon获得了触手和网的进化，但Kyton eidron的触手和网络总是以动画链的形式出现。",
+    "enGB": "Scholars of the exquisiteness of agony and explorers of the limitations of the flesh, kytons understand the mortal form is a blank canvas aching for transformation. They appear as humanoids, save that they are covered in piercings, draped with chains, and bear grisly body modifications. Kyton eidolons gain access to the tentacle and web evolutions, but kyton eidolon tentacles and webs always appear as animated chains."
+  },
+  {
+    "Key": "wotr-making-friends.eidolonplantsubtypefeature.description",
+    "zhCN": "植物幻灵由注入原始自然精魄力量的植物物质组成。",
+    "enGB": "Plant eidolons consist of vegetable matter infused with raw natural spiritual power."
+  },
+  {
+    "Key": "wotr-making-friends.eidolonproteansubtypefeature.description",
+    "zhCN": "幻蛇幻灵是由纯粹的混沌所构成的蛇形存在，它们希望能够重塑现实。幻蛇幻灵欣赏有创意的召唤师，喜欢他们经常重塑幻灵形体而且肆意使用幻灵重塑术（Transmogrify）。在此基础上，无论召唤师的目标是什么，幻蛇幻灵都很乐意与它们的召唤师合作，但是它们很快便会体型召唤师，它们两者间是一种互惠互利的关系，而非作为召唤师的仆人而存在。",
+    "enGB": "Serpentine beings of pure chaos, proteans seek to reshape reality. Protean eidolons appreciate creative summoners who often rebuild their forms and make liberal use of the transmogrify spell. Beyond that, protean eidolons are happy to work with their summoners for any purpose, though they are quick to remind their summoners that while they have a mutually benef icial relationship, they are not servants."
+  },
+  {
+    "Key": "wotr-making-friends.eidolonpsychopompsubtypefeature.description",
+    "zhCN": "作为万物死亡后的管理者、记录者和指引者，招魂者幻灵冷静而又忠诚。当召唤者幻灵位于凡世时，它们几乎总是会佩戴着面具。招魂者幻灵无法忍受那些和邪魔、不死生物或其他干涉灵魂轮回的生物打交道的召唤师，但是在其他方面，召唤师的大多数行为都能得到招魂者幻灵的接纳。当召唤师死亡时，招魂者幻灵会亲自将他送往彼岸，并作为权威证人参与召唤师所接受的审判。",
+    "enGB": "Stewards, chroniclers, and guides of all things that die, psychopomps make dispassionate yet loyal eidolons. When they deal with the world of mortals, psychopomp eidolons nearly always wear masks. They do not tolerate summoners who traffic with daemons, undead, and other entities that interfere with the transmigration of souls, but otherwise they are comfortable with most actions on the summoner’s part. When the summoner dies, a psychopomp eidolon personally escorts him to the afterlife and serves as an expert witness when it is time for him to be judged."
+  },
+  {
+    "Key": "wotr-making-friends.eidolonradiantsubtypefeature.description",
+    "zhCN": "辐光幻灵基本上闪耀着正能量位面的潜能，他们充满激情，乍看之下这些伙伴通常拥有鸟类特征。",
+    "enGB": "Practically glowing with the Positive Energy Plane’s potential, radiant eidolons make for passionate, if judgmental, companions that often have avian features."
+  },
+  {
+    "Key": "wotr-making-friends.eidolonshadowsubtypefeature.description",
+    "zhCN": "阴影幻灵是一个幻灵的新亚种，可以被Pathfinder RPG Pathfinder Unchained中的召唤师所选择。阴影幻灵是被从阴影位面的阴沉暗夜中召唤出来的，对主物质位面原生生物的一种苍白而又残酷的仿制品。阴影幻灵对被拉入主物质位面那难以忍受的光亮中感到极端怨恨。即便如此，阴影幻灵仍然会用他们的阴影来侍奉召唤师，因为他们知道没有光明就没有阴影。",
+    "enGB": "Shadow is a new eidolon subtype available to the variant of the summoner class presented in Pathfinder RPG Pathfinder Unchained. Summoned from the dreary shadowscapes of the Shadow Plane, shadow eidolons are grim, colorless mockeries of creatures that inhabit the Material Plane. Shadow eidolons resent being pulled into the unbearable brightness of the Material Plane. Despite this, shadow eidolons serve their summoners with somberness, acknowledging that shadow cannot exist without light."
+  },
+  {
+    "Key": "wotr-making-friends.eidolonstorykinsubtypefeature.description",
+    "zhCN": "叙中人幻灵是哈罗卡的化身，透过哈罗位面的力量获得生命。大部分叙中人幻灵的自主权受到限制，一生都在演绎他们起源的故事中的角色。叙中人幻灵的型态和阵营是基于哈罗卡。你在创造这些幻灵时能参考真正的哈罗卡（哈罗卡在P子官网有卖，卡面在哈罗书中能找到），但你也能按照内海世界指南293页中对哈罗卡的描述进行花色和阵营的模拟。",
+    "enGB": "The storykin are avatars of the harrow deck’s cards, brought to life through the power of the Harrowed Realm. Most of the storykin are limited in their autonomy, spending their lives acting out the roles in the stories they originated from. The form and alignment of a storykin eidolon is dependent on the harrow card the eidolon is based on. "
+  },
+  {
+    "Key": "wotr-making-friends.eidolontwinnedsubtypefeature.description",
+    "zhCN": "就像召唤师一样，双子幻灵学会了该如何使用武器和魔法。当双子幻灵在伦理上比大多数幻灵更为灵活时，它们坚持自己和召唤师处于同等的地位而不是它们的仆从。它们和召唤师的思维方式保持了高度的一致，它们会给同一个问题提供相同的答案，并对于突发事件有着相似的反映。这个亚种只能被双子召唤师选取。",
+    "enGB": "Just like a summoner, a twinned eidolon learns to use weapons and magic. While twinned eidolons are ethically more flexible than most eidolons, they are quite adamant about being treated as equals and not as servants. They demonstrate an eerie consistency with the summoner’s manner of thinking, providing similar answers to questions and reacting similarly to startling events. This subtype is restricted to twinned summoners."
+  },
+  {
+    "Key": "wotr-making-friends.eidolonvoidsubtypefeature.description",
+    "zhCN": "虚空幻灵类似于三尖八角的锡兑怪（Sceaduinar），欢腾于熵并愤恨任何带有一丝生命的存在——包括他们的召唤师。",
+    "enGB": "Like the sharp-angled sceaduinars they resemble, void eidolons exult in entropy and resent anything bearing even a hint of life—including their summoners."
+  },
+  {
+    "Key": "wotr-making-friends.evolvedsummonsfeature.name",
+    "zhCN": "进化召唤",
+    "enGB": "Evolved Summons"
+  },
+  {
+    "Key": "wotr-making-friends.evolvedsummonsfeature.description",
+    "zhCN": "每当你召唤任何生物的时候，它们都会共享幻灵的所有进化。注意：召唤物不会因为进化改变体型，但会共享从体型增大进化增加的属性。",
+    "enGB": "Whenever you summon any creature they share all evolutions that your eidolon has.\nNote: Summons will not change size, but will share the stat increases from the Large evolutions."
+  }
+]
