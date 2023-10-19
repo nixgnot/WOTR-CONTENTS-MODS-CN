@@ -77,6 +77,8 @@
 | [TransfiguredCasterArchetypes](#TransfiguredCasterArchetypes) | 施法者变体 | 暂无 | :heavy_check_mark: | :star::star: | :file_folder: |||
 | [HomebrewWarlock](#HomebrewWarlock) | 3.5e邪术师 | QL汉化 | :heavy_check_mark: | :star::star: | :file_folder: |||
 | [AutomaticBonusProgression](#AutomaticBonusProgression) | 自动增长加值 | QL汉化 | :heavy_check_mark: | :star::star: | :file_folder: |||
+| [WOTR_MAKING_FRIENDS](#WOTR_MAKING_FRIENDS) | 自动增长加值 | QL汉化 | :heavy_check_mark: | :star::star: | :file_folder: |🛠️||
+
 
 备注
 + UMM一栏为是否使用UMM安装
@@ -3655,7 +3657,7 @@ C:\Users\你的用户名\AppData\LocalLow\Owlcat Games\Pathfinder Wrath Of The R
 > *前置：* 无<br>
 > *中文：* **QL汉化**<br>
 > *安装方式：* **UMM**<br>
-> *新增内容：* 变体<br>
+> *新增内容：* 职业<br>
 + 移植并改编DND3.5E的邪术师到WOTR
 <table>
  <tr><th colspan="2">新增内容列表<br></th></tr> 
@@ -3668,7 +3670,7 @@ C:\Users\你的用户名\AppData\LocalLow\Owlcat Games\Pathfinder Wrath Of The R
 
 -------------------------------------------  
 ### [AutomaticBonusProgression](https://github.com/WittleWolfie/AutomaticBonusProgression)
-> *前置：* 无<br>
+> *前置：* ModMenu<br>
 > *中文：* **QL汉化**<br>
 > *安装方式：* **UMM**<br>
 > *新增内容：* 可选规则：自动增长加值<br>
@@ -3679,7 +3681,19 @@ C:\Users\你的用户名\AppData\LocalLow\Owlcat Games\Pathfinder Wrath Of The R
 </table>    
 
 -------------------------------------------  
+### [WOTR_MAKING_FRIENDS](https://github.com/Balkoth-dev/WOTR_MAKING_FRIENDS)
+> *前置：* ModMenu<br>
+> *中文：* **QL汉化**<br>
+> *安装方式：* **UMM**<br>
+> *新增内容：* 职业<br>
++ 添加召唤师。职业详情可参考CHM
+<table>
+ <tr><th colspan="2">新增内容列表<br></th></tr> 
+  <tr><td rowspan="1">职业</i></td>
+       <td rowspan="1">召唤师 Summoner Mod</td></tr>
+</table>    
 
+-------------------------------------------  
 
 ### 功能MOD索引
 + [ToyBox](https://www.nexusmods.com/pathfinderwrathoftherighteous/mods/8) 应该不用介绍？
