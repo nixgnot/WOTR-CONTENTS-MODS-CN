@@ -76,6 +76,7 @@
 | [PrestigePlus](#PrestigePlus) | 进阶职业扩展 | 自带 | :heavy_check_mark: | :star::star::star: | :file_folder::file_folder::file_folder: |||
 | [TransfiguredCasterArchetypes](#TransfiguredCasterArchetypes) | 施法者变体 | 暂无 | :heavy_check_mark: | :star::star: | :file_folder: |||
 | [HomebrewWarlock](#HomebrewWarlock) | 3.5e邪术师 | QL汉化 | :heavy_check_mark: | :star::star: | :file_folder: |||
+| [AutomaticBonusProgression](#AutomaticBonusProgression) | 自动增长加值 | QL汉化 | :heavy_check_mark: | :star::star: | :file_folder: |||
 
 备注
 + UMM一栏为是否使用UMM安装
@@ -3652,7 +3653,7 @@ C:\Users\你的用户名\AppData\LocalLow\Owlcat Games\Pathfinder Wrath Of The R
 -------------------------------------------   
 ### [HomebrewWarlock](https://github.com/microsoftenator2022/HomebrewWarlock)
 > *前置：* 无<br>
-> *中文：* **暂无**<br>
+> *中文：* **QL汉化**<br>
 > *安装方式：* **UMM**<br>
 > *新增内容：* 变体<br>
 + 移植并改编DND3.5E的邪术师到WOTR
@@ -3666,6 +3667,19 @@ C:\Users\你的用户名\AppData\LocalLow\Owlcat Games\Pathfinder Wrath Of The R
 </table>    
 
 -------------------------------------------  
+### [AutomaticBonusProgression](https://github.com/WittleWolfie/AutomaticBonusProgression)
+> *前置：* 无<br>
+> *中文：* **QL汉化**<br>
+> *安装方式：* **UMM**<br>
+> *新增内容：* 可选规则：自动增长加值<br>
+引入变体规则，角色无需给予加值和属性的物品，他们将在等级成长的过程中自动获得这些加值，至此他们可以空下那些装备栏位给各种有特效的物品
+<table>
+ <tr><th colspan="1">新增内容列表<br></th></tr> 
+  <tr>可参阅[这里](http://li1186-129.members.linode.com/bbs/index.php?topic=76351.0)</tr>
+</table>    
+
+-------------------------------------------  
+
 
 ### 功能MOD索引
 + [ToyBox](https://www.nexusmods.com/pathfinderwrathoftherighteous/mods/8) 应该不用介绍？
