@@ -1,0 +1,179 @@
+[
+  {
+    "Key": "ArmorAttunement.Name",
+    "ProcessTemplates": false,
+    "zhCN": "盔甲协调",
+    "enGB": "Armor Attunement"
+  },
+  {
+    "Key": "ArmorAttunement.Description",
+    "zhCN": "你的ac＋1增强加值。当你同时使用盾牌时，你的ac的增强加值减少1（最低1）",
+    "enGB": "Increases your enhancement bonus to AC by 1. While wielding a shield your enhancement bonus to AC is reduced by 1 (min 1)."
+  },
+
+  {
+    "Key": "ShieldAttunement.Name",
+    "ProcessTemplates": false,
+    "zhCN": "盾牌协调",
+    "enGB": "Shield Attunement"
+  },
+  {
+    "Key": "ShieldAttunement.Description",
+    "zhCN": "你的盾牌ac＋1增强加值。",
+    "enGB": "Increases your enhancement bonus to shield AC by 1."
+  },
+
+  {
+    "Key": "WeaponAttunement.Name",
+    "ProcessTemplates": false,
+    "zhCN": "武器协调",
+    "enGB": "Weapon Attunement"
+  },
+  {
+    "Key": "WeaponAttunement.Description",
+    "zhCN": "你的主手武器＋1增强加值。当你同时使用副手武器时，你的主手武器的增强加值减少1（最低1）",
+    "enGB": "Increases your main hand weapon's enhancement bonus by 1. While wielding a weapon in your off-hand the bonus is reduced by 1 (min 1)."
+  },
+
+  {
+    "Key": "OffHandAttunement.Name",
+    "ProcessTemplates": false,
+    "zhCN": "武器协调（副手武器）",
+    "enGB": "Weapon Attunement (Off-Hand)"
+  },
+  {
+    "Key": "OffHandAttunement.Description",
+    "zhCN": "你的副手武器＋1增强加值。",
+    "enGB": "Increases your off hand weapon's enhancement bonus by 1."
+  },
+
+  {
+    "Key": "Deflection.Name",
+    "ProcessTemplates": false,
+    "zhCN": "偏斜",
+    "enGB": "Deflection"
+  },
+  {
+    "Key": "Deflection.Description",
+    "zhCN": "你的ac获得＋1偏斜加值。",
+    "enGB": "Increases your deflection bonus to AC by 1."
+  },
+
+  {
+    "Key": "Toughening.Name",
+    "ProcessTemplates": false,
+    "zhCN": "韧躯",
+    "enGB": "Toughening"
+  },
+  {
+    "Key": "Toughening.Description",
+    "zhCN": "你的天生防御增强加值＋1",
+    "enGB": "Increases your enhancement bonus to natural armor by 1."
+  },
+
+  {
+    "Key": "Resistance.Name",
+    "ProcessTemplates": false,
+    "zhCN": "抗力",
+    "enGB": "Resistance"
+  },
+  {
+    "Key": "Resistance.Description",
+    "zhCN": "你的所有豁免获得＋1抗力加值",
+    "enGB": "Increases your resistance bonus on saving throws by 1."
+  },
+
+  // Start Mental Prowess
+  {
+    "Key": "MentalProwess.Name",
+    "ProcessTemplates": false,
+    "zhCN": "心灵力量",
+    "enGB": "Mental Prowess"
+  },
+  {
+    "Key": "MentalProwess.Description",
+    "zhCN": "选择一个精神属性（智力，感知或魅力）获得+2增强加值，最高可达＋4。在15级时，最高可＋6。",
+    "enGB": "Select Intelligence, Wisdom, or Charisma. You receive a +2 enhancement bonus to the selected attribute, to a maximum of +4. At level 15 the maximum increases to +6."
+  },
+  {
+    "Key": "MentalProwess.Int.Name",
+    "ProcessTemplates": false,
+    "zhCN": "高等智力",
+    "enGB": "Advanced Intellect"
+  },
+  {
+    "Key": "MentalProwess.Int.Description",
+    "zhCN": "你在智力上获得＋2增强加值",
+    "enGB": "You receive a +2 enhancement bonus to Intelligence."
+  },
+  {
+    "Key": "MentalProwess.Wis.Name",
+    "ProcessTemplates": false,
+    "zhCN": "精深感知",
+    "enGB": "Seasoned Wisdom"
+  },
+  {
+    "Key": "MentalProwess.Wis.Description",
+    "zhCN": "你在感知上获得＋2增强加值",
+    "enGB": "You receive a +2 enhancement bonus to Wisdom."
+  },
+  {
+    "Key": "MentalProwess.Cha.Name",
+    "ProcessTemplates": false,
+    "zhCN": "诱人魅力",
+    "enGB": "Magnetic Charisma"
+  },
+  {
+    "Key": "MentalProwess.Cha.Description",
+    "zhCN": "你在魅力上获得＋2增强加值",
+    "enGB": "You receive a +2 enhancement bonus to Charisma."
+  },
+  // End Mental Prowess
+
+  // Start Physical Prowess
+  {
+    "Key": "PhysicalProwess.Name",
+    "ProcessTemplates": false,
+    "zhCN": "肉体力量",
+    "enGB": "Physical Prowess"
+  },
+  {
+    "Key": "PhysicalProwess.Description",
+    "zhCN": "选择一个肉体属性（力量，敏捷或体质）获得+2增强加值，最高可达＋4。在15级时，最高可＋6。",
+    "enGB": "Select Strength, Dexterity, or Constitution. You receive a +2 enhancement bonus to the selected attribute, to a maximum of +4. At level 15 the maximum increases to +6."
+  },
+  {
+    "Key": "PhysicalProwess.Str.Name",
+    "ProcessTemplates": false,
+    "zhCN": "威武力量",
+    "enGB": "Formidable Strength"
+  },
+  {
+    "Key": "PhysicalProwess.Str.Description",
+    "zhCN": "你在力量上获得＋2增强加值",
+    "enGB": "You receive a +2 enhancement bonus to Strength."
+  },
+  {
+    "Key": "PhysicalProwess.Dex.Name",
+    "ProcessTemplates": false,
+    "zhCN": "诡诈敏捷",
+    "enGB": "Artful Dexterity"
+  },
+  {
+    "Key": "PhysicalProwess.Dex.Description",
+    "zhCN": "你在敏捷上获得＋2增强加值",
+    "enGB": "You receive a +2 enhancement bonus to Dexterity."
+  },
+  {
+    "Key": "PhysicalProwess.Con.Name",
+    "ProcessTemplates": false,
+    "zhCN": "强健体质",
+    "enGB": "Sturdy Constitution"
+  },
+  {
+    "Key": "PhysicalProwess.Con.Description",
+    "zhCN": "你在体质上获得＋2增强加值",
+    "enGB": "You receive a +2 enhancement bonus to Constitution."
+  }
+  // End Physical Prowess
+]

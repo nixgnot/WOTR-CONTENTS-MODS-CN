@@ -1,0 +1,12 @@
+[
+  {
+    "Key": "ABP.Abilities.TricksterArcanaTier1",
+    "zhCN": "你现在可以理解如何更好的使用魔法物品。你可以应用与盔甲和武器的总增强成本＋1。",
+    "enGB": "You can now understand how to use magical items even better. The total Enhancement Cost of enchantments you can apply to your armor and weapons is increased by 1."
+  },
+  {
+    "Key": "ABP.Abilities.TricksterArcanaTier3",
+    "zhCN": "你可以让物品展现出根本不存在，也本不可能存在的属性。你可以应用与盔甲和武器的总增强成本＋2。",
+    "enGB": "You can reveal item properties that aren't even there and couldn't possibly be there. Every item you identify gets an additional random major effect. The total Enhancement Cost of enchantments you can apply to your armor and weapons is now increased by 2."
+  }
+]

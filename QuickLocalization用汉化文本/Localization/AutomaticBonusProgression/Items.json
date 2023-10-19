@@ -1,0 +1,55 @@
+[
+  {
+    "Key": "ABP.Item.DeathBelt",
+    "zhCN": "这件长袍为穿戴者在所有精神属性上获得＋2加值（智力，感知和魅力）。此外，如果穿戴者具有引导负能量的能力，该能力对活物造成的伤害或对不死生物的治疗增加2d6",
+    "enGB": "This robe grants its wearer a +2 bonus to all mental ability scores (Intelligence, Wisdom, and Charisma). In addition, if the wearer of this robe has the ability Channel Negative Energy, it increases the amount of damage this ability does to living creatures or heals to undead creatures by +2d6."
+  },
+
+  {
+    "Key": "ABP.Item.DeathRobe",
+    "zhCN": "这件长袍为穿戴者在所有精神属性上获得＋2加值（智力，感知和魅力）。此外，如果穿戴者具有引导负能量的能力，该能力对活物造成的伤害或对不死生物的治疗增加2d6",
+    "enGB": "This robe grants its wearer a +2 bonus to all mental ability scores (Intelligence, Wisdom, and Charisma). In addition, if the wearer of this robe has the ability Channel Negative Energy, it increases the amount of damage this ability does to living creatures or heals to undead creatures by +2d6."
+  },
+
+  {
+    "Key": "ABP.Item.DarknessCaress",
+    "zhCN": "这条头带为穿戴者所有所有精神属性上获得＋2加值（智力，感知和魅力）。并允许穿戴者将其魅力加值附加到远程武器造成的伤害上",
+    "enGB": "This headband grants a +2 bonus to all mental ability scores (Intelligence, Wisdom, and Charisma) and allows its wearer to add their Charisma bonus to all damage dealt by ranged weapons."
+  },
+
+  {
+    "Key": "ABP.Item.LegendaryBracers",
+    "zhCN": "这对护腕将佩戴者的偏斜加值增加到ac，天生防御增强加值增加到ac，并且在豁免检定时＋1抗力加值。还为佩戴者所有属性提供＋2加值。这对护腕只能由玩家角色装备",
+    "enGB": "These bracers increase their wearer's deflection bonus to AC, natural armor enhancement bonus to AC, and resistance bonus on saving throws by +1. It also grants a +2 bonus to all ability scores. It can only be equipped by the player character."
+  },
+
+  {
+    "Key": "ABP.Item.PerfectTiara",
+    "zhCN": "这顶头冠为佩戴者的所有精神属性值提供＋2加值（智力，感知和魅力）。此外，如果佩戴者拥有引导正向能量能力，该能力对不死生物造成的伤害和对活物的治疗提高2d6点。如果佩戴者拥有引导负向能量能力，该能力对活物造成的伤害和对不死生物的治疗提高2d6点。",
+    "enGB": "This tiara grants its wearer a +2 bonus to all mental ability scores (Intelligence, Wisdom, and Charisma). In addition, If the wearer of this headband has the ability Channel Positive Energy, it increases the amount of damage this ability does to undead creatures or heals to living creatures by +2d6. And if the wearer of this headband has the ability Channel Negative Energy, it increases the amount of damage this ability does to living creatures or heals to undead creatures by +2d6."
+  },
+
+  {
+    "Key": "ABP.Item.PrimalForce",
+    "zhCN": "这条腰带曾经由一个恶名远扬的猩猩王穿戴。只有释放天性，才能激发出它的真正力量。当由具有最终拟态（或其它20级的终极职业能力）的化形师穿戴时，腰带为穿戴者的力量、敏捷和体质属性值提供+2加值。，并且每日额外获得一次发出毁灭号叫的能力。这将对30英尺范围内的每个敌人造成10d12点音波伤害，并震慑他们1d4轮（成功的强韧豁免检定可减半伤害并免除震慑状态）。相同范围内的每个盟友改为在所有攻击和伤害检定上获得+4士气加值，持续一分钟。",
+    "enGB": "This belt once worn by a notorious Gorilla King. To unlock its true powers, one needs to become one with their true nature. When worn by a shifter who has a final aspect (or any other 20 level capstone class ability), the belt grants its wearer a +2 bonus to Strength, Dexterity, and Constitution, as well as the ability to once per day emit a devastating cry. It deals 10d12 sonic damage to every enemy in a 30 feet range, stunning them for 1d4 rounds (a successful Fortitude saving throw halves the damage and negates the stunned condition). Every ally in the same range instead receives a +4 morale bonus on all attack and damage rolls for one minute."
+  },
+
+  {
+    "Key": "ABP.Item.GlovesOfDex",
+    "zhCN": "这双手套为穿戴者的巧手和灵巧检定提供＋2加值。同类加值无法叠加。",
+    "enGB": "These gloves grant its wearer a +2 enhancement bonus to Trickery and Mobility. Bonuses of the same type usually don't stack."
+  },
+
+  {
+    "Key": "ABP.Item.HandsomeHat",
+    "zhCN": "这顶帽子的穿戴者帅到爆表。帽子为穿戴者的沟通检定提供＋2加值。同类加值通常不叠加。",
+    "enGB": "The wearer of this hat becomes too handsome for her own benefit. The hat grants its wearer a +2 enhancement bonus to Persuasion. Bonuses of the same type usually don't stack."
+  },
+
+  {
+    "Key": "ABP.Item.DoublingAnnoyance",
+    "zhCN": "每当这条头带的佩戴者召唤愤怒不已的法师时，将召唤出两个而非原本的一个法师。此外法师的所有属性获得＋6加值。只能由玩家角色装备。",
+    "enGB": "Whenever the wearer of this headband summons a Perpetually Annoyed Wizard, they actually summon two wizards instead of one. Additionally, the wizards receive a +6 bonus to all ability scores. Can only be equipped by a player character."
+  }
+]

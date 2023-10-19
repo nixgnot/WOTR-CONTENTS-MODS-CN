@@ -1,0 +1,123 @@
+﻿[
+  {
+    "Key": "LegendaryProwess.Name",
+    "ProcessTemplates": false,
+    "zhCN": "传奇造诣",
+    "enGB": "Legendary Prowess"
+  },
+  {
+    "Key": "LegendaryProwess.Description",
+    "zhCN": "你的属性增强加值＋2（最高＋6）",
+    "enGB": "Increase your enhancement bonuses to any ability score by 2 (max 6)."
+  },
+
+  {
+    "Key": "LegendaryShieldmaster.Name",
+    "ProcessTemplates": false,
+    "zhCN": "盾牌大师",
+    "enGB": "Shieldmaster"
+  },
+  {
+    "Key": "LegendaryShieldmaster.Description",
+    "zhCN": "使用护盾时，你的增强加值不会被分割。相反最大增强加值同时应用于你的盾牌与护甲，在4级＋1，9级＋2，依此类推。",
+    "enGB": "Your enhancement bonus is not split when using a shield. Instead, the maximum enhancement bonus is applied to both your armor and your shield. At level 4 it is +1, at level 9 it is +2, and so on."
+  },
+
+  {
+    "Key": "LegendaryTwinWeapons.Name",
+    "ProcessTemplates": false,
+    "zhCN": "成对武器",
+    "enGB": "Twin Weapons"
+  },
+  {
+    "Key": "LegendaryTwinWeapons.Description",
+    "zhCN": "使用多把武器时，你的增强加值不会被分割。相反最大增强加值同时应用于你的所有武器，在4级＋1，9级＋2，依此类推。",
+    "enGB": "Your enhancement bonus is not split when using multiple weapons. Instead, the maximum enhancement bonus is applied to all your weapons. At level 4 it is +1, at level 9 it is +2, and so on."
+  },
+
+  // Start Legendary Ability
+  {
+    "Key": "LegendaryAbility.Name",
+    "ProcessTemplates": false,
+    "zhCN": "传奇属性",
+    "enGB": "Legendary Ability"
+  },
+  {
+    "Key": "LegendaryAbility.Description",
+    "zhCN": "在任意属性上获得+1内在加值。你可以多次选择本传奇赐福，且它可以叠加在任一属性上，最多+5。",
+    "enGB": "Gain a +1 inherent bonus to any ability score. You can select this up to 5 times for each ability score."
+  },
+
+  {
+    "Key": "LegendaryAbility.Strength.Name",
+    "ProcessTemplates": false,
+    "zhCN": "传奇力量",
+    "enGB": "Legendary Strength"
+  },
+  {
+    "Key": "LegendaryAbility.Strength.Description",
+    "zhCN": "获得＋1力量内在加值，这个选项最多＋5",
+    "enGB": "Gain a +1 inherent bonus to strength. This stacks up to a +5 bonus."
+  },
+
+  {
+    "Key": "LegendaryAbility.Dexterity.Name",
+    "ProcessTemplates": false,
+    "zhCN": "传奇敏捷",
+    "enGB": "Legendary Dexterity"
+  },
+  {
+    "Key": "LegendaryAbility.Dexterity.Description",
+    "zhCN": "获得＋1敏捷内在加值，这个选项最多＋5",
+    "enGB": "Gain a +1 inherent bonus to dexterity. This stacks up to a +5 bonus."
+  },
+
+  {
+    "Key": "LegendaryAbility.Constitution.Name",
+    "ProcessTemplates": false,
+    "zhCN": "传奇体质",
+    "enGB": "Legendary Constitution"
+  },
+  {
+    "Key": "LegendaryAbility.Constitution.Description",
+    "zhCN": "获得＋1体质内在加值，这个选项最多＋5",
+    "enGB": "Gain a +1 inherent bonus to constitution. This stacks up to a +5 bonus."
+  },
+
+  {
+    "Key": "LegendaryAbility.Intelligence.Name",
+    "ProcessTemplates": false,
+    "zhCN": "传奇智力",
+    "enGB": "Legendary Intelligence"
+  },
+  {
+    "Key": "LegendaryAbility.Intelligence.Description",
+    "zhCN": "获得＋1智力内在加值，这个选项最多＋5",
+    "enGB": "Gain a +1 inherent bonus to Intelligence. This stacks up to a +5 bonus."
+  },
+
+  {
+    "Key": "LegendaryAbility.Wisdom.Name",
+    "ProcessTemplates": false,
+    "zhCN": "传奇感知",
+    "enGB": "Legendary Wisdom"
+  },
+  {
+    "Key": "LegendaryAbility.Wisdom.Description",
+    "zhCN": "获得＋1感知内在加值，这个选项最多＋5",
+    "enGB": "Gain a +1 inherent bonus to Wisdom. This stacks up to a +5 bonus."
+  },
+
+  {
+    "Key": "LegendaryAbility.Charisma.Name",
+    "ProcessTemplates": false,
+    "zhCN": "传奇魅力",
+    "enGB": "Legendary Charisma"
+  },
+  {
+    "Key": "LegendaryAbility.Charisma.Description",
+    "zhCN": "获得＋1魅力内在加值，这个选项最多＋5",
+    "enGB": "Gain a +1 inherent bonus to Charisma. This stacks up to a +5 bonus."
+  }
+  // End Legendary Ability
+]

@@ -1,0 +1,33 @@
+[
+  {
+    "Key": "ABP.Settings.Title",
+    "ProcessTemplates": false,
+    "enGB": "Automatic Bonus Progression"
+  },
+
+  {
+    "Key": "ABP.Settings.VerboseLogging",
+    "ProcessTemplates": false,
+    "enGB": "Enable Detailed Logs",
+    "zhCN": "允许详细日志",
+    "ruRU": "Включить подробный лог игры"
+  },
+  {
+    "Key": "ABP.Settings.VerboseLogging.Description",
+    "ProcessTemplates": false,
+    "enGB": "REQUIRES RESTART\nTurn this on and restart your game to get detailed logs for capturing bug reports.\nThis will probably cause lag as the logging is extremely detailed, but this makes it a lot easier to identify and fix bugs quickly.",
+    "zhCN": "需要重启\n开启该选项并重启游戏，获得用于报告BUG的详细日志。\n可能造成卡顿，但是有助于快速找到并修复BUG。",
+    "ruRU": "ТРЕБУЕТ РЕСТАРТА\n\nВключите эту опцию и перезапустите игру, чтобы получить подробный лог, если хотите послать баг-репорт.\nДанная настройка может вызвать заметное снижение производительности, но позволит проще выявить и устранить ошибки."
+  },
+
+  {
+    "Key": "ABP.Settings.SellValue",
+    "ProcessTemplates": false,
+    "enGB": "Sell value modifier"
+  },
+  {
+    "Key": "ABP.Settings.SellValue.Description",
+    "ProcessTemplates": false,
+    "enGB": "Adjusts the multiplier to item sell value. Defaults to 30% to reflect the reduced need to buy items."
+  }
+]

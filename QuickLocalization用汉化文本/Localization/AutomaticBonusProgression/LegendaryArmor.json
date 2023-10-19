@@ -1,0 +1,644 @@
+[
+  {
+    "Key": "LegendaryArmor.Name",
+    "ProcessTemplates": false,
+    "zhCN": "传奇盔甲",
+    "enGB": "Legendary Armor"
+  },
+  {
+    "Key": "LegendaryArmor.Description",
+    "zhCN": "每天一次，你可以协调你的盔甲，使其具有特殊附魔。你的盔甲上的所有附魔的总增强成本不能超过你在传奇盔甲上的等级(最高5级)。这包括基础武器附魔和任何通过奥能武器等能力应用的附魔。例如抗法（SR 19）的强化成本为＋4，这使得你无法将其应用在具有暗影附魔的武器上，因为暗影附魔成本为＋2",
+    "enGB": "Once per day you may attune your armor to enchant it with special abilities.\nThe total Enhancement Cost of all enchantments on your armor cannot exceed your rank in Legendary Armor (max 5). This includes base armor enchantments and any applied through abilities like Arcane Armor.\nFor example, Spell Resistance (19) has an Enhancement Cost of +4 preventing you from applying it to armor with the Shadow enchantment which costs +2."
+  },
+
+  {
+    "Key": "LegendaryShield.Name",
+    "ProcessTemplates": false,
+    "zhCN": "传奇盾牌",
+    "enGB": "Legendary Shield"
+  },
+  {
+    "Key": "LegendaryShield.Description",
+    "zhCN": "每天一次，你可以协调你的盾牌，使其具有特殊附魔。你的盔甲上的所有附魔的总增强成本不能超过你在传奇盾牌上的等级(最高5级)。这包括基础盾牌附魔和任何通过奥能盾牌等能力应用的附魔。例如抗法（SR 19）的强化成本为＋4，这使得你无法将其应用在具有增援附魔的武器上，因为增援附魔成本为＋2",
+    "enGB": "Once per day you may attune your shield to enchant it with special abilities.\nThe total Enhancement Cost of all enchantments on your shield cannot exceed your rank in Legendary Armor (max 5). This includes base armor enchantments and any applied through abilities like Arcane Armor.\nFor example, Spell Resistance (19) has an Enhancement Cost of +4 preventing you from applying it to armor with the Rallying enchantment which costs +2."
+  },
+
+  {
+    "Key": "LA.Balanced.Name",
+    "ProcessTemplates": false,
+    "zhCN": "平衡（＋1）",
+    "enGB": "Balanced (+1)"
+  },
+  {
+    "Key": "LA.Balanced.Description",
+    "zhCN": "这个特殊能力只能应用在无甲，轻型盔甲和中型盔甲上。当它的穿戴者撞到地上时将会反向推他一把。穿戴者对抗擒抱，闯越和摔绊的CMD +4。",
+    "enGB": "This armor pushes back against anything that threatens to knock its wearer to the ground. The wearer gains a +4 bonus to CMD against grapple, trip and overrun combat maneuvers.\nRequires: Unarmored, Light Armor, or Medium Armor"
+  },
+
+  {
+    "Key": "LA.Bashing.Name",
+    "ProcessTemplates": false,
+    "zhCN": "猛击(＋1）",
+    "enGB": "Bashing (+1)"
+  },
+  {
+    "Key": "LA.Bashing.Description",
+    "zhCN": "具有这特殊能力的盾牌就是被设计用来盾牌猛击的。一面猛击盾牌造成的伤害视作大2个体型的武器，只有轻盾和重盾可以附加该能力。",
+    "enGB": "A shield with this special ability is designed to perform a shield bash. A bashing shield deals damage as if it were a bashing weapon of two size categories larger (a Medium light shield thus deals 1d6 points of damage and a Medium heavy shield deals 1d8 points of damage).\nRequires: Light Shield or Heavy Shield"
+  },
+
+  {
+    "Key": "LA.Blinding.Name",
+    "ProcessTemplates": false,
+    "zhCN": "目盲（＋1）",
+    "enGB": "Blinding (+1)"
+  },
+  {
+    "Key": "LA.Blinding.Description",
+    "zhCN": "该能力的盾牌需要启动使用，每天2次，发出耀眼的光芒。20尺内的除使用者外的生物必须进行反射豁免检定，失败则目盲1d4轮。豁免dc14＋神话等级",
+    "enGB": "A shield with this ability flashes with a brilliant light up to twice per day as a swift action. Except for the wielder, anyone within 20 feet must make a successful Reflex save or be blinded for 1d4 rounds. The DC of the save is 14 + Mythic Rank.\nRequires: Any Shield"
+  },
+
+  {
+    "Key": "LA.Bolstering.Name",
+    "ProcessTemplates": false,
+    "zhCN": "激励（＋1）",
+    "enGB": "Bolstering (+1)"
+  },
+  {
+    "Key": "LA.Bolstering.Description",
+    "zhCN": "每当激励防具的穿戴者成功通过近战或者远程击中一名敌人时，他在对抗这名敌人的任何能力时豁免得到+2表现加值，持续到穿戴者下一回合开始。这个能力可以附加到中甲、重甲、轻盾、重盾和塔盾上，无法附加在轻甲和小圆盾上。",
+    "enGB": "Anytime the wearer of bolstering armor damages a creature with a melee or ranged attack, he gains a +2 competence bonus on saving throws against that creature’s abilities until the start of his next turn.\nRequires: Medium Armor, Heavy Armor, Light Shield, Heavy Shield, or Tower Shield"
+  },
+
+  {
+    "Key": "LA.Brawling.Name",
+    "ProcessTemplates": false,
+    "zhCN": "喧哗（＋3）",
+    "enGB": "Brawling (+3)"
+  },
+  {
+    "Key": "LA.Brawling.Description",
+    "zhCN": "喧哗防具使得穿戴者的徒手攻击得到+2攻击和+2伤害加值，喧哗能力只能附加在轻甲和无甲上。",
+    "enGB": "The wearer of brawling armor gains a +2 bonus on unarmed attack and damage rolls.\nRequires: Unarmored or Light Armor"
+  },
+
+  {
+    "Key": "LA.Champion.Name",
+    "ProcessTemplates": false,
+    "zhCN": "勇士（＋1）",
+    "enGB": "Champion (+1)"
+  },
+  {
+    "Key": "LA.Champion.Description",
+    "zhCN": "这种防具特殊能力只对善良生物有效，并且该生物必须有挑战类能力 (如骑士或者拥有【制裁邪恶】能力的圣骑士、半天界生物、天界模版生物)。穿戴者在面对他们选择的对手时AC得到+2神圣加值。",
+    "enGB": "This armor special ability works only for good creatures with the challenge ability or the smite evil ability. A wearer with one of these abilities gains a +2 sacred bonus to AC against attacks from the chosen opponent."
+  },
+
+  {
+    "Key": "LA.Creeping.Name",
+    "ProcessTemplates": false,
+    "zhCN": "潜行（＋2）",
+    "enGB": "Creeping (+2)"
+  },
+  {
+    "Key": "LA.Creeping.Description",
+    "zhCN": "一套潜行防具能让穿戴者秘密行动。防具的防具检定减值不影响穿戴者的隐匿技能。每天1次，穿戴者说出口令启动，可以将防具的增强加值添加到自己的隐匿检定上，持续1分钟。",
+    "enGB": "A suit of creeping armor is made to keep the wearer’s movement covert. The armor’s armor check penalty does not apply to the wearer’s Stealth checks. Once per day as a swift action, the wearer can grant himself a bonus on Stealth checks equal to the armor’s enhancement bonus for 1 minute."
+  },
+
+  {
+    "Key": "LA.Dastard.Name",
+    "ProcessTemplates": false,
+    "zhCN": "卑劣（＋1）",
+    "enGB": "Dastard (+1)"
+  },
+  {
+    "Key": "LA.Dastard.Description",
+    "zhCN": "这种防具特殊能力只对邪恶生物有效，并且该生物必须有挑战类能力 (如骑士或者拥有【制裁善良】能力的反圣骑士、半炼狱生物、炼狱模板生物)。穿戴者在面对他们选择的对手时AC得到+2亵渎加值。",
+    "enGB": "This armor special ability works only for evil creatures with the challenge ability or the smite good ability. A wearer with one of these abilities gains a +2 profane bonus to AC against attacks from the chosen opponent."
+  },
+
+  {
+    "Key": "LA.Deathless.Name",
+    "ProcessTemplates": false,
+    "zhCN": "拒亡（＋1）",
+    "enGB": "Deathless (+1)"
+  },
+  {
+    "Key": "LA.Deathless.Description",
+    "zhCN": "这件防具保护它的穿戴者免收有害的负能量或者正能量的影响，包括【引导能量】。它吸收每次正常受到伤害时的前10点正能量伤害或者负能量伤害。同时它还有25%机率忽视负向等级效果。拒亡防具并不会阻止任何治疗形式的正负能量、不造成伤害的正负能量影响和消除负向等级的能力。拒亡能力可以附加在任意护甲上。",
+    "enGB": "This armor protects its wearer from harmful negative and positive energy, including channeled energy. The armor absorbs the first 10 points of positive or negative energy damage per attack that the wearer would normally take. The wearer has a 25% chance to ignore negative levels from any attack. Deathless armor does not block healing of any kind and does not protect against positive or negative energy effects that do not deal damage or bestow negative levels."
+  },
+
+  //// Defiant
+  {
+    "Key": "LA.Defiant.Description",
+    "zhCN": "具有该能力的护甲和盾牌特别擅长对付某种类的敌人，类似于〈破敌 (bane)〉武器特别擅长与对付某种类敌人一样。当面对该特定种类敌人时，该防具的AC得到额外+2增强加值以及得到只针对该类生物的DR 2/–。",
+    "enGB": "Armor and shields with this special ability excel at blocking the attacks of certain types of creatures, similar to a bane weapon’s excelling against certain foes. Against the designated foe, the item’s enhancement bonus to AC is +2 better than its actual bonus and provides DR 2/— against attacks from that foe."
+  },
+  {
+    "Key": "LA.Defiant.Aberrations.Name",
+    "ProcessTemplates": false,
+    "zhCN": "挑战 异怪（＋1）",
+    "enGB": "Defiant: Aberrations (+1)"
+  },
+  {
+    "Key": "LA.Defiant.Animals.Name",
+    "ProcessTemplates": false,
+    "zhCN": "挑战 动物（＋1）",
+    "enGB": "Defiant: Animals (+1)"
+  },
+  {
+    "Key": "LA.Defiant.Constructs.Name",
+    "ProcessTemplates": false,
+    "zhCN": "挑战 构装体（＋1）",
+    "enGB": "Defiant: Constructs (+1)"
+  },
+  {
+    "Key": "LA.Defiant.Dragons.Name",
+    "ProcessTemplates": false,
+    "zhCN": "挑战 龙（＋1）",
+    "enGB": "Defiant: Dragons (+1)"
+  },
+  {
+    "Key": "LA.Defiant.Fey.Name",
+    "ProcessTemplates": false,
+    "zhCN": "挑战 精类（＋1）",
+    "enGB": "Defiant: Fey (+1)"
+  },
+  {
+    "Key": "LA.Defiant.Humanoid.Giant.Name",
+    "ProcessTemplates": false,
+    "zhCN": "挑战 类人生物 (巨人) （＋1）",
+    "enGB": "Defiant: Giant Humanoids (+1)"
+  },
+  {
+    "Key": "LA.Defiant.Humanoid.Reptilian.Name",
+    "ProcessTemplates": false,
+    "zhCN": "挑战 类人生物 (爬虫)（＋1）",
+    "enGB": "Defiant: Reptilian Humanoids (+1)"
+  },
+  {
+    "Key": "LA.Defiant.Humanoid.Monstrous.Name",
+    "ProcessTemplates": false,
+    "zhCN": "挑战 人形怪物（＋1）",
+    "enGB": "Defiant: Monstrous Humanoids (+1)"
+  },
+  {
+    "Key": "LA.Defiant.MagicalBeasts.Name",
+    "ProcessTemplates": false,
+    "zhCN": "挑战 魔法兽（＋1）",
+    "enGB": "Defiant: Magical Beasts (+1)"
+  },
+  {
+    "Key": "LA.Defiant.Outsider.Good.Name",
+    "ProcessTemplates": false,
+    "zhCN": "挑战 善良异界生物（＋1）",
+    "enGB": "Defiant: Good Outsiders (+1)"
+  },
+  {
+    "Key": "LA.Defiant.Outsider.Evil.Name",
+    "ProcessTemplates": false,
+    "zhCN": "挑战 邪恶异界生物（＋1）",
+    "enGB": "Defiant: Evil Outsiders (+1)"
+  },
+  {
+    "Key": "LA.Defiant.Outsider.Lawful.Name",
+    "ProcessTemplates": false,
+    "zhCN": "挑战 守序异界生物（＋1）",
+    "enGB": "Defiant: Lawful Outsiders (+1)"
+  },
+  {
+    "Key": "LA.Defiant.Outsider.Chaotic.Name",
+    "ProcessTemplates": false,
+    "zhCN": "挑战 混乱异界生物（＋1）",
+    "enGB": "Defiant: Chaotic Outsiders (+1)"
+  },
+  {
+    "Key": "LA.Defiant.Outsider.Neutral.Name",
+    "ProcessTemplates": false,
+    "zhCN": "挑战 中立异界生物（＋1）",
+    "enGB": "Defiant: Neutral Outsiders (+1)"
+  },
+  {
+    "Key": "LA.Defiant.Plants.Name",
+    "ProcessTemplates": false,
+    "zhCN": "挑战 植物（＋1）",
+    "enGB": "Defiant: Plants (+1)"
+  },
+  {
+    "Key": "LA.Defiant.Undead.Name",
+    "ProcessTemplates": false,
+    "zhCN": "挑战 不死生物（＋1）",
+    "enGB": "Defiant: Undead (+1)"
+  },
+  {
+    "Key": "LA.Defiant.Vermin.Name",
+    "ProcessTemplates": false,
+    "zhCN": "挑战 虫类生物（＋1）",
+    "enGB": "Defiant: Vermin (+1)"
+  },
+  //// End Defiant
+
+  {
+    "Key": "LA.Determination.Name",
+    "ProcessTemplates": false,
+    "zhCN": "决心（＋5）",
+    "enGB": "Determination (+5)"
+  },
+  {
+    "Key": "LA.Determination.Description",
+    "zhCN": "决心特效的护甲和盾牌将在面对希望渺茫的战斗中提供帮助。每天1次，当穿戴者的HP达到0或者更少，该防具自动激活提供一个‘生命之息’法术。",
+    "enGB": "A shield or armor with the determination special ability provides the ability to fight on even in the face of seemingly impossible odds. The first time each day the owner reaches 0 or fewer hit points, the item automatically provides a breath of life spell using character level as your caster level."
+  },
+
+  //// Energy Resistance
+  {
+    "Key": "LA.EnergyResistance.10.Acid.Name",
+    "ProcessTemplates": false,
+    "zhCN": "强酸能量抗性 10（＋2）",
+    "enGB": "Acid Resistance 10 (+2)"
+  },
+  {
+    "Key": "LA.EnergyResistance.10.Acid.Description",
+    "zhCN": "这件防具吸收每次受到所对应能量伤害时的前10点伤害",
+    "enGB": "This armor absorbs the first 10 points of acid energy damage per attack that the wearer would normally take."
+  },
+  {
+    "Key": "LA.EnergyResistance.10.Cold.Name",
+    "ProcessTemplates": false,
+    "zhCN": "寒冷能力抗性 10（＋2）",
+    "enGB": "Cold Resistance 10 (+2)"
+  },
+  {
+    "Key": "LA.EnergyResistance.10.Cold.Description",
+    "zhCN": "防具吸收每次受到所对应能量伤害时的前10点伤害",
+    "enGB": "This armor absorbs the first 10 points of cold energy damage per attack that the wearer would normally take."
+  },
+  {
+    "Key": "LA.EnergyResistance.10.Electricity.Name",
+    "ProcessTemplates": false,
+    "zhCN": "电击能量抗性 10（＋2）",
+    "enGB": "Electricity Resistance 10 (+2)"
+  },
+  {
+    "Key": "LA.EnergyResistance.10.Electricity.Description",
+    "zhCN": "防具吸收每次受到所对应能量伤害时的前10点伤害",
+    "enGB": "This armor absorbs the first 10 points of electricity energy damage per attack that the wearer would normally take."
+  },
+  {
+    "Key": "LA.EnergyResistance.10.Fire.Name",
+    "ProcessTemplates": false,
+    "zhCN": "火焰能量抗性 10（＋2）",
+    "enGB": "Fire Resistance 10 (+2)"
+  },
+  {
+    "Key": "LA.EnergyResistance.10.Fire.Description",
+    "zhCN": "防具吸收每次受到所对应能量伤害时的前10点伤害",
+    "enGB": "This armor absorbs the first 10 points of fire energy damage per attack that the wearer would normally take."
+  },
+  {
+    "Key": "LA.EnergyResistance.10.Sonic.Name",
+    "ProcessTemplates": false,
+    "zhCN": "音波能量抗性 10（＋2）",
+    "enGB": "Sonic Resistance 10 (+2)"
+  },
+  {
+    "Key": "LA.EnergyResistance.10.Sonic.Description",
+    "zhCN": "防具吸收每次受到所对应能量伤害时的前10点伤害",
+    "enGB": "This armor absorbs the first 10 points of sonic energy damage per attack that the wearer would normally take."
+  },
+
+  {
+    "Key": "LA.EnergyResistance.20.Acid.Name",
+    "ProcessTemplates": false,
+    "zhCN": "强酸能量抗性 20（＋3）",
+    "enGB": "Acid Resistance 20 (+3)"
+  },
+  {
+    "Key": "LA.EnergyResistance.20.Acid.Description",
+    "zhCN": "防具吸收每次受到所对应能量伤害时的前20点伤害",
+    "enGB": "This armor absorbs the first 20 points of acid energy damage per attack that the wearer would normally take."
+  },
+  {
+    "Key": "LA.EnergyResistance.20.Cold.Name",
+    "ProcessTemplates": false,
+    "zhCN": "寒冷能量抗性 20（＋3）",
+    "enGB": "Cold Resistance 20 (+3)"
+  },
+  {
+    "Key": "LA.EnergyResistance.20.Cold.Description",
+    "zhCN": "防具吸收每次受到所对应能量伤害时的前20点伤害",
+    "enGB": "This armor absorbs the first 20 points of cold energy damage per attack that the wearer would normally take."
+  },
+  {
+    "Key": "LA.EnergyResistance.20.Electricity.Name",
+    "ProcessTemplates": false,
+    "zhCN": "电击能量抗性 20（＋3）",
+    "enGB": "Electricity Resistance 20 (+3)"
+  },
+  {
+    "Key": "LA.EnergyResistance.20.Electricity.Description",
+    "zhCN": "防具吸收每次受到所对应能量伤害时的前20点伤害",
+    "enGB": "This armor absorbs the first 20 points of electricity energy damage per attack that the wearer would normally take."
+  },
+  {
+    "Key": "LA.EnergyResistance.20.Fire.Name",
+    "ProcessTemplates": false,
+    "zhCN": "火焰能量抗性 20（＋3）",
+    "enGB": "Fire Resistance 20 (+3)"
+  },
+  {
+    "Key": "LA.EnergyResistance.20.Fire.Description",
+    "zhCN": "防具吸收每次受到所对应能量伤害时的前20点伤害",
+    "enGB": "This armor absorbs the first 20 points of fire energy damage per attack that the wearer would normally take."
+  },
+  {
+    "Key": "LA.EnergyResistance.20.Sonic.Name",
+    "ProcessTemplates": false,
+    "zhCN": "音波能量抗性 20（＋3）",
+    "enGB": "Sonic Resistance 20 (+3)"
+  },
+  {
+    "Key": "LA.EnergyResistance.20.Sonic.Description",
+    "zhCN": "防具吸收每次受到所对应能量伤害时的前20点伤害",
+    "enGB": "This armor absorbs the first 20 points of sonic energy damage per attack that the wearer would normally take."
+  },
+
+  {
+    "Key": "LA.EnergyResistance.30.Acid.Name",
+    "ProcessTemplates": false,
+    "zhCN": "强酸能量抗性 30（＋4）",
+    "enGB": "Acid Resistance 30 (+4)"
+  },
+  {
+    "Key": "LA.EnergyResistance.30.Acid.Description",
+    "zhCN": "防具吸收每次受到所对应能量伤害时的前30点伤害",
+    "enGB": "This armor absorbs the first 30 points of acid energy damage per attack that the wearer would normally take."
+  },
+  {
+    "Key": "LA.EnergyResistance.30.Cold.Name",
+    "ProcessTemplates": false,
+    "zhCN": "寒冷能量抗性 30（＋4）",
+    "enGB": "Cold Resistance 30 (+4)"
+  },
+  {
+    "Key": "LA.EnergyResistance.30.Cold.Description",
+    "zhCN": "防具吸收每次受到所对应能量伤害时的前30点伤害",
+    "enGB": "This armor absorbs the first 30 points of cold energy damage per attack that the wearer would normally take."
+  },
+  {
+    "Key": "LA.EnergyResistance.30.Electricity.Name",
+    "ProcessTemplates": false,
+    "zhCN": "电击能量抗性 30（＋4）",
+    "enGB": "Electricity Resistance 30 (+4)"
+  },
+  {
+    "Key": "LA.EnergyResistance.30.Electricity.Description",
+    "zhCN": "防具吸收每次受到所对应能量伤害时的前30点伤害",
+    "enGB": "This armor absorbs the first 30 points of electricity energy damage per attack that the wearer would normally take."
+  },
+  {
+    "Key": "LA.EnergyResistance.30.Fire.Name",
+    "ProcessTemplates": false,
+    "zhCN": "火焰能量抗性 30（＋4）",
+    "enGB": "Fire Resistance 30 (+4)"
+  },
+  {
+    "Key": "LA.EnergyResistance.30.Fire.Description",
+    "zhCN": "防具吸收每次受到所对应能量伤害时的前30点伤害",
+    "enGB": "This armor absorbs the first 30 points of fire energy damage per attack that the wearer would normally take."
+  },
+  {
+    "Key": "LA.EnergyResistance.30.Sonic.Name",
+    "ProcessTemplates": false,
+    "zhCN": "音波能量抗性 30（＋4）",
+    "enGB": "Sonic Resistance 30 (+4)"
+  },
+  {
+    "Key": "LA.EnergyResistance.30.Sonic.Description",
+    "zhCN": "防具吸收每次受到所对应能量伤害时的前30点伤害",
+    "enGB": "This armor absorbs the first 30 points of sonic energy damage per attack that the wearer would normally take."
+  },
+  //// End Energy Resistance
+
+  {
+    "Key": "LA.Expeditious.Name",
+    "ProcessTemplates": false,
+    "zhCN": "超速（＋2）",
+    "enGB": "Expeditious (+2)"
+  },
+  {
+    "Key": "LA.Expeditious.Description",
+    "zhCN": "每天3次，以一个迅捷动作，超速防具的穿戴者得到+10尺移动速度增强加值，持续1轮。",
+    "enGB": "Three times per day as a swift action, the wearer of expeditious armor can summon a burst of speed and gain a +10-foot enhancement bonus on all modes of movement for 1 round."
+  },
+
+  {
+    "Key": "LA.Fortification.Name",
+    "ProcessTemplates": false,
+    "zhCN": "轻度护命（＋1）",
+    "enGB": "Light Fortification (+1)"
+  },
+  {
+    "Key": "LA.Fortification.Improved.Name",
+    "ProcessTemplates": false,
+    "zhCN": "中度护命（＋3）",
+    "enGB": "Moderate Fortification (+3)"
+  },
+  {
+    "Key": "LA.Fortification.Greater.Name",
+    "ProcessTemplates": false,
+    "zhCN": "重度护命（＋5）",
+    "enGB": "Heavy Fortification (+5)"
+  },
+
+  {
+    "Key": "LA.GhostArmor.Name",
+    "ProcessTemplates": false,
+    "zhCN": "幽冥 （＋3）",
+    "enGB": "Ghost Touch (+3)"
+  },
+  {
+    "Key": "LA.GhostArmor.Description",
+    "zhCN": "这种防具看上去几乎是透明的。它的增强加值和护甲或盾牌加值都可以在对抗虚体生物时正常作用。",
+    "enGB": "This armor or shield seems almost translucent. Both its enhancement bonus and its armor bonus count against the attacks of corporeal and incorporeal creatures."
+  },
+
+  {
+    "Key": "LA.Invulnerability.Name",
+    "ProcessTemplates": false,
+    "zhCN": "坚韧（＋3）",
+    "enGB": "Invulnerability (+3)"
+  },
+  {
+    "Key": "LA.Invulnerability.Description",
+    "zhCN": "这种防具给予穿戴者DR 10/魔法。",
+    "enGB": "This armor grants its wearer DR 10/magic."
+  },
+
+  {
+    "Key": "LA.Martyring.Name",
+    "ProcessTemplates": false,
+    "zhCN": "殉难（＋4）",
+    "enGB": "Martyring (+4)"
+  },
+  {
+    "Key": "LA.Martyring.Description",
+    "zhCN": "这种能力能将穿戴者的伤化为救助同伴之力。每天1次，当穿戴者被重击时，自动施放群体治疗轻伤。",
+    "enGB": "This armor allows the wearer to capitalize on her own injuries to heal her allies. The first time each day an enemy confirms a critical hit against someone wearing martyring armor, the armor automatically casts Mass Cure Light Wounds."
+  },
+
+  {
+    "Key": "LA.Rallying.Name",
+    "ProcessTemplates": false,
+    "zhCN": "增援（＋2）",
+    "enGB": "Rallying (+2)"
+  },
+  {
+    "Key": "LA.Rallying.Description",
+    "zhCN": "这种防具闪耀着光辉，它如明镜般的表面具备有魔法的能力，给同伴带来信心。穿戴者30尺内的同伴在对抗恐惧的豁免中得到+4士气加值。如果穿戴者拥有圣骑士，诗人，骑士的等级，则该附魔所带来的士气加值增加为+6。",
+    "enGB": "This armor or shield is brightly polished, and its mirror-bright surface is magically endowed with the ability to bring comfort to the wearer’s companions. Allies within 30 feet of the wearer gain a +4 morale bonus on saving throws against fear effects. If the wearer has levels in Paladin, Bard, or Cavalier the bonus increases to +6."
+  },
+
+  {
+    "Key": "LA.Reflecting.Name",
+    "ProcessTemplates": false,
+    "zhCN": "镜反（＋5）",
+    "enGB": "Reflecting (+5)"
+  },
+  {
+    "Key": "LA.Reflecting.Description",
+    "zhCN": "这种防具如镜子般光亮，提供了反射能力。每天1次，能使用它反射一个法术，这对范围效果法术没有影响。需求：任意护盾",
+    "enGB": "This shield is as highly polished as a mirror, and its surface is completely reflective. Once per day, it can be called on to reflect a spell back at its caster. This has no effect on area of effect spells.\nRequires: Any Shield"
+  },
+  {
+    "Key": "LA.Reflecting.Cast.Name",
+    "ProcessTemplates": false,
+    "zhCN": "反射法术",
+    "enGB": "Reflect Spell"
+  },
+  {
+    "Key": "LA.Reflecting.Cast.Description",
+    "zhCN": "敌人对你释放的下一个法术会反射回施法者",
+    "enGB": "The next spell an enemy casts targeting you is reflected back at its caster."
+  },
+
+  {
+    "Key": "LA.Righteous.Name",
+    "ProcessTemplates": false,
+    "zhCN": "正义 （＋5）",
+    "enGB": "Righteous (+5)"
+  },
+  {
+    "Key": "LA.Righteous.Description",
+    "zhCN": "该种防具上往往雕刻或者漆印上宗教符号。每天1次，以一个迅捷动作，穿戴者可以释放‘正气如虹’，",
+    "enGB": "Armor with this special ability is often engraved or enameled with religious symbols. Once per as a swift action, the wearer can cast the spell Righteous Might."
+  },
+
+  {
+    "Key": "LA.Shadow.Name",
+    "ProcessTemplates": false,
+    "zhCN": "暗影 （＋2）",
+    "enGB": "Shadow (+2)"
+  },
+  {
+    "Key": "LA.Shadow.Improved.Name",
+    "ProcessTemplates": false,
+    "zhCN": "强化阴影（＋4）",
+    "enGB": "Improved Shadow (+4)"
+  },
+  {
+    "Key": "LA.Shadow.Greater.Name",
+    "ProcessTemplates": false,
+    "zhCN": "高等阴影（＋5）",
+    "enGB": "Greater Shadow (+5)"
+  },
+  {
+    "Key": "LA.Shadow.Greater.Description",
+    "zhCN": "这件盔甲为穿戴者的隐匿检定提供15加值",
+    "enGB": "This armor grants its wearer a +15 competence bonus to Stealth skill checks."
+  },
+
+  {
+    "Key": "LA.SpellResistance.13.Name",
+    "ProcessTemplates": false,
+    "zhCN": "法术抗性13（＋2）",
+    "enGB": "Spell Resistance 13 (+2)"
+  },
+  {
+    "Key": "LA.SpellResistance.13.Description",
+    "zhCN": "这种防具给予穿戴者13法术抗力。",
+    "enGB": "This armor grants its wearer spell resistance 13."
+  },
+  {
+    "Key": "LA.SpellResistance.16.Name",
+    "ProcessTemplates": false,
+    "zhCN": "法术抗性16（＋3）",
+    "enGB": "Spell Resistance 16 (+3)"
+  },
+  {
+    "Key": "LA.SpellResistance.16.Description",
+    "zhCN": "这种防具给予穿戴者16法术抗力",
+    "enGB": "This armor grants its wearer spell resistance 16."
+  },
+  {
+    "Key": "LA.SpellResistance.19.Name",
+    "ProcessTemplates": false,
+    "zhCN": "法术抗性19（＋4）",
+    "enGB": "Spell Resistance 19 (+4)"
+  },
+  {
+    "Key": "LA.SpellResistance.19.Description",
+    "zhCN": "这种防具给予穿戴者19法术抗力",
+    "enGB": "This armor grants its wearer spell resistance 19."
+  },
+  {
+    "Key": "LA.SpellResistance.22.Name",
+    "ProcessTemplates": false,
+    "zhCN": "法术抗性22（＋5）",
+    "enGB": "Spell Resistance 22 (+5)"
+  },
+  {
+    "Key": "LA.SpellResistance.22.Description",
+    "zhCN": "这种防具给予穿戴者22法术抗力",
+    "enGB": "This armor grants its wearer spell resistance 22."
+  },
+
+  {
+    "Key": "LA.Wyrmsbreath.Name",
+    "ProcessTemplates": false,
+    "zhCN": "龙息（＋2）",
+    "enGB": "Wyrmsbreath (+2)"
+  },
+  {
+    "Key": "LA.Wyrmsbreath.Description",
+    "zhCN": "这种能力的盾牌上面都会有一个张开的龙嘴图样。该防具制造时选择一种能量类型 (强酸、寒冷、闪电或火焰) 作为关键能量。以一个迅捷动作，佩戴者每天可以释放一次吐息攻击，吐息范围为锥形15尺，造成5d4点能量伤害。 (反射DC 11＋神话等级 成功减半)，",
+    "enGB": "A shield with the wyrmsbreath special ability is keyed to one type of energy (acid, cold, electricity, or fire). Once per day as a swift action, the bearer can make a breath weapon attack. The breath weapon deals 5d4 points of energy damage in a 15 foot cone. Those caught in the area can attempt a Reflex save with a DC = 11 + Mythic Rank to halve the normal damage.\nRequires: Any Shield"
+  },
+  {
+    "Key": "LA.Wyrmsbreath.Acid.Name",
+    "ProcessTemplates": false,
+    "zhCN": "龙息 强酸",
+    "enGB": "Wyrmsbreath: Acid"
+  },
+  {
+    "Key": "LA.Wyrmsbreath.Cold.Name",
+    "ProcessTemplates": false,
+    "zhCN": "龙息 寒冷",
+    "enGB": "Wyrmsbreath: Cold"
+  },
+  {
+    "Key": "LA.Wyrmsbreath.Electricity.Name",
+    "ProcessTemplates": false,
+    "zhCN": "龙息 电击",
+    "enGB": "Wyrmsbreath: Electricity"
+  },
+  {
+    "Key": "LA.Wyrmsbreath.Fire.Name",
+    "ProcessTemplates": false,
+    "zhCN": "龙息 火焰",
+    "enGB": "Wyrmsbreath: Fire"
+  }
+]

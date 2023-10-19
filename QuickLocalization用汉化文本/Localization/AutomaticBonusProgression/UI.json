@@ -1,0 +1,270 @@
+[
+  // Basic terms
+  {
+    "Key": "ABP.UI.Apply",
+    "ProcessTemplates": false,
+    "zhCN": "应用",
+    "enGB": "Apply"
+  },
+
+  // Attunement Terms
+  {
+    "Key": "ABP.UI.Attunement.Weapon",
+    "ProcessTemplates": false,
+    "zhCN": "武器协调",
+    "enGB": "Weapon Attunement"
+  },
+  {
+    "Key": "ABP.UI.Attunement.OffHand",
+    "ProcessTemplates": false,
+    "zhCN": "副手武器协调",
+    "enGB": "Off-Hand Attunement"
+  },
+  {
+    "Key": "ABP.UI.Attunement.Armor",
+    "ProcessTemplates": false,
+    "zhCN": "盔甲协调",
+    "enGB": "Armor Attunement"
+  },
+  {
+    "Key": "ABP.UI.Attunement.Shield",
+    "ProcessTemplates": false,
+    "zhCN": "盾牌协调",
+    "enGB": "Shield Attunement"
+  },
+  {
+    "Key": "ABP.UI.Attunement.Enhancement",
+    "ProcessTemplates": false,
+    "zhCN": "增强加值: +{0}/{1}",
+    "enGB": "Enhancement: +{0}/{1}"
+  },
+  {
+    "Key": "ABP.UI.Attunement.Unequipped",
+    "ProcessTemplates": false,
+    "zhCN": "未装备",
+    "enGB": "None Equipped"
+  },
+  {
+    "Key": "ABP.UI.Attunement.Empty",
+    "ProcessTemplates": false,
+    "zhCN": "不可用",
+    "enGB": "Unavailable"
+  },
+
+
+  // Armor Terms
+  {
+    "Key": "ABP.UI.Armor",
+    "ProcessTemplates": false,
+    "zhCN": "护甲",
+    "enGB": "Armor"
+  },
+  {
+    "Key": "ABP.UI.Armor.None",
+    "ProcessTemplates": false,
+    "zhCN": "无甲",
+    "enGB": "Unarmored"
+  },
+  {
+    "Key": "ABP.UI.Armor.Light",
+    "ProcessTemplates": false,
+    "zhCN": "轻型盔甲",
+    "enGB": "Light Armor"
+  },
+  {
+    "Key": "ABP.UI.Armor.Medium",
+    "ProcessTemplates": false,
+    "zhCN": "中型盔甲",
+    "enGB": "Medium Armor"
+  },
+  {
+    "Key": "ABP.UI.Armor.Heavy",
+    "ProcessTemplates": false,
+    "zhCN": "重型盔甲",
+    "enGB": "Heavy Armor"
+  },
+
+  // Shield terms
+  {
+    "Key": "ABP.UI.Shield",
+    "ProcessTemplates": false,
+    "zhCN": "盾牌",
+    "enGB": "Shield"
+  },
+  {
+    "Key": "ABP.UI.Shield.Buckler",
+    "ProcessTemplates": false,
+    "zhCN": "小圆盾",
+    "enGB": "Buckler"
+  },
+  {
+    "Key": "ABP.UI.Shield.Light",
+    "ProcessTemplates": false,
+    "zhCN": "轻型盾牌",
+    "enGB": "Light Shield"
+  },
+  {
+    "Key": "ABP.UI.Shield.Heavy",
+    "ProcessTemplates": false,
+    "zhCN": "重型盾牌",
+    "enGB": "Heavy Shield"
+  },
+  {
+    "Key": "ABP.UI.Shield.Tower",
+    "ProcessTemplates": false,
+    "zhCN": "塔盾",
+    "enGB": "Tower Shield"
+  },
+
+  // Weapon terms
+  {
+    "Key": "ABP.UI.Weapon",
+    "ProcessTemplates": false,
+    "zhCN": "武器",
+    "enGB": "Weapon"
+  },
+  {
+    "Key": "ABP.UI.OffHand",
+    "ProcessTemplates": false,
+    "zhCN": "副手武器",
+    "enGB": "Off-Hand"
+  },
+  {
+    "Key": "ABP.UI.Weapon.Melee",
+    "ProcessTemplates": false,
+    "zhCN": "近战",
+    "enGB": "Melee"
+  },
+  {
+    "Key": "ABP.UI.Weapon.Ranged",
+    "ProcessTemplates": false,
+    "zhCN": "远程",
+    "enGB": "Ranged"
+  },
+  {
+    "Key": "ABP.UI.Weapon.Bludgeoning",
+    "ProcessTemplates": false,
+    "zhCN": "钝击",
+    "enGB": "Bludgeoning"
+  },
+  {
+    "Key": "ABP.UI.Weapon.Piercing",
+    "ProcessTemplates": false,
+    "zhCN": "穿刺",
+    "enGB": "Piercing"
+  },
+  {
+    "Key": "ABP.UI.Weapon.Slashing",
+    "ProcessTemplates": false,
+    "zhCN": "挥砍",
+    "enGB": "Slashing"
+  },
+  {
+    "Key": "ABP.UI.Weapon.Light",
+    "ProcessTemplates": false,
+    "zhCN": "轻型",
+    "enGB": "Light"
+  },
+  {
+    "Key": "ABP.UI.Weapon.Heavy",
+    "ProcessTemplates": false,
+    "zhCN": "重型",
+    "enGB": "Heavy"
+  },
+
+  // Legendary Gifts
+  {
+    "Key": "ABP.UI.Gifts",
+    "ProcessTemplates": false,
+    "zhCN": "赐福",
+    "enGB": "Gifts"
+  },
+  {
+    "Key": "ABP.UI.Gifts.Phase",
+    "ProcessTemplates": false,
+    "zhCN": "传奇赐福",
+    "enGB": "Legendary Gifts"
+  },
+  {
+    "Key": "ABP.UI.Gifts.Selection",
+    "ProcessTemplates": false,
+    "zhCN": "选择传奇赐福",
+    "enGB": "Select Legendary Gifts"
+  },
+  {
+    "Key": "ABP.UI.Gifts.Incomplete",
+    "ProcessTemplates": false,
+    "zhCN": "角色有未使用的传奇赐福",
+    "enGB": "Character has unspent Legendary Gifts."
+  },
+
+  // Legendary Enchantments
+  {
+    "Key": "ABP.UI.Enchantments",
+    "ProcessTemplates": false,
+    "zhCN": "附魔",
+    "enGB": "Enchantments"
+  },
+  {
+    "Key": "ABP.UI.Enchantments.Max",
+    "ProcessTemplates": false,
+    "zhCN": "等级",
+    "enGB": "Rank"
+  },
+  {
+    "Key": "ABP.UI.Legendary.Armor",
+    "ProcessTemplates": false,
+    "zhCN": "传奇盔甲",
+    "enGB": "Legendary Armor"
+  },
+  {
+    "Key": "ABP.UI.Legendary.Shield",
+    "ProcessTemplates": false,
+    "zhCN": "传奇盾牌",
+    "enGB": "Legendary Shield"
+  },
+  {
+    "Key": "ABP.UI.Legendary.Weapon",
+    "ProcessTemplates": false,
+    "zhCN": "传奇武器",
+    "enGB": "Legendary Weapon"
+  },
+  {
+    "Key": "ABP.UI.Legendary.OffHand",
+    "ProcessTemplates": false,
+    "zhCN": "传奇副手武器",
+    "enGB": "Legendary Off-Hand"
+  },
+
+  // Misc. Abilities
+  {
+    "Key": "ABP.UI.Prowess",
+    "ProcessTemplates": false,
+    "zhCN": "选择力量",
+    "enGB": "Select Prowess"
+  },
+  {
+    "Key": "ABP.UI.Legendary.Prowess",
+    "ProcessTemplates": false,
+    "zhCN": "力量",
+    "enGB": "Prowess"
+  },
+  {
+    "Key": "ABP.UI.Legendary.TwinWeapons",
+    "ProcessTemplates": false,
+    "zhCN": "成对武器",
+    "enGB": "Twin Weapons"
+  },
+  {
+    "Key": "ABP.UI.Legendary.Shieldmaster",
+    "ProcessTemplates": false,
+    "zhCN": "盾牌大师",
+    "enGB": "Shieldmaster"
+  },
+  {
+    "Key": "ABP.UI.Legendary.Features",
+    "ProcessTemplates": false,
+    "zhCN": "汉化文本",
+    "enGB": "Feature Name"
+  }
+]

@@ -1,0 +1,664 @@
+[
+  {
+    "Key": "LegendaryWeapon.Name",
+    "ProcessTemplates": false,
+    "zhCN": "传奇武器",
+    "enGB": "Legendary Weapon"
+  },
+  {
+    "Key": "LegendaryWeapon.Description",
+    "zhCN": "每天一次，你可以协调你的武器，使其具有特殊附魔。这些能力适用于你的主手武器和所有主要天生武器。你的武器上的所有附魔的总增强成本不能超过你在传奇武器上的等级(最高5级)。这包括基础武器附魔和任何通过奥能武器等能力应用的附魔。例如光能的强化成本为＋4，这使得你无法将其应用在具有冲击附魔的武器上，因为冲击附魔成本为＋2",
+    "enGB": "Once per day you may attune your weapon to enchant it with special abilities. These apply to your main hand and all primary natural attacks.\nThe total Enhancement Cost of all enchantments on your weapon cannot exceed your rank in Legendary Weapon (max 5). This includes base weapon enchantments and any applied through abilities like Arcane Weapon.\nFor example, Brilliant Energy has an Enhancement Cost of +4 preventing you from applying it to weapons with the Impact enchantment which costs +2."
+  },
+
+  {
+    "Key": "LegendaryOffHand.Name",
+    "ProcessTemplates": false,
+    "zhCN": "传奇副手武器",
+    "enGB": "Legendary Off-Hand"
+  },
+  {
+    "Key": "LegendaryOffHand.Description",
+    "zhCN": "每天一次，你可以协调你的副手武器，使其具有特殊附魔。这些能力适用于你的副手武器和所有次要天生武器。你的副手武器上的所有附魔的总增强成本不能超过你在传奇副手武器上的等级(最高5级)。这包括基础武器附魔和任何通过奥能武器等能力应用的附魔。例如光能的强化成本为＋4，这使得你无法将其应用在具有冲击附魔的武器上，因为冲击附魔成本为＋2",
+    "enGB": "Once per day you may attune your off-hand weapons to enchant them with special abilities. These apply to your off-hand and all secondary natural attacks.\nThe total Enhancement Cost of all enchantments on your off-hand cannot exceed your rank in Legendary Off-Hand (max 5). This includes base weapon enchantments and any applied through abilities like Arcane Weapon.\nFor example, Brilliant Energy has an Enhancement Cost of +4 preventing you from applying it to weapons with the Disruption enchantment which costs +2."
+  },
+
+  //// Aligned
+  {
+    "Key": "LW.Anarchic.Name",
+    "ProcessTemplates": false,
+    "zhCN": "无序（＋2）",
+    "enGB": "Anarchic (+2)"
+  },
+  {
+    "Key": "LW.Axiomatic.Name",
+    "ProcessTemplates": false,
+    "zhCN": "公正（＋2）",
+    "enGB": "Axiomatic (+2)"
+  },
+  {
+    "Key": "LW.Holy.Name",
+    "ProcessTemplates": false,
+    "zhCN": "神圣（＋2）",
+    "enGB": "Holy (+2)"
+  },
+  {
+    "Key": "LW.Unholy.Name",
+    "ProcessTemplates": false,
+    "zhCN": "污邪（＋2）",
+    "enGB": "Unholy (+2)"
+  },
+  //// End Aligned
+
+  //// Bane
+  {
+    "Key": "LW.Bane.Description",
+    "zhCN": "破敌武器对于特定敌人有奇效。对抗指定种类的敌人时，武器的增强加值较平常提高2点，且对该类敌人造成额外2d6伤害。",
+    "enGB": "A bane weapon excels against certain foes. Against a designated foe, the weapon’s enhancement bonus is +2 better than its actual bonus. It also deals an extra 2d6 points of damage against such foes."
+  },
+  {
+    "Key": "LW.Bane.Aberrations.Name",
+    "ProcessTemplates": false,
+    "zhCN": "破敌 异怪（＋1）",
+    "enGB": "Bane: Aberrations (+1)"
+  },
+  {
+    "Key": "LW.Bane.Animals.Name",
+    "ProcessTemplates": false,
+    "zhCN": "破敌 动物（＋1）",
+    "enGB": "Bane: Animals (+1)"
+  },
+  {
+    "Key": "LW.Bane.Constructs.Name",
+    "ProcessTemplates": false,
+    "zhCN": "破敌 构装体（＋1）",
+    "enGB": "Bane: Constructs (+1)"
+  },
+  {
+    "Key": "LW.Bane.Dragons.Name",
+    "ProcessTemplates": false,
+    "zhCN": "破敌 龙（＋1）",
+    "enGB": "Bane: Dragons (+1)"
+  },
+  {
+    "Key": "LW.Bane.Fey.Name",
+    "ProcessTemplates": false,
+    "zhCN": "破敌 精类（＋1）",
+    "enGB": "Bane: Fey (+1)"
+  },
+  {
+    "Key": "LW.Bane.Humanoid.Giant.Name",
+    "ProcessTemplates": false,
+    "zhCN": "破敌 类人生物 (巨人) （＋1）",
+    "enGB": "Bane: Giant Humanoids (+1)"
+  },
+  {
+    "Key": "LW.Bane.Humanoid.Reptilian.Name",
+    "ProcessTemplates": false,
+    "zhCN": "破敌 类人生物 (爬虫)（＋1） ",
+    "enGB": "Bane: Reptilian Humanoids (+1)"
+  },
+  {
+    "Key": "LW.Bane.Humanoid.Monstrous.Name",
+    "ProcessTemplates": false,
+    "zhCN": "破敌 人形怪物（＋1）",
+    "enGB": "Bane: Monstrous Humanoids (+1)"
+  },
+  {
+    "Key": "LW.Bane.MagicalBeasts.Name",
+    "ProcessTemplates": false,
+    "zhCN": "破敌 魔法兽（＋1）",
+    "enGB": "Bane: Magical Beasts (+1)"
+  },
+  {
+    "Key": "LW.Bane.Outsider.Good.Name",
+    "ProcessTemplates": false,
+    "zhCN": "破敌 善良异界生物（＋1）",
+    "enGB": "Bane: Good Outsiders (+1)"
+  },
+  {
+    "Key": "LW.Bane.Outsider.Evil.Name",
+    "ProcessTemplates": false,
+    "zhCN": "破敌 邪恶异界生物（＋1）",
+    "enGB": "Bane: Evil Outsiders (+1)"
+  },
+  {
+    "Key": "LW.Bane.Outsider.Lawful.Name",
+    "ProcessTemplates": false,
+    "zhCN": "破敌 守序异界生物（＋1）",
+    "enGB": "Bane: Lawful Outsiders (+1)"
+  },
+  {
+    "Key": "LW.Bane.Outsider.Chaotic.Name",
+    "ProcessTemplates": false,
+    "zhCN": "破敌 混乱异界生物（＋1）",
+    "enGB": "Bane: Chaotic Outsiders (+1)"
+  },
+  {
+    "Key": "LW.Bane.Outsider.Neutral.Name",
+    "ProcessTemplates": false,
+    "zhCN": "破敌 中立异界生物（＋1）",
+    "enGB": "Bane: Neutral Outsiders (+1)"
+  },
+  {
+    "Key": "LW.Bane.Plants.Name",
+    "ProcessTemplates": false,
+    "zhCN": "破敌 植物（＋1）",
+    "enGB": "Bane: Plants (+1)"
+  },
+  {
+    "Key": "LW.Bane.Undead.Name",
+    "ProcessTemplates": false,
+    "zhCN": "破敌 不死生物（＋1）",
+    "enGB": "Bane: Undead (+1)"
+  },
+  {
+    "Key": "LW.Bane.Vermin.Name",
+    "ProcessTemplates": false,
+    "zhCN": "破敌 虫类生物（＋1）",
+    "enGB": "Bane: Vermin (+1)"
+  },
+  //// End Bane
+
+  {
+    "Key": "LW.Bewildering.Name",
+    "ProcessTemplates": false,
+    "zhCN": "迷惑（＋1）",
+    "enGB": "Bewildering (+1)"
+  },
+  {
+    "Key": "LW.Bewildering.MainHand.Name",
+    "ProcessTemplates": false,
+    "zhCN": "迷惑（主手武器）",
+    "enGB": "Bewildering (Main Hand)"
+  },
+  {
+    "Key": "LW.Bewildering.OffHand.Name",
+    "ProcessTemplates": false,
+    "zhCN": "迷惑（副手武器）",
+    "enGB": "Bewildering (Off Hand)"
+  },
+  {
+    "Key": "LW.Bewildering.Description",
+    "zhCN": "每天3次，迷惑武器的持有者可以自我强化。在下一次成功的武器攻击中，持用者还可以使敌人陷入困惑状态，持续1d6轮。目标每轮可以通过尝试一次意志检定来终止该效果。豁免dc为DC17＋神话等级",
+    "enGB": "Three times per day the wielder of a bewildering weapon can buff themselves. On the next successful attack with a weapon, the target becomes confused for 1d6 rounds. The target can attempt a Will saving throw each round to end this effect. The DC of the save is 17 + Mythic Rank."
+  },
+
+  {
+    "Key": "LW.Brawling.Name",
+    "ProcessTemplates": false,
+    "zhCN": "斗殴（＋1）",
+    "enGB": "Brawling (+1)"
+  },
+  {
+    "Key": "LW.Brawling.Description",
+    "zhCN": "这个特殊能力只能应用在轻型钝击武器上。这件武器持用者的战技检定会获得增强加值，数值与武器的增强加值相等。",
+    "enGB": "The wielder of this weapon gains an enhancement bonus on combat maneuver checks equal to the enhancement bonus of the weapon.\nRequires: Light Bludgeoning"
+  },
+
+  {
+    "Key": "LW.BrilliantEnergy.Name",
+    "ProcessTemplates": false,
+    "zhCN": "光能（＋4）",
+    "enGB": "Brilliant Energy (+4)"
+  },
+
+  {
+    "Key": "LW.Courageous.Name",
+    "ProcessTemplates": false,
+    "zhCN": "英勇（＋1） ",
+    "enGB": "Courageous (+1)"
+  },
+  {
+    "Key": "LW.Courageous.Description",
+    "zhCN": "英勇武器鼓舞人心、激励起士气和信心。持用者对抗恐惧的豁免得到等同于该武器增强加值的士气加值。",
+    "enGB": "A courageous weapon fortifies the wielder’s courage and morale in battle. The wielder gains a morale bonus on saving throws against fear equal to the weapon’s enhancement bonus.\nRequires: Melee"
+  },
+
+  {
+    "Key": "LW.Cruel.Name",
+    "ProcessTemplates": false,
+    "zhCN": "残忍（＋1）",
+    "enGB": "Cruel (+1)"
+  },
+
+  {
+    "Key": "LW.Culling.Name",
+    "ProcessTemplates": false,
+    "zhCN": "收割（＋2）",
+    "enGB": "Culling (+2)"
+  },
+  {
+    "Key": "LW.Culling.Description",
+    "zhCN": "此特殊能力只能被添加在近战挥砍武器上。当收割武器被用于施展顺劈斩或高等顺劈斩时，它对初始攻击及顺劈斩或高等顺劈斩给予的任何额外攻击都赋予2d6点额外伤害。此武器对终势斩或精通终势斩给予的额外攻击也赋予2d6额外伤害。",
+    "enGB": "When a culling weapon is used to make an attack using the Cleave or Great Cleave feat, it deals an additional 2d6 points of damage on both the initial attack and any additional attacks granted by Cleave or Great Cleave. The weapon also applies the bonus 2d6 points of damage to successful attacks granted by use of the Cleaving Finish and Improved Cleaving Finish feats.\nRequires: Melee, Slashing"
+  },
+
+  {
+    "Key": "LW.Cunning.Name",
+    "ProcessTemplates": false,
+    "zhCN": "狡诈（＋1）",
+    "enGB": "Cunning (+1)"
+  },
+  {
+    "Key": "LW.Cunning.Description",
+    "zhCN": "当用该武器造成一次重击威胁时，持有者若在用于识别目标生物类型的知识或学识上有至少5等级，那么在重击确认骰上得到+4加值，如果知识或学识级别拥有至少15等级，则重击确认骰上获得的加值变为+6。",
+    "enGB": "Whenever the weapon’s attack is a critical threat, the wielder gains a +4 bonus on the confirmation roll if she has 5 or more ranks in the Knowledge or Lore skill used to identify the target’s creature type, or a +6 bonus instead if she has 15 or more ranks."
+  },
+
+  {
+    "Key": "LW.DazzlingRadiance.Name",
+    "ProcessTemplates": false,
+    "zhCN": "辐光（＋1）",
+    "enGB": "Dazzling Radiance (+1)"
+  },
+  {
+    "Key": "LW.DazzlingRadiance.Description",
+    "zhCN": "这个特殊武器能力只能附在近战武器上。当一个使用辐光武器的角色使用炫目技巧专长时，武器会闪烁出一阵明亮的色彩。所有在持有者15尺内并且能看到此次炫目技巧展示的生物都必须进行一次强韧豁免。豁免失败的生物会目盲2轮，并且在接下来的1d4轮内处于目眩状态；豁免成功的生物则只会在1d4轮内处于目眩状态。豁免dc为17加神话等级",
+    "enGB": "When a character wielding a dazzling radiance weapon uses the Dazzling Display feat, the weapon flashes in a burst of bright color. All enemies within 15 feet of the wielder who can see the display must attempt a Fortitude save. Those who fail are blinded for 2 rounds and dazzled for an additional 1d4 rounds; those who succeed are instead dazzled for 1d4 rounds.\nThe DC of the save is 17 + Mythic Rank."
+  },
+
+  {
+    "Key": "LW.Debilitating.Name",
+    "ProcessTemplates": false,
+    "zhCN": "衰弱（＋1）",
+    "enGB": "Debilitating (+1)"
+  },
+  {
+    "Key": "LW.Debilitating.Description",
+    "zhCN": "每当衰弱武器攻击ac失去敏捷加成的敌人并成功命中时，该敌人在AC或者攻击检定上受到–1的惩罚（由持有者选择），持续1轮。任何对偷袭免疫的生物都不会受到此惩罚，任何保护生物免疫重击的物品或能力也会保护生物免受惩罚。如果持有者拥有职业能力衰弱之创，这个附魔会使失衡和失向的惩罚额外＋1",
+    "enGB": "Whenever a debilitating weapon is used to attack an opponent that is denied its Dexterity bonus to AC and hits, that opponent takes a –1 penalty on attack rolls or to its AC for 1 round (wielder’s choice). Any creature that is immune to sneak attacks is immune to this penalty, and any item or ability that protects a creature from critical hits also protects a creature from the penalties imposed by a debilitating weapon.\nIf the wielder has the debilitating injury class ability, this special ability increases the penalty applied by the bewildered or disoriented effects by 1."
+  },
+  {
+    "Key": "LW.Debilitating.Toggle.Name",
+    "ProcessTemplates": false,
+    "zhCN": "衰弱武器切换",
+    "enGB": "Debilitating Weapon Toggle"
+  },
+  {
+    "Key": "LW.Debilitating.Toggle.Description",
+    "zhCN": "当此能力被激活时，衰弱武器造成攻击检定惩罚。当此能力被关闭时，衰弱武器造成ac惩罚",
+    "enGB": "While this is active your debilitating weapons inflict attack roll penalties.\nWhile this is inactive your debilitating weapons inflict AC penalties."
+  },
+  {
+    "Key": "LW.Debilitating.Attack.Name",
+    "ProcessTemplates": false,
+    "zhCN": "衰弱 攻击",
+    "enGB": "Debilitating Attack"
+  },
+  {
+    "Key": "LW.Debilitating.Attack.Description",
+    "zhCN": "这个角色在所有攻击检定受到惩罚",
+    "enGB": "The character takes a penalty on all attack rolls."
+  },
+  {
+    "Key": "LW.Debilitating.AC.Name",
+    "ProcessTemplates": false,
+    "zhCN": "衰弱 护甲",
+    "enGB": "Debilitating Armor"
+  },
+  {
+    "Key": "LW.Debilitating.AC.Description",
+    "zhCN": "这个角色在ac上受到惩罚",
+    "enGB": "The character's AC is reduced."
+  },
+
+  {
+    "Key": "LW.Disruption.Name",
+    "ProcessTemplates": false,
+    "zhCN": "瓦解 （＋2）",
+    "enGB": "Disruption (+2)"
+  },
+
+  {
+    "Key": "LW.Distracting.Name",
+    "ProcessTemplates": false,
+    "zhCN": "分神（＋1）",
+    "enGB": "Distracting (+1)"
+  },
+  {
+    "Key": "LW.Distracting.Description",
+    "zhCN": "具有此种特殊能力的武器所击中的敌人会难以控制自身的魔力。每当一名生物被分神武器命中后，必须进行成功的专注检定才能完成一个法术（complete a spell）、或者使用特殊能力（special ability）或物品（item）的话，这些检定的DC会增加5点。分神效果持续1分钟。",
+    "enGB": "Any time a creature that has been struck by a distracting weapon would have to succeed at a concentration check to complete a spell or use a special ability or item, the DC of that check increases by 5. This distraction lasts for 1 minute."
+  },
+  {
+    "Key": "LW.Distracting.Greater.Name",
+    "ProcessTemplates": false,
+    "zhCN": "高等分神（＋2）",
+    "enGB": "Distracting, Greater (+2)"
+  },
+  {
+    "Key": "LW.Distracting.Greater.Description",
+    "zhCN": "有此种特殊能力的武器所击中的敌人几乎无法控制自身的魔力。每当一名生物被高等分神武器命中后，假设必须进行成功的专注检定才能完成一个法术（complete a spell）、或者使用特殊能力（special ability）或物品（item）的话，这些检定的DC会增加10点。高等分神效果持续1分钟。",
+    "enGB": "Any time a creature that has been struck by a greater distracting weapon would have to succeed at a concentration check to complete a spell or use a special ability or item, the DC of that check increases by 10. This distraction lasts for 1 minute."
+  },
+
+  {
+    "Key": "LW.Dueling.Name",
+    "ProcessTemplates": false,
+    "zhCN": "决斗（＋4）",
+    "enGB": "Dueling (+4)"
+  },
+  {
+    "Key": "LW.Dueling.Description",
+    "zhCN": "这项附魔只能附加在轻型近战武器上。给予持用者的先攻检定+4增强加值，持用者的卸武战技+2，对抗卸武的CMD +2。",
+    "enGB": "A dueling weapon gives the wielder a +4 enhancement bonus on initiative checks. It provides a +2 bonus on disarm checks and a +2 bonus to CMD to resist disarm attempts.\nRequires: Light Melee"
+  },
+
+  //// Elemental
+  {
+    "Key": "LW.Elemental.Corrosive.Name",
+    "ProcessTemplates": false,
+    "zhCN": "烈酸（＋1）",
+    "enGB": "Corrosive (+1)"
+  },
+  {
+    "Key": "LW.Elemental.Corrosive.Burst.Name",
+    "ProcessTemplates": false,
+    "zhCN": "酸爆（＋2）",
+    "enGB": "Corrosive Burst (+2)"
+  },
+  {
+    "Key": "LW.Elemental.Flaming.Name",
+    "ProcessTemplates": false,
+    "zhCN": "炽焰（＋1）",
+    "enGB": "Flaming (+1)"
+  },
+  {
+    "Key": "LW.Elemental.Flaming.Burst.Name",
+    "ProcessTemplates": false,
+    "zhCN": "焰爆（＋2）",
+    "enGB": "Flaming Burst (+2)"
+  },
+  {
+    "Key": "LW.Elemental.Frost.Name",
+    "ProcessTemplates": false,
+    "zhCN": "寒霜（＋1）",
+    "enGB": "Frost (+1)"
+  },
+  {
+    "Key": "LW.Elemental.Frost.Burst.Name",
+    "ProcessTemplates": false,
+    "zhCN": "霜爆（＋2）",
+    "enGB": "Frost Burst (+2)"
+  },
+  {
+    "Key": "LW.Elemental.Shocking.Name",
+    "ProcessTemplates": false,
+    "zhCN": "震电（＋1）",
+    "enGB": "Shocking (+1)"
+  },
+  {
+    "Key": "LW.Elemental.Shocking.Burst.Name",
+    "ProcessTemplates": false,
+    "zhCN": "电爆(＋2）",
+    "enGB": "Shocking Burst (+2)"
+  },
+  {
+    "Key": "LW.Elemental.Thundering.Name",
+    "ProcessTemplates": false,
+    "zhCN": "雷鸣（＋1）",
+    "enGB": "Thundering (+1)"
+  },
+  {
+    "Key": "LW.Elemental.Thundering.Burst.Name",
+    "ProcessTemplates": false,
+    "zhCN": "鸣爆（＋2）",
+    "enGB": "Thundering Burst (+2)"
+  },
+  //// End Elemental
+
+  {
+    "Key": "LW.Fortuitous.Name",
+    "ProcessTemplates": false,
+    "zhCN": "破则（＋1）",
+    "enGB": "Fortuitous (+1)"
+  },
+  {
+    "Key": "LW.Fortuitous.Description",
+    "zhCN": "该特殊能力仅能被附在近战武器上。破则武器赋予持用者更多进行藉机攻击的机会。每轮1次，当破则武器的持用者使用一次藉机攻击命中时，他能用这把武器对该名敌人进行第二次藉机攻击，不过该次攻击会受到-5减值。",
+    "enGB": "A fortuitous weapon grants the wielder more attacks of opportunity. Once per round, when the wielder of a fortuitous weapon hits with an attack of opportunity, he can make a second attack with this weapon against that foe at a –5 penalty.\nRequires: Melee"
+  },
+
+  {
+    "Key": "LW.Furious.Name",
+    "ProcessTemplates": false,
+    "zhCN": "暴怒（＋1）",
+    "enGB": "Furious (+1)"
+  },
+
+  {
+    "Key": "LW.Furyborn.Name",
+    "ProcessTemplates": false,
+    "zhCN": "渐狂（＋2）",
+    "enGB": "Furyborn (+2)"
+  },
+
+  {
+    "Key": "LW.GhostTouch.Name",
+    "ProcessTemplates": false,
+    "zhCN": "幽冥（＋1）",
+    "enGB": "Ghost Touch (+1)"
+  },
+
+  {
+    "Key": "LW.Growing.Name",
+    "ProcessTemplates": false,
+    "zhCN": "成长（＋1）",
+    "enGB": "Growing (+1)"
+  },
+  {
+    "Key": "LW.Growing.Description",
+    "zhCN": "此特殊能力只能被添加在近战武器上。每天一次，一把成长武器可以长大一级体型，造成如同新体型一般的伤害，且使得持用者能够用战技影响比通常更大一级的生物。持用者可以正常使用此武器，而不会因为其体型受到任何罚值。此武器会保持它增长后的体型达10分钟。",
+    "enGB": "Once per day, a growing weapon is able to grow by one size category, dealing damage as appropriate for its new size and allowing its wielder to affect creatures one size larger than normal with combat maneuvers limited by size. The wielder is able to use the weapon normally without penalty despite its increased size. The weapon remains at its increased size for 10 minutes.\nRequires: Melee"
+  },
+  {
+    "Key": "LW.Growing.MainHand.Name",
+    "ProcessTemplates": false,
+    "zhCN": "成长（主手武器）",
+    "enGB": "Growing (Main Hand)"
+  },
+  {
+    "Key": "LW.Growing.OffHand.Name",
+    "ProcessTemplates": false,
+    "zhCN": "成长（副手武器）",
+    "enGB": "Growing (Off Hand)"
+  },
+
+  {
+    "Key": "LW.Heartseeker.Name",
+    "ProcessTemplates": false,
+    "zhCN": "觅心（＋1）",
+    "enGB": "Heartseeker (+1)"
+  },
+
+  {
+    "Key": "LW.Impact.Name",
+    "ProcessTemplates": false,
+    "zhCN": "冲击（＋2）",
+    "enGB": "Impact (+2)"
+  },
+  {
+    "Key": "LW.Impact.Description",
+    "zhCN": "这项附魔只能附加在非轻型近战武器上。冲击武器攻击时，制造有效的动力冲击用于伤害敌方，在造成伤害时该武器视作大一个体型来计算。此外，持用者进行的任何冲撞战技皆得到加值，其数值等同于该武器的增强加值。",
+    "enGB": "An impact weapon delivers a potent kinetic jolt when it strikes, dealing damage as if the weapon were one size category larger. In addition, any bull rush combat maneuver the wielder attempts while wielding the weapon gains a bonus equal to the weapon’s enhancement bonus.\nRequires: Heavy Melee"
+  },
+
+  {
+    "Key": "LW.Invigorating.Name",
+    "ProcessTemplates": false,
+    "zhCN": "兴奋（＋2）",
+    "enGB": "Invigorating (+2)"
+  },
+  {
+    "Key": "LW.Invigorating.Description",
+    "zhCN": "这项附魔只能附加在近战武器上。在使用该武器打倒一个敌对生物后，该武器提供给持用者精力。如果持用者处于疲乏下，他会不再疲乏；如果持用者处于力竭下，他将变为疲乏代替力竭。如果持用者既不力竭也不疲乏，他的攻击得到+2士气加值，所有移动手段得到+10尺增强加值。",
+    "enGB": "After an attack with this weapon kills a foe, the weapon infuses its wielder with vigor. If its wielder is fatigued, the weapon removes the fatigue. If exhausted, the wielder becomes fatigued instead. If neither exhausted nor fatigued, the wielder gains a +2 morale bonus on attack rolls and a +10 foot enhancement bonus to move speed.\nRequires: Melee"
+  },
+  {
+    "Key": "LW.Invigorating.Effect.Description",
+    "zhCN": "此角色的攻击得到+2士气加值，所有移动手段得到+10尺增强加值。",
+    "enGB": "The character receives +2 morale bonus on attack rolls and a +10 foot enhancement bonus to move speed."
+  },
+
+  {
+    "Key": "LW.Keen.Name",
+    "ProcessTemplates": false,
+    "zhCN": "锐锋（＋1）",
+    "enGB": "Keen (+1)"
+  },
+
+  {
+    "Key": "LW.Leveraging.Name",
+    "ProcessTemplates": false,
+    "zhCN": "御力（＋1）",
+    "enGB": "Leveraging (+1)"
+  },
+  {
+    "Key": "LW.Leveraging.Description",
+    "zhCN": "这个特殊能力仅能够加持在近战武器（melee weapons）上。御力武器的持用者的CMD在对抗冲撞（bull rush）、拖拽APG（drag）、移位APG（reposition）和摔绊（trip）战技时，获得等同于武器增强加值的加值。此加成也适用于持有者进行冲撞、拖拽、移位和摔绊战技时。",
+    "enGB": "The wielder of a leveraging weapon gains a bonus equal to the weapon’s enhancement bonus to her CMD against bull rush, drag, reposition, and trip combat maneuvers. This bonus also applies to the wielders CMB when attempting  bull rush, drag, reposition, and trip combat maneuvers.\nRequires: Melee"
+  },
+
+  {
+    "Key": "LW.Lifesurge.Name",
+    "ProcessTemplates": false,
+    "zhCN": "命潮（＋2）",
+    "enGB": "Lifesurge (+2)"
+  },
+  {
+    "Key": "LW.Lifesurge.Description",
+    "zhCN": "这项附魔只能附加在近战武器上。此武器的持有者在对抗死灵魔法的豁免检定中获得等同此武器的增强加值加成，命潮武器在攻击不死生物时的威胁范围加倍；这个能力不与〈锐锋〉武器或“精通重击”叠加。当使用命潮武器成功对不死生物造成重击时，它会爆发正能量为持有者治疗1d4（对于重击倍数为x3的武器为2d8，如果是x4，则为3d8）。",
+    "enGB": "The wielder of this weapon gains a bonus on saving throws against Necromancy spells equal to the weapon's enhancement bonus.\nIn combat, the weapon’s critical threat range is doubled against undead; this does not stack with the keen special ability or Improved Critical. Whenever a lifesurge weapon confirms a critical hit against an undead creature, it erupts with positive energy healing the wielder for 1d4 (2d8 for weapons with a critical multiplier of x3, 3d8 if it is x4).\nRequires: Melee"
+  },
+
+  {
+    "Key": "LW.Limning.Name",
+    "ProcessTemplates": false,
+    "zhCN": "妖火（＋1）",
+    "enGB": "Limning (+1)"
+  },
+  {
+    "Key": "LW.Limning.Description",
+    "zhCN": "当用该武器击中一个隐蔽的生物时。武器勾画出该生物的轮廓，如同‘妖火术’，持续1轮。",
+    "enGB": "On a successful strike against a creature affected by concealment, the weapon outlines the creature in faerie fire (as the spell) for 1 round."
+  },
+
+  {
+    "Key": "LW.Nullifying.Name",
+    "ProcessTemplates": false,
+    "zhCN": "抵消（＋3）",
+    "enGB": "Nullifying (+3)"
+  },
+
+  {
+    "Key": "LW.Ominous.Name",
+    "ProcessTemplates": false,
+    "zhCN": "不祥（＋1）",
+    "enGB": "Ominous (+1)"
+  },
+  {
+    "Key": "LW.Ominous.Description",
+    "zhCN": "这项附魔只能附加在近战武器上。每次被不祥武器击中，都会散布一股阴霾到敌人身上。持用者将不祥武器的增强加值添加到他的威吓检定上。额外地，当使用不祥武器成功造成一次重击时，目标将会战栗1分钟 (通过意志豁免无效) ，豁免dc13＋神话等级；如果该武器的重击倍率比×2高，每比×2的倍率多1，就额外增加1分钟的战栗持续时间。",
+    "enGB": "An ominous weapon adds its enhancement bonus on Intimidate checks made by the wielder. In addition, when an ominous weapon confirms a critical hit, the target must attempt a Will save or be shaken for 1 minute. The DC of the save is equal to 13 + Mythic Rank.\nIf the weapon’s critical multiplier is greater than x2, this condition lasts 1 additional minute per multiple over x2.\nRequires: Melee"
+  },
+
+  {
+    "Key": "LW.PhaseLocking.Name",
+    "ProcessTemplates": false,
+    "zhCN": "闭锁（＋2）",
+    "enGB": "PhaseLocking (+2)"
+  },
+  {
+    "Key": "LW.PhaseLocking.Description",
+    "zhCN": "闭锁武器干涉次元旅行。被闭锁武器伤害的生物如同受到‘次元锚’法术影响1轮。",
+    "enGB": "A phase locking weapon interferes with dimensional travel. A creature damaged by a phase locking weapon is affected as though by the dimensional anchor spell for 1 round."
+  },
+
+  {
+    "Key": "LW.Quaking.Name",
+    "ProcessTemplates": false,
+    "zhCN": "撼地（＋2）",
+    "enGB": "Quaking (+2)"
+  },
+  {
+    "Key": "LW.Quaking.Trip.Adjacent.Name",
+    "ProcessTemplates": false,
+    "zhCN": "撼地（邻边）",
+    "enGB": "Quaking (Adjacent)"
+  },
+  {
+    "Key": "LW.Quaking.Trip.Cone.Name",
+    "ProcessTemplates": false,
+    "zhCN": "撼地（锥形）",
+    "enGB": "Quaking (Cone)"
+  },
+  {
+    "Key": "LW.Quaking.Trip.Line.Name",
+    "ProcessTemplates": false,
+    "zhCN": "撼地（线形）",
+    "enGB": "Quaking (Line)"
+  },
+  {
+    "Key": "LW.Quaking.Description",
+    "zhCN": "这个特殊能力仅能够加持在近战钝击武器（melee bludgeoning weapons）上。撼地武器的持用者能够以标准动作猛击地面，沿着地面对5尺半径扩散、10尺锥形或20尺线形范围内的所有敌人进行一次摔绊（trip）战技。",
+    "enGB": "The wielder of a quaking weapon can strike the ground as a standard action to perform a trip combat maneuver that applies to all foes adjacent, within a 10- foot cone, or within a 20-foot line along the ground.\nRequires: Melee, Bludgeoning"
+  },
+
+  {
+    "Key": "LW.Sneaky.Name",
+    "ProcessTemplates": false,
+    "zhCN": "鬼祟（＋2）",
+    "enGB": "Sneaky (+2)"
+  },
+  {
+    "Key": "LW.Sneaky.Description",
+    "zhCN": "该特殊能力仅能被附在近战武器上。每日1次以自由动作，鬼祟武器的持用者能够指定自己近战触及内的单个敌人为猎物。若持用者具有偷袭（sneak attack）职业能力，即便持用者没有夹击对方、目标的AC也没有失去敏捷加值，他也能够将偷袭伤害加到下次对猎物做出的攻击上，不过此次攻击必须在他下个回合结束前做出。若持用者是具有猎手突袭APG（Hunter's Surprise）盗贼天赋的盗贼（rogue）或杀手（slayer），那么他每日能够额外使用一次这个盗贼天赋。",
+    "enGB": "Once per day as a free action, the wielder of a sneaky weapon can designate a single foe within his melee reach as his prey. If the wielder has the sneak attack class feature, he adds his sneak attack damage to the next attack he makes against his prey, even if the wielder is not flanking and the target is not denied its Dexterity bonus to AC, as long as that attack is made before the end of the wielder’s next turn. If the wielder is a rogue or slayer with the hunter’s surprise talent, he can use that talent one additional time per day.\nRequires: Melee"
+  },
+  {
+    "Key": "LW.Sneaky.MainHand.Name",
+    "ProcessTemplates": false,
+    "zhCN": "鬼祟（主手武器）",
+    "enGB": "Sneaky (Main Hand)"
+  },
+  {
+    "Key": "LW.Sneaky.OffHand.Name",
+    "ProcessTemplates": false,
+    "zhCN": "鬼祟（副手武器）",
+    "enGB": "Sneaky (Off Hand)"
+  },
+
+  {
+    "Key": "LW.Speed.Name",
+    "ProcessTemplates": false,
+    "zhCN": "追击（＋3）",
+    "enGB": "Speed (+3)"
+  },
+
+  {
+    "Key": "LW.Valiant.Name",
+    "ProcessTemplates": false,
+    "zhCN": "勇气（＋1）",
+    "enGB": "Valiant (+1)"
+  },
+  {
+    "Key": "LW.Valiant.Description",
+    "zhCN": "这项附魔只能附加在近战武器上。当骑士持有该武器时挑战一个敌人，该武器在命中该敌人时造成额外1d6点伤害。该骑士对该挑战目标的卸武和破武战技的CMB +2，对抗该目标的卸武和破武战技的CMD +4。",
+    "enGB": "When a cavalier wielding a valiant weapon targets a foe with his challenge ability, the valiant weapon deals an additional 1d6 points of damage against that foe. The wielder receives a +2 bonus on combat maneuver checks made to disarm or sunder a challenged foe’s weapon as well as a +4 bonus to his CMD against disarm and sunder attacks from that foe.\nRequires: Melee"
+  },
+
+  {
+    "Key": "LW.Vicious.Name",
+    "ProcessTemplates": false,
+    "zhCN": "恶毒（＋1）",
+    "enGB": "Vicious (+1)"
+  },
+
+  {
+    "Key": "LW.Vorpal.Name",
+    "ProcessTemplates": false,
+    "zhCN": "斩首（＋5）",
+    "enGB": "Vorpal (+5)"
+  }
+]
