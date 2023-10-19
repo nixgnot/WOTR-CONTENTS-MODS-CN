@@ -68,3 +68,5 @@ QL详细使用说明请参阅https://github.com/nixgnot/WOTR-CONTENTS-MODS-CN/bl
 2023/10/3 更新MysticalMayhem补充汉化。更新TTT-Rework汉化修正。更新TTT-Base汉化修正。更新AddedFeats汉化。更新更新HomebrewArchetypes附属：ACTestingGrounds汉化修正（by ZJUZB）
 ---------------------------------------------------------
 2023/10/17 更新MysticalMayhem补充汉化。
+---------------------------------------------------------
+2023/10/18 更新自动增长加值、召唤师MOD汉化（by 猫猫虫）。
