@@ -3672,10 +3672,10 @@ C:\Users\你的用户名\AppData\LocalLow\Owlcat Games\Pathfinder Wrath Of The R
 > *中文：* **QL汉化**<br>
 > *安装方式：* **UMM**<br>
 > *新增内容：* 可选规则：自动增长加值<br>
-引入变体规则，角色无需给予加值和属性的物品，他们将在等级成长的过程中自动获得这些加值，至此他们可以空下那些装备栏位给各种有特效的物品
++ 引入变体规则，角色无需给予加值和属性的物品，他们将在等级成长的过程中自动获得这些加值，至此他们可以空下那些装备栏位给各种有特效的物品
 <table>
- <tr><th colspan="1">新增内容列表<br></th></tr> 
-  <tr>可参阅[这里](http://li1186-129.members.linode.com/bbs/index.php?topic=76351.0)</tr>
+ <tr><th>新增内容列表<br></th></tr> 
+  <tr><td>参阅[这里](https://github.com/WittleWolfie/AutomaticBonusProgression)</td></tr>
 </table>    
 
 -------------------------------------------  
