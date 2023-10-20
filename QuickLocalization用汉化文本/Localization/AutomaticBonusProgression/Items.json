@@ -19,7 +19,7 @@
 
   {
     "Key": "ABP.Item.LegendaryBracers",
-    "zhCN": "这对护腕将佩戴者的偏斜加值增加到ac，天生防御增强加值增加到ac，并且在豁免检定时＋1抗力加值。还为佩戴者所有属性提供＋2加值。这对护腕只能由玩家角色装备",
+    "zhCN": "这对护腕使佩戴者的ac偏斜加值，ac天生防御增强加值，以及豁免抗力加值＋1。还为佩戴者所有属性提供＋2加值。这对护腕只能由玩家角色装备",
     "enGB": "These bracers increase their wearer's deflection bonus to AC, natural armor enhancement bonus to AC, and resistance bonus on saving throws by +1. It also grants a +2 bonus to all ability scores. It can only be equipped by the player character."
   },
 
