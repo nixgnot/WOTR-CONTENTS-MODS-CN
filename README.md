@@ -48,8 +48,8 @@
 | [BetterBackgrounds](#BetterBackgrounds) | 更多背景 | QL汉化| :x: |:+1::+1: | :file_folder: | 🛠️ ||
 | [MartialExcellence](#MartialExcellence) | 杰出武艺 | 自带 |:heavy_check_mark: | :+1::+1: | :file_folder::file_folder: |||
 | [MediumClass](#MediumClass)| 通灵者职业 |  | :heavy_check_mark: |  | :file_folder: ||:steam_locomotive:|
-| [MysticalMayhem](#MysticalMayhem) | 神秘骚乱 | 自带 | :heavy_check_mark: | :+1::+1::+1: | :file_folder::file_folder: |||
-| [MythicArcanist](#MythicArcanist) | 神话秘术 | 自带 | :heavy_check_mark: | :v::heart_eyes::v: | :file_folder::file_folder: |||
+| [MysticalMayhem](#MysticalMayhem) | 神秘骚乱 | 自带 | :heavy_check_mark: | :v::heart_eyes::v: | :file_folder::file_folder: |||
+| [MythicArcanist](#MythicArcanist) | 神话秘术 | 自带 | :heavy_check_mark: | :+1::+1: | :file_folder::file_folder: |||
 | [ChampionFeatsAnew](#ChampionFeatsAnew) | 冠军专长 |   | :heavy_check_mark: |  | :file_folder::file_folder: ||:steam_locomotive:|
 | [KineticistElementsExpanded](#KineticistElementsExpanded) | 操念元素扩展 | 汉化 | :heavy_check_mark: | :+1: | :file_folder::file_folder: |||
 | [Madison'sMetagaming](#sMetagaming) | Madison扩展 | |:heavy_check_mark: |  | :file_folder: |||
