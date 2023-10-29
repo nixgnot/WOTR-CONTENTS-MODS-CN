@@ -43,13 +43,13 @@
 | [PhoenixsCantrips](#PhoenixsCantrips) | 戏法强化 | 汉化 | :heavy_check_mark: | :+1: | :file_folder: | 🛠️ ||
 | [MoreCantrips](#MoreCantrips) | 更多戏法   | 汉化 | :heavy_check_mark: | :+1: | :file_folder: | 🛠️ ||
 | [CharacterOptionsPlus](#CharacterOptionsPlus) | CO+扩展 | 自带 | :heavy_check_mark: | :+1::+1::+1: | :file_folder::file_folder::file_folder: |||
-| [DarkCodex](#DarkCodex) | DC扩展修复 | 自带 | :heavy_check_mark: | :+1::+1::+1: |  :file_folder::file_folder::file_folder: |🛠️🛠️ ||
+| [DarkCodex](#DarkCodex) | DC扩展修复 | 自带 | :heavy_check_mark: | :v::heart_eyes::v: |  :file_folder::file_folder::file_folder: |🛠️🛠️ ||
 | [AddedFeats](#AddedFeats) | 新增专长 | QL汉化 | :heavy_check_mark: |  :+1::+1: |  :file_folder::file_folder: |||
 | [BetterBackgrounds](#BetterBackgrounds) | 更多背景 | QL汉化| :x: |:+1::+1: | :file_folder: | 🛠️ ||
 | [MartialExcellence](#MartialExcellence) | 杰出武艺 | 自带 |:heavy_check_mark: | :+1::+1: | :file_folder::file_folder: |||
 | [MediumClass](#MediumClass)| 通灵者职业 |  | :heavy_check_mark: |  | :file_folder: ||:steam_locomotive:|
 | [MysticalMayhem](#MysticalMayhem) | 神秘骚乱 | 自带 | :heavy_check_mark: | :+1::+1::+1: | :file_folder::file_folder: |||
-| [MythicArcanist](#MythicArcanist) | 神话秘术 | 自带 | :heavy_check_mark: | :+1::+1::+1: | :file_folder::file_folder: |||
+| [MythicArcanist](#MythicArcanist) | 神话秘术 | 自带 | :heavy_check_mark: | :v::heart_eyes::v: | :file_folder::file_folder: |||
 | [ChampionFeatsAnew](#ChampionFeatsAnew) | 冠军专长 |   | :heavy_check_mark: |  | :file_folder::file_folder: ||:steam_locomotive:|
 | [KineticistElementsExpanded](#KineticistElementsExpanded) | 操念元素扩展 | 汉化 | :heavy_check_mark: | :+1: | :file_folder::file_folder: |||
 | [Madison'sMetagaming](#sMetagaming) | Madison扩展 | |:heavy_check_mark: |  | :file_folder: |||
@@ -65,12 +65,12 @@
 | [CyniikalBrokenFeatures](#CyniikalBrokenFeatures) | 法师虚学派 |QL汉化| :heavy_check_mark: | :+1: | :file_folder::file_folder: |||
 | [随军神父](#随军神父) | 随军神父 | 自带 | :heavy_check_mark: | :+1: | :file_folder: |||
 | [CompanionAscension](#CompanionAscension) | 同伴提升 |  | :heavy_check_mark: | :+1: | :file_folder: ||:steam_locomotive:|
-| [SwashbucklerWOTR](#SwashbucklerWOTR) | 游荡剑客 | QL汉化 | :heavy_check_mark: | :+1: | :file_folder: |||
+| [SwashbucklerWOTR](#SwashbucklerWOTR) | 游荡剑客 | QL汉化 | :heavy_check_mark: | :+1::+1::+1: | :file_folder: |||
 | [SmolCraft](#SmolCraft) | SmolCraft | QL汉化 | :heavy_check_mark: | :+1: | :file_folder: |||
 | [EnduringRework](#EnduringRework) | 持久重置 | QL汉化 | :heavy_check_mark: | :+1: | :file_folder: |🛠️||
 | [CraftMaster](#CraftMaster) | 造物MOD | 自带 | :heavy_check_mark: | :+1::+1: | :file_folder::file_folder: |||
 | [Psionics](#Psionics) | 灵能MOD | QL汉化 | :heavy_check_mark: | :+1::+1: | :file_folder::file_folder: |||
-| [KineticArchetypes](#KineticArchetypes) | 念力变体 | 自带 | :heavy_check_mark: | :+1::+1::+1: | :file_folder: |||
+| [KineticArchetypes](#KineticArchetypes) | 念力变体 | 自带 | :heavy_check_mark: | :v::heart_eyes::v: | :file_folder: |||
 | [MinosPlayerRace](#MinosPlayerRace) | 牛头人种族 | QL汉化 | :heavy_check_mark: | :+1: | :file_folder: |||
 | [WoTRHolyVindicator](#WoTRHolyVindicator) | 神圣辩护者 | 暂无 | :heavy_check_mark: | :+1::+1: | :file_folder: |||
 | [PrestigePlus](#PrestigePlus) | 进阶职业扩展 | 自带 | :heavy_check_mark: | :v::heart_eyes::v: | :file_folder::file_folder::file_folder: |||
