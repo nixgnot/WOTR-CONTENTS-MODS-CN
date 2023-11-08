@@ -1,0 +1,8 @@
+.idea/
+.vscode/
+.vs/
+/Tools/
+
+bin/
+obj/
+lib/
