@@ -1,0 +1,129 @@
+﻿<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <!--
+			Enables the latest C# language features. Runtime features are limited by the .NET framework version, so some
+			features (e.g. Default Interfaces) are not available.
+		-->
+    <LangVersion>latest</LangVersion>
+    <!-- Latest .NET version supported by Wrath / Unity -->
+    <TargetFramework>net472</TargetFramework>
+    <!-- Needed to use publicized assembly -->
+    <AllowUnsafeBlocks>true</AllowUnsafeBlocks>
+    
+    <AssemblyName>QuickLocalization</AssemblyName>
+    <RootNamespace>QuickLocalization</RootNamespace>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <Compile Remove="lib\**" />
+    <EmbeddedResource Remove="lib\**" />
+    <None Remove="lib\**" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <PackageReference Include="AssemblyPublicizer" Version="*">
+      <PrivateAssets>all</PrivateAssets>
+      <IncludeAssets>runtime; build; native; contentfiles; analyzers; buildtransitive</IncludeAssets>
+    </PackageReference>
+    <PackageReference Include="ILRepack.MSBuild.Task" Version="*" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <!-- Main Wrath Assembly, Publicized -->
+    <Reference Include="Assembly-CSharp">
+      <HintPath>$(SolutionDir)lib\Assembly-CSharp.dll</HintPath>
+    </Reference>
+
+    <!-- Wrath Assemblies -->
+    <Reference Include="Assembly-CSharp-firstpass.dll">
+      <HintPath>$(WrathPath)\Wrath_Data\Managed\Assembly-CSharp-firstpass.dll</HintPath>
+    </Reference>
+    <Reference Include="Newtonsoft.Json">
+      <HintPath>$(WrathPath)\Wrath_Data\Managed\Newtonsoft.Json.dll</HintPath>
+    </Reference>
+    <Reference Include="Owlcat.Runtime.Core">
+      <HintPath>$(WrathPath)\Wrath_Data\Managed\Owlcat.Runtime.Core.dll</HintPath>
+    </Reference>
+    <Reference Include="Owlcat.Runtime.UI">
+      <HintPath>$(WrathPath)\Wrath_Data\Managed\Owlcat.Runtime.UI.dll</HintPath>
+    </Reference>
+    <Reference Include="Owlcat.Runtime.Validation">
+      <HintPath>$(WrathPath)\Wrath_Data\Managed\Owlcat.Runtime.Validation.dll</HintPath>
+    </Reference>
+    <Reference Include="Owlcat.Runtime.Visual">
+      <HintPath>$(WrathPath)\Wrath_Data\Managed\Owlcat.Runtime.Visual.dll</HintPath>
+    </Reference>
+    <Reference Include="UnityEngine">
+      <HintPath>$(WrathPath)\Wrath_Data\Managed\UnityEngine.dll</HintPath>
+    </Reference>
+    <Reference Include="UnityEngine.CoreModule">
+      <HintPath>$(WrathPath)\Wrath_Data\Managed\UnityEngine.CoreModule.dll</HintPath>
+    </Reference>
+
+    <!-- UMM & Harmony -->
+    <Reference Include="0Harmony">
+      <HintPath>$(WrathPath)\Wrath_Data\Managed\UnityModManager\0Harmony.dll</HintPath>
+    </Reference>
+    <Reference Include="UnityEngine.IMGUIModule">
+      <HintPath>..\..\..\..\Soft\Steam\steamapps\common\Pathfinder Second Adventure\Wrath_Data\Managed\UnityEngine.IMGUIModule.dll</HintPath>
+    </Reference>
+    <Reference Include="UnityModManager">
+      <HintPath>$(WrathPath)\Wrath_Data\Managed\UnityModManager\UnityModManager.dll</HintPath>
+    </Reference>
+  </ItemGroup>
+
+  <ItemGroup>
+    <None Update="assets">
+      <CopyToOutputDirectory>PreserveNewest</CopyToOutputDirectory>
+    </None>
+    <None Update="basictemplate_assets">
+      <CopyToOutputDirectory>PreserveNewest</CopyToOutputDirectory>
+    </None>
+    <None Update="Info.json">
+      <CopyToOutputDirectory>PreserveNewest</CopyToOutputDirectory>
+    </None>
+  </ItemGroup>
+
+  <!-- Generates Assembly-CSharp_public.dll -->
+  <Target Name="Publicize" AfterTargets="Clean">
+    <ItemGroup>
+      <Assemblies Include="$(WrathPath)\Wrath_Data\Managed\Assembly-CSharp.dll" />
+      <PublicAssembly Include="$(SolutionDir)lib\Assembly-CSharp_public.dll" />
+      <RenamedAssembly Include="$(SolutionDir)lib\Assembly-CSharp.dll" />
+    </ItemGroup>
+
+    <RemoveDir Directories="$(SolutionDir)lib/" />
+    <PublicizeTask InputAssemblies="@(Assemblies)" OutputDir="$(SolutionDir)lib/" />
+    <!-- ILRepack requires the assembly name match the reference so remove _public -->
+    <Move SourceFiles="@(PublicAssembly)" DestinationFiles="@(RenamedAssembly)" />
+  </Target>
+
+  <!-- Automatically deploys the mod on build -->
+  <Target Name="Deploy" AfterTargets="Build">
+    <ItemGroup>
+      <Assembly Include="$(OutputPath)\$(AssemblyName).dll" />
+      <ModConfig Include="$(OutputPath)\Info.json" />
+      <Assets Include="$(OutputPath)\*_assets" />
+    </ItemGroup>
+
+    <Copy SourceFiles="@(Assembly)" DestinationFolder="$(WrathPath)\Mods\$(MSBuildProjectName)" />
+    <Copy SourceFiles="@(ModConfig)" DestinationFolder="$(WrathPath)\Mods\$(MSBuildProjectName)" />
+    <Copy SourceFiles="@(Assets)" DestinationFolder="$(WrathPath)\Mods\$(MSBuildProjectName)" />
+  </Target>
+
+  <!-- Automatically creates a release zip -->
+  <Target Name="ZipRelease" AfterTargets="Build" Condition="'$(Configuration)' == 'Release'">
+    <ItemGroup>
+      <Assembly Include="$(OutputPath)\$(AssemblyName).dll" />
+      <ModConfig Include="$(OutputPath)\Info.json" />
+      <Assets Include="$(OutputPath)\*_assets" />
+    </ItemGroup>
+
+    <Copy SourceFiles="@(Assembly)" DestinationFolder="$(OutputPath)\$(AssemblyName)" />
+    <Copy SourceFiles="@(ModConfig)" DestinationFolder="$(OutputPath)\$(AssemblyName)" />
+    <Copy SourceFiles="@(Assets)" DestinationFolder="$(OutputPath)\$(AssemblyName)" />
+    <ZipDirectory SourceDirectory="$(OutputPath)\$(AssemblyName)" DestinationFile="$(OutputPath)\$(AssemblyName).zip" Overwrite="true" />
+  </Target>
+
+</Project>
