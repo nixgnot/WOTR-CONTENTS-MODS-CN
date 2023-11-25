@@ -21809,6 +21809,34 @@
       "zhCN": "信息素"
     },
     {
+      "Key": "ef7e0019d1664031a8b9e58cbb78d6c8",
+      "SimpleName": "ChildOfAcavnaAndAmaznenArchetype.Description",
+      "ProcessTemplates": false,
+      "enGB": "The child of Acavna and Amaznen has trained in the nearly forgotten arts of Azlant passed down by Aroden, which combine martial prowess with elementary wizardry. Inspired by the deities Aroden once worshiped long ago, children of Acavna and Amaznen strive to understand the dangers of the world and overcome them with knowledge and strength of arms.",
+      "zhCN": "有一群战士致力于修炼由人类之神奥罗登亲自传授的阿兹兰特秘艺。将格斗和战术结合以奥术魔法的施展，圣子敬拜奥罗登曾经崇拜的阿兹兰特旧神，以自己的知识与武技扫清人神逝去之后存留于世界的危险和黑暗。",
+    },
+    {
+      "Key": "cb2fa924bee848438d6944fa7e652ff2",
+      "SimpleName": "ChildOfAcavnaAndAmaznenProficiencies.Description",
+      "ProcessTemplates": true,
+      "enGB": "A child of Acavna and Amaznen is proficient with all simple weapons, one-handed martial weapons, all armor (heavy, light, and medium) and shields (excluding tower shields).",
+      "zhCN": "旧神圣子擅长使用所有的简易武器和单手军用武器，同时擅长所有类型盔甲（重甲，中甲，轻甲）和盾牌（不包括塔盾）。",
+    },
+    {
+      "Key": "9162a6cfe248492dbea47a2bc8c480f9",
+      "SimpleName": "ChildOfAcavnaAndAmaznenProficiencies.Name",
+      "ProcessTemplates": false,
+      "enGB": "Child of Acavna and Amaznen Proficiencies",
+      "zhCN": "旧神圣子擅长",
+    },
+    {
+      "Key": "61b3d2af91c64f859c202b549ed56f2c",
+      "SimpleName": "ChildOfAcavnaAndAmaznenSpellbook.Name",
+      "ProcessTemplates": false,
+      "enGB": "Child of Acavna and Amaznen",
+      "zhCN": "旧神圣子",
+    },
+    {
       "Key": "258a8e095ef94b1cb968d1d2dbf12c9d",
       "SimpleName": "EldritchArmorTrainingAbility.Description",
       "ProcessTemplates": true,
@@ -21912,6 +21940,745 @@
       "ProcessTemplates": false,
       "enGB": "One Handed Martial Weapons Proficiency",
       "zhCN": "单手军用武器擅长"
+    },
+    {
+      "Key": "85a7f11ec34e4be8a92235a4db7ceec2",
+      "SimpleName": "QuickenBlessingArtificeFeature.Description",
+      "ProcessTemplates": true,
+      "IsUsed": false,
+    "zhCN": "选择你的一项祝福，你可以用迅捷动作开启这项祝福，消耗两次每日祝福次数。",
+    "enGB": "Choose one of your blessings that normally requires a standard action to use. You can expend two of your daily uses of blessings to deliver that blessing (regardless of whether it’s a minor or major effect) as a swift action instead."
+    },
+    {
+      "Key": "dd4b9ceab7894f3fa046238ec4b10f2a",
+      "SimpleName": "QuickenBlessingArtificeFeature.Name",
+      "ProcessTemplates": false,
+    "zhCN": "迅捷祝福 — 手艺",
+    "enGB": "Quicken Blessing — Artifice"
+    },
+    {
+      "Key": "616c16cb91d04c67bbc0ea4f75d3e073",
+      "SimpleName": "QuickenBlessingCommunityFeature.Name",
+      "ProcessTemplates": false,
+    "zhCN": "迅捷祝福 — 团队",
+    "enGB": "Quicken Blessing — Community"
+    },
+    {
+      "Key": "6c1307f390614b21b90babbf140e63a9",
+      "SimpleName": "QuickenBlessingPlantFeature.Name",
+      "ProcessTemplates": false,
+    "zhCN": "迅捷祝福 — 植物",
+    "enGB": "Quicken Blessing — Plant"
+    },
+    {
+      "Key": "ad19a49d2eca43b28c22dce5c4200be3",
+      "SimpleName": "QuickenBlessingWarFeature.Description",
+      "ProcessTemplates": true,
+    "zhCN": "选择你的一项祝福，你可以用迅捷动作开启这项祝福，消耗两次每日祝福次数。",
+    "enGB": "Choose one of your blessings that normally requires a standard action to use. You can expend two of your daily uses of blessings to deliver that blessing (regardless of whether it’s a minor or major effect) as a swift action instead."
+    },
+    {
+      "Key": "273da89681244145b7a22c36fdfe0d3d",
+      "SimpleName": "QuickenBlessingWarFeature.Name",
+      "ProcessTemplates": false,
+    "zhCN": "迅捷祝福 — 战争",
+    "enGB": "Quicken Blessing — War"
+    },
+    {
+      "Key": "c85a858b9113422cbb19c848b6d1ef6a",
+      "SimpleName": "WarBlessingFeature.Description",
+      "ProcessTemplates": true,
+    "zhCN": "在1级时，你可以接触一个盟友，赋予他战术上的优势一分钟。在此期间，盟友以下一种加值：移动速度+10尺；+1闪避AC；攻击检定+1洞察加值；所有的豁免检定+1幸运加值。\n在10级时，你可以接触一个盟友，赋予他对争斗无尽的热望。这个生物的所有近战攻击效果都视为他的武器拥有恶毒附魔。除此之外，这个生物在确认重击时在攻击检定上获得+4洞察加值。这个效果持续一分钟。",
+    "enGB": "At 1st level, you can touch an ally and grant it a tactical advantage for 1 minute. The ally gets one of the following bonuses: +10 feet to base speed, +1 dodge bonus to AC, +1 insight bonus on attack rolls, or a +1 luck bonus on saving throws. \nAt 10th level, you can touch an ally and grant it a thirst for battle. All of the ally’s melee attacks are treated as if they had the vicious weapon special ability. In addition, the ally receives a +4 insight bonus on attack rolls made to confirm critical hits. These benefits last for 1 minute."
+    },
+    {
+      "Key": "5bb61082f573401e96434aff2fd8e6fe",
+      "SimpleName": "WarBlessingFeature.Name",
+      "ProcessTemplates": false,
+    "zhCN": "战争",
+    "enGB": "War"
+    },
+    {
+      "Key": "c95ad65cb41e477d83dd7c0278c94b71",
+      "SimpleName": "WarBlessingMajorAbility.Description",
+      "ProcessTemplates": true,
+      "IsUsed": false,
+    "zhCN": "在10级时，你可以接触一个盟友，赋予他对争斗无尽的热望。这个生物的所有近战攻击效果都视为他的武器拥有恶毒附魔。除此之外，这个生物在确认重击时在攻击检定上获得+4洞察加值。这个效果持续一分钟。",
+    "enGB": "At 10th level, you can touch an ally and grant it a thirst for battle. All of the ally’s melee attacks are treated as if they had the vicious weapon special ability. In addition, the ally receives a +4 insight bonus on attack rolls made to confirm critical hits. These benefits last for 1 minute."
+    },
+    {
+      "Key": "0a71614097a848e6876a7571ada6c96f",
+      "SimpleName": "WarBlessingMajorBuff.Description",
+      "ProcessTemplates": true,
+    "zhCN": "你的所有近战攻击效果都视为武器拥有恶毒附魔。除此之外，你在确认重击时在攻击检定上获得+4洞察加值。这个效果持续一分钟。",
+    "enGB": "All attacks are treated as if you had the vicious weapon special ability. In addition, you receive a +4 insight bonus on attack rolls made to confirm critical hits. These benefits last for 1 minute."
+    },
+    {
+      "Key": "8d3e01289c6f4ded8e385bdeaad5b9aa",
+      "SimpleName": "WarBlessingMajorBuff.Name",
+      "ProcessTemplates": false,
+    "zhCN": "求战似渴",
+    "enGB": "Battle Lust"
+    },
+    {
+      "Key": "dac04f24e477496d963904bcb2a9612e",
+      "SimpleName": "WarBlessingMajorFeature.Description",
+      "ProcessTemplates": true,
+    "zhCN": "在10级时，你可以接触一个盟友，赋予他对争斗无尽的热望。这个生物的所有近战攻击效果都视为他的武器拥有恶毒附魔。除此之外，这个生物在确认重击时在攻击检定上获得+4洞察加值。这个效果持续一分钟。",
+    "enGB": "At 10th level, you can touch an ally and grant it a thirst for battle. All of the ally’s melee attacks are treated as if they had the vicious weapon special ability. In addition, the ally receives a +4 insight bonus on attack rolls made to confirm critical hits. These benefits last for 1 minute."
+    },
+    {
+      "Key": "4365d1e3f2a8401eae2caab283daee7b",
+      "SimpleName": "WarBlessingMinorAbilityAC.Description",
+      "ProcessTemplates": true,
+      "IsUsed": false,
+    "zhCN": "在1级时，你可以接触一个盟友，给予他AC+1闪避加值。这个效果持续一分钟。",
+    "enGB": "At 1st level, you can touch an ally and grant it +1 dodge bonus to AC for 1 minute."
+    },
+    {
+      "Key": "bfe2eac7d3aa4b98948663a6002a5a6a",
+      "SimpleName": "WarBlessingMinorAbilityACSwift.Description",
+      "ProcessTemplates": true,
+      "IsUsed": false,
+    "zhCN": "在1级时，你可以接触一个盟友，给予他AC+1闪避加值。这个效果持续一分钟。",
+    "enGB": "At 1st level, you can touch an ally and grant it +1 dodge bonus to AC for 1 minute."
+    },
+    {
+      "Key": "ef3f65b367e242109cd6fce5779777bb",
+      "SimpleName": "WarBlessingMinorAbilityAttack.Description",
+      "ProcessTemplates": true,
+      "IsUsed": false,
+    "zhCN": "在1级时，你可以接触一个盟友，给予他AC+1闪避加值。这个效果持续一分钟。",
+    "enGB": "At 1st level, you can touch an ally and grant it +1 insight bonus on attack rolls for 1 minute."
+    },
+    {
+      "Key": "6754e5f4298b4c38a9b5b97321c9ff69",
+      "SimpleName": "WarBlessingMinorAbilityAttackSwift.Description",
+      "ProcessTemplates": true,
+      "IsUsed": false,
+    "zhCN": "在1级时，你可以接触一个盟友，给予他攻击检定+1洞察加值。这个效果持续一分钟",
+    "enGB": "At 1st level, you can touch an ally and grant it +1 insight bonus on attack rolls for 1 minute."
+    },
+    {
+      "Key": "9afd03e0fd0049a3876096aaa8cb632b",
+      "SimpleName": "WarBlessingMinorAbilityBase.Description",
+      "ProcessTemplates": true,
+    "zhCN": "在1级时，你可以接触一个盟友，赋予他战术上的优势一分钟。在此期间，盟友以下一种加值：移动速度+10尺；+1闪避AC；攻击检定+1洞察加值；所有的豁免检定+1幸运加值。",
+    "enGB": "At 1st level, you can touch an ally and grant it a tactical advantage for 1 minute. The ally gets one of the following bonuses: +10 feet to base speed, +1 dodge bonus to AC, +1 insight bonus on attack rolls, or a +1 luck bonus on saving throws. An ally can only benefit from one of these bonuses at a time."
+    },
+    {
+      "Key": "54b75b8cc6a34a488d292d890b35973e",
+      "SimpleName": "WarBlessingMinorAbilityBase.Name",
+      "ProcessTemplates": false,
+    "zhCN": "战地之心",
+    "enGB": "War Mind"
+    },
+    {
+      "Key": "337537d339ca499e90ba0230be68624c",
+      "SimpleName": "WarBlessingMinorAbilitySaves.Description",
+      "ProcessTemplates": true,
+      "IsUsed": false,
+    "zhCN": "在1级时，你可以接触一个盟友，给予他所有的豁免检定+1幸运加值。这个效果持续一分钟",
+    "enGB": "At 1st level, you can touch an ally and grant it +1 luck bonus on saving throws for 1 minute."
+    },
+    {
+      "Key": "642de3a0e3f54ae8b7a9b0278b3f06ef",
+      "SimpleName": "WarBlessingMinorAbilitySavesSwift.Description",
+      "ProcessTemplates": true,
+      "IsUsed": false,
+    "zhCN": "在1级时，你可以接触一个盟友，给予他所有的豁免检定+1幸运加值。这个效果持续一分钟",
+    "enGB": "At 1st level, you can touch an ally and grant it +1 luck bonus on saving throws for 1 minute."
+    },
+    {
+      "Key": "60b26c6071b2405e918fbe6ebdf0f248",
+      "SimpleName": "WarBlessingMinorAbilitySpeed.Description",
+      "ProcessTemplates": true,
+      "IsUsed": false,
+    "zhCN": "在1级时，你可以接触一个盟友，给予他移动速度+10尺。这个效果持续一分钟",
+    "enGB": "At 1st level, you can touch an ally and grant it +10 feet to base speed for 1 minute."
+    },
+    {
+      "Key": "2a024f6969114207a702db55aef83282",
+      "SimpleName": "WarBlessingMinorAbilitySpeedSwift.Description",
+      "ProcessTemplates": true,
+      "IsUsed": false,
+    "zhCN": "在1级时，你可以接触一个盟友，给予他移动速度+10尺。这个效果持续一分钟",
+    "enGB": "At 1st level, you can touch an ally and grant it +10 feet to base speed for 1 minute."
+    },
+    {
+      "Key": "b47ace57fd67428f8e2a03237fe69372",
+      "SimpleName": "WarBlessingMinorBuffAC.Description",
+      "ProcessTemplates": true,
+    "zhCN": "在1级时，你可以接触一个盟友，给予他AC+1闪避加值。这个效果持续一分钟。",
+    "enGB": "At 1st level, you can touch an ally and grant it +1 dodge bonus to AC for 1 minute."
+    },
+    {
+      "Key": "04dcbc3490b7419bac9223eaf963472b",
+      "SimpleName": "WarBlessingMinorBuffAC.Name",
+      "ProcessTemplates": false,
+    "zhCN": "战地之心-AC",
+    "enGB": "War Mind - AC"
+    },
+    {
+      "Key": "1862eaa63dc2485e9ab0a27cfe3f9a76",
+      "SimpleName": "WarBlessingMinorBuffAttack.Description",
+      "ProcessTemplates": true,
+    "zhCN": "在1级时，你可以接触一个盟友，给予他攻击检定+1洞察加值。这个效果持续一分钟",
+    "enGB": "At 1st level, you can touch an ally and grant it +1 insight bonus on attack rolls for 1 minute."
+    },
+    {
+      "Key": "b879c91c05404e92be2cf53ac2465f58",
+      "SimpleName": "WarBlessingMinorBuffAttack.Name",
+      "ProcessTemplates": false,
+    "zhCN": "战地之心-攻击",
+    "enGB": "War Mind - Attack"
+    },
+    {
+      "Key": "56eeb3b2be454eddb0fe6bd63e97870b",
+      "SimpleName": "WarBlessingMinorBuffSaves.Description",
+      "ProcessTemplates": true,
+    "zhCN": "在1级时，你可以接触一个盟友，给予他所有的豁免检定+1幸运加值。这个效果持续一分钟",
+    "enGB": "At 1st level, you can touch an ally and grant it +1 luck bonus on saving throws for 1 minute."
+    },
+    {
+      "Key": "642ff87b19d049d490663fff16e559ec",
+      "SimpleName": "WarBlessingMinorBuffSaves.Name",
+      "ProcessTemplates": false,
+    "zhCN": "战地之心-豁免",
+    "enGB": "War Mind - Saves"
+    },
+    {
+      "Key": "cc2a8757456b4d64b21c9a04ecb9a7f0",
+      "SimpleName": "WarBlessingMinorBuffSpeed.Description",
+      "ProcessTemplates": true,
+    "zhCN": "在1级时，你可以接触一个盟友，给予他移动速度+10尺。这个效果持续一分钟",
+    "enGB": "At 1st level, you can touch an ally and grant it +10 feet to base speed for 1 minute."
+    },
+    {
+      "Key": "888b367ecd964657b963412af6786a4a",
+      "SimpleName": "WarBlessingMinorBuffSpeed.Name",
+      "ProcessTemplates": false,
+    "zhCN": "战地之心-速度",
+    "enGB": "War Mind - Speed"
+    },
+    {
+      "Key": "c34d70b76bad4a42aa999836ecb75599",
+      "SimpleName": "DivineTrackerAirBlessingFeature.Description",
+      "ProcessTemplates": true,
+    "zhCN": "1级起，你可以触碰一位盟友，使其在1分钟内的远程攻击不会引发借机攻击。\n13级起，你可以触碰一位盟友，赋予其飞行能力（如同飞翼）。每当该盟友的冲锋攻击命中时，可额外造成等于你的等级的电击伤害。 ",
+    "enGB": "At 1st level, you can touch any one ally. For 1 minute, his ranged attacks doesn't provoke an attack of opportunity.\nAt 13th level, you can touch an ally and give her the gift of flight for 1 minute (as Wings). Whenever the ally succeeds at a charge attack, that attack deals an amount of additional electricity damage equal to your level."
+    },
+    {
+      "Key": "75c61e4210e2491ea5f2bb48f77e71b2",
+      "SimpleName": "DivineTrackerAnimalBlessingFeature.Description",
+      "ProcessTemplates": true,
+    "zhCN": "1级起，你可以触碰一位盟友，赋予其野兽的特征。该盟友获得2次爪抓攻击，若其为中体型，可造成1d6点伤害，小体型则可造成1d4点伤害。这些攻击是主要天生攻击，会取代该盟友原本可能具有的相似主要天生攻击。此效果持续1分钟。\n13级起，你可以召唤出一个战斗伙伴。此能力效果类似于召唤自然盟友V，持续时间为1分钟。无论使用何种召唤列表，此能力只能召唤出一只动物。10级之后每提升2级，召唤自然盟友的法术等级提高1级（18级时达到最大值，即召唤自然盟友IX）。",
+    "enGB": "At 1st level, you can touch one ally and grant it feral features. The ally gains 2 claw attacks that each deal 1d6 points of damage if the ally is Medium or 1d4 if it's Small. These are primary natural attacks that replace any similar primary natural attacks the ally might have. This effect lasts for 1 minute.\nAt 13th level, you can summon a battle companion. This ability functions as summon nature's ally V with a duration of 1 minute. This ability can summon only one animal, regardless of the list used. For every 2 levels beyond 10th, the level of the summon nature's ally spell increases by 1 (to a maximum of summon nature's ally IX at 18th level)."
+    },
+    {
+      "Key": "bd7e17b9ecbf4d45a55d5d454ea4794f",
+      "SimpleName": "DivineTrackerArchetype.Description",
+      "ProcessTemplates": false,
+    "zhCN": "和大多数以行走荒野为日常的游侠不同，神圣追猎者虔诚的侍奉自己信仰的神祇。他们的武器可以更迅捷地杀戮自己的宿敌。",
+    "enGB": "Blessed by his deity, a divine tracker hunts down those he deems deserving of his retribution. His weapon is likely to find purchase in his favored enemy."
+    },
+    {
+      "Key": "5c966a5a3f9e45209cda7dd61a13513e",
+      "SimpleName": "DivineTrackerArchetype.Name",
+      "ProcessTemplates": false,
+    "zhCN": "神圣追猎者",
+    "enGB": "Divine Tracker"
+    },
+    {
+      "Key": "5c12d23c4df04db9a7c075261ef848b9",
+      "SimpleName": "DivineTrackerArtificeBlessingFeature.Description",
+      "ProcessTemplates": true,
+    "zhCN": "在1级时，用一个标准动作，你可以通过触摸一件近战武器给予其超越其他人工制品的力量。在一分钟内，每当该武器对构装体或物体造成伤害时，它无视所有硬度和伤害减免。\n在13级时，你可以暂时将武器附魔从一把武器复制到另一把武器。你可以从你当前装备的武器中复制任何简单的永久附魔。如果你在双头武器上使用这个能力，只有双头武器的一端会受到影响。效果持续1分钟。你可以在同一件武器上多次使用这个能力。\n一些简单附魔的例子有，冰爆，神圣，锐锋，追击。",
+    "enGB": "At 1st level, you can touch an ally and grant them greater power to harm and destroy crafted objects. For 1 minute, whenever this ally deals damage to constructs or objects with melee weapons, they bypasses hardness and damage reduction. \nAt 13th level, you can temporarily copy a weapon enchantment from one weapon to another. You may copy any simple permanent enchant from a weapon you have currently equipped. If you are using this ability on a double weapon, only one end of the double weapon is affected. The copy lasts for 1 minute. You can use this ability multiple times on the same weapon. \nSome examples of simple enchants are, Icy Burst, Holy, Keen, Speed."
+    },
+    {
+      "Key": "c18bf10ab81447cab38dffdad78b45cd",
+      "SimpleName": "DivineTrackerBlessingSelectionFirst.Description",
+      "ProcessTemplates": true,
+      "IsUsed": false,
+    "zhCN": "在4级时，神圣追猎者可以获得自己信仰神祇的战斗祝福。从他信仰神祇可以赋予的战斗祭司祝福列表中选择两个祝福，神圣追猎者可以获得它们的次级祝福能力。只有信仰特定拥有特定阵营领域神祇（善良，邪恶，混乱，守序），并且本人的阵营与之相符的神圣追猎者才可以选择阵营祝福。在决定祝福的效果时，神圣追猎者可以以他的游侠等级作为战斗祭司等级。在13级时，神圣追猎者可以使用这两个祝福领域的高等祝福。",
+    "enGB": "At 4th level, a divine tracker forms a close bond with his deity’s ethos. He selects two warpriest domains from among the domains granted by his deity, and gains the minor blessings of those domains. A divine tracker can select an alignment domain (Chaos, Evil, Good, or Law) only if his alignment matches that domain. A divine tracker uses his ranger level as his warpriest level to determine the effect of the blessing. At 13th level, a divine tracker gains the major blessing from both of his domains."
+    },
+    {
+      "Key": "581843d1acda436589bb9dca5cb1f069",
+      "SimpleName": "DivineTrackerBlessingSelectionFirst.Name",
+      "ProcessTemplates": false,
+    "zhCN": "追猎者的祝福",
+    "enGB": "Trackers Blessings"
+    },
+    {
+      "Key": "9f097e5f86d14538bd4b469d1439a01d",
+      "SimpleName": "DivineTrackerBlessingSelectionSecond.Description",
+      "ProcessTemplates": true,
+    "zhCN": "在4级时，神圣追猎者可以获得自己信仰神祇的战斗祝福。从他信仰神祇可以赋予的战斗祭司祝福列表中选择两个祝福，神圣追猎者可以获得它们的次级祝福能力。只有信仰特定拥有特定阵营领域神祇（善良，邪恶，混乱，守序），并且本人的阵营与之相符的神圣追猎者才可以选择阵营祝福。在决定祝福的效果时，神圣追猎者可以以他的游侠等级作为战斗祭司等级。在13级时，神圣追猎者可以使用这两个祝福领域的高等祝福。",
+    "enGB": "At 4th level, a divine tracker forms a close bond with his deity’s ethos. He selects two warpriest domains from among the domains granted by his deity, and gains the minor blessings of those domains. A divine tracker can select an alignment domain (Chaos, Evil, Good, or Law) only if his alignment matches that domain. A divine tracker uses his ranger level as his warpriest level to determine the effect of the blessing. At 13th level, a divine tracker gains the major blessing from both of his domains."
+    },
+    {
+      "Key": "8a3eab6d298942ac98b888facccf99c9",
+      "SimpleName": "DivineTrackerChaosBlessingFeature.Description",
+      "ProcessTemplates": true,
+    "zhCN": "1级起，你可以触碰一位盟友，赋予其混乱祝福。在1分钟内，该盟友对守序生物额外造成1d6点伤害。这段时间内该盟友的攻击在用于穿透伤害减免时被视为混乱阵营。\n13级起，你可以召唤出一个战斗伙伴。此能力效果类似于召唤怪物IV，持续时间为1分钟。无论使用何种召唤列表，此能力只能召唤出一个生物。10级之后每提升2级，召唤怪物的法术等级提高1级（20级时达到最大值，即召唤怪物IX）。 ",
+    "enGB": "At 1st level, you can touch one ally and grant him a chaotic blessing. For 1 minute, this ally deals an additional 1d6 points of damage against lawful creatures. During this time, his attacks are treated as chaotic for the purposes of overcoming damage reduction.\nAt 13th level, you can summon a battle companion. This ability functions as summon monster IV with a duration of 1 minute, but can only summon demons. This ability can summon only one creature, regardless of the list used. For every 2 levels beyond 10th, the level of the summon monster spell increases by 1 (to a maximum of summon monster IX at 20th level)."
+    },
+    {
+      "Key": "088bcf59c1f14594b14c959b9e363749",
+      "SimpleName": "DivineTrackerCommunityBlessingFeature.Description",
+      "ProcessTemplates": true,
+    "zhCN": "在1级时，用一个标准动作，你可以触摸一个盟友并赋予其团结的祝福。在1分钟内，每当这名盟友使用协助他人动作时，加值都会提升至+4。你可以用迅捷动作对自己使用这项能力。\n在13级时，你可以呼吁全体战友并肩作战。在1分钟内，每当你成功地对一个敌人发动了近战或远程攻击，你10尺内的队友就可以在对抗同一敌人时在你的攻击方式上进行攻击检定上获得+2洞察加值——你进行近战攻击则近战获得加值，远程亦然。如果你的攻击成功专长了重击威胁，那么在一轮内，该加值提升到+4.",
+    "enGB": "At 1st level, you can touch an ally and grant it the blessing of community. For the next minute, whenever that ally uses the aid another action, the bonus granted increases by 2. You can instead use this ability on yourself as a swift action. \nAt 13th level, you can rally your allies to fight together. For 1 minute, whenever you make a successful melee or ranged attack against a foe, allies within 10 feet of you gain a +2 insight bonus on attacks of the same type you made against that foe—melee attacks if you made a melee attack, or ranged attacks if you made a ranged attack. If you score a critical hit, this bonus increases to +4 until the start of your next turn."
+    },
+    {
+      "Key": "d11133f5f1f8447dbd90bf7fd5560da7",
+      "SimpleName": "DivineTrackerDarknessBlessingFeature.Description",
+      "ProcessTemplates": true,
+    "zhCN": "1级起，你可以触碰一位盟友，赋予其黑暗祝福。1分钟内，该盟友在战斗中被阴影遮盖，获得隐蔽（对其攻击有20%失手率）。\n13级起，你可以让30英尺内的一个敌人眼前被一层黑暗遮蔽。目标必须成功进行意志豁免检定，否则陷入1分钟目盲。",
+    "enGB": "At 1st level, you can touch an ally and bestow a darkness blessing. For 1 minute, the ally becomes enshrouded in shadows while in combat, granting it concealment (20% miss chance).\nAt 13th level, you can place a shroud of darkness around the eyes of one foe within 30 feet. The target must succeed at a Will saving throw or be blinded for 1 minute"
+    },
+    {
+      "Key": "2311ef2946124d6891970306afe587c2",
+      "SimpleName": "DivineTrackerDeathBlessingFeature.Description",
+      "ProcessTemplates": true,
+    "zhCN": "1级起，你可以将外貌变得宛如一具尸体，在1分钟内让你变得更加骇人，并提供近似于不死生物的防护。你用于威吓的沟通技能检定获得+4加值，抵抗疾病、心智效应、麻痹、毒素和震慑的豁免检定获得+2亵渎加值。\n13级起，你可以对敌人发起一次近战接触攻击，使其承受难忍痛苦。若成功命中，你令目标承受1个临时负向等级，持续1分钟。此外，你也能够花费迅捷动作来启动此能力，使你在接下来一分钟内，下一次近战攻击附带此效果。这些临时负向等级可叠加。你不会因造成这些负向等级而获得好处（比如不死生物因弱能术而获得的临时生命值）。",
+    "enGB": "At 1st level, you can take on a corpse-like visage for 1 minute, making you more intimidating and giving you undead-like protection from harm. You gain a +4 bonus on Persuasion skill checks made to intimidate, as well as a +2 profane bonus on saving throws against disease, mind-affecting effects, paralysis, poison, and stun.\nAt 13th level, you can make a melee touch attack against an opponent to deliver grim suffering. If you succeed, you inflict 1 temporary negative level on the target for 1 minute. Alternatively, you can activate this ability as a swift action to make your next melee attack during the next minute apply the effect. These temporary negative levels stack. You gain no benefit from imposing these negative levels (such as the temporary hit points undead gain from enervation)."
+    },
+    {
+      "Key": "6d3688658a584fba8665e15d5fb74a55",
+      "SimpleName": "DivineTrackerDestructionBlessingFeature.Description",
+      "ProcessTemplates": true,
+    "zhCN": "1级起，你可以触碰一位盟友，赋予其破坏祝福。1分钟内，该盟友的武器伤害检定获得等于你等级一半的士气加值（最低1点）。\n13级起，你可以触碰一位盟友，用更强的破坏力量祝福他。1分钟内，该盟友用于确认重击的攻击检定获得+4洞察加值，有50%几率将受到的重击或偷袭视为普通命中。",
+    "enGB": "At 1st level, you can touch an ally and bless them with the power of destruction. For 1 minute, the ally gains a morale bonus on weapon damage rolls equal to half your level (minimum 1).\nAt 13th level, you can touch an ally and bless them with even greater destructive power. For 1 minute, the ally gains a +4 insight bonus on attack rolls made to confirm critical hits and has a 50% chance to treat any critical hit or sneak attack against it as a normal hit."
+    },
+    {
+      "Key": "0714d43d841d4349acd04f2742bad065",
+      "SimpleName": "DivineTrackerEarthBlessingFeature.Description",
+      "ProcessTemplates": true,
+    "zhCN": "1级起，你可以触碰一把武器，用酸蚀能量强化它。1分钟内，此武器会散发酸性烟气，每次攻击额外造成1d4点酸蚀伤害。\n13级起，你可以触碰一位盟友，使其盔甲或衣服硬化。1分钟内，该盟友获得伤害减免（DR）1/-。10级之后每提升2个等级，该伤害减免（DR）都会提高1点（18级时达到最大值，即DR 5/-)。这不会与任何抗性或伤害减免叠加。",
+    "enGB": "At 1st level, you can touch one weapon and enhance it with acidic potency. For 1 minute, this weapon emits acrid fumes that deal an additional 1d4 points of acid damage with each strike.\nAt 13th level, you can touch an ally and harden its armor or clothing. For 1 minute, the ally gains DR 1/—. For every 2 levels beyond 10th, this DR increases by 1 (to a maximum of DR 5/— at 18th level). This doesn't stack with any other damage resistance or reduction."
+    },
+    {
+      "Key": "a2c52ad03cd74f0b8af77990781275c5",
+      "SimpleName": "DivineTrackerEvilBlessingFeature.Description",
+      "ProcessTemplates": true,
+    "zhCN": "1级起，你可以触碰一位盟友，赋予其邪恶祝福。在1分钟内，该盟友对善良生物额外造成1d6点伤害。这段时间内该盟友的攻击在用于穿透伤害减免时被视为邪恶阵营。\n13级起，你可以召唤出一个战斗伙伴。此能力效果类似于召唤怪物IV，持续时间为1分钟。无论使用何种召唤列表，此能力只能召唤出一个生物。10级之后每提升2级，召唤怪物的法术等级提高1级（20级时达到最大值，即召唤怪物IX）。",
+    "enGB": "At 1st level, you can touch one ally and grant him an evil blessing. For 1 minute, this ally deals an additional 1d6 points of damage against good creatures. During this time, his attacks are treated as evil for the purposes of overcoming damage reduction.\nAt 13th level, you can summon a battle companion. This ability functions as summon monster IV with a duration of 1 minute, but only allows to summon demons. This ability can summon only one creature, regardless of the list used. For every 2 levels beyond 10th, the level of the summon monster spell increases by 1 (to a maximum of summon monster IX at 20th level)."
+    },
+    {
+      "Key": "d6b45e0c609144e48797dc6b3166b3cc",
+      "SimpleName": "DivineTrackerFavoredWeapon.Description",
+      "ProcessTemplates": true,
+    "zhCN": "在1级时，神圣追猎者将擅长他神祇的偏好武器。果神圣追猎者信仰神祇的偏好武器是徒手击打，那么神圣追猎者获得精通徒手击打作为奖励专长。",
+    "enGB": "At 1st level, a divine tracker becomes proficient with the favored weapon of his deity if not already proficient. If his deity’s favored weapon is unarmed strike, he instead gains Improved Unarmed Strike as a bonus feat."
+    },
+    {
+      "Key": "b36b17a1c3d74e7f817c25beef2d4293",
+      "SimpleName": "DivineTrackerFavoredWeapon.Name",
+      "ProcessTemplates": false,
+    "zhCN": "偏好武器",
+    "enGB": "Favored Weapon"
+    },
+    {
+      "Key": "7e8a533d0e0c4c54ab1d9ecec349d441",
+      "SimpleName": "DivineTrackerFireBlessingFeature.Description",
+      "ProcessTemplates": true,
+    "zhCN": "1级起，你可以触碰一把武器，用火焰能量强化它。1分钟内，此武器会发出炽热红光，每次攻击额外造成1d4点火焰伤害。\n13级起，你可以触碰一位盟友，让其被火焰包围。这将使该盟友获得等于战斗祭司等级的寒冷抗性。 ",
+    "enGB": "At 1st level, you can touch one weapon and enhance it with the grandeur of fire. For 1 minute, this weapon glows red-hot and deals an additional 1d4 points of fire damage with each hit.\nAt 13th level, you can touch an ally to wreath them in flames. This gives the ally cold resistance equal to your warpriest level."
+    },
+    {
+      "Key": "e650de7025274c359c3ec9fefccea79e",
+      "SimpleName": "DivineTrackerGoodBlessingFeature.Description",
+      "ProcessTemplates": true,
+    "zhCN": "1级起，你可以触碰一位盟友，赋予其神圣祝福。在1分钟内，该盟友对邪恶生物额外造成1d6点伤害。这段时间内该盟友的攻击在用于穿透伤害减免时被视为善良阵营。\n13级起，你能够花费一个迅捷动作，加强盟友对邪恶阵营的防御。一轮内，30英尺内所有盟友在对抗邪恶敌人时，防御等级（AC）和豁免检定获得+4崇圣加值。",
+    "enGB": "At 1st level, you can touch one ally and grant him a holy blessing. For 1 minute, this ally deals an additional 1d6 points of damage against evil creatures. During this time, his attacks are treated as good for the purposes of overcoming damage reduction.\nAt 10th level, as a swift action you can bolster your allies' defenses against evil. For one round, all allies within 30 feet gain a +4 sacred bonus on AC and saving throws against evil opponents."
+    },
+    {
+      "Key": "c99c7deaa9a54f9bb622e2b5c9a2d562",
+      "SimpleName": "DivineTrackerHealingBlessingFeature.Description",
+      "ProcessTemplates": true,
+    "zhCN": "1级起，你能够加强你施放的治疗法术。花费一个迅捷动作，你能够让你施放的下一个治疗法术被强效（如同运用了法术强效Encyclopedia:Feat}专长），治疗的伤害值将提升50%（如果对不死生物施放，可多造成50%伤害）。此能力不会和自身或者法术强效专长效果叠加。\n13级起，你可以触碰一位盟友，为其提供持续1分钟的快速回复3。",
+    "enGB": "At 1st level, you can add power to a cure spell as you cast it. As a swift action, you can make your next cure spell empowered (as though using the Empower Spell feat), causing it to heal 50% more damage (or deal 50% more damage if used against undead). This ability doesn't stack with itself or the Empower Spell feat.\nAt 13th level, you can touch an ally and grant them fast healing 3 for 1 minute."
+    },
+    {
+      "Key": "1ead370cab074ada8b1f09fffa83a148",
+      "SimpleName": "DivineTrackerLawBlessingFeature.Description",
+      "ProcessTemplates": true,
+    "zhCN": "1级起，你可以触碰一位盟友，赋予其守序祝福。在1分钟内，该盟友对混乱生物额外造成1d6点伤害。这段时间内该盟友的攻击在用于穿透伤害减免时被视为守序阵营。\n13级起，你能够花费一个迅捷动作，加强盟友对混乱阵营的防御。一轮内，30英尺内所有盟友在对抗混乱敌人时，防御等级（AC）和豁免检定获得+4崇圣加值。",
+    "enGB": "At 1st level, you can touch one ally and grant him an axiomatic blessing. For 1 minute, this ally deals an additional 1d6 points of damage against chaotic creatures. During this time, his attacks are treated as lawful for the purposes of overcoming damage reduction.\nAt 13th level, as a swift action you can bolster your allies' defenses against chaos. For one round, all allies within 30 feet gain a +4 sacred bonus on AC and saving throws against chaotic opponents."
+    },
+    {
+      "Key": "d51d3d38648d459a8da8ff0311ab17ac",
+      "SimpleName": "DivineTrackerLiberationBlessingFeature.Description",
+      "ProcessTemplates": true,
+    "zhCN": "级起，你能够花费一个迅捷动作，在1轮内忽略对你的机动性的阻碍效果，以及会导致麻痹的效果（如同行动自如）。你甚至可以在不能采取其他行动的状况下启动这项祝福，但昏迷时不行。\n13级起，你能够花费一个迅捷动作，创造30英尺半径的灵光，用上文所述的自由祝福来影响范围内所有盟友。此效果持续1轮。",
+    "enGB": "At 1st level, for 1 round as a swift action, you can ignore impediments to your mobility and effects that cause paralysis (as freedom of movement). You can activate this blessing even if you're otherwise unable to take actions, but not if you're unconscious.\nAt 13th level, as a swift action you can emit a 30-foot aura that affects all allies with the liberation blessing described above. This effect lasts for 1 round."
+    },
+    {
+      "Key": "7c701b42111f4c45ba1364b718de3628",
+      "SimpleName": "DivineTrackerLuckBlessingFeature.Description",
+      "ProcessTemplates": true,
+    "zhCN": "1级起，你可以触碰一位盟友，让他获得幸运的眷顾。目标可以在所有属性检定、攻击检定、豁免检定和技能检定中检定两次，并取较好的结果。此效果持续1轮。\n13级起，你可以诅咒一个敌人，让他遭到厄运的困扰。目标必须在所有属性检定、攻击检定、豁免检定和技能检定中投骰两次，并取较差的结果。此效果持续1轮。",
+    "enGB": "At 1st level, you can touch an ally and grant them a lucky presence. The target of this luck can roll all ability checks, attack rolls, saving throws, and skill checks twice and take the better result. The effect lasts for 1 round.\nAt 13th level, you can curse an enemy with unlucky presence. The target of this bad luck must roll all ability checks, attack rolls, saving throws, and skill check twice and take the worse result. The effect lasts for 1 round."
+    },
+    {
+      "Key": "886367b36ed341478b7f2fec8c2a2d85",
+      "SimpleName": "DivineTrackerMadnessBlessingFeature.Description",
+      "ProcessTemplates": true,
+    "zhCN": "1级起，你可以花费迅捷动作，指定30英尺内一个具有畏缩、惊恐、或麻痹状态的生物为目标。该状态被抑制1轮，所选生物改为陷入困惑状态。该困惑生物在掷出“攻击自身”或“攻击最近生物”以外的结果时，需要重骰。陷入困惑的轮数计入被抑制效果的持续时间。困惑轮结束时，被抑制效果将恢复。\n13级起，你可以花费迅捷动作，为30英尺内的所有困惑生物选择一种行为来执行（如同所有生物都掷出相同结果）。此效果持续1轮。你即使在困惑期间，也能够施展此能力。",
+    "enGB": "At 1st level, as a swift action you can target a creature within 30 feet that has the cowering, frightened, panicked, or paralyzed condition. That condition is suspended for 1 round, and the chosen creature gains the confused condition instead. The confused creature rerolls any result other than \"attack self\" or \"attack nearest creature.\" The round spent confused counts toward the duration of the suspended effect. At the end of the confused round, the suspended condition resumes.\nAt 13th level, as a swift action you can choose one behavior for all confused creatures within 30 feet to exhibit (as if all creatures rolled the same result). This effect lasts for 1 round. You can use this ability even while you are confused."
+    },
+    {
+      "Key": "24a4a1b947c547dfb8f188bbb8d027e3",
+      "SimpleName": "DivineTrackerMagicBlessingFeature.Description",
+      "ProcessTemplates": true,
+    "zhCN": "1级起，你可以让手中的近战武器飞出去攻击敌人，然后立即回到手中。你可以用近战武器进行一次射程30英尺的攻击。本次攻击视为用投掷武器进行的远程攻击，区别在于你用Encyclopedia:Wisdom}感知调整值代替Encyclopedia:Dexterity}敏捷调整值来进行攻击检定（伤害检定依然如常使用Encyclopedia:Strength}力量调整值）。此能力不能用来发动战技。\n13级起，你能够花费迅捷动作，恢复一个当天已准备并施放过的战斗祭司法术。此法术会再次被准备，如同还未被施放过。  ",
+    "enGB": "At 1st level, you can cause your melee weapon to fly from your grasp and strike an opponent, then instantly return to you. You can make a single attack using a melee weapon at a range of 30 feet. This attack is treated as a ranged attack with a thrown weapon, except that you add your Wisdom modifier to the attack roll instead of your Dexterity modifier (you still add your Strength modifier to the damage roll as normal). This ability cannot be used to perform a combat maneuver.\nAt 13th level, with a swift action he can recall any single warpriest spell that he has already prepared and cast that day. The spell is prepared again, just as if it had not been cast."
+    },
+    {
+      "Key": "164b9ce5c15a4e0f983304c0de893d27",
+      "SimpleName": "DivineTrackerNobilityBlessingFeature.Description",
+      "ProcessTemplates": true,
+    "zhCN": "1级起，你可以仅用寥寥数语激励30英尺内的一个生物。该生物的攻击检定、技能检定和豁免检定获得+2士气加值。此效果持续1分钟。\n13级起，花费一个迅捷动作，你可以号召盟友遵循你的领导。一轮内，30英尺内的所有盟友在攻击检定、技能检定和豁免检定获得+4士气加值。",
+    "enGB": "At 1st level, you can speak a few words to a creature within 30 feet that fill them with inspiration. You can grant that creature a +2 morale bonus on attack rolls, skill checks, and saving throws. This effect lasts for 1 minute.\nAt 13th level, as a swift action you can inspire your allies to follow your lead. For one round, all allies within 30 feet gain a +4 morale bonus on attack rolls, skill checks, and saving throws."
+    },
+    {
+      "Key": "94f113bebe0f42c1806d0bee33668d44",
+      "SimpleName": "DivineTrackerPlantBlessingFeature.Description",
+      "ProcessTemplates": true,
+    "zhCN": "在1级时，如果你的一次近战攻击成功命中，那么你可以以一个迅捷动作使被攻击的目标立刻开始发芽和长出扰人的藤蔓。这个生物将被纠缠1轮（反射豁免通过则无效）。\n在13级时，你能以一个标准动作召唤一个自然界的勇士与你并肩作战。这相当于一个法术四级召唤自然盟友的效果，持续一分钟。不过你只能召唤一只动物，这个动物的生物类型将转变为为植物。在10级后的每2个等级，这个能力的效果就上升一个等级，最高在20级达到九级召唤自然盟友。",
+    "enGB": "At 1st level, as a swift action you can cause any creature you hit this round with a melee attack to sprout entangling vines that attempt to hold it in place, entangling it for 1 round (Reflex negates). \nAt 13th level, you can summon a battle companion. This ability functions as summon nature's ally V with a duration of 1 minute. This ability can summon only one animal, regardless of the list used, and the creature’s type changes to plant instead of animal. For every 2 levels beyond 12th, the level of the summon nature's ally spell increases by 1 (to a maximum of summon nature's ally IX at 20th level)."
+    },
+    {
+      "Key": "ab05be53fd1f4730b33ccd08c425163f",
+      "SimpleName": "DivineTrackerProtectionBlessingFeature.Description",
+      "ProcessTemplates": true,
+    "zhCN": "在1级时，以一个标准动作你可以为自己的豁免检定+1神圣加值，为AC也提供+1神圣加值，持续一分钟。这个效果无法叠加。在10级时，加值增加到+2。在20级时，加值增加为+3。\n在13级时，你可以释放出半径30尺的防御性灵气，持续一分钟。所有处于灵气影响范围内的盟友获得10点强酸，寒冷，电击，火焰和音波抗力；在15级时，这些抗力加值提高到20。",
+    "enGB": "At 1st level, you can gain a +1 sacred bonus on saving throws and a +1 sacred bonus to AC for 1 minute. The bonus increases to +2 at 10th level and +3 at 20th level.\nAt 13th level, you can emit a 30-foot aura of protection for 1 minute. You and your allies within this aura gain resistance 10 against acid, cold, electricity, fire, and sonic. At 15th level, the energy resistance increases to 20."
+    },
+    {
+      "Key": "7aef077f9dfc44e89598c302ca36e294",
+      "SimpleName": "DivineTrackerReposeBlessingFeature.Description",
+      "ProcessTemplates": true,
+    "zhCN": "1级起，你的接触可使活物昏沉，通过对活物发起近战接触攻击，可使其陷入恍惚状态，持续1轮。如果你接触的是一个已陷入恍惚的活物，该活物将陷入沉睡，效果持续1轮。接触不死生物时，其受到的恍惚效果的持续轮数将等于你的感知调整值（最少1轮）。\n13级起，在使用引导能量来治疗活物时，你可以在同一回合花费迅捷动作来对不死生物也造成伤害（如同引导能量）。不死生物受到的伤害为治疗值的一半。",
+    "enGB": "At 1st level, you can fill a living creature with lethargy by hitting it with a melee touch attack, causing it to become staggered for 1 round. If the target is already staggered, it falls asleep for 1 round instead. An undead creature that's touched is staggered for a number of rounds equal to your Wisdom modifier (minimum 1).\nAt 13th level, when using channel energy to heal living creatures, you can take a swift action on that same turn to also deal damage to undead creatures (as your channel energy ability). Undead take an amount of damage equal to half the amount healed."
+    },
+    {
+      "Key": "0faa7bf552ba4c4fb2a8c69d725a3ee3",
+      "SimpleName": "DivineTrackerStrengthBlessingFeature.Description",
+      "ProcessTemplates": true,
+    "zhCN": "1级起，你能够花费一个迅捷动作，凝聚自己的力量。你的近战攻击检定、基于力量的战技检定、基于力量的技能检定、力量属性检定均获得等于1/2战斗祭司等级的增强加值（最低+1），持续1轮。\n13级起，你能够花费一个迅捷动作，忽略穿戴中型或中型盔甲所导致的移动速度减值。此效果持续1分钟。在此期间，你可以在对抗会使你陷入纠缠、恍惚或麻痹的效果时，豁免检定加上你的力量调整值。",
+    "enGB": "At 1st level, as a swift action you can focus your own strength. You gain an enhancement bonus equal to 1/2 your warpriest level (minimum +1) on melee attack rolls, combat maneuver checks that rely on Strength, Strength-based skills, and Strength checks for 1 round.\nAt 13th level, as a swift action you can ignore the movement penalties caused by wearing medium or heavy armor. This effect lasts for 1 minute. During this time, you can add your Strength modifier on saving throws against effects that would cause you to become entangled, staggered, or paralyzed."
+    },
+    {
+      "Key": "01662c0ce3a84c66b8a6e3984cab5ffb",
+      "SimpleName": "DivineTrackerSunBlessingFeature.Description",
+      "ProcessTemplates": true,
+    "zhCN": "1级起，你能够创造闪耀的阳光，射进一个敌人的眼睛。目标目盲1轮。若反射豁免检定成功，改为目眩1轮。\n13级起，你可以触碰一把武器，赋予它武器特殊能力“炽焰”或“不死生物破敌”，持续1分钟。若你在启动此能力时消耗两次祝福，则武器可以同时获得这两项特殊能力。",
+    "enGB": "At 1st level, you can create a flash of sunlight in the eyes of one of your opponents. The target is blinded for 1 round. If it succeeds at a Reflex saving throw, it's instead dazzled for 1 round.\nAt 13th level, you can touch a weapon and grant it either the flaming or undead bane weapon special ability for 1 minute. If you spend two uses of your blessing when activating this ability, the weapon can have both weapon special abilities."
+    },
+    {
+      "Key": "e0de89c567114be798a356a9fab59515",
+      "SimpleName": "DivineTrackerTravelBlessingFeature.Description",
+      "ProcessTemplates": true,
+    "zhCN": "1级起，你能够花费一个迅捷动作，强化自己的机动性。在1轮内，你忽略所有困难地形（包括魔法地形），在穿过这种地形时不会承受不利影响。\n13级起，你能够花费一个移动动作，传送不超过20英尺的距离。目的地必须在你的视线内。用此方式传送不会引发借机攻击。 ",
+    "enGB": "At 1st level, as a swift action you gain increased mobility. For 1 round, you ignore all difficult terrain (including magical terrain) and take no penalties for moving through it.\nAt 13th level, you can teleport up to 20 feet as a move action. You must have line of sight to your destination. This teleportation doesn't provoke attacks of opportunity."
+    },
+    {
+      "Key": "f3aa1dfff8314d06b8824468e27546ee",
+      "SimpleName": "DivineTrackerTrickeryBlessingFeature.Description",
+      "ProcessTemplates": true,
+    "zhCN": "1级起，作为移动动作，你可创造一个与自身完全相同的幻象。此复制幻象的效果类似于单个镜影，持续轮数等于你的战斗祭司等级，或是直至复制幻象被解除或毁灭。你同一时间仅能拥有一个复制幻象。此能力创造的幻象无法与镜影术叠加。此能力不会和镜影术的额外伤害叠加。\n13级起，你能够花费一个迅捷动作，使自己隐形1轮（如同高等隐形）。",
+    "enGB": "At 1st level, as a move action you can create an illusory double of yourself. This double functions as a single mirror image, and lasts for a number of rounds equal to your warpriest level, or until the illusory duplicate is dispelled or destroyed. You can have no more than one double at a time. The double created by this ability doesn't stack with the additional images from the mirror image spell. This ability doesn't stack with the additional damage from the mirror image spell.\nAt 13th level, as a swift action you can become invisible for 1 round (as greater invisibility)."
+    },
+    {
+      "Key": "3e6ccf68b89c4f3480667836f109131e",
+      "SimpleName": "DivineTrackerWarBlessingFeature.Description",
+      "ProcessTemplates": true,
+    "zhCN": "在1级时，你可以接触一个盟友，赋予他战术上的优势一分钟。在此期间，盟友以下一种加值：移动速度+10尺；+1闪避AC；攻击检定+1洞察加值；所有的豁免检定+1幸运加值。\n在13级时，你可以接触一个盟友，赋予他对争斗无尽的热望。这个生物的所有近战攻击效果都视为他的武器拥有恶毒附魔。除此之外，这个生物在确认重击时在攻击检定上获得+4洞察加值。这个效果持续一分钟。",
+    "enGB": "At 1st level, you can touch an ally and grant it a tactical advantage for 1 minute. The ally gets one of the following bonuses: +10 feet to base speed, +1 dodge bonus to AC, +1 insight bonus on attack rolls, or a +1 luck bonus on saving throws. \nAt 13th level, you can touch an ally and grant it a thirst for battle. All of the ally’s melee attacks are treated as if they had the vicious weapon special ability. In addition, the ally receives a +4 insight bonus on attack rolls made to confirm critical hits. These benefits last for 1 minute."
+    },
+    {
+      "Key": "bb4fbf356a3041e59d825a75a5836cd5",
+      "SimpleName": "DivineTrackerWaterBlessingFeature.Description",
+      "ProcessTemplates": true,
+    "zhCN": "1级起，你可以触碰一把武器，用流水的能量强化它。1分钟内，此武器会发出冰蓝色的光，每次攻击额外造成1d4点寒冷伤害。\n13级起，你可以触碰一位盟友，让其被寒雾包围。该盟友获得等于你的战斗祭司等级的火焰抗性。 ",
+    "enGB": "At 1st level, you can touch one weapon and enhance it with the power of water. For 1 minute, this weapon glows with a blue-white chill and deals an additional 1d4 points of cold damage with each strike.\nAt 13th level, you can touch any one ally and wreath it in freezing mist. He gains fire resistance equal to your warpriest level."
+    },
+    {
+      "Key": "e151700b55d24e7ba7627789f1407249",
+      "SimpleName": "DivineTrackerWeatherBlessingFeature.Description",
+      "ProcessTemplates": true,
+    "zhCN": "1级起，你可以触碰一把武器，赋予它风暴祝福。1分钟内，此武器会闪动着蓝色或黄色的火花，每次攻击额外造成1d4点电击伤害。\n13级起，你可以用一道疾风障壁围绕自己，持续1分钟。这将使敌人的远程攻击具有等于你的战斗祭司等级两倍的失手率。",
+    "enGB": "At 1st level, you can touch one weapon and grant it a blessing of stormy weather. For 1 minute, this weapon glows with blue or yellow sparks and deals an additional 1d4 points of electricity damage with each hit.\nAt 13th level, you can create a barrier of fast winds around yourself for 1 minute. This gives enemy ranged attack a chance to miss equal to twice your warpriest level."
+    },
+    {
+      "Key": "7148e36f8e38424aa0829f36c10b67a6",
+      "SimpleName": "ArtificeBlessingFeature.Description",
+      "ProcessTemplates": true,
+    "zhCN": "在1级时，用一个标准动作，你可以通过触摸一件近战武器给予其超越其他人工制品的力量。在一分钟内，每当该武器对构装体或物体造成伤害时，它无视所有硬度和伤害减免。\n在10级时，你可以暂时将武器附魔从一把武器复制到另一把武器。你可以从你当前装备的武器中复制任何简单的永久附魔。如果你在双头武器上使用这个能力，只有双头武器的一端会受到影响。效果持续1分钟。你可以在同一件武器上多次使用这个能力。\n简单附魔的例子有，冰爆，神圣，锐锋，追击。",
+    "enGB": "At 1st level, you can touch an ally and grant them greater power to harm and destroy crafted objects. For 1 minute, whenever this ally deals damage to constructs or objects with melee weapons, they bypasses hardness and damage reduction. \nAt 10th level, you can temporarily copy a weapon enchantment from one weapon to another. You may copy any simple permanent enchant from a weapon you have currently equipped. If you are using this ability on a double weapon, only one end of the double weapon is affected. The copy lasts for 1 minute. You can use this ability multiple times on the same weapon. \nSome examples of simple enchants are, Icy Burst, Holy, Keen, Speed."
+    },
+    {
+      "Key": "bb8d17acad3e4fa9acb6b5a6e3fbcb95",
+      "SimpleName": "ArtificeBlessingFeature.Name",
+      "ProcessTemplates": false,
+    "zhCN": "手艺",
+    "enGB": "Artifice"
+    },
+    {
+      "Key": "e4bd23f2579d433183b002a84cd061e2",
+      "SimpleName": "ArtificeBlessingMajorFeature.Description",
+      "ProcessTemplates": true,
+    "zhCN": "在10级时，你可以暂时将武器附魔从一把武器复制到另一把武器。你可以从你当前装备的武器中复制任何简单的永久附魔。如果你在双头武器上使用这个能力，只有双头武器的一端会受到影响。效果持续1分钟。你可以在同一件武器上多次使用这个能力。\n简单附魔的例子有，冰爆，神圣，锐锋，追击。",
+    "enGB": "At 10th level, you can temporarily copy a weapon enchantment from one weapon to another. You may copy any simple permanent enchant from a weapon you have currently equipped. If you are using this ability on a double weapon, only one end of the double weapon is affected. The copy lasts for 1 minute. You can use this ability multiple times on the same weapon. \nSome examples of simple enchants are, Icy Burst, Holy, Keen, Speed."
+    },
+    {
+      "Key": "b140cb7184834942b263dc270eed3f69",
+      "SimpleName": "ArtificeBlessingMajorFeature.Name",
+      "ProcessTemplates": false,
+    "zhCN": "魔法变换",
+    "enGB": "Transfer Magic"
+    },
+    {
+      "Key": "9033a74cfc5f41bea12a259ca2c7a255",
+      "SimpleName": "ArtificeBlessingMajorMHBaseAbility.Description",
+      "ProcessTemplates": true,
+    "zhCN": "你可以暂时将武器附魔从一把武器复制到另一把武器。你可以从你当前装备的武器中复制任何简单的永久附魔。如果你在双头武器上使用这个能力，只有双头武器的一端会受到影响。效果持续1分钟。你可以在同一件武器上多次使用这个能力。",
+    "enGB": "You can temporarily copy a weapon enchantment from one weapon to another. You may copy any simple permanent enchant from a weapon you have currently equipped. If you are using this ability on a double weapon, only one end of the double weapon is affected. The copy lasts for 1 minute. You can use this ability multiple times on the same weapon."
+    },
+    {
+      "Key": "607df87d3c934333bb4243b324716b06",
+      "SimpleName": "ArtificeBlessingMajorMHBaseAbility.Name",
+      "ProcessTemplates": false,
+    "zhCN": "魔法变换-主手",
+    "enGB": "Transfer Magic - Main Hand"
+    },
+    {
+      "Key": "d1087725602847b1a6f6069987caac55",
+      "SimpleName": "ArtificeBlessingMajorOHBaseAbility.Name",
+      "ProcessTemplates": false,
+    "zhCN": "魔法变换副手",
+    "enGB": "Transfer Magic - Off Hand"
+    },
+    {
+      "Key": "c0b65b0abc194aa1a172dc75df9081d6",
+      "SimpleName": "ArtificeBlessingMHAberrationBaneAbility.Description",
+      "ProcessTemplates": true,
+    "zhCN": "你可以暂时将武器附魔从一把武器复制到另一把武器。你可以从你当前装备的武器中复制任何简单的永久附魔。如果你在双头武器上使用这个能力，只有双头武器的一端会受到影响。效果持续1分钟。你可以在同一件武器上多次使用这个能力。",
+    "enGB": "You can temporarily copy the Aberration Bane weapon enchantment to another weapon. If you are using this ability on a double weapon, only one end of the double weapon is affected. The copy lasts for 1 minute. You can use this ability multiple times on the same weapon."
+    },
+    {
+      "Key": "c5a21c31589940b2af0401c14ecb416a",
+      "SimpleName": "CommunityBlessingFeature.Description",
+      "ProcessTemplates": true,
+    "zhCN": "在1级时，用一个标准动作，你可以触摸一个盟友并赋予其团结的祝福。在1分钟内，每当这名盟友使用协助他人动作时，加值都会增加+2。你可以用迅捷动作对自己使用这项能力。\n在10级时，你可以呼吁全体战友并肩作战。在1分钟内，每当你成功地对一个敌人发动了近战或远程攻击，你10尺内的队友就可以在对抗同一敌人时在你的攻击方式上进行攻击检定上获得+2洞察加值——你进行近战攻击则近战获得加值，远程亦然。如果你的攻击成功专长了重击威胁，那么在一轮内，该加值提升到+4.",
+    "enGB": "At 1st level, you can touch an ally and grant it the blessing of community. For the next minute, whenever that ally uses the aid another action, the bonus granted increases to +4. You can instead use this ability on yourself as a swift action. \nAt 10th level, you can rally your allies to fight together. For 1 minute, whenever you make a successful melee or ranged attack against a foe, allies within 10 feet of you gain a +2 insight bonus on attacks of the same type you made against that foe—melee attacks if you made a melee attack, or ranged attacks if you made a ranged attack. If you score a critical hit, this bonus increases to +4 until the start of your next turn."
+    },
+    {
+      "Key": "37c46b60a133439090591185397b82c1",
+      "SimpleName": "CommunityBlessingFeature.Name",
+      "ProcessTemplates": false,
+    "zhCN": "团队",
+    "enGB": "Community"
+    },
+    {
+      "Key": "b48d60c466f24fed9d8c4e8ec1660353",
+      "SimpleName": "CommunityBlessingMajorAbility.Description",
+      "ProcessTemplates": true,
+    "zhCN": "在1分钟内，每当你成功地对一个敌人发动了近战或远程攻击，你10尺内的队友就可以在对抗同一敌人时在你的攻击方式上进行攻击检定上获得+2洞察加值——你进行近战攻击则近战获得加值，远程亦然。如果你的攻击成功专长了重击威胁，那么在一轮内，该加值提升到+4.",
+    "enGB": "For 1 minute, whenever you make a successful melee or ranged attack against a foe, allies within 10 feet of you gain a +2 insight bonus on attacks of the same type you made against that foe—melee attacks if you made a melee attack, or ranged attacks if you made a ranged attack. If you score a critical hit, this bonus increases to +4 until the start of your next turn."
+    },
+    {
+      "Key": "da183ae9b13148fcb65fb862d32dc456",
+      "SimpleName": "CommunityBlessingMajorBuff.Description",
+      "ProcessTemplates": true,
+    "zhCN": "无论何时，每当你成功地对一个敌人发动了近战或远程攻击，你10尺内的队友就可以在对抗同一敌人时在你的攻击方式上进行攻击检定上获得+2洞察加值——你进行近战攻击则近战获得加值，远程亦然。如果你的攻击成功专长了重击威胁，那么在一轮内，该加值提升到+4.",
+    "enGB": "Whenever you make a successful melee or ranged attack against a foe, allies gain a +2 insight bonus on attacks of the same type you made against that foe—melee attacks if you made a melee attack, or ranged attacks if you made a ranged attack. If you score a critical hit, this bonus increases to +4 until the start of your next turn."
+    },
+    {
+      "Key": "5fdce01914a241b3b45c7544ffbe812e",
+      "SimpleName": "CommunityBlessingMajorBuff.Name",
+      "ProcessTemplates": false,
+    "zhCN": "合众进击",
+    "enGB": "Fight as One"
+    },
+    {
+      "Key": "943d509ab3cf4cb0adcc1a26734ad24c",
+      "SimpleName": "CommunityBlessingMajorFeature.Description",
+      "ProcessTemplates": true,
+    "zhCN": "在10级时，你可以呼吁全体战友并肩作战。在1分钟内，每当你成功地对一个敌人发动了近战或远程攻击，你10尺内的队友就可以在对抗同一敌人时在你的攻击方式上进行攻击检定上获得+2洞察加值——你进行近战攻击则近战获得加值，远程亦然。如果你的攻击成功专长了重击威胁，那么在一轮内，该加值提升到+4。",
+    "enGB": "At 10th level, you can rally your allies to fight together. For 1 minute, whenever you make a successful melee or ranged attack against a foe, allies within 10 feet of you gain a +2 insight bonus on attacks of the same type you made against that foe—melee attacks if you made a melee attack, or ranged attacks if you made a ranged attack. If you score a critical hit, this bonus increases to +4 until the start of your next turn."
+    },
+    {
+      "Key": "890569a902ab4cec971922d9883676df",
+      "SimpleName": "CommunityBlessingMajorMeleeCrit.Description",
+      "ProcessTemplates": true,
+    "zhCN": "对这个敌人的洞察加值增加到4，持续一轮。",
+    "enGB": "The insight bonus to hit against this foe is increased to +4 for one round."
+    },
+    {
+      "Key": "5f201ff0255f4da48ea33375c1738f93",
+      "SimpleName": "CommunityBlessingMajorMeleeCrit.Name",
+      "ProcessTemplates": false,
+    "zhCN": "合众进击-近战重击",
+    "enGB": "Fight as One - Melee Crit"
+    },
+    {
+      "Key": "13b2895b176b4cd5b01908f4d8e2eda3",
+      "SimpleName": "CommunityBlessingMajorMeleeNormal.Description",
+      "ProcessTemplates": true,
+    "zhCN": "对这个敌人的近战攻击获得＋2洞察加值",
+    "enGB": "Melee attacks against this foe have a +2 insight bonus to hit."
+    },
+    {
+      "Key": "8d905bdfa983468594871659a0777afc",
+      "SimpleName": "CommunityBlessingMajorMeleeNormal.Name",
+      "ProcessTemplates": false,
+    "zhCN": "合众进击-近战",
+    "enGB": "Fight as One - Melee"
+    },
+    {
+      "Key": "6f27f251751e40bbad07830cc5bd6a41",
+      "SimpleName": "CommunityBlessingMajorRangedCrit.Description",
+      "ProcessTemplates": true,
+    "zhCN": "对这个敌人的洞察加值增加到4，持续一轮。",
+    "enGB": "The insight bonus to hit against this foe is increased to +4 for one round."
+    },
+    {
+      "Key": "3ef6debdb3e54dd1aa1164851e9bce72",
+      "SimpleName": "CommunityBlessingMajorRangedCrit.Name",
+      "ProcessTemplates": false,
+    "zhCN": "合众进击-远程重击",
+    "enGB": "Fight as One - Ranged Crit"
+    },
+    {
+      "Key": "74d0d9385fb14b16bbf863150bfa0aae",
+      "SimpleName": "CommunityBlessingMajorRangedNormal.Description",
+      "ProcessTemplates": true,
+    "zhCN": "对这个敌人的远程攻击获得＋2洞察加值",
+    "enGB": "Ranged attacks against this foe have a +2 insight bonus to hit."
+    },
+    {
+      "Key": "bad783d17a0f4e86a661a8b042ee7c71",
+      "SimpleName": "CommunityBlessingMajorRangedNormal.Name",
+      "ProcessTemplates": false,
+    "zhCN": "合众进击-远程",
+    "enGB": "Fight as One - Ranged"
+    },
+    {
+      "Key": "8a5ffffc27584c4baba9c229ef72fdb1",
+      "SimpleName": "CommunityBlessingMinorAbilityOthers.Description",
+      "ProcessTemplates": true,
+    "zhCN": "给予盟友团结的祝福。在1分钟内，每当这名盟友使用协助他人动作时，加值都会增加+2。",
+    "enGB": "Grant an ally the blessing of community. For the next minute, whenever the ally uses the aid another action, the bonus granted increases by 2."
+    },
+    {
+      "Key": "ae8f919aabd644ebaff8894c0cecb50c",
+      "SimpleName": "CommunityBlessingMinorAbilityOthers.Name",
+      "ProcessTemplates": false,
+    "zhCN": "团队互助-盟友",
+    "enGB": "Communal Aid - Allies"
+    },
+    {
+      "Key": "e2f955bff4ee422d8e5f63a4a96ad50a",
+      "SimpleName": "CommunityBlessingMinorAbilitySelf.Description",
+      "ProcessTemplates": true,
+    "zhCN": "以一个迅捷行动，给予自己团结的祝福。在接下来的一分钟里，每当你使用协助他人动作时，加值都会增加+2。",
+    "enGB": "As a swift action, grant yourself the blessing of community. For the next minute, whenever you use the aid another action, the bonus granted increases by 2."
+    },
+    {
+      "Key": "a31effa6872b466b9b08a74f1757c864",
+      "SimpleName": "CommunityBlessingMinorAbilitySelf.Name",
+      "ProcessTemplates": false,
+    "zhCN": "团队互助-自身",
+    "enGB": "Communal Aid - Self"
+    },
+    {
+      "Key": "949b3a786a4244b7804677145deff6e0",
+      "SimpleName": "CommunityBlessingMinorBuff.Description",
+      "ProcessTemplates": true,
+    "zhCN": "在接下来的一分钟里，每当你使用协助他人动作时，加值都会增加+2。",
+    "enGB": "For the next minute, whenever you use the aid another action, the bonus granted increases by 2."
+    },
+    {
+      "Key": "9802d558c23841569b8de101af17f183",
+      "SimpleName": "CommunityBlessingMinorBuff.Name",
+      "ProcessTemplates": false,
+    "zhCN": "团队互助",
+    "enGB": "Communal Aid"
+    },
+    {
+      "Key": "e1567e21b4ba48d8bc3e3cd84e7aa683",
+      "SimpleName": "PlantBlessingFeature.Description",
+      "ProcessTemplates": true,
+    "zhCN": "在1级时，如果你的一次近战攻击成功命中，那么你可以以一个迅捷动作使被攻击的目标立刻开始发芽和长出扰人的藤蔓。这个生物将被纠缠1轮（反射豁免通过则无效）。\n在10级时，你能以一个标准动作召唤一个自然界的勇士与你并肩作战。这相当于一个法术四级召唤自然盟友的效果，持续一分钟。不过你只能召唤一只动物，这个动物的生物类型将转变为为植物。在10级后的每2个等级，这个能力的效果就上升一个等级，最高在20级达到九级召唤自然盟友。",
+    "enGB": "At 1st level, as a swift action you can cause any creature you hit this round with a melee attack to sprout entangling vines that attempt to hold it in place, entangling it for 1 round (Reflex negates). \nAt 10th level, you can summon a battle companion. This ability functions as summon nature's ally IV with a duration of 1 minute. This ability can summon only one animal, regardless of the list used, and the creature’s type changes to plant instead of animal. For every 2 levels beyond 10th, the level of the summon nature's ally spell increases by 1 (to a maximum of summon nature's ally IX at 20th level)."
+    },
+    {
+      "Key": "fea94bf625bb4e769cf65f7d47c5dbb3",
+      "SimpleName": "PlantBlessingFeature.Name",
+      "ProcessTemplates": false,
+    "zhCN": "植物",
+    "enGB": "Plant"
+    },
+    {
+      "Key": "a4e247ed6e2645f6ba101dba50a6b64c",
+      "SimpleName": "PlantBlessingMajorAbility.Description",
+      "ProcessTemplates": true,
+    "zhCN": "在10级时，你能以一个标准动作召唤一个自然界的勇士与你并肩作战。这相当于一个法术四级召唤自然盟友的效果，持续一分钟。不过你只能召唤一只动物，这个动物的生物类型将转变为为植物。在10级后的每2个等级，这个能力的效果就上升一个等级，最高在20级达到九级召唤自然盟友。",
+    "enGB": "At 10th level, you can summon a battle companion. This ability functions as summon nature's ally IV with a duration of 1 minute. This ability can summon only one animal, regardless of the list used, and the creature’s type changes to plant instead of animal. For every 2 levels beyond 10th, the level of the summon nature's ally spell increases by 1 (to a maximum of summon nature's ally IX at 20th level)."
+    },
+    {
+      "Key": "33f50ceabcd243d2b5f2e1b1b7ac942b",
+      "SimpleName": "PlantBlessingMajorAbility.Name",
+      "ProcessTemplates": false,
+    "zhCN": "自然先锋",
+    "enGB": "Plant Battle Companion"
+    },
+    {
+      "Key": "3adb32bab31e454b86843f615633b7b8",
+      "SimpleName": "PlantBlessingMajorFeature.Description",
+      "ProcessTemplates": true,
+    "zhCN": "在10级时，你能以一个标准动作召唤一个自然界的勇士与你并肩作战。这相当于一个法术四级召唤自然盟友的效果，持续一分钟。不过你只能召唤一只动物，这个动物的生物类型将转变为为植物。在10级后的每2个等级，这个能力的效果就上升一个等级，最高在20级达到九级召唤自然盟友。",
+    "enGB": "At 10th level, you can summon a battle companion. This ability functions as summon nature's ally IV with a duration of 1 minute. This ability can summon only one animal, regardless of the list used, and the creature’s type changes to plant instead of animal. For every 2 levels beyond 10th, the level of the summon nature's ally spell increases by 1 (to a maximum of summon nature's ally IX at 20th level)."
+    },
+    {
+      "Key": "2c5d5b2627a449f294036753c96dbd8d",
+      "SimpleName": "PlantBlessingMajorSummonsBuff.Description",
+      "ProcessTemplates": true,
+    "zhCN": "被自然先锋能力召唤的生物被授予植物类型。植物型生物免疫毒素、睡眠、麻痹、变形、震慑以及所有影响心灵的效果。",
+    "enGB": "Creatures summoned by the plant battle companion ability are granted the plant type. Plant type creatures are granted immunity to paralysis, sleep, mind affecting, poison, polymorph, and stun effects."
+    },
+    {
+      "Key": "879fd86236624c18bf90b09ac7996ee1",
+      "SimpleName": "PlantBlessingMajorSummonsBuff.Name",
+      "ProcessTemplates": false,
+    "zhCN": "植物类型",
+    "enGB": "Plant Type"
+    },
+    {
+      "Key": "1d1ef8cf59fe402c9aa4843ee8ad0de1",
+      "SimpleName": "PlantBlessingMinorAbility.Description",
+      "ProcessTemplates": true,
+    "zhCN": "在1级时，如果你的一次近战攻击成功命中，那么你可以以一个迅捷动作使被攻击的目标立刻开始发芽和长出扰人的藤蔓。这个生物将被纠缠1轮（反射豁免通过则无效）。",
+    "enGB": "At 1st level, as a swift action you can cause any creature you hit this round with a melee attack to sprout entangling vines that attempt to hold it in place, entangling it for 1 round (Reflex negates)."
+    },
+    {
+      "Key": "0b98db2f3f2e4fdd81d1f16b5b218364",
+      "SimpleName": "PlantBlessingMinorBuff.Description",
+      "ProcessTemplates": true,
+    "zhCN": "在1级时，如果你的一次近战攻击成功命中，那么你可以以一个迅捷动作使被攻击的目标立刻开始发芽和长出扰人的藤蔓。这个生物将被纠缠1轮（反射豁免通过则无效）。",
+    "enGB": "At 1st level, as a swift action you can cause any creature you hit this round with a melee attack to sprout entangling vines that attempt to hold it in place, entangling it for 1 round (Reflex negates)."
+    },
+    {
+      "Key": "b277770a56664834ad8cb0bb4bc6baeb",
+      "SimpleName": "PlantBlessingMinorBuff.Name",
+      "ProcessTemplates": false,
+    "zhCN": "猛烈生长",
+    "enGB": "Creeping Vines"
     }
   ]
 }
