@@ -1,0 +1,21 @@
+[
+  {
+    "Key": "MindfulEnchantment.Name",
+    "enGB": "Mindful",
+    "zhCN": "凝思",
+    "ruRU": null
+  },
+  {
+    "Key": "MindfulEnchantment.Description",
+    "enGB": "Mindful weapons are unusually heavy with knowledge. A wielder can choose to apply her {g|Encyclopedia:Intelligence}Intelligence{/g} modifier to {g|Encyclopedia:Damage}damage rolls{/g} with a mindful weapon in place of her {g|Encyclopedia:Strength}Strength{/g} modifier (whichever is higher). This modifier to damage is reduced for off-hand weapons.",
+    "zhCN": "凝思武器蕴藏着异常渊博的知识。持有者可以用他的智力调整值代替力量调整值应用与伤害检定。这种武器在作副手武器使用时智力调整值减半",
+    "ruRU": null
+  },
+  {
+    "Key": "MindfulHolyBookWeapon.Name",
+    "ProcessTemplates": false,
+    "enGB": "Mindful Holy Book",
+    "zhCN": "",
+    "ruRU": ""
+  }
+]

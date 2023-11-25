@@ -1,0 +1,148 @@
+[
+  // **** Living Grimoire **** //
+  {
+    "Key": "LivingGrimoire.Name",
+    "ProcessTemplates": false,
+    "enGB": "Living Grimoire",
+    "zhCN": "怀言者",
+    "ruRU": null
+  },
+  {
+    "Key": "LivingGrimoire.Description",
+    "enGB": "The living grimoire literally wields the sacred word of his deity, using his holy tome to smite the foes of his god with divine might.",
+    "zhCN": "怀言者在字面意义上手持其神祇的真言作为武器，挥舞着巨大的圣典，呼唤其主宰的威能制裁信仰之敌。和大多数审判者不同，相较于严苛的审查与猎杀生活，怀言者更偏爱探寻知识和查考经文。",
+    "ruRU": null
+  },
+  {
+    "Key": "LivingGrimoire.Orisons.Name",
+    "ProcessTemplates": false,
+    "enGB": "Orisons",
+    "zhCN": "祷言",
+    "ruRU": null
+  },
+  {
+    "Key": "LivingGrimoire.Orisons.Description",
+    "enGB": "Inquisitors can cast a number of {g|Encyclopedia:Cantrips_Orisons}orisons{/g}, or 0-level {g|Encyclopedia:Spell}spells{/g}. These spells are cast like any other spell, but they are not expended when cast and may be used again.",
+    "zhCN": "审判官每天可施放若干个祷言，或称0级法术。这些法术的施放方式与其他法术相似，不过在施放后不会被消耗掉，可以再次使用。",
+    "ruRU": null
+  },
+  {
+    "Key": "LivingGrimoire.HolyBook.Name",
+    "ProcessTemplates": false,
+    "enGB": "Holy Book",
+    "zhCN": "圣典",
+    "ruRU": null
+  },
+  {
+    "Key": "LivingGrimoire.HolyBook.Description",
+    "enGB": "At 1st level, a living grimoire forms a supernatural bond with a large ironbound tome containing the holy text of his deity and learns to use it as a weapon.\nThe tome serves as his holy symbol and divine focus, and can be enchanted as a magic weapon.",
+    "zhCN": "在1级时，怀言者可以与他持有的一本厚重的铁封皮圣典形成超自然的联结，这本记载着圣言的书籍将成为怀言者有力的武器。\n这本圣典可以作为怀言者的圣徽和神术法术的法器成分。",
+    "ruRU": null
+  },
+  {
+    "Key": "LivingGrimoire.HolyBook.WeaponFocus.Name",
+    "ProcessTemplates": false,
+    "enGB": "Weapon Focus (Holy Book)",
+    "zhCN": "武器专攻（圣典）",
+    "ruRU": null
+  },
+  {
+    "Key": "LivingGrimoire.HolyBook.WeaponFocus.Description",
+    "enGB": "You gain a +1 {g|Encyclopedia:Bonus}bonus{/g} on all {g|Encyclopedia:Attack}attack rolls{/g} you make using holy books.",
+    "zhCN": "使用圣典进行的所有攻击检定均获得+1加值",
+    "ruRU": null
+  },
+  {
+    "Key": "LivingGrimoire.SacredWord.Name",
+    "ProcessTemplates": false,
+    "enGB": "Sacred Word",
+    "zhCN": "圣言",
+    "ruRU": null
+  },
+  {
+    "Key": "LivingGrimoire.SacredWord.Description",
+    "enGB": "At 2nd level, a living grimoire learns to charge his holy book with the power of his faith. The inquisitor gains the benefits of the warpriest’s sacred weapon class ability, but the benefits apply only to his bonded holy book. Like a warpriest’s sacred weapon, the living grimoire’s book deals {g|Encyclopedia:Damage}damage{/g} based on the inquisitor’s level, not the book’s base {g|Encyclopedia:Damage}damage{/g} (unless the inquisitor chooses to use the book’s base {g|Encyclopedia:Damage}damage{/g}).",
+    "zhCN": "在2级时，怀言者学习了如何将自己的信仰之力充入他的圣典中。怀言者会因此而获得战斗祭司的神圣武器职业能力的好处，但这个好处只对他的圣典有效。和战斗祭司的神圣武器类似，怀言者的圣典的基础伤害骰基于他的怀言者等级而非武器本身的伤害骰（但怀言者也可以选择使用武器本身的伤害骰）。",
+    "ruRU": null
+  },
+  {
+    "Key": "LivingGrimoire.SacredWordEnchant.Description",
+    "enGB": "At 4th level, the living grimoire gains the ability to enhance his holy book with the power of his faith as a {g|Encyclopedia:Swift_Action}swift action{/g}. This power grants the weapon a +1 enhancement {g|Encyclopedia:Bonus}bonus{/g}. For every 4 levels beyond 4th, this bonus increases by 1 (to a maximum of +5 at 20th level). The living grimoire can use this ability a number of rounds per day equal to his inquisitor level, but these rounds need not be consecutive. These bonuses stack with any existing bonuses the weapon might have, to a maximum of +5. The living grimoire can enhance his holy book with any of the following weapon special abilities: brilliant energy, flaming, frost, keen, and shock. In addition, if the living grmoire is chaotic, he can add anarchic. If he is evil, he can add unholy. If he is good, he can add holy. If he is lawful, he can add axiomatic. Adding any of these {g|Encyclopedia:Special_Abilities}special abilities{/g} replaces an amount of bonus equal to the special ability's base cost. Duplicate abilities do not stack. The weapon must have at least a +1 enhancement bonus before any other special abilities can be added.",
+    "zhCN": "在4级时，怀言者获得使用神力增强他的圣典的能力。以一个迅捷动作，怀言者可以为圣典提供+1增强加值。在4级之后怀言者每提升4个等级时，这个加值额外+1（在20级时达到最大值+5）。这些加值可以与圣典原本拥有的增强加值叠加，最高叠加到+5。怀言者也可以为自己的圣典添加以下附魔效果：光能，炽焰，寒霜，锐锋，震电。此外还可以添加怀言者自身阵营对应的附魔。添加这些特殊能力需要消耗与增加武器附魔相同的增强加值数量。在添加任何特殊能力前，这件武器至少要有+1增强加值。怀言者每天可以使用本能力的轮数相当于他的审判者等级，",
+    "ruRU": null
+  },
+  {
+    "Key": "LivingGrimoire.SacredWordEnchantPlus2.Name",
+    "ProcessTemplates": false,
+    "enGB": "Sacred Word +2",
+    "zhCN": "圣言 ＋2",
+    "ruRU": null
+  },
+  {
+    "Key": "LivingGrimoire.SacredWordEnchantPlus3.Name",
+    "ProcessTemplates": false,
+    "enGB": "Sacred Word +3",
+    "zhCN": "圣言 ＋3",
+    "ruRU": null
+  },
+  {
+    "Key": "LivingGrimoire.SacredWordEnchantPlus4.Name",
+    "ProcessTemplates": false,
+    "enGB": "Sacred Word +4",
+    "zhCN": "圣言 ＋4",
+    "ruRU": null
+  },
+  {
+    "Key": "LivingGrimoire.SacredWordEnchantPlus5.Name",
+    "ProcessTemplates": false,
+    "enGB": "Sacred Word +5",
+    "zhCN": "圣言 ＋5",
+    "ruRU": null
+  },
+
+  {
+    "Key": "LivingGrimoire.BlessedScript.Name",
+    "ProcessTemplates": false,
+    "enGB": "Blessed Script",
+    "zhCN": "受福经文",
+    "ruRU": null
+  },
+  {
+    "Key": "LivingGrimoire.BlessedScript.Description",
+    "enGB": "At 5th level, a living grimoire can permanently tattoo a conduit of his holy book onto his body, granting him an additional 1st spell slot.\nAt 8th level, the living grimoire can tattoo one conduit of 2nd level upon himself.\nAt 12th level, he can tattoo one conduit of 3rd level upon himself.\nAt 16th level he can tattoo one conduit of 4th level upon himself.",
+    "zhCN": "在5级时，怀言者可以永久性地将一条来自圣典的神能通道刺青在自己的身体上，这将给予他一个额外的一环法术位。\n在8级时,怀言者可以再永久性地将一条来自圣典的神能通道刺青在自己的身体上，这将给予他一个额外的二环法术位。\n在12级时，怀言者可以再永久性地将一条来自圣典的神能通道刺青在自己的身体上，这将给予他一个额外的三环法术位。\n在16级时，怀言者可以再永久性地将一条来自圣典的神能通道刺青在自己的身体上，这将给予他一个额外的四环法术位。",
+    "ruRU": null
+  },
+  {
+    "Key": "LivingGrimoire.WordOfGod.Name",
+    "ProcessTemplates": false,
+    "enGB": "Word Of God",
+    "zhCN": "大怀言者",
+    "ruRU": null
+  },
+  {
+    "Key": "LivingGrimoire.WordOfGod.Description",
+    "enGB": "At 20th level, a living grimoire can smite his foes with the holy word of his deity. Up to seven times per day, the inquisitor can invoke the word of god on a foe. Once declared, the the inquisitor can make a single {g|Encyclopedia:Attack}attack{/g} with his holy book against a target. If the attack hits, it deals {g|Encyclopedia:Damage}damage{/g} normally and the target must make a {g|Encyclopedia:Saving_Throw}Fortitude save{/g} or die. The {g|Encyclopedia:DC}DC{/g} of this save is equal to 10 + 1/2 the living grimoire’s inquisitor level + his {g|Encyclopedia:Intelligence}Intelligence{/g} modifier. Regardless of whether or not the save is made, the target creature is immune to the living grimoire's word of god ability for 24 hours.",
+    "zhCN": "在20级时，怀言者可以操起他所信仰的神祇之言来惩击敌人。每天最多7次，怀言者可以用自己的圣典对一个目标发动一次单次攻击，如果这次攻击命中，首先怀言者造成一次正常攻击的伤害，并且目标必须通过一个DC=10+怀言者的审判者等级+他的智力调整值的强韧检定，否则他立刻死亡。无论他是否成功通过豁免检定，该目标都会免疫本能力24小时。",
+    "ruRU": null
+  },
+  {
+    "Key": "LivingGrimoire.HellknightSignifer.Description",
+    "enGB": "At 1st level, and at every level thereafter, a Hellknight signifer gains new {g|Encyclopedia:Spell}spells{/g} per day as if he had also gained a level in a spellcasting class he belonged to before adding the prestige class. He does not, however, gain any other benefit a character of that class would have gained, except for additional spells per day, spells known, and an increased effective level of spellcasting. If a character had more than one spellcasting class before becoming a Hellknight signifer, he must decide to which class he adds the new level for purposes of determining spells per day.",
+    "zhCN": "1级时，以及之后每个等级，地狱骑士持节士都能够获得新的每日法术量，如同他在进阶之前已有的施法职业上也获得了一个等级。但是除了额外的每日法术量、已知法术、有效施法者等级之外，他无法获得该职业角色升级之际本应获得的其他好处。若角色在进阶成为地狱骑士持节士之前拥有多个施法职业，那么他必须决定将新的一级追加在哪个职业上，以用于判断每日法术量。 ",
+    "ruRU": null
+  },
+  {
+    "Key": "LivingGrimoire.MysticTheurge.Description",
+    "enGB": "At 1st level, the mystic theurge selects a divine {g|Encyclopedia:Spell}spellcasting{/g} class she belonged to before adding the prestige class. When a new mystic theurge level is gained, the character gains new spells per day and new spells known as if she had also gained a level in that spellcasting class.",
+    "zhCN": "1级起，秘术师可以从进阶该职业前的神术施法职业中选择一个。每次获得新的秘术师等级时，该角色可以如同也获得了该施法职业的等级一般，增加每日法术量和新的所知法术。 ",
+    "ruRU": null
+  },
+  {
+    "Key": "LivingGrimoire.Loremaster.Description",
+    "enGB": "When a new loremaster level is gained, the character gains new {g|Encyclopedia:Spell}spells{/g} per day as if he had also gained a level in a spellcasting class he belonged to before adding the prestige class. He does not, however, gain other benefits a character of that class would have gained, except for additional spells per day, spells known (if he is a spontaneous spellcaster), and an increased effective level of spellcasting. If a character had more than one spellcasting class before becoming a loremaster, he must decide to which class he adds the new level for purposes of determining the number of spells per day.",
+    "zhCN": "在获得一级新的博学士等级时，角色将获得新的每日法术量，如同他在进阶之前已有的施法职业上也获得了一个等级。但是除了额外的每日法术量、已知法术（若其为自发施法者）和有效施法者等级之外，他无法获得该职业角色升级之际能够获得的其他奖励。如果角色在成为博学士之前拥有多个施法职业，那么他必须决定将新的一级追加在哪个职业上以决定每日法术量。 ",
+    "ruRU": null
+  }
+  // **************************** //
+]
