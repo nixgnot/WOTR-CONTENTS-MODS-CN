@@ -1241,12 +1241,12 @@
   },
   {
     "Key": "wotr-making-friends.eidolonpainajicompanionfeature.name",
-    "zhCN": "帕纳贾",
+    "zhCN": "Painaji",
     "enGB": "Painaji"
   },
   {
     "Key": "wotr-making-friends.eidolonpainajicompanionfeature.description",
-    "zhCN": "拉马什图创造了帕纳贾恶魔，以萦绕在凡人的梦境中，观看他们的噩梦，并追捕孤独的乌努贾·阿扎塔斯（见第9页）。尽管painajais的人数远远超过uinujas，但恶魔们无法合作，使他们无法在永恒的斗争中占据上风。这些恶魔还会不分青红皂白地攻击任何穿越他们道路的人，包括梦幻旅行者和其他痛苦的人，只有拥有压倒性力量的监督者才能阻止他们这样做。痛苦的人说话时声音低沉而有共鸣，似乎会擦伤掉在上面的任何耳朵。他们强迫性地磨牙，有时是故意让对手感到不安，甚至可能咀嚼脸颊内侧，产生血腥肮脏的泡沫。",
+    "zhCN": "拉马什图创造了Painaji恶魔，以萦绕在凡人的梦境中，欣赏他们的噩梦，并追捕孤独的uinuja azatas。尽管painajais的人数远远超过uinujas，但恶魔们无法合作，使他们无法在永恒的斗争中占据上风。这些恶魔还会不分青红皂白地攻击任何穿越他们道路的人，包括梦境旅行者和其他painajais，只有拥有压倒性力量的监管者才能阻止他们这样做。painajais说话时声音嘶哑且带有回音，仿佛要刮擦耳朵直到它们掉下。他们不由自主地磨动着尖锐的牙齿，有时则会故意以此来让对手感到不安，甚至可能咀嚼脸颊的内侧，来产生血腥且肮脏的泡沫。",
     "enGB": "Lamashtu created the painajai demons to haunt mortal dreams and watch their nightmares, as well as to hunt lone uinuja azatas (see page 9). Though painajais far outnumber uinujas, the demons’ inability to cooperate keeps them from gaining the upper hand in their eternal struggle. These demons also indiscriminately attack anyone crossing their path, including dream travelers and other painajais, and only an overseer of overwhelming strength can prevent them from doing so. Painajais speak in a throaty and resonating voice that seems to abrade any ear upon which it falls. They grind their sharp teeth compulsively, sometimes on purpose to unnerve their opponents, and may even chew on the insides of their cheeks to produce a bloody, filthy froth."
   },
   {
@@ -1440,7 +1440,7 @@
   },
   {
     "Key": "wotr-making-friends.eidolonshadecompanionfeature.description",
-    "zhCN": "被称为阴魂的神秘不死生物潜伏在黑暗的地方，以那些偏离光明太远的人为食。那些与阴魂进行谈判的人，通常是用发光的武器来阻止他们，他们可能会学到伟大的秘密，因为他们是理想的间谍。",
+    "zhCN": "被称为阴魂的神秘不死生物潜伏在黑暗的地方，以那些离光源太远的人们为食。那些与阴魂进行谈判的人，通常是用发光的武器来阻挡他们，他们可能会听到一些重大的机密，因为他们是理想的密探。",
     "enGB": "The mysterious undead known as shadows lurk in dark places and feed on those who stray too far from the light. Those who parley with shadows, typically by keeping them at bay with a glowing weapon, may learn great secrets, for they are ideal spies."
   },
   {
@@ -1619,7 +1619,7 @@
   },
   {
     "Key": "wotr-making-friends.eidolonfairydragoncompanionfeature.description",
-    "zhCN": "作为伪龙pseudodragons的近亲,仙灵龙生性精灵古怪且好开玩笑，总是花费大量时间在林间空地嬉戏或是准备各种恶作剧。尽管这类恶作剧通常天真，但据知有些仙灵龙会花费数月甚至数年时间准备一个绝对壮观的玩笑。需要途经这些善良天性——但有时也很恼人——的恶作剧生物所居住地域的旅行者常被告知最好保持警戒以免受到各种异想天开玩笑的困扰（马匹被涂满浆果汁，睡袋里被放进松鼠，衣服被挂在高处树杈上，这只是简单的一些例子）。",
+    "zhCN": "作为伪龙的近亲,仙灵龙生性精灵古怪且好开玩笑，总是花费大量时间在林间空地嬉戏或是准备各种恶作剧。尽管这类恶作剧通常天真，但据知有些仙灵龙会花费数月甚至数年时间准备一个绝对壮观的玩笑。需要途经这些善良天性——但有时也很恼人——的恶作剧生物所居住地域的旅行者常被告知最好保持警戒以免受到各种异想天开玩笑的困扰（马匹被涂满浆果汁，睡袋里被放进松鼠，衣服被挂在高处树杈上，这只是简单的一些例子）。",
     "enGB": "Related to pseudodragons, faerie dragons are whimsical, playful pranksters that spend most of their time either relaxing in cool forest glades or engaged in some sort of prank. Although such mischief is usually spontaneous, some faerie dragons have been known to spend months or even years in preparation of one truly spectacular joke.Travelers making their way through lands known to be inhabited by these good-natured—but sometimes annoying—tricksters are advised to keep up their guard lest they face all manner of creative annoyances (horses painted with berry juice, squirrels placed inside bedrolls, and clothing decorating high branches being a few examples)."
   },
   {
