@@ -29,14 +29,14 @@
   - [附录：功能MOD索引](#功能MOD索引)
   - [附录：打包MOD网盘分流](#打包MOD网盘分流) 
 
-|  MOD   |  内容简介 |  中文  |  UMM   |  个人推荐  |  内容量  |  修改  |  2.10 |
+|  MOD   |  内容简介 |  中文  |  UMM   |  个人推荐  |  内容量  |  修改  |  DLC5 |
 |  ----  | ----  | ----  | ----  | ----  | ----  | ----  | ----  |
 | [TabletopTweaks-Base](#TabletopTweaks-Base)  | TTT | 自带 | :heavy_check_mark:  | :+1::+1::+1: | :file_folder::file_folder::file_folder: | 🛠️🛠️ ||
 | [TabletopTweaks-Reworks](#TabletopTweaks-Reworks)  | TTT神话扩展 | 自带 | :heavy_check_mark:  | :+1::+1: | :file_folder::file_folder: | 🛠️🛠️ ||
 | [TabletopTweaks-Flanking](#TabletopTweaks-Flanking)   | TTT夹击扩展 |   | :heavy_check_mark:  | :+1::+1: | :file_folder: | 🛠️🛠️ ||
 | [WrathMods-MultipleArchetypes](#WrathMods-MultipleArchetypes)   | 多重变体 |   | :heavy_check_mark:  | :+1::+1::+1: | :file_folder: | 🛠️ ||
 | [MicroscopicContentExpansion](#MicroscopicContentExpansion)|MCE内容扩展| QL汉化 | :heavy_check_mark: | :+1::+1: | :file_folder::file_folder: |||
-| [SparsSorcerousSundries](#SparsSorcerousSundries) | 物品扩展 | QL汉化 | :heavy_check_mark: | :+1::+1: | :file_folder::file_folder: |||
+| [SparsSorcerousSundries](#SparsSorcerousSundries) | 物品扩展 | QL汉化 | :heavy_check_mark: | :+1::+1: | :file_folder::file_folder: ||:steam_locomotive:|
 | [TomeOfTheFirebird](#TomeOfTheFirebird) | TOTF扩展 | QL汉化 | :heavy_check_mark: | :+1::+1::+1: | :file_folder::file_folder::file_folder: |||
 | [HomebrewArchetypes](#HomebrewArchetypes) | 房规变体 | 自带 | :x: | :+1::+1::+1: | :file_folder::file_folder::file_folder: |||
 | [ExpandedContent2022](#ExpandedContent2022)  | 内容扩展2022 | 汉化 | :heavy_check_mark: | :+1::+1: | :file_folder::file_folder::file_folder: |||
@@ -80,7 +80,8 @@
 | [HomebrewWarlock](#HomebrewWarlock) | 3.5e邪术师 | QL汉化 | :heavy_check_mark: | :+1::+1: | :file_folder: |||
 | [AutomaticBonusProgression](#AutomaticBonusProgression) | 自动增长加值 | QL汉化 | :heavy_check_mark: | :+1::+1: | :file_folder: |||
 | [WOTR_MAKING_FRIENDS](#WOTR_MAKING_FRIENDS) | 召唤师 | QL汉化 | :heavy_check_mark: | :+1: | :file_folder: |🛠️||
-
+| [PathofWar](#PathofWar) | 战争之路 | 暂无 | :heavy_check_mark: | :+1: | :file_folder: |🛠️||
+| [RandomEquipment](#RandomEquipment) | 随机装备 | 暂无 | :heavy_check_mark: | :+1::+1: | :file_folder: |🛠️||
 
 备注
 + UMM一栏为是否使用UMM安装
@@ -3696,6 +3697,21 @@ C:\Users\你的用户名\AppData\LocalLow\Owlcat Games\Pathfinder Wrath Of The R
 </table>    
 
 -------------------------------------------  
+### [PathofWar](https://github.com/novumvita/PathofWar)
+> *前置：* 无<br>
+> *中文：* 暂无<br>
+> *安装方式：* **UMM**<br>
+> *新增内容：* 战技流派<br>
+
+-------------------------------------------  
+### [RandomEquipment](https://github.com/thehambeard/RandomEquipment)
+> *前置：* ModMenu<br>
+> *中文：* **暂无**<br>
+> *安装方式：* **UMM**<br>
+> *新增内容：* 随机装备<br>
++ 允许装备随机掉落   
+
+
 
 ### 功能MOD索引
 + [ToyBox](https://www.nexusmods.com/pathfinderwrathoftherighteous/mods/8) 应该不用介绍？
