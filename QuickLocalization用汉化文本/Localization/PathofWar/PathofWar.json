@@ -1,1 +1,363 @@
+[
+  {
+    "Key": "PathofWar.Selection.Name",
+    "ProcessTemplates": false,
+    "enGB": "The Art of the Blade",
+    "zhCN": "剑刃艺术"
+  },
+  {
+    "Key": "PathofWar.Selection.Description",
+    "enGB": "Choose a Martial Discipline. The maneuvers in a discipline are usually linked by common effects, philosophies, or functions. Each discipline is tied to a certain skill that might be used in the execution of some of its maneuvers.",
+    "zhCN": "选择一个武术流派。每个流派中的武技通常都具有相互关联的效果、哲学思想或者功能。每个武术流派都和某项技能相关，并利用这项技能来执行某些武技。"
+  },
+  {
+    "Key": "PathofWar.Progression.Name",
+    "ProcessTemplates": false,
+    "enGB": "Maneuvers and Stances",
+    "zhCN": "武技和架势"
+  },
+  {
+    "Key": "PathofWar.Progression.Description",
+    "enGB": "You may learn new maneuvers and stances as you level up.",
+    "zhCN": "你可以在升级时获得新的武技和架势。"
+  },
+  {
+    "Key": "PathofWar.Maneuver.Name",
+    "ProcessTemplates": false,
+    "enGB": "Martial Maneuvers",
+    "zhCN": "武技"
+  },
+  {
+    "Key": "PathofWar.Maneuver.Description",
+    "enGB": "You may learn a maneuver that you meet the prerequisites for.",
+    "zhCN": "你可以学习满足前提条件的武技。"
+  },
+  {
+    "Key": "PathofWar.Stance.Name",
+    "ProcessTemplates": false,
+    "enGB": "Martial Stances",
+    "zhCN": "架势"
+  },
+  {
+    "Key": "PathofWar.Stance.Description",
+    "enGB": "You may learn a stance that you meet the prerequisites for.",
+    "zhCN": "你可以学习满足前提条件的架势。"
+  },
+  {
+    "Key": "RadiantDawn.Name",
+    "ProcessTemplates": false,
+    "enGB": "Radiant Dawn",
+    "zhCN": "辉晨"
+  },
+  {
+    "Key": "RadiantDawn.Description",
+    "enGB": "Brought forth by the desire to rule, and shaped on the battlefield through ages of conflict, Radiant Dawn is a discipline that is steeped in blood and akasha. In ages where conflict and war are common, those with this discipline watch over the battlefield like the sun in the sky, directing allies to seize victory, while hindering enemies powerful abilities to shift the tide of battle into their favor. In ages where conflict has been distant, Radiant Dawn has existed as an akashic meditative exercise amongst rulers and nobility. Regardless of what form it takes, practitioners of the Radiant Dawn strive to be like the sun itself: Above all.\nInitiation Modifier: Charisma",
+    "zhCN": "孕育于君临天下之欲望、成型于烽火连天之战场，辉晨派信奉血雨腥风和万物之识。在战火遍地的年代，这个流派的成员如同九天之上的烈阳一般高悬战场，指引盟友走向胜利，困敌之势扭转乾坤。在天下止戈的年代，辉晨派则是统治者和贵族领悟万物之识的冥想方式。无论其形式如何，辉晨派都如同太阳本身一般：君临万物。\n武术属性调整：魅力"
+  },
+  {
+    "Key": "RadiantDawn.Bolster.Name",
+    "ProcessTemplates": false,
+    "enGB": "Bolster",
+    "zhCN": "格物知天"
+  },
+  {
+    "Key": "RadiantDawn.Bolster.Description",
+    "enGB": "You fortify an ally with akasha, hardening their skin like the scales of a dragon. The next time they are hit by an enemy attack,they gain DR/– equal to your initiation modifier for 1 round.",
+    "zhCN": "你用万物之识强化盟友，使其皮肤变得如同龙之鳞片。其下次被敌人击中时，获得等于你武术属性调整的DR/-，持续1轮。"
+  },
+  {
+    "Key": "RadiantDawn.Bolster.Buff.Name",
+    "ProcessTemplates": false,
+    "enGB": "Bolstered",
+    "zhCN": "格物知天"
+  },
 
+  {
+    "Key": "RadiantDawn.Bolster.Buff.Description",
+    "enGB": "Has DR/- against one attack.",
+    "zhCN": "对一次攻击获得 DR/-。"
+  },
+  {
+    "Key": "RadiantDawn.DecreeOfMercy.Name",
+    "ProcessTemplates": false,
+    "enGB": "Decree of Mercy",
+    "zhCN": "慈悲为怀"
+  },
+
+  {
+    "Key": "RadiantDawn.DecreeOfMercy.Description",
+    "enGB": "A simple look and gesture can weaken one’s resolve to kill. The next time the target uses an effect which deals hit point damage, they can not kill the affected unit.",
+    "zhCN": "用简单的目光和手势消弭目标的杀意。下次目标使用造成生命值伤害的效果时，不会杀死受影响的目标。"
+  },
+  {
+    "Key": "RadiantDawn.DecreeOfMercy.Buff.Name",
+    "ProcessTemplates": false,
+    "enGB": "Merciful",
+    "zhCN": "慈悲为怀"
+  },
+
+  {
+    "Key": "RadiantDawn.DecreeOfMercy.Buff.Description",
+    "enGB": "Does not have the resolve to kill.",
+    "zhCN": "失去杀意。"
+  },
+  {
+    "Key": "RadiantDawn.Dismiss.Name",
+    "ProcessTemplates": false,
+    "enGB": "Dismiss",
+    "zhCN": "柳叶扶风"
+  },
+
+  {
+    "Key": "RadiantDawn.Dismiss.Description",
+    "enGB": "This attack ‘softly’ removes an enemy from your presence. Make an attack. If it hits, you deal damage as normal, and you can make a trip attempt against the target. If your trip attempt succeeds, the target is also pushed away. When determining your combat maneuver bonus for this strike, you use your character level in place of your base attack bonus, and your initiation modifier in place of your Strength modifier.",
+    "zhCN": "这种攻击“轻柔”地解决迫在眉睫的敌人的威胁。发起一次攻击。如果它击中，你会如常造成武器伤害并对目标进行绊摔尝试。如果你的绊摔尝试成功，目标也会被推开。当决定你这次打击的战技加值时，你用你的角色等级代替你的基础攻击加成，用你的武术属性调整代替你的力量调整值。"
+  },
+  {
+    "Key": "RadiantDawn.LifeburstStrike.Name",
+    "ProcessTemplates": false,
+    "enGB": "Lifeburst Strike",
+    "zhCN": "倒转乾坤"
+  },
+
+  {
+    "Key": "RadiantDawn.LifeburstStrike.Description",
+    "enGB": "To help your allies and harm your enemies is the most basic tenet of the Radiant Dawn discipline. Make an attack. If it hits, it deals weapon damage as normal, and you can heal yourself and allies within close range for a total number of hit points proportional to your initiation modifier, divided among you and your allies, prioritizing the most injured.",
+    "zhCN": "助友伤敌是辉晨派的基本理念。进行一次攻击，如果命中，如常造成武器伤害，并治疗自己和附近盟友，总数值和武术属性调整成比例，治疗量在你和盟友之间分配，优先严重受伤的目标。"
+  },
+  {
+    "Key": "RadiantDawn.DecreeOfDeath.Name",
+    "ProcessTemplates": false,
+    "enGB": "Decree of Death",
+    "zhCN": "黄泉判令"
+  },
+
+  {
+    "Key": "RadiantDawn.DecreeOfDeath.Description",
+    "enGB": "You single out a target for execution. Make an attack. If it hits, it deals weapon damage as normal, and the next instance of damage against the target within 1 round deals 50% additional damage.",
+    "zhCN": "挑选一个目标执行判断。进行一次攻击，如果命中，如常造成武器伤害，且一轮内下一次对其造成的伤害实例伤害增加50%。"
+  },
+  {
+    "Key": "RadiantDawn.DecreeOfDeath.Buff.Name",
+    "ProcessTemplates": false,
+    "enGB": "Decreed to Death",
+    "zhCN": "黄泉判令"
+  },
+
+  {
+    "Key": "RadiantDawn.DecreeOfDeath.Buff.Description",
+    "enGB": "Takes 50% additional damage from the next instance of damage.",
+    "zhCN": "受到的下一次伤害实例增加50%。"
+  },
+  {
+    "Key": "RadiantDawn.ShatterSpell.Name",
+    "ProcessTemplates": false,
+    "enGB": "Shatter Spell",
+    "zhCN": "破法驱魔"
+  },
+
+  {
+    "Key": "RadiantDawn.ShatterSpell.Description",
+    "enGB": "A maneuver whose origins did not come from the disciples of the Radiant Dawn, but was quickly adopted and adapted to deal with spellcasters on the battlefield. Make an attack. If the attack hits, it deals weapon damage as normal plus an additional 2d6 points of damage. The target is affected by a targeted dispel magic as if you had cast it, using your initiator level as your caster level.",
+    "zhCN": "这一武技的起源不是辉晨的门徒，但很快被其采用，并用于在战场上对付施法者。进行一次攻击，如果命中，如常造成武器伤害并增加额外的2d6点伤害。目标会受到目标型解除魔法的影响。此能力的施法者等级等于武术家等级。"
+  },
+  {
+    "Key": "RadiantDawn.DecreeOfPurity.Name",
+    "ProcessTemplates": false,
+    "enGB": "Decree of Purity",
+    "zhCN": "无暇判令"
+  },
+
+  {
+    "Key": "RadiantDawn.DecreeOfPurity.Description",
+    "enGB": "A single word and a wave of the hand purifies those who would stand with you. Heal yourself and allies within close range for a total number of hit points proportional to your initiation modifier, divided among you and your allies, prioritizing the most injured.",
+    "zhCN": "只言片语和手势轻挥能净化那些愿意和你们站在一起的人。在近距离内治疗自己和盟友，总数值和武术属性调整成比例，治疗量在你和盟友之间分配，优先严重受伤的目标。"
+  },
+  {
+    "Key": "RadiantDawn.JudgementDay.Name",
+    "ProcessTemplates": false,
+    "enGB": "Judgement Day",
+    "zhCN": "九狱断罪"
+  },
+
+  {
+    "Key": "RadiantDawn.JudgementDay.Description",
+    "enGB": "Call down Judgement, smiting enemies and healing allies. All enemies within the area are consumed by pure akashic flame, taking 50 points of holy damage. Allies within range are healed for 50 points of damage. This healing acts like that of a breath of life spell, reviving targets.",
+    "zhCN": "召唤审判，打击敌人并治愈盟友。该区域内的所有敌人都被纯净的阿克夏之火焚烧，受到50点神圣伤害。范围内的盟友会受到被治疗50点的伤害。这种治疗作用如同生命之息法术，可以使目标复活."
+  },
+  {
+    "Key": "RadiantDawn.PushTheAdvantage.Name",
+    "ProcessTemplates": false,
+    "enGB": "Push the Advantage",
+    "zhCN": "乘胜追击"
+  },
+
+  {
+    "Key": "RadiantDawn.PushTheAdvantage.Description",
+    "enGB": "With the enemy defeated, you spur an ally towards further glory. When you or an ally kills or destroys an enemy, That ally may immediately take a standard action, and you may also heal yourself and allies within close range for a total number of hit points proportional to your initiation modifier, divided among you and your allies, prioritizing the most injured.",
+    "zhCN": "当敌人被击败时，你会激励盟友乘胜追击。当你或盟友杀死或摧毁敌人时，该盟友可以立即获取一个标准动作，你也可以在近距离内治疗自己和盟友，总数值和武术属性调整成比例，治疗量在你和盟友之间分配，优先严重受伤的目标。"
+  },
+  {
+    "Key": "RadiantDawn.PushTheAdvantage.Buff.Name",
+    "ProcessTemplates": false,
+    "enGB": "Push the Advantage",
+    "zhCN": "乘胜追击"
+  },
+
+  {
+    "Key": "RadiantDawn.PushTheAdvantage.Buff.Description",
+    "enGB": "Spurring allies towards glory.",
+    "zhCN": "激励盟友乘胜追击。"
+  },
+  {
+    "Key": "RadiantDawn.NoblesseOblige.Name",
+    "ProcessTemplates": false,
+    "enGB": "Noblesse Oblige",
+    "zhCN": "位高责重"
+  },
+  {
+    "Key": "RadiantDawn.NoblesseOblige.Description",
+    "enGB": "When all else fails, your allies turn to you to save them. Whenever an ally within close range would die or be destroyed, you initiate this maneuver, even if it is not your turn. That ally’s hit points becomes 1. Then, you deal (4d6 + your initiation modifier) points of damage to the unit whose attack triggered this maneuver, and you also heal the ally subject to this maneuver by a similar amount.",
+    "zhCN": "当大难临头时，你的盟友会求助于你来拯救他们。每当近距离内的盟友死亡或被摧毁时，即使不是你的回合，你回启动这项武技。该盟友的生命值变为1。然后，你对触发该武技的攻击者造成（4d6+你的武术属性调整）点伤害，同时你也会治疗受该动作影响的盟友等量生命值。"
+  },
+  {
+    "Key": "RadiantDawn.NoblesseOblige.Buff.Name",
+    "ProcessTemplates": false,
+    "enGB": "Noblesse Oblige",
+    "zhCN": "位高责重"
+  },
+
+  {
+    "Key": "RadiantDawn.NoblesseOblige.Buff.Description",
+    "enGB": "Ready to save allies from death.",
+    "zhCN": "随时准备从死亡之中拯救队友。"
+  },
+  {
+    "Key": "RadiantDawn.SpoilsOfWar.Name",
+    "ProcessTemplates": false,
+    "enGB": "Spoils of War",
+    "zhCN": "天下布武"
+  },
+  {
+    "Key": "RadiantDawn.SpoilsOfWar.Description",
+    "enGB": "Might makes right. While you maintain this stance, allies within close range heal 3 hit points whenever they hit with an attack. At 5th level, this healing increases to your initiation modifier plus 3. At 10th level, this healing increases to be equal to twice your initiation modifier plus 3. This effect can only trigger once per round per ally.",
+    "zhCN": "强权即公理。当你保持这个架势时，近距离内的盟友每次攻击命中都会恢复 3 点生命值。在 5 级时，此治疗效果会增加到你的武术属性调整加 3。在 10 级时，此治疗效果会增加到你的武术属性调整的两倍加 3。此效果每个盟友每轮只能触发一次。"
+  },
+  {
+    "Key": "RadiantDawn.SpoilsOfWar.Buff.Name",
+    "ProcessTemplates": false,
+    "enGB": "Spoils of War",
+    "zhCN": "天下布武"
+  },
+
+  {
+    "Key": "RadiantDawn.SpoilsOfWar.Buff.Description",
+    "enGB": "A stance of the Radiant Dawn discipline.",
+    "zhCN": "辉晨派的武术架势。"
+  },
+  {
+    "Key": "RadiantDawn.SpoilsOfWar.BuffEffect.Name",
+    "ProcessTemplates": false,
+    "enGB": "Spoils of War - Effect",
+    "zhCN": "天下布武 - 效果"
+  },
+
+  {
+    "Key": "RadiantDawn.SpoilsOfWar.BuffEffect.Description",
+    "enGB": "Might makes right.",
+    "zhCN": "强权即公理。"
+  },
+  {
+    "Key": "RadiantDawn.TheCagedSun.Name",
+    "ProcessTemplates": false,
+    "enGB": "The Caged Sun",
+    "zhCN": "金乌困笼"
+  },
+  {
+    "Key": "RadiantDawn.TheCagedSun.Description",
+    "enGB": "While you maintain this stance, you cannot heal creatures other than yourself, but any healing you receive is increased by 50%. If you would be healed for more than your maximum amount of hit points, you instead gain an amount of temporary hit points equal to the excess healing. These temporary hit points last for one minute.",
+    "zhCN": "当你保持这个架势时，你无法治疗除你自己之外的生物，但你收到的任何治疗效果都会提高 50%。如果您获得的治疗量超过了最大生命值，您将获得相当于超额治疗量的临时生命值。这些临时生命值持续一分钟。"
+  },
+  {
+    "Key": "RadiantDawn.TheCagedSun.Buff.Name",
+    "ProcessTemplates": false,
+    "enGB": "The Caged Sun",
+    "zhCN": "金乌困笼"
+  },
+
+  {
+    "Key": "RadiantDawn.TheCagedSun.Buff.Description",
+    "enGB": "A stance of the Radiant Dawn discipline.",
+    "zhCN": "辉晨派的武术架势。"
+  },
+  {
+    "Key": "RadiantDawn.TheCagedSun.HPBuff.Name",
+    "ProcessTemplates": false,
+    "enGB": "The Caged Sun - Overhealed",
+    "zhCN": "金乌困笼 - 超额治疗"
+  },
+
+  {
+    "Key": "RadiantDawn.TheCagedSun.HPBuff.Description",
+    "enGB": "Burning brighter than ever.",
+    "zhCN": "燃烧得比以往更加明亮。"
+  },
+  {
+    "Key": "RadiantDawn.ArmamentsOfTheEmpire.Name",
+    "ProcessTemplates": false,
+    "enGB": "Armaments of the Empire",
+    "zhCN": "帝国武装"
+  },
+  {
+    "Key": "RadiantDawn.ArmamentsOfTheEmpire.Description",
+    "enGB": "A thin layer of akasha flows forth from you and covers your and your allies’ weapons and armor. While you maintain this stance, you empower the weapons and armor of allies within close range. Each empowered weapon gains the benefit of the Holy enchantment and +3 enhancement, and each empowered armor gains the benefit of +3 enhancement.",
+    "zhCN": "万物之识从你身上流出，覆盖你和你盟友的武器和盔甲。当你保持这个架势时，你可以增强近距离盟友的武器和盔甲。每件武器都获得神圣附魔和+3增强加值，每件强化盔甲都获得+3增强加值。"
+  },
+  {
+    "Key": "RadiantDawn.ArmamentsOfTheEmpire.Buff.Name",
+    "ProcessTemplates": false,
+    "enGB": "Armaments of the Empire",
+    "zhCN": "帝国武装"
+  },
+
+  {
+    "Key": "RadiantDawn.ArmamentsOfTheEmpire.Buff.Description",
+    "enGB": "A stance of the Radiant Dawn discipline.",
+    "zhCN": "辉晨派的武术架势。"
+  },
+  {
+    "Key": "RadiantDawn.ArmamentsOfTheEmpire.BuffEffect.Name",
+    "ProcessTemplates": false,
+    "enGB": "Armaments of the Empire - Effect",
+    "zhCN": "帝国武装 - 效果"
+  },
+
+  {
+    "Key": "RadiantDawn.ArmamentsOfTheEmpire.BuffEffect.Description",
+    "enGB": "Wears the Armaments of the Empire.",
+    "zhCN": "穿戴帝国武装。"
+  },
+  {
+    "Key": "RadiantDawn.BattleAgainstTheSun.Name",
+    "ProcessTemplates": false,
+    "enGB": "Battle Against the Sun",
+    "zhCN": "大日凌天"
+  },
+  {
+    "Key": "RadiantDawn.BattleAgainstTheSun.Description",
+    "enGB": "To challenge you is to challenge the sun itself: An exercise in futility. While you maintain this stance, you shed bright light, as if by a daylight spell, out to close range. At the start of each round, you emit a flash of light within your daylight range. Enemies within the area take damage equal to your initiator level + the number of rounds the combat has lasted. A successful Reflex save (DC 16 + initiation modifier) halves this damage. Allies caught within the light are instead healed for a number of hit points equal to your initiator level + the number of rounds the combat has lasted.",
+    "zhCN": "挑战你就是挑战太阳本身：徒劳而已。当你保持这个架势时，你会在近距离范围内发出明亮的光芒，如同昼明法术。每轮开始时，您都会在昼明范围内发出一道闪光。区域内的敌人受到的伤害等于你的武术家等级+战斗持续的轮数。成功的反射豁免（DC 16 + 武术属性调整）可将该伤害减半。与之相反，被光线包围的盟友会受到治疗，生命值等于你的武术家等级+战斗持续的轮数。"
+  },
+  {
+    "Key": "RadiantDawn.BattleAgainstTheSun.Buff.Name",
+    "ProcessTemplates": false,
+    "enGB": "Battle Against the Sun",
+    "zhCN": "大日凌天"
+  },
+
+  {
+    "Key": "RadiantDawn.BattleAgainstTheSun.Buff.Description",
+    "enGB": "A stance of the Radiant Dawn discipline.",
+    "zhCN": "辉晨派的武术架势。"
+  }
+]
