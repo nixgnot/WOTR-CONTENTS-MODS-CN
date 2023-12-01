@@ -3707,7 +3707,7 @@ C:\Users\你的用户名\AppData\LocalLow\Owlcat Games\Pathfinder Wrath Of The R
  <tr><th colspan="4">新增内容列表<br></th></tr> 
   <tr><td rowspan="14">武术流派</i></td>
        <td rowspan="14">辉晓 Radiant Dawn</td>
-	 <td rowspan="10">武技</td>
+	 <td rowspan="10">武技</td></tr>
 	 <td rowspan="4">架势</td>
   </tr>
 </table>   
