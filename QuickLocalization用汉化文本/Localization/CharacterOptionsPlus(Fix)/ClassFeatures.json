@@ -1,0 +1,102 @@
+[
+  {
+    "Key": "ArmoredMarauder.Name",
+    "ProcessTemplates": false,
+    "enGB": "Armored Marauder",
+    "zhCN": "装甲强袭"
+  },
+  {
+    "Key": "ArmoredMarauder.Description",
+    "enGB": "The slayer gains proficiency with heavy armor. In addition, the armor check penalty of any heavy armor the slayer wears is reduced by 1 for every 6 slayer levels he has.",
+    "zhCN": "杀手获得擅长重甲。此外，每6个杀手等级使其穿着重甲时防具检定减值-1。"
+  },
+
+  {
+    "Key": "ArmoredSwiftness.Name",
+    "ProcessTemplates": false,
+    "enGB": "Armored Swiftness",
+    "zhCN": "迅捷甲士"
+  },
+  {
+    "Key": "ArmoredSwiftness.Description",
+    "enGB": "A slayer with this talent can move at full speed in heavy armor. In addition, the maximum Dexterity bonus of heavy armor the slayer wears increases by 1 for every 6 class levels he has. A slayer must have the armored marauder slayer talent to select this talent.",
+    "zhCN": "拥有该绝技的杀手在穿着重甲时依然可以全速移动。此外每6个杀手等级使其穿着重甲时最大敏捷加值+1。杀手必须拥有装甲强袭才能学习此绝技。"
+  },
+
+  {
+    "Key": "IceTomb.Name",
+    "ProcessTemplates": false,
+    "enGB": "Ice Tomb",
+    "zhCN": "冰冢",
+    "ruRU": "Ледяной саркофаг"
+  },
+  {
+    "Key": "IceTomb.Description",
+    "enGB": "A storm of ice and freezing wind envelops the target, which takes 3d8 points of cold damage (Fortitude half). If the target fails its save, it is paralyzed and unconscious but does not need to eat or breathe while the ice lasts. Each round the target can break the ice with a successful Fortitude saving throw, after which it is staggered for 1d4 rounds. Whether or not the target’s saving throw is successful, it cannot be the target of this hex again for 1 day.",
+    "zhCN": "暴风雨和冻结的冰风笼罩目标，造成3d8点寒冷伤害（强韧豁免通过则减半）。如果目标豁免失败，他会麻痹并失去意识，但在冰封结束前的时间内并不需要进食或呼吸。冰有20点生命值，摧毁冰将使该生物恢复自由，但在被释放后仍将恍惚1d4轮。无论豁免成功与否，该生物在1天内都不会再次成为此巫术的目标。",
+    "ruRU": "Буря изо льда и морозного ветра погребает цель в ледяном саркофаге, нанося 3d8 урона холодом (половину при успешном спасброске Стойкости). Если цедь проваливает спасбросок, она оказывается парализована и без сознания, но не нуждается в еде и воздухе, пока находится внутри ледяного саркофага. Каждый раунд цель может разбить лёд и выбраться наружу при помощи успешного спкасброска Стойкости, но после этого цель остаётся ошеломлена на 1d4 раунда. Вне зависимости от того, был ли спасбросок успешен, цель становится невосприимчивой к данному заговору на 1 день."
+  },
+  {
+    "Key": "IceTomb.Cooldown.Name",
+    "ProcessTemplates": false,
+    "enGB": "Ice Tomb (Cooldown)",
+    "zhCN": "冰冢（冷却）",
+    "ruRU": "Ледяной саркофаг (кулдаун)"
+  },
+
+  {
+    "Key": "ShadowDuplicate.Name",
+    "ProcessTemplates": false,
+    "enGB": "Shadow Duplicate",
+    "zhCN": "影分身",
+    "ruRU": "Теневой двойник"
+  },
+  {
+    "Key": "ShadowDuplicate.Description",
+    "enGB": "Once per day as a swift action when the rogue is hit, the rogue creates a single shadow duplicate, as per mirror image. The shadow duplicate lasts for a number of rounds equal to the character’s level, or until the shadow duplicate is dispelled or destroyed. This ability does not stack with the mirror image spell. The caster level for this ability is equal to the character’s level. A rogue can use this ability one additional time per day for every 5 character levels she has (max 4).",
+    "zhCN": "每日一次，用一个迅捷动作，游荡者可以在被击中时制造一个阴影复制体，效果如同镜影术。阴影复制体持续轮数等于任务等级，或者直到其被驱散火破坏。这个能力不能和镜影术法术叠加。该能力的施法者等级等于角色等级。游荡者每5个角色等级可以每日额外多使用1次此能力（最大4次）。",
+    "ruRU": "Если вор пропускает удар, потратив Быстрое действие, он может сотворить одного теневого двойника наподобие зекрального. Теневой двойник существует в количестве раундов равном уровню персонажа или пока не будет развеян или уничтожен. Эта способность не суммируется с заклинанием Зеракльный Двойник. Уровень Заклинателя для этой способности равняется уровню персонажа. Вор получает возможность использовать эту способность второй раз за день на 10-ом уровне и за каждые последующие 5 уровней."
+  },
+
+  {
+    "Key": "ShimmeringMirage.Name",
+    "ProcessTemplates": false,
+    "enGB": "Shimmering Mirage",
+    "zhCN": "微光幻影",
+    "ruRU": "Зыбкий мираж"
+  },
+  {
+    "Key": "ShimmeringMirage.Description",
+    "enGB": "Element: water\nType: utility\nBurn: 1\nYour shroud bends light, creating a shimmering mirage. While your shroud of water is active, attacks against you suffer a 20% miss chance due to concealment until the next time your burn is removed.",
+    "zhCN": "元素：水\n类别：通用\n超载：1\n你的护罩能够偏折光线，形成闪亮的幻影。当你启动水之护罩后，对你进行的攻击会由于隐蔽而承受20%的失手率，直至你所承受的超载得以移除为止。",
+    "ruRU": "Элемент: вода\nТип: вспомогательный\nВыгорание: 1\nВаш Покров Воды преломляет свет, создавая эффект зыбкого миража. Пока ваш Покров Воды активен, атаки против вас получает 20% шанс промаха из-за маскировки до тез пор, пока вы снимете выгорание."
+  },
+
+  {
+    "Key": "SlowingStrike.Name",
+    "ProcessTemplates": false,
+    "enGB": "Slowing Strike",
+    "zhCN": "延缓打击",
+    "ruRU": "Замедляющий удар"
+  },
+  {
+    "Key": "SlowingStrike.Description",
+    "enGB": "An opponent damaged by the slayer's sneak attack has its speed halved for 1d4 rounds. A successful Fortitude saving throw negates this effect (DC = 10 + 1/2 of the slayer’s level + the slayer''s Intelligence modifier). If the slayer targets a creature already affected by this ability the duration of the effect is extended by 1d4 rounds.",
+    "zhCN": "被杀手通过偷袭伤害的对手速度将减半1d4轮。成功通过DC为“10+1/2杀手等级+智力修正”的强韧豁免将不受影响。若你以此能力命中已受影响的生物，其减速时间延长1d4轮。",
+    "ruRU": "Враг, которому Плач нанёс урон Атакой Исподтишка, передвигается в 2 раза медленней в течении 1d4 раундов. Успешный спасбросок Стойкости нейтрализует этот урон (сложность = 10 + 1/2 уровня Палача + показатель Интеллекта Палача). Если цель уже замедлена этим талантом, длительность эффекта продлевается на 1d4 раунда."
+  },
+
+  {
+    "Key": "Suffocate.WildTalent.Name",
+    "ProcessTemplates": false,
+    "enGB": "Suffocate",
+    "zhCN": "窒息",
+    "ruRU": "Удушение"
+  },
+  {
+    "Key": "Suffocate.WildTalent.Description",
+    "enGB": "Element: air, water\nType: utility\nBurn: 1\nSaving Throw: Fortitude negates\nSpell Resistance: yes\nAs a standard action you can accept 1 point of burn to expel the air from your target’s lungs. If you do so and the target fails its Fortitude save, it becomes disabled and is reduced to 0 hit points. If it fails another Fortitude save on the next round, it falls unconscious and is reduced to –1 hit points.",
+    "zhCN": "元素：气，水\n类别：通用\n超载：1\n豁免：强韧免除\n法术抗力： 是\n你用1个标准动作，承受1点超载将空气从目标的肺里排出去。如果目标强韧豁免失败，其将无法呼吸并且生命值降为0点。如果其下一回合另一次强韧豁免失败，其将昏迷，生命值降低至-1点。",
+    "ruRU": "Элемент: воздух \nТип: вспомогательный\nВыгорание: 1\nСпасбросок: Стойкость нейтрализует \nСпопротивление магии: да \nСтандартным действием вы можете принять 1 очко выгорания, чтобы исторгнуть весь воздух из лёгких выбранной цели. Если цель проваливает бросок, её здоровье опускается до 0 и она становится неспособна совершать действия. Если цель провалит ещё один спасбросок Стойкости в следующем раунде, её здоровье опустится до -1, и она потеряет сознание."
+  }
+]
