@@ -3701,7 +3701,16 @@ C:\Users\你的用户名\AppData\LocalLow\Owlcat Games\Pathfinder Wrath Of The R
 > *前置：* 无<br>
 > *中文：* 暂无<br>
 > *安装方式：* **UMM**<br>
-> *新增内容：* 战技流派<br>
+> *新增内容：* 战争之路<br>
++ 添加第三方资源战争之路中的武技系统。好评更新中
+<table>
+ <tr><th colspan="4">新增内容列表<br></th></tr> 
+  <tr><td rowspan="14">武术流派</i></td>
+       <td rowspan="14">辉晓 Radiant Dawn</td>
+	 <td rowspan="10">武技</td>
+	 <td rowspan="4">架势</td>
+  </tr>
+</table>   
 
 -------------------------------------------  
 ### [RandomEquipment](https://github.com/thehambeard/RandomEquipment)
