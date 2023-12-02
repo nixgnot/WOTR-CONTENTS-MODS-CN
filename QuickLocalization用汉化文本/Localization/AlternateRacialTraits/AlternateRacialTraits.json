@@ -219,4 +219,14 @@
     "ProcessTemplates": false,
     "zhCN": "具有此特性的土巨灵裔皮肤上覆盖着岩石，天生防御上获得+1种族加值。该特性替代能量抗性。"
   },
+  {
+    "Key": "AlternateRacialTraits.Features.HalfElf.EyeForOpportunity.DisplayName",
+    "ProcessTemplates": false,
+    "zhCN": "灵机之眼"
+  },
+  {
+    "Key": "AlternateRacialTraits.Features.HalfElf.EyeForOpportunity.Description",
+    "ProcessTemplates": false,
+    "zhCN": "不断在两个社会的边缘游走，一些半精灵擅长寻找那些被忽视的机会。他们在借机攻击上获得+1种族加值。该特性替代一技之长和敏锐直觉。"
+  },
 ]
