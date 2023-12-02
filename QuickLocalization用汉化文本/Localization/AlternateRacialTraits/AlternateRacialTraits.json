@@ -179,4 +179,44 @@
     "ProcessTemplates": false,
     "zhCN": "来自建立在高级魔法基础上的文明的人类会受到各种方式的教育，以实现他们的魔法追求。在穿透法术抗力的{g|Encyclopedia:Caster_Level}施法者等级{/g}{g|Encyclopedia:Check}检定{/g}上获得+2种族{g|Encyclopedia:Bonus}加值{/g}。本特性替换人类的奖励专长。"
   },
+  {
+    "Key": "AlternateRacialTraits.Features.Oread.OreadFeatureSelection.DisplayName",
+    "ProcessTemplates": false,
+    "zhCN": "种族替换特性"
+  },
+  {
+    "Key": "AlternateRacialTraits.Features.Oread.OreadFeatureSelection.Description",
+    "ProcessTemplates": false,
+    "zhCN": "有以下种族特性可选"
+  },
+  {
+    "Key": "AlternateRacialTraits.Features.Oread.NoAlternateTraits.DisplayName",
+    "ProcessTemplates": false,
+    "zhCN": "无"
+  },
+  {
+    "Key": "AlternateRacialTraits.Features.Oread.NoAlternateTraits.Description",
+    "ProcessTemplates": false,
+    "zhCN": "无替换特性"
+  },
+  {
+    "Key": "AlternateRacialTraits.Features.Oread.CrystallineForm.DisplayName",
+    "ProcessTemplates": false,
+    "zhCN": "水晶躯体"
+  },
+  {
+    "Key": "AlternateRacialTraits.Features.Oread.CrystallineForm.Description",
+    "ProcessTemplates": false,
+    "zhCN": "由于反射性的水晶躯体，具有此特性的土巨灵裔在对抗射线时，AC上获得+2种族加值。此外，每日一次，他们可以反射对其释放的单发射线，如同使用了拨挡飞箭专长。该特性替代强酸亲和。"
+  },
+  {
+    "Key": "AlternateRacialTraits.Features.Oread.GraniteSkin.DisplayName",
+    "ProcessTemplates": false,
+    "zhCN": "花岗岩肤"
+  },
+  {
+    "Key": "AlternateRacialTraits.Features.Oread.GraniteSkin.Description",
+    "ProcessTemplates": false,
+    "zhCN": "具有此特性的土巨灵裔皮肤上覆盖着岩石，天生防御上获得+1种族加值。该特性替代能量抗性。"
+  },
 ]
