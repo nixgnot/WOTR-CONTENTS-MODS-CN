@@ -1449,7 +1449,7 @@
   <tr><td>Two-Weapon Defense (Mythic) 双武器防御（神话）：双武器防御额外附加你的武器中增强加值较高者的增强加值作为盾牌AC</td></tr> 
   <tr><td>Warrior Priest (Mythic) 信仰战士（神话）：你在先攻和专注上获得神话等级一半的加值</td></tr> 
   <tr><td>Titan Strike 泰坦之力：徒手攻击的伤害骰提升一级。此外，你在你的所有战技检定和震慑拳的DC上附加你的对手的体型比中型大的级数作为加值</td></tr>   
-  <tr><td rowspan="23">神话能力</td>
+  <tr><td rowspan="25">神话能力</td>
       <td>Abundant Blessing 无穷祝福</td></tr>
   <tr><td>Abundant Bombs 无穷炸弹</td></tr>
   <tr><td>Abundant Lay On Hands 无穷圣疗</td></tr>
@@ -1473,6 +1473,8 @@
   <tr><td>Elemental Bond 元素联结：对某个元素的法术增加施法者等级并获得对应抗性</td></tr>
   <tr><td>Energy Conversion 能量转换：转换法术元素类型</td></tr>
   <tr><td>Mythic Bond 神话羁绊：加强游侠羁绊效果</td></tr>
+  <tr><td>Arcane Metamastery 奥术超魔熟稔：10轮内自动运用一个不超过2级的超魔</td></tr>
+  <tr><td>Greater Arcane Metamastery 高等奥术超魔熟稔：奥术超魔熟稔允许的超魔等级提升到4</td></tr>
   <tr><td rowspan="1">背景</td>
          <td>Lecturer 讲师： 将知识（世界）和沟通加入本职技能列表，并可以用智力取代魅力进行沟通检定</td></tr>         
   <tr><td rowspan="4">额外种族替换特性</td>
