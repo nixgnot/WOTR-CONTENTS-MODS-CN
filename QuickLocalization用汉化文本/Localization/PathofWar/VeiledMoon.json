@@ -1,0 +1,279 @@
+[
+  {
+    "Key": "VeiledMoon.Name",
+    "ProcessTemplates": false,
+    "zhCN": "朦月流",
+    "enGB": "Veiled Moon",
+  },
+  {
+    "Key": "VeiledMoon.Description",
+    "zhCN": "有如静止在池水中的月亮一般，朦月流的精神之道往往被视作一门神秘而又深奥的艺术，它的奥秘不但难以掌握，而且很难实践。这一流派的修习者常被认为实际上是“半入半出”的，因为他们看起来仿佛生活在两个不同的世界。但这其实与事实相距甚远，朦月流门徒凭借深层的冥想将他们的心灵同星界和灵界联系起来，并将其严密地整合为一套看起来如此超自然以至于近乎魔法的武艺，这种深奥的能力常常被误解。\n武术属性调整：敏捷",
+    "enGB": "As the stillness of the moon reflected upon a still pond, the spiritualist discipline of Veiled Moon is seen as a strange and esoteric art, whose mysteries are difficult to grasp, and even harder to practice! The practitioners of this discipline are said to be half-in, half-out due to the fact that they seem to be living in two worlds; in fact, this is not far from the truth.\nVeiled Moon disciples have grasped connections to the Astral and Ethereal planes in their mind through intense meditation and a spiritual devotion to learning the ways of spirits and the natural world, and blended them seamlessly into a martial art so supernatural that it borders on the magical. A potent, yet passive, discipline, its esoteric abilities are often misunderstood.\nInitiation Modifier: Dexterity",
+  },
+  {
+    "Key": "VeiledMoon.StanceOfTheEtherGate.Name",
+    "ProcessTemplates": false,
+    "zhCN": "次元门之姿",
+    "enGB": "Stance of the Ether Gate",
+  },
+  {
+    "Key": "VeiledMoon.StanceOfTheEtherGate.Description",
+    "zhCN": "通过将他的本质部分地转移至星界，门徒能如同在物质世界中移动一般轻松地穿越界域。当门徒处于这个架势时，她可以随意传送而不是移动。她的正常移动速度仍然适用。她必须清楚地看到自己的目的地才能传送到目的地。传送时使用者不得携带任何生物；只有她自己和她携带的装备。",
+    "enGB": "By shifting her essence partially into the Astral plane, the disciple finds that moving through that plane as just as easy as moving through the Material plane. While the disciple is in this stance, she may teleport instead of moving, at will. Her normal movement speed still applies. She must see her destination clearly to be able to teleport to it. The initiator may not take any creatures with her when teleporting; only herself and the gear she is carrying.",
+  },
+  {
+    "Key": "VeiledMoon.StanceOfTheEtherGate.Buff.Name",
+    "ProcessTemplates": false,
+    "zhCN": "次元门之姿",
+    "enGB": "Stance of the Ether Gate",
+  },
+  {
+    "Key": "VeiledMoon.StanceOfTheEtherGate.Buff.Description",
+    "zhCN": "折叠空间",
+    "enGB": "Space exists to be folded.",
+  },
+  {
+    "Key": "VeiledMoon.LunarPenumbra.Name",
+    "ProcessTemplates": false,
+    "zhCN": "月之半影",
+    "enGB": "Lunar Penumbra",
+  },
+  {
+    "Key": "VeiledMoon.LunarPenumbra.Description",
+    "zhCN": "在一些传说中，月亮被描绘为一位面带笑容的欺诈师，凭借这种强大的能力，朦月流门徒能够在他的敌人身上用出不可思议的技巧。使用者进行一次隐匿检定，对抗攻击者的察觉检定。若检定成功，他和攻击者将交换位置，并且指向门徒的攻击现在将转而影响攻击者，有效地让目标命中他自己。",
+    "enGB": "It is said that the moon is portrayed in some legends as a laughing trickster, and with this powerful ability, the Veiled Moon disciple is capable of pulling an incredible trick upon her foe. When targeted by an ability or spell, the initiator makes a Stealth check against her foe’s Perception check. If successful she and her attacker switch positions, and the ability or spell that was directed against the disciple now affects the attacker, effectively causing the target to strike itself.",
+  },
+  {
+    "Key": "VeiledMoon.LunarPenumbra.Buff.Name",
+    "ProcessTemplates": false,
+    "zhCN": "月之半影",
+    "enGB": "Lunar Penumbra",
+  },
+  {
+    "Key": "VeiledMoon.LunarPenumbra.Buff.Description",
+    "zhCN": "几乎与阴影无异",
+    "enGB": "Almost a shadow.",
+  },
+  {
+    "Key": "VeiledMoon.EclipsingMoon.Name",
+    "ProcessTemplates": false,
+    "zhCN": "月食",
+    "enGB": "Eclipsing Moon",
+  },
+  {
+    "Key": "VeiledMoon.EclipsingMoon.Description",
+    "zhCN": "毫不费力地弯折空间，门徒能够穿越空间并以一连串银蓝色的冲击穿越世界之间的屏障发起攻击，他的影像将如同他的攻击一般闪烁不定。以一个全回合攻击动作，使用者可以攻击一个目标并传送至一个距离不超过他的基本陆地速度的新目标，再次发起攻击，每次攻击都对应目标的措手不及AC，他能够多次重复这一流程，最多等同于他在全回合攻击中所能做出的攻击次数（包括副手攻击和次要攻击）。他可以多次攻击同一个目标，但每次传送的位置必须允许他攻击一个目标生物（他必须在每次传送结束时进行攻击）。如果敌人死于其中一次攻击，她将获得额外的攻击次数。",
+    "enGB": "Folding space around her form effortlessly, the disciple is capable of leaps through the ether and attacking through the barrier between the worlds in a series of staccato bursts of silvery-blue light, her image blinking as she strikes. As a full action, the initiator may make an attack against a target and then teleport a distance up to her movement speed to a new target to strike again, and each attack is made against the target’s flat-footed armor class. She may do this a number of times equal to the number of attacks she possesses on a full attack action (including off hand attacks or secondary attacks), and may select the same target for each attack. If an enemy dies to one of these attacks, she gains an additional attack.",
+  },
+  {
+    "Key": "VeiledMoon.EclipsingMoon.Buff.Name",
+    "ProcessTemplates": false,
+    "zhCN": "月食",
+    "enGB": "Eclipsing Moon",
+  },
+  {
+    "Key": "VeiledMoon.EclipsingMoon.Buff.Description",
+    "zhCN": "在两个世界之间舞动",
+    "enGB": "Dancing between worlds.",
+  },
+  {
+    "Key": "VeiledMoon.FlashingEtherTouch.Name",
+    "ProcessTemplates": false,
+    "zhCN": "闪现之触",
+    "enGB": "Flashing Ether Touch",
+  },
+  {
+    "Key": "VeiledMoon.FlashingEtherTouch.Description",
+    "zhCN": "以一次接触，朦月流门徒能令一个敌人高速穿过星界并以惊人的速度撞在地上。使用者对目标进行一次近战接触攻击，若攻击命中，目标必须通过意志豁免（DC17+关键属性调整值）否则将被传送最多60尺远。成功的豁免检定能令招式失效，若豁免失败，目标将因为高速撞击地面而承受10d6点伤害并倒地。",
+    "enGB": "With but a touch the Veiled Moon disciple may send a foe hurtling through the Astral to reappear with frightening velocity to hit the ground. The initiator makes a melee touch against a target, teleporting them away. The target makes a Reflex save (DC 17 + initiation modifier). Upon a failed saving throw, the target suffers 10d6 points of damage from reaching high speeds and slamming hard into the ground and is considered prone.",
+  },
+  {
+    "Key": "VeiledMoon.FadeThrough.Name",
+    "ProcessTemplates": false,
+    "zhCN": "逝形穿梭",
+    "enGB": "Fade Through",
+  },
+  {
+    "Key": "VeiledMoon.FadeThrough.Description",
+    "zhCN": "这是一种高级的技巧，朦月流门徒学会了如何在心脏跳动的一拍之间从一个地点传送到另一位置。使用者可以以一个迅捷动作传送最多不超过他的基本陆地速度的两倍的距离。",
+    "enGB": "An advanced technique, the Veiled Moon disciple at this point learns how to fold two points in space around her to appear at another location within the span of a heart beat. The initiator may teleport to a location up to twice her movement speed away as a swift action.",
+  },
+  {
+    "Key": "VeiledMoon.TwistingEther.Name",
+    "ProcessTemplates": false,
+    "zhCN": "次元回转",
+    "enGB": "Twisting Ether",
+  },
+  {
+    "Key": "VeiledMoon.TwistingEther.Description",
+    "zhCN": "向他的盟友点头示意，朦月流大师能够与他的盟友一同穿过世界，交换彼此的位置，以便在战斗中取得更好的效果。以一个迅捷动作，使用者可以指定30尺范围内的一位自愿的盟友，并通过传送与他交换位置。",
+    "enGB": "With a nod to her ally, the Veiled Moon adept may sink through the world with her ally and switch places with her for better effect in combat. As a swift action, the initiator may designate a willing ally within 30-ft. and swap places with them via teleportation.",
+  },
+  {
+    "Key": "VeiledMoon.AnchoringSpirit.Name",
+    "ProcessTemplates": false,
+    "zhCN": "锚定灵魂",
+    "enGB": "Anchoring Spirit",
+  },
+  {
+    "Key": "VeiledMoon.AnchoringSpirit.Description",
+    "zhCN": "朦月流门徒将自身完全拉入灵界，并在物质世界中显现出自己的一个幽灵投影，他可以借此锁定附近区域的灵界与星界移动。当处于此架势中时，使用者获得虚体亚种，且他身边30尺范围内所有敌人使用（传送）类效果的尝试都有可能失败。一旦离开此架势的影响范围，生物便不再受到影响。",
+    "enGB": "The Veiled Moon disciple pulls herself fully into the Ethereal and manifests a ghostly apparition of her form upon the Material, and in doing so she locks her immediate area for travel through the Ethereal or Astral plane. While in this stance, the initiator gains the incorporeal subtype and any enemies within 30-ft. of her position who attempt to use an effect with the (teleportation) type fail. Once outside of this stance’s range, creatures are no longer affected. ",
+  },
+  {
+    "Key": "VeiledMoon.AnchoringSpirit.Buff.Name",
+    "ProcessTemplates": false,
+    "zhCN": "锚定灵魂",
+    "enGB": "Anchoring Spirit",
+  },
+
+  {
+    "Key": "VeiledMoon.AnchoringSpirit.Buff.Description",
+    "zhCN": "以太领域之主",
+    "enGB": "Master of the Ethereal Realm.",
+  },
+  {
+    "Key": "VeiledMoon.AnchoringSpirit.BuffEffect.Name",
+    "ProcessTemplates": false,
+    "zhCN": "锚定灵魂-效果",
+    "enGB": "Anchoring Spirit - Effect",
+  },
+
+  {
+    "Key": "VeiledMoon.AnchoringSpirit.BuffEffect.Description",
+    "zhCN": "锚定物质位面",
+    "enGB": "Anchored to the Material Plane.",
+  },
+  {
+    "Key": "VeiledMoon.WarpWorm.Name",
+    "ProcessTemplates": false,
+    "zhCN": "歪曲虫洞",
+    "enGB": "Warp Worm",
+  },
+  {
+    "Key": "VeiledMoon.WarpWorm.Description",
+    "zhCN": "通过在物质世界与灵界之间打开暂时的缺口，门徒能够传送穿过数个敌人，并引发世界间的裂隙来对他的敌人造成巨大伤害。使用者传送到所选的目标，然后传送到距第一个目标最近的敌人，并对第三个目标也重复此流程，对受影响的敌人造成 10d6 点力场伤害，通过意志豁免可以减半（DC 17 + 武术调整值）。 结束了对最后一个目标的攻击之后，门徒出现在最后的目标的背后10尺处以结束她的回合。",
+    "enGB": "By creating temporary breaches between the worlds of the Material and the Astral, the disciple may teleport through a few enemies and emerge from the space between worlds having done her foes great internal harm. The initiator teleports to the target, then to the next closest enemy from the first, and then the same for a third target, inflicting 10d6 points of force damage to those affected, halved by a Will save (DC 17 + initiation modifier). After the final target, the disciple teleports 10 ft. behind them to finish her turn.",
+  },
+  {
+    "Key": "VeiledMoon.Ghostwalk.Name",
+    "ProcessTemplates": false,
+    "zhCN": "幽灵步",
+    "enGB": "Ghostwalk",
+  },
+  {
+    "Key": "VeiledMoon.Ghostwalk.Description",
+    "zhCN": "使用者的步伐穿越了物质世界与灵界的边疆，在短暂的时间中化作一片同时处于两种现实之间的无形轮廓。直到他的下个行动轮开始时，使用者获得虚体亚种。",
+    "enGB": "The initiator steps through to the borderland between the Material and the Ethereal planes, becoming an incorporeal figure in both realities for a few moments. Until the beginning of her next turn, the initiator gains the incorporeal subtype.",
+  },
+  {
+    "Key": "VeiledMoon.Ghostwalk.Buff.Name",
+    "ProcessTemplates": false,
+    "zhCN": "虚体",
+    "enGB": "Incorporeal",
+  },
+  {
+    "Key": "VeiledMoon.Ghostwalk.Buff.Description",
+    "zhCN": "虚体",
+    "enGB": "Incorporeal.",
+  },
+  {
+    "Key": "VeiledMoon.DimensionalStrike.Name",
+    "ProcessTemplates": false,
+    "zhCN": "维度打击",
+    "enGB": "Dimensional Strike",
+  },
+  {
+    "Key": "VeiledMoon.DimensionalStrike.Description",
+    "zhCN": "通过在两个世界之间轻微移动，门徒能够混淆敌人的感觉，从而更容易地让他的攻击命中。此招式的使用者能让他的敌人对这次攻击措手不及。",
+    "enGB": "By shifting slightly between two worlds, the disciple confuses the senses of her foe so she may land her attack more easily. The initiator causes her foe to be flat-footed to this attack.",
+  },
+  {
+    "Key": "VeiledMoon.FormlessDance.Name",
+    "ProcessTemplates": false,
+    "zhCN": "无形之舞",
+    "enGB": "Formless Dance",
+  },
+  {
+    "Key": "VeiledMoon.FormlessDance.Description",
+    "zhCN": "朦月流门徒能够沉浸在维度之间，令他能够看见那些无法被感知到的东西，并且看起来似乎同时处于许多不同的位置。当处于此架势中时，门徒获得识破隐形（see invisibility）和朦胧术（blur）法术的好处。",
+    "enGB": "The Veiled Moon disciple immerses herself in a sort of dimensional flux, causing her to be able to see what cannot be perceived and seemingly be in many places at once. While in this stance, the initiator gains the benefits of the see invisibility spell and the blur spell.",
+  },
+  {
+    "Key": "VeiledMoon.FormlessDance.Buff.Name",
+    "ProcessTemplates": false,
+    "zhCN": "无形之舞",
+    "enGB": "Formless Dance",
+  },
+  {
+    "Key": "VeiledMoon.FormlessDance.Buff.Description",
+    "zhCN": "于维度之间",
+    "enGB": "In dimensional flux.",
+  },
+  {
+    "Key": "VeiledMoon.SpiritualWeaponStance.Name",
+    "ProcessTemplates": false,
+    "zhCN": "灵魂武器之姿",
+    "enGB": "Spiritual Weapon Stance",
+  },
+  {
+    "Key": "VeiledMoon.SpiritualWeaponStance.Description",
+    "zhCN": "通过将灵界能量穿导致他的武器与躯体，使用者沉浸在两个世界之中，在灵界中变得有如在物质世界中一般坚硬。当处于此架势中时，使用者的武器如同具有幽冥特性一般处理，并且他的攻击能造成额外2d6点力场伤害。这些来自灵界的能量能起到减缓法术攻击的作用，给予门徒5+等级点的法术抗力。",
+    "enGB": "By channeling ethereal energies along her weapons and her body, the initiator becomes immersed in both worlds, being as solid on the Ethereal Plane as she is on the Material. While in this stance, the initiator’s weapons are treated as if they had the ghost touch property and her attacks inflict an additional 2d6 points or force damage. This empowerment from the Ethereal plane also acts a buffer against magical attacks, granting the disciple spell resistance equal to 5 + her level.",
+  },
+  {
+    "Key": "VeiledMoon.SpiritualWeaponStance.Buff.Name",
+    "ProcessTemplates": false,
+    "zhCN": "灵魂武器之姿",
+    "enGB": "Spiritual Weapon Stance",
+  },
+  {
+    "Key": "VeiledMoon.SpiritualWeaponStance.Buff.Description",
+    "zhCN": "笼罩在灵界能量之中",
+    "enGB": "Wreathed in Ethereal energies.",
+  },
+  {
+    "Key": "VeiledMoon.DispersalStrike.Name",
+    "ProcessTemplates": false,
+    "zhCN": "消散打击",
+    "enGB": "Dispersal Strike",
+  },
+  {
+    "Key": "VeiledMoon.DispersalStrike.Description",
+    "zhCN": "伴随着强力的打击与银蓝色的闪光，门徒能够直接将他的敌人打入灵界，使其暂时变为虚幻的幽灵。使用者对目标生物进行一次攻击，若攻击命中，则能造成额外6d6点力场伤害，且目标在1d4轮中获得虚体亚种。此招式对已经是虚体的目标没有效果。",
+    "enGB": "With a powerful strike and flash of silver-blue light, the disciple slams her foe directly into the Ethereal for a few moments, causing it to become ghostly and unreal. The initiator makes an attack on a target creature and if successful, the strike inflicts 6d6 additional force damage, and the target gains the incorporeal subtype for 1d4 rounds. This strike does not function on targets who already possess the incorporeal subtype.",
+  },
+  {
+    "Key": "VeiledMoon.VaporformCrash.Name",
+    "ProcessTemplates": false,
+    "zhCN": "虚体破碎",
+    "enGB": "Vaporform Crash",
+  },
+  {
+    "Key": "VeiledMoon.VaporformCrash.Description",
+    "zhCN": "朦月流教导它的门徒如何平衡两个世界之间的尺度，从而让一个敌人真正地处于物质世界，而门徒则必须短暂地停留在另一边。门徒对一个虚体目标进行一次近战攻击，若攻击命中，目标将在1d4轮间失去虚体亚种，并承受18d6点力场伤害，门徒在 1d4 轮内获得虚体亚种。",
+    "enGB": "The Veiled Moon teaches that its disciples must know how to balance the scales between both worlds, so to make a foe real in the Material world, then the disciple must briefly sojourn to the other side. The disciple makes a melee attack against an incorporeal target, and if successful the target loses their incorporeal subtype for 1d4 rounds and takes 18d6 points of force damage. The disciple gains the incorporeal subtype for 1d4 rounds.",
+  },
+  {
+    "Key": "VeiledMoon.VaporformCrash.Buff.Name",
+    "ProcessTemplates": false,
+    "zhCN": "虚体破碎",
+    "enGB": "Vaporform Crashed",
+  },
+  {
+    "Key": "VeiledMoon.VaporformCrash.Buff.Description",
+    "zhCN": "压制虚体",
+    "enGB": "Incorporeality suppressed.",
+  },
+  {
+    "Key": "VeiledMoon.EtherealReminiscence.Name",
+    "ProcessTemplates": false,
+    "zhCN": "飘渺回忆",
+    "enGB": "Ethereal Reminiscence",
+  },
+  {
+    "Key": "VeiledMoon.EtherealReminiscence.Description",
+    "zhCN": "灵界的位面特性允许朦月流门徒将他自己短暂地传送至这片领域，并将他的精神力量注入伤口之中，运用他的意志恢复他的形体，在虚体状态下的一个标准动作，使用者可以恢复两倍于隐匿技能等级的生命值。",
+    "enGB": "The ectoplasmic nature of beings on the Ethereal plane allows for the Veiled Moon disciple to use her will to restore her form by filling her wounds with spectral energies. As a standard action while incorporeal, the initiator may restore twice her ranks in Stealth in hit points to herself.",
+  }
+]

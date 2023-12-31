@@ -1,0 +1,46 @@
+﻿[
+  {
+    "Key": "PathofWar.Selection.Name",
+    "ProcessTemplates": false,
+    "enGB": "The Art of the Blade",
+    "zhCN": "剑刃艺术"
+  },
+  {
+    "Key": "PathofWar.Selection.Description",
+    "enGB": "Choose a Martial Discipline. The maneuvers in a discipline are usually linked by common effects, philosophies, or functions. Each discipline is tied to a certain skill that might be used in the execution of some of its maneuvers.",
+    "zhCN": "选择一个武术流派。每个流派中的武技通常都具有相互关联的效果、哲学思想或者功能。每个武术流派都和某项技能相关，并利用这项技能来执行某些武技。"
+  },
+  {
+    "Key": "PathofWar.Progression.Name",
+    "ProcessTemplates": false,
+    "enGB": "Maneuvers and Stances",
+    "zhCN": "武技和架势"
+  },
+  {
+    "Key": "PathofWar.Progression.Description",
+    "enGB": "You may learn new maneuvers and stances as you level up.",
+    "zhCN": "你可以在升级时获得新的武技和架势。"
+  },
+  {
+    "Key": "PathofWar.Maneuver.Name",
+    "ProcessTemplates": false,
+    "enGB": "Martial Maneuvers",
+    "zhCN": "武技"
+  },
+  {
+    "Key": "PathofWar.Maneuver.Description",
+    "enGB": "You may learn a maneuver that you meet the prerequisites for.",
+    "zhCN": "你可以学习满足前提条件的武技。"
+  },
+  {
+    "Key": "PathofWar.Stance.Name",
+    "ProcessTemplates": false,
+    "enGB": "Martial Stances",
+    "zhCN": "架势"
+  },
+  {
+    "Key": "PathofWar.Stance.Description",
+    "enGB": "You may learn a stance that you meet the prerequisites for.",
+    "zhCN": "你可以学习满足前提条件的架势。"
+  }
+]
