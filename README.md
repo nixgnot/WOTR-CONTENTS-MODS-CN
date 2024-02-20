@@ -3696,6 +3696,40 @@ C:\Users\你的用户名\AppData\LocalLow\Owlcat Games\Pathfinder Wrath Of The R
  <tr><th colspan="2">新增内容列表<br></th></tr> 
   <tr><td rowspan="1">职业</i></td>
        <td rowspan="1">召唤师 Summoner Mod</td></tr>
+  <tr><td rowspan="15">法术</i></td>
+	<td rowspan="1">召唤次级怪物<br>Summon Minor Monster</td>
+	<td rowspan="1">这个法术类似召唤一级怪物，但是你可以召唤1d3只超小型或更小的动物。</i></td>
+	<tr><td rowspan="1">召唤狂躁邪魔<br>Summon Cacodaemon</td>
+        <td rowspan="1">这个法术类似召唤怪物，除了它只能召唤一个狂躁邪魔。</i></td>
+        <tr><td rowspan="1">高等召唤狂躁邪魔<br>Summon Cacodaemon, Greater</td>
+	<td rowspan="1">这个法术类似召唤狂躁邪魔，除了它能召唤1d4＋1只狂躁邪魔。</i></td>
+	<tr><td rowspan="1">飞虫走兽<br>Summon Swarm</td>
+        <td rowspan="1">你可以召唤一个蜘蛛集群来攻击它所在区域内的所有生物 (你可以召唤这些集群并于其他其他生物共用同一片区域内)。</i></td>
+	<tr><td rowspan="1">萌龙仆从<br>Draconic Ally</td>
+	<td rowspan="1">你创造一个有智力的半生命体，这种萌龙仆从可以忠诚地服从和侍奉你。</i></td>
+	<tr><td rowspan="1">召唤次级恶魔<br>Summon Lesser Demon</td>
+	<td rowspan="1">这个法术类似召唤怪物，除了它能召唤一个火灾魔，一个梦魔，1d3个希尔魔或者1d4个虫裂魔。</i></td>
+	<tr><td rowspan="1">召唤狂野兽群<br>Summon Stampede</td>
+	<td rowspan="1">这个法术类似召唤怪物，除了它召唤1d4＋4匹马。这些马不会攻击敌人，但会不断在战场移动，包围敌人并造成伤害。</i></td>
+	<tr><td rowspan="1">关门放狗<br>Release The Hounds</td>
+	<td rowspan="1">这个法术类似召唤怪物，除了它能召唤1d4＋4只霜狼。这些霜狼不会攻击敌人，但会不断在战场移动，包围敌人并造成伤害。</i></td>
+	<tr><td rowspan="1">召唤怒魔<br>Summon Erinyes</td>
+	<td rowspan="1">这个法术类似召唤怪物，除了它能召唤一个怒魔。</i></td>
+	<tr><td rowspan="1">召唤饥馑邪魔<br>Summon Meladaemon</td>
+	<td rowspan="1">这个法术类似召唤怪物，除了它能召唤一个饥馑邪魔。</i></td>
+	<tr><td rowspan="1">黑触手<br>Black Tentacles</td>
+	<td rowspan="1">这个法术产生一片具有韧性的黑色触手，它们从地上涌起并伸向区域内的任何生物，每轮对生物进行一次擒抱战技检定。</i></td>
+	<tr><td rowspan="1">地狱治疗<br>Infernal Healing</td>
+	<td rowspan="1">你以魔鬼血液或诅咒邪水涂抹受伤生物，使其获得1快速治疗。</i></td>
+        <tr><td rowspan="1">高等地狱治疗<br>Infernal Healing, Greater</td>
+	<td rowspan="1">你以魔鬼血液或诅咒邪水涂抹受伤生物，使其获得4快速治疗。</i></td>
+        <tr><td rowspan="1">激情四溢<br>Overstimulate</td>
+	<td rowspan="1">你使一个目标获得凶猛（ferocity）能力。</i></td>
+ 	<tr><td rowspan="1">幻灵重塑术<br>Transmogrify</td>
+  	<td rowspan="1">该法术允许你通过将幻灵的进化池分配给新的进化，来改变它当前的任何进化。</i</td>
+	
+ 
+	
 </table>    
 
 -------------------------------------------  
@@ -3707,8 +3741,9 @@ C:\Users\你的用户名\AppData\LocalLow\Owlcat Games\Pathfinder Wrath Of The R
 + 添加第三方资源战争之路中的武技系统。好评更新中
 <table>
  <tr><th colspan="2">新增内容列表<br></th></tr> 
-  <tr><td rowspan="1">武术流派</i></td>
+  <tr><td rowspan="2">武术流派</i></td>
        <td rowspan="1">辉晨 Radiant Dawn</td>
+	<tr><td rowspan="1">朦月 Veiled Moon</td>
   </tr>
 </table>   
 
