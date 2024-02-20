@@ -3561,13 +3561,72 @@ C:\Users\你的用户名\AppData\LocalLow\Owlcat Games\Pathfinder Wrath Of The R
 > *新增内容：* 进阶职业<br>
 <table>
  <tr><th colspan="3">新增内容列表<br></th></tr> 
-  <tr><td rowspan="3">变体</i></td>
-       <td rowspan="3">战士 Fighter</td>
+  <tr><td rowspan="35">变体</i></td>
+       <td rowspan="3">炼金术师 Alchemist</td>
+       <td>构装骑士 Construct Rider</td></tr>
+       <tr><td>内修药师 Internal Alchemist</td></tr>
+       <tr><td>科学狂人 Mad Scientist</td></tr>
+       <td rowspan="1">奥能师 Arcanist</td>
+       <td>御天使 Aeromancer</td></tr>
+       <td rowspan="1">吟游诗人 Brad</td>
+       <td>杂耍者 Juggler</td></tr>
+       <td rowspan="1">野蛮人 Barbarian</td>
+       <td>醉蛮 Drunken Brute</td></tr>
+       <td rowspan="1">血脉狂怒者 Bloodrager</td>
+       <td>狂血导魔者 Blood Conduit</td></tr>
+       <td rowspan="2">骑将 Cavalier</td>
+       <td>警长 Constable</td></tr>
+       <tr><td>先锋使者 Emissary</td></tr>
+       <td rowspan="1">牧师 Cleric</td>
+       <td>神圣典范 Divine Paragon</td></tr>
+       <td rowspan="4">德鲁伊 Druid</td>
+       <td>立石贤者 Menhir Savant</td></tr>
+       <tr><td>平原德鲁伊 Plains Druid</td></tr>
+       <tr><td>真菌朝圣者 Fungal Pilgrim</td></tr>
+       <tr><td>毒理学家 Toxicologist</td></tr>
+       <td rowspan="6">战士 Fighter</td>
        <td>奥法卫士 Eldritch Guardian</td></tr>
        <tr><td>学识守卫 Lore Warden</td></tr>
+       <tr><td>晨花狂舞者 Dawnflower Dervish</td></tr>
        <tr><td>战争领主 Warlord</td></tr>
-  <tr><td rowspan="14">进阶职业</i></td>
+       <tr><td>御林铁卫 High Guardian</td></tr>
+       <tr><td>武器大师 Weapon Master</td></tr>
+       <td rowspan="1">魔战士 Magus</td>
+       <td>尖塔防卫者 Drunken Brute</td></tr>
+       <td rowspan="3">武僧 Monk</td>
+       <td>战技宗师 Maneuver Master</td></tr>
+       <tr><td>拆招僧 Master of Many Styles</td></tr>
+       <tr><td>执械僧 Weapon Adept</td></tr>
+       <td rowspan="1">先知 Oracle</td>
+       <td>真理追寻者 Truth Seeker</td></tr>
+       <td rowspan="1">圣武士 Paladin</td>
+       <td>光耀骑士 Shining Knight</td></tr>
+       <td rowspan="3">游侠 Ranger</td>
+       <td>神射手 Divine Marksman</td></tr>
+       <tr><td>守巫人 Witchguard</td></tr>
+       <tr><td>渗透者 Infiltrator</td></tr>
+       <td rowspan="1">游荡者 Rogue</td>
+       <td>巴克雅尔绑匪 Kidnapper</td></tr>
+       <td rowspan="1">歌者 Skald</td>
+       <td>天命勇者 Fated Champion</td></tr>
+       <td rowspan="1">术士 Sorcerer</td>
+       <td>真理追寻者 Truth Seeker</td></tr>
+       <td rowspan="1">战斗祭司 Warpriest</td>
+       <td>神伐先勇 Divine Champion</td></tr>
+       <td rowspan="2">巫师 Witch</td>
+       <td>白发魔女 White-Haired Witch</td></tr>
+       <tr><td>卡牌占卜师 Cartomancer</td></tr>
+  <tr><td rowspan="23">进阶职业</i></td>
        <td colspan="2">骑士 Chevalier</td></tr>
+	<tr><td colspan="2">绯红圣教军 Crimson Templar</td></tr>
+       <tr><td colspan="2">晨花隐者 Dawnflower Anchorite</td></tr>
+       <tr><td colspan="2">秘契骑士 Esoteric Knight</td></tr>
+       <tr><td colspan="2">妩媚交际花 Enchanting Courtesan</td></tr>
+       <tr><td colspan="2">传道者 Evangelist</td></tr>
+       <tr><td colspan="2">狂怒卫士 Furious Guardian</td></tr>
+       <tr><td colspan="2">狮子剑 Lion Blade</td></tr>
+       <tr><td colspan="2">信仰哨卫 Sentinel</td></tr>
+       <tr><td colspan="2">魂饮者 Souldrinker</td></tr>
        <tr><td colspan="2">后继者远征骑士 Inheritor’s Crusader</td></tr>
        <tr><td colspan="2">影舞者 Shadowdancer</td></tr>
        <tr><td colspan="2">墓穴使徒 Agent of the Grave</td></tr>
@@ -3581,12 +3640,68 @@ C:\Users\你的用户名\AppData\LocalLow\Owlcat Games\Pathfinder Wrath Of The R
        <tr><td colspan="2">亚萨维尔 Asavir</td></tr>
        <tr><td colspan="2">半身任侠 Halfling Opportunist</td></tr>
        <tr><td colspan="2">龙怒狂徒 Dragon Fury</td></tr>
-  <tr><td rowspan="4">职业特性和其他</i></td>
-       <td>游荡者天赋</td><td>防御翻滚 Defensive Roll<br>房规改动，加入类似屹立不倒的效果</td></tr>
+  <tr><td rowspan="30">职业特性和其他</i></td>
+       <tr><td rowspan="7">狂暴之力 Rage Power</td></tr>
+       <td>醉怒狂吼 Roaring Drunk</td></tr>
+       <td>勇气之水 Liquid Courage</td></tr>
+       <td>可怖怒视 Intimidating Glare</td></tr>
+       <td>返祖 Atavism</td></tr>
+       <td>高等返祖 Greater Atavism</td></tr>
+       <td>怒涛狂涌 Strength Surge</td></tr>
+       <tr><td rowspan="6">魔战士奥能 Magus Arcana</td></tr>
+       <td>战技掌控 Maneuver Mastery</td></tr>
+       <td>魔宠 Familiar</td></tr>
+       <td>及远法术打击 Reach Spellstrike</td></tr>
+       <td>近程法术打击 Close Range</td></tr>
+       <td>扰法者 Disruptive</td></tr>
+       <tr><td rowspan="3">气力 Ki Power</td></tr>
+       <td>气力：一指禅 One Touch</td></tr>
+       <td>气力：凌波微步 Freedom of Movement</td></tr>
+       <tr><td rowspan="7">游荡者天赋 Rogue Talents</td></tr>
+       <td>防御翻滚 Defensive Roll<br>房规改动，加入类似屹立不倒的效果</td></tr>
+       <td>改日再死 Another Day</td></tr>
+       <td>密集暗影 Cloying Shades</td></tr>
+       <td>疾速射击 Quick Shot</td></tr>
+       <td>战技偷袭 Sneaky Maneuver</td></tr>
+       <td>忍术 Ninja Trick</td></tr>
+       <tr><td rowspan="4">裁决域 Inquisition</td></tr>
+       <td>灭法审判域 Spellkiller Inquisition</td></tr>
+       <td>革新审判域 Reformation Inquisition</td></tr>
+       <td>策略审判域 Tactics Inquisition</td></tr>
        <tr><td>魔宠</td><td>蟹王 Crab King</td></tr>
        <tr><td>炼金科研发现</td><td>触手 Tentacle</td></tr>
-       <tr><td>狂暴之力</td><td>怒涛狂涌 Strength Surge</td></tr>
-  <tr><td rowspan="17">专长</i></td>
+  <tr><td rowspan="26">崇神仪典 Deific Obedience</i></td>
+	 <tr><td>拉贾瑟尔 Ragathiel</td><td>需要信仰拉贾瑟尔（Expanded Content）或守序善良</td></tr>
+  	 <tr><td>雪琳（信仰哨卫） Shelyn (Sentinel)</td><td>需要信仰雪琳或中立善良</td></tr>
+  	 <tr><td>奈德丽（信仰哨卫） Naderi (Sentinel)</td><td>需要信仰奈德丽或中立</td></tr>
+  	 <tr><td>德丝娜 Desna</td><td>需要信仰德丝娜或混乱善良</td></tr>
+  	 <tr><td>艾若斯提 Erastil</td><td>需要信仰艾若斯提或守序善良</td></tr>
+  	 <tr><td>格鲁姆（信仰哨卫） Gorum (Sentinel)</td><td>需要重甲熟练和信仰格鲁姆或混乱中立</td></tr>
+  	 <tr><td>玛哈萨拉（大尊者） Mahathallah (Exalted)</td><td>需要信仰阿司莫迪斯或守序邪恶</td></tr>
+  	 <tr><td>诺格巴 Norgorber</td><td>需要信仰诺格巴或中立邪恶</td></tr>
+  	 <tr><td>拉玛什图（大尊者） Lamashtu (Exalted)</td><td>需要信仰拉玛什图或混乱邪恶</td></tr>
+  	 <tr><td>奥托门斯 Otolmens</td><td>需要信仰奥托门斯或守序中立</td></tr>
+  	 <tr><td>亚拉兹妮（信仰哨卫） Arazni (sentinel)</td><td>需要信仰乌伽娑婀或中立邪恶</td></tr>
+  	 <tr><td>卡戎（信仰哨卫） Charon (Sentinel)</td><td>需要信仰卡戎（Expanded Content）或中立邪恶</td></tr>
+  	 <tr><td>祖瑞尔（信仰哨卫） Szuriel (sentinel)</td><td>需要信仰祖瑞尔（Expanded Content）或中立邪恶</td></tr>
+  	 <tr><td>艾奥梅黛（信仰哨卫） Iomedae (sentinel)</td><td>需要信仰艾奥梅黛或守序善良</td></tr>
+  	 <tr><td>美洛妮（信仰哨卫） Milani (sentinel)</td><td>需要信仰美洛妮（Expanded Content）或混乱善良</td></tr>
+  	 <tr><td>妮维（大尊者） Nivi (exalted)</td><td>需要信仰托拉格或中立</td></tr>
+  	 <tr><td>索克斯贝诺（信仰哨卫） Socothbenoth (sentinel)</td><td>需要信仰吉罗娜或混乱邪恶</td></tr>
+  	 <tr><td>法蕾娜 Falayna</td><td>需要信仰法蕾娜（Expanded Content）或守序善良</td></tr>
+  	 <tr><td>卡怖厉厉（大尊者） Kabriri (exalted)</td><td>需要信仰卡怖厉厉（Expanded Content）或混乱邪恶</td></tr>
+      	 <tr><td>查尔迪菈（信仰哨卫） Chaldira (sentinel)</td><td>需要一级盗贼和信仰莎恩芮或中立善良</td></tr>
+      	 <tr><td>璞露拉 Pulura</td><td>需要信仰璞露拉或混乱善良</td></tr>
+      	 <tr><td>洛瓦古格 Rovagug</td><td>需要信仰洛瓦古格或混乱邪恶</td></tr>
+      	 <tr><td>灯王 The Lantern King</td><td>需要信仰灯王（Expanded Content）或混乱中立</td></tr>
+      	 <tr><td>哥兹莱（大尊者） Gozreh (exalted)</td><td>需要信仰哥兹莱或中立</td></tr>
+      	 <tr><td>卡莉丝翠（大尊者） Calistria (exalted)</td><td>需要信仰卡莉丝翠或混乱中立</td></tr>	
+  <tr><td rowspan="37">专长</i></td>
+       <td colspan="2">崇神仪典 Deific Obedience</td></tr>
+       <td colspan="2">多样尊崇 Diverse Obedience</td></tr>
+       <td colspan="2">神导之手 Guided Hand</td></tr>
+       <td colspan="2">战技突袭 Surprise Maneuver</td></tr>
+       <td colspan="2">下三滥打法 Dirty Fighting</td></tr>
        <td colspan="2">擒抱（精通擒抱）Grapple</td></tr>
        <tr><td colspan="2">高等擒抱 Greater Grapple</td></tr>
        <tr><td colspan="2">快速擒抱 Rapid Grappler</td></tr>
@@ -3604,7 +3719,50 @@ C:\Users\你的用户名\AppData\LocalLow\Owlcat Games\Pathfinder Wrath Of The R
        <tr><td colspan="2">太极-揽雀尾 Improved Ki Throw</td></tr>
        <tr><td colspan="2">太极-抱虎归山 Binding Throw</td></tr>
        <tr><td colspan="2">太极-倒撵猴 Enhanced Ki Throw</td></tr>
-  <tr><td rowspan="15">流派专长</i></td>
+       <tr><td colspan="2">高等徒手击打 Greater Unarmed Strike</td></tr>
+       <tr><td colspan="2">出奇制胜 Surprising Strategy</td></tr>
+       <tr><td colspan="2">保镖 Bodyguard</td></tr>
+       <tr><td colspan="2">违逆神意 Divine Defiance</td></tr>
+       <tr><td colspan="2">偶像破坏者 Iconoclast</td></tr>
+       <tr><td colspan="2">犀牛冲锋 Rhino Charge</td></tr>
+       <tr><td colspan="2">牛头冲锋 Minotaur’s Charge</td></tr>
+       <tr><td colspan="2">魔法技艺（法师之手） Magic Trick (mage hand)</td></tr>
+       <tr><td colspan="2">魔法技艺（护盾术） Magic Trick (shield)</td></tr>
+       <tr><td colspan="2">奥法强袭 Eldritch Assault</td></tr>
+       <tr><td colspan="2">浪子好运 Wanderer’s Fortune</td></tr>
+       <tr><td colspan="2">精通招架 Improved Parry</td></tr>
+       <tr><td colspan="2">盾牌猛击 Shield Slam</td></tr>
+       <tr><td colspan="2">盾牌缠陷 Shield Snag</td></tr>
+       <tr><td colspan="2">抓取飞箭 Snatch Arrows</td></tr>
+  <tr><td rowspan="6">绊摔专长</i></td>
+       <tr><td colspan="2">剪刀脚 Vindictive Fall</td></tr>
+       <tr><td colspan="2">远距绊摔 Ranged Trip</td></tr>
+       <tr><td colspan="2">王牌绊摔 Ace Trip</td></tr>
+       <tr><td colspan="2">下三路顺劈 Cleaving Sweep</td></tr>
+       <tr><td colspan="2">多米诺牌手 Down Like Dominoes</td></tr>
+  <tr><td rowspan="4">碎甲专长</i></td>
+       <tr><td colspan="2">碎甲 Crush Armor</td></tr>
+       <tr><td colspan="2">闪破风暴 Sunder Storm</td></tr>
+       <tr><td colspan="2">血肉撕扯 Tear Apart</td></tr>
+  <tr><td rowspan="7">冲撞专长</i></td>
+       <tr><td colspan="2">快速冲撞 Quick Bull Rush</td></tr>
+       <tr><td colspan="2">狂暴投技 Raging Throw</td></tr>
+       <tr><td colspan="2">飓风神拳 Hurricane Punch</td></tr>
+       <tr><td colspan="2">一击震退 Knockback</td></tr>
+       <tr><td colspan="2">一夫当关 Drive Back</td></tr>
+       <tr><td colspan="2">战斗诡术 Combat Trickery</td></tr>
+  <tr><td rowspan="11">卸武专长</i></td>
+       <tr><td colspan="2">顺势缴械 Sweeping Disarm</td></tr>
+       <tr><td colspan="2">突破防御 Break Guard</td></tr>
+       <tr><td colspan="2">跟进追击 Follow-Up Strike</td></tr>
+       <tr><td colspan="2">空手入白刃 Hold the Blade</td></tr>
+       <tr><td colspan="2">擒肘拿腕 Wrist Grab</td></tr>
+       <tr><td colspan="2">远程缴械 Ranged Disarm</td></tr>
+       <tr><td colspan="2">王牌缴械 Ace Disarm</td></tr>
+       <tr><td colspan="2">缠臂锁肩 Arm Bind</td></tr>
+       <tr><td colspan="2">连抓带打 Strike and Seize</td></tr>
+       <tr><td colspan="2">远程缴械（神话） Ranged Disarm (Mythic)</td></tr>
+  <tr><td rowspan="27">流派专长</i></td>
        <td rowspan="3">黑堕</td>
            <td>黑堕流 Black Seraph Style</td></tr>
        <tr><td>黑堕恶念 Black Seraph’s Malevolence</td></tr>
@@ -3625,14 +3783,33 @@ C:\Users\你的用户名\AppData\LocalLow\Owlcat Games\Pathfinder Wrath Of The R
            <td>缠丝手 Kraken Style</td></tr>
        <tr><td>缠丝手-金蛇擒鹤 Kraken Wrack</td></tr>
        <tr><td>缠丝手-万蛇出洞 Medusa's Wrath</td></tr>
-  <tr><td rowspan="7">神话专长</i></td>
+       <tr><td rowspan="3">散花掌</td>
+           <td>散花掌 Jabbing Style</td></tr>
+       <tr><td>一苇渡江 Jabbing Dancer</td></tr>
+       <tr><td>如来千叶手 Jabbing Master</td></tr>
+       <tr><td rowspan="3">豹尾脚</td>
+           <td>豹尾脚 Panther Style</td></tr>
+       <tr><td>九转连环腿 Panther Claw</td></tr>
+       <tr><td>神龙摆尾 Panther Parry</td></tr>
+              <tr><td rowspan="3">美人三招</td>
+           <td>美人三招-贵妃回眸 Cloak and Dagger Style</td></tr>
+       <tr><td>美人三招-小怜横陈 Cloak and Dagger Subterfuge</td></tr>
+       <tr><td>美人三招-飞燕回翔 Cloak and Dagger Tactics</td></tr>
+       <tr><td colspan="2">大力金刚掌 Smashing Style</td></tr>
+       <tr><td colspan="2">韦陀杵 Stick-Fighting Counter</td></tr>
+       <tr><td colspan="2">伏魔杖 Stick-Fighting Maneuver</td></tr>
+  <tr><td rowspan="11">神话专长</i></td>
        <td colspan="2">擒抱（神话） Grapple (Mythic)</td></tr>
+       <td colspan="2">神导之手（神话） Guided Hand(Mythic)</td></tr>
        <tr><td colspan="2">粗野擒抱 Uncanny Grapple</td></tr>
        <tr><td colspan="2">飞跃突袭 Aerial Assault</td></tr>
        <tr><td colspan="2">绳结专家 Knot Expert</td></tr>
        <tr><td colspan="2">肉盾 Meat Shield</td></tr>
        <tr><td colspan="2">战技专家 Maneuver Expert</td></tr>
        <tr><td colspan="2">太极-四两拨千斤 Ki Throw Mastery</td></tr>
+       <tr><td colspan="2">拨挡飞箭（神话） Deflect Arrows (Mythic)</td></tr>
+       <tr><td colspan="2">血脉传承（神话） Racial Heritage (Mythic)</td></tr>
+       <tr><td colspan="2">远程缴械（神话） Ranged Disarm (Mythic)</td></tr>
   <tr><td rowspan="8">神话进阶职业特性</i></td>
        <td colspan="2">轻巧夺命 Swift Death<br>你的夺命攻击变成标准动作，刺客10级时还会变成移动动作。</td></tr>
        <tr><td colspan="2">高等轻巧夺命 Greater Swift Death<br>你的夺命攻击变成移动动作，刺客10级时还会变成迅捷动作。</td></tr>
@@ -3642,6 +3819,17 @@ C:\Users\你的用户名\AppData\LocalLow\Owlcat Games\Pathfinder Wrath Of The R
        <tr><td colspan="2">格挡反击（神话）Riposte (Mythic)<br>决斗家在格挡和反击时将神话等级加到攻击骰上，不与时刻备战神话专长的效果叠加。</td></tr>
        <tr><td colspan="2">形上学偷袭 Metaphysical Sneak Attack<br>战争学徒在偷袭敌人时自动研究目标，可以直接进行知识检定。另外，他的偷袭伤害不再是精准伤害。</td></tr>
        <tr><td colspan="2">秘术催化剂 Mystic Catalyst<br>你能随意使用次级双法合璧。</td></tr>
+  <tr><td rowspan="3">法术 spell</i></td>
+       <tr><td colspan="2">正义祷言 Litany of Righteousness<br>当且只有当你是崇拜善良神明的牧师/战斗祭司，圣武士或善良异界生物时你才具有善良灵光。</td></tr>
+       <tr><td colspan="2">护卫他人 Shield Other<br>使用移动动作来结束法术而不是移出范围，这样你就不会在过场动画、酒馆等过程中丢失它。</td></tr>
+  <tr><td rowspan="8">其余修改</i></td>
+       <tr><td colspan="2">拔刀术 Quick Draw<br>如果剑爵已经拥有拔刀术或者警觉专长，他获得阿尔多瑞决斗精通作为额外专长。</td></tr>
+       <tr><td colspan="2">教理讲授 Catechesis<br>若地狱骑士持节士拥有以战筑信专长，他的地狱骑士持节士等级与其他神术施法者等级叠加，以计算那些职业的领域效果，但不会因此获得新能力。拥有以战筑信专长的持节士还会获得选择导能作为额外专长。</td></tr>
+       <tr><td colspan="2">Estimated THC Shield Other<br>在回合模式下显示攻击命中和法术豁免概率。并不精确，因为它无法计算一些效果，例如隐蔽，法术穿透和有条件的豁免加值。（默认关闭）</td></tr>
+       <tr><td colspan="2">地狱治疗 Infernal Healing<br>你可以通过花费金币在战斗之外完全治愈，如同你购买一根地狱治疗魔杖并使用它一样。（金币：生命值=3：2）</td></tr>
+       <tr><td colspan="2">Weak Crits against Enemies<br>Symmetrical with owlcat weak crits settings, making it fair (default off)</td></tr>
+       <tr><td colspan="2">修复高难度cmd Fix Difficulty CMD Tripple-Dipped<br>这将在较高难度下显着降低敌人的 CMD。CMD 是通过添加力量加值、敏捷加值和AC加值来计算的，这意味着原版难度属性提升在cmd中提升了3次，导致数值完全疯了。</td></tr>
+       <tr><td colspan="2">修复猛力攻击 Fix Power Attack<br>现在按描述工作：如果您使用副手武器进行攻击，则伤害加成减半（–50%）。请注意，食人鱼打击也有相同的错误，但尚未修复，因为这可能会让食人鱼打击比猛力攻击更具优势，这非常酷。</td></tr>
 </table>    
 
 -------------------------------------------   
@@ -3693,9 +3881,43 @@ C:\Users\你的用户名\AppData\LocalLow\Owlcat Games\Pathfinder Wrath Of The R
 > *新增内容：* 职业<br>
 + 添加召唤师。职业详情可参考CHM
 <table>
- <tr><th colspan="2">新增内容列表<br></th></tr> 
+ <tr><th colspan="5">新增内容列表<br></th></tr> 
   <tr><td rowspan="1">职业</i></td>
-       <td rowspan="1">召唤师 Summoner Mod</td></tr>
+       <td colspan="2">召唤师 Summoner Mod</td></tr>
+  <tr><td rowspan="15">法术</i></td>
+	<td rowspan="1">召唤次级怪物<br>Summon Minor Monster</td>
+	<td rowspan="1">这个法术类似召唤一级怪物，但是你可以召唤1d3只超小型或更小的动物。</i></td>
+	<tr><td rowspan="1">召唤狂躁邪魔<br>Summon Cacodaemon</td>
+        <td rowspan="1">这个法术类似召唤怪物，除了它只能召唤一个狂躁邪魔。</i></td>
+        <tr><td rowspan="1">高等召唤狂躁邪魔<br>Summon Cacodaemon, Greater</td>
+	<td rowspan="1">这个法术类似召唤狂躁邪魔，除了它能召唤1d4＋1只狂躁邪魔。</i></td>
+	<tr><td rowspan="1">飞虫走兽<br>Summon Swarm</td>
+        <td rowspan="1">你可以召唤一个蜘蛛集群来攻击它所在区域内的所有生物 (你可以召唤这些集群并于其他其他生物共用同一片区域内)。</i></td>
+	<tr><td rowspan="1">萌龙仆从<br>Draconic Ally</td>
+	<td rowspan="1">你创造一个有智力的半生命体，这种萌龙仆从可以忠诚地服从和侍奉你。</i></td>
+	<tr><td rowspan="1">召唤次级恶魔<br>Summon Lesser Demon</td>
+	<td rowspan="1">这个法术类似召唤怪物，除了它能召唤一个火灾魔，一个梦魔，1d3个希尔魔或者1d4个虫裂魔。</i></td>
+	<tr><td rowspan="1">召唤狂野兽群<br>Summon Stampede</td>
+	<td rowspan="1">这个法术类似召唤怪物，除了它召唤1d4＋4匹马。这些马不会攻击敌人，但会不断在战场移动，包围敌人并造成伤害。</i></td>
+	<tr><td rowspan="1">关门放狗<br>Release The Hounds</td>
+	<td rowspan="1">这个法术类似召唤怪物，除了它能召唤1d4＋4只霜狼。这些霜狼不会攻击敌人，但会不断在战场移动，包围敌人并造成伤害。</i></td>
+	<tr><td rowspan="1">召唤怒魔<br>Summon Erinyes</td>
+	<td rowspan="1">这个法术类似召唤怪物，除了它能召唤一个怒魔。</i></td>
+	<tr><td rowspan="1">召唤饥馑邪魔<br>Summon Meladaemon</td>
+	<td rowspan="1">这个法术类似召唤怪物，除了它能召唤一个饥馑邪魔。</i></td>
+	<tr><td rowspan="1">黑触手<br>Black Tentacles</td>
+	<td rowspan="1">这个法术产生一片具有韧性的黑色触手，它们从地上涌起并伸向区域内的任何生物，每轮对生物进行一次擒抱战技检定。</i></td>
+	<tr><td rowspan="1">地狱治疗<br>Infernal Healing</td>
+	<td rowspan="1">你以魔鬼血液或诅咒邪水涂抹受伤生物，使其获得1快速治疗。</i></td>
+        <tr><td rowspan="1">高等地狱治疗<br>Infernal Healing, Greater</td>
+	<td rowspan="1">你以魔鬼血液或诅咒邪水涂抹受伤生物，使其获得4快速治疗。</i></td>
+        <tr><td rowspan="1">激情四溢<br>Overstimulate</td>
+	<td rowspan="1">你使一个目标获得凶猛（ferocity）能力。</i></td>
+ 	<tr><td rowspan="1">幻灵重塑术<br>Transmogrify</td>
+  	<td rowspan="1">该法术允许你通过将幻灵的进化池分配给新的进化，来改变它当前的任何进化。</i</td>
+	
+ 
+	
 </table>    
 
 -------------------------------------------  
@@ -3707,8 +3929,9 @@ C:\Users\你的用户名\AppData\LocalLow\Owlcat Games\Pathfinder Wrath Of The R
 + 添加第三方资源战争之路中的武技系统。好评更新中
 <table>
  <tr><th colspan="2">新增内容列表<br></th></tr> 
-  <tr><td rowspan="1">武术流派</i></td>
+  <tr><td rowspan="2">武术流派</i></td>
        <td rowspan="1">辉晨 Radiant Dawn</td>
+	<tr><td rowspan="1">朦月 Veiled Moon</td>
   </tr>
 </table>   
 
