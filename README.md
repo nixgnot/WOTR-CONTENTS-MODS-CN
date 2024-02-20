@@ -3561,11 +3561,77 @@ C:\Users\你的用户名\AppData\LocalLow\Owlcat Games\Pathfinder Wrath Of The R
 > *新增内容：* 进阶职业<br>
 <table>
  <tr><th colspan="3">新增内容列表<br></th></tr> 
-  <tr><td rowspan="3">变体</i></td>
-       <td rowspan="3">战士 Fighter</td>
+  <tr><td rowspan="34">变体</i></td>
+       <td rowspan="3">炼金术师 Alchemist</td>
+       <td>构装骑士 Construct Rider</td></tr>
+       <tr><td>内修药师 Internal Alchemist</td></tr>
+       <tr><td>科学狂人 Mad Scientist</td></tr>
+       <td rowspan="1">奥能师 Arcanist</td>
+       <td>御天使 Aeromancer</td></tr>
+       <td rowspan="1">吟游诗人 Brad</td>
+       <td>杂耍者 Juggler</td></tr>
+       <td rowspan="1">野蛮人 Barbarian</td>
+       <td>醉蛮 Drunken Brute</td></tr>
+       <td rowspan="1">血脉狂怒者 Bloodrager</td>
+       <td>狂血导魔者 Blood Conduit</td></tr>
+       <td rowspan="2">骑将 Cavalier</td>
+       <td>警长 Constable</td></tr>
+       <tr><td>先锋使者 Emissary</td></tr>
+       <td rowspan="1">牧师 Cleric</td>
+       <td>神圣典范 Divine Paragon</td></tr>
+       <td rowspan="4">德鲁伊 Druid</td>
+       <td>立石贤者 Menhir Savant</td></tr>
+       <tr><td>平原德鲁伊 Plains Druid</td></tr>
+       <tr><td>真菌朝圣者 Fungal Pilgrim</td></tr>
+       <tr><td>毒理学家 Toxicologist</td></tr>
+       <td rowspan="6">战士 Fighter</td>
        <td>奥法卫士 Eldritch Guardian</td></tr>
        <tr><td>学识守卫 Lore Warden</td></tr>
+       <tr><td>晨花狂舞者 Dawnflower Dervish</td></tr>
        <tr><td>战争领主 Warlord</td></tr>
+       <tr><td>御林铁卫 High Guardian</td></tr>
+       <tr><td>武器大师 Weapon Master</td></tr>
+       <td rowspan="1">魔战士 Magus</td>
+       <td>尖塔防卫者 Drunken Brute</td></tr>
+       <td rowspan="3">武僧 Monk</td>
+       <td>战技宗师 Maneuver Master</td></tr>
+       <tr><td>拆招僧 Master of Many Styles</td></tr>
+       <tr><td>执械僧 Weapon Adept</td></tr>
+       <td rowspan="1">先知 Oracle</td>
+       <td>真理追寻者 Truth Seeker</td></tr>
+       <td rowspan="1">圣武士 Paladin</td>
+       <td>光耀骑士 Shining Knight</td></tr>
+       <td rowspan="3">游侠 Ranger</td>
+       <td>神射手 Divine Marksman</td></tr>
+       <tr><td>守巫人 Witchguard</td></tr>
+       <tr><td>渗透者 Infiltrator</td></tr>
+       <td rowspan="1">游荡者 Rogue</td>
+       <td>巴克雅尔绑匪 Kidnapper</td></tr>
+       <td rowspan="1">歌者 Skald</td>
+       <td>天命勇者 Fated Champion</td></tr>
+       <td rowspan="1">术士 Sorcerer</td>
+       <td>真理追寻者 Truth Seeker</td></tr>
+       <td rowspan="1">战斗祭司 Warpriest</td>
+       <td>神伐先勇 Divine Champion</td></tr>
+       <td rowspan="2">巫师 Witch</td>
+       <td>白发魔女 White-Haired Witch</td></tr>
+       <tr><td>卡牌占卜师 Cartomancer</td></tr>
+  <tr><td rowspan="15">职业能力</i></td>
+       <tr><td rowspan="6">狂暴之力 Rage Power</td></tr>
+       <td>醉怒狂吼 Roaring Drunk</td></tr>
+       <td>勇气之水 Liquid Courage</td></tr>
+       <td>可怖怒视 Intimidating Glare</td></tr>
+       <td>返祖 Atavism</td></tr>
+       <td>高等返祖 Greater Atavism</td></tr>
+       <tr><td rowspan="6">魔战士奥能 Magus Arcana</td></tr>
+       <td>战技掌控 Maneuver Mastery</td></tr>
+       <td>魔宠 Familiar</td></tr>
+       <td>及远法术打击 Reach Spellstrike</td></tr>
+       <td>近程法术打击 Close Range</td></tr>
+       <td>扰法者 Disruptive</td></tr>
+       <tr><td rowspan="3">气力 Ki Power</td></tr>
+       <td>气力：一指禅 One Touch</td></tr>
+       <td>气力：凌波微步 Freedom of Movement</td></tr>
   <tr><td rowspan="14">进阶职业</i></td>
        <td colspan="2">骑士 Chevalier</td></tr>
        <tr><td colspan="2">后继者远征骑士 Inheritor’s Crusader</td></tr>
@@ -3693,9 +3759,9 @@ C:\Users\你的用户名\AppData\LocalLow\Owlcat Games\Pathfinder Wrath Of The R
 > *新增内容：* 职业<br>
 + 添加召唤师。职业详情可参考CHM
 <table>
- <tr><th colspan="2">新增内容列表<br></th></tr> 
+ <tr><th colspan="5">新增内容列表<br></th></tr> 
   <tr><td rowspan="1">职业</i></td>
-       <td rowspan="1">召唤师 Summoner Mod</td></tr>
+       <td colspan="2">召唤师 Summoner Mod</td></tr>
   <tr><td rowspan="15">法术</i></td>
 	<td rowspan="1">召唤次级怪物<br>Summon Minor Monster</td>
 	<td rowspan="1">这个法术类似召唤一级怪物，但是你可以召唤1d3只超小型或更小的动物。</i></td>
