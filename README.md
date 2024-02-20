@@ -3561,7 +3561,7 @@ C:\Users\你的用户名\AppData\LocalLow\Owlcat Games\Pathfinder Wrath Of The R
 > *新增内容：* 进阶职业<br>
 <table>
  <tr><th colspan="3">新增内容列表<br></th></tr> 
-  <tr><td rowspan="34">变体</i></td>
+  <tr><td rowspan="35">变体</i></td>
        <td rowspan="3">炼金术师 Alchemist</td>
        <td>构装骑士 Construct Rider</td></tr>
        <tr><td>内修药师 Internal Alchemist</td></tr>
@@ -3616,24 +3616,17 @@ C:\Users\你的用户名\AppData\LocalLow\Owlcat Games\Pathfinder Wrath Of The R
        <td rowspan="2">巫师 Witch</td>
        <td>白发魔女 White-Haired Witch</td></tr>
        <tr><td>卡牌占卜师 Cartomancer</td></tr>
-  <tr><td rowspan="15">职业能力</i></td>
-       <tr><td rowspan="6">狂暴之力 Rage Power</td></tr>
-       <td>醉怒狂吼 Roaring Drunk</td></tr>
-       <td>勇气之水 Liquid Courage</td></tr>
-       <td>可怖怒视 Intimidating Glare</td></tr>
-       <td>返祖 Atavism</td></tr>
-       <td>高等返祖 Greater Atavism</td></tr>
-       <tr><td rowspan="6">魔战士奥能 Magus Arcana</td></tr>
-       <td>战技掌控 Maneuver Mastery</td></tr>
-       <td>魔宠 Familiar</td></tr>
-       <td>及远法术打击 Reach Spellstrike</td></tr>
-       <td>近程法术打击 Close Range</td></tr>
-       <td>扰法者 Disruptive</td></tr>
-       <tr><td rowspan="3">气力 Ki Power</td></tr>
-       <td>气力：一指禅 One Touch</td></tr>
-       <td>气力：凌波微步 Freedom of Movement</td></tr>
-  <tr><td rowspan="14">进阶职业</i></td>
+  <tr><td rowspan="23">进阶职业</i></td>
        <td colspan="2">骑士 Chevalier</td></tr>
+	<tr><td colspan="2">绯红圣教军 Crimson Templar</td></tr>
+       <tr><td colspan="2">晨花隐者 Dawnflower Anchorite</td></tr>
+       <tr><td colspan="2">秘契骑士 Esoteric Knight</td></tr>
+       <tr><td colspan="2">妩媚交际花 Enchanting Courtesan</td></tr>
+       <tr><td colspan="2">传道者 Evangelist</td></tr>
+       <tr><td colspan="2">狂怒卫士 Furious Guardian</td></tr>
+       <tr><td colspan="2">狮子剑 Lion Blade</td></tr>
+       <tr><td colspan="2">信仰哨卫 Sentinel</td></tr>
+       <tr><td colspan="2">魂饮者 Souldrinker</td></tr>
        <tr><td colspan="2">后继者远征骑士 Inheritor’s Crusader</td></tr>
        <tr><td colspan="2">影舞者 Shadowdancer</td></tr>
        <tr><td colspan="2">墓穴使徒 Agent of the Grave</td></tr>
@@ -3647,12 +3640,57 @@ C:\Users\你的用户名\AppData\LocalLow\Owlcat Games\Pathfinder Wrath Of The R
        <tr><td colspan="2">亚萨维尔 Asavir</td></tr>
        <tr><td colspan="2">半身任侠 Halfling Opportunist</td></tr>
        <tr><td colspan="2">龙怒狂徒 Dragon Fury</td></tr>
-  <tr><td rowspan="4">职业特性和其他</i></td>
+  <tr><td rowspan="20">职业特性和其他</i></td>
+       <tr><td rowspan="7">狂暴之力 Rage Power</td></tr>
+       <td>醉怒狂吼 Roaring Drunk</td></tr>
+       <td>勇气之水 Liquid Courage</td></tr>
+       <td>可怖怒视 Intimidating Glare</td></tr>
+       <td>返祖 Atavism</td></tr>
+       <td>高等返祖 Greater Atavism</td></tr>
+       <td>怒涛狂涌 Strength Surge</td></tr>
+       <tr><td rowspan="6">魔战士奥能 Magus Arcana</td></tr>
+       <td>战技掌控 Maneuver Mastery</td></tr>
+       <td>魔宠 Familiar</td></tr>
+       <td>及远法术打击 Reach Spellstrike</td></tr>
+       <td>近程法术打击 Close Range</td></tr>
+       <td>扰法者 Disruptive</td></tr>
+       <tr><td rowspan="3">气力 Ki Power</td></tr>
+       <td>气力：一指禅 One Touch</td></tr>
+       <td>气力：凌波微步 Freedom of Movement</td></tr>
        <td>游荡者天赋</td><td>防御翻滚 Defensive Roll<br>房规改动，加入类似屹立不倒的效果</td></tr>
        <tr><td>魔宠</td><td>蟹王 Crab King</td></tr>
        <tr><td>炼金科研发现</td><td>触手 Tentacle</td></tr>
-       <tr><td>狂暴之力</td><td>怒涛狂涌 Strength Surge</td></tr>
-  <tr><td rowspan="17">专长</i></td>
+  <tr><td rowspan="26">崇神仪典 Deific Obedience</i></td>
+	 <tr><td>拉贾瑟尔 Ragathiel</td><td>需要信仰拉贾瑟尔（Expanded Content）或守序善良</td></tr>
+  	 <tr><td>雪琳（信仰哨卫） Shelyn (Sentinel)</td><td>需要信仰雪琳或中立善良</td></tr>
+  	 <tr><td>奈德丽（信仰哨卫） Naderi (Sentinel)</td><td>需要信仰奈德丽或中立</td></tr>
+  	 <tr><td>德丝娜 Desna</td><td>需要信仰德丝娜或混乱善良</td></tr>
+  	 <tr><td>艾若斯提 Erastil</td><td>需要信仰艾若斯提或守序善良</td></tr>
+  	 <tr><td>格鲁姆（信仰哨卫） Gorum (Sentinel)</td><td>需要重甲熟练和信仰格鲁姆或混乱中立</td></tr>
+  	 <tr><td>玛哈萨拉（大尊者） Mahathallah (Exalted)</td><td>需要信仰阿司莫迪斯或守序邪恶</td></tr>
+  	 <tr><td>诺格巴 Norgorber</td><td>需要信仰诺格巴或中立邪恶</td></tr>
+  	 <tr><td>拉玛什图（大尊者） Lamashtu (Exalted)</td><td>需要信仰拉玛什图或混乱邪恶</td></tr>
+  	 <tr><td>奥托门斯 Otolmens</td><td>需要信仰奥托门斯或守序中立</td></tr>
+  	 <tr><td>亚拉兹妮（信仰哨卫） Arazni (sentinel)</td><td>需要信仰乌伽娑婀或中立邪恶</td></tr>
+  	 <tr><td>卡戎（信仰哨卫） Charon (Sentinel)</td><td>需要信仰卡戎（Expanded Content）或中立邪恶</td></tr>
+  	 <tr><td>祖瑞尔（信仰哨卫） Szuriel (sentinel)</td><td>需要信仰祖瑞尔（Expanded Content）或中立邪恶</td></tr>
+  	 <tr><td>艾奥梅黛（信仰哨卫） Iomedae (sentinel)</td><td>需要信仰艾奥梅黛或守序善良</td></tr>
+  	 <tr><td>美洛妮（信仰哨卫） Milani (sentinel)</td><td>需要信仰美洛妮（Expanded Content）或混乱善良</td></tr>
+  	 <tr><td>妮维（大尊者） Nivi (exalted)</td><td>需要信仰托拉格或中立</td></tr>
+  	 <tr><td>索克斯贝诺（信仰哨卫） Socothbenoth (sentinel)</td><td>需要信仰吉罗娜或混乱邪恶</td></tr>
+  	 <tr><td>法蕾娜 Falayna</td><td>需要信仰法蕾娜（Expanded Content）或守序善良</td></tr>
+  	 <tr><td>卡怖厉厉（大尊者） Kabriri (exalted)</td><td>需要信仰卡怖厉厉（Expanded Content）或混乱邪恶</td></tr>
+      	 <tr><td>查尔迪菈（信仰哨卫） Chaldira (sentinel)</td><td>需要一级盗贼和信仰莎恩芮或中立善良</td></tr>
+      	 <tr><td>璞露拉 Pulura</td><td>需要信仰璞露拉或混乱善良</td></tr>
+      	 <tr><td>洛瓦古格 Rovagug</td><td>需要信仰洛瓦古格或混乱邪恶</td></tr>
+      	 <tr><td>灯王 The Lantern King</td><td>需要信仰灯王（Expanded Content）或混乱中立</td></tr>
+      	 <tr><td>哥兹莱（大尊者） Gozreh (exalted)</td><td>需要信仰哥兹莱或中立</td></tr>
+      	 <tr><td>卡莉丝翠（大尊者） Calistria (exalted)</td><td>需要信仰卡莉丝翠或混乱中立</td></tr>
+	
+  <tr><td rowspan="20">专长</i></td>
+       <td colspan="2">崇神仪典 Deific Obedience</td></tr>
+       <td colspan="2">多样尊崇 Diverse Obedience</td></tr>
+       <td colspan="2">神导之手 Guided Hand</td></tr>
        <td colspan="2">擒抱（精通擒抱）Grapple</td></tr>
        <tr><td colspan="2">高等擒抱 Greater Grapple</td></tr>
        <tr><td colspan="2">快速擒抱 Rapid Grappler</td></tr>
@@ -3691,8 +3729,9 @@ C:\Users\你的用户名\AppData\LocalLow\Owlcat Games\Pathfinder Wrath Of The R
            <td>缠丝手 Kraken Style</td></tr>
        <tr><td>缠丝手-金蛇擒鹤 Kraken Wrack</td></tr>
        <tr><td>缠丝手-万蛇出洞 Medusa's Wrath</td></tr>
-  <tr><td rowspan="7">神话专长</i></td>
+  <tr><td rowspan="8">神话专长</i></td>
        <td colspan="2">擒抱（神话） Grapple (Mythic)</td></tr>
+       <td>神导之手（神话） Guided Hand(Mythic)</td></tr>
        <tr><td colspan="2">粗野擒抱 Uncanny Grapple</td></tr>
        <tr><td colspan="2">飞跃突袭 Aerial Assault</td></tr>
        <tr><td colspan="2">绳结专家 Knot Expert</td></tr>
