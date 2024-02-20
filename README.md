@@ -3640,7 +3640,7 @@ C:\Users\你的用户名\AppData\LocalLow\Owlcat Games\Pathfinder Wrath Of The R
        <tr><td colspan="2">亚萨维尔 Asavir</td></tr>
        <tr><td colspan="2">半身任侠 Halfling Opportunist</td></tr>
        <tr><td colspan="2">龙怒狂徒 Dragon Fury</td></tr>
-  <tr><td rowspan="20">职业特性和其他</i></td>
+  <tr><td rowspan="30">职业特性和其他</i></td>
        <tr><td rowspan="7">狂暴之力 Rage Power</td></tr>
        <td>醉怒狂吼 Roaring Drunk</td></tr>
        <td>勇气之水 Liquid Courage</td></tr>
@@ -3696,7 +3696,7 @@ C:\Users\你的用户名\AppData\LocalLow\Owlcat Games\Pathfinder Wrath Of The R
       	 <tr><td>灯王 The Lantern King</td><td>需要信仰灯王（Expanded Content）或混乱中立</td></tr>
       	 <tr><td>哥兹莱（大尊者） Gozreh (exalted)</td><td>需要信仰哥兹莱或中立</td></tr>
       	 <tr><td>卡莉丝翠（大尊者） Calistria (exalted)</td><td>需要信仰卡莉丝翠或混乱中立</td></tr>	
-  <tr><td rowspan="20">专长</i></td>
+  <tr><td rowspan="37">专长</i></td>
        <td colspan="2">崇神仪典 Deific Obedience</td></tr>
        <td colspan="2">多样尊崇 Diverse Obedience</td></tr>
        <td colspan="2">神导之手 Guided Hand</td></tr>
@@ -3751,7 +3751,7 @@ C:\Users\你的用户名\AppData\LocalLow\Owlcat Games\Pathfinder Wrath Of The R
        <tr><td colspan="2">一击震退 Knockback</td></tr>
        <tr><td colspan="2">一夫当关 Drive Back</td></tr>
        <tr><td colspan="2">战斗诡术 Combat Trickery</td></tr>
-  <tr><td rowspan="10">卸武专长</i></td>
+  <tr><td rowspan="11">卸武专长</i></td>
        <tr><td colspan="2">顺势缴械 Sweeping Disarm</td></tr>
        <tr><td colspan="2">突破防御 Break Guard</td></tr>
        <tr><td colspan="2">跟进追击 Follow-Up Strike</td></tr>
@@ -3762,7 +3762,7 @@ C:\Users\你的用户名\AppData\LocalLow\Owlcat Games\Pathfinder Wrath Of The R
        <tr><td colspan="2">缠臂锁肩 Arm Bind</td></tr>
        <tr><td colspan="2">连抓带打 Strike and Seize</td></tr>
        <tr><td colspan="2">远程缴械（神话） Ranged Disarm (Mythic)</td></tr>
-  <tr><td rowspan="15">流派专长</i></td>
+  <tr><td rowspan="27">流派专长</i></td>
        <td rowspan="3">黑堕</td>
            <td>黑堕流 Black Seraph Style</td></tr>
        <tr><td>黑堕恶念 Black Seraph’s Malevolence</td></tr>
