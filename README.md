@@ -3642,34 +3642,34 @@ C:\Users\你的用户名\AppData\LocalLow\Owlcat Games\Pathfinder Wrath Of The R
        <tr><td colspan="2">龙怒狂徒 Dragon Fury</td></tr>
   <tr><td rowspan="30">职业特性和其他</i></td>
        <tr><td rowspan="7">狂暴之力 Rage Power</td></tr>
-       <td>醉怒狂吼 Roaring Drunk</td></tr>
-       <td>勇气之水 Liquid Courage</td></tr>
-       <td>可怖怒视 Intimidating Glare</td></tr>
-       <td>返祖 Atavism</td></tr>
-       <td>高等返祖 Greater Atavism</td></tr>
-       <td>怒涛狂涌 Strength Surge</td></tr>
+       <td>醉怒狂吼 Roaring Drunk<br>狂暴时，野蛮人获得威吓检定以及她创造的任何恐惧效果DC的士气加值，每4野蛮人等级增加1点。</td></tr>
+       <td>勇气之水 Liquid Courage<br>狂暴时，野蛮人获得针对影响心智效果的豁免士气加值，每4野蛮人等级增加1点。</td></tr>
+       <td>可怖怒视 Intimidating Glare<br>野蛮人能以移动动作对一名邻接敌人进行一次威吓技能检定。如果他成功挫败对方士气，则敌人将战栗1d4轮，野蛮人的检定结果每超过威吓DC5点额外增加1轮。</td></tr>
+       <td>返祖 Atavism<br>野蛮人获得凶暴能力，不再会在生命值降至负值时陷入昏迷，不过他只能在生命值为负值时进行单个标准动作或移动动作。</td></tr>
+       <td>高等返祖 Greater Atavism<br>野蛮人获得践踏能力。</td></tr>
+       <td>怒涛狂涌 Strength Surge<br>以一个迅捷动作，野蛮人将她的职业等级加到两轮内下一次战技检定上，每次狂暴中限一次。</td></tr>
        <tr><td rowspan="6">魔战士奥能 Magus Arcana</td></tr>
-       <td>战技掌控 Maneuver Mastery</td></tr>
-       <td>魔宠 Familiar</td></tr>
-       <td>及远法术打击 Reach Spellstrike</td></tr>
-       <td>近程法术打击 Close Range</td></tr>
-       <td>扰法者 Disruptive</td></tr>
+       <td>战技掌控 Maneuver Mastery<br>当魔战士尝试战技时，用他的魔战士等级作为其基本攻击加值（与其他职业带来的基本攻击加值合计）。</td></tr>
+       <td>魔宠 Familiar<br>获得一只魔宠。</td></tr>
+       <td>及远法术打击 Reach Spellstrike<br>魔战士可以使用近战接触法术来进行远程法术打击。</td></tr>
+       <td>近程法术打击 Close Range<br>选择本奥能的魔战士可以将需要远程接触攻击的射线法术以近战接触攻击方式传递。他可利用此奥能施放目标多于一个的远程接触法术（如灼热射线），但他只能用一次近战攻击传递一个远程接触效果，该法术额外的远程接触攻击则被浪费掉且没有效果。这些法术只能用于法术打击职业能力。</td></tr>
+       <td>扰法者 Disruptive<br>魔战士获得扰法者作为额外专长。</td></tr>
        <tr><td rowspan="3">气力 Ki Power</td></tr>
-       <td>气力：一指禅 One Touch</td></tr>
-       <td>气力：凌波微步 Freedom of Movement</td></tr>
+       <td>气力：一指禅 One Touch<br>只要武僧气池内还至少有1点气，他就可用标准动作，对一个目标进行一次徒手攻击近战接触攻击。本次攻击获得等同于1/2武僧等级的伤害加值。他可以选择消耗1点气翻倍该伤害加值。</td></tr>
+       <td>气力：凌波微步 Freedom of Movement<br>习得此绝学的武僧获得如同行动自如法术的好处，持续1轮。使用该能力是一个迅捷动作，需消耗1点气。</td></tr>
        <tr><td rowspan="7">游荡者天赋 Rogue Talents</td></tr>
        <td>防御翻滚 Defensive Roll<br>房规改动，加入类似屹立不倒的效果</td></tr>
-       <td>改日再死 Another Day</td></tr>
-       <td>密集暗影 Cloying Shades</td></tr>
-       <td>疾速射击 Quick Shot</td></tr>
-       <td>战技偷袭 Sneaky Maneuver</td></tr>
-       <td>忍术 Ninja Trick</td></tr>
+       <td>改日再死 Another Day<br>每日限一次，当盗贼即将被近战攻击伤害到0血或以下，她可以后退5尺且不受这次攻击的伤害，但恍惚一轮。</td></tr>
+       <td>密集暗影 Cloying Shades<br>每当具有该天赋的游荡者使用次元门法术或类法术能力，包括无相挪移或者阴影跳跃能力，所有在传送开始和结束时临近她的生物被纠缠一轮，通过反射检定可以豁免此效果，豁免dc为10+1/2游荡者+智力或者魅力加值取高。</td></tr>
+       <td>疾速射击 Quick Shot<br>每当游荡者骰先攻时，她可以用远程武器攻击距离最近的敌人。</td></tr>
+       <td>战技偷袭 Sneaky Maneuver<br>每当具有该天赋的游荡者尝试近战偷袭一个正在被她夹击或者对她的攻击失去敏捷加值的生物，她可以在本次攻击中获得-2减值，如果攻击命中，她放弃偷袭伤害，正常造成其余伤害，并可以在本回合用迅捷动作尝试阴招，缴械，击破或绊摔战技。</td></tr>
+       <td>忍术 Ninja Trick<br>具有此项天赋的游荡者可以从忍者的忍术列表中选择一项，她能够多次选择该天赋。</td></tr>
        <tr><td rowspan="4">裁决域 Inquisition</td></tr>
-       <td>灭法审判域 Spellkiller Inquisition</td></tr>
-       <td>革新审判域 Reformation Inquisition</td></tr>
-       <td>策略审判域 Tactics Inquisition</td></tr>
-       <tr><td>魔宠</td><td>蟹王 Crab King</td></tr>
-       <tr><td>炼金科研发现</td><td>触手 Tentacle</td></tr>
+       <td>灭法审判域 Spellkiller Inquisition<br>你获得扰法者作为额外专长。你击败一个敌人时，便在防御等级上获得+2神圣或亵渎加值，持续1分钟每审判者等级。</td></tr>
+       <td>革新审判域 Reformation Inquisition<br>你可以使用感知调整值而非魅力调整值加到任意说服检定的结果上。4级起，当你进行一次交涉或威吓技能检定时，你可以双骰取高。你每天可以使用本能力的轮数等同于你的感知调整值。</td></tr>
+       <td>策略审判域 Tactics Inquisition<br>你可以放弃整轮动作以及本轮所有的借机攻击，使一个距离你不超过30尺的盟友获得加速术的好处1轮。8级起，所有距离你不超过30尺的盟友都可以将你的感知调整值加到他们的先攻检定结果上。</td></tr>
+       <tr><td>魔宠</td><td>蟹王 Crab King<br>主人获得+2擒抱检定加值。</td></tr>
+       <tr><td>炼金科研发现</td><td>触手 Tentacle<br>此触手不会给予炼金术师每轮额外的攻击或动作，但触手的“攫抓”能力具有+4擒抱检定加值。</td></tr>
   <tr><td rowspan="26">崇神仪典 Deific Obedience</i></td>
 	 <tr><td>拉贾瑟尔 Ragathiel</td><td>需要信仰拉贾瑟尔（Expanded Content）或守序善良</td></tr>
   	 <tr><td>雪琳（信仰哨卫） Shelyn (Sentinel)</td><td>需要信仰雪琳或中立善良</td></tr>
@@ -3696,120 +3696,135 @@ C:\Users\你的用户名\AppData\LocalLow\Owlcat Games\Pathfinder Wrath Of The R
       	 <tr><td>灯王 The Lantern King</td><td>需要信仰灯王（Expanded Content）或混乱中立</td></tr>
       	 <tr><td>哥兹莱（大尊者） Gozreh (exalted)</td><td>需要信仰哥兹莱或中立</td></tr>
       	 <tr><td>卡莉丝翠（大尊者） Calistria (exalted)</td><td>需要信仰卡莉丝翠或混乱中立</td></tr>	
-  <tr><td rowspan="37">专长</i></td>
-       <td colspan="2">崇神仪典 Deific Obedience</td></tr>
-       <td colspan="2">多样尊崇 Diverse Obedience</td></tr>
-       <td colspan="2">神导之手 Guided Hand</td></tr>
-       <td colspan="2">战技突袭 Surprise Maneuver</td></tr>
-       <td colspan="2">下三滥打法 Dirty Fighting</td></tr>
-       <td colspan="2">擒抱（精通擒抱）Grapple</td></tr>
-       <tr><td colspan="2">高等擒抱 Greater Grapple</td></tr>
-       <tr><td colspan="2">快速擒抱 Rapid Grappler</td></tr>
-       <tr><td colspan="2">盘身扭 Unfair Grip</td></tr>
-       <tr><td colspan="2">压制击昏 Pinning Knockout</td></tr>
-       <tr><td colspan="2">压制撕裂 Pinning Rend</td></tr>
-       <tr><td colspan="2">野蛮裂地 Savage Slam</td></tr>
-       <tr><td colspan="2">炫目裂地 Dramatic Slam</td></tr>
-       <tr><td colspan="2">尖刺魔之触 Hamatula Strike</td></tr>
-       <tr><td colspan="2">割喉者 Throat Slicer</td></tr>
-       <tr><td colspan="2">批亢捣虚 Seize the Opportunity</td></tr>
-       <tr><td colspan="2">风吹幡动 Ripple in Still Water</td></tr>
+  <tr><td rowspan="26">专长</i></td>
+       <td colspan="2">崇神仪典 Deific Obedience<br>根据所信仰神明获得特殊神恩</td></tr>
+       <td colspan="2">多样尊崇 Diverse Obedience<br>在确定获得崇神仪典的神恩时，将你的hd视为比实际高2。每当你获得神恩时，你可以从传道者或信仰哨卫神恩中进行选择。</td></tr>
+       <td colspan="2">神导之手 Guided Hand<br>当你使用偏好武器时，你在掷攻击骰时可以用你的感知修正代替力量或敏捷修正。</td></tr>
+       <td colspan="2">战技突袭 Surprise Maneuver<br>如果你拥有偷袭骰，当你对一个正在被你夹击或者对你的攻击失去敏捷加值的生物使用战技时，你对手的CMD获得等同于偷袭骰数量的减值。</td></tr>
+       <td colspan="2">下三滥打法 Dirty Fighting<br>当你对一个被你夹击的敌人使用战技攻击时，夹击提供的加值提升至+4。还可以在选择精通战技类专长时视为拥有13敏捷，13智力，寓守于攻和精通徒手击打作为先决条件，同样对需要这些精通战技专长作为先决条件的专长生效。</td></tr>
+       <tr><td colspan="2">割喉者 Throat Slicer<br>当你使用单手，轻型，或者天生武器时，可以以一个标准动作对失去知觉，或被擒抱状态所压制或捆绑的目标发起致命一击。</td></tr>
+       <tr><td colspan="2">批亢捣虚 Seize the Opportunity<br>当你进行借机攻击时，你可以使用要害打击或尝试一个已学会的战技（如冲撞、卸武或阴招）来代替借机攻击。</td></tr>
+       <tr><td colspan="2">风吹幡动 Ripple in Still Water<br>将你的操念使等级与武僧等级叠加，决定你气池的每日点数和你念袭的伤害。此外，在你受威胁时使用念袭不会引发借机攻击。</td></tr>
        <tr><td colspan="2">次级双法合璧 Lesser Spell Synthesis<br>参见[MysticalMayhem](#MysticalMayhem)</td></tr>
-       <tr><td colspan="2">太极拳 Ki Throw</td></tr>
-       <tr><td colspan="2">太极-揽雀尾 Improved Ki Throw</td></tr>
-       <tr><td colspan="2">太极-抱虎归山 Binding Throw</td></tr>
-       <tr><td colspan="2">太极-倒撵猴 Enhanced Ki Throw</td></tr>
-       <tr><td colspan="2">高等徒手击打 Greater Unarmed Strike</td></tr>
-       <tr><td colspan="2">出奇制胜 Surprising Strategy</td></tr>
-       <tr><td colspan="2">保镖 Bodyguard</td></tr>
-       <tr><td colspan="2">违逆神意 Divine Defiance</td></tr>
-       <tr><td colspan="2">偶像破坏者 Iconoclast</td></tr>
-       <tr><td colspan="2">犀牛冲锋 Rhino Charge</td></tr>
-       <tr><td colspan="2">牛头冲锋 Minotaur’s Charge</td></tr>
-       <tr><td colspan="2">魔法技艺（法师之手） Magic Trick (mage hand)</td></tr>
-       <tr><td colspan="2">魔法技艺（护盾术） Magic Trick (shield)</td></tr>
-       <tr><td colspan="2">奥法强袭 Eldritch Assault</td></tr>
-       <tr><td colspan="2">浪子好运 Wanderer’s Fortune</td></tr>
-       <tr><td colspan="2">精通招架 Improved Parry</td></tr>
-       <tr><td colspan="2">盾牌猛击 Shield Slam</td></tr>
-       <tr><td colspan="2">盾牌缠陷 Shield Snag</td></tr>
-       <tr><td colspan="2">抓取飞箭 Snatch Arrows</td></tr>
+       <tr><td colspan="2">太极拳 Ki Throw<br>当你成功对目标进行徒手绊摔攻击，在走动之前你能够让目标摔倒在任何你正在威胁的方格内，而非他原本占据的方格。这个移动不会引发藉机攻击，你也无法将该名生物摔进有其他生物占据的空间内。</td></tr>
+       <tr><td colspan="2">太极-揽雀尾 Improved Ki Throw<br>当你使用“太极拳”专长时，你能够将你的目标丢至任何处于你威胁范围的方格内，并且该方格被任何其他生物所占据。你需要对次要目标进行受到-4减值的冲撞战技检定。如果检定成功，被投掷的生物会倒在次要目标所在的方格，而次要目标会被推开，并且倒在相邻的方格内。如果检定失败，被投掷的生物会倒地，他的位置会与次要目标相邻并且在你威胁范围内的最近的方格。</td></tr>
+       <tr><td colspan="2">太极-抱虎归山 Binding Throw<br>当你成功的对一个敌人使用了“太极拳”前，你可以用一次迅捷动作对其进行一次战技检定以尝试擒抱他。</td></tr>
+       <tr><td colspan="2">太极-倒撵猴 Enhanced Ki Throw<br></td>当你使用太极拳专长时，你可以花费一点真气，强化你的力道，如果你成功的将敌人摔出，当他倒地时，将承受相当于你徒手击打的伤害。</tr>
+       <tr><td colspan="2">高等徒手击打 Greater Unarmed Strike<br>你的徒手击打的基础伤害提升至1d8（中等体型），角色等级10级起，该基础伤害提升到1d10。</td></tr>
+       <tr><td colspan="2">出奇制胜 Surprising Strategy<br>当你成功格挡后，除了借机攻击以外，你还能额外发起一次阴招，缴械或击破战技，且带有+2士气加值，只要目标在触及范围内，该战技不会引起借机攻击。</td></tr>
+       <tr><td colspan="2">保镖 Bodyguard<br>你获得圣洁守卫（圣武士）的保镖能力。</td></tr>
+       <tr><td colspan="2">违逆神意 Divine Defiance<br>你在对抗神术施法者或神话生物时，豁免检定获得+2加值。</td></tr>
+       <tr><td colspan="2">偶像破坏者 Iconoclast<br>当你成功对违逆神意中所提及的生物使用破武战技，你可以用一个自由动作尝试一次威吓检定来挫败士气。这次挫败士气会影响在30尺内所有敌人。</td></tr>
+       <tr><td colspan="2">犀牛冲锋 Rhino Charge<br>未骑乘时你能以标准动作准备一次冲锋，但只能移动等同于你速度的距离。</td></tr>
+       <tr><td colspan="2">牛头冲锋 Minotaur’s Charge<br>每当你的冲锋攻击命中敌人，你可以用自由动作冲撞，如果冲撞距离达到15尺以上，目标还会倒地。</td></tr>
+       <tr><td colspan="2">奥法强袭 Eldritch Assault<br>每当你在魔法来源的全掩蔽效果中（例如移位术或者隐形术）攻击，你每轮第一个造成重击的攻击骰自动确认重击。</td></tr>
+       <tr><td colspan="2">浪子好运 Wanderer’s Fortune<br>以一个迅捷动作,你可以获得行动自如法术的好处，持续1轮。你能每天使用1次本专长，在知识（神秘）上每有5级额外增加一次。</td></tr>
+       <tr><td colspan="2">精通招架 Improved Parry<br>当你成功招架敌人的近战攻击时，你的下一次近战攻击不允许敌人将敏捷加值加到防御等级上（若有），但该攻击需要在你的下回合结束前进行。</td></tr>
+       <tr><td colspan="2">盾牌猛击 Shield Slam<br>任何被你的盾击命中的敌人也会成为你的一次自由动作冲撞的目标，和盾击采用相同掷骰。该战技不引发借机攻击。</td></tr>
+       <tr><td colspan="2">盾牌缠陷 Shield Snag<br>任何被你的盾击命中的敌人也会成为你的一次自由动作缴械的目标，和盾击采用相同掷骰。该战技不引发借机攻击。</td></tr>
+       <tr><td colspan="2">抓取飞箭 Snatch Arrows<br>当使用“拨挡飞箭”专长时你可以选择抓住那武器而不仅仅只是偏转它。该远程武器可以立刻被扔回去，视为对原攻击者的一次攻击。</td></tr>
+  <tr><td rowspan="14">擒抱专长</i></td>
+       <td colspan="2">擒抱（精通擒抱）<br>使用擒抱战技时不会引发借机攻击。此外你在擒抱检定上获得+2加值，同时在对抗擒抱的战技防御上获得+2加值。Grapple</td></tr>
+       <tr><td colspan="2">高等擒抱 Greater Grapple<br>你在擒抱检定中获得+2加值，此加值与“精通擒抱”专长带来的加值累计。当你成功擒抱一个生物，可以用移动动作维持擒抱。本专长允许你以标准动作进行第二次擒抱检定来进一步移动、伤害或压制你的对手。</td></tr>
+       <td colspan="2">擒抱（神话） Grapple (Mythic)<br>在你尝试进行擒抱检定，或者对试图擒抱你的敌人做战技防御（CMD）时，获得等于神话阶层一半的加值。这个加值能够和精通擒抱提供的加值叠加。另外，你还能对任何擒抱你的生物发起借机攻击，除非它也有这个专长。</td></tr>
+       <tr><td colspan="2">快速擒抱 Rapid Grappler<br>当你成功地使用“高等擒抱”以移动动作维持了一次擒抱之后，接下来你只用迅捷动作就可以以承受-5减值进行维持擒抱的战技检定。</td></tr>
+       <tr><td colspan="2">盘身扭 Unfair Grip<br>当你发动擒抱战技攻击时，你在维持擒抱的战技检定上获得+1加值，你的对手在挣脱你的擒抱的战技对抗检定上承受-1减值。</td></tr>
+       <tr><td colspan="2">压制击昏 Pinning Knockout<br>当你压制一个对手，如果你成功的进行了一次擒抱战技检定对其造成伤害，你的伤害翻倍。</td></tr>
+       <tr><td colspan="2">压制撕裂 Pinning Rend<br>当你压制一个对手，如果你成功的进行了一次擒抱战技检定对其造成伤害，同时产生3d6流血伤害。</td></tr>
+       <tr><td colspan="2">野蛮裂地 Savage Slam<br>当你以正在擒抱对手的状态开始回合时，作为尝试用战技检定维持擒抱的代替，你可以尝试猛然将敌人摔倒在地上。当你用擒抱战技鉴定对敌人造成伤害时，解开擒抱，且对手会被击倒为俯卧。</td></tr>
+       <tr><td colspan="2">炫目裂地 Dramatic Slam<br>当你使用野蛮裂地时，如果你成功用擒抱战技检定击倒了对手，你可以尝试立刻进行威吓鉴定，对30尺内能看到你的敌人进行打击士气。</td></tr>
+       <tr><td colspan="2">尖刺魔之触 Hamatula Strike<br>当你的穿刺武器对敌人造成伤害时，你可以立即做一个擒抱检定；如果成功则敌人被你的武器所“刺穿”，你们同时进入擒抱状态。当对手处于“刺穿”状态时，在你的回合你可以承受-4罚值的以攻击动作进行擒抱检定来用武器来伤害你的对手，即便是正常擒抱中不能使用的武器此时也可。</td></tr>
+       <tr><td colspan="2">粗野擒抱 Uncanny Grapple<br>当你对正在擒抱的对手施加野蛮裂地时，你可以将其投掷到最多每神话阶层 10 尺远处，造成每神话阶层 10 点神力伤害，且目标会被击倒为俯卧。</td></tr>
+       <tr><td colspan="2">飞跃突袭 Aerial Assault<br>当进行冲锋攻击时，你可以将冲锋中的近战攻击改为进行擒抱检定，即使目标生物在通常状况下免疫擒抱也是如此。</td></tr>
+       <tr><td colspan="2">绳结专家 Knot Expert<br>以一个整轮动作，你可以对范围内的任何生物进行一次远程接触攻击，如果击中可以尝试使用擒抱战技检定，将你的神话阶层加入战技检定中。如果成功，你不被视为进入擒抱状态，但不能移动。</td></tr>
+       <tr><td colspan="2">肉盾 Meat Shield<br>若你正在擒抱1名生物，并且受到近战或远程攻击，以直觉动作，你能够尝试进行擒抱战技检定对抗被擒抱的敌人。若成功，到来的攻击会以你擒抱的敌人为目标。若失败，被擒抱的敌人会从擒抱中挣脱，到来的攻击会如常以你为目标。</td></tr>
   <tr><td rowspan="6">绊摔专长</i></td>
-       <tr><td colspan="2">剪刀脚 Vindictive Fall</td></tr>
-       <tr><td colspan="2">远距绊摔 Ranged Trip</td></tr>
-       <tr><td colspan="2">王牌绊摔 Ace Trip</td></tr>
-       <tr><td colspan="2">下三路顺劈 Cleaving Sweep</td></tr>
-       <tr><td colspan="2">多米诺牌手 Down Like Dominoes</td></tr>
+       <tr><td colspan="2">剪刀脚 Vindictive Fall<br>当一个生物令你倒地，比如法术（油腻术）或成功的绊摔战技，你可以对你近战武器范围内最近的一名敌人尝试绊摔战技。</td></tr>
+       <tr><td colspan="2">远距绊摔 Ranged Trip<br>以一个全回合动作，可以用你的远程武器进行一次-2减值的绊摔，使用敏捷加值，而非力量加值。如果目标距离30尺以上，额外获得-2减值。如果绊摔成功，目标还会受到你的武器攻击的伤害。</td></tr>
+       <tr><td colspan="2">王牌绊摔 Ace Trip<br>你的远距绊摔不会有减值，且你可以绊摔任何目标，即使它对其免疫。</td></tr>
+       <tr><td colspan="2">下三路顺劈 Cleaving Sweep<br>以一个全回合动作，你可以对所有触及内的敌人尝试绊摔，对每个敌人单独掷骰。</td></tr>
+       <tr><td colspan="2">多米诺牌手 Down Like Dominoes<br>成功绊摔一个敌人时，可以用自由动作再绊摔一个附近的敌人，但有-4减值。如果这次绊摔也成功，立刻移动至其方格并可以继续绊摔，获得累计的-4减值，以此类推。一轮内最多能如此额外绊摔的生物数量等于1+你一半的神话阶级。</td></tr>
   <tr><td rowspan="4">碎甲专长</i></td>
-       <tr><td colspan="2">碎甲 Crush Armor</td></tr>
-       <tr><td colspan="2">闪破风暴 Sunder Storm</td></tr>
-       <tr><td colspan="2">血肉撕扯 Tear Apart</td></tr>
+       <tr><td colspan="2">碎甲 Crush Armor<br>当你成功使用击破战技对敌人的盔甲造成伤害后，该敌人疲劳一轮，但不会因此力竭。</td></tr>
+       <tr><td colspan="2">闪破风暴 Sunder Storm<br>当你成功使用击破战技，你将打碎的物品碎片轰入穿戴着血肉之中，造成1d6+神话等级点神力伤害。此外，你可以用一个整轮动作向武器范围内所有敌人尝试击破战技。</td></tr>
+       <tr><td colspan="2">血肉撕扯 Tear Apart<br>你的击破战技不再禁用对手的盔甲，二是直接撕裂它。如果战技检定成功，你造成武器攻击伤害并在对手的盔甲，天生护甲或者盾牌加值中减少等同于神话等级1/2的加值（至少为1），如果对手在上述加值中有增强加值，也可以扣减，但不能扣减成负值。</td></tr>
   <tr><td rowspan="7">冲撞专长</i></td>
-       <tr><td colspan="2">快速冲撞 Quick Bull Rush</td></tr>
-       <tr><td colspan="2">狂暴投技 Raging Throw</td></tr>
-       <tr><td colspan="2">飓风神拳 Hurricane Punch</td></tr>
-       <tr><td colspan="2">一击震退 Knockback</td></tr>
-       <tr><td colspan="2">一夫当关 Drive Back</td></tr>
-       <tr><td colspan="2">战斗诡术 Combat Trickery</td></tr>
+       <tr><td colspan="2">快速冲撞 Quick Bull Rush<br>当你行动时，你可以用一次单独的冲撞战技检定来代替你的全回合的一次近战攻击。</td></tr>
+       <tr><td colspan="2">狂暴投技 Raging Throw<br>当你在狂暴中尝试使用冲撞战技时，你能以迅捷动作消耗1轮每日狂暴轮数，来将体质修正添加到冲撞战技检定上。此外，当你冲撞成功，对手受到等同于你的“力量修正+体质修正”钝击伤害。</td></tr>
+       <tr><td colspan="2">飓风神拳 Hurricane Punch<br>当你一轮内用徒手击打命中同一生物两次时，你可以用迅捷动作进行推撞。另外，你可以随冲撞目标一起移动。</td></tr>
+       <tr><td colspan="2">一击震退 Knockback<br>每轮限一次，野蛮人可以用一次单独的冲撞战技检定来代替你的全回合的一次近战攻击，成功的话，目标如常被击退且受到等同于野蛮人力量加值的伤害。</td></tr>
+       <tr><td colspan="2">一夫当关 Drive Back<br>你可以用全回合动作对触及范围内所有敌人进行一次最高攻击加值的攻击，然后对每个你击中的敌人尝试推撞。</td></tr>
+       <tr><td colspan="2">战斗诡术 Combat Trickery<br>你可以用标准动作对所有邻接敌人进行冲撞，用唬骗技能加值代替你的CMB进行战技检定。</td></tr>
   <tr><td rowspan="11">卸武专长</i></td>
-       <tr><td colspan="2">顺势缴械 Sweeping Disarm</td></tr>
-       <tr><td colspan="2">突破防御 Break Guard</td></tr>
-       <tr><td colspan="2">跟进追击 Follow-Up Strike</td></tr>
-       <tr><td colspan="2">空手入白刃 Hold the Blade</td></tr>
-       <tr><td colspan="2">擒肘拿腕 Wrist Grab</td></tr>
-       <tr><td colspan="2">远程缴械 Ranged Disarm</td></tr>
-       <tr><td colspan="2">王牌缴械 Ace Disarm</td></tr>
-       <tr><td colspan="2">缠臂锁肩 Arm Bind</td></tr>
-       <tr><td colspan="2">连抓带打 Strike and Seize</td></tr>
-       <tr><td colspan="2">远程缴械（神话） Ranged Disarm (Mythic)</td></tr>
+       <tr><td colspan="2">顺势缴械 Sweeping Disarm<br>当你成功进行缴械检定时，你可以受到-5减值对原本目标邻接的一个目标再进行一次缴械检定。你不需要威胁第二个目标。你每轮只能用这个专长进行一次卸武战技检定。</td></tr>
+       <tr><td colspan="2">突破防御 Break Guard<br>当你装备两把武器，你成功卸除敌人的武器后可以消耗一次迅捷动作来用副手武器立刻对其进行一次攻击。</td></tr>
+       <tr><td colspan="2">跟进追击 Follow-Up Strike<br>每当你成功用战技缴械对手，你可以使用迅捷动作，以最高攻击加值向其发动一次徒手击打。</td></tr>
+       <tr><td colspan="2">空手入白刃 Hold the Blade<br>当受到手持近战武器的敌人的夹击或偷袭伤害时，可以进行一次战技检定以卸除对方武器。必须至少有一手空闲才能使用此专长。使用此专长后，在下一回合开始之前承受-4AC，一轮只能使用一次。</td></tr>
+       <tr><td colspan="2">擒肘拿腕 Wrist Grab<br>当对手的攻击失手的差值达到5或以上，你可以尝试缴械战技。你一轮只能使用此专长一次。</td></tr>
+       <tr><td colspan="2">远程缴械 Ranged Disarm<br>以一个全回合动作，你可以使用远程武器对目标尝试一次受-2罚值的卸除武器战技。使用敏捷调整值代替力量调整值来计算该次战技修正。若目标在30尺外，还会额外承受-2罚值。若卸武战技检定成功，目标会承受1次伤害，如同你通过武器成功命中目标一样。</td></tr>
+       <tr><td colspan="2">远程缴械（神话） Ranged Disarm (Mythic)<br>你可以轻松使用远程攻击缴械对手。在远程缴械时增加等同于神话等级的加值，如果该缴械成功，再尝试一次额外的缴械。</td></tr>
+       <tr><td colspan="2">王牌缴械 Ace Disarm<br>当你使用远程卸武专长以远程武器发动缴械战技攻击时，你不会在攻击检定上承受-2减值。除此之外，如果目标使用的是天生武器，你可以偷窃一件随机装备。</td></tr>
+       <tr><td colspan="2">缠臂锁肩 Arm Bind<br>你能够尝试一次战技检定来卸除敌人武器，包括天生武器。该战技视为缴械战技。若你的检定成功，而且敌人使用的是天生武器，则可以选择限制住一只手臂，直至你的下个回合结束为止阻止该敌人下一次攻击命中。</td></tr>
+       <tr><td colspan="2">连抓带打 Strike and Seize<br>以标准动作，你能够用武器做出单次攻击，并且用空着的手尝试一次缴械战技且无需承受双武器战斗的惩罚。</td></tr>
   <tr><td rowspan="27">流派专长</i></td>
        <td rowspan="3">黑堕</td>
-           <td>黑堕流 Black Seraph Style</td></tr>
-       <tr><td>黑堕恶念 Black Seraph’s Malevolence</td></tr>
-       <tr><td>黑堕湮灭 Black Seraph Annihilation</td></tr>
+           <td>黑堕流 Black Seraph Style<br>在对抗战栗、惊惧、恐慌或畏缩的敌人时，你的防御等级和豁免检定得到+1亵渎加值。此加值在5级和之后每5个等级提高1点。</td></tr>
+       <tr><td>黑堕恶念 Black Seraph’s Malevolence<br>你的污邪武器同时成为神圣武器。</td></tr>
+       <tr><td>黑堕湮灭 Black Seraph Annihilation<br>距你30尺内的生物即使免疫恐惧也会被恐惧效果影响。距你30尺内的生物即使免疫影响心灵效果也会被打击士气效果影响，但若需要豁免检定则有+5抗力加值。</td></tr>
        <tr><td rowspan="3">擒拿</td>
-           <td>擒拿手 Grabbing Style</td></tr>
-       <tr><td>擒拿手-擒龙控鹤 Grabbing Drag</td></tr>
-       <tr><td>擒拿手-五指山 Grabbing Master</td></tr>
+           <td>擒拿手 Grabbing Style<br>当你开启擒拿手流派时，你在仅用单手擒抱目标的战技攻击检定上不再承受-4减值。除此之外，你在压制一个敌人时不再会失去防御等级上的敏捷加值。</td></tr>
+       <tr><td>擒拿手-擒龙控鹤 Grabbing Drag<br>你可以以移动动作对三十尺内一个生物发起擒抱检定，若成功则将其拉向你，该移动及本能力均会引发借机攻击。</td></tr>
+       <tr><td>擒拿手-五指山 Grabbing Master<br>你可以擒抱任何生物，即使它对其免疫。</td></tr>
        <tr><td rowspan="3">鹿家</td>
-           <td>鹿家赶蟾步 Charging Stag Style</td></tr>
-       <tr><td>鹿家鹰爪功 Stag Horns</td></tr>
-       <tr><td>鹿家一指 Stag Submission</td></tr>
+           <td>鹿家赶蟾步 Charging Stag Style<br>当你使用鹿家赶蟾步且并未骑乘时，可以冲锋穿过友军，小障碍物或困难地形，在必要时转向。你必须在冲锋开始时就能看到你的目标，并且冲锋结束时也只能进行一次攻击，即使你通常可以进行多次攻击（例如猛扑能力）。</td></tr>
+       <tr><td>鹿家鹰爪功 Stag Horns<br>当你使用鹿家赶蟾步时，如果你在冲锋结束时进行了一次成功的徒手攻击，那么你可以免费对目标进行一次不会引发借机攻击的擒抱检定。</td></tr>
+       <tr><td>鹿家一指 Stag Submission<br>当你使用鹿家赶蟾步并成功通过战技检定压制敌人时，你可以选择同时将敌人击倒或者对敌人造成攻击伤害。</td></tr>
        <tr><td rowspan="3">玄武</td>
-           <td>玄武掌 Snapping Turtle Style</td></tr>
-       <tr><td>玄武寂灭抓 Snapping Turtle Clutch</td></tr>
-       <tr><td>玄武不坏神功 Snapping Turtle Shell</td></tr>
+           <td>玄武掌 Snapping Turtle Style<br>当你处于该流派架势时，你在AC上得到+1盾牌加值。</td></tr>
+       <tr><td>玄武寂灭抓 Snapping Turtle Clutch<br>你从该流派架势获得的盾牌加值能加到CMD和接触AC上；当你采用该流派架势时，如果对手对你近战攻击失手，每轮一次你可对该对手发起一次受-2减值的擒抱。</td></tr>
+       <tr><td>玄武不坏神功 Snapping Turtle Shell<br>当你处于该流派架势时，你在此架势获得的盾牌加值变成+2，而且对手对你的重击确认骰受到-4减值。</td></tr>
        <tr><td rowspan="3">缠丝手</td>
-           <td>缠丝手 Kraken Style</td></tr>
-       <tr><td>缠丝手-金蛇擒鹤 Kraken Wrack</td></tr>
-       <tr><td>缠丝手-万蛇出洞 Medusa's Wrath</td></tr>
-       <tr><td rowspan="3">散花掌</td>
-           <td>散花掌 Jabbing Style</td></tr>
-       <tr><td>一苇渡江 Jabbing Dancer</td></tr>
-       <tr><td>如来千叶手 Jabbing Master</td></tr>
+           <td>缠丝手 Kraken Style<br>当你使用该流派并成功通过一次擒抱检定时，被你擒抱的目标额外受到等同于你感知调整值的数值的钝击伤害。此外你维持擒抱的擒抱战技检定获得+2加值。</td></tr>
+       <tr><td>缠丝手-金蛇擒鹤 Kraken Wrack<br>你在擒抱战技检定成功时触手流专长所提供的额外伤害增加为你的感知调整值+4力场伤害。当你使用该流派时，你在成功维持擒抱后可以选择压碎目标，而非锁喉、造成伤害、移动、压制或捆绑目标。若如此做，一回合内目标失去护甲带来的防御加值。</td></tr>
+       <tr><td>缠丝手-万蛇出洞 Medusa's Wrath<br>每当你进行全力攻击并做出至少一次徒手击打攻击时，你可以额外以最高BAB做出两次徒手击打攻击。这些额外攻击必须针对晕眩、措手不及、麻痹、恍惚、震慑或昏迷状态的敌人。</td></tr>
+       <tr><td rowspan="3">散花掌<br></td>
+           <td>散花掌 Jabbing Style<br>当你徒手攻击命中一名单位时，若本轮你之前也用徒手攻击命中过该单位，则你本次徒手攻击额外造成1d6点伤害。</td></tr>
+       <tr><td>一苇渡江 Jabbing Dancer<br>在使用散花掌流派时，你在进行五尺快步时可以额外移动五尺距离。</td></tr>
+       <tr><td>如来千叶手 Jabbing Master<br>在使用散花掌流派时，你同一轮两次徒手击打命中造成的额外伤害提升到2d6。三次或以上徒手击打命中造成的额外伤害提升到4d6。</td></tr>
        <tr><td rowspan="3">豹尾脚</td>
-           <td>豹尾脚 Panther Style</td></tr>
-       <tr><td>九转连环腿 Panther Claw</td></tr>
-       <tr><td>神龙摆尾 Panther Parry</td></tr>
+           <td>豹尾脚 Panther Style<br>当你使用豹尾脚流派时，当你在穿过威胁区域而引发借机攻击时，你能以迅捷动作用徒手攻击你的对手。这次攻击在诱发对方借机攻击后才能发动。</td></tr>
+       <tr><td>九转连环腿 Panther Claw<br>你使用豹尾脚流派时，你可以用自由动作进行对借机攻击的反击。你在你的行动轮中可以做出等同你感知修正次数的反击。</td></tr>
+       <tr><td>神龙摆尾 Panther Parry<br>你使用豹尾脚流派时，你的反击可以在对方进行借机攻击前作出，如果你的这次反击对对手造成伤害，对手对你的借机攻击在攻击骰和伤害骰都有-2罚值。</td></tr>
               <tr><td rowspan="3">美人三招</td>
-           <td>美人三招-贵妃回眸 Cloak and Dagger Style</td></tr>
-       <tr><td>美人三招-小怜横陈 Cloak and Dagger Subterfuge</td></tr>
-       <tr><td>美人三招-飞燕回翔 Cloak and Dagger Tactics</td></tr>
-       <tr><td colspan="2">大力金刚掌 Smashing Style</td></tr>
-       <tr><td colspan="2">韦陀杵 Stick-Fighting Counter</td></tr>
-       <tr><td colspan="2">伏魔杖 Stick-Fighting Maneuver</td></tr>
-  <tr><td rowspan="11">神话专长</i></td>
-       <td colspan="2">擒抱（神话） Grapple (Mythic)</td></tr>
-       <td colspan="2">神导之手（神话） Guided Hand(Mythic)</td></tr>
-       <tr><td colspan="2">粗野擒抱 Uncanny Grapple</td></tr>
-       <tr><td colspan="2">飞跃突袭 Aerial Assault</td></tr>
-       <tr><td colspan="2">绳结专家 Knot Expert</td></tr>
-       <tr><td colspan="2">肉盾 Meat Shield</td></tr>
+           <td>美人三招-贵妃回眸 Cloak and Dagger Style<br>你的攻击能轻易对未察觉的对手造成不良状态。选择一种轻型近战武器。当你开启该流派时，你用所选的武器在你进入战斗的第一回合中首次攻击一个失去AC上的敏捷加值的敌人时，你可以用自由动作对该敌人进行一次阴招战技检定。</td></tr>
+       <tr><td>美人三招-小怜横陈 Cloak and Dagger Subterfuge<br>当你开启美人三招并持用你所选的武器时，每当你对一个敌人进行借机攻击时，你同时还能用一个自由动作对他进行一次额外的阴招战技检定。另外。每当你成功对一个敌人进行阴招战技时，你能立刻以一个自由动作对他进行一次缴械战技检定。</td></tr>
+       <tr><td>美人三招-飞燕回翔 Cloak and Dagger Tactics<br>当你开启美人三招并持用你所选的武器时，每当你击中一个失去AC上的敏捷加值或被你夹击的敌人，或是使用要害打击（以及其精通和高等版本）进行一次攻击时，你可以用自由动作对该敌人进行一次阴招战技检定。如果你成功了，该目标必须成功通过强韧检定（DC=10+1/2你的BAB+你的智力调整），否则就会困惑，如果免疫则会恍惚，如果免疫则会力竭，如果免疫则会被钉在原地不能移动。无论阴招造成的普通惩罚持续多久，该额外的惩罚只持续一轮。你每轮只能使用该专长一次来以进行额外的阴招战技检定。</td></tr>
+       <tr><td colspan="2">大力金刚掌 Smashing Style<br>使用这个流派时，当你成功使用击破战技对敌人的盔甲造成伤害后，你可以立即用相同的战技加值尝试冲撞或者绊摔，不引起借机攻击。</td></tr>
+       <tr><td colspan="2">韦陀杵 Stick-Fighting Counter<br>当你进行防御式攻击时，可以准备反击本回合攻击过的敌人，每轮限一次，当其对你的近战攻击失手时，会引起你的借机攻击。你需要处于能威胁他的范围，且持用棍棒类武器。</td></tr>
+       <tr><td colspan="2">伏魔杖 Stick-Fighting Maneuver<br>当你使用棍棒类武器全回合攻击时，你可以以最高攻击加值使用一次额外的战技。</td></tr>
+  <tr><td rowspan="7">魔法技艺</i></td>
+       <tr><td rowspan="5">魔法技艺（法师之手） Magic Trick (mage hand)<br>只要你符合相应要求即可施展法师之手的任何魔法技艺。</td></tr>
+       <tr><td colspan="2">魔法阴招（精通阴招） Dirty Magic Trick<br>可以以你的CMB对近距内的一个对手使用阴招战技。</td></tr>
+       <tr><td colspan="2">远程协助（基础攻击加值+1） Ranged Aid<br>你可以在近距内远程使用援助他人动作。</td></tr>
+       <tr><td colspan="2">劈空掌（精通徒手打击） Throw Punch<br>你可以用法师之手在近距内进行近战徒手击打，造成1D3点力场伤害。ab等于你的施法者等级加上最高精神属性调整值。法术抗力对该技艺生效。你不能以此全回合攻击。</td></tr>
+       <tr><td colspan="2">弹指神通（精准射击或法术及远） Reaching Hand<br>你能以迅捷动作集中注意力，将劈空掌距离增加至中距。</td></tr>
+       <tr><td colspan="2">魔法技艺（护盾术） Magic Trick (shield)<br>你可以让你的盟友获得你的护盾术的好处。你失去其好处，你的盟友在法术持续时间内获得其好处。</td></tr>
+  <tr><td rowspan="14">神话专长</i></td>
+       <td colspan="2">擒抱（神话） Grapple (Mythic)<br>在你尝试进行擒抱检定，或者对试图擒抱你的敌人做战技防御（CMD）时，获得等于神话阶层一半的加值。这个加值能够和精通擒抱提供的加值叠加。另外，你还能对任何擒抱你的生物发起借机攻击，除非它也有这个专长。</td></tr>
+       <tr><td colspan="2">粗野擒抱 Uncanny Grapple<br>当你对正在擒抱的对手施加野蛮裂地时，你可以将其投掷到最多每神话阶层 10 尺远处，造成每神话阶层 10 点神力伤害，且目标会被击倒为俯卧。</td></tr>
+       <tr><td colspan="2">飞跃突袭 Aerial Assault<br>当进行冲锋攻击时，你可以将冲锋中的近战攻击改为进行擒抱检定，即使目标生物在通常状况下免疫擒抱也是如此。</td></tr>
+       <tr><td colspan="2">绳结专家 Knot Expert<br>以一个整轮动作，你可以对范围内的任何生物进行一次远程接触攻击，如果击中可以尝试使用擒抱战技检定，将你的神话阶层加入战技检定中。如果成功，你不被视为进入擒抱状态，但不能移动。</td></tr>
+       <tr><td colspan="2">肉盾 Meat Shield<br>若你正在擒抱1名生物，并且受到近战或远程攻击，以直觉动作，你能够尝试进行擒抱战技检定对抗被擒抱的敌人。若成功，到来的攻击会以你擒抱的敌人为目标。若失败，被擒抱的敌人会从擒抱中挣脱，到来的攻击会如常以你为目标。</td></tr>
+       <tr><td colspan="2">多米诺牌手 Down Like Dominoes<br>成功绊摔一个敌人时，可以用自由动作再绊摔一个附近的敌人，但有-4减值。如果这次绊摔也成功，立刻移动至其方格并可以继续绊摔，获得累计的-4减值，以此类推。一轮内最多能如此额外绊摔的生物数量等于1+你一半的神话阶级。</td></tr>
+       <tr><td colspan="2">闪破风暴 Sunder Storm<br>当你成功使用击破战技，你将打碎的物品碎片轰入穿戴着血肉之中，造成1d6+神话等级点神力伤害。此外，你可以用一个整轮动作向武器范围内所有敌人尝试击破战技。</td></tr>
+       <tr><td colspan="2">血肉撕扯 Tear Apart<br>你的击破战技不再禁用对手的盔甲，二是直接撕裂它。如果战技检定成功，你造成武器攻击伤害并在对手的盔甲，天生护甲或者盾牌加值中减少等同于神话等级1/2的加值（至少为1），如果对手在上述加值中有增强加值，也可以扣减，但不能扣减成负值。</td></tr>
+       <tr><td colspan="2">远程缴械（神话） Ranged Disarm (Mythic)<br>你可以轻松使用远程攻击缴械对手。在远程缴械时增加等同于神话等级的加值，如果该缴械成功，再尝试一次额外的缴械。</td></tr>
        <tr><td colspan="2">战技专家 Maneuver Expert</td></tr>
-       <tr><td colspan="2">太极-四两拨千斤 Ki Throw Mastery</td></tr>
-       <tr><td colspan="2">拨挡飞箭（神话） Deflect Arrows (Mythic)</td></tr>
-       <tr><td colspan="2">血脉传承（神话） Racial Heritage (Mythic)</td></tr>
-       <tr><td colspan="2">远程缴械（神话） Ranged Disarm (Mythic)</td></tr>
+       <tr><td colspan="2">太极-四两拨千斤 Ki Throw Mastery<br>你能通过阴招，缴械或击破来使用太极拳。另外，你的目标每比你大一个体型，你的战技检定就获得+2加值。</td></tr>
+       <td colspan="2">神导之手（神话） Guided Hand(Mythic)<br>当你使用偏好武器时，你在掷武器伤害骰时可以用你的感知修正代替力量或敏捷修正。</td></tr>
+       <tr><td colspan="2">拨挡飞箭（神话） Deflect Arrows (Mythic)<br>当你使用拨挡飞箭专长时，每轮能够偏转远程攻击的次数增加等同于你的神话等级的一半。你也可以偏转以你为目标且来自射线法术或效果的单条射线。</td></tr>
+       <tr><td colspan="2">血脉传承（神话） Racial Heritage (Mythic)<br>选择另一个类人种族。在获得特性和专长时，你可以视为那个种族。然后，你获得所选种族的一个特性。</td></tr>
+
   <tr><td rowspan="8">神话进阶职业特性</i></td>
        <td colspan="2">轻巧夺命 Swift Death<br>你的夺命攻击变成标准动作，刺客10级时还会变成移动动作。</td></tr>
        <tr><td colspan="2">高等轻巧夺命 Greater Swift Death<br>你的夺命攻击变成移动动作，刺客10级时还会变成迅捷动作。</td></tr>
