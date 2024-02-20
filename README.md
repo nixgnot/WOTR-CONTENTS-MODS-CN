@@ -3657,7 +3657,17 @@ C:\Users\你的用户名\AppData\LocalLow\Owlcat Games\Pathfinder Wrath Of The R
        <tr><td rowspan="3">气力 Ki Power</td></tr>
        <td>气力：一指禅 One Touch</td></tr>
        <td>气力：凌波微步 Freedom of Movement</td></tr>
-       <td>游荡者天赋</td><td>防御翻滚 Defensive Roll<br>房规改动，加入类似屹立不倒的效果</td></tr>
+       <tr><td rowspan="7">游荡者天赋 Rogue Talents</td></tr>
+       <td>防御翻滚 Defensive Roll<br>房规改动，加入类似屹立不倒的效果</td></tr>
+       <td>改日再死 Another Day</td></tr>
+       <td>密集暗影 Cloying Shades</td></tr>
+       <td>疾速射击 Quick Shot</td></tr>
+       <td>战技偷袭 Sneaky Maneuver</td></tr>
+       <td>忍术 Ninja Trick</td></tr>
+       <tr><td rowspan="4">裁决域 Inquisition</td></tr>
+       <td>灭法审判域 Spellkiller Inquisition</td></tr>
+       <td>革新审判域 Reformation Inquisition</td></tr>
+       <td>策略审判域 Tactics Inquisition</td></tr>
        <tr><td>魔宠</td><td>蟹王 Crab King</td></tr>
        <tr><td>炼金科研发现</td><td>触手 Tentacle</td></tr>
   <tr><td rowspan="26">崇神仪典 Deific Obedience</i></td>
@@ -3685,12 +3695,13 @@ C:\Users\你的用户名\AppData\LocalLow\Owlcat Games\Pathfinder Wrath Of The R
       	 <tr><td>洛瓦古格 Rovagug</td><td>需要信仰洛瓦古格或混乱邪恶</td></tr>
       	 <tr><td>灯王 The Lantern King</td><td>需要信仰灯王（Expanded Content）或混乱中立</td></tr>
       	 <tr><td>哥兹莱（大尊者） Gozreh (exalted)</td><td>需要信仰哥兹莱或中立</td></tr>
-      	 <tr><td>卡莉丝翠（大尊者） Calistria (exalted)</td><td>需要信仰卡莉丝翠或混乱中立</td></tr>
-	
+      	 <tr><td>卡莉丝翠（大尊者） Calistria (exalted)</td><td>需要信仰卡莉丝翠或混乱中立</td></tr>	
   <tr><td rowspan="20">专长</i></td>
        <td colspan="2">崇神仪典 Deific Obedience</td></tr>
        <td colspan="2">多样尊崇 Diverse Obedience</td></tr>
        <td colspan="2">神导之手 Guided Hand</td></tr>
+       <td colspan="2">战技突袭 Surprise Maneuver</td></tr>
+       <td colspan="2">下三滥打法 Dirty Fighting</td></tr>
        <td colspan="2">擒抱（精通擒抱）Grapple</td></tr>
        <tr><td colspan="2">高等擒抱 Greater Grapple</td></tr>
        <tr><td colspan="2">快速擒抱 Rapid Grappler</td></tr>
@@ -3708,6 +3719,49 @@ C:\Users\你的用户名\AppData\LocalLow\Owlcat Games\Pathfinder Wrath Of The R
        <tr><td colspan="2">太极-揽雀尾 Improved Ki Throw</td></tr>
        <tr><td colspan="2">太极-抱虎归山 Binding Throw</td></tr>
        <tr><td colspan="2">太极-倒撵猴 Enhanced Ki Throw</td></tr>
+       <tr><td colspan="2">高等徒手击打 Greater Unarmed Strike</td></tr>
+       <tr><td colspan="2">出奇制胜 Surprising Strategy</td></tr>
+       <tr><td colspan="2">保镖 Bodyguard</td></tr>
+       <tr><td colspan="2">违逆神意 Divine Defiance</td></tr>
+       <tr><td colspan="2">偶像破坏者 Iconoclast</td></tr>
+       <tr><td colspan="2">犀牛冲锋 Rhino Charge</td></tr>
+       <tr><td colspan="2">牛头冲锋 Minotaur’s Charge</td></tr>
+       <tr><td colspan="2">魔法技艺（法师之手） Magic Trick (mage hand)</td></tr>
+       <tr><td colspan="2">魔法技艺（护盾术） Magic Trick (shield)</td></tr>
+       <tr><td colspan="2">奥法强袭 Eldritch Assault</td></tr>
+       <tr><td colspan="2">浪子好运 Wanderer’s Fortune</td></tr>
+       <tr><td colspan="2">精通招架 Improved Parry</td></tr>
+       <tr><td colspan="2">盾牌猛击 Shield Slam</td></tr>
+       <tr><td colspan="2">盾牌缠陷 Shield Snag</td></tr>
+       <tr><td colspan="2">抓取飞箭 Snatch Arrows</td></tr>
+  <tr><td rowspan="6">绊摔专长</i></td>
+       <tr><td colspan="2">剪刀脚 Vindictive Fall</td></tr>
+       <tr><td colspan="2">远距绊摔 Ranged Trip</td></tr>
+       <tr><td colspan="2">王牌绊摔 Ace Trip</td></tr>
+       <tr><td colspan="2">下三路顺劈 Cleaving Sweep</td></tr>
+       <tr><td colspan="2">多米诺牌手 Down Like Dominoes</td></tr>
+  <tr><td rowspan="4">碎甲专长</i></td>
+       <tr><td colspan="2">碎甲 Crush Armor</td></tr>
+       <tr><td colspan="2">闪破风暴 Sunder Storm</td></tr>
+       <tr><td colspan="2">血肉撕扯 Tear Apart</td></tr>
+  <tr><td rowspan="7">冲撞专长</i></td>
+       <tr><td colspan="2">快速冲撞 Quick Bull Rush</td></tr>
+       <tr><td colspan="2">狂暴投技 Raging Throw</td></tr>
+       <tr><td colspan="2">飓风神拳 Hurricane Punch</td></tr>
+       <tr><td colspan="2">一击震退 Knockback</td></tr>
+       <tr><td colspan="2">一夫当关 Drive Back</td></tr>
+       <tr><td colspan="2">战斗诡术 Combat Trickery</td></tr>
+  <tr><td rowspan="10">卸武专长</i></td>
+       <tr><td colspan="2">顺势缴械 Sweeping Disarm</td></tr>
+       <tr><td colspan="2">突破防御 Break Guard</td></tr>
+       <tr><td colspan="2">跟进追击 Follow-Up Strike</td></tr>
+       <tr><td colspan="2">空手入白刃 Hold the Blade</td></tr>
+       <tr><td colspan="2">擒肘拿腕 Wrist Grab</td></tr>
+       <tr><td colspan="2">远程缴械 Ranged Disarm</td></tr>
+       <tr><td colspan="2">王牌缴械 Ace Disarm</td></tr>
+       <tr><td colspan="2">缠臂锁肩 Arm Bind</td></tr>
+       <tr><td colspan="2">连抓带打 Strike and Seize</td></tr>
+       <tr><td colspan="2">远程缴械（神话） Ranged Disarm (Mythic)</td></tr>
   <tr><td rowspan="15">流派专长</i></td>
        <td rowspan="3">黑堕</td>
            <td>黑堕流 Black Seraph Style</td></tr>
@@ -3729,15 +3783,33 @@ C:\Users\你的用户名\AppData\LocalLow\Owlcat Games\Pathfinder Wrath Of The R
            <td>缠丝手 Kraken Style</td></tr>
        <tr><td>缠丝手-金蛇擒鹤 Kraken Wrack</td></tr>
        <tr><td>缠丝手-万蛇出洞 Medusa's Wrath</td></tr>
-  <tr><td rowspan="8">神话专长</i></td>
+       <tr><td rowspan="3">散花掌</td>
+           <td>散花掌 Jabbing Style</td></tr>
+       <tr><td>一苇渡江 Jabbing Dancer</td></tr>
+       <tr><td>如来千叶手 Jabbing Master</td></tr>
+       <tr><td rowspan="3">豹尾脚</td>
+           <td>豹尾脚 Panther Style</td></tr>
+       <tr><td>九转连环腿 Panther Claw</td></tr>
+       <tr><td>神龙摆尾 Panther Parry</td></tr>
+              <tr><td rowspan="3">美人三招</td>
+           <td>美人三招-贵妃回眸 Cloak and Dagger Style</td></tr>
+       <tr><td>美人三招-小怜横陈 Cloak and Dagger Subterfuge</td></tr>
+       <tr><td>美人三招-飞燕回翔 Cloak and Dagger Tactics</td></tr>
+       <tr><td colspan="2">大力金刚掌 Smashing Style</td></tr>
+       <tr><td colspan="2">韦陀杵 Stick-Fighting Counter</td></tr>
+       <tr><td colspan="2">伏魔杖 Stick-Fighting Maneuver</td></tr>
+  <tr><td rowspan="11">神话专长</i></td>
        <td colspan="2">擒抱（神话） Grapple (Mythic)</td></tr>
-       <td>神导之手（神话） Guided Hand(Mythic)</td></tr>
+       <td colspan="2">神导之手（神话） Guided Hand(Mythic)</td></tr>
        <tr><td colspan="2">粗野擒抱 Uncanny Grapple</td></tr>
        <tr><td colspan="2">飞跃突袭 Aerial Assault</td></tr>
        <tr><td colspan="2">绳结专家 Knot Expert</td></tr>
        <tr><td colspan="2">肉盾 Meat Shield</td></tr>
        <tr><td colspan="2">战技专家 Maneuver Expert</td></tr>
        <tr><td colspan="2">太极-四两拨千斤 Ki Throw Mastery</td></tr>
+       <tr><td colspan="2">拨挡飞箭（神话） Deflect Arrows (Mythic)</td></tr>
+       <tr><td colspan="2">血脉传承（神话） Racial Heritage (Mythic)</td></tr>
+       <tr><td colspan="2">远程缴械（神话） Ranged Disarm (Mythic)</td></tr>
   <tr><td rowspan="8">神话进阶职业特性</i></td>
        <td colspan="2">轻巧夺命 Swift Death<br>你的夺命攻击变成标准动作，刺客10级时还会变成移动动作。</td></tr>
        <tr><td colspan="2">高等轻巧夺命 Greater Swift Death<br>你的夺命攻击变成移动动作，刺客10级时还会变成迅捷动作。</td></tr>
@@ -3747,6 +3819,17 @@ C:\Users\你的用户名\AppData\LocalLow\Owlcat Games\Pathfinder Wrath Of The R
        <tr><td colspan="2">格挡反击（神话）Riposte (Mythic)<br>决斗家在格挡和反击时将神话等级加到攻击骰上，不与时刻备战神话专长的效果叠加。</td></tr>
        <tr><td colspan="2">形上学偷袭 Metaphysical Sneak Attack<br>战争学徒在偷袭敌人时自动研究目标，可以直接进行知识检定。另外，他的偷袭伤害不再是精准伤害。</td></tr>
        <tr><td colspan="2">秘术催化剂 Mystic Catalyst<br>你能随意使用次级双法合璧。</td></tr>
+  <tr><td rowspan="3">法术 spell</i></td>
+       <tr><td colspan="2">正义祷言 Litany of Righteousness<br>当且只有当你是崇拜善良神明的牧师/战斗祭司，圣武士或善良异界生物时你才具有善良灵光。</td></tr>
+       <tr><td colspan="2">护卫他人 Shield Other<br>使用移动动作来结束法术而不是移出范围，这样你就不会在过场动画、酒馆等过程中丢失它。</td></tr>
+  <tr><td rowspan="8">其余修改</i></td>
+       <tr><td colspan="2">拔刀术 Quick Draw<br>如果剑爵已经拥有拔刀术或者警觉专长，他获得阿尔多瑞决斗精通作为额外专长。</td></tr>
+       <tr><td colspan="2">教理讲授 Catechesis<br>若地狱骑士持节士拥有以战筑信专长，他的地狱骑士持节士等级与其他神术施法者等级叠加，以计算那些职业的领域效果，但不会因此获得新能力。拥有以战筑信专长的持节士还会获得选择导能作为额外专长。</td></tr>
+       <tr><td colspan="2">Estimated THC Shield Other<br>在回合模式下显示攻击命中和法术豁免概率。并不精确，因为它无法计算一些效果，例如隐蔽，法术穿透和有条件的豁免加值。（默认关闭）</td></tr>
+       <tr><td colspan="2">地狱治疗 Infernal Healing<br>你可以通过花费金币在战斗之外完全治愈，如同你购买一根地狱治疗魔杖并使用它一样。（金币：生命值=3：2）</td></tr>
+       <tr><td colspan="2">Weak Crits against Enemies<br>Symmetrical with owlcat weak crits settings, making it fair (default off)</td></tr>
+       <tr><td colspan="2">修复高难度cmd Fix Difficulty CMD Tripple-Dipped<br>这将在较高难度下显着降低敌人的 CMD。CMD 是通过添加力量加值、敏捷加值和AC加值来计算的，这意味着原版难度属性提升在cmd中提升了3次，导致数值完全疯了。</td></tr>
+       <tr><td colspan="2">修复猛力攻击 Fix Power Attack<br>现在按描述工作：如果您使用副手武器进行攻击，则伤害加成减半（–50%）。请注意，食人鱼打击也有相同的错误，但尚未修复，因为这可能会让食人鱼打击比猛力攻击更具优势，这非常酷。</td></tr>
 </table>    
 
 -------------------------------------------   
