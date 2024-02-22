@@ -3618,7 +3618,7 @@ C:\Users\你的用户名\AppData\LocalLow\Owlcat Games\Pathfinder Wrath Of The R
        <tr><td>卡牌占卜师 Cartomancer</td></tr>
   <tr><td rowspan="23">进阶职业</i></td>
        <td colspan="2">骑士 Chevalier</td></tr>
-	<tr><td colspan="2">绯红圣教军 Crimson Templar</td></tr>
+       <tr><td colspan="2">绯红圣教军 Crimson Templar</td></tr>
        <tr><td colspan="2">晨花隐者 Dawnflower Anchorite</td></tr>
        <tr><td colspan="2">秘契骑士 Esoteric Knight</td></tr>
        <tr><td colspan="2">妩媚交际花 Enchanting Courtesan</td></tr>
@@ -3628,6 +3628,7 @@ C:\Users\你的用户名\AppData\LocalLow\Owlcat Games\Pathfinder Wrath Of The R
        <tr><td colspan="2">信仰哨卫 Sentinel</td></tr>
        <tr><td colspan="2">魂饮者 Souldrinker</td></tr>
        <tr><td colspan="2">后继者远征骑士 Inheritor’s Crusader</td></tr>
+       <tr><td colspan="2">后继骑士 Heritor Knight</td></tr>
        <tr><td colspan="2">影舞者 Shadowdancer</td></tr>
        <tr><td colspan="2">墓穴使徒 Agent of the Grave</td></tr>
        <tr><td colspan="2">戍乡人 Hinterlander</td></tr>
