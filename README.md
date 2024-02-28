@@ -3697,7 +3697,7 @@ C:\Users\你的用户名\AppData\LocalLow\Owlcat Games\Pathfinder Wrath Of The R
       	 <tr><td>灯王 The Lantern King</td><td>需要信仰灯王（Expanded Content）或混乱中立</td></tr>
       	 <tr><td>哥兹莱（大尊者） Gozreh (exalted)</td><td>需要信仰哥兹莱或中立</td></tr>
       	 <tr><td>卡莉丝翠（大尊者） Calistria (exalted)</td><td>需要信仰卡莉丝翠或混乱中立</td></tr>	
-  <tr><td rowspan="26">专长</i></td>
+  <tr><td rowspan="27">专长</i></td>
        <td colspan="2">崇神仪典 Deific Obedience<br>根据所信仰神明获得特殊神恩</td></tr>
        <td colspan="2">多样尊崇 Diverse Obedience<br>在确定获得崇神仪典的神恩时，将你的hd视为比实际高2。每当你获得神恩时，你可以从传道者或信仰哨卫神恩中进行选择。</td></tr>
        <td colspan="2">神导之手 Guided Hand<br>当你使用偏好武器时，你在掷攻击骰时可以用你的感知修正代替力量或敏捷修正。</td></tr>
@@ -3724,6 +3724,7 @@ C:\Users\你的用户名\AppData\LocalLow\Owlcat Games\Pathfinder Wrath Of The R
        <tr><td colspan="2">盾牌猛击 Shield Slam<br>任何被你的盾击命中的敌人也会成为你的一次自由动作冲撞的目标，和盾击采用相同掷骰。该战技不引发借机攻击。</td></tr>
        <tr><td colspan="2">盾牌缠陷 Shield Snag<br>任何被你的盾击命中的敌人也会成为你的一次自由动作缴械的目标，和盾击采用相同掷骰。该战技不引发借机攻击。</td></tr>
        <tr><td colspan="2">抓取飞箭 Snatch Arrows<br>当使用“拨挡飞箭”专长时你可以选择抓住那武器而不仅仅只是偏转它。该远程武器可以立刻被扔回去，视为对原攻击者的一次攻击。</td></tr>
+       <tr><td colspan="2">机先克敌 Strike True<br>你可以通过移动动作集中注意力，令你在回合结束前的下一次近战攻击检定中获得+4加值。</td></tr>
   <tr><td rowspan="14">擒抱专长</i></td>
        <td colspan="2">擒抱（精通擒抱）<br>使用擒抱战技时不会引发借机攻击。此外你在擒抱检定上获得+2加值，同时在对抗擒抱的战技防御上获得+2加值。Grapple</td></tr>
        <tr><td colspan="2">高等擒抱 Greater Grapple<br>你在擒抱检定中获得+2加值，此加值与“精通擒抱”专长带来的加值累计。当你成功擒抱一个生物，可以用移动动作维持擒抱。本专长允许你以标准动作进行第二次擒抱检定来进一步移动、伤害或压制你的对手。</td></tr>
@@ -3835,9 +3836,17 @@ C:\Users\你的用户名\AppData\LocalLow\Owlcat Games\Pathfinder Wrath Of The R
        <tr><td colspan="2">格挡反击（神话）Riposte (Mythic)<br>决斗家在格挡和反击时将神话等级加到攻击骰上，不与时刻备战神话专长的效果叠加。</td></tr>
        <tr><td colspan="2">形上学偷袭 Metaphysical Sneak Attack<br>战争学徒在偷袭敌人时自动研究目标，可以直接进行知识检定。另外，他的偷袭伤害不再是精准伤害。</td></tr>
        <tr><td colspan="2">秘术催化剂 Mystic Catalyst<br>你能随意使用次级双法合璧。</td></tr>
-  <tr><td rowspan="3">法术 spell</i></td>
-       <tr><td colspan="2">正义祷言 Litany of Righteousness<br>当且只有当你是崇拜善良神明的牧师/战斗祭司，圣武士或善良异界生物时你才具有善良灵光。</td></tr>
-       <tr><td colspan="2">护卫他人 Shield Other<br>使用移动动作来结束法术而不是移出范围，这样你就不会在过场动画、酒馆等过程中丢失它。</td></tr>
+  <tr><td rowspan="11">法术 spell</i></td>
+       <tr><td colspan="2">正义祷言 Litany of Righteousness<br>如果目标是邪恶阵营，拥有善良灵光的生物（当且只有当你是崇拜善良神明的牧师/战斗祭司，圣武士或善良异界生物时你才具有善良灵光。）的攻击对其造成双倍伤害。如果目标同时拥有邪恶亚种，它还会目眩1d4轮。</td></tr>
+       <tr><td colspan="2">护卫他人 Shield Other<br>受术者的AC获得+1偏斜加值，豁免检定获得+1抗力加值。另外受术者所受的任何造成HP损失的创伤和攻击均减半 (包括由特殊能力造成的)，剩下的部分则由施法者承受。使用移动动作来结束法术而不是移出范围，这样你就不会在过场动画、酒馆等过程中丢失它。</td></tr>
+       <tr><td colspan="2">后继者神击术 Inheritor's Smite<br>你在下一次发动近战攻击（若在下一回合结束前发动攻击）时，攻击检定可以获得+5神圣加值。如果该攻击命中，你可以立即尝试冲撞目标（对抗检定时同样获得+5神圣加值），并且不会引发借机攻击。</td></tr>
+       <tr><td colspan="2">洛瓦古格之怒 Rovagug's Fury<br>对法术区域内所有生物进行一次摔绊攻击检定。你不会因为这次摔绊攻击而引发借机攻击（但是施放此法术可能会引发借机攻击）。</td></tr>
+       <tr><td colspan="2">激流术 Hydraulic Torrent<br>你召唤一股强力的水流，冲击其路径上的所有生物和障碍物，直到撞上推不动的东西。水流路径上所有生物都受到一次冲撞战技攻击。你的冲撞战技检定加值等于你的施法者等级加上你精神属性调整值中最高的一项。这次冲撞不会引发借机攻击。</td></tr>
+       <tr><td colspan="2">雷霆重踏 Thunderstomp<br>你用力跺脚或者使用武器击打地面，这会创造出能够用于摔绊一个生物的强大震波。尝试战技检定来摔绊目标，你的战技检定加值等于你的施法者等级加上你的施法属性调整值，且不会引发借机攻击。</td></tr>
+       <tr><td colspan="2">高等雷霆重踏 Thunderstomp, Greater<br>该法术如同雷霆重踏一般，除了后述内容以外：法术对效果区域内所有生物有效，无关目标体型大小。对区域内所有生物进行一次战技检定。</td></tr>
+       <tr><td colspan="2">念动战技 Telekinetic Maneuver<br>每轮一次，你可以使用心灵遥控在近程范围内进行冲撞、缴械、或者绊摔。此外，你还可以进行擒抱 (包括压制) 。如常处理这些战技尝试，但你的战技检定加值等于你的施法者等级加上你的施法者属性调整值，且不会引发借机攻击。对方不能进行豁免检定，但法术抗力仍会生效。</td></tr>
+       <tr><td colspan="2">冲阵术 Linebreaker<br>你在冲撞以及闯越战技检定上获得+2加值。</td></tr>
+       <tr><td colspan="2">剑刃鞭笞 Blade Lash<br>你的武器被拉长，变得如同鞭子一般。作为施放该法术的一部分，你能够使用该武器尝试对20尺内的一个生物进行一次摔绊战技，而且你在检定中获得+10加值，在此之后，你的武器会还原至它原本的形态。</td></tr>
   <tr><td rowspan="8">其余修改</i></td>
        <tr><td colspan="2">拔刀术 Quick Draw<br>如果剑爵已经拥有拔刀术或者警觉专长，他获得阿尔多瑞决斗精通作为额外专长。</td></tr>
        <tr><td colspan="2">教理讲授 Catechesis<br>若地狱骑士持节士拥有以战筑信专长，他的地狱骑士持节士等级与其他神术施法者等级叠加，以计算那些职业的领域效果，但不会因此获得新能力。拥有以战筑信专长的持节士还会获得选择导能作为额外专长。</td></tr>
@@ -3900,6 +3909,9 @@ C:\Users\你的用户名\AppData\LocalLow\Owlcat Games\Pathfinder Wrath Of The R
  <tr><th colspan="5">新增内容列表<br></th></tr> 
   <tr><td rowspan="1">职业</i></td>
        <td colspan="2">召唤师 Summoner Mod</td></tr>
+  <tr><td rowspan="1">神话能力</i></td>
+	<td rowspan="1">进化召唤<br>Evolved Summons</td>
+	<td rowspan="1">每当你召唤任何生物的时候，它们都会共享幻灵的所有进化。注意：召唤物不会因为进化改变体型，但会共享从体型增大进化增加的属性。</i></td>
   <tr><td rowspan="15">法术</i></td>
 	<td rowspan="1">召唤次级怪物<br>Summon Minor Monster</td>
 	<td rowspan="1">这个法术类似召唤一级怪物，但是你可以召唤1d3只超小型或更小的动物。</i></td>
@@ -3944,11 +3956,53 @@ C:\Users\你的用户名\AppData\LocalLow\Owlcat Games\Pathfinder Wrath Of The R
 > *新增内容：* 战争之路<br>
 + 添加第三方资源战争之路中的武技系统。好评更新中
 <table>
- <tr><th colspan="2">新增内容列表<br></th></tr> 
-  <tr><td rowspan="2">武术流派</i></td>
-       <td rowspan="1">辉晨 Radiant Dawn</td>
-	<tr><td rowspan="1">朦月 Veiled Moon</td>
-  </tr>
+<tr><th colspan="5">房规改动<br></th></tr> 
+       <tr><td colspan="5">所有应对（Counter）都改为架势，且出于平衡考虑每轮只能激活一次效果</td></tr>
+       <tr><td colspan="5">所有角色都可以在1级选择流派，并在升级时选择击技和架势。</td></tr>
+       <tr><td colspan="5">可以同时激活2个架势。</td></tr>
+       <tr><td colspan="5">Liberties have been taken for technical reasons and for ease of implementation, so refer to the in-game descriptions of abilities for accurate information.</td></tr>
+<tr><th colspan="5">武术流派<br></th></tr> 
+<tr><th colspan="5">辉晨<br></th></tr> 
+  <tr><td rowspan="6">击技 Strike</i></td>
+       <td colspan="2">柳叶扶风 Dismiss (Mythic)<br>发起一次攻击。如果它击中，你会如常造成武器伤害并对目标进行绊摔尝试。如果你的绊摔尝试成功，目标也会被推开。当决定你这次打击的战技加值时，你用你的角色等级代替你的基础攻击加成，用你的武术属性调整代替你的力量调整值。</td></tr>
+       <td colspan="2">趁势而起 Lifeburst Strike<br>进行一次攻击，如果命中，如常造成武器伤害，并治疗自己和附近盟友，总数值和武术属性调整成比例，治疗量在你和盟友之间分配，优先严重受伤的目标。</td></tr>
+       <td colspan="2">黄泉判令 Decree of Death<br>挑选一个目标执行判断。进行一次攻击，如果命中，如常造成武器伤害，且一轮内下一次对其造成的伤害实例伤害增加50%。</td></tr>
+       <td colspan="2">暴君之终 Tyrant's End<br>进行一次攻击，如果命中，你额外造成6d6的伤害，并且目标的伤害减免、能量抗力和免疫都被压制1轮，并在1轮内对所有类型的伤害易伤。</td></tr>
+       <td colspan="2">破法驱魔 Shatter Spell<br>进行一次攻击，如果命中，如常造成武器伤害并增加额外的2d6点伤害。目标会受到目标型解除魔法的影响。此能力的施法者等级等于武术家等级。</td></tr>
+       <td colspan="2">九狱断罪 Judgement Day<br>该区域内的所有敌人都被纯净的阿克夏之火焚烧，受到50点神圣伤害。范围内的盟友会受到被治疗50点的伤害。这种治疗作用如同生命之息法术，可以使目标复活。</td></tr>
+  <tr><td rowspan="3">应对 Counter</i></td>
+       <td colspan="2">格物知天 Bolster<br>你使盟友下次被敌人击中时，获得等于你武术属性调整的DR/-，持续1轮。</td></tr>
+       <td colspan="2">慈悲为怀 Decree of Mercy<br>下次目标使用造成生命值伤害的效果时，不会杀死受影响的目标。</td></tr>
+       <td colspan="2">位高责重 Noblesse Oblige<br>每当近距离内的盟友死亡或被摧毁时，即使不是你的回合，你回启动这项武技。该盟友的生命值变为1。然后，你对触发该武技的攻击者造成（4d6+你的武术属性调整）点伤害，同时你也会治疗受该动作影响的盟友等量生命值。</td></tr>
+  <tr><td rowspan="4">架势 Stance</i></td>
+       <td colspan="2">天下布武 Spoils of War<br>当你保持这个架势时，近距离内的盟友每次攻击命中都会恢复 3 点生命值。在 5 级时，此治疗效果会增加到你的武术属性调整加 3。在 10 级时，此治疗效果会增加到你的武术属性调整的两倍加 3。此效果每个盟友每轮只能触发一次。</td></tr>
+       <td colspan="2">金乌困笼 The Caged Sun<br>当你保持这个架势时，你无法治疗除你自己之外的生物，但你收到的任何治疗效果都会提高 50%。如果您获得的治疗量超过了最大生命值，您将获得相当于超额治疗量的临时生命值。这些临时生命值持续一分钟。</td></tr>
+       <td colspan="2">帝国武装 Armaments of the Empire<br>当你保持这个架势时，你可以增强近距离盟友的武器和盔甲。每件武器都获得神圣附魔和+3增强加值，每件盔甲都获得+3增强加值。</td></tr>
+       <td colspan="2">大日凌天 Battle Against the Sun<br>当你保持这个架势时，你会在近距离范围内发出明亮的光芒，如同昼明法术。每轮开始时，您都会在昼明范围内发出一道闪光。区域内的敌人受到的伤害等于你的武术家等级+战斗持续的轮数。成功的反射豁免（DC 16 + 武术属性调整）可将该伤害减半。与之相反，被光线包围的盟友会受到治疗，生命值等于你的武术家等级+战斗持续的轮数。</td></tr>
+  <tr><td rowspan="1">强化技 Boost</i></td>
+       <td colspan="2">无暇判令 Decree of Purity<br>在近距离内治疗自己和盟友，总数值和武术属性调整成比例，治疗量在你和盟友之间分配，优先严重受伤的目标。</td></tr>
+<tr><th colspan="5">朦月<br></th></tr> 
+  <tr><td rowspan="6">击技 Strike</i></td>
+       <td colspan="2">月食 Eclipsing Moon<br>以一个全回合攻击动作，使用者可以攻击一个目标并传送至一个距离不超过他的基本陆地速度的新目标，再次发起攻击，每次攻击都对应目标的措手不及AC，他能够多次重复这一流程，最多等同于他在全回合攻击中所能做出的攻击次数（包括副手攻击和次要攻击）。他可以多次攻击同一个目标，但每次传送的位置必须允许他攻击一个目标生物（他必须在每次传送结束时进行攻击）。如果敌人死于其中一次攻击，她将获得额外的攻击次数。</td></tr>
+       <td colspan="2">闪现之触 Flashing Ether Touch<br>使用者对目标进行一次近战接触攻击，若攻击命中，目标必须通过意志豁免（DC17+关键属性调整值）否则将被传送最多60尺远。成功的豁免检定能令招式失效，若豁免失败，目标将因为高速撞击地面而承受10d6点伤害并倒地。</td></tr>
+       <td colspan="2">歪曲虫洞 Warp Worm<br>使用者传送到所选的目标，然后传送到距第一个目标最近的敌人，并对第三个目标也重复此流程，对受影响的敌人造成 10d6 点力场伤害，通过意志豁免可以减半（DC 17 + 武术调整值）。 结束了对最后一个目标的攻击之后，门徒出现在最后的目标的背后10尺处以结束她的回合。</td></tr>
+       <td colspan="2">维度打击 Dimensional Strike<br>此招式的使用者能让他的敌人对这次攻击措手不及。</td></tr>
+       <td colspan="2">消散打击 Dispersal Strike<br>使用者对目标生物进行一次攻击，若攻击命中，则能造成额外6d6点力场伤害，且目标在1d4轮中获得虚体亚种。此招式对已经是虚体的目标没有效果。</td></tr>
+       <td colspan="2">虚体破碎 Vaporform Crash<br>门徒对一个虚体目标进行一次近战攻击，若攻击命中，目标将在1d4轮间失去虚体亚种，并承受18d6点力场伤害，门徒在 1d4 轮内获得虚体亚种。</td></tr>
+  <tr><td rowspan="1">应对 Counter</i></td>
+       <td colspan="2">月之半影 Lunar Penumbra<br>使用者进行一次隐匿检定，对抗攻击者的察觉检定。若检定成功，他和攻击者将交换位置，并且指向门徒的攻击现在将转而影响攻击者，有效地让目标命中他自己。</td></tr>
+  <tr><td rowspan="4">架势 Stance</i></td>
+       <td colspan="2">次元门之姿 Stance of the Ether Gate<br>当门徒处于这个架势时，她可以随意传送而不是移动。她的正常移动速度仍然适用。她必须清楚地看到自己的目的地才能传送到目的地。传送时使用者不得携带任何生物；只有她自己和她携带的装备。</td></tr>
+       <td colspan="2">锚定灵魂 Anchoring Spirit<br>当处于此架势中时，使用者获得虚体亚种，且他身边30尺范围内所有敌人使用（传送）类效果的尝试都有可能失败。一旦离开此架势的影响范围，生物便不再受到影响。</td></tr>
+       <td colspan="2">无形之舞 Formless Dance<br>当处于此架势中时，门徒获得识破隐形（see invisibility）和朦胧术（blur）法术的好处。</td></tr>
+       <td colspan="2">灵魂武器之姿 Spiritual Weapon Stance<br>当处于此架势中时，使用者的武器如同具有幽冥特性一般处理，并且他的攻击能造成额外2d6点力场伤害。这些来自灵界的能量能起到减缓法术攻击的作用，给予门徒5+等级点的法术抗力。</td></tr>
+  <tr><td rowspan="2">强化技 Boost</i></td>
+       <td colspan="2">次元回转 Twisting Ether<br>以一个迅捷动作，使用者可以指定30尺范围内的一位自愿的盟友，并通过传送与他交换位置。</td></tr>
+       <td colspan="2">幽灵步 Ghostwalk<br>直到他的下个行动轮开始时，使用者获得虚体亚种。</td></tr>
+  <tr><td rowspan="2">无类型 Untyped</i></td>
+       <td colspan="2">逝形穿梭 Fade Through<br>使用者可以以一个迅捷动作传送最多不超过他的基本陆地速度的两倍的距离。</td></tr>
+       <td colspan="2">飘渺回忆 Ethereal Reminiscence<br>在虚体状态下的一个标准动作，使用者可以恢复两倍于隐匿技能等级的生命值。</td></tr>
+
 </table>   
 
 -------------------------------------------  
