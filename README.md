@@ -1748,8 +1748,10 @@
 <tr><th colspan="2">新增内容列表</th></tr> 
    <tr><td>职业</td>
        <td>Antipaladin 反圣武士及变体：Knight of the Sepulcher 死骸骑士、Iron Tyrant 钢铁暴君、Tyrant 暴君<br><i>参阅PF文档</i></td>
-   <tr><td>职业特性</td>
-       <td>Druidic Herbalism 德鲁伊草药学</i></td>
+   <tr><td rowspan="3">职业特性</td>
+       <td>Druidic Herbalism 德鲁伊草药学：德鲁伊可以免费酿造任何药水，还能将本来只能对自己释放的法术如同应用了炼金术师的注入炼成释放于盟友</td></tr>
+   <tr><td>Antipaladin exclusive companion and mount - Nightmare (flaming horse) 反圣武士专属坐骑-梦魇</td></tr>
+   <tr><td>Legion's Blessing (Cleric Crusader archetype lvl 8 feature) 军团祝福（牧师变体圣教军8级能力）：通过额外献祭高3环法术位，将正常范围为接触的无害法术，用于 10 英尺半径内的所有盟友。</td></tr>
    <tr><td rowspan="12">专长</td>
        <td>Unsanctioned Knowledge 禁忌学识（反圣武士版）：添加其他职业法术到圣武士法表</td></tr>
    <tr><td>Snake Style 蛇拳：察言观色+2，徒手攻击可造成穿刺伤害</td></tr>
@@ -2981,7 +2983,7 @@ C:\Users\你的用户名\AppData\LocalLow\Owlcat Games\Pathfinder Wrath Of The R
 	<tr><td>千军武神<br>Warsighted</td>
 		<td>先知变体，获得额外战斗专长但是失去启示。</td>
 		<td>:x:</td></tr>
-<tr><td rowspan="5">专长<br>Feat</td>
+<tr><td rowspan="7">专长<br>Feat</td>
 	<td>魔学院毕业生<br>Acadamae Graduate</td>
 		<td>当你施放一个当天已准备的具有召唤描述符的咒法系奥术法术时，将施法时间由整轮动作缩短为标准动作</td>
 		<td>:x:</td></tr>
@@ -2996,6 +2998,12 @@ C:\Users\你的用户名\AppData\LocalLow\Owlcat Games\Pathfinder Wrath Of The R
 	       <td>:heavy_check_mark:</td></tr>
 	<tr><td>类权杖魔杖<sup>注</sup><br>Staff-like Wand</td>
 		<td>你通过魔杖施放的法术的DC使用你自己的智力和相关专长调整值，使用你的施法者等级</td>
+		<td>:x:</td></tr>
+  	<tr><td>巫师之刃<br>Witch Knife</td>
+		<td>所有庇护主法术DC +1</td>
+		<td>:x:</td></tr>
+  	<tr><td>神通<br>Theurgy</td>
+		<td>你能用奥术能量增强你的神术，也能用神力增强你的奥术。\n当你施展一个神术时，可以用迅捷动作牺牲一个同环级或者更高的奥术可用法术位或已准备的奥术，此神术的CL+1。反之亦然。</td>
 		<td>:x:</td></tr>
 <tr><td rowspan="2">魔战士奥秘<br>Magus Arcana</td>
 	<td>秩序之环<br>Circle of Order</td>
@@ -3025,10 +3033,13 @@ C:\Users\你的用户名\AppData\LocalLow\Owlcat Games\Pathfinder Wrath Of The R
 	<tr><td>材料自由<br>Material Freedom</td>
 		<td>选择一种特定的材料成分：你可以在不持有此材料成分的情况下施放某个通常需要它的法术</td>
 		<td>:heavy_check_mark:</td></tr>
-<tr><td rowspan="1">神话专长<br>Mythic Feat</td>
+<tr><td rowspan="2">神话专长<br>Mythic Feat</td>
 	<td>纯粹之罪（神话）<br>Purity of Sin (Mythic)</td>
 		<td>纯粹之罪的额外加值现在也适用于法术的DC</td>
 		<td>:heavy_check_mark:</td></tr>
+	<tr><td>神话巫师之刃<br>Witch Knife（Mythic）</td>
+		<td>你能够将巫师之刃作为所有你的巫师法术的额外器材成分，而不仅仅是庇护主法术，为其DC增加1。这个加值和巫师之刃对庇护主效果叠加。给予庇护主法术总计+2 DC。</td>
+		<td>:x:</td></tr>
 <tr><td rowspan="2">职业特性<br>Class Feature</td>
 	<td>双法合璧<br>Spell Synthesis</td>
 		<td>添加秘术师巅峰，10级时，秘术师可以使用一个动作施放两个法术</td>
