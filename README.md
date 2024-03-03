@@ -3627,7 +3627,7 @@ C:\Users\你的用户名\AppData\LocalLow\Owlcat Games\Pathfinder Wrath Of The R
        <td rowspan="2">巫师 Witch</td>
        <td>白发魔女 White-Haired Witch</td></tr>
        <tr><td>卡牌占卜师 Cartomancer</td></tr>
-  <tr><td rowspan="23">进阶职业</i></td>
+  <tr><td rowspan="24">进阶职业</i></td>
        <td colspan="2">骑士 Chevalier</td></tr>
        <tr><td colspan="2">绯红圣教军 Crimson Templar</td></tr>
        <tr><td colspan="2">晨花隐者 Dawnflower Anchorite</td></tr>
