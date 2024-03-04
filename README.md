@@ -3683,7 +3683,7 @@ C:\Users\你的用户名\AppData\LocalLow\Owlcat Games\Pathfinder Wrath Of The R
        <tr><td>魔宠</td><td>蟹王 Crab King<br>主人获得+2擒抱检定加值。</td></tr>
        <tr><td>炼金科研发现</td><td>触手 Tentacle<br>此触手不会给予炼金术师每轮额外的攻击或动作，但触手的“攫抓”能力具有+4擒抱检定加值。</td></tr>
   <tr><td colspan="20">崇神仪典 Deific Obedience<br></th></tr> 
-  <tr><td rowspan="126">崇神仪典 Deific Obedience</i></td>
+  <tr><td rowspan="142">崇神仪典 Deific Obedience</i></td>
 	 <tr><td rowspan="5">拉贾瑟尔 Ragathiel</td><td>需要信仰拉贾瑟尔（Expanded Content）或守序善良</td></tr>
 	  <td>服从仪典 Obedience<br>以拉贾瑟尔之名斩杀一名作恶者。仅仅拥有邪恶的内心或意图是不够的，确实犯下违法或邪恶的罪行才能作为祭品。对抗邪恶生物的法术与效果时豁免得到+4神圣加值。</td></tr>
 	  <td>义战 Virtuous Combat<br>祝福武器3次/天，正义祷言2次/天，或魔化防具1次/天</td></tr>
@@ -3809,6 +3809,22 @@ C:\Users\你的用户名\AppData\LocalLow\Owlcat Games\Pathfinder Wrath Of The R
 	  <td>卡莉丝翠之舌 Calistria's Tongue<br>鹰之威仪 2次/日</td></tr>
 	  <td>离魂之触 Stunning Touch<br>在使用魅惑领域的接触能力时，你能够让目标震慑1轮，以取代原本的晕眩。只有生命骰高于你的敌人不受影响。若你并不具有正常的魅惑领域，那么你会获得魅惑领域的接触能力，每日使用次数为3 + 你的感知调整值，如同该能力所描述的一样，但你只能让敌人晕眩，而不是震慑。</td></tr>
 	  <td>优雅护身 Protective Grace<br>当你穿着轻甲或者不穿甲时，可以将你的魅力调整值加到你的AC上。该加值可以用于对抗接触攻击。任何会使你的AC失去敏捷加值的状态，也会使你失去AC上的魅力加值。</td></tr>
+      	 <tr><td rowspan="5">莫求 Mrtyu</td><td>需要信仰莫求（Expanded Content）或中立</td></tr>
+	  <td>服从仪典 Obedience<br>聆听垂死者的忏悔，或在战斗后花至少1小时埋葬死者。如果该地区没有垂死者，也没有死者，则用这些时间为你遇到的最后一个死者祈祷。对抗影响多个生物的法术的豁免检定获得+4洞察加值。</td></tr>
+	  <td>激情俘虏 Ruled by Passion<br>移除恐惧 3次/天，援助术 2次/天，移除目盲 1次/天</td></tr>
+	  <td>死神之爱 Death's Lover<br>你的交涉和察觉成为本职技能，并且进行这些检定时获得等同于你生命骰一半的加值。</td></tr>
+	  <td>死亡之手 Hands of Death<br>每天一次，你可以召唤大量旋转着的匕首和剑，如同剑刃屏障法术。该效果仅持续每生命骰1轮，但你可以通过一个移动动作使其在近程范围内移动。</td></tr>
+      	 <tr><td rowspan="5">墨菲斯托菲利斯 Mephistopheles</td><td>需要信仰墨菲斯托菲利斯（Expanded Content）或守序邪恶</td></tr>
+	  <td>服从仪典 Obedience<br>为了自身利益而对某人撒谎（同一个人每周不能超过一次）。此外，每周一次，你必须写下一个新掌握的别人的秘密，并将其烧掉，作为对墨菲斯托菲利斯的献祭。交涉检定获得+4亵渎加值。</td></tr>
+	  <td>钓鱼人 Fool Maker<br>催眠术 3次/天</td></tr>
+	  <td>迫害者 Persecutor<br>你可以使用唬骗技能来挫败对手的士气，并影响对手的态度，如同威吓技能一般。此外，如果你掌握地狱法令，获得黑堕湮灭作为额外专长。</td></tr>
+	  <td>迷人骗徒 Charming Liar<br>你可以使用交涉技能来挫败对手的士气，并影响对手的态度，如同唬骗技能一般。此外，你的任何魅惑效果的DC都会增加2。</td></tr>
+      	 <tr><td rowspan="6">诺缇库拉（信仰哨卫） Nocticula(Sentinel)</td><td>需要信仰诺缇库拉（Expanded Content）或混乱中立</td></tr>
+	  <td>服从仪典 Obedience<br>在僻静处花一个小时制作一件艺术品。 如果你的工作时间闭区间包含午夜，那么艺术主题可以自定，否则需要以某种方式包含午夜的概念。 当你不与盟友相邻时，你的AC和所有豁免检定都会获得+1士气加值。</td></tr>
+	  <td>恶魔仪典 Demonic Obedience<br>服下一株迷幻植物或真菌，进行任意数量的性行为（独自或与别人），期间有至少一品脱的血液流出。在对抗目盲和魅惑效果的豁免获得+4亵渎加值。</td></tr>
+	  <td>午夜恩典 Midnight’s Grace<br>克敌机先 3次/天，猫之优雅 2次/天，吸血鬼之触 1次/天</td></tr>
+	  <td>灵尾匕舞 Sinuous Daggerplay<br>你长出一条弯曲灵活的尾巴（如果你已经有一条尾巴，会长出第二条尾巴）。 这条尾巴极易操纵并且能够控制和抓握轻小物体，但除了挥舞匕首之外，它不能像手一样进行精细的手工操作。 当你用该匕首全回合攻击时，你可以进行一次额外攻击。</td></tr>
+	  <td>死就一个字 Death Is But a Word<br>你对诺缇库拉的忠诚得到了回报，一声独属于你的低语，从她的嘴唇到你的耳边。这是阴影女士所知晓的无数个带来死亡的真言之一。她的每个信徒收到的真言都是独一无二的。当你学会它时，便可以将律令死亡作为类法术能力施展，每天一次。</td></tr>
   <tr><td rowspan="27">专长</i></td>
        <td colspan="2">崇神仪典 Deific Obedience<br>根据所信仰神明获得特殊神恩</td></tr>
        <td colspan="2">多样尊崇 Diverse Obedience<br>在确定获得崇神仪典的神恩时，将你的hd视为比实际高2。每当你获得神恩时，你可以从传道者或信仰哨卫神恩中进行选择。</td></tr>
@@ -3822,7 +3838,7 @@ C:\Users\你的用户名\AppData\LocalLow\Owlcat Games\Pathfinder Wrath Of The R
        <tr><td colspan="2">太极拳 Ki Throw<br>当你成功对目标进行徒手绊摔攻击，在走动之前你能够让目标摔倒在任何你正在威胁的方格内，而非他原本占据的方格。这个移动不会引发藉机攻击，你也无法将该名生物摔进有其他生物占据的空间内。</td></tr>
        <tr><td colspan="2">太极-揽雀尾 Improved Ki Throw<br>当你使用“太极拳”专长时，你能够将你的目标丢至任何处于你威胁范围的方格内，并且该方格被任何其他生物所占据。你需要对次要目标进行受到-4减值的冲撞战技检定。如果检定成功，被投掷的生物会倒在次要目标所在的方格，而次要目标会被推开，并且倒在相邻的方格内。如果检定失败，被投掷的生物会倒地，他的位置会与次要目标相邻并且在你威胁范围内的最近的方格。</td></tr>
        <tr><td colspan="2">太极-抱虎归山 Binding Throw<br>当你成功的对一个敌人使用了“太极拳”前，你可以用一次迅捷动作对其进行一次战技检定以尝试擒抱他。</td></tr>
-       <tr><td colspan="2">太极-倒撵猴 Enhanced Ki Throw<br></td>当你使用太极拳专长时，你可以花费一点真气，强化你的力道，如果你成功的将敌人摔出，当他倒地时，将承受相当于你徒手击打的伤害。</tr>
+       <tr><td colspan="2">太极-倒撵猴 Enhanced Ki Throw<br>当你使用太极拳专长时，你可以花费一点真气，强化你的力道，如果你成功的将敌人摔出，当他倒地时，将承受相当于你徒手击打的伤害。</td></tr>
        <tr><td colspan="2">高等徒手击打 Greater Unarmed Strike<br>你的徒手击打的基础伤害提升至1d8（中等体型），角色等级10级起，该基础伤害提升到1d10。</td></tr>
        <tr><td colspan="2">出奇制胜 Surprising Strategy<br>当你成功格挡后，除了借机攻击以外，你还能额外发起一次阴招，缴械或击破战技，且带有+2士气加值，只要目标在触及范围内，该战技不会引起借机攻击。</td></tr>
        <tr><td colspan="2">保镖 Bodyguard<br>你获得圣洁守卫（圣武士）的保镖能力。</td></tr>
@@ -3933,7 +3949,7 @@ C:\Users\你的用户名\AppData\LocalLow\Owlcat Games\Pathfinder Wrath Of The R
        <tr><td colspan="2">闪破风暴 Sunder Storm<br>当你成功使用击破战技，你将打碎的物品碎片轰入穿戴着血肉之中，造成1d6+神话等级点神力伤害。此外，你可以用一个整轮动作向武器范围内所有敌人尝试击破战技。</td></tr>
        <tr><td colspan="2">血肉撕扯 Tear Apart<br>你的击破战技不再禁用对手的盔甲，二是直接撕裂它。如果战技检定成功，你造成武器攻击伤害并在对手的盔甲，天生护甲或者盾牌加值中减少等同于神话等级1/2的加值（至少为1），如果对手在上述加值中有增强加值，也可以扣减，但不能扣减成负值。</td></tr>
        <tr><td colspan="2">远程缴械（神话） Ranged Disarm (Mythic)<br>你可以轻松使用远程攻击缴械对手。在远程缴械时增加等同于神话等级的加值，如果该缴械成功，再尝试一次额外的缴械。</td></tr>
-       <tr><td colspan="2">战技专家 Maneuver Expert</td></tr>
+       <tr><td colspan="2">战技专家 Maneuver Expert<br>你的所有豁免-2，因为你将这部分神话之力用于在尝试战技检定时，获取对应战技的精通和高等专长效果。</td></tr>
        <tr><td colspan="2">太极-四两拨千斤 Ki Throw Mastery<br>你能通过阴招，缴械或击破来使用太极拳。另外，你的目标每比你大一个体型，你的战技检定就获得+2加值。</td></tr>
        <td colspan="2">神导之手（神话） Guided Hand(Mythic)<br>当你使用偏好武器时，你在掷武器伤害骰时可以用你的感知修正代替力量或敏捷修正。</td></tr>
        <tr><td colspan="2">拨挡飞箭（神话） Deflect Arrows (Mythic)<br>当你使用拨挡飞箭专长时，每轮能够偏转远程攻击的次数增加等同于你的神话等级的一半。你也可以偏转以你为目标且来自射线法术或效果的单条射线。</td></tr>
@@ -3948,7 +3964,7 @@ C:\Users\你的用户名\AppData\LocalLow\Owlcat Games\Pathfinder Wrath Of The R
        <tr><td colspan="2">格挡反击（神话）Riposte (Mythic)<br>决斗家在格挡和反击时将神话等级加到攻击骰上，不与时刻备战神话专长的效果叠加。</td></tr>
        <tr><td colspan="2">形上学偷袭 Metaphysical Sneak Attack<br>战争学徒在偷袭敌人时自动研究目标，可以直接进行知识检定。另外，他的偷袭伤害不再是精准伤害。</td></tr>
        <tr><td colspan="2">秘术催化剂 Mystic Catalyst<br>你能随意使用次级双法合璧。</td></tr>
-  <tr><td rowspan="11">法术 spell</i></td>
+  <tr><td rowspan="13">法术 spell</i></td>
        <tr><td colspan="2">正义祷言 Litany of Righteousness<br>如果目标是邪恶阵营，拥有善良灵光的生物（当且只有当你是崇拜善良神明的牧师/战斗祭司，圣武士或善良异界生物时你才具有善良灵光。）的攻击对其造成双倍伤害。如果目标同时拥有邪恶亚种，它还会目眩1d4轮。</td></tr>
        <tr><td colspan="2">护卫他人 Shield Other<br>受术者的AC获得+1偏斜加值，豁免检定获得+1抗力加值。另外受术者所受的任何造成HP损失的创伤和攻击均减半 (包括由特殊能力造成的)，剩下的部分则由施法者承受。使用移动动作来结束法术而不是移出范围，这样你就不会在过场动画、酒馆等过程中丢失它。</td></tr>
        <tr><td colspan="2">后继者神击术 Inheritor's Smite<br>你在下一次发动近战攻击（若在下一回合结束前发动攻击）时，攻击检定可以获得+5神圣加值。如果该攻击命中，你可以立即尝试冲撞目标（对抗检定时同样获得+5神圣加值），并且不会引发借机攻击。</td></tr>
@@ -3959,6 +3975,8 @@ C:\Users\你的用户名\AppData\LocalLow\Owlcat Games\Pathfinder Wrath Of The R
        <tr><td colspan="2">念动战技 Telekinetic Maneuver<br>每轮一次，你可以使用心灵遥控在近程范围内进行冲撞、缴械、或者绊摔。此外，你还可以进行擒抱 (包括压制) 。如常处理这些战技尝试，但你的战技检定加值等于你的施法者等级加上你的施法者属性调整值，且不会引发借机攻击。对方不能进行豁免检定，但法术抗力仍会生效。</td></tr>
        <tr><td colspan="2">冲阵术 Linebreaker<br>你在冲撞以及闯越战技检定上获得+2加值。</td></tr>
        <tr><td colspan="2">剑刃鞭笞 Blade Lash<br>你的武器被拉长，变得如同鞭子一般。作为施放该法术的一部分，你能够使用该武器尝试对20尺内的一个生物进行一次摔绊战技，而且你在检定中获得+10加值，在此之后，你的武器会还原至它原本的形态。</td></tr>
+       <tr><td colspan="2">树脂皮肤 Resinous Skin<br>你获得DR5/穿刺，对抗缴械的CMD+4环境加值。此外，你的擒抱、保持擒抱和压制敌人的战技检定获得+2环境加值。任何被你擒抱的敌人在试图打破擒抱和逃离擒抱时都有-2减值。任何武器在命中你之后都会被粘住，除非持有者通过一次反射检定。当你以此法粘住武器时，可以立刻施展缴械战技。"</td></tr>
+       <tr><td colspan="2">第三只手 Pilfering Hand<br>你创造并且控制一股无形的精神力量，立刻对范围内的一个目标施展缴械战技。使用你的施法者等级作为你的战技加值，加上你的施法者属性调整值。该战技不会引发目标的借机攻击（但是施放此法术可能会引发借机攻击）。</td></tr>
   <tr><td rowspan="8">其余修改</i></td>
        <tr><td colspan="2">拔刀术 Quick Draw<br>如果剑爵已经拥有拔刀术或者警觉专长，他获得阿尔多瑞决斗精通作为额外专长。</td></tr>
        <tr><td colspan="2">教理讲授 Catechesis<br>若地狱骑士持节士拥有以战筑信专长，他的地狱骑士持节士等级与其他神术施法者等级叠加，以计算那些职业的领域效果，但不会因此获得新能力。拥有以战筑信专长的持节士还会获得选择导能作为额外专长。</td></tr>
