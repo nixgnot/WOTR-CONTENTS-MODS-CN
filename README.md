@@ -3627,7 +3627,7 @@ C:\Users\你的用户名\AppData\LocalLow\Owlcat Games\Pathfinder Wrath Of The R
        <td rowspan="2">巫师 Witch</td>
        <td>白发魔女 White-Haired Witch</td></tr>
        <tr><td>卡牌占卜师 Cartomancer</td></tr>
-  <tr><td rowspan="24">进阶职业</i></td>
+  <tr><td rowspan="25">进阶职业</i></td>
        <td colspan="2">骑士 Chevalier</td></tr>
        <tr><td colspan="2">绯红圣教军 Crimson Templar</td></tr>
        <tr><td colspan="2">晨花隐者 Dawnflower Anchorite</td></tr>
@@ -3652,6 +3652,7 @@ C:\Users\你的用户名\AppData\LocalLow\Owlcat Games\Pathfinder Wrath Of The R
        <tr><td colspan="2">亚萨维尔 Asavir</td></tr>
        <tr><td colspan="2">半身任侠 Halfling Opportunist</td></tr>
        <tr><td colspan="2">龙怒狂徒 Dragon Fury</td></tr>
+       <tr><td colspan="2">黄金军士 Golden Legionnaire</td></tr>
   <tr><td rowspan="30">职业特性和其他</i></td>
        <tr><td rowspan="7">狂暴之力 Rage Power</td></tr>
        <td>醉怒狂吼 Roaring Drunk<br>狂暴时，野蛮人获得威吓检定以及她创造的任何恐惧效果DC的士气加值，每4野蛮人等级增加1点。</td></tr>
