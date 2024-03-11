@@ -1246,7 +1246,7 @@
   },
   {
     "Key": "wotr-making-friends.eidolonpainajicompanionfeature.description",
-    "zhCN": "拉马什图创造了Painaji恶魔，以萦绕在凡人的梦境中，欣赏他们的噩梦，并追捕孤独的uinuja azatas。尽管painajais的人数远远超过uinujas，但恶魔之间无法合作，使他们无法在永恒的斗争中占据上风。这些恶魔还会不分青红皂白地攻击任何穿越他们道路的人，包括梦境旅行者和其他painajais，只有拥有压倒性力量的监管者才能阻止他们这样做。painajais说话时声音嘶哑且带有回音，仿佛要刮擦耳朵直到它们掉下。他们不由自主地磨动着尖锐的牙齿，有时则会故意以此来让对手感到不安，甚至可能咀嚼脸颊的内侧，来产生血腥且肮脏的泡沫。",
+    "zhCN": "拉玛什图创造了Painaji以侵入凡人的梦境,窥视他们的噩梦,同时它们也会追捕独行的uinuja azatas。尽管Painaji的数量远远超过uinuja azatas,但由于它们无法互相合作,这使得它们在永恒的冲突中难以占据上风。这些恶魔还会无差别攻击任何路过的人,包括梦境旅者和其他Painaji,只有极其强大的管理者才能阻止它们这样做。Painaji说话声音低沉、回荡在耳,仿佛在撕裂任何一个听到它们声音的耳朵。它们总是不由自主地磨着锋利的牙齿,有时故意这样做来让对手心烦意乱,它们甚至会啃噬自己的脸颊内侧,让血腥和污秽的泡沫溢出嘴边。",
     "enGB": "Lamashtu created the painajai demons to haunt mortal dreams and watch their nightmares, as well as to hunt lone uinuja azatas (see page 9). Though painajais far outnumber uinujas, the demons’ inability to cooperate keeps them from gaining the upper hand in their eternal struggle. These demons also indiscriminately attack anyone crossing their path, including dream travelers and other painajais, and only an overseer of overwhelming strength can prevent them from doing so. Painajais speak in a throaty and resonating voice that seems to abrade any ear upon which it falls. They grind their sharp teeth compulsively, sometimes on purpose to unnerve their opponents, and may even chew on the insides of their cheeks to produce a bloody, filthy froth."
   },
   {
@@ -1277,7 +1277,7 @@
   },
   {
     "Key": "wotr-making-friends.eidolonvavakiacompanionfeature.description",
-    "zhCN": "  威加魔是具有强大力量的巨大恶魔。比巨蜥有过之而无不及的身材、胃口和破坏力。它们最常出现在主物质位面，而且这些恶魔不像其他恶魔一样受人召唤而来，而是作为暴虐的侵略者们透过人们的眼泪或者从通向更深裂隙之处现身。在主物质位面，威加魔是一个可怕的存在，这奇异的恶魔被驱使着吞食着还活着的灵魂，并散播着它们的破坏。",
+    "zhCN": "威加魔是具有强大力量的巨大恶魔。比巨蜥有过之而无不及的身材、胃口和破坏力。它们最常出现在主物质位面，而且这些恶魔不像其他恶魔一样受人召唤而来，而是作为暴虐的侵略者们透过人们的眼泪或者从通向更深裂隙之处现身。在主物质位面，威加魔是一个可怕的存在，这奇异的恶魔被驱使着吞食着还活着的灵魂，并散播着它们的破坏。",
     "enGB": "Vavakias are immense demons of great power. Saurian in shape, appetite, and destructive power, they are most often encountered on the Material Plane, though not as demons conjured by spellcasters to serve, but rather as violent invaders come to the world through tears in reality or portals to the deeper rifts. On the Material Plane, a single vavakia is a formidable presence, for the strange demon is driven to feed on living souls and spread destruction— roles at which it excels."
   },
   {
@@ -1440,7 +1440,7 @@
   },
   {
     "Key": "wotr-making-friends.eidolonshadecompanionfeature.description",
-    "zhCN": "被称为阴魂的神秘不死生物潜伏在黑暗的地方，以那些离光源太远的人们为食。那些与阴魂进行谈判的人，通常是用发光的武器来阻挡他们，他们可能会听到一些重大的机密，因为他们是理想的密探。",
+    "zhCN": "阴暗处潜伏着那神秘的不死生物——阴魂,他们以远离光明的人为食。与阴魂交涉的人,通常武装着一件会发光的武器来防范它们,或许能从阴魂口中获知重大秘密,因为它们是极佳的探子。",
     "enGB": "The mysterious undead known as shadows lurk in dark places and feed on those who stray too far from the light. Those who parley with shadows, typically by keeping them at bay with a glowing weapon, may learn great secrets, for they are ideal spies."
   },
   {
@@ -3070,7 +3070,7 @@
   },
   {
     "Key": "wotr-making-friends.eidolonkytonsubtypefeature.description",
-    "zhCN": "研究细腻痛苦的学者们和肉体极限的探索者们都明白，凡人的形态是一张渴望改变的空白画布。链魔幻灵看起来像人形，只是身上布满了穿孔，挂着铁链，布满了可怕的改造。链魔幻灵获得了触手和织网的进化，但链魔幻灵的触手和织网总是以铁链的形式出现。",
+    "zhCN": "作为专研痛苦的细腻之处的学者和肉体极限的疆域的探索者,链魔明白凡人的形体是一张渴望蜕变的空白画布。他们外形酷似人类,只是身上布满穿环,缠绕着锁链,还带有骇人的身体改造。链魔幻灵能够获得触手团和网进化,但链魔幻灵的触手团和网总是呈现出活动的锁链形态。",
     "enGB": "Scholars of the exquisiteness of agony and explorers of the limitations of the flesh, kytons understand the mortal form is a blank canvas aching for transformation. They appear as humanoids, save that they are covered in piercings, draped with chains, and bear grisly body modifications. Kyton eidolons gain access to the tentacle and web evolutions, but kyton eidolon tentacles and webs always appear as animated chains."
   },
   {
