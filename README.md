@@ -3572,15 +3572,17 @@ C:\Users\你的用户名\AppData\LocalLow\Owlcat Games\Pathfinder Wrath Of The R
 > *新增内容：* 进阶职业<br>
 <table>
  <tr><th colspan="3">新增内容列表<br></th></tr> 
-  <tr><td rowspan="35">变体</i></td>
+  <tr><td rowspan="38">变体</i></td>
        <td rowspan="3">炼金术师 Alchemist</td>
        <td>构装骑士 Construct Rider</td></tr>
        <tr><td>内修药师 Internal Alchemist</td></tr>
        <tr><td>科学狂人 Mad Scientist</td></tr>
        <td rowspan="1">奥能师 Arcanist</td>
        <td>御天使 Aeromancer</td></tr>
-       <td rowspan="1">吟游诗人 Brad</td>
+       <td rowspan="3">吟游诗人 Brad</td>
        <td>杂耍者 Juggler</td></tr>
+       <td>艺伎 Geisha</td></tr>
+       <td>音爆使 Sound Striker</td></tr>
        <td rowspan="1">野蛮人 Barbarian</td>
        <td>醉蛮 Drunken Brute</td></tr>
        <td rowspan="1">血脉狂怒者 Bloodrager</td>
@@ -3620,6 +3622,8 @@ C:\Users\你的用户名\AppData\LocalLow\Owlcat Games\Pathfinder Wrath Of The R
        <td>巴克雅尔绑匪 Kidnapper</td></tr>
        <td rowspan="1">歌者 Skald</td>
        <td>天命勇者 Fated Champion</td></tr>
+       <td rowspan="1">杀手 Slayer</td>
+       <td>死魂精之影 Ankou's Shadow</td></tr>
        <td rowspan="1">术士 Sorcerer</td>
        <td>真理追寻者 Truth Seeker</td></tr>
        <td rowspan="1">战斗祭司 Warpriest</td>
@@ -3965,7 +3969,7 @@ C:\Users\你的用户名\AppData\LocalLow\Owlcat Games\Pathfinder Wrath Of The R
        <tr><td colspan="2">格挡反击（神话）Riposte (Mythic)<br>决斗家在格挡和反击时将神话等级加到攻击骰上，不与时刻备战神话专长的效果叠加。</td></tr>
        <tr><td colspan="2">形上学偷袭 Metaphysical Sneak Attack<br>战争学徒在偷袭敌人时自动研究目标，可以直接进行知识检定。另外，他的偷袭伤害不再是精准伤害。</td></tr>
        <tr><td colspan="2">秘术催化剂 Mystic Catalyst<br>你能随意使用次级双法合璧。</td></tr>
-  <tr><td rowspan="13">法术 spell</i></td>
+  <tr><td rowspan="14">法术 spell</i></td>
        <tr><td colspan="2">正义祷言 Litany of Righteousness<br>如果目标是邪恶阵营，拥有善良灵光的生物（当且只有当你是崇拜善良神明的牧师/战斗祭司，圣武士或善良异界生物时你才具有善良灵光。）的攻击对其造成双倍伤害。如果目标同时拥有邪恶亚种，它还会目眩1d4轮。</td></tr>
        <tr><td colspan="2">护卫他人 Shield Other<br>受术者的AC获得+1偏斜加值，豁免检定获得+1抗力加值。另外受术者所受的任何造成HP损失的创伤和攻击均减半 (包括由特殊能力造成的)，剩下的部分则由施法者承受。使用移动动作来结束法术而不是移出范围，这样你就不会在过场动画、酒馆等过程中丢失它。</td></tr>
        <tr><td colspan="2">后继者神击术 Inheritor's Smite<br>你在下一次发动近战攻击（若在下一回合结束前发动攻击）时，攻击检定可以获得+5神圣加值。如果该攻击命中，你可以立即尝试冲撞目标（对抗检定时同样获得+5神圣加值），并且不会引发借机攻击。</td></tr>
@@ -3978,7 +3982,8 @@ C:\Users\你的用户名\AppData\LocalLow\Owlcat Games\Pathfinder Wrath Of The R
        <tr><td colspan="2">剑刃鞭笞 Blade Lash<br>你的武器被拉长，变得如同鞭子一般。作为施放该法术的一部分，你能够使用该武器尝试对20尺内的一个生物进行一次摔绊战技，而且你在检定中获得+10加值，在此之后，你的武器会还原至它原本的形态。</td></tr>
        <tr><td colspan="2">树脂皮肤 Resinous Skin<br>你获得DR5/穿刺，对抗缴械的CMD+4环境加值。此外，你的擒抱、保持擒抱和压制敌人的战技检定获得+2环境加值。任何被你擒抱的敌人在试图打破擒抱和逃离擒抱时都有-2减值。任何武器在命中你之后都会被粘住，除非持有者通过一次反射检定。当你以此法粘住武器时，可以立刻施展缴械战技。"</td></tr>
        <tr><td colspan="2">第三只手 Pilfering Hand<br>你创造并且控制一股无形的精神力量，立刻对范围内的一个目标施展缴械战技。使用你的施法者等级作为你的战技加值，加上你的施法者属性调整值。该战技不会引发目标的借机攻击（但是施放此法术可能会引发借机攻击）。</td></tr>
-  <tr><td rowspan="8">其余修改</i></td>
+       <tr><td colspan="2">不谐冲击 Linebreaker<br>你制造一股轰鸣的力场波动，影响以你为中心半径10尺的范围，或者30尺锥形的范围。在该区域内的生物会受到3d6点音波伤害并被推开，如同被冲撞一般。对区域内的所有生物进行战技检定。你的冲撞CMB等同于你的施法者等级+魅力调整值。该冲撞不会引起借机攻击。</td></tr>
+       <tr><td rowspan="8">其余修改</i></td>
        <tr><td colspan="2">拔刀术 Quick Draw<br>如果剑爵已经拥有拔刀术或者警觉专长，他获得阿尔多瑞决斗精通作为额外专长。</td></tr>
        <tr><td colspan="2">教理讲授 Catechesis<br>若地狱骑士持节士拥有以战筑信专长，他的地狱骑士持节士等级与其他神术施法者等级叠加，以计算那些职业的领域效果，但不会因此获得新能力。拥有以战筑信专长的持节士还会获得选择导能作为额外专长。</td></tr>
        <tr><td colspan="2">Estimated THC Shield Other<br>在回合模式下显示攻击命中和法术豁免概率。并不精确，因为它无法计算一些效果，例如隐蔽，法术穿透和有条件的豁免加值。（默认关闭）</td></tr>
