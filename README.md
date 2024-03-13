@@ -1963,7 +1963,7 @@
    <tr><td rowspan="2">DreadKnight 恐惧骑士</td>
            <td>Conqueror 征服者</td></tr> 
            <tr><td>Claw of the False Wyrm 虚龙之爪</td></tr> 
-   <tr><td rowspan="21">变体</td>
+   <tr><td rowspan="22">变体</td>
        <td rowspan="2">审判官</td>
            <td>Living Scripture 活圣经</td></tr> 
 	   <tr><td>Ravener Hunter 狩魔猎手</td></tr> 
@@ -1996,8 +1996,9 @@
        <tr><td rowspan="2">战士</td>
            <td>Archer 弓手</td></tr> 
 	   <tr><td>Spear Fighter 枪矛手</td></tr> 
-       <tr><td rowspan="1">猎人</td>
+       <tr><td rowspan="2">猎人</td>
            <td>Skulking Hunter 潜伏猎手</td></tr>
+           <td>Plant Master 植物大师</td></tr>
    <tr><td rowspan="5">职业特性</td>
        <td>先知秘示域</td>
        <td>Dragon 龙、Heavens 苍天、Succor 救助、Wood 林木</td></tr>
