@@ -36,7 +36,7 @@
 | [TabletopTweaks-Flanking](#TabletopTweaks-Flanking)   | TTT夹击扩展 |   | :heavy_check_mark:  | :+1::+1: | :file_folder: | 🛠️🛠️ ||
 | [WrathMods-MultipleArchetypes](#WrathMods-MultipleArchetypes)   | 多重变体 |   | :heavy_check_mark:  | :+1::+1::+1: | :file_folder: | 🛠️ ||
 | [MicroscopicContentExpansion](#MicroscopicContentExpansion)|MCE内容扩展| QL汉化 | :heavy_check_mark: | :+1::+1: | :file_folder::file_folder: |||
-| [SparsSorcerousSundries](#SparsSorcerousSundries) | 物品扩展 | QL汉化 | :heavy_check_mark: | :+1::+1: | :file_folder::file_folder: ||:steam_locomotive:|
+| [SparsSorcerousSundries](#SparsSorcerousSundries) | 物品扩展 | QL汉化 | :heavy_check_mark: | :+1::+1: | :file_folder::file_folder: |||
 | [TomeOfTheFirebird](#TomeOfTheFirebird) | TOTF扩展 | QL汉化 | :heavy_check_mark: | :+1::+1::+1: | :file_folder::file_folder::file_folder: |||
 | [HomebrewArchetypes](#HomebrewArchetypes) | 房规变体 | 自带 | :x: | :+1::+1::+1: | :file_folder::file_folder::file_folder: |||
 | [ExpandedContent2022](#ExpandedContent2022)  | 内容扩展2022 | 汉化 | :heavy_check_mark: | :+1::+1: | :file_folder::file_folder::file_folder: |||
@@ -3689,7 +3689,7 @@ C:\Users\你的用户名\AppData\LocalLow\Owlcat Games\Pathfinder Wrath Of The R
        <tr><td>魔宠</td><td>蟹王 Crab King<br>主人获得+2擒抱检定加值。</td></tr>
        <tr><td>炼金科研发现</td><td>触手 Tentacle<br>此触手不会给予炼金术师每轮额外的攻击或动作，但触手的“攫抓”能力具有+4擒抱检定加值。</td></tr>
   <tr><td colspan="20">崇神仪典 Deific Obedience<br></th></tr> 
-  <tr><td rowspan="142">崇神仪典 Deific Obedience</i></td>
+  <tr><td rowspan="152">崇神仪典 Deific Obedience</i></td>
 	 <tr><td rowspan="5">拉贾瑟尔 Ragathiel</td><td>需要信仰拉贾瑟尔（Expanded Content）或守序善良</td></tr>
 	  <td>服从仪典 Obedience<br>以拉贾瑟尔之名斩杀一名作恶者。仅仅拥有邪恶的内心或意图是不够的，确实犯下违法或邪恶的罪行才能作为祭品。对抗邪恶生物的法术与效果时豁免得到+4神圣加值。</td></tr>
 	  <td>义战 Virtuous Combat<br>祝福武器3次/天，正义祷言2次/天，或魔化防具1次/天</td></tr>
@@ -3831,6 +3831,16 @@ C:\Users\你的用户名\AppData\LocalLow\Owlcat Games\Pathfinder Wrath Of The R
 	  <td>午夜恩典 Midnight’s Grace<br>克敌机先 3次/天，猫之优雅 2次/天，吸血鬼之触 1次/天</td></tr>
 	  <td>灵尾匕舞 Sinuous Daggerplay<br>你长出一条弯曲灵活的尾巴（如果你已经有一条尾巴，会长出第二条尾巴）。 这条尾巴极易操纵并且能够控制和抓握轻小物体，但除了挥舞匕首之外，它不能像手一样进行精细的手工操作。 当你用该匕首全回合攻击时，你可以进行一次额外攻击。</td></tr>
 	  <td>死就一个字 Death Is But a Word<br>你对诺缇库拉的忠诚得到了回报，一声独属于你的低语，从她的嘴唇到你的耳边。这是阴影女士所知晓的无数个带来死亡的真言之一。她的每个信徒收到的真言都是独一无二的。当你学会它时，便可以将律令死亡作为类法术能力施展，每天一次。</td></tr>
+      	 <tr><td rowspan="5">阿卡艾克克（信仰哨卫） Achaekek (Sentinel)</td><td>需要信仰阿卡艾克克（Expanded Content）或守序邪恶</td></tr>
+	  <td>服从仪典 Obedience<br>在一个私密处所中，于从你签下契约而杀死的目标身上取得的战利品或破碎的圣徽之前冥想。该战利品必须涂有你的一滴由反曲剑取出的血，并且战利品必须在冥想结束时被销毁。如果你还没有完成契约杀人，或是手头没有合适的战利品，或者寻求以其他方式侍奉螳螂神，而非作为神的刺客，你必须用反曲剑沿着右臂割伤自己，将自己的生命之液献给鲜血行者。你在确认重击时获得+2加值。</td></tr>
+	  <td>斩头沥血 Blood Must Flow<br>重压之刃 3次/日</td></tr>
+	  <td>鲜血淋漓 Bleeding Wounds<br>你用反曲剑产生的所有伤口都会流血不止，对目标造成1d4点流血伤害（不叠加）。</td></tr>
+	  <td>螳螂门不传之秘 Mantis Style Mastery<br>同时持用两把反曲剑时，你不会受到双武器战斗的攻击检定减值，并且你在反曲剑的所有伤害检定上获得+2亵渎加值。如果你用反曲剑造成偷袭伤害，每个偷袭骰都会额外造成2点伤害。</td></tr>
+      	 <tr><td rowspan="5">义洛理 Irori</td><td>需要信仰义洛理或守序中立</td></tr>
+	  <td>服从仪典 Obedience<br>在1小时的修行中，分配同样的时间做以下三件事：练习拳脚功夫或者操演武器、阅读任何你从未读过的文本、一边编发辫一边思索宇宙之奥秘。当仪典完成时，将发辫绕在脖颈上并在今天内保持如此。在所有知识检定中获得+4神圣加值。</td></tr>
+	  <td>渊博学识 Expansive Knowledge<br>狐之狡黠 2次/日</td></tr>
+	  <td>命定之拳 Inevitable Fist<br>每日轮数等同于你的生命骰数，你能够向自身的肢体灌入纯粹的秩序能量。你的徒手打击造成的伤害就如同你的体型比当前大一级，而且获得公理武器特殊能力。启动和解消该能力是自由动作，且轮数不必连续。</td></tr>
+	  <td>符文之躯 Runic Form<br>九个符文纹身出现在你的身体上，其中各有三个符文对应着义洛理的身心灵三种教导。每日3次以标准动作，你能够耗用一个纹身的力量。身之符文容有复原术作为类法术能力，心之符文使用时为你的感知提供+4神圣加值，持续1分钟。灵之符文可以使你进入灵体状态1分钟，如同破空步法术一般。</td></tr>
   <tr><td rowspan="27">专长</i></td>
        <td colspan="2">崇神仪典 Deific Obedience<br>根据所信仰神明获得特殊神恩</td></tr>
        <td colspan="2">多样尊崇 Diverse Obedience<br>在确定获得崇神仪典的神恩时，将你的hd视为比实际高2。每当你获得神恩时，你可以从传道者或信仰哨卫神恩中进行选择。</td></tr>
@@ -3970,7 +3980,7 @@ C:\Users\你的用户名\AppData\LocalLow\Owlcat Games\Pathfinder Wrath Of The R
        <tr><td colspan="2">格挡反击（神话）Riposte (Mythic)<br>决斗家在格挡和反击时将神话等级加到攻击骰上，不与时刻备战神话专长的效果叠加。</td></tr>
        <tr><td colspan="2">形上学偷袭 Metaphysical Sneak Attack<br>战争学徒在偷袭敌人时自动研究目标，可以直接进行知识检定。另外，他的偷袭伤害不再是精准伤害。</td></tr>
        <tr><td colspan="2">秘术催化剂 Mystic Catalyst<br>你能随意使用次级双法合璧。</td></tr>
-  <tr><td rowspan="14">法术 spell</i></td>
+  <tr><td rowspan="15">法术 spell</i></td>
        <tr><td colspan="2">正义祷言 Litany of Righteousness<br>如果目标是邪恶阵营，拥有善良灵光的生物（当且只有当你是崇拜善良神明的牧师/战斗祭司，圣武士或善良异界生物时你才具有善良灵光。）的攻击对其造成双倍伤害。如果目标同时拥有邪恶亚种，它还会目眩1d4轮。</td></tr>
        <tr><td colspan="2">护卫他人 Shield Other<br>受术者的AC获得+1偏斜加值，豁免检定获得+1抗力加值。另外受术者所受的任何造成HP损失的创伤和攻击均减半 (包括由特殊能力造成的)，剩下的部分则由施法者承受。使用移动动作来结束法术而不是移出范围，这样你就不会在过场动画、酒馆等过程中丢失它。</td></tr>
        <tr><td colspan="2">后继者神击术 Inheritor's Smite<br>你在下一次发动近战攻击（若在下一回合结束前发动攻击）时，攻击检定可以获得+5神圣加值。如果该攻击命中，你可以立即尝试冲撞目标（对抗检定时同样获得+5神圣加值），并且不会引发借机攻击。</td></tr>
@@ -3984,6 +3994,7 @@ C:\Users\你的用户名\AppData\LocalLow\Owlcat Games\Pathfinder Wrath Of The R
        <tr><td colspan="2">树脂皮肤 Resinous Skin<br>你获得DR5/穿刺，对抗缴械的CMD+4环境加值。此外，你的擒抱、保持擒抱和压制敌人的战技检定获得+2环境加值。任何被你擒抱的敌人在试图打破擒抱和逃离擒抱时都有-2减值。任何武器在命中你之后都会被粘住，除非持有者通过一次反射检定。当你以此法粘住武器时，可以立刻施展缴械战技。"</td></tr>
        <tr><td colspan="2">第三只手 Pilfering Hand<br>你创造并且控制一股无形的精神力量，立刻对范围内的一个目标施展缴械战技。使用你的施法者等级作为你的战技加值，加上你的施法者属性调整值。该战技不会引发目标的借机攻击（但是施放此法术可能会引发借机攻击）。</td></tr>
        <tr><td colspan="2">不谐冲击 Linebreaker<br>你制造一股轰鸣的力场波动，影响以你为中心半径10尺的范围，或者30尺锥形的范围。在该区域内的生物会受到3d6点音波伤害并被推开，如同被冲撞一般。对区域内的所有生物进行战技检定。你的冲撞CMB等同于你的施法者等级+魅力调整值。该冲撞不会引起借机攻击。</td></tr>
+       <tr><td colspan="2">钳颚术 Lockjaw<br>你令一个生物能够使用某种天生武器将自身紧紧附着在敌人身上。当未处于变形效应下时，该生物的爪抓或者啮咬攻击获得擒抓能力，包括在尝试以及维持擒抱时，战技检定获得的+4加值。</td></tr>
        <tr><td rowspan="8">其余修改</i></td>
        <tr><td colspan="2">拔刀术 Quick Draw<br>如果剑爵已经拥有拔刀术或者警觉专长，他获得阿尔多瑞决斗精通作为额外专长。</td></tr>
        <tr><td colspan="2">教理讲授 Catechesis<br>若地狱骑士持节士拥有以战筑信专长，他的地狱骑士持节士等级与其他神术施法者等级叠加，以计算那些职业的领域效果，但不会因此获得新能力。拥有以战筑信专长的持节士还会获得选择导能作为额外专长。</td></tr>
