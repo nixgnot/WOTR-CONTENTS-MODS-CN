@@ -3632,7 +3632,7 @@ C:\Users\你的用户名\AppData\LocalLow\Owlcat Games\Pathfinder Wrath Of The R
        <td rowspan="2">巫师 Witch</td>
        <td>白发魔女 White-Haired Witch</td></tr>
        <tr><td>卡牌占卜师 Cartomancer</td></tr>
-  <tr><td rowspan="25">进阶职业</i></td>
+  <tr><td rowspan="26">进阶职业</i></td>
        <td colspan="2">骑士 Chevalier</td></tr>
        <tr><td colspan="2">绯红圣教军 Crimson Templar</td></tr>
        <tr><td colspan="2">晨花隐者 Dawnflower Anchorite</td></tr>
@@ -3658,6 +3658,7 @@ C:\Users\你的用户名\AppData\LocalLow\Owlcat Games\Pathfinder Wrath Of The R
        <tr><td colspan="2">半身任侠 Halfling Opportunist</td></tr>
        <tr><td colspan="2">龙怒狂徒 Dragon Fury</td></tr>
        <tr><td colspan="2">黄金军士 Golden Legionnaire</td></tr>
+       <tr><td colspan="2">王牌弩手 Bolt Ace<br>在桌面上是铳士变体，作者修改成了5级封顶的进阶职业</td></tr>
   <tr><td rowspan="30">职业特性和其他</i></td>
        <tr><td rowspan="7">狂暴之力 Rage Power</td></tr>
        <td>醉怒狂吼 Roaring Drunk<br>狂暴时，野蛮人获得威吓检定以及她创造的任何恐惧效果DC的士气加值，每4野蛮人等级增加1点。</td></tr>
@@ -3980,7 +3981,7 @@ C:\Users\你的用户名\AppData\LocalLow\Owlcat Games\Pathfinder Wrath Of The R
        <tr><td colspan="2">格挡反击（神话）Riposte (Mythic)<br>决斗家在格挡和反击时将神话等级加到攻击骰上，不与时刻备战神话专长的效果叠加。</td></tr>
        <tr><td colspan="2">形上学偷袭 Metaphysical Sneak Attack<br>战争学徒在偷袭敌人时自动研究目标，可以直接进行知识检定。另外，他的偷袭伤害不再是精准伤害。</td></tr>
        <tr><td colspan="2">秘术催化剂 Mystic Catalyst<br>你能随意使用次级双法合璧。</td></tr>
-  <tr><td rowspan="15">法术 spell</i></td>
+  <tr><td rowspan="16">法术 spell</i></td>
        <tr><td colspan="2">正义祷言 Litany of Righteousness<br>如果目标是邪恶阵营，拥有善良灵光的生物（当且只有当你是崇拜善良神明的牧师/战斗祭司，圣武士或善良异界生物时你才具有善良灵光。）的攻击对其造成双倍伤害。如果目标同时拥有邪恶亚种，它还会目眩1d4轮。</td></tr>
        <tr><td colspan="2">护卫他人 Shield Other<br>受术者的AC获得+1偏斜加值，豁免检定获得+1抗力加值。另外受术者所受的任何造成HP损失的创伤和攻击均减半 (包括由特殊能力造成的)，剩下的部分则由施法者承受。使用移动动作来结束法术而不是移出范围，这样你就不会在过场动画、酒馆等过程中丢失它。</td></tr>
        <tr><td colspan="2">后继者神击术 Inheritor's Smite<br>你在下一次发动近战攻击（若在下一回合结束前发动攻击）时，攻击检定可以获得+5神圣加值。如果该攻击命中，你可以立即尝试冲撞目标（对抗检定时同样获得+5神圣加值），并且不会引发借机攻击。</td></tr>
@@ -3995,6 +3996,7 @@ C:\Users\你的用户名\AppData\LocalLow\Owlcat Games\Pathfinder Wrath Of The R
        <tr><td colspan="2">第三只手 Pilfering Hand<br>你创造并且控制一股无形的精神力量，立刻对范围内的一个目标施展缴械战技。使用你的施法者等级作为你的战技加值，加上你的施法者属性调整值。该战技不会引发目标的借机攻击（但是施放此法术可能会引发借机攻击）。</td></tr>
        <tr><td colspan="2">不谐冲击 Linebreaker<br>你制造一股轰鸣的力场波动，影响以你为中心半径10尺的范围，或者30尺锥形的范围。在该区域内的生物会受到3d6点音波伤害并被推开，如同被冲撞一般。对区域内的所有生物进行战技检定。你的冲撞CMB等同于你的施法者等级+魅力调整值。该冲撞不会引起借机攻击。</td></tr>
        <tr><td colspan="2">钳颚术 Lockjaw<br>你令一个生物能够使用某种天生武器将自身紧紧附着在敌人身上。当未处于变形效应下时，该生物的爪抓或者啮咬攻击获得擒抓能力，包括在尝试以及维持擒抱时，战技检定获得的+4加值。</td></tr>
+       <tr><td colspan="2">烦扰巨人 Vex Giant<br>当你施放侵扰巨人后，若敌人的体型比你至少大1级，你的感官与身手会就在对抗60尺内的单个敌人时变得更加凌厉。你可以在施放该法术时以自由动作选择你所专注的敌人——将你专注的目标切换为60尺内的另一个敌人是移动动作。法术名称虽然叫侵扰巨人，但对付其他比你体型至少大1级的目标时也有用。在对抗你所专注的敌人时，你不会引起其借机攻击。此外，在一轮内你对该名敌人做出的第一次成功近战攻击会额外造成1d6点伤害。最后，在对抗专注敌人时，你的战技检定均会获得+4洞察加值。</td></tr>
        <tr><td rowspan="8">其余修改</i></td>
        <tr><td colspan="2">拔刀术 Quick Draw<br>如果剑爵已经拥有拔刀术或者警觉专长，他获得阿尔多瑞决斗精通作为额外专长。</td></tr>
        <tr><td colspan="2">教理讲授 Catechesis<br>若地狱骑士持节士拥有以战筑信专长，他的地狱骑士持节士等级与其他神术施法者等级叠加，以计算那些职业的领域效果，但不会因此获得新能力。拥有以战筑信专长的持节士还会获得选择导能作为额外专长。</td></tr>
@@ -4159,9 +4161,22 @@ C:\Users\你的用户名\AppData\LocalLow\Owlcat Games\Pathfinder Wrath Of The R
 > *中文：* **暂无**<br>
 > *安装方式：* **UMM**<br>
 > *新增内容：* 随机装备<br>
-+ 允许装备随机掉落   
++ 允许装备随机掉落
 
-
+------------------------------------------- 
+### [MythicSpellFlexibility](https://github.com/alterasc/MythicSpellFlexibility)
+> *前置：* 无<br>
+> *中文：* **暂无**<br>
+> *安装方式：* **UMM**<br>
+> *新增内容：* 独特的神话法术会添加到角色所有的普通法术书中。<br>
+法术环数不变
++ 普通法术书中的神话法术会像该法术书中的普通法术一样计算施法者等级和DC。
++ 如果你在学习神话法术时还不能施展对应环数的普通法术，并且后来才达到能释放的施法等级，那么此时就会添加神话法术到法术书中。
++ 法术是临时添加的 - 如果你切换到没有神话法术的道途，它们将从普通法术书中删除。
++ 如果你有不止一本普通法术书，神话法术就会被放入所有这些书里。
++ 支持职业与神话道途的任意组合。
++ 所有恢复法术位的神话法术都不会被复制到普通法术书里。不会有无限的法术位。
++ 天使和巫妖拥有的 10 级法术不会被复制，因为通常没有法术书达到 10 级。
 
 ### 功能MOD索引
 + [ToyBox](https://www.nexusmods.com/pathfinderwrathoftherighteous/mods/8) 应该不用介绍？
