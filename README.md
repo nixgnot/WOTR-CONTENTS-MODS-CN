@@ -4181,7 +4181,7 @@ C:\Users\你的用户名\AppData\LocalLow\Owlcat Games\Pathfinder Wrath Of The R
 + 天使和巫妖拥有的 10 级法术不会被复制，因为通常没有法术书达到 10 级。
   
 ------------------------------------------- 
-### [Spell Slot Freedom](https://www.nexusmods.com/pathfinderwrathoftherighteous/mods/603?tab=description）
+### [SpellSlotFreedom](https://www.nexusmods.com/pathfinderwrathoftherighteous/mods/603?tab=description）
 > *前置：* 无<br>
 > *中文：* **不需要**<br>
 > *安装方式：* **UMM**<br>
