@@ -83,6 +83,7 @@
 | [PathofWar](#PathofWar) | 战争之路 | 暂无 | :heavy_check_mark: | :+1: | :file_folder: |🛠️||
 | [RandomEquipment](#RandomEquipment) | 随机装备 | 暂无 | :heavy_check_mark: | :+1::+1: | :file_folder: |🛠️||
 | [MythicSpellFlexibility](#MythicSpellFlexibility) | 暂无 | 暂无 | :heavy_check_mark: | :+1:| :file_folder: |🛠️||
+| [Spell Slot Freedom](#Spell Slot Freedom) | 暂无 | 暂无 | :heavy_check_mark: | :+1:| :file_folder: |🛠️||
 
 备注
 + UMM一栏为是否使用UMM安装
@@ -4167,7 +4168,7 @@ C:\Users\你的用户名\AppData\LocalLow\Owlcat Games\Pathfinder Wrath Of The R
 ------------------------------------------- 
 ### [MythicSpellFlexibility](https://github.com/alterasc/MythicSpellFlexibility)
 > *前置：* 无<br>
-> *中文：* **暂无**<br>
+> *中文：* **不需要**<br>
 > *安装方式：* **UMM**<br>
 > *新增内容：* 独特的神话法术会添加到角色所有的普通法术书中。<br>
 + 法术环数不变
@@ -4178,6 +4179,18 @@ C:\Users\你的用户名\AppData\LocalLow\Owlcat Games\Pathfinder Wrath Of The R
 + 支持职业与神话道途的任意组合。
 + 所有恢复法术位的神话法术都不会被复制到普通法术书里。不会有无限的法术位。
 + 天使和巫妖拥有的 10 级法术不会被复制，因为通常没有法术书达到 10 级。
+  
+------------------------------------------- 
+### [Spell Slot Freedom](https://www.nexusmods.com/pathfinderwrathoftherighteous/mods/603?tab=description）
+> *前置：* 无<br>
+> *中文：* **不需要**<br>
+> *安装方式：* **UMM**<br>
+> *新增内容：* 能在没有升阶超魔的情况下使用高级法术位释放低级法术<br>
++ 通过在法术书菜单中，将你想要在更高级别施放的法术拖放到切换环位的按钮中你需要的法术级别上来把低级法术添加的更高的环位中。
++ 要忘记以这种方式添加到更高环位的法术，请将其拖放到任何较低级别的按钮中，这将删除它。
++ 你只能在没有应用超魔的情况下移动法术。
++ DC 不会增加 - 因为根据规则它不应该增加
++ 仅适用于鼠标和键盘。
 
 ### 功能MOD索引
 + [ToyBox](https://www.nexusmods.com/pathfinderwrathoftherighteous/mods/8) 应该不用介绍？
