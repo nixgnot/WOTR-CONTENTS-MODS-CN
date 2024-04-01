@@ -24512,7 +24512,63 @@
       "SimpleName": "PlantFocusSporeVisibleBuff.Name",
       "ProcessTemplates": false,
     "zhCN": "植物之力 - 孢子",
-    "enGB": "Plant Focus - Spore"
+    "enGB": "Plant Focus - Spore"    
+    },
+    {
+      "Key": "38d5cabe2b1044bab16a8d293d601e97",
+      "SimpleName": "DrakeRiderArchetype.Description",
+      "ProcessTemplates": false,、
+      "zhCN": "虽然骑龙上阵是许多骑士的梦想，但龙兽骑士们明白，实现的难度比他们预想的还要多得多。不像其他骑士，龙兽骑士必须从蛋开始训练他们的坐骑，在骄傲的龙愿意承认他们为骑手之前，龙兽骑士要独自承受劳苦，在数年间不断和它们争斗与拼搏。",
+      "enGB": "While many cavaliers dream of riding a dragon into battle, drake riders come to learn that the reality involves far more effort than they had expected. Unlike other cavaliers, drake riders must train their mounts from hatchlings, fighting and toiling alongside their drakes through countless struggles before the proud dragons are willing to accept them as riders."
+    },
+    {
+      "Key": "83274c7b3dc74358bbce5a2c07774758",
+      "SimpleName": "DrakeRiderArchetype.Name",
+      "ProcessTemplates": false,
+      zhCN": "龙兽骑士", 
+     "enGB": "Drake Rider"
+    },
+    {
+      "Key": "487f49eeb3374a9dac5b48e3d7db957d",
+      "SimpleName": "DrakeRiderBondFeature.Description",
+      "ProcessTemplates": true,
+      "zhCN": "龙兽骑士获得的不是动物伙伴，而是将被训练成合适坐骑的龙兽伙伴。\n龙兽骑士等级被视为德鲁伊等级，用于确定龙兽伙伴的等级和能力。",
+      "enGB": "Instead of an animal companion, the drake rider receives a drake companion to train into a suitable mount. \nThe drake riders levels are treated as druid levels for determining the level and abilities of the drake companion."
+    },
+    {
+      "Key": "b39bf72b49154cb198fb20d88602f08a",
+      "SimpleName": "DrakeRiderBondFeature.Name",
+      "ProcessTemplates": false,
+      "zhCN": "选择龙兽",
+      "enGB": "Drake Selection"
+    },
+    {
+      "Key": "ac310cac8e384455a12db6f792c75c2e",
+      "SimpleName": "DrakeRiderMountTrainingFeature.Description",
+      "ProcessTemplates": true,
+      "zhCN": "在7级时，龙兽骑士成功完成了龙兽的坐骑训练，一旦龙兽变成中体型就可以骑乘了。", 
+     "enGB": "By level 7 the drake rider successfully completes their drakes mount training, allowing them to be riden as soon as they reach medium size."
+    },
+    {
+      "Key": "df4b5ab0839e48c98e79ee2a73783368",
+      "SimpleName": "DrakeRiderMountTrainingFeature.Name",
+      "ProcessTemplates": false,
+      "zhCN": "完成训练",
+      "enGB": "Completed Training"
+    },
+    {
+      "Key": "9d67f9d553494d6e9e0bb4ab29e24ac5",
+      "SimpleName": "DrakeRiderShakeItOffFeature.Description",
+      "ProcessTemplates": true,
+      "zhCN": "在3级时，龙兽骑士和龙兽都接受了分散对手注意力的配合训练,因此他们都获得了团队专长摆脱困境",
+      "enGB": "At level 3 both the drake rider and the drake have trained in fighting together through distraction, both gain the Shake It Off teamwork feat."
+    },
+    {
+      "Key": "00e8519378964741946c2d0277e32700",
+      "SimpleName": "DrakeRiderShakeItOffFeature.Name",
+      "ProcessTemplates": false,
+      "zhCN": "共享专长摆脱困境",
+      "enGB": "Shared Shake It Off Feat"
     }
   ]
 }
