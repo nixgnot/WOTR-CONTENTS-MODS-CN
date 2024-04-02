@@ -53,6 +53,16 @@
     "Key": "SoulknifeProficiencies.Description",
     "enGB_Base": "A soulknife is proficient with all simple weapons, with her own mind blade (regardless of form), with light and medium armor, and with shields (but not tower shields).",
     "zhCN": "魂刃擅长使用所有简单武器以及她的念刃（不论是何种形态）．她们擅长轻型和中型甲以及盾牌（不包括塔盾）。"
+  },{
+    "Key": "PsionProficiencies.Name",
+    "ProcessTemplates": false,
+    "enGB_Base": "Psion Proficiencies",
+    "zhCN": "心灵术士擅长"
+  },
+  {
+    "Key": "PsionProficiencies.Description",
+    "enGB_Base": "Psions are proficient with simple weapons. They are not proficient with any type of armor or shield. Armor does not, however, interfere with the manifestation of powers.",
+    "zhCN": "心灵术士擅长简易武器。他们不擅长任何类型的盔甲或盾牌。但是，防具并不妨碍展现异能。。"
   },
   {
     "Key": "FormMindBladeFeat.Name",
@@ -89,6 +99,17 @@
     "Key": "Soulknife.Description",
     "enGB_Base": "Never caught unarmed, the soulknife is the literal interpretation of using the power of the mind as a weapon. Creating a mind blade is the core of the soulknife, and with it, she is a deadly combatant. Versatile and varied, the soulknife can be found in all shapes and sizes, wielding blades unique to the wielder and customized to fit the needs of the soulknife. Fluid in function, the soulknife has mastered how to alter her mind blade to fit the situation, bringing power and versatility into any combat.",
     "zhCN": "就如同字面上的意义一样，一位魂刃永远不会担心在战斗中以赤手空拳的状态迎击敌人，他们能以自身的意念来铸造兵器迎接战斗。创造一把念刃是一个魂刃最基础的核心工作，当一位魂刃手持念刃时，她便是最为致命的战士．念刃的姿态千姿多彩而绝非千人一面，你可以找到各式大小及不同形态的念刃，念刃的形态及功能会根据挥舞者的不同需求或适应使用者的个人习惯而转变。如流水般变幻形态切换功能，魂刃能根据不同的局势状况熟练的转变重塑她的念刃，以一种强大多变的方式来投入战斗。"
+  },{
+    "Key": "PsionClass.Name",
+    "ProcessTemplates": false,
+    "enGB_Base": "Psion",
+    "zhCN": "心灵术士"
+  },
+
+  {
+    "Key": "PsionClass.Description",
+    "enGB_Base": "The powers of the mind are varied and limitless, and the psion learns how to unlock them. Whether he is a shaper or a telepath, an egoist or a nomad, or even a generalist, the psion learns to manifest psionic powers that alter himself and the world around him. Due to the limited powers that any one psion knows, each psion is unique in his capabilities, as his latent abilities are drawn out and shaped into the psionic powers that define the psion.\nEach psion also gains unique abilities depending on his choice of disciplines: the egoist excels at altering his own physiology, while the nomad learns to manipulate the very fabric of space and time, and the generalist becomes a master of the overall principles of psionics, while sacrificing some of the unique abilities of the other disciplines.",
+    "zhCN": "精神的力量是多样且无限的，而心灵术士学会了如何唤起它们。无论他是一名创形者或是传心者，百变者或是灵旅者，甚或是一名通晓者，心灵术士学会了通过展现异能来改变自己和他周遭的世界。由于心灵术士所知的异能有限，每个心灵术士的能力都是独一无二的，因为他的潜在能力是抽取和塑造作为心灵术士特色的心灵异能。\n每个心灵术士都可以从他所选择的能系中获得独特的能力：百变者擅于改变自己的生理机能，而灵旅者学会了操控时间与空间的基本结构，以及通晓者成为了通过牺牲其他能系的一些独特能力而掌握心灵异能全部法则的大师。"
   },
 
   // ==== Added Feats====
@@ -141,6 +162,66 @@
     "Key": "WildTalent.Description",
     "enGB_Base": "Your latent power of psionics flares to life, conferring upon you the designation of a psionic character. As a psionic character, you gain a reserve of 2 power points and can take psionic feats, metapsionic feats, and psionic item creation feats. You do not, however, gain the ability to manifest powers simply by virtue of having this feat. Additionally, you can take this feat multiple times. The first, you gain 2 additional power points, every other time, you gain only one.",
     "zhCN": "你潜在的灵能力量在你的生命中闪亮起来，你现在变为了一名灵能人物。作为灵能人物，你获得了2点灵能点而且可以选择灵能专长、超能专长和制造灵能物品专长，不过本专长本身不会给你展现异能的能力。此外，当你多次获得此专长时，首次你获得2点额外灵能点，之后每次只获得1点。"
+  },
+  {
+    "Key": "DeepFocus.Name",
+    "enGB_Base": "Deep Focus",
+    "zhCN": "深度聚焦"
+  },
+  {
+    "Key": "DeepFocus.Description",
+    "enGB_Base": "You can psionically focus your subconscious in the same manner in which you gain psionic focus normally. At any time when you need to expend your psionic focus, you can expend your subconscious’s psionic focus instead. At any time when you need to maintain psionic focus for an effect, you can use your subconscious’s psionic focus instead. Psionically focusing your subconscious works just like focusing your conscious mind.",
+    "zhCN": "你可以以与正常获得灵能集中相同的方式来灵能集中你的潜意识。任何时候当你需要消耗你的灵能集中时，你都可以消耗你的潜意识灵能集中。任何时候，当你需要保持灵能集中以获得效果时，你都可以使用潜意识的灵能集中。潜意识灵能集中和你有意识的灵能集中同样运作。"
+  },
+  {
+    "Key": "GreaterPsionicShotFeat.Name",
+    "enGB_Base": "Greater Psionic Shot",
+    "zhCN": "高等灵能射击"
+  },
+  {
+    "Key": "GreaterPsionicShotFeat.Description",
+    "enGB_Base": "When you use the Psionic Shot feat, your ranged attack deals an extra 2 points of damage instead of 1 point of damage while you maintain psionic focus, and deal an extra 4d6 points of damage instead of an extra 2d6 points when you expend your psionic focus.",
+    "zhCN": "当你使用灵能射击专长时，当你保持灵能集中时的远程攻击造成额外2点伤害来取代原本的1点伤害，并且当你消耗灵能集中时造成额外的4d6伤害来取代原本的2d6伤害。"
+  },
+  {
+    "Key": "GreaterPsionicWeaponFeat.Name",
+    "enGB_Base": "Greater Psionic Weapon",
+    "zhCN": "高等灵能武器"
+  },
+  {
+    "Key": "GreaterPsionicWeaponFeat.Description",
+    "enGB_Base": "When you use the Psionic Weapon feat, your attack deals an extra 2 points of damage instead of 1 point of damage while you maintain psionic focus, and deal an extra 4d6 points of damage instead of an extra 2d6 points when you expend your psionic focus.",
+    "zhCN": "当你使用灵能武器专长时，当你保持灵能集中时的近战攻击造成额外2点伤害来取代原本的1点伤害，并且当你消耗灵能集中时造成额外的4d6伤害来取代原本的2d6伤害。"
+  },
+  {
+    "Key": "PsionicShotFeat.Name",
+    "enGB_Base": "Psionic Shot",
+    "zhCN": "灵能射击"
+  },
+  {
+    "Key": "PsionicShotFeat.Description",
+    "enGB_Base": "While you maintain psionic focus, your attacks with a ranged weapon deal an extra 1 point of damage. Additionally, if you expend your psionic focus as part of an attack with a ranged weapon, that attack instead deals an extra 2d6 points of damage. You must decide whether or not to use this feat prior to making an attack. If your attack misses, you still expend your psionic focus.",
+    "zhCN": "当你持有灵能集中时，你使用远程武器做出的攻击造成额外1点伤害。除此之外，如果你作为一次远程武器攻击的一部分，消耗灵能集中，此次攻击转为造成额外的2d6伤害。你必须在做出此次攻击前决定是否消耗掉你的灵能集中，如果你的攻击打失，你依然要消耗掉灵能集中。"
+  },
+  {
+    "Key": "PsionicWeaponFeat.Name",
+    "enGB_Base": "Psionic Weapon",
+    "zhCN": "灵能武器"
+  },
+  {
+    "Key": "PsionicWeaponFeat.Description",
+    "enGB_Base": "While you maintain psionic focus, your attacks with a melee weapon deal an extra 1 point of damage. Additionally, if you expend your psionic focus as part of an attack with a melee weapon, that attack instead deals an extra 2d6 points of damage. You must decide whether or not to use this feat prior to making an attack. If your attack misses, you still expend your psionic focus.",
+    "zhCN": "当你持有灵能集中时，你使用近战武器做出的攻击造成额外1点伤害。除此之外，如果你作为一次近战武器攻击的一部分，消耗灵能集中，此次攻击转为造成额外的2d6伤害。你必须在做出此次攻击前决定是否消耗掉你的灵能集中，如果你的攻击打失，你依然要消耗掉灵能集中。"
+  },
+  {
+    "Key": "MythicPsionicMeditation.Name",
+    "enGB_Base": "Mythic Psionic Meditation",
+    "zhCN": "神话灵能冥想"
+  },
+  {
+    "Key": "MythicPsionicMeditation.Description",
+    "enGB_Base": "You no longer provoke attacks of opportunity when meditating to gain psionic focus. Should you have multiple psionic foci, such as from Deep Focus, you regain any psionic focus you are not currently maintaining anytime you meditate to gain psionic focus. In addition, you can expend a use of mythic power to regain your psionic focus as a free action.",
+    "zhCN": "当你冥想以获得灵能集中时不再引发借机攻击。如果你有多个灵能集中，例如来自深度聚焦的潜意识灵能集中，那么当你冥想获得灵能集中时，你会重新获得当前未保持的任何灵能集中。此外，你可以通过一个自由动作消耗一次神话之力来重新获得你的灵能集中。"
   },
   // ==== Added Soulknife Feats====
   {
@@ -325,6 +406,16 @@
     "zhCN": "魂刃以不可置信的速度向前方冲锋。以一个迅捷动作，魂刃可以消耗她的灵能集中移动等于其速度的距离，而不会引发借机攻击。选择这一魂之剑技需要至少6级魂刃等级。"
   },
   {
+    "Key": "BladeRushBuff.Name",
+    "enGB_Base": "Blade Rush",
+    "zhCN": "刀锋舞步"
+  },
+  {
+    "Key": "BladeRushBuff.Description",
+    "enGB_Base": "If you're reading this, Hello!",
+    "zhCN": "看啥呢兄弟！"
+  },
+  {
     "Key": "BladeRushAbility.Name",
     "enGB_Base": "Blade Rush",
     "zhCN": "刀锋舞步"
@@ -505,6 +596,11 @@
     "zhCN": "凛冬冰锋"
   },
   {
+    "Key": "IceBladeSlowedBuff.Name",
+    "enGB_Base": "Slowed",
+    "zhCN": "冰锋减速"
+  },
+  {
     "Key": "IceBladeSpendFocusAbility.Name",
     "enGB_Base": "Ice Blade (Spend Focus)",
     "zhCN": "凛冬冰锋（消耗灵能集中）"
@@ -548,6 +644,11 @@
     "Key": "LightningBladeFeat.Name",
     "enGB_Base": "Lightning Blade",
     "zhCN": "霹雳雷锋"
+  },
+  {
+    "Key": "LightningBladeDebuff.Name",
+    "enGB_Base": "Lightning Blade Shock",
+    "zhCN": "雷锋震击"
   },
   {
     "Key": "LightningBladeSpendFocusAbility.Name",
@@ -659,6 +760,11 @@
     "Key": "ThunderBladeFeat.Name",
     "enGB_Base": "Thunder Blade",
     "zhCN": "轰鸣音锋"
+  },
+  {
+    "Key": "ThunderBladeDebuff.Name",
+    "enGB_Base": "Thunder Blade Debuff",
+    "zhCN": "音锋减益"
   },
   {
     "Key": "ThunderBladeSpendFocusAbility.Name",
@@ -959,5 +1065,223 @@
     "ProcessTemplates": false,
     "enGB_Base": "Shape Mind Blade (Free)",
     "zhCN": "念刃变形（自由动作）"
-  }  
+  },
+  {
+    "Key": "GreaterPsionicShotAttack.Name",
+    "ProcessTemplates": false,
+    "enGB_Base": "Greater Psionic Shot",
+    "zhCN": "高能灵能射击"
+  },
+  {
+    "Key": "GreaterPsionicShotAttack.Description",
+    "ProcessTemplates": false,
+    "enGB_Base": "Spend Psionic Focus as part of your next ranged weapon attack to deal an extra 4d6 damage",
+    "zhCN": "花费灵能集中作为下一次远程武器攻击的一部分，造成额外4d6伤害"
+  },
+  {
+    "Key": "GreaterPsionicWeaponAttack.Name",
+    "ProcessTemplates": false,
+    "enGB_Base": "Greater Psionic Weapon",
+    "zhCN": "高能灵能武器"
+  },
+  {
+    "Key": "GreaterPsionicWeaponAttack.Description",
+    "ProcessTemplates": false,
+    "enGB_Base": "Spend Psionic Focus as part of your next melee weapon attack to deal an extra 4d6 damage",
+    "zhCN": "花费灵能集中作为下一次近战武器攻击的一部分，造成额外4d6伤害"
+  },
+  {
+    "Key": "PsionicShotAttack.Name",
+    "ProcessTemplates": false,
+    "enGB_Base": "Psionic Shot",
+    "zhCN": "灵能射击"
+  },
+  {
+    "Key": "PsionicShotAttack.Description",
+    "ProcessTemplates": false,
+    "enGB_Base": "Spend Psionic Focus as part of your next ranged weapon attack to deal an extra 2d6 damage",
+    "zhCN": "花费灵能集中作为下一次远程武器攻击的一部分，造成额外2d6伤害"
+  },
+  {
+    "Key": "PsionicWeaponAttack.Name",
+    "ProcessTemplates": false,
+    "enGB_Base": "Psionic Weapon",
+    "zhCN": "灵能武器"
+  },
+  {
+    "Key": "PsionicWeaponAttack.Description",
+    "ProcessTemplates": false,
+    "enGB_Base": "Spend Psionic Focus as part of your next melee weapon attack to deal an extra 2d6 damage",
+    "zhCN": "花费灵能集中作为下一次近战武器攻击的一部分，造成额外2d6伤害"
+  },
+  {
+    "Key": "BoltBuff.Name",
+    "enGB_Base": "Bolt",
+    "zhCN": "灵能弹药"
+  },
+  {
+    "Key": "BoltBuff.Description",
+    "enGB_Base": "You create ectoplasmic crossbow bolts, arrows, or sling bullets, appropriate to your size, which dissipate into their constituent ectoplasmic particles when the duration ends. Ammunition you create has a +1 enhancement bonus on attack rolls and damage rolls.",
+    "zhCN": "你可以创造符合你体形的灵质弩矢、箭或投石索弹药，当持续时间结束时，这些子弹会消散回灵子状态。你制造的灵能弹药在攻击和伤害骰上有+1增强加值。"
+  },
+  {
+    "Key": "BrokerBuff.Name",
+    "enGB_Base": "Broker",
+    "zhCN": "传心神念"
+  },
+  {
+    "Key": "BrokerBuff.Description",
+    "enGB_Base": "You gain temporary, intuitive insight into dealing equitably with others. You gain a +2 insight bonus to Pursuasion.",
+    "zhCN": "你在待人接物上获得了临时的直观洞察力，在沟通上获得+2洞察加值。"
+  },
+  {
+    "Key": "CircumstanceShieldBuff.Name",
+    "enGB_Base": "Circumstance Shield",
+    "zhCN": "环境护盾"
+  },
+  {
+    "Key": "CircumstanceShieldBuff.Description",
+    "enGB_Base": "Your shield of insight alerts you to potential dangers and supercharges your reaction time. You gain a +1 insight bonus on your Initiative checks for the duration of the effect.",
+    "zhCN": "你的洞察之盾会提醒你潜在的危险，并增加你的反应时间。在效果持续时间内，你在先攻上获得+1洞察加值。"
+  },
+  {
+    "Key": "DecelerationBuff.Name",
+    "enGB_Base": "Deceleration",
+    "zhCN": "减速"
+  },
+  {
+    "Key": "DecelerationBuff.Description",
+    "enGB_Base": "You warp space around an individual, hindering the subject’s ability to move. The subject’s speed (in any movement mode it possesses) is halved. A subsequent manifestation of deceleration on the subject does not further decrease its speed.",
+    "zhCN": "你扭曲了目标个体周围的空间，阻碍其移动能力。目标的速度（在其拥有的任何运动模式下）减半。目标减速后的行动不会进一步降低其速度。"
+  },
+  {
+    "Key": "EctoplasmicSheenBuff.Name",
+    "enGB_Base": "Ectoplasmic Sheen",
+    "zhCN": "灵质光彩"
+  },
+  {
+    "Key": "EctoplasmicSheenBuff.Description",
+    "enGB_Base": "You draw forth ectoplasm in an area, causing the surface to become slick. Any creature in the area when the power is manifested must make a successful Reflex save or fall. A creature can walk within or through the area of ectoplasm at half normal speed with a DC 10 Acrobatics check. Failure means it can’t move that round (and must then make a Reflex save or fall), while failure by 5 or more means it falls (see the Acrobatics skill for details). Creatures that do not move on their turn do not need to make this check and are not considered flat-footed.",
+    "zhCN": "你在一个区域中覆盖灵质，使其表面变得光滑。显能时，该区域内的任何生物都必须成功进行反射豁免来避免摔倒。通过DC 10的灵巧检定可以让生物以减半速度在灵质区域内行走或穿过灵质区域。失败则意味着那一轮不能移动（然后必须进行反射豁免避免摔倒），而失败超过5点以上意味着摔倒（详见灵巧技能）。在自己回合没有进行移动的生物不需要进行该检定，也不被视为措手不及。"
+  },
+  {
+    "Key": "MindBoltBuff.Name",
+    "enGB_Base": "Formed Mind Bolt",
+    "zhCN": "念矢塑形"
+  },
+  {
+    "Key": "MindBoltBuff.Description",
+    "enGB_Base": "A Mind Bolt has been formed",
+    "zhCN": "塑形一发念矢"
+  },
+  // ==== Added Soulknife Abilities====
+  {
+    "Key": "BoltPower.Name",
+    "enGB_Base": "Bolt",
+    "zhCN": "灵能弹药"
+  },
+  {
+    "Key": "BoltPower.Description",
+    "enGB_Base": "You create ectoplasmic crossbow bolts, arrows, or sling bullets, appropriate to your size, which dissipate into their constituent ectoplasmic particles when the duration ends. Ammunition you create has a +1 enhancement bonus on attack rolls and damage rolls.\nAugment For every 3 additional power points you spend, this power improves the ammunition’s enhancement bonus on attack rolls and damage rolls by 1",
+    "zhCN": "你可以创造符合你体形的灵质弩矢、箭或投石索弹药，当持续时间结束时，这些子弹会消散回灵子状态。你制造的灵能弹药在攻击和伤害骰上有+1增强加值。\n每额外消耗3灵能点，就会使弹药在攻击和伤害检定上的增强加值提高1点。"
+  },
+  {
+    "Key": "BrokerPower.Name",
+    "enGB_Base": "Broker",
+    "zhCN": "传心神念"
+  },
+  {
+    "Key": "BrokerPower.Description",
+    "enGB_Base": "You gain temporary, intuitive insight into dealing equitably with others. You gain a +2 insight bonus to Pursuasion.\nAugment For each 2 additional power points you spend, the insight bonus to Pursuasion increases by +1.",
+    "zhCN": "你在待人接物上获得了临时的直观洞察力，在沟通上获得+2洞察加值。\n每额外消耗2灵能点，就会使沟通上的洞察加值提高1点。"
+  },
+  {
+    "Key": "CircumstanceShieldPower.Name",
+    "enGB_Base": "Circumstance Shield",
+    "zhCN": "环境护盾"
+  },
+  {
+    "Key": "CircumstanceShieldPower.Description",
+    "enGB_Base": "Your shield of insight alerts you to potential dangers and supercharges your reaction time. You gain a +1 insight bonus on your Initiative checks for the duration of the effect.",
+    "zhCN": "你的洞察之盾会提醒你潜在的危险，并增加你的反应时间。在效果持续时间内，你在先攻上获得+1洞察加值。\n每额外消耗5灵能点，就会使先攻上的洞察加值提高1点。"
+  },
+  {
+    "Key": "CrystalShard.Name",
+    "enGB_Base": "Crystal Shard",
+    "zhCN": "水晶碎片"
+  },
+  {
+    "Key": "CrystalShard.Description",
+    "enGB_Base": "Upon manifesting this power, you propel a razorsharp crystal shard at your target. You must succeed on a ranged touch attack with the ray to deal damage to a target. The ray deals 1d6 points of piercing damage.\nAugment You can augment this power in one of the following ways.\n1. For every additional power point you spend, this power’s damage increases by 1d6 points.\n2. If you expend your psionic focus when manifesting this power, the cost of the power is reduced by 1 (to a minimum of 0), but the damage is reduced to 1d3 points of piercing damage and cannot be further augmented.",
+    "zhCN": "显能时会向目标发射一块锋利的水晶碎片。你必须成功使用进行射线远程接触攻击才能对目标造成1d6 点穿刺伤害。\n你可以用以下方式增强此技能：\n1、每额外消耗1灵能点，该能力伤害增加1d6点。\n2、如果消耗灵能集中进行显能，消耗灵能减少1（最小为0），但是伤害减少1d3并且不能再进一步增强。"
+  },
+  {
+    "Key": "DecelerationPower.Name",
+    "enGB_Base": "Deceleration",
+    "zhCN": "减速"
+  },
+  {
+    "Key": "DecelerationPower.Description",
+    "enGB_Base": "You warp space around an individual, hindering the subject’s ability to move. The subject’s speed (in any movement mode it possesses) is halved. A subsequent manifestation of deceleration on the subject does not further decrease its speed.\nAugment For every 2 additional power points you spend, this power’s save DC increases by 1",
+    "zhCN": "你扭曲了目标个体周围的空间，阻碍其移动能力。目标的速度（在其拥有的任何运动模式下）减半。目标减速后的行动不会进一步降低其速度。\n每额外消耗2灵能点，该能力豁免DC增加1。"
+  },
+  {
+    "Key": "DemoralizePower.Name",
+    "enGB_Base": "Demoralize",
+    "zhCN": "打击士气"
+  },
+  {
+    "Key": "DemoralizePower.Description",
+    "enGB_Base": "You fill your enemies with self-doubt. Any enemy in the area that fails its save becomes shaken for the duration of the power. Allies and creatures without an Intelligence score are unaffected.",
+    "zhCN": "你让你的敌人充满自我怀疑。该区域内任何未通过豁免的敌人都会在力量持续时间内陷入战栗。没有智力的生物和盟友不受影响。"
+  },
+  {
+    "Key": "DemoralizePower.Name",
+    "enGB_Base": "Demoralize",
+    "zhCN": "打击士气"
+  },
+  {
+    "Key": "DemoralizePower.Description",
+    "enGB_Base": "You fill your enemies with self-doubt. Any enemy in the area that fails its save becomes shaken for the duration of the power. Allies and creatures without an Intelligence score are unaffected.",
+    "zhCN": "你让你的敌人充满自我怀疑。该区域内任何未通过豁免的敌人都会在力量持续时间内陷入战栗。没有智力的生物和盟友不受影响。"
+  },
+  {
+    "Key": "DissipatingTouch.Name",
+    "enGB_Base": "Dissipating Touch",
+    "zhCN": "消散之触"
+  },
+  {
+    "Key": "DissipatingTouch.Description",
+    "enGB_Base": "Your mere touch can disperse the surface material of a foe or object, sending a tiny portion of it far away. This effect is disruptive; thus, your successful melee touch attack deals 1d6 points of damage.\nAugment For every additional power point you spend, this power’s damage increases by 1d6 points.",
+    "zhCN": "您只需触摸即可驱散敌人或物体的表层物质，将其一小部分送至远处。这种影响是破坏性的；因此，你成功的近战接触攻击会造成 1d6 点伤害。\n每额外消耗1灵能点，该能力的伤害就会增加 1d6 点。"
+  },
+  {
+    "Key": "EctoplasmicSheen.Name",
+    "enGB_Base": "Ectoplasmic Sheen",
+    "zhCN": "灵质光彩"
+  },
+  {
+    "Key": "EctoplasmicSheen.Description",
+    "enGB_Base": "You draw forth ectoplasm in an area, causing the surface to become slick. Any creature in the area when the power is manifested must make a successful Reflex save or fall. A creature can walk within or through the area of ectoplasm at half normal speed with a DC 10 Acrobatics check. Failure means it can’t move that round (and must then make a Reflex save or fall), while failure by 5 or more means it falls (see the Acrobatics skill for details). Creatures that do not move on their turn do not need to make this check and are not considered flat-footed.\nAugment For every two additional power points you spend augmenting this power, the power’s save DC increases by 1.",
+    "zhCN": "你在一个区域中覆盖灵质，使其表面变得光滑。显能时，该区域内的任何生物都必须成功进行反射豁免来避免摔倒。通过DC 10的灵巧检定可以让生物以减半速度在灵质区域内行走或穿过灵质区域。失败则意味着那一轮不能移动（然后必须进行反射豁免避免摔倒），而失败超过5点以上意味着摔倒（详见灵巧技能）。在自己回合没有进行移动的生物不需要进行该检定，也不被视为措手不及。\n每额外消耗2灵能点，该能力的豁免DC就会增加1。"
+  },
+  {
+    "Key": "EnergyRay.Name",
+    "enGB_Base": "Energy Ray",
+    "zhCN": "能量射线"
+  },
+  {
+    "Key": "EnergyRay.Description",
+    "enGB_Base": "You create a ray of energy of your active energy type (cold, electricity, fire, or sonic) that shoots forth from your fingertip and strikes a target within range, dealing 1d6 points of damage, if you succeed on a ranged touch attack with the ray.\n<b>Cold</b> A ray of this energy type deals +1 point of damage per die.\n<b>Electricity</b> Manifesting a ray of this energy type provides a +3 bonus on your attack roll if the target is wearing metal armor and a +2 bonus on manifester level checks for the purpose of overcoming power resistance.\n<b>Fire</b> A ray of this energy type deals +1 point of damage per die.\n<b>Sonic</b> A ray of this energy type deals –1 point of damage per die and ignores an object’s hardness. This power’s subtype is the same as the type of energy you manifest.\nAugment You can augment this power in one of the following ways. 1. For every additional power point you spend, this power’s damage increases by one die (d6).\n 2. If you expend your psionic focus when manifesting this power, the cost of the power is reduced by 1 (to a minimum of 0), but the damage is reduced to 1d3 and it cannot be further augmented.",
+    "zhCN": "你会产生一束由你激活的能量类型（寒冷、电击、火焰或声波）的射线，从指尖射出，击中射程内一个的目标，如果成功进行远程接触攻击造成1d6点伤害。\n每额外消耗2灵能点，该能力的豁免DC就会增加1。\n<b>寒冷：</b>这种射线造成每个伤害骰+1伤害。\n<b>电击：</b>在试图穿透法术抗力时在显能等级上获得+2加值，并且在目标穿着重甲时在攻击检定上获得+3加值。\n<b>火焰：</b>这种射线造成每个伤害骰+1伤害。\n<b>音波：</b>这种射线每个伤害骰-1伤害且无视目标硬度。该能力的元素类型和你显能的类型相同。\n你可以用以下方式增强此技能：\n1、每额外消耗1灵能点，该能力增加一个伤害骰。\n2、如果在该能力显能时消耗了灵能集中，该能力消耗减少1（最小0），但是伤害也会减少1d3且无法进一步提升。"
+  },
+  {
+    "Key": "EntanglingEctoplasm.Name",
+    "enGB_Base": "Entangling Ectoplasm",
+    "zhCN": "纠缠灵质"
+  },
+  {
+    "Key": "EntanglingEctoplasm.Description",
+    "enGB_Base": "You draw forth a glob of ectoplasmic goo from the Astral Plane and immediately throw it as a ranged touch attack at any creature in range. On a successful hit, the subject is covered in goo and becomes entangled. The goo evaporates at the end of the power’s duration. Entangled creatures can attempt to break free as a move action, making a Strength or Escape Artist check. The DC for this check is equal to 11 + the manifester’s key ability modifier.\nFor every 2 additional power points you spend, this power’s save DC increases by 1",
+    "zhCN": "你从星界抽出一团灵质粘液，并立即将其作为远程接触攻击扔向范围内的任何生物。成功击中后，对象会被粘液覆盖并被缠住。粘稠物会在能量持续时间结束时蒸发。被纠缠的生物可以通过一个移动动作尝试挣脱，进行力量或或灵巧检定检定。该检定的 DC 等于 11 + 显能者的主要能力调整值。\n。每额外消耗2灵能点，该能力的豁免DC就会增加1。" },
   ]
