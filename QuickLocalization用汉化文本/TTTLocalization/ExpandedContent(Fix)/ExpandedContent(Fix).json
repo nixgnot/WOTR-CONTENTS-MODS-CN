@@ -22419,7 +22419,7 @@
       "SimpleName": "ArtificeBlessingFeature.Description",
       "ProcessTemplates": true,
       "enGB": "At 1st level, you can touch an ally and grant them greater power to harm and destroy crafted objects. For 1 minute, whenever this ally deals damage to constructs or objects with melee weapons, they bypasses hardness and damage reduction. \nAt 10th level, you can temporarily copy a weapon enchantment from one weapon to another. You may copy any simple permanent enchant from a weapon you have currently equipped. If you are using this ability on a double weapon, only one end of the double weapon is affected. The copy lasts for 1 minute. You can use this ability multiple times on the same weapon. \nSome examples of simple enchants are, Icy Burst, Holy, Keen, Speed.",
-      "zhCN": "在1级时，用一个标准动作，你可以通过触摸一件近战武器给予其超越其他人工制品的力量。在一分钟内，每当该武器对构装体或物体造成伤害时，它无视所有硬度和伤害减免。\n在10级时，你可以暂时将武器附魔从一把武器复制到另一把武器。你可以从你当前装备的武器中复制任何简单的永久附魔。如果你在双头武器上使用这个能力，只有双头武器的一端会受到影响。效果持续1分钟。你可以在同一件武器上多次使用这个能力。\n简单附魔的例子有，冰爆，神圣，锐锋，追击。",
+      "zhCN": "在1级时，用一个标准动作，你可以通过触摸一件近战武器给予其超越其他人工制品的力量。在一分钟内，每当该武器对构装体或物体造成伤害时，它无视所有硬度和伤害减免。\n在10级时，你可以暂时将武器附魔从一把武器复制到另一把武器。你可以从你当前装备的武器中复制任何简单的永久附魔。如果你在双头武器上使用这个能力，只有双头武器的一端会受到影响。效果持续1分钟。你可以在同一件武器上多次使用这个能力。\n简单附魔的例子有，冰爆，神圣，锐锋，追击。"
     },
     {
       "Key": "bb8d17acad3e4fa9acb6b5a6e3fbcb95",
@@ -22433,7 +22433,7 @@
       "SimpleName": "ArtificeBlessingMajorFeature.Description",
       "ProcessTemplates": true,
       "enGB": "At 10th level, you can temporarily copy a weapon enchantment from one weapon to another. You may copy any simple permanent enchant from a weapon you have currently equipped. If you are using this ability on a double weapon, only one end of the double weapon is affected. The copy lasts for 1 minute. You can use this ability multiple times on the same weapon. \nSome examples of simple enchants are, Icy Burst, Holy, Keen, Speed.",
-    "zhCN": "在10级时，你可以暂时将武器附魔从一把武器复制到另一把武器。你可以从你当前装备的武器中复制任何简单的永久附魔。如果你在双头武器上使用这个能力，只有双头武器的一端会受到影响。效果持续1分钟。你可以在同一件武器上多次使用这个能力。\n简单附魔的例子有，冰爆，神圣，锐锋，追击。",
+    "zhCN": "在10级时，你可以暂时将武器附魔从一把武器复制到另一把武器。你可以从你当前装备的武器中复制任何简单的永久附魔。如果你在双头武器上使用这个能力，只有双头武器的一端会受到影响。效果持续1分钟。你可以在同一件武器上多次使用这个能力。\n简单附魔的例子有，冰爆，神圣，锐锋，追击。"
     },
     {
       "Key": "b140cb7184834942b263dc270eed3f69",
@@ -22447,7 +22447,7 @@
       "SimpleName": "ArtificeBlessingMajorMHBaseAbility.Description",
       "ProcessTemplates": true,
       "enGB": "You can temporarily copy a weapon enchantment from one weapon to another. You may copy any simple permanent enchant from a weapon you have currently equipped. If you are using this ability on a double weapon, only one end of the double weapon is affected. The copy lasts for 1 minute. You can use this ability multiple times on the same weapon.",
-    "zhCN": "你可以暂时将武器附魔从一把武器复制到另一把武器。你可以从你当前装备的武器中复制任何简单的永久附魔。如果你在双头武器上使用这个能力，只有双头武器的一端会受到影响。效果持续1分钟。你可以在同一件武器上多次使用这个能力。",
+    "zhCN": "你可以暂时将武器附魔从一把武器复制到另一把武器。你可以从你当前装备的武器中复制任何简单的永久附魔。如果你在双头武器上使用这个能力，只有双头武器的一端会受到影响。效果持续1分钟。你可以在同一件武器上多次使用这个能力。"
     },
     {
       "Key": "607df87d3c934333bb4243b324716b06",
@@ -24517,7 +24517,7 @@
     {
       "Key": "38d5cabe2b1044bab16a8d293d601e97",
       "SimpleName": "DrakeRiderArchetype.Description",
-      "ProcessTemplates": false,、
+      "ProcessTemplates": false,
       "zhCN": "虽然骑龙上阵是许多骑士的梦想，但龙兽骑士们明白，实现的难度比他们预想的还要多得多。不像其他骑士，龙兽骑士必须从蛋开始训练他们的坐骑，在骄傲的龙愿意承认他们为骑手之前，龙兽骑士要独自承受劳苦，在数年间不断和它们争斗与拼搏。",
       "enGB": "While many cavaliers dream of riding a dragon into battle, drake riders come to learn that the reality involves far more effort than they had expected. Unlike other cavaliers, drake riders must train their mounts from hatchlings, fighting and toiling alongside their drakes through countless struggles before the proud dragons are willing to accept them as riders."
     },
@@ -24525,7 +24525,7 @@
       "Key": "83274c7b3dc74358bbce5a2c07774758",
       "SimpleName": "DrakeRiderArchetype.Name",
       "ProcessTemplates": false,
-      zhCN": "龙兽骑士", 
+      "zhCN": "龙兽骑士", 
      "enGB": "Drake Rider"
     },
     {
