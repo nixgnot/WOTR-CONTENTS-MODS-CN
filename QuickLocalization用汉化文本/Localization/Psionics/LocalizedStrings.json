@@ -1236,16 +1236,6 @@
     "zhCN": "你让你的敌人充满自我怀疑。该区域内任何未通过豁免的敌人都会在力量持续时间内陷入战栗。没有智力的生物和盟友不受影响。"
   },
   {
-    "Key": "DemoralizePower.Name",
-    "enGB_Base": "Demoralize",
-    "zhCN": "打击士气"
-  },
-  {
-    "Key": "DemoralizePower.Description",
-    "enGB_Base": "You fill your enemies with self-doubt. Any enemy in the area that fails its save becomes shaken for the duration of the power. Allies and creatures without an Intelligence score are unaffected.",
-    "zhCN": "你让你的敌人充满自我怀疑。该区域内任何未通过豁免的敌人都会在力量持续时间内陷入战栗。没有智力的生物和盟友不受影响。"
-  },
-  {
     "Key": "DissipatingTouch.Name",
     "enGB_Base": "Dissipating Touch",
     "zhCN": "消散之触"
