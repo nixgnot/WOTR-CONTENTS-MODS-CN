@@ -29,7 +29,7 @@
   - [附录：功能MOD索引](#功能MOD索引)
   - [附录：打包MOD网盘分流](#打包MOD网盘分流) 
 
-|  MOD   |  内容简介 |  中文  |  UMM   |  个人推荐  |  内容量  |  修改  |  DLC5 |
+|  MOD   |  内容简介 |  中文  |  UMM   |  个人推荐  |  内容量  |  修改  |  最新版状况 |
 |  ----  | ----  | ----  | ----  | ----  | ----  | ----  | ----  |
 | [TabletopTweaks-Base](#TabletopTweaks-Base)  | TTT | 自带 | :heavy_check_mark:  | :+1::+1::+1: | :file_folder::file_folder::file_folder: | 🛠️🛠️ ||
 | [TabletopTweaks-Reworks](#TabletopTweaks-Reworks)  | TTT神话扩展 | 自带 | :heavy_check_mark:  | :+1::+1: | :file_folder::file_folder: | 🛠️🛠️ ||
@@ -63,7 +63,7 @@
 | [WorldCrawl](#WorldCrawl) | 大型重置 | |:heavy_check_mark: | |:file_folder::file_folder::file_folder:|🛠️🛠️🛠️||
 | [AlternateHumanTraits](#AlternateHumanTraits)|人类替换特性|QL汉化| :heavy_check_mark: | :+1: | :file_folder: |||
 | [WOTR_IsekaiMod](#WOTR_IsekaiMod) | 异世界主角| |:heavy_check_mark: | :+1: | :file_folder: |||
-| [Way-of-the-shield](#Way-of-the-shield) | 盾牌之道 |自带 |:heavy_check_mark: | :+1: | :file_folder::file_folder: |🛠️||
+| [Way-of-the-shield](#Way-of-the-shield) | 盾牌之道 |自带 |:heavy_check_mark: | :+1: | :file_folder::file_folder: |🛠️|:steam_locomotive:|
 | [CyniikalBrokenFeatures](#CyniikalBrokenFeatures) | 法师虚学派 |QL汉化| :heavy_check_mark: | :+1: | :file_folder::file_folder: |||
 | [随军神父](#随军神父) | 随军神父 | 自带 | :heavy_check_mark: | :+1: | :file_folder: |||
 | [CompanionAscension](#CompanionAscension) | 同伴提升 |  | :heavy_check_mark: | :+1: | :file_folder: ||:steam_locomotive:|
@@ -88,7 +88,7 @@
 备注
 + UMM一栏为是否使用UMM安装
 + 🛠️ 表示对游戏原本内容有大幅度修改，需要注意自行开关选项<br>
-+ :steam_locomotive: 表示暂未更新到DLC5版本，或运行有已知问题
++ :steam_locomotive: 表示暂未更新到最新版本，或运行有已知问题
 
 
 ------------------------------------------- 
