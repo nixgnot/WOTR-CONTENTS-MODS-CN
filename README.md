@@ -1898,7 +1898,7 @@
          <td>Viking 维京人</td></tr>
     <tr><td rowspan="2">武僧</td>      
          <td>Hellcat 地狱猫</td></tr>
-         <tr><td>Monk of the Mantis 镰切僧</td></tr>
+         <tr><td>Monk of the Mantis 螳螂拳僧</td></tr>
     <tr><td rowspan="5">圣武士</td>      
          <td>Oathbound - Oath of Vengeance 圣武士 - 复仇誓约圣武士</td></tr>
          <tr><td>Oathbound - Oath of the People's Council 圣武士 - 人民民主誓约圣武士</td></tr>
