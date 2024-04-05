@@ -3066,11 +3066,11 @@
         },
 		{
             "Key": "HomebrewArchtypes_MonkoftheMantis", 
-            "zhCN": "镰切僧"
+            "zhCN": "螳螂拳僧"
         },
 		{
             "Key": "HomebrewArchtypes_MonkoftheMantisDesc", 
-            "zhCN": "人体有无数的秘孔要穴，有的直通丹田天顶，四肢百骸，甚至攸关命脉。镰切僧就是一群专事研究打穴之法的武僧。通过对特定穴位的精准攻击，他们的拳脚可以轻易瘫痪自己的对手。"
+            "zhCN": "人体有无数的秘孔要穴，有的直通丹田天顶，四肢百骸，甚至攸关命脉。螳螂拳僧就是一群专事研究打穴之法的武僧。通过对特定穴位的精准攻击，他们的拳脚可以轻易瘫痪自己的对手。"
         },
 		{
             "Key": "HomebrewArchtypes_MonkoftheMantisPressuringStrikes", 
@@ -3078,7 +3078,7 @@
         },
 		{
             "Key": "HomebrewArchtypes_MonkoftheMantisPressuringStrikesDesc", 
-            "zhCN": "在2级时，镰切僧获得偷袭能力。在2级时，他的偷袭伤害为+1d6，在之后每提升4个等级时这个偷袭伤害再增加+1d6。"
+            "zhCN": "在2级时，螳螂拳僧获得偷袭能力。在2级时，他的偷袭伤害为+1d6，在之后每提升4个等级时这个偷袭伤害再增加+1d6。"
         },
 		{
             "Key": "HomebrewArchtypes_MonkoftheMantisDebilitatingBlows", 
@@ -3086,7 +3086,7 @@
         },
 		{
             "Key": "HomebrewArchtypes_MonkoftheMantisDebilitatingBlowsDesc", 
-            "zhCN": "镰切僧的招数不但摧筋断骨而且力透脉络。在7级时，每当镰切僧使用震慑拳能力成功的击晕了一个目标时，目标还会在震慑拳的效果结束后额外再受到纠缠一轮。"
+            "zhCN": "螳螂拳僧的招数不但摧筋断骨而且力透脉络。在7级时，每当螳螂拳僧使用震慑拳能力成功的击晕了一个目标时，目标还会在震慑拳的效果结束后额外再受到纠缠一轮。"
         },
 		{
             "Key": "HomebrewArchtypes_MonkoftheMantisDebilitatingBlowsExhaust", 
@@ -3094,7 +3094,7 @@
         },
 		{
             "Key": "HomebrewArchtypes_MonkoftheMantisDebilitatingBlowsExhaustDesc", 
-            "zhCN": "镰切僧的招数不但摧筋断骨而且力透脉络。在7级时，每当镰切僧使用震慑拳能力成功的击晕了一个目标时，目标还会在震慑拳的效果结束后额外再受到纠缠一轮。在11级时，每当镰切僧使用震慑拳能力成功的击晕了一个目标时，目标还会在震慑拳的效果结束后额外再力竭一轮"
+            "zhCN": "螳螂拳僧的招数不但摧筋断骨而且力透脉络。在7级时，每当螳螂拳僧使用震慑拳能力成功的击晕了一个目标时，目标还会在震慑拳的效果结束后额外再受到纠缠一轮。在11级时，每当螳螂拳僧使用震慑拳能力成功的击晕了一个目标时，目标还会在震慑拳的效果结束后额外再力竭一轮"
         },
 		{
             "Key": "HomebrewArchtypes_PaladinArchetypeFaithfulWanderer", 
