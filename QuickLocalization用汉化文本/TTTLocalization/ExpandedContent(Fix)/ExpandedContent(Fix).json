@@ -22419,7 +22419,7 @@
       "SimpleName": "ArtificeBlessingFeature.Description",
       "ProcessTemplates": true,
       "enGB": "At 1st level, you can touch an ally and grant them greater power to harm and destroy crafted objects. For 1 minute, whenever this ally deals damage to constructs or objects with melee weapons, they bypasses hardness and damage reduction. \nAt 10th level, you can temporarily copy a weapon enchantment from one weapon to another. You may copy any simple permanent enchant from a weapon you have currently equipped. If you are using this ability on a double weapon, only one end of the double weapon is affected. The copy lasts for 1 minute. You can use this ability multiple times on the same weapon. \nSome examples of simple enchants are, Icy Burst, Holy, Keen, Speed.",
-      "zhCN": "在1级时，用一个标准动作，你可以通过触摸一件近战武器给予其超越其他人工制品的力量。在一分钟内，每当该武器对构装体或物体造成伤害时，它无视所有硬度和伤害减免。\n在10级时，你可以暂时将武器附魔从一把武器复制到另一把武器。你可以从你当前装备的武器中复制任何简单的永久附魔。如果你在双头武器上使用这个能力，只有双头武器的一端会受到影响。效果持续1分钟。你可以在同一件武器上多次使用这个能力。\n简单附魔的例子有，冰爆，神圣，锐锋，追击。"
+      "zhCN": "在1级时，用一个标准动作，你可以通过触摸一件近战武器给予其超越其他人工制品的力量。在一分钟内，每当该武器对构装体或物体造成伤害时，它无视所有硬度和伤害减免。\n在10级时，你可以暂时将武器附魔从一把武器复制到另一把武器。你可以从你当前装备的武器中复制任何简单的永久附魔。如果你在双头武器上使用这个能力，只有双头武器的一端会受到影响。效果持续1分钟。你可以在同一件武器上多次使用这个能力。\n简单附魔的例子有，冰爆，神圣，锐锋，追击。",
     },
     {
       "Key": "bb8d17acad3e4fa9acb6b5a6e3fbcb95",
@@ -22433,7 +22433,7 @@
       "SimpleName": "ArtificeBlessingMajorFeature.Description",
       "ProcessTemplates": true,
       "enGB": "At 10th level, you can temporarily copy a weapon enchantment from one weapon to another. You may copy any simple permanent enchant from a weapon you have currently equipped. If you are using this ability on a double weapon, only one end of the double weapon is affected. The copy lasts for 1 minute. You can use this ability multiple times on the same weapon. \nSome examples of simple enchants are, Icy Burst, Holy, Keen, Speed.",
-    "zhCN": "在10级时，你可以暂时将武器附魔从一把武器复制到另一把武器。你可以从你当前装备的武器中复制任何简单的永久附魔。如果你在双头武器上使用这个能力，只有双头武器的一端会受到影响。效果持续1分钟。你可以在同一件武器上多次使用这个能力。\n简单附魔的例子有，冰爆，神圣，锐锋，追击。"
+    "zhCN": "在10级时，你可以暂时将武器附魔从一把武器复制到另一把武器。你可以从你当前装备的武器中复制任何简单的永久附魔。如果你在双头武器上使用这个能力，只有双头武器的一端会受到影响。效果持续1分钟。你可以在同一件武器上多次使用这个能力。\n简单附魔的例子有，冰爆，神圣，锐锋，追击。",
     },
     {
       "Key": "b140cb7184834942b263dc270eed3f69",
@@ -22447,7 +22447,7 @@
       "SimpleName": "ArtificeBlessingMajorMHBaseAbility.Description",
       "ProcessTemplates": true,
       "enGB": "You can temporarily copy a weapon enchantment from one weapon to another. You may copy any simple permanent enchant from a weapon you have currently equipped. If you are using this ability on a double weapon, only one end of the double weapon is affected. The copy lasts for 1 minute. You can use this ability multiple times on the same weapon.",
-    "zhCN": "你可以暂时将武器附魔从一把武器复制到另一把武器。你可以从你当前装备的武器中复制任何简单的永久附魔。如果你在双头武器上使用这个能力，只有双头武器的一端会受到影响。效果持续1分钟。你可以在同一件武器上多次使用这个能力。"
+    "zhCN": "你可以暂时将武器附魔从一把武器复制到另一把武器。你可以从你当前装备的武器中复制任何简单的永久附魔。如果你在双头武器上使用这个能力，只有双头武器的一端会受到影响。效果持续1分钟。你可以在同一件武器上多次使用这个能力。",
     },
     {
       "Key": "607df87d3c934333bb4243b324716b06",
@@ -24517,7 +24517,7 @@
     {
       "Key": "38d5cabe2b1044bab16a8d293d601e97",
       "SimpleName": "DrakeRiderArchetype.Description",
-      "ProcessTemplates": false,
+      "ProcessTemplates": false,、
       "zhCN": "虽然骑龙上阵是许多骑士的梦想，但龙兽骑士们明白，实现的难度比他们预想的还要多得多。不像其他骑士，龙兽骑士必须从蛋开始训练他们的坐骑，在骄傲的龙愿意承认他们为骑手之前，龙兽骑士要独自承受劳苦，在数年间不断和它们争斗与拼搏。",
       "enGB": "While many cavaliers dream of riding a dragon into battle, drake riders come to learn that the reality involves far more effort than they had expected. Unlike other cavaliers, drake riders must train their mounts from hatchlings, fighting and toiling alongside their drakes through countless struggles before the proud dragons are willing to accept them as riders."
     },
@@ -24525,7 +24525,7 @@
       "Key": "83274c7b3dc74358bbce5a2c07774758",
       "SimpleName": "DrakeRiderArchetype.Name",
       "ProcessTemplates": false,
-      "zhCN": "龙兽骑士", 
+      zhCN": "龙兽骑士", 
      "enGB": "Drake Rider"
     },
     {
@@ -24569,6 +24569,104 @@
       "ProcessTemplates": false,
       "zhCN": "共享专长摆脱困境",
       "enGB": "Shared Shake It Off Feat"
+    },
+    {
+      "Key": "74139099ea864a06b0ec7e58cf4a385c",
+      "SimpleName": "HalflingOpportunistExcellentAidFeature.Description",
+      "ProcessTemplates": true,
+      "zhCN": "半身任侠有着非凡的才能，能够充分利用那些帮助她的人。当别人援助她时，她获得援助加值额外+1，第3级再+1，第5级再+1。她援助别人的时候本能力不会生效，只有别人援助她的时候她才会获得好处。",
+      "enGB": "A halfling opportunist has an amazing talent for getting the most out of those who assist her. Increase the bonus she gets from aid another by +1. This increases by another +1 at 3rd level and again at 5th level. This increase does not apply to when she uses aid another to help others, only when others aid her."
+    },
+    {
+      "Key": "4434f424d221474793761ab0656a5d27",
+      "SimpleName": "HalflingOpportunistExcellentAidFeature.Name",
+      "ProcessTemplates": false,
+      "zhCN": "非凡援助",
+      "enGB": "Excellent Aid"
+    },
+    {
+      "Key": "fd62234aba774cd68f54a6421dc3e66e",
+      "SimpleName": "ChildOfAcavnaAndAmaznenDelayedCasting.Name",
+      "ProcessTemplates": false,
+      "zhCN": "施法学徒",
+      "enGB": "Student of Spellcasting"
+    },
+    {
+      "Key": "cb2fa924bee848438d6944fa7e652ff2",
+      "SimpleName": "ChildOfAcavnaAndAmaznenProficiencies.Description",
+      "ProcessTemplates": true,
+      "zhCN": "旧神圣子擅长所有简易武器、单手军用武器、所有盔甲（重、轻、中型）和盾牌（不包括塔盾）。",
+      "enGB": "A child of Acavna and Amaznen is proficient with all simple weapons, one-handed martial weapons, all armor (heavy, light, and medium) and shields (excluding tower shields)."
+    },
+    {
+      "Key": "78d7c4a0d40646b6b525c013d8a82833",
+      "SimpleName": "FourHorsemenSelection.Description",
+      "ProcessTemplates": true,
+      "zhCN": "在冥河（River Styx）的尽头等候着的是末日荒原（Abaddon）的统治者：天启四驭者（the Four Horsemen of the Apocalypse）和祂们的邪魔子裔。对有生万物的憎恶驱动着所有的邪魔，他们将存在本身视为巨大的错误。虽然所有的驭者在生命之初都曾是凡人，但祂们都全身心投入到根除现实本身。身下乘着可怖的骏马，他们力图寻得真正的天启。只有所有的生命都被扼杀殆尽，祂们的使命才算完成，而后便可将自身托付予那一直等候着的遗忘。\n只有真正的虚无主义者会信奉驭者。那些想要向整个世界复仇，或是渴求力量的人，被驭者轻巧的承诺所欺骗，认为他们会从主人肩负着的带来浩劫的任务中幸存。他们从未幸免。对于驭者而言，他们的追随者随用随抛，在最终被吞噬前不过是些实用的工具。",
+      "enGB": "At the end of the River Styx await the rulers of Abaddon: the Four Horsemen of the Apocalypse and their daemonic brood. Hatred for living things fuels all of daemonkind, who see existence as a great mistake. Though all of the Horsemen began their lives as mortals, they are completely devoted to the eradication of reality itself. Riding atop their dreaded steeds, they strive for true apocalypse. Only when all life has been snuffed out does their mission end, and they can then consign themselves to the waiting oblivion. \nOnly the truly nihilistic worship the Horsemen. Those who seek vengeance on all the world or lust for power are drawn to the Horsemen's easy promises, thinking they will be spared from their masters' cataclysmic mission. They never are. To the Horsemen, their followers are entirely disposable, tools with a purpose until they too are devoured."
+    },
+    {
+      "Key": "ee520b1d4fb54eacb45f520aa5ac659b",
+      "SimpleName": "FourHorsemenSelection.Name",
+      "ProcessTemplates": false,
+      "zhCN": "四驭者",
+      "enGB": "The Four Horsemen"
+    },
+    {
+      "Key": "566280b794fe4f2c8818479f7d58c53b",
+      "SimpleName": "ApollyonFeature.Description",
+      "ProcessTemplates": true,
+      "zhCN": "\n称号：瘟疫驭者，蝗虫王子，瘟疫王子 \n阵营：中立邪恶 \n关注领域：瘟疫 \n领域：气，黑暗，毁灭，邪恶 \n子域：天灾，邪魔，失却，暗夜 瘟疫 \n偏好武器：巨镰 \n神徽：缠绕着病态肉质触须的黄色镰刀 \n神兽：马，老鼠\n亚波轮，瘟疫驭者，化身是一个有着腐烂的公羊头且长满痘疮的巨人。他布满脓疱的身体裹着一件由天使的皮肤缝合而成的斗篷，他的弓射出的箭会在落下之地传播疾病。无论是在他的骨肉王座上，还是在他流血溃烂的坐骑之上，瘟疫骑士和他的骷髅头执事们都像野火一样在主物质位面的世界中传播疾病。",
+      "enGB": "\nTitles: Horseman of Pestilence, Prince of Locusts, Prince of Plagues\nAlignment: Neutral Evil \nAreas of Concern: Pestilence \nDomains: Air, Darkness, Destruction, Evil \nSubdomains: Catastrophe, Daemon, Loss, Night, Plague \nFavoured Weapon: Scythe \nHoly Symbol: Diseased yellow scythe \nSacred Animal: Horse, rat   \nApollyon, the Horseman of Pestilence, takes the form of a pockmarked giant with the head of a diseased ram. His pustule-covered body is wrapped in a cloak made from the stitched-together skins of angels, and his bow spreads disease wherever its arrows fall. Whether from his throne of bone and flesh or atop his bleeding, ulcerated mount, the Horseman of Pestilence and his skull-headed deacons spread disease like wildfire across the worlds of the Material Plane."
+    },
+    {
+      "Key": "d7f7f11a6aae4fad87080e775c6ebc5c",
+      "SimpleName": "ApollyonFeature.Name",
+      "ProcessTemplates": false,
+      "zhCN": "亚波轮",
+      "enGB": "Apollyon"
+    },
+    {
+      "Key": "cfa3ab59b41a415784ad3db9d3c5b17c",
+      "SimpleName": "CharonFeature.Description",
+      "ProcessTemplates": true,
+      "zhCN": "\n称号：死亡驭者，摆渡人，冥河的摆渡人，死亡之王 \n阵营：中立邪恶 \n关注领域：死亡\n领域：死亡，邪恶，知识，水 \n子域：邪魔，冰，记忆，亡灵 \n偏好武器：木棍\n神徽：眼窝放着金币的头骨 \n神兽：马，渡鸦 \n死亡驭者驾着小船在冥河上航行，为灵魂提供航程——但要付出代价。 卡戎代表因年老和自然原因而死亡，他可以成为四神中最有耐心和最狡猾的一个，因为他知道，最终，所有那些未受其他神灵和信仰影响的邪恶灵魂最终都将出现在他的河岸上 ，等待着他吞噬它们。 卡戎是最古老的天启骑士，他的起源一直笼罩在神秘之中，而他很乐意让它们保持这样的状态。",
+      "enGB": "\nTitles: Horseman of Death, The Boatman, The Boatman of the Styx, Lord of Death\nAlignment: Neutral Evil \nAreas of Concern: Death \nDomains: Death, Evil, Knowledge, Water \nSubdomains: Daemon, Ice, Memory, Undead \nFavoured Weapon: Quarterstaff \nHoly Symbol: Skull with coins on eyes \nSacred Animal: Horse, raven   \nThe Horseman of Death plies the River Styx in his skiff, offering souls passage—for a price. Representing death by old ageand natural causes, Charon can afford to be the most patient and cunning of the Four, as he knows that, in the end, all those evil souls untouched by other gods and creeds will end up on the banks of his river, waiting for him to consume them. The origins of Charon, the oldest of the Horsemen, are shrouded in mystery, and he’s happy to keep them that way."
+    },
+    {
+      "Key": "82e267fb59ef46f4b01a287827325a49",
+      "SimpleName": "CharonFeature.Name",
+      "ProcessTemplates": false,
+      "zhCN": "卡戎",
+      "enGB": "Charon"
+    },
+    {
+      "Key": "db41fbb6560e4c518a7a5b055f20503f",
+      "SimpleName": "SzurielFeature.Description",
+      "ProcessTemplates": true,
+      "zhCN": "\n称号：战争驭者，荒芜天使，毁灭炽天使\n阵营：中立邪恶 \n关注领域：战争 \n领域：邪恶，火，力量，战争\n子域：鲜血，邪魔，凶猛，战术\n偏好武器：重剑 \n神徽：苍白之手与黑色大剑\n神兽：马，秃鹫\n就像是一位巨大的哭泣天使，战争驭者胜利地站在战场上，鲜血顺着她可怕的黑色剑刃流淌成河。 她不是正义的领袖，而是为了战争而奋斗的战士。 在她的旗帜下，秃鹫头的狂战邪魔领导着一场针对存在本身的伟大圣战，为了将整个世界夷为平地，注定要进行残酷的战役，直到宇宙最终吐出最后一口气，化为虚无。",
+      "enGB": "\nTitles: Horseman of War, Angel of Desolation, Seraph of Devastation\nAlignment: Neutral Evil \nAreas of Concern: War \nDomains: Evil, Fire, Strength, War \nSubdomains: Blood, Daemon, Ferocity, Tactics \nFavoured Weapon: Greatsword \nHoly Symbol: Pale hand and black sword \nSacred Animal: Horse, vulture   \nLike an enormous weeping angel, the Horseman of War stands triumphant over the battlefield, blood running in rivers down the black blade of her terrible sword. She is no leader of the righteous, but a warrior for the sake of making war. Under her banner, the vulture-headed purrodaemons lead great crusades against existence itself, laying waste to entire worlds, bound to their grim campaign until the cosmos finally heaves its last convulsive breath and expires into nothingness."
+    },
+    {
+      "Key": "687b1dc404cd474c91d916f822398a0e",
+      "SimpleName": "SzurielFeature.Name",
+      "ProcessTemplates": false,
+      "zhCN": "祖瑞尔",
+      "enGB": "Szuriel"
+    },
+    {
+      "Key": "6862793aaac246a280d07634ca6d9d43",
+      "SimpleName": "TrelmarixianFeature.Description",
+      "ProcessTemplates": true,
+      "zhCN": "\n称号：饥荒驭者,The Black,虚痨邪魔，溶源王子 \n阵营：中立邪恶\n关注领域：饥荒 \n领域：土，邪恶，疯狂，天气 \n子域：邪魔，腐朽，疯狂，季节 \n偏好武器：带刺铁手套 \n神徽：一个侧面的在吞噬太阳的豺狼头骨 \n神兽：马，豺狼 \n四位驭者中最年轻、最雄心勃勃的黑衣驭者特雷马里克西安是饥荒驭者，他致力于目睹所有凡人的生命在他眼前消失。 崔玛瑞希长着豺狼头，有着瘦弱饥饿的身体和薄而流动的肉，没有自己的形状，他专门研究癌症和其他形式的自我消耗，帮助用他的精髓和其他使身体抵抗的疾病感染凡人的本身，以从内部引起饥荒。",
+      "enGB": "\nTitles: Horseman of Famine, The Black, Archdaemon of Wasting, The Lysogenic Prince\nAlignment: Neutral Evil \nAreas of Concern: Famine \nDomains: Earth, Evil, Madness, Weather \nSubdomains: Daemon, Decay, Insanity, Seasons \nFavoured Weapon: Spiked gauntlet (punching dagger) \nHoly Symbol: Black jackal skull eating an eclipsed sun \nSacred Animal: Horse, jackal   \nThe youngest and most ambitious of the Four, Trelmarixian the Black is the Horseman of Famine, devoted to seeing all mortal life waste away before his eyes. Jackal-headed, with the emaciated body of a starving man and thin, fluid flesh with no shape of its own, Trelmarixian specializes in cancers and other forms of selfconsumption, helping to infect mortal life with his essence and other maladies that turn the body against itself, causing famine from within."
+    },
+    {
+      "Key": "63d0ba21755846e0a63d838ff00fc617",
+      "SimpleName": "TrelmarixianFeature.Name",
+      "ProcessTemplates": false,
+      "zhCN": "崔玛瑞希",
+      "enGB": "Trelmarixian"
     }
   ]
 }
