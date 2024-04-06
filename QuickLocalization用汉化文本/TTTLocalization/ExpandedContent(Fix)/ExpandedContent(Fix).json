@@ -15544,6 +15544,13 @@
       "zhCN": "\n苍穹为你提供灵感，你从遥远的星光中汲取力量。\n坚御心智：对抗影响心灵效果时，你的豁免获得+2洞察加值。 \n群星归位：在第 8 级，你可以将其他同级的法术位用来自发施放星辰子域的领域法术。你施放的任何星辰子域的领域法术将为你恢复相当于该法术等级的伤害；这个效果将在你施法的同时发生。\n领域法术：熵光护盾、催眠图纹、闪现术、次元门、召唤怪物V、神威如岳、阳炎射线、阳炎爆、极地午夜。"
     },
     {
+      "Key": "4cf86ad973444495bb7782e20b2247cb",
+      "SimpleName": "StarsDomainProgressionSeparatist.Description",
+      "ProcessTemplates": true,
+      "enGB": "\nThe firmament provides you inspiration, and you draw power from the stars’ distant light.\nGuarded Mind: You gain a +2 insight bonus on saving throws against all mind-affecting effects.\nThe Stars Are Right: At 8th level, you may spontaneously cast any of your Stars subdomain spells by swapping out a spell of an equal spell level. Any Stars subdomain spell that you cast heals you an amount of hit point damage equal to the spell’s level; this effect happens as you cast the spell.\nDomain Spells: entropic shield, hypnotic pattern, blink, dimension door, summon monster V, overwhelming presence, sunbeam, sunburst, meteor swarm.",
+      "zhCN": "\n苍穹为你提供灵感，你从遥远的星光中汲取力量。\n坚御心智：对抗影响心灵效果时，你的豁免获得+2洞察加值。 \n群星归位：在第 8 级，你可以将其他同级的法术位用来自发施放星辰子域的领域法术。你施放的任何星辰子域的领域法术将为你恢复相当于该法术等级的伤害；这个效果将在你施法的同时发生。\n领域法术：熵光护盾、催眠图纹、闪现术、次元门、召唤怪物V、神威如岳、阳炎射线、阳炎爆、极地午夜。"
+    },
+    {
       "Key": "7fedd8f83d2c44c2850b3cd17ff73ad3",
       "SimpleName": "SteamRayFusilladeAbility.Description",
       "ProcessTemplates": true,
@@ -24517,7 +24524,7 @@
     {
       "Key": "38d5cabe2b1044bab16a8d293d601e97",
       "SimpleName": "DrakeRiderArchetype.Description",
-      "ProcessTemplates": false,、
+      "ProcessTemplates": false,
       "zhCN": "虽然骑龙上阵是许多骑士的梦想，但龙兽骑士们明白，实现的难度比他们预想的还要多得多。不像其他骑士，龙兽骑士必须从蛋开始训练他们的坐骑，在骄傲的龙愿意承认他们为骑手之前，龙兽骑士要独自承受劳苦，在数年间不断和它们争斗与拼搏。",
       "enGB": "While many cavaliers dream of riding a dragon into battle, drake riders come to learn that the reality involves far more effort than they had expected. Unlike other cavaliers, drake riders must train their mounts from hatchlings, fighting and toiling alongside their drakes through countless struggles before the proud dragons are willing to accept them as riders."
     },
@@ -24525,7 +24532,7 @@
       "Key": "83274c7b3dc74358bbce5a2c07774758",
       "SimpleName": "DrakeRiderArchetype.Name",
       "ProcessTemplates": false,
-      zhCN": "龙兽骑士", 
+      "zhCN": "龙兽骑士", 
      "enGB": "Drake Rider"
     },
     {
@@ -24590,13 +24597,6 @@
       "ProcessTemplates": false,
       "zhCN": "施法学徒",
       "enGB": "Student of Spellcasting"
-    },
-    {
-      "Key": "cb2fa924bee848438d6944fa7e652ff2",
-      "SimpleName": "ChildOfAcavnaAndAmaznenProficiencies.Description",
-      "ProcessTemplates": true,
-      "zhCN": "旧神圣子擅长所有简易武器、单手军用武器、所有盔甲（重、轻、中型）和盾牌（不包括塔盾）。",
-      "enGB": "A child of Acavna and Amaznen is proficient with all simple weapons, one-handed martial weapons, all armor (heavy, light, and medium) and shields (excluding tower shields)."
     },
     {
       "Key": "78d7c4a0d40646b6b525c013d8a82833",
