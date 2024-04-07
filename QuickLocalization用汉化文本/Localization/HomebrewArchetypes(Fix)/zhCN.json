@@ -221,19 +221,19 @@
         },
 		{
             "Key": "HomebrewArchtypes_DervishofDawn", 
-            "zhCN": "晨花狂舞者"
+            "zhCN": "晨光舞者"
         },
         {
             "Key": "HomebrewArchtypes_DervishofDawnDesc", 
-            "zhCN": "虽然在内海的大多数地方莎伦莱通常被看做是一名治愈和救赎的女神，但在卡迪拉，奥西里昂和卡塔派什地区，人们更多地看到她毫不动摇、惩恶扬善的一面。许多来自这些土地的黎明之花的信徒成为了晨花狂舞者，以一种旋转的舞步来表达其信仰的施法者信徒。许多这一信仰的吟游诗人刻苦磨砺他们在舞蹈和使用弯刀上的技巧来一名狂舞者，但还有一些则选择了一条比起剑术更侧重于魔法和治疗的道路。他们，就是晨花狂舞者。"
+            "zhCN": "虽然在内海的大多数地方莎伦莱通常被看做是一名治愈和救赎的女神，但在卡迪拉，奥西里昂和卡塔派什地区，人们更多地看到她毫不动摇、惩恶扬善的一面。许多来自这些土地的黎明之花的信徒成为了晨光舞者，以一种旋转的舞步来表达其信仰的施法者信徒。许多这一信仰的吟游诗人刻苦磨砺他们在舞蹈和使用弯刀上的技巧来一名狂舞者，但还有一些则选择了一条比起剑术更侧重于魔法和治疗的道路。他们，就是晨光舞者。"
         },
         {
             "Key": "HomebrewArchtypes_DervishofDawnProficiencies", 
-            "zhCN": "晨花狂舞者擅长"
+            "zhCN": "晨光舞者擅长"
         },
         {
             "Key": "HomebrewArchtypes_DervishofDawnProficienciesDesc", 
-            "zhCN": "晨花狂舞者获得对弯刀的擅长。这一能力取代他们对细剑和鞭的擅长。"
+            "zhCN": "晨光舞者获得对弯刀的擅长。这一能力取代他们对细剑和鞭的擅长。"
         },
         {
             "Key": "HomebrewArchtypes_DervishofDawnDervishDance", 
@@ -241,7 +241,7 @@
         },
         {
             "Key": "HomebrewArchtypes_DervishofDawnDervishDanceDesc", 
-            "zhCN": "晨花狂舞者获得狂舞作为额外专长"
+            "zhCN": "晨光舞者获得狂舞作为额外专长"
         },
         {
             "Key": "HomebrewArchtypes_DervishofDawnSpinningSpellcaster", 
@@ -249,7 +249,7 @@
         },
         {
             "Key": "HomebrewArchtypes_DervishofDawnSpinningSpellcasterDesc", 
-            "zhCN": "5级时，晨花狂舞者在防御施法的专注检定中获得+4加值。这一能力取代学识大师。"
+            "zhCN": "5级时，晨光舞者在防御施法的专注检定中获得+4加值。这一能力取代学识大师。"
         },
         {
             "Key": "HomebrewArchtypes_DervishofDawnBattleDanceofCompetence", 
@@ -257,7 +257,7 @@
         },
         {
             "Key": "HomebrewArchtypes_DervishofDawnBattleDanceofCompetenceDesc", 
-            "zhCN": "3级起，晨花狂舞者可以使用他的表演来帮助完成检定。只要晨花狂舞者继续表演，自身可以在所有技能检定上获得+4表现加值。此加值在晨花狂舞者超过3级后每4级增加2(+6在第7级。11点是+8,15点是+10,19点是+12)。"
+            "zhCN": "3级起，晨光舞者可以使用他的表演来帮助完成检定。只要晨光舞者继续表演，自身可以在所有技能检定上获得+4表现加值。此加值在晨光舞者超过3级后每4级增加2(+6在第7级。11点是+8,15点是+10,19点是+12)。"
         },
         {
             "Key": "HomebrewArchtypes_DervishofDawnBattleDanceofCourage", 
@@ -265,7 +265,7 @@
         },
         {
             "Key": "HomebrewArchtypes_DervishofDawnBattleDanceofCourageDesc", 
-            "zhCN": "1级起，晨花狂舞者可以用他的表演来激发自己的勇气，帮助他克服恐惧并提高他的战斗能力。 一个受影响的晨花狂舞者在对魅惑和恐惧效果的豁免检定上获得+1士气加值，在攻击和武器伤害骰上获得+2表现加值。 在第5级之后每6级吟游诗人，这个加成增加+2，到第17级最多+8。"
+            "zhCN": "1级起，晨光舞者可以用他的表演来激发自己的勇气，帮助他克服恐惧并提高他的战斗能力。 一个受影响的晨光舞者在对魅惑和恐惧效果的豁免检定上获得+1士气加值，在攻击和武器伤害骰上获得+2表现加值。 在第5级之后每6级吟游诗人，这个加成增加+2，到第17级最多+8。"
         },
         {
             "Key": "HomebrewArchtypes_DervishofDawnBattleDanceofGreatness", 
@@ -273,7 +273,7 @@
         },
         {
             "Key": "HomebrewArchtypes_DervishofDawnBattleDanceofGreatnessDesc", 
-            "zhCN": "9级起，晨花狂舞者可以用他的表演激励自己，获得额外的战斗能力。 一个受激励的晨花狂舞者获得4HD(d10)，相应的临时生命值(如果存在，应用目标的体质修正值)，攻击骰上获得+4表现加值，强韧豁免上+2表现加值。"
+            "zhCN": "9级起，晨光舞者可以用他的表演激励自己，获得额外的战斗能力。 一个受激励的晨光舞者获得4HD(d10)，相应的临时生命值(如果存在，应用目标的体质修正值)，攻击骰上获得+4表现加值，强韧豁免上+2表现加值。"
         },
         {
             "Key": "HomebrewArchtypes_DervishofDawnBattleDanceofHeroics", 
@@ -281,7 +281,7 @@
         },
         {
             "Key": "HomebrewArchtypes_DervishofDawnBattleDanceofHeroicsDesc", 
-            "zhCN": "15级起，晨花狂舞者可以激发自己的万丈豪情。一个受鼓舞的晨花狂舞者在豁免投掷上获得+8士气加值，在AC上获得+8闪避加值。只要晨花狂舞者继续表演，此效果就会持续。"
+            "zhCN": "15级起，晨光舞者可以激发自己的万丈豪情。一个受鼓舞的晨光舞者在豁免投掷上获得+8士气加值，在AC上获得+8闪避加值。只要晨光舞者继续表演，此效果就会持续。"
         },
         {
             "Key": "HomebrewArchtypes_DervishofDawnMeditativeWhirl", 
@@ -289,7 +289,7 @@
         },
         {
             "Key": "HomebrewArchtypes_DervishofDawnMeditativeWhirlDesc", 
-            "zhCN": "8级时，当使用战舞时，晨花狂舞者可以进入一个类似于出神的状态，用他旋转的舞步表现出行星围绕太阳的运行，而他的精神则与莎伦莱的治疗之能相偕。若花费一个移动动作来专注于他的旋舞，狂舞者可以令法术瞬发专长作用于任何他所施展的治疗法术上。这不会改变法术的等级或施展时间。狂舞者在8级时可以每日使用该能力一次，并在8级之后的每2级获得一次额外的使用次数。"
+            "zhCN": "8级时，当使用战舞时，晨光舞者可以进入一个类似于出神的状态，用他旋转的舞步表现出行星围绕太阳的运行，而他的精神则与莎伦莱的治疗之能相偕。若花费一个移动动作来专注于他的旋舞，狂舞者可以令法术瞬发专长作用于任何他所施展的治疗法术上。这不会改变法术的等级或施展时间。狂舞者在8级时可以每日使用该能力一次，并在8级之后的每2级获得一次额外的使用次数。"
         },
         {
             "Key": "HomebrewArchtypes_Sandman", 
