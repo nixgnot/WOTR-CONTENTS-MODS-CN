@@ -1881,7 +1881,7 @@
          <tr><td>Primal Hunter 原始猎手</td></tr>
     <tr><td rowspan="3">吟游诗人</td>  
          <td>Arcane Duelist 奥术决斗者</td></tr>
-         <tr><td>Dervish of Dawn 晨花狂舞者</td></tr>
+         <tr><td>Dervish of Dawn 晨光舞者</td></tr>
          <tr><td>Stonesinger 石之歌者</td></tr>
     <tr><td rowspan="2">血怒者</td>       
          <td>Untouchable Rager 抗咒狂怒者</td></tr>
