@@ -3639,7 +3639,7 @@ C:\Users\你的用户名\AppData\LocalLow\Owlcat Games\Pathfinder Wrath Of The R
        <td rowspan="2">巫师 Witch</td>
        <td>白发魔女 White-Haired Witch</td></tr>
        <tr><td>卡牌占卜师 Cartomancer</td></tr>
-  <tr><td rowspan="27">进阶职业</i></td>
+  <tr><td rowspan="28">进阶职业</i></td>
        <td colspan="2">骑士 Chevalier</td></tr>
        <tr><td colspan="2">绯红圣教军 Crimson Templar</td></tr>
        <tr><td colspan="2">晨花隐者 Dawnflower Anchorite</td></tr>
@@ -3667,7 +3667,8 @@ C:\Users\你的用户名\AppData\LocalLow\Owlcat Games\Pathfinder Wrath Of The R
        <tr><td colspan="2">黄金军士 Golden Legionnaire</td></tr>
        <tr><td colspan="2">王牌弩手 Bolt Ace<br>在桌面上是铳士变体，作者修改成了5级封顶的进阶职业</td></tr>
        <tr><td colspan="2">森林守护者 Forest Warden</td></tr>
-  <tr><td rowspan="30">职业特性和其他</i></td>
+       <tr><td colspan="2">凡世渡魂人 Mortal Usher</td></tr>
+  <tr><td rowspan="36">职业特性和其他</i></td>
        <tr><td rowspan="7">狂暴之力 Rage Power</td></tr>
        <td>醉怒狂吼 Roaring Drunk<br>狂暴时，野蛮人获得威吓检定以及她创造的任何恐惧效果DC的士气加值，每4野蛮人等级增加1点。</td></tr>
        <td>勇气之水 Liquid Courage<br>狂暴时，野蛮人获得针对影响心智效果的豁免士气加值，每4野蛮人等级增加1点。</td></tr>
@@ -3695,8 +3696,14 @@ C:\Users\你的用户名\AppData\LocalLow\Owlcat Games\Pathfinder Wrath Of The R
        <td>灭法审判域 Spellkiller Inquisition<br>你获得扰法者作为额外专长。你击败一个敌人时，便在防御等级上获得+2神圣或亵渎加值，持续1分钟每审判者等级。</td></tr>
        <td>革新审判域 Reformation Inquisition<br>你可以使用感知调整值而非魅力调整值加到任意说服检定的结果上。4级起，当你进行一次交涉或威吓技能检定时，你可以双骰取高。你每天可以使用本能力的轮数等同于你的感知调整值。</td></tr>
        <td>策略审判域 Tactics Inquisition<br>你可以放弃整轮动作以及本轮所有的借机攻击，使一个距离你不超过30尺的盟友获得加速术的好处1轮。8级起，所有距离你不超过30尺的盟友都可以将你的感知调整值加到他们的先攻检定结果上。</td></tr>
-       <tr><td>魔宠</td><td>蟹王 Crab King<br>主人获得+2擒抱检定加值。</td></tr>
-       <tr><td>炼金科研发现</td><td>触手 Tentacle<br>此触手不会给予炼金术师每轮额外的攻击或动作，但触手的“攫抓”能力具有+4擒抱检定加值。</td></tr>
+       <tr><td>魔宠 Familiar</td><td>蟹王 Crab King<br>主人获得+2擒抱检定加值。</td></tr>
+       <tr><td>炼金科研发现 Discovery</td><td>触手 Tentacle<br>此触手不会给予炼金术师每轮额外的攻击或动作，但触手的“攫抓”能力具有+4擒抱检定加值。</td></tr>
+       <tr><td rowspan="6">诗人传世名作 Bardic Masterpieces<br>吟游诗人必须花费一个已知法术或是通过专长来学习传世名作，他可以花费比该传世名作要求最低等级还高的法术位以学习传世名作。</td></tr>
+       <td>三倍时制御（1）Triple Time (1)<br>你那如簧的活泼曲调一般让人可以不倦的行进。响亮、活泼的声音模仿了人类的脚步，缓缓的建立出一个稳健、刚毅的步伐。当你完成此表演的时候，你可以使所有听觉范围内的盟友受到此传世名作的影响，此效果可以在之后的每个诗人等级10分钟，最多1小时之内，让目标的陆地移动速度得到10尺增强加值。</td></tr>
+       <td>折剑物语（3）Tales of Twisting Steel (3)<br>这组寓言激励着听众攀登英勇和自我奉献的新高度，其中包含广阔天空，兔王子和疫病三则故事。当你完成这个表演时，选择一个相邻的生物。如同你对其施放了护卫他人。</td></tr>
+       <td>四鼠方舞曲（3）Rat Quadrille (3)<br>这个回环往复，令人分神的旋律使敌人感到疲惫。你咏唱或击打出一串令人分心的曲调，深深嵌入目标的心智之中，令其在接下来10分钟内的攻击检定上承受-2减值并在专注检定上承受-4减值。通过一次意志检定目标能将减值减半并减少持续时间至1分钟。这是一个的影响心智的胁迫效果。</td></tr>
+       <td>面瘫（2）Stone Face (2)<br>你滑稽的动作可以软化最坚硬的面容。你述说着一个古老的幽默故事，内容是一个拒绝露出笑容的女人，不管事情多么有趣，都无法让她发笑。直到她看到了一系列几乎不可能发生的事件：整车的有机肥，一位国王，还有一只飞毯。她不曾舒展的传说之眉终于舒展开来。当你完成表演的时候，目标将会受到“解除石化”的影响。</td></tr>
+       <td>祭司王之安魂曲（10）The Requiem of the Fallen Priest-King (10)<br>你的表演揭示了欺骗时间的方法。此乐章描述伟大的祭司王，他自无数敌人重围中反败为胜，就像违抗了时光之力一般。当你完成表演，你可以在之后的10分钟之内加速时间的流动一次。当启动此效果时你可以用一个迅捷动作恢复你的标准动作。这个额外动作必须在启动之后10分钟之内被使用，否则就会失效。你的盟友可以在此传世名作中获益，不过他们必须在你表演时专心聆听，且不能进行其他活动。</td></tr>
   <tr><td colspan="20">崇神仪典 Deific Obedience<br></th></tr> 
   <tr><td rowspan="152">崇神仪典 Deific Obedience</i></td>
 	 <tr><td rowspan="5">拉贾瑟尔 Ragathiel</td><td>需要信仰拉贾瑟尔（Expanded Content）或守序善良</td></tr>
