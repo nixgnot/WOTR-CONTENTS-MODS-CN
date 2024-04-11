@@ -80,7 +80,7 @@
 | [HomebrewWarlock](#HomebrewWarlock) | 3.5e邪术师 | QL汉化 | :heavy_check_mark: | :+1::+1: | :file_folder: |||
 | [AutomaticBonusProgression](#AutomaticBonusProgression) | 自动增长加值 | QL汉化 | :heavy_check_mark: | :+1::+1: | :file_folder: |||
 | [WOTR_MAKING_FRIENDS](#WOTR_MAKING_FRIENDS) | 召唤师 | QL汉化 | :heavy_check_mark: | :+1: | :file_folder: |🛠️||
-| [PathofWar](#PathofWar) | 战争之路 | 暂无 | :heavy_check_mark: | :+1: | :file_folder: |🛠️||
+| [PathofWar](#PathofWar) | 战争之路 | ql汉化 | :heavy_check_mark: | :+1: | :file_folder: |🛠️||
 | [RandomEquipment](#RandomEquipment) | 随机装备 | 暂无 | :heavy_check_mark: | :+1::+1: | :file_folder: |🛠️||
 | [MythicSpellFlexibility](#MythicSpellFlexibility) | 暂无 | 暂无 | :heavy_check_mark: | :+1:| :file_folder: |🛠️||
 | [Spell Slot Freedom](#SpellSlotFreedom) | 暂无 | 暂无 | :heavy_check_mark: | :+1:| :file_folder: |🛠️||
@@ -4196,16 +4196,15 @@ C:\Users\你的用户名\AppData\LocalLow\Owlcat Games\Pathfinder Wrath Of The R
 -------------------------------------------  
 ### [PathofWar](https://github.com/novumvita/PathofWar)
 > *前置：* 无<br>
-> *中文：* 暂无<br>
+> *中文：* ql汉化<br>
 > *安装方式：* **UMM**<br>
 > *新增内容：* 战争之路<br>
 + 添加第三方资源战争之路中的武技系统。好评更新中
 <table>
-<tr><th colspan="5">房规改动<br></th></tr> 
+<tr><th colspan="4">房规改动<br></th></tr> 
        <tr><td colspan="5">所有应对（Counter）都改为架势，且出于平衡考虑每轮只能激活一次效果</td></tr>
        <tr><td colspan="5">所有角色都可以在1级选择流派，并在升级时选择击技和架势。</td></tr>
        <tr><td colspan="5">可以同时激活2个架势。</td></tr>
-       <tr><td colspan="5">Liberties have been taken for technical reasons and for ease of implementation, so refer to the in-game descriptions of abilities for accurate information.</td></tr>
 <tr><th colspan="5">武术流派<br></th></tr> 
 <tr><th colspan="5">辉晨<br></th></tr> 
   <tr><td rowspan="6">击技 Strike</i></td>
