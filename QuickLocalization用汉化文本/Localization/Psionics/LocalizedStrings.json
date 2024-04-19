@@ -1051,6 +1051,21 @@
     "zhCN": "灵刃变形（双手武器）"
   },
   {
+    "Key": "ReformLightFree.Name",
+    "enGB_Base": "Reform Mindblade (Light)",
+    "zhCN": "灵刃变形（轻型武器）（自由动作）"
+  },
+  {
+    "Key": "ReformSwordFree.Name",
+    "enGB_Base": "Reform Mindblade (One-Handed)",
+    "zhCN": "灵刃变形（单手武器）（自由动作）"
+  },
+  {
+    "Key": "ReformHeavyFree.Name",
+    "enGB_Base": "Reform Mindblade (Two-Handed)",
+    "zhCN": "灵刃变形（双手武器）（自由动作）"
+  },
+  {
     "Key": "TwinMindBlade.Name",
     "enGB_Base": "Twin Mind Blade",
     "zhCN": "双子灵刃"
