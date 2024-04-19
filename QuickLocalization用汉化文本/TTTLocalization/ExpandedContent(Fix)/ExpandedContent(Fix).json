@@ -24667,6 +24667,13 @@
       "ProcessTemplates": false,
       "zhCN": "崔玛瑞希",
       "enGB": "Trelmarixian"
+    },
+    {
+      "Key": "ff12ecd3d5a64006a57e5dc4108b312c",
+      "SimpleName": "ChildOfAcavnaAndAmaznenDelayedCasting.Description",
+      "ProcessTemplates": true,
+      "zhCN": "旧神圣子获得一本法术书，并从血脉狂怒者法术列表选择等同于3＋智力调整值数量的法术加入法术书。\n虽然他们无法在5级之前释放这些法术，但他们每级都可以额外添加一个法术到法术书中，并且可以将卷轴的法术抄写到法术书中。",
+      "enGB": "The child of Acavna and Amaznen gains a spellbook starting with spells from the bloodrager spelllist equal to 3 + their Intelligence modifier. \nWhile they are unable to cast these spells before 5th level, they may add one additional per level and copy spells from scrolls into the spellbook until then."
     }
   ]
 }
