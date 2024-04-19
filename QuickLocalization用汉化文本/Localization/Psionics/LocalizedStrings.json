@@ -22,7 +22,7 @@
   {
     "Key": "FormMindBladeAbility.Description",
     "enGB_Base": "As a move action, a soulknife can form a semi-solid weapon composed of psychic energy distilled from her own mind.\nA soulknife must choose the form of her mind blade at 1st level. She can either form it into a light weapon, a one-handed weapon, or a two-handed weapon. Once chosen, her mind blade stays in this form every time the soulknife forms her mind blade. The light weapon deals 1d6 points of damage, the one-handed weapon deals 1d8 points of damage, and the two-handed weapon deals 2d6 points of damage. All damages are based on a Medium-sized creature wielding Medium-sized weapons; adjust the weapon damage as appropriate for different sized weapons. In all forms, the mind blade has a critical range of 19-20/x2. A soulknife with powerful build or any similar ability forms an appropriately-sized mind blade dealing the size-appropriate amount of damage. If the soulknife’s chosen form is a light weapon, she may choose to form two light weapons when forming her mind blade if she so chooses, but she suffers the standard penalties for two-weapon fighting.\nRegardless of the weapon form a soulknife has chosen, her mind blade does not have a set damage type. When shaping her weapon and assigning abilities to it, the soulknife chooses whether it will deal bludgeoning, piercing, or slashing damage. The soulknife may change the damage type of an existing mind blade, or may summon a new mind blade with a different damage type, as a full-round action; otherwise, the mind blade retains the last damage type chosen every time it is summoned.\nThe blade can be broken (it has hardness 10 and 10 hit points); however, a soulknife can simply create another on her next move action. The moment she relinquishes her grip on her blade, it dissipates (unless she intends to throw it; see below). A mind blade is considered a magic weapon for the purpose of overcoming damage reduction and is considered a masterwork weapon.\nA soulknife can use feats such as Power Attack or Combat Expertise in conjunction with the mind blade just as if it were a normal weapon. She can also choose her mind blade for feats requiring a specific weapon choice, such as Weapon Focus and Improved Critical. Powers or spells that upgrade weapons can be used on a mind blade. The soulknife can use feats such as Weapon Finesse that work on light weapons with her mind blade, but such feats only work on mind blades in a light weapon form.\nEven in places where psionic effects do not normally function (such as within a null psionics field), a soulknife can attempt to sustain her mind blade by making a DC 20 Will save. On a successful save, the soulknife maintains her mind blade for a number of rounds equal to her class level before she needs to check again, although the mind blade is treated for all purposes as a non-magical, masterwork weapon while in a place where psionic effects do not normally function. On an unsuccessful attempt, the mind blade vanishes. As a move action on her turn, the soulknife can attempt a new Will save to rematerialize her mind blade while she remains within the psionics-negating effect. She gains a bonus on Will saves made to maintain or form her mind blade equal to the total enhancement bonus of her mind blade (see below).\nThe soulknife chooses the appearance of her mind blade, although its shape must reflect the selections the soulknife has chosen: a bludgeoning mind blade would be blunt, slashing would have an edge, etc.",
-    "zhCN": "以一个移动动作，魂刃可以以灵能塑形出一把由她思想铸造的半固态灵刃\n魂刃必须在1级决定灵刃的形态．她可以选择将之塑形为一件轻型武器，一把单手武器，亦或是双手武器。一旦决定了造型，以后当她塑形灵刃时她的灵刃都会以这一形态出现。轻型武器形态可以造成1d6点伤害，单手武器形态可以造成1d8点伤害，双手武器可以造成2d6点伤害。以上的所有伤害都是以中型生物挥舞的中型武器计算的，根据不同的体型大小调整你的武器伤害。不论是那一种形态，灵刃的重击范围都是19-20/X2。如果你的魂刃是大体型生物或是小体型生物，你可以根据她的体型来调整灵刃的伤害骰。如果魂刃选择将她的灵刃塑形为轻型武器，那她可以选择在显形灵刃时显现2把轻型武器造型的灵刃。如果她这么做的话她承受标准的双武减值。\n不论魂刃以何种形态塑形她的灵刃，灵刃本身并没有固定的伤害类型。当她显形灵刃并向其中灌注能量时，魂刃可以选择这把灵刃造成的伤害类型，钝击，挥砍，亦或是穿刺。以一个整轮动作，魂刃可以改变她现有灵刃的伤害类型或者重新显形一把不同伤害类型的灵刃。如果不这么做的话，灵刃会一直保持上一次显形时的伤害类型。\n灵刃可以被击碎（它的硬度为10并且有10点生命值），但魂刃可以用他的下一个移动等效动作重铸造一把。当魂刃松开了她紧握的灵刃时，这把灵刃会即时消散（除非她这么做是为了抛掷灵刃，详情见下文）。一把灵刃在计算DR时被视为魔法武器，同时被视为精制武器。\n如同普通武器一样，魂刃可以对灵刃应用“猛力攻击”，“寓守于攻”专长。此外，她也可以选择灵刃作为特殊专长的需求，比如武器专攻和精通重击。强化武器的灵能和法术也可以对灵刃起效。武器娴熟也可对灵刃生效，当然前提条件是这位魂刃的灵刃属于轻型武器形态。\n即使在灵能无法正常作用的地方（比如位于“反灵能力场”内），通过一个20dc的意志检定，魂刃依然可以制造并维持灵刃，通过这一方法显形的灵刃维持等于她魂刃职业等级的轮数。当持续时间结束后，她可以通过另一个20dc的意志检定维持她的灵刃，同时，在灵能无法正常作用地区，灵刃被视为非魔法武器及非精制武器。如果她未能成功通过这一意志检定，那她的灵刃将即时消散。于灵能无效地区，在她自己的行动回合内，魂刃可以通过一个新的意志检定（dc20）以一个移动动作重塑灵刃。她在这个意志检定上获得等同于灵刃增强加值的增强加值（灵刃增强加值见下）。\n魂刃可以决定她的灵刃造型，当然这一造型必须符合灵刃的伤害类型，比如钝击伤害类型的灵刃必须是钝器，挥砍伤害的灵刃必须有刃口，诸如此类。"
+    "zhCN": "以一个移动动作，魂刃可以以灵能塑形出一把由她思想铸造的半固态灵刃\n魂刃必须在1级决定灵刃的形态．她可以选择将之塑形为一件轻型武器，一把单手武器，亦或是双手武器。一旦决定了造型，以后当她塑形灵刃时她的灵刃都会以这一形态出现。轻型武器形态可以造成1d6点伤害，单手武器形态可以造成1d8点伤害，双手武器可以造成2d6点伤害。以上的所有伤害都是以中型生物挥舞的中型武器计算的，根据不同的体型大小调整你的武器伤害。不论是哪一种形态，灵刃的重击范围都是19-20/X2。如果你的魂刃是大体型生物或是小体型生物，你可以根据她的体型来调整灵刃的伤害骰。如果魂刃选择将她的灵刃塑形为轻型武器，那她可以选择在显形灵刃时显现2把轻型武器造型的灵刃。如果她这么做的话她承受标准的双武减值。\n不论魂刃以何种形态塑形她的灵刃，灵刃本身并没有固定的伤害类型。当她显形灵刃并向其中灌注能量时，魂刃可以选择这把灵刃造成的伤害类型，钝击，挥砍，亦或是穿刺。以一个整轮动作，魂刃可以改变她现有灵刃的伤害类型或者重新显形一把不同伤害类型的灵刃。如果不这么做的话，灵刃会一直保持上一次显形时的伤害类型。\n灵刃可以被击碎（它的硬度为10并且有10点生命值），但魂刃可以用他的下一个移动等效动作重铸造一把。当魂刃松开了她紧握的灵刃时，这把灵刃会即时消散（除非她这么做是为了抛掷灵刃，详情见下文）。一把灵刃在计算DR时被视为魔法武器，同时被视为精制武器。\n如同普通武器一样，魂刃可以对灵刃应用“猛力攻击”，“寓守于攻”专长。此外，她也可以选择灵刃作为特殊专长的需求，比如武器专攻和精通重击。强化武器的灵能和法术也可以对灵刃起效。武器娴熟也可对灵刃生效，当然前提条件是这位魂刃的灵刃属于轻型武器形态。\n即使在灵能无法正常作用的地方（比如位于“反灵能力场”内），通过一个20dc的意志检定，魂刃依然可以制造并维持灵刃，通过这一方法显形的灵刃维持等于她魂刃职业等级的轮数。当持续时间结束后，她可以通过另一个20dc的意志检定维持她的灵刃，同时，在灵能无法正常作用地区，灵刃被视为非魔法武器及非精制武器。如果她未能成功通过这一意志检定，那她的灵刃将即时消散。于灵能无效地区，在她自己的行动回合内，魂刃可以通过一个新的意志检定（dc20）以一个移动动作重塑灵刃。她在这个意志检定上获得等同于灵刃增强加值的增强加值（灵刃增强加值见下）。\n魂刃可以决定她的灵刃造型，当然这一造型必须符合灵刃的伤害类型，比如钝击伤害类型的灵刃必须是钝器，挥砍伤害的灵刃必须有刃口，诸如此类。"
   },
 
 
@@ -73,7 +73,7 @@
   {
     "Key": "FormMindBladeFeat.Description",
     "enGB_Base": "As a move action, a soulknife can form a semi-solid weapon composed of psychic energy distilled from her own mind.\nA soulknife must choose the form of her mind blade at 1st level. She can either form it into a light weapon, a one-handed weapon, or a two-handed weapon. Once chosen, her mind blade stays in this form every time the soulknife forms her mind blade. The light weapon deals 1d6 points of damage, the one-handed weapon deals 1d8 points of damage, and the two-handed weapon deals 2d6 points of damage. All damages are based on a Medium-sized creature wielding Medium-sized weapons; adjust the weapon damage as appropriate for different sized weapons. In all forms, the mind blade has a critical range of 19-20/x2. A soulknife with powerful build or any similar ability forms an appropriately-sized mind blade dealing the size-appropriate amount of damage. If the soulknife’s chosen form is a light weapon, she may choose to form two light weapons when forming her mind blade if she so chooses, but she suffers the standard penalties for two-weapon fighting.\nRegardless of the weapon form a soulknife has chosen, her mind blade does not have a set damage type. When shaping her weapon and assigning abilities to it, the soulknife chooses whether it will deal bludgeoning, piercing, or slashing damage. The soulknife may change the damage type of an existing mind blade, or may summon a new mind blade with a different damage type, as a full-round action; otherwise, the mind blade retains the last damage type chosen every time it is summoned.\nThe blade can be broken (it has hardness 10 and 10 hit points); however, a soulknife can simply create another on her next move action. The moment she relinquishes her grip on her blade, it dissipates (unless she intends to throw it; see below). A mind blade is considered a magic weapon for the purpose of overcoming damage reduction and is considered a masterwork weapon.\nA soulknife can use feats such as Power Attack or Combat Expertise in conjunction with the mind blade just as if it were a normal weapon. She can also choose her mind blade for feats requiring a specific weapon choice, such as Weapon Focus and Improved Critical. Powers or spells that upgrade weapons can be used on a mind blade. The soulknife can use feats such as Weapon Finesse that work on light weapons with her mind blade, but such feats only work on mind blades in a light weapon form.\nEven in places where psionic effects do not normally function (such as within a null psionics field), a soulknife can attempt to sustain her mind blade by making a DC 20 Will save. On a successful save, the soulknife maintains her mind blade for a number of rounds equal to her class level before she needs to check again, although the mind blade is treated for all purposes as a non-magical, masterwork weapon while in a place where psionic effects do not normally function. On an unsuccessful attempt, the mind blade vanishes. As a move action on her turn, the soulknife can attempt a new Will save to rematerialize her mind blade while she remains within the psionics-negating effect. She gains a bonus on Will saves made to maintain or form her mind blade equal to the total enhancement bonus of her mind blade (see below).",
-    "zhCN": "以一个移动动作，魂刃可以以灵能塑形出一把由她思想铸造的半固态灵刃\n魂刃必须在1级决定灵刃的形态．她可以选择将之塑形为一件轻型武器，一把单手武器，亦或是双手武器。一旦决定了造型，以后当她塑形灵刃时她的灵刃都会以这一形态出现。轻型武器形态可以造成1d6点伤害，单手武器形态可以造成1d8点伤害，双手武器可以造成2d6点伤害。以上的所有伤害都是以中型生物挥舞的中型武器计算的，根据不同的体型大小调整你的武器伤害。不论是那一种形态，灵刃的重击范围都是19-20/X2。如果你的魂刃是大体型生物或是小体型生物，你可以根据她的体型来调整灵刃的伤害骰。如果魂刃选择将她的灵刃塑形为轻型武器，那她可以选择在显形灵刃时显现2把轻型武器造型的灵刃。如果她这么做的话她承受标准的双武减值。\n不论魂刃以何种形态塑形她的灵刃，灵刃本身并没有固定的伤害类型。当她显形灵刃并向其中灌注能量时，魂刃可以选择这把灵刃造成的伤害类型，钝击，挥砍，亦或是穿刺。以一个整轮动作，魂刃可以改变她现有灵刃的伤害类型或者重新显形一把不同伤害类型的灵刃。如果不这么做的话，灵刃会一直保持上一次显形时的伤害类型。\n灵刃可以被击碎（它的硬度为10并且有10点生命值），但魂刃可以用他的下一个移动等效动作重铸造一把。当魂刃松开了她紧握的灵刃时，这把灵刃会即时消散（除非她这么做是为了抛掷灵刃，详情见下文）。一把灵刃在计算DR时被视为魔法武器，同时被视为精制武器。\n如同普通武器一样，魂刃可以对灵刃应用“猛力攻击”，“寓守于攻”专长。此外，她也可以选择灵刃作为特殊专长的需求，比如武器专攻和精通重击。强化武器的灵能和法术也可以对灵刃起效。武器娴熟也可对灵刃生效，当然前提条件是这位魂刃的灵刃属于轻型武器形态。\n即使在灵能无法正常作用的地方（比如位于“反灵能力场”内），通过一个20dc的意志检定，魂刃依然可以制造并维持灵刃，通过这一方法显形的灵刃维持等于她魂刃职业等级的轮数。当持续时间结束后，她可以通过另一个20dc的意志检定维持她的灵刃，同时，在灵能无法正常作用地区，灵刃被视为非魔法武器及非精制武器。如果她未能成功通过这一意志检定，那她的灵刃将即时消散。于灵能无效地区，在她自己的行动回合内，魂刃可以通过一个新的意志检定（dc20）以一个移动动作重塑灵刃。她在这个意志检定上获得等同于灵刃增强加值的增强加值（灵刃增强加值见下）。"
+    "zhCN": "以一个移动动作，魂刃可以以灵能塑形出一把由她思想铸造的半固态灵刃\n魂刃必须在1级决定灵刃的形态．她可以选择将之塑形为一件轻型武器，一把单手武器，亦或是双手武器。一旦决定了造型，以后当她塑形灵刃时她的灵刃都会以这一形态出现。轻型武器形态可以造成1d6点伤害，单手武器形态可以造成1d8点伤害，双手武器可以造成2d6点伤害。以上的所有伤害都是以中型生物挥舞的中型武器计算的，根据不同的体型大小调整你的武器伤害。不论是哪一种形态，灵刃的重击范围都是19-20/X2。如果你的魂刃是大体型生物或是小体型生物，你可以根据她的体型来调整灵刃的伤害骰。如果魂刃选择将她的灵刃塑形为轻型武器，那她可以选择在显形灵刃时显现2把轻型武器造型的灵刃。如果她这么做的话她承受标准的双武减值。\n不论魂刃以何种形态塑形她的灵刃，灵刃本身并没有固定的伤害类型。当她显形灵刃并向其中灌注能量时，魂刃可以选择这把灵刃造成的伤害类型，钝击，挥砍，亦或是穿刺。以一个整轮动作，魂刃可以改变她现有灵刃的伤害类型或者重新显形一把不同伤害类型的灵刃。如果不这么做的话，灵刃会一直保持上一次显形时的伤害类型。\n灵刃可以被击碎（它的硬度为10并且有10点生命值），但魂刃可以用他的下一个移动等效动作重铸造一把。当魂刃松开了她紧握的灵刃时，这把灵刃会即时消散（除非她这么做是为了抛掷灵刃，详情见下文）。一把灵刃在计算DR时被视为魔法武器，同时被视为精制武器。\n如同普通武器一样，魂刃可以对灵刃应用“猛力攻击”，“寓守于攻”专长。此外，她也可以选择灵刃作为特殊专长的需求，比如武器专攻和精通重击。强化武器的灵能和法术也可以对灵刃起效。武器娴熟也可对灵刃生效，当然前提条件是这位魂刃的灵刃属于轻型武器形态。\n即使在灵能无法正常作用的地方（比如位于“反灵能力场”内），通过一个20dc的意志检定，魂刃依然可以制造并维持灵刃，通过这一方法显形的灵刃维持等于她魂刃职业等级的轮数。当持续时间结束后，她可以通过另一个20dc的意志检定维持她的灵刃，同时，在灵能无法正常作用地区，灵刃被视为非魔法武器及非精制武器。如果她未能成功通过这一意志检定，那她的灵刃将即时消散。于灵能无效地区，在她自己的行动回合内，魂刃可以通过一个新的意志检定（dc20）以一个移动动作重塑灵刃。她在这个意志检定上获得等同于灵刃增强加值的增强加值（灵刃增强加值见下）。"
   },
   {
     "Key": "ShapeMindBladeFeat.Name",
@@ -247,22 +247,22 @@
   {
     "Key": "FormMindBoltFeat.Name",
     "enGB_Base": "Form Mind Bolt",
-    "zhCN": "念矢塑形"
+    "zhCN": "灵矢塑形"
   },
   {
     "Key": "FormMindBoltFeat.Description",
     "enGB_Base": "At 1st level, as a move action, a soulbolt can form a semi-solid ranged weapon composed of psychic energy distilled from her own mind. This mind bolt appears inside of or enveloping the soulbolt’s hand.\r\nA soulbolt must choose the form of her mind bolt at 1st level. She can either form it into a short range, medium range, or long range bolt which determines the weapon’s range increment and base damage. Once chosen, her mind bolt stays in this form every time the soulknife forms her mind bolt. The long range bolt form is the smallest of forms and deals 1d6 points of damage and has a 100 ft. range increment. The medium range bolt form deals 1d8 points of damage, with a 60 ft. range increment, and the short range bolt form is the largest and heaviest form and deals 1d10 points of damage with a 20 ft. range increment. A soulbolt adds her Strength modifier to damage rolls when using the mind bolt in the short range form. All damages are based on a Medium-sized creature wielding Medium-sized weapons; adjust the weapon damage as appropriate for different sized weapons. A soulbolt with powerful build or any similar ability forms an appropriately-sized mind bolt dealing the size-appropriate amount of damage. Regardless of form, the mind bolt has a 19-20 critical threat range, has a maximum range of 10 range increments, and is treated as a projectile.\nThe form of the soulbolt’s mind bolt also determines how many hands must be used to form and manipulate the mind bolt. If the mind bolt is in long range form, both of the soulbolt’s hands remain free to hold other items such as a shield or a weapon. If the mind bolt is in medium range form, the soulbolt must have at least one hand free to form and manipulate the mind bolt. If the mind bolt is in short range form, the soulbolt must have both hands free to wield and launch the mind bolt.\n    A soulbolt can wield a buckler without penalty regardless of the form of her mind bolt.\nRegardless of the weapon form a soulbolt has chosen, her mind bolt does not have a set damage type. When shaping her weapon and assigning abilities to it, the soulbolt chooses whether it will deal bludgeoning, piercing, or slashing damage. The soulbolt may change the damage type of an existing mind bolt, or may summon a new mind bolt with a different damage type, as a full-round action; otherwise, the mind bolt retains the last damage type chosen every time it is summoned.\nThe bolt can be broken (it has hardness 10 and 10 hit points); however, a soulbolt can simply create another on her next move action. The moment she relinquishes her grip on her blade, it dissipates (unless she intends to throw it; see below). A mind bolt is considered a magic weapon for the purpose of overcoming damage reduction and is considered a masterwork weapon.\n    A soulbolt can use feats such as Rapid Shot or Precise Shot in conjunction with the mind bolt just as if it were a normal ranged weapon. She can also choose her mind bolt for feats requiring a specific weapon choice, such as Weapon Focus and Improved Critical. Powers or spells that upgrade weapons can be used on a mind bolt. The soulbolt can use feats such as Weapon Finesse that work on light weapons with her mind bolt, but such feats only work on mind bolts in a light weapon form, such as using the Mind Daggers blade skill.\nEven in places where psionic effects do not normally function (such as within a null psionics field), a soulbolt can attempt to sustain her mind bolt by making a DC 20 Will save. On a successful save, the soulbolt maintains her mind bolt for a number of rounds equal to her class level before she needs to check again, although the mind bolt is treated for all purposes as a non-magical, masterwork ranged weapon while in a place where psionic effects do not normally function. On an unsuccessful attempt, the mind bolt vanishes. As a move action on her turn, the soulbolt can attempt a new Will save to rematerialize her mind bolt while she remains within the psionics-negating effect. She gains a bonus on Will saves made to maintain or form her mind bolt equal to the total enhancement bonus of her mind bolt (see below).\nThe soulbolt chooses the appearance of her mind bolt, although its shape must reflect the selections the soulbolt has chosen: a bludgeoning mind bolt would be blunt, slashing would have an edge, etc.\nThis ability replaces the Form Mind Blade class feature normally gained by soulknives.",
-    "zhCN": "1级起，以一个移动动作，魂矢可以以灵能塑形出一把由她思想铸造的半固态远程武器。念矢会在魂矢的手中或者围绕双手出现。\r\n魂矢必须在1级决定念矢的形态．她可以选择短距离、中距离或者长距离念矢来决定武器的射程和基础伤害。一旦决定了造型，以后当她塑形念矢时她的念矢都会以这一形态出现。长距离念矢尺寸最小，造成1d6点伤害并拥有100尺射程增量，中距离念矢可以造成1d8点伤害并拥有60尺射程增量，短距离念矢则是最大最重的形态，造成1d10伤害并拥有20尺射程增量。使用短距离念矢时，魂矢将自己的力量调整值加到伤害骰中。以上的所有伤害都是以中型生物使用的中型武器计算的，根据不同的体型大小调整你的武器伤害。如果你的魂矢是大体型生物或是小体型生物，你可以根据她的体型来调整念矢的伤害骰。不论是那一种形态，念矢的重击范围都是19-20/X2，拥有10点射程增量。并被视为投射物。\n念矢的形态也会影响魂矢需要用几只手来形成或操纵念矢。使用长距离念矢时，她的两只手都可以用来做别的事情。使用中距离念矢时，她必须拥有至少一只空闲手来形成和操纵念矢。使用短距离念矢时，魂矢必须使用两只空闲手来持有和发射念矢。\n魂矢可以无视她念矢的形态，在没有任何处罚的情况下装备小圆盾。\n不论魂矢以何种形态塑形她的念矢，念矢本身并没有固定的伤害类型。当她显形念矢并向其中灌注能量时，魂矢可以选择念矢造成的伤害类型，钝击，挥砍，亦或是穿刺。以一个整轮动作，魂矢可以改变她现有念矢的伤害类型或者重新显形一把不同伤害类型的念矢。如果不这么做的话，念矢会一直保持上一次显形时的伤害类型。\n念矢可以被击碎（它的硬度为10并且有10点生命值），但魂矢可以用他的下一个移动等效动作重铸造一把。当魂矢松开了她紧握的念矢时，念矢会即时消散（除非她这么做是为了抛掷念矢，详情见下文）。念矢在计算DR时被视为魔法武器，同时被视为精制武器。\n如同普通远程武器一样，魂矢可以对念矢应用“快速射击”，“精准射击”专长。此外，她也可以选择念矢作为特殊专长的需求，比如武器专攻和精通重击。强化武器的灵能和法术也可以对念矢起效。武器娴熟也可对念矢生效，当然前提条件是这位魂矢的念矢属于轻型武器形态，比如使用灵刃化匕时。\n即使在灵能无法正常作用的地方（比如位于“反灵能力场”内），通过一个20dc的意志检定，魂矢依然可以制造并维持念矢，通过这一方法显形的念矢维持等于她魂矢职业等级的轮数。当持续时间结束后，她可以通过另一个20dc的意志检定维持她的念矢，同时，在灵能无法正常作用地区，念矢被视为非魔法武器及非精制武器。如果她未能成功通过这一意志检定，那她的念矢将即时消散。于灵能无效地区，在她自己的行动回合内，魂矢可以通过一个新的意志检定（dc20）以一个移动动作重塑念矢。她在这个意志检定上获得等同于念矢增强加值的增强加值（灵刃增强加值见下）。\n魂矢可以决定她的念矢造型，当然这一造型必须符合念矢的伤害类型，比如钝击伤害类型的念矢必须是钝器，挥砍伤害的灵刃必须有刃口，诸如此类。\n这个能力替代了魂刃的灵刃塑形。"
+    "zhCN": "1级起，以一个移动动作，魂矢可以以灵能塑形出一把由她思想铸造的半固态远程武器。灵矢会在魂矢的手中或者围绕双手出现。\r\n魂矢必须在1级决定灵矢的形态．她可以选择短距离、中距离或者长距离灵矢来决定武器的射程和基础伤害。一旦决定了造型，以后当她塑形灵矢时她的灵矢都会以这一形态出现。长距离灵矢尺寸最小，造成1d6点伤害并拥有100尺射程增量，中距离灵矢可以造成1d8点伤害并拥有60尺射程增量，短距离灵矢则是最大最重的形态，造成1d10伤害并拥有20尺射程增量。使用短距离灵矢时，魂矢将自己的力量调整值加到伤害骰中。以上的所有伤害都是以中型生物使用的中型武器计算的，根据不同的体型大小调整你的武器伤害。如果你的魂矢是大体型生物或是小体型生物，你可以根据她的体型来调整灵矢的伤害骰。不论是哪一种形态，灵矢的重击范围都是19-20/X2，拥有10点射程增量。并被视为投射物。\n灵矢的形态也会影响魂矢需要用几只手来形成或操纵灵矢。使用长距离灵矢时，她的两只手都可以用来做别的事情。使用中距离灵矢时，她必须拥有至少一只空闲手来形成和操纵灵矢。使用短距离灵矢时，魂矢必须使用两只空闲手来持有和发射灵矢。\n魂矢可以无视她灵矢的形态，在没有任何处罚的情况下装备小圆盾。\n不论魂矢以何种形态塑形她的灵矢，灵矢本身并没有固定的伤害类型。当她显形灵矢并向其中灌注能量时，魂矢可以选择灵矢造成的伤害类型，钝击，挥砍，亦或是穿刺。以一个整轮动作，魂矢可以改变她现有灵矢的伤害类型或者重新显形一把不同伤害类型的灵矢。如果不这么做的话，灵矢会一直保持上一次显形时的伤害类型。\n灵矢可以被击碎（它的硬度为10并且有10点生命值），但魂矢可以用他的下一个移动等效动作重铸造一把。当魂矢松开了她紧握的灵矢时，灵矢会即时消散（除非她这么做是为了抛掷灵矢，详情见下文）。灵矢在计算DR时被视为魔法武器，同时被视为精制武器。\n如同普通远程武器一样，魂矢可以对灵矢应用“快速射击”，“精准射击”专长。此外，她也可以选择灵矢作为特殊专长的需求，比如武器专攻和精通重击。强化武器的灵能和法术也可以对灵矢起效。武器娴熟也可对灵矢生效，当然前提条件是这位魂矢的灵矢属于轻型武器形态，比如使用灵刃化匕时。\n即使在灵能无法正常作用的地方（比如位于“反灵能力场”内），通过一个20dc的意志检定，魂矢依然可以制造并维持灵矢，通过这一方法显形的灵矢维持等于她魂矢职业等级的轮数。当持续时间结束后，她可以通过另一个20dc的意志检定维持她的灵矢，同时，在灵能无法正常作用地区，灵矢被视为非魔法武器及非精制武器。如果她未能成功通过这一意志检定，那她的灵矢将即时消散。于灵能无效地区，在她自己的行动回合内，魂矢可以通过一个新的意志检定（dc20）以一个移动动作重塑灵矢。她在这个意志检定上获得等同于灵矢增强加值的增强加值（灵刃增强加值见下）。\n魂矢可以决定她的灵矢造型，当然这一造型必须符合灵矢的伤害类型，比如钝击伤害类型的灵矢必须是钝器，挥砍伤害的灵刃必须有刃口，诸如此类。\n这个能力替代了魂刃的灵刃塑形。"
   },
   {
     "Key": "FormMindBoltAbility.Name",
     "enGB_Base": "Form Mind Bolt",
-    "zhCN": "念矢塑形"
+    "zhCN": "灵矢塑形"
   },
   {
     "Key": "FormMindBoltAbility.Description",
     "enGB_Base": "At 1st level, as a move action, a soulbolt can form a semi-solid ranged weapon composed of psychic energy distilled from her own mind. This mind bolt appears inside of or enveloping the soulbolt’s hand.\r\nA soulbolt must choose the form of her mind bolt at 1st level. She can either form it into a short range, medium range, or long range bolt which determines the weapon’s range increment and base damage. Once chosen, her mind bolt stays in this form every time the soulknife forms her mind bolt. The long range bolt form is the smallest of forms and deals 1d6 points of damage and has a 100 ft. range increment. The medium range bolt form deals 1d8 points of damage, with a 60 ft. range increment, and the short range bolt form is the largest and heaviest form and deals 1d10 points of damage with a 20 ft. range increment. A soulbolt adds her Strength modifier to damage rolls when using the mind bolt in the short range form. All damages are based on a Medium-sized creature wielding Medium-sized weapons; adjust the weapon damage as appropriate for different sized weapons. A soulbolt with powerful build or any similar ability forms an appropriately-sized mind bolt dealing the size-appropriate amount of damage. Regardless of form, the mind bolt has a 19-20 critical threat range, has a maximum range of 10 range increments, and is treated as a projectile.\nThe form of the soulbolt’s mind bolt also determines how many hands must be used to form and manipulate the mind bolt. If the mind bolt is in long range form, both of the soulbolt’s hands remain free to hold other items such as a shield or a weapon. If the mind bolt is in medium range form, the soulbolt must have at least one hand free to form and manipulate the mind bolt. If the mind bolt is in short range form, the soulbolt must have both hands free to wield and launch the mind bolt.\n    A soulbolt can wield a buckler without penalty regardless of the form of her mind bolt.\nRegardless of the weapon form a soulbolt has chosen, her mind bolt does not have a set damage type. When shaping her weapon and assigning abilities to it, the soulbolt chooses whether it will deal bludgeoning, piercing, or slashing damage. The soulbolt may change the damage type of an existing mind bolt, or may summon a new mind bolt with a different damage type, as a full-round action; otherwise, the mind bolt retains the last damage type chosen every time it is summoned.\nThe bolt can be broken (it has hardness 10 and 10 hit points); however, a soulbolt can simply create another on her next move action. The moment she relinquishes her grip on her blade, it dissipates (unless she intends to throw it; see below). A mind bolt is considered a magic weapon for the purpose of overcoming damage reduction and is considered a masterwork weapon.\n    A soulbolt can use feats such as Rapid Shot or Precise Shot in conjunction with the mind bolt just as if it were a normal ranged weapon. She can also choose her mind bolt for feats requiring a specific weapon choice, such as Weapon Focus and Improved Critical. Powers or spells that upgrade weapons can be used on a mind bolt. The soulbolt can use feats such as Weapon Finesse that work on light weapons with her mind bolt, but such feats only work on mind bolts in a light weapon form, such as using the Mind Daggers blade skill.\nEven in places where psionic effects do not normally function (such as within a null psionics field), a soulbolt can attempt to sustain her mind bolt by making a DC 20 Will save. On a successful save, the soulbolt maintains her mind bolt for a number of rounds equal to her class level before she needs to check again, although the mind bolt is treated for all purposes as a non-magical, masterwork ranged weapon while in a place where psionic effects do not normally function. On an unsuccessful attempt, the mind bolt vanishes. As a move action on her turn, the soulbolt can attempt a new Will save to rematerialize her mind bolt while she remains within the psionics-negating effect. She gains a bonus on Will saves made to maintain or form her mind bolt equal to the total enhancement bonus of her mind bolt (see below).\nThe soulbolt chooses the appearance of her mind bolt, although its shape must reflect the selections the soulbolt has chosen: a bludgeoning mind bolt would be blunt, slashing would have an edge, etc.\nThis ability replaces the Form Mind Blade class feature normally gained by soulknives.",
-    "zhCN": "1级起，以一个移动动作，魂矢可以以灵能塑形出一把由她思想铸造的半固态远程武器。念矢会在魂矢的手中或者围绕双手出现。\r\n魂矢必须在1级决定念矢的形态．她可以选择短距离、中距离或者长距离念矢来决定武器的射程和基础伤害。一旦决定了造型，以后当她塑形念矢时她的念矢都会以这一形态出现。长距离念矢尺寸最小，造成1d6点伤害并拥有100尺射程增量，中距离念矢可以造成1d8点伤害并拥有60尺射程增量，短距离念矢则是最大最重的形态，造成1d10伤害并拥有20尺射程增量。使用短距离念矢时，魂矢将自己的力量调整值加到伤害骰中。以上的所有伤害都是以中型生物使用的中型武器计算的，根据不同的体型大小调整你的武器伤害。如果你的魂矢是大体型生物或是小体型生物，你可以根据她的体型来调整念矢的伤害骰。不论是那一种形态，念矢的重击范围都是19-20/X2，拥有10点射程增量。并被视为投射物。\n念矢的形态也会影响魂矢需要用几只手来形成或操纵念矢。使用长距离念矢时，她的两只手都可以用来做别的事情。使用中距离念矢时，她必须拥有至少一只空闲手来形成和操纵念矢。使用短距离念矢时，魂矢必须使用两只空闲手来持有和发射念矢。\n魂矢可以无视她念矢的形态，在没有任何处罚的情况下装备小圆盾。\n不论魂矢以何种形态塑形她的念矢，念矢本身并没有固定的伤害类型。当她显形念矢并向其中灌注能量时，魂矢可以选择念矢造成的伤害类型，钝击，挥砍，亦或是穿刺。以一个整轮动作，魂矢可以改变她现有念矢的伤害类型或者重新显形一把不同伤害类型的念矢。如果不这么做的话，念矢会一直保持上一次显形时的伤害类型。\n念矢可以被击碎（它的硬度为10并且有10点生命值），但魂矢可以用他的下一个移动等效动作重铸造一把。当魂矢松开了她紧握的念矢时，念矢会即时消散（除非她这么做是为了抛掷念矢，详情见下文）。念矢在计算DR时被视为魔法武器，同时被视为精制武器。\n如同普通远程武器一样，魂矢可以对念矢应用“快速射击”，“精准射击”专长。此外，她也可以选择念矢作为特殊专长的需求，比如武器专攻和精通重击。强化武器的灵能和法术也可以对念矢起效。武器娴熟也可对念矢生效，当然前提条件是这位魂矢的念矢属于轻型武器形态，比如使用灵刃化匕时。\n即使在灵能无法正常作用的地方（比如位于“反灵能力场”内），通过一个20dc的意志检定，魂矢依然可以制造并维持念矢，通过这一方法显形的念矢维持等于她魂矢职业等级的轮数。当持续时间结束后，她可以通过另一个20dc的意志检定维持她的念矢，同时，在灵能无法正常作用地区，念矢被视为非魔法武器及非精制武器。如果她未能成功通过这一意志检定，那她的念矢将即时消散。于灵能无效地区，在她自己的行动回合内，魂矢可以通过一个新的意志检定（dc20）以一个移动动作重塑念矢。她在这个意志检定上获得等同于念矢增强加值的增强加值（灵刃增强加值见下）。\n魂矢可以决定她的念矢造型，当然这一造型必须符合念矢的伤害类型，比如钝击伤害类型的念矢必须是钝器，挥砍伤害的灵刃必须有刃口，诸如此类。\n这个能力替代了魂刃的灵刃塑形。"
+    "zhCN": "1级起，以一个移动动作，魂矢可以以灵能塑形出一把由她思想铸造的半固态远程武器。灵矢会在魂矢的手中或者围绕双手出现。\r\n魂矢必须在1级决定灵矢的形态．她可以选择短距离、中距离或者长距离灵矢来决定武器的射程和基础伤害。一旦决定了造型，以后当她塑形灵矢时她的灵矢都会以这一形态出现。长距离灵矢尺寸最小，造成1d6点伤害并拥有100尺射程增量，中距离灵矢可以造成1d8点伤害并拥有60尺射程增量，短距离灵矢则是最大最重的形态，造成1d10伤害并拥有20尺射程增量。使用短距离灵矢时，魂矢将自己的力量调整值加到伤害骰中。以上的所有伤害都是以中型生物使用的中型武器计算的，根据不同的体型大小调整你的武器伤害。如果你的魂矢是大体型生物或是小体型生物，你可以根据她的体型来调整灵矢的伤害骰。不论是哪一种形态，灵矢的重击范围都是19-20/X2，拥有10点射程增量。并被视为投射物。\n灵矢的形态也会影响魂矢需要用几只手来形成或操纵灵矢。使用长距离灵矢时，她的两只手都可以用来做别的事情。使用中距离灵矢时，她必须拥有至少一只空闲手来形成和操纵灵矢。使用短距离灵矢时，魂矢必须使用两只空闲手来持有和发射灵矢。\n魂矢可以无视她灵矢的形态，在没有任何处罚的情况下装备小圆盾。\n不论魂矢以何种形态塑形她的灵矢，灵矢本身并没有固定的伤害类型。当她显形灵矢并向其中灌注能量时，魂矢可以选择灵矢造成的伤害类型，钝击，挥砍，亦或是穿刺。以一个整轮动作，魂矢可以改变她现有灵矢的伤害类型或者重新显形一把不同伤害类型的灵矢。如果不这么做的话，灵矢会一直保持上一次显形时的伤害类型。\n灵矢可以被击碎（它的硬度为10并且有10点生命值），但魂矢可以用他的下一个移动等效动作重铸造一把。当魂矢松开了她紧握的灵矢时，灵矢会即时消散（除非她这么做是为了抛掷灵矢，详情见下文）。灵矢在计算DR时被视为魔法武器，同时被视为精制武器。\n如同普通远程武器一样，魂矢可以对灵矢应用“快速射击”，“精准射击”专长。此外，她也可以选择灵矢作为特殊专长的需求，比如武器专攻和精通重击。强化武器的灵能和法术也可以对灵矢起效。武器娴熟也可对灵矢生效，当然前提条件是这位魂矢的灵矢属于轻型武器形态，比如使用灵刃化匕时。\n即使在灵能无法正常作用的地方（比如位于“反灵能力场”内），通过一个20dc的意志检定，魂矢依然可以制造并维持灵矢，通过这一方法显形的灵矢维持等于她魂矢职业等级的轮数。当持续时间结束后，她可以通过另一个20dc的意志检定维持她的灵矢，同时，在灵能无法正常作用地区，灵矢被视为非魔法武器及非精制武器。如果她未能成功通过这一意志检定，那她的灵矢将即时消散。于灵能无效地区，在她自己的行动回合内，魂矢可以通过一个新的意志检定（dc20）以一个移动动作重塑灵矢。她在这个意志检定上获得等同于灵矢增强加值的增强加值（灵刃增强加值见下）。\n魂矢可以决定她的灵矢造型，当然这一造型必须符合灵矢的伤害类型，比如钝击伤害类型的灵矢必须是钝器，挥砍伤害的灵刃必须有刃口，诸如此类。\n这个能力替代了魂刃的灵刃塑形。"
   },
   {
     "Key": "MindbladeEnchantment1Feat.Name",
@@ -297,27 +297,27 @@
   {
     "Key": "MindBoltShapeFeat.Name",
     "enGB_Base": "Select Mind Bolt Shape",
-    "zhCN": "选择念矢塑形"
+    "zhCN": "选择灵矢塑形"
   },
   {
     "Key": "MindBoltShapeFeat.Description",
     "enGB_Base": "Selected Range for the wielder's Mind Bolt.",
-    "zhCN": "选择念矢的射程。"
+    "zhCN": "选择灵矢的射程。"
   },
   {
     "Key": "MindBoltShapeShortFeat.Name",
     "enGB_Base": "Mind Bolt Shape (Short)",
-    "zhCN": "念矢塑形（短距离）"
+    "zhCN": "灵矢塑形（短距离）"
   },
   {
     "Key": "MindBoltShapeMediumFeat.Name",
     "enGB_Base": "Mind Bolt Shape (Medium)",
-    "zhCN": "念矢塑形（中距离）"
+    "zhCN": "灵矢塑形（中距离）"
   },
   {
     "Key": "MindBoltShapeLongFeat.Name",
     "enGB_Base": "Mind Bolt Shape (Long)",
-    "zhCN": "念矢塑形（长距离）"
+    "zhCN": "灵矢塑形（长距离）"
   },
   {
     "Key": "PsychicStrikeAbility.Name",
@@ -633,12 +633,12 @@
   {
     "Key": "LaunchMultibolt.Name",
     "enGB_Base": "Launch Multibolt",
-    "zhCN": "多重念矢"
+    "zhCN": "多重灵矢"
   },
   {
     "Key": "LaunchMultibolt.Description",
     "enGB_Base": "The soulknife gains the benefits of the Manyshot feat. The soulknife must possess the Launch Mindbolt class feature to select this blade skill.",
-    "zhCN": "魂刃获得多重射击专长的效果。魂刃必须拥有发射念矢的职业特性才能选择此剑技。"
+    "zhCN": "魂刃获得多重射击专长的效果。魂刃必须拥有发射灵矢的职业特性才能选择此剑技。"
   },
   {
     "Key": "LightningBladeFeat.Name",
@@ -733,28 +733,28 @@
   {
     "Key": "TelekineticBolt.Name",
     "enGB_Base": "Telekinetic Bolt",
-    "zhCN": "心灵念矢"
+    "zhCN": "心灵灵矢"
   },
 
   {
     "Key": "TelekineticBoltShort.Name",
     "enGB_Base": "Telekinetic Bolt (Short)",
-    "zhCN": "心灵念矢（短距离）"
+    "zhCN": "心灵灵矢（短距离）"
   },
   {
     "Key": "TelekineticBoltMedium.Name",
     "enGB_Base": "Telekinetic Bolt (Medium)",
-    "zhCN": "心灵念矢（中距离）"
+    "zhCN": "心灵灵矢（中距离）"
   },
   {
     "Key": "TelekineticBoltLong.Name",
     "enGB_Base": "Telekinetic Bolt (Long)",
-    "zhCN": "心灵念矢（长距离）"
+    "zhCN": "心灵灵矢（长距离）"
   },
   {
     "Key": "TelekineticBolt.Description",
     "enGB_Base": "The soulknife learns to manifest her mind blade as a variety of ranged weapons as well as the forms her mind blade normally may take. Selection of this blade skill grants the form mind bolt and launch mind bolt class features (see soulbolt archetype). The soulknife is always considered proficient with her mind bolt. The mind bolt gains the enhancement bonus of the soulknife’s mind blade and may select its own enhancements (such as distance or flaming) as if it were a separate weapon from her mind blade. The soulknife may now also take soulbolt specific blade skills. This cannot be taken if you possess the form mind bolt class feature previously. The soulknife must be at least 4th level to select this blade skill.",
-    "zhCN": "魂刃学会了将灵刃塑形为多种远程武器的方法。选择该剑技会获得念矢塑形和发射念矢职业特性（如同变体职业魂矢）。魂刃总会被视为擅长其念矢。念矢获得如同灵刃的强化并且可以选择一部分独有的特性（比如远距或炽焰），如同其是一把独立武器。魂刃也会同样获得魂矢专用的魂之剑技。如果你已经拥有了念矢塑形则无法选择此剑技。选择这一魂之剑技需要至少4级魂刃等级。"
+    "zhCN": "魂刃学会了将灵刃塑形为多种远程武器的方法。选择该剑技会获得灵矢塑形和发射灵矢职业特性（如同变体职业魂矢）。魂刃总会被视为擅长其灵矢。灵矢获得如同灵刃的强化并且可以选择一部分独有的特性（比如远距或炽焰），如同其是一把独立武器。魂刃也会同样获得魂矢专用的魂之剑技。如果你已经拥有了灵矢塑形则无法选择此剑技。选择这一魂之剑技需要至少4级魂刃等级。"
   },
   {
     "Key": "ThunderBladeFeat.Name",
@@ -810,22 +810,22 @@
   {
     "Key": "MindBoltShort.Name",
     "enGB_Base": "Mind Bolt (Short Range)",
-    "zhCN": "念矢（短距离）"
+    "zhCN": "灵矢（短距离）"
   },
   {
     "Key": "MindBoltMedium.Name",
     "enGB_Base": "Mind Bolt (Medium Range)",
-    "zhCN": "念矢（中距离）"
+    "zhCN": "灵矢（中距离）"
   },
   {
     "Key": "MindBoltLong.Name",
     "enGB_Base": "Mind Bolt (Long Range)",
-    "zhCN": "念矢（长距离）"
+    "zhCN": "灵矢（长距离）"
   },
   {
     "Key": "MindBolt.Description",
     "enGB_Base": "A bolt of psionic energy",
-    "zhCN": "灵能形成的念矢"
+    "zhCN": "灵能形成的灵矢"
   },
   {
     "Key": "MindTowerShieldItem.Name",
@@ -1167,12 +1167,12 @@
   {
     "Key": "MindBoltBuff.Name",
     "enGB_Base": "Formed Mind Bolt",
-    "zhCN": "念矢塑形"
+    "zhCN": "灵矢塑形"
   },
   {
     "Key": "MindBoltBuff.Description",
     "enGB_Base": "A Mind Bolt has been formed",
-    "zhCN": "塑形一发念矢"
+    "zhCN": "塑形一发灵矢"
   },
   // ==== Added Soulknife Abilities====
   {
