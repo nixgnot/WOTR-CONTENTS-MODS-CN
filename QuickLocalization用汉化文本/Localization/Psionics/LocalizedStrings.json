@@ -718,7 +718,7 @@
   {
     "Key": "ReapersBladeFeat.Description",
     "enGB_Base": "A soulknife with this ability automatically recharges her psychic strike ability if she reduces an enemy’s hit points to below 0 with a melee attack using her mind blade. A soulknife must be at least 10th level to choose this blade skill.",
-    "zhCN": "拥有这一剑技的魂刃可以在使用灵刃将一个敌人的生命值降到0以下时进行自动重新为灵能打击能力。选择这一魂之剑技需要至少10级魂刃等级。"
+    "zhCN": "拥有这一剑技的魂刃可以在使用灵刃将一个敌人的生命值降到0以下时，自动重新为灵能打击能力充能。选择这一魂之剑技需要至少10级魂刃等级。"
   },
   {
     "Key": "RendingBlades.Name",
