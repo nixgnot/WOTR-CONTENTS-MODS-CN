@@ -3656,7 +3656,7 @@ C:\Users\你的用户名\AppData\LocalLow\Owlcat Games\Pathfinder Wrath Of The R
 > *新增内容：* 进阶职业<br>
 <table>
  <tr><th colspan="3">新增内容列表<br></th></tr> 
-  <tr><td rowspan="41">变体</i></td>
+  <tr><td rowspan="42">变体</i></td>
        <td rowspan="3">炼金术师 Alchemist</td>
        <td>构装骑士 Construct Rider</td></tr>
        <tr><td>内修药师 Internal Alchemist</td></tr>
@@ -3678,9 +3678,10 @@ C:\Users\你的用户名\AppData\LocalLow\Owlcat Games\Pathfinder Wrath Of The R
        <tr><td>先锋使者 Emissary</td></tr>
        <td rowspan="1">牧师 Cleric</td>
        <td>神圣典范 Divine Paragon</td></tr>
-       <td rowspan="4">德鲁伊 Druid</td>
+       <td rowspan="5">德鲁伊 Druid</td>
        <td>立石贤者 Menhir Savant</td></tr>
        <tr><td>平原德鲁伊 Plains Druid</td></tr>
+       <tr><td>超自然学家 Supernaturalist<br>有独特异能法术</td></tr>
        <tr><td>真菌朝圣者 Fungal Pilgrim</td></tr>
        <tr><td>毒理学家 Toxicologist</td></tr>
        <td rowspan="7">战士 Fighter</td>
@@ -4066,7 +4067,7 @@ C:\Users\你的用户名\AppData\LocalLow\Owlcat Games\Pathfinder Wrath Of The R
        <tr><td colspan="2">拨挡飞箭（神话） Deflect Arrows (Mythic)<br>当你使用拨挡飞箭专长时，每轮能够偏转远程攻击的次数增加等同于你的神话等级的一半。你也可以偏转以你为目标且来自射线法术或效果的单条射线。</td></tr>
        <tr><td colspan="2">血脉传承（神话） Racial Heritage (Mythic)<br>选择另一个类人种族。在获得特性和专长时，你可以视为那个种族。然后，你获得所选种族的一个特性。</td></tr>
 
-  <tr><td rowspan="8">神话进阶职业特性</i></td>
+  <tr><td rowspan="10">神话进阶职业特性</i></td>
        <td colspan="2">轻巧夺命 Swift Death<br>你的夺命攻击变成标准动作，刺客10级时还会变成移动动作。</td></tr>
        <tr><td colspan="2">高等轻巧夺命 Greater Swift Death<br>你的夺命攻击变成移动动作，刺客10级时还会变成迅捷动作。</td></tr>
        <tr><td colspan="2">固若金汤 UnbreakableDefance<br>你使用防御姿态时不再有轮数限制。</td></tr>
@@ -4075,7 +4076,9 @@ C:\Users\你的用户名\AppData\LocalLow\Owlcat Games\Pathfinder Wrath Of The R
        <tr><td colspan="2">格挡反击（神话）Riposte (Mythic)<br>决斗家在格挡和反击时将神话等级加到攻击骰上，不与时刻备战神话专长的效果叠加。</td></tr>
        <tr><td colspan="2">形上学偷袭 Metaphysical Sneak Attack<br>战争学徒在偷袭敌人时自动研究目标，可以直接进行知识检定。另外，他的偷袭伤害不再是精准伤害。</td></tr>
        <tr><td colspan="2">秘术催化剂 Mystic Catalyst<br>你能随意使用次级双法合璧。</td></tr>
-  <tr><td rowspan="17">法术 spell</i></td>
+       <tr><td colspan="2">阿卡西之秘 Secret of the Akashic<br>将阿卡西窥视术和阿卡西构形添加到你的所有法术列表中。（博学士）</td></tr>
+       <tr><td colspan="2">魅影之秘 Secret of the Phantom<br>将魅影杀手，魅影蛛网和魅影手添加到你的所有法术列表中。（博学士）</td></tr>
+  <tr><td rowspan="23">法术 spell</i></td>
        <tr><td colspan="2">正义祷言 Litany of Righteousness<br>如果目标是邪恶阵营，拥有善良灵光的生物（当且只有当你是崇拜善良神明的牧师/战斗祭司，圣武士或善良异界生物时你才具有善良灵光。）的攻击对其造成双倍伤害。如果目标同时拥有邪恶亚种，它还会目眩1d4轮。</td></tr>
        <tr><td colspan="2">护卫他人 Shield Other<br>受术者的AC获得+1偏斜加值，豁免检定获得+1抗力加值。另外受术者所受的任何造成HP损失的创伤和攻击均减半 (包括由特殊能力造成的)，剩下的部分则由施法者承受。使用移动动作来结束法术而不是移出范围，这样你就不会在过场动画、酒馆等过程中丢失它。</td></tr>
        <tr><td colspan="2">后继者神击术 Inheritor's Smite<br>你在下一次发动近战攻击（若在下一回合结束前发动攻击）时，攻击检定可以获得+5神圣加值。如果该攻击命中，你可以立即尝试冲撞目标（对抗检定时同样获得+5神圣加值），并且不会引发借机攻击。</td></tr>
@@ -4092,6 +4095,12 @@ C:\Users\你的用户名\AppData\LocalLow\Owlcat Games\Pathfinder Wrath Of The R
        <tr><td colspan="2">钳颚术 Lockjaw<br>你令一个生物能够使用某种天生武器将自身紧紧附着在敌人身上。当未处于变形效应下时，该生物的爪抓或者啮咬攻击获得擒抓能力，包括在尝试以及维持擒抱时，战技检定获得的+4加值。</td></tr>
        <tr><td colspan="2">烦扰巨人 Vex Giant<br>当你施放侵扰巨人后，若敌人的体型比你至少大1级，你的感官与身手会就在对抗60尺内的单个敌人时变得更加凌厉。你可以在施放该法术时以自由动作选择你所专注的敌人——将你专注的目标切换为60尺内的另一个敌人是移动动作。法术名称虽然叫侵扰巨人，但对付其他比你体型至少大1级的目标时也有用。在对抗你所专注的敌人时，你不会引起其借机攻击。此外，在一轮内你对该名敌人做出的第一次成功近战攻击会额外造成1d6点伤害。最后，在对抗专注敌人时，你的战技检定均会获得+4洞察加值。</td></tr>
        <tr><td colspan="2">大师表演 Virtuoso Performance<br>在该法术生效时，你可以在维持一种吟游表演的同时开始进行第二种吟游表演。每轮同时维持两种吟游表演需要花费共计3轮而非2轮吟游表演轮数。</td></tr>
+       <tr><td colspan="2">魅影手 Phantom Limb<br>该法术创造一个半可见的异能显现物，令目标长出两条魅影手臂，提供两次额外的天生爪抓攻击（1d4）。</td></tr>
+       <tr><td colspan="2">阿卡西构形 Akashic Form<br>施放法术时，你在阿卡西记录中创造出自身肉体的完美记录。在法术持续时间内的任何时候，若你的生命值降低到零以下，改为恢复全满。</td></tr>
+       <tr><td colspan="2">阿卡西窥视术 Virtuoso Performance<br>释放法术后在接下来的一天中，你可以通过自由动作激活你从阿卡西记录中获取的知识；当你这么做时，你在所有的技能鉴定、攻击检定、伤害检定、豁免检定以及战技检定上获得等于你的施法者等级的环境加值，持续1分钟。在这段时间结束之后，阿卡西记录那磅礴浩荡之性侵入了你的心智，令你震慑2轮并恶心1分钟。</td></tr>
+       <tr><td colspan="2">衰竭剧痛 Debilitating Pain<br>目标被剧烈的痛苦压垮，使得它在豁免失败时被震慑。而成功通过豁免时则为眩晕1轮。</td></tr>
+       <tr><td colspan="2">群体衰竭剧痛 Debilitating Pain, Mass<br>该法术如同衰竭剧痛，但你可以指定近距范围内生命骰数最高的敌人，其总数等于施法者等级除以4。</td></tr>
+       <tr><td colspan="2">赫氏潜能术 Hermean Potential<br>你赐予目标通过清晰的头脑完美执行动作的能力。在目标尝试下一次攻击投骰，豁免检定或技能检定时，可以投骰两次，并取更有利的结果。你每有5个施法者等级，目标就可以额外重骰一次（次数最多在20级时达到5次）。</td></tr>
        <tr><td rowspan="8">其余修改</i></td>
        <tr><td colspan="2">拔刀术 Quick Draw<br>如果剑爵已经拥有拔刀术或者警觉专长，他获得阿尔多瑞决斗精通作为额外专长。</td></tr>
        <tr><td colspan="2">教理讲授 Catechesis<br>若地狱骑士持节士拥有以战筑信专长，他的地狱骑士持节士等级与其他神术施法者等级叠加，以计算那些职业的领域效果，但不会因此获得新能力。拥有以战筑信专长的持节士还会获得选择导能作为额外专长。</td></tr>
