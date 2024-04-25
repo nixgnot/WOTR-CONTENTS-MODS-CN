@@ -68,7 +68,7 @@
 | [随军神父](#随军神父) | 随军神父 | 自带 | :heavy_check_mark: | :+1: | :file_folder: |||
 | [CompanionAscension](#CompanionAscension) | 同伴提升 |  | :heavy_check_mark: | :+1: | :file_folder: ||:steam_locomotive:|
 | [SwashbucklerWOTR](#SwashbucklerWOTR) | 游荡剑客 | QL汉化 | :heavy_check_mark: | :+1::+1::+1: | :file_folder: |||
-| [SmolCraft](#SmolCraft) | SmolCraft | QL汉化 | :heavy_check_mark: | :+1: | :file_folder: ||:steam_locomotive:|
+| [SmolCraft](#SmolCraft) | SmolCraft | QL汉化 | :heavy_check_mark: | :+1: | :file_folder: |||
 | [EnduringRework](#EnduringRework) | 持久重置 | QL汉化 | :heavy_check_mark: | :+1: | :file_folder: |🛠️||
 | [CraftMaster](#CraftMaster) | 造物MOD | 自带 | :heavy_check_mark: | :+1::+1: | :file_folder::file_folder: |||
 | [Psionics](#Psionics) | 灵能MOD | QL汉化 | :heavy_check_mark: | :+1::+1: | :file_folder::file_folder: |||
