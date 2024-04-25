@@ -46,7 +46,7 @@
 | [MoreCantrips](#MoreCantrips) | 更多戏法   | 汉化 | :heavy_check_mark: | :+1: | :file_folder: | 🛠️ ||
 | [CharacterOptionsPlus](#CharacterOptionsPlus) | CO+扩展 | 自带 | :heavy_check_mark: | :+1::+1::+1: | :file_folder::file_folder::file_folder: |||
 | [DarkCodex](#DarkCodex) | DC扩展修复 | 自带 | :heavy_check_mark: | :v::heart_eyes::v: |  :file_folder::file_folder::file_folder: |🛠️🛠️ ||
-| [AddedFeats](#AddedFeats) | 新增专长 | QL汉化 | :heavy_check_mark: |  :+1::+1: |  :file_folder::file_folder: ||:steam_locomotive:|
+| [AddedFeats](#AddedFeats) | 新增专长 | QL汉化 | :heavy_check_mark: |  :+1::+1: |  :file_folder::file_folder: |||
 | [BetterBackgrounds](#BetterBackgrounds) | 更多背景 | QL汉化| :x: |:+1::+1: | :file_folder: | 🛠️ ||
 | [MartialExcellence](#MartialExcellence) | 杰出武艺 | 自带 |:heavy_check_mark: | :+1::+1: | :file_folder::file_folder: |||
 | [MediumClass](#MediumClass)| 通灵者职业 |  | :heavy_check_mark: |  | :file_folder: ||:steam_locomotive:|
@@ -63,7 +63,7 @@
 | [WorldCrawl](#WorldCrawl) | 大型重置 | |:heavy_check_mark: | |:file_folder::file_folder::file_folder:|🛠️🛠️🛠️||
 | [AlternateHumanTraits](#AlternateHumanTraits)|人类替换特性|QL汉化| :heavy_check_mark: | :+1: | :file_folder: |||
 | [WOTR_IsekaiMod](#WOTR_IsekaiMod) | 异世界主角| |:heavy_check_mark: | :+1: | :file_folder: |||
-| [Way-of-the-shield](#Way-of-the-shield) | 盾牌之道 |自带 |:heavy_check_mark: | :+1: | :file_folder::file_folder: |🛠️|:steam_locomotive:|
+| [Way-of-the-shield](#Way-of-the-shield) | 盾牌之道 |自带 |:heavy_check_mark: | :+1: | :file_folder::file_folder: |🛠️||
 | [CyniikalBrokenFeatures](#CyniikalBrokenFeatures) | 法师虚学派 |QL汉化| :heavy_check_mark: | :+1: | :file_folder::file_folder: |||
 | [随军神父](#随军神父) | 随军神父 | 自带 | :heavy_check_mark: | :+1: | :file_folder: |||
 | [CompanionAscension](#CompanionAscension) | 同伴提升 |  | :heavy_check_mark: | :+1: | :file_folder: ||:steam_locomotive:|
@@ -2852,6 +2852,7 @@ Metamagic Master 超魔主宰：指定一个法术。当你超魔施展该法术
 > *安装方式：* **UMM**<br>
 > *修改内容：* <br>
 > *新增内容：* 专长，法术<br>
++ **注意！本MOD原更新网址不适用于新版，请在本页面右侧下载重编译版**
 + 小型内容Mod，持续开发中
 
  <table>  
@@ -3336,6 +3337,7 @@ C:\Users\你的用户名\AppData\LocalLow\Owlcat Games\Pathfinder Wrath Of The R
 > *安装方式：* **UMM**<br>
 > *修改内容：* 夹击规则<br>
 > *新增内容：* 变体、专长<br>
++ **注意！本MOD原更新网址不适用于新版，请在本页面右侧下载重编译版**
 + 提供了还原桌面规则的夹击功能
 + 提供了盾牌的原创规则
 + 提供了新变体和专长
