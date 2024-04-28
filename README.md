@@ -3652,7 +3652,7 @@ C:\Users\你的用户名\AppData\LocalLow\Owlcat Games\Pathfinder Wrath Of The R
 
 -------------------------------------------   
 ### [PrestigePlus](https://github.com/YLMstring/PrestigePlus)
-> *前置：* 影舞者专长需要MicroscopicContentExpansion和TabletopTweaks-Core，戍乡人专长需要TabletopTweaks-Base和ExpandedContent,<br>
+> *前置：* 影舞者专长需要MicroscopicContentExpansion和TabletopTweaks-Core，戍乡人专长需要TabletopTweaks-Base和ExpandedContent,德丝娜的流星飞刃需要CharacterOptionsPlus<br>
 > *中文：* **自带中文**<br>
 > *安装方式：* **UMM**<br>
 > *新增内容：* 进阶职业<br>
