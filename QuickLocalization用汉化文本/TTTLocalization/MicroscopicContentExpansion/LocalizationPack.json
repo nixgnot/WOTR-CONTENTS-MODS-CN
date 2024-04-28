@@ -3762,6 +3762,28 @@
       "frFR": null,
       "zhCN": "鬼契",
       "esES": null
+    },
+    {
+      "Key": "3c3831fa04054f5397cef7e0deefd006",
+      "SimpleName": "WidenAurasBuff.Description",
+      "ProcessTemplates": true,
+      "enGB": "The range of your antipaladin auras doubles.",
+      "ruRU": null,
+      "deDE": null,
+      "frFR": null,
+      "zhCN": 你的反圣武士灵光范围翻倍。,
+      "esES": null
+    },
+    {
+      "Key": "1f126b7b6ed14a7bbe5b3240a130e600",
+      "SimpleName": "WidenAurasBuff.Name",
+      "ProcessTemplates": false,
+      "enGB": "Widen Auras",
+      "ruRU": null,
+      "deDE": null,
+      "frFR": null,
+      "zhCN": 灵光扩展,
+      "esES": null
     }
   ]
 }
