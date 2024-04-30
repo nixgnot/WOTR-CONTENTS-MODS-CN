@@ -24674,6 +24674,194 @@
       "ProcessTemplates": true,
       "zhCN": "旧神圣子获得一本法术书，并从血脉狂怒者法术列表选择等同于3＋智力调整值数量的法术加入法术书。\n虽然他们无法在5级之前释放这些法术，但他们每级都可以额外添加一个法术到法术书中，并且可以将卷轴的法术抄写到法术书中。",
       "enGB": "The child of Acavna and Amaznen gains a spellbook starting with spells from the bloodrager spelllist equal to 3 + their Intelligence modifier. \nWhile they are unable to cast these spells before 5th level, they may add one additional per level and copy spells from scrolls into the spellbook until then."
+
+      "Key": "2ef8d62d9d63418884a6eac4f96a2fd1",
+      "SimpleName": "ArcaneConcordanceAbility.Description",
+      "ProcessTemplates": true,
+      "zhCN": "微微闪烁的金蓝色光芒围绕着你，并增强在该区域内的你的盟友所施放的奥术。任何在施法者10英尺范围内的生物所施放的奥术，其豁免DC均获得+1增强加值，此外能够如同已对法术应用超魔专长法术延时或法术及远般施放法术 (这不需要提高法术等级也不会延长施放时间，当你施放秘法调和时，选择一种超魔专长)。",
+      "enGB": "A shimmering, blue and gold radiance surrounds you, enhancing arcane spells cast within its area. Any arcane spell cast by a creature within 10 feet of the caster gains a +1 enhancement bonus to the DC of any saving throws against the spell, and is cast as if one of either the Extend Spell or Reach spell metamagic feats have been applied to it (without increasing the spell level or Casting Time; you choose the metamagic feat when you cast arcane concordance)."
+    },
+    {
+      "Key": "31e067155c5e44edbdf6ffdbde46ed18",
+      "SimpleName": "ArcaneConcordanceAbility.Name",
+      "ProcessTemplates": false,
+      "zhCN": "秘法调和",
+      "enGB": "Arcane Concordance"
+    },
+    {
+      "Key": "5bbb521f1ee44ebdb82fe26e48fd6f34",
+      "SimpleName": "ReachArcaneConcordanceAbility.Description",
+      "ProcessTemplates": true,
+      "zhCN": "微微闪烁的金蓝色光芒围绕着你，并增强在该区域内的你的盟友所施放的奥术。任何在施法者10英尺范围内的生物所施放的奥术，其豁免DC均获得+1增强加值，此外能够如同已对法术应用超魔专长法术及远般施放法术 (这不需要提高法术等级也不会延长施放时间)。",
+      "enGB": "A shimmering, blue and gold radiance surrounds you, enhancing arcane spells cast within its area. Any arcane spell cast by a creature within 10 feet of the caster gains a +1 enhancement bonus to the DC of any saving throws against the spell, and is cast as if the Reach Spell metamagic feat has been applied to it (without increasing the spell level)."
+    },
+    {
+      "Key": "3c965824a2e94f33b0dfed40e2b2f127",
+      "SimpleName": "ReachArcaneConcordanceEffectBuff.Description",
+      "ProcessTemplates": true,
+      "zhCN": "在秘法调和光环范围内，你施放的任何奥术其豁免DC均获得+1增强加值，并且能够如同已对法术应用超魔专长法术及远般施放法术 (这不需要提高法术等级也不会延长施放时间)。",
+      "enGB": "While inside the arcane concordance aura, any arcane spell cast my you gains a +1 enhancement bonus to the DC of any saving throws against the spell, and is cast as if the Reach Spell metamagic feat has been applied to it (without increasing the spell level or Casting Time)."
+    },
+    {
+      "Key": "1b34af6788844907ab3257acc600a266",
+      "SimpleName": "ReachArcaneConcordanceEffectBuff.Name",
+      "ProcessTemplates": false,
+      "zhCN": "秘法调和 - 及远",
+      "enGB": "Arcane Concordance - Reach"
+    },
+    {
+      "Key": "2c2ac35f4dce45918ca4190e8b009f33",
+      "SimpleName": "ReachArcaneConcordanceSelfBuff.Description",
+      "ProcessTemplates": true,
+      "zhCN": "微微闪烁的金蓝色光芒围绕着你，并增强在该区域内的你的盟友所施放的奥术。任何在施法者10英尺范围内的生物所施放的奥术，其豁免DC均获得+1增强加值，此外能够如同已对法术应用超魔专长法术及远般施放法术 (这不需要提高法术等级也不会延长施放时间)。",
+      "enGB": "A shimmering, blue and gold radiance surrounds you, enhancing arcane spells cast within its area. Any arcane spell cast by a creature within 10 feet of the caster gains a +1 enhancement bonus to the DC of any saving throws against the spell, and is cast as if the Reach Spell metamagic feat has been applied to it (without increasing the spell level)."
+    },
+    {
+      "Key": "d064ef824b294befb605fdf3da88a202",
+      "SimpleName": "ReachArcaneConcordanceSelfBuff.Name",
+      "ProcessTemplates": false,
+      "zhCN": "秘法调和 - 及远光环",
+      "enGB": "Arcane Concordance - Reach Aura"
+    },
+    {
+      "Key": "abe21aecc90746e8b5fb8ac6597ccdc7",
+      "SimpleName": "ExtendArcaneConcordanceAbility.Description",
+      "ProcessTemplates": true,
+      "zhCN": "微微闪烁的金蓝色光芒围绕着你，并增强在该区域内的你的盟友所施放的奥术。任何在施法者10英尺范围内的生物所施放的奥术，其豁免DC均获得+1增强加值，此外能够如同已对法术应用超魔专长法术延时般施放法术 (这不需要提高法术等级也不会延长施放时间)。",
+      "enGB": "A shimmering, blue and gold radiance surrounds you, enhancing arcane spells cast within its area. Any arcane spell cast by a creature within 10 feet of the caster gains a +1 enhancement bonus to the DC of any saving throws against the spell, and is cast as if the Extend Spell metamagic feat has been applied to it (without increasing the spell level)."
+    },
+    {
+      "Key": "dd0c88b1418a4883b60076e7056eb0be",
+      "SimpleName": "ExtendArcaneConcordanceEffectBuff.Description",
+      "ProcessTemplates": true,
+      "zhCN": "在秘法调和光环范围内，你施放的任何奥术其豁免DC均获得+1增强加值，并且能够如同已对法术应用超魔专长法术延时般施放法术 (这不需要提高法术等级也不会延长施放时间)。",
+      "enGB": "While inside the arcane concordance aura, any arcane spell cast gains a +1 enhancement bonus to the DC of any saving throws against the spell, and is cast as if the Extend Spell metamagic feat has been applied to it (without increasing the spell level or Casting Time)."
+    },
+    {
+      "Key": "bf016ffadb6b4fb1b3f6e565cb6a3344",
+      "SimpleName": "ExtendArcaneConcordanceEffectBuff.Name",
+      "ProcessTemplates": false,
+      "zhCN": "秘法调和 - 延时光环",
+      "enGB": "Arcane Concordance - Extend"
+    },
+    {
+      "Key": "a58c602faee14b8384f3f8aca7f61fac",
+      "SimpleName": "ExtendArcaneConcordanceSelfBuff.Description",
+      "ProcessTemplates": true,
+      "zhCN": "微微闪烁的金蓝色光芒围绕着你，并增强在该区域内的你的盟友所施放的奥术。任何在施法者10英尺范围内的生物所施放的奥术，其豁免DC均获得+1增强加值，此外能够如同已对法术应用超魔专长法术延时般施放法术 (这不需要提高法术等级也不会延长施放时间)。",
+      "enGB": "A shimmering, blue and gold radiance surrounds you, enhancing arcane spells cast within its area. Any arcane spell cast by a creature within 10 feet of the caster gains a +1 enhancement bonus to the DC of any saving throws against the spell, and is cast as if the Extend Spell metamagic feats has been applied to it (without increasing the spell level)."
+    },
+    {
+      "Key": "2b2d81a679c54b72b2e5869200ef8281",
+      "SimpleName": "ExtendArcaneConcordanceSelfBuff.Name",
+      "ProcessTemplates": false,
+      "zhCN": "秘法调和 - 延时光环",
+      "enGB": "Arcane Concordance - Extend Aura"
+    },
+    {
+      "Key": "07cbde98565142abb0e41bf0130e8350",
+      "SimpleName": "BloodMistAbility.Description",
+      "ProcessTemplates": true,
+      "zhCN": "该法术会召唤出有毒藻类所组成的锈红色血雾。任何在血雾之内的生物会被它所覆盖，将他们转化为相同的微红色。所有在血雾中的目标会获得隐蔽。任何在血雾中未通过豁免检定的生物会受到1d4点感知伤害并且变得暴怒，攻击他所感知到的最近的生物 (如同困惑状态中的‘攻击最近的生物’)。这种暴怒为持续1分钟/施法者等级。每当生物进入血雾中只需要进行一次豁免 (尽管离开之后再进入需要再进行一次豁免)。",
+      "enGB": "This spell summons forth a misty cloud of rust-red toxic algae. Any creature within the mist is coated by it, turning the creature the same reddish color. All targets within the mist gain concealment. Any creature within the mist must save or take 1d4 points of Wisdom damage and become enraged, attacking any creatures it detects nearby (as the “attack nearest creature” result of the confused condition). An enraged creature remains so for one minute per caster level. A creature only needs to save once each time it is within the mist (though leaving and returning requires another save)."
+    },
+    {
+      "Key": "ba32517b2edf4d678d6a2567c6defc94",
+      "SimpleName": "BloodMistAttackBuff.Description",
+      "ProcessTemplates": true,
+      "zhCN": "任何在血雾中未通过豁免检定的生物会受到1d4点感知伤害并且变得暴怒，攻击他所感知到的最近的生物 (如同困惑状态中的‘攻击最近的生物’)。这种暴怒为持续1分钟/施法者等级。每当生物进入血雾中只需要进行一次豁免 (尽管离开之后再进入需要再进行一次豁免)。",
+      "enGB": "Any creature within the mist that fails it's save take 1d4 points of Wisdom damage and become enraged, attacking any creatures it detects nearby (as the “attack nearest creature” result of the confused condition). An enraged creature remains so for one minute per caster level. A creature only needs to save once each time it is within the mist (though leaving and returning requires another save)."
+    },
+    {
+      "Key": "3a389ff0f5c5463b86dd52d414ce73ed",
+      "SimpleName": "BloodMistAttackBuff.Name",
+      "ProcessTemplates": false,
+      "zhCN": "血雾术",
+      "enGB": "Blood Mist"
+    },
+    {
+      "Key": "4ad3a359cdce4265a629cd6531cfd371",
+      "SimpleName": "BloodMistConcealmentBuff.Description",
+      "ProcessTemplates": true,
+      "zhCN": "任何在血雾之内的生物会被它所覆盖，将他们转化为相同的微红色。所有在血雾中的目标会获得隐蔽。",
+      "enGB": "Any creature within the blood mist is coated by it, turning the creature a reddish color. All targets within the mist gain concealment."
+    },
+    {
+      "Key": "35bd2003d8a34037a8c9b53bfbd5e81c",
+      "SimpleName": "BloodMistConcealmentBuff.Name",
+      "ProcessTemplates": false,
+      "zhCN": "血雾隐蔽",
+      "enGB": "Blood Mist Concealment"
+    },
+    {
+      "Key": "7732f0a0e9d240e6953e9154de4c610e",
+      "SimpleName": "DustOfTwilightAbility.Description",
+      "ProcessTemplates": true,
+      "zhCN": "一股紫黑色的烟尘倾泻而下，驱散任何形式的闪光尘。\n范围内的生物除非通过一次强韧检定否则进入疲乏(fatigued)状态。",
+      "enGB": "A shower of iridescent black particles clings in the air, removing all forms of glitterdust. \nCreatures in the area must make a Fortitude save or become fatigued."
+    },
+    {
+      "Key": "de4a8e48354d4ba3b78a12417b73b8ee",
+      "SimpleName": "DustOfTwilightAbility.Name",
+      "ProcessTemplates": false,
+      "zhCN": "暮光之尘",
+      "enGB": "Dust of Twilight"
+    },
+    {
+      "Key": "de37d916f36a4750b65520820575874f",
+      "SimpleName": "DustOfTwilightAbility.SavingThrow",
+      "ProcessTemplates": false,
+      "zhCN": "强韧豁免通过（仅无效疲乏）",
+      "enGB": "Fortitude negates (fatigue only)"
+    },
+    {
+      "Key": "5c82558034744fd3998b07e0cd98bc8d",
+      "SimpleName": "KingsCastleAbility.Description",
+      "ProcessTemplates": true,
+      "zhCN": "当你施放此法术时，选择一名盟友。你传送到你的盟友所在的位置，而你的盟友则传送到你原来的位置。",
+      "enGB": "When you cast this spell, choose a single ally. You teleport to your ally’s space while your ally teleports to your former space."
+    },
+    {
+      "Key": "6614686d60cb4b3fa9c7df1f9bb0b2e3",
+      "SimpleName": "KingsCastleAbility.Name",
+      "ProcessTemplates": false,
+      "zhCN": "王车易位",
+      "enGB": "King's Castle"
+    },
+    {
+      "Key": "64753fc05bd244d19aa718f1c51fa236",
+      "SimpleName": "MoonstruckAbility.Description",
+      "ProcessTemplates": true,
+      "zhCN": "你让月亮的神秘力量进入一个生物并使其陷入一种疯狂的狂热状态。如果目标豁免失败，它会先晕眩 (Daze) 一轮，然后它的指甲和牙齿将会伸长并变得尖锐。目标获得一次啮咬攻击和两次爪抓攻击，使用对应体型的伤害，并且在法术的剩余时间内，目标都视为同时处于狂暴术和困惑术效果之下。在法术持续时间的最后一轮，目标将会再次陷入晕眩，并恢复正常状态。",
+      "enGB": "You invoke the mystical power of the moon to drive the target into a mad, bestial frenzy. If the target fails its save, it is dazed for 1 round, its nails and teeth elongate and sharpen. The target gains a bite attack and two claw attacks that deal damage appropriate for the creature’s size, and for the remainder of the spell’s duration the target behaves as if under simultaneous rage and confusion spells. During the final round of the spell’s duration, the target is again dazed as it returns to its normal state.\nRage: Each affected creature gains a +2 morale bonus to Strength and Constitution, a +1 morale bonus on Will saves, and a –2 penalty to AC and cannot cast spells.\nConfusion: This spell causes confusion in the targets, making them unable to determine their actions. Roll d100 and consult the following table at the start of each subject's turn each round to see what it does in that round.\n01–25: Acts normally\n26–50: Does nothing but babble incoherently\n51–75: Deals (1d8 points of damage + Strength modifier) to self with item in hand\n76–100: Attacks nearest creature"
+    },
+    {
+      "Key": "17447c105f084141b05d07d68c9caec5",
+      "SimpleName": "MoonstruckBuff.Description",
+      "ProcessTemplates": true,
+      "zhCN": "你让月亮的神秘力量进入一个生物并使其陷入一种疯狂的狂热状态。如果目标豁免失败，它会先晕眩 (Daze) 一轮，然后它的指甲和牙齿将会伸长并变得尖锐。目标获得一次啮咬攻击和两次爪抓攻击，使用对应体型的伤害，并且在法术的剩余时间内，目标都视为同时处于狂暴术和困惑术效果之下。在法术持续时间的最后一轮，目标将会再次陷入晕眩，并恢复正常状态。",
+      "enGB": "You invoke the mystical power of the moon to drive the target into a mad, bestial frenzy. If the target fails its save, it is dazed for 1 round, its nails and teeth elongate and sharpen. The target gains a bite attack and two claw attacks that deal damage appropriate for the creature’s size, and for the remainder of the spell’s duration the target behaves as if under simultaneous rage and confusion spells. During the final round of the spell’s duration, the target is again dazed as it returns to its normal state.\nRage: Each affected creature gains a +2 morale bonus to Strength and Constitution, a +1 morale bonus on Will saves, and a –2 penalty to AC and cannot cast spells.\nConfusion: This spell causes confusion in the targets, making them unable to determine their actions. Roll d100 and consult the following table at the start of each subject's turn each round to see what it does in that round.\n01–25: Acts normally\n26–50: Does nothing but babble incoherently\n51–75: Deals (1d8 points of damage + Strength modifier) to self with item in hand\n76–100: Attacks nearest creature"
+    },
+    {
+      "Key": "c6ede91556a6487db925cbbe278ad3df",
+      "SimpleName": "MoonstruckBuff.Name",
+      "ProcessTemplates": false,
+      "zhCN": "痴狂月光",
+      "enGB": "Moonstruck"
+    },
+    {
+      "Key": "06e773ec5bfd4e9e8e2f60369a0d4dde",
+      "SimpleName": "MoonstruckDazeBuff.Description",
+      "ProcessTemplates": true,
+      "zhCN": "在痴狂月光效果的第一轮和最后一轮，目标会因为法术的变形效果陷入晕眩状态",
+      "enGB": "During the first round of the moonstruck tranformation, and on the round it ends, the target is dazed by the transformative effects of the spell."
+    },
+    {
+      "Key": "5237373edbc54614902e682e1346da89",
+      "SimpleName": "MoonstruckDazeBuff.Name",
+      "ProcessTemplates": false,
+      "zhCN": "痴狂月光 晕眩",
+      "enGB": "Moonstruck Daze"
     }
   ]
 }
