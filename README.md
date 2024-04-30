@@ -84,6 +84,7 @@
 | [RandomEquipment](#RandomEquipment) | 随机装备 | 暂无 | :heavy_check_mark: | :+1::+1: | :file_folder: |🛠️||
 | [MythicSpellFlexibility](#MythicSpellFlexibility) | 暂无 | 暂无 | :heavy_check_mark: | :+1:| :file_folder: |🛠️||
 | [Spell Slot Freedom](#SpellSlotFreedom) | 暂无 | 暂无 | :heavy_check_mark: | :+1:| :file_folder: |🛠️||
+| [Magic Armory](#MagicArmory) | 暂无 | 暂无 | :heavy_check_mark: | :+1:| :file_folder: |🛠️||
 
 备注
 + UMM一栏为是否使用UMM安装
@@ -3127,7 +3128,7 @@ C:\Users\你的用户名\AppData\LocalLow\Owlcat Games\Pathfinder Wrath Of The R
 > *安装方式：* **UMM**<br>
 > *修改内容：* <br>
 > *新增内容：* 操念使元素<br>
-+ 为操念使加入Aether 以太、Void 虚空、Wood 木三种元素
+ 为操念使加入Aether 以太、Void 虚空、Wood 木三种元素
   <table>  
   <tr><th colspan="4">新增内容列表<br></th></tr> 
   <tr><th colspan="22">以太 Aether<br></th></tr>
@@ -4298,6 +4299,20 @@ C:\Users\你的用户名\AppData\LocalLow\Owlcat Games\Pathfinder Wrath Of The R
 + DC 不会增加 - 因为根据规则它不应该增加
 + 仅适用于鼠标和键盘。
 
+------------------------------------------- 
+### [MagicArmory](https://github.com/alterasc/MagicArmory) 
+> *前置：* 无<br>
+> *中文：* **无**<br>
+> *安装方式：* **UMM**<br>
+> *新增内容：* 目前新增加两个装备<br>
+<table>
+<tr><th colspan="3">道具列表<br></th></tr> 
+       <tr><td colspan="2">Belt of Mighty Hurling (Lesser) 位于第二章的怀尔瑟·格阿姆斯处<br>力量获得＋2增强加值且允许使用投掷武器时使用力量代替敏捷提供攻击加值</td></tr>
+       <tr><td colspan="2">Muleback Cords 位于第一章酒馆的酒保和第三章的织秘者<br>在计算载重能力时力量视作高8点</td></tr>
+
+</table>   
+
+-------------------------------------------
 ### 功能MOD索引
 + [ToyBox](https://www.nexusmods.com/pathfinderwrathoftherighteous/mods/8) 应该不用介绍？
 + [RespecMod](https://github.com/BarleyFlour/RespecMod) 洗点MOD（允许更自由洗点，自定义初始点数等）
