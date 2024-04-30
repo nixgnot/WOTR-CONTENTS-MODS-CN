@@ -84,7 +84,7 @@
 | [RandomEquipment](#RandomEquipment) | 随机装备 | 暂无 | :heavy_check_mark: | :+1::+1: | :file_folder: |🛠️||
 | [MythicSpellFlexibility](#MythicSpellFlexibility) | 暂无 | 暂无 | :heavy_check_mark: | :+1:| :file_folder: |🛠️||
 | [Spell Slot Freedom](#SpellSlotFreedom) | 暂无 | 暂无 | :heavy_check_mark: | :+1:| :file_folder: |🛠️||
-| [Magic Armory](#MagicArmory) | 暂无 | 暂无 | :heavy_check_mark: | :+1:| :file_folder: |🛠️||
+| [Magic Armory](#MagicArmory) | 暂无 | 暂无 | :heavy_check_mark: | :+1:| :file_folder: |||
 
 备注
 + UMM一栏为是否使用UMM安装
