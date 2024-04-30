@@ -1966,12 +1966,15 @@
    <tr><td rowspan="2">DreadKnight 恐惧骑士</td>
            <td>Conqueror 征服者</td></tr> 
            <tr><td>Claw of the False Wyrm 虚龙之爪</td></tr> 
-   <tr><td rowspan="23">变体</td>
-       <td rowspan="2">审判官</td>
+   <tr><td rowspan="27">变体</td>
+       <td rowspan="3">审判官</td>
            <td>Living Scripture 活圣经</td></tr> 
 	   <tr><td>Ravener Hunter 狩魔猎手</td></tr> 
+	   <tr><td>Sworn of the Eldest 原初誓者</td></tr> 
        <tr><td rowspan="1">战斗祭司</td>
            <td>Mantis Zealot 螳螂狂徒</td></tr> 
+       <tr><td rowspan="1">牧师</td>
+           <td>Divine Scourge 神圣鞭笞者</td></tr> 
        <tr><td rowspan="6">德鲁伊</td>
            <td>Mooncaller 唤月者</td></tr> 
            <tr><td>Draconic Druid 龙之德鲁伊</td></tr> 
@@ -1996,17 +1999,24 @@
            <td>Draconic Scholar 龙之学者</td></tr> 
        <tr><td rowspan="1">歌者</td>
            <td>Wyrm Singer 龙战颂者</td></tr> 
-       <tr><td rowspan="2">战士</td>
+       <tr><td rowspan="3">战士</td>
            <td>Archer 弓手</td></tr> 
 	   <tr><td>Spear Fighter 枪矛手</td></tr> 
+	   <tr><td>Child of Acavna and Amaznen 旧神圣子</td></tr> 
        <tr><td rowspan="2">猎人</td>
            <td>Skulking Hunter 潜伏猎手</td></tr>
            <td>Plant Master 植物大师</td></tr>
        <tr><td rowspan="1">骑将</td>
            <td>Drakerider 龙兽骑士</td></tr> 
-   <tr><td rowspan="5">职业特性</td>
+       <tr><td rowspan="1">炼金术师</td>
+           <td>Mindchemist 心智药师</td></tr> 
+   <tr><td rowspan="7">职业特性</td>
        <td>先知秘示域</td>
-       <td>Dragon 龙、Heavens 苍天、Succor 救助、Wood 林木</td></tr>
+       <td>Dragon 龙、Heavens 苍天、Succor 救助、Wood 林木 Winter凛冬</td></tr>
+   <tr><td>战斗祭司祝福</td>
+       <td>Community 团队 Plant 植物 Artifice 手艺 War 战争</td></tr>
+   <tr><td>炼金术师科研发现</td>
+       <td>Pheromones 信息素 Healer's Touch</td></tr>
    <tr><td>先知诅咒</td>
        <td>Vampirism 吸血鬼</td></tr>
    <tr><td>萨满精魂</td>
@@ -2032,8 +2042,8 @@
    <tr><td>领域</td>
        <td>Scalykind 鳞状<br>Plant 植物领域修改为桌面规则</td></tr>
    <tr><td>子领域</td>
-       <td>Agathion 阿加西翁、 Archon 亚空, Blood 血液、Caves 洞穴、Curse 诅咒、 Demon, Dragon 龙、Ferocity 凶猛、Ice 冰、Lust 欲望、Psychopomp 招魂、Rage 狂暴、 Resolve 决心、Restoration 恢复、Revelation 启示、Revolution 革命、Rivers 河流、Stars 星空、Storm 风暴、Thievery 盗窃、Undead 不死、Whimsy 滑稽、Wind 风、Growth 生长、Fist 铁拳、Loyalty 忠诚</td></tr>
-   <tr><td colspan="2" rowspan="29">法术<br><i>参阅PF文档</i></td>
+       <td>Agathion 阿加西翁、 Archon 亚空, Blood 血液、Caves 洞穴、Curse 诅咒、 Demon, Dragon 龙、Ferocity 凶猛、Ice 冰、Lust 欲望、Psychopomp 招魂、Rage 狂暴、 Resolve 决心、Restoration 恢复、Revelation 启示、Revolution 革命、Rivers 河流、Stars 星空、Storm 风暴、Thievery 盗窃、Undead 不死、Whimsy 滑稽、Wind 风、Growth 生长、Fist 铁拳、Loyalty 忠诚 Fist 铁拳 Loyalty 忠诚</td></tr>
+   <tr><td colspan="2" rowspan="34">法术<br><i>参阅PF文档</i></td>
        <td>Hydraulic push 水流冲击</td></tr>
    <tr><td>Slipstream 滑流</td></tr>
    <tr><td>Scourge of the Horsemen 天启诸骑的蹂躏</td></tr>
@@ -2063,6 +2073,11 @@
    <tr><td>Plant Shape 植物形态（I、II、III）</td></tr>
    <tr><td>Shillelagh 橡棍术</td></tr>
    <tr><td>Wooden Phalanx 点木成兵</td></tr>
+   <tr><td>Arcane Concordance 秘法调和</td></tr>
+   <tr><td>Blood Mist 血雾术</td></tr>
+   <tr><td>Dust of Twilight 暮光之尘</td></tr>
+   <tr><td>King's Castle 王车易位</td></tr>
+   <tr><td>Moonstruck 痴狂月光</td></tr>
  </table>   
 
 -------------------------------------------
