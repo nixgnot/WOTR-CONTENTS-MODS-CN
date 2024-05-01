@@ -15544,6 +15544,13 @@
       "zhCN": "\n苍穹为你提供灵感，你从遥远的星光中汲取力量。\n坚御心智：对抗影响心灵效果时，你的豁免获得+2洞察加值。 \n群星归位：在第 8 级，你可以将其他同级的法术位用来自发施放星辰子域的领域法术。你施放的任何星辰子域的领域法术将为你恢复相当于该法术等级的伤害；这个效果将在你施法的同时发生。\n领域法术：熵光护盾、催眠图纹、闪现术、次元门、召唤怪物V、神威如岳、阳炎射线、阳炎爆、极地午夜。"
     },
     {
+      "Key": "4cf86ad973444495bb7782e20b2247cb",
+      "SimpleName": "StarsDomainProgressionSeparatist.Description",
+      "ProcessTemplates": true,
+      "enGB": "\nThe firmament provides you inspiration, and you draw power from the stars’ distant light.\nGuarded Mind: You gain a +2 insight bonus on saving throws against all mind-affecting effects.\nThe Stars Are Right: At 8th level, you may spontaneously cast any of your Stars subdomain spells by swapping out a spell of an equal spell level. Any Stars subdomain spell that you cast heals you an amount of hit point damage equal to the spell’s level; this effect happens as you cast the spell.\nDomain Spells: entropic shield, hypnotic pattern, blink, dimension door, summon monster V, overwhelming presence, sunbeam, sunburst, meteor swarm.",
+      "zhCN": "\n苍穹为你提供灵感，你从遥远的星光中汲取力量。\n坚御心智：对抗影响心灵效果时，你的豁免获得+2洞察加值。 \n群星归位：在第 8 级，你可以将其他同级的法术位用来自发施放星辰子域的领域法术。你施放的任何星辰子域的领域法术将为你恢复相当于该法术等级的伤害；这个效果将在你施法的同时发生。\n领域法术：熵光护盾、催眠图纹、闪现术、次元门、召唤怪物V、神威如岳、阳炎射线、阳炎爆、极地午夜。"
+    },
+    {
       "Key": "7fedd8f83d2c44c2850b3cd17ff73ad3",
       "SimpleName": "SteamRayFusilladeAbility.Description",
       "ProcessTemplates": true,
@@ -21809,6 +21816,34 @@
       "zhCN": "信息素"
     },
     {
+      "Key": "ef7e0019d1664031a8b9e58cbb78d6c8",
+      "SimpleName": "ChildOfAcavnaAndAmaznenArchetype.Description",
+      "ProcessTemplates": false,
+      "enGB": "The child of Acavna and Amaznen has trained in the nearly forgotten arts of Azlant passed down by Aroden, which combine martial prowess with elementary wizardry. Inspired by the deities Aroden once worshiped long ago, children of Acavna and Amaznen strive to understand the dangers of the world and overcome them with knowledge and strength of arms.",
+      "zhCN": "有一群战士致力于修炼由人类之神奥罗登亲自传授的阿兹兰特秘艺。将格斗和战术结合以奥术魔法的施展，圣子敬拜奥罗登曾经崇拜的阿兹兰特旧神，以自己的知识与武技扫清人神逝去之后存留于世界的危险和黑暗。"
+    },
+    {
+      "Key": "cb2fa924bee848438d6944fa7e652ff2",
+      "SimpleName": "ChildOfAcavnaAndAmaznenProficiencies.Description",
+      "ProcessTemplates": true,
+      "enGB": "A child of Acavna and Amaznen is proficient with all simple weapons, one-handed martial weapons, all armor (heavy, light, and medium) and shields (excluding tower shields).",
+      "zhCN": "旧神圣子擅长使用所有的简易武器和单手军用武器，同时擅长所有类型盔甲（重甲，中甲，轻甲）和盾牌（不包括塔盾）。"
+    },
+    {
+      "Key": "9162a6cfe248492dbea47a2bc8c480f9",
+      "SimpleName": "ChildOfAcavnaAndAmaznenProficiencies.Name",
+      "ProcessTemplates": false,
+      "enGB": "Child of Acavna and Amaznen Proficiencies",
+      "zhCN": "旧神圣子擅长"
+    },
+    {
+      "Key": "61b3d2af91c64f859c202b549ed56f2c",
+      "SimpleName": "ChildOfAcavnaAndAmaznenSpellbook.Name",
+      "ProcessTemplates": false,
+      "enGB": "Child of Acavna and Amaznen",
+      "zhCN": "旧神圣子"
+    },
+    {
       "Key": "258a8e095ef94b1cb968d1d2dbf12c9d",
       "SimpleName": "EldritchArmorTrainingAbility.Description",
       "ProcessTemplates": true,
@@ -21912,6 +21947,2922 @@
       "ProcessTemplates": false,
       "enGB": "One Handed Martial Weapons Proficiency",
       "zhCN": "单手军用武器擅长"
+    },
+    {
+      "Key": "85a7f11ec34e4be8a92235a4db7ceec2",
+      "SimpleName": "QuickenBlessingArtificeFeature.Description",
+      "ProcessTemplates": true,
+      "IsUsed": false,
+    "zhCN": "选择你的一项祝福，你可以用迅捷动作开启这项祝福，消耗两次每日祝福次数。",
+    "enGB": "Choose one of your blessings that normally requires a standard action to use. You can expend two of your daily uses of blessings to deliver that blessing (regardless of whether it’s a minor or major effect) as a swift action instead."
+    },
+    {
+      "Key": "dd4b9ceab7894f3fa046238ec4b10f2a",
+      "SimpleName": "QuickenBlessingArtificeFeature.Name",
+      "ProcessTemplates": false,
+    "zhCN": "迅捷祝福 — 手艺",
+    "enGB": "Quicken Blessing — Artifice"
+    },
+    {
+      "Key": "616c16cb91d04c67bbc0ea4f75d3e073",
+      "SimpleName": "QuickenBlessingCommunityFeature.Name",
+      "ProcessTemplates": false,
+    "zhCN": "迅捷祝福 — 团队",
+    "enGB": "Quicken Blessing — Community"
+    },
+    {
+      "Key": "6c1307f390614b21b90babbf140e63a9",
+      "SimpleName": "QuickenBlessingPlantFeature.Name",
+      "ProcessTemplates": false,
+    "zhCN": "迅捷祝福 — 植物",
+    "enGB": "Quicken Blessing — Plant"
+    },
+    {
+      "Key": "ad19a49d2eca43b28c22dce5c4200be3",
+      "SimpleName": "QuickenBlessingWarFeature.Description",
+      "ProcessTemplates": true,
+    "zhCN": "选择你的一项祝福，你可以用迅捷动作开启这项祝福，消耗两次每日祝福次数。",
+    "enGB": "Choose one of your blessings that normally requires a standard action to use. You can expend two of your daily uses of blessings to deliver that blessing (regardless of whether it’s a minor or major effect) as a swift action instead."
+    },
+    {
+      "Key": "273da89681244145b7a22c36fdfe0d3d",
+      "SimpleName": "QuickenBlessingWarFeature.Name",
+      "ProcessTemplates": false,
+    "zhCN": "迅捷祝福 — 战争",
+    "enGB": "Quicken Blessing — War"
+    },
+    {
+      "Key": "c85a858b9113422cbb19c848b6d1ef6a",
+      "SimpleName": "WarBlessingFeature.Description",
+      "ProcessTemplates": true,
+    "zhCN": "在1级时，你可以接触一个盟友，赋予他战术上的优势一分钟。在此期间，盟友以下一种加值：移动速度+10尺；+1闪避AC；攻击检定+1洞察加值；所有的豁免检定+1幸运加值。\n在10级时，你可以接触一个盟友，赋予他对争斗无尽的热望。这个生物的所有近战攻击效果都视为他的武器拥有恶毒附魔。除此之外，这个生物在确认重击时在攻击检定上获得+4洞察加值。这个效果持续一分钟。",
+    "enGB": "At 1st level, you can touch an ally and grant it a tactical advantage for 1 minute. The ally gets one of the following bonuses: +10 feet to base speed, +1 dodge bonus to AC, +1 insight bonus on attack rolls, or a +1 luck bonus on saving throws. \nAt 10th level, you can touch an ally and grant it a thirst for battle. All of the ally’s melee attacks are treated as if they had the vicious weapon special ability. In addition, the ally receives a +4 insight bonus on attack rolls made to confirm critical hits. These benefits last for 1 minute."
+    },
+    {
+      "Key": "5bb61082f573401e96434aff2fd8e6fe",
+      "SimpleName": "WarBlessingFeature.Name",
+      "ProcessTemplates": false,
+    "zhCN": "战争",
+    "enGB": "War"
+    },
+    {
+      "Key": "c95ad65cb41e477d83dd7c0278c94b71",
+      "SimpleName": "WarBlessingMajorAbility.Description",
+      "ProcessTemplates": true,
+      "IsUsed": false,
+    "zhCN": "在10级时，你可以接触一个盟友，赋予他对争斗无尽的热望。这个生物的所有近战攻击效果都视为他的武器拥有恶毒附魔。除此之外，这个生物在确认重击时在攻击检定上获得+4洞察加值。这个效果持续一分钟。",
+    "enGB": "At 10th level, you can touch an ally and grant it a thirst for battle. All of the ally’s melee attacks are treated as if they had the vicious weapon special ability. In addition, the ally receives a +4 insight bonus on attack rolls made to confirm critical hits. These benefits last for 1 minute."
+    },
+    {
+      "Key": "0a71614097a848e6876a7571ada6c96f",
+      "SimpleName": "WarBlessingMajorBuff.Description",
+      "ProcessTemplates": true,
+    "zhCN": "你的所有近战攻击效果都视为武器拥有恶毒附魔。除此之外，你在确认重击时在攻击检定上获得+4洞察加值。这个效果持续一分钟。",
+    "enGB": "All attacks are treated as if you had the vicious weapon special ability. In addition, you receive a +4 insight bonus on attack rolls made to confirm critical hits. These benefits last for 1 minute."
+    },
+    {
+      "Key": "8d3e01289c6f4ded8e385bdeaad5b9aa",
+      "SimpleName": "WarBlessingMajorBuff.Name",
+      "ProcessTemplates": false,
+    "zhCN": "求战似渴",
+    "enGB": "Battle Lust"
+    },
+    {
+      "Key": "dac04f24e477496d963904bcb2a9612e",
+      "SimpleName": "WarBlessingMajorFeature.Description",
+      "ProcessTemplates": true,
+    "zhCN": "在10级时，你可以接触一个盟友，赋予他对争斗无尽的热望。这个生物的所有近战攻击效果都视为他的武器拥有恶毒附魔。除此之外，这个生物在确认重击时在攻击检定上获得+4洞察加值。这个效果持续一分钟。",
+    "enGB": "At 10th level, you can touch an ally and grant it a thirst for battle. All of the ally’s melee attacks are treated as if they had the vicious weapon special ability. In addition, the ally receives a +4 insight bonus on attack rolls made to confirm critical hits. These benefits last for 1 minute."
+    },
+    {
+      "Key": "4365d1e3f2a8401eae2caab283daee7b",
+      "SimpleName": "WarBlessingMinorAbilityAC.Description",
+      "ProcessTemplates": true,
+      "IsUsed": false,
+    "zhCN": "在1级时，你可以接触一个盟友，给予他AC+1闪避加值。这个效果持续一分钟。",
+    "enGB": "At 1st level, you can touch an ally and grant it +1 dodge bonus to AC for 1 minute."
+    },
+    {
+      "Key": "bfe2eac7d3aa4b98948663a6002a5a6a",
+      "SimpleName": "WarBlessingMinorAbilityACSwift.Description",
+      "ProcessTemplates": true,
+      "IsUsed": false,
+    "zhCN": "在1级时，你可以接触一个盟友，给予他AC+1闪避加值。这个效果持续一分钟。",
+    "enGB": "At 1st level, you can touch an ally and grant it +1 dodge bonus to AC for 1 minute."
+    },
+    {
+      "Key": "ef3f65b367e242109cd6fce5779777bb",
+      "SimpleName": "WarBlessingMinorAbilityAttack.Description",
+      "ProcessTemplates": true,
+      "IsUsed": false,
+    "zhCN": "在1级时，你可以接触一个盟友，给予他AC+1闪避加值。这个效果持续一分钟。",
+    "enGB": "At 1st level, you can touch an ally and grant it +1 insight bonus on attack rolls for 1 minute."
+    },
+    {
+      "Key": "6754e5f4298b4c38a9b5b97321c9ff69",
+      "SimpleName": "WarBlessingMinorAbilityAttackSwift.Description",
+      "ProcessTemplates": true,
+      "IsUsed": false,
+    "zhCN": "在1级时，你可以接触一个盟友，给予他攻击检定+1洞察加值。这个效果持续一分钟",
+    "enGB": "At 1st level, you can touch an ally and grant it +1 insight bonus on attack rolls for 1 minute."
+    },
+    {
+      "Key": "9afd03e0fd0049a3876096aaa8cb632b",
+      "SimpleName": "WarBlessingMinorAbilityBase.Description",
+      "ProcessTemplates": true,
+    "zhCN": "在1级时，你可以接触一个盟友，赋予他战术上的优势一分钟。在此期间，盟友以下一种加值：移动速度+10尺；+1闪避AC；攻击检定+1洞察加值；所有的豁免检定+1幸运加值。",
+    "enGB": "At 1st level, you can touch an ally and grant it a tactical advantage for 1 minute. The ally gets one of the following bonuses: +10 feet to base speed, +1 dodge bonus to AC, +1 insight bonus on attack rolls, or a +1 luck bonus on saving throws. An ally can only benefit from one of these bonuses at a time."
+    },
+    {
+      "Key": "54b75b8cc6a34a488d292d890b35973e",
+      "SimpleName": "WarBlessingMinorAbilityBase.Name",
+      "ProcessTemplates": false,
+    "zhCN": "战地之心",
+    "enGB": "War Mind"
+    },
+    {
+      "Key": "337537d339ca499e90ba0230be68624c",
+      "SimpleName": "WarBlessingMinorAbilitySaves.Description",
+      "ProcessTemplates": true,
+      "IsUsed": false,
+    "zhCN": "在1级时，你可以接触一个盟友，给予他所有的豁免检定+1幸运加值。这个效果持续一分钟",
+    "enGB": "At 1st level, you can touch an ally and grant it +1 luck bonus on saving throws for 1 minute."
+    },
+    {
+      "Key": "642de3a0e3f54ae8b7a9b0278b3f06ef",
+      "SimpleName": "WarBlessingMinorAbilitySavesSwift.Description",
+      "ProcessTemplates": true,
+      "IsUsed": false,
+    "zhCN": "在1级时，你可以接触一个盟友，给予他所有的豁免检定+1幸运加值。这个效果持续一分钟",
+    "enGB": "At 1st level, you can touch an ally and grant it +1 luck bonus on saving throws for 1 minute."
+    },
+    {
+      "Key": "60b26c6071b2405e918fbe6ebdf0f248",
+      "SimpleName": "WarBlessingMinorAbilitySpeed.Description",
+      "ProcessTemplates": true,
+      "IsUsed": false,
+    "zhCN": "在1级时，你可以接触一个盟友，给予他移动速度+10尺。这个效果持续一分钟",
+    "enGB": "At 1st level, you can touch an ally and grant it +10 feet to base speed for 1 minute."
+    },
+    {
+      "Key": "2a024f6969114207a702db55aef83282",
+      "SimpleName": "WarBlessingMinorAbilitySpeedSwift.Description",
+      "ProcessTemplates": true,
+      "IsUsed": false,
+    "zhCN": "在1级时，你可以接触一个盟友，给予他移动速度+10尺。这个效果持续一分钟",
+    "enGB": "At 1st level, you can touch an ally and grant it +10 feet to base speed for 1 minute."
+    },
+    {
+      "Key": "b47ace57fd67428f8e2a03237fe69372",
+      "SimpleName": "WarBlessingMinorBuffAC.Description",
+      "ProcessTemplates": true,
+    "zhCN": "在1级时，你可以接触一个盟友，给予他AC+1闪避加值。这个效果持续一分钟。",
+    "enGB": "At 1st level, you can touch an ally and grant it +1 dodge bonus to AC for 1 minute."
+    },
+    {
+      "Key": "04dcbc3490b7419bac9223eaf963472b",
+      "SimpleName": "WarBlessingMinorBuffAC.Name",
+      "ProcessTemplates": false,
+    "zhCN": "战地之心-AC",
+    "enGB": "War Mind - AC"
+    },
+    {
+      "Key": "1862eaa63dc2485e9ab0a27cfe3f9a76",
+      "SimpleName": "WarBlessingMinorBuffAttack.Description",
+      "ProcessTemplates": true,
+    "zhCN": "在1级时，你可以接触一个盟友，给予他攻击检定+1洞察加值。这个效果持续一分钟",
+    "enGB": "At 1st level, you can touch an ally and grant it +1 insight bonus on attack rolls for 1 minute."
+    },
+    {
+      "Key": "b879c91c05404e92be2cf53ac2465f58",
+      "SimpleName": "WarBlessingMinorBuffAttack.Name",
+      "ProcessTemplates": false,
+    "zhCN": "战地之心-攻击",
+    "enGB": "War Mind - Attack"
+    },
+    {
+      "Key": "56eeb3b2be454eddb0fe6bd63e97870b",
+      "SimpleName": "WarBlessingMinorBuffSaves.Description",
+      "ProcessTemplates": true,
+    "zhCN": "在1级时，你可以接触一个盟友，给予他所有的豁免检定+1幸运加值。这个效果持续一分钟",
+    "enGB": "At 1st level, you can touch an ally and grant it +1 luck bonus on saving throws for 1 minute."
+    },
+    {
+      "Key": "642ff87b19d049d490663fff16e559ec",
+      "SimpleName": "WarBlessingMinorBuffSaves.Name",
+      "ProcessTemplates": false,
+    "zhCN": "战地之心-豁免",
+    "enGB": "War Mind - Saves"
+    },
+    {
+      "Key": "cc2a8757456b4d64b21c9a04ecb9a7f0",
+      "SimpleName": "WarBlessingMinorBuffSpeed.Description",
+      "ProcessTemplates": true,
+    "zhCN": "在1级时，你可以接触一个盟友，给予他移动速度+10尺。这个效果持续一分钟",
+    "enGB": "At 1st level, you can touch an ally and grant it +10 feet to base speed for 1 minute."
+    },
+    {
+      "Key": "888b367ecd964657b963412af6786a4a",
+      "SimpleName": "WarBlessingMinorBuffSpeed.Name",
+      "ProcessTemplates": false,
+    "zhCN": "战地之心-速度",
+    "enGB": "War Mind - Speed"
+    },
+    {
+      "Key": "c34d70b76bad4a42aa999836ecb75599",
+      "SimpleName": "DivineTrackerAirBlessingFeature.Description",
+      "ProcessTemplates": true,
+    "zhCN": "1级起，你可以触碰一位盟友，使其在1分钟内的远程攻击不会引发借机攻击。\n13级起，你可以触碰一位盟友，赋予其飞行能力（如同飞翼）。每当该盟友的冲锋攻击命中时，可额外造成等于你的等级的电击伤害。 ",
+    "enGB": "At 1st level, you can touch any one ally. For 1 minute, his ranged attacks doesn't provoke an attack of opportunity.\nAt 13th level, you can touch an ally and give her the gift of flight for 1 minute (as Wings). Whenever the ally succeeds at a charge attack, that attack deals an amount of additional electricity damage equal to your level."
+    },
+    {
+      "Key": "75c61e4210e2491ea5f2bb48f77e71b2",
+      "SimpleName": "DivineTrackerAnimalBlessingFeature.Description",
+      "ProcessTemplates": true,
+    "zhCN": "1级起，你可以触碰一位盟友，赋予其野兽的特征。该盟友获得2次爪抓攻击，若其为中体型，可造成1d6点伤害，小体型则可造成1d4点伤害。这些攻击是主要天生攻击，会取代该盟友原本可能具有的相似主要天生攻击。此效果持续1分钟。\n13级起，你可以召唤出一个战斗伙伴。此能力效果类似于召唤自然盟友V，持续时间为1分钟。无论使用何种召唤列表，此能力只能召唤出一只动物。10级之后每提升2级，召唤自然盟友的法术等级提高1级（18级时达到最大值，即召唤自然盟友IX）。",
+    "enGB": "At 1st level, you can touch one ally and grant it feral features. The ally gains 2 claw attacks that each deal 1d6 points of damage if the ally is Medium or 1d4 if it's Small. These are primary natural attacks that replace any similar primary natural attacks the ally might have. This effect lasts for 1 minute.\nAt 13th level, you can summon a battle companion. This ability functions as summon nature's ally V with a duration of 1 minute. This ability can summon only one animal, regardless of the list used. For every 2 levels beyond 10th, the level of the summon nature's ally spell increases by 1 (to a maximum of summon nature's ally IX at 18th level)."
+    },
+    {
+      "Key": "bd7e17b9ecbf4d45a55d5d454ea4794f",
+      "SimpleName": "DivineTrackerArchetype.Description",
+      "ProcessTemplates": false,
+    "zhCN": "和大多数以行走荒野为日常的游侠不同，神圣追猎者虔诚的侍奉自己信仰的神祇。他们的武器可以更迅捷地杀戮自己的宿敌。",
+    "enGB": "Blessed by his deity, a divine tracker hunts down those he deems deserving of his retribution. His weapon is likely to find purchase in his favored enemy."
+    },
+    {
+      "Key": "5c966a5a3f9e45209cda7dd61a13513e",
+      "SimpleName": "DivineTrackerArchetype.Name",
+      "ProcessTemplates": false,
+    "zhCN": "神圣追猎者",
+    "enGB": "Divine Tracker"
+    },
+    {
+      "Key": "5c12d23c4df04db9a7c075261ef848b9",
+      "SimpleName": "DivineTrackerArtificeBlessingFeature.Description",
+      "ProcessTemplates": true,
+    "zhCN": "在1级时，用一个标准动作，你可以通过触摸一件近战武器给予其超越其他人工制品的力量。在一分钟内，每当该武器对构装体或物体造成伤害时，它无视所有硬度和伤害减免。\n在13级时，你可以暂时将武器附魔从一把武器复制到另一把武器。你可以从你当前装备的武器中复制任何简单的永久附魔。如果你在双头武器上使用这个能力，只有双头武器的一端会受到影响。效果持续1分钟。你可以在同一件武器上多次使用这个能力。\n一些简单附魔的例子有，冰爆，神圣，锐锋，追击。",
+    "enGB": "At 1st level, you can touch an ally and grant them greater power to harm and destroy crafted objects. For 1 minute, whenever this ally deals damage to constructs or objects with melee weapons, they bypasses hardness and damage reduction. \nAt 13th level, you can temporarily copy a weapon enchantment from one weapon to another. You may copy any simple permanent enchant from a weapon you have currently equipped. If you are using this ability on a double weapon, only one end of the double weapon is affected. The copy lasts for 1 minute. You can use this ability multiple times on the same weapon. \nSome examples of simple enchants are, Icy Burst, Holy, Keen, Speed."
+    },
+    {
+      "Key": "c18bf10ab81447cab38dffdad78b45cd",
+      "SimpleName": "DivineTrackerBlessingSelectionFirst.Description",
+      "ProcessTemplates": true,
+      "IsUsed": false,
+    "zhCN": "在4级时，神圣追猎者可以获得自己信仰神祇的战斗祝福。从他信仰神祇可以赋予的战斗祭司祝福列表中选择两个祝福，神圣追猎者可以获得它们的次级祝福能力。只有信仰特定拥有特定阵营领域神祇（善良，邪恶，混乱，守序），并且本人的阵营与之相符的神圣追猎者才可以选择阵营祝福。在决定祝福的效果时，神圣追猎者可以以他的游侠等级作为战斗祭司等级。在13级时，神圣追猎者可以使用这两个祝福领域的高等祝福。",
+    "enGB": "At 4th level, a divine tracker forms a close bond with his deity’s ethos. He selects two warpriest domains from among the domains granted by his deity, and gains the minor blessings of those domains. A divine tracker can select an alignment domain (Chaos, Evil, Good, or Law) only if his alignment matches that domain. A divine tracker uses his ranger level as his warpriest level to determine the effect of the blessing. At 13th level, a divine tracker gains the major blessing from both of his domains."
+    },
+    {
+      "Key": "581843d1acda436589bb9dca5cb1f069",
+      "SimpleName": "DivineTrackerBlessingSelectionFirst.Name",
+      "ProcessTemplates": false,
+    "zhCN": "追猎者的祝福",
+    "enGB": "Trackers Blessings"
+    },
+    {
+      "Key": "9f097e5f86d14538bd4b469d1439a01d",
+      "SimpleName": "DivineTrackerBlessingSelectionSecond.Description",
+      "ProcessTemplates": true,
+    "zhCN": "在4级时，神圣追猎者可以获得自己信仰神祇的战斗祝福。从他信仰神祇可以赋予的战斗祭司祝福列表中选择两个祝福，神圣追猎者可以获得它们的次级祝福能力。只有信仰特定拥有特定阵营领域神祇（善良，邪恶，混乱，守序），并且本人的阵营与之相符的神圣追猎者才可以选择阵营祝福。在决定祝福的效果时，神圣追猎者可以以他的游侠等级作为战斗祭司等级。在13级时，神圣追猎者可以使用这两个祝福领域的高等祝福。",
+    "enGB": "At 4th level, a divine tracker forms a close bond with his deity’s ethos. He selects two warpriest domains from among the domains granted by his deity, and gains the minor blessings of those domains. A divine tracker can select an alignment domain (Chaos, Evil, Good, or Law) only if his alignment matches that domain. A divine tracker uses his ranger level as his warpriest level to determine the effect of the blessing. At 13th level, a divine tracker gains the major blessing from both of his domains."
+    },
+    {
+      "Key": "8a3eab6d298942ac98b888facccf99c9",
+      "SimpleName": "DivineTrackerChaosBlessingFeature.Description",
+      "ProcessTemplates": true,
+    "zhCN": "1级起，你可以触碰一位盟友，赋予其混乱祝福。在1分钟内，该盟友对守序生物额外造成1d6点伤害。这段时间内该盟友的攻击在用于穿透伤害减免时被视为混乱阵营。\n13级起，你可以召唤出一个战斗伙伴。此能力效果类似于召唤怪物IV，持续时间为1分钟。无论使用何种召唤列表，此能力只能召唤出一个生物。10级之后每提升2级，召唤怪物的法术等级提高1级（20级时达到最大值，即召唤怪物IX）。 ",
+    "enGB": "At 1st level, you can touch one ally and grant him a chaotic blessing. For 1 minute, this ally deals an additional 1d6 points of damage against lawful creatures. During this time, his attacks are treated as chaotic for the purposes of overcoming damage reduction.\nAt 13th level, you can summon a battle companion. This ability functions as summon monster IV with a duration of 1 minute, but can only summon demons. This ability can summon only one creature, regardless of the list used. For every 2 levels beyond 10th, the level of the summon monster spell increases by 1 (to a maximum of summon monster IX at 20th level)."
+    },
+    {
+      "Key": "088bcf59c1f14594b14c959b9e363749",
+      "SimpleName": "DivineTrackerCommunityBlessingFeature.Description",
+      "ProcessTemplates": true,
+    "zhCN": "在1级时，用一个标准动作，你可以触摸一个盟友并赋予其团结的祝福。在1分钟内，每当这名盟友使用协助他人动作时，加值都会提升至+4。你可以用迅捷动作对自己使用这项能力。\n在13级时，你可以呼吁全体战友并肩作战。在1分钟内，每当你成功地对一个敌人发动了近战或远程攻击，你10尺内的队友就可以在对抗同一敌人时在你的攻击方式上进行攻击检定上获得+2洞察加值——你进行近战攻击则近战获得加值，远程亦然。如果你的攻击成功专长了重击威胁，那么在一轮内，该加值提升到+4.",
+    "enGB": "At 1st level, you can touch an ally and grant it the blessing of community. For the next minute, whenever that ally uses the aid another action, the bonus granted increases by 2. You can instead use this ability on yourself as a swift action. \nAt 13th level, you can rally your allies to fight together. For 1 minute, whenever you make a successful melee or ranged attack against a foe, allies within 10 feet of you gain a +2 insight bonus on attacks of the same type you made against that foe—melee attacks if you made a melee attack, or ranged attacks if you made a ranged attack. If you score a critical hit, this bonus increases to +4 until the start of your next turn."
+    },
+    {
+      "Key": "d11133f5f1f8447dbd90bf7fd5560da7",
+      "SimpleName": "DivineTrackerDarknessBlessingFeature.Description",
+      "ProcessTemplates": true,
+    "zhCN": "1级起，你可以触碰一位盟友，赋予其黑暗祝福。1分钟内，该盟友在战斗中被阴影遮盖，获得隐蔽（对其攻击有20%失手率）。\n13级起，你可以让30英尺内的一个敌人眼前被一层黑暗遮蔽。目标必须成功进行意志豁免检定，否则陷入1分钟目盲。",
+    "enGB": "At 1st level, you can touch an ally and bestow a darkness blessing. For 1 minute, the ally becomes enshrouded in shadows while in combat, granting it concealment (20% miss chance).\nAt 13th level, you can place a shroud of darkness around the eyes of one foe within 30 feet. The target must succeed at a Will saving throw or be blinded for 1 minute"
+    },
+    {
+      "Key": "2311ef2946124d6891970306afe587c2",
+      "SimpleName": "DivineTrackerDeathBlessingFeature.Description",
+      "ProcessTemplates": true,
+    "zhCN": "1级起，你可以将外貌变得宛如一具尸体，在1分钟内让你变得更加骇人，并提供近似于不死生物的防护。你用于威吓的沟通技能检定获得+4加值，抵抗疾病、心智效应、麻痹、毒素和震慑的豁免检定获得+2亵渎加值。\n13级起，你可以对敌人发起一次近战接触攻击，使其承受难忍痛苦。若成功命中，你令目标承受1个临时负向等级，持续1分钟。此外，你也能够花费迅捷动作来启动此能力，使你在接下来一分钟内，下一次近战攻击附带此效果。这些临时负向等级可叠加。你不会因造成这些负向等级而获得好处（比如不死生物因弱能术而获得的临时生命值）。",
+    "enGB": "At 1st level, you can take on a corpse-like visage for 1 minute, making you more intimidating and giving you undead-like protection from harm. You gain a +4 bonus on Persuasion skill checks made to intimidate, as well as a +2 profane bonus on saving throws against disease, mind-affecting effects, paralysis, poison, and stun.\nAt 13th level, you can make a melee touch attack against an opponent to deliver grim suffering. If you succeed, you inflict 1 temporary negative level on the target for 1 minute. Alternatively, you can activate this ability as a swift action to make your next melee attack during the next minute apply the effect. These temporary negative levels stack. You gain no benefit from imposing these negative levels (such as the temporary hit points undead gain from enervation)."
+    },
+    {
+      "Key": "6d3688658a584fba8665e15d5fb74a55",
+      "SimpleName": "DivineTrackerDestructionBlessingFeature.Description",
+      "ProcessTemplates": true,
+    "zhCN": "1级起，你可以触碰一位盟友，赋予其破坏祝福。1分钟内，该盟友的武器伤害检定获得等于你等级一半的士气加值（最低1点）。\n13级起，你可以触碰一位盟友，用更强的破坏力量祝福他。1分钟内，该盟友用于确认重击的攻击检定获得+4洞察加值，有50%几率将受到的重击或偷袭视为普通命中。",
+    "enGB": "At 1st level, you can touch an ally and bless them with the power of destruction. For 1 minute, the ally gains a morale bonus on weapon damage rolls equal to half your level (minimum 1).\nAt 13th level, you can touch an ally and bless them with even greater destructive power. For 1 minute, the ally gains a +4 insight bonus on attack rolls made to confirm critical hits and has a 50% chance to treat any critical hit or sneak attack against it as a normal hit."
+    },
+    {
+      "Key": "0714d43d841d4349acd04f2742bad065",
+      "SimpleName": "DivineTrackerEarthBlessingFeature.Description",
+      "ProcessTemplates": true,
+    "zhCN": "1级起，你可以触碰一把武器，用酸蚀能量强化它。1分钟内，此武器会散发酸性烟气，每次攻击额外造成1d4点酸蚀伤害。\n13级起，你可以触碰一位盟友，使其盔甲或衣服硬化。1分钟内，该盟友获得伤害减免（DR）1/-。10级之后每提升2个等级，该伤害减免（DR）都会提高1点（18级时达到最大值，即DR 5/-)。这不会与任何抗性或伤害减免叠加。",
+    "enGB": "At 1st level, you can touch one weapon and enhance it with acidic potency. For 1 minute, this weapon emits acrid fumes that deal an additional 1d4 points of acid damage with each strike.\nAt 13th level, you can touch an ally and harden its armor or clothing. For 1 minute, the ally gains DR 1/—. For every 2 levels beyond 10th, this DR increases by 1 (to a maximum of DR 5/— at 18th level). This doesn't stack with any other damage resistance or reduction."
+    },
+    {
+      "Key": "a2c52ad03cd74f0b8af77990781275c5",
+      "SimpleName": "DivineTrackerEvilBlessingFeature.Description",
+      "ProcessTemplates": true,
+    "zhCN": "1级起，你可以触碰一位盟友，赋予其邪恶祝福。在1分钟内，该盟友对善良生物额外造成1d6点伤害。这段时间内该盟友的攻击在用于穿透伤害减免时被视为邪恶阵营。\n13级起，你可以召唤出一个战斗伙伴。此能力效果类似于召唤怪物IV，持续时间为1分钟。无论使用何种召唤列表，此能力只能召唤出一个生物。10级之后每提升2级，召唤怪物的法术等级提高1级（20级时达到最大值，即召唤怪物IX）。",
+    "enGB": "At 1st level, you can touch one ally and grant him an evil blessing. For 1 minute, this ally deals an additional 1d6 points of damage against good creatures. During this time, his attacks are treated as evil for the purposes of overcoming damage reduction.\nAt 13th level, you can summon a battle companion. This ability functions as summon monster IV with a duration of 1 minute, but only allows to summon demons. This ability can summon only one creature, regardless of the list used. For every 2 levels beyond 10th, the level of the summon monster spell increases by 1 (to a maximum of summon monster IX at 20th level)."
+    },
+    {
+      "Key": "d6b45e0c609144e48797dc6b3166b3cc",
+      "SimpleName": "DivineTrackerFavoredWeapon.Description",
+      "ProcessTemplates": true,
+    "zhCN": "在1级时，神圣追猎者将擅长他神祇的偏好武器。果神圣追猎者信仰神祇的偏好武器是徒手击打，那么神圣追猎者获得精通徒手击打作为奖励专长。",
+    "enGB": "At 1st level, a divine tracker becomes proficient with the favored weapon of his deity if not already proficient. If his deity’s favored weapon is unarmed strike, he instead gains Improved Unarmed Strike as a bonus feat."
+    },
+    {
+      "Key": "b36b17a1c3d74e7f817c25beef2d4293",
+      "SimpleName": "DivineTrackerFavoredWeapon.Name",
+      "ProcessTemplates": false,
+    "zhCN": "偏好武器",
+    "enGB": "Favored Weapon"
+    },
+    {
+      "Key": "7e8a533d0e0c4c54ab1d9ecec349d441",
+      "SimpleName": "DivineTrackerFireBlessingFeature.Description",
+      "ProcessTemplates": true,
+    "zhCN": "1级起，你可以触碰一把武器，用火焰能量强化它。1分钟内，此武器会发出炽热红光，每次攻击额外造成1d4点火焰伤害。\n13级起，你可以触碰一位盟友，让其被火焰包围。这将使该盟友获得等于战斗祭司等级的寒冷抗性。 ",
+    "enGB": "At 1st level, you can touch one weapon and enhance it with the grandeur of fire. For 1 minute, this weapon glows red-hot and deals an additional 1d4 points of fire damage with each hit.\nAt 13th level, you can touch an ally to wreath them in flames. This gives the ally cold resistance equal to your warpriest level."
+    },
+    {
+      "Key": "e650de7025274c359c3ec9fefccea79e",
+      "SimpleName": "DivineTrackerGoodBlessingFeature.Description",
+      "ProcessTemplates": true,
+    "zhCN": "1级起，你可以触碰一位盟友，赋予其神圣祝福。在1分钟内，该盟友对邪恶生物额外造成1d6点伤害。这段时间内该盟友的攻击在用于穿透伤害减免时被视为善良阵营。\n13级起，你能够花费一个迅捷动作，加强盟友对邪恶阵营的防御。一轮内，30英尺内所有盟友在对抗邪恶敌人时，防御等级（AC）和豁免检定获得+4崇圣加值。",
+    "enGB": "At 1st level, you can touch one ally and grant him a holy blessing. For 1 minute, this ally deals an additional 1d6 points of damage against evil creatures. During this time, his attacks are treated as good for the purposes of overcoming damage reduction.\nAt 10th level, as a swift action you can bolster your allies' defenses against evil. For one round, all allies within 30 feet gain a +4 sacred bonus on AC and saving throws against evil opponents."
+    },
+    {
+      "Key": "c99c7deaa9a54f9bb622e2b5c9a2d562",
+      "SimpleName": "DivineTrackerHealingBlessingFeature.Description",
+      "ProcessTemplates": true,
+    "zhCN": "1级起，你能够加强你施放的治疗法术。花费一个迅捷动作，你能够让你施放的下一个治疗法术被强效（如同运用了法术强效Encyclopedia:Feat}专长），治疗的伤害值将提升50%（如果对不死生物施放，可多造成50%伤害）。此能力不会和自身或者法术强效专长效果叠加。\n13级起，你可以触碰一位盟友，为其提供持续1分钟的快速回复3。",
+    "enGB": "At 1st level, you can add power to a cure spell as you cast it. As a swift action, you can make your next cure spell empowered (as though using the Empower Spell feat), causing it to heal 50% more damage (or deal 50% more damage if used against undead). This ability doesn't stack with itself or the Empower Spell feat.\nAt 13th level, you can touch an ally and grant them fast healing 3 for 1 minute."
+    },
+    {
+      "Key": "1ead370cab074ada8b1f09fffa83a148",
+      "SimpleName": "DivineTrackerLawBlessingFeature.Description",
+      "ProcessTemplates": true,
+    "zhCN": "1级起，你可以触碰一位盟友，赋予其守序祝福。在1分钟内，该盟友对混乱生物额外造成1d6点伤害。这段时间内该盟友的攻击在用于穿透伤害减免时被视为守序阵营。\n13级起，你能够花费一个迅捷动作，加强盟友对混乱阵营的防御。一轮内，30英尺内所有盟友在对抗混乱敌人时，防御等级（AC）和豁免检定获得+4崇圣加值。",
+    "enGB": "At 1st level, you can touch one ally and grant him an axiomatic blessing. For 1 minute, this ally deals an additional 1d6 points of damage against chaotic creatures. During this time, his attacks are treated as lawful for the purposes of overcoming damage reduction.\nAt 13th level, as a swift action you can bolster your allies' defenses against chaos. For one round, all allies within 30 feet gain a +4 sacred bonus on AC and saving throws against chaotic opponents."
+    },
+    {
+      "Key": "d51d3d38648d459a8da8ff0311ab17ac",
+      "SimpleName": "DivineTrackerLiberationBlessingFeature.Description",
+      "ProcessTemplates": true,
+    "zhCN": "级起，你能够花费一个迅捷动作，在1轮内忽略对你的机动性的阻碍效果，以及会导致麻痹的效果（如同行动自如）。你甚至可以在不能采取其他行动的状况下启动这项祝福，但昏迷时不行。\n13级起，你能够花费一个迅捷动作，创造30英尺半径的灵光，用上文所述的自由祝福来影响范围内所有盟友。此效果持续1轮。",
+    "enGB": "At 1st level, for 1 round as a swift action, you can ignore impediments to your mobility and effects that cause paralysis (as freedom of movement). You can activate this blessing even if you're otherwise unable to take actions, but not if you're unconscious.\nAt 13th level, as a swift action you can emit a 30-foot aura that affects all allies with the liberation blessing described above. This effect lasts for 1 round."
+    },
+    {
+      "Key": "7c701b42111f4c45ba1364b718de3628",
+      "SimpleName": "DivineTrackerLuckBlessingFeature.Description",
+      "ProcessTemplates": true,
+    "zhCN": "1级起，你可以触碰一位盟友，让他获得幸运的眷顾。目标可以在所有属性检定、攻击检定、豁免检定和技能检定中检定两次，并取较好的结果。此效果持续1轮。\n13级起，你可以诅咒一个敌人，让他遭到厄运的困扰。目标必须在所有属性检定、攻击检定、豁免检定和技能检定中投骰两次，并取较差的结果。此效果持续1轮。",
+    "enGB": "At 1st level, you can touch an ally and grant them a lucky presence. The target of this luck can roll all ability checks, attack rolls, saving throws, and skill checks twice and take the better result. The effect lasts for 1 round.\nAt 13th level, you can curse an enemy with unlucky presence. The target of this bad luck must roll all ability checks, attack rolls, saving throws, and skill check twice and take the worse result. The effect lasts for 1 round."
+    },
+    {
+      "Key": "886367b36ed341478b7f2fec8c2a2d85",
+      "SimpleName": "DivineTrackerMadnessBlessingFeature.Description",
+      "ProcessTemplates": true,
+    "zhCN": "1级起，你可以花费迅捷动作，指定30英尺内一个具有畏缩、惊恐、或麻痹状态的生物为目标。该状态被抑制1轮，所选生物改为陷入困惑状态。该困惑生物在掷出“攻击自身”或“攻击最近生物”以外的结果时，需要重骰。陷入困惑的轮数计入被抑制效果的持续时间。困惑轮结束时，被抑制效果将恢复。\n13级起，你可以花费迅捷动作，为30英尺内的所有困惑生物选择一种行为来执行（如同所有生物都掷出相同结果）。此效果持续1轮。你即使在困惑期间，也能够施展此能力。",
+    "enGB": "At 1st level, as a swift action you can target a creature within 30 feet that has the cowering, frightened, panicked, or paralyzed condition. That condition is suspended for 1 round, and the chosen creature gains the confused condition instead. The confused creature rerolls any result other than \"attack self\" or \"attack nearest creature.\" The round spent confused counts toward the duration of the suspended effect. At the end of the confused round, the suspended condition resumes.\nAt 13th level, as a swift action you can choose one behavior for all confused creatures within 30 feet to exhibit (as if all creatures rolled the same result). This effect lasts for 1 round. You can use this ability even while you are confused."
+    },
+    {
+      "Key": "24a4a1b947c547dfb8f188bbb8d027e3",
+      "SimpleName": "DivineTrackerMagicBlessingFeature.Description",
+      "ProcessTemplates": true,
+    "zhCN": "1级起，你可以让手中的近战武器飞出去攻击敌人，然后立即回到手中。你可以用近战武器进行一次射程30英尺的攻击。本次攻击视为用投掷武器进行的远程攻击，区别在于你用Encyclopedia:Wisdom}感知调整值代替Encyclopedia:Dexterity}敏捷调整值来进行攻击检定（伤害检定依然如常使用Encyclopedia:Strength}力量调整值）。此能力不能用来发动战技。\n13级起，你能够花费迅捷动作，恢复一个当天已准备并施放过的战斗祭司法术。此法术会再次被准备，如同还未被施放过。  ",
+    "enGB": "At 1st level, you can cause your melee weapon to fly from your grasp and strike an opponent, then instantly return to you. You can make a single attack using a melee weapon at a range of 30 feet. This attack is treated as a ranged attack with a thrown weapon, except that you add your Wisdom modifier to the attack roll instead of your Dexterity modifier (you still add your Strength modifier to the damage roll as normal). This ability cannot be used to perform a combat maneuver.\nAt 13th level, with a swift action he can recall any single warpriest spell that he has already prepared and cast that day. The spell is prepared again, just as if it had not been cast."
+    },
+    {
+      "Key": "164b9ce5c15a4e0f983304c0de893d27",
+      "SimpleName": "DivineTrackerNobilityBlessingFeature.Description",
+      "ProcessTemplates": true,
+    "zhCN": "1级起，你可以仅用寥寥数语激励30英尺内的一个生物。该生物的攻击检定、技能检定和豁免检定获得+2士气加值。此效果持续1分钟。\n13级起，花费一个迅捷动作，你可以号召盟友遵循你的领导。一轮内，30英尺内的所有盟友在攻击检定、技能检定和豁免检定获得+4士气加值。",
+    "enGB": "At 1st level, you can speak a few words to a creature within 30 feet that fill them with inspiration. You can grant that creature a +2 morale bonus on attack rolls, skill checks, and saving throws. This effect lasts for 1 minute.\nAt 13th level, as a swift action you can inspire your allies to follow your lead. For one round, all allies within 30 feet gain a +4 morale bonus on attack rolls, skill checks, and saving throws."
+    },
+    {
+      "Key": "94f113bebe0f42c1806d0bee33668d44",
+      "SimpleName": "DivineTrackerPlantBlessingFeature.Description",
+      "ProcessTemplates": true,
+    "zhCN": "在1级时，如果你的一次近战攻击成功命中，那么你可以以一个迅捷动作使被攻击的目标立刻开始发芽和长出扰人的藤蔓。这个生物将被纠缠1轮（反射豁免通过则无效）。\n在13级时，你能以一个标准动作召唤一个自然界的勇士与你并肩作战。这相当于一个法术四级召唤自然盟友的效果，持续一分钟。不过你只能召唤一只动物，这个动物的生物类型将转变为为植物。在10级后的每2个等级，这个能力的效果就上升一个等级，最高在20级达到九级召唤自然盟友。",
+    "enGB": "At 1st level, as a swift action you can cause any creature you hit this round with a melee attack to sprout entangling vines that attempt to hold it in place, entangling it for 1 round (Reflex negates). \nAt 13th level, you can summon a battle companion. This ability functions as summon nature's ally V with a duration of 1 minute. This ability can summon only one animal, regardless of the list used, and the creature’s type changes to plant instead of animal. For every 2 levels beyond 12th, the level of the summon nature's ally spell increases by 1 (to a maximum of summon nature's ally IX at 20th level)."
+    },
+    {
+      "Key": "ab05be53fd1f4730b33ccd08c425163f",
+      "SimpleName": "DivineTrackerProtectionBlessingFeature.Description",
+      "ProcessTemplates": true,
+    "zhCN": "在1级时，以一个标准动作你可以为自己的豁免检定+1神圣加值，为AC也提供+1神圣加值，持续一分钟。这个效果无法叠加。在10级时，加值增加到+2。在20级时，加值增加为+3。\n在13级时，你可以释放出半径30尺的防御性灵气，持续一分钟。所有处于灵气影响范围内的盟友获得10点强酸，寒冷，电击，火焰和音波抗力；在15级时，这些抗力加值提高到20。",
+    "enGB": "At 1st level, you can gain a +1 sacred bonus on saving throws and a +1 sacred bonus to AC for 1 minute. The bonus increases to +2 at 10th level and +3 at 20th level.\nAt 13th level, you can emit a 30-foot aura of protection for 1 minute. You and your allies within this aura gain resistance 10 against acid, cold, electricity, fire, and sonic. At 15th level, the energy resistance increases to 20."
+    },
+    {
+      "Key": "7aef077f9dfc44e89598c302ca36e294",
+      "SimpleName": "DivineTrackerReposeBlessingFeature.Description",
+      "ProcessTemplates": true,
+    "zhCN": "1级起，你的接触可使活物昏沉，通过对活物发起近战接触攻击，可使其陷入恍惚状态，持续1轮。如果你接触的是一个已陷入恍惚的活物，该活物将陷入沉睡，效果持续1轮。接触不死生物时，其受到的恍惚效果的持续轮数将等于你的感知调整值（最少1轮）。\n13级起，在使用引导能量来治疗活物时，你可以在同一回合花费迅捷动作来对不死生物也造成伤害（如同引导能量）。不死生物受到的伤害为治疗值的一半。",
+    "enGB": "At 1st level, you can fill a living creature with lethargy by hitting it with a melee touch attack, causing it to become staggered for 1 round. If the target is already staggered, it falls asleep for 1 round instead. An undead creature that's touched is staggered for a number of rounds equal to your Wisdom modifier (minimum 1).\nAt 13th level, when using channel energy to heal living creatures, you can take a swift action on that same turn to also deal damage to undead creatures (as your channel energy ability). Undead take an amount of damage equal to half the amount healed."
+    },
+    {
+      "Key": "0faa7bf552ba4c4fb2a8c69d725a3ee3",
+      "SimpleName": "DivineTrackerStrengthBlessingFeature.Description",
+      "ProcessTemplates": true,
+    "zhCN": "1级起，你能够花费一个迅捷动作，凝聚自己的力量。你的近战攻击检定、基于力量的战技检定、基于力量的技能检定、力量属性检定均获得等于1/2战斗祭司等级的增强加值（最低+1），持续1轮。\n13级起，你能够花费一个迅捷动作，忽略穿戴中型或中型盔甲所导致的移动速度减值。此效果持续1分钟。在此期间，你可以在对抗会使你陷入纠缠、恍惚或麻痹的效果时，豁免检定加上你的力量调整值。",
+    "enGB": "At 1st level, as a swift action you can focus your own strength. You gain an enhancement bonus equal to 1/2 your warpriest level (minimum +1) on melee attack rolls, combat maneuver checks that rely on Strength, Strength-based skills, and Strength checks for 1 round.\nAt 13th level, as a swift action you can ignore the movement penalties caused by wearing medium or heavy armor. This effect lasts for 1 minute. During this time, you can add your Strength modifier on saving throws against effects that would cause you to become entangled, staggered, or paralyzed."
+    },
+    {
+      "Key": "01662c0ce3a84c66b8a6e3984cab5ffb",
+      "SimpleName": "DivineTrackerSunBlessingFeature.Description",
+      "ProcessTemplates": true,
+    "zhCN": "1级起，你能够创造闪耀的阳光，射进一个敌人的眼睛。目标目盲1轮。若反射豁免检定成功，改为目眩1轮。\n13级起，你可以触碰一把武器，赋予它武器特殊能力“炽焰”或“不死生物破敌”，持续1分钟。若你在启动此能力时消耗两次祝福，则武器可以同时获得这两项特殊能力。",
+    "enGB": "At 1st level, you can create a flash of sunlight in the eyes of one of your opponents. The target is blinded for 1 round. If it succeeds at a Reflex saving throw, it's instead dazzled for 1 round.\nAt 13th level, you can touch a weapon and grant it either the flaming or undead bane weapon special ability for 1 minute. If you spend two uses of your blessing when activating this ability, the weapon can have both weapon special abilities."
+    },
+    {
+      "Key": "e0de89c567114be798a356a9fab59515",
+      "SimpleName": "DivineTrackerTravelBlessingFeature.Description",
+      "ProcessTemplates": true,
+    "zhCN": "1级起，你能够花费一个迅捷动作，强化自己的机动性。在1轮内，你忽略所有困难地形（包括魔法地形），在穿过这种地形时不会承受不利影响。\n13级起，你能够花费一个移动动作，传送不超过20英尺的距离。目的地必须在你的视线内。用此方式传送不会引发借机攻击。 ",
+    "enGB": "At 1st level, as a swift action you gain increased mobility. For 1 round, you ignore all difficult terrain (including magical terrain) and take no penalties for moving through it.\nAt 13th level, you can teleport up to 20 feet as a move action. You must have line of sight to your destination. This teleportation doesn't provoke attacks of opportunity."
+    },
+    {
+      "Key": "f3aa1dfff8314d06b8824468e27546ee",
+      "SimpleName": "DivineTrackerTrickeryBlessingFeature.Description",
+      "ProcessTemplates": true,
+    "zhCN": "1级起，作为移动动作，你可创造一个与自身完全相同的幻象。此复制幻象的效果类似于单个镜影，持续轮数等于你的战斗祭司等级，或是直至复制幻象被解除或毁灭。你同一时间仅能拥有一个复制幻象。此能力创造的幻象无法与镜影术叠加。此能力不会和镜影术的额外伤害叠加。\n13级起，你能够花费一个迅捷动作，使自己隐形1轮（如同高等隐形）。",
+    "enGB": "At 1st level, as a move action you can create an illusory double of yourself. This double functions as a single mirror image, and lasts for a number of rounds equal to your warpriest level, or until the illusory duplicate is dispelled or destroyed. You can have no more than one double at a time. The double created by this ability doesn't stack with the additional images from the mirror image spell. This ability doesn't stack with the additional damage from the mirror image spell.\nAt 13th level, as a swift action you can become invisible for 1 round (as greater invisibility)."
+    },
+    {
+      "Key": "3e6ccf68b89c4f3480667836f109131e",
+      "SimpleName": "DivineTrackerWarBlessingFeature.Description",
+      "ProcessTemplates": true,
+    "zhCN": "在1级时，你可以接触一个盟友，赋予他战术上的优势一分钟。在此期间，盟友以下一种加值：移动速度+10尺；+1闪避AC；攻击检定+1洞察加值；所有的豁免检定+1幸运加值。\n在13级时，你可以接触一个盟友，赋予他对争斗无尽的热望。这个生物的所有近战攻击效果都视为他的武器拥有恶毒附魔。除此之外，这个生物在确认重击时在攻击检定上获得+4洞察加值。这个效果持续一分钟。",
+    "enGB": "At 1st level, you can touch an ally and grant it a tactical advantage for 1 minute. The ally gets one of the following bonuses: +10 feet to base speed, +1 dodge bonus to AC, +1 insight bonus on attack rolls, or a +1 luck bonus on saving throws. \nAt 13th level, you can touch an ally and grant it a thirst for battle. All of the ally’s melee attacks are treated as if they had the vicious weapon special ability. In addition, the ally receives a +4 insight bonus on attack rolls made to confirm critical hits. These benefits last for 1 minute."
+    },
+    {
+      "Key": "bb4fbf356a3041e59d825a75a5836cd5",
+      "SimpleName": "DivineTrackerWaterBlessingFeature.Description",
+      "ProcessTemplates": true,
+    "zhCN": "1级起，你可以触碰一把武器，用流水的能量强化它。1分钟内，此武器会发出冰蓝色的光，每次攻击额外造成1d4点寒冷伤害。\n13级起，你可以触碰一位盟友，让其被寒雾包围。该盟友获得等于你的战斗祭司等级的火焰抗性。 ",
+    "enGB": "At 1st level, you can touch one weapon and enhance it with the power of water. For 1 minute, this weapon glows with a blue-white chill and deals an additional 1d4 points of cold damage with each strike.\nAt 13th level, you can touch any one ally and wreath it in freezing mist. He gains fire resistance equal to your warpriest level."
+    },
+    {
+      "Key": "e151700b55d24e7ba7627789f1407249",
+      "SimpleName": "DivineTrackerWeatherBlessingFeature.Description",
+      "ProcessTemplates": true,
+    "zhCN": "1级起，你可以触碰一把武器，赋予它风暴祝福。1分钟内，此武器会闪动着蓝色或黄色的火花，每次攻击额外造成1d4点电击伤害。\n13级起，你可以用一道疾风障壁围绕自己，持续1分钟。这将使敌人的远程攻击具有等于你的战斗祭司等级两倍的失手率。",
+    "enGB": "At 1st level, you can touch one weapon and grant it a blessing of stormy weather. For 1 minute, this weapon glows with blue or yellow sparks and deals an additional 1d4 points of electricity damage with each hit.\nAt 13th level, you can create a barrier of fast winds around yourself for 1 minute. This gives enemy ranged attack a chance to miss equal to twice your warpriest level."
+    },
+    {
+      "Key": "7148e36f8e38424aa0829f36c10b67a6",
+      "SimpleName": "ArtificeBlessingFeature.Description",
+      "ProcessTemplates": true,
+      "enGB": "At 1st level, you can touch an ally and grant them greater power to harm and destroy crafted objects. For 1 minute, whenever this ally deals damage to constructs or objects with melee weapons, they bypasses hardness and damage reduction. \nAt 10th level, you can temporarily copy a weapon enchantment from one weapon to another. You may copy any simple permanent enchant from a weapon you have currently equipped. If you are using this ability on a double weapon, only one end of the double weapon is affected. The copy lasts for 1 minute. You can use this ability multiple times on the same weapon. \nSome examples of simple enchants are, Icy Burst, Holy, Keen, Speed.",
+      "zhCN": "在1级时，用一个标准动作，你可以通过触摸一件近战武器给予其超越其他人工制品的力量。在一分钟内，每当该武器对构装体或物体造成伤害时，它无视所有硬度和伤害减免。\n在10级时，你可以暂时将武器附魔从一把武器复制到另一把武器。你可以从你当前装备的武器中复制任何简单的永久附魔。如果你在双头武器上使用这个能力，只有双头武器的一端会受到影响。效果持续1分钟。你可以在同一件武器上多次使用这个能力。\n简单附魔的例子有，冰爆，神圣，锐锋，追击。"
+    },
+    {
+      "Key": "bb8d17acad3e4fa9acb6b5a6e3fbcb95",
+      "SimpleName": "ArtificeBlessingFeature.Name",
+      "ProcessTemplates": false,
+      "enGB": "Artifice",
+      "zhCN": "手艺"
+    },
+    {
+      "Key": "e4bd23f2579d433183b002a84cd061e2",
+      "SimpleName": "ArtificeBlessingMajorFeature.Description",
+      "ProcessTemplates": true,
+      "enGB": "At 10th level, you can temporarily copy a weapon enchantment from one weapon to another. You may copy any simple permanent enchant from a weapon you have currently equipped. If you are using this ability on a double weapon, only one end of the double weapon is affected. The copy lasts for 1 minute. You can use this ability multiple times on the same weapon. \nSome examples of simple enchants are, Icy Burst, Holy, Keen, Speed.",
+    "zhCN": "在10级时，你可以暂时将武器附魔从一把武器复制到另一把武器。你可以从你当前装备的武器中复制任何简单的永久附魔。如果你在双头武器上使用这个能力，只有双头武器的一端会受到影响。效果持续1分钟。你可以在同一件武器上多次使用这个能力。\n简单附魔的例子有，冰爆，神圣，锐锋，追击。"
+    },
+    {
+      "Key": "b140cb7184834942b263dc270eed3f69",
+      "SimpleName": "ArtificeBlessingMajorFeature.Name",
+      "ProcessTemplates": false,
+      "enGB": "Transfer Magic",
+      "zhCN": "转移魔法"
+    },
+    {
+      "Key": "9033a74cfc5f41bea12a259ca2c7a255",
+      "SimpleName": "ArtificeBlessingMajorMHBaseAbility.Description",
+      "ProcessTemplates": true,
+      "enGB": "You can temporarily copy a weapon enchantment from one weapon to another. You may copy any simple permanent enchant from a weapon you have currently equipped. If you are using this ability on a double weapon, only one end of the double weapon is affected. The copy lasts for 1 minute. You can use this ability multiple times on the same weapon.",
+    "zhCN": "你可以暂时将武器附魔从一把武器复制到另一把武器。你可以从你当前装备的武器中复制任何简单的永久附魔。如果你在双头武器上使用这个能力，只有双头武器的一端会受到影响。效果持续1分钟。你可以在同一件武器上多次使用这个能力。"
+    },
+    {
+      "Key": "607df87d3c934333bb4243b324716b06",
+      "SimpleName": "ArtificeBlessingMajorMHBaseAbility.Name",
+      "ProcessTemplates": false,
+      "enGB": "Transfer Magic - Main Hand",
+      "zhCN": "转移魔法 - 主手"
+    },
+    {
+      "Key": "d1087725602847b1a6f6069987caac55",
+      "SimpleName": "ArtificeBlessingMajorOHBaseAbility.Name",
+      "ProcessTemplates": false,
+      "enGB": "Transfer Magic - Off Hand",
+      "zhCN": "转移魔法 - 副手"
+    },
+    {
+      "Key": "c0b65b0abc194aa1a172dc75df9081d6",
+      "SimpleName": "ArtificeBlessingMHAberrationBaneAbility.Description",
+      "ProcessTemplates": true,
+      "enGB": "You can temporarily copy the Aberration Bane weapon enchantment to another weapon. If you are using this ability on a double weapon, only one end of the double weapon is affected. The copy lasts for 1 minute. You can use this ability multiple times on the same weapon.",
+      "zhCN": "你可以暂时将“异怪破敌”武器附魔从一把武器复制到另一把武器。如果你在双头武器上使用这个能力，只有双头武器的一端会受到影响。效果持续1分钟。你可以在同一件武器上多次使用这个能力。"
+    },
+    {
+      "Key": "475fa62a8c9749f18d296685f886ebda",
+      "SimpleName": "ArtificeBlessingMHAberrationBaneBuff.Description",
+      "ProcessTemplates": true,
+      "enGB": "Your main hand weapon has a temporarily copy of the Aberration Bane weapon enchantment. If you are using this ability on a double weapon, only one end of the double weapon is affected. The copy lasts for 1 minute. You can stack multiple versions of this ability on the same weapon.",
+      "zhCN": "你的主手武器拥有临时的“异怪破敌”附魔。如果你在双头武器上使用这个能力，只有双头武器的一端会受到影响。效果持续1分钟。你可以在同一件武器上多次使用这个能力。"
+    },
+    {
+      "Key": "c321e5ef24fc4d96b3137542fe2650c5",
+      "SimpleName": "ArtificeBlessingMHAberrationBaneBuff.Name",
+      "ProcessTemplates": false,
+      "enGB": "Transfer Magic - Main Hand - Aberration Bane",
+      "zhCN": "转移魔法 - 主手 - 异怪破敌"
+    },
+    {
+      "Key": "b170045ff5ac41f4847110cfa5c6459b",
+      "SimpleName": "ArtificeBlessingMHAgileAbility.Description",
+      "ProcessTemplates": true,
+      "enGB": "You can temporarily copy the Agile weapon enchantment to another weapon. If you are using this ability on a double weapon, only one end of the double weapon is affected. The copy lasts for 1 minute. You can use this ability multiple times on the same weapon.",
+      "zhCN": "你可以暂时将“灵巧”武器附魔从一把武器复制到另一把武器。如果你在双头武器上使用这个能力，只有双头武器的一端会受到影响。效果持续1分钟。你可以在同一件武器上多次使用这个能力。"
+    },
+    {
+      "Key": "181f0d49360a4e88876334d24cab810a",
+      "SimpleName": "ArtificeBlessingMHAgileBuff.Description",
+      "ProcessTemplates": true,
+      "enGB": "Your main hand weapon has a temporarily copy of the Agile weapon enchantment. If you are using this ability on a double weapon, only one end of the double weapon is affected. The copy lasts for 1 minute. You can stack multiple versions of this ability on the same weapon.",
+      "zhCN": "你的主手武器拥有临时的“灵巧”附魔。如果你在双头武器上使用这个能力，只有双头武器的一端会受到影响。效果持续1分钟。你可以在同一件武器上多次使用这个能力。"
+    },
+    {
+      "Key": "7389673db0fa4599ad71a9c0d4c8c346",
+      "SimpleName": "ArtificeBlessingMHAgileBuff.Name",
+      "ProcessTemplates": false,
+      "enGB": "Transfer Magic - Main Hand - Agile",
+      "zhCN": "转移魔法 - 主手 - 灵巧"
+    },
+    {
+      "Key": "bc6e0272d76b4da8a54081c20df9550d",
+      "SimpleName": "ArtificeBlessingMHAnarchicAbility.Description",
+      "ProcessTemplates": true,
+      "enGB": "You can temporarily copy the Anarchic weapon enchantment to another weapon. If you are using this ability on a double weapon, only one end of the double weapon is affected. The copy lasts for 1 minute. You can use this ability multiple times on the same weapon.",
+      "zhCN": "你可以暂时将“无序”武器附魔从一把武器复制到另一把武器。如果你在双头武器上使用这个能力，只有双头武器的一端会受到影响。效果持续1分钟。你可以在同一件武器上多次使用这个能力。"
+    },
+    {
+      "Key": "40308696ce114b9a82c5a0cd48c0082b",
+      "SimpleName": "ArtificeBlessingMHAnarchicBuff.Description",
+      "ProcessTemplates": true,
+      "enGB": "Your main hand weapon has a temporarily copy of the Anarchic weapon enchantment. If you are using this ability on a double weapon, only one end of the double weapon is affected. The copy lasts for 1 minute. You can stack multiple versions of this ability on the same weapon.",
+      "zhCN": "你的主手武器拥有临时的“无序”附魔。如果你在双头武器上使用这个能力，只有双头武器的一端会受到影响。效果持续1分钟。你可以在同一件武器上多次使用这个能力。"
+    },
+    {
+      "Key": "3c492914f5694bb1937833f91f34a0f7",
+      "SimpleName": "ArtificeBlessingMHAnarchicBuff.Name",
+      "ProcessTemplates": false,
+      "enGB": "Transfer Magic - Main Hand - Anarchic",
+      "zhCN": "转移魔法 - 主手 - 无序"
+    },
+    {
+      "Key": "519813127567452f843d9985868b9665",
+      "SimpleName": "ArtificeBlessingMHAnimalBaneAbility.Description",
+      "ProcessTemplates": true,
+      "enGB": "You can temporarily copy the Animal Bane weapon enchantment to another weapon. If you are using this ability on a double weapon, only one end of the double weapon is affected. The copy lasts for 1 minute. You can use this ability multiple times on the same weapon.",
+      "zhCN": "你可以暂时将“动物破敌”武器附魔从一把武器复制到另一把武器。如果你在双头武器上使用这个能力，只有双头武器的一端会受到影响。效果持续1分钟。你可以在同一件武器上多次使用这个能力。"
+    },
+    {
+      "Key": "7e6895ae202c4bd6ae0076b50c9f0499",
+      "SimpleName": "ArtificeBlessingMHAnimalBaneBuff.Description",
+      "ProcessTemplates": true,
+      "enGB": "Your main hand weapon has a temporarily copy of the Animal Bane weapon enchantment. If you are using this ability on a double weapon, only one end of the double weapon is affected. The copy lasts for 1 minute. You can stack multiple versions of this ability on the same weapon.",
+      "zhCN": "你的主手武器拥有临时的“动物破敌”附魔。如果你在双头武器上使用这个能力，只有双头武器的一端会受到影响。效果持续1分钟。你可以在同一件武器上多次使用这个能力。"
+    },
+    {
+      "Key": "47b8e7499d34489e83d1ed6bd820dc61",
+      "SimpleName": "ArtificeBlessingMHAnimalBaneBuff.Name",
+      "ProcessTemplates": false,
+      "enGB": "Transfer Magic - Main Hand - Animal Bane",
+      "zhCN": "转移魔法 - 主手 - 动物破敌"
+    },
+    {
+      "Key": "fbad6509328c4ed3822214afe8851879",
+      "SimpleName": "ArtificeBlessingMHAxiomaticAbility.Description",
+      "ProcessTemplates": true,
+      "enGB": "You can temporarily copy the Axiomatic weapon enchantment to another weapon. If you are using this ability on a double weapon, only one end of the double weapon is affected. The copy lasts for 1 minute. You can use this ability multiple times on the same weapon.",
+      "zhCN": "你可以暂时将“公正”武器附魔从一把武器复制到另一把武器。如果你在双头武器上使用这个能力，只有双头武器的一端会受到影响。效果持续1分钟。你可以在同一件武器上多次使用这个能力。"
+    },
+    {
+      "Key": "6f72f36cf3ad461a97a230604bc8986c",
+      "SimpleName": "ArtificeBlessingMHAxiomaticBuff.Description",
+      "ProcessTemplates": true,
+      "enGB": "Your main hand weapon has a temporarily copy of the Axiomatic weapon enchantment. If you are using this ability on a double weapon, only one end of the double weapon is affected. The copy lasts for 1 minute. You can stack multiple versions of this ability on the same weapon.",
+      "zhCN": "你的主手武器拥有临时的“公正”附魔。如果你在双头武器上使用这个能力，只有双头武器的一端会受到影响。效果持续1分钟。你可以在同一件武器上多次使用这个能力。"
+    },
+    {
+      "Key": "20d72eae1ccb4e1ea4da50e055375b97",
+      "SimpleName": "ArtificeBlessingMHAxiomaticBuff.Name",
+      "ProcessTemplates": false,
+      "enGB": "Transfer Magic - Main Hand - Axiomatic",
+      "zhCN": "转移魔法 - 主手 - 公正"
+    },
+    {
+      "Key": "6b723fc16a5d44bcad262886e1c08680",
+      "SimpleName": "ArtificeBlessingMHBaneAbility.Description",
+      "ProcessTemplates": true,
+      "enGB": "You can temporarily copy the Bane weapon enchantment to another weapon. If you are using this ability on a double weapon, only one end of the double weapon is affected. The copy lasts for 1 minute. You can use this ability multiple times on the same weapon.",
+      "zhCN": "你可以暂时将“破敌”武器附魔从一把武器复制到另一把武器。如果你在双头武器上使用这个能力，只有双头武器的一端会受到影响。效果持续1分钟。你可以在同一件武器上多次使用这个能力。"
+    },
+    {
+      "Key": "746d16a1995c4b0cb6e2218ca523dc6e",
+      "SimpleName": "ArtificeBlessingMHBaneBuff.Description",
+      "ProcessTemplates": true,
+      "enGB": "Your main hand weapon has a temporarily copy of the Bane weapon enchantment. If you are using this ability on a double weapon, only one end of the double weapon is affected. The copy lasts for 1 minute. You can stack multiple versions of this ability on the same weapon.",
+      "zhCN": "你的主手武器拥有临时的“破敌”附魔。如果你在双头武器上使用这个能力，只有双头武器的一端会受到影响。效果持续1分钟。你可以在同一件武器上多次使用这个能力。"
+    },
+    {
+      "Key": "1b05fb1f76bd41e68fae51ec4f07e4b7",
+      "SimpleName": "ArtificeBlessingMHBaneBuff.Name",
+      "ProcessTemplates": false,
+      "enGB": "Transfer Magic - Main Hand - Bane",
+      "zhCN": "转移魔法 - 主手 - 破敌"
+    },
+    {
+      "Key": "c95b03f7510a450197effa341490b240",
+      "SimpleName": "ArtificeBlessingMHBleedAbility.Description",
+      "ProcessTemplates": true,
+      "enGB": "You can temporarily copy the Bleed weapon enchantment to another weapon. If you are using this ability on a double weapon, only one end of the double weapon is affected. The copy lasts for 1 minute. You can use this ability multiple times on the same weapon.",
+      "zhCN": "你可以暂时将“流血”武器附魔从一把武器复制到另一把武器。如果你在双头武器上使用这个能力，只有双头武器的一端会受到影响。效果持续1分钟。你可以在同一件武器上多次使用这个能力。"
+    },
+    {
+      "Key": "fa11562e40e145129bddd67bf060cd39",
+      "SimpleName": "ArtificeBlessingMHBleedBuff.Description",
+      "ProcessTemplates": true,
+      "enGB": "Your main hand weapon has a temporarily copy of the Bleed weapon enchantment. If you are using this ability on a double weapon, only one end of the double weapon is affected. The copy lasts for 1 minute. You can stack multiple versions of this ability on the same weapon.",
+      "zhCN": "你的主手武器拥有临时的“流血”附魔。如果你在双头武器上使用这个能力，只有双头武器的一端会受到影响。效果持续1分钟。你可以在同一件武器上多次使用这个能力。"
+    },
+    {
+      "Key": "95bed2ddb4bf4cd68d4e8eebeb407775",
+      "SimpleName": "ArtificeBlessingMHBleedBuff.Name",
+      "ProcessTemplates": false,
+      "enGB": "Transfer Magic - Main Hand - Bleed",
+      "zhCN": "转移魔法 - 主手 - 流血"
+    },
+    {
+      "Key": "bc813f720afc49d892a3acd045b7d0cc",
+      "SimpleName": "ArtificeBlessingMHBrilliantEnergyAbility.Description",
+      "ProcessTemplates": true,
+      "enGB": "You can temporarily copy the Brilliant Energy weapon enchantment to another weapon. If you are using this ability on a double weapon, only one end of the double weapon is affected. The copy lasts for 1 minute. You can use this ability multiple times on the same weapon.",
+      "zhCN": "你可以暂时将“光能”武器附魔从一把武器复制到另一把武器。如果你在双头武器上使用这个能力，只有双头武器的一端会受到影响。效果持续1分钟。你可以在同一件武器上多次使用这个能力。"
+    },
+    {
+      "Key": "7a66e998fae14248a4e3a21191934faf",
+      "SimpleName": "ArtificeBlessingMHBrilliantEnergyBuff.Description",
+      "ProcessTemplates": true,
+      "enGB": "Your main hand weapon has a temporarily copy of the Brilliant Energy weapon enchantment. If you are using this ability on a double weapon, only one end of the double weapon is affected. The copy lasts for 1 minute. You can stack multiple versions of this ability on the same weapon.",
+      "zhCN": "你的主手武器拥有临时的“光能”附魔。如果你在双头武器上使用这个能力，只有双头武器的一端会受到影响。效果持续1分钟。你可以在同一件武器上多次使用这个能力。"
+    },
+    {
+      "Key": "b0fa8ea9082d402c9b8be08668d8dd41",
+      "SimpleName": "ArtificeBlessingMHBrilliantEnergyBuff.Name",
+      "ProcessTemplates": false,
+      "enGB": "Transfer Magic - Main Hand - Brilliant Energy",
+      "zhCN": "转移魔法 - 主手 - 光能"
+    },
+    {
+      "Key": "64f267730dde41b7a547e7067d2e72a8",
+      "SimpleName": "ArtificeBlessingMHChaoticOutsiderBaneAbility.Description",
+      "ProcessTemplates": true,
+      "enGB": "You can temporarily copy the Chaotic Outsider Bane weapon enchantment to another weapon. If you are using this ability on a double weapon, only one end of the double weapon is affected. The copy lasts for 1 minute. You can use this ability multiple times on the same weapon.",
+      "zhCN": "你可以暂时将“混乱异界生物破敌”武器附魔从一把武器复制到另一把武器。如果你在双头武器上使用这个能力，只有双头武器的一端会受到影响。效果持续1分钟。你可以在同一件武器上多次使用这个能力。"
+    },
+    {
+      "Key": "ccc2eb7fcd1c43afaea2c89b5553a0bf",
+      "SimpleName": "ArtificeBlessingMHChaoticOutsiderBaneBuff.Description",
+      "ProcessTemplates": true,
+      "enGB": "Your main hand weapon has a temporarily copy of the Chaotic Outsider Bane weapon enchantment. If you are using this ability on a double weapon, only one end of the double weapon is affected. The copy lasts for 1 minute. You can stack multiple versions of this ability on the same weapon.",
+      "zhCN": "你的主手武器拥有临时的“混乱异界生物破敌”附魔。如果你在双头武器上使用这个能力，只有双头武器的一端会受到影响。效果持续1分钟。你可以在同一件武器上多次使用这个能力。"
+    },
+    {
+      "Key": "de7542d68b0e48d9b4580eae3e041bd3",
+      "SimpleName": "ArtificeBlessingMHChaoticOutsiderBaneBuff.Name",
+      "ProcessTemplates": false,
+      "enGB": "Transfer Magic - Main Hand - Chaotic Outsider Bane",
+      "zhCN": "转移魔法 - 主手 - 混乱异界生物破敌"
+    },
+    {
+      "Key": "dae22b495f894d72a237365f4057d635",
+      "SimpleName": "ArtificeBlessingMHConstructBaneAbility.Description",
+      "ProcessTemplates": true,
+      "enGB": "You can temporarily copy the Construct Bane weapon enchantment to another weapon. If you are using this ability on a double weapon, only one end of the double weapon is affected. The copy lasts for 1 minute. You can use this ability multiple times on the same weapon.",
+      "zhCN": "你可以暂时将“构装体破敌”武器附魔从一把武器复制到另一把武器。如果你在双头武器上使用这个能力，只有双头武器的一端会受到影响。效果持续1分钟。你可以在同一件武器上多次使用这个能力。"
+    },
+    {
+      "Key": "bd451f0308f94625a25bba949f451872",
+      "SimpleName": "ArtificeBlessingMHConstructBaneBuff.Description",
+      "ProcessTemplates": true,
+      "enGB": "Your main hand weapon has a temporarily copy of the Construct Bane weapon enchantment. If you are using this ability on a double weapon, only one end of the double weapon is affected. The copy lasts for 1 minute. You can stack multiple versions of this ability on the same weapon.",
+      "zhCN": "你的主手武器拥有临时的“构装体破敌”附魔。如果你在双头武器上使用这个能力，只有双头武器的一端会受到影响。效果持续1分钟。你可以在同一件武器上多次使用这个能力。"
+    },
+    {
+      "Key": "bf0767eb1d2b4550b2feea5badc1fdc5",
+      "SimpleName": "ArtificeBlessingMHConstructBaneBuff.Name",
+      "ProcessTemplates": false,
+      "enGB": "Transfer Magic - Main Hand - Construct Bane",
+      "zhCN": "转移魔法 - 主手 - 构装体破敌"
+    },
+    {
+      "Key": "a0933311db4740688b70a638155feacb",
+      "SimpleName": "ArtificeBlessingMHCorrosiveAbility.Description",
+      "ProcessTemplates": true,
+      "enGB": "You can temporarily copy the Corrosive weapon enchantment to another weapon. If you are using this ability on a double weapon, only one end of the double weapon is affected. The copy lasts for 1 minute. You can use this ability multiple times on the same weapon.",
+      "zhCN": "你可以暂时将“烈酸”武器附魔从一把武器复制到另一把武器。如果你在双头武器上使用这个能力，只有双头武器的一端会受到影响。效果持续1分钟。你可以在同一件武器上多次使用这个能力。"
+    },
+    {
+      "Key": "d4e0c9befde94332927c97c922453abb",
+      "SimpleName": "ArtificeBlessingMHCorrosiveBuff.Description",
+      "ProcessTemplates": true,
+      "enGB": "Your main hand weapon has a temporarily copy of the Corrosive weapon enchantment. If you are using this ability on a double weapon, only one end of the double weapon is affected. The copy lasts for 1 minute. You can stack multiple versions of this ability on the same weapon.",
+      "zhCN": "你的主手武器拥有临时的“烈酸”附魔。如果你在双头武器上使用这个能力，只有双头武器的一端会受到影响。效果持续1分钟。你可以在同一件武器上多次使用这个能力。"
+    },
+    {
+      "Key": "0c90cecb0f52481585ab4cc0ca60d1f2",
+      "SimpleName": "ArtificeBlessingMHCorrosiveBuff.Name",
+      "ProcessTemplates": false,
+      "enGB": "Transfer Magic - Main Hand - Corrosive",
+      "zhCN": "转移魔法 - 主手 - 烈酸"
+    },
+    {
+      "Key": "10ef32b6be71492f8adf4974fcbd7497",
+      "SimpleName": "ArtificeBlessingMHDisruptionAbility.Description",
+      "ProcessTemplates": true,
+      "enGB": "You can temporarily copy the Disruption weapon enchantment to another weapon. If you are using this ability on a double weapon, only one end of the double weapon is affected. The copy lasts for 1 minute. You can use this ability multiple times on the same weapon.",
+      "zhCN": "你可以暂时将“瓦解”武器附魔从一把武器复制到另一把武器。如果你在双头武器上使用这个能力，只有双头武器的一端会受到影响。效果持续1分钟。你可以在同一件武器上多次使用这个能力。"
+    },
+    {
+      "Key": "48185507bc6c44d8a0a4a42b6287dedd",
+      "SimpleName": "ArtificeBlessingMHDisruptionBuff.Description",
+      "ProcessTemplates": true,
+      "enGB": "Your main hand weapon has a temporarily copy of the Disruption weapon enchantment. If you are using this ability on a double weapon, only one end of the double weapon is affected. The copy lasts for 1 minute. You can stack multiple versions of this ability on the same weapon.",
+      "zhCN": "你的主手武器拥有临时的“瓦解”附魔。如果你在双头武器上使用这个能力，只有双头武器的一端会受到影响。效果持续1分钟。你可以在同一件武器上多次使用这个能力。"
+    },
+    {
+      "Key": "22b0a3a4da254224897945fdf74cb4f1",
+      "SimpleName": "ArtificeBlessingMHDisruptionBuff.Name",
+      "ProcessTemplates": false,
+      "enGB": "Transfer Magic - Main Hand - Disruption",
+      "zhCN": "转移魔法 - 主手 - 瓦解"
+    },
+    {
+      "Key": "755fde4e209b42ccbcae2835199c5455",
+      "SimpleName": "ArtificeBlessingMHDragonBaneAbility.Description",
+      "ProcessTemplates": true,
+      "enGB": "You can temporarily copy the Dragon Bane weapon enchantment to another weapon. If you are using this ability on a double weapon, only one end of the double weapon is affected. The copy lasts for 1 minute. You can use this ability multiple times on the same weapon.",
+      "zhCN": "你可以暂时将“龙类破敌”武器附魔从一把武器复制到另一把武器。如果你在双头武器上使用这个能力，只有双头武器的一端会受到影响。效果持续1分钟。你可以在同一件武器上多次使用这个能力。"
+    },
+    {
+      "Key": "81a6009108064548aa23ea46a958f724",
+      "SimpleName": "ArtificeBlessingMHDragonBaneBuff.Description",
+      "ProcessTemplates": true,
+      "enGB": "Your main hand weapon has a temporarily copy of the Dragon Bane weapon enchantment. If you are using this ability on a double weapon, only one end of the double weapon is affected. The copy lasts for 1 minute. You can stack multiple versions of this ability on the same weapon.",
+      "zhCN": "你的主手武器拥有临时的“龙类破敌”附魔。如果你在双头武器上使用这个能力，只有双头武器的一端会受到影响。效果持续1分钟。你可以在同一件武器上多次使用这个能力。"
+    },
+    {
+      "Key": "b6f696161e97471490f6b737c78af8fc",
+      "SimpleName": "ArtificeBlessingMHDragonBaneBuff.Name",
+      "ProcessTemplates": false,
+      "enGB": "Transfer Magic - Main Hand - Dragon Bane",
+      "zhCN": "转移魔法 - 主手 - 龙类破敌"
+    },
+    {
+      "Key": "61f8fd5174c34929aeba975d5684aa78",
+      "SimpleName": "ArtificeBlessingMHEvilOutsiderBaneAbility.Description",
+      "ProcessTemplates": true,
+      "enGB": "You can temporarily copy the Evil Outsider Bane weapon enchantment to another weapon. If you are using this ability on a double weapon, only one end of the double weapon is affected. The copy lasts for 1 minute. You can use this ability multiple times on the same weapon.",
+      "zhCN": "你可以暂时将“邪恶异界生物破敌”武器附魔从一把武器复制到另一把武器。如果你在双头武器上使用这个能力，只有双头武器的一端会受到影响。效果持续1分钟。你可以在同一件武器上多次使用这个能力。"
+    },
+    {
+      "Key": "5b2e85b8966b4c03a787d3736d8f17dc",
+      "SimpleName": "ArtificeBlessingMHEvilOutsiderBaneBuff.Description",
+      "ProcessTemplates": true,
+      "enGB": "Your main hand weapon has a temporarily copy of the Evil Outsider Bane weapon enchantment. If you are using this ability on a double weapon, only one end of the double weapon is affected. The copy lasts for 1 minute. You can stack multiple versions of this ability on the same weapon.",
+      "zhCN": "你的主手武器拥有临时的“邪恶异界生物破敌”附魔。如果你在双头武器上使用这个能力，只有双头武器的一端会受到影响。效果持续1分钟。你可以在同一件武器上多次使用这个能力。"
+    },
+    {
+      "Key": "b1b1edda7b9a4cecb2524189e755d168",
+      "SimpleName": "ArtificeBlessingMHEvilOutsiderBaneBuff.Name",
+      "ProcessTemplates": false,
+      "enGB": "Transfer Magic - Main Hand - Evil Outsider Bane",
+      "zhCN": "转移魔法 - 主手 - 邪恶异界生物破敌"
+    },
+    {
+      "Key": "7266e456f43844a9a2ac2ac39575b0f0",
+      "SimpleName": "ArtificeBlessingMHFeyBaneAbility.Description",
+      "ProcessTemplates": true,
+      "enGB": "You can temporarily copy the Fey Bane weapon enchantment to another weapon. If you are using this ability on a double weapon, only one end of the double weapon is affected. The copy lasts for 1 minute. You can use this ability multiple times on the same weapon.",
+      "zhCN": "你可以暂时将“妖精破敌”武器附魔从一把武器复制到另一把武器。如果你在双头武器上使用这个能力，只有双头武器的一端会受到影响。效果持续1分钟。你可以在同一件武器上多次使用这个能力。"
+    },
+    {
+      "Key": "107df016239a45558c50ab57e5f87119",
+      "SimpleName": "ArtificeBlessingMHFeyBaneBuff.Description",
+      "ProcessTemplates": true,
+      "enGB": "Your main hand weapon has a temporarily copy of the Fey Bane weapon enchantment. If you are using this ability on a double weapon, only one end of the double weapon is affected. The copy lasts for 1 minute. You can stack multiple versions of this ability on the same weapon.",
+      "zhCN": "你的主手武器拥有临时的“妖精破敌”附魔。如果你在双头武器上使用这个能力，只有双头武器的一端会受到影响。效果持续1分钟。你可以在同一件武器上多次使用这个能力。"
+    },
+    {
+      "Key": "f29c44fd17b642ddb1498c2a7f4a6a13",
+      "SimpleName": "ArtificeBlessingMHFeyBaneBuff.Name",
+      "ProcessTemplates": false,
+      "enGB": "Transfer Magic - Main Hand - Fey Bane",
+      "zhCN": "转移魔法 - 主手 - 妖精破敌"
+    },
+    {
+      "Key": "7ea8c0ef390c46738583d5bc4c55a9a3",
+      "SimpleName": "ArtificeBlessingMHFlamingAbility.Description",
+      "ProcessTemplates": true,
+      "enGB": "You can temporarily copy the Flaming weapon enchantment to another weapon. If you are using this ability on a double weapon, only one end of the double weapon is affected. The copy lasts for 1 minute. You can use this ability multiple times on the same weapon.",
+      "zhCN": "你可以暂时将“炽焰”武器附魔从一把武器复制到另一把武器。如果你在双头武器上使用这个能力，只有双头武器的一端会受到影响。效果持续1分钟。你可以在同一件武器上多次使用这个能力。"
+    },
+    {
+      "Key": "e771696a9e12476795abdb413f658c69",
+      "SimpleName": "ArtificeBlessingMHFlamingBuff.Description",
+      "ProcessTemplates": true,
+      "enGB": "Your main hand weapon has a temporarily copy of the Flaming weapon enchantment. If you are using this ability on a double weapon, only one end of the double weapon is affected. The copy lasts for 1 minute. You can stack multiple versions of this ability on the same weapon.",
+      "zhCN": "你的主手武器拥有临时的“炽焰”附魔。如果你在双头武器上使用这个能力，只有双头武器的一端会受到影响。效果持续1分钟。你可以在同一件武器上多次使用这个能力。"
+    },
+    {
+      "Key": "eb975142fdbb468abbb3eb5d1591170b",
+      "SimpleName": "ArtificeBlessingMHFlamingBuff.Name",
+      "ProcessTemplates": false,
+      "enGB": "Transfer Magic - Main Hand - Flaming",
+      "zhCN": "转移魔法 - 主手 - 炽焰"
+    },
+    {
+      "Key": "afd3e205e818446698c655c62e691bb1",
+      "SimpleName": "ArtificeBlessingMHFlamingBurstAbility.Description",
+      "ProcessTemplates": true,
+      "enGB": "You can temporarily copy the Flaming Burst weapon enchantment to another weapon. If you are using this ability on a double weapon, only one end of the double weapon is affected. The copy lasts for 1 minute. You can use this ability multiple times on the same weapon.",
+      "zhCN": "你可以暂时将“焰爆”武器附魔从一把武器复制到另一把武器。如果你在双头武器上使用这个能力，只有双头武器的一端会受到影响。效果持续1分钟。你可以在同一件武器上多次使用这个能力。"
+    },
+    {
+      "Key": "15d6eae4556a495c98236a0661fb4a5f",
+      "SimpleName": "ArtificeBlessingMHFlamingBurstBuff.Description",
+      "ProcessTemplates": true,
+      "enGB": "Your main hand weapon has a temporarily copy of the Flaming Burst weapon enchantment. If you are using this ability on a double weapon, only one end of the double weapon is affected. The copy lasts for 1 minute. You can stack multiple versions of this ability on the same weapon.",
+      "zhCN": "你的主手武器拥有临时的“焰爆”附魔。如果你在双头武器上使用这个能力，只有双头武器的一端会受到影响。效果持续1分钟。你可以在同一件武器上多次使用这个能力。"
+    },
+    {
+      "Key": "d8a69dcd7e694c8ca9bbc9c98512e84b",
+      "SimpleName": "ArtificeBlessingMHFlamingBurstBuff.Name",
+      "ProcessTemplates": false,
+      "enGB": "Transfer Magic - Main Hand - Flaming Burst",
+      "zhCN": "转移魔法 - 主手 - 焰爆"
+    },
+    {
+      "Key": "dba5749c77004a308f961c1a0261509b",
+      "SimpleName": "ArtificeBlessingMHFrostAbility.Description",
+      "ProcessTemplates": true,
+      "enGB": "You can temporarily copy the Frost weapon enchantment to another weapon. If you are using this ability on a double weapon, only one end of the double weapon is affected. The copy lasts for 1 minute. You can use this ability multiple times on the same weapon.",
+      "zhCN": "你可以暂时将“寒霜”武器附魔从一把武器复制到另一把武器。如果你在双头武器上使用这个能力，只有双头武器的一端会受到影响。效果持续1分钟。你可以在同一件武器上多次使用这个能力。"
+    },
+    {
+      "Key": "d6282107e03441568a486ecdd5af11e9",
+      "SimpleName": "ArtificeBlessingMHFrostBuff.Description",
+      "ProcessTemplates": true,
+      "enGB": "Your main hand weapon has a temporarily copy of the Frost weapon enchantment. If you are using this ability on a double weapon, only one end of the double weapon is affected. The copy lasts for 1 minute. You can stack multiple versions of this ability on the same weapon.",
+      "zhCN": "你的主手武器拥有临时的“寒霜”附魔。如果你在双头武器上使用这个能力，只有双头武器的一端会受到影响。效果持续1分钟。你可以在同一件武器上多次使用这个能力。"
+    },
+    {
+      "Key": "aa233985a4c443479bb27de302adda60",
+      "SimpleName": "ArtificeBlessingMHFrostBuff.Name",
+      "ProcessTemplates": false,
+      "enGB": "Transfer Magic - Main Hand - Frost",
+      "zhCN": "转移魔法 - 主手 - 寒霜"
+    },
+    {
+      "Key": "e46f79a8b337494494efcd6df9e9bf38",
+      "SimpleName": "ArtificeBlessingMHFuriousAbility.Description",
+      "ProcessTemplates": true,
+      "enGB": "You can temporarily copy the Furious weapon enchantment to another weapon. If you are using this ability on a double weapon, only one end of the double weapon is affected. The copy lasts for 1 minute. You can use this ability multiple times on the same weapon.",
+      "zhCN": "你可以暂时将“暴怒”武器附魔从一把武器复制到另一把武器。如果你在双头武器上使用这个能力，只有双头武器的一端会受到影响。效果持续1分钟。你可以在同一件武器上多次使用这个能力。"
+    },
+    {
+      "Key": "e8335653defc45168b793d756c3ad55b",
+      "SimpleName": "ArtificeBlessingMHFuriousBuff.Description",
+      "ProcessTemplates": true,
+      "enGB": "Your main hand weapon has a temporarily copy of the Furious weapon enchantment. If you are using this ability on a double weapon, only one end of the double weapon is affected. The copy lasts for 1 minute. You can stack multiple versions of this ability on the same weapon.",
+      "zhCN": "你的主手武器拥有临时的“暴怒”附魔。如果你在双头武器上使用这个能力，只有双头武器的一端会受到影响。效果持续1分钟。你可以在同一件武器上多次使用这个能力。"
+    },
+    {
+      "Key": "1f32a75c370040ffa65d496265a7c6f7",
+      "SimpleName": "ArtificeBlessingMHFuriousBuff.Name",
+      "ProcessTemplates": false,
+      "enGB": "Transfer Magic - Main Hand - Furious",
+      "zhCN": "转移魔法 - 主手 - 暴怒"
+    },
+    {
+      "Key": "9ed0bd7c585c40daaa44e4db1996f77a",
+      "SimpleName": "ArtificeBlessingMHGhostTouchAbility.Description",
+      "ProcessTemplates": true,
+      "enGB": "You can temporarily copy the Ghost Touch weapon enchantment to another weapon. If you are using this ability on a double weapon, only one end of the double weapon is affected. The copy lasts for 1 minute. You can use this ability multiple times on the same weapon.",
+      "zhCN": "你可以暂时将“幽冥”武器附魔从一把武器复制到另一把武器。如果你在双头武器上使用这个能力，只有双头武器的一端会受到影响。效果持续1分钟。你可以在同一件武器上多次使用这个能力。"
+    },
+    {
+      "Key": "59b8f08a48be4acfa4025d98d6d87e3c",
+      "SimpleName": "ArtificeBlessingMHGhostTouchBuff.Description",
+      "ProcessTemplates": true,
+      "enGB": "Your main hand weapon has a temporarily copy of the Ghost Touch weapon enchantment. If you are using this ability on a double weapon, only one end of the double weapon is affected. The copy lasts for 1 minute. You can stack multiple versions of this ability on the same weapon.",
+      "zhCN": "你的主手武器拥有临时的“幽冥”附魔。如果你在双头武器上使用这个能力，只有双头武器的一端会受到影响。效果持续1分钟。你可以在同一件武器上多次使用这个能力。"
+    },
+    {
+      "Key": "4080349ab08a4fdeb65900c774a0f425",
+      "SimpleName": "ArtificeBlessingMHGhostTouchBuff.Name",
+      "ProcessTemplates": false,
+      "enGB": "Transfer Magic - Main Hand - Ghost Touch",
+      "zhCN": "转移魔法 - 主手 - 幽冥"
+    },
+    {
+      "Key": "eca039bf43fa4d86acc17c3c24a456e7",
+      "SimpleName": "ArtificeBlessingMHGiantBaneAbility.Description",
+      "ProcessTemplates": true,
+      "enGB": "You can temporarily copy the Giant Bane weapon enchantment to another weapon. If you are using this ability on a double weapon, only one end of the double weapon is affected. The copy lasts for 1 minute. You can use this ability multiple times on the same weapon.",
+      "zhCN": "你可以暂时将“巨人破敌”武器附魔从一把武器复制到另一把武器。如果你在双头武器上使用这个能力，只有双头武器的一端会受到影响。效果持续1分钟。你可以在同一件武器上多次使用这个能力。"
+    },
+    {
+      "Key": "0a5799ad55eb459ba05a338eadd2226f",
+      "SimpleName": "ArtificeBlessingMHGiantBaneBuff.Description",
+      "ProcessTemplates": true,
+      "enGB": "Your main hand weapon has a temporarily copy of the Giant Bane weapon enchantment. If you are using this ability on a double weapon, only one end of the double weapon is affected. The copy lasts for 1 minute. You can stack multiple versions of this ability on the same weapon.",
+      "zhCN": "你的主手武器拥有临时的“巨人破敌”附魔。如果你在双头武器上使用这个能力，只有双头武器的一端会受到影响。效果持续1分钟。你可以在同一件武器上多次使用这个能力。"
+    },
+    {
+      "Key": "4ca42f9996904866a68ff8a98db1e88d",
+      "SimpleName": "ArtificeBlessingMHGiantBaneBuff.Name",
+      "ProcessTemplates": false,
+      "enGB": "Transfer Magic - Main Hand - Giant Bane",
+      "zhCN": "转移魔法 - 主手 - 巨人破敌"
+    },
+    {
+      "Key": "177714e6852c4d97a01638dc8415a035",
+      "SimpleName": "ArtificeBlessingMHGoodOutsiderBaneAbility.Description",
+      "ProcessTemplates": true,
+      "enGB": "You can temporarily copy the Good Outsider Bane weapon enchantment to another weapon. If you are using this ability on a double weapon, only one end of the double weapon is affected. The copy lasts for 1 minute. You can use this ability multiple times on the same weapon.",
+      "zhCN": "你可以暂时将“善良异界生物破敌”武器附魔从一把武器复制到另一把武器。如果你在双头武器上使用这个能力，只有双头武器的一端会受到影响。效果持续1分钟。你可以在同一件武器上多次使用这个能力。"
+    },
+    {
+      "Key": "6ffb235b707947e090b628d5400f4512",
+      "SimpleName": "ArtificeBlessingMHGoodOutsiderBaneBuff.Description",
+      "ProcessTemplates": true,
+      "enGB": "Your main hand weapon has a temporarily copy of the Good Outsider Bane weapon enchantment. If you are using this ability on a double weapon, only one end of the double weapon is affected. The copy lasts for 1 minute. You can stack multiple versions of this ability on the same weapon.",
+      "zhCN": "你的主手武器拥有临时的“善良异界生物破敌”附魔。如果你在双头武器上使用这个能力，只有双头武器的一端会受到影响。效果持续1分钟。你可以在同一件武器上多次使用这个能力。"
+    },
+    {
+      "Key": "f8f691a424a44270a2989f86c7f4309e",
+      "SimpleName": "ArtificeBlessingMHGoodOutsiderBaneBuff.Name",
+      "ProcessTemplates": false,
+      "enGB": "Transfer Magic - Main Hand - Good Outsider Bane",
+      "zhCN": "转移魔法 - 主手 - 善良异界生物破敌"
+    },
+    {
+      "Key": "313ee295a7e24f059d7a81fe9df3f084",
+      "SimpleName": "ArtificeBlessingMHHeartseekerAbility.Description",
+      "ProcessTemplates": true,
+      "enGB": "You can temporarily copy the Heartseeker weapon enchantment to another weapon. If you are using this ability on a double weapon, only one end of the double weapon is affected. The copy lasts for 1 minute. You can use this ability multiple times on the same weapon.",
+      "zhCN": "你可以暂时将“觅心”武器附魔从一把武器复制到另一把武器。如果你在双头武器上使用这个能力，只有双头武器的一端会受到影响。效果持续1分钟。你可以在同一件武器上多次使用这个能力。"
+    },
+    {
+      "Key": "69735e524906487ab3a4cc00298a2326",
+      "SimpleName": "ArtificeBlessingMHHeartseekerBuff.Description",
+      "ProcessTemplates": true,
+      "enGB": "Your main hand weapon has a temporarily copy of the Heartseeker weapon enchantment. If you are using this ability on a double weapon, only one end of the double weapon is affected. The copy lasts for 1 minute. You can stack multiple versions of this ability on the same weapon.",
+      "zhCN": "你的主手武器拥有临时的“觅心”附魔。如果你在双头武器上使用这个能力，只有双头武器的一端会受到影响。效果持续1分钟。你可以在同一件武器上多次使用这个能力。"
+    },
+    {
+      "Key": "9ccfdea6158e443ea7efa081ffc1a6e4",
+      "SimpleName": "ArtificeBlessingMHHeartseekerBuff.Name",
+      "ProcessTemplates": false,
+      "enGB": "Transfer Magic - Main Hand - Heartseeker",
+      "zhCN": "转移魔法 - 主手 - 觅心"
+    },
+    {
+      "Key": "ffa2ddb0ecab418d81eca0c485019d71",
+      "SimpleName": "ArtificeBlessingMHHolyAbility.Description",
+      "ProcessTemplates": true,
+      "enGB": "You can temporarily copy the Holy weapon enchantment to another weapon. If you are using this ability on a double weapon, only one end of the double weapon is affected. The copy lasts for 1 minute. You can use this ability multiple times on the same weapon.",
+      "zhCN": "你可以暂时将“神圣”武器附魔从一把武器复制到另一把武器。如果你在双头武器上使用这个能力，只有双头武器的一端会受到影响。效果持续1分钟。你可以在同一件武器上多次使用这个能力。"
+    },
+    {
+      "Key": "a549936106fa447bb50397e76e6af52f",
+      "SimpleName": "ArtificeBlessingMHHolyBuff.Description",
+      "ProcessTemplates": true,
+      "enGB": "Your main hand weapon has a temporarily copy of the Holy weapon enchantment. If you are using this ability on a double weapon, only one end of the double weapon is affected. The copy lasts for 1 minute. You can stack multiple versions of this ability on the same weapon.",
+      "zhCN": "你的主手武器拥有临时的“神圣”附魔。如果你在双头武器上使用这个能力，只有双头武器的一端会受到影响。效果持续1分钟。你可以在同一件武器上多次使用这个能力。"
+    },
+    {
+      "Key": "b773986931484e2fa9f21a94a93ec183",
+      "SimpleName": "ArtificeBlessingMHHolyBuff.Name",
+      "ProcessTemplates": false,
+      "enGB": "Transfer Magic - Main Hand - Holy",
+      "zhCN": "转移魔法 - 主手 - 神圣"
+    },
+    {
+      "Key": "aefc353d0196460d805c1dd4302f6fcb",
+      "SimpleName": "ArtificeBlessingMHIcyBurstAbility.Description",
+      "ProcessTemplates": true,
+      "enGB": "You can temporarily copy the Icy Burst weapon enchantment to another weapon. If you are using this ability on a double weapon, only one end of the double weapon is affected. The copy lasts for 1 minute. You can use this ability multiple times on the same weapon.",
+      "zhCN": "你可以暂时将“霜爆”武器附魔从一把武器复制到另一把武器。如果你在双头武器上使用这个能力，只有双头武器的一端会受到影响。效果持续1分钟。你可以在同一件武器上多次使用这个能力。"
+    },
+    {
+      "Key": "b247e58b9d07431f92cd4a978e8f00e7",
+      "SimpleName": "ArtificeBlessingMHIcyBurstBuff.Description",
+      "ProcessTemplates": true,
+      "enGB": "Your main hand weapon has a temporarily copy of the Icy Burst weapon enchantment. If you are using this ability on a double weapon, only one end of the double weapon is affected. The copy lasts for 1 minute. You can stack multiple versions of this ability on the same weapon.",
+      "zhCN": "你的主手武器拥有临时的“霜爆”附魔。如果你在双头武器上使用这个能力，只有双头武器的一端会受到影响。效果持续1分钟。你可以在同一件武器上多次使用这个能力。"
+    },
+    {
+      "Key": "8b8a5765edbd4a6bb36992f00dfccc44",
+      "SimpleName": "ArtificeBlessingMHIcyBurstBuff.Name",
+      "ProcessTemplates": false,
+      "enGB": "Transfer Magic - Main Hand - Icy Burst",
+      "zhCN": "转移魔法 - 主手 - 霜爆"
+    },
+    {
+      "Key": "022660e982804cd48516839a713eef80",
+      "SimpleName": "ArtificeBlessingMHKeenAbility.Description",
+      "ProcessTemplates": true,
+      "enGB": "You can temporarily copy the Keen weapon enchantment to another weapon. If you are using this ability on a double weapon, only one end of the double weapon is affected. The copy lasts for 1 minute. You can use this ability multiple times on the same weapon.",
+      "zhCN": "你可以暂时将“锐锋”武器附魔从一把武器复制到另一把武器。如果你在双头武器上使用这个能力，只有双头武器的一端会受到影响。效果持续1分钟。你可以在同一件武器上多次使用这个能力。"
+    },
+    {
+      "Key": "8bc6079a303c46b1983ad332c7d551ad",
+      "SimpleName": "ArtificeBlessingMHKeenBuff.Description",
+      "ProcessTemplates": true,
+      "enGB": "Your main hand weapon has a temporarily copy of the Keen weapon enchantment. If you are using this ability on a double weapon, only one end of the double weapon is affected. The copy lasts for 1 minute. You can stack multiple versions of this ability on the same weapon.",
+      "zhCN": "你的主手武器拥有临时的“锐锋”附魔。如果你在双头武器上使用这个能力，只有双头武器的一端会受到影响。效果持续1分钟。你可以在同一件武器上多次使用这个能力。"
+    },
+    {
+      "Key": "ecf1a45770014d3f9b24a87cc05e5687",
+      "SimpleName": "ArtificeBlessingMHKeenBuff.Name",
+      "ProcessTemplates": false,
+      "enGB": "Transfer Magic - Main Hand - Keen",
+      "zhCN": "转移魔法 - 主手 - 锐锋"
+    },
+    {
+      "Key": "6a1ffdec1fd541d8a79494981e2b4eb9",
+      "SimpleName": "ArtificeBlessingMHLawfulOutsiderBaneAbility.Description",
+      "ProcessTemplates": true,
+      "enGB": "You can temporarily copy the Lawful Outsider Bane weapon enchantment to another weapon. If you are using this ability on a double weapon, only one end of the double weapon is affected. The copy lasts for 1 minute. You can use this ability multiple times on the same weapon.",
+      "zhCN": "你可以暂时将“守序异界生物破敌”武器附魔从一把武器复制到另一把武器。如果你在双头武器上使用这个能力，只有双头武器的一端会受到影响。效果持续1分钟。你可以在同一件武器上多次使用这个能力。"
+    },
+    {
+      "Key": "5182972f0b7140bf90f107fd20867cd7",
+      "SimpleName": "ArtificeBlessingMHLawfulOutsiderBaneBuff.Description",
+      "ProcessTemplates": true,
+      "enGB": "Your main hand weapon has a temporarily copy of the Lawful Outsider Bane weapon enchantment. If you are using this ability on a double weapon, only one end of the double weapon is affected. The copy lasts for 1 minute. You can stack multiple versions of this ability on the same weapon.",
+      "zhCN": "你的主手武器拥有临时的“守序异界生物破敌”附魔。如果你在双头武器上使用这个能力，只有双头武器的一端会受到影响。效果持续1分钟。你可以在同一件武器上多次使用这个能力。"
+    },
+    {
+      "Key": "069e002545244fecb10b2772b6aa2a3d",
+      "SimpleName": "ArtificeBlessingMHLawfulOutsiderBaneBuff.Name",
+      "ProcessTemplates": false,
+      "enGB": "Transfer Magic - Main Hand - Lawful Outsider Bane",
+      "zhCN": "转移魔法 - 主手 - 守序异界生物破敌"
+    },
+    {
+      "Key": "fb51769de82f42dabc6b9b0b9beb8777",
+      "SimpleName": "ArtificeBlessingMHLivingBaneAbility.Description",
+      "ProcessTemplates": true,
+      "enGB": "You can temporarily copy the Living Bane weapon enchantment to another weapon. If you are using this ability on a double weapon, only one end of the double weapon is affected. The copy lasts for 1 minute. You can use this ability multiple times on the same weapon.",
+      "zhCN": "你可以暂时将“活物破敌”武器附魔从一把武器复制到另一把武器。如果你在双头武器上使用这个能力，只有双头武器的一端会受到影响。效果持续1分钟。你可以在同一件武器上多次使用这个能力。"
+    },
+    {
+      "Key": "fe8f340bab4c4007aa9f42a2397f25d8",
+      "SimpleName": "ArtificeBlessingMHLivingBaneBuff.Description",
+      "ProcessTemplates": true,
+      "enGB": "Your main hand weapon has a temporarily copy of the Living Bane weapon enchantment. If you are using this ability on a double weapon, only one end of the double weapon is affected. The copy lasts for 1 minute. You can stack multiple versions of this ability on the same weapon.",
+      "zhCN": "你的主手武器拥有临时的“活物破敌”附魔。如果你在双头武器上使用这个能力，只有双头武器的一端会受到影响。效果持续1分钟。你可以在同一件武器上多次使用这个能力。"
+    },
+    {
+      "Key": "35bc79f6a5fe4507bba188bdfb9d81c8",
+      "SimpleName": "ArtificeBlessingMHLivingBaneBuff.Name",
+      "ProcessTemplates": false,
+      "enGB": "Transfer Magic - Main Hand - Living Bane",
+      "zhCN": "转移魔法 - 主手 - 活物破敌"
+    },
+    {
+      "Key": "cfa86950b5d84c6eb8c09f5d2ea08edd",
+      "SimpleName": "ArtificeBlessingMHLycanthropeBaneAbility.Description",
+      "ProcessTemplates": true,
+      "enGB": "You can temporarily copy the Lycanthrope Bane weapon enchantment to another weapon. If you are using this ability on a double weapon, only one end of the double weapon is affected. The copy lasts for 1 minute. You can use this ability multiple times on the same weapon.",
+      "zhCN": "你可以暂时将“兽化人破敌”武器附魔从一把武器复制到另一把武器。如果你在双头武器上使用这个能力，只有双头武器的一端会受到影响。效果持续1分钟。你可以在同一件武器上多次使用这个能力。"
+    },
+    {
+      "Key": "b5212bf84fae49d99540e22631cd3154",
+      "SimpleName": "ArtificeBlessingMHLycanthropeBaneBuff.Description",
+      "ProcessTemplates": true,
+      "enGB": "Your main hand weapon has a temporarily copy of the Lycanthrope Bane weapon enchantment. If you are using this ability on a double weapon, only one end of the double weapon is affected. The copy lasts for 1 minute. You can stack multiple versions of this ability on the same weapon.",
+      "zhCN": "你的主手武器拥有临时的“兽化人破敌”附魔。如果你在双头武器上使用这个能力，只有双头武器的一端会受到影响。效果持续1分钟。你可以在同一件武器上多次使用这个能力。"
+    },
+    {
+      "Key": "d4d20e87dbd5493bb79c1eaad3209c30",
+      "SimpleName": "ArtificeBlessingMHLycanthropeBaneBuff.Name",
+      "ProcessTemplates": false,
+      "enGB": "Transfer Magic - Main Hand - Lycanthrope Bane",
+      "zhCN": "转移魔法 - 主手 - 兽化人破敌"
+    },
+    {
+      "Key": "4f1387c786d34568bdd28505b03437c4",
+      "SimpleName": "ArtificeBlessingMHMagicalBeastBaneAbility.Description",
+      "ProcessTemplates": true,
+      "enGB": "You can temporarily copy the Magical Beast Bane weapon enchantment to another weapon. If you are using this ability on a double weapon, only one end of the double weapon is affected. The copy lasts for 1 minute. You can use this ability multiple times on the same weapon.",
+      "zhCN": "你可以暂时将“魔法兽破敌”武器附魔从一把武器复制到另一把武器。如果你在双头武器上使用这个能力，只有双头武器的一端会受到影响。效果持续1分钟。你可以在同一件武器上多次使用这个能力。"
+    },
+    {
+      "Key": "4d2ef713b77742dea137715f5e89a7aa",
+      "SimpleName": "ArtificeBlessingMHMagicalBeastBaneBuff.Description",
+      "ProcessTemplates": true,
+      "enGB": "Your main hand weapon has a temporarily copy of the Magical Beast Bane weapon enchantment. If you are using this ability on a double weapon, only one end of the double weapon is affected. The copy lasts for 1 minute. You can stack multiple versions of this ability on the same weapon.",
+      "zhCN": "你的主手武器拥有临时的“魔法兽破敌”附魔。如果你在双头武器上使用这个能力，只有双头武器的一端会受到影响。效果持续1分钟。你可以在同一件武器上多次使用这个能力。"
+    },
+    {
+      "Key": "05f13db0ad0f428ca44316588d848701",
+      "SimpleName": "ArtificeBlessingMHMagicalBeastBaneBuff.Name",
+      "ProcessTemplates": false,
+      "enGB": "Transfer Magic - Main Hand - Magical Beast Bane",
+      "zhCN": "转移魔法 - 主手 - 魔法兽破敌"
+    },
+    {
+      "Key": "6b82fb370e654806a79aab1f6393fe56",
+      "SimpleName": "ArtificeBlessingMHNecroticAbility.Description",
+      "ProcessTemplates": true,
+      "enGB": "You can temporarily copy the Necrotic weapon enchantment to another weapon. If you are using this ability on a double weapon, only one end of the double weapon is affected. The copy lasts for 1 minute. You can use this ability multiple times on the same weapon.",
+      "zhCN": "你可以暂时将“死灵”武器附魔从一把武器复制到另一把武器。如果你在双头武器上使用这个能力，只有双头武器的一端会受到影响。效果持续1分钟。你可以在同一件武器上多次使用这个能力。"
+    },
+    {
+      "Key": "dad9ccb7877f4f8192250ffbda8cc094",
+      "SimpleName": "ArtificeBlessingMHNecroticBuff.Description",
+      "ProcessTemplates": true,
+      "enGB": "Your main hand weapon has a temporarily copy of the Necrotic weapon enchantment. If you are using this ability on a double weapon, only one end of the double weapon is affected. The copy lasts for 1 minute. You can stack multiple versions of this ability on the same weapon.",
+      "zhCN": "你的主手武器拥有临时的“死灵”附魔。如果你在双头武器上使用这个能力，只有双头武器的一端会受到影响。效果持续1分钟。你可以在同一件武器上多次使用这个能力。"
+    },
+    {
+      "Key": "319904b84f9a4cdd8509557b171f48cd",
+      "SimpleName": "ArtificeBlessingMHNecroticBuff.Name",
+      "ProcessTemplates": false,
+      "enGB": "Transfer Magic - Main Hand - Necrotic",
+      "zhCN": "转移魔法 - 主手 - 死灵"
+    },
+    {
+      "Key": "8694c4b224db4f638ebdb53f89fe0846",
+      "SimpleName": "ArtificeBlessingMHNeutralOutsiderBaneAbility.Description",
+      "ProcessTemplates": true,
+      "enGB": "You can temporarily copy the Neutral Outsider Bane weapon enchantment to another weapon. If you are using this ability on a double weapon, only one end of the double weapon is affected. The copy lasts for 1 minute. You can use this ability multiple times on the same weapon.",
+      "zhCN": "你可以暂时将“中立异界生物破敌”武器附魔从一把武器复制到另一把武器。如果你在双头武器上使用这个能力，只有双头武器的一端会受到影响。效果持续1分钟。你可以在同一件武器上多次使用这个能力。"
+    },
+    {
+      "Key": "3849e6df039245d980aa9120d6a4b087",
+      "SimpleName": "ArtificeBlessingMHNeutralOutsiderBaneBuff.Description",
+      "ProcessTemplates": true,
+      "enGB": "Your main hand weapon has a temporarily copy of the Neutral Outsider Bane weapon enchantment. If you are using this ability on a double weapon, only one end of the double weapon is affected. The copy lasts for 1 minute. You can stack multiple versions of this ability on the same weapon.",
+      "zhCN": "你的主手武器拥有临时的“中立异界生物破敌”附魔。如果你在双头武器上使用这个能力，只有双头武器的一端会受到影响。效果持续1分钟。你可以在同一件武器上多次使用这个能力。"
+    },
+    {
+      "Key": "dcf8ba15f7894a5fa9ef1e5c8e66421d",
+      "SimpleName": "ArtificeBlessingMHNeutralOutsiderBaneBuff.Name",
+      "ProcessTemplates": false,
+      "enGB": "Transfer Magic - Main Hand - Neutral Outsider Bane",
+      "zhCN": "转移魔法 - 主手 - 中立异界生物破敌"
+    },
+    {
+      "Key": "57312104a2e044c2b74bad3c2521d858",
+      "SimpleName": "ArtificeBlessingMHPlantBaneAbility.Description",
+      "ProcessTemplates": true,
+      "enGB": "You can temporarily copy the Plant Bane weapon enchantment to another weapon. If you are using this ability on a double weapon, only one end of the double weapon is affected. The copy lasts for 1 minute. You can use this ability multiple times on the same weapon.",
+      "zhCN": "你可以暂时将“植物破敌”武器附魔从一把武器复制到另一把武器。如果你在双头武器上使用这个能力，只有双头武器的一端会受到影响。效果持续1分钟。你可以在同一件武器上多次使用这个能力。"
+    },
+    {
+      "Key": "15f3256cf30e427398bbf40672af770f",
+      "SimpleName": "ArtificeBlessingMHPlantBaneBuff.Description",
+      "ProcessTemplates": true,
+      "enGB": "Your main hand weapon has a temporarily copy of the Plant Bane weapon enchantment. If you are using this ability on a double weapon, only one end of the double weapon is affected. The copy lasts for 1 minute. You can stack multiple versions of this ability on the same weapon.",
+      "zhCN": "你的主手武器拥有临时的“植物破敌”附魔。如果你在双头武器上使用这个能力，只有双头武器的一端会受到影响。效果持续1分钟。你可以在同一件武器上多次使用这个能力。"
+    },
+    {
+      "Key": "39bbeabe741246528816c85e1de86ce5",
+      "SimpleName": "ArtificeBlessingMHPlantBaneBuff.Name",
+      "ProcessTemplates": false,
+      "enGB": "Transfer Magic - Main Hand - Plant Bane",
+      "zhCN": "转移魔法 - 主手 - 植物破敌"
+    },
+    {
+      "Key": "523c49b3e340423ba76b1eaf0235cc2d",
+      "SimpleName": "ArtificeBlessingMHRadiantAbility.Description",
+      "ProcessTemplates": true,
+      "enGB": "You can temporarily copy the Radiant weapon enchantment to another weapon. If you are using this ability on a double weapon, only one end of the double weapon is affected. The copy lasts for 1 minute. You can use this ability multiple times on the same weapon.",
+      "zhCN": "你可以暂时将“辐光”武器附魔从一把武器复制到另一把武器。如果你在双头武器上使用这个能力，只有双头武器的一端会受到影响。效果持续1分钟。你可以在同一件武器上多次使用这个能力。"
+    },
+    {
+      "Key": "a30fa2ff8fee4b9aa05866313aa42b2b",
+      "SimpleName": "ArtificeBlessingMHRadiantBuff.Description",
+      "ProcessTemplates": true,
+      "enGB": "Your main hand weapon has a temporarily copy of the Radiant weapon enchantment. If you are using this ability on a double weapon, only one end of the double weapon is affected. The copy lasts for 1 minute. You can stack multiple versions of this ability on the same weapon.",
+      "zhCN": "你的主手武器拥有临时的“辐光”附魔。如果你在双头武器上使用这个能力，只有双头武器的一端会受到影响。效果持续1分钟。你可以在同一件武器上多次使用这个能力。"
+    },
+    {
+      "Key": "6b2b6cdbb294419290248bb46b70b82b",
+      "SimpleName": "ArtificeBlessingMHRadiantBuff.Name",
+      "ProcessTemplates": false,
+      "enGB": "Transfer Magic - Main Hand - Radiant",
+      "zhCN": "转移魔法 - 主手 - 辐光"
+    },
+    {
+      "Key": "e35900c7a3644d4cb60df7527cf96431",
+      "SimpleName": "ArtificeBlessingMHShockAbility.Description",
+      "ProcessTemplates": true,
+      "enGB": "You can temporarily copy the Shock weapon enchantment to another weapon. If you are using this ability on a double weapon, only one end of the double weapon is affected. The copy lasts for 1 minute. You can use this ability multiple times on the same weapon.",
+      "zhCN": "你可以暂时将“震电”武器附魔从一把武器复制到另一把武器。如果你在双头武器上使用这个能力，只有双头武器的一端会受到影响。效果持续1分钟。你可以在同一件武器上多次使用这个能力。"
+    },
+    {
+      "Key": "ef462730e3db4d0ca2a4b79ff00d3f37",
+      "SimpleName": "ArtificeBlessingMHShockBuff.Description",
+      "ProcessTemplates": true,
+      "enGB": "Your main hand weapon has a temporarily copy of the Shock weapon enchantment. If you are using this ability on a double weapon, only one end of the double weapon is affected. The copy lasts for 1 minute. You can stack multiple versions of this ability on the same weapon.",
+      "zhCN": "你的主手武器拥有临时的“震电”附魔。如果你在双头武器上使用这个能力，只有双头武器的一端会受到影响。效果持续1分钟。你可以在同一件武器上多次使用这个能力。"
+    },
+    {
+      "Key": "3c68be0517d2435c8a5fa8de0a4a81cf",
+      "SimpleName": "ArtificeBlessingMHShockBuff.Name",
+      "ProcessTemplates": false,
+      "enGB": "Transfer Magic - Main Hand - Shock",
+      "zhCN": "转移魔法 - 主手 - 震电"
+    },
+    {
+      "Key": "f16b5615dd4648e88ba2570a1ee2644d",
+      "SimpleName": "ArtificeBlessingMHShockingBurstAbility.Description",
+      "ProcessTemplates": true,
+      "enGB": "You can temporarily copy the Shocking Burst weapon enchantment to another weapon. If you are using this ability on a double weapon, only one end of the double weapon is affected. The copy lasts for 1 minute. You can use this ability multiple times on the same weapon.",
+      "zhCN": "你可以暂时将“电爆”武器附魔从一把武器复制到另一把武器。如果你在双头武器上使用这个能力，只有双头武器的一端会受到影响。效果持续1分钟。你可以在同一件武器上多次使用这个能力。"
+    },
+    {
+      "Key": "0b2c5c873fb2427583aa396629030f2f",
+      "SimpleName": "ArtificeBlessingMHShockingBurstBuff.Description",
+      "ProcessTemplates": true,
+      "enGB": "Your main hand weapon has a temporarily copy of the Shocking Burst weapon enchantment. If you are using this ability on a double weapon, only one end of the double weapon is affected. The copy lasts for 1 minute. You can stack multiple versions of this ability on the same weapon.",
+      "zhCN": "你的主手武器拥有临时的“电爆”附魔。如果你在双头武器上使用这个能力，只有双头武器的一端会受到影响。效果持续1分钟。你可以在同一件武器上多次使用这个能力。"
+    },
+    {
+      "Key": "7ae170530de241f88df92c0eb4cb3f24",
+      "SimpleName": "ArtificeBlessingMHShockingBurstBuff.Name",
+      "ProcessTemplates": false,
+      "enGB": "Transfer Magic - Main Hand - Shocking Burst",
+      "zhCN": "转移魔法 - 主手 - 电爆"
+    },
+    {
+      "Key": "006f45d14d7847959bc891dc3f17ddc2",
+      "SimpleName": "ArtificeBlessingMHSpeedAbility.Description",
+      "ProcessTemplates": true,
+      "enGB": "You can temporarily copy the Speed weapon enchantment to another weapon. If you are using this ability on a double weapon, only one end of the double weapon is affected. The copy lasts for 1 minute. You can use this ability multiple times on the same weapon.",
+      "zhCN": "你可以暂时将“追击”武器附魔从一把武器复制到另一把武器。如果你在双头武器上使用这个能力，只有双头武器的一端会受到影响。效果持续1分钟。你可以在同一件武器上多次使用这个能力。"
+    },
+    {
+      "Key": "2ed408a73a764d48bb828f704c2a1ca4",
+      "SimpleName": "ArtificeBlessingMHSpeedAbilitySwift.Description",
+      "ProcessTemplates": true,
+      "enGB": "You can temporarily copy the Speed weapon enchantment to another weapon. If you are using this ability on a double weapon, only one end of the double weapon is affected. The copy lasts for 1 minute. You can use this ability multiple times on the same weapon.",
+      "zhCN": "你可以暂时将“追击”武器附魔从一把武器复制到另一把武器。如果你在双头武器上使用这个能力，只有双头武器的一端会受到影响。效果持续1分钟。你可以在同一件武器上多次使用这个能力。"
+    },
+    {
+      "Key": "19e9fbd2330f4a0598466303d0ccb1d8",
+      "SimpleName": "ArtificeBlessingMHSpeedBuff.Description",
+      "ProcessTemplates": true,
+      "enGB": "Your main hand weapon has a temporarily copy of the Speed weapon enchantment. If you are using this ability on a double weapon, only one end of the double weapon is affected. The copy lasts for 1 minute. You can stack multiple versions of this ability on the same weapon.",
+      "zhCN": "你的主手武器拥有临时的“追击”附魔。如果你在双头武器上使用这个能力，只有双头武器的一端会受到影响。效果持续1分钟。你可以在同一件武器上多次使用这个能力。"
+    },
+    {
+      "Key": "4e2242ee5f6f468c87c3af96564bb3c4",
+      "SimpleName": "ArtificeBlessingMHSpeedBuff.Name",
+      "ProcessTemplates": false,
+      "enGB": "Transfer Magic - Main Hand - Speed",
+      "zhCN": "转移魔法 - 主手 - 追击"
+    },
+    {
+      "Key": "75d68130831c4576995c70ae2cbe80eb",
+      "SimpleName": "ArtificeBlessingMHThunderingAbility.Description",
+      "ProcessTemplates": true,
+      "enGB": "You can temporarily copy the Thundering weapon enchantment to another weapon. If you are using this ability on a double weapon, only one end of the double weapon is affected. The copy lasts for 1 minute. You can use this ability multiple times on the same weapon.",
+      "zhCN": "你可以暂时将“雷鸣”武器附魔从一把武器复制到另一把武器。如果你在双头武器上使用这个能力，只有双头武器的一端会受到影响。效果持续1分钟。你可以在同一件武器上多次使用这个能力。"
+    },
+    {
+      "Key": "336820c7883948c89c00d34739cac450",
+      "SimpleName": "ArtificeBlessingMHThunderingBuff.Description",
+      "ProcessTemplates": true,
+      "enGB": "Your main hand weapon has a temporarily copy of the Thundering weapon enchantment. If you are using this ability on a double weapon, only one end of the double weapon is affected. The copy lasts for 1 minute. You can stack multiple versions of this ability on the same weapon.",
+      "zhCN": "你的主手武器拥有临时的“雷鸣”附魔。如果你在双头武器上使用这个能力，只有双头武器的一端会受到影响。效果持续1分钟。你可以在同一件武器上多次使用这个能力。"
+    },
+    {
+      "Key": "fb9253db390a43aa89a500d88c48be92",
+      "SimpleName": "ArtificeBlessingMHThunderingBuff.Name",
+      "ProcessTemplates": false,
+      "enGB": "Transfer Magic - Main Hand - Thundering",
+      "zhCN": "转移魔法 - 主手 - 雷鸣"
+    },
+    {
+      "Key": "7f3214b755de4e83add96b47380a7522",
+      "SimpleName": "ArtificeBlessingMHUndeadBaneAbility.Description",
+      "ProcessTemplates": true,
+      "enGB": "You can temporarily copy the Undead Bane weapon enchantment to another weapon. If you are using this ability on a double weapon, only one end of the double weapon is affected. The copy lasts for 1 minute. You can use this ability multiple times on the same weapon.",
+      "zhCN": "你可以暂时将“不死生物破敌”武器附魔从一把武器复制到另一把武器。如果你在双头武器上使用这个能力，只有双头武器的一端会受到影响。效果持续1分钟。你可以在同一件武器上多次使用这个能力。"
+    },
+    {
+      "Key": "48914ee85e3f4dceb700dda5a1e9916f",
+      "SimpleName": "ArtificeBlessingMHUndeadBaneBuff.Description",
+      "ProcessTemplates": true,
+      "enGB": "Your main hand weapon has a temporarily copy of the Undead Bane weapon enchantment. If you are using this ability on a double weapon, only one end of the double weapon is affected. The copy lasts for 1 minute. You can stack multiple versions of this ability on the same weapon.",
+      "zhCN": "你的主手武器拥有临时的“不死生物破敌”附魔。如果你在双头武器上使用这个能力，只有双头武器的一端会受到影响。效果持续1分钟。你可以在同一件武器上多次使用这个能力。"
+    },
+    {
+      "Key": "e07899c1447249fbbcb720eecbb34856",
+      "SimpleName": "ArtificeBlessingMHUndeadBaneBuff.Name",
+      "ProcessTemplates": false,
+      "enGB": "Transfer Magic - Main Hand - Undead Bane",
+      "zhCN": "转移魔法 - 主手 - 不死生物破敌"
+    },
+    {
+      "Key": "39cfcb5027ef4c59bb9381889359bb23",
+      "SimpleName": "ArtificeBlessingMHUnholyAbility.Description",
+      "ProcessTemplates": true,
+      "enGB": "You can temporarily copy the Unholy weapon enchantment to another weapon. If you are using this ability on a double weapon, only one end of the double weapon is affected. The copy lasts for 1 minute. You can use this ability multiple times on the same weapon.",
+      "zhCN": "你可以暂时将“污邪”武器附魔从一把武器复制到另一把武器。如果你在双头武器上使用这个能力，只有双头武器的一端会受到影响。效果持续1分钟。你可以在同一件武器上多次使用这个能力。"
+    },
+    {
+      "Key": "1fa34b739c20461f83a731e354201a6b",
+      "SimpleName": "ArtificeBlessingMHUnholyBuff.Description",
+      "ProcessTemplates": true,
+      "enGB": "Your main hand weapon has a temporarily copy of the Unholy weapon enchantment. If you are using this ability on a double weapon, only one end of the double weapon is affected. The copy lasts for 1 minute. You can stack multiple versions of this ability on the same weapon.",
+      "zhCN": "你的主手武器拥有临时的“污邪”附魔。如果你在双头武器上使用这个能力，只有双头武器的一端会受到影响。效果持续1分钟。你可以在同一件武器上多次使用这个能力。"
+    },
+    {
+      "Key": "93e22654dc164cd9b348282b5ce8f68d",
+      "SimpleName": "ArtificeBlessingMHUnholyBuff.Name",
+      "ProcessTemplates": false,
+      "enGB": "Transfer Magic - Main Hand - Unholy",
+      "zhCN": "转移魔法 - 主手 - 污邪"
+    },
+    {
+      "Key": "d68c758caf72481589efa47c4021f564",
+      "SimpleName": "ArtificeBlessingMHVerminBaneAbility.Description",
+      "ProcessTemplates": true,
+      "enGB": "You can temporarily copy the Vermin Bane weapon enchantment to another weapon. If you are using this ability on a double weapon, only one end of the double weapon is affected. The copy lasts for 1 minute. You can use this ability multiple times on the same weapon.",
+      "zhCN": "你可以暂时将“虫类破敌”武器附魔从一把武器复制到另一把武器。如果你在双头武器上使用这个能力，只有双头武器的一端会受到影响。效果持续1分钟。你可以在同一件武器上多次使用这个能力。"
+    },
+    {
+      "Key": "4cb0482b718e443f8274b06d2d550265",
+      "SimpleName": "ArtificeBlessingMHVerminBaneBuff.Description",
+      "ProcessTemplates": true,
+      "enGB": "Your main hand weapon has a temporarily copy of the Vermin Bane weapon enchantment. If you are using this ability on a double weapon, only one end of the double weapon is affected. The copy lasts for 1 minute. You can stack multiple versions of this ability on the same weapon.",
+      "zhCN": "你的主手武器拥有临时的“虫类破敌”附魔。如果你在双头武器上使用这个能力，只有双头武器的一端会受到影响。效果持续1分钟。你可以在同一件武器上多次使用这个能力。"
+    },
+    {
+      "Key": "5eeebd59eaed47e68ac58fe76ef68f87",
+      "SimpleName": "ArtificeBlessingMHVerminBaneBuff.Name",
+      "ProcessTemplates": false,
+      "enGB": "Transfer Magic - Main Hand - Vermin Bane",
+      "zhCN": "转移魔法 - 主手 - 虫类破敌"
+    },
+    {
+      "Key": "56e07d135c194e2a82e141afc6bf88b5",
+      "SimpleName": "ArtificeBlessingMinorAbility.Description",
+      "ProcessTemplates": true,
+      "enGB": "You may touch an ally and grant them greater power to harm and destroy crafted objects. For 1 minute, whenever this ally deals damage to constructs or objects with melee weapons, they bypasses hardness and damage reduction.",
+      "zhCN": "你可以触碰一个盟友，授予他们损害加工品的伟力。1分钟内，当该盟友使用近战武器对构装体或物品或者物品造成伤害时，他们忽视硬度和伤害减免。"
+    },
+    {
+      "Key": "9305e306c0624389a63ba1a126735e4c",
+      "SimpleName": "ArtificeBlessingMinorBuff.Description",
+      "ProcessTemplates": true,
+      "enGB": "For 1 minute, whenever you deal damage to constructs or objects with melee weapons, you bypasses hardness and damage reduction.",
+      "zhCN": "1分钟内，当你使用近战武器对构装体或物品或者物品造成伤害时，忽视硬度和伤害减免。"
+    },
+    {
+      "Key": "b26aa80118e141989cedd1e8c872b081",
+      "SimpleName": "ArtificeBlessingMinorBuff.Name",
+      "ProcessTemplates": false,
+      "enGB": "Crafter’s Wrath",
+      "zhCN": "工匠之怒"
+    },
+    {
+      "Key": "c1c64672595441b59179cc566a6d8fa0",
+      "SimpleName": "ArtificeBlessingOHAberrationBaneBuff.Description",
+      "ProcessTemplates": true,
+      "enGB": "Your off hand weapon has a temporarily copy of the Aberration Bane weapon enchantment. If you are using this ability on a double weapon, only one end of the double weapon is affected. The copy lasts for 1 minute. You can stack multiple versions of this ability on the same weapon.",
+      "zhCN": "你的副手武器拥有临时的“异怪破敌”附魔。如果你在双头武器上使用这个能力，只有双头武器的一端会受到影响。效果持续1分钟。你可以在同一件武器上多次使用这个能力。"
+    },
+    {
+      "Key": "6dac7d7b837542e0a63d86cc81597b1c",
+      "SimpleName": "ArtificeBlessingOHAberrationBaneBuff.Name",
+      "ProcessTemplates": false,
+      "enGB": "Transfer Magic - Off Hand - Aberration Bane",
+      "zhCN": "转移魔法 - 副手 - 异怪破敌"
+    },
+    {
+      "Key": "a93a0bdd2cdc478c921e30c9dfdffa4f",
+      "SimpleName": "ArtificeBlessingOHAgileBuff.Description",
+      "ProcessTemplates": true,
+      "enGB": "Your off hand weapon has a temporarily copy of the Agile weapon enchantment. If you are using this ability on a double weapon, only one end of the double weapon is affected. The copy lasts for 1 minute. You can stack multiple versions of this ability on the same weapon.",
+      "zhCN": "你的副手武器拥有临时的“灵巧”附魔。如果你在双头武器上使用这个能力，只有双头武器的一端会受到影响。效果持续1分钟。你可以在同一件武器上多次使用这个能力。"
+    },
+    {
+      "Key": "cab9ef60fd3e43a6bc25a4575db62c98",
+      "SimpleName": "ArtificeBlessingOHAgileBuff.Name",
+      "ProcessTemplates": false,
+      "enGB": "Transfer Magic - Off Hand - Agile",
+      "zhCN": "转移魔法 - 副手 - 灵巧"
+    },
+    {
+      "Key": "a85c1e7fe5a847618321be2f928a08cc",
+      "SimpleName": "ArtificeBlessingOHAnarchicBuff.Description",
+      "ProcessTemplates": true,
+      "enGB": "Your off hand weapon has a temporarily copy of the Anarchic weapon enchantment. If you are using this ability on a double weapon, only one end of the double weapon is affected. The copy lasts for 1 minute. You can stack multiple versions of this ability on the same weapon.",
+      "zhCN": "你的副手武器拥有临时的“无序”附魔。如果你在双头武器上使用这个能力，只有双头武器的一端会受到影响。效果持续1分钟。你可以在同一件武器上多次使用这个能力。"
+    },
+    {
+      "Key": "e3f6da9f2653419bb2657f2bc7263c28",
+      "SimpleName": "ArtificeBlessingOHAnarchicBuff.Name",
+      "ProcessTemplates": false,
+      "enGB": "Transfer Magic - Off Hand - Anarchic",
+      "zhCN": "转移魔法 - 副手 - 无序"
+    },
+    {
+      "Key": "6b4b1521b2494bc88f7aeaa8d52faca7",
+      "SimpleName": "ArtificeBlessingOHAnimalBaneBuff.Description",
+      "ProcessTemplates": true,
+      "enGB": "Your off hand weapon has a temporarily copy of the Animal Bane weapon enchantment. If you are using this ability on a double weapon, only one end of the double weapon is affected. The copy lasts for 1 minute. You can stack multiple versions of this ability on the same weapon.",
+      "zhCN": "你的副手武器拥有临时的“动物破敌”附魔。如果你在双头武器上使用这个能力，只有双头武器的一端会受到影响。效果持续1分钟。你可以在同一件武器上多次使用这个能力。"
+    },
+    {
+      "Key": "af76a2fd6f7042c4b3d81c8f69dc5755",
+      "SimpleName": "ArtificeBlessingOHAnimalBaneBuff.Name",
+      "ProcessTemplates": false,
+      "enGB": "Transfer Magic - Off Hand - Animal Bane",
+      "zhCN": "转移魔法 - 副手 - 动物破敌"
+    },
+    {
+      "Key": "a932abc6607d4a5da34b2405d6b5b720",
+      "SimpleName": "ArtificeBlessingOHAxiomaticBuff.Description",
+      "ProcessTemplates": true,
+      "enGB": "Your off hand weapon has a temporarily copy of the Axiomatic weapon enchantment. If you are using this ability on a double weapon, only one end of the double weapon is affected. The copy lasts for 1 minute. You can stack multiple versions of this ability on the same weapon.",
+      "zhCN": "你的副手武器拥有临时的“公正”附魔。如果你在双头武器上使用这个能力，只有双头武器的一端会受到影响。效果持续1分钟。你可以在同一件武器上多次使用这个能力。"
+    },
+    {
+      "Key": "b94ab5c983684f5b8e380fa76f86b324",
+      "SimpleName": "ArtificeBlessingOHAxiomaticBuff.Name",
+      "ProcessTemplates": false,
+      "enGB": "Transfer Magic - Off Hand - Axiomatic",
+      "zhCN": "转移魔法 - 副手 - 公正"
+    },
+    {
+      "Key": "02406387b4a34c539f0133a47ee48954",
+      "SimpleName": "ArtificeBlessingOHBaneBuff.Description",
+      "ProcessTemplates": true,
+      "enGB": "Your off hand weapon has a temporarily copy of the Bane weapon enchantment. If you are using this ability on a double weapon, only one end of the double weapon is affected. The copy lasts for 1 minute. You can stack multiple versions of this ability on the same weapon.",
+      "zhCN": "你的副手武器拥有临时的“破敌”附魔。如果你在双头武器上使用这个能力，只有双头武器的一端会受到影响。效果持续1分钟。你可以在同一件武器上多次使用这个能力。"
+    },
+    {
+      "Key": "235b632e82634e96ada96eb088c47428",
+      "SimpleName": "ArtificeBlessingOHBaneBuff.Name",
+      "ProcessTemplates": false,
+      "enGB": "Transfer Magic - Off Hand - Bane",
+      "zhCN": "转移魔法 - 副手 - 破敌"
+    },
+    {
+      "Key": "f43fc1164aa149d3ac85bf0b1d3d0c4c",
+      "SimpleName": "ArtificeBlessingOHBleedBuff.Description",
+      "ProcessTemplates": true,
+      "enGB": "Your off hand weapon has a temporarily copy of the Bleed weapon enchantment. If you are using this ability on a double weapon, only one end of the double weapon is affected. The copy lasts for 1 minute. You can stack multiple versions of this ability on the same weapon.",
+      "zhCN": "你的副手武器拥有临时的“流血”附魔。如果你在双头武器上使用这个能力，只有双头武器的一端会受到影响。效果持续1分钟。你可以在同一件武器上多次使用这个能力。"
+    },
+    {
+      "Key": "78428915bc42493ab29ff05a6bd432d6",
+      "SimpleName": "ArtificeBlessingOHBleedBuff.Name",
+      "ProcessTemplates": false,
+      "enGB": "Transfer Magic - Off Hand - Bleed",
+      "zhCN": "转移魔法 - 副手 - 流血"
+    },
+    {
+      "Key": "82f70f411b1e430f8b2318e100fb6fa1",
+      "SimpleName": "ArtificeBlessingOHBrilliantEnergyBuff.Description",
+      "ProcessTemplates": true,
+      "enGB": "Your off hand weapon has a temporarily copy of the Brilliant Energy weapon enchantment. If you are using this ability on a double weapon, only one end of the double weapon is affected. The copy lasts for 1 minute. You can stack multiple versions of this ability on the same weapon.",
+      "zhCN": "你的副手武器拥有临时的“光能”附魔。如果你在双头武器上使用这个能力，只有双头武器的一端会受到影响。效果持续1分钟。你可以在同一件武器上多次使用这个能力。"
+    },
+    {
+      "Key": "197e589e59c248b99ee6957808de2765",
+      "SimpleName": "ArtificeBlessingOHBrilliantEnergyBuff.Name",
+      "ProcessTemplates": false,
+      "enGB": "Transfer Magic - Off Hand - Brilliant Energy",
+      "zhCN": "转移魔法 - 副手 - 光能"
+    },
+    {
+      "Key": "919e0e25c585432a87f7a51e9fd72978",
+      "SimpleName": "ArtificeBlessingOHChaoticOutsiderBaneBuff.Description",
+      "ProcessTemplates": true,
+      "enGB": "Your off hand weapon has a temporarily copy of the Chaotic Outsider Bane weapon enchantment. If you are using this ability on a double weapon, only one end of the double weapon is affected. The copy lasts for 1 minute. You can stack multiple versions of this ability on the same weapon.",
+      "zhCN": "你的副手武器拥有临时的“混乱异界生物破敌”附魔。如果你在双头武器上使用这个能力，只有双头武器的一端会受到影响。效果持续1分钟。你可以在同一件武器上多次使用这个能力。"
+    },
+    {
+      "Key": "d19c79d877474c8d9d3b1751305abffc",
+      "SimpleName": "ArtificeBlessingOHChaoticOutsiderBaneBuff.Name",
+      "ProcessTemplates": false,
+      "enGB": "Transfer Magic - Off Hand - Chaotic Outsider Bane",
+      "zhCN": "转移魔法 - 副手 - 混乱异界生物破敌"
+    },
+    {
+      "Key": "d65e8f8cec02496ba7db989aaac856fc",
+      "SimpleName": "ArtificeBlessingOHConstructBaneBuff.Description",
+      "ProcessTemplates": true,
+      "enGB": "Your off hand weapon has a temporarily copy of the Construct Bane weapon enchantment. If you are using this ability on a double weapon, only one end of the double weapon is affected. The copy lasts for 1 minute. You can stack multiple versions of this ability on the same weapon.",
+      "zhCN": "你的副手武器拥有临时的“构装体破敌”附魔。如果你在双头武器上使用这个能力，只有双头武器的一端会受到影响。效果持续1分钟。你可以在同一件武器上多次使用这个能力。"
+    },
+    {
+      "Key": "7555909cc9c84cd98d6d8e0bb04860c9",
+      "SimpleName": "ArtificeBlessingOHConstructBaneBuff.Name",
+      "ProcessTemplates": false,
+      "enGB": "Transfer Magic - Off Hand - Construct Bane",
+      "zhCN": "转移魔法 - 副手 - 构装体破敌"
+    },
+    {
+      "Key": "ac647e798ce448dda75eaf5453836886",
+      "SimpleName": "ArtificeBlessingOHCorrosiveBuff.Description",
+      "ProcessTemplates": true,
+      "enGB": "Your off hand weapon has a temporarily copy of the Corrosive weapon enchantment. If you are using this ability on a double weapon, only one end of the double weapon is affected. The copy lasts for 1 minute. You can stack multiple versions of this ability on the same weapon.",
+      "zhCN": "你的副手武器拥有临时的“烈酸”附魔。如果你在双头武器上使用这个能力，只有双头武器的一端会受到影响。效果持续1分钟。你可以在同一件武器上多次使用这个能力。"
+    },
+    {
+      "Key": "d669df3767ca4fb09d29fe9f12fa48c2",
+      "SimpleName": "ArtificeBlessingOHCorrosiveBuff.Name",
+      "ProcessTemplates": false,
+      "enGB": "Transfer Magic - Off Hand - Corrosive",
+      "zhCN": "转移魔法 - 副手 - 烈酸"
+    },
+    {
+      "Key": "40120bf401ed465c83bdb6aeb3fd5100",
+      "SimpleName": "ArtificeBlessingOHDisruptionBuff.Description",
+      "ProcessTemplates": true,
+      "enGB": "Your off hand weapon has a temporarily copy of the Disruption weapon enchantment. If you are using this ability on a double weapon, only one end of the double weapon is affected. The copy lasts for 1 minute. You can stack multiple versions of this ability on the same weapon.",
+      "zhCN": "你的副手武器拥有临时的“瓦解”附魔。如果你在双头武器上使用这个能力，只有双头武器的一端会受到影响。效果持续1分钟。你可以在同一件武器上多次使用这个能力。"
+    },
+    {
+      "Key": "483c33116cc846a1af3f9a9edc6f6521",
+      "SimpleName": "ArtificeBlessingOHDisruptionBuff.Name",
+      "ProcessTemplates": false,
+      "enGB": "Transfer Magic - Off Hand - Disruption",
+      "zhCN": "转移魔法 - 副手 - 瓦解"
+    },
+    {
+      "Key": "6e83fae5b01540758b10f6beb0345c2c",
+      "SimpleName": "ArtificeBlessingOHDragonBaneBuff.Description",
+      "ProcessTemplates": true,
+      "enGB": "Your off hand weapon has a temporarily copy of the Dragon Bane weapon enchantment. If you are using this ability on a double weapon, only one end of the double weapon is affected. The copy lasts for 1 minute. You can stack multiple versions of this ability on the same weapon.",
+      "zhCN": "你的副手武器拥有临时的“龙类破敌”附魔。如果你在双头武器上使用这个能力，只有双头武器的一端会受到影响。效果持续1分钟。你可以在同一件武器上多次使用这个能力。"
+    },
+    {
+      "Key": "995c175928144372957d23f2bdb10ab7",
+      "SimpleName": "ArtificeBlessingOHDragonBaneBuff.Name",
+      "ProcessTemplates": false,
+      "enGB": "Transfer Magic - Off Hand - Dragon Bane",
+      "zhCN": "转移魔法 - 副手 - 龙类破敌"
+    },
+    {
+      "Key": "7cdd6aa065f24051a61e1f9976487209",
+      "SimpleName": "ArtificeBlessingOHEvilOutsiderBaneBuff.Description",
+      "ProcessTemplates": true,
+      "enGB": "Your off hand weapon has a temporarily copy of the Evil Outsider Bane weapon enchantment. If you are using this ability on a double weapon, only one end of the double weapon is affected. The copy lasts for 1 minute. You can stack multiple versions of this ability on the same weapon.",
+      "zhCN": "你的副手武器拥有临时的“邪恶异界生物破敌”附魔。如果你在双头武器上使用这个能力，只有双头武器的一端会受到影响。效果持续1分钟。你可以在同一件武器上多次使用这个能力。"
+    },
+    {
+      "Key": "8dfb2ce7e5b14c11b0fb939afe951258",
+      "SimpleName": "ArtificeBlessingOHEvilOutsiderBaneBuff.Name",
+      "ProcessTemplates": false,
+      "enGB": "Transfer Magic - Off Hand - Evil Outsider Bane",
+      "zhCN": "转移魔法 - 副手 - 邪恶异界生物破敌"
+    },
+    {
+      "Key": "c9f3df2c63164145bbef849b51999e3d",
+      "SimpleName": "ArtificeBlessingOHFeyBaneBuff.Description",
+      "ProcessTemplates": true,
+      "enGB": "Your off hand weapon has a temporarily copy of the Fey Bane weapon enchantment. If you are using this ability on a double weapon, only one end of the double weapon is affected. The copy lasts for 1 minute. You can stack multiple versions of this ability on the same weapon.",
+      "zhCN": "你的副手武器拥有临时的“妖精破敌”附魔。如果你在双头武器上使用这个能力，只有双头武器的一端会受到影响。效果持续1分钟。你可以在同一件武器上多次使用这个能力。"
+    },
+    {
+      "Key": "46ea7f2b07b44b988b0f35645ce565d2",
+      "SimpleName": "ArtificeBlessingOHFeyBaneBuff.Name",
+      "ProcessTemplates": false,
+      "enGB": "Transfer Magic - Off Hand - Fey Bane",
+      "zhCN": "转移魔法 - 副手 - 妖精破敌"
+    },
+    {
+      "Key": "a479e4761203439e802e4d9331fcf8a8",
+      "SimpleName": "ArtificeBlessingOHFlamingBuff.Description",
+      "ProcessTemplates": true,
+      "enGB": "Your off hand weapon has a temporarily copy of the Flaming weapon enchantment. If you are using this ability on a double weapon, only one end of the double weapon is affected. The copy lasts for 1 minute. You can stack multiple versions of this ability on the same weapon.",
+      "zhCN": "你的副手武器拥有临时的“炽焰”附魔。如果你在双头武器上使用这个能力，只有双头武器的一端会受到影响。效果持续1分钟。你可以在同一件武器上多次使用这个能力。"
+    },
+    {
+      "Key": "1339e1b3bf434d73838fed0dd6d78cb9",
+      "SimpleName": "ArtificeBlessingOHFlamingBuff.Name",
+      "ProcessTemplates": false,
+      "enGB": "Transfer Magic - Off Hand - Flaming",
+      "zhCN": "转移魔法 - 副手 - 炽焰"
+    },
+    {
+      "Key": "945e2b275be84f5e8071eccf1a408802",
+      "SimpleName": "ArtificeBlessingOHFlamingBurstBuff.Description",
+      "ProcessTemplates": true,
+      "enGB": "Your off hand weapon has a temporarily copy of the Flaming Burst weapon enchantment. If you are using this ability on a double weapon, only one end of the double weapon is affected. The copy lasts for 1 minute. You can stack multiple versions of this ability on the same weapon.",
+      "zhCN": "你的副手武器拥有临时的“焰爆”附魔。如果你在双头武器上使用这个能力，只有双头武器的一端会受到影响。效果持续1分钟。你可以在同一件武器上多次使用这个能力。"
+    },
+    {
+      "Key": "bc3e0f4274fa4b46ac649ec0d7afc0f2",
+      "SimpleName": "ArtificeBlessingOHFlamingBurstBuff.Name",
+      "ProcessTemplates": false,
+      "enGB": "Transfer Magic - Off Hand - Flaming Burst",
+      "zhCN": "转移魔法 - 副手 - 焰爆"
+    },
+    {
+      "Key": "d07fcf4cf6e445c2a203b84d1374fce4",
+      "SimpleName": "ArtificeBlessingOHFrostBuff.Description",
+      "ProcessTemplates": true,
+      "enGB": "Your off hand weapon has a temporarily copy of the Frost weapon enchantment. If you are using this ability on a double weapon, only one end of the double weapon is affected. The copy lasts for 1 minute. You can stack multiple versions of this ability on the same weapon.",
+      "zhCN": "你的副手武器拥有临时的“寒霜”附魔。如果你在双头武器上使用这个能力，只有双头武器的一端会受到影响。效果持续1分钟。你可以在同一件武器上多次使用这个能力。"
+    },
+    {
+      "Key": "aedc7ec79269445485156784a173efff",
+      "SimpleName": "ArtificeBlessingOHFrostBuff.Name",
+      "ProcessTemplates": false,
+      "enGB": "Transfer Magic - Off Hand - Frost",
+      "zhCN": "转移魔法 - 副手 - 寒霜"
+    },
+    {
+      "Key": "12a6f65409f048e083a704c6b59128fa",
+      "SimpleName": "ArtificeBlessingOHFuriousBuff.Description",
+      "ProcessTemplates": true,
+      "enGB": "Your off hand weapon has a temporarily copy of the Furious weapon enchantment. If you are using this ability on a double weapon, only one end of the double weapon is affected. The copy lasts for 1 minute. You can stack multiple versions of this ability on the same weapon.",
+      "zhCN": "你的副手武器拥有临时的“暴怒”附魔。如果你在双头武器上使用这个能力，只有双头武器的一端会受到影响。效果持续1分钟。你可以在同一件武器上多次使用这个能力。"
+    },
+    {
+      "Key": "c7f6689fd8464892bcc6d2d9e4b3cc5d",
+      "SimpleName": "ArtificeBlessingOHFuriousBuff.Name",
+      "ProcessTemplates": false,
+      "enGB": "Transfer Magic - Off Hand - Furious",
+      "zhCN": "转移魔法 - 副手 - 暴怒"
+    },
+    {
+      "Key": "0c867f9bf16649d8905a6aefe0e8ed0a",
+      "SimpleName": "ArtificeBlessingOHGhostTouchBuff.Description",
+      "ProcessTemplates": true,
+      "enGB": "Your off hand weapon has a temporarily copy of the Ghost Touch weapon enchantment. If you are using this ability on a double weapon, only one end of the double weapon is affected. The copy lasts for 1 minute. You can stack multiple versions of this ability on the same weapon.",
+      "zhCN": "你的副手武器拥有临时的“幽冥”附魔。如果你在双头武器上使用这个能力，只有双头武器的一端会受到影响。效果持续1分钟。你可以在同一件武器上多次使用这个能力。"
+    },
+    {
+      "Key": "f785065b50cf4d0aa6457fdbf719172e",
+      "SimpleName": "ArtificeBlessingOHGhostTouchBuff.Name",
+      "ProcessTemplates": false,
+      "enGB": "Transfer Magic - Off Hand - Ghost Touch",
+      "zhCN": "转移魔法 - 副手 - 幽冥"
+    },
+    {
+      "Key": "34b6da14443140feb4f91ab0741a4192",
+      "SimpleName": "ArtificeBlessingOHGiantBaneBuff.Description",
+      "ProcessTemplates": true,
+      "enGB": "Your off hand weapon has a temporarily copy of the Giant Bane weapon enchantment. If you are using this ability on a double weapon, only one end of the double weapon is affected. The copy lasts for 1 minute. You can stack multiple versions of this ability on the same weapon.",
+      "zhCN": "你的副手武器拥有临时的“巨人破敌”附魔。如果你在双头武器上使用这个能力，只有双头武器的一端会受到影响。效果持续1分钟。你可以在同一件武器上多次使用这个能力。"
+    },
+    {
+      "Key": "0005774a893248fa92c4f9693602971f",
+      "SimpleName": "ArtificeBlessingOHGiantBaneBuff.Name",
+      "ProcessTemplates": false,
+      "enGB": "Transfer Magic - Off Hand - Giant Bane",
+      "zhCN": "转移魔法 - 副手 - 巨人破敌"
+    },
+    {
+      "Key": "3e513fc031db479fbd9cd3c6b46d9a44",
+      "SimpleName": "ArtificeBlessingOHGoodOutsiderBaneBuff.Description",
+      "ProcessTemplates": true,
+      "enGB": "Your off hand weapon has a temporarily copy of the Good Outsider Bane weapon enchantment. If you are using this ability on a double weapon, only one end of the double weapon is affected. The copy lasts for 1 minute. You can stack multiple versions of this ability on the same weapon.",
+      "zhCN": "你的副手武器拥有临时的“善良异界生物破敌”附魔。如果你在双头武器上使用这个能力，只有双头武器的一端会受到影响。效果持续1分钟。你可以在同一件武器上多次使用这个能力。"
+    },
+    {
+      "Key": "0a347bf0f05e4422b1b769e232f93714",
+      "SimpleName": "ArtificeBlessingOHGoodOutsiderBaneBuff.Name",
+      "ProcessTemplates": false,
+      "enGB": "Transfer Magic - Off Hand - Good Outsider Bane",
+      "zhCN": "转移魔法 - 副手 - 善良异界生物破敌"
+    },
+    {
+      "Key": "38cdaeedb1a641e1833a5de3ab4cd13a",
+      "SimpleName": "ArtificeBlessingOHHeartseekerBuff.Description",
+      "ProcessTemplates": true,
+      "enGB": "Your off hand weapon has a temporarily copy of the Heartseeker weapon enchantment. If you are using this ability on a double weapon, only one end of the double weapon is affected. The copy lasts for 1 minute. You can stack multiple versions of this ability on the same weapon.",
+      "zhCN": "你的副手武器拥有临时的“觅心”附魔。如果你在双头武器上使用这个能力，只有双头武器的一端会受到影响。效果持续1分钟。你可以在同一件武器上多次使用这个能力。"
+    },
+    {
+      "Key": "287327364966463db4a476e521bfef18",
+      "SimpleName": "ArtificeBlessingOHHeartseekerBuff.Name",
+      "ProcessTemplates": false,
+      "enGB": "Transfer Magic - Off Hand - Heartseeker",
+      "zhCN": "转移魔法 - 副手 - 觅心"
+    },
+    {
+      "Key": "75bcdbf2d60f4090bff80b47980f05e0",
+      "SimpleName": "ArtificeBlessingOHHolyBuff.Description",
+      "ProcessTemplates": true,
+      "enGB": "Your off hand weapon has a temporarily copy of the Holy weapon enchantment. If you are using this ability on a double weapon, only one end of the double weapon is affected. The copy lasts for 1 minute. You can stack multiple versions of this ability on the same weapon.",
+      "zhCN": "你的副手武器拥有临时的“神圣”附魔。如果你在双头武器上使用这个能力，只有双头武器的一端会受到影响。效果持续1分钟。你可以在同一件武器上多次使用这个能力。"
+    },
+    {
+      "Key": "b2484cfbbd284d1089eac5d713149f4a",
+      "SimpleName": "ArtificeBlessingOHHolyBuff.Name",
+      "ProcessTemplates": false,
+      "enGB": "Transfer Magic - Off Hand - Holy",
+      "zhCN": "转移魔法 - 副手 - 神圣"
+    },
+    {
+      "Key": "0000b3592b6a4690a97e352e39c64537",
+      "SimpleName": "ArtificeBlessingOHIcyBurstBuff.Description",
+      "ProcessTemplates": true,
+      "enGB": "Your off hand weapon has a temporarily copy of the Icy Burst weapon enchantment. If you are using this ability on a double weapon, only one end of the double weapon is affected. The copy lasts for 1 minute. You can stack multiple versions of this ability on the same weapon.",
+      "zhCN": "你的副手武器拥有临时的“霜爆”附魔。如果你在双头武器上使用这个能力，只有双头武器的一端会受到影响。效果持续1分钟。你可以在同一件武器上多次使用这个能力。"
+    },
+    {
+      "Key": "9b411952b69c41a7a2093c9f10ff06ef",
+      "SimpleName": "ArtificeBlessingOHIcyBurstBuff.Name",
+      "ProcessTemplates": false,
+      "enGB": "Transfer Magic - Off Hand - Icy Burst",
+      "zhCN": "转移魔法 - 副手 - 霜爆"
+    },
+    {
+      "Key": "f4630b9c806846e39de085134d95d08f",
+      "SimpleName": "ArtificeBlessingOHKeenBuff.Description",
+      "ProcessTemplates": true,
+      "enGB": "Your off hand weapon has a temporarily copy of the Keen weapon enchantment. If you are using this ability on a double weapon, only one end of the double weapon is affected. The copy lasts for 1 minute. You can stack multiple versions of this ability on the same weapon.",
+      "zhCN": "你的副手武器拥有临时的“锐锋”附魔。如果你在双头武器上使用这个能力，只有双头武器的一端会受到影响。效果持续1分钟。你可以在同一件武器上多次使用这个能力。"
+    },
+    {
+      "Key": "f73f7cfa387b4088bc050384df5ed580",
+      "SimpleName": "ArtificeBlessingOHKeenBuff.Name",
+      "ProcessTemplates": false,
+      "enGB": "Transfer Magic - Off Hand - Keen",
+      "zhCN": "转移魔法 - 副手 - 锐锋"
+    },
+    {
+      "Key": "1328c88ffbcf414c93a825d06352d1cf",
+      "SimpleName": "ArtificeBlessingOHLawfulOutsiderBaneBuff.Description",
+      "ProcessTemplates": true,
+      "enGB": "Your off hand weapon has a temporarily copy of the Lawful Outsider Bane weapon enchantment. If you are using this ability on a double weapon, only one end of the double weapon is affected. The copy lasts for 1 minute. You can stack multiple versions of this ability on the same weapon.",
+      "zhCN": "你的副手武器拥有临时的“守序异界生物破敌”附魔。如果你在双头武器上使用这个能力，只有双头武器的一端会受到影响。效果持续1分钟。你可以在同一件武器上多次使用这个能力。"
+    },
+    {
+      "Key": "78129cb85787455b9143edfa3a9e72a0",
+      "SimpleName": "ArtificeBlessingOHLawfulOutsiderBaneBuff.Name",
+      "ProcessTemplates": false,
+      "enGB": "Transfer Magic - Off Hand - Lawful Outsider Bane",
+      "zhCN": "转移魔法 - 副手 - 守序异界生物破敌"
+    },
+    {
+      "Key": "1499e363cc034a57b50e3a8907893e51",
+      "SimpleName": "ArtificeBlessingOHLivingBaneBuff.Description",
+      "ProcessTemplates": true,
+      "enGB": "Your off hand weapon has a temporarily copy of the Living Bane weapon enchantment. If you are using this ability on a double weapon, only one end of the double weapon is affected. The copy lasts for 1 minute. You can stack multiple versions of this ability on the same weapon.",
+      "zhCN": "你的副手武器拥有临时的“活物破敌”附魔。如果你在双头武器上使用这个能力，只有双头武器的一端会受到影响。效果持续1分钟。你可以在同一件武器上多次使用这个能力。"
+    },
+    {
+      "Key": "f3ddd154013b414a9abfec774e29e74e",
+      "SimpleName": "ArtificeBlessingOHLivingBaneBuff.Name",
+      "ProcessTemplates": false,
+      "enGB": "Transfer Magic - Off Hand - Living Bane",
+      "zhCN": "转移魔法 - 副手 - 活物破敌"
+    },
+    {
+      "Key": "103410900d2d49afb769b3a6ec542c5b",
+      "SimpleName": "ArtificeBlessingOHLycanthropeBaneBuff.Description",
+      "ProcessTemplates": true,
+      "enGB": "Your off hand weapon has a temporarily copy of the Lycanthrope Bane weapon enchantment. If you are using this ability on a double weapon, only one end of the double weapon is affected. The copy lasts for 1 minute. You can stack multiple versions of this ability on the same weapon.",
+      "zhCN": "你的副手武器拥有临时的“兽化人破敌”附魔。如果你在双头武器上使用这个能力，只有双头武器的一端会受到影响。效果持续1分钟。你可以在同一件武器上多次使用这个能力。"
+    },
+    {
+      "Key": "ca7908a1beba4d09994a33c768a8c642",
+      "SimpleName": "ArtificeBlessingOHLycanthropeBaneBuff.Name",
+      "ProcessTemplates": false,
+      "enGB": "Transfer Magic - Off Hand - Lycanthrope Bane",
+      "zhCN": "转移魔法 - 副手 - 兽化人破敌"
+    },
+    {
+      "Key": "08c08a97b29240e3b2fccd53f528788e",
+      "SimpleName": "ArtificeBlessingOHMagicalBeastBaneBuff.Description",
+      "ProcessTemplates": true,
+      "enGB": "Your off hand weapon has a temporarily copy of the Magical Beast Bane weapon enchantment. If you are using this ability on a double weapon, only one end of the double weapon is affected. The copy lasts for 1 minute. You can stack multiple versions of this ability on the same weapon.",
+      "zhCN": "你的副手武器拥有临时的“魔法兽破敌”附魔。如果你在双头武器上使用这个能力，只有双头武器的一端会受到影响。效果持续1分钟。你可以在同一件武器上多次使用这个能力。"
+    },
+    {
+      "Key": "1b615d50c7514972b8f2c359014dc705",
+      "SimpleName": "ArtificeBlessingOHMagicalBeastBaneBuff.Name",
+      "ProcessTemplates": false,
+      "enGB": "Transfer Magic - Off Hand - Magical Beast Bane",
+      "zhCN": "转移魔法 - 副手 - 魔法兽破敌"
+    },
+    {
+      "Key": "eaf2a234ccb449199650000fb12975d0",
+      "SimpleName": "ArtificeBlessingOHNecroticBuff.Description",
+      "ProcessTemplates": true,
+      "enGB": "Your off hand weapon has a temporarily copy of the Necrotic weapon enchantment. If you are using this ability on a double weapon, only one end of the double weapon is affected. The copy lasts for 1 minute. You can stack multiple versions of this ability on the same weapon.",
+      "zhCN": "你的副手武器拥有临时的“死灵”附魔。如果你在双头武器上使用这个能力，只有双头武器的一端会受到影响。效果持续1分钟。你可以在同一件武器上多次使用这个能力。"
+    },
+    {
+      "Key": "5fe4567ad9484c00958467bbf185de07",
+      "SimpleName": "ArtificeBlessingOHNecroticBuff.Name",
+      "ProcessTemplates": false,
+      "enGB": "Transfer Magic - Off Hand - Necrotic",
+      "zhCN": "转移魔法 - 副手 - 死灵"
+    },
+    {
+      "Key": "991ca64c3fd3466dbc5424394fa2bb3a",
+      "SimpleName": "ArtificeBlessingOHNeutralOutsiderBaneBuff.Description",
+      "ProcessTemplates": true,
+      "enGB": "Your off hand weapon has a temporarily copy of the Neutral Outsider Bane weapon enchantment. If you are using this ability on a double weapon, only one end of the double weapon is affected. The copy lasts for 1 minute. You can stack multiple versions of this ability on the same weapon.",
+      "zhCN": "你的副手武器拥有临时的“中立异界生物破敌”附魔。如果你在双头武器上使用这个能力，只有双头武器的一端会受到影响。效果持续1分钟。你可以在同一件武器上多次使用这个能力。"
+    },
+    {
+      "Key": "00d80ce25c7144c6b151ec30025534c4",
+      "SimpleName": "ArtificeBlessingOHNeutralOutsiderBaneBuff.Name",
+      "ProcessTemplates": false,
+      "enGB": "Transfer Magic - Off Hand - Neutral Outsider Bane",
+      "zhCN": "转移魔法 - 副手 - 中立异界生物破敌"
+    },
+    {
+      "Key": "d5877c7f5fe84b35ab20f1992e3be318",
+      "SimpleName": "ArtificeBlessingOHPlantBaneBuff.Description",
+      "ProcessTemplates": true,
+      "enGB": "Your off hand weapon has a temporarily copy of the Plant Bane weapon enchantment. If you are using this ability on a double weapon, only one end of the double weapon is affected. The copy lasts for 1 minute. You can stack multiple versions of this ability on the same weapon.",
+      "zhCN": "你的副手武器拥有临时的“植物破敌”附魔。如果你在双头武器上使用这个能力，只有双头武器的一端会受到影响。效果持续1分钟。你可以在同一件武器上多次使用这个能力。"
+    },
+    {
+      "Key": "e92f21deeb8f45eb8a8ce4b5f27cff98",
+      "SimpleName": "ArtificeBlessingOHPlantBaneBuff.Name",
+      "ProcessTemplates": false,
+      "enGB": "Transfer Magic - Off Hand - Plant Bane",
+      "zhCN": "转移魔法 - 副手 - 植物破敌"
+    },
+    {
+      "Key": "e2e8d296996b4dc88017cd0a438d3332",
+      "SimpleName": "ArtificeBlessingOHRadiantBuff.Description",
+      "ProcessTemplates": true,
+      "enGB": "Your off hand weapon has a temporarily copy of the Radiant weapon enchantment. If you are using this ability on a double weapon, only one end of the double weapon is affected. The copy lasts for 1 minute. You can stack multiple versions of this ability on the same weapon.",
+      "zhCN": "你的副手武器拥有临时的“辐光”附魔。如果你在双头武器上使用这个能力，只有双头武器的一端会受到影响。效果持续1分钟。你可以在同一件武器上多次使用这个能力。"
+    },
+    {
+      "Key": "b4fda1627dbf436d96b7cdecbac66fd1",
+      "SimpleName": "ArtificeBlessingOHRadiantBuff.Name",
+      "ProcessTemplates": false,
+      "enGB": "Transfer Magic - Off Hand - Radiant",
+      "zhCN": "转移魔法 - 副手 - 辐光"
+    },
+    {
+      "Key": "c4bae77e165b4469b2275d5dc3fd5737",
+      "SimpleName": "ArtificeBlessingOHShockBuff.Description",
+      "ProcessTemplates": true,
+      "enGB": "Your off hand weapon has a temporarily copy of the Shock weapon enchantment. If you are using this ability on a double weapon, only one end of the double weapon is affected. The copy lasts for 1 minute. You can stack multiple versions of this ability on the same weapon.",
+      "zhCN": "你的副手武器拥有临时的“震电”附魔。如果你在双头武器上使用这个能力，只有双头武器的一端会受到影响。效果持续1分钟。你可以在同一件武器上多次使用这个能力。"
+    },
+    {
+      "Key": "ed1c715fba704f0e9cde0d53ab5212e8",
+      "SimpleName": "ArtificeBlessingOHShockBuff.Name",
+      "ProcessTemplates": false,
+      "enGB": "Transfer Magic - Off Hand - Shock",
+      "zhCN": "转移魔法 - 副手 - 震电"
+    },
+    {
+      "Key": "03d4cfb1344e44989eb393e0e0022980",
+      "SimpleName": "ArtificeBlessingOHShockingBurstBuff.Description",
+      "ProcessTemplates": true,
+      "enGB": "Your off hand weapon has a temporarily copy of the Shocking Burst weapon enchantment. If you are using this ability on a double weapon, only one end of the double weapon is affected. The copy lasts for 1 minute. You can stack multiple versions of this ability on the same weapon.",
+      "zhCN": "你的副手武器拥有临时的“电爆”附魔。如果你在双头武器上使用这个能力，只有双头武器的一端会受到影响。效果持续1分钟。你可以在同一件武器上多次使用这个能力。"
+    },
+    {
+      "Key": "39be77e8dcf741b480a4093af4917ee4",
+      "SimpleName": "ArtificeBlessingOHShockingBurstBuff.Name",
+      "ProcessTemplates": false,
+      "enGB": "Transfer Magic - Off Hand - Shocking Burst",
+      "zhCN": "转移魔法 - 副手 - 电爆"
+    },
+    {
+      "Key": "9558b018130d480a9925f66ed63bf68a",
+      "SimpleName": "ArtificeBlessingOHSpeedAbility.Description",
+      "ProcessTemplates": true,
+      "enGB": "You can temporarily copy the Speed weapon enchantment to another weapon. If you are using this ability on a double weapon, only one end of the double weapon is affected. The copy lasts for 1 minute. You can use this ability multiple times on the same weapon.",
+      "zhCN": "你可以暂时将“追击”武器附魔从一把武器复制到另一把武器。如果你在双头武器上使用这个能力，只有双头武器的一端会受到影响。效果持续1分钟。你可以在同一件武器上多次使用这个能力。"
+    },
+    {
+      "Key": "4f6d03f447c34ed698f825d592420185",
+      "SimpleName": "ArtificeBlessingOHSpeedAbilitySwift.Description",
+      "ProcessTemplates": true,
+      "enGB": "You can temporarily copy the Speed weapon enchantment to another weapon. If you are using this ability on a double weapon, only one end of the double weapon is affected. The copy lasts for 1 minute. You can use this ability multiple times on the same weapon.",
+      "zhCN": "你可以暂时将“追击”武器附魔从一把武器复制到另一把武器。如果你在双头武器上使用这个能力，只有双头武器的一端会受到影响。效果持续1分钟。你可以在同一件武器上多次使用这个能力。"
+    },
+    {
+      "Key": "fe350469f9aa416b9120ffcf56563f0c",
+      "SimpleName": "ArtificeBlessingOHSpeedBuff.Description",
+      "ProcessTemplates": true,
+      "enGB": "Your off hand weapon has a temporarily copy of the Speed weapon enchantment. If you are using this ability on a double weapon, only one end of the double weapon is affected. The copy lasts for 1 minute. You can stack multiple versions of this ability on the same weapon.",
+      "zhCN": "你的副手武器拥有临时的“追击”附魔。如果你在双头武器上使用这个能力，只有双头武器的一端会受到影响。效果持续1分钟。你可以在同一件武器上多次使用这个能力。"
+    },
+    {
+      "Key": "341f10f9c4d74c6fa070607e9d1fd4da",
+      "SimpleName": "ArtificeBlessingOHSpeedBuff.Name",
+      "ProcessTemplates": false,
+      "enGB": "Transfer Magic - Off Hand - Speed",
+      "zhCN": "转移魔法 - 副手 - 追击"
+    },
+    {
+      "Key": "664e72ad7fe14770aa3f04d7e14c3f40",
+      "SimpleName": "ArtificeBlessingOHThunderingBuff.Description",
+      "ProcessTemplates": true,
+      "enGB": "Your off hand weapon has a temporarily copy of the Thundering weapon enchantment. If you are using this ability on a double weapon, only one end of the double weapon is affected. The copy lasts for 1 minute. You can stack multiple versions of this ability on the same weapon.",
+      "zhCN": "你的副手武器拥有临时的“雷鸣”附魔。如果你在双头武器上使用这个能力，只有双头武器的一端会受到影响。效果持续1分钟。你可以在同一件武器上多次使用这个能力。"
+    },
+    {
+      "Key": "2ddd4992f2f44aaf9d77e86d6f1c65e9",
+      "SimpleName": "ArtificeBlessingOHThunderingBuff.Name",
+      "ProcessTemplates": false,
+      "enGB": "Transfer Magic - Off Hand - Thundering",
+      "zhCN": "转移魔法 - 副手 - 雷鸣"
+    },
+    {
+      "Key": "975093c97732435a82ce90ab7b78d26f",
+      "SimpleName": "ArtificeBlessingOHUndeadBaneBuff.Description",
+      "ProcessTemplates": true,
+      "enGB": "Your off hand weapon has a temporarily copy of the Undead Bane weapon enchantment. If you are using this ability on a double weapon, only one end of the double weapon is affected. The copy lasts for 1 minute. You can stack multiple versions of this ability on the same weapon.",
+      "zhCN": "你的副手武器拥有临时的“不死生物破敌”附魔。如果你在双头武器上使用这个能力，只有双头武器的一端会受到影响。效果持续1分钟。你可以在同一件武器上多次使用这个能力。"
+    },
+    {
+      "Key": "dafe384c60fe4a2c85cb21b69b7f8700",
+      "SimpleName": "ArtificeBlessingOHUndeadBaneBuff.Name",
+      "ProcessTemplates": false,
+      "enGB": "Transfer Magic - Off Hand - Undead Bane",
+      "zhCN": "转移魔法 - 副手 - 不死生物破敌"
+    },
+    {
+      "Key": "f0a37cddb7a249d7848d1b261f19fc27",
+      "SimpleName": "ArtificeBlessingOHUnholyBuff.Description",
+      "ProcessTemplates": true,
+      "enGB": "Your off hand weapon has a temporarily copy of the Unholy weapon enchantment. If you are using this ability on a double weapon, only one end of the double weapon is affected. The copy lasts for 1 minute. You can stack multiple versions of this ability on the same weapon.",
+      "zhCN": "你的副手武器拥有临时的“污邪”附魔。如果你在双头武器上使用这个能力，只有双头武器的一端会受到影响。效果持续1分钟。你可以在同一件武器上多次使用这个能力。"
+    },
+    {
+      "Key": "52adceef32254cd6b1ba2abf9a8d90bb",
+      "SimpleName": "ArtificeBlessingOHUnholyBuff.Name",
+      "ProcessTemplates": false,
+      "enGB": "Transfer Magic - Off Hand - Unholy",
+      "zhCN": "转移魔法 - 副手 - 污邪"
+    },
+    {
+      "Key": "66e9f561c60248319ff31c8edb6c2292",
+      "SimpleName": "ArtificeBlessingOHVerminBaneBuff.Description",
+      "ProcessTemplates": true,
+      "enGB": "Your off hand weapon has a temporarily copy of the Vermin Bane weapon enchantment. If you are using this ability on a double weapon, only one end of the double weapon is affected. The copy lasts for 1 minute. You can stack multiple versions of this ability on the same weapon.",
+      "zhCN": "你的副手武器拥有临时的“虫类破敌”附魔。如果你在双头武器上使用这个能力，只有双头武器的一端会受到影响。效果持续1分钟。你可以在同一件武器上多次使用这个能力。"
+    },
+    {
+      "Key": "addc49cacc5a4618b6426c8f3d62d971",
+      "SimpleName": "ArtificeBlessingOHVerminBaneBuff.Name",
+      "ProcessTemplates": false,
+      "enGB": "Transfer Magic - Off Hand - Vermin Bane",
+      "zhCN": "转移魔法 - 副手 - 虫类破敌"
+    },
+    {
+      "Key": "c5a21c31589940b2af0401c14ecb416a",
+      "SimpleName": "CommunityBlessingFeature.Description",
+      "ProcessTemplates": true,
+    "zhCN": "在1级时，用一个标准动作，你可以触摸一个盟友并赋予其团结的祝福。在1分钟内，每当这名盟友使用协助他人动作时，加值都会增加+2。你可以用迅捷动作对自己使用这项能力。\n在10级时，你可以呼吁全体战友并肩作战。在1分钟内，每当你成功地对一个敌人发动了近战或远程攻击，你10尺内的队友就可以在对抗同一敌人时在你的攻击方式上进行攻击检定上获得+2洞察加值——你进行近战攻击则近战获得加值，远程亦然。如果你的攻击成功专长了重击威胁，那么在一轮内，该加值提升到+4.",
+    "enGB": "At 1st level, you can touch an ally and grant it the blessing of community. For the next minute, whenever that ally uses the aid another action, the bonus granted increases to +4. You can instead use this ability on yourself as a swift action. \nAt 10th level, you can rally your allies to fight together. For 1 minute, whenever you make a successful melee or ranged attack against a foe, allies within 10 feet of you gain a +2 insight bonus on attacks of the same type you made against that foe—melee attacks if you made a melee attack, or ranged attacks if you made a ranged attack. If you score a critical hit, this bonus increases to +4 until the start of your next turn."
+    },
+    {
+      "Key": "37c46b60a133439090591185397b82c1",
+      "SimpleName": "CommunityBlessingFeature.Name",
+      "ProcessTemplates": false,
+    "zhCN": "团队",
+    "enGB": "Community"
+    },
+    {
+      "Key": "b48d60c466f24fed9d8c4e8ec1660353",
+      "SimpleName": "CommunityBlessingMajorAbility.Description",
+      "ProcessTemplates": true,
+    "zhCN": "在1分钟内，每当你成功地对一个敌人发动了近战或远程攻击，你10尺内的队友就可以在对抗同一敌人时在你的攻击方式上进行攻击检定上获得+2洞察加值——你进行近战攻击则近战获得加值，远程亦然。如果你的攻击成功专长了重击威胁，那么在一轮内，该加值提升到+4.",
+    "enGB": "For 1 minute, whenever you make a successful melee or ranged attack against a foe, allies within 10 feet of you gain a +2 insight bonus on attacks of the same type you made against that foe—melee attacks if you made a melee attack, or ranged attacks if you made a ranged attack. If you score a critical hit, this bonus increases to +4 until the start of your next turn."
+    },
+    {
+      "Key": "da183ae9b13148fcb65fb862d32dc456",
+      "SimpleName": "CommunityBlessingMajorBuff.Description",
+      "ProcessTemplates": true,
+    "zhCN": "无论何时，每当你成功地对一个敌人发动了近战或远程攻击，你10尺内的队友就可以在对抗同一敌人时在你的攻击方式上进行攻击检定上获得+2洞察加值——你进行近战攻击则近战获得加值，远程亦然。如果你的攻击成功专长了重击威胁，那么在一轮内，该加值提升到+4.",
+    "enGB": "Whenever you make a successful melee or ranged attack against a foe, allies gain a +2 insight bonus on attacks of the same type you made against that foe—melee attacks if you made a melee attack, or ranged attacks if you made a ranged attack. If you score a critical hit, this bonus increases to +4 until the start of your next turn."
+    },
+    {
+      "Key": "5fdce01914a241b3b45c7544ffbe812e",
+      "SimpleName": "CommunityBlessingMajorBuff.Name",
+      "ProcessTemplates": false,
+    "zhCN": "合众进击",
+    "enGB": "Fight as One"
+    },
+    {
+      "Key": "943d509ab3cf4cb0adcc1a26734ad24c",
+      "SimpleName": "CommunityBlessingMajorFeature.Description",
+      "ProcessTemplates": true,
+    "zhCN": "在10级时，你可以呼吁全体战友并肩作战。在1分钟内，每当你成功地对一个敌人发动了近战或远程攻击，你10尺内的队友就可以在对抗同一敌人时在你的攻击方式上进行攻击检定上获得+2洞察加值——你进行近战攻击则近战获得加值，远程亦然。如果你的攻击成功专长了重击威胁，那么在一轮内，该加值提升到+4。",
+    "enGB": "At 10th level, you can rally your allies to fight together. For 1 minute, whenever you make a successful melee or ranged attack against a foe, allies within 10 feet of you gain a +2 insight bonus on attacks of the same type you made against that foe—melee attacks if you made a melee attack, or ranged attacks if you made a ranged attack. If you score a critical hit, this bonus increases to +4 until the start of your next turn."
+    },
+    {
+      "Key": "890569a902ab4cec971922d9883676df",
+      "SimpleName": "CommunityBlessingMajorMeleeCrit.Description",
+      "ProcessTemplates": true,
+    "zhCN": "对这个敌人的洞察加值增加到4，持续一轮。",
+    "enGB": "The insight bonus to hit against this foe is increased to +4 for one round."
+    },
+    {
+      "Key": "5f201ff0255f4da48ea33375c1738f93",
+      "SimpleName": "CommunityBlessingMajorMeleeCrit.Name",
+      "ProcessTemplates": false,
+    "zhCN": "合众进击-近战重击",
+    "enGB": "Fight as One - Melee Crit"
+    },
+    {
+      "Key": "13b2895b176b4cd5b01908f4d8e2eda3",
+      "SimpleName": "CommunityBlessingMajorMeleeNormal.Description",
+      "ProcessTemplates": true,
+    "zhCN": "对这个敌人的近战攻击获得＋2洞察加值",
+    "enGB": "Melee attacks against this foe have a +2 insight bonus to hit."
+    },
+    {
+      "Key": "8d905bdfa983468594871659a0777afc",
+      "SimpleName": "CommunityBlessingMajorMeleeNormal.Name",
+      "ProcessTemplates": false,
+    "zhCN": "合众进击-近战",
+    "enGB": "Fight as One - Melee"
+    },
+    {
+      "Key": "6f27f251751e40bbad07830cc5bd6a41",
+      "SimpleName": "CommunityBlessingMajorRangedCrit.Description",
+      "ProcessTemplates": true,
+    "zhCN": "对这个敌人的洞察加值增加到4，持续一轮。",
+    "enGB": "The insight bonus to hit against this foe is increased to +4 for one round."
+    },
+    {
+      "Key": "3ef6debdb3e54dd1aa1164851e9bce72",
+      "SimpleName": "CommunityBlessingMajorRangedCrit.Name",
+      "ProcessTemplates": false,
+    "zhCN": "合众进击-远程重击",
+    "enGB": "Fight as One - Ranged Crit"
+    },
+    {
+      "Key": "74d0d9385fb14b16bbf863150bfa0aae",
+      "SimpleName": "CommunityBlessingMajorRangedNormal.Description",
+      "ProcessTemplates": true,
+    "zhCN": "对这个敌人的远程攻击获得＋2洞察加值",
+    "enGB": "Ranged attacks against this foe have a +2 insight bonus to hit."
+    },
+    {
+      "Key": "bad783d17a0f4e86a661a8b042ee7c71",
+      "SimpleName": "CommunityBlessingMajorRangedNormal.Name",
+      "ProcessTemplates": false,
+    "zhCN": "合众进击-远程",
+    "enGB": "Fight as One - Ranged"
+    },
+    {
+      "Key": "8a5ffffc27584c4baba9c229ef72fdb1",
+      "SimpleName": "CommunityBlessingMinorAbilityOthers.Description",
+      "ProcessTemplates": true,
+    "zhCN": "给予盟友团结的祝福。在1分钟内，每当这名盟友使用协助他人动作时，加值都会增加+2。",
+    "enGB": "Grant an ally the blessing of community. For the next minute, whenever the ally uses the aid another action, the bonus granted increases by 2."
+    },
+    {
+      "Key": "ae8f919aabd644ebaff8894c0cecb50c",
+      "SimpleName": "CommunityBlessingMinorAbilityOthers.Name",
+      "ProcessTemplates": false,
+    "zhCN": "团队互助-盟友",
+    "enGB": "Communal Aid - Allies"
+    },
+    {
+      "Key": "e2f955bff4ee422d8e5f63a4a96ad50a",
+      "SimpleName": "CommunityBlessingMinorAbilitySelf.Description",
+      "ProcessTemplates": true,
+    "zhCN": "以一个迅捷行动，给予自己团结的祝福。在接下来的一分钟里，每当你使用协助他人动作时，加值都会增加+2。",
+    "enGB": "As a swift action, grant yourself the blessing of community. For the next minute, whenever you use the aid another action, the bonus granted increases by 2."
+    },
+    {
+      "Key": "a31effa6872b466b9b08a74f1757c864",
+      "SimpleName": "CommunityBlessingMinorAbilitySelf.Name",
+      "ProcessTemplates": false,
+    "zhCN": "团队互助-自身",
+    "enGB": "Communal Aid - Self"
+    },
+    {
+      "Key": "949b3a786a4244b7804677145deff6e0",
+      "SimpleName": "CommunityBlessingMinorBuff.Description",
+      "ProcessTemplates": true,
+    "zhCN": "在接下来的一分钟里，每当你使用协助他人动作时，加值都会增加+2。",
+    "enGB": "For the next minute, whenever you use the aid another action, the bonus granted increases by 2."
+    },
+    {
+      "Key": "9802d558c23841569b8de101af17f183",
+      "SimpleName": "CommunityBlessingMinorBuff.Name",
+      "ProcessTemplates": false,
+    "zhCN": "团队互助",
+    "enGB": "Communal Aid"
+    },
+    {
+      "Key": "e1567e21b4ba48d8bc3e3cd84e7aa683",
+      "SimpleName": "PlantBlessingFeature.Description",
+      "ProcessTemplates": true,
+    "zhCN": "在1级时，如果你的一次近战攻击成功命中，那么你可以以一个迅捷动作使被攻击的目标立刻开始发芽和长出扰人的藤蔓。这个生物将被纠缠1轮（反射豁免通过则无效）。\n在10级时，你能以一个标准动作召唤一个自然界的勇士与你并肩作战。这相当于一个法术四级召唤自然盟友的效果，持续一分钟。不过你只能召唤一只动物，这个动物的生物类型将转变为为植物。在10级后的每2个等级，这个能力的效果就上升一个等级，最高在20级达到九级召唤自然盟友。",
+    "enGB": "At 1st level, as a swift action you can cause any creature you hit this round with a melee attack to sprout entangling vines that attempt to hold it in place, entangling it for 1 round (Reflex negates). \nAt 10th level, you can summon a battle companion. This ability functions as summon nature's ally IV with a duration of 1 minute. This ability can summon only one animal, regardless of the list used, and the creature’s type changes to plant instead of animal. For every 2 levels beyond 10th, the level of the summon nature's ally spell increases by 1 (to a maximum of summon nature's ally IX at 20th level)."
+    },
+    {
+      "Key": "fea94bf625bb4e769cf65f7d47c5dbb3",
+      "SimpleName": "PlantBlessingFeature.Name",
+      "ProcessTemplates": false,
+    "zhCN": "植物",
+    "enGB": "Plant"
+    },
+    {
+      "Key": "a4e247ed6e2645f6ba101dba50a6b64c",
+      "SimpleName": "PlantBlessingMajorAbility.Description",
+      "ProcessTemplates": true,
+    "zhCN": "在10级时，你能以一个标准动作召唤一个自然界的勇士与你并肩作战。这相当于一个法术四级召唤自然盟友的效果，持续一分钟。不过你只能召唤一只动物，这个动物的生物类型将转变为为植物。在10级后的每2个等级，这个能力的效果就上升一个等级，最高在20级达到九级召唤自然盟友。",
+    "enGB": "At 10th level, you can summon a battle companion. This ability functions as summon nature's ally IV with a duration of 1 minute. This ability can summon only one animal, regardless of the list used, and the creature’s type changes to plant instead of animal. For every 2 levels beyond 10th, the level of the summon nature's ally spell increases by 1 (to a maximum of summon nature's ally IX at 20th level)."
+    },
+    {
+      "Key": "33f50ceabcd243d2b5f2e1b1b7ac942b",
+      "SimpleName": "PlantBlessingMajorAbility.Name",
+      "ProcessTemplates": false,
+    "zhCN": "自然先锋",
+    "enGB": "Plant Battle Companion"
+    },
+    {
+      "Key": "3adb32bab31e454b86843f615633b7b8",
+      "SimpleName": "PlantBlessingMajorFeature.Description",
+      "ProcessTemplates": true,
+    "zhCN": "在10级时，你能以一个标准动作召唤一个自然界的勇士与你并肩作战。这相当于一个法术四级召唤自然盟友的效果，持续一分钟。不过你只能召唤一只动物，这个动物的生物类型将转变为为植物。在10级后的每2个等级，这个能力的效果就上升一个等级，最高在20级达到九级召唤自然盟友。",
+    "enGB": "At 10th level, you can summon a battle companion. This ability functions as summon nature's ally IV with a duration of 1 minute. This ability can summon only one animal, regardless of the list used, and the creature’s type changes to plant instead of animal. For every 2 levels beyond 10th, the level of the summon nature's ally spell increases by 1 (to a maximum of summon nature's ally IX at 20th level)."
+    },
+    {
+      "Key": "2c5d5b2627a449f294036753c96dbd8d",
+      "SimpleName": "PlantBlessingMajorSummonsBuff.Description",
+      "ProcessTemplates": true,
+    "zhCN": "被自然先锋能力召唤的生物被授予植物类型。植物型生物免疫毒素、睡眠、麻痹、变形、震慑以及所有影响心灵的效果。",
+    "enGB": "Creatures summoned by the plant battle companion ability are granted the plant type. Plant type creatures are granted immunity to paralysis, sleep, mind affecting, poison, polymorph, and stun effects."
+    },
+    {
+      "Key": "879fd86236624c18bf90b09ac7996ee1",
+      "SimpleName": "PlantBlessingMajorSummonsBuff.Name",
+      "ProcessTemplates": false,
+    "zhCN": "植物类型",
+    "enGB": "Plant Type"
+    },
+    {
+      "Key": "1d1ef8cf59fe402c9aa4843ee8ad0de1",
+      "SimpleName": "PlantBlessingMinorAbility.Description",
+      "ProcessTemplates": true,
+    "zhCN": "在1级时，如果你的一次近战攻击成功命中，那么你可以以一个迅捷动作使被攻击的目标立刻开始发芽和长出扰人的藤蔓。这个生物将被纠缠1轮（反射豁免通过则无效）。",
+    "enGB": "At 1st level, as a swift action you can cause any creature you hit this round with a melee attack to sprout entangling vines that attempt to hold it in place, entangling it for 1 round (Reflex negates)."
+    },
+    {
+      "Key": "0b98db2f3f2e4fdd81d1f16b5b218364",
+      "SimpleName": "PlantBlessingMinorBuff.Description",
+      "ProcessTemplates": true,
+    "zhCN": "在1级时，如果你的一次近战攻击成功命中，那么你可以以一个迅捷动作使被攻击的目标立刻开始发芽和长出扰人的藤蔓。这个生物将被纠缠1轮（反射豁免通过则无效）。",
+    "enGB": "At 1st level, as a swift action you can cause any creature you hit this round with a melee attack to sprout entangling vines that attempt to hold it in place, entangling it for 1 round (Reflex negates)."
+    },
+    {
+      "Key": "b277770a56664834ad8cb0bb4bc6baeb",
+      "SimpleName": "PlantBlessingMinorBuff.Name",
+      "ProcessTemplates": false,
+    "zhCN": "猛烈生长",
+    "enGB": "Creeping Vines"
+    },
+    {
+      "Key": "ee1394b03bbe41a185bc35b374ca8c13",
+      "SimpleName": "PlantMasterArchetype.Description",
+      "ProcessTemplates": false,
+    "zhCN": "有些猎人与植物生物而不是动物建立联系,并能够呈现出这些植物的特质。这些猎人与植物生物缔结牢固的联盟,他们的叶子或真菌伙伴能够更好的做到普通猎人的动物伙伴所能做到的任何事情。",
+    "enGB": "Some hunters form a bond with plant life instead of an animal and take on those aspects instead. These hunters form potent bonds with plant creatures, and their leafy or fungal friends are more than capable of anything another hunter’s animal allies can accomplish."
+    },
+    {
+      "Key": "b8a8941f36ef4821863fc502cc5d1c48",
+      "SimpleName": "PlantMasterArchetype.Name",
+      "ProcessTemplates": false,
+    "zhCN": "植物大师",
+    "enGB": "Plant Master"
+    },
+    {
+      "Key": "506f9e35635041098a477f3c7ffc368d",
+      "SimpleName": "PlantMasterCompanionSelection.Description",
+      "ProcessTemplates": true,
+    "zhCN": "一位植物大师与一种植物同伴建立了神秘的联系。该植物是一名忠实的伙伴，并会在冒险中陪伴植物大师。除了该伙伴的生物类型为植物，来自植物伙伴的列表之外，这一能力在其他方面如同标准猎人的动物伙伴能力般运作。",
+    "enGB": "A plant master forms a mystic bond with a plant companion. This plant is a loyal companion that accompanies the palnt master on her adventures. Except for the companion being a creature of the plant type, drawn from the list of plant companions, this ability otherwise works like the standard hunter’s animal companion ability."
+    },
+    {
+      "Key": "48bef3d6209b4fda8d4cf71807924810",
+      "SimpleName": "PlantMasterPlantFocusFeature.Description",
+      "ProcessTemplates": true,
+    "zhCN": "1级起，猎人可以为赋予植物伙伴一种植物特质。和猎人自身不同，应用于植物伙伴的植物特质没有持续时间。这种情况下的植物特质会一直生效，直到猎人对其作出变更。假如植物伙伴死亡，猎人可以将该伙伴的植物之力转移到自己身，此外，猎人能够以迅捷动作为自己施加植物特质，获得与当前植物伙伴身上相同的植物之力效果。猎人每天可施展此能力的分钟数等于其等级。这段持续时间无需连续，但使用时必须以1分钟为单位。对与动物之力有交互的专长和能力而言,植物之力被视为动物之力。 ",
+    "enGB": "At 1st level, the hunter can grant an plant aspect to her plant companion. Unlike with the hunter herself, there is no duration on the plant aspect applied to her plant companion. An aspect applied in this way remains in effect until the hunter changes it. If the hunter's plant companion is dead, the hunter can apply her companion's plant focus to herself instead of her plant companion. Additionally, a hunter can take on the aspect of an plant as a swift action. She gets the same benefits as the current plant companion focus. The hunter can use this ability for a number of minutes per day equal to her level. This duration does not need to be consecutive, but must be spent in 1-minute increments. For the purposes of features and abilities that interact with animal focus, plant focuses are animal focuses."
+    },
+    {
+      "Key": "04faae4c1bdb4313a7288610681caeac",
+      "SimpleName": "PlantMasterPlantShieldAbility.Description",
+      "ProcessTemplates": true,
+    "zhCN": "以30英尺为半径,散发出一种指令灵光对周围的敌对植物生物生效,令它们暂时无法移动、攻击或使用能力,直到它们受到伤害。一旦某个生物从这种效果中解脱,它们将在24小时内免疫该效果。",
+    "enGB": "Exude an aura of command over hostile plant ceatures within 30 feet, causing them to not move, attack, or use abilities until they are damaged. Once a creature has been freed from this effect, they are immune for 24 hours."
+    },
+    {
+      "Key": "244716896b4d4304a554f1b727db7105",
+      "SimpleName": "PlantMasterPlantShieldAbility.Name",
+      "ProcessTemplates": false,
+    "zhCN": "防卫植物",
+    "enGB": "Plant Shield"
+    },
+    {
+      "Key": "ff70da0c82024940a26b707897e4bc00",
+      "SimpleName": "PlantMasterPlantShieldFeature.Description",
+      "ProcessTemplates": true,
+    "zhCN": "17级起，植物大师和他的伙伴能够安抚植物生物。 主人和伙伴都可以散发出一种指令灵光对 30 英尺内的敌对植物生物生效，令它们暂时无法移动、攻击或使用能力,直到它们受到伤害。一旦某个生物从这种效果中解脱,它们将在24小时内免疫该效果。",
+    "enGB": "At 17th level, a plant master and their companion are able to pacify plant creatures. Both master and companion can exude an aura of command over hostile plant ceatures within 30 feet, causing them to not move, attack, or use abilities until they are damaged. Once a creature has been freed from this effect, they are immune for 24 hours."
+    },
+    {
+      "Key": "64ea3a4fcbe5408e91bd558a47c62f16",
+      "SimpleName": "PlantMasterPlantShieldFeaturePet.Description",
+      "ProcessTemplates": true,
+    "zhCN": "17级起，植物大师和他的伙伴能够安抚植物生物。 主人和伙伴都可以对 30 英尺内的敌对植物生物散发出一种指令灵光，令它们暂时无法移动、攻击或使用能力,直到它们受到伤害。一旦某个生物从这种效果中解脱,它们将在24小时内免疫该效果。",
+    "enGB": "At 17th level, a plant master and their companion are able to pacify plant creatures. Both master and companion can exude an aura of command over hostile plant ceatures within 30 feet, causing them to not move, attack, or use abilities until they are damaged. Once a creature has been freed from this effect, they are immune for 24 hours."
+    },
+    {
+      "Key": "32cf76772ac34f2d85d3c71bebb9d516",
+      "SimpleName": "PlantMasterPlantShieldHaltBuff.Description",
+      "ProcessTemplates": true,
+    "zhCN": "这个生物暂时无法移动、攻击或使用能力,直到它们受到伤害。一旦生物从这种效果中解脱,它们将在24小时内免疫该效果。",
+    "enGB": "This creature may not move, attack, or use abilities until they are damaged. Once a creature has been freed from this effect, they are immune for 24 hours."
+    },
+    {
+      "Key": "c78718c470944de2a121d0c46e4e3cce",
+      "SimpleName": "PlantMasterPlantShieldHaltBuff.Name",
+      "ProcessTemplates": false,
+    "zhCN": "防卫植物 - 停止",
+    "enGB": "Plant Shield - Halted"
+    },
+    {
+      "Key": "4828c9c3d6194da2a9620d951c68a55e",
+      "SimpleName": "PlantMasterPlantShieldImmunityBuff.Description",
+      "ProcessTemplates": true,
+    "zhCN": "该生物免疫防卫植物的效果",
+    "enGB": "This creature is immune to the effects of the plant shield ability."
+    },
+    {
+      "Key": "86f749a861e94e36971ba9f9c4896f67",
+      "SimpleName": "PlantMasterPlantShieldImmunityBuff.Name",
+      "ProcessTemplates": false,
+    "zhCN": "防卫植物 - 免疫",
+    "enGB": "Plant Shield - Immune"
+    },
+    {
+      "Key": "74dd1faefdf44910b88b12bdff967f65",
+      "SimpleName": "HunterPlantFocusForHimself.Description",
+      "ProcessTemplates": true,
+    "zhCN": "1级起，猎人可以赋予植物伙伴一种植物特质。和猎人自身不同，应用于植物伙伴的植物特质没有持续时间。这种情况下的植物特质会一直生效，直到猎人对其作出变更。假如植物伙伴死亡，猎人可以将该伙伴的植物之力转移到自己身，此外，猎人能够以迅捷动作为自己施加植物特质，获得与当前植物伙伴身上相同的植物之力效果。猎人每天可施展此能力的分钟数等于其等级。这段持续时间无需连续，但使用时必须以1分钟为单位。对与动物之力有交互的专长和能力而言,植物之力被视为动物之力。",
+    "enGB": "At 1st level, the hunter can grant an plant aspect to her plant companion. Unlike with the hunter herself, there is no duration on the plant aspect applied to her plant companion. An aspect applied in this way remains in effect until the hunter changes it. If the hunter's plant companion is dead, the hunter can apply her companion's plant focus to herself instead of her plant companion. Additionally, a hunter can take on the aspect of an plant as a swift action. She gets the same benefits as the current plant companion focus. The hunter can use this ability for a number of minutes per day equal to her level. This duration does not need to be consecutive, but must be spent in 1-minute increments. For the purposes of features and abilities that interact with animal focus, plant focuses are animal focuses."
+    },
+    {
+      "Key": "1cf7479d4d9542dc8363704878e391f9",
+      "SimpleName": "HunterPlantFocusForHimself.Name",
+      "ProcessTemplates": false,
+    "zhCN": "植物之力 - 植物大师",
+    "enGB": "Plant Focus - Plant Master"
+    },
+    {
+      "Key": "58c1b3215f1b4465a259467dffc9e299",
+      "SimpleName": "PlantFocusAssassinVine.Description",
+      "ProcessTemplates": true,
+    "zhCN": "该生物的擒抱战技检定获得+2天赋加值。 该加值在 8 级时增加到 +4，在 15 级时增加到 +6。",
+    "enGB": "The creature gains a +2 inherent bonus to combat maneuver checks to grapple. This bonus increases to +4 at 8th level and +6 at 15th level."
+    },
+    {
+      "Key": "d196def7628f46edac1645fb7de68878",
+      "SimpleName": "PlantFocusAssassinVineBuff.Description",
+      "ProcessTemplates": true,
+    "zhCN": "该生物的擒抱战技检定获得+2天赋加值。 该加值在 8 级时增加到 +4，在 15 级时增加到 +6。",
+    "enGB": "The creature gains a +2 inherent bonus to combat maneuver checks to grapple. This bonus increases to +4 at 8th level and +6 at 15th level."
+    },
+    {
+      "Key": "e5080c848d8d4874990ee13cc22abab6",
+      "SimpleName": "PlantFocusAssassinVineEffect.Name",
+      "ProcessTemplates": false,
+    "zhCN": "植物之力 - 杀人藤",
+    "enGB": "Plant Focus - AssassinVine"
+    },
+    {
+      "Key": "24574766946d440fa649806c872fecc9",
+      "SimpleName": "PlantFocusAssassinVineVisibleBuff.Description",
+      "ProcessTemplates": true,
+    "zhCN": "该生物的擒抱战技检定获得+2天赋加值。 该加值在 8 级时增加到+4，在 15 级时增加到+6。",
+    "enGB": "The creature gains a +2 inherent bonus to combat maneuver checks to grapple. This bonus increases to +4 at 8th level and +6 at 15th level."
+    },
+    {
+      "Key": "2c94dfb085c14383884a0132a0f01f73",
+      "SimpleName": "PlantFocusAssassinVineVisibleBuff.Name",
+      "ProcessTemplates": false,
+    "zhCN": "植物之力 - 杀人藤",
+    "enGB": "Plant Focus - Assassin Vine"
+    },
+    {
+      "Key": "3b1589957c5148288b400450aac2f78d",
+      "SimpleName": "PlantFocusBrambles.Description",
+      "ProcessTemplates": true,
+    "zhCN": "当该生物被徒手攻击或天生武器攻击击中时，攻击者会受到1点穿刺伤害。 \n此伤害在8级时增加到2点，在15级时增加到3点",
+    "enGB": "When the creature is hit by an unarmed strike or natural attack, the attacker takes 1 point of piercing damage. \nThis damage increases to 2 points at 8th level and 3 points at 15th level"
+    },
+    {
+      "Key": "1ac833973ae842929eacc4b9392e008f",
+      "SimpleName": "PlantFocusBramblesBuff.Description",
+      "ProcessTemplates": true,
+    "zhCN": "当该生物被徒手攻击或天生武器攻击击中时，攻击者会受到1点穿刺伤害。 \n此伤害在8级时增加到2点，在15级时增加到3点",
+    "enGB": "When the creature is hit by an unarmed strike or natural attack, the attacker takes 1 point of piercing damage. \nThis damage increases to 2 points at 8th level and 3 points at 15th level"
+    },
+    {
+      "Key": "a8bba57f7a5542eab2db97c154c6e436",
+      "SimpleName": "PlantFocusBramblesVisibleBuff.Description",
+      "ProcessTemplates": true,
+    "zhCN": "当该生物被徒手攻击或天生武器攻击击中时，攻击者会受到1点穿刺伤害。 \n此伤害在8级时增加到2点，在15级时增加到3点",
+    "enGB": "When the creature is hit by an unarmed strike or natural attack, the attacker takes 1 point of piercing damage. \nThis damage increases to 2 points at 8th level and 3 points at 15th level"
+    },
+    {
+      "Key": "e245c9c1ff45416cbbf9ab505ae9cda6",
+      "SimpleName": "PlantFocusBramblesVisibleBuff.Name",
+      "ProcessTemplates": false,
+    "zhCN": "植物之力 - 荆棘",
+    "enGB": "Plant Focus - Brambles"
+    },
+    {
+      "Key": "23cf463a50364034bcf64c7f047f2eac",
+      "SimpleName": "PlantFocusCreepingVine.Description",
+      "ProcessTemplates": true,
+    "zhCN": "该生物的运动检定获得+4表现加值。 这个加值在8级时增加到+6，在15级时增加到+8。",
+    "enGB": "The creature gains a +4 competence bonus on Athletics checks. This bonus increases to +6 at 8th level and +8 at 15th level."
+    },
+    {
+      "Key": "b68c543aecb9450bb8c0bc6ad302835b",
+      "SimpleName": "PlantFocusCreepingVineBuff.Description",
+      "ProcessTemplates": true,
+    "zhCN": "该生物的运动检定获得+4表现加值。 这个加值在8级时增加到+6，在15级时增加到+8。",
+    "enGB": "The creature gains a +4 competence bonus on Athletics h level and +8 at 15th level."
+    },
+    {
+      "Key": "9910e927bb984404ba255389c35f3062",
+      "SimpleName": "PlantFocusCreepingVineEffect.Name",
+      "ProcessTemplates": false,
+    "zhCN": "植物之力 - 爬山虎",
+    "enGB": "Plant Focus - CreepingVine"
+    },
+    {
+      "Key": "5d27262358f54ee49e9f554ad5f8c588",
+      "SimpleName": "PlantFocusCreepingVineVisibleBuff.Description",
+      "ProcessTemplates": true,
+    "zhCN": "该生物的运动检定获得+4表现加值。 这个加值在8级时增加到+6，在15级时增加到+8。",
+    "enGB": "The creature gains a +4 competence bonus on Athletics h level and +8 at 15th level."
+    },
+    {
+      "Key": "c75a70019da7432a880f34075772a335",
+      "SimpleName": "PlantFocusCreepingVineVisibleBuff.Name",
+      "ProcessTemplates": false,
+    "zhCN": "植物之力 - 爬山虎",
+    "enGB": "Plant Focus - CreepingVine"
+    },
+    {
+      "Key": "93f5332cb62e4b2f9bd88448fb6bdb3d",
+      "SimpleName": "PlantFocusGiantFlytrap.Description",
+      "ProcessTemplates": true,
+    "zhCN": "该生物的潜行检定获得+4表现加值。 这个加值在8级时增加到+6，在15级时增加到+8。",
+    "enGB": "The creature gains a +4 competence bonus on Stealth checks. This bonus increases to +6 at 8th level and +8 at 15th level."
+    },
+    {
+      "Key": "f051c666ba884f34bbbf85471e5349c5",
+      "SimpleName": "PlantFocusGiantFlytrapBuff.Description",
+      "ProcessTemplates": true,
+    "zhCN": "该生物的潜行检定获得+4表现加值。 这个加值在8级时增加到+6，在15级时增加到+8。",
+    "enGB": "The creature gains a +4 competence bonus on Stealth chlevel and +8 at 15th level."
+    },
+    {
+      "Key": "120024090c534cc49d62e7f4e61233b8",
+      "SimpleName": "PlantFocusGiantFlytrapEffect.Name",
+      "ProcessTemplates": false,
+    "zhCN": "植物之力 - 巨捕蝇草",
+    "enGB": "Plant Focus - GiantFlytrap"
+    },
+    {
+      "Key": "c474ecfee47f4f5999655f2b4f6b6870",
+      "SimpleName": "PlantFocusGiantFlytrapVisibleBuff.Description",
+      "ProcessTemplates": true,
+    "zhCN": "该生物的潜行检定获得+4表现加值。 这个加值在8级时增加到+6，在15级时增加到+8。",
+    "enGB": "The creature gains a +4 competence bonus on Stealth chlevel and +8 at 15th level."
+    },
+    {
+      "Key": "4265d0bda1704ce5bf164beb4bc12140",
+      "SimpleName": "PlantFocusGiantFlytrapVisibleBuff.Name",
+      "ProcessTemplates": false,
+    "zhCN": "植物之力 - 巨捕蝇草",
+    "enGB": "Plant Focus - Giant Flytrap"
+    },
+    {
+      "Key": "b9e37c850f8149baac0e5f304669f6f2",
+      "SimpleName": "PlantFocusHunterActivatable.Description",
+      "ProcessTemplates": true,
+    "zhCN": "1级起，猎人可以赋予植物伙伴一种植物特质。和猎人自身不同，应用于植物伙伴的植物特质没有持续时间。这种情况下的植物特质会一直生效，直到猎人对其作出变更。假如植物伙伴死亡，猎人可以将该伙伴的植物之力转移到自己身，此外，猎人能够以迅捷动作为自己施加植物特质，获得与当前植物伙伴身上相同的植物之力效果。猎人每天可施展此能力的分钟数等于其等级。这段持续时间无需连续，但使用时必须以1分钟为单位。对与动物之力有交互的专长和能力而言,植物之力被视为动物之力。",
+    "enGB": "At 1st level, the hunter can grant an plant aspect to her plant companion. Unlike with the hunter herself, there is no duration on the plant aspect applied to her plant companion. An aspect applied in this way remains in effect until the hunter changes it. If the hunter's plant companion is dead, the hunter can apply her companion's plant focus to herself instead of her plant companion. Additionally, a hunter can take on the aspect of an plant as a swift action. She gets the same benefits as the current plant companion focus. The hunter can use this ability for a number of minutes per day equal to her level. This duration does not need to be consecutive, but must be spent in 1-minute increments. For the purposes of features and abilities that interact with animal focus, plant focuses are animal focuses."
+    },
+    {
+      "Key": "6efc6aba6c6e412fb995f9d57773a158",
+      "SimpleName": "PlantFocusHunterActivatable.Name",
+      "ProcessTemplates": false,
+    "zhCN": "植物之力",
+    "enGB": "Plant Focus"
+    },
+    {
+      "Key": "00c5f6e3773a4289b6720d443e78a045",
+      "SimpleName": "PlantFocusMushroom.Description",
+      "ProcessTemplates": true,
+    "zhCN": "该生物对抗毒素的豁免检定上获得+4天赋加值。 这个加值在 8 级时增加到+6，在 15 级时增加到+8。\n虽然植物同伴已经免疫毒素，但此天赋加值可以与猎人分享。",
+    "enGB": "The creature gains a +4 inherent bonus on saves against poison. This bonus increases to +6 at 8th level and +8 at 15th level.\nWhile plant companions are already immune to posion, this inherent bonus can be shared with the hunter."
+    },
+    {
+      "Key": "540004f84b124322b03c8e78471d0ae4",
+      "SimpleName": "PlantFocusMushroomBuff.Description",
+      "ProcessTemplates": true,
+    "zhCN": "该生物对抗毒素的豁免检定上获得+4天赋加值。 这个加值在 8 级时增加到+6，在 15 级时增加到+8。\n虽然植物同伴已经免疫毒素，但此天赋加值可以与猎人分享。",
+    "enGB": "The creature gai8th level and +8 at 15th level.\nWhile plant companions are already immune to posion, this inherent bonus can be shared with the hunter."
+    },
+    {
+      "Key": "9f88b594dcd94fa290a60926c9a10dd7",
+      "SimpleName": "PlantFocusMushroomVisibleBuff.Description",
+      "ProcessTemplates": true,
+    "zhCN": "该生物对抗毒素的豁免检定上获得+4天赋加值。 这个加值在 8 级时增加到+6，在 15 级时增加到+8。\n虽然植物同伴已经免疫毒素，但此天赋加值可以与猎人分享。",
+    "enGB": "The creature gai8th level and +8 at 15th level.\nWhile plant companions are already immune to posion, this inherent bonus can be shared with the hunter."
+    },
+    {
+      "Key": "1ca4e845fc514a91bb752e468b08bae3",
+      "SimpleName": "PlantFocusMushroomVisibleBuff.Name",
+      "ProcessTemplates": false,
+    "zhCN": "植物之力 - 蘑菇",
+    "enGB": "Plant Focus - Mushroom"
+    },
+    {
+      "Key": "0bab5762915742aaa863059a465baa1e",
+      "SimpleName": "PlantFocusOak.Description",
+      "ProcessTemplates": true,
+    "zhCN": "该生物的CMD获得+2天赋加值。 该加值在 8 级时增加到+4，在 15 级时增加到+6。",
+    "enGB": "The creature gains a +2 inherent bonus to CMD. This bonus increases to +4 at 8th level and +6 at 15th level."
+    },
+    {
+      "Key": "fc30071aacc64eed88e0340f3d1f5749",
+      "SimpleName": "PlantFocusOakBuff.Description",
+      "ProcessTemplates": true,
+    "zhCN": "该生物的CMD获得+2天赋加值。 该加值在 8 级时增加到+4，在 15 级时增加到+6。",
+    "enGB": "The creature gains a +2 inherent bonus to CMD. This at 15th level."
+    },
+    {
+      "Key": "2b5a8e1353724308b5ac28bc9a43e175",
+      "SimpleName": "PlantFocusOakVisibleBuff.Description",
+      "ProcessTemplates": true,
+    "zhCN": "该生物的CMD获得+2天赋加值。 该加值在 8 级时增加到+4，在 15 级时增加到+6。",
+    "enGB": "The creature gains a +2 inherent bonus to CMD. This at 15th level."
+    },
+    {
+      "Key": "6b17d09f94594811a9d9bb4147c14f45",
+      "SimpleName": "PlantFocusOakVisibleBuff.Name",
+      "ProcessTemplates": false,
+    "zhCN": "植物之力 - 橡树",
+    "enGB": "Plant Focus - Oak"
+    },
+    {
+      "Key": "dd0eadf6cd144ea2a86754f792b1586a",
+      "SimpleName": "PlantFocusShrieker.Description",
+      "ProcessTemplates": true,
+    "zhCN": "该生物的察觉检定获得+4表现加值。 这个加值在8级时增加到+6，在15级时增加到+8。该生物还获得了10英尺范围内的盲感，使得隐形和隐蔽（甚至魔法黑暗）都对该生物毫无关系。",
+    "enGB": "The creature gains a +4 competence bonus on Perception checks, increasing to +6 at 8th level. At 15th level, the creature also gains blindsense with a range of 10 feet, making invisibility and concealment (even magical darkness) irrelevant to this creature."
+    },
+    {
+      "Key": "b88accec8c344a38823dc9e07c76f53b",
+      "SimpleName": "PlantFocusShriekerBlindsenseBuff.Name",
+      "ProcessTemplates": false,
+    "zhCN": "植物之力 - 尖叫蕈 盲感buff",
+    "enGB": "PlantFocusShriekerBlindsenseBuff"
+    },
+    {
+      "Key": "70d42d6e917b429486d171b4988e9dcd",
+      "SimpleName": "PlantFocusShriekerBuff.Description",
+      "ProcessTemplates": true,
+    "zhCN": "该生物的察觉检定获得+4表现加值。 这个加值在8级时增加到+6，在15级时增加到+8。该生物还获得了10英尺范围内的盲感，使得隐形和隐蔽（甚至魔法黑暗）都对该生物毫无关系。",
+    "enGB": "The creature gains a +4 competence bonus on Perception checks, increasing to +6 at 8th level. At 15th level, the creature also gains blindsense with a range of 10 feet, making invisibility and concealment (even magical darkness) irrelevant to this creature."
+    },
+    {
+      "Key": "22850369af9d4697b01ef75a6f748baa",
+      "SimpleName": "PlantFocusShriekerVisibleBuff.Description",
+      "ProcessTemplates": true,
+    "zhCN": "该生物的察觉检定获得+4表现加值。 这个加值在8级时增加到+6，在15级时增加到+8。该生物还获得了10英尺范围内的盲感，使得隐形和隐蔽（甚至魔法黑暗）都对该生物毫无关系。",
+    "enGB": "The creature gains a +4 competence bonus on Perception checks, increasing to +6 at 8th level. At 15th level, the creature also gains blindsense with a range of 10 feet, making invisibility and concealment (even magical darkness) irrelevant to this creature."
+    },
+    {
+      "Key": "854046d419ef4b30a4493a5b79da5099",
+      "SimpleName": "PlantFocusShriekerVisibleBuff.Name",
+      "ProcessTemplates": false,
+    "zhCN": "植物之力 - 尖叫蕈",
+    "enGB": "Plant Focus - Shrieker"
+    },
+    {
+      "Key": "42f02e54b3b54fe1922af2d342336510",
+      "SimpleName": "PlantFocusSpore.Description",
+      "ProcessTemplates": true,
+    "zhCN": "该生物的灵巧检定获得+4表现加值。 这个加值在8级时增加到+6，在15级时增加到+8。",
+    "enGB": "The creature gains a +4 competence bonus on Mobility checks. This bonus increases to +6 at 8th level and +8 at 15th level."
+    },
+    {
+      "Key": "5d971dad3a474b2997d92e39a14b1140",
+      "SimpleName": "PlantFocusSporeBuff.Description",
+      "ProcessTemplates": true,
+    "zhCN": "该生物的察觉检定获得+4表现加值。 这个加值在8级时增加到+6，在15级时增加到+8。",
+    "enGB": "The creature gains a +4 competence bonus on Mobility checks. This bonus increases to +6 at 8th level and +8 at 15th level."
+    },
+    {
+      "Key": "0383a27889b24169b7f670e2389e02b5",
+      "SimpleName": "PlantFocusSporeVisibleBuff.Description",
+      "ProcessTemplates": true,
+    "zhCN": "该生物的察觉检定获得+4表现加值。 这个加值在8级时增加到+6，在15级时增加到+8。",
+    "enGB": "The creature gains a +4 competence bonus on Mobility checks. This bonus increases to +6 at 8th level and +8 at 15th level."
+    },
+    {
+      "Key": "bd74ee9e8e824e94ad71b229d98070fb",
+      "SimpleName": "PlantFocusSporeVisibleBuff.Name",
+      "ProcessTemplates": false,
+    "zhCN": "植物之力 - 孢子",
+    "enGB": "Plant Focus - Spore"    
+    },
+    {
+      "Key": "38d5cabe2b1044bab16a8d293d601e97",
+      "SimpleName": "DrakeRiderArchetype.Description",
+      "ProcessTemplates": false,
+      "zhCN": "虽然骑龙上阵是许多骑士的梦想，但龙兽骑士们明白，实现的难度比他们预想的还要多得多。不像其他骑士，龙兽骑士必须从蛋开始训练他们的坐骑，在骄傲的龙愿意承认他们为骑手之前，龙兽骑士要独自承受劳苦，在数年间不断和它们争斗与拼搏。",
+      "enGB": "While many cavaliers dream of riding a dragon into battle, drake riders come to learn that the reality involves far more effort than they had expected. Unlike other cavaliers, drake riders must train their mounts from hatchlings, fighting and toiling alongside their drakes through countless struggles before the proud dragons are willing to accept them as riders."
+    },
+    {
+      "Key": "83274c7b3dc74358bbce5a2c07774758",
+      "SimpleName": "DrakeRiderArchetype.Name",
+      "ProcessTemplates": false,
+      "zhCN": "龙兽骑士", 
+     "enGB": "Drake Rider"
+    },
+    {
+      "Key": "487f49eeb3374a9dac5b48e3d7db957d",
+      "SimpleName": "DrakeRiderBondFeature.Description",
+      "ProcessTemplates": true,
+      "zhCN": "龙兽骑士获得的不是动物伙伴，而是将被训练成合适坐骑的龙兽伙伴。\n龙兽骑士等级被视为德鲁伊等级，用于确定龙兽伙伴的等级和能力。",
+      "enGB": "Instead of an animal companion, the drake rider receives a drake companion to train into a suitable mount. \nThe drake riders levels are treated as druid levels for determining the level and abilities of the drake companion."
+    },
+    {
+      "Key": "b39bf72b49154cb198fb20d88602f08a",
+      "SimpleName": "DrakeRiderBondFeature.Name",
+      "ProcessTemplates": false,
+      "zhCN": "选择龙兽",
+      "enGB": "Drake Selection"
+    },
+    {
+      "Key": "ac310cac8e384455a12db6f792c75c2e",
+      "SimpleName": "DrakeRiderMountTrainingFeature.Description",
+      "ProcessTemplates": true,
+      "zhCN": "在7级时，龙兽骑士成功完成了龙兽的坐骑训练，一旦龙兽变成中体型就可以骑乘了。", 
+     "enGB": "By level 7 the drake rider successfully completes their drakes mount training, allowing them to be riden as soon as they reach medium size."
+    },
+    {
+      "Key": "df4b5ab0839e48c98e79ee2a73783368",
+      "SimpleName": "DrakeRiderMountTrainingFeature.Name",
+      "ProcessTemplates": false,
+      "zhCN": "完成训练",
+      "enGB": "Completed Training"
+    },
+    {
+      "Key": "9d67f9d553494d6e9e0bb4ab29e24ac5",
+      "SimpleName": "DrakeRiderShakeItOffFeature.Description",
+      "ProcessTemplates": true,
+      "zhCN": "在3级时，龙兽骑士和龙兽都接受了分散对手注意力的配合训练,因此他们都获得了团队专长摆脱困境",
+      "enGB": "At level 3 both the drake rider and the drake have trained in fighting together through distraction, both gain the Shake It Off teamwork feat."
+    },
+    {
+      "Key": "00e8519378964741946c2d0277e32700",
+      "SimpleName": "DrakeRiderShakeItOffFeature.Name",
+      "ProcessTemplates": false,
+      "zhCN": "共享专长摆脱困境",
+      "enGB": "Shared Shake It Off Feat"
+    },
+    {
+      "Key": "74139099ea864a06b0ec7e58cf4a385c",
+      "SimpleName": "HalflingOpportunistExcellentAidFeature.Description",
+      "ProcessTemplates": true,
+      "zhCN": "半身任侠有着非凡的才能，能够充分利用那些帮助她的人。当别人援助她时，她获得援助加值额外+1，第3级再+1，第5级再+1。她援助别人的时候本能力不会生效，只有别人援助她的时候她才会获得好处。",
+      "enGB": "A halfling opportunist has an amazing talent for getting the most out of those who assist her. Increase the bonus she gets from aid another by +1. This increases by another +1 at 3rd level and again at 5th level. This increase does not apply to when she uses aid another to help others, only when others aid her."
+    },
+    {
+      "Key": "4434f424d221474793761ab0656a5d27",
+      "SimpleName": "HalflingOpportunistExcellentAidFeature.Name",
+      "ProcessTemplates": false,
+      "zhCN": "非凡援助",
+      "enGB": "Excellent Aid"
+    },
+    {
+      "Key": "fd62234aba774cd68f54a6421dc3e66e",
+      "SimpleName": "ChildOfAcavnaAndAmaznenDelayedCasting.Name",
+      "ProcessTemplates": false,
+      "zhCN": "施法学徒",
+      "enGB": "Student of Spellcasting"
+    },
+    {
+      "Key": "78d7c4a0d40646b6b525c013d8a82833",
+      "SimpleName": "FourHorsemenSelection.Description",
+      "ProcessTemplates": true,
+      "zhCN": "在冥河（River Styx）的尽头等候着的是末日荒原（Abaddon）的统治者：天启四驭者（the Four Horsemen of the Apocalypse）和祂们的邪魔子裔。对有生万物的憎恶驱动着所有的邪魔，他们将存在本身视为巨大的错误。虽然所有的驭者在生命之初都曾是凡人，但祂们都全身心投入到根除现实本身。身下乘着可怖的骏马，他们力图寻得真正的天启。只有所有的生命都被扼杀殆尽，祂们的使命才算完成，而后便可将自身托付予那一直等候着的遗忘。\n只有真正的虚无主义者会信奉驭者。那些想要向整个世界复仇，或是渴求力量的人，被驭者轻巧的承诺所欺骗，认为他们会从主人肩负着的带来浩劫的任务中幸存。他们从未幸免。对于驭者而言，他们的追随者随用随抛，在最终被吞噬前不过是些实用的工具。",
+      "enGB": "At the end of the River Styx await the rulers of Abaddon: the Four Horsemen of the Apocalypse and their daemonic brood. Hatred for living things fuels all of daemonkind, who see existence as a great mistake. Though all of the Horsemen began their lives as mortals, they are completely devoted to the eradication of reality itself. Riding atop their dreaded steeds, they strive for true apocalypse. Only when all life has been snuffed out does their mission end, and they can then consign themselves to the waiting oblivion. \nOnly the truly nihilistic worship the Horsemen. Those who seek vengeance on all the world or lust for power are drawn to the Horsemen's easy promises, thinking they will be spared from their masters' cataclysmic mission. They never are. To the Horsemen, their followers are entirely disposable, tools with a purpose until they too are devoured."
+    },
+    {
+      "Key": "ee520b1d4fb54eacb45f520aa5ac659b",
+      "SimpleName": "FourHorsemenSelection.Name",
+      "ProcessTemplates": false,
+      "zhCN": "四驭者",
+      "enGB": "The Four Horsemen"
+    },
+    {
+      "Key": "566280b794fe4f2c8818479f7d58c53b",
+      "SimpleName": "ApollyonFeature.Description",
+      "ProcessTemplates": true,
+      "zhCN": "\n称号：瘟疫驭者，蝗虫王子，瘟疫王子 \n阵营：中立邪恶 \n关注领域：瘟疫 \n领域：气，黑暗，毁灭，邪恶 \n子域：天灾，邪魔，失却，暗夜 瘟疫 \n偏好武器：巨镰 \n神徽：缠绕着病态肉质触须的黄色镰刀 \n神兽：马，老鼠\n亚波轮，瘟疫驭者，化身是一个有着腐烂的公羊头且长满痘疮的巨人。他布满脓疱的身体裹着一件由天使的皮肤缝合而成的斗篷，他的弓射出的箭会在落下之地传播疾病。无论是在他的骨肉王座上，还是在他流血溃烂的坐骑之上，瘟疫骑士和他的骷髅头执事们都像野火一样在主物质位面的世界中传播疾病。",
+      "enGB": "\nTitles: Horseman of Pestilence, Prince of Locusts, Prince of Plagues\nAlignment: Neutral Evil \nAreas of Concern: Pestilence \nDomains: Air, Darkness, Destruction, Evil \nSubdomains: Catastrophe, Daemon, Loss, Night, Plague \nFavoured Weapon: Scythe \nHoly Symbol: Diseased yellow scythe \nSacred Animal: Horse, rat   \nApollyon, the Horseman of Pestilence, takes the form of a pockmarked giant with the head of a diseased ram. His pustule-covered body is wrapped in a cloak made from the stitched-together skins of angels, and his bow spreads disease wherever its arrows fall. Whether from his throne of bone and flesh or atop his bleeding, ulcerated mount, the Horseman of Pestilence and his skull-headed deacons spread disease like wildfire across the worlds of the Material Plane."
+    },
+    {
+      "Key": "d7f7f11a6aae4fad87080e775c6ebc5c",
+      "SimpleName": "ApollyonFeature.Name",
+      "ProcessTemplates": false,
+      "zhCN": "亚波轮",
+      "enGB": "Apollyon"
+    },
+    {
+      "Key": "cfa3ab59b41a415784ad3db9d3c5b17c",
+      "SimpleName": "CharonFeature.Description",
+      "ProcessTemplates": true,
+      "zhCN": "\n称号：死亡驭者，摆渡人，冥河的摆渡人，死亡之王 \n阵营：中立邪恶 \n关注领域：死亡\n领域：死亡，邪恶，知识，水 \n子域：邪魔，冰，记忆，亡灵 \n偏好武器：木棍\n神徽：眼窝放着金币的头骨 \n神兽：马，渡鸦 \n死亡驭者驾着小船在冥河上航行，为灵魂提供航程——但要付出代价。 卡戎代表因年老和自然原因而死亡，他可以成为四神中最有耐心和最狡猾的一个，因为他知道，最终，所有那些未受其他神灵和信仰影响的邪恶灵魂最终都将出现在他的河岸上 ，等待着他吞噬它们。 卡戎是最古老的天启骑士，他的起源一直笼罩在神秘之中，而他很乐意让它们保持这样的状态。",
+      "enGB": "\nTitles: Horseman of Death, The Boatman, The Boatman of the Styx, Lord of Death\nAlignment: Neutral Evil \nAreas of Concern: Death \nDomains: Death, Evil, Knowledge, Water \nSubdomains: Daemon, Ice, Memory, Undead \nFavoured Weapon: Quarterstaff \nHoly Symbol: Skull with coins on eyes \nSacred Animal: Horse, raven   \nThe Horseman of Death plies the River Styx in his skiff, offering souls passage—for a price. Representing death by old ageand natural causes, Charon can afford to be the most patient and cunning of the Four, as he knows that, in the end, all those evil souls untouched by other gods and creeds will end up on the banks of his river, waiting for him to consume them. The origins of Charon, the oldest of the Horsemen, are shrouded in mystery, and he’s happy to keep them that way."
+    },
+    {
+      "Key": "82e267fb59ef46f4b01a287827325a49",
+      "SimpleName": "CharonFeature.Name",
+      "ProcessTemplates": false,
+      "zhCN": "卡戎",
+      "enGB": "Charon"
+    },
+    {
+      "Key": "db41fbb6560e4c518a7a5b055f20503f",
+      "SimpleName": "SzurielFeature.Description",
+      "ProcessTemplates": true,
+      "zhCN": "\n称号：战争驭者，荒芜天使，毁灭炽天使\n阵营：中立邪恶 \n关注领域：战争 \n领域：邪恶，火，力量，战争\n子域：鲜血，邪魔，凶猛，战术\n偏好武器：重剑 \n神徽：苍白之手与黑色大剑\n神兽：马，秃鹫\n就像是一位巨大的哭泣天使，战争驭者胜利地站在战场上，鲜血顺着她可怕的黑色剑刃流淌成河。 她不是正义的领袖，而是为了战争而奋斗的战士。 在她的旗帜下，秃鹫头的狂战邪魔领导着一场针对存在本身的伟大圣战，为了将整个世界夷为平地，注定要进行残酷的战役，直到宇宙最终吐出最后一口气，化为虚无。",
+      "enGB": "\nTitles: Horseman of War, Angel of Desolation, Seraph of Devastation\nAlignment: Neutral Evil \nAreas of Concern: War \nDomains: Evil, Fire, Strength, War \nSubdomains: Blood, Daemon, Ferocity, Tactics \nFavoured Weapon: Greatsword \nHoly Symbol: Pale hand and black sword \nSacred Animal: Horse, vulture   \nLike an enormous weeping angel, the Horseman of War stands triumphant over the battlefield, blood running in rivers down the black blade of her terrible sword. She is no leader of the righteous, but a warrior for the sake of making war. Under her banner, the vulture-headed purrodaemons lead great crusades against existence itself, laying waste to entire worlds, bound to their grim campaign until the cosmos finally heaves its last convulsive breath and expires into nothingness."
+    },
+    {
+      "Key": "687b1dc404cd474c91d916f822398a0e",
+      "SimpleName": "SzurielFeature.Name",
+      "ProcessTemplates": false,
+      "zhCN": "祖瑞尔",
+      "enGB": "Szuriel"
+    },
+    {
+      "Key": "6862793aaac246a280d07634ca6d9d43",
+      "SimpleName": "TrelmarixianFeature.Description",
+      "ProcessTemplates": true,
+      "zhCN": "\n称号：饥荒驭者,The Black,虚痨邪魔，溶源王子 \n阵营：中立邪恶\n关注领域：饥荒 \n领域：土，邪恶，疯狂，天气 \n子域：邪魔，腐朽，疯狂，季节 \n偏好武器：带刺铁手套 \n神徽：一个侧面的在吞噬太阳的豺狼头骨 \n神兽：马，豺狼 \n四位驭者中最年轻、最雄心勃勃的黑衣驭者特雷马里克西安是饥荒驭者，他致力于目睹所有凡人的生命在他眼前消失。 崔玛瑞希长着豺狼头，有着瘦弱饥饿的身体和薄而流动的肉，没有自己的形状，他专门研究癌症和其他形式的自我消耗，帮助用他的精髓和其他使身体抵抗的疾病感染凡人的本身，以从内部引起饥荒。",
+      "enGB": "\nTitles: Horseman of Famine, The Black, Archdaemon of Wasting, The Lysogenic Prince\nAlignment: Neutral Evil \nAreas of Concern: Famine \nDomains: Earth, Evil, Madness, Weather \nSubdomains: Daemon, Decay, Insanity, Seasons \nFavoured Weapon: Spiked gauntlet (punching dagger) \nHoly Symbol: Black jackal skull eating an eclipsed sun \nSacred Animal: Horse, jackal   \nThe youngest and most ambitious of the Four, Trelmarixian the Black is the Horseman of Famine, devoted to seeing all mortal life waste away before his eyes. Jackal-headed, with the emaciated body of a starving man and thin, fluid flesh with no shape of its own, Trelmarixian specializes in cancers and other forms of selfconsumption, helping to infect mortal life with his essence and other maladies that turn the body against itself, causing famine from within."
+    },
+    {
+      "Key": "63d0ba21755846e0a63d838ff00fc617",
+      "SimpleName": "TrelmarixianFeature.Name",
+      "ProcessTemplates": false,
+      "zhCN": "崔玛瑞希",
+      "enGB": "Trelmarixian"
+    },
+    {
+      "Key": "ff12ecd3d5a64006a57e5dc4108b312c",
+      "SimpleName": "ChildOfAcavnaAndAmaznenDelayedCasting.Description",
+      "ProcessTemplates": true,
+      "zhCN": "旧神圣子获得一本法术书，并从血脉狂怒者法术列表选择等同于3＋智力调整值数量的法术加入法术书。\n虽然他们无法在5级之前释放这些法术，但他们每级都可以额外添加一个法术到法术书中，并且可以将卷轴的法术抄写到法术书中。",
+      "enGB": "The child of Acavna and Amaznen gains a spellbook starting with spells from the bloodrager spelllist equal to 3 + their Intelligence modifier. \nWhile they are unable to cast these spells before 5th level, they may add one additional per level and copy spells from scrolls into the spellbook until then."
+    },
+    {
+      "Key": "2ef8d62d9d63418884a6eac4f96a2fd1",
+      "SimpleName": "ArcaneConcordanceAbility.Description",
+      "ProcessTemplates": true,
+      "zhCN": "微微闪烁的金蓝色光芒围绕着你，并增强在该区域内的你的盟友所施放的奥术。任何在施法者10英尺范围内的生物所施放的奥术，其豁免DC均获得+1增强加值，此外能够如同已对法术应用超魔专长法术延时或法术及远般施放法术 (这不需要提高法术等级也不会延长施放时间，当你施放秘法调和时，选择一种超魔专长)。",
+      "enGB": "A shimmering, blue and gold radiance surrounds you, enhancing arcane spells cast within its area. Any arcane spell cast by a creature within 10 feet of the caster gains a +1 enhancement bonus to the DC of any saving throws against the spell, and is cast as if one of either the Extend Spell or Reach spell metamagic feats have been applied to it (without increasing the spell level or Casting Time; you choose the metamagic feat when you cast arcane concordance)."
+    },
+    {
+      "Key": "31e067155c5e44edbdf6ffdbde46ed18",
+      "SimpleName": "ArcaneConcordanceAbility.Name",
+      "ProcessTemplates": false,
+      "zhCN": "秘法调和",
+      "enGB": "Arcane Concordance"
+    },
+    {
+      "Key": "5bbb521f1ee44ebdb82fe26e48fd6f34",
+      "SimpleName": "ReachArcaneConcordanceAbility.Description",
+      "ProcessTemplates": true,
+      "zhCN": "微微闪烁的金蓝色光芒围绕着你，并增强在该区域内的你的盟友所施放的奥术。任何在施法者10英尺范围内的生物所施放的奥术，其豁免DC均获得+1增强加值，此外能够如同已对法术应用超魔专长法术及远般施放法术 (这不需要提高法术等级也不会延长施放时间)。",
+      "enGB": "A shimmering, blue and gold radiance surrounds you, enhancing arcane spells cast within its area. Any arcane spell cast by a creature within 10 feet of the caster gains a +1 enhancement bonus to the DC of any saving throws against the spell, and is cast as if the Reach Spell metamagic feat has been applied to it (without increasing the spell level)."
+    },
+    {
+      "Key": "3c965824a2e94f33b0dfed40e2b2f127",
+      "SimpleName": "ReachArcaneConcordanceEffectBuff.Description",
+      "ProcessTemplates": true,
+      "zhCN": "在秘法调和光环范围内，你施放的任何奥术其豁免DC均获得+1增强加值，并且能够如同已对法术应用超魔专长法术及远般施放法术 (这不需要提高法术等级也不会延长施放时间)。",
+      "enGB": "While inside the arcane concordance aura, any arcane spell cast my you gains a +1 enhancement bonus to the DC of any saving throws against the spell, and is cast as if the Reach Spell metamagic feat has been applied to it (without increasing the spell level or Casting Time)."
+    },
+    {
+      "Key": "1b34af6788844907ab3257acc600a266",
+      "SimpleName": "ReachArcaneConcordanceEffectBuff.Name",
+      "ProcessTemplates": false,
+      "zhCN": "秘法调和 - 及远",
+      "enGB": "Arcane Concordance - Reach"
+    },
+    {
+      "Key": "2c2ac35f4dce45918ca4190e8b009f33",
+      "SimpleName": "ReachArcaneConcordanceSelfBuff.Description",
+      "ProcessTemplates": true,
+      "zhCN": "微微闪烁的金蓝色光芒围绕着你，并增强在该区域内的你的盟友所施放的奥术。任何在施法者10英尺范围内的生物所施放的奥术，其豁免DC均获得+1增强加值，此外能够如同已对法术应用超魔专长法术及远般施放法术 (这不需要提高法术等级也不会延长施放时间)。",
+      "enGB": "A shimmering, blue and gold radiance surrounds you, enhancing arcane spells cast within its area. Any arcane spell cast by a creature within 10 feet of the caster gains a +1 enhancement bonus to the DC of any saving throws against the spell, and is cast as if the Reach Spell metamagic feat has been applied to it (without increasing the spell level)."
+    },
+    {
+      "Key": "d064ef824b294befb605fdf3da88a202",
+      "SimpleName": "ReachArcaneConcordanceSelfBuff.Name",
+      "ProcessTemplates": false,
+      "zhCN": "秘法调和 - 及远光环",
+      "enGB": "Arcane Concordance - Reach Aura"
+    },
+    {
+      "Key": "abe21aecc90746e8b5fb8ac6597ccdc7",
+      "SimpleName": "ExtendArcaneConcordanceAbility.Description",
+      "ProcessTemplates": true,
+      "zhCN": "微微闪烁的金蓝色光芒围绕着你，并增强在该区域内的你的盟友所施放的奥术。任何在施法者10英尺范围内的生物所施放的奥术，其豁免DC均获得+1增强加值，此外能够如同已对法术应用超魔专长法术延时般施放法术 (这不需要提高法术等级也不会延长施放时间)。",
+      "enGB": "A shimmering, blue and gold radiance surrounds you, enhancing arcane spells cast within its area. Any arcane spell cast by a creature within 10 feet of the caster gains a +1 enhancement bonus to the DC of any saving throws against the spell, and is cast as if the Extend Spell metamagic feat has been applied to it (without increasing the spell level)."
+    },
+    {
+      "Key": "dd0c88b1418a4883b60076e7056eb0be",
+      "SimpleName": "ExtendArcaneConcordanceEffectBuff.Description",
+      "ProcessTemplates": true,
+      "zhCN": "在秘法调和光环范围内，你施放的任何奥术其豁免DC均获得+1增强加值，并且能够如同已对法术应用超魔专长法术延时般施放法术 (这不需要提高法术等级也不会延长施放时间)。",
+      "enGB": "While inside the arcane concordance aura, any arcane spell cast gains a +1 enhancement bonus to the DC of any saving throws against the spell, and is cast as if the Extend Spell metamagic feat has been applied to it (without increasing the spell level or Casting Time)."
+    },
+    {
+      "Key": "bf016ffadb6b4fb1b3f6e565cb6a3344",
+      "SimpleName": "ExtendArcaneConcordanceEffectBuff.Name",
+      "ProcessTemplates": false,
+      "zhCN": "秘法调和 - 延时光环",
+      "enGB": "Arcane Concordance - Extend"
+    },
+    {
+      "Key": "a58c602faee14b8384f3f8aca7f61fac",
+      "SimpleName": "ExtendArcaneConcordanceSelfBuff.Description",
+      "ProcessTemplates": true,
+      "zhCN": "微微闪烁的金蓝色光芒围绕着你，并增强在该区域内的你的盟友所施放的奥术。任何在施法者10英尺范围内的生物所施放的奥术，其豁免DC均获得+1增强加值，此外能够如同已对法术应用超魔专长法术延时般施放法术 (这不需要提高法术等级也不会延长施放时间)。",
+      "enGB": "A shimmering, blue and gold radiance surrounds you, enhancing arcane spells cast within its area. Any arcane spell cast by a creature within 10 feet of the caster gains a +1 enhancement bonus to the DC of any saving throws against the spell, and is cast as if the Extend Spell metamagic feats has been applied to it (without increasing the spell level)."
+    },
+    {
+      "Key": "2b2d81a679c54b72b2e5869200ef8281",
+      "SimpleName": "ExtendArcaneConcordanceSelfBuff.Name",
+      "ProcessTemplates": false,
+      "zhCN": "秘法调和 - 延时光环",
+      "enGB": "Arcane Concordance - Extend Aura"
+    },
+    {
+      "Key": "07cbde98565142abb0e41bf0130e8350",
+      "SimpleName": "BloodMistAbility.Description",
+      "ProcessTemplates": true,
+      "zhCN": "该法术会召唤出有毒藻类所组成的锈红色血雾。任何在血雾之内的生物会被它所覆盖，将他们转化为相同的微红色。所有在血雾中的目标会获得隐蔽。任何在血雾中未通过豁免检定的生物会受到1d4点感知伤害并且变得暴怒，攻击他所感知到的最近的生物 (如同困惑状态中的‘攻击最近的生物’)。这种暴怒为持续1分钟/施法者等级。每当生物进入血雾中只需要进行一次豁免 (尽管离开之后再进入需要再进行一次豁免)。",
+      "enGB": "This spell summons forth a misty cloud of rust-red toxic algae. Any creature within the mist is coated by it, turning the creature the same reddish color. All targets within the mist gain concealment. Any creature within the mist must save or take 1d4 points of Wisdom damage and become enraged, attacking any creatures it detects nearby (as the “attack nearest creature” result of the confused condition). An enraged creature remains so for one minute per caster level. A creature only needs to save once each time it is within the mist (though leaving and returning requires another save)."
+    },
+    {
+      "Key": "ba32517b2edf4d678d6a2567c6defc94",
+      "SimpleName": "BloodMistAttackBuff.Description",
+      "ProcessTemplates": true,
+      "zhCN": "任何在血雾中未通过豁免检定的生物会受到1d4点感知伤害并且变得暴怒，攻击他所感知到的最近的生物 (如同困惑状态中的‘攻击最近的生物’)。这种暴怒为持续1分钟/施法者等级。每当生物进入血雾中只需要进行一次豁免 (尽管离开之后再进入需要再进行一次豁免)。",
+      "enGB": "Any creature within the mist that fails it's save take 1d4 points of Wisdom damage and become enraged, attacking any creatures it detects nearby (as the “attack nearest creature” result of the confused condition). An enraged creature remains so for one minute per caster level. A creature only needs to save once each time it is within the mist (though leaving and returning requires another save)."
+    },
+    {
+      "Key": "3a389ff0f5c5463b86dd52d414ce73ed",
+      "SimpleName": "BloodMistAttackBuff.Name",
+      "ProcessTemplates": false,
+      "zhCN": "血雾术",
+      "enGB": "Blood Mist"
+    },
+    {
+      "Key": "4ad3a359cdce4265a629cd6531cfd371",
+      "SimpleName": "BloodMistConcealmentBuff.Description",
+      "ProcessTemplates": true,
+      "zhCN": "任何在血雾之内的生物会被它所覆盖，将他们转化为相同的微红色。所有在血雾中的目标会获得隐蔽。",
+      "enGB": "Any creature within the blood mist is coated by it, turning the creature a reddish color. All targets within the mist gain concealment."
+    },
+    {
+      "Key": "35bd2003d8a34037a8c9b53bfbd5e81c",
+      "SimpleName": "BloodMistConcealmentBuff.Name",
+      "ProcessTemplates": false,
+      "zhCN": "血雾隐蔽",
+      "enGB": "Blood Mist Concealment"
+    },
+    {
+      "Key": "7732f0a0e9d240e6953e9154de4c610e",
+      "SimpleName": "DustOfTwilightAbility.Description",
+      "ProcessTemplates": true,
+      "zhCN": "一股紫黑色的烟尘倾泻而下，驱散任何形式的闪光尘。\n范围内的生物除非通过一次强韧检定否则进入疲乏(fatigued)状态。",
+      "enGB": "A shower of iridescent black particles clings in the air, removing all forms of glitterdust. \nCreatures in the area must make a Fortitude save or become fatigued."
+    },
+    {
+      "Key": "de4a8e48354d4ba3b78a12417b73b8ee",
+      "SimpleName": "DustOfTwilightAbility.Name",
+      "ProcessTemplates": false,
+      "zhCN": "暮光之尘",
+      "enGB": "Dust of Twilight"
+    },
+    {
+      "Key": "de37d916f36a4750b65520820575874f",
+      "SimpleName": "DustOfTwilightAbility.SavingThrow",
+      "ProcessTemplates": false,
+      "zhCN": "强韧豁免通过（仅无效疲乏）",
+      "enGB": "Fortitude negates (fatigue only)"
+    },
+    {
+      "Key": "5c82558034744fd3998b07e0cd98bc8d",
+      "SimpleName": "KingsCastleAbility.Description",
+      "ProcessTemplates": true,
+      "zhCN": "当你施放此法术时，选择一名盟友。你传送到你的盟友所在的位置，而你的盟友则传送到你原来的位置。",
+      "enGB": "When you cast this spell, choose a single ally. You teleport to your ally’s space while your ally teleports to your former space."
+    },
+    {
+      "Key": "6614686d60cb4b3fa9c7df1f9bb0b2e3",
+      "SimpleName": "KingsCastleAbility.Name",
+      "ProcessTemplates": false,
+      "zhCN": "王车易位",
+      "enGB": "King's Castle"
+    },
+    {
+      "Key": "64753fc05bd244d19aa718f1c51fa236",
+      "SimpleName": "MoonstruckAbility.Description",
+      "ProcessTemplates": true,
+      "zhCN": "你让月亮的神秘力量进入一个生物并使其陷入一种疯狂的狂热状态。如果目标豁免失败，它会先晕眩 (Daze) 一轮，然后它的指甲和牙齿将会伸长并变得尖锐。目标获得一次啮咬攻击和两次爪抓攻击，使用对应体型的伤害，并且在法术的剩余时间内，目标都视为同时处于狂暴术和困惑术效果之下。在法术持续时间的最后一轮，目标将会再次陷入晕眩，并恢复正常状态。",
+      "enGB": "You invoke the mystical power of the moon to drive the target into a mad, bestial frenzy. If the target fails its save, it is dazed for 1 round, its nails and teeth elongate and sharpen. The target gains a bite attack and two claw attacks that deal damage appropriate for the creature’s size, and for the remainder of the spell’s duration the target behaves as if under simultaneous rage and confusion spells. During the final round of the spell’s duration, the target is again dazed as it returns to its normal state.\nRage: Each affected creature gains a +2 morale bonus to Strength and Constitution, a +1 morale bonus on Will saves, and a –2 penalty to AC and cannot cast spells.\nConfusion: This spell causes confusion in the targets, making them unable to determine their actions. Roll d100 and consult the following table at the start of each subject's turn each round to see what it does in that round.\n01–25: Acts normally\n26–50: Does nothing but babble incoherently\n51–75: Deals (1d8 points of damage + Strength modifier) to self with item in hand\n76–100: Attacks nearest creature"
+    },
+    {
+      "Key": "17447c105f084141b05d07d68c9caec5",
+      "SimpleName": "MoonstruckBuff.Description",
+      "ProcessTemplates": true,
+      "zhCN": "你让月亮的神秘力量进入一个生物并使其陷入一种疯狂的狂热状态。如果目标豁免失败，它会先晕眩 (Daze) 一轮，然后它的指甲和牙齿将会伸长并变得尖锐。目标获得一次啮咬攻击和两次爪抓攻击，使用对应体型的伤害，并且在法术的剩余时间内，目标都视为同时处于狂暴术和困惑术效果之下。在法术持续时间的最后一轮，目标将会再次陷入晕眩，并恢复正常状态。",
+      "enGB": "You invoke the mystical power of the moon to drive the target into a mad, bestial frenzy. If the target fails its save, it is dazed for 1 round, its nails and teeth elongate and sharpen. The target gains a bite attack and two claw attacks that deal damage appropriate for the creature’s size, and for the remainder of the spell’s duration the target behaves as if under simultaneous rage and confusion spells. During the final round of the spell’s duration, the target is again dazed as it returns to its normal state.\nRage: Each affected creature gains a +2 morale bonus to Strength and Constitution, a +1 morale bonus on Will saves, and a –2 penalty to AC and cannot cast spells.\nConfusion: This spell causes confusion in the targets, making them unable to determine their actions. Roll d100 and consult the following table at the start of each subject's turn each round to see what it does in that round.\n01–25: Acts normally\n26–50: Does nothing but babble incoherently\n51–75: Deals (1d8 points of damage + Strength modifier) to self with item in hand\n76–100: Attacks nearest creature"
+    },
+    {
+      "Key": "c6ede91556a6487db925cbbe278ad3df",
+      "SimpleName": "MoonstruckBuff.Name",
+      "ProcessTemplates": false,
+      "zhCN": "痴狂月光",
+      "enGB": "Moonstruck"
+    },
+    {
+      "Key": "06e773ec5bfd4e9e8e2f60369a0d4dde",
+      "SimpleName": "MoonstruckDazeBuff.Description",
+      "ProcessTemplates": true,
+      "zhCN": "在痴狂月光效果的第一轮和最后一轮，目标会因为法术的变形效果陷入晕眩状态",
+      "enGB": "During the first round of the moonstruck tranformation, and on the round it ends, the target is dazed by the transformative effects of the spell."
+    },
+    {
+      "Key": "5237373edbc54614902e682e1346da89",
+      "SimpleName": "MoonstruckDazeBuff.Name",
+      "ProcessTemplates": false,
+      "zhCN": "痴狂月光 晕眩",
+      "enGB": "Moonstruck Daze"
     }
   ]
 }

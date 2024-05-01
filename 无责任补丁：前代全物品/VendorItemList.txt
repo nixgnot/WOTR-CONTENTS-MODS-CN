@@ -20,13 +20,13 @@ f8142664c2c8bd1499e86f729737da70 C3Wilcer 1 16500 ForsakenEdge
 c5690d9f705cb254e83e7ac6e8c852ad C3Wilcer 1 35000 MenaceStorm
 c3e704d94d4fcd24ca79b1b2a68d388c C3Wilcer 1 42000 Torpor
 007d72299a0c85743bccd47fb5ed6bdc C5Wilcer 1 320000 HunterBlessing
-b3977451f2d9e64498b3208bd78a5394 C4Heraxa 1 420000 Perfection
-50e7f5c17e327e2438f8878a0af1cc8c C4Heraxa 1 419999 Redeemer
-e5b46c4b36c2ca74d8a30f68a93bc77c C4Heraxa 1 500000 BearGodClaw
-d1605b9f9a5a74c46a0dde19f01eae40 C4Heraxa 1 400000 SerpentPrince
+b3977451f2d9e64498b3208bd78a5394 C4Gilmore 1 420000 Perfection
+50e7f5c17e327e2438f8878a0af1cc8c C4Gilmore 1 419999 Redeemer
+e5b46c4b36c2ca74d8a30f68a93bc77c C4Gilmore 1 500000 BearGodClaw
+d1605b9f9a5a74c46a0dde19f01eae40 C4Gilmore 1 400000 SerpentPrince
 8eac691deaf5ec44bbc972a8e0ddb3c1 C5Wilcer 1 320000 BlindingLight
 137fc6acf3f645a40a3ec041b472ba86 C3Wilcer 1 302000 PlanarHunter
-dec4acdd0677f1c4eaf2f5a180dfa4f5 C4Heraxa 1 302000 Malice
+dec4acdd0677f1c4eaf2f5a180dfa4f5 C4Gilmore 1 302000 Malice
 6500b366ea906a94ab21576e69e79264 C3Wilcer 1 35000 NoblemansAmusement
 0a5e909be70d3c841b09a2f175a6e3ce C2Wilcer 1 13000 LordProtector
 e5e63ad98ceb68d45b5a4c011f35857c C2Wilcer 1 15000 OppertunistWarraxe
@@ -35,22 +35,22 @@ b7e4ce7020d84754a816242520f153cd C3Wilcer 1 15000 NecromancersStaff
 368792eeddcfcf747bacb15ee0e95a28 C5Wilcer 1 302000 FrozenCrescent
 65d29ca8c81c124418417bff73f8eaae C3Wilcer 1 35000 MoonLongbow
 2f771b62ffb4bdf45a425ba0a0130217 C1Jorum 1 9000 LongbowErestil
-4b6fe376ec6af3247805fb9aba2665b3 C4Heraxa 1 302000 Staffofwhisperingsouls
+4b6fe376ec6af3247805fb9aba2665b3 C4Gilmore 1 302000 Staffofwhisperingsouls
 436ec3989c26a3442ab12cb055b2b22f C1Jorum 1 13000 CrimsonCounselor
 3d4ab4a38a6b41c4a941a23fd6a47143 C2Wilcer 1 23000 WilloftheDisciple
-fa02b3d13a6598c4f97acfbabfe1e01e C4Heraxa 1 302000 TwinSerpents
-81310913ee067e14dbb3d35a71f25b14 C4Heraxa 1 252000 SolidStrategy
+fa02b3d13a6598c4f97acfbabfe1e01e C4Gilmore 1 302000 TwinSerpents
+81310913ee067e14dbb3d35a71f25b14 C4Gilmore 1 252000 SolidStrategy
 04cfe9660005b05438b9ba46ba85e08d C3Arsinoe 1 56000 SigilOfCreation
 # 
 1d9782b28b47cb64ea5e90e093db087b C5Wilcer 1 302000 DeathCrusherplate
-fd54ed3702d98a24283a400bd76c6b03 C4Heraxa 1 220000 AssassinChainshirt
+fd54ed3702d98a24283a400bd76c6b03 C4Gilmore 1 220000 AssassinChainshirt
 53e3c078b543f1b4e9c3b1e7dba7e452 C5Wilcer 1 300000 heavenlychain
 4ac204fcd49e8ef4e8065fda2ec47f71 C5Wilcer 1 303000 Sagearmour
 #
 bb0ed39b655024946b04396b247081ca C5Wilcer 1 292000 EvasiveHelmet
 7188029fda598f749a9dfbf23bec9bdc C2Wilcer 1 13000 marksmanHat
 d254a9e1b1ebcf44faa326b277c937c5 C4Heraxa 1 190000 DyingWisdomAmulet
-828561d73332c5846b11ffb4bd6df94d C4Heraxa 1 220000 ChalatanLocket
+828561d73332c5846b11ffb4bd6df94d C4Gilmore 1 220000 ChalatanLocket
 a42d83fee9771e349bb885dd702bad96 C3Wilcer 1 35000 ClockworkPendant
 #
 fedef0913b7d598478918b81eed9fada C2Scroll 1 13000 ApprenticeRobe
@@ -453,4 +453,4 @@ d280563507024194b8922ab65cf7e3ea C5Arsinoe 1 600000 RodOfFiredVengenceItem
 61acb6c4b1c6d0f46a11e082484e8f23 C5Arsinoe 1 280000 RodOfUndeadItem 
 e718a3632de427a45909f6224183c46e C3Arsinoe 1 67500 LightningArrowsQuiverItem 
 059441667d95ad140924a36452799a3c C4Heraxa 1 120000 LoversArrowsQuiverItem 
-911d0f8cad672454a94286a9feafc360 C5Arsinoe 1 222500 WeakenArrowsQuiverItem 
+911d0f8cad672454a94286a9feafc360 C5Arsinoe 1 222500 WeakenArrowsQuiverItem

@@ -1,0 +1,16 @@
+[
+  {
+    "Key": "HolyBookWeaponType.Name",
+    "ProcessTemplates": false,
+    "enGB": "Holy Book",
+    "zhCN": "圣典",
+    "ruRU": ""
+  },
+  {
+    "Key": "HolyBookWeapon.Name",
+    "ProcessTemplates": false,
+    "enGB": "Holy Book",
+    "zhCN": "圣典",
+    "ruRU": ""
+  }
+]

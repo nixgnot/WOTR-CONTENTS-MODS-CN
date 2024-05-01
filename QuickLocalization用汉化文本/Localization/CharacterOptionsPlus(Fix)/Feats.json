@@ -1,0 +1,832 @@
+[
+  {
+    "Key": "DazingAssault.Name",
+    "ProcessTemplates": false,
+    "enGB": "Dazing Assault",
+    "zhCN": "晕眩强袭",
+    "ruRu": "Ошеломляющий натиск"
+  },
+  {
+    "Key": "DazingAssault.Description",
+    "enGB": "You can choose to take a –5 penalty on all melee attack rolls to daze opponents you hit with your melee attacks for 1 round, in addition to the normal damage dealt by the attack. A successful Fortitude save negates the effect. The DC of this save is 10 + your base attack bonus.",
+    "zhCN": "你可以选择让所有近战攻击检定与战技检定承受-5减值，来使你在近战攻击在正常造成伤害之外，使命中的敌人晕眩1轮。成功的强韧豁免可以免受该效果，豁免DC为10+你的BAB",
+    "ruRu": "Вы можете принять штраф ко всем своим броскам на попадание в ближнем бою на 1 раунд, чтобы повергнуть их в ступор при попадании в добавок к нанесению обычного урона. Успешный спасбросок Стойкости нейтрализует эффект. Сложность спасброска равняется 10 + ваш базовый бонус атаки.\nСтупор: Существо в состоянии ступора не способно нормально действовать - оно не может предпринимтаь никаких действий, но в отличии от состояния шока не получает штрафов к Защите."
+  },
+
+  {
+    "Key": "DivineFightingTechnique.Name",
+    "ProcessTemplates": false,
+    "enGB": "Divine Fighting Technique",
+    "zhCN": "神圣武器技法",
+    "ruRu": "Божественная техника боя"
+  },
+  {
+    "Key": "DivineFightingTechnique.Description",
+    "enGB": "Divine fighting techniques emulate the martial supremacy and approach to combat of certain gods, but do not generally require users’ interests and goals to be aligned with the techniques’ associated deities. Although each deity’s divine fighting technique is primarily preserved and passed on by her faithful, worship is not required to learn one.\nEach technique has an initial benefit as well as an advanced benefit available if you meet the prerequisites.",
+    "zhCN": "神圣战斗技巧模仿了某些神的军事和战斗方式，但通常不要求用户的兴趣和目标与相关的神保持一致。尽管每个神圣战斗技巧都主要由其信徒保存和传承，但不需要特定的信仰来学习。\n每个神圣战斗技巧都有其初始的效果，并且在满足前提后拥有进阶效果。",
+    "ruRu": "Божественные техники боя позвояют использующему их смертному сымитировать в поединке величие некоторых богов и их подход к сражению. Но при этом от бойца не требуется разделять интересы и цели божества, к которому эта техника относится. Хотя каждая божественная техника боя преимущественно хранится и передаётся только в кругу его верующих последователей, почитание бога не является обязательным требованием для овладения. \nУ каждой техники есть базовое преимущество от овладения, равно как продвинутое преимущество для случаев, когда вы соответствуете особым требованиям."
+  },
+
+  {
+    "Key": "DFT.Abadar.Name",
+    "ProcessTemplates": false,
+    "enGB": "Abadar's Crossbow",
+    "zhCN": "阿巴达之弩",
+    "ruRu": "Арбалет Абадара"
+  },
+  {
+    "Key": "DFT.Abadar.Description",
+    "enGB": "While using a crossbow, you can attempt a ranged disarm combat maneuver, using your Dexterity modifier in place of your Strength modifier to calculate your CMB.\nAdvanced Prerequisites: Rapid Shot, BAB +10\nAdvanced Effect: While using a crossbow, you can attempt a ranged dirty trick entangle combat maneuver, using your Dexterity modifier in place of your Strength modifier to calculate your CMB.",
+    "zhCN": "你可以使用弩进行一次远程的缴械战技攻击，并且在计算CMB时使用你的敏捷调整值而非力量调整值。\n进阶前提：快速射击，BAB +10\n进阶效果：你可以使用弩进行一次远程的阴招-纠缠战技攻击，并且在计算CMB时使用你的敏捷调整值而非力量调整值。",
+    "ruRu": "При стребльбе из арбалета вы можете попытаться совершить боевой приём Разоружение в дальнем бою, используя свой бонус Ловкости вместо своего бонуса Силы при расчёте Модификатора боевого манёвра. \nТребования для продвинутого преимущества: Быстрый выстрел, Базовый модификатор атаки +10 \nПродвинутое преимущество: При стрельбе из арбалета выможете совершить боевой приём Грязный Трюк в дальнем бою, используя свой бонус Ловкости вместо своего бонуса Силы при расчёте Модификатора боевого манёвра."
+  },
+  {
+    "Key": "DFT.Abadar.Advanced.Name",
+    "ProcessTemplates": false,
+    "enGB": "Abadar's Entangling Shot",
+    "zhCN": "阿巴达的纠缠射击",
+    "ruRu": "Опутывающий вытсрел Абадара"
+  },
+  {
+    "Key": "DFT.Abadar.Advanced.Description",
+    "enGB": "While using a crossbow, you can attempt a ranged dirty trick entangle combat maneuver, using your Dexterity modifier in place of your Strength modifier to calculate your CMB.",
+    "zhCN": "你可以使用弩进行一次远程的阴招-纠缠战技攻击，并且在计算CMB时使用你的敏捷调整值而非力量调整值。",
+    "ruRu": "При стрельбе из арбалета выможете совершить в дальнем бою боевой приём Грязный Трюк - Опутывание, используя свой бонус Ловкости вместо своего бонуса Силы при расчёте Модификатора боевого манёвра."
+  },
+  {
+    "Key": "DFT.Abadar.Disarm.Name",
+    "ProcessTemplates": false,
+    "enGB": "Abadar's Disarming Shot",
+    "zhCN": "阿巴达的缴械射击",
+    "ruRu": "Разоружающий выстрел Абадара"
+  },
+  {
+    "Key": "DFT.Abadar.Disarm.Description",
+    "ProcessTemplates": false,
+    "enGB": "While using a crossbow, you can attempt a ranged disarm combat maneuver, using your Dexterity modifier in place of your Strength modifier to calculate your CMB.",
+    "zhCN": "你可以使用弩进行一次远程的缴械战技攻击，并且在计算CMB时使用你的敏捷调整值而非力量调整值。",
+    "ruRu": "При стребльбе из арбалета вы можете попытаться совершить боевой приём Разоружение в дальнем бою, используя свой бонус Ловкости вместо своего бонуса Силы при расчёте Модификатора боевого манёвра."
+  },
+
+  {
+    "Key": "DFT.Asmodeus.Name",
+    "ProcessTemplates": false,
+    "enGB": "Asmodeus's Mandate",
+    "zhCN": "阿司莫迪斯的授权",
+    "ruRu": "Мандат Асмодея"
+  },
+  {
+    "Key": "DFT.Asmodeus.Description",
+    "enGB": "Whenever you threaten a critical hit with a light mace or heavy mace on a foe, that foe becomes sickened for 1 round. If you confirm the critical hit, the sickened effect lasts for 2 rounds.\nAdvanced Prerequisites: Int 13, Combat Expertise, Improved Dirty Trick, BAB +10\nAdvanced Effect: You can attempt a dirty trick combat maneuver as a swift action against an oponent you hit with a light mace or heavy mace who is flat-footed.",
+    "zhCN": "每当你使用轻型或重型硬头锤对敌人确认威胁，其陷入恶心状态1轮。如果你确认了重击，恶心效果延长到2轮。\n进阶前提：智力 13，寓守于攻，精通阴招，BAB +10\n进阶效果：你可以用迅捷动作尝试对轻型或重型硬头锤击中的敌人使用阴招战技。",
+    "ruRu": "Когда вы попадаете по противнику дубинкой или любой булавой ударом в диапазоне критического удара, этот враг оказывается дезориентирован на 1 раунд. Если притический удар оказывается подтверждён, эффект Дезориентации длится вместо этого 2 раунда. \nТребования для продвинутого преимущества: Интеллект 13, Боевая сноровка, Улучшенный Грязный трюк, Базовый модификатор атаки +10 \nПродвинутое преимущество: Если ваша атака дубинкой или лёгкой булавой попадат по застигнутому врасплох врагу, вы можете попытаться быстрым действием совершить боевой приём Грязный Трюк."
+  },
+  {
+    "Key": "DFT.Asmodeus.Blind",
+    "ProcessTemplates": false,
+    "enGB": "Asmodeus's Mandate (Blind)",
+    "zhCN": "阿司莫迪斯的授权 （目盲）",
+    "ruRu": "Мандат Асмодея (Ослепить)"
+  },
+  {
+    "Key": "DFT.Asmodeus.Entangle",
+    "ProcessTemplates": false,
+    "enGB": "Asmodeus's Mandate (Entangle)",
+    "zhCN": "阿司莫迪斯的授权 （纠缠）",
+    "ruRu": "Мандат Асмодея (Опутать)"
+  },
+  {
+    "Key": "DFT.Asmodeus.Sicken",
+    "ProcessTemplates": false,
+    "enGB": "Asmodeus's Mandate (Sicken)",
+    "zhCN": "阿司莫迪斯的授权（恶心）",
+    "ruRu": "Мандат Асмодея (Дезиориентировать)"
+  },
+  {
+    "Key": "DFT.Asmodeus.Advanced.Description",
+    "enGB": "You can attempt a dirty trick combat maneuver as a swift action against an oponent you hit with a light mace or heavy mace who is flat-footed.",
+    "zhCN": "你可以用迅捷动作尝试对轻型或重型硬头锤击中的敌人使用阴招战技。",
+    "ruRu": "Если ваша атака дубинкой или лёгкой булавой попадат по застигнутому врасплох врагу, вы можете попытаться быстрым действием совершить боевой приём Грязный Трюк."
+  },
+
+  {
+    "Key": "DFT.Erastil.Name",
+    "ProcessTemplates": false,
+    "enGB": "Erastil's Distracting Shot",
+    "zhCN": "艾若斯提的分心射击",
+    "ruRu": "Отвлекающий выстрел Эрастила"
+  },
+  {
+    "Key": "DFT.Erastil.Description",
+    "enGB": "As a standard action, you can fire a distracting shot from your longbow or shortbow. If you hit the target, one ally adjacent to the creature gains a +2 bonus to AC against the target for 1 round.\nAdvanced Prerequisites: Dex 17, Point-Blank Shot, Precise Shot, BAB +10\nAdvanced Effect: The AC bonus increases to +4 and all allies within 30 feet of the creature gain a +2 AC bonus against the target.",
+    "zhCN": "使用标准动作，你可以用长弓或短弓发射分心设计。如果击中目标，一个临接目标的你的盟友在1轮内获得对抗这个目标的+2AC加值。\n进阶前提：敏捷 17，贴身射击，精确射击，BAB+10\n进阶效果：AC加值变为+4，所有30尺内友军对抗目标时AC获得+2加值。",
+    "ruRu": "Стандартным действием, вы можете совершить отвлекающий вытсрел из своего длинного или короткого лука. Если вы попадаете по цели, один из находящихся поблизости от неё союзников получает бонус +2 к Защите от атак этого существа на 1 раунд. \nТребования для продвинутого преимущества: Ловкость 17, Стрельба вблизи, Базовый модификатор атаки +10 \nПродвинутое преимущество: бонус к Защите для выбранного союзника увеличивается до +4, а все остальные союзники в пределах 30 футов от цели также получают бонус +2 к Защите от её атак."
+  },
+  {
+    "Key": "DFT.Erastil.Advanced.Description",
+    "enGB": "The AC bonus of Erastil's Distracting Shot increases to +4 and all allies within 30 feet of the creature gain a +2 AC bonus against the target.",
+    "zhCN": "艾若斯提的分心射击AC加值变为+4，所有30尺内友军对抗目标时AC获得+2加值。",
+    "ruRu": "Бонус к Защите для выбранного союзника от способности Отвлекающий выстрел Эрастила увеличивается до +4, а все остальные союзники в пределах 30 футов от цели также получают бонус +2 к Защите от её атак."
+  },
+  {
+    "Key": "DFT.Erastil.Focused.Name",
+    "ProcessTemplates": false,
+    "enGB": "Erastil's Focus",
+    "zhCN": "艾若斯提的专注",
+    "ruRu": "Фокус Эрастила"
+  },
+  {
+    "Key": "DFT.Erastil.Focused.Description",
+    "ProcessTemplates": false,
+    "enGB": "As a standard action, you can fire a distracting shot from your longbow or shortbow. If you hit the target, one ally adjacent to the creature gains a +2 bonus to AC against the target for one round.",
+    "zhCN": "使用标准动作，你可以用长弓或短弓发射分心设计。如果击中目标，一个临接目标的你的盟友在1轮内获得对抗这个目标的+2AC加值。",
+    "ruRu": "Стандартным действием, вы можете совершить отвлекающий вытсрел из своего длинного или короткого лука. Если вы попадаете по цели,из находящихся поблизости от неё союзников получает бонус +2 к Защите от атак этого существа на 1 раунд один ."
+  },
+  {
+    "Key": "DFT.Erastil.Focused.Advanced.Name",
+    "ProcessTemplates": false,
+    "enGB": "Erastil's Hyperfocus",
+    "zhCN": "Erastil's Hyperfocus",
+    "ruRu": "Гиперфокус Эрастила"
+  },
+  {
+    "Key": "DFT.Erastil.Focused.Advanced.Description",
+    "ProcessTemplates": false,
+    "enGB": "As a standard action, you can fire a distracting shot from your longbow or shortbow. If you hit the target, for 1 round one ally adjacent to the creature gains a +4 bonus to AC against the target and all allies within 30 feet of the creature gain a +2 AC bonus against the target.",
+    "zhCN": "使用标准动作，你可以用长弓或短弓发射分心设计。如果击中目标，一个临接目标的你的盟友在1轮内获得对抗这个目标的+4AC加值，所有30尺内友军对抗目标时AC获得+2加值。",
+    "ruRu": "Стандартным действием, вы можете совершить отвлекающий вытсрел из своего длинного или короткого лука. Если вы попадаете по цели, на 1 раунд один из находящихся поблизости от неё союзников получает бонус +4 к Защите от атак этого существа, а все остальные союзники в пределах 30 футов от цели также получают бонус +2 к Защите от его атак."
+  },
+
+  {
+    "Key": "DFT.Gorum.Name",
+    "ProcessTemplates": false,
+    "enGB": "Gorum's Swordmanship",
+    "zhCN": "格鲁姆的剑技",
+    "ruRu": "Мастерство меча Горума"
+  },
+  {
+    "Key": "DFT.Gorum.Description",
+    "enGB": "If you have the Vital Strike feat, you apply its effect to attacks you make with a greatsword at the end of a charge. If you don't have the Vital Strike feat, your attacks deal 1 additional point of damage instead. When you use Vital Strike with a greatsword, your next attack of opportunity before the start of your next turn applies Vital Strike.\nAdvanced Prerequisites: Str 13, Cleave, Power Attack, Vital Strike, BAB +10\nAdvanced Effect: When you use Vital Strike, Improved Vital Strike, or Greater Vital Strike with a greatsword, the target must pass a concentration check to cast spells for 1 round. The DC of the concentration check is 10 + Spell Level + 1/2 the damage you dealt.",
+    "zhCN": "如果你拥有要害打击专长，你可以将其用于你结束冲锋后的攻击。如果没有，作为替代你的攻击造成1额外伤害。如果你使用巨剑进行要害打击，在你的下个回合开始前，你的下一次借机攻击会应用要害打击。\n进阶前提：力量 13，顺势斩，猛力攻击，要害打击，BAB+10\n进阶效果：当你使用巨剑发动要害打击、精通要害打击、高等要害打击时，目标在1轮内必须通过专注检定才能施法，其DC为10+法术等级+1/2你造成的伤害。",
+    "ruRu": "Если у вас есть черта Жестокий удар, эффект от неё применяется к атакам двуручным мечом, совершённым в конце атаки с разбега. Если у вас нет черты Жестокий Удар, такие атаки вместо этого наносят дополнительно 1 очко урона. Когда вы совершаете Жестокий Удар с использоваинем двуручного меча, ваша следующая внеочередная атака, совершённая до начала следующего хода, тоже становится Жестоким Ударом \nТребования для продвинутого преимущества: Сила 13, Рубящий удар, Жестокий удар, Сокрушительный удар, Базовый модификатор атаки +10 \nПродвинутое преимущество: Когда вы совершаете Жестокий удар, Жестокий удар+ или Жестокий удар++ с использованием двуручного меча, в течении 1 одного раунда цель должна совершать проверку концентрации при сотворении всех заклинаний. Сложность проверки концентрации равняется 10 + Уровень заклинания + 1/2 нанесённого урона."
+  },
+  {
+    "Key": "DFT.Gorum.Advanced.Description",
+    "enGB": "When you use Vital Strike, Improved Vital Strike, or Greater Vital Strike with a greatsword, the target must pass a concentration check to cast spells for 1 round. The DC of the concentration check is 15 + 2 * Spell Level.",
+    "zhCN": "当你使用巨剑发动要害打击、精通要害打击、高等要害打击时，目标在1轮内必须通过专注检定才能施法，其DC为10+法术等级+1/2你造成的伤害。",
+    "ruRu": "Когда вы совершаете Жестокий удар, Жестокий удар+ или Жестокий удар++ с использованием двуручного меча, в течении 1 одного раунда цель должна совершать проверку концентрации при сотворении всех заклинаний. Сложность проверки концентрации равняется 10 + Уровень заклинания + 1/2 нанесённого урона."
+  },
+
+  {
+    "Key": "DFT.Iomedae.Name",
+    "ProcessTemplates": false,
+    "enGB": "Iomedae's Inspiring Sword",
+    "zhCN": "艾奥梅黛的鼓舞之剑",
+    "ruRu": "Вдохновляющий меч Иомедай"
+  },
+  {
+    "Key": "DFT.Iomedae.Description",
+    "enGB": "While wielding a longsword, you can perform an impressive display of prowess as a full-round action. All allies within 30 feet who can see your display gain a +2 sacred bonus on attack rolls, saving throws, and skill checks for 1 round + 1 round per 5 points of base attack bonus you have.\nAdvanced Prerequisites: Dazzling Display, Weapon Focus (Longsword), BAB +10\nAdvanced Effect: As a standard action while wielding a longsword you can make a single attack. If the attack hits, you grant all allies who can see you a +2 sacred bonus on attack rolls, saving throws, and skill checks for 1 minute. This effect also triggers after you hit a target with an attack while charging.",
+    "zhCN": "持有长剑时，你可以用整轮动作展示力量来激励人心。所有30尺内看到你的盟友在攻击骰、豁免检定和技能检定上获得+2崇圣加值，持续1+每5BAB额外1轮。\n进阶前提：炫目武技，武器专攻（长剑），BAB +10\n进阶效果：持有长剑时你能用一个标准动作进行单次攻击，如果攻击命中， 所有30尺内看到你的盟友在攻击骰、豁免检定和技能检定上获得+2崇圣加值，持续1分钟。这个效果也会在你冲锋攻击命中后触发。",
+    "ruRu": "Потратив действие полного раунда, вы можете произвести ошеломительное представление доблести с использованием длинного меча. Все увидившие это союзники в радиусе 30 футов получают Сакральный бонус +2 ко всем броскам атаки, спасброскам и проверкам навыков на 1 раунд + 1 дополнительный раунд за каждые 5 очков вашего Базового модификатора атаки. \nТребования для продвинутого преимущества: Демонстрация силы, Уверенное владение длинным мечом, Базовый модификатор атаки +10  \nПродвинутое преимущество: Стандртным действием вы можете совершить одинчную атаку длинным мечом. Если эта атака попадает по цели, все способные видеть вас союзники получают Сакрасльный бонус +2 ко всем броскам атаки, спасброскам и проверкам навыков на 1 минуту. Этот эффект также вступает в силу, если вы попадаете по цели атакой с разбега."
+  },
+  {
+    "Key": "DFT.Iomedae.Ability.Description",
+    "enGB": "While wielding a longsword, you can perform an impressive display of prowess as a full-round action. All allies within 30 feet who can see your display gain a +2 sacred bonus on attack rolls, saving throws, and skill checks for 1 round + 1 round per 5 points of base attack bonus you have.",
+    "zhCN": "持有长剑时，你可以用整轮动作展示力量来激励人心。所有30尺内看到你的盟友在攻击骰、豁免检定和技能检定上获得+2崇圣加值，持续1+每5BAB额外1轮。",
+    "ruRu": "Потратив действие полного раунда, вы можете произвести ошеломительное представление доблести с использованием длинного меча. Все увидившие это союзники в радиусе 30 футов получают Сакральный бонус +2 ко всем броскам атаки, спасброскам и проверкам навыков на 1 раунд + 1 дополнительный раунд за каждые 5 очков вашего Базового модификатора атаки."
+  },
+  {
+    "Key": "DFT.Iomedae.Advanced.Description",
+    "enGB": "As a standard action while wielding a longsword you can make a single attack. If the attack hits, you grant all allies who can see you a +2 sacred bonus on attack rolls, saving throws, and skill checks for 1 minute. This effect also triggers after you hit a target with an attack while charging.",
+    "zhCN": "持有长剑时你能用一个标准动作进行单次攻击，如果攻击命中， 所有30尺内看到你的盟友在攻击骰、豁免检定和技能检定上获得+2崇圣加值，持续1分钟。这个效果也会在你冲锋攻击命中后触发。",
+    "ruRu": "Стандртным действием вы можете совершить одинчную атаку длинным мечом. Если эта атака попадает по цели, все способные видеть вас союзники получают Сакрасльный бонус +2 ко всем броскам атаки, спасброскам и проверкам навыков на 1 минуту."
+  },
+  {
+    "Key": "DFT.Iomedae.Buff.Description",
+    "enGB": "While wielding a longsword, you can perform an impressive display of prowess as a full-round action. All allies within 30 feet who can see your display gain a +2 sacred bonus on attack rolls, saving throws.",
+    "zhCN": "持有长剑时，你可以用整轮动作展示力量来激励人心。所有30尺内看到你的盟友在攻击骰、豁免检定和技能检定上获得+2崇圣加值。",
+    "ruRu": "Вы можете произвести ошеломительное представление доблести с использованием длинного меча. Все увидившие это союзники в радиусе 30 футов получают Сакральный бонус +2 ко всем броскам атаки, спасброскам и проверкам навыков"
+  },
+  {
+    "Key": "DFT.Iomedae.Buff.Duration",
+    "ProcessTemplates": false,
+    "enGB": "1 round + 1 round/5 BAB",
+    "zhCN": "1+每5BAB额外1轮",
+    "ruRu": "1 раунд + 1 наунд / 5 БМА"
+  },
+
+  {
+    "Key": "DFT.Irori.Name",
+    "ProcessTemplates": false,
+    "enGB": "Irori's Perfected Fist",
+    "zhCN": "易洛理的完美之拳",
+    "ruRu": "Доведённый до совершенства кулак Ирори"
+  },
+  {
+    "Key": "DFT.Irori.Description",
+    "enGB": "You can take a –2 penalty on all attack rolls made with your unarmed strikes in order to deal the average amount of damage with each successful attack instead of rolling your weapon damage. For instance, if your unarmed strike would normally deal 1d4 points of weapon damage, you instead deal 2 points of weapon damage. Apply bonuses, modifiers, and additional damage dice to this result as if you had rolled your damage normally.\nAdvanced Prerequisites: Critical Focus, Weapon Focus (Unarmed Strike), BAB +10\nAdvanced Effect: You no longer take a –2 penalty on attack rolls with your unarmed strikes when you choose to deal the average amount of damage. If you critically hit a creature when using this ability, you automatically inflict maximum weapon damage for that critical hit.",
+    "zhCN": "你在所有徒手攻击上承受-2减值，来确保造成平均伤害而不再掷伤害骰。例如，假如你的徒手攻击原本造成 1d4伤害，现在改为造成2伤害。随后，如常对其应用各种加值、调整和额外伤害。\n进阶前提：重击专攻，武器专攻（徒手攻击），BAB +10\n进阶效果：激活效果时你不再受到前述-2减值。如果使用此能力造成重击，当次重击自动造成最大伤害 。",
+    "ruRu": "Вы можете принять штраф -2 ко всем вашим безоружным атакам, чтобы каждая из этих атак всегда наносила среднее количество урона вместо совершения обычного броска урона. Например, если ваш безоружный удар в нормальных условиях наносит 1d4 урона оружия, с этой техникой вы будете наносить 2 очка урона. Прибавляйте бонусы, модификаторы и дополнительные кости урона к этому результату как обычно. \nТребования для продвинутого преимущества: Критическая точность, Уверенное владение оружием (Безоружный удар), Базовый модификатор атаки +10  \nПродвинутое преимущество: Вы больше не получаете штраф -2 к атаке, когда вы хотите воспользоваться обычным преимуществом Доведённого до совершенства кулака Ирори. Если вы при этом наносите противнику критический удар, он автоматически наносит максимально возможный урон."
+  },
+  {
+    "Key": "DFT.Irori.Advanced.Description",
+    "enGB": "You no longer take a –2 penalty on attack rolls with your unarmed strikes when you choose to deal the average amount of damage. If you critically hit a creature when using this ability, you automatically inflict maximum weapon damage for that critical hit.",
+    "zhCN": "你在所有徒手攻击上不再承受-2减值，来确保造成平均伤害而不再掷伤害骰。如果使用此能力造成重击，当次重击自动造成最大伤害 。",
+    "ruRu": "Вы больше не получаете штраф -2 к атаке, когда вы хотите воспользоваться обычным преимуществом Доведённого до совершенства кулака Ирори. Если вы при этом наносите противнику критический удар, он автоматически наносит максимально возможный урон."
+  },
+  {
+    "Key": "DFT.Irori.Ability.Description",
+    "enGB": "You can take a –2 penalty on all attack rolls made with your unarmed strikes in order to deal the average amount of damage with each successful attack instead of rolling your weapon damage. For instance, if your unarmed strike would normally deal 1d4 points of weapon damage, you instead deal 2 points of weapon damage. Apply bonuses, modifiers, and additional damage dice to this result as if you had rolled your damage normally.\nAdvanced Effect: You no longer take a –2 penalty on attack rolls with your unarmed strikes when you choose to deal the average amount of damage. If you critically hit a creature when using this ability, you automatically inflict maximum weapon damage for that critical hit.",
+    "zhCN": "你在所有徒手攻击上承受-2减值，来确保造成平均伤害而不再掷伤害骰。例如，假如你的徒手攻击原本造成 1d4伤害，现在改为造成2伤害。随后，如常对其应用各种加值、调整和额外伤害。\n进阶效果：激活效果时你不再受到前述-2减值。如果使用此能力造成重击，当次重击自动造成最大伤害 。",
+    "ruRu": "Вы можете принять штраф -2 ко всем вашим безоружным атакам, чтобы каждая из этих атак всегда наносила среднее количество урона вместо совершения обычного броска урона. Например, если ваш безоружный удар в нормальных условиях наносит 1d4 урона оружия, с этой техникой вы будете наносить 2 очка урона. Прибавляйте бонусы, модификаторы и дополнительные кости урона к этому результату как обычно. \nПродвинутое преимущество: Вы больше не получаете штраф -2 к атаке, когда вы хотите воспользоваться обычным преимуществом Доведённого до совершенства кулака Ирори. Если вы при этом наносите противнику критический удар, он автоматически наносит максимально возможный урон."
+  },
+
+  {
+    "Key": "DFT.Lamashtu.Name",
+    "ProcessTemplates": false,
+    "enGB": "Lamashtu's Carving",
+    "zhCN": "拉玛什图的雕刻",
+    "ruRu": "Разделка туш Ламашту"
+  },
+  {
+    "Key": "DFT.Lamashtu.Description",
+    "enGB": "As a standard action, you can make a single attack with a falchion or a kukri in order to deal bleed damage to the target. When you make this attack, you do not apply your ability modifier (normally Strength, but potentially other modifiers) to the hit point damage dealt by your attack—instead, add an amount of bleed damage equal to this modifier. Bleed damage from this benefit doesn’t stack with itself.\nAdvanced Prerequisites: Strength 13, Dazing Assault, Power Attack, BAB +10\nAdvanced Effect: Whenever you hit a bleeding creature with a melee attack using a falchion or a kukri, that creature must succeed at a Fortitude save (DC = 10 + your base attack bonus) or become staggered for 1 round. Multiple attacks do not cause this condition to stack, and a creature that successfully saves against this staggering effect is immune to this effect for 1 round.",
+    "zhCN": "使用一个标准动作，你使用弯刃大刀或者反曲刀进行单次攻击，造成流血伤害，使用这种攻击时你不再应用能力调整（通常是力量调整，也可能包括其他调整）于造成的伤害上，而是造成等于该调整值的流血伤害。这个效果造成的流血伤害和其自身不能叠加。\n进阶前提：力量 13，晕眩强袭，猛力攻击，BAB +10\n进阶效果：当你使用弯刃大刀或者反曲刀击中正在流血的生物，该生物必须通过强韧豁免（DC = 10 +你的BAB）否则会恍惚1轮。多次攻击不会造成该判定叠加，切成功豁免该效果的生物会免疫该效果1轮。",
+    "ruRu": "Стандартным действием вы можете совершить одиночную атаку фаличионом или кукри, чтобы вызвать у цели кровотечение. Когда вы совершаете такую атаку, не прибавляйте к обычному урону модификатор аттрибута (Силы или другого используемого вами вместо неё аттрибута) - вместо этого вы наносите это количество урона в виде кровотечения. Кровотечение от одного применения этой способности не суммируется с другими её применениями. \nТребования для продвинутого преимущества: Сила 13, Ошеломляющий натиск, Сокрушительный удар, Базовый модификатор атаки +10  \nПродвинутое преимущество: Когда вы попадаете атакой фальчионом или кукри по кровоточащему существу, это существо должно освершить спасбросок Стойкости (Сложность = 10 + ваш Базовый модификатор атаки) или окажется ошеломлённым на 1 раунд. Множественные атаки не продлевают действие этого состояния, и успешно совершившее спасбросок существо становится невосприимчиво к этому эффекту на 1 раунд."
+  },
+  {
+    "Key": "DFT.Lamashtu.Advanced.Description",
+    "enGB": "Whenever you hit a bleeding creature with a melee attack using a falchion or a kukri, that creature must succeed at a Fortitude save (DC = 10 + your base attack bonus) or become staggered for 1 round. Multiple attacks do not cause this condition to stack, and a creature that successfully saves against this staggering effect is immune to this effect for 1 round.",
+    "zhCN": "当你使用弯刃大刀或者反曲刀击中正在流血的生物，该生物必须通过强韧豁免（DC = 10 +你的BAB）否则会恍惚1轮。多次攻击不会造成该判定叠加，切成功豁免该效果的生物会免疫该效果1轮。",
+    "ruRu": "Когда вы попадаете атакой фальчионом или кукри по кровоточащему существу, это существо должно освершить спасбросок Стойкости (Сложность = 10 + ваш Базовый модификатор атаки) или окажется ошеломлённым на 1 раунд. Множественные атаки не продлевают действие этого состояния, и успешно совершившее спасбросок существо становится невосприимчиво к этому эффекту на 1 раунд."
+  },
+  {
+    "Key": "DFT.Lamashtu.Ability.Description",
+    "enGB": "As a standard action, you can make a single attack with a falchion or a kukri in order to deal bleed damage to the target. When you make this attack, you do not apply your ability modifier (normally Strength, but potentially other modifiers) to the hit point damage dealt by your attack—instead, add an amount of bleed damage equal to this modifier. Bleed damage from this benefit doesn’t stack with itself.",
+    "zhCN": "使用一个标准动作，你使用弯刃大刀或者反曲刀进行单次攻击，造成流血伤害，使用这种攻击时你不再应用能力调整（通常是力量调整，也可能包括其他调整）于造成的伤害上，而是造成等于该调整值的流血伤害。这个效果造成的流血伤害和其自身不能叠加。",
+    "ruRu": "Стандартным действием вы можете совершить одиночную атаку фаличионом или кукри, чтобы вызвать у цели кровотечение. Когда вы совершаете такую атаку, не прибавляйте к обычному урону модификатор аттрибута (Силы или другого используемого вами вместо неё аттрибута) - вместо этого вы наносите это количество урона в виде кровотечения. Кровотечение от одного применения этой способности не суммируется с другими её применениями."
+  },
+
+  {
+    "Key": "DFT.Norgorber.Name",
+    "ProcessTemplates": false,
+    "enGB": "Norgorber's Silent Shiv",
+    "zhCN": "诺格巴的静默小刀",
+    "ruRu": "Беззвучный кинжал Норгорбера"
+  },
+  {
+    "Key": "DFT.Norgorber.Description",
+    "enGB": "Whenever you attack an opponent that is completely unaware of your presence (such as when you are using the Stealth skill or invisible), your attack deals damage as if you were one size category larger. This benefit applies only to the first attack that you make against the target, and only with attacks made with light or one-handed weapons.\nAdvanced Prerequisites: Stealth 10 Ranks\nAdvanced Effect: At the start of each round, choose one opponent that you can see and attempt a Stealth check as a swift action. If the result of your check exceeds the target’s CMD, treat the target as if it were completely unaware of your presence for the purpose of the initial benefit of this divine fighting technique for 1 round.",
+    "zhCN": "当你攻击一个完全没有察觉你的存在的对手时（比如当你在使用隐匿技能或者隐形），你造成的伤害视为你比当前体形大一级。这个效果只对轻型或者单手武器有效。\n进阶前提：隐匿 10 级\n进阶效果：每一轮开始时，选择一个你可看见的对手，用迅捷动作进行一次隐匿检定。如果检定结果超过目标的CMD，在判定本能力条件时，将其视作完全没有察觉你的存在，持续1轮。",
+    "ruRu": "Когда вы атакуете врага, который совершенно не знает о вашем присутствии (например, при атаке из режима Скрытности или невидимости), ваше оружие наносит урон, как если бы оно было на 1 категорию размера больше. Это преимущество распространяется только на первую атаку по этой цели, и только к атакам, совершённым при помощи лёгкого или одноручного оружия. \nТребования для продвинутого преимуществ: Скрытность: 10 \nПродвинутое преимущество: В начале каждого раунда выберите 1 цель, которую вы можете видеть и быстрым действием совершите проверку навыка Скрытность. Если результит проверки превосходит МЗМ цели, считайте, что цель не осведомлена о вашем присутствии на 1 раунд при определении эффектов от базового преимущества этой техники."
+  },
+  {
+    "Key": "DFT.Norgorber.Advanced.Description",
+    "enGB": "At the start of each round, you may attempt a Stealth check against the nearest enemy as a swift action. If the result of your check exceeds the target’s CMD, treat the target as if it were completely unaware of your presence for the purpose of the initial benefit of this divine fighting technique for 1 round.",
+    "zhCN": "每一轮开始时，用迅捷动作对最近的敌人进行一次隐匿检定。如果检定结果超过目标的CMD，在判定本能力条件时，将其视作完全没有察觉你的存在，持续1轮。",
+    "ruRu": "В начале каждого раунда выберите 1 цель, которую вы можете видеть и быстрым действием совершите проверку навыка Скрытность. Если результит проверки превосходит МЗМ цели, считайте, что цель не осведомлена о вашем присутствии на 1 раунд при определении эффектов от базового преимущества техники Беззвучного кинжала Норгорбера."
+  },
+
+  {
+    "Key": "DFT.Rovagug.Name",
+    "ProcessTemplates": false,
+    "enGB": "Rovagug's Thunder",
+    "zhCN": "洛瓦古格的雷霆",
+    "ruRu": "Гром Ровагуга"
+  },
+  {
+    "Key": "DFT.Rovagug.Description",
+    "enGB": "Whenever you succeed at a dirty trick combat maneuver check against an opponent, you deal an amount of damage equal to 1d6 + your Charisma modifier.\nAdvanced Prerequisites: Power Attack, BAB +10\nAdvanced Effect: Anytime you use Power Attack with a great axe or a natural attack, you ignore an amount of the target’s hardness or damage reduction equal to the penalty Power Attack imparts to your attack roll. This benefit stacks with Penetrating Strike and Greater Penetrating Strike.",
+    "zhCN": "每当你成功对对手进行阴招战技检定时，你造成等于1d6+你魅力调整值的伤害。\n进阶前提：猛力攻击，BAB+10\n进阶效果：当你用巨斧或天生武器进行猛力攻击时，你忽略一定量目标的硬度和伤害减免，数值等于猛力攻击对你攻击检定的减值。这个效果能和穿透打击、高等穿透打击叠加。",
+    "ruRu": "Когда вы успешно совершаете боевой приём Грязный трюк, вы наносите цели урон в количестве 1d6 + ваш модификатор Харизмы. \nТребования для продвинутого преимуществ: Сокрушительный удар, Базовый модификатор атаки +10 \nПродвинутое преимущество: Всякий раз, когда вы совершаете Сокрушительный удар с использованием двуручного топора или естественной атакой, вы игнорируете Уменьшение урона цели в количестве, равном штрафу от Сокрушительного удара к вашим броскам атаки. Это преимущество суммируется с эффектом Пронзающего удара и Пронзающего удара+."
+  },
+  {
+    "Key": "DFT.Rovagug.Advanced.Description",
+    "enGB": "Anytime you use Power Attack with a great axe or a natural attack, you ignore an amount of the target’s hardness or damage reduction equal to the penalty Power Attack imparts to your attack roll. This benefit stacks with Penetrating Strike and Greater Penetrating Strike.",
+    "zhCN": "当你用巨斧或天生武器进行猛力攻击时，你忽略一定量目标的硬度和伤害减免，数值等于猛力攻击对你攻击检定的减值。这个效果能和穿透打击、高等穿透打击叠加。",
+    "ruRu": "Всякий раз, когда вы совершаете Сокрушительный удар с использованием двуручного топора или естественной атакой, вы игнорируете Уменьшение урона цели в количестве, равном штрафу от Сокрушительного удара к вашим броскам атаки. Это преимущество суммируется с эффектом Пронзающего удара и Пронзающего удара+."
+  },
+
+  {
+    "Key": "DFT.Torag.Name",
+    "ProcessTemplates": false,
+    "enGB": "Torag's Patient Strikes",
+    "zhCN": "托拉格的耐心一击",
+    "ruRu": "Терпеливая чеканка Торага"
+  },
+  {
+    "Key": "DFT.Torag.Description",
+    "enGB": "Whenever you wield a warhammer, add your Wisdom bonus to the total number of attacks of opportunity that you can make per round. These additional attacks of opportunity don’t stack with those granted by Combat Reflexes, but this benefit counts as Combat Reflexes for the purpose of satisfying feat prerequisites and prestige class requirements. In addition, you can make attacks of opportunity while you’re flat-footed.\nAdvanced Prerequisites: Vital Strike, Weapon Focus (Warhammer), BAB +10\nAdvanced Effect: On your first opportunity attack each round with a warhammer, you can apply the effects of your Vital Strike feat. You can apply the Improved Vital Strike or Greater Vital Strike feat instead if you have either of those feats. If you confirm a critical hit with the attack, you can attempt a trip combat maneuver check against the target as a free action—this combat maneuver does not provoke an attack of opportunity.",
+    "zhCN": "当你持有战锤时，将你的智慧调整值加到每轮借机攻击次数中。这些次数不能和战斗反射叠加，但是这个效果可是视为战斗反射来满足专长和进阶职业的前提条件。此外，你可以在措手不及状态下发动借机攻击。\n进阶前提：要害打击，武器专攻（战锤），BAB +10\n进阶效果：每一轮你首次用战锤进行借机攻击时，你可以应用要害打击专长的效果。如果你拥有对应专长，改为应用精通要害打击、高等要害打击。如果该次攻击确认重击，你可以用自由动作对目标尝试进行绊摔战技检定，这次检定不会引发借机攻击。",
+    "ruRu": "Когда вы сражаетесь боевым молотом, прибавляйте свой модификатор Мудрости к общему количеству внеочередных атак, которые вы можете совершить за раунд. Эти дополнительные внеочередные атаки не суммируется с дополнительными атакми от черты Боевые Рефлексы, но эта боевая техника считается за черту Боевые Рефлексы при определении соответствия требований другим чертам и престиж-классам. Вдобавок, вы можете совершать эти внеочередные атаки даже будучи застигнутым врасплох. \nТребования для продвинутого преимуществ: Жестокий удар, Уверенное владение оружием (Боевой молот), Базовый модификатор атаки +10 \nПродвинутое преимущество: Вы можете применить Жестокого удара к своей первой внеочередной атаке в раунде. Если вы владете Жестоким ударом+ или Жестоким ударом++, вместо этого вы можете применить их. Если вы успешно подвтерждаете критический удар, свободным действием вы можете совершить боевой приём Сбивание с ног по цели своей атаки - этот приём не провоцирует внеочередных атак."
+  },
+  {
+    "Key": "DFT.Torag.Advanced.Description",
+    "enGB": "On your first opportunity attack each round with a warhammer, you can apply the effects of your Vital Strike feat. You can apply the Improved Vital Strike or Greater Vital Strike feat instead if you have either of those feats. If you confirm a critical hit with the attack, you can attempt a trip combat maneuver check against the target as a free action—this combat maneuver does not provoke an attack of opportunity.",
+    "zhCN": "每一轮你首次用战锤进行借机攻击时，你可以应用要害打击专长的效果。如果你拥有对应专长，改为应用精通要害打击、高等要害打击。如果该次攻击确认重击，你可以用自由动作对目标尝试进行绊摔战技检定，这次检定不会引发借机攻击。",
+    "ruRu": "Вы можете применить Жестокого удара к своей первой внеочередной атаке в раунде. Если вы владете Жестоким ударом+ или Жестоким ударом++, вместо этого вы можете применить их. Если вы успешно подвтерждаете критический удар, свободным действием вы можете совершить боевой приём Сбивание с ног по цели своей атаки - этот приём не провоцирует внеочередных атак."
+  },
+
+  {
+    "Key": "DFT.Urgathoa.Name",
+    "ProcessTemplates": false,
+    "enGB": "Urgathoa's Hunger",
+    "zhCN": "乌伽娑婀的饥饿",
+    "ruRu": "Голод Ургатоа"
+  },
+  {
+    "Key": "DFT.Urgathoa.Description",
+    "enGB": "A number of times per day equal to your Wisdom bonus, you can feast upon the life essence of a creature that you hit with a scythe. Activating this ability is a swift action. When you do so, you gain a number of temporary hit points equal to the damage you dealt with the scythe attack. These temporary hit points last for 1 minute and don’t stack.\nAdvanced Prerequisites: Lore (Religion) 10 Ranks, BAB +7\nAdvanced Effect: A number of times per day equal to your Wisdom bonus, you can cast Contagion as a swift action after making a successful melee attack with a scythe. The caster level is equal to your character level and the DC is 10 + half your character level + your Wisdom modifier. The disease inflicted is selected randomly.",
+    "zhCN": "每天等于你感知调整值的次数，你可以从巨镰击中的生物身上汲取精华。激活此能力是迅捷动作。你获得等于你巨镰造成伤害的临时生命值。临时生命值持续1分钟且不能叠加。\n进阶前提：学识（宗教）10 级，BAB +7\n进阶效果：每天等于你感知调整值的次数，你在成功的巨镰近战攻击后可以用迅捷动作释放疫病术。施法者等级等于你的角色等级，DC为10+你角色等级的一半+你的感知调整值。疾病种类随机选择。",
+    "ruRu": "Вы можете выпить жизненные силы существа, по которому вы успешно совершили атаку косой. Количество раз в день, которое можно совершить это, равно вашему модификатору Мудрости. Активация этой способности требует быстрого действия. Использование этой способности даёт вам временные очки здоровья в количестве равном нанесённому косой урону. Эти временные очки здоровья остаются в силе в течение 1 минуты и не суммируются. \nТребования для продвинутого преимуществ: Знание (Религия): 10, Базовый модификатор атаки +10 \nПродвинутое преимущество: После успешной атаки косой, быстрым действием вы можете сотворить заклинание Заражение. Количество раз в день, которое можно совершить это, равно вашему модификатору Мудрости. Уровень заклинателя равняется вашему уровню пресонажа, а сложность спасброска = 10 + 1/2 уровня персонажа + ваш модификатор Мудрости. Вызванное заболевание выбирается случайным образом."
+  },
+  {
+    "Key": "DFT.Urgathoa.Advanced.Name",
+    "enGB": "Urgathoa's Contagion",
+    "zhCN": "乌伽娑婀的疫病",
+    "ruRu": "Зараза Ургатоа"
+  },
+  {
+    "Key": "DFT.Urgathoa.Advanced.Description",
+    "enGB": "A number of times per day equal to your Wisdom bonus, you can cast Contagion as a swift action after making a successful melee attack with a scythe. The caster level is equal to your character level and the DC is 10 + half your character level + your Wisdom modifier. The disease inflicted is selected randomly.",
+    "zhCN": "每天等于你感知调整值的次数，你在成功的巨镰近战攻击后可以用迅捷动作释放疫病术。施法者等级等于你的角色等级，DC为10+你角色等级的一半+你的感知调整值。疾病种类随机选择。",
+    "ruRu": "После успешной атаки косой, быстрым действием вы можете сотворить заклинание Заражение. Количество раз в день, которое можно совершить это, равно вашему модификатору Мудрости. Уровень заклинателя равняется вашему уровню пресонажа, а сложность спасброска = 10 + 1/2 уровня персонажа + ваш модификатор Мудрости. Вызванное заболевание выбирается случайным образом."
+  },
+  {
+    "Key": "DFT.Urgathoa.Ability.Description",
+    "enGB": "A number of times per day equal to your Wisdom bonus, you can feast upon the life essence of a creature that you hit with a scythe. Activating this ability is a swift action. When you do so, you gain a number of temporary hit points equal to the damage you dealt with the scythe attack. These temporary hit points last for 1 minute and don’t stack.",
+    "zhCN": "A number of times per day equal to your Wisdom bonus, you can feast upon the life essence of a creature that you hit with a scythe. Activating this ability is a swift action. When you do so, you gain a number of temporary hit points equal to the damage you dealt with the scythe attack. These temporary hit points last for 1 minute and don’t stack.",
+    "ruRu": "Вы можете выпить жизненные силы существа, по которому вы успешно совершили атаку косой. Количество раз в день, которое можно совершить это, равно вашему модификатору Мудрости. Активация этой способности требует быстрого действия. Использование этой способности даёт вам временные очки здоровья в количестве равном нанесённому косой урону. Эти временные очки здоровья остаются в силе в течение 1 минуты и не суммируются."
+  },
+
+  {
+    "Key": "DraconicHeritage.Name",
+    "ProcessTemplates": false,
+    "enGB": "Draconic Heritage (Any)",
+    "zhCN": "龙族血统（任意）",
+    "ruRu": "Родословная дракона (Любая)"
+  },
+  {
+    "Key": "DraconicHeritage.Description",
+    "enGB": "At some point in your family's history, a dragon interbred with your bloodline, and now its ancient power flows through your veins.",
+    "zhCN": "不知在你家族历史的哪一刻，真龙之血融入了你的血脉传承，并如今在你身上显现了远古之力。",
+    "ruRu": "Среди ваших предков был дракон, и его кровь течёт в ваших жилах."
+  },
+
+  {
+    "Key": "EldritchHeritage.Name",
+    "ProcessTemplates": false,
+    "enGB": "Eldritch Heritage",
+    "zhCN": "奥法血统",
+    "ruRu": "Родословная чародеев"
+  },
+  {
+    "Key": "EldritchHeritage.Description",
+    "enGB": "Select one sorcerer bloodline. You must have Skill focus in the class skill that bloodline grants to a sorcerer at 1st level (for example, Lore: Religion for the celestial bloodline). This bloodline cannot be a bloodline you already have. You gain the first-level bloodline power for the selected bloodline. For purposes of using that power, treat your sorcerer level as equal to your character level – 2, even if you have levels in sorcerer. You do not gain any of the other bloodline abilities.",
+    "zhCN": "选择一个术士血承，你必须拥有对应血承原本会在1级给予术士的技能专攻 （例如：天界血承需要学识：宗教）。 不能选择你已经拥有的血承。你获得选定血承的1级能力，将你的角色等级-2视为术士等级，即使你拥有术士等级也是如此。你不会获得其他血承能力。",
+    "ruRu": "Выберите одно Наследие Колдуна. У вас должна быть черта Эксперт в одном из классовых навыков, который это Наследие даёт Колдуну на 1-ом уровне (например, Знание (Религия) для Небесного Наследия). Вы не можете выбрать Наследие, которое у вас уже есть. Вы получаете способность первого уровня данного Наследия. При расчёте эффектов данного Наследия считайте свой уровень Колдуна равным уровню вавшего персонажа -2, даже если у вас есть уровни Колдуна. Вы не получаете никаких других преимуществ или способностей данного Наследия."
+  },
+
+  {
+    "Key": "EldritchHeritageImproved.Name",
+    "ProcessTemplates": false,
+    "enGB": "Improved Eldritch Heritage",
+    "zhCN": "精通奥法血统",
+    "ruRu": "Улучшенная родословная чародеев"
+  },
+  {
+    "Key": "EldritchHeritageImproved.Description",
+    "enGB": "You gain either the 3rd-level or the 9th-level power (your choice) of the bloodline you selected with the Eldritch Heritage feat. For purposes of using that power, treat your sorcerer level as equal to your character level – 2, even if you have levels in sorcerer. You do not gain any of the other bloodline abilities.",
+    "zhCN": "你获得所选奥法血统血承的3级或9级能力（由你选择）。将你的角色等级-2视为术士等级，即使你拥有术士等级也是如此。你不会获得其他血承能力。",
+    "ruRu": "Вы получаете способность либо 3-го, либо 9-го уровня (на своё усмотрение) от Наследия, выбранного при получении черты Родословная чародеев. При расчёте эффектов данного Наследия считайте свой уровень Колдуна равным уровню вавшего персонажа -2, даже если у вас есть уровни Колдуна. Вы не получаете никаких других преимуществ или способностей данного Наследия."
+  },
+
+  {
+    "Key": "EldritchHeritageGreater.Name",
+    "ProcessTemplates": false,
+    "enGB": "Greater Eldritch Heritage",
+    "zhCN": "高等奥法血统",
+    "ruRu": "Высшая родословная чародеев"
+  },
+  {
+    "Key": "EldritchHeritageGreater.Description",
+    "enGB": "You gain an additional power from the bloodline you selected with the Eldritch Heritage feat. You gain a 15th-level (or lower) sorcerer bloodline power that you do not already have. For purposes of using that power, treat your character level as your sorcerer level for all your sorcerer bloodline powers granted by this feat, Eldritch Heritage, and Improved Eldritch Heritage.",
+    "zhCN": "你获得所选奥法血统血承的额外力量，获得15级或者更低级能力。对于奥法血统、精通奥法血统和该项能力，改为将你的角色等级视为术士等级。",
+    "ruRu": "Вы получаете дополнительную способность того Наследия, что было выбрано при получении черты Родословная чародеев. Вы можете взять способность 15-го уровня или ниже из числа тех, которых у вас ещё нет. При расчёте эффектов данного Наследия считайте свой уровень Колдуна так же как для способностей, полученных от черт Родословная чародеев и Улучшеннаяя родословная чародеев. Вы не получаете никаких других преимуществ или способностей данного Наследия."
+  },
+
+  {
+    "Key": "ElementalHeritage.Name",
+    "ProcessTemplates": false,
+    "enGB": "Elemental Heritage (Any)",
+    "zhCN": "元素血统（任意）",
+    "ruRu": "Стихийная родсловная (Любая)"
+  },
+  {
+    "Key": "ElementalHeritage.Description",
+    "enGB": "The power of the elements resides in you, and at times you can hardly control its fury. This influence comes from an elemental outsider in your family history or a time when you or your relatives were exposed to a powerful elemental force.",
+    "zhCN": "元素的力量在你体内咆哮，有时连你自己都难以控制。这种影响来自于你家族历史中的异界来客，或者你或你的亲属曾经接触过的强大元素之力。",
+    "ruRu": "Сила стихии живёт в вас и вам непросто управлять ей. Возможно среди ваших предков было потустороннее существо, или же кто-то из ваших родственников попал под воздействие редкого стихийного эффекта."
+  },
+
+  {
+    "Key": "EnergyChannel.Name",
+    "ProcessTemplates": false,
+    "enGB": "EnergyChannel",
+    "zhCN": "元素能量引导"
+  },
+  {
+    "Key": "EnergyChannel.Description",
+    "enGB": "A swift action, you can expend one use of channel energy to grant your weapon attacks a bonus on damage rolls equal to twice the number of dice rolled for your channel energy. This additional damage is of an energy type determined by your domain or blessing: acid (Earth), cold (Water), electricity (Air), or fire (Fire). If you have more than one of those domains or blessings, you must choose one of those damage types when you use this ability. This effect lasts for your next three weapon attacks or until the end of combat, whichever comes first.",
+    "zhCN": "使用迅捷动作，你可以消耗一次引导次数，使你的武器攻击伤害获得相当于你引导骰数两倍的加值。额外伤害的能量类型由你的领域或祝福决定的：酸蚀（地）、寒冷（水）、电击（气）或火焰（火）。如果你有不止一个领域或祝福，你必须在使用这个技能时选择其中一种伤害类型。这个效果持续到你接下来的三次武器攻击或战斗结束，以先发生者为准。"
+  },
+  {
+    "Key": "EnergyChannel.Cleric.Name",
+    "ProcessTemplates": false,
+    "enGB": "EnergyChannel (Cleric)",
+    "zhCN": "元素能量引导 （牧师）"
+  },
+  {
+    "Key": "EnergyChannel.Warpriest.Name",
+    "ProcessTemplates": false,
+    "enGB": "EnergyChannel (Warpriest)",
+    "zhCN": "元素能量引导（战斗祭司）"
+  },
+  {
+    "Key": "EnergyChannel.Air.Name",
+    "ProcessTemplates": false,
+    "enGB": "EnergyChannel (Air)",
+    "zhCN": "元素能量引导 （气）"
+  },
+  {
+    "Key": "EnergyChannel.Air.Description",
+    "enGB": "A swift action, you can expend one use of channel energy to grant your weapon attacks a bonus on damage rolls equal to twice the number of dice rolled for your channel energy. This additional damage is electricity (Air). This effect lasts for your next three weapon attacks or until the end of combat, whichever comes first.",
+    "zhCN": "使用迅捷动作，你可以消耗一次引导次数，使你的武器攻击伤害获得相当于你引导骰数两倍的加值。额外伤害的能量类型是电击（气）。这个效果持续到你接下来的三次武器攻击或战斗结束，以先发生者为准。"
+  },
+  {
+    "Key": "EnergyChannel.Earth.Name",
+    "ProcessTemplates": false,
+    "enGB": "EnergyChannel (Earth)",
+    "zhCN": "元素能量引导 （地）"
+  },
+  {
+    "Key": "EnergyChannel.Earth.Description",
+    "enGB": "A swift action, you can expend one use of channel energy to grant your weapon attacks a bonus on damage rolls equal to twice the number of dice rolled for your channel energy. This additional damage is acid (Earth). This effect lasts for your next three weapon attacks or until the end of combat, whichever comes first.",
+    "zhCN": "使用迅捷动作，你可以消耗一次引导次数，使你的武器攻击伤害获得相当于你引导骰数两倍的加值。额外伤害的能量类型是酸蚀（地）。这个效果持续到你接下来的三次武器攻击或战斗结束，以先发生者为准。"
+  },
+  {
+    "Key": "EnergyChannel.Fire.Name",
+    "ProcessTemplates": false,
+    "enGB": "EnergyChannel (Fire)",
+    "zhCN": "元素能量引导 （火）"
+  },
+  {
+    "Key": "EnergyChannel.Fire.Description",
+    "enGB": "A swift action, you can expend one use of channel energy to grant your weapon attacks a bonus on damage rolls equal to twice the number of dice rolled for your channel energy. This additional damage is fire (Fire). This effect lasts for your next three weapon attacks or until the end of combat, whichever comes first.",
+    "zhCN": "使用迅捷动作，你可以消耗一次引导次数，使你的武器攻击伤害获得相当于你引导骰数两倍的加值。额外伤害的能量类型是火焰（火）。这个效果持续到你接下来的三次武器攻击或战斗结束，以先发生者为准。"
+  },
+  {
+    "Key": "EnergyChannel.Water.Name",
+    "ProcessTemplates": false,
+    "enGB": "EnergyChannel (Water)",
+    "zhCN": "元素能量引导 （水）"
+  },
+  {
+    "Key": "EnergyChannel.Water.Description",
+    "enGB": "A swift action, you can expend one use of channel energy to grant your weapon attacks a bonus on damage rolls equal to twice the number of dice rolled for your channel energy. This additional damage is cold (Water). This effect lasts for your next three weapon attacks or until the end of combat, whichever comes first.",
+    "zhCN": "使用迅捷动作，你可以消耗一次引导次数，使你的武器攻击伤害获得相当于你引导骰数两倍的加值。额外伤害的能量类型是寒冷（水）。这个效果持续到你接下来的三次武器攻击或战斗结束，以先发生者为准。"
+  },
+
+  {
+    "Key": "FuriousFocus.Name",
+    "ProcessTemplates": false,
+    "enGB": "Furious Focus",
+    "zhCN": "沉着暴怒",
+    "ruRu": "Сфокусированная ярость"
+  },
+  {
+    "Key": "FuriousFocus.Description",
+    "enGB": "When you are wielding a two-handed weapon or a one-handed weapon with two hands, and using the Power Attack feat, you do not suffer Power Attack’s penalty on melee attack rolls on the first attack you make each turn. You still suffer the penalty on any additional attacks, including attacks of opportunity.",
+    "zhCN": "当你持用双手武器，或者用双手持用单手武器时，使用猛力攻击时，每个回合你第一次近战猛力攻击不需要承受攻击检定上的减值。后续攻击和借机攻击依然正常承受减值。",
+    "ruRu": "Когда вы сражаетесь двуручным оружием или одноручным оружием, которое держите в обеих руках, и используете при этом черту Сокрушительрный удар, вы не получаете штраф к бонусу атаки от Сокрушительного удара на каждую первую атаку в раунде. Этот штраф всё равно применяется ко всем остальным атакам, в том числе и к Внеочередным."
+  },
+
+  {
+    "Key": "GloriousHeat.Name",
+    "ProcessTemplates": false,
+    "enGB": "Glorious Heat",
+    "zhCN": "火热荣耀",
+    "ruRu": "Благостный жар"
+  },
+  {
+    "Key": "GloriousHeat.Description",
+    "enGB": "When you cast a divine spell with the [fire] descriptor, an ally you can see within 30 feet heals a number of hit points equal to the level of the spell cast and gains a +1 morale bonus on attack rolls until the end of its next turn.",
+    "zhCN": "当你施放一个具有火焰描述符的神术时，选择一个你可以看见且距离你30尺内的盟友，你可以治疗他相当于法术环数的生命值，并且他在攻击检定上获得+1士气加值，直到他的下一轮结束。",
+    "ruRu": "Когда вы сотворяете сакральное заклинание с дескриптором [огонь], союзник в поле вашего зрения в пределах 30-ти футах от вас исцеляется на количество очков здоровья равных уровню сотворённого заклинания, а также получает бонус морали +1 к броскам атаки до конца следующего хода."
+  },
+  {
+    "Key": "GloriousHeat.Buff.Description",
+    "enGB": "Divine fire burns within granting you +1 morale bonus on attack rolls until the end of your next turn.",
+    "zhCN": "圣火燃烧给予你直到下一轮的攻击检定+1 士气加值。",
+    "ruRu": "Внутри вас горит божественный пламень, даруя бонус морали +1 к броскам атаки до конца вашего следующего хода."
+  },
+
+  {
+    "Key": "Hurtful.Name",
+    "ProcessTemplates": false,
+    "enGB": "Hurtful",
+    "zhCN": "痛殴",
+    "ruRu": "Ранящий"
+  },
+  {
+    "Key": "Hurtful.Description",
+    "enGB": "When you successfully demoralize an opponent within your melee reach with an Intimidate check, you can make a single melee attack against that creature as a swift action. If your attack misses the target, its shaken condition from being demoralized immediately ends.",
+    "zhCN": "当你成功的通过威吓检定挫败了一个处于你的触及范围内生物的士气时，你可以以一个迅捷动作对这个目标进行一次近战攻击。如果你的这次攻击失手，那么目标因为威吓而承受的战栗状态会立刻结束。",
+    "ruRu": "Когда вы успешно деморализуете броском Устрашения своего противника в зоне досягаемости вашего оружия, вы можете совершить Быстырм действием одиночную атаку по этому протвинку. Если ваша атака не попадает по цели, с неё мгновенно снимается эффект деморализации."
+  },
+
+  {
+    "Key": "PairedOpportunists.Name",
+    "ProcessTemplates": false,
+    "enGB": "Paired Opportunists",
+    "zhCN": "双重借机",
+    "ruRu": "Парный оппортунист"
+  },
+  {
+    "Key": "PairedOpportunists.Description",
+    "enGB": "Whenever you are adjacent to an ally who also has this feat, you receive a +4 circumstance bonus on attacks of opportunity against creatures that you both threaten. Enemies that provoke attacks of opportunity from your ally also provoke attacks of opportunity from you so long as you threaten them. This does not allow you to take more than one attack of opportunity against a creature for a given action.",
+    "zhCN": "每当你邻近一名拥有该专长的盟友，那么在对抗同时处于你们威胁范围内的生物时，你们的借机攻击都会获得+4环境加值。若敌人处于你的威胁范围，那么只要他引起你的盟友的借机攻击，就也会引起你的借机攻击。在对抗一名生物的一次特定动作时，该专长不会允许你获得超过一次的借机攻击机会。",
+    "ruRu": "Когда вы находитесь рядом с союзником, у которого тоже есть эта черта, вы получаете бонус ситуативный бонус +4 к броскам на попадание Внеочередными атаками по существам, которые находятся в зоне, контролируемой вами обоими. Враги, которые провоцируют Внеочередную атаку со сторонры вашего союзника также провоцируют Внеочередную атаку с вашей стороны. Вы не можете совершить более одной внеочередной атаки по противнику на каждоё совершённое им действие."
+  },
+
+  {
+    "Key": "SignatureSkill.Name",
+    "ProcessTemplates": false,
+    "enGB": "Signature Skill",
+    "zhCN": "标志性技能",
+    "ruRu": "Знаковый навык"
+  },
+  {
+    "Key": "SignatureSkill.Description",
+    "enGB": "Your ability with a particular skill is the stuff of legends, and you can do things with that skill that others cannot.\nChoose one signature skill. Each grants you benefits for every 5 Ranks  ",
+    "zhCN": "你在某项特定技能上的能力可谓出神入化，因此你可以使用该项技能做出他人无法做到的事情。\n选择一项技能。每在该技能投入5点时会获得额外效果。",
+    "ruRu": "О ваших навыках в определённой сфере ходят легенды, и вы с их помощью вы способны творить такое, что другим и не снилось.\nВыберите один знаковый навык. Каждыйы из них даёт уникальные преимущества за каждые 5 вложенных уровней."
+  },
+
+  {
+    "Key": "PurifyingChannel.Name",
+    "ProcessTemplates": false,
+    "enGB": "Purifying Channel",
+    "zhCN": "净化导能"
+  },
+  {
+    "Key": "PurifyingChannel.Description",
+    "enGB": "When you channel positive energy to heal, one creature excluded from your channeling takes an amount of fire damage equal to the healing provided, and is dazzled for 1 round by the light of these flames. A successful saving throw against your channel energy halves the fire damage and negates the dazzled effect.",
+    "zhCN": "当你引导正向能量治疗时，一个没受到你治疗的生物受到等于原本治疗量的伤害，并因为火光被目眩1轮。成功豁免可以减半火焰伤害并避免目眩。"
+  },
+
+  {
+    "Key": "SignatureSkill.Athletics.Name",
+    "ProcessTemplates": false,
+    "enGB": "Signature Skill: Athletics",
+    "zhCN": "标志性技能：运动",
+    "ruRu": "Знаковый навык: Атлетика"
+  },
+  {
+    "Key": "SignatureSkill.Athletics.Description",
+    "enGB": "5 Ranks: As a standard action, you can attempt to break free from a grapple or entangling effect, if that effect allows you to break free.\n10 Ranks: You can attempt to break free as a move action.\n15 Ranks: As a standard action you can attempt an Athletics check against the save DC + 10 to suppress a slow or paralysis effect for 1 round, plus 1 round for every 5 by which you exceed the DC.\n20 Ranks: You can attempt to break free as a swift action. You can attempt to suppress a slow or paralysis effect as a move action.",
+    "zhCN": "5级：可以使用标准动作从允许脱离的擒抱或者纠缠效果中脱离。\n10级：可用移动动作尝试脱离。\n15级：使用标准动作可以尝试运动检定对抗豁免DC+10来压制减速或麻痹效果1轮，每超过DC5点额外1轮。\n20级：可用迅捷动作尝试脱离。可用移动动作压制缓慢或麻痹。",
+    "ruRu": "5 уровней: Стандартным действием вы можете попыпаться выбраться из захвата или опутывающего эффекта, если эффект допускает подобное.\n10 уровней: попытка выбраться из захвата может быть совершена Вспомогательным действием.\n15 уровней: Стандартным действием вы можете попытаться подавить эффект замедления или паралича, совершив проверку Атлектики против сложности эффекта + 10. Эффект подавляется на 1 раунд + 1 раунд за каждые 5 очков успеха сверх сложности.\n20 уровней: попытка выбраться из захвата может быть совершена Быстрым дейсвтием; попытка подавить эффект замедления или паралича может быть совершена Вспомогательными действием."
+  },
+  {
+    "Key": "SignatureSkill.Athletics.BreakFree.Name",
+    "ProcessTemplates": false,
+    "enGB": "Signature Skill: Break Free",
+    "zhCN": "标志性技能： 脱离",
+    "ruRu": "Знаковый навык: освободиться от пут"
+  },
+  {
+    "Key": "SignatureSkill.Athletics.BreakFree.Description",
+    "enGB": "You can attempt to break free from a grapple or entangling effect, if that effect allows you to break free. This uses a standard action. If you have 10 Ranks in Athletics it uses a move action. If you have 20 Ranks in Athletics it uses a swift action.",
+    "zhCN": "可以使用标准动作从允许脱离的擒抱或者纠缠效果中脱离。如果拥有10级运动变为移动动作。拥有20级运动变为迅捷动作。",
+    "ruRu": "Вы можете попытаться выбраться из захвата или эффекта опутывания, если эффект допускает подобное. Для этого требуется совершить Стандартное действие. Если у вас 10 уровней в навыке Атлетика, это можно сделать Вспомогательным действием. Если у вас 20 уровней в Атлектике, это можно сделать Быстрым действием."
+  },
+  {
+    "Key": "SignatureSkill.Athletics.BreakFree.Restriction",
+    "enGB": "No effects which allow breaking free",
+    "zhCN": "没有允许脱离的效果",
+    "ruRu": "Отсутствуют эффекты захвата/опутывания, от которых можно освободиться."
+  },
+  {
+    "Key": "SignatureSkill.Athletics.Suppress.Passive.Name",
+    "ProcessTemplates": false,
+    "enGB": "Signature Skill: Suppress Paralyze",
+    "zhCN": "标志性技能： 压制麻痹",
+    "ruRu": "Знаковый навык: подавить паралич"
+  },
+  {
+    "Key": "SignatureSkill.Athletics.Suppress.Passive.Description",
+    "enGB": "At the start of each round make an Athletics check to suppress a paralysis effect for 1 round, plus 1 round for every 5 by which you exceed the DC. This uses a standard action. If you have 20 Ranks in Athletics it uses a move action.",
+    "zhCN": "每轮开始使用标准动作可以尝试运动检定来压制麻痹效果1轮，每超过DC5点额外1轮。如果拥有20级运动变为移动动作。",
+    "ruRu": "В начале каждого раунда совершите проверку Атлетики, чтобы подавить эффект паралича на 1 раунд + 1 раунд за каждые 5 очков успеха сверх сложности. Для этого требуется Стандартное действие. Если у вас больше 20 уровней в навыке Атлетика, вы можете совершить эту проверку Вспомогательным действием."
+  },
+  {
+    "Key": "SignatureSkill.Athletics.Suppress.Active.Name",
+    "ProcessTemplates": false,
+    "enGB": "Signature Skill: Suppress Slow",
+    "zhCN": "标志性技能： 压制减速",
+    "ruRu": "Знаковый навык: подавить замедление"
+  },
+  {
+    "Key": "SignatureSkill.Athletics.Suppress.Active.Description",
+    "enGB": "You can attempt an Athletics check to suppress a slow effect for 1 round, plus 1 round for every 5 by which you exceed the DC. This uses a standard action. If you have 20 Ranks in Athletics it uses a move action.",
+    "zhCN": "使用标准动作可以尝试运动检定来压制减速效果1轮，每超过DC5点额外1轮。如果拥有20级运动变为移动动作。",
+    "ruRu": "В начале каждого раунда совершите проверку Атлетики, чтобы подавить эффект замедления на 1 раунд + 1 раунд за каждые 5 очков успеха сверх сложности. Для этого требуется Стандартное действие. Если у вас больше 20 уровней в навыке Атлетика, вы можете совершить эту проверку Вспомогательным действием."
+  },
+  {
+    "Key": "SignatureSkill.Athletics.Suppress.Restriction",
+    "enGB": "No slowing effects",
+    "zhCN": "无减速效果",
+    "ruRu": "Отсутствуют эффекты замедления"
+  },
+  {
+    "Key": "SignatureSkill.Athletics.Suppress.Duration",
+    "ProcessTemplates": false,
+    "enGB": "1 round, plus 1 round/5 above the DC",
+    "zhCN": "1 轮, 每超过DC5点额外1轮"
+  },
+
+  {
+    "Key": "SignatureSkill.KnowledgeArcana.Name",
+    "ProcessTemplates": false,
+    "enGB": "Signature Skill: Knowledge (Arcana)",
+    "zhCN": "标志性技能：知识（神秘）",
+    "ruRu": "Знаковый навык: Знание (Магия)"
+  },
+  {
+    "Key": "SignatureSkill.KnowledgeWorld.Name",
+    "ProcessTemplates": false,
+    "enGB": "Signature Skill: Knowledge (World)",
+    "zhCN": "标志性技能： 知识（世界）",
+    "ruRu": "Знаковый навык: Знание (Мир)"
+  },
+  {
+    "Key": "SignatureSkill.LoreNature.Name",
+    "ProcessTemplates": false,
+    "enGB": "Signature Skill: Lore (Nature)",
+    "zhCN": "标志性技能：学识（自然）",
+    "ruRu": "Знаковый навык: Знание (Природа)"
+  },
+  {
+    "Key": "SignatureSkill.LoreReligion.Name",
+    "ProcessTemplates": false,
+    "enGB": "Signature Skill: Lore (Religion)",
+    "zhCN": "标志性技能：学识（宗教）",
+    "ruRu": "Знаковый навык: Знание (Религия)"
+  },
+  {
+    "Key": "SignatureSkill.Knowledge.Description",
+    "enGB": "5 Ranks: When you successfully identify a creature you gain additional information.\n10 Ranks: As a move action you can attempt to identify a creature. If you succeed you gain a +1 competence bonus on attack rolls and spell penetration against creatures of that kind for 1 minute.\n15 Ranks: The competence bonus increases to +2 and applies to saving throws.\n20 Ranks: When you make a skill check, you can roll twice and take the better result. The competence bonus increases to +3.",
+    "zhCN": "5级：成功鉴别生物时获得额外信息。\n10级：使用移动动作尝试鉴别生物。如果成功你会在对该类生物的攻击检定和穿透抗力检定上获得+1表现加值，持续1分钟。\n15级：表现加值增加到+2并对豁免检定生效。\n20级：技能检定时掷骰两次取较好结果，表现加值增加到+3。",
+    "ruRu": "5 уровней: когда вы успешно опознаёте существо, вы получаете о нём дополнительную информацию.\n10 уровней: вы можете попытаться опознать существо Вспомогательным действием. Если попытка оказывается успешной, вы получаете бонус мастерства +1 к броскам атаки по этому существу и преодолению его устойчивости к магии на 1 минуту.\n15 уровней: бонус мастерства увеличивается увеличивается до +2 и применяется также к спасброскам.\n20 уровней: когда вы совершаете проверку навыка, вы можете совершить бросок дважды и выбрать лучший результат. Бонус мастерства увеличивается до +3."
+  },
+
+  {
+    "Key": "SignatureSkill.Knowledge.Ability.Name",
+    "ProcessTemplates": false,
+    "enGB": "Signature Skill: Identify",
+    "zhCN": "标志性技能：鉴别",
+    "ruRu": "Знаковый навык: опознание существ"
+  },
+  {
+    "Key": "SignatureSkill.Knowledge.Ability.Description",
+    "enGB": "As a move action you can attempt to identify a creature. If you succeed you gain a +1 competence bonus on attack rolls and spell penetration against creatures of that kind for 1 minute. When you have 15 Ranks in the skill used to identify the creature the bonus applies to saving throws and increases to +2. When you have 20 Ranks in the skill used to identify the creature the bonus increases to +3.",
+    "zhCN": "使用移动动作尝试鉴别生物。如果成功你会在对该类生物的攻击检定和穿透抗力检定上获得+1表现加值，持续1分钟。如果拥有15级相应技能，表现加值增加到+2并对豁免检定生效。如果拥有20级相应技能，表现加值增加到+3。",
+    "ruRu": "Вспомогательным действием вы можете попытаться опознать существо. В случае успеха на 1 минуту вы получаете бонус мастерства +1 к атакам по данному существу и к преодолению его сопротивления магии. Если у вас 15 уровней в навыке, бонус мастерства увеличивается до +2 и применяется также к спасброскам. Если у вас 20 уровней в навыке, бонус мастерства увеличивается до +3."
+  },
+  {
+    "Key": "SignatureSkill.Knowledge.Ability.TargetRestriction.Feat",
+    "enGB": "Requires {0}.",
+    "zhCN": "需要 {0}.",
+    "ruRu": "Требуется {0}."
+  },
+  {
+    "Key": "SignatureSkill.Knowledge.Ability.TargetRestriction.Ranks",
+    "enGB": "Requires 10 Ranks in {0}.",
+    "zhCN": "需要 10 级 {0}.",
+    "ruRu": "Требуется 10 уровней в {0}."
+  },
+  {
+    "Key": "SignatureSkill.Knowledge.Ability.TargetRestriction.Identified",
+    "enGB": "Target already identified.",
+    "zhCN": "目标已经被鉴别。",
+    "ruRu": "Цель уже опознана."
+  },
+
+  {
+    "Key": "SignatureSkill.Mobility.Name",
+    "ProcessTemplates": false,
+    "enGB": "Signature Skill: Mobility",
+    "zhCN": "标志性技能：灵巧",
+    "ruRu": "Знаковый навык: подвижность"
+  },
+  {
+    "Key": "SignatureSkill.Mobility.Description",
+    "enGB": "5 Ranks: You can move at full speed through a threatened square without provoking an attack of opportunity from an enemy by using Mobility and adding +5 to the DC.\n10 Ranks: You receive a +2 bonus on Reflex saving throws to avoid falling into pits and to your CMD against trip manuevers.\n15 Ranks: You do not provoke attacks of opportunity when standing up from prone.\n20 Ranks: You receive a +4 bonus on saving throws to avoid falling into pits and to your CMD against trip maneuvers.",
+    "zhCN": "5级：使用灵巧并承受+5DC时可以全速移动而不引发借机攻击。\n10级：对抗掉入陷坑的反射豁免检定和对抗绊摔战技的CMD获得+2加值。\n15级：从俯卧起身不会引发借机攻击\n20级：对抗掉入陷坑的反射豁免检定和对抗绊摔战技的CMD获得+4加值。",
+    "ruRu": "5 уровней: при использовании Акробатики для перемещания по контролируемой противником зоне, вы способны двигаться с обычной скоростью и не провофировать при этом внеочередных атак, но сложность проверки увеличивается на 5.\n10 уровней: вы получаете бонус +2 к спасброскам Реакции, чтобы не упасть в яму и при защите от боевого приёма Сбивание с ног.\n15 уровней: вы не провоцируете Внеочередные атаки, когда встаёте с земли из лежачего положения.\n20 уровней: бонус к спасброскам Реакции увеличивается до +4."
+  },
+  {
+    "Key": "SignatureSkill.Mobility.Ability.Description",
+    "enGB": "You can move at full speed through a threatened square without provoking an attack of opportunity from an enemy by using Mobility and adding +5 to the DC.",
+    "zhCN": "使用灵巧并承受+5DC时可以全速移动而不引发借机攻击。",
+    "ruRu": "вы сопособны перемещаться по контролируемой противником зоне, не провоцируя Внеочередных атака, при помощи проверки Подвижности со сложностоью +5."
+  },
+
+  {
+    "Key": "SignatureSkill.Perception.Name",
+    "ProcessTemplates": false,
+    "enGB": "Signature Skill: Perception",
+    "zhCN": "标志性技能：察觉",
+    "ruRu": "Знаковый навык: внимание"
+  },
+  {
+    "Key": "SignatureSkill.Perception.Description",
+    "enGB": "5 Ranks: You receive a +2 Perception bonus while on guard duty.\n10 Ranks: You receive a +5 Perception bonus to detect hidden units or objects.\n15 Ranks: You receive a +4 Perception bonus while on guard duty.\n20 Ranks: You receive a +10 Perception bonus to detect hidden units or objects.",
+    "zhCN": "5级：担任守卫时获得+2察觉加值。\n10级：侦测隐藏单位或者物品时获得+5察觉加值。\n15级：担任守卫时获得+4察觉加值。\n20级：侦测隐藏单位或者物品时获得+5察觉加值。",
+    "ruRu": "5 уровней: вы получаете бонус +2 к проверкам Внимание, стоя на страже лагеря на привале.\n10 уровней: вы получаете бонус +5 к проверкам Внимания при попытке обнаружить спрятанные предметы или противников.\n15 уровней: юонус Внимания при страже лагеря увеличивается до +10.\n20уровней: бонус к проверкам Внимания при поиске скрытых предметов и существ увеличивается до +10."
+  },
+
+  {
+    "Key": "SignatureSkill.Persuasion.Name",
+    "ProcessTemplates": false,
+    "enGB": "Signature Skill: Persuasion",
+    "zhCN": "标志性技能： 沟通",
+    "ruRu": "Знаковый наывк: убеждение"
+  },
+  {
+    "Key": "SignatureSkill.Persuasion.Description",
+    "enGB": "5 Ranks: If you exceed the DC to demoralize a target by at least 10, is is frightened for the first round of the effect.\n10 Ranks: If you exceed the DC to demoralize a target by at least 10, it is frightened for 1d4 rounds.\n15 Ranks: If you exceed the DC to demoralize a target by at least 20, it is cowering for the first round of the effect and frightened for the remaining duration.\n20 Ranks: If you exceed the DC to demoralize a target by at least 20, it is cowering for 1d4 rounds and frightened for the remaining duration of the effect.\nA Will save (DC = 10 + Persuasion) negates these additional effects, but the target is still shaken.",
+    "zhCN": "5级：打击士气时如果超过了DC至少10点，目标在第一轮效果改为惊恐。\n10级：打击士气时如果超过了DC至少10点，目标惊恐1d4轮。\n15级：打击士气时如果超过了DC至少20点，其在效果第一轮畏缩并在剩下的持续时间内惊恐。\n20级：打击士气时如果超过了DC至少20点，其在1d4轮畏缩并在剩下的持续时间内惊恐。\n成功的意志豁免（DC为10+沟通等级）免除额外效果，但是目标依然会战栗。"
+  },
+
+  {
+    "Key": "SignatureSkill.Stealth.Name",
+    "ProcessTemplates": false,
+    "enGB": "Signature Skill: Stealth",
+    "zhCN": "标志性技能： 隐匿",
+    "ruRu": "Знаковый навык: скрытность"
+  },
+  {
+    "Key": "SignatureSkill.Stealth.Description",
+    "enGB": "5 Ranks: When you break stealth, make a Stealth check with a -5 penalty against the nearest enemy. If you succeed, you are partially concealed for 1 round.\n10 Ranks: When you break stealth, make a Stealth check against the nearest enemy. If you succeed, gain total concealment for 1 round.\n15 Ranks: If you attack after successfully using Stealth, your target is flat-footed against your attacks for 1 round.\n20 Ranks: If you attack after successfully using Stealth, your target is flat-footed against your attacks for 2 rounds.",
+    "zhCN": "5级：打破隐匿时，以-5减值对最近的敌人做隐匿检定。 如果成功，你拥有不完全隐蔽一轮。\n10级：打破隐匿时，以-5减值对最近的敌人做隐匿检定。 如果成功，你拥有完全隐蔽一轮。\n15级：隐匿后如果攻击成功，目标1轮内视为对你的攻击措手不及。\n20级：隐匿后如果攻击成功，目标2轮内视为对你的攻击措手不及。",
+    "ruRu": "5 уровней: когда вы выходите из режима незаметности, совершите проверку Скрытности со сложностью -5 против ближашего противника. В случае успеха вы получаете полную частичную маскировку на 1 раунд.\n10 уровней:когда вы выходите из режима незаметности, совершите проверку Скрытности со сложностью -5 против ближашего противника. В случае успеха вы получаете полную полную маскировку на 1 раунд.\n15 уровней: если вы успешно атакуете противника при выходе из режима незаметности, это существо на 1 раунд считается застигнутым врасплох при ваших атаках.\n20 уровней: если вы успешно атакуете противника при выходе из режима незаметности, это существо на 2 раунда считается застигнутым врасплох при ваших атаках."
+  },
+  {
+    "Key": "SignatureSkill.Stealth.Concealment.Description",
+    "enGB": "You are partially concealed until the start of your next turn.",
+    "zhCN": "直到你的下个回合开始，你拥有不完全隐蔽。",
+    "ruRu": "Вы находитесь под эффектом частичной маскировки до начала вашего следующего хода."
+  },
+  {
+    "Key": "SignatureSkill.Stealth.Concealment.Greater.Description",
+    "enGB": "You are totally concealed until the start of your next turn.",
+    "zhCN": "直到你的下个回合开始，你拥有完全隐蔽。",
+    "ruRu": "Вы находитесь под эффектом полной маскировки до начала вашего следующего хода."
+  },
+  {
+    "Key": "SignatureSkill.Stealth.Surprise.Description",
+    "enGB": "You are flat-footed against the caster's attacks.",
+    "zhCN": "你对施法者的攻击视为措手不及。",
+    "ruRu": "Вы считаетесь застигнутым врасплох, будучи атакованным тем, кто оставил этот эффект."
+  },
+
+  {
+    "Key": "SkaldsVigor.Name",
+    "ProcessTemplates": false,
+    "enGB": "Skald's Vigor",
+    "zhCN": "健硕之歌",
+    "ruRu": "Жизненная энергия скальда"
+  },
+  {
+    "Key": "SkaldsVigor.Description",
+    "enGB": "While maintaining a raging song, you gain fast healing equal to the twice the damage bonus your song provides, starting in the round after you begin the song. If you stop maintaining your song, the fast healing ends, even if the effects of your song persist.",
+    "zhCN": "维持战怒之歌时，你获得快速治疗，数值等于战歌伤害加值的两倍，在你开始战歌后一轮开始。停止保持战歌时，快速治疗会立刻结束，即使你的战歌效果还在保持也是如此。",
+    "ruRu": "Пока Скальд исполняет песнь Вдохновлённой ярости, он получает эффект Быстрого Исцеления равный удвоённому значению бонуса к урону от этой песни. Быстрое исцеление начинает работать в начале раунда следующего после того, как Скальд начал исполнять песнь. Если Скальд прекращает исполнять песнь, Быстрое Исцеление пропадает, даже если остальные эффекты песни продолжают своё действие."
+  },
+  {
+    "Key": "GreaterSkaldsVigor.Name",
+    "ProcessTemplates": false,
+    "enGB": "Greater Skald's Vigor",
+    "zhCN": "高等健硕之歌",
+    "ruRu": "Жизненная энергия скальда+"
+  },
+  {
+    "Key": "GreaterSkaldsVigor.Description",
+    "enGB": "Your allies share in the fast healing granted by your Skald's Vigor, starting in the round when you begin your performance. They must be able to hear the performance. If you stop maintaining the song, the fast healing ends immediately, even if other effects of your song linger.",
+    "zhCN": "维持战怒之歌时，你的盟友获得快速治疗，数值等于战歌伤害加值的两倍，在你开始战歌的轮开始。他们必须能听到战歌。停止保持战歌时，快速治疗会立刻结束，即使你的战歌效果还在保持也是如此。",
+    "ruRu": "Ваши союзники также получают Быстрое Исцеление, вызванное Жизненной энергией Скальда, непосредственно в том раунде, когда вы начали песнь. Эти союзники должны слышать исполнение. Если вы прекращаете поддерживать песнь, Быстрое Исцеление пропадает, даже если остальные эффекты песни продолжают своё действие."
+  }
+]

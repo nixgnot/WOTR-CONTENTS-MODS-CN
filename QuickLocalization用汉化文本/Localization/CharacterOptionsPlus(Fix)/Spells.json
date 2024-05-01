@@ -1,0 +1,635 @@
+[
+  {
+    "Key": "Duration.Varies",
+    "ProcessTemplates": false,
+    "enGB": "Varies, see text",
+    "zhCN": "可变，参阅文本",
+    "ruRU": "Варьируется, смотри текст"
+  },
+  {
+    "Key": "Duration.RoundPerTwoLevels",
+    "ProcessTemplates": false,
+    "enGB": "1 round/2 levels",
+    "zhCN": "1 轮/2 级",
+    "ruRU": "1 раунд / 2 уровня"
+  },
+
+  {
+    "Key": "SavingThrow.Varies",
+    "ProcessTemplates": false,
+    "enGB": "Varies, see text",
+    "zhCN": "可变，参阅文本",
+    "ruRU": "Варьируется, смотри текст"
+  },
+  {
+    "Key": "SavingThrow.ReflexHalf.WillNegates",
+    "ProcessTemplates": false,
+    "enGB": "Reflex half, Will negates",
+    "zhCN": "反射减半，意志免除",
+    "ruRU": "Спасбросок Реакции снижает наполовину, спасбросок Воли нейтрализует"
+  },
+  {
+    "Key": "SavingThrow.FortPartial.Or.WillNegates",
+    "ProcessTemplates": false,
+    "enGB": "Fortitude partial or Will negates",
+    "zhCN": "强韧部分生效或意志免除"
+  },
+
+  {
+    "Key": "BladedDash.Name",
+    "ProcessTemplates": false,
+    "enGB": "Bladed Dash",
+    "zhCN": "飞刃袭",
+    "ruRU": "Поступь клинка"
+  },
+  {
+    "Key": "BladedDash.Description",
+    "enGB": "When you cast this spell, you immediately move to any one target within 30 feet, and make a single melee attack against it at your base attack bonus. You gain a circumstance bonus on your attack roll equal to your Intelligence or Charisma modifier, whichever is higher.",
+    "zhCN": "当你施放该法术时，你会立即向30尺内一个目标直线移动，用自身基本攻击加值对其进行单次近战攻击。你的攻击检定获得等同于智力或者魅力调整值（取较高者）的环境加值。",
+    "ruRU": "Сотворив это заклинание, вы немедленно перемещаетесь к одной цели в пределах 30 футов и совершаете одну атаку ближнего боя со своим базовым бонусом атаки. Вы получаете Ситуативный бонус к этому броску атаки в размере, равном наибольшему из ваших модификаторов Интеллекта или Харизмы"
+  },
+  {
+    "Key": "BladedDash.Greater.Name",
+    "ProcessTemplates": false,
+    "enGB": "Bladed Dash, Greater",
+    "zhCN": "高等飞刃袭",
+    "ruRU": "Поустпь клинка, Высшая"
+  },
+  {
+    "Key": "BladedDash.Greater.Description",
+    "zhCN": "当你施放该法术时，你会立即向30尺内一个目标直线移动，用自身基本攻击加值对路径上所有生物进行单次近战攻击。你的攻击检定获得等同于智力或者魅力调整值（取较高者）的环境加值。",
+    "enGB": "When you cast this spell, you immediately move in a straight line to any one target within 30 feet. You make a single melee attack against at your base attack bonus against every creature you pass. You gain a circumstance bonus on your attack rolls equal to your Intelligence or Charisma modifier, whichever is higher.",
+    "ruRU": "Сотворив это заклинание, вы немедленно перемещаетесь по прямой линии к одной цели в пределах 30 футов. Вы совершаете одну атаку ближнего боя со своим базовым бонусом атаки по каждому существ на вашем пути. Вы получаете Ситуативный бонус к этим броскам атаки в размере, равном наибольшему из ваших модификаторов Интеллекта или Харизмы"
+  },
+
+  {
+    "Key": "BurningDisarm.Name",
+    "ProcessTemplates": false,
+    "enGB": "Burning Disarm",
+    "zhCN": "灼热缴械",
+    "ruRU": "Обжигающее обезоруживание"
+  },
+  {
+    "Key": "BurningDisarm.Description",
+    "enGB": "This spell causes the target's weapon to instantly become red hot. The target may attempt a Reflex save to drop it and take no damage, otherwise the hot metal deals 1d4 points of fire damage per caster level (maximum 5d4). If the target successfully drops it they are disarmed for 1 round per caster level (maximum 5)",
+    "zhCN": "该法术使得目标武器立即变得红热。目标必须尝试通过反射豁免来将其丢下避免伤害，否则会受到每施法者等级1d4点火焰伤害（最高为5d4）。如果目标成功丢下了武器则会被缴械每施法者等级1轮（最高5轮） ",
+    "ruRU": "Это заклинание немедленно раскаляет оружие цели докрасна. Цель может попытаться совершить спасбросок Реакции, чтобы бросить оружие и не получить урон. В противном случае раскалённый металл наносит 1d4 огненного урона за каждый Уровень заклинателя (максимум 5d4). Если цель успешно бросила оружие, она считается безоружной на 1 уровень за каждый Уровень заклинателя (максимум 5 раундов)."
+  },
+
+  {
+    "Key": "CheetahSprint.Name",
+    "ProcessTemplates": false,
+    "enGB": "Cheetah's Sprint",
+    "zhCN": "豹急"
+  },
+  {
+    "Key": "CheetahSprint.Description",
+    "enGB": "This spell increases your base speed by 90 feet for 1 round. This is an enhancement bonus.",
+    "zhCN": "在1轮内增加你的基础速度90尺。该加值为增强加值。"
+  },
+
+  {
+    "Key": "ChillTouch.Name",
+    "ProcessTemplates": false,
+    "enGB": "Chill Touch",
+    "zhCN": "寒冷之触"
+  },
+  {
+    "Key": "ChillTouch.Touch.Name",
+    "ProcessTemplates": false,
+    "enGB": "Chill Touch (Touch)",
+    "zhCN": "寒冷之触（接触）"
+  },
+  {
+    "Key": "ChillTouch.Description",
+    "enGB": "A touch from your hand, which glows with blue energy, disrupts the life force of living creatures. Each touch channels negative energy that deals 1d6 points of damage. The touched creature also takes 1 point of Strength damage unless it makes a successful Fortitude saving throw. You can use this melee touch attack up to one time per level.\nAn undead creature you touch takes no damage of either sort, but it must make a successful Will saving throw or flee as if panicked for 1d4 rounds + 1 round per caster level.",
+    "zhCN": "你的手散发出幽蓝的能量，它的触摸会摧毁活物的生命力。每次接触会1d6点负能量伤害。如果未能通过强韧豁免，被接触的生物则会额外受到1点力量伤害。你可以使用这种近战接触攻击的次数至多为每施法者等级一次。\n被你接触到的不死生物不会受到上述任何一种伤害，但它必须进行意志豁免检定，失败就会如同陷入恐慌状态一般逃跑，持续时间为1d4轮+每施法者等级1轮。"
+  },
+  {
+    "Key": "Consecrate.Name",
+    "ProcessTemplates": false,
+    "enGB": "Consecrate",
+    "zhCN": "祝圣术",
+    "ruRU": "Освятить место"
+  },
+  {
+    "Key": "Consecrate.Description",
+    "enGB": "The DC to resist positive channeled energy within this area gains a +3 sacred bonus. Every undead creature entering a consecrated area suffers a -1 penalty on all attack rolls, damage rolls, and saving throws.\nUndead cannot be summoned while within this area.",
+    "zhCN": "在这片区域内抵抗引导正能量时，引导正能量的DC获得+3神圣加值。每个进入祝圣区域的不死生物都会被轻微弱化，在攻击检定、伤害检定和豁免中受到-1减值。\n在祝圣区域中不能创造或召唤不死生物。",
+    "ruRU": "Сложность сопротивления Проведению позитивной энергии в области действия получает Сакральный бонус +3. Каждое существа типа Нежить, войдя на освящённую землю, получает штраф -1 ко всем броскам атаки, урона и спасброскам. \nВ освящённой области невозможно призвать нежить."
+  },
+
+  {
+    "Key": "DefensiveShock.Name",
+    "ProcessTemplates": false,
+    "enGB": "Defensive Shock",
+    "zhCN": "闪电之盾"
+  },
+  {
+    "Key": "DefensiveShock.Description",
+    "enGB": "Electrical energy floods your body, shocking the next creature that touches you. Any creature striking you in melee takes 1d6 points of electricity damage per two caster levels (maximum 6d6). If the attacker has spell resistance, it applies against this damage. Each time the spell discharges, the number of damage dice it deals is halved (rounded down); when the spell’s damage dice reach 0, the spell ends.",
+    "zhCN": "电能覆盖你的躯体，电击下一个接触到你的生物。当任何生物用身体或可导电的武器接触到你时都会受到每2施法者等级1d6点电击伤害 (最高6d6)。如果攻击者拥有法术抗力，可以用于对抗该法术。每当该法术造成一次伤害，它的伤害骰数减半 (向下取整)；如果伤害骰数降到0，法术结束。"
+  },
+
+  {
+    "Key": "DeliverTouch.Name",
+    "ProcessTemplates": false,
+    "enGB": "Deliver Touch Spell",
+    "zhCN": "传递接触法术",
+    "ruRU": "Разрядить заклинание касанием"
+  },
+  {
+    "Key": "DeliverTouch.Description",
+    "enGB": "Make a touch attack to deliver a stored touch spell.",
+    "zhCN": "进行接触攻击来传递储存的接触法术。",
+    "ruRU": "Совершите атаку касанием, чтобы разрядить удерживаемое заклинание"
+  },
+  {
+    "Key": "DeliverTouch.Unavailable.Description",
+    "ProcessTemplates": false,
+    "enGB": "No touch spell is currently stored",
+    "zhCN": "暂无储存的接触法术",
+    "ruRU": "Вы не удерживаете заклинаний касанием для разрядки"
+  },
+
+  {
+    "Key": "Desecrate.Name",
+    "ProcessTemplates": false,
+    "enGB": "Desecrate",
+    "zhCN": "亵渎术",
+    "ruRU": "Осквернение"
+  },
+  {
+    "Key": "Desecrate.Description",
+    "enGB": "The DC to resist negative channeled energy within this area gains a +3 profane bonus. Every undead creature entering a desecrated area gains a +1 profane bonus on all attack rolls, damage rolls, and saving throws. Undead summons within such an area gain +1 hit point per HD.\nAnyone who casts Animate Dead within this area creates twice as many undead.",
+    "zhCN": "在这片区域内抵抗引导负能量时，引导负能量的DC获得+3亵渎加值。进入亵渎术区域内的每个不死生物的所有攻击检定、伤害检定和豁免检定均会获得+1亵渎加值。在这片区域内创造或召唤至这片区域的不死生物，每HD会额外+1生命值。\n在此区域施放操纵死尸能创造出正常数量两倍的不死生物 。",
+    "ruRU": "Сложность сопротивления Проведению негативной энергии в области действия получает Сакральный бонус +3. Каждое существа типа Нежить, войдя на осквернённую землю, получает Нечестивый бонус +1 ко всем броскам атаки, урона и спасброскам. \nНа осквернённой территории призванная нежить получает +1 Очко Здоровья. \nЛюбой, кто сотворяет заклинание Поднять Нежить в этой области, создаёт в два раза больше неживых существ."
+  },
+
+  {
+    "Key": "DimensionalBlade.Name",
+    "ProcessTemplates": false,
+    "enGB": "Dimensional Blade",
+    "zhCN": "次元剑",
+    "ruRU": "Пространственный клинок"
+  },
+  {
+    "Key": "DimensionalBlade.Description",
+    "enGB": "This spell gives you the power to turn your main-hand melee weapon into a two-dimensional object with length and height but no width.\nAttacks made with the weapon are melee touch attacks that ignore all armor. Force effects, such as mage armor and shield, still apply their AC against attacks made with a dimensional blade. Bludgeoning weapons used to make attacks with this spell deal half damage and are treated as slashing weapons.",
+    "zhCN": "该法术让你手持的一把武器变成二维物品，只有长度和高度而没有宽度。\n使用这种武器进行的近战攻击是近战接触攻击，能忽视所有护甲。力场效果，比如法师护甲和护盾术，仍然能够提供AC来对抗次元剑的攻击。接受次元剑效果的钝击武器只能造成一半伤害并视为挥砍武器。",
+    "ruRU": "Это заклинание позволяет вам превратить оружие ближнего боя в вашей основной руке в двумерный объект, у которого есть длина и ширина, но нет толщины. \nАтаки совершённые этим оружием считаются такми касанием и игнорируют оюбую броню. Силовые эффекты такие как заклинания Магический доспех и Щит всё равно добавляют свои бонусы к Защите от атак, совершённых пространственным клинком. Ели ззаклинание наложено на дробящее оружие, оно начинает считаться режущим, но урон от него уменьшается наполовину."
+  },
+
+  {
+    "Key": "FleshwormInfestation.Name",
+    "ProcessTemplates": false,
+    "enGB": "Fleshworm Infestation",
+    "zhCN": "血蛆侵袭",
+    "ruRU": "Вселение червей"
+  },
+  {
+    "Key": "FleshwormInfestation.Description",
+    "enGB": "With a touch, you cause an infestation of ravenous worms to manifest in the target’s flesh. The target must make a Fortitude save every round. Failure means it takes 1d6 hit points of damage and 2 points of Dexterity damage, and is staggered for 1 round. If it makes the save, it takes no hit point or Dexterity damage and is only sickened for 1 round rather than staggered. Protection from evil negates this spell’s effects for as long as the two durations overlap. Dispel evil automatically ends a fleshworm infestation.",
+    "zhCN": "随着一次接触，你让目标的血肉被贪婪的蛆虫所侵食。目标必须每轮进行一次强韧检定。如果失败，目标会受到1d6伤害和2点敏捷伤害，并且恍惚一轮。如果豁免成功，则不会受到生命值和敏捷伤害，并且只会恶心一轮而非恍惚。如果防护邪恶和本法术持续时间重叠，那么在防护邪恶持续时间内可以抵消这个法术的效果。另外一次反制邪恶 法术可以自动结束本法术。",
+    "ruRU": "Своим прикосновением вы населяете тело жёртвы ненасытными червями, пожирающими её плоть. Цель должна совершать спасбросок Стойкости каждый раунд. В случае провала целт получает 1d6 урона здоровью и 2 очка урона Ловкости, а также оказывается ошеломлена на 1 раунд. Если спасбросок был успешен, урон нейтрализуется, а цель всего лишь испытывает недомогание в течении одного раунда вместо ошеломления. Эффект Защиты от Зла нейтрализует действие подавляет эффект этого заклинания. Заклинание Развеять зло немедленно прекращает действие Вселения червей."
+  },
+
+  {
+    "Key": "FreezingSphere.Name",
+    "ProcessTemplates": false,
+    "enGB": "Freezing Sphere",
+    "zhCN": "冰封法球",
+    "ruRU": "Сфера заморозки"
+  },
+  {
+    "Key": "FreezingSphere.Description",
+    "enGB": "Freezing sphere creates a frigid globe of cold energy that streaks from your fingertips to the location you select, where it explodes in a 40-foot-radius burst, dealing 1d6 points of cold damage per caster level (maximum 15d6) to each creature in the area. A creature of the water subtype instead takes 1d8 points of cold damage per caster level (maximum 15d8) and is staggered for 1d4 rounds.",
+    "zhCN": "冰封法球以寒冷能量创造出一个冻寒能量组成的小球，从你的指尖射出飞向你选择的地点，之后在那里造成半径40尺的爆炸， 对区域内的每个生物造成每施法者等级1d6点寒冷伤害 (最多15d6)。水系亚种生物会受到每施法者等级1d8点寒冷伤害 (最多15d8) 并且会恍惚1d4轮。",
+    "ruRU": "Сфера заморозки создаёт сферу из энергии холода, которая срывается с кончиков ывших пальцев в выбранном направлении, где взрывается, накрыв территоию в радиусе 40 футов, и наносит всем существам в этой области 1d6 урона холодом за каждый Уровень заклинателя (максимум 15d6). Существа Водного подтипа вместо этого получают 1d8 урона холодом за каждый Уровень заклинателя (максимум 15d8) и оказываются ошеломлены на 1d4 раунда."
+  },
+
+  {
+    "Key": "FreezingSphere.Selective.Description",
+    "enGB": "Freezing sphere creates a frigid globe of cold energy that streaks from your fingertips to the location you select, where it explodes in a 40-foot-radius burst, dealing 1d6 points of cold damage per caster level (maximum 15d6) to each enemy in the area. A creature of the water subtype instead takes 1d8 points of cold damage per caster level (maximum 15d8) and is staggered for 1d4 rounds.",
+    "zhCN": "冰封法球以寒冷能量创造出一个冻寒能量组成的小球，从你的指尖射出飞向你选择的地点，之后在那里造成半径40尺的爆炸， 对区域内的每个敌人造成每施法者等级1d6点寒冷伤害 (最多15d6)。水系亚种生物会受到每施法者等级1d8点寒冷伤害 (最多15d8) 并且会恍惚1d4轮。",
+    "ruRU": "Сфера заморозки создаёт сферу из энергии холода, которая срывается с кончиков ывших пальцев в выбранном направлении, где взрывается, накрыв территоию в радиусе 40 футов, и наносит всем вражеским существам в этой области 1d6 урона холодом за каждый Уровень заклинателя (максимум 15d6). Существа Водного подтипа вместо этого получают 1d8 урона холодом за каждый Уровень заклинателя (максимум 15d8) и оказываются ошеломлены на 1d4 раунда."
+  },
+
+  {
+    "Key": "Frostbite.Name",
+    "ProcessTemplates": false,
+    "enGB": "Frostbite",
+    "zhCN": "冻伤"
+  },
+  {
+    "Key": "Frostbite.Touch.Name",
+    "ProcessTemplates": false,
+    "enGB": "Frostbite (Touch)",
+    "zhCN": "冻伤 （接触）"
+  },
+  {
+    "Key": "Frostbite.Description",
+    "enGB": "Your melee touch attack deals 1d6 points of nonlethal cold damage + 1 point per level, and the target is fatigued. The fatigued condition ends when the target heals. This spell cannot make a creature exhausted even if it is already fatigued. You can use this melee touch attack up to one time per level.",
+    "zhCN": "你的近战接触攻击造成1d6加上每等级1点非致命寒冷伤害，并且使目标疲乏。当目标的非致命伤害恢复之时，疲乏状态才会结束。即使目标已经处于疲乏状态，该法术无法使他力竭。你能够使用该近战接触攻击的次数最高等同于你的等级。"
+  },
+
+  {
+    "Key": "FrostFall.Name",
+    "ProcessTemplates": false,
+    "enGB": "Frost Fall",
+    "zhCN": "冰河瀑布",
+    "ruRU": "Пришествие зимы"
+  },
+  {
+    "Key": "FrostFall.Description",
+    "enGB": "The area of this spell is covered in chilling frost, dealing 2d6 points of cold damage to all creatures within it. Creatures that the spell initially damages must succeed at a Fortitude save or become staggered for 1 round. The area remains chilled for the spell’s duration. Any creature that starts its turn within the spell’s area takes 1d6 points of cold damage (Fortitude saving throw for half) but does not become staggered even on a failed saving throw.",
+    "zhCN": "区域内会被倾泻而下的寒冰覆盖，所有生物受到2d6点寒冷伤害。最初受到伤害的生物必须通过强韧检定否则恍惚一轮。此后，该地区在法术持续时间内仍然被严寒充斥着。任何区域内的生物，在轮到你行动开始时都会受到1d6点寒冷伤害 (强韧减半)，但不再会因为豁免失败而恍惚。",
+    "ruRU": "На зону действия этого заклинания опускается жуткий проибрающий до костей холод, который наносит 2d6 урона холодом всем существам в радиусе действия. Существа, получившие урон должны совершить успешный спасбросок Стойкости или окажутся ошеломлены на 1d4 раунда. Область остаётся замёрзей на всё время действия заклинания. Любое существо, начавшее свой ход в зоне действия Пришествия зимы, получает 1d6 урона холодом (успешный спасбросок Стойкости уменьшает наполовину), но не оказывается ошеломлённым даже при проваленном спасброске."
+  },
+
+  {
+    "Key": "FrozenNote.Name",
+    "ProcessTemplates": false,
+    "enGB": "Frozen Note",
+    "zhCN": "冻结音符",
+    "ruRU": "Замёрзшая нота"
+  },
+  {
+    "Key": "FrozenNote.Description",
+    "enGB": "You produce and sustain a single perfect musical note that holds nearby creatures, friend as well as foe, utterly spellbound until you stop singing. Affected creatures are both paralyzed and oblivious to their surroundings so long as you maintain the note.\nMaintaining this note requires your absolute attention; if you take damage or take any other action, including moving from your current square, the spell instantly ends. Creatures that succeed in their initial Saving Throw must make a new one for each round they spend within the area of the spell until they fail and become captivated. Creatures with 4 or more Hit Dice greater than your caster level are not affected by this spell. However, those with 4 or more Hit Dice less than your caster level do not receive a Saving Throw to resist it.",
+    "zhCN": "你发出并维持单一一个完美的音节，完全迷住附近的生物，盟友以及敌人，直至你停止歌唱。只要你维持这个音节，被影响的生物就同时处于麻痹以及忽视周围事物的状态。\n维持音节需要你保持高度的专注力；如果你受到伤害或者进行任何其他动作 (包括移出你当前所在的方格)，该法术会立即结束。在初次豁免检定中成功的生物在法术范围内必须每轮进行一次新的豁免，直至他们豁免失败并被迷住为止。生命骰比你的施法者等级高4级或更多的生物不受该法术影响。然而生命骰比你的施法者等级低4级或更多的生物无法进行豁免抵御该法术。",
+    "ruRU": "Вы издаёте и удерживаете одну идеальную музыкальную ноту, которая замораживает внимание всех существ - в равной степени как врагов, так и союзников - пока вы не прекратите петь. Существа, попавшие под воздействие Замёрзшей ноты, парализованы и не замечают ничего вокруг себя в то время, как вы издаёте эту ноту. \nПоддержание этого заклинания требует от вас абсолютного сосредоточения; если вы получаете любой урон или совершаете любое действие (в том числе движение), заклинание немедленно прекращается. Существа, которые успешно совершают первый спасбросок, должны совершать новый спасбросок каждый последующий раунд, проведённый в зоне действия, пока провал не оставит их в плену заклинания. Существа, у которых количество Костей здоровья превышает ваше на 4 и больше, не подвержены этому заклинанию. Существа, у которых количество КОстей здоровья меньше вашего на 4 или больше, лишены возможности совершить спасбросок."
+  },
+
+  {
+    "Key": "HedgingWeapons.Name",
+    "ProcessTemplates": false,
+    "enGB": "Hedging Weapons",
+    "zhCN": "护神武具",
+    "ruRU": "Ограждающий арсенал"
+  },
+  {
+    "Key": "HedgingWeapons.Description",
+    "enGB": "A weapon made from divine force appears and floats near you.\nThis weapon takes the shape of your deity’s favored weapon (if you have no deity, the weapon appears as a longsword). You gain one additional weapon at 6th level and every 4 caster levels thereafter—two at 6th, three at 10th, four at 14th, and a maximum of five weapons at 18th level. The weapon averts and deflects attacks, granting you a +1 deflection bonus to AC for each weapon summoned (maximum +5 at 18th level). As a standard action, you can grasp a weapon and throw it as a ranged attack at any target you can see within 30 feet of you (even if it’s a type of weapon that can’t normally be thrown).\nOn a successful hit, the weapon deals 2d6 points of force damage to the target. This force weapon has the same threat range and critical multiplier as a standard weapon of its type, but no other special abilities. Because it deals force damage, DR doesn’t apply.",
+    "zhCN": "一件由神圣力量构成的武器漂浮、显现在你身周。\n此武器的形状为你信仰神祇的偏好武器(如果你没有信仰，那此武器显现为一种对你有着特殊意义的简易武器)。你在6级与之后每4个施法者等级额外获得1件武器，意即6级时2件、10级时3件、14级时4件，最多到18级时5件。这些武器能阻止并偏斜攻击，每一把被召唤的武器，都让你在AC上获得+1偏斜加值(最大为18级时+5)。以一个标准动作，你可以抓住一件武器，并丢向(如同一次远程攻击)30尺内你可以看见的任何目标(就算这件武器按常理来说不能丢掷)。\n如果成功击中，该武器对目标造成2d6点力场伤害。这件力场武器有着与它同种类的标准武器般的重击威胁范围与重击倍率，但没有其他的特殊能力。因为它造成的是力场伤害，DR并无效果。",
+    "ruRU": "Это заклинание призывает оружие, сотоворённое из божественной силы, которое появляется и начинает парить вокруг вас. \nЭто оружие приобретает форму излюбленного оружия вашего божества (если вы не поклоняетесь ни одному божеству, оно выглядит как длинный меч). Вы получаете одно дополнительное оружие на 6-jv уровне и каждые 4 Уровня заклинателя после 6-го: 3 на 10-ом, 4 на 14-ом и до максимума 5 оружий на 18-ом уровне. Оружие парирует и отводит нацеленные в вас атаки, давая +1 бонус Отклонения к Защите за каждое призванное оружие (максимум +5 на 18-ом уровне). Стандартным действием вы можете выловить 1 оружие и совершить атаку дальнего боя, бросив его в любую видимую цель в пределах 30 футов (даже если обычно такое оружие не подходит для броска). \nВ случае успешной атаки, оружие наносит цели 2d6 силового урона. У этого силового оружия такой же диапазон критического удара и критический множитель, как и обычного оружия этого типа, но никаких других особых качеств. Поскольку это оружие наносит силовой урон, Снижение урона цели не применяется."
+  },
+
+  {
+    "Key": "HorrificDoubles.Name",
+    "ProcessTemplates": false,
+    "enGB": "Horrific Doubles",
+    "zhCN": "可怖幻象",
+    "ruRU": "Ужасные двойники"
+  },
+  {
+    "Key": "HorrificDoubles.Description",
+    "enGB": "You create several illusory doubles of yourself, where you and each image all seem slightly off or wrong in appearance. Treat this spell as mirror image, except as noted.\nEach creature that can see the doubles must succeed at a Will save or become shaken for as long as it can see any of the doubles. A successful saving throw negates the shaken condition and renders the creature immune to the further effects of this spell (beyond the usual effects of mirror image). In addition, the first time a creature that failed its initial saving throw destroys one of the images, it must succeed at a Will save or its perception of the double shifts at the last second. The double takes on the face of the attacker, the face of a loved one, or some other equally disturbing image, causing the attacker to become frightened for 1 round and take 1d3 points of Wisdom damage from the traumatic shock.",
+    "zhCN": "你创造了数个与你极其相似的幻象，你和你的每个幻像在外观上看起来都有些许不同。此法术视为镜影术，除了下列效果。\n每个看到幻象之生物必须通过一个意志豁免检定，否则只要他还能看到这个幻象，它就保持战栗状态。成功通过豁免检定使战栗状态无效，并且使该生物免疫此法术更进一步的效果（仅指超出一般镜像术的效果）。此外，首次豁免检定失败的生物，在第一次催毁一个幻象时，必须通过一次意志检定，否则它会幻象的认知将会在下一秒转变。幻象会变成攻击者的面孔、所爱之人的面孔，或其他令人不安的形象，让攻击者因为创伤性休克惊恐1轮，并且受到1d3点感知伤害。",
+    "ruRU": "Вы создаёте несколько иллюзорных копий себя самого, но что-то в вас и ваших копиях кажется неправильным. Это заклинание действует как Зеркальное отражение, но со следующими поправками: \nКаждое существо, которое видит двойников, должно совершить успшный спасбросок Воли или будет потрясённым всё то время, пока видит двойников. Успешный спасбросок нейтрализует состояние потрясение и осталяет существо невосприимычивым к эффектами этого заклинания (не считая основного эффекта зеркальных отражения). Помимо этого, когда провалившее изначальный спасбросок существо уничтожает одно из таких отражений, существо должно совершить успешный спабросок Воли или в самый последний момент в его восприятии облик двойника преобразится. Двойник примет обличье нападающего, его возлюбленной или другой столь же будоражащий облик, в результате чего нападающий оказывается Испуган на 1 раунд и получает 1d3 урона Мудрости из-за шока."
+  },
+  {
+    "Key": "HorrificDoubles.Shaken.Description",
+    "enGB": "You are shaken as long as you can see the caster. The first time you destroys one of the caster's images, you must succeed at a Will save or become frightened for 1 round and take 1d3 points of Wisdom damage.",
+    "zhCN": "只要你能看施法者就会陷入战栗。你第一次摧毁施法者幻象时，必须通过意志豁免检定否则会惊恐1轮，并且受到1d3点感知伤害。",
+    "ruRU": "Вы потрясены до тех пор, пока видите заклинателя. В первый раз, когда вы уничтожите одну из копий заклинателя, вы должны совершить успешный спасбросок Воли или будете Испуганы на 1 раунд и получите 1d3 урона Мудрости."
+  },
+
+  {
+    "Key": "IceSlick.Name",
+    "ProcessTemplates": false,
+    "enGB": "Ice Slick",
+    "zhCN": "冰滑术",
+    "ruRU": "Гололёд"
+  },
+  {
+    "Key": "IceSlick.Description",
+    "enGB": "Any creature in the area when the spell is cast takes 1d6 points of cold damage + 1 point per caster level (maximum +10) and falls prone; creatures that succeed at a Reflex save take half damage and don’t fall prone. Every round any creature in the area must make a successful Reflex save or fall prone.",
+    "zhCN": "任何在法术施放时处于区域内的生物将承受1d6+你的每个施法者等级1点寒冷伤害（最高+10点）并被击倒至俯卧。成功通过豁免检定的生物可以减半伤害并不会被击倒。每一轮区域内生物需要成功通过反射豁免检定来避免摔倒俯卧。",
+    "ruRU": "Когда заклинание сотворено, любое существо, находящееся в это время в области действия, получает урон холодом в размере 1d6 + 1 за каждый Уровень Заклинателя (до максимума в +10) и падает навзничь; существа, успешно совершившие спасбросок Реакции получают только половину урона и не падают. Существа, находящиеся в области действия, должны совершать спасбросок Реакции каждый раунд, чтобы не упасть, поскользнувшись."
+  },
+
+  {
+    "Key": "IceSpears.Name",
+    "ProcessTemplates": false,
+    "enGB": "Ice Spears",
+    "zhCN": "冰矛术",
+    "ruRU": "Ледяные копья"
+  },
+  {
+    "Key": "IceSpears.Description",
+    "enGB": "Upon casting this spell, one or more giant spears of ice lance up out of the ground. One spear for every 4 caster levels you possess burst from the ground, targeting a nearby creature. Affected creatures take 2d6 points of piercing damage and 2d6 points of cold damage. When the spears erupt from the ground, they make a combat maneuver check against affected creatures, with a total bonus equal to your caster level plus your Intelligence, Wisdom, or Charisma modifier, whichever is highest. Each additional ice spear beyond the first that strikes a single foe grants a +10 bonus to this CMB check. If the check succeeds, the ice spears knock the foe prone. A successful Reflex save halves the damage and prevents the trip attempt.\nIf the target is affected by a spell with the cold descriptor, the spears strike with additional force. The DC to save increases by +2 and the spell gains a +4 bonus on its combat maneuver check to trip foes.",
+    "zhCN": "通过施放该法术，1支或多支寒冰巨矛出现在地面上。你能够在地面上唤每4个施法者等级1支的冰矛攻击范围内敌人。受到影响的生物会受到每个方格2d6点穿刺伤害以及2d6点寒冷伤害。当冰矛从地面突然出现时，它们能够进行战技检定对抗任何受到冰矛伤害的目标，使用的总加值为你的施法者等级加上你的智力，感知或者魅力调整值，以较高者为准。首只冰矛之外的每个攻击同一目标的冰矛会使这次CMB检定获得+10加值。如果检定成功，冰矛会将敌人击倒。成功的反射检定会使伤害减半并阻止摔绊检定。\n如果目标正在受到寒冷描述符法术的影响，冰矛会具有更强的力量，对其效果的豁免DC+2，并且该法术在摔绊敌人的战技检定中会获得+4加值。",
+    "ruRU": "После сотворения этого заклинания из земли выстреливает одно или несколько огромных ледяных копий. За каждые 4 ваших уровня заклинателя появляется 1 копьё, нацеленное в существо неподалёку. Задетые сущуства получают 2d6 колющего урона и 2d6 урона холодом. Когда копья выстреливают из земли, они совершают бросок боевого манёвра против своих целей с суммарным бонусом, равным вашему уровню заклинателя плюс наибольший из ваших модификаторов Интеллекта, Мудрости или Харизмы. Если в существо нацелено больше одного копья, каждое копьё сверх первого получает бонус +10 к этому броску боевого манёвра. При успешном манёвре ледяные копья сбивают цель с ног.Успешный спасбросок Реакции уменьшает урон наполовину и предотвращает попытку сбивания с ног. \nЕсли цель уже находиться под воздействием закинания с дескриптором Холод, копья бьют с особой силой. Сложность спасброска увеличивается на +2, и заклинание полчает бонус +4 к броску сбивания с ног."
+  },
+
+  {
+    "Key": "Implosion.Name",
+    "ProcessTemplates": false,
+    "enGB": "Implosion",
+    "zhCN": "内爆术",
+    "ruRU": "Схлопывание"
+  },
+  {
+    "Key": "Implosion.Description",
+    "enGB": "This spell causes a destructive resonance in a corporeal creature’s body. Each round you concentrate (including the first), you can cause one creature to collapse in on itself, inflicting 10 points of damage per caster level. If you break concentration, the spell immediately ends, though any implosions that have already happened remain in effect. You can target a particular creature only once with each casting of the spell. Implosion has no effect on incorporeal creatures.",
+    "zhCN": "该法术会在实体生物体内造成破坏性共振。在你维持专注的每一轮 (包括第一轮)，都可以使一个生物从内部瓦解，造成每CL 10点伤害。若打破专注，则法术会立即结束，不过任何已经发生的内爆仍旧会保持有效。每次你施放该法术时，每个特定生物的仅会成为该法术的目标一次。内爆术对虚体的和气化的生物无效。",
+    "ruRU": "Это заклинание вызывает разрушительный резонанс в материальном теле существа. В каждом раунде, в котором вы продолжаете концентрироваться (включая раунд, когда заклинание сотворено), вы можете схлопнуть одно существо вовнутрь себя, нанеся 10 урона за каждый Уровень заклинателя. Если ваша концентрация оказывается нарушена, заклинание немедленно прекращает действие, но уже случившиеся схлопывания остаются в силе. Вы можете выбрать каждое существо не более одного раза за каждое отдельное сотворения этого заклинания. Схлопывание не действует на бесплотных существ."
+  },
+  {
+    "Key": "Implosion.Concentration.Name",
+    "ProcessTemplates": false,
+    "enGB": "Implosion (Concentration)",
+    "zhCN": "内爆术（专注） ",
+    "ruRU": "Схлопывание (Концентрация)"
+  },
+  {
+    "Key": "Implosion.Cooldown.Name",
+    "ProcessTemplates": false,
+    "enGB": "Implosion (Cooldown)",
+    "zhCN": "内爆术（冷却）",
+    "ruRU": "Схлопывание (кулдаун)"
+  },
+  {
+    "Key": "Implosion.Watcher.Name",
+    "ProcessTemplates": false,
+    "enGB": "Implosion (Watcher)",
+    "zhCN": "内爆术（监视）",
+    "ruRU": "Схлопывание (Отслеживатель)"
+  },
+
+  {
+    "Key": "InvisibilityPurge.Name",
+    "ProcessTemplates": false,
+    "enGB": "Invisibility Purge",
+    "zhCN": "消除隐形",
+    "ruRU": "Разрушение невидимости"
+  },
+  {
+    "Key": "InvisibilityPurge.Description",
+    "enGB": "You surround yourself with a sphere of power that negates all forms of invisibility. The radius of this effect is 5 feet for every 2 caster levels, minimum 5 feet. The maximum radius is 50 feet.",
+    "zhCN": "你被一种可以中和任何形式隐形的球形力量所包围，该球形的半径是每两个施法者等级5尺，最小5尺，最大50尺。",
+    "ruRU": "Вы окружаете себя сферой силы, которая нейтрализует все формы невидимости. Радиус этого эффекта составляет 5 футов за каждые 2 уровня заклинателя. Минимальный радиус - 5 футов, максимальный - 50 футов."
+  },
+
+  {
+    "Key": "JudgementLight.Name",
+    "ProcessTemplates": false,
+    "enGB": "Judgement Light",
+    "zhCN": "审判之光",
+    "ruRU": "Свет приговора"
+  },
+  {
+    "Key": "JudgementLight.Description",
+    "enGB": "An inquisitor may only cast this spell while she has a judgment active. When she does cast this spell, it causes one or more of the following effects based on the inquisitor’s active judgments.\nDestruction: Red light erupts from the caster. Enemies in the area take 4d8 points of damage and become shaken for 1d4 rounds. A successful Will saving throw halves the damage and negates the shaken effect.\nHealing: Green light erupts from the caster. Allies in the area regain a number of hit points equal to 1d8 + the caster’s Wisdom modifier.\nJustice: Blue light erupts from the caster, revealing hidden and invisible creatures to all. The light outlines such creatures for 1 round per caster level, imposing a –20 penalty on Stealth checks on those creatures.\nPiercing: Violet light erupts from the caster, reducing the spell resistance of enemies within the burst by 5 for 1 round per caster level.\nProtection: Amber light erupts from the caster, granting allies in the burst a +2 sacred bonus to AC and CMD, and a +4 bonus to AC against critical confirmation attack rolls for 1 round per caster level.\nResiliency: Golden light erupts from the caster, granting allies within the burst DR 3 of the same type granted by your judgement.\nPurity: White light erupts from the caster, attempting a dispel check on each ally within the burst with a +2 bonus on the roll.\nResistance: Copper light erupts from the caster, granting allies within the burst resistance 5 against the energy the judgment protects the inquisitor against when she casts this spell for 1 round per caster level.\nSmiting: Silver light erupts from the caster, making allies’ weapons within the burst count as magic, the alignment her weapon is, and adamantine for purposes of overcoming damage reduction for 1 round per caster level.",
+    "zhCN": "审判官只能在她的审判有效时施放此法术。当她施放这个法术时，会根据审判官当前激活的审判以下一种或多种效果。\n惩戒：施法者爆出红色光芒。范围内的敌人受到4d8伤害并战栗1轮。成功的意志豁免减半伤害并免除战栗效果。\n治疗：施法者爆出绿色光芒，范围内友军回复等于1d8 + 施法者感知调整值的生命值。 \n正义：施法者爆出蓝色光芒，暴露出全部隐藏和隐形的敌人 。光芒会在每施法者等级1轮内标记他们，对其隐匿检定造成-20减值。\n锐刺：施法者爆出紫色光芒，减少范围内敌人5点法术抗力，持续每施法者等级1轮。 \n保护：施法者爆出琥珀色光芒，给予友军在AC和CMD上+2崇圣加值，对抗重击确认的AC上+4加值，持续每施法者等级1轮。 \n韧性：施法者爆出金色光芒，给予范围内友军和审判同类型的DR3。\n纯洁：施法者爆出白色光芒，尝试解除范围内每个盟友身上魔法效果，并获得+2加值。\n抗性：施法者爆出铜色光芒，给予范围内盟友5点和施法者审判保护同类型的能量抗性，持续每施法者等级1轮。\n制裁：施法者爆出银色光芒，使得范围内友军的武器被视为魔法武器，和审判官武器同阵营，并在用于穿透伤害减免时视为精金武器，持续每施法者等级1轮。",
+    "ruRU": "Инквизитор может сотворить это заклинание, только если у неё есть действуюшие Приговоры. Когда это заклинание сотворено, оно вызывет один или более эффектов из списка в зависимости от того, какие Приговоры были активны в момент сотворения.\nРарушение: Заклинатель испускает из себя поток красного света. Все враги, осенённые этим светом получают 4d8 урона огнём и оказываются потрясены на 1d4 раунда. Успешный спасбросок Воли снижает урон наполовину и нейтрализует эффект потрясения. \nЛечение: Заклинатель испускает из себя поток зелёного света. Осенённые этим светом союзники исцеляют урон в размере 1d8 + модифиактор Мудрости заклинателя. \nСправедливость: Заклинатель испускает из себя поток голубого света, который выявляет всех скрытых и невидимых существ. Свет очерчивает контуры таких существ в течении 1 раунда за каждый уровень заклинателя, накладывая на них штраф -20 к проверкам Скрытности. \nПреодоление: Заклинатель испускает из себя поток фиолетового света. У осенённы[ этим светом врагов Сопротивление магии понижается на 5. Эффект длится один раунд за каждый Уровень заклинателя \nЗащита: Заклинатель испускает из себя поток янтарного света. Осенённые этим светом союзники получают Сакральный бонус +2 к Защите и Защите от боевых приёмов, а также бонус +4 к Защите против бросков подтверждения критического попадания. Эффект длится один раунд за каждый Уровень заклинателя. \nЖивучесть: Заклинатель испускает из себя поток золотого света. Осенённые этим светом союзники получают Снижение урона 1/магическое или против мировозрения, от которого защищал Приговор в тот момент, когда заклинание было сотворено. Эффект длится один раунд за каждый Уровень заклинателя. \nЧистота: Заклинатель испускает из себя поток белого света, совершая попытку развеять заклинание на каждом союзнике в зоне действия с бонусом +2. \nУстойчивость: Заклинатель испускает из себя поток медного света. Осенённые этим светом союзники получают Сопротивление энергии 5 против того типа энергии, от которой Инквизитора защищал Приговор в тот момент, когда заклинание было сотворено. Эффект длится один раунд за каждый Уровень заклинателя. \nСокрушение: Заклинатель испускает из себя поток серебристого света. Оружие осенённых этим светом союзников после этого считается магическим, адамантиновым и соответствующим его мировозрению при расчёте преодоления Снижения урона. Этот эффект длится 1 раунд за каждый Уровень заклинателя."
+  },
+  {
+    "Key": "JudgementLight.Justice.Name",
+    "ProcessTemplates": false,
+    "enGB": "Light of Justice",
+    "zhCN": "正义之光",
+    "ruRU": "Свет справедливости."
+  },
+  {
+    "Key": "JudgementLight.Justice.Description",
+    "enGB": "Blue light erupts from the caster, revealing hidden and invisible creatures to all. The light outlines such creatures for 1 round per caster level, imposing a –20 penalty on Stealth checks on those creatures.",
+    "zhCN": "施法者爆出蓝色光芒，暴露出全部隐藏和隐形的敌人 。光芒会在每施法者等级1轮内标记他们，对其隐匿检定造成-20减值。",
+    "ruRU": "Заклинатель испускает из себя поток голубого света, который выявляет всех скрытых и невидимых существ. Свет очерчивает контуры таких существ в течении 1 раунда за каждый уровень заклинателя, накладывая на них штраф -20 к проверкам Скрытности."
+  },
+  {
+    "Key": "JudgementLight.Piercing.Name",
+    "ProcessTemplates": false,
+    "enGB": "Piercing Light",
+    "zhCN": "锐刺之光",
+    "ruRU": "Свет преодоления"
+  },
+  {
+    "Key": "JudgementLight.Piercing.Description",
+    "enGB": "Violet light erupts from the caster, reducing the spell resistance of enemies within the burst by 5 for 1 round per caster level.",
+    "zhCN": "施法者爆出紫色光芒，减少范围内敌人5点法术抗力，持续每施法者等级1轮。",
+    "ruRU": "Заклинатель испускает из себя поток фиолетового света. У осенённы[ этим светом врагов Сопротивление магии понижается на 5. Эффект длится один раунд за каждый Уровень заклинателя."
+  },
+  {
+    "Key": "JudgementLight.Protection.Name",
+    "ProcessTemplates": false,
+    "enGB": "Protecting Light",
+    "zhCN": "保护之光",
+    "ruRU": "Свет защиты"
+  },
+  {
+    "Key": "JudgementLight.Protection.Description",
+    "enGB": "Amber light erupts from the caster, granting allies in the burst a +2 sacred bonus to AC and CMD, and a +4 bonus to AC against critical confirmation attack rolls for 1 round per caster level.",
+    "zhCN": "施法者爆出琥珀色光芒，给予友军在AC和CMD上+2崇圣加值，对抗重击确认的AC上+4加值，持续每施法者等级1轮。",
+    "ruRU": "Заклинатель испускает из себя поток янтарного света. Осенённые этим светом союзники получают Сакральный бонус +2 к Защите и Защите от боевых приёмов, а также бонус +4 к Защите против бросков подтверждения критического попадания. Эффект длится один раунд за каждый Уровень заклинателя."
+  },
+  {
+    "Key": "JudgementLight.Resiliency.Name",
+    "ProcessTemplates": false,
+    "enGB": "Light of Resiliency",
+    "zhCN": "韧性之光",
+    "ruRU": "Свет живучести"
+  },
+  {
+    "Key": "JudgementLight.Resiliency.Description",
+    "enGB": "Golden light erupts from the caster, granting allies within the burst DR 3/magic or the alignment your judgment allows for 1 round per caster level.",
+    "zhCN": "施法者爆出金色光芒，给予范围内友军和审判同类型的DR3。",
+    "ruRU": "Заклинатель испускает из себя поток золотого света. Осенённые этим светом союзники получают Снижение урона 1/магическое или против мировозрения, от которого защищал Приговор в тот момент, когда заклинание было сотворено. Эффект длится один раунд за каждый Уровень заклинателя."
+  },
+  {
+    "Key": "JudgementLight.Resistance.Name",
+    "ProcessTemplates": false,
+    "enGB": "Light of Resistance",
+    "zhCN": "抗性之光",
+    "ruRU": "Свет устойчивости"
+  },
+  {
+    "Key": "JudgementLight.Resistance.Description",
+    "enGB": "Copper light erupts from the caster, granting allies within the burst resistance 5 against the energy the judgment protects the inquisitor against when she casts this spell for 1 round per caster level.",
+    "zhCN": "施法者爆出铜色光芒，给予范围内盟友5点和施法者审判保护同类型的能量抗性，持续每施法者等级1轮。",
+    "ruRU": "Заклинатель испускает из себя поток медного света. Осенённые этим светом союзники получают Сопротивление энергии 5 против того типа энергии, от которой Инквизитора защищал Приговор в тот момент, когда заклинание было сотворено. Эффект длится один раунд за каждый Уровень заклинателя."
+  },
+  {
+    "Key": "JudgementLight.Smiting.Name",
+    "ProcessTemplates": false,
+    "enGB": "Smiting Light",
+    "zhCN": "制裁之光",
+    "ruRU": "Свет сокрушения"
+  },
+  {
+    "Key": "JudgementLight.Smiting.Description",
+    "enGB": "Silver light erupts from the caster, making allies’ weapons within the burst count as magic, the alignment her weapon is, and adamantine for purposes of overcoming damage reduction for 1 round per caster level.",
+    "zhCN": "施法者爆出银色光芒，使得范围内友军的武器被视为魔法武器，和审判官武器同阵营，并在用于穿透伤害减免时视为精金武器，持续每施法者等级1轮。",
+    "ruRU": "Заклинатель испускает из себя поток серебристого света. Оружие осенённых этим светом союзников после этого считается магическим, адамантиновым и соответствующим его мировозрению при расчёте преодоления Снижения урона. Этот эффект длится 1 раунд за каждый Уровень заклинателя."
+  },
+
+  {
+    "Key": "KeenEdge.Name",
+    "ProcessTemplates": false,
+    "enGB": "Keen Edge",
+    "zhCN": "锐锋术",
+    "ruRU": "Бритвенная острота"
+  },
+  {
+    "Key": "KeenEdge.MainHand.Name",
+    "ProcessTemplates": false,
+    "enGB": "Keen Edge (Main Hand)",
+    "zhCN": "锐锋术（主手）"
+  },
+  {
+    "Key": "KeenEdge.OffHand.Name",
+    "ProcessTemplates": false,
+    "enGB": "Keen Edge (Off Hand)",
+    "zhCN": "锐锋术（副手）"
+  },
+  {
+    "Key": "KeenEdge.Description",
+    "enGB": "This spell makes a weapon magically keen, improving its ability to deal telling blows. This transmutation doubles the threat range of the weapon. A threat range of 20 becomes 19-20, a threat range of 19-20 becomes 17-20, and a threat range of 18-20 becomes 15-20. The spell can be cast only on piercing or slashing weapons.\nMultiple effects that increase a weapon’s threat range (such as the keen special weapon property and the Improved Critical feat) don’t stack. You can’t cast this spell on a natural weapon, such as a claw.",
+    "zhCN": "这个法术可以使一件武器锋利异常，提升其重击能力。该法术使武器的重击范围加倍。原重击范围为20者变为19 – 20, 原为19 – 20者变为17 – 20, 原为18 – 20者变为15 – 20。此法术只能施展在穿刺或挥砍武器上。\n多种增加武器重击范围的效果 (例如武器自带锐锋属性和精通重击专长) 不能相叠加。你不能将该法术施放至天生武器上，比如爪抓。",
+    "ruRU": "Это заклинание делает оружие по-волшебному острым, повышая его шансы нанести решающий удар. Эта трансмутация удваивает диапазон критического удара оружия. Диапазон 20-20 становится 19-20, 19-20 становится 17-20, а 18-20 становится 15-20. Это заклинание можно применить только на режущее или колющее оружие.\nРазличные эффекты, увеличивающие диапазон критического удара (такие как особенность магического оружия Острое или черта Улучшенный критический удар) не складываются между собой. Это заклинание нельзя применить на естественное оружие, такое как когти."
+  },
+
+  {
+    "Key": "MortalTerror.Name",
+    "ProcessTemplates": false,
+    "enGB": "Mortal Terror",
+    "zhCN": "惧死术",
+    "ruRU": "Смертный ужас"
+  },
+  {
+    "Key": "MortalTerror.Description",
+    "enGB": "The target is shaken, and the first time each round the target takes damage (including the first round of the spell’s duration), it must succeed at another Will save or its fear level increases by one step (from shaken to frightened, and from frightened to cowering). If the target succeeds at the initial Will save, it is shaken for 1 round but its fear level cannot be further increased by this spell’s effects during that round.",
+    "zhCN": "目标变得战栗，并在每轮第一次受到伤害时（包括法术持续时间的第一轮），他必须成功通过一个意志豁免否则他的恐惧等级会上升一级（从战栗到惊恐，从惊恐到畏缩）。如果目标成功通过了一开始的意志检定，它会战栗1轮，但它的恐惧等级不能在那一轮中被法术效果进一步提升。"
+  },
+
+  {
+    "Key": "NineLives.Name",
+    "ProcessTemplates": false,
+    "enGB": "Nine Lives",
+    "zhCN": "九命天猫",
+    "ruRU": "Девять жизней"
+  },
+  {
+    "Key": "NineLives.Description",
+    "enGB": "Despite its name, this powerful ward does not grant the target multiple lives, but rather gives the target the ability to get out of trouble and relieves harmful effects and conditions. For the spell’s duration, the target is protected by the following abilities, but only up to a total of nine times, at which point the spell ends.\nCat's Luck: Reroll a failed saving throw.\nFortitude: Negate a critical hit or sneak attack.\nRejuvenate: When reduced to 0 or fewer hit points, immediately heal 3d6 points of damage.\nShake Off: Negate blinded, confused, cowering, dazed, dazzled, entangled, exhausted, fatigued, frightened, nauseated, shaken, sickened, or staggered.\nShimmy Out: Escape from being grappled.\nStay Up: Do not fall prone.",
+    "zhCN": "和法术的名字不同，这个强大的法术并不能赋予目标更多的生命，而是在一定程度上给予目标脱离险境以及减轻有害效果的能力。在法术持续时间内，目标会被以下能力保护，但是使用9次效果后，法术结束。\n猫之幸运：重投一次失败的豁免检定。\n坚韧：抵消一次重击或者偷袭。\n回春：生命值减少到0或更低时，立即只掉3d6伤害。\n摆脱： 抵消目盲、困惑、畏缩、眩晕、目眩、纠缠、力竭、疲劳、惊恐、反胃、战栗、反胃或恍惚。\n逃脱：从擒抱中脱离。\n稳定：防止摔倒。",
+    "ruRU": "Несмотря на своё название, этот могущественный оберег не ограждает свою цель от смерти и не возвращает к жизни. Вместо этого он просто даёт возможность выбраться из передряги и нейтрализует негативные воздействия. На время действия заклинания на кель накладываются следующие эффекты, но в сумме они могут сработать только 9 раз, после чего заклинание развеивается.\nКошачья удача: перебросьте неудачный спасбросок.\nСтойкость: нейтрализуйте критическое попадание или атаку исподтишка. \nВливание жизненных сил: когда здоровье падает до 0, мгновенно исцелите 3d6 урона. \nИзбавление: нейтрализуйте состояние ослепления, замешательства, паники, ступора, растерянности, обессиливания, усталости, испуга, тошноты, болезни и потрясения. \nВыскользнуть: вырветесь из захвата.\nВставай: не окажитесь сбитым с ног."
+  },
+
+  {
+    "Key": "ScreamingFlames.Name",
+    "ProcessTemplates": false,
+    "enGB": "Screaming Flames",
+    "zhCN": "尖叫火墙",
+    "ruRU": "Завывающее пламя"
+  },
+  {
+    "Key": "ScreamingFlames.Description",
+    "enGB": "You blast your foes with fire shaped into skulls screaming in agony. Creatures hit by the fire must succeed at a Reflex save or take 1d8 points of fire damage for every 2 caster levels you have (maximum 5d8). Each affected creature must also succeed at a Will save or take 1d3 points of Wisdom damage.",
+    "zhCN": "你用形如在极度痛苦中尖叫的骷髅形状的火墙攻击敌人。被击中的生物必须成功通过一次反射豁免，否则受到1d8点/你每有2个施法者等级的火焰伤害(最大5d8)。任何受到火焰伤害的生物必须成功通过一次意志豁免，否则受到1d3点感知伤害。",
+    "ruRU": "Вы швыряете в своих врагов сгусток пламени в форме черепов, завывающих от боли и страданий. Существа, в которых попал огонь, должны совершить успешный спасбросок Реакции или получат 1d8 огненного урона за каждые 2 ваших уровня заклинателя (до максимума 5d8). Каждое задетое существо такде должно совершить успешный спасбросок Воли или получить 1d3 урона Мудрости."
+  },
+
+  {
+    "Key": "ShadowTrap.Name",
+    "ProcessTemplates": false,
+    "enGB": "Shadow Trap",
+    "zhCN": "阴影陷阱",
+    "ruRU": "Ловушка для тени"
+  },
+  {
+    "Key": "ShadowTrap.Description",
+    "enGB": "You pin the target’s shadow to its current location, causing the target to become entangled and preventing it from moving, as if its shadow were anchored to the terrain. 1 round after casting, the target receives a new saving throw to end the effect at the start of each turn.",
+    "zhCN": "你将目标的影子在它目前的位置上钉住，让此目标被纠缠，并阻止目标移动，如同他的影子被锚定在了地上。释放1轮后，每一轮到其行动时，目标可以尝试新的豁免检定来结束此效果。",
+    "ruRU": "Вы прикалываете тень своей цели к поверхности, на которую отброшена эта тень. В результате цель оказывается опутанной и неспособной передвигаться, как если бы она была привязана тенью к этой точке."
+  },
+
+  {
+    "Key": "StrickenHeart.Name",
+    "ProcessTemplates": false,
+    "enGB": "Stricken Heart",
+    "zhCN": "剜心手",
+    "ruRU": "Расколотое сердце"
+  },
+  {
+    "Key": "StrickenHeart.Description",
+    "enGB": "This spell covers your hand with a writhing black aura. As part of casting the spell, you can make a melee touch attack that deals 2d6 points of negative energy damage and causes the target to be staggered for 1 round. If the attack is a critical hit, the target is staggered for 1 minute instead. Creatures immune to precision damage are immune to the staggered effect.",
+    "zhCN": "该法术会用一股扭曲的黑色灵光包覆你的手掌。作为施法的一部分，你能够进行一次近战接触攻击，这会造成2d6点负能量伤害，并且导致目标恍惚1轮。若这次攻击造成了重击，那么目标会恍惚1分钟作为替代。免疫精准伤害的生物也会免疫这个恍惚效果。",
+    "ruRU": "Это заклинание окутывает вашу руку извивающейся чёрной аурой. Как часть сотворения заклинания, вы можете совершить касанием атаку ближнего боя, которая наносит 2d6 урона негативной энергии и ошеломляет цель на 1 раунд. Если атака наносит критическое попадание, цель оказывается ошеломлённой на 1 минуту. Существа невосприимчивые к урону точности также невосприимчивы к этому эффекту ошеломления."
+  },
+
+  {
+    "Key": "TouchOfBlindness.Name",
+    "ProcessTemplates": false,
+    "enGB": "Touch of Blindness",
+    "zhCN": "目盲之触",
+    "ruRU": "Прикосновение слепоты"
+  },
+  {
+    "Key": "TouchOfBlindness.Touch.Name",
+    "ProcessTemplates": false,
+    "enGB": "Touch of Blindness (Touch)",
+    "zhCN": "目盲之触（接触）"
+  },
+  {
+    "Key": "TouchOfBlindness.Description",
+    "enGB": "A touch from your hand, which is engulfed in darkness, disrupts a creature’s vision by coating its eyes in supernatural darkness. Each touch causes the target to become blinded for 1 round unless it makes a successful Fortitude saving throw. You can use this melee touch attack up to one time per caster level.",
+    "zhCN": "来自你那被黑暗所吞噬的手的接触，用超自然黑暗涂抹于于一个生物的眼睛，破坏他的视力。每一次接触都会使目标目盲一轮，除非他通过了强韧检定。你可以使用此近战接触攻击最多每施法者等级一次。",
+    "ruRU": "Касание вашей окутанной тьмой руки лишает цель зрения, заволакивая глаза сверхъестественной тьмой. Каждое прикосновение осталяет цель ослеплённой на 1 раунд, если она не совершит успешный спасбросок Стойкости. Вы можете использовать эту атаку касанием 1 раз за каждые 3 уровня заклинателя."
+  },
+
+  {
+    "Key": "UnshakableZeal.Name",
+    "ProcessTemplates": false,
+    "enGB": "Unshakable Zeal",
+    "zhCN": "狂热执念",
+    "ruRU": "Непоколебимое рвение"
+  },
+  {
+    "Key": "UnshakableZeal.Description",
+    "enGB": "You fill the target with boundless enthusiasm and faith in its ultimate triumph. Whenever the target fails an attack roll, a save, a skill check, or a concentration check, the target receives a +4 morale bonus on its next attempt at the failed check within 1 round (this includes attack rolls against the same foe, saving throws against the same ability from the same foe, and so on). The target also receives a +2 bonus on saving throws against fear and emotion effects.",
+    "zhCN": "你让目标的心中充满无尽的热情与信念，引领它最终迈向成功。每当目标在一次攻击检定、豁免检定、技能检定、专注检定或属性检定中失败时，目标会在1轮内尝试的下一次该失败检定中获得+4士气加值（这包括对抗相同敌人的攻击检定，对抗源自相同敌人的相同能力的豁免检定等等）。此外，当目标将要受到一个恐惧或情绪效果影响时豁免检定获得+2加值",
+    "ruRU": "Вы наполняете цель безграничным энтузиазмом и верой в неизбежный триумф. Когда цель проваливает бросок атаки, спасбросок, проверку навыка или концентрации, цель получает бонус Морали +4 к следующей попытке пройти эту проверку (это вкючает в себя следующую атаку по той же цели, спасбросок против той же способности от того же врага и т.д.). Помимо этого цель получает бонус Морали +2 против эффектов страха и воздействия на эмоции."
+  },
+
+  {
+    "Key": "WeaponOfAwe.Name",
+    "ProcessTemplates": false,
+    "enGB": "Weapon of Awe",
+    "zhCN": "敬畏武器",
+    "ruRU": "Оружие благоговения"
+  },
+  {
+    "Key": "WeaponOfAwe.MainHand.Name",
+    "ProcessTemplates": false,
+    "enGB": "Weapon of Awe (Main Hand)",
+    "zhCN": "敬畏武器（主手）"
+  },
+  {
+    "Key": "WeaponOfAwe.OffHand.Name",
+    "ProcessTemplates": false,
+    "enGB": "Weapon of Awe (Off Hand)",
+    "zhCN": "敬畏武器（副手）"
+  },
+  {
+    "Key": "WeaponOfAwe.Description",
+    "enGB": "You transform a single weapon into an awe-inspiring instrument. The weapon gains a +2 sacred bonus on damage rolls, and if the weapon scores a critical hit, the target of that critical hit becomes shaken for 1 round with no Saving Throw.\nThis is a mind-affecting fear effect. A ranged weapon affected by this spell applies these effects to its ammunition.\nYou can’t cast this spell on a natural weapon, but you can cast it on an unarmed strike.",
+    "zhCN": "你把一件武器变成了一件令人敬畏的象征物。这把武器在伤害骰上获得+2神圣加值，并且当武器重击，被重击的目标将会无豁免的战栗一轮。\n这个恐惧是一个影响心灵效果。一把远程武器可以自动让弹药附加这些效果。\n你不能在天生武器上施放该法术，但是你可以把它用在徒手打击上。",
+    "ruRU": "Вы превращаете одно своё оружие в объект, приводящий всех в благоговейный трепет. Оружие получает Сакральный бонус +2, и если атака им наносит критическое попадание, цель этого критического попадания оказывается потрясённой на 1 раунд без возможности совершить спасбросок для нейтрализации.\nЭто воздействующий на разум эффект страха. При использовании на оружие дальнего боя, эффект распространяется на используемые стрелы и другую используемую аммуницию.\nЭто заклинание нельзя использовать на естественное оружие, но можно  использовать на кулаки."
+  },
+
+  {
+    "Key": "Wrath.Name",
+    "ProcessTemplates": false,
+    "enGB": "Wrath",
+    "zhCN": "狂怒",
+    "ruRU": "Ярая ненависть"
+  },
+  {
+    "Key": "Wrath.Description",
+    "enGB": "Choose one enemy creature that you can see within 50 feet. You gain a +1 morale bonus on attack rolls and weapon damage rolls against that designated creature for every three caster levels you have (at least +1, maximum +3). You also receive this bonus on caster level checks made to overcome the creature’s Spell Resistance, if any. At 12th level, you gain the benefits of the Improved Critical feat on attack rolls made against the designated creature. This effect doesn’t stack with any other effect that expands the threat range of a weapon.",
+    "zhCN": "选择50尺内一个你可以看到的敌方生物。你获得每3施法者等级+1的士气加值 (至少+1，最高+3) 在对指定生物的攻击和伤害掷骰上。如果目标有法术抗力，在击破目标生物的法术抗力时的施法者等级检定上，你也获得相同加值。在12级时，你对目标生物如同拥有了精通重击专长。这个效果不与其他任何扩大武器重击威胁范围的效果叠加。",
+    "ruRU": "Выберите одно существо в пределах 50 футов в зоне вашей видимости. За каждые 3 уровня заклинателя вы получаете бонус Морали +1 (минимум +1, максимум +3) на броски атаки и урона оружием по выбранной цели и на броски преодоления Сопротивления Магии этой цели. На 12 уровне вы получаете преимущества черты Улучшенный Критический Удар, когда атакуете выбранную цель. Этот эффект не суммируется с другими эффектами, увеличивающими диапазон критического удара оружием."
+  }
+]
