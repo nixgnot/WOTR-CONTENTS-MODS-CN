@@ -183,6 +183,12 @@ namespace QuickLocalization
                         if (modPath != null)
                         {
                             var path = Path.Combine(AllModDirectory, modPath);
+                            if (!File.Exists(path))
+                            {
+                                Logger.Log($"\t对应的语言文件不存在！ item = {item} TTT_Path={path}");
+                                Warnings.Add(new LocalizationWarning(item, $"对应的语言文件不存在！ item = {item} TTT_Path={path}"));
+                                continue;
+                            }
                             Logger.Log($"\t存在对应语言文件：{path}，开始覆盖Key");
                             var rawJson = File.ReadAllText(path);
                             var rawLocalizationPack = JsonConvert.DeserializeObject<TTTMultiLocalizationPack>(rawJson);

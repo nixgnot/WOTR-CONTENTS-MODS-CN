@@ -2,7 +2,7 @@
   "Id": "QuickLocalization",
   "DisplayName": "QuickLocalization",
   "Author": "skyswordkill",
-  "Version": "1.3.3",
+  "Version": "1.3.4",
   "ManagerVersion": "0.21.3",
   "AssemblyName": "QuickLocalization.dll",
   "EntryMethod": "QuickLocalization.Main.Load"

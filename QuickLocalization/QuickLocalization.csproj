@@ -7,7 +7,7 @@
 		-->
     <LangVersion>latest</LangVersion>
     <!-- Latest .NET version supported by Wrath / Unity -->
-    <TargetFramework>net472</TargetFramework>
+    <TargetFramework>net48</TargetFramework>
     <!-- Needed to use publicized assembly -->
     <AllowUnsafeBlocks>true</AllowUnsafeBlocks>
     
