@@ -83,7 +83,7 @@
 | [PathofWar](#PathofWar) | 战争之路 | ql汉化 | :heavy_check_mark: | :+1: | :file_folder: |🛠️||
 | [RandomEquipment](#RandomEquipment) | 随机装备 | 暂无 | :heavy_check_mark: | :+1::+1: | :file_folder: |🛠️||
 | [MythicSpellFlexibility](#MythicSpellFlexibility) | 灵活神话法术 | 暂无 | :heavy_check_mark: | :+1:| :file_folder: |🛠️||
-| [SpellSlotFreedom](#SpellSlotFreedom) | 自由法术位 | 无需 | :heavy_check_mark: | :+1:| :file_folder: |🛠️||
+| [SpellSlotFreedom](#SpellSlotFreedom) | 灵活法术位 | 无需 | :heavy_check_mark: | :+1:| :file_folder: |🛠️||
 | [MagicArmory](#MagicArmory) | 魔法军械库 | 暂无 | :heavy_check_mark: | :+1:| :file_folder: |||
 
 备注
