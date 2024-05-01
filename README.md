@@ -82,8 +82,8 @@
 | [WOTR_MAKING_FRIENDS](#WOTR_MAKING_FRIENDS) | 召唤师 | QL汉化 | :heavy_check_mark: | :+1: | :file_folder: |🛠️||
 | [PathofWar](#PathofWar) | 战争之路 | ql汉化 | :heavy_check_mark: | :+1: | :file_folder: |🛠️||
 | [RandomEquipment](#RandomEquipment) | 随机装备 | 暂无 | :heavy_check_mark: | :+1::+1: | :file_folder: |🛠️||
-| [MythicSpellFlexibility](#MythicSpellFlexibility) | 灵活神话法术 | 暂无 | :heavy_check_mark: | :+1:| :file_folder: |🛠️||
-| [SpellSlotFreedom](#SpellSlotFreedom) | 灵活法术位 | 无需 | :heavy_check_mark: | :+1:| :file_folder: |🛠️||
+| [MythicSpellFlexibility](#MythicSpellFlexibility) | 灵活神话法术 |  | :heavy_check_mark: | :+1:| :file_folder: |🛠️||
+| [SpellSlotFreedom](#SpellSlotFreedom) | 灵活法术位 |  | :heavy_check_mark: | :+1:| :file_folder: |🛠️||
 | [MagicArmory](#MagicArmory) | 魔法军械库 | 暂无 | :heavy_check_mark: | :+1:| :file_folder: |||
 
 备注
@@ -4290,7 +4290,7 @@ C:\Users\你的用户名\AppData\LocalLow\Owlcat Games\Pathfinder Wrath Of The R
 ------------------------------------------- 
 ### [MythicSpellFlexibility](https://github.com/alterasc/MythicSpellFlexibility)
 > *前置：* 无<br>
-> *中文：* **不需要**<br>
+> *中文：* **无文本**<br>
 > *安装方式：* **UMM**<br>
 > *新增内容：* 独特的神话法术会添加到角色所有的普通法术书中。<br>
 + 法术环数不变
@@ -4305,7 +4305,7 @@ C:\Users\你的用户名\AppData\LocalLow\Owlcat Games\Pathfinder Wrath Of The R
 ------------------------------------------- 
 ### [SpellSlotFreedom](https://www.nexusmods.com/pathfinderwrathoftherighteous/mods/603?tab=description) 
 > *前置：* 无<br>
-> *中文：* **不需要**<br>
+> *中文：* **无文本**<br>
 > *安装方式：* **UMM**<br>
 > *新增内容：* 能在没有升阶超魔的情况下使用高级法术位释放低级法术<br>
 + 通过在法术书菜单中，将你想要在更高级别施放的法术拖放到切换环位的按钮中你需要的法术级别上来把低级法术添加的更高的环位中。
