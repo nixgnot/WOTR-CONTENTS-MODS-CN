@@ -1,0 +1,290 @@
+[
+  {
+    "key": "Demon Blast.Name",
+    "ProcessTemplates": false,
+    "enGB": "Demonic Blast",
+    "zhCN": "恶魔冲击"
+  },
+  {
+    "key": "Demon Blast.SavingThrow",
+    "ProcessTemplates": false,
+    "enGB": "None",
+    "zhCN": "None"
+  },
+  {
+    "key": "Demon Blast.Description",
+    "ProcessTemplates": false,
+    "enGB": "As a {g|Encyclopedia:Move_Action}move action{/g}, you can let loose an explosion, dealing {g|Encyclopedia:Dice}2d6{/g} unholy {g|Encyclopedia:Damage}damage{/g} per mythic rank to all enemies in a 10 feet range.\n An enemy can only be damaged by this ability or Demonic Charge once per {g|Encyclopedia:Combat_Round}round{/g}.",
+    "zhCN": "以一个{g|Encyclopedia:Move_Action}移动动作{/g}， 你可以爆发出一阵冲击, 对10英尺范围内的所有敌人。造成每个神话阶层{g|Encyclopedia:Dice}2d6{/g}污邪{g|Encyclopedia:Damage}伤害{/g} 。\n 一个敌人一{g|Encyclopedia:Combat_Round}轮{/g}内只会受到一次这个能力或恶魔降临的伤害。"
+  },
+  {
+    "key": "DemonAspectSelection.Name",
+    "ProcessTemplates": false,
+    "enGB": "Demonologies",
+    "zhCN": "恶魔学识"
+  },
+  {
+    "key": "DemonAspectSelection.Description",
+    "ProcessTemplates": false,
+    "enGB": "Special abilties for controlling your rage.",
+    "zhCN": "用于支配你的狂怒的特殊能力。"
+  },
+  {
+    "key": "Demon Smash.Name",
+    "ProcessTemplates": false,
+    "enGB": "DEMONIC SMASH!",
+    "zhCN": "恶魔粉碎!"
+  },
+  {
+    "key": "Demon Smash.Description",
+    "ProcessTemplates": false,
+    "enGB": "You erupt into a frenzy and smash your melee weapon into a foe with explosive results.\nYou deal normal weapon damage on a hit to all targets in an area, and regardless if you hit or miss you deal {g|Encyclopedia:Dice}1d6{/g} {g|Encyclopedia:Energy_Damage}unholy{/g} and {g|Encyclopedia:Dice}1d6{/g} {g|Encyclopedia:Energy_Damage}fire{/g} {g|Encyclopedia:Damage}damage{/g} per mythic rank in a ten foot radius to all targets.\nFor each target affected you regain one round of Demon Rage. \nYou may do this 2 times a day with an additional time every other mythic rank.",
+    "zhCN": "你突然释放出自身的狂怒并挥舞你的近战武器粉碎敌人造成毁灭性的结果。\n你对区域内被命中的敌人造成普通武器伤害, 以及并且无论击中还是未击中，你都会对10英尺内每个目标造成每个神话阶层 {g|Encyclopedia:Dice}1d6{/g} {g|Encyclopedia:Energy_Damage}污邪{/g}和{g|Encyclopedia:Dice}1d6{/g} {g|Encyclopedia:Energy_Damage}火焰{/g} {g|Encyclopedia:Damage}伤害{/g}。\n每影响一个目标都会恢复你一轮恶魔狂怒\n您每天可以使用此能力2次，每隔一个神话阶层可额外执行一次。"
+  },
+  {
+    "key": "Consumed Soul Buff15cfd2144ae342629f20d00f530435a6.Name",
+    "ProcessTemplates": false,
+    "enGB": "Consumed Soul",
+    "zhCN": "吞噬灵魂"
+  },
+  {
+    "key": "Consumed Soul Buff15cfd2144ae342629f20d00f530435a6.Description",
+    "ProcessTemplates": false,
+    "enGB": "You have consumed a number of souls, you gain a stacking DC bonus to all Demon spells per soul consumed.",
+    "zhCN": "你已经吞噬了许多灵魂， 你每吞噬一个灵魂便在所有恶魔法术上获得可叠加的DC加值"
+  },
+  {
+    "key": "Consume Souls Abilityea6ea8860fe7470ab0bf427e598c494f.Name",
+    "ProcessTemplates": false,
+    "enGB": "Consume Souls",
+    "zhCN": "吞噬诸魂"
+  },
+  {
+    "key": "Consume Souls Abilityea6ea8860fe7470ab0bf427e598c494f.Description",
+    "ProcessTemplates": false,
+    "enGB": "You consume nearby souls of the recently dead, destroying their bodies and boosting your own abilities.\nWhen you do so, all special Demon spells DCs increase by 1 for each soul consumed, max 30. This bonus lasts twenty minutes with an additional ten minutes every two mythic ranks. You restore an round of Demon Rage and have a chance to restore a random spell-slot in your (non-merged) Demon spellbook per soul consumed.\nYou may use this ability once per day with an addtional use at 6th and 9th mythic rank.",
+    "zhCN": "你吞噬了附近最近死者的灵魂，摧毁了他们的尸体并增强了你自己的能力。\n当你这样做时，每吞噬一个灵魂，所有特殊的恶魔法术DC 都会增加1，最多30。此加值持续 20 分钟，每两个神话等级额外增加 10 分钟。你恢复一轮恶魔之怒，并且每吞噬一个灵魂的有机会随机恢复你（未合书的）恶魔法术书中的法术位。\n你每天可以使用此能力一次，并在6和9神话阶层时额外使用一次 。"
+  },
+  {
+    "key": "Unstable Balor Transformation.Name",
+    "ProcessTemplates": false,
+    "enGB": "Unstable Balor Form",
+    "zhCN": "不稳定的霸烙魔形态"
+  },
+  {
+    "key": "Demonic Form Sin Guzzlere0edd270bb504b45937fb60d047e0fd5.Name",
+    "ProcessTemplates": false,
+    "enGB": "Demonic Form - Sin Guzzler",
+    "zhCN": "恶魔形态 - 饮罪者"
+  },
+  {
+    "key": "Demonic Form Sin Guzzlere0edd270bb504b45937fb60d047e0fd5.Description",
+    "ProcessTemplates": false,
+    "enGB": "You transform into a Sin Guzzler. Gaining the Rend of the Glabrezu, DR10/Good, and are considered airborne.",
+    "zhCN": "你变成了饮罪者. 获得迷诱魔的撕扯能力, DR10/善良, 并且被视为飞空。"
+  },
+  {
+    "key": "Unleashed Sin Guzzler6c8f47ae288f44d5bfa621d2c91b7594.Name",
+    "ProcessTemplates": false,
+    "enGB": "Unleashed Sin Guzzler",
+    "zhCN": "释放饮罪者之力"
+  },
+  {
+    "key": "Unleashed Sin Guzzler6c8f47ae288f44d5bfa621d2c91b7594.Description",
+    "ProcessTemplates": false,
+    "enGB": "You may transform into a Sin Guzzler at-will for 24 hours.",
+    "zhCN": "您可以在 24 小时内随意变身饮罪者。"
+  },
+  {
+    "key": "Unleashed Demonbbd26df513044c01a56b5fad024a86bc.Name",
+    "ProcessTemplates": false,
+    "enGB": "Unleashed Demon",
+    "zhCN": "释放恶魔之力"
+  },
+  {
+    "key": "Unleashed Demonbbd26df513044c01a56b5fad024a86bc.Description",
+    "ProcessTemplates": false,
+    "enGB": "You learn to unleash the demons within you.\nWhile polymorphed into a demonic or shifter form for each attack that hits, you deal an extra 1d6 + Mythic Rank extra Unholy damage and have a 15% chance to restore a round of Demon Rage.\nYou also gain the ability to transform yourself into an unstable Balor as Demon Form IV for 30 seconds, attacking anything and anyone near you. You may do this an addtional every mythic rank.\nAt 9th mythic rank, you gain the ability to tranform into a Sin Guzzler, a powerful version of a Glabrezu, at will.",
+    "zhCN": "你学会释放内心的恶魔。\n当你变形为恶魔或处于变形状态时, 你每次攻击都会额外造成1d6＋神话阶层的污邪伤害并有 15% 的几率恢复一轮恶魔狂怒。\n你还可以获得将自己转变为不稳定的霸烙魔，恶魔形态 IV 的能力，持续 30 秒，攻击你附近的任何东西和任何人。你每有一个神话等级便可以额外使用一次此能力。\nn在第 9 神话等级时，你将获得随意转变成饮罪者的能力，这是迷诱魔更加强大的版本。"
+  },
+  {
+    "key": "carnage debuffb7805ba3039e4be9ac3417a54d85365f.Name",
+    "ProcessTemplates": false,
+    "enGB": "Victim Of Carnage",
+    "zhCN": "屠杀的祭品"
+  },
+  {
+    "key": "carnage debuffb7805ba3039e4be9ac3417a54d85365f.Description",
+    "ProcessTemplates": false,
+    "enGB": "You have been hit in combat and take 1d6 unholy damage, you become immune to this effect after 30 stacks.",
+    "zhCN": "你在战斗中被击中时会额外受到1d6点邪恶伤害，叠加30层后你将免疫该效果。”"
+  },
+  {
+    "key": "Carnage Blastf51dce1d186d4ca2bf82a0042d01e0e4.Name",
+    "ProcessTemplates": false,
+    "enGB": "Carnage Blast",
+    "zhCN": "屠杀的冲击"
+  },
+  {
+    "key": "Carnage Blastf51dce1d186d4ca2bf82a0042d01e0e4.Description",
+    "ProcessTemplates": false,
+    "enGB": "Deals 2d6 plus Mythic Rank damage in a 10 foot area.",
+    "zhCN": "在10英尺范围内造成2d6加神话阶层的伤害。"
+  },
+  {
+    "key": "Victim of Carnaged10450d49b0649418c64c182221c22e2.Name",
+    "ProcessTemplates": false,
+    "enGB": "Victim of Carnage",
+    "zhCN": "屠杀的祭品"
+  },
+  {
+    "key": "Victim of Carnaged10450d49b0649418c64c182221c22e2.Description",
+    "ProcessTemplates": false,
+    "enGB": "\nThe target takes 1d6 Unholy damage per round. When attacked weapon attack they take an additional 1d6 unholy damage.\nWhen they die they deal 2d6 plus Mythic Rank of damage to enemies in a 10 foot radius",
+    "zhCN": "\n目标每轮受到 1d6 邪恶伤害。 当受到武器攻击时，它们额外受到1d6污邪伤害。\n当它们死亡时，它们会对 10 英尺半径内的敌人造成2d6加神话阶层的伤害。"
+  },
+  {
+    "key": "Carnage Incarnate3b571402e82b491aa9671eb7c77fcda2.Name",
+    "ProcessTemplates": false,
+    "enGB": "Carnage Incarnate",
+    "zhCN": "大屠杀的化身"
+  },
+  {
+    "key": "Carnage Incarnate3b571402e82b491aa9671eb7c77fcda2.Description",
+    "ProcessTemplates": false,
+    "enGB": "You let loose a 30ft aura of carnage that causes enemies to die more often in explosive fashion.\nEnemies take 1d6 Unholy damage per round and each time an enemy dies while affected by this aura you restore a round of rage and they deal 2d6 Unholy damage plus Mythic Rank to all enemies within 10 feet.\nAny enemy under this effect will take 1d6 damage for every time they are attacked, hit or miss, up to 30 times a round.\nYou may use this ability for a number of rounds equal to your mythic rank.",
+    "zhCN": "你释放出30英尺的屠杀光环，导致敌人死亡时将会爆炸。\n敌人每轮受到 1d6 邪恶伤害，每当敌人在受到此光环影响时死亡，你就会恢复一轮狂怒，并对10英尺内的所有敌人造成2d6加神话阶层的污邪伤害。\n任何受到此效果的敌人每次受到攻击时，击中或未击中都会受到1d6点伤害，每轮最多30次。\n你可以使用此能力的轮数等于 达到你的神话等级。"
+  },
+  {
+    "key": "Rend Asunder Buff0ca731b3293c4deaa30c1a5444e901d6.Name",
+    "ProcessTemplates": false,
+    "enGB": "Frenzied",
+    "zhCN": "疯狂"
+  },
+  {
+    "key": "Rend Asunder Buff0ca731b3293c4deaa30c1a5444e901d6.Description",
+    "ProcessTemplates": false,
+    "enGB": "While Frenzied, you gain 1 extra attack at your highest Attack Bonus, this stacks with Haste.\nThe number of attacks increase by 1 at 6th and 9th Mythic Rank.\nThis lasts until the end of combat or until you equip a weapon or shield.",
+    "zhCN": "疯狂时，你能够以最高基础攻击加值进行一次额外攻击，并与加速术叠加。\n在神话阶层6和9时，额外攻击次数增加1次。\n这会持续到战斗结束或装备武器或盾牌为止 。"
+  },
+  {
+    "key": "Frenzy766217fd9e3d41388d4fac3502598afb.Name",
+    "ProcessTemplates": false,
+    "enGB": "Frenzy",
+    "zhCN": "疯狂"
+  },
+  {
+    "key": "Frenzy766217fd9e3d41388d4fac3502598afb.Description",
+    "ProcessTemplates": false,
+    "enGB": "During combat you can go into a frenzy so long as you are only using claws, gaining an extra attack that stacks with haste. The number of attacks increase by 1 at 6th and 9th Mythic Rank.\nYou may only use this ability when using claws in both hands. This ability lasts until the end of combat or until you equip a weapon or shield.\nYou may use this ability three times per day, with an additional time at 6th and 9th mythic rank.",
+    "zhCN": "在战斗中，只要你只使用爪子，你就可以陷入疯狂状态，获得与加速术叠加的额外攻击。 在神话阶层6和9时，攻击次数增加1。\n只有在双手使用爪子时才能使用此能力。 此能力持续到战斗结束或直到你装备武器或盾牌为止。\n你每天可以使用此能力3次，在6和9神话阶层时可以额外使用一次。"
+  },
+  {
+    "key": ".Name",
+    "ProcessTemplates": false,
+    "enGB": "Rend Asunder",
+    "zhCN": "开膛破肚"
+  },
+  {
+    "key": ".Description",
+    "ProcessTemplates": false,
+    "enGB": "They are rage, brutal, without mercy. But you. You will be worse. Rend Asunder, until it is done.\nYour claws deal 1d4 bleeding damage and you gain the Rend ability so long as you only have claws equipped, dealing 2d8 per Mythic Rank Unholy damage when both claw attacks hit. Whenever you successfully Rend, you have a 50% chance of gaining a round of Demon Rage.\nIn addition you gain the ability to frenzy, gaining additional attacks that stack with Haste as long as you wield only claws.\nThis bonus does not apply when polymorphed.",
+    "zhCN": "他们是愤怒的化身、残忍又冷血。但是你， 你比他们更可怕。开膛破肚, 直到一切结束。\n你的爪抓造成1d4流血伤害并且当你只使用爪抓时，你将获得撕扯能力，当两次爪抓都击中敌人时造成每个神话阶层2d8的污邪伤害。 每当你成功撕扯敌人时，你有50%的概率获得一轮恶魔狂怒。\n此外，你还获得疯狂的能力，只要你只使用爪抓时，就可以获得与加速术叠加的额外攻击。\n此加成不适用于变形形态。"
+  },
+  {
+    "key": "Aspect Of Lilithu Buffc8afe1389f784c3eb863338026822b1e.Name",
+    "ProcessTemplates": false,
+    "enGB": "Aspect Of Lilithu",
+    "zhCN": "利图魔相"
+  },
+  {
+    "key": "Aspect Of Lilithu Buffc8afe1389f784c3eb863338026822b1e.Description",
+    "ProcessTemplates": false,
+    "enGB": "Demon adopts the aspect of Lilithu, gaining a <b><color=#703565><link=\"Encyclopedia:Bonus\">bonus</link></color></b> to <b><color=#703565><link=\"Encyclopedia:Charisma\">Charisma</link></color></b> <b><color=#703565><link=\"Encyclopedia:Ability_Scores\">ability score</link></color></b> equal to half of the Demon's mythic rank plus one.\nThe aspect of Lilithu allows the Demon to cast all <b><color=#703565><link=\"Encyclopedia:Spell\">spells</link></color></b> or <b><color=#703565><link=\"Encyclopedia:Spell\">spell</link></color></b>-like abilities as if they had Selective Metamagic.\n Selective Metamagic: Your allies need not fear friendly fire.\nBenefit: When casting a selective <b><color=#703565><link=\"Encyclopedia:Spell\">spell</link></color></b> with an area effect and a duration of instantaneous, you can choose a number of targets in the area equal to the <b><color=#703565><link=\"Encyclopedia:Ability_Scores\">ability score</link></color></b> modifier used to determine bonus spells of the same type (<b><color=#703565><link=\"Encyclopedia:Charisma\">Charisma</link></color></b> for bards, oracles, paladins, sorcerers, and summoners; <b><color=#703565><link=\"Encyclopedia:Intelligence\">Intelligence</link></color></b> for witches and wizards; <b><color=#703565><link=\"Encyclopedia:Wisdom\">Wisdom</link></color></b> for clerics, druids, inquisitors, and rangers). These targets are excluded from the effects of your spell.\nSpells that do not have an area of effect or a duration of instantaneous do not benefit from this <b><color=#703565><link=\"Encyclopedia:Feat\">feat</link></color></b>.",
+    "zhCN": "恶魔显现出利图魔的外表, 在{g|Encyclopedia:Charisma}魅力{/g}上获得{g|Encyclopedia:Bonus}加值{/g}，其{g|Encyclopedia:Ability_Scores}数值{/g}等于恶魔的神话阶层的一半再加上1.\n利图魔相允许恶魔释放任何 {g|Encyclopedia:Spell}法术{/g}或类{g|Encyclopedia:Spell}法术{/g}的能力如同应用“甄选超魔”一般\n 法术甄选：在施放具有范围效果，且持续时间为立即的甄选法术时，你可以选择其范围内若干个目标，数量等于决定你额外法术的属性调整值（若你是吟游诗人、先知、圣武士、术士或召唤师，使用Encyclopedia:Charisma}魅力属性；若你是巫师和法师，使用{g|Encyclopedia:Intelligence}智力属性{/g}；若你是牧师、德鲁伊、审判官或游侠，使用感知属性）。这些目标被该法术的效果排除在外。\n法术如果没有效果范围或者不是瞬间生效时间，则不会受到此超魔的影响。"
+  },
+  {
+    "key": "Aspect Of Lilithu Switch Buff2a0a5451878b4e999a18ebdba6cdbd25.Description",
+    "ProcessTemplates": false,
+    "enGB": "Demon adopts the aspect of Lilithu, gaining a <b><color=#703565><link=\"Encyclopedia:Bonus\">bonus</link></color></b> to <b><color=#703565><link=\"Encyclopedia:Charisma\">Charisma</link></color></b> <b><color=#703565><link=\"Encyclopedia:Ability_Scores\">ability score</link></color></b> equal to half of the Demon's mythic rank plus one.\nThe aspect of Lilithu allows the Demon to cast all <b><color=#703565><link=\"Encyclopedia:Spell\">spells</link></color></b> or <b><color=#703565><link=\"Encyclopedia:Spell\">spell</link></color></b>-like abilities as if they had Selective Metamagic.\n Selective Metamagic: Your allies need not fear friendly fire.\nBenefit: When casting a selective <b><color=#703565><link=\"Encyclopedia:Spell\">spell</link></color></b> with an area effect and a duration of instantaneous, you can choose a number of targets in the area equal to the <b><color=#703565><link=\"Encyclopedia:Ability_Scores\">ability score</link></color></b> modifier used to determine bonus spells of the same type (<b><color=#703565><link=\"Encyclopedia:Charisma\">Charisma</link></color></b> for bards, oracles, paladins, sorcerers, and summoners; <b><color=#703565><link=\"Encyclopedia:Intelligence\">Intelligence</link></color></b> for witches and wizards; <b><color=#703565><link=\"Encyclopedia:Wisdom\">Wisdom</link></color></b> for clerics, druids, inquisitors, and rangers). These targets are excluded from the effects of your spell.\nSpells that do not have an area of effect or a duration of instantaneous do not benefit from this <b><color=#703565><link=\"Encyclopedia:Feat\">feat</link></color></b>.",
+    "zhCN": "恶魔显现出利图魔的外表, 在{g|Encyclopedia:Charisma}魅力{/g}上获得{g|Encyclopedia:Bonus}加值{/g}，其{g|Encyclopedia:Ability_Scores}数值{/g}等于恶魔的神话阶层的一半再加上1。\n利图魔相允许恶魔释放任何 {g|Encyclopedia:Spell}法术{/g}或类{g|Encyclopedia:Spell}法术{/g}的能力如同应用“甄选超魔”一般\n 法术甄选：在施放具有范围效果，且持续时间为立即的甄选法术时，你可以选择其范围内若干个目标，数量等于决定你额外法术的属性调整值（若你是吟游诗人、先知、圣武士、术士或召唤师，使用Encyclopedia:Charisma}魅力属性；若你是巫师和法师，使用{g|Encyclopedia:Intelligence}智力属性{/g}；若你是牧师、德鲁伊、审判官或游侠，使用感知属性）。这些目标被该法术的效果排除在外。\n法术如果没有效果范围或者不是瞬间生效时间，则不会受到此超魔的影响。"
+  },
+  {
+    "key": "Aspect Of oolioddroo Buff6b262f787f9d418ab65eae4c43eb6f54.Name",
+    "ProcessTemplates": false,
+    "enGB": "Aspect Of Oolioddroo",
+    "zhCN": "污蛀魔相"
+  },
+  {
+    "key": "Aspect Of oolioddroo Buff6b262f787f9d418ab65eae4c43eb6f54.Description",
+    "ProcessTemplates": false,
+    "enGB": "Demon adopts the aspect of Oolioddroo, gaining a {g|Encyclopedia:Bonus}bonus{/g} to {g|Encyclopedia:Dexterity}Dexterity{/g} {g|Encyclopedia:Ability_Scores}ability score{/g} equal to half of the Demon's mythic rank plus one.\nThe aspect of oolioddroo allows the Demon to reroll all attack rolls and concealment checks that fail.",
+    "zhCN": "恶魔显现出污蛀魔的外表, 在{g|Encyclopedia:Dexterity}敏捷{/g}上获得{g|Encyclopedia:Bonus}加值{/g}，其{g|Encyclopedia:Ability_Scores}数值{/g}等于恶魔的神话阶层的一半再加上1。\n污蛀魔相允许恶魔重掷所有失败的攻击检定和隐匿检定。"
+  },
+  {
+    "key": "Aspect Of oolioddroo Switch Buff9f00714512aa40059cc503ebfa9f877d.Description",
+    "ProcessTemplates": false,
+    "enGB": "Demon adopts the aspect of Oolioddroo, gaining a <b><color=#703565><link=\"Encyclopedia:Bonus\">bonus</link></color></b> to <b><color=#703565><link=\"Encyclopedia:Dexterity\">Dexterity</link></color></b> <b><color=#703565><link=\"Encyclopedia:Ability_Scores\">ability score</link></color></b> equal to half of the Demon's mythic rank plus one.\nThe aspect of oolioddroo allows the Demon to reroll all attack rolls and concealment checks that fail.",
+    "zhCN": "恶魔显现出污蛀魔的外表, 在{g|Encyclopedia:Dexterity}敏捷{/g}上获得{g|Encyclopedia:Bonus}加值{/g}，其{g|Encyclopedia:Ability_Scores}数值{/g}等于恶魔的神话阶层的一半再加上1。\n污蛀魔相允许恶魔重掷所有失败的攻击检定和隐匿检定。"
+  },
+  {
+    "key": "Mighty Demon Raged29e501d44834fae90f9ffa254bb1644.Name",
+    "ProcessTemplates": false,
+    "enGB": "Mighty Demon Rage",
+    "zhCN": "强大的恶魔狂怒"
+  },
+  {
+    "key": "Mighty Demon Raged29e501d44834fae90f9ffa254bb1644.Description",
+    "ProcessTemplates": false,
+    "enGB": "Once per Demon Rage you may cast any spell fourth level or lower from the Demon spellbook as a swift action.",
+    "zhCN": "每一次恶魔狂怒，你可以以一个迅捷动作从恶魔法术书中施放任何四级或更低的法术。"
+  },
+  {
+    "key": "BloodragerAbyssalDemonicAura.Description",
+    "ProcessTemplates": false,
+    "enGB": "At 16th level, when entering a bloodrage you can choose to exude an aura of fire. The aura is a 5-foot burst centered on you, and deals ({g|Encyclopedia:Dice}2d6{/g} + your {g|Encyclopedia:Constitution}Constitution{/g} modifier) points of {g|Encyclopedia:Energy_Damage}fire damage{/g} to creatures that start their turns within it.",
+    "zhCN": "16级起，在进入血承狂暴时，你可以选择让自己笼罩在火焰形成的灵光中。此灵光以你为中心，覆盖5英尺爆发范围，对在范围内结束回合的生物造成2d6+你的{g|Encyclopedia:Constitution}体质调整值{/g}的火焰伤害。"
+  },
+  {
+    "key": "BloodHaze.Description",
+    "ProcessTemplates": false,
+    "enGB": "You make your blood boil, making you faster and more ferocious. For 1 {g|Encyclopedia:Combat_Round}round{/g} per two caster levels, you gain the effects of the Haste {g|Encyclopedia:Spell}spell{/g} and a +2 Profane bonus to attack.\n Additionally, every time you reduce a creature below zero {g|Encyclopedia:HP}HP{/g}, you prolong the effect. If the killed creature had more HD than your {g|Encyclopedia:Caster_Level}caster level{/g}, the duration is increased by 3 rounds. Otherwise, it is increased by 1 round.",
+    "zhCN": "你让自己热血沸腾，变得更快和凶猛。每2施法等级1{g|Encyclopedia:Combat_Round}轮{/g}，你获得加速术的{g|Encyclopedia:Spell}法术{/g}效果并在攻击检定+2亵渎加值。\n 此外，每当你将一个生物{g|Encyclopedia:HP}HP{/g}减少到零以下时，你就能延长此效果。如果被杀死的生物拥有比你的{g|Encyclopedia:Caster_Level}施法者等级{/g}更高的HD，持续时间增加3轮。否则增加1轮。"
+  },
+  {
+    "key": "DemonRageForcedRageFeature.Name",
+    "ProcessTemplates": false,
+    "enGB": "Uncontrolled Rage",
+    "zhCN": "不受控制的狂怒"
+  },
+  {
+    "key": "DemonRageForcedRageFeature.Description",
+    "ProcessTemplates": false,
+    "enGB": "When paralyzed, frightened, or stunned, you become immune to all movement-impairing effects. This immunity includes but is not limited to paralysis, petrification, confusion, sleep, stun, fear, and daze.\nAdditionally, your weapon increases by two size categories, your base attack bonus is equal to your character level, and you gain a +6 enhancement bonus to strength, dexterity, and constitution. You also gain a +4 natural armor bonus to your AC.\nFurthermore, your base strength is set to a minimum of double your mythic level + 16. And your movement speed is increased by the same amount.\nHowever, while under this effect, you cannot distinguish between an ally and an enemy, and you lose control of yourself, attacking the nearest creature.",
+    "zhCN": "当你麻痹、惊恐或者震慑时，你会对所有限制行动效果免疫。免疫包括但不限于麻痹、石化、困惑、睡眠、震慑、恐惧和眩晕。\n此外，你的武器增加两个尺寸类别，你的基础攻击加值等于你的角色等级，你在力量、敏捷和体质获得+6增强加成。你的AC还可以获得+4的天生防御加成。此外，你的基础力量至少是你神话阶层+16的两倍。你的移动速度也增加了同样的量。\n然而，在这种效果下，你无法区分盟友和敌人，你会失去对自己的控制，攻击最近的生物。"
+  },
+  {
+    "key": "Nocticula Aspect Cooldown08f90eccfeed403a81a0f9e44a50870a.Name",
+    "ProcessTemplates": false,
+    "enGB": "Nocticula Aspect Already Used",
+    "zhCN": "诺库缇拉之相已经可以使用"
+  },
+  {
+    "key": "Nocticula Aspect Cooldown08f90eccfeed403a81a0f9e44a50870a.Description",
+    "ProcessTemplates": false,
+    "enGB": "This is the cooldown debuff for Nocticula's Aspect",
+    "zhCN": "这是诺库缇拉之相的冷却debuff"
+  },
+  {
+    "key": "NocticulaAspectAbility.Description",
+    "ProcessTemplates": false,
+    "enGB": "Once per combat, when you activate Demon Rage you can use this ability to grant one ally all the benefits of the demonic rage, including effects of your active aspects and major aspects as a {g|Encyclopedia:Free_Action}free action{/g} until the end of combat.",
+    "zhCN": "每次战斗限一次，当你激活恶魔狂怒时。你能够以{g|Encyclopedia:Free_Action}自由动作{/g}施展此能力，为一个盟友提供恶魔狂怒的所有好处，包括你激活的恶魔之相和高等恶魔之相效果，持续到战斗结束。"
+  },
+  {
+    "key": "DemonRageAbility.Description",
+    "ProcessTemplates": false,
+    "enGB": "The power of the Abyss courses through the Demon waiting to be unleashed.\nThe Demon can enter a demonic rage as a {g|Encyclopedia:Free_Action}free action{/g}.\nWhile in demonic rage, the Demon gains +2 {g|Encyclopedia:Bonus}bonus{/g} on {g|Encyclopedia:Attack}attack rolls{/g}, {g|Encyclopedia:Damage}damage rolls{/g}, {g|Encyclopedia:Caster_Level}caster level{/g} {g|Encyclopedia:Check}checks{/g} and Reflex saving throws.\nThe {g|Encyclopedia:DC}DC{/g} for all {g|Encyclopedia:Saving_Throw}saving throws{/g} against Demon's {g|Encyclopedia:Spell}spells{/g} and abilities are increased by 2.\nThese benefits increase by 1 at 6th and 9th mythic ranks.\nYou may enact your rage this way for 12 rounds with an additional 3 rounds per mythic rank.",
+    "zhCN": "恶魔体内充盈的深渊之力等待着被释放。恶魔能够以{g|Encyclopedia:Free_Action}自由动作{/g}进入恶魔狂怒。在恶魔狂怒期间，恶魔在攻击检定、伤害检定、{g|Encyclopedia:Caster_Level}施法者等级{/g}检定和反射检定上获得+2加值。对抗恶魔的法术和能力的豁免{g|Encyclopedia:DC}难度等级（DC）{/g}提高2点。神话阶层达到6阶和9阶时，上述加值都会提高1点。\n你每天可持续12轮恶魔狂怒。每个神话阶层额外加3轮。"
+  }
+]
