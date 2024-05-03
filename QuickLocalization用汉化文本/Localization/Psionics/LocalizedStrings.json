@@ -219,7 +219,7 @@
     "zhCN": "神话灵能冥想"
   },
   {
-    "Key": "MythicPsionicMeditation.Description",
+    "Key": "MythicPsionicMeditation.Dedscription",
     "enGB_Base": "You no longer provoke attacks of opportunity when meditating to gain psionic focus. Should you have multiple psionic foci, such as from Deep Focus, you regain any psionic focus you are not currently maintaining anytime you meditate to gain psionic focus. In addition, you can expend a use of mythic power to regain your psionic focus as a free action.",
     "zhCN": "当你冥想以获得灵能集中时不再引发借机攻击。如果你有多个灵能集中，例如来自深度聚焦的潜意识灵能集中，那么当你冥想获得灵能集中时，你会重新获得当前未保持的任何灵能集中。此外，你可以通过一个自由动作消耗一次神话之力来重新获得你的灵能集中。"
   },
