@@ -57,9 +57,9 @@
 | [Madison'sMetagaming](#sMetagaming) | Madison扩展 | |:heavy_check_mark: |  | :file_folder: |||
 | [NinjaClass](#NinjaClass) | 忍者职业 | 汉化 | :x: | :+1: | :file_folder: |||
 | [BrawlerClass](#BrawlerClass) | 拳师职业 |QL汉化 | :heavy_check_mark: | :+1: | :file_folder::file_folder: |||
-| [WOTR_PATH_OF_BLING](#WOTR_PATH_OF_BLING) | 金龙重做  | |:heavy_check_mark: | |:file_folder: |🛠️||
-| [WOTR_PATH_OF_HELL](#WOTR_PATH_OF_HELL)  | 魔鬼重做 | |:heavy_check_mark: | |:file_folder: |🛠️||
-| [WOTR_PATH_OF_RAGE](#WOTR_PATH_OF_RAGE) | 恶魔重做 | |:heavy_check_mark: | :+1::+1: |:file_folder::file_folder: |🛠️||
+| [WOTR_PATH_OF_BLING](#WOTR_PATH_OF_BLING) | 金龙重做  | QL汉化 |:heavy_check_mark: | |:file_folder: |🛠️||
+| [WOTR_PATH_OF_HELL](#WOTR_PATH_OF_HELL)  | 魔鬼重做 | QL汉化 |:heavy_check_mark: | |:file_folder: |🛠️||
+| [WOTR_PATH_OF_RAGE](#WOTR_PATH_OF_RAGE) | 恶魔重做 | QL汉化 |:heavy_check_mark: | :+1::+1: |:file_folder::file_folder: |🛠️||
 | [WorldCrawl](#WorldCrawl) | 大型重置 | |:heavy_check_mark: | |:file_folder::file_folder::file_folder:|🛠️🛠️🛠️||
 | [AlternateHumanTraits](#AlternateHumanTraits)|人类替换特性|QL汉化| :heavy_check_mark: | :+1: | :file_folder: |||
 | [WOTR_IsekaiMod](#WOTR_IsekaiMod) | 异世界主角| |:heavy_check_mark: | :+1: | :file_folder: |||
@@ -3279,7 +3279,7 @@ C:\Users\你的用户名\AppData\LocalLow\Owlcat Games\Pathfinder Wrath Of The R
 ### [WOTR_PATH_OF_HELL](https://github.com/Balkoth-dev/WOTR_PATH_OF_HELL)
 ### [WOTR_PATH_OF_RAGE](https://github.com/Balkoth-dev/WOTR_PATH_OF_RAGE)
 > *前置：* 无<br>
-> *中文：* **无**<br>
+> *中文：* **QL汉化**<br>
 > *安装方式：* **UMM**<br>
 > *修改内容：* <br>
 > *新增内容：* 道途重做<br>
