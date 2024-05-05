@@ -4326,13 +4326,13 @@ C:\Users\你的用户名\AppData\LocalLow\Owlcat Games\Pathfinder Wrath Of The R
 ------------------------------------------- 
 ### [MagicArmory](https://github.com/alterasc/MagicArmory) 
 > *前置：* 无<br>
-> *中文：* **无**<br>
+> *中文：* **QL汉化**<br>
 > *安装方式：* **UMM**<br>
 > *新增内容：* 目前新增加两个装备<br>
 <table>
 <tr><th colspan="3">道具列表<br></th></tr> 
-       <tr><td colspan="2">Belt of Mighty Hurling (Lesser) 位于第二章的怀尔瑟·格阿姆斯处<br>力量获得＋2增强加值且允许使用投掷武器时使用力量代替敏捷提供攻击加值</td></tr>
-       <tr><td colspan="2">Muleback Cords 位于第一章酒馆的酒保和第三章的织秘者<br>在计算载重能力时力量视作高8点</td></tr>
+       <tr><td colspan="2">弱效猛力投掷腰带 Belt of Mighty Hurling (Lesser) 位于第二章的怀尔瑟·格阿姆斯处<br>力量获得＋2增强加值且允许使用投掷武器时使用力量代替敏捷提供攻击加值</td></tr>
+       <tr><td colspan="2">驴背短衫 Muleback Cords 位于第一章酒馆的酒保和第三章的织秘者<br>在计算载重能力时力量视作高8点</td></tr>
 
 </table>   
 
