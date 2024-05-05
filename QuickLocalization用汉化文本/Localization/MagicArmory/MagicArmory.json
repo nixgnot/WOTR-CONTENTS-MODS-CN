@@ -1,0 +1,30 @@
+[
+  {
+    "Key": "MulebackCordsItemTitle",
+    "ProcessTemplates": false,
+    "enGB": "Muleback Cords",
+    "zhCN": "驴背短衫",
+    "ruRU": null
+  },
+  {
+    "Key": "MulebackCordsItemDescription",
+    "ProcessTemplates": false,
+    "enGB": "These thick leather cords wrap around the wearer’s biceps and shoulders. When worn, they make the wearer’s muscles appear larger than normal. The wearer treats his Strength score as 8 higher than normal when determining his carrying capacity.",
+    "zhCN": "这件厚实的皮质短外套包裹着穿戴者的肩膀与上臂。穿戴它时，穿戴者的肌肉看起来比平常更壮实。穿戴者在决定负重能力时将力量值视为正常情况+8来决定，因此可以背负更多物品和装备。此加值不对其它任何与力量相关的检定生效，包括攻击、破坏物品、撞门等等。",
+    "ruRU": null
+  },
+  {
+    "Key": "BeltofMightyHurlingLesserItemTitle",
+    "ProcessTemplates": false,
+    "enGB": "Lesser Belt of Mighty Hurling",
+    "zhCN": "弱效猛力投掷腰带",
+    "ruRU": null
+  },
+  {
+    "Key": "BeltofMightyHurlingLesserItemDescription",
+    "ProcessTemplates": false,
+    "enGB": "This thick leather belt is buckled with a bright bronze clasp in the shape of a fist.\r\n\r\nWhen worn, it grants its wearer a +2 enhancement bonus to Strength and allows him to apply his Strength modifier as a bonus on attack rolls instead of his Dexterity modifier when making ranged attacks with thrown weapons.",
+    "zhCN": "这条厚皮革制腰带使用拳头状的亮铜色扣带。\r\n\r\n穿戴者的力量得到+2增强加值。并且允许穿戴者使用力量调整值代替敏捷调整值来进行远程投掷武器的攻击检定。",
+    "ruRU": null
+  }
+]
