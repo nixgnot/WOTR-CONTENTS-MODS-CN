@@ -66,6 +66,7 @@
 | [Way-of-the-shield](#Way-of-the-shield) | 盾牌之道 |自带 |:heavy_check_mark: | :+1: | :file_folder::file_folder: |🛠️||
 | [CyniikalBrokenFeatures](#CyniikalBrokenFeatures) | 法师虚学派 |QL汉化| :heavy_check_mark: | :+1: | :file_folder::file_folder: |||
 | [随军神父](#随军神父) | 随军神父 | 自带 | :heavy_check_mark: | :+1: | :file_folder: |||
+| [重装魔战](#重装魔战) | 重装魔战 | 自带 | :heavy_check_mark: | :+1: | :file_folder: |||
 | [CompanionAscension](#CompanionAscension) | 同伴提升 |  | :heavy_check_mark: | :+1: | :file_folder: ||:steam_locomotive:|
 | [SwashbucklerWOTR](#SwashbucklerWOTR) | 游荡剑客 | QL汉化 | :heavy_check_mark: | :+1::+1::+1: | :file_folder: |||
 | [SmolCraft](#SmolCraft) | SmolCraft | QL汉化 | :heavy_check_mark: | :+1: | :file_folder: |||
@@ -3445,7 +3446,15 @@ C:\Users\你的用户名\AppData\LocalLow\Owlcat Games\Pathfinder Wrath Of The R
 > *中文：* **自带中文**<br>
 > *安装方式：* **非UMM**<br>
 > *新增内容：* 战斗祭司变体：随军神父<br>
-+ 正义之怒群友自制，增加战斗祭司新变体随军神父。本文档[Release页面](https://github.com/nixgnot/WOTR-CONTENTS-MODS-CN/releases)处可下载（SuiJunShenFu.zip），注意非UMM安装
++ 正义之怒群友自制，增加战斗祭司新变体随军神父。本文档[Release页面](https://github.com/nixgnot/WOTR-CONTENTS-MODS-CN/releases)处可下载，注意非UMM安装
+
+-------------------------------------------   
+### 重装魔战
+> *前置：* 无<br>
+> *中文：* **自带中文**<br>
+> *安装方式：* **非UMM**<br>
+> *新增内容：* 魔战士变体：重装魔战<br>
++ 正义之怒群友自制，增加魔战士新变体重装魔战。本文档[Release页面](https://github.com/nixgnot/WOTR-CONTENTS-MODS-CN/releases)处可下载，注意非UMM安装
 
 -------------------------------------------   
 ### [CompanionAscension](https://github.com/WraithJT/CompanionAscension)
