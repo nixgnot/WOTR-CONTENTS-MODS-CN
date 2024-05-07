@@ -24863,6 +24863,512 @@
       "ProcessTemplates": false,
       "zhCN": "痴狂月光 晕眩",
       "enGB": "Moonstruck Daze"
+    },
+    {
+      "Key": "0f2a058dacba4c808347718259f37814",
+      "SimpleName": "DivineHerbalistWinterMysteryFeature.Description",
+      "ProcessTemplates": true,
+      "zhCN": "获取凛冬秘示域的法术和启示。\n由于神圣草药师变体，获得的职业技能被草药学大师特性和调制药水专长所取代。"
+      "enGB": "Gain access to the spells and revelations of the winter mystery. \nDue to the divine herbalist archetype the class skills gained from this archetypeare replaced by the master herbalist feature and the brew potions feat."
+    },
+    {
+      "Key": "e674760fde6c45bd8cd7066e9b14ca32",
+      "SimpleName": "EnlightnedPhilosopherWinterMysteryFeature.Description",
+      "ProcessTemplates": true,
+      "IsUsed": false,
+      "zhCN": "具有凛冬秘示域的先知将说服，隐匿，学识（自然）和知识（世界）添加到她的本职技能列表中。",
+      "enGB": "An oracle with the winter mystery adds Persuasion, Stealth, Lore (nature) and Knowledge (World)  to her list of class skills."
+    },
+    {
+      "Key": "7016bbdfcc4f46db8527d8d485981b48",
+      "SimpleName": "OceansEchoWinterMysteryFeature.Description",
+      "ProcessTemplates": true,
+      "zhCN": "获取凛冬秘示域的法术和启示。\n由于海洋回声变体，获得的职业技能被说服，学识（自然）和知识（世界）",
+      "enGB": "Gain access to the spells and revelations of the winter mystery. \nDue to the ocean's echo archetype the class skills gained from this archtypeare changed to Persuasion, Knowledge (world) and Lore (nature)"
+    },
+    {
+      "Key": "e92fe9b113e4456e9e4e1a8f2a81aaf1",
+      "SimpleName": "OracleRevelationServantOfWinterAbility.Description",
+      "ProcessTemplates": true,
+      "zhCN": "以一个整轮动作，你可以召唤一只冰元素来服侍你，在七级时，你可以召唤一个中型冰元素，十一级时召唤一个大型冰元素，十五级时，你则可以召唤一个冰元素长老。你每日可以招唤冰之仆役一次，在十五级时再额外增加一次。冰元素会服务你一整天。你必须达到七级才能学习此启示。",
+      "enGB": "As a full-round action, you can summon a single blizzard elemental to serve you. At 7th level, you can summon a Medium blizzard elemental. At 11th level, you can summon a Huge blizzard elemental. At 15th level, you can summon an elder blizzard elemental. You can use this ability once per day, plus one additional time per day at 15th level. The blizzard elemental serves you for one full day, unless dismissed or another is summoned. You must be at least 7th level before selecting this revelation."
+    },
+    {
+      "Key": "0fb68b1e8f274da6ab6a66250eabfd44",
+      "SimpleName": "OracleRevelationServantOfWinterAbility.Duration",
+      "ProcessTemplates": false,
+      "zhCN": "1天",
+      "enGB": "1 day"
+    },
+    {
+      "Key": "404b46422f4147f0990ae33a5dda859a",
+      "SimpleName": "OracleRevelationServantOfWinterAbility.Name",
+      "ProcessTemplates": false,
+      "zhCN": "冰之仆役",
+      "enGB": "Servant of Winter"
+    },
+    {
+      "Key": "87099c3e1c784aa89a4bae14d29ed9de",
+      "SimpleName": "OracleWinterFinalRevelation.Description",
+      "ProcessTemplates": true,
+      "zhCN": "20级时，你成为了北地冰霜的化身，你转化成活生生的冰块，如同寒冰之躯法术。此外，你展握了寒冰的奥秘，现在你造成冰冷伤害的攻击和法术将自动突破目标的冰霜抗性和寒冷免疫。",
+      "enGB": "Upon reaching 20th level, you become an avatar of winter and the North. Your body may transform into living ice, as the ice body spell at will. In addition, your mastery of winter magic is such that any of your attacks that deal cold damage bypass cold immunity or cold resistance."
+    },
+    {
+      "Key": "adc7d1e729c64d7cb88fb5f4b2621961",
+      "SimpleName": "OracleWinterFinalRevelationAbility.Description",
+      "ProcessTemplates": true,
+      "zhCN": "你的身体可以转化成活生生的冰块\n你的身体变成了寒冰，因此而获得几项能力。你免疫寒冷，对火焰易伤，获得伤害减免5/魔法。你免疫属性伤害、目盲、重击、疾病、溺水、电击、毒素、震慑，并且由于你在此法术生效期间不具有生理机能或呼吸系统，你对所有影响生理机能或呼吸系统的法术或攻击也免疫。你不能饮水（因此无法使用药水）。\n你的徒手攻击会和与你体型相符的木棒造成同等伤害（小型角色造成1d4点伤害，中型角色造成1d6点伤害）加1点寒冷伤害，你在进行徒手攻击时视为使用武器。 ",
+     "enGB": "Your body may transform into living ice, as the ice body spell at will. \nIce Body: You gain immunity to cold, vulnerability to fire and damage reduction 5/magic. You are immune to ability score damage, blindness, critical hits, disease, drowning, electricity, poison, stunning, and all spells or attacks that affect your physiology or respiration, because you have no physiology or respiration while this spell is in effect. You cannot drink (and thus can't use potions). \nYour unarmed attack deals damage equal to a club sized for you (1d4 for Small characters or 1d6 for Medium characters) plus 1 point of cold damage, and you are considered armed when making unarmed attacks."
+    },
+    {
+      "Key": "0e678f1d0a014f45ac69fccd8b39d10f",
+      "SimpleName": "OracleWinterFinalRevelationAbility.Name",
+      "ProcessTemplates": false,
+      "zhCN": "凛冬化身",
+      "enGB": "Avatar of Winter"
+    },
+    {
+      "Key": "dd72b42250ea413d854f051ebb106914",
+      "SimpleName": "OracleWinterMysteryFeature.Description",
+      "ProcessTemplates": true,
+      "zhCN": "具有凛冬秘示域的先知将说服，隐匿，学识（自然）和知识（世界）添加到她的本职技能列表中。",
+      "enGB": "An oracle with the winter mystery adds Persuasion, Stealth, Lore (nature) and Knowledge (World)  to her list of class skills."
+    },
+    {
+      "Key": "55fba509ed9d4d92ab9934f357bb7c65",
+      "SimpleName": "OracleWinterMysteryFeature.Name",
+      "ProcessTemplates": false,
+      "zhCN": "凛冬",
+      "enGB": "Winter"
+    },
+    {
+      "Key": "16510dc6370b4f6c85184593e23b1e3e",
+      "SimpleName": "EnlightnedPhilosopherLunarMysteryFeature.Description",
+      "ProcessTemplates": true,
+      zhCN": "具有月亮秘示域的先知将说服，隐匿，学识（自然）和知识（世界）添加到她的本职技能列表中。",
+      "enGB": "An oracle with the lunar mystery adds Mobility, Lore (nature), Perception  and Knowledge (World)  to her list of class skills."
+    },
+    {
+      "Key": "da812855d6b64a349f4b4909bbc4c92e",
+      "SimpleName": "OceansEchoLunarMysteryFeature.Description",
+      "ProcessTemplates": true,
+      "zhCN": "获取月亮秘示域的法术和启示。\n由于海洋回声变体，获得的职业技能被说服，学识（自然）和知识（世界）",
+      "enGB": "Gain access to the spells and revelations of the lunar mystery. \nDue to the ocean's echo archetype the class skills gained from this archtypeare changed to Persuasion, Knowledge (world) and Lore (nature)"
+    },
+    {
+      "Key": "880748e99901437e9b5668339f27edc9",
+      "SimpleName": "OracleLunarFinalRevelation.Description",
+      "ProcessTemplates": true,
+      "zhCN": "最终启示：当你达到20级时，你成为原始世界的化身。每天1次，你可以变成你所选择的一种兽化人，持续等于你的魅力调整值的数小时，获得该类天生兽化人的所有能力。额外地，你免疫影响心灵的效果。",
+      "enGB": "Upon reaching 20th level, you become an avatar of the primal world. Once per day, you can transform into a lycanthrope of your choice for a number of hours equal to your Charisma modifier, gaining all the powers of a natural lycanthrope of that type. In addition, you become immune to mind-affecting effects."
+    },
+    {
+      "Key": "341a61b1da7a46ddb29a0e72abc71e28",
+      "SimpleName": "OracleLunarFinalRevelationAbility.Description",
+      "ProcessTemplates": true,
+      "zhCN": "每天1次，你可以变成你所选择的一种兽化人，持续等于你的魅力调整值的小时，获得该类天生兽化人的所有能力。（神话能力“变化自如”允许每天无限次施放此能力持续时间，没有时间限制）", 
+      "enGB": "Once per day, you can transform into a lycanthrope of your choice for a number of hours equal to your Charisma modifier, gaining all the powers of a natural lycanthrope of that type. (The Master Shapeshifter mythic ability allows this to be cast unlimited times per day, without time limit.)"
+    },
+    {
+      "Key": "77d4d7f4853b4f1e8c8744d3fc6fb9de",
+      "SimpleName": "OracleLunarFinalRevelationAbility.Name",
+      "ProcessTemplates": false,
+      "zhCN": "兽化人形态",
+      "enGB": "Lycan Shape"
+    },
+    {
+      "Key": "644f02af6eaf40dca238d2e91acb9bc1",
+      "SimpleName": "OracleLunarFinalRevelationRatAbility.Description",
+      "ProcessTemplates": true,
+      "zhCN": "每天一次，你可以变身为鼠人，持续等于你的魅力调整值的数小时。\n鼠人获得：两次爪抓攻击（1d4）一次啮咬攻击（1d6），啮咬攻击还会尝试缴械目标。\n鲤鱼打挺、弱化创伤、削弱和机会主义者流氓天赋。\n3d6 偷袭骰子，与其他偷袭骰子叠加。\nDR 5/银。",
+      "enGB": "Once per day, you can transform into a wererat for a number of hours equal to your Charisma modifier. \nWererats gain: Two claw attacks (1d4) a bite attack (1d6) and free disarm attempts on bite attacks. \nJump up, weakening wound, crippling strike and opportunist rogue talents.\n3d6 sneak attack dice, stacking with other sneak attack dice. \nDR 5/silver."
+    },
+    {
+      "Key": "ab85c92831df436b8cda9a0cc87b0a3e",
+      "SimpleName": "OracleLunarFinalRevelationRatBuff.Description",
+      "ProcessTemplates": true,
+      "zhCN": "每天一次，你可以变身为鼠人，持续等于你的魅力调整值的数小时。\n鼠人获得：两次爪抓攻击（1d4）一次啮咬攻击（1d6），啮咬攻击还会尝试缴械目标。\n鲤鱼打挺、弱化创伤、削弱和机会主义者流氓天赋。\n3d6 偷袭骰子，与其他偷袭骰子叠加。\nDR 5/银。",
+      "enGB": "Once per day, you can transform into a wererat for a number of hours equal to your Charisma modifier. \nWererats gain: Two claw attacks (1d4) a bite attack (1d6) and free disarm attempts on bite attacks. \nJump up, weakening wound, crippling strike and opportunist rogue talents.\n3d6 sneak attack dice, stacking with other sneak attack dice. \nDR 5/silver."
+    },
+    {
+      "Key": "d87bcb8650a04b6a87254538d3eaf0b6",
+      "SimpleName": "OracleLunarFinalRevelationRatBuff.Name",
+      "ProcessTemplates": false,
+      "zhCN": "兽化人形态-鼠人",
+      "enGB": "Lycan Shape - Wererat"
+    },
+    {
+      "Key": "1bf52f9128844b938a639b5bdc293f6d",
+      "SimpleName": "OracleLunarFinalRevelationTigerAbility.Description",
+      "ProcessTemplates": true,
+      "zhCN": "每天一次，你可以变身为虎人，持续等于你的魅力调整值的数小时。\n虎人获得：两次爪抓攻击（2d8）一次啮咬攻击（1d10）。\n获得寓守于攻，猛扑和突刺作为奖励专长。\nAc获得＋5种族加值。\nDR 15/银。",
+      "enGB": "Once per day, you can transform into a weretiger for a number of hours equal to your Charisma modifier. \nWeretigers gain: Two claw attacks (2d8) a bite attack (1d10). \nCombat expertise, pounce and lunge as bonus feats.\nA +5 racial bonus to AC and fast healing 5.\nDR 15/silver."
+    },
+    {
+      "Key": "f50c66c18e0f42d9b2a93ad64c3a345a",
+      "SimpleName": "OracleLunarFinalRevelationTigerBuff.Description",
+      "ProcessTemplates": true,
+      "zhCN": "每天一次，你可以变身为虎人，持续等于你的魅力调整值的数小时。\n虎人获得：两次爪抓攻击（2d8）一次啮咬攻击（1d10）。\n获得寓守于攻，猛扑和突刺作为奖励专长。\nAc获得＋5种族加值。\nDR 15/银。",
+      "enGB": "Once per day, you can transform into a weretiger for a number of hours equal to your Charisma modifier. \nWeretigers gain: Two claw attacks (2d8) a bite attack (1d10). \nCombat expertise, pounce and lunge as bonus feats.\nA +5 racial bonus to AC and fast healing 5.\nDR 15/silver."
+    },
+    {
+      "Key": "741d5115ecaf40c488745b64a896abf4",
+      "SimpleName": "OracleLunarFinalRevelationTigerBuff.Name",
+      "ProcessTemplates": false,
+      "zhCN": "兽化人形态-虎人",
+      "enGB": "Lycan Shape - Weretiger"
+    },
+    {
+      "Key": "e269b307ddc04848917c4546279081ef",
+      "SimpleName": "OracleLunarFinalRevelationWolfAbility.Description",
+      "ProcessTemplates": true,
+      "zhCN": "每天一次，你可以变身为狼人，持续等于你的魅力调整值的数小时。\n狼人获得：两次爪抓攻击（1d4）一次啮咬攻击（1d6），啮咬攻击还会尝试绊摔目标。\n获得绊摔和高等绊摔作为奖励专长。\n爪抓攻击会导致目标每轮受到5点流血伤害，最多叠加5次。\nDR 10/银。",
+      "enGB": "Once per day, you can transform into a werewolf for a number of hours equal to your Charisma modifier. \nWerewolves gain: Two claw attacks (1d4) a bite attack (1d6) and free trip attempts on bite attacks. \nTrip and greater trip as bonus feats.\nClaw attacks cause the target to bleed for 5 damage each round, stacking up to 5 times.\nDR 10/silver."
+    },
+    {
+      "Key": "ba19d40aef76456dbe2961bfa5d6a430",
+      "SimpleName": "OracleLunarFinalRevelationWolfBleed.Description",
+      "ProcessTemplates": true,
+      "zhCN": "爪伤会导致目标流血，每轮受到5点伤害，最多叠加5次。可以通过任何治愈生命伤害的法术来止血。",
+      "enGB": "Claw wounds cause the target to bleed for 5 damage each round, stacking up to 5 times. Bleeding can be stopped through the application of any spell that cures hit point damage."
+    },
+    {
+      "Key": "743ee21861c54d51ac7cc233392aad99",
+      "SimpleName": "OracleLunarFinalRevelationWolfBleed.Name",
+      "ProcessTemplates": false,
+      "zhCN": "狼之伤痕",
+      "enGB": "Wolves Wounds"
+    },
+    {
+      "Key": "fd578c4be9344775a51e3c83cf205668",
+      "SimpleName": "OracleLunarFinalRevelationWolfBuff.Description",
+      "ProcessTemplates": true,
+      "zhCN": "每天一次，你可以变身为狼人，持续等于你的魅力调整值的数小时。\n狼人获得：两次爪抓攻击（1d4）一次啮咬攻击（1d6），啮咬攻击还会尝试绊摔目标。\n获得绊摔和高等绊摔作为奖励专长。\n爪抓攻击会导致目标每轮受到5点流血伤害，最多叠加5次。\nDR 10/银。",
+      "enGB": "Once per day, you can transform into a werewolf for a number of hours equal to your Charisma modifier. \nWerewolves gain: Two claw attacks (1d4) a bite attack (1d6) and free trip attempts on bite attacks. \nTrip and greater trip as bonus feats.\nClaw attacks cause the target to bleed for 5 damage each round, stacking up to 5 times.\nDR 10/silver."
+    },
+    {
+      "Key": "cc3e26b86ca2471bbf9928fc9fb9e9da",
+      "SimpleName": "OracleLunarFinalRevelationWolfBuff.Name",
+      "ProcessTemplates": false,
+      "zhCN": "兽化人形态-狼人",
+      "enGB": "Lycan Shape - Werewolf"
+    },
+    {
+      "Key": "7c17ea83ae8643e4ba30d5304bcc9c00",
+      "SimpleName": "OracleLunarMysteryFeature.Description",
+      "ProcessTemplates": true,
+      "zhCN": "具有月亮秘示域的先知将灵巧，学识（自然），察觉和知识（世界）添加到她的本职技能列表中。",
+      "enGB": "An oracle with the lunar mystery adds Mobility, Lore (nature), Perception  and Knowledge (World)  to her list of class skills."
+    },
+    {
+      "Key": "12116c4910414cfbbcf40167bb2c208c",
+      "SimpleName": "OracleLunarMysteryFeature.Name",
+      "ProcessTemplates": false,
+      "zhCN": "月亮",
+      "enGB": "Lunar"
+    },
+    {
+      "Key": "46386e34e7c04dc6adfa1cb502e31f2b",
+      "SimpleName": "DivineHerbalistLunarMysteryFeature.Description",
+      "ProcessTemplates": true,
+      "zhCN": "获取月亮秘示域的法术和启示。\n由于神圣草药师变体，获得的职业技能被草药学大师特性和调制药水专长所取代。"
+      "enGB": "Gain access to the spells and revelations of the lunar mystery. \nDue to the divine herbalist archetype the class skills gained from this archetypeare replaced by the master herbalist feature and the brew potions feat."
+    },
+    {
+      "Key": "afbadbaaba75481680c1a84ab45be8e6",
+      "SimpleName": "GiftOfClawAndHornBitePlus0.Description",
+      "ProcessTemplates": true,
+      "zhCN": "以一个迅捷动作，你获得一种天生武器，持续一半先知等级的轮数（最小为1）。你要选择啮咬，爪击或是抵撞，其伤害骰取决于你的体型。在5级，你的天生武器获得+1增强加值。该加值在10级、15级和20级增加+1。在11级，你一次获得两种天生武器。你每天可以使用该能力的次数为3+魅力调整值。",
+      "enGB": "As a swift action, you gain a natural weapon. The natural weapon lasts for a number of rounds equal to half your oracle level (minimum 1). You must choose a bite, claws, or gore attack. These attacks deal the normal damage for a creature of your size. At 5th level, your natural weapon gains a +1 enhancement bonus. This bonus increases by +1 at 10th, 15th, and 20th level. At 11th level, you gain two natural weapons at a time. You can use this ability a number of times per day equal to 3 + your Charisma modifier."
+    },
+    {
+      "Key": "cd9af176aa754be0b954d23aae49554b",
+      "SimpleName": "GiftOfClawAndHornBitePlus1.Description",
+      "ProcessTemplates": true,
+      "zhCN": "以一个迅捷动作，你获得一种天生武器，持续一半先知等级的轮数（最小为1）。你要选择啮咬，爪击或是抵撞，其伤害骰取决于你的体型。在5级，你的天生武器获得+1增强加值。该加值在10级、15级和20级增加+1。在11级，你一次获得两种天生武器。你每天可以使用该能力的次数为3+魅力调整值。",
+      "enGB": "As a swift action, you gain a natural weapon. The natural weapon lasts for a number of rounds equal to half your oracle level (minimum 1). You must choose a bite, claws, or gore attack. These attacks deal the normal damage for a creature of your size. At 5th level, your natural weapon gains a +1 enhancement bonus. This bonus increases by +1 at 10th, 15th, and 20th level. At 11th level, you gain two natural weapons at a time. You can use this ability a number of times per day equal to 3 + your Charisma modifier."
+    },
+    {
+      "Key": "f4edd38e4fae47e2b67e6eda99c18e4e",
+      "SimpleName": "GiftOfClawAndHornBitePlus2.Description",
+      "ProcessTemplates": true,
+      "zhCN": "以一个迅捷动作，你获得一种天生武器，持续一半先知等级的轮数（最小为1）。你要选择啮咬，爪击或是抵撞，其伤害骰取决于你的体型。在5级，你的天生武器获得+1增强加值。该加值在10级、15级和20级增加+1。在11级，你一次获得两种天生武器。你每天可以使用该能力的次数为3+魅力调整值。",
+      "enGB": "As a swift action, you gain a natural weapon. The natural weapon lasts for a number of rounds equal to half your oracle level (minimum 1). You must choose a bite, claws, or gore attack. These attacks deal the normal damage for a creature of your size. At 5th level, your natural weapon gains a +1 enhancement bonus. This bonus increases by +1 at 10th, 15th, and 20th level. At 11th level, you gain two natural weapons at a time. You can use this ability a number of times per day equal to 3 + your Charisma modifier."
+    },
+    {
+      "Key": "f5a600a2ee784b8c86d07a1f3465c425",
+      "SimpleName": "GiftOfClawAndHornBitePlus3.Description",
+      "ProcessTemplates": true,
+      "zhCN": "以一个迅捷动作，你获得一种天生武器，持续一半先知等级的轮数（最小为1）。你要选择啮咬，爪击或是抵撞，其伤害骰取决于你的体型。在5级，你的天生武器获得+1增强加值。该加值在10级、15级和20级增加+1。在11级，你一次获得两种天生武器。你每天可以使用该能力的次数为3+魅力调整值。",
+      "enGB": "As a swift action, you gain a natural weapon. The natural weapon lasts for a number of rounds equal to half your oracle level (minimum 1). You must choose a bite, claws, or gore attack. These attacks deal the normal damage for a creature of your size. At 5th level, your natural weapon gains a +1 enhancement bonus. This bonus increases by +1 at 10th, 15th, and 20th level. At 11th level, you gain two natural weapons at a time. You can use this ability a number of times per day equal to 3 + your Charisma modifier."
+    },
+    {
+      "Key": "8a3cfc1fe6a3419383fec8cda78eb01d",
+      "SimpleName": "GiftOfClawAndHornBitePlus4.Description",
+      "ProcessTemplates": true,
+      "zhCN": "以一个迅捷动作，你获得一种天生武器，持续一半先知等级的轮数（最小为1）。你要选择啮咬，爪击或是抵撞，其伤害骰取决于你的体型。在5级，你的天生武器获得+1增强加值。该加值在10级、15级和20级增加+1。在11级，你一次获得两种天生武器。你每天可以使用该能力的次数为3+魅力调整值。",
+      "enGB": "As a swift action, you gain a natural weapon. The natural weapon lasts for a number of rounds equal to half your oracle level (minimum 1). You must choose a bite, claws, or gore attack. These attacks deal the normal damage for a creature of your size. At 5th level, your natural weapon gains a +1 enhancement bonus. This bonus increases by +1 at 10th, 15th, and 20th level. At 11th level, you gain two natural weapons at a time. You can use this ability a number of times per day equal to 3 + your Charisma modifier."
+    },
+    {
+      "Key": "47be2eea555048b4b3c84ff2fd151443",
+      "SimpleName": "GiftOfClawAndHornClawPlus0.Description",
+      "ProcessTemplates": true,
+      "zhCN": "以一个迅捷动作，你获得一种天生武器，持续一半先知等级的轮数（最小为1）。你要选择啮咬，爪击或是抵撞，其伤害骰取决于你的体型。在5级，你的天生武器获得+1增强加值。该加值在10级、15级和20级增加+1。在11级，你一次获得两种天生武器。你每天可以使用该能力的次数为3+魅力调整值。",
+     "enGB": "As a swift action, you gain a natural weapon. The natural weapon lasts for a number of rounds equal to half your oracle level (minimum 1). You must choose a bite, claws, or gore attack. These attacks deal the normal damage for a creature of your size. At 5th level, your natural weapon gains a +1 enhancement bonus. This bonus increases by +1 at 10th, 15th, and 20th level. At 11th level, you gain two natural weapons at a time. You can use this ability a number of times per day equal to 3 + your Charisma modifier."
+    },
+    {
+      "Key": "5b7ec592d73b44c5b1bacaa4395314d3",
+      "SimpleName": "GiftOfClawAndHornClawPlus1.Description",
+      "ProcessTemplates": true,
+      "zhCN": "以一个迅捷动作，你获得一种天生武器，持续一半先知等级的轮数（最小为1）。你要选择啮咬，爪击或是抵撞，其伤害骰取决于你的体型。在5级，你的天生武器获得+1增强加值。该加值在10级、15级和20级增加+1。在11级，你一次获得两种天生武器。你每天可以使用该能力的次数为3+魅力调整值。",
+      "enGB": "As a swift action, you gain a natural weapon. The natural weapon lasts for a number of rounds equal to half your oracle level (minimum 1). You must choose a bite, claws, or gore attack. These attacks deal the normal damage for a creature of your size. At 5th level, your natural weapon gains a +1 enhancement bonus. This bonus increases by +1 at 10th, 15th, and 20th level. At 11th level, you gain two natural weapons at a time. You can use this ability a number of times per day equal to 3 + your Charisma modifier."
+    },
+    {
+      "Key": "f64c99386e8b4f2296a0686776431755",
+      "SimpleName": "GiftOfClawAndHornClawPlus2.Description",
+      "ProcessTemplates": true,
+      "zhCN": "以一个迅捷动作，你获得一种天生武器，持续一半先知等级的轮数（最小为1）。你要选择啮咬，爪击或是抵撞，其伤害骰取决于你的体型。在5级，你的天生武器获得+1增强加值。该加值在10级、15级和20级增加+1。在11级，你一次获得两种天生武器。你每天可以使用该能力的次数为3+魅力调整值。", 
+     "enGB": "As a swift action, you gain a natural weapon. The natural weapon lasts for a number of rounds equal to half your oracle level (minimum 1). You must choose a bite, claws, or gore attack. These attacks deal the normal damage for a creature of your size. At 5th level, your natural weapon gains a +1 enhancement bonus. This bonus increases by +1 at 10th, 15th, and 20th level. At 11th level, you gain two natural weapons at a time. You can use this ability a number of times per day equal to 3 + your Charisma modifier."
+    },
+    {
+      "Key": "6403ef70e72443eebda6e27c83cfd425",
+      "SimpleName": "GiftOfClawAndHornClawPlus3.Description",
+      "ProcessTemplates": true,
+      "zhCN": "以一个迅捷动作，你获得一种天生武器，持续一半先知等级的轮数（最小为1）。你要选择啮咬，爪击或是抵撞，其伤害骰取决于你的体型。在5级，你的天生武器获得+1增强加值。该加值在10级、15级和20级增加+1。在11级，你一次获得两种天生武器。你每天可以使用该能力的次数为3+魅力调整值。",
+      "enGB": "As a swift action, you gain a natural weapon. The natural weapon lasts for a number of rounds equal to half your oracle level (minimum 1). You must choose a bite, claws, or gore attack. These attacks deal the normal damage for a creature of your size. At 5th level, your natural weapon gains a +1 enhancement bonus. This bonus increases by +1 at 10th, 15th, and 20th level. At 11th level, you gain two natural weapons at a time. You can use this ability a number of times per day equal to 3 + your Charisma modifier."
+    },
+    {
+      "Key": "15b57b0668fd4f6caf42aa6db1735cfc",
+      "SimpleName": "GiftOfClawAndHornClawPlus4.Description",
+      "ProcessTemplates": true,
+      "zhCN": "以一个迅捷动作，你获得一种天生武器，持续一半先知等级的轮数（最小为1）。你要选择啮咬，爪击或是抵撞，其伤害骰取决于你的体型。在5级，你的天生武器获得+1增强加值。该加值在10级、15级和20级增加+1。在11级，你一次获得两种天生武器。你每天可以使用该能力的次数为3+魅力调整值。",
+      "enGB": "As a swift action, you gain a natural weapon. The natural weapon lasts for a number of rounds equal to half your oracle level (minimum 1). You must choose a bite, claws, or gore attack. These attacks deal the normal damage for a creature of your size. At 5th level, your natural weapon gains a +1 enhancement bonus. This bonus increases by +1 at 10th, 15th, and 20th level. At 11th level, you gain two natural weapons at a time. You can use this ability a number of times per day equal to 3 + your Charisma modifier."
+    },
+    {
+      "Key": "f7474730b0344c95bd5c9a573c5e4a2a",
+      "SimpleName": "GiftOfClawAndHornGorePlus0.Description",
+      "ProcessTemplates": true,
+      "zhCN": "以一个迅捷动作，你获得一种天生武器，持续一半先知等级的轮数（最小为1）。你要选择啮咬，爪击或是抵撞，其伤害骰取决于你的体型。在5级，你的天生武器获得+1增强加值。该加值在10级、15级和20级增加+1。在11级，你一次获得两种天生武器。你每天可以使用该能",
+      "enGB": "As a swift action, you gain a natural weapon. The natural weapon lasts for a number of rounds equal to half your oracle level (minimum 1). You must choose a bite, claws, or gore attack. These attacks deal the normal damage for a creature of your size. At 5th level, your natural weapon gains a +1 enhancement bonus. This bonus increases by +1 at 10th, 15th, and 20th level. At 11th level, you gain two natural weapons at a time. You can use this ability a number of times per day equal to 3 + your Charisma modifier."
+    },
+    {
+      "Key": "2f2ba5f7e6704a7f9f57ade8b0940315",
+      "SimpleName": "GiftOfClawAndHornGorePlus1.Description",
+      "ProcessTemplates": true,
+      "zhCN": "以一个迅捷动作，你获得一种天生武器，持续一半先知等级的轮数（最小为1）。你要选择啮咬，爪击或是抵撞，其伤害骰取决于你的体型。在5级，你的天生武器获得+1增强加值。该加值在10级、15级和20级增加+1。在11级，你一次获得两种天生武器。你每天可以使用该能",
+      "enGB": "As a swift action, you gain a natural weapon. The natural weapon lasts for a number of rounds equal to half your oracle level (minimum 1). You must choose a bite, claws, or gore attack. These attacks deal the normal damage for a creature of your size. At 5th level, your natural weapon gains a +1 enhancement bonus. This bonus increases by +1 at 10th, 15th, and 20th level. At 11th level, you gain two natural weapons at a time. You can use this ability a number of times per day equal to 3 + your Charisma modifier."
+    },
+    {
+      "Key": "43f1d9826ab645dcbee0a000977545e8",
+      "SimpleName": "GiftOfClawAndHornGorePlus2.Description",
+      "ProcessTemplates": true,
+      "zhCN": "以一个迅捷动作，你获得一种天生武器，持续一半先知等级的轮数（最小为1）。你要选择啮咬，爪击或是抵撞，其伤害骰取决于你的体型。在5级，你的天生武器获得+1增强加值。该加值在10级、15级和20级增加+1。在11级，你一次获得两种天生武器。你每天可以使用该能",
+      "enGB": "As a swift action, you gain a natural weapon. The natural weapon lasts for a number of rounds equal to half your oracle level (minimum 1). You must choose a bite, claws, or gore attack. These attacks deal the normal damage for a creature of your size. At 5th level, your natural weapon gains a +1 enhancement bonus. This bonus increases by +1 at 10th, 15th, and 20th level. At 11th level, you gain two natural weapons at a time. You can use this ability a number of times per day equal to 3 + your Charisma modifier."
+    },
+    {
+      "Key": "4804e3a3a9dc4ab29dd9486cfb9d2cba",
+      "SimpleName": "GiftOfClawAndHornGorePlus3.Description",
+      "ProcessTemplates": true,
+      "zhCN": "以一个迅捷动作，你获得一种天生武器，持续一半先知等级的轮数（最小为1）。你要选择啮咬，爪击或是抵撞，其伤害骰取决于你的体型。在5级，你的天生武器获得+1增强加值。该加值在10级、15级和20级增加+1。在11级，你一次获得两种天生武器。你每天可以使用该能",
+      "enGB": "As a swift action, you gain a natural weapon. The natural weapon lasts for a number of rounds equal to half your oracle level (minimum 1). You must choose a bite, claws, or gore attack. These attacks deal the normal damage for a creature of your size. At 5th level, your natural weapon gains a +1 enhancement bonus. This bonus increases by +1 at 10th, 15th, and 20th level. At 11th level, you gain two natural weapons at a time. You can use this ability a number of times per day equal to 3 + your Charisma modifier."
+    },
+    {
+      "Key": "ce8dff7c081e4cd988508e4dd9e17698",
+      "SimpleName": "GiftOfClawAndHornGorePlus4.Description",
+      "ProcessTemplates": true,
+      "zhCN": "以一个迅捷动作，你获得一种天生武器，持续一半先知等级的轮数（最小为1）。你要选择啮咬，爪击或是抵撞，其伤害骰取决于你的体型。在5级，你的天生武器获得+1增强加值。该加值在10级、15级和20级增加+1。在11级，你一次获得两种天生武器。你每天可以使用该能", 
+      "enGB": "As a swift action, you gain a natural weapon. The natural weapon lasts for a number of rounds equal to half your oracle level (minimum 1). You must choose a bite, claws, or gore attack. These attacks deal the normal damage for a creature of your size. At 5th level, your natural weapon gains a +1 enhancement bonus. This bonus increases by +1 at 10th, 15th, and 20th level. At 11th level, you gain two natural weapons at a time. You can use this ability a number of times per day equal to 3 + your Charisma modifier."
+    },
+    {
+      "Key": "17aecfc76caf43858a10a628c4aec160",
+      "SimpleName": "OracleRevelationMoonbeamAbility.Description",
+      "ProcessTemplates": true,
+      "zhCN": "你可以对30尺内的一个生物以一个远程接触攻击发射一道月光射线。这道射线造成1d6+1/2先知等级伤害。目标必须通过一个强韧豁免，否则会目盲1轮。每天你可以使用该能力相当于你魅力调整值的次数。", 
+      "enGB": "You can fire a ray of moonlight as a ranged touch attack at any creature within 30 feet. This ray deals 1d6 points of damage + 1 for every 2 oracle levels you possess. In addition, the target must succeed at a Fortitude save or become blinded for 1 round. You can use this ability a number of times per day equal to your Charisma modifier (minimum 1)."
+    },
+    {
+      "Key": "05e5d893492946ac96ab54aa817d5640",
+      "SimpleName": "OracleRevelationMoonbeamAbility.Name",
+      "ProcessTemplates": false,
+      "zhCN": "月亮光束",
+      "enGB": "Moonbeam"
+    },
+    {
+      "Key": "bf2816fa31a84a9085c9b96190aac410",
+      "SimpleName": "OracleRevelationMoonbeamAbility.SavingThrow",
+      "ProcessTemplates": false,
+      "zhCN": "强韧豁免失败（目盲）",
+      "enGB": "Fortitude negates (blindness)"
+    },
+    {
+      "Key": "f0026a6d49034dfaaaf1700d6ae52803",
+      "SimpleName": "OracleRevelationMoonbeamFeature.Description",
+      "ProcessTemplates": true,
+      "zhCN": "你可以对30尺内的一个生物以一个远程接触攻击发射一道月光射线。这道射线造成1d6+1/2先知等级伤害。目标必须通过一个强韧豁免，否则会失明1轮。每天你可以使用该能力相当于你魅力调整值的次数。",
+      "enGB": "You can fire a ray of moonlight as a ranged touch attack at any creature within 30 feet. This ray deals 1d6 points of damage + 1 for every 2 oracle levels you possess. In addition, the target must succeed at a Fortitude save or become blinded for 1 round. You can use this ability a number of times per day equal to your Charisma modifier (minimum 1)."
+    },
+    {
+      "Key": "e3172da55e484b188bf41e3fc2488bac",
+      "SimpleName": "OracleRevelationPrimalCompanion.Description",
+      "ProcessTemplates": true,
+      "zhCN": "你获得一匹忠诚的夜兽的守护。你可以选择熊，野猪，剑齿虎，蜘蛛，迅猛龙或狼之一。这相当于德鲁伊的动物伙伴，以你的先知等级作为有效德鲁伊等级。",
+      "enGB": "You gain the service of a faithful animal of the night. You can select from a bear, boar, smilodon, spider, velociraptor, or wolf. This animal functions as a druid’s animal companion, using your oracle level as your effective druid level."
+    },
+    {
+      "Key": "13a4ed0ec0044ee2a0632230511747d1",
+      "SimpleName": "OracleRevelationPrimalCompanion.Name",
+      "ProcessTemplates": false,
+      "zhCN": "原始伙伴",
+      "enGB": "Primal Companion"
+    },
+    {
+      "Key": "8239d825402c48e694117a7f1a64f581",
+      "SimpleName": "OracleRevelationPropheticArmorFeature.Description",
+      "ProcessTemplates": true,
+      "zhCN": "你的野性本质浑然天成，让你不经意间就躲过了许多危险，而你那作为文明人的那一部分甚至没有意识到这一点。你可以用魅力调整值代替敏捷调整值添加到你的AC和反射豁免。这受到盔甲的最大敏捷调整值限制。",
+      "enGB": "You are so in tune with your primal nature that your instincts often act to save you from danger that your civilized mind isn’t even aware of. You may use your Charisma modifier (instead of your Dexterity modifier) as part of your Armor Class and all Reflex saving throws. Your armor’s maximum Dexterity bonus applies to your Charisma, instead."
+    },
+    {
+      "Key": "5c703ed1980d4ffcbd7d180c6547461e",
+      "SimpleName": "OracleRevelationPropheticArmorFeature.Name",
+      "ProcessTemplates": false,
+      "zhCN": "直觉护身",
+      "enGB": "Prophetic Armor"
+    },
+    {
+      "Key": "fcec33a63f0042779242fe7fb2d66fdf",
+      "SimpleName": "OracleRevelationColdAuraAbility.Description",
+      "ProcessTemplates": true,
+      "IsUsed": false,
+      "zhCN": "以一个迅捷动作，你可以让你体内的寒意扩散而出，对所有十尺内的生物造成每二先知等级1d6点寒冷伤害，通过成功的强韧检定可以将伤害减半。此外，一阵怒雪将你包围，让你在下轮开始之前得到20%隐蔽。你每日可以使用此能力一次，在五级和之后的每五级再加一次。",
+      "enGB": "As a swift action, you can cause waves of cold to radiate from your body. This cold deals 1d6 points of cold damage per 2 oracle levels to all creatures within 10 feet. A successful Fortitude save halves the damage. In addition, a flurry of snow momentarily surrounds you, granting you 20% concealment until your next turn. You can use this ability once per day, plus one additional time per day at 5th level and every 5 levels thereafter."
+    },
+    {
+      "Key": "ed3e90c4b2aa4a10a8346d832322972b",
+      "SimpleName": "OracleRevelationColdAuraBuff.Description",
+      "ProcessTemplates": true,
+      "zhCN": "一阵怒雪将你包围，让你在下轮开始之前得到20%隐蔽。",
+      "enGB": "A flurry of snow momentarily surrounds you, granting you 20% concealment until your next turn"
+    },
+    {
+      "Key": "9f3dacd4a86b45a2894c9f3673bc8450",
+      "SimpleName": "OracleRevelationColdAuraBuff.Name",
+      "ProcessTemplates": false,
+      "zhCN": "寒冷灵光",
+      "enGB": "Cold Aura"
+    },
+    {
+      "Key": "3cd60d24127f441dbebcc5b96262d4c6",
+      "SimpleName": "OracleRevelationColdAuraFeature.Description",
+      "ProcessTemplates": true,
+      "zhCN": "以一个迅捷动作，你可以让你体内的寒意扩散而出，对所有十尺内的生物造成每二先知等级1d6点寒冷伤害，通过成功的强韧检定可以将伤害减半。此外，一阵怒雪将你包围，让你在下轮开始之前得到20%隐蔽。你每日可以使用此能力一次，在五级和之后的每五级再加一次。",
+      "enGB": "As a swift action, you can cause waves of cold to radiate from your body. This cold deals 1d6 points of cold damage per 2 oracle levels to all creatures within 10 feet. A successful Fortitude save halves the damage. In addition, a flurry of snow momentarily surrounds you, granting you 20% concealment until your next turn. You can use this ability once per day, plus one additional time per day at 5th level and every 5 levels thereafter."
+    },
+    {
+      "Key": "d1583401a87f49f0a369d20b9a4f45bf",
+      "SimpleName": "OracleRevelationBeastFormIAbility.Name",
+      "ProcessTemplates": false,
+      "zhCN": "野兽形态（狼）",
+      "enGB": "Beast Form (Wolf)"
+    },
+    {
+      "Key": "a9fd7ce717ec4120a6f06bb2c84a3328",
+      "SimpleName": "OracleRevelationBeastFormIIAbility.Name",
+      "ProcessTemplates": false,
+      "zhCN": "野兽形态（豹子）",
+      "enGB": "Beast Form (Leopard)"
+    },
+    {
+      "Key": "716e82faaf8c487bb63fd6225275a041",
+      "SimpleName": "OracleRevelationBeastFormIIIAbility.Name",
+      "ProcessTemplates": false,
+      "zhCN": "野兽形态（熊）",
+      "enGB": "Beast Form (Bear)"
+    },
+    {
+      "Key": "60f4c79b17a44d379c0bbf59e6071424",
+      "SimpleName": "OracleRevelationBeastFormIVBaseAbility.Description",
+      "ProcessTemplates": true,
+      "zhCN": "你变成了一只大型剑齿虎或一只大型双足飞龙。",
+      "enGB": "You become a large smilodon or a large wyvern."
+    },
+    {
+      "Key": "a0bae634ece3470c93c591dab60632fd",
+      "SimpleName": "OracleRevelationBeastFormIVBaseAbility.Name",
+      "ProcessTemplates": false,
+      "zhCN": "野兽形态（最终）",
+      "enGB": "Beast Form (Final)"
+    },
+    {
+      "Key": "2d39da71aea84a198853bfcf6d2528b9",
+      "SimpleName": "OracleRevelationBeastFormIVSAbility.Name",
+      "ProcessTemplates": false,
+      "zhCN": "野兽形态（剑齿虎）",
+      "enGB": "Beast Form (Smilodon)"
+    },
+    {
+      "Key": "102e76e25c3e40879eb546848440ec77",
+      "SimpleName": "OracleRevelationBeastFormIVWAbility.Name",
+      "ProcessTemplates": false,
+      "zhCN": "野兽形态（双足飞龙）",
+      "enGB": "Beast Form (Wyvern)"
+    },
+    {
+      "Key": "2963081396194597ab2e2abffbe10c12",
+      "SimpleName": "OracleRevelationBeastFormProgression.Description",
+      "ProcessTemplates": true,
+      "zhCN": "以一个标准动作，你变为一只中体型的狼，如同野兽形态I。在9级，你可以变为一只中体型的豹子，如同野兽形态II。在11级，你可以变为一只大体型的熊，如同野兽形态III。在13级，你可以变成一只大型剑齿虎或大型双足飞龙的形态，如同野兽形态IV。你每天可以使用一次该能力，持续1小时/等级。你必须至少7级才能选择此启示。",
+      "enGB": "You can assume the form of a medium wolf, as beast shape I. At 9th level, you can assume the form of a medium leopard, as beast shape II. At 11th level, you can assume the form of a large bear, as beast shape II.At 13th level, you can assume the form of a large smilodon or a large wyvern, as beast shape IV. You can use this ability once per day, but the duration is 1 hour/level. You must be at least 7th level to select this revelation."
+    },
+    {
+      "Key": "15cd034c524441a1a35783bf7296e93f",
+      "SimpleName": "OracleRevelationBeastFormProgression.Name",
+      "ProcessTemplates": false,
+      "zhCN": "野兽之形",
+      "enGB": "Form of the Beast"
+    },
+    {
+      "Key": "57b64ceefe594ff58746b02e2fd7edab",
+      "SimpleName": "OracleRevelationTouchOfTheMoonCureFeature.Description",
+      "ProcessTemplates": true,
+      "zhCN": "如果你施放治疗法术，那么它们可能更加强效，但只影响目标的心灵。以一个自由动作，你可以花费一个法术位，你在这一轮施放的下一个同等级治疗法术会使目标额外获得治疗法术通常治愈的每d8骰1d4＋1的临时生命值。这类临时生命值在经过相当于你一半先知等级的分钟数后消散。",
+      "enGB": "Cure spells are potentially more effective but entirely in the target’s mind. As a free action you may spend a spell slot, the next cure spell you cast this round of the same level will also grant temporary hit points equal to 1d4 + 1 for each d8 that would normally be healed by the spell. Hit points healed this way expire after a number of minutes equal to half your oracle level."
+    },
+    {
+      "Key": "275d6c744f3742bea39b6b81aa19b0f1",
+      "SimpleName": "OracleRevelationTouchOfTheMoonCureFeature.Name",
+      "ProcessTemplates": false,
+      "zhCN": "月亮之触-治疗",
+      "enGB": "Touch of the Moon - Cure"
+    },
+    {
+      "Key": "1d54ae42072c403188858c4b3547c526",
+      "SimpleName": "OracleRevelationTouchOfTheMoonInflictFeature.Description",
+      "ProcessTemplates": true,
+      "zhCN": "如果你施放造伤法术，那么这些法术拥有疯狂的污染。受到你造伤法术的目标同时受到如同困惑术效果的影响，但持续轮数相当于造伤法术的环数。该效果的豁免DC相当于10+1/2先知等级+魅力调整值。",
+      "enGB": "When you cast inflict spells, these spells carry with them the taint of madness. Subjects who take damage from your inflict spells are also subject to confusion, as the spell, except the duration of this effect is a number of rounds equal to the level of the inflict spell. The save DC against this effect is 10 + 1/2 your oracle level + your Charisma modifier."
+    },
+    {
+      "Key": "3af6d7a397b64d5286a448f5f1dfb5f8",
+      "SimpleName": "OracleRevelationTouchOfTheMoonInflictFeature.Name",
+      "ProcessTemplates": false,
+      "zhCN": "月亮之触-造伤",
+      "enGB": "Touch of the Moon - Inflict"
+    },
+    {
+      "Key": "b239d3936a6f40edb295bd56a1346b1b",
+      "SimpleName": "OracleRevelationTouchOfTheMoonSelection.Description",
+      "ProcessTemplates": true,
+      "zhCN": "该启示的效果取决于你施放造伤法术还是治疗法术。\n如果你施放造伤法术，那么这些法术拥有疯狂的污染。受到你造伤法术的目标同时受到如同困惑术效果的影响，但持续轮数相当于造伤法术的环数。该效果的豁免DC相当于10+1/2先知等级+魅力调整值。\n如果你施放治疗法术，那么它们可能更加强效，但只影响目标的心灵。以一个自由动作，你可以花费一个法术位，你在这一轮施放的下一个同等级治疗法术会使目标额外获得治疗法术通常治愈的每d8骰1d4＋1的临时生命值。这类临时生命值在经过相当于你一半先知等级的分钟数后消散。",
+      "enGB": "The exact effects of this revelation depend on whether you cast inflict or cure spells. \nIf you cast inflict spells, these spells carry with them the taint of madness. Subjects who take damage from your inflict spells are also subject to confusion, as the spell, except the duration of this effect is a number of rounds equal to the level of the inflict spell. The save DC against this effect is 10 + 1/2 your oracle level + your Charisma modifier. \nAlternatively, if you cast cure spells, these spells are potentially more effective but entirely in the target’s mind. As a free action you may spend a spell slot, the next cure spell you cast this round of the same level will also grant temporary hit points equal to 1d4 + 1 for each d8 that would normally be healed by the spell. Hit points healed this way expire after a number of minutes equal to half your oracle level. \nYou must be at least 7th level to select this revelation."
+    },
+    {
+      "Key": "461823ac0073446f90d416df01162778",
+      "SimpleName": "OracleRevelationTouchOfTheMoonSelection.Name",
+      "ProcessTemplates": false,
+      "zhCN": "月亮之触",
+      "enGB": "Touch of the Moon"
     }
   ]
 }
