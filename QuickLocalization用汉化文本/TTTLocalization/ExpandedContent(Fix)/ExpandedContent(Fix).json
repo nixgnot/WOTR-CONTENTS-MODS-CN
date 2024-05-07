@@ -24868,7 +24868,7 @@
       "Key": "0f2a058dacba4c808347718259f37814",
       "SimpleName": "DivineHerbalistWinterMysteryFeature.Description",
       "ProcessTemplates": true,
-      "zhCN": "获取凛冬秘示域的法术和启示。\n由于神圣草药师变体，获得的职业技能被草药学大师特性和调制药水专长所取代。"
+      "zhCN": "获取凛冬秘示域的法术和启示。\n由于神圣草药师变体，获得的职业技能被草药学大师特性和调制药水专长所取代。",
       "enGB": "Gain access to the spells and revelations of the winter mystery. \nDue to the divine herbalist archetype the class skills gained from this archetypeare replaced by the master herbalist feature and the brew potions feat."
     },
     {
@@ -24946,7 +24946,7 @@
       "Key": "16510dc6370b4f6c85184593e23b1e3e",
       "SimpleName": "EnlightnedPhilosopherLunarMysteryFeature.Description",
       "ProcessTemplates": true,
-      zhCN": "具有月亮秘示域的先知将说服，隐匿，学识（自然）和知识（世界）添加到她的本职技能列表中。",
+      "zhCN": "具有月亮秘示域的先知将说服，隐匿，学识（自然）和知识（世界）添加到她的本职技能列表中。",
       "enGB": "An oracle with the lunar mystery adds Mobility, Lore (nature), Perception  and Knowledge (World)  to her list of class skills."
     },
     {
@@ -25072,7 +25072,7 @@
       "Key": "46386e34e7c04dc6adfa1cb502e31f2b",
       "SimpleName": "DivineHerbalistLunarMysteryFeature.Description",
       "ProcessTemplates": true,
-      "zhCN": "获取月亮秘示域的法术和启示。\n由于神圣草药师变体，获得的职业技能被草药学大师特性和调制药水专长所取代。"
+      "zhCN": "获取月亮秘示域的法术和启示。\n由于神圣草药师变体，获得的职业技能被草药学大师特性和调制药水专长所取代。",
       "enGB": "Gain access to the spells and revelations of the lunar mystery. \nDue to the divine herbalist archetype the class skills gained from this archetypeare replaced by the master herbalist feature and the brew potions feat."
     },
     {
