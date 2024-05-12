@@ -3202,7 +3202,7 @@
         },
 		{
             "Key": "HomebrewArchtypes_HeraldClassProficienciesDesc",
-            "zhCN": "先驱擅长所有建议武器，以及长剑、细剑、短剑和短弓。 先驱也擅长轻甲，盾牌(塔盾除外)以及信仰神祇的偏好武器。"
+            "zhCN": "先驱擅长所有简易武器，以及长剑、细剑、短剑和短弓。 先驱也擅长轻甲，盾牌(塔盾除外)以及信仰神祇的偏好武器。"
         },
 		{
             "Key": "HomebrewArchtypes_HeraldClassDoctrineSelection",
