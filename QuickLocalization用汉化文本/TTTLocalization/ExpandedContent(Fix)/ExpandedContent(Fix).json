@@ -5886,7 +5886,7 @@
       "SimpleName": "HollowBladesAbility.SavingThrow",
       "ProcessTemplates": false,
       "enGB": "Fortitude negates",
-      "zhCN": "强韧 无效"
+      "zhCN": "强韧豁免"
     },
     {
       "Key": "0f854f1af1fc4fa3a87c5e6886bb0c8b",
@@ -24812,7 +24812,7 @@
       "Key": "de37d916f36a4750b65520820575874f",
       "SimpleName": "DustOfTwilightAbility.SavingThrow",
       "ProcessTemplates": false,
-      "zhCN": "强韧豁免通过（仅无效疲乏）",
+      "zhCN": "强韧豁免（仅无效疲乏）",
       "enGB": "Fortitude negates (fatigue only)"
     },
     {
@@ -25198,7 +25198,7 @@
       "Key": "bf2816fa31a84a9085c9b96190aac410",
       "SimpleName": "OracleRevelationMoonbeamAbility.SavingThrow",
       "ProcessTemplates": false,
-      "zhCN": "强韧豁免失败（目盲）",
+      "zhCN": "强韧豁免（目盲）",
       "enGB": "Fortitude negates (blindness)"
     },
     {
