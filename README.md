@@ -1756,6 +1756,7 @@
        <td>Druidic Herbalism 德鲁伊草药学：德鲁伊可以免费酿造任何药水，还能将本来只能对自己释放的法术如同应用了炼金术师的注入炼成释放于盟友</td></tr>
    <tr><td>Antipaladin exclusive companion and mount - Nightmare (flaming horse) 反圣武士专属坐骑-梦魇</td></tr>
    <tr><td>Legion's Blessing (Cleric Crusader archetype lvl 8 feature) 军团祝福（牧师变体圣教军8级能力）：通过额外献祭高3环法术位，将正常范围为接触的无害法术，用于 10 英尺半径内的所有盟友。</td></tr>
+   <tr><td>Legion's Blessing (Cleric Crusader archetype lvl 8 feature) 军团祝福（牧师变体圣教军8级能力）：通过额外献祭高3环法术位，将正常范围为接触的无害法术，用于 10 英尺半径内的所有盟友。</td></tr>
    <tr><td rowspan="12">专长</td>
        <td>Unsanctioned Knowledge 禁忌学识（反圣武士版）：添加其他职业法术到圣武士法表</td></tr>
    <tr><td>Snake Style 蛇拳：察言观色+2，徒手攻击可造成穿刺伤害</td></tr>
@@ -2013,7 +2014,7 @@
            <td>Mindchemist 心智药师</td></tr> 
    <tr><td rowspan="7">职业特性</td>
        <td>先知秘示域</td>
-       <td>Dragon 龙、Heavens 苍天、Succor 救助、Wood 林木 Winter凛冬</td></tr>
+       <td>Dragon 龙、Heavens 苍天、Succor 救助 Wood 林木 Winter 凛冬 Lunar 月亮</td></tr>
    <tr><td>战斗祭司祝福</td>
        <td>Community 团队 Plant 植物 Artifice 手艺 War 战争</td></tr>
    <tr><td>炼金术师科研发现</td>
