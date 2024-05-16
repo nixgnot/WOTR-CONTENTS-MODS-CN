@@ -4375,12 +4375,12 @@ C:\Users\你的用户名\AppData\LocalLow\Owlcat Games\Pathfinder Wrath Of The R
 		 <td rowspan="2">新增法术</td>
 	            <td>抱成一团</td><td>效果同友善之拥，群体。</td></tr>
 	            <td>快乐大合唱</td><td>效果期间使用你所知的一切表演且不消耗这些能力的每日使用次数</td></tr>
-	 <tr><td rowspan="3">御衡</td><td></tr>
+	 <tr><td rowspan="3">御衡</td>
 		 <td colspan="3">现在御衡道途法术为9环，法术获得进度已经重制</td></tr>
 		 <td rowspan="2">新增法术</td>
 	            <td>完全虚无法令</td><td>御衡者和 20 英尺半径内的所有盟友都获得群体防护能量法术的好处，但它适用于所有伤害类型。</td></tr>
 	            <td>绝对权威法令</td><td>以一个迅捷动作，你可以使30英尺半径内的所有敌人受到报复法令和不抵抗法令的影响</td></tr>
-	 <tr><td rowspan="3">恶魔</td><td></tr>
+	 <tr><td rowspan="3">恶魔</td>
 		 <td colspan="3">现在恶魔道途法术为9环，法术获得进度已经重制</td></tr>
 		 <td rowspan="2">新增法术</td>
 	            <td>盲目狂怒</td><td>范围内所有目标必须通过意志豁免，否则受到目盲以及狂暴术的效果。此外，未能通过豁免者还会失去真知术，盲斗，以及任何令其无视隐蔽，或是重投隐蔽失手的效果所带来的好处。</td></tr>
