@@ -4365,10 +4365,16 @@ C:\Users\你的用户名\AppData\LocalLow\Owlcat Games\Pathfinder Wrath Of The R
 	            <td colspan="2">审判之矢提升到7环</td></tr>
 	            <td colspan="2">审判风暴提升到9环</td></tr>
 	            <td colspan="2">正义之怒现在为8环且只会影响邪恶恶魔（爱酱！）</td></tr>
-	         <td rowspan="2">强化天使光环</td>
+	         <td rowspan="2">新增<br>强化天使光环</td>
 	            <td>神圣勇士</td><td>激活天使光环时，天使造成的所有能量伤害转化为神圣伤害。</td></tr>
 	            <td>天堂烈焰</td><td>激活天使光环时，天使造成的所有能量伤害转化为火焰伤害。</td></tr>
-	 <tr><td>灵使</td><td></tr>
+	 <tr><td rowspan="4">灵使</td>
+		 <td colspan="3">现在道途法术为9环，法术获得进度已经重制</td></tr>
+	         <td rowspan="1">新增<br>超然之力</td>
+	            <td>和声回响</td><td>可以在持续一首灵使之歌的同时启动第二首。</td></tr>
+		 <td rowspan="2">新增法术</td>
+	            <td>抱成一团</td><td>效果同友善之拥，群体。</td></tr>
+	            <td>快乐大合唱</td><td>效果期间使用你所知的一切表演且不消耗这些能力的每日使用次数</td></tr>
 	 <tr><td>御衡</td><td></tr>
 	 <tr><td>恶魔</td><td></tr>
 </table> 
