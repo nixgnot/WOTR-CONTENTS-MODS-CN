@@ -4354,7 +4354,7 @@ C:\Users\你的用户名\AppData\LocalLow\Owlcat Games\Pathfinder Wrath Of The R
 <table>
 <tr><th colspan="3">修改列表<br></th></tr> 
      <tr><td>合书规则</td><td colspan="2">所有施法者、所有道途现在都可以合术。4环和6环施法者在合书后会获得高环法术位。</td></tr>
-	 <tr><td>巫妖</td>
+	 <tr><td rowspan="4">巫妖</td>
 		 <td colspan="2">将次级操纵亡者加入法术书</td></tr>
 	         <td colspan="2">加强死灵伴兽，获得等于你神话阶层的魅力加值</td></tr>
 	         <td colspan="2">增加神话能力，可以将同伴的动物伙伴变为不死生物模板</td></tr>
