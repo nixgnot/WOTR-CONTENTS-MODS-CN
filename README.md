@@ -10,8 +10,7 @@
 
 **特别提示！！不确定是否因为Github更新，直接在主页上访问此文档可能会出现页面内跳转无效**    
 **为了方便阅览，建议点击上面的文件列表中的README.MD，以文档形式浏览，避免此问题**
-
-**特别提示！！由于本文档作者长期出差中，暂时无法检查dlc5兼容性情况和更新汉化，请耐心等待**   ——2023年11月    
+    
 
 ## 目录
 
@@ -4345,6 +4344,12 @@ C:\Users\你的用户名\AppData\LocalLow\Owlcat Games\Pathfinder Wrath Of The R
 > *安装方式：* **UMM**<br>
 > *新增内容：* 能自定义爱乌的能力加点<br>
 
+-------------------------------------------
+### [Mythic-Magic-Mayhem](https://github.com/YLMstring/Mythic-Magic-Mayhem) 
+> *前置：* [SpellbookMerge](https://github.com/vikigenius/SpellbookMerge/tree/master)<br>
+> *中文：* **自带**<br>
+> *安装方式：* **UMM**<br>
+> *新增内容：* 神话法术系统重制<br>
 
 ------------------------------------------- 
 ### 功能MOD索引
