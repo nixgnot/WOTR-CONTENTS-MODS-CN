@@ -86,6 +86,7 @@
 | [SpellSlotFreedom](#SpellSlotFreedom) | 灵活法术位 |  | :heavy_check_mark: | :+1:| :file_folder: |🛠️||
 | [MagicArmory](#MagicArmory) | 魔法军械库 | QL汉化 | :heavy_check_mark: | :+1:| :file_folder: |||
 | [LevelableAivu](#LevelableAivu) | 自定义爱乌 | 暂无 | :heavy_check_mark: | :+1::+1:| :file_folder: |🛠️||
+| [Mythic-Magic-Mayhem](#Mythic-Magic-Mayhem) | 神话法术重制 | 暂无 | :heavy_check_mark: | :+1::+1::+1:| :file_folder::file_folder: |🛠️🛠️||
 
 备注
 + UMM一栏为是否使用UMM安装
@@ -4360,11 +4361,11 @@ C:\Users\你的用户名\AppData\LocalLow\Owlcat Games\Pathfinder Wrath Of The R
 	         <td colspan="3">增加神话能力，可以将同伴的动物伙伴变为不死生物模板</td></tr>
 	         <td colspan="3">在神话5获得被动分支，选择使用魅力和体质中较高者进行强韧豁免和生命值修正</td></tr>
 	 <tr><td rowspan="4">天使</td><td></tr>
-		 <td>法术改动</td>
+		 <td rowspan="3">法术改动</td>
 	            <td colspan="2">审判之矢提升到7环</td></tr>
 	            <td colspan="2">审判风暴提升到9环</td></tr>
 	            <td colspan="2">正义之怒现在为8环且只会影响邪恶恶魔（爱酱！）</td></tr>
-	         <td>强化天使光环</td>
+	         <td rowspan="2">强化天使光环</td>
 	            <td>神圣勇士</td><td>激活天使光环时，天使造成的所有能量伤害转化为神圣伤害。</td>
 	            <td>天堂烈焰</td><td>激活天使光环时，天使造成的所有能量伤害转化为火焰伤害。</td></tr>
 	 <tr><td>灵使</td><td></tr>
