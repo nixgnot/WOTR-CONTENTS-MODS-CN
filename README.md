@@ -86,7 +86,7 @@
 | [MythicSpellFlexibility](#MythicSpellFlexibility) | 灵活神话法术 |  | :heavy_check_mark: | :+1:| :file_folder: |🛠️||
 | [SpellSlotFreedom](#SpellSlotFreedom) | 灵活法术位 |  | :heavy_check_mark: | :+1:| :file_folder: |🛠️||
 | [MagicArmory](#MagicArmory) | 魔法军械库 | QL汉化 | :heavy_check_mark: | :+1:| :file_folder: |||
-| [LevelableAivu](#LevelableAivu) | 自定义爱乌 | 暂无 | :heavy_check_mark: | :+1::+1::+1:| :file_folder: |🛠️||
+| [LevelableAivu](#LevelableAivu) | 自定义爱乌 | 暂无 | :heavy_check_mark: | :+1::+1:| :file_folder: |🛠️||
 
 备注
 + UMM一栏为是否使用UMM安装
