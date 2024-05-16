@@ -85,7 +85,8 @@
 | [RandomEquipment](#RandomEquipment) | 随机装备 | 暂无 | :heavy_check_mark: | :+1::+1: | :file_folder: |🛠️||
 | [MythicSpellFlexibility](#MythicSpellFlexibility) | 灵活神话法术 |  | :heavy_check_mark: | :+1:| :file_folder: |🛠️||
 | [SpellSlotFreedom](#SpellSlotFreedom) | 灵活法术位 |  | :heavy_check_mark: | :+1:| :file_folder: |🛠️||
-| [MagicArmory](#MagicArmory) | 魔法军械库 | 暂无 | :heavy_check_mark: | :+1:| :file_folder: |||
+| [MagicArmory](#MagicArmory) | 魔法军械库 | QL汉化 | :heavy_check_mark: | :+1:| :file_folder: |||
+| [LevelableAivu](#LevelableAivu) | 自定义爱乌 | 暂无 | :heavy_check_mark: | :+1::+1::+1:| :file_folder: |🛠️||
 
 备注
 + UMM一栏为是否使用UMM安装
@@ -4338,6 +4339,14 @@ C:\Users\你的用户名\AppData\LocalLow\Owlcat Games\Pathfinder Wrath Of The R
 </table>   
 
 -------------------------------------------
+### [LevelableAivu](https://github.com/pheonix99/LevelableAivu) 
+> *前置：* 无<br>
+> *中文：* **无**<br>
+> *安装方式：* **UMM**<br>
+> *新增内容：* 能自定义爱乌的能力加点<br>
+
+
+------------------------------------------- 
 ### 功能MOD索引
 + [ToyBox](https://www.nexusmods.com/pathfinderwrathoftherighteous/mods/8) 应该不用介绍？
 + [RespecMod](https://github.com/BarleyFlour/RespecMod) 洗点MOD（允许更自由洗点，自定义初始点数等）
