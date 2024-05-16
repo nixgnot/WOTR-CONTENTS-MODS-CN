@@ -4352,14 +4352,21 @@ C:\Users\你的用户名\AppData\LocalLow\Owlcat Games\Pathfinder Wrath Of The R
 > *新增内容：* 神话法术系统重制<br>
 重制了神话道途法术系统，允许所有道途任意合书
 <table>
-<tr><th colspan="3">修改列表<br></th></tr> 
-     <tr><td>合书规则</td><td colspan="2">所有施法者、所有道途现在都可以合术。4环和6环施法者在合书后会获得高环法术位。</td></tr>
+<tr><th colspan="4">修改列表<br></th></tr> 
+     <tr><td>合书规则</td><td colspan="3">所有施法者、所有道途现在都可以合术。4环和6环施法者在合书后会获得高环法术位。</td></tr>
 	 <tr><td rowspan="4">巫妖</td>
-		 <td colspan="2">将次级操纵亡者加入法术书</td></tr>
-	         <td colspan="2">加强死灵伴兽，获得等于你神话阶层的魅力加值</td></tr>
-	         <td colspan="2">增加神话能力，可以将同伴的动物伙伴变为不死生物模板</td></tr>
-	         <td colspan="2">在神话5获得被动分支，使用魅力和体质中较高者进行强韧检定和生命修正</td></tr>
-	 <tr><td>天使</td><td></tr>
+		 <td colspan="3">将次级操纵亡者加入法术书</td></tr>
+	         <td colspan="3">加强死灵伴兽，获得等于你神话阶层的魅力加值</td></tr>
+	         <td colspan="3">增加神话能力，可以将同伴的动物伙伴变为不死生物模板</td></tr>
+	         <td colspan="3">在神话5获得被动分支，选择使用魅力和体质中较高者进行强韧豁免和生命值修正</td></tr>
+	 <tr><td rowspan="4">天使</td><td></tr>
+		 <td>法术改动</td>
+	            <td colspan="2">审判之矢提升到7环</td></tr>
+	            <td colspan="2">审判风暴提升到9环</td></tr>
+	            <td colspan="2">正义之怒现在为8环且只会影响邪恶恶魔（爱酱！）</td></tr>
+	         <td>强化天使光环</td>
+	            <td>神圣勇士</td><td>激活天使光环时，天使造成的所有能量伤害转化为神圣伤害。</td>
+	            <td>天堂烈焰</td><td>激活天使光环时，天使造成的所有能量伤害转化为火焰伤害。</td></tr>
 	 <tr><td>灵使</td><td></tr>
 	 <tr><td>御衡</td><td></tr>
 	 <tr><td>恶魔</td><td></tr>
