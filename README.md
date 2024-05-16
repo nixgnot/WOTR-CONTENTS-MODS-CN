@@ -4369,7 +4369,7 @@ C:\Users\你的用户名\AppData\LocalLow\Owlcat Games\Pathfinder Wrath Of The R
 	            <td>神圣勇士</td><td>激活天使光环时，天使造成的所有能量伤害转化为神圣伤害。</td></tr>
 	            <td>天堂烈焰</td><td>激活天使光环时，天使造成的所有能量伤害转化为火焰伤害。</td></tr>
 	 <tr><td rowspan="4">灵使</td>
-		 <td colspan="3">现在道途法术为9环，法术获得进度已经重制</td></tr>
+		 <td colspan="3">现在灵使道途法术为9环，法术获得进度已经重制</td></tr>
 	         <td rowspan="1">新增<br>超然之力</td>
 	            <td>和声回响</td><td>可以在持续一首灵使之歌的同时启动第二首。</td></tr>
 		 <td rowspan="2">新增法术</td>
