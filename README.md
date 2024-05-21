@@ -3777,7 +3777,7 @@ C:\Users\你的用户名\AppData\LocalLow\Owlcat Games\Pathfinder Wrath Of The R
        <tr><td colspan="2">王牌弩手 Bolt Ace<br>在桌面上是铳士变体，作者修改成了5级封顶的进阶职业</td></tr>
        <tr><td colspan="2">森林守护者 Forest Warden</td></tr>
        <tr><td colspan="2">凡世渡魂人 Mortal Usher</td></tr>
-  <tr><td rowspan="36">职业特性和其他</i></td>
+  <tr><td rowspan="38">职业特性和其他</i></td>
        <tr><td rowspan="7">狂暴之力 Rage Power</td></tr>
        <td>醉怒狂吼 Roaring Drunk<br>狂暴时，野蛮人获得威吓检定以及她创造的任何恐惧效果DC的士气加值，每4野蛮人等级增加1点。</td></tr>
        <td>勇气之水 Liquid Courage<br>狂暴时，野蛮人获得针对影响心智效果的豁免士气加值，每4野蛮人等级增加1点。</td></tr>
@@ -3805,6 +3805,8 @@ C:\Users\你的用户名\AppData\LocalLow\Owlcat Games\Pathfinder Wrath Of The R
        <td>灭法审判域 Spellkiller Inquisition<br>你获得扰法者作为额外专长。你击败一个敌人时，便在防御等级上获得+2神圣或亵渎加值，持续1分钟每审判者等级。</td></tr>
        <td>革新审判域 Reformation Inquisition<br>你可以使用感知调整值而非魅力调整值加到任意说服检定的结果上。4级起，当你进行一次交涉或威吓技能检定时，你可以双骰取高。你每天可以使用本能力的轮数等同于你的感知调整值。</td></tr>
        <td>策略审判域 Tactics Inquisition<br>你可以放弃整轮动作以及本轮所有的借机攻击，使一个距离你不超过30尺的盟友获得加速术的好处1轮。8级起，所有距离你不超过30尺的盟友都可以将你的感知调整值加到他们的先攻检定结果上。</td></tr>
+       <tr><td rowspan="2">骑士团 Order</td></tr>
+       <td>大锤骑士团 Order of the Hammer<br>大锤骑士团的骑将在全回合攻击她正在挑战的对手时，可以用自由动作进行一次擒抱或击破战技，此战技不会引发借机攻击。15级起，以标准动作，她可以给自己和30尺内所有盟友的近战攻击，战技检定，强韧豁免和运动检定提供+4士气加值。她可以用自由动作维持，每日可使用此能力的轮数等同1/2骑将等级，不必连续。"</td></tr>
        <tr><td>魔宠 Familiar</td><td>蟹王 Crab King<br>主人获得+2擒抱检定加值。</td></tr>
        <tr><td>炼金科研发现 Discovery</td><td>触手 Tentacle<br>此触手不会给予炼金术师每轮额外的攻击或动作，但触手的“攫抓”能力具有+4擒抱检定加值。</td></tr>
        <tr><td rowspan="6">诗人传世名作 Bardic Masterpieces<br>吟游诗人必须花费一个已知法术或是通过专长来学习传世名作，他可以花费比该传世名作要求最低等级还高的法术位以学习传世名作。</td></tr>
