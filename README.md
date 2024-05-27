@@ -4387,7 +4387,7 @@ C:\Users\你的用户名\AppData\LocalLow\Owlcat Games\Pathfinder Wrath Of The R
 		 <td rowspan="2">新增法术</td>
 	            <td>盲目狂怒</td><td>范围内所有目标必须通过意志豁免，否则受到目盲以及狂暴术的效果。此外，未能通过豁免者还会失去真知术，盲斗，以及任何令其无视隐蔽，或是重投隐蔽失手的效果所带来的好处。</td></tr>
 	            <td>深渊裂隙</td><td>每轮都会出现一个随机的恶魔，并为你战斗1分钟。</td></tr>
-	 <tr><td rowspan="3">诡计</td>
+	 <tr><td rowspan="4">诡计</td>
 		 <td colspan="3">现在诡计道途法术为9环，法术获得进度已经重制</td></tr>
 		 <td rowspan="3">新增法术</td>
 	            <td>镜影殿堂</td><td>你和全体友军受到镜影术影响并且每轮刷新。</td></tr>
