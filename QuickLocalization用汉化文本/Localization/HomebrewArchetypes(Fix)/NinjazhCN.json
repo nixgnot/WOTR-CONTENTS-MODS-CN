@@ -1,0 +1,643 @@
+﻿[
+		{
+            "Key": "SwarmFilesClass_Ninja", // "15edb451-dc5b-4def-807c-a451743eb3a6" for example
+            "zhCN": "忍者"
+        },
+		{
+            "Key": "SwarmFilesClass_NinjaDesc", // "15edb451-dc5b-4def-807c-a451743eb3a6" for example
+            "zhCN": "这些影子杀手是渗透、破坏和暗杀的大师，使用各种各样的武器、熟练技能和神秘能力来达成目的。"
+        },
+		{
+            "Key": "SwarmFilesClass_NinjaShort", // "15edb451-dc5b-4def-807c-a451743eb3a6" for example
+            "zhCN": "忍者花费几乎她所有的时间来磨练技艺，或是为下次任务准备。即使不在任务中，忍者也时刻保持警惕并准备好面对任何突然到来的致命情况。她的工作行当为她带来了许多敌人，但这一名单也随着她使用暗杀和误导手段而频繁缩短。"
+        },
+		{
+            "Key": "SwarmFilesAbility_KiPool", // "15edb451-dc5b-4def-807c-a451743eb3a6" for example
+            "zhCN": "气池"
+        },
+		{
+            "Key": "SwarmFilesAbility_KiPoolDesc", // "15edb451-dc5b-4def-807c-a451743eb3a6" for example
+            "zhCN": "2级时，忍者获得一个气池，其中流转的超自然能量令她能够完成神妙的技艺。忍者的气池大小等于“1/2忍者等级+魅力修正”。\n自气池消耗1点气，忍者可以用最高基本攻击加值进行一次额外的攻击，但限其使用全力攻击时。 忍者可以随着等级的提高而获得更多的气。"
+        },
+		{
+            "Key": "SwarmFilesAbility_KiPoolShort", // "15edb451-dc5b-4def-807c-a451743eb3a6" for example
+            "zhCN": "PlaceholderText2"
+        },
+		{
+            "Key": "SwarmFilesAbility_NoTrace", // "15edb451-dc5b-4def-807c-a451743eb3a6" for example
+            "zhCN": "无痕"
+        },
+		{
+            "Key": "SwarmFilesAbility_NoTraceDesc", // "15edb451-dc5b-4def-807c-a451743eb3a6" for example
+            "zhCN": "3级时，忍者习得如何掩盖行踪、长时间躲藏以及隐藏其存在。 知识(自然)和隐匿技能检定获得+1加值。 这个加值每获得两个忍者等级再加1"
+        },
+		{
+            "Key": "SwarmFilesAbility_NoTraceShort", // "15edb451-dc5b-4def-807c-a451743eb3a6" for example
+            "zhCN": "PlaceholderText2"
+        },
+		{
+            "Key": "SwarmFilesAbility_PoisonUse", // "15edb451-dc5b-4def-807c-a451743eb3a6" for example
+            "zhCN": "淬毒"
+        },
+		{
+            "Key": "SwarmFilesAbility_UsePoisonDesc", // "15edb451-dc5b-4def-807c-a451743eb3a6" for example
+            "zhCN": "PlaceholderText2"
+        },
+		{
+            "Key": "SwarmFilesAbility_UsePoisonShort", // "15edb451-dc5b-4def-807c-a451743eb3a6" for example
+            "zhCN": "PlaceholderText2"
+        },
+		{
+            "Key": "SwarmFilesProf_NinjaProf", // "15edb451-dc5b-4def-807c-a451743eb3a6" for example
+            "zhCN": "忍者擅长"
+        },
+		{
+            "Key": "SwarmFilesProf_NinjaProfDesc", // "15edb451-dc5b-4def-807c-a451743eb3a6" for example
+            "zhCN": "忍者精通各种外来武器，比如单镰、武士刀、双截棍、拳匕、星刃、笔架叉、短弓、短剑。忍者擅长轻甲，但是不擅长使用盾牌。"
+        },
+		{
+            "Key": "SwarmFilesProf_NinjaProfShort", // "15edb451-dc5b-4def-807c-a451743eb3a6" for example
+            "zhCN": "PlaceholderText2"
+        },
+		{
+            "Key": "SwarmFilesAbility_LightSteps", // "15edb451-dc5b-4def-807c-a451743eb3a6" for example
+            "zhCN": "轻身步"
+        },
+		{
+            "Key": "SwarmFilesAbility_LightStepsDesc", // "15edb451-dc5b-4def-807c-a451743eb3a6" for example
+            "zhCN": "PlaceholderText2"
+        },
+		{
+            "Key": "SwarmFilesAbility_LightStepsShort", // "15edb451-dc5b-4def-807c-a451743eb3a6" for example
+            "zhCN": "PlaceholderText2"
+        },
+		{
+            "Key": "SwarmFilesAbility_NinjaTricks", // "15edb451-dc5b-4def-807c-a451743eb3a6" for example
+            "zhCN": "忍术"
+        },
+		{
+            "Key": "SwarmFilesAbility_NinjaTricksDesc", // "15edb451-dc5b-4def-807c-a451743eb3a6" for example
+            "zhCN": "随着忍者不断练习其技艺，她学会了很多花招，能够让她迷惑敌人或是为她带来超自然的能力。2级开始，忍者习得一项忍术。之后每2级再习得一项。除非额外注明，忍者通常无法对一项忍术进行多次选择。"
+        },
+		{
+            "Key": "SwarmFilesAbility_NinjaTricksShort", // "15edb451-dc5b-4def-807c-a451743eb3a6" for example
+            "zhCN": "PlaceholderText2"
+        },
+		{
+            "Key": "SwarmFilesAbility_MasterTricks", // "15edb451-dc5b-4def-807c-a451743eb3a6" for example
+            "zhCN": "高等忍术"
+        },
+		{
+            "Key": "SwarmFilesAbility_MasterTricksDesc", // "15edb451-dc5b-4def-807c-a451743eb3a6" for example
+            "zhCN": "10级时，以及之后每2等级，忍者可以选择一项高等忍术代替忍术。"
+        },
+		{
+            "Key": "SwarmFilesAbility_MasterTricksShort", // "15edb451-dc5b-4def-807c-a451743eb3a6" for example
+            "zhCN": "PlaceholderText2"
+        },
+		{
+            "Key": "SwarmFilesAbility_HiddenMaster", // "15edb451-dc5b-4def-807c-a451743eb3a6" for example
+            "zhCN": "隐藏大师"
+        },
+		{
+            "Key": "SwarmFilesAbility_HiddenMasterDesc", // "15edb451-dc5b-4def-807c-a451743eb3a6" for example
+            "zhCN": "20级时，忍者成为一个真正的技艺大师。她可以用一个标准动作为自己施展‘高等隐形术’。当以此方式隐形时，她无法以任何方式侦测到，甚至‘消除隐形’、‘识破隐形’和‘真知术’也无法发现她。她使用忍者等级作为此能力的施法者等级，使用此能力花费2点气。此外，她可以强化她的偷袭以造成各种属性伤害，这项能力每次持续1分钟"
+        },
+		{
+            "Key": "SwarmFilesAbility_HiddenMasterShort", // "15edb451-dc5b-4def-807c-a451743eb3a6" for example
+            "zhCN": "PlaceholderText2"
+        },
+		{
+            "Key": "SwarmFilesAbility_KiPoolResourceName", // "15edb451-dc5b-4def-807c-a451743eb3a6" for example
+            "zhCN": "气池"
+        },
+		{
+            "Key": "SwarmFilesAbility_KiPoolResourceDesc", // "15edb451-dc5b-4def-807c-a451743eb3a6" for example
+            "zhCN": "PlaceholderText2"
+        },
+		{
+            "Key": "SwarmFilesAbility_DispatchmentName", // "15edb451-dc5b-4def-807c-a451743eb3a6" for example
+            "zhCN": "暗杀"
+        },
+		{
+            "Key": "SwarmFilesAbility_DispatchmentDesc", // "15edb451-dc5b-4def-807c-a451743eb3a6" for example
+            "zhCN": "4级时，每当忍者攻击一个失去敏捷AC加成或夹击目标时，她的攻击获得+2加值。在9级和之后每5级，这个加值增加+1(最多+5)。"
+        },
+		{
+            "Key": "SwarmFilesSignature_KiPower", // "15edb451-dc5b-4def-807c-a451743eb3a6" for example
+            "zhCN": "气力"
+        },
+		{
+            "Key": "SwarmFilesSignature_KiPowerDesc", // "15edb451-dc5b-4def-807c-a451743eb3a6" for example
+            "zhCN": "忍者拥有气池，他们可以使用它来增强他们的攻击能力或激活特殊能力。 气池在忍者休息以后恢复。 随着忍者的进步, 他们会获得新的专长和能力来使用气池"
+        },
+		{
+            "Key": "SwarmFilesAbility_StyleStrike", // "15edb451-dc5b-4def-807c-a451743eb3a6" for example
+            "zhCN": "真劲击"
+        },
+		{
+            "Key": "SwarmFilesAbility_StyleStrikeDesc", // "15edb451-dc5b-4def-807c-a451743eb3a6" for example
+            "zhCN": "5级时，忍者可以像武僧一样学习真劲击。 每当她使用气池进行额外攻击时，可以宣布其中一次攻击为真劲击。无论使用的是什么武器。 该次攻击正常判定命中与否，但根据真劲击的选择不同，会附加上不同的效果。 10级以及之后每5级, 忍者都可再学习一种真劲击。 她必须在攻击骰掷前决定使用何种真劲击。与武僧不同，忍者每回合不能指定一次以上的攻击应用真劲击。"
+        },
+		{
+            "Key": "SwarmFilesAbility_DefensiveSpin", // "15edb451-dc5b-4def-807c-a451743eb3a6" for example
+            "zhCN": "缠丝劲"
+        },
+		{
+            "Key": "SwarmFilesAbility_DefensiveSpinDesc", // "15edb451-dc5b-4def-807c-a451743eb3a6" for example
+            "zhCN": "忍者依靠缠字诀混淆敌人。若攻击命中，直到忍者下一回合开始前，忍者对抗目标敌人所有攻击时ＡＣ都能获得＋４闪避加值。该加值本身不会叠加。"
+        },
+		{
+            "Key": "SwarmFilesBuff_Dispatchment", // "15edb451-dc5b-4def-807c-a451743eb3a6" for example
+            "zhCN": "Dispatchment"
+        },
+		{
+            "Key": "SwarmFilesBuff_DispatchmentDesc", // "15edb451-dc5b-4def-807c-a451743eb3a6" for example
+            "zhCN": "Dispatchment"
+        },
+		{
+            "Key": "SwarmFilesAbility_UACM", // "15edb451-dc5b-4def-807c-a451743eb3a6" for example
+            "zhCN": "精通徒手打击"
+        },
+		{
+            "Key": "SwarmFilesAbility_UACMDesc", // "15edb451-dc5b-4def-807c-a451743eb3a6" for example
+            "zhCN": "忍者可以如同武僧一样使用徒手打击造成伤害，如同一个忍者等级-4级的武僧"
+        },
+		{
+            "Key": "SwarmFilesAbility_VanishingTrick", // "15edb451-dc5b-4def-807c-a451743eb3a6" for example
+            "zhCN": "忍法·遁形"
+        },
+		{
+            "Key": "SwarmFilesAbility_VanishingTrickDesc", // "15edb451-dc5b-4def-807c-a451743eb3a6" for example
+            "zhCN": "忍者可以消失每等级1轮。本能力类似‘隐形术’，使用本能力为迅捷动作。忍者每次使用需花费1点气。"
+        },
+		{
+            "Key": "SwarmFilesAbility_ShadowClone", // "15edb451-dc5b-4def-807c-a451743eb3a6" for example
+            "zhCN": "忍法·幻身"
+        },
+		{
+            "Key": "SwarmFilesAbility_ShadowCloneDesc", // "15edb451-dc5b-4def-807c-a451743eb3a6" for example
+            "zhCN": "忍者创造出1d4个自身的阴影复制体，隐藏自己的真实位置。这类似于‘镜影术’，使用忍者的等级作为施法者等级。使用本忍术为标准动作并花费1点气。"
+        },
+		{
+            "Key": "SwarmFilesAbility_SmokeBomb", // "15edb451-dc5b-4def-807c-a451743eb3a6" for example
+            "zhCN": "忍法·迷踪"
+        },
+		{
+            "Key": "SwarmFilesAbility_SmokeBombDesc", // "15edb451-dc5b-4def-807c-a451743eb3a6" for example
+            "zhCN": "本能力允许忍者投掷一枚烟雾弹制造一团15尺半径的烟雾。这类似于烟雾棒发烟。忍者可以将自己定为烟雾的中心，或是以20尺射程进行远程接触攻击投掷烟雾弹。使用本忍术为标准动作并花费1点气。"
+        },
+		{
+            "Key": "SwarmFilesAbility_SmokeBombDesc2", // "15edb451-dc5b-4def-807c-a451743eb3a6" for example
+            "zhCN": "在烟雾笼罩范围内附加20%的近战隐蔽和50%远程隐蔽。"
+        },
+		{
+            "Key": "SwarmFilesAbility_PoisonBomb", // "15edb451-dc5b-4def-807c-a451743eb3a6" for example
+            "zhCN": "忍法·风蚀"
+        },
+		{
+            "Key": "SwarmFilesAbility_PoisonBombDesc", // "15edb451-dc5b-4def-807c-a451743eb3a6" for example
+            "zhCN": "每当忍者投掷烟雾弹时，她可以选择添入一份任何她所拥有的吸入型毒药。该毒药影响所有烟雾中的生物，持续时间与烟雾相同。。"
+        },
+		{
+            "Key": "SwarmFilesAbility_ChokingBomb", // "15edb451-dc5b-4def-807c-a451743eb3a6" for example
+            "zhCN": "忍法·灰飞"
+        },
+		{
+            "Key": "SwarmFilesAbility_ChokingBombDesc", // "15edb451-dc5b-4def-807c-a451743eb3a6" for example
+            "zhCN": "每当忍者投掷烟雾弹时，所有生成烟雾中的活物必须通过强韧检定，否则因呛人的黑烟而恍惚1d4轮。该豁免检定DC等于“10+1/2忍者等级+魅力修正”。"
+        },
+		{
+            "Key": "SwarmFilesAbility_PoisonBombDex", // "15edb451-dc5b-4def-807c-a451743eb3a6" for example
+            "zhCN": "忍法·风蚀(敏捷)"
+        },
+		{
+            "Key": "SwarmFilesAbility_PoisonBombStr", // "15edb451-dc5b-4def-807c-a451743eb3a6" for example
+            "zhCN": "忍法·风蚀(力量)"
+        },
+		{
+            "Key": "SwarmFilesAbility_PoisonBombCon", // "15edb451-dc5b-4def-807c-a451743eb3a6" for example
+            "zhCN": "忍法·风蚀(体质)"
+        },
+		{
+            "Key": "SwarmFilesAbility_FlurryofStars", // "15edb451-dc5b-4def-807c-a451743eb3a6" for example
+            "zhCN": "忍法·星散"
+        },
+		{
+            "Key": "SwarmFilesAbility_FlurryofStarsDesc", // "15edb451-dc5b-4def-807c-a451743eb3a6" for example
+            "zhCN": "拥有此忍术的忍者可以在她使用手里剑进行整轮攻击时，以一个迅捷动作花费1点气，额外以最高攻击加值投掷出两枚手里剑，但她所有的手里剑攻击均受-2减值。"
+        },
+		{
+            "Key": "SwarmFilesAbility_DeadlyShuriken", // "15edb451-dc5b-4def-807c-a451743eb3a6" for example
+            "zhCN": "致命手里剑"
+        },
+		{
+            "Key": "SwarmFilesAbility_DeadlyShurikenDesc", // "15edb451-dc5b-4def-807c-a451743eb3a6" for example
+            "zhCN": "以一个整轮动作，拥有这个大师技巧的忍者可以仔细瞄准，并将她所有的攻击潜力集中到一次致命的投掷中。当她这样做时，她骰两次伤害骰，取较高的那个，然后添加其他的伤害加成"
+        },
+		{
+            "Key": "SwarmFilesAbility_StepThroughShadows", // "15edb451-dc5b-4def-807c-a451743eb3a6" for example
+            "zhCN": "忍法·影遁"
+        },
+		{
+            "Key": "SwarmFilesAbility_Step Through Shadows", // "15edb451-dc5b-4def-807c-a451743eb3a6" for example
+            "zhCN": "选择这个忍术的忍者可以消失在一个光线昏暗或黑暗的区域，并从另一个光线昏暗或黑暗的区域出现。这个功能相当于次元传送。使用本忍术花费1点气。"
+        },
+		{
+            "Key": "SwarmFilesAbility_ShadowyMistForm", // "15edb451-dc5b-4def-807c-a451743eb3a6" for example
+            "zhCN": "忍法·影雾身"
+        },
+		{
+            "Key": "SwarmFilesAbility_ShadowyMistFormDesc", // "15edb451-dc5b-4def-807c-a451743eb3a6" for example
+            "zhCN": "选择这个忍术的忍者可以变身为一团漆黑的云雾。此功能类似‘气化形体 (gaseous form)’，但它还能如同‘云雾术 (fog cloud)’一般遮挡视线。使用本忍术花费1点气。"
+        },
+		{
+            "Key": "SwarmFilesAbility_SeetheUnseen", // "15edb451-dc5b-4def-807c-a451743eb3a6" for example
+            "zhCN": "忍法·慧识眼"
+        },
+		{
+            "Key": "SwarmFilesAbility_SeetheUnseenDesc", // "15edb451-dc5b-4def-807c-a451743eb3a6" for example
+            "zhCN": "拥有本忍术的忍者习得如何看到不可视的存在。以一个迅捷动作，忍者可以施展‘识破隐形’，使用其等级作为施法者等级。。使用本忍术花费1点气。"
+        },
+		{
+            "Key": "SwarmFilesAbility_BlindingBomb", // "15edb451-dc5b-4def-807c-a451743eb3a6" for example
+            "zhCN": "忍法·灰飞灭"
+        },
+		{
+            "Key": "SwarmFilesAbility_BlindingBombDesc", // "15edb451-dc5b-4def-807c-a451743eb3a6" for example
+            "zhCN": "每当忍者投掷烟雾弹时，所有烟雾中的活物必须通过强韧检定，否则受黑烟影响目盲1d4轮。豁免DC等于“10+1/2忍者等级+魅力修正”。"
+        },
+		{
+            "Key": "SwarmFilesAbility_KiPowerSelection", // "15edb451-dc5b-4def-807c-a451743eb3a6" for example
+            "zhCN": "拥有这种技巧的忍者可以选择任何她符合条件的武僧气力。她使用她的忍者等级-2作为她的有效武僧等级。忍者可以多次选择此技能。每次，她都必须选择不同的气力。"
+        },
+		{
+            "Key": "SwarmFilesSignature_NinjaTricks", // "15edb451-dc5b-4def-807c-a451743eb3a6" for example
+            "zhCN": "忍术"
+        },
+		{
+            "Key": "SwarmFilesSignature_NinjaTricksDesc", // "15edb451-dc5b-4def-807c-a451743eb3a6" for example
+            "zhCN": "忍者拥有一系列的天赋，使他们能够使用各种各样的能力、技能和工具。随着忍者的进步，他们可以学会新的技巧。"
+        },
+		{
+            "Key": "SwarmFilesArchetype_Nokizaru", // "15edb451-dc5b-4def-807c-a451743eb3a6" for example
+            "zhCN": "轩猿众"
+        },
+		{
+            "Key": "SwarmFilesArchetype_NokizaruDesc", // "15edb451-dc5b-4def-807c-a451743eb3a6" for example
+            "zhCN": "轩猿众是一种通过了秘法训练的忍者，超越了对气和毒药的掌控的刺客施法者，他将秘法和心灵影响物质的技术结合起来，成为一名奥术杀手和侦察员。因为他们必须同时掌握忍者潜行的优雅技艺和施法者的秘法，所以轩猿众通常被认为特别聪明，有时被其他忍者称为“猴子”。"
+        },
+		{
+            "Key": "SwarmFilesSpellbook_Nokizaru", // "15edb451-dc5b-4def-807c-a451743eb3a6" for example
+            "zhCN": "轩猿众"
+        },
+		{
+            "Key": "SwarmFilesHiddenMaster_Cha", // "15edb451-dc5b-4def-807c-a451743eb3a6" for example
+            "zhCN": "隐藏大师(魅力)"
+        },
+		{
+            "Key": "SwarmFilesHiddenMaster_Con", // "15edb451-dc5b-4def-807c-a451743eb3a6" for example
+            "zhCN": "隐藏大师(体质)"
+        },
+		{
+            "Key": "SwarmFilesHiddenMaster_Dex", // "15edb451-dc5b-4def-807c-a451743eb3a6" for example
+            "zhCN": "隐藏大师(敏捷)"
+        },
+		{
+            "Key": "SwarmFilesHiddenMaster_Int", // "15edb451-dc5b-4def-807c-a451743eb3a6" for example
+            "zhCN": "隐藏大师(智力)"
+        },
+		{
+            "Key": "SwarmFilesHiddenMaster_Str", // "15edb451-dc5b-4def-807c-a451743eb3a6" for example
+            "zhCN": "隐藏大师(力量)"
+        },
+		{
+            "Key": "SwarmFilesHiddenMaster_Wis", // "15edb451-dc5b-4def-807c-a451743eb3a6" for example
+            "zhCN": "隐藏大师(感知)"
+        },
+		{
+            "Key": "SwarmFilesHiddenMaster_BuffDesc", // "15edb451-dc5b-4def-807c-a451743eb3a6" for example
+            "zhCN": "强化了大幅削弱敌人的力量。 偷袭成功造成2点属性伤害，持续1分钟。"
+        },
+		{
+            "Key": "SwarmFilesBonus_Dispatchment", // "15edb451-dc5b-4def-807c-a451743eb3a6" for example
+            "zhCN": "暗杀"
+        },
+		{
+            "Key": "SwarmFilesBonus_DispatchmentDesc", // "15edb451-dc5b-4def-807c-a451743eb3a6" for example
+            "zhCN": "暗杀攻击加值"
+        },
+		{
+            "Key": "SwarmFilesProficiency_Nokizaru", // "15edb451-dc5b-4def-807c-a451743eb3a6" for example
+            "zhCN": "轩猿众擅长"
+        },
+		{
+            "Key": "SwarmFilesProficiency_NokizaruDesc", // "15edb451-dc5b-4def-807c-a451743eb3a6" for example
+            "zhCN": "轩猿众精通所有建议武器，以及单镰, 锁镰，双节棍，笔架叉，短弓，短剑，手里剑，破魔锥和胁差。他们精通轻甲，但不擅长盾牌。一个轩猿众可以在穿着轻甲的情况下施放轩猿众法术，而不会受到奥术施法失败率的影响。像其他奥术施法者一样，穿中型或重型盔甲的轩猿众也有可能导致奥术施法失败。"
+        },
+		{
+            "Key": "SwarmFilesNokizaruTrick_KiSpell", // "15edb451-dc5b-4def-807c-a451743eb3a6" for example
+            "zhCN": "气力"
+        },
+		{
+            "Key": "SwarmFilesNokizaruTrick_KiSpellDesc", // "15edb451-dc5b-4def-807c-a451743eb3a6" for example
+            "zhCN": "轩猿众可以使用她的气来施放比她剩余法术位更高等级的轩猿众法术。通过消耗1点气，轩猿众可以使用比原法术低一级的法术位施放一个2级或更高的法术。"
+        },
+		{
+            "Key": "SwarmFilesNokizaruTrick_CannibalizeMagic", // "15edb451-dc5b-4def-807c-a451743eb3a6" for example
+            "zhCN": "转魔化气"
+        },
+		{
+            "Key": "SwarmFilesNokizaruTrick_CannibalizeMagicDesc", // "15edb451-dc5b-4def-807c-a451743eb3a6" for example
+            "zhCN": "一个轩猿众已经学会了如何通过吸取咒语中的神秘能量来恢复她的气池。每天一次，轩猿众可以消耗一个法术位来重新获得与法术位环位相等的气。这不能让轩猿众重新获得超过她气池最大值的气"
+        },
+		{
+            "Key": "SwarmFilesNokizaruTrick_KiBlade", // "15edb451-dc5b-4def-807c-a451743eb3a6" for example
+            "zhCN": "气刃"
+        },
+		{
+            "Key": "SwarmFilesNokizaruTrick_KiBladeDesc", // "15edb451-dc5b-4def-807c-a451743eb3a6" for example
+            "zhCN": "轩猿众可以通过一个迅捷动作消耗1点气，使他持有的任何武器获得+1增强加值，持续1分钟。1级之后的每4级，武器就会额外获得+1增强加值，在17级时达到最大+5。\n这些加值与武器增强加值叠加，叠加最多+5。此技能的多次使用不会叠加。如果该武器由该轩猿众以外的角色持有，上述益处不会生效。\n轩猿众一次只能用这种方法增强一件武器。如果他再次使用此技能，上一个效果立即结束。"
+        },
+		{
+            "Key": "SwarmFilesNokizaruTrick_GreaterKiBlade", // "15edb451-dc5b-4def-807c-a451743eb3a6" for example
+            "zhCN": "高等气刃"
+        },
+		{
+            "Key": "SwarmFilesNokizaruTrick_GreaterKiBladeDesc", // "15edb451-dc5b-4def-807c-a451743eb3a6" for example
+            "zhCN": "当轩猿众使用气刃来消耗1点气来为她持有的武器授予增强加值时，这些加成可以用来添加以下任意武器属性:舞空，炽焰，寒霜，霜爆，锋锐，震电，电爆，追击或斩首。添加以上属性会占用一定数量的加值，数值等于该属性的等价加值。以上属性可添加至已存在属性的武器，但相同效果不会叠加。如果该武器不是魔法武器，则必须先向其添加至少1点增强加值，才能添加其他属性。加值和属性在付出气点时决定，并且在轩猿众再次施展此能力前无法更改。轩猿众必须在选择高等气刃之前选择气刃。"
+        },
+		{
+            "Key": "SwarmFilesNokizaruKiBlade_Flaming", // "15edb451-dc5b-4def-807c-a451743eb3a6" for example
+            "zhCN": "高等气刃（炽焰）"
+        },
+		{
+            "Key": "SwarmFilesNokizaruKiBlade_FlamingDesc", // "15edb451-dc5b-4def-807c-a451743eb3a6" for example
+            "zhCN": "轩猿众可使用气池为武器添加炽焰属性，但会占用赋予武器的1点增强加值。炽焰武器覆盖有高温火焰，成功命中后会造成1d6点额外火焰伤害。火焰不会伤害持用者。"
+        },
+		{
+            "Key": "SwarmFilesNokizaruKiBlade_FlamingBurst", // "15edb451-dc5b-4def-807c-a451743eb3a6" for example
+            "zhCN": "高等气刃（焰爆）"
+        },
+		{
+            "Key": "SwarmFilesNokizaruKiBlade_FlamingBurstDesc", // "15edb451-dc5b-4def-807c-a451743eb3a6" for example
+            "zhCN": "焰爆武器在重击时额外造成1d10的火焰伤害。你的武器重击倍率比2每高1，此伤害额外提高1d10。"
+        },
+		{
+            "Key": "SwarmFilesNokizaruKiBlade_Frost", // "15edb451-dc5b-4def-807c-a451743eb3a6" for example
+            "zhCN": "高等气刃（寒霜）"
+        },
+		{
+            "Key": "SwarmFilesNokizaruKiBlade_FrostDesc", // "15edb451-dc5b-4def-807c-a451743eb3a6" for example
+            "zhCN": "轩猿众可使用气池为武器添加寒霜属性,但会占用赋予武器的1点增强加值。寒霜武器覆盖有寒冷冰霜,成功命中后会造成1d6点额外寒冷伤害。寒冷不会伤害持用者。"
+        },
+		{
+            "Key": "SwarmFilesNokizaruKiBlade_IcyBurst", // "15edb451-dc5b-4def-807c-a451743eb3a6" for example
+            "zhCN": "高等气刃（霜爆）"
+        },
+		{
+            "Key": "SwarmFilesNokizaruKiBlade_IcyBurstDesc", // "15edb451-dc5b-4def-807c-a451743eb3a6" for example
+            "zhCN": "霜爆武器在重击时额外造成1d10的寒冷伤害。你的武器重击倍率比2每高1，此伤害额外提高1d10。"
+        },
+		{
+            "Key": "SwarmFilesNokizaruKiBlade_Keen", // "15edb451-dc5b-4def-807c-a451743eb3a6" for example
+            "zhCN": "高等气刃（锋锐）"
+        },
+		{
+            "Key": "SwarmFilesNokizaruKiBlade_KeenDesc", // "15edb451-dc5b-4def-807c-a451743eb3a6" for example
+            "zhCN": "轩猿众可使用气池为武器添加锐锋属性，但会占用赋予武器的1点增强加值。锐锋属性能够使得武器的重击威胁范围翻倍。该效果不与其他可增加武器重击威胁范围的效果叠加(例如磨锋砺刃法术或精通重击专长)。"
+        },
+		{
+            "Key": "SwarmFilesNokizaruKiBlade_Shocking", // "15edb451-dc5b-4def-807c-a451743eb3a6" for example
+            "zhCN": "高等气刃（震电）"
+        },
+		{
+            "Key": "SwarmFilesNokizaruKiBlade_ShockingDesc", // "15edb451-dc5b-4def-807c-a451743eb3a6" for example
+            "zhCN": "轩猿众可使用气池为武器添加震电属性，但会占用赋予武器的1点增强加值。震电武器覆盖有强力电击，成功命中后会造成1d6点额外电击伤害。电击不会伤害持用者。"
+        },
+		{
+            "Key": "SwarmFilesNokizaruKiBlade_ShockingBurst", // "15edb451-dc5b-4def-807c-a451743eb3a6" for example
+            "zhCN": "高等气刃（电爆）"
+        },
+		{
+            "Key": "SwarmFilesNokizaruKiBlade_ShockingBurstDesc", // "15edb451-dc5b-4def-807c-a451743eb3a6" for example
+            "zhCN": "电爆武器在重击时额外造成1d10的电击伤害。你的武器重击倍率比2每高1，此伤害额外提高1d10。"
+        },
+		{
+            "Key": "SwarmFilesNokizaruKiBlade_Speed", // "15edb451-dc5b-4def-807c-a451743eb3a6" for example
+            "zhCN": "高等气刃（追击）"
+        },
+		{
+            "Key": "SwarmFilesNokizaruKiBlade_SpeedDesc", // "15edb451-dc5b-4def-807c-a451743eb3a6" for example
+            "zhCN": "轩猿众可使用气池为武器添加追击属性，但会占用赋予武器的3点增强加值。持用追击武器的轩猿众进行整轮攻击时，可进行1次额外攻击。该额外攻击使用持用者的最高基础攻击加值，并附加适用于该状况的调整值。(该效果不与类似效果叠加，例如加速术。)"
+        },
+		{
+            "Key": "SwarmFilesNokizaruKiBlade_Vorpal", // "15edb451-dc5b-4def-807c-a451743eb3a6" for example
+            "zhCN": "高等气刃（斩首）"
+        },
+		{
+            "Key": "SwarmFilesNokizaruKiBlade_VorpalDesc", // "15edb451-dc5b-4def-807c-a451743eb3a6" for example
+            "zhCN": "这种强大而可怕的能力使得武器能砍下敌人的头颅。攻击检定掷出天然20并且重击成功的情况下，武器会砍下对手的头 (如果有的话)。某些生物没有头，比如异怪和泥形生物。其他比如魔像和除了吸血鬼以外的不死生物，不会因失去头而受到影响。而其余的大部分生物会因为头被砍掉而死亡。斩首武器必须是挥砍类型的武器。如果未一件非挥砍武器决定随机特殊能力时骰到了此能力，则重骰。"
+        },
+		{
+            "Key": "SwarmFilesNinjaAbility_UsePoison", // "15edb451-dc5b-4def-807c-a451743eb3a6" for example
+            "zhCN": "淬毒"
+        },
+		{
+            "Key": "SwarmFilesNinjaAbility_UsePoisonDesc", // "15edb451-dc5b-4def-807c-a451743eb3a6" for example
+            "zhCN": "忍者擅于用毒。每天他们可以制造一批特殊的战斗用毒素，份数等于3+忍者等级，可涂抹于他们的近战武器上。花费一个移动动作，忍者可以为近战武器淬上一份毒素，下次成功命中时,目标即会被施加该毒素。所有毒素的豁免难度等级(DC)均为10+忍者等级+魅力调整值。若施加毒素的攻击是偷袭，难度等级提高2点。"
+        },
+		{
+            "Key": "SwarmFilesNinjaAbility_UsePoisonCon", // "15edb451-dc5b-4def-807c-a451743eb3a6" for example
+            "zhCN": "淬毒（体质）"
+        },
+		{
+            "Key": "SwarmFilesNinjaAbility_UsePoisonDex", // "15edb451-dc5b-4def-807c-a451743eb3a6" for example
+            "zhCN": "淬毒（敏捷）"
+        },
+		{
+            "Key": "SwarmFilesNinjaAbility_UsePoisonStr", // "15edb451-dc5b-4def-807c-a451743eb3a6" for example
+            "zhCN": "淬毒（力量）"
+        },
+		{
+            "Key": "SwarmFilesNinjaAbility_SwiftPoisoner", // "15edb451-dc5b-4def-807c-a451743eb3a6" for example
+            "zhCN": "迅捷上毒"
+        },
+		{
+            "Key": "SwarmFilesNinjaAbility_SwiftPoisonerDesc", // "15edb451-dc5b-4def-807c-a451743eb3a6" for example
+            "zhCN": "拥有这一技巧的忍者可以以迅捷动作给武器淬毒。"
+        },
+		{
+            "Key": "SwarmFilesNinjaAbility_SwiftPoisonerAbility", // "15edb451-dc5b-4def-807c-a451743eb3a6" for example
+            "zhCN": "淬毒（迅捷）"
+        },
+		{
+            "Key": "SwarmFilesNinjaTrick_AccelerationofForm", // "15edb451-dc5b-4def-807c-a451743eb3a6" for example
+            "zhCN": "忍法·鬼魅"
+        },
+		{
+            "Key": "SwarmFilesNinjaTrick_AccelerationofFormDesc", // "15edb451-dc5b-4def-807c-a451743eb3a6" for example
+            "zhCN": "拥有此忍术的忍者每2级可以花费1点气，以一个标准动作来获得移位术和加速术的好处，持续每2个忍者等级1轮。"
+        },
+		{
+            "Key": "SwarmFilesNinjaTrick_Kamikaze", // "15edb451-dc5b-4def-807c-a451743eb3a6" for example
+            "zhCN": "忍法·舍身"
+        },
+		{
+            "Key": "SwarmFilesNinjaTrick_KamikazeDesc", // "15edb451-dc5b-4def-807c-a451743eb3a6" for example
+            "zhCN": "拥有此忍术的忍者不顾自身安危发动攻击。忍者可以从她的气池中花费1点来给予她徒手打击和她使用的任何武器附加恶毒效果，持续时间每级1回合。"
+        },
+		{
+            "Key": "SwarmFilesNinjaTrick_GhostFace", // "15edb451-dc5b-4def-807c-a451743eb3a6" for example
+            "zhCN": "忍法·鬼面"
+        },
+		{
+            "Key": "SwarmFilesNinjaTrick_GhostFaceDesc", // "15edb451-dc5b-4def-807c-a451743eb3a6" for example
+            "zhCN": "拥有此忍术的忍者可以用她的气来呈现一个可怕的、非人的脸和姿态。她可以在进行威吓检定时掷两个骰子，并选择更好的结果。忍者在使用威吓检定前必须选择使用这个能力。每次使用此技能会消耗1点气。"
+        },
+		{
+            "Key": "SwarmFilesNinjaTrick_GhostFingers", // "15edb451-dc5b-4def-807c-a451743eb3a6" for example
+            "zhCN": "忍法·鬼指"
+        },
+		{
+            "Key": "SwarmFilesNinjaTrick_GhostFingersDesc", // "15edb451-dc5b-4def-807c-a451743eb3a6" for example
+            "zhCN": "拥有这种天赋的忍者可以用她的气快速准确地破坏机关陷阱和锁。忍者在进行开锁检定前必须声明使用此能力。每次使用此技能会消耗1点气。重掷一次开锁检定。"
+        },
+		{
+            "Key": "SwarmFilesNinjaTrick_GhostSlayer", // "15edb451-dc5b-4def-807c-a451743eb3a6" for example
+            "zhCN": "忍法·鬼杀"
+        },
+		{
+            "Key": "SwarmFilesNinjaTrick_GhostSlayerDesc", // "15edb451-dc5b-4def-807c-a451743eb3a6" for example
+            "zhCN": "忍者的徒手打击和武器攻击会附带幽冥附魔，持续每级1回合。需要1点气"
+        },
+		{
+            "Key": "SwarmFilesNinjaTrick_Vivacity", // "15edb451-dc5b-4def-807c-a451743eb3a6" for example
+            "zhCN": "振奋"
+        },
+		{
+            "Key": "SwarmFilesNinjaTrick_VivacityDesc", // "15edb451-dc5b-4def-807c-a451743eb3a6" for example
+            "zhCN": "忍者通过一个迅捷动作获得获得1d8点+每级1点临时生命值。临时生命值持续1轮/级或直到耗尽。每次使用此技能会消耗1点气。"
+        },
+		{
+            "Key": "SwarmFilesGeneralFeat_BewilderingKoan", // "15edb451-dc5b-4def-807c-a451743eb3a6" for example
+            "zhCN": "乱心印"
+        },
+		{
+            "Key": "SwarmFilesGeneralFeat_BewilderingKoanDesc", // "15edb451-dc5b-4def-807c-a451743eb3a6" for example
+            "zhCN": "以一个迅捷动作，消耗1点气，通过一个唬骗检定以使用一个你仔细琢磨出来的不可能的问题以虚张声势。你可以选择让目标失去下一个动作或者你对目标造成的所有伤害骰获得+2加值"
+        },
+		{
+            "Key": "SwarmFilesNinjaTrick_ArcaneAssassin", // "15edb451-dc5b-4def-807c-a451743eb3a6" for example
+            "zhCN": "秘法刺"
+        },
+		{
+            "Key": "SwarmFilesNinjaTrick_ArcaneAssassinDesc", // "15edb451-dc5b-4def-807c-a451743eb3a6" for example
+            "zhCN": "当轩猿众使用轩猿众法术列表中距离为〔接触〕的法术时，她可以花费1点气，作为一次近战攻击的一部分，她可以通过近战攻击传递这一法术。 轩猿众通过持用的武器自由进行一次近战攻击（使用他的最高基本攻击加值）而非近战接触来作为施放该法术的一部份。 若命中，则该次近战攻击造成正常伤害的同时造成该法术效果。此攻击使用武器的重击范围(20,19-20，或18-20，并受锋锐武器或类似效果影响)，但法术效果只对成功的重击造成2倍重击伤害，而武器伤害使用自己的重击倍率。"
+        },
+		{
+            "Key": "SwarmFilesNinjaArchetype_FormlessNinja", // "15edb451-dc5b-4def-807c-a451743eb3a6" for example
+            "zhCN": "千面狐"
+        },
+		{
+            "Key": "SwarmFilesNinjaArchetype_FormlessNinjaDesc", // "15edb451-dc5b-4def-807c-a451743eb3a6" for example
+            "zhCN": "千面狐是一种狐妖专用的忍者变体。\n虽然所有的狐妖都会变形，但其中少数人专注于变化为无数形象的艺术。这些狐妖经常受雇作为刺客和间谍。"
+        },
+		{
+            "Key": "SwarmFilesNinjaAbility_KiTransformation", // "15edb451-dc5b-4def-807c-a451743eb3a6" for example
+            "zhCN": "凝气变身"
+        },
+		{
+            "Key": "SwarmFilesNinjaAbility_KiTransformationDesc", // "15edb451-dc5b-4def-807c-a451743eb3a6" for example
+            "zhCN": "4级时，千面狐使用她的种族变化技能时，可以从她的气池中花费2点气，以呈现她通常无法呈现的形态。\n她在变形时不会改变自身的属性值，但获得她的新形态授予的所有能力。   这个变形了效果持续1小时或直到千面狐变回来。   如果千面狐的气池耗尽，而她被变形成一个她通常不能变形的形态，她会立即回到她的原本形态。\n4级时，该能力相当于变身术。\n8级时，该能力相当于变身术或者野兽形态I。\n12级时，该能力相当于变身术、野兽形态II或植物形态I。\n16级时，该能力相当于变身术、野兽形态III或植物形态II。\n20级时，该能力相当于变身术、野兽形态IV、龙形I或植物形态III。"
+        },
+		{
+            "Key": "SwarmFilesNinjaTimer_Hour", // "15edb451-dc5b-4def-807c-a451743eb3a6" for example
+            "zhCN": "1小时"
+        },
+		{
+            "Key": "SwarmFilesNinjaAbility_AlterSelf", // "15edb451-dc5b-4def-807c-a451743eb3a6" for example
+            "zhCN": "变身术"
+        },
+		{
+            "Key": "SwarmFilesNinjaAbility_AlterSelfDesc", // "15edb451-dc5b-4def-807c-a451743eb3a6" for example
+            "zhCN": "千面狐消耗2点气缩小她的体型，在敏捷上获得2点体型加值，持续时间1小时。"
+        },
+		{
+            "Key": "SwarmFilesNinjaArchetype_Rappa", // "15edb451-dc5b-4def-807c-a451743eb3a6" for example
+            "zhCN": "火影忍者"
+        },
+		{
+            "Key": "SwarmFilesNinjaArchetype_RappaDesc", // "15edb451-dc5b-4def-807c-a451743eb3a6" for example
+            "zhCN": "火影忍者是忍者世界的暴徒，擅长对建筑物造成伤害和炸毁敌人据点，而不是对单个目标进行精确的暗杀。\n大多数忍者都擅长攻击敌人的要害部位，而火影忍者则更喜欢在战略区域放置炸弹，一次性歼灭多个敌人。  虽然这种野蛮的方法经常被其他忍者所蔑视，但毫无疑问，当需要用炸药攻破铜墙铁壁时，或者为了暗杀一个重要人物需要分散成群守卫的注意力时，任何忍者氏族都会求助于他们的火影忍者。火影忍者可能被视为忍者氏族的攻城锤，但他们在一个区域内造成大范围伤害的能力，仍然被那些最强大的忍者氏族的领导人所重视，被认为具有强大的战术用途。"
+        },
+		{
+            "Key": "SwarmFilesNinjaTricks_SurpriseBombs", // "15edb451-dc5b-4def-807c-a451743eb3a6" for example
+            "zhCN": "惊奇炸弹"
+        },
+		{
+            "Key": "SwarmFilesNinjaTricks_SurpriseBombsDesc", // "15edb451-dc5b-4def-807c-a451743eb3a6" for example
+            "zhCN": "火影忍者明白需要准确和彻底地消灭他们的敌人，可以使用这个技巧将他们的偷袭骰应用到他们的炸弹上。"
+        },
+		{
+            "Key": "SwarmFilesNinjaAbility_Bombs", // "15edb451-dc5b-4def-807c-a451743eb3a6" for example
+            "zhCN": "炸弹"
+        },
+		{
+            "Key": "SwarmFilesNinjaAbility_BombsDesc", // "15edb451-dc5b-4def-807c-a451743eb3a6" for example
+            "zhCN": "火影忍者获得制造和投掷炸弹的能力。  这相当于炼金术士的同名职业能力，火影忍者每天可以使用相当于他的职业等级+他的魅力调整值的数量的炸弹，火影忍者将他的魅力调整值(而不是他的智力调整值)应用到他的炸弹造成的伤害中。火影忍者使用他的忍者等级作为他的炼金术士等级来计算所有关于炸弹的效果。"
+        },
+		{
+            "Key": "SwarmFilesNinjaWeaponType_ShurikenTypeName", // "15edb451-dc5b-4def-807c-a451743eb3a6" for example
+            "zhCN": "手里剑"
+        },
+		{
+            "Key": "SwarmFilesNinjaWeaponType_ShurikenDefaultName", // "15edb451-dc5b-4def-807c-a451743eb3a6" for example
+            "zhCN": "手里剑"
+        },
+		{
+            "Key": "SwarmFilesNinjaWeapon_ShurikenColdIronMasterwork", // "15edb451-dc5b-4def-807c-a451743eb3a6" for example
+            "zhCN": "寒铁精致品手里剑"
+        },
+		{
+            "Key": "SwarmFilesNinjaWeaponProficiency_Katana", // "15edb451-dc5b-4def-807c-a451743eb3a6" for example
+            "zhCN": "武器擅长（武士刀）"
+        },
+		{
+            "Key": "SwarmFilesNinjaWeaponProficiency_KatanaDesc", // "15edb451-dc5b-4def-807c-a451743eb3a6" for example
+            "zhCN": "你擅长使用武士刀，并将其作为武器使用。"
+        },
+		{
+            "Key": "SwarmFilesNinjaWeaponProficiency_Wakizashi", // "15edb451-dc5b-4def-807c-a451743eb3a6" for example
+            "zhCN": "武器擅长（胁差）"
+        },
+		{
+            "Key": "SwarmFilesNinjaWeaponProficiency_WakizashiDesc", // "15edb451-dc5b-4def-807c-a451743eb3a6" for example
+            "zhCN": "你擅长使用胁差，并将其作为武器使用。"
+        },
+		{
+            "Key": "SwarmFilesNinjaWeaponType_KatanaTypeName", // "15edb451-dc5b-4def-807c-a451743eb3a6" for example
+            "zhCN": "武士刀"
+        },
+		{
+            "Key": "SwarmFilesNinjaWeaponType_WakizashiTypeName", // "15edb451-dc5b-4def-807c-a451743eb3a6" for example
+            "zhCN": "胁差"
+        },
+		{
+            "Key": "SwarmFilesNinjaWeaponType_KatanaDefaultName", // "15edb451-dc5b-4def-807c-a451743eb3a6" for example
+            "zhCN": "武士刀"
+        },
+		{
+            "Key": "SwarmFilesNinjaWeaponType_WakizashiDefaultName", // "15edb451-dc5b-4def-807c-a451743eb3a6" for example
+            "zhCN": "胁差"
+        },
+		{
+            "Key": "SwarmFilesNinjaWeapon_KatanaColdIronMasterwork", // "15edb451-dc5b-4def-807c-a451743eb3a6" for example
+            "zhCN": "寒铁精致品武士刀"
+        },
+		{
+            "Key": "SwarmFilesNinjaWeapon_WakizashiColdIronMasterwork", // "15edb451-dc5b-4def-807c-a451743eb3a6" for example
+            "zhCN": "寒铁精致品胁差"
+        }
+
+]
