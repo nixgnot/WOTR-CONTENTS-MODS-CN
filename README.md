@@ -3245,6 +3245,7 @@ C:\Users\你的用户名\AppData\LocalLow\Owlcat Games\Pathfinder Wrath Of The R
 > *修改内容：* <br>
 > *新增内容：* 忍者职业<br>
 + 加入了Ninja 忍者职业，较久没有更新
++ **注意！本MOD已经被合并进Homebrew Archtypes MOD。由于该mod有拖慢载入等问题，建议直接使用Homebrew Archtypes**
 <table>  
 <tr><th colspan="2">新增内容列表<br></th></tr> 
   <tr><td rowspan="4">职业及变体</i></td>
