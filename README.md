@@ -1787,7 +1787,7 @@
 > *修改内容：* 修复辉光最终形态附魔效果<br>
 > *新增内容：* 物品、法术等<br>
 + 主要是增加物品
-+ **2.1版本Discord发布了临时更新，可在本处[Release页面](https://github.com/nixgnot/WOTR-S-MODS-CN/releases)下载临时版**
+
 <table>
 <tr><th colspan="2">新增内容列表</th></tr> 
    <tr><td>前作武器</td>
