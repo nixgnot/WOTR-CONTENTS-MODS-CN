@@ -1752,11 +1752,12 @@
 <tr><th colspan="2">新增内容列表</th></tr> 
    <tr><td>职业</td>
        <td>Antipaladin 反圣武士及变体：Knight of the Sepulcher 死骸骑士、Iron Tyrant 钢铁暴君、Tyrant 暴君<br><i>参阅PF文档</i></td>
-   <tr><td rowspan="3">职业特性</td>
+   <tr><td rowspan="5">职业特性</td>
        <td>Druidic Herbalism 德鲁伊草药学：德鲁伊可以免费酿造任何药水，还能将本来只能对自己释放的法术如同应用了炼金术师的注入炼成释放于盟友</td></tr>
    <tr><td>Antipaladin exclusive companion and mount - Nightmare (flaming horse) 反圣武士专属坐骑-梦魇</td></tr>
-   <tr><td>Legion's Blessing (Cleric Crusader archetype lvl 8 feature) 军团祝福（牧师变体圣教军8级能力）：通过额外献祭高3环法术位，将正常范围为接触的无害法术，用于 10 英尺半径内的所有盟友。</td></tr>
-   <tr><td>Legion's Blessing (Cleric Crusader archetype lvl 8 feature) 军团祝福（牧师变体圣教军8级能力）：通过额外献祭高3环法术位，将正常范围为接触的无害法术，用于 10 英尺半径内的所有盟友。</td></tr>
+   <tr><td>Legion's Blessing 军团祝福（牧师变体圣教军8级能力）：通过额外献祭高3环法术位，将正常范围为接触的无害法术，用于 10 英尺半径内的所有盟友。</td></tr>
+   <tr><td>Timeless Body 不老身躯：17级起，武僧的属性将不再因年龄而承受减值，也不会因为魔法而衰老。</td></tr>
+   <tr><td>Flawless Mind 无垢识：19级起，武僧将可以完全掌控自己的心灵。当武僧进行意志豁免检定时，可以骰两次并取较好的结果。</td></tr>
    <tr><td rowspan="12">专长</td>
        <td>Unsanctioned Knowledge 禁忌学识（反圣武士版）：添加其他职业法术到圣武士法表</td></tr>
    <tr><td>Snake Style 蛇拳：察言观色+2，徒手攻击可造成穿刺伤害</td></tr>
@@ -1774,8 +1775,9 @@
        <td>Deadly Juggernaut 死亡化身（牧师3，审判官3，圣武士3，反圣武士3，战斗祭司3）：<i>参阅PF文档</i>，击杀对手获得奖励</td></tr>
    <tr><td>Blade of Dark Triumph 黑暗祝胜之刃（反圣武士3）：<i>参阅PF文档</i>，强化神契武器</td></tr>
    <tr><td>Blade of Bright Victory 光辉胜利之刃（圣武士3）：<i>参阅PF文档</i>，强化神契武器</td></tr>
-   <tr><td>武僧气力</td>
+   <tr><td rowspan="2">武僧气力</td>
        <td>Deadly Juggernaut 死亡化身：同同名法术</td></tr> 
+       <td>Diamond Resilience 金钟罩：获得伤害减免</td></tr> 
 </table>
 
 -------------------------------------------
