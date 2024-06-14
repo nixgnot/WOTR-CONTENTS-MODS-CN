@@ -64,7 +64,6 @@
 | [WOTR_IsekaiMod](#WOTR_IsekaiMod) | 异世界主角| |:heavy_check_mark: | :+1: | :file_folder: |||
 | [Way-of-the-shield](#Way-of-the-shield) | 盾牌之道 |自带 |:heavy_check_mark: | :+1: | :file_folder::file_folder: |🛠️|:steam_locomotive:|
 | [CyniikalBrokenFeatures](#CyniikalBrokenFeatures) | 法师虚学派 |QL汉化| :heavy_check_mark: | :+1: | :file_folder::file_folder: |||
-| [随军神父](#随军神父) | 随军神父 | 自带 | :heavy_check_mark: | :+1: | :file_folder: |||
 | [重装魔战](#重装魔战) | 重装魔战 | 自带 | :heavy_check_mark: | :+1: | :file_folder: |||
 | [CompanionAscension](#CompanionAscension) | 同伴提升 |  | :heavy_check_mark: | :+1: | :file_folder: ||:steam_locomotive:|
 | [SwashbucklerWOTR](#SwashbucklerWOTR) | 游荡剑客 | QL汉化 | :heavy_check_mark: | :+1::+1::+1: | :file_folder: |||
@@ -3442,14 +3441,6 @@ C:\Users\你的用户名\AppData\LocalLow\Owlcat Games\Pathfinder Wrath Of The R
 > *新增内容：* 法师学派：虚<br>
 + 增加了法师的虚学派
 + 原发布在Discord，本文档[Release页面](https://github.com/nixgnot/WOTR-CONTENTS-MODS-CN/releases)处有临时下载
-
--------------------------------------------   
-### 随军神父
-> *前置：* 无<br>
-> *中文：* **自带中文**<br>
-> *安装方式：* **非UMM**<br>
-> *新增内容：* 战斗祭司变体：随军神父<br>
-+ 正义之怒群友自制，增加战斗祭司新变体随军神父。本文档[Release页面](https://github.com/nixgnot/WOTR-CONTENTS-MODS-CN/releases)处可下载，注意非UMM安装
 
 -------------------------------------------   
 ### 重装魔战
