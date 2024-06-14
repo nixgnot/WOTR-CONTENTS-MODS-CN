@@ -2,6 +2,28 @@
   "ModPath":"MicroscopicContentExpansion/Localization/LocalizationPack.json",
   "LocalizedStrings": [
     {
+      "Key": "de3f1e13e1974416b0831d195c3afa78",
+      "SimpleName": "AnimalCompanionFeatureNightmare.Description",
+      "ProcessTemplates": true,
+      "enGB": "{g|Encyclopedia:Size}Size{/g}: Large\r\n{g|Encyclopedia:Speed}Speed{/g}: 50 ft.\r\n{g|Encyclopedia:Armor_Class}AC{/g}: +8 natural armor\r\n{g|Encyclopedia:Attack}Attack{/g}: bite ({g|Encyclopedia:Dice}1d4{/g}), 2 hooves (1d6)\r\n{g|Encyclopedia:Ability_Scores}Ability scores{/g}: {g|Encyclopedia:Strength}Str{/g} 18, {g|Encyclopedia:Dexterity}Dex{/g} 15, {g|Encyclopedia:Constitution}Con{/g} 16, {g|Encyclopedia:Intelligence}Int{/g} 13, {g|Encyclopedia:Wisdom}Wis{/g} 13, {g|Encyclopedia:Charisma}Cha{/g} 12\r\nSpecial qualities: Hoof attacks deal additional 1d4 fire damage.\r\nNightmares are not animals, but evil outsiders from {g|Abaddon}Abaddon{/g} and thus are not affected by abilities targeting specifically animals.",
+      "ruRU": null,
+      "deDE": null,
+      "frFR": null,
+      "zhCN": "{g|Encyclopedia:Size}Size{/g}: 大型\r\n{g|Encyclopedia:Speed}速度{/g}: 50 尺.\r\n{g|Encyclopedia:Armor_Class}AC{/g}: +8 天生防御\r\n{g|Encyclopedia:Attack}攻击{/g}: 啮咬 ({g|Encyclopedia:Dice}1d4{/g}), 2次蹄击 (1d6)\r\n{g|Encyclopedia:Ability_Scores}属性值{/g}: {g|Encyclopedia:Strength}力量{/g} 18, {g|Encyclopedia:Dexterity}敏捷{/g} 15, {g|Encyclopedia:Constitution}体质{/g} 16, {g|Encyclopedia:Intelligence}智力{/g} 13, {g|Encyclopedia:Wisdom}感知{/g} 13, {g|Encyclopedia:Charisma}魅力{/g} 12\r\n特性：蹄击造成额外1d4火焰伤害.\r\n梦魇并非动物，而是来自{g|Abaddon}奈落{/g}的邪恶异界生物，不会受到只对动物生效的能力影响",
+      "esES": null
+    },
+    {
+      "Key": "fca783dc55a94a649b5b6b20b46ce31b",
+      "SimpleName": "AnimalCompanionFeatureNightmare.Name",
+      "ProcessTemplates": false,
+      "enGB": "Fiendish Companion - Nightmare",
+      "ruRU": null,
+      "deDE": null,
+      "frFR": null,
+      "zhCN": "恶魔同伴 -梦魇",
+      "esES": null
+    },
+    {
       "Key": "46b1e7919d5c4bd0bf4c0493af1a9acf",
       "SimpleName": "AntipaladinAlignmentRestriction.Description",
       "ProcessTemplates": true,
@@ -26,17 +48,6 @@
     {
       "Key": "e6cdef92f1b5421291a16d0b8151f5af",
       "SimpleName": "AntipaladinAuraOfCowardiceBuff.Description",
-      "ProcessTemplates": true,
-      "enGB": "At 3rd level, an antipaladin radiates a palpably daunting aura that causes all enemies within 10 feet to take a –4 penalty on saving throws against fear effects. Creatures that are normally immune to fear lose that immunity while within 10 feet of an antipaladin with this ability. This ability functions only while the antipaladin remains conscious, not if he is unconscious or dead.",
-      "ruRU": null,
-      "deDE": null,
-      "frFR": null,
-      "zhCN": "3级起，反圣武士发出一种明显令人畏惧的光环，导致10英尺以内的所有敌人在面对恐惧效果的豁免中受到-4的惩罚。通常对恐惧免疫的生物在距离具有这种能力的反圣武士10英尺以内时会失去该免疫。这种能力只有在反圣武士保持清醒时才能发挥作用，在他昏迷或死亡时失效。",
-      "esES": null
-    },
-    {
-      "Key": "7ddc83b85bfc4ef584b44eece4f3ba8a",
-      "SimpleName": "AntipaladinAuraOfCowardiceEffectBuff.Description",
       "ProcessTemplates": true,
       "enGB": "At 3rd level, an antipaladin radiates a palpably daunting aura that causes all enemies within 10 feet to take a –4 penalty on saving throws against fear effects. Creatures that are normally immune to fear lose that immunity while within 10 feet of an antipaladin with this ability. This ability functions only while the antipaladin remains conscious, not if he is unconscious or dead.",
       "ruRU": null,
@@ -1098,7 +1109,7 @@
       "ruRU": null,
       "deDE": null,
       "frFR": null,
-      "zhCN": null,
+      "zhCN": "2级起，反圣武士在手上燃起恶魔之火，在其触摸的人身上留下可怕的伤口。他每天可以使用这个能力的次数等于他的反圣武士等级的一半+他的魅力调整值。这项能力作为接触攻击，造成每两个反圣武士等级1d6点伤害。使用这种能力是一种标准动作，不会引发借机攻击。\n另一种选择是，反圣武士可以使用这种力量来治疗不死生物，每两级反圣武士等级可以恢复1d6的生命值。此能力可受到任何调整圣武士圣疗的专长、法术或效果影响，例如，额外圣疗壮举为反圣武士提供了2次额外堕落之触次数。",
       "esES": null
     },
     {
@@ -2378,6 +2389,28 @@
       "esES": null
     },
     {
+      "Key": "57e9c74660cd49c1bccca1cf5ee671e4",
+      "SimpleName": "FeintingFlurry.Description",
+      "ProcessTemplates": true,
+      "enGB": "While using flurry of blows to make {g|Encyclopedia:MeleeAttack}melee attacks{/g}, you can forgo your melee attack to make a {g|Encyclopedia:Persuasion}Persuasion{/g} (bluff) {g|Encyclopedia:Check}check{/g} to feint an opponent.",
+      "ruRU": null,
+      "deDE": null,
+      "frFR": null,
+      "zhCN": "当你使用疾风连击进行 {g|Encyclopedia:MeleeAttack}近战攻击{/g}时，你可以牺牲你的第一击，发动一次{g|Encyclopedia:Persuasion}沟通{/g} (唬骗) {g|Encyclopedia:Check}检定{/g}进行佯攻。",
+      "esES": null
+    },
+    {
+      "Key": "b353525a7c6e4f8d8f941e6a73ab0467",
+      "SimpleName": "FeintingFlurryBuff.Name",
+      "ProcessTemplates": false,
+      "enGB": "Feinting Flurry",
+      "ruRU": null,
+      "deDE": null,
+      "frFR": null,
+      "zhCN": "佯攻疾风",
+      "esES": null
+    },
+    {
       "Key": "928835c5ff154fc98821f9fd8eed8bdd",
       "SimpleName": "FlickeringStepAbility.Description",
       "ProcessTemplates": true,
@@ -2397,6 +2430,50 @@
       "deDE": null,
       "frFR": null,
       "zhCN": "闪步",
+      "esES": null
+    },
+    {
+      "Key": "ac8bbc2b840c4af3be244e7204354d36",
+      "SimpleName": "FlyingKickAbility.Description",
+      "ProcessTemplates": true,
+      "enGB": "The monk leaps through the air to strike a foe with a kick. Before the attack, the monk can move a distance equal to his fast movement bonus. This movement is made as part of the monk’s flurry of blows attack. This movement provokes an attack of opportunity as normal. Monk has to be unarmed to perform this style strike.",
+      "ruRU": null,
+      "deDE": null,
+      "frFR": null,
+      "zhCN": "武僧腾空而起，飞踢目标。攻击前，武僧可移动等于他快速移动速度加值的距离。该次移动作为疾风连击的一部分且不花费动作。该移动结束后，武僧必须对邻接一个敌人发动一次攻击。该次移动可在疾风连击中两次攻击之间。该次移动正常引发借机攻击。武僧必须保持徒手来发动这一真劲击。",
+      "esES": null
+    },
+    {
+      "Key": "39e23a391e96459c9c44b45e58712323",
+      "SimpleName": "FlyingKickAbility.Name",
+      "ProcessTemplates": false,
+      "enGB": "Flying Kick",
+      "ruRU": null,
+      "deDE": null,
+      "frFR": null,
+      "zhCN": "无影脚",
+      "esES": null
+    },
+    {
+      "Key": "8647ab1bf6fe4caf97a7a7630c2875d2",
+      "SimpleName": "FlyingKickActivatableAbility.Description",
+      "ProcessTemplates": true,
+      "enGB": "The monk leaps through the air to strike a foe with a kick. Before the attack, the monk can move a distance equal to his fast movement bonus. This movement is made as part of the monk’s flurry of blows attack. This movement provokes an attack of opportunity as normal. Monk has to be unarmed to perform this style strike.\r\n\r\nActivate this style strike to receive flying kick ability.",
+      "ruRU": null,
+      "deDE": null,
+      "frFR": null,
+      "zhCN": "武僧腾空而起，飞踢目标。攻击前，武僧可移动等于他快速移动速度加值的距离。该次移动作为疾风连击的一部分且不花费动作。该移动结束后，武僧必须对邻接一个敌人发动一次攻击。该次移动可在疾风连击中两次攻击之间。该次移动正常引发借机攻击。武僧必须保持徒手来发动这一真劲击。\r\n\r\n激活该真劲击获取飞踢能力。",
+      "esES": null
+    },
+    {
+      "Key": "ec7bd12c9ab44ae6817e2a214a05375e",
+      "SimpleName": "FlyingKickActivatableAbility.Name",
+      "ProcessTemplates": false,
+      "enGB": "Flying Kick - Activate Style Strike",
+      "ruRU": null,
+      "deDE": null,
+      "frFR": null,
+      "zhCN": "真劲击（无影脚）",
       "esES": null
     },
     {
@@ -3090,6 +3167,215 @@
       "deDE": null,
       "frFR": null,
       "zhCN": "坟污强韧",
+      "esES": null
+    },
+    {
+      "Key": "90fb6845c3f54f61a07814d7187c473c",
+      "SimpleName": "LegionBlessingBuff.Description",
+      "ProcessTemplates": false,
+      "enGB": "Next time you cast on ally spell of this level, it also gets applied on all allies around you in 10 ft radius.",
+      "ruRU": null,
+      "deDE": null,
+      "frFR": null,
+      "zhCN": "下次对盟友释放此层级法术时，也会同时对10尺内所有友军释放。",
+      "esES": null
+    },
+    {
+      "Key": "dd3011de81c24208bb0e95e5ad25ed43",
+      "SimpleName": "LegionBlessingBuff1.Name",
+      "ProcessTemplates": false,
+      "enGB": "Legion's Blessing - Spell Level 1",
+      "ruRU": null,
+      "deDE": null,
+      "frFR": null,
+      "zhCN": "军团祝福（法术等级 1）",
+      "esES": null
+    },
+    {
+      "Key": "53dfc36da7744691b971c8856ba8d04a",
+      "SimpleName": "LegionBlessingBuff2.Name",
+      "ProcessTemplates": false,
+      "enGB": "Legion's Blessing - Spell Level 2",
+      "ruRU": null,
+      "deDE": null,
+      "frFR": null,
+      "zhCN": "军团祝福（法术等级 2）",
+      "esES": null
+    },
+    {
+      "Key": "65782e81961942dba5160f0152bbeac9",
+      "SimpleName": "LegionBlessingBuff3.Name",
+      "ProcessTemplates": false,
+      "enGB": "Legion's Blessing - Spell Level 3",
+      "ruRU": null,
+      "deDE": null,
+      "frFR": null,
+      "zhCN": "军团祝福（法术等级 3）",
+      "esES": null
+    },
+    {
+      "Key": "077d9234d896483bb3d95159b9dbf7ed",
+      "SimpleName": "LegionBlessingBuff4.Name",
+      "ProcessTemplates": false,
+      "enGB": "Legion's Blessing - Spell Level 4",
+      "ruRU": null,
+      "deDE": null,
+      "frFR": null,
+      "zhCN": "军团祝福（法术等级 4）",
+      "esES": null
+    },
+    {
+      "Key": "63f8b7b4947c4b93a3955b1e948e3b21",
+      "SimpleName": "LegionBlessingBuff5.Name",
+      "ProcessTemplates": false,
+      "enGB": "Legion's Blessing - Spell Level 5",
+      "ruRU": null,
+      "deDE": null,
+      "frFR": null,
+      "zhCN": "军团祝福（法术等级 5）",
+      "esES": null
+    },
+    {
+      "Key": "d6f81565a04f4bf4918c9073d00d92c8",
+      "SimpleName": "LegionBlessingBuff6.Name",
+      "ProcessTemplates": false,
+      "enGB": "Legion's Blessing - Spell Level 6",
+      "ruRU": null,
+      "deDE": null,
+      "frFR": null,
+      "zhCN": "军团祝福（法术等级 6）",
+      "esES": null
+    },
+    {
+      "Key": "b1f151a9eb5d4dc5ba46f1ddefcb39be",
+      "SimpleName": "LegionBlessingFeature.Description",
+      "ProcessTemplates": true,
+      "enGB": "At 8th level, a crusader gains the ability to confer beneficial spells quickly to a large group of allies. The crusader may confer the effects of a single harmless spell with a range of touch to all allies around in 10 ft radius. Using the legion’s blessing expends the prepared spell, but it also requires the crusader to sacrifice another prepared spell three levels higher, as when spontaneously using a cure or inflict spell. The higher-level spell is not cast but is simply lost, its magical energy used to power the legion’s blessing.",
+      "ruRU": null,
+      "deDE": null,
+      "frFR": null,
+      "zhCN": "8级起，圣教军获得快速向大群友军释放有益法术的能力，圣教军可以向10尺内所有的友军释放一个法术距离为接触的无害法术。使用军团祝福会消耗掉该法术，还会需要额外牺牲一个比其高3环的准备好的法术，就如同使用自发治疗/伤害法术转换一样。被牺牲的法术不会生效，而是将其能量用于施加军团祝福。",
+      "esES": null
+    },
+    {
+      "Key": "23071afc0ff84e2eb67e426fa80e8580",
+      "SimpleName": "LegionBlessingFeature.Name",
+      "ProcessTemplates": false,
+      "enGB": "Legion's Blessing",
+      "ruRU": null,
+      "deDE": null,
+      "frFR": null,
+      "zhCN": "军团祝福",
+      "esES": null
+    },
+    {
+      "Key": "bc08a88af24e4fe69a8e76ad0d5f70ad",
+      "SimpleName": "LegionBlessingSacrificeSpellAbility.Description",
+      "ProcessTemplates": true,
+      "enGB": "You sacrifice prepared spell. Next beneficial spell with a range of touch prepared in a slot 3 spell levels lower will be applied not only to target, but also to all allies around in 10 ft radius.",
+      "ruRU": null,
+      "deDE": null,
+      "frFR": null,
+      "zhCN": "你牺牲一个准备好的法术。下一个比该法术等级低3的、法术距离为接触的有益法术会不仅对目标生效，而是对10尺内所有友军生效。",
+      "esES": null
+    },
+    {
+      "Key": "583765c9aa3449c49d9f7f940165975a",
+      "SimpleName": "LegionBlessingSacrificeSpellAbility.Name",
+      "ProcessTemplates": false,
+      "enGB": "Legion's Blessing - Sacrifice Spell",
+      "ruRU": null,
+      "deDE": null,
+      "frFR": null,
+      "zhCN": "军团祝福-献祭法术",
+      "esES": null
+    },
+    {
+      "Key": "248790e0bf184525b9070b5e4fed3776",
+      "SimpleName": "MonkDiamondResilience.Description",
+      "ProcessTemplates": true,
+      "enGB": "A monk gains DR 2/—. At 16th level, the damage reduction increases to 4/—. At 19th level, it increases to DR 6/—.",
+      "ruRU": null,
+      "deDE": null,
+      "frFR": null,
+      "zhCN": "武僧获得DR 2/—。16级起，伤害减免增加到4/—。19级起，增加到6/—",
+      "esES": null
+    },
+    {
+      "Key": "21acb7c92d554daa9abf2651251804bd",
+      "SimpleName": "MonkDiamondResilience.Name",
+      "ProcessTemplates": false,
+      "enGB": "Ki Power: Diamond Resilience",
+      "ruRU": null,
+      "deDE": null,
+      "frFR": null,
+      "zhCN": "气力：金钟罩",
+      "esES": null
+    },
+    {
+      "Key": "3ea8d4a98def4d64ad6ab25d5caf3cb0",
+      "SimpleName": "MonkFlawlessMind.Description",
+      "ProcessTemplates": true,
+      "enGB": "At 19th level, a monk gains total control over his mental faculties. Whenever he attempts a Will save, he can roll twice and take the better result.",
+      "ruRU": null,
+      "deDE": null,
+      "frFR": null,
+      "zhCN": "19级起，武僧将可以完全掌控自己的心灵。当武僧进行意志豁免检定时，可以骰两次并取较好的结果。",
+      "esES": null
+    },
+    {
+      "Key": "9a0b5631aaf247b49688cd844e086f7e",
+      "SimpleName": "MonkFlawlessMind.Name",
+      "ProcessTemplates": false,
+      "enGB": "Flawless Mind",
+      "ruRU": null,
+      "deDE": null,
+      "frFR": null,
+      "zhCN": "无垢识",
+      "esES": null
+    },
+    {
+      "Key": "61f6266a2acd4f109abfb338b8098c68",
+      "SimpleName": "MonkTimelessBody.Description",
+      "ProcessTemplates": true,
+      "enGB": "At 17th level, a monk no longer takes penalties to his ability scores for aging and cannot be magically aged.",
+      "ruRU": null,
+      "deDE": null,
+      "frFR": null,
+      "zhCN": "17级时，武僧的属性将不再因年龄而承受减值，也不会因为魔法而衰老。",
+      "esES": null
+    },
+    {
+      "Key": "6bbb9e1dbd0349b991dd80ae8390014c",
+      "SimpleName": "MonkTimelessBody.Name",
+      "ProcessTemplates": false,
+      "enGB": "Timeless Body",
+      "ruRU": null,
+      "deDE": null,
+      "frFR": null,
+      "zhCN": "不老身躯",
+      "esES": null
+    },
+    {
+      "Key": "7c0eb836638f49e4844b60f4f1c7e69d",
+      "SimpleName": "NightmareHoofFireDamageFeature.Description",
+      "ProcessTemplates": true,
+      "enGB": "Nightmare hoofs deal additional 1d4 fire damage",
+      "ruRU": null,
+      "deDE": null,
+      "frFR": null,
+      "zhCN": "梦魇蹄击造成额外火焰伤害",
+      "esES": null
+    },
+    {
+      "Key": "8a347547fa074aada3fdb299cc042fd4",
+      "SimpleName": "NightmareHoofFireDamageFeature.Name",
+      "ProcessTemplates": false,
+      "enGB": "Nightmare - Hoof Fire damage",
+      "ruRU": null,
+      "deDE": null,
+      "frFR": null,
+      "zhCN": "梦魇（蹄击火焰伤害）",
       "esES": null
     },
     {
