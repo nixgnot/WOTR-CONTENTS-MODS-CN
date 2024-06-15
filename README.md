@@ -86,6 +86,7 @@
 | [MagicArmory](#MagicArmory) | 魔法军械库 | QL汉化 | :heavy_check_mark: | :+1:| :file_folder: |||
 | [LevelableAivu](#LevelableAivu) | 自定义爱乌 | 暂无 | :heavy_check_mark: | :+1::+1:| :file_folder: |🛠️|:steam_locomotive:|
 | [Mythic-Magic-Mayhem](#Mythic-Magic-Mayhem) | 神话法术重制 | 暂无 | :heavy_check_mark: | :+1::+1::+1:| :file_folder::file_folder: |🛠️🛠️||
+| [OnePear](#OnePearl) | 珍珠合一 | 暂无 | :heavy_check_mark: | :+1::+1::+1:| :file_folder: |🛠️🛠️||
 
 备注
 + UMM一栏为是否使用UMM安装
@@ -4388,6 +4389,14 @@ C:\Users\你的用户名\AppData\LocalLow\Owlcat Games\Pathfinder Wrath Of The R
 	            <td>天降戟兵</td><td>这个法术的功能与戟雨一样，除了它在法术持续时间内，每有四个施法者等级便召唤一名坟墓骑士（如同创造不死生物法术）。</td></tr>
 	            <td>诡术开发者</td><td>选择释放下列 10 级神话法术之一（天堂军势、绝对死亡、深渊裂隙、绝对权威法令或快乐大合唱）</td></tr>	
 </table> 
+
+-------------------------------------------
+### [OnePearl](https://github.com/alterasc/OnePearl)
+> *前置：* 无<br>
+> *中文：* **无**<br>
+> *安装方式：* **UMM**<br>
+> *新增内容：* 增加合一珍珠，可以将物品栏中的法力珍珠功能合并，便于回复法术位<br>
+注：合一珍珠没有直接获得途径，只能在选项 - mod选项菜单中手动获得
 
 ------------------------------------------- 
 ### 功能MOD索引
