@@ -229,4 +229,14 @@
     "ProcessTemplates": false,
     "zhCN": "不断在两个社会的边缘游走，一些半精灵擅长寻找那些被忽视的机会。他们在借机攻击上获得+1种族加值。该特性替代一技之长和敏锐直觉。"
   },
+  {
+    "Key": "AlternateRacialTraits.Features.Human.EyeForTalent.DisplayName",
+    "ProcessTemplates": false,
+    "zhCN": "天赋之眼"
+  },
+  {
+    "Key": "AlternateRacialTraits.Features.Human.EyeForTalent.Description",
+    "ProcessTemplates": false,
+    "zhCN": "人类拥有强大、潜藏的直觉，他们在察言观色检定上获得+2种族加值，同时，如果他们有动物伙伴、奖励坐骑、追随者或是魔宠的话，这些生物可以选择一个属性值，让该属性得到+2的加值，这个种族特性取代奖励专长。"
+  }
 ]
