@@ -4354,40 +4354,40 @@ C:\Users\你的用户名\AppData\LocalLow\Owlcat Games\Pathfinder Wrath Of The R
      <tr><td>合书规则</td><td colspan="3">所有施法者、所有道途现在都可以合术。4环和6环施法者在合书后会获得高环法术位。</td></tr>
 	 <tr><td rowspan="4">巫妖</td>
 		 <td colspan="3">将次级操纵亡者加入法术书</td></tr>
-	         <td colspan="3">加强死灵伴兽，获得等于你神话阶层的魅力加值</td></tr>
-	         <td colspan="3">增加神话能力，可以将同伴的动物伙伴变为不死生物模板</td></tr>
-	         <td colspan="3">在神话5获得被动分支，选择使用魅力和体质中较高者进行强韧豁免和生命值修正</td></tr>
+	         <tr><td colspan="3">加强死灵伴兽，获得等于你神话阶层的魅力加值</td></tr>
+	         <tr><td colspan="3">增加神话能力，可以将同伴的动物伙伴变为不死生物模板</td></tr>
+	         <tr><td colspan="3">在神话5获得被动分支，选择使用魅力和体质中较高者进行强韧豁免和生命值修正</td></tr>
 	 <tr><td rowspan="5">天使</td>
 		 <td rowspan="3">法术改动</td>
 	            <td colspan="2">审判之矢提升到7环</td></tr>
-	            <td colspan="2">审判风暴提升到9环</td></tr>
-	            <td colspan="2">正义之怒现在为8环且只会影响邪恶恶魔（爱酱！）</td></tr>
+	            <tr><td colspan="2">审判风暴提升到9环</td></tr>
+	            <tr><td colspan="2">正义之怒现在为8环且只会影响邪恶恶魔（爱酱！）</td></tr>
 	         <td rowspan="2">新增强化天使光环</td>
 	            <td>神圣勇士</td><td>激活天使光环时，天使造成的所有能量伤害转化为神圣伤害。</td></tr>
-	            <td>天堂烈焰</td><td>激活天使光环时，天使造成的所有能量伤害转化为火焰伤害。</td></tr>
+	            <tr><td>天堂烈焰</td><td>激活天使光环时，天使造成的所有能量伤害转化为火焰伤害。</td></tr>
 	 <tr><td rowspan="4">灵使</td>
 		 <td colspan="3">现在灵使道途法术为9环，法术获得进度已经重制</td></tr>
-	         <td rowspan="1">新增超然之力</td>
+	         <tr><td rowspan="1">新增超然之力</td>
 	            <td>和声回响</td><td>可以在持续一首灵使之歌的同时启动第二首。</td></tr>
-		 <td rowspan="2">新增法术</td>
+		 <tr><td rowspan="2">新增法术</td>
 	            <td>抱成一团</td><td>效果同友善之拥，群体。</td></tr>
-	            <td>快乐大合唱</td><td>效果期间使用你所知的一切表演且不消耗这些能力的每日使用次数</td></tr>
+	            <tr><td>快乐大合唱</td><td>效果期间使用你所知的一切表演且不消耗这些能力的每日使用次数</td></tr>
 	 <tr><td rowspan="3">御衡</td>
 		 <td colspan="3">现在御衡道途法术为9环，法术获得进度已经重制</td></tr>
-		 <td rowspan="2">新增法术</td>
+		 <tr><td rowspan="2">新增法术</td>
 	            <td>完全虚无法令</td><td>御衡者和 20 英尺半径内的所有盟友都获得群体防护能量法术的好处，但它适用于所有伤害类型。</td></tr>
-	            <td>绝对权威法令</td><td>以一个迅捷动作，你可以使30英尺半径内的所有敌人受到报复法令和不抵抗法令的影响</td></tr>
+	            <tr><td>绝对权威法令</td><td>以一个迅捷动作，你可以使30英尺半径内的所有敌人受到报复法令和不抵抗法令的影响</td></tr>
 	 <tr><td rowspan="3">恶魔</td>
 		 <td colspan="3">现在恶魔道途法术为9环，法术获得进度已经重制</td></tr>
-		 <td rowspan="2">新增法术</td>
+		 <tr><td rowspan="2">新增法术</td>
 	            <td>盲目狂怒</td><td>范围内所有目标必须通过意志豁免，否则受到目盲以及狂暴术的效果。此外，未能通过豁免者还会失去真知术，盲斗，以及任何令其无视隐蔽，或是重投隐蔽失手的效果所带来的好处。</td></tr>
-	            <td>深渊裂隙</td><td>每轮都会出现一个随机的恶魔，并为你战斗1分钟。</td></tr>
+	            <tr><td>深渊裂隙</td><td>每轮都会出现一个随机的恶魔，并为你战斗1分钟。</td></tr>
 	 <tr><td rowspan="4">诡计</td>
 		 <td colspan="3">现在诡计道途法术为9环，法术获得进度已经重制</td></tr>
-		 <td rowspan="3">新增法术</td>
+		 <tr><td rowspan="3">新增法术</td>
 	            <td>镜影殿堂</td><td>你和全体友军受到镜影术影响并且每轮刷新。</td></tr>
-	            <td>天降戟兵</td><td>这个法术的功能与戟雨一样，除了它在法术持续时间内，每有四个施法者等级便召唤一名坟墓骑士（如同创造不死生物法术）。</td></tr>
-	            <td>诡术开发者</td><td>选择释放下列 10 级神话法术之一（天堂军势、绝对死亡、深渊裂隙、绝对权威法令或快乐大合唱）</td></tr>	
+	            <tr><td>天降戟兵</td><td>这个法术的功能与戟雨一样，除了它在法术持续时间内，每有四个施法者等级便召唤一名坟墓骑士（如同创造不死生物法术）。</td></tr>
+	            <tr><td>诡术开发者</td><td>选择释放下列 10 级神话法术之一（天堂军势、绝对死亡、深渊裂隙、绝对权威法令或快乐大合唱）</td></tr>	
 </table> 
 
 -------------------------------------------
@@ -4399,6 +4399,34 @@ C:\Users\你的用户名\AppData\LocalLow\Owlcat Games\Pathfinder Wrath Of The R
 注：合一珍珠没有直接获得途径，只能在选项 - mod选项菜单中手动获得
 
 ------------------------------------------- 
+### [deceiverbuff](https://github.com/CasDragon/deceiverbuff)
+> *前置：* 无<br>
+> *中文：* **无**<br>
+> *安装方式：* **UMM**<br>
+> *新增内容：* 加强魔法诈欺师<br>
+<table>
+<tr><th colspan="2">修改列表<br></th></tr> 
+       <tr><td>法术进程</td><td>诈欺师现在使用完整的法术进程(九环)，每日法术量按照法师的规则</td></tr>
+       <tr><td>合书</td><td>魔法诈欺师现在可以和任意神话魔法书合书</td></tr>
+       <tr rowspan="16"><td>魔法诈欺师新增法术</td>
+           <td>地狱烈焰射线</td></tr>
+	   <tr><td>吸能术</td></tr>
+           <tr><td>凶兆</td></tr>
+           <tr><td>闪光尘</td></tr>
+           <tr><td>极寒射线</td></tr>
+           <tr><td>力竭波</td></tr>
+	   <tr><td>极寒射线</td></tr>
+           <tr><td>力竭波</td></tr>
+	   <tr><td>极寒射线</td></tr>
+           <tr><td>力竭波</td></tr>
+	   <tr><td>极寒射线</td></tr>
+           <tr><td>潮汐波涌</td></tr>
+           <tr><td>高等天使之貌</td></tr>
+	   <tr><td>高等虚假生命</td></tr>
+	   <tr><td>高等英雄气概</td></tr>
+	   <tr><td>高等魔化武器</td></tr>
+</table>   
+
 ### 功能MOD索引
 + [ToyBox](https://www.nexusmods.com/pathfinderwrathoftherighteous/mods/8) 应该不用介绍？
 + [RespecMod](https://github.com/BarleyFlour/RespecMod) 洗点MOD（允许更自由洗点，自定义初始点数等）
