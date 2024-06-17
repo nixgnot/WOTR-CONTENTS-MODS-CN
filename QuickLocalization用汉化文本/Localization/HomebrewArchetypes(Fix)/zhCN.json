@@ -4170,26 +4170,26 @@
         },
 		{
             "Key": "HomebrewArchtypes_FalseProphetName", 
-            "Value": "伪先知"
+            "zhCN": "伪先知"
         },
 		{
             "Key": "HomebrewArchtypes_FalseProphetDesc", 
-            "Value": "你为芸芸众生展现神迹，并宣称存在着超越众神的神性，斥责他们对凡人漠不关心的残酷行径。你模仿他们的神迹，并努力修正这种不平等的交换。"
+            "zhCN": "你为芸芸众生展现神迹，并宣称存在着超越众神的神性，斥责他们对凡人漠不关心的残酷行径。你模仿他们的神迹，并努力修正这种不平等的交换。"
         },
 		{
             "Key": "HomebrewArchtypes_FalseProphetMiraclesName", 
-            "Value": "神迹"
+            "zhCN": "神迹"
         },
 		{
             "Key": "HomebrewArchtypes_FalseProphetMiraclesDesc", 
-            "Value": "在1级时，伪先知放弃对神的崇拜，转而从更伟大的事业中获得力量。这给予了他们许多额外的神圣法术用于施展或扭曲，来向世人展示凡人可以自救。”"
+            "zhCN": "在1级时，伪先知放弃对神的崇拜，转而从更伟大的事业中获得力量。这给予了他们许多额外的神圣法术用于施展或扭曲，来向世人展示凡人可以自救。”"
         },
 		{
             "Key": "HomebrewArchtypes_FalseProphetFabricationofVirtueName", 
-            "Value": "伪造的美德"
+            "zhCN": "伪造的美德"
         },
 		{
-            "Key": "HomebrewArchtypes_FalseProphetFabricationofVirtueName", 
+            "Key": "HomebrewArchtypes_FalseProphetFabricationofVirtueDesc", 
             "Value": "在20级时，伪先知的言语有了新的含义，她从她的法术编造能力获得更加强大的力量，她的使用次数增加5次."
         }
 	]
