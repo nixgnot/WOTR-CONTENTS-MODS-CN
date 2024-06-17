@@ -25492,9 +25492,8 @@
     },
     {
       "Key": "05bbfb71a9f44a66baac5042f4cab9c8",
-      "SimpleName": "FormOfTheExoticDragonAbility.Description",
+      "SimpleNameDis": "屎山标记",
       "ProcessTemplates": true,
-      "IsUsed": false,
       "zhCN": "你变身为罕见的龙类。你获得+10力量体型加值、+8体质体型加值、获得+8天生防御加值、免疫困难地形、60英尺盲感、喷吐武器、伤害减免10/魔法、慑人气魄（DC与此法术相等）和元素抗性。你的移动速度提高10英尺。你还获得1次啮咬（2d8），2次爪抓（2d6），2次翼击（1d8），1次尾击（2d6）。你可以施展任意次数的喷吐攻击，但必须间隔1d4才能再次施展。所有喷吐攻击造成12d8点伤害，并允许通过反射豁免来减半伤害",
       "enGB": "Take the form of a rarely seen dragon. You gain a +10 polymorph bonus to Strength, a +8 polymorph bonus to Constitution, a +8 natural armor bonus to AC, immunity to difficult terrain, blindsense with a range of 60 feet, a breath weapon, damage reduction 10/magic, frightful presence (DC equal to the DC for this spell), and elemental resistances. Your movement speed is increased by 10 feet. You also gain one bite (2d8), two claws (2d6), two wing attacks (1d8), and one tail slap attack (2d6). You can use the breath weapon as often as you like, but you must wait 1d4 rounds between uses. All breath weapons deal 12d8 points of damage and allow a Reflex save for half damage."
     },
@@ -25507,7 +25506,7 @@
     },
     {
       "Key": "768dcd901ad043aa8f2cc1b9811864c8",
-      "SimpleName": "FormOfTheExoticDragonAbilityCragLinnorm.Description",
+      "SimpleNameDis": "屎山标记",
       "ProcessTemplates": true,
       "IsUsed": false,
       "zhCN": "你变身为罕见的龙类。你获得+10力量体型加值、+8体质体型加值、获得+8天生防御加值、免疫困难地形、60英尺盲感、喷吐武器、伤害减免10/魔法、慑人气魄（DC与此法术相等）和元素抗性。你的移动速度提高10英尺。\nTest text",
@@ -25531,7 +25530,7 @@
     },
     {
       "Key": "e324fd19567e4dc5b58c31c7359eb888",
-      "SimpleName": "FormOfTheExoticDragonAbilityHavoc.Description",
+      "SimpleNameDis": "屎山标记",
       "ProcessTemplates": true,
       "IsUsed": false,
       "zhCN": "你变身为罕见的龙类。你获得+10力量体型加值、+8体质体型加值、获得+8天生防御加值、免疫困难地形、60英尺盲感、喷吐武器、伤害减免10/魔法、慑人气魄（DC与此法术相等）和元素抗性。你的移动速度提高10英尺。\nTest text",
@@ -25539,7 +25538,7 @@
     },
     {
       "Key": "c5361d88ab774ab79b7bc95963fbd0f9",
-      "SimpleName": "FormOfTheExoticDragonAbilityUmbral.Description",
+      "SimpleNameDis": "屎山标记",
       "ProcessTemplates": true,
       "IsUsed": false,
       "zhCN": "你变身为罕见的龙类。你获得+10力量体型加值、+8体质体型加值、获得+8天生防御加值、免疫困难地形、60英尺盲感、喷吐武器、伤害减免10/魔法、慑人气魄（DC与此法术相等）和元素抗性。你的移动速度提高10英尺。\nTest text",
@@ -25575,14 +25574,6 @@
       "enGB": "Your breath weapon deals 12d8 points of negative energy damage in a 50-foot cone and allows a Reflex save for half damage. If the saving throw is failed, the target is blinded for 1d4 rounds. You can use it as often as you like, but you must wait 1d4 rounds between uses."
     },
     {
-      "Key": "8690ca1069114d9c8debf0be48b416df",
-      "SimpleName": "FormOfTheExoticDragonBreathUmbral.Description",
-      "ProcessTemplates": true,
-      "IsUsed": false,
-      "zhCN": "你的喷吐攻击在50英尺锥形范围内造成12d8负能量伤害，目标生物可以通过反射豁免检定来减半伤害。如果豁免失败，目标将目盲1d4轮。你可以施展任意次数的喷吐攻击，但必须间隔1d4轮才能再次施展。",
-      "enGB": "Your breath weapon deals 12d8 points of negative energy damage in a 50-foot cone and allows a Reflex save for half damage. If the saving throw is failed, the target is blinded for 1d4 rounds.You can use it as often as you like, but you must wait 1d4 rounds between uses."
-    },
-    {
       "Key": "ccf7264dbca44f50ae88bd21771c8cf5",
       "SimpleName": "FormOfTheExoticDragonBreathUmbral.Name",
       "ProcessTemplates": false,
@@ -25598,7 +25589,7 @@
     },
     {
       "Key": "7f6def3e883a4430907e63b4ef4f9f4e",
-      "SimpleName": "FormOfTheExoticDragonBuffCragLinnorm.Description",
+      "SimpleNameDis": "屎山标记",
       "ProcessTemplates": true,
       "IsUsed": false,
       "zhCN": "你变身为罕见的龙类。你获得+10力量体型加值、+8体质体型加值、获得+8天生防御加值、免疫困难地形、60英尺盲感、喷吐武器、伤害减免10/魔法、慑人气魄（DC与此法术相等）和元素抗性。你的移动速度提高10英尺。\nTest text",
@@ -25620,7 +25611,7 @@
     },
     {
       "Key": "8f964848cfc34c149d9c2f42a58559db",
-      "SimpleName": "FormOfTheExoticDragonBuffHavoc.Description",
+      "SimpleNameDis": "屎山标记",
       "ProcessTemplates": true,
       "IsUsed": false,
       "zhCN": "你变身为罕见的龙类。你获得+10力量体型加值、+8体质体型加值、获得+8天生防御加值、免疫困难地形、60英尺盲感、喷吐武器、伤害减免10/魔法、慑人气魄（DC与此法术相等）和元素抗性。你的移动速度提高10英尺。\nTest text",
@@ -25635,7 +25626,7 @@
     },
     {
       "Key": "fd53b73ee9254305bf02eaf1671255d9",
-      "SimpleName": "FormOfTheExoticDragonBuffUmbral.Description",
+      "SimpleNameDis": "屎山标记",
       "ProcessTemplates": true,
       "IsUsed": false,
       "zhCN": "你变身为罕见的龙类。你获得+10力量体型加值、+8体质体型加值、获得+8天生防御加值、免疫困难地形、60英尺盲感、喷吐武器、伤害减免10/魔法、慑人气魄（DC与此法术相等）和元素抗性。你的移动速度提高10英尺。\nTest text",
