@@ -23395,7 +23395,7 @@
       "zhCN": "你的副手武器拥有临时的“无序”附魔。如果你在双头武器上使用这个能力，只有双头武器的一端会受到影响。效果持续1分钟。你可以在同一件武器上多次使用这个能力。"
     },
     {
-      "Key": "e3f6da9f2653419bb2657f2bc7263c28",
+     "Key": "e3f6da9f2653419bb2657f2bc7263c28",
       "SimpleName": "ArtificeBlessingOHAnarchicBuff.Name",
       "ProcessTemplates": false,
       "enGB": "Transfer Magic - Off Hand - Anarchic",
@@ -25369,6 +25369,292 @@
       "ProcessTemplates": false,
       "zhCN": "月亮之触",
       "enGB": "Touch of the Moon"
+    },
+    {
+      "Key": "6365a70c22d34bafa5195349dd939895",
+      "SimpleName": "OracleRevelationGiftOfClawAndHornAbility.Description",
+      "ProcessTemplates": true,
+      "IsUsed": false,
+      "zhCN": "以一个迅捷动作，你获得一种天生武器，持续一半先知等级的轮数（最小为1）。你要选择啮咬，爪击或是抵撞，其伤害骰取决于你的体型。在5级，你的天生武器获得+1增强加值。该加值在10级、15级和20级增加+1。在11级，你一次获得两种天生武器。你每天可以使用该能", 
+      "enGB": "As a swift action, you gain a natural weapon. The natural weapon lasts for a number of rounds equal to half your oracle level (minimum 1). You must choose a bite, claws, or gore attack. These attacks deal the normal damage for a creature of your size. At 5th level, your natural weapon gains a +1 enhancement bonus. This bonus increases by +1 at 10th, 15th, and 20th level. At 11th level, you gain two natural weapons at a time. You can use this ability a number of times per day equal to 3 + your Charisma modifier."
+    },
+    {
+      "Key": "13634f4303f1405dac4b72b7b790f14a",
+      "SimpleName": "OracleRevelationGiftOfClawAndHornAbility.Name",
+      "ProcessTemplates": false,
+      "zhCN": "利爪与坚角之赐",
+      "enGB": "gift of claw and horn"
+    },
+    {
+      "Key": "cbcec9c46ede4feeb9c612e0bb3a4f1a",
+      "SimpleName": "OracleRevelationGiftOfClawAndHornProgression.Description",
+      "ProcessTemplates": true,
+      "zhCN": "以一个迅捷动作，你获得一种天生武器，持续一半先知等级的轮数（最小为1）。你要选择啮咬，爪抓或是抵刺，其伤害骰取决于你的体型。在5级，你的天生武器获得+1增强加值。该加值在10级、15级和20级增加+1。在11级，你一次获得两种天生武器。你每天可以使用该能", 
+      "enGB": "As a swift action, you gain a natural weapon. The natural weapon lasts for a number of rounds equal to half your oracle level (minimum 1). You must choose a bite, claws, or gore attack. These attacks deal the normal damage for a creature of your size. At 5th level, your natural weapon gains a +1 enhancement bonus. This bonus increases by +1 at 10th, 15th, and 20th level. At 11th level, you gain two natural weapons at a time. You can use this ability a number of times per day equal to 3 + your Charisma modifier."
+    },
+    {
+      "Key": "bde3cc8e83c64a709527c5885663111b",
+      "SimpleName": "OracleRevelationGiftOfClawAndHornToggleBase.Description",
+      "ProcessTemplates": true,
+      "zhCN": "选择使用利爪与坚角之赐时要获得的武器。利爪与坚角之赐处于激活状态时无法更改。\n在11级时，可选择的武器数量增加1个。",
+     "enGB": "Choose which weapon to receive when using the gift of claw and horn ability. This cannot be changed while gift of claw and horn is active. \nAt 11th level the number of weapons able to be selected increases by 1."
+    },
+    {
+      "Key": "a8fede4a743a4306b8a825251eb41e96",
+      "SimpleName": "OracleRevelationGiftOfClawAndHornToggleBase.Name",
+      "ProcessTemplates": false,
+      "zhCN": "利爪与坚角之赐 - 选择武器",
+      "enGB": "Gift of Claw and Horn - Weapon Selection"
+    },
+    {
+      "Key": "436fb0878f334e01b6dff160defdadcd",
+      "SimpleName": "OracleRevelationGiftOfClawAndHornToggleBite.Description",
+      "ProcessTemplates": true,
+      "zhCN": "激活此能力之后，利爪与坚角之赐将给予你啮咬攻击。",
+      "enGB": "With this activated, the gift of claw and horn ability will grant a bite attack."
+    },
+    {
+      "Key": "81c04b8aaf11495ab3fc11eed74be50e",
+      "SimpleName": "OracleRevelationGiftOfClawAndHornToggleBite.Name",
+      "ProcessTemplates": false,
+      "zhCN": "利爪与坚角之赐 - 啮咬",
+      "enGB": "Gift of Claw and Horn - Bite"
+    },
+    {
+      "Key": "53fca820466c4c5088c05ff75e358b64",
+      "SimpleName": "OracleRevelationGiftOfClawAndHornToggleBiteBuff.Name",
+      "ProcessTemplates": false,
+      "zhCN": "利爪与坚角之赐 - 啮咬",
+      "enGB": "Giftof CandH - Bite buff"
+    },
+    {
+      "Key": "198a83b4aacb426db467fef7e78107ae",
+      "SimpleName": "OracleRevelationGiftOfClawAndHornToggleClaw.Description",
+      "ProcessTemplates": true,
+      "zhCN": "激活此能力之后，利爪与坚角之赐将使你能在徒手时使用爪抓攻击。",
+      "enGB": "With this activated, the gift of claw and horn ability will grant claw attacks while unarmed."
+    },
+    {
+      "Key": "a3634e4d016047bc8837c1b117e9be11",
+      "SimpleName": "OracleRevelationGiftOfClawAndHornToggleClaw.Name",
+      "ProcessTemplates": false,
+      "zhCN": "利爪与坚角之赐 - 爪抓",
+      "enGB": "Gift of Claw and Horn - Claws"
+    },
+    {
+      "Key": "46e4c01cdeeb424a9a55609974a060bb",
+      "SimpleName": "OracleRevelationGiftOfClawAndHornToggleClawBuff.Name",
+      "ProcessTemplates": false,
+      "zhCN": "利爪与坚角之赐 - 爪击",
+      "enGB": "Giftof CandH - Claws buff"
+    },
+    {
+      "Key": "0ccaf33cb7f644a1b35d96e9169a437a",
+      "SimpleName": "OracleRevelationGiftOfClawAndHornToggleGore.Description",
+      "ProcessTemplates": true,
+      "zhCN": "激活此能力之后，利爪与坚角之赐将给予你抵刺攻击。",
+      "enGB": "With this activated, the gift of claw and horn ability will grant a gore attack."
+    },
+    {
+      "Key": "5e9a9b87a2b9442289be4e979c7968da",
+      "SimpleName": "OracleRevelationGiftOfClawAndHornToggleGore.Name",
+      "ProcessTemplates": false,
+      "zhCN": "利爪与坚角之赐 - 抵刺",
+      "enGB": "Gift of Claw and Horn - Gore"
+    },
+    {
+      "Key": "68d4e5eade1945a4a3440aefd6bb5a8a",
+      "SimpleName": "OracleRevelationGiftOfClawAndHornToggleGoreBuff.Name",
+      "ProcessTemplates": false,
+      "zhCN": "利爪与坚角之赐 - 抵刺",
+      "enGB": "Giftof CandH - Gore buff"
+    },
+    {
+      "Key": "01d325d7ee4043f18e16ef183c10a14f",
+      "SimpleName": "OracleRevelationGiftOfClawAndHornToggleIncreaseFeature.Description",
+      "ProcessTemplates": true,
+      "zhCN": "从11级起，你一次可以选择两种武器",
+      "enGB": "At 11th level, you may select two natural weapons at a time."
+    },
+    {
+      "Key": "a97c0d6454354fc49cd9d48531b04017",
+      "SimpleName": "OracleRevelationGiftOfClawAndHornToggleIncreaseFeature.Name",
+      "ProcessTemplates": false,
+      "zhCN": "双重天生武器",
+      "enGB": "Double Natural Weapon"
+    },
+    {
+      "Key": "322770cefc5a4894bc6e5d6bd9abd715",
+      "SimpleName": "FormOfTheExoticDragonAbility.Description",
+      "ProcessTemplates": true,
+      "zhCN": "你变身为罕见的龙类。你获得+10力量体型加值、+8体质体型加值、获得+8天生防御加值、免疫困难地形、60英尺盲感、喷吐武器、伤害减免10/魔法、慑人气魄（DC与此法术相等）和元素抗性。你的移动速度提高10英尺。\n此法术授予的天生武器和能力因化身形态而异。",
+      "enGB": "Take the form of a rarely seen dragon. You gain a +10 polymorph bonus to Strength, a +8 polymorph bonus to Constitution, a +8 natural armor bonus to AC, immunity to difficult terrain, blindsense with a range of 60 feet, a breath weapon, damage reduction 10/magic, frightful presence (DC equal to the DC for this spell), and elemental resistances. Your movement speed is increased by 10 feet. \nThe weapons and abilities granted by this spell vary depending on form taken."
+    },
+    {
+      "Key": "05bbfb71a9f44a66baac5042f4cab9c8",
+      "SimpleName": "FormOfTheExoticDragonAbility.Description",
+      "ProcessTemplates": true,
+      "IsUsed": false,
+      "zhCN": "你变身为罕见的龙类。你获得+10力量体型加值、+8体质体型加值、获得+8天生防御加值、免疫困难地形、60英尺盲感、喷吐武器、伤害减免10/魔法、慑人气魄（DC与此法术相等）和元素抗性。你的移动速度提高10英尺。你还获得1次啮咬（2d8），2次爪抓（2d6），2次翼击（1d8），1次尾击（2d6）。你可以施展任意次数的喷吐攻击，但必须间隔1d4才能再次施展。所有喷吐攻击造成12d8点伤害，并允许通过反射豁免来减半伤害",
+      "enGB": "Take the form of a rarely seen dragon. You gain a +10 polymorph bonus to Strength, a +8 polymorph bonus to Constitution, a +8 natural armor bonus to AC, immunity to difficult terrain, blindsense with a range of 60 feet, a breath weapon, damage reduction 10/magic, frightful presence (DC equal to the DC for this spell), and elemental resistances. Your movement speed is increased by 10 feet. You also gain one bite (2d8), two claws (2d6), two wing attacks (1d8), and one tail slap attack (2d6). You can use the breath weapon as often as you like, but you must wait 1d4 rounds between uses. All breath weapons deal 12d8 points of damage and allow a Reflex save for half damage."
+    },
+    {
+      "Key": "bec7d8b986874b8b9bfb03690434c847",
+      "SimpleName": "FormOfTheExoticDragonAbility.Name",
+      "ProcessTemplates": false,
+      "zhCN": "奇龙形态",
+      "enGB": "Form of the Exotic Dragon"
+    },
+    {
+      "Key": "768dcd901ad043aa8f2cc1b9811864c8",
+      "SimpleName": "FormOfTheExoticDragonAbilityCragLinnorm.Description",
+      "ProcessTemplates": true,
+      "IsUsed": false,
+      "zhCN": "你变身为罕见的龙类。你获得+10力量体型加值、+8体质体型加值、获得+8天生防御加值、免疫困难地形、60英尺盲感、喷吐武器、伤害减免10/魔法、慑人气魄（DC与此法术相等）和元素抗性。你的移动速度提高10英尺。\nTest text",
+      "enGB": "Take the form of a rarely seen dragon. You gain a +10 polymorph bonus to Strength, a +8 polymorph bonus to Constitution, a +8 natural armor bonus to AC, immunity to difficult terrain, blindsense with a range of 60 feet, and damage reduction 10/magic, frightful presence (DC equal to the DC for this spell). Your movement speed is increased by 10 feet. \nTest text"
+    },
+    {
+      "Key": "11b26a8bb7c146199f7367e0fcc0b0bf",
+      "SimpleName": "FormOfTheExoticDragonAbilityCragLinnorm.Description",
+      "ProcessTemplates": true,
+      "IsUsed": false,
+      "zhCN": "你变身为罕见的龙类。你获得+10力量体型加值、+8体质体型加值、获得+8天生防御加值、免疫困难地形、60英尺盲感、喷吐武器、伤害减免10/魔法、慑人气魄（DC与此法术相等）和元素抗性。你的移动速度提高10英尺。\n此形态还给予你免疫火焰伤害，火焰喷吐攻击，快速治疗5，以及以下天生武器，1次啮咬（2d8），2次爪抓（2d6），1次尾击（4d6）",
+      "enGB": "Take the form of a rarely seen dragon. You gain a +10 polymorph bonus to Strength, a +8 polymorph bonus to Constitution, a +8 natural armor bonus to AC, immunity to difficult terrain, blindsense with a range of 60 feet, and damage reduction 10/magic, frightful presence (DC equal to the DC for this spell). Your movement speed is increased by 10 feet. \nThis form also grants fire damage immunity, a fire breath attack, fast healing 5, and the following natural attacks, one large bite (4d6), two claw attacks (2d6), and one tail slap attack (4d6)."
+    },
+    {
+      "Key": "fe7a49e2da464ba4a5739cce73f3a242",
+      "SimpleName": "FormOfTheExoticDragonAbilityHavoc.Description",
+      "ProcessTemplates": true,
+      "IsUsed": false,
+      "zhCN": "你变身为罕见的龙类。你获得+10力量体型加值、+8体质体型加值、获得+8天生防御加值、免疫困难地形、60英尺盲感、喷吐武器、伤害减免10/魔法、慑人气魄（DC与此法术相等）和元素抗性。你的移动速度提高10英尺。\n此形态还给予你免疫音波伤害，只对敌人造成伤害的音波喷吐攻击，快速治疗5，以及以下天生武器，1次啮咬（1d8），2次爪抓（2d6），1次尾击（1d8）\n与此法术的其他形态不同，此形态体型为中型",
+      "enGB": "Take the form of a rarely seen dragon. You gain a +10 polymorph bonus to Strength, a +8 polymorph bonus to Constitution, a +8 natural armor bonus to AC, immunity to difficult terrain, blindsense with a range of 60 feet, and damage reduction 10/magic, frightful presence (DC equal to the DC for this spell). Your movement speed is increased by 10 feet. \nThis form also grants sonic damage immunity, a sonic breath attack that only damages enemies, and the following natural attacks, one bite (1d8), two claws (1d6), and one tail slap attack (1d8). \nUnlike other forms of this spell, size is set to medium."
+    },
+    {
+      "Key": "e324fd19567e4dc5b58c31c7359eb888",
+      "SimpleName": "FormOfTheExoticDragonAbilityHavoc.Description",
+      "ProcessTemplates": true,
+      "IsUsed": false,
+      "zhCN": "你变身为罕见的龙类。你获得+10力量体型加值、+8体质体型加值、获得+8天生防御加值、免疫困难地形、60英尺盲感、喷吐武器、伤害减免10/魔法、慑人气魄（DC与此法术相等）和元素抗性。你的移动速度提高10英尺。\nTest text",
+      "enGB": "Take the form of a rarely seen dragon. You gain a +10 polymorph bonus to Strength, a +8 polymorph bonus to Constitution, a +8 natural armor bonus to AC, immunity to difficult terrain, blindsense with a range of 60 feet, and damage reduction 10/magic, frightful presence (DC equal to the DC for this spell). Your movement speed is increased by 10 feet. \nTest text"
+    },
+    {
+      "Key": "c5361d88ab774ab79b7bc95963fbd0f9",
+      "SimpleName": "FormOfTheExoticDragonAbilityUmbral.Description",
+      "ProcessTemplates": true,
+      "IsUsed": false,
+      "zhCN": "你变身为罕见的龙类。你获得+10力量体型加值、+8体质体型加值、获得+8天生防御加值、免疫困难地形、60英尺盲感、喷吐武器、伤害减免10/魔法、慑人气魄（DC与此法术相等）和元素抗性。你的移动速度提高10英尺。\nTest text",
+      "enGB": "Take the form of a rarely seen dragon. You gain a +10 polymorph bonus to Strength, a +8 polymorph bonus to Constitution, a +8 natural armor bonus to AC, immunity to difficult terrain, blindsense with a range of 60 feet, and damage reduction 10/magic, frightful presence (DC equal to the DC for this spell). Your movement speed is increased by 10 feet. \nTest text"
+    },
+    {
+      "Key": "feeb336fce6f47afbb638578066cc951",
+      "SimpleName": "FormOfTheExoticDragonAbilityUmbral.Description",
+      "ProcessTemplates": true,
+      "IsUsed": false,
+      "zhCN": "你变身为罕见的龙类。你获得+10力量体型加值、+8体质体型加值、获得+8天生防御加值、免疫困难地形、60英尺盲感、喷吐武器、伤害减免10/魔法、慑人气魄（DC与此法术相等）和元素抗性。你的移动速度提高10英尺。\n此形态还给予你免疫负能量伤害，负能量喷吐攻击（豁免失败还会使人目盲1d4轮），负能力亲和，以及以下天生武器，1次啮咬（2d8），2次爪抓（2d6），2次翼击（1d8），1次尾击（2d6）",
+      "enGB": "Take the form of a rarely seen dragon. You gain a +10 polymorph bonus to Strength, a +8 polymorph bonus to Constitution, a +8 natural armor bonus to AC, immunity to difficult terrain, blindsense with a range of 60 feet, and damage reduction 10/magic, frightful presence (DC equal to the DC for this spell). Your movement speed is increased by 10 feet. \nThis form also grants negative energy damage immunity, a negative energy breath attack that also blinds for 1d4 rounds on a failed save, negaive energy affinity, and the following natural attacks, one bite (2d8), two claws (2d6), two wing attacks (1d8), and one tail slap attack (2d6)."
+    },
+    {
+      "Key": "db510f204219407a8a8e5b5865dcd019",
+      "SimpleName": "FormOfTheExoticDragonBreathHavoc.Description",
+      "ProcessTemplates": true,
+      "zhCN": "你的喷吐攻击在30英尺锥形范围内造成12d8音波伤害，目标生物可以通过反射豁免检定来减半伤害。你可以施展任意次数的喷吐攻击，但必须间隔1d4轮才能再次施展。\n只有敌人会受到此攻击的影响。",
+      "enGB": "Your breath weapon deals 12d8 points of sonic damage in a 30-foot cone and allows a Reflex save for half damage. You can use it as often as you like, but you must wait 1d4 rounds between uses. \nOnly enemies are affected by this attack. "
+    },
+    {
+      "Key": "cb6266929d2f41179b3f366bd081433e",
+      "SimpleName": "FormOfTheExoticDragonBreathHavoc.Name",
+      "ProcessTemplates": false,
+      "zhCN": "狂欢喷吐武器",
+      "enGB": "Havoc Breath Weapon"
+    },
+    {
+      "Key": "e854a79157564b76a4017df4210c3c5b",
+      "SimpleName": "FormOfTheExoticDragonBreathUmbral.Description",
+      "ProcessTemplates": true,
+      "zhCN": "你的喷吐攻击在50英尺锥形范围内造成12d8负能量伤害，目标生物可以通过反射豁免检定来减半伤害。如果豁免失败，目标将目盲1d4轮。你可以施展任意次数的喷吐攻击，但必须间隔1d4轮才能再次施展。",
+      "enGB": "Your breath weapon deals 12d8 points of negative energy damage in a 50-foot cone and allows a Reflex save for half damage. If the saving throw is failed, the target is blinded for 1d4 rounds. You can use it as often as you like, but you must wait 1d4 rounds between uses."
+    },
+    {
+      "Key": "8690ca1069114d9c8debf0be48b416df",
+      "SimpleName": "FormOfTheExoticDragonBreathUmbral.Description",
+      "ProcessTemplates": true,
+      "IsUsed": false,
+      "zhCN": "你的喷吐攻击在50英尺锥形范围内造成12d8负能量伤害，目标生物可以通过反射豁免检定来减半伤害。如果豁免失败，目标将目盲1d4轮。你可以施展任意次数的喷吐攻击，但必须间隔1d4轮才能再次施展。",
+      "enGB": "Your breath weapon deals 12d8 points of negative energy damage in a 50-foot cone and allows a Reflex save for half damage. If the saving throw is failed, the target is blinded for 1d4 rounds.You can use it as often as you like, but you must wait 1d4 rounds between uses."
+    },
+    {
+      "Key": "ccf7264dbca44f50ae88bd21771c8cf5",
+      "SimpleName": "FormOfTheExoticDragonBreathUmbral.Name",
+      "ProcessTemplates": false,
+      "zhCN": "暗影喷吐武器",
+      "enGB": "Umbral Breath Weapon"
+    },
+    {
+      "Key": "fba4f02a960c40f7bfea93f82cff9b73",
+      "SimpleName": "FormOfTheExoticDragonBuffCragLinnorm.Description",
+      "ProcessTemplates": true,
+      "zhCN": "你变身为罕见的龙类。你获得+10力量体型加值、+8体质体型加值、获得+8天生防御加值、免疫困难地形、60英尺盲感、喷吐武器、伤害减免10/魔法、慑人气魄（DC与此法术相等）和元素抗性。你的移动速度提高10英尺。\n此形态还给予你免疫火焰伤害，火焰喷吐攻击，快速治疗5，以及以下天生武器，1次啮咬（2d8），2次爪抓（2d6），1次尾击（4d6）",
+      "enGB": "Take the form of a rarely seen dragon. You gain a +10 polymorph bonus to Strength, a +8 polymorph bonus to Constitution, a +8 natural armor bonus to AC, immunity to difficult terrain, blindsense with a range of 60 feet, and damage reduction 10/magic, frightful presence (DC equal to the DC for this spell). Your movement speed is increased by 10 feet. \nThis form also grants fire damage immunity, a fire breath attack, fast healing 5, and the following natural attacks, one large bite (4d6), two claw attacks (2d6), and one tail slap attack (4d6)."
+    },
+    {
+      "Key": "7f6def3e883a4430907e63b4ef4f9f4e",
+      "SimpleName": "FormOfTheExoticDragonBuffCragLinnorm.Description",
+      "ProcessTemplates": true,
+      "IsUsed": false,
+      "zhCN": "你变身为罕见的龙类。你获得+10力量体型加值、+8体质体型加值、获得+8天生防御加值、免疫困难地形、60英尺盲感、喷吐武器、伤害减免10/魔法、慑人气魄（DC与此法术相等）和元素抗性。你的移动速度提高10英尺。\nTest text",
+      "enGB": "Take the form of a rarely seen dragon. You gain a +10 polymorph bonus to Strength, a +8 polymorph bonus to Constitution, a +8 natural armor bonus to AC, immunity to difficult terrain, blindsense with a range of 60 feet, and damage reduction 10/magic, frightful presence (DC equal to the DC for this spell). Your movement speed is increased by 10 feet. \nTest text"
+    },
+    {
+      "Key": "c64faf0e6849452e90b9fd32edb8498d",
+      "SimpleName": "FormOfTheExoticDragonBuffCragLinnorm.Name",
+      "ProcessTemplates": false,
+      "zhCN": "奇龙形态 - 峭壁蛇龙",
+      "enGB": "Form of the Exotic Dragon - Crag Linnorm"
+    },
+    {
+      "Key": "5cd55b6ed0bd47ec897593c9fdbbc9d8",
+      "SimpleName": "FormOfTheExoticDragonBuffHavoc.Description",
+      "ProcessTemplates": true,
+      "zhCN": "你变身为罕见的龙类。你获得+10力量体型加值、+8体质体型加值、获得+8天生防御加值、免疫困难地形、60英尺盲感、喷吐武器、伤害减免10/魔法、慑人气魄（DC与此法术相等）和元素抗性。你的移动速度提高10英尺。\n此形态还给予你免疫音波伤害，只对敌人造成伤害的音波喷吐攻击，快速治疗5，以及以下天生武器，1次啮咬（1d8），2次爪抓（2d6），1次尾击（1d8）\n与此法术的其他形态不同，此形态体型为中型",
+      "enGB": "Take the form of a rarely seen dragon. You gain a +10 polymorph bonus to Strength, a +8 polymorph bonus to Constitution, a +8 natural armor bonus to AC, immunity to difficult terrain, blindsense with a range of 60 feet, and damage reduction 10/magic, frightful presence (DC equal to the DC for this spell). Your movement speed is increased by 10 feet. \nThis form also grants sonic damage immunity, a sonic breath attack that only damages enemies, and the following natural attacks, one bite (1d8), two claws (1d6), and one tail slap attack (1d8). \nUnlike other forms of this spell, size is set to medium."
+    },
+    {
+      "Key": "8f964848cfc34c149d9c2f42a58559db",
+      "SimpleName": "FormOfTheExoticDragonBuffHavoc.Description",
+      "ProcessTemplates": true,
+      "IsUsed": false,
+      "zhCN": "你变身为罕见的龙类。你获得+10力量体型加值、+8体质体型加值、获得+8天生防御加值、免疫困难地形、60英尺盲感、喷吐武器、伤害减免10/魔法、慑人气魄（DC与此法术相等）和元素抗性。你的移动速度提高10英尺。\nTest text",
+      "enGB": "Take the form of a rarely seen dragon. You gain a +10 polymorph bonus to Strength, a +8 polymorph bonus to Constitution, a +8 natural armor bonus to AC, immunity to difficult terrain, blindsense with a range of 60 feet, and damage reduction 10/magic, frightful presence (DC equal to the DC for this spell). Your movement speed is increased by 10 feet. \nTest text"
+    },
+    {
+      "Key": "5ad3f65fb9e24f579e989371a1c70170",
+      "SimpleName": "FormOfTheExoticDragonBuffHavoc.Name",
+      "ProcessTemplates": false,
+      "zhCN": "奇龙形态 - 狂欢龙",
+      "enGB": "Form of the Exotic Dragon - Havoc"
+    },
+    {
+      "Key": "fd53b73ee9254305bf02eaf1671255d9",
+      "SimpleName": "FormOfTheExoticDragonBuffUmbral.Description",
+      "ProcessTemplates": true,
+      "IsUsed": false,
+      "zhCN": "你变身为罕见的龙类。你获得+10力量体型加值、+8体质体型加值、获得+8天生防御加值、免疫困难地形、60英尺盲感、喷吐武器、伤害减免10/魔法、慑人气魄（DC与此法术相等）和元素抗性。你的移动速度提高10英尺。\nTest text",
+      "enGB": "Take the form of a rarely seen dragon. You gain a +10 polymorph bonus to Strength, a +8 polymorph bonus to Constitution, a +8 natural armor bonus to AC, immunity to difficult terrain, blindsense with a range of 60 feet, and damage reduction 10/magic, frightful presence (DC equal to the DC for this spell). Your movement speed is increased by 10 feet. \nTest text"
+    },
+    {
+      "Key": "3a70b87448f04668be9cc4915d70504e",
+      "SimpleName": "FormOfTheExoticDragonBuffUmbral.Description",
+      "ProcessTemplates": true,
+      "zhCN": "你变身为罕见的龙类。你获得+10力量体型加值、+8体质体型加值、获得+8天生防御加值、免疫困难地形、60英尺盲感、喷吐武器、伤害减免10/魔法、慑人气魄（DC与此法术相等）和元素抗性。你的移动速度提高10英尺。\n此形态还给予你免疫负能量伤害，负能量喷吐攻击（豁免失败还会使人目盲1d4轮），负能力亲和，以及以下天生武器，1次啮咬（2d8），2次爪抓（2d6），2次翼击（1d8），1次尾击（2d6）",
+      "enGB": "Take the form of a rarely seen dragon. You gain a +10 polymorph bonus to Strength, a +8 polymorph bonus to Constitution, a +8 natural armor bonus to AC, immunity to difficult terrain, blindsense with a range of 60 feet, and damage reduction 10/magic, frightful presence (DC equal to the DC for this spell). Your movement speed is increased by 10 feet. \nThis form also grants negative energy damage immunity, a negative energy breath attack that also blinds for 1d4 rounds on a failed save, negaive energy affinity, and the following natural attacks, one bite (2d8), two claws (2d6), two wing attacks (1d8), and one tail slap attack (2d6)."
+    },
+    {
+      "Key": "8da5950d4c5d4e0e90881638d10c27c4",
+      "SimpleName": "FormOfTheExoticDragonBuffUmbral.Name",
+      "ProcessTemplates": false,
+      "zhCN": "奇龙形态 - 影龙",
+      "enGB": "Form of the Exotic Dragon - Umbral"
+
     }
   ]
 }
