@@ -4406,9 +4406,10 @@ C:\Users\你的用户名\AppData\LocalLow\Owlcat Games\Pathfinder Wrath Of The R
 > *安装方式：* **UMM**<br>
 > *新增内容：* 加强魔法诈欺师<br>
 <table>
-<tr><th colspan="2">修改列表<br></th></tr> 
+<tr><th colspan="3">修改列表<br></th></tr> 
        <tr><td>法术进程</td><td>诈欺师现在使用完整的法术进程(九环)，每日法术量按照法师的规则</td></tr>
        <tr><td>合书</td><td>魔法诈欺师现在可以和任意神话魔法书合书</td></tr>
+       <tr><td>抄写卷轴</td><td>魔法诈欺师现在可以能复制任何卷轴的法术到他们的法术书中</td></tr>
        <tr><td rowspan="19">魔法诈欺师新增法术</td>
            <td>地狱烈焰射线</td></tr>
 	   <tr><td>吸能术</td></tr>
