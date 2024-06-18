@@ -4409,8 +4409,7 @@ C:\Users\你的用户名\AppData\LocalLow\Owlcat Games\Pathfinder Wrath Of The R
 <tr><th colspan="2">修改列表<br></th></tr> 
        <tr><td>法术进程</td><td>诈欺师现在使用完整的法术进程(九环)，每日法术量按照法师的规则</td></tr>
        <tr><td>合书</td><td>魔法诈欺师现在可以和任意神话魔法书合书</td></tr>
-       <tr><td>法术等级</td><td>为了绕开融合法术的伤害骰上限，将所有6环以上的法术移动到六环</td></tr>
-       <tr><td rowspan="18">魔法诈欺师新增法术</td>
+       <tr><td rowspan="19">魔法诈欺师新增法术</td>
            <td>地狱烈焰射线</td></tr>
 	   <tr><td>吸能术</td></tr>
            <tr><td>凶兆</td></tr>
@@ -4429,6 +4428,7 @@ C:\Users\你的用户名\AppData\LocalLow\Owlcat Games\Pathfinder Wrath Of The R
 	   <tr><td>冷冻射线</td></tr>
 	   <tr><td>放电</td></tr>
 	   <tr><td>共用防护混乱/邪恶</td></tr>
+	   <tr><td>龙型 红龙/金龙</td></tr>
 </table>   
 
 ### 功能MOD索引
