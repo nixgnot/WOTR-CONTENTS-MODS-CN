@@ -88,6 +88,7 @@
 | [Mythic-Magic-Mayhem](#Mythic-Magic-Mayhem) | 神话法术重制 | 暂无 | :heavy_check_mark: | :+1::+1::+1:| :file_folder::file_folder: |🛠️🛠️||
 | [OnePear](#OnePearl) | 珍珠合一 | 暂无 | :heavy_check_mark: | :+1::+1::+1:| :file_folder: |🛠️🛠️||
 | [deceiverbuff](#deceiverbuff) | 魔法诈欺师加强 | 暂无 | :heavy_check_mark: | :+1::+1::+1:| :file_folder: |🛠️🛠️||
+| [FinessableSabers](#FinessableSabers) | FinessableSabers | 暂无 | :heavy_check_mark: | :+1:| :file_folder: |🛠️||
 
 备注
 + UMM一栏为是否使用UMM安装
@@ -4430,6 +4431,19 @@ C:\Users\你的用户名\AppData\LocalLow\Owlcat Games\Pathfinder Wrath Of The R
 	   <tr><td>放电</td></tr>
 	   <tr><td>共用防护混乱/邪恶</td></tr>
 	   <tr><td>龙型 红龙/金龙</td></tr>
+	</table> 
+ 
+------------------------------------------- 
+### [FinessableSabers](https://github.com/StoyanKucarov/FinessableSabers)
+> *前置：* 无<br>
+> *中文：* **无**<br>
+> *安装方式：* **UMM**<br>
+> *新增内容：* 锯齿刀巧技训练和一个神话能力
+<table>
+<tr><th colspan="3">修改列表<br></th></tr> 
+       <tr><td>巧计训练 锯齿刀</td><td>游荡者的敏上伤能力</td></tr>
+       <tr><td>神话能力 夜王迅捷</td><td>你的所有血池能力成为迅捷动作</td></tr>
+       
 </table>   
 
 ### 功能MOD索引
