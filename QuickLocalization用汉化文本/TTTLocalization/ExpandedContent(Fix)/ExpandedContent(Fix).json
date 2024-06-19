@@ -11070,14 +11070,14 @@
       "SimpleName": "ShamanHexGuidingStarMetamagicAbilityBase.Description",
       "ProcessTemplates": true,
       "enGB": "Once per day you can cast one spell from the shaman spellbook as if it were modified by the Empower Spell or Extend Spell feat without increasing the spell’s casting time or level.",
-      "zhCN":"每天一次，你可以从萨满法术书中释放一个法术，如同其被增效或者延时超魔专长影响，而不实际增加其施法时间或者等级。"
+      "zhCN":"每天一次，你可以从萨满法术书中释放一个法术，如同其被强效或者延时超魔专长影响，而不实际增加其施法时间或者等级。"
     },
     {
       "Key": "0c8f3c9aeed9404a8ed54d582d14b8b5",
       "SimpleName": "ShamanHexGuidingStarMetamagicAbilityEmpower.Description",
       "ProcessTemplates": true,
       "enGB": "Once per day you can cast one spell from the shaman spellbook as if it were modified by the Empower Spell feat without increasing the spell’s casting time or level.",
-      "zhCN":"每天一次，你可以从萨满法术书中释放一个法术，如同其被增效超魔专长影响，而不实际增加其施法时间或者等级。"
+      "zhCN":"每天一次，你可以从萨满法术书中释放一个法术，如同其被强效超魔专长影响，而不实际增加其施法时间或者等级。"
     },
     {
       "Key": "0827f20bf8f14de9958d7b35f59d2e4c",
@@ -11091,7 +11091,7 @@
       "SimpleName": "ShamanHexGuidingStarMetamagicBuffEmpower.Description",
       "ProcessTemplates": true,
       "enGB": "Once per day you can cast one spell from the shaman spellbook as if it were modified by the Empower Spell feat without increasing the spell’s casting time or level.",
-      "zhCN":"每天一次，你可以从萨满法术书中释放一个法术，如同其被增效超魔专长影响，而不实际增加其施法时间或者等级。"
+      "zhCN":"每天一次，你可以从萨满法术书中释放一个法术，如同其被强效超魔专长影响，而不实际增加其施法时间或者等级。"
     },
     {
       "Key": "9c7ff0d33262403e848517635fb3d58e",
@@ -18157,14 +18157,14 @@
       "SimpleName": "WitchHexGuidingStarMetamagicAbilityBase.Description",
       "ProcessTemplates": true,
       "enGB": "Once per day you can cast one spell as if it were modified by the Empower Spell or Extend Spell feat without increasing the spell’s casting time or level.",
-      "zhCN": "每天一次，你可以释放一个法术，如同其被增效或者延时超魔专长影响，而不实际增加其施法时间或者等级。"
+      "zhCN": "每天一次，你可以释放一个法术，如同其被强效或者延时超魔专长影响，而不实际增加其施法时间或者等级。"
     },
     {
       "Key": "75f362f017684d5c9d0b690ee3dbfb65",
       "SimpleName": "WitchHexGuidingStarMetamagicAbilityEmpower.Description",
       "ProcessTemplates": true,
       "enGB": "Once per day you can cast one spell as if it were modified by the Empower Spell feat without increasing the spell’s casting time or level.",
-      "zhCN":"每天一次，你可以释放一个法术，如同其被增效超魔专长影响，而不实际增加其施法时间或者等级。"
+      "zhCN":"每天一次，你可以释放一个法术，如同其被强效超魔专长影响，而不实际增加其施法时间或者等级。"
     },
     {
       "Key": "6c759966d629477fbf08e291dce7586e",
@@ -18178,7 +18178,7 @@
       "SimpleName": "WitchHexGuidingStarMetamagicBuffEmpower.Description",
       "ProcessTemplates": true,
       "enGB": "Once per day you can cast one spell as if it were modified by the Empower Spell feat without increasing the spell’s casting time or level.",
-      "zhCN":"每天一次，你可以释放一个法术，如同其被增效超魔专长影响，而不实际增加其施法时间或者等级。"
+      "zhCN":"每天一次，你可以释放一个法术，如同其被强效超魔专长影响，而不实际增加其施法时间或者等级。"
     },
     {
       "Key": "9670236a98b1412c88c3660fae09fd98",
