@@ -1,1 +1,26 @@
+[
+  {
+    "Key": "FinesseSaber.Name",
+    "ProcessTemplates": false,
+    "enGB": "Finesse Training (Sawtooth Saber)",
+    "zhCN": "巧技训练（锯齿刀）"
+  },
+  {
+    "Key": "FinesseSaber.Description",
+    "enGB": "Whenever the rogue makes a successful melee attack with a sawtooth saber, she adds her Dexterity modifier instead of her Strength modifier to the damage roll. If any effect would prevent the rogue from adding her Strength modifier to the damage roll, she does not add her Dexterity modifier.",
+     "zhCN": "当游荡者以锯齿刀成功进行{g|Encyclopedia:MeleeAttack}近战攻击{/g}时，可使用{g|Encyclopedia:Dexterity}敏捷{/g}调整值代替{g|Encyclopedia:Strength}力量{/g}调整值附加在{g|Encyclopedia:Damage}伤害检定{/g}上。若存在任何导致游荡者无法将力量调整值附加至伤害检定的效果，则敏捷调整值同样无法被附加。"
+  },
+  {
+    "Key": "SwiftBlood.Name",
+    "enGB": "Nightlord's Celerity",
+     "zhCN": "夜王迅捷"
+  },
+  {
+    "Key": "SwiftBlood.Description",
+    "enGB": "You can manifest your nightly powers faster than any other vampire. All of your Blood Pool abilities become swift actions as if they were effected by the Quicken Metamagic feat.",
+     "zhCN": "你可以比其他吸血鬼更快显露你的夜之力量。你的所有血池动作成为迅捷动作，就像它们受到了法术瞬发超魔影响一般。"
+  }
 
+
+
+]
