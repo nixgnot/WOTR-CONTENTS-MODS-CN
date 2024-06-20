@@ -4191,5 +4191,213 @@
 		{
             "Key": "HomebrewArchtypes_FalseProphetFabricationofVirtueDesc", 
             "zhCN": "在20级时，伪先知的言语有了新的含义，她从她的法术编造能力获得更加强大的力量，她的使用次数增加5次."
+        },
+		{
+            "Key": "HomebrewArchtypes_ChampionName", 
+            "zhCN": "英杰"
+        },
+		{
+            "Key": "HomebrewArchtypes_ChampionDesc", 
+            "zhCN": "在混乱的战斗中，英杰是代表着希望或恐惧的灯塔。或正义或邪恶，他们都是致命的对手。这些理想一般的骑士同时是魔法和武艺的大师，让他们善于保护盟友的同时屠杀敌人。"
+        },
+		{
+            "Key": "HomebrewArchtypes_ChampionShort", 
+            "zhCN": "英杰永远奋战在战场第一线。他们的誓约能够强化他们。 "
+        },
+		{
+            "Key": "HomebrewArchtypes_ChampionProficienciesName", 
+            "zhCN": "英杰擅长"
+        },
+		{
+            "Key": "HomebrewArchtypes_ChampionProficienciesDesc", 
+            "zhCN": "英杰擅长使用所有简易和{g|Encyclopedia:Weapon_Proficiency}军用武器{/g}，以及所有类型盔甲（重型、中型和轻型）和盾牌（不包括塔盾）。"
+        },
+		{
+            "Key": "HomebrewArchtypes_ChampionSmiteEvilDesc", 
+            "zhCN": "每天一次，英杰可花费{g|Encyclopedia:Swift_Action}迅捷动作{/g}，对视线范围内的一个目标施以辟邪斩。如果目标属于{g|Encyclopedia:Alignment}邪恶阵营{/g}，对辟邪斩目标进行的所有{g|Encyclopedia:Attack}攻击检定{/g}均附加{g|Encyclopedia:Charisma}魅力{/g}加值（若存在），所有{g|Encyclopedia:Damage}伤害检定{/g}均附加英杰等级。施展辟邪斩后，攻击可自动穿透目标生物的{g|Encyclopedia:Damage_Reduction}伤害减免{/g}。\n此外，辟邪斩生效期间，英杰在对抗辟邪斩目标发动的攻击时，{g|Encyclopedia:Armor_Class}防御等级{/g}获得等于魅力加值（若存在）的偏斜{g|Encyclopedia:Bonus}加值{/g}。如果英杰选择的目标不是邪恶生物，辟邪斩次数会浪费掉且不产生任何效果。\n辟邪斩持续至目标死亡或英杰选择了新目标。达到4级时，以及之后每提升3级，英杰每天可使用辟邪斩的次数加1。"
+        },
+		{
+            "Key": "HomebrewArchtypes_ChampionAbundantSmiteName", 
+            "zhCN": "无穷辟邪斩（英杰）"
+        },
+		{
+            "Key": "HomebrewArchtypes_ChampionAbundantSmiteDesc", 
+            "zhCN": "你学会了增加辟邪斩能力施展次数的方法。\n效果：你每日的辟邪斩施展次数增加你的神话阶层的一半。"
+        },
+		{
+            "Key": "HomebrewArchtypes_ChampionSmiteAdditionalUseName", 
+            "zhCN": "辟邪斩（额外使用次数）"
+        },
+		{
+            "Key": "HomebrewArchtypes_ChampionDivineGraceDesc", 
+            "zhCN": "达到2级后，英杰所有{g|Encyclopedia:Saving_Throw}豁免{/g}均获得等于{g|Encyclopedia:Charisma}魅力{/g}{g|Encyclopedia:Bonus}加值{/g}（若存在）的加值。"
+        },
+		{
+            "Key": "HomebrewArchtypes_ChampionLayonHandsDesc", 
+            "zhCN": "2级起，英杰可以通过触碰{g|Encyclopedia:Healing}治疗{/g}伤口（自己或他人）。每天可施展此能力的次数等于1/2英杰等级+{g|Encyclopedia:Charisma}魅力{/g}调整值。英杰可以使用此能力治疗{g|Encyclopedia:Dice}1d6{/g} x 1/2英杰等级{g|Encyclopedia:HP}生命值{/g}伤害。正常情况下施展此能力为{g|Encyclopedia:Standard_Actions}标准动作{/g}，当目标为自己时，变为{g|Encyclopedia:Swift_Action}迅捷动作{/g}。\n另外，英杰也可使用该治疗力量对不死生物造成{g|Encyclopedia:Damage}伤害{/g}，伤害量为1d6x1/2英杰等级。以这种方式施放圣疗需要成功进行近战{g|Encyclopedia:TouchAttack}接触攻击{/g}，且不会引发{g|Encyclopedia:Attack_Of_Opportunity}借机攻击{/g}。不死生物无法对此能力的伤害进行{g|Encyclopedia:Saving_Throw}豁免检定{/g}。"
+	 },
+		{
+            "Key": "HomebrewArchtypes_ChampionMercySelectionDesc", 
+            "zhCN": "达到3级时且之后每升3级，英杰可以选择一种救赎。\n每种救赎都能为英杰的圣疗能力增加一种效果。当英杰使用圣疗能力{g|Encyclopedia:Healing}治疗{/g}目标所受{g|Encyclopedia:Damage}伤害{/g}时，会收到救赎带来的额外增益。"
+        },
+		{
+            "Key": "HomebrewArchtypes_ChampionMercyBlindedDesc", 
+            "zhCN": "英杰使用圣疗为目标{g|Encyclopedia:Healing}治疗{/g}{g|Encyclopedia:Damage}伤害{/g}的同时，也会治疗目标身上的{g|ConditionBlind}目盲{/g}效果。"
+        },
+		{
+            "Key": "HomebrewArchtypes_ChampionMercyConfusedDesc", 
+            "zhCN": "英杰使用圣疗为目标{g|Encyclopedia:Healing}治疗{/g}{g|Encyclopedia:Damage}伤害{/g}的同时，也会治疗目标身上的{g|ConditionConfusion}困惑{/g}效果。"
+        },
+		{
+            "Key": "HomebrewArchtypes_ChampionMercyCursedDesc", 
+            "zhCN": "英杰使用圣疗为目标{g|Encyclopedia:Healing}治疗{/g}{g|Encyclopedia:Damage}伤害{/g}时，也会起到如同{g|SpellsRemoveCurse}移除诅咒{/g}的效果，使用英杰等级作为{g|Encyclopedia:Caster_Level}施法者等级{/g}。"
+        },
+		{
+            "Key": "HomebrewArchtypes_ChampionMercyDazedDesc", 
+            "zhCN": "英杰使用圣疗为目标{g|Encyclopedia:Healing}治疗{/g}{g|Encyclopedia:Damage}伤害{/g}的同时，也会治疗目标身上的{g|ConditionDaze}眩晕{/g}效果。"
+        },
+		{
+            "Key": "HomebrewArchtypes_ChampionMercyDiseasedDesc", 
+            "zhCN": "英杰使用圣疗为目标{g|Encyclopedia:Healing}治疗{/g}{g|Encyclopedia:Damage}伤害{/g}时，也会起到如同{g|SpellsRemoveDisease}移除疾病{/g}的效果，使用英杰等级作为{g|Encyclopedia:Caster_Level}施法者等级{/g}。"
+        },
+		{
+            "Key": "HomebrewArchtypes_ChampionMercyExhaustedDesc", 
+            "zhCN": "英杰使用圣疗为目标{g|Encyclopedia:Healing}治疗{/g}{g|Encyclopedia:Damage}伤害{/g}的同时，也会治疗目标身上的{g|ConditionExhausted}力竭{/g}效果。英杰在选择该救赎前，必须拥有疲劳救赎。"
+        },
+		{
+            "Key": "HomebrewArchtypes_ChampionMercyFatiguedDesc", 
+            "zhCN": "英杰使用圣疗为目标{g|Encyclopedia:Healing}治疗{/g}{g|Encyclopedia:Damage}伤害{/g}的同时，也会治疗目标身上的{g|ConditionFatigued}疲劳{/g}效果。"
+        },
+		{
+            "Key": "HomebrewArchtypes_ChampionMercyFrightenedDesc", 
+            "zhCN": "英杰使用圣疗为目标{g|Encyclopedia:Healing}治疗{/g}{g|Encyclopedia:Damage}伤害{/g}的同时，也会治疗目标身上的{g|ConditionFrightened}惊恐{/g}效果。英杰在选择该救赎前，必须拥有战栗救赎。",
+        },
+		{
+            "Key": "HomebrewArchtypes_ChampionMercyShakenDesc", 
+            "zhCN": "英杰使用圣疗为目标{g|Encyclopedia:Healing}治疗{/g}{g|Encyclopedia:Damage}伤害{/g}的同时，也会治疗目标身上的{g|ConditionShaken}战栗{/g}效果。"
+        },
+		{
+            "Key": "HomebrewArchtypes_ChampionMercyNauseatedDesc", 
+            "zhCN": "英杰使用圣疗为目标{g|Encyclopedia:Healing}治疗{/g}{g|Encyclopedia:Damage}伤害{/g}的同时，也会治疗目标身上的{g|ConditionNauseated}反胃{/g}效果。英杰在选择该救赎前，必须拥有恶心救赎。"
+        },
+		{
+            "Key": "HomebrewArchtypes_ChampionMercySickenedDesc", 
+            "zhCN": "英杰使用圣疗为目标{g|Encyclopedia:Healing}治疗{/g}{g|Encyclopedia:Damage}伤害{/g}的同时，也会治疗目标身上的{g|ConditionSickened}恶心{/g}效果。"
+        },
+		{
+            "Key": "HomebrewArchtypes_ChampionMercyParalyzedDesc", 
+            "zhCN": "英杰使用圣疗为目标{g|Encyclopedia:Healing}治疗{/g}{g|Encyclopedia:Damage}伤害{/g}的同时，也会治疗目标身上的{g|ConditionParalyzed}麻痹{/g}效果。"
+        },
+		{
+            "Key": "HomebrewArchtypes_ChampionMercyPoisonedDesc", 
+            "zhCN": "英杰使用圣疗为目标{g|Encyclopedia:Healing}治疗{/g}{g|Encyclopedia:Damage}伤害{/g}时，也会起到如同{g|SpellsNeutralizePoison}中和毒素{/g}的效果，使用英杰等级作为{g|Encyclopedia:Caster_Level}施法者等级{/g}。"
+        },
+		{
+            "Key": "HomebrewArchtypes_ChampionMercyStaggeredDesc", 
+            "zhCN": "英杰使用圣疗为目标{g|Encyclopedia:Healing}治疗{/g}{g|Encyclopedia:Damage}伤害{/g}的同时，也会治疗目标身上的{g|ConditionStaggered}恍惚{/g}效果。"
+        },
+		{
+            "Key": "HomebrewArchtypes_ChampionMercyStunnedDesc", 
+            "zhCN": "英杰使用圣疗为目标{g|Encyclopedia:Healing}治疗{/g}{g|Encyclopedia:Damage}伤害{/g}的同时，也会治疗目标身上的{g|ConditionStunned}震慑{/g}效果。"
+        },
+		{
+            "Key": "HomebrewArchtypes_ChampionExtraLayonHandsName", 
+            "zhCN": "额外圣疗（英杰）"
+        },
+		{
+            "Key": "HomebrewArchtypes_ChampionLayonHandsOtherDesc", 
+            "zhCN": "英杰可以通过触碰{g|Encyclopedia:Healing}治疗{/g}伤口（自己或他人）。英杰可以使用此能力治疗{g|Encyclopedia:Dice}1d6{/g} x 1/2英杰等级{g|Encyclopedia:HP}生命值{/g}伤害。施展此能力为{g|Encyclopedia:Standard_Actions}标准动作{/g}。\n另外，英杰也可使用该治疗力量对不死生物造成{g|Encyclopedia:Damage}伤害{/g}，伤害量为1d6x1/2英杰等级。以这种方式施放圣疗需要成功进行近战{g|Encyclopedia:TouchAttack}接触攻击{/g}，且不会引发{g|Encyclopedia:Attack_Of_Opportunity}借机攻击{/g}。不死生物无法对此能力的伤害进行{g|Encyclopedia:Saving_Throw}豁免检定{/g}。"
+        },
+		{
+            "Key": "HomebrewArchtypes_ChampionLayonHandsSelf", 
+            "zhCN": "英杰可花费{g|Encyclopedia:Swift_Action}迅捷动作{/g}{g|Encyclopedia:Healing}治疗{/g}自己的伤势。英杰每次施展该能力，可治疗每2个英杰等级{g|Encyclopedia:Dice}1d6{/g}点{g|Encyclopedia:Damage}伤害{/g}。{g|Encyclopedia:HP}{/g}"
+        },
+		{
+            "Key": "HomebrewArchtypes_ChampionAuraofCourageDesc", 
+            "zhCN": "达到3级后，英杰对恐惧免疫（魔法或其他来源）。位于英杰10英尺范围内的队友在针对恐惧效果进行{g|Encyclopedia:Saving_Throw}豁免检定{/g}时获得＋4士气{g|Encyclopedia:Bonus}加值{/g}。\n该能力只在英杰意识清醒时生效，{g|Encyclopedia:Injury_Death}昏迷{/g}或死亡时效果消失。"
+        },
+		{
+            "Key": "HomebrewArchtypes_ChampionDivineHealthDesc", 
+            "zhCN": "达到3级后，英杰对所有疾病免疫，包括超自然疾病、魔法疾病和腐尸热。"
+        },
+		{
+            "Key": "HomebrewArchtypes_ChampionChannelEnergyDesc", 
+            "zhCN": "英杰达到4级时，获得了能够如牧师般引导正向能量的{g|Encyclopedia:Special_Abilities}超自然能力{/g}。施展此能力需要消耗2次圣疗能力可用次数。该能量既可造成{g|Encyclopedia:Damage}伤害{/g}也可{g|Encyclopedia:Healing}治疗{/g}伤害，取决于引导能量目标。\n英杰引导正向能量时，可选择对不死生物造成伤害，或对活物进行治疗。\n引导能量对英杰周围30英尺爆发范围内，所有某类生物（不死生物或活物）造成影响。伤害量或治疗量为{g|Encyclopedia:Dice}1d6{/g}点，英杰在1级之后，每提升2级，再增加1d6点（4级时2d6、5级时3d6，以此类推）。受到引导能量伤害的生物可以进行{g|Encyclopedia:Saving_Throw}意志豁免检定{/g}，成功则伤害减半。意志豁免的{g|Encyclopedia:DC}DC{/g}为10+1/2英杰等级+英杰{g|Encyclopedia:Charisma}魅力{/g}调整值。引导能量的治疗量不能超过生物的最大{g|Encyclopedia:HP}生命值{/g}，过量治疗全部无效。\n引导能量为{g|Encyclopedia:Standard_Actions}标准动作{/g}，不会引发{g|Encyclopedia:Attack_Of_Opportunity}借机攻击{/g}。"
+        },
+		{
+            "Key": "HomebrewArchtypes_ChampionDivineBondSelection", 
+            "zhCN": "达到5级后，英杰将与她所侍奉的神祇订立神圣的盟约。这个神圣盟誓有两种不同的形式，二选其一。一旦英杰决定了盟誓的形式，就无法再改变。\n第一种盟誓是英杰与武器建立的神圣盟誓。英杰能够以{g|Encyclopedia:Standard_Actions}标准动作{/g}，召唤天界精魂辅助作战，持续时间为每英杰等级1分钟。\n达到5级后，精魂能为武器带来+1增强{g|Encyclopedia:Bonus}加值{/g}。5级后每升3级，武器获得的增强加值+1，在20级时达到最大值+6。该加值可与武器已经存在的加值叠加，最高可达到+5。\n另外，精魂还可以为武器添加以下属性：{g|EnhancementAxiomatic}公正{/g}、{g|EnhancementBrilliantEnergy}光能{/g}、{g|EnhancementDisruption}瓦解{/g}、{g|EnhancementFlaming}炽焰{/g}、{g|EnhancementFlamingBurst}焰爆{/g}、{g|EnhancementHoly}神圣{/g}、{g|EnhancementKeen}锐锋{/g}或{g|EnhancementSpeed}追击{/g}。添加以上属性会占用一定数量的加值，数值等于该属性的等价加值。以上属性可添加至已存在属性的武器，但相同效果不会叠加。\n英杰达到5级后，每天可以施展1次此能力，之后每升4级，可用次数加1，17级时达到最大值，即每天4次。\n第二种盟誓是英杰与一匹非常聪明、强壮、忠诚的坐骑建立的神圣盟誓，坐骑将听从其指示，与其共同抗击邪恶。这匹坐骑是重型马。此能力类似德鲁伊的动物伙伴，以英杰等级作为有效德鲁伊等级。\n11级起，坐骑获得简易模板：天界生物。\n15级起，坐骑获得等于英杰等级+11的{g|Encyclopedia:Spell_Resistance}法术抗力{/g}。"
+        },
+		{
+            "Key": "HomebrewArchtypes_ChampionDivineWeaponBondDesc", 
+            "zhCN": "达到5级后，英杰可以与武器建立神圣盟誓。英杰能够以{g|Encyclopedia:Standard_Actions}标准动作{/g}，召唤天界精魂辅助作战，持续时间为每英杰等级1分钟。\n达到5级后，精魂能为武器带来+1增强{g|Encyclopedia:Bonus}加值{/g}。5级后每升3级，武器获得的增强加值+1，在20级时达到最大值+6。该加值可与武器已经存在的加值叠加，最高可达到+5。\n另外，精魂还可以为武器添加以下属性：{g|EnhancementAxiomatic}公正{/g}、{g|EnhancementBrilliantEnergy}光能{/g}、{g|EnhancementDisruption}瓦解{/g}、{g|EnhancementFlaming}炽焰{/g}、{g|EnhancementFlamingBurst}焰爆{/g}、{g|EnhancementHoly}神圣{/g}、{g|EnhancementKeen}锐锋{/g}或{g|EnhancementSpeed}追击{/g}。添加以上属性会占用一定数量的加值，数值等于该属性的等价加值。以上属性可添加至已存在属性的武器，但相同效果不会叠加。\n英杰达到5级后，每天可以施展1次此能力，之后每升4级，可用次数加1，17级时达到最大值，即每天4次。"
+        },
+		{
+            "Key": "HomebrewArchtypes_ChampionFlamingChoiceDesc", 
+            "zhCN": "英杰可使用神圣盟誓向武器添加{g|EnhancementFlaming}炽焰{/g}属性，但会占用赋予武器的1点增强{g|Encyclopedia:Bonus}加值{/g}。\n炽焰武器覆盖有高温火焰，成功命中后会造成{g|Encyclopedia:Dice}1d6{/g}点额外{g|Encyclopedia:Energy_Damage}火焰伤害{/g}。火焰不会伤害持用者。"
+        },
+		{
+            "Key": "HomebrewArchtypes_ChampionKeenChoiceDesc", 
+            "zhCN": "英杰可使用神圣盟誓向武器添加{g|EnhancementKeen}锐锋{/g}属性，但会占用赋予武器的1点增强{g|Encyclopedia:Bonus}加值{/g}。\n锐锋属性能够使得武器的{g|Encyclopedia:Critical}重击威胁范围{/g}翻倍。该效果不与其他可增加武器重击威胁范围的效果叠加（例如{g|Encyclopedia:Spell}法术{/g}{g|SpellsKeenEdge}磨锋砺刃{/g}或精通重击{g|Encyclopedia:Feat}专长{/g}）。"
+        },
+		{
+            "Key": "HomebrewArchtypes_ChampionAxiomaticChoiceDesc", 
+            "zhCN": "英杰可使用神圣盟誓向武器添加{g|EnhancementAxiomatic}公正{/g}属性，但会占用赋予武器的2点增强{g|Encyclopedia:Bonus}加值{/g}。\n公正武器灌有守序之力。该力量使得该武器成为{g|Encyclopedia:Alignment}守序阵营{/g}武器，因此可穿透相关的{g|Encyclopedia:Damage_Reduction}伤害减免{/g}。在击中混乱阵营生物时，额外造成{g|Encyclopedia:Dice}2d6{/g}点{g|Encyclopedia:Damage}伤害{/g}。"
+        },
+		{
+            "Key": "HomebrewArchtypes_ChampionHolyChoiceDesc", 
+            "zhCN": "英杰可使用神圣盟誓向武器添加{g|EnhancementHoly}神圣{/g}属性，但会占用赋予武器的2点增强{g|Encyclopedia:Bonus}加值{/g}。\n神圣武器灌有神圣之力。该力量使得该武器成为{g|Encyclopedia:Alignment}善良阵营{/g}武器，因此可穿透相关的{g|Encyclopedia:Damage_Reduction}伤害减免{/g}。在击中邪恶阵营生物时，额外造成{g|Encyclopedia:Dice}2d6{/g}点{g|Encyclopedia:Damage}伤害{/g}。"
+        },
+		{
+            "Key": "HomebrewArchtypes_ChampionDisruptionDesc", 
+            "zhCN": "英杰可使用神圣盟誓向武器添加{g|EnhancementDisruption}瓦解{/g}属性，但会占用赋予武器的2点增强{g|Encyclopedia:Bonus}加值{/g}。\n瓦解武器是所有不死生物的克星。所有被瓦解武器击中的不死生物都必须进行{g|Encyclopedia:DC}DC{/g} 14的{g|Encyclopedia:Saving_Throw}意志豁免检定{/g}，失败则立刻被摧毁。添加瓦解属性的武器必须为{g|Encyclopedia:Damage_Type}钝击{/g}近战武器。"
+        },
+		{
+            "Key": "HomebrewArchtypes_ChampionFlamingBurstDesc", 
+            "zhCN": "英杰可使用神圣盟誓向武器添加{g|EnhancementFlamingBurst}焰爆{/g}属性，但会占用赋予武器的2点增强{g|Encyclopedia:Bonus}加值{/g}。焰爆武器的作用如同{g|EnhancementFlaming}炽焰{/g}武器，不过在成功进行{g|Encyclopedia:Critical}重击{/g}时还会爆出一阵烈焰。火焰不会伤害持用者。除了炽焰武器给予的{g|Encyclopedia:Dice}1d6{/g}点额外{g|Encyclopedia:Energy_Damage}火焰伤害{/g}之外，焰爆武器在成功重击时还会额外造成1d10点火焰伤害。若武器重击倍数为×3，则改为额外造成2d10点火焰伤害。若重击倍数为×4，则改为额外造成3d10点火焰伤害。"
+        },
+		{
+            "Key": "HomebrewArchtypes_ChampionSpeedChoiceDesc", 
+            "zhCN": "英杰可使用神圣盟誓向武器添加{g|EnhancementSpeed}追击{/g}属性，但会占用赋予武器的3点增强{g|Encyclopedia:Bonus}加值{/g}。\n持用追击武器的英杰进行整轮{g|Encyclopedia:Attack}攻击{/g}时，可进行1次额外攻击。该额外攻击使用持用者的最高{g|Encyclopedia:BAB}基础攻击加值{/g}，并附加适用于该状况的调整值。（该效果不与类似效果叠加，例如{g|SpellsHaste}加速术{/g}。）{g|Encyclopedia:Spell}{/g}"
+        },
+		{
+            "Key": "HomebrewArchtypes_ChampionBrilliantEnergyChoiceDesc", 
+            "zhCN": "达到5级后，英杰可以与武器建立神圣盟誓。英杰能够以{g|Encyclopedia:Standard_Actions}标准动作{/g}，召唤天界精魂辅助作战，持续时间为每英杰等级1分钟。\n达到5级后，精魂能为武器带来+1增强{g|Encyclopedia:Bonus}加值{/g}。5级后每升3级，武器获得的增强加值+1，在20级时达到最大值+6。该加值可与武器已经存在的加值叠加，最高可达到+5。\n另外，精魂还可以为武器添加以下属性：{g|EnhancementAxiomatic}公正{/g}、{g|EnhancementBrilliantEnergy}光能{/g}、{g|EnhancementDisruption}瓦解{/g}、{g|EnhancementFlaming}炽焰{/g}、{g|EnhancementFlamingBurst}焰爆{/g}、{g|EnhancementHoly}神圣{/g}、{g|EnhancementKeen}锐锋{/g}或{g|EnhancementSpeed}追击{/g}。添加以上属性会占用一定数量的加值，数值等于该属性的等价加值（请参考：近战武器特殊能力表）。以上属性可添加至已存在属性的武器，但相同效果不会叠加。\n英杰达到5级后，每天可以施展1次此能力，之后每升4级，可用次数加1，17级时达到最大值，即每天4次。"
+        },
+		{
+            "Key": "HomebrewArchtypes_ChampionAuraofResolveDesc", 
+            "zhCN": "达到8级时，英杰对魅惑{g|Encyclopedia:Spell}法术{/g}和{g|Encyclopedia:Special_Abilities}类法术能力{/g}免疫。位于英杰10英尺范围内的队友在针对魅惑效果进行{g|Encyclopedia:Saving_Throw}豁免检定{/g}时获得＋4士气{g|Encyclopedia:Bonus}加值{/g}。\n该能力只在英杰意识清醒时生效，{g|Encyclopedia:Injury_Death}昏迷{/g}或死亡时效果消失。"
+        },
+		{
+            "Key": "HomebrewArchtypes_ChampionAuraofJusticeName", 
+            "zhCN": "正义灵光"
+        },
+		{
+            "Key": "HomebrewArchtypes_ChampionAuraofJusticeDesc", 
+            "zhCN": "达到11级后，英杰可以耗用两次辟邪斩使用次数，使所有盟友获得辟邪斩能力，持续1分钟，并使用英杰的加值。英杰可花费{g|Encyclopedia:Swift_Action}迅捷动作{/g}，对视线范围内的一个目标施以辟邪斩。如果目标属于{g|Encyclopedia:Alignment}邪恶{/g}阵营，英杰的盟友对辟邪斩目标进行的所有{g|Encyclopedia:Attack}攻击检定{/g}均附加英杰的{g|Encyclopedia:Charisma}魅力{/g}加值（若存在），所有{g|Encyclopedia:Damage}伤害检定{/g}均附加英杰等级。施展辟邪斩后，攻击可自动穿透目标生物的{g|Encyclopedia:Damage_Reduction}伤害减免{/g}。\n另外，辟邪斩生效期间，英杰的盟友在对抗辟邪斩目标发动的攻击时，{g|Encyclopedia:Armor_Class}防御等级{/g}获得等于英杰的魅力加值（若存在）的偏斜{g|Encyclopedia:Bonus}加值{/g}。如果英杰选择的目标并非邪恶，则辟邪斩被浪费，不产生任何效果。"
+        },
+		{
+            "Key": "HomebrewArchtypes_ChampionAuraofFaithDesc", 
+            "zhCN": "达到3级后，英杰对所有疾病免疫，包括超自然疾病、魔法疾病和腐尸热。"
+        },
+		{
+            "Key": "HomebrewArchtypes_ChampionAuraofRighteousnessDesc", 
+            "zhCN": "达到17级后，英杰获得{g|Encyclopedia:Damage_Reduction}伤害减免{/g}5/{g|Encyclopedia:Alignment}邪恶{/g}，对胁迫{g|Encyclopedia:Spell}法术{/g}和{g|Encyclopedia:Special_Abilities}类法术能力{/g}免疫。位于英杰10英尺范围内的队友在针对胁迫效应进行{g|Encyclopedia:Saving_Throw}豁免检定{/g}时，获得＋4士气{g|Encyclopedia:Bonus}加值{/g}。\n此能力只在英杰意识清醒时生效，{g|Encyclopedia:Injury_Death}昏迷{/g}或死亡时效果消失。"
+        },
+		{
+            "Key": "HomebrewArchtypes_ChampionSignatureSmiteEvil", 
+            "zhCN": "英杰可以选择一个{g|Encyclopedia:Alignment}邪恶阵营{/g}的敌对生物，对该生物获得显著优势，提高对其命中率，{g|Encyclopedia:Damage}伤害{/g}输出，以及防护力。此能力每天有一定施展次数限制。"
+        },
+		{
+            "Key": "HomebrewArchtypes_ChampionSignatureLayonHands", 
+            "zhCN": "圣疗是英杰用来{g|Encyclopedia:Healing}治疗{/g}自己和盟友的独特能力。随着等级提升，英杰也会强化这一能力，学会移除各种负面状态。"
+        },
+		{
+            "Key": "HomebrewArchtypes_ChampionSignatureDivineBond", 
+            "zhCN": "英杰通过神圣盟誓与动物伙伴或神祇建立联结。与动物的联结让他们可以选择一只可选生物成为忠诚的伙伴，该生物可以穿戴坐骑盔甲，并随英杰一同升级。与神祇的联结让英杰可以强化自己的武器。"
+        },
+		{
+            "Key": "HomebrewArchtypes_ChampionHolyChampionDesc", 
+            "zhCN": "达到20级时，英杰成为了她誓约的化身。{g|Encyclopedia:Damage_Reduction}伤害减免{/g}提升至10/{g|Encyclopedia:Alignment}邪恶{/g}，当其引导正向能量或使用圣疗{g|Encyclopedia:Healing}治疗{/g}生物时，治疗量达到最大。"
         }
 	]
