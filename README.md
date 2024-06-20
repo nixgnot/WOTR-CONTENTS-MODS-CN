@@ -1863,7 +1863,6 @@
 
 -------------------------------------------
 ### [HomebrewArchetypes](https://www.nexusmods.com/pathfinderwrathoftherighteous/mods/279)
-+ [贴吧汉化帖](https://tieba.baidu.com/p/7977216047?pn=1)
 + **注意！Homebrew Archetypes不能使用UMM安装，可以使用ModFinder安装或者参考汉化帖手动安装**
 > *前置：* 无<br>
 > *中文：* **自带中文（建议使用QL修正）**<br>
