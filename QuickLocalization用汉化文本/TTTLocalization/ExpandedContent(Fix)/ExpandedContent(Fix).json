@@ -2681,15 +2681,15 @@
       "SimpleName": "CurseDomainProgression.Description",
       "ProcessTemplates": true,
       "IsUsed": false,
-      "enGB": "\nYou are infused with fate, spreading ill omens to foes while granting fortune to yourself.\nMalign Eye: As a standard action, you can afflict one target within 30 feet with your malign eye, causing it to take a –2 penalty on all saving throws against your spells. The effect lasts for 1 minute. You can use this ability for a number of times per day equal to 3 + your Wisdom modifier.\nDivine Fortune: At 6th level, as a standard action, you can bless yourself with divine luck. For the next half your level in the class that gave you access to this domain rounds you roll two times on every d20 roll and take the best result. You can use this ability once per day at 6th level, and one additional time per day for every 6 levels in the class that gave you access to this domain beyond 6th.\nDomain Spells: bane, aid, bestow curse, communal protection from energy, break enchantment, eyebite, restoration greater, euphoric tranquility, mass heal.",
-      "zhCN": "\n你与命运融为一体，向敌人传播恶兆，同时给自己带来好运。\n冷眼:以标准动作，你怨恨地瞪了30尺内单个目标一眼，令其对你的所有法术的豁免检定受到-2惩罚。效果持续1分钟或者到目标攻击命中你，每天能使用的次数为“3+感知修正”。\n神圣幸运：6级起，你可以用标准{g|Encyclopedia:CA_Types}动作{/g}，以神圣的幸运自我祝福。接下来的等于赋予你此领域的职业等级一半的{g|Encyclopedia:Combat_Round}轮数{/g}内，你可以为所有d20检定投骰两次，并取最有利的结果。6级时你每天可施展一次此能力，之后你每在赋予你此领域的职业上提升6级，就可再获得一次每日施展次数。\n领域法术：绝望术、援助术、降咒、共用防护能量、破除魔咒、凶险注视、高等复原术、狂喜宁静、群体医疗术。"
+      "enGB": "\nYou are infused with fate, spreading ill omens to foes while granting fortune to yourself.\nMalign Eye: As a standard action, you can afflict one target within 30 feet with your malign eye, causing it to take a –2 penalty on all saving throws against your spells. The effect lasts for 1 minute. You can use this ability for a number of times per day equal to 3 + your Wisdom modifier.\nDivine Fortune: At 6th level, as a standard action, you can bless yourself with divine luck. For the next half your level in the class that gave you access to this domain rounds you roll two times on every d20 roll and take the best result. You can use this ability once per day at 6th level, and one additional time per day for every 6 levels in the class that gave you access to this domain beyond 6th.\nDomain Spells: bane, aid, bestow curse, communal protection from energy, break enchantment, eyebite, restoration greater, moment of prescience, mass heal.",
+      "zhCN": "\n你与命运融为一体，向敌人传播恶兆，同时给自己带来好运。\n冷眼:以标准动作，你怨恨地瞪了30尺内单个目标一眼，令其对你的所有法术的豁免检定受到-2惩罚。效果持续1分钟或者到目标攻击命中你，每天能使用的次数为“3+感知修正”。\n神圣幸运：6级起，你可以用标准{g|Encyclopedia:CA_Types}动作{/g}，以神圣的幸运自我祝福。接下来的等于赋予你此领域的职业等级一半的{g|Encyclopedia:Combat_Round}轮数{/g}内，你可以为所有d20检定投骰两次，并取最有利的结果。6级时你每天可施展一次此能力，之后你每在赋予你此领域的职业上提升6级，就可再获得一次每日施展次数。\n领域法术：绝望术、援助术、降咒、共用防护能量、破除魔咒、凶险注视、高等复原术、片刻预知、群体医疗术。"
     },
     {
       "Key": "dc563dcf257349c59aa4e14450f33835",
       "SimpleName": "CurseDomainProgressionSecondary.Description",
       "ProcessTemplates": true,
-      "enGB": "\nYou are infused with fate, spreading ill omens to foes while granting fortune to yourself.\nMalign Eye: As a standard action, you can afflict one target within 30 feet with your malign eye, causing it to take a –2 penalty on all saving throws against your spells. The effect lasts for 1 minute. You can use this ability for a number of times per day equal to 3 + your Wisdom modifier.\nMight of the Gods: At 8th level, you add 1/2 of your level in the class that gave you access to this domain as an enhancement bonus to your Athletics checks.\nDomain Spells: bane, aid, bestow curse, communal protection from energy, break enchantment, eyebite, restoration greater, euphoric tranquility, mass heal.",
-      "zhCN": "\n你与命运融为一体，向敌人传播恶兆，同时给自己带来好运。\n冷眼:以标准动作，你怨恨地瞪了30尺内单个目标一眼，令其对你的所有法术的豁免检定受到-2惩罚。效果持续1分钟或者到目标攻击命中你，每天能使用的次数为“3+感知修正”。\n神圣幸运：6级起，你可以用标准{g|Encyclopedia:CA_Types}动作{/g}，以神圣的幸运自我祝福。接下来的等于赋予你此领域的职业等级一半的{g|Encyclopedia:Combat_Round}轮数{/g}内，你可以为所有d20检定投骰两次，并取最有利的结果。6级时你每天可施展一次此能力，之后你每在赋予你此领域的职业上提升6级，就可再获得一次每日施展次数。\n领域法术：绝望术、援助术、降咒、共用防护能量、破除魔咒、凶险注视、高等复原术、狂喜宁静、群体医疗术。"
+      "enGB": "\nYou are infused with fate, spreading ill omens to foes while granting fortune to yourself.\nMalign Eye: As a standard action, you can afflict one target within 30 feet with your malign eye, causing it to take a –2 penalty on all saving throws against your spells. The effect lasts for 1 minute. You can use this ability for a number of times per day equal to 3 + your Wisdom modifier.\nMight of the Gods: At 8th level, you add 1/2 of your level in the class that gave you access to this domain as an enhancement bonus to your Athletics checks.\nDomain Spells: bane, aid, bestow curse, communal protection from energy, break enchantment, eyebite, restoration greater, moment of prescience, mass heal.",
+      "zhCN": "\n你与命运融为一体，向敌人传播恶兆，同时给自己带来好运。\n冷眼:以标准动作，你怨恨地瞪了30尺内单个目标一眼，令其对你的所有法术的豁免检定受到-2惩罚。效果持续1分钟或者到目标攻击命中你，每天能使用的次数为“3+感知修正”。\n神圣幸运：6级起，你可以用标准{g|Encyclopedia:CA_Types}动作{/g}，以神圣的幸运自我祝福。接下来的等于赋予你此领域的职业等级一半的{g|Encyclopedia:Combat_Round}轮数{/g}内，你可以为所有d20检定投骰两次，并取最有利的结果。6级时你每天可施展一次此能力，之后你每在赋予你此领域的职业上提升6级，就可再获得一次每日施展次数。\n领域法术：绝望术、援助术、降咒、共用防护能量、破除魔咒、凶险注视、高等复原术、片刻预知、群体医疗术。"
     },
     {
       "Key": "5c9e198e570844f78346444bfa1bafb5",
@@ -25645,7 +25645,193 @@
       "ProcessTemplates": false,
       "zhCN": "奇龙形态 - 影龙",
       "enGB": "Form of the Exotic Dragon - Umbral"
-
-    }
+    },
+    {
+      "Key": "e844c4a144e64cb69f80d3632f88d0c6",
+      "SimpleName": "LuckDomainProgression.Description",
+      "ProcessTemplates": true,
+      "zhCN": "你幸运无比，光是你的存在就能带来好运。\n点滴幸运：以一个{g|Encyclopedia:Standard_Actions}标准动作{/g}，你可接触一个自愿生物，赋予他一点小小的幸运。在接下来的一轮内，当目标进行d20{g|Encyclopedia:Dice}检定{/g}的时候，他可以投两次并取较为有利的结果。你每天可以使用此能力的次数为3+你的{g|Encyclopedia:Wisdom}感知{/g}调整值。\n神圣幸运：6级起，你可以用标准{g|Encyclopedia:CA_Types}动作{/g}，以神圣的幸运自我祝福。接下来的等于赋予你此领域的职业等级一半的{g|Encyclopedia:Combat_Round}轮数{/g}内，你可以为所有d20检定投骰两次，并取最有利的结果。6级时你每天可施展一次此能力，之后你每在赋予你此领域的职业上提升6级，就可再获得一次每日施展次数。\n领域{g|Encyclopedia:Spell}法术{/g}：{g|SpellsTrueStrike}克敌机先{/g}，{g|SpellsAid}援助术{/g}，{g|SpellsProtectionFromEnergy}防护能量{/g}，{g|SpellsCommunalProtectionFromEnergy}共用防护能量{/g}，{g|SpellsBreakEnchantment}破除魔咒{/g}，{g|SpellsMassCatsGrace}群体猫之轻灵{/g}，{g|SpellsRestorationGreater}高等复原术{/g}，片刻预知，{g|SpellsMassHeal}群体医疗术{/g}。",
+      "enGB": "You are infused with luck, and your mere presence can spread good fortune.\r\nBit of Luck: You can touch a willing creature as a standard action, giving it a bit of luck. For the next round, any time the target rolls a d20, she may roll twice and take the more favorable result. You can use this ability a number of times per day equal to 3 + your Wisdom modifier.\r\nDivine Fortune: At 6th level, as a standard action, you can bless yourself with divine luck. For the next half your level in the class that gave you access to this domain rounds you roll two times on every d20 roll and take the best result. You can use this ability once per day at 6th level, and one additional time per day for every 6 levels in the class that gave you access to this domain beyond 6th.\r\nDomain Spells: true strike, aid, protection from energy, protection from energy, communal, break enchantment, cat's grace, mass, restoration, greater, moment of prescience, heal, mass."
+    },
+    {
+      "Key": "5d04a46e51984681b6ce6a6fd07dd8a4",
+      "SimpleName": "LuckDomainProgressionSecondary.Description",
+      "ProcessTemplates": true,
+      "zhCN": "你幸运无比，光是你的存在就能带来好运。\n点滴幸运：以一个{g|Encyclopedia:Standard_Actions}标准动作{/g}，你可接触一个自愿生物，赋予他一点小小的幸运。在接下来的一轮内，当目标进行d20{g|Encyclopedia:Dice}检定{/g}的时候，他可以投两次并取较为有利的结果。你每天可以使用此能力的次数为3+你的{g|Encyclopedia:Wisdom}感知{/g}调整值。\n神圣幸运：6级起，你可以用标准{g|Encyclopedia:CA_Types}动作{/g}，以神圣的幸运自我祝福。接下来的等于赋予你此领域的职业等级一半的{g|Encyclopedia:Combat_Round}轮数{/g}内，你可以为所有d20检定投骰两次，并取最有利的结果。6级时你每天可施展一次此能力，之后你每在赋予你此领域的职业上提升6级，就可再获得一次每日施展次数。\n领域{g|Encyclopedia:Spell}法术{/g}：{g|SpellsTrueStrike}克敌机先{/g}，{g|SpellsAid}援助术{/g}，{g|SpellsProtectionFromEnergy}防护能量{/g}，{g|SpellsCommunalProtectionFromEnergy}共用防护能量{/g}，{g|SpellsBreakEnchantment}破除魔咒{/g}，{g|SpellsMassCatsGrace}群体猫之轻灵{/g}，{g|SpellsRestorationGreater}高等复原术{/g}，片刻预知，{g|SpellsMassHeal}群体医疗术{/g}。",
+      "enGB": "You are infused with luck, and your mere presence can spread good fortune.\r\nBit of Luck: You can touch a willing creature as a standard action, giving it a bit of luck. For the next round, any time the target rolls a d20, she may roll twice and take the more favorable result. You can use this ability a number of times per day equal to 3 + your Wisdom modifier.\r\nDivine Fortune: At 6th level, as a standard action, you can bless yourself with divine luck. For the next half your level in the class that gave you access to this domain rounds you roll two times on every d20 roll and take the best result. You can use this ability once per day at 6th level, and one additional time per day for every 6 levels in the class that gave you access to this domain beyond 6th.\r\nDomain Spells: true strike, aid, protection from energy, protection from energy, communal, break enchantment, cat's grace, mass, restoration, greater, moment of prescience, heal, mass."
+    },
+    {
+      "Key": "4bdb57fdb5034ac29fb6e1a6a86778e8",
+      "SimpleName": "LuckDomainProgressionSeparatist.Description",
+      "ProcessTemplates": true,
+      "zhCN": "你幸运无比，光是你的存在就能带来好运。\n点滴幸运：以一个{g|Encyclopedia:Standard_Actions}标准动作{/g}，你可接触一个自愿生物，赋予他一点小小的幸运。在接下来的一轮内，当目标进行d20{g|Encyclopedia:Dice}检定{/g}的时候，他可以投两次并取较为有利的结果。你每天可以使用此能力的次数为3+你的{g|Encyclopedia:Wisdom}感知{/g}调整值。\n神圣幸运：6级起，你可以用标准{g|Encyclopedia:CA_Types}动作{/g}，以神圣的幸运自我祝福。接下来的等于赋予你此领域的职业等级一半的{g|Encyclopedia:Combat_Round}轮数{/g}内，你可以为所有d20检定投骰两次，并取最有利的结果。6级时你每天可施展一次此能力，之后你每在赋予你此领域的职业上提升6级，就可再获得一次每日施展次数。\n领域{g|Encyclopedia:Spell}法术{/g}：{g|SpellsTrueStrike}克敌机先{/g}，{g|SpellsAid}援助术{/g}，{g|SpellsProtectionFromEnergy}防护能量{/g}，{g|SpellsCommunalProtectionFromEnergy}共用防护能量{/g}，{g|SpellsBreakEnchantment}破除魔咒{/g}，{g|SpellsMassCatsGrace}群体猫之轻灵{/g}，{g|SpellsRestorationGreater}高等复原术{/g}，片刻预知，{g|SpellsMassHeal}群体医疗术{/g}。",
+      "enGB": "You are infused with luck, and your mere presence can spread good fortune.\r\nBit of Luck: You can touch a willing creature as a standard action, giving it a bit of luck. For the next round, any time the target rolls a d20, she may roll twice and take the more favorable result. You can use this ability a number of times per day equal to 3 + your Wisdom modifier.\r\nDivine Fortune: At 6th level, as a standard action, you can bless yourself with divine luck. For the next half your level in the class that gave you access to this domain rounds you roll two times on every d20 roll and take the best result. You can use this ability once per day at 6th level, and one additional time per day for every 6 levels in the class that gave you access to this domain beyond 6th.\r\nDomain Spells: true strike, aid, protection from energy, protection from energy, communal, break enchantment, cat's grace, mass, restoration, greater, moment of prescience, heal, mass."
+    },
+    {
+      "Key": "d388fc6bc9124fd793c4dd2d04049a1a",
+      "SimpleName": "MomentOfPrescienceAbility.Description",
+      "ProcessTemplates": true,
+      "IsUsed": false,
+      "zhCN": "该法术会赋予你强大的第六感。只要在法术的持续时间内，你就可以选择使用该法术的效果。此法术可以在任何单次的攻击检定、战技检定、技能检定、或豁免检定中赋予你加值，加值为与你的CL相同的洞察加值 (最高+25)。或者你也可以选择将此洞察加值加在你的AC上以对抗单次攻击 (甚至在你措手不及时也可以)。激活该效果是一个自由动作。一旦激活，效果就会结束。你不能同时激活超过一个片刻预知效果。",
+      "enGB": "This spell grants you a sixth sense. Once during the spell’s duration, you may choose to use its effect. This spell grants you an insight bonus equal to your caster level (maximum +25) on any single attack roll, skill check, or saving throw. Alternatively, you can apply the insight bonus to your AC against a single attack (even if flat-footed). Activating the effect is a free action. Once used, the spell ends. You can’t have more than one moment of prescience active on you at the same time."
+    },
+    {
+      "Key": "d48dde57b54c4ca1b7422b826f064aa3",
+      "SimpleName": "MomentOfPrescienceACAbility.Description",
+      "ProcessTemplates": true,
+      "IsUsed": false,
+      "zhCN": "该法术会赋予你强大的第六感。只要在法术的持续时间内，你就可以选择使用该法术的效果。此法术可以在任何单次的攻击检定、战技检定、技能检定、或豁免检定中赋予你加值，加值为与你的CL相同的洞察加值 (最高+25)。或者你也可以选择将此洞察加值加在你的AC上以对抗单次攻击 (甚至在你措手不及时也可以)。激活该效果是一个自由动作。一旦激活，效果就会结束。你不能同时激活超过一个片刻预知效果。",
+      "enGB": "As a free action you may activate your moment of prescience, gaining an insight bonus equal to your caster level (maximum +25) on your next attack roll, skill check, or saving throw. Alternatively, you can apply the insight bonus to your AC against a single attack (even if flat-footed). You can’t have more than one moment of prescience active on you at the same time, however this effect will last until discharged or you rest."
+    },
+    {
+    "Key": "104f7147b44740b99859e9e6eba4530a",
+      "SimpleName": "MomentOfPrescienceAttackRollAbility.Description",
+      "ProcessTemplates": true,
+      "IsUsed": false,
+      "zhCN": "该法术会赋予你强大的第六感。只要在法术的持续时间内，你就可以选择使用该法术的效果。此法术可以在任何单次的攻击检定、战技检定、技能检定、或豁免检定中赋予你加值，加值为与你的CL相同的洞察加值 (最高+25)。或者你也可以选择将此洞察加值加在你的AC上以对抗单次攻击 (甚至在你措手不及时也可以)。激活该效果是一个自由动作。一旦激活，效果就会结束。你不能同时激活超过一个片刻预知效果。",
+      "enGB": "As a free action you may activate your moment of prescience, gaining an insight bonus equal to your caster level (maximum +25) on your next attack roll, skill check, or saving throw. Alternatively, you can apply the insight bonus to your AC against a single attack (even if flat-footed). You can’t have more than one moment of prescience active on you at the same time, however this effect will last until discharged or you rest."
+    },
+    {
+    "Key": "5fdfa4e5912e4471aa4b7afeeb30d005",
+      "SimpleName": "MomentOfPrescienceBuffAbility.Description",
+      "ProcessTemplates": true,
+      "IsUsed": false,
+      "zhCN": "该法术会赋予你强大的第六感。只要在法术的持续时间内，你就可以选择使用该法术的效果。此法术可以在任何单次的攻击检定、战技检定、技能检定、或豁免检定中赋予你加值，加值为与你的CL相同的洞察加值 (最高+25)。或者你也可以选择将此洞察加值加在你的AC上以对抗单次攻击 (甚至在你措手不及时也可以)。激活该效果是一个自由动作。一旦激活，效果就会结束。你不能同时激活超过一个片刻预知效果。",
+      "enGB": "As a free action you may activate your moment of prescience, gaining an insight bonus equal to your caster level (maximum +25) on your next attack roll, skill check, or saving throw. Alternatively, you can apply the insight bonus to your AC against a single attack (even if flat-footed). You can’t have more than one moment of prescience active on you at the same time, however this effect will last until discharged or you rest."
+    },
+    {
+    "Key": "6ae3318ac5fa45cab1a0c6716b847d69",
+      "SimpleName": "MomentOfPrescienceSavingThrowAbility.Description",
+      "ProcessTemplates": true,
+      "IsUsed": false,
+      "zhCN": "该法术会赋予你强大的第六感。只要在法术的持续时间内，你就可以选择使用该法术的效果。此法术可以在任何单次的攻击检定、战技检定、技能检定、或豁免检定中赋予你加值，加值为与你的CL相同的洞察加值 (最高+25)。或者你也可以选择将此洞察加值加在你的AC上以对抗单次攻击 (甚至在你措手不及时也可以)。激活该效果是一个自由动作。一旦激活，效果就会结束。你不能同时激活超过一个片刻预知效果。",
+      "enGB": "As a free action you may activate your moment of prescience, gaining an insight bonus equal to your caster level (maximum +25) on your next attack roll, skill check, or saving throw. Alternatively, you can apply the insight bonus to your AC against a single attack (even if flat-footed). You can’t have more than one moment of prescience active on you at the same time, however this effect will last until discharged or you rest."
+    },
+    {
+      "Key": "d388fc6bc9124fd793c4dd2d04049a1a",
+      "SimpleName": "MomentOfPrescienceAbility.Description",
+      "ProcessTemplates": true,
+      "zhCN": "该法术会赋予你强大的第六感。只要在法术的持续时间内，你就可以选择使用该法术的效果。此法术可以在任何单次的攻击检定、战技检定、技能检定、或豁免检定中赋予你加值，加值为与你的CL相同的洞察加值 (最高+25)。或者你也可以选择将此洞察加值加在你的AC上以对抗单次攻击 (甚至在你措手不及时也可以)。激活该效果是一个自由动作。一旦激活，效果就会结束。你不能同时激活超过一个片刻预知效果。",
+      "enGB": "This spell grants you a sixth sense. Once during the spell’s duration, you may choose to use its effect. This spell grants you an insight bonus equal to your caster level (maximum +25) on any single attack roll, skill check, or saving throw. Alternatively, you can apply the insight bonus to your AC against a single attack (even if flat-footed). Activating the effect is a free action. Once used, the spell ends. You can’t have more than one moment of prescience active on you at the same time."
+    },
+    {
+      "Key": "f7fc71eae1ee48b0a52f5a51267c7798",
+      "SimpleName": "MomentOfPrescienceAbility.Duration",
+      "ProcessTemplates": false,
+      "zhCN": "1小时/级或者直到释放",
+      "enGB": "1 hour/level or until discharged"
+    },
+    {
+      "Key": "d48dde57b54c4ca1b7422b826f064aa3",
+      "SimpleName": "MomentOfPrescienceACAbility.Description",
+      "ProcessTemplates": true,
+      "zhCN": "以一个自由动作激活片刻预知效果。在任何单次的攻击检定、战技检定、技能检定、或豁免检定中赋予你加值，加值为与你的CL相同的洞察加值 (最高+25)。或者你也可以选择将此洞察加值加在你的AC上以对抗单次攻击 (甚至在你措手不及时也可以)。激活该效果是一个自由动作。一旦激活，效果就会结束。你不能同时激活超过一个片刻预知效果，但是效果会持续到将其释放或者休息。",
+      "enGB": "As a free action you may activate your moment of prescience, gaining an insight bonus equal to your caster level (maximum +25) on your next attack roll, skill check, or saving throw. Alternatively, you can apply the insight bonus to your AC against a single attack (even if flat-footed). You can’t have more than one moment of prescience active on you at the same time, however this effect will last until discharged or you rest."
+    },
+    {
+      "Key": "7f2f37e1abd74774bc5c8a8256ccc75e",
+      "SimpleName": "MomentOfPrescienceACBuff.Description",
+      "ProcessTemplates": true,
+      "zhCN": "你对下一次袭来的攻击在AC上获得等于你施法者等级的洞察加值 (最高+25)。如果你激活另一项片刻预知效果，这个效果会失效消散。",
+      "enGB": "You gain a insight bonus to your AC equal to your caster level (maximum +25) against the next incoming attack roll. if you apply another moment of prescience, this will be removed without effect."
+    },
+    {
+      "Key": "d33f0297662348cc8ae327ec9cac2edc",
+      "SimpleName": "MomentOfPrescienceACBuff.Name",
+      "ProcessTemplates": false,
+      "zhCN": "片刻预知 - AC",
+      "enGB": "Moment of Prescience - AC"
+    },
+    {
+      "Key": "104f7147b44740b99859e9e6eba4530a",
+      "SimpleName": "MomentOfPrescienceAttackRollAbility.Description",
+      "ProcessTemplates": true,
+      "zhCN": "以一个自由动作激活片刻预知效果。在任何单次的攻击检定、战技检定、技能检定、或豁免检定中赋予你加值，加值为与你的CL相同的洞察加值 (最高+25)。或者你也可以选择将此洞察加值加在你的AC上以对抗单次攻击 (甚至在你措手不及时也可以)。激活该效果是一个自由动作。一旦激活，效果就会结束。你不能同时激活超过一个片刻预知效果，但是效果会持续到将其释放或者休息。",
+      "enGB": "As a free action you may activate your moment of prescience, gaining an insight bonus equal to your caster level (maximum +25) on your next attack roll, skill check, or saving throw. Alternatively, you can apply the insight bonus to your AC against a single attack (even if flat-footed). You can’t have more than one moment of prescience active on you at the same time, however this effect will last until discharged or you rest."
+    },
+    {
+      "Key": "561964efe64a449f84e5579858bcac13",
+      "SimpleName": "MomentOfPrescienceAttackRollBuff.Description",
+      "ProcessTemplates": true,
+      "zhCN": "你的下一次攻击检定获得等于你施法者等级的洞察加值 (最高+25)。如果你激活另一项片刻预知效果，这个效果会失效消散。",
+      "enGB": "Your next attack roll gains an insight bonus equal to your caster level (maximum +25). if you apply another moment of prescience, this will be removed without effect."
+    },
+    {
+      "Key": "b30b3ad1fddd4b539654a0841cb5b746",
+      "SimpleName": "MomentOfPrescienceAttackRollBuff.Name",
+      "ProcessTemplates": false,
+      "enGB": "Moment of Prescience - Attack Roll"
+      "zhCN": "片刻预知 - 攻击加值",
+    },
+    {
+      "Key": "4460d28d7eb949dda0966c508a892962",
+      "SimpleName": "MomentOfPrescienceBaseBuff.Description",
+      "ProcessTemplates": true,
+      "zhCN": "该法术会赋予你强大的第六感。只要在法术的持续时间内，你就可以选择使用该法术的效果。此法术可以在任何单次的攻击检定、战技检定、技能检定、或豁免检定中赋予你加值，加值为与你的CL相同的洞察加值 (最高+25)。或者你也可以选择将此洞察加值加在你的AC上以对抗单次攻击 (甚至在你措手不及时也可以)。激活该效果是一个自由动作。一旦激活，效果就会结束。你不能同时激活超过一个片刻预知效果。",
+      "enGB": "This spell grants you a sixth sense. Once during the spell’s duration, you may choose to use its effect. This spell grants you an insight bonus equal to your caster level (maximum +25) on any single attack roll, skill check, or saving throw. Alternatively, you can apply the insight bonus to your AC against a single attack (even if flat-footed). Activating the effect is a free action. Once used, the spell ends. You can’t have more than one moment of prescience active on you at the same time."
+    },
+    {
+      "Key": "5fdfa4e5912e4471aa4b7afeeb30d005",
+      "SimpleName": "MomentOfPrescienceBuffAbility.Description",
+      "ProcessTemplates": true,
+      "zhCN": "以一个自由动作激活片刻预知效果。在任何单次的攻击检定、战技检定、技能检定、或豁免检定中赋予你加值，加值为与你的CL相同的洞察加值 (最高+25)。或者你也可以选择将此洞察加值加在你的AC上以对抗单次攻击 (甚至在你措手不及时也可以)。激活该效果是一个自由动作。一旦激活，效果就会结束。你不能同时激活超过一个片刻预知效果，但是效果会持续到将其释放或者休息。",
+      "enGB": "As a free action you may activate your moment of prescience, gaining an insight bonus equal to your caster level (maximum +25) on your next attack roll, skill check, or saving throw. Alternatively, you can apply the insight bonus to your AC against a single attack (even if flat-footed). You can’t have more than one moment of prescience active on you at the same time, however this effect will last until discharged or you rest."
+    },
+    {
+      "Key": "83d5c00bb7b54e5d9e8e300c3f0080af",
+      "SimpleName": "MomentOfPrescienceBuffAbility.Duration",
+      "ProcessTemplates": false,
+      "zhCN": "直到释放",
+      "enGB": "Until discharged"
+    },
+    {
+      "Key": "01773f8080424558a72c039b3fb4e995",
+      "SimpleName": "MomentOfPrescienceBuffAbility.Name",
+      "ProcessTemplates": false,
+      "zhCN": "片刻预知",
+      "enGB": "Moment of Prescience"
+    },
+    {
+      "Key": "6ae3318ac5fa45cab1a0c6716b847d69",
+      "SimpleName": "MomentOfPrescienceSavingThrowAbility.Description",
+      "ProcessTemplates": true,
+      "zhCN": "以一个自由动作激活片刻预知效果。在任何单次的攻击检定、战技检定、技能检定、或豁免检定中赋予你加值，加值为与你的CL相同的洞察加值 (最高+25)。或者你也可以选择将此洞察加值加在你的AC上以对抗单次攻击 (甚至在你措手不及时也可以)。激活该效果是一个自由动作。一旦激活，效果就会结束。你不能同时激活超过一个片刻预知效果，但是效果会持续到将其释放或者休息。",
+      "enGB": "As a free action you may activate your moment of prescience, gaining an insight bonus equal to your caster level (maximum +25) on your next attack roll, skill check, or saving throw. Alternatively, you can apply the insight bonus to your AC against a single attack (even if flat-footed). You can’t have more than one moment of prescience active on you at the same time, however this effect will last until discharged or you rest."
+    },
+    {
+      "Key": "4749d7403c2a40cf9f099c4e408b9d42",
+      "SimpleName": "MomentOfPrescienceSavingThrowBuff.Description",
+      "ProcessTemplates": true,
+      "zhCN": "你的下一次豁免检定获得等于你施法者等级的洞察加值 (最高+25)。如果你激活另一项片刻预知效果，这个效果会失效消散。",
+      "enGB": "Your next saving throw gains an insight bonus equal to your caster level (maximum +25). if you apply another moment of prescience, this will be removed without effect."
+    },
+    {
+      "Key": "5b332a983eb74bff854dd9694da9e1f5",
+      "SimpleName": "MomentOfPrescienceSavingThrowBuff.Name",
+      "ProcessTemplates": false,
+      "zhCN": "片刻预知 - 豁免检定",
+      "enGB": "Moment of Prescience - Saving Throw"
+    },
+    {
+      "Key": "622c32098a224728bc807ea2805487a3",
+      "SimpleName": "MomentOfPrescienceSkillCheckAbility.Description",
+      "ProcessTemplates": true,
+      "zhCN": "以一个自由动作激活片刻预知效果。在任何单次的攻击检定、战技检定、技能检定、或豁免检定中赋予你加值，加值为与你的CL相同的洞察加值 (最高+25)。或者你也可以选择将此洞察加值加在你的AC上以对抗单次攻击 (甚至在你措手不及时也可以)。激活该效果是一个自由动作。一旦激活，效果就会结束。你不能同时激活超过一个片刻预知效果，但是效果会持续到将其释放或者休息。",
+      "enGB": "As a free action you may activate your moment of prescience, gaining an insight bonus equal to your caster level (maximum +25) on your next attack roll, skill check, or saving throw. Alternatively, you can apply the insight bonus to your AC against a single attack (even if flat-footed). You can’t have more than one moment of prescience active on you at the same time, however this effect will last until discharged or you rest."
+    },
+    {
+      "Key": "422d5eeacd9e4a97bd9841676253e952",
+      "SimpleName": "MomentOfPrescienceSkillCheckBuff.Description",
+      "ProcessTemplates": true,
+      "zhCN": "你的下一次技能检定获得等于你施法者等级的洞察加值 (最高+25)。如果你激活另一项片刻预知效果，这个效果会失效消散。",
+      "enGB": "Your next skill check roll gains an insight bonus equal to your caster level (maximum +25). if you apply another moment of prescience, this will be removed without effect."
+    },
+    {
+      "Key": "5f27300c0ac5498b81f7a35ac101841a",
+      "SimpleName": "MomentOfPrescienceSkillCheckBuff.Name",
+      "ProcessTemplates": false,
+      "zhCN": "片刻预知 - 技能检定",
+      "enGB": "Moment of Prescience - Skill Check"
+    }    
   ]
 }
