@@ -25672,7 +25672,7 @@
       "SimpleName": "MomentOfPrescienceAbility.Description",
       "ProcessTemplates": true,
       "IsUsed": false,
-      "zhCN": "该法术会赋予你强大的第六感。只要在法术的持续时间内，你就可以选择使用该法术的效果。此法术可以在任何单次的攻击检定、战技检定、技能检定、或豁免检定中赋予你加值，加值为与你的CL相同的洞察加值 (最高+25)。或者你也可以选择将此洞察加值加在你的AC上以对抗单次攻击 (甚至在你措手不及时也可以)。激活该效果是一个自由动作。一旦激活，效果就会结束。你不能同时激活超过一个片刻预知效果。",
+      "zhCN": "该法术会赋予你强大的第六感。只要在法术的持续时间内，你就可以选择使用该法术的效果。此法术可以在任何单次的攻击检定、技能检定、或豁免检定中赋予你加值，加值为与你的CL相同的洞察加值 (最高+25)。或者你也可以选择将此洞察加值加在你的AC上以对抗单次攻击 (甚至在你措手不及时也可以)。激活该效果是一个自由动作。一旦激活，效果就会结束。你不能同时激活超过一个片刻预知效果。",
       "enGB": "This spell grants you a sixth sense. Once during the spell’s duration, you may choose to use its effect. This spell grants you an insight bonus equal to your caster level (maximum +25) on any single attack roll, skill check, or saving throw. Alternatively, you can apply the insight bonus to your AC against a single attack (even if flat-footed). Activating the effect is a free action. Once used, the spell ends. You can’t have more than one moment of prescience active on you at the same time."
     },
     {
@@ -25680,7 +25680,7 @@
       "SimpleName": "MomentOfPrescienceACAbility.Description",
       "ProcessTemplates": true,
       "IsUsed": false,
-      "zhCN": "以一个自由动作激活片刻预知效果。在任何单次的攻击检定、战技检定、技能检定、或豁免检定中赋予你加值，加值为与你的CL相同的洞察加值 (最高+25)。或者你也可以选择将此洞察加值加在你的AC上以对抗单次攻击 (甚至在你措手不及时也可以)。激活该效果是一个自由动作。一旦激活，效果就会结束。你不能同时激活超过一个片刻预知效果，但是效果会持续到将其释放或者休息。",
+      "zhCN": "以一个自由动作激活片刻预知效果。在任何单次的攻击检定、技能检定、或豁免检定中赋予你加值，加值为与你的CL相同的洞察加值 (最高+25)。或者你也可以选择将此洞察加值加在你的AC上以对抗单次攻击 (甚至在你措手不及时也可以)。激活该效果是一个自由动作。一旦激活，效果就会结束。你不能同时激活超过一个片刻预知效果，但是效果会持续到将其释放或者休息。",
       "enGB": "As a free action you may activate your moment of prescience, gaining an insight bonus equal to your caster level (maximum +25) on your next attack roll, skill check, or saving throw. Alternatively, you can apply the insight bonus to your AC against a single attack (even if flat-footed). You can’t have more than one moment of prescience active on you at the same time, however this effect will last until discharged or you rest."
     },
     {
@@ -25688,7 +25688,7 @@
       "SimpleName": "MomentOfPrescienceBuffAbility.Description",
       "ProcessTemplates": true,
       "IsUsed": false,
-      "zhCN": "以一个自由动作激活片刻预知效果。在任何单次的攻击检定、战技检定、技能检定、或豁免检定中赋予你加值，加值为与你的CL相同的洞察加值 (最高+25)。或者你也可以选择将此洞察加值加在你的AC上以对抗单次攻击 (甚至在你措手不及时也可以)。激活该效果是一个自由动作。一旦激活，效果就会结束。你不能同时激活超过一个片刻预知效果，但是效果会持续到将其释放或者休息。",
+      "zhCN": "以一个自由动作激活片刻预知效果。在任何单次的攻击检定、技能检定、或豁免检定中赋予你加值，加值为与你的CL相同的洞察加值 (最高+25)。或者你也可以选择将此洞察加值加在你的AC上以对抗单次攻击 (甚至在你措手不及时也可以)。激活该效果是一个自由动作。一旦激活，效果就会结束。你不能同时激活超过一个片刻预知效果，但是效果会持续到将其释放或者休息。",
       "enGB": "As a free action you may activate your moment of prescience, gaining an insight bonus equal to your caster level (maximum +25) on your next attack roll, skill check, or saving throw. Alternatively, you can apply the insight bonus to your AC against a single attack (even if flat-footed). You can’t have more than one moment of prescience active on you at the same time, however this effect will last until discharged or you rest."
     },
     {
@@ -25696,7 +25696,7 @@
       "SimpleName": "MomentOfPrescienceSavingThrowAbility.Description",
       "ProcessTemplates": true,
       "IsUsed": false,
-      "zhCN": "以一个自由动作激活片刻预知效果。在任何单次的攻击检定、战技检定、技能检定、或豁免检定中赋予你加值，加值为与你的CL相同的洞察加值 (最高+25)。或者你也可以选择将此洞察加值加在你的AC上以对抗单次攻击 (甚至在你措手不及时也可以)。激活该效果是一个自由动作。一旦激活，效果就会结束。你不能同时激活超过一个片刻预知效果，但是效果会持续到将其释放或者休息。",
+      "zhCN": "以一个自由动作激活片刻预知效果。在任何单次的攻击检定、技能检定、或豁免检定中赋予你加值，加值为与你的CL相同的洞察加值 (最高+25)。或者你也可以选择将此洞察加值加在你的AC上以对抗单次攻击 (甚至在你措手不及时也可以)。激活该效果是一个自由动作。一旦激活，效果就会结束。你不能同时激活超过一个片刻预知效果，但是效果会持续到将其释放或者休息。",
       "enGB": "As a free action you may activate your moment of prescience, gaining an insight bonus equal to your caster level (maximum +25) on your next attack roll, skill check, or saving throw. Alternatively, you can apply the insight bonus to your AC against a single attack (even if flat-footed). You can’t have more than one moment of prescience active on you at the same time, however this effect will last until discharged or you rest."
     },
     {
@@ -25724,7 +25724,7 @@
       "Key": "104f7147b44740b99859e9e6eba4530a",
       "SimpleName": "MomentOfPrescienceAttackRollAbility.Description",
       "ProcessTemplates": true,
-      "zhCN": "以一个自由动作激活片刻预知效果。在任何单次的攻击检定、战技检定、技能检定、或豁免检定中赋予你加值，加值为与你的CL相同的洞察加值 (最高+25)。或者你也可以选择将此洞察加值加在你的AC上以对抗单次攻击 (甚至在你措手不及时也可以)。激活该效果是一个自由动作。一旦激活，效果就会结束。你不能同时激活超过一个片刻预知效果，但是效果会持续到将其释放或者休息。",
+      "zhCN": "以一个自由动作激活片刻预知效果。在任何单次的攻击检定、技能检定、或豁免检定中赋予你加值，加值为与你的CL相同的洞察加值 (最高+25)。或者你也可以选择将此洞察加值加在你的AC上以对抗单次攻击 (甚至在你措手不及时也可以)。激活该效果是一个自由动作。一旦激活，效果就会结束。你不能同时激活超过一个片刻预知效果，但是效果会持续到将其释放或者休息。",
       "enGB": "As a free action you may activate your moment of prescience, gaining an insight bonus equal to your caster level (maximum +25) on your next attack roll, skill check, or saving throw. Alternatively, you can apply the insight bonus to your AC against a single attack (even if flat-footed). You can’t have more than one moment of prescience active on you at the same time, however this effect will last until discharged or you rest."
     },
     {
@@ -25745,7 +25745,7 @@
       "Key": "4460d28d7eb949dda0966c508a892962",
       "SimpleName": "MomentOfPrescienceBaseBuff.Description",
       "ProcessTemplates": true,
-      "zhCN": "该法术会赋予你强大的第六感。只要在法术的持续时间内，你就可以选择使用该法术的效果。此法术可以在任何单次的攻击检定、战技检定、技能检定、或豁免检定中赋予你加值，加值为与你的CL相同的洞察加值 (最高+25)。或者你也可以选择将此洞察加值加在你的AC上以对抗单次攻击 (甚至在你措手不及时也可以)。激活该效果是一个自由动作。一旦激活，效果就会结束。你不能同时激活超过一个片刻预知效果。",
+      "zhCN": "该法术会赋予你强大的第六感。只要在法术的持续时间内，你就可以选择使用该法术的效果。此法术可以在任何单次的攻击检定、技能检定、或豁免检定中赋予你加值，加值为与你的CL相同的洞察加值 (最高+25)。或者你也可以选择将此洞察加值加在你的AC上以对抗单次攻击 (甚至在你措手不及时也可以)。激活该效果是一个自由动作。一旦激活，效果就会结束。你不能同时激活超过一个片刻预知效果。",
       "enGB": "This spell grants you a sixth sense. Once during the spell’s duration, you may choose to use its effect. This spell grants you an insight bonus equal to your caster level (maximum +25) on any single attack roll, skill check, or saving throw. Alternatively, you can apply the insight bonus to your AC against a single attack (even if flat-footed). Activating the effect is a free action. Once used, the spell ends. You can’t have more than one moment of prescience active on you at the same time."
     },
     {
@@ -25780,7 +25780,7 @@
       "Key": "622c32098a224728bc807ea2805487a3",
       "SimpleName": "MomentOfPrescienceSkillCheckAbility.Description",
       "ProcessTemplates": true,
-      "zhCN": "以一个自由动作激活片刻预知效果。在任何单次的攻击检定、战技检定、技能检定、或豁免检定中赋予你加值，加值为与你的CL相同的洞察加值 (最高+25)。或者你也可以选择将此洞察加值加在你的AC上以对抗单次攻击 (甚至在你措手不及时也可以)。激活该效果是一个自由动作。一旦激活，效果就会结束。你不能同时激活超过一个片刻预知效果，但是效果会持续到将其释放或者休息。",
+      "zhCN": "以一个自由动作激活片刻预知效果。在任何单次的攻击检定、技能检定、或豁免检定中赋予你加值，加值为与你的CL相同的洞察加值 (最高+25)。或者你也可以选择将此洞察加值加在你的AC上以对抗单次攻击 (甚至在你措手不及时也可以)。激活该效果是一个自由动作。一旦激活，效果就会结束。你不能同时激活超过一个片刻预知效果，但是效果会持续到将其释放或者休息。",
       "enGB": "As a free action you may activate your moment of prescience, gaining an insight bonus equal to your caster level (maximum +25) on your next attack roll, skill check, or saving throw. Alternatively, you can apply the insight bonus to your AC against a single attack (even if flat-footed). You can’t have more than one moment of prescience active on you at the same time, however this effect will last until discharged or you rest."
     },
     {
