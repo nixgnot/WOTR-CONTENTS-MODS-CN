@@ -4448,7 +4448,7 @@ C:\Users\你的用户名\AppData\LocalLow\Owlcat Games\Pathfinder Wrath Of The R
 </table>   
 
 ------------------------------------------- 
-### [HombrewFighterMagus]((https://www.nexusmods.com/pathfinderwrathoftherighteous/mods/648)
+### [HombrewFighterMagus](https://www.nexusmods.com/pathfinderwrathoftherighteous/mods/648)
 > *前置：* TabletopTweaks-Core<br>
 > *中文：* **QL汉化**<br>
 > *安装方式：* **非UMM**<br>
