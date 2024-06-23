@@ -3684,7 +3684,7 @@ C:\Users\你的用户名\AppData\LocalLow\Owlcat Games\Pathfinder Wrath Of The R
 > *新增内容：* 进阶职业<br>
 <table>
  <tr><th colspan="3">新增内容列表<br></th></tr> 
-  <tr><td rowspan="42">变体</i></td>
+  <tr><td rowspan="44">变体</i></td>
        <td rowspan="3">炼金术师 Alchemist</td>
        <td>构装骑士 Construct Rider</td></tr>
        <tr><td>内修药师 Internal Alchemist</td></tr>
@@ -3695,10 +3695,11 @@ C:\Users\你的用户名\AppData\LocalLow\Owlcat Games\Pathfinder Wrath Of The R
        <td>杂耍者 Juggler</td></tr>
        <td>艺伎 Geisha</td></tr>
        <td>音爆使 Sound Striker</td></tr>
-       <td rowspan="3">野蛮人 Barbarian</td>
+       <td rowspan="4">野蛮人 Barbarian</td>
        <td>醉蛮 Drunken Brute</td></tr>
        <td>野性蛮人 Savage Barbarian</td></tr>
        <td>不驯蛮人 Untamed Rager</td></tr>
+       <td>泰坦猛士 Titan Mauler</td></tr>
        <td rowspan="1">血脉狂怒者 Bloodrager</td>
        <td>狂血导魔者 Blood Conduit</td></tr>
        <td rowspan="2">骑将 Cavalier</td>
@@ -3720,8 +3721,9 @@ C:\Users\你的用户名\AppData\LocalLow\Owlcat Games\Pathfinder Wrath Of The R
        <tr><td>御林铁卫 High Guardian</td></tr>
        <tr><td>武器大师 Weapon Master</td></tr>
        <td>野性战士 Savage Warrior</td></tr>
-       <td rowspan="1">魔战士 Magus</td>
+       <td rowspan="2">魔战士 Magus</td>
        <td>尖塔防卫者 Drunken Brute</td></tr>
+       <tr><td>杖法师 Staff Magus</td></tr>
        <td rowspan="3">武僧 Monk</td>
        <td>战技宗师 Maneuver Master</td></tr>
        <tr><td>拆招僧 Master of Many Styles</td></tr>
@@ -3967,7 +3969,7 @@ C:\Users\你的用户名\AppData\LocalLow\Owlcat Games\Pathfinder Wrath Of The R
 	  <td>渊博学识 Expansive Knowledge<br>狐之狡黠 2次/日</td></tr>
 	  <td>命定之拳 Inevitable Fist<br>每日轮数等同于你的生命骰数，你能够向自身的肢体灌入纯粹的秩序能量。你的徒手打击造成的伤害就如同你的体型比当前大一级，而且获得公理武器特殊能力。启动和解消该能力是自由动作，且轮数不必连续。</td></tr>
 	  <td>符文之躯 Runic Form<br>九个符文纹身出现在你的身体上，其中各有三个符文对应着义洛理的身心灵三种教导。每日3次以标准动作，你能够耗用一个纹身的力量。身之符文容有复原术作为类法术能力，心之符文使用时为你的感知提供+4神圣加值，持续1分钟。灵之符文可以使你进入灵体状态1分钟，如同破空步法术一般。</td></tr>
-  <tr><td rowspan="30">专长</i></td>
+  <tr><td rowspan="32">专长</i></td>
        <td colspan="2">崇神仪典 Deific Obedience<br>根据所信仰神明获得特殊神恩</td></tr>
        <td colspan="2">多样尊崇 Diverse Obedience<br>在确定获得崇神仪典的神恩时，将你的hd视为比实际高2。每当你获得神恩时，你可以从传道者或信仰哨卫神恩中进行选择。</td></tr>
        <td colspan="2">神导之手 Guided Hand<br>当你使用偏好武器时，你在掷攻击骰时可以用你的感知修正代替力量或敏捷修正。</td></tr>
@@ -3995,6 +3997,8 @@ C:\Users\你的用户名\AppData\LocalLow\Owlcat Games\Pathfinder Wrath Of The R
        <tr><td colspan="2">盾牌缠陷 Shield Snag<br>任何被你的盾击命中的敌人也会成为你的一次自由动作缴械的目标，和盾击采用相同掷骰。该战技不引发借机攻击。</td></tr>
        <tr><td colspan="2">抓取飞箭 Snatch Arrows<br>当使用“拨挡飞箭”专长时你可以选择抓住那武器而不仅仅只是偏转它。该远程武器可以立刻被扔回去，视为对原攻击者的一次攻击。</td></tr>
        <tr><td colspan="2">机先克敌 Strike True<br>你可以通过移动动作集中注意力，令你在回合结束前的下一次近战攻击检定中获得+4加值。</td></tr>
+       <tr><td colspan="2">长棍大师 Quarterstaff Master<br>你可以将长棍作为单手武器来使用。</td></tr>
+       <tr><td colspan="2">灵巧夺命 Deadly Agility<br>效果如同武器娴熟（神话）和双斩专长。</td></tr>
        <tr><td rowspan="3">德丝娜的流星飞刃 Desna's Shooting Star</td></tr>
        <tr><td colspan="2">你可以将你的魅力调整值添加到使用星刃的攻击和伤害检定上。如果你如此做，你无法应用你的力量调整值，敏捷调整值（如果你有武器娴熟）或其他属性（如果你拥有将你替代攻击和伤害检定的能力）。</td></tr>
        <tr><td colspan="2">进阶条件：敏捷17，近程射击，快速射击，BAB+11或巧手11级。10级或以上的混乱善良诗人可以无视条件。你可以给一枚抛出的星刃赋予强大的回旋效果，使得多个刃叶击中目标而非四个刃叶中的某一个，并造成额外的伤害。作为一个整轮动作，你可以投掷星刃进行一次攻击，投掷1d4来决定获得几次有效攻击（如果你投掷出1，则只有一次）。如果攻击命中，则每一击都会成功伤害目标。其中重击伤害只能触发一次，来自固定加值的伤害则适用于每个伤害骰，例如吟游诗人的激发勇气加值。抗性和伤害减免能力适用于每一击。如果你不知道如何投掷星刃，这些攻击视为近战攻击。</td></tr>
@@ -4041,7 +4045,7 @@ C:\Users\你的用户名\AppData\LocalLow\Owlcat Games\Pathfinder Wrath Of The R
        <tr><td colspan="2">王牌缴械 Ace Disarm<br>当你使用远程卸武专长以远程武器发动缴械战技攻击时，你不会在攻击检定上承受-2减值。除此之外，如果目标使用的是天生武器，你可以偷窃一件随机装备。</td></tr>
        <tr><td colspan="2">缠臂锁肩 Arm Bind<br>你能够尝试一次战技检定来卸除敌人武器，包括天生武器。该战技视为缴械战技。若你的检定成功，而且敌人使用的是天生武器，则可以选择限制住一只手臂，直至你的下个回合结束为止阻止该敌人下一次攻击命中。</td></tr>
        <tr><td colspan="2">连抓带打 Strike and Seize<br>以标准动作，你能够用武器做出单次攻击，并且用空着的手尝试一次缴械战技且无需承受双武器战斗的惩罚。</td></tr>
-  <tr><td rowspan="27">流派专长</i></td>
+  <tr><td rowspan="30">流派专长</i></td>
        <td rowspan="3">黑堕</td>
            <td>黑堕流 Black Seraph Style<br>在对抗战栗、惊惧、恐慌或畏缩的敌人时，你的防御等级和豁免检定得到+1亵渎加值。此加值在5级和之后每5个等级提高1点。</td></tr>
        <tr><td>黑堕恶念 Black Seraph’s Malevolence<br>你的污邪武器同时成为神圣武器。</td></tr>
@@ -4070,10 +4074,14 @@ C:\Users\你的用户名\AppData\LocalLow\Owlcat Games\Pathfinder Wrath Of The R
            <td>豹尾脚 Panther Style<br>当你使用豹尾脚流派时，当你在穿过威胁区域而引发借机攻击时，你能以迅捷动作用徒手攻击你的对手。这次攻击在诱发对方借机攻击后才能发动。</td></tr>
        <tr><td>九转连环腿 Panther Claw<br>你使用豹尾脚流派时，你可以用自由动作进行对借机攻击的反击。你在你的行动轮中可以做出等同你感知修正次数的反击。</td></tr>
        <tr><td>神龙摆尾 Panther Parry<br>你使用豹尾脚流派时，你的反击可以在对方进行借机攻击前作出，如果你的这次反击对对手造成伤害，对手对你的借机攻击在攻击骰和伤害骰都有-2罚值。</td></tr>
-              <tr><td rowspan="3">美人三招</td>
+           <td rowspan="3">美人三招</td>
            <td>美人三招-贵妃回眸 Cloak and Dagger Style<br>你的攻击能轻易对未察觉的对手造成不良状态。选择一种轻型近战武器。当你开启该流派时，你用所选的武器在你进入战斗的第一回合中首次攻击一个失去AC上的敏捷加值的敌人时，你可以用自由动作对该敌人进行一次阴招战技检定。</td></tr>
        <tr><td>美人三招-小怜横陈 Cloak and Dagger Subterfuge<br>当你开启美人三招并持用你所选的武器时，每当你对一个敌人进行借机攻击时，你同时还能用一个自由动作对他进行一次额外的阴招战技检定。另外。每当你成功对一个敌人进行阴招战技时，你能立刻以一个自由动作对他进行一次缴械战技检定。</td></tr>
        <tr><td>美人三招-飞燕回翔 Cloak and Dagger Tactics<br>当你开启美人三招并持用你所选的武器时，每当你击中一个失去AC上的敏捷加值或被你夹击的敌人，或是使用要害打击（以及其精通和高等版本）进行一次攻击时，你可以用自由动作对该敌人进行一次阴招战技检定。如果你成功了，该目标必须成功通过强韧检定（DC=10+1/2你的BAB+你的智力调整），否则就会困惑，如果免疫则会恍惚，如果免疫则会力竭，如果免疫则会被钉在原地不能移动。无论阴招造成的普通惩罚持续多久，该额外的惩罚只持续一轮。你每轮只能使用该专长一次来以进行额外的阴招战技检定。</td></tr>
+       <td rowspan="3">枪舞流</td>
+           <td>枪舞流 Spear Dancing Style<br>使用此流派时，你可以单手持用任何来自长柄或枪矛战士武器组中的武器。</td></tr>
+       <tr><td>枪舞流-少林棍法禅宗 Spear Dancing Spiral<br>使用枪舞流时，你的这些武器获得武器娴熟的好处。此外，你还可以用它们施展两仪回风，韦陀杵和伏魔杖。</td></tr>
+       <tr><td>枪舞流-纪效新书 Spear Dancing Reach<br>使用枪舞流时，你的触及增加5尺。</td></tr>
        <tr><td colspan="2">大力金刚掌 Smashing Style<br>使用这个流派时，当你成功使用击破战技对敌人的盔甲造成伤害后，你可以立即用相同的战技加值尝试冲撞或者绊摔，不引起借机攻击。</td></tr>
        <tr><td colspan="2">韦陀杵 Stick-Fighting Counter<br>当你进行防御式攻击时，可以准备反击本回合攻击过的敌人，每轮限一次，当其对你的近战攻击失手时，会引起你的借机攻击。你需要处于能威胁他的范围，且持用棍棒类武器。</td></tr>
        <tr><td colspan="2">伏魔杖 Stick-Fighting Maneuver<br>当你使用棍棒类武器全回合攻击时，你可以以最高攻击加值使用一次额外的战技。</td></tr>
