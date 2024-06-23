@@ -4458,7 +4458,7 @@ C:\Users\你的用户名\AppData\LocalLow\Owlcat Games\Pathfinder Wrath Of The R
        <tr><td rowspan="2">新增变体</td>
 	    <td rowspan="2">魔战士</td>
                     <td>秘奥战兵</td></tr>
-	        <tr><td>秘奥战兵</td></tr>
+	        <tr><td>秘奥继者</td></tr>
        
 </table>   
 
