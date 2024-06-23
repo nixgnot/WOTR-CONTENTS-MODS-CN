@@ -89,6 +89,7 @@
 | [OnePear](#OnePearl) | 珍珠合一 | 暂无 | :heavy_check_mark: | :+1::+1::+1:| :file_folder: |🛠️🛠️||
 | [deceiverbuff](#deceiverbuff) | 魔法诈欺师加强 | 暂无 | :heavy_check_mark: | :+1::+1::+1:| :file_folder: |🛠️🛠️||
 | [FinessableSabers](#FinessableSabers) | FinessableSabers | QL汉化 | :heavy_check_mark: | :+1:| :file_folder: |🛠️||
+| [HombrewFighterMagus](#HombrewFighterMagus) | 原创魔战 | QL汉化 | :x: | :+1:| :file_folder: |🛠️||
 
 备注
 + UMM一栏为是否使用UMM安装
@@ -113,6 +114,7 @@
 
 ### ModFinder工具
 + ModFinder是一个非必需的第三方工具，可以便捷的管理正义之怒MOD，检查MOD更新情况（包括在Github和Nexus更新的MOD），快速下载和安装（可以替代部分UMM功能）
++ 非UMM安装的MOD也可以使用ModFinder快速安装，强烈推荐
 + ModFinder可以在[这里](https://github.com/Pathfinder-WOTR-Modding-Community/ModFinder)下载。
 + [汉化分支地址](https://github.com/magicskysword/ModFinder_CN)
 + ModFinder为绿色工具，可以在任何路径打开（但是最好不要用中文路径），会自动识别正义之怒的安装位置。
@@ -4442,6 +4444,21 @@ C:\Users\你的用户名\AppData\LocalLow\Owlcat Games\Pathfinder Wrath Of The R
 <tr><th colspan="3">修改列表<br></th></tr> 
        <tr><td>巧计训练 锯齿刀</td><td>游荡者的敏上伤能力</td></tr>
        <tr><td>神话能力 夜王迅捷</td><td>你的所有血池能力成为迅捷动作</td></tr>
+       
+</table>   
+
+------------------------------------------- 
+### [HombrewFighterMagus]((https://www.nexusmods.com/pathfinderwrathoftherighteous/mods/648)
+> *前置：* TabletopTweaks-Core<br>
+> *中文：* **QL汉化**<br>
+> *安装方式：* **非UMM**<br>
+> *新增内容：* 原创魔战士，用部分职业能力换取武器训练护甲训练能力
+<table>
+<tr><th colspan="3">修改列表<br></th></tr> 
+       <tr><td rowspan="2">新增变体</td>
+	    <td rowspan="2">魔战士</td>
+                    <td>秘奥战兵</td></tr>
+	        <tr><td>秘奥战兵</td></tr>
        
 </table>   
 
