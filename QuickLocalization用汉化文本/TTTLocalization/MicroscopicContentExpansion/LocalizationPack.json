@@ -432,7 +432,7 @@
     },
     {
       "Key": "9783e50281be42be8f19463180bdafee",
-      "SimpleName": "AntipaladinCrueltyFatiquedFeature.Description",
+      "SimpleName": "AntipaladinCrueltyFatiguedFeature.Description",
       "ProcessTemplates": true,
       "enGB": "At 3rd level, and every three levels thereafter, an antipaladin can select one cruelty. Each cruelty adds an effect to the antipaladin’s touch of corruption ability. Whenever the antipaladin uses touch of corruption to deal damage to one target, the target also receives the additional effect from one of the cruelties possessed by the antipaladin. This choice is made when the touch is used. The target receives a Fortitude save to avoid this cruelty. If the save is successful, the target takes the damage as normal, but not the effects of the cruelty. The DC of this save is equal to 10 + 1/2 the antipaladin’s level + the antipaladin’s Charisma modifier\nThe target is fatigued.",
       "ruRU": null,
@@ -443,7 +443,7 @@
     },
     {
       "Key": "5146ed47122640aebba3a0436ba6b082",
-      "SimpleName": "AntipaladinCrueltyFatiquedFeature.Name",
+      "SimpleName": "AntipaladinCrueltyFatiguedFeature.Name",
       "ProcessTemplates": false,
       "enGB": "Cruelty - Fatiqued",
       "ruRU": null,
