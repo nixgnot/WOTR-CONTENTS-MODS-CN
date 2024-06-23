@@ -1,1 +1,10 @@
-
+ [
+	    {"Key": "TrainedMagus_DisplayName",  
+	    "zhCN": "秘奥战兵"},
+	    {"Key": "TrainedMagus_Description",
+	    "zhCN": "秘奥战兵是一位技艺精湛的战斗专家，他们使用魔法来补充和增强自身的武艺。与典型的魔战士相比，他们不太倾向于将两者混合使用，因为这些他们追求的是刀剑、弓箭和盔甲的至高境界。"},
+	    {"Key": "TrainedMagus_Scion_DisplayName",  
+	    "zhCN": "秘奥继者"},
+	    {"Key": "Magus_Scion_Description",
+	    "zhCN": "秘奥继者是一位技艺精湛的战斗专家，他们使用魔法来补充和增强自身的武艺。与典型的魔战士相比，他们不太倾向于将两者混合使用，因为这些他们追求的是刀剑、弓箭和盔甲的至高境界。"},
+        ]
