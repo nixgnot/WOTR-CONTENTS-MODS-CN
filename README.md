@@ -3350,7 +3350,7 @@ C:\Users\你的用户名\AppData\LocalLow\Owlcat Games\Pathfinder Wrath Of The R
 > *中文：* **自带中文（机翻），提供QL用修正（By 无望的灰烬）**<br>
 > *安装方式：* **UMM**<br>
 > *修改内容：* <br>
-> *新增内容：* 人类替换种族特性<br>
+> *新增内容：* 逆天职业<br>
 + **极端不平衡imba警告**
 + 提供新职业“异世界主角”及其变体，还有相关的专长、神祗等
 + 大量动漫NETA
