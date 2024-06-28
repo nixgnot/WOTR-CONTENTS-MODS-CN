@@ -130,16 +130,6 @@
     "zhCN": "有以下种族特性可选"
   },
   {
-    "Key": "AlternateRacialTraits.Features.Human.NoAdditionalTraits.DisplayName",
-    "ProcessTemplates": false,
-    "zhCN": "不替换种族特性"
-  },
-  {
-    "Key": "AlternateRacialTraits.Features.Human.NoAdditionalTraits.Description",
-    "ProcessTemplates": false,
-    "zhCN": "不替换种族特性"
-  },
-  {
     "Key": "AlternateRacialTraits.Features.Human.MilitaryTradition.DisplayName",
     "ProcessTemplates": false,
     "zhCN": "战斗民族"
@@ -238,5 +228,175 @@
     "Key": "AlternateRacialTraits.Features.Human.EyeForTalent.Description",
     "ProcessTemplates": false,
     "zhCN": "人类拥有强大、潜藏的直觉，他们在察言观色检定上获得+2种族加值，同时，如果他们有动物伙伴、奖励坐骑、追随者或是魔宠的话，这些生物可以选择一个属性值，让该属性得到+2的加值，这个种族特性取代奖励专长。"
+  },
+  {
+    "Key": "AlternateRacialTraits.Features.Aasimar.AasimarFeatureSelection.Description",
+    "ProcessTemplates": false,
+    "zhCN": "有以下种族特性可选"
+  },
+  {
+    "Key": "AlternateRacialTraits.Features.Aasimar.AasimarFeatureSelection.DisplayName",
+    "ProcessTemplates": false,
+    "zhCN": "种族替换特性"
+  },
+  {
+    "Key": "AlternateRacialTraits.Features.Aasimar.CelestialCrusader.Description",
+    "ProcessTemplates": false,
+    "zhCN": "一些神裔选择遵从他们与生俱来对抗邪恶的命运。他们在面对邪恶异界生物时，在{g|Encyclopedia:Attack}攻击{/g}检定和{g|Encyclopedia:Armor_Class}AC{/g}上获得+1洞察{g|Encyclopedia:Bonus}加值{/g}；该种族{g|Encyclopedia:Trait}特性{/g}替换天界抗性和氏族技能奖励。"
+  },
+  {
+    "Key": "AlternateRacialTraits.Features.Aasimar.CelestialCrusader.DisplayName",
+    "ProcessTemplates": false,
+    "zhCN": "天界先锋"
+  },
+  {
+    "Key": "AlternateRacialTraits.Features.HeritageFeatures.SkilledPrerequisiteDisplayName",
+    "ProcessTemplates": false,
+    "zhCN": "受训"
+  },
+  {
+    "Key": "AlternateRacialTraits.Features.HeritageFeatures.SLAPrerequisiteDisplayName",
+    "ProcessTemplates": false,
+    "zhCN": "类法术能力"
+  },
+  {
+    "Key": "AlternateRacialTraits.Features.NoAdditionalTraitsPrototype.DisplayName",
+    "ProcessTemplates": false,
+    "zhCN": "无特性"
+  },
+  {
+    "Key": "AlternateRacialTraits.Features.NoAdditionalTraitsPrototype.Description",
+    "ProcessTemplates": false,
+    "zhCN": "不替换种族特性"
+  },
+  {
+    "Key": "AlternateRacialTraits.Features.Aasimar.CrusadingMagic.Description",
+    "ProcessTemplates": false,
+    "zhCN": "许多神裔都觉得有义务受训以对抗从世界之伤入侵的魔族，守护这个世界。这些神裔在克服{g|Encyclopedia:Spell_Resistance}法术抗力{/g}的{g|Encyclopedia:Caster_Level}施法者等级{/g}和{g|Encyclopedia:Knowledge_Arcana}知识（神秘）{/g}检定获得+2种族{g|Encyclopedia:Bonus}加值{/g}。该种族{g|Encyclopedia:Trait}特性{/g}替换氏族技能奖励和类法术能力。"
+  },
+  {
+    "Key": "AlternateRacialTraits.Features.Aasimar.CrusadingMagic.DisplayName",
+    "ProcessTemplates": false,
+    "zhCN": "圣战魔法"
+  },
+  {
+    "Key": "AlternateRacialTraits.Features.Aasimar.DeathlessSpirit.Description",
+    "ProcessTemplates": false,
+    "zhCN": "一些意志特别坚强的神裔可以抵御死亡的力量。他们获得5点负能量{g|Encyclopedia:Energy_Resistance}抗力{/g}。当他们获得负向等级时将不会同时损失{g|Encyclopedia:HP}生命值{/g}，在针对即死效果、能量吸取、负能量和{g|Encyclopedia:Necromancy}死灵{/g}学派的{g|Encyclopedia:Spells}法术{/g}或类法术效果时，{g|Encyclopedia:Saving_Throw}豁免检定{/g}获得+2种族{g|Encyclopedia:Bonus}加值{/g}。该种族{g|Encyclopedia:Trait}特性{/g}替换天界抗性。"
+  },
+  {
+    "Key": "AlternateRacialTraits.Features.Aasimar.DeathlessSpirit.DisplayName",
+    "ProcessTemplates": false,
+    "zhCN": "不灭之灵"
+  },
+  {
+    "Key": "AlternateRacialTraits.Features.Aasimar.ExaltedResistance.Description",
+    "ProcessTemplates": false,
+    "zhCN": "在面对拥有邪恶{g|Encyclopedia:Spell_Descriptor}描述符{/g}的法术或类法术，或是由邪恶异界生物施放的{g|Encyclopedia:Spells}法术{/g}或类法术能力时，这项种族{g|Encyclopedia:Trait}特性{/g}将赋予神裔相当于5+角色{g|Encyclopedia:Character_Level}等级{/g}的{g|Encyclopedia:Spell_Resistance}法术抗力{/g}。该种族{g|Encyclopedia:Trait}特性{/g}替换天界抗性。"
+  },
+  {
+    "Key": "AlternateRacialTraits.Features.Aasimar.ExaltedResistance.DisplayName",
+    "ProcessTemplates": false,
+    "zhCN": "崇善抗力"
+  },
+  {
+    "Key": "AlternateRacialTraits.Features.Aasimar.Heavenborn.Description",
+    "ProcessTemplates": false,
+    "zhCN": "有些神裔在天界出生。该种族{g|Encyclopedia:Trait}特性{/g}让神裔在{g|Encyclopedia:Knowledge_Arcana}知识（神秘）{/g}检定上获得+2{g|Encyclopedia:Bonus}加值{/g}，并且他们在施放带有善良或光亮{g|Encyclopedia:Spell_Descriptor}描述符{/g}的{g|Encyclopedia:Spells}法术{/g}时视为{g|Encyclopedia:Caster_Level}施法者等级{/g}比实际高1级。该种族{g|Encyclopedia:Trait}特性{/g}取代氏族技能奖励和类法术能力。"
+  },
+  {
+    "Key": "AlternateRacialTraits.Features.Aasimar.Heavenborn.DisplayName",
+    "ProcessTemplates": false,
+    "zhCN": "生于天界"
+  },
+  {
+    "Key": "AlternateRacialTraits.Features.Aasimar.LostPromise.Description",
+    "ProcessTemplates": false,
+    "zhCN": "许多人把神裔的美态和天界之力当作一份礼物，但在一些社区中这份独特可能变成被迫害的原因，从而使神裔坠入黑暗。邪恶的力量对于他们的天界同行赐予的礼物被歪曲而感到愉悦。只要他们保持在邪恶{g|Encyclopedia:Alignment}阵营{/g}，他们获得魔裔的尖牙利爪种族替换特性。该种族{g|Encyclopedia:Trait}特性{/g}取代类法术能力。"
+  },
+  {
+    "Key": "AlternateRacialTraits.Features.Aasimar.LostPromise.DisplayName",
+    "ProcessTemplates": false,
+    "zhCN": "失落之约"
+  },
+  {
+    "Key": "AlternateRacialTraits.Features.Tiefling.TieflingFeatureSelection.Description",
+    "ProcessTemplates": false,
+    "zhCN": "有以下种族特性可选"
+  },
+  {
+    "Key": "AlternateRacialTraits.Features.Tiefling.TieflingFeatureSelection.DisplayName",
+    "ProcessTemplates": false,
+    "zhCN": "种族替换特性"
+  },
+  {
+    "Key": "AlternateRacialTraits.Features.Tiefling.BeguilingLiar.Description",
+    "ProcessTemplates": false,
+    "zhCN": "许多魔裔发现世间最好的处事方法就是说别人想听的话。这些魔裔擅长欺骗敌人，并把谎言说得和真的一样，这使得他们在唬骗检定上获得+4种族{g|Encyclopedia:Bonus}加值{/g}。该种族{g|Encyclopedia:Trait}特性{/g}取代氏族技能奖励。"
+  },
+  {
+    "Key": "AlternateRacialTraits.Features.Tiefling.BeguilingLiar.DisplayName",
+    "ProcessTemplates": false,
+    "zhCN": "妄语虚言"
+  },
+  {
+    "Key": "AlternateRacialTraits.Features.Tiefling.FiendishSorcery.DisplayName",
+    "ProcessTemplates": false,
+    "zhCN": "炼狱魔力"
+  },
+  {
+    "Key": "AlternateRacialTraits.Features.Tiefling.MawOrClaw.Description",
+    "ProcessTemplates": false,
+    "zhCN": "有的魔裔呈现出更多他们残忍祖先的兽性特征。这些魔裔拥有强有力的尖牙或危险的利爪。魔裔可以选择造成1d6{g|Encyclopedia:Damage}伤害{/g}的啮咬或者两次每次造成1d4{g|Encyclopedia:Damage}伤害{/g}的爪抓{g|Encyclopedia:Attack}攻击{/g}。这些攻击方式属于{g|Encyclopedia:NaturalAttack}主要天生武器{/g}。该种族{g|Encyclopedia:Trait}特性{/g}取代类法术能力。"
+  },
+  {
+    "Key": "AlternateRacialTraits.Features.Tiefling.MawOrClaw.MawDisplayName",
+    "ProcessTemplates": false,
+    "zhCN": "尖牙利爪（啮咬）"
+  },
+  {
+    "Key": "AlternateRacialTraits.Features.Tiefling.MawOrClaw.ClawDisplayName",
+    "ProcessTemplates": false,
+    "zhCN": "尖牙利爪（爪抓）"
+  },
+  {
+    "Key": "AlternateRacialTraits.Features.Tiefling.MawOrClaw.DisplayName",
+    "ProcessTemplates": false,
+    "zhCN": "尖牙利爪"
+  },
+  {
+    "Key": "AlternateRacialTraits.Features.Tiefling.ScaledSkin.Description",
+    "ProcessTemplates": false,
+    "zhCN": "某些魔裔的皮肤给予他们能量抗力，同时也坚硬如甲。选择以下{g|Encyclopedia:Energy_Damage}能量{/g}类型之一：寒冷，电击或火焰。拥有该{g|Encyclopedia:Trait}特性{/g}的魔裔获得5点该种类型的能量{g|Encyclopedia:.Energy_Resistance}抗力{/g}，并且还在{g|Encyclopedia:.Armor_Class}AC{/g}上获得1点天生防御{g|Encyclopedia:Bonus}加值{/g}。该种族{g|Encyclopedia:Trait}特性{/g}取代魔界抗力。"
+  },
+  {
+    "Key": "AlternateRacialTraits.Features.Tiefling.ScaledSkin.DisplayName",
+    "ProcessTemplates": false,
+    "zhCN": "鳞片皮肤"
+  },
+  {
+    "Key": "AlternateRacialTraits.Features.Tiefling.ScaledSkin.DisplayName.Fire",
+    "ProcessTemplates": false,
+    "zhCN": "鳞片皮肤（火焰）"
+  },
+  {
+    "Key": "AlternateRacialTraits.Features.Tiefling.ScaledSkin.DisplayName.Cold",
+    "ProcessTemplates": false,
+    "zhCN": "鳞片皮肤（寒冷）"
+  },
+  {
+    "Key": "AlternateRacialTraits.Features.Tiefling.ScaledSkin.DisplayName.Electricity",
+    "ProcessTemplates": false,
+    "zhCN": "鳞片皮肤（电击）"
+  },
+  {
+    "Key": "AlternateRacialTraits.Features.Tiefling.SmiteGood.Description",
+    "ProcessTemplates": false,
+    "zhCN": "每日一次，魔裔可以制裁一个善良阵营的目标。花费一个{g|Encyclopedia:Swift_Action}迅捷动作{/g}，该生物选择制裁视线内的一个目标。若该目标属于善良阵营，在攻击该目标时，可将{g|Encyclopedia:Charisma}魅力{/g}加值（若存在加值）加到{g|Encyclopedia:Attack}攻击检定{/g}上，同时{g|Encyclopedia:Damage}伤害{/g}检定获得等于{g|Encyclopedia:Hit_Dice}生命骰数{/g}的{g|Encyclopedia:Bonus}加值{/g}。此效果会持续到魔裔首次成功击中该目标。该种族{g|Encyclopedia:Trait}特性{/g}取代炼狱魔力和类法术能力。"
+  },
+  {
+    "Key": "AlternateRacialTraits.Features.Tiefling.SmiteGood.DisplayName",
+    "ProcessTemplates": false,
+    "zhCN": "辟善斩"
   }
 ]
