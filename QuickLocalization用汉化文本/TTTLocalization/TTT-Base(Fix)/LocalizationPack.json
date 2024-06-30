@@ -14983,5 +14983,104 @@
       "zhCN": "奥术超魔熟稔（实体幽影）",
       "esES": null
     },
+   {
+      "Key": "7e1d3fbe10e740068e2301cb4e267efb",
+      "SimpleName": "ArmorFocusHeavyMythicFeatureOffence.Name",
+      "ProcessTemplates": false,
+      "enGB": "Mythic Heavy Armor — Assault",
+      "ruRU": null,
+      "deDE": null,
+      "frFR": null,
+      "zhCN": "神话重甲（突击）",
+      "esES": null
+    },
+    {
+      "Key": "07fdd4079cef4b08b31c9487dcdf786e",
+      "SimpleName": "ArmorFocusHeavyMythicFeatureVar1.Name",
+      "ProcessTemplates": false,
+      "enGB": "Mythic Heavy Armor — Endurance",
+      "ruRU": null,
+      "deDE": null,
+      "frFR": null,
+      "zhCN": "神话重甲（耐久）",
+      "esES": null
+    },
+    {
+      "Key": "32da6e28176743bdad259673633e8411",
+      "SimpleName": "ArmorFocusHeavyMythicFeatureVar2.Name",
+      "ProcessTemplates": false,
+      "enGB": "Mythic Heavy Armor — Avoidance",
+      "ruRU": null,
+      "deDE": null,
+      "frFR": null,
+      "zhCN": "神话重甲（闪躲）",
+      "esES": null
+    },
+    {
+      "Key": "91b26fa168b9484db46e87a821b7e43e",
+      "SimpleName": "ArmorFocusLightMythicFeature.Name",
+      "ProcessTemplates": false,
+      "enGB": "Mythic Light Armor — Avoidance",
+      "ruRU": null,
+      "deDE": null,
+      "frFR": null,
+      "zhCN": "神话轻甲（闪躲）",
+      "esES": null
+    },
+    {
+      "Key": "e7b6ab66a49e44a894e5a5ccc8d9a4eb",
+      "SimpleName": "ArmorFocusLightMythicFeatureVar2.Name",
+      "ProcessTemplates": false,
+      "enGB": "Mythic Light Armor — Endurance",
+      "ruRU": null,
+      "deDE": null,
+      "frFR": null,
+      "zhCN": "神话轻甲（耐久）",
+      "esES": null
+    },
+    {
+      "Key": "52664c2c3fb0425db6ae61e26028b214",
+      "SimpleName": "ArmorFocusLightMythicOffenceFeature.Name",
+      "ProcessTemplates": false,
+      "enGB": "Mythic Light Armor — Assault",
+      "ruRU": null,
+      "deDE": null,
+      "frFR": null,
+      "zhCN": "神话轻甲（突击）",
+      "esES": null
+    },
+    {
+      "Key": "2949a13aa6884a3a8952ed87a3f3485f",
+      "SimpleName": "ArmorFocusMediumMythicFeatureOffence.Name",
+      "ProcessTemplates": false,
+      "enGB": "Mythic Medium Armor — Assault",
+      "ruRU": null,
+      "deDE": null,
+      "frFR": null,
+      "zhCN": "神话中甲（突击）",
+      "esES": null
+    },
+    {
+      "Key": "14857f240f3c4deab0dbaf4a4ee255e3",
+      "SimpleName": "ArmorFocusMediumMythicFeatureVar1.Name",
+      "ProcessTemplates": false,
+      "enGB": "Mythic Medium Armor — Avoidance",
+      "ruRU": null,
+      "deDE": null,
+      "frFR": null,
+      "zhCN": "神话中甲（闪躲）",
+      "esES": null
+    },
+    {
+      "Key": "1cdc0cf64f30418b951ff7a6c7245b16",
+      "SimpleName": "ArmorFocusMediumMythicFeatureVar2.Name",
+      "ProcessTemplates": false,
+      "enGB": "Mythic Medium Armor — Endurance",
+      "ruRU": null,
+      "deDE": null,
+      "frFR": null,
+      "zhCN": "神话中甲（耐久）",
+      "esES": null
+    }
   ]
 }
