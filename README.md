@@ -4462,6 +4462,7 @@ C:\Users\你的用户名\AppData\LocalLow\Owlcat Games\Pathfinder Wrath Of The R
 > *中文：* **QL汉化**<br>
 > *安装方式：* **非UMM**<br>
 > *新增内容：* 原创魔战士，用部分职业能力换取武器训练护甲训练能力
+**注意，本MOD会使得【重装魔战】失效，只能选择其一使用**
 <table>
 <tr><th colspan="3">修改列表<br></th></tr> 
        <tr><td rowspan="2">新增变体</td>
