@@ -220,6 +220,16 @@
     "zhCN": "不断在两个社会的边缘游走，一些半精灵擅长寻找那些被忽视的机会。他们在借机攻击上获得+1种族加值。该特性替代一技之长和敏锐直觉。"
   },
   {
+    "Key": "AlternateRacialTraits.Features.HalfElf.WeaponFamiliarity.DisplayName",
+    "ProcessTemplates": false,
+    "zhCN": "武器熟练"
+  },
+  {
+    "Key": "AlternateRacialTraits.Features.HalfElf.WeaponFamiliarity.Description",
+    "ProcessTemplates": false,
+    "zhCN": "在精灵中长大的半精灵经常感到他们长寿的亲属的怜悯和不信任，但他们也接受了精灵武器的训练。他们获得精灵武器熟练{g|Encyclopedia:Trait}特性{/g}，该特性取代一技之长。"
+  },
+  {
     "Key": "AlternateRacialTraits.Features.Human.EyeForTalent.DisplayName",
     "ProcessTemplates": false,
     "zhCN": "天赋之眼"
