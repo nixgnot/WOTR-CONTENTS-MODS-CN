@@ -1,0 +1,1139 @@
+[
+  {
+    "Key": "Swashbuckler.Name",
+    "ProcessTemplates": false,
+    "enGB": "Swashbuckler",
+    "zhCN": "游荡剑客"
+  },
+
+  {
+    "Key": "Swashbuckler.Description",
+    "enGB": "Combining fancy footwork with quick and precise lunges, swashbucklers dart in and out of battle, harassing and thwarting their opponents. These fast and agile combatants serve as protectors for spellcasters and flank mates for rogues and slayers, while waiting for the opportunity to show panache and score the killing blow on some lumbering hulk. Swashbucklers often face death with wry humor, mocking it with jabbing wit.",
+    "zhCN": "游荡剑客使用梦幻般的步伐和快而精准的突刺，进出战场扰乱和阻碍敌人。这个快速而敏捷的战士是施法者的护卫，也是盗贼和杀手的好战友，在有机会展示自己的勇气并对那些大笨蠢物进行最后一击之前，游荡剑客会用幽默的态度直面死亡，并且用自己的智慧狠狠地进行还击。"
+  },
+
+  {
+    "Key": "Proficiencies.Name",
+    "ProcessTemplates": false,
+    "enGB": "Swashbuckler Proficiencies",
+    "zhCN": "游荡剑客擅长"
+  },
+
+  {
+    "Key": "Proficiencies.Description",
+    "enGB": "Swashbucklers are proficient with simple and martial weapons, as well as light armor and bucklers.",
+    "zhCN": "游荡剑客擅长所有的简单和军用武器。游荡剑客擅长所有的轻甲以及小圆盾。"
+  },
+
+  {
+    "Key": "Panache.Name",
+    "ProcessTemplates": false,
+    "enGB": "Panache",
+    "zhCN": "派头"
+  },
+
+  {
+    "Key": "Panache.Description",
+    "enGB": "More than just a lightly armored warrior, a swashbuckler is a daring combatant. She fights with panache: a fluctuating measure of a swashbuckler’s ability to perform amazing actions in combat. At the start of each day, a swashbuckler gains a number of panache points equal to her Charisma modifier (minimum 1). Her panache goes up or down throughout the day, but usually cannot go higher than her Charisma modifier (minimum 1), though feats and magic items can affect this maximum. A swashbuckler spends panache to accomplish deeds (see below), and regains panache in the following ways.\nCritical Hit with a Light or One-Handed Piercing Melee Weapon: Each time the swashbuckler confirms a critical hit with a light or one-handed piercing melee weapon, she regains 1 panache point. Confirming a critical hit on a helpless or unaware creature or a creature that has fewer Hit Dice than half the swashbuckler’s character level doesn’t restore panache.\nKilling Blow with a Light or One-Handed Piercing Melee Weapon: When the swashbuckler reduces a creature to 0 or fewer hit points with a light or one-handed piercing melee weapon attack while in combat, she regains 1 panache point. Destroying an unattended object, reducing a helpless or unaware creature to 0 or fewer hit points, or reducing a creature that has fewer Hit Dice than half the swashbuckler’s character level to 0 or fewer hit points doesn’t restore any panache.",
+    "zhCN": "游荡剑客不仅仅是一个穿着轻甲的战士，她还是个有派头的战斗者。游荡剑客使用时髦值作战：这是一种表示游荡剑客在战斗中完成惊人动作的能力的指标。在每天开始时，游荡剑客在时髦值上获得等于其魅力调整值的点数（至少为1）。时髦值在一天当中不停上下浮动，但一般不能高于游荡剑客的魅力调整值（至少为1），不过一些专长和魔法物品可能会影响这一最大值。游荡剑客花费时髦值来完成壮举（见下文），并通过下述方式恢复时髦值。\n轻型或单手穿刺近战武器重击：每当游荡剑客在战斗中使用轻型或单手穿刺武器重击并成功确认时，她恢复1点时髦值。对无助或无知觉的生物、或对生命骰数低于游荡剑客人物等级一半的生物造成重击，并不会恢复时髦值。\n使用轻型或单手穿刺近战武器做出致命一击：每当游荡剑客在战斗中使用轻型或单手穿刺武器将一个生物的生命值降至0或更低时，她恢复1点时髦值。破坏一个目标或其他无主物品，击杀无助、无知觉、或者生命骰数低于游荡剑客人物等级一半的生物，并不会恢复时髦值。"
+  },
+
+  {
+    "Key": "Panache.DescriptionShort",
+    "enGB": "More than just a lightly armored warrior, a swashbuckler is a daring combatant. She fights with panache: a fluctuating measure of a swashbuckler’s ability to perform amazing actions in combat. At the start of each day, a swashbuckler gains a number of panache points equal to her Charisma modifier (minimum 1). Her panache goes up or down throughout the day, but usually cannot go higher than her Charisma modifier (minimum 1), though feats and magic items can affect this maximum.",
+    "zhCN": "游荡剑客不仅仅是一个穿着轻甲的战士，她还是个有派头的战斗者。游荡剑客使用时髦值作战：这是一种表示游荡剑客在战斗中完成惊人动作的能力的指标。在每天开始时，游荡剑客在时髦值上获得等于其魅力调整值的点数（至少为1）。时髦值在一天当中不停上下浮动，但一般不能高于游荡剑客的魅力调整值（至少为1），不过一些专长和魔法物品可能会影响这一最大值。"
+  },
+
+  {
+    "Key": "Finesse.Name",
+    "ProcessTemplates": false,
+    "enGB": "Swashbuckler Finesse",
+    "zhCN": "巧手游荡剑客"
+  },
+
+  {
+    "Key": "Finesse.Description",
+    "enGB": "At 1st level, a swashbuckler gains the benefits of the Weapon Finesse feat with light or one-handed piercing melee weapons, and she can use her Charisma score in place of Intelligence as a prerequisite for combat feats. This ability counts as having the Weapon Finesse feat for purposes of meeting feat prerequisites.",
+    "zhCN": "1级时，游荡剑客在使用轻型或单手穿刺类近战武器时获得武器娴熟专长的效果。除此之外，游荡剑客可以用魅力属性代替智力满足战斗专长的前提。这个职业能力在满足其他专长的前提条件时视作“武器娴熟”专长。"
+  },
+
+  {
+    "Key": "CharmedLife.Name",
+    "ProcessTemplates": false,
+    "enGB": "Charmed Life",
+    "zhCN": "快乐人生"
+  },
+
+  {
+    "Key": "CharmedLife.Description",
+    "enGB": "At 2nd level, the swashbuckler gains a knack for getting out of trouble. Three times per day as an immediate action before attempting a saving throw, she can add her Charisma modifier to the result of the save. She must choose to do this before the roll is made. At 6th level and every 4 levels thereafter, the number of times she can do this per day increases by one (to a maximum of 7 times per day at 18th level).",
+    "zhCN": "2级时，游荡剑客学会了怎么避免麻烦。每天3次，在尝试进行一次豁免检定前，用一个直觉动作，游荡剑客可以将自己的魅力加值加到豁免结果上。她必须在投骰之前决定使用这个能力，并且每次进行豁免只能使用一次这种能力。在6级和之后的每4级，游荡剑客会获得1次额外的该能力使用次数（18级时最大每天7次）。"
+  },
+
+  {
+    "Key": "Nimble.Name",
+    "ProcessTemplates": false,
+    "enGB": "Nimble",
+    "zhCN": "机敏"
+  },
+
+  {
+    "Key": "Nimble.Description",
+    "enGB": "At 3rd level, a swashbuckler gains a +1 dodge bonus to AC while wearing light or no armor. Anything that causes the swashbuckler to lose her Dexterity bonus to AC also causes her to lose this dodge bonus. This bonus increases by 1 for every 4 levels beyond 3rd (to a maximum of +5 at 19th level).",
+    "zhCN": "3级起，当游荡剑客穿着轻甲或无甲时AC获得+1闪避加值。任何使游荡剑客无法将敏捷加至AC的效果均会令本能力无效。此加值在3级后的每4级再+1，19级时为最大的+5。"
+  },
+
+  {
+    "Key": "FTraining.Name",
+    "ProcessTemplates": false,
+    "enGB": "Fighter Training",
+    "zhCN": "战士训练"
+  },
+
+  {
+    "Key": "FTraining.Description",
+    "enGB": "Swashbuckler levels are considered fighter levels for the purpose of meeting combat feat prerequisites.",
+    "zhCN": "在选择战斗专长时，游荡剑客等级可以作为战士等级满足专长的前提条件。"
+  },
+
+  {
+    "Key": "BFeat.Name",
+    "ProcessTemplates": false,
+    "enGB": "Bonus Feats",
+    "zhCN": "额外专长"
+  },
+
+  {
+    "Key": "BFeat.Description",
+    "enGB": "At 4th level and every 4 levels thereafter, a swashbuckler gains a bonus feat in addition to those gained from normal advancement. These bonus feats must be selected from those listed as combat feats.",
+    "zhCN": "4级以及之后每4级，游荡剑客在正常提升之外获得一项额外专长。这些额外专长必须为战斗专长。"
+  },
+
+  {
+    "Key": "WTraining.Name",
+    "ProcessTemplates": false,
+    "enGB": "Swashbuckler Weapon Training",
+    "zhCN": "游荡剑客武器训练"
+  },
+
+  {
+    "Key": "WTraining.Description",
+    "enGB": "At 5th level, a swashbuckler gains a +1 bonus on attack and damage rolls with one-handed or light piercing melee weapons. While wielding such a weapon, she gains the benefit of the Improved Critical feat. These attack and damage bonuses increase by 1 for every 4 levels beyond 5th level (to a maximum of +4 at 17th level).",
+    "zhCN": "5级时，游荡剑客在使用单手或轻型穿刺近战武器时在攻击和伤害检定时获得+1加值。除此以外，当使用单手或轻型近战武器时，游荡剑客还会获得对应的精通重击专长效果。这个加值在5级后的每4级会额外加1（最大在17级时达到+4）。"
+  },
+
+  {
+    "Key": "WMastery.Name",
+    "ProcessTemplates": false,
+    "enGB": "Swashbuckler Weapon Mastery",
+    "zhCN": "游荡剑客武器大师"
+  },
+
+  {
+    "Key": "WMastery.Description",
+    "enGB": "At 20th level, when a swashbuckler threatens a critical hit with a light or one-handed piercing melee weapon, that critical is automatically confirmed. Furthermore, the critical modifiers of such weapons increase by 1 (×2 becomes ×3, and so on).",
+    "zhCN": "20级时，当游荡剑客在使用单手或轻型穿刺近战武器造成重击威胁时，重击确认自动成功。额外地，游荡剑客重击时的伤害倍数将会额外加1（如X2会变为X3）。"
+  },
+
+  {
+    "Key": "Deeds.Name",
+    "ProcessTemplates": false,
+    "enGB": "Deeds",
+    "zhCN": "炫技"
+  },
+
+  {
+    "Key": "Deeds.Description",
+    "enGB": "Swashbucklers spend panache points to accomplish deeds. Most deeds grant the swashbuckler a momentary bonus or effect, but some provide longer-lasting effects. Some deeds remain in effect while the swashbuckler has at least 1 panache point, but do not require expending panache to be maintained. A swashbuckler can only perform deeds of her level or lower. Unless otherwise noted, a deed can be performed multiple successive times, as long as the swashbuckler has or spends the required number of panache points to perform the deed.",
+    "zhCN": "游荡剑客花费时髦值来实现炫技。大多数炫技使游荡剑客获得一些短暂的加值或效果，但也有一些提供更长时间的持续性效果。一些炫技在游荡剑客拥有至少1点时髦值下持续生效。下面列出了游荡剑客的基本炫技。游荡剑客只能使用等于或低于她等级的炫技。除非特别说明，炫技通常都可以连续多次使用，只要花费对应该动作的适当时髦值即可。"
+  },
+
+  {
+    "Key": "Derring.Name",
+    "ProcessTemplates": false,
+    "enGB": "Derring Do",
+    "zhCN": "大胆特技"
+  },
+
+  {
+    "Key": "Derring.Description",
+    "enGB": "At 1st level, a swashbuckler can spend 1 panache point when she makes an Athletics or Mobility check to roll 1d6 and add the result to the check. She can do this after she makes the check but before the result is revealed. If the result of the d6 roll is a natural 6, she rolls another 1d6 and adds it to the check. She can continue to do this as long as she rolls natural 6s, up to a number of times equal to her Dexterity modifier (minimum 1).",
+    "zhCN": "1级时，一名游荡剑客可以在她进行运动或灵巧检定时花费1点时髦值来投一个D6并将结果加到检定结果上。她必须在进行检定之前使用这个能力。如果这次D6投出了自然“6”，她能再投掷一个D6并将结果也加入检定结果。一个游荡剑客最多能通过投出自然“6”继续投骰的次数等于她的敏捷调整值（至少1次）。"
+  },
+
+  {
+    "Key": "Dodging.Name",
+    "ProcessTemplates": false,
+    "enGB": "Dodging Panache",
+    "zhCN": "闪避派头"
+  },
+
+  {
+    "Key": "Dodging.Description",
+    "enGB": "At 1st level, when an opponent attempts a melee attack against the swashbuckler, the swashbuckler can spend 1 panache point to move 5 feet; doing so grants the swashbuckler a dodge bonus to AC equal to her Charisma modifier (minimum 0) against the triggering attack. This movement doesn’t negate the attack, which is still resolved as if the swashbuckler had not moved from the original square. This movement is not a 5-foot step; it provokes attacks of opportunity from creatures other than the one who triggered this deed. The swashbuckler can only perform this deed while wearing light or no armor, and while carrying no heavier than a light load.",
+    "zhCN": "1级时，当一名敌人试图对游荡剑客发动近战攻击时，她可以花费1点时髦值移动5尺，针对此次攻击的AC将获得等同于魅力调整值的加值。这次移动并不能使此次攻击无效，就好像游荡剑客在受到攻击时仍然处在原来的位置，此移动并非5尺快步，因此也会引发除了那个发动攻击的敌人以外的其他敌人的藉机攻击。游荡剑客只能在穿着轻甲或无甲，且负载不超过轻载时使用此炫技。"
+  },
+
+  {
+    "Key": "SwashParry.Name",
+    "ProcessTemplates": false,
+    "enGB": "Opportune Parry and Riposte",
+    "zhCN": "适时格挡反击"
+  },
+
+  {
+    "Key": "SwashParry.Description",
+    "enGB": "At 1st level, when an opponent makes a melee attack against the swashbuckler, she can spend 1 panache point and expend a use of an attack of opportunity to attempt to parry that attack. The swashbuckler makes an attack roll as if she were making an attack of opportunity; for each size category the attacking creature is larger than the swashbuckler, the swashbuckler takes a –2 penalty on this roll. If her result is greater than the attacking creature’s result, the creature’s attack automatically misses. The swashbuckler must declare the use of this ability after the creature’s attack is announced, but before its attack roll is made. Upon performing a successful parry and if she has at least 1 panache point, the swashbuckler can as an immediate action make an attack against the creature whose attack she parried, provided that creature is within her reach. This deed’s cost cannot be reduced by any ability or effect that reduces the number of panache points a deed costs.",
+    "zhCN": "1级时，当一名敌人向游荡剑客发动近战攻击时，她可以花费1点时髦值并使用一次借机攻击的次数来尝试格挡这次攻击。游荡剑客就如同进行一次借机攻击一般做一次攻击检定。如果她的攻击高于对方的攻击，则这次攻击自动失手。发动攻击的生物每比游荡剑客大一个体形，游荡剑客在这次攻击中都会承受-2的罚值。游荡剑客必须在敌人宣告发动攻击而尚未投掷攻击骰时使用这个能力。在一名游荡剑客进行了一次成功的格挡后，只要她还有至少1点时髦值，并且那个生物在她的触及范围之内，就可以用直觉动作向被她阻挡了攻击的敌人发动一次攻击。这个能力的消耗无法被任何能力或效果减少。"
+  },
+
+  {
+    "Key": "Kip.Name",
+    "ProcessTemplates": false,
+    "enGB": "Kip-Up",
+    "zhCN": "鲤鱼打挺"
+  },
+
+  {
+    "Key": "Kip.Description",
+    "enGB": "At 3rd level, while the swashbuckler has at least 1 panache point, she can kip-up from prone as a move action without provoking an attack of opportunity. She can kip-up as a swift action instead by spending 1 panache point.",
+    "zhCN": "3级时，，只要游荡剑客拥有至少1点时髦值，她就能用一个移动动作在不造成藉机攻击的情况下从倒地状态起身。如果她使用1点时髦值，就能用迅捷动作而非移动动作起身。"
+  },
+
+  {
+    "Key": "Menacing.Name",
+    "ProcessTemplates": false,
+    "enGB": "Menacing Swordplay",
+    "zhCN": "威胁剑舞"
+  },
+
+  {
+    "Key": "Menacing.Description",
+    "enGB": "At 3rd level, while she has at least 1 panache point, when a swashbuckler hits an opponent with a light or one-handed piercing melee weapon, she can choose to use Intimidate to demoralize that opponent as a swift action instead of a standard action.",
+    "zhCN": "3级时，只要游荡剑客拥有至少1点时髦值，她就能在使用一个轻型或单手穿刺近战武器命中目标时使用迅捷动作威吓来挫败敌人士气，而非通常的标准动作。"
+  },
+
+  {
+    "Key": "Precise.Name",
+    "ProcessTemplates": false,
+    "enGB": "Precise Strike",
+    "zhCN": "精确刺击"
+  },
+
+  {
+    "Key": "Precise.Description",
+    "enGB": "At 3rd level, while she has at least 1 panache point, a swashbuckler gains the ability to strike precisely with a light or one-handed piercing melee weapon (though not natural weapon attacks), adding her swashbuckler level to the damage dealt. To use this deed, a swashbuckler cannot attack with a weapon in her other hand or use a shield other than a buckler. She can even use this ability with thrown light or one-handed piercing melee weapons, so long as the target is within 30 feet of her. Any creature that is immune to sneak attacks is immune to the additional damage granted by precise strike, and any item or ability that protects a creature from critical hits also protects a creature from the additional damage of a precise strike. This additional damage is precision damage, and isn’t multiplied on a critical hit. As a swift action, a swashbuckler can spend 1 panache point to double her precise strike’s damage bonus on the next attack. This benefit must be used before the end of her turn, or it is lost. This deed’s cost cannot be reduced by any ability or effect that reduces the amount of panache points a deed costs (such as the Signature Deed feat).",
+    "zhCN": "3级时，只要游荡剑客拥有至少1点时髦值，在使用轻型或单手穿刺类近战武器（不能是天生武器）进行攻击时，游荡剑客将她的游荡剑客等级加到伤害上。使用精确刺击时，游荡剑客不能使用另一只手持用武器攻击或持用小圆盾以外的盾牌。另外，只要敌人在距离游荡剑客30尺以内，她还能将精确刺击能力用于轻型或单手穿刺类投掷武器上。任意免疫重击的生物都不受精确刺击影响，并且任意可以防止重击的物品或能力也可以保护生物不受影响。精确刺击造成的额外伤害是精准伤害，因此不能因为重击而翻倍。使用1个迅捷动作，一名游荡剑客可以花费1点时髦值使她的下一次精确刺击伤害翻倍。这次攻击必须在她的回合结束前进行，否则就会失去这个效果。此壮举消耗的时髦值点数，无法通过任何降低时髦值消耗的能力或效果（如标志动作专长）所降低。"
+  },
+
+  {
+    "Key": "PreciseAbility.Description",
+    "enGB": "As a swift action, a swashbuckler can spend 1 panache point to double her precise strike’s damage bonus on the next attack. This benefit must be used before the end of her turn, or it is lost. This deed’s cost cannot be reduced by any ability or effect that reduces the amount of panache points a deed costs (such as the Signature Deed feat).",
+    "zhCN": "使用1个迅捷动作，一名游荡剑客可以花费1点时髦值使她的下一次精确刺击伤害翻倍。这次攻击必须在她的回合结束前进行，否则就会失去这个效果。此壮举消耗的时髦值点数，无法通过任何降低时髦值消耗的能力或效果（如标志动作专长）所降低。"
+  },
+
+  {
+    "Key": "Initiative.Name",
+    "ProcessTemplates": false,
+    "enGB": "Swashbuckler Initiative",
+    "zhCN": "游荡剑客之反应"
+  },
+
+  {
+    "Key": "Initiative.Description",
+    "enGB": "At 3rd level, while the swashbuckler has at least 1 panache point, she gains a +2 bonus on initiative checks.",
+    "zhCN": "3级时，只要游荡剑客拥有至少1点时髦值，游荡剑客在先攻检定中获得+2加值。除此以外，如果游荡剑客拥有“即时备战”专长，她的手空闲且没有被束缚，并且她的武器并非被藏匿，她就能用拔出一把轻型或单手穿刺武器作为进行先攻检定的一部分。"
+  },
+
+  {
+    "Key": "Grace.Name",
+    "ProcessTemplates": false,
+    "enGB": "Swashbuckler's Grace",
+    "zhCN": "游荡剑客之优雅"
+  },
+
+  {
+    "Key": "Grace.Description",
+    "enGB": "At 7th level, while the swashbuckler has at least 1 panache point, she moves at full speed when she uses Acrobatics to attempt to move through a threatened area or an enemy’s space.",
+    "zhCN": "7级时，只要游荡剑客拥有至少1点时髦值，就可以在使用特技动作检定尝试穿越敌人威胁范围或占据区域的时候不减速。"
+  },
+
+  {
+    "Key": "GraceAbility.Description",
+    "enGB": "You can move through a threatened square without provoking an attack of opportunity from an enemy by using Swashbuckler's Grace while you have more than 1 panache.",
+    "zhCN": "拥有拥有至少1点时髦值时，就可以使用游荡剑客之优雅穿越敌人威胁范围时不会受到借机攻击。"
+  },
+
+  {
+    "Key": "FeintDebuff.Name",
+    "ProcessTemplates": false,
+    "enGB": "Feinted",
+    "zhCN": "佯攻"
+  },
+
+  {
+    "Key": "FeintDebuff.Description",
+    "enGB": "Denied Dexterity Bonus to AC against melee attacks.",
+    "zhCN": "失去AC上的敏捷加值。"
+  },
+
+  {
+    "Key": "SupFeint.Name",
+    "ProcessTemplates": false,
+    "enGB": "Superior Feint",
+    "zhCN": "迅捷佯攻"
+  },
+
+  {
+    "Key": "SupFeint.Description",
+    "enGB": "At 7th level, a swashbuckler with at least 1 panache point can, as a standard action, purposefully miss a creature she could make a melee attack against with a wielded light or one-handed piercing weapon. When she does, the creature is denied its Dexterity bonus to AC until for two turns.",
+    "zhCN": "7级时，只要游荡剑客拥有至少1点时髦值，就可以使用轻型或单手穿刺类武器用一个标准动作进行一次近战攻击，并主动放弃该次攻击的命中。如果游荡剑客这么做，她的这次近战攻击的目标会在2轮内失去自己AC上的敏捷加值。"
+  },
+
+  {
+    "Key": "TargetedStrike.Name",
+    "ProcessTemplates": false,
+    "enGB": "Targeted Strike",
+    "zhCN": "精确瞄准"
+  },
+
+  {
+    "Key": "TargetedStrike.Description",
+    "enGB": "At 7th level, as a full-round action the swashbuckler can spend 1 panache point to make an attack with a single light or one-handed piercing melee weapon that cripples part of a foe’s body. The swashbuckler chooses a part of the body to target. If the attack succeeds, in addition to the attack’s normal damage, the target suffers one of the following effects based on the part of the body targeted. If a creature doesn’t have one of the listed body locations, that body part cannot be targeted. Creatures that are immune to sneak attacks are also immune to targeted strikes. Items or abilities that protect a creature from critical hits also protect a creature from targeted strikes.",
+    "zhCN": "7级时，游荡剑客可以通过一个整轮动作花费1点时髦值，对目标身体的特定位置进行一次使用轻型或单手穿刺武器的近战攻击，并在攻击命中时获得下列基于该目标肢体部分的对应效果。若某生物并不拥有某项列出的肢体部分，则无法瞄准此肢体。免疫偷袭的生物同样免疫这些效果。并且任意可以防止重击的物品或能力也可以保护生物不受精确瞄准攻击的影响。"
+  },
+
+  {
+    "Key": "TSArms.Name",
+    "ProcessTemplates": false,
+    "enGB": "Targeted Strike - Arms",
+    "zhCN": "精确瞄准 - 手臂"
+  },
+
+  {
+    "Key": "TSArms.Description",
+    "enGB": "The target is disarmed for 2 rounds.",
+    "zhCN": "目标被缴械2轮。"
+  },
+
+  {
+    "Key": "TSHead.Name",
+    "ProcessTemplates": false,
+    "enGB": "Targeted Strike - Head",
+    "zhCN": "精确瞄准 - 头部"
+  },
+
+  {
+    "Key": "TSHead.Description",
+    "enGB": "The target is confused for 1 round.",
+    "zhCN": "目标困惑1轮。"
+  },
+
+  {
+    "Key": "TSLegs.Name",
+    "ProcessTemplates": false,
+    "enGB": "Targeted Strike - Legs",
+    "zhCN": "精确瞄准 - 腿部"
+  },
+
+  {
+    "Key": "TSLegs.Description",
+    "enGB": "The target is knocked prone.",
+    "zhCN": "目标被击倒。"
+  },
+
+  {
+    "Key": "TSTorso.Name",
+    "ProcessTemplates": false,
+    "enGB": "Targeted Strike - Torso",
+    "zhCN": "精确瞄准 - 躯干"
+  },
+
+  {
+    "Key": "TSTorso.Description",
+    "enGB": "The target is staggered for 1 round.",
+    "zhCN": "目标恍惚1轮。"
+  },
+
+  {
+    "Key": "Bleed.Name",
+    "ProcessTemplates": false,
+    "enGB": "Bleeding Wound",
+    "zhCN": "伤口出血"
+  },
+
+  {
+    "Key": "BleedAbility.Description",
+    "enGB": "When the swashbuckler hits a living creature with a light or one-handed piercing melee weapon attack, she can spend 1 panache point to have that attack deal additional bleed damage equal to the swashbuckler’s Dexterity modifier.",
+    "zhCN": "当游荡剑客用轻型或单手穿刺类近战武器攻击命中一个活物时，她可以用一个自由动作花费1点时髦值来令该次攻击造成额外出血伤害。出血伤害值等于游荡剑客的敏捷调整值。"
+  },
+
+  {
+    "Key": "BleedDebuff.Description",
+    "enGB": "This creature takes hit point damage equal to the Swashbuckler's Dexterity modifier each turn. Bleeding can be stopped through the application of any effect that cures hit point damage (even if the bleed is ability damage).",
+    "zhCN": "这个生物每回合受到等于游荡剑客的敏捷调整值的出血伤害。出血可以被任何治疗生命值伤害的效果阻止（即使该出血是属性伤害）。"
+  },
+
+  {
+    "Key": "SBleed.Name",
+    "ProcessTemplates": false,
+    "enGB": "Bleeding Wound - Strength",
+    "zhCN": "伤口出血 - 力量"
+  },
+
+  {
+    "Key": "SBleedAbility.Description",
+    "enGB": "When the swashbuckler hits a living creature with a light or one-handed piercing melee weapon attack, she can spend 2 panache points to have that attack deal 1 point of Strength bleed damage.",
+    "zhCN": "当游荡剑客用轻型或单手穿刺类近战武器攻击命中一个活物时，游荡剑客可以花费2点勇毅值来造成1点力量出血属性伤害。"
+  },
+
+  {
+    "Key": "SBleedDebuff.Description",
+    "enGB": "This creature takes 1 Strength damage each turn. Bleeding can be stopped through the application of any effect that cures hit point damage (even if the bleed is ability damage).",
+    "zhCN": "这个生物每回合受到1力量出血属性伤害。出血可以被任何治疗生命值伤害的效果阻止（即使该出血是属性伤害）。"
+  },
+
+  {
+    "Key": "DBleed.Name",
+    "ProcessTemplates": false,
+    "enGB": "Bleeding Wound - Dexterity",
+    "zhCN": "伤口出血 - 敏捷"
+  },
+
+  {
+    "Key": "DBleedAbility.Description",
+    "enGB": "When the swashbuckler hits a living creature with a light or one-handed piercing melee weapon attack, she can spend 2 panache points to have that attack deal 1 point of Dexterity bleed damage.",
+    "zhCN": "当游荡剑客用轻型或单手穿刺类近战武器攻击命中一个活物时，游荡剑客可以花费2点勇毅值来造成1点敏捷出血属性伤害。"
+  },
+
+  {
+    "Key": "DBleedDebuff.Description",
+    "enGB": "This creature takes 1 Dexterity damage each turn. Bleeding can be stopped through the application of any effect that cures hit point damage (even if the bleed is ability damage).",
+    "zhCN": "这个生物每回合受到1敏捷出血属性伤害。出血可以被任何治疗生命值伤害的效果阻止（即使该出血是属性伤害）。"
+  },
+
+  {
+    "Key": "CBleed.Name",
+    "ProcessTemplates": false,
+    "enGB": "Bleeding Wound - Constitution",
+    "zhCN": "伤口出血 - 体质"
+  },
+
+  {
+    "Key": "CBleedAbility.Description",
+    "enGB": "When the swashbuckler hits a living creature with a light or one-handed piercing melee weapon attack, she can spend 2 panache points to have that attack deal 1 point of Constitution bleed damage.",
+    "zhCN": "当游荡剑客用轻型或单手穿刺类近战武器攻击命中一个活物时，游荡剑客可以花费2点勇毅值来造成1点体质出血属性伤害。"
+  },
+
+  {
+    "Key": "CBleedDebuff.Description",
+    "enGB": "This creature takes 1 Constitution damage each turn. Bleeding can be stopped through the application of any effect that cures hit point damage (even if the bleed is ability damage).",
+    "zhCN": "这个生物每回合受到1体质出血属性伤害。出血可以被任何治疗生命值伤害的效果阻止（即使该出血是属性伤害）。"
+  },
+
+  {
+    "Key": "BWound.Name",
+    "enGB": "Bleeding Wound",
+    "zhCN": "伤口出血"
+  },
+
+  {
+    "Key": "BWound.Description",
+    "enGB": "At 11th level, when the swashbuckler hits a living creature with a light or one-handed piercing melee weapon attack, as a free action she can spend 1 panache point to have that attack deal additional bleed damage. The amount of bleed damage dealt is equal to the swashbuckler’s Dexterity modifier (minimum 1). Alternatively, the swashbuckler can spend 2 panache points to deal 1 point of Strength, Dexterity, or Constitution bleed damage instead (swashbuckler’s choice). Creatures that are immune to sneak attacks are also immune to these types of bleed damage.",
+    "zhCN": "11级时，当游荡剑客用轻型或单手穿刺类近战武器攻击命中一个活物时，她可以用一个自由动作花费1点时髦值来令该次攻击造成额外出血伤害。出血伤害值等于游荡剑客的敏捷调整值。或者替代性的，游荡剑客可以花费2点勇毅值来造成1点力量、敏捷或体质值的出血伤害（随游荡剑客选择）。免疫偷袭伤害的生物同样免疫任意类型的出血伤害。"
+  },
+
+  {
+    "Key": "Evasive.Name",
+    "enGB": "Evasive",
+    "zhCN": "闪避精通"
+  },
+
+  {
+    "Key": "Evasive.Description",
+    "enGB": "At 11th level, while a swashbuckler has at least 1 panache point, she gains the benefits of the evasion, uncanny dodge, and improved uncanny dodge rogue class features. She uses her swashbuckler level as her rogue level for improved uncanny dodge.",
+    "zhCN": "11级时，至少拥有1点时髦值的游荡剑客获得反射闪避、直觉闪避和精通直觉闪避等游荡者职业能力。在计算精通直觉闪避能力时，用游荡剑客等级取代游荡者等级。"
+  },
+
+  {
+    "Key": "Subtle.Name",
+    "enGB": "Subtle Blade",
+    "zhCN": "狡猾之刃"
+  },
+
+  {
+    "Key": "Subtle.Description",
+    "enGB": "At 11th level, while a swashbuckler has at least 1 panache point, she is immune to disarm, steal, and sunder combat maneuvers made against a light or one-handed piercing melee weapon she is wielding.",
+    "zhCN": "11级时，只要游荡剑客拥有至少1点时髦值，她就免疫对于她手持的轻型或单手穿刺类近战武器所发动的缴械、偷窃和破武战技。"
+  },
+
+  {
+    "Key": "Edge.Name",
+    "enGB": "Swashbuckler’s Edge",
+    "zhCN": "游荡剑客之骄傲"
+  },
+
+  {
+    "Key": "Edge.Description",
+    "enGB": "At 15th level, while the swashbuckler has at least 1 panache point, she can take 10 on any Athletics or Mobility check, even while distracted or in immediate danger. She can use this ability in conjunction with the derring-do deed.",
+    "zhCN": "15级时，只要游荡剑客拥有至少1点时髦值，就能在进行运动和灵巧检定时取10，即使处于遭受威胁或分心的情况下。这个能力可以同“大胆特技”能力一起使用。"
+  },
+
+  {
+    "Key": "Dizzying.Name",
+    "enGB": "Dizzying Defense",
+    "zhCN": "炫目防御"
+  },
+
+  {
+    "Key": "Dizzying.Description",
+    "enGB": "At 15th level, while wielding a light or one-handed piercing melee weapon in one hand, the swashbuckler can spend 1 panache point to take the fighting defensively action as a swift action instead of a standard action. When fighting defensively in this manner, the dodge bonus to AC gained from that action increases to +4, and the penalty to attack rolls is reduced to –2.",
+    "zhCN": "15级时，当单手持用轻型或单手穿刺类近战武器时，游荡剑客可以花费一点时髦值用迅捷动作作防御式战斗而非标准动作。当他以此法进行防御式战斗时，该动作提供的闪避AC提高为+4，而攻击罚值减少为-2。"
+  },
+
+  {
+    "Key": "PerfectThrust.Name",
+    "enGB": "Perfect Thrust",
+    "zhCN": "完美穿刺"
+  },
+
+  {
+    "Key": "PerfectThrust.Description",
+    "enGB": "At 15th level, while the swashbuckler has at least 1 panache point, she can as a full-round action make a perfect thrust, pooling all of her attack potential into a single melee attack made with a light or one-handed piercing melee weapon. When she does, she makes the attack against the target’s touch AC, and ignores all damage reduction.",
+    "zhCN": "15级时，只要游荡剑客拥有至少1点时髦值，就可以使用一个整轮动作发动一次完美穿刺。将她的所有攻击潜能都集中在一把轻型或单手穿刺类武器上。当她这么做的时候，她会发动一次攻击，对抗敌人的接触AC，并且忽略敌人的所有伤害减免。"
+  },
+
+  {
+    "Key": "CheatDeath.Name",
+    "enGB": "Cheat Death",
+    "zhCN": "诈死伪装"
+  },
+
+  {
+    "Key": "CheatDeath.Description",
+    "enGB": "At 19th level, whenever the swashbuckler is reduced to 0 hit points or fewer, she can spend all of her remaining panache to instead be reduced to 1 hit point. She must have at least 1 panache point to spend. Effects that kill the swashbuckler outright without dealing hit point damage are not affected by this ability.",
+    "zhCN": "19级时，当游荡剑客至少有1点时髦值时，若他的生命值将要被降至0点或以下，她可以消耗所有当前时髦值使生命值只降至1。直接造成游荡剑客死亡而不作用于生命值的效果不受该能力影响。"
+  },
+
+  {
+    "Key": "Deadly.Name",
+    "enGB": "Deadly Stab",
+    "zhCN": "死亡突刺"
+  },
+
+  {
+    "Key": "Deadly.Description",
+    "enGB": "At 19th level, when the swashbuckler confirms a critical hit with a light or one-handed piercing melee weapon, in addition to the normal damage, she can spend 1 panache point to inflict a deadly stab. The target must succeed at a Fortitude saving throw or die. The DC of this save is 10 + 1/2 the swashbuckler’s level + the swashbuckler’s Dexterity modifier. This is a death attack. Performing this deed does not grant the swashbuckler a panache point.",
+    "zhCN": "19级时，每当游荡剑客使用轻型或单手穿刺类近战武器确认重击时，她可以花费1点时髦值来发动死亡突刺而非造成正常伤害，目标需进行强韧豁免检定，DC等于“10+1/2游荡剑客等级+敏捷调整值”。豁免检定失败则目标死亡。这是个死亡类效果，使用本动作不会使游荡剑客通过造成重击来恢复时髦值。"
+  },
+
+  {
+    "Key": "Stunning.Name",
+    "enGB": "Stunning Stab",
+    "zhCN": "晕眩突刺"
+  },
+
+  {
+    "Key": "Stunning.Description",
+    "enGB": "At 19th level, when a swashbuckler hits a creature with a light or one-handed piercing melee weapon, she can spend 2 panache points to stun the creature for 1 round. The creature must succeed at a Fortitude saving throw (DC = 10 + 1/2 the swashbuckler’s level + the swashbuckler’s Dexterity modifier) or be stunned for 1 round. Creatures that are immune to critical hits are also immune to this effect.",
+    "zhCN": "19级时，每当游荡剑客使用轻型或单手穿刺类近战武器攻击命中时，她可以花费2点时髦值，迫使对方进行DC为“10+1/2游荡剑客等级+敏捷调整值”的强韧豁免，失败则眩晕1轮。免疫重击的生物同样免疫本效果。"
+  },
+
+  {
+    "Key": "InspiredBlade.Name",
+    "enGB": "Inspired Blade",
+    "zhCN": "灵感之刃"
+  },
+
+  {
+    "Key": "InspiredBlade.Description",
+    "enGB": "An inspired blade is both a force of personality and a sage of swordplay dedicated to the perfection of combat with the rapier. They use the science and geometry with swordplay to beautiful and deadly effect.",
+    "zhCN": "灵感之刃同时注重人格和智慧的力量，他们专注于完美使用刺剑作战的武艺。他们用科学和几何学来使自己的剑术同时有着美丽和致命的效果。"
+  },
+
+  {
+    "Key": "InspiredPanache.Name",
+    "enGB": "Inspired Panache",
+    "zhCN": "灵感派头"
+  },
+
+  {
+    "Key": "InspiredPanache.Description",
+    "enGB": "Each day, an inspired blade gains a number of panache points equal to her Charisma modifier (minimum 1) plus her Intelligence modifier (minimum 1), instead of just her Charisma modifier.\n Unlike other swashbucklers, an inspired blade regains no panache from scoring a killing blow. She regains panache only from scoring a critical hit with a rapier.",
+    "zhCN": "每天，一名灵感之刃都会获得等同于他的魅力调整值（至少为1）和智力调整值（至少为1）之和的时髦值，而非仅仅等于魅力调整值的时髦值。\n和其他游荡剑客不同，灵感之刃不会在杀死敌人时回复时髦值。他只会在使用刺剑造成重击时回复时髦值。"
+  },
+
+  {
+    "Key": "InspiredFinesse.Name",
+    "enGB": "Inspired Finesse",
+    "zhCN": "巧手灵感"
+  },
+
+  {
+    "Key": "InspiredFinesse.Description",
+    "enGB": "At 1st level, an inspired blade gains the benefits of Weapon Finesse with the rapier (this ability counts as having the Weapon Finesse feat for the purpose of meeting feat prerequisites) and gains Weapon Focus (rapier) as a bonus feat.",
+    "zhCN": "1级时，一名灵感之刃会在使用刺剑时获得武器娴熟专长的好处（这个职业能力在满足其他专长的前提条件时视作“武器娴熟”专长。），除此之外，他还会获得武器专攻（刺剑）作为额外专长。"
+  },
+
+  {
+    "Key": "InspiredStrike.Name",
+    "enGB": "Inspired Strike",
+    "zhCN": "灵感打击"
+  },
+
+  {
+    "Key": "InspiredStrike.Description",
+    "enGB": "At 11th level, an inspired blade can spend 1 panache point when making an attack with a rapier to gain an insight bonus on that attack roll equal to her Intelligence modifier (minimum +1). When an inspired blade hits with an attack augmented by inspired strike, she can spend 1 additional panache point to make the hit a critical threat, though if she does so, she does not regain panache if she confirms that critical threat. The cost of this deed cannot be reduced by abilities such as Signature Deed.",
+    "zhCN": "11级时，一名灵感之刃可以花费1点时髦值来在使用细剑进行攻击时获得等同于他的智力调整值（至少为1）的洞察加值。当一名灵感之刃使用灵感打击成功命中目标时，他可以额外花费1点时髦值使这次攻击造成重击威胁。如果他这么做了，这次重击确认时不会使他回复时髦值。该炫技的时髦值消耗不能通过类似标志动作专长这样的能力减少。"
+  },
+
+  {
+    "Key": "InspiredStrikeAbility.Description",
+    "enGB": "An inspired blade can spend 1 panache point when making an attack with a rapier to gain an insight bonus on that attack roll equal to her Intelligence modifier (minimum +1).",
+    "zhCN": "一名灵感之刃可以花费1点时髦值来在使用细剑进行攻击时获得等同于他的智力调整值（至少为1）的洞察加值。"
+  },
+
+  {
+    "Key": "InspiredStrikeCritAbility.Name",
+    "enGB": "Inspired Strike (Critical)",
+    "zhCN": "灵感打击（重击）"
+  },
+
+  {
+    "Key": "InspiredStrikeCritAbility.Description",
+    "enGB": "When an inspired blade hits with an attack augmented by inspired strike, she can spend 1 additional panache point to make the hit a critical threat, though if she does so, she does not regain panache if she confirms that critical threat.",
+    "zhCN": "当一名灵感之刃使用灵感打击成功命中目标时，他可以额外花费1点时髦值使这次攻击造成重击威胁。如果他这么做了，这次重击确认时不会使他回复时髦值。该炫技的时髦值消耗不能通过类似标志动作专长这样的能力减少。"
+  },
+
+  {
+    "Key": "RTraining.Name",
+    "ProcessTemplates": false,
+    "enGB": "Rapier Training",
+    "zhCN": "刺剑训练"
+  },
+
+  {
+    "Key": "RTraining.Description",
+    "enGB": "At 5th level, an inspired blade gains a +1 bonus on attack rolls and a +2 bonus on damage rolls with rapiers. While wielding a rapier, she gains the benefit of the Improved Critical feat. These attack and damage bonuses increase by 1 for every 4 levels beyond 5th (to a maximum of +4 on attack rolls and +5 on damage rolls at 17th level).",
+    "zhCN": "5级时，灵感之刃在使用刺剑时在攻击检定获得+1加值，并在伤害检定上获得+2加值。除此以外，当使用刺剑时，灵感之刃还会获得精通重击专长的效果。这个加值在5级后的每4级会额外加1（最大在17级时达到+4命中和+5伤害）。"
+  },
+
+  {
+    "Key": "RMastery.Name",
+    "ProcessTemplates": false,
+    "enGB": "Rapier Weapon Mastery",
+    "zhCN": "刺剑武器大师"
+  },
+
+  {
+    "Key": "RMastery.Description",
+    "enGB": "At 20th level, when an inspired blade threatens a critical hit with a rapier, that critical hit is automatically confirmed. Furthermore, the critical threat range increases by 1 (this increase to the critical threat range stacks with the increase from rapier training, to a total threat range of 14–20), and the critical modifier of the weapon increases by 1 (×2 becomes ×3, for example).",
+    "zhCN": "20级时，一名灵感之刃在使用刺剑造成重击威胁时，重击确认自动成功。额外地，灵感之刃使用细剑时重击范围增加1（这个增加会与刺剑训练能力叠加，因此最终的重击范围为14-20），并且重击时的伤害倍数将会额外加1（如X2会变为X3）。"
+  },
+
+  {
+    "Key": "Feint.Name",
+    "ProcessTemplates": false,
+    "enGB": "Feint",
+    "zhCN": "佯攻"
+  },
+
+  {
+    "Key": "Feint.Description",
+    "enGB": "You can attempt to feint against an enemy in melee as a move action. To feint, make a Bluff skill check. The DC of this check is equal to 10 + your opponent’s base attack bonus + your opponent’s Wisdom modifier.\n If successful, the enemy is denied its Dexterity bonus to AC against your next attack on or before its next turn.\n If you have Greater Feint, the enemy is denied its Dexterity bonus to AC for one turn.",
+    "zhCN": "你能够尝试使用移动动作对对手发动佯攻。使用佯攻时，进行一次唬骗技能检定，佯攻的DC为“10+目标BAB+感知修正”。\n如果你成功地使用了佯攻，目标将在对抗你的下一次近战攻击时或者直到其下一轮前（取较先发生者），无法在AC上获得自己的敏捷加值。\n如果拥有高等佯攻，敌人直到其下一轮前失去其AC上的敏捷加值。"
+  },
+
+  {
+    "Key": "GFeint.Name",
+    "ProcessTemplates": false,
+    "enGB": "Greater Feint",
+    "zhCN": "高等佯攻"
+  },
+
+  {
+    "Key": "GFeint.Description",
+    "enGB": "Whenever you use feint to cause an opponent to lose their Dexterity bonus, they lose that bonus against all melee attacks for one turn.",
+    "zhCN": "当你使用佯攻使得敌人失去其AC上的敏捷加值时，该效果会对所有近战攻击生效，持续到其下一轮。"
+  },
+
+  {
+    "Key": "Swordplay.Name",
+    "ProcessTemplates": false,
+    "enGB": "Swordplay Style",
+    "zhCN": "刺剑流"
+  },
+
+  {
+    "Key": "Swordplay.Description",
+    "enGB": "While using this style and wielding a weapon from the heavy blades or light blades fighter weapon groups and fighting defensively or using the Combat Expertise feat, you gain a +1 shield bonus to your Armor Class. In addition, you do not take the penalty on melee attacks from Combat Expertise on the first attack roll you make each turn. You still take the penalty on additional attacks, including attacks of opportunity.",
+    "zhCN": "当你开启此流派架势时，如果你持有重刃或轻刃战士武器组中的武器，进行防御式战斗或使用寓守于攻时，那么你会在防御等级上获得+1盾牌加值。除此之外，你在使用寓守于攻专长时每轮发动的第一次近战攻击不会因为使用寓守于攻而承受减值。你本轮的其他攻击，包括藉机攻击，仍然会承受正常减值。"
+  },
+
+  {
+    "Key": "SwordplayUpset.Name",
+    "ProcessTemplates": false,
+    "enGB": "Swordplay Upset",
+    "zhCN": "刺剑闪"
+  },
+
+  {
+    "Key": "SwordplayUpset.Description",
+    "enGB": "While using Swordplay Style, you can attempt a feint against an opponent that makes a melee attack against you and misses.",
+    "zhCN": "当开启刺剑流架势时，你可以在一个敌人对你近战攻击失手时对他发动一次佯攻。"
+  },
+
+  {
+    "Key": "Azatariel.Name",
+    "ProcessTemplates": false,
+    "enGB": "Azatariel",
+    "zhCN": "灵使剑客"
+  },
+
+  {
+    "Key": "Azatariel.Description",
+    "enGB": "Azatariels are the champions of Elysium, dedicated to spreading its unpredictable whimsy and capricious goodness across the planes. Irrepressible and happy-golucky even in the face of the most tyrannical devil, azatariels take their name from the azatas that they emulate. In battle, azatariels exult in darting among their foes, heedless of danger. Mastery of combat’s chaos allows azatariels to turn enemies’ strikes against each other, while supernatural good fortune protects them from dire afflictions. When allies falter with fear or suffer the effects of dark magic, a compassionate gesture from an azatariel cures their ills and spurs them onward.",
+    "zhCN": "灵使剑客是极乐世界的拥护者，致力于将他们的奇思妙想和任性的善良传播到各个位面。即使面对最残暴的魔鬼，灵使剑客也不为所动，仍然快乐而勇敢，他们的名字来源于他们所模仿的灵使天族。在战斗中，灵使剑客不顾危险，在敌人间恣意奔袭。对混战的熟悉让灵使剑客可以将敌人的攻击转向对方，同时超自然的好运保护他们免受可怕的折磨。当盟友因恐惧而动摇或遭受黑魔法的影响时，灵使剑客积极奋进的情感将感染他们，治愈他们的疾病并激励他们前进。"
+  },
+
+  {
+    "Key": "ElysianConviction.Name",
+    "ProcessTemplates": false,
+    "enGB": "Elysian Conviction",
+    "zhCN": "乐土信念"
+  },
+
+  {
+    "Key": "ElysianConviction.Description",
+    "enGB": "At 2nd level, while she has at least 1 panache point, an azatariel adds her Charisma bonus to her saving throws against mind-affecting effects.",
+    "zhCN": "2级起，灵使剑客如果有至少一点时髦值，她可以将她的魅力调整加值加到对抗影响心灵效果的豁免掷骰上。"
+  },
+
+  {
+    "Key": "Affection.Name",
+    "ProcessTemplates": false,
+    "enGB": "Affection of Elysium",
+    "zhCN": "乐土之爱"
+  },
+
+  {
+    "Key": "Affection.Description",
+    "enGB": "An azatariel’s affection relieves harmful afflictions. At 4th level and every 4 levels thereafter, an azatariel selects a mercy from those available to a paladin whose class level is equal to her swashbuckler level. She can show her affection to a willing, adjacent creature as a standard action to apply the effects of these mercies to the targeted creature, treating her swashbuckler level as her paladin level. An azatariel can use this ability a number of times per day equal to half her swashbuckler level plus her Charisma modifier.",
+    "zhCN": "灵使剑客丰富的情感可以感染其他人，以治愈他们的伤痛。在第4级和之后的每4级，灵使剑客可以如同圣武士般选择一种恩惠，以她的游荡剑客等级作为圣武士等级以决定她可选择的恩惠。她可以影响一个临近的自愿生物，以一个标准动作，将这些恩惠的效果应用到目标生物上，将她的游荡剑客等级视为圣骑士等级。灵使剑客每天可以使用这个能力的次数等于她的游荡剑客等级的一半加上她的魅力调整值。"
+  },
+
+  {
+    "Key": "Bralani.Name",
+    "ProcessTemplates": false,
+    "enGB": "Bralani’s Swiftness",
+    "zhCN": "伴风灵使迅突"
+  },
+
+  {
+    "Key": "Bralani.Description",
+    "enGB": "At 3rd level, while the azatariel has at least 1 point of panache, she ignores movement penalties from difficult terrain.",
+    "zhCN": "3级起，只要灵使剑客拥有至少1点时髦值，她就可以无视来自困难地形的移动惩罚。"
+  },
+
+  {
+    "Key": "BattleDance.Name",
+    "ProcessTemplates": false,
+    "enGB": "Battle Dance",
+    "zhCN": "战斗之舞"
+  },
+
+  {
+    "Key": "BattleDance.Description",
+    "enGB": "At 3rd level and every 4 levels thereafter, an azatariel’s base speed increases by 10 feet. This is an enhancement bonus. An azatariel in medium or heavy armor or carrying a medium or heavy load loses this extra speed.",
+    "zhCN": "3级起以及之后每4级，灵使剑客的基本速度增加10尺，这是一个增强加值。当灵使剑客着穿中型或重型盔甲，或当达到中或重载时，将失去这个额外的速度。"
+  },
+
+  {
+    "Key": "Whimsical.Name",
+    "ProcessTemplates": false,
+    "enGB": "Whimsical Riposte",
+    "zhCN": "诡妙还击"
+  },
+
+  {
+    "Key": "Whimsical.Description",
+    "enGB": "At 3rd level, the azatariel adds her Charisma modifier to attack and damage rolls made with light or one-handed piercing weapons as part of her opportune parry and riposte deed (including when riposting). In addition, whenever the azatariel successfully parries an opponent’s attack, instead of riposting she can redirect that attack to another target as an immediate action. The new target must be within the attacker’s reach, and the attacker uses the original attack roll to determine the attack’s success.",
+    "zhCN": "3级时，灵使剑客可以在进行适时格挡反击时，将她的魅力调整值增加到她用轻型或单手穿刺武器做出的攻击检定和伤害骰上，这包括格挡时的攻击检定和格挡成功后反击的攻击检定和伤害检定。此外，当灵使剑客成功格挡来自敌人的攻击时，她可以用直觉动作将攻击重定向至另一个目标而不是进行还击。新目标必须在攻击者的攻击范围内，攻击者使用原始攻击骰的结果来决定命中。"
+  },
+
+  {
+    "Key": "Lillend.Name",
+    "ProcessTemplates": false,
+    "enGB": "Lillend's Misdirection",
+    "zhCN": "恋艺灵使误导"
+  },
+
+  {
+    "Key": "Lillend.Description",
+    "enGB": "At 7th level, when a foe flanking the azatariel misses her with a melee attack, the azatariel can spend 2 panache points as an immediate action to redirect the attack to a flanking opponent. She and the attacking foe switch positions, and the melee attack roll that missed the azatariel instead targets the flanking opponent that did not make the attack, using the same attack roll result (including the bonus gained from flanking).",
+    "zhCN": "7级时，当一个敌人夹击灵使剑客近战攻击失手，灵使剑客可以用2点时髦值以一个直觉动作将这次攻击导向另外一个敌人。她和攻击对手交换位置，同时该敌人的攻击将会指向提供夹击的另一名敌人，以相同的攻击骰(包括夹击加值)来决定命中。"
+  },
+
+  {
+    "Key": "Ghaele.Name",
+    "ProcessTemplates": false,
+    "enGB": "Ghaele’s Assault",
+    "zhCN": "迦勒灵使突袭"
+  },
+
+  {
+    "Key": "Ghaele.Description",
+    "enGB": "At 11th level, the azatariel can spend 2 panache points when charging. If she does, the AC penalty for charging changes to –4 and she can make a full attack at the end of her charge.",
+    "zhCN": "11级时，灵使剑客在冲锋时可以消耗2点时髦值，以冲锋AC减值提高到-4为代价，在冲锋结束后进行全力攻击。"
+  },
+
+  {
+    "Key": "SpringAttackFeat.Name",
+    "ProcessTemplates": false,
+    "enGB": "Spring Attack",
+    "zhCN": "跳跃攻击"
+  },
+
+  {
+    "Key": "SpringAttackFeat.Description",
+    "enGB": "As a full-round action, you can move up to your speed and make a single melee attack without provoking any attacks of opportunity from the target of your attack. You can move both before and after the attack, but you must move at least 10 feet before the attack and the total distance that you move cannot be greater than your speed. You cannot use this ability to attack a foe that is adjacent to you at the start of your turn.",
+    "zhCN": "以一个全回合动作，你能够移动至多等同于你速度的距离并做一次单次的近战攻击，这不会引发你所攻击目标的借机攻击。你在攻击之前和之后都可以移动，但你在攻击前必须至少移动10尺，并且你移动的总距离不可以超过你的速度。你不可以使用此能力攻击在你回合开始时就和你相邻的敌人。"
+  },
+
+  {
+    "Key": "SpringAttackImproved.Name",
+    "ProcessTemplates": false,
+    "enGB": "Improved Spring Attack",
+    "zhCN": "精通跳跃攻击"
+  },
+
+  {
+    "Key": "SpringAttackImproved.Description",
+    "enGB": "When you use Spring Attack, you can select two targets to attack during your movement instead of one. The second attack made this way is made at your full base attack bonus – 5. All restrictions of Spring Attack apply to both targets, and your movement does not provoke attacks of opportunity from either target. You can’t target the same creature twice.",
+    "zhCN": "使用跳跃攻击时，你可以选择在移动中攻击两个目标而不是一个。使用这个方式进行的第二次攻击使用你的全部基础攻击加值-5。所有跳跃攻击的限制对两个都目标有效，且你的移动不会引发这两个目标的借机攻击。你不能选择同一个目标两次。"
+  },
+
+  {
+    "Key": "SpringAttackGreater.Name",
+    "ProcessTemplates": false,
+    "enGB": "Greater Spring Attack",
+    "zhCN": "高等跳跃攻击"
+  },
+
+  {
+    "Key": "SpringAttackGreater.Description",
+    "enGB": "When you use Spring Attack, you can select three targets to attack during your movement instead of one. The second attack made this way is made at your full base attack bonus – 5, and the third attack made this way is made at your full base attack bonus – 10. All restrictions of Spring Attack apply to each target, and your movement does not provoke attacks of opportunity from any of your targets. You can’t target the same creature more than once.",
+    "zhCN": "使用跳跃攻击时，你可以选择在移动中攻击三个目标而不是一个。使用这个方式进行的第二次攻击使用你的全部基础攻击加值-5，第三次攻击使用你的全部基础攻击加值-10。所有跳跃攻击的限制对每个目标都有效，且你的移动不会引发这些目标的借机攻击。你不能选择同一个目标多于一次。"
+  },
+
+  {
+    "Key": "SpringAttackBuff.Name",
+    "ProcessTemplates": false,
+    "enGB": "Spring Attack!",
+    "zhCN": "跳跃攻击！"
+  },
+
+  {
+    "Key": "SpringAttackBuff.Description",
+    "enGB": "Made 1 attack using spring attack.",
+    "zhCN": "使用跳跃攻击进行1次攻击。"
+  },
+
+  {
+    "Key": "SpringAttackBuff2.Description",
+    "enGB": "Made 2 attacks using spring attack.",
+    "zhCN": "使用跳跃攻击进行2次攻击。"
+  },
+
+  {
+    "Key": "SpringAttackBuff3.Description",
+    "enGB": "Made 3 attacks using spring attack.",
+    "zhCN": "使用跳跃攻击进行3次攻击。"
+  },
+
+  {
+    "Key": "SpringAttackReaping.Name",
+    "ProcessTemplates": false,
+    "enGB": "Spring-Heeled Reaping",
+    "zhCN": "跃击收割"
+  },
+
+  {
+    "Key": "SpringAttackReaping.Description",
+    "enGB": "You can apply the benefits of Vital Strike when using Spring Attack. If you have Improved or Greater Vital Strike, instead apply their benefits when using Spring Attack.",
+    "zhCN": "你可以在跳跃攻击中应用要害打击效果。如果你拥有精通要害打击或高等要害打击，则改为应用对应效果。"
+  },
+
+  {
+    "Key": "WarriorPoet.Name",
+    "ProcessTemplates": false,
+    "enGB": "Warrior Poet",
+    "zhCN": "花间诗剑"
+  },
+
+  {
+    "Key": "WarriorPoet.Description",
+    "enGB": "Warrior poets often study calligraphy, flower arrangement, poetry, and other courtly arts, but when called to battle, they treat combat as its own art form, fighting with beauty and grace.",
+    "zhCN": "花间诗剑经常学习书法，插花，诗歌和其他宫廷艺术，但当他们被召唤去战斗时，他们把战斗当作自己的艺术形式，美丽而优雅的战斗。"
+  },
+
+  {
+    "Key": "DancersFinesse.Name",
+    "ProcessTemplates": false,
+    "enGB": "Graceful Warrior",
+    "zhCN": "雅致武者"
+  },
+
+  {
+    "Key": "DancersFinesse.Description",
+    "enGB": "The warrior poet gains the benefits of the Weapon Finesse feat with light or one-handed piercing melee weapons, and she can use her Charisma score in place of Intelligence as a prerequisite for combat feats. When wielding a glaive, she can treat it as a one-handed piercing or slashing melee weapon. This ability counts as having the Weapon Finesse feat for purposes of meeting feat prerequisites.",
+    "zhCN": "花间诗剑获得武器娴熟作为奖励专长，并且可以将其应用于大砍刀，即使它不是轻武器。当持用大砍刀时，她将大砍刀视为单手穿刺或挥砍武器。这个能力在满足其他专长前置时，视为拥有武器娴熟。"
+  },
+
+  {
+    "Key": "DancersGrace.Name",
+    "ProcessTemplates": false,
+    "enGB": "Dancer's Grace",
+    "zhCN": "曼妙舞姿"
+  },
+
+  {
+    "Key": "DancersGrace.Description",
+    "enGB": "When wearing no armor and not using a shield, the warrior poet gains a bonus to Armor Class equal to her Charisma bonus(to a maximum of her swashbuckler level). A warrior poet loses this bonus while flatfooted or otherwise denied her Dexterity bonus.",
+    "zhCN": "当不穿着盔甲并且不持用盾牌时，花间诗剑在AC上获得等于她魅力调整值（最大等于其游荡剑客等级）的加值。花间诗剑在措手不及或者失去其敏捷调整值时失去该加值。"
+  },
+
+  {
+    "Key": "DancersStrike.Name",
+    "ProcessTemplates": false,
+    "enGB": "Graceful Strike",
+    "zhCN": "优雅技击"
+  },
+
+  {
+    "Key": "DancersStrike.Description",
+    "enGB": "While the warrior poet has at least 1 panache point, when she uses Weapon Finesse to make a melee attack that adds her Dexterity bonus to attack rolls and her Strength bonus to damage rolls, she also adds half her swashbuckler level to damage rolls. On her first successful attack each round, she instead adds her swashbuckler level to damage rolls.",
+    "zhCN": "当花间诗剑拥有至少1点时髦值时，如果她使用武器娴熟在近战攻击时将敏捷调整值加在攻击骰上，但是将力量调整值加在伤害骰上时，她同时将其将其游荡剑客等级的一半加在伤害骰上。对于每一轮第一次成功的攻击，改为将游荡剑客等级加在伤害骰上。"
+  },
+
+  {
+    "Key": "DancersParry.Name",
+    "ProcessTemplates": false,
+    "enGB": "Petals on the Wind",
+    "zhCN": "落英乱舞"
+  },
+
+  {
+    "Key": "DancersParry.Description",
+    "enGB": "When an opponent makes a melee attack against the warrior poet, she can spend 1 panache point and expend a use of an attack of opportunity to attempt to parry that attack. The warrior poet makes an attack roll as if she were making an attack of opportunity; for each size category the attacking creature is larger than the swashbuckler, the warrior poet takes a –2 penalty on this roll. If her result is greater than the attacking creature’s result, the creature’s attack automatically misses. The warrior poet must declare the use of this ability after the creature’s attack is announced, but before its attack roll is made. Upon performing a successful parry and if she has at least 1 panache point, the swashbuckler can as an immediate action move 5 feet. This movement is not a 5-foot step; it provokes attacks of opportunity from creatures other than the one who triggered this deed.",
+    "zhCN": "当一个敌人对花间诗剑进行攻击时，她可以花费1点时髦值和一次借机攻击次数，格挡该次攻击。花间诗剑就如同进行一次借机攻击一般做一次攻击检定。如果她的攻击高于对方的攻击，则这次攻击自动失手。发动攻击的生物每比花间诗剑大一个体形，花间诗剑在这次攻击中都会承受-2的罚值。花间诗剑必须在敌人宣告发动攻击而尚未投掷攻击骰时使用这个能力。在一名花间诗剑进行了一次成功的格挡后，只要她还有至少1点时髦值，她可以用一个直接动作移动5尺。该移动并不被视为5尺快步，会引发其他生物的借机攻击，但是触发了该炫技的生物除外。"
+  },
+
+  {
+    "Key": "DancersBloom.Name",
+    "ProcessTemplates": false,
+    "enGB": "Chrysanthemum’s Blooming",
+    "zhCN": "雏菊初放"
+  },
+
+  {
+    "Key": "DancersBloom.Description",
+    "enGB": "The warrior poet gains Vital Strike as a bonus feat. She gains the benefits of Spring-Heeled Reaping while she has more than 1 panache.",
+    "zhCN": "花间诗剑获得要害打击作为奖励专长，并在至少拥有1点时髦值的时候自动获得跃击收割的效果。"
+  },
+
+  {
+    "Key": "DancersKitsune.Name",
+    "ProcessTemplates": false,
+    "enGB": "Kitsune’s Mystique",
+    "zhCN": "灵狐秘技"
+  },
+
+  {
+    "Key": "DancersKitsune.Description",
+    "enGB": "When the warrior poet uses Spring Attack, she can spend 1 panache to attempt to feint against her first target as part of her movement.",
+    "zhCN": "当花间诗剑使用跳跃攻击时，她可以花费1点时髦值，作为移动动作的一部分对第一个目标尝试使用佯攻。"
+  },
+
+  {
+    "Key": "DancersBattleDance.Name",
+    "ProcessTemplates": false,
+    "enGB": "Exodus of Speed",
+    "zhCN": "凌波微步"
+  },
+
+  {
+    "Key": "DancersBattleDance.Description",
+    "enGB": "At 3rd level and every 4 levels thereafter, a warrior poet’s base speed increases by 10 feet. This is an enhancement bonus. A warrior poet loses this extra speed when in medium or heavy armor.",
+    "zhCN": "3级时和之后每4级，花间诗剑的基础速度增加10尺。该加值为增强加值。花间诗剑穿着中型或重型盔甲时会失去该加值。"
+  },
+
+  {
+    "Key": "DancersEdge.Name",
+    "ProcessTemplates": false,
+    "enGB": "Dancer's Edge",
+    "zhCN": "舞刃之锋"
+  },
+
+  {
+    "Key": "DancersEdge.Description",
+    "enGB": "While the warrior poet has at least 1 panache point, she can take 10 on any Athletics, Mobility, or Persuasion check, even while distracted or in immediate danger. She can use this ability in conjunction with the derring-do deed.",
+    "zhCN": "花间诗剑拥有至少1点时髦值时，就能在进行运动、灵巧和沟通检定时取10，即使处于遭受威胁或分心的情况下。这个能力可以同“大胆特技”能力一起使用。"
+  },
+
+  {
+    "Key": "DancersHarmony.Name",
+    "ProcessTemplates": false,
+    "enGB": "Harmony of the Tranquil Garden",
+    "zhCN": "静园之谐"
+  },
+
+  {
+    "Key": "DancersHarmony.Description",
+    "enGB": "While the warrior poet has at least 1 panache point, she gains the benefits of the Greater Blind-Fight feature.",
+    "zhCN": "当花间诗剑拥有至少1点时髦值时，获得高等盲斗的效果。"
+  },
+
+  {
+    "Key": "DancersHasted.Name",
+    "ProcessTemplates": false,
+    "enGB": "Hasted Dance",
+    "zhCN": "迅风之舞"
+  },
+
+  {
+    "Key": "DancersHasted.Description",
+    "enGB": "The warrior poet can spend 2 panache to gain the benefits of the haste spell for 1 round. During this combat, if she moves at least 10 feet in a round, the duration of this effect is extended by 1 round.",
+    "zhCN": "花间诗剑可以花费2点时髦值在本轮中获得加速术的效果。本次战斗中，如果她在一轮中移动至少10尺，则这个效果延长1轮。"
+  },
+
+  {
+    "Key": "RostlandBravo.Name",
+    "ProcessTemplates": false,
+    "enGB": "Rostland Bravo",
+    "zhCN": "雷斯兰暴徒"
+  },
+
+  {
+    "Key": "RostlandBravo.Description",
+    "enGB": "The Free City of Restov is host to numerous dueling schools, from the renowned Aldori Academy to tiny training grounds in blademasters’ homes. Students of these schools are notoriously competitive, and street-corner duels at dawn and dusk are a constant of Restov life. In most cases, while these “lesser schools” do not teach official Aldori techniques, their methods mesh well with that signature style. Unsurprisingly, many students eventually train in the Aldori style, whether because they aspire to join the swordlords’ ranks or simply for the challenge of mastering the legendary weapon. While some favor more technical approaches, others study flashier maneuvers, wielding the curved blade with artful flair. Disdainfully called “bravos” by classically trained rivals, students of this approach have claimed the label with pride. The Rostland bravos’ most advanced techniques bear dragon-themed names as a snub to traditionalist Aldori swordlords, who have never forgotten their crushing defeat by Choral the Conqueror’s dragons at the Valley of Fire.",
+    "zhCN": "从著名的阿尔多瑞学院到剑爵们的小型家庭训练场，数不清的决斗学校充斥着自由城邦雷斯托夫。这次学校的学生们因好斗而臭名昭著，而决斗也是雷斯托夫在清晨与黄昏时分能在街角见到的常景。大体来说，这些“次级学校”通常不会教授正经的阿尔多瑞技巧，但他们的招式能与这种标志性流派恰到好处地融为一体。学生们想要的无非是拿到大剑师的头衔，或对这件传奇武器的征服，所以大量的学生最后都会选择练习阿尔多瑞流派也不足为奇。有人选择了更具技术性的门道，也有人选择了更加花哨的招式，用他们的艺术天赋驾驭这柄流线型的利刃。雷斯兰暴徒的那些以龙命名的进阶技巧，常常引起阿尔多瑞剑爵的反感，后者至今仍对在火焰之谷受到征服者科洛尔的红龙的粉碎性打击仍然耿耿于怀。"
+  },
+
+  {
+    "Key": "RostlandBravoProf.Name",
+    "ProcessTemplates": false,
+    "enGB": "Aldori Swashbuckler",
+    "zhCN": "阿尔多瑞游荡剑客"
+  },
+
+  {
+    "Key": "RostlandBravoProf.Description",
+    "enGB": "A Rostland bravo focuses on the Aldori dueling sword, scorning the bucklers used by duelists of other styles. In addition, the relative safety and creature comforts allowed by life in the sprawling city of Restov reduces her need for athleticism. A Rostland bravo gains Proficiency with the dueling sword. She also gains Aldori Dueling Mastery as a bonus feat. The Rostland bravo is not proficient with bucklers, and does not gain Athletics as a class skill.",
+    "zhCN": "雷斯兰暴徒专注于奥多里决斗剑，不屑于学习其它决斗流派中的小圆盾技巧。另一方面，相对安全的环境和只有一些祥和的生物慵懒地游荡在雷斯托夫的城市之中，也减少了他们求胜欲望。雷斯兰暴徒获得擅长异种武器（决斗剑）作为奖励专长，但不擅长小圆盾，也不会将攀爬和游泳视作本职技能。"
+  },
+
+  {
+    "Key": "RostlandBravoInevitable.Name",
+    "ProcessTemplates": false,
+    "enGB": "Inevitable Victory",
+    "zhCN": "胜利宣告"
+  },
+
+  {
+    "Key": "RostlandBravoInevitable.Description",
+    "enGB": "The Rostland bravo’s technique is all about flair; a display of her skill is enough to make any Restov brawler reconsider picking a fight. At 3rd level, the Rostland bravo gains Dazzling Display as a bonus feat. She can activate its effect only while wielding an Aldori dueling sword, and she must spend 1 panache point to do so.",
+    "zhCN": "雷斯兰暴徒的技艺完全基于个人天赋，光是炫上两招就能让雷斯托夫任何一名搏斗者选择开仗。3级时，雷斯兰暴徒获得炫目武技作为奖励专长，仅当他持用一柄决斗剑时，他才能花费1点时髦值来使用该专长。"
+  },
+
+  {
+    "Key": "RostlandBravoSweeping.Name",
+    "ProcessTemplates": false,
+    "enGB": "Sweeping Wind Feint",
+    "zhCN": "冯虚御风"
+  },
+
+  {
+    "Key": "RostlandBravoSweeping.Description",
+    "enGB": "At 7th level, the Rostland bravo masters an exotic feinting style, tossing her blade to the other hand and performing a sweeping attack or upward slash before the opponent reacts. Once per round, she can spend 1 point of panache to attempt a feint as a swift action.",
+    "zhCN": "7级时，雷斯兰暴徒掌握了一种异域风格的佯攻，将剑抛给另一只手，在敌人反应过来之前，做出横扫或上撩攻击。每轮一次，她可以花费1点时髦值，以迅捷动作施展佯攻。"
+  },
+
+  {
+    "Key": "RostlandBravoRage.Name",
+    "ProcessTemplates": false,
+    "enGB": "Dragon’s Rage",
+    "zhCN": "无尽龙怒"
+  },
+
+  {
+    "Key": "RostlandBravoRage.Description",
+    "enGB": "At 11th level, the Rostland bravo can cast aside restraint in favor of a blindingly fast assault of unpredictable strikes inspired in part by the overwhelming brutality of a dragon in combat. Once per round as part of a full attack, the bravo can spend 1 panache point to make an additional attack with her dueling sword at her highest attack bonus. If she reduces a creature to 0 or fewer hit points while using this ability, she regains 2 panache points rather than the normal 1 point she would gain from striking a killing blow.",
+    "zhCN": "11级时，雷斯兰暴徒抛开束缚，将巨龙的凶残蕴含在难以防范的剑招之中，激发出令人目眩的暴力袭击。每轮一次，作为全力攻击的一部分，暴徒可以花费1点时髦值以最高攻击加值用决斗剑发动一次额外的攻击。如果她以此次额外攻击将一名生物的生命值降低至0或以下，她因此次致命一击而获得的时髦值奖励将变为2点，而不是通常的1点。"
+  },
+
+  {
+    "Key": "RostlandBravoTerror.Name",
+    "ProcessTemplates": false,
+    "enGB": "Terror of the Great Wyrm",
+    "zhCN": "巨龙霆威"
+  },
+
+  {
+    "Key": "RostlandBravoTerror.Description",
+    "enGB": "At 15th level, the Rostland bravo can use her inevitable victory deed as part of a full attack or dragon’s rage. A creature demoralized in this way is shaken for one additional round. If such a creature would be shaken for 4 or more rounds, the target is frightened for 1 round before becoming shaken for the appropriate duration. This deed replaces swashbuckler’s edge.",
+    "zhCN": "15级时，雷斯兰暴徒可以将胜利宣告作为全力攻击或无尽龙怒的一部分来施展，如果一个生物因此将战栗4轮或以上，则他会先惊恐1轮，然后在其余的轮数战栗。该炫技取代游荡剑客之骄傲。"
+  },
+
+  {
+    "Key": "WindStance.Name",
+    "ProcessTemplates": false,
+    "enGB": "Wind Stance",
+    "zhCN": "疾风步"
+  },
+
+  {
+    "Key": "WindStance.Description",
+    "enGB": "If you move atleast 10 feet in a turn, you gain 20% concealment for 1 round against ranged attacks.",
+    "zhCN": "若你在一轮中移动超过10尺，则该轮中你针对远程攻击获得20％隐蔽。"
+  },
+
+  {
+    "Key": "LightningStance.Name",
+    "ProcessTemplates": false,
+    "enGB": "Lightning Stance",
+    "zhCN": "闪电步"
+  },
+
+  {
+    "Key": "LightningStance.Description",
+    "enGB": "If you move atleast 60 feet in a turn, you gain 50% concealment for 1 round.",
+    "zhCN": "若你在一轮中移动超过60尺，则该轮中你获得50％隐蔽。"
+  },
+
+  {
+    "Key": "AbundantPanache.Name",
+    "ProcessTemplates": false,
+    "enGB": "Abundant Panache",
+    "zhCN": "充裕时髦"
+  },
+
+  {
+    "Key": "AbundantPanache.Description",
+    "enGB": "Your every attack is a masterstroke.\n Each time the swashbuckler hits with a light or one-handed piercing melee weapon, or redirects an enemy attack to another enemy, she regains 1 panache point.",
+    "zhCN": "你的每次攻击都在秀。\n每次游荡剑客使用轻型或者单手穿刺近战武器击中，或者将敌人的攻击导向其他敌人时，都能返还1点时髦值。"
+  },
+
+  {
+    "Key": "StyleMastery.Name",
+    "ProcessTemplates": false,
+    "enGB": "Style Mastery",
+    "zhCN": "流派大师"
+  },
+
+  {
+    "Key": "StyleMastery.Description",
+    "enGB": "You can have two combat styles active at once.",
+    "zhCN": "你可以同时激活两个战斗流派架势。"
+  }
+]
