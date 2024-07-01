@@ -408,5 +408,10 @@
     "Key": "AlternateRacialTraits.Features.Tiefling.SmiteGood.DisplayName",
     "ProcessTemplates": false,
     "zhCN": "辟善斩"
+  },
+  {
+    "Key": "AlternateRacialTraits.PrerequisiteNoRaceStatBonus.NoRacialAttributeText",
+    "ProcessTemplates": false,
+    "zhCN": "没有下列种族加值："
   }
 ]
