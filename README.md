@@ -3517,7 +3517,7 @@ C:\Users\你的用户名\AppData\LocalLow\Owlcat Games\Pathfinder Wrath Of The R
 -------------------------------------------   
 ### [SwashbucklerWOTR](https://github.com/novumvita/SwashbucklerWOTR)
 > *前置：* 无<br>
-> *中文：* **汉化已提交**<br>
+> *中文：* **汉化已提交（但建议使用QL汉化，有修正）**<br>
 > *安装方式：* **UMM**<br>
 > *新增内容：* 游荡剑客<br>
 + 增加基础职业游荡剑客
