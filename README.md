@@ -1095,11 +1095,16 @@
         </td><td>:heavy_check_mark:
         </td><td>:x:
         </td><td>预定之域：现在正确显示持续时间</td></tr>
-  <tr><td rowspan="5">其他特性<br>Features</td>
+  <tr><td rowspan="6">其他特性<br>Features</td>
         <td>AnimalCompanions - AnimalCompanionProgression
         </td><td>:x:
         </td><td>:x:
         </td><td>修正动物同伴成长匹配桌面数据</td></tr>
+  <tr><td>动物伙伴<br>AnimalCompanions</td>
+      <td>Modifiers
+        </td><td>:heavy_check_mark:
+        </td><td>:x:
+        </td><td>修正动物伙伴的额外加值为种族加值而非其他加值，以帮助满足专长前置条件</td></tr>
      <tr><td>Bloodlines - BloodlineRestrictions
         </td><td>:heavy_check_mark:
         </td><td>:x:
@@ -1319,7 +1324,7 @@
         </td><td>:heavy_check_mark:
         </td><td>:x:
         </td><td>第二血怒血承：自新魔士可选</td></tr>
-  <tr><td rowspan="3">神话专长<br>MythicFeats</td>
+  <tr><td rowspan="4">神话专长<br>MythicFeats</td>
       <td>ExpandedArsenal
         </td><td>:heavy_check_mark:
         </td><td>:x:
@@ -1332,6 +1337,10 @@
         </td><td>:heavy_check_mark:
         </td><td>:x:
         </td><td>额外神话能力：只能选择一次</td></tr>
+      <tr><td>MythicArmorFocus
+        </td><td>:heavy_check_mark:
+        </td><td>:x:
+        </td><td>修复神话护甲专攻对错误类型护甲触发的问题</td></tr>
     <tr><td rowspan="4">BOSS和敌人修复<br>Bosses/Enemies</td>
           <td>Deskari
           </td><td>:heavy_check_mark:
