@@ -798,7 +798,7 @@
         </td><td>:heavy_check_mark:
         </td><td>:x:
         </td><td>：在决定专长前置条件时，冬巫等级能视为女巫等级</td></tr>
-  <tr><td rowspan="74">法术<br>Spells</td>
+  <tr><td rowspan="76">法术<br>Spells</td>
       <td>AbsoluteOrder
         </td><td>:heavy_check_mark:
         </td><td>:x:
@@ -903,6 +903,10 @@
         </td><td>:heavy_check_mark:
         </td><td>:x:
         </td><td>烈阳之眼：修正伤害</td></tr>
+      <tr><td>FreedomOfMovement
+        </td><td>:heavy_check_mark:
+        </td><td>:x:
+        </td><td>行动自如：不再提供对恍惚状态的免疫</td></tr>
       <tr><td>FreezingNothingness
         </td><td>:heavy_check_mark:
         </td><td>:x:
@@ -979,6 +983,10 @@
         </td><td>:heavy_check_mark:
         </td><td>:x:
         </td><td>微缩雄姿：获得体型加值，不再是其他</td></tr>
+      <tr><td>MindFog
+        </td><td>:heavy_check_mark:
+        </td><td>:x:
+        </td><td>心灵迷雾：不再施加两次减值，之后给予一次10减值</td></tr>
       <tr><td>NaturesGrasp
         </td><td>:heavy_check_mark:
         </td><td>:x:
@@ -1100,8 +1108,7 @@
         </td><td>:x:
         </td><td>:x:
         </td><td>修正动物同伴成长匹配桌面数据</td></tr>
-  <tr><td>动物伙伴<br>AnimalCompanions</td>
-      <td>Modifiers
+        <td>AnimalCompanions - Modifiers
         </td><td>:heavy_check_mark:
         </td><td>:x:
         </td><td>修正动物伙伴的额外加值为种族加值而非其他加值，以帮助满足专长前置条件</td></tr>
@@ -2604,7 +2611,7 @@ Metamagic Master 超魔主宰：指定一个法术。当你超魔施展该法术
     <td>:x:</td>
     <td>:heavy_check_mark:</td></tr>  
 <tr>
-<th rowspan="3">魔战士</td> 
+<th rowspan="6">魔战士</td> 
     <td>Magus.CreateAccursedStrike</td>
     <td>巫战士：奥秘 - Accursed Strike 诅咒打击</td>
     <td>:x:</td>
@@ -2616,6 +2623,18 @@ Metamagic Master 超魔主宰：指定一个法术。当你超魔施展该法术
 <tr><td>Magus.PatchSwordSaint</td>
     <td>剑圣：允许选择任意武器</td>
     <td>:heavy_check_mark:</td>
+    <td>:heavy_check_mark:</td></tr>
+<tr><td>Archetypes - EldritchScion - FighterTraining</td>
+    <td>奥法后继者：战士训练现在正确地仅适用于壮举。</td>
+    <td>:x:</td>
+    <td>:heavy_check_mark:</td></tr>
+<tr><td>Archetypes - Hexcrafter - Spells</td>
+    <td>巫战士：更新奖励法术列表以包含缺失的诅咒法术</td>
+    <td>:x:</td>
+    <td>:heavy_check_mark:</td></tr>
+<tr><td>Archetypes - SwordSaint - FighterTraining</td>
+    <td>剑圣：战士训练现在正确地仅适用于壮举。</td>
+    <td>:x:</td>
     <td>:heavy_check_mark:</td></tr>
 <tr>
 <th rowspan="4">武技</td> 
