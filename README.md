@@ -205,7 +205,7 @@
 <table>  
 <tr><th colspan="5">修改列表</th></tr> 
 <tr><td>分类</td><td>Config中选项</td><td>默认</td><td>房规</td><td>效果</td></tr>
-<tr><td rowspan="38">基本修复<br>Base</td>
+<tr><td rowspan="39">基本修复<br>Base</td>
    <td>AreaOfEffectDoubleTrigger
         </td><td>:x:
         </td><td>:x:
@@ -342,6 +342,10 @@
         </td><td>:heavy_check_mark:
         </td><td>:x:
         </td><td>移除反胃的中毒描述</td></tr>
+      <td>SavingThrowCombatLogBreakdowns
+        </td><td>:heavy_check_mark:
+        </td><td>:x:
+        </td><td>修复战斗日志中豁免检定的细节显示，包括基础属性带来的加值</td></tr>
       <tr><td>SpellImmunity
         </td><td>:heavy_check_mark:
         </td><td>:x:
@@ -397,7 +401,7 @@
         </td><td>神话诡计使用魔法装置2允许诡计大师忽略装备的阵营和职业需求</td></tr>
   <tr><td>巅峰</td>
       <td>AlternateCapstones</td><td colspan="3">允许单独开关各个职业巅峰，详见新增内容</td></tr>
-  <tr><td rowspan="7">炼金术士<br>Alchemist</td>
+  <tr><td rowspan="8">炼金术士<br>Alchemist</td>
       <td>Base - DispelingBombs
             </td><td>:heavy_check_mark:
             </td><td>:x:
@@ -426,6 +430,10 @@
             </td><td>:heavy_check_mark:
             </td><td>:x:
             </td><td>调香师：修复崇圣熏香效果</td></tr>
+          <tr><td>Archetypes - Vivisectionist - Discoveries
+            </td><td>:heavy_check_mark:
+            </td><td>:x:
+            </td><td>活体解剖师：移除无效的盗贼天赋选项</td></tr>
   <tr><td rowspan="2">奥能师<br>Arcanist</td>
     <td>Base - reparedSpellUI
           </td><td>:heavy_check_mark:
@@ -435,7 +443,7 @@
           </td><td>:heavy_check_mark:
           </td><td>:x:
           </td><td>允许奥能师记忆不同超魔的同个法术</td></tr>
-  <tr><td rowspan="2">野蛮人<br>Barbarian</td>
+  <tr><td rowspan="4">野蛮人<br>Barbarian</td>
         <td>Base - CripplingBlows
           </td><td>:heavy_check_mark:
           </td><td>:x:
@@ -444,6 +452,14 @@
           </td><td>:heavy_check_mark:
           </td><td>:x:
           </td><td>毁灭猛击允许狂暴中使用</td></tr>
+        <tr><td>Base - AnimalFury
+        </td><td>:heavy_check_mark:
+        </td><td>:x:
+        </td><td>野性之怒：变形时也能生效</td></tr>
+        <tr><td>Base - BeastTotem
+        </td><td>:heavy_check_mark:
+        </td><td>:x:
+        </td><td>修复野兽图腾属性加值显示名称</td></tr>
   <tr><td rowspan="11">血怒者<br>Bloodrager</td>
     <td>Base - AbyssalBloodrage
           </td><td>:heavy_check_mark:
@@ -548,7 +564,7 @@
             </td><td>:heavy_check_mark:
             </td><td>:x:
             </td><td>双手武器战士：允许选择进阶武器训练专长</td></tr>
-  <tr><td rowspan="1">猎人</td>
+  <tr><td rowspan="1">猎人<br>Hunter</td>
     <td>Archetypes - DivineHunter - OtherworldlyCompanion
             </td><td>:heavy_check_mark:
             </td><td>:x:
@@ -664,8 +680,12 @@
           </td><td>:heavy_check_mark:
           </td><td>:x:
           </td><td>救难不再给予完全免疫能力，改为压制效果</td></tr>
-  <tr><td rowspan="4">化形师<br>Shifter</td>
-        <td>Archetypes - GriffonheartShifter
+  <tr><td rowspan="5">化形师<br>Shifter</td>
+        <td>Base - ShifterClaws
+          </td><td>:heavy_check_mark:
+          </td><td>:x:
+          </td><td>化形师锐爪：与偷袭等效果有更好的互动</td></tr>
+       <tr><td>Archetypes - GriffonheartShifter
           </td><td>:heavy_check_mark:
           </td><td>:x:
           </td><td>允许玩家创建人物使用鹫心变体</td></tr>
@@ -778,7 +798,7 @@
         </td><td>:heavy_check_mark:
         </td><td>:x:
         </td><td>：在决定专长前置条件时，冬巫等级能视为女巫等级</td></tr>
-  <tr><td rowspan="59">法术<br>Spells</td>
+  <tr><td rowspan="74">法术<br>Spells</td>
       <td>AbsoluteOrder
         </td><td>:heavy_check_mark:
         </td><td>:x:
@@ -803,6 +823,10 @@
         </td><td>:heavy_check_mark:
         </td><td>:x:
         </td><td>高等降咒：修复效果为高级版</td></tr>
+      <tr><td>BlackHole
+        </td><td>:heavy_check_mark:
+        </td><td>:x:
+        </td><td>黑洞：现在正确显示持续时间和豁免检定</td></tr>
       <tr><td>BreakEnchantment
         </td><td>:heavy_check_mark:
         </td><td>:x:
@@ -831,6 +855,10 @@
         </td><td>:heavy_check_mark:
         </td><td>:x:
         </td><td>圣战之刃：只有重击才能触发反胃</td></tr>
+      <tr><td>清澈心灵
+        </td><td>:heavy_check_mark:
+        </td><td>:x:
+        </td><td>水晶之心：现在正确显示持续时间</td></tr>
       <tr><td>DeathWard
         </td><td>:heavy_check_mark:
         </td><td>:x:
@@ -839,10 +867,46 @@
         </td><td>:heavy_check_mark:
         </td><td>:x:
         </td><td>高等解除魔法：最多只会驱散 1/4 CL个BUFF</td></tr>
+      <tr><td>EdictOfImpenetrableFortress
+        </td><td>:heavy_check_mark:
+        </td><td>:x:
+        </td><td>坚垒法令：现在正确显示持续时间</td></tr>
+      <tr><td>EdictOfInvulnerability
+        </td><td>:heavy_check_mark:
+        </td><td>:x:
+        </td><td>无敌法令：现在正确显示持续时间</td></tr>
+      <tr><td>EdictOfNonresistance
+        </td><td>:heavy_check_mark:
+        </td><td>:x:
+        </td><td>无阻法令：现在正确显示持续时间和豁免检定。增加心智影响和胁迫描述符</td></tr>
+      <tr><td>EdictOfPerseverance
+        </td><td>:heavy_check_mark:
+        </td><td>:x:
+        </td><td>刚毅法令：现在正确显示持续时间。抑制效果更可靠</td></tr>
+      <tr><td>EdictOfPredetermination
+        </td><td>:heavy_check_mark:
+        </td><td>:x:
+        </td><td>预定法令：现在正确显示持续时间</td></tr>
+      <tr><td>EdictOfRetaliation
+        </td><td>:heavy_check_mark:
+        </td><td>:x:
+        </td><td>报复法令：现在正确显示持续时间</td></tr>
+      <tr><td>EmbodimentOfOrder
+        </td><td>:heavy_check_mark:
+        </td><td>:x:
+        </td><td>秩序化身：现在正确显示持续时间</td></tr>
+      <tr><td>EqualForce
+        </td><td>:heavy_check_mark:
+        </td><td>:x:
+        </td><td>实力均分：现在正确显示持续时间</td></tr>
       <tr><td>EyeOfTheSun
         </td><td>:heavy_check_mark:
         </td><td>:x:
         </td><td>烈阳之眼：修正伤害</td></tr>
+      <tr><td>FreezingNothingness
+        </td><td>:heavy_check_mark:
+        </td><td>:x:
+        </td><td>冻结虚无：现在有正确的挣脱DC并造成正确的伤害量</td></tr>
      <tr><td>FieryBody
         </td><td>:heavy_check_mark:
         </td><td>:x:
@@ -903,6 +967,10 @@
         </td><td>:heavy_check_mark:
         </td><td>:x:
         </td><td>伟岸雄姿：只增加1级体型，符合桌面规则</td></tr>
+      <tr><td>LifeBubble
+        </td><td>:heavy_check_mark:
+        </td><td>:x:
+        </td><td>维生气泡：现在正确修正为区域效果并有正确的持续时间</td></tr>
       <tr><td>MagicalVestment
         </td><td>:heavy_check_mark:
         </td><td>:x:
@@ -935,6 +1003,10 @@
         </td><td>:heavy_check_mark:
         </td><td>:x:
         </td><td>自然庇护：掩蔽不再受到真视影响</td></tr>
+      <tr><td>Relativity
+        </td><td>:heavy_check_mark:
+        </td><td>:x:
+        </td><td>相对论：现在正确显示持续时间和豁免检定</td></tr>
       <tr><td>RemoveFear
         </td><td>:heavy_check_mark:
         </td><td>:x:
@@ -987,6 +1059,10 @@
         </td><td>:heavy_check_mark:
         </td><td>:x:
         </td><td>绝不动摇：不再完全免疫对应效果，改为压制</td></tr>
+      <tr><td>UncertanityPrinciple
+        </td><td>:heavy_check_mark:
+        </td><td>:x:
+        </td><td>行迹难测：现在正确显示持续时间</td></tr>
       <tr><td>WaterPush
         </td><td>:heavy_check_mark:
         </td><td>:x:
@@ -1015,6 +1091,10 @@
         </td><td>:heavy_check_mark:
         </td><td>:x:
         </td><td>归零：使用单个骰子决定所有驱散效果</td></tr>
+      <tr><td>ZoneOfPredetermination
+        </td><td>:heavy_check_mark:
+        </td><td>:x:
+        </td><td>预定之域：现在正确显示持续时间</td></tr>
   <tr><td rowspan="5">其他特性<br>Features</td>
         <td>AnimalCompanions - AnimalCompanionProgression
         </td><td>:x:
