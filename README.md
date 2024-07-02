@@ -731,14 +731,14 @@
           </td><td>:x:
           </td><td>强效救难不再给予完全免疫能力，改为压制效果</td></tr>
   <tr><td rowspan="2">奥法骑士<br>EldritchKnight</td>
-      <td>Prerequisites
+      <td>DiverseTrainingFighter
         </td><td>:heavy_check_mark:
         </td><td>:x:
-        </td><td>将前置条件改为更符合桌面规则</td></tr>
-      <tr><td>SpellProgression
+        </td><td>多重训练被适当地限制为只适用于专长</td></tr>
+      <tr><td>PatchDiverseTrainingArcane
         </td><td>:heavy_check_mark:
         </td><td>:x:
-        </td><td>1级获得施法能力升级（拿可知法术），这个改动不能回溯</td></tr>
+        </td><td>多重训练也能正确的影响奥术职业</td></tr>
   <tr><td>地狱骑士<br>Hellknight</td>
       <td>PentamicFaith
         </td><td>:heavy_check_mark:
@@ -761,7 +761,7 @@
         </td><td>:heavy_check_mark:
         </td><td>:x:
         </td><td>从秘闻战斗专长列表中移除诡计道途相关专长</td></tr>
-  <tr><td rowspan="3">冬巫<br>WinterWitch</td>
+  <tr><td rowspan="4">冬巫<br>WinterWitch</td>
       <td>ColdFlesh
         </td><td>:heavy_check_mark:
         </td><td>:x:
@@ -774,6 +774,10 @@
         </td><td>:heavy_check_mark:
         </td><td>:x:
         </td><td>：超然酷寒：新特性，忽略目标一半寒冷抗性</td></tr>
+     <tr><td>WitchProgression
+        </td><td>:heavy_check_mark:
+        </td><td>:x:
+        </td><td>：在决定专长前置条件时，冬巫等级能视为女巫等级</td></tr>
   <tr><td rowspan="59">法术<br>Spells</td>
       <td>AbsoluteOrder
         </td><td>:heavy_check_mark:
@@ -1032,7 +1036,16 @@
         </td><td>:heavy_check_mark:
         </td><td>:x:
         </td><td>亵渎晋升：优先用基础属性来计算最高属性</td></tr>
-  <tr><td rowspan="38">专长<br>Feats</td>
+  <tr><td rowspan="2">模板<br>Types</td>
+        <td>AlignmentSubtypes
+        </td><td>:x:
+        </td><td>:x:
+        </td><td>Alignment subtypes now correctly apply thier outgoing damage alignments.</td></tr>
+     <tr><td>UndeadType
+        </td><td>:heavy_check_mark:
+        </td><td>:x:
+        </td><td>不死生物模板不再额外获得不该有的额外免疫</td></tr>
+  <tr><td rowspan="39">专长<br>Feats</td>
       <td>AlliedSpellcaster
         </td><td>:heavy_check_mark:
         </td><td>:x:
@@ -1145,6 +1158,10 @@
         </td><td>:heavy_check_mark:
         </td><td>:x:
         </td><td>粉碎防御：需要击中后才会生效</td></tr>
+      <tr><td>ShieldFocus
+        </td><td>:heavy_check_mark:
+        </td><td>:x:
+        </td><td>盾牌专攻：正确将盾牌专攻加值纳入护甲加值</td></tr>
       <tr><td>ShifterRush
         </td><td>:heavy_check_mark:
         </td><td>:x:
@@ -1185,11 +1202,15 @@
         </td><td>:heavy_check_mark:
         </td><td>:x:
         </td><td>要害打击：修复和过肩斩的互动</td></tr>
-  <tr><td rowspan="8">神话能力<br>MythicAbilities</td>
+  <tr><td rowspan="9">神话能力<br>MythicAbilities</td>
       <td>AscendantElement
         </td><td>:heavy_check_mark:
         </td><td>:x:
         </td><td>巅峰元素：现在可以正确无视免疫</td></tr>
+      <tr><td>BestJokes
+        </td><td>:heavy_check_mark:
+        </td><td>:x:
+        </td><td>惊天笑料：现在可以正确复制法术dc和超魔，但不再额外触发灵动魔法</td></tr>
       <tr><td>BloodlineAscendance
         </td><td>:heavy_check_mark:
         </td><td>:x:
@@ -1253,7 +1274,7 @@
           </td><td>:heavy_check_mark:
           </td><td>:x:
           </td><td>训练场：修正伤害奖励</td></tr>
-  <tr><td rowspan="30">物品<br>Items</td>
+  <tr><td rowspan="32">物品<br>Items</td>
          <td>Armor - Haramaki
           </td><td>:heavy_check_mark:
           </td><td>:x:
@@ -1314,6 +1335,10 @@
           </td><td>:heavy_check_mark:
           </td><td>:x:
           </td><td>物品 - 超魔权杖（默认关闭）</td></tr>
+        <tr><td>Equipment - NaturalWeaponsFinesse
+          </td><td>:heavy_check_mark:
+          </td><td>:x:
+          </td><td>现在所有天生武器都是娴熟武器</td></tr>
 	<tr><td>Equipment - ShapeshiftersHelm
           </td><td>:heavy_check_mark:
           </td><td>:x:
@@ -1358,6 +1383,10 @@
           </td><td>:heavy_check_mark:
           </td><td>:x:
           </td><td>辉光：正确获得法术抗力</td></tr>
+        <tr><td>Weapons - SaiDamageType
+          </td><td>:heavy_check_mark:
+          </td><td>:x:
+          </td><td>十手：可以正确造成钝击伤害</td></tr>
         <tr><td>Weapons - SoundOfTheVoid
           </td><td>:heavy_check_mark:
           </td><td>:x:
