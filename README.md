@@ -1014,7 +1014,7 @@
         </td><td>:heavy_check_mark:
         </td><td>:x:
         </td><td>亵渎晋升：优先用基础属性来计算最高属性</td></tr>
-  <tr><td rowspan="34">专长<br>Feats</td>
+  <tr><td rowspan="38">专长<br>Feats</td>
       <td>AlliedSpellcaster
         </td><td>:heavy_check_mark:
         </td><td>:x:
@@ -1023,6 +1023,10 @@
         </td><td>:heavy_check_mark:
         </td><td>:x:
         </td><td>奥术打击：防止龙族奥术打击造成过多伤害实例</td></tr>
+      <tr><td>ArmorFocus
+      </td><td>:heavy_check_mark:
+      </td><td>:x:
+      </td><td>护甲专攻：正确将护甲专攻加值纳入护甲加值</td></tr>
       <tr><td>BolsteredMetamagic
         </td><td>:heavy_check_mark:
         </td><td>:x:
@@ -1067,6 +1071,10 @@
         </td><td>:heavy_check_mark:
         </td><td>:x:
         </td><td>赋能野性变身前置：修复对于非德鲁伊但是拥有野性变身能力的职业的前置条件</td></tr>
+      <tr><td>ExtendMetamagic
+      </td><td>:heavy_check_mark:
+      </td><td>:x:
+      </td><td>超魔 - 延时：启用后应该可以延长原本应该能延长，但实际无法延长的法术的持续时间</td></tr>
       <tr><td>FencingGrace
         </td><td>:heavy_check_mark:
         </td><td>:x:
@@ -1123,6 +1131,10 @@
         </td><td>:heavy_check_mark:
         </td><td>:x:
         </td><td>化形师疾冲：修复对于非德鲁伊但是拥有野性变身能力的职业的前置条件</td></tr>
+      <tr><td>ShiftersEdge
+      </td><td>:heavy_check_mark:
+      </td><td>:x:
+      </td><td>化形师锐爪：更加一致地工作，不再与天武护符产生奇怪的互动</td></tr>
       <tr><td>SiezeTheMoment
         </td><td>:heavy_check_mark:
         </td><td>:x:
@@ -1135,6 +1147,10 @@
         </td><td>:heavy_check_mark:
         </td><td>:x:
         </td><td>法术专精：任意职业可选<br><b>注：据说会造成无法更换专精的BUG</b></td></tr>
+      <tr><td>SpellBane
+      </td><td>:heavy_check_mark:
+      </td><td>:x:
+      </td><td>破敌施法：御衡者能够启用破敌施法</td></tr>
       <tr><td>SpiritedCharge
         </td><td>:heavy_check_mark:
         </td><td>:x:
@@ -1961,12 +1977,29 @@
 -------------------------------------------
 ### [ExpandedContent2022](https://github.com/ka-dyn/ExpandedContent)
 + [贴吧汉化帖](https://tieba.baidu.com/p/8108212678)
-> *前置：* 无<br>
+> *前置：* TabletopTweaks-Core 此外此模组虽然不依赖TabletopTweaks-Base，但作者所有测试都是基于安装TT-Base的环境下测试的，且关闭掉Base的几个特定的fix会导致游戏无法加载<br>
 > *中文：* **有汉化，提供QL汉化修正**<br>
 > *安装方式：* **UMM**<br>
 > *新增内容：* 大量信仰、变体、专长等<br>
 + 大型MOD，增加很多新内容
  <table>
+	 	 <tr><th colspan="3">目前不能关闭的TT-Base选项</th></tr>
+	   <tr><td rowspan="16">专长<br>Feats</td>
+	 <tr><td>ArmorFocus</td><td>护甲专攻：正确将护甲专攻加值纳入护甲加值</td></tr>
+	 <tr><td>BolsteredMetamagic</td><td>超魔 - 增效：可用于黏液之触</td></tr>
+	 <tr><td>EmpowerMetamagic</td><td>超魔 - 强效：可用于黏液之触</td></tr>
+	 <tr><td>Endurance</td><td>坚韧：如同同类专长在运动10级后获得额外加值</td></tr>
+	 <tr><td>EnergizedWildShapePrerequisites</td><td>赋能野性变身前置：修复对于非德鲁伊但是拥有野性变身能力的职业的前置条件</td></tr>
+	 <tr><td>ExtendMetamagic</td><td>超魔 - 延时：启用后应该可以延长原本应该能延长，但实际无法延长的法术的持续时间</td></tr>
+	 <tr><td>FrightfulShape</td><td>慑人变身：修复对于非德鲁伊但是拥有野性变身能力的职业的前置条件</td></tr>
+	 <tr><td>MaximizeMetamagic</td><td>超魔 - 极效：可用于黏液之触</td></tr>
+	 <tr><td>NaturalSpell</td><td>自然施法：修复对于非德鲁伊但是拥有野性变身能力的职业的前置条件</td></tr>
+	 <tr><td>PersistantMetamagic</td><td>超魔 - 顽强：所有有豁免骰的法术均可用</td></tr>
+	 <tr><td>RakingClaws</td><td>裂伤之爪：修复对于非德鲁伊但是拥有野性变身能力的职业的前置条件</td></tr>
+	 <tr><td>ShifterRush</td><td>化形师疾冲：修复对于非德鲁伊但是拥有野性变身能力的职业的前置条件</td></tr>
+	 <tr><td>ShiftersEdge</td><td>化形师锐爪：更加一致地工作，不再与天武护符产生奇怪的互动</td></tr>
+	 <tr><td>SpellBane</td><td>破敌施法：御衡者能够启用破敌施法</td></tr>
+	 <tr><td>SpellSpecialization</td><td>法术专精：任意职业可选<br><b>注：据说会造成无法更换专精的BUG</b></td></tr>
  <tr><th colspan="3">新增内容列表<br>详细介绍可以参阅汉化发布贴或游戏内说明</th></tr> 
    <tr><td rowspan="3">职业及变体</td>
        <td>Oathbreaker 复仇暴徒</td>
