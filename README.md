@@ -205,7 +205,7 @@
 <table>  
 <tr><th colspan="5">修改列表</th></tr> 
 <tr><td>分类</td><td>Config中选项</td><td>默认</td><td>房规</td><td>效果</td></tr>
-<tr><td rowspan="37">基本修复<br>Base</td>
+<tr><td rowspan="38">基本修复<br>Base</td>
    <td>AreaOfEffectDoubleTrigger
         </td><td>:x:
         </td><td>:x:
@@ -302,6 +302,10 @@
         </td><td>:heavy_check_mark:
         </td><td>:x:
         </td><td>修复武僧的AC奖励显示</td></tr>
+      <tr><td>FixMythicSpellbookSlotsUI
+        </td><td>:heavy_check_mark:
+        </td><td>:x:
+        </td><td>修复了神话法术书在法术书界面中显示施法属性不足的警告的问题</td></tr>
       <tr><td>FixPrebuffCasterLevels
         </td><td>:heavy_check_mark:
         </td><td>:x:
@@ -367,6 +371,11 @@
         </td><td>:heavy_check_mark:
         </td><td>:x:
         </td><td>逼迫凝视（秩序之力）对于重投类效果正确生效了</td></tr>
+ <tr><td rowspan="1">灵使道途</td>
+          <td>SongOfCourageousDefender
+        </td><td>:heavy_check_mark:
+        </td><td>:x:
+        </td><td>固守之歌已经完全重做并能够正确生效了</td></tr>
   <tr><td>恶魔道途</td>
       <td>BrimorakAspect
         </td><td>:heavy_check_mark:
@@ -435,8 +444,12 @@
           </td><td>:heavy_check_mark:
           </td><td>:x:
           </td><td>毁灭猛击允许狂暴中使用</td></tr>
-  <tr><td rowspan="10">血怒者<br>Bloodrager</td>
-    <td>Base - AbysalBulk
+  <tr><td rowspan="11">血怒者<br>Bloodrager</td>
+    <td>Base - AbyssalBloodrage
+          </td><td>:heavy_check_mark:
+          </td><td>:x:
+          </td><td>深渊血怒现在提供AB和伤害加值</td></tr>
+    <td>Base - AbyssalBulk
           </td><td>:heavy_check_mark:
           </td><td>:x:
           </td><td>深渊血脉巨化魔躯能力在狂暴结束时不再驱散已有的增大效果</td></tr>
@@ -476,11 +489,19 @@
             </td><td>:heavy_check_mark:
             </td><td>:x:
             </td><td>自新魔士：修复憎恨邪恶奖励</td></tr>
-  <tr><td rowspan="5">骑将<br>Cavalier</td>
+  <tr><td rowspan="7">骑将<br>Cavalier</td>
     <td>Base - CavalierMobility
           </td><td>:heavy_check_mark:
           </td><td>:x:
           </td><td>骑乘移动时忽略运动检定的护甲惩罚</td></tr>
+        <tr><td>Base - CavalierMountSelection
+          </td><td>:heavy_check_mark:
+          </td><td>:x:
+          </td><td>小体型骑将允许选择狼坐骑</td></tr>
+        <tr><td>Base - MightyCharge
+          </td><td>:heavy_check_mark:
+          </td><td>:x:
+          </td><td>强劲冲锋现在可以同时选择冲撞和绊摔</td></tr>
         <tr><td>Base - CavalierMountSelection
           </td><td>:heavy_check_mark:
           </td><td>:x:
@@ -574,7 +595,7 @@
             </td><td>:heavy_check_mark:
             </td><td>:x:
             </td><td>鳞甲之拳：龙裔怒火替换为Unchained版本 </td></tr>
-  <tr><td rowspan="2">先知<br>Oracle</td>
+  <tr><td rowspan="3">先知<br>Oracle</td>
         <td>Base - NaturesWhisperMonkStacking</td>
           </td><td>:heavy_check_mark:
           </td><td>:x:
@@ -583,6 +604,10 @@
           </td><td>:heavy_check_mark:
           </td><td>:x:
           </td><td>启示：烈焰魔法机制改为桌面规则</td></tr>
+        <tr><td>Base - RevelationFreezingSpells
+          </td><td>:heavy_check_mark:
+          </td><td>:x:
+          </td><td>启示：冻寒法术机制改为桌面规则</td></tr>
   <tr><td rowspan="3">圣武士<br>Paladin</td>
         <td>Base - DivineMountTemplate</td>
           </td><td>:heavy_check_mark:
@@ -683,31 +708,15 @@
             </td><td>:heavy_check_mark:
             </td><td>:x:
             </td><td>混血术士：补充混血术士应承受的-2意志豁免惩罚</td></tr>       
-  <tr><td rowspan="6">战斗祭司<br>Warpriest</td>
-        <td>Base - AirBlessing
+  <tr><td rowspan="2">战斗祭司<br>Warpriest</td>
+        <td>Base - FighterTraining
           </td><td>:heavy_check_mark:
           </td><td>:x:
-          </td><td>空气主要祝福不再造成过多的伤害实例</td></tr>
-        <tr><td>Base - EarthBlessing
+          </td><td>战士训练现在正确的仅用于专长上</td></tr>
+        <tr><td>Base - WarBlessing
           </td><td>:heavy_check_mark:
           </td><td>:x:
-          </td><td>大地次要祝福不再造成过多的伤害实例</td></tr>
-        <tr><td>Base - FireBlessing
-          </td><td>:heavy_check_mark:
-          </td><td>:x:
-          </td><td>火焰次要祝福不再造成过多的伤害实例</td></tr>
-        <tr><td>Base - LuckBlessing
-          </td><td>:heavy_check_mark:
-          </td><td>:x:
-          </td><td>幸运祝福提供正确主要能力</td></tr>
-        <tr><td>Base - WaterBlessing
-          </td><td>:heavy_check_mark:
-          </td><td>:x:
-          </td><td>流水次要祝福不再造成过多的伤害实例</td></tr>
-        <tr><td>Base - WeatherBlessing
-          </td><td>:heavy_check_mark:
-          </td><td>:x:
-          </td><td>天气次要祝福不再造成过多的伤害实例</td></tr>      
+          </td><td>修复了战争祝福的移动速度</td></tr>
   <tr><td rowspan="3">巫师<br>Witch</td>
         <td>Base - AgilityPatron
           </td><td>:heavy_check_mark:
@@ -721,6 +730,15 @@
           </td><td>:heavy_check_mark:
           </td><td>:x:
           </td><td>强效救难不再给予完全免疫能力，改为压制效果</td></tr>
+  <tr><td rowspan="2">奥法骑士<br>EldritchKnight</td>
+      <td>Prerequisites
+        </td><td>:heavy_check_mark:
+        </td><td>:x:
+        </td><td>将前置条件改为更符合桌面规则</td></tr>
+      <tr><td>SpellProgression
+        </td><td>:heavy_check_mark:
+        </td><td>:x:
+        </td><td>1级获得施法能力升级（拿可知法术），这个改动不能回溯</td></tr>
   <tr><td>地狱骑士<br>Hellknight</td>
       <td>PentamicFaith
         </td><td>:heavy_check_mark:
