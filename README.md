@@ -646,7 +646,7 @@
             </td><td>:heavy_check_mark:
             </td><td>:x:
             </td><td>谍报专家：寻找陷阱特性现在对察觉和巧手生效</td></tr>   
-  <tr><td rowspan="7">游荡者<br>Rogue</td>
+  <tr><td rowspan="6">游荡者<br>Rogue</td>
         <td>Base - DispellingAttack
           </td><td>:heavy_check_mark:
           </td><td>:x:
@@ -655,10 +655,6 @@
           </td><td>:heavy_check_mark:
           </td><td>:x:
           </td><td>游荡者天赋不能重复选择同一个（比如战斗专长）</td></tr>
-        <tr><td>Base - SlipperyMind
-          </td><td>:heavy_check_mark:
-          </td><td>:x:
-          </td><td>心智灵活纠正为高级天赋</td></tr>
         <tr><td>Base - Trapfinding
           </td><td>:heavy_check_mark:
           </td><td>:x:
@@ -798,7 +794,7 @@
         </td><td>:heavy_check_mark:
         </td><td>:x:
         </td><td>：在决定专长前置条件时，冬巫等级能视为女巫等级</td></tr>
-  <tr><td rowspan="76">法术<br>Spells</td>
+  <tr><td rowspan="75">法术<br>Spells</td>
       <td>AbsoluteOrder
         </td><td>:heavy_check_mark:
         </td><td>:x:
@@ -843,10 +839,6 @@
         </td><td>:heavy_check_mark:
         </td><td>:x:
         </td><td>高等命令术：修复缺失的描述，符合桌面规则</td></tr>
-      <tr><td>ConeOfCold
-        </td><td>:heavy_check_mark:
-        </td><td>:x:
-        </td><td>寒冰锥：加入巫师法术表</td></tr>
       <tr><td>CorruptMagic
         </td><td>:heavy_check_mark:
         </td><td>:x:
@@ -855,10 +847,10 @@
         </td><td>:heavy_check_mark:
         </td><td>:x:
         </td><td>圣战之刃：只有重击才能触发反胃</td></tr>
-      <tr><td>清澈心灵
+      <tr><td>Crystal Mind
         </td><td>:heavy_check_mark:
         </td><td>:x:
-        </td><td>水晶之心：现在正确显示持续时间</td></tr>
+        </td><td>清澈心灵：现在正确显示持续时间</td></tr>
       <tr><td>DeathWard
         </td><td>:heavy_check_mark:
         </td><td>:x:
@@ -919,6 +911,10 @@
         </td><td>:heavy_check_mark:
         </td><td>:x:
         </td><td>火焰烙印：攻击时不再造成过多伤害实例</td></tr>
+      <tr><td>Firebrand
+        </td><td>:heavy_check_mark:
+        </td><td>:x:
+        </td><td>飓风之弓：现在使用更好的虚拟体型计算</td></tr>
       <tr><td>IcyBody
         </td><td>:heavy_check_mark:
         </td><td>:x:
@@ -927,6 +923,10 @@
         </td><td>:heavy_check_mark:
         </td><td>:x:
         </td><td>钢铁之躯：不再是变形法术</td></tr>
+      <tr><td>LeadBlades
+        </td><td>:heavy_check_mark:
+        </td><td>:x:
+        </td><td>重压之刃：现在使用更好的虚拟体型计算</td></tr>
       <tr><td>SunMarked
         </td><td>:heavy_check_mark:
         </td><td>:x:
@@ -947,10 +947,6 @@
         </td><td>:heavy_check_mark:
         </td><td>:x:
         </td><td>友善之拥：修复免疫效果</td></tr>
-      <tr><td>FrightfulAspect
-        </td><td>:heavy_check_mark:
-        </td><td>:x:
-        </td><td>可怖外表：正确应用恐惧</td></tr>
       <tr><td>Geniekind
         </td><td>:heavy_check_mark:
         </td><td>:x:
@@ -1027,10 +1023,6 @@
         </td><td>:heavy_check_mark:
         </td><td>:x:
         </td><td>烦扰植被：使用正确的法术DC并修复应用DEBUFF</td></tr>
-      <tr><td>ShadowConjuration
-        </td><td>:heavy_check_mark:
-        </td><td>:x:
-        </td><td>阴影咒法：加入法师法术表</td></tr>
       <tr><td>ShadowEvocation
         </td><td>:heavy_check_mark:
         </td><td>:x:
