@@ -90,7 +90,7 @@
 | [deceiverbuff](#deceiverbuff) | 魔法诈欺师加强 | 暂无 | :heavy_check_mark: | :+1::+1::+1:| :file_folder: |🛠️🛠️||
 | [FinessableSabers](#FinessableSabers) | FinessableSabers | QL汉化 | :heavy_check_mark: | :+1:| :file_folder: |🛠️||
 | [HombrewFighterMagus](#HombrewFighterMagus) | 原创魔战 | QL汉化 | :x: | :+1:| :file_folder: |🛠️||
-| [Prestige-Minus](#Prestige-Minus) | Prestige-Minus | 暂无 | :x: | :+1:| :file_folder: |🛠️||
+| [Prestige-Minus](#Prestige-Minus) | 小队伍游玩 | 部分自带 | :heavy_check_mark: | :+2:| :file_folder: |🛠️🛠️🛠️||
 
 备注
 + UMM一栏为是否使用UMM安装
@@ -4656,7 +4656,7 @@ C:\Users\你的用户名\AppData\LocalLow\Owlcat Games\Pathfinder Wrath Of The R
 ------------------------------------------- 
 ### [Prestige Minus](https://github.com/YLMstring/Prestige-Minus)
 > *前置：* 需关闭活跃队友和仅技能使用者可获得经验的选项<br>
-> *中文：* **有（弹窗提示无中文）**<br>
+> *中文：* **自带（弹窗提示无中文）**<br>
 > *安装方式：* **UMM**<br>
 > *新增内容：*
 > - 允许使用更小的队伍进行游戏
