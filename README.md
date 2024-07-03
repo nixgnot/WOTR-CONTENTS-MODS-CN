@@ -4655,7 +4655,7 @@ C:\Users\你的用户名\AppData\LocalLow\Owlcat Games\Pathfinder Wrath Of The R
 
 ------------------------------------------- 
 ### [Prestige Minus](https://github.com/YLMstring/Prestige-Minus)
-> *前置：* 需关闭Owlcat自定义选项<br>
+> *前置：* 需关闭活跃队友和仅技能使用者可获得经验的选项<br>
 > *中文：* **无**<br>
 > *安装方式：* **UMM**<br>
 > *新增内容：*
@@ -4669,7 +4669,7 @@ C:\Users\你的用户名\AppData\LocalLow\Owlcat Games\Pathfinder Wrath Of The R
 > - 20级指挥官可在达到特定经验值后增加队伍规模
 > - 获得任意虫群等级将强制队伍规模为6人
 
-注:该mod不需要Prestige Plus作为前置,功能无法单独开关
+功能无法单独开关
 
 ------------------------------------------- 
 
