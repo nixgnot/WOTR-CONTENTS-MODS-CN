@@ -25804,6 +25804,8 @@
       "zhCN": "召唤暴风雪元素",
       "enGB": "Summoned Blizzard Elemental"
       "Key": "6afb03fa63454a368938fbe98b1903ef",
+    },
+    {
       "SimpleName": "AnimalCompanionEnergyTypeAcid.Description",
       "ProcessTemplates": true,
       "IsUsed": false,
@@ -25863,6 +25865,400 @@
       "zhCN": "伙伴能量类型-火焰"
     },
     {
+      "Key": "9182cec31aca46b0982f7e91b4b0955d",
+      "SimpleName": "PinpointTargetingMovementDisabledFlag.Name",
+      "ProcessTemplates": false,
+      "enGB": "Pinpoint Targeting Movement Disabled flag",
+      "zhCN": "精确瞄准移动已禁用标记"
+    },
+    {
+      "Key": "f8c7ef51308f4a88a5ce053fc11a52e3",
+      "SimpleName": "SpelllikeAcidSplashFeature.Name",
+      "ProcessTemplates": false,
+      "enGB": "SpelllikeAcidSplashFeature",
+      "zhCN": "类似酸液飞溅的法术"
+    },
+    {
+      "Key": "884bb35d2b6746ccb7e1f6ce5c17035f",
+      "SimpleName": "SpelllikeDazeFeature.Name",
+      "ProcessTemplates": false,
+      "enGB": "SpelllikeDazeFeature",
+      "zhCN": "类似眩晕术的法术"
+    },
+    {
+      "Key": "a8950a5bfa704a03ab774320fc5ba7fb",
+      "SimpleName": "SpelllikeDisruptUndeadFeature.Name",
+      "ProcessTemplates": false,
+      "enGB": "SpelllikeDisruptUndeadFeature",
+      "zhCN": "类似打击死灵的法术"
+    },
+    {
+      "Key": "833951d883ba474d87cbd3da915688bb",
+      "SimpleName": "SpelllikeFlareFeature.Name",
+      "ProcessTemplates": false,
+      "enGB": "SpelllikeFlareFeature",
+      "zhCN": "类似闪光术的法术"
+    },
+    {
+      "Key": "6fe0f8a4f0454bb4b8ee14e6e7c4197e",
+      "SimpleName": "SpelllikeJoltFeature.Name",
+      "ProcessTemplates": false,
+      "enGB": "SpelllikeJoltFeature",
+      "zhCN": "类似放电的法术"
+    },
+    {
+      "Key": "bbf27266c6684b0d80769372aa7d9471",
+      "SimpleName": "SpelllikeMageLightFeature.Name",
+      "ProcessTemplates": false,
+      "enGB": "SpelllikeMageLightFeature",
+      "zhCN": "类似光亮术的法术"
+    },
+    {
+      "Key": "c91b1f737d874ff4a7e963bfbdb9e1ca",
+      "SimpleName": "SpelllikeRayOfFrostFeature.Name",
+      "ProcessTemplates": false,
+      "enGB": "SpelllikeRayOfFrostFeature",
+      "zhCN": "类似冷冻射线的法术"
+    },
+    {
+      "Key": "4e9c25ca309c489798b8791957a47879",
+      "SimpleName": "SpelllikeResistanceFeature.Name",
+      "ProcessTemplates": false,
+      "enGB": "SpelllikeResistanceFeature",
+      "zhCN": "类似提升抗力的法术"
+    },
+    {
+      "Key": "db0e58b4e31041169740899c1d469ca6",
+      "SimpleName": "SpelllikeTouchOfFatigueFeature.Name",
+      "ProcessTemplates": false,
+      "enGB": "SpelllikeTouchOfFatigueFeature",
+      "zhCN": "类似疲劳之触的法术"
+    },
+    {
+      "Key": "db0e5bf51bc94b4194ef1d6728443c50",
+      "SimpleName": "SummonedBlizzardElementalWhirlwindDebuff.Description",
+      "ProcessTemplates": true,
+      "zhCN": "一些生物可以变身为旋风以及由旋风变回原状。旋风形态的生物不能进行正常攻击，也不会威胁到它周围的区域。被旋风波及的生物敏捷属性承受-4减值，攻击检定承受-2减值，且必须成功进行专注检定（难度等级为15+法术等级）才可施放法术。受影响的生物每轮必须进行反射豁免检定（难度等级为10+生物HD的一半+生物的力量调整值），失败将受到如同被生物的尖刺攻击命中的伤害，并加上与寒冷伤害相同数量的伤害骰子。",
+      "enGB": "Some creatures can transform themselves into whirlwinds and remain in that form for up to 1 round for every 2 HD they have. A creature in whirlwind form cannot make its normal attacks and does not threaten the area around it. Creatures caught in the whirlwind take a –4 penalty to Dexterity and a –2 penalty on attack rolls and must succeed on a concentration check (DC 15 + spell level) to cast a spell. An affected creature must succeed on a Reflex save (DC 10 + half monster's HD + the monster's Strength modifier) each round or take damage as if it were hit by the creatures spike attack, plus the same amount of damage dice as cold damage."
+    },
+    {
+      "Key": "d8541debe42e40528c57257ec08092d7",
+      "SimpleName": "SummonedBlizzardElementalWhirlwindDebuff.Name",
+      "ProcessTemplates": false,
+      "zhCN": "冰雹旋风",
+      "enGB": "Whirlwind of Hail"
+    },
+    {
+      "Key": "1c863b32f4524f95a4ff5e3a409b5e19",
+      "SimpleName": "TouchoftheMoonCriticalWoundsBuff.Description",
+      "ProcessTemplates": true,
+      "IsUsed": false,
+      "zhCN": "你已通过盟友月亮之触的治疗法术获得了临时生命。\n如果受到另一个月亮之触效果的影响，此临时生命将被取代。",
+      "enGB": "You have been granted temporary health from a allied touch of the moon cure spell. \nThis temporary health will be replaced if affected by another instance of touch of the moon."
+    },
+    {
+      "Key": "ce42eb2d2a15429d8d35e96e55664834",
+      "SimpleName": "TouchOfTheMoonCureAbilityCure1.Description",
+      "ProcessTemplates": true,
+      "IsUsed": false,
+      "zhCN": "如果你施放治疗法术，那么它们可能更加强效，但只影响目标的心灵。以一个自由动作，你可以花费一个法术位，你在这一轮施放的下一个同等级治疗法术会使目标额外获得治疗法术通常治愈的每d8骰1d4＋1的临时生命值。这类临时生命值在经过相当于你一半先知等级的分钟数后消散。",
+      "enGB": "Cure spells are potentially more effective but entirely in the target’s mind. As a free action you may spend a spell slot, the next cure spell you cast this round of the same level will also grant temporary hit points equal to 1d4 + 1 for each d8 that would normally be healed by the spell. Hit points healed this way expire after a number of minutes equal to half your oracle level."
+    },
+    {
+      "Key": "7b0abae50e9c4eba896a0b79630e5a25",
+      "SimpleName": "TouchOfTheMoonCureAbilityCure2.Description",
+      "ProcessTemplates": true,
+      "IsUsed": false,
+      "zhCN": "如果你施放治疗法术，那么它们可能更加强效，但只影响目标的心灵。以一个自由动作，你可以花费一个法术位，你在这一轮施放的下一个同等级治疗法术会使目标额外获得治疗法术通常治愈的每d8骰1d4＋1的临时生命值。这类临时生命值在经过相当于你一半先知等级的分钟数后消散。",
+      "enGB": "Cure spells are potentially more effective but entirely in the target’s mind. As a free action you may spend a spell slot, the next cure spell you cast this round of the same level will also grant temporary hit points equal to 1d4 + 1 for each d8 that would normally be healed by the spell. Hit points healed this way expire after a number of minutes equal to half your oracle level."
+    },
+    {
+      "Key": "bcb6c9df42f9435d8f38249e8487dd35",
+      "SimpleName": "TouchOfTheMoonCureAbilityCure3.Description",
+      "ProcessTemplates": true,
+      "IsUsed": false,
+      "zhCN": "如果你施放治疗法术，那么它们可能更加强效，但只影响目标的心灵。以一个自由动作，你可以花费一个法术位，你在这一轮施放的下一个同等级治疗法术会使目标额外获得治疗法术通常治愈的每d8骰1d4＋1的临时生命值。这类临时生命值在经过相当于你一半先知等级的分钟数后消散。",
+      "enGB": "Cure spells are potentially more effective but entirely in the target’s mind. As a free action you may spend a spell slot, the next cure spell you cast this round of the same level will also grant temporary hit points equal to 1d4 + 1 for each d8 that would normally be healed by the spell. Hit points healed this way expire after a number of minutes equal to half your oracle level."
+    },
+    {
+      "Key": "7c47ba8bb8854cb9a05068e28a559573",
+      "SimpleName": "TouchOfTheMoonCureAbilityCure4.Description",
+      "ProcessTemplates": true,
+      "IsUsed": false,
+      "zhCN": "如果你施放治疗法术，那么它们可能更加强效，但只影响目标的心灵。以一个自由动作，你可以花费一个法术位，你在这一轮施放的下一个同等级治疗法术会使目标额外获得治疗法术通常治愈的每d8骰1d4＋1的临时生命值。这类临时生命值在经过相当于你一半先知等级的分钟数后消散。",
+      "enGB": "Cure spells are potentially more effective but entirely in the target’s mind. As a free action you may spend a spell slot, the next cure spell you cast this round of the same level will also grant temporary hit points equal to 1d4 + 1 for each d8 that would normally be healed by the spell. Hit points healed this way expire after a number of minutes equal to half your oracle level."
+    },
+    {
+      "Key": "f1a2684b68c040b1b0931b6aa6c44593",
+      "SimpleName": "TouchOfTheMoonCureAbilityCure5.Description",
+      "ProcessTemplates": true,
+      "IsUsed": false,
+      "zhCN": "如果你施放治疗法术，那么它们可能更加强效，但只影响目标的心灵。以一个自由动作，你可以花费一个法术位，你在这一轮施放的下一个同等级治疗法术会使目标额外获得治疗法术通常治愈的每d8骰1d4＋1的临时生命值。这类临时生命值在经过相当于你一半先知等级的分钟数后消散。",
+      "enGB": "Cure spells are potentially more effective but entirely in the target’s mind. As a free action you may spend a spell slot, the next cure spell you cast this round of the same level will also grant temporary hit points equal to 1d4 + 1 for each d8 that would normally be healed by the spell. Hit points healed this way expire after a number of minutes equal to half your oracle level."
+    },
+    {
+      "Key": "77ace7e85280473fbee48c9f65f76ebd",
+      "SimpleName": "TouchOfTheMoonCureAbilityCure6.Description",
+      "ProcessTemplates": true,
+      "IsUsed": false,
+      "zhCN": "如果你施放治疗法术，那么它们可能更加强效，但只影响目标的心灵。以一个自由动作，你可以花费一个法术位，你在这一轮施放的下一个同等级治疗法术会使目标额外获得治疗法术通常治愈的每d8骰1d4＋1的临时生命值。这类临时生命值在经过相当于你一半先知等级的分钟数后消散。",
+      "enGB": "Cure spells are potentially more effective but entirely in the target’s mind. As a free action you may spend a spell slot, the next cure spell you cast this round of the same level will also grant temporary hit points equal to 1d4 + 1 for each d8 that would normally be healed by the spell. Hit points healed this way expire after a number of minutes equal to half your oracle level."
+    },
+    {
+      "Key": "a69bdd1abfc54f9785a69d27fc0db59c",
+      "SimpleName": "TouchOfTheMoonCureAbilityCure7.Description",
+      "ProcessTemplates": true,
+      "IsUsed": false,
+      "zhCN": "如果你施放治疗法术，那么它们可能更加强效，但只影响目标的心灵。以一个自由动作，你可以花费一个法术位，你在这一轮施放的下一个同等级治疗法术会使目标额外获得治疗法术通常治愈的每d8骰1d4＋1的临时生命值。这类临时生命值在经过相当于你一半先知等级的分钟数后消散。",
+      "enGB": "Cure spells are potentially more effective but entirely in the target’s mind. As a free action you may spend a spell slot, the next cure spell you cast this round of the same level will also grant temporary hit points equal to 1d4 + 1 for each d8 that would normally be healed by the spell. Hit points healed this way expire after a number of minutes equal to half your oracle level."
+    },
+    {
+      "Key": "1bbd2d684ff74c198d4e9926cf699d96",
+      "SimpleName": "TouchOfTheMoonCureAbilityCure8.Description",
+      "ProcessTemplates": true,
+      "IsUsed": false,
+      "zhCN": "如果你施放治疗法术，那么它们可能更加强效，但只影响目标的心灵。以一个自由动作，你可以花费一个法术位，你在这一轮施放的下一个同等级治疗法术会使目标额外获得治疗法术通常治愈的每d8骰1d4＋1的临时生命值。这类临时生命值在经过相当于你一半先知等级的分钟数后消散。",
+      "enGB": "Cure spells are potentially more effective but entirely in the target’s mind. As a free action you may spend a spell slot, the next cure spell you cast this round of the same level will also grant temporary hit points equal to 1d4 + 1 for each d8 that would normally be healed by the spell. Hit points healed this way expire after a number of minutes equal to half your oracle level."
+    },
+    {
+      "Key": "3762e90582d54c44aee00ff04585a685",
+      "SimpleName": "TouchOfTheMoonCureAbilityCure9.Description",
+      "ProcessTemplates": true,
+      "zhCN": "如果你施放治疗法术，那么它们可能更加强效，但只影响目标的心灵。以一个自由动作，你可以花费一个法术位，你在这一轮施放的下一个同等级治疗法术会使目标额外获得治疗法术通常治愈的每d8骰1d4＋1的临时生命值。这类临时生命值在经过相当于你一半先知等级的分钟数后消散。",
+      "enGB": "Cure spells are potentially more effective but entirely in the target’s mind. As a free action you may spend a spell slot, the next cure spell you cast this round of the same level will also grant temporary hit points equal to 1d4 + 1 for each d8 that would normally be healed by the spell. Hit points healed this way expire after a number of minutes equal to half your oracle level."
+    },
+    {
+      "Key": "cfb5fdc92ec14be0bd73b0dfa360f22d",
+      "SimpleName": "TouchOfTheMoonCureBuffCure1.Description",
+      "ProcessTemplates": true,
+      "zhCN": "你在这一轮施放的下一个1环治疗法术会使目标额外获得治疗法术通常治愈的每d8骰1d4＋1的临时生命值。这类临时生命值在经过相当于你一半先知等级的分钟数后消散。",
+      "enGB": "The next level 1 cure spell you cast this round will also grant temporary hit points equal to 1d4 + 1 for each d8 that would normally be healed by the spell to all targets. Hit points healed this way expire after a number of minutes equal to half your oracle level."
+    },
+    {
+      "Key": "38b38aa8e4ea488999271ec5b279a04a",
+      "SimpleName": "TouchOfTheMoonCureBuffCure1.Name",
+      "ProcessTemplates": false,
+      "zhCN": "月亮之触 - 治疗法术 1环",
+      "enGB": "Touch of the Moon - Cure Level 1"
+    },
+    {
+      "Key": "6f8fb995493d4f948474fac6003e5d43",
+      "SimpleName": "TouchOfTheMoonCureBuffCure2.Description",
+      "ProcessTemplates": true,
+      "zhCN": "你在这一轮施放的下一个2环治疗法术会使目标额外获得治疗法术通常治愈的每d8骰1d4＋1的临时生命值。这类临时生命值在经过相当于你一半先知等级的分钟数后消散。",
+      "enGB": "The next level 2 cure spell you cast this round will also grant temporary hit points equal to 1d4 + 1 for each d8 that would normally be healed by the spell to all targets. Hit points healed this way expire after a number of minutes equal to half your oracle level."
+    },
+    {
+      "Key": "3ea1584448054fc1b3324a9030a8a2e0",
+      "SimpleName": "TouchOfTheMoonCureBuffCure2.Name",
+      "ProcessTemplates": false,
+      "zhCN": "月亮之触 - 治疗法术 2环",
+      "enGB": "Touch of the Moon - Cure Level 2"
+    },
+    {
+      "Key": "3e28735ae13241a58b4250241b2d579f",
+      "SimpleName": "TouchOfTheMoonCureBuffCure3.Description",
+      "ProcessTemplates": true,
+      "zhCN": "你在这一轮施放的下一个3环治疗法术会使目标额外获得治疗法术通常治愈的每d8骰1d4＋1的临时生命值。这类临时生命值在经过相当于你一半先知等级的分钟数后消散。",
+      "enGB": "The next level 3 cure spell you cast this round will also grant temporary hit points equal to 1d4 + 1 for each d8 that would normally be healed by the spell to all targets. Hit points healed this way expire after a number of minutes equal to half your oracle level."
+    },
+    {
+      "Key": "00ef1cde702a46d9af28098389a445e4",
+      "SimpleName": "TouchOfTheMoonCureBuffCure3.Name",
+      "ProcessTemplates": false,
+      "zhCN": "月亮之触 - 治疗法术 3环",
+      "enGB": "Touch of the Moon - Cure Level 3"
+    },
+    {
+      "Key": "123a1613cd5740529fe640219ce4d0f7",
+      "SimpleName": "TouchOfTheMoonCureBuffCure4.Description",
+      "ProcessTemplates": true,
+      "zhCN": "你在这一轮施放的下一个4环治疗法术会使目标额外获得治疗法术通常治愈的每d8骰1d4＋1的临时生命值。这类临时生命值在经过相当于你一半先知等级的分钟数后消散。",
+      "enGB": "The next level 4 cure spell you cast this round will also grant temporary hit points equal to 1d4 + 1 for each d8 that would normally be healed by the spell to all targets. Hit points healed this way expire after a number of minutes equal to half your oracle level."
+    },
+    {
+      "Key": "f499e71b688f4018a74af0a800e1f439",
+      "SimpleName": "TouchOfTheMoonCureBuffCure4.Name",
+      "ProcessTemplates": false,
+      "zhCN": "月亮之触 - 治疗法术 4环",
+      "enGB": "Touch of the Moon - Cure Level 4"
+    },
+    {
+      "Key": "02064cb09d504bf3a7ee044e8432a27f",
+      "SimpleName": "TouchOfTheMoonCureBuffCure5.Description",
+      "ProcessTemplates": true,
+      "zhCN": "你在这一轮施放的下一个5环治疗法术会使目标额外获得治疗法术通常治愈的每d8骰1d4＋1的临时生命值。这类临时生命值在经过相当于你一半先知等级的分钟数后消散。",
+      "enGB": "The next level 5 cure spell you cast this round will also grant temporary hit points equal to 1d4 + 1 for each d8 that would normally be healed by the spell to all targets. Hit points healed this way expire after a number of minutes equal to half your oracle level."
+    },
+    {
+      "Key": "535983104ca64bb5a9d41ccd6a5c480b",
+      "SimpleName": "TouchOfTheMoonCureBuffCure5.Name",
+      "ProcessTemplates": false,
+      "zhCN": "月亮之触 - 治疗法术 5环",
+      "enGB": "Touch of the Moon - Cure Level 5"
+    },
+    {
+      "Key": "44f3d5118bd9445396fa332ab317d968",
+      "SimpleName": "TouchOfTheMoonCureBuffCure6.Description",
+      "ProcessTemplates": true,
+      "zhCN": "你在这一轮施放的下一个6环治疗法术会使目标额外获得治疗法术通常治愈的每d8骰1d4＋1的临时生命值。这类临时生命值在经过相当于你一半先知等级的分钟数后消散。",
+      "enGB": "The next level 6 cure spell you cast this round will also grant temporary hit points equal to 1d4 + 1 for each d8 that would normally be healed by the spell to all targets. Hit points healed this way expire after a number of minutes equal to half your oracle level."
+    },
+    {
+      "Key": "d65f88ad0c0246ba96b66e29d70968a6",
+      "SimpleName": "TouchOfTheMoonCureBuffCure6.Name",
+      "ProcessTemplates": false,
+      "zhCN": "月亮之触 - 治疗法术 6环",
+      "enGB": "Touch of the Moon - Cure Level 6"
+    },
+    {
+      "Key": "cebc078942694199b8c95662149eb214",
+      "SimpleName": "TouchOfTheMoonCureBuffCure7.Description",
+      "ProcessTemplates": true,
+      "zhCN": "你在这一轮施放的下一个7环治疗法术会使目标额外获得治疗法术通常治愈的每d8骰1d4＋1的临时生命值。这类临时生命值在经过相当于你一半先知等级的分钟数后消散。",
+      "enGB": "The next level 7 cure spell you cast this round will also grant temporary hit points equal to 1d4 + 1 for each d8 that would normally be healed by the spell to all targets. Hit points healed this way expire after a number of minutes equal to half your oracle level."
+    },
+    {
+      "Key": "24986ad4b3284584a5c74a6d4d8f4ca9",
+      "SimpleName": "TouchOfTheMoonCureBuffCure7.Name",
+      "ProcessTemplates": false,
+      "zhCN": "月亮之触 - 治疗法术 7环",
+      "enGB": "Touch of the Moon - Cure Level 7"
+    },
+    {
+      "Key": "e4fd7e6a5bba4e31ad957e9875503f8f",
+      "SimpleName": "TouchOfTheMoonCureBuffCure8.Description",
+      "ProcessTemplates": true,
+      "zhCN": "你在这一轮施放的下一个8环治疗法术会使目标额外获得治疗法术通常治愈的每d8骰1d4＋1的临时生命值。这类临时生命值在经过相当于你一半先知等级的分钟数后消散。",
+      "enGB": "The next level 8 cure spell you cast this round will also grant temporary hit points equal to 1d4 + 1 for each d8 that would normally be healed by the spell to all targets. Hit points healed this way expire after a number of minutes equal to half your oracle level."
+    },
+    {
+      "Key": "cf4aca0d4d824d9cb929b0e042accad5",
+      "SimpleName": "TouchOfTheMoonCureBuffCure8.Name",
+      "ProcessTemplates": false,
+      "zhCN": "月亮之触 - 治疗法术 8环",
+      "enGB": "Touch of the Moon - Cure Level 8"
+    },
+    {
+      "Key": "d6665a3733154ebbbbbb65b4694a7b86",
+      "SimpleName": "TouchOfTheMoonCureBuffCure9.Description",
+      "ProcessTemplates": true,
+      "zhCN": "你在这一轮施放的下一个9环治疗法术会使目标额外获得治疗法术通常治愈的每d8骰1d4＋1的临时生命值。这类临时生命值在经过相当于你一半先知等级的分钟数后消散。",
+      "enGB": "The next level 9 cure spell you cast this round will also grant temporary hit points equal to 1d4 + 1 for each d8 that would normally be healed by the spell to all targets. Hit points healed this way expire after a number of minutes equal to half your oracle level."
+    },
+    {
+      "Key": "675b6a4c48044d01bff9b43de169214a",
+      "SimpleName": "TouchOfTheMoonCureBuffCure9.Name",
+      "ProcessTemplates": false,
+      "zhCN": "月亮之触 - 治疗法术 9环",
+      "enGB": "Touch of the Moon - Cure Level 9"
+    },
+    {
+      "Key": "24e0fc99cf124061a83431a2161fbc00",
+      "SimpleName": "TouchoftheMoonLightWoundsBuff.Description",
+      "ProcessTemplates": true,
+      "IsUsed": false,
+      "zhCN": "你已通过盟友月亮之触的治疗法术获得了临时生命值。\n如果受到另一个月亮之触效果的影响，此临时生命值将被取代。",
+      "enGB": "You have been granted temporary health from a allied touch of the moon cure spell. \nThis temporary health will be replaced if affected by another instance of touch of the moon."
+    },
+    {
+      "Key": "14355e1da7a34962886c66ebe06ecb37",
+      "SimpleName": "TouchoftheMoonLightWoundsBuff.Name",
+      "ProcessTemplates": false,
+      "zhCN": "月亮之触 - 临时生命值",
+      "enGB": "Touch of the Moon - Temporary Health"
+    },
+    {
+      "Key": "f8468db65fc2488ca2ed6f0db54869e7",
+      "SimpleName": "TouchoftheMoonModerateWoundsBuff.Description",
+      "ProcessTemplates": true,
+      "IsUsed": false,
+      "zhCN": "你已通过盟友月亮之触的治疗法术获得了临时生命值。\n如果受到另一个月亮之触效果的影响，此临时生命值将被取代。",
+      "enGB": "You have been granted temporary health from a allied touch of the moon cure spell. \nThis temporary health will be replaced if affected by another instance of touch of the moon."
+    },
+    {
+      "Key": "906ad16393ea42ce9d7df27428591e7d",
+      "SimpleName": "TouchoftheMoonSeriousWoundsBuff.Description",
+      "ProcessTemplates": true,
+      "zhCN": "你已通过盟友月亮之触的治疗法术获得了临时生命值。\n如果受到另一个月亮之触效果的影响，此临时生命值将被取代。",
+      "enGB": "You have been granted temporary health from a allied touch of the moon cure spell. \nThis temporary health will be replaced if affected by another instance of touch of the moon."
+    },
+    {
+      "Key": "8a4bfb70e7de4b349566e126f0dda799",
+      "SimpleName": "AmuletEarlyRider.Name",
+      "ProcessTemplates": false,
+      "zhCN": "速成骑手。",
+      "enGB": "Early Rider"
+    },
+    {
+      "Key": "d205bf66b7c740ad89c1bea92d38e884",
+      "SimpleName": "LazyLockerFeature.Name",
+      "ProcessTemplates": false,
+      "enGB": "LazyLockerFeature"
+    },
+    {
+      "Key": "810ed1b24af9494294d0b0413740c6da",
+      "SimpleName": "MindchemistMutagenResourceBackup.Name",
+      "ProcessTemplates": false,
+      "zhCN": "心智药师诱变剂资源备份",
+      "enGB": "MindchemistMutagenResourceBackup"
+    },
+    {
+      "Key": "855f6f6c4baa4c048138063fc530ac09",
+      "SimpleName": "LoreOfAcavnaAndAmaznenCantripSelection.Description",
+      "ProcessTemplates": true,
+      "zhCN": "旧神圣子将获得释放4个戏法的类法术能力，从而绕过他们正常情况下无法施展法术的限制。",
+      "enGB": "The child of Acavna and Amaznen gains the ability to cast 4 cantrips as spell-like abilities, bypassing their normal inability to cast spells."
+    },
+    {
+      "Key": "390b6f7aa67e41c9bf61fcd470fffd2d",
+      "SimpleName": "LoreOfAcavnaAndAmaznenHiddenCantrips.Name",
+      "ProcessTemplates": false,
+      "zhCN": "旧神秘典",
+      "enGB": "Lore of Acavna and Amaznen Hidden"
+    },
+    {
+      "Key": "43b189cc4bba4d28b74cddc77dc7102a",
+      "SimpleName": "ChildOfAcavnaAndAmaznenCastingUnlock.Description",
+      "ProcessTemplates": true,
+      "zhCN": "旧神圣子完成了他们的基础学习，解锁了施放所有戏法和所有已学习的一环法术的能力。这些法术的施法者等级等同于他们的战士等级。\n从旧神秘典中获得的类法术戏法将被移除，取而代之的是已解锁的戏法。。",
+      "enGB": "The child of Acavna and Amaznen completes their initial studies, unlocking the ability to cast all cantrips and all learnt 1st level spells. The caster level for these spells is equal to their fighter level. \nThe spell-like cantrips gained from Lore of Acavna and Amaznen are removed in favour of the unlocked cantrips."
+    },
+    {
+      "Key": "7606b209d25b4b8fb0221d4687e8b66b",
+      "SimpleName": "ChildOfAcavnaAndAmaznenCastingUnlock.Name",
+      "ProcessTemplates": false,
+      "zhCN": "战法奇术。",
+      "enGB": "Martial Wizardry"
+    },
+    {
+      "Key": "a41305ce4fa746419c7b287bc6d31457",
+      "SimpleName": "ChildOfAcavnaAndAmaznenSpellLock.Name",
+      "ProcessTemplates": false,
+      "zhCN": "在5级前锁定法术",
+      "enGB": "Spell lock before lvl 5"
+    },
+    {
+      "Key": "ec832df2d7d3453abf9fb70b1dfd56f0",
+      "SimpleName": "ThieveryDomainGreaterAbilitySeparatist.Description",
+      "ProcessTemplates": true,
+      "IsUsed": false,
+      "zhCN": "在第8级时，你可以赋予自己在任何巧手技能检定中双骰取高的能力，此能力的效果持续到使用后自行消散。此能力在8级能每天用1次，每比8级高2级多1次。",
+      "enGB": "At 8th level, you can grant yourself the ability to roll twice on any trickery skill check, this abilities effect lasts until used then dispels itself. You can use this ability once per day at 8th level, plus one additional time per day for every 2 levels beyond 8th."
+    },
+    {
+      "Key": "bcf3bf852cbf4ca281cd477b62ffcffc",
+      "SimpleName": "DrakeCompanionMountLock1Feature.Name",
+      "ProcessTemplates": false,
+      "zhCN": "骑乘已被锁定 - 未选择龙之力量",
+      "enGB": "Mounting locked - Drake Power not chosen"
+    },
+    {
+      "Key": "a3e63267e2914678b3b5311123180428",
+      "SimpleName": "DrakeCompanionMountLock2Feature.Name",
+      "ProcessTemplates": false,
+      "zhCN": "骑乘已被锁定 - 龙兽的原始体型未达到",
+      "enGB": "Mounting locked - Drake does not meet natural size requirement"
     }    
   ]
 }
