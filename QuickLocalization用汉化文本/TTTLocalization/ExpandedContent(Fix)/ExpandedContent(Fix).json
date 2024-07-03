@@ -26187,7 +26187,7 @@
       "Key": "8a4bfb70e7de4b349566e126f0dda799",
       "SimpleName": "AmuletEarlyRider.Name",
       "ProcessTemplates": false,
-      "zhCN": "速成骑手。",
+      "zhCN": "速成骑手",
       "enGB": "Early Rider"
     },
     {
@@ -26228,7 +26228,7 @@
       "Key": "7606b209d25b4b8fb0221d4687e8b66b",
       "SimpleName": "ChildOfAcavnaAndAmaznenCastingUnlock.Name",
       "ProcessTemplates": false,
-      "zhCN": "战法奇术。",
+      "zhCN": "战法奇术",
       "enGB": "Martial Wizardry"
     },
     {
@@ -26259,6 +26259,112 @@
       "ProcessTemplates": false,
       "zhCN": "骑乘已被锁定 - 龙兽的原始体型未达到",
       "enGB": "Mounting locked - Drake does not meet natural size requirement"
+    },
+    {
+      "Key": "acc986ac5d11461092af1bc17088d7d6",
+      "SimpleName": "GoldenLegionnarireImprovedAidFeature.Description",
+      "ProcessTemplates": true,
+      "zhCN": "在4级时，当一名黄金军士在战斗中采取援助他人行动时，给予盟友的加成提升1点。达到5级时，该加成改为提升2点",
+      "enGB": "At 4th level, when a Golden Legionnaire successfully uses the aid another action in Combat, the bonus on the ally’s attack roll or to its Armor Class increases by 1. At 9th level, the bonus increases by an additional 1."
+    },
+    {
+      "Key": "39f2b20de1c24117b67e5b026e41dc9f",
+      "SimpleName": "GoldenLegionnarireImprovedAidFeature.Name",
+      "ProcessTemplates": false,
+      "zhCN": "强力援助",
+      "enGB": "Improved Aid"
+    },
+    {
+      "Key": "dd628598c19a4414b1c233a41dcb024f",
+      "SimpleName": "AsavirCamaraderieFeature.Description",
+      "ProcessTemplates": true,
+      "zhCN": "阿萨维尔擅长将与她并肩作战的人凝聚成一支忠诚且协调有序的团队，并激励他们勇敢战斗。当她在战斗中采取援助他人行动时，给予盟友的加成提升1点。达到5级时，该加成改为提升2点；达到9级时，则提升3点。这些加成不与其他增强援助他人行动的能力叠加。",
+      "enGB": "An asavir is skilled at forging those who battle by her side into a loyal and well-coordinated team and exhorting them to fight bravely. The bonus she grants to any allies when she takes the aid another action in combat increases by 1. At 5th level, the bonus instead increases by 2, and at 9th level, it instead increases by 3. These bonuses do not stack with other abilities that enhance the aid another action."
+    },
+    {
+      "Key": "ecc437a29e1f480586d8afafa9b55d19",
+      "SimpleName": "AsavirCamaraderieFeature.Name",
+      "ProcessTemplates": false,
+      "zhCN": "同袍友谊",
+      "enGB": "Camaraderie"
+    },
+    {
+      "Key": "d677a957dbeb4c50ab3cda8e349c0a20",
+      "SimpleName": "HellknightSigniferLivingScriptureLevelUp.Description",
+      "ProcessTemplates": true,
+      "IsUsed": false,
+      "zhCN": "1级时，以及之后每个等级，地狱骑士持节士都能够获得新的每日法术量，如同他在进阶之前已有的施法职业上也获得了一个等级。但是除了额外的每日法术量、已知法术、有效施法者等级之外，他无法获得该职业角色升级之际本应获得的其他好处。若角色在进阶成为地狱骑士持节士之前拥有多个施法职业，那么他必须决定将新的一级追加在哪个职业上，以用于判断每日法术量。",
+      "enGB": "At 1st level, the mystic theurge selects a divine spellcasting class she belonged to before adding the prestige class. When a new mystic theurge level is gained, the character gains new spells per day and new spells known as if she had also gained a level in that spellcasting class."
+    },
+    {
+      "Key": "7ee5da9d5d9f43238cf74d31f39991ac",
+      "SimpleName": "HellknightSigniferRavenerHunterLevelUp.Description",
+      "ProcessTemplates": true,
+      "zhCN": "1级时，以及之后每个等级，地狱骑士持节士都能够获得新的每日法术量，如同他在进阶之前已有的施法职业上也获得了一个等级。但是除了额外的每日法术量、已知法术、有效施法者等级之外，他无法获得该职业角色升级之际本应获得的其他好处。若角色在进阶成为地狱骑士持节士之前拥有多个施法职业，那么他必须决定将新的一级追加在哪个职业上，以用于判断每日法术量。",
+      "enGB": "At 1st level, the hellknight signifer selects a divine spellcasting class she belonged to before adding the prestige class. When a new hellknight signifer level is gained, the character gains new spells per day and new spells known as if she had also gained a level in that spellcasting class."
+    },
+    {
+      "Key": "59fc972afdec4cbcb7098d5a36cbf48b",
+      "SimpleName": "HellknightSigniferSilverChampionLevelUp.Description",
+      "ProcessTemplates": true,
+      "IsUsed": false,
+      "zhCN": "1级时，以及之后每个等级，地狱骑士持节士都能够获得新的每日法术量，如同他在进阶之前已有的施法职业上也获得了一个等级。但是除了额外的每日法术量、已知法术、有效施法者等级之外，他无法获得该职业角色升级之际本应获得的其他好处。若角色在进阶成为地狱骑士持节士之前拥有多个施法职业，那么他必须决定将新的一级追加在哪个职业上，以用于判断每日法术量。",
+      "enGB": "At 1st level, the mystic theurge selects a divine spellcasting class she belonged to before adding the prestige class. When a new mystic theurge level is gained, the character gains new spells per day and new spells known as if she had also gained a level in that spellcasting class."
+    },
+    {
+      "Key": "714c602ad9d54a7596aea54a8bc043ee",
+      "SimpleName": "StudyTargetPetRank.Name",
+      "ProcessTemplates": false,
+      "enGB": "StudyTargetPetRank"
+    },
+    {
+      "Key": "5fb2679df5f84f61ab73c01028000c92",
+      "SimpleName": "DivineTrackerCharmBlessingFeature.Description",
+      "ProcessTemplates": true,
+      "zhCN": "1级起，你可以触碰一名盟友，给予他们慑心祝福。在1分钟内，该盟友对敌人而言变得慑人心魄，让他们心中无比敬佩或者陷入动弹不得的恐惧。此效果类似神使灵光，区别在于受影响的敌人若成功攻击到该盟友，则此效果结束。此为影响心智效应。\n13级起，你可以用有形的威仪灵光围绕自己，持续1分钟。灵光启动期间，30英尺范围内所有敌人必须成功进行意志豁免检定，否则会敬佩地跪倒在你脚边，持续1轮。豁免检定成功后免疫此效果。",
+      "enGB": "At 1st level, you can touch an ally and grant an entrancing blessing. For 1 minute, the ally becomes mesmerizing to their opponents, filling them with either abject admiration or paralyzing fear. This effect functions as archon's aura, except if an affected opponent successfully attacks the ally, the effect ends. This is a mind-affecting effect.\nAt 13th level, you can surround yourself with a tangible aura of majesty for 1 minute. While this aura is active, all enemies within 30 feet must succeed at a Will saving throw or fall at your feet in admiration for 1 round. A successful saving throw grants immunity to this effect."
+    },
+    {
+      "Key": "a5e2613b676341dc8950408dd72a8325",
+      "SimpleName": "DivineTrackerGloryBlessingFeature.Description",
+      "ProcessTemplates": true,
+      "zhCN": "1级起，你可以触碰一个盟友，使其获得荣誉祝福。在1分钟内，该盟友对敌人而言变得慑人心魄，让他们心中无比敬佩或者陷入动弹不得的恐惧。此效果类似神使灵光，区别在于受影响的敌人若成功攻击到该盟友，则此效果结束。此为影响心智效应。\n13级起，你可以触碰一名盟友，使其致命一击为敌人的军队带去恐惧。在1分钟内，当该盟友将目标的生命值减少至0时，可以立即进行沟通（威吓）检定，对30英尺内所有能看到该击杀场景的敌人打击士气。",
+      "enGB": "At 1st level, you can touch an ally and grant them a glorious blessing. For 1 minute, the ally becomes mesmerizing to their foes. This functions as archon's aura, except if an affected opponent successfully attacks the ally, the effect ends. This is a mind-affecting effect.\nAt 13th level, you can touch an ally and make their killing blows sow terror among enemy ranks. For 1 minute, whenever the ally reduces a target to 0 hit points, they immediately make a Persuasion (intimidate) check to demoralize all foes within 30 feet who can see the kill."
+    },
+    {
+      "Key": "d47357d8be5c45f2b953a68d2cdb54cb",
+      "SimpleName": "DivineTrackerKnowledgeBlessingFeature.Description",
+      "ProcessTemplates": true,
+      "zhCN": "1级起，你可以暂时成为逸闻大师。在1分钟内，你获得吟游诗人的逸闻大师能力。\n13级起，你可以用迅捷动作对一个生物进行一次接触攻击。若攻击成功，你会知道目标所有的弱点，并在针对该生物的攻击与伤害检定、豁免检定与AC上获得+2洞察加值（攻击检定的加值在确认重击的检定上翻倍）。此效果持续1分钟。",
+      "enGB": "At 1st level, you can temporarily become a master of lore. For 1 minute, you gain the bard's lore master ability.\nAt 13th level, as a swift action, you can make a touch attack against a creature. If the attack is successful, you learn all of the target's weaknesses, gaining a +2 insight bonus on attack and damage rolls, saving throws, and AC against that creature (the bonus on attack rolls is doubled on rolls made to confirm critical hits). This effect lasts for 1 minute."
+    },
+    {
+      "Key": "6b08c2fb20874c39ab736a78e495cb48",
+      "SimpleName": "DivineTrackerRuneBlessingFeature.Description",
+      "ProcessTemplates": true,
+      "zhCN": "1级起，你可向指定位置放置冲击符文。任何进入符文周围5英尺的生物都将受到1d6+1/2你的战斗祭司等级伤害。此符文可造成酸蚀、寒冷、电击或火焰伤害，由你在创造符文时选择。此符文存在轮数等于你的战斗祭司等级。\n13级起，你可以接触一名盟友，在其武器上雕刻秘密符文。在1分钟内，该盟友所有武器攻击在所有情况下均被视为精金、寒铁与秘银。",
+      "enGB": "At 1st level, you can create a blast rune in a desired location. Any creature entering a 5-foot area around the rune takes an amount of damage equal to 1d6 + 1/2 your warpriest level. This rune deals either acid, cold, electricity, or fire damage, decided when you create the rune. The rune lasts a number of rounds equal to your warpriest level.\nAt 13th level, you can touch an ally and inscribe a secret rune on their weapon. For 1 minute, all of their weapon attacks are treated as adamantine, cold iron, and mithral for all purposes."
+    },
+    {
+      "Key": "b547a807e7c14f529399822f462ece32",
+      "SimpleName": "DrakenMountFeature.Description",
+      "ProcessTemplates": true,
+      "zhCN": "龙兽允许主人骑乘，但是龙兽在达到中等体型之前无法支撑骑手（不使用法术）",
+      "enGB": "The drake allows its owner to ride it, however the drake cannot support a rider until it is a medium size (without the use of spells)."
+    },
+    {
+      "Key": "fd9aa48cf2c046649da78fc694f36e34",
+      "SimpleName": "DrakenMountFeature.Name",
+      "ProcessTemplates": false,
+      "zhCN": "骑乘战斗训练",
+      "enGB": "Mounted Combat Training"
+    },
+    {
+      "Key": "b1ffca12c54746a1932db82dbfd3a938",
+      "SimpleName": "CompanionWolverineFeature.Description",
+      "ProcessTemplates": true,
+      "zhCN": "体型：小型\n速度：30尺\n护甲等级：+6天生护甲\n攻击：啮咬（1d4），2次爪击（1d3）\n属性值：力量10，敏捷17，体质15，智力2，感知12，魅力10\n特殊攻击：狂暴（每天可如同野蛮人一样狂暴6轮）\n4级时体型变为中型，力量+4，敏捷-2，体质+4，天生护甲+2",
+      "enGB": "Size: Small\nSpeed: 30 ft.\nAC: +6 natural armor\nAttack: bite (1d4), 2 claws (1d3)\nAbility scores: Str 10, Dex 17, Con 15, Int 2, Wis 12, Cha 10\nSpecial Attacks: rage (as a barbarian for 6 rounds per day)\nAt 4th level size becomes Medium, Str +4, Dex -2, Con +4, +2 natural armor."
     }    
   ]
 }
