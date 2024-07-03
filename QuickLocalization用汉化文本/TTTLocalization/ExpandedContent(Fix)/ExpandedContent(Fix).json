@@ -25796,6 +25796,73 @@
       "ProcessTemplates": false,
       "zhCN": "片刻预知 - 技能检定",
       "enGB": "Moment of Prescience - Skill Check"
+    },
+    {
+      "Key": "0a175bf173ff47f380db844432370e10",
+      "SimpleName": " (Kingmaker.Localization.SharedStringAsset)LocalizedName",
+      "ProcessTemplates": false,
+      "zhCN": "召唤暴风雪元素",
+      "enGB": "Summoned Blizzard Elemental"
+      "Key": "6afb03fa63454a368938fbe98b1903ef",
+      "SimpleName": "AnimalCompanionEnergyTypeAcid.Description",
+      "ProcessTemplates": true,
+      "IsUsed": false,
+      "enGB": "At 3rd level, choose acid, cold, electricity, or fire, based on the draconic companion’s draconic ancestor. The draconic companion gains resistance 5 against the chosen energy type, as well as a +2 racial bonus on saves against paralysis and sleep.",
+      "zhCN": "3级起，根据龙化伙伴的龙类先祖的类型，选择强酸、寒冷、电击或火焰，龙类伙伴在该种类型的能量上获得5点抗力。同时龙化伙伴也在对抗麻痹和睡眠效果的豁免检定上获得+2种族加值。"
+    },
+    {
+      "Key": "0e3b287181e54806b3ab3e303b2b47c8",
+      "SimpleName": "AnimalCompanionEnergyTypeAcid.Name",
+      "ProcessTemplates": false,
+      "enGB": "Companion Energy Type - Acid",
+      "zhCN": "伙伴能量类型-酸蚀"
+    },
+    {
+      "Key": "ba40cbd917034b4bb01e04066a13a437",
+      "SimpleName": "AnimalCompanionEnergyTypeCold.Description",
+      "ProcessTemplates": true,
+      "IsUsed": false,
+      "enGB": "At 3rd level, choose acid, cold, electricity, or fire, based on the draconic companion’s draconic ancestor. The draconic companion gains resistance 5 against the chosen energy type, as well as a +2 racial bonus on saves against paralysis and sleep.",
+      "zhCN": "3级起，根据龙化伙伴的龙类先祖的类型，选择强酸、寒冷、电击或火焰，龙类伙伴在该种类型的能量上获得5点抗力。同时龙化伙伴也在对抗麻痹和睡眠效果的豁免检定上获得+2种族加值。"
+    },
+    {
+      "Key": "c4a7cb012df1440d83b2e384a3007848",
+      "SimpleName": "AnimalCompanionEnergyTypeCold.Name",
+      "ProcessTemplates": false,
+      "enGB": "Companion Energy Type - Cold",
+      "zhCN": "伙伴能量类型-寒冷"
+    },
+    {
+      "Key": "4faf0cbb6d9c40329a57fdcc8b536183",
+      "SimpleName": "AnimalCompanionEnergyTypeElectricity.Description",
+      "ProcessTemplates": true,
+      "IsUsed": false,
+      "enGB": "At 3rd level, choose acid, cold, electricity, or fire, based on the draconic companion’s draconic ancestor. The draconic companion gains resistance 5 against the chosen energy type, as well as a +2 racial bonus on saves against paralysis and sleep.",
+      "zhCN": "3级起，根据龙化伙伴的龙类先祖的类型，选择强酸、寒冷、电击或火焰，龙类伙伴在该种类型的能量上获得5点抗力。同时龙化伙伴也在对抗麻痹和睡眠效果的豁免检定上获得+2种族加值。"
+    },
+    {
+      "Key": "22b1f4329e714e3bb1131b184ae8f064",
+      "SimpleName": "AnimalCompanionEnergyTypeElectricity.Name",
+      "ProcessTemplates": false,
+      "enGB": "Companion Energy Type - Electricity",
+      "zhCN": "伙伴能量类型-电击"
+    },
+    {
+      "Key": "fd2717264c1d44fab223fa28033a31dc",
+      "SimpleName": "AnimalCompanionEnergyTypeFire.Description",
+      "ProcessTemplates": true,
+      "IsUsed": false,
+      "enGB": "At 3rd level, choose acid, cold, electricity, or fire, based on the draconic companion’s draconic ancestor. The draconic companion gains resistance 5 against the chosen energy type, as well as a +2 racial bonus on saves against paralysis and sleep.",
+      "zhCN": "3级起，根据龙化伙伴的龙类先祖的类型，选择强酸、寒冷、电击或火焰，龙类伙伴在该种类型的能量上获得5点抗力。同时龙化伙伴也在对抗麻痹和睡眠效果的豁免检定上获得+2种族加值。"
+    },
+    {
+      "Key": "de6ecb1ad7f04c1d83cb4bbb1ebdc248",
+      "SimpleName": "AnimalCompanionEnergyTypeFire.Name",
+      "ProcessTemplates": false,
+      "enGB": "Companion Energy Type - Fire",
+      "zhCN": "伙伴能量类型-火焰"
+    },
+    {
     }    
   ]
 }
