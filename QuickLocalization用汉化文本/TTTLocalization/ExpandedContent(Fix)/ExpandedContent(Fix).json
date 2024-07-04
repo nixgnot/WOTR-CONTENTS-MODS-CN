@@ -25803,9 +25803,9 @@
       "ProcessTemplates": false,
       "zhCN": "召唤暴风雪元素",
       "enGB": "Summoned Blizzard Elemental"
-      "Key": "6afb03fa63454a368938fbe98b1903ef",
     },
     {
+      "Key": "6afb03fa63454a368938fbe98b1903ef",
       "SimpleName": "AnimalCompanionEnergyTypeAcid.Description",
       "ProcessTemplates": true,
       "IsUsed": false,
