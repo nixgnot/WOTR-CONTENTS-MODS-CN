@@ -2323,6 +2323,28 @@
       "esES": null
     },
     {
+      "Key": "d9a7593542814e19bc41b00eb88e48c5",
+      "SimpleName": "DragonbloodShifterBite.Description",
+      "ProcessTemplates": true,
+      "enGB": "At 4th level dragonblood shifter gains a bite {g|Encyclopedia:Attack}attack{/g}. This is a primary {g|Encyclopedia:NaturalAttack}natural attack{/g} that deals {g|Encyclopedia:Dice}1d6{/g} points of {g|Encyclopedia:Damage}damage{/g} (1d4 if the dragonblood shifter is Small), plus 1.5 times the dragonblood shifter's {g|Encyclopedia:Strength}Strength{/g} modifier. It counts as cold iron, silver, and magic for the purpose of overcoming {g|Encyclopedia:Damage_Reduction}damage reduction{/g}.",
+      "ruRU": null,
+      "deDE": null,
+      "frFR": null,
+      "zhCN": "4级起，龙血化形师获得一次啮咬{g|Encyclopedia:Attack}攻击{/g}。这次主要{g|Encyclopedia:NaturalAttack}天生攻击{/g}造成{g|Encyclopedia:Dice}1d6{/g}点{g|Encyclopedia:Damage}伤害{/g} (若为小体型则为1d4)，加上1.5倍龙血化形师的{g|Encyclopedia:Strength}力量{/g}调整值。这次攻击在克服{g|Encyclopedia:Damage_Reduction}伤害减免{/g}时被视为寒铁、银和魔法武器",
+      "esES": null
+    },
+    {
+      "Key": "dbd128ef26c84b5b8ee19bb2e224243e",
+      "SimpleName": "DragonbloodShifterBite.Name",
+      "ProcessTemplates": false,
+      "enGB": "Dragon Bite",
+      "ruRU": null,
+      "deDE": null,
+      "frFR": null,
+      "zhCN": "龙牙",
+      "esES": null
+    },
+    {
       "Key": "513d7dfb9dc04a39ab6e348623691f5b",
       "SimpleName": "DruidicConcoctions.Description",
       "ProcessTemplates": true,
