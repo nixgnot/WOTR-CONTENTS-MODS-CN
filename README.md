@@ -2130,22 +2130,14 @@
 + 大型MOD，增加很多新内容
  <table>
 	 	 <tr><th colspan="3">目前不能关闭的TT-Base选项</th></tr>
-	   <tr><td rowspan="16">专长<br>Feats</td>
-	 <tr><td>ArmorFocus</td><td>护甲专攻：正确将护甲专攻加值纳入护甲加值</td></tr>
-	 <tr><td>BolsteredMetamagic</td><td>超魔 - 增效：可用于黏液之触</td></tr>
-	 <tr><td>EmpowerMetamagic</td><td>超魔 - 强效：可用于黏液之触</td></tr>
-	 <tr><td>Endurance</td><td>坚韧：如同同类专长在运动10级后获得额外加值</td></tr>
+	   <tr><td rowspan="7">专长<br>Feats</td>
 	 <tr><td>EnergizedWildShapePrerequisites</td><td>赋能野性变身前置：修复对于非德鲁伊但是拥有野性变身能力的职业的前置条件</td></tr>
-	 <tr><td>ExtendMetamagic</td><td>超魔 - 延时：启用后应该可以延长原本应该能延长，但实际无法延长的法术的持续时间</td></tr>
 	 <tr><td>FrightfulShape</td><td>慑人变身：修复对于非德鲁伊但是拥有野性变身能力的职业的前置条件</td></tr>
-	 <tr><td>MaximizeMetamagic</td><td>超魔 - 极效：可用于黏液之触</td></tr>
 	 <tr><td>NaturalSpell</td><td>自然施法：修复对于非德鲁伊但是拥有野性变身能力的职业的前置条件</td></tr>
-	 <tr><td>PersistantMetamagic</td><td>超魔 - 顽强：所有有豁免骰的法术均可用</td></tr>
 	 <tr><td>RakingClaws</td><td>裂伤之爪：修复对于非德鲁伊但是拥有野性变身能力的职业的前置条件</td></tr>
 	 <tr><td>ShifterRush</td><td>化形师疾冲：修复对于非德鲁伊但是拥有野性变身能力的职业的前置条件</td></tr>
 	 <tr><td>ShiftersEdge</td><td>化形师锐爪：更加一致地工作，不再与天武护符产生奇怪的互动</td></tr>
-	 <tr><td>SpellBane</td><td>破敌施法：御衡者能够启用破敌施法</td></tr>
-	 <tr><td>SpellSpecialization</td><td>法术专精：任意职业可选<br><b>注：据说会造成无法更换专精的BUG</b></td></tr>
+
  <tr><th colspan="3">新增内容列表<br>详细介绍可以参阅汉化发布贴或游戏内说明</th></tr> 
    <tr><td rowspan="3">职业及变体</td>
        <td>Oathbreaker 复仇暴徒</td>
@@ -3876,7 +3868,7 @@ C:\Users\你的用户名\AppData\LocalLow\Owlcat Games\Pathfinder Wrath Of The R
 > *新增内容：* 进阶职业<br>
 <table>
  <tr><th colspan="3">新增内容列表<br></th></tr> 
-  <tr><td rowspan="44">变体</i></td>
+  <tr><td rowspan="45">变体</i></td>
        <td rowspan="3">炼金术师 Alchemist</td>
        <td>构装骑士 Construct Rider</td></tr>
        <tr><td>内修药师 Internal Alchemist</td></tr>
@@ -3936,8 +3928,9 @@ C:\Users\你的用户名\AppData\LocalLow\Owlcat Games\Pathfinder Wrath Of The R
        <td>死魂精之影 Ankou's Shadow</td></tr>
        <td rowspan="1">术士 Sorcerer</td>
        <td>真理追寻者 Truth Seeker</td></tr>
-       <td rowspan="1">战斗祭司 Warpriest</td>
+       <td rowspan="2">战斗祭司 Warpriest</td>
        <td>神伐先勇 Divine Champion</td></tr>
+       <td>随军神父 Arsenal Chaplain</td></tr>
        <td rowspan="2">巫师 Witch</td>
        <td>白发魔女 White-Haired Witch</td></tr>
        <tr><td>卡牌占卜师 Cartomancer</td></tr>
@@ -4311,7 +4304,7 @@ C:\Users\你的用户名\AppData\LocalLow\Owlcat Games\Pathfinder Wrath Of The R
        <tr><td colspan="2">秘术催化剂 Mystic Catalyst<br>你能随意使用次级双法合璧。</td></tr>
        <tr><td colspan="2">阿卡西之秘 Secret of the Akashic<br>将阿卡西窥视术和阿卡西构形添加到你的所有法术列表中。（博学士）</td></tr>
        <tr><td colspan="2">魅影之秘 Secret of the Phantom<br>将魅影杀手，魅影蛛网和魅影手添加到你的所有法术列表中。（博学士）</td></tr>
-  <tr><td rowspan="23">法术 spell</i></td>
+  <tr><td rowspan="25">法术 spell</i></td>
        <tr><td colspan="2">正义祷言 Litany of Righteousness<br>如果目标是邪恶阵营，拥有善良灵光的生物（当且只有当你是崇拜善良神明的牧师/战斗祭司，圣武士或善良异界生物时你才具有善良灵光。）的攻击对其造成双倍伤害。如果目标同时拥有邪恶亚种，它还会目眩1d4轮。</td></tr>
        <tr><td colspan="2">护卫他人 Shield Other<br>受术者的AC获得+1偏斜加值，豁免检定获得+1抗力加值。另外受术者所受的任何造成HP损失的创伤和攻击均减半 (包括由特殊能力造成的)，剩下的部分则由施法者承受。使用移动动作来结束法术而不是移出范围，这样你就不会在过场动画、酒馆等过程中丢失它。</td></tr>
        <tr><td colspan="2">后继者神击术 Inheritor's Smite<br>你在下一次发动近战攻击（若在下一回合结束前发动攻击）时，攻击检定可以获得+5神圣加值。如果该攻击命中，你可以立即尝试冲撞目标（对抗检定时同样获得+5神圣加值），并且不会引发借机攻击。</td></tr>
@@ -4333,6 +4326,8 @@ C:\Users\你的用户名\AppData\LocalLow\Owlcat Games\Pathfinder Wrath Of The R
        <tr><td colspan="2">阿卡西窥视术 Virtuoso Performance<br>释放法术后在接下来的一天中，你可以通过自由动作激活你从阿卡西记录中获取的知识；当你这么做时，你在所有的技能鉴定、攻击检定、伤害检定、豁免检定以及战技检定上获得等于你的施法者等级的环境加值，持续1分钟。在这段时间结束之后，阿卡西记录那磅礴浩荡之性侵入了你的心智，令你震慑2轮并恶心1分钟。</td></tr>
        <tr><td colspan="2">衰竭剧痛 Debilitating Pain<br>目标被剧烈的痛苦压垮，使得它在豁免失败时被震慑。而成功通过豁免时则为眩晕1轮。</td></tr>
        <tr><td colspan="2">群体衰竭剧痛 Debilitating Pain, Mass<br>该法术如同衰竭剧痛，但你可以指定近距范围内生命骰数最高的敌人，其总数等于施法者等级除以4。</td></tr>
+       <tr><td colspan="2">猎牙行动 Tooth Hunt<br>你呈现出小牙仙的形态。如同妖精形态III，你获得以下能力：敏捷+8体型加值，力量–4减值，DR 2/寒铁，飞行速度（机动性良好，肯定比狮鹫更好）。小牙仙是一种微型生物，可以使用武器，以及一次噬咬攻击（1d4）。</td></tr>
+       <tr><td colspan="2">贪婪纹章 Emblem of Greed<br>你用魔法塑造一把燃烧的大砍刀。该武器适合你的体型，并具有+1增强加值（15级+2 19级+3）和烈焰武器特殊能力。当挥舞这把大砍刀时，你视为擅长它，并使用你的施法者等级作为你的基本攻击加值（这可能会给你带来多次攻击）。</td></tr>
        <tr><td colspan="2">赫氏潜能术 Hermean Potential<br>你赐予目标通过清晰的头脑完美执行动作的能力。在目标尝试下一次攻击投骰，豁免检定或技能检定时，可以投骰两次，并取更有利的结果。你每有5个施法者等级，目标就可以额外重骰一次（次数最多在20级时达到5次）。</td></tr>
        <tr><td rowspan="8">其余修改</i></td>
        <tr><td colspan="2">拔刀术 Quick Draw<br>如果剑爵已经拥有拔刀术或者警觉专长，他获得阿尔多瑞决斗精通作为额外专长。</td></tr>
