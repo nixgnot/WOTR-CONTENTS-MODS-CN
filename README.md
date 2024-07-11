@@ -3061,7 +3061,6 @@ Metamagic Master 超魔主宰：指定一个法术。当你超魔施展该法术
 > *安装方式：* **UMM**<br>
 > *修改内容：* <br>
 > *新增内容：* 专长，法术<br>
-+ **注意！本MOD原更新网址不适用于新版，请在本页面右侧下载重编译版**
 + 小型内容Mod，持续开发中
 
  <table>  
@@ -3171,6 +3170,7 @@ C:\Users\你的用户名\AppData\LocalLow\Owlcat Games\Pathfinder Wrath Of The R
 > *安装方式：* **UMM**<br>
 > *修改内容：* <br>
 > *新增内容：* 变体，专长，神话能力，法术等<br>
++ 原作者长期未更新，现PrestigePlus作者无弦琴进行了维护更新，可到下方网盘分流亦或者discord下载
 + 增加了新内容， **自带中文！** 推荐
 <table>
 <tr><th colspan="4">新增内容列表</th></tr> 
