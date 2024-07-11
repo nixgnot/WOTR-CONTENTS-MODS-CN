@@ -1,0 +1,82 @@
+[
+  {
+    "Key": "AivuDRTier1.Name",
+    "zhCN": "次级狂欢龙伤害抗力",
+    "enGB": "Havoc Dragon DR, Lesser"
+  },
+  {
+    "Key": "AivuDRTier1.Description",
+    "zhCN": "DR 5/守序",
+    "enGB": "DR 5/Lawful"
+  },
+  {
+    "Key": "AivuDRTier2.Name",
+    "zhCN": "狂欢龙伤害抗力",
+    "enGB": "Havoc Dragon DR, Lesser"
+  },
+  {
+    "Key": "AivuDRTier2.Description",
+    "zhCN": "DR 15/守序",
+    "enGB": "DR 15/Lawful"
+  },
+  {
+    "Key": "AivuDRTier3.Name",
+    "zhCN": "高等狂欢龙伤害抗力",
+    "enGB": "Havoc Dragon DR, Lesser"
+  },
+  {
+    "Key": "AivuDRTier3.Description",
+    "zhCN": "DR 20/守序",
+    "enGB": "DR 20/Lawful"
+  },
+  {
+    "Key": "AivuDragonfearFeature.Name",
+    "zhCN": "恐怖存在",
+    "enGB": "Frightful Presence"
+  },
+  {
+    "Key": "AivuDragonfearFeature.Description",
+    "zhCN": "每当一个生命骰比爱乌少的对手出现在她30尺的范围内时，他们必须进行一次意志豁免检定。如果失败，对手会在5d6回合内战栗（或者，如果他们的生命骰少于5，就会慌乱）。一次成功的豁免使该生物在24小时内对爱乌的恐怖存在免疫。这是一种影响思维的恐惧效应。",
+    "enGB": "Whenever an opponent with fewer hit dice than Aivu comes within a 30 feet range of her, they must make a Will saving throw. If it fails, the opponent becomes shaken (or, if they have less than 5 hit dice, panicked) for 5d6 rounds. A successful saving throw makes the creature immune to Aivu's Frightful Presence for 24 hours. This is a mind-affecting fear effect."
+  },
+  {
+    "Key": "HavocDragonClass.Name",
+    "zhCN": "狂欢龙",
+    "enGB": "Havoc Dragon"
+  },
+  {
+    "Key": "HavocDragonClass.Description",
+    "zhCN": "龙是一种爬行动物般的生物，通常有翅膀，具有神奇或不同寻常的能力",
+    "enGB": "A dragon is a reptilelike creature, usually winged, with magical or unusual abilities"
+  },
+  {
+    "Key": "HavocDragon20To40.Name",
+    "zhCN": "神话狂欢龙",
+    "enGB": "Mythic Havoc Dragon"
+  },
+  {
+    "Key": "DragonAzataFeatureTierIIIPrefab.Name",
+    "zhCN": "爱乌体型增长",
+    "enGB": "Aivu Size Up"
+  },
+  {
+    "Key": "DragonAzataFeatureTierIIIPrefab.Description",
+    "zhCN": "爱乌的体型变为大型",
+    "enGB": "Aivu Is Now Large Size"
+  },
+  {
+    "Key": "DragonAzataFeatureTierIIPrefab.Name",
+    "zhCN": "爱乌体型增长",
+    "enGB": "Aivu Size Up"
+  },
+  {
+    "Key": "DragonAzataFeatureTierIIPrefab.Description",
+    "zhCN": "爱乌的体型变为中型",
+    "enGB": "Aivu Is Now Medium Size"
+  },
+  {
+    "Key": "DragonAzataSpellbook.Name",
+    "zhCN": "狂欢龙",
+    "enGB": "Havoc Dragon"
+  }
+]
