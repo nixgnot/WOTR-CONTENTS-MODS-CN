@@ -31,7 +31,7 @@
   },
   {
     "Key": "AivuDragonfearFeature.Name",
-    "zhCN": "恐怖存在",
+    "zhCN": "摄人气魄",
     "enGB": "Frightful Presence"
   },
   {
@@ -78,5 +78,15 @@
     "Key": "DragonAzataSpellbook.Name",
     "zhCN": "狂欢龙",
     "enGB": "Havoc Dragon"
+  },
+  {
+    "Key": "AivuUsesMythicXP.Desc",
+    "zhCN": "爱乌受到灵使神话能力的强化",
+    "enGB": "Aivu is amped up by Azata Mythic Power"
+  },
+  {
+    "Key": "AivuUsesMythicXP.Name",
+    "zhCN": "爱乌神话能力",
+    "enGB": "Aivu Mythic Powers"
   }
 ]
