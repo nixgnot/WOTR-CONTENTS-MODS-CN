@@ -84,7 +84,7 @@
 | [MythicSpellFlexibility](#MythicSpellFlexibility) | 灵活神话法术 |  | :heavy_check_mark: | :+1:| :file_folder: |🛠️||
 | [SpellSlotFreedom](#SpellSlotFreedom) | 灵活法术位 |  | :heavy_check_mark: | :+1:| :file_folder: |🛠️||
 | [MagicArmory](#MagicArmory) | 魔法军械库 | QL汉化 | :heavy_check_mark: | :+1:| :file_folder: |||
-| [LevelableAivu](#LevelableAivu) | 自定义爱乌 | 暂无 | :heavy_check_mark: | :+1::+1:| :file_folder: |🛠️|:steam_locomotive:|
+| [LevelableAivu](#LevelableAivu) | 自定义爱乌 | 暂无 | :heavy_check_mark: | :+1::+1:| :file_folder: |🛠️||
 | [Mythic-Magic-Mayhem](#Mythic-Magic-Mayhem) | 神话法术重制 | 暂无 | :heavy_check_mark: | :+1::+1::+1:| :file_folder::file_folder: |🛠️🛠️||
 | [OnePear](#OnePearl) | 珍珠合一 | 暂无 | :heavy_check_mark: | :+1::+1::+1:| :file_folder: |🛠️🛠️||
 | [deceiverbuff](#deceiverbuff) | 魔法诈欺师加强 | 暂无 | :heavy_check_mark: | :+1::+1::+1:| :file_folder: |🛠️🛠️||
