@@ -4537,7 +4537,7 @@ C:\Users\你的用户名\AppData\LocalLow\Owlcat Games\Pathfinder Wrath Of The R
 -------------------------------------------
 ### [LevelableAivu](https://github.com/pheonix99/LevelableAivu) 
 > *前置：* 无<br>
-> *中文：* **无**<br>
+> *中文：* **QL汉化**<br>
 > *安装方式：* **UMM**<br>
 > *新增内容：* 能自定义爱乌的能力加点<br>
 
