@@ -26365,6 +26365,531 @@
       "ProcessTemplates": true,
       "zhCN": "体型：小型\n速度：30尺\n护甲等级：+6天生护甲\n攻击：啮咬（1d4），2次爪击（1d3）\n属性值：力量10，敏捷17，体质15，智力2，感知12，魅力10\n特殊攻击：狂暴（每天可如同野蛮人一样狂暴6轮）\n4级时体型变为中型，力量+4，敏捷-2，体质+4，天生护甲+2",
       "enGB": "Size: Small\nSpeed: 30 ft.\nAC: +6 natural armor\nAttack: bite (1d4), 2 claws (1d3)\nAbility scores: Str 10, Dex 17, Con 15, Int 2, Wis 12, Cha 10\nSpecial Attacks: rage (as a barbarian for 6 rounds per day)\nAt 4th level size becomes Medium, Str +4, Dex -2, Con +4, +2 natural armor."
+    },
+    {
+      "Key": "4f1b0a89d07a4395acf94235e671220e",
+      "SimpleName": "ShadowJauntAbility.Description",
+      "ProcessTemplates": true,
+      "zhCN": "你可以瞬间在阴影间穿梭，抵达指定范围内的一个位置。在原地留下一个阴影分身，而你自己则被阴影包裹着出现在目的地。你可以作为一个自由动作尝试进行一次隐匿检定，以在躲藏在新位置。此外，在接下来的1轮内，包裹着你的阴影将为你提供掩蔽效果（20%的失手率）。\n留在原地的阴影分身十分脆弱，最多只能承受一次攻击/持续一轮。",
+      "enGB": "You instantly travel between shadows to a point within range. You leave a shadowy decoy in your former location and are wrapped in shadow at your destination; you attempt a Stealth check as a free action to hide in your new location. In addition, for 1 round, the envelope of shadow around you grants you concealment (20% miss chance). \nThe shadow decoy is fragile and will not survive more than a single attack / one round."
+    },
+    {
+      "Key": "0bb43f51962e4095bc956be95d21c1be",
+      "SimpleName": "ShadowJauntBuff.Description",
+      "ProcessTemplates": true,
+      "zhCN": "你可以瞬间在阴影间穿梭，抵达指定范围内的一个位置。在原地留下一个阴影分身，而你自己则被阴影包裹着出现在目的地。你可以作为一个自由动作尝试进行一次隐匿检定，以在躲藏在新位置。此外，在接下来的1轮内，包裹着你的阴影将为你提供掩蔽效果（20%的失手率）。\n留在原地的阴影分身十分脆弱，最多只能承受一次攻击/持续一轮。",
+      "enGB": "You instantly travel between shadows to a point within range. You leave a shadowy decoy in your former location and are wrapped in shadow at your destination; you attempt a Stealth check as a free action to hide in your new location. In addition, for 1 round, the envelope of shadow around you grants you concealment (20% miss chance). \nThe shadow decoy is fragile and will not survive more than a single attack / one round."
+    },
+    {
+      "Key": "abaa733b7ff44b6091cb6d6e55fa82f1",
+      "SimpleName": "ShadowJauntBuff.Name",
+      "ProcessTemplates": false,
+      "zhCN": "阴影穿梭",
+      "enGB": "Shadow Jaunt"
+    },
+    {
+      "Key": "78c49bb4acff4c9286f3b062c62e564b",
+      "SimpleName": "ShadowJauntSubspell.Name",
+      "ProcessTemplates": false,
+      "zhCN": "阴影穿梭子法术",
+      "enGB": "Shadow Jaunt Subspell"
+    },
+    {
+      "Key": "641b63446be34d1bbb46afa4ad06f025",
+      "SimpleName": "ShadowClawsAbility.Description",
+      "ProcessTemplates": true,
+      "zhCN": "你在双手上召唤出一对由半真实物质形成的利爪。这使你获得两次主要天武爪抓攻击，如果你是中体型，每次造成1d4点伤害（如果是小体型则为1d3），外加1点力量伤害。目标可以通过成功的强韧豁免来抵消力量伤害（DC等于此法术的DC）。\n在此法术效果下，所有爪击攻击都会附带此法术的力量伤害效果。",
+      "enGB": "You summon a pair of claws over your hands formed from semireal material. This grants you two primary claw attacks dealing 1d4 points of damage if you are Medium (1d3 if Small) plus 1 point of Strength damage. A successful Fortitude saving throw negates the Strength damage (DC = this spell’s DC). \nWhile under the effect of this spell, all claw attacks gain this spells Strength damage component."
+    },
+    {
+      "Key": "cb0865ceada5407cbce441a07a302f36",
+      "SimpleName": "ShadowClawsBuff.Description",
+      "ProcessTemplates": true,
+      "zhCN": "你在双手上召唤出一对由半真实物质形成的利爪。这使你获得两次主要天武爪抓攻击，如果你是中体型，每次造成1d4点伤害（如果是小体型则为1d3），外加1点力量伤害。目标可以通过成功的强韧豁免来抵消力量伤害（DC等于此法术的DC）。\n在此法术效果下，所有爪击攻击都会附带此法术的力量伤害效果。",
+      "enGB": "You summon a pair of claws over your hands formed from semireal material. This grants you two primary claw attacks dealing 1d4 points of damage if you are Medium (1d3 if Small) plus 1 point of Strength damage. A successful Fortitude saving throw negates the Strength damage (DC = this spell’s DC). \nWhile under the effect of this spell, all claw attacks gain this spells Strength damage component."
+    },
+    {
+      "Key": "9c493a049659499f8af03b32b880aed0",
+      "SimpleName": "ShadowClawsBuff.Name",
+      "ProcessTemplates": false,
+      "zhCN": "阴影之爪",
+      "enGB": "Shadow Claws"
+    },
+    {
+      "Key": "5d9e74f404cc48e98b0721a2b19a2adf",
+      "SimpleName": "ShadowStepAbility.Description",
+      "ProcessTemplates": true,
+      "zhCN": "你进入一片阴影或黑暗区域，随即被传送沿着一条由暗影物质构成的盘旋路径，最终抵达范围内某个单位的阴影处。",
+      "enGB": "You enter a shadow or area of darkness, which transports you along a coiling path of shadowstuff to a units shadow within range."
+    },
+    {
+      "Key": "6d08adfcbbc2417d8eb8d80902759f93",
+      "SimpleName": "ShadowStepAbility.Name",
+      "ProcessTemplates": false,
+      "zhCN": "暗影步",
+      "enGB": "Shadow Step"
+    },
+    {
+      "Key": "060f7fb49c744f8390d1d21f2e55eb94",
+      "SimpleName": "MydriaticSpontaneityAbility.Description",
+      "ProcessTemplates": true,
+      "zhCN": "你用交替闪烁的光影刺激目标的双眼，导致其瞳孔快速扩张和收缩。在法术持续期间，目标遭受剧烈头痛，无法清晰视物，并陷入恶心状态。每回合，目标的瞳孔会随机扩张或收缩1轮，使其在下一轮之前要么目盲，要么目眩。\n每轮开始时，目标可以进行一次意志豁免检定，以摆脱恶心状态。",
+      "enGB": "You overstimulate the target with alternating flashes of light and shadow within its eyes, causing its pupils to rapidly dilate and contract. While under the effects of this spell, the target is racked by splitting headaches and unable to see clearly, becoming nauseated for the spell’s duration. Each round, the target’s pupils randomly become dilated or contracted for 1 round, causing them to become either blinded or dazzled until next round. \nEach new round, the target may make a will save to remove the nauseated condition."
+    },
+    {
+      "Key": "d9970d21041e4d2c8242087f41e1fa41",
+      "SimpleName": "MydriaticSpontaneityBlindedBuff.Description",
+      "ProcessTemplates": true,
+      "zhCN": "在法术持续期间，目标遭受剧烈头痛，无法清晰视物，并陷入恶心状态。每回合，目标的瞳孔会随机扩张或收缩1轮，使其在下一轮之前要么目盲，要么目眩。",
+      "enGB": "While under the effects of this spell, the target is racked by splitting headaches and unable to see clearly, becoming nauseated for the spell’s duration. Each round, the target’s pupils randomly become dilated or contracted for 1 round, causing them to become either blinded or dazzled until next round."
+    },
+    {
+      "Key": "51bf458b63df41d89b36487cf12979c0",
+      "SimpleName": "MydriaticSpontaneityBlindedBuff.Name",
+      "ProcessTemplates": false,
+      "zhCN": "自发性散瞳 - 目盲",
+      "enGB": "Mydriatic Spontaneity - Blinded"
+    },
+    {
+      "Key": "8af2dd3ab6834d319256c7ff512e5ab8",
+      "SimpleName": "MydriaticSpontaneityBuff.Description",
+      "ProcessTemplates": true,
+      "zhCN": "在法术持续期间，目标遭受剧烈头痛，无法清晰视物，并陷入恶心状态。每回合，目标的瞳孔会随机扩张或收缩1轮，使其在下一轮之前要么目盲，要么目眩。",
+      "enGB": "While under the effects of this spell, the target is racked by splitting headaches and unable to see clearly, becoming nauseated for the spell’s duration. Each round, the target’s pupils randomly become dilated or contracted for 1 round, causing them to become either blinded or dazzled until next round. \nEach new round, the target may make a will save to remove the nauseated condition."
+    },
+    {
+      "Key": "60f6a8d8b4524d588998ff30701e46e6",
+      "SimpleName": "MydriaticSpontaneityBuff.Name",
+      "ProcessTemplates": false,
+      "zhCN": "自发性散瞳",
+      "enGB": "Mydriatic Spontaneity"
+    },
+    {
+      "Key": "83f2a606db864590b2d20e9000220c58",
+      "SimpleName": "MydriaticSpontaneityDazzledBuff.Description",
+      "ProcessTemplates": true,
+      "zhCN": "在法术持续期间，目标遭受剧烈头痛，无法清晰视物，并陷入恶心状态。每回合，目标的瞳孔会随机扩张或收缩1轮，使其在下一轮之前要么目盲，要么目眩。",
+      "enGB": "While under the effects of this spell, the target is racked by splitting headaches and unable to see clearly, becoming nauseated for the spell’s duration. Each round, the target’s pupils randomly become dilated or contracted for 1 round, causing them to become either blinded or dazzled until next round."
+    },
+    {
+      "Key": "e4fa27f2bbca4137bf6bc3c2631ff879",
+      "SimpleName": "MydriaticSpontaneityDazzledBuff.Name",
+      "ProcessTemplates": false,
+      "zhCN": "自发性散瞳 - 目眩",
+      "enGB": "Mydriatic Spontaneity - Dazzled"
+    },
+    {
+      "Key": "341529bdc8f0446c910b41da7c166039",
+      "SimpleName": "MydriaticSpontaneityMassAbility.Description",
+      "ProcessTemplates": true,
+      "zhCN": "这个法术的效果类似自发性散瞳，但它可以影响多个目标\n你用交替闪烁的光影刺激目标的双眼，导致其瞳孔快速扩张和收缩。在法术持续期间，目标遭受剧烈头痛，无法清晰视物，并陷入恶心状态。每回合，目标的瞳孔会随机扩张或收缩1轮，使其在下一轮之前要么目盲，要么目眩。\n每轮开始时，目标可以进行一次意志豁免检定，以摆脱恶心状态。",
+      "enGB": "This spell functions as mydriatic spontaneity, except it can affect multiple creatures.\nYou overstimulate the target with alternating flashes of light and shadow within its eyes, causing its pupils to rapidly dilate and contract. While under the effects of this spell, the target is racked by splitting headaches and unable to see clearly, becoming nauseated for the spell’s duration. Each round, the target’s pupils randomly become dilated or contracted for 1 round, causing them to become either blinded or dazzled until next round.\nEach new round, the target may make a will save to remove the nauseated condition."
+    },
+    {
+      "Key": "6788d78bc0bc4ef3a592ad1ace2f2ddc",
+      "SimpleName": "MydriaticSpontaneityMassAbility.Name",
+      "ProcessTemplates": false,
+      "zhCN": "群体自发性散瞳",
+      "enGB": "Mass Mydriatic Spontaneity"
+    },
+    {
+      "Key": "f3c71b0d027c4840be704652b51b9d97",
+      "SimpleName": "MydriaticSpontaneityNauseatedBuff.Description",
+      "ProcessTemplates": true,
+      "zhCN": "在法术持续期间，目标遭受剧烈头痛，无法清晰视物，并陷入恶心状态。每回合，目标的瞳孔会随机扩张或收缩1轮，使其在下一轮之前要么目盲，要么目眩。",
+      "enGB": "While under the effects of this spell, the target is racked by splitting headaches and unable to see clearly, becoming nauseated for the spell’s duration. Each round, the target’s pupils randomly become dilated or contracted for 1 round, causing them to become either blinded or dazzled until next round."
+    },
+    {
+      "Key": "714bdbb6a83b4d7590103c5fc13d22b3",
+      "SimpleName": "MydriaticSpontaneityNauseatedBuff.Name",
+      "ProcessTemplates": false,
+      "zhCN": "自发性散瞳 - 反胃",
+      "enGB": "Mydriatic Spontaneity - Nauseated"
+    },
+    {
+      "Key": "12e36c4c57504fca90d07100962b4d5b",
+      "SimpleName": "OracleRevelationPierceTheShadows15Feet.Description",
+      "ProcessTemplates": true,
+      "zhCN": "暗影在你凶恶的目光下退避,给予你哪怕是在最深的黑暗中的视觉。获得15英尺范围的盲视\n11级起，范围扩展到30英尺",
+      "enGB": "The shadows step aside from your baleful gaze, affording you sight in even the deepest darkness. Gain blindsight with a range of 15 feet.\nAt 11th level the range increases to 30 feet."
+    },
+    {
+      "Key": "956f6fca61e246a48416cbf82057dc42",
+      "SimpleName": "OracleRevelationPierceTheShadows15Feet.Name",
+      "ProcessTemplates": false,
+      "zhCN": "洞察阴影",
+      "enGB": "Pierce the Shadows"
+    },
+    {
+      "Key": "dbc0a6a18f734a9bbac80fb665ca2d08",
+      "SimpleName": "OceansEchoShadowMysteryFeature.Description",
+      "ProcessTemplates": true,
+      "zhCN": "获得阴影秘示域的法术和启示\n由于海洋回声变体，从该变体获得的本职技能更改为沟通、知识（世界）和学识（自然）。",
+      "enGB": "Gain access to the spells and revelations of the shadow mystery. \nDue to the ocean's echo archetype the class skills gained from this archtypeare changed to Persuasion, Knowledge (world) and Lore (nature)"
+    },
+    {
+      "Key": "2b98e84e7a5f4906b829616819fd047c",
+      "SimpleName": "EnlightnedPhilosopherShadowMysteryFeature.Description",
+      "ProcessTemplates": true,
+      "zhCN": "具有阴影秘示域的先知将沟通、隐匿和知识（世界）添加到她的本职技能列表中。",
+      "enGB": "An oracle with the shadow mystery adds Persuasion, Stealth and Knowledge (World)  to her list of class skills."
+    },
+    {
+      "Key": "a45ba8a7ca3b45f8a93e9369e2123a4b",
+      "SimpleName": "DivineHerbalistShadowMysteryFeature.Description",
+      "ProcessTemplates": true,
+      "zhCN": "获得阴影秘示域的法术和启示。\n由于神圣草药师原型，从该原型获得的职业技能被草药大师特征和酿造药水专长所取代。",
+      "enGB": "Gain access to the spells and revelations of the shadow mystery. \nDue to the divine herbalist archetype the class skills gained from this archetypeare replaced by the master herbalist feature and the brew potions feat."
+    },
+    {
+      "Key": "09d549d1562f4b7e9addebb4a9c8110c",
+      "SimpleName": "OracleShadowFinalRevelation.Description",
+      "ProcessTemplates": true,
+      "zhCN": "当你达到20级时，你的身体将永久地被影界本质所充满。你获得对寒冷、重击和偷袭的免疫力。只要你不受任何导致发光的能力影响，你还将获得再生5。此外，你施放的阴影子学派或带有黑暗描述符的法术都会自动延长持续时间，而不会影响其法术等级。",
+      "enGB": "Upon reaching 20th level, your body becomes permanently suffused with the essence of the Shadow Plane. You gain  immunity to cold, critical hits, and sneak attacks. You also gain regeneration 5 as long as you are not affected by any abilities that cause you to emit light. In addition, any spells you cast of the shadow subschool or with the darkness descriptor are automatically extended without affecting their spell level"
+    },
+    {
+      "Key": "2156e5ce1f5f4d65918dd32bf5a51ee1",
+      "SimpleName": "OracleShadowMysteryFeature.Description",
+      "ProcessTemplates": true,
+      "zhCN": "具有阴影秘示域的先知将沟通、隐匿和知识（世界）添加到她的本职技能列表中。",
+      "enGB": "An oracle with the shadow mystery adds Persuasion, Stealth and Knowledge (World)  to her list of class skills."
+    },
+    {
+      "Key": "55c85923c1324f48b003ce05c15a0193",
+      "SimpleName": "OracleShadowMysteryFeature.Name",
+      "ProcessTemplates": false,
+      "zhCN": "阴影",
+      "enGB": "Shadow"
+    },
+    {
+      "Key": "91616eb97ea3471abc626b1a183afe2f",
+      "SimpleName": "DivineHerbalistHeavensMysteryFeature.Description",
+      "ProcessTemplates": true,
+      "enGB": "Gain access to the spells and revelations of the heavens mystery. \nDue to the divine herbalist archetype the class skills gained from this archetypeare replaced by the master herbalist feature and the brew potions feat.",
+      "zhCN": "获得苍天秘示域的法术和启示。\n由于神圣草药师原型，从该原型获得的职业技能被草药大师特征和酿造药水专长所取代。"
+    },
+    {
+      "Key": "c71df6fbe05e41c593e2d5fc80a3f485",
+      "SimpleName": "OracleRevelationArmyOfDarknessFeature.Description",
+      "ProcessTemplates": true,
+      "zhCN": "每当你施放一个召唤怪物法术并召唤一个善良或邪恶的异界生物时，你同时也会以阴影生物模板召唤它。这个启示等同于拥有"法术专攻（咒法系）"专长，以满足"增强召唤"专长的前置条件，以及任何将"增强召唤"列为前置条件的专长。\r\n阴影生物获得等同于其生命骰数+6的法术抗性。它还获得以下能力：\r\n1-4HD：寒冷和电击抗性5\r\n5-10HD：寒冷和电击抗性10，伤害减免5/魔法\r\n11+HD：寒冷和电击抗性15，伤害减免10/魔法\r\n遁影：阴影生物能够融入阴影之中，获得隐蔽（20%失手率）。",
+      "enGB": "Whenever you cast a summon monster spell and summon a good or evil outsider creature, you also summon it with the shadow creature template. This revelation counts as having the Spell Focus (conjuration) feat for the purpose of meeting the prerequisites of the Augment Summoning feat, as well as any feat that lists Augment Summoning as a prerequisite. \r\nA shadow creature gains spell resistance equal to its Hit Dice +6. It also gains:\r\n1 — 4 HD: resistance 5 to cold and electricity\r\n5 — 10 HD: resistance 10 to cold and electricity, DR 5/magic\r\n11+ HD: resistance 15 to cold and electricity, DR 10/magic\r\nShadow Blend: A shadow creature blends into the shadows, gaining concealment (20% miss chance)."
+    },
+    {
+      "Key": "7cf0cb80a0e1477ab851bc7cb8e57ad2",
+      "SimpleName": "OracleRevelationArmyOfDarknessFeature.Name",
+      "ProcessTemplates": false,
+      "zhCN": "黑暗军队",
+      "enGB": "Army of Darkness"
+    },
+    {
+      "Key": "76b85b6e23a64c099a116a2061994ea5",
+      "SimpleName": "OracleRevelationDarkSecretsLevel1Selection.Description",
+      "ProcessTemplates": true,
+      "zhCN": "你掌握了施放阴影法术的隐秘奥义。这一启示赐予你一个来自法师法术列表的1级阴影法术。从4级开始，每达到偶数等级时，你可以选择另一个与你当前等级相符的阴影法术（4级时可选择最高2级法术，6级时可选择最高3级法术，以此类推）。\n若在较高等级获得此启示，你将追溯获得相应的法术。但请注意，所选法术的等级仍需与你的角色等级相匹配。",
+      "enGB": "You learn the hidden secrets surrounding the casting of shadow spells. This revelation grants a 1st level shadow spell from the wizard spell list, at level 4 and every even level after, you may select another shadow spell that you are the appropriate level to cast (at level 4 you may pick up to 2nd level spells, level 6 3rd level spells, ect...). \nIf this revelation is taken at a later level, spells are granted retroactively, with spells selected still being level appropriate."
+    },
+    {
+      "Key": "2140e994b59f47dc9f027d6713da8e0b",
+      "SimpleName": "OracleRevelationDarkSecretsLevel1Selection.Name",
+      "ProcessTemplates": false,
+     "zhCN": "黑暗秘密",
+      "enGB": "Dark Secrets"
+    },
+    {
+      "Key": "f88b298bda984bb88e2bda6def307c5f",
+      "SimpleName": "OracleRevelationDarkSecretsLevel2Selection.Description",
+      "ProcessTemplates": true,
+      "zhCN": "你掌握了施放阴影法术的隐秘奥义。这一启示赐予你一个来自法师法术列表的1级阴影法术。从4级开始，每达到偶数等级时，你可以选择另一个与你当前等级相符的阴影法术（4级时可选择最高2级法术，6级时可选择最高3级法术，以此类推）。\n若在较高等级获得此启示，你将追溯获得相应的法术。但请注意，所选法术的等级仍需与你的角色等级相匹配。",
+      "enGB": "You learn the hidden secrets surrounding the casting of shadow spells. This revelation grants a 1st level shadow spell from the wizard spell list, at level 4 and every even level after, you may select another shadow spell that you are the appropriate level to cast (at level 4 you may pick up to 2nd level spells, level 6 3rd level spells, ect...). \nIf this revelation is taken at a later level, spells are granted retroactively, with spells selected still being level appropriate."
+    },
+    {
+      "Key": "4ece9ca76b244e37875dc3b26c09305c",
+      "SimpleName": "OracleRevelationDarkSecretsLevel3Selection.Description",
+      "ProcessTemplates": true,
+      "zhCN": "你掌握了施放阴影法术的隐秘奥义。这一启示赐予你一个来自法师法术列表的1级阴影法术。从4级开始，每达到偶数等级时，你可以选择另一个与你当前等级相符的阴影法术（4级时可选择最高2级法术，6级时可选择最高3级法术，以此类推）。\n若在较高等级获得此启示，你将追溯获得相应的法术。但请注意，所选法术的等级仍需与你的角色等级相匹配。",
+      "enGB": "You learn the hidden secrets surrounding the casting of shadow spells. This revelation grants a 1st level shadow spell from the wizard spell list, at level 4 and every even level after, you may select another shadow spell that you are the appropriate level to cast (at level 4 you may pick up to 2nd level spells, level 6 3rd level spells, ect...). \nIf this revelation is taken at a later level, spells are granted retroactively, with spells selected still being level appropriate."
+    },
+    {
+      "Key": "bd79c00948c246089d7fdf0d8a1bff01",
+      "SimpleName": "OracleRevelationDarkSecretsLevel4Selection.Description",
+      "ProcessTemplates": true,
+      "zhCN": "你掌握了施放阴影法术的隐秘奥义。这一启示赐予你一个来自法师法术列表的1级阴影法术。从4级开始，每达到偶数等级时，你可以选择另一个与你当前等级相符的阴影法术（4级时可选择最高2级法术，6级时可选择最高3级法术，以此类推）。\n若在较高等级获得此启示，你将追溯获得相应的法术。但请注意，所选法术的等级仍需与你的角色等级相匹配。",
+      "enGB": "You learn the hidden secrets surrounding the casting of shadow spells. This revelation grants a 1st level shadow spell from the wizard spell list, at level 4 and every even level after, you may select another shadow spell that you are the appropriate level to cast (at level 4 you may pick up to 2nd level spells, level 6 3rd level spells, ect...). \nIf this revelation is taken at a later level, spells are granted retroactively, with spells selected still being level appropriate."
+    },
+    {
+      "Key": "00f825e1e8194630b3fbbfdc66e59538",
+      "SimpleName": "OracleRevelationDarkSecretsLevel5Selection.Description",
+      "ProcessTemplates": true,
+      "zhCN": "你掌握了施放阴影法术的隐秘奥义。这一启示赐予你一个来自法师法术列表的1级阴影法术。从4级开始，每达到偶数等级时，你可以选择另一个与你当前等级相符的阴影法术（4级时可选择最高2级法术，6级时可选择最高3级法术，以此类推）。\n若在较高等级获得此启示，你将追溯获得相应的法术。但请注意，所选法术的等级仍需与你的角色等级相匹配。",
+      "enGB": "You learn the hidden secrets surrounding the casting of shadow spells. This revelation grants a 1st level shadow spell from the wizard spell list, at level 4 and every even level after, you may select another shadow spell that you are the appropriate level to cast (at level 4 you may pick up to 2nd level spells, level 6 3rd level spells, ect...). \nIf this revelation is taken at a later level, spells are granted retroactively, with spells selected still being level appropriate."
+    },
+    {
+      "Key": "13969bdb199a4813a82ae73ce70811d3",
+      "SimpleName": "OracleRevelationDarkSecretsLevel6Selection.Description",
+      "ProcessTemplates": true,
+      "zhCN": "你掌握了施放阴影法术的隐秘奥义。这一启示赐予你一个来自法师法术列表的1级阴影法术。从4级开始，每达到偶数等级时，你可以选择另一个与你当前等级相符的阴影法术（4级时可选择最高2级法术，6级时可选择最高3级法术，以此类推）。\n若在较高等级获得此启示，你将追溯获得相应的法术。但请注意，所选法术的等级仍需与你的角色等级相匹配。",
+      "enGB": "You learn the hidden secrets surrounding the casting of shadow spells. This revelation grants a 1st level shadow spell from the wizard spell list, at level 4 and every even level after, you may select another shadow spell that you are the appropriate level to cast (at level 4 you may pick up to 2nd level spells, level 6 3rd level spells, ect...). \nIf this revelation is taken at a later level, spells are granted retroactively, with spells selected still being level appropriate."
+    },
+    {
+      "Key": "c7de4a8092fb4b0897ebd4ef84e60e63",
+      "SimpleName": "OracleRevelationDarkSecretsLevel7Selection.Description",
+      "ProcessTemplates": true,
+      "zhCN": "你掌握了施放阴影法术的隐秘奥义。这一启示赐予你一个来自法师法术列表的1级阴影法术。从4级开始，每达到偶数等级时，你可以选择另一个与你当前等级相符的阴影法术（4级时可选择最高2级法术，6级时可选择最高3级法术，以此类推）。\n若在较高等级获得此启示，你将追溯获得相应的法术。但请注意，所选法术的等级仍需与你的角色等级相匹配。",
+      "enGB": "You learn the hidden secrets surrounding the casting of shadow spells. This revelation grants a 1st level shadow spell from the wizard spell list, at level 4 and every even level after, you may select another shadow spell that you are the appropriate level to cast (at level 4 you may pick up to 2nd level spells, level 6 3rd level spells, ect...). \nIf this revelation is taken at a later level, spells are granted retroactively, with spells selected still being level appropriate."
+    },
+    {
+      "Key": "4f7ba1a20c094e4a857814ca140915e3",
+      "SimpleName": "OracleRevelationDarkSecretsLevel8Selection.Description",
+      "ProcessTemplates": true,
+      "zhCN": "你掌握了施放阴影法术的隐秘奥义。这一启示赐予你一个来自法师法术列表的1级阴影法术。从4级开始，每达到偶数等级时，你可以选择另一个与你当前等级相符的阴影法术（4级时可选择最高2级法术，6级时可选择最高3级法术，以此类推）。\n若在较高等级获得此启示，你将追溯获得相应的法术。但请注意，所选法术的等级仍需与你的角色等级相匹配。",
+      "enGB": "You learn the hidden secrets surrounding the casting of shadow spells. This revelation grants a 1st level shadow spell from the wizard spell list, at level 4 and every even level after, you may select another shadow spell that you are the appropriate level to cast (at level 4 you may pick up to 2nd level spells, level 6 3rd level spells, ect...). \nIf this revelation is taken at a later level, spells are granted retroactively, with spells selected still being level appropriate."
+    },
+    {
+      "Key": "c7436f66be1e40b6a81e88ed2c27c4e2",
+      "SimpleName": "OracleRevelationDarkSecretsLevel9Selection.Description",
+      "ProcessTemplates": true,
+      "zhCN": "你掌握了施放阴影法术的隐秘奥义。这一启示赐予你一个来自法师法术列表的1级阴影法术。从4级开始，每达到偶数等级时，你可以选择另一个与你当前等级相符的阴影法术（4级时可选择最高2级法术，6级时可选择最高3级法术，以此类推）。\n若在较高等级获得此启示，你将追溯获得相应的法术。但请注意，所选法术的等级仍需与你的角色等级相匹配。",
+      "enGB": "You learn the hidden secrets surrounding the casting of shadow spells. This revelation grants a 1st level shadow spell from the wizard spell list, at level 4 and every even level after, you may select another shadow spell that you are the appropriate level to cast (at level 4 you may pick up to 2nd level spells, level 6 3rd level spells, ect...). \nIf this revelation is taken at a later level, spells are granted retroactively, with spells selected still being level appropriate."
+    },
+    {
+      "Key": "9fd6815ffd154c9598c13391b6065c4c",
+      "SimpleName": "OracleRevelationDarkSecretsProgression.Description",
+      "ProcessTemplates": true,
+      "zhCN": "你掌握了施放阴影法术的隐秘奥义。这一启示赐予你一个来自法师法术列表的1级阴影法术。从4级开始，每达到偶数等级时，你可以选择另一个与你当前等级相符的阴影法术（4级时可选择最高2级法术，6级时可选择最高3级法术，以此类推）。\n若在较高等级获得此启示，你将追溯获得相应的法术。但请注意，所选法术的等级仍需与你的角色等级相匹配。",
+      "enGB": "You learn the hidden secrets surrounding the casting of shadow spells. This revelation grants a 1st level shadow spell from the wizard spell list, at level 4 and every even level after, you may select another shadow spell that you are the appropriate level to cast (at level 4 you may pick up to 2nd level spells, level 6 3rd level spells, ect...). \nIf this revelation is taken at a later level, spells are granted retroactively, with spells selected still being level appropriate."
+    },
+    {
+      "Key": "c5a2f323155044cd9d11c834df0ca492",
+      "SimpleName": "OracleRevelationDarkSecretsSpellLevel1.Description",
+      "ProcessTemplates": true,
+      "zhCN": "选择一个阴影或黑暗法术。",
+      "enGB": "Choose a shadow or darkness spell."
+    },
+    {
+      "Key": "0afc65f5e3fd497798ff7ca54512aa44",
+      "SimpleName": "OracleRevelationDarkSecretsSpellLevel1.Name",
+      "ProcessTemplates": false,
+      "zhCN": "黑暗秘密（1环）",
+      "enGB": "Dark Secret (1st Level)"
+    },
+    {
+      "Key": "25924959242f4db68ce1b5338bebf15a",
+      "SimpleName": "OracleRevelationDarkSecretsSpellLevel2.Description",
+      "ProcessTemplates": true,
+      "zhCN": "选择一个阴影或黑暗法术。",
+      "enGB": "Choose a shadow or darkness spell."
+    },
+    {
+      "Key": "0af5408bac914ecc8c65c8aab8f32f43",
+      "SimpleName": "OracleRevelationDarkSecretsSpellLevel2.Name",
+      "ProcessTemplates": false,
+      "zhCN": "黑暗秘密（2环）",
+      "enGB": "Dark Secret (2nd Level)"
+    },
+    {
+      "Key": "31bdc1b40d0d4e098287de0c8c0487ca",
+      "SimpleName": "OracleRevelationDarkSecretsSpellLevel3.Description",
+      "ProcessTemplates": true,
+      "zhCN": "选择一个阴影或黑暗法术。",
+      "enGB": "Choose a shadow or darkness spell."
+    },
+    {
+      "Key": "3d4ed767d7a94e4ca4efdb395bf61079",
+      "SimpleName": "OracleRevelationDarkSecretsSpellLevel3.Name",
+      "ProcessTemplates": false,
+      "zhCN": "黑暗秘密（3环）",
+      "enGB": "Dark Secret (3rd Level)"
+    },
+    {
+      "Key": "7a1496f7e74a4066b2b9236c528bf408",
+      "SimpleName": "OracleRevelationDarkSecretsSpellLevel4.Description",
+      "ProcessTemplates": true,
+      "zhCN": "选择一个阴影或黑暗法术。",
+      "enGB": "Choose a shadow or darkness spell."
+    },
+    {
+      "Key": "00dea6e53b19411fa9d40da3d33ac01f",
+      "SimpleName": "OracleRevelationDarkSecretsSpellLevel4.Name",
+      "ProcessTemplates": false,
+      "zhCN": "黑暗秘密（4环）",
+      "enGB": "Dark Secret (4th Level)"
+    },
+    {
+      "Key": "30ad42b98556456a80aab6b406a29b3f",
+      "SimpleName": "OracleRevelationDarkSecretsSpellLevel5.Description",
+      "ProcessTemplates": true,
+      "zhCN": "选择一个阴影或黑暗法术。",
+      "enGB": "Choose a shadow or darkness spell."
+    },
+    {
+      "Key": "a70b6993e801419b9ac95682ed397d34",
+      "SimpleName": "OracleRevelationDarkSecretsSpellLevel5.Name",
+      "ProcessTemplates": false,
+      "zhCN": "黑暗秘密（5环）",
+      "enGB": "Dark Secret (5th Level)"
+    },
+    {
+      "Key": "aa8c75dfc0d0487382eb24b9fdfd321f",
+      "SimpleName": "OracleRevelationDarkSecretsSpellLevel6.Description",
+      "ProcessTemplates": true,
+      "zhCN": "选择一个阴影或黑暗法术。",
+      "enGB": "Choose a shadow or darkness spell."
+    },
+    {
+      "Key": "685a0494544c4a379a1e60a3fa5b2976",
+      "SimpleName": "OracleRevelationDarkSecretsSpellLevel6.Name",
+      "ProcessTemplates": false,
+      "zhCN": "黑暗秘密（6环）",
+      "enGB": "Dark Secret (6th Level)"
+    },
+    {
+      "Key": "f024b0b787304fbbae82a9f9e2a166af",
+      "SimpleName": "OracleRevelationDarkSecretsSpellLevel7.Description",
+      "ProcessTemplates": true,
+      "zhCN": "选择一个阴影或黑暗法术。",
+      "enGB": "Choose a shadow or darkness spell."
+    },
+    {
+      "Key": "3096d66f84aa4ded86eb8e016220cbe1",
+      "SimpleName": "OracleRevelationDarkSecretsSpellLevel7.Name",
+      "ProcessTemplates": false,
+      "zhCN": "黑暗秘密（7环）",
+      "enGB": "Dark Secret (7th Level)"
+    },
+    {
+      "Key": "3ed5ef1594c249a5a43c77e554daf7a2",
+      "SimpleName": "OracleRevelationDarkSecretsSpellLevel8.Description",
+      "ProcessTemplates": true,
+      "zhCN": "选择一个阴影或黑暗法术。",
+      "enGB": "Choose a shadow or darkness spell."
+    },
+    {
+      "Key": "a0c1baa72c32467ea94a4d657d7d1053",
+      "SimpleName": "OracleRevelationDarkSecretsSpellLevel8.Name",
+      "ProcessTemplates": false,
+      "zhCN": "黑暗秘密（8环）",
+      "enGB": "Dark Secret (8th Level)"
+    },
+    {
+      "Key": "432b9a7c58db4f7ba19f6928cdce3a94",
+      "SimpleName": "OracleRevelationDarkSecretsSpellLevel9.Description",
+      "ProcessTemplates": true,
+      "zhCN": "选择一个阴影或黑暗法术。",
+      "enGB": "Choose a shadow or darkness spell."
+    },
+    {
+      "Key": "4ba01d5fd8c34c5fb08ea40e822df85c",
+      "SimpleName": "OracleRevelationDarkSecretsSpellLevel9.Name",
+      "ProcessTemplates": false,
+      "zhCN": "黑暗秘密（9环）",
+      "enGB": "Dark Secret (9th Level)"
+    },
+    {
+      "Key": "c5a0ad67a9cd45cf96de1508f515e494",
+      "SimpleName": "OracleRevelationDarkSecretsSpellSkip.Description",
+      "ProcessTemplates": true,
+      "zhCN": "如果您拥有所有可选法术，则跳过选择新法术。",
+      "enGB": "Skip selecting a new spell if you have all available spells."
+    },
+    {
+      "Key": "4e38146d5d40457e8dd32b695c4be331",
+      "SimpleName": "OracleRevelationDarkSecretsSpellSkip.Name",
+      "ProcessTemplates": false,
+      "zhCN": "跳过选择法术",
+      "enGB": "Skip Spell Selection"
+    },
+    {
+      "Key": "ccb4d5e5c5284a229956dbfa9265fad4",
+      "SimpleName": "OracleRevelationShadowMasteryFeature.Description",
+      "ProcessTemplates": true,
+      "zhCN": "当你使用一个阴影子学派的幻术系法术时，你每拥有1个先知等级，就可以增加该法术1%的真实度。",
+      "enGB": "Whenever you cast an illusion spell from the shadow subschool, increase the strength of such spells by 1% per oracle level you have. You must be at least 7th level to choose this revelation."
+    },
+    {
+      "Key": "b03ebc7ad2f34d478f5de7b419814d54",
+      "SimpleName": "OracleRevelationShadowMasteryFeature.Name",
+      "ProcessTemplates": false,
+      "zhCN": "幽影掌握",
+      "enGB": "Shadow Mastery"
+    },
+    {
+      "Key": "07bb86e0ec674c37b338798235598275",
+      "SimpleName": "OracleRevelationStealthMasteryProgression.Description",
+      "ProcessTemplates": true,
+      "zhCN": "你获得技能专攻（隐匿）。\n在8级时,你获得快速潜行天赋,允许你在潜行状态下以全速移动。\n在16级时,你获得刺客职业特性"视线躲藏"。\n刺客即使在被观察的情况下也可以使用隐匿技能。刺客可以从他人的视野内凭空消失，而不需要真正躲在掩蔽物后方。",
+      "enGB": "You gain Skill Focus (Stealth). \nAt 8th level, you gain the fast stealth talent, allowing you to move at full speed while stealthed. \nAt 16th level, you gain the hide in plain sight assassin class feature. \n An assassin can use the Stealth skill even while being observed. An assassin can hide himself from view in the open without having anything to actually hide behind."
+    },
+    {
+      "Key": "0ec7b66fa03041d99e62504b846f475e",
+      "SimpleName": "OracleRevelationStealthMasteryProgression.Name",
+      "ProcessTemplates": false,
+      "zhCN": "隐匿掌握",
+      "enGB": "Stealth Mastery"
+    },
+    {
+      "Key": "8b1b0cdfe7d44ae0be4e15f475cd9d30",
+      "SimpleName": "OracleRevelationCloakOfDarknessAbility.Description",
+      "ProcessTemplates": true,
+      "zhCN": "你创造出一件由纯粹黑暗所构成的斗蓬，给予你+4的盔甲加值，并且在隐匿检定上得到+2环境加值。7级还有之后的每4级，这些加值提升2点。你每天可以使用此能力的时间为每先知等级1小时，使用的时间无需连续，但每次使用最少消耗1个小时。",
+      "enGB": "You conjure a cloak of shadowy darkness that grants you a +4 armor bonus and a +2 circumstance bonus on Stealth checks. At 7th level, and every four levels thereafter, these bonuses increase by +2. You can use this cloak for 1 hour per day per oracle level. The duration does not need to be consecutive, but it must be spent in 1-hour increments."
+    },
+    {
+      "Key": "601deb7948e844bfbf57968270c03c48",
+      "SimpleName": "OracleRevelationCloakOfDarknessBuff.Description",
+      "ProcessTemplates": true,
+      "zhCN": "你创造出一件由纯粹黑暗所构成的斗蓬，给予你+4的盔甲加值，并且在隐匿检定上得到+2环境加值。7级还有之后的每4级，这些加值提升2点。你每天可以使用此能力的时间为每先知等级1小时，使用的时间无需连续，但每次使用最少消耗1个小时。",
+      "enGB": "You conjure a cloak of shadowy darkness that grants you a +4 armor bonus and a +2 circumstance bonus on Stealth checks. At 7th level, and every four levels thereafter, these bonuses increase by +2. You can use this cloak for 1 hour per day per oracle level. The duration does not need to be consecutive, but it must be spent in 1-hour increments."
+    },
+    {
+      "Key": "c1011dba030e44e6951ad4e27f86f589",
+      "SimpleName": "OracleRevelationCloakOfDarknessBuff.Name",
+      "ProcessTemplates": false,
+      "zhCN": "黑幕斗篷",
+      "enGB": "Coat of Darkness"
+    },
+    {
+      "Key": "9e2b23443f6f47e3bf28efa33dd4d1db",
+      "SimpleName": "OracleRevelationCloakOfDarknessFeature.Description",
+      "ProcessTemplates": true,
+      "zhCN": "你创造出一件由纯粹黑暗所构成的斗蓬，给予你+4的盔甲加值，并且在隐匿检定上得到+2环境加值。7级还有之后的每4级，这些加值提升2点。你每天可以使用此能力的时间为每先知等级1小时，使用的时间无需连续，但每次使用最少消耗1个小时。",
+      "enGB": "You conjure a cloak of shadowy darkness that grants you a +4 armor bonus and a +2 circumstance bonus on Stealth checks. At 7th level, and every four levels thereafter, these bonuses increase by +2. You can use this cloak for 1 hour per day per oracle level. The duration does not need to be consecutive, but it must be spent in 1-hour increments."
+    },
+    {
+      "Key": "60d99910514b449682ff97488234b183",
+      "SimpleName": "OracleRevelationWingsOfDarknessAbility.Description",
+      "ProcessTemplates": true,
+      "zhCN": "以一个迅捷动作，你可以显现一对翅膀，使你获得60尺的飞行速度。你每天可以使用这对翅膀的时间等于每先知等级1分钟。这个持续时间不需要连续使用，但必须以1分钟为单位消耗。当你达到11级时，每天可以使用这对翅膀的时间增加到每先知等级10分钟。到15级时，你可以无限期地使用这对翅膀。你必须至少达到7级才能选择这个启示。",
+      "enGB": "As a swift action, you can manifest a set of wings that grant you a speed of 60 feet. You can use these wings for 1 minute per day for each oracle level you have. This duration does not need to be consecutive, but it must be spent in 1-minute increments. At 11th level you can use these wings for 10 minutes per day for each oracle level you have. At 15th level, you can use the wings indefinitely. You must be at least 7th level to select this revelation."
+    },
+    {
+      "Key": "596bbe0a131d4e6880d249a7bda4d758",
+      "SimpleName": "OracleRevelationWingsOfDarknessBuff.Description",
+      "ProcessTemplates": true,
+      "zhCN": "以一个迅捷动作，你可以显现一对翅膀，使你获得30速度加值。你每天可以使用这对翅膀的时间等于每先知等级1分钟。这个持续时间不需要连续使用，但必须以1分钟为单位消耗。当你达到11级时，每天可以使用这对翅膀的时间增加到每先知等级10分钟。到15级时，你可以无限期地使用这对翅膀。你必须至少达到7级才能选择这个启示。",
+      "enGB": "As a swift action, you can manifest a set of wings that grant you a speed bonus of 30. You can use these wings for 1 minute per day for each oracle level you have. This duration does not need to be consecutive, but it must be spent in 1-minute increments. At 11th level you can use these wings for 10 minutes per day for each oracle level you have. At 15th level, you can use the wings indefinitely. You must be at least 7th level to select this revelation."
+    },
+    {
+      "Key": "aebee6b80a594073b90b6c38ebbbe6fb",
+      "SimpleName": "OracleRevelationWingsOfDarknessBuff.Name",
+      "ProcessTemplates": false,
+      "zhCN": "黑暗之翼",
+      "enGB": "Wings of Darkness"
+    },
+    {
+      "Key": "dbd1393842a8498bb5eace4098237179",
+      "SimpleName": "OracleRevelationWingsOfDarknessFeature.Description",
+      "ProcessTemplates": true,
+      "zhCN": "以一个迅捷动作，你可以显现一对翅膀，使你获得60尺的飞行速度。你每天可以使用这对翅膀的时间等于每先知等级1分钟。这个持续时间不需要连续使用，但必须以1分钟为单位消耗。当你达到11级时，每天可以使用这对翅膀的时间增加到每先知等级10分钟。到15级时，你可以无限期地使用这对翅膀。你必须至少达到7级才能选择这个启示。",
+      "enGB": "As a swift action, you can manifest a set of wings that grant you a speed of 60 feet. You can use these wings for 1 minute per day for each oracle level you have. This duration does not need to be consecutive, but it must be spent in 1-minute increments. At 11th level you can use these wings for 10 minutes per day for each oracle level you have. At 15th level, you can use the wings indefinitely. You must be at least 7th level to select this revelation."
+    },
+    {
+      "Key": "b5e10adaa25945c3ae0b463972cd4fab",
+      "SimpleName": "OracleRevelationWingsOfDarknessProgression.Description",
+      "ProcessTemplates": true,
+      "zhCN": "以一个迅捷动作，你可以显现一对翅膀，使你获得30速度加值。你每天可以使用这对翅膀的时间等于每先知等级1分钟。这个持续时间不需要连续使用，但必须以1分钟为单位消耗。当你达到11级时，每天可以使用这对翅膀的时间增加到每先知等级10分钟。到15级时，你可以无限期地使用这对翅膀。你必须至少达到7级才能选择这个启示。",
+      "enGB": "As a swift action, you can manifest a set of wings that grant you a speed bonus of 30. You can use these wings for 1 minute per day for each oracle level you have. This duration does not need to be consecutive, but it must be spent in 1-minute increments. At 11th level you can use these wings for 10 minutes per day for each oracle level you have. At 15th level, you can use the wings indefinitely. You must be at least 7th level to select this revelation."
     }    
   ]
 }
