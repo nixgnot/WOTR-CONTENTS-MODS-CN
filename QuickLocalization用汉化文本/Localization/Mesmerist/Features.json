@@ -13,18 +13,18 @@
   {
     "Key": "FatiguingStare.Name",
     "ProcessTemplates": false,
-    "zhCN": "脱力目光",
+    "zhCN": "脱力注视",
     "enGB": "Fatiguing Stare"
   },
   {
     "Key": "FatiguingStare.Description",
-    "zhCN": "当一个目标由于你的痛苦注视而受到伤害时，它必须进行一次强韧豁免检定（DC = 10 + 1/2你的催眠师等级 + 你的魅力调整值），失败则会陷入疲劳，持续1轮。该效果不会让目标陷入力竭，即使目标当前已经陷入疲劳也无法做到这点。",
+    "zhCN": "当你触发你的痛苦注视时，目标必须进行一次意志豁免（DC = 10 + 1/2你的催眠师等级 + 你的魅力调整值），失败则会疲劳1轮。该不会致使目标陷入力竭，即使目标已经处于疲劳状态也不会如此。",
     "enGB": "When a target takes damage from your painful stare, it must succeed at a Fortitude saving throw (DC = 10 + 1/2 your mesmerist level + your Charisma modifier) or become fatigued for 1 round. This can’t cause the target to become exhausted, even if the target is already fatigued."
   },
   {
     "Key": "DemoralizingStare.Name",
     "ProcessTemplates": false,
-    "zhCN": "慑人目光",
+    "zhCN": "慑人注视",
     "enGB": "Demoralizing Stare"
   },
   {
@@ -40,7 +40,7 @@
   },
   {
     "Key": "ExcoriatingStare.Description",
-    "zhCN": "每当你触发痛苦注视时，目标必须进行一次意志豁免检定（DC = 10 + 1/2你的催眠师等级 + 你的魅力调整值），失败则会由于疼痛而恶心1轮。",
+    "zhCN": "当你触发你的痛苦注视时，目标必须进行一次意志豁免检定（DC = 10 + 1/2你的催眠师等级 + 你的魅力调整值），失败则会由于疼痛而恶心1轮。",
     "enGB": "Whenever you trigger a painful stare, the target must succeed at a Will saving throw (DC = 10 + 1/2 your mesmerist level + your Charisma modifier) or become sickened by the pain for 1 round."
   },
   {
