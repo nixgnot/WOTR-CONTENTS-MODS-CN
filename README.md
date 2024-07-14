@@ -90,7 +90,9 @@
 | [deceiverbuff](#deceiverbuff) | 魔法诈欺师加强 | 暂无 | :heavy_check_mark: | :+1::+1::+1:| :file_folder: |🛠️🛠️||
 | [FinessableSabers](#FinessableSabers) | FinessableSabers | QL汉化 | :heavy_check_mark: | :+1:| :file_folder: |🛠️||
 | [HombrewFighterMagus](#HombrewFighterMagus) | 原创魔战 | QL汉化 | :x: | :+1:| :file_folder: |🛠️||
-| [Prestige-Minus](#Prestige-Minus) | 小队伍游玩 | 部分自带 | :heavy_check_mark: | :+2:| :file_folder: |🛠️🛠️🛠️||
+| [Prestige-Minus](#Prestige-Minus) | 小队伍游玩 | 部分自带 | :heavy_check_mark: | :+1::+1:| :file_folder: |🛠️🛠️🛠️||
+| [WOTRMesmerist](#WOTRMesmerist) | 催眠师 | QL汉化 | :heavy_check_mark: | :+1:| :file_folder: :file_folder: |||
+
 
 备注
 + UMM一栏为是否使用UMM安装
@@ -4683,6 +4685,25 @@ C:\Users\你的用户名\AppData\LocalLow\Owlcat Games\Pathfinder Wrath Of The R
 功能无法单独开关
 
 ------------------------------------------- 
+### [WOTRMesmerist](https://github.com/Telyl/WOTRMesmerist/tree/master)
+> *前置：* ModMenu<br>
+> *中文：* **QL汉化**<br>
+> *安装方式：* **UMM**<br>
+> *新增内容：*
+<table>
+<tr><th colspan="5">新增内容列表<br></th></tr> 
+  <tr><td rowspan="2">职业 Classes</i></td>
+       <tr><td colspan="5">催眠师 Mesmerist</td></tr>
+  <tr><td rowspan="6">专长 Feats</i></td>
+       <td colspan="2">剧烈痛楚 Intense Pain<br>当你使用痛苦注视增加自己造成的伤害时，能够额外造成1d6点伤害（12级时2d6点，18级时3d6点。）当你使用痛苦注视增强盟友的伤害时，每拥有4个催眠师等级目标额外受到1点伤害。</td></tr>
+       <td colspan="2">脱力注视 Fatiguing Stare<br>当你触发你的痛苦注视时，目标必须进行一次意志豁免（DC = 10 + 1/2你的催眠师等级 + 你的魅力调整值），失败则会疲劳1轮。该不会致使目标陷入力竭，即使目标已经处于疲劳状态也不会如此。</td></tr>
+       <td colspan="2">慑人注视 Demoralizing Stare<br>当你触发你的痛苦注视时，目标必须进行一次意志豁免（DC = 10 + 1/2你的催眠师等级 + 你的魅力调整值），失败则会战栗1轮。这不会致使目标陷入惊恐，即便目标已经处于战栗状态也不会如此。</td></tr>
+       <td colspan="2">责难注视 Excoriating Stare<br>当你触发你的痛苦注视时，目标必须进行一次意志豁免检定（DC = 10 + 1/2你的催眠师等级 + 你的魅力调整值），失败则会由于疼痛而恶心1轮。</td></tr>
+       <td colspan="2">痛苦恶化 Compounded Pain<br>你可以将两项注视专长的效果应用至你的痛苦注视职业能力上。</td></tr>
+       <td colspan="2">多样注视 Manifold Stare<br>你每轮可以多触发一次痛苦注视。</td></tr>
+</table>   
+------------------------------------------- 
+
 
 ### 功能MOD索引
 + [ToyBox](https://github.com/xADDBx/ToyBox-Wrath) 应该不用介绍？
