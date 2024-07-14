@@ -26563,17 +26563,10 @@
       "enGB": "Shadow"
     },
     {
-      "Key": "91616eb97ea3471abc626b1a183afe2f",
-      "SimpleName": "DivineHerbalistHeavensMysteryFeature.Description",
-      "ProcessTemplates": true,
-      "enGB": "Gain access to the spells and revelations of the heavens mystery. \nDue to the divine herbalist archetype the class skills gained from this archetypeare replaced by the master herbalist feature and the brew potions feat.",
-      "zhCN": "获得苍天秘示域的法术和启示。\n由于神圣草药师原型，从该原型获得的职业技能被草药大师特征和酿造药水专长所取代。"
-    },
-    {
       "Key": "c71df6fbe05e41c593e2d5fc80a3f485",
       "SimpleName": "OracleRevelationArmyOfDarknessFeature.Description",
       "ProcessTemplates": true,
-      "zhCN": "每当你施放一个召唤怪物法术并召唤一个善良或邪恶的异界生物时，你同时也会以阴影生物模板召唤它。这个启示等同于拥有"法术专攻（咒法系）"专长，以满足"增强召唤"专长的前置条件，以及任何将"增强召唤"列为前置条件的专长。\r\n阴影生物获得等同于其生命骰数+6的法术抗性。它还获得以下能力：\r\n1-4HD：寒冷和电击抗性5\r\n5-10HD：寒冷和电击抗性10，伤害减免5/魔法\r\n11+HD：寒冷和电击抗性15，伤害减免10/魔法\r\n遁影：阴影生物能够融入阴影之中，获得隐蔽（20%失手率）。",
+      "zhCN": "每当你施放一个召唤怪物法术并召唤一个善良或邪恶的异界生物时，你同时也会以阴影生物模板召唤它。这个启示等同于拥有“法术专攻（咒法系）”专长，以满足“增强召唤”专长的前置条件，以及任何将“增强召唤”列为前置条件的专长。\r\n阴影生物获得等同于其生命骰数+6的法术抗性。它还获得以下能力：\r\n1-4HD：寒冷和电击抗性5\r\n5-10HD：寒冷和电击抗性10，伤害减免5/魔法\r\n11+HD：寒冷和电击抗性15，伤害减免10/魔法\r\n遁影：阴影生物能够融入阴影之中，获得隐蔽（20%失手率）。",
       "enGB": "Whenever you cast a summon monster spell and summon a good or evil outsider creature, you also summon it with the shadow creature template. This revelation counts as having the Spell Focus (conjuration) feat for the purpose of meeting the prerequisites of the Augment Summoning feat, as well as any feat that lists Augment Summoning as a prerequisite. \r\nA shadow creature gains spell resistance equal to its Hit Dice +6. It also gains:\r\n1 — 4 HD: resistance 5 to cold and electricity\r\n5 — 10 HD: resistance 10 to cold and electricity, DR 5/magic\r\n11+ HD: resistance 15 to cold and electricity, DR 10/magic\r\nShadow Blend: A shadow creature blends into the shadows, gaining concealment (20% miss chance)."
     },
     {
@@ -26818,7 +26811,7 @@
       "Key": "07bb86e0ec674c37b338798235598275",
       "SimpleName": "OracleRevelationStealthMasteryProgression.Description",
       "ProcessTemplates": true,
-      "zhCN": "你获得技能专攻（隐匿）。\n在8级时,你获得快速潜行天赋,允许你在潜行状态下以全速移动。\n在16级时,你获得刺客职业特性"视线躲藏"。\n刺客即使在被观察的情况下也可以使用隐匿技能。刺客可以从他人的视野内凭空消失，而不需要真正躲在掩蔽物后方。",
+      "zhCN": "你获得技能专攻（隐匿）。\n在8级时,你获得快速潜行天赋,允许你在潜行状态下以全速移动。\n在16级时,你获得刺客职业特性“视线躲藏”。\n刺客即使在被观察的情况下也可以使用隐匿技能。刺客可以从他人的视野内凭空消失，而不需要真正躲在掩蔽物后方。",
       "enGB": "You gain Skill Focus (Stealth). \nAt 8th level, you gain the fast stealth talent, allowing you to move at full speed while stealthed. \nAt 16th level, you gain the hide in plain sight assassin class feature. \n An assassin can use the Stealth skill even while being observed. An assassin can hide himself from view in the open without having anything to actually hide behind."
     },
     {
