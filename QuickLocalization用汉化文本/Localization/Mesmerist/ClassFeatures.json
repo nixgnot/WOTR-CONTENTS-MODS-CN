@@ -7,7 +7,7 @@
   },
   {
     "Key": "MesmeristClass.Description",
-    "zhCN": "作为魅惑和欺诈的专家，催眠师强迫他人听从他们的言语并屈服于自己的意志。异能之力，尤其是附魔和幻术之力，给予了催眠师所需的操纵他人——通常来给自己谋取私利——的工具。同催眠师的每次目光接触能让某人跟随他的率性。催眠师经常会发起以对他们自己的个人崇拜为核心的组织，他们训练技能并制定应急计划以防自己的伎俩被他人发觉。",
+    "zhCN": "作为魅惑和欺诈的专家，催眠师强迫他人听从他们的言语并屈服于自己的意志。异能之力，尤其是惑控和幻术之力，给予了催眠师所需的操纵他人——通常来给自己谋取私利——的工具。同催眠师的每次目光接触能让某人跟随他的率性。催眠师经常会发起以对他们自己的个人崇拜为核心的组织，他们训练技能并制定应急计划以防自己的伎俩被他人发觉。",
     "enGB": "Experts at charm and deceit, mesmerists compel others to heed their words and bend to their will. Psychic powers, primarily those of enchantment and illusion, give mesmerists the tools they need to manipulate others—usually for their own personal gain. The very gaze of a mesmerist can hypnotize someone into following his whims. Mesmerists frequently form cults of personality around themselves, and they develop skills and contingency plans in case their ploys are discovered."
   },
   {
@@ -458,7 +458,7 @@
   },
   {
     "Key": "MentalPotency.Description",
-    "zhCN": "5级起，催眠师能够使用精神效果影响更多数量的生物或者更为强大的存在。他所施放的每个惑控系或幻术系法术所能影响的生命骰限制以及总生命骰数量均会增加1个。对于由催眠师所施放的附魔系和幻术系法术来说，如果这个法术目标数量多于一个生物的话，该法术能够影响的生物数量也会增加一个（因此目标为“每等级一个生物”的法术会受到影响，但是目标为“一个生物”的法术就不会受到影响）。举例说明：5级的催眠师所施放的睡眠术能够影响共计5个生命骰的生物，催眠术能够影响2d4 + 1个生命骰的生物，七彩喷射法术所产生的效果会以“3个生命骰或更低”、“4或5个生命骰”以及“6个生命骰或更多”来分类。额外生命骰的数量或者影响生物数量的增加会在5级之后的每5个等级再增加1个，最高为20级时的增加4个。",
+    "zhCN": "5级起，催眠师能够使用精神效果影响更多数量的生物或者更为强大的存在。他所施放的每个惑控系或幻术系法术所能影响的生命骰限制以及总生命骰数量均会增加1个。对于由催眠师所施放的惑控系和幻术系法术来说，如果这个法术目标数量多于一个生物的话，该法术能够影响的生物数量也会增加一个（因此目标为“每等级一个生物”的法术会受到影响，但是目标为“一个生物”的法术就不会受到影响）。举例说明：5级的催眠师所施放的睡眠术能够影响共计5个生命骰的生物，催眠术能够影响2d4 + 1个生命骰的生物，七彩喷射法术所产生的效果会以“3个生命骰或更低”、“4或5个生命骰”以及“6个生命骰或更多”来分类。额外生命骰的数量或者影响生物数量的增加会在5级之后的每5个等级再增加1个，最高为20级时的增加4个。",
     "enGB": "At 5th level, the mesmerist can affect more powerful creatures or a greater number of creatures than normal with his mental effects. Both the HD limit and the total number of HD affected with each enchantment or illusion spell he casts increase by 1. For enchantment and illusion spells he casts that target a number of creatures greater than one, the number of creatures affected also increases by one (so a spell that targets one creature per level would be affected, but a spell that targets only one creature would not be). For example, a 5thlevel mesmerist could affect 5 HD worth of creatures with sleep, affect 2d4+1 HD worth of creatures with hypnotism, and change the categories for color spray to “3 HD or fewer,” “4 or 5 HD,” and “6 or more HD.” The number of additional HD or creatures increases by an additional 1 for every 5 levels beyond 5th, to a maximum increase of 4 at 20th level."
   },
   {
