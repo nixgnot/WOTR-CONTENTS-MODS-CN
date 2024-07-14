@@ -91,7 +91,7 @@
 | [FinessableSabers](#FinessableSabers) | FinessableSabers | QL汉化 | :heavy_check_mark: | :+1:| :file_folder: |🛠️||
 | [HombrewFighterMagus](#HombrewFighterMagus) | 原创魔战 | QL汉化 | :x: | :+1:| :file_folder: |🛠️||
 | [Prestige-Minus](#Prestige-Minus) | 小队伍游玩 | 部分自带 | :heavy_check_mark: | :+1::+1:| :file_folder: |🛠️🛠️🛠️||
-| [WOTRMesmerist](#WOTRMesmerist) | 催眠师 | QL汉化 | :heavy_check_mark: | :+1:| :file_folder: :file_folder: |||
+| [Mesmerist](#Mesmerist) | 催眠师 | QL汉化 | :heavy_check_mark: | :+1:| :file_folder: :file_folder: |||
 
 
 备注
@@ -4685,7 +4685,7 @@ C:\Users\你的用户名\AppData\LocalLow\Owlcat Games\Pathfinder Wrath Of The R
 功能无法单独开关
 
 ------------------------------------------- 
-### [WOTRMesmerist](https://github.com/Telyl/WOTRMesmerist/tree/master)
+### [Mesmerist](https://github.com/Telyl/WOTRMesmerist/tree/master)
 > *前置：* ModMenu<br>
 > *中文：* **QL汉化**<br>
 > *安装方式：* **UMM**<br>
