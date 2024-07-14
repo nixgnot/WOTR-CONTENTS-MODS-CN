@@ -1,0 +1,68 @@
+[
+  {
+    "Key": "IntensePain.Name",
+    "ProcessTemplates": false,
+    "zhCN": "剧烈痛楚",
+    "enGB": "Intense Pain"
+  },
+  {
+    "Key": "IntensePain.Description",
+    "zhCN": "当你使用痛苦注视增加自己造成的伤害时，能够额外造成1d6点伤害。该伤害会在催眠师12级时增加至2d6点，并且在催眠师18级时增加至3d6点。当你使用痛苦注视增强一名盟友的伤害时，你每拥有4个催眠师等级，痛苦注视的目标就会额外受到1点伤害。",
+    "enGB": "When you use your painful stare ability to increase your own damage, you deal an additional 1d6 points of damage. This damage increases to 2d6 at mesmerist level 12th and to 3d6 at mesmerist level 18th.\nWhen you use painful stare to augment an ally’s damage, the target of the painful stare takes 1 additional point of damage for every 4 mesmerist levels you possess."
+  },
+  {
+    "Key": "FatiguingStare.Name",
+    "ProcessTemplates": false,
+    "zhCN": "脱力目光",
+    "enGB": "Fatiguing Stare"
+  },
+  {
+    "Key": "FatiguingStare.Description",
+    "zhCN": "当一个目标由于你的痛苦注视而受到伤害时，它必须进行一次强韧豁免检定（DC = 10 + 1/2你的催眠师等级 + 你的魅力调整值），失败则会陷入疲劳，持续1轮。该效果不会让目标陷入力竭，即使目标当前已经陷入疲劳也无法做到这点。",
+    "enGB": "When a target takes damage from your painful stare, it must succeed at a Fortitude saving throw (DC = 10 + 1/2 your mesmerist level + your Charisma modifier) or become fatigued for 1 round. This can’t cause the target to become exhausted, even if the target is already fatigued."
+  },
+  {
+    "Key": "DemoralizingStare.Name",
+    "ProcessTemplates": false,
+    "zhCN": "慑人目光",
+    "enGB": "Demoralizing Stare"
+  },
+  {
+    "Key": "DemoralizingStare.Description",
+    "zhCN": "当你触发你的痛苦注视时，目标必须进行一次意志豁免（DC = 10 + 1/2你的催眠师等级 + 你的魅力调整值），失败则会战栗1轮。这不会致使目标陷入惊恐，即便目标已经处于战栗状态也不会如此。",
+    "enGB": "When you trigger your painful stare, the target must succeed at a Will Save (DC = 10 + 1/2 your mesmerist level + your Charisma modifier) or become shaken for 1 round. This can’t cause the target to become frightened, even if the target is already shaken."
+  },
+  {
+    "Key": "ExcoriatingStare.Name",
+    "ProcessTemplates": false,
+    "zhCN": "责难注视",
+    "enGB": "Excoriating Stare"
+  },
+  {
+    "Key": "ExcoriatingStare.Description",
+    "zhCN": "每当你触发痛苦注视时，目标必须进行一次意志豁免检定（DC = 10 + 1/2你的催眠师等级 + 你的魅力调整值），失败则会由于疼痛而恶心1轮。",
+    "enGB": "Whenever you trigger a painful stare, the target must succeed at a Will saving throw (DC = 10 + 1/2 your mesmerist level + your Charisma modifier) or become sickened by the pain for 1 round."
+  },
+  {
+    "Key": "CompoundedPain.Name",
+    "ProcessTemplates": false,
+    "zhCN": "痛苦恶化",
+    "enGB": "Compounded Pain"
+  },
+  {
+    "Key": "CompoundedPain.Description",
+    "zhCN": "好处：你可以将两项注视专长的效果应用至你的痛苦注视职业能力上。\n正常：你仅能将一项注视专长的效果应用至一次痛苦注视职业能力上。",
+    "enGB": "Benefits: You can apply the effects of two stare feats to your painful stares.\nNormal: You can apply the effects of only one stare feat to a given painful stare."
+  },
+  {
+    "Key": "ManifoldStare.Name",
+    "ProcessTemplates": false,
+    "zhCN": "多样注视",
+    "enGB": "Manifold Stare"
+  },
+  {
+    "Key": "ManifoldStare.Description",
+    "zhCN": "专长效果：你每轮可以多触发一次痛苦注视。\n特殊情况：该专长只在催眠师3级开始可选择一次，并在达到9级和15级后各可再选择一次。催眠师在获得深邃注视时可以选择该专长作为替代。",
+    "enGB": "Benefits: You can trigger your painful stare one additional time per round.\nSpecial:  This feat can be taken once by a 3rd-level mesmerist, and again when he reaches 9th and 15th levels. Its effects stack. A mesmerist can take this feat in place of a bold stare improvement."
+  }
+]

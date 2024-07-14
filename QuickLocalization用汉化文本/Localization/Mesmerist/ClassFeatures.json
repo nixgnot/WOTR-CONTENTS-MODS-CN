@@ -1,0 +1,497 @@
+[
+  {
+    "Key": "MesmeristClass.Name",
+    "ProcessTemplates": false,
+    "zhCN": "催眠师",
+    "enGB": "Mesmerist"
+  },
+  {
+    "Key": "MesmeristClass.Description",
+    "zhCN": "作为魅惑和欺诈的专家，催眠师强迫他人听从他们的言语并屈服于自己的意志。异能之力，尤其是附魔和幻术之力，给予了催眠师所需的操纵他人——通常来给自己谋取私利——的工具。同催眠师的每次目光接触能让某人跟随他的率性。催眠师经常会发起以对他们自己的个人崇拜为核心的组织，他们训练技能并制定应急计划以防自己的伎俩被他人发觉。",
+    "enGB": "Experts at charm and deceit, mesmerists compel others to heed their words and bend to their will. Psychic powers, primarily those of enchantment and illusion, give mesmerists the tools they need to manipulate others—usually for their own personal gain. The very gaze of a mesmerist can hypnotize someone into following his whims. Mesmerists frequently form cults of personality around themselves, and they develop skills and contingency plans in case their ploys are discovered."
+  },
+  {
+    "Key": "MesmeristProficiencies.Name",
+    "ProcessTemplates": false,
+    "zhCN": "催眠师擅长",
+    "enGB": "Mesmerist Proficiencies"
+  },
+  {
+    "Key": "MesmeristProficiencies.Description",
+    "zhCN": "催眠师擅长所有简易武器，他擅长轻甲（light armor），但是不擅长盾牌。",
+    "enGB": "A Mesmerist is proficient with all simple weapons and light armor, but not shields."
+  },
+  {
+    "Key": "ConsummateLiar.Name",
+    "ProcessTemplates": false,
+    "zhCN": "精湛骗术",
+    "enGB": "Consummate Liar"
+  },
+  {
+    "Key": "ConsummateLiar.Description",
+    "zhCN": "催眠师的所有唬骗检定上获得相当于他催眠师等级1/2的加值（最低为1）。此外，催眠师在判定是否满足诸如“寓守于攻”等专长的要求时，可以用自己的魅力值代替智力。",
+    "enGB": "A mesmerist adds 1/2 his mesmerist level (minimum 1) as a bonus on all Bluff checks. In addition, the mesmerist uses his charisma in place of his intelligence to qualify for feats such as Combat Expertise."
+  },
+  {
+    "Key": "HypnoticStare.Name",
+    "ProcessTemplates": false,
+    "zhCN": "催眠注视",
+    "enGB": "Hypnotic Stare"
+  },
+  {
+    "Key": "HypnoticStare.Description",
+    "zhCN": "催眠师可以用迅捷动作将自己的目光聚焦在30尺内的一个生物上。使该生物在一轮内意志豁免会受到-2减值。该减值在8级时变为-3点。",
+    "enGB": "A mesmerist can focus his stare on one creature within 30 feet as a swift action. That creature takes a –2 penalty on Will saving throws for 1 round. This penalty changes to –3 at 8th level."
+  },
+  {
+    "Key": "PainfulStare.Name",
+    "ProcessTemplates": false,
+    "zhCN": "痛苦注视",
+    "enGB": "Painful Stare"
+  },
+  {
+    "Key": "PainfulStare.Description",
+    "zhCN": "若催眠师的催眠注视的目标被一次造成伤害的攻击命中的话，催眠师能够让目标承受额外的伤害，数值相当于催眠师的职业等级的一半（最低为1点）。\n催眠师能够以自由动作使用该能力，而且即便不在自己的回合内也可以使用。若催眠师使用该能力增加自身造成的伤害，那么额外伤害会增加，增加量为催眠师每拥有3个职业等级增加1d6点。该伤害为精准伤害而且不会随着重击而翻倍。催眠师每轮仅能触发一次该能力，不过单个生物可能会在一轮内被多个催眠师的痛苦注视所伤害。",
+    "enGB": "When an attack that deals damage hits the target of a mesmerist’s hypnotic stare, the mesmerist can cause the target to take an amount of additional damage equal to 1/2 the mesmerist’s class level (minimum 1).\n\nThe mesmerist can use this ability as a free action, and can use it even if it isn’t his turn. If the mesmerist uses this ability to increase his own damage, the additional damage increases by 1d6 points for every 3 class levels the mesmerist possesses. This damage is precision damage and is not multiplied on a critical hit. A mesmerist can trigger this ability only once per round, but a single creature can take damage from multiple mesmerists’ painful stares in a round."
+  },
+  {
+    "Key": "MesmeristTrick.Name",
+    "ProcessTemplates": false,
+    "zhCN": "催眠师诡计",
+    "enGB": "Mesmerist Trick"
+  },
+  {
+    "Key": "MesmeristTrick.Description",
+    "zhCN": "催眠师可以与他的盟友之间设立催眠联结，在他们的意识中植入可以在稍后触发的魔法暗示。催眠师每日可以植入的催眠师诡计数量等同于1/2他的催眠师等级（最低为1）外加他的魅力加值（若有的话）。催眠师在同时只能保有一个被植入的催眠师诡计，植入一个新诡计会结束已经植入的诡计（催眠师仍旧会失去植入先前那个诡计时所花费的使用次数）。\n为了植入一个催眠师诡计，催眠师必须用一个标准动作接触自己或一名自愿的生物。同一时间，一个生物仅能成为一个催眠师诡计的受术者。\n被触发的催眠师诡计不再处于植入状态，直至催眠师再次植入诡计为止，它便无法被再次触发。被触发的诡计所带来的效果之持续时间为立即或者标注在诡计的描述中。催眠师诡计或大师诡计的豁免检定DC或技能检定DC为10 + 1/2催眠师等级 + 催眠师的魅力调整值。催眠师可以通过多重诡计能力随时植入其他诡计。",
+    "enGB": "A mesmerist can create hypnotic bonds with his allies, implanting magical suggestions in their minds that he can later activate. Each day, he can implant a number of these tricks equal to 1/2 his mesmerist level (minimum 1) plus his Charisma bonus (if any). He can have only one trick implanted at a given time, and implanting a new trick ends the previous one (the mesmerist still loses the use of this ability he spent on the previous trick).\nTo implant a trick, the mesmerist must take a standard action and either touch a willing creature or implant the trick in himself. A creature can be the subject of only one mesmerist trick at a time.\nOnce triggered, a trick is no longer implanted, and can’t be triggered again until the mesmerist implants the trick again. The duration of the effect caused by triggering a trick is either instantaneous or appears in the trick’s entry. The DC for any mesmerist trick or masterful trick that requires a saving throw or skill check is 10 + 1/2 the mesmerist’s level + the mesmerist’s Charisma modifier. The Mesmerist gains the ability to add additional tricks at any given time through the Manifold Trick feature."
+  },
+  {
+    "Key": "BoldStare.Name",
+    "ProcessTemplates": false,
+    "zhCN": "深邃注视",
+    "enGB": "Bold Stare"
+  },
+  {
+    "Key": "BoldStare.Description",
+    "zhCN": "在3级以及之后的每4个等级，催眠师的催眠注视都能够将更进一步的效果强加于目标。每当催眠师达到上述等级都可以获得新的深邃注视的增强选项，这种选择一经决定就无法更改。除非另有说明，否则每种深邃注视的增强选项都仅能被选取一次。只要目标受到了催眠师的催眠注视影响，所有深邃注视的增强项目都会影响到目标。",
+    "enGB": "At 3rd level and every 4 levels thereafter, a mesmerist’s hypnotic stare imposes a further effect upon its target. The mesmerist chooses one option each time he gains a new bold stare improvement, and the choice can’t be changed later. The mesmerist can’t choose the same bold stare improvement more than once unless otherwise noted. All of the mesmerist’s bold stare improvements affect the target as long as it is affected by the mesmerist’s hypnotic stare."
+  },
+  {
+    "Key": "AstoundingAvoidance.Name",
+    "ProcessTemplates": false,
+    "zhCN": "惊奇回避",
+    "enGB": "Astounding Avoidance"
+  },
+  {
+    "Key": "AstoundingAvoidance.Description",
+    "zhCN": "受术者能回避来自魔法和非常规攻击的伤害。当受术者尝试一次豁免检定来对抗一个豁免成功时可以将伤害减半的攻击或法术时，催眠师可以触发该项诡计。若受术者豁免成功，那么她就不会受到伤害。若催眠师的等级为12级或更高的话，受术者在豁免失败时也仅会受到一半伤害。该诡计不会与反射闪避或坚定（Stalwart）职业能力叠加。",
+    "enGB": "The subject can avoid damage from magical and unusual attacks. The mesmerist can trigger this trick when the subject attempts a saving throw against an attack or spell that normally deals half damage on a successful save, before the subject rolls the save. If the subject succeeds at her save, she takes no damage. If the mesmerist is 12th level or higher, the subject takes only half damage if she fails her save. The benefits of this trick don’t stack with those of the evasion or stalwart class features."
+  },
+  {
+    "Key": "CompelAlacrity.Name",
+    "ProcessTemplates": false,
+    "zhCN": "受迫疾奔",
+    "enGB": "Compel Alacrity"
+  },
+  {
+    "Key": "CompelAlacrity.Description",
+    "zhCN": "一种精神上的压迫感使得受术者超越了自己的身体极限来回避敌人。催眠师允许受术者以迅捷动作使用次元门",
+    "enGB": "A dash of mental speed lets the subject push past her physical limits to avoid an enemy. The mesmerist allows the subject to use the Dimension Door as a swift action.'"
+  },
+  {
+    "Key": "FalseFlanker.Name",
+    "ProcessTemplates": false,
+    "zhCN": "虚假夹击者",
+    "enGB": "False Flanker"
+  },
+  {
+    "Key": "FalseFlanker.Description",
+    "zhCN": "催眠师的虚影突然出现，就好像他在和受术者共同战斗一般。在计算夹击时，这个幻象被视为威胁敌人，但它其实并不能真正做出攻击。",
+    "enGB": "A duplicate of the mesmerist appears momentarily, as though he were fighting in tandem with the subject. This duplicate counts as threatening the enemy for the purposes of determining flanking, but can’t actually make attacks."
+  },
+  {
+    "Key": "FearsomeGuise.Name",
+    "ProcessTemplates": false,
+    "zhCN": "恐怖幻象",
+    "enGB": "Fearsome Guise"
+  },
+  {
+    "Key": "FearsomeGuise.Description",
+    "zhCN": "受术者被罩上了一层幻影，使其呈现出他人的样貌，之后还可以在合适的时候呈现出可怖怪物的形态。当受术者攻击一个生物时，催眠师能够触发该项诡计。幻象会让受术者短暂呈现出怪物的容貌。催眠师能够尝试一次威吓检定以挫败被攻击的目标士气。",
+    "enGB": "A veil of illusion makes the subject appear to be someone else and then transform into a hideous monster at an opportune time. The mesmerist can trigger this trick when the subject attacks a creature. The illusory appearance briefly makes the subject appear monstrous. The mesmerist attempts an Intimidate check to demoralize the target of the triggering attack."
+  },
+  {
+    "Key": "FleetInShadows.Name",
+    "ProcessTemplates": false,
+    "zhCN": "暗夜疾行",
+    "enGB": "Fleet In Shadows"
+  },
+  {
+    "Key": "FleetInShadows.Description",
+    "zhCN": "该诡计的受术者每次移动可以额外移动30英尺。该诡计持续每催眠师等级1分钟",
+    "enGB": "The subject of this trick can move an additional 30 feet per move action. This trick lasts for 1 minute per Mesmerist level."
+  },
+  {
+    "Key": "LevitationBuffer.Name",
+    "ProcessTemplates": false,
+    "zhCN": "念力救援",
+    "enGB": "Levitation Buffer"
+  },
+  {
+    "Key": "LevitationBuffer.Description",
+    "zhCN": "当受术者被敌人攻击并命中时，催眠师触发该诡计，受术者会如同进行冲撞战技一样推开敌人",
+    "enGB": "The mesmerist triggers this trick when an enemy attacks, and hits, in melee. Upon being hit, the subject of the Mesmerist trick pushes them away as though performing a bull-rush maneuver."
+  },
+  {
+    "Key": "LinkedReaction.Name",
+    "ProcessTemplates": false,
+    "zhCN": "应激联结",
+    "enGB": "Linked Reaction"
+  },
+  {
+    "Key": "LinkedReaction.Description",
+    "zhCN": "此诡计的受术者和催眠师将共享彼此中较高的那一方的先攻加值",
+    "enGB": "The subject of this trick, and the mesmerist, take on the other's initiative bonus for whomever's is higher."
+  },
+  {
+    "Key": "MeekFacade.Name",
+    "ProcessTemplates": false,
+    "zhCN": "怯弱表象",
+    "enGB": "Meek Facade"
+  },
+  {
+    "Key": "MeekFacade.Description",
+    "zhCN": "受术者看起来魔法般地异常弱小，受术者在对抗触发此诡计的敌人攻击时AC获得+2闪避加值。催眠师每拥有5个等级，AC加值便会额外+1。这是一个影响心灵（mind-affecting）的胁迫（compulsion）效果。",
+    "enGB": "The subject magically seems like a weak target. The mesmerist's 'subject gains a +2 dodge bonus to AC against triggering enemy’s attacks. The bonus to AC increases by 1 for every 5 levels the mesmerist possesses. This is a mind-affecting compulsion effect."
+  },
+  {
+    "Key": "Misdirection.Name",
+    "ProcessTemplates": false,
+    "zhCN": "方向误导",
+    "enGB": "Misdirection"
+  },
+  {
+    "Key": "Misdirection.Description",
+    "zhCN": "你让敌人对受术者攻击的感知产生了偏移，将会对攻击轨迹产生误判而难以招架。当受术者作出一次攻击或者使用了一个需要攻击检定的法术时，催眠师能够触发该项诡计。催眠师要尝试一次唬骗检定，以佯攻受术者攻击的单个目标。和普通的佯攻不同，该能力可以用于非近战攻击。若佯攻成功，目标在对抗触发该诡计的攻击时会失去AC上的敏捷加值。目标不会由于该能力而承受催眠师或受术者在通常的虚招或唬骗检定上能附加的任何额外效果。这是一个幻术效果。",
+    "enGB": "An enemy’s perception of an attack by the subject shifts, making the foe unprepared to defend against the attack. The mesmerist can trigger this trick when the subject makes an attack or uses a spell that requires an attack roll. The mesmerist attempts a Bluff check to feint against a single target of the subject’s attack. Unlike a normal feint, this ability can be used on non-melee attacks. If the feint succeeds, the target of the attack is denied its Dexterity bonus to AC against the triggering attack. The target doesn’t suffer any additional effects that the mesmerist or the subject would cause on a normal feint or Bluff check. This is an illusion (glamer) effect."
+  },
+  {
+    "Key": "MesmericMirror.Name",
+    "ProcessTemplates": false,
+    "zhCN": "催眠镜像",
+    "enGB": "Mesmeric Mirror"
+  },
+  {
+    "Key": "MesmericMirror.Description",
+    "zhCN": "一个虚幻的影像出现在受术者附近，用以迷惑攻击者。这个能力的效果类似于“镜影术”。每个影像持续1分钟/催眠师等级，或直到被摧毁为止。这是一个幻术（虚假幻觉）效果。",
+    "enGB": "An illusory image appears near the subject to throw off attackers. This ability functions like Mirror Image. Each image lasts for 1 minute per mesmerist level or until destroyed. This is an illusion (figment) effect."
+  },
+  {
+    "Key": "MesmericPantomime.Name",
+    "ProcessTemplates": false,
+    "zhCN": "催眠哑剧",
+    "enGB": "Mesmeric Pantomime"
+  },
+  {
+    "Key": "MesmericPantomime.Description",
+    "zhCN": "通过精心编排盟友的身体运作，催眠师能够将自己的身体技巧赋予盟友。当受术者尝试一次基于力量或基于敏捷的技能检定时，催眠师能够触发该项诡计。受术者将在检定中获得相当于催眠师魅力调整值的士气加值。",
+    "enGB": "By orchestrating the movement of his ally’s body, the mesmerist imparts to that ally his own skill at a physical task. The mesmerist can trigger this trick when the subject attempts a Strength– or Dexterity-based skill check. The subject gains a morale bonus on the check equal to the mesmerist’s Charisma bonus."
+  },
+  {
+    "Key": "PsychosomaticSurge.Name",
+    "ProcessTemplates": false,
+    "zhCN": "以心疗身",
+    "enGB": "Psychosomatic Surge"
+  },
+  {
+    "Key": "PsychosomaticSurge.Description",
+    "zhCN": "精神魔法抚慰着受术者，暂时性地缓解了她所受到的创伤。当受术者受到伤害时，催眠师能够触发该项诡计。受术者会获得临时生命值，数值相当于1d8 + 1/2催眠师的等级。若触发诡计的攻击所造成的伤害让受术者的生命值降至0点或更低的话，该项诡计能额外赋予1d8点临时生命值。这些临时生命值持续1小时或者直至耗尽为止。",
+    "enGB": "Psychic magic soothes the subject, alleviating her wounds temporarily. The mesmerist can trigger this trick when the subject takes damage. The subject gains a number of temporary hit points equal to 1d8 + 1/2 the mesmerist’s level. If the damage from the triggering attack would have reduced the subject to 0 hit points or fewer, this trick grants an additional 1d8 temporary hit points. These temporary hit points last for 1 hour or until discharged."
+  },
+  {
+    "Key": "ReflectFear.Name",
+    "ProcessTemplates": false,
+    "zhCN": "回赠恐惧",
+    "enGB": "Reflect Fear"
+  },
+  {
+    "Key": "ReflectFear.Description",
+    "zhCN": "当受术者成功通过意志豁免检定时，催眠师能够触发该项诡计。当该诡计被触发时，对受术者施法的敌人必须通过一次豁免检定，否则将陷入恐惧状态。",
+    "enGB": "The mesmerist can trigger this trick when the subject succeeds against a will saving throw. When the trick is triggered, the enemy that cast a spell on the subject must succeed a saving throw or be feared."
+  },
+  {
+    "Key": "SeeThroughInvisibility.Name",
+    "ProcessTemplates": false,
+    "zhCN": "洞察隐形",
+    "enGB": "See Through Invisibility"
+  },
+  {
+    "Key": "SeeThroughInvisibility.Description",
+    "zhCN": "受术者获得识破隐形的效果",
+    "enGB": "The subject gains the ability to see through invisibility for 1 minute per mesmerist level."
+  },
+  {
+    "Key": "ShadowSplinter.Name",
+    "ProcessTemplates": false,
+    "zhCN": "嫁祸之影",
+    "enGB": "Shadow Splinter"
+  },
+  {
+    "Key": "ShadowSplinter.Description",
+    "zhCN": "但受术者受到攻击伤害时，催眠师能够触发该项诡计。受术者受到的伤害减少等于催眠师魅力调整值的量（最多为攻击造成的总伤害量）。",
+    "enGB": "The mesmerist can trigger this trick when the subject takes damage from an attack. The damage the subject takes is reduced by an amount equal to the mesmerist’s Charisma modifier (to a maximum of the total amount of damage the attack deals)."
+  },
+  {
+    "Key": "SpectralSmoke.Name",
+    "ProcessTemplates": false,
+    "zhCN": "鬼魅烟云",
+    "enGB": "Spectral Smoke"
+  },
+  {
+    "Key": "SpectralSmoke.Description",
+    "zhCN": "一片烟云突然笼罩在受术者的身边妨碍他人攻击。受术者所在位置及其10英尺范围内会出现一团烟云。盟友和受术者获得完全隐蔽。",
+    "enGB": "A cloud of smoke pops up around the subject, foiling attacks. A smoke cloud appears in the subject’s square and in a 10-foot radius around it. Allies and the subject gain total concealment."
+  },
+  {
+    "Key": "VanishArrow.Name",
+    "ProcessTemplates": false,
+    "zhCN": "巧取敌箭",
+    "enGB": "Vanish Arrow"
+  },
+  {
+    "Key": "VanishArrow.Description",
+    "zhCN": "催眠师以一个华丽的动作，在敌人射击前便夺走了一枚投射物。当受术者成为远程武器攻击的目标时，催眠师可以在攻击检定前触发这个诡计。如果攻击者正在进行整轮攻击，那这只会影响其中的一次攻击。",
+    "enGB": "With a flourish, the mesmerist snatches a projectile from an enemy before it can be shot. The mesmerist can trigger this trick when the subject is targeted by a ranged weapon attack, before the attack roll is made. If the attacker is making a full attack, this affects only one of the attacks."
+  },
+  {
+    "Key": "VoiceOfReason.Name",
+    "ProcessTemplates": false,
+    "zhCN": "理性之声",
+    "enGB": "Voice of Reason"
+  },
+  {
+    "Key": "VoiceOfReason.Description",
+    "zhCN": "在催眠师的协助下，受术者能更轻松地识破影响心智、魅惑或强制类法术。受术者在对抗幻术或魅惑效果的豁免检定中获得等同于催眠师的魅力调整值的洞察加值。这个诡计不适用于不允许豁免检定的幻像。",
+    "enGB": "The subject can more easily pierce mind-affecting, charm, or compulsion based spells with the mesmerist’s aid. The subject receives an insight bonus on her saving throw to disbelieve the illusion or charm equal to the mesmerist’s Charisma modifier. This trick cannot be used for illusions that do not allow a saving throw."
+  },
+  {
+    "Key": "Disorientation.Name",
+    "ProcessTemplates": false,
+    "zhCN": "迷失",
+    "enGB": "Disorientation"
+  },
+  {
+    "Key": "Disorientation.Description",
+    "zhCN": "催眠注视的减值还能应用至目标的攻击检定上。",
+    "enGB": "The hypnotic stare penalty also applies on attack rolls."
+  },
+  {
+    "Key": "Disquiet.Name",
+    "ProcessTemplates": false,
+    "zhCN": "不安",
+    "enGB": "Disquiet"
+  },
+  {
+    "Key": "Disquiet.Description",
+    "zhCN": "催眠注视的目标将会陷入战栗状态。",
+    "enGB": "The target of the hypnotic stare is shaken."
+  },
+  {
+    "Key": "Distracted.Name",
+    "ProcessTemplates": false,
+    "zhCN": "扰乱",
+    "enGB": "Distracted"
+  },
+  {
+    "Key": "Distracted.Description",
+    "zhCN": "催眠注视的减值还能应用至目标的专注检定上。",
+    "enGB": "The hypnotic stare penalty also applies to concentration checks."
+  },
+  {
+    "Key": "Infiltration.Name",
+    "ProcessTemplates": false,
+    "zhCN": "渗透",
+    "enGB": "Infiltration"
+  },
+  {
+    "Key": "Infiltration.Description",
+    "zhCN": "催眠注视的减值还能应用至目标的察觉检定和CMD上。",
+    "enGB": "The hypnotic stare penalty also applies to the target’s Perception checks and CMD."
+  },
+  {
+    "Key": "Lethality.Name",
+    "ProcessTemplates": false,
+    "zhCN": "致命",
+    "enGB": "Lethality"
+  },
+  {
+    "Key": "Lethality.Description",
+    "zhCN": "催眠注视的减值还能应用至目标的强韧检定上。",
+    "enGB": "The hypnotic stare penalty also applies to the target’s Fortitude saves."
+  },
+  {
+    "Key": "Nightmare.Name",
+    "ProcessTemplates": false,
+    "zhCN": "梦魇",
+    "enGB": "Nightmare"
+  },
+  {
+    "Key": "Nightmare.Description",
+    "zhCN": "催眠注视的目标在所有对抗恐惧的豁免检定上双骰取低。",
+    "enGB": "The target of the hypnotic stare rolls twice on all Will saves versus fear, taking the lower result."
+  },
+  {
+    "Key": "PsychicInception.Name",
+    "ProcessTemplates": false,
+    "zhCN": "开启心智",
+    "enGB": "Psychic Inception"
+  },
+  {
+    "Key": "PsychicInception.Description",
+    "zhCN": "催眠注视以及它所带来的惩罚还能影响无心智或者免疫影响心灵效果的生物（比如不死生物或虫类）。它还会抑制目标对心智效果的免疫。",
+    "enGB": "The hypnotic stare and its penalty can affect creatures that are mindless or immune to mind-affecting effects (such as an undead or vermin). It also suppresses the immunities to mind-affecting abilities of the target."
+  },
+  {
+    "Key": "SappedMagic.Name",
+    "ProcessTemplates": false,
+    "zhCN": "魔力衰减",
+    "enGB": "Sapped Magic"
+  },
+  {
+    "Key": "SappedMagic.Description",
+    "zhCN": "催眠注视的减值还能应用至目标所使用的法术和类法术能力的DC上，此外还可以对目标的法术抗力生效（若有的话）。 ",
+    "enGB": "The hypnotic stare penalty also applies to the DCs of spells and spell-like abilities used by the target, and to the target’s spell resistance (if any)."
+  },
+  {
+    "Key": "Sluggishness.Name",
+    "ProcessTemplates": false,
+    "zhCN": "迟钝",
+    "enGB": "Sluggishness"
+  },
+  {
+    "Key": "Sluggishness.Description",
+    "zhCN": "催眠注视的目标所拥有的所有速度都会被减少5尺（最低降至5尺），而且催眠注视的减值还能应用至目标的反射豁免检定上。",
+    "enGB": "The target of the hypnotic stare has all of its speeds reduced by 5 feet (to a minimum of 5 feet), and the hypnotic stare penalty also applies to the target’s Reflex saving throws."
+  },
+  {
+    "Key": "Timidity.Name",
+    "ProcessTemplates": false,
+    "zhCN": "胆怯",
+    "enGB": "Timidity"
+  },
+  {
+    "Key": "Timidity.Description",
+    "zhCN": "催眠注视的减值还能应用至目标的伤害检定上。",
+    "enGB": "The hypnotic stare penalty also applies to damage rolls."
+  },
+  {
+    "Key": "ToweringEgo.Name",
+    "ProcessTemplates": false,
+    "zhCN": "强大自我",
+    "enGB": "Towering Ego"
+  },
+  {
+    "Key": "ToweringEgo.Description",
+    "zhCN": "2级起，催眠师的意志豁免检定会获得加值，数值等同于他的魅力加值（最低为0点）。",
+    "enGB": "At 2nd level, a mesmerist gains a bonus equal to his Charisma bonus (minimum 0) on Will saving throws."
+  },
+  {
+    "Key": "TouchTreatment.Name",
+    "ProcessTemplates": false,
+    "zhCN": "接触疗法",
+    "enGB": "Touch Treatment"
+  },
+  {
+    "Key": "TouchTreatment.Description",
+    "zhCN": "3级起，催眠师能够通过用手臂触摸来传导精神力量，并以此帮助盟友摆脱有害状态——对那些会影响心智的状态最为有效。接触疗法的每日使用次数等同于3 + 催眠师的魅力调整值。使用该能力是标准动作（如果催眠师要对自己使用则为迅捷动作），而且催眠师必须能够接触到目标。每次使用该能力，催眠师能够从一个目标身上移除一个状态。3级起，他能够移除任何次级状态列表上的状态。6级起，他能够移除任何次级或中级状态列表上的状态。在10级时，他能够移除任何在次级、中级和高级状态列表上的状态。次级状态：迷魂，战栗。 \n中级状态：困惑，晕眩，惊恐，恶心。 \n高级状态：畏缩，反胃，恐慌，震慑。",
+    "enGB": "At 3rd level, the mesmerist can help allies shake off harmful conditions—especially those that affect their minds—by channeling psychic energy through his healing hands. He can use touch treatment a number of times per day equal to 3 + his Charisma modifier. Using the ability is a standard action (or a swift action if the mesmerist uses it on himself ), and the mesmerist must be able to touch his target. He can remove one condition from one target each time he uses this ability. At 3rd level, he can remove any condition on the minor conditions list. At 6th level, he can remove any condition on the minor or moderate conditions list, and at 10th level, he can remove any condition on the minor, moderate, or greater conditions list.\n\nMinor Conditions: Fascinated, shaken.\nModerate Conditions: Confused, dazed, frightened, sickened.\nGreater Conditions: Cowering, nauseated, panicked, stunned.\nA 14th level, the mesmerist can instead expend one use of touch treatment to replicate the effects of break enchantment."
+  },
+  {
+    "Key": "TouchTreatmentSelf.Name",
+    "ProcessTemplates": false,
+    "zhCN": "接触疗法 - 自己",
+    "enGB": "Touch Treatment - Self"
+  },
+  {
+    "Key": "TouchTreatmentSelf.Description",
+    "zhCN": "催眠师可以以迅捷动作触摸自己3 + 催眠师的魅力调整值次，每次使用该能力，催眠师能够从一个目标身上移除一个状态。3级起，他能够移除任何次级状态列表上的状态。6级起，他能够移除任何次级或中级状态列表上的状态。在10级时，他能够移除任何在次级、中级和高级状态列表上的状态。次级状态：迷魂，战栗。 \n中级状态：困惑，晕眩，惊恐，恶心。 \n高级状态：畏缩，反胃，恐慌，震慑。",
+    "enGB": "The Mesmerist can touch himself up to 3 + his Charisma modifier times per day as a swift action to remove one condition from one target each time he uses this ability. \n\nMinor Conditions (3rd level): Fascinated, shaken.\nModerate Conditions (6th level): Confused, dazed, frightened, sickened.\nGreater Conditions (10th level): Cowering, nauseated, panicked, stunned.\nA 14th level, the mesmerist can instead expend one use of touch treatment to replicate the effects of break enchantment."
+  },
+  {
+    "Key": "TouchTreatmentOther.Name",
+    "ProcessTemplates": false,
+    "zhCN": "接触疗法 - 他人",
+    "enGB": "Touch Treatment - Other"
+  },
+  {
+    "Key": "TouchTreatmentOther.Description",
+    "zhCN": "催眠师可以以标准动作触摸盟友3 + 催眠师的魅力调整值次，每次使用该能力，催眠师能够从一个目标身上移除一个状态。3级起，他能够移除任何次级状态列表上的状态。6级起，他能够移除任何次级或中级状态列表上的状态。在10级时，他能够移除任何在次级、中级和高级状态列表上的状态。次级状态：迷魂，战栗。 \n中级状态：困惑，晕眩，惊恐，恶心。 \n高级状态：畏缩，反胃，恐慌，震慑。",
+    "enGB": "The Mesmerist can touch an ally up to 3 + his Charisma modifier times per day as a standard action to remove one condition from one target each time he uses this ability. \n\nMinor Conditions (3rd level): Fascinated, shaken.\nModerate Conditions (6th level): Confused, dazed, frightened, sickened.\nGreater Conditions (10th level): Cowering, nauseated, panicked, stunned.\nA 14th level, the mesmerist can instead expend one use of touch treatment to replicate the effects of break enchantment."
+  },
+  {
+    "Key": "ManifoldTrick.Name",
+    "ProcessTemplates": false,
+    "zhCN": "多重诡计",
+    "enGB": "Manifold Trick"
+  },
+  {
+    "Key": "ManifoldTrick.Description",
+    "zhCN": "5级起，催眠师能够同时保有两个被植入的诡计。自5级之后，催眠师每拥有4个催眠师等级，同时保有的被植入的诡计数量就可以再增加1个。每个生物在同一时间仍旧只能成为一个诡计的受术者。",
+    "enGB": "At 5th level, the mesmerist can have two tricks implanted at a time. The number of concurrent tricks increases by one for every 4 mesmerist levels he possesses beyond 5th. Each creature can still be the subject of only one trick at a time."
+  },
+  {
+    "Key": "UseTrick.Name",
+    "ProcessTemplates": false,
+    "zhCN": "使用诡计",
+    "enGB": "Use Trick"
+  },
+  {
+    "Key": "UseTrick.Description",
+    "zhCN": "使用所选的诡计和所选的多重诡计。除非指定了持续时间，否则该诡计将持续到战斗结束。",
+    "enGB": "Use the selected trick and selected manifold trick. The trick will last until the end of combat unless a specified duration is given."
+  },
+  {
+    "Key": "MentalPotency.Name",
+    "ProcessTemplates": false,
+    "zhCN": "心智潜能",
+    "enGB": "Mental Potency"
+  },
+  {
+    "Key": "MentalPotency.Description",
+    "zhCN": "5级起，催眠师能够使用精神效果影响更多数量的生物或者更为强大的存在。他所施放的每个惑控系或幻术系法术所能影响的生命骰限制以及总生命骰数量均会增加1个。对于由催眠师所施放的附魔系和幻术系法术来说，如果这个法术目标数量多于一个生物的话，该法术能够影响的生物数量也会增加一个（因此目标为“每等级一个生物”的法术会受到影响，但是目标为“一个生物”的法术就不会受到影响）。举例说明：5级的催眠师所施放的睡眠术能够影响共计5个生命骰的生物，催眠术能够影响2d4 + 1个生命骰的生物，七彩喷射法术所产生的效果会以“3个生命骰或更低”、“4或5个生命骰”以及“6个生命骰或更多”来分类。额外生命骰的数量或者影响生物数量的增加会在5级之后的每5个等级再增加1个，最高为20级时的增加4个。",
+    "enGB": "At 5th level, the mesmerist can affect more powerful creatures or a greater number of creatures than normal with his mental effects. Both the HD limit and the total number of HD affected with each enchantment or illusion spell he casts increase by 1. For enchantment and illusion spells he casts that target a number of creatures greater than one, the number of creatures affected also increases by one (so a spell that targets one creature per level would be affected, but a spell that targets only one creature would not be). For example, a 5thlevel mesmerist could affect 5 HD worth of creatures with sleep, affect 2d4+1 HD worth of creatures with hypnotism, and change the categories for color spray to “3 HD or fewer,” “4 or 5 HD,” and “6 or more HD.” The number of additional HD or creatures increases by an additional 1 for every 5 levels beyond 5th, to a maximum increase of 4 at 20th level."
+  },
+  {
+    "Key": "FreeInBody.Name",
+    "ProcessTemplates": false,
+    "zhCN": "自由之躯",
+    "enGB": "Free In Body"
+  },
+  {
+    "Key": "FreeInBody.Description",
+    "zhCN": "当受到束缚时，受术者可以轻易挣脱。受术者获得行动自如的好处。",
+    "enGB": "When constrained, the subject can easily slip loose. The subject gains the benefits of Freedom of Movement."
+  },
+  {
+    "Key": "CursedSanction.Name",
+    "ProcessTemplates": false,
+    "zhCN": "制裁诅咒",
+    "enGB": "Cursed Sanction"
+  },
+  {
+    "Key": "CursedSanction.Description",
+    "zhCN": "一道结界会诅咒攻击并伤害受术者的敌人。攻击者在攻击检定、豁免检定、属性检定和技能检定上承受-4减值，持续每催眠师等级1分钟（意志豁免可无效）。在同一时间只有一个生物能受到诅咒制裁的影响。",
+    "enGB": "A ward curses an enemy who attacks and damages the subject. The attacker takes a –4 penalty on attack rolls, saves, ability checks, and skill checks for 1 minute per mesmerist level (Will negates). Only one creature can be affected by Cursed Sanction at any given time."
+  },
+  {
+    "Key": "PiercingGaze.Name",
+    "ProcessTemplates": false,
+    "zhCN": "洞察注视",
+    "enGB": "Piercing Gaze"
+  },
+  {
+    "Key": "PiercingGaze.Description",
+    "zhCN": "在20级时，催眠师的注视带有某种超然之力。他注视的减值增加2点。",
+    "enGB": "At 20th level, the mesmerist’s gaze carries with it something of the beyond. His stare penalty increases by 2."
+  }
+]

@@ -1,0 +1,61 @@
+[
+  {
+    "Key": "Settings.Title",
+    "ProcessTemplates": false,
+    "zhCN": "催眠师",
+    "enGB": "Mesmerist"
+  },
+  {
+    "Key": "Settings.Homebrew.Title",
+    "ProcessTemplates": false,
+    "zhCN": "可选规则",
+    "enGB": "Optional Rules"
+  },
+  {
+    "Key": "Settings.Classes.Title",
+    "ProcessTemplates": false,
+    "zhCN": "职业",
+    "enGB": "Classes"
+  },
+  {
+    "Key": "Settings.Archetypes.Title",
+    "ProcessTemplates": false,
+    "zhCN": "变体",
+    "enGB": "Archetypes"
+  },
+
+  {
+    "Key": "Settings.ClassFeatures.Title",
+    "ProcessTemplates": false,
+    "zhCN": "职业能力",
+    "enGB": "Class Features"
+  },
+
+  {
+    "Key": "Settings.Feats.Title",
+    "ProcessTemplates": false,
+    "zhCN": "专长",
+    "enGB": "Feats"
+  },
+
+  {
+    "Key": "Settings.Fixes.Title",
+    "ProcessTemplates": false,
+    "zhCN": "Bug修复",
+    "enGB": "Bug Fixes"
+  },
+
+  {
+    "Key": "Settings.Spells.Title",
+    "ProcessTemplates": false,
+    "zhCN": "法术",
+    "enGB": "Spells"
+  },
+
+  {
+    "Key": "Settings.EnableFeature",
+    "ProcessTemplates": false,
+    "zhCN": "REQUIRES RESTART\n\nTurning this off prevents the feature from working: characters cannot select this feature and characters with it cannot use it. You can still load save games that reference it.",
+    "enGB": "REQUIRES RESTART\n\nTurning this off prevents the feature from working: characters cannot select this feature and characters with it cannot use it. You can still load save games that reference it."
+  }
+]
