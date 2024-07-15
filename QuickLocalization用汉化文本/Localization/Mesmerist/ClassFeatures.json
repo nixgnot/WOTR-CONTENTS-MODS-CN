@@ -448,7 +448,7 @@
   {
     "Key": "UseTrick.Description",
     "zhCN": "使用所选的诡计和所选的多重诡计。除非指定了持续时间，否则该诡计将持续到它被触发。",
-    "enGB": "Use the selected trick and selected manifold trick. The trick will last until the end of combat unless a specified duration is given."
+    "enGB": "Use the selected trick and selected manifold trick. The trick will last until it is triggered or unless a specified duration is given."
   },
   {
     "Key": "MentalPotency.Name",
