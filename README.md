@@ -2027,6 +2027,7 @@
   + AC：修改部分物品和机制，**队友入队等级变为1**
   + ACTestingGrounds：将部分队友变为原创职业、规则书职业或变体，未汉化<br>
 + **注意！最新版本（DLC6）下本MOD会导致醉拳僧无法选择，需要等待更新或者暂时禁用**
++ **更新临时修复方法：在右侧发布页下载HAMonkProgression.patch，然后替换掉MOD文件夹下的Blueprints里同名文件**
  <table>
  <tr><th colspan="3">新增内容列表<br>详细介绍可以参阅汉化发布贴或游戏内说明</th></tr> 
    <tr><td colspan="2" rowspan="2">职业</td>
