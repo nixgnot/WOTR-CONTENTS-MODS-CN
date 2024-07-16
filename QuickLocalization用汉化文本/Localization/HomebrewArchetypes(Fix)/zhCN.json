@@ -1,4 +1,4 @@
-﻿[
+[
 	{
             "Key": "HomebrewArchtypes_ChildofWar", 
             "zhCN": "旧神圣子"
@@ -4270,7 +4270,7 @@
         },
 		{
             "Key": "HomebrewArchtypes_ChampionMercyFrightenedDesc", 
-            "zhCN": "英杰使用圣疗为目标{g|Encyclopedia:Healing}治疗{/g}{g|Encyclopedia:Damage}伤害{/g}的同时，也会治疗目标身上的{g|ConditionFrightened}惊恐{/g}效果。英杰在选择该救赎前，必须拥有战栗救赎。",
+            "zhCN": "英杰使用圣疗为目标{g|Encyclopedia:Healing}治疗{/g}{g|Encyclopedia:Damage}伤害{/g}的同时，也会治疗目标身上的{g|ConditionFrightened}惊恐{/g}效果。英杰在选择该救赎前，必须拥有战栗救赎。"
         },
 		{
             "Key": "HomebrewArchtypes_ChampionMercyShakenDesc", 
