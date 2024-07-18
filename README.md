@@ -117,7 +117,7 @@
 | [HomebrewArchetypes](#HomebrewArchetypes) | 房规变体 | 自带 | :x: | :+1::+1::+1: | :file_folder::file_folder::file_folder: |||
 | [ExpandedContent2022](#ExpandedContent2022)  | 内容扩展2022 | 汉化 | :heavy_check_mark: | :+1::+1: | :file_folder::file_folder::file_folder: |||
 | [ToggleableThrowingWeapons](#ToggleableThrowingWeapons) | 切换投掷 | QL汉化 | :heavy_check_mark: | :+1::+1::+1: | :file_folder: |||
-| [MorvarchsPlaystyleExpansions](#MorvarchsPlaystyleExpansions)  | MPE扩展 |  | :heavy_check_mark: | :+1::+1::+1: | :file_folder:|||
+| [MorvarchsPlaystyleExpansions](#MorvarchsPlaystyleExpansions)  | MPE扩展 | QL汉化 | :heavy_check_mark: | :+1::+1::+1: | :file_folder:|||
 | [PhoenixsCantrips](#PhoenixsCantrips) | 戏法强化 | 汉化 | :heavy_check_mark: | :+1: | :file_folder: | 🛠️ ||
 | [MoreCantrips](#MoreCantrips) | 更多戏法   | 汉化 | :heavy_check_mark: | :+1: | :file_folder: | 🛠️ ||
 | [CharacterOptionsPlus](#CharacterOptionsPlus) | CO+扩展 | 自带 | :heavy_check_mark: | :+1::+1::+1: | :file_folder::file_folder::file_folder: |||
@@ -150,7 +150,7 @@
 | [Psionics](#Psionics) | 灵能MOD | QL汉化 | :heavy_check_mark: | :+1::+1: | :file_folder::file_folder: |||
 | [KineticArchetypes](#KineticArchetypes) | 念力变体 | 自带 | :heavy_check_mark: | :v::heart_eyes::v: | :file_folder::file_folder: |||
 | [MinosPlayerRace](#MinosPlayerRace) | 牛头人种族 | QL汉化 | :heavy_check_mark: | :+1: | :file_folder: |||
-| [WoTRHolyVindicator](#WoTRHolyVindicator) | 神圣辩护者 | 暂无 | :heavy_check_mark: | :+1::+1: | :file_folder: |||
+| [WoTRHolyVindicator](#WoTRHolyVindicator) | 神圣辩护者 | 临时汉化 | :heavy_check_mark: | :+1::+1: | :file_folder: |||
 | [PrestigePlus](#PrestigePlus) | 进阶职业扩展 | 自带 | :heavy_check_mark: | :v::heart_eyes::v: | :file_folder::file_folder::file_folder: |||
 | [TransfiguredCasterArchetypes](#TransfiguredCasterArchetypes) | 施法者变体 | 暂无 | :heavy_check_mark: | :+1::+1: | :file_folder: |||
 | [HomebrewWarlock](#HomebrewWarlock) | 3.5e邪术师 | QL汉化 | :heavy_check_mark: | :+1::+1: | :file_folder: |||
