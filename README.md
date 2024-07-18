@@ -130,7 +130,7 @@
 | [MythicArcanist](#MythicArcanist) | 神话秘术 | 自带 | :heavy_check_mark: | :+1::+1: | :file_folder::file_folder: |||
 | [ChampionFeatsAnew](#ChampionFeatsAnew) | 冠军专长 |   | :heavy_check_mark: |  | :file_folder::file_folder: ||:steam_locomotive:|
 | [KineticistElementsExpanded](#KineticistElementsExpanded) | 操念元素扩展 | 汉化 | :heavy_check_mark: | :+1: | :file_folder::file_folder: |||
-| [Madison'sMetagaming](#Madison'sMetagaming) | Madison扩展 | |:heavy_check_mark: |  | :file_folder: |||
+| [Madison'sMetagaming](#MadisonsMetagaming) | Madison扩展 | |:heavy_check_mark: |  | :file_folder: |||
 | [NinjaClass](#NinjaClass) | 忍者职业 | 汉化 | :x: | :+1: | :file_folder: |||
 | [BrawlerClass](#BrawlerClass) | 拳师职业 |QL汉化 | :heavy_check_mark: | :+1: | :file_folder::file_folder: |||
 | [WOTR_PATH_OF_BLING](#WOTR_PATH_OF_BLING) | 金龙重做  | QL汉化 |:heavy_check_mark: | |:file_folder: |🛠️||
@@ -3413,7 +3413,7 @@ C:\Users\你的用户名\AppData\LocalLow\Owlcat Games\Pathfinder Wrath Of The R
  </table>  
       
 ------------------------------------------- 
-### [Madison'sMetagaming](https://github.com/madisoncfallin/MadisonsMetagaming)
+### [MadisonsMetagaming](https://github.com/madisoncfallin/MadisonsMetagaming)
 > *前置：* 无<br>
 > *中文：* **无**<br>
 > *安装方式：* **UMM**<br>
