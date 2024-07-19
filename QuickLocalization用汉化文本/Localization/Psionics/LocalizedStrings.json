@@ -443,7 +443,7 @@
   {
     "Key": "BladewindAbility.Description",
     "enGB_Base": "The soulknife gains the ability to momentarily fragment her mind blade into numerous identical blades, each of which strikes at a nearby opponent. As a full attack, when wielding her mind blade, a soulknife can give up her regular attacks and instead fragment her mind blade to make one melee attack at her fullbase attack bonus against each opponent within reach. Each fragment functions identically to the soulknife’s regular mind blade. When using bladewind, the soulknife can choose to expend her psychic strike if an attack misses to reroll that attack, but none of the bladewind attacks deal any extra damage from psychic strike. When using bladewind, a soulknife forfeits any bonus or extra attacks granted by other feats or abilities (such as Cleave or haste). The mind blade immediately reverts to its previous form after the bladewind attack. A soulknife must be at least 8th level to choose this blade skill.",
-    "zhCN": "魂刃可以选择将她的灵刃炸裂产生无数致命的剑刃碎片，来对附近的对手产生强烈的打击。当显形她的灵刃时，魂刃可以选择放弃她的通常攻击以一个整轮动作将她的灵刃炸裂对来所有触及内的对手进行一次猛烈攻击，这一攻击采取她的正常攻击加值。每一片碎片的伤害的都采取这位魂刃通常的灵刃伤害。当使用魔刀千刃时，魂刃可以选择消耗灵能打击充能，来在攻击失手的时候重掷攻击骰，但这一行为并不会带来额外伤害。当使用魔刀千刃的时候魂刃放弃其他所有额外攻击的机会（比如加速或顺势斩）。在攻击结束后灵刃会迅速恢复原本的形态。选择这一魂之剑技需要至少8级魂刃等级。"
+    "zhCN": "魂刃可以选择将她的灵刃炸裂产生无数致命的剑刃碎片，来对附近的对手产生强烈的打击。当显形她的灵刃时，魂刃可以选择放弃她的通常攻击以一个整轮动作将她的灵刃炸裂对来所有触及内的对手进行一次猛烈攻击，这一攻击采取她的正常攻击加值。每一片碎片的伤害都采取这位魂刃通常的灵刃伤害。当使用魔刀千刃时，魂刃可以选择消耗灵能打击充能，来在攻击失手的时候重掷攻击骰，但这一行为并不会带来额外伤害。当使用魔刀千刃的时候魂刃放弃其他所有额外攻击的机会（比如加速或顺势斩）。在攻击结束后灵刃会迅速恢复原本的形态。选择这一魂之剑技需要至少8级魂刃等级。"
   },
   {
     "Key": "BladewindSpendPsionicStrikeAbility.Name",
