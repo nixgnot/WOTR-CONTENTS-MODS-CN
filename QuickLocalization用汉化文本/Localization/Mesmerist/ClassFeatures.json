@@ -216,8 +216,8 @@
   },
   {
     "Key": "ReflectFear.Description",
-    "zhCN": "当受术者成功通过意志豁免检定时，催眠师能够触发该项诡计。当该诡计被触发时，对受术者施法的敌人必须通过一次豁免检定，否则将陷入恐惧状态。",
-    "enGB": "The mesmerist can trigger this trick when the subject succeeds against a will saving throw. When the trick is triggered, the enemy that cast a spell on the subject must succeed a saving throw or be feared."
+    "zhCN": "当受术者成功通过意志豁免检定时，催眠师能够触发该项诡计。当该诡计被触发时，对受术者施法的敌人必须通过一次豁免检定，否则将受到严加斥责。",
+    "enGB": "The mesmerist can trigger this trick when the subject succeeds against a will saving throw. When the trick is triggered, the enemy that cast a spell on the subject must succeed a saving throw or suffer from Castigate."
   },
   {
     "Key": "SeeThroughInvisibility.Name",
@@ -492,6 +492,16 @@
   {
     "Key": "PiercingGaze.Description",
     "zhCN": "在20级时，催眠师的注视带有某种超然之力。他注视的减值增加2点。",
-    "enGB": "At 20th level, the mesmerist’s gaze carries with it something of the beyond. His stare penalty increases by 2."
+    "enGB": "At 20th level, the mesmerist’s gaze carries with it something of the beyond. His stare penalty increases by 2."  },
+  {
+    "Key": "MasterfulTricks.Name",
+    "ProcessTemplates": false,
+    "zhCN": "大师诡计",
+    "enGB": "Masterful Tricks"
+  },
+  {
+    "Key": "MasterfulTricks.Description",
+    "zhCN": "12级起，催眠师可以选择更加强大的诡计。",
+    "enGB": "At 12th level, the mesmerist gains access to more powerful tricks."
   }
 ]
