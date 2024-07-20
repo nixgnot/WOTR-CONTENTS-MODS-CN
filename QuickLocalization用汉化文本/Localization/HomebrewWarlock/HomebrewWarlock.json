@@ -252,7 +252,7 @@
     "zhCN": "<b>魔能异变</b>\n<b>等效法术等级：</b>6\n该魔能异变让你把魔能爆转变为恶臭魔爆。被恶臭魔爆击中的任何生物必须通过强韧豁免，否则除了受到伤害还会陷入反胃1分钟。"
   },
    {
-    "Key": "HomebrewWarlock.Features.Invocations.Greater.GreaterInvocationSelection.DisplayName",
+    "Key": "HomebrewWarlock.Features.Invocations.Greater.GreaterInvocationSelection.DispayName",
     "zhCN": "高等"
   },
    {
@@ -470,5 +470,13 @@
    {
     "Key": "HomebrewWarlock.Features.DeceiveItem.Description",
     "zhCN": "操纵物品"
+  },
+   {
+    "Key": "HomebrewWarlock.Features.InvocationsProgression.DisplayName",
+    "zhCN": "邪术"
+  },
+   {
+    "Key": "HomebrewWarlock.Features.EldritchBlastProgression.DisplayName",
+    "zhCN": "魔能爆"
   }
 ]
