@@ -41,11 +41,11 @@
 + 前者请直接参考作者安装说明，后者建议使用[ModFinder工具](#ModFinder工具)来快速安装
 + 如果你的电脑无法使用ModFinder（通常是由于网络问题），这里有一段简短教程。
 以[HomebrewArchetypes](#HomebrewArchetypes)
-1. 打开通常位于C盘的Users/Username/AppData/LocalLow/Owlcat Games/Pathfinder Wrath of the Righteous
-友情提示：可以在资源管理器直接输入%localappdata%打开Users/Username/AppData/LocalLow/文件夹，随后点击向上就能回到AppData文件夹
-2. 将你下载到的"OwlcatModificationManagerSettings.json"放置在这里，这是作者准备好的配置文件
-友情提示：如果你使用多个基于官方Mod工具的Mod，则你需要使用文本工具打开这个文件，然后依次添加要使用的Mod，例如["HomebrewArchetypes","AC"]
-3. 建立或者进入"Modifications"文件夹，把Mod文件夹放置在这里
+1. 打开通常位于C盘的Users/Username/AppData/LocalLow/Owlcat Games/Pathfinder Wrath of the Righteous<br>
+友情提示：可以在资源管理器直接输入%localappdata%打开Users/Username/AppData/LocalLow/文件夹，随后点击向上就能回到AppData文件夹<br>
+2. 将你下载到的"OwlcatModificationManagerSettings.json"放置在这里，这是作者准备好的配置文件<br>
+友情提示：如果你使用多个基于官方Mod工具的Mod，则你需要使用文本工具打开这个文件，然后依次添加要使用的Mod，例如["HomebrewArchetypes","AC"]<br>
+3. 建立或者进入"Modifications"文件夹，把Mod文件夹放置在这里<br>
 
 ### MOD安装须知
 + 特别注意。目前绝大多数内容扩充MOD都可以随时在游戏中途新增并**正常添加内容**。
