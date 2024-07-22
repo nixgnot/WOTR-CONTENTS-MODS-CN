@@ -26890,6 +26890,133 @@
       "ProcessTemplates": true,
       "zhCN": "以一个迅捷动作，你可以显现一对翅膀，使你获得30速度加值。你每天可以使用这对翅膀的时间等于每先知等级1分钟。这个持续时间不需要连续使用，但必须以1分钟为单位消耗。当你达到11级时，每天可以使用这对翅膀的时间增加到每先知等级10分钟。到15级时，你可以无限期地使用这对翅膀。你必须至少达到7级才能选择这个启示。",
       "enGB": "As a swift action, you can manifest a set of wings that grant you a speed bonus of 30. You can use these wings for 1 minute per day for each oracle level you have. This duration does not need to be consecutive, but it must be spent in 1-minute increments. At 11th level you can use these wings for 10 minutes per day for each oracle level you have. At 15th level, you can use the wings indefinitely. You must be at least 7th level to select this revelation."
+    },
+    {
+      "Key": "f8df5f2e2e534bb4a8214fe3f23b9060",
+      "SimpleName": "<null>Description",
+      "ProcessTemplates": false,
+      "IsUsed": false,
+      "zhCN": "这枚护身符允许佩戴者每天如同6级法师施放一次“缩小术”。",
+      "enGB": "This amulet allows the wearer to cast Reduce Person as a 6thlevel wizard once pey day."
+
+    },
+    {
+      "Key": "c66dc7b422ac43daa858cdef114992d5",
+      "SimpleName": "SivanahFeature.Description",
+      "ProcessTemplates": true,
+      "zhCN": "\n头衔：七重面纱,幻象女神 \n阵营：绝对中立 \n神职:幻象、谜团、倒影、面纱 \n领域：知识、疯狂、魔法、符文、诡计 \n子领域：欺骗、疯狂、记忆、星灵、思想、守护 \n偏好武器：刃巾（大砍刀） \n圣徽：系成圆圈的面纱 \n圣兽：郊狼 \n西芙娜是一位神秘的幻术魔法女神。传说她有神奇的面纱,前六层分别是不同种族的面孔——人类、精灵、半身人、侏儒、蛛人和娜迦,但第七层永不揭开,掩盖着她的真实形态。西芙娜通过镜子和水面的倒影施展她的作为,据说她还会通过一些信徒自己的影子与之交谈。她的终极目标即便对最忠诚的追随者也是个秘密,这种程度的神秘使得她的虔诚信徒难以发展成大规模的信仰。幻术师、骗子,以及那些致力于保守秘密和维护神秘的人往往会崇拜西芙娜,许多侏儒也是如此,这与他们对幻术魔法和奇异经历的喜爱一致。西芙娜的祭司倾向于穿戴面纱和多层薄衣来遮掩自己的特征,他们经常刻意给外人留下关于自己种族、性别和其他一般特征的错误印象。教会对其行事十分讳莫如深,导致外人怀疑他们可能有不可告人的动机,但这种担忧在某种程度上被他们欢快而热情的公共节日所缓解。魔镜、面纱和魔法布料是祭司们常用的工具。有传言称,教会中一些最有权势的祭司实际上是怪物,这与女神对此类生物的亲和力相符。",
+      "enGB": "\nTitles: The Seventh Veil, Goddess of Illusions   \nAlignment: Neutral   \nAreas of Concern: Illusions, Reflections, Mysteries, Veils   \nEdict: Show the beauty in illusions, pursue the nature of truth, respect the need for secrets   \nDomains: Knowledge, Madness, Magic, Rune, Trickery  \nSubdomains: Deception, Insanity, Memory, Protean, Thought, Wards   \nFavoured Weapon: Bladed scarf (glaive)  \nHoly Symbol: Veils tied in circle\r\n   \nSacred Animal: Coyote   \nSivanah is a mysterious goddess of illusion magic. Legends tell of her mystical veils, each of the first six being the face of a different race-first human, then elf, halfling, gnome, aranea, and naga-but the seventh is never removed, masking her true form. Sivanah works her deeds through reflections in mirrors and the surface of water, and is said to speak to some of her followers through their own shadows. Her ultimate goals are secrets even to her most faithful, a level of secrecy that prevents her devout from growing much more beyond the level of a cult. Illusionists, tricksters, and those who work to preserve secrets and mystery often worship Sivanah, as do many gnomes, in keeping with their love of illusion magic and strange experiences. Priests of Sivanah tend to dress in veils and multiple layers of thin clothing that obscure their features and often go out of their way to give outsiders false impressions of their race, gender, and more general features. The church is tight-lipped about its practices, leading outsiders to suspect they have nefarious motives, but such concerns are somewhat mitigated by their festive and welcoming public holidays. Magic mirrors, veils, and magical cloths are popular tools among the priesthood. Rumors abound that some of the most powerful priests in the church are actually monstrous creatures, matching the goddess's affinity for such beings."
+    },
+    {
+      "Key": "a88fc915679d491d9c4ef5f50a0b94e7",
+      "SimpleName": "SivanahFeature.Name",
+      "ProcessTemplates": false,
+      "zhCN": "西芙娜",
+      "enGB": "Sivanah"
+
+    },
+    {
+      "Key": "aac8045186b6473fba177a84533de299",
+      "SimpleName": "OracleDarkTapestryFinalRevelation.Description",
+      "ProcessTemplates": true,
+      "zhCN": "当你达到20级时,你将变成一个真正异类且非自然的生物。你获得5/-的伤害减免,并且免疫酸蚀伤害、重击和偷袭。每天一次,你可以使用类法术能力施展“变化形体”,无需材料成分。",
+      "enGB": "Upon reaching 20th level, you become a truly alien and unnatural creature. You gain damage reduction 5/— and immunity to acid, critical hits, and sneak attacks. Once per day, you can cast shapechange as a spell-like ability without requiring a material component."
+    },
+    {
+      "Key": "db34c1f27732480d844c1ef03b63e8bf",
+      "SimpleName": "OracleDarkTapestryMysteryFeature.Description",
+      "ProcessTemplates": true,
+      "zhCN": "具有暗幕秘示域的先知将知识（神秘）、沟通和隐匿添加到她的本职技能列表中。",
+      "enGB": "An oracle with the dark tapestry mystery adds Knowledge (Arcana) , Persuasion and Stealth to her list of class skills."
+    },
+    {
+      "Key": "04a27fb0fcae48e187b006f4f209cf4f",  
+      "SimpleName": "OracleDarkTapestryMysteryFeature.Name",
+      "ProcessTemplates": false,
+      "zhCN": "暗幕",
+      "enGB": "Dark Tapestry"
+
+    },
+    {
+      "Key": "0facbfbf8a974fa3b2ea1f91a83afa58",
+      "SimpleName": "OceansEchoDarkTapestryMysteryFeature.Description",
+      "ProcessTemplates": true,
+      "zhCN": "获得暗幕秘示域的法术和启示。\n由于海洋回声变体，从该变体获得的本职技能更改为沟通、知识（世界）和学识（自然）。",
+      "enGB": "Gain access to the spells and revelations of the dark tapestry mystery. \nDue to the ocean's echo archetype the class skills gained from this archtypeare changed to Persuasion, Knowledge (world) and Lore (nature)"
+
+    },
+    {
+      "Key": "c7746bf2cdd841128d75fed865267939",
+      "SimpleName": "EnlightnedPhilosopherDarkTapestryMysteryFeature.Description",
+      "ProcessTemplates": true,
+      "zhCN": "具有暗幕秘示域的先知将知识（神秘）、沟通和隐匿添加到她的本职技能列表中。",
+      "enGB": "An oracle with the dark tapestry mystery adds Knowledge (Arcana) , Persuasion and Stealth to her list of class skills."
+
+    },
+    {
+      "Key": "6c2bb5b9a0cf454f8f8bda6dc2121570",
+      "SimpleName": "DivineHerbalistDarkTapestryMysteryFeature.Description",
+      "ProcessTemplates": true,
+      "zhCN": "获得暗幕秘示域的法术和启示。\n由于神圣草药师原型，从该原型获得的职业技能被草药大师特征和酿造药水专长所取代。",
+      "enGB": "Gain access to the spells and revelations of the dark tapestry mystery. \nDue to the divine herbalist archetype the class skills gained from this archetypeare replaced by the master herbalist feature and the brew potions feat."
+
+    },
+    {
+      "Key": "227f02bd3f7a4e2bbec47cd5fc8f5d0e",
+      "SimpleName": "OracleRevelationGiftOfMadnessAbility.Description",
+      "ProcessTemplates": true,
+      "zhCN": "你呼唤群星之间难以理解的虚空之力,使30尺内的一个生物陷入1轮困惑状态。目标可进行一次意志豁免来抵抗此效果。这是一个影响心智的胁迫效果。7级起,困惑的持续时间等同于你的先知等级轮数。你每天可使用此能力的次数等于3+你的魅力调整值。",
+      "enGB": "You tap into the unthinkable void between the stars and cause a single living creature within 30 feet to become confused for 1 round. A successful Will save negates the effect. This is a mind-affecting compulsion effect. At 7th level, the confusion lasts for a number of rounds equal to your oracle level. You can use this ability a number of times per day equal to 3 + your Charisma modifier."
+    },
+    {
+      "Key": "7ab6c462fdd9494d8dbef8920608e7cd",
+      "SimpleName": "OracleRevelationGiftOfMadnessAbility.Name",
+      "ProcessTemplates": false,
+      "zhCN": "赠予疯狂",
+      "enGB": "Gift of Madness"
+    },
+    {
+      "Key": "deba942160b34aa8a721895910dabf5f",
+      "SimpleName": "OracleRevelationGiftOfMadnessFeature.Description",
+      "ProcessTemplates": true,
+      "zhCN": "你呼唤群星之间难以理解的虚空之力,使30尺内的一个生物陷入1轮困惑状态。目标可进行一次意志豁免来抵抗此效果。这是一个影响心智的胁迫效果。7级起,困惑的持续时间等同于你的先知等级轮数。你每天可使用此能力的次数等于3+你的魅力调整值。",
+      "enGB": "You tap into the unthinkable void between the stars and cause a single living creature within 30 feet to become confused for 1 round. A successful Will save negates the effect. This is a mind-affecting compulsion effect. At 7th level, the confusion lasts for a number of rounds equal to your oracle level. You can use this ability a number of times per day equal to 3 + your Charisma modifier."
+
+    },
+    {
+      "Key": "7a77d69205f9478fb7d7fba1630d82ac",
+      "SimpleName": "OracleRevelationTouchOfTheVoidAbility.Description",
+      "ProcessTemplates": true,
+      "zhCN": "以一个标准动作,你可以进行一次近战接触攻击,造成1d6+1/2先知等级的寒冷伤害。7级起,被接触的生物还必须进行一次强韧豁免,否则会陷入疲劳状态,持续轮数等于你先知等级的一半。这对已经处于疲劳状态的生物无效。你每天可以使用该能力的次数等于3+你的魅力调整值。",
+      "enGB": "As a standard action, you can perform a melee touch attack that deals 1d6 points of cold damage + 1 point for every two oracle levels you possess. At 7th level, the touched creature must also make a Fortitude saving throw or be fatigued for a number of rounds equal to 1/2 your oracle level. This has no effect on a creature that is already fatigued. You can use this ability a number of times per day equal to 3 + your Charisma modifier."
+    },
+    {
+      "Key": "0cd062b5fba44ee4ba5291ed2e33a4ea",
+      "SimpleName": "OracleRevelationTouchOfTheVoidAbility.Name",
+      "ProcessTemplates": false,
+      "zhCN": "虚空之触",
+      "enGB": "Touch of the Void"
+    },
+    {
+      "Key": "c83fd309d7b24c2f96351b6fd1814a53",
+      "SimpleName": "OracleRevelationTouchOfTheVoidFeature.Description",
+      "ProcessTemplates": true,
+      "zhCN": "以一个标准动作,你可以进行一次近战接触攻击,造成1d6+1/2先知等级的寒冷伤害。7级起,被接触的生物还必须进行一次强韧豁免,否则会陷入疲劳状态,持续轮数等于你先知等级的一半。这对已经处于疲劳状态的生物无效。你每天可以使用该能力的次数等于3+你的魅力调整值。",
+      "enGB": "As a standard action, you can perform a melee touch attack that deals 1d6 points of cold damage + 1 point for every two oracle levels you possess. At 7th level, the touched creature must also make a Fortitude saving throw or be fatigued for a number of rounds equal to 1/2 your oracle level. This has no effect on a creature that is already fatigued. You can use this ability a number of times per day equal to 3 + your Charisma modifier."
+    },
+    {
+      "Key": "6c1af59517884fa4a8d20e3e9b597c30",
+      "SimpleName": "OracleRevelationTouchOfTheVoidUpgrade.Description",
+      "ProcessTemplates": true,
+      "zhCN": "以一个标准动作,你可以进行一次近战接触攻击,造成1d6+1/2先知等级的寒冷伤害。7级起,被接触的生物还必须进行一次强韧豁免,否则会陷入疲劳状态,持续轮数等于你先知等级的一半。这对已经处于疲劳状态的生物无效。你每天可以使用该能力的次数等于3+你的魅力调整值。",
+      "enGB": "As a standard action, you can perform a melee touch attack that deals 1d6 points of cold damage + 1 point for every two oracle levels you possess. At 7th level, the touched creature must also make a Fortitude saving throw or be fatigued for a number of rounds equal to 1/2 your oracle level. This has no effect on a creature that is already fatigued. You can use this ability a number of times per day equal to 3 + your Charisma modifier."
+    },
+    {
+      "Key": "995f1bba27864e42858be6627b344217",
+      "SimpleName": "OracleRevelationTouchOfTheVoidUpgrade.Name",
+      "ProcessTemplates": false,
+      "zhCN": "虚空之触",
+      "enGB": "Touch of the Void Upgrade"
     }    
   ]
 }
