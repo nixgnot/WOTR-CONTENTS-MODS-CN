@@ -13,8 +13,9 @@
 ## 目录
 
 - [基础知识](#基础知识)
-  - [UMM的安装](#UMM的安装)
-  - [MOD须知](#MOD须知)
+  - [UMM及基于UMM的Mod的安装](#UMM及基于UMM的Mod的安装)
+  - [非基于UMM的Mod的安装](#非基于UMM的Mod的安装)
+  - [MOD安装须知](#MOD安装须知)
   - [ModFinder工具](#ModFinder工具)
   - [GITHUB访问和MOD下载](#GITHUB访问和MOD下载)
   - [Nexus访问和MOD下载](#Nexus访问和MOD下载)
@@ -30,12 +31,23 @@
 
 ## 基础知识
 
-### UMM的安装
+### UMM及基于UMM的Mod的安装
 + UMM是**Unity Mod Manager**的简称，用于很多Unity游戏的MOD管理。对正义之怒UMM基本属于必需的前置MOD管理工具。你需要先安装UMM来启用MOD，并可对MOD进行统一管理。
 + 大部分MOD都通过UMM来进行安装和管理。少部分例外我会特别提示。
-+ 关于UMM的安装，[上面链接](https://github.com/1onepower/KM-WotR_Modding_Wiki/blob/main/%E4%B8%AD%E6%96%87%E7%89%88.md) 已经有非常详细的阐述，在此不再赘述。
++ 关于UMM和相关Mod的安装，[上面链接](https://github.com/1onepower/KM-WotR_Modding_Wiki/blob/main/%E4%B8%AD%E6%96%87%E7%89%88.md) 已经有非常详细的阐述，在此不再赘述。
 
-### MOD须知
+### 非基于UMM的Mod的安装
++ 此类Mod包括覆盖型的Mod（比如头像包）和基于官方Mod工具的Mod
++ 前者请直接参考作者安装说明，后者建议使用[ModFinder工具](#ModFinder工具)来快速安装
++ 如果你的电脑无法使用ModFinder（通常是由于网络问题），这里有一段简短教程。
+以[HomebrewArchetypes](#HomebrewArchetypes)
+1. 打开通常位于C盘的Users/Username/AppData/LocalLow/Owlcat Games/Pathfinder Wrath of the Righteous
+友情提示：可以在资源管理器直接输入%localappdata%打开Users/Username/AppData/LocalLow/文件夹，随后点击向上就能回到AppData文件夹
+2. 将你下载到的"OwlcatModificationManagerSettings.json"放置在这里，这是作者准备好的配置文件
+友情提示：如果你使用多个基于官方Mod工具的Mod，则你需要使用文本工具打开这个文件，然后依次添加要使用的Mod，例如["HomebrewArchetypes","AC"]
+3. 建立或者进入"Modifications"文件夹，把Mod文件夹放置在这里
+
+### MOD安装须知
 + 特别注意。目前绝大多数内容扩充MOD都可以随时在游戏中途新增并**正常添加内容**。
 + 但是绝对不要在游戏**中途移除内容扩充MOD**，通常这都会由于新增特性的丢失导致**存档无法载入**。如果遇到这种情况，**通常加回MOD可以解决**。
 + 绝大多数内容扩充MOD会提供**MOD选项**，可以用于单独开启或者关闭某一项特性。通常这个选项在UMM中，如果前置有**ModMenu**，则在游戏选项中的MOD页面。
