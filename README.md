@@ -2181,7 +2181,7 @@
            <td>Mindchemist 心智药师</td></tr> 
    <tr><td rowspan="7">职业特性</td>
        <td>先知秘示域</td>
-       <td>Dragon 龙、Heavens 苍天、Succor 救助 Wood 林木 Winter 凛冬 Lunar 月亮 Shadow 阴影</td></tr>
+       <td>Dragon 龙、Heavens 苍天、Succor 救助 Wood 林木 Winter 凛冬 Lunar 月亮 Shadow 阴影 Dark Tapestry 暗幕</td></tr>
    <tr><td>战斗祭司祝福</td>
        <td>Community 团队 Plant 植物 Artifice 手艺 War 战争</td></tr>
    <tr><td>炼金术师科研发现</td>
