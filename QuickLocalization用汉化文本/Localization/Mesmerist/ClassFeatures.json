@@ -150,8 +150,8 @@
   },
   {
     "Key": "LinkedReaction.Description",
-    "zhCN": "此诡计的受术者和催眠师将共享彼此中较高的那一方的先攻加值",
-    "enGB": "The subject of this trick, and the mesmerist, take on the other's initiative bonus for whomever's is higher."
+    "zhCN": "此诡计的受术者获得等同于催眠师魅力调整值的先攻加值。",
+    "enGB": "The subject of this trick gains an initiative bonus equal to the Mesmerist's charisma modifier."
   },
   {
     "Key": "MeekFacade.Name",
@@ -161,8 +161,8 @@
   },
   {
     "Key": "MeekFacade.Description",
-    "zhCN": "受术者看起来魔法般地异常弱小，受术者在对抗触发此诡计的敌人攻击时AC获得+2闪避加值。催眠师每拥有5个等级，AC加值便会额外+1。这是一个影响心灵（mind-affecting）的胁迫（compulsion）效果。",
-    "enGB": "The subject magically seems like a weak target. The mesmerist's 'subject gains a +2 dodge bonus to AC against triggering enemy’s attacks. The bonus to AC increases by 1 for every 5 levels the mesmerist possesses. This is a mind-affecting compulsion effect."
+    "zhCN": "受术者看起来魔法般地异常弱小，受术者在对抗触发此诡计的敌人攻击时AC获得+2闪避加值。催眠师每拥有5个等级，AC加值便会额外+1。这是一个影响心灵的胁迫效果，此效果持续到受术者被击中为止。。",
+    "enGB": "The subject magically seems like a weak target. The mesmerist's 'subject gains a +2 dodge bonus to AC against triggering enemy’s attacks. The bonus to AC increases by 1 for every 5 levels the mesmerist possesses. This buff lasts until the the subject is hit. This is a mind-affecting compulsion effect."
   },
   {
     "Key": "Misdirection.Name",
@@ -172,8 +172,8 @@
   },
   {
     "Key": "Misdirection.Description",
-    "zhCN": "你让敌人对受术者攻击的感知产生了偏移，将会对攻击轨迹产生误判而难以招架。当受术者作出一次攻击或者使用了一个需要攻击检定的法术时，催眠师能够触发该项诡计。催眠师要尝试一次唬骗检定，以佯攻受术者攻击的单个目标。和普通的佯攻不同，该能力可以用于非近战攻击。若佯攻成功，目标在对抗触发该诡计的攻击时会失去AC上的敏捷加值。目标不会由于该能力而承受催眠师或受术者在通常的虚招或唬骗检定上能附加的任何额外效果。这是一个幻术效果。",
-    "enGB": "An enemy’s perception of an attack by the subject shifts, making the foe unprepared to defend against the attack. The mesmerist can trigger this trick when the subject makes an attack or uses a spell that requires an attack roll. The mesmerist attempts a Bluff check to feint against a single target of the subject’s attack. Unlike a normal feint, this ability can be used on non-melee attacks. If the feint succeeds, the target of the attack is denied its Dexterity bonus to AC against the triggering attack. The target doesn’t suffer any additional effects that the mesmerist or the subject would cause on a normal feint or Bluff check. This is an illusion (glamer) effect."
+    "zhCN": "你让敌人对受术者攻击的感知产生了偏移，将会对攻击轨迹产生误判而难以招架。当受术者作出一次攻击时，催眠师能够触发该项诡计。催眠师要尝试一次唬骗检定，以佯攻受术者攻击的单个目标。和普通的佯攻不同，该能力可以用于非近战攻击。若佯攻成功，目标在对抗触发该诡计的攻击时会失去AC上的敏捷加值。目标不会由于该能力而承受催眠师或受术者在通常的虚招或唬骗检定上能附加的任何额外效果。这是一个幻术效果。",
+    "enGB": "An enemy’s perception of an attack by the subject shifts, making the foe unprepared to defend against the attack. The mesmerist can trigger this trick when the subject makes an attack that requires an attack roll. The mesmerist attempts a Bluff check to feint against a single target of the subject’s attack. Unlike a normal feint, this ability can be used on non-melee attacks. If the feint succeeds, the target of the attack is denied its Dexterity bonus to AC against the triggering attack. The target doesn’t suffer any additional effects that the mesmerist or the subject would cause on a normal feint or Bluff check. This is an illusion (glamer) effect."
   },
   {
     "Key": "MesmericMirror.Name",
@@ -216,8 +216,8 @@
   },
   {
     "Key": "ReflectFear.Description",
-    "zhCN": "当受术者成功通过意志豁免检定时，催眠师能够触发该项诡计。当该诡计被触发时，对受术者施法的敌人必须通过一次豁免检定，否则将受到严加斥责。",
-    "enGB": "The mesmerist can trigger this trick when the subject succeeds against a will saving throw. When the trick is triggered, the enemy that cast a spell on the subject must succeed a saving throw or suffer from Castigate."
+    "zhCN": "当受术者意志豁免检定失败时，催眠师能够触发该项诡计。当该诡计被触发时，对受术者施法的敌人必须通过一次豁免检定，否则将受到严加斥责。",
+    "enGB": "The mesmerist can trigger this trick when the subject fails against a will saving throw. When the trick is triggered, the enemy that cast a spell on the subject must succeed a saving throw or suffer from Castigate."
   },
   {
     "Key": "SeeThroughInvisibility.Name",
@@ -260,8 +260,8 @@
   },
   {
     "Key": "VanishArrow.Description",
-    "zhCN": "催眠师以一个华丽的动作，在敌人射击前便夺走了一枚投射物。当受术者成为远程武器攻击的目标时，催眠师可以在攻击检定前触发这个诡计。如果攻击者正在进行整轮攻击，那这只会影响其中的一次攻击。",
-    "enGB": "With a flourish, the mesmerist snatches a projectile from an enemy before it can be shot. The mesmerist can trigger this trick when the subject is targeted by a ranged weapon attack, before the attack roll is made. If the attacker is making a full attack, this affects only one of the attacks."
+    "zhCN": "催眠师以一个华丽的动作，在敌人射击前便夺走了一枚投射物。当受术者成为远程武器攻击的目标时，催眠师可以在攻击检定前触发这个诡计。如果攻击者正在进行整轮攻击，那这只会影响其中的一次攻击。这个诡计持续到战斗结束。",
+    "enGB": "With a flourish, the mesmerist snatches a projectile from an enemy before it can be shot. The mesmerist can trigger this trick when the subject is targeted by a ranged weapon attack, before the attack roll is made. If the attacker is making a full attack, this affects only one of the attacks. This trick lasts until the end of combat."
   },
   {
     "Key": "VoiceOfReason.Name",
@@ -271,8 +271,8 @@
   },
   {
     "Key": "VoiceOfReason.Description",
-    "zhCN": "在催眠师的协助下，受术者能更轻松地识破影响心智、魅惑或强制类法术。受术者在对抗幻术或魅惑效果的豁免检定中获得等同于催眠师的魅力调整值的洞察加值。这个诡计不适用于不允许豁免检定的幻像。",
-    "enGB": "The subject can more easily pierce mind-affecting, charm, or compulsion based spells with the mesmerist’s aid. The subject receives an insight bonus on her saving throw to disbelieve the illusion or charm equal to the mesmerist’s Charisma modifier. This trick cannot be used for illusions that do not allow a saving throw."
+    "zhCN": "在催眠师的协助下，受术者能更轻松地识破影响心智、魅惑或强制类法术。受术者在对抗幻术或魅惑效果的豁免检定中获得等同于催眠师的魅力调整值的洞察加值。这个诡计不适用于不允许豁免检定的幻像。这个诡计持续到受术者意志豁免检定失败为止。",
+    "enGB": "The subject can more easily pierce mind-affecting, charm, or compulsion based spells with the mesmerist’s aid. The subject receives an insight bonus on her saving throw to disbelieve the illusion or charm equal to the mesmerist’s Charisma modifier. This trick lasts until the subject fails a will saving throw."
   },
   {
     "Key": "Disorientation.Name",
@@ -503,5 +503,23 @@
     "Key": "MasterfulTricks.Description",
     "zhCN": "12级起，催眠师可以选择更加强大的诡计。",
     "enGB": "At 12th level, the mesmerist gains access to more powerful tricks."
+  },
+  {
+    "Key": "GoodHopeTrick.Name",
+    "ProcessTemplates": false,
+    "enGB": "Good Hope"
+  },
+  {
+    "Key": "GoodHopeTrick.Description",
+    "enGB": "The subject is instilled with powerful hope. The subject gains a +2 morale bonus on saving throws, attack rolls, ability checks, skill checks, and weapon damage rolls."
+  },
+  {
+    "Key": "ShadowBlend.Name",
+    "ProcessTemplates": false,
+    "enGB": "Shadow Blend"
+  },
+  {
+    "Key": "ShadowBlend.Description",
+    "enGB": "The subject can reroll a failed D20 on a stealth check."
   }
 ]
