@@ -4695,6 +4695,8 @@ C:\Users\你的用户名\AppData\LocalLow\Owlcat Games\Pathfinder Wrath Of The R
 <tr><th colspan="5">新增内容列表<br></th></tr> 
   <tr><td rowspan="2">职业 Classes</i></td>
        <tr><td colspan="5">催眠师 Mesmerist</td></tr>
+  <tr><td rowspan="1">神话 Mythic</i></td>
+       <td colspan="2">酷炫星象 Awesome Display<br>每个受你法术或能力影响的生物,其总生命骰数视为等于其实际生命骰数减去你的魅力调整值(如为正值)。</td></tr>
   <tr><td rowspan="6">专长 Feats</i></td>
        <td colspan="2">剧烈痛楚 Intense Pain<br>当你使用痛苦注视增加自己造成的伤害时，能够额外造成1d6点伤害（12级时2d6点，18级时3d6点。）当你使用痛苦注视增强盟友的伤害时，每拥有4个催眠师等级目标额外受到1点伤害。</td></tr>
        <td colspan="2">脱力注视 Fatiguing Stare<br>当你触发你的痛苦注视时，目标必须进行一次意志豁免（DC = 10 + 1/2你的催眠师等级 + 你的魅力调整值），失败则会疲劳1轮。该不会致使目标陷入力竭，即使目标已经处于疲劳状态也不会如此。</td></tr>
