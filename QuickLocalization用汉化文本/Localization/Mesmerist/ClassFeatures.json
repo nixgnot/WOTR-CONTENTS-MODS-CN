@@ -507,19 +507,23 @@
   {
     "Key": "GoodHopeTrick.Name",
     "ProcessTemplates": false,
+    "zhCN": "美好希望",
     "enGB": "Good Hope"
   },
   {
     "Key": "GoodHopeTrick.Description",
+    "zhCN": "这个诡计会给受术者注入强大的希望之力。获得+2士气加值,应用于豁免检定、攻击检定、属性检定、技能检定和武器伤害骰。",
     "enGB": "The subject is instilled with powerful hope. The subject gains a +2 morale bonus on saving throws, attack rolls, ability checks, skill checks, and weapon damage rolls."
   },
   {
     "Key": "ShadowBlend.Name",
     "ProcessTemplates": false,
+    "zhCN": "融入阴影",
     "enGB": "Shadow Blend"
   },
   {
     "Key": "ShadowBlend.Description",
+    "zhCN": "目标可以在失败的潜行检定中可以重掷一次D20。",
     "enGB": "The subject can reroll a failed D20 on a stealth check."
   }
 ]
