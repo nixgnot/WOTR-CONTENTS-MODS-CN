@@ -1,2 +1,13 @@
 [
+  {
+    "Key": "MythicAwesomeDisplay.Name",
+    "ProcessTemplates": false,
+    "zhCN": "绝妙幻像",
+    "enGB": "Awesome Display"
+  },
+  {
+    "Key": "MythicAwesomeDisplay.Description",
+    "zhCN": "你的幻术表演精确地模拟了夜空的奥秘,令所有目睹者惊叹不已。每个受你法术或能力影响的生物,其总生命骰数视为等于其实际生命骰数减去你的魅力调整值(如为正值)。",
+    "enGB": "Your phantasmagoric displays accurately model the mysteries of the night sky, dumbfounding all who behold them. Each creature affected by your spells or abilities is treated as if its total number of Hit Dice were equal to its number of Hit Dice minus your Charisma modifier (if positive)."
+  }
 ]
