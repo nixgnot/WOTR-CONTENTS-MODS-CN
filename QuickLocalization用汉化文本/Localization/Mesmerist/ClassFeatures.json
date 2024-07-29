@@ -150,8 +150,8 @@
   },
   {
     "Key": "LinkedReaction.Description",
-    "zhCN": "此诡计的受术者获得等同于催眠师魅力调整值的先攻加值。",
-    "enGB": "The subject of this trick gains an initiative bonus equal to the Mesmerist's charisma modifier."
+    "zhCN": "蜂群思维允许催眠师和一名盟友共享彼此的反应时间（先攻值）。催眠师无法将此诡计植入自身。",
+    "enGB": "A hive mind allows the mesmerist and an ally to share one another’s reaction times (initiative). The mesmerist cannot implant this trick in themselves."
   },
   {
     "Key": "MeekFacade.Name",
