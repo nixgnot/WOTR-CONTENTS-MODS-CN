@@ -64,5 +64,83 @@
     "Key": "ManifoldStare.Description",
     "zhCN": "专长效果：你每轮可以多触发一次痛苦注视。\n特殊情况：该专长只在催眠师3级开始可选择一次，并在达到9级和15级后各可再选择一次。催眠师在获得深邃注视时可以选择该专长作为替代。",
     "enGB": "Benefits: You can trigger your painful stare one additional time per round.\nSpecial:  This feat can be taken once by a 3rd-level mesmerist, and again when he reaches 9th and 15th levels. Its effects stack. A mesmerist can take this feat in place of a bold stare improvement."
+
+  },
+  {
+    "Key": "TrickFeats.Name",
+    "ProcessTemplates": false,
+    "zhCN": "诡计专长",
+    "enGB": "Trick Features"
+  },
+  {
+    "Key": "TrickFeats.Description",
+    "zhCN": "允许催眠师通过改变或扩展其使用方式来修改他们的诡计。",
+    "enGB": "Allows the mesmerist to modify their tricks by altering or expanding how they can be used."
+  },
+  {
+    "Key": "BouncingTrick.Name",
+    "ProcessTemplates": false,
+    "zhCN": "游荡诡计",
+    "enGB": "Bouncing Trick"
+  },
+  {
+    "Key": "BouncingTrick.Description",
+    "zhCN": "在触发游荡诡计后，你可以通过直觉动作将该诡计改向另一个30尺内的目标。改变目标后的诡计会立即植入新目标的精神中，就如同它是初始的目标一样。",
+    "enGB": "After you trigger a bouncing trick, you can redirect the trick to one target within 30 feet as an immediate action. The redirected trick is immediately implanted in the new target’s mind, as if it were the original target. "
+  },
+  {
+    "Key": "SpellTrick.Name",
+    "ProcessTemplates": false,
+    "zhCN": "法术诡计",
+    "enGB": "Spell Trick"
+  },
+  {
+    "Key": "SpellTrick.Description",
+    "zhCN": "允许催眠师消耗一次催眠师诡计使用次数以迅捷动作施放下一个法术",
+    "enGB": "Allows the mesmerist to cast their next spell as a swift action at the cost of one of their mesmerist tricks."
+  },
+  {
+    "Key": "ReapplyTrick.Name",
+    "ProcessTemplates": false,
+    "zhCN": "重施诡计",
+    "enGB": "Reapply Trick"
+  },
+  {
+    "Key": "ReapplyTrick.Description",
+    "zhCN": "在你触发一个诡计后,该诡计会重新施加于受术者身上。",
+    "enGB": "After you trigger a trick, the trick is reapplied to the target."
+  },
+  {
+    "Key": "ConsummateTrickster.Name",
+    "ProcessTemplates": false,
+    "zhCN": "完美骗局",
+    "enGB": "Consummate Trickster"
+  },
+  {
+    "Key": "ConsummateTrickster.Description",
+    "zhCN": "欺诈怪客在唬骗，巧手，隐匿检定上获得+1加值。这个加值每3个催眠师等级增加1。",
+    "enGB": "A vexing trickster gains a +1 bonus on Bluff, Thievery, and Stealth checks. This bonus increases by 1 for every 3 mesmerist levels."
+  },
+  {
+    "Key": "TrickstersEgo.Name",
+    "ProcessTemplates": false,
+    "zhCN": "骗徒自我",
+    "enGB": "Trickster's Ego'"
+  },
+  {
+    "Key": "TrickstersEgo.Description",
+    "zhCN": "在2级时，欺诈怪客获得寓守于攻作为奖励专长。如果他的智力属性低于13，在判断满足战斗专长的先决条件时，他的智力视为13。",
+    "enGB": "At 2nd level, a vexing trickster gains Combat Expertise as a bonus feat. If his Intelligence score is less than 13, his Intelligence counts as 13 for the purpose of meeting the prerequisites for combat feats."
+  },
+  {
+    "Key": "ManifoldHijinks.Name",
+    "ProcessTemplates": false,
+    "zhCN": "多重诡计",
+    "enGB": "Manifold Hijinks'"
+  },
+  {
+    "Key": "ManifoldHijinks.Description",
+    "zhCN": "在6级时，欺诈怪客学会了在他的目标中同时植入多个被诡计专长调整后的催眠师诡计（即调整诡计）的能力。在6级时，欺诈怪客可以在单个目标中同时植入两个调整催眠师诡计。在14级时，他可以在一个目标中同时植入最多三个调整催眠师诡计。该能力不会令催眠师能够在单个催眠师诡计上应用多个诡计专长。",
+    "enGB": "At 6th level, the vexing trickster learns to implant multiple mesmerist tricks that have been modified by trick feats (henceforth called modified tricks) in his targets’ minds simultaneously. At 6th level, the vexing trickster can implant up to two modified mesmerist tricks in a single target simultaneously. At 14th level, he can implant up to three modified mesmerist tricks in a single target simultaneously. This ability doesn’t allow a mesmerist to apply more than one trick feat to a single mesmerist trick at a time."
   }
 ]
