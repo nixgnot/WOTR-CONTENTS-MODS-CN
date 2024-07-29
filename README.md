@@ -4693,17 +4693,22 @@ C:\Users\你的用户名\AppData\LocalLow\Owlcat Games\Pathfinder Wrath Of The R
 > *新增内容：*
 <table>
 <tr><th colspan="5">新增内容列表<br></th></tr> 
-  <tr><td rowspan="2">职业 Classes</i></td>
-       <tr><td colspan="5">催眠师 Mesmerist</td></tr>
+   <tr><td rowspan="3">催眠师 Mesmerist<br></th></tr> 
+           <td>迷踪侠 Vexing Daredevil</td></tr> 
+           <tr><td>欺诈怪客 Vexing Trickster</td></tr> 
   <tr><td rowspan="1">神话 Mythic</i></td>
        <td colspan="2">酷炫星象 Awesome Display<br>每个受你法术或能力影响的生物,其总生命骰数视为等于其实际生命骰数减去你的魅力调整值(如为正值)。</td></tr>
-  <tr><td rowspan="6">专长 Feats</i></td>
+  <tr><td rowspan="9">专长 Feats</i></td>
        <td colspan="2">剧烈痛楚 Intense Pain<br>当你使用痛苦注视增加自己造成的伤害时，能够额外造成1d6点伤害（12级时2d6点，18级时3d6点。）当你使用痛苦注视增强盟友的伤害时，每拥有4个催眠师等级目标额外受到1点伤害。</td></tr>
        <td colspan="2">脱力注视 Fatiguing Stare<br>当你触发你的痛苦注视时，目标必须进行一次意志豁免（DC = 10 + 1/2你的催眠师等级 + 你的魅力调整值），失败则会疲劳1轮。该不会致使目标陷入力竭，即使目标已经处于疲劳状态也不会如此。</td></tr>
        <td colspan="2">慑人注视 Demoralizing Stare<br>当你触发你的痛苦注视时，目标必须进行一次意志豁免（DC = 10 + 1/2你的催眠师等级 + 你的魅力调整值），失败则会战栗1轮。这不会致使目标陷入惊恐，即便目标已经处于战栗状态也不会如此。</td></tr>
        <td colspan="2">责难注视 Excoriating Stare<br>当你触发你的痛苦注视时，目标必须进行一次意志豁免检定（DC = 10 + 1/2你的催眠师等级 + 你的魅力调整值），失败则会由于疼痛而恶心1轮。</td></tr>
        <td colspan="2">痛苦恶化 Compounded Pain<br>你可以将两项注视专长的效果应用至你的痛苦注视职业能力上。</td></tr>
        <td colspan="2">多样注视 Manifold Stare<br>你每轮可以多触发一次痛苦注视。</td></tr>
+       <td rowspan="3">诡计专长 Trick Features</td>
+           <td>游荡诡计 Bouncing Trick<br>你可以通过直觉动作将诡计改向另一个30尺内的目标。改变目标后的诡计会立即植入新目标的精神中，就如同它是初始的目标一样。</td></tr>
+       <tr><td>法术诡计 Spell Trick<br>允许催眠师消耗一次催眠师诡计使用次数以迅捷动作施放下一个法术</td></tr>
+       <tr><td>重施诡计 Reapply Trick<br>在你触发一个诡计后,该诡计会重新施加于受术者身上。</td></tr>
 </table>   
 ------------------------------------------- 
 
