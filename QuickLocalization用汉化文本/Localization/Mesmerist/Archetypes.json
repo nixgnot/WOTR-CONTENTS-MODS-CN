@@ -1,3 +1,35 @@
 [
-
+  {
+    "Key": "VexingDaredevil.Name",
+    "ProcessTemplates": false,
+    "zhCN": "迷踪侠",
+    "enGB": "Vexing Daredevil"
+  },
+  {
+    "Key": "VexingDaredevil.Description",
+    "zhCN": "迷踪侠为了战斗而训练自己的异能力量，她们专精于让人猝不及防的假动作和诡术，与之较量的敌人都会被耍得晕头转向。",
+    "enGB": "Vexing daredevils train their psychic powers for combat, specializing in momentarily blinding and confusing their foes with sudden feints and tricks."
+  },
+  {
+    "Key": "VexingTrickster.Name",
+    "ProcessTemplates": false,
+    "zhCN": "欺诈怪客",
+    "enGB": "Vexing Trickster"
+  },
+  {
+    "Key": "VexingTrickster.Description",
+    "zhCN": "尽管大多数催眠师沉迷于欺骗的技巧，使用他们的精神相关能力令对手相信最为反常的现象真实存在，但也有其他的催眠师满足自己能力能够实现的各种奇妙现象。这些催眠师被称为欺诈怪客。",
+    "enGB": "While many mesmerists are called to embrace the art of deception, using their mind-binding powers to make their foes believe that even the most outrageous realities are actually true, others indulge in the various hijinks their power enables. These mesmerists are known as vexing tricksters."
+  },
+  {
+    "Key": "ShimmeringBody.Name",
+    "ProcessTemplates": false,
+    "zhCN": "闪影护身",
+    "enGB": "Shimmering Body"
+  },
+  {
+    "Key": "ShimmeringBody.Description",
+    "zhCN": "迷踪侠永久处于朦胧术效果影响下",
+    "enGB": "The Vexing Daredevil is under the constant effect of Blur."
+  }
 ]
