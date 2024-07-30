@@ -1,0 +1,345 @@
+[
+    {
+        "Key": "MyFeat.Name",
+        // Don't process this since it is just a name. Without this it might create strange artifacts by trying to create
+        // links to encycolpedia pages.
+        "ProcessTemplates": false,
+        "enGB": "My Feat"
+    },
+
+    {
+        "Key": "MyFeat.Description",
+        "enGB": "This is my feat, not your feat."
+    },
+
+    {
+        "Key": "DeathKnightProficiencies.Name",
+        "ProcessTemplates": false,
+        "enGB": "Death Knight Proficiencies",
+        "esES": "Caballero de la Muerte Proficiencias"
+    },
+    {
+        "Key": "DeathKnightProficiencies.Description",
+        "enGB": "Death Knights are proficient with all simple and {g|Encyclopedia:Weapon_Proficiency}martial weapons{/g}, bastard weapons with all types of armor (heavy, medium, and light), and with shields (except tower shields).",
+        "esES": "Los caballeros de la muerte son proficientes con todas las simples y {g|Encyclopedia:Weapon_Proficiency}armas marciales{/g}, Espadas bastardas, con todos los tipos de armaduras (pesadas, medias y ligeras), y con escudos (excepto escudos de la torre)"
+    },
+    {
+        "Key": "DeathKnightProgression.Name",
+        "ProcessTemplates": false,
+        "enGB": "Death Knight Progression",
+        "esES": "Caballero de la Muerte Progresión"
+    },
+    {
+        "Key": "DeathknightClass.Name",
+        "ProcessTemplates": false,
+        "enGB": "Death Knight",
+        "esES": "Caballero de la Muerte"
+    },
+    {
+        "Key": "DeathknightClass.Description",
+        "enGB": "Death knights, often abbreviated to DK, are melee fighters that wield dark magic and runeforged weapons. Are Champions of the dead and want specialize in blood, cold or undeads",
+        "esES": "Caballeros de la Muerte son guerreros cuerpo a cuerpo que usar magia oscura y armas rúnicas. Son campeones de la muerte y se pueden especializar en sangre, frio o muertos"
+    },
+    {
+        "Key": "SmiteLifeBuff.Name",
+        "ProcessTemplates": false,
+        "enGB": "Smite Life",
+        "esES": "Castigar la vida"
+    },
+    {
+        "Key": "SmiteLifeBuff.Description",
+        "enGB": "Once per day, an Death knight can call out to the dark powers to crush the forces of life. As a swift action, the Deathknight chooses one target within sight to smite. If this target is life, the antipaladin adds his Charisma bonus (if any) on his attack rolls. In addition, while smite good is in effect, the Deathknight  gains a deflection bonus equal to his Charisma modifier(if any) to his AC against attacks made by the target of the smite. If the antipaladin targets a creature that is undead, the smite is wasted with no effect",
+        "esES": "El Caballero de la muerte puede llamar los poderes oscuros para aplastar las fuerzas de la vida. Como una acción gratuita, el Caballero de la muerte escoge un objetivo del castigo. Si el objetivo no es un no muerto el Caballero de la muerte añade su carisma bonus a sus tiradas de ataque. En adición el Caballero de la muerte gana un bonus de deflection al AC igual a su charisma contra el objetivo de su castigo. Si el objetivo es un no muerto el castigo es gastado sin efecto"
+    },
+    {
+        "Key": "SmiteLifeAbility.Name",
+        "ProcessTemplates": false,
+        "enGB": "Smite Life",
+        "esES": "Castigar la vida"
+    },
+    {
+        "Key": "SmiteLifeAbility.Description",
+        "enGB": "Once per day, an Death knight can call out to the dark powers to crush the forces of life. As a swift action, the Deathknight chooses one target within sight to smite. If this target is life, the antipaladin adds his Charisma bonus (if any) on his attack rolls. In addition, while smite good is in effect, the Deathknight  gains a deflection bonus equal to his Charisma modifier(if any) to his AC against attacks made by the target of the smite. If the antipaladin targets a creature that is undead, the smite is wasted with no effect, the smite life effect remains until the target of the smite is dead or the next time the Death Knight rest and regains his uses of this ability. ",
+        "esES": "El Caballero de la muerte puede llamar los poderes oscuros para aplastar las fuerzas de la vida. Como una acción gratuita, el Caballero de la muerte escoge un objetivo del castigo. Si el objetivo no es un no muerto el Caballero de la muerte añade su carisma bonus a sus tiradas de ataque. En adición el Caballero de la muerte gana un bonus de deflection al AC igual a su charisma contra el objetivo de su castigo. Si el objetivo es un no muerto el castigo es gastado sin efecto, castigar la vida permanece hasta que el objetivo del castigo está muerto o hasta el siguiente descanso. En nivel 4 y cada 3 niveles más, el Caballero de la Muerte podría castigar a la vida un adicional vez por día como está indicado en tabla hasta un máximo de 7 veces en nivel 19"
+    },
+    {
+        "Key": "SmiteLifeAbility.Duration",
+        "enGB": "Until the target of Smite Life is dead",
+        "esES": "Hasta que el objetivo de Castigar Vida está muerto"
+    },
+    {
+        "Key": "SmiteLifeAbility.SavingThrow",
+        "enGB": "None",
+        "esES": "Ninguno"
+    },
+    {
+        "Key": "SmiteLifeFeature.Name",
+        "ProcessTemplates": false,
+        "enGB": "Smite Life",
+        "esES": "Castigar la vida"
+    },
+    {
+        "Key": "SmiteLifeFeature.Description",
+        "enGB": "Once per day, an Death knight can call out to the dark powers to crush the forces of life. As a swift action, the Deathknight chooses one target within sight to smite. If this target is life, the antipaladin adds his Charisma bonus (if any) on his attack rolls. In addition, while smite good is in effect, the Deathknight  gains a deflection bonus equal to his Charisma modifier(if any) to his AC against attacks made by the target of the smite. If the antipaladin targets a creature that is undead, the smite is wasted with no effect, the smite life effect remains until the target of the smite is dead or the next time the Death Knight rest and regains his uses of this ability. ",
+        "esES": "El Caballero de la muerte puede llamar los poderes oscuros para aplastar las fuerzas de la vida. Como una acción gratuita, el Caballero de la muerte escoge un objetivo del castigo. Si el objetivo no es un no muerto el Caballero de la muerte añade su carisma bonus a sus tiradas de ataque. En adición el Caballero de la muerte gana un bonus de deflection al AC igual a su charisma contra el objetivo de su castigo. Si el objetivo es un no muerto el castigo es gastado sin efecto, castigar la vida permanece hasta que el objetivo del castigo está muerto o hasta el siguiente descanso. En nivel 4 y cada 3 niveles más, el Caballero de la Muerte podría castigar a la vida un adicional vez por día como está indicado en tabla hasta un máximo de 7 veces en nivel 19"
+    },
+    {
+        "Key": "SmiteLifeAditionalUse.Name",
+        "ProcessTemplates": false,
+        "enGB": "Smite Life - Aditional Use",
+        "esES": "Castigar la vida - Uso Adicional"
+    },
+    {
+        "Key": "SmiteLifeAditionalUse.Description",
+        "enGB": "At 4th level and at every three levels thereafter, the Death Kinght may smite life one aditional time per day, as indicated on Table:Death Knight, to a maximum of seven times per day at 19th level.",
+        "esES": "En nivel 4 y cada 3 niveles más, el Caballero de la Muerte podría castigar a la vida un adicional vez por día como está indicado en tabla hasta un máximo de 7 veces en nivel 19"
+    },
+    {
+        "Key": "DeathCoilAbility.Name",
+        "ProcessTemplates": false,
+        "enGB": "Death Coil",
+        "esES": "Espiral de Muerte"
+    },
+    {
+        "Key": "DeathCoilAbility.Description",
+        "enGB": "Begining at 2nd level the Death Knigh can touch one unit inflicted 1d6 negative damage by level healing undead units",
+        "esES": "Comenzando en nivel 2 el Caballero de la Muerte puede tocar a una unidad inflingiendo 1d6 daño de energia negativa por nivel y cura a los muertos vivientes"
+    },
+    {
+        "Key": "DeathCoilFeature.Name",
+        "ProcessTemplates": false,
+        "enGB": "Death Coil",
+        "esES": "Espiral de Muerte"
+    },
+    {
+        "Key": "DeathCoilFeature.Description",
+        "enGB": "Begining at 2nd level the Death Knigh can touch one unit inflicted 1d4 negative damage healing undead units",
+        "esES": "Comenzando en nivel 2 el Caballero de la Muerte puede tocar a una unidad inflingiendo 1d4 daño de energia negativa y cura a los muertos vivientes"
+    },
+    {
+        "Key": "RuneEnchancementFrostBuff.Name",
+        "ProcessTemplates": false,
+        "enGB": "Frost Strike",
+        "esES": "Golpe Helado"
+    },
+    {
+        "Key": "RuneEnchancementFrostBuff.Description",
+        "enGB": "Daily uses of 1 + Charisma give bonus 2 frost damage by each 4 levels (4 when use two handed weapon), add her charisma bonus to attack rolls and change damage to cold by 1 minute",
+        "esES": "Usos diarios de 1 + Charisma bonus obtienes 2 de daño de frio extra por cada 4 niveles (4 cuando empuñas un arma a dos manos), añade tu carisma bonus a tu bonus de ataque y cambia todo tu daño a frio por 1 minuto"
+    },
+    {
+        "Key": "RuneEnchancementFrostAbility.Name",
+        "ProcessTemplates": false,
+        "enGB": "Frost Strike",
+        "esES": "Golpe Helado"
+    },
+    {
+        "Key": "RuneEnchancementFrostAbility.Description",
+        "enGB": "Daily uses of 1 + Charisma give bonus 2 frost damage by each 4 levels (4 when use two handed weapon), add her charisma bonus to attack rolls and change damage to cold by 1 minute",
+        "esES": "Usos diarios de 1 + Charisma bonus obtienes 2 de daño de frio extra por cada 4 niveles (4 cuando empuñas un arma a dos manos), añade tu carisma bonus a tu bonus de ataque y cambia todo tu daño a frio por 1 minuto"
+    },
+    {
+        "Key": "RuneEnchancementFrostBuff2.Name",
+        "ProcessTemplates": false,
+        "enGB": "Frost Strike",
+        "esES": "Golpe Helado"
+    },
+    {
+        "Key": "RuneEnchancementFrostBuff2.Description",
+        "enGB": "Daily uses of 1 + Charisma give bonus 2 frost damage by each 4 levels (4 when use two handed weapon), add her charisma bonus to attack rolls and change damage to cold by 1 minute",
+        "esES": "Usos diarios de 1 + Charisma bonus obtienes 2 de daño de frio extra por cada 4 niveles (4 cuando empuñas un arma a dos manos), añade tu carisma bonus a tu bonus de ataque y cambia todo tu daño a frio por 1 minuto"
+    },
+    {
+        "Key": "RuneEnchancementFrostBuff3.Name",
+        "ProcessTemplates": false,
+        "enGB": "Frost Strike",
+        "esES": "Golpe Helado"
+    },
+    {
+        "Key": "RuneEnchancementFrostBuff3.Description",
+        "enGB": "Daily uses of 1 + Charisma give bonus 2 frost damage by each 4 levels (4 when use two handed weapon), add her charisma bonus to attack rolls and change damage to cold by 1 minute",
+        "esES": "Usos diarios de 1 + Charisma bonus obtienes 2 de daño de frio extra por cada 4 niveles (4 cuando empuñas un arma a dos manos), añade tu carisma bonus a tu bonus de ataque y cambia todo tu daño a frio por 1 minuto"
+    },
+    {
+        "Key": "RuneEnchancementFrostBuff4.Name",
+        "ProcessTemplates": false,
+        "enGB": "Frost Strike",
+        "esES": "Golpe Helado"
+    },
+    {
+        "Key": "RuneEnchancementFrostBuff4.Description",
+        "enGB": "Daily uses of 1 + Charisma give bonus 2 frost damage by each 4 levels (4 when use two handed weapon), add her charisma bonus to attack rolls and change damage to cold by 1 minute",
+        "esES": "Usos diarios de 1 + Charisma bonus obtienes 2 de daño de frio extra por cada 4 niveles (4 cuando empuñas un arma a dos manos), añade tu carisma bonus a tu bonus de ataque y cambia todo tu daño a frio por 1 minuto"
+    },
+    {
+        "Key": "RuneEnchancementFrostBuff5.Name",
+        "ProcessTemplates": false,
+        "enGB": "Frost Strike",
+        "esES": "Golpe Helado"
+    },
+    {
+        "Key": "RuneEnchancementFrostBuff5.Description",
+        "enGB": "Daily uses of 1 + Charisma give bonus 2 frost damage by each 4 levels (4 when use two handed weapon), add her charisma bonus to attack rolls and change damage to cold by 1 minute",
+        "esES": "Usos diarios de 1 + Charisma bonus obtienes 2 de daño de frio extra por cada 4 niveles (4 cuando empuñas un arma a dos manos), añade tu carisma bonus a tu bonus de ataque y cambia todo tu daño a frio por 1 minuto"
+    },
+    {
+        "Key": "RuneEnchancementFrostFeature.Name",
+        "ProcessTemplates": false,
+        "enGB": "Frost Strike",
+        "esES": "Golpe Helado"
+    },
+    {
+        "Key": "RuneEnchancementFrostFeature.Description",
+        "enGB": "Daily uses of 1 + Charisma give bonus 2 frost damage by each 4 levels (4 when use two handed weapon), add her charisma bonus to attack rolls and change damage to cold by 1 minute",
+        "esES": "Usos diarios de 1 + Charisma bonus obtienes 2 de daño de frio extra por cada 4 niveles (4 cuando empuñas un arma a dos manos), añade tu carisma bonus a tu bonus de ataque y cambia todo tu daño a frio por 1 minuto"
+    },
+    {
+        "Key": "DeathKnightSpellbook.Name",
+        "ProcessTemplates": false,
+        "enGB": "Death Knight",
+        "esES": "Caballero de la Muerte"
+    },
+    {
+        "Key": "UndeadMountProgression.Name",
+        "ProcessTemplates": false,
+        "enGB": "",
+        "esES": ""
+    },
+    {
+        "Key": "UndeadMountProgression.Description",
+        "enGB": "",
+        "esES": ""
+    },
+    {
+        "Key": "UndeadMountCompanion.Name",
+        "ProcessTemplates": false,
+        "enGB": "Undead Animal Companion",
+        "esES": "Compañero Animal Muerto Viviente"
+    },
+    {
+        "Key": "UndeadMountCompanion.Description",
+        "enGB": "Undead animal companions are brought to unlife for mount of powerful undead champions",
+        "esES": "Compañeros animales muertos vivientes son traidos a la unvida para ser monturas de poderosos campiones muertos vivientes"
+    },
+    {
+        "Key": "UndeadMountProfaneBonus.Name",
+        "ProcessTemplates": false,
+        "enGB": "Undead Animal Companion Profane Bonus",
+        "esES": "Compañero Animal muerto viviente bonus"
+    },
+    {
+        "Key": "UndeadMountProfaneBonus.Description",
+        "enGB": "+4 bonus Strength and 2 bonues Dexterity",
+        "esES": "4 bonus a la fuerza y 2 bonus a destreza"
+    },
+    {
+        "Key": "UndeadMountCompanionStatBonus.Name",
+        "ProcessTemplates": false,
+        "enGB": "Undead Animal Companion Stat Bonus",
+        "esES": "Bonus Compañero Animal Muerto Viviente"
+    },
+    {
+        "Key": "UndeadMountCompanionStatBonus.Description",
+        "enGB": "+1 Strength, Dexterity,Charisma and +2 AC by each 2 levels",
+        "esES": "+1 Fuerza, Destreza, Carisma y +2 AC por cada 2 niveles"
+    },
+    {
+        "Key": "PlaguedHorseMount.Name",
+        "ProcessTemplates": false,
+        "enGB": "Undead Mount - Horse",
+        "esES": "Montura Muerto Viviente - Caballo"
+    },
+    {
+        "Key": "PlaguedHorseMount.Description",
+        "enGB": "Size: Large, Speed:40, Strenght:20,Dext:18,Charisma:15,Inteligence:2,Wisdom:17 AC:2",
+        "esES": "Tamaño: Largo, Velocidad: 40, Fuerza:20, Destreza:18, Carisma:15, Inteligencia:2, Sabiduría:17, AC:2"
+    },
+    {
+        "Key": "UndeadMountFeatureSelection.Name",
+        "ProcessTemplates": false,
+        "enGB": "Undead Mount",
+        "esES": "Montura - Muerto Viviente"
+    },
+    {
+        "Key": "UndeadMountFeatureSelection.Description",
+        "enGB": "Upon level 5 you can select your undead mount",
+        "esES": "Alcanzado el nivel 5 puedes seleccionar tú montura muerto viviente"
+    },
+    {
+        "Key": "DeathknightColdSpells.Name",
+        "ProcessTemplates": false,
+        "enGB": "Cold Spells",
+        "esES": "Hechizos de Frío"
+    },
+    {
+        "Key": "DeathknightColdSpells.Description",
+        "enGB": "",
+        "esES": ""
+    },
+    {
+        "Key": "DeathknightColdEspecialization.Name",
+        "ProcessTemplates": false,
+        "enGB": "Cold Specialization",
+        "esES": "Especializacion en Frío"
+    },
+    {
+        "Key": "DeathknightColdEspecialization.Description",
+        "enGB": "Combining martial prowess with supernatural cold, frost death knights leave their enemies chilled to the bone—and broken of the will to fight. Unlike mages who learn to harness frost magic to great effect, these death knights are born of it, rime gripping their decaying hearts. These frozen undead warriors wield dual blades to strike with ferocity and inflict deathly cold upon anyone who would stand against them",
+        "esES": "Combinando destreza marcial con frío sobrenatural, los caballeros de la muerte de hielo dejan a sus enemigos helados hasta los huesos y sin voluntad de luchar. A diferencia de los magos que aprenden a utilizar la magia de hielo con gran eficacia, estos caballeros de la muerte nacen de ella, y la escarcha se apodera de sus corazones en descomposición. Estos guerreros no muertos congelados empuñan armas a dos manos para golpear con ferocidad e infligir un frío mortal a cualquiera que se les oponga."
+    },
+    {
+        "Key": "DeathknighEspecialization.Name",
+        "ProcessTemplates": false,
+        "enGB": "Death Knight Especialization",
+        "esES": "Caballero de la Muerte - Especialización"
+    },
+    {
+        "Key": "DeathknighEspecialization.Description",
+        "enGB": "The Deathknight have choose especialization cold - blood - undead",
+        "esES": "El caballero de la muerte puede escoger una especialización Frío - Sangre - Muertos Vivientes"
+    },
+    {
+        "Key": "DeathKnightLichChampion.Name",
+        "ProcessTemplates": false,
+        "enGB": "Undying Lich Champion",
+        "esES": "Campeón Lich muerto viviente"
+    },
+    {
+        "Key": "DeathKnightLichChampion.Description",
+        "enGB": "If you are a Lich you gain +10 Charisma Bonus",
+        "esES": "Si eres un lich ganas +10 Charisma Bonus"
+    },
+    {
+        "Key": "DeathKnightNegativeAffinity.Name",
+        "ProcessTemplates": false,
+        "enGB": "Negative Affinity",
+        "esES": "Afinidad con la energía negativa"
+    },
+    {
+        "Key": "DeathKnightNegativeAffinity.Description",
+        "enGB": "At 5th level Death Knight gain negative energy affinity and +2 bonus on saving throws against. mind-affecting effects, death effects, and poison, He is harmed by positive energy effects and healed by negative",
+        "esES": "En nivel 5 el caballero de la muerte gana afinidad con la energía negativa y +2 bonus en tiros de salvación contra efectos que afecten la mente, efectos de muerte y veneno"
+    },
+    {
+        "Key": "ImprovedEnergyArrow.Name",
+        "ProcessTemplates": false,
+        "enGB": "Energy Spell Strike",
+        "esES": "Golpe de Hechizo de Energía"
+    },
+    {
+        "Key": "ImprovedEnergyArrow.Description",
+        "enGB": "Works how Spell Combat but only for Inflict o Cure Wounds Spells ",
+        "esES": "Trabaja como combate de hechizos pero solo para inflinjir o curar heridas"
+    },
+    {
+        "Key": "DeathKnightUndyingChampion.Name",
+        "ProcessTemplates": false,
+        "enGB": "Death Knight Undead Champion",
+        "esES": "Campeón Muerto viviente"
+    },
+    {
+        "Key": "DeathKnightUndyingChampion.Description",
+        "enGB": "At 20th level, the Death Knight joins the ranks of the undead. His DR increases to 10/bludgeoning and good. His type changes to undead, and he acquires all undead traits. Although immune to disease. The undying champion no longer has a Constitution score. He uses his Charisma score for calculating hit points, Fortitude saves, and any special abilities that rely on Constitution. If you are undead gain +10 Charisma Bonus ",
+        "esES": "En nivel 20, El Caballero de la Muerte completa su transformación en muerto viviente. obteniendo DR 10/bludgeoning and good. Su tipo cambia a muerto viviente y adquiere los rasgos de un muerto viviente. El campeón muerto viviente no tiene puntuación de constitución. El usa su carisma para calcular sus puntos de vida, salvaciones de Fortaleza y cualquier habilidad especial relacionada a la Constitución, Si ya eres un muerto viviente ganas +10 Charisma "
+    }
+]
