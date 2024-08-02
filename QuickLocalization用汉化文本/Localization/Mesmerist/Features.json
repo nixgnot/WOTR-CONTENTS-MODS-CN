@@ -96,8 +96,8 @@
   },
   {
     "Key": "SpellTrick.Description",
-    "zhCN": "允许催眠师消耗一次催眠师诡计使用次数以迅捷动作施放下一个法术",
-    "enGB": "Allows the mesmerist to cast their next spell as a swift action at the cost of one of their mesmerist tricks."
+    "zhCN": "允许催眠师消耗一次催眠师诡计使用次数以自由动作施放下一个法术",
+    "enGB": "Allows the mesmerist to cast their next spell as a free action at the cost of one of their mesmerist tricks."
   },
   {
     "Key": "ReapplyTrick.Name",
@@ -107,8 +107,8 @@
   },
   {
     "Key": "ReapplyTrick.Description",
-    "zhCN": "在你触发一个诡计后,该诡计会重新施加于受术者身上。",
-    "enGB": "After you trigger a trick, the trick is reapplied to the target."
+    "zhCN": "在你触发一个诡计后,该诡计会立即重新施加于受术者身上。",
+    "enGB": "After you trigger a trick, the trick is immediately reapplied to the target."
   },
   {
     "Key": "ConsummateTrickster.Name",
@@ -119,7 +119,7 @@
   {
     "Key": "ConsummateTrickster.Description",
     "zhCN": "欺诈怪客在唬骗，巧手，隐匿检定上获得+1加值。这个加值每3个催眠师等级增加1。",
-    "enGB": "A vexing trickster gains a +1 bonus on Bluff, Thievery, and Stealth checks. This bonus increases by 1 for every 3 mesmerist levels."
+    "enGB": "A vexing trickster gains a +1 bonus on Bluff, Trickery, and Stealth checks. This bonus increases by 1 for every 3 mesmerist levels."
   },
   {
     "Key": "TrickstersEgo.Name",
@@ -142,5 +142,94 @@
     "Key": "ManifoldHijinks.Description",
     "zhCN": "在6级时，欺诈怪客学会了在他的目标中同时植入多个被诡计专长调整后的催眠师诡计（即调整诡计）的能力。在6级时，欺诈怪客可以在单个目标中同时植入两个调整催眠师诡计。在14级时，他可以在一个目标中同时植入最多三个调整催眠师诡计。该能力不会令催眠师能够在单个催眠师诡计上应用多个诡计专长。",
     "enGB": "At 6th level, the vexing trickster learns to implant multiple mesmerist tricks that have been modified by trick feats (henceforth called modified tricks) in his targets’ minds simultaneously. At 6th level, the vexing trickster can implant up to two modified mesmerist tricks in a single target simultaneously. At 14th level, he can implant up to three modified mesmerist tricks in a single target simultaneously. This ability doesn’t allow a mesmerist to apply more than one trick feat to a single mesmerist trick at a time."
+
+  },
+  {
+    "Key": "SloppyDefense.Name",
+    "ProcessTemplates": false,
+    "zhCN": "挫败防守",
+    "enGB": "Sloppy Defense"
+  },
+  {
+    "Key": "SloppyDefense.Description",
+    "zhCN": "迷踪侠的攻击能够毫不费力地击破目标的守备，她将在下一次攻击检定上获得+1环境加值，并且每5个催眠师等级都会额外+1。 ",
+    "enGB": "The vexing daredevil’s attacks effortlessly penetrate the target’s defenses; she gains a +1 circumstance bonus on her next attack roll and +1 for every 5 mesmerist levels she has."
+  },
+  {
+    "Key": "SurpriseStrike.Name",
+    "ProcessTemplates": false,
+    "zhCN": "惊袭打击",
+    "enGB": "Surprise Strike"
+  },
+  {
+    "Key": "SurpriseStrike.Description",
+    "zhCN": "迷踪侠为自己创造机会，突然发起另一次攻击。如果迷踪侠的下次攻击命中，那么她能够以自用动作，用最高攻击加值-5来做出另一次攻击。迷踪侠必须至少达到了7级才能够选择该项夺目虚招。",
+    "enGB": "The vexing daredevil creates an opening so she can squeeze in another strike. If her next attack hits, she can make another attack at her highest attack bonus – 5 as a free action. The vexing daredevil must be at least 7th level to select this dazzling feint"
+  },
+  {
+    "Key": "PiercingStrike.Name",
+    "ProcessTemplates": false,  
+    "zhCN": "穿心痛击",
+    "enGB": "Piercing Strike"
+  },
+  {
+    "Key": "PiercingStrike.Description",
+    "zhCN": "通过从心理上放大目标的痛感，迷踪侠可以造成更多的伤害。如果迷踪侠的下次攻击命中，而且要使用她的痛苦注视（Painful Stare）造成伤害的话，她能够将增加的伤害骰从d6骰变为d8骰。 ",
+    "enGB": "By psychically amplifying the target’s pain, the vexing daredevil causes more damage. If she hits with her next attack and deals damage with her painful stare, she increases the damage dice from d6s to d8s."
+  },
+  {
+    "Key": "Outmanuever.Name",
+    "ProcessTemplates": false,
+    "zhCN": "出奇制胜",
+    "enGB": "Outmanuever"
+  },
+  {
+    "Key": "Outmanuever.Description",
+    "zhCN": "目标做出的所有封住迷踪侠的尝试，都被她那灵动的步伐所挫败。若迷踪侠的下一次攻击命中，她将在AC上获得+1环境加值，并且每5个催眠师等级都会额外+1。 ",
+    "enGB": "The vexing daredevil’s darting movements foil the target’s attempts to box her in. If her next attack hits, the vexing daredevil gains a +1 circumstance bonus to AC and +1 for every 5 Mesmerist levels she has. "
+  },
+  {
+    "Key": "CriticalStrike.Name",
+    "ProcessTemplates": false,
+    "zhCN": "直取弱点",
+    "enGB": "Critical Strike"
+  },
+  {
+    "Key": "CriticalStrike.Description",
+    "zhCN": "迷踪侠的武器总是瞄准着目标的弱点。如果她的下次攻击的是该夺目虚招的目标，而且攻击造成了重击威胁的话，他就会在在确认重击的检定中获得每3个催眠师等级+1环境加值。 ",
+    "enGB": "Ever alert, the vexing daredevil hones in on the target’s weak points. If her next attack is a critical threat against the target of this dazzling feint, the vexing daredevil gains a circumstance bonus on the roll to confirm that critical hit equal to +1 for every 3 mesmerist levels she possesses."
+  },
+  {
+    "Key": "CombatManeuver.Name",
+    "ProcessTemplates": false,
+    "zhCN": "变招如风",
+    "enGB": "Combat Maneuver"
+  },
+  {
+    "Key": "CombatManeuver.Description",
+    "zhCN": "迷踪侠的攻击模式变得更加难以被识破。迷踪侠在对夺目虚招的目标攻击时额外进行一次缴械战技。",
+    "enGB": "The vexing daredevil’s attack patterns become more difficult to discern. The vexing daredevil does a disarm combat maneuver when attacking the target of their feint."
+  },
+  {
+    "Key": "BlindingStrike.Name",
+    "ProcessTemplates": false,
+    "zhCN": "致盲闪击",
+    "enGB": "Blinding Strike"
+  },
+  {
+    "Key": "BlindingStrike.Description",
+    "zhCN": "迷踪侠的武器会向敌人的眼睛射出明亮的闪光。如果迷踪侠的下次攻击命中，目标必须进行一次强韧豁免检定，失败则会目盲1轮。",
+    "enGB": "The vexing daredevil’s weapon emits a bright flash of light into the opponent’s eyes. If the vexing daredevil’s next attack hits, the target must succeed at a Fortitude saving throw or be blinded for 1 round."
+  },
+  {
+    "Key": "DazzlingFeint.Name",
+    "ProcessTemplates": false,
+    "zhCN": "夺目虚招",
+    "enGB": "Dazzling Feint"
+  },
+  {
+    "Key": "DazzlingFeint.Description",
+    "zhCN": "3级起，每当迷踪侠成功对一个生物使用虚招，而且该生物正受到她的催眠注视（Hypnotic Stare）影响的话，迷踪侠能够从后述夺目虚招中选取一个好处并将其激活。除非另有说明，夺目虚招的好处只能应用至迷踪侠在该轮内的下一次攻击上。她会在3级以及之后的每4个等级选择一项夺目虚招。夺目虚招效果如果需要任何豁免检定的话，其DC均为10 + 1/2迷踪侠的职业等级 + 她的魅力调整值。每个夺目虚招仅能被迷踪侠选取一次。",
+    "enGB": "At 3rd level, each time a vexing daredevil successfully feints against a creature, she also executes her dazzling feints. Unless otherwise stated, a dazzling feint’s benefit applies only on the vexing daredevil’s next attack this round. She selects one dazzling feint at 3rd level and another every 4 levels thereafter. The DC for any saving throw against a dazzling feint’s effect is equal to 10 + 1/2 the vexing daredevil’s class level + her Charisma modifier. The vexing daredevil can’t choose the same dazzling feint more than once."
   }
 ]
