@@ -181,6 +181,7 @@
 | [HombrewFighterMagus](#HombrewFighterMagus) | 原创魔战 | QL汉化 | :x: | :+1:| :file_folder: |🛠️||
 | [Prestige-Minus](#Prestige-Minus) | 小队伍游玩 | 部分自带 | :heavy_check_mark: | :+1::+1:| :file_folder: |🛠️🛠️🛠️||
 | [Mesmerist](#Mesmerist) | 催眠师 | QL汉化 | :heavy_check_mark: | :+1:| :file_folder: :file_folder: |||
+| [deathknightandmore](#deathknightandmore) | 死亡骑士 | QL汉化 | :heavy_check_mark: || :file_folder: |||
 
 备注
 + UMM一栏为是否使用UMM安装
@@ -4697,7 +4698,7 @@ C:\Users\你的用户名\AppData\LocalLow\Owlcat Games\Pathfinder Wrath Of The R
 > *前置：* ModMenu<br>
 > *中文：* **QL汉化**<br>
 > *安装方式：* **UMM**<br>
-> *新增内容：*
+> *新增内容：* 
 <table>
 <tr><th colspan="5">新增内容列表<br></th></tr> 
    <tr><td rowspan="3">催眠师 Mesmerist<br></th></tr> 
@@ -4716,6 +4717,17 @@ C:\Users\你的用户名\AppData\LocalLow\Owlcat Games\Pathfinder Wrath Of The R
            <td>游荡诡计 Bouncing Trick<br>你可以通过直觉动作将诡计改向另一个30尺内的目标。改变目标后的诡计会立即植入新目标的精神中，就如同它是初始的目标一样。</td></tr>
        <tr><td>法术诡计 Spell Trick<br>允许催眠师消耗一次催眠师诡计使用次数以迅捷动作施放下一个法术</td></tr>
        <tr><td>重施诡计 Reapply Trick<br>在你触发一个诡计后,该诡计会重新施加于受术者身上。</td></tr>
+</table>   
+------------------------------------------- 
+
+### [deathknightandmore](https://gitlab.com/AngeloRP93/deathknightandmore/-/releases)
+> *前置：* 作者没说，但肯定需要MicroscopicContentExpansion<br>
+> *中文：* **QL汉化**<br>
+> *安装方式：* **UMM**<br>
+> *新增内容：* 添加以魔兽世界中的死亡骑士为原型的反圣武士变体
+<table>
+<tr><th colspan="5">新增内容列表<br></th></tr> 
+   <tr><td rowspan="3">死亡骑士 Death Knight<br></th></tr> 
 </table>   
 ------------------------------------------- 
 
