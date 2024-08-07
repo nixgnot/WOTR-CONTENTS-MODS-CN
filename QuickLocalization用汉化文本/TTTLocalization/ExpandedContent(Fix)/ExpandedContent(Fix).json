@@ -27017,6 +27017,62 @@
       "ProcessTemplates": false,
       "zhCN": "虚空之触",
       "enGB": "Touch of the Void Upgrade"
+    },
+    {
+      "Key": "9fac3f989b324380bc4e92d086f57f5c",
+      "SimpleName": "DeepOneCurseFeatureLevel1.Description",
+      "ProcessTemplates": true,
+      "zhCN": "黑暗幽邃的大海呼唤着你的灵魂。\n你的陆地移动速度降低5尺。",
+      "enGB": "The lure of the ocean tugs at your soul. \nYou reduce your base land speed by 5 feet."
+    },
+    {
+      "Key": "5873a90ca998423199bb2e350410ff30",
+      "SimpleName": "DeepOneCurseFeatureLevel1.Name",
+      "ProcessTemplates": false,
+      "zhCN": "深裔",
+      "enGB": "Deep One"
+    },
+    {
+      "Key": "6d759439967f43f8b9a74552a922e803",
+      "SimpleName": "DeepOneCurseFeatureLevel10.Description",
+      "ProcessTemplates": true,
+      "zhCN": "当你释放带有寒冷描述符的法术时，施法者等级+1。",
+      "enGB": "You gain a +1 bonus to your caster level when casting spells with the cold descriptor."
+    },
+    {
+      "Key": "38b31a9e653547ad8af203b786e8bf6b",
+      "SimpleName": "DeepOneCurseFeatureLevel15.Description",
+      "ProcessTemplates": true,
+      "zhCN": "在15级时，将元素之躯 - 水 (I，II，III，IV)加入你的先知法术列表。在这些法术或水幕拒敌效果影响下时，你获得法术行动自如的好处。",
+      "enGB": "At 15th level, add elemental body - water (I,II,III,IV) to your list of oracle spells known. While under the effects of these spells or the seamantle spell, gain the benefits of the freedom of movement spell."
+    },
+    {
+      "Key": "cbec91dbd79e4bfe82f073a8908b2cbd",
+      "SimpleName": "DeepOneCurseFeatureLevel5.Description",
+      "ProcessTemplates": true,
+      "zhCN": "你的皮肤变得软厚，使你的天生护甲加值提升1点。",
+      "enGB": "Your natural armor bonus increases by 1 as your skin thickens."
+    },
+    {
+      "Key": "f3805f074a9b472b985774e711ca46b4",
+      "SimpleName": "DeepOneCurseNoProgression.Description",
+      "ProcessTemplates": true,
+      "zhCN": "黑暗幽邃的大海呼唤着你的灵魂。\n你的陆地移动速度降低5尺。\n在5级时，你的皮肤变得软厚，使你的天生护甲加值提升1点。\n在10级时，当你释放带有寒冷描述符的法术时，施法者等级+1。\n在15级时，将元素之躯 - 水 (I，II，III，IV)加入你的先知法术列表。在这些法术或水幕拒敌效果影响下时，你获得法术行动自如的好处。",
+      "enGB": "The lure of the ocean tugs at your soul. \nYou reduce your base land speed by 5 feet. \nAt 5th level, your natural armor bonus increases by 1 as your skin thickens. \nAt 10th level, you gain a +1 bonus to your caster level when casting spells with the cold descriptor. \nAt 15th level, add elemental body - water (I,II,III,IV) to your list of oracle spells known. \nWhile under the effects of these spells or the seamantle spell, gain the benefits of the freedom of movement spell."
+    },
+    {
+      "Key": "fa04538f8b3f4e27854e1171251a38b4",
+      "SimpleName": "DeepOneCurseProgression.Description",
+      "ProcessTemplates": true,
+      "zhCN": "黑暗幽邃的大海呼唤着你的灵魂。\n你的陆地移动速度降低5尺。\n在5级时，你的皮肤变得软厚，使你的天生护甲加值提升1点。\n在10级时，当你释放带有寒冷描述符的法术时，施法者等级+1。\n在15级时，将元素之躯 - 水 (I，II，III，IV)加入你的先知法术列表。在这些法术或水幕拒敌效果影响下时，你获得法术行动自如的好处。",
+      "enGB": "The lure of the ocean tugs at your soul. \nYou reduce your base land speed by 5 feet. \nAt 5th level, your natural armor bonus increases by 1 as your skin thickens. \nAt 10th level, you gain a +1 bonus to your caster level when casting spells with the cold descriptor. \nAt 15th level, add elemental body - water (I,II,III,IV) to your list of oracle spells known. While under the effects of these spells or the seamantle spell, gain the benefits of the freedom of movement spell."
+    },
+    {
+      "Key": "4e8928d4d6404f90bd97b3aaeb8292c6",
+      "SimpleName": "BeneficialDeepOneCurseProgression.Description",
+      "ProcessTemplates": true,
+      "zhCN": "黑暗幽邃的大海呼唤着你的灵魂。\n你的陆地移动速度降低5尺。\n在5级时，你的皮肤变得软厚，使你的天生护甲加值提升1点。\n在10级时，当你释放带有寒冷描述符的法术时，施法者等级+1。\n在15级时，将元素之躯 - 水 (I，II，III，IV)加入你的先知法术列表。在这些法术或水幕拒敌效果影响下时，你获得法术行动自如的好处。",
+      "enGB": "The lure of the ocean tugs at your soul. \nYou reduce your base land speed by 5 feet. \nAt 5th level, your natural armor bonus increases by 1 as your skin thickens. \nAt 10th level, you gain a +1 bonus to your caster level when casting spells with the cold descriptor. \nAt 15th level, add elemental body - water (I,II,III,IV) to your list of oracle spells known. \nWhile under the effects of these spells or the seamantle spell, gain the benefits of the freedom of movement spell."
     }    
   ]
 }
