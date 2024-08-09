@@ -2043,10 +2043,12 @@
 + **更新临时修复方法：在[Release页面](https://github.com/nixgnot/WOTR-CONTENTS-MODS-CN/releases)下载HAMonkProgression.patch，然后替换掉MOD文件夹下的Blueprints里同名文件**
  <table>
  <tr><th colspan="3">新增内容列表<br>详细介绍可以参阅汉化发布贴或游戏内说明</th></tr> 
-   <tr><td colspan="2" rowspan="2">职业</td>
+   <tr><td colspan="2" rowspan="4">职业</td>
        <td>Investigator 调查员及变体：Jinyiwei 锦衣卫、Questioner 发问者、Empiricist 演绎家</td></tr>
-  <tr><td>NPC职业：5个NPC用职业，基本白板</td></tr>
-  <tr><td rowspan="28">变体</td>
+           <tr><td>NPC职业：5个NPC用职业，基本白板</td></tr>
+	   <tr><td>Champion 英杰：无阵营限制的圣武士，可选择誓约（暂未实装）</td></tr>
+	   <tr><td>Freedom Fighter 自由斗士：拥有偷袭和幸运天赋的半身人战士</td></tr>
+  <tr><td rowspan="30">变体</td>
     <td rowspan="2">奥能师</td>
          <td>Blood Arcanist 血奥师</td></tr>
          <tr><td>School Savant 学派家</td></tr>
@@ -2090,6 +2092,11 @@
          <td>Undead Master 死灵之主</td></tr>
      <tr><td rowspan="1">巫师</td>      
          <td>Scarred Witch Doctor 疤痕巫医</td></tr>
+     <tr><td rowspan="1">游荡者</td>      
+         <td>Carnivalist 游艺人</td></tr>
+  <tr><td rowspan="2">职业选项</td>
+    <td rowspan="2">奥能师（魔法诈欺师）</td>
+         <td>False Prophet 伪先知</td></tr>   
   <tr><td colspan="2" rowspan="2">进阶职业</td>
        <td>Razmiran Priest 拉兹密安牧师</td>
   <tr><td>Assassin 刺客</td></tr>
