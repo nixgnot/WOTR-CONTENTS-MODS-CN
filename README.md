@@ -2047,7 +2047,7 @@
        <td>Investigator 调查员及变体：Jinyiwei 锦衣卫、Questioner 发问者、Empiricist 演绎家</td></tr>
            <tr><td>NPC职业：5个NPC用职业，基本白板</td></tr>
 	   <tr><td>Champion 英杰：无阵营限制的圣武士，可选择誓约（暂未实装）</td></tr>
-	   <tr><td>Freedom Fighter 自由斗士：拥有偷袭和幸运天赋的半身人战士</td></tr>
+	   <tr><td>Freedom Fighter 自由斗士：拥有偷袭和幸运天赋的半身人战士（未完成）</td></tr>
   <tr><td rowspan="29">变体</td>
     <td rowspan="2">奥能师</td>
          <td>Blood Arcanist 血奥师</td></tr>
