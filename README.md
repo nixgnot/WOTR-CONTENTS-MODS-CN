@@ -2076,11 +2076,11 @@
          <td>Hellcat 地狱猫</td></tr>
          <tr><td>Monk of the Mantis 螳螂拳僧</td></tr>
     <tr><td rowspan="5">圣武士</td>      
-         <td>Oathbound - Oath of Vengeance 圣武士 - 复仇誓约圣武士</td></tr>
-         <tr><td>Oathbound - Oath of the People's Council 圣武士 - 人民民主誓约圣武士</td></tr>
-         <tr><td>Wilderness Warden 圣武士 - 荒野守望者</td></tr>
-         <tr><td>Holy Guide 圣武士 - 神圣向导</td></tr>
-         <tr><td>Faithful Wanderer 圣武士 - 虔信流浪者(<b>暂未汉化<b>)</td></tr>
+         <td>Oathbound - Oath of Vengeance 复仇誓约圣武士</td></tr>
+         <tr><td>Oathbound - Oath of the People's Council 人民民主誓约圣武士</td></tr>
+         <tr><td>Wilderness Warden 荒野守望者</td></tr>
+         <tr><td>Holy Guide 神圣向导</td></tr>
+         <tr><td>Faithful Wanderer 虔信流浪者</td></tr>
      <tr><td rowspan="1">先知</td>       
          <td>Ancient Lorekeeper 传古学者</td></tr>
      <tr><td rowspan="2">游侠</td>      
@@ -2095,7 +2095,7 @@
      <tr><td rowspan="1">游荡者</td>      
          <td>Carnivalist 游艺人</td></tr>
   <tr><td rowspan="2">职业选项</td>
-    <td rowspan="2">奥能师（魔法诈欺师）</td>
+    <td rowspan="1">奥能师（魔法诈欺师）</td>
          <td>False Prophet 伪先知</td></tr>   
   <tr><td colspan="2" rowspan="2">进阶职业</td>
        <td>Razmiran Priest 拉兹密安牧师</td>
