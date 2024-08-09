@@ -2048,7 +2048,7 @@
            <tr><td>NPC职业：5个NPC用职业，基本白板</td></tr>
 	   <tr><td>Champion 英杰：无阵营限制的圣武士，可选择誓约（暂未实装）</td></tr>
 	   <tr><td>Freedom Fighter 自由斗士：拥有偷袭和幸运天赋的半身人战士</td></tr>
-  <tr><td rowspan="30">变体</td>
+  <tr><td rowspan="29">变体</td>
     <td rowspan="2">奥能师</td>
          <td>Blood Arcanist 血奥师</td></tr>
          <tr><td>School Savant 学派家</td></tr>
@@ -2094,7 +2094,7 @@
          <td>Scarred Witch Doctor 疤痕巫医</td></tr>
      <tr><td rowspan="1">游荡者</td>      
          <td>Carnivalist 游艺人</td></tr>
-  <tr><td rowspan="2">职业选项</td>
+  <tr><td rowspan="1">职业选项</td>
     <td rowspan="1">奥能师（魔法诈欺师）</td>
          <td>False Prophet 伪先知</td></tr>   
   <tr><td colspan="2" rowspan="2">进阶职业</td>
