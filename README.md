@@ -4345,7 +4345,7 @@ C:\Users\你的用户名\AppData\LocalLow\Owlcat Games\Pathfinder Wrath Of The R
        <tr><td colspan="2">猎牙行动 Tooth Hunt<br>你呈现出小牙仙的形态。如同妖精形态III，你获得以下能力：敏捷+8体型加值，力量–4减值，DR 2/寒铁，飞行速度（机动性良好，肯定比狮鹫更好）。小牙仙是一种微型生物，可以使用武器，以及一次噬咬攻击（1d4）。</td></tr>
        <tr><td colspan="2">贪婪纹章 Emblem of Greed<br>你用魔法塑造一把燃烧的大砍刀。该武器适合你的体型，并具有+1增强加值（15级+2 19级+3）和烈焰武器特殊能力。当挥舞这把大砍刀时，你视为擅长它，并使用你的施法者等级作为你的基本攻击加值（这可能会给你带来多次攻击）。</td></tr>
        <tr><td colspan="2">赫氏潜能术 Hermean Potential<br>你赐予目标通过清晰的头脑完美执行动作的能力。在目标尝试下一次攻击投骰，豁免检定或技能检定时，可以投骰两次，并取更有利的结果。你每有5个施法者等级，目标就可以额外重骰一次（次数最多在20级时达到5次）。</td></tr>
-       <tr><td rowspan="15">其余修改</i></td>
+       <tr><td rowspan="17">其余修改</i></td>
        <tr><td colspan="2">修改标记<br>所有修改内容在其描述中都标记为已修改，无需切换：p</td></tr>
        <tr><td colspan="2">拔刀术 Quick Draw<br>如果剑爵已经拥有拔刀术或者警觉专长，他获得阿尔多瑞决斗精通作为额外专长。</td></tr>
        <tr><td colspan="2">桌面擒获注能 Tabletop Grappling Infusion<br>有一个可切换选项，允许你使用战技检定，来使念袭擒抱该对手，而不是让敌人进行反射豁免。你在本次检定中的加值等于2+你的动能师等级+你的体质调整值（将念袭视为超大型生物）。逃脱擒抱的DC等于10+其 CMB。</td></tr>
@@ -4356,6 +4356,8 @@ C:\Users\你的用户名\AppData\LocalLow\Owlcat Games\Pathfinder Wrath Of The R
        <tr><td colspan="2">英语学习模式 English Learning Mode<br>显示英语对话以及你的任何其他语言（默认关闭）</td></tr>
        <tr><td colspan="2">修复高难度cmd Fix Difficulty CMD Tripple-Dipped<br>这将在较高难度下显着降低敌人的 CMD。CMD 是通过添加力量加值、敏捷加值和AC加值来计算的，这意味着原版难度属性提升在cmd中提升了3次，导致数值完全疯了。</td></tr>
        <tr><td colspan="2">修复猛力攻击 Fix Power Attack<br>现在按描述工作：如果您使用副手武器进行攻击，则伤害加成减半（–50%）。请注意，食人鱼打击也有相同的错误，但尚未修复，因为这可能会让食人鱼打击比猛力攻击更具优势，这非常酷。</td></tr>
+       <tr><td colspan="2">持久法术效果死亡后不会结束（默认开启） Enduring Spells Stay On Death<br>现在有了持久法术之后，你的buff效果在死亡后仍然有效，减少读档次数 :)</td></tr>
+       <tr><td colspan="2">次元反击现在无视次元锁（默认开启） Dimensional Retribution Bypasses Dimensional Lock<br>现在有了次元反击，传送效果不再只局限于特定区域</td></tr>
        <tr><td colspan="2">Bug Fix<br>修复了俯卧单位可以被绊摔的错误。如果你想允许某种踢头，请在ModMenu中将其关闭。</td></tr>
        <tr><td colspan="2">Bug Fix<br>修复了创建区域效果的物理念袭不算作魔法的错误。</td></tr>
        <tr><td colspan="2">Bug Fix<br>修复了锯齿刀不能双手握持的错误（？）。</td></tr>
