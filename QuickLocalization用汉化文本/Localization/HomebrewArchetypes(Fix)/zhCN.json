@@ -1,4 +1,4 @@
-[
+﻿[
 	{
             "Key": "HomebrewArchtypes_ChildofWar", 
             "zhCN": "旧神圣子"
@@ -273,7 +273,7 @@
         },
         {
             "Key": "HomebrewArchtypes_DervishofDawnBattleDanceofGreatnessDesc", 
-            "zhCN": "9级起，晨光舞者可以用他的表演激励自己，获得额外的战斗能力。 一个受激励的晨光舞者获得4HD(d10)，相应的临时生命值(如果存在，应用目标的体质修正值)，攻击骰上获得+4表现加值，强韧豁免上+2表现加值。"
+            "zhCN": "9级起，晨光舞者可以用他的表演激励自己，获得额外的战斗能力。 一个受激励的晨光舞者获得4HD(d10)，相应的临时生命值(如果存在，应用目标的体质调整值)，攻击骰上获得+4表现加值，强韧豁免上+2表现加值。"
         },
         {
             "Key": "HomebrewArchtypes_DervishofDawnBattleDanceofHeroics", 
@@ -4399,5 +4399,300 @@
 		{
             "Key": "HomebrewArchtypes_ChampionHolyChampionDesc", 
             "zhCN": "达到20级时，英杰成为了她誓约的化身。{g|Encyclopedia:Damage_Reduction}伤害减免{/g}提升至10/{g|Encyclopedia:Alignment}邪恶{/g}，当其引导正向能量或使用圣疗{g|Encyclopedia:Healing}治疗{/g}生物时，治疗量达到最大。"
+        },
+		{
+            "Key": "HomebrewArchtypes_SpellbladeName", 
+            "zhCN": "暗月骑士"
+        },
+		{
+            "Key": "HomebrewArchtypes_SpellbladeDesc", 
+            "zhCN": "暗月骑士团是一个来自不起眼贵族家庭的小型组织。骑士们挥舞着魔法之刃来施展魔法。他们是自己家园的守护者，会拼尽全力使用魔法保护家人。"
+        },
+		{
+            "Key": "HomebrewArchtypes_SpellbladeShort", 
+            "zhCN": "暗月骑士是能从武器中释放魔法的魔法剑士，他们能凭借一连串的魔法攻击来成为有效的攻击输出者。"
+        },
+		{
+            "Key": "HomebrewArchtypes_ChampionOathSelectionName", 
+            "zhCN": "Take your Oath"
+        },
+		{
+            "Key": "HomebrewArchtypes_ChampionOathSelectionDesc", 
+            "zhCN": "Upon becoming a champion you take an oath that defines the goals you or your deity stand for. Once taken the oath is forever binding and can never be changed. Breaking the oath will cause the champion to lose its powers and abilities. The oath itself will grant the champion unique powers depending on the oath taken."
+        },
+		{
+            "Key": "HomebrewArchtypes_ChampionOathDevotionName", 
+            "zhCN": "Oath of Devotion"
+        },
+		{
+            "Key": "HomebrewArchtypes_ChampionOathDevotionDesc", 
+            "zhCN": "The Oath of Devotion binds a champion to the loftiest ideals of justice, virtue, and order. Sometimes called cavaliers, white knights, or holy warriors, these champions meet the ideal of the knight in shining armor, acting with honor in pursuit of justice and the greater good. They hold themselves to the highest standards of conduct, and some, for better or worse, hold the rest of the world to the same standards. Many who swear this oath are devoted to gods of law and good and use their gods' tenets as the measure of their devotion. They hold angels – the perfect servants of good – as their ideals, and incorporate images of angelic wings into their helmets or coats of arms.
+			
+Tenets of Devotion
+
+Though the exact words and strictures of the Oath of Devotion vary, champions of this oath share these tenets.
+
+Honesty - Don't lie or cheat. Let your word be your promise.
+
+Courage - Never fear to act, though caution is wise.
+
+Compassion - Aid others, protect the weak, and punish those who threaten them. Show mercy to your foes, but temper it with wisdom.
+
+Honor - Treat others with fairness, and let your honorable deeds be an example to them. Do as much good as possible while causing the least amount of harm.
+
+Duty - Be responsible for your actions and their consequences, protect those entrusted to your care, and obey those who have just authority over you."
+        },
+		{
+            "Key": "HomebrewArchtypes_ChampionOathAncientsName", 
+            "zhCN": "Oath of the Ancients"
+        },
+		{
+            "Key": "HomebrewArchtypes_ChampionOathAncientsDesc", 
+            "zhCN": "The Oath of the Ancients is as old as the race of elves and the rituals of the druids. Sometimes called fey knights, green knights, or horned knights, champions who swear this oath cast their lot with the side of the light in the cosmic struggle against darkness because they love the beautiful and life-giving things of the world, not necessarily because they believe in principles of honor, courage, and justice. They adorn their armor and clothing with images of growing things-leaves, antlers, or flowers-to reflect their commitment to preserving life and light in the world.
+			
+Tenets of the Ancients
+
+The tenets of the Oath of the Ancients have been preserved for uncounted centuries. This oath emphasizes the principles of good above any concerns of law or chaos. Its four central principles are simple.
+
+Kindle the Light - Through your acts of mercy, kindness, and forgiveness, kindle the light of hope in the world, beating back despair.
+
+Shelter the Light - Where there is good, beauty, love, and laughter in the world, stand against the wickedness that would swallow it. Where life flourishes, stand against the forces that would render it barren.
+
+Preserve Your Own Light - Delight in song and laughter, in beauty and art. If you allow the light to die in your own heart, you can't preserve it in the world.
+
+Be the Light - Be a glorious beacon for all who live in despair. Let the light of your joy and courage shine forth in all your deeds."
+        },
+		{
+            "Key": "HomebrewArchtypes_ChampionOathVengeanceName", 
+            "zhCN": "Oath of Vengeance"
+        },
+		{
+            "Key": "HomebrewArchtypes_ChampionOathVengeanceDesc", 
+            "zhCN": "The Oath of Vengeance is a solemn commitment to punish those who have committed a grievous sin. When evil forces slaughter helpless villagers, when an entire people turns against the will of the gods, when a thieves' guild grows too violent and powerful, when a dragon rampages through the countryside – at times like these, champions arise and swear an Oath of Vengeance to set right that which has gone wrong. To these champions – sometimes called avengers or dark knights – their own purity is not as important as delivering justice.
+Tenets of Vengeance
+
+The tenets of the Oath of Vengeance vary by champion, but all the tenets revolve around punishing wrongdoers by any means necessary. Champions who uphold these tenets are willing to sacrifice even their own righteousness to mete out justice upon those who do evil, so the champions are often neutral or lawful neutral in alignment. The core principles of the tenets are brutally simple.
+
+Fight the Greater Evil - Faced with a choice of fighting my sworn foes or combating a lesser evil, I choose the greater evil.
+
+No Mercy for the Wicked - Ordinary foes might win my mercy, but my sworn enemies do not.
+
+By Any Means Necessary - My qualms can't get in the way of exterminating my foes.
+
+Restitution - If my foes wreak ruin on the world, it is because I failed to stop them. I must help those harmed by their misdeeds."
+        },
+		{
+            "Key": "HomebrewArchtypes_ChampionOathConquestName", 
+            "zhCN": "Oath of Conquest"
+        },
+		{
+            "Key": "HomebrewArchtypes_ChampionOathConquestDesc", 
+            "zhCN": "The Oath of Conquest calls to champions who seek glory in battle and the subjugation of their enemies. It isn’t enough for these champions to establish order. They must crush the forces of chaos. Sometimes called knight tyrants or iron mongers, those who swear this oath gather into grim orders that serve gods or philosophies of war and well-ordered might.
+
+Some of these champions go so far as to consort with the powers of the Nine Hells, valuing the rule of law over the balm of mercy. The archdevil Bel, warlord of Avernus, counts many of these champions – called hell knights – as his most ardent supporters. Hell knights cover their armor with trophies taken from fallen enemies, a grim warning to any who dare oppose them and the decrees of their lords. These knights are often most fiercely resisted by other champions of this oath, who believe that the hell knights have wandered too far into darkness.
+
+Tenets of Conquest
+
+A champion who takes this oath has the tenets of conquest seared on the upper arm.
+
+Douse the Flame of Hope - It is not enough to merely defeat an enemy in battle. Your victory must be so overwhelming that your enemies’ will to fight is shattered forever. A blade can end a life. Fear can end an empire.
+
+Rule with an Iron Fist - Once you have conquered, tolerate no dissent. Your word is law. Those who obey it shall be favored. Those who defy it shall be punished as an example to all who might follow.
+
+Strength Above All - You shall rule until a stronger one arises. Then you must grow mightier and meet the challenge, or fall to your own ruin."
+        },
+		{
+            "Key": "HomebrewArchtypes_ChampionOathTreacheryName", 
+            "zhCN": "Oath of Treachery"
+        },
+		{
+            "Key": "HomebrewArchtypes_ChampionOathTreacheryDesc", 
+            "zhCN": "The Oath of Treachery is the path followed by champions who have forsworn other oaths or who care only for their own power and survival. Commonly known as blackguards, these profane warriors are faithful only to themselves. Anyone desperate enough to follow one of these champions does so because, while deceitful, these champions command great power. Those who follow them without falling prey to their treachery hope to indulge in wanton violence and accumulate great treasure.
+
+Many of these champions pay homage to demon lords, especially Grazz’t and Orcus. Even the Lords of Hell are loath to ally with these champions of chaos, but sometimes Baalzebul and Glasya find a kindred spirit in a blackguard’s penchant for double dealing and treachery
+
+Tenets of Treachery
+
+A champion who embraces the Oath of Treachery owes allegiance to no one. There are no tenets of this oath, for it lacks any substance. Those who are unfortunate enough to have close contact with blackguards have observed that a blackguard’s overwhelming concern is power and safety, especially if both can be obtained at the expense of others."
+        },
+		{
+            "Key": "HomebrewArchtypes_ChampionOathDevotionSacredWeaponName", 
+            "zhCN": "Sacred Weapon"
+        },
+		{
+            "Key": "HomebrewArchtypes_ChampionOathDevotionSacredWeaponDesc", 
+            "zhCN": "As a swift action, you can imbue one weapon that you are holding with positive energy, using your Channel Energy. For 1 minute, you add your Charisma modifier as a sacred bonus to attack rolls made with that weapon (with a minimum bonus of +1). The weapon also emits bright light in a 20-foot radius and dim light 20 feet beyond that."
+        },
+		{
+            "Key": "HomebrewArchtypes_DurationMinute", 
+            "zhCN": "1 分钟"
+        },
+		{
+            "Key": "HomebrewArchtypes_FreedomFighterName", 
+            "zhCN": "自由斗士"
+        },
+		{
+            "Key": "HomebrewArchtypes_FreedomFighterDesc", 
+            "zhCN": "自由斗士可谓是半身人天生好运所创造的异象。这些战士训练并引导他们与生俱来的运气，将其转化为神秘的能力，从而改变这些战士及其盟友的命运。自由斗士使用游击战术和他们的能力在战场上获取天然优势。"
+        },
+		{
+            "Key": "HomebrewArchtypes_FreedomFighterShort", 
+            "zhCN": "自由斗士与游荡者相似，擅长在战场上悄无声息地移动，让敌人措手不及，但他们也接受过近身格斗的训练。他们多样化的技能使他们极其灵活多变，而他们操纵半身人运气的能力则为他们提供了巨大的优势，使得很少有人在遇到这些神秘的半身人战士时能够幸存下来。"
+        },
+		{
+            "Key": "HomebrewArchtypes_FreedomFighterProficienciesName", 
+            "zhCN": "自由斗士擅长"
+        },
+		{
+            "Key": "HomebrewArchtypes_FreedomFighterProficienciesDesc", 
+            "zhCN": "自由斗士擅长所有简单和军用武器，以及使用投石杖，同时他们也擅长使用所有类型的护甲（重型、轻型和中型）和盾牌（塔盾除外）。"
+        },
+		{
+            "Key": "HomebrewArchtypes_FreedomFighterTrainingName", 
+            "zhCN": "战员训练"
+        },
+		{
+            "Key": "HomebrewArchtypes_FreedomFighterTrainingDesc", 
+            "zhCN": "7级起，自由斗士在计算符合{g|Encyclopedia:Feat}专长{/g}的前提条件时，可以将自己的自由斗士等级视为战士等级。如果他还拥有战士等级，这些等级会叠加计算。"
+        },
+		{
+            "Key": "HomebrewArchtypes_FreedomFighterAdvancedLuckName", 
+            "zhCN": "天命抉择"
+        },
+		{
+            "Key": "HomebrewArchtypes_FreedomFighterAdvancedLuckDesc", 
+            "zhCN": "10级起，自由斗士可以选择一个天命抉择能力来替代一幸运天赋"
+        },
+		{
+            "Key": "HomebrewArchtypes_FreedomFighterLuckPoolName", 
+            "zhCN": "天命池"
+        },
+		{
+            "Key": "HomebrewArchtypes_FreedomFighterLuckPoolDesc", 
+            "zhCN": "1级起，自由斗士获得天命池，他可以从中汲取幸运来逆天改命。天命池的大小随着自由斗士每提升3级增加（最少为1），再加上他的{g|Encyclopedia:Constitution}体质{/g}调整值。天命池每天刷新一次。"
+        },
+		{
+            "Key": "HomebrewArchtypes_FreedomFighterLuckAbilitySelectionName", 
+            "zhCN": "幸运天赋"
+        },
+		{
+            "Key": "HomebrewArchtypes_FreedomFighterLuckAbilitySelectionDesc", 
+            "zhCN": "随着自由斗士经验的积累，他们会学到许多操纵运气的天赋。2级时，自由斗士获得一个幸运天赋。在之后每提升2级自由斗士等级，他们还会再获得一个幸运天赋。自由斗士不能多次选择同一个天赋，除非天赋的描述中另有说明。"
+        },
+		{
+            "Key": "HomebrewArchtypes_FreedomFighterLuckAbilitySelectionFreedomFinesseScimitarName", 
+            "zhCN": "自由娴熟（重刃）"
+        },
+		{
+            "Key": "HomebrewArchtypes_FreedomFighterLuckAbilitySelectionFreedomFinesseAxesName", 
+            "zhCN": "自由娴熟（斧）"
+        },
+		{
+            "Key": "HomebrewArchtypes_FreedomFighterLuckAbilitySelectionFreedomFinesseCloseName", 
+            "zhCN": "自由娴熟（近身）"
+        },
+		{
+            "Key": "HomebrewArchtypes_FreedomFighterLuckAbilitySelectionFreedomFinesseDoubleName", 
+            "zhCN": "自由娴熟（双头）"
+        },
+		{
+            "Key": "HomebrewArchtypes_FreedomFighterLuckAbilitySelectionFreedomFinesseHammerName", 
+            "zhCN": "自由娴熟（锤）"
+        },
+		{
+            "Key": "HomebrewArchtypes_FreedomFighterLuckAbilitySelectionFreedomFinesseLightBladesName", 
+            "zhCN": "自由娴熟（轻刃）"
+        },
+		{
+            "Key": "HomebrewArchtypes_FreedomFighterLuckAbilitySelectionFreedomFinesseMonkWeaponsName", 
+            "zhCN": "自由娴熟（武僧武器）"
+        },
+		{
+            "Key": "HomebrewArchtypes_FreedomFighterLuckAbilitySelectionFreedomFinesseNaturalWeaponsName", 
+            "zhCN": "自由娴熟（天生）"
+        },
+		{
+            "Key": "HomebrewArchtypes_FreedomFighterLuckAbilitySelectionFreedomFinessePolearmsName", 
+            "zhCN": "自由娴熟（长柄）"
+        },
+		{
+            "Key": "HomebrewArchtypes_FreedomFighterLuckAbilitySelectionFreedomFinesseSpearsName", 
+            "zhCN": "自由娴熟 （矛）"
+        },
+		{
+            "Key": "HomebrewArchtypes_FreedomFighterLuckAbilitySelectionFreedomFinesseScimitarNameDesc", 
+            "zhCN": "每当自由斗士使用选定的武器组成功进行近战攻击时，他们会在伤害骰中加上自己的敏捷调整值，取代原本的力量调整值，并且这些武器被视为可应用武器娴熟的武器。"
+        },
+		{
+            "Key": "HomebrewArchtypes_FreedomFighterLuckAbilitySelectionLuckyStrikesName", 
+            "zhCN": "幸运强击"
+        },
+		{
+            "Key": "HomebrewArchtypes_FreedomFighterLuckAbilitySelectionLuckyStrikesDesc", 
+            "zhCN": "尽管自由斗士相比世界上的其他战士体型较小，但他们已经克服了体型差异，将所使用武器的尺寸视为提高1级。"
+        },
+		{
+            "Key": "HomebrewArchtypes_FreedomFighterLuckAbilitySelectionFortunateStepsName", 
+            "zhCN": "好运步伐"
+        },
+		{
+            "Key": "HomebrewArchtypes_FreedomFighterLuckAbilitySelectionFortunateStepsDesc", 
+            "zhCN": "自由斗士较短的步幅往往战场上成为了一种阻碍，但通过额外的训练，他们克服了这一限制。他们的速度额外获得10点加值。"
+        },
+		{
+            "Key": "HomebrewArchtypes_FreedomFighterCapstoneAbilityName", 
+            "zhCN": "挑战命运"
+        },
+		{
+            "Key": "HomebrewArchtypes_FreedomFighterCapstoneAbilityDesc", 
+            "zhCN": "作为幸运的支配者和命运的挑战者，每天3次，顶级的自由斗士可以消耗一个迅捷动作，使得在接下来的1轮内，所有掷骰都会掷出20点。"
+        },
+		{
+            "Key": "HomebrewArchtypes_FreedomFighterFreedomFinesseName", 
+            "zhCN": "自由娴熟"
+        },
+		{
+            "Key": "HomebrewArchtypes_FreedomFighterFreedomFinesseDesc", 
+            "zhCN": "3级时，自由斗士可以选择一个可以应用武器娴熟、或者被视为可以应用武器娴熟的武器组。一旦做出选择，便不能更改。每当他们使用所选武器成功进行近战攻击时，他们会将敏捷调整值加到伤害骰上，取代原本的力量调整值。如果任何效果会阻止自由斗士将力量调整值加到伤害骰上，那么他们也不会将敏捷调整值加到伤害骰上。在11级时，自由斗士可以选择第二个武器组，在19级时选择第三个。"
+        },
+		{
+            "Key": "HomebrewArchtypes_FreedomFighterLuckAbilityFavortheBoldName", 
+            "zhCN": "勇气眷顾"
+        },
+		{
+            "Key": "HomebrewArchtypes_FreedomFighterLuckAbilityFavortheBoldDesc", 
+            "zhCN": "当选择该能力的自由斗士在操纵运气方面具有非凡能力，使得所有加在其身上的幸运加值效果翻倍。"
+        },
+		{
+            "Key": "HomebrewArchtypes_FreedomFighterLuckAbilityIncreasingFortuneName", 
+            "zhCN": "好运激增"
+        },
+		{
+            "Key": "HomebrewArchtypes_FreedomFighterLuckAbilityIncreasingFortuneDesc", 
+            "zhCN": "自由斗士可以为自己带来1轮的好运。他们可以利用这份好运，重骰任何属性检定、攻击检定、豁免检定或技能检定，并获取更好的结果。"
+        },
+		{
+            "Key": "HomebrewArchtypes_FreedomFighterLuckAbilitySeveringFateName", 
+            "zhCN": "隔断命运"
+        },
+		{
+            "Key": "HomebrewArchtypes_FreedomFighterLuckAbilitySeveringFateDesc", 
+            "zhCN": "以一个迅捷动作，自由斗士可以利用自己的运气，切断自己与命运的联系，从而在接下来的1轮中，将所有的攻击检定、技能检定、属性检定和豁免检定视为d20自然掷骰掷出了11。"
+        },
+		{
+            "Key": "HomebrewArchtypes_CarnivalistArchetypeName", 
+            "zhCN": "游艺人"
+        },
+		{
+            "Key": "HomebrewArchtypes_CarnivalistArchetypeDesc", 
+            "zhCN": "游艺人训练她们的小伙伴执行盗窃行动，并且总是将它们的真正天赋掩藏为杂耍表演。"
+        },
+		{
+            "Key": "HomebrewArchtypes_CarnivalistCompanionSneakName", 
+            "zhCN": "伙伴偷袭"
+        },
+		{
+            "Key": "HomebrewArchtypes_CarnivalistCompanionSneakDesc", 
+            "zhCN": "游艺人的动物伙伴可以使用游艺人的职业进度来确定偷袭伤害。"
         }
-	]
+	]	
