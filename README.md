@@ -4736,8 +4736,8 @@ C:\Users\你的用户名\AppData\LocalLow\Owlcat Games\Pathfinder Wrath Of The R
 > *安装方式：* **UMM**<br>
 > *新增内容：* 添加以魔兽世界中的死亡骑士为原型的反圣武士变体
 <table>
-<tr><th colspan="1">新增内容列表<br></th></tr> 
-   <tr><td rowspan="1">死亡骑士 Death Knight<td></tr> 
+<tr><th colspan="2">新增内容列表</th></tr> 
+   <tr><td>职业</td><td>死亡骑士 Death Knight</td></tr> 
 </table>   
 ------------------------------------------- 
 
