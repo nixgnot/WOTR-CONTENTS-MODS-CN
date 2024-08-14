@@ -182,6 +182,7 @@
 | [Prestige-Minus](#Prestige-Minus) | 小队伍游玩 | 部分自带 | :heavy_check_mark: | :+1::+1:| :file_folder: |🛠️🛠️🛠️||
 | [Mesmerist](#Mesmerist) | 催眠师 | QL汉化 | :heavy_check_mark: | :+1:| :file_folder: :file_folder: |||
 | [deathknightandmore](#deathknightandmore) | 死亡骑士 | QL汉化 | :heavy_check_mark: || :file_folder: |||
+| [HalflingPartisan](#HalflingPartisan) | 半身人游击者 | QL汉化 | :heavy_check_mark: || :file_folder: |||
 
 备注
 + UMM一栏为是否使用UMM安装
@@ -4711,8 +4712,8 @@ C:\Users\你的用户名\AppData\LocalLow\Owlcat Games\Pathfinder Wrath Of The R
 <table>
 <tr><th colspan="5">新增内容列表<br></th></tr> 
    <tr><td rowspan="3">催眠师 Mesmerist<br></th></tr> 
-           <td>迷踪侠 Vexing Daredevil</td></tr> 
-           <tr><td>欺诈怪客 Vexing Trickster</td></tr> 
+           <td colspan="2">迷踪侠 Vexing Daredevil</td></tr> 
+           <tr><td colspan="2">欺诈怪客 Vexing Trickster</td></tr> 
   <tr><td rowspan="1">神话 Mythic</i></td>
        <td colspan="2">酷炫星象 Awesome Display<br>每个受你法术或能力影响的生物,其总生命骰数视为等于其实际生命骰数减去你的魅力调整值(如为正值)。</td></tr>
   <tr><td rowspan="9">专长 Feats</i></td>
@@ -4735,8 +4736,19 @@ C:\Users\你的用户名\AppData\LocalLow\Owlcat Games\Pathfinder Wrath Of The R
 > *安装方式：* **UMM**<br>
 > *新增内容：* 添加以魔兽世界中的死亡骑士为原型的反圣武士变体
 <table>
-<tr><th colspan="5">新增内容列表<br></th></tr> 
-   <tr><td rowspan="3">死亡骑士 Death Knight<br></th></tr> 
+<tr><th colspan="1">新增内容列表<br></th></tr> 
+   <tr><td rowspan="1">死亡骑士 Death Knight<td></tr> 
+</table>   
+------------------------------------------- 
+
+### [HalflingPartisan](https://www.nexusmods.com/pathfinderwrathoftherighteous/mods/702)
+> *前置：* 无<br>
+> *中文：* **QL汉化**<br>
+> *安装方式：* **非UMM**<br>
+> *新增内容：* 游侠变体半身人有机者
+<table>
+<tr><th colspan="3">新增内容列表<br></th></tr> 
+   <tr><td>变体</td><td>游侠</td><td>半身人游击者</td></tr> 
 </table>   
 ------------------------------------------- 
 
