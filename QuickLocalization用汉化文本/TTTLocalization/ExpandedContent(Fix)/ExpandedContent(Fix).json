@@ -27073,6 +27073,138 @@
       "ProcessTemplates": true,
       "zhCN": "黑暗幽邃的大海呼唤着你的灵魂。\n你的陆地移动速度降低5尺。\n在5级时，你的皮肤变得软厚，使你的天生护甲加值提升1点。\n在10级时，当你释放带有寒冷描述符的法术时，施法者等级+1。\n在15级时，将元素之躯 - 水 (I，II，III，IV)加入你的先知法术列表。在这些法术或水幕拒敌效果影响下时，你获得法术行动自如的好处。",
       "enGB": "The lure of the ocean tugs at your soul. \nYou reduce your base land speed by 5 feet. \nAt 5th level, your natural armor bonus increases by 1 as your skin thickens. \nAt 10th level, you gain a +1 bonus to your caster level when casting spells with the cold descriptor. \nAt 15th level, add elemental body - water (I,II,III,IV) to your list of oracle spells known. \nWhile under the effects of these spells or the seamantle spell, gain the benefits of the freedom of movement spell."
+    {
+      "Key": "01ed1ba85d5043edb9f55eeae20d13c9",
+      "SimpleName": "ArcaneDomainBaseCLAbility.Description",
+      "ProcessTemplates": true,
+      "zhCN": "以一个标准动作，在两轮内你成为奥能灯塔，散发出15尺灵光。在灵光内施放的所有奥术法术都会获得+1施法者等级加值。你每天能使用此能力的次数等于3+感知调整值。",
+      "enGB": "As a standard action you can become a beacon of arcane energy for 2 rounds. The aura emanates 15 feet from you. All arcane spells cast within the aura gain a +1 bonus to their caster level. You can use arcane beacon a number of times per day equal to 3 + your Wisdom modifier."
+    },
+    {
+      "Key": "8c0f555b55ae4f8e8c5306b9e91dc6f2",
+      "SimpleName": "ArcaneDomainBaseCLAbilitySeparatist.Description",
+      "ProcessTemplates": true,
+      "zhCN": "以一个标准动作，在两轮内你成为奥术能量信标，散发出15尺灵光。在灵光内施放的所有奥术法术都会获得+1施法者等级加值。你每天能使用此能力的次数等于3+感知调整值。",
+      "enGB": "As a standard action you can become a beacon of arcane energy for 2 rounds. The aura emanates 15 feet from you. All arcane spells cast within the aura gain a +1 bonus to their caster level. You can use arcane beacon a number of times per day equal to 3 + your Wisdom modifier."
+    },
+    {
+      "Key": "f41e2f1935e7434aac093f6554d2e19e",
+      "SimpleName": "ArcaneDomainBaseCLEffectBuff.Description",
+      "ProcessTemplates": true,
+      "zhCN": "你受到奥能灵光的影响，你施放的所有奥术法术都会获得+1施法者等级加值。",
+      "enGB": "You are affected by a arcane aura. All arcane spells you cast increase their caster level by 1."
+    },
+    {
+      "Key": "7bd025c07ab24b70bb90cd4cb812706b",
+      "SimpleName": "ArcaneDomainBaseCLEffectBuff.Name",
+      "ProcessTemplates": false,
+      "zhCN": "奥能灯塔 - 施法者等级",
+      "enGB": "Arcane Beacon - Caster Level"
+    },
+    {
+      "Key": "ea22868d85bf4a948943df066b75d94e",
+      "SimpleName": "ArcaneDomainBaseCLSelfBuff.Description",
+      "ProcessTemplates": true,
+      "zhCN": "你的周身散发出15尺灵光，在灵光内施放的所有奥术法术都会获得+1施法者等级加值。",
+      "enGB": "An aura emanates 15 feet from you. All arcane spells cast within the aura gain a +1 bonus to their caster level."
+    },
+    {
+      "Key": "831f24bd24ba447c9c482a1fcf55657a",
+      "SimpleName": "ArcaneDomainBaseDCAbility.Description",
+      "ProcessTemplates": true,
+      "zhCN": "以一个标准动作，在两轮内你成为奥能灯塔，散发出15尺灵光。在灵光内施放的所有奥术法术DC+1。你每天能使用此能力的次数等于3+感知调整值。",
+      "enGB": "As a standard action you can become a beacon of arcane energy for 2 rounds. The aura emanates 15 feet from you. All arcane spells cast within the aura increase their saving throw DC by +1. You can use arcane beacon a number of times per day equal to 3 + your Wisdom modifier."
+    },
+    {
+      "Key": "f51e019a7c294c41a6890574d1b8dbb6",
+      "SimpleName": "ArcaneDomainBaseDCAbilitySeparatist.Description",
+      "ProcessTemplates": true,
+      "zhCN": "以一个标准动作，在两轮内你成为奥能灯塔，散发出15尺灵光。在灵光内施放的所有奥术法术DC+1。你每天能使用此能力的次数等于3+感知调整值。",
+      "enGB": "As a standard action you can become a beacon of arcane energy for 2 rounds. The aura emanates 15 feet from you. All arcane spells cast within the aura increase their saving throw DC by +1. You can use arcane beacon a number of times per day equal to 3 + your Wisdom modifier."
+    },
+    {
+      "Key": "3f8276e1939f465593f6a4e472ed4d59",
+      "SimpleName": "ArcaneDomainBaseDCEffectBuff.Description",
+      "ProcessTemplates": true,
+      "zhCN": "你受到奥能灵光的影响，你施放的所有奥术法术DC+1。",
+      "enGB": "You are affected by a arcane aura. All arcane spells you cast increase their saving throw DC by 1."
+    },
+    {
+      "Key": "62deff2f860e45f889554edbc84f48cf",
+      "SimpleName": "ArcaneDomainBaseDCEffectBuff.Name",
+      "ProcessTemplates": false,
+      "zhCN": "奥能灯塔 - 豁免难度",
+      "enGB": "Arcane Beacon - DC"
+    },
+    {
+      "Key": "041bf8cd96634b788777f23462833fc1",
+      "SimpleName": "ArcaneDomainBaseDCSelfBuff.Description",
+      "ProcessTemplates": true,
+      "zhCN": "你的周身散发出15尺灵光，在灵光内施放的所有奥术法术DC+1。",
+      "enGB": "An aura emanates 15 feet from you. All arcane spells cast within the aura increase their saving throw DC by +1."
+    },
+    {
+      "Key": "533250f859a74971a1988941befb9434",
+      "SimpleName": "ArcaneDomainBaseFeature.Description",
+      "ProcessTemplates": true,
+      "zhCN": "\n你是一位真正的神秘艺术学者，能够驾驭奥术与神术使它们相融。 \n奥能灯塔：以一个标准动作，在两轮内你成为奥能灯塔，散发出15尺灵光。在灵光内施放的所有奥术法术获得+1施法者等级加值或DC+1。你每天能使用此能力的次数等于3+感知调整值。\n破魔之触：在8级时，你可将一个目标型解除魔法效果作为近战接触攻击使用。在8级时，每天可使用一次此能力，8级后赋予你此领域的职业每升4级可获得1次额外的使用次数。",
+      "enGB": "\nYou are a true scholar of the mystic arts, harnessing the fusion of arcane and divine. \nArcane Beacon: As a standard action you can become a beacon of arcane energy for 2 rounds. The aura emanates 15 feet from you. All arcane spells cast within the aura either gain a +1 bonus to their caster level or increase their saving throw DC by +1. The caster chooses the benefit when she casts the spell. You can use this ability a number of times per day equal to 3 + your Wisdom modifier. \nDispelling Touch: At 8th level, you can use a targeted dispel magic effect as a melee touch attack. You can use this ability once per day at 8th level and one additional time per day for every four levels in the class that gave you access to this domain beyond 8th."
+    },
+    {
+      "Key": "1f1ed151ab43453f84c6d7c45b8bcaba",
+      "SimpleName": "ArcaneDomainBaseFeature.Name",
+      "ProcessTemplates": false,
+      "zhCN": "奥秘子域",
+      "enGB": "Arcane Subdomain"
+    },
+    {
+      "Key": "f7cb37f4969d4b738aa69f9a9c133a55",
+      "SimpleName": "ArcaneDomainBaseFeatureSeparatist.Description",
+      "ProcessTemplates": true,
+      "zhCN": "\n你是一位真正的神秘艺术学者，能够驾驭奥术与神术使它们相融。 \n奥能灯塔：以一个标准动作，在两轮内你成为奥能灯塔，散发出15尺灵光。在灵光内施放的所有奥术法术获得+1施法者等级加值或DC+1。你每天能使用此能力的次数等于3+感知调整值。\n破魔之触：在8级时，你可将一个目标型解除魔法效果作为近战接触攻击使用。在8级时，每天可使用一次此能力，8级后赋予你此领域的职业每升4级可获得1次额外的使用次数。",
+      "enGB": "\nYou are a true scholar of the mystic arts, harnessing the fusion of arcane and divine. \nArcane Beacon: As a standard action you can become a beacon of arcane energy for 2 rounds. The aura emanates 15 feet from you. All arcane spells cast within the aura either gain a +1 bonus to their caster level or increase their saving throw DC by +1. The caster chooses the benefit when she casts the spell. You can use this ability a number of times per day equal to 3 + your Wisdom modifier. \nDispelling Touch: At 8th level, you can use a targeted dispel magic effect as a melee touch attack. You can use this ability once per day at 8th level and one additional time per day for every four levels in the class that gave you access to this domain beyond 8th."
+    },
+    {
+      "Key": "2457ff12deb042078fae30c5b46ca52f",
+      "SimpleName": "ArcaneDomainProgression.Description",
+      "ProcessTemplates": true,
+      "zhCN": "\n你是一位真正的神秘艺术学者，能够驾驭奥术与神术使它们相融。 \n奥能灯塔：以一个标准动作，在两轮内你成为奥能灯塔，散发出15尺灵光。在灵光内施放的所有奥术法术获得+1施法者等级加值或DC+1。你每天能使用此能力的次数等于3+感知调整值。\n破魔之触：在8级时，你可将一个目标型解除魔法效果作为近战接触攻击使用。在8级时，每天可使用一次此能力，8级后赋予你此领域的职业每升4级可获得1次额外的使用次数。",
+      "enGB": "\nYou are a true scholar of the mystic arts, harnessing the fusion of arcane and divine. \nArcane Beacon: As a standard action you can become a beacon of arcane energy for 2 rounds. The aura emanates 15 feet from you. All arcane spells cast within the aura either gain a +1 bonus to their caster level or increase their saving throw DC by +1. The caster chooses the benefit when she casts the spell. You can use this ability a number of times per day equal to 3 + your Wisdom modifier. \nDispelling Touch: At 8th level, you can use a targeted dispel magic effect as a melee touch attack. You can use this ability once per day at 8th level and one additional time per day for every four levels in the class that gave you access to this domain beyond 8th. \nDomain Spells: magic missile, resist energy, dispel magic, arcane concordance, spell resistance, dispel magic, greater, power word blind, protection from spells, mages disjunction."
+    },
+    {
+      "Key": "0aa19c0edb6c429797e062fb12da90f9",
+      "SimpleName": "ArcaneDomainProgression.Description",
+      "ProcessTemplates": true,
+      "zhCN": "\n你是一位真正的神秘艺术学者，能够驾驭奥术与神术使它们相融。 \n奥能灯塔：以一个标准动作，在两轮内你成为奥能灯塔，散发出15尺灵光。在灵光内施放的所有奥术法术获得+1施法者等级加值或DC+1。你每天能使用此能力的次数等于3+感知调整值。\n破魔之触：在8级时，你可将一个目标型解除魔法效果作为近战接触攻击使用。在8级时，每天可使用一次此能力，8级后赋予你此领域的职业每升4级可获得1次额外的使用次数。",
+      "enGB": "\nYou are a true scholar of the mystic arts, harnessing the fusion of arcane and divine. \nArcane Beacon: As a standard action you can become a beacon of arcane energy for 2 rounds. The aura emanates 15 feet from you. All arcane spells cast within the aura either gain a +1 bonus to their caster level or increase their saving throw DC by +1. The caster chooses the benefit when she casts the spell. You can use this ability a number of times per day equal to 3 + your Wisdom modifier. \nDispelling Touch: At 8th level, you can use a targeted dispel magic effect as a melee touch attack. You can use this ability once per day at 8th level and one additional time per day for every four levels in the class that gave you access to this domain beyond 8th. \nDomain Spells: magic missile, resist energy, dispel magic, arcane concordance, spell resistance, dispel magic, greater, power word blind, protection from spells, clashing rocks."
+    },
+    {
+      "Key": "9138c2b030a94bb48be60179c6b6ae78",
+      "SimpleName": "ArcaneDomainProgressionSecondary.Description",
+      "ProcessTemplates": true,
+      "zhCN": "\n你是一位真正的神秘艺术学者，能够驾驭奥术与神术使它们相融。 \n奥能灯塔：以一个标准动作，在两轮内你成为奥能灯塔，散发出15尺灵光。在灵光内施放的所有奥术法术获得+1施法者等级加值或DC+1。你每天能使用此能力的次数等于3+感知调整值。\n破魔之触：在8级时，你可将一个目标型解除魔法效果作为近战接触攻击使用。在8级时，每天可使用一次此能力，8级后赋予你此领域的职业每升4级可获得1次额外的使用次数。",
+      "enGB": "\nYou are a true scholar of the mystic arts, harnessing the fusion of arcane and divine. \nArcane Beacon: As a standard action you can become a beacon of arcane energy for 2 rounds. The aura emanates 15 feet from you. All arcane spells cast within the aura either gain a +1 bonus to their caster level or increase their saving throw DC by +1. The caster chooses the benefit when she casts the spell. You can use this ability a number of times per day equal to 3 + your Wisdom modifier. \nDispelling Touch: At 8th level, you can use a targeted dispel magic effect as a melee touch attack. You can use this ability once per day at 8th level and one additional time per day for every four levels in the class that gave you access to this domain beyond 8th. \nDomain Spells: magic missile, resist energy, dispel magic, arcane concordance, spell resistance, dispel magic, greater, power word blind, protection from spells, mages disjunction."
+    },
+    {
+      "Key": "2157c0ed4b45449d94323d097e2ec6cd",
+      "SimpleName": "ArcaneDomainProgressionSecondary.Description",
+      "ProcessTemplates": true,
+      "zhCN": "\n你是一位真正的神秘艺术学者，能够驾驭奥术与神术使它们相融。 \n奥能灯塔：以一个标准动作，在两轮内你成为奥能灯塔，散发出15尺灵光。在灵光内施放的所有奥术法术获得+1施法者等级加值或DC+1。你每天能使用此能力的次数等于3+感知调整值。\n破魔之触：在8级时，你可将一个目标型解除魔法效果作为近战接触攻击使用。在8级时，每天可使用一次此能力，8级后赋予你此领域的职业每升4级可获得1次额外的使用次数。",
+      "enGB": "\nYou are a true scholar of the mystic arts, harnessing the fusion of arcane and divine. \nArcane Beacon: As a standard action you can become a beacon of arcane energy for 2 rounds. The aura emanates 15 feet from you. All arcane spells cast within the aura either gain a +1 bonus to their caster level or increase their saving throw DC by +1. The caster chooses the benefit when she casts the spell. You can use this ability a number of times per day equal to 3 + your Wisdom modifier. \nDispelling Touch: At 8th level, you can use a targeted dispel magic effect as a melee touch attack. You can use this ability once per day at 8th level and one additional time per day for every four levels in the class that gave you access to this domain beyond 8th. \nDomain Spells: magic missile, resist energy, dispel magic, arcane concordance, spell resistance, dispel magic, greater, power word blind, protection from spells, clashing rocks."
+    },
+    {
+      "Key": "821047317aac479a95a8f6959b199b60",
+      "SimpleName": "ArcaneDomainProgressionSeparatist.Description",
+      "ProcessTemplates": true,
+      "zhCN": "\n你是一位真正的神秘艺术学者，能够驾驭奥术与神术使它们相融。 \n奥能灯塔：以一个标准动作，在两轮内你成为奥能灯塔，散发出15尺灵光。在灵光内施放的所有奥术法术获得+1施法者等级加值或DC+1。你每天能使用此能力的次数等于3+感知调整值。\n破魔之触：在8级时，你可将一个目标型解除魔法效果作为近战接触攻击使用。在8级时，每天可使用一次此能力，8级后赋予你此领域的职业每升4级可获得1次额外的使用次数。",
+      "enGB": "\nYou are a true scholar of the mystic arts, harnessing the fusion of arcane and divine. \nArcane Beacon: As a standard action you can become a beacon of arcane energy for 2 rounds. The aura emanates 15 feet from you. All arcane spells cast within the aura either gain a +1 bonus to their caster level or increase their saving throw DC by +1. The caster chooses the benefit when she casts the spell. You can use this ability a number of times per day equal to 3 + your Wisdom modifier. \nDispelling Touch: At 8th level, you can use a targeted dispel magic effect as a melee touch attack. You can use this ability once per day at 8th level and one additional time per day for every four levels in the class that gave you access to this domain beyond 8th. \nDomain Spells: magic missile, resist energy, dispel magic, arcane concordance, spell resistance, dispel magic, greater, power word blind, protection from spells, clashing rocks."
+    },
+    {
+      "Key": "6663ab374dcb4105b3d0ccd6f7d73b4d",
+      "SimpleName": "ArcaneDomainProgressionSeparatist.Description",
+      "ProcessTemplates": true,
+      "zhCN": "\n你是一位真正的神秘艺术学者，能够驾驭奥术与神术使它们相融。 \n奥能灯塔：以一个标准动作，在两轮内你成为奥能灯塔，散发出15尺灵光。在灵光内施放的所有奥术法术获得+1施法者等级加值或DC+1。你每天能使用此能力的次数等于3+感知调整值。\n破魔之触：在8级时，你可将一个目标型解除魔法效果作为近战接触攻击使用。在8级时，每天可使用一次此能力，8级后赋予你此领域的职业每升4级可获得1次额外的使用次数。",
+      "enGB": "\nYou are a true scholar of the mystic arts, harnessing the fusion of arcane and divine. \nArcane Beacon: As a standard action you can become a beacon of arcane energy for 2 rounds. The aura emanates 15 feet from you. All arcane spells cast within the aura either gain a +1 bonus to their caster level or increase their saving throw DC by +1. The caster chooses the benefit when she casts the spell. You can use this ability a number of times per day equal to 3 + your Wisdom modifier. \nDispelling Touch: At 8th level, you can use a targeted dispel magic effect as a melee touch attack. You can use this ability once per day at 8th level and one additional time per day for every four levels in the class that gave you access to this domain beyond 8th. \nDomain Spells: magic missile, resist energy, dispel magic, arcane concordance, spell resistance, dispel magic, greater, power word blind, protection from spells, mages disjunction."
     }    
   ]
 }
