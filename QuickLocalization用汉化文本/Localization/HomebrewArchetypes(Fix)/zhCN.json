@@ -4653,7 +4653,7 @@ A champion who embraces the Oath of Treachery owes allegiance to no one. There a
         },
 		{
             "Key": "HomebrewArchtypes_FreedomFighterFreedomFinesseDesc", 
-            "zhCN": "3级时，自由斗士可以选择一个可以应用武器娴熟、或者被视为可以应用武器娴熟的武器组。一旦做出选择，便不能更改。每当他们使用所选武器成功进行近战攻击时，他们会将敏捷调整值加到伤害骰上，取代原本的力量调整值。如果任何效果会阻止自由斗士将力量调整值加到伤害骰上，那么他们也不会将敏捷调整值加到伤害骰上。在11级时，自由斗士可以选择第二个武器组，在19级时选择第三个。"
+            "zhCN": "3级时，自由斗士可以选择一个武器组，将该类武器视为可以应用武器娴熟。一旦做出选择，便不能更改。每当他们使用所选武器成功进行近战攻击时，他们会将敏捷调整值加到伤害骰上，取代原本的力量调整值。如果任何效果会阻止自由斗士将力量调整值加到伤害骰上，那么他们也不会将敏捷调整值加到伤害骰上。在11级时，自由斗士可以选择第二个武器组，在19级时选择第三个。"
         },
 		{
             "Key": "HomebrewArchtypes_FreedomFighterLuckAbilityFavortheBoldName", 
@@ -4661,7 +4661,7 @@ A champion who embraces the Oath of Treachery owes allegiance to no one. There a
         },
 		{
             "Key": "HomebrewArchtypes_FreedomFighterLuckAbilityFavortheBoldDesc", 
-            "zhCN": "当选择该能力的自由斗士在操纵运气方面具有非凡能力，使得所有加在其身上的幸运加值效果翻倍。"
+            "zhCN": "当选择该能力的自由斗士在操纵运气方面具有非凡能力，使得所有加在其身上的运气加值效果翻倍。"
         },
 		{
             "Key": "HomebrewArchtypes_FreedomFighterLuckAbilityIncreasingFortuneName", 
@@ -4710,5 +4710,37 @@ A champion who embraces the Oath of Treachery owes allegiance to no one. There a
 		{
             "Key": "HomebrewArchtypes_FreedomFighterLuckAbilityEffortlessDualWieldingDesc", 
             "zhCN": "在决定使用双武器作战时的{g|Encyclopedia:Attack}攻击检定{/g}的{g|Encyclopedia:Penalty}减值{/g}时，自由斗士将所有属于训练武器组的{g|Encyclopedia:Light_Weapon}单手{/g}武器都视为轻型武器。"
+        },
+		{
+            "Key": "HomebrewArchtypes_FreedomFighterLuckAbilityRangedLegerdemainName", 
+            "zhCN": "远程巧手"
+        },
+		{
+            "Key": "HomebrewArchtypes_FreedomFighterLuckAbilityRangedLegerdemainDesc", 
+            "zhCN": "一名自由斗士可以在30尺的距离内使用{g|Encyclopedia:Trickery}巧手{/g}。在远距离操作会使正常的{g|Encyclopedia:Skills}技能检定{/g}{g|Encyclopedia:DC}难度等级{/g}增加5点。"
+        },
+		{
+            "Key": "HomebrewArchtypes_FreedomFighterLuckAbilityRolltheDiceName", 
+            "zhCN": "天命一骰"
+        },
+		{
+            "Key": "HomebrewArchtypes_FreedomFighterLuckAbilityRolltheDiceDesc", 
+            "zhCN": "自由斗士运用他们的运气，转化为实实在在的好处。这种运气以+3运气加值的形式固化在目标上，该加值自护甲等级、攻击加值或伤害加值中随机选择。"
+        },
+		{
+            "Key": "HomebrewArchtypes_FreedomFighterMythicAbilityAbundantLuckName", 
+            "zhCN": "充裕天命"
+        },
+		{
+            "Key": "HomebrewArchtypes_FreedomFighterMythicAbilityAbundantLuckDesc", 
+            "zhCN": "你学会了增加好运气的方法。\n效果：你的天命池获得额外2次使用次数。"
+        },
+		{
+            "Key": "HomebrewArchtypes_FreedomFighterLuckyAbilityBadLuckName", 
+            "zhCN": "厄运降临"
+        },
+		{
+            "Key": "HomebrewArchtypes_FreedomFighterLuckyAbilityBadLuckDesc", 
+            "zhCN": "拥有这种能力的自由斗士可以对敌人施加不幸的诅咒。目标必须在所有的能力{g|Encyclopedia:Check}检定{/g}、攻击检定、豁免检定和技能检定中投掷两次，并取较差的结果。这个效果持续1轮。"
         }
 	]	
