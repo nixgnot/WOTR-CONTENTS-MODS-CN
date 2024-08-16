@@ -4694,5 +4694,21 @@ A champion who embraces the Oath of Treachery owes allegiance to no one. There a
 		{
             "Key": "HomebrewArchtypes_CarnivalistCompanionSneakDesc", 
             "zhCN": "游艺人的动物伙伴可以使用游艺人的职业进度来确定偷袭伤害。"
+        },
+		{
+            "Key": "HomebrewArchtypes_FreedomFighterLuckAbilityGuardedLuckName", 
+            "zhCN": "守卫幸运"
+        },
+		{
+            "Key": "HomebrewArchtypes_FreedomFighterLuckAbilityGuardedLuckDesc", 
+            "zhCN": "自由斗士可以召唤他们的幸运来保护自己，将命运扭转 1 {g|Encyclopedia:Combat_Round}轮{/g}。每当该生物成为需要{g|Encyclopedia:Attack}攻击检定{/g}（包括武器攻击）的效果的目标时，攻击者必须{g|Encyclopedia:Dice}掷骰{/g}两次，并取更差的结果。"
+        },
+		{
+            "Key": "HomebrewArchtypes_FreedomFighterLuckAbilityEffortlessDualWieldingName", 
+            "zhCN": "无拘双持"
+        },
+		{
+            "Key": "HomebrewArchtypes_FreedomFighterLuckAbilityEffortlessDualWieldingDesc", 
+            "zhCN": "在决定使用双武器作战时的{g|Encyclopedia:Attack}攻击检定{/g}的{g|Encyclopedia:Penalty}减值{/g}时，自由斗士将所有属于训练武器组的{g|Encyclopedia:Light_Weapon}单手{/g}武器都视为轻型武器。"
         }
 	]	
