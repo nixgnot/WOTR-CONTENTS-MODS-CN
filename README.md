@@ -4347,7 +4347,7 @@ C:\Users\你的用户名\AppData\LocalLow\Owlcat Games\Pathfinder Wrath Of The R
        <tr><td colspan="2">猎牙行动 Tooth Hunt<br>你呈现出小牙仙的形态。如同妖精形态III，你获得以下能力：敏捷+8体型加值，力量–4减值，DR 2/寒铁，飞行速度（机动性良好，肯定比狮鹫更好）。小牙仙是一种微型生物，可以使用武器，以及一次噬咬攻击（1d4）。</td></tr>
        <tr><td colspan="2">贪婪纹章 Emblem of Greed<br>你用魔法塑造一把燃烧的大砍刀。该武器适合你的体型，并具有+1增强加值（15级+2 19级+3）和烈焰武器特殊能力。当挥舞这把大砍刀时，你视为擅长它，并使用你的施法者等级作为你的基本攻击加值（这可能会给你带来多次攻击）。</td></tr>
        <tr><td colspan="2">赫氏潜能术 Hermean Potential<br>你赐予目标通过清晰的头脑完美执行动作的能力。在目标尝试下一次攻击投骰，豁免检定或技能检定时，可以投骰两次，并取更有利的结果。你每有5个施法者等级，目标就可以额外重骰一次（次数最多在20级时达到5次）。</td></tr>
-       <tr><td rowspan="17">其余修改</i></td>
+       <tr><td rowspan="21">其余修改</i></td>
        <tr><td colspan="2">修改标记<br>所有修改内容在其描述中都标记为已修改，无需切换：p</td></tr>
        <tr><td colspan="2">拔刀术 Quick Draw<br>如果剑爵已经拥有拔刀术或者警觉专长，他获得阿尔多瑞决斗精通作为额外专长。</td></tr>
        <tr><td colspan="2">桌面擒获注能 Tabletop Grappling Infusion<br>有一个可切换选项，允许你使用战技检定，来使念袭擒抱该对手，而不是让敌人进行反射豁免。你在本次检定中的加值等于2+你的动能师等级+你的体质调整值（将念袭视为超大型生物）。逃脱擒抱的DC等于10+其 CMB。</td></tr>
@@ -4360,10 +4360,14 @@ C:\Users\你的用户名\AppData\LocalLow\Owlcat Games\Pathfinder Wrath Of The R
        <tr><td colspan="2">修复猛力攻击 Fix Power Attack<br>现在按描述工作：如果您使用副手武器进行攻击，则伤害加成减半（–50%）。请注意，食人鱼打击也有相同的错误，但尚未修复，因为这可能会让食人鱼打击比猛力攻击更具优势，这非常酷。</td></tr>
        <tr><td colspan="2">持久法术效果死亡后不会结束（默认开启） Enduring Spells Stay On Death<br>现在有了持久法术之后，你的buff效果在死亡后仍然有效，减少读档次数 :)</td></tr>
        <tr><td colspan="2">次元反击现在无视次元锁（默认开启） Dimensional Retribution Bypasses Dimensional Lock<br>现在有了次元反击，传送效果不再只局限于特定区域</td></tr>
+       <tr><td colspan="2">法术逆转<br>法术逆转的效果不再反射接触和范围法术，与桌面规则相同</td></tr>
+       <tr><td colspan="2">拉兹米尔面具<br>拉兹米尔面具能反弹的东西不再比奥罗登腰带还多</td></tr>
        <tr><td colspan="2">Bug Fix<br>修复了俯卧单位可以被绊摔的错误。如果你想允许某种踢头，请在ModMenu中将其关闭。</td></tr>
        <tr><td colspan="2">Bug Fix<br>修复了创建区域效果的物理念袭不算作魔法的错误。</td></tr>
        <tr><td colspan="2">Bug Fix<br>修复了锯齿刀不能双手握持的错误（？）。</td></tr>
        <tr><td colspan="2">Bug Fix<br>修复了奥法后继者的奥法精准错误地使用智力计算的错误。</td></tr>
+       <tr><td colspan="2">Bug Fix<br>修复某些敌人尝试对MC施放仅对自己有效的法术，然后被永远卡住的问题</td></tr>
+       <tr><td colspan="2">Bug Fix<br>修复了御衡破敌给予疯狂的攻击加成的Bug</td></tr>
 </table>    
 
 -------------------------------------------   
@@ -4766,6 +4770,7 @@ C:\Users\你的用户名\AppData\LocalLow\Owlcat Games\Pathfinder Wrath Of The R
 
 ### 功能MOD索引
 + [ToyBox](https://github.com/xADDBx/ToyBox-Wrath) 应该不用介绍？
++ [ModTag](https://github.com/YLMstring/ModTag) mod标记（会在游戏文本中标记出那些是mod的修改或新增内容）
 + [RespecMod](https://github.com/BarleyFlour/RespecMod) 洗点MOD（允许更自由洗点，自定义初始点数等）
 + [BubblesBuffs](https://www.nexusmods.com/pathfinderwrathoftherighteous/mods/195) 自动BUFF
 + [BubbleTweaks](https://github.com/factubsio/BubbleTweaks) 选项调节（调节动画速度等）
