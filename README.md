@@ -183,6 +183,7 @@
 | [Mesmerist](#Mesmerist) | 催眠师 | QL汉化 | :heavy_check_mark: | :+1:| :file_folder: :file_folder: |||
 | [deathknightandmore](#deathknightandmore) | 死亡骑士 | QL汉化 | :heavy_check_mark: || :file_folder: |||
 | [HalflingPartisan](#HalflingPartisan) | 半身人游击者 | QL汉化 | :heavy_check_mark: || :file_folder: |||
+| [Commander](#Commander) | 神圣圣徒 | QL汉化 | :heavy_check_mark: || :file_folder: |||
 
 备注
 + UMM一栏为是否使用UMM安装
@@ -4745,13 +4746,23 @@ C:\Users\你的用户名\AppData\LocalLow\Owlcat Games\Pathfinder Wrath Of The R
 > *前置：* 无<br>
 > *中文：* **QL汉化**<br>
 > *安装方式：* **非UMM**<br>
-> *新增内容：* 游侠变体半身人有机者
+> *新增内容：* 游侠变体半身人游击者
 <table>
 <tr><th colspan="3">新增内容列表<br></th></tr> 
    <tr><td>变体</td><td>游侠</td><td>半身人游击者</td></tr> 
 </table>   
 ------------------------------------------- 
 
+### [Commander](https://github.com/Teraunce/Commander/releases/tag/1.0.2)
+> *前置：* 无<br>
+> *中文：* **QL汉化**<br>
+> *安装方式：* **非UMM**<br>
+> *新增内容：* 先知变体神圣圣徒
+<table>
+<tr><th colspan="3">新增内容列表<br></th></tr> 
+   <tr><td>变体</td><td>先知</td><td>神圣圣徒</td></tr> 
+</table>   
+------------------------------------------- 
 
 ### 功能MOD索引
 + [ToyBox](https://github.com/xADDBx/ToyBox-Wrath) 应该不用介绍？
