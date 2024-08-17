@@ -194,7 +194,7 @@
 
 ### [TabletopTweaks-Base](https://github.com/Vek17/TabletopTweaks-Base)
 > *前置：* TabletopTweaks-Core<br>
-> *中文：* **自带中文**<br>
+> *中文：* **自带中文，建议使用[QL修正](QuickLocalization用汉化文本/TTTLocalization/TTT-Base(Fix))**<br>
 > *安装方式：* UMM<br>
 > *修改内容：* UI、核心规则、法术、专长、职业特性、神话能力、神话专长，等<br>
 > *新增内容：* 变体、巅峰、法术、专长、种族、背景，等<br>
@@ -1651,7 +1651,7 @@
 -------------------------------------------
 ### [TabletopTweaks-Reworks](https://github.com/Vek17/TabletopTweaks-Reworks)
 > *前置：* TabletopTweaks-Core<br>
-> *中文：* **自带中文（需要QL修正）**<br>
+> *中文：* **自带中文（需要[QL修正](QuickLocalization用汉化文本/TTTLocalization/TTT-Rework(Fix))）**<br>
 > *安装方式：* UMM<br>
 > *修改内容：* 神话能力、神话专长，道途等<br>
 > *新增内容：* 神话道途能力<br>
@@ -1873,7 +1873,7 @@
 -------------------------------------------
 ### [TabletopTweaks-Flanking](https://github.com/Vek17/TabletopTweaks-Flanking/releases/tag/v0.1.0)
 > *前置：* TabletopTweaks-Core<br>
-> *中文：* **暂无中文**<br>
+> *中文：* **[QL汉化](QuickLocalization用汉化文本/TTTLocalization/TabletopTweaks-Flanking)**<br>
 > *安装方式：* UMM<br>
 > *修改内容：* 夹击规则<br>
 > *新增内容：* 相关专长<br>
@@ -1902,7 +1902,7 @@
 -------------------------------------------
 ### [MicroscopicContentExpansion](https://github.com/alterasc/MicroscopicContentExpansion)
 > *前置：* TabletopTweaks-Core<br>
-> *中文：* **QL汉化**<br>
+> *中文：* **[QL汉化](QuickLocalization用汉化文本/TTTLocalization/MicroscopicContentExpansion)**<br>
 > *安装方式：* UMM<br>
 > *修改内容：* 无<br>
 > *新增内容：* 职业、专长、法术等<br>
@@ -1953,7 +1953,7 @@
 -------------------------------------------
 ### [SparsSorcerousSundries](https://github.com/TheSparhawk/SparsSorcerousSundries)
 > *前置：* TabletopTweaks-Core<br>
-> *中文：* **QL汉化**<br>
+> *中文：* **[QL汉化](QuickLocalization用汉化文本/TTTLocalization/SparsSorcerousSundries)**<br>
 > *安装方式：* UMM<br>
 > *修改内容：* 修复辉光最终形态附魔效果<br>
 > *新增内容：* 物品、法术等<br>
@@ -1979,7 +1979,7 @@
 -------------------------------------------
 ### [TomeOfTheFirebird](https://github.com/pheonix99/TomeOfTheFirebird)
 > *前置：* TabletopTweaks-Core<br>
-> *中文：* **QL汉化**<br>
+> *中文：* **[QL汉化](https://github.com/nixgnot/WOTR-CONTENTS-MODS-CN/tree/main/QuickLocalization%E7%94%A8%E6%B1%89%E5%8C%96%E6%96%87%E6%9C%AC/TTTLocalization/TomeOfTheFirebird)**<br>
 > *安装方式：* UMM<br>
 > *修改内容：* 修复部分BUG，职业能力调整<br>
 > *新增内容：* 物品、法术等<br>
@@ -2136,7 +2136,7 @@
 ### [ExpandedContent2022](https://github.com/ka-dyn/ExpandedContent)
 + [贴吧汉化帖](https://tieba.baidu.com/p/8108212678)
 > *前置：* TabletopTweaks-Core 此外此模组虽然不依赖TabletopTweaks-Base，但作者所有测试都是基于安装TT-Base的环境下测试的，且关闭掉Base的几个特定的fix会导致游戏无法加载<br>
-> *中文：* **有汉化，提供QL汉化修正**<br>
+> *中文：* **有汉化，提供[QL汉化修正](QuickLocalization用汉化文本/TTTLocalization/ExpandedContent(Fix))**<br>
 > *安装方式：* **UMM**<br>
 > *新增内容：* 大量信仰、变体、专长等<br>
 + 大型MOD，增加很多新内容
@@ -3298,7 +3298,7 @@ C:\Users\你的用户名\AppData\LocalLow\Owlcat Games\Pathfinder Wrath Of The R
 ------------------------------------------- 
 ### [MythicArcanist](https://github.com/Llisandur/MythicArcanist)
 > *前置：* 无<br>
-> *中文：* **自带**<br>
+> *中文：* **自带，建议使用[QL修正](QuickLocalization用汉化文本/TTTLocalization/MythicArcanist(Fix))**<br>
 > *安装方式：* **UMM**<br>
 > *修改内容：* <br>
 > *新增内容：* 变体，专长，神话能力，法术等<br>
@@ -3548,7 +3548,7 @@ C:\Users\你的用户名\AppData\LocalLow\Owlcat Games\Pathfinder Wrath Of The R
   -------------------------------------------   
 ### [WOTR_IsekaiMod](https://github.com/JohN100x1/WOTR_IsekaiMod)
 > *前置：* 无<br>
-> *中文：* **自带中文（机翻），提供QL用修正（By 无望的灰烬）**<br>
+> *中文：* **自带中文（机翻），提供[QL用修正](QuickLocalization用汉化文本/TTTLocalization/IsekaiMod)（By 无望的灰烬）**<br>
 > *安装方式：* **UMM**<br>
 > *修改内容：* <br>
 > *新增内容：* 逆天职业<br>
@@ -3856,7 +3856,7 @@ C:\Users\你的用户名\AppData\LocalLow\Owlcat Games\Pathfinder Wrath Of The R
 -------------------------------------------   
 ### [MinosPlayerRace](https://www.nexusmods.com/pathfinderwrathoftherighteous/mods/517)
 > *前置：* TabletopTweaks-Core、TabletopTweaks-Base<br>
-> *中文：* **QL汉化**<br>
+> *中文：* **[QL汉化](QuickLocalization用汉化文本/TTTLocalization/MinosRace)**<br>
 > *安装方式：* **UMM**<br>
 > *新增内容：* 牛头人种族<br>
 <table>
