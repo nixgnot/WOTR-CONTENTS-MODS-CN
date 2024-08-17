@@ -3797,7 +3797,7 @@ C:\Users\你的用户名\AppData\LocalLow\Owlcat Games\Pathfinder Wrath Of The R
 --------------------------------------
 ### [CraftMaster](https://github.com/magicskysword/CraftMaster)
 > *前置：* 无<br>
-> *中文：* **QL汉化**<br>
+> *中文：* **自带**<br>
 > *安装方式：* **UMM**<br>
 > *新增内容：* 制造奇物功能<br>
 + 国产MOD，由@magicskysword（也是QL Mod的作者）制作
