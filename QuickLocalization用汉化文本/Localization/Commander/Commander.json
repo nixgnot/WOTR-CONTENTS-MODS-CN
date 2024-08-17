@@ -1,0 +1,270 @@
+[
+ {
+    "Key": "DivineSaintArchetype.Name",
+    "zhCN": "神圣圣徒"
+  },
+ {
+    "Key": "DivineSaintArchetype.Description",
+    "zhCN": "神圣圣徒是一位致力于保护他人的先知。 他们能用神圣的魅力胁迫敌人。"
+  },
+ {
+    "Key": "PathOfSacrificeDebuffT1.Name",
+    "zhCN": "献祭之道"
+  },
+ {
+    "Key": "PathOfSacrificeDebuffT1.Description",
+    "zhCN": "目标被迫攻击神圣圣徒。"
+  },
+ {
+    "Key": "PathOfSacrificeDebuffT3.Name",
+    "zhCN": "献祭之道"
+  },
+ {
+    "Key": "PathOfSacrificeDebuffT3.Description",
+    "zhCN": "目标被迫攻击神圣圣徒。"
+  },
+ {
+    "Key": "PathOfSacrificeDebuffT4.Name",
+    "zhCN": "献祭之道"
+  },
+ {
+    "Key": "PathOfSacrificeDebuffT4.Description",
+    "zhCN": "目标被迫攻击神圣圣徒。"
+  },
+ {
+    "Key": "PathOfSacrificeDebuffT5.Name",
+    "zhCN": "献祭之道"
+  },
+ {
+    "Key": "PathOfSacrificeDebuffT5.Description",
+    "zhCN": "目标被迫攻击神圣圣徒。"
+  },
+ {
+    "Key": "Absolution.Name",
+    "zhCN": "决心"
+  },
+ {
+    "Key": "Absolution.Description",
+    "zhCN": "当你攻击时，即使攻击未命中，你也会被治疗5%的最大生命值。这个效果每轮只能生效1次。"
+  },
+ {
+    "Key": "Aegis.Name",
+    "zhCN": "不朽之盾"
+  },
+ {
+    "Key": "Aegis.Description",
+    "zhCN": "受到的所有伤害降低25%。"
+  },
+ {
+    "Key": "AsylumHiddenBuff.Name",
+    "zhCN": "庇护隐藏状态"
+  },
+ {
+    "Key": "AsylumDefensiveBuff.Name",
+    "zhCN": "庇护"
+  },
+ {
+    "Key": "AsylumDefensiveBuff.Description",
+    "zhCN": "一轮内获得等于你先知等级的DR/-。"
+  },
+ {
+    "Key": "AsylumToggleAbility.Name",
+    "zhCN": "庇护"
+  },
+ {
+    "Key": "AsylumToggleAbility.Description",
+    "zhCN": "当你受到伤害并且生命降低到50%以下时，一轮内获得等于你先知等级的DR/-。该能力每天可以生效三次。"
+  },
+ {
+    "Key": "AtonementBuff.Name",
+    "zhCN": "弥补"
+  },
+ {
+    "Key": "AtonementBuff.Description",
+    "zhCN": "快速回复等于圣徒之触20%的数值。"
+  },
+ {
+    "Key": "Atonement.Name",
+    "zhCN": "弥补"
+  },
+ {
+    "Key": "Atonement.Description",
+    "zhCN": "你的圣徒之触现在会使目标在接下来的三轮中获得相当于治疗伤害量20%的快速回复。同时，该能力变为迅捷动作。"
+  },
+ {
+    "Key": "Clemency.Name",
+    "zhCN": "宽恕"
+  },
+ {
+    "Key": "Clemency.Description",
+    "zhCN": "你免疫重击，但是自己也无法造成重击。"
+  },
+ {
+    "Key": "GuidedByRevelation.Name",
+    "zhCN": "启示引导"
+  },
+ {
+    "Key": "GuidedByRevelation.Description",
+    "zhCN": "你可以用魅力调整值来替代敏捷调整值，来影响你的AC和CMD。你也可以使用魅力调整值进行察觉和学识（宗教）检定。"
+  },
+ {
+    "Key": "LuminositeEternelleBuff.Name",
+    "zhCN": "吾主在此"
+  },
+ {
+    "Key": "LuminositeEternelleBuff.Description",
+    "zhCN": "你可以用整轮动作创造一个辉光印记，保护一个指定区域。 该区域内的所有盟友在所有豁免检定上都会获得等于你魅力调整值的崇圣加值，并且在AC上也会获得等于你先知等级一半的崇圣加值。 此能力持续时间为每先知等级一小时，每天可使用两次。"
+  },
+  {
+    "Key": "PathOfSacrificeBuffT1.Name",
+    "zhCN": "献祭之道"
+  },
+ {
+    "Key": "PathOfSacrificeBuffT1.Description",
+    "zhCN": "在你20英尺范围内的敌人被迫攻击你而不是你的盟友。 你的武器攻击检定会受到-4减值，并且你不能再进行防御式攻击。 当你穿着中型或轻型护甲时，你可以将魅力调整值加到AC上。\n5级起，你免疫借机攻击。\n9级起，你的生命值获得+10加值。\n13级起，受到献祭之路影响的敌人现在也会变得战栗。"
+  },
+ {
+    "Key": "PathOfSacrificeT1.Name",
+    "zhCN": "献祭之道"
+  },
+ {
+    "Key": "PathOfSacrificeT1.Description",
+    "zhCN": "在你20英尺范围内的敌人被迫攻击你而不是你的盟友。 你的武器攻击检定会受到-4减值，并且你不能再进行防御式攻击。 当你穿着中型或轻型护甲时，你可以将魅力调整值加到AC上。\n5级起，你免疫借机攻击。\n9级起，你的生命值获得+10加值。\n13级起，受到献祭之路影响的敌人现在也会变得战栗。"
+  },
+ {
+    "Key": "PathOfSacrificeMainT1.Name",
+    "zhCN": "献祭之道"
+  },
+ {
+    "Key": "PathOfSacrificeMainT1.Description",
+    "zhCN": "在你20英尺范围内的敌人被迫攻击你而不是你的盟友。 你的武器攻击检定会受到-4减值，并且你不能再进行防御式攻击。 "
+  },
+ {
+    "Key": "PathOfSacrificeAc.Name",
+    "zhCN": "献祭之道（AC加值）"
+  },
+ {
+    "Key": "PathOfSacrificeAc.Description",
+    "zhCN": " 当你穿着中型或轻型护甲时，你可以将魅力调整值加到AC上。"
+  },
+ {
+    "Key": "PathOfSacrificeBuffT3.Name",
+    "zhCN": "献祭之道"
+  },
+ {
+    "Key": "PathOfSacrificeBuffT3.Description",
+    "zhCN": "在你20英尺范围内的敌人被迫攻击你而不是你的盟友。 你的武器攻击检定会受到-4减值，并且你不能再进行防御式攻击。 当你穿着中型或轻型护甲时，你可以将魅力调整值加到AC上。\n5级起，你免疫借机攻击。\n9级起，你的生命值获得+10加值。\n13级起，受到献祭之路影响的敌人现在也会变得战栗。"
+  },
+ {
+    "Key": "PathOfSacrificeT3.Name",
+    "zhCN": "献祭之道"
+  },
+ {
+    "Key": "PathOfSacrificeT3.Description",
+    "zhCN": "在你20英尺范围内的敌人被迫攻击你而不是你的盟友。 你的武器攻击检定会受到-4减值，并且你不能再进行防御式攻击。 当你穿着中型或轻型护甲时，你可以将魅力调整值加到AC上。\n5级起，你免疫借机攻击。\n9级起，你的生命值获得+10加值。\n13级起，受到献祭之路影响的敌人现在也会变得战栗。"
+  },
+ {
+    "Key": "PathOfSacrificeMainT3.Name",
+    "zhCN": "献祭之道"
+  },
+ {
+    "Key": "PathOfSacrificeMainT3.Description",
+    "zhCN": "你免疫借机攻击。"
+  },
+  {
+    "Key": "PathOfSacrificeBuffT4.Name",
+    "zhCN": "献祭之道"
+  },
+ {
+    "Key": "PathOfSacrificeBuffT4.Description",
+    "zhCN": "在你20英尺范围内的敌人被迫攻击你而不是你的盟友。 你的武器攻击检定会受到-4减值，并且你不能再进行防御式攻击。 当你穿着中型或轻型护甲时，你可以将魅力调整值加到AC上。\n5级起，你免疫借机攻击。\n9级起，你的生命值获得+10加值。\n13级起，受到献祭之路影响的敌人现在也会变得战栗。"
+  },
+ {
+    "Key": "PathOfSacrificeT4.Name",
+    "zhCN": "献祭之道"
+  },
+ {
+    "Key": "PathOfSacrificeT4.Description",
+    "zhCN": "在你20英尺范围内的敌人被迫攻击你而不是你的盟友。 你的武器攻击检定会受到-4减值，并且你不能再进行防御式攻击。 当你穿着中型或轻型护甲时，你可以将魅力调整值加到AC上。\n5级起，你免疫借机攻击。\n9级起，你的生命值获得+10加值。\n13级起，受到献祭之路影响的敌人现在也会变得战栗。"
+  },
+ {
+    "Key": "PathOfSacrificeMainT4.Name",
+    "zhCN": "献祭之道"
+  },
+ {
+    "Key": "PathOfSacrificeMainT4.Description",
+    "zhCN": "你的生命值获得+10加值。"
+  },
+  {
+    "Key": "PathOfSacrificeBuffT5.Name",
+    "zhCN": "献祭之道"
+  },
+ {
+    "Key": "PathOfSacrificeBuffT5.Description",
+    "zhCN": "在你20英尺范围内的敌人被迫攻击你而不是你的盟友。 你的武器攻击检定会受到-4减值，并且你不能再进行防御式攻击。 当你穿着中型或轻型护甲时，你可以将魅力调整值加到AC上。\n5级起，你免疫借机攻击。\n9级起，你的生命值获得+10加值。\n13级起，受到献祭之路影响的敌人现在也会变得战栗。"
+  },
+ {
+    "Key": "PathOfSacrificeMainT5.Name",
+    "zhCN": "献祭之道"
+  },
+ {
+    "Key": "PathOfSacrificeMainT5.Description",
+    "zhCN": "受到献祭之路影响的敌人现在也会变得战栗。"
+  },
+ {
+    "Key": "OathOfSacrificeDebuff.Name",
+    "zhCN": "献祭誓约"
+  },
+ {
+    "Key": "OathOfSacrificeDebuff.Description",
+    "zhCN": "目标被迫攻击神圣圣徒。"
+  },
+ {
+    "Key": "PenanceBuff.Name",
+    "zhCN": "忏悔"
+  },
+ {
+    "Key": "PenanceBuff.Description",
+    "zhCN": "在解除魔法和高等解除魔法检定上获得+4加值。可以用迅捷动作施放解除魔法。"
+  },
+ {
+    "Key": "Penance.Name",
+    "zhCN": "忏悔"
+  },
+ {
+    "Key": "Penance.Description",
+    "zhCN": "在解除魔法和高等解除魔法检定上获得+4加值。可以用迅捷动作施放解除魔法。"
+  },
+ {
+    "Key": "RelicArmor.Name",
+    "zhCN": "圣遗铠甲"
+  },
+ {
+    "Key": "RelicArmor.Description",
+    "zhCN": "你护甲的最大敏捷加值提高等于你先知等级的数值。 忽略中甲、轻甲、重盾、轻盾和小圆盾所带来的技能检定和速度惩罚。"
+  },
+ {
+    "Key": "SaintMystery.Name",
+    "zhCN": "圣徒奥秘"
+  },
+ {
+    "Key": "SaintMystery.Description",
+    "zhCN": "步入圣徒之道的先知。 "
+  },
+ {
+    "Key": "SaintsTouchAbility.Name",
+    "zhCN": "圣徒之触"
+  },
+ {
+    "Key": "SaintsTouchAbility.Description",
+    "zhCN": "治疗（{g|Encyclopedia:Class_Level}职业等级{/g}的一半{g|Encyclopedia:Dice}d4{/g}点{g|Encyclopedia:Damage}伤害{/g}，每{g|Encyclopedia:Class_Level}职业等级{/g}额外+2点。每天可使用次数等于1+你的魅力调整值。"
+  },
+ {
+    "Key": "ExtraRevelation.Name",
+    "zhCN": "额外启示"
+  },
+ {
+    "Key": "ExtraRevelation.Description",
+    "zhCN": "你获得额外一项启示。你必须满足其先觉条件。\n你可以多次获得此专长。"
+  },
+]
