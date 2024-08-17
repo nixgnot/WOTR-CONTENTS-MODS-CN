@@ -2336,7 +2336,7 @@
 ------------------------------------------- 
 ### [CharacterOptionsPlus](https://github.com/WittleWolfie/CharacterOptionsPlus)
 > *前置：* TabletopTweaks-Core, ModMenu<br>
-> *中文：* **自带（本人维护）**<br>
+> *中文：* **自带，但[建议使用QL](QuickLocalization用汉化文本/Localization/CharacterOptionsPlus(Fix))**<br>
 > *安装方式：* **UMM**<br>
 > *新增内容：* 大量，法术专长为主<br>
 + 大型MOD，增加很多新内容
@@ -3074,7 +3074,7 @@ Metamagic Master 超魔主宰：指定一个法术。当你超魔施展该法术
 ------------------------------------------- 
 ### [AddedFeats](https://github.com/Telyl/AddedFeats)
 > *前置：* ModMenu<br>
-> *中文：* **QL汉化（@HerryZheng8提供）**<br>
+> *中文：* **[QL汉化](QuickLocalization用汉化文本/Localization/AddedFeats)（@HerryZheng8提供）**<br>
 > *安装方式：* **UMM**<br>
 > *修改内容：* <br>
 > *新增内容：* 专长，法术<br>
@@ -3116,7 +3116,7 @@ Metamagic Master 超魔主宰：指定一个法术。当你超魔施展该法术
 ------------------------------------------- 
 ### [BetterBackgrounds](https://www.nexusmods.com/pathfinderwrathoftherighteous/mods/205)
 > *前置：* 无<br>
-> *中文：* **QL汉化**<br>
+> *中文：* **[QL汉化](QuickLocalization用汉化文本/Localization/BetterBackgrounds)**<br>
 > *安装方式：* **非UMM**<br>
 > *修改内容：* <br>
 > *新增内容：* 人物背景<br>
@@ -3465,7 +3465,7 @@ C:\Users\你的用户名\AppData\LocalLow\Owlcat Games\Pathfinder Wrath Of The R
 ------------------------------------------- 
 ### [BrawlerClass](https://www.nexusmods.com/pathfinderwrathoftherighteous/mods/207)
 > *前置：* 无<br>
-> *中文：* **QL汉化**<br>
+> *中文：* **[QL汉化](QuickLocalization用汉化文本/Localization/BrawlerClassWrath)**<br>
 > *安装方式：* **UMM**<br>
 > *修改内容：* <br>
 > *新增内容：* 拳师职业<br>
@@ -3513,12 +3513,12 @@ C:\Users\你的用户名\AppData\LocalLow\Owlcat Games\Pathfinder Wrath Of The R
 -------------------------------------------   
 ### [AlternateHumanTraits](https://github.com/microsoftenator2022/AlternateHumanTraits)
 > *前置：* 无<br>
-> *中文：* **QL汉化**<br>
+> *中文：* **[QL汉化](QuickLocalization用汉化文本/Localization/AlternateRacialTraits)**<br>
 > *安装方式：* **UMM**<br>
 > *修改内容：* <br>
 > *新增内容：* 人类替换种族特性<br>
 + 提供来自规则书的人类可选替换种族特性
-> 重写版：[AlternateRacialTraits](https://github.com/microsoftenator2022/AlternateRacialTraits)
+> **建议使用重写版**：[AlternateRacialTraits](https://github.com/microsoftenator2022/AlternateRacialTraits)
 > 功能一致，优化了代码，但是也不能使用双重天赋获得任意属性+4了，可自行选用
 <table>  
  <tr><th colspan="3">新增内容列表<br></th></tr> 
@@ -3644,7 +3644,7 @@ C:\Users\你的用户名\AppData\LocalLow\Owlcat Games\Pathfinder Wrath Of The R
 -------------------------------------------   
 ### CyniikalBrokenFeatures
 > *前置：* 无<br>
-> *中文：* **QL汉化**<br>
+> *中文：* **[QL汉化](QuickLocalization用汉化文本/Localization/BrokenFeatures)**<br>
 > *安装方式：* **UMM**<br>
 > *新增内容：* 法师学派：虚<br>
 + 增加了法师的虚学派
@@ -4398,7 +4398,7 @@ C:\Users\你的用户名\AppData\LocalLow\Owlcat Games\Pathfinder Wrath Of The R
 -------------------------------------------  
 ### [AutomaticBonusProgression](https://github.com/WittleWolfie/AutomaticBonusProgression)
 > *前置：* ModMenu<br>
-> *中文：* **QL汉化**<br>
+> *中文：* **[QL汉化](QuickLocalization用汉化文本/Localization/AutomaticBonusProgression)**<br>
 > *安装方式：* **UMM**<br>
 > *新增内容：* 可选规则：自动增长加值<br>
 + 引入变体规则，角色无需给予加值和属性的物品，他们将在等级成长的过程中自动获得这些加值，至此他们可以空下那些装备栏位给各种有特效的物品
@@ -4733,7 +4733,7 @@ C:\Users\你的用户名\AppData\LocalLow\Owlcat Games\Pathfinder Wrath Of The R
 
 ### [deathknightandmore](https://gitlab.com/AngeloRP93/deathknightandmore/-/releases)
 > *前置：* 作者没说，但肯定需要MicroscopicContentExpansion<br>
-> *中文：* **QL汉化**<br>
+> *中文：* **[QL汉化](QuickLocalization用汉化文本/Localization/Deathknight)**<br>
 > *安装方式：* **UMM**<br>
 > *新增内容：* 添加以魔兽世界中的死亡骑士为原型的反圣武士变体
 <table>
@@ -4744,7 +4744,7 @@ C:\Users\你的用户名\AppData\LocalLow\Owlcat Games\Pathfinder Wrath Of The R
 
 ### [HalflingPartisan](https://www.nexusmods.com/pathfinderwrathoftherighteous/mods/702)
 > *前置：* 无<br>
-> *中文：* **QL汉化**<br>
+> *中文：* **[QL汉化](QuickLocalization用汉化文本/Localization/HalflingPartisan)**<br>
 > *安装方式：* **非UMM**<br>
 > *新增内容：* 游侠变体半身人游击者
 <table>
@@ -4755,7 +4755,7 @@ C:\Users\你的用户名\AppData\LocalLow\Owlcat Games\Pathfinder Wrath Of The R
 
 ### [Commander](https://github.com/Teraunce/Commander/releases/tag/1.0.2)
 > *前置：* 无<br>
-> *中文：* **QL汉化**<br>
+> *中文：* **[QL汉化](QuickLocalization用汉化文本/Localization/Commander)**<br>
 > *安装方式：* **非UMM**<br>
 > *新增内容：* 先知变体神圣圣徒
 <table>
