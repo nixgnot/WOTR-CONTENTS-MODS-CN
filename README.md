@@ -2032,7 +2032,7 @@
 ### [HomebrewArchetypes](https://www.nexusmods.com/pathfinderwrathoftherighteous/mods/279)
 + **注意！Homebrew Archetypes不能使用UMM安装，可以使用ModFinder安装或者参考汉化帖手动安装**
 > *前置：* 无<br>
-> *中文：* **自带中文（建议使用QL修正）**<br>
+> *中文：* **自带中文（建议使用[QL修正](QuickLocalization用汉化文本/Localization/HomebrewArchetypes(Fix))）**<br>
 > *安装方式：* **非UMM**<br>
 > *修改内容：* 物品、变体和机制（AC）<br>
 > *新增内容：* 大量变体，职业、信仰、领域、专长<br>
@@ -2281,7 +2281,7 @@
 -------------------------------------------
 ### [ToggleableThrowingWeapons](https://github.com/pheonix99/ToggleableThrowingWeapons)
 > *前置：* 无<br>
-> *中文：* **QL汉化**<br>
+> *中文：* **[QL汉化](QuickLocalization用汉化文本/Localization/ToggleableThrowingWeapons)**<br>
 > *安装方式：* **UMM**<br>
 > *修改内容：* 匕首和星刃投掷<br>
 + 小型MOD，持有匕首和星刃时会多出一个开关型能力，可以自由在**远程使用和近战使用**间切换。
@@ -2290,7 +2290,7 @@
 -------------------------------------------
 ### [MorvarchsPlaystyleExpansions](https://github.com/MorvarchPrincess/MorvarchsPlaystyleExpansions)
 > *前置：* 无<br>
-> *中文：* **QL汉化**<br>
+> *中文：* **[QL汉化](QuickLocalization用汉化文本/Localization/MorvarchsPlaystyleExpansions)**<br>
 > *安装方式：* **UMM**<br>
 > *新增内容：* 专长等<br>
 + 增加少量新内容
@@ -3183,7 +3183,7 @@ C:\Users\你的用户名\AppData\LocalLow\Owlcat Games\Pathfinder Wrath Of The R
 ------------------------------------------- 
 ### [MysticalMayhem](https://gitgud.io/Kreaddy/mysticalmayhem)
 > *前置：* 无<br>
-> *中文：* **自带（需要QL汉化补全内容）**<br>
+> *中文：* **自带（需要[QL汉化](QuickLocalization用汉化文本/Localization/MysticalMayhem)补全内容）**<br>
 > *安装方式：* **UMM**<br>
 > *修改内容：* <br>
 > *新增内容：* 变体，专长，神话能力，法术等<br>
@@ -3490,7 +3490,7 @@ C:\Users\你的用户名\AppData\LocalLow\Owlcat Games\Pathfinder Wrath Of The R
 ### [WOTR_PATH_OF_HELL](https://github.com/Balkoth-dev/WOTR_PATH_OF_HELL)
 ### [WOTR_PATH_OF_RAGE](https://github.com/Balkoth-dev/WOTR_PATH_OF_RAGE)
 > *前置：* 无<br>
-> *中文：* **QL汉化**<br>
+> *中文：* **[QL汉化](QuickLocalization用汉化文本/Localization/WOTR_PATH_OF_XXX)**<br>
 > *安装方式：* **UMM**<br>
 > *修改内容：* <br>
 > *新增内容：* 道途重做<br>
@@ -3718,7 +3718,7 @@ C:\Users\你的用户名\AppData\LocalLow\Owlcat Games\Pathfinder Wrath Of The R
 -------------------------------------------   
 ### [SwashbucklerWOTR](https://github.com/novumvita/SwashbucklerWOTR)
 > *前置：* 无<br>
-> *中文：* **汉化已提交（但建议使用QL汉化，有修正）**<br>
+> *中文：* **汉化已提交（建议使用[QL汉化](QuickLocalization用汉化文本/Localization/Swashbuckler)，有修正）**<br>
 > *安装方式：* **UMM**<br>
 > *新增内容：* 游荡剑客<br>
 + 增加基础职业游荡剑客
@@ -3758,7 +3758,7 @@ C:\Users\你的用户名\AppData\LocalLow\Owlcat Games\Pathfinder Wrath Of The R
 --------------------------------------
 ### SmolCraft
 > *前置：* 无<br>
-> *中文：* **QL汉化**<br>
+> *中文：* **[QL汉化](QuickLocalization用汉化文本/Localization/SmolCraft)**<br>
 > *安装方式：* **UMM**<br>
 > *新增内容：* 神话能力。专长，动物伙伴<br>
 + Discord发布，早期版本，自行承担风险。本文档[Release页面](https://github.com/nixgnot/WOTR-CONTENTS-MODS-CN/releases)处可下载（SmolCraft.zip）
@@ -3780,7 +3780,7 @@ C:\Users\你的用户名\AppData\LocalLow\Owlcat Games\Pathfinder Wrath Of The R
 --------------------------------------
 ### [EnduringRework](https://github.com/alterasc/EnduringRework)
 > *前置：* 无<br>
-> *中文：* **QL汉化**<br>
+> *中文：* **[QL汉化](QuickLocalization用汉化文本/Localization/EnduringRework)**<br>
 > *安装方式：* **UMM**<br>
 > *修改内容：* 持久法术和高等持久法术<br>
 + 修改神话能力持久法术和高等持久法术的机制
@@ -3807,7 +3807,7 @@ C:\Users\你的用户名\AppData\LocalLow\Owlcat Games\Pathfinder Wrath Of The R
 --------------------------------------
 ### [Psionics](https://www.nexusmods.com/pathfinderwrathoftherighteous/mods/513)
 > *前置：* 无<br>
-> *中文：* **QL汉化**<br>
+> *中文：* **[QL汉化](QuickLocalization用汉化文本/Localization/Psionics)**<br>
 > *安装方式：* **UMM**<br>
 > *新增内容：* 灵能<br>
 + 增加了灵能内容的MOD，目前仍在开发阶段
@@ -4369,7 +4369,7 @@ C:\Users\你的用户名\AppData\LocalLow\Owlcat Games\Pathfinder Wrath Of The R
 -------------------------------------------   
 ### [TransfiguredCasterArchetypes](https://github.com/AdamMeloy/TransfiguredCasterArchetypes)
 > *前置：* 无<br>
-> *中文：* **QL汉化**<br>
+> *中文：* **[QL汉化](QuickLocalization用汉化文本/Localization/TransfiguredCasterArchetypes)**<br>
 > *安装方式：* **UMM**<br>
 > *新增内容：* 变体<br>
 <table>
@@ -4382,7 +4382,7 @@ C:\Users\你的用户名\AppData\LocalLow\Owlcat Games\Pathfinder Wrath Of The R
 -------------------------------------------   
 ### [HomebrewWarlock](https://github.com/microsoftenator2022/HomebrewWarlock)
 > *前置：* 无<br>
-> *中文：* **QL汉化**<br>
+> *中文：* **[QL汉化](QuickLocalization用汉化文本/Localization/HomebrewWarlock)**<br>
 > *安装方式：* **UMM**<br>
 > *新增内容：* 职业<br>
 + 移植并改编DND3.5E的邪术师到WOTR
@@ -4410,7 +4410,7 @@ C:\Users\你的用户名\AppData\LocalLow\Owlcat Games\Pathfinder Wrath Of The R
 -------------------------------------------  
 ### [WOTR_MAKING_FRIENDS](https://github.com/Balkoth-dev/WOTR_MAKING_FRIENDS)
 > *前置：* ModMenu<br>
-> *中文：* **QL汉化**<br>
+> *中文：* **[QL汉化](QuickLocalization用汉化文本/Localization/WOTR_MAKING_FRIENDS)**<br>
 > *安装方式：* **UMM**<br>
 > *新增内容：* 职业<br>
 + 添加召唤师。职业详情可参考CHM
@@ -4460,7 +4460,7 @@ C:\Users\你的用户名\AppData\LocalLow\Owlcat Games\Pathfinder Wrath Of The R
 -------------------------------------------  
 ### [PathofWar](https://github.com/novumvita/PathofWar)
 > *前置：* 无<br>
-> *中文：* ql汉化<br>
+> *中文：* **[QL汉化](QuickLocalization用汉化文本/Localization/PathofWar)**<br>
 > *安装方式：* **UMM**<br>
 > *新增内容：* 战争之路<br>
 + 添加第三方资源战争之路中的武技系统。好评更新中
@@ -4551,7 +4551,7 @@ C:\Users\你的用户名\AppData\LocalLow\Owlcat Games\Pathfinder Wrath Of The R
 ------------------------------------------- 
 ### [MagicArmory](https://github.com/alterasc/MagicArmory) 
 > *前置：* 无<br>
-> *中文：* **QL汉化**<br>
+> *中文：* **[QL汉化](QuickLocalization用汉化文本/Localization/MagicArmory)**<br>
 > *安装方式：* **UMM**<br>
 > *新增内容：* 目前新增加两个装备<br>
 <table>
@@ -4564,7 +4564,7 @@ C:\Users\你的用户名\AppData\LocalLow\Owlcat Games\Pathfinder Wrath Of The R
 -------------------------------------------
 ### [LevelableAivu](https://github.com/pheonix99/LevelableAivu) 
 > *前置：* 无<br>
-> *中文：* **QL汉化**<br>
+> *中文：* **[QL汉化](QuickLocalization用汉化文本/Localization/LevelableAivu)**<br>
 > *安装方式：* **UMM**<br>
 > *新增内容：* 能自定义爱乌的能力加点<br>
 
@@ -4660,7 +4660,7 @@ C:\Users\你的用户名\AppData\LocalLow\Owlcat Games\Pathfinder Wrath Of The R
 ------------------------------------------- 
 ### [FinessableSabers](https://github.com/StoyanKucarov/FinessableSabers)
 > *前置：* 无<br>
-> *中文：* **QL汉化**<br>
+> *中文：* **[QL汉化](QuickLocalization用汉化文本/Localization/FinessableSabers)**<br>
 > *安装方式：* **UMM**<br>
 > *新增内容：* 锯齿刀巧技训练和一个神话能力
 <table>
@@ -4673,7 +4673,7 @@ C:\Users\你的用户名\AppData\LocalLow\Owlcat Games\Pathfinder Wrath Of The R
 ------------------------------------------- 
 ### [HombrewFighterMagus](https://www.nexusmods.com/pathfinderwrathoftherighteous/mods/648)
 > *前置：* TabletopTweaks-Core<br>
-> *中文：* **QL汉化**<br>
+> *中文：* **[QL汉化](QuickLocalization用汉化文本/Localization/Trained Magus&Scion)**<br>
 > *安装方式：* **非UMM**<br>
 > *新增内容：* 原创魔战士，用部分职业能力换取武器训练护甲训练能力
 **注意，本MOD会使得【重装魔战】失效，只能选择其一使用**
@@ -4707,7 +4707,7 @@ C:\Users\你的用户名\AppData\LocalLow\Owlcat Games\Pathfinder Wrath Of The R
 ------------------------------------------- 
 ### [Mesmerist](https://github.com/Telyl/WOTRMesmerist/tree/master)
 > *前置：* ModMenu<br>
-> *中文：* **QL汉化**<br>
+> *中文：* **[QL汉化](QuickLocalization用汉化文本/Localization/Mesmerist)**<br>
 > *安装方式：* **UMM**<br>
 > *新增内容：* 
 <table>
