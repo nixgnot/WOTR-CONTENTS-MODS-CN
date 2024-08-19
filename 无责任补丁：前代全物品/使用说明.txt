@@ -1,1 +1,5 @@
+在商店添加了大量前作物品，售价随便定的，也可能有BUG，只供娱乐
 
+注意：需要先安装SparsSorcerousSundries
+
+覆盖Mods\SparsSorcerousSundries\Items下同名文件
