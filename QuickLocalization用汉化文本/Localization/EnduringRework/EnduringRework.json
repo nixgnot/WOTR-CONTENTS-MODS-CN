@@ -2,7 +2,7 @@
   {
     "Key": "AlterAsc.EnduringRework.GreaterEnduringSpellsDescription",
     "ProcessTemplates": false,
-    "zhCN": "你熟练掌握了延长增益法术效果的方法。\r\n效果：除原本效果外，现在当你对盟友释放应用了延时超魔的法术时，持续时间本应超过1小时的效果变为永久效果。"
+    "zhCN": "你熟练掌握了延长增益法术效果的方法。\r\n效果：除原本持久法术的效果外，现在当你对盟友释放应用了延时超魔的法术时，持续时间本应超过1小时的效果变为永久效果。"
   },
   {
     "Key": "AlterAsc.EnduringRework.EnduringSpellsDescription",
