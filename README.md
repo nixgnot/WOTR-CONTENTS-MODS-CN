@@ -2041,8 +2041,6 @@
   + 本体：核心内容
   + AC：修改部分物品和机制，**队友入队等级变为1**
   + ACTestingGrounds：将部分队友变为原创职业、规则书职业或变体，未汉化<br>
-+ **注意！最新版本（DLC6）下本MOD会导致醉拳僧无法选择，需要等待更新或者暂时禁用**
-+ **更新临时修复方法：在[Release页面](https://github.com/nixgnot/WOTR-CONTENTS-MODS-CN/releases)下载HAMonkProgression.patch，然后替换掉MOD文件夹下的Blueprints里同名文件**
  <table>
  <tr><th colspan="3">新增内容列表<br>详细介绍可以参阅汉化发布贴或游戏内说明</th></tr> 
    <tr><td colspan="2" rowspan="4">职业</td>
@@ -2233,7 +2231,7 @@
    <tr><td>领域</td>
        <td>Scalykind 鳞状<br>Plant 植物领域修改为桌面规则</td></tr>
    <tr><td>子领域</td>
-       <td>Agathion 阿加西翁、 Archon 亚空, Blood 血液、Caves 洞穴、Curse 诅咒、 Demon, Dragon 龙、Ferocity 凶猛、Ice 冰、Lust 欲望、Psychopomp 招魂、Rage 狂暴、 Resolve 决心、Restoration 恢复、Revelation 启示、Revolution 革命、Rivers 河流、Stars 星空、Storm 风暴、Thievery 盗窃、Undead 不死、Whimsy 滑稽、Wind 风、Growth 生长、Fist 铁拳、Loyalty 忠诚 Fist 铁拳 Loyalty 忠诚</td></tr>
+       <td>Agathion 阿加西翁、 Archon 亚空, Blood 血液、Caves 洞穴、Curse 诅咒、 Demon, Dragon 龙、Ferocity 凶猛、Ice 冰、Lust 欲望、Psychopomp 招魂、Rage 狂暴、 Resolve 决心、Restoration 恢复、Revelation 启示、Revolution 革命、Rivers 河流、Stars 星空、Storm 风暴、Thievery 盗窃、Undead 不死、Whimsy 滑稽、Wind 风、Growth 生长、Fist 铁拳、Loyalty 忠诚 Fist 铁拳 Loyalty 忠诚 Lightning 闪电</td></tr>
    <tr><td colspan="2" rowspan="41">法术<br><i>参阅PF文档</i></td>
        <td>Hydraulic push 水流冲击</td></tr>
    <tr><td>Slipstream 滑流</td></tr>
