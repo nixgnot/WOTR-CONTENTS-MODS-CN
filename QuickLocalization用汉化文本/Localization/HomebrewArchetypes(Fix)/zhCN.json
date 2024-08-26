@@ -4414,11 +4414,11 @@
         },
 		{
             "Key": "HomebrewArchtypes_ChampionOathSelectionName", 
-            "zhCN": "Take your Oath"
+            "zhCN": "立誓守约"
         },
 		{
             "Key": "HomebrewArchtypes_ChampionOathSelectionDesc", 
-            "zhCN": "Upon becoming a champion you take an oath that defines the goals you or your deity stand for. Once taken the oath is forever binding and can never be changed. Breaking the oath will cause the champion to lose its powers and abilities. The oath itself will grant the champion unique powers depending on the oath taken."
+            "zhCN": "在成为英杰时，你需要选定誓约，这个誓约定义了你或你所信奉的神灵所代表的目标。一旦立誓守约，这个誓约就永远具有约束力，不能改变。违背誓约将导致英杰失去其力量和能力。不同的誓约本身会赋予英杰独特的力量。"
         },
 		{
             "Key": "HomebrewArchtypes_ChampionOathDevotionName", 
@@ -4517,11 +4517,11 @@ A champion who embraces the Oath of Treachery owes allegiance to no one. There a
         },
 		{
             "Key": "HomebrewArchtypes_ChampionOathDevotionSacredWeaponName", 
-            "zhCN": "Sacred Weapon"
+            "zhCN": "崇圣武器"
         },
 		{
             "Key": "HomebrewArchtypes_ChampionOathDevotionSacredWeaponDesc", 
-            "zhCN": "As a swift action, you can imbue one weapon that you are holding with positive energy, using your Channel Energy. For 1 minute, you add your Charisma modifier as a sacred bonus to attack rolls made with that weapon (with a minimum bonus of +1). The weapon also emits bright light in a 20-foot radius and dim light 20 feet beyond that."
+            "zhCN": "以一个迅捷动作，你可以使用你的引导能量能力，为所持的武器灌注正能量。1分钟内，你使用这把武器攻击时获得等于你魅力调整值的崇圣攻击加值（最小+1）。武器也会发出20尺明亮光照，并再延伸20尺昏暗光照。"
         },
 		{
             "Key": "HomebrewArchtypes_DurationMinute", 
@@ -4742,5 +4742,145 @@ A champion who embraces the Oath of Treachery owes allegiance to no one. There a
 		{
             "Key": "HomebrewArchtypes_FreedomFighterLuckyAbilityBadLuckDesc", 
             "zhCN": "拥有这种能力的自由斗士可以对敌人施加不幸的诅咒。目标必须在所有的能力{g|Encyclopedia:Check}检定{/g}、攻击检定、豁免检定和技能检定中投掷两次，并取较差的结果。这个效果持续1轮。"
+        },
+		{
+            "Key": "HomebrewArchtypes_MythicAbilityAbundantFabricationName", 
+            "zhCN": "充裕编造"
+        },
+		{
+            "Key": "HomebrewArchtypes_MythicAbilityAbundantFabricationDesc", 
+            "zhCN": "你学会了增加编造次数的方法。\n效果：你的法术编造次数增加等于你神话阶级的数量。"
+        },
+		{
+            "Key": "HomebrewArchtypes_WizardArchetypeChronomancerName", 
+            "zhCN": "时法师"
+        },
+		{
+            "Key": "HomebrewArchtypes_WizardArchetypeChronomancerDesc", 
+            "zhCN": "时间并非是一种永恒不变的力量，而是一种拥有无穷变化的现象。一些罕见的奥法学者以时法师之名为人们所知，他们展露出的力量使他们在时光的狭缝中化为短暂的爆发，在过去，在未来，以及在无限可能的现在。"
+        },
+		{
+            "Key": "HomebrewArchtypes_ChampionOathUnconqueredName", 
+            "zhCN": "不屈誓约"
+        },
+		{
+            "Key": "HomebrewArchtypes_ChampionOathUnconqueredDesc", 
+            "zhCN": "当暴君发动征服战争时，许多人退守到城堡和要塞中，希望能侥幸逃脱战火对他们家园的肆虐。但有时，仅仅想在暴君的军队中生存下来就是不可能的任务，唯一的选择就是战斗或死亡。
+            
+不屈英杰是那些致力于捍卫自由和繁荣理想的士兵，他们与那些利用力量征服和统治弱者的敌人作战。他们通常被称为壁垒骑士、山岭骑士和不破战士。这些士兵在战场上施展防御性魔法，使自己成为移动的堡垒，无惧承受凡人、国王乃至神灵的愤怒。
+            
+不屈信条
+            
+ 锄强扶弱 - 汝必不惧强敌，扶弱逃出生天。
+            
+抗击暴政 - 汝必力战暴君，不分天国奈落。
+            
+奋勇争先 - 汝必身先士卒，以激众人之志。
+            
+ 坚不可摧 - 汝必意若坚钢，即便前路未卜。"
+        },
+		{
+            "Key": "HomebrewArchtypes_FreedomFighterLuckAbilityFeatureDesc", 
+            "zhCN": "随着自由斗士经验的积累，他们会学到许多操纵运气的天赋。这些天赋能够增加他们和盟友的生存能力和适应性，并打造独特的战斗风格。"
+        },
+		{
+            "Key": "HomebrewArchtypes_FreedomFighterFreedomFinesseFeatureDesc", 
+            "zhCN": "自由斗士对特定武器组的训练能让他们用敏捷调整值来替代力量调整值持用武器。"
+        },
+		{
+            "Key": "HomebrewArchtypes_ChampionOathUnconqueredAuraofIronName", 
+            "zhCN": "钢铁灵光"
+        },
+		{
+            "Key": "HomebrewArchtypes_ChampionOathUnconqueredAuraofIronDesc", 
+            "zhCN": "8级起，你散发出强力的防御性魔法，你和10尺内的友军受到的伤害减少等于你魅力调整值的数值。17级起，范围增加到30尺。"
+        },
+		{
+            "Key": "HomebrewArchtypes_ChampionOathUnconqueredLivingFortressName", 
+            "zhCN": "活动堡垒"
+        },
+		{
+            "Key": "HomebrewArchtypes_ChampionOathUnconqueredLivingFortressDesc", 
+            "zhCN": "14级起，你在队列中闲庭信步便能护队友周全。你附近的盟友在AC上获得等于你英杰等级一半的崇圣加值。"
+        },
+		{
+            "Key": "HomebrewArchtypes_ChampionOathUnconqueredOathofArmorName", 
+            "zhCN": "誓约铠甲"
+        },
+		{
+            "Key": "HomebrewArchtypes_ChampionOathUnconqueredOathofArmorDesc", 
+            "zhCN": "在宣誓不屈之后，英杰的宏伟防御便与他们的盔甲紧密相连。当不穿戴盔甲时，神圣力量会给予他们严厉的惩罚，使他们的AC受到等于魅力调整值的减值。"
+        },
+		{
+            "Key": "HomebrewArchtypes_ChampionOathUnconqueredOathSpellsName", 
+            "zhCN": "不屈誓约 - 誓约魔法"
+        },
+		{
+            "Key": "HomebrewArchtypes_ChampionOathUnconqueredOathSpellsDesc", 
+            "zhCN": "你获得下列誓约魔法：
+1环 - 护盾术
+2环 - 防护能量
+3环 - 行动自如
+4环 - 剑刃障壁"
+        },
+		{
+            "Key": "HomebrewArchtypes_ChampionOathChannelDivinityName", 
+            "zhCN": "引导神力"
+        },
+		{
+            "Key": "HomebrewArchtypes_ChampionOathChannelDivinityDesc", 
+            "zhCN": "选取此誓约后4级时你能选择两项引导神力之一。"
+        },
+		{
+            "Key": "HomebrewArchtypes_ChampionOathUnconqueredAdamantineBulwarkName", 
+            "zhCN": "引导神力 - 金刚壁垒"
+        },
+		{
+            "Key": "HomebrewArchtypes_ChampionOathUnconqueredAdamantineBulwarkDesc", 
+            "zhCN": "你在1轮内获得等于你英杰等级3倍的伤害减免和能量抗性。"
+        },
+		{
+            "Key": "HomebrewArchtypes_ChampionOathUnconqueredUnstoppableTiltName", 
+            "zhCN": "引导神力 - 无阻冲击"
+        },
+		{
+            "Key": "HomebrewArchtypes_ChampionOathUnconqueredUnstoppableTiltDesc", 
+            "zhCN": "以一个迅捷动作，你尝试对一个敌人进行一次冲撞攻击。\n冲撞会试图将敌人往后推开，而不造成任何伤害。如果你的{g|Encyclopedia:Combat_Maneuvers}战技{/g}成功，目标会被推出5英尺远。你的{g|Encyclopedia:Attack}攻击{/g}每超过对手的{g|Encyclopedia:CMD}战技防御{/g}5点，距离便额外增加5英尺。\n除非你拥有高等冲撞{g|Encyclopedia:Feat}专长{/g}，否则被冲撞推走的敌人不会因此移动而触发{g|Encyclopedia:Attack_Of_Opportunity}借机攻击{/g}，除非你掌握高等冲撞专长。你无法将生物推入存在固态物体或障碍物的区域。"
+        },
+		{
+            "Key": "HomebrewArchtypes_ChampionOathChampionName", 
+            "zhCN": "英杰誓约"
+        },
+		{
+            "Key": "HomebrewArchtypes_ChampionOathChampionDesc", 
+            "zhCN": "英杰誓约是英杰所能做出的基本誓约，激励他们追求正义、美德和秩序的最高理想。这些英杰有时被称为骑士、白骑士或圣骑士，他们符合光辉披甲骑士的理想，以对正义和纯善的荣誉追求为行动准则，自我保持最高的行为标准。
+			
+尽管英杰誓约的确切措辞和严格规定各不相同，但这一誓约的英杰们却共享着这些信条。
+
+英杰信条
+
+同心共志 - 汝必誓不为恶，行皆光辉良举。
+
+循规蹈矩 - 汝必尊君重律，举义避损他者。
+
+荣誉为重 - 汝必平等待人，不致含冤负屈。
+
+关怀备至 - 汝必古道热肠，全心以助善众。"
+        },
+		{
+            "Key": "HomebrewArchtypes_ChampionOathUnconqueredCripplingStrikeName", 
+            "zhCN": "镇暴打击"
+        },
+		{
+            "Key": "HomebrewArchtypes_ChampionOathUnconqueredCripplingStrikeDesc", 
+            "zhCN": "5级起，你在1分钟内可以进行一种特殊攻击，在成功命中后接下来的1轮中将对手的速度降低一半。该能力每天可以使用两次，并且在5级之后，每提升4级冠军等级，就可以额外使用一次。"
+        },
+		{
+            "Key": "HomebrewArchtypes_ChampionOathUnconqueredUnbreakableDefenderName", 
+            "zhCN": "不破卫士"
+        },
+		{
+            "Key": "HomebrewArchtypes_ChampionOathUnconqueredUnbreakableDefenderDesc", 
+            "zhCN": "20级起，你可以作为一个标准动作，为自己和盟友创造一层由神圣能量构成的额外护甲。这层护甲会提供200点临时生命值，持续时间1分钟。该能力每天只能使用一次。"
         }
 	]	
