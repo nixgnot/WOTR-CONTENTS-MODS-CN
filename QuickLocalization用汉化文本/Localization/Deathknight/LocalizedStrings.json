@@ -1,8 +1,6 @@
 [
     {
         "Key": "MyFeat.Name",
-        // Don't process this since it is just a name. Without this it might create strange artifacts by trying to create
-        // links to encycolpedia pages.
         "ProcessTemplates": false,
         "enGB": "My Feat"
     },
@@ -401,5 +399,263 @@
         "zhCN": "在20级时，死亡骑士加入了亡灵们的行列。他获得DR 10/钝击和善良。他的类别变为不死生物，并获得所有不死生物的特征。不死勇士对疾病免疫，不再具有体质值，他使用魅力来计算生命值、强韧豁免和任何依赖体质的特殊能力。如果你已经是不死生物了，则获得+10魅力加值。",
         "enGB": "At 20th level, the Death Knight joins the ranks of the undead. His DR increases to 10/bludgeoning and good. His type changes to undead, and he acquires all undead traits. Although immune to disease. The undying champion no longer has a Constitution score. He uses his Charisma score for calculating hit points, Fortitude saves, and any special abilities that rely on Constitution. If you are undead gain +10 Charisma Bonus ",
         "esES": "En nivel 20, El Caballero de la Muerte completa su transformación en muerto viviente. obteniendo DR 10/bludgeoning and good. Su tipo cambia a muerto viviente y adquiere los rasgos de un muerto viviente. El campeón muerto viviente no tiene puntuación de constitución. El usa su carisma para calcular sus puntos de vida, salvaciones de Fortaleza y cualquier habilidad especial relacionada a la Constitución, Si ya eres un muerto viviente ganas +10 Charisma "
+    },
+    {
+        "Key": "DeathKnightUndeadTransformationI.Name",
+        "zhCN": "亡者变身 I",
+        "enGB": "Undead Transformation I",
+        "esES": "Transformación en Muerto Viviente I"
+    },
+    {
+        "Key": "DeathKnightUndeadTransformationI.Description",
+        "zhCN": "10级起，死亡骑士免疫毒素和能量吸取",
+        "enGB": "At level 10, the Death Knight gain inmunity to poison and energy drain",
+        "esES": "En nivel 10, el Caballero de la Muerte gana inmunidad al veneno y drenaje de energía"
+    },
+    {
+        "Key": "DeathKnightUndeadTransformationII.Name",
+        "zhCN": "亡者变身 II",
+        "enGB": "Undead Transformation II",
+        "esES": "Transformación en Muerto Viviente II"
+    },
+    {
+        "Key": "DeathKnightUndeadTransformationII.Description",
+        "zhCN": "15级起，死亡骑士免疫即死效应、麻痹、震慑并且不再需要睡眠",
+        "enGB": "At level 15, the Death Knight gain inmunity to Death effects, paralysis, stunning and he no longer sleeps",
+        "esES": "En nivel 15, el Caballero de la Muerte gana inmunidad a los efectos de muerte, paralisis, aturdimiento y dormir"
+    },
+    {
+        "Key": "DeathknightUndeadEspecialization.Name",
+        "zhCN": "亡灵专擅",
+        "enGB": "Undead Especialization",
+        "esES": "Especialización Muertos vivientes"
+    },
+    {
+        "Key": "DeathknightUndeadEspecialization.Description",
+        "zhCN": "死亡与腐朽之主，传播感染并控制亡灵奴仆效力，提升你的亡灵奴仆和同伴的能力",
+        "enGB": "Master of death and decay, spreading infection and controlling undead minions to do their bidding improve your undead minions and companions",
+        "esES": "Maestro de la muerte y descomposición, propagando infecciones y controlando esbirros muertos vivientes, mejoras tus muertos vivientes esbirros y compañeros"
+    },
+    {
+        "Key": "DeathknightPoisonSpells.Name",
+        "zhCN": "毒素法术",
+        "enGB": "Poison Spells",
+        "esES": "Hechizos de Veneno"
+    },
+    {
+        "Key": "DeathknightPoisonSpells.Description",
+        "zhCN": "",
+        "enGB": "",
+        "esES": ""
+    },
+    {
+        "Key": "ImproveUndeadAura.Name",
+        "zhCN": "进阶亡灵灵光",
+        "enGB": "Improved Undeads Aura",
+        "esES": "Aura de Muertos Vivientes Mejorados"
+    },
+    {
+        "Key": "ImproveUndeadAura.Description",
+        "zhCN": "为所有亡灵盟友提供加成，使其一轮内获得与你魅力调整值相等的攻击和伤害加值。每日可使用3次。",
+        "enGB": "Improve Undead minions and companions give your charisma bonus how extra damage and attack bonus by 1 round. Daily uses 3",
+        "esES": "Mejora a todos los muertos vivientes aliados dandole un bono de ataque y daño igual a tu carisma por 1 ronda. Usos diarios 3"
+    },
+    {
+        "Key": "ImproveUndeadAuraActivatable.Name",
+        "zhCN": "进阶亡灵灵光",
+        "enGB": "Improved Undeads Aura",
+        "esES": "Aura de Muertos Vivientes Mejorados"
+    },
+    {
+        "Key": "ImproveUndeadAuraActivatable.Description",
+        "zhCN": "为所有亡灵盟友提供加成，使其一轮内获得与你魅力加值相等的攻击和伤害加值。每日可使用4+魅力调整值次。",
+        "enGB": "Improve Undead minions and companions give your charisma bonus how extra damage and attack bonus by 1 round. Daily uses 4 + Charisma Bonus",
+        "esES": "Mejora a todos los muertos vivientes aliados dandole un bono de ataque y daño igual a tu carisma por 1 ronda. Usos diarios 4 + Carisma bonificador"
+    },
+    {
+        "Key": "ImproveUndeadAuraEffectBuff.Name",
+        "zhCN": "进阶亡灵灵光",
+        "enGB": "Improved Undeads Aura",
+        "esES": "Aura de Muertos Vivientes Mejorados"
+    },
+    {
+        "Key": "ImproveUndeadAuraEffectBuff.Description",
+        "zhCN": "为所有亡灵盟友提供加成，使其一轮内获得与你魅力加值相等的攻击和伤害加值。每日可使用4+魅力调整值次。",
+        "enGB": "Improve Undead minions and companions give your charisma bonus how extra damage and attack bonus by 1 round. Daily uses 4 + Charisma Bonus",
+        "esES": "Mejora a todos los muertos vivientes aliados dandole un bono de ataque y daño igual a tu carisma por 1 ronda. Usos diarios 4 + Carisma bonificador"
+    },
+    {
+        "Key": "TwoRounds",
+        "zhCN": "2 轮",
+        "enGB": "2 Rounds",
+        "esES": "2 Rondas"
+    },
+    {
+        "Key": "FrostStrikeAditionalUse.Name",
+        "zhCN": "冰霜打击 - 额外使用次数",
+        "enGB": "Frost Strike - Additional Uses",
+        "esES": "Golpe Helado - Usos adicionales"
+    },
+    {
+        "Key": "FrostStrikeAditionalUse.Description",
+        "zhCN": "冰霜打击获得3次额外使用次数",
+        "enGB": "Gain 3 aditional uses of Frost Strike",
+        "esES": "Ganas 3 usos adicionales de Golpe Helado"
+    },
+    {
+        "Key": "FrostStrikeMythicAditionalUse.Name",
+        "zhCN": "充裕冰霜打击",
+        "enGB": "Abundant Frost Strike",
+        "esES": "Golpe Helado Abundante"
+    },
+    {
+        "Key": "FrostStrikeMythicAditionalUse.Description",
+        "zhCN": "每个神话阶级获得额外一次使用次数",
+        "enGB": "You gain one additional use for each mythic level",
+        "esES": "Ganas 1 uso adicional por cada nivel mítico "
+    },
+    {
+        "Key": "UndeadMasterAuraAditionalUse.Name",
+        "zhCN": "进阶亡灵灵光 - 额外使用次数",
+        "enGB": "Improved Undeads Aura - Additional Uses",
+        "esES": "Aura de Muertos Vivientes Mejorados - Usos adicionales"
+    },
+    {
+        "Key": "UndeadMasterAuraAditionalUse.Description",
+        "zhCN": "进阶亡灵灵光获得2次额外使用次数",
+        "enGB": "Gain 2 aditional uses of Improved Undeads Aura",
+        "esES": "Ganas 2 usos adicionales de Aura de Muertos Vivientes Mejorados"
+    },
+    {
+        "Key": "UndeadMasterAuraMythicAditionalUse.Name",
+        "zhCN": "充裕灵光",
+        "enGB": "Abundant Aura",
+        "esES": "Aura Abundante"
+    },
+    {
+        "Key": "UndeadMasterAuraMythicAditionalUse.Description",
+        "zhCN": "每个神话阶级获得额外一次使用次数",
+        "enGB": "Gain 1 additional use by Mythic level",
+        "esES": "Ganas 1 uso adicional por nivel mítico"
+    },
+    {
+        "Key": "GraveWalkerUndeadSpells.Name",
+        "zhCN": "亡灵法术",
+        "enGB": "Undead Spells",
+        "esES": "Hechizos de Muerto Viviente"
+    },
+    {
+        "Key": "GraveWalkerUndeadSpells.Description",
+        "zhCN": "你获得创造不死生物的额外法术",
+        "enGB": "You have aditional spells for undead creation",
+        "esES": "Obtienes hechizos adicionales para creación de muertos vivientes"
+    },
+    {
+        "Key": "GravewalkerArchetype.Name",
+        "zhCN": "坟墓行者",
+        "enGB": "Grave Walker",
+        "esES": "Caminante de la Tumba"
+    },
+    {
+        "Key": "GravewalkerArchetype.Description",
+        "zhCN": "与死灵法师多有类似的是，坟墓行者痴迷于掌控亡灵，其是像僵尸这样没有意识的亡灵。与标准死灵法师的造物不同，坟墓行者的造物永远与她的意志相连，并且她能创造出具有惊人力量的邪恶幻象。",
+        "enGB": "Having much in common with necromancers, the gravewalker is obsessed with the occult manipulations of the dead, particularly mindless undead such as zombies. Unlike the creations of standard necromancers, a gravewalker’s creations remain forever tied to her will, and she can produce vile apparitions of tremendous power.",
+        "esES": "El caminante de tumbas, que tiene mucho en común con los nigromantes, está obsesionado con las manipulaciones ocultas de los muertos, en particular de los no muertos sin mente, como los zombis. A diferencia de las creaciones de los nigromantes estándar, las creaciones de un caminante de tumbas permanecen eternamente ligadas a su voluntad, y puede producir apariciones viles de tremendo poder."
+    },
+    {
+        "Key": "DeliverTouchSpells.Name",
+        "zhCN": "传递接触法术",
+        "enGB": "Deliver Touch Spell",
+        "esES": "Entregar Hechizo de toque"
+    },
+    {
+        "Key": "DeliverTouchSpells.Description",
+        "zhCN": "你可以中距离释放施放接触法术，并在远程接触攻击时获得额外的10点攻击加值，同时能够随意释放指挥号令死灵",
+        "enGB": "You can deliver touch spell how have medium reach and have 10 extra bonus to ranged touch attacks and command undead at will",
+        "esES": "Puedes lanzar hechizos con rango de toque a distancia y tiene 10 extra bonus de ataque y comandar muertos vivientes a voluntad"
+    },
+    {
+        "Key": "DeliverTouchSpellsAbility.Name",
+        "zhCN": "传递接触法术",
+        "enGB": "Deliver Touch Spell",
+        "esES": "Entregar Hechizo de toque"
+    },
+    {
+        "Key": "DeliverTouchSpellsAbility.Description",
+        "zhCN": "你获得法术及远，并在远程接触攻击时获得额外的10点攻击加值，但是获得恍惚状态",
+        "enGB": "You gain reach spell and 10 attack bonus to range touch attacks but you have staggered condition",
+        "esES": "Ganas hechizo de alcance y 10 bonus de ataque para toques de alcance medio pero obtienes codición Grogui"
+    },
+    {
+        "Key": "DesecrationAura1.Name",
+        "zhCN": "渎圣灵光",
+        "enGB": "Desecration Aura",
+        "esES": "Aura de Profanación"
+    },
+    {
+        "Key": "DesecrationAura1.Description",
+        "zhCN": "你获得使死灵法术DC+1的灵光",
+        "enGB": "You gain an aura that enhances necromancy spells by 1 DC",
+        "esES": "Obtienes un aura que mejora los hechizos de nigromancia en 1 DC"
+    },
+    {
+        "Key": "DesecrationAura1Buff.Name",
+        "zhCN": "渎圣灵光",
+        "enGB": "Desecration Aura",
+        "esES": "Aura de Profanación"
+    },
+    {
+        "Key": "DesecrationAura1Buff.Description",
+        "zhCN": "你获得使死灵法术DC+1的灵光",
+        "enGB": "You gain an aura that enhances necromancy spells by 1 DC",
+        "esES": "Obtienes un aura que mejora los hechizos de nigromancia en 1 DC"
+    },
+    {
+        "Key": "DesecrationAuraArea1Buff.Name",
+        "zhCN": "渎圣灵光",
+        "enGB": "Desecration Aura",
+        "esES": "Aura de Profanación"
+    },
+    {
+        "Key": "DesecrationAuraArea1Buff.Description",
+        "zhCN": "你获得使死灵法术DC+1的灵光",
+        "enGB": "You gain an aura that enhances necromancy spells by 1 DC",
+        "esES": "Obtienes un aura que mejora los hechizos de nigromancia en 1 DC"
+    },
+    {
+        "Key": "NecroticArrow.Name",
+        "zhCN": "死灵箭矢",
+        "enGB": "Necrotic Arrow",
+        "esES": "Flecha Necrótica"
+    },
+    {
+        "Key": "NecroticArrow.Description",
+        "zhCN": "你用死灵能量灌注弓箭1轮，并在击杀每个目标时唤起骷髅战将",
+        "enGB": "Enchant your bow with necrotic damage for one round and raise skeletal champion by each target killed",
+        "esES": "Encanta tú arco con daño necrótico por una ronda y levanta un skeleto campeón por cada objetivo eliminado"
+    },
+    {
+        "Key": "NecroticArrowAbility.Name",
+        "zhCN": "死灵箭矢",
+        "enGB": "Necrotic Arrow",
+        "esES": "Flecha Necrótica"
+    },
+    {
+        "Key": "NecroticArrowAbility.Description",
+        "zhCN": "你用死灵能量灌注弓箭1轮，并在击杀每个目标时唤起骷髅战将",
+        "enGB": "Enchant your bow with necrotic damage for one round and raise skeletal champion by each target killed",
+        "esES": "Encanta tú arco con daño necrótico por una ronda y levanta un skeleto campeón por cada objetivo eliminado"
+    },
+    {
+        "Key": "NecroticArrowAbuff.Name",
+        "zhCN": "死灵箭矢",
+        "enGB": "Necrotic Arrow",
+        "esES": "Flecha Necrótica"
+    },
+    {
+        "Key": "NecroticArrowAbuff.Description",
+        "zhCN": "你用死灵能量灌注弓箭1轮，造成额外1d6伤害，并在击杀每个目标时唤起骷髅战将",
+        "enGB": "Enchant your bow with necrotic damage 1d6 for one round and raise skeletal champion by each target killed",
+        "esES": "Encanta tú arco con daño necrótico 1d6 por una ronda y levanta un skeleto campeón por cada objetivo eliminado"
     }
 ]
