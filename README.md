@@ -3978,7 +3978,9 @@ C:\Users\你的用户名\AppData\LocalLow\Owlcat Games\Pathfinder Wrath Of The R
        <tr><td colspan="2">王牌弩手 Bolt Ace<br>在桌面上是铳士变体，作者修改成了5级封顶的进阶职业</td></tr>
        <tr><td colspan="2">森林守护者 Forest Warden</td></tr>
        <tr><td colspan="2">凡世渡魂人 Mortal Usher</td></tr>
-  <tr><td rowspan="38">职业特性和其他</i></td>
+  <tr><td rowspan="40">职业特性和其他</i></td>
+       <tr><td rowspan="2">龙脉术士血承 Dragon Disciple Bloodline</td></tr>
+       <td>秘龙之血 Esoteric Dragon's Blood<br>龙脉术士可以选择这种血承，放弃血承奥法来换取额外的心灵异能法术。</td></tr>
        <tr><td rowspan="7">狂暴之力 Rage Power</td></tr>
        <td>醉怒狂吼 Roaring Drunk<br>狂暴时，野蛮人获得威吓检定以及她创造的任何恐惧效果DC的士气加值，每4野蛮人等级增加1点。</td></tr>
        <td>勇气之水 Liquid Courage<br>狂暴时，野蛮人获得针对影响心智效果的豁免士气加值，每4野蛮人等级增加1点。</td></tr>
@@ -4169,7 +4171,7 @@ C:\Users\你的用户名\AppData\LocalLow\Owlcat Games\Pathfinder Wrath Of The R
 	  <td>渊博学识 Expansive Knowledge<br>狐之狡黠 2次/日</td></tr>
 	  <td>命定之拳 Inevitable Fist<br>每日轮数等同于你的生命骰数，你能够向自身的肢体灌入纯粹的秩序能量。你的徒手打击造成的伤害就如同你的体型比当前大一级，而且获得公理武器特殊能力。启动和解消该能力是自由动作，且轮数不必连续。</td></tr>
 	  <td>符文之躯 Runic Form<br>九个符文纹身出现在你的身体上，其中各有三个符文对应着义洛理的身心灵三种教导。每日3次以标准动作，你能够耗用一个纹身的力量。身之符文容有复原术作为类法术能力，心之符文使用时为你的感知提供+4神圣加值，持续1分钟。灵之符文可以使你进入灵体状态1分钟，如同破空步法术一般。</td></tr>
-  <tr><td rowspan="33">专长</i></td>
+  <tr><td rowspan="34">专长</i></td>
        <td colspan="2">崇神仪典 Deific Obedience<br>根据所信仰神明获得特殊神恩</td></tr>
        <td colspan="2">多样尊崇 Diverse Obedience<br>在确定获得崇神仪典的神恩时，将你的hd视为比实际高2。每当你获得神恩时，你可以从传道者或信仰哨卫神恩中进行选择。</td></tr>
        <td colspan="2">神导之手 Guided Hand<br>当你使用偏好武器时，你在掷攻击骰时可以用你的感知修正代替力量或敏捷修正。</td></tr>
@@ -4203,6 +4205,7 @@ C:\Users\你的用户名\AppData\LocalLow\Owlcat Games\Pathfinder Wrath Of The R
        <tr><td colspan="2">你可以将你的魅力调整值添加到使用星刃的攻击和伤害检定上。如果你如此做，你无法应用你的力量调整值，敏捷调整值（如果你有武器娴熟）或其他属性（如果你拥有将你替代攻击和伤害检定的能力）。</td></tr>
        <tr><td colspan="2">进阶条件：敏捷17，近程射击，快速射击，BAB+11或巧手11级。10级或以上的混乱善良诗人可以无视条件。你可以给一枚抛出的星刃赋予强大的回旋效果，使得多个刃叶击中目标而非四个刃叶中的某一个，并造成额外的伤害。作为一个整轮动作，你可以投掷星刃进行一次攻击，投掷1d4来决定获得几次有效攻击（如果你投掷出1，则只有一次）。如果攻击命中，则每一击都会成功伤害目标。其中重击伤害只能触发一次，来自固定加值的伤害则适用于每个伤害骰，例如吟游诗人的激发勇气加值。抗性和伤害减免能力适用于每一击。如果你不知道如何投掷星刃，这些攻击视为近战攻击。</td></tr>
        <tr><td colspan="2">献祭专家 Sacrificial Adept<br>使用致命一击杀死一个队伍成员在24小时内使用法术进行的任何攻击检定和战技检定获得+2加值，并且在克服法术抗力的施法者等级检定上获得+2加值。</td></tr>
+       <tr><td colspan="2">灿如烈阳 Like the Sun<br>你能将照明杖作为光系法术的额外材料成分。该法术的等级对于任何目的而言均视为提高1级，最高9级，包括豁免和穿透黑暗的效果等。</td></tr>
   <tr><td rowspan="14">擒抱专长</i></td>
        <td colspan="2">擒抱（精通擒抱）<br>使用擒抱战技时不会引发借机攻击。此外你在擒抱检定上获得+2加值，同时在对抗擒抱的战技防御上获得+2加值。Grapple</td></tr>
        <tr><td colspan="2">高等擒抱 Greater Grapple<br>你在擒抱检定中获得+2加值，此加值与“精通擒抱”专长带来的加值累计。当你成功擒抱一个生物，可以用移动动作维持擒抱。本专长允许你以标准动作进行第二次擒抱检定来进一步移动、伤害或压制你的对手。</td></tr>
@@ -4320,7 +4323,7 @@ C:\Users\你的用户名\AppData\LocalLow\Owlcat Games\Pathfinder Wrath Of The R
        <tr><td colspan="2">秘术催化剂 Mystic Catalyst<br>你能随意使用次级双法合璧。</td></tr>
        <tr><td colspan="2">阿卡西之秘 Secret of the Akashic<br>将阿卡西窥视术和阿卡西构形添加到你的所有法术列表中。（博学士）</td></tr>
        <tr><td colspan="2">魅影之秘 Secret of the Phantom<br>将魅影杀手，魅影蛛网和魅影手添加到你的所有法术列表中。（博学士）</td></tr>
-  <tr><td rowspan="25">法术 spell</i></td>
+  <tr><td rowspan="27">法术 spell</i></td>
        <tr><td colspan="2">正义祷言 Litany of Righteousness<br>如果目标是邪恶阵营，拥有善良灵光的生物（当且只有当你是崇拜善良神明的牧师/战斗祭司，圣武士或善良异界生物时你才具有善良灵光。）的攻击对其造成双倍伤害。如果目标同时拥有邪恶亚种，它还会目眩1d4轮。</td></tr>
        <tr><td colspan="2">护卫他人 Shield Other<br>受术者的AC获得+1偏斜加值，豁免检定获得+1抗力加值。另外受术者所受的任何造成HP损失的创伤和攻击均减半 (包括由特殊能力造成的)，剩下的部分则由施法者承受。使用移动动作来结束法术而不是移出范围，这样你就不会在过场动画、酒馆等过程中丢失它。</td></tr>
        <tr><td colspan="2">后继者神击术 Inheritor's Smite<br>你在下一次发动近战攻击（若在下一回合结束前发动攻击）时，攻击检定可以获得+5神圣加值。如果该攻击命中，你可以立即尝试冲撞目标（对抗检定时同样获得+5神圣加值），并且不会引发借机攻击。</td></tr>
@@ -4345,6 +4348,8 @@ C:\Users\你的用户名\AppData\LocalLow\Owlcat Games\Pathfinder Wrath Of The R
        <tr><td colspan="2">猎牙行动 Tooth Hunt<br>你呈现出小牙仙的形态。如同妖精形态III，你获得以下能力：敏捷+8体型加值，力量–4减值，DR 2/寒铁，飞行速度（机动性良好，肯定比狮鹫更好）。小牙仙是一种微型生物，可以使用武器，以及一次噬咬攻击（1d4）。</td></tr>
        <tr><td colspan="2">贪婪纹章 Emblem of Greed<br>你用魔法塑造一把燃烧的大砍刀。该武器适合你的体型，并具有+1增强加值（15级+2 19级+3）和烈焰武器特殊能力。当挥舞这把大砍刀时，你视为擅长它，并使用你的施法者等级作为你的基本攻击加值（这可能会给你带来多次攻击）。</td></tr>
        <tr><td colspan="2">赫氏潜能术 Hermean Potential<br>你赐予目标通过清晰的头脑完美执行动作的能力。在目标尝试下一次攻击投骰，豁免检定或技能检定时，可以投骰两次，并取更有利的结果。你每有5个施法者等级，目标就可以额外重骰一次（次数最多在20级时达到5次）。</td></tr>
+       <tr><td colspan="2">暗之光 Dark-Light<br>你召唤一道影响所有活物的强光，成功通过豁免的目标目眩每施法者等级1轮，失败则改为目盲。</td></tr>
+       <tr><td colspan="2">光爆术 Burst of Radiance<br>该法术让整个区域充满了耀眼的闪光。该区域内的生物目盲1d4轮，如果成功通过反射豁免，则会改为目眩1d4轮。区域内的邪恶生物受到每施法者等级 1d4 点伤害（最多 5d4），不论它们是否成功通过反射豁免。</td></tr>
        <tr><td rowspan="21">其余修改</i></td>
        <tr><td colspan="2">修改标记<br>所有修改内容在其描述中都标记为已修改，无需切换：p</td></tr>
        <tr><td colspan="2">拔刀术 Quick Draw<br>如果剑爵已经拥有拔刀术或者警觉专长，他获得阿尔多瑞决斗精通作为额外专长。</td></tr>
@@ -4696,7 +4701,7 @@ C:\Users\你的用户名\AppData\LocalLow\Owlcat Games\Pathfinder Wrath Of The R
 > *新增内容：*
 > - 允许使用更小的队伍进行游戏
 > - 新增Prestige Minus能力,可随时随地召集队伍
-> - 等级上限提升至24级(传奇道途44级)
+> - 等级上限提升至28级(传奇道途48级)
 > - 1-21级使用桌面版经验值表,21-24级与20-21级相同
 > - 同伴经验值始终与主角保持一致
 > - 可减少队伍规模(2-5人,20级前)，修改后无法回头
