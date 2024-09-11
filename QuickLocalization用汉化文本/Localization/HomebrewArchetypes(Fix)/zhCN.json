@@ -4673,7 +4673,7 @@ A champion who embraces the Oath of Treachery owes allegiance to no one. There a
         },
 		{
             "Key": "HomebrewArchtypes_FreedomFighterLuckAbilitySeveringFateName", 
-            "zhCN": "隔断命运"
+            "zhCN": "切断宿命"
         },
 		{
             "Key": "HomebrewArchtypes_FreedomFighterLuckAbilitySeveringFateDesc", 
@@ -4882,5 +4882,97 @@ A champion who embraces the Oath of Treachery owes allegiance to no one. There a
 		{
             "Key": "HomebrewArchtypes_ChampionOathUnconqueredUnbreakableDefenderDesc", 
             "zhCN": "20级起，你可以作为一个标准动作，为自己和盟友创造一层由神圣能量构成的额外护甲。这层护甲会提供200点临时生命值，持续时间1分钟。该能力每天只能使用一次。"
+        },
+		{
+            "Key": "HomebrewArchtypes_ArcaneTricksterNokizaruSpellbook",
+            "zhCN": "轩猿众"
+        },
+		{
+            "Key": "HomebrewArchtypes_FreedomFighterLuckAbilityGuardedLuckSelfName", 
+            "zhCN": "守卫幸运（自身）"
+        },
+		{
+            "Key": "HomebrewArchtypes_FreedomFighterLuckAbilityGuardedLuckAllyName", 
+            "zhCN": "守卫幸运（盟友）"
+        },
+		{
+            "Key": "HomebrewArchtypes_FreedomFighterLuckAbilityIncreasingFortuneSelfName", 
+            "zhCN": "好运激增（自身）"
+        },
+		{
+            "Key": "HomebrewArchtypes_FreedomFighterLuckAbilityIncreasingFortuneAllyName", 
+            "zhCN": "好运激增（盟友）"
+        },
+		{
+            "Key": "HomebrewArchtypes_FreedomFighterLuckAbilityRolltheDiceSelfName", 
+            "zhCN": "天命一骰（自身）"
+        },
+		{
+            "Key": "HomebrewArchtypes_FreedomFighterLuckAbilityRolltheDiceAllyName", 
+            "zhCN": "天命一骰（盟友）"
+        },
+		{
+            "Key": "HomebrewArchtypes_FreedomFighterLuckAbilitySeverFateSelfName", 
+            "zhCN": "切断宿命（自身）"
+        },
+		{
+            "Key": "HomebrewArchtypes_FreedomFighterLuckAbilitySeverFateAllyName", 
+            "zhCN": "切断宿命（盟友）"
+        },
+		{
+            "Key": "HomebrewArchtypes_FreedomFighterLuckAbilityRightTimeRightPlaceName", 
+            "zhCN": "天运福地"
+        },
+		{
+            "Key": "HomebrewArchtypes_FreedomFighterLuckAbilityRightTimeRightPlaceDesc", 
+            "zhCN": "有时候，运气只是简单地取决于你身在何处。在一阵好运的推动下，你可以移动到你需要到达的地方。"
+        },
+		{
+            "Key": "HomebrewArchtypes_FreedomFighterLuckAbilityTheBiggerTheyAreName", 
+            "zhCN": "四两拨千斤"
+        },
+		{
+            "Key": "HomebrewArchtypes_FreedomFighterLuckAbilityTheBiggerTheyAreDesc", 
+            "zhCN": "以一个标准动作，自由斗士可以进行一次近战攻击。如果攻击命中，他们可以以一个不会引发借机攻击的自由动作，对攻击目标发动绊摔战技。"
+        },
+		{
+            "Key": "HomebrewArchtypes_FreedomFighterLuckAbilityBurrowName", 
+            "zhCN": "伏地潜步"
+        },
+		{
+            "Key": "HomebrewArchtypes_FreedomFighterLuckAbilityBurrowDesc", 
+            "zhCN": "在伏地潜步时，你的{g|Encyclopedia:Armor_Class}护甲等级{/g}和{g|Encyclopedia:Concealment}隐蔽{/g}会获得+8的{g|Encyclopedia:Bonus}闪避加值{/g}，但你除了移动外不能采取任何{g|Encyclopedia:CA_Types}动作{/g}。你可以根据需要随意使用伏地潜步。"
+        },
+		{
+            "Key": "HomebrewArchtypes_FreedomFighterLuckAbilityTrainedLeverageName", 
+            "zhCN": "优势杠杆"
+        },
+		{
+            "Key": "HomebrewArchtypes_FreedomFighterLuckAbilityTrainedLeverageDesc", 
+            "zhCN": "自由斗士的体型虽然是劣势，但他们通过训练学会了用自己的技巧来抵消敌人的体型优势。当对体型更大的敌人发动战技时，自由斗士在检定中获得等于他们自由斗士等级一半的加值。当防御来自体型更大敌人的战技时，自由斗士也会将此相同的加值加到他们的CMD上。"
+        },
+		{
+            "Key": "HomebrewArchtypes_MythicAbilityWhirlwindAttackName", 
+            "zhCN": "旋风攻击"
+        },
+		{
+            "Key": "HomebrewArchtypes_MythicAbilityWhirlwindAttackDesc", 
+            "zhCN": "这项能力允许勇士释放一连串的超速打击。此能力赋予额外的6次攻击，但每次攻击检定和伤害都会受到-4减值，这些攻击不与加速术效果叠加。旋风攻击持续一轮。这项能力每天可以使用3次。"
+        },
+		{
+            "Key": "HomebrewArchtypes_MythicAbilityGreaterWhirlwindAttackName", 
+            "zhCN": "高等旋风攻击"
+        },
+		{
+            "Key": "HomebrewArchtypes_MythicAbilityGreaterWhirlwindAttackDesc", 
+            "zhCN": "这项能力允许勇士释放一连串的超速打击。此能力赋予额外的6次攻击，这些攻击不与加速术效果叠加。旋风攻击持续一轮。这项能力（包括旋风攻击）每天可以使用3次。"
+        },
+		{
+            "Key": "HomebrewArchtypes_MythicAbilityHardinessName", 
+            "zhCN": "坚韧不拔"
+        },
+		{
+            "Key": "HomebrewArchtypes_MythicAbilityHardinessDesc", 
+            "zhCN": "在危险时刻，勇士能够调动隐藏的力量储备，使用坚韧不拔能力来获得对所有形式物理伤害的40%抗力。这种能力的持续时间每2等级增加1轮。这项能力每天可以使用3次。"
         }
 	]	
