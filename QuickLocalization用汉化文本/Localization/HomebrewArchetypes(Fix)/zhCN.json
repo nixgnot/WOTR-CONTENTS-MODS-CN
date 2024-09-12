@@ -4444,76 +4444,77 @@ Duty - Be responsible for your actions and their consequences, protect those ent
         },
 		{
             "Key": "HomebrewArchtypes_ChampionOathAncientsName", 
-            "zhCN": "Oath of the Ancients"
+            "Value": "远古誓约"
         },
 		{
             "Key": "HomebrewArchtypes_ChampionOathAncientsDesc", 
-            "zhCN": "The Oath of the Ancients is as old as the race of elves and the rituals of the druids. Sometimes called fey knights, green knights, or horned knights, champions who swear this oath cast their lot with the side of the light in the cosmic struggle against darkness because they love the beautiful and life-giving things of the world, not necessarily because they believe in principles of honor, courage, and justice. They adorn their armor and clothing with images of growing things-leaves, antlers, or flowers-to reflect their commitment to preserving life and light in the world.
+            "Value": "远古誓约的历史与精灵种族和德鲁伊仪式一样悠久。宣誓这一誓约的勇士有时被称为妖精骑士、绿骑士或号角骑士，他们之所以站在光明的一边，在寰宇对抗黑暗，是因为他们热爱世界上美丽和生机勃勃的事物，而不一定是因为他们相信荣誉、勇气和正义的原则。他们用代表生机的事物——树叶、鹿角或花朵——来装饰盔甲和衣物，以体现他们对保护世界上生命和光明的承诺。
 			
-Tenets of the Ancients
+远古信条
 
-The tenets of the Oath of the Ancients have been preserved for uncounted centuries. This oath emphasizes the principles of good above any concerns of law or chaos. Its four central principles are simple.
+远古誓约的信条已被保存了无数世纪。这一誓约强调善的原则超脱任何有关秩序或混乱的考量。其被简单概况为四个核心原则。
 
-Kindle the Light - Through your acts of mercy, kindness, and forgiveness, kindle the light of hope in the world, beating back despair.
+辉耀启明 - 汝必行皆善举，遍洒希望光辉。
 
-Shelter the Light - Where there is good, beauty, love, and laughter in the world, stand against the wickedness that would swallow it. Where life flourishes, stand against the forces that would render it barren.
+守正不阿 - 汝必卫护善美，挺身力战邪祟。
 
-Preserve Your Own Light - Delight in song and laughter, in beauty and art. If you allow the light to die in your own heart, you can't preserve it in the world.
+心贯白日 - 汝必心存善念，立身方可泽世。
 
-Be the Light - Be a glorious beacon for all who live in despair. Let the light of your joy and courage shine forth in all your deeds."
+吾身即光 - 汝必化身明灯，率众勇往直前。"
         },
 		{
             "Key": "HomebrewArchtypes_ChampionOathVengeanceName", 
-            "zhCN": "Oath of Vengeance"
+            "Value": "复仇誓约"
         },
 		{
             "Key": "HomebrewArchtypes_ChampionOathVengeanceDesc", 
-            "zhCN": "The Oath of Vengeance is a solemn commitment to punish those who have committed a grievous sin. When evil forces slaughter helpless villagers, when an entire people turns against the will of the gods, when a thieves' guild grows too violent and powerful, when a dragon rampages through the countryside – at times like these, champions arise and swear an Oath of Vengeance to set right that which has gone wrong. To these champions – sometimes called avengers or dark knights – their own purity is not as important as delivering justice.
-Tenets of Vengeance
+            "Value": "复仇誓约是一项庄严的承诺，旨在惩罚那些犯下严重罪行的人。当邪道屠杀无助的村民、当全族违背神灵的意志、当盗匪已变得无法无天、当巨龙在乡间肆意凌虐——在这些时刻，英杰会挺身而出，立下复仇之誓，以纠正错误，恢复正义。这些英杰——有时被称为复仇者或黑暗骑士——他们深知，与实现正义相比，个人的纯洁并不那么重要。
+ 
+复仇信条
 
-The tenets of the Oath of Vengeance vary by champion, but all the tenets revolve around punishing wrongdoers by any means necessary. Champions who uphold these tenets are willing to sacrifice even their own righteousness to mete out justice upon those who do evil, so the champions are often neutral or lawful neutral in alignment. The core principles of the tenets are brutally simple.
+复仇誓约的信条因英雄而异，但所有信条都围绕着以任何必要手段惩罚作恶者这一核心。秉持这些信条的英杰们，愿意甚至牺牲自己的正直，以制裁那些行恶之人。因此，这些英雄在立场上往往是中立的，或是守序中立。这些信条的核心原则极其简单而残酷。
 
-Fight the Greater Evil - Faced with a choice of fighting my sworn foes or combating a lesser evil, I choose the greater evil.
+首恶必诛 - 汝必擒贼擒王，方可荡尽奸党。
 
-No Mercy for the Wicked - Ordinary foes might win my mercy, but my sworn enemies do not.
+法不容情 - 汝必绝无怜悯，斩除誓仇凶徒。
 
-By Any Means Necessary - My qualms can't get in the way of exterminating my foes.
+不择手段 - 汝必得偿所愿，不惧血污双手。
 
-Restitution - If my foes wreak ruin on the world, it is because I failed to stop them. I must help those harmed by their misdeeds."
+救危扶困 - 汝必抚慰遗孤，倘若除恶未及。"
         },
 		{
             "Key": "HomebrewArchtypes_ChampionOathConquestName", 
-            "zhCN": "Oath of Conquest"
+            "Value": "征服誓约"
         },
 		{
             "Key": "HomebrewArchtypes_ChampionOathConquestDesc", 
-            "zhCN": "The Oath of Conquest calls to champions who seek glory in battle and the subjugation of their enemies. It isn’t enough for these champions to establish order. They must crush the forces of chaos. Sometimes called knight tyrants or iron mongers, those who swear this oath gather into grim orders that serve gods or philosophies of war and well-ordered might.
+            "Value": "征服誓约呼唤着那些在战场上追求荣耀、渴望征服敌人的英杰。对于这些英杰来说，仅仅建立秩序是远远不够的。他们必须摧毁混沌的力量。这些立下此誓的人有时被称为暴君骑士或铁腕强人，他们聚集在冷酷的秩序之中，为神灵，或战争哲学及强大的秩序力量服务。
 
-Some of these champions go so far as to consort with the powers of the Nine Hells, valuing the rule of law over the balm of mercy. The archdevil Bel, warlord of Avernus, counts many of these champions – called hell knights – as his most ardent supporters. Hell knights cover their armor with trophies taken from fallen enemies, a grim warning to any who dare oppose them and the decrees of their lords. These knights are often most fiercely resisted by other champions of this oath, who believe that the hell knights have wandered too far into darkness.
+这些英雄中的一些人甚至与九层地狱的力量勾结，他们重视法治甚于怜悯的抚慰。来自阿弗纳斯的战神大公贝尔，将这些被称为地狱骑士的英杰视为他最狂热的支持者。这些骑士用从倒下的敌人身上取得的战利品装饰他们的盔甲，这是对任何敢于反对他们及其领主法令的人的严酷警告。然而，这些地狱骑士往往也遭到了同样立下征服誓约的其他英杰的激烈抵制，他们认为地狱骑士已经过于深入地踏入了黑暗之中。
 
-Tenets of Conquest
+征服信条
 
-A champion who takes this oath has the tenets of conquest seared on the upper arm.
+立下征服誓约的英杰，会把征服的信条烙印在上臂。
 
-Douse the Flame of Hope - It is not enough to merely defeat an enemy in battle. Your victory must be so overwhelming that your enemies’ will to fight is shattered forever. A blade can end a life. Fear can end an empire.
+诛心丧胆 - 汝必摧枯拉朽，敌皆望风披靡。
 
-Rule with an Iron Fist - Once you have conquered, tolerate no dissent. Your word is law. Those who obey it shall be favored. Those who defy it shall be punished as an example to all who might follow.
+铁腕强权 - 汝必不容异议，出言即为铁律。
 
-Strength Above All - You shall rule until a stronger one arises. Then you must grow mightier and meet the challenge, or fall to your own ruin."
+横压一世 - 汝必不惧后进，力战强者为尊。"
         },
 		{
             "Key": "HomebrewArchtypes_ChampionOathTreacheryName", 
-            "zhCN": "Oath of Treachery"
+            "Value": "背叛誓约"
         },
 		{
             "Key": "HomebrewArchtypes_ChampionOathTreacheryDesc", 
-            "zhCN": "The Oath of Treachery is the path followed by champions who have forsworn other oaths or who care only for their own power and survival. Commonly known as blackguards, these profane warriors are faithful only to themselves. Anyone desperate enough to follow one of these champions does so because, while deceitful, these champions command great power. Those who follow them without falling prey to their treachery hope to indulge in wanton violence and accumulate great treasure.
+            "Value": "背叛誓约是那些背弃其他誓约或只关心自身权力和生存的英杰所走的道路。这些亵渎的战士通常被称为黑卫士，他们只忠于自己。任何绝望到足以追随这些英杰的人之所以这样做，是因为尽管他们欺诈成性，但这些英杰却拥有强大的力量。那些没有成为他们背叛牺牲品而追随他们的人，则希望沉溺于肆意的暴力并积累巨大的财富。
 
-Many of these champions pay homage to demon lords, especially Grazz’t and Orcus. Even the Lords of Hell are loath to ally with these champions of chaos, but sometimes Baalzebul and Glasya find a kindred spirit in a blackguard’s penchant for double dealing and treachery
+这些英杰中的许多人都向恶魔领主致敬，尤其是格拉兹特和奥库斯。即使是地狱领主也憎恶与这些混乱的英杰结盟，但有时巴尔泽布尔和格拉斯亚会在黑卫士的背叛和欺诈癖好中找到志同道合的人。
 
-Tenets of Treachery
+背叛信条
 
-A champion who embraces the Oath of Treachery owes allegiance to no one. There are no tenets of this oath, for it lacks any substance. Those who are unfortunate enough to have close contact with blackguards have observed that a blackguard’s overwhelming concern is power and safety, especially if both can be obtained at the expense of others."
+一个拥抱背叛誓约的英杰不会效忠于任何人。这个誓约没有任何信条，因为它缺乏任何实质内容。那些不幸与黑卫士有密切接触的人会发现，黑卫士最关心的是权力和安全，特别是如果这两者都可以以牺牲他人为代价来获得的话。"
         },
 		{
             "Key": "HomebrewArchtypes_ChampionOathDevotionSacredWeaponName", 
@@ -4855,9 +4856,9 @@ A champion who embraces the Oath of Treachery owes allegiance to no one. There a
             "Key": "HomebrewArchtypes_ChampionOathChampionDesc", 
             "zhCN": "英杰誓约是英杰所能做出的基本誓约，激励他们追求正义、美德和秩序的最高理想。这些英杰有时被称为骑士、白骑士或圣骑士，他们符合光辉披甲骑士的理想，以对正义和纯善的荣誉追求为行动准则，自我保持最高的行为标准。
 			
-尽管英杰誓约的确切措辞和严格规定各不相同，但这一誓约的英杰们却共享着这些信条。
-
 英杰信条
+
+尽管英杰誓约的确切措辞和严格规定各不相同，但这一誓约的英杰们却共享着这些信条。
 
 同心共志 - 汝必誓不为恶，行皆光辉良举。
 
@@ -4974,5 +4975,29 @@ A champion who embraces the Oath of Treachery owes allegiance to no one. There a
 		{
             "Key": "HomebrewArchtypes_MythicAbilityHardinessDesc", 
             "zhCN": "在危险时刻，勇士能够调动隐藏的力量储备，使用坚韧不拔能力来获得对所有形式物理伤害的40%抗力。这种能力的持续时间每2等级增加1轮。这项能力每天可以使用3次。"
+        },
+		{
+            "Key": "HomebrewArchtypes_MythicAbilityStunningStrikesName", 
+            "zhCN": "震慑强袭"
+        },
+		{
+            "Key": "HomebrewArchtypes_MythicAbilityStunningStrikesDesc", 
+            "zhCN": "允许勇士发动猛烈的强力打击，如果对手未能通过强韧豁免检定，则会将对手震慑2轮。此能力的难度等级（DC）为10 + 1/2角色等级 + 力量调整值。此能力持续2轮，每天能使用3次。"
+        },
+		{
+            "Key": "HomebrewArchtypes_MythicAbilityCriticalStrikesName", 
+            "zhCN": "致命强袭"
+        },
+		{
+            "Key": "HomebrewArchtypes_MythicAbilityCriticalStrikesDesc", 
+            "zhCN": "高级勇士对对手要害部位的深入了解使他/她能够每天一次使得一轮中的所有攻击都能击中要害部位。使用该能力后，下一轮中的每一次攻击掷骰都会得到自然20，发动重击。该能力每天可以使用一次。"
+        },
+		{
+            "Key": "HomebrewArchtypes_MythicAbilityWarcryName", 
+            "zhCN": "战争呼啸"
+        },
+		{
+            "Key": "HomebrewArchtypes_MythicAbilityWarcryDesc", 
+            "zhCN": "勇士发出强大而可怕的吼声，如果半径30英尺内的对手没有通过DC 10 + 1/2角色等级+魅力修调整值的意志豁免检定，会陷入恐慌。这种恐慌会导致所有受影响者的武器伤害降低20%，并且他们在1分钟内受到的攻击伤害增加20%。该能力每天可以使用3次。"
         }
 	]	
