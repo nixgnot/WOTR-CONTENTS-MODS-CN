@@ -4019,7 +4019,7 @@ C:\Users\你的用户名\AppData\LocalLow\Owlcat Games\Pathfinder Wrath Of The R
        <td>面瘫（2）Stone Face (2)<br>你滑稽的动作可以软化最坚硬的面容。你述说着一个古老的幽默故事，内容是一个拒绝露出笑容的女人，不管事情多么有趣，都无法让她发笑。直到她看到了一系列几乎不可能发生的事件：整车的有机肥，一位国王，还有一只飞毯。她不曾舒展的传说之眉终于舒展开来。当你完成表演的时候，目标将会受到“解除石化”的影响。</td></tr>
        <td>祭司王之安魂曲（10）The Requiem of the Fallen Priest-King (10)<br>你的表演揭示了欺骗时间的方法。此乐章描述伟大的祭司王，他自无数敌人重围中反败为胜，就像违抗了时光之力一般。当你完成表演，你可以在之后的10分钟之内加速时间的流动一次。当启动此效果时你可以用一个迅捷动作恢复你的标准动作。这个额外动作必须在启动之后10分钟之内被使用，否则就会失效。你的盟友可以在此传世名作中获益，不过他们必须在你表演时专心聆听，且不能进行其他活动。</td></tr>
   <tr><td colspan="20">崇神仪典 Deific Obedience<br></th></tr> 
-  <tr><td rowspan="167">崇神仪典 Deific Obedience</i></td>
+  <tr><td rowspan="177">崇神仪典 Deific Obedience</i></td>
 	 <tr><td rowspan="5">拉贾瑟尔 Ragathiel</td><td>需要信仰拉贾瑟尔（Expanded Content）或守序善良</td></tr>
 	  <td>服从仪典 Obedience<br>以拉贾瑟尔之名斩杀一名作恶者。仅仅拥有邪恶的内心或意图是不够的，确实犯下违法或邪恶的罪行才能作为祭品。对抗邪恶生物的法术与效果时豁免得到+4神圣加值。</td></tr>
 	  <td>义战 Virtuous Combat<br>祝福武器3次/天，正义祷言2次/天，或魔化防具1次/天</td></tr>
@@ -4186,6 +4186,16 @@ C:\Users\你的用户名\AppData\LocalLow\Owlcat Games\Pathfinder Wrath Of The R
 	  <td>隐秘知识 Secret Knowledge<br>识破隐形 2次/日</td></tr>
 	  <td>宙外之视 Sight Beyond Time<br>你总是能提前一会儿看到自己的命运，因此永远不会陷入措手不及。此外，你在AC和反射豁免上获得+2洞察加值。</td></tr>
 	  <td>恶意启示 Baleful Revelation<br>每日1次，你可以施放失败预言。</td></tr>
+      	 <tr><td rowspan="5">涅希斯（大尊者） Nethys (Exalted)</td><td>需要信仰涅希斯或中立</td></tr>
+	  <td>服从仪典 Obedience<br>在一张空白的羊皮纸上写下献给涅希斯的祝词，祷文以及奥术公式。不要写下完整的法术——只写一些符号，这些符号足以激励可能的读者，令其为了完成这道法术而去研究魔法。在仪典快要完结的时候，施放任意法术，使用类法术能力或者启动一个法术完成或法术触发型魔法物品。在专注检定中获得+4加值。</td></tr>
+	  <td>魔法精华 Magical Essences<br>法师护甲 3次/日</td></tr>
+	  <td>法杖传导 Staff Channel<br>你能够通过木棍传递接触法术。该能力如同魔战士的法术打击一般运作。</td></tr>
+	  <td>纯粹魔法灵光 Pure Magic Aura<br>你会散发出由纯粹的魔法精华形成的灵光。你能够使用该能力的轮数为1轮 + 你每具有4个生命骰再加1轮。这些轮数不必连续，而且你能够以自由动作启动或解消它。你与任何距离你20尺范围之内的盟友的施法者等级增加2。</td></tr>
+      	 <tr><td rowspan="5">瑟拉梅笛尔 Seramaydiel</td><td>需要勇气颂歌能力或中立善良</td></tr>
+	  <td>服从仪典 Obedience<br>在公共场合歌唱或表演一段乐器，让聆听的陌生人被你的音乐所激励。如果找不到合适的场所，就瑟拉梅笛尔对你人生的影响作一首诗，留在路过的陌生人能找到的地方。在对抗音波效果的豁免上获得 +4神圣加值。"</td></tr>
+	  <td>沟通者 Communicator<br>净化谢幕曲 1次/日</td></tr>
+	  <td>静雅缪斯 Quiet Muse<br>每日3次，你可以施放辉煌启言。</td></tr>
+	  <td>瘫痪之歌 Paralyzing Song<br>你的音乐是如此富有技巧和悲情的感染力，以至于你周围的一切都静止了。每天1次，以一个整轮动作，你进行使用魔法装置检定。所有30英尺内能听到声音的敌人必须进行意志豁免（DC等于你使用魔法装置检定的结果），若失败则会如同受到怪物定身术的影响，持续到你停止表演为止。"</td></tr>
   <tr><td rowspan="34">专长</i></td>
        <td colspan="2">崇神仪典 Deific Obedience<br>根据所信仰神明获得特殊神恩</td></tr>
        <td colspan="2">多样尊崇 Diverse Obedience<br>在确定获得崇神仪典的神恩时，将你的hd视为比实际高2。每当你获得神恩时，你可以从传道者或信仰哨卫神恩中进行选择。</td></tr>
