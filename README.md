@@ -4604,7 +4604,7 @@ C:\Users\你的用户名\AppData\LocalLow\Owlcat Games\Pathfinder Wrath Of The R
 ### [Mythic-Magic-Mayhem](https://github.com/YLMstring/Mythic-Magic-Mayhem) 
 > *前置：* [SpellbookMerge](https://github.com/vikigenius/SpellbookMerge/tree/master)<br>
 > *中文：* **自带**<br>
-> *安装方式：* **UMM**<br>
+> *安装方式：* **UMM**<br>（2024/9/27游戏更新后暂时不能使用，需要等待作者更新）
 > *新增内容：* 神话法术系统重制<br>
 重制了神话道途法术系统，允许所有道途任意合书
 <table>
