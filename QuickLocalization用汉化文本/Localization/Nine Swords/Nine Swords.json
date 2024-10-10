@@ -268,7 +268,7 @@
   },
   {
     "Key": "StoneBones.Desc",
-    "zhCN": "流派：石龙\n武技类别:打击技\n需求武术家等级：军道之剑 1\n当你使用此武技时，你将进行一次近战攻击，如果这次攻击命中，你获得DR5/精金，持续1轮。",
+    "zhCN": "流派：石龙\n武技类别:击技\n需求武术家等级：军道之剑 1\n当你使用此武技时，你将进行一次近战攻击，如果这次攻击命中，你获得DR5/精金，持续1轮。",
     "enGB": "Discipline: Stone Dragon\nManeuver Type: Strike\nRequired Initiater Level: Warblade 1, Swordsage 1\nWhen you use this maneuver, you make a single melee attack. If this attack hits, you gain damage reduction 5/adamantine for 1 round."
   },
   {
@@ -290,7 +290,7 @@
   },
   {
     "Key": "SteelyStrike.Desc",
-    "zhCN": "流派：铁心\n武技类别:打击技\n需求武术家等级：军道之剑 1\n作为武技的一部分，你进行一次近战攻击。你在这次攻击骰上获得+4的加值，除你的攻击目标以外的敌人在对你的攻击骰上获得+4加值，持续1轮。",
+    "zhCN": "流派：铁心\n武技类别:击技\n需求武术家等级：军道之剑 1\n作为此武技的一部分，你进行一次近战攻击。你在这次攻击骰上获得+4的加值，除你的攻击目标以外的敌人在对你的攻击骰上获得+4加值，持续1轮。",
     "enGB": "Discipline: Iron Heart\nManeuver Type: Strike\nRequired Initiater Level: Warblade 1\nYou make a single melee attack as part of this strike. You gain a +4 bonus on the attack roll. All opponents other than the one you attacked gain a +4 bonus on attack rolls against you for 1 round."
   },
   {
@@ -301,7 +301,7 @@
   },
   {
     "Key": "SapphireNightmareBlade.Desc",
-    "zhCN": "流派：钢魂\n武技类别:打击技\n需求武术家等级：军道之剑 1\n作为此武技的一部分，你需要进行一次察觉检定。检定的DC等同目标生物的AC。然后对目标进行一次近战攻击，同样视为此武技的一部分。如果察觉检定成功，那么目标视为对你的攻击措手不及，同时你还可以造成1d6点额外伤害。如果察觉检定失败，那么此攻击命中检定将受到-2的惩罚并造成正常伤害。",
+    "zhCN": "流派：钢魂\n武技类别:击技\n需求武术家等级：军道之剑 1\n作为此武技的一部分，你需要进行一次察觉检定。检定的DC等同目标生物的AC。然后对目标进行一次近战攻击，同样视为此武技的一部分。如果察觉检定成功，那么目标视为对你的攻击措手不及，同时你还可以造成1d6点额外伤害。如果察觉检定失败，那么此攻击命中检定将受到-2的惩罚并造成正常伤害。",
     "enGB": "Discipline: Diamond Mind\nManeuver Type: Strike\nRequired Initiater Level: Warblade 1, Swordsage 1\nYou attempt a Perception check as part of this maneuver, using the target creatures AC as the DC of the check. You then make a single melee attack against your target. The attack is also part of this maneuver. If your Perception check succeeds,  you deal an extra 1d6 points of damage. If your check fails, your attack is made with a -2 penalty and deals normal damage."
   },
   {
@@ -328,7 +328,7 @@
   },
   {
     "Key": "LeadingTheAttack.Desc",
-    "zhCN": "流派：白鸦\n武技类别:打击技\n需求武术家等级：军道之剑 1\n作为此武技的一部分，你进行一次近战攻击。如果你的攻击成功命中，则你的盟友在1轮内对被你击中的生物进行攻击检定时获得+4士气加值。",
+    "zhCN": "流派：白鸦\n武技类别:击技\n需求武术家等级：军道之剑 1\n作为此武技的一部分，你进行一次近战攻击。如果你的攻击成功命中，则你的盟友在1轮内对被你击中的生物进行攻击检定时获得+4士气加值。",
     "enGB": "Discipline: White Raven\nManeuver Type: Strike\nRequired Initiater Level: Warblade 1\nAs part of this maneuver, you make a single melee attack. If your attack is successful, your allies gain a +4 morale bonus on attack rolls for 1 round against the creature you hit."
   },
   {
@@ -339,7 +339,7 @@
   },
   {
     "Key": "BattleLeadersCharge.Desc",
-    "zhCN": "流派：白鸦\n武技类别:打击技\n需求武术家等级：军道之剑 3 贤者之剑 3\n作为此武技的一部分，你向目标发起一次冲锋攻击。在冲锋过程中的移动不会引发借机攻击。如果你的冲锋攻击命中，则会造成额外10点伤害。",
+    "zhCN": "流派：白鸦\n武技类别:击技\n需求武术家等级：军道之剑 3 贤者之剑 3\n作为此武技的一部分，你向目标发起一次冲锋攻击。在冲锋过程中的移动不会引发借机攻击。如果你的冲锋攻击命中，则会造成额外10点伤害。",
     "enGB": "Discipline: White Raven\nManeuver Type: Strike\nRequired Initiater Level: Warblade 3, Swordsage 3\nAs part of this maneuver, you charge an opponent. You do not provoke attacks of opportunity for moving as part of this charge. If your charge attack hits, it deals an extra 10 points of damage."
   },
   {
@@ -350,7 +350,7 @@
   },
   {
     "Key": "ClawAtTheMoon.Desc",
-    "zhCN": "流派：虎爪\n武技类别:打击技\n需求武术家等级：军道之剑 3 贤者之剑 3\n作为此武技的一部分，你进行一次跳跃检定来跳入空中，接着进行一次针对你决定的目标的上身或脖子的近战攻击。跳跃检定的DC相当于目标的AC。如果这次检定成功，你能造成额外2D6伤害。如果这次攻击造成重击威胁，你在确认重击骰上获得+4加值。如果你的检定失败，你仍然能正常攻击，但不会造成额外伤害或在确认重击骰上获得加值。此武技依然视做被消耗。",
+    "zhCN": "流派：虎爪\n武技类别:击技\n需求武术家等级：军道之剑 3 贤者之剑 3\n作为此武技的一部分，你进行一次跳跃检定来跳入空中，接着进行一次针对你决定的目标的上身或脖子的近战攻击。跳跃检定的DC相当于目标的AC。如果这次检定成功，你能造成额外2D6伤害。如果这次攻击造成重击威胁，你在确认重击骰上获得+4加值。如果你的检定失败，你仍然能正常攻击，但不会造成额外伤害或在确认重击骰上获得加值。此武技依然视做被消耗。",
     "enGB": "Discipline: Tiger Claw\nManeuver Type: Strike\nRequired Initiater Level: Warblade 3, Swordsage 3\nAs part of this maneuver, you attempt a Jump check to leap into the air and make a melee attack that targets your foe's upper body, face, and neck. The Jump check's DC is equal to your target's AC. If this check succeeds, your attack deals an extra 2d6 points of damage. If this attack threatens a critical hit, you gain a +4 bonus on your roll to confirm the critical hit. If your check fails, you can still attack, but you do not deal extra damage or gain a bonus on a roll to confirm a critical hit. The maneuver is still considered expended."
   },
   {
@@ -361,7 +361,7 @@
   },
   {
     "Key": "DisarmingStrike.Desc",
-    "zhCN": "流派：铁心\n武技类别:打击技\n需求武术家等级：军道之剑 3 贤者之剑 3\n此武技让你可以同时进行正常攻击和缴械。作为武技的一部分，你进行一次近战攻击，如果这次攻击命中并造成伤害，你能够立刻尝试卸除对手的武器。这次缴械不会导致借机攻击，你的对手也没有机会反过来卸除你的武器。",
+    "zhCN": "流派：铁心\n武技类别:击技\n需求武术家等级：军道之剑 3 贤者之剑 3\n此武技让你可以同时进行正常攻击和缴械。作为武技的一部分，你进行一次近战攻击，如果这次攻击命中并造成伤害，你能够立刻尝试卸除对手的武器。这次缴械不会导致借机攻击，你的对手也没有机会反过来卸除你的武器。",
     "enGB": "Discipline: Iron Heart\nManeuver Type: Strike\nRequired Initiater Level: Warblade 3, Swordsage 3\nThis maneuver allows you to combine a disarm attempt with a normal attack. You make a single melee attack as part of this strike. If this attack hits and deals damage, you can also attempt to disarm your opponent (PH 155). This disarm attempt does not provoke attacks of opportunity, nor is there any risk that your foe can disarm you."
   },
   {
@@ -372,7 +372,7 @@
   },
   {
     "Key": "EmeraldRazor.Desc",
-    "zhCN": "流派：钢魂\n武技类别:打击技\n需求武术家等级：军道之剑 3 贤者之剑 3\n对目标进行一次接触近战攻击，如果命中会造成正常的近战武器伤害",
+    "zhCN": "流派：钢魂\n武技类别:击技\n需求武术家等级：军道之剑 3 贤者之剑 3\n对目标进行一次接触近战攻击，如果命中会造成正常的近战武器伤害。",
     "enGB": "Discipline: Diamond Mind\nManeuver Type: Strike\nRequired Initiater Level: Warblade 3, Swordsage 3\nRequired Maneuvers: 1 Diamond Mind\nMake a single touch attack against an opponent. If you hit, you deal normal melee weapon damage."
   },
   {
@@ -383,7 +383,7 @@
   },
   {
     "Key": "MountainHammer.Desc",
-    "zhCN": "流派：石龙\n武技类别:打击技\n需求武术家等级：军道之剑 3 贤者之剑 3\n作为此武技的一部分，你进行一次近战攻击，这次攻击造成额外2D6伤害并自动克服伤害减免和硬度。",
+    "zhCN": "流派：石龙\n武技类别:击技\n需求武术家等级：军道之剑 3 贤者之剑 3\n作为此武技的一部分，你进行一次近战攻击，这次攻击造成额外2D6伤害并自动克服伤害减免和硬度。",
     "enGB": "Discipline: Stone Dragon\nManeuver Type: Strike\nRequired Initiater Level: Warblade 3, Swordsage 3\nAs part of this maneuver, you make a single melee attack. This attack deals an extra 2d6 points of damage and automatically overcomes damage reduction and hardness."
   },
   {
@@ -394,7 +394,7 @@
   },
   {
     "Key": "RabidWolfStrike.Desc",
-    "zhCN": "流派：虎爪\n武技类别:打击技\n需求武术家等级：军道之剑 3 贤者之剑 3\n作为此武技的一部分，你进行一次近战攻击，你在这次攻击的攻击检定上获得+4加值并额外造成2D6点伤害，同时你在AC上承受-4减值直到下一轮结束。",
+    "zhCN": "流派：虎爪\n武技类别:击技\n需求武术家等级：军道之剑 3 贤者之剑 3\n作为此武技的一部分，你进行一次近战攻击，你在这次攻击的攻击检定上获得+4加值并额外造成2D6点伤害，同时你在AC上承受-4减值直到下一轮结束。",
     "enGB": "Discipline: Tiger Claw\nManeuver Type: Strike\nRequired Initiater Level: Warblade 3, Swordsage 3\nAs part of this maneuver, you make a single melee attack. You gain a +4 bonus on this attack roll and deal an extra 2d6 points of damage. You take a -4 penalty to AC until the start of your next turn."
   },
   {
@@ -405,7 +405,7 @@
   },
   {
     "Key": "StoneVise.Desc",
-    "zhCN": "流派：石龙\n武技类别:打击技\n需求武术家等级：军道之剑 3 贤者之剑 3\n作为此武技的一部分，你进行一次近战攻击。此次攻击造成额外1d6点伤害。你的攻击还会使目标的速度在1轮内降至0英尺。它可以正常进行其他行动。被击中的生物进行一次强韧豁免（DC= 12+你的力量调整值）成功可以无效此效果，但不能豁免额外伤害。",
+    "zhCN": "流派：石龙\n武技类别:击技\n需求武术家等级：军道之剑 3 贤者之剑 3\n作为此武技的一部分，你进行一次近战攻击。此次攻击造成额外1d6点伤害。你的攻击还会使目标的速度在1轮内降至0英尺。它可以正常进行其他行动。被击中的生物进行一次强韧豁免（DC= 12+你的力量调整值）成功可以无效此效果，但不能豁免额外伤害。",
     "enGB": "Discipline: Stone Dragon\nManeuver Type: Strike\nRequired Initiater Level: Warblade 3, Swordsage 3\nAs part of this maneuver, you make a single melee attack. This attack deals an extra 1d6 points of damage. Your attack also drops the target's speed to 0 feet for 1 round. It can otherwise act normally. A successful Fortitude save (DC 12 + your Str modifier) by the creature struck negates the immobilization, but not the extra damage."
   },
   {
@@ -432,7 +432,7 @@
   },
   {
     "Key": "ExorcismOfSteel.Desc",
-    "zhCN": "流派：铁心\n武技类别:打击技\n需求武术家等级：军道之剑 5\n需求武技：一种铁心流武技\n当使用此武技时，你将尝试击破对手的武器，这不会引发借机攻击。如果你的尝试成功，对手在1分钟内近战伤害骰上承受-4减值。武器的持有者可以通过一个意志豁免检定（DC= 13+力量调整值）来将此减值减半。",
+    "zhCN": "流派：铁心\n武技类别:击技\n需求武术家等级：军道之剑 5\n需求武技：一种铁心流武技\n当使用此武技时，你将尝试击破对手的武器，这不会引发借机攻击。如果你的尝试成功，对手在1分钟内近战伤害骰上承受-4减值。武器的持有者可以通过一个意志豁免检定（DC= 13+力量调整值）来将此减值减半。",
     "enGB": "Discipline: Iron Heart\nManeuver Type: Strike\nRequired Initiater Level: Warblade 5\nRequired Maneuvers: 1 Iron Heart\nWhen you initiate this maneuver, you attack your opponent's weapon. If you succeed, your foe takes a -4 penalty on melee damage rolls for 1 minute. The wielder of the weapon can attempt a Will save (DC 13 + your Str modifier) to halve this penalty."
   },
   {
@@ -443,7 +443,7 @@
   },
   {
     "Key": "FleshRipper.Desc",
-    "zhCN": "流派：虎爪\n武技类别:打击技\n需求武术家等级：军道之剑 5 贤者之剑 5\n需求武技：两种虎爪流武技\n作为此武技的一部分，你进行一次近战攻击。如果这次攻击命中，目标必须通过一个强韧豁免检定（DC= 13+力量调整值）否则将在攻击骰和AC上承受-4罚值，持续1轮。如果你的攻击造成重击，这种惩罚将持续的时间相当于你武器的重击倍数。此武技仅对可以被重击的生物有效。",
+    "zhCN": "流派：虎爪\n武技类别:击技\n需求武术家等级：军道之剑 5 贤者之剑 5\n需求武技：两种虎爪流武技\n作为此武技的一部分，你进行一次近战攻击。如果这次攻击命中，目标必须通过一个强韧豁免检定（DC= 13+力量调整值）否则将在攻击骰和AC上承受-4罚值，持续1轮。如果你的攻击造成重击，这种惩罚将持续的时间相当于你武器的重击倍数。此武技仅对可以被重击的生物有效。",
     "enGB": "Discipline: Tiger Claw\nManeuver Type: Strike\nRequired Initiater Level: Warblade 5, Swordsage 5\nRequired Maneuvers: 2 Tiger Claw\nAs part of this maneuver, you make a melee attack against a single opponent. If this attack hits, the target must make a successful Fortitude save (DC 13 + your Str modifier) or take a -4 penalty on attacks and to AC for 1 round. If your attack is a critical hit, these penalties last for a number of rounds equal to your weapon's critical multiplier. This maneuver functions only against creatures that are vulnerable to critical hits."
   },
   {
@@ -465,7 +465,7 @@
   },
   {
     "Key": "BonesplittingStrike.Desc",
-    "zhCN": "流派：石龙\n武技类别:打击技\n需求武术家等级：军道之剑 7 贤者之剑 7\n需求武技：两种石龙流武技\n作为此武技的一部分，你进行一次近战攻击。如果你的攻击命中，目标除了正常伤害外还将承受2点体质伤害。",
+    "zhCN": "流派：石龙\n武技类别:击技\n需求武术家等级：军道之剑 7 贤者之剑 7\n需求武技：两种石龙流武技\n作为此武技的一部分，你进行一次近战攻击。如果你的攻击命中，目标除了正常伤害外还将承受2点体质伤害。",
     "enGB": "Discipline: Stone Dragon\nManeuver Type: Strike\nRequired Initiater Level: Warblade 7, Swordsage 7\nRequired Maneuvers: 2 Stone Dragon\nAs part of this maneuver, you make a single melee attack. If your attack hits, the target takes normal damage as well as 2 points of Constitution damage."
   },
   {
@@ -476,7 +476,7 @@
   },
   {
     "Key": "BoundingAssault.Desc",
-    "zhCN": "流派：钢魂\n武技类别:打击技\n需求武术家等级：军道之剑 7 贤者之剑 7\n需求武技：两种钢魂流武技\n作为此武技的一部分，你进行两次移动动作，在移动结束后，你可以进行一次近战攻击。在此攻击中你获得+2加值",
+    "zhCN": "流派：钢魂\n武技类别:击技\n需求武术家等级：军道之剑 7 贤者之剑 7\n需求武技：两种钢魂流武技\n作为此武技的一部分，你进行两次移动动作，在移动结束后，你可以进行一次近战攻击。在此攻击中你获得+2加值。",
     "enGB": "Discipline: Diamond Mind\nManeuver Type: Strike\nRequired Initiater Level: Warblade 7, Swordsage 7\nRequired Maneuvers: 2 Diamond Mind\nAs part of this maneuver, make a double move. After you move, you can also make a melee attack. You gain a +2 bonus on this attack."
   },
   {
@@ -487,7 +487,7 @@
   },
   {
     "Key": "MindStrike.Desc",
-    "zhCN": "流派：钢魂\n武技类别:打击技\n需求武术家等级：军道之剑 7 贤者之剑 7\n需求武技：两种钢魂流武技\n作为此武技的一部分，你进行一次近战攻击。如果该攻击命中，目标必须进行一次意志豁免检定（DC= 14+角色力量调整值），如果目标没有通过意志豁免检定，将承受1d4点感知伤害。",
+    "zhCN": "流派：钢魂\n武技类别:击技\n需求武术家等级：军道之剑 7 贤者之剑 7\n需求武技：两种钢魂流武技\n作为此武技的一部分，你进行一次近战攻击。如果该攻击命中，目标必须进行一次意志豁免检定（DC= 14+角色力量调整值），如果目标没有通过意志豁免检定，将承受1d4点感知伤害。",
     "enGB": "Discipline: Diamond Mind\nManeuver Type: Strike\nRequired Initiater Level: Warblade 7, Swordsage 7\nRequired Maneuvers: 2 Diamond Mind\nAs part of this maneuver, make a melee attack. If this attack hits, your target must make a Will save (DC 14 + your Str modifier) or take 1d4 points of Wisdom damage."
   },
   {
@@ -498,7 +498,7 @@
   },
   {
     "Key": "MithralTornado.Desc",
-    "zhCN": "流派：铁心\n武技类别:打击技\n需求武术家等级：军道之剑 7 贤者之剑 7\n需求武技：两种铁心流武技\n当你使用此武技时，你对所有与你相邻的对手进行一次近战攻击。",
+    "zhCN": "流派：铁心\n武技类别:击技\n需求武术家等级：军道之剑 7 贤者之剑 7\n需求武技：两种铁心流武技\n当你使用此武技时，你对所有与你相邻的对手进行一次近战攻击。",
     "enGB": "Discipline: Iron Heart\nManeuver Type: Strike\nRequired Initiater Level: Warblade 7\nRequired Maneuvers: 2 Iron Heart\nWhen you initiate this strike, you make a melee attack against every opponent adjacent to you."
   },
   {
@@ -509,18 +509,18 @@
   },
   {
     "Key": "OverwhelmingMountainStrike.Desc",
-    "zhCN": "流派：石龙\n武技类别:打击技\n需求武术家等级：军道之剑 7 贤者之剑 7\n作为此武技的一部分，你进行一次近战攻击。这次攻击造成2D6点额外伤害，还会使敌人恍惚一轮，除非其成功通过强韧豁免检定（DC= 14+力量调整值）。",
+    "zhCN": "流派：石龙\n武技类别:击技\n需求武术家等级：军道之剑 7 贤者之剑 7\n作为此武技的一部分，你进行一次近战攻击。这次攻击造成2D6点额外伤害，还会使敌人恍惚一轮，除非其成功通过强韧豁免检定（DC= 14+力量调整值）。",
     "enGB": "Discipline: Stone Dragon\nManeuver Type: Strike\nRequired Initiater Level: Warblade 7, Swordsage 7\nAs part of this maneuver, you make a melee attack. This attack deals an extra 2d6 points of damage. Your attack also staggers the target for 1 round unless it makes a successful Fortitude save (DC 14 + your Str modifier)."
   },
   {
     "Key": "RubyNightmareBlade.Name",
     "ProcessTemplates": false,
-    "zhCN": "一击制敌",
+    "zhCN": "梦魇剑·红玉",
     "enGB": "Ruby Nightmare Blade"
   },
   {
     "Key": "RubyNightmareBlade.Desc",
-    "zhCN": "流派：钢魂\n武技类别:打击技\n需求武术家等级：军道之剑 7 贤者之剑 7\n需求武技：两种钢魂流武技\n作为此武技的一部分，你需要进行一次察觉检定。检定的DC等同目标生物的AC。然后对目标进行一次近战攻击，同样视为此武技的一部分。如果察觉检定成功，那么你将造成双倍伤害。如果察觉检定失败，那么此攻击命中检定将受到-2的惩罚并造成正常伤害。",
+    "zhCN": "流派：钢魂\n武技类别:击技\n需求武术家等级：军道之剑 7 贤者之剑 7\n需求武技：两种钢魂流武技\n作为此武技的一部分，你需要进行一次察觉检定。检定的DC等同目标生物的AC。然后对目标进行一次近战攻击，同样视为此武技的一部分。如果察觉检定成功，那么你将造成双倍伤害。如果察觉检定失败，那么此攻击命中检定将受到-2的惩罚并造成正常伤害。",
     "enGB": "Discipline: Diamond Mind\nManeuver Type: Strike\nRequired Initiater Level: Warblade 7, Swordsage 7\nRequired Maneuvers: 2 Diamond Mind\nYou attempt a Perception check as part of this maneuver, using the target creatures AC as the DC of the check. You then make a single melee attack against your target. The attack is also part of this maneuver. If your Perception check succeeds, you deal double damage. If your check fails, your attack is made with a -2 penalty and deals normal damage."
   },
   {
@@ -531,18 +531,18 @@
   },
   {
     "Key": "WhiteRavenStrike.Desc",
-    "zhCN": "流派：白鸦\n武技类别:打击技\n需求武术家等级：军道之剑 7 贤者之剑 7\n需求武技：一种白鸦流武技\n作为此武技的一部分，你进行一次近战攻击。如果击中，你将造成额外的4d6点伤害，并且目标在下一回合开始前将被视为措手不及。",
+    "zhCN": "流派：白鸦\n武技类别:击技\n需求武术家等级：军道之剑 7 贤者之剑 7\n需求武技：一种白鸦流武技\n作为此武技的一部分，你进行一次近战攻击。如果击中，你将造成额外的4d6点伤害，并且目标在下一回合开始前将被视为措手不及。",
     "enGB": "Discipline: White Raven\nManeuver Type: Strike\nRequired Initiater Level: Warblade 7\nRequired Maneuvers: 1 White Raven\nAs part of this maneuver, you make a single melee attack. If it hits, you deal an extra 4d6 points of damage, and the target is considered flat-footed until the start of his next turn."
   },
   {
     "Key": "DancingBladeForm.Name",
     "ProcessTemplates": false,
-    "zhCN": "轻舒猿臂",
+    "zhCN": "战姿·轻舒猿臂",
     "enGB": "Dancing Blade Form"
   },
   {
     "Key": "DancingBladeForm.Desc",
-    "zhCN": "流派：铁心\n需求武术家等级：军道之剑 9\n需求武技：两种铁心流武技\n使你的触及范围增加5尺。",
+    "zhCN": "流派：铁心\n需求武术家等级：军道之剑 9\n需求武技：两种铁心流武技\n当你处于此战姿中时，使你的触及范围增加5尺。",
     "enGB": "Discipline: Iron Heart\nRequired Initiater Level: Warblade 9\nRequired Maneuvers: 2 Iron Heart\nIncreases your reach by 5 feet."
   },
   {
@@ -564,7 +564,7 @@
   },
   {
     "Key": "DazingStrike.Desc",
-    "zhCN": "流派：铁心\n需求武术家等级：军道之剑 9\n需求武技：两种铁心流武技\n作为此武技的一部分，你进行一次近战攻击，如果这次攻击命中，目标必须进行一次强韧豁免检定（DC= 15 + 你的力量调整值），否则会被眩晕1轮。",
+    "zhCN": "流派：铁心\n武技类别:击技\n需求武术家等级：军道之剑 9\n需求武技：两种铁心流武技\n作为此武技的一部分，你进行一次近战攻击，如果这次攻击命中，目标必须进行一次强韧豁免检定（DC= 15 + 你的力量调整值），否则会被眩晕1轮。",
     "enGB": "Discipline: Iron Heart\nManeuver Type: Strike\nRequired Initiater Level: Warblade 9\nRequired Maneuvers: 2 Iron Heart\nYou make a single melee attack as part of this strike. If this attack hits, the target must make a Fortitude save (DC 15 + your Str modifier) or be dazed for 1 round."
   },
   {
@@ -575,7 +575,7 @@
   },
   {
     "Key": "DisruptingBlow.Desc",
-    "zhCN": "流派：钢魂\n武技类别:打击技\n需求武术家等级：军道之剑 9 贤者之剑 9\n需求武技：两种钢魂流武技\n作为此武技的一部分，你进行一次近战攻击，如果这次攻击命中，目标必须进行一次意志豁免检定（DC= 15 + 你的力量调整值），否则会被震慑1轮。",
+    "zhCN": "流派：钢魂\n武技类别:击技\n需求武术家等级：军道之剑 9 贤者之剑 9\n需求武技：两种钢魂流武技\n作为此武技的一部分，你进行一次近战攻击，如果这次攻击命中，目标必须进行一次意志豁免检定（DC= 15 + 你的力量调整值），否则会被震慑1轮。",
     "enGB": "Discipline: Diamond Mind\nManeuver Type: Strike\nRequired Initiater Level: Warblade 9, Swordsage 9\nRequired Maneuvers: 2 Diamond Mind\nYou make a single melee attack as part of this strike. If this attack hits, the target must make a Will save (DC 15 + your Str modifier) or be stunned for 1 round."
   },
   {
@@ -586,7 +586,7 @@
   },
   {
     "Key": "ElderMountainHammer.Desc",
-    "zhCN": "流派：石龙\n武技类别:打击技\n需求武术家等级：军道之剑 9 贤者之剑 9\n需求武技：两种石龙流武技\n作为此武技的一部分，你进行一次近战攻击，这次攻击造成额外6D6伤害并自动克服伤害减免和硬度。",
+    "zhCN": "流派：石龙\n武技类别:击技\n需求武术家等级：军道之剑 9 贤者之剑 9\n需求武技：两种石龙流武技\n作为此武技的一部分，你进行一次近战攻击，这次攻击造成额外6D6伤害并自动克服伤害减免和硬度。",
     "enGB": "Discipline: Stone Dragon\nManeuver Type: Strike\nRequired Initiater Level: Warblade 9, Swordsage 9\nRequired Maneuvers: 2 Stone Dragon\nAs part of this maneuver, you make a single melee attack. This attack deals an extra 6d6 points of damage and automatically overcomes damage reduction and hardness."
   },
   {
@@ -608,7 +608,7 @@
   },
   {
     "Key": "HearingTheAir.Desc",
-    "zhCN": "流派：钢魂\n需求武术家等级：军道之剑 9 贤者之剑 9\n需求武技：两种钢魂流武技\n当你处于此战姿中时，你获得30尺盲视，且在感知检定获得+5加值",
+    "zhCN": "流派：钢魂\n需求武术家等级：军道之剑 9 贤者之剑 9\n需求武技：两种钢魂流武技\n当你处于此战姿中时，你获得30尺盲视，且在感知检定获得+5加值。",
     "enGB": "Discipline: Diamond Mind\nRequired Initiater Level: Warblade 9, Swordsage 9\nRequired Maneuvers: 2 Diamond Mind\nWhile you are in this stance, you gain blindsight out to 30 feet and a +5 insight bonus on Perception checks."
   },
   {
@@ -619,7 +619,7 @@
   },
   {
     "Key": "PouncingCharge.Desc",
-    "zhCN": "流派：虎爪\n武技类别:打击技\n需求武术家等级：军道之剑 9 贤者之剑 9\n需求武技：两种虎爪流武技\n作为此武技的一部分，你向目标发起一次冲锋攻击。在冲锋结束后，你可以进行整轮攻击，而不是仅一次攻击。",
+    "zhCN": "流派：虎爪\n武技类别:击技\n需求武术家等级：军道之剑 9 贤者之剑 9\n需求武技：两种虎爪流武技\n作为此武技的一部分，你向目标发起一次冲锋攻击。在冲锋结束后，你可以进行整轮攻击，而不是仅一次攻击。",
     "enGB": "Discipline: Tiger Claw\nManeuver Type: Strike\nRequired Initiater Level: Warblade 9, Swordsage 9\nRequired Maneuvers: 2 Tiger Claw\nAs part of initiating this maneuver, you make a charge attack. Instead of making a single attack at the end of your charge, you can make a full attack."
   },
   {
@@ -630,7 +630,7 @@
   },
   {
     "Key": "CrushingVise.Desc",
-    "zhCN": "流派：石龙\n武技类别:打击技\n需求武术家等级：军道之剑 11 贤者之剑 11\n作为此武技的一部分，你进行一次近战攻击。此次攻击造成额外4d6点伤害。你的攻击还会使目标的速度在1轮内降至0英尺。它可以正常进行其他行动。",
+    "zhCN": "流派：石龙\n武技类别:击技\n需求武术家等级：军道之剑 11 贤者之剑 11\n作为此武技的一部分，你进行一次近战攻击。此次攻击造成额外4d6点伤害。你的攻击还会使目标的速度在1轮内降至0英尺。它可以正常进行其他行动。",
     "enGB": "Discipline: Stone Dragon\nManeuver Type: Strike \nRequired Initiater Level: Warblade 11, Swordsage 11\nAs part of this maneuver, you make a melee attack. This attack deals an extra 4d6 points of damage. Your attack also drops the target's speed to 0 feet for 1 round. It can act normally in all other ways."
   },
   {
@@ -641,7 +641,7 @@
   },
   {
     "Key": "IronBones.Desc",
-    "zhCN": "流派：石龙\n武技类别:打击技\n需求武术家等级：军道之剑 11 贤者之剑 11\n需求武技：两种石龙流武技\n当你使用此武技时，你将进行一次近战攻击，如果这次攻击命中，你获得DR10/精金，持续1轮。",
+    "zhCN": "流派：石龙\n武技类别:击技\n需求武术家等级：军道之剑 11 贤者之剑 11\n需求武技：两种石龙流武技\n当你使用此武技时，你将进行一次近战攻击，如果这次攻击命中，你获得DR10/精金，持续1轮。",
     "enGB": "Discipline: Stone Dragon\nManeuver Type: Strike\nRequired Initiater Level: Warblade 11, Swordsage 11\nRequired Maneuvers: 2 Stone Dragon\nWhen you use this maneuver, you make a single melee attack. If this attack hits, you gain damage reduction 10/adamantine for 1 round."
   },
   {
@@ -663,7 +663,7 @@
   },
   {
     "Key": "IrresistibleMountainStrike.Desc",
-    "zhCN": "流派：石龙\n武技类别:打击技\n需求武术家等级：军道之剑 11 贤者之剑 11\n作为此武技的一部分，你进行一次近战攻击。这次攻击造成4D6点额外伤害，还会使敌人恍惚一轮，除非其成功通过强韧豁免检定（DC= 15+力量调整值）。",
+    "zhCN": "流派：石龙\n武技类别:击技\n需求武术家等级：军道之剑 11 贤者之剑 11\n作为此武技的一部分，你进行一次近战攻击。这次攻击造成4D6点额外伤害，还会使敌人恍惚一轮，除非其成功通过强韧豁免检定（DC= 15+力量调整值）。",
     "enGB": "Discipline: Stone Dragon\nManeuver Type: Strike\nRequired Initiater Level: Warblade 11, Swordsage 11\nAs part of this maneuver, you make a melee attack. This attack deals an extra 4d6 points of damage. Your attack also staggers the target for 1 round unless it makes a successful Fortitude save (DC 16 + your Str modifier)."
   },
   {
@@ -674,7 +674,7 @@
   },
   {
     "Key": "RabidBearStrike.Desc",
-    "zhCN": "流派：虎爪\n武技类别:打击技\n需求武术家等级：军道之剑 11 贤者之剑 11\n需求武技：两种虎爪流武技\n作为此武技的一部分，你进行一次近战攻击，你在这次攻击的攻击检定上获得+4加值并能造成额外10D6点伤害，同时你在AC上承受-4减值直到下一轮结束。",
+    "zhCN": "流派：虎爪\n武技类别:击技\n需求武术家等级：军道之剑 11 贤者之剑 11\n需求武技：两种虎爪流武技\n作为此武技的一部分，你进行一次近战攻击，你在这次攻击的攻击检定上获得+4加值并能造成额外10D6点伤害，同时你在AC上承受-4减值直到下一轮结束。",
     "enGB": "Discipline: Tiger Claw\nManeuver Type: Strike\nRequired Initiater Level: Warblade 11, Swordsage 11\nRequired Maneuvers: 2 Tiger Claw\nAs part of this maneuver, you make a single melee attack. You gain a +4 bonus on this attack roll and deal an extra 10d6 points of damage. You take a -4 penalty to AC until the start of your next turn."
   },
   {
@@ -685,7 +685,7 @@
   },
   {
     "Key": "WarLeadersCharge.Desc",
-    "zhCN": "流派：白鸦\n武技类别:打击技\n需求武术家等级：军道之剑 6\n需求武技：两种白鸦流武技\n作为此武技的一部分，你向目标发起一次冲锋攻击。在冲锋过程中的移动不会引发借机攻击。如果你的冲锋攻击命中，则会造成额外35点伤害。",
+    "zhCN": "流派：白鸦\n武技类别:击技\n需求武术家等级：军道之剑 6\n需求武技：两种白鸦流武技\n作为此武技的一部分，你向目标发起一次冲锋攻击。在冲锋过程中的移动不会引发借机攻击。如果你的冲锋攻击命中，则会造成额外35点伤害。",
     "enGB": "Discipline: White Raven\nManeuver Type: Strike\nRequired Initiater Level: Warblade 6\nRequired Maneuvers: 2 White Raven\nAs part of this maneuver, you charge an opponent. You do not provoke attacks of opportunity for moving as part of this charge. If your charge attack hits, it deals an extra 35 points of damage."
   },
   {
@@ -696,7 +696,7 @@
   },
   {
     "Key": "AncientMountainHammer.Desc",
-    "zhCN": "流派：石龙\n武技类别:打击技\n需求武术家等级：军道之剑 13 贤者之剑 13\n需求武技：三种石龙流武技\n作为此武技的一部分，你进行一次近战攻击。这次攻击造成额外12D6伤害并自动克服伤害减免和硬度。",
+    "zhCN": "流派：石龙\n武技类别:击技\n需求武术家等级：军道之剑 13 贤者之剑 13\n需求武技：三种石龙流武技\n作为此武技的一部分，你进行一次近战攻击。这次攻击造成额外12D6伤害并自动克服伤害减免和硬度。",
     "enGB": "Discipline: Stone Dragon\nManeuver Type: Strike\nRequired Initiater Level: Warblade 13, Swordsage 13\nRequired Maneuvers: 3 Stone Dragon\nAs part of this maneuver, you make a single melee attack. This attack deals an extra 12d6 points of damage and automatically overcomes damage reduction and hardness."
   },
   {
@@ -707,7 +707,7 @@
   },
   {
     "Key": "AvalancheOfBlades.Desc",
-    "zhCN": "流派：钢魂\n武技类别:打击技\n需求武术家等级：军道之剑 13\n需求武技：三种钢魂流武技\n作为此武技的一部分，你进行一次近战攻击。如果该攻击命中，你可以对敌人进行一次攻击，但攻击检定承受－4减值。如果这次攻击也命中，你可以对敌人再进行一次攻击，但攻击检定承受－8减值。以此类推，可以进行多次额外攻击，直到攻击未命中为止。",
+    "zhCN": "流派：钢魂\n武技类别:击技\n需求武术家等级：军道之剑 13\n需求武技：三种钢魂流武技\n作为此武技的一部分，你进行一次近战攻击。如果该攻击命中，你可以对敌人进行一次攻击，但攻击检定承受－4减值。如果这次攻击也命中，你可以对敌人再进行一次攻击，但攻击检定承受－8减值。以此类推，可以进行多次额外攻击，直到攻击未命中为止。",
     "enGB": "Discipline: Diamond Mind\nManeuver Type: Strike\nRequired Initiater Level: Warblade 13\nRequired Maneuvers: 3 Diamond Mind\nAs part of this maneuver, you make a single melee attack against an opponent. If that attack hits, you can then make another attack against that foe with a -4 penalty on your attack roll. If that attack hits, you can make another attack against that opponent with a -8 penalty. You continue to make additional attacks, each one with an additional -4 penalty, until you miss."
   },
   {
@@ -718,7 +718,7 @@
   },
   {
     "Key": "ColossusStrike.Desc",
-    "zhCN": "流派：石龙\n武技类别:打击技\n需求武术家等级：军道之剑 13\n需求武技：两种种石龙流武技\n作为此武技的一部分，你进行一次近战攻击。此攻击造成额外6D6伤害并且被攻击的生物必须通过一次强韧豁免检定（DC= 17+你的力量调整值），否则将被投出1D4个方格外并跌倒在那里。",
+    "zhCN": "流派：石龙\n武技类别:击技\n需求武术家等级：军道之剑 13\n需求武技：两种种石龙流武技\n作为此武技的一部分，你进行一次近战攻击。此攻击造成额外6D6伤害并且被攻击的生物必须通过一次强韧豁免检定（DC= 17+你的力量调整值），否则将被投出1D4个方格外并跌倒在那里。",
     "enGB": "Discipline: Stone Dragon\nManeuver Type: Strike\nRequired Initiater Level: Warblade 13\nRequired Maneuvers: 2 Stone Dragon\nAs part of this maneuver, you make a melee attack against your foe. This attack deals an extra 6d6 points of damage, and the creature struck must succeed on a Fortitude save (DC 17 + your Str modifier) or be hurled 1d4 squares away from you, falling prone in that square."
   },
   {
@@ -729,7 +729,7 @@
   },
   {
     "Key": "FinishingMove.Desc",
-    "zhCN": "流派：铁心\n武技类别:打击技\n需求武术家等级：军道之剑 13\n需求武技：三种铁心流武技\n作为此武技的一部分，你进行一次近战攻击。这次攻击将造成额外4D6伤害。如果目标的当前生命值小于它的最大生命值，这次攻击将造成额外6D6伤害而不是4D6，如果它的当前生命值为它的最大生命值的一半或更少，这次攻击将造成14D6额外伤害而不是6D6。",
+    "zhCN": "流派：铁心\n武技类别:击技\n需求武术家等级：军道之剑 13\n需求武技：三种铁心流武技\n作为此武技的一部分，你进行一次近战攻击。这次攻击将造成额外4D6伤害。如果目标的当前生命值小于它的最大生命值，这次攻击将造成额外6D6伤害而不是4D6，如果它的当前生命值为它的最大生命值的一半或更少，这次攻击将造成14D6额外伤害而不是6D6。",
     "enGB": "Discipline: Iron Heart\nManeuver Type: Strike\nRequired Initiater Level: Warblade 13\nRequired Maneuvers: 3 Iron Heart\nAs part of this maneuver, you make a melee attack against a creature. This attack deals an extra 4d6 points of damage. If the target's current hit points are less than its full normal hit points, the attack instead deals an extra 6d6 points of damage. If its hit points are equal to or less than one-half its full normal hit points, the attack instead deals an extra 14d6 points of damage."
   },
   {
@@ -740,7 +740,7 @@
   },
   {
     "Key": "HamstringAttack.Desc",
-    "zhCN": "流派：虎爪\n武技类别:打击技\n需求武术家等级：军道之剑 13 贤者之剑 13\n需求武技：三种虎爪流武技\n作为此武技的一部分，你进行一次近战攻击。如果这次攻击命中，除了造成正常伤害外，目标还将受到1D8点敏捷伤害，并在移动速度上-10尺，持续1分钟。成功的强韧豁免检定（DC= 17+你的力量调整值）能使敏捷伤害和移动速度惩罚均减半。",
+    "zhCN": "流派：虎爪\n武技类别:击技\n需求武术家等级：军道之剑 13 贤者之剑 13\n需求武技：三种虎爪流武技\n作为此武技的一部分，你进行一次近战攻击。如果这次攻击命中，除了造成正常伤害外，目标还将受到1D8点敏捷伤害，并在移动速度上-10尺，持续1分钟。成功的强韧豁免检定（DC= 17+你的力量调整值）能使敏捷伤害和移动速度惩罚均减半。",
     "enGB": "Discipline: Tiger Claw\nManeuver Type: Strike\nRequired Initiater Level: Warblade 13, Swordsage 13\nRequired Maneuvers: 3 Tiger Claw\nAs part of this maneuver, you make a single melee attack. If this attack hits, it deals damage as normal. In addition, the target takes 1d8 points of Dexterity damage and a -10-foot penalty to speed for 1 minute. A successful Fortitude save (DC 17 + your Str modifier) halves both the Dexterity damage and the speed penalty."
   },
   {
@@ -751,7 +751,7 @@
   },
   {
     "Key": "ScythingBlade.Desc",
-    "zhCN": "流派：铁心\n武技类别:打击技\n需求武术家等级：军道之剑 13\n需求武技：三种铁心流武技\n你能以迅捷动作进行一次近战攻击。",
+    "zhCN": "流派：铁心\n武技类别:击技\n需求武术家等级：军道之剑 13\n需求武技：三种铁心流武技\n此武技让你能以迅捷动作进行一次近战攻击。",
     "enGB": "Discipline: Iron Heart\nManeuver Type: Strike\nRequired Initiater Level: Warblade 13\nRequired Maneuvers: 3 Iron Heart\nMake an attack as a switft action."
   },
   {
@@ -762,7 +762,7 @@
   },
   {
     "Key": "AdamantineBones.Desc",
-    "zhCN": "流派：石龙\n武技类别:打击技\n需求武术家等级：军道之剑 15 贤者之剑 15\n需求武技：三种种石龙流武技\n当你使用此武技时，你将进行一次近战攻击，如果这次攻击命中，你获得DR20/精金，持续1轮。",
+    "zhCN": "流派：石龙\n武技类别:击技\n需求武术家等级：军道之剑 15 贤者之剑 15\n需求武技：三种石龙流武技\n作为此武技的一部分，你将进行一次近战攻击，如果这次攻击命中，你获得DR20/精金，持续1轮。",
     "enGB": "Discipline: Stone Dragon\nManeuver Type: Strike\nRequired Initiater Level: Warblade 15, Swordsage 15\nRequired Maneuvers: 3 Stone Dragon\nAs part of this maneuver, you make a single melee attack. If this attack hits, you gain damage reduction 20/adamantine for 1 round."
   },
   {
@@ -784,7 +784,7 @@
   },
   {
     "Key": "SteelWind.Desc",
-    "zhCN": "流派：铁心\n武技类别:打击技\n需求武术家等级：军道之剑 1 贤者之剑 1\n当你使用此武技时，你将进行两次次近战攻击，分别攻击两个处于你威胁范围内的敌人。",
+    "zhCN": "流派：铁心\n武技类别:击技\n需求武术家等级：军道之剑 1 贤者之剑 1\n当你使用此武技时，你将进行两次次近战攻击，分别攻击两个处于你威胁范围内的敌人。",
     "enGB": "Discipline: Iron Heart\nManeuver Type: Strike\nRequired Initiater Level: Warblade 1, Swordsage 1\nAs you initiate this strike, you make two melee attacks, each against a different foe that you threaten."
   },
   {
@@ -795,18 +795,18 @@
   },
   {
     "Key": "AdamantineHurricane.Desc",
-    "zhCN": "流派：铁心\n武技类别:打击技\n需求武术家等级：军道之剑 15 贤者之剑 15\n需求武技：三种铁心流武技\n当你使用此武技时，你将对每一个处于你威胁范围内的敌人进行两次次近战攻击，这些攻击使用你的最高基础攻击加值且获得+4加值。",
+    "zhCN": "流派：铁心\n武技类别:击技\n需求武术家等级：军道之剑 15 贤者之剑 15\n需求武技：三种铁心流武技\n当你使用此武技时，你将对每一个处于你威胁范围内的敌人进行两次次近战攻击，这些攻击使用你的最高基础攻击加值且获得+4加值。",
     "enGB": "Discipline: Iron Heart\nManeuver Type: Strike\nRequired Initiater Level: Warblade 15\nRequired Maneuvers: 3 Iron Heart\nYou make two melee attacks against each adjacent opponent you threaten when you initiate this maneuver. You receive a +4 bonus on each of these attacks, which are otherwise made with your highest attack bonus."
   },
   {
     "Key": "DiamondNightmareBlade.Name",
     "ProcessTemplates": false,
-    "zhCN": "一剑封喉",
+    "zhCN": "梦魇剑·金刚",
     "enGB": "Diamond Nightmare Blade"
   },
   {
     "Key": "DiamondNightmareBlade.Desc",
-    "zhCN": "流派：钢魂\n武技类别:打击技\n需求武术家等级：军道之剑 15 贤者之剑 15\n需求武技：三种钢魂流武技\n作为此武技的一部分，你需要进行一次察觉检定。检定的DC等同目标生物的AC。然后对目标进行一次近战攻击，同样视为此武技的一部分。如果察觉检定成功，那么你将造成四倍伤害。如果察觉检定失败，那么此攻击命中检定将受到-2的惩罚并造成正常伤害。",
+    "zhCN": "流派：钢魂\n武技类别:击技\n需求武术家等级：军道之剑 15 贤者之剑 15\n需求武技：三种钢魂流武技\n作为此武技的一部分，你需要进行一次察觉检定。检定的DC等同目标生物的AC。然后对目标进行一次近战攻击，同样视为此武技的一部分。如果察觉检定成功，那么你将造成四倍伤害。如果察觉检定失败，那么此攻击命中检定将受到-2的惩罚并造成正常伤害。",
     "enGB": "Discipline: Diamond Mind\nManeuver Type: Strike\nRequired Initiater Level: Warblade 15, Swordsage 15\nRequired Maneuvers: 3 Diamond Mind\nYou attempt a Perception check as part of this maneuver, using the target creatures AC as the DC of the check. You then make a single melee attack against your target. The attack is also part of this maneuver. If your Perception check succeeds, you deal four times damage. If your check fails, your attack is made with a -2 penalty and deals normal damage."
   },
   {
@@ -817,7 +817,7 @@
   },
   {
     "Key": "EarthstrikeQuake.Desc",
-    "zhCN": "流派：石龙\n武技类别:打击技\n需求武术家等级：军道之剑 15 贤者之剑 15\n需求武技：两种石龙流武技\n你通过强力的攻击将气导向大地，使大地产生惊人的震动。在这种武技发动时，任何站在地面上的生物必须通过反射豁免检定（DC= 18+力量调整值）否则将被震倒在地。",
+    "zhCN": "流派：石龙\n武技类别:击技\n需求武术家等级：军道之剑 15 贤者之剑 15\n需求武技：两种石龙流武技\n你通过强力的攻击将气导向大地，使大地产生惊人的震动。在这种武技发动时，任何站在地面上的生物必须通过反射豁免检定（DC= 18+力量调整值）否则将被震倒在地。",
     "enGB": "Discipline: Stone Dragon\nManeuver Type: Strike\nRequired Initiater Level: Warblade 15, Swordsage 15\nRequired Maneuvers: 2 Stone Dragon\nYou channel ki into the earth with your mighty strike, causing the ground to rumble and shake briefly. Anyone in a 20 feet area must make a successful Reflex save (DC 18 + your Str modifier) or be knocked prone."
   },
   {
@@ -851,7 +851,7 @@
   },
   {
     "Key": "LightningThrow.Desc",
-    "zhCN": "流派：铁心\n需求武术家等级：军道之剑 15\n需求武技：两种铁心流武技\n当你使用此武技时，你将进行一次近战攻击，此攻击将对30尺范围内的每个生物造成相当于你正常近战伤害的伤害，外带12D6点额外伤害，在攻击范围内的生物可以进行一次反射豁免检定，DC相当于你的攻击骰结果，通过此检定可以使伤害减半。。",
+    "zhCN": "流派：铁心\n需求武术家等级：军道之剑 15\n需求武技：两种铁心流武技\n当你使用此武技时，你将进行一次近战攻击，此攻击将对30尺范围内的每个生物造成相当于你正常近战伤害的伤害，外带12D6点额外伤害，在攻击范围内的生物可以进行一次反射豁免检定，DC相当于你的攻击骰结果，通过此检定可以使伤害减半。",
     "enGB": "Discipline: Iron Heart\nRequired Initiater Level: Warblade 15\nRequired Maneuvers: 2 Iron Heart\nWhen you use this strike, you make a single melee attack. You deal damage to each creature in a 30 foot line equal to your normal melee damage, plus an extra 12d6 points of damage. Each creature in the attack's area can make a Reflex save with a DC equal to the result of your attack roll. A successful save halves the damage dealt."
   },
   {
@@ -900,7 +900,7 @@
   },
   {
     "Key": "WhiteRavenHammer.Desc",
-    "zhCN": "流派：白鸦\n武技类别:打击技\n需求武术家等级：军道之剑 15\n需求武技：三种白鸦流武技\n作为此武技的一部分，你对一个敌人进行一次毁灭性的打击。这一击的原始力量足以将其击昏。你的攻击造成额外6d6点伤害，并使你的对手震慑1轮。",
+    "zhCN": "流派：白鸦\n武技类别:击技\n需求武术家等级：军道之剑 15\n需求武技：三种白鸦流武技\n作为此武技的一部分，你对一个敌人进行一次毁灭性的打击。这一击的原始力量足以将其击昏。你的攻击造成额外6d6点伤害，并使你的对手震慑1轮。",
     "enGB": "Discipline: White Raven\nManeuver Type: Strike\nRequired Initiater Level: Warblade 15\nRequired Maneuvers: 3 White Raven\nAs part of this maneuver, you make a single, devastating strike against an opponent. The raw force of this blow knocks him senseless. Your attack deals an extra 6d6 points of damage and stuns your opponent for 1 round."
   },
   {
@@ -911,7 +911,7 @@
   },
   {
     "Key": "FeralDeathBlow.Desc",
-    "zhCN": "流派：虎爪\n武技类别:打击技\n需求武术家等级：军道之剑 17 贤者之剑 17\n需求武技：四种虎爪流武技\n作为此武技的一部分，你需要进行一次运动检定。检定的DC等同目标生物的AC。如果检定成功，则你可以对你的敌人进行一次近战攻击，同样视为此武技的一部分。目标在此攻击中被视为措手不及。如果你的攻击造成伤害，你的目标必须尝试进行强韧豁免检定（DC= 19 + 你的力量调整值）。如果豁免失败，你的目标立即被杀死。如果豁免成功，则除了你的正常武器伤害外，你还会对目标造成额外的20d6点伤害。免疫重击的生物免疫此攻击的即死效果。",
+    "zhCN": "流派：虎爪\n武技类别:击技\n需求武术家等级：军道之剑 17 贤者之剑 17\n需求武技：四种虎爪流武技\n作为此武技的一部分，你需要进行一次运动检定。检定的DC等同目标生物的AC。如果检定成功，则你可以对你的敌人进行一次近战攻击，同样视为此武技的一部分。目标在此攻击中被视为措手不及。如果你的攻击造成伤害，你的目标必须尝试进行强韧豁免检定（DC= 19 + 你的力量调整值）。如果豁免失败，你的目标立即被杀死。如果豁免成功，则除了你的正常武器伤害外，你还会对目标造成额外的20d6点伤害。免疫重击的生物免疫此攻击的即死效果。",
     "enGB": "Discipline: Tiger Claw\nManeuver Type: Strike\nRequired Initiater Level: Warblade 17, Swordsage 17\nRequired Maneuvers: 4 Tiger Claw\nAs part of this maneuver, make a Athletics check with a DC equal to your opponent's AC. If the check succeeds, you can then make a single melee attack against your foe, also as part of this maneuver. The target is considered flat-footed against this attack. If your attack deals damage, your target must attempt a Fortitude save (DC 19 + your Str modifier). If this save fails, your target is instantly slain. If the save is successful, you deal an extra 20d6 points of damage to the target in addition to your normal weapon damage. Creatures immune to critical hits are immune to the death effect of this strike."
   },
   {
@@ -922,7 +922,7 @@
   },
   {
     "Key": "MountainTombstoneStrike.Desc",
-    "zhCN": "流派：石龙\n武技类别:打击技\n需求武术家等级：军道之剑 17 贤者之剑 17\n作为此武技的一部分，你进行一次近战攻击。如果你的攻击命中，目标除了正常伤害外还将承受2d6点体质伤害。",
+    "zhCN": "流派：石龙\n武技类别:击技\n需求武术家等级：军道之剑 17 贤者之剑 17\n作为此武技的一部分，你进行一次近战攻击。如果你的攻击命中，目标除了正常伤害外还将承受2d6点体质伤害。",
     "enGB": "Discipline: Stone Dragon\nManeuver Type: Strike\nRequired Initiater Level: Warblade 17, Swordsage 17\nAs part of this maneuver, you make a single melee attack. If this attack hits, you deal 2d6 points of Constitution damage in addition to your normal damage."
   },
   {
@@ -933,7 +933,7 @@
   },
   {
     "Key": "StrikeOfPerfectClarity.Desc",
-    "zhCN": "流派：铁心\n武技类别:打击技\n需求武术家等级：军道之剑 17\n需求武技：四种铁心流武技\n作为此武技的一部分，你进行一次近战攻击。如果你的攻击命中，则会造成额外100点伤害。",
+    "zhCN": "流派：铁心\n武技类别:击技\n需求武术家等级：军道之剑 17\n需求武技：四种铁心流武技\n作为此武技的一部分，你进行一次近战攻击。如果你的攻击命中，则会造成额外100点伤害。",
     "enGB": "Discipline: Iron Heart\nManeuver Type: Strike\nRequired Initiater Level: Warblade 17\nRequired Maneuvers: 4 Iron Heart\nYou make a single melee attack as part of this strike. If your attack hits, it deals an extra 100 points of damage."
   },
   {
@@ -944,7 +944,7 @@
   },
   {
     "Key": "TimeStandsStill.Desc",
-    "zhCN": "流派：钢魂\n武技类别:打击技\n需求武术家等级：军道之剑 17\n需求武技：四种钢魂流武技\n你连续发动两次整轮攻击。",
+    "zhCN": "流派：钢魂\n武技类别:击技\n需求武术家等级：军道之剑 17\n需求武技：四种钢魂流武技\n此武技使你连续发动两次整轮攻击。",
     "enGB": "Discipline: Diamond Mind\nManeuver Type: Strike\nRequired Initiater Level: Warblade 17\nRequired Maneuvers: 4 Diamond Mind\nYou make two Full Attacks in a row."
   },
 
