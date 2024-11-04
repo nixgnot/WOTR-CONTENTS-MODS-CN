@@ -121,7 +121,17 @@
     "zhCN": "你的武技特别难以被人招架。\n效果：你的所有武技的豁免DC+1",
     "enGB": "Your maneuvers are particualarly hard to resist.\nBenefit: Add +1 to the Difficulty Class for all saving throws against your maneuvers."
   },
-
+  {
+    "Key": "MythicManeuverFocus.Name",
+    "ProcessTemplates": false,
+    "zhCN": "武技专攻（神话）",
+    "enGB": "Maneuver Focus (Mythic)"
+  },
+  {
+    "Key": "MythicManeuverFocus.Desc",
+    "zhCN": "你的神话力量使你的武技更加难以被人招架。\n效果：将你的神话等级加入武技DC中。",
+    "enGB": "Your mythic power makes your maneuvers harder to resist.\nBenefit: Increase the Difficulty Class for resisting your maneuvers by your Mythic Rank."
+  },
   {
     "Key": "WarbladeC.Name",
     "ProcessTemplates": false,
