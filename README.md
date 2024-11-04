@@ -4808,6 +4808,9 @@ C:\Users\你的用户名\AppData\LocalLow\Owlcat Games\Pathfinder Wrath Of The R
        <tr><td colspan="5">所有武技无需像法师那样准备，而是像术士那样可以自由使用已知的武技</td></tr>
        <tr><td colspan="5">军道之剑使用移动动作来恢复武技，此能力必须击中敌人才能恢复两招已耗竭武技</td></tr>
        <tr><td colspan="5">贤者之剑则是使用整轮动作来恢复全部已耗竭武技</td></tr>
+   <tr><td rowspan="2">专长<br></th></tr> 
+           <td colspan="2">武技专攻 Maneuver Focus<br>你的所有武技的豁免DC+1</td></tr>
+           <td colspan="2">武技专攻（神话） Maneuver Focus (Mythic)<br>将你的神话等级加入武技DC中。</td></tr>
    <tr><td rowspan="2">职业<br></th></tr> 
            <td colspan="2">军道之剑 Warblade</td></tr> 
 <tr><th colspan="5">武术流派<br></th></tr> 
