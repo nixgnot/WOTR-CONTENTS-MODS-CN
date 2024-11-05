@@ -2122,6 +2122,12 @@
     <td rowspan="2">本体</td>
        <td>Poison Vulnerability 透体之毒：解除敌人毒免</td>
   <tr><td>Sustained Vulnerability 毒入骨髓：延长透体之毒有效期</td></tr>
+  <tr><td>Whirlwind Attack 旋风攻击：每天3次，以所有攻击-4为为代价换取额外6次最高攻击加值攻击</td></tr>
+  <tr><td>Greater Whirlwind Attack 高等旋风攻击：取消旋风攻击减值</td></tr>
+  <tr><td>Hardiness 坚韧不拔：每天1次，获取40%物理抗性</td></tr>
+  <tr><td>Stunning Strikes 震慑强袭：每天3次，如果对手未能通过强韧豁免检定会被震慑</td></tr>
+  <tr><td>Critical Strikes 致命强袭：每天1次，下一轮中的每一次攻击掷骰都会得到自然20</td></tr>
+  <tr><td>Warcry 战争呼啸：每天3次，发出战吼，如果对手未能通过意志豁免检定，陷入恐慌，武器伤害减少，受到伤害增加</td></tr>
     <tr><td rowspan="3"><b>AC专属</b></td>
           <td>Abundant Casting(Homebrew) <b>连锁施法：一定次数唤回任意法术</b></td></tr>
       <tr><td>Empowered Bombs 增强炸弹：提高炼金炸弹伤害</td></tr>
