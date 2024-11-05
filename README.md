@@ -2048,7 +2048,7 @@
        <td>Investigator 调查员及变体：Jinyiwei 锦衣卫、Questioner 发问者、Empiricist 演绎家</td></tr>
            <tr><td>NPC职业：5个NPC用职业，基本白板</td></tr>
 	   <tr><td>Champion 英杰：无阵营限制的圣武士，可选择誓约（暂未实装）</td></tr>
-	   <tr><td>Freedom Fighter 自由斗士：拥有偷袭和幸运天赋的半身人战士（未完成）</td></tr>
+	   <tr><td>Freedom Fighter 自由斗士：拥有偷袭和幸运天赋的半身人战士</td></tr>
   <tr><td rowspan="29">变体</td>
     <td rowspan="2">奥能师</td>
          <td>Blood Arcanist 血奥师</td></tr>
@@ -2118,8 +2118,8 @@
          <td>克苏鲁系11个信仰</td></tr>
   <tr><td colspan="2">领域</td>
          <td>Void 虚空领域：擅长旅行移动和召唤</td></tr>
-  <tr><td rowspan="5">神话能力</td>
-    <td rowspan="2">本体</td>
+  <tr><td rowspan="11">神话能力</td>
+    <td rowspan="8">本体</td>
        <td>Poison Vulnerability 透体之毒：解除敌人毒免</td>
   <tr><td>Sustained Vulnerability 毒入骨髓：延长透体之毒有效期</td></tr>
   <tr><td>Whirlwind Attack 旋风攻击：每天3次，以所有攻击-4为为代价换取额外6次最高攻击加值攻击</td></tr>
