@@ -4622,7 +4622,7 @@ Duty - Be responsible for your actions and their consequences, protect those ent
         },
 		{
             "Key": "HomebrewArchtypes_FreedomFighterLuckAbilitySelectionFreedomFinesseScimitarNameDesc", 
-            "zhCN": "每当自由斗士使用选定的武器组成功进行近战攻击时，他们会在伤害骰中加上自己的敏捷调整值，取代原本的力量调整值，并且这些武器被视为可应用武器娴熟的武器。"
+            "zhCN": "每当自由斗士使用选定的武器组成功进行近战攻击时，他们会在攻击掷骰中加上自己的敏捷调整值，取代原本的力量调整值，并且这些武器被视为可应用武器娴熟的武器。"
         },
 		{
             "Key": "HomebrewArchtypes_FreedomFighterLuckAbilitySelectionLuckyStrikesName", 
@@ -4654,7 +4654,7 @@ Duty - Be responsible for your actions and their consequences, protect those ent
         },
 		{
             "Key": "HomebrewArchtypes_FreedomFighterFreedomFinesseDesc", 
-            "zhCN": "3级时，自由斗士可以选择一个武器组，将该类武器视为可以应用武器娴熟。一旦做出选择，便不能更改。每当他们使用所选武器成功进行近战攻击时，他们会将敏捷调整值加到伤害骰上，取代原本的力量调整值。如果任何效果会阻止自由斗士将力量调整值加到伤害骰上，那么他们也不会将敏捷调整值加到伤害骰上。在11级时，自由斗士可以选择第二个武器组，在19级时选择第三个。"
+            "zhCN": "3级时，自由斗士可以选择一个武器组，将该类武器视为可以应用武器娴熟。一旦做出选择，便不能更改。每当他们使用所选武器成功进行近战攻击时，他们会将敏捷调整值加到攻击掷骰上，取代原本的力量调整值。如果任何效果会阻止自由斗士将力量调整值加到攻击掷骰上，那么他们也不会将敏捷调整值加到攻击掷骰上。在11级时，自由斗士可以选择第二个武器组，在19级时选择第三个。"
         },
 		{
             "Key": "HomebrewArchtypes_FreedomFighterLuckAbilityFavortheBoldName", 
@@ -4999,5 +4999,217 @@ Duty - Be responsible for your actions and their consequences, protect those ent
 		{
             "Key": "HomebrewArchtypes_MythicAbilityWarcryDesc", 
             "zhCN": "勇士发出强大而可怕的吼声，如果半径30英尺内的对手没有通过DC 10 + 1/2角色等级+魅力修调整值的意志豁免检定，会陷入恐慌。这种恐慌会导致所有受影响者的武器伤害降低20%，并且他们在1分钟内受到的攻击伤害增加20%。该能力每天可以使用3次。"
+        },
+		{
+            "Key": "HomebrewArchtypes_FreedomFighterSubclassSelectionName", 
+            "zhCN": "子职业选择"
+        },
+		{
+            "Key": "HomebrewArchtypes_FreedomFighterSubclassSelectionDesc", 
+            "zhCN": "自由斗士来自天南海北，将各自文化的技能汇聚一堂。每一条道路都是对他们所属种族的献礼。"
+        },
+		{
+            "Key": "HomebrewArchtypes_FreedomFighterSubclassSelectionHalflingName", 
+            "zhCN": "天运承者"
+        },
+		{
+            "Key": "HomebrewArchtypes_FreedomFighterSubclassSelectionHalflingDesc", 
+            "zhCN": "天运承者是由半身人的天生幸运所创造的一种异象。这些自由斗士通过训练和引导，将他们的天生幸运转化为神秘的能力，从而改变他们自己和盟友的命运。"
+        },
+		{
+            "Key": "HomebrewArchtypes_FreedomFighterSubclassSelectionDwarfName", 
+            "zhCN": "爆破专家"
+        },
+		{
+            "Key": "HomebrewArchtypes_FreedomFighterSubclassSelectionDwarfDesc", 
+            "zhCN": "爆破专家擅长炼金术和工程学，能够制造炸弹并知晓如何使用它们。这些矮人专家对于各种工匠和商人行会施加的控制感到不满，因此他们将自己的专业知识用于其他领域。"
+        },
+		{
+            "Key": "HomebrewArchtypes_FreedomFighterDemolitionistDiscoveryPreciseBombsName", 
+            "zhCN": "精准炸弹"
+        },
+		{
+            "Key": "HomebrewArchtypes_FreedomFighterDemolitionistDiscoveryPreciseBombsDesc", 
+            "zhCN": "当自由战士投掷炸弹时，他们可以在炸弹的伤害上额外附加偷袭{g|Encyclopedia:Damage}伤害{/g}。"
+        },
+		{
+            "Key": "HomebrewArchtypes_FreedomFighterDemolitionistDiscoveryChemicalWeaponsName", 
+            "zhCN": "炸弹训练"
+        },
+		{
+            "Key": "HomebrewArchtypes_FreedomFighterDemolitionistDiscoveryChemicalWeaponsDesc", 
+            "zhCN": "自由斗士获得随手投掷作为额外{g|Encyclopedia:Feat}专长{/g}，同时炸弹伤害会增加一个伤害骰子。"
+        },
+		{
+            "Key": "HomebrewArchtypes_FreedomFighterSubclassSelectionHumanName", 
+            "zhCN": "龙血族裔"
+        },
+		{
+            "Key": "HomebrewArchtypes_FreedomFighterSubclassSelectionHumanDesc", 
+            "zhCN": "龙血族裔是拥有龙血的人类自由斗士。"
+        },
+		{
+            "Key": "HomebrewArchtypes_FreedomFighterSubclassSelectionElfName", 
+            "zhCN": "彼方行者"
+        },
+		{
+            "Key": "HomebrewArchtypes_FreedomFighterSubclassSelectionElfDesc", 
+            "zhCN": "彼方行者是被流放的精灵斗士，他们擅长伪装，并利用他们精湛的射击技巧以及各种工具和能力来伏击对手。"
+        },
+		{
+            "Key": "HomebrewArchtypes_FreedomFighterFarstriderAbilitySelectionName", 
+            "zhCN": "行者天赋"
+        },
+		{
+            "Key": "HomebrewArchtypes_FreedomFighterFarstriderAbilitySelectionDesc", 
+            "zhCN": "随着彼方行者经验的积累，他们会学习许多天赋，以帮助他们进行伏击并从远处打击敌人。从2级开始，彼方行者将获得一个行者天赋。在2级之后，每当彼方行者达到每2个自由斗士等级时，他们都会再获得一个行者天赋。彼方行者不能重复选择同一个天赋，除非天赋描述中另有说明。"
+        },
+		{
+            "Key": "HomebrewArchtypes_FreedomFighterFarstriderHawkEyeName", 
+            "zhCN": "鹰眼"
+        },
+		{
+            "Key": "HomebrewArchtypes_FreedomFighterFarstriderHawkEyeDesc", 
+            "zhCN": "2级起，彼方行者在进行察觉检定时获得+1的加值。在2级之后，每提升4个等级，这个加值就会再+1。"
+        },
+		{
+            "Key": "HomebrewArchtypes_FreedomFighterFarstriderAbilityArcherTrainingName", 
+            "zhCN": "射手训练"
+        },
+		{
+            "Key": "HomebrewArchtypes_FreedomFighterFarstriderAbilityArcherTrainingDesc", 
+            "zhCN": "彼方行者每拥有5个自由斗士等级，就可以在使用长弓和短弓时获得额外的+1攻击加值（这不被算作武器训练）。"
+        },
+		{
+            "Key": "HomebrewArchtypes_FreedomFighterFarstriderAbilityExpertArcherName", 
+            "zhCN": "专家射手"
+        },
+		{
+            "Key": "HomebrewArchtypes_FreedomFighterFarstriderAbilityExpertArcherDesc", 
+            "zhCN": "拥有这项天赋的彼方行者在使用短弓和长弓时，使用{g|Encyclopedia:Dexterity}敏捷{/g}调整值替代 {g|Encyclopedia:Strength}力量{/g}调整值进行{g|Encyclopedia:Damage}伤害检定{/g}。"
+        },
+		{
+            "Key": "HomebrewArchtypes_FreedomFighterFarstriderAbilityCamouflageName", 
+            "zhCN": "伪装"
+        },
+		{
+            "Key": "HomebrewArchtypes_FreedomFighterFarstriderAbilityCamouflageDesc", 
+            "zhCN": "6级起，彼方行者即使在被观察的情况下也可以使用{g|Encyclopedia:Stealth}潜行{/g}{g|Encyclopedia:Skills}技能{/g}。彼方行者可以在开阔地带隐藏自己，而不需要任何实际可以躲藏的东西。"
+        },
+		{
+            "Key": "HomebrewArchtypes_FreedomFighterFarstriderAbilityLightfootName", 
+            "zhCN": "轻足"
+        },
+		{
+            "Key": "HomebrewArchtypes_FreedomFighterFarstriderAbilityLightfootDesc", 
+            "zhCN": "7级起，你可以以正常的{g|Encyclopedia:Speed}速度{/g}穿越任何困难地形，而不会受到{g|Encyclopedia:Damage}伤害{/g}或任何其他妨碍。"
+        },
+		{
+            "Key": "HomebrewArchtypes_FreedomFighterFarstriderAbilityTakeAimName", 
+            "zhCN": "集中瞄准"
+        },
+		{
+            "Key": "HomebrewArchtypes_FreedomFighterFarstriderAbilityTakeAimDesc", 
+            "zhCN": "13级起，远行者可以花费一个标准动作来集中注意力瞄准。在接下来的一轮中，他们对任何目标进行的所有远程攻击都可以获得等同于其职业等级一半的额外加值（作为环境加值）。这些攻击还可以忽略隐蔽效果。"
+        },
+		{
+            "Key": "HomebrewArchtypes_FreedomFighterDragonbloodedNaturalArmorIncreaseName", 
+            "zhCN": "天生防御增加 (+1)"
+        },
+		{
+            "Key": "HomebrewArchtypes_FreedomFighterDragonbloodedNaturalArmorIncreaseDesc", 
+            "zhCN": "随着龙血族裔皮肤的增厚，他们越来越多地呈现出其祖先的体态特征。在1级以及之后的每3级，龙血族裔的角色现有天生防御对{g|Encyclopedia:Armor_Class}AC{/g}的{g|Encyclopedia:Bonus}加值{/g} （如果有的话）会增加+1。这些护甲加值可以累加。"
+        },
+		{
+            "Key": "HomebrewArchtypes_FreedomFighterDragonbloodedAbilityBoostStrName", 
+            "zhCN": "属性加值-力量 (+2)"
+        },
+		{
+            "Key": "HomebrewArchtypes_FreedomFighterDragonbloodedAbilityBoostStrDesc", 
+            "zhCN": "随着龙血族裔等级的提升，他们越来越多地呈现出其祖先的体态特征。在5级以及之后的每4级，龙血族裔的角色的{g|Encyclopedia:Strength}力量{/g}值会增加+2。这些{g|Encyclopedia:Bonus}加值{/g}可以累加。"
+        },
+		{
+            "Key": "HomebrewArchtypes_FreedomFighterDragonbloodedAbilityBoostConName", 
+            "zhCN": "属性加值-体质 (+2)"
+        },
+		{
+            "Key": "HomebrewArchtypes_FreedomFighterDragonbloodedAbilityBoostConDesc", 
+            "zhCN": "达到6级和12级时，龙血族裔的{g|Encyclopedia:Constitution}体质{/g}属性增加+2。"
+        },
+		{
+            "Key": "HomebrewArchtypes_FreedomFighterDragonbloodedAbilityBoostIntName", 
+            "zhCN": "属性加值-智力 (+2)"
+        },
+		{
+            "Key": "HomebrewArchtypes_FreedomFighterDragonbloodedAbilityBoostIntDesc", 
+            "zhCN": "达到8级和15级时，龙血族裔的{g|Encyclopedia:Intelligence}智力{/g}属性增加+2。"
+        },
+		{
+            "Key": "HomebrewArchtypes_FreedomFighterDragonbloodedBlindsenseName", 
+            "zhCN": "盲感"
+        },
+		{
+            "Key": "HomebrewArchtypes_FreedomFighterDragonbloodedBlindsenseDesc", 
+            "zhCN": "10级起，龙血族裔将获得范围为25英尺的{g|Encyclopedia:Blindsense}盲感{/g}能力。通过非视觉感官，龙血者可以察觉到他们看不见的东西。在盲感能力范围内，如果他们与目标之间有视线，则通常无需进行{g|Encyclopedia:Perception}察觉检定{/g}就能察觉并确定目标的方位。\n任何龙血族裔看不见的敌人仍然对他们保持完全的{g|Encyclopedia:Concealment}隐蔽{/g}，而龙血族裔在攻击具有隐蔽效果的敌人时，仍然会有正常的未命中几率。具有盲感能力的生物在受到其看不见的生物的攻击时，仍然无法获得{g|Encyclopedia:Armor_Class}AC{/g}上的{g|Encyclopedia:Dexterity}敏捷{/g}{g|Encyclopedia:Bonus}加值{/g}。在20级时，这项能力的范围增加到50英尺。"
+        },
+		{
+            "Key": "HomebrewArchtypes_FreedomFighterDemolitionExpertExplosiveExpertiseName", 
+            "zhCN": "爆炸专家"
+        },
+		{
+            "Key": "HomebrewArchtypes_FreedomFighterDemolitionExpertExplosiveExpertiseDesc", 
+            "zhCN": "你炸弹的所有{g|Encyclopedia:Saving_Throw}豁免检定{/g}的难度等级（DC）+2。这个发现可以与“能力专攻-炸弹”叠加。这个发现最多可以选择3次。"
+        },
+		{
+            "Key": "HomebrewArchtypes_FreedomFighterDemolitionExpertCloseBombsName", 
+            "zhCN": "卓越武库"
+        },
+		{
+            "Key": "HomebrewArchtypes_FreedomFighterDemolitionExpertCloseBombsDesc", 
+            "zhCN": "凭借这一发现，爆破专家在使用近距射击时可以获得+4的伤害加值。"
+        },
+		{
+            "Key": "HomebrewArchtypes_FreedomFighterFarstriderAbilityFocusName", 
+            "zhCN": "精神集中"
+        },
+		{
+            "Key": "HomebrewArchtypes_FreedomFighterFarstriderAbilityFocusDesc", 
+            "zhCN": "凭借这一天赋，彼方行者可以花费一个标准动作来集中精神。集中精神可以使彼方行者下一轮使用远程武器造成的武器伤害提高100%。"
+        },
+		{
+            "Key": "HomebrewArchtypes_FreedomFighterFarstriderAbilityExtremePrecisionName", 
+            "zhCN": "极限精准"
+        },
+		{
+            "Key": "HomebrewArchtypes_FreedomFighterFarstriderAbilityExtremePrecisionDesc", 
+            "zhCN": "你使用非射程限制的远程武器攻击时{g|Encyclopedia:Attack}攻击{/g}和{g|Encyclopedia:Damage}伤害掷骰{/g}时获得+1{g|Encyclopedia:Bonus}加值{/g}。这个加值可以与近程射击叠加"
+        },
+		{
+            "Key": "HomebrewArchtypes_FreedomFighterFarstriderAbilityOneWiththeForestName", 
+            "zhCN": "森林之子"
+        },
+		{
+            "Key": "HomebrewArchtypes_FreedomFighterFarstriderAbilityOneWiththeForestDesc", 
+            "zhCN": "每当彼方行者成功发动一次偷袭时，目标将在接下来的1轮内处于措手不及状态。"
+        },
+		{
+            "Key": "HomebrewArchtypes_FreedomFighterDragonbloodedBiteName", 
+            "zhCN": "龙啮"
+        },
+		{
+            "Key": "HomebrewArchtypes_FreedomFighterDragonbloodedBiteDesc", 
+            "zhCN": "2级起，龙血族裔获得一次撕咬{g|Encyclopedia:Attack}攻击{/g}。这是一种主要的{g|Encyclopedia:NaturalAttack}天生攻击{/g}，造成{g|Encyclopedia:Dice}1d6{/g}点{g|Encyclopedia:Damage}伤害{/g}，再加上龙血族裔{g|Encyclopedia:Strength}力量{/g}调整的1.5倍。达到6级时，这次撕咬还会造成1d6点的{g|Encyclopedia:Energy_Damage}能量伤害{/g}。所造成的伤害类型由龙血族裔的血统决定。"
+        },
+		{
+            "Key": "HomebrewArchtypes_FreedomFighterDragonbloodedBloodofDragonsSelectionName", 
+            "zhCN": "龙族之血"
+        },
+		{
+            "Key": "HomebrewArchtypes_FreedomFighterDragonbloodedBloodofDragonsSelectionDesc", 
+            "zhCN": "龙血后裔会获得龙族血统的力量。他们在获得这个职业的第一级时，必须选择一种龙的类型。"
+        },
+		{
+            "Key": "HomebrewArchtypes_BombModifierBonusName", 
+            "zhCN": "炸弹调整加值"
         }
 	]	
