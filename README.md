@@ -3887,6 +3887,8 @@ C:\Users\你的用户名\AppData\LocalLow\Owlcat Games\Pathfinder Wrath Of The R
 > *中文：* **自带中文**<br>
 > *安装方式：* **UMM**<br>
 > *新增内容：* 进阶职业<br>
+**特别注意！！！**
+如果出现了【伤害加值在重击时不能加倍】的问题，请注意在Modmenu选项中关闭重击削弱选项！
 <table>
  <tr><th colspan="3">新增内容列表<br></th></tr> 
   <tr><td rowspan="45">变体</i></td>
