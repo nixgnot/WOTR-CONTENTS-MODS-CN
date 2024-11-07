@@ -5182,7 +5182,7 @@ Duty - Be responsible for your actions and their consequences, protect those ent
         },
 		{
             "Key": "HomebrewArchtypes_FreedomFighterFarstriderAbilityExtremePrecisionDesc", 
-            "zhCN": "你使用非射程限制的远程武器攻击时{g|Encyclopedia:Attack}攻击{/g}和{g|Encyclopedia:Damage}伤害掷骰{/g}时获得+1{g|Encyclopedia:Bonus}加值{/g}。这个加值可以与近程射击叠加"
+            "zhCN": "你使用远程武器在射程内攻击时{g|Encyclopedia:Attack}攻击{/g}和{g|Encyclopedia:Damage}伤害掷骰{/g}时获得+1{g|Encyclopedia:Bonus}加值{/g}。这个加值可以与近程射击叠加"
         },
 		{
             "Key": "HomebrewArchtypes_FreedomFighterFarstriderAbilityOneWiththeForestName", 
