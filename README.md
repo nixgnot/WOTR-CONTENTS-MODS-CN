@@ -2139,7 +2139,6 @@
 
 -------------------------------------------
 ### [ExpandedContent2022](https://github.com/ka-dyn/ExpandedContent)
-+ [贴吧汉化帖](https://tieba.baidu.com/p/8108212678)
 > *前置：* TabletopTweaks-Core 此外此模组虽然不依赖TabletopTweaks-Base，但作者所有测试都是基于安装TT-Base的环境下测试的，且关闭掉Base的几个特定的fix会导致游戏无法加载<br>
 > *中文：* **有汉化，提供[QL汉化修正](QuickLocalization用汉化文本/TTTLocalization/ExpandedContent(Fix))**<br>
 > *安装方式：* **UMM**<br>
