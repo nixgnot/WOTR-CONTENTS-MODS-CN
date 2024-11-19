@@ -83,7 +83,7 @@
 ### 前置MOD
 目前正义之怒所需主要前置MOD有两个：
 1. [TabletopTweaks-Core](https://github.com/Vek17/TabletopTweaks-Core)（**核心必备**，绝大部分MOD的基础框架，本身不会进行任何改动。）
-2. [ModMenu](https://github.com/WittleWolfie/ModMenu)（**非必备**，一部分MOD使用的基础框架。会在游戏中选项里添加一个新的页面来进行MOD功能调整。）
+2. [ModMenu](https://github.com/CasDragon/ModMenu)（**非必备**，一部分MOD使用的基础框架。会在游戏中选项里添加一个新的页面来进行MOD功能调整。）
 
 ### 汉化文件及其他说明
 + 本文档上方会收集一些个人提供的**MOD汉化或汉化修正文件**，不定时更新。
