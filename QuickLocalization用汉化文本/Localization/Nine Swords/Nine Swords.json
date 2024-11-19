@@ -129,8 +129,68 @@
   },
   {
     "Key": "MythicManeuverFocus.Desc",
-    "zhCN": "你的神话力量使你的武技更加难以被人招架。\n效果：将你的神话等级加入武技DC中。",
+    "zhCN": "你的神话力量使你的武技更加难以被人招架。\n效果：将你的神话等级加入武技豁免DC中。",
     "enGB": "Your mythic power makes your maneuvers harder to resist.\nBenefit: Increase the Difficulty Class for resisting your maneuvers by your Mythic Rank."
+  },
+  {
+    "Key": "UnnervingCalm.Name",
+    "ProcessTemplates": false,
+    "zhCN": "泰然自若",
+    "enGB": "Unnerving Calm"
+  },
+  {
+    "Key": "UnnervingCalm.Desc",
+    "zhCN": "当你的钢魂击技命中时，你可以再次使用此击技。此外，你所有钢魂武技的豁免DC+1。",
+    "enGB": "When you hit with a Diamond Mind strike you regain the use of that strike. In addition you add +1 to the Difficulty Class for all saving throws against your Diamond Mind maneuvers."
+  },
+  {
+    "Key": "IronHeartAura.Name",
+    "ProcessTemplates": false,
+    "zhCN": "石心之佑",
+    "enGB": "Iron Heart Aura"
+  },
+  {
+    "Key": "IronHeartAura.Desc",
+    "zhCN": "你的精神力量和武术训练激励着你周围的人。\n效果：当你处于任何铁心姿态时，你周围20尺内的盟友（不包括你自己）豁免检定获得+2士气加值。此外，你所有铁心武技的豁免DC+1。",
+    "enGB": "Your strength of spirit and martial training inspires those around you.\nBenefit: While you are in any Iron Heart stance, allies (not yourself) in a 20ft-circle around you gain +2 morale bonus to saving throws. In addition you add +1 to the Difficulty Class for all saving throws against your Iron Heart maneuvers."
+  },
+  {
+    "Key": "IronHeartAuraEffect.Desc",
+    "zhCN": "豁免检定获得+2士气加值。",
+    "enGB": "+2 morale bonus to saving throws."
+  },
+  {
+    "Key": "EnduranceOfStone.Name",
+    "ProcessTemplates": false,
+    "zhCN": "磐石之韧",
+    "enGB": "Endurance of Stone"
+  },
+  {
+    "Key": "EnduranceOfStone.Desc",
+    "zhCN": "当你的石龙击技命中时，你恢复1d6点生命值。此外，你所有石龙武技的豁免DC+1。",
+    "enGB": "When you hit with a Stone Dragon strike you heal for 1d6. In addition you add +1 to the Difficulty Class for all saving throws against your Stone Dragon maneuvers."
+  },
+  {
+    "Key": "TigerBlooded.Name",
+    "ProcessTemplates": false,
+    "zhCN": "虎血沸腾",
+    "enGB": "Tiger Blooded"
+  },
+  {
+    "Key": "TigerBlooded.Desc",
+    "zhCN": "当你使用虎爪击技时，你获得+3攻击加值。此外，你所有虎爪武技的豁免DC+1。",
+    "enGB": "Increase your attack bonus by 3 when using Tiger Claw strikes. In addition you add +1 to the Difficulty Class for all saving throws against your Tiger Claw maneuvers."
+  },
+  {
+    "Key": "WhiteRavenDefense.Name",
+    "ProcessTemplates": false,
+    "zhCN": "白鸦之御",
+    "enGB": "White Raven Defense"
+  },
+  {
+    "Key": "WhiteRavenDefense.Desc",
+    "zhCN": "当你的白鸦击技命中时，移除30尺范围内盟友困惑、胁迫、情绪、恐惧、震慑和影响心智的状态。此外，你所有白鸦武技的豁免DC+1。",
+    "enGB": "On hitting with a White Raven strike removes the confused, compulsion, emotion, fear, shaken and mind affecting conditions from allies in a 30 feet radius. In addition you add +1 to the Difficulty Class for all saving throws against your White Raven maneuvers. [Currently no White Raven strike allows a saving throw]"
   },
   {
     "Key": "WarbladeC.Name",
