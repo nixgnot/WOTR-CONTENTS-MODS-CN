@@ -2241,7 +2241,7 @@
        <td>Scalykind 鳞状<br>Plant 植物领域修改为桌面规则</td></tr>
    <tr><td>子领域</td>
        <td>Agathion 阿加西翁、 Archon 亚空, Blood 血液、Caves 洞穴、Curse 诅咒、 Demon, Dragon 龙、Ferocity 凶猛、Ice 冰、Lust 欲望、Psychopomp 招魂、Rage 狂暴、 Resolve 决心、Restoration 恢复、Revelation 启示、Revolution 革命、Rivers 河流、Stars 星空、Storm 风暴、Thievery 盗窃、Undead 不死、Whimsy 滑稽、Wind 风、Growth 生长、Fist 铁拳、Loyalty 忠诚 Fist 铁拳 Loyalty 忠诚 Lightning 闪电</td></tr>
-   <tr><td colspan="2" rowspan="41">法术<br><i>参阅PF文档</i></td>
+   <tr><td colspan="2" rowspan="42">法术<br><i>参阅PF文档</i></td>
        <td>Hydraulic push 水流冲击</td></tr>
    <tr><td>Slipstream 滑流</td></tr>
    <tr><td>Scourge of the Horsemen 天启诸骑的蹂躏</td></tr>
@@ -2283,6 +2283,7 @@
    <tr><td>Shadow Step 暗影步</td></tr>
    <tr><td>Mydriatic Spontaneity 自发性散瞳</td></tr>
    <tr><td>Mass Mydriatic Spontaneity 群体自发性散瞳</td></tr>
+   <tr><td>Burst of Nettles 爆射荨麻</td></tr>
  </table>   
 
 -------------------------------------------
@@ -3278,6 +3279,20 @@ C:\Users\你的用户名\AppData\LocalLow\Owlcat Games\Pathfinder Wrath Of The R
 	<tr><td>神话巫师之刃<br>Witch Knife（Mythic）</td>
 		<td>你能够将巫师之刃作为所有你的巫师法术的额外器材成分，而不仅仅是庇护主法术，为其DC增加1。这个加值和巫师之刃对庇护主效果叠加。给予庇护主法术总计+2 DC。</td>
 		<td>:x:</td></tr>
+<tr><td rowspan="2">秘术师神话专长<br>Mythic Feat</td>
+	<td>奥秘训练<br>Eclectic Training</td>
+		<td>你用来进入秘术师的奥术法术书基础施法者等级+1，如果你已经拥有神秘训练专长，其加值增加2，但是奥秘训练的加值依然保持为1。</td>
+		<td>:heavy_check_mark:</td></tr>
+	<tr><td>神秘训练<br>Esoteric Training</td>
+		<td>你用来进入秘术师的神术法术书基础施法者等级+1，如果你已经拥有奥秘训练专长，其加值增加2，但是神秘训练的加值依然保持为1。</td>
+		<td>:heavy_check_mark:</td></tr>
+<tr><td rowspan="2">诡计大师专属专长<br>Trickster-only feat</td>
+	<td>科学狂人<br>They Called Me Mad</td>
+		<td> 你可以对他人使用突变剂</td>
+		<td>:heavy_check_mark:</td></tr>
+	<tr><td>酒兴巧思<br>Drunken Inspiration</td>
+		<td>饮酒会恢复你所有的有限资源1点。但是由于你的酩酊大醉，你在接下来10分钟内所有心智属性受到-2减值。</td>
+		<td>:heavy_check_mark:</td></tr>
 <tr><td rowspan="2">职业特性<br>Class Feature</td>
 	<td>双法合璧<br>Spell Synthesis</td>
 		<td>添加秘术师巅峰，10级时，秘术师可以使用一个动作施放两个法术</td>
@@ -4818,9 +4833,14 @@ C:\Users\你的用户名\AppData\LocalLow\Owlcat Games\Pathfinder Wrath Of The R
        <tr><td colspan="5">所有武技无需像法师那样准备，而是像术士那样可以自由使用已知的武技</td></tr>
        <tr><td colspan="5">军道之剑使用移动动作来恢复武技，此能力必须击中敌人才能恢复两招已耗竭武技</td></tr>
        <tr><td colspan="5">贤者之剑则是使用整轮动作来恢复全部已耗竭武技</td></tr>
-   <tr><td rowspan="3">专长<br></th></tr> 
+   <tr><td rowspan="8">专长<br></th></tr> 
            <td colspan="2">武技专攻 Maneuver Focus<br>你的所有武技的豁免DC+1</td></tr>
            <td colspan="2">武技专攻（神话） Maneuver Focus (Mythic)<br>将你的神话等级加入武技DC中。</td></tr>
+           <td colspan="2">钢魄之仪 Unnerving Calm<br>当你的钢魂击技命中时，你可以再次使用此击技。此外，你所有钢魂武技的豁免DC+1。</td></tr>
+           <td colspan="2">石心之佑 Iron Heart Aura<br>当你处于任何铁心姿态时，你周围20尺内的盟友（不包括你自己）豁免检定获得+2士气加值。此外，你所有铁心武技的豁免DC+1。</td></tr>
+           <td colspan="2">磐石之韧 Endurance of Stone<br>当你的石龙击技命中时，你恢复1d6点生命值。此外，你所有石龙武技的豁免DC+1。</td></tr>
+           <td colspan="2">猛虎之血 Tiger Blooded (Mythic)<br>当你使用虎爪击技时，你获得+3攻击加值。此外，你所有虎爪武技的豁免DC+1。</td></tr>
+           <td colspan="2">白鸦之御 Maneuver Focus<br>当你的白鸦击技命中时，移除30尺范围内盟友困惑、胁迫、情绪、恐惧、震慑和影响心智的状态。此外，你所有白鸦武技的豁免DC+1。</td></tr>
    <tr><td rowspan="2">职业<br></th></tr> 
            <td colspan="2">军道之剑 Warblade</td></tr> 
 <tr><th colspan="5">武术流派<br></th></tr> 
