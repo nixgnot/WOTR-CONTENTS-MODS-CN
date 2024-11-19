@@ -27276,6 +27276,34 @@
       "ProcessTemplates": true,
       "zhCN": "\n你宣告那闪电将伴随着轰鸣的雷声而到来。\n闪电弧：作为标准动作，你能够以远程接触攻击的方式，对30英尺内的任意敌人发射一道电弧。电弧将造成1d6点电击伤害，赋予你此领域的职业等级每提升2级，可额外造成1点伤害。每天可使用次数为感知调整值+3。\n避雷针：作为迅捷动作，你可以指定一个在视线内的生物，你这本轮施放的下一个带有电描述符的法术击中该生物时，对该生物造成的伤害增加50％。 这个额外的伤害是神力伤害，不会因为闪电抗力而减少，并且你会在你施放这个法术后立刻受到等量的闪电伤害。这个法术只造成一次额外伤害，即便它可以多次对目标造成影响。 你可以在8级时每天使用一次这种能力，在8级之后每额外4个牧师等级你可以每天再获得一次使用次数。\n领域法术：电爪，防护箭矢，闪电束，咆哮术，死云，链状闪电，元素之躯IV（风），高等咆哮术，召集元素（风）。",
       "enGB": "\nYou herald the roar of thunder and crash of lightning. \nLightning Arc: As a standard action, you can unleash an arc of electricity targeting any foe within 30 feet as a ranged touch attack. This arc of electricity deals 1d6 points of electricity damage + 1 point for every two levels you possess in the class that gave you access to this domain. You can use this ability a number of times per day equal to 3 + your Wisdom modifier. \nLightning Rod: As a swift action designate one creature within line of sight, the next spell you cast with the electricity descriptor that hits this creature this round has it’s damage against that creature increased by 50%. This additional damage results from divine power that is not subject to being reduced by electricity resistance, and you take an equal amount of electricity damage immediately after you cast the spell. The spell can deal this additional damage only once, even if it could affect the target multiple times. You can use this ability once per day at 8th level and one additional time per day for every 4 cleric levels you have beyond 8th. \nDomain Spells: shocking grasp, protection from arrows, lightning bolt, shout, cloudkill, chain lightning, elemental body IV (air), shout, greater, elemental swarm (air)."
+    },
+    {
+      "Key": "23df521b13204f2885301d3e84cbbb01",
+      "SimpleName": "BurstOfNettlesAbility.Description",
+      "ProcessTemplates": true,
+      "zhCN": "你将大量带有尖刺并且灌满强酸的荨麻爆发出去。在爆发范围内的生物会受到3d6点伤害并在下一回合受到1d6点强酸伤害。通过豁免的生物可以使最初的爆发伤害减半并免受下一轮的伤害。",
+      "enGB": "You release a burst of barbed, acid-filled nettles. Creatures caught in the burst take 3d6 points of damage plus 1d6 points of acid damage on the next round. Those that save take half damage from the initial burst and no damage on the next round."
+    },
+    {
+      "Key": "43dfbc7aac744196b075c9f606eae87a",
+      "SimpleName": "BurstOfNettlesAbility.SavingThrow",
+      "ProcessTemplates": false,
+      "zhCN": "反射，通过则减半",
+      "enGB": "Reflex half"
+    },
+    {
+      "Key": "e455abd65ec649069b87fd5be7450e31",
+      "SimpleName": "BurstOfNettlesBuff.Description",
+      "ProcessTemplates": true,
+      "zhCN": "下一轮该生物将受到1d6点强酸伤害",
+      "enGB": "Next round this creature takes 1d6 points of acid damage."
+    },
+    {
+      "Key": "35c3e8c2bae7468f80859ecfa2d5d845",
+      "SimpleName": "BurstOfNettlesBuff.Name",
+      "ProcessTemplates": false,
+      "zhCN": "爆射荨麻",
+      "enGB": "Burst of Nettles"
     }
   ]
 }
