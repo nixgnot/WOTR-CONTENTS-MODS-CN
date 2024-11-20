@@ -4836,11 +4836,11 @@ C:\Users\你的用户名\AppData\LocalLow\Owlcat Games\Pathfinder Wrath Of The R
    <tr><td rowspan="8">专长<br></th></tr> 
            <td colspan="2">武技专攻 Maneuver Focus<br>你的所有武技的豁免DC+1</td></tr>
            <td colspan="2">武技专攻（神话） Maneuver Focus (Mythic)<br>将你的神话等级加入武技DC中。</td></tr>
-           <td colspan="2">钢魄之仪 Unnerving Calm<br>当你的钢魂击技命中时，你可以再次使用此击技。此外，你所有钢魂武技的豁免DC+1。</td></tr>
+           <td colspan="2">钢魄之威 Unnerving Calm<br>当你的钢魂击技命中时，你可以再次使用此击技。此外，你所有钢魂武技的豁免DC+1。</td></tr>
            <td colspan="2">石心之佑 Iron Heart Aura<br>当你处于任何铁心姿态时，你周围20尺内的盟友（不包括你自己）豁免检定获得+2士气加值。此外，你所有铁心武技的豁免DC+1。</td></tr>
            <td colspan="2">磐石之韧 Endurance of Stone<br>当你的石龙击技命中时，你恢复1d6点生命值。此外，你所有石龙武技的豁免DC+1。</td></tr>
-           <td colspan="2">猛虎之血 Tiger Blooded (Mythic)<br>当你使用虎爪击技时，你获得+3攻击加值。此外，你所有虎爪武技的豁免DC+1。</td></tr>
-           <td colspan="2">白鸦之御 Maneuver Focus<br>当你的白鸦击技命中时，移除30尺范围内盟友困惑、胁迫、情绪、恐惧、震慑和影响心智的状态。此外，你所有白鸦武技的豁免DC+1。</td></tr>
+           <td colspan="2">猛虎之血 Tiger Blooded<br>当你使用虎爪击技时，你获得+3攻击加值。此外，你所有虎爪武技的豁免DC+1。</td></tr>
+           <td colspan="2">白鸦之御 White Raven Defense<br>当你的白鸦击技命中时，移除30尺范围内盟友困惑、胁迫、情绪、恐惧、震慑和影响心智的状态。此外，你所有白鸦武技的豁免DC+1。</td></tr>
    <tr><td rowspan="2">职业<br></th></tr> 
            <td colspan="2">军道之剑 Warblade</td></tr> 
 <tr><th colspan="5">武术流派<br></th></tr> 
