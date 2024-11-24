@@ -27304,6 +27304,21 @@
       "ProcessTemplates": false,
       "zhCN": "爆射荨麻",
       "enGB": "Burst of Nettles"
+    },
+    {
+      "Key": "752761d3047a48de897de5ea976cb346",
+      "SimpleName": "WyrmSingerWyrmSagaAbility.Description",
+      "ProcessTemplates": true,
+      "IsUsed": false,
+      "enGB": "At 14th level, a wyrm singer embraces the essence of the draconic histories, allowing his allies to manifest aspects of a dragon in their physical forms. The wyrm singer selects a single ally within 50 feet to take on a draconic aspect (as per form of the dragon I) of a type of the wyrm singer’s choice. The ally cannot use the breath weapon attack provided by form of the dragon. The wyrm singer must expend 1 round of raging song each round to maintain wyrm saga, and can affect only a single ally at a time.",
+      "zhCN": "14 级时，龙战颂者会接受龙族历史的精髓，让他的盟友在他们的身体形态中表现出龙的一面。龙战颂者在 50 英尺内选择一名盟友，使其具有龙战颂者所选择类型的龙兽特征（与龙之形态 I 相同）。该盟友不能使用龙之形提供的吐息武器攻击。狼人歌手必须每回合消耗一轮狂暴之歌来维持狼人传奇，每次只能影响一名盟友。"
+    },
+    {
+      "Key": "390b53fc10d3410c8b73b00bd64ecb07",
+      "SimpleName": "WyrmSingerWyrmSagaFeature.Description",
+      "ProcessTemplates": true,
+      "enGB": "At 14th level, a wyrm singer embraces the essence of the draconic histories, allowing his allies to manifest aspects of a dragon in their physical forms. The wyrm singer selects a single ally within 50 feet to take on a draconic aspect (as per form of the dragon I) of a type of the wyrm singer’s choice. The ally cannot use the breath weapon attack provided by form of the dragon. The wyrm singer must expend 1 round of raging song each round to maintain wyrm saga, and can affect only a single ally at a time.",
+      "zhCN": "14 级时，龙战颂者会接受龙族历史的精髓，让他的盟友在他们的身体形态中表现出龙的一面。龙战颂者在 50 英尺内选择一名盟友，使其具有龙战颂者所选择类型的龙兽特征（与龙之形态 I 相同）。该盟友不能使用龙之形提供的吐息武器攻击。狼人歌手必须每回合消耗一轮狂暴之歌来维持狼人传奇，每次只能影响一名盟友。"
     }
   ]
 }
