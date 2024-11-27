@@ -3567,7 +3567,7 @@ C:\Users\你的用户名\AppData\LocalLow\Owlcat Games\Pathfinder Wrath Of The R
   </table>
   
   -------------------------------------------   
-### [WOTR_IsekaiMod](https://github.com/JohN100x1/WOTR_IsekaiMod)
+### [WOTR_IsekaiMod](https://github.com/bkeath/PathfinderWOTR-IsekaiMod/tree/V2)
 > *前置：* 无<br>
 > *中文：* **自带中文（机翻），提供[QL用修正](QuickLocalization用汉化文本/TTTLocalization/IsekaiMod)（By 无望的灰烬）**<br>
 > *安装方式：* **UMM**<br>
