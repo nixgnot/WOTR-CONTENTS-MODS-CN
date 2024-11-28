@@ -126,7 +126,7 @@
 | [MicroscopicContentExpansion](#MicroscopicContentExpansion)|MCE内容扩展| QL汉化 | :heavy_check_mark: | :+1::+1: | :file_folder::file_folder: |||
 | [SparsSorcerousSundries](#SparsSorcerousSundries) | 物品扩展 | QL汉化 | :heavy_check_mark: | :+1::+1: | :file_folder::file_folder: |||
 | [TomeOfTheFirebird](#TomeOfTheFirebird) | TOTF扩展 | QL汉化 | :heavy_check_mark: | :+1::+1::+1: | :file_folder::file_folder::file_folder: |||
-| [HomebrewArchetypes](#HomebrewArchetypes) | 房规变体 | 自带 | :x: | :+1::+1::+1: | :file_folder::file_folder::file_folder: |||
+| [HomebrewArchetypes](#HomebrewArchetypes) | 房规变体 | 自带 | :x: | :v::heart_eyes::v: | :file_folder::file_folder::file_folder: |||
 | [ExpandedContent2022](#ExpandedContent2022)  | 内容扩展2022 | 汉化 | :heavy_check_mark: | :+1::+1: | :file_folder::file_folder::file_folder: |||
 | [ToggleableThrowingWeapons](#ToggleableThrowingWeapons) | 切换投掷 | QL汉化 | :heavy_check_mark: | :+1::+1::+1: | :file_folder: |||
 | [MorvarchsPlaystyleExpansions](#MorvarchsPlaystyleExpansions)  | MPE扩展 | QL汉化 | :heavy_check_mark: | :+1::+1::+1: | :file_folder:|||
