@@ -214,22 +214,22 @@
       "Key": "6470aa6cd8aa4f0eaac35aa81c1dcd55",
       "SimpleName": "AntipaladinAuraofVengeanceAbility.Description",
       "ProcessTemplates": true,
-      "enGB": "At 11th level, an antipaladin can expend two uses of his smite good ability to grant the ability to smite good to all allies within 10 feet, using his bonuses. Allies must use this smite good ability by the start of the antipaladin’s next turn and the bonuses last for 1 minute. Using this ability is a free action. Good creatures gain no benefit from this ability.",
+      "enGB": "At 20th level, an antipaladin can expend two uses of his smite good ability to grant the ability to smite good to all allies within 10 feet, using his bonuses. Allies must use this smite good ability by the start of the antipaladin’s next turn and the bonuses last for 1 minute. Using this ability is a free action. Good creatures gain no benefit from this ability.",
       "ruRU": null,
       "deDE": null,
       "frFR": null,
-      "zhCN": "14级起，在克服怪物的伤害减免时，反圣武士的所持有的武器，以及任何在他身边10尺内对反圣武士的敌人做出的所有攻击，都被视为具有邪恶阵营。此能力在反圣武士神志清醒时发挥作用，当他失去知觉或者死亡时将失去作用。",
+      "zhCN": "20级起，在克服怪物的伤害减免时，反圣武士的所持有的武器，以及任何在他身边10尺内对反圣武士的敌人做出的所有攻击，都被视为具有邪恶阵营。此能力在反圣武士神志清醒时发挥作用，当他失去知觉或者死亡时将失去作用。",
       "esES": null
     },
     {
       "Key": "d05a24b3403b4d5e8fdeb0d9cc220675",
       "SimpleName": "AntipaladinAuraofVengeanceBuff.Description",
       "ProcessTemplates": true,
-      "enGB": "At 11th level, an antipaladin can expend two uses of his smite good ability to grant the ability to smite good to all allies within 10 feet, using his bonuses. Allies must use this smite good ability by the start of the antipaladin’s next turn and the bonuses last for 1 minute. Using this ability is a free action. Good creatures gain no benefit from this ability.",
+      "enGB": "At 20th level, an antipaladin can expend two uses of his smite good ability to grant the ability to smite good to all allies within 10 feet, using his bonuses. Allies must use this smite good ability by the start of the antipaladin’s next turn and the bonuses last for 1 minute. Using this ability is a free action. Good creatures gain no benefit from this ability.",
       "ruRU": null,
       "deDE": null,
       "frFR": null,
-      "zhCN": "11级起，反圣武士可以花费2次辟善斩的使用次数，给予10尺以内的所有盟友1次辟善斩的能力，但使用他自身的魅力和职业等级决定奖励加值。盟友必须在下回合行动开始前使用此能力，效果持续1分钟。使用此能力是一个自由动作。善良盟友并不会受到此能力的好处。",
+      "zhCN": "20级起，反圣武士可以花费2次辟善斩的使用次数，给予10尺以内的所有盟友1次辟善斩的能力，但使用他自身的魅力和职业等级决定奖励加值。盟友必须在下回合行动开始前使用此能力，效果持续1分钟。使用此能力是一个自由动作。善良盟友并不会受到此能力的好处。",
       "esES": null
     },
     {
@@ -2480,11 +2480,11 @@
       "Key": "8647ab1bf6fe4caf97a7a7630c2875d2",
       "SimpleName": "FlyingKickActivatableAbility.Description",
       "ProcessTemplates": true,
-      "enGB": "The monk leaps through the air to strike a foe with a kick. Before the attack, the monk can move a distance equal to his fast movement bonus. This movement is made as part of the monk’s flurry of blows attack. This movement provokes an attack of opportunity as normal. Monk has to be unarmed to perform this style strike.\r\n\r\nActivate this style strike to receive flying kick ability.",
+      "enGB": "By activating this strike style monk is able to perform flying kick.",
       "ruRU": null,
       "deDE": null,
       "frFR": null,
-      "zhCN": "武僧腾空而起，飞踢目标。攻击前，武僧可移动等于他快速移动速度加值的距离。该次移动作为疾风连击的一部分且不花费动作。该移动结束后，武僧必须对邻接一个敌人发动一次攻击。该次移动可在疾风连击中两次攻击之间。该次移动正常引发借机攻击。武僧必须保持徒手来发动这一真劲击。\r\n\r\n激活该真劲击获取飞踢能力。",
+      "zhCN": "激活该真劲击获取飞踢能力。",
       "esES": null
     },
     {
@@ -2492,6 +2492,28 @@
       "SimpleName": "FlyingKickActivatableAbility.Name",
       "ProcessTemplates": false,
       "enGB": "Flying Kick - Activate Style Strike",
+      "ruRU": null,
+      "deDE": null,
+      "frFR": null,
+      "zhCN": "无影脚（激活）",
+      "esES": null
+    },
+    {
+      "Key": "0a92993e25b14bbf9489a78ade8c9d8e",
+      "SimpleName": "FlyingKickStyleStrikeBuff.Description",
+      "ProcessTemplates": true,
+      "enGB": "Monk is able to perform flying kick style strike.",
+      "ruRU": null,
+      "deDE": null,
+      "frFR": null,
+      "zhCN": "武僧能够发动无影脚",
+      "esES": null
+    },
+    {
+      "Key": "ed92acb223144e10b14abff451f3d970",
+      "SimpleName": "FlyingKickStyleStrikeBuff.Name",
+      "ProcessTemplates": false,
+      "enGB": "Activated Flying Kick Style",
       "ruRU": null,
       "deDE": null,
       "frFR": null,
@@ -3761,6 +3783,17 @@
       "deDE": null,
       "frFR": null,
       "zhCN": "你将你的精神开放为接受状态，这样当你确认对一个活着的敌人的暴击或将一个活着敌人的生命值降低到0或更少时，你就可以窃取该生物的一些真气。只要你的气海中至少有1点真气，这将补充1点真气。这不允许您超过气海的最大值。这种能力与类似的能力（不可叠加。如果你没有气海，这个法术就没有效果。",
+      "esES": null
+    },
+    {
+      "Key": "a142ad62088d426789d426a578c03c3b",
+      "SimpleName": "ShifterDragonFormRavener.Name",
+      "ProcessTemplates": false,
+      "enGB": "Dragon Shape (Ravener)",
+      "ruRU": null,
+      "deDE": null,
+      "frFR": null,
+      "zhCN": "龙形（掠击）",
       "esES": null
     },
     {
