@@ -1017,6 +1017,112 @@
     "zhCN": "流派：钢魂\n武技类别:击技\n需求武术家等级：军道之剑 17\n需求武技：四种钢魂流武技\n此武技使你连续发动两次整轮攻击。",
     "enGB": "Discipline: Diamond Mind\nManeuver Type: Strike\nRequired Initiater Level: Warblade 17\nRequired Maneuvers: 4 Diamond Mind\nYou make two Full Attacks in a row."
   },
+  {
+    "Key": "WallOfBlades.Name",
+    "ProcessTemplates": false,
+    "zhCN": "三尺剑围",
+    "enGB": "Wall of Blades"
+  },
+  {
+    "Key": "WallOfBlades.Desc",
+    "zhCN": "流派：钢魂\n武技类别:应对技\n需求武术家等级：军道之剑 3\n当此应对技激活时，你可以尝试格挡来袭的攻击。当你在一轮内受到第一次攻击时，消耗两个武技点格挡攻击。",
+    "enGB": "Discipline: Iron Heart\nManeuver Type: Counter\nRequired Initiater Level: Warblade 3\nWhile this counter is active you attempt to parry incoming attacks. Uses two maneuver points when you are being attacked for the first time in a round."
+  },
+  {
+    "Key": "WallOfBladesBuff.Desc",
+    "zhCN": "三尺剑围已激活",
+    "enGB": "Wall of Blades active"
+  },
+  {
+    "Key": "WallOfBlades.LogMsg",
+    "zhCN": "三尺剑围消耗了两个武技点",
+    "enGB": "Spent 2 maneuver points on Wall of Blades"
+  },
+  {
+    "Key": "LightningRecovery.Name",
+    "ProcessTemplates": false,
+    "zhCN": "迅雷回火",
+    "enGB": "Lightning Recovery"
+  },
+  {
+    "Key": "LightningRecovery.Desc",
+    "zhCN": "流派：铁心\n武技类别:应对技\n需求武术家等级：军道之剑 7\n如果你的近战攻击检定失败，你可以激活此武技以重掷攻击检定并额外获得+2加值。每次近战攻击检定失败都会消耗一个武技点来重掷检定。",
+    "enGB": "Discipline: Iron Heart\nManeuver Type: Counter\nRequired Initiater Level: Warblade 7\nRequired Maneuvers: 2 Iron Heart\nIf one of your melee attacks misses, you can initiate this maneuver to reroll that attack roll with a +2 bonus. Uses a maneuver point whenever you miss an attack."
+  },
+  {
+    "Key": "LightningRecovery.LogMsg",
+    "zhCN": "迅雷回火消耗了一个武技点",
+    "enGB": "Spent 1 maneuver point on Lightning Recovery"
+  },
+  {
+    "Key": "IronHeartFocus.Name",
+    "ProcessTemplates": false,
+    "zhCN": "心如铁石已激活",
+    "enGB": "Iron Heart Focus"
+  },
+  {
+    "Key": "IronHeartFocus.Desc",
+    "zhCN": "流派：铁心\n武技类别:应对技\n需求武术家等级：军道之剑 9\n需求武技：两种铁心流武技\n当此应对技激活时，你可以重掷任何失败的豁免检定。当你在一轮内第一次豁免检定失败时，消耗两个武技点重掷检定。",
+    "enGB": "Discipline: Iron Heart\nManeuver Type: Counter\nRequired Initiater Level: Warblade 9\nRequired Maneuvers: 2 Iron Heart\nWhile this counter is active you can retry any saving throw once. Uses two maneuver points when you fail a saving throw for the first time in a round."
+  },
+  {
+    "Key": "IronHeartFocusBuff.Desc",
+    "zhCN": "心如铁石已激活",
+    "enGB": "Iron Heart Focus active"
+  },
+  {
+    "Key": "IronHeartFocus.LogMsg",
+    "zhCN": "心如铁石消耗了两个武技点",
+    "enGB": "Spent 2 maneuver points on Iron Heart Focus"
+  },
+  {
+    "Key": "RapidCounter.Name",
+    "ProcessTemplates": false,
+    "zhCN": "心潮澎湃",
+    "enGB": "Rapid Counter"
+  },
+  {
+    "Key": "RapidCounter.Desc",
+    "zhCN": "流派：钢魂\n武技类别:应对技\n需求武术家等级：军道之剑 9 贤者之剑 9\n当此应对技激活时，你在一轮内可以进行无限次借机攻击次数。当你在一轮内第一次消耗光借机攻击次数时时，消耗一个武技点激活此效果。",
+    "enGB": "Discipline: Diamond Mind\nManeuver Type: Counter\nRequired Initiater Level: Warblade 9, Swordsage 9\nWhile this counter is active you can make an unlimited amount of attacks of opportunity in a round. Uses a maneuver point when you would run out of attacks of opportunity for the first time in a round."
+  },
+  {
+    "Key": "RapidCounterBuff.Desc",
+    "zhCN": "心潮澎湃已激活",
+    "enGB": "Rapid Counter active"
+  },
+  {
+    "Key": "RapidCounter.LogMsg",
+    "zhCN": "心潮澎湃消耗了一个武技点",
+    "enGB": "Spent 1 maneuver points on Rapid Counter"
+  },
+  {
+    "Key": "ManticoreParry.Name",
+    "ProcessTemplates": false,
+    "zhCN": "撩蜂剔蝎",
+    "enGB": "Manticore Parry"
+  },
+  {
+    "Key": "ManticoreParry.Desc",
+    "zhCN": "流派：铁心\n武技类别:应对技\n需求武术家等级：军道之剑 11\n需求武技：两种铁心流武技\n当此应对技激活时，你可以尝试格挡来袭的攻击，如果格挡成功则将此攻击改为击中相邻的敌人。当你在一轮内受到第一次攻击时，消耗两个武技点格挡攻击。",
+    "enGB": "Discipline: Iron Heart\nManeuver Type: Counter\nRequired Initiater Level: Warblade 11\nRequired Maneuvers: 2 Iron Heart\nWhile this counter is active you attempt to parry incoming attacks with melee weapon attacks, if your parry succeeds the attacks hits an adjacent enemy instead. Uses two maneuver points when you are being attacked for the first time in a round."
+  },
+  {
+    "Key": "ManticoreParry.LogMsg",
+    "zhCN": "撩蜂剔蝎消耗了两个武技点",
+    "enGB": "Spent 2 maneuver points on Manticore Parry"
+  },
+  {
+    "Key": "DiamondDefense.Name",
+    "ProcessTemplates": false,
+    "zhCN": "锲而不舍",
+    "enGB": "Diamond Defense"
+  },
+  {
+    "Key": "DiamondDefense.Desc",
+    "zhCN": "流派：钢魂\n武技类别:应对技\n需求武术家等级：军道之剑 15 贤者之剑 15\n当此应对技激活时，你在所有豁免上获得+9加值。每轮消耗一个武技点维持此效果。",
+    "enGB": "Discipline: Diamond Mind\nManeuver Type: Special\nRequired Initiater Level: Warblade 15, Swordsage 15\nWhile this counter is active you gain +9 on all saves. Uses one maneuver point per round."
+  },
 
   {
     "Key": "nam.Name",
