@@ -2164,7 +2164,7 @@
    <tr><td rowspan="2">DreadKnight 恐惧骑士</td>
            <td>Conqueror 征服者</td></tr> 
            <tr><td>Claw of the False Wyrm 虚龙之爪</td></tr> 
-   <tr><td rowspan="27">变体</td>
+   <tr><td rowspan="28">变体</td>
        <td rowspan="3">审判官</td>
            <td>Living Scripture 活圣经</td></tr> 
 	   <tr><td>Ravener Hunter 狩魔猎手</td></tr> 
@@ -2208,6 +2208,8 @@
            <td>Drakerider 龙兽骑士</td></tr> 
        <tr><td rowspan="1">炼金术师</td>
            <td>Mindchemist 心智药师</td></tr> 
+       <tr><td rowspan="1">武僧</td>
+           <td>Water Dancer 水舞僧</td></tr> 
    <tr><td rowspan="7">职业特性</td>
        <td>先知秘示域</td>
        <td>Dragon 龙、Heavens 苍天、Succor 救助 Wood 林木 Winter 凛冬 Lunar 月亮 Shadow 阴影 Dark Tapestry 暗幕</td></tr>
@@ -2241,7 +2243,7 @@
        <td>Scalykind 鳞状<br>Plant 植物领域修改为桌面规则</td></tr>
    <tr><td>子领域</td>
        <td>Agathion 阿加西翁、 Archon 亚空, Blood 血液、Caves 洞穴、Curse 诅咒、 Demon, Dragon 龙、Ferocity 凶猛、Ice 冰、Lust 欲望、Psychopomp 招魂、Rage 狂暴、 Resolve 决心、Restoration 恢复、Revelation 启示、Revolution 革命、Rivers 河流、Stars 星空、Storm 风暴、Thievery 盗窃、Undead 不死、Whimsy 滑稽、Wind 风、Growth 生长、Fist 铁拳、Loyalty 忠诚 Fist 铁拳 Loyalty 忠诚 Lightning 闪电</td></tr>
-   <tr><td colspan="2" rowspan="42">法术<br><i>参阅PF文档</i></td>
+   <tr><td colspan="2" rowspan="43">法术<br><i>参阅PF文档</i></td>
        <td>Hydraulic push 水流冲击</td></tr>
    <tr><td>Slipstream 滑流</td></tr>
    <tr><td>Scourge of the Horsemen 天启诸骑的蹂躏</td></tr>
@@ -2284,6 +2286,7 @@
    <tr><td>Mydriatic Spontaneity 自发性散瞳</td></tr>
    <tr><td>Mass Mydriatic Spontaneity 群体自发性散瞳</td></tr>
    <tr><td>Burst of Nettles 爆射荨麻</td></tr>
+   <tr><td>Transmute Blood To Acid 转血为酸</td></tr>
  </table>   
 
 -------------------------------------------
@@ -4859,6 +4862,11 @@ C:\Users\你的用户名\AppData\LocalLow\Owlcat Games\Pathfinder Wrath Of The R
        <td colspan="2">千回百转 Lightning Throw 需求武术家等级：军道之剑 15 需求武技：两种铁心流武技<br>当你使用此武技时，你将进行一次近战攻击，此攻击将对30尺范围内的每个生物造成相当于你正常近战伤害的伤害，外带12D6点额外伤害，在攻击范围内的生物可以进行一次反射豁免检定，DC相当于你的攻击骰结果，通过此检定可以使伤害减半。</td></tr>
        <td colspan="2">疾风迅雷 Adamantine Hurricane 需求武术家等级：军道之剑 15 贤者之剑 15 需求武技：三种铁心流武技<br>当你使用此武技时，你将对每一个处于你威胁范围内的敌人进行两次次近战攻击，这些攻击使用你的最高基础攻击加值且获得+4加值。</td></tr>
        <td colspan="2">天外飞仙 Strike of Perfect Clarity 需求武术家等级：军道之剑 17 需求武技：四种铁心流武技<br>作为此武技的一部分，你进行一次近战攻击。如果你的攻击命中，则会造成额外100点伤害。</td></tr>
+  <tr><td rowspan="4">应对技 Counter</i></td>
+       <td colspan="2">三尺剑围 Wall of Blades 需求武术家等级：军道之剑 3<br>当此应对技激活时，你可以尝试格挡来袭的攻击。当你在一轮内受到第一次攻击时，消耗两个武技点格挡攻击。</td></tr>
+       <td colspan="2">迅雷回火 Lightning Recovery 需求武术家等级：军道之剑 7<br>如果你的近战攻击检定失败，你可以激活此武技以重掷攻击检定并额外获得+2加值。每次近战攻击检定失败都会消耗一个武技点来重掷检定。</td></tr>
+       <td colspan="2">心如铁石 Iron Heart Focus 需求武术家等级：军道之剑 9 需求武技：两种铁心流武技<br>当此应对技激活时，你可以重掷任何失败的豁免检定。当你在一轮内第一次豁免检定失败时，消耗两个武技点重掷检定。</td></tr>
+       <td colspan="2">撩蜂剔蝎 Manticore Parry 需求武术家等级：军道之剑 11 需求武技：两种铁心流武技<br>当此应对技激活时，你可以尝试格挡来袭的攻击，如果格挡成功则将此攻击改为击中相邻的敌人。当你在一轮内受到第一次攻击时，消耗两个武技点格挡攻击。</td></tr>
   <tr><td rowspan="4">战姿 Stance</i></td>
        <td colspan="2">战姿·侵掠如火 Punishing Stance 需求武术家等级：军道之剑 1<br>你所有的近战攻击都会额外造成1D6伤害。但在AC上承受-2减值。</td></tr>
        <td colspan="2">战姿·铁马金戈 Absolute Steel 需求武术家等级：军道之剑 5<br>当你处于此战姿中时，你在移动速度上获得10尺增强加值。如果在你的行动轮中你至少移动了10尺，你将在AC上获得+2闪避加值，这持续到你下一轮开始行动之前。</td></tr>
@@ -4877,6 +4885,9 @@ C:\Users\你的用户名\AppData\LocalLow\Owlcat Games\Pathfinder Wrath Of The R
        <td colspan="2">排山倒海 Avalanche of Blades 需求武术家等级：军道之剑 13 需求武技：三种钢魂流武技<br>作为此武技的一部分，你进行一次近战攻击。如果该攻击命中，你可以对敌人进行一次攻击，但攻击检定承受－4减值。如果这次攻击也命中，你可以对敌人再进行一次攻击，但攻击检定承受－8减值。以此类推，可以进行多次额外攻击，直到攻击未命中为止。</td></tr>
        <td colspan="2">梦魇剑·金刚 Diamond Nightmare Blade 需求武术家等级：军道之剑 15 贤者之剑 15 需求武技：三种钢魂流武技<br>作为此武技的一部分，你需要进行一次察觉检定。检定的DC等同目标生物的AC。然后对目标进行一次近战攻击，同样视为此武技的一部分。如果察觉检定成功，那么你将造成四倍伤害。如果察觉检定失败，那么此攻击命中检定将受到-2的惩罚并造成正常伤害。</td></tr>
        <td colspan="2">花开并蒂 Time Stands Still 需求武术家等级：军道之剑 17 需求武技：四种钢魂流武技<br>此武技使你连续发动两次整轮攻击。</td></tr>
+  <tr><td rowspan="2">应对技 Counter</i></td>
+       <td colspan="2">心潮澎湃 Rapid Counter 需求武术家等级：军道之剑 9 贤者之剑 9<br>当此应对技激活时，你在一轮内可以进行无限次借机攻击次数。当你在一轮内第一次消耗光借机攻击次数时时，消耗一个武技点激活此效果。</td></tr>
+       <td colspan="2">锲而不舍 Diamond Defense 需求武术家等级：军道之剑 15 贤者之剑 15<br>当此应对技激活时，你在所有豁免上获得+9加值。每轮消耗一个武技点维持此效果。</td></tr>
   <tr><td rowspan="1">战姿 Stance</i></td>
        <td colspan="2">战姿·耳听八方 Hearing the Air 需求武术家等级：军道之剑 9 贤者之剑 9 需求武技：两种钢魂流武技<br>当你处于此战姿中时，你获得30尺盲视，且在感知检定获得+5加值。</td></tr>
 <tr><th colspan="5">石龙 Stone Dragon<br></th></tr> 
