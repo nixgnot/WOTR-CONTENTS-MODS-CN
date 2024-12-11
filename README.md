@@ -4686,7 +4686,7 @@ C:\Users\你的用户名\AppData\LocalLow\Owlcat Games\Pathfinder Wrath Of The R
 
 ------------------------------------------- 
 ### [deceiverbuff](https://github.com/CasDragon/deceiverbuff)
-> *前置：* 无<br>
+> *前置：* ModMenu<br>
 > *中文：* **无**<br>
 > *安装方式：* **UMM**<br>
 > *新增内容：* 加强魔法诈欺师<br>
