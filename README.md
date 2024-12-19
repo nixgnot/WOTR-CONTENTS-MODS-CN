@@ -185,6 +185,7 @@
 | [HalflingPartisan](#HalflingPartisan) | 半身人游击者 | QL汉化 | :heavy_check_mark: || :file_folder: |||
 | [Commander](#Commander) | 神圣圣徒 | QL汉化 | :heavy_check_mark: || :file_folder: |||
 | [WOTRNineSwords](#WOTRNineSwords) | 九剑 | QL汉化 | :heavy_check_mark:  | :+1::+1::+1:| :file_folder:  :file_folder: |||
+| [EarlierMythicLevelUps](#EarlierMythicLevelUps) | 更早的神话等级 |  | :heavy_check_mark:  | :+1::+1::+1:| :file_folder: |🛠️||
 
 备注
 + UMM一栏为是否使用UMM安装
@@ -4944,6 +4945,20 @@ C:\Users\你的用户名\AppData\LocalLow\Owlcat Games\Pathfinder Wrath Of The R
 </table>   
 
 -------------------------------------------  
+### [EarlierMythicLevelUps](https://github.com/alterasc/EarlierMythicLevelUps)
+> *前置：* 无<br>
+> *中文：* **无文本**<br>
+> *安装方式：* **UMM**<br>
+> *新增内容：*
+> - 更快的获得神话等级
+> - 第四章末尾的巴弗灭战后不再获得神话等级，转而在第三章贤希尔·王战后获得神话等级
+> - 第五章阈城前不再获得神话等级，转而在击败德斯卡瑞后获得神话等级
+> - 一个小BUG:在完成第五章神话任务前拿到神话9会导致无法将肖像替换成神话道途的肖像，目前无法修复
+
+
+
+
+------------------------------------------- 
 
 ### 功能MOD索引
 + [ToyBox](https://github.com/xADDBx/ToyBox-Wrath) 应该不用介绍？
