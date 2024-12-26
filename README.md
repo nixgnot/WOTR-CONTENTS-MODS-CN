@@ -2228,12 +2228,13 @@
        <td>部分职业或变体可用</td></tr>
    <tr><td colspan="2">基础动作</td>
        <td>Aid Another 援助他人</td></tr>
-   <tr><td colspan="2" rowspan="5">专长</td>
+   <tr><td colspan="2" rowspan="6">专长</td>
        <td>Swift Aid 迅速援助</td></tr>
        <tr><td>Opening Volley 远近夹攻</td></tr>
        <tr><td>Demon Hunter 恶魔猎手</td></tr>
        <tr><td>Bullseye Shot 中的射击</td></tr>
        <tr><td>Pinpoint Targeting 精确瞄准</td></tr>
+       <tr><td>Noble Scion 贵族后裔</td></tr>
    <tr><td colspan="2" rowspan="2">神话能力</td>
        <td>Mythic Drake 神话龙兽</td>
    <tr><td>Impossible Subdomain 无限子域可能</td></tr>
