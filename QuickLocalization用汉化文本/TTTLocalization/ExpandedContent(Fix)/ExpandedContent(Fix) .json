@@ -27787,6 +27787,104 @@
       "ProcessTemplates": false,
       "enGB": "Wave Style - Rapid",
       "zhCN": "波涛势（激浪）"
+    },
+    {
+      "Key": "0b7c6859504d45d6a0ba99eade4f2c33",
+      "SimpleName": "NobleScionFeatureSelection.Description",
+      "ProcessTemplates": true,
+      "zhCN": "无论你和家族的关系是否良好，你都是值得自豪的贵族家族的一员。\n你的知识（世界）检定获得+2加值，并且该知识技能总是视为你的本职技能。\n当你选择该专长时，从后述列表中选择一种与你的贵族家庭风格相符的优势。",
+      "enGB": "You are a member of a proud noble family, whether or not you remain in good standing with your family. \nYou gain a +2 bonus on all Knowledge (World) checks, and this skill is always considered a class skill for you. \nWhen you select this feat, choose one of the benefits that matches the flavor of your noble family."
+    },
+    {
+      "Key": "e41a7e850b95438da4a92c145d82b478",
+      "SimpleName": "NobleScionFeatureSelection.Name",
+      "ProcessTemplates": false,
+      "zhCN": "贵族后裔",
+      "enGB": "Noble Scion"
+    },
+    {
+      "Key": "e1cfb5baa5f543f197626a8c8f1fe28f",
+      "SimpleName": "NobleScionOfLoreFeature.Description",
+      "ProcessTemplates": true,
+      "zhCN": "无论你和家族的关系是否良好，你都是值得自豪的贵族家族的一员。\n你的知识（世界）检定获得+2加值，并且该知识技能总是视为你的本职技能。\r\n你在所有知识和学识技能上获得+1加值。",
+      "enGB": "You are a member of a proud noble family, whether or not you remain in good standing with your family. \nYou gain a +2 bonus on all Knowledge (World) checks, and this skill is always considered a class skill for you. \r\nYou gain a +1 bonus on all Knowledge and Lore skills."
+    },
+    {
+      "Key": "3c1877e2cb4e44b6b7758489362d199f",
+      "SimpleName": "NobleScionOfLoreFeature.Name",
+      "ProcessTemplates": false,
+      "zhCN": "知识之子",
+      "enGB": "Noble Scion of Lore"
+    },
+    {
+      "Key": "e4f0812ef99f4ae4b7d171d86539ebdf",
+      "SimpleName": "NobleScionOfMagicFeature.Description",
+      "ProcessTemplates": true,
+      "zhCN": "无论你和家族的关系是否良好，你都是值得自豪的贵族家族的一员。\n你的知识（世界）检定获得+2加值，并且该知识技能总是视为你的本职技能。\r\n你在使用魔法装置检定上获得+2加值，并具有在休息制作卷轴的能力",
+      "enGB": "You are a member of a proud noble family, whether or not you remain in good standing with your family. \nYou gain a +2 bonus on all Knowledge (World) checks, and this skill is always considered a class skill for you. \r\nYou gain a +2 bonus on Use Magic Device checks, along with the ability to craft scrolls during rest."
+    },
+    {
+      "Key": "d2f7e79d52d44f359814b151f62acc7a",
+      "SimpleName": "NobleScionOfMagicFeature.Name",
+      "ProcessTemplates": false,
+      "zhCN": "魔法之子",
+      "enGB": "Noble Scion of Magic"
+    },
+    {
+      "Key": "5d76f5e746a741f290486a15bf6fec61",
+      "SimpleName": "NobleScionOfPrideFeature.Description",
+      "ProcessTemplates": true,
+      "zhCN": "无论你和家族的关系是否良好，你都是值得自豪的贵族家族的一员。\n你的知识（世界）检定获得+2加值，并且该知识技能总是视为你的本职技能。\r\n每日一次，当受到恐惧效果影响时，你会抑制影响你的任何恐惧效果，持续时间等于你角色等级的一半（最少 1），即使你由于恐惧而无法正常采取行动。",
+      "enGB": "You are a member of a proud noble family, whether or not you remain in good standing with your family. \nYou gain a +2 bonus on all Knowledge (World) checks, and this skill is always considered a class skill for you. \r\nOnce per day when affected by a fear effect, you suppress any fear effects affecting you for a number of rounds equal to half your character level (minimum 1) even if you could not normally take actions due to your fear."
+    },
+    {
+      "Key": "61fec0fbd7674f7394bd03c245f7ecaa",
+      "SimpleName": "NobleScionOfPrideFeature.Name",
+      "ProcessTemplates": false,
+      "zhCN": "骄傲之子",
+      "enGB": "Noble Scion of Pride"
+    },
+    {
+      "Key": "fa17a58d856b4d649f3651998ee432a2",
+      "SimpleName": "NobleScionOfPrideSuppresion.Description",
+      "ProcessTemplates": true,
+      "zhCN": "每日一次，当受到恐惧效果影响时，你会抑制影响你的任何恐惧效果，持续时间等于你角色等级的一半（最少 1），即使你由于恐惧而无法正常采取行动。",
+      "enGB": "Once per day when affected by a fear effect, you suppress any fear effects affecting you for a number of rounds equal to half your character level (minimum 1) even if you could not normally take actions due to your fear."
+    },
+    {
+      "Key": "7374d8f65cc34f039047f80b8bcd3402",
+      "SimpleName": "NobleScionOfPrideSuppresion.Name",
+      "ProcessTemplates": false,
+      "zhCN": "骄傲之子",
+      "enGB": "Noble Scion of Pride Rest Buff"
+    },
+    {
+      "Key": "624c641eab5549e6bab0139fdf75a7c1",
+      "SimpleName": "NobleScionOfTheArtsFeature.Description",
+      "ProcessTemplates": true,
+      "zhCN": "无论你和家族的关系是否良好，你都是值得自豪的贵族家族的一员。\n你的知识（世界）检定获得+2加值，并且该知识技能总是视为你的本职技能。\r\n如果你拥有吟游演艺能力，那么你每日能够额外使用该能力3轮。",
+      "enGB": "You are a member of a proud noble family, whether or not you remain in good standing with your family. \nYou gain a +2 bonus on all Knowledge (World) checks, and this skill is always considered a class skill for you. \r\nIf you have the bardic performance ability, you can use that ability for an additional 3 rounds per day."
+    },
+    {
+      "Key": "8f79fe982e544a2dbd418a5dcef5279c",
+      "SimpleName": "NobleScionOfTheArtsFeature.Name",
+      "ProcessTemplates": false,
+      "zhCN": "艺术之子",
+      "enGB": "Noble Scion of the Arts"
+    },
+    {
+      "Key": "8deb447e139444d085678c082210c9d5",
+      "SimpleName": "NobleScionOfWarFeature.Description",
+      "ProcessTemplates": true,
+      "zhCN": "无论你和家族的关系是否良好，你都是值得自豪的贵族家族的一员。\n你的知识（世界）检定获得+2加值，并且该知识技能总是视为你的本职技能。\r\n你使用你的魅力调整值来决定先攻检定，而非使用你的敏捷调整值。",
+      "enGB": "You are a member of a proud noble family, whether or not you remain in good standing with your family. \nYou gain a +2 bonus on all Knowledge (World) checks, and this skill is always considered a class skill for you. \r\nYou use your Charisma modifier to adjust Initiative checks instead of your Dexterity modifier."
+    },
+    {
+      "Key": "8824e58190924722b316b60cd9bb1052",
+      "SimpleName": "NobleScionOfWarFeature.Name",
+      "ProcessTemplates": false,
+      "zhCN": "战争之子",
+      "enGB": "Noble Scion of War"
     }
   ]
 }
