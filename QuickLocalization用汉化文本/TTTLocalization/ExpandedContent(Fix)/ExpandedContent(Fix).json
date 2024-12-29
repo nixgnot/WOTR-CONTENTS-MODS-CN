@@ -27353,6 +27353,538 @@
       "ProcessTemplates": false,
       "zhCN": "脓疱之疹",
       "enGB": "Eruptive Pustules"
+    },
+    {
+      "Key": "2583e45fc691437192ff06e37af329be",
+      "SimpleName": "WaterDancerArchetype.Description",
+      "ProcessTemplates": false,
+      "enGB": "Water dancers derive their martial training from ancient nereid traditions jealously guarded by these enigmatic fey.",
+      "zhCN": "水舞僧从严守传统的神秘的精类生物“海妖精”处习得武艺。"
+    },
+    {
+      "Key": "030c33d64cbb4f18977dac852872fdc6",
+      "SimpleName": "WaterDancerArchetype.Name",
+      "ProcessTemplates": false,
+      "enGB": "Water Dancer",
+      "zhCN": "水舞僧"
+    },
+    {
+      "Key": "9a776da4cf9a4edcb5b01906c32d2ec6",
+      "SimpleName": "WaterDancerBurnFeature.Description",
+      "ProcessTemplates": true,
+      "enGB": "At 1st level, a water dancer can overexert themselves to channel more power than normal, pushing past the limit of what is safe for their body by accepting burn. For each point of burn they accept, a water dancer takes (1 per character level) points of nonlethal damage. This damage can't be healed by any means other than getting a full night's rest, which removes all burn, or by using the ki cooling ability. \nA water dancer can accept only 1 point of burn per round. This limit rises to 2 points of burn at 6th level, and rises by 1 additional point every 3 levels thereafter. A water dancer can't choose to accept burn if it would put their total number of points of burn higher than (3 + their Constitution modifier), though they can be forced to accept more burn from a source outside their control.",
+      "zhCN": "1级起，水舞僧可以突破自身极限，以冒险损害身体为代价承受超载，从而引导比平时更加猛烈的力量。水舞僧承受的每点超载值，都会使他受到每{g|Encyclopedia:Character_Level}角色等级{/g}1点非致命{g|Encyclopedia:Damage}伤害{/g}。除了{g|Encyclopedia:Rest}休息{/g}整夜之外，这部分伤害无法通过任何方法{g|Encyclopedia:Healing}治疗{/g}，除非通过完整休息移除所有超载，或者使用平心静气能力。\n水舞僧每{g|Encyclopedia:Combat_Round}轮{/g}只能承受1点超载。这个限制会从6级起提高到2点，且之后每升3级还会再提高1点。如果承受超载后，水舞僧的总超载值将超过3+其{g|Encyclopedia:Constitution}体质{/g}调整值，他就不能再主动选择承受超载（不过他有可能因为不受他控制的其他来源，被迫再承受超载）。"
+    },
+    {
+      "Key": "23b841ddfcd446bd91c9a7164d808fa6",
+      "SimpleName": "WaterDancerBurnFeature.Name",
+      "ProcessTemplates": false,
+      "enGB": "Burn",
+      "zhCN": "超载"
+    },
+    {
+      "Key": "811b855d166b4d36b9644c16149a90f9",
+      "SimpleName": "WaterDancerElementalFocusFeatureSelection.Description",
+      "ProcessTemplates": true,
+      "enGB": "A water dancer gains the elemental focus ability of the kineticist class, but must choose water as his element. He gains the basic hydrokinesis wild talent as normal, and gains the kinetic blast feature of the kineticist class for the water element, using his monk level as his effective kineticist level. He can’t use his kinetic blast when armored or encumbered.",
+      "zhCN": "水舞僧获得操念使的元素专攻能力，但是必须选择水元素。他如常获得基础水念原力，并且获取水元素操念使的念袭特性，使用其武僧等级作为有效操念使等级。他无法在着甲或者承受超载时使用念袭。"
+    },
+    {
+      "Key": "96e69e620cdd4e73b66c7b7f91688475",
+      "SimpleName": "WaterDancerElementalFocusFeatureSelection.Name",
+      "ProcessTemplates": false,
+      "enGB": "Elemental Focus",
+      "zhCN": "元素专攻"
+    },
+    {
+      "Key": "2cdbd2c81e5e4f7f9d4312ce0e47d464",
+      "SimpleName": "WaterDancerKiCoolingAbility.Description",
+      "ProcessTemplates": true,
+      "enGB": "Spend 2 points from your ki pool to lower your kinetic burn by 1.",
+      "zhCN": "从气海中消耗2点真气降低你的超载1点。"
+    },
+    {
+      "Key": "e17e69cf436746ccbdd2c5f369db5a0a",
+      "SimpleName": "WaterDancerKiCoolingAbility.Name",
+      "ProcessTemplates": false,
+      "enGB": "Ki Cooling",
+      "zhCN": "平心静气"
+    },
+    {
+      "Key": "47bfee97d9024ccbbca7dfac8a207c30",
+      "SimpleName": "WaterDancerKiCoolingFeature.Description",
+      "ProcessTemplates": true,
+      "enGB": "At 4th level, a water dancer can spend 2 points from their ki pool to lower their burn by 1.",
+      "zhCN": "4级起，水舞僧可以从气海中消耗2点真气降低超载1点。"
+    },
+    {
+      "Key": "d0606b15e1b346668aa204c5ea04148f",
+      "SimpleName": "WaterDancerKiPowerFeature.Description",
+      "ProcessTemplates": true,
+      "enGB": "At 3rd level, a monk gains a pool of ki points, supernatural energy he can use to accomplish amazing feats. The number of points in a monk's ki pool is equal to 1/2 his monk level + his Charisma modifier. As long as he has at least 1 point in his ki pool, he can make a ki strike.\r\nAt 3rd level, ki strike allows his unarmed attacks to be treated as magic weapons for the purpose of overcoming damage reduction.\r\nAt 7th level, his unarmed attacks are also treated as cold iron and silver for the purpose of overcoming damage reduction.\r\nAt 10th level, his unarmed attacks are also treated as lawful weapons for the purpose of overcoming damage reduction.\r\nAt 16th level, his unarmed attacks are treated as adamantine weapons for the purpose of overcoming damage reduction and bypassing hardness.\r\nBy spending 1 point from his ki pool as a swift action, a monk can make one additional unarmed strike at his highest attack bonus when making a flurry of blows attack. This bonus attack stacks with all bonus attacks gained from flurry of blows, as well as those from haste and similar effects. A monk gains additional powers that consume points from his ki pool as he gains levels.\r\nThe ki pool is replenished each morning after 8 hours of rest or meditation; these hours do not need to be consecutive.",
+      "zhCN": "达到3级时，武僧可获得容有真气的气海，一种能够借以使出惊人专长的超自然能量。气海中的真气点数等于1/2武僧等级+{g|Encyclopedia:Wisdom}感知{/g}调整值。只要气海中仍旧存在真气，即可施展贯虹。\n达到3级后，贯虹使得武僧的{g|Encyclopedia:UnarmedAttack}徒手击打{/g}在穿透{g|Encyclopedia:Damage_Reduction}伤害减免{/g}时可视为魔法武器。\n达到7级后，武僧的徒手击打在穿透伤害减免时也可视为寒铁和银武器。\n达到10级后，武僧的徒手击打在穿透伤害减免时也可视为{g|Encyclopedia:Alignment}守序{/g}武器。\n达到16级后，武僧的徒手击打在穿透伤害减免和硬度时也可视为精金武器。\n武僧可花费{g|Encyclopedia:Swift_Action}迅捷动作{/g}消耗气海中的1点真气，在施展两仪回风{g|Encyclopedia:Attack}攻击{/g}时，以最高{g|Encyclopedia:BAB}攻击加值{/g}进行一次额外的徒手击打。该额外攻击可与两仪回风、{g|SpellsHaste}加速术{/g}及其类似效果提供的额外攻击次数叠加。武僧在升级时可以获得更多通过消耗真气施展的气力。\n气海在经过8小时{g|Encyclopedia:Rest}休息{/g}或冥想后，于每天清晨重新充满，这段时间不必连续。"
+    },
+    {
+      "Key": "096676c5ee284b3b8d7b04e365f8577b",
+      "SimpleName": "WaterDancerKiPowerFeature.Name",
+      "ProcessTemplates": false,
+      "enGB": "Ki Pool",
+      "zhCN": "气海"
+    },
+    {
+      "Key": "bf48da9366334f0380d5fdadb6ce683b",
+      "SimpleName": "WaterDancerProficiency.Description",
+      "ProcessTemplates": true,
+      "enGB": "Water dancers are proficient with kinetic blasts and unarmed strikes. Water dancers are not proficient with any armor or shields. When wearing armor, using a shield, or carrying a medium or heavy load, a water dancer loses their AC bonus, as well as his fast movement ability.",
+      "zhCN": "水舞僧擅长念袭和徒手击打。水舞僧不擅长使用盔甲或盾牌。在穿戴盔甲、使用盾牌、或者负重达到中或重载时，水武僧会失去{g|Encyclopedia:Armor_Class}防御等级{/g}{g|Encyclopedia:Bonus}加值{/g}和健步如飞能力。"
+    },
+    {
+      "Key": "0dbd6afad0904eecb9e61da22f97a537",
+      "SimpleName": "WaterDancerProficiency.Name",
+      "ProcessTemplates": false,
+      "enGB": "Water Dancer Proficiencies",
+      "zhCN": "水舞僧擅长"
+    },
+    {
+      "Key": "b2b2e084bdf240a2b7b5b79c2b55f899",
+      "SimpleName": "WaterDancerUnarmedStrike.Description",
+      "ProcessTemplates": true,
+      "enGB": "A water dancer gains the unarmed strike monk class feature but treats his unarmed strike damage as that of a monk 4 levels lower (minimum 1st level).\r\nAt 1st level, a monk gains Improved Unarmed Strike as a bonus feat. The damage dealt by a Medium monk's unarmed strike increases with level: 1d6 at levels 1–3, 1d8 at levels 4–7, 1d10 at levels 8–11, 2d6 at levels 12–15, 2d8 at levels 16–19, and 2d10 at level 20.\nIf the monk is Small, his unarmed strike damage increases as follows: 1d4 at levels 1–3, 1d6 at levels 4–7, 1d8 at levels 8–11, 1d10 at levels 12–15, 2d6 at levels 16–19, and 2d8 at level 20.\nIf the monk is Large, his unarmed strike damage increases as follows: 1d8 at levels 1–3, 2d6 at levels 4–7, 2d8 at levels 8–11, 3d6 at levels 12–15, 3d8 at levels 16–19, and 4d8 at level 20.",
+      "zhCN": "水舞僧获得武僧的徒手击打职业特性，但是将徒手击打伤害视为比其低4级的武僧（最小为1级）计算。\r\n达到1级时，武僧获得精通{g|Encyclopedia:UnarmedAttack}徒手击打{/g}作为额外{g|Encyclopedia:Feat}专长{/g}。中型武僧使用徒手击打造成的{g|Encyclopedia:Damage}伤害{/g}随等级提升：1-3级为{g|Encyclopedia:Dice}1d6{/g}点、4-7级为1d8点、8-11级为1d10点、12-15级为2d6点、16-19级为2d8点，20级为2d10点。\n若武僧为小型，徒手击打伤害提升如下：1-3级为1d4点、4-7级为1d6点、8-11级为1d8点、12-15级为1d10点、16-19级为2d6点，20级为2d8点。\n若武僧为大型，徒手击打伤害提升如下：1-3级为1d8点、4-7级为2d6点、8-11级为2d8点、12-15级为3d6点、16-19级为3d8点，20级为4d8点。"
+    },
+    {
+      "Key": "3fccfc615c9f423698fa96085d38f72d",
+      "SimpleName": "WaterDancerUnarmedStrike.Name",
+      "ProcessTemplates": false,
+      "enGB": "Unarmed Strike",
+      "zhCN": "徒手击打"
+    },
+    {
+      "Key": "9405df2e417b49d1b904f5fd27862255",
+      "SimpleName": "WaterDancerWildTalentSelection.Description",
+      "ProcessTemplates": true,
+      "enGB": "At 2nd level and every 4 levels thereafter, a water dancer selects a new utility wild talent from the list of options available to the kineticist class, treating his monk level – 2 (minimum 1) as his kineticist level for the purpose of fulfilling prerequisites. He can select only universal wild talents or those that match his element. ",
+      "zhCN": "在2级和之后每4级，水舞僧从操念使的可选列表中选取一个新的辅助原力，将其武僧等级-2（最小为1级）视为操念使等级来满足前置条件。操念使只能选取共通原力或与他的元素相符的原力。"
+    },
+    {
+      "Key": "0a9db22ea5114c4485883ebd1676ea75",
+      "SimpleName": "WaterDancerWildTalentSelection.Name",
+      "ProcessTemplates": false,
+      "enGB": "Wild Talents",
+      "zhCN": "原力"
+    },
+    {
+      "Key": "cf160339bdca4a84b471c16667c860f5",
+      "SimpleName": "WaterStyleGeyserBaseAbility.Description",
+      "ProcessTemplates": true,
+      "enGB": "Calm: Spend 1 point from your ki pool as a swift action, your first unarmed strike each round ignores damage reduction for one minute.\nRapid: Accept 1 point of burn as a swift action, the next unarmed strike that hits deals extra damage equal to your blast damage, unarmed strikes this round ignore damage reduction.",
+      "zhCN": "止水：用迅捷动作花费1点真气，在1分钟内，每轮的第一次徒手击打无视伤害减免。\n激浪：用迅捷动作承受1点超载，下次徒手击打造成等于你念袭伤害的额外伤害，且本轮内的徒手击打无视伤害减免。"
+    },
+    {
+      "Key": "fede411c15d74f74b778dc82c7bda9d6",
+      "SimpleName": "WaterStyleGeyserBaseAbility.Name",
+      "ProcessTemplates": false,
+      "enGB": "Geyser Style",
+      "zhCN": "涌泉势"
+    },
+    {
+      "Key": "55794d1dc8f0479ab53e1d52efa5b992",
+      "SimpleName": "WaterStyleGeyserCalmAbility.Description",
+      "ProcessTemplates": true,
+      "enGB": "Spend 1 point from your ki pool as a swift action, your first unarmed strike each round ignores damage reduction for one minute.",
+      "zhCN": "用迅捷动作花费1点真气，在1分钟内，每轮的第一次徒手击打无视伤害减免。"
+    },
+    {
+      "Key": "8d445f8d7aa444979a69138c1f626c07",
+      "SimpleName": "WaterStyleGeyserCalmBuff.Description",
+      "ProcessTemplates": true,
+      "enGB": "Spend 1 point from your ki pool as a swift action, your first unarmed strike each round ignores damage reduction for one minute.",
+      "zhCN": "用迅捷动作花费1点真气，在1分钟内，每轮的第一次徒手击打无视伤害减免。"
+    },
+    {
+      "Key": "68429303f67643d189a1577bb1bb21a5",
+      "SimpleName": "WaterStyleGeyserCalmBuff.Name",
+      "ProcessTemplates": false,
+      "enGB": "Geyser Style - Calm",
+      "zhCN": "涌泉势（止水）"
+    },
+    {
+      "Key": "0b43811c3ede463f90a711cbf00ad6d0",
+      "SimpleName": "WaterStyleGeyserFeature.Description",
+      "ProcessTemplates": true,
+      "enGB": "Calm: Spend 1 point from your ki pool as a swift action, your first unarmed strike each round ignores damage reduction for one minute.\nRapid: Accept 1 point of burn as a swift action, the next unarmed strike that hits deals extra damage equal to your blast damage, unarmed strikes this round ignore damage reduction.",
+      "zhCN": "止水：用迅捷动作花费1点真气，在1分钟内，每轮的第一次徒手击打无视伤害减免。\n激浪：用迅捷动作承受1点超载，下次徒手击打造成等于你念袭伤害的额外伤害，且本轮内的徒手击打无视伤害减免。"
+    },
+    {
+      "Key": "498543f694ca47f79d9c34cb8a283d60",
+      "SimpleName": "WaterStyleGeyserRapidAbility.Description",
+      "ProcessTemplates": true,
+      "enGB": "Accept 1 point of burn as a swift action, the next unarmed strike that hits deals extra damage equal to your blast damage, unarmed strikes this round ignore damage reduction.",
+      "zhCN": "用迅捷动作承受1点超载，下次徒手击打造成等于你念袭伤害的额外伤害，且本轮内的徒手击打无视伤害减免。"
+    },
+    {
+      "Key": "ce24a6ff53514ef6b9cad81376203f6d",
+      "SimpleName": "WaterStyleGeyserRapidBuff.Description",
+      "ProcessTemplates": true,
+      "enGB": "Accept 1 point of burn as a swift action, the next unarmed strike that hits deals extra damage equal to your blast damage, unarmed strikes this round ignore damage reduction.",
+      "zhCN": "用迅捷动作承受1点超载，下次徒手击打造成等于你念袭伤害的额外伤害，且本轮内的徒手击打无视伤害减免。"
+    },
+    {
+      "Key": "89be9342dfe645bcb6b02e0987a4bf70",
+      "SimpleName": "WaterStyleGeyserRapidBuff.Name",
+      "ProcessTemplates": false,
+      "enGB": "Geyser Style - Rapid",
+      "zhCN": "涌泉势（激浪）"
+    },
+    {
+      "Key": "9e10fafe02b442508bf343c29f176c2b",
+      "SimpleName": "WaterStyleRainBaseAbility.Description",
+      "ProcessTemplates": true,
+      "enGB": "Calm: Leap to an ally as per dimension door as a move action by expending 1 point from your ki pool.\nRapid: Accept 1 point of burn, leap to an enemy as per dimension door as a move action, then make a single unarmed attack against that enemy. Unlike other rapid styles, this does not suppress calm water styles.",
+      "zhCN": "止水：花费1点真气，用一个移动动作如同次元门一般跃向友军。\n激浪：承受1点超载，用一个移动动作如同次元门一般跃向一个敌人，随后对其造成单次徒手击打。与其他激浪架势不同，该能力不会抑制止水形架势。"
+    },
+    {
+      "Key": "f07a074c4b19426e821dfba73b0d6a1a",
+      "SimpleName": "WaterStyleRainBaseAbility.Name",
+      "ProcessTemplates": false,
+      "enGB": "Rain Style",
+      "zhCN": "豪雨势"
+    },
+    {
+      "Key": "512b5aa2d1f74c65bd1f5edbb7bde41a",
+      "SimpleName": "WaterStyleRainCalmAbility.Description",
+      "ProcessTemplates": true,
+      "enGB": "Leap to an ally as per dimension door as a move action by expending 1 point from your ki pool. \nThis style does not remove or suppress other water styles.",
+      "zhCN": "花费1点真气，用一个移动动作如同次元门一般跃向友军。\n这个架势不会移除或者压制其他水之架势。"
+    },
+    {
+      "Key": "f82e7f68b1fd40f0acbebcf830fbd7f4",
+      "SimpleName": "WaterStyleRainCalmAbility.Name",
+      "ProcessTemplates": false,
+      "enGB": "Rain Style - Calm",
+      "zhCN": "豪雨势（止水）"
+    },
+    {
+      "Key": "cca34e3686f449aebfb1c2088831e278",
+      "SimpleName": "WaterStyleRainFeature.Description",
+      "ProcessTemplates": true,
+      "enGB": "Calm: Leap to an ally as per dimension door as a move action by expending 1 point from your ki pool.\nRapid: Accept 1 point of burn, leap to an enemy as per dimension door as a move action, then make a single unarmed attack against that enemy. Unlike other rapid styles, this does not suppress calm water styles.",
+      "zhCN": "止水：花费1点真气，用一个移动动作如同次元门一般跃向友军。\n激浪：承受1点超载，用一个移动动作如同次元门一般跃向一个敌人，随后对其造成单次徒手击打。与其他激浪架势不同，该能力不会抑制止水形架势。"
+    },
+    {
+      "Key": "604fd448c707493cb8215bc36f54cd0d",
+      "SimpleName": "WaterStyleRainRapidAbility.Description",
+      "ProcessTemplates": true,
+      "enGB": "Accept 1 point of burn, leap to an enemy as per dimension door as a move action, then make a single unarmed attack against that enemy. Unlike other rapid styles, this does not suppress calm water styles.",
+      "zhCN": "承受1点超载，用一个移动动作如同次元门一般跃向一个敌人，随后对其造成单次徒手击打。与其他激浪架势不同，该能力不会抑制止水形架势。"
+    },
+    {
+      "Key": "787c5b4bcea34c6183c74ebf8c88b962",
+      "SimpleName": "WaterStyleRainRapidAbility.Name",
+      "ProcessTemplates": false,
+      "enGB": "Rain Style - Rapid",
+      "zhCN": "豪雨势（激浪）"
+    },
+    {
+      "Key": "f403f83ef127498ebd67843978c8275b",
+      "SimpleName": "WaterStyleRiverBaseAbility.Description",
+      "ProcessTemplates": true,
+      "enGB": "Calm:  Spend 1 point from your ki pool as a swift action, for one minute your first unarmed strike each round deals an extra 2d6 bludgeoning damage, increasing by 1d6 at levels 11 and 17.\nRapid: Accept 1 point of burn as a swift action, for one round your unarmed strikes deal an extra 2d8 bludgeoning damage, increasing by 1d8 at levels 11 and 17.",
+      "zhCN": "止水：用迅捷动作花费1点气力，1分钟内你每轮第一次徒手击打造成额外2d6钝击伤害，这个额外伤害在11级和17级时增加额外1d6。\n激浪：用迅捷动作承受1点超载，1轮内你的徒手击打造成造成额外2d8钝击伤害，这个额外伤害在11级和17级时增加额外1d8。"
+    },
+    {
+      "Key": "a9f7a95556f349ddbc59e0bcbba8922f",
+      "SimpleName": "WaterStyleRiverBaseAbility.Name",
+      "ProcessTemplates": false,
+      "enGB": "River Style",
+      "zhCN": "川流势"
+    },
+    {
+      "Key": "bdafe1adcd614c9dbb675ab2bd40cb0d",
+      "SimpleName": "WaterStyleRiverCalmAbility.Description",
+      "ProcessTemplates": true,
+      "enGB": "Spend 1 point from your ki pool as a swift action, for one minute your first unarmed strike each round deals an extra 2d6 bludgeoning damage, increasing by 1d6 at levels 11 and 17.",
+      "zhCN": "用迅捷动作花费1点气力，1分钟内你每轮第一次徒手击打造成额外2d6钝击伤害，这个额外伤害在11级和17级时增加额外1d6。"
+    },
+    {
+      "Key": "d423cfd6162b4ca687bdf7fc386767ab",
+      "SimpleName": "WaterStyleRiverCalmBuff.Description",
+      "ProcessTemplates": true,
+      "enGB": "Spend 1 point from your ki pool as a swift action, for one minute your first unarmed strike each round deals an extra 2d6 bludgeoning damage, increasing by 1d6 at levels 11 and 17.",
+      "zhCN": "用迅捷动作花费1点气力，1分钟内你每轮第一次徒手击打造成额外2d6钝击伤害，这个额外伤害在11级和17级时增加额外1d6。"
+    },
+    {
+      "Key": "9fedf0e2e3fa4d5094aa2a78d4cc3760",
+      "SimpleName": "WaterStyleRiverCalmBuff.Name",
+      "ProcessTemplates": false,
+      "enGB": "River Style - Calm",
+      "zhCN": "川流势（止水）"
+    },
+    {
+      "Key": "70bede101c9e4d44b4050b6ed7fe70d5",
+      "SimpleName": "WaterStyleRiverFeature.Description",
+      "ProcessTemplates": true,
+      "enGB": "Calm:  Spend 1 point from your ki pool as a swift action, for one minute your first unarmed strike each round deals an extra 2d6 bludgeoning damage, increasing by 1d6 at levels 11 and 17.\nRapid: Accept 1 point of burn as a swift action, for one round your unarmed strikes deal an extra 2d8 bludgeoning damage, increasing by 1d8 at levels 11 and 17.",
+      "zhCN": "止水：用迅捷动作花费1点气力，1分钟内你每轮第一次徒手击打造成额外2d6钝击伤害，这个额外伤害在11级和17级时增加额外1d6。\n激浪：用迅捷动作承受1点超载，1轮内你的徒手击打造成造成额外2d8钝击伤害，这个额外伤害在11级和17级时增加额外1d8。"
+    },
+    {
+      "Key": "f6143d8658494ccc804c01f696e124e6",
+      "SimpleName": "WaterStyleRiverRapidAbility.Description",
+      "ProcessTemplates": true,
+      "enGB": "Accept 1 point of burn as a swift action, for one round your unarmed strikes deal an extra 2d8 bludgeoning damage, increasing by 1d8 at levels 11 and 17.",
+      "zhCN": "用迅捷动作承受1点超载，1轮内你的徒手击打造成造成额外2d8钝击伤害，这个额外伤害在11级和17级时增加额外1d8。"
+    },
+    {
+      "Key": "28e982559c5841ad8a5ef64fda1722a4",
+      "SimpleName": "WaterStyleRiverRapidBuff.Description",
+      "ProcessTemplates": true,
+      "enGB": "Accept 1 point of burn as a swift action, for one round your unarmed strikes deal an extra 2d8 bludgeoning damage, increasing by 1d8 at levels 11 and 17.",
+      "zhCN": "用迅捷动作承受1点超载，1轮内你的徒手击打造成造成额外2d8钝击伤害，这个额外伤害在11级和17级时增加额外1d8。"
+    },
+    {
+      "Key": "b060928dae484abba6df687593f71bed",
+      "SimpleName": "WaterStyleRiverRapidBuff.Name",
+      "ProcessTemplates": false,
+      "enGB": "River Style - Rapid",
+      "zhCN": "川流势（激浪）"
+    },
+    {
+      "Key": "2a82b61e46484ac0b00ef31e9f060a1a",
+      "SimpleName": "WaterStyleStrikesFeatureSelection.Description",
+      "ProcessTemplates": true,
+      "enGB": "At 5th level, and every 4 levels thereafter, a water dancer learns one type of water style strike. \r\nEach style has two forms: \nCalm water forms use ki as a resource and provide long lasting, minor effects. \nRapid water forms force the water dancer to accept a point of burn, in exchange for short, but major effects. \r\nA water dancer can only be effected by one style at a time, using a calm style removes other calm styles, rapid styles do not remove calm styles but suppress them for one round.",
+      "zhCN": "5级起，和之后的每4级，水舞僧学会一种水之架势。 \r\n每个架势都拥有两种形态：\n止水形使用真气，提供长时间持续的次级效果。\n激浪形使得水舞僧承受超载，带来短时间的强力效果。\r\n水舞僧同一时间只能使用一个架势，使用止水形架势会移除其他止水形架势，激浪形架势不会移除止水形架势，但是会在1轮内抑制它们。"
+    },
+    {
+      "Key": "dffbda272d8c4c4aaba054729edeb438",
+      "SimpleName": "WaterStyleStrikesFeatureSelection.Name",
+      "ProcessTemplates": false,
+      "enGB": "Water Style Strke",
+      "zhCN": "水之架势"
+    },
+    {
+      "Key": "2d69ef48e6c0487db2fb7b32dc14ff01",
+      "SimpleName": "WaterStyleSuppressCalmBuff.Name",
+      "ProcessTemplates": false,
+      "enGB": "Calm Style suppress",
+      "zhCN": "抑制止水形架势"
+    },
+    {
+      "Key": "077c40d2b00f412da0704bd13a16c948",
+      "SimpleName": "WaterStyleWaterfallBaseAbility.Description",
+      "ProcessTemplates": true,
+      "enGB": "Calm: Spend 1 point from your ki pool as a swift action, make a free trip attempt on critical unarmed hits for one minute. \nRapid: Accept 1 point of burn as a swift action, the next unarmed strike that hits deals extra damage equal to half your blast damage, in addition to making a free trip attempt. \nThese trip attempts use the base attack bonus of the attack used to hit the foe and do not provoke an attack of opportunity.",
+      "zhCN": "止水：以迅捷动作花费1点真气，1分钟内每次徒手击打重击时，以自由动作尝试进行一次绊摔。\n激浪：以迅捷动作承受1点超载，下次徒手击打造成等于你念袭一半的额外伤害，以自由动作尝试进行一次绊摔。\n这些绊摔尝试使用这次攻击的基本攻击加值，且不会引发借机攻击。"
+    },
+    {
+      "Key": "49d609f267b64be89f36aebf17557eff",
+      "SimpleName": "WaterStyleWaterfallBaseAbility.Name",
+      "ProcessTemplates": false,
+      "enGB": "Waterfall Style",
+      "zhCN": "飞瀑势"
+    },
+    {
+      "Key": "0260a873da914828a5fbdc6bef47ba5f",
+      "SimpleName": "WaterStyleWaterfallCalmAbility.Description",
+      "ProcessTemplates": true,
+      "enGB": "Spend 1 point from your ki pool as a swift action, make a free trip attempt on critical unarmed hits for one minute. \nThese trip attempts use the base attack bonus of the attack used to hit the foe and do not provoke an attack of opportunity.",
+      "zhCN": "以迅捷动作花费1点真气，1分钟内每次徒手击打重击时，以自由动作尝试进行一次绊摔。\n这些绊摔尝试使用这次攻击的基本攻击加值，且不会引发借机攻击。"
+    },
+    {
+      "Key": "b4cacfbd65e246a3965181e0f0368e12",
+      "SimpleName": "WaterStyleWaterfallCalmBuff.Description",
+      "ProcessTemplates": true,
+      "enGB": "Spend 1 point from your ki pool as a swift action, make a free trip attempt on critical unarmed hits for one minute. \nThese trip attempts use the base attack bonus of the attack used to hit the foe and do not provoke an attack of opportunity.",
+      "zhCN": "以迅捷动作花费1点真气，1分钟内每次徒手击打重击时，以自由动作尝试进行一次绊摔。\n这些绊摔尝试使用这次攻击的基本攻击加值，且不会引发借机攻击。"
+    },
+    {
+      "Key": "82a72b586e6e4405b2c8062430471ccd",
+      "SimpleName": "WaterStyleWaterfallCalmBuff.Name",
+      "ProcessTemplates": false,
+      "enGB": "Waterfall Style - Calm",
+      "zhCN": "飞瀑势（止水）"
+    },
+    {
+      "Key": "82fe7726cbe248a4848ac5ad94d6419a",
+      "SimpleName": "WaterStyleWaterfallFeature.Description",
+      "ProcessTemplates": true,
+      "enGB": "Calm: Spend 1 point from your ki pool as a swift action, make a free trip attempt on critical unarmed hits for one minute. \nRapid: Accept 1 point of burn as a swift action, the next unarmed strike that hits deals extra damage equal to half your blast damage, in addition to making a free trip attempt. \nThese trip attempts use the base attack bonus of the attack used to hit the foe and do not provoke an attack of opportunity.",
+      "zhCN": "止水：以迅捷动作花费1点真气，1分钟内每次徒手击打重击时，以自由动作尝试进行一次绊摔。\n激浪：以迅捷动作承受1点超载，下次徒手击打造成等于你念袭一半的额外伤害，以自由动作尝试进行一次绊摔。\n这些绊摔尝试使用这次攻击的基本攻击加值，且不会引发借机攻击。"
+    },
+    {
+      "Key": "261bd06793cb43da9906b5146c5d296b",
+      "SimpleName": "WaterStyleWaterfallRapidAbility.Description",
+      "ProcessTemplates": true,
+      "enGB": "Accept 1 point of burn as a swift action, the next unarmed strike that hits deals extra damage equal to half your blast damage, in addition to making a free trip attempt. \nThis trip attempt uses the base attack bonus of the attack used to hit the foe and does not provoke an attack of opportunity.",
+      "zhCN": "以迅捷动作承受1点超载，下次徒手击打造成等于你念袭一半的额外伤害，以自由动作尝试进行一次绊摔。\n这些绊摔尝试使用这次攻击的基本攻击加值，且不会引发借机攻击。"
+    },
+    {
+      "Key": "4b5286d53ec24538bbbbec1bff4ab43c",
+      "SimpleName": "WaterStyleWaterfallRapidBuff.Description",
+      "ProcessTemplates": true,
+      "enGB": "Accept 1 point of burn as a swift action, the next unarmed strike that hits deals extra damage equal to half your blast damage, in addition to making a free trip attempt. \nThis trip attempt uses the base attack bonus of the attack used to hit the foe and does not provoke an attack of opportunity.",
+      "zhCN": "以迅捷动作承受1点超载，下次徒手击打造成等于你念袭一半的额外伤害，以自由动作尝试进行一次绊摔。\n这些绊摔尝试使用这次攻击的基本攻击加值，且不会引发借机攻击。"
+    },
+    {
+      "Key": "ede31b26a0894d9cb2949ccee0e5a91a",
+      "SimpleName": "WaterStyleWaterfallRapidBuff.Name",
+      "ProcessTemplates": false,
+      "enGB": "Waterfall Style - Rapid",
+      "zhCN": "飞瀑势（激浪）"
+    },
+    {
+      "Key": "c59e149a16684b66a204ed05c62b7d0f",
+      "SimpleName": "WaterStyleWaveBaseAbility.Description",
+      "ProcessTemplates": true,
+      "enGB": "Calm: Spend 1 point from your ki pool to enter a braced stance for 1 minute. This stance grants a +2 bonus to CMD against all combat maneuvers.\nRapid: Accept 1 point of burn, strike out with a kinetic blast in a 15-foot cone, targets take damage equal to your blast damage. Attempt a bull rush combat maneuver check against each target, using your Charisma modifier instead of your Strength modifier to determine your Combat Maneuver Bonus. Targets may attempt a Reflex save to reduce the damage by half and be unaffected by the bull rush combat maneuver.",
+      "zhCN": "止水：花费1点真气进入防御姿态1分钟，这个姿态下在对所有战技的CMD上获得+2加值。\n激浪：承受1点超载，对15尺锥形发出念袭，目标受到你的念袭伤害，并对每个目标尝试一次冲撞战技检定，在本次检定中使用你的魅力调整值来替代力量调整值。目标可以尝试进行反射豁免来减半受到的伤害并免于战技影响。"
+    },
+    {
+      "Key": "d3fa16825c204a8c963af3f4f8355c79",
+      "SimpleName": "WaterStyleWaveBaseAbility.Name",
+      "ProcessTemplates": false,
+      "enGB": "Wave Style",
+      "zhCN": "波涛势"
+    },
+    {
+      "Key": "673ab1a2a78e40f392e3fb94d303fffc",
+      "SimpleName": "WaterStyleWaveCalmAbility.Description",
+      "ProcessTemplates": true,
+      "enGB": "Spend 1 point from your ki pool to enter a braced stance for 1 minute. This stance grants a +2 bonus to CMD against all combat maneuvers.",
+      "zhCN": "花费1点真气进入防御姿态1分钟，这个姿态下在对所有战技的CMD上获得+2加值。"
+    },
+    {
+      "Key": "f1ce528df95c4c24aba28a2c840ba3a3",
+      "SimpleName": "WaterStyleWaveCalmBuff.Description",
+      "ProcessTemplates": true,
+      "enGB": "Spend 1 point from your ki pool to enter a braced stance for 1 minute. This stance grants a +2 bonus to CMD against all combat maneuvers.",
+      "zhCN": "花费1点真气进入防御姿态1分钟，这个姿态下在对所有战技的CMD上获得+2加值。"
+    },
+    {
+      "Key": "114795b30bbd49b48fbb4ee20f682f65",
+      "SimpleName": "WaterStyleWaveCalmBuff.Name",
+      "ProcessTemplates": false,
+      "enGB": "Wave Style - Calm",
+      "zhCN": "波涛势（止水）"
+    },
+    {
+      "Key": "0b5496827f5c40f5b7a7b4c9b39c2f23",
+      "SimpleName": "WaterStyleWaveFeature.Description",
+      "ProcessTemplates": true,
+      "enGB": "Calm: Spend 1 point from your ki pool to enter a braced stance for 1 minute. This stance grants a +2 bonus to CMD against all combat maneuvers.\nRapid: Accept 1 point of burn, strike out with a kinetic blast in a 15-foot cone, targets take damage equal to your blast damage. Attempt a bull rush combat maneuver check against each target, using your Charisma modifier instead of your Strength modifier to determine your Combat Maneuver Bonus. Targets may attempt a Reflex save to reduce the damage by half and be unaffected by the bull rush combat maneuver.",
+      "zhCN": "止水：花费1点真气进入防御姿态1分钟，这个姿态下在对所有战技的CMD上获得+2加值。\n激浪：承受1点超载，对15尺锥形发出念袭，目标受到你的念袭伤害，并对每个目标尝试一次冲撞战技检定，在本次检定中使用你的魅力调整值来替代力量调整值。目标可以尝试进行反射豁免来减半受到的伤害并免于战技影响。"
+    },
+    {
+      "Key": "4dace94f515b424b9915e4d6cbeb2224",
+      "SimpleName": "WaterStyleWaveRapidAbility.Description",
+      "ProcessTemplates": true,
+      "enGB": "Accept 1 point of burn, strike out with a kinetic blast in a 15-foot cone, targets take damage equal to your blast damage. Attempt a bull rush combat maneuver check against each target, using your Charisma modifier instead of your Strength modifier to determine your Combat Maneuver Bonus. Targets may attempt a Reflex save to reduce the damage by half and be unaffected by the bull rush combat maneuver.",
+      "zhCN": "承受1点超载，对15尺锥形发出念袭，目标受到你的念袭伤害，并对每个目标尝试一次冲撞战技检定，在本次检定中使用你的魅力调整值来替代力量调整值。目标可以尝试进行反射豁免来减半受到的伤害并免于战技影响。"
+    },
+    {
+      "Key": "f2eba37feb0a4626a36e62452cb651a0",
+      "SimpleName": "WaterStyleWaveRapidAbility.Name",
+      "ProcessTemplates": false,
+      "enGB": "Wave Style - Rapid",
+      "zhCN": "波涛势（激浪）"
+    },
+    {
+      "Key": "0b7c6859504d45d6a0ba99eade4f2c33",
+      "SimpleName": "NobleScionFeatureSelection.Description",
+      "ProcessTemplates": true,
+      "zhCN": "无论你和家族的关系是否良好，你都是值得自豪的贵族家族的一员。\n你的知识（世界）检定获得+2加值，并且该知识技能总是视为你的本职技能。\n当你选择该专长时，从后述列表中选择一种与你的贵族家庭风格相符的优势。",
+      "enGB": "You are a member of a proud noble family, whether or not you remain in good standing with your family. \nYou gain a +2 bonus on all Knowledge (World) checks, and this skill is always considered a class skill for you. \nWhen you select this feat, choose one of the benefits that matches the flavor of your noble family."
+    },
+    {
+      "Key": "e41a7e850b95438da4a92c145d82b478",
+      "SimpleName": "NobleScionFeatureSelection.Name",
+      "ProcessTemplates": false,
+      "zhCN": "贵族后裔",
+      "enGB": "Noble Scion"
+    },
+    {
+      "Key": "e1cfb5baa5f543f197626a8c8f1fe28f",
+      "SimpleName": "NobleScionOfLoreFeature.Description",
+      "ProcessTemplates": true,
+      "zhCN": "无论你和家族的关系是否良好，你都是值得自豪的贵族家族的一员。\n你的知识（世界）检定获得+2加值，并且该知识技能总是视为你的本职技能。\r\n你在所有知识和学识技能上获得+1加值。",
+      "enGB": "You are a member of a proud noble family, whether or not you remain in good standing with your family. \nYou gain a +2 bonus on all Knowledge (World) checks, and this skill is always considered a class skill for you. \r\nYou gain a +1 bonus on all Knowledge and Lore skills."
+    },
+    {
+      "Key": "3c1877e2cb4e44b6b7758489362d199f",
+      "SimpleName": "NobleScionOfLoreFeature.Name",
+      "ProcessTemplates": false,
+      "zhCN": "知识之子",
+      "enGB": "Noble Scion of Lore"
+    },
+    {
+      "Key": "e4f0812ef99f4ae4b7d171d86539ebdf",
+      "SimpleName": "NobleScionOfMagicFeature.Description",
+      "ProcessTemplates": true,
+      "zhCN": "无论你和家族的关系是否良好，你都是值得自豪的贵族家族的一员。\n你的知识（世界）检定获得+2加值，并且该知识技能总是视为你的本职技能。\r\n你在使用魔法装置检定上获得+2加值，并具有在休息制作卷轴的能力",
+      "enGB": "You are a member of a proud noble family, whether or not you remain in good standing with your family. \nYou gain a +2 bonus on all Knowledge (World) checks, and this skill is always considered a class skill for you. \r\nYou gain a +2 bonus on Use Magic Device checks, along with the ability to craft scrolls during rest."
+    },
+    {
+      "Key": "d2f7e79d52d44f359814b151f62acc7a",
+      "SimpleName": "NobleScionOfMagicFeature.Name",
+      "ProcessTemplates": false,
+      "zhCN": "魔法之子",
+      "enGB": "Noble Scion of Magic"
+    },
+    {
+      "Key": "5d76f5e746a741f290486a15bf6fec61",
+      "SimpleName": "NobleScionOfPrideFeature.Description",
+      "ProcessTemplates": true,
+      "zhCN": "无论你和家族的关系是否良好，你都是值得自豪的贵族家族的一员。\n你的知识（世界）检定获得+2加值，并且该知识技能总是视为你的本职技能。\r\n每日一次，当受到恐惧效果影响时，你会抑制影响你的任何恐惧效果，持续时间等于你角色等级的一半（最少 1），即使你由于恐惧而无法正常采取行动。",
+      "enGB": "You are a member of a proud noble family, whether or not you remain in good standing with your family. \nYou gain a +2 bonus on all Knowledge (World) checks, and this skill is always considered a class skill for you. \r\nOnce per day when affected by a fear effect, you suppress any fear effects affecting you for a number of rounds equal to half your character level (minimum 1) even if you could not normally take actions due to your fear."
+    },
+    {
+      "Key": "61fec0fbd7674f7394bd03c245f7ecaa",
+      "SimpleName": "NobleScionOfPrideFeature.Name",
+      "ProcessTemplates": false,
+      "zhCN": "骄傲之子",
+      "enGB": "Noble Scion of Pride"
+    },
+    {
+      "Key": "fa17a58d856b4d649f3651998ee432a2",
+      "SimpleName": "NobleScionOfPrideSuppresion.Description",
+      "ProcessTemplates": true,
+      "zhCN": "每日一次，当受到恐惧效果影响时，你会抑制影响你的任何恐惧效果，持续时间等于你角色等级的一半（最少 1），即使你由于恐惧而无法正常采取行动。",
+      "enGB": "Once per day when affected by a fear effect, you suppress any fear effects affecting you for a number of rounds equal to half your character level (minimum 1) even if you could not normally take actions due to your fear."
+    },
+    {
+      "Key": "7374d8f65cc34f039047f80b8bcd3402",
+      "SimpleName": "NobleScionOfPrideSuppresion.Name",
+      "ProcessTemplates": false,
+      "zhCN": "骄傲之子",
+      "enGB": "Noble Scion of Pride Rest Buff"
+    },
+    {
+      "Key": "624c641eab5549e6bab0139fdf75a7c1",
+      "SimpleName": "NobleScionOfTheArtsFeature.Description",
+      "ProcessTemplates": true,
+      "zhCN": "无论你和家族的关系是否良好，你都是值得自豪的贵族家族的一员。\n你的知识（世界）检定获得+2加值，并且该知识技能总是视为你的本职技能。\r\n如果你拥有吟游演艺能力，那么你每日能够额外使用该能力3轮。",
+      "enGB": "You are a member of a proud noble family, whether or not you remain in good standing with your family. \nYou gain a +2 bonus on all Knowledge (World) checks, and this skill is always considered a class skill for you. \r\nIf you have the bardic performance ability, you can use that ability for an additional 3 rounds per day."
+    },
+    {
+      "Key": "8f79fe982e544a2dbd418a5dcef5279c",
+      "SimpleName": "NobleScionOfTheArtsFeature.Name",
+      "ProcessTemplates": false,
+      "zhCN": "艺术之子",
+      "enGB": "Noble Scion of the Arts"
+    },
+    {
+      "Key": "8deb447e139444d085678c082210c9d5",
+      "SimpleName": "NobleScionOfWarFeature.Description",
+      "ProcessTemplates": true,
+      "zhCN": "无论你和家族的关系是否良好，你都是值得自豪的贵族家族的一员。\n你的知识（世界）检定获得+2加值，并且该知识技能总是视为你的本职技能。\r\n你使用你的魅力调整值来决定先攻检定，而非使用你的敏捷调整值。",
+      "enGB": "You are a member of a proud noble family, whether or not you remain in good standing with your family. \nYou gain a +2 bonus on all Knowledge (World) checks, and this skill is always considered a class skill for you. \r\nYou use your Charisma modifier to adjust Initiative checks instead of your Dexterity modifier."
+    },
+    {
+      "Key": "8824e58190924722b316b60cd9bb1052",
+      "SimpleName": "NobleScionOfWarFeature.Name",
+      "ProcessTemplates": false,
+      "zhCN": "战争之子",
+      "enGB": "Noble Scion of War"
     }
   ]
 }
