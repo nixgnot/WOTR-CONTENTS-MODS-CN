@@ -5211,5 +5211,310 @@ Duty - Be responsible for your actions and their consequences, protect those ent
 		{
             "Key": "HomebrewArchtypes_BombModifierBonusName", 
             "zhCN": "炸弹调整加值"
+        },
+		{
+            "Key": "HomebrewArchtypes_FreedomFighterLuckAbilityTheBiggerTheyAreGreaterName", 
+            "zhCN": "一石击二鸟"
+        },
+		{
+            "Key": "HomebrewArchtypes_FreedomFighterLuckAbilityTheBiggerTheyAreGreaterDesc", 
+            "zhCN": "以一个标准动作，自由斗士可以如同顺势斩一般进行进行一次近战攻击。如果攻击命中，他们可以以一个不会引发借机攻击的自由动作，对攻击目标发动绊摔战技。"
+
+        },
+		{
+            "Key": "HomebrewArchtypes_FreedomFighterLuckAbilityTheBiggerTheyAreSuperiorName", 
+            "zhCN": "秋风扫落叶"
+        },
+		{
+            "Key": "HomebrewArchtypes_FreedomFighterLuckAbilityTheBiggerTheyAreSuperiorDesc", 
+            "zhCN": "以一个标准动作，自由斗士可以如同顺势斩一般进行进行一次近战攻击。如果攻击命中，他们可以以一个不会引发借机攻击的自由动作，对攻击目标们动绊摔战技，并继续对所有触及范围内邻接敌人进行攻击。"
+        },
+		{
+            "Key": "HomebrewArchtypes_FreedomFighterFarstriderAbilityDoubleShotName", 
+            "zhCN": "双发射击"
+        },
+		{
+            "Key": "HomebrewArchtypes_FreedomFighterFarstriderAbilityDoubleShotDesc", 
+            "zhCN": "如同彼方行者一般的远程攻击专家每个回合第一次攻击有10%概率射出两只箭。"
+        },
+		{
+            "Key": "HomebrewArchtypes_FreedomFighterFarstriderAbilityBarrageName", 
+            "zhCN": "弹幕射击"
+        },
+		{
+            "Key": "HomebrewArchtypes_FreedomFighterFarstriderAbilityBarrageDesc", 
+            "zhCN": "通过对远程攻击的精通，彼方行者在攻击期间，每次击中都有5% 概率射出第二只箭。"
+        },
+		{
+            "Key": "HomebrewArchtypes_FreedomFighterFarstriderAbilityTremendousShotName", 
+            "zhCN": "卓越射击"
+        },
+		{
+            "Key": "HomebrewArchtypes_FreedomFighterFarstriderAbilityTremendousShotDesc", 
+            "zhCN": "以一个标准动作，彼方行者的下次攻击必定命中且造成重击。"
+        },
+		{
+            "Key": "HomebrewArchtypes_FreedomFighterFarstriderAbilityQuiverRefillName", 
+            "zhCN": "箭袋填充"
+        },
+		{
+            "Key": "HomebrewArchtypes_FreedomFighterFarstriderAbilityQuiverRefillDesc", 
+            "zhCN": "彼方行者每天可以为其魔法箭袋重新装满一次箭。该能力必须手动使用。"
+        },
+		{
+            "Key": "HomebrewArchtypes_FreedomFighterFarstriderAbilityQuiverName", 
+            "zhCN": "箭袋"
+        },
+		{
+            "Key": "HomebrewArchtypes_FreedomFighterFarstriderAbilityQuiverDesc", 
+            "zhCN": "彼方行者的旅途离不开他们可靠的箭袋。箭袋内装有他们能在战场上发挥巨大作用的魔法箭。彼方行者每天能使用的魔法箭数量等于其职业等级，而箭的DC为10 + 1/2施法者等级 + 智力调整值。这些箭上可选的法术在远行者达到7级和14级时会增加。"
+        },
+		{
+            "Key": "HomebrewArchtypes_FreedomFighterFarstriderAbilityQuiverFireballArrowName", 
+            "zhCN": "附魔箭 - 火球术"
+        },
+		{
+            "Key": "HomebrewArchtypes_FreedomFighterFarstriderAbilityQuiverFireballArrowDesc", 
+            "zhCN": "彼方行者在射出箭矢时为其附魔火球术。"
+        },
+		{
+            "Key": "HomebrewArchtypes_FreedomFighterFarstriderAbilityQuiverMultiArrowName", 
+            "zhCN": "附魔箭 - 分裂"
+        },
+		{
+            "Key": "HomebrewArchtypes_FreedomFighterFarstriderAbilityQuiverMultiArrowDesc", 
+            "zhCN": "彼方行者为箭矢附魔，使其能够分裂成多支新箭来攻击敌人。每拥有2级职业等级，分裂箭就可以额外分裂一次（最多分裂成5支箭）。"
+        },
+		{
+            "Key": "HomebrewArchtypes_FreedomFighterFarstriderAbilityQuiverDeathName", 
+            "zhCN": "附魔箭 - 死亡"
+        },
+		{
+            "Key": "HomebrewArchtypes_FreedomFighterFarstriderAbilityQuiverDeathDesc", 
+            "zhCN": "彼方行者为箭矢附魔死亡力量，目标必须进行强韧豁免否则会被立即杀死。"
+        },
+		{
+            "Key": "HomebrewArchtypes_FreedomFighterFarstriderAbilityQuiverEnfeeblementName", 
+            "zhCN": "附魔箭 -  衰弱"
+        },
+		{
+            "Key": "HomebrewArchtypes_FreedomFighterFarstriderAbilityQuiverEnfeeblementDesc", 
+            "zhCN": "彼方行者为箭矢附魔亡灵能量，可以使目标虚弱无力。目标必须成功进行体质豁免检定，否则其武器攻击造成的伤害将减半，直到你的下一回合开始。"
+        },
+		{
+            "Key": "HomebrewArchtypes_FreedomFighterFarstriderAbilityQuiverMetamagicQuickenedName", 
+            "zhCN": "瞬发魔法"
+        },
+		{
+            "Key": "HomebrewArchtypes_FreedomFighterFarstriderAbilityQuiverMetamagicQuickenedDesc", 
+            "zhCN": "每天三次，彼方行者可以如同运用{g|Encyclopedia:Feat}专长{/g}{g|FeatureQuickenSpell}法术瞬发{/g}一般射出附魔箭。"
+        },
+		{
+            "Key": "HomebrewArchtypes_FreedomFighterFarstriderAbilityQuiverMetamagicMaximizedName", 
+            "zhCN": "极效魔法"
+        },
+		{
+            "Key": "HomebrewArchtypes_FreedomFighterFarstriderAbilityQuiverMetamagicMaximizedDesc", 
+            "zhCN": "每天三次，彼方行者可以如同运用{g|Encyclopedia:Feat}专长{/g}{g|FeatureMaximizeSpell}法术极效{/g}一般射出附魔箭。"
+        },
+		{
+            "Key": "HomebrewArchtypes_FreedomFighterFarstriderAbilityQuiverMetamagicExtendedName", 
+            "zhCN": "延时魔法"
+        },
+		{
+            "Key": "HomebrewArchtypes_FreedomFighterFarstriderAbilityQuiverMetamagicExtendedDesc", 
+            "zhCN": "每天三次，彼方行者可以如同运用{g|Encyclopedia:Feat}专长{/g}{g|FeatureExtendSpell}法术延时{/g}一般射出附魔箭。"
+        },
+		{
+            "Key": "HomebrewArchtypes_FreedomFighterFarstriderAbilityQuiverMetamagicEmpoweredName", 
+            "zhCN": "强效魔法"
+        },
+		{
+            "Key": "HomebrewArchtypes_FreedomFighterFarstriderAbilityQuiverMetamagicEmpoweredDesc", 
+            "zhCN": "每天三次，彼方行者可以如同运用{g|Encyclopedia:Feat}专长{/g}{g|FeatureEmpoweredSpell}法术强效{/g}一般射出附魔箭。"
+        },
+		{
+            "Key": "HomebrewArchtypes_NinjaNinjaTrickInvisibleBladeName", 
+            "zhCN": "无形利刃"
+        },
+		{
+            "Key": "HomebrewArchtypes_NinjaNinjaTrickInvisibleBladeDesc", 
+            "zhCN": "忍者使用无形利刃时，视为她处在高等隐形的作用之下。"
+        },
+		{
+            "Key": "HomebrewArchtypes_FreedomFighterFarstriderAbilityQuiverFreezingOrbArrowName", 
+            "zhCN": "附魔箭 - 冰封法球"
+        },
+		{
+            "Key": "HomebrewArchtypes_FreedomFighterFarstriderAbilityQuiverFreezingOrbArrowDesc", 
+            "zhCN": "彼方行者在射出箭矢时为其附魔冰封法球。"
+        },
+		{
+            "Key": "HomebrewArchtypes_FreedomFighterFarstriderAbilityQuiverMetamagicIntensifiedName", 
+            "zhCN": "加剧法术"
+        },
+		{
+            "Key": "HomebrewArchtypes_FreedomFighterFarstriderAbilityQuiverMetamagicIntensifiedDesc", 
+            "zhCN": "每天三次，彼方行者可以如同运用{g|Encyclopedia:Feat}专长{/g}{g|FeatureIntensifiedSpell}法术加剧{/g}一般射出附魔箭。"
+        },
+		{
+            "Key": "HomebrewArchtypes_FreedomFighterFarstriderAbilityQuiverEntanglingArrowName", 
+            "zhCN": "附魔箭 - 纠缠术"
+        },
+		{
+            "Key": "HomebrewArchtypes_FreedomFighterFarstriderAbilityQuiverEntanglingArrowDesc", 
+            "zhCN": "彼方行者在射出箭矢时为其附魔纠缠术。"
+        },
+		{
+            "Key": "HomebrewArchtypes_FreedomFighterFarstriderAbilityQuiverMetamagicBolsteredName", 
+            "zhCN": "增效法术"
+        },
+		{
+            "Key": "HomebrewArchtypes_FreedomFighterFarstriderAbilityQuiverMetamagicBolsteredDesc", 
+            "zhCN": "每天三次，彼方行者可以如同运用{g|Encyclopedia:Feat}专长{/g}{g|FeatureBolsteredSpell}法术增效{/g}一般射出附魔箭。"
+        },
+		{
+            "Key": "HomebrewArchtypes_FreedomFighterFarstriderAbilityQuiverMetamagicPersistentName", 
+            "zhCN": "顽强法术"
+        },
+		{
+            "Key": "HomebrewArchtypes_FreedomFighterFarstriderAbilityQuiverMetamagicPersistentDesc", 
+            "zhCN": "每天三次，彼方行者可以如同运用{g|Encyclopedia:Feat}专长{/g}{g|FeaturePersistentSpell}法术顽强{/g}一般射出附魔箭。"
+        },
+		{
+            "Key": "HomebrewArchtypes_FreedomFighterFarstriderAbilityQuiverMetamagicPiercingName", 
+            "zhCN": "洞穿法术"
+        },
+		{
+            "Key": "HomebrewArchtypes_FreedomFighterFarstriderAbilityQuiverMetamagicPiercingDesc", 
+            "zhCN": "每天三次，彼方行者可以如同运用{g|Encyclopedia:Feat}专长{/g}{g|FeaturePiercingSpell}法术洞穿{/g}一般射出附魔箭。"
+        },
+		{
+            "Key": "HomebrewArchtypes_FreedomFighterFarstriderAbilityQuiverMetamagicSelectiveName", 
+            "zhCN": "甄选法术"
+        },
+		{
+            "Key": "HomebrewArchtypes_FreedomFighterFarstriderAbilityQuiverMetamagicSelectiveDesc", 
+            "zhCN": "每天三次，彼方行者可以如同运用{g|Encyclopedia:Feat}专长{/g}{g|FeatureSelectiveSpell}法术甄选{/g}一般射出附魔箭。"
+        },
+		{
+            "Key": "HomebrewArchtypes_FreedomFighterFarstriderAbilityQuiverAcidArrowName", 
+            "zhCN": "附魔箭 - 强酸箭"
+        },
+		{
+            "Key": "HomebrewArchtypes_FreedomFighterFarstriderAbilityQuiverAcidArrowDesc", 
+            "zhCN": "彼方行者在射出箭矢时为其附魔强酸箭。"
+        },
+		{
+            "Key": "HomebrewArchtypes_FreedomFighterFarstriderAbilityQuiverDispellingArrowName", 
+            "zhCN": "附魔箭 - 解除魔法"
+        },
+		{
+            "Key": "HomebrewArchtypes_FreedomFighterFarstriderAbilityQuiverDispellingArrowDesc", 
+            "zhCN": "彼方行者在射出箭矢时为其附魔解除魔法。"
+        },
+		{
+            "Key": "HomebrewArchtypes_FreedomFighterFarstriderAbilityQuiverSlowArrowName", 
+            "zhCN": "附魔箭 - 缓慢术"
+        },
+		{
+            "Key": "HomebrewArchtypes_FreedomFighterFarstriderAbilityQuiverSlowArrowDesc", 
+            "zhCN": "彼方行者在射出箭矢时为其附魔缓慢术。"
+        },
+		{
+            "Key": "HomebrewArchtypes_FreedomFighterFarstriderAbilityQuiverGreaterDispelTargetArrowName", 
+            "zhCN": "附魔箭 - 高等解除魔法（目标）"
+        },
+		{
+            "Key": "HomebrewArchtypes_FreedomFighterFarstriderAbilityQuiverGreaterDispelTargetArrowDesc", 
+            "zhCN": "彼方行者在射出箭矢时为其附魔高等解除魔法（目标）。"
+        },
+		{
+            "Key": "HomebrewArchtypes_FreedomFighterFarstriderAbilityQuiverGreaterDispelAoEArrowName", 
+            "zhCN": "附魔箭 - 高等解除魔法（区域）"
+        },
+		{
+            "Key": "HomebrewArchtypes_FreedomFighterFarstriderAbilityQuiverGreaterDispelAoEArrowDesc", 
+            "zhCN": "彼方行者在射出箭矢时为其附魔高等解除魔法（区域）。"
+        },
+		{
+            "Key": "HomebrewArchtypes_FreedomFighterFarstriderAbilityQuiverConfusionArrowName", 
+            "zhCN": "附魔箭 - 困惑术"
+        },
+		{
+            "Key": "HomebrewArchtypes_FreedomFighterFarstriderAbilityQuiverConfusionArrowDesc", 
+            "zhCN": "彼方行者在射出箭矢时为其附魔困惑术。"
+        },
+		{
+            "Key": "HomebrewArchtypes_FreedomFighterFarstriderAbilityQuiverChainLightningArrowName", 
+            "zhCN": "附魔箭 - 链状闪电"
+        },
+		{
+            "Key": "HomebrewArchtypes_FreedomFighterFarstriderAbilityQuiverChainLightningArrowDesc", 
+            "zhCN": "彼方行者在射出箭矢时为其附魔链状闪电。"
+        },
+		{
+            "Key": "HomebrewArchtypes_FreedomFighterFarstriderAbilityLightningStrikeName", 
+            "zhCN": "闪电强袭"
+        },
+		{
+            "Key": "HomebrewArchtypes_FreedomFighterFarstriderAbilityLightningStrikeDesc", 
+            "zhCN": "拥有这项天赋的彼方行者能在战场上如闪电般穿梭。以一个{g|Encyclopedia:Full_Round_Action}整轮动作{/g}，他们可以化身为闪电移动到30尺内的任何未被占据的空间，而不会引发{g|Encyclopedia:Attack_Of_Opportunity}借机攻击{/g}。移动后，他们会对最近的敌人进行一次{g|Encyclopedia:RangedAttack}远程攻击{/g}。"
+        },
+		{
+            "Key": "HomebrewArchtypes_FreedomFighterFarstriderAbilityLightningShotName", 
+            "zhCN": "闪电双袭"
+        },
+		{
+            "Key": "HomebrewArchtypes_FreedomFighterFarstriderAbilityLightningShotDesc", 
+            "zhCN": "拥有这项天赋的彼方行者使用闪电强袭时，会在移动后进行两次{g|Encyclopedia:RangedAttack}远程攻击{/g} 。这两次{g|Encyclopedia:Attack}攻击{/g}均使用最高的{g|Encyclopedia:BAB}基本攻击加值{/g}。"
+        },
+		{
+            "Key": "HomebrewArchtypes_FreedomFighterFarstriderAbilityQuiverShadowbindArrowName", 
+            "zhCN": "附魔箭 - 暗缚"
+        },
+		{
+            "Key": "HomebrewArchtypes_FreedomFighterFarstriderAbilityQuiverShadowbindArrowDesc", 
+            "zhCN": "彼方行者在射出箭矢时为其附魔暗缚。被击中的目标必须通过意志豁免否则会被阴影触须困住，速度降低到0。"
+        },
+		{
+            "Key": "HomebrewArchtypes_FreedomFighterFarstriderAbilityQuiverKnockbackArrowName", 
+            "zhCN": "附魔箭 - 击退"
+        },
+		{
+            "Key": "HomebrewArchtypes_FreedomFighterFarstriderAbilityQuiverKnockbackArrowDesc", 
+            "zhCN": "彼方行者在射出箭矢时为其附魔击退。被击中的目标必须通过反射豁免否则会被推开10尺。"
+        },
+		{
+            "Key": "HomebrewArchtypes_FreedomFighterFarstriderAbilityQuiverExplosiveBurstArrowName", 
+            "zhCN": "附魔箭 - 力场爆炸"
+        },
+		{
+            "Key": "HomebrewArchtypes_FreedomFighterFarstriderAbilityQuiverExplosiveBurstArrowDesc", 
+            "zhCN": "彼方行者在射出箭矢时为其附魔力场爆炸。爆炸会击中10尺范围，被击中的目标受到每施法者等级1d6力场伤害，并且继续通过反射豁免否则会被击退10尺。"
+        },
+		{
+            "Key": "HomebrewArchtypes_FreedomFighterFarstriderAbilityQuiverGreaseArrowName", 
+            "zhCN": "附魔箭 -  油腻术"
+        },
+		{
+            "Key": "HomebrewArchtypes_FreedomFighterFarstriderAbilityQuiverGreaseArrowDesc", 
+            "zhCN": "彼方行者在射出箭矢时为其附魔油腻术。"
+        },
+		{
+            "Key": "HomebrewArchtypes_FreedomFighterFarstriderAbilityExtraTalentSelectionName", 
+            "zhCN": "额外彼方行者天赋"
+        },
+		{
+            "Key": "HomebrewArchtypes_FreedomFighterFarstriderAbilityExtraTalentSelectionDesc", 
+            "zhCN": "该专长允许你选择额外一项彼方行者天赋。（本专长可以多次选择）"
+        },
+		{
+            "Key": "HomebrewArchtypes_FreedomFighterFarstriderAbilityAbundantMetamagicsName", 
+            "zhCN": "充裕彼方超魔"
+        },
+		{
+            "Key": "HomebrewArchtypes_FreedomFighterFarstriderAbilityAbundantMetamagicsDesc", 
+            "zhCN": "你学会了增加你的超魔能力可用次数的方法。\n效果：你的彼方行者超魔增加等于你神话阶级1/2的可用次数。"
         }
 	]	
