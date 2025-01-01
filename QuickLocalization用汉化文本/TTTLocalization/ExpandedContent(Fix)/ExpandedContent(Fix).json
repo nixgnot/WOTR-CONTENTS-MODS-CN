@@ -27885,6 +27885,314 @@
       "ProcessTemplates": false,
       "zhCN": "战争之子",
       "enGB": "Noble Scion of War"
+    },
+    {
+      "Key": "c497be1fbae244c0a8bf9e8aa6af19ee",
+      "SimpleName": "BeneficialAbolethCurseProgression.Description",
+      "ProcessTemplates": true,
+      "zhCN": "你的思想被底栖魔鱼篡改，或者是因为你小时候与这些生物中的一个亲密接触，或者是通过祖先，家庭成员，你的一个姐妹或兄弟在信仰上与底栖魔鱼互动。\n你在对抗影响心灵效果的豁免会受到-2的减值，并将催眠术添加到你的1环先知已知法术列表中。\n在5级时，将镜影术添加到你的2环先知已知法术列表中。\n在10级时，将定身怪物添加到你的4环先知已知法术列表中。\n在15级时，将梦境护幕添加到你的6环先知已知法术列表中。",
+      "enGB": "Your mind is marked by aboleth tampering, either as a result of a close encounter with one of these creatures while you were a child, or even through an ancestor, close family member, or one of your sisters or brothers in faith—this associate’s interaction with the aboleths may be all that it takes to infect you. \nYou take a –2 penalty on saving throws against mind-affecting effects and add hypnotism to your list of 1st-level oracle spells known. \nAt 5th level, add mirror image to your list of 2nd-level oracle spells known. \nAt 10th level, add hold monster to your list of 4th-level oracle spells known. \nAt 15th level, add cloak of dreams to your list of 6th-level oracle spells known."
+    },
+    {
+      "Key": "a3843b81418f470b98868d62eecca186",
+      "SimpleName": "AbolethCurseBeneficialFeatureLevel1.Description",
+      "ProcessTemplates": true,
+      "zhCN": "你的思想被底栖魔鱼篡改，或者是因为你小时候与这些生物中的一个亲密接触，或者是通过祖先，家庭成员，你的一个姐妹或兄弟在信仰上与底栖魔鱼互动。\n你在对抗影响心灵效果的豁免会受到-2的减值，并将催眠术添加到你的1环先知已知法术列表中。",
+      "enGB": "Your mind is marked by aboleth tampering, either as a result of a close encounter with one of these creatures while you were a child, or even through an ancestor, close family member, or one of your sisters or brothers in faith—this associate’s interaction with the aboleths may be all that it takes to infect you. \nYou take a –2 penalty on saving throws against mind-affecting effects and add hypnotism to your list of 1st-level oracle spells known. "
+    },
+    {
+      "Key": "f919590153254a3687b21b8270c54216",
+      "SimpleName": "AbolethCurseFeatureLevel1.Description",
+      "ProcessTemplates": true,
+      "zhCN": "你的思想被底栖魔鱼篡改，或者是因为你小时候与这些生物中的一个亲密接触，或者是通过祖先，家庭成员，你的一个姐妹或兄弟在信仰上与底栖魔鱼互动。\n你在对抗影响心灵效果的豁免会受到-2的减值，并将催眠术添加到你的1环先知已知法术列表中。",
+      "enGB": "Your mind is marked by aboleth tampering, either as a result of a close encounter with one of these creatures while you were a child, or even through an ancestor, close family member, or one of your sisters or brothers in faith—this associate’s interaction with the aboleths may be all that it takes to infect you. \nYou take a –2 penalty on saving throws against mind-affecting effects and add hypnotism to your list of 1st-level oracle spells known. "
+    },
+    {
+      "Key": "27a59c4f93cd4f61bc4c701e1744b42d",
+      "SimpleName": "AbolethCurseFeatureLevel1.Name",
+      "ProcessTemplates": false,
+      "zhCN": "底栖魔鱼",
+      "enGB": "Aboleth"
+    },
+    {
+      "Key": "acde6538c2184dccacfbda202e88653e",
+      "SimpleName": "AbolethCurseFeatureLevel10.Description",
+      "ProcessTemplates": true,
+      "zhCN": "在10级时，将定身怪物添加到你的4环先知已知法术列表中。",
+      "enGB": "At 10th level, add hold monster to your list of 4th-level oracle spells known"
+    },
+    {
+      "Key": "30fc8569bd7149bc8bbabf73d4d74392",
+      "SimpleName": "AbolethCurseFeatureLevel15.Description",
+      "ProcessTemplates": true,
+      "zhCN": "在15级时，将梦境护幕添加到你的6环先知已知法术列表中。",
+      "enGB": "At 15th level, add cloak of dreams to your list of 6th-level oracle spells known."
+    },
+    {
+      "Key": "d796d86c73d444a68c2e8cf7fae55548",
+      "SimpleName": "AbolethCurseFeatureLevel5.Description",
+      "ProcessTemplates": true,
+      "zhCN": "在5级时，将镜影术添加到你的2环先知已知法术列表中。",
+      "enGB": "At 5th level, add mirror image to your list of 2nd-level oracle spells known."
+    },
+    {
+      "Key": "8bae7706ed3e495bb8c82da14a081cb0",
+      "SimpleName": "AbolethCurseNoProgression.Description",
+      "ProcessTemplates": true,
+      "zhCN": "你的思想被底栖魔鱼篡改，或者是因为你小时候与这些生物中的一个亲密接触，或者是通过祖先，家庭成员，你的一个姐妹或兄弟在信仰上与底栖魔鱼互动。\n你在对抗影响心灵效果的豁免会受到-2的减值，并将催眠术添加到你的1环先知已知法术列表中。\n在5级时，将镜影术添加到你的2环先知已知法术列表中。\n在10级时，将定身怪物添加到你的4环先知已知法术列表中。\n在15级时，将梦境护幕添加到你的6环先知已知法术列表中。",
+      "enGB": "Your mind is marked by aboleth tampering, either as a result of a close encounter with one of these creatures while you were a child, or even through an ancestor, close family member, or one of your sisters or brothers in faith—this associate’s interaction with the aboleths may be all that it takes to infect you. \nYou take a –2 penalty on saving throws against mind-affecting effects and add hypnotism to your list of 1st-level oracle spells known. \nAt 5th level, add mirror image to your list of 2nd-level oracle spells known. \nAt 10th level, add hold monster to your list of 4th-level oracle spells known. \nAt 15th level, add cloak of dreams to your list of 6th-level oracle spells known."
+    },
+    {
+      "Key": "5f533eb73c344aca89ba2969d385504d",
+      "SimpleName": "AbolethCurseProgression.Description",
+      "ProcessTemplates": true,
+      "zhCN": "你的思想被底栖魔鱼篡改，或者是因为你小时候与这些生物中的一个亲密接触，或者是通过祖先，家庭成员，你的一个姐妹或兄弟在信仰上与底栖魔鱼互动。\n你在对抗影响心灵效果的豁免会受到-2的减值，并将催眠术添加到你的1环先知已知法术列表中。\n在5级时，将镜影术添加到你的2环先知已知法术列表中。\n在10级时，将定身怪物添加到你的4环先知已知法术列表中。\n在15级时，将梦境护幕添加到你的6环先知已知法术列表中。",
+      "enGB": "Your mind is marked by aboleth tampering, either as a result of a close encounter with one of these creatures while you were a child, or even through an ancestor, close family member, or one of your sisters or brothers in faith—this associate’s interaction with the aboleths may be all that it takes to infect you. \nYou take a –2 penalty on saving throws against mind-affecting effects and add hypnotism to your list of 1st-level oracle spells known. \nAt 5th level, add mirror image to your list of 2nd-level oracle spells known. \nAt 10th level, add hold monster to your list of 4th-level oracle spells known. \nAt 15th level, add cloak of dreams to your list of 6th-level oracle spells known."
+    },
+    {
+      "Key": "0a900c5f84f04f9d92ed2a9fcc4e950d",
+      "SimpleName": "BeneficialAccursedCurseProgression.Description",
+      "ProcessTemplates": true,
+      "zhCN": "你被厄运与悲伤所诅咒，无法获得士气加值带来的增益。然而，你在对抗诅咒效果的豁免检定上获得+4加值。\n5级时，将凶兆加入你已知的2环先知法术列表中。\n10级时，将降咒加入你已知的4环先知法术列表中。\n15级时，除了你自身的先知诅咒外，你免疫所有诅咒效果。",
+      "enGB": "You are cursed with misfortune and sorrow, and you cannot gain benefit from morale bonuses. However, you gain a +4 bonus to all saving throws against curse effects.\nAt 5th level, add ill omen to your list of 2nd-level oracle spells known. \nAt 10th level, add bestow curse to your list of 4th-level oracle spells known. \nAt 15th level, you are immune to curse effects except for your own oracle curse."
+    },
+    {
+      "Key": "3b238d4ef38a435a9693fa4c6e8fb686",
+      "SimpleName": "AccursedCurseBeneficialFeatureLevel1.Description",
+      "ProcessTemplates": true,
+      "zhCN": "你被厄运与悲伤所诅咒，无法获得士气加值带来的增益。然而，你在对抗诅咒效果的豁免检定上获得+4加值。",
+      "enGB": "You are cursed with misfortune and sorrow, and you cannot gain benefit from morale bonuses. However, you gain a +4 bonus to all saving throws against curse effects. "
+    },
+    {
+      "Key": "3b238d4ef38a435a9693fa4c6e8fb686",
+      "SimpleName": "AccursedCurseBeneficialFeatureLevel1.Description",
+      "ProcessTemplates": true,
+      "zhCN": "你被厄运与悲伤所诅咒，无法获得士气加值带来的增益。然而，你在对抗诅咒效果的豁免检定上获得+4加值。",
+      "enGB": "You are cursed with misfortune and sorrow, and you cannot gain benefit from morale bonuses. However, you gain a +4 bonus to all saving throws against curse effects. "
+    },
+    {
+      "Key": "5c512b385b3843019166961c271a2295",
+      "SimpleName": "AccursedCurseFeatureLevel1.Description",
+      "ProcessTemplates": true,
+      "zhCN": "你被厄运与悲伤所诅咒，无法获得士气加值带来的增益。然而，你在对抗诅咒效果的豁免检定上获得+4加值。",
+      "enGB": "You are cursed with misfortune and sorrow, and you cannot gain benefit from morale bonuses. However, you gain a +4 bonus to all saving throws against curse effects. "
+    },
+    {
+      "Key": "548a348a531a4df19de4116ca2c0cef3",
+      "SimpleName": "AccursedCurseFeatureLevel1.Name",
+      "ProcessTemplates": false,
+      "zhCN": "厄运缠身",
+      "enGB": "Accursed"
+    },
+    {
+      "Key": "b881c76044534afe914bba0c78fba76d",
+      "SimpleName": "AccursedCurseFeatureLevel10.Description",
+      "ProcessTemplates": true,
+      "zhCN": "10级时，将降咒加入你已知的4环先知法术列表中。",
+      "enGB": "At 10th level, add bestow curse to your list of 4th-level oracle spells known."
+    },
+    {
+      "Key": "bd41f84ecc344a46bedefc82c1727453",
+      "SimpleName": "AccursedCurseFeatureLevel15.Description",
+      "ProcessTemplates": true,
+      "zhCN": "15级时，除了你自身的先知诅咒外，你免疫所有诅咒效果。",
+      "enGB": "At 15th level, you are immune to curse effects except for your own oracle curse."
+    },
+    {
+      "Key": "52288a848b4a4115bfdd09caa92d2f9a",
+      "SimpleName": "AccursedCurseFeatureLevel5.Description",
+      "ProcessTemplates": true,
+      "zhCN": "5级时，将凶兆加入你已知的2环先知法术列表中。",
+      "enGB": "At 5th level, add ill omen to your list of 2nd-level oracle spells known."
+    },
+    {
+      "Key": "16e93eac39c749ebb7b23a4a946ef448",
+      "SimpleName": "AccursedCurseNoProgression.Description",
+      "ProcessTemplates": true,
+      "zhCN": "你被厄运与悲伤所诅咒，无法获得士气加值带来的增益。然而，你在对抗诅咒效果的豁免检定上获得+4加值。\n5级时，将凶兆加入你已知的2环先知法术列表中。\n10级时，将降咒加入你已知的4环先知法术列表中。\n15级时，除了你自身的先知诅咒外，你免疫所有诅咒效果。",
+      "enGB": "You are cursed with misfortune and sorrow, and you cannot gain benefit from morale bonuses. However, you gain a +4 bonus to all saving throws against curse effects.\nAt 5th level, add ill omen to your list of 2nd-level oracle spells known. \nAt 10th level, add bestow curse to your list of 4th-level oracle spells known. \nAt 15th level, you are immune to curse effects except for your own oracle curse."
+    },
+    {
+      "Key": "dc14cdc1781a446998c7f89ba9b4ede7",
+      "SimpleName": "AccursedCurseProgression.Description",
+      "ProcessTemplates": true,
+      "zhCN": "你被厄运与悲伤所诅咒，无法获得士气加值带来的增益。然而，你在对抗诅咒效果的豁免检定上获得+4加值。\n5级时，将凶兆加入你已知的2环先知法术列表中。\n10级时，将降咒加入你已知的4环先知法术列表中。\n15级时，除了你自身的先知诅咒外，你免疫所有诅咒效果。",
+      "enGB": "You are cursed with misfortune and sorrow, and you cannot gain benefit from morale bonuses. However, you gain a +4 bonus to all saving throws against curse effects.\nAt 5th level, add ill omen to your list of 2nd-level oracle spells known. \nAt 10th level, add bestow curse to your list of 4th-level oracle spells known. \nAt 15th level, you are immune to curse effects except for your own oracle curse."
+    },
+    {
+      "Key": "449b69d37bae423f860e145a63de336e",
+      "SimpleName": "BeneficialGodMeddledCurseProgression.Description",
+      "ProcessTemplates": true,
+      "zhCN": "神对你生活的影响让你拥有了奇怪且不可预知的力量，这些力量取决于神的心血来潮。每当你受到来自神术施法者的法术影响时，无论好坏，都会出现奇怪的效果。每回合一次，当一个生物施放一个包括你在内的神术法术作为目标时，掷1d20并参考下表。\n5级时，你在抵抗神术效果的豁免中获得+2表现加值。\n10级时，你免疫困惑状态。\n15级时，你在抵抗影响心灵效果的豁免上获得+4表现加值。\n\n神之干涉效果\n1-7：无效果。\n8-10：你的体型下降一个等级，持续1轮，如同缩小术。\n11-13：你的体型增大一个等级，持续1轮，如同变巨术。\n14-15：你的施法者等级被视为高1级，持续1轮。\n16-17：与你相邻的生物会被推离10尺。\n18-19：你受到加速术效果影响，持续1轮。\n20：下一次施放的法术可以以迅捷动作施放，如同受到法术瞬发专长修改一样。",
+      "enGB": "The gods’ interference in your life has left you with strange, unpredictable powers dependent on divine whim. Bizarre side effects occur whenever you are affected by a spell from a divine caster—for better or for worse. Once per round during combat, when a creature casts a divine spell including you as a target, roll 1d20 and consult the table below.\nAt 5th level, you gain a +2 competence bonus on saving throws to resist divine spells. \nAt 10th level, you become immune to the confused condition. \nAt 15th level, you gain a +4 competence bonus on saving throws to resist mind-affecting effects.\n\nGod Meddled Effects\n1-7: No effect.\n8-10: You shrink by one size category for 1 round, as reduce person.\n11-13: You grow by one size category for 1 round, as enlarge person.\n14-15: Your caster level is treated as 1 higher for 1 round.\n16-17: Creatures adjacent to you are pushed 10 feet away from the space you occupy.\n18-19: You are affected by the benefits of haste for 1 round.\n20: The next spell cast may be cast as a swift action as if modified by the Quicken Spell feat."
+    },
+    {
+      "Key": "ec99a9957f4940f9995b59eebc9656a0",
+      "SimpleName": "GodMeddledCurseBeneficialFeatureLevel1.Description",
+      "ProcessTemplates": true,
+      "zhCN": "神对你生活的影响让你拥有了奇怪且不可预知的力量，这些力量取决于神的心血来潮。每当你受到来自神术施法者的法术影响时，无论好坏，都会出现奇怪的效果。每回合一次，当一个生物施放一个包括你在内的神术法术作为目标时，掷1d20并参考下表。\n1-7：无效果。\n8-10：你的体型下降一个等级，持续1轮，如同缩小术。\n11-13：你的体型增大一个等级，持续1轮，如同变巨术。\n14-15：你的施法者等级被视为高1级，持续1轮。\n16-17：与你相邻的生物会被推离10尺。\n18-19：你受到加速术效果影响，持续1轮。\n20：下一次施放的法术可以以迅捷动作施放，如同受到法术瞬发专长修改一样。",
+      "enGB": "The gods’ interference in your life has left you with strange, unpredictable powers dependent on divine whim. Bizarre side effects occur whenever you are targeted by a spell from a divine caster—for better or for worse. Once per round during combat, when a creature casts a divine spell including you as a target, roll 1d20 and consult the table below.\n1-7: No effect.\n8-10: You shrink by one size category for 1 round, as reduce person.\n11-13: You grow by one size category for 1 round, as enlarge person.\n14-15: Your caster level is treated as 1 higher for 1 round.\n16-17: Creatures adjacent to you are pushed 10 feet away from the space you occupy.\n18-19: You are affected by the benefits of haste for 1 round.\n20: The next spell cast may be cast as a swift action as if modified by the Quicken Spell feat."
+    },
+    {
+      "Key": "e643b6f6a7fb4185845f2271e5f2bda4",
+      "SimpleName": "GodMeddledCurseFeatureLevel1.Description",
+      "ProcessTemplates": true,
+      "zhCN": "神对你生活的影响让你拥有了奇怪且不可预知的力量，这些力量取决于神的心血来潮。奇怪的副作用包括：\n1：你传送至随机敌人旁边，并触发一次敌人的借机攻击。\n2-3：你受到缓速术的减益状态，持续1轮。\n4-5：你目盲，持续1轮。\n6-7：你被击倒在地。\n8-10：你的体型下降一个等级，持续1轮，如同缩小术。\n11-13：你的体型增大一个等级，持续1轮，如同变巨术。\n14-15：你的施法者等级被视为高1级，持续1轮。\n16-17：与你相邻的生物会被推离10尺。\n18-19：你受到加速术效果影响，持续1轮。\n20：下一次施放的法术可以以迅捷动作施放，如同受到法术瞬发专长修改一样。",
+      "enGB": "The gods’ interference in your life has left you with strange, unpredictable powers dependent on divine whim. Bizarre side effects occur whenever you are targeted by a spell from a divine caster—for better or for worse. Once per round during combat, when a creature casts a divine spell including you as a target, roll 1d20 and consult the table below.\n1: You are teleported to a random enemy, and then you provoke an attack of opportunity.\n2-3: You are affected by the penalties of the slow spell for 1 round.\n4-5: You are blinded for 1 round.\n6-7: You are knocked prone.\n8-10: You shrink by one size category for 1 round, as reduce person.\n11-13: You grow by one size category for 1 round, as enlarge person.\n14-15: Your caster level is treated as 1 higher for 1 round.\n16-17: Creatures adjacent to you are pushed 10 feet away from the space you occupy.\n18-19: You are affected by the benefits of haste for 1 round.\n20: The next spell cast may be cast as a swift action as if modified by the Quicken Spell feat."
+    },
+    {
+      "Key": "b82bede0734a45b8ad7e271386200b41",
+      "SimpleName": "GodMeddledCurseFeatureLevel10.Description",
+      "ProcessTemplates": true,
+      "zhCN": "10级时，你免疫困惑状态。",
+      "enGB": "At 10th level, you become immune to the confused condition."
+    },
+    {
+      "Key": "37947411e3e64db0ba59c474890dd9f1",
+      "SimpleName": "GodMeddledCurseFeatureLevel15.Description",
+      "ProcessTemplates": true,
+      "zhCN": "15级时，你在抵抗影响心灵效果的豁免上获得+4表现加值。",
+      "enGB": "At 15th level, you gain a +4 competence bonus on saving throws to resist mind-affecting effects."
+    },
+    {
+      "Key": "2e7f980890c24323ba2bb1caeb68447a",
+      "SimpleName": "GodMeddledCurseFeatureLevel5.Description",
+      "ProcessTemplates": true,
+      "zhCN": "5级时，你在抵抗神术效果的豁免中获得+2表现加值。",
+      "enGB": "At 5th level, you gain a +2 competence bonus on saving throws to resist divine spells."
+    },
+    {
+      "Key": "06f5ad6faea04d5ba42a99c956164dd8",
+      "SimpleName": "GodMeddledCurseNoProgression.Description",
+      "ProcessTemplates": true,
+      "zhCN": "神对你生活的影响让你拥有了奇怪且不可预知的力量，这些力量取决于神的心血来潮。每当你受到来自神术施法者的法术影响时，无论好坏，都会出现奇怪的效果。每回合一次，当一个生物施放一个包括你在内的神术法术作为目标时，掷1d20并参考下表。\n5级时，你在抵抗神术效果的豁免中获得+2表现加值。\n10级时，你免疫困惑状态。\n15级时，你在抵抗影响心灵效果的豁免上获得+4表现加值。\n\n神之干涉效果\n1：你传送至随机敌人旁边，并触发一次敌人的借机攻击。\n2-3：你受到缓速术的减益状态，持续1轮。\n4-5：你目盲，持续1轮。\n6-7：你被击倒在地。\n8-10：你的体型下降一个等级，持续1轮，如同缩小术。\n11-13：你的体型增大一个等级，持续1轮，如同变巨术。\n14-15：你的施法者等级被视为高1级，持续1轮。\n16-17：与你相邻的生物会被推离10尺。\n18-19：你受到加速术效果影响，持续1轮。\n20：下一次施放的法术可以以迅捷动作施放，如同受到法术瞬发专长修改一样。",
+      "enGB": "The gods’ interference in your life has left you with strange, unpredictable powers dependent on divine whim. Bizarre side effects occur whenever you are affected by a spell from a divine caster—for better or for worse. Once per round during combat, when a creature casts a divine spell including you as a target, roll 1d20 and consult the table below.\nAt 5th level, you gain a +2 competence bonus on saving throws to resist divine spells. \nAt 10th level, you become immune to the confused condition. \nAt 15th level, you gain a +4 competence bonus on saving throws to resist mind-affecting effects.\n\nGod Meddled Effects\n1: You are teleported to a random enemy, and then you provoke an attack of opportunity.\n2-3: You are affected by the penalties of the slow spell for 1 round.\n4-5: You are blinded for 1 round.\n6-7: You are knocked prone.\n8-10: You shrink by one size category for 1 round, as reduce person.\n11-13: You grow by one size category for 1 round, as enlarge person.\n14-15: Your caster level is treated as 1 higher for 1 round.\n16-17: Creatures adjacent to you are pushed 10 feet away from the space you occupy.\n18-19: You are affected by the benefits of haste for 1 round.\n20: The next spell cast may be cast as a swift action as if modified by the Quicken Spell feat."
+    },
+    {
+      "Key": "2343fbdd61124a129b4ee0cb0361b486",
+      "SimpleName": "GodMeddledCurseProgression.Description",
+      "ProcessTemplates": true,
+      "zhCN": "神对你生活的影响让你拥有了奇怪且不可预知的力量，这些力量取决于神的心血来潮。每当你受到来自神术施法者的法术影响时，无论好坏，都会出现奇怪的效果。每回合一次，当一个生物施放一个包括你在内的神术法术作为目标时，掷1d20并参考下表。\n5级时，你在抵抗神术效果的豁免中获得+2表现加值。\n10级时，你免疫困惑状态。\n15级时，你在抵抗影响心灵效果的豁免上获得+4表现加值。\n\n神之干涉效果\n1：你传送至随机敌人旁边，并触发一次敌人的借机攻击。\n2-3：你受到缓速术的减益状态，持续1轮。\n4-5：你目盲，持续1轮。\n6-7：你被击倒在地。\n8-10：你的体型下降一个等级，持续1轮，如同缩小术。\n11-13：你的体型增大一个等级，持续1轮，如同变巨术。\n14-15：你的施法者等级被视为高1级，持续1轮。\n16-17：与你相邻的生物会被推离10尺。\n18-19：你受到加速术效果影响，持续1轮。\n20：下一次施放的法术可以以迅捷动作施放，如同受到法术瞬发专长修改一样。",
+      "enGB": "The gods’ interference in your life has left you with strange, unpredictable powers dependent on divine whim. Bizarre side effects occur whenever you are affected by a spell from a divine caster—for better or for worse. Once per round during combat, when a creature casts a divine spell including you as a target, roll 1d20 and consult the table below.\nAt 5th level, you gain a +2 competence bonus on saving throws to resist divine spells. \nAt 10th level, you become immune to the confused condition. \nAt 15th level, you gain a +4 competence bonus on saving throws to resist mind-affecting effects.\n\nGod Meddled Effects\n1: You are teleported to a random enemy, and then you provoke an attack of opportunity.\n2-3: You are affected by the penalties of the slow spell for 1 round.\n4-5: You are blinded for 1 round.\n6-7: You are knocked prone.\n8-10: You shrink by one size category for 1 round, as reduce person.\n11-13: You grow by one size category for 1 round, as enlarge person.\n14-15: Your caster level is treated as 1 higher for 1 round.\n16-17: Creatures adjacent to you are pushed 10 feet away from the space you occupy.\n18-19: You are affected by the benefits of haste for 1 round.\n20: The next spell cast may be cast as a swift action as if modified by the Quicken Spell feat."
+    },
+    {
+      "Key": "780f5304f60046d4b0475ccff857c07c",
+      "SimpleName": "GodMeddlingActionBuff.Description",
+      "ProcessTemplates": true,
+      "zhCN": "你受到以下神之干涉效果之一的影响，并在一轮内免疫神之干涉。\n1：你传送至随机敌人旁边，并触发一次敌人的借机攻击。\n2-3：你受到缓速术的减益状态，持续1轮。\n4-5：你目盲，持续1轮。\n6-7：你被击倒在地。\n8-10：你的体型下降一个等级，持续1轮，如同缩小术。\n11-13：你的体型增大一个等级，持续1轮，如同变巨术。\n14-15：你的施法者等级被视为高1级，持续1轮。\n16-17：与你相邻的生物会被推离10尺。\n18-19：你受到加速术效果影响，持续1轮。\n20：下一次施放的法术可以以迅捷动作施放，如同受到法术瞬发专长修改一样。",
+      "enGB": "You have been affected by one of the below effects, and are immune to the gods' meddling for one round.\n1: You are teleported to a random enemy, and then you provoke an attack of opportunity.\n2-3: You are affected by the penalties of the slow spell for 1 round.\n4-5: You are blinded for 1 round.\n6-7: You are knocked prone.\n8-10: You shrink by one size category for 1 round, as reduce person.\n11-13: You grow by one size category for 1 round, as enlarge person.\n14-15: Your caster level is treated as 1 higher for 1 round.\n16-17: Creatures adjacent to you are pushed 10 feet away from the space you occupy.\n18-19: You are affected by the benefits of haste for 1 round.\n20: The next spell cast may be cast as a swift action as if modified by the Quicken Spell feat."
+    },
+    {
+      "Key": "5352ec1cd1144c7a9029e6c8632a2420",
+      "SimpleName": "GodMeddlingActionBuff.Name",
+      "ProcessTemplates": false,
+      "zhCN": "神之干涉",
+      "enGB": "God Meddled"
+    },
+    {
+      "Key": "67faaf532aae4372bbe041f8f24b9e22",
+      "SimpleName": "GodMeddlingBeneficialActionBuff.Description",
+      "ProcessTemplates": true,
+      "zhCN": "你受到以下神之干涉效果之一的影响，并在一轮内免疫神之干涉。\n1-7：无效果。\n8-10：你的体型下降一个等级，持续1轮，如同缩小术。\n11-13：你的体型增大一个等级，持续1轮，如同变巨术。\n14-15：你的施法者等级被视为高1级，持续1轮。\n16-17：与你相邻的生物会被推离10尺。\n18-19：你受到加速术效果影响，持续1轮。\n20：下一次施放的法术可以以迅捷动作施放，如同受到法术瞬发专长修改一样。",
+      "enGB": "You have been affected by one of the below effects, and are immune to the gods' meddling for one round.\n1-7: No effect.\n8-10: You shrink by one size category for 1 round, as reduce person.\n11-13: You grow by one size category for 1 round, as enlarge person.\n14-15: Your caster level is treated as 1 higher for 1 round.\n16-17: Creatures adjacent to you are pushed 10 feet away from the space you occupy.\n18-19: You are affected by the benefits of haste for 1 round.\n20: The next spell cast may be cast as a swift action as if modified by the Quicken Spell feat."
+    },
+    {
+      "Key": "76c3087edbb345679e504ec3031837c9",
+      "SimpleName": "GodMeddlingBeneficialInCombatBuff.Name",
+      "ProcessTemplates": false,
+      "zhCN": "神之干涉 战斗增益",
+      "enGB": "God Meddled Beneficial Combat Buff"
+    },
+    {
+      "Key": "8b18699ee41b4cbc872ff57496967b3a",
+      "SimpleName": "GodMeddlingCasterLevelBuff.Description",
+      "ProcessTemplates": true,
+      "zhCN": "你的施法者等级被视为高1级，持续1轮。",
+      "enGB": "Your caster level is treated as 1 higher for 1 round."
+    },
+    {
+      "Key": "eba5488e4c10420486e1a397bc8a2751",
+      "SimpleName": "GodMeddlingCasterLevelBuff.Name",
+      "ProcessTemplates": false,
+      "zhCN": "神之干涉 - 瞬发法术",
+      "enGB": "God Meddled - Quicken Spell"
+    },
+    {
+      "Key": "5aac577b058847eea7fc285119790295",
+      "SimpleName": "GodMeddlingInCombatBuff.Name",
+      "ProcessTemplates": false,
+      "zhCN": "神之干涉战斗增益",
+      "enGB": "God Meddled Combat Buff"
+    },
+    {
+      "Key": "a4fa4e7e4b3d436fa13b9f861340806c",
+      "SimpleName": "GodMeddlingPushAbility.Name",
+      "ProcessTemplates": false,
+      "zhCN": "神之干涉 - 推开",
+      "enGB": "God Meddled - Push"
+    },
+    {
+      "Key": "dfc5587992544ea28ee4c5c29706f3fb",
+      "SimpleName": "GodMeddlingQuickenSpellBuff.Description",
+      "ProcessTemplates": true,
+      "zhCN": "下一次施放的法术可以以迅捷动作施放，如同受到法术瞬发专长修改一样。",
+      "enGB": "The next spell cast may be cast as a swift action as if modified by the Quicken Spell feat."
+    },
+    {
+      "Key": "2e5142fff8f74177b6f80e78d74de58e",
+      "SimpleName": "GodMeddlingTeleportAbility.Name",
+      "ProcessTemplates": false,
+      "zhCN": "神之干涉 - 传送",
+      "enGB": "God Meddled - Teleport"
+    },
+    {
+      "Key": "3b604f3bda4a4b4e8ad254d4cfc210eb",
+      "SimpleName": "BeneficialLichCurseProgression.Description",
+      "ProcessTemplates": true,
+      "zhCN": "每个活着的施法者的血肉深处都隐藏着一个秘密——一组独特的、个性化的条件，当这些条件按照正确顺序一一满足时，就能将生灵转化为巫妖。有意识地引导这种潜力需要魔术师花费数年和钜万金钱才能找到获得永生且仅适合他一人的仪式，但有时，机运也会和不幸联合起来捉弄一个毫无戒心的施法者。 \n你尚未转化为不死生物，但已经很接近了。你会像不死生物一样被正能量伤害，被负能量治疗。 \n在5级时，将号令死灵加入2环先知已知法术列表中。 \n在10级时，将唤起死灵加入5环先知已知法术列表中。 \n在15级时，你免疫即死效应。 \n\n（在1级获得的负能量亲和力不被视为惩罚，因此不会被移除。）",
+      "enGB": "Every living spellcaster hides a secret in their flesh—a unique, personalized set of conditions that, when all are fulfilled in the correct order, can trigger the transformation into a lich. Normally, one must expend years and tens of thousands of gold pieces to research this deeply personalized method of attaining immortality. Yet, in a rare few cases, chance and ill fortune can conspire against an unsuspecting spellcaster. \nYou have yet to turn into an undead creature, but you are close. You take damage from positive energy and heal from negative energy as if you were undead.\nAt 5th level, add command undead to your list of 2nd-level oracle spells known. \nAt 10th level, add create undead to your list of 5th-level oracle spells known. \nAt 15th level, you are immune to death effects.\n\n(The Negative Energy Affinity granted at level 1 is not considered a penalty and therefore is not removed.)"
+    },
+    {
+      "Key": "c64c077d1bf74ad486eaf9095809619c",
+      "SimpleName": "LichCurseFeatureLevel10.Description",
+      "ProcessTemplates": true,
+      "zhCN": "在10级时，将唤起死灵加入5环先知已知法术列表中。",
+      "enGB": "At 10th level, add create undead to your list of 5th-level oracle spells known."
+    },
+    {
+      "Key": "7a1e4deaf3fc4bfca4573429bf1dac50",
+      "SimpleName": "LichCurseFeatureLevel15.Description",
+      "ProcessTemplates": true,
+      "zhCN": "在15级时，你免疫即死效应。",
+      "enGB": "At 15th level, you are immune to death effects."
+    },
+    {
+      "Key": "13ac1ac841194130a2421b561450e08c",
+      "SimpleName": "LichCurseFeatureLevel5.Description",
+      "ProcessTemplates": true,
+      "zhCN": "在5级时，将号令死灵加入2环先知已知法术列表中。",
+      "enGB": "At 5th level, add command undead to your list of 2nd-level oracle spells known."
+    },
+    {
+      "Key": "7a92bb0c48724ba78a53009d001df0dd",
+      "SimpleName": "LichCurseFeatureLevel5.Name",
+      "ProcessTemplates": false,
+      "zhCN": "巫染",
+      "enGB": "Lich"
+    },
+    {
+      "Key": "7bf187c2cdab48319c890482d95c45dd",
+      "SimpleName": "LichCurseNoProgression.Description",
+      "ProcessTemplates": true,
+      "zhCN": "每个活着的施法者的血肉深处都隐藏着一个秘密——一组独特的、个性化的条件，当这些条件按照正确顺序一一满足时，就能将生灵转化为巫妖。有意识地引导这种潜力需要魔术师花费数年和钜万金钱才能找到获得永生且仅适合他一人的仪式，但有时，机运也会和不幸联合起来捉弄一个毫无戒心的施法者。 \n你尚未转化为不死生物，但已经很接近了。你会像不死生物一样被正能量伤害，被负能量治疗。 \n在5级时，将号令死灵加入2环先知已知法术列表中。 \n在10级时，将唤起死灵加入5环先知已知法术列表中。 \n在15级时，你免疫即死效应。",
+      "enGB": "Every living spellcaster hides a secret in their flesh—a unique, personalized set of conditions that, when all are fulfilled in the correct order, can trigger the transformation into a lich. Normally, one must expend years and tens of thousands of gold pieces to research this deeply personalized method of attaining immortality. Yet, in a rare few cases, chance and ill fortune can conspire against an unsuspecting spellcaster. \nYou have yet to turn into an undead creature, but you are close. You take damage from positive energy and heal from negative energy as if you were undead.\nAt 5th level, add command undead to your list of 2nd-level oracle spells known. \nAt 10th level, add create undead to your list of 5th-level oracle spells known. \nAt 15th level, you are immune to death effects."
+    },
+    {
+      "Key": "37d2276fd1d44672bbd65739f9e5372f",
+      "SimpleName": "LichCurseProgression.Description",
+      "ProcessTemplates": true,
+      "zhCN": "每个活着的施法者的血肉深处都隐藏着一个秘密——一组独特的、个性化的条件，当这些条件按照正确顺序一一满足时，就能将生灵转化为巫妖。有意识地引导这种潜力需要魔术师花费数年和钜万金钱才能找到获得永生且仅适合他一人的仪式，但有时，机运也会和不幸联合起来捉弄一个毫无戒心的施法者。 \n你尚未转化为不死生物，但已经很接近了。你会像不死生物一样被正能量伤害，被负能量治疗。 \n在5级时，将号令死灵加入2环先知已知法术列表中。 \n在10级时，将唤起死灵加入5环先知已知法术列表中。 \n在15级时，你免疫即死效应。",
+      "enGB": "Every living spellcaster hides a secret in their flesh—a unique, personalized set of conditions that, when all are fulfilled in the correct order, can trigger the transformation into a lich. Normally, one must expend years and tens of thousands of gold pieces to research this deeply personalized method of attaining immortality. Yet, in a rare few cases, chance and ill fortune can conspire against an unsuspecting spellcaster. \nYou have yet to turn into an undead creature, but you are close. You take damage from positive energy and heal from negative energy as if you were undead.\nAt 5th level, add command undead to your list of 2nd-level oracle spells known. \nAt 10th level, add create undead to your list of 5th-level oracle spells known. \nAt 15th level, you are immune to death effects."
     }
   ]
 }
