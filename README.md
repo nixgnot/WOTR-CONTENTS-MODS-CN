@@ -2219,7 +2219,7 @@
    <tr><td>炼金术师科研发现</td>
        <td>Pheromones 信息素 Healer's Touch</td></tr>
    <tr><td>先知诅咒</td>
-       <td>Vampirism 吸血鬼、Deep One 深裔</td></tr>
+       <td>Vampirism 吸血鬼、Deep One 深裔 Aboleth 底栖魔鱼 Accursed 厄运缠身 God Meddled 神之干涉 Lich 巫染</td></tr>
    <tr><td>萨满精魂</td>
        <td>Heavens 苍天</td></tr>
    <tr><td>动物伙伴</td>
