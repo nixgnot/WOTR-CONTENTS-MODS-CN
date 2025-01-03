@@ -1123,7 +1123,18 @@
     "zhCN": "流派：钢魂\n武技类别:应对技\n需求武术家等级：军道之剑 15 贤者之剑 15\n当此应对技激活时，你在所有豁免上获得+9加值。每轮消耗一个武技点维持此效果。",
     "enGB": "Discipline: Diamond Mind\nManeuver Type: Special\nRequired Initiater Level: Warblade 15, Swordsage 15\nWhile this counter is active you gain +9 on all saves. Uses one maneuver point per round."
   },
+  {
 
+    "Key": "WhiteRavenCall.Name",
+    "ProcessTemplates": false,
+    "zhCN": "锲而不舍",
+    "enGB": "White Raven Call"
+  },
+  {
+    "Key": "WhiteRavenCall.Desc",
+    "zhCN": "流派：白鸦\n武技类别:强化技\n需求武术家等级：军道之剑 17\n你和60尺内的盟友在攻击检定、伤害检定、防御等级、豁免和战技防御上获得+5士气加值，持续一轮。",
+    "enGB": "Discipline: White Raven\nManeuver Type: Boost\nRequired Initiater Level: Warblade 17\nYou and allies within 60 feet gain a +5 morale bonus on attack rolls, damage rolls, armor class, saves and Combat Maneuver Defense for 1 round."
+  },
   {
     "Key": "nam.Name",
     "ProcessTemplates": false,
