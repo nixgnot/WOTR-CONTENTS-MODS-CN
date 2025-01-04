@@ -2013,7 +2013,7 @@
    <tr><td>Spear Of Purity 纯善之矛：远程接触，对邪恶异界特效</td></tr>
    <tr><td>Telekinetic Strikes 念力打击：徒手和天生武器附带力场伤害</td></tr>
    <tr><td>Burst Of Radiance 光耀爆发：群体致盲，邪恶生物受到伤害</td></tr>  
-   <tr><td rowspan="12">专长<br><i>参阅PF文档</i></td>
+   <tr><td rowspan="13">专长<br><i>参阅PF文档</i></td>
        <td>Ability Focus- Breath Weapon 能力专攻 - 吐息武器：增加吐息攻击DC</td></tr>
    <tr><td>Ancestral Scorn 先祖蔑视：当你成功使用威吓检定挫败邪恶子类的异界生物的士气时，目标除了受到挫败士气的正常影响以外，还会恶心1轮。如果你的检定高于DC5点或更多的话，该生物则会反胃1轮以取代恶心效果</td></tr>
    <tr><td>Burn Resistance 超载抵抗：计算操念超载非致命伤害时将自己等级视为低2级计算</td></tr>
@@ -2026,6 +2026,7 @@
    <tr><td>Lastwall Phalanx 终焉之墙：团队专长，在对抗邪恶生物攻击的AC和豁免获得等同拥有此专长队友数量的崇圣加值</td></tr>
    <tr><td>Swarm Strike 集群攻击：团队专长，敌人引起借机攻击时，你的攻击得到＋1加值，每多一个拥有此专长并威胁该敌人的盟友再＋1</td></tr>
    <tr><td>Armor Of The Pit 深渊铠甲：魔裔种族专长，天生防御+2</td></tr>        
+   <tr><td>Metamagic (Twin Spell) 超魔（双发法术）：超魔专长，法术可对同一个目标或者同一目标区域连续释放两次。法术等级提升：+4</td></tr>        
    <tr><td rowspan="2">物品</td>
        <td>Bracers Of The Merciful Knight 仁慈骑士护腕：阿尔西诺伊处购买，增加使用圣疗时的有效等级和使用次数</td></tr>
    <tr><td>Bracers Of The Avenging Knight 复仇骑士护腕：阿尔西诺伊处购买，增加使用破邪斩时的有效等级</td></tr>    
@@ -4940,6 +4941,8 @@ C:\Users\你的用户名\AppData\LocalLow\Owlcat Games\Pathfinder Wrath Of The R
   <tr><td rowspan="2">战姿 Stance</i></td>
        <td colspan="2">战姿·长歌励志 Bolstering Voice 需求武术家等级：军道之剑 1<br>当你处于此战姿时，范围内所有能听到你的盟友都会在意志豁免中获得+2士气加值，并且在对抗恐惧效果的意志豁免中获得额外的+2士气加值。</td></tr>
        <td colspan="2">战姿·蜂集蚁聚 Swarm Tactics 需求武术家等级：军道之剑 15 需求武技：一种白鸦流武技<br>当你在此战姿中时，相邻敌人将在AC上获得－5减值。</td></tr>
+  <tr><td rowspan="1">强化技 Boost</i></td>
+       <td colspan="2">白鸦啸令 White Raven Call 需求武术家等级：军道之剑 17 <br>你和60尺内的盟友在攻击检定、伤害检定、防御等级、豁免和战技防御上获得+5士气加值，持续一轮。</td></tr>
 
 
 
