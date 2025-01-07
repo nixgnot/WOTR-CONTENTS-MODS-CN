@@ -3067,10 +3067,6 @@ Metamagic Master 超魔主宰：指定一个法术。当你超魔施展该法术
     <td>丰裕施法者所需补丁</td>
     <td>:heavy_check_mark:</td>
     <td>:heavy_check_mark:</td></tr>
-<tr><td>Patch.Patch_RespecPartially</td>
-    <td>允许重置后加点随时终止</td>
-    <td>:x:</td>
-    <td>:heavy_check_mark:</td></tr>
 <tr><td>Patch.Patch_TrueGatherPowerLevel</td>
     <td>通常情况下念力凝聚等级基于选择的模式，如果模式低于实际积累等级，凝聚等级会丢失。修复后凝聚等级基于选择的模式或者积累量中较高者</td>
     <td>:x:</td>
