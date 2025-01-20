@@ -384,7 +384,7 @@
   {
     "Key": "SBleedAbility.Description",
     "enGB": "When the swashbuckler hits a living creature with a light or one-handed piercing melee weapon attack, she can spend 2 panache points to have that attack deal 1 point of Strength bleed damage.",
-    "zhCN": "当游荡剑客用轻型或单手穿刺类近战武器攻击命中一个活物时，游荡剑客可以花费2点勇毅值来造成1点力量出血属性伤害。"
+    "zhCN": "当游荡剑客用轻型或单手穿刺类近战武器攻击命中一个活物时，游荡剑客可以花费2点时髦值来造成1点力量出血属性伤害。"
   },
 
   {
@@ -403,7 +403,7 @@
   {
     "Key": "DBleedAbility.Description",
     "enGB": "When the swashbuckler hits a living creature with a light or one-handed piercing melee weapon attack, she can spend 2 panache points to have that attack deal 1 point of Dexterity bleed damage.",
-    "zhCN": "当游荡剑客用轻型或单手穿刺类近战武器攻击命中一个活物时，游荡剑客可以花费2点勇毅值来造成1点敏捷出血属性伤害。"
+    "zhCN": "当游荡剑客用轻型或单手穿刺类近战武器攻击命中一个活物时，游荡剑客可以花费2点时髦值来造成1点敏捷出血属性伤害。"
   },
 
   {
@@ -422,7 +422,7 @@
   {
     "Key": "CBleedAbility.Description",
     "enGB": "When the swashbuckler hits a living creature with a light or one-handed piercing melee weapon attack, she can spend 2 panache points to have that attack deal 1 point of Constitution bleed damage.",
-    "zhCN": "当游荡剑客用轻型或单手穿刺类近战武器攻击命中一个活物时，游荡剑客可以花费2点勇毅值来造成1点体质出血属性伤害。"
+    "zhCN": "当游荡剑客用轻型或单手穿刺类近战武器攻击命中一个活物时，游荡剑客可以花费2点时髦值来造成1点体质出血属性伤害。"
   },
 
   {
@@ -440,7 +440,7 @@
   {
     "Key": "BWound.Description",
     "enGB": "At 11th level, when the swashbuckler hits a living creature with a light or one-handed piercing melee weapon attack, as a free action she can spend 1 panache point to have that attack deal additional bleed damage. The amount of bleed damage dealt is equal to the swashbuckler’s Dexterity modifier (minimum 1). Alternatively, the swashbuckler can spend 2 panache points to deal 1 point of Strength, Dexterity, or Constitution bleed damage instead (swashbuckler’s choice). Creatures that are immune to sneak attacks are also immune to these types of bleed damage.",
-    "zhCN": "11级时，当游荡剑客用轻型或单手穿刺类近战武器攻击命中一个活物时，她可以用一个自由动作花费1点时髦值来令该次攻击造成额外出血伤害。出血伤害值等于游荡剑客的敏捷调整值。或者替代性的，游荡剑客可以花费2点勇毅值来造成1点力量、敏捷或体质值的出血伤害（随游荡剑客选择）。免疫偷袭伤害的生物同样免疫任意类型的出血伤害。"
+    "zhCN": "11级时，当游荡剑客用轻型或单手穿刺类近战武器攻击命中一个活物时，她可以用一个自由动作花费1点时髦值来令该次攻击造成额外出血伤害。出血伤害值等于游荡剑客的敏捷调整值。或者替代性的，游荡剑客可以花费2点时髦值来造成1点力量、敏捷或体质值的出血伤害（随游荡剑客选择）。免疫偷袭伤害的生物同样免疫任意类型的出血伤害。"
   },
 
   {
