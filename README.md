@@ -2054,17 +2054,19 @@
            <tr><td>NPC职业：5个NPC用职业，基本白板</td></tr>
 	   <tr><td>Champion 英杰：无阵营限制的圣武士，可选择誓约（暂未实装）</td></tr>
 	   <tr><td>Freedom Fighter 自由斗士：拥有偷袭和幸运天赋的半身人战士</td></tr>
-  <tr><td rowspan="29">变体</td>
+  <tr><td rowspan="31">变体</td>
     <td rowspan="2">奥能师</td>
          <td>Blood Arcanist 血奥师</td></tr>
          <tr><td>School Savant 学派家</td></tr>
     <tr><td rowspan="2">野蛮人</td>
          <td>Hateful Rager 恨意狂暴者</td></tr>
          <tr><td>Primal Hunter 原始猎手</td></tr>
-    <tr><td rowspan="3">吟游诗人</td>  
+    <tr><td rowspan="5">吟游诗人</td>  
          <td>Arcane Duelist 奥术决斗者</td></tr>
          <tr><td>Dervish of Dawn 晨光舞者</td></tr>
          <tr><td>Stonesinger 石之歌者</td></tr>
+         <tr><td>Strategist 策士</td></tr>
+         <tr><td>Dancer 舞者</td></tr>
     <tr><td rowspan="2">血怒者</td>       
          <td>Untouchable Rager 抗咒狂怒者</td></tr>
          <tr><td>Bloody-Knuckled Rowdy 血暴铁拳</td></tr>
