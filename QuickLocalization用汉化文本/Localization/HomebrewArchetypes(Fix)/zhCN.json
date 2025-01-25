@@ -5571,7 +5571,7 @@ Duty - Be responsible for your actions and their consequences, protect those ent
         },
 		{
             "Key": "HomebrewArchtypes_BardArchetypeStrategistCombinationTacticsDesc", 
-            "zhCN": "策士与一个指定盟友并肩奋战，双方获得移动速度+20，+2重击范围，以及每轮额外一次攻击。持续时间等于对方的智力（最少12秒）。如果同心战策未对盟友使用，则不会产生效果。"
+            "zhCN": "策士与一个指定盟友并肩奋战，双方获得移动速度+20，+2重击范围，以及每轮额外一次攻击。持续时间等于各自的智力（最少12秒）。如果同心战策未对盟友使用，则不会产生效果。"
         },
 		{
             "Key": "HomebrewArchtypes_BardArchetypeStrategistCounterattackGambitName", 
