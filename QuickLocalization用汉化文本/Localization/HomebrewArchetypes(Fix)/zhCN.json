@@ -5516,5 +5516,141 @@ Duty - Be responsible for your actions and their consequences, protect those ent
 		{
             "Key": "HomebrewArchtypes_FreedomFighterFarstriderAbilityAbundantMetamagicsDesc", 
             "zhCN": "你学会了增加你的超魔能力可用次数的方法。\n效果：你的彼方行者超魔增加等于你神话阶级1/2的可用次数。"
+        },
+		{
+            "Key": "HomebrewArchtypes_BardArchetypeStrategistName", 
+            "zhCN": "策士"
+        },
+		{
+            "Key": "HomebrewArchtypes_BardArchetypeStrategistDesc", 
+            "zhCN": "作为支配战场全局的大师，策士们会将大多数人眼中的殊死一战视为供自己解决的谜题。通过对战术思维的掌控，他们能依靠层出不穷的诡计来来智取敌人并最大程度地援助盟友。他们操纵阴谋与诡计，以退为进、侧翼突袭、多路进攻，也不惧于通过必要的牺牲来换取胜利。凭借缜密的规划与准备，他们在战场上获得了无限的可能性，甚至能够将原本注定的失败扭转为胜利的结果。"
+        },
+		{
+            "Key": "HomebrewArchtypes_BardArchetypeStrategistTacticalCoordinationName", 
+            "zhCN": "战术协作"
+        },
+		{
+            "Key": "HomebrewArchtypes_BardArchetypeStrategistTacticalCoordinationDesc", 
+            "zhCN": "策士会被动为30尺内友军提供+1攻击加值，5级时增加到+2，并且随后每5级再+1(最大+5)。"
+        },
+		{
+            "Key": "HomebrewArchtypes_BardArchetypeStrategistBattleTacticsName", 
+            "zhCN": "战场谋略"
+        },
+		{
+            "Key": "HomebrewArchtypes_BardArchetypeStrategistBattleTacticsDesc", 
+            "zhCN": "策士可以使用战场谋略，给予所有友军在伤害上的+1表现加值，5级时增加到+2，并且随后每6级再+1(最大+4)。9级起，战斗策略也会使得盟友获得策士的超凡战法奖励。"
+        },
+		{
+            "Key": "HomebrewArchtypes_BardArchetypeStrategistCombatProwessName", 
+            "zhCN": "超凡战法"
+        },
+		{
+            "Key": "HomebrewArchtypes_BardArchetypeStrategistCombatProwessDesc", 
+            "zhCN": "策士每轮获得一次额外攻击，并且在18级额外获得一次。此外，在受到超凡战法影响下时，策士的施法者等级被视为降低2级，并且法术-1DC。"
+        },
+		{
+            "Key": "HomebrewArchtypes_BardArchetypeStrategistTacticalCastingName", 
+            "zhCN": "偷天智略"
+        },
+		{
+            "Key": "HomebrewArchtypes_BardArchetypeStrategistTacticalCastingDesc", 
+            "zhCN": "多才多艺的策士能够适应团队的各种需求。这项能力能够能让策士在偷天智略和超凡战法中进行切换。偷天智略模式下，从5级开始每6级提升1级施法者等级和法术难度等级（DC），同时每天每级法术获得一个额外法术位。超凡战法会增加策士的战斗能力，为其提供每轮1次额外攻击，并且18级再额外获得1次，但是施法者等级被视为降低2级，并且法术-1DC。"
+        },
+		{
+            "Key": "HomebrewArchtypes_BardArchetypeStrategistAmbushAwarenessName", 
+            "zhCN": "明察秋毫"
+        },
+		{
+            "Key": "HomebrewArchtypes_BardArchetypeStrategistAmbushAwarenessDesc", 
+            "zhCN": "策士免疫精准伤害，并且察觉获得等于其策士等级一半的加值。"
+        },
+		{
+            "Key": "HomebrewArchtypes_BardArchetypeStrategistCombinationTacticsName", 
+            "zhCN": "同心战策"
+        },
+		{
+            "Key": "HomebrewArchtypes_BardArchetypeStrategistCombinationTacticsDesc", 
+            "zhCN": "策士与一个指定盟友并肩奋战，双方获得移动速度+20，+2重击范围，以及每轮额外一次攻击。持续时间等于对方的智力（最少12秒）。如果同心战策未对盟友使用，则不会产生效果。"
+        },
+		{
+            "Key": "HomebrewArchtypes_BardArchetypeStrategistCounterattackGambitName", 
+            "zhCN": "破釜沉舟"
+        },
+		{
+            "Key": "HomebrewArchtypes_BardArchetypeStrategistCounterattackGambitDesc", 
+            "zhCN": "当策士家的生命值降至最大生命值的一半以下时，他们会使得10英尺范围内的盟友近战重击威胁范围+2。在效果持续期间，该盟友绝不会出现大失败。"
+        },
+		{
+            "Key": "HomebrewArchtypes_BardArchetypeStrategistCheckmateName", 
+            "zhCN": "致命杀局"
+        },
+		{
+            "Key": "HomebrewArchtypes_BardArchetypeStrategistCheckmateDesc", 
+            "zhCN": "策士以惊人的战术机动扭转了战局，迫使30英尺范围内的所有敌人进行一次意志豁免检定，否则将被震慑两回合。同时，策士的所有盟友在相同时间内将获得速度加值（+60增强加值）、防御等级加值（+5）、攻击加值（+5）、反射豁免检定加值（+5），获得一次额外攻击，以及迅捷施法的能力。"
+        },
+		{
+            "Key": "HomebrewArchtypes_BardArchetypeStrategistPeerlessStrategyName", 
+            "zhCN": "Peerless Strategy"
+        },
+		{
+            "Key": "HomebrewArchtypes_BardArchetypeStrategistPeerlessStrategyDesc", 
+            "zhCN": "Once learned, this ability improves the effects of Battle Tactics, increasing the minimum damage modifier to +4 and granting all allies a +1 bonus to casting speed. Additionally, allies with backstab modifiers are able to backstab targets from any direction while under the effect of Battle Tactics."
+        },
+		{
+            "Key": "HomebrewArchtypes_BardArchetypeStrategistTacticalAcumenName", 
+            "zhCN": "Tactical Acumen"
+        },
+		{
+            "Key": "HomebrewArchtypes_BardArchetypeStrategistTacticalAcumenDesc", 
+            "zhCN": "Using this ability, the strategist maximizes their efficiency in forming and executing field tactics, gaining Aura Cleansing for the next two rounds. However, after the duration has expired, the strategist is unable to attack, cast spells, use items or abilities, or use Battle Tactics for another two rounds."
+        },
+		{
+            "Key": "HomebrewArchtypes_BardArchetypeStrategistProficienciesName", 
+            "zhCN": "策士擅长"
+        },
+		{
+            "Key": "HomebrewArchtypes_BardArchetypeStrategistProficienciesDesc", 
+            "zhCN": "策士擅长使用所有{g|Encyclopedia:Weapon_Proficiency}简易武器{/g}和军用武器。策士可以在装备轻型盔甲和盾牌时施放吟游诗人{g|Encyclopedia:Spell}法术{/g}，且不会承受{g|Encyclopedia:Spell_Fail_Chance}奥术失败率{/g}。与其他奥术施法者一样，策士在穿戴中型或重型盔甲时会承受正常的奥术失败率。兼职策士在施放来自其他职业的奥术时依然会承受正常的奥术失败率。"
+        },
+		{
+            "Key": "HomebrewArchtypes_BardArchetypeDancerName", 
+            "zhCN": "舞者"
+        },
+		{
+            "Key": "HomebrewArchtypes_BardArchetypeDancerDesc", 
+            "zhCN": "舞者是一名表演者和杂技演员，在投身战斗时又会变成一个出人意料的危险战士。他们强调速度与敏捷，以此迷惑和扰乱对手，同时激励盟友以更大的信心战斗。"
+        },
+		{
+            "Key": "HomebrewArchtypes_BardArchetypeDancerNOACName", 
+            "zhCN": "AC加值"
+        },
+		{
+            "Key": "HomebrewArchtypes_BardArchetypeDancerNOACDesc", 
+            "zhCN": "未穿戴防具且未过度负重时，舞者在AC和CMD上获得+2 {g|Encyclopedia:Bonus}加值{/g}。该加值之后每2舞者等级增加1，最大在20级达到+11。舞者面对{g|Encyclopedia:TouchAttack}接触攻击{/g}或陷入{g|Encyclopedia:Flat_Footed}措手不及{/g}状态时，防御等级同样可获得上述加值。舞者丧失行动能力、陷入{g|Encyclopedia:Helpless}无助{/g}状态、穿戴任何盔甲、使用盾牌、携带中度或重度负载时，将失去上述加值。舞者还会面对远程攻击获得+1闪避{g|Encyclopedia:Bonus}加值{/g}，这个加值每5个舞者等级增加1，最大在20级达到+5."
+        },
+		{
+            "Key": "HomebrewArchtypes_BardArchetypeDancerDanceoftheFloatingLilyName", 
+            "zhCN": "轻莲曼舞"
+        },
+		{
+            "Key": "HomebrewArchtypes_BardArchetypeDancerDanceoftheFloatingLilyDesc", 
+            "zhCN": "1级起，舞者可以表演轻莲曼舞，激励自己和盟友，使得他们免疫恐惧效果，并提升战斗能力。要受到增益效果的影响，盟友必须能够感知到舞者的表演。受到增益的友军在攻击和武器伤害掷骰上获得+1的表现加值。5级时，以及之后每提升6级舞者等级时，这个加值会增加+1，最多在17级时达到+4。此外，在轻莲曼舞影响下的友军每轮会获得额外的一次攻击，而舞者自身的AC会获得+2加值。5级时，以及之后每提升6级舞者等级时，这个加值会增加+2，最多在17级时达到+8。"
+        },
+		{
+            "Key": "HomebrewArchtypes_BardArchetypeDancerAdrenalineRushName", 
+            "zhCN": "怒火激增"
+        },
+		{
+            "Key": "HomebrewArchtypes_BardArchetypeDancerAdrenalineRushDesc", 
+            "zhCN": "舞者将在3轮内暂时获得巨大的力量提升，在1级时，获得+1的攻击与伤害加值，之后每4级再提升1点。舞者还将在1级、8级和15级时，每轮获得一次额外攻击。然而，舞者的AC将降低4点，并且在效果持续结束后，还会在接下来的相同轮数内感到疲劳。此能力从4级开始每天可使用一次，之后每提升4级舞者等级，每天可额外使用1次。"
+        },
+		{
+            "Key": "HomebrewArchtypes_BardArchetypeBladeName", 
+            "zhCN": "Blade"
+        },
+		{
+            "Key": "HomebrewArchtypes_BardArchetypeBladeDesc", 
+            "zhCN": "Blades are master artisans with bladed weapons. Everyone has seen a blade in action at fairs and carnivals. They are the knife throwers who pop balloons while blindfolded and swallow slender sabers such as those used by lawless pirates on the high seas. Blades also perform amazing displays of weapon skill and control as they flash various weapons all about their bodies with deadly precision."
         }
 	]	
