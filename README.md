@@ -4964,7 +4964,7 @@ C:\Users\你的用户名\AppData\LocalLow\Owlcat Games\Pathfinder Wrath Of The R
 ------------------------------------------- 
 ### [Ebon's Content Mod](https://www.nexusmods.com/pathfinderwrathoftherighteous/mods/758?tab=description)
 > *前置：* TabletopTweaks-Core WrathPatches(https://github.com/microsoftenator2022/WrathPatches)<br>
-> *中文：***[QL汉化]正在测试中**<br>
+> *中文：**[QL汉化](QuickLocalization用汉化文本/Localization/EbonsContentMod)**<br>
 > *安装方式：* **UMM**<br>
 > *新增内容：
 <table>
