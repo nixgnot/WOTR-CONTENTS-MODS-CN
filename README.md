@@ -186,6 +186,7 @@
 | [Commander](#Commander) | 神圣圣徒 | QL汉化 | :heavy_check_mark: || :file_folder: |||
 | [WOTRNineSwords](#WOTRNineSwords) | 九剑 | QL汉化 | :heavy_check_mark:  | :+1::+1::+1:| :file_folder:  :file_folder: |||
 | [EarlierMythicLevelUps](#EarlierMythicLevelUps) | 更早的神话等级 |  | :heavy_check_mark:  | :+1::+1::+1:| :file_folder: |🛠️||
+| [Ebon's Content Mod](#Ebon'sContentMod) | Ebon的内容mod |  | :heavy_check_mark:  | :+1::+1::+1:| :file_folder: |🛠️||
 
 备注
 + UMM一栏为是否使用UMM安装
@@ -4963,7 +4964,7 @@ C:\Users\你的用户名\AppData\LocalLow\Owlcat Games\Pathfinder Wrath Of The R
 ------------------------------------------- 
 ### [Ebon's Content Mod](https://www.nexusmods.com/pathfinderwrathoftherighteous/mods/758?tab=description)
 > *前置：* TabletopTweaks-Core WrathPatches(https://github.com/microsoftenator2022/WrathPatches)<br>
-> *中文：***[QL汉化](QuickLocalization用汉化文本/Localization/Nine%20Swords)**<br>
+> *中文：***[QL汉化]正在测试中**<br>
 > *安装方式：* **UMM**<br>
 > *新增内容：
 <table>
@@ -5010,6 +5011,8 @@ C:\Users\你的用户名\AppData\LocalLow\Owlcat Games\Pathfinder Wrath Of The R
   <tr><td rowspan="2">能力修复</i></td>
        <td colspan="2">不谐之音现在对吟游演艺效果范围内所有的盟友生效</td></tr>
        <td colspan="2">奋不顾身现在能正确通过狂暴之歌分享给盟友，但要注意，只要盟友离开歌曲范围并重新进去就会失去这个效果</td></tr>
+  <tr><td rowspan="1">机制修改</i></td>
+       <td colspan="2">多重弹道法术 (地狱烈焰射线、灼热射线等) 按照桌面规则应该能够将弹道分配给不同目标，现在如果当前目标死亡，将会切换到新目标，而不是简单地将所有额外的弹道倾泻到第一个目标的尸体上。 所有桌面规则的目标选取规则都将得到遵守 - 例如，对于地狱火光束来说，任意两个目标之间的距离都不能超过30英尺。</td></tr>
 </table>   
 -------------------------------------------
 
