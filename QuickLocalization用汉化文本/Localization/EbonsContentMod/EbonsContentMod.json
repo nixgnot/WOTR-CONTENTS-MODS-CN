@@ -1,1 +1,3178 @@
+[
+  {
+    "Key": "Example.Name",
+    "ProcessTemplates": false,
+    "enGB": "Name of your Feat/Class/Whatever"
+  },
 
+  {
+    "Key": "Example.Description",
+    "enGB": "Description for your Feat/Class/Whatever"
+  },
+
+  {
+    "Key": "DiscordantVoice.Description",
+    "enGB": "Whenever you are using bardic performance to create a spell-like or supernatural effect, allies within 30 feet of you deal an extra 1d6 points of sonic damage with successful weapon attacks. This damage stacks with other energy damage a weapon might deal. Projectile weapons bestow this extra damage on their ammunition."
+  },
+
+  {
+    "Key": "HungryGhostMonk.Name",
+    "ProcessTemplates": false,
+    "zhCN": "般若僧",
+    "enGB": "Hungry Ghost Monk"
+  },
+
+  {
+    "Key": "HungryGhostMonk.Description",
+    "zhCN": "般若僧将夺取他人元神视为迈向完美的手段，他将天地万物的元神视为某种可以运用的能量。他们蚕食鲸吞，攫取精力成为体内循环不懈的力量，相信这样可以引领他们走向其终极目标：纯粹、单一属于小我的无上力量。",
+    "enGB": "The hungry ghost monk looks to spirits that prey upon the living as models of perfection. He sees the life energy of the universe as a resource to be manipulated, even stealing it from other creatures. It is through this constant influx of energy that the hungry ghost monk reaches his ultimate goal: power ?personal, pure, and simple."
+  },
+
+  {
+    "Key": "HungryGhostAbilitiesGroup.Name",
+    "ProcessTemplates": false,
+    "zhCN": "般若僧能力",
+    "enGB": "Hungry Ghost Monk Abilities"
+  },
+
+  {
+    "Key": "HungryGhostAbilitiesGroup.Description",
+    "zhCN": "般若僧可以汲取受害者的真气或精气，但不能兼而有之。",
+    "enGB": "The Hungry Ghost Monk may choose to either consume the life or ki of his victims, but never both."
+  },
+
+  {
+    "Key": "HungryGhostMonk.StealKi.Name",
+    "ProcessTemplates": false,
+    "zhCN": "吸星大法",
+    "enGB": "Steal Ki"
+  },
+
+  {
+    "Key": "HungryGhostMonk.StealKi.Description",
+    "zhCN": "5级起，般若僧可以自其他生物身上夺取真气，这种如吸血鬼般的行径在其他僧侣中饱受争议。当武僧在对活物造成重击、或使其生命值降到0以下，他便可以汲取目标的部分真气。只要武僧的气池内至少还有1点气，这项能力就可以恢复1点已经使用的气。此效果不能让般若僧的气池储备超过原本的上限。11级时，每当般若僧成功汲取真气，他便可以立刻对自身患有的疾病进行一次豁免检定，并在该豁免上获得等同感知调整值的加值。即使豁免失败，也不会对般若僧造成任何不利。",
+    "enGB": "At 5th level, a hungry ghost monk can steal ki from other creatures, though this ability is controversial in some circles of monks, who see it as nothing less than a form of vampirism. If the monk scores a confirmed critical hit against a living enemy or reduces a living enemy to 0 or fewer hit points, he can steal some of that creature's ki. This ability replenishes 1 spent ki point to the monk's ki pool, as long as the monk has at least 1 ki point in his pool. He cannot exceed his ki pool's maximum. At 10th level, each time the monk successfully steals ki, he can make an immediate saving throw against one disease he is suffering from. There is no penalty for failing this saving throw. The monk gains a bonus equal to his Wisdom modifier on the saving throw. This ability replaces purity of body."
+  },
+
+  {
+    "Key": "HungryGhostMonk.LifeFunnel.Name",
+    "ProcessTemplates": false,
+    "zhCN": "蚀溃众生",
+    "enGB": "Life Funnel"
+  },
+
+  {
+    "Key": "HungryGhostMonk.LifeFunnel.Description",
+    "zhCN": "6级起，般若僧可以自其他生物身上夺取精气，如果武僧的气池内至少还有1点气。当武僧对活物造成重击，或使其生命值降到0以下，他便可以汲取目标的精气，使他恢复等同般若僧等级的生命值。此效果不能让般若僧的生命值超过原本的上限。和吸星大法一样，大多数僧侣厌恶此法，认为这与亡灵对生者所行之事无异。你不能同时使用吸星大法和蚀溃众生。",
+    "enGB": "At 6th level, a hungry ghost monk can steal a creature抯 life force to replenish his own. If the monk has at least 1 ki point in his ki pool and scores a confirmed critical hit against a living enemy or reduces a living enemy to 0 or fewer hit points, he heals a number of hit points equal to his monk level. As with steal ki, some monks believe that life funnel is an unsavory act, no better than what the undead do to the living. A monk with this ability cannot steal both ki and hit points at the same time. This ability replaces the ki power normally gained at 6th level."
+  },
+
+  {
+    "Key": "HungryGhostMonk.LifeFromAStone.Name",
+    "ProcessTemplates": false,
+    "zhCN": "摧枯拉朽",
+    "enGB": "Life from a Stone"
+  },
+
+  {
+    "Key": "HungryGhostMonk.LifeFromAStone.Description",
+    "zhCN": "10级起，般若僧可以任何目标身上夺取生命及元神，不再限于活物。只要武僧的气池内至少还有1点气，当他在对目标造成重击、或使其生命值降到0以下时，他可以同时使用吸星大法和蚀溃众生。",
+    "enGB": "At 10th level, a hungry ghost monk can steal ki or life force from any creature, not just living creatures. If the monk has at least 1 ki point in his pool, he gains the benefit of life funnel and steal ki when he confirms a critical hit against any creature or reduces any creature to 0 or fewer hit points. This ability replaces the ki power normally gained at 10th level."
+  },
+
+  {
+    "Key": "HungryGhostMonk.SippingDemon.Name",
+    "ProcessTemplates": false,
+    "zhCN": "嗜血罗刹",
+    "enGB": "Sipping Demon"
+  },
+
+  {
+    "Key": "HungryGhostMonk.SippingDemon.Description",
+    "zhCN": "12级起，只要气池内至少还有1点气，每当般若僧以近战攻击击中敌人，他都能获得1点临时生命值。而当他成功造成重击，都会得到等于感知修正的临时生命值，上限等于其般若僧等级。临时生命值维持1小时。多数善良武僧将这种功夫视为走火入魔者的腐败妖术。",
+    "enGB": "A 12th level, a hungry ghost monk gains 1 temporary hit point each time he hits an enemy with a melee attack. The monk gains a number of temporary hit points equal to his Wisdom modifier when he scores a critical hit. The maximum number of temporary hit points the monk can have is equal to his monk level. The temporary hit points disappear 1 hour later. The monk can only use this ability when he has at least 1 ki point in his ki pool. This ability is a proscribed manipulation of ki considered by many good monks to be a corruption. This ability replaces the ki power normally gained at 12th level."
+  },
+
+  {
+    "Key": "BaneOfSpirit.Description",
+    "zhCN": "你将一部分灵魂与这枚戒指绑定。你在抵抗影响心智、情绪、困惑、恐惧、{g|Encyclopedia:Injury_Death}即死{/g}和胁迫效应的{g|Encyclopedia:Saving_Throw}豁免检定{/g}上获得+4{g|Encyclopedia:Bonus}加值{/g}，但对毒素、元素、麻痹和移动受限效应的豁免承受-2{g|Encyclopedia:Penalty}减值{/g}。你能够以{g|Encyclopedia:Swift_Action}迅捷动作{/g}让自己失去等于等级一半的{g|Encyclopedia:HP}生命值{/g}，在1{g|Encyclopedia:Combat_Round}轮{/g}内为目标生物的{g|Encyclopedia:Attack}攻击检定{/g}提供+2加值，并将其{g|Encyclopedia:Damage_Type}伤害类型{/g}转变为力场。",
+    "enGB": "You bound a part of your soul to the ring. You gain a +4 bonus to saving throws against mind-affecting effects, emotions, confusion, fear, death, and compulsion effects, but a -2 penalty to saves against poison, elemental, paralyzing and movement impairing effects. As a free action, you can lose HP equal to half your level to grant target creature a +2 bonus to attack rolls, and transform their weapon's damage type into force, for 1 round."
+  },
+
+  {
+    "Key": "ArcanistOppositionResearch.Name",
+    "ProcessTemplates": false,
+    "zhCN": "奥能师 对立研究",
+    "enGB": "Arcanist Opposition Research"
+  },
+
+  {
+    "Key": "ArcanistOppositionResearch.Description",
+    "zhCN": "选择一种法师的对立学派，准备这个学派的法术现在只需要1个相应等级的法术位取代原先所需的2个。",
+    "enGB": "Select one opposition school; preparing spells of this school now only requires one spell slot of the appropriate level instead of two."
+  },
+
+  {
+    "Key": "FaithMagic.Name",
+    "ProcessTemplates": false,
+    "zhCN": "信念魔法",
+    "enGB": "Faith Magic"
+  },
+
+  {
+    "Key": "FaithMagic.Description",
+    "zhCN": "选择一个由你所崇拜的神祇的领域所赋予的法术。该法术必须比你能够施展的最高法师法术等级低至少2级。你将此法术添加到你的法术列表中，其等级会比原本高出1级。",
+    "enGB": "Select one spell granted by a domain belonging to the god you worship. This spell must be at least 2 levels lower than the highest-level arcanist spell you can cast. You can prepare this spell using a spell slot 1 level higher than the spell's actual level."
+  },
+
+  {
+    "Key": "FlamboyantArcana.Name",
+    "ProcessTemplates": false,
+    "zhCN": "华丽奥能",
+    "enGB": "Flamboyant Arcana"
+  },
+
+  {
+    "Key": "FlamboyantArcana.Description",
+    "zhCN": "魔战士获得游荡剑客炫技列表中的大胆特技和适时格挡反击炫技。魔战士只能使用他的奥法能量池（不能使用时髦值）来满足他从这个奥秘中所获得的炫技或“奥能炫技”获得的炫技的消耗，他不能用奥法点数来通过使用别的职业或专长获得的炫技，也不能使用游荡剑客恢复时髦点的方法恢复奥法能量池中的奥法点数。\n增加勇毅和时髦值的数量，或减少勇毅和时髦值的消耗，或其他影响勇毅和时髦值的效果不会因为魔战士选择该奥秘而影响魔战士的奥法能量池。\n大胆特技（Ex）：1级时，魔战士可以在她进行特技动作、攀爬、逃脱术、飞行、骑术和游泳检定时花费1点奥法点数来投一个D6并将结果加到检定结果上。她必须在进行检定之前使用这个能力。如果这次D6投出了自然6，她能再投掷一个D6并将结果也加入检定结果。魔战士最多能通过投出自然6继续投骰的次数等于她的敏捷调整值（至少1次）。\n适时格挡反击（Ex）：1级时，当一名敌人向魔战士发动近战攻击时，她可以花费1点奥法点数并使用一次借机攻击的次数来尝试格挡这次攻击。魔战士就如同进行一次借机攻击一般做一次攻击检定。如果她的攻击高于对方的攻击，则这次攻击自动失手。发动攻击的生物每比游荡剑客大一个体形，魔战士在这次攻击中都会承受-2的罚值。在魔战士进行了一次成功的格挡后，只要她还有至少1点时髦值，并且那个生物在她的触及范围之内，就可以对被她阻挡了攻击的敌人发动一次借机攻击。",
+    "enGB": "A magus gains the derring-do and opportune parry and riposte deeds from the swashbuckler's list of deeds. \nThe magus can spend only points from his arcane pool (not panache points) to use these deeds and any other deeds he gains from the deed arcana. He can抰 use points from his arcane pool to use deeds from other classes or those gained by feats, nor can he regain points to his arcane pool as a swashbuckler would regain panache points. \nEffects that add to, reduce the cost of, or otherwise affect panache or grit don't affect the arcane pool of a magus with this arcana. \nDerring-Do (Ex): At 1st level, a magus can spend 1 arcane pool point when she makes an Acrobatics, Climb, Escape Artist, Fly, Ride, or Swim check to roll 1d6 and add the result to the check. She can do this after she makes the check but before the result is revealed. If the result of the d6 roll is a natural 6, she rolls another 1d6 and adds it to the check. She can continue to do this as long as she rolls natural 6s, up to a number of times equal to her Dexterity modifier (minimum 1). \nOpportune Parry and Riposte (Ex): At 1st level, when an opponent makes a melee attack against the magus, she can spend 1 arcane pool point to attempt to parry that attack. The magus makes an attack roll as if she were making an attack of opportunity; for each size category the attacking creature is larger than the magus, the magus takes a ? penalty on this roll. If her result is greater than the attacking creature's result, the creature's attack automatically misses. The magus must declare the use of this ability after the creature's attack is announced, but before its attack roll is made. Upon performing a successful parry and if she has at least 1 arcane pool point, the magus can make an attack of opportunity against the creature whose attack she parried, provided that creature is within her reach."
+  },
+
+  {
+    "Key": "FlamboyantParryAndRiposte.Name",
+    "ProcessTemplates": false,
+    "zhCN": "适时格挡反击",
+    "enGB": "Opportune Parry and Riposte"
+  },
+
+  {
+    "Key": "FlamboyantDerringDo.Name",
+    "ProcessTemplates": false,
+    "zhCN": "大胆特技",
+    "enGB": "Derring-Do"
+  },
+
+  {
+    "Key": "EldritchScrapper.Name",
+    "ProcessTemplates": false,
+    "zhCN": "魔能武师",
+    "enGB": "Eldritch Scrapper"
+  },
+
+  {
+    "Key": "EldritchScrapper.Description",
+    "zhCN": "魔能武师总是渴望着战斗，希望以此来证明自己和其他斗士一样强大。魔能武师会用身经百战的技巧击溃那些胆敢质疑她们魔法能力之人。身为掌握魔法的水平时常受到质疑的老练术士，魔能武师有着耐打的筋骨和将法术融入武器的战斗风格。",
+    "enGB": "An eldritch scrapper is usually spoiling for a fight, looking to prove that she's just as tough as a martial character. A veteran of many brawls against opponents who were suspicious of her manifesting magic, an eldritch scrapper has a thick skin and a fighting style that blends weapons with spells."
+  },
+
+  {
+    "Key": "EldritchScrapper.EldritchScrapperBonusFeats.Name",
+    "ProcessTemplates": false,
+    "zhCN": "魔能武师奖励专长",
+    "enGB": "Eldritch Scrapper Bonus Feats"
+  },
+
+  {
+    "Key": "EldritchScrapper.EldritchScrapperBonusFeats.Description",
+    "zhCN": "1级起,魔能武师获得一个额外战斗专长，且他将奥术打击和战斗施法视为战斗专长。\n9级和15级时，魔能武师都会获得额外战斗专长。\n该能力取代了术士1级，9级和15级的血承能力",
+    "enGB": "At 1st level, an eldritch scrapper gains a bonus combat feat she qualifies for. The scrapper treats Arcane Strike and Combat Casting as combat feats for the purpose of this ability. \nAt 9th and 15th level, the Eldritch Scrapper gains an additional bonus combat feat. \nThis replaces the sorcerer's bloodline powers gained 1st, 9th, and 15th levels."
+  },
+
+  {
+    "Key": "ArcaneDeed.Name",
+    "ProcessTemplates": false,
+    "zhCN": "奥能炫技",
+    "enGB": "Arcane Deed"
+  },
+
+  {
+    "Key": "ArcaneDeed.Description",
+    "zhCN": "当魔战士选择这个奥秘时，他可以从游荡剑客职业能力中选择任何一个等级等同于他魔战士等级的游荡剑客可用的炫技。他使用该炫技时可用他奥法能量池中的奥法点数作为时髦值来满足炫技的消耗需求。即使他用别的方法获得了时髦池，对于以奥能炫技能力获得的炫技，他也不会被视为至少有一点时髦点存在。在决定该炫技效果时，魔战士的有效游荡剑客等级为0。",
+    "enGB": "When a magus takes this arcana, he can pick any one deed from the swashbuckler class feature as long as that deed can be used by a swashbuckler of his magus level. The magus can use that deed by using points from his arcane pool as the panache points required for that deed. Even if he gains a panache pool through another means, the magus is not considered to have at least 1 point in his panache pool for the purpose of deeds selected with arcane deed, and his effective swashbuckler level for determining such a deed's effect is 0. \nA magus can take this arcana multiple times, each time gaining a new deed."
+  },
+
+  {
+    "Key": "ArcaneDeedDodgingPanache.Name",
+    "ProcessTemplates": false,
+    "zhCN": "闪避派头",
+    "enGB": "Dodging Panache"
+  },
+
+  {
+    "Key": "ArcaneDeedDodgingPanache.Description",
+    "zhCN": "1级时，当一名敌人试图对魔战士发动近战攻击时，她可以花费1点奥法点数移动5尺，这么做会使得魔战士的AC将获得等同于魅力调整值的加值。这次移动并不能使此次攻击无效，就好像魔战士在受到攻击时仍然处在原来的位置，此移动并非5尺快步，因此也会引发除了那个发动攻击的敌人以外的其他敌人的借机攻击。魔战士只能在穿着轻甲或无甲，且负载不超过轻载时使用此炫技。",
+    "enGB": "When an opponent attempts a melee attack against the magus, the magus can spend 1 arcane pool point to move 5 feet; doing so grants the magus a dodge bonus to AC equal to her Charisma modifier (minimum 0) against the triggering attack. This movement doesn't negate the attack, which is still resolved as if the magus had not moved from the original square. This movement is not a 5-foot step; it provokes attacks of opportunity from creatures other than the one who triggered this deed. The magus can only perform this deed while wearing light or no armor, and while carrying no heavier than a light load."
+  },
+
+  {
+    "Key": "ArcaneDeedTargetedStrike.Name",
+    "ProcessTemplates": false,
+    "zhCN": "精确瞄准",
+    "enGB": "Targeted Strike"
+  },
+
+  {
+    "Key": "ArcaneDeedTargetedStrike.Description",
+    "zhCN": "魔战士可以通过一个整轮动作花费1点奥法点数，对目标身体的特定位置进行一次使用轻型或单手穿刺武器的近战攻击，并在攻击命中时获得下列基于该目标肢体部分的对应效果。若某生物并不拥有某项列出的肢体部分，则无法瞄准此肢体。免疫偷袭的生物同样免疫这些效果。并且任意可以防止重击的物品或能力也可以保护生物不受精确瞄准攻击的影响。",
+    "enGB": "As a full-round action, the magus can spend 1 arcane pool point to make an attack with a single light or one-handed piercing melee weapon that cripples part of a foe's body. The magus chooses a part of the body to target. If the attack succeeds, in addition to the attack's normal damage, the target suffers one of the following effects based on the part of the body targeted. If a creature doesn't have one of the listed body locations, that body part cannot be targeted. Creatures that are immune to sneak attacks are also immune to targeted strikes. Items or abilities that protect a creature from critical hits also protect a creature from targeted strikes."
+  },
+
+  {
+    "Key": "ArcaneDeedTSArms.Name",
+    "ProcessTemplates": false,
+    "zhCN": "精确瞄准 - 手臂",
+    "enGB": "Targeted Strike - Arms"
+  },
+
+  {
+    "Key": "ArcaneDeedTSArms.Description",
+    "zhCN": "目标被缴械2轮",
+    "enGB": "The target is disarmed for 2 rounds."
+  },
+
+  {
+    "Key": "ArcaneDeedTSHead.Name",
+    "ProcessTemplates": false,
+    "zhCN": "精确瞄准 - 头部",
+    "enGB": "Targeted Strike - Head"
+  },
+
+  {
+    "Key": "ArcaneDeedTSHead.Description",
+    "zhCN": "目标困惑1轮",
+    "enGB": "The target is confused for 1 round."
+  },
+
+  {
+    "Key": "ArcaneDeedTSLegs.Name",
+    "ProcessTemplates": false,
+    "zhCN": "精确瞄准 - 腿部",
+    "enGB": "Targeted Strike - Legs"
+  },
+
+  {
+    "Key": "ArcaneDeedTSLegs.Description",
+    "zhCN": "目标被击倒",
+    "enGB": "The target is knocked prone."
+  },
+
+  {
+    "Key": "ArcaneDeedTSTorso.Name",
+    "ProcessTemplates": false,
+    "zhCN": "精确瞄准 - 躯干",
+    "enGB": "Targeted Strike - Torso"
+  },
+
+  {
+    "Key": "ArcaneDeedTSTorso.Description",
+    "zhCN": "目标恍惚1轮",
+    "enGB": "The target is staggered for 1 round."
+  },
+
+  {
+    "Key": "ArcaneDeedBleed.Name",
+    "ProcessTemplates": false,
+    "zhCN": "伤口出血",
+    "enGB": "Bleeding Wound"
+  },
+
+  {
+    "Key": "ArcaneDeedBleedAbility.Description",
+    "zhCN": "当魔战士用轻型或单手穿刺类近战武器攻击命中一个活物时，她可以用一个自由动作花费1点奥法点数来令该次攻击造成额外出血伤害。出血伤害值等于魔战士的敏捷调整值。",
+    "enGB": "When the magus hits a living creature with a light or one-handed piercing melee weapon attack, she can spend 1 arcane pool point to have that attack deal additional bleed damage equal to the magus's Dexterity modifier."
+  },
+
+  {
+    "Key": "ArcaneDeedBleedDebuff.Description",
+    "zhCN": "这个生物每回合受到等于魔战士的敏捷调整值的出血伤害。出血可以被任何治疗生命值伤害的效果阻止（即使该出血是属性伤害）。",
+    "enGB": "This creature takes hit point damage equal to the magus's Dexterity modifier each turn. Bleeding can be stopped through the application of any effect that cures hit point damage (even if the bleed is ability damage)."
+  },
+
+  {
+    "Key": "ArcaneDeedSBleed.Name",
+    "ProcessTemplates": false,
+    "zhCN": "伤口出血 - 力量",
+    "enGB": "Bleeding Wound - Strength"
+  },
+
+  {
+    "Key": "ArcaneDeedSBleedAbility.Description",
+    "zhCN": "当魔战士用轻型或单手穿刺类近战武器攻击命中一个活物时，魔战士可以花费2点奥法点数来造成1点力量出血属性伤害。",
+    "enGB": "When the magus hits a living creature with a light or one-handed piercing melee weapon attack, she can spend 2 arcane pool points to have that attack deal 1 point of Strength bleed damage."
+  },
+
+  {
+    "Key": "ArcaneDeedSBleedDebuff.Description",
+    "zhCN": "这个生物每回合受到1力量出血属性伤害。出血可以被任何治疗生命值伤害的效果阻止（即使该出血是属性伤害）。",
+    "enGB": "This creature takes 1 Strength damage each turn. Bleeding can be stopped through the application of any effect that cures hit point damage (even if the bleed is ability damage)."
+  },
+
+  {
+    "Key": "ArcaneDeedDBleed.Name",
+    "ProcessTemplates": false,
+    "zhCN": "伤口出血 - 敏捷",
+    "enGB": "Bleeding Wound - Dexterity"
+  },
+
+  {
+    "Key": "ArcaneDeedDBleedAbility.Description",
+    "zhCN": "当魔战士用轻型或单手穿刺类近战武器攻击命中一个活物时，魔战士可以花费2点奥法点数来造成1点敏捷出血属性伤害。",
+    "enGB": "When the magus hits a living creature with a light or one-handed piercing melee weapon attack, she can spend 2 arcane pool points to have that attack deal 1 point of Dexterity bleed damage."
+  },
+
+  {
+    "Key": "ArcaneDeedDBleedDebuff.Description",
+    "zhCN": "这个生物每回合受到1敏捷出血属性伤害。出血可以被任何治疗生命值伤害的效果阻止（即使该出血是属性伤害）。",
+    "enGB": "This creature takes 1 Dexterity damage each turn. Bleeding can be stopped through the application of any effect that cures hit point damage (even if the bleed is ability damage)."
+  },
+
+  {
+    "Key": "ArcaneDeedCBleed.Name",
+    "ProcessTemplates": false,
+    "zhCN": "伤口出血 - 体质",
+    "enGB": "Bleeding Wound - Constitution"
+  },
+
+  {
+    "Key": "ArcaneDeedCBleedAbility.Description",
+    "zhCN": "当魔战士用轻型或单手穿刺类近战武器攻击命中一个活物时，游荡剑客可以花费2点奥法点数来造成1点体质出血属性伤害。",
+    "enGB": "When the magus hits a living creature with a light or one-handed piercing melee weapon attack, she can spend 2 arcane pool points to have that attack deal 1 point of Constitution bleed damage."
+  },
+
+  {
+    "Key": "ArcaneDeedCBleedDebuff.Description",
+    "zhCN": "这个生物每回合受到1体质出血属性伤害。出血可以被任何治疗生命值伤害的效果阻止（即使该出血是属性伤害）。",
+    "enGB": "This creature takes 1 Constitution damage each turn. Bleeding can be stopped through the application of any effect that cures hit point damage (even if the bleed is ability damage)."
+  },
+
+  {
+    "Key": "ArcaneDeedBWound.Name",
+    "ProcessTemplates": false,
+    "zhCN": "伤口出血",
+    "enGB": "Bleeding Wound"
+  },
+
+  {
+    "Key": "ArcaneDeedBWound.Description",
+    "zhCN": "当魔战士用轻型或单手穿刺类近战武器攻击命中一个活物时，她可以用一个自由动作花费1点奥法点数来令该次攻击造成额外出血伤害。出血伤害值等于游荡剑客的敏捷调整值。或者替代性的，游荡剑客可以花费2点奥法点数来造成1点力量、敏捷或体质值的出血伤害（随游荡剑客选择）。免疫偷袭伤害的生物同样免疫任意类型的出血伤害。",
+    "enGB": "When the magus hits a living creature with a light or one-handed piercing melee weapon attack, as a free action she can spend 1 arcane pool point to have that attack deal additional bleed damage. The amount of bleed damage dealt is equal to the magus's Dexterity modifier (minimum 1). Alternatively, the magus can spend 2 arcane pool points to deal 1 point of Strength, Dexterity, or Constitution bleed damage instead (magus's choice). Creatures that are immune to sneak attacks are also immune to these types of bleed damage."
+  },
+
+  {
+    "Key": "CollegiateInitiate.Name",
+    "ProcessTemplates": false,
+    "zhCN": "玛迦安比恩学士",
+    "enGB": "Collegiate Initiate"
+  },
+
+  {
+    "Key": "CollegiateInitiate.Description",
+    "zhCN": "在玛迦安比恩的魔法学院中，学徒们需要花费数十年的时间同时学习奥术魔法的秘密和学院的建立者，老巫师贾特比的功绩。这种独特的研究，兼备对于神秘传统，深奥知识和善良魔法的共同积累，使得许多毕业的学徒最终选择获得玛迦安比恩秘术师进阶职业。然而还有一些玛迦安比恩的学员意识到在他们古老学校的高墙之外，他们所研究如何去对抗邪恶正在滋生蔓延。许多这些玛迦安比恩学士在结业之前就离开学院投身于与恶势力对抗的事业。",
+    "enGB": "Those particularly gifted in the art of sculpting spells are sometimes schooled privately in the art of traditional, esoteric, and righteous spells, in the hope that such knowledge will pave the way for the initiate's acceptance into the school proper as a collegiate arcanist. \nBut many initiates find themselves overwhelmed by the extensive training and end up leaving before completing their studies. These spellcasters retain many of the techniques and philosophical bents, but are not considered to be graduates of the school. Yet they are still respected and valued, for the staff fully understand that its teachings and the scholastic, often hermetic lifestyle required to master the techniques are not to everyone's tastes. For the teachers, there are no truly failed students save those who abandon their philosophy and succumb to the lure of cruelty and evil."
+  },
+
+  {
+    "Key": "CollegiateInitiate.HalcyonSpellLore.Name",
+    "ProcessTemplates": false,
+    "zhCN": "慈爱学识",
+    "enGB": "Halcyon Spell Lore"
+  },
+
+  {
+    "Key": "CollegiateInitiate.HalcyonSpellLore.Description",
+    "zhCN": "玛迦安比恩学士对于老巫师贾特比所流传的善良魔法的研究可以让他在不经过准备的情况下就施展一些他本身无法学习的法术。在他获得每个职业等级时，玛甘比恩学士都可以选择一个来自德鲁伊法术列表或是来自牧师法术列表且带有善良描述符的法术，这些法术必须属于他可以施放的环级且不能是已经存在于他的奥能师法术列表中的法术。在1级是，玛迦安比恩学士可以像其他奥能师法术一样准备这些法术，但必须花费相当于上述法术环数一半数量的奥能源泉点数（至少为1）来施放这些法术。\n本能力取代奥能师在1级，9级和17级获得的奥能技艺。",
+    "enGB": "At each class level, the Initiate chooses one spell from the druid spell list or one spell with the good descriptor from the cleric spell list. The spell must be of a spell level that she can cast, and cannot be a spell that already appears on her arcanist spell list. A Collegiate Initiate can prepare these spells like any other arcanist spell, but must expend a number of points from her arcane reservoir equal to half the spell's level (minimum 1) to cast the spell. \nThis ability replaces the arcanist exploits gained at 5th, 9th, and 17th levels."
+  },
+
+  {
+    "Key": "Samsaran.Name",
+    "ProcessTemplates": false,
+    "zhCN": "轮回者",
+    "enGB": "Samsaran"
+  },
+
+  {
+    "Key": "Samsaran.Description",
+    "zhCN": "轮回者是谜一般的类人生物，他们有着蓝色的肉身，以及如同涓涓流动的小溪般的透明血液，就算是年轻的轮回者也是古老的生物。轮回者的生命并不是简单地从生到死直线前进，而是一个从生到死然后重生的轮回。只要轮回者死去，他就会重生为一个年轻的轮回者开始一段新的生命。她过去的记忆会变得含糊不清——并且每次重生以后轮回者会变成不同的存在，拥有不同的人格，如同父母和孩子。\n轮回者看上去和人类相似，有着深色的头发和无瞳的白色眼睛。他们的肤色看上去像是阴暗的淡蓝色\n轮回者能够回忆起前世的教训和失败，他们寻求平衡和开悟的生活，以确保他们在死亡后能够重生，继续他们在历史中的跋涉。",
+    "enGB": "Mysterious humanoids with pale blue flesh and transparent blood like the waters of a trickling brook, samsarans are ancient creatures even in their youth. A samsaran's life is not a linear progression from birth to death, but rather a circle of birth to death to rebirth. Whenever a samsaran dies, it reincarnates anew as a young samsaran to live a new life. Her past memories remain vague and indistinct梐nd each new incarnation is as different a creature and personality as a child is to a parent. \nSamsarans appear similar to humans, with dark hair and solid white eyes with no pupils or irises. Skin tones are generally shades of light blue. \nCapable of recalling the lessons and failings of their previous incarnations, the samsarans seek to live lives of balance and enlightenment in order to ensure they are reborn upon death to continue their trek through history."
+  },
+
+  {
+    "Key": "Samsaran.LifeBound.Name",
+    "ProcessTemplates": false,
+    "zhCN": "生命之缚",
+    "enGB": "Lifebound"
+  },
+
+  {
+    "Key": "Samsaran.LifeBound.Description",
+    "zhCN": "轮回者在抵抗即死效果、对抗引导负能量、造成负向等级的效果时，豁免检定时获得+2种族加值。",
+    "enGB": "Samsarans gain a +2 racial bonus on all saving throws made to resist death effects, saving throws against channeled negative energy, and saving throws against abilities that inflict negative levels."
+  },
+
+  {
+    "Key": "Samsaran.ShardsOfThePast.Name",
+    "ProcessTemplates": false,
+    "zhCN": "前世的残片",
+    "enGB": "Shards of the Past"
+  },
+
+  {
+    "Key": "Samsaran.ShardsOfThePast.Description",
+    "zhCN": "轮回者前世的经历使她在两项特定的技能上获得加值。轮回者选择两个技能——她在这两个技能上均会获得+2种族加值，并且无论轮回者是什么职业，都视这些技能为本职技能。",
+    "enGB": " A samsaran's past lives grant her bonuses on two particular skills. A samsaran chooses two skills梥he gains a +2 racial bonus on both of these skills, and they are treated as class skills regardless of what class she actually takes."
+  },
+
+  {
+    "Key": "Samsaran.ShardsOfThePastAthletics.Name",
+    "ProcessTemplates": false,
+    "zhCN": "前世的残片 - 运动",
+    "enGB": "Shards of the Past - Athletics"
+  },
+
+  {
+    "Key": "Samsaran.ShardsOfThePastMobility.Name",
+    "ProcessTemplates": false,
+    "zhCN": "前世的残片 - 灵巧",
+    "enGB": "Shards of the Past - Mobility"
+  },
+  {
+    "Key": "Samsaran.ShardsOfThePastStealth.Name",
+    "ProcessTemplates": false,
+    "zhCN": "前世的残片 - 隐匿",
+    "enGB": "Shards of the Past - Stealth"
+  },
+
+  {
+    "Key": "Samsaran.ShardsOfThePastTrickery.Name",
+    "ProcessTemplates": false,
+    "zhCN": "前世的残片 - 巧手",
+    "enGB": "Shards of the Past - Trickery"
+  },
+
+  {
+    "Key": "Samsaran.ShardsOfThePastArcana.Name",
+    "ProcessTemplates": false,
+    "zhCN": "前世的残片 - 知识（奥秘）",
+    "enGB": "Shards of the Past - Knowledge (Arcana)"
+  },
+
+  {
+    "Key": "Samsaran.ShardsOfThePastWorld.Name",
+    "ProcessTemplates": false,
+    "zhCN": "前世的残片 - 知识（世界）",
+    "enGB": "Shards of the Past - Knowledge (World)"
+  },
+
+  {
+    "Key": "Samsaran.ShardsOfThePastNature.Name",
+    "ProcessTemplates": false,
+    "zhCN": "前世的残片 - 学识（自然）",
+    "enGB": "Shards of the Past - Lore (Nature)"
+  },
+
+  {
+    "Key": "Samsaran.ShardsOfThePastReligion.Name",
+    "ProcessTemplates": false,
+    "zhCN": "前世的残片 - 学识（宗教）",
+    "enGB": "Shards of the Past - Lore (Religion)"
+  },
+
+  {
+    "Key": "Samsaran.ShardsOfThePastPerception.Name",
+    "ProcessTemplates": false,
+    "zhCN": "前世的残片 - 察觉",
+    "enGB": "Shards of the Past - Perception"
+  },
+
+  {
+    "Key": "Samsaran.ShardsOfThePastPersuasion.Name",
+    "ProcessTemplates": false,
+    "zhCN": "前世的残片 - 察觉",
+    "enGB": "Shards of the Past - Persuasion"
+  },
+
+  {
+    "Key": "Samsaran.ShardsOfThePastUMD.Name",
+    "ProcessTemplates": false,
+    "zhCN": "前世的残片 - 使用魔法装置",
+    "enGB": "Shards of the Past - Use Magic Device"
+  },
+
+  {
+    "Key": "Samsaran.MysticPastLife.Name",
+    "ProcessTemplates": false,
+    "zhCN": "前世秘术",
+    "enGB": "Mystic Past Life"
+  },
+
+  {
+    "Key": "Samsaran.MysticPastLife.Description",
+    "zhCN": "你能够将另一个施法职业的法术加入到你当前的施法职业的法术列表中。加入的法术数量等同于1+施法职业关键属性修正（牧师使用感知属性，等等）。这些法术必须与你将要加入的施法职业类型相同（神术或奥术）。比如，你能够将神能加入到你的德鲁伊法术列表中，但是由于神能是神术，所以无法加入到你的法师法术列表中。这些法术并不限于你作为1级人物时能够施放的法术。该能力获得的法术的数量在等级1级时确定。改变你的属性数值并不会改变获得的法术数量。",
+    "enGB": "You can add spells from another spellcasting class to the spell list of your current spellcasting class. You add a number of spells equal to 1 + your spellcasting class's key ability score bonus (Wisdom for clerics, and so on). The spells must be the same type (arcane or divine) as the spellcasting class you're adding them to. For example, you could add divine power to your druid class spell list, but not to your wizard class spell list because divine power is a divine spell. These spells do not have to be spells you can cast as a 1st-level character. The number of spells granted by this ability is set at 1st level. Changes to your ability score do not change the number of spells gained."
+  },
+
+  {
+    "Key": "Samsaran.MysticPastLifeBard.Name",
+    "ProcessTemplates": false,
+    "zhCN": "前世秘术 - 诗人",
+    "enGB": "Mystic Past Life - Bard"
+  },
+
+  {
+    "Key": "Samsaran.MysticPastLifeBloodrager.Name",
+    "ProcessTemplates": false,
+    "zhCN": "前世秘术 - 血脉狂怒者",
+    "enGB": "Mystic Past Life - Bloodrager"
+  },
+
+  {
+    "Key": "Samsaran.MysticPastLifeCleric.Name",
+    "ProcessTemplates": false,
+    "zhCN": "前世秘术 - 牧师",
+    "enGB": "Mystic Past Life - Cleric"
+  },
+
+  {
+    "Key": "Samsaran.MysticPastLifeDruid.Name",
+    "ProcessTemplates": false,
+    "zhCN": "前世秘术 - 德鲁伊",
+    "enGB": "Mystic Past Life - Druid"
+  },
+
+  {
+    "Key": "Samsaran.MysticPastLifeHunter.Name",
+    "ProcessTemplates": false,
+    "zhCN": "前世秘术 - 猎人",
+    "enGB": "Mystic Past Life - Hunter"
+  },
+
+  {
+    "Key": "Samsaran.MysticPastLifeInquisitor.Name",
+    "ProcessTemplates": false,
+    "zhCN": "前世秘术 - 审判者",
+    "enGB": "Mystic Past Life - Inquisitor"
+  },
+
+  {
+    "Key": "Samsaran.MysticPastLifeMagus.Name",
+    "ProcessTemplates": false,
+    "zhCN": "前世秘术 - 魔战士",
+    "enGB": "Mystic Past Life - Magus"
+  },
+
+  {
+    "Key": "Samsaran.MysticPastLifePaladin.Name",
+    "ProcessTemplates": false,
+    "zhCN": "前世秘术 - 圣武士",
+    "enGB": "Mystic Past Life - Paladin"
+  },
+
+  {
+    "Key": "Samsaran.MysticPastLifeRanger.Name",
+    "ProcessTemplates": false,
+    "zhCN": "前世秘术 - 游侠",
+    "enGB": "Mystic Past Life - Ranger"
+  },
+
+  {
+    "Key": "Samsaran.MysticPastLifeShaman.Name",
+    "ProcessTemplates": false,
+    "zhCN": "前世秘术 - 萨满",
+    "enGB": "Mystic Past Life - Shaman"
+  },
+
+  {
+    "Key": "Samsaran.MysticPastLifeWarpriest.Name",
+    "ProcessTemplates": false,
+    "zhCN": "前世秘术 - 战斗祭司",
+    "enGB": "Mystic Past Life - Warpriest"
+  },
+
+  {
+    "Key": "Samsaran.MysticPastLifeWitch.Name",
+    "ProcessTemplates": false,
+    "zhCN": "前世秘术 - 巫师",
+    "enGB": "Mystic Past Life - Witch"
+  },
+
+  {
+    "Key": "Samsaran.MysticPastLifeWizard.Name",
+    "ProcessTemplates": false,
+    "zhCN": "前世秘术 - 法师",
+    "enGB": "Mystic Past Life - Wizard"
+  },
+
+  {
+    "Key": "Samsaran.SamsaranMagic.Name",
+    "ProcessTemplates": false,
+    "zhCN": "轮回者魔法",
+    "enGB": "Samsaran Magic"
+  },
+
+  {
+    "Key": "Samsaran.SamsaranMagic.Description",
+    "zhCN": "每天一次，轮回者可以以类法术能力释放治疗轻伤。",
+    "enGB": "Once per day, a Samsaran can cast Cure Light Wounds as a spell-like ability"
+  },
+
+  {
+    "Key": "Samsaran.RacialHeritage.Name",
+    "ProcessTemplates": false,
+    "zhCN": "种族传承",
+    "enGB": "Racial Heritage"
+  },
+
+  {
+    "Key": "Samsaran.RacialHeritage.Description",
+    "zhCN": "各种各样的地点和生活条件造成了与同胞有所区别的亚种。他们获得独特的{g|Encyclopedia:Trait}种族特性{/g}，并失去某些常见的特性。",
+    "enGB": "Various places and living conditions create sub-races differing from their peers. They gain unique racial in exchange for losing some of the usual ones."
+  },
+
+  {
+    "Key": "OrcSorcererBloodline.Name",
+    "ProcessTemplates": false,
+    "zhCN": "兽人血承",
+    "enGB": "Orc Bloodline"
+  },
+
+  {
+    "Key": "OrcSorcererBloodline.Description",
+    "zhCN": "先祖之怒在你心中燃烧不止，来自野蛮兽人之血的污染在你的血管中奔流不息。你的狂怒绝不会蛰伏，它让你的身躯强大无比，并指引你去寻求更强的力量。",
+    "enGB": "The rage of your ancestors burns within you, and the taint of savage orc blood flows through your veins. Your anger is never far from the surface, giving you strength and driving you to seek greater power."
+  },
+
+  {
+    "Key": "OrcSorcererBloodlineArcana.Name",
+    "ProcessTemplates": false,
+    "zhCN": "兽人血承奥法",
+    "enGB": "Orc Bloodline Arcana"
+  },
+
+  {
+    "Key": "OrcSorcererBloodlineArcana.Description",
+    "zhCN": "你获得敏锐感官和强光敏感，且当你施放造成伤害的法术时，该法术的每个伤害骰检定结果额外造成1点伤害。9级起，你失去强光敏感。",
+    "enGB": "You gain Keen Senses and Light Sensitivity. Whenever you cast a spell that deals damage, that spell deals +1 point of damage per die rolled. At 9th level, you lose your light sensitivity."
+  },
+
+  {
+    "Key": "OrcSorcererBloodlineRequisiteFeature.Name",
+    "ProcessTemplates": false,
+    "zhCN": "兽人血承",
+    "enGB": "Orc Bloodline"
+  },
+
+  {
+    "Key": "OrcSorcererBloodlineRequisiteFeature.Description",
+    "zhCN": "兽人血承前置要求",
+    "enGB": "Orc Bloodline Requisite Feature"
+  },
+
+  {
+    "Key": "OrcSorcererBloodlineTouchOfRage.Name",
+    "ProcessTemplates": false,
+    "zhCN": "狂暴之触",
+    "enGB": "Touch of Rage"
+  },
+
+  {
+    "Key": "OrcSorcererBloodlineTouchOfRage.Description",
+    "zhCN": "1级起，你可以以一个标准动作触摸一个生物，使其在攻击、伤害和豁免检定上获得士气加值，加值等于你的术士等级一半，每天你可以使用此能力的次数等于3+魅力调整值。",
+    "enGB": "At 1st level, you can touch a creature as a standard action, giving it a morale bonus on attack rolls, damage rolls, and Will saving throws equal to 1/2 your sorcerer level (minimum 1) for 1 round. You can use this ability a number of times per day equal to 3 + your Charisma modifier."
+  },
+
+  {
+    "Key": "OrcSorcererBloodlineFearless.Name",
+    "ProcessTemplates": false,
+    "zhCN": "无所畏惧",
+    "enGB": "Fearless"
+  },
+
+  {
+    "Key": "OrcSorcererBloodlineFearless.Description",
+    "zhCN": "3级起,你在对抗恐惧的豁免检定中获得+4加值，并获得+1天生防御加值。9级起，你获得对恐惧的免疫，并且你的天生防御加值增加到+2。",
+    "enGB": "At 3rd level, you gain a +4 bonus on saving throws made against fear and a +1 natural armor bonus. At 9th level, you gain immunity to fear and your natural armor bonus increases to +2."
+  },
+
+  {
+    "Key": "OrcSorcererBloodlineStrengthOfTheBeast.Name",
+    "ProcessTemplates": false,
+    "zhCN": "野兽之壮",
+    "enGB": "Strength of the Beast"
+  },
+
+  {
+    "Key": "OrcSorcererBloodlineStrengthOfTheBeast.Description",
+    "zhCN": "9级起，你在力量上获得+2天赋加值。此加值在13级增加到+4，17级+6。",
+    "enGB": "At 9th level, you gain a +2 inherent bonus to your Strength. This bonus increases to +4 at 13th level, and to +6 at 17th level."
+  },
+
+  {
+    "Key": "OrcSorcererBloodlinePowerOfGiants.Name",
+    "ProcessTemplates": false,
+    "zhCN": "巨人之力",
+    "enGB": "Power of Giants"
+  },
+
+  {
+    "Key": "OrcSorcererBloodlinePowerOfGiants.Description",
+    "zhCN": "15级起，你可以以个标准动作使体型增长为大型。在此形态下，你的力量获得+6体型加值，敏捷承受-2体型减值，体质获得+4加值和+4天生防御加值。你每天可以保持此形态分钟数等于角色等级。这段持续时间在使用时必须以1分钟为单位，但无需连续。",
+    "enGB": "At 15th level, you may grow to Large size as a standard action. At this size you gain a +6 size bonus to Strength, a ? penalty to Dexterity, a +4 size bonus to Constitution, and a +4 natural armor bonus. You may return to your normal size as a standard action. You may remain in this size for up to 1 minute per character level per day; this duration does not need to be consecutive, but it must be used in 1 minute increments."
+  },
+
+  {
+    "Key": "OrcSorcererBloodlineWarlordReborn.Name",
+    "ProcessTemplates": false,
+    "zhCN": "军座归来",
+    "enGB": "Warlord Reborn"
+  },
+
+  {
+    "Key": "OrcSorcererBloodlineWarlordReborn.Description",
+    "zhCN": "20级起，你成为了真正的传奇兽人军阀。你获得对火焰免疫和DR 5/- 每天一次，你可以使用你的术士等级作为施法者等级，以类法术能力施展战法转换。",
+    "enGB": "At 20th level, you become a true orc warlord of legend. You gain immunity to fire and DR 5/? Once per day, you can cast transformation as a spell-like ability using your sorcerer level as your caster level."
+  },
+
+  {
+    "Key": "OrcSorcererBloodlineFeats.Name",
+    "ProcessTemplates": false,
+    "zhCN": "血承专长选择",
+    "enGB": "Bloodline Feat Selection"
+  },
+
+  {
+    "Key": "OrcSorcererBloodlineFeats.Description",
+    "zhCN": "达到7级时，以及之后每升6级，术士都会获得1个额外{g|Encyclopedia:Feat}专长{/g}，从各血承对应的专长列表中选择。角色必须满足额外专长的先决条件。\n兽人血承额外专长：顽强、坚韧、顽石强韧、威逼、猛力攻击、健壮、超魔（法术强效）。",
+    "enGB": "At 7th level, and every six levels thereafter, a sorcerer receives one bonus feat, chosen from a list specific to each bloodline. The sorcerer must meet the prerequisites for these bonus feats. \nBonus Feats: Diehard, Endurance, Great Fortitude. Intimidating Prowess, Power Attack, Toughness, and Metamagic (Empower Spell)."
+  },
+
+  {
+    "Key": "OrcSorcererBloodlineSpells.Description",
+    "zhCN": "达到3级时，以及之后每升2级，术士都可以额外学习一个来自于血承的法术。该法术不计入新等级赋予的法术数量。",
+    "enGB": "At 3rd level, and every two levels thereafter, a sorcerer learns an additional spell, derived from her bloodline."
+  },
+
+  {
+    "Key": "OrcSorcererBloodlineClassSkill.Name",
+    "ProcessTemplates": false,
+    "zhCN": "职业技能 - 学识（自然）",
+    "enGB": "Class Skill - Lore (Nature)"
+  },
+
+  {
+    "Key": "OrcSorcererBloodlineClassSkill.Description",
+    "zhCN": "兽人血承的额外职业技能",
+    "enGB": "Additional class skill from the orc bloodline."
+  },
+
+  {
+    "Key": "LightSensitivity.Name",
+    "ProcessTemplates": false,
+    "zhCN": "强光敏感",
+    "enGB": "Light Sensitivity"
+  },
+
+  {
+    "Key": "LightSensitivity.Description",
+    "zhCN": "对强光敏感的生物在强光区域就将保持目眩状态。",
+    "enGB": "Creatures with light sensitivity are dazzled in areas of bright light."
+  },
+
+  {
+    "Key": "LightSensitivityImmunity.Name",
+    "ProcessTemplates": false,
+    "zhCN": "强光敏感免疫",
+    "enGB": "Light Sensitivity Immunity"
+  },
+
+  {
+    "Key": "LightSensitivityImmunity.Description",
+    "zhCN": "此生物在强光区域不再保持目眩状态。",
+    "enGB": "This creature is no longer dazzled in areas of bright light."
+  },
+
+  {
+    "Key": "Svirfneblin.Name",
+    "ProcessTemplates": false,
+    "zhCN": "地底侏儒",
+    "enGB": "Svirfneblin"
+  },
+
+  {
+    "Key": "Svirfneblin.Description",
+    "zhCN": "在幽深的地下，地底侏儒保护着他们的领土，尽可能使得他们小小的社会不受幽暗地域的威胁。由于这些严肃的灰皮肤侏儒选择了居住在暗影之中，使自己的庭院免受地上世界愚蠢生物的侵犯，这让他们与生活在地面的表亲产生了不小的差异。",
+    "enGB": "In the dark below earth, svirfneblin protect their enclaves, keeping their small communities safe from the terrors of the lightless depths. Serious creatures with slate-gray skin, these gnomes vary greatly from their surface cousins by choosing to live in the shadowy depths and protect the world above from the foul creatures sharing their chambers, vaults, and tunnels."
+  },
+
+  {
+    "Key": "Svirfneblin.DefensiveTraining.Name",
+    "ProcessTemplates": false,
+    "zhCN": "防御训练",
+    "enGB": "Defensive Training"
+  },
+
+  {
+    "Key": "Svirfneblin.DefensiveTraining.Description",
+    "zhCN": "地底侏儒的防御等级获得+2闪避加值。",
+    "enGB": "Svirfneblin gain a +2 dodge bonus to Armor Class."
+  },
+
+  {
+    "Key": "Svirfneblin.Fortunate.Name",
+    "ProcessTemplates": false,
+    "zhCN": "好运",
+    "enGB": "Fortunate"
+  },
+
+  {
+    "Key": "Svirfneblin.Fortunate.Description",
+    "zhCN": "地底侏儒的所有豁免检定均获得+2种族加值。",
+    "enGB": "Svirfneblin gain a +2 racial bonus on all saving throws."
+  },
+
+  {
+    "Key": "Svirfneblin.SpellResistance.Name",
+    "ProcessTemplates": false,
+    "zhCN": "法术抗力",
+    "enGB": "Spell Resistance"
+  },
+
+  {
+    "Key": "Svirfneblin.SpellResistance.Description",
+    "zhCN": "地底侏儒拥有等同于11+角色等级的法术抗力。",
+    "enGB": "Svirfneblin have spell resistance equal to 11 + their character level."
+  },
+
+  {
+    "Key": "Svirfneblin.Skilled.Name",
+    "ProcessTemplates": false,
+    "zhCN": "技能奖励",
+    "enGB": "Skills"
+  },
+
+  {
+    "Key": "Svirfneblin.Skilled.Description",
+    "zhCN": "地底侏儒在进行隐匿检定和察觉检定时获得+2种族加值。",
+    "enGB": "Svirfneblin gain a +2 racial bonus on Stealth and Perception checks."
+  },
+
+  {
+    "Key": "Svirfneblin.SvirfneblinMagic.Name",
+    "ProcessTemplates": false,
+    "zhCN": "地底侏儒魔力",
+    "enGB": "Svirfneblin Magic"
+  },
+
+  {
+    "Key": "Svirfneblin.SvirfneblinMagic.Description",
+    "zhCN": "任何由地底侏儒所施放的幻术学派法术的豁免检定DC都会+1，且地底侏儒还获得每日可施放1次的类法术能力：目盲术、朦胧术。",
+    "enGB": "Svirfneblin add +1 to the DC of any illusion spells they cast. Svirfneblin also gain the following spell-like abilities: 1/day梑lindness, blur; caster level equals the svirfneblin's character level."
+  },
+
+  {
+    "Key": "Svirfneblin.Hatred.Name",
+    "ProcessTemplates": false,
+    "zhCN": "世代血仇",
+    "enGB": "Hatred"
+  },
+
+  {
+    "Key": "Svirfneblin.Hatred.Description",
+    "zhCN": "在对抗属于爬虫和矮人子类别的类人生物时，地底侏儒的攻击检定会获得+1加值，这得益于他们为应对这些痛恨的死敌而进行的特殊训练。",
+    "enGB": "Svirfneblin receive a +1 bonus on attack rolls against humanoid creatures of the reptilian and dwarf subtypes due to training against these hated foes."
+  },
+
+  {
+    "Key": "Duergar.Name",
+    "ProcessTemplates": false,
+    "zhCN": "灰矮人",
+    "enGB": "Duergar"
+  },
+
+  {
+    "Key": "Duergar.Description",
+    "zhCN": "灰矮人居住在距离光明遥不可及的深幽的地下岩洞中。他们憎恨着所有沐浴着阳光的种族，但这种憎恨在他们对他们的地表矮人表亲的仇视中黯然失色。矮人和灰矮人曾经是同一种族，但矮人们最终从山脉要塞的地下离开。灰矮人将自己视为矮人族裔的正统，并认为自己理所当然应当统治整个地底。在外貌上，灰矮人看上去就像是灰皮肤的矮人，但只有胡须没有头发，他们还有着冷漠的发光双瞳。他们喜爱在战场上获得俘虏而非肆意屠杀，但在战场上遇到地表的矮人则会毫无怜悯地进行杀戮。灰矮人认为生命就是在死前劳累一生。尽管很少获得邪恶和残酷以外的评价，灰矮人仍然注重荣誉并且很少违背诺言。",
+    "enGB": "Duergar dwell in subterranean caverns far from the touch of light. They detest all races living beneath the sun, but that hatred pales beside their loathing of their surface-dwarf cousins. Dwarves and duergar once were one race, but the dwarves left the deeps for their mountain strongholds. Duergar still consider themselves the only true dwarves, and the rightful heirs of all beneath the world's surface. In appearance, duergar resemble gray-skinned dwarves, bearded but bald, with cold, lightless eyes. They favor taking captives in battle over wanton slaughter, save for surface dwarves, who are slain without hesitation. Duergar view life as ceaseless toil ended only by death. Though few can be described as anything other than vile and cruel, duergar still value honor and rarely break their word."
+  },
+
+  {
+    "Key": "Duergar.DuergarImmunities.Name",
+    "ProcessTemplates": false,
+    "zhCN": "灰矮人免疫",
+    "enGB": "Duergar Immunities"
+  },
+
+  {
+    "Key": "Duergar.DuergarImmunities.Description",
+    "zhCN": "灰矮人免疫麻痹和毒药效应，并且在对抗法术和类法术能力时，他们的豁免检定会获得+2种族加值。",
+    "enGB": "Duergar are immune to paralysis and poison. They gain a +2 racial bonus on saves against spells and spell-like abilities."
+  },
+
+  {
+    "Key": "Duergar.EnlargePerson.Name",
+    "ProcessTemplates": false,
+    "zhCN": "变巨术",
+    "enGB": "Enlarge Person"
+  },
+
+  {
+    "Key": "Duergar.EnlargePerson.Description",
+    "zhCN": "一位灰矮人每日可释放一次隐形术，以角色等级作为施法者等级，此效果仅可影响他自身。",
+    "enGB": "A duergar can use enlarge person once per day, using its character level as its caster level and affecting itself only."
+  },
+
+  {
+    "Key": "Duergar.Invisibility.Name",
+    "ProcessTemplates": false,
+    "zhCN": "隐形术",
+    "enGB": "Invisibility"
+  },
+
+  {
+    "Key": "Duergar.Invisibility.Description",
+    "zhCN": "一位灰矮人每日可释放一次隐形术，以角色等级作为施法者等级，此效果仅可影响他自身。",
+    "enGB": "A duergar can use invisibility once per day, using its character level as its caster level and affecting itself only."
+  },
+
+  {
+    "Key": "Sylph.Name",
+    "ProcessTemplates": false,
+    "zhCN": "风巨灵裔",
+    "enGB": "Sylph"
+  },
+
+  {
+    "Key": "Sylph.Description",
+    "zhCN": "作为人类和巨灵之类气元素的后代，风巨灵裔极具好奇心却又害羞腼腆。风巨灵裔融入人潮、脚步轻巧，从不被谁注意到，悄悄地侧耳倾听周遭人群的声音。她们将这种习惯称为“倾听流风”，对一些风巨灵裔而言已是呼吸般自然之举。风巨灵裔依靠灵活机智和听风得来的情报回避危险。",
+    "enGB": "Born from the descendants of humans and beings of elemental air such as djinn, sylphs are a shy and reclusive race consumed by intense curiosity. Sylphs spend their lives blending into the crowd, remaining unnoticed as they spy and eavesdrop on the people around them. They call this hobby \"listening to the wind,\" and for many sylphs it becomes an obsession. Sylphs rely on their capable, calculating intellects and on knowledge gleaned from eavesdropping to deliver them from danger."
+  },
+
+  {
+    "Key": "Sylph.EnergyResistance.Name",
+    "ProcessTemplates": false,
+    "zhCN": "能量抗性",
+    "enGB": "Energy Resistance"
+  },
+
+  {
+    "Key": "Sylph.EnergyResistance.Description",
+    "zhCN": "风巨灵裔拥有5点电击抗性",
+    "enGB": "Sylphs have electricity resistance 5."
+  },
+
+  {
+    "Key": "Sylph.FeatherStep.Name",
+    "ProcessTemplates": false,
+    "zhCN": "类法术能力",
+    "enGB": "Spell-Like Ability"
+  },
+
+  {
+    "Key": "Sylph.FeatherStep.Description",
+    "zhCN": "风巨灵裔每天可施放一次法术“轻羽步”。",
+    "enGB": "Sylphs can use feather step 1/day (caster level equals the sylph's total level)."
+  },
+
+  {
+    "Key": "Sylph.AirAffinity.Name",
+    "ProcessTemplates": false,
+    "zhCN": "大气亲和",
+    "enGB": "Air Affinity"
+  },
+
+  {
+    "Key": "Sylph.AirAffinity.Description",
+    "zhCN": "风巨灵裔施放的具有描述标识“电”的法术豁免检定难度等级（DC）和施法者等级提高1点。",
+    "enGB": "Sylph spellcasters receive a +1 racial bonus to caster level and saving throw DC when they cast any spell with the Electricity descriptor."
+  },
+
+  {
+    "Key": "Sylph.ElementalHeritage.Name",
+    "ProcessTemplates": false,
+    "zhCN": "元素血统",
+    "enGB": "Elemental Heritage"
+  },
+
+  {
+    "Key": "Sylph.ElementalHeritage.Description",
+    "zhCN": "巨灵裔的血统可追溯至各种元素位面的居民。尽管他们的祖先通常是巨灵，但也有可能是任何元素生物。不仅如此，即使祖先当中只有巨灵的巨灵裔，也可能以不常见的方式表现出他们的元素血统。",
+    "enGB": "Geniekin trace their lineage to beings from the various Elemental Planes. Though their progenitors are typically genies, this ancestry can derive from any number of elemental creatures. Furthermore, even geniekin whose ancestry includes only genies can manifest their elemental heritage in uncommon ways. The following heritages represent geniekin variants who have an affinity for different aspects of the elements, with new ability modifiers and spell-like abilities that replace the default racial traits."
+  },
+
+  {
+    "Key": "Sylph.SylphGeneral.Name",
+    "ProcessTemplates": false,
+    "zhCN": "风巨灵裔（典型）",
+    "enGB": "Sylph (General)"
+  },
+
+  {
+    "Key": "Sylph.SylphGeneral.Description",
+    "zhCN": "尽管许多风巨灵裔遵循元素的普遍姿态，但更多风巨灵裔并非如此。那些来自不同血统的风巨灵裔可能会展现出截然不同的传承表现，无论是在外貌还是能力上。\n风巨灵裔的敏捷与之力属性获得+2种族加值，体质属性获得-2减值。他们每天可施放一次法术“轻羽步”。",
+    "enGB": "Although many sylphs follow the general model of the sylph, many more do not. Those of different lineages may evince dramatically different manifestations of their heritage, both in appearance and in ability. \nSylphs receive a +2 racial bonus to Dexterity and Intelligence, a -2 penalty to Constitution, and the ability to cast Feather Step once per day as a spell-like ability at a caster level equal to the sylph's character level."
+  },
+
+  {
+    "Key": "Sylph.Smokesoul.Name",
+    "ProcessTemplates": false,
+    "zhCN": "烟雾魂裔（烟雾风巨灵裔）",
+    "enGB": "Smoke (Fume Sylph)"
+  },
+
+  {
+    "Key": "Sylph.Smokesoul.Description",
+    "zhCN": "隐匿且偷偷摸摸的烟雾魂裔是天生的欺骗者，总是掩盖其真实意图。故弄玄虚、秘密以及虚无缥缈之物：所有这些都是烟雾魂裔天生的领域。他们精通于隐藏身形和动机，以及将虚幻之物塑造得如同实体。烟雾魂裔容易被险恶的政治和阴谋所吸引，并且许多烟雾魂裔被发现热衷于从事各种让他们感到有趣的权谋。\n除了苍白的皮肤和黑发外，烟雾魂裔几乎没有其他显著特征，因此很容易被误认为其他种族。 烟雾魂裔经常变换服饰、妆容或风格来保持其外形变化不定。\n烟雾魂裔风巨灵裔的敏捷与魅力属性获得+2种族加值，体质属性获得-2减值。他们每天可以类法术能力施放一次法术“加速术”，施法者等级等同于该风巨灵裔的角色等级。",
+    "enGB": "Veiled and surreptitious, smokesoul sylphs are natural deceivers, always concealing their true intentions. \nObfuscation, secrecy, and the shape of things not there: all these are the natural realms of smokesouls. They are experts at concealing both their bodies and motivations, and at making the insubstantial seem as real as any physical object. Smokesouls are drawn to areas of dangerous politics and intrigue, and many can be found pursuing whatever machinations amuse them. \nWith few distinguishing features save ashen skin and dark hair, smokesouls can be mistaken for any number of other races. Smokesouls often change their clothing, cosmetics, or style to keep their appearance in a constant state of flux. \nSmokesoul sylphs receive a +2 racial bonus to Dexterity and Charisma, a -2 penalty to Constitution, and the ability to cast Expeditious Retreat once per day as a spell-like ability at a caster level equal to the sylph's character level."
+  },
+
+  {
+    "Key": "Sylph.Stormsoul.Name",
+    "ProcessTemplates": false,
+    "zhCN": "风暴魂裔（闪电风巨灵裔）",
+    "enGB": "Stormsoul (Lightning Sylph)"
+  },
+
+  {
+    "Key": "Sylph.Stormsoul.Description",
+    "zhCN": "风暴魂裔风巨灵裔拥有充沛的自信和略显不足的耐心，是绝对不会被忽视的耀眼人物。\n当风暴魂裔行动时，无论是言语还是举止，都会引起世人的瞩目。他们毫不畏惧地说出内心所想，既直率又不含蓄，是值得信赖的强大盟友。当朋友身处危难时，风暴魂裔会不假思索地挺身而出，永远是第一个伸出援手的人。风暴魂裔风巨灵裔的头发总是看似飘动着，即使在无风之时也是如此，他们的行动充满突如其来的强烈能量，有时会显得难以控制。他们的眼睛是暴雨之水或闪电划过天空的颜色，即使是风暴魂裔随意的一瞥，也会显得威严十足。\n风暴魂裔风巨灵裔的敏捷与魅力属性获得+2种族加值，感知属性获得-2种族减值。他们每天可以类法术能力施放一次法术“电爪”，施法者等级等同于该风巨灵裔的角色等级。",
+    "enGB": "With an abundance of confidence and a shortage of patience, stormsoul sylphs are personalities who cannot be ignored. \nWhen a stormsoul moves, either in word or in action, the world notices. Unafraid to speak their minds, they are both direct and unsubtle, and they make fierce allies. When friends are in need, stormsouls act without thinking and are always the first to leap to their aid. A stormsoul sylph has hair that always seems to move, even when there is no breeze, and acts with a sudden intensity that can seem out of control. Their eyes are the color of stormy water or lightning-lit skies, and even a casual glance from a stormsoul can seem severe.\nStormsoul sylphs receive a +2 racial bonus to Dexterity and Charisma, a -2 penalty to Wisdom, and the ability to cast Shocking Grasp once per day as a spell-like ability at a caster level equal to the sylph's character level."
+  },
+
+  {
+    "Key": "Undine.Name",
+    "ProcessTemplates": false,
+    "zhCN": "水巨灵裔",
+    "enGB": "Undine"
+  },
+
+  {
+    "Key": "Undine.Description",
+    "zhCN": "水巨灵裔是可将祖先溯至水位面生物的人类。水巨灵裔的每一块肌肤都是湖泊、海洋的拟似，即便一眼就能看出她们的先祖血脉。无论亲族是水灵或海妖，所有的水巨灵裔按先祖出身来自我区分。她们将个体差异当作天赋赐予，并探索着自己特殊血脉的超自然升华。/n水巨灵裔是面无惧色的骄傲种族。天性善良的她们在与同族相处时爱开玩笑，而和外族打交道时相对要保守和严肃一些。她们情绪自控的能力极为出色，能够在瞬息之间让心态在冷静与狂暴的边缘自如游走。有些人可能会觉得她们喜怒无常，其实水巨灵裔只是感情相较他族稍微夸张了一点而已。她们当然不是神经病，不会无缘无故地陷入愤慨、兴奋或是其他情绪中。水巨灵裔的亲密友人有时会发现她们占有欲过强，不过她们对于珍视之人确实有着强烈的保护欲。/n水巨灵裔通常在温暖气候下临水而居。虽然生活在陆地上，她们喜欢在水里待很长时间。多数水巨灵裔出于这个理由穿得很少，通常只穿戴足以防护严酷气候的服装，并多赤足。她们尽量避免在颈部佩戴首饰，并将头发盘扎成结。她们会防止头发或其他物件在游泳时成为妨碍。类似地，习练武技的水巨灵裔也会选择那些在陆上、水中同样顺手的兵器。【",
+    "enGB": "Undines are humans who trace their ancestry to creatures from the Plane of Water. Even at first glance, one notices the potency of their ancestry, for an undine's very flesh mimics the color of lakes, seas, and oceans. Whether they have the blood of marids or water mephits as their kin, all undines define themselves through their ancestry. They perceive their individual differences as gifts and explore the supernatural aspects of their unique heritage to the fullest. \nThe undines are a proud race and show little outward fear. While good-natured and somewhat playful among their own kind, they behave with slightly more reserve and seriousness in the company of non-undines. They have excellent emotional control, and can edge their tempers from calm to raging and back again within but a few minutes. While some might dub their behavior erratic, undines are simply a bit more outwardly melodramatic than most races. Certainly, they are not moody and do not become angered, excited, or otherwise emotional without provocation. As close friends, some find them overly possessive, though they are also extremely protective of those they care about. \nUndines tend to settle near water, usually in warmer climates. Though land-dwellers, they spend a fair amount of time in the water. For this reason, most dress sparsely, wearing only enough clothing to protect themselves from the elements, and few wear shoes. They avoid wearing jewelry around their necks and keep their hair slicked back and tied into tight knots. This prevents hair or other objects from becoming a distraction or hindrance while swimming. Similarly, undines pursuing martial classes choose weapons that they can wield efficiently on land as well as in water."
+  },
+
+  {
+    "Key": "Undine.EnergyResistance.Name",
+    "ProcessTemplates": false,
+    "zhCN": "能量抗性",
+    "enGB": "Energy Resistance"
+  },
+
+  {
+    "Key": "Undine.EnergyResistance.Description",
+    "zhCN": "水巨灵裔拥有5点寒冷抗性",
+    "enGB": "Undines have cold resistance 5."
+  },
+
+  {
+    "Key": "Undine.WaterAffinity.Name",
+    "ProcessTemplates": false,
+    "zhCN": "流水亲和",
+    "enGB": "Water Affinity"
+  },
+
+  {
+    "Key": "Undine.WaterAffinity.Description",
+    "zhCN": "水巨灵裔施放的具有描述标识“寒冷”的法术豁免检定难度等级（DC）和施法者等级提高1点。",
+    "enGB": "Undine spellcasters receive a +1 racial bonus to caster level and saving throw DC when they cast any spell with the Cold descriptor."
+  },
+
+  {
+    "Key": "Undine.ElementalHeritage.Name",
+    "ProcessTemplates": false,
+    "zhCN": "元素血统",
+    "enGB": "Elemental Heritage"
+  },
+
+  {
+    "Key": "Undine.ElementalHeritage.Description",
+    "zhCN": "巨灵裔的血统可追溯至各种元素位面的居民。尽管他们的祖先通常是巨灵，但也有可能是任何元素生物。不仅如此，即使祖先当中只有巨灵的巨灵裔，也可能以不常见的方式表现出他们的元素血统。",
+    "enGB": "Geniekin trace their lineage to beings from the various Elemental Planes. Though their progenitors are typically genies, this ancestry can derive from any number of elemental creatures. Furthermore, even geniekin whose ancestry includes only genies can manifest their elemental heritage in uncommon ways. The following heritages represent geniekin variants who have an affinity for different aspects of the elements, with new ability modifiers and spell-like abilities that replace the default racial traits."
+  },
+
+  {
+    "Key": "Undine.UndineGeneral.Name",
+    "ProcessTemplates": false,
+    "zhCN": "水巨灵裔（典型）",
+    "enGB": "Undine (General)"
+  },
+
+  {
+    "Key": "Undine.UndineGeneral.Description",
+    "zhCN": "尽管许多水巨灵裔遵循元素的普遍姿态，但更多水巨灵裔并非如此。那些来自不同血统的水巨灵裔可能会展现出截然不同的传承表现，无论是在外貌还是能力上。\n水巨灵裔的敏捷与感知属性获得+2种族加值，力量属性获得-2种族减值。他们每天可以类法术能力施放一次法术“水流冲击”，施法者等级等同于该水巨灵裔的角色等级。",
+    "enGB": "Although many undines follow the general model of the undine, many more do not. Those of different lineages may evince dramatically different manifestations of their heritage, both in appearance and in ability. \nUndines receive a +2 racial bonus to Dexterity and Wisdom, a -2 penalty to Strength, and the ability to cast Hydraulic Push once per day as a spell-like ability at a caster level equal to the undine's character level."
+  },
+
+  {
+    "Key": "Undine.Mistsoul.Name",
+    "ProcessTemplates": false,
+    "zhCN": "迷雾魂裔（蒸汽水巨灵裔）",
+    "enGB": "Mistsoul (Vapor Undine)"
+  },
+
+  {
+    "Key": "Undine.Mistsoul.Description",
+    "zhCN": "令人舒缓且富有洞察力的迷雾魂裔以轻盈的韧性和真诚的行动在世间游走。迷雾魂裔秉性温和，思虑深沉，容易被其元素的神秘面所吸引。他们虚无缥缈、如同蒸汽般的本性，能够让他人沉入梦幻般的状态，或促成向来世的平和过渡。他们倾向于寻觅思想和政治斗争汇聚之地。在外形上，迷雾魂裔面部轮廓圆润，举手投足之间都带有优雅的审慎。他们偏爱质地柔软的高品质服饰，颜色以中性色或大地色为主，首饰也倾向于选择具有象征意义而非昂贵奢华的简约款式。\n迷雾魂裔的体质与感知属性获得+2种族加值，智力属性获得-2种族减值。他们每天可以类法术能力施放一次法术“朦胧术”，施法者等级等同于该水巨灵裔的角色等级。",
+    "enGB": "Soothing and insightful, mistsoul undines move through the world with airy resilience and earnest action. With gentle spirits and contemplative minds, mistsouls are drawn to the more mystic aspects of their element. Their ephemeral, vaporous natures can allow them to lull others into a dreamlike state, or facilitate a peaceful transition into the next life. They tend to seek out places where ideological and political struggles converge. Physically, mistsouls have rounded features and graceful deliberation in their movement. They prefer soft, high-quality garments of neutral or earth tones and simple jewelry chosen for significance rather than expense. \nMistsoul undines receive a +2 racial bonus to Constitution and Wisdom, a -2 penalty to Intelligence, and the ability to cast Blur once per day as a spell-like ability at a caster level equal to the undine's character level."
+  },
+
+  {
+    "Key": "Undine.Rimesoul.Name",
+    "ProcessTemplates": false,
+    "zhCN": "霜魂裔（寒霜水巨灵裔）",
+    "enGB": "Rimesoul (Frost Undine)"
+  },
+
+  {
+    "Key": "Undine.Rimesoul.Description",
+    "zhCN": "霜魂裔疏远且专横，在智力上孤傲不群，并且不愿改变自身行事方式。如同他们覆满冰霜的祖先一般，霜魂裔代表着变化的固化。他们拥有精确而有条理的头脑，非常适合从事个人钻研。霜魂裔通常选择居住在人烟稀少的地区。当他们居住在城市中时，则偏爱文化氛围严谨规范的区域。在外形上，霜魂裔通常面色苍白，有时皮肤呈半透明或带有蓝色色调。霜魂裔的着装风格通常简洁利落而低调，整体呈现出一种朴素庄重的印象。\n霜魂裔的敏捷与智力属性获得+2种族加值，魅力属性获得-2种族减值。他们每天可以类法术能力施放一次法术“寒冷之触”，施法者等级等同于该水巨灵裔的角色等级。",
+    "enGB": "Rimesoul undines are distant and imperious, aloof in their intellect and hesitant to change their ways. Like their ice-coated ancestors, rimesouls represent the solidification of change. They have precise, ordered minds that take well to individual pursuits. Rimesouls often choose to live in sparsely populated areas. When they do live in cities, they prefer areas of disciplined culture. In appearance, rimesouls are frequently pale, sometimes with translucent or blue-tinged skin. Rimesouls usually dress in crisp, understated fashions that present an impression of austerity. \nRimesoul undines receive a +2 racial bonus to Dexterity and Intelligence, a -2 penalty to Charisma, and the ability to cast Chill Touch once per day as a spell-like ability at a caster level equal to the undine's character level."
+  },
+
+  {
+    "Key": "Undine.ChillTouch.Name",
+    "ProcessTemplates": false,
+    "zhCN": "寒冷之触",
+    "enGB": "Chill Touch"
+  },
+
+  {
+    "Key": "Undine.ChillTouch.Touch.Name",
+    "ProcessTemplates": false,
+    "zhCN": "寒冷之触（接触）",
+    "enGB": "Chill Touch (Touch)"
+  },
+
+  {
+    "Key": "Undine.ChillTouch.Description",
+    "zhCN": "你的手散发出幽蓝的能量，它的触摸会摧毁活物的生命力。每次接触会1d6点负能量伤害。如果未能通过强韧豁免，被接触的生物则会额外受到1点力量伤害。你可以使用这种近战接触攻击的次数至多为每施法者等级一次。\n被你接触到的不死生物不会受到上述任何一种伤害，但它必须进行意志豁免检定，失败就会如同陷入恐慌状态一般逃跑，持续时间为1d4轮+每施法者等级1轮。",
+    "enGB": "A touch from your hand, which glows with blue energy, disrupts the life force of living creatures. Each touch channels negative energy that deals 1d6 points of damage. The touched creature also takes 1 point of Strength damage unless it makes a successful Fortitude saving throw. You can use this melee touch attack up to one time per level.\nAn undead creature you touch takes no damage of either sort, but it must make a successful Will saving throw or flee as if panicked for 1d4 rounds + 1 round per caster level."
+  },
+
+  {
+    "Key": "Undine.ObscuringMist.Name",
+    "ProcessTemplates": false,
+    "zhCN": "隐雾术",
+    "enGB": "Obscuring Mist"
+  },
+
+  {
+    "Key": "Undine.ObscuringMist.Description",
+    "zhCN": "一团雾气从你四周升起。雾气是静止的。它遮蔽了所有的视线，包括黑暗视觉，任何生物都无法看见5尺外的东西。距离5尺的生物有隐蔽 (20%的失手率)，更远的生物则有全隐蔽效果 (50%失手率，并且攻击者无法以视觉确定对方的位置)。",
+    "enGB": "A misty vapor arises around you. It is stationary. The vapor obscures all sight, including darkvision, beyond 5 feet. A creature 5 feet away has concealment (attacks have a 20% miss chance). Creatures farther away have total concealment (50% miss chance, and the attacker cannot use sight to locate the target)."
+  },
+
+  {
+    "Key": "Undine.HydraulicPush.Name",
+    "ProcessTemplates": false,
+    "zhCN": "水流冲击",
+    "enGB": "Hydraulic Push"
+  },
+
+  {
+    "Key": "Undine.HydraulicPush.Description",
+    "zhCN": "你召唤一股激烈的水流冲击并浸湿一个生物或一个方格。你可以用这一股高压水流对任何物体或生物进行一次冲撞检定。你这次冲撞的CMD等于你的施法者等级加上你的智力、感知或魅力中最高的一个的调整值。这次冲撞不会引发藉机攻击。",
+    "enGB": "You call forth a quick blast of water that knocks over and soaks one creature or square. You can use this blast of water to make a bull rush against any one creature or object. Your CMB for this bull rush is equal to your caster level plus your Intelligence, Wisdom, or Charisma modifier, whichever is highest. This bull rush does not provoke an attack of opportunity."
+  },
+
+  {
+    "Key": "Strix.Name",
+    "ProcessTemplates": false,
+    "zhCN": "鸮形人",
+    "enGB": "Strix"
+  },
+
+  {
+    "Key": "Strix.Description",
+    "zhCN": "谈到鸮形人，坊间的传言既有令人恐怖的杀戮，也有惊惶不安的猜疑。而对鸮形人自身来说，他们的历史中充满了入侵与反抗。长久以来，人类用血腥的战争入侵鸮形人的领地，这种黑皮肤的凶猛生物被人类视为有翼的恶魔。随着时间的推移，鸮形人对人类的憎恨与日俱增，他们使用着激进的手段保护日渐减少的遗孤。",
+    "enGB": "Human neighbors tell horrific tales of slaughter woven with frightened suspicion when speaking of strix. Strix, however, tell a tale of encroachment and a struggle for land and resources. For ages, humans invaded strix lands fighting bloody battles against the fierce, black-skinned creatures they thought to be winged devils. Over time, strix have developed a hatred for humankind and now fiercely protect their dwindling numbers."
+  },
+
+  {
+    "Key": "Strix.StrixWings.Name",
+    "ProcessTemplates": false,
+    "zhCN": "鸮形之翼",
+    "enGB": "Strix Wings"
+  },
+
+  {
+    "Key": "Strix.StrixWings.Description",
+    "zhCN": "鸮形人的黑色羽翼赋予其飞行能力，使其对抗近战攻击的防御等级获得+3闪避加值，并且免疫地面效果，例如：困难地形的效果。",
+    "enGB": "The black wings of a strix give them the ability to fly granting a +3 dodge bonus to AC against melee attacks and immunity to ground-based effects, such as difficult terrain."
+  },
+
+  {
+    "Key": "Strix.Hatred.Name",
+    "ProcessTemplates": false,
+    "zhCN": "世代血仇",
+    "enGB": "Hatred"
+  },
+
+  {
+    "Key": "Strix.Hatred.Description",
+    "zhCN": "在对抗属于人类子类别的类人生物时，鸮形人的攻击检定会获得+1加值，这得益于他们为应对这些痛恨的死敌而进行的特殊训练。",
+    "enGB": "Strix receive a +1 racial bonus on attack rolls against humanoid creatures with the human subtype because of their special training against these hated foes."
+  },
+
+  {
+    "Key": "Strix.Nocturnal.Name",
+    "ProcessTemplates": false,
+    "zhCN": "夜行",
+    "enGB": "Nocturnal"
+  },
+
+  {
+    "Key": "Strix.Nocturnal.Description",
+    "zhCN": "在昏暗或者黑暗环境下，鸮形人的察觉以及隐匿检定获得+2种族加值。",
+    "enGB": "Strix gain a +2 bonus on Perception and Stealth checks in dim light or darkness."
+  },
+
+  {
+    "Key": "Strix.Suspicious.Name",
+    "ProcessTemplates": false,
+    "zhCN": "多疑",
+    "enGB": "Suspicious"
+  },
+
+  {
+    "Key": "Strix.Suspicious.Description",
+    "zhCN": "鸮形人在对抗幻象法术和效果时的豁免检定获得+2种族加值。",
+    "enGB": "Strix receive a +2 racial bonus on saving throws against illusion spells and effects."
+  },
+
+  {
+    "Key": "Drow.Name",
+    "ProcessTemplates": false,
+    "zhCN": "卓尔",
+    "enGB": "Drow"
+  },
+
+  {
+    "Key": "Drow.Description",
+    "zhCN": "残忍而又狡诈，卓尔是精灵的黑暗投影。又被称为黑暗精灵，这些地底之民居住在巨大岩块雕琢出的复杂城市里。卓尔很少为地表之民所知，她们更喜欢保持神秘，同时用间谍与特工来执行邪恶任务。卓尔除了自己不爱任何人，并蔑视其他生物。尽管并非天性邪恶，但恶根深植于她们的文化和社会中，异端者极难活得长命。有些故事说在一个特别可憎的精灵会恰当环境下转变为卓尔，不过这种变化需要该个体极其十恶不赦。",
+    "enGB": "Cruel and cunning, drow are a dark reflection of the elven race. Also called dark elves, they dwell deep underground in elaborate cities shaped from the rock of cyclopean caverns. Drow seldom make themselves known to surface folk, preferring to remain legends while advancing their sinister agendas through proxies and agents. Drow have no love for anyone but themselves, and are adept at manipulating other creatures. While they are not born evil, malignancy is deep-rooted in their culture and society, and nonconformists rarely survive for long. Some stories tell that given the right circumstances, a particularly hateful elf might turn into a drow, though such a transformation would require a truly heinous individual."
+  },
+
+  {
+    "Key": "Drow.WeaponFamiliarity.Name",
+    "ProcessTemplates": false,
+    "zhCN": "卓尔武器熟练",
+    "enGB": "Weapon Familiarity"
+  },
+
+  {
+    "Key": "Drow.WeaponFamiliarity.Description",
+    "zhCN": "卓尔擅长使用手弩（包括复合长弓）、细剑以及短剑。",
+    "enGB": "Drow are proficient with the hand crossbow, rapier, and shortsword."
+  },
+
+  {
+    "Key": "Drow.Immunities.Name",
+    "ProcessTemplates": false,
+    "zhCN": "卓尔免疫",
+    "enGB": "Immunities"
+  },
+
+  {
+    "Key": "Drow.Immunities.Description",
+    "zhCN": "卓尔免疫魔法睡眠效应，并且在对抗惑控法术和效应时，他们的豁免检定会获得+2种族加值。",
+    "enGB": "Drow are immune to magic sleep effects and gain a +2 racial bonus on saving throws against enchantment spells and effects."
+  },
+
+  {
+    "Key": "Drow.SpellResistance.Name",
+    "ProcessTemplates": false,
+    "zhCN": "法术抗力",
+    "enGB": "Spell Resistance"
+  },
+
+  {
+    "Key": "Drow.SpellResistance.Description",
+    "zhCN": "卓尔拥有等同于6+总职业等级的法术抗力。",
+    "enGB": "Drow possess spell resistance (SR) equal to 6 plus their total number of class levels."
+  },
+
+  {
+    "Key": "Drow.SpellLike.Name",
+    "ProcessTemplates": false,
+    "zhCN": "类法术能力",
+    "enGB": "Spell-Like Ability"
+  },
+
+  {
+    "Key": "Drow.SpellLike.Description",
+    "zhCN": "卓尔每日可释放一次妖火，以角色等级作为施法者等级。",
+    "enGB": "Drow can cast faerie fire once per day, using their total character level as caster level."
+  },
+
+  {
+    "Key": "Drow.AncestralGrudge.Name",
+    "ProcessTemplates": false,
+    "zhCN": "世代血仇",
+    "enGB": "Ancestral Grudge"
+  },
+
+  {
+    "Key": "Drow.AncestralGrudge.Description",
+    "zhCN": "卓尔与精灵和矮人之间的仇恨由来已久，且根深蒂固。在对抗属于精灵和矮人子类别的类人生物时，卓尔的攻击检定会获得+1加值，这得益于他们为应对这些痛恨的死敌而进行的特殊训练。",
+    "enGB": "The enmity between the drow and elves and dwarves is long-standing and deeply entrenched. Drow gain a +1 bonus on attack rolls against humanoids with the dwarf or elf subtypes because of their special training against these reviled foes."
+  },
+
+  {
+    "Key": "Orc.Name",
+    "ProcessTemplates": false,
+    "zhCN": "兽人",
+    "enGB": "Orc"
+  },
+
+  {
+    "Key": "Orc.Description",
+    "zhCN": "兽人凶猛无情，横行霸道。天性粗鲁的他们尊重力量胜过一切。兽人几乎本能地觉得，只要没有更强者横插一杠，自己便有权将想要的一切都收入囊中。他们在战场上若无军令绝不后退；这种态度不仅出于思考的惰性，更深深植根于“天塌下来有大个子顶着，老子就是那个大个子”这一信条。兽人奴役其他种族，男性虐待女性，并且都不肯善待老幼——他们认为无力为自己争取利益之辈活该受苦。兽人对周遭环伺的强敌漠不关心，但若有人敢于挑衅，迎接他们的将是难以言述的复仇行动。",
+    "enGB": "Orcs are aggressive, callous, and domineering. Bullies by nature, they respect strength and power as the highest virtues. On an almost instinctive level, orcs believe they are entitled to anything they want unless someone stronger can stop them from seizing it. They rarely exert themselves off the battlefield except when forced to do so; this attitude stems not just from laziness but also from an ingrained belief that work should trickle down through the pecking order until it falls upon the shoulders of the weak. They take slaves from other races, orc men brutalize orc women, and both abuse children and elders, on the grounds that anyone too feeble to fight back deserves little more than a life of suffering. Surrounded at all times by bitter enemies, orcs cultivate an attitude of indifference to pain, vicious tempers, and a fierce willingness to commit unspeakable acts of vengeance against anyone who dares to defy them."
+  },
+
+  {
+    "Key": "Orc.Ferocity.Name",
+    "ProcessTemplates": false,
+    "zhCN": "凶猛",
+    "enGB": "Ferocity"
+  },
+
+  {
+    "Key": "Orc.Ferocity.Description",
+    "zhCN": "兽人具有凶猛能力，即使生命值低于0，也能保持意识清醒，继续战斗。但依然处于恍惚状态，每轮损失1生命值。",
+    "enGB": "Orcs possess the ferocity ability which allows them to remain conscious and continue fighting even if their hit point totals fall below 0. Orcs are still staggered at 0 hit points or lower and lose 1 hit point each round as normal."
+  },
+
+  {
+    "Key": "Suli.Name",
+    "ProcessTemplates": false,
+    "zhCN": "巨灵裔",
+    "enGB": "Suli"
+  },
+
+  {
+    "Key": "Suli.Description",
+    "zhCN": "巨灵裔，又名苏里巨灵，是凡人和巨灵的后裔。他们或是在青春期就显现出了超凡的特质，或是在与妖灵遭遇时才觉醒。这些精力充沛的个体强壮而又富有魅力，可以呼唤四种元素的力量来增强他们的作战能力。他们既非妖灵也非人类，而是处于两个世界的夹缝之中，因此常常被认为并不归属于任何一个世界。",
+    "enGB": "Sulis, or suli-jann, are the descendents of mortals and jann. They manifest their otherworldly heritage in adolescence, or when awakened by an encounter with a genie. Strong and attractive, these dynamic individuals can call forth elemental energies to augment their prowess in combat. Neither genie nor quite human, sulis stand in two worlds and often feel as if they don抰 belong to either."
+  },
+
+  {
+    "Key": "Suli.EnergyResistance.Name",
+    "ProcessTemplates": false,
+    "zhCN": "能量抗性",
+    "enGB": "Energy Resistance"
+  },
+
+  {
+    "Key": "Suli.EnergyResistance.Description",
+    "zhCN": "巨灵裔拥有5点强酸、电击、火焰、寒冷抗性",
+    "enGB": "Sulis have resistance to acid 5, cold 5, electricity 5, and fire 5."
+  },
+
+  {
+    "Key": "Suli.Negotiator.Name",
+    "ProcessTemplates": false,
+    "zhCN": "谈判家",
+    "enGB": "Negotiator"
+  },
+
+  {
+    "Key": "Suli.Negotiator.Description",
+    "zhCN": "巨灵裔是敏锐的谈判家，并在交涉和唬骗检定上获得+2种族加值。",
+    "enGB": "Sulis are keen negotiators, and gain a +2 racial bonus on Diplomacy and Bluff checks."
+  },
+
+  {
+    "Key": "Suli.ElementalAssault.Name",
+    "ProcessTemplates": false,
+    "zhCN": "元素攻袭",
+    "enGB": "Elemental Assault"
+  },
+
+  {
+    "Key": "Suli.ElementalAssault.Description",
+    "zhCN": "每天1次以一个迅捷动作，巨灵裔能够使用强酸、冻气、闪电或火焰覆盖她的手臂。这个效果持续每角色等级1轮，并且能以一个自由动作解消。当她使用手臂或手掌进行徒手攻击（或者用手持武器攻击）时造成+1d6点选定的能量类型伤害。",
+    "enGB": "Once per day as a swift action, a suli can shroud her arms in acid, cold, electricity, or fire. This lasts for one round per level, and can be dismissed as a free action. Unarmed strikes with her arms or hands (or attacks with weapons held in those hands) deal +1d6 points of damage of the appropriate energy type."
+  },
+
+  {
+    "Key": "Suli.ElementalAssaultFire.Name",
+    "ProcessTemplates": false,
+    "zhCN": "元素攻袭（火）",
+    "enGB": "Elemental Assault (Fire)"
+  },
+
+  {
+    "Key": "Suli.ElementalAssaultCold.Name",
+    "ProcessTemplates": false,
+    "zhCN": "元素攻袭（冰）",
+    "enGB": "Elemental Assault (Cold)"
+  },
+
+  {
+    "Key": "Suli.ElementalAssaultElectricity.Name",
+    "ProcessTemplates": false,
+    "zhCN": "元素攻袭（电）",
+    "enGB": "Elemental Assault (Electricity)"
+  },
+
+  {
+    "Key": "Suli.ElementalAssaultAcid.Name",
+    "ProcessTemplates": false,
+    "zhCN": "元素攻袭（酸）",
+    "enGB": "Elemental Assault (Acid)"
+  },
+
+  {
+    "Key": "Android.Name",
+    "ProcessTemplates": false,
+    "zhCN": "仿生人",
+    "enGB": "Android"
+  },
+
+  {
+    "Key": "Android.Description",
+    "zhCN": "被称为仿生人的人造建构类人生物是科技成就上的奇迹，因为它们是多元宇宙里的纯粹意志的典范。在格拉力昂上，他们是纽梅利亚特有的，数千年来，当地的凯利德部落成员曾经说过他们是“星之纹身之子”，偶然从上古时期的太空船坠毁到当地造成的科技废墟瓦砾中冒出来的。\n仿生人的外表在许多方面与人类相同，而对于不了解的人来说，要区分两者可能很难。然而，在适当的光线下，仿生人的外星本性会被眼睛中的金属光泽和纹身般的生化电路所揭开。他们的身体完全是人造的，由模仿人肉与骨骼的柔韧性、形状和密度的材料所制成。他们的器官完美的模仿了人类，只有通过检查这些系统的材料与组成 - 使用了透明的油和聚合物合金，而不是血液和骨髓 - 可以猜测他们的生理构造是来自外星。仿生人的尺寸与人类大致相同; 平均来说，他们有6尺高，重200磅。\n凯利德的萨满说，仿生人是从金属子宫里并切断了电气脐带所“诞生”的。即使是仿生人也不能反驳或证实这样的故事，因为从纽梅瑞亚遗址出现的大多数仿生人都是这样赤裸裸的，对于他们怎么来到这陌生的世界，没有任何记忆。 他们的复杂设计与格拉力昂太阳系已知的任何种族都不同，导致许多人怀疑他们（以及他们撞在格拉利昂上的外星人飞船）来自一个遥远的恒星系统，甚至是另一个银河系。\n仿生人与魔像和其他无心智构装体的区别是，仿生人是活生生的生物，并拥有灵魂。同样，仿生人不会永远活着，但只要不遭受到暴力或悲剧，他们的身体不会恶化。相反，一个仿生人的人造(cybernetic)心灵最终在大约一个世纪后会关闭并自我重新启动，让身体空置几个星期，老旧的灵魂会去到浩瀚众界去，然后新生的灵魂会进入到身体当中。",
+    "enGB": "Androids are superficially identical to humans in many ways, and to the uninformed it can be difficult to differentiate the two. In the right light, though, androids' alien nature is revealed by the metallic sheen in their eyes and the biological, tattoo-like circuitry that riddles their skin. Their bodies are completely artificial, though made of materials that mimic the flexibility, shape, and density of human flesh and bone. Their organs mirror those of humans so well that only by examining the materials and makeup of these systems梬hich use sheeny oils and polymer alloys rather than blood and marrow梒ould one guess that their physiology is alien. Androids are roughly the same size as humans; on average, they are 6 feet tall and weigh 200 pounds. \nShamans speak of great forges where androids are \"born\" from metal wombs and are cut from electrified umbilical cords. Even androids can抰 refute or verify such stories, since most who emerge from ruins do so naked and without any memories beyond their initial egress into the wide, unfamiliar world. Their complex design is unlike that of any race known, leading many to suspect that they originated from a distant star system or even another galaxy. \nWhat separates androids from golems and other mindless constructs is that androids are living beings and as such possess souls. Similarly, androids don抰 live forever, though barring violence or tragedy their bodies never deteriorate. Rather, an android抯 cybernetic mind eventually shuts down and self-restarts after about a century, leaving its body vacant for several weeks as the old soul departs for its final reward in the Great Beyond and a fresh, new soul finds its way into the shell."
+  },
+
+  {
+    "Key": "Android.Alert.Name",
+    "ProcessTemplates": false,
+    "zhCN": "警戒",
+    "enGB": "Alert"
+  },
+
+  {
+    "Key": "Android.Alert.Description",
+    "zhCN": "仿生人在对抗察觉检定获得+4种族加值。",
+    "enGB": "Androids gain a +4 racial bonus on Perception checks."
+  },
+
+  {
+    "Key": "Android.Emotionless.Name",
+    "ProcessTemplates": false,
+    "zhCN": "无感情",
+    "enGB": "Emotionless"
+  },
+
+  {
+    "Key": "Android.Emotionless.Description",
+    "zhCN": "仿生人无法适当地处理情感，因此在唬骗检定上获得-4减值。",
+    "enGB": "Androids have problems processing emotions properly, and thus take a -4 penalty on Bluff checks"
+  },
+
+  {
+    "Key": "Android.Constructed.Name",
+    "ProcessTemplates": false,
+    "zhCN": "被创造者",
+    "enGB": "Constructed"
+  },
+
+  {
+    "Key": "Android.Constructed.Description",
+    "zhCN": "仿生人在对抗影响心智、麻痹、中毒和震慑效果时的豁免检定获得+4种族加值。不会疲劳和力竭，并且免疫疾病、恐惧、睡眠和情绪效果。",
+    "enGB": "Androids gain a +4 racial bonus on all saving throws against mind-affecting effects, paralysis, poison, and stun effects, are not subject to fatigue or exhaustion, and are immune to disease, fear, sleep, and emotion effects."
+  },
+
+  {
+    "Key": "Android.NaniteSurge.Name",
+    "ProcessTemplates": false,
+    "zhCN": "纳米机械激增",
+    "enGB": "Nanite Surge"
+  },
+
+  {
+    "Key": "Android.NaniteSurge.Description",
+    "zhCN": "仿生人的躯体中充满了奈米机械。每天一次作为一个直觉动作，一个仿生人可以使他体内的奈米机器人进入激增状态，在任何一个D20掷骰中获得等于3+仿生人角色等级的加值。当一个仿生人使用此能力时，他身上的电路纹身会在一回合内发出相当于火把强度的亮光。",
+    "enGB": "An android's body is infused with nanites. Once per day as a swift action, an android can cause her nanites to surge, granting a bonus equal to 3 + the android's character level on the next d20 roll made in the following round; this ability must be activated before the roll is made. When an android uses this power, her circuitry-tattoos glow with light equivalent to that of a torch in illumination for 1 round"
+  },
+
+  {
+    "Key": "Ifrit.Name",
+    "ProcessTemplates": false,
+    "zhCN": "火巨灵裔",
+    "enGB": "Ifrit"
+  },
+
+  {
+    "Key": "Ifrit.Description",
+    "zhCN": "火巨灵裔是以火巨灵等元素之火为先祖的人类，是富于激情和喜怒无常的种族。没有火巨灵裔会安于一成不变的生活；他们如同野火般必须时刻浮动、并燃烧殆尽。火巨灵裔不仅爱慕炽焰，他们的人格本就是火焰的化身：激烈燃烧，变幻无常，不知怜悯。",
+    "enGB": "Humans whose ancestry includes beings of elemental fire such as efreet, ifrits are a passionate and fickle race. No ifrit is satisfied with a sedentary life; like a wildfire, ifrits must keep moving or burn away into nothingness. Ifrits not only adore flames, but personify multiple aspects of them as well, embodying both fire's dynamic, ever-changing energy and its destructive, pitiless nature."
+  },
+
+  {
+    "Key": "Ifrit.FireAffinity.Name",
+    "ProcessTemplates": false,
+    "zhCN": "火焰亲和",
+    "enGB": "Fire Affinity"
+  },
+
+  {
+    "Key": "Ifrit.FireAffinity.Description",
+    "zhCN": "火巨灵裔施放的具有描述标识“火”的法术豁免检定难度等级（DC）和施法者等级提高1点。",
+    "enGB": "Ifrit spellcasters receive a +1 racial bonus to caster level and saving throw DC when they cast any spell with the Fire descriptor."
+  },
+
+  {
+    "Key": "Ifrit.EnergyResistance.Name",
+    "ProcessTemplates": false,
+    "zhCN": "能量抗性",
+    "enGB": "Energy Resistance"
+  },
+
+  {
+    "Key": "Ifrit.EnergyResistance.Description",
+    "zhCN": "火巨灵裔拥有5点火焰抗性",
+    "enGB": "Ifrits have fire resistance 5."
+  },
+
+  {
+    "Key": "Ifrit.SpellLike.Name",
+    "ProcessTemplates": false,
+    "zhCN": "类法术能力",
+    "enGB": "Spell-Like Ability"
+  },
+
+  {
+    "Key": "Ifrit.SpellLike.Description",
+    "zhCN": "火巨灵裔每天可施放一次法术“燃烧之手”。以角色等级作为施法者等级，DC为11+魅力调整值。",
+    "enGB": "Ifrits can use burning hands 1/day as a spell-like ability (caster level equals the ifrit's level; DC 11 + Charisma modifier)."
+  },
+
+  {
+    "Key": "Ifrit.ElementalHeritage.Name",
+    "ProcessTemplates": false,
+    "zhCN": "元素血统",
+    "enGB": "Elemental Heritage"
+  },
+
+  {
+    "Key": "Ifrit.ElementalHeritage.Description",
+    "zhCN": "巨灵裔的血统可追溯至各种元素位面的居民。尽管他们的祖先通常是巨灵，但也有可能是任何元素生物。不仅如此，即使祖先当中只有巨灵的巨灵裔，也可能以不常见的方式表现出他们的元素血统。",
+    "enGB": "Geniekin trace their lineage to beings from the various Elemental Planes. Though their progenitors are typically genies, this ancestry can derive from any number of elemental creatures. Furthermore, even geniekin whose ancestry includes only genies can manifest their elemental heritage in uncommon ways. The following heritages represent geniekin variants who have an affinity for different aspects of the elements, with new ability modifiers and spell-like abilities that replace the default racial traits."
+  },
+
+  {
+    "Key": "Ifrit.IfritGeneral.Name",
+    "ProcessTemplates": false,
+    "zhCN": "火巨灵裔（典型）",
+    "enGB": "Ifrit (General)"
+  },
+
+  {
+    "Key": "Ifrit.IfritGeneral.Description",
+    "zhCN": "虽然许多火巨灵裔遵循元素的普遍姿态，但更多火巨灵裔并非如此。那些拥有不同血脉的火巨灵裔可能会展现出截然不同的传承特征，无论是在外貌还是能力上。\n火巨灵裔的敏捷与魅力属性获得+2种族加值，感知属性获得-2种族减值。他们每天可以类法术能力施放一次法术“燃烧之手”，施法者等级等同于该火巨灵裔的角色等级。",
+    "enGB": "Although many ifrits follow the general model of the ifrit, many more do not. Those of different lineages may evince dramatically different manifestations of their heritage, both in appearance and in ability. \nIfrits receive a +2 racial bonus to Dexterity and Charisma, a -2 penalty to Wisdom, and the ability to cast Burning Hands once per day as a spell-like ability at a caster level equal to the ifrit's character level."
+  },
+
+  {
+    "Key": "Ifrit.Lavasoul.Name",
+    "ProcessTemplates": false,
+    "zhCN": "熔岩魂裔（岩浆火巨灵裔）",
+    "enGB": "Lavasoul (Magma Ifrit)"
+  },
+
+  {
+    "Key": "Ifrit.Lavasoul.Description",
+    "zhCN": "如同创世之初的原始火焰，熔岩魂裔既流动不定又稳定不变，在稳定和剧烈变化之间交替。 变化莫测且炽烈如火的熔岩魂裔，在其绚烂多彩的生活中，展现着创造与毁灭的循环，当旧有的模式不再适用时，他们会毫不畏惧地追求新的范式。 许多熔岩魂裔皮肤黝黑，但布满燃烧般的纹路，这些纹路有时也会映现在他们明亮的头发或眼睛颜色中。 他们乐于接受身体改造，根据自己的心意增添或去除纹身和穿孔。 在地震频发，且破坏性的创造不被视为自相矛盾的地方，常能寻觅到熔岩魂裔的身影。\n熔岩魂裔火巨灵裔的体质与智力属性获得+2种族加值，敏捷属性获得-2种族减值。 他们每天可以类法术能力施放一次法术“暖腹火”，施法者等级等同于该火巨灵裔的角色等级。",
+    "enGB": "Like the primal fires of creation, lavasoul ifrits are both fluid and fixed, alternating between stability and violent alteration. Mutable and intense, lavasouls evoke the cycle of creation and destruction in their colorful lives, unafraid to pursue new paradigms when the old ones no longer suit them. Many are dark-skinned but riven with blazing lines, which are sometimes also reflected in bright hair or eye colors. They tend to embrace body modification, acquiring and discarding tattoos and piercings as they feel appropriate. Lavasouls can be found in places where seismic change is commonplace and destructive creation is not seen as a contradiction. \nLavasoul ifrits receive a +2 racial bonus to Constitution and Intelligence, a -2 penalty to Dexterity, and the ability to cast Firebelly once per day as a spell-like ability at a caster level equal to the ifrit's character level."
+  },
+
+  {
+    "Key": "Ifrit.Sunsoul.Name",
+    "ProcessTemplates": false,
+    "zhCN": "日魂裔（太阳火巨灵裔）",
+    "enGB": "Sunsoul (Solar Ifrit)"
+  },
+
+  {
+    "Key": "Ifrit.Sunsoul.Description",
+    "zhCN": "日魂裔火巨灵裔拥有坚强的性格和健壮的体魄，是无可救药的乐观主义者，积极变革的推动者。\n火焰带来光明，日魂裔的光辉既来自于他们对正能量的亲和力，也来自于他们自身乐观开朗的态度。 当他人陷入绝望时，他们依然辛勤耕耘，力求以身作则，成为榜样。 强大的领导者和充满激情的精神特质吸引着日魂裔，引导他们走向强大的宗教或充满理想主义的国度。 日魂裔很难隐藏自身的存在，并且他们中的大多数人也从不试图这样做。 大多数日魂裔往往拥有浅色头发，通常接近白色，他们的眼睛闪耀着独特的光芒。\n有些人似乎由内而外地发光，仿佛被内在的阳光照亮。 他们不惧怕被注视，会穿着任何让他们感到愉悦的服饰风格，即使这意味着他们会在更加大胆或更加保守的人群中显得格外突出。\n日魂裔火巨灵裔的力量与魅力属性获得+2种族加值，感知属性获得-2种族减值。 他们每天可以类法术能力施放一次法术“光耀爆发”，施法者等级等同于该火巨灵裔的角色等级。",
+    "enGB": "Strong in character and in body, sunsoul ifrits are incurably optimistic agents of positive change. \nWith fire comes light, and the brightness of the sunsouls comes both from their affinity for positive energy and their own luminous attitudes. Where others despair, they labor on, striving to lead by example. Strong leaders and passionate ethos attract sunsouls, drawing them toward powerful religions or crusading nations. Sunsouls cannot easily hide their presence, and most would never try. Most sunsouls tend to have fair hair, often nearly white, and eyes that glow with a twinkle all their own. \nSome seem to glow from within, as if lit from inside by an inner sunlight. Unafraid to be seen, they dress in whatever styles please them, even when it means they stand out among populations either more daring or more conservative. \nSunsoul ifrits receive a +2 racial bonus to Strength and Charisma, a -2 penalty to Wisdom, and the ability to cast Flare Burst once per day as a spell-like ability at a caster level equal to the ifrit's character level."
+  },
+
+  {
+    "Key": "Fetchling.Name",
+    "ProcessTemplates": false,
+    "zhCN": "窃影鬼",
+    "enGB": "Fetchling"
+  },
+
+  {
+    "Key": "Fetchling.Description",
+    "zhCN": "窃影鬼是光与影交融的生物，是困在阴影位面的人类的后裔。世代都与影界及其住民接触，使得窃影鬼成为了独立于人类的种族。尽管了解自己的起源，窃影鬼与自己的主物质位面先祖在肉体和精神特质方面并不相似，并以被和人类比较为耻。一些成员对“窃影鬼”之名抱以愤怒，因为这是那些将他们视为影界珍禽异兽的人类所取的名字。多数窃影鬼更喜欢被称为卡雅（kayal），这一邪灵语词汇的大意是“阴影之民”或“暮光住民”。\n作为人类血脉与阴影位面影响的混合产物，窃影鬼这一影界住民进化出了适于在萧瑟与无色地区生存的特性和能力。尽管多数窃影鬼将阴影位面视为家园，他们经常和主物质位面的生物联络和交易。为了寻求盟友和交易通道，一些窃影鬼从两界之间边界模糊之处深入主物质位面。这些窃影鬼通常以双方界域之间的商人和向导身份登场。",
+    "enGB": "Descended from humans trapped on the Shadow Plane, fetchlings are creatures of darkness and light intertwined. Generations of contact with that strange plane and its denizens have made fetchlings a race apart from humanity. While fetchlings acknowledge their origins, they exhibit little physical or cultural resemblance to their ancestors on the Material Plane, and are often insulted when compared to humans. Some members of the race also take offense at the name fetchling, as it was given to them by humans who saw them as little more than fetchers of rare materials from the Shadow Plane. Most fetchlings instead prefer to be called kayal, a word borrowed from Aklo that roughly translates to \"shadow people\" or \"dusk dwellers.\" Infused with the essence of the Shadow Plane and possessing human blood commingled with that of the Shadow Plane's natives, fetchlings have developed traits and abilities that complement their native plane's bleak and colorless terrain. Though most fetchlings treat the Shadow Plane as home, they often trade and deal with creatures of the Material Plane. Some fetchlings go so far as to create enclaves on the Material Plane in order to establish alliances and trade routes in areas where the boundary between the two planes is less distinct. These fetchlings often serve as merchants, middlemen, and guides for races on both sides of the planar boundary."
+  },
+
+  {
+    "Key": "Fetchling.ShadowBlending.Name",
+    "ProcessTemplates": false,
+    "zhCN": "融影",
+    "enGB": "Shadow Blending"
+  },
+
+  {
+    "Key": "Fetchling.ShadowBlending.Description",
+    "zhCN": "在昏暗的环境下对窃影鬼的攻击有50%失手率而非正常的20%失手率。该能力不会赋予窃影鬼全隐蔽；它只是增加了失手率。",
+    "enGB": "Attacks against a fetchling in dim light have a 50% miss chance. This ability does not grant total concealment; it just increases the miss chance."
+  },
+
+  {
+    "Key": "Fetchling.ShadowyResistance.Name",
+    "ProcessTemplates": false,
+    "zhCN": "暗影抗力",
+    "enGB": "Shadowy Resistance"
+  },
+
+  {
+    "Key": "Fetchling.ShadowyResistance.Description",
+    "zhCN": "窃影鬼拥有5点寒冷抗力和5点闪电抗力。",
+    "enGB": "Fetchlings have cold resistance 5 and electricity resistance 5."
+  },
+
+  {
+    "Key": "Fetchling.Skilled.Name",
+    "ProcessTemplates": false,
+    "zhCN": "技能奖励",
+    "enGB": "Skilled"
+  },
+
+  {
+    "Key": "Fetchling.Skilled.Description",
+    "zhCN": "窃影鬼在进行隐匿检定和知识（位面）检定时获得+2种族加值。",
+    "enGB": "Fetchlings have a +2 racial bonus on Knowledge (planes) and Stealth checks."
+  },
+
+  {
+    "Key": "Changeling.Name",
+    "ProcessTemplates": false,
+    "zhCN": "替换儿",
+    "enGB": "Changeling"
+  },
+
+  {
+    "Key": "Changeling.Description",
+    "zhCN": "替换儿是鬼婆和她们的爱人经由疯狂或是法术诞下的后代。在被丢弃到特定的养父母门口后，替换儿会被陌生人抚养长大。她们通常高挑而苗条，有着深幽的发色和迷人的外表，而其他的特征就如同其父亲的种族。替换儿总是女性，她们异色的双瞳和反常的苍白皮肤显示出了她们的真正身份。在青春期，一名替换儿会收到“呼唤”，一种将她们引向发现她们真正起源的旅途的催眠般的心灵之语。拒绝了这种呼唤的替换儿选择了她们自己的命运，而注意到这种呼唤并找到了她们的“母亲”的替换儿或许会通过变为鬼婆而获得更加强大的力量。",
+    "enGB": "Changelings are the offspring of hags and their lovers taken through magic or madness. Dropped off on doorsteps of prospective foster parents, changelings are raised by strangers. Typically tall, slender, dark haired, and attractive, changelings otherwise resemble their fathers' race. They are always female, and their mismatched colored eyes and abnormally pale skin hint at their true heritage. At puberty, changelings receive \"the call,\" a hypnotic spiritual voice that beckons them to travel and discover their true origins. Changelings who ignore this call choose their own destiny; those who heed it discover their \"mother\" and may come into great power by transforming into hags themselves."
+  },
+
+  {
+    "Key": "Changeling.WitchBorn.Name",
+    "ProcessTemplates": false,
+    "zhCN": "生而为巫",
+    "enGB": "Witchborn"
+  },
+
+  {
+    "Key": "Changeling.WitchBorn.Description",
+    "zhCN": "大部分替换儿是天生的女巫。他们在智力和魅力上获得+2种族加值，体质获得-2种族减值。",
+    "enGB": "Witchborn changelings are talented witches. They gain a +2 bonus to Intelligence and Charisma a -2 penalty to Constitution."
+  },
+
+  {
+    "Key": "Changeling.ChangelingGeneral.Name",
+    "ProcessTemplates": false,
+    "zhCN": "替换儿（典型）",
+    "enGB": "Changeling (General)"
+  },
+
+  {
+    "Key": "Changeling.ChangelingGeneral.Description",
+    "zhCN": "替换儿在感知和魅力上获得+2种族加值，体质获得-2种族减值。",
+    "enGB": "Changelings gain a +2 bonus to Wisdom and Charisma a -2 penalty to Constitution."
+  },
+
+  {
+    "Key": "Changeling.HagHeritage.Name",
+    "ProcessTemplates": false,
+    "zhCN": "鬼婆血统",
+    "enGB": "Hag Heritage"
+  },
+
+  {
+    "Key": "Changeling.HagHeritage.Description",
+    "zhCN": "虽然许多替换儿遵循其血统的典型姿态，但更多替换儿并非如此。那些拥有不同血脉的替换儿可能会展现出截然不同的传承特征，无论是在外貌还是能力上。",
+    "enGB": "Although many changelings follow the general model of the changeling, many more do not. Those of different lineages may evince dramatically different manifestations of their heritage, both in appearance and in ability."
+  },
+
+  {
+    "Key": "Changeling.Claws.Name",
+    "ProcessTemplates": false,
+    "zhCN": "利爪",
+    "enGB": "Claws"
+  },
+
+  {
+    "Key": "Changeling.Claws.Description",
+    "zhCN": "替换儿的指甲坚硬而又锐利，这使她们获得了2爪抓攻击（每只造成1d4点伤害）。",
+    "enGB": "Changelings' fingernails are hard and sharp, granting them two claw attacks (1d4 points of damage each)."
+  },
+
+  {
+    "Key": "Changeling.NaturalArmor.Name",
+    "ProcessTemplates": false,
+    "zhCN": "天生防御",
+    "enGB": "Natural Armor"
+  },
+
+  {
+    "Key": "Changeling.NaturalArmor.Description",
+    "zhCN": "替换儿获得+1天生防御加值。",
+    "enGB": "Changelings have a +1 natural armor bonus."
+  },
+
+  {
+    "Key": "Changeling.HulkingChangeling.Name",
+    "ProcessTemplates": false,
+    "zhCN": "凶拙替换儿（妖鬼婆）",
+    "enGB": "Hulking Changeling (Annis Hag)"
+  },
+
+  {
+    "Key": "Changeling.HulkingChangeling.Description",
+    "zhCN": "替换儿的近战伤害获得+1种族加值。",
+    "enGB": "The changeling gains a +1 racial bonus on melee damage."
+  },
+
+  {
+    "Key": "Changeling.Pyrophile.Name",
+    "ProcessTemplates": false,
+    "zhCN": "嗜火者（灰烬鬼婆）",
+    "enGB": "Pyrophile (Ash Hag)"
+  },
+
+  {
+    "Key": "Changeling.Pyrophile.Description",
+    "zhCN": "替换儿使用的带有火焰描述符的法术，其伤害投骰获得+1种族加值。替换儿在1级后每4个等级，该加值额外增加1点。",
+    "enGB": "The changeling gains a +1 racial bonus on damage rolls when using spells with the fire descriptor. This bonus increases by 1 for every 4 levels the changeling has beyond 1st."
+  },
+
+  {
+    "Key": "Changeling.GreenWidow.Name",
+    "ProcessTemplates": false,
+    "zhCN": "绿寡妇（绿鬼婆）",
+    "enGB": "Green Widow (Green Hag)"
+  },
+
+  {
+    "Key": "Changeling.GreenWidow.Description",
+    "zhCN": "替换儿在唬骗检定上获得+2加值。",
+    "enGB": "The changeling gains a +2 racial bonus on Bluff checks."
+  },
+
+  {
+    "Key": "Changeling.GazeBlindness.Name",
+    "ProcessTemplates": false,
+    "zhCN": "凝视盲目（哑鬼婆）",
+    "enGB": "Gaze Blindness (Mute Hag)"
+  },
+
+  {
+    "Key": "Changeling.GazeBlindness.Description",
+    "zhCN": "替换儿在对抗凝视攻击的豁免检定中获得+2种族加值。",
+    "enGB": "The changeling gains a +2 racial bonus on saving throws against gaze attacks."
+  },
+
+  {
+    "Key": "Changeling.HeartstoneHeritor.Name",
+    "ProcessTemplates": false,
+    "zhCN": "心石传承者（夜鬼婆）",
+    "enGB": "Heartstone Heritor (Night Hag)"
+  },
+
+  {
+    "Key": "Changeling.HeartstoneHeritor.Description",
+    "zhCN": "替换儿在对抗疾病的豁免检定中获得+2种族加值。",
+    "enGB": "The changeling gains a +2 racial bonus on saving throws against disease."
+  },
+
+  {
+    "Key": "Changeling.HagRacialTrait.Name",
+    "ProcessTemplates": false,
+    "zhCN": "鬼婆种族特性",
+    "enGB": "Hag Racial Trait"
+  },
+
+  {
+    "Key": "Changeling.HagRacialTrait.Description",
+    "zhCN": "替换儿继承了独特的种族特性，这取决于她母亲属于何种鬼婆。",
+    "enGB": "A changeling inherits a unique racial trait, depending on her mother's hag type."
+  },
+
+  {
+    "Key": "Skinwalker.Name",
+    "ProcessTemplates": false,
+    "zhCN": "兽态人",
+    "enGB": "Skinwalker"
+  },
+
+  {
+    "Key": "Skinwalker.Description",
+    "zhCN": "兽态人在大多数时候看起来像人类，但他们拥有着一种奇异的能力，可以变身成野兽般的类人生物，这些生物融合了血肉和毛发的骇人之处。\n大多数人认为兽态人是兽化人的混血后裔，或者他们也沾染了那些生物诅咒的些许痕迹。兽态人萨满祭司说他们是被自然或神祇选中的，成为人类世界和动物世界之间的桥梁。 事实真相或许介于这两种观点之间。因为实际上，兽态人是那些其家族谱系中的某个分支潜藏着狼人血统的人。 这些可怕的狼人和其他夜行生物的远亲后裔拥有着有别于大多数文明种族的特殊天赋，且会随机出现在偏远的人形生物族群中，以及他们自己隐秘的宗派之中。\n一对人类夫妇可能会生育出兽态人，由于潜伏的狼人血统在后代身上显现出来，使得孩子既非野兽亦非人类——或者，一对兽态人父母也可能生育出兽态人孩子，尽管这种结合有时也会生出人类后代。",
+    "enGB": "Skinwalkers resemble humans much of the time, but they possess the uncanny ability to transform into bestial humanoids who combine the most fearsome aspects of flesh and fur. \nMost people believe skinwalkers are half-breeds of lycanthropes, or that they share some slight version of the curse of those creatures. Skinwalker shamans say they are chosen by nature or the gods to be a bridge between the world of humanity and the animal world. The truth may lie somewhere between these two ideas. For indeed, skinwalkers are those with a lycanthrope crouching somewhere in the branches of their family tree. These distant progeny of monstrous werewolves and other creatures of the night have special talents unlike those of most civilized peoples, and they arise randomly among remote humanoid populations as well as within their own secretive sects. A pair of humans may give birth to a skinwalker梩he dormant lycanthropic ancestry making itself known in a child neither beast nor human梠r a pair of skinwalker parents may produce a skinwalker child, though these couplings can sometimes produce human children as well."
+  },
+
+  {
+    "Key": "Skinwalker.Heritage.Name",
+    "ProcessTemplates": false,
+    "zhCN": "兽态人亚种",
+    "enGB": "Skinwalker Heritage"
+  },
+
+  {
+    "Key": "Skinwalker.Heritage.Description",
+    "zhCN": "普通兽态人仅仅是他们同类中最常见的类型，但还有一些兽态人继承了更多先祖的兽性本质，并且在他们身上可以看到非常特定类型的兽化症特征。 无论是野猪人的后裔、鳄鱼人的后代，还是鼠人的远亲，这些个体都比其他兽态人与其先祖拥有更强的联系，从而在不同的属性和技能上提供加值，并且还会改变他们变身后的属性加值和野兽特征。",
+    "enGB": "The base skinwalker is merely the most common of its kind but there are those who've inherited a larger share of their ancestors' animalistic beings, and in whom can be seen the traits of very specific types of lycanthropes. Whether the scions of wereboars, the grandchildren of werecrocodiles, or the distant progeny of wererats, these individuals possess stronger ties to their ancestors than other skinwalkers providing bonuses to different ability scores and skills, and also altering their shifted ability score bonus and bestial features."
+  },
+
+  {
+    "Key": "Ragebred.Name",
+    "ProcessTemplates": false,
+    "zhCN": "怒孽（野猪人后裔）",
+    "enGB": "Ragebred (Wereboar-kin)"
+  },
+
+  {
+    "Key": "Ragebred.Description",
+    "zhCN": "野猪人后裔以其火爆的脾气、顽固的犟脾气和强烈的家庭观念而闻名。 怒孽的韧性和无法抑制的表达欲也为这个种族赢得了尊重，并获得了自由斗士的美誉。 野猪人后裔常常对自身能力的来源感到羞耻，并且对真正的野猪人抱有强烈的厌恶感，即使这种憎恨之中也掺杂着武士般的敬意。\n野猪人后裔通常避开大型人群，除非他们对自己有足够的信心，确信自己有能力通过收买、魅惑或恐吓等手段来获得权力和尊重。 那些确实生活在繁忙社交圈中的怒孽，是能够将他们强烈的情感注入到影响深远的计划、创造性表达或专业技能中的人。 其他怒孽则选择了更为常见的道路，即在文明边缘开辟一块由他们掌控权力的领地。 许多新兴的领主都是野猪人后裔，他们成功地创造了一个无需畏惧任何人评判的场所。\n由于怒孽反复无常的天性和天生的防御心理，他们有时难以维持任何形式的健康关系，但有些人通过专注于他们与同为野猪人后裔或经历过苦难的人类所共有的强烈情感，找到了友谊和力量。 他们因其暴风雨般的爱情而得名“怒孽”，这种恋情似乎在情侣频繁上演戏剧性的冲突和充满爱意的和解时最为成功。\n怒孽兽态人的力量属性获得+2种族加值，魅力属性获得-2种族减值，察觉和学识（自然）技能检定上获得+2种族加值。 当他们处于兽化形态时，体质属性获得+2种族加值，获得一次造成1d6伤害的主要抵刺攻击，并且移动速度获得10英尺的种族加值。",
+    "enGB": "Wereboar-kin are known for their fiery tempers, wide stubborn streaks, and strong familial bonds. The ragebred's tenacity and irrepressible expressiveness has also earned this race respect and a reputation as freedom fighters. Wereboar-kin are often ashamed of where their abilities come from and have no shortage of ill feelings for true wereboars, even if this hatred is mingled with martial respect. Wereboar-kin generally avoid large groups of people unless they feel confident of their own ability to buy, charm, or bully their way into power and respect. The ragebred who do live in busy social circles are those able to channel their strong emotions into far-reaching schemes, creative expression, or their professional crafts. Others choose the more common route of carving out a place where they hold power at the edge of civilization. More than one upstart liege has been a wereboar-kin who successfully created a place where he need not fear anyone's judgment. \nWereboar-kin sometimes struggle to maintain healthy relationships of any sort because of their mercurial natures and natural defensiveness, but some find camaraderie and strength by focusing on the strong emotions they share with their fellow wereboar-kin or humans who have known hardship. They have acquired the name \"ragebred\" for their habit of tempestuous romances that seem to be most successful when the couple engages in frequent bouts of dramatic conflict and affectionate reconciliation. \nRagebred skinwalkers receive a +2 racial bonus to Strength, a -2 penalty to Charisma, and a +2 racial bonus to Perception and Lore (Nature) skills. When in their bestial form, they gain a +2 racial bonus to Constitution, a primary gore attack that deals 1d6 damage, and a +10 foot racial bonus to movement speed."
+  },
+
+  {
+    "Key": "Ragebred.Skilled.Name",
+    "ProcessTemplates": false,
+    "zhCN": "技能奖励",
+    "enGB": "Skilled"
+  },
+
+  {
+    "Key": "Ragebred.Skilled.Description",
+    "zhCN": "怒孽兽态人在察觉和学识（自然）技能检定上获得+2加值。",
+    "enGB": "Ragebred skinwalkers recieve a +2 racial bonus to Perception and Lore (Nature) skill checks."
+  },
+
+  {
+    "Key": "Ragebred.ChangeShape.Name",
+    "ProcessTemplates": false,
+    "zhCN": "变化形体",
+    "enGB": "Change Shape"
+  },
+
+  {
+    "Key": "Ragebred.ChangeShape.Description",
+    "zhCN": "怒孽兽态人可以以标准动作改变自己的形态，在类人形态和兽化形态之间转换。当处于兽化形态时，怒孽兽态人的体质属性获得+2种族加值。在此形态下，怒孽兽态人还会获得一次造成1d6伤害的主要抵刺攻击，并且移动速度获得10英尺的种族加值。",
+    "enGB": "A ragebred skinwalker can change shape to and from a bestial form as a standard action. In bestial form, a ragebred skinwalker gains a +2 racial bonus to Constitution. While in this form, a ragebred skinwalker also gains a primary gore attack that deals 1d6 damage and a +10 foot racial bonus to movement speed."
+  },
+
+  {
+    "Key": "Coldborn.Name",
+    "ProcessTemplates": false,
+    "zhCN": "冷嗣（熊人后裔）",
+    "enGB": "Coldborn (Werebear-kin)"
+  },
+
+  {
+    "Key": "Coldborn.Description",
+    "zhCN": "熊人后裔以其作为荒野捍卫者的身份而闻名和受人尊敬。 他们倾向于在林地中开辟自己的位置，作为林地向导、游侠和隐士，人类可以在荒野中向他们寻求指引。\n他们被称为冷嗣，是因为他们通常在冬季变得迟钝和孤僻，除非有要事需要处理，并且在冬季结束时，他们会恢复典型的举止，并焕发出新的活力。\n尽管他们经常避开大型聚居地，但众所周知，冷嗣会违抗他们熊类的冲动，转而追求他们类人生物对社群的渴望，他们或自行组成小型紧密的社群（由几个家庭或由挚友组成的选定家庭构成），或安排年度或季节性聚会，以便与来自该地区各处的同伴保持联系。\n熊人后裔以其勤劳而闻名，并且经常通过交易兽皮、皮革和其他森林产品来维持生计。 这种交易使他们能够获得有用的工具，以保卫家园和度过艰难时期。 这也意味着他们经常与一些非冷嗣之人接触，尽管他们认为大多数外来者贪婪且痴迷于财富和地位。 在北部和山区，这种态度为他们赢得了僧侣的高度尊重。 与熊人类似，冷嗣往往肩膀宽阔、肌肉发达、五官棱角分明，但除非他们确实经历过艰苦的劳动生活，否则他们通常不会像熊人那样显得饱经风霜。\n冷嗣兽态人的体质属性获得+2种族加值，魅力属性获得-2种族减值，在运动和学识（自然）技能检定上获得+2种族加值。 当他们处于兽化形态时，感知属性获得+2种族加值，获得一次造成1d6伤害的主要抵刺攻击，以及两次造成1d4伤害的爪抓攻击。",
+    "enGB": "Werebear-kin are known and respected as defenders of the wilds. They tend to carve out niches as woodland guides, rangers, and recluses to whom humans can turn for guidance in the wilderness. \nThey are called coldborn because they often become torpid and withdrawn during the winter months unless they have matters to attend to, and they resume their typical demeanors with renewed energy at winter's end. \nAlthough they often avoid large settlements, coldborn are known to defy their ursine urges in favor of their humanlike desire for community, either forming small, intimate communities of their own (consisting of a few families or a chosen family of good friends) or arranging annual or seasonal gatherings to keep in touch with their fellows from all across the area. \nWerebear-kin are renowned for their industriousness, and often make a good living trading in skins, leather, and other products of the forest. This trade allows them to acquire useful tools for defending their homes and surviving lean times. It also means that they are often in contact with a few non-coldborn, though they regard most outsiders as greedy and obsessed with wealth and status. In northern and mountainous regions, this attitude has earned them a great deal of respect from monks. Like werebears, coldborn tend to be quite broad-shouldered, muscular, and strong-featured, but they generally do not share werebears' work-worn appearance unless they have actually known a life of hard labor. \nColdborn skinwalkers receive a +2 racial bonus to Constitution, a -2 penalty to Charisma, and a +2 racial bonus to Athletics and Lore (Nature) skills. When in their bestial form, they gain a +2 racial bonus to Wisdom, a primary gore attack that deals 1d6 damage, and two claw attacks which deal 1d4 damage."
+  },
+
+  {
+    "Key": "Coldborn.Skilled.Name",
+    "ProcessTemplates": false,
+    "zhCN": "技能奖励",
+    "enGB": "Skilled"
+  },
+
+  {
+    "Key": "Coldborn.Skilled.Description",
+    "zhCN": "冷嗣兽态人在运动和学识（自然）技能检定上获得+2加值。",
+    "enGB": "Coldborn skinwalkers recieve a +2 racial bonus to Athletics and Lore (Nature) skill checks."
+  },
+
+  {
+    "Key": "Coldborn.ChangeShape.Name",
+    "ProcessTemplates": false,
+    "zhCN": "变化形体",
+    "enGB": "Change Shape"
+  },
+
+  {
+    "Key": "Coldborn.ChangeShape.Description",
+    "zhCN": "冷嗣兽态人可以以标准动作改变自己的形态，在类人形态和兽化形态之间转换。当处于兽化形态时，冷嗣兽态人的感知属性获得+2种族加值。在此形态下，冷嗣兽态人还会获得一次造成1d6伤害的主要啮咬攻击，以及两次造成1d4伤害的爪抓攻击。",
+    "enGB": "A coldborn skinwalker can change shape to and from a bestial form as a standard action. In bestial form, a coldborn skinwalker gains a +2 racial bonus to Wisdom. While in this form, a coldborn skinwalker also gains a primary bite attack that deals 1d6 damage and two claw attacks that deal 1d4 damage."
+  },
+
+  {
+    "Key": "Fanglord.Name",
+    "ProcessTemplates": false,
+    "zhCN": "牙王（虎人后裔）",
+    "enGB": "Fanglord (Weretiger-kin)"
+  },
+
+  {
+    "Key": "Fanglord.Description",
+    "zhCN": "虎人后裔以其反复无常的态度和难以预测的行为而闻名。 通常，牙王通过恐吓、尔虞我诈的商业交易、政治阴谋和军事冒险来谋生。 非常像虎人，他们很少与同类聚集，除非是结成配偶，或一两个父母带着几个孩子，尽管当他们彼此尊重对方的力量时，有时会同意与邻近的牙王或虎人形成相互保护的寡头同盟。 他们通常具有贵族背景或假装拥有的魅力，并且乐于在富裕地区定居，在那里，一个牙王通常会宣称统治从小型社区到大型城市区域的任何地方。\n虎人后裔往往对自己的血统异常自豪，并且自信爆棚，自认为不仅对人类，而且对动物也拥有权威。\n虽然通常非常能干，但牙王并不反对等待最佳时机来实施计划或打击敌人，以确保他们能够以压倒性的效率采取行动，并完全消除对手反击的可能性。 因此，他们是完美的刺客和令人沮丧的政治敌人。 虎人后裔通常有着大眼睛、长鼻子和轮廓分明的颧骨。\n牙王兽态人的敏捷属性获得+2种族加值，感知属性获得-2种族减值，在运动和察觉技能检定上获得+2种族加值。 当他们处于兽化形态时，魅力属性获得+2种族加值，获得一次造成1d6伤害的主要啮咬攻击，并且移动速度获得10英尺的种族加值。",
+    "enGB": "Weretiger-kin are known for their fickle attitudes and unpredictable behavior. Usually, a fanglord makes his living by intimidation, cutthroat business dealings, political ploys, and military ventures. Very much like weretigers, they rarely congregate with others of their kind except as mated pairs or one or two parents with a few children, although they sometimes agree to form oligarchic arrangements of mutual protection with neighboring fanglords or weretigers when each of them can respect the other's strength. They often have aristocratic connections or the charm to fake it, and are happy to settle in affluent areas, where one fanglord typically claims dominion over anything from a small neighborhood to a large city district. \nWeretiger-kin tend to be exceptionally proud of their heritage and confident to the point of hubris regarding their authority over not only humans, but also animals. \nAlthough usually quite capable, fanglords are not opposed to waiting for just the right moment to spring a plan or strike against an enemy, making sure they can act with overwhelming effectiveness and completely negate the chance of an opponent fighting back. As a result, they make impeccable assassins and frustrating political enemies. Weretiger-kin often have large eyes, long noses, and sharp cheekbones.\nFanglord skinwalkers receive a +2 racial bonus to Dexterity, a -2 penalty to Wisdom, and a +2 racial bonus to Athletics and Perception skills. When in their bestial form, they gain a +2 racial bonus to Charisma, a primary bite attack that deals 1d6 damage, and a +10 foot racial bonus to movement speed."
+  },
+
+  {
+    "Key": "Fanglord.Skilled.Name",
+    "ProcessTemplates": false,
+    "zhCN": "技能奖励",
+    "enGB": "Skilled"
+  },
+
+  {
+    "Key": "Fanglord.Skilled.Description",
+    "zhCN": "牙王兽态人在运动和察觉技能检定上获得+2种族加值。",
+    "enGB": "Fanglord skinwalkers recieve a +2 racial bonus to Athletics and Perception skill checks."
+  },
+
+  {
+    "Key": "Fanglord.ChangeShape.Name",
+    "ProcessTemplates": false,
+    "zhCN": "变化形体",
+    "enGB": "Change Shape"
+  },
+
+  {
+    "Key": "Fanglord.ChangeShape.Description",
+    "zhCN": "牙王兽态人可以以标准动作改变自己的形态，在类人形态和兽化形态之间转换。当处于兽化形态时，牙王兽态人的魅力属性获得+2种族加值。在此形态下，牙王兽态人还会获得一次造成1d6伤害的主要啮咬攻击，并且移动速度获得10英尺的种族加值。",
+    "enGB": "A fanglord skinwalker can change shape to and from a bestial form as a standard action. In bestial form, a fanglord skinwalker gains a +2 racial bonus to Charisma. While in this form, a fanglord skinwalker also gains a primary bite attack that deals 1d6 damage and a +10 foot racial bonus to movement speed."
+  },
+
+  {
+    "Key": "Nightskulk.Name",
+    "ProcessTemplates": false,
+    "zhCN": "夜隐（鼠人后裔）",
+    "enGB": "Nightskulk (Wererat-kin)"
+  },
+
+  {
+    "Key": "Nightskulk.Description",
+    "zhCN": "鼠人后裔在城市地区很常见，并且像鼠人一样，他们通常依靠隐秘和狡猾在那些迫害他们的都市中心生存。 许多 rogue 和恶棍认为拥有一丝啮齿动物血统是一种有用的优势，有些人甚至会虚假地吹嘘自己具有这种特质，以快速获得声誉并震慑对手。 然而，真正的夜隐深知，散布这样的信息只会招致绝望，因为在所有兽态人中，夜隐可能是最普遍受鄙视的。\n与其他兽态人不同，即使是大型夜隐社群也常常几乎完全从周围的人类社会中汲取文化，通过同化来换取古代兽态人传统的丧失。\n大多数夜隐发现，城市中受感染的和天生的鼠人的文化非常适合他们，并且经常可以发现他们与这些纯血统的兽化人交往。 由于缺乏鼠人那种可以藏匿在真正老鼠之中的能力，夜隐常常专精于藏匿在人类之中。 尽管他们尽可能地尝试与其他鼠人后裔和真正的鼠人保持联系以实现共同安全，但鼠人后裔已经了解到，最安全的做法是继续隐藏在人类群体中，并且在对兽化人的恐惧有可能将夜隐的社群变成贱民时消失无踪。 夜隐往往身材矮小而精瘦，眼睛不停地扫视。 男性通常留着稀疏、参差不齐的胡须，而女性则身形纤细、如鸟雀般娇小。 男女都喜欢穿着精美的毛皮和柔软蓬松的服装来保暖，并炫耀他们拥有的任何财富。\n夜隐兽态人的智力属性获得+2种族加值，力量属性获得-2种族减值，在学识（自然）和隐匿技能检定上获得+2种族加值。 当他们处于兽化形态时，敏捷属性获得+2种族加值，获得一次造成1d6伤害的主要啮咬攻击，并且在被咬伤时，若目标未通过强韧豁免检定，则会陷入恶心状态。",
+    "enGB": "Wererat-kin are common in urban areas, and like wererats, they usually rely on their stealth and cunning to get by in those metropolitan centers where they are persecuted. Many rogues and scoundrels think of a trace of rodent blood as a useful advantage, and some even falsely brag of having this trait to earn a quick reputation and intimidate rivals. True nightskulks, however, know that spreading such information only invites despair, for of all the skinwalkers nightskulks are perhaps the most universally despised. \nUnlike other skinwalkers, even large nightskulk communities often draw their culture almost completely from the surrounding human society, assimilating at the cost of losing their ancient skinwalker traditions. \nMost have found that the culture of infected and natural wererats in cities suits them, and can frequently be found consorting with these full-blooded lycanthropes. Lacking the wererat's ability to hide among true rats, nightskulks often specialize in hiding instead among humans. Although they try to maintain ties with other wererat-kin and true wererats for mutual security if possible, wererat-kin have learned that it is safest to remain hidden among the human masses and disappear whenever fear of lycanthropes would threaten to make pariahs out of an isolated community. Nightskulks tend to be short and wiry, with constantly darting eyes. Males often have thin, ragged mustaches, while females have thin, birdlike builds. Both sexes like to wear fine furs and soft, voluminous garments for warmth and to show off whatever wealth they possess.\nNightskulk skinwalkers receive a +2 racial bonus to Intelligence, a -2 penalty to Strength, and a +2 racial bonus to Lore (Nature) and Stealth skills. When in their bestial form, they gain a +2 racial bonus to Dexterity and a primary bite attack that deals 1d6 damage and can sicken opponents who fail a Fortitude save when bitten."
+  },
+
+  {
+    "Key": "Nightskulk.Skilled.Name",
+    "ProcessTemplates": false,
+    "zhCN": "技能奖励",
+    "enGB": "Skilled"
+  },
+
+  {
+    "Key": "Nightskulk.Skilled.Description",
+    "zhCN": "夜隐兽态人在学识（自然）和隐匿技能检定上获得+2种族加值。",
+    "enGB": "Nightskulk skinwalkers recieve a +2 racial bonus to Lore (Nature) and Stealth skill checks."
+  },
+
+  {
+    "Key": "Nightskulk.ChangeShape.Name",
+    "ProcessTemplates": false,
+    "zhCN": "变化形体",
+    "enGB": "Change Shape"
+  },
+
+  {
+    "Key": "Nightskulk.ChangeShape.Description",
+    "zhCN": "夜隐兽态人可以以标准动作改变自己的形态，在类人形态和兽化形态之间转换。当处于兽化形态时，夜隐兽态人的敏捷属性获得+2种族加值。在此形态下，夜隐兽态人还会获得一次造成1d6伤害的主要啮咬攻击，并且在啮咬命中时，会使被咬伤的对手恶心反胃一轮。",
+    "enGB": "A nightskulk skinwalker can change shape to and from a bestial form as a standard action. In bestial form, a nightskulk skinwalker gains a +2 racial bonus to Dexterity. While in this form, a fanglord skinwalker also gains a primary bite attack that deals 1d6 damage and sickens any bitten opponent for one round."
+  },
+
+  {
+    "Key": "Witchwolf.Name",
+    "ProcessTemplates": false,
+    "zhCN": "巫狼 (狼人后裔)",
+    "enGB": "Witchwolf (Werewolf-kin)"
+  },
+
+  {
+    "Key": "Witchwolf.Description",
+    "zhCN": "狼人后裔分布广泛，从雾气弥漫的沼泽到熙熙攘攘的城市中阴暗的巷道，都能寻觅到他们的踪迹，而且他们的血统或许是整个内海地区及更远处最常见的兽态人血统。 \n他们经常与狼人或同类居住在小型、与世隔绝的聚居地，在满月之夜，这些聚居地会回荡着狼嚎声。 许多狼人和巫狼以半游牧群体的形式生活，充当商人、神秘主义者、冒险家或演艺人员，这使他们能够在偏远的聚居地肆虐一番，然后在黑暗中溜走，以逃避随之而来的城镇居民的猜疑和敌意。 大多数这样的群体只包括狼人或只包括狼人后裔，但偶尔也会有一个群体出于环境或便利的原因接纳另一类成员，特别是当两者拥有共同血脉时。\n狼人后裔通常具有突出的连心眉、长长的食指，或难以驯服的蓬乱头发。 巫狼群体的领导者通常是接受过诅咒和变形传统训练的巫师，这种传统与兽化症的原始诅咒紧密相连； 这些巫师通常也是他们群体中最强大的成员，但也存在巫师在一位实力惊人的受宠盟友的协助下进行领导的例外情况。 由于狼人后裔无法像真正的狼人那样招募普通人类，因此他们往往更加谨慎，并且比真正的狼人更倾向于与同伴保持紧密的联系，他们的群体通常仅由一个或几个大家庭，或者可能是长期的朋友组成。\n当巫狼进入兽化形态时，他们的眼睛通常会呈现琥珀色或淡蓝色，犬齿会变得尖锐，皮肤上会长出成片的毛发，耳朵会变长，感官也因此得到极大的增强。\n巫狼兽态人的体质属性获得+2种族加值，智力属性获得-2种族减值，在察觉和学识（自然）技能检定上获得+2种族加值。 当他们处于兽化形态时，感知属性获得+2种族加值，获得一次造成1d6伤害的主要啮咬攻击，并在所有豁免检定上获得+2种族加值。",
+    "enGB": "Werewolf-kin are found in many areas, ranging from misty moors to dark alleys of bustling cities, and theirs is perhaps the most common visible skinwalker heritage to be found throughout the Inner Sea region and beyond. \nThey often dwell with werewolves or others of their kind in small, isolated settlements that resound with howls on the night of the full moon. Many werewolves and witchwolves live in seminomadic bands as traders, mystics, adventurers, or entertainers, allowing them to wreak havoc in remote settlements before slipping off into the darkness to escape the subsequent suspicion and hostility of townsfolk. Most such bands include only werewolves or only werewolf-kin, but occasionally one group adopts a member of the other sort out of circumstance or convenience, particularly if the two share common blood. \nWerewolf-kin generally have prominent eyebrows that grow together, long index fingers, or wild hair that seems impossible to tame. Witchwolf packs are often led by witches trained in a tradition of curses and transformation tied closely to the original curse of lycanthropy; these witches are also usually the most powerful members of their packs, though exceptions exist where a witch leads with the aid of a favored ally of incredible strength. Because werewolf-kin cannot recruit ordinary humans the way werewolves can, they tend to be more cautious and maintain closer bonds with their fellows than true werewolves usually do, and their bands typically consist of only one or a few extended families or possibly longtime friends. \nWhen witchwolves take bestial form, their eyes typically take on an amber or pale blue hue, their canines sharpen to points, patches of fur form on their skin, and their ears elongate as their senses are drastically heightened.\nWitchwolf skinwalkers receive a +2 racial bonus to Constitution, a -2 penalty to Intelligence, and a +2 racial bonus to Perception and Lore (Nature) skills. When in their bestial form, they gain a +2 racial bonus to Wisdom, a primary bite attack that deals 1d6 damage, and a +2 racial bonus to all saving throws."
+  },
+
+  {
+    "Key": "Witchwolf.Skilled.Name",
+    "ProcessTemplates": false,
+    "zhCN": "技能奖励",
+    "enGB": "Skilled"
+  },
+
+  {
+    "Key": "Witchwolf.Skilled.Description",
+    "zhCN": "巫狼兽态人在察觉和学识（自然）技能检定上获得+2种族加值。",
+    "enGB": "Witchwolf skinwalkers recieve a +2 racial bonus to Perception and Lore (Nature) skill checks."
+  },
+
+  {
+    "Key": "Witchwolf.ChangeShape.Name",
+    "ProcessTemplates": false,
+    "zhCN": "变化形体",
+    "enGB": "Change Shape"
+  },
+
+  {
+    "Key": "Witchwolf.ChangeShape.Description",
+    "zhCN": "巫狼兽态人可以以标准动作改变自己的形态，在类人形态和兽化形态之间转换。当处于兽化形态时，巫狼兽态人的感知属性获得+2种族加值。在此形态下，巫狼兽态人还会获得一次造成1d6伤害的主要啮咬攻击，并在所有豁免检定上获得+2种族加值。",
+    "enGB": "A witchwolf skinwalker can change shape to and from a bestial form as a standard action. In bestial form, a witchwolf skinwalker gains a +2 racial bonus to Wisdom. While in this form, a witchwolf skinwalker also gains a primary bite attack that deals 1d6 damage and a +2 racial bonus to all saving throws."
+  },
+
+  {
+    "Key": "Bloodmarked.Name",
+    "ProcessTemplates": false,
+    "zhCN": "血印（蝙蝠人后裔）",
+    "enGB": "Bloodmarked (Werebat-kin)"
+  },
+
+  {
+    "Key": "Bloodmarked.Description",
+    "zhCN": "血印如同蝙蝠兽化人一样，通常具有群居性，并且常常顺从于他们蝠群中的上级，甚至是其他领导者或雇主。 他们天性合群但又野蛮，喜欢利用他们朴实无华的自然形态来欺骗他人，然后再展现他们真正的野兽般的力量。 血印通过他们摆脱群体束缚、做出自己的选择以及与人类交往的能力，展现出他们的人类血统，他们不会试图将自己的生活方式强加于人类，尽管群体强烈反对制造麻烦者，如果有人与群体作对，麻烦制造者会发现很难得到其他蝙蝠人后裔的支持。\n与蝙蝠兽化人一样，血印也热衷于精心设计的社交仪式，这些仪式可以增强群体的凝聚力和忠诚度。 \n蝙蝠人后裔的仪式通常包括穿着蝙蝠皮、献祭动物或类人生物以及饮用鲜血。\n蝙蝠人后裔最常出没于茂密的森林和丛林附近。 由于对局外人缺乏信任，蝙蝠人后裔常常在文明社会的边缘形成封闭的社群，每个血印都忠诚于社群中的每一位成员，以及击败所有挑战者的领导者。 然而，与其他兽态人一样，血印通常出生在不包含其他同类的社会中，而这些个体倾向于寻找替代性的蝠群，通常以暴力团伙、紧密结合的冒险队伍，甚至是与世隔绝的学术圈子的形式出现，具体取决于个体的性格。 血印通常身材高挑而瘦削，头发颜色较深，面部轮廓硬朗。 视力不佳在蝙蝠人后裔中相对常见，尽管他们的听觉和嗅觉通常都足够灵敏，可以弥补视力的不足。\n血印兽态人的敏捷属性获得+2种族加值，感知属性获得-2种族减值，在运动和察觉技能检定上获得+2种族加值。 当他们处于兽化形态时，魅力属性获得+2种族加值，获得一次造成1d6伤害的主要啮咬攻击，并且移动速度获得10英尺的种族加值。",
+    "enGB": "Bloodmarked, like werebats, are generally communal and often defer readily to their superiors within their flocks or even other leaders or employers. They tend to be gregarious yet savage, and enjoy using their unassuming natural forms to trick others before revealing their true bestial powers. Bloodmarked reveal their human ancestry in their ability to break from the group, make their own choices, and associate with humans without trying to force their way of life upon them, although troublemakers are strongly frowned upon and find it hard to get any other werebat-kin to take their side if in opposition to the group. \nLike werebats, bloodmarked are fond of elaborate social ceremonies that strengthen group cohesion and loyalty. \nWerebat-kin ceremonies often involve wearing bat skins, sacrificing animals or humanoids, and drinking blood. \nWerebat-kin are most commonly found near dense forests and jungles. With little trust for outsiders, werebat-kin often form insular communities at the fringes of civilized societies, with each bloodmarked being loyal to every member of the community and whichever leader has bested all challengers. Like other skinwalkers, however, bloodmarked are typically born into societies that don抰 include others of their kind, and these individuals are inclined to seek out surrogate flocks, generally in the form of violent gangs, tight-knit adventuring parties, or even insular academic circles, according to the individual抯 disposition. Bloodmarked are generally tall and slight, with dark hair and severe features. Poor eyesight is relatively common among werebat-kin, though they often hear and smell well enough to make up for it.\nBloodmarked skinwalkers receive a +2 racial bonus to Dexterity, a -2 penalty to Wisdom, and a +2 racial bonus to Athletics and Perception skills. When in their bestial form, they gain a +2 racial bonus to Charisma, a primary bite attack that deals 1d6 damage, and +10 foot racial bonus to movement speed."
+  },
+
+  {
+    "Key": "Bloodmarked.Skilled.Name",
+    "ProcessTemplates": false,
+    "zhCN": "技能奖励",
+    "enGB": "Skilled"
+  },
+
+  {
+    "Key": "Bloodmarked.Skilled.Description",
+    "zhCN": "血印兽态人在运动和察觉技能检定上获得+2种族加值。",
+    "enGB": "Bloodmarked skinwalkers recieve a +2 racial bonus to Athletics and Perception skill checks."
+  },
+
+  {
+    "Key": "Bloodmarked.ChangeShape.Name",
+    "ProcessTemplates": false,
+    "zhCN": "变化形体",
+    "enGB": "Change Shape"
+  },
+
+  {
+    "Key": "Bloodmarked.ChangeShape.Description",
+    "zhCN": "血印兽态人可以以标准动作改变自己的形态，在类人形态和兽化形态之间转换。当处于兽化形态时，血印兽态人的魅力属性获得+2种族加值。在此形态下，血印兽态人还会获得一次造成1d6伤害的主要啮咬攻击，并且移动速度获得10英尺的种族加值。",
+    "enGB": "A bloodmarked skinwalker can change shape to and from a bestial form as a standard action. In bestial form, a bloodmarked skinwalker gains a +2 racial bonus to Charisma. While in this form, a bloodmarked skinwalker also gains a primary bite attack that deals 1d6 damage and a +10 racial bonus to movement speed."
+  },
+
+  {
+    "Key": "ClassicSkinwalker.Name",
+    "ProcessTemplates": false,
+    "zhCN": "兽态人（典型）",
+    "enGB": "Skinwalker (General)"
+  },
+
+  {
+    "Key": "ClassicSkinwalker.Description",
+    "zhCN": "兽态人与自然的秩序协调一致，并且重视激情胜过理性。他们的感知属性获得+2种族加值，智力属性受到-2减值，在学识（自然）技能检定上获得+2种族加值。当他们处于兽化形态时，力量、敏捷或体质属性三者中选择一项获得+2种族加值，同时获得两次造成1d4伤害的爪抓攻击，以及+1天生防御加值。特定血统的兽态人会获得不同的属性调整值。",
+    "enGB": "Skinwalkers are well attuned to the natural order of things and value passion above reason. They gain +2 racial bonus to Wisdom, ? penalty to Intelligence, and a +2 racial bonus to Lore (Nature) skill checks. While in their bestial form, they gain a +2 racial bonus to either Strength, Dexterity, or Constitution, along with two claw attacks that deal 1d4 damage and a +1 bonus to natural armor. Skinwalkers of specific heritages gain different ability score modifiers, as indicated."
+  },
+
+  {
+    "Key": "ClassicSkinwalker.Skilled.Name",
+    "ProcessTemplates": false,
+    "zhCN": "技能奖励",
+    "enGB": "Skilled"
+  },
+
+  {
+    "Key": "ClassicSkinwalker.Skilled.Description",
+    "zhCN": "兽态人在学识（自然）技能检定上获得+2种族加值。",
+    "enGB": "Skinwalkers recieve a +2 racial bonus to Lore (Nature) skill checks."
+  },
+
+  {
+    "Key": "ClassicSkinwalker.ChangeShapeStr.Name",
+    "ProcessTemplates": false,
+    "zhCN": "变化形体（力量形态）",
+    "enGB": "Change Shape (Strength)"
+  },
+
+  {
+    "Key": "ClassicSkinwalker.ChangeShapeStr.Description",
+    "zhCN": "兽态人可以以标准动作改变自己的形态，在类人形态和兽化形态之间转换。当处于兽化形态时，兽态人在力量、敏捷或体质属性三者中选择一项获得+2种族加值。此外，在此形态下，兽态人还会获得两次造成1d4伤害的爪抓攻击，以及+1天生防御加值。",
+    "enGB": "A skinwalker can change shape to and from a bestial form as a standard action. In bestial form, a skinwalker gains a +2 racial bonus to either Strength, Dexterity, or Constitution. Additionally, the skinwalker gains two claw attacks dealing 1d4 damage and a +1 natural armor bonus when in bestial form."
+  },
+
+  {
+    "Key": "ClassicSkinwalker.ChangeShapeCon.Name",
+    "ProcessTemplates": false,
+    "zhCN": "变化形体（体质形态）",
+    "enGB": "Change Shape (Constitution)"
+  },
+
+  {
+    "Key": "ClassicSkinwalker.ChangeShapeCon.Description",
+    "zhCN": "兽态人可以以标准动作改变自己的形态，在类人形态和兽化形态之间转换。当处于兽化形态时，兽态人在力量、敏捷或体质属性三者中选择一项获得+2种族加值。此外，在此形态下，兽态人还会获得两次造成1d4伤害的爪抓攻击，以及+1天生防御加值。",
+    "enGB": "A skinwalker can change shape to and from a bestial form as a standard action. In bestial form, a skinwalker gains a +2 racial bonus to either Strength, Dexterity, or Constitution. Additionally, the skinwalker gains two claw attacks dealing 1d4 damage and a +1 natural armor bonus when in bestial form."
+  },
+
+  {
+    "Key": "ClassicSkinwalker.ChangeShapeDex.Name",
+    "ProcessTemplates": false,
+    "zhCN": "变化形体（敏捷形态）",
+    "enGB": "Change Shape (Dexterity)"
+  },
+
+  {
+    "Key": "ClassicSkinwalker.ChangeShapeDex.Description",
+    "zhCN": "兽态人可以以标准动作改变自己的形态，在类人形态和兽化形态之间转换。当处于兽化形态时，兽态人在力量、敏捷或体质属性三者中选择一项获得+2种族加值。此外，在此形态下，兽态人还会获得两次造成1d4伤害的爪抓攻击，以及+1天生防御加值。",
+    "enGB": "A skinwalker can change shape to and from a bestial form as a standard action. In bestial form, a skinwalker gains a +2 racial bonus to either Strength, Dexterity, or Constitution. Additionally, the skinwalker gains two claw attacks dealing 1d4 damage and a +1 natural armor bonus when in bestial form."
+  },
+
+  {
+    "Key": "Scaleheart.Name",
+    "ProcessTemplates": false,
+    "zhCN": "鳞心（鳄鱼人后裔）",
+    "enGB": "Scaleheart (Werecrocodile-kin)"
+  },
+
+  {
+    "Key": "Scaleheart.Description",
+    "zhCN": "从身体特征上看，鳞心兽态人皮肤粗糙，通常行动迟缓，除非投入战斗。 他们往往冷酷无情但又极富耐心。 所有的鳞心兽态人都是天生的游泳健将。 追溯到鳞心兽态人在阿卡迪亚的同类，鳞心兽态人的文化最尊崇莫过于展现自身凌驾于他人之上的能力，通常是肢体上的力量，但也包括狡猾的手段和魔法。 鳄鱼人后裔以其令人惊讶且充满暴力的支配性展示而闻名， 他们同样以通过操纵和引诱显赫的人类来证明自己的优越性而臭名昭著。 鳞心兽态人不如真正的鳄鱼兽化人那样强大或孤僻，当他们确实进行合作时，更喜欢组建他们自己的小型水边社群。\n鳞心兽态人的体质属性获得+2种族加值，感知属性获得-2种族减值，在学识（自然）和隐匿技能检定上获得+2种族加值。 当他们处于兽化形态时，力量属性获得+2种族加值，获得一次造成1d6伤害的主要啮咬攻击，以及凶猛特性，使得鳞心兽态人在生命值降至 0 点时，能够继续战斗一轮。 如果鳞心兽态人在其下一个回合结束时仍未恢复到 0 点以上生命值，他们将陷入昏迷。",
+    "enGB": "Physically, scaleheart skinwalkers are thick-skinned and usually sluggish unless engaged in combat. They tend to be ruthless but patient. All are natural swimmers. In a pattern stretching all the way back to scalehearts' counterparts in Arcadia, scaleheart culture respects nothing so much as the ability to demonstrate power over others, most often physically but also through cunning and magic. Werecrocodile-kin are renowned for their surprising and violent displays of dominance they have an equally strong reputation for proving their superiority by manipulating and seducing prominent humans. Not as powerful or as solitary as true werecrocodiles, scalehearts prefer to form their own small waterside communities when they do collaborate. \nScaleheart skinwalkers receive a +2 racial bonus to Constitution, a -2 penalty to Wisdom, and a +2 racial bonus to Lore (Nature) and Stealth skills. When in their bestial form, they gain a +2 racial bonus to Strength, a primary bite attack that deals 1d6 damage, and the Ferocity feautre, allowing the scaleheart to fight on for one more round when reduced to 0 hit points. If the scaleheart is not brought above 0 hit points by the end of their next turn, they will fall unconscious."
+  },
+
+  {
+    "Key": "Scaleheart.Skilled.Name",
+    "ProcessTemplates": false,
+    "zhCN": "技能奖励",
+    "enGB": "Skilled"
+  },
+
+  {
+    "Key": "Scaleheart.Skilled.Description",
+    "zhCN": "鳞心兽态人在学识（自然）和隐匿技能检定上获得+2种族加值。",
+    "enGB": "Scaleheart skinwalkers recieve a +2 racial bonus to Lore (Nature) and Stealth skill checks."
+  },
+
+  {
+    "Key": "Scaleheart.ChangeShape.Name",
+    "ProcessTemplates": false,
+    "zhCN": "变化形体",
+    "enGB": "Change Shape"
+  },
+
+  {
+    "Key": "Scaleheart.ChangeShape.Description",
+    "zhCN": "鳞心兽态人可以以标准动作改变自己的形态，在类人形态和兽化形态之间转换。当处于兽化形态时，鳞心兽态人的力量属性获得+2种族加值。在此形态下，鳞心兽态人还会获得一次造成1d6伤害的主要啮咬攻击，以及凶猛特性，使得鳞心兽态人在生命值降至0点时，能够继续战斗一轮。 如果鳞心兽态人在其下一个回合结束时仍未恢复到0点以上生命值，他们将陷入昏迷。",
+    "enGB": "A scaleheart skinwalker can change shape to and from a bestial form as a standard action. In bestial form, a scaleheart skinwalker gains a +2 racial bonus to Strength. While in this form, a scaleheart skinwalker also gains a primary bite attack that deals 1d6 damage and the Ferocity feautre, allowing the scaleheart to fight on for one more round when reduced to 0 hit points. If the scaleheart is not brought above 0 hit points by the end of their next turn, they will fall unconscious."
+  },
+
+  {
+    "Key": "Goblin.Name",
+    "ProcessTemplates": false,
+    "zhCN": "地精",
+    "enGB": "Goblin"
+  },
+
+  {
+    "Key": "Goblin.Description",
+    "zhCN": "地精是孩童般的生物、却有着破坏和贪吃的天性，这使得它们广泛地受到轻视。孱弱而怯懦，地精经常被需要步战炮灰的强大生物所驱使或奴役。那些在社会边缘自力更生的地精靠欺负更弱的文明生物混饭吃。多数其他种族将它们视为恶意寄生虫，这一点已被无数事实佐证。\n地精几乎能吃任何东西，但最喜欢吃肉，尤其把人类和侏儒这些难搞到手的肉品作为佳肴。尽管害怕大个头的种族，地精的健忘和无底食欲意味着它们频繁地为了装满食品柜而向其他种族发动战争或劫掠。",
+    "enGB": "Goblins are a race of childlike creatures with a destructive and voracious nature that makes them almost universally despised. Weak and cowardly, goblins are frequently manipulated or enslaved by stronger creatures that need destructive, disposable foot soldiers. Those goblins that rely on their own wits to survive live on the fringes of society and feed on refuse and the weaker members of more civilized races. Most other races view them as virulent parasites that have proved impossible to exterminate. \nGoblins can eat nearly anything, but prefer a diet of meat and consider the flesh of humans and gnomes a rare and difficult-to-obtain delicacy. While they fear the bigger races, goblins?short memories and bottomless appetites mean they frequently go to war or execute raids against other races to sate their pernicious urges and fill their vast larders."
+  },
+
+  {
+    "Key": "Goblin.FastMovement.Name",
+    "ProcessTemplates": false,
+    "zhCN": "健步如飞",
+    "enGB": "Fast Movement"
+  },
+
+  {
+    "Key": "Goblin.FastMovement.Description",
+    "zhCN": "地精的基础移动速度获得10英尺加值。",
+    "enGB": "Goblins gain a +10 foot bonus to their base speed."
+  },
+
+  {
+    "Key": "Goblin.GoblinRacialTrait.Name",
+    "ProcessTemplates": false,
+    "zhCN": "地精种族特性",
+    "enGB": "Goblin Racial Trait"
+  },
+
+  {
+    "Key": "Goblin.GoblinRacialTrait.Description",
+    "zhCN": "虽然许多地精表现其族裔的典型表现，但更多地精并非如此。那些拥有不同血脉的地精可能会展现出截然不同的传承特征，无论是在外貌还是能力上。",
+    "enGB": "Although many goblins follow the general model of the goblin, many more do not. Those of different lineages may evince dramatically different manifestations of their heritage, both in appearance and in ability."
+  },
+
+  {
+    "Key": "Goblin.Skilled.Name",
+    "ProcessTemplates": false,
+    "zhCN": "技能奖励（典型地精）",
+    "enGB": "Skilled (General Goblin)"
+  },
+
+  {
+    "Key": "Goblin.Skilled.Description",
+    "zhCN": "地精在灵巧和隐匿技能检定上获得+2种族加值。",
+    "enGB": "Goblins gain a +4 racial bonus on Mobility and Stealth checks."
+  },
+
+  {
+    "Key": "Goblin.CityScavenger.Name",
+    "ProcessTemplates": false,
+    "zhCN": "城市拾荒者",
+    "enGB": "City Scavenger"
+  },
+
+  {
+    "Key": "Goblin.CityScavenger.Description",
+    "zhCN": "生活在人类城市边界的地精靠着在垃圾中搜寻食物以及猎杀流浪动物为生。拥有该种族特性的地精在学识（自然）和知识（世界）技能检定上获得+2种族加值。",
+    "enGB": "Goblins who live within the boundaries of human cities survive by scavenging for refuse and hunting stray animals. Goblins with this trait gain a +2 racial bonus on Perception, Lore (Nature), and Knowledge (World) skill checks."
+  },
+
+  {
+    "Key": "Goblin.EatAnything.Name",
+    "ProcessTemplates": false,
+    "zhCN": "啥都吃",
+    "enGB": "Eat Anything"
+  },
+
+  {
+    "Key": "Goblin.EatAnything.Description",
+    "zhCN": "由于打小就几乎没吃过什么像样的食物，大多数地精都见啥吃啥求生存，因此它们几乎能消化任何东西还不会生病。拥有该种族特性的地精在学识（自然）技能检定上获得获得+4种族加值，并且在对抗导致反胃和恶心的效果豁免检定上获得+4种族加值。",
+    "enGB": "Raised with little or no proper food, many goblins have learned to survive by eating whatever they happen across and can digest nearly anything without getting sick. Goblins with this trait gain a +4 on Lore (Nature) and a +4 racial bonus on saves versus effects that cause the nauseated or sickened conditions."
+  },
+
+  {
+    "Key": "Goblin.HardHeadBigTeeth.Name",
+    "ProcessTemplates": false,
+    "zhCN": "头大牙尖",
+    "enGB": "Hard Head, Big Teeth"
+  },
+
+  {
+    "Key": "Goblin.HardHeadBigTeeth.Description",
+    "zhCN": "地精靠着他们那球状大脑袋和大嘴为人所熟知，但是其中一部分有着大得夸张的脑袋和满嘴尖牙。拥有该种族特性的地精获得啮咬攻击作为主要天生武器，它可以造成1d4伤害。",
+    "enGB": "Goblins are known for their balloon-like heads and enormous maws, but some have even more exaggeratedly large heads filled with razor-sharp teeth. Goblins with this trait gain a bite attack as a primary natural attack that deals 1d4 points of damage."
+  },
+
+  {
+    "Key": "Goblin.OversizedEars.Name",
+    "ProcessTemplates": false,
+    "zhCN": "招风耳",
+    "enGB": "Oversized Ears"
+  },
+
+  {
+    "Key": "Goblin.OversizedEars.Description",
+    "zhCN": "虽然地精的耳朵从来都不小，但是有些地精那出奇大的耳朵可以听取哪怕最细微的声音。拥有该种族特性的地精在察觉技能检定上获得+4加值。",
+    "enGB": "While goblins' ears are never dainty, these goblins have freakishly large ears capable of picking up even the smallest sounds. Goblins with this racial trait gain a +4 bonus on Perception checks."
+  },
+
+  {
+    "Key": "Goblin.TreeRunner.Name",
+    "ProcessTemplates": false,
+    "zhCN": "树居地精",
+    "enGB": "Tree Runner"
+  },
+
+  {
+    "Key": "Goblin.TreeRunner.Description",
+    "zhCN": "在荒蛮的雨林和沼泽中，很难找到坚硬的地面建造建筑。在这些地区生活的地精部族了解如何在树梢上生活。拥有该种族特性的地精在灵巧和运动技能检定上获得+4种族加值。",
+    "enGB": "In trackless rain forests and marshes, it can be difficult to find dry ground to build on. goblin tribes living in such areas have learned to live in the treetops. These goblins gain a +4 racial bonus on Mobility and Athletics checks."
+  },
+
+  {
+    "Key": "Kuru.Name",
+    "ProcessTemplates": false,
+    "zhCN": "库鲁人",
+    "enGB": "Kuru"
+  },
+
+  {
+    "Key": "Kuru.Description",
+    "zhCN": "库鲁人是红眼睛的类人生物，脸上通常覆盖着令人不安的部落纹身。 他们参差不齐的牙齿似乎被锉成了尖状。 \n虽然大多数库鲁人居住在废墟内部或周围的小型部落村庄中，但也有一些库鲁人选择放弃他们的邪教信仰，并在他们所来自的岛屿之外寻求冒险，尽管这种情况极为罕见。",
+    "enGB": "Kuru are red-eyed humanoids often with disturbing tribal tattoos covering their faces. Their jagged teeth appear to have been filed down to points. \nWhile most kuru live in small tribal villages in or around ruins, some choose to abandon their cultic faith and seek adventure beyond the islands from which they hail, though such individuals are extremely rare."
+  },
+
+  {
+    "Key": "Kuru.BiteAttack.Name",
+    "ProcessTemplates": false,
+    "zhCN": "啮咬攻击",
+    "enGB": "Bite Attack"
+  },
+
+  {
+    "Key": "Kuru.BiteAttack.Description",
+    "zhCN": "库鲁人拥有一种天生的啮咬攻击能力，可以造成1d6点伤害。",
+    "enGB": "Kuru possess a natural bite attack that deals 1d6 points of damage."
+  },
+
+  {
+    "Key": "Kuru.BloodCourage.Name",
+    "ProcessTemplates": false,
+    "zhCN": "嗜血勇气",
+    "enGB": "Blood Courage"
+  },
+
+  {
+    "Key": "Kuru.BloodCourage.Description",
+    "zhCN": "库鲁人在对抗恐惧效果的豁免检定上获得+2种族加值。",
+    "enGB": "A kuru gains a +2 racial bonus to saving throws against fear effects."
+  },
+
+  {
+    "Key": "Kuru.CannabalisticVitality.Name",
+    "ProcessTemplates": false,
+    "zhCN": "食人活力",
+    "enGB": "Cannabalistic Vitality"
+  },
+
+  {
+    "Key": "Kuru.CannabalisticVitality.Description",
+    "zhCN": "当库鲁人用啮咬攻击命中一个活物时，他可以通过摄取目标的血液获得1点临时生命值，持续一天。 此能力对构装体或不死生物无效。",
+    "enGB": "When a kuru hits a living creature with its bite attack, he gains 1 temporary hit point for one day by ingesting the target's blood. This ability does not work on constructs or undead creatures."
+  },
+
+  {
+    "Key": "Vishkanya.Name",
+    "ProcessTemplates": false,
+    "zhCN": "蝮血裔",
+    "enGB": "Vishkanya"
+  },
+
+  {
+    "Key": "Vishkanya.Description",
+    "zhCN": "蝮血裔是一种有毒血的异种类人生物。这些有着奇异美貌的生物透过她们金色而有纹理的眼睛观察世界。她们柔软的皮肤被通常有浅绿色的细小鳞片覆盖，这些鳞片有时会排成类似蛇类的纹理。她们无法被简单概括为是好人或坏人，不过既然她们能用那分叉的舌头讲真话，也就能把那种道德的问题留给别人，自己满足于金钱的回报上了。",
+    "enGB": "Vishkanyas are a race of exotic humanoids with poisonous blood. Possessed of an alien beauty, these graceful humanoids see the world through serpentine eyes of burnished gold. Their supple skin is covered with tiny scales, often of a light green, which are sometimes arrayed in patterns not unlike those of a serpent. They cannot be generalized as good or evil, but since they truly speak with forked tongues, they are content to accept the gold they're offered and leave questions of morality to others."
+  },
+
+  {
+    "Key": "Vishkanya.PoisonResistance.Name",
+    "ProcessTemplates": false,
+    "zhCN": "毒性抗性",
+    "enGB": "Poison Resistance"
+  },
+
+  {
+    "Key": "Vishkanya.PoisonResistance.Description",
+    "zhCN": "蝮血裔在对抗毒素的豁免检定上获得等同于生命骰的种族加值。",
+    "enGB": "A vishkanya has a racial bonus on saving throws against poison equal to its Hit Dice."
+  },
+
+  {
+    "Key": "Vishkanya.Limber.Name",
+    "ProcessTemplates": false,
+    "zhCN": "柔韧",
+    "enGB": "Limber"
+  },
+
+  {
+    "Key": "Vishkanya.Limber.Description",
+    "zhCN": "蝮血裔在灵巧和隐匿技能检定上获得+2加值。",
+    "enGB": "Vishkanyas receive a +2 racial bonus on Mobility and Stealth checks."
+  },
+
+  {
+    "Key": "Vishkanya.WeaponFamiliarity.Name",
+    "ProcessTemplates": false,
+    "zhCN": "蝮血裔武器熟练",
+    "enGB": "Weapon Familiarity"
+  },
+
+  {
+    "Key": "Vishkanya.WeaponFamiliarity.Description",
+    "zhCN": "蝮血裔总是擅长使用反曲刀和星刃。",
+    "enGB": "Vishkanyas are always proficient with kukri and starknife."
+  },
+
+  {
+    "Key": "Vishkanya.Toxic.Name",
+    "ProcessTemplates": false,
+    "zhCN": "毒液",
+    "enGB": "Toxic"
+  },
+
+  {
+    "Key": "Vishkanya.Toxic.Description",
+    "zhCN": "每天等同于蝮血裔体质调整值次（最低每天1次），她能够使用自己带毒的唾液或血液，涂抹到正在持用的武器上（如果想要使用血液的话需要蝮血裔受到伤害）。如此用毒是一个迅捷动作。\n蝮血毒 类型：毒素，伤口：豁免：强韧（DC 10+蝮血裔一半的生命骰+蝮血裔体质调整值）；频率：1次/轮，持续6轮；效果：1d2敏捷伤害；痊愈：豁免成功1次。",
+    "enGB": "A number of times per day equal to his Constitution modifier (minimum 1/day), a vishkanya can envenom a weapon that he wields with his toxic saliva. Applying venom in this way is a swift action. \nVishkanya Venom: Injury; save Fort DC 10 + 1/2 the vishkanya's Hit Dice + the vishkanya's Constitution modifier; frequency 1/round for 6 rounds; effect 1d2 Dex; cure 1 save."
+  },
+
+  {
+    "Key": "Shabti.Name",
+    "ProcessTemplates": false,
+    "zhCN": "舍卜提",
+    "enGB": "Shabti"
+  },
+
+  {
+    "Key": "Shabti.Description",
+    "zhCN": "对于那些拥有美好生活的人来说，死亡更加令人恐惧。 许多统治者沉迷于对自身终有一死的恐惧，其中最肆无忌惮的人会转向神秘的艺术，将他们的恐惧倾注于华丽的容器之中，塑造他们自身的模拟像，以代替他们承受神祇审判的鞭笞。 在凡人世界中，这些圣像不过是刻有统治者面容和名字的黄金，但在死亡之后，它们便成为了舍卜提。\n舍卜提存在于凡人灵魂、 虚构的存在和真正的位面之子之间，是痴迷于死亡的贵族的永生化身。 它们代替其凡人服刑，无论是永恒的折磨还是在位面中无尽的游荡。 大多数舍卜提都无法从这样的试炼中脱身，但有些设法在各个位面中找到了属于自己的道路。\n舍卜提通常看起来像是理想化的人类，拥有完美的身材和无瑕的容貌。 它们通常身高略高于6英尺，体重在150到210磅之间。",
+    "enGB": "Death is more terrifying for those who have the best of life. Many rulers obsess over their mortality, the most brazen turning to the mystical arts, pouring their fears into splendid vessels, fashioning simulacra of themselves to bear the scourge of their god's judgment. In the mortal world, these icons are nothing but gold with a ruler's face and name, but in death, they are shabti. \nExisting as something between mortal souls, fabricated beings, and true children of the planes, shabti are immortal facsimiles of death-obsessed nobles. They serve out the sentences of their mortal twins, whether it be an infinity of torture or an eternity wandering the planes. Most never emerge from such trials, but some manage to find their own paths upon the planes. \nShabti typically look like idealized humans with perfect physiques and flawless features. They usually stand just over 6 feet tall and weigh between 150 and 210 pounds."
+  },
+
+  {
+    "Key": "Shabti.Immortal.Name",
+    "ProcessTemplates": false,
+    "zhCN": "不朽",
+    "enGB": "Immortal"
+  },
+
+  {
+    "Key": "Shabti.Immortal.Description",
+    "zhCN": "舍卜提不会自然衰老，也不会因年老而死亡。虽然有些舍卜提可能会在成年以外的年龄类别中诞生，但它们永远不会离开其最初的年龄类别。舍卜提不会被魔法老化，并且免疫任何导致衰老的能力或效果。",
+    "enGB": "Shabti do not age naturally and cannot die of old age. While some might come into being at age categories other than adulthood, they never leave their original age category. Shabti cannot be magically aged and are immune to any ability or effect that causes aging."
+  },
+
+  {
+    "Key": "Shabti.SpellLikeAbility.Name",
+    "ProcessTemplates": false,
+    "zhCN": "类法术能力",
+    "enGB": "Spell-Like Ability"
+  },
+
+  {
+    "Key": "Shabti.SpellLikeAbility.Description",
+    "zhCN": "舍卜提每天可以使用一次“严加斥责”作为类法术能力，施法者等级等同于该舍卜提的职业等级。",
+    "enGB": "Shabti can use castigate once per day as a spell-like ability, with the caster level equal to the shabti's class level."
+  },
+
+  {
+    "Key": "Shabti.ResistLevelDrain.Name",
+    "ProcessTemplates": false,
+    "zhCN": "能量吸取免疫",
+    "enGB": "Energy Drain Immunity"
+  },
+
+  {
+    "Key": "Shabti.ResistLevelDrain.Description",
+    "zhCN": "舍卜提免疫所有能量吸取效果，以及任何造成负向等级的效果或能力。",
+    "enGB": "A shabti is immune to all energy drain effects as well as any effect or ability that inflicts negative levels."
+  },
+
+  {
+    "Key": "Shabti.PastLifeKnowledge.Name",
+    "ProcessTemplates": false,
+    "zhCN": "前世知识",
+    "enGB": "Past Life Knowledge"
+  },
+
+  {
+    "Key": "Shabti.PastLifeKnowledge.Description",
+    "zhCN": "舍卜提记得他们前世的片段。 因此，他们将所有知识和学识技能视为本职技能。",
+    "enGB": "Shabti remember bits of their past lives. As a result, they treat all Knowledge and Lore skills as class skills."
+  },
+
+  {
+    "Key": "Rougarou.Name",
+    "ProcessTemplates": false,
+    "zhCN": "狩狼人",
+    "enGB": "Rougarou"
+  },
+
+  {
+    "Key": "Rougarou.Description",
+    "zhCN": "狩狼人是狼头人身的类人生物，可以变身成狼。 虽然这有时会使其他人感到困惑，误以为狩狼人是狼人，但这些类人生物并非兽化人。 事实上，大多数狩狼人都厌恶狼人，并无情地猎杀他们。\n狩狼人的数量不多，分布也不广泛，他们倾向于居住在与世隔绝的社群中。 他们非常保护自己的家人和朋友，他们形成的社群往往十分严谨且守序。 在他们的家园，狩狼人主要集中在南部沼泽和湿地，据信那里是他们的起源地，但此后他们已扩散到世界其他地方。\n虽然大多数狩狼人社会都光明磊落且值得信赖，但与任何群体一样，其中也有一些暴力和侵略性成员。 这些邪恶的、独来独往的狩狼人偶尔会组成团伙，袭击乡村，掠夺善良和公正之人。 值得庆幸的是，狩狼人通常文明而忠诚，大多数狩狼人都很乐于追捕并惩罚他们那些因卑劣行径而堕落成野兽般的同族。\n狩狼人的年龄增长方式与人类相似，但他们往往比普通人类略高且更重。",
+    "enGB": "Rougarous are wolf-headed humanoids who can transform into wolves. While this sometimes confuses others into mistaking a rougarou for a werewolf, these humanoids are not lycanthropes. In fact, most detest werewolves and hunt them mercilessly. \nThe race isn抰 numerous or widespread, and rougarous tend to live in secluded communities. They are very protective of their families and friends, and the communities they form tend to be strict and lawful. In their homeland, rougarous are most plentiful in southern swamps and marshes, where it is believed they originated, but have since spread throughout the rest of the world. \nWhile most of rougarou society is upstanding and trustworthy, as with any group there are some violent and aggressive members. These evil, loner rougarous occasionally form into packs that raid the countryside and prey upon the just and kind. Thankfully, rougarous are generally civilized and loyal, and most are quick to hunt down and punish their feral kin for their foul deeds. \nRougarous age like humans, but they tend to be slightly taller and heavier than typical humans."
+  },
+
+  {
+    "Key": "Rougarou.NaturalAttack.Name",
+    "ProcessTemplates": false,
+    "zhCN": "天生武器",
+    "enGB": "Natural Attack"
+  },
+
+  {
+    "Key": "Rougarou.NaturalAttack.Description",
+    "zhCN": "狩狼人拥有一项啮咬攻击，可以造成1d4点伤害。 如果狩狼人挥舞着人造武器，则此项攻击为次要攻击。",
+    "enGB": "Rougarous have a bite attack that deals 1d4 points of damage. This is a secondary attack if a rougarou wields a manufactured weapon."
+  },
+
+  {
+    "Key": "Rougarou.ChangeShape.Name",
+    "ProcessTemplates": false,
+    "zhCN": "变化形体",
+    "enGB": "Change Shape"
+  },
+
+  {
+    "Key": "Rougarou.ChangeShape.Description",
+    "zhCN": "狩狼人可以随意变为狼形态，这是一个标准动作，如同野兽之状I的法术效果。狩狼人可以以一个迅捷动作变回其真实形态。\n野兽之状I:你变成了一头中型狼。你的{g|Encyclopedia:Strength}力量{/g}获得+2{g|Encyclopedia:Size}体型{/g}{g|Encyclopedia:Bonus}加值{/g}，获得+2天生{g|Encyclopedia:Armor_Class}防御加值{/g}。你的{g|Encyclopedia:Speed}移动速度{/g}提高20英尺。你还拥有1次可造成{g|Encyclopedia:Dice}1d6{/g}点伤害的啮咬{g|Encyclopedia:Attack}攻击{/g}，以及绊摔啮咬能力。\n绊摔啮咬：如果狼用啮咬击中了敌人，就可以用{g|Encyclopedia:Free_Action}自由动作{/g}尝试绊摔敌人。",
+    "enGB": "A rougarou can change shape at will into a wolf as a standard action, as beast shape I. A rougarou can revert to its true form as a swift action. \nBeast Shape I: You become a medium wolf. You gain a +2 size bonus to your Strength and a +2 natural armor bonus. Your movement speed is increased by 20 feet. You also gain a 1d6 bite attack and the tripping bite ability. \nTripping Bite: A wolf can attempt to trip its opponent as a free action if it hits with bite attack."
+  },
+
+  {
+    "Key": "Nagaji.Name",
+    "ProcessTemplates": false,
+    "zhCN": "娜迦裔",
+    "enGB": "Nagaji"
+  },
+
+  {
+    "Key": "Nagaji.Description",
+    "zhCN": "娜迦裔是一种蛇形有鳞的类人生物，它们的鳞片仿效着真正的娜迦那梦幻般的外表。与蛇类相同，她们有分叉的舌头、无眼睑的眼睛，因此她们的凝视使得绝大多数的其她种族感到不安。在其她方面，她们的身形更像人类，这也带来了关于她们出身的猜测。大部分人相信，真正的娜迦通过杂交、魔法或者两者并用创造了她们，并将她们作为仆役种族。而实际上娜迦裔也确实对娜迦奉若神明。娜迦裔经常给其他类人生物带来震慑与恐惧，既因为她们神秘的祖先也由于她们对剑与魔法的天赋。",
+    "enGB": "The nagaji are a race of ophidian humanoids with scaled skin that mimics the dramatic appearance of true nagas. Like serpents, they have forked tongues and lidless eyes, giving them an unblinking gaze that most other races find unnerving. Their physical forms are otherwise humanlike, raising wary speculation about their origins. It is widely believed that true nagas created them as a servitor race, through crossbreeding, magic, or both, and indeed nagaji revere nagas as living gods. Nagaji often inspire awe and fear among other humanoids, as much for their mysterious ancestry as for their talent for both swords and sorcery. \nBred in the ancient past by nagas seeking a servitor race that combined the loyalty of a slave with the versatility of the human form, the nagaji have long since developed into a vibrant and proud race."
+  },
+
+  {
+    "Key": "Nagaji.ArmoredScales.Name",
+    "ProcessTemplates": false,
+    "zhCN": "鳞片护甲",
+    "enGB": "Armored Scales"
+  },
+
+  {
+    "Key": "Nagaji.ArmoredScales.Description",
+    "zhCN": "得益于她们带有鳞片的肌肤，娜迦裔获得+1天生防御加值。",
+    "enGB": "Nagaji have a +1 natural armor bonus from their scaly flesh."
+  },
+
+  {
+    "Key": "Nagaji.Resistant.Name",
+    "ProcessTemplates": false,
+    "zhCN": "抗性",
+    "enGB": "Resistant"
+  },
+
+  {
+    "Key": "Nagaji.Resistant.Description",
+    "zhCN": "娜迦裔在对抗影响心灵的效果以及毒素时的豁免检定获得+2种族加值。",
+    "enGB": "Nagaji receive a +2 racial saving throw bonus against mind-affecting effects and poison."
+  },
+
+  {
+    "Key": "Nagaji.SerpentSense.Name",
+    "ProcessTemplates": false,
+    "zhCN": "蛇之感官",
+    "enGB": "Serpent Sense"
+  },
+
+  {
+    "Key": "Nagaji.SerpentSense.Description",
+    "zhCN": "娜迦裔在学识（自然）技能检定上获得+2种族加值，在察觉技能检定上获得+4种族加值。",
+    "enGB": "Nagaji receive a +2 racial bonus on Lore (Nature) checks, and a +4 racial bonus on Perception checks."
+  },
+
+  {
+    "Key": "Mongrel.Name",
+    "ProcessTemplates": false,
+    "zhCN": "混种人",
+    "enGB": "Mongrel"
+  },
+
+  {
+    "Key": "Mongrel.Description",
+    "zhCN": "对于大多数人来说，混种人不过是个都市传说。他们被认为是那些参加了第一次圣战的士兵的后代，当时的圣教军对处理世界之伤的独特灾害还经验不足。如故事所言，在第一次圣战期间，许多人毫不知情地将自己暴露在堕落能量和噩梦般的辐射中。在随后的岁月里，圣教军中的新生儿中带有可怕畸形的数量令人震惊。这些不幸的无辜之人中，有许多人被过于狂热的审判官甚至是圣教军同袍处死，但有些父母逃到了地下，避开不容异己的光明世界，抚养他们的孩子。\n无论这个故事是否属实，混种人都真实存在，他们居住在城市下方的巨大地下墓穴和洞窟中。虽然外表怪异，但混种人一般是勤劳友善的生物。世界上不会有两个长相相同的混种人，每个都通常具备至少六个不同生物的特征。这种奇怪结合造就了扭曲的外表，许多人因为恐惧而对他们避而远之，进而加重了混种人在社会中的边缘处境。面对大众的敌意，混种人倾向于离群索居。短得可怜的寿命限制了这种生物的人口增长——混种人很少能活过35岁。",
+    "enGB": "For most people, the mongrels are little more than an urban legend. They are believed to be the descendants of those who fought in the First Crusade, when the crusaders had little experience in dealing with the unique hazards the Worldwound presented. As the story goes, during the First Crusade, many unknowingly exposed themselves to fell energies and nightmarish radiations. In the years that followed, a shocking number of children born to the crusaders were hideously deformed. Many of these unfortunate innocents were put to death by overzealous inquisitors or even fellow crusaders, but some parents fled underground to raise their children outside of the light of intolerance. \nWhether or not this story is true, the mongrels are quite real, and inhabit the vast underground catacombs and caverns below the cities. Despite their monstrous appearances, mongrels are generally hardworking and peaceful creatures. No two mongrels look the same: each of them usually has characteristics from several different creatures. This strange mixture enforces mongrels' place away from society, for they are shunned by all who fear their twisted appearance. Mistaken as enemies by all, mongrels prefer to be left alone. A tragically short lifespan limits the creatures' population growth ?mongrels rarely live past 35 years."
+  },
+
+  {
+    "Key": "Mongrel.MongrelHornsRequisiteFeature.Name",
+    "ProcessTemplates": false,
+    "zhCN": "混种人角",
+    "enGB": "Mongrel Horns"
+  },
+
+  {
+    "Key": "Mongrel.MongrelEyesRequisiteFeature.Name",
+    "ProcessTemplates": false,
+    "zhCN": "混种人眼睛",
+    "enGB": "Mongrel Eyes"
+  },
+
+  {
+    "Key": "Mongrel.MongrelEarsRequisiteFeature.Name",
+    "ProcessTemplates": false,
+    "zhCN": "混种人耳朵",
+    "enGB": "Mongrel Ears"
+  },
+
+  {
+    "Key": "Mongrel.MongrelTailRequisiteFeature.Name",
+    "ProcessTemplates": false,
+    "zhCN": "混种人尾巴",
+    "enGB": "Mongrel Tail"
+  },
+
+  {
+    "Key": "Mongrel.TieflingTail.Name",
+    "ProcessTemplates": false,
+    "zhCN": "魔裔尾巴",
+    "enGB": "Tiefling Tail"
+  },
+
+  {
+    "Key": "Mongrel.MajorMutation.Name",
+    "ProcessTemplates": false,
+    "zhCN": "严重畸形",
+    "enGB": "Major Deformity"
+  },
+
+  {
+    "Key": "Mongrel.MajorMutation.Description",
+    "zhCN": "没有两个混种人的外貌是相同的。 有些混种人可能长着半大地精半蜥蜴人的脸，一只脚像人类，另一只脚是偶蹄，而他的姐妹可能长着精灵的耳朵、矮人的胡须、兽人的獠牙和爪状的手。 每个混种人通常都具有来自许多不同生物的特征。 这种奇怪的混合使混种人被世界边缘化，因为所有人都因恐惧他们扭曲的外貌而躲避他们。",
+    "enGB": "No two mongrels look the same. One may have a face that is half hobgoblin, half lizardfolk, with one human-like foot and one cloven hoof, while his sister may have elven ears, a dwarven beard, orc tusks, and clawed hands. Each mongrel usually has characteristics from many different creatures. This strange mixture enforces mongrels' place in the edges of the world, for they are shunned by all who fear their twisted appearance."
+  },
+
+  {
+    "Key": "Mongrel.Stagseed.Name",
+    "ProcessTemplates": false,
+    "zhCN": "鹿种",
+    "enGB": "Stagseed"
+  },
+
+  {
+    "Key": "Mongrel.Stagseed.Description",
+    "zhCN": "鹿种混种人外形类似大型健壮的森林有蹄类动物，他们每季都必须褪去鹿茸，以便为新犄角的生长腾出空间。",
+    "enGB": "Resembling large, robust forest ungulates, stagseed mongrel must shed the velvet from their horns each season to make room for new growth."
+  },
+
+  {
+    "Key": "Mongrel.Rockskin.Name",
+    "ProcessTemplates": false,
+    "zhCN": "岩肤",
+    "enGB": "Rockskin"
+  },
+
+  {
+    "Key": "Mongrel.Rockskin.Description",
+    "zhCN": "岩肤混种人的皮肤表面覆盖着一层岩石矿物质，以至于经常被误认为是土巨灵裔的混血后代。",
+    "enGB": "Encrusted with a dermal layer of rocky minerals, rockskin mongrels are often mistaken for the halfbreed children of oreads."
+  },
+
+  {
+    "Key": "Mongrel.Coldblood.Name",
+    "ProcessTemplates": false,
+    "zhCN": "冷血",
+    "enGB": "Coldblood"
+  },
+
+  {
+    "Key": "Mongrel.Coldblood.Description",
+    "zhCN": "尽管名字如此，并且拥有鳞状皮肤，但冷血混种人是哺乳动物，如同他们种族的所有成员一样。",
+    "enGB": "Despite the name and their scaly skin, coldblood mongrels are mammals, as are all members of their race."
+  },
+
+  {
+    "Key": "Mongrel.Forestkin.Name",
+    "ProcessTemplates": false,
+    "zhCN": "森林裔",
+    "enGB": "Forestkin"
+  },
+
+  {
+    "Key": "Mongrel.Forestkin.Description",
+    "zhCN": "浓密的腿部毛发和巨大的后掠角，使得森林裔混种人看起来像是神话传说中的第一世界生物。",
+    "enGB": "Thick leg fur and large, swept-back horns make Forestkin mongrels resemble first-world creatures of myth."
+  },
+
+  {
+    "Key": "Mongrel.Bullbred.Name",
+    "ProcessTemplates": false,
+    "zhCN": "牛育",
+    "enGB": "Bullbred"
+  },
+
+  {
+    "Key": "Mongrel.Bullbred.Description",
+    "zhCN": "牛育混种人拥有扭曲的犄角、发达的肌肉以及浓密的黑色毛发，在外形上类似公牛，尽管脾气秉性可能并非如此。",
+    "enGB": "With twisted horns, dense muscle, and thick, black fur, these mongrels resemble bulls aesthetically, if not in temperment."
+  },
+
+  {
+    "Key": "Mongrel.Monkeyborn.Name",
+    "ProcessTemplates": false,
+    "zhCN": "猿裔",
+    "enGB": "Monkeyborn"
+  },
+
+  {
+    "Key": "Mongrel.Monkeyborn.Description",
+    "zhCN": "当外来者观察到猿裔混种人覆盖其身体和四肢大部分区域的浓密毛发时，常常会误以为他们是原始灵长类动物。",
+    "enGB": "Monkeyborn mongrels are often mistaken for primitive primates when outsiders observe the thick fur that covers the majority of their bodies and limbs."
+  },
+
+  {
+    "Key": "Mongrel.Spiderheart.Name",
+    "ProcessTemplates": false,
+    "zhCN": "蛛心",
+    "enGB": "Spiderheart"
+  },
+
+  {
+    "Key": "Mongrel.Spiderheart.Description",
+    "zhCN": "尽管蛛心混种人通常性格开朗友善，但由于他们具有掠夺性、异类的外貌，其他混种人往往会避开他们。",
+    "enGB": "Despite often posessing jovial and kind personalities, other mongrels tend to avoid spiderheart mongrels due to their predatory, alien appearance."
+  },
+
+  {
+    "Key": "Mongrel.Raptorwing.Name",
+    "ProcessTemplates": false,
+    "zhCN": "猛禽之翼",
+    "enGB": "Raptorwing"
+  },
+
+  {
+    "Key": "Mongrel.Raptorwing.Description",
+    "zhCN": "猛禽之翼混种人那展开的纯白色羽翼赋予了他们仁慈而威严的气度，即使这些翅膀并不能让他们飞翔。",
+    "enGB": "The expansive pure-white feathered wings of raptorwing mongrels give them a benevolent and imperious bearing even if they don't provide them with the ability to fly."
+  },
+
+  {
+    "Key": "Mongrel.MinorMutation.Name",
+    "ProcessTemplates": false,
+    "zhCN": "轻微畸形",
+    "enGB": "Minor Deformity"
+  },
+
+  {
+    "Key": "Mongrel.MinorMutation.Description",
+    "zhCN": "混种人拥有显著而细微的各种不同特征，但正是这些细微的差异，真正在视觉上将该种族的所有成员区分开来。",
+    "enGB": "Mongrels possess divergent traits both dramatic and subtle, but it is the small differences that truly set all members of the race apart visually."
+  },
+
+  {
+    "Key": "Mongrel.MismatchedEarsI.Name",
+    "ProcessTemplates": false,
+    "zhCN": "不匹配的耳朵 I",
+    "enGB": "Mismatched Ears I"
+  },
+
+  {
+    "Key": "Mongrel.MismatchedEarsII.Name",
+    "ProcessTemplates": false,
+    "zhCN": "不匹配的耳朵 II",
+    "enGB": "Mismatched Ears II"
+  },
+
+  {
+    "Key": "Mongrel.Cataracts.Name",
+    "ProcessTemplates": false,
+    "zhCN": "白内障",
+    "enGB": "Cataracts"
+  },
+
+  {
+    "Key": "Mongrel.AasimarEyes.Name",
+    "ProcessTemplates": false,
+    "zhCN": "神裔的眼睛",
+    "enGB": "Aasimar Eyes"
+  },
+
+  {
+    "Key": "Mongrel.KitsuneEyes.Name",
+    "ProcessTemplates": false,
+    "zhCN": "狐妖的眼睛",
+    "enGB": "Kitsune Eyes"
+  },
+
+  {
+    "Key": "Mongrel.DhampirEyes.Name",
+    "ProcessTemplates": false,
+    "zhCN": "吸血裔的眼睛",
+    "enGB": "Dhampir Eyes"
+  },
+
+  {
+    "Key": "Mongrel.OreadEyes.Name",
+    "ProcessTemplates": false,
+    "zhCN": "土巨灵裔的眼睛",
+    "enGB": "Oread Eyes"
+  },
+
+  {
+    "Key": "Mongrel.ElfEyes.Name",
+    "ProcessTemplates": false,
+    "zhCN": "精灵的眼睛",
+    "enGB": "Elf Eyes"
+  },
+
+  {
+    "Key": "Mongrel.TieflingEyes.Name",
+    "ProcessTemplates": false,
+    "zhCN": "魔裔的眼睛",
+    "enGB": "Tiefling Eyes"
+  },
+
+  {
+    "Key": "Mongrel.CatEyes.Name",
+    "ProcessTemplates": false,
+    "zhCN": "猫眼",
+    "enGB": "Cat Eyes"
+  },
+
+  {
+    "Key": "Mongrel.MongrelHornsI.Name",
+    "ProcessTemplates": false,
+    "zhCN": "混种人的角 I",
+    "enGB": "Mongrel Horns I"
+  },
+
+  {
+    "Key": "Mongrel.MongrelHornsII.Name",
+    "ProcessTemplates": false,
+    "zhCN": "混种人的角 II",
+    "enGB": "Mongrel Horns II"
+  },
+
+  {
+    "Key": "Mongrel.MongrelHornsIII.Name",
+    "ProcessTemplates": false,
+    "zhCN": "混种人的角 III",
+    "enGB": "Mongrel Horns III"
+  },
+
+  {
+    "Key": "Mongrel.MongrelHornsIV.Name",
+    "ProcessTemplates": false,
+    "zhCN": "混种人的角 IV",
+    "enGB": "Mongrel Horns IV"
+  },
+
+  {
+    "Key": "Mongrel.MongrelHornsV.Name",
+    "ProcessTemplates": false,
+    "zhCN": "混种人的角 V",
+    "enGB": "Mongrel Horns V"
+  },
+
+  {
+    "Key": "Mongrel.NaturalArmor.Name",
+    "ProcessTemplates": false,
+    "zhCN": "天生护甲",
+    "enGB": "Natural Armor"
+  },
+
+  {
+    "Key": "Mongrel.NaturalArmor.Description",
+    "zhCN": "混种人获得+2天生防御加值。",
+    "enGB": "Mongrels have a +2 natural armor bonus."
+  },
+
+  {
+    "Key": "Mongrel.Skilled.Name",
+    "ProcessTemplates": false,
+    "zhCN": "技能奖励",
+    "enGB": "Skilled"
+  },
+
+  {
+    "Key": "Mongrel.Skilled.Description",
+    "zhCN": "由于生活在社会边缘，受其他种族憎恨，混种人必须学会如何在不被察觉的情况下行动，并利用欺骗来维持生存。 混种人在隐匿和巧手技能检定上获得+4种族加值。",
+    "enGB": "Living on the fringes of society, hated by other races, mongrels must learn how to move about without being detected and utilize deception to stay alive. Mongrels gain a +4 racial bonus to Stealth checks and Trickery checks."
+  },
+
+  {
+    "Key": "Ganzi.Name",
+    "ProcessTemplates": false,
+    "zhCN": "熵裔",
+    "enGB": "Ganzi"
+  },
+
+  {
+    "Key": "Ganzi.Description",
+    "zhCN": "与混血的神裔和魔裔不同，熵裔是凡间位面中多代暴露于混沌能量而产生的变异体。 \n熵裔与幻蛇有许多共同特征。 他们柔韧灵活且具有韧性，抵抗衰变和熵的能量，并且可以感知将各个位面结合在一起的细微混沌流，这使他们能够警觉危险和欺骗，并允许有进取心的熵裔搅动这些漩涡并改写生物的命运。 他们也和幻蛇一样，对秩序充满好奇和蔑视，强制性地在世界各地游荡，以观察所能观察到的一切。",
+    "enGB": "Unlike the crossbreed aasimars and tieflings, ganzi are mutations caused by generations of exposure to chaotic energies in the Material Plane. \nGanzi share many traits with proteans. They are fluid and flexible, resilient, resistant to the energies of decay and entropy, and can sense the delicate currents of chaos that bind the planes together, alerting them to danger and deception and allowing enterprising ganzi to stir those eddies and rewrite a creature's fortunes. They also share the proteans' curiosity and disdain for order, compulsively wandering the world to see what can be seen."
+  },
+
+  {
+    "Key": "Ganzi.MaelstromResistance.Name",
+    "ProcessTemplates": false,
+    "zhCN": "大漩涡抗性",
+    "enGB": "Maelstrom Resistance"
+  },
+
+  {
+    "Key": "Ganzi.MaelstromResistance.Description",
+    "zhCN": "熵裔拥有5点强酸、电击和音波抗性，并且在对抗变形子学派法术时的豁免检定上获得+2种族加值",
+    "enGB": "Ganzis have acid resistance 5, electricity resistance 5, and sonic resistance 5, and they gain a +2 racial bonus on saving throws against spells of the polymorph subschool."
+  },
+
+  {
+    "Key": "Ganzi.Skilled.Name",
+    "ProcessTemplates": false,
+    "zhCN": "技能奖励",
+    "enGB": "Skilled"
+  },
+
+  {
+    "Key": "Ganzi.Skilled.Description",
+    "zhCN": "熵裔在唬骗和学识（自然）技能检定上获得+4种族加值。",
+    "enGB": "Ganzis gain a +2 racial bonus on Bluff and Lore (Nature) checks."
+  },
+
+  {
+    "Key": "Ganzi.Oddity.Name",
+    "ProcessTemplates": false,
+    "zhCN": "怪异",
+    "enGB": "Oddity"
+  },
+
+  {
+    "Key": "Ganzi.Oddity.Description",
+    "zhCN": "作为充满大漩涡熵之力量的生物，所有熵裔都有一种独特且不寻常的怪异，这以一种使得熵裔展现出与众不同的身体或者魔法能力。",
+    "enGB": "As creatures infused with the entropic forces of the Maelstrom, all ganzis have a distinct and unusual oddity that manifests as a physical or magical ability that sets the ganzi apart."
+  },
+
+  {
+    "Key": "Ganzi.PrehensileTail.Name",
+    "ProcessTemplates": false,
+    "zhCN": "卷尾",
+    "enGB": "Prehensile Tail"
+  },
+
+  {
+    "Key": "Ganzi.PrehensileTail.Description",
+    "zhCN": "血统特别受幻蛇这一存在影响的熵裔通常拥有五颜六色的羽毛、鳞片或皮肤，以及一条长长的蛇形尾巴。这条尾巴可以用来抓握物品。虽然拥有这一怪异的熵裔无法用尾巴持用武器，但是他们能够以一个迅捷动作运用他们的尾巴拿出药水并饮用。",
+    "enGB": "Ganzis with lineages that are particularly influenced by the presence of proteans often have colorful feathers, scales, or skin, and a long serpentine tail. This tail can be used to carry items. While ganzis with this oddity cannot wield weapons with their tails, they can use their tails to retrieve potions and consume them as a swift action."
+  },
+
+  {
+    "Key": "Ganzi.EntropicFlesh.Name",
+    "ProcessTemplates": false,
+    "zhCN": "熵之血肉",
+    "enGB": "Entropic Flesh"
+  },
+
+  {
+    "Key": "Ganzi.EntropicFlesh.Description",
+    "zhCN": "与混沌兽有着浓烈血统关联的熵裔保留了他们祖先对于变形的免疫力。除了在逃脱检定和对抗擒抱战技的CMD中获得+2加值以外，每当熵裔受到有害的变形效果（例如：变形或石化）的影响时，他们可以在下一轮开始时尝试一个新的豁免检定来终止此效果，他们在第二次豁免检定中获得+4加值。如果检定失败，变形效果会如同正常一样持续。",
+    "enGB": "Ganzis with lineages that link strongly to chaos beasts retain some of their ancestors' immunity to transformation. In addition to gaining a +2 bonus on Mobility checks and to CMD against grapple combat maneuvers, when such ganzis are affected by a hostile transmutation effect (such as polymorphing or petrification), they can attempt a new saving throw at the start of their next turn to end the effect. They gain a +4 bonus on this second saving throw, but if they fail, the transmutation effect persists as long as it normally would."
+  },
+
+  {
+    "Key": "Ganzi.WeaponPlay.Name",
+    "ProcessTemplates": false,
+    "zhCN": "武器技巧",
+    "enGB": "Weapon Play"
+  },
+
+  {
+    "Key": "Ganzi.WeaponPlay.Description",
+    "zhCN": "与女武神有着血统联系的熵裔，他们的血脉在战斗技能方面体现了出来。这一类熵裔总是擅长使用所有的简易武器和军用武器，并且他们即使没有任何战士职业等级也可以获得通常仅供战士选取的专长（例如：武器专精）。",
+    "enGB": "Ganzis with lineages that link to the valkyries manifest their heritage in their skill in combat. Such ganzis are always proficient with all simple and martial weapons, and they can qualify for feats normally available only to fighters (such as Weapon Specialization) even if they don抰 have any fighter class levels."
+  },
+
+  {
+    "Key": "Ganzi.SLA.Name",
+    "ProcessTemplates": false,
+    "zhCN": "类法术能力",
+    "enGB": "Spell-Like Ability"
+  },
+
+  {
+    "Key": "Ganzi.SLA.Description",
+    "zhCN": "那些受到来自大漩涡（Maelstrom）或其居民以外的地区（译注：例如深渊、极乐原野、第一世界）的混乱影响的熵裔，其怪异通常表现为可以复制一个特定法术的效果。这一类熵裔获得一种类法术能力，每天一次，施法者等级等于熵裔的生命骰",
+    "enGB": "Ganzis whose chaotic influences rise from regions other than the Maelstrom or its inhabitants often manifest an oddity that duplicates the effects of a specific spell. Such ganzis gain a spell-like ability, usable once per day at a caster level equal to the ganzi's HD."
+  },
+
+  {
+    "Key": "Ganzi.RacingMind.Name",
+    "ProcessTemplates": false,
+    "zhCN": "疾驰思维",
+    "enGB": "Racing Mind"
+  },
+
+  {
+    "Key": "Ganzi.RacingMind.Description",
+    "zhCN": "血脉与混沌相连的熵裔，可能会继承异界生物的混沌思维的某种特性。熵裔脑海中翻腾的思维漩涡，增强了他们抵抗精神攻击的能力，使熵裔在对抗影响心灵的效果时，豁免检定获得+2加值。",
+    "enGB": "A ganzi whose lineage is linked to hunduns might inherit an aspect of the outsiders' chaotic minds. The ganzi's churning vortex of thoughts bolsters it against mental attacks, granting the ganzi a +2 bonus on saving throws against mind-affecting effects."
+  },
+
+  {
+    "Key": "Ganzi.AmorphousLimbs.Name",
+    "ProcessTemplates": false,
+    "zhCN": "无定肢体",
+    "enGB": "Amorphous Limbs"
+  },
+
+  {
+    "Key": "Ganzi.AmorphousLimbs.Description",
+    "zhCN": "大漩涡的影响力显现在熵裔随意变形自身肢体的能力上，他们可以将肢体转变成天生武器，例如巨大的爪状手臂。 熵裔获得一次造成1d6伤害的天生爪抓攻击。",
+    "enGB": "The influence of the Maelstrom manifests in the ganzi's ability to transform one of her limbs at will, into a natural weapon such as a massive clawed arm. The ganzi gains a natural claw attack that deals 1d6 damage."
+  },
+
+  {
+    "Key": "Ganzi.VestigialWings.Name",
+    "ProcessTemplates": false,
+    "zhCN": "退化之翼",
+    "enGB": "Vestigial Wings"
+  },
+
+  {
+    "Key": "Ganzi.VestigialWings.Description",
+    "zhCN": "熵裔拥有一对细小的退化之翼，其外形可能但不限于类似于飞行生物或某种构装体的翅膀。 虽然这些附属肢体无法提供飞行能力，但当熵裔失去平衡时，他们可以使用翅膀来稳定自身。 这样的熵裔在反射豁免检定中获得+1加值，在灵巧技能检定中获得+2加值。",
+    "enGB": "The ganzi has a pair of small, vestigial wings, likely but not limited to resembling those of a flying creature or some manner of construct. Though these appendages do not grant flight, these ganzis can use their wings to stabilize themselves when they're thrown off balance. Such ganzis gain a +1 bonus on Reflex saving throws and a +2 bonus on Mobility skill checks."
+  },
+
+  {
+    "Key": "Ganzi.UncannyAura.Name",
+    "ProcessTemplates": false,
+    "zhCN": "怪异灵光",
+    "enGB": "Uncanny Aura"
+  },
+
+  {
+    "Key": "Ganzi.UncannyAura.Description",
+    "zhCN": "一些熵裔拥有令人不安的混沌灵光，这种灵光会惊扰靠近的敌对生物。 这样的熵裔每天可以以一个标准动作激活一次怪异灵光； 30尺范围内的敌人必须通过意志豁免检定（DC =10+熵裔生命骰数量的1/2+熵裔的魅力调整值），否则将陷入惊恐状态，直到熵裔的下一回合开始。 灵光持续的回合数等同于熵裔的魅力调整值（最少1回合）。 一旦某个生物受到怪异灵光的影响，无论其豁免检定成功与否，都无法在24小时内再次受到影响。",
+    "enGB": "Some ganzis have an unsettling aura of chaos that rattles hostile creatures that venture too close. Once per day as a standard action, such a ganzi can activate an uncanny aura; enemies within 30 feet must succeed at a Will saving throw (DC = 10 + half the ganzi's Hit Dice + the ganzi's Charisma modifier) or become frightened until the beginning of the ganzi's next turn. The aura remains for a number of rounds equal to the ganzi's Charisma modifier (minimum 1 round). Once a creature has been affected by an uncanny aura, whether it failed its save or not, it cannot be affected again for 24 hours."
+  },
+
+  {
+    "Key": "AscendingSuccubus.Name",
+    "ProcessTemplates": false,
+    "zhCN": "晋升魅魔",
+    "enGB": "Ascending Succubus"
+  },
+
+  {
+    "Key": "AscendingSuccubus.Description",
+    "zhCN": "克服了邪恶本性的恶魔实属罕见，大多数人甚至都不相信会有这种情况。晋升的道路漫长而又艰辛：在真正皈依善道之前，恶魔要花费多年来灵修和忏悔，游移于善恶之间，每时每刻都冒着重堕罪恶深渊的风险。晋升恶魔将失去大多数恶魔能力，这有助于他们与重蹈覆辙的诱惑抗争，但也使他们在遭受痛恨对邪恶的背叛的其他恶魔报复时难以应对。",
+    "enGB": "A demon who has overcome their evil nature is such a rare occurrence that most people don't even believe in their existence. The path of ascension is long and thorny: before truly achieving virtue, a demon spends many years in spiritual search and repentance, between good and evil, every moment risking to fall back into the depths of sin. An ascending demon loses most of their demonic powers, which helps them to battle the temptation to return to their old ways, but also leaves them vulnerable to retaliation from other demons, who loathe the idea of a rebellion against evil."
+  },
+
+  {
+    "Key": "AscendingSuccubus.SuccubusWings.Name",
+    "ProcessTemplates": false,
+    "zhCN": "魅魔之翼",
+    "enGB": "Succubus Wings"
+  },
+
+  {
+    "Key": "AscendingSuccubus.SuccubusWings.Description",
+    "zhCN": "你拥有一对翅膀，赋予你飞行能力，你对抗近战攻击的防御等级获得+3闪避加值，并且免疫地面效果，例如困难地形的效果。",
+    "enGB": "You gain a pair of wings that grant a +3 dodge bonus to AC against melee attacks and immunity to ground-based effects, such as difficult terrain."
+  },
+
+  {
+    "Key": "Hobgoblin.Name",
+    "ProcessTemplates": false,
+    "zhCN": "大地精",
+    "enGB": "Hobgoblin"
+  },
+
+  {
+    "Key": "Hobgoblin.Description",
+    "zhCN": "性情激烈并奉行军国主义，大地精以征服为生。掠夺为他们的战争机器提供原材料，他们的军备和建筑出自行苦役至死的奴隶之手。天性野心勃勃和善妒，大地精通过损害同类来谋取自身利益；但在战场上则与战友共同进退、严守军令，和最棒的士兵相比毫不逊色。大地精很少会爱护或信任同类，更不用提外族。他们粗野生命的意义在于追逐高位、支配下级、以及抓住稍纵即逝的良机来谋取个人的荣耀和地位。",
+    "enGB": "Fierce and militaristic, hobgoblins survive by conquest. The raw materials to fuel their war machines come from raids, their armaments and buildings from the toil of slaves worked to death. Naturally ambitious and envious, hobgoblins seek to better themselves at the expense of others of their kind, yet in battle they put aside petty differences and fight with discipline rivaling that of the finest soldiers. Hobgoblins have little love or trust for one another, and even less for outsiders. Life for these brutes consists of duty to those of higher station, domination of those below, and the rare opportunities to seize personal glory and elevate their status."
+  },
+
+  {
+    "Key": "Hobgoblin.Sneaky.Name",
+    "ProcessTemplates": false,
+    "zhCN": "鬼祟（典型大地精）",
+    "enGB": "Sneaky (General Hobgoblin)"
+  },
+
+  {
+    "Key": "Hobgoblin.Sneaky.Description",
+    "zhCN": "大地精在隐匿检定上获得+4种族加值。",
+    "enGB": "Hobgoblins receive a +4 racial bonus on Stealth checks."
+  },
+
+  {
+    "Key": "Hobgoblin.Authoritative.Name",
+    "ProcessTemplates": false,
+    "zhCN": "权威",
+    "enGB": "Authoritative"
+  },
+
+  {
+    "Key": "Hobgoblin.Authoritative.Description",
+    "zhCN": "大地精通常会研究控制他人的诀窍。 他们在交涉和威吓检定中获得+2种族加值。 此外，沟通始终是他们的本职技能。",
+    "enGB": "Hobgoblins often develop a knack for controlling others. They gain a +2 racial bonus on Diplomacy and Intimidate checks. Additionally, Persuasion is always a class skill for them."
+  },
+
+  {
+    "Key": "Hobgoblin.BattleHardened.Name",
+    "ProcessTemplates": false,
+    "zhCN": "久经沙场",
+    "enGB": "Battle Hardened"
+  },
+
+  {
+    "Key": "Hobgoblin.BattleHardened.Description",
+    "zhCN": "不停地进行训练使得防御成为了某些大地精的第二天性。拥有该种族特性的大地精的CMD获得+1加值。",
+    "enGB": "Incessant drills make defense second nature to some hobgoblins. Hobgoblins with this racial trait gain a +1 bonus to CMD."
+  },
+
+  {
+    "Key": "Hobgoblin.Fearsome.Name",
+    "ProcessTemplates": false,
+    "zhCN": "可怖",
+    "enGB": "Fearsome"
+  },
+
+  {
+    "Key": "Hobgoblin.Fearsome.Description",
+    "zhCN": "有的大地精用狂妄的咆哮蔑视那些谨慎或狡诈的家伙。拥有该种族特性的大地精的威吓检定上获得+4种族加值。",
+    "enGB": "Some hobgoblins scorn caution and subtlety for swagger and bluster. Hobgoblins with this racial trait gain a +4 racial bonus on Intimidate checks."
+  },
+
+  {
+    "Key": "Hobgoblin.Magehunter.Name",
+    "ProcessTemplates": false,
+    "zhCN": "猎巫人",
+    "enGB": "Magehunter"
+  },
+
+  {
+    "Key": "Hobgoblin.Magehunter.Description",
+    "zhCN": "大地精对施法者又惧又恨。猎巫人在知识（奥秘）技能检定上获得+2种族加值，此外对奥术施法者的攻击检定获得+1种族加值。他们只能在对抗能够施放法术的生物时获得这些加值，而非那些只能使用类法术能力的生物。",
+    "enGB": "Hobgoblins hate and fear arcane casters. A magehunter gains a +2 racial bonus on Knowledge (Arcana) checks and a +1 racial bonus on attack rolls against arcane spellcasters."
+  },
+
+  {
+    "Key": "Hobgoblin.PitBoss.Name",
+    "ProcessTemplates": false,
+    "zhCN": "工头",
+    "enGB": "Pit Boss"
+  },
+
+  {
+    "Key": "Hobgoblin.PitBoss.Description",
+    "zhCN": "奴隶的血就是大地精战争机器的燃料。工头用随意挥舞的皮鞭从奄奄一息的劳动者身上榨取他们的价值。拥有该种族特性的大地精在使进行绊摔或者缴械战技检定上获得+1种族加值。",
+    "enGB": "Slave blood fuels the hobgoblin war machine. Pit bosses extract the last breath of labor from their charges with a liberal touch of the lash and are experts at subduing unruly subordinates. Hobgoblins with this racial trait gain a +1 racial bonus on combat maneuver checks made to disarm or trip."
+  },
+
+  {
+    "Key": "Hobgoblin.SlaveHunter.Name",
+    "ProcessTemplates": false,
+    "zhCN": "猎奴人",
+    "enGB": "Slave Hunter"
+  },
+
+  {
+    "Key": "Hobgoblin.SlaveHunter.Description",
+    "zhCN": "大地精奴隶贩子擅长追踪逃跑的奴隶以及在肮脏的环境下生存。拥有该种族特性的大地精的生存检定获得+2种族加值，此外在对抗疾病的强韧检定上获得+2种族加值。",
+    "enGB": "Hobgoblin slavers excel at tracking down runaway slaves and surviving in filthy conditions. Hobgoblins with this racial trait gain a +2 racial bonus on Survival checks and a +2 racial bonus on saving throws against disease."
+  },
+
+  {
+    "Key": "Hobgoblin.Unfit.Name",
+    "ProcessTemplates": false,
+    "zhCN": "失格者",
+    "enGB": "Unfit"
+  },
+
+  {
+    "Key": "Hobgoblin.Unfit.Description",
+    "zhCN": "大地精社会中最低的阶层就是那些在军队中未能取得职位的人，他们很快就会明白巴结上司的价值。拥有该种族特性的大地精擅长一件军用武器，并且在唬骗以及交涉检定上获得+1种族加值。",
+    "enGB": "Hobgoblins who failed to secure a position in the military hold the lowest status in hobgoblin society, and quickly learn the value of currying favor with their betters. Hobgoblins with this racial trait gain proficiency in a single martial weapon and +1 racial bonus on Bluff and Diplomacy checks."
+  },
+
+  {
+    "Key": "Hobgoblin.HobgoblinRacialTrait.Name",
+    "ProcessTemplates": false,
+    "zhCN": "大地精种族特性",
+    "enGB": "Hobgoblin Racial Trait"
+  },
+
+  {
+    "Key": "Hobgoblin.HobgoblinRacialTrait.Description",
+    "zhCN": "虽然许多大地精表现其族裔的典型表现，但更多大地精并非如此。那些拥有不同背景的大地精可能会展现出截然不同的传承特征，无论是在外貌还是能力上。",
+    "enGB": "Although many hobgoblins follow the general model of the hobgoblin, many more do not. Those of different backgrounds may evince dramatically different manifestations of their heritage, both in appearance and in ability."
+  }
+]
