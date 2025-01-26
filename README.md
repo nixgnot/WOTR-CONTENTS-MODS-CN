@@ -156,7 +156,7 @@
 | [重装魔战](#重装魔战) | 重装魔战 | 自带 | :heavy_check_mark: | :+1: | :file_folder: |||
 | [CompanionAscension](#CompanionAscension) | 同伴提升 |  | :heavy_check_mark: | :+1: | :file_folder: ||::|
 | [SwashbucklerWOTR](#SwashbucklerWOTR) | 游荡剑客 | QL汉化 | :heavy_check_mark: | :+1::+1::+1: | :file_folder: |||
-| [SmolCraft](#SmolCraft) | SmolCraft | QL汉化 | :heavy_check_mark: | :+1: | :file_folder: |||
+| [SmolCraft](#SmolCraft) | SmolCraft | QL汉化 | :heavy_check_mark: | :+1: | :file_folder: ||:steam_locomotive:|
 | [EnduringRework](#EnduringRework) | 持久重置 | QL汉化 | :heavy_check_mark: | :+1: | :file_folder: |🛠️||
 | [CraftMaster](#CraftMaster) | 造物MOD | 自带 | :heavy_check_mark: | :+1::+1: | :file_folder::file_folder: |||
 | [Psionics](#Psionics) | 灵能MOD | QL汉化 | :heavy_check_mark: | :+1::+1: | :file_folder::file_folder: |||
@@ -3788,7 +3788,7 @@ C:\Users\你的用户名\AppData\LocalLow\Owlcat Games\Pathfinder Wrath Of The R
 > *安装方式：* **UMM**<br>
 > *新增内容：* 神话能力。专长，动物伙伴<br>
 + Discord发布，早期版本，自行承担风险。本文档[Release页面](https://github.com/nixgnot/WOTR-CONTENTS-MODS-CN/releases)处可下载（SmolCraft.zip）
-
++ 最新版本已经不再支持，仅留作备份
  <table>
  <tr><th colspan="3">新增内容列表<br></th></tr> 
   <tr><td rowspan="2">神话能力</i></td>
