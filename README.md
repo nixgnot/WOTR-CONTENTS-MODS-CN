@@ -4961,6 +4961,57 @@ C:\Users\你的用户名\AppData\LocalLow\Owlcat Games\Pathfinder Wrath Of The R
 
 
 ------------------------------------------- 
+### [Ebon's Content Mod](https://www.nexusmods.com/pathfinderwrathoftherighteous/mods/758?tab=description)
+> *前置：* TabletopTweaks-Core WrathPatches(https://github.com/microsoftenator2022/WrathPatches)<br>
+> *中文：***[QL汉化](QuickLocalization用汉化文本/Localization/Nine%20Swords)**<br>
+> *安装方式：* **UMM**<br>
+> *新增内容：
+<table>
+<tr><th colspan="5">新增内容列表<br></th></tr> 
+  <tr><td rowspan="24">种族 Races</i></td>
+       <td colspan="2">轮回者 Samsaran</td></tr>
+       <td colspan="2">风巨灵裔 Sylph</td></tr>
+       <td colspan="2">水巨灵裔 Undine</td></tr>
+       <td colspan="2">火巨灵裔 Ifrit</td></tr>
+       <td colspan="2">巨灵裔 Suli</td></tr> 
+       <td colspan="2">轮回者 Samsaran</td></tr>
+       <td colspan="2">地底侏儒 Svirfneblin</td></tr>
+       <td colspan="2">鸮形人 Strix</td></tr>
+       <td colspan="2">窃影鬼 Fetchling</td></tr>
+       <td colspan="2">卓尔 Drow</td></tr>
+       <td colspan="2">替换儿 Changeling</td></tr>
+       <td colspan="2">库鲁人 Kuru</td></tr>
+       <td colspan="2">蝮血裔 Vishkanya</td></tr>
+       <td colspan="2">舍卜提 Shabti</td></tr>
+       <td colspan="2">仿生人 Android</td></tr>
+       <td colspan="2">兽态人 Skinwalker</td></tr>
+       <td colspan="2">地精 Goblin</td></tr>
+       <td colspan="2">兽人 Orc</td></tr>
+       <td colspan="2">狩狼人 Rougarou</td></tr>
+       <td colspan="2">娜迦裔 Nagaji</td></tr>
+       <td colspan="2">混种人 Mongrel</td></tr>
+       <td colspan="2">熵裔 Ganzi</td></tr>
+       <td colspan="2">晋升魅魔 Ascending Succubus</td></tr>
+       <td colspan="2">大地精 Hobgoblin</td></tr>
+  <tr><td rowspan="3">变体</i></td>
+       <td rowspan="1">武僧 Monk</td>
+       <td>般若僧 Hungry Ghost Monk</td></tr>
+       <td rowspan="1">术士 Sorcerer</td>
+       <td>魔能武师 Eldritch Scrapper</td></tr>
+       <td rowspan="1">奥能师 Arcanist</td>
+       <td>玛迦安比恩学士 Collegiate Initiate</td></tr>
+  <tr><td rowspan="2">魔战士奥秘 Magus Arcana</i></td>
+       <td colspan="2">华丽奥能 Flamboyant Arcana<br>魔战士获得游荡剑客炫技列表中的大胆特技和适时格挡反击炫技。魔战士只能使用他的奥法能量池（不能使用时髦值）来满足他从这个奥秘中所获得的炫技或“奥秘炫技”获得的炫技的消耗。</td></tr>
+       <td colspan="2">奥能炫技 Arcane Deed<br>魔战士选择这个奥秘时，他可以从游荡剑客职业能力中选择任何一个等级等同于他魔战士等级的游荡剑客可用的炫技。他使用该炫技时可用他奥法能量池中的奥法点数作为时髦值来满足炫技的消耗需求。</td></tr>
+  <tr><td rowspan="1">术士血承 Sorcerer Bloodlines</i></td>
+       <td colspan="2">兽人血承 Orc Sorcerer Bloodline</td></tr>
+  <tr><td rowspan="1">奥能技艺 Arcanist Exploits</i></td>
+       <td colspan="2">允许奥能师使用奥能技艺获得一个奥术发现，基于学派的奥术发现只对学派家变体生效</td></tr>
+  <tr><td rowspan="2">能力修复</i></td>
+       <td colspan="2">不谐之音现在对吟游演艺效果范围内所有的盟友生效</td></tr>
+       <td colspan="2">奋不顾身现在能正确通过狂暴之歌分享给盟友，但要注意，只要盟友离开歌曲范围并重新进去就会失去这个效果</td></tr>
+</table>   
+-------------------------------------------
 
 ### 功能MOD索引
 + [ToyBox](https://github.com/xADDBx/ToyBox-Wrath) 应该不用介绍？
