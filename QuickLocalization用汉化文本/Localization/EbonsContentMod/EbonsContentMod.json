@@ -3021,6 +3021,19 @@
   },
 
   {
+    "Key": "Ganzi.Quibble.Name",
+    "ProcessTemplates": false,
+    "zhCN": "驳斥命运",
+    "enGB": "Quibble"
+  },
+
+  {
+    "Key": "Ganzi.Quibble.Description",
+    "zhCN": "对于大多数熵裔来说，混沌的影响相对隐晦，并表现为一种使他人感染熵和意外厄运的能力。 每天一次，熵裔可以以一个迅捷动作扭曲概率，并改变20尺范围内单个生物的运气，若目标未通过意志豁免，则迫使其在下一次d20检定中投掷两次，并取较差的结果，如同“凶兆”法术的效果。 每有5个角色等级，目标就必须在d20检定额外多投掷一次（在20级时最多为五次检定）。 这是诅咒效应。",
+    "enGB": "For most ganzis, the influence of chaos is relatively subtle and manifests as an ability to infect others with entropy and unexpected bad luck. Once per day as a swift action, a ganzi can twist probability and alter the luck of a single creature within 20 feet that fails its Will save, forcing it to roll its next d20 roll twice and take the worse result as with the Ill Omen spell. For every five character levels you have, the target must roll twice on an additional d20 roll (to a maximum of five rolls at 20th level). This is a curse effect."
+  },
+
+  {
     "Key": "AscendingSuccubus.Name",
     "ProcessTemplates": false,
     "zhCN": "晋升魅魔",
