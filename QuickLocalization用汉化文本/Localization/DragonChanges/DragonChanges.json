@@ -34,8 +34,8 @@
 
   {
     "Key": "unicornmountfeature.description",
-    "enGB": "{g|Encyclopedia:Size}Size{/g}: Large\n{g|Encyclopedia:Speed}Speed{/g}: 50 ft.\n{g|Encyclopedia:Armor_Class}AC{/g}: +4 natural armor\n{g|Encyclopedia:Attack}攻击{/g}: bite ({g|Encyclopedia:Dice}1d4{/g}), 2 hooves (1d6)\n{g|Encyclopedia:Ability_Scores}Ability scores{/g}: {g|Encyclopedia:Strength}Str{/g} 16, {g|Encyclopedia:Dexterity}Dex{/g} 13, {g|Encyclopedia:Constitution}Con{/g} 15, {g|Encyclopedia:Intelligence}Int{/g} 2, {g|Encyclopedia:Wisdom}Wis{/g} 12, {g|Encyclopedia:Charisma}Cha{/g} 6\nSpecial qualities: {g|Encyclopedia:Scent}scent{/g}\nAt 4th level, a horse gains Str +2 and Con +2 and its hoof attacks become primary.\nWhen riding a horse, you gain a +1 {g|Encyclopedia:Bonus}bonus{/g} to AC and on attack rolls against enemies of Medium size or smaller.",
-    "zhCN": "{g|Encyclopedia:Size}体型{/g}: 大型\n{g|Encyclopedia:Speed}速度{/g}: 50 尺.\n{g|Encyclopedia:Armor_Class}防御等级{/g}: +4 天生防御 \n{g|Encyclopedia:Attack}Attacks{/g}: 啮咬 ({g|Encyclopedia:Dice}1d4{/g}), 2 蹄踢 (1d6)\n{g|Encyclopedia:Ability_Scores}属性值{/g}: {g|Encyclopedia:Strength}力量{/g} 16, {g|Encyclopedia:Dexterity}敏捷{/g} 13, {g|Encyclopedia:Constitution}体质{/g} 15, {g|Encyclopedia:Intelligence}智力{/g} 2, {g|Encyclopedia:Wisdom}感知{/g} 12, {g|Encyclopedia:Charisma}魅力{/g} 6\n特性：{g|Encyclopedia:Scent}灵敏嗅觉{/g}\n达到4级后，马的力量+2，体质+2，蹄踢成为主要攻击。\n骑马对抗中等体型或更小的敌人时，防御等级与攻击检定获得+1{g|Encyclopedia:Bonus}加值{/g}。"
+    "enGB": "{g|Encyclopedia:Size}Size{/g}: Large\n{g|Encyclopedia:Speed}Speed{/g}: 50 ft.\n{g|Encyclopedia:Armor_Class}AC{/g}: +4 natural armor\n{g|Encyclopedia:Attack}Attacks{/g}: bite ({g|Encyclopedia:Dice}1d4{/g}), 2 hooves (1d6)\n{g|Encyclopedia:Ability_Scores}Ability scores{/g}: {g|Encyclopedia:Strength}Str{/g} 16, {g|Encyclopedia:Dexterity}Dex{/g} 13, {g|Encyclopedia:Constitution}Con{/g} 15, {g|Encyclopedia:Intelligence}Int{/g} 2, {g|Encyclopedia:Wisdom}Wis{/g} 12, {g|Encyclopedia:Charisma}Cha{/g} 6\nSpecial qualities: {g|Encyclopedia:Scent}scent{/g}\nAt 4th level, a horse gains Str +2 and Con +2 and its hoof attacks become primary.\nWhen riding a horse, you gain a +1 {g|Encyclopedia:Bonus}bonus{/g} to AC and on attack rolls against enemies of Medium size or smaller.",
+    "zhCN": "{g|Encyclopedia:Size}体型{/g}: 大型\n{g|Encyclopedia:Speed}速度{/g}: 50 尺.\n{g|Encyclopedia:Armor_Class}防御等级{/g}: +4 天生防御 \n{g|Encyclopedia:Attack}攻击{/g}: 啮咬 ({g|Encyclopedia:Dice}1d4{/g}), 2 蹄踢 (1d6)\n{g|Encyclopedia:Ability_Scores}属性值{/g}: {g|Encyclopedia:Strength}力量{/g} 16, {g|Encyclopedia:Dexterity}敏捷{/g} 13, {g|Encyclopedia:Constitution}体质{/g} 15, {g|Encyclopedia:Intelligence}智力{/g} 2, {g|Encyclopedia:Wisdom}感知{/g} 12, {g|Encyclopedia:Charisma}魅力{/g} 6\n特性：{g|Encyclopedia:Scent}灵敏嗅觉{/g}\n达到4级后，马的力量+2，体质+2，蹄踢成为主要攻击。\n骑马对抗中等体型或更小的敌人时，防御等级与攻击检定获得+1{g|Encyclopedia:Bonus}加值{/g}。"
   },
 
   {
@@ -379,266 +379,266 @@
     "Key": "swordmaster-tengu.archetype.name",
     "ProcessTemplates": false,
     "enGB": "Swordmaster",
-    "zhCN": "Swordmaster"
+    "zhCN": "剑术宗师"
   },
 
   {
     "Key": "swordmaster-tengu.archetype.description",
     "enGB": "A swordmaster meditates to strengthen her spiritual connection to her blade. She strives to perfect her skills by mastering six deadly trances.",
-    "zhCN": "A swordmaster meditates to strengthen her spiritual connection to her blade. She strives to perfect her skills by mastering six deadly trances."
+    "zhCN": "剑术宗师通过冥想增强她的精神与剑刃之联接。并力求通过默想使用六种体势将她的技法发挥至极致。"
   },
 
   {
     "Key": "swordmaster-tengu.archetype.shortdescription",
     "enGB": "A swordmaster meditates to strengthen her spiritual connection to her blade. She strives to perfect her skills by mastering six deadly trances.",
-    "zhCN": "A swordmaster meditates to strengthen her spiritual connection to her blade. She strives to perfect her skills by mastering six deadly trances."
+    "zhCN": "剑术宗师通过冥想增强她的精神与剑刃之联接。并力求通过默想使用六种体势将她的技法发挥至极致。"
   },
 
   {
     "Key": "swordmaster-tengu.featureselection.name",
     "ProcessTemplates": false,
     "enGB": "Trance Selection",
-    "zhCN": "Trance Selection"
+    "zhCN": "默想选择"
   },
 
   {
     "Key": "swordmaster-tengu.featureselection.description",
     "enGB": "At 3rd level, the swordmaster chooses one trance from the list below. She chooses another trance at 6th, 9th, 12th, 15th, and 18th level. She can only use one type of trance at a time.",
-    "zhCN": "At 3rd level, the swordmaster chooses one trance from the list below. She chooses another trance at 6th, 9th, 12th, 15th, and 18th level. She can only use one type of trance at a time."
+    "zhCN": "3级起，剑术宗师可以从下列列出的默想体势中选择一种。在6级，9级，12级，15级以及18级时她可以选择分别选择一新的种默想体势。同一时间剑术宗师只能使用一种默想体势。"
   },
 
   {
     "Key": "swordmaster-tengu.cranetrance.feature.name",
     "ProcessTemplates": false,
     "enGB": "Crane Trance",
-    "zhCN": "Crane Trance"
+    "zhCN": "流鹤势"
   },
 
   {
     "Key": "swordmaster-tengu.cranetrance.feature.description",
     "enGB": "The swordmaster’s blade rises and falls with the graceful sweeping arcs of the mountain crane. When in this trance, a swordmaster gains the benefits of the Crane Style feat.",
-    "zhCN": "The swordmaster’s blade rises and falls with the graceful sweeping arcs of the mountain crane. When in this trance, a swordmaster gains the benefits of the Crane Style feat."
+    "zhCN": "剑术宗师的剑刃划着优雅的圆弧上下舞动就如同那山中的青鹤一般。在这种默想体势中，剑术宗师获得鹤形拳专长的效果。"
   },
 
   {
     "Key": "swordmaster-tengu.cranetrance.ability.name",
     "ProcessTemplates": false,
     "enGB": "Crane Trance (Ability)",
-    "zhCN": "Crane Trance (Ability)"
+    "zhCN": "流鹤势（能力）"
   },
 
   {
     "Key": "swordmaster-tengu.cranetrance.ability.description",
     "enGB": "The swordmaster’s blade rises and falls with the graceful sweeping arcs of the mountain crane. When in this trance, a swordmaster gains the benefits of the Crane Style feat.",
-    "zhCN": "The swordmaster’s blade rises and falls with the graceful sweeping arcs of the mountain crane. When in this trance, a swordmaster gains the benefits of the Crane Style feat."
+    "zhCN": "剑术宗师的剑刃划着优雅的圆弧上下舞动就如同那山中的青鹤一般。在这种默想体势中，剑术宗师获得鹤形拳专长的效果。"
   },
 
   {
     "Key": "swordmaster-tengu.cranetrance.buff.name",
     "ProcessTemplates": false,
     "enGB": "Crane Trance Buff",
-    "zhCN": "Crane Trance Buff"
+    "zhCN": "流鹤势效果"
   },
 
   {
     "Key": "swordmaster-tengu.cranetrance.buff.description",
     "enGB": "The swordmaster’s blade rises and falls with the graceful sweeping arcs of the mountain crane. When in this trance, a swordmaster gains the benefits of the Crane Style feat.",
-    "zhCN": "The swordmaster’s blade rises and falls with the graceful sweeping arcs of the mountain crane. When in this trance, a swordmaster gains the benefits of the Crane Style feat."
+    "zhCN": "剑术宗师的剑刃划着优雅的圆弧上下舞动就如同那山中的青鹤一般。在这种默想体势中，剑术宗师获得鹤形拳专长的效果。"
   },
 
   {
     "Key": "swordmaster-tengu.dragontrance.feature.name",
     "ProcessTemplates": false,
     "enGB": "Dragon Trance",
-    "zhCN": "Dragon Trance"
+    "zhCN": "镇龙势"
   },
 
   {
     "Key": "swordmaster-tengu.dragontrance.feature.description",
     "enGB": "Like the dragon, the swordmaster has honed the steadiness of her mind and body. When in this trance, a swordmaster gains the benefits of the Dragon Style feat.",
-    "zhCN": "Like the dragon, the swordmaster has honed the steadiness of her mind and body. When in this trance, a swordmaster gains the benefits of the Dragon Style feat."
+    "zhCN": "剑术宗师将她的身心磨练得如同巨龙一般稳固。在这种默想体势中，剑术宗师获得龙形拳专长的效果。"
   },
 
   {
     "Key": "swordmaster-tengu.dragontrance.ability.name",
     "ProcessTemplates": false,
     "enGB": "Dragon Trance (Ability)",
-    "zhCN": "Dragon Trance (Ability)"
+    "zhCN": "镇龙势（能力）"
   },
 
   {
     "Key": "swordmaster-tengu.dragontrance.ability.description",
     "enGB": "Like the dragon, the swordmaster has honed the steadiness of her mind and body. When in this trance, a swordmaster gains the benefits of the Dragon Style feat.",
-    "zhCN": "Like the dragon, the swordmaster has honed the steadiness of her mind and body. When in this trance, a swordmaster gains the benefits of the Dragon Style feat."
+    "zhCN": "剑术宗师将她的身心磨练得如同巨龙一般稳固。在这种默想体势中，剑术宗师获得龙形拳专长的效果。"
   },
 
   {
     "Key": "swordmaster-tengu.dragontrance.buff.name",
     "ProcessTemplates": false,
     "enGB": "Dragon Trance Buff",
-    "zhCN": "Dragon Trance Buff"
+    "zhCN": "镇龙势效果"
   },
 
   {
     "Key": "swordmaster-tengu.dragontrance.buff.description",
     "enGB": "Like the dragon, the swordmaster has honed the steadiness of her mind and body. When in this trance, a swordmaster gains the benefits of the Dragon Style feat.",
-    "zhCN": "Like the dragon, the swordmaster has honed the steadiness of her mind and body. When in this trance, a swordmaster gains the benefits of the Dragon Style feat."
+    "zhCN": "剑术宗师将她的身心磨练得如同巨龙一般稳固。在这种默想体势中，剑术宗师获得龙形拳专长的效果。"
   },
 
   {
     "Key": "swordmaster-tengu.leopardtrance.feature.name",
     "ProcessTemplates": false,
     "enGB": "Leopard Trance",
-    "zhCN": "Leopard Trance"
+    "zhCN": "飞豹势"
   },
 
   {
     "Key": "swordmaster-tengu.leopardtrance.feature.description",
     "enGB": "Using the swiftness of the leopard, a swordmaster’s evasive footwork confuses her opponents. When in this trance, a swordmaster gains the benefits of the Mobility feat.",
-    "zhCN": "Using the swiftness of the leopard, a swordmaster’s evasive footwork confuses her opponents. When in this trance, a swordmaster gains the benefits of the Mobility feat."
+    "zhCN": "剑术宗师使用那豹子般迅捷闪烁的步法迷惑她的敌人。在这种默想体势中，剑术宗师获得灵活移动专长的效果。"
   },
 
   {
     "Key": "swordmaster-tengu.leopardtrance.ability.name",
     "ProcessTemplates": false,
     "enGB": "Leopard Trance (Ability)",
-    "zhCN": "Leopard Trance (Ability)"
+    "zhCN": "飞豹势（能力）"
   },
 
   {
     "Key": "swordmaster-tengu.leopardtrance.ability.description",
     "enGB": "Using the swiftness of the leopard, a swordmaster’s evasive footwork confuses her opponents. When in this trance, a swordmaster gains the benefits of the Mobility feat.",
-    "zhCN": "Using the swiftness of the leopard, a swordmaster’s evasive footwork confuses her opponents. When in this trance, a swordmaster gains the benefits of the Mobility feat."
+    "zhCN": "剑术宗师使用那豹子般迅捷闪烁的步法迷惑她的敌人。在这种默想体势中，剑术宗师获得灵活移动专长的效果。"
   },
 
   {
     "Key": "swordmaster-tengu.leopardtrance.buff.name",
     "ProcessTemplates": false,
     "enGB": "Leopard Trance Buff",
-    "zhCN": "Leopard Trance Buff"
+    "zhCN": "飞豹势效果"
   },
 
   {
     "Key": "swordmaster-tengu.leopardtrance.buff.description",
     "enGB": "Using the swiftness of the leopard, a swordmaster’s evasive footwork confuses her opponents. When in this trance, a swordmaster gains the benefits of the Mobility feat.",
-    "zhCN": "Using the swiftness of the leopard, a swordmaster’s evasive footwork confuses her opponents. When in this trance, a swordmaster gains the benefits of the Mobility feat."
+    "zhCN": "剑术宗师使用那豹子般迅捷闪烁的步法迷惑她的敌人。在这种默想体势中，剑术宗师获得灵活移动专长的效果。"
   },
 
   {
     "Key": "swordmaster-tengu.monkeytrance.feature.name",
     "ProcessTemplates": false,
     "enGB": "Monkey Trance",
-    "zhCN": "Monkey Trance"
+    "zhCN": "跃猿势"
   },
 
   {
     "Key": "swordmaster-tengu.monkeytrance.feature.description",
     "enGB": "As the monkey springs, the swordmaster leaps from the reach of her enemies. While in this trance, a swordmaster gains the benefits of the Trip feat and Fury's Fall feat.",
-    "zhCN": "As the monkey springs, the swordmaster leaps from the reach of her enemies. While in this trance, a swordmaster gains the benefits of the Trip feat and Fury's Fall feat."
+    "zhCN": "就如同猿猴一般灵活，剑术宗师跳离敌人的进攻范围。在这种默想体势中，剑术宗师获得绊摔和欲魔落袭专长的效果。"
   },
 
   {
     "Key": "swordmaster-tengu.monkeytrance.ability.name",
     "ProcessTemplates": false,
     "enGB": "Monkey Trance (Ability)",
-    "zhCN": "Monkey Trance (Ability)"
+    "zhCN": "跃猿势（能力）"
   },
 
   {
     "Key": "swordmaster-tengu.monkeytrance.ability.description",
     "enGB": "As the monkey springs, the swordmaster leaps from the reach of her enemies. While in this trance, a swordmaster gains the benefits of the Trip feat and Fury's Fall feat.",
-    "zhCN": "As the monkey springs, the swordmaster leaps from the reach of her enemies. While in this trance, a swordmaster gains the benefits of the Trip feat and Fury's Fall feat."
+    "zhCN": "就如同猿猴一般灵活，剑术宗师跳离敌人的进攻范围。在这种默想体势中，剑术宗师获得绊摔和欲魔落袭专长的效果。"
   },
 
   {
     "Key": "swordmaster-tengu.monkeytrance.buff.name",
     "ProcessTemplates": false,
     "enGB": "Monkey Trance Buff",
-    "zhCN": "Monkey Trance Buff"
+    "zhCN": "跃猿势效果"
   },
 
   {
     "Key": "swordmaster-tengu.monkeytrance.buff.description",
     "enGB": "As the monkey springs, the swordmaster leaps from the reach of her enemies. While in this trance, a swordmaster gains the benefits of the Trip feat and Fury's Fall feat.",
-    "zhCN": "As the monkey springs, the swordmaster leaps from the reach of her enemies. While in this trance, a swordmaster gains the benefits of the Trip feat and Fury's Fall feat."
+    "zhCN": "就如同猿猴一般灵活，剑术宗师跳离敌人的进攻范围。在这种默想体势中，剑术宗师获得绊摔和欲魔落袭专长的效果。"
   },
 
   {
     "Key": "swordmaster-tengu.serpenttrance.feature.name",
     "ProcessTemplates": false,
     "enGB": "Serpent Trance",
-    "zhCN": "Serpent Trance"
+    "zhCN": "蛇突势"
   },
 
   {
     "Key": "swordmaster-tengu.serpenttrance.feature.description",
     "enGB": "Like the serpent, the swordmaster’s quick movements allow her to catch her opponent unawares. While in this trance, a swordmaster gains the benefits of the Feint feat with a +4 bonus to Feint.",
-    "zhCN": "Like the serpent, the swordmaster’s quick movements allow her to catch her opponent unawares. While in this trance, a swordmaster gains the benefits of the Feint feat with a +4 bonus to Feint."
+    "zhCN": "剑术宗师的如蛇一般迅捷的突袭使她的敌人措不及防。在这种默想体势中，剑术宗师获得佯攻专长的效果并在佯攻上获得+4加值。"
   },
 
   {
     "Key": "swordmaster-tengu.serpenttrance.ability.name",
     "ProcessTemplates": false,
     "enGB": "Serpent Trance (Ability)",
-    "zhCN": "Serpent Trance (Ability)"
+    "zhCN": "蛇突势（能力）"
   },
 
   {
     "Key": "swordmaster-tengu.serpenttrance.ability.description",
     "enGB": "Like the serpent, the swordmaster’s quick movements allow her to catch her opponent unawares. While in this trance, a swordmaster gains the benefits of the Feint feat with a +4 bonus to Feint.",
-    "zhCN": "Like the serpent, the swordmaster’s quick movements allow her to catch her opponent unawares. While in this trance, a swordmaster gains the benefits of the Feint feat with a +4 bonus to Feint."
+    "zhCN": "剑术宗师的如蛇一般迅捷的突袭使她的敌人措不及防。在这种默想体势中，剑术宗师获得佯攻专长的效果并在佯攻上获得+4加值。"
   },
 
   {
     "Key": "swordmaster-tengu.serpenttrance.buff.name",
     "ProcessTemplates": false,
     "enGB": "Serpent Trance Buff",
-    "zhCN": "Serpent Trance Buff"
+    "zhCN": "蛇突势效果"
   },
 
   {
     "Key": "swordmaster-tengu.serpenttrance.buff.description",
     "enGB": "Like the serpent, the swordmaster’s quick movements allow her to catch her opponent unawares. While in this trance, a swordmaster gains the benefits of the Feint feat with a +4 bonus to Feint.",
-    "zhCN": "Like the serpent, the swordmaster’s quick movements allow her to catch her opponent unawares. While in this trance, a swordmaster gains the benefits of the Feint feat with a +4 bonus to Feint."
+    "zhCN": "剑术宗师的如蛇一般迅捷的突袭使她的敌人措不及防。在这种默想体势中，剑术宗师获得佯攻专长的效果并在佯攻上获得+4加值。"
   },
 
   {
     "Key": "swordmaster-tengu.tigertrance.feature.name",
     "ProcessTemplates": false,
     "enGB": "Tiger Trance",
-    "zhCN": "Tiger Trance"
+    "zhCN": "虎袭势"
   },
 
   {
     "Key": "swordmaster-tengu.tigertrance.feature.description",
     "enGB": "The swordmaster pounces upon her opponents, striking with the ferocity and brute force of a wild tiger. While in this trance, a swordmaster gains the benefits of the Pounce feat.",
-    "zhCN": "The swordmaster pounces upon her opponents, striking with the ferocity and brute force of a wild tiger. While in this trance, a swordmaster gains the benefits of the Pounce feat."
+    "zhCN": "剑术宗师对她的对手进行突袭，就好似凶暴残忍的野生猛虎一般。在这种默想体势中，剑术宗师获得猛扑专长的效果。"
   },
 
   {
     "Key": "swordmaster-tengu.tigertrance.ability.name",
     "ProcessTemplates": false,
     "enGB": "Tiger Trance (Ability)",
-    "zhCN": "Tiger Trance (Ability)"
+    "zhCN": "虎袭势（能力）"
   },
 
   {
     "Key": "swordmaster-tengu.tigertrance.ability.description",
     "enGB": "The swordmaster pounces upon her opponents, striking with the ferocity and brute force of a wild tiger. While in this trance, a swordmaster gains the benefits of the Pounce feat.",
-    "zhCN": "The swordmaster pounces upon her opponents, striking with the ferocity and brute force of a wild tiger. While in this trance, a swordmaster gains the benefits of the Pounce feat."
+    "zhCN": "剑术宗师对她的对手进行突袭，就好似凶暴残忍的野生猛虎一般。在这种默想体势中，剑术宗师获得猛扑专长的效果。"
   },
 
   {
     "Key": "swordmaster-tengu.tigertrance.buff.name",
     "ProcessTemplates": false,
     "enGB": "Tiger Trance Buff",
-    "zhCN": "Tiger Trance Buff"
+    "zhCN": "虎袭势效果"
   },
 
   {
     "Key": "swordmaster-tengu.tigertrance.buff.description",
     "enGB": "The swordmaster pounces upon her opponents, striking with the ferocity and brute force of a wild tiger. While in this trance, a swordmaster gains the benefits of the Pounce feat.",
-    "zhCN": "The swordmaster pounces upon her opponents, striking with the ferocity and brute force of a wild tiger. While in this trance, a swordmaster gains the benefits of the Pounce feat."
+    "zhCN": "剑术宗师对她的对手进行突袭，就好似凶暴残忍的野生猛虎一般。在这种默想体势中，剑术宗师获得猛扑专长的效果。"
   },
 
   {
