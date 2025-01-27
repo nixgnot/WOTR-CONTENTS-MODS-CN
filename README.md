@@ -5035,6 +5035,8 @@ C:\Users\你的用户名\AppData\LocalLow\Owlcat Games\Pathfinder Wrath Of The R
        <td>强力之翼 Powerful Wings</td><td>你获得两次翼击攻击（2d8伤害），视为次要天生攻击。</td></tr>
   <tr><td rowspan="1">职业</i></td>
        <td>贴吧老哥</td><td>纯娱乐滥强职业，魅力上一切，默认选项不开启</td></tr>    
+  <tr><td rowspan="1">变体</i></td>
+       <td>游荡者</td><td>剑术宗师 Swordmaster</td></tr> 
   <tr><td rowspan="1">其他</i></td>
        <td colspan="2">提供了大幅度加强EC中龙兽的秘密选项，默认选项不开启</td></tr>
 </table>   
