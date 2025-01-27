@@ -1,0 +1,656 @@
+[
+  {
+    "Key": "PowerfulThrow.name",
+    "ProcessTemplates": false,
+    "enGB": "Powerful Throw",
+    "zhCN": "强力投掷"
+  },
+
+  {
+    "Key": "PowerfulThrow.description",
+    "enGB": "You may use your {g}Strength{/g} modifier in place of your {g}Dexterity{/g} modifier for your attack rolls when making a ranged attack with thrown weapons. You may also use the Power Attack feat instead of the Deadly Aim feat when attacking with thrown weapons.",
+    "zhCN": "你使用{g}力量{/g}调整值取代{g}敏捷{/g}调整值，来计算使用投掷武器时的远程攻击检定。同时你也可以对远程投掷武器应用猛力攻击专长，来替代致命瞄准。"
+  },
+
+  {
+    "Key": "undeadmountfeature.name",
+    "ProcessTemplates": false,
+    "enGB": "Animal Companion - Undead Horse",
+    "zhCN": "动物伙伴 （亡灵战马）"
+  },
+
+  {
+    "Key": "undeadmountfeature.description",
+        "enGB": "{g|Encyclopedia:Size}Size{/g}: Large\n{g|Encyclopedia:Speed}Speed{/g}: 50 ft.\n{g|Encyclopedia:Armor_Class}AC{/g}: +4 natural armor\n{g|Encyclopedia:Attack}Attacks{/g}: bite ({g|Encyclopedia:Dice}1d4{/g}), 2 hooves (1d6)\n{g|Encyclopedia:Ability_Scores}Ability scores{/g}: {g|Encyclopedia:Strength}Str{/g} 16, {g|Encyclopedia:Dexterity}Dex{/g} 13, {g|Encyclopedia:Constitution}Con{/g} 15, {g|Encyclopedia:Intelligence}Int{/g} 2, {g|Encyclopedia:Wisdom}Wis{/g} 12, {g|Encyclopedia:Charisma}Cha{/g} 6\nSpecial qualities: {g|Encyclopedia:Scent}scent{/g}\nAt 4th level, a horse gains Str +2 and Con +2 and its hoof attacks become primary.\nWhen riding a horse, you gain a +1 {g|Encyclopedia:Bonus}bonus{/g} to AC and on attack rolls against enemies of Medium size or smaller.",
+        "zhCN": "{g|Encyclopedia:Size}体型{/g}：大型\n{g|Encyclopedia:Speed}速度{/g}: 50 尺.\n{g|Encyclopedia:Armor_Class}防御等级{/g}: +4 天生防御\n{g|Encyclopedia:Attack}攻击{/g}: 啮咬 ({g|Encyclopedia:Dice}1d4{/g}), 2 蹄踢 (1d6)\n{g|Encyclopedia:Ability_Scores}属性值{/g}: {g|Encyclopedia:Strength}力量{/g} 16, {g|Encyclopedia:Dexterity}敏捷{/g} 13, {g|Encyclopedia:Constitution}体质{/g} 15, {g|Encyclopedia:Intelligence}智力{/g} 2, {g|Encyclopedia:Wisdom}感知{/g} 12, {g|Encyclopedia:Charisma}魅力{/g} 6\n特性: {g|Encyclopedia:Scent}灵敏嗅觉{/g}\n达到4级后，马的力量+2，体质+2，蹄踢成为主要攻击。\n骑马对抗中等体型或更小的敌人时，防御等级与攻击检定获得+1{g|Encyclopedia:Bonus}加值{/g}。"
+  },
+
+  {
+    "Key": "unicornmountfeature.name",
+    "ProcessTemplates": false,
+    "enGB": "Animal Companion - Unicorn",
+    "zhCN": "动物伙伴 （独角兽）"
+  },
+
+  {
+    "Key": "unicornmountfeature.description",
+    "enGB": "{g|Encyclopedia:Size}Size{/g}: Large\n{g|Encyclopedia:Speed}Speed{/g}: 50 ft.\n{g|Encyclopedia:Armor_Class}AC{/g}: +4 natural armor\n{g|Encyclopedia:Attack}Attacks{/g}: bite ({g|Encyclopedia:Dice}1d4{/g}), 2 hooves (1d6)\n{g|Encyclopedia:Ability_Scores}Ability scores{/g}: {g|Encyclopedia:Strength}Str{/g} 16, {g|Encyclopedia:Dexterity}Dex{/g} 13, {g|Encyclopedia:Constitution}Con{/g} 15, {g|Encyclopedia:Intelligence}Int{/g} 2, {g|Encyclopedia:Wisdom}Wis{/g} 12, {g|Encyclopedia:Charisma}Cha{/g} 6\nSpecial qualities: {g|Encyclopedia:Scent}scent{/g}\nAt 4th level, a horse gains Str +2 and Con +2 and its hoof attacks become primary.\nWhen riding a horse, you gain a +1 {g|Encyclopedia:Bonus}bonus{/g} to AC and on attack rolls against enemies of Medium size or smaller.",
+    "zhCN": "{g|Encyclopedia:Size}体型{/g}: 大型\n{g|Encyclopedia:Speed}速度{/g}: 50 尺.\n{g|Encyclopedia:Armor_Class}防御等级{/g}: +4 天生防御 \n{g|Encyclopedia:Attack}Attacks{/g}: 啮咬 ({g|Encyclopedia:Dice}1d4{/g}), 2 蹄踢 (1d6)\n{g|Encyclopedia:Ability_Scores}属性值{/g}: {g|Encyclopedia:Strength}力量{/g} 16, {g|Encyclopedia:Dexterity}敏捷{/g} 13, {g|Encyclopedia:Constitution}体质{/g} 15, {g|Encyclopedia:Intelligence}智力{/g} 2, {g|Encyclopedia:Wisdom}感知{/g} 12, {g|Encyclopedia:Charisma}魅力{/g} 6\n特性：{g|Encyclopedia:Scent}灵敏嗅觉{/g}\n达到4级后，马的力量+2，体质+2，蹄踢成为主要攻击。\n骑马对抗中等体型或更小的敌人时，防御等级与攻击检定获得+1{g|Encyclopedia:Bonus}加值{/g}。"
+  },
+
+  {
+    "Key": "griffonmountfeature.name",
+    "ProcessTemplates": false,
+    "enGB": "Animal Companion - Griffon",
+    "zhCN": "动物伙伴（狮鹫）"
+  },
+
+  {
+    "Key": "griffonmountfeature.description",
+    "enGB": "MOUNTING IS VISUALLY BROKEN\nTODO",
+    "zhCN": "外观存在错误\n开发中"
+  },
+
+  {
+    "Key": "redditor.name",
+    "ProcessTemplates": false,
+    "enGB": "Redditor",
+    "zhCN": "贴吧老哥"
+  },
+
+  {
+    "Key": "redditor.description",
+    "enGB": "Reddit's own character class. CHA TO EVERYTHING! \nBasically Fighter class with +CHA to all stats and CHA spellcasting. (This is a meme class I made, don't take it too seriously)'",
+    "zhCN": "魅力上一切的网红职业！\n拥有魅力上一切和魅力施法的战士。（这是纯粹的娱乐职业，别太认真了）"
+  },
+
+  {
+    "Key": "redditor.shortdescription",
+    "enGB": "Reddit's own character class. CHA TO EVERYTHING!",
+    "zhCN": "魅力上一切的网红职业！"
+  },
+
+  {
+    "Key": "ChaToInit.Name",
+    "ProcessTemplates": false,
+    "enGB": "Redditor Initiative",
+    "zhCN": "贴吧老哥先攻"
+  },
+
+  {
+    "Key": "ChaToInit.Description",
+    "enGB": "The Redditor adds his {g|Encyclopedia:Charisma}Charisma{/g} bonus (if any) to his {g|Encyclopedia:Initiative}Initiative{/g}.",
+    "zhCN": "贴吧老哥将其{g|Encyclopedia:Charisma}魅力{/g}调整值（如果有） 加到其{g|Encyclopedia:Initiative}先攻{/g}。"
+  },
+
+  {
+    "Key": "ChaToSaves.Name",
+    "ProcessTemplates": false,
+    "enGB": "Redditor Saving Throws",
+    "zhCN": "贴吧老哥豁免"
+  },
+
+  {
+    "Key": "ChaToSaves.Description",
+    "enGB": "The Redditor adds his {g|Encyclopedia:Charisma}Charisma{/g} bonus (if any) to his {g|Encyclopedia:SaveFortitude}Fortitude{/g}, {g|Encyclopedia:SaveReflex}Reflex{/g}, and {g|Encyclopedia:SaveWill}Will{/g} saves.",
+    "zhCN": "贴吧老哥将其{g|Encyclopedia:Charisma}魅力{/g}调整值（如果有） 加到其{g|Encyclopedia:SaveFortitude}强韧{/g}。{g|Encyclopedia:SaveReflex}反射{/g}和{g|Encyclopedia:SaveWill}意志{/g}豁免。"
+  },
+
+  {
+    "Key": "ChaToWis.Name",
+    "ProcessTemplates": false,
+    "enGB": "Redditor Wisdom",
+    "zhCN": "贴吧老哥感知"
+  },
+
+  {
+    "Key": "ChaToWis.Description",
+    "enGB": "The Redditor adds his {g|Encyclopedia:Charisma}Charisma{/g} bonus (if any) to his {g|Encyclopedia:Wisdom}Wisdom{/g}.",
+    "zhCN": "贴吧老哥将其{g|Encyclopedia:Charisma}魅力{/g}调整值（如果有） 加到其{g|Encyclopedia:Wisdom}感知{/g}。"
+  },
+
+  {
+    "Key": "ChaToInt.Name",
+    "ProcessTemplates": false,
+    "enGB": "Redditor Intelligence",
+    "zhCN": "贴吧老哥智力"
+  },
+
+  {
+    "Key": "ChaToInt.Description",
+    "enGB": "The Redditor adds his {g|Encyclopedia:Charisma}Charisma{/g} bonus (if any) to his {g|Encyclopedia:Intelligence}Intelligence{/g}.",
+    "zhCN": "贴吧老哥将其{g|Encyclopedia:Charisma}魅力{/g}调整值（如果有） 加到其{g|Encyclopedia:Intelligence}智力{/g}。"
+  },
+
+  {
+    "Key": "ChaToAC.Name",
+    "ProcessTemplates": false,
+    "enGB": "Redditor Armor",
+    "zhCN": "贴吧老哥厚皮"
+  },
+
+  {
+    "Key": "ChaToAC.Description",
+    "enGB": "The Redditor adds his {g|Encyclopedia:Charisma}Charisma{/g} bonus (if any) to his {g|Encyclopedia:Armor_Class}AC{/g}.",
+    "zhCN": "贴吧老哥将其{g|Encyclopedia:Charisma}魅力{/g}调整值（如果有） 加到其{g|Encyclopedia:Armor_Class}AC{/g}。"
+  },
+
+  {
+    "Key": "ChaToCha.Name",
+    "ProcessTemplates": false,
+    "enGB": "Redditor Charisma",
+    "zhCN": "贴吧老哥魅力"
+  },
+
+  {
+    "Key": "ChaToCha.Description",
+    "enGB": "The Redditor adds his {g|Encyclopedia:Charisma}Charisma{/g} bonus (if any) to his {g|Encyclopedia:Charisma}Charisma{/g}.",
+    "zhCN": "贴吧老哥将其{g|Encyclopedia:Charisma}魅力{/g}调整值（如果有） 加到其{g|Encyclopedia:Charisma}魅力{/g}。"
+  },
+
+  {
+    "Key": "ChaToDex.Name",
+    "ProcessTemplates": false,
+    "enGB": "Redditor Dexterity",
+    "zhCN": "贴吧老哥敏捷"
+  },
+
+  {
+    "Key": "ChaToDex.Description",
+    "enGB": "The Redditor adds his {g|Encyclopedia:Charisma}Charisma{/g} bonus (if any) to his {g|Encyclopedia:Dexterity}Dexterity{/g}.",
+    "zhCN": "贴吧老哥将其{g|Encyclopedia:Charisma}魅力{/g}调整值（如果有） 加到其{g|Encyclopedia:Dexterity}敏捷{/g}。"
+  },
+
+  {
+    "Key": "ChaToCon.Name",
+    "ProcessTemplates": false,
+    "enGB": "Redditor Constitution",
+    "zhCN": "贴吧老哥体质"
+  },
+
+  {
+    "Key": "ChaToCon.Description",
+    "enGB": "The Redditor adds his {g|Encyclopedia:Charisma}Charisma{/g} bonus (if any) to his {g|Encyclopedia:Constitution}Constitution{/g}.",
+    "zhCN": "贴吧老哥将其{g|Encyclopedia:Charisma}魅力{/g}调整值（如果有） 加到其{g|Encyclopedia:Constitution}体质{/g}。"
+  },
+
+  {
+    "Key": "ChaToStr.Name",
+    "ProcessTemplates": false,
+    "enGB": "Redditor Strength",
+    "zhCN": "贴吧老哥力量"
+  },
+
+  {
+    "Key": "ChaToStr.Description",
+    "enGB": "The Redditor adds his {g|Encyclopedia:Charisma}Charisma{/g} bonus (if any) to his {g|Encyclopedia:Strength}Strength{/g}.",
+    "zhCN": "贴吧老哥将其{g|Encyclopedia:Charisma}魅力{/g}调整值（如果有） 加到其{g|Encyclopedia:Strength}力量{/g}。"
+  },
+
+  {
+    "Key": "ChaToSkills.Name",
+    "ProcessTemplates": false,
+    "enGB": "Redditor Skills",
+    "zhCN": "贴吧万事通"
+  },
+
+  {
+    "Key": "ChaToSkills.Description",
+    "enGB": "The Redditor adds his {g|Encyclopedia:Charisma}Charisma{/g} bonus (if any) to his skills.",
+    "zhCN": "贴吧老哥将其{g|Encyclopedia:Charisma}魅力{/g}调整值（如果有） 加到其所有技能。"
+  },
+  {
+    "Key": "ChaToSpeed.Name",
+    "ProcessTemplates": false,
+    "enGB": "Redditor Speed",
+    "zhCN": "贴吧老哥秒回"
+  },
+
+  {
+    "Key": "ChaToSpeed.Description",
+    "enGB": "The Redditor adds his {g|Encyclopedia:Charisma}Charisma{/g} bonus (if any) to his {g|Encyclopedia:Speed}Speed{/g}.",
+    "zhCN": "贴吧老哥将其{g|Encyclopedia:Charisma}魅力{/g}调整值（如果有） 加到其{g|Encyclopedia:Speed}速度{/g}。"
+  },
+
+  {
+    "Key": "ChaToDamage.Name",
+    "ProcessTemplates": false,
+    "enGB": "Redditor Damage",
+    "zhCN": "贴吧老哥伤害"
+  },
+
+  {
+    "Key": "ChaToDamage.Description",
+    "enGB": "The Redditor adds his {g|Encyclopedia:Charisma}Charisma{/g} bonus (if any) to his damage.",
+    "zhCN": "贴吧老哥将其{g|Encyclopedia:Charisma}魅力{/g}调整值（如果有） 加到其伤害。"
+  },
+
+  {
+    "Key": "ChaToBAB.Name",
+    "ProcessTemplates": false,
+    "enGB": "Redditor BAB",
+    "zhCN": "贴吧老哥BAB"
+  },
+
+  {
+    "Key": "ChaToBAB.Description",
+    "enGB": "The Redditor adds his {g|Encyclopedia:Charisma}Charisma{/g} bonus (if any) to his {g|Encyclopedia:BaseAttackBonus}Base Attack Bonus{/g}.",
+    "zhCN": "贴吧老哥将其{g|Encyclopedia:Charisma}魅力{/g}调整值（如果有） 加到其{g|Encyclopedia:BaseAttackBonus}基本攻击加值{/g}。"
+  },
+
+  {
+    "Key": "ChaToCrit.Name",
+    "ProcessTemplates": false,
+    "enGB": "Redditor Critical",
+    "zhCN": "贴吧老哥暴击"
+  },
+
+  {
+    "Key": "ChaToCrit.Description",
+    "enGB": "The Redditor adds his {g|Encyclopedia:Charisma}Charisma{/g} bonus (if any) to his Critical bonus.",
+    "zhCN": "贴吧老哥将其{g|Encyclopedia:Charisma}魅力{/g}调整值（如果有） 加到其重击范围。"
+  },
+
+  {
+    "Key": "ChaToSR.Name",
+    "ProcessTemplates": false,
+    "enGB": "Redditor Spell Resistance",
+    "zhCN": "贴吧老哥抗力"
+  },
+
+  {
+    "Key": "ChaToSR.Description",
+    "enGB": "The Redditor adds his {g|Encyclopedia:Charisma}Charisma{/g} bonus (if any) to his Spell Resistance.",
+    "zhCN": "贴吧老哥将其{g|Encyclopedia:Charisma}魅力{/g}调整值（如果有） 加到其法术抗力。"
+  },
+
+  {
+    "Key": "ChaToDR.Name",
+    "ProcessTemplates": false,
+    "enGB": "Redditor Damage Reduction",
+    "zhCN": "贴吧老哥免伤"
+  },
+
+  {
+    "Key": "ChaToDR.Description",
+    "enGB": "The Redditor adds his {g|Encyclopedia:Charisma}Charisma{/g} bonus (if any) to his Damage Reduction. (CURRENTLY BROKEN).",
+    "zhCN": "贴吧老哥将其{g|Encyclopedia:Charisma}魅力{/g}调整值（如果有） 加到其伤害减免（目前失效）。"
+  },
+
+  {
+    "Key": "ChaToSpellPen.Name",
+    "ProcessTemplates": false,
+    "enGB": "Redditor Spell Penetration",
+    "zhCN": "贴吧老哥法穿"
+  },
+
+  {
+    "Key": "ChaToSpellPen.Description",
+    "enGB": "The Redditor adds his {g|Encyclopedia:Charisma}Charisma{/g} bonus (if any) to his Spell Penetration. ",
+    "zhCN": "贴吧老哥将其{g|Encyclopedia:Charisma}魅力{/g}调整值（如果有） 加到其法术穿透。"
+  },
+
+  {
+    "Key": "ChaToSpellDC.Name",
+    "ProcessTemplates": false,
+    "enGB": "Redditor Spell DC",
+    "zhCN": "贴吧老哥法术DC"
+  },
+
+  {
+    "Key": "ChaToSpellDC.Description",
+    "enGB": "The Redditor adds his {g|Encyclopedia:Charisma}Charisma{/g} bonus (if any) to his spell's DC. ",
+    "zhCN": "贴吧老哥将其{g|Encyclopedia:Charisma}魅力{/g}调整值（如果有） 加到其法术DC。"
+  },
+
+  {
+    "Key": "ChaToChaCap.Name",
+    "ProcessTemplates": false,
+    "enGB": "Reddit Moderator Charisma",
+    "zhCN": "贴吧调停者魅力"
+  },
+
+  {
+    "Key": "ChaToChaCap.Description",
+    "enGB": "The Redditor adds his {g|Encyclopedia:Charisma}Charisma{/g} bonus (if any) to his {g|Encyclopedia:Charisma}Charisma{/g}, again!.",
+    "zhCN": "贴吧老哥将其{g|Encyclopedia:Charisma}魅力{/g}调整值（如果有） 加到其{g|Encyclopedia:Charisma}魅力{/g}，对，再加一次！"
+  },
+
+  {
+    "Key": "redditor.spellbook.name",
+    "ProcessTemplates": false,
+    "enGB": "Redditor Spell Book",
+    "zhCN": "贴吧老哥法术书"
+  },
+
+  {
+    "Key": "swordmaster.class.name",
+    "ProcessTemplates": false,
+    "enGB": "Swordmaster (WIP)",
+    "zhCN": "Swordmaster (WIP)"
+  },
+
+  {
+    "Key": "swordmaster.class.description",
+    "enGB": "TODO Swordmaster description",
+    "zhCN": "TODO Swordmaster description"
+  },
+
+  {
+    "Key": "swordmaster.class.shortdescription",
+    "enGB": "TODO Swordmaster description",
+    "zhCN": "TODO Swordmaster description"
+  },
+
+  {
+    "Key": "swordmaster.progression.name",
+    "ProcessTemplates": false,
+    "enGB": "Swordmaster Progression",
+    "zhCN": "Swordmaster Progression"
+  },
+
+  {
+    "Key": "swordmaster.prociencies.name",
+    "ProcessTemplates": false,
+    "enGB": "Swordmaster Proficiencies",
+    "zhCN": "Swordmaster Proficiencies"
+  },
+
+  {
+    "Key": "swordmaster.prociencies.description",
+    "enGB": "Swordmasters are proficient with all simpe and martial swords, plut the quarterstaff. They are proficient with light armor, but not with shields.",
+    "zhCN": "Swordmasters are proficient with all simpe and martial swords, plut the quarterstaff. They are proficient with light armor, but not with shields."
+  },
+
+  {
+    "Key": "PowerfulWings.name",
+    "ProcessTemplates": false,
+    "enGB": "Powerful Wings",
+    "zhCN": "强力之翼"
+  },
+
+  {
+    "Key": "PowerfulWings.description",
+    "enGB": "You gain two wing attacks. These are secondary natural attacks that each deal 2d8 damage ",
+    "zhCN": "你获得两次翼击攻击（2d8伤害），视为次要天生攻击。"
+  },
+
+  {
+    "Key": "swordmaster-tengu.archetype.name",
+    "ProcessTemplates": false,
+    "enGB": "Swordmaster",
+    "zhCN": "Swordmaster"
+  },
+
+  {
+    "Key": "swordmaster-tengu.archetype.description",
+    "enGB": "A swordmaster meditates to strengthen her spiritual connection to her blade. She strives to perfect her skills by mastering six deadly trances.",
+    "zhCN": "A swordmaster meditates to strengthen her spiritual connection to her blade. She strives to perfect her skills by mastering six deadly trances."
+  },
+
+  {
+    "Key": "swordmaster-tengu.archetype.shortdescription",
+    "enGB": "A swordmaster meditates to strengthen her spiritual connection to her blade. She strives to perfect her skills by mastering six deadly trances.",
+    "zhCN": "A swordmaster meditates to strengthen her spiritual connection to her blade. She strives to perfect her skills by mastering six deadly trances."
+  },
+
+  {
+    "Key": "swordmaster-tengu.featureselection.name",
+    "ProcessTemplates": false,
+    "enGB": "Trance Selection",
+    "zhCN": "Trance Selection"
+  },
+
+  {
+    "Key": "swordmaster-tengu.featureselection.description",
+    "enGB": "At 3rd level, the swordmaster chooses one trance from the list below. She chooses another trance at 6th, 9th, 12th, 15th, and 18th level. She can only use one type of trance at a time.",
+    "zhCN": "At 3rd level, the swordmaster chooses one trance from the list below. She chooses another trance at 6th, 9th, 12th, 15th, and 18th level. She can only use one type of trance at a time."
+  },
+
+  {
+    "Key": "swordmaster-tengu.cranetrance.feature.name",
+    "ProcessTemplates": false,
+    "enGB": "Crane Trance",
+    "zhCN": "Crane Trance"
+  },
+
+  {
+    "Key": "swordmaster-tengu.cranetrance.feature.description",
+    "enGB": "The swordmaster’s blade rises and falls with the graceful sweeping arcs of the mountain crane. When in this trance, a swordmaster gains the benefits of the Crane Style feat.",
+    "zhCN": "The swordmaster’s blade rises and falls with the graceful sweeping arcs of the mountain crane. When in this trance, a swordmaster gains the benefits of the Crane Style feat."
+  },
+
+  {
+    "Key": "swordmaster-tengu.cranetrance.ability.name",
+    "ProcessTemplates": false,
+    "enGB": "Crane Trance (Ability)",
+    "zhCN": "Crane Trance (Ability)"
+  },
+
+  {
+    "Key": "swordmaster-tengu.cranetrance.ability.description",
+    "enGB": "The swordmaster’s blade rises and falls with the graceful sweeping arcs of the mountain crane. When in this trance, a swordmaster gains the benefits of the Crane Style feat.",
+    "zhCN": "The swordmaster’s blade rises and falls with the graceful sweeping arcs of the mountain crane. When in this trance, a swordmaster gains the benefits of the Crane Style feat."
+  },
+
+  {
+    "Key": "swordmaster-tengu.cranetrance.buff.name",
+    "ProcessTemplates": false,
+    "enGB": "Crane Trance Buff",
+    "zhCN": "Crane Trance Buff"
+  },
+
+  {
+    "Key": "swordmaster-tengu.cranetrance.buff.description",
+    "enGB": "The swordmaster’s blade rises and falls with the graceful sweeping arcs of the mountain crane. When in this trance, a swordmaster gains the benefits of the Crane Style feat.",
+    "zhCN": "The swordmaster’s blade rises and falls with the graceful sweeping arcs of the mountain crane. When in this trance, a swordmaster gains the benefits of the Crane Style feat."
+  },
+
+  {
+    "Key": "swordmaster-tengu.dragontrance.feature.name",
+    "ProcessTemplates": false,
+    "enGB": "Dragon Trance",
+    "zhCN": "Dragon Trance"
+  },
+
+  {
+    "Key": "swordmaster-tengu.dragontrance.feature.description",
+    "enGB": "Like the dragon, the swordmaster has honed the steadiness of her mind and body. When in this trance, a swordmaster gains the benefits of the Dragon Style feat.",
+    "zhCN": "Like the dragon, the swordmaster has honed the steadiness of her mind and body. When in this trance, a swordmaster gains the benefits of the Dragon Style feat."
+  },
+
+  {
+    "Key": "swordmaster-tengu.dragontrance.ability.name",
+    "ProcessTemplates": false,
+    "enGB": "Dragon Trance (Ability)",
+    "zhCN": "Dragon Trance (Ability)"
+  },
+
+  {
+    "Key": "swordmaster-tengu.dragontrance.ability.description",
+    "enGB": "Like the dragon, the swordmaster has honed the steadiness of her mind and body. When in this trance, a swordmaster gains the benefits of the Dragon Style feat.",
+    "zhCN": "Like the dragon, the swordmaster has honed the steadiness of her mind and body. When in this trance, a swordmaster gains the benefits of the Dragon Style feat."
+  },
+
+  {
+    "Key": "swordmaster-tengu.dragontrance.buff.name",
+    "ProcessTemplates": false,
+    "enGB": "Dragon Trance Buff",
+    "zhCN": "Dragon Trance Buff"
+  },
+
+  {
+    "Key": "swordmaster-tengu.dragontrance.buff.description",
+    "enGB": "Like the dragon, the swordmaster has honed the steadiness of her mind and body. When in this trance, a swordmaster gains the benefits of the Dragon Style feat.",
+    "zhCN": "Like the dragon, the swordmaster has honed the steadiness of her mind and body. When in this trance, a swordmaster gains the benefits of the Dragon Style feat."
+  },
+
+  {
+    "Key": "swordmaster-tengu.leopardtrance.feature.name",
+    "ProcessTemplates": false,
+    "enGB": "Leopard Trance",
+    "zhCN": "Leopard Trance"
+  },
+
+  {
+    "Key": "swordmaster-tengu.leopardtrance.feature.description",
+    "enGB": "Using the swiftness of the leopard, a swordmaster’s evasive footwork confuses her opponents. When in this trance, a swordmaster gains the benefits of the Mobility feat.",
+    "zhCN": "Using the swiftness of the leopard, a swordmaster’s evasive footwork confuses her opponents. When in this trance, a swordmaster gains the benefits of the Mobility feat."
+  },
+
+  {
+    "Key": "swordmaster-tengu.leopardtrance.ability.name",
+    "ProcessTemplates": false,
+    "enGB": "Leopard Trance (Ability)",
+    "zhCN": "Leopard Trance (Ability)"
+  },
+
+  {
+    "Key": "swordmaster-tengu.leopardtrance.ability.description",
+    "enGB": "Using the swiftness of the leopard, a swordmaster’s evasive footwork confuses her opponents. When in this trance, a swordmaster gains the benefits of the Mobility feat.",
+    "zhCN": "Using the swiftness of the leopard, a swordmaster’s evasive footwork confuses her opponents. When in this trance, a swordmaster gains the benefits of the Mobility feat."
+  },
+
+  {
+    "Key": "swordmaster-tengu.leopardtrance.buff.name",
+    "ProcessTemplates": false,
+    "enGB": "Leopard Trance Buff",
+    "zhCN": "Leopard Trance Buff"
+  },
+
+  {
+    "Key": "swordmaster-tengu.leopardtrance.buff.description",
+    "enGB": "Using the swiftness of the leopard, a swordmaster’s evasive footwork confuses her opponents. When in this trance, a swordmaster gains the benefits of the Mobility feat.",
+    "zhCN": "Using the swiftness of the leopard, a swordmaster’s evasive footwork confuses her opponents. When in this trance, a swordmaster gains the benefits of the Mobility feat."
+  },
+
+  {
+    "Key": "swordmaster-tengu.monkeytrance.feature.name",
+    "ProcessTemplates": false,
+    "enGB": "Monkey Trance",
+    "zhCN": "Monkey Trance"
+  },
+
+  {
+    "Key": "swordmaster-tengu.monkeytrance.feature.description",
+    "enGB": "As the monkey springs, the swordmaster leaps from the reach of her enemies. While in this trance, a swordmaster gains the benefits of the Trip feat and Fury's Fall feat.",
+    "zhCN": "As the monkey springs, the swordmaster leaps from the reach of her enemies. While in this trance, a swordmaster gains the benefits of the Trip feat and Fury's Fall feat."
+  },
+
+  {
+    "Key": "swordmaster-tengu.monkeytrance.ability.name",
+    "ProcessTemplates": false,
+    "enGB": "Monkey Trance (Ability)",
+    "zhCN": "Monkey Trance (Ability)"
+  },
+
+  {
+    "Key": "swordmaster-tengu.monkeytrance.ability.description",
+    "enGB": "As the monkey springs, the swordmaster leaps from the reach of her enemies. While in this trance, a swordmaster gains the benefits of the Trip feat and Fury's Fall feat.",
+    "zhCN": "As the monkey springs, the swordmaster leaps from the reach of her enemies. While in this trance, a swordmaster gains the benefits of the Trip feat and Fury's Fall feat."
+  },
+
+  {
+    "Key": "swordmaster-tengu.monkeytrance.buff.name",
+    "ProcessTemplates": false,
+    "enGB": "Monkey Trance Buff",
+    "zhCN": "Monkey Trance Buff"
+  },
+
+  {
+    "Key": "swordmaster-tengu.monkeytrance.buff.description",
+    "enGB": "As the monkey springs, the swordmaster leaps from the reach of her enemies. While in this trance, a swordmaster gains the benefits of the Trip feat and Fury's Fall feat.",
+    "zhCN": "As the monkey springs, the swordmaster leaps from the reach of her enemies. While in this trance, a swordmaster gains the benefits of the Trip feat and Fury's Fall feat."
+  },
+
+  {
+    "Key": "swordmaster-tengu.serpenttrance.feature.name",
+    "ProcessTemplates": false,
+    "enGB": "Serpent Trance",
+    "zhCN": "Serpent Trance"
+  },
+
+  {
+    "Key": "swordmaster-tengu.serpenttrance.feature.description",
+    "enGB": "Like the serpent, the swordmaster’s quick movements allow her to catch her opponent unawares. While in this trance, a swordmaster gains the benefits of the Feint feat with a +4 bonus to Feint.",
+    "zhCN": "Like the serpent, the swordmaster’s quick movements allow her to catch her opponent unawares. While in this trance, a swordmaster gains the benefits of the Feint feat with a +4 bonus to Feint."
+  },
+
+  {
+    "Key": "swordmaster-tengu.serpenttrance.ability.name",
+    "ProcessTemplates": false,
+    "enGB": "Serpent Trance (Ability)",
+    "zhCN": "Serpent Trance (Ability)"
+  },
+
+  {
+    "Key": "swordmaster-tengu.serpenttrance.ability.description",
+    "enGB": "Like the serpent, the swordmaster’s quick movements allow her to catch her opponent unawares. While in this trance, a swordmaster gains the benefits of the Feint feat with a +4 bonus to Feint.",
+    "zhCN": "Like the serpent, the swordmaster’s quick movements allow her to catch her opponent unawares. While in this trance, a swordmaster gains the benefits of the Feint feat with a +4 bonus to Feint."
+  },
+
+  {
+    "Key": "swordmaster-tengu.serpenttrance.buff.name",
+    "ProcessTemplates": false,
+    "enGB": "Serpent Trance Buff",
+    "zhCN": "Serpent Trance Buff"
+  },
+
+  {
+    "Key": "swordmaster-tengu.serpenttrance.buff.description",
+    "enGB": "Like the serpent, the swordmaster’s quick movements allow her to catch her opponent unawares. While in this trance, a swordmaster gains the benefits of the Feint feat with a +4 bonus to Feint.",
+    "zhCN": "Like the serpent, the swordmaster’s quick movements allow her to catch her opponent unawares. While in this trance, a swordmaster gains the benefits of the Feint feat with a +4 bonus to Feint."
+  },
+
+  {
+    "Key": "swordmaster-tengu.tigertrance.feature.name",
+    "ProcessTemplates": false,
+    "enGB": "Tiger Trance",
+    "zhCN": "Tiger Trance"
+  },
+
+  {
+    "Key": "swordmaster-tengu.tigertrance.feature.description",
+    "enGB": "The swordmaster pounces upon her opponents, striking with the ferocity and brute force of a wild tiger. While in this trance, a swordmaster gains the benefits of the Pounce feat.",
+    "zhCN": "The swordmaster pounces upon her opponents, striking with the ferocity and brute force of a wild tiger. While in this trance, a swordmaster gains the benefits of the Pounce feat."
+  },
+
+  {
+    "Key": "swordmaster-tengu.tigertrance.ability.name",
+    "ProcessTemplates": false,
+    "enGB": "Tiger Trance (Ability)",
+    "zhCN": "Tiger Trance (Ability)"
+  },
+
+  {
+    "Key": "swordmaster-tengu.tigertrance.ability.description",
+    "enGB": "The swordmaster pounces upon her opponents, striking with the ferocity and brute force of a wild tiger. While in this trance, a swordmaster gains the benefits of the Pounce feat.",
+    "zhCN": "The swordmaster pounces upon her opponents, striking with the ferocity and brute force of a wild tiger. While in this trance, a swordmaster gains the benefits of the Pounce feat."
+  },
+
+  {
+    "Key": "swordmaster-tengu.tigertrance.buff.name",
+    "ProcessTemplates": false,
+    "enGB": "Tiger Trance Buff",
+    "zhCN": "Tiger Trance Buff"
+  },
+
+  {
+    "Key": "swordmaster-tengu.tigertrance.buff.description",
+    "enGB": "The swordmaster pounces upon her opponents, striking with the ferocity and brute force of a wild tiger. While in this trance, a swordmaster gains the benefits of the Pounce feat.",
+    "zhCN": "The swordmaster pounces upon her opponents, striking with the ferocity and brute force of a wild tiger. While in this trance, a swordmaster gains the benefits of the Pounce feat."
+  },
+
+  {
+    "Key": "Wanderer.name",
+    "ProcessTemplates": false,
+    "enGB": "Wanderer - Cursed (lycanthropy)",
+    "zhCN": "Wanderer - Cursed (lycanthropy)"
+  },
+
+  {
+    "Key": "Wanderer.description",
+    "enGB": "Adds Perception and Mobility to list of class skills. She also is able to use her curse to qualify for feats that require lycanthropy.",
+    "zhCN": "Adds Perception and Mobility to list of class skills. She also is able to use her curse to qualify for feats that require lycanthropy."
+  }
+]
