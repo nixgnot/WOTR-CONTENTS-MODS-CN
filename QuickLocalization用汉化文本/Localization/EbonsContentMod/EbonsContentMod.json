@@ -1745,7 +1745,7 @@
 
   {
     "Key": "Changeling.Pyrophile.Description",
-    "zhCN": "替换儿使用的带有火焰描述符的法术，其伤害投骰获得+1种族加值。替换儿在1级后每4个等级，该加值额外增加1点。",
+    "zhCN": "替换儿施放的具有描述标识“火”的法术伤害投骰获得+1种族加值。替换儿在1级后每提升4个等级，该加值便额外增加1点。",
     "enGB": "The changeling gains a +1 racial bonus on damage rolls when using spells with the fire descriptor. This bonus increases by 1 for every 4 levels the changeling has beyond 1st."
   },
 
