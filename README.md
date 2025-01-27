@@ -187,6 +187,8 @@
 | [WOTRNineSwords](#WOTRNineSwords) | 九剑 | QL汉化 | :heavy_check_mark:  | :+1::+1::+1:| :file_folder:  :file_folder: |||
 | [EarlierMythicLevelUps](#EarlierMythicLevelUps) | 更早的神话等级 |  | :heavy_check_mark:  | :+1::+1::+1:| :file_folder: |🛠️||
 | [Ebon's Content Mod](#Ebon'sContentMod) | Ebon的内容mod |  | :heavy_check_mark:  | :+1::+1::+1:| :file_folder: |🛠️||
+| [DragonChanges](#DragonChanges) | DragonChanges |  | :heavy_check_mark:  | :+1::+1:| :file_folder: |🛠️||
+
 
 备注
 + UMM一栏为是否使用UMM安装
@@ -5013,6 +5015,28 @@ C:\Users\你的用户名\AppData\LocalLow\Owlcat Games\Pathfinder Wrath Of The R
        <td colspan="2">奋不顾身现在能正确通过狂暴之歌分享给盟友，但要注意，只要盟友离开歌曲范围并重新进去就会失去这个效果</td></tr>
   <tr><td rowspan="1">机制修改</i></td>
        <td colspan="2">多重弹道法术 (地狱烈焰射线、灼热射线等) 按照桌面规则应该能够将弹道分配给不同目标，现在如果当前目标死亡，将会切换到新目标，而不是简单地将所有额外的弹道倾泻到第一个目标的尸体上。 所有桌面规则的目标选取规则都将得到遵守 - 例如，对于地狱火光束来说，任意两个目标之间的距离都不能超过30英尺。</td></tr>
+</table>   
+------------------------------------------- 
+### [DragonChanges](https://github.com/CasDragon/DragonChanges)
+> *前置：* 无，和部分MOD联动<br>
+> *中文：**[QL汉化](QuickLocalization用汉化文本/Localization/DragonChanges)**<br>
+> *安装方式：* **UMM**<br>
+> *新增内容：
+一个包含了作者不想做进修复MOD [DragonFixes](https://github.com/CasDragon/DragonFixes)的自定义额外内容的小型集合MOD
+<table>
+<tr><th colspan="3">新增内容列表<br></th></tr> 
+  <tr><td rowspan="4">动物伙伴 Races</i></td>
+       <td>鹫马 Hippogriff </td><td>变为通用动物伙伴</td></tr>
+       <td>亡灵战马 Undead Horse</td><td></td></tr>
+       <td>独角兽 Unicorn</td><td></td></tr>
+       <td>狮鹫 Griffon</td><td>开发中，外观存在错误</td></tr>
+  <tr><td rowspan="2">专长</i></td>
+       <td>强力投掷 Powerful Throw</td><td>你使用{g}力量{/g}调整值取代{g}敏捷{/g}调整值，来计算使用投掷武器时的远程攻击检定。同时你也可以对远程投掷武器应用猛力攻击专长，来替代致命瞄准。</td></tr>
+       <td>强力之翼 Powerful Wings</td><td>你获得两次翼击攻击（2d8伤害），视为次要天生攻击。</td></tr>
+  <tr><td rowspan="1">职业</i></td>
+       <td>贴吧老哥</td><td>纯娱乐滥强职业，魅力上一切，默认选项不开启</td></tr>    
+  <tr><td rowspan="1">其他</i></td>
+       <td colspan="2">提供了大幅度加强EC中龙兽的秘密选项，默认选项不开启</td></tr>
 </table>   
 -------------------------------------------
 
