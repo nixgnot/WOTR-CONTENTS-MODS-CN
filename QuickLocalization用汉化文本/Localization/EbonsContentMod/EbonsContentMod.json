@@ -677,7 +677,7 @@
 
   {
     "Key": "OrcSorcererBloodlineTouchOfRage.Description",
-    "zhCN": "1级起，你可以以一个标准动作触摸一个生物，使其在攻击、伤害和豁免检定上获得士气加值，加值等于你的术士等级一半，每天你可以使用此能力的次数等于3+魅力调整值。",
+    "zhCN": "1级起，你可以以一个标准动作触摸一个生物，使其一轮内在攻击、伤害和豁免检定上获得士气加值，加值等于你的术士等级一半，每天你可以使用此能力的次数等于3+魅力调整值。",
     "enGB": "At 1st level, you can touch a creature as a standard action, giving it a morale bonus on attack rolls, damage rolls, and Will saving throws equal to 1/2 your sorcerer level (minimum 1) for 1 round. You can use this ability a number of times per day equal to 3 + your Charisma modifier."
   },
 
