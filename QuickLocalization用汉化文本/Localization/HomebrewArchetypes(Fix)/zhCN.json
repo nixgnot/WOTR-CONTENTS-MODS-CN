@@ -5646,6 +5646,14 @@ Duty - Be responsible for your actions and their consequences, protect those ent
             "zhCN": "舞者将在3轮内暂时获得巨大的力量提升，在1级时，获得+1的攻击与伤害加值，之后每4级再提升1点。舞者还将在1级、8级和15级时，每轮获得一次额外攻击。然而，舞者的AC将降低4点，并且在效果持续结束后，还会在接下来的相同轮数内感到疲劳。此能力从4级开始每天可使用一次，之后每提升4级舞者等级，每天可额外使用1次。"
         },
 		{
+            "Key": "HomebrewArchtypes_BardArchetypeDancerLightfootName", 
+            "zhCN": "舞者修习"
+        },
+		{
+            "Key": "HomebrewArchtypes_BardArchetypeDancerLightfootDesc", 
+            "zhCN": "舞者的练习提高了他们周游世界的能力，使他们的速度提升了10，但由此他们忽视了魔法学习，导致每天每级魔法可施法数量减少了1。"
+        },
+		{
             "Key": "HomebrewArchtypes_BardArchetypeBladeName", 
             "zhCN": "Blade"
         },
