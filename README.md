@@ -5016,6 +5016,7 @@ C:\Users\你的用户名\AppData\LocalLow\Owlcat Games\Pathfinder Wrath Of The R
   <tr><td rowspan="1">机制修改</i></td>
        <td colspan="2">多重弹道法术 (地狱烈焰射线、灼热射线等) 按照桌面规则应该能够将弹道分配给不同目标，现在如果当前目标死亡，将会切换到新目标，而不是简单地将所有额外的弹道倾泻到第一个目标的尸体上。 所有桌面规则的目标选取规则都将得到遵守 - 例如，对于地狱火光束来说，任意两个目标之间的距离都不能超过30英尺。</td></tr>
 </table>   
+
 ------------------------------------------- 
 ### [DragonChanges](https://github.com/CasDragon/DragonChanges)
 > *前置：* 无，和部分MOD联动<br>
