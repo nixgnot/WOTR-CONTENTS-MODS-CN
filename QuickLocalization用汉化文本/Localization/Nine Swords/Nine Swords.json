@@ -1025,7 +1025,7 @@
   },
   {
     "Key": "WallOfBlades.Desc",
-    "zhCN": "流派：钢魂\n武技类别:应对技\n需求武术家等级：军道之剑 3\n当此应对技激活时，你可以尝试格挡来袭的攻击。当你在一轮内受到第一次攻击时，消耗两个武技点格挡攻击。",
+    "zhCN": "流派：钢魂\n武技类别:应对技\n需求武术家等级：军道之剑 3\n当此应对技激活时，你可以尝试格挡来袭的攻击。当你在一轮内受到第一次攻击时，消耗两个武技点格挡攻击。每次成功的格挡都会为一轮内的后续格挡增加-1减值。",
     "enGB": "Discipline: Iron Heart\nManeuver Type: Counter\nRequired Initiater Level: Warblade 3\nWhile this counter is active you attempt to parry incoming attacks. Uses two maneuver points when you are being attacked for the first time in a round."
   },
   {
@@ -1104,7 +1104,7 @@
   },
   {
     "Key": "ManticoreParry.Desc",
-    "zhCN": "流派：铁心\n武技类别:应对技\n需求武术家等级：军道之剑 11\n需求武技：两种铁心流武技\n当此应对技激活时，你可以尝试格挡来袭的攻击，如果格挡成功则将此攻击改为击中相邻的敌人。当你在一轮内受到第一次攻击时，消耗两个武技点格挡攻击。",
+    "zhCN": "流派：铁心\n武技类别:应对技\n需求武术家等级：军道之剑 11\n需求武技：两种铁心流武技\n当此应对技激活时，你可以尝试格挡来袭的攻击，如果格挡成功则将此攻击改为击中相邻的敌人。当你在一轮内受到第一次攻击时，消耗两个武技点格挡攻击。每次成功的格挡都会为一轮内的后续格挡增加-1减值。",
     "enGB": "Discipline: Iron Heart\nManeuver Type: Counter\nRequired Initiater Level: Warblade 11\nRequired Maneuvers: 2 Iron Heart\nWhile this counter is active you attempt to parry incoming attacks with melee weapon attacks, if your parry succeeds the attacks hits an adjacent enemy instead. Uses two maneuver points when you are being attacked for the first time in a round."
   },
   {
