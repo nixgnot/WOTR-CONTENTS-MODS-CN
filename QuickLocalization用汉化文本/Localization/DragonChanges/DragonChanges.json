@@ -644,13 +644,26 @@
   {
     "Key": "Wanderer.name",
     "ProcessTemplates": false,
-    "enGB": "Wanderer - Cursed (lycanthropy)",
-    "zhCN": "Wanderer - Cursed (lycanthropy)"
+    "enGB": "Cursed (lycanthropy)",
+    "zhCN": "诅咒（兽化）"
   },
 
   {
     "Key": "Wanderer.description",
     "enGB": "Adds Perception and Mobility to list of class skills. She also is able to use her curse to qualify for feats that require lycanthropy.",
-    "zhCN": "Adds Perception and Mobility to list of class skills. She also is able to use her curse to qualify for feats that require lycanthropy."
+    "zhCN": "将精准和灵巧技能加入本职技能。同时也能使用这诅咒来满足需要兽化的专长条件。"
+  },
+  
+  {
+    "Key": "TranceMaster.name",
+    "ProcessTemplates": false,
+    "enGB": "Trance Master",
+    "zhCN": "默想大师"
+  },
+  
+  {
+    "Key": "TranceMaster.description",
+    "enGB": "Allows the Swordmaster to enter 2 trances at a time",
+    "zhCN": "允许同时使用2个默想"
   }
 ]
