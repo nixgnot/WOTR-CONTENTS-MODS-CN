@@ -7967,7 +7967,7 @@
       "SimpleName": "OracleDragonFinalRevelation.Description",
       "ProcessTemplates": true,
       "enGB": "Upon reaching 20th level, your draconic destiny unfolds. You gain immunity to paralysis, sleep, and damage of your energy type. If you have the breath weapon revelation, you can use your breath weapon an unlimited number of times per day, though no more often than once every 1d4+1 rounds.",
-      "zhCN": "达到 20 级后，你的龙之命运开始展现。你将获得对麻痹、睡眠和你选择的能量类型伤害的免疫力。如果你拥有喷吐武器启示，你每天可以无限次地使用喷吐武器，但每次冷却 1d4+1 轮。"
+      "zhCN": "达到20级后，你的龙之命运开始展现。你将获得对麻痹、睡眠和你选择的能量类型伤害的免疫力。如果你拥有喷吐武器启示，你每天可以无限次地使用喷吐武器，但每次冷却 1d4+1 轮。"
     },
     {
       "Key": "3d88df8320ff45bc89f44b4758b2ec75",
@@ -11035,7 +11035,7 @@
       "SimpleName": "ShamanHeavensSpiritManifestationFeature.Description",
       "ProcessTemplates": true,
       "enGB": "Upon reaching 20th level, the shaman becomes the spirit of heaven. You receive a bonus on all saving throws equal to your Wisdom modifier. You become immune to fear effects, and automatically confirm all critical hits. Once per day, should you die, 1 round after dying you are reborn. Your body re-forms with all your equipment, and you return to life with maximum hit points.",
-      "zhCN":"20级时，萨满成为苍天的精魂。你可以将感知调整值添加到所有豁免上。你免疫恐惧效果，所造成的重击威胁自动确认。每天一次，若你死亡，将在1轮内重生，你的身体会带着所有装备重组，回到最大生命值。"
+      "zhCN": "达到20级后，萨满成为苍天的精魂。你可以将感知调整值添加到所有豁免上。你免疫恐惧效果，所造成的重击威胁自动确认。每天一次，若你死亡，将在1轮内重生，你的身体会带着所有装备重组，回到最大生命值。"
     },
     {
       "Key": "9d4fd2a232f14609a962c599a69a23b2",
@@ -20226,7 +20226,7 @@
       "SimpleName": "OracleWoodFinalRevelation.Description",
       "ProcessTemplates": true,
       "enGB": "Upon reaching 20th level, you become a living creature of wood. You gain a +4 natural armor bonus to your Armor Class and you gain immunity to paralysis, poison, stunning, sleep, and enemy polymorph effects.",
-      "zhCN": "在20级，你变成活生生的木制生物。你得到+4天生防御加值，免疫麻痹，毒素，睡眠，震慑，以及敌方的变形效果。"
+      "zhCN": "达到20级后，你变成活生生的木制生物。你得到+4天生防御加值，免疫麻痹，毒素，睡眠，震慑，以及敌方的变形效果。"
     },
     {
       "Key": "07442b70f65e4fefbb1d4d59754f70a1",
@@ -24918,7 +24918,7 @@
       "Key": "87099c3e1c784aa89a4bae14d29ed9de",
       "SimpleName": "OracleWinterFinalRevelation.Description",
       "ProcessTemplates": true,
-      "zhCN": "20级时，你成为了北地冰霜的化身，你转化成活生生的冰块，如同寒冰之躯法术。此外，你展握了寒冰的奥秘，现在你造成冰冷伤害的攻击和法术将自动突破目标的冰霜抗性和寒冷免疫。",
+      "zhCN": "达到20级后，你成为了北地冰霜的化身，你转化成活生生的冰块，如同寒冰之躯法术。此外，你展握了寒冰的奥秘，现在你造成冰冷伤害的攻击和法术将自动突破目标的冰霜抗性和寒冷免疫。",
       "enGB": "Upon reaching 20th level, you become an avatar of winter and the North. Your body may transform into living ice, as the ice body spell at will. In addition, your mastery of winter magic is such that any of your attacks that deal cold damage bypass cold immunity or cold resistance."
     },
     {
@@ -24967,7 +24967,7 @@
       "Key": "880748e99901437e9b5668339f27edc9",
       "SimpleName": "OracleLunarFinalRevelation.Description",
       "ProcessTemplates": true,
-      "zhCN": "最终启示：当你达到20级时，你成为原始世界的化身。每天1次，你可以变成你所选择的一种兽化人，持续等于你的魅力调整值的数小时，获得该类天生兽化人的所有能力。额外地，你免疫影响心灵的效果。",
+      "zhCN": "达到20级后，你成为原始世界的化身。每天1次，你可以变成你所选择的一种兽化人，持续等于你的魅力调整值的数小时，获得该类天生兽化人的所有能力。额外地，你免疫影响心灵的效果。",
       "enGB": "Upon reaching 20th level, you become an avatar of the primal world. Once per day, you can transform into a lycanthrope of your choice for a number of hours equal to your Charisma modifier, gaining all the powers of a natural lycanthrope of that type. In addition, you become immune to mind-affecting effects."
     },
     {
@@ -26552,7 +26552,7 @@
       "Key": "09d549d1562f4b7e9addebb4a9c8110c",
       "SimpleName": "OracleShadowFinalRevelation.Description",
       "ProcessTemplates": true,
-      "zhCN": "当你达到20级时，你的身体将永久地被影界本质所充满。你获得对寒冷、重击和偷袭的免疫力。只要你不受任何导致发光的能力影响，你还将获得再生5。此外，你施放的阴影子学派或带有黑暗描述符的法术都会自动延长持续时间，而不会影响其法术等级。",
+      "zhCN": "达到20级后，你的身体将永久地被影界本质所充满。你获得对寒冷、重击和偷袭的免疫力。只要你不受任何导致发光的能力影响，你还将获得再生5。此外，你施放的阴影子学派或带有黑暗描述符的法术都会自动延长持续时间，而不会影响其法术等级。",
       "enGB": "Upon reaching 20th level, your body becomes permanently suffused with the essence of the Shadow Plane. You gain  immunity to cold, critical hits, and sneak attacks. You also gain regeneration 5 as long as you are not affected by any abilities that cause you to emit light. In addition, any spells you cast of the shadow subschool or with the darkness descriptor are automatically extended without affecting their spell level"
     },
     {
@@ -26919,7 +26919,7 @@
       "Key": "aac8045186b6473fba177a84533de299",
       "SimpleName": "OracleDarkTapestryFinalRevelation.Description",
       "ProcessTemplates": true,
-      "zhCN": "当你达到20级时,你将变成一个真正异类且非自然的生物。你获得5/-的伤害减免,并且免疫酸蚀伤害、重击和偷袭。每天一次,你可以使用类法术能力施展“变化形体”,无需材料成分。",
+      "zhCN": "达到20级后,你将变成一个真正异类且非自然的生物。你获得5/-的伤害减免,并且免疫酸蚀伤害、重击和偷袭。每天一次,你可以使用类法术能力施展“变化形体”,无需材料成分。",
       "enGB": "Upon reaching 20th level, you become a truly alien and unnatural creature. You gain damage reduction 5/— and immunity to acid, critical hits, and sneak attacks. Once per day, you can cast shapechange as a spell-like ability without requiring a material component."
     },
     {
@@ -28184,15 +28184,545 @@
       "Key": "7bf187c2cdab48319c890482d95c45dd",
       "SimpleName": "LichCurseNoProgression.Description",
       "ProcessTemplates": true,
-      "zhCN": "每个活着的施法者的血肉深处都隐藏着一个秘密——一组独特的、个性化的条件，当这些条件按照正确顺序一一满足时，就能将生灵转化为巫妖。有意识地引导这种潜力需要魔术师花费数年和钜万金钱才能找到获得永生且仅适合他一人的仪式，但有时，机运也会和不幸联合起来捉弄一个毫无戒心的施法者。 \n你尚未转化为不死生物，但已经很接近了。你会像不死生物一样被正能量伤害，被负能量治疗。 \n在5级时，将号令死灵加入2环先知已知法术列表中。 \n在10级时，将唤起死灵加入5环先知已知法术列表中。 \n在15级时，你免疫即死效应。",
+      "zhCN": "每个活着的施法者的血肉深处都隐藏着一个秘密——一组独特且个性化的条件，当这些条件按照正确顺序一一满足时，就能从生者转化为巫妖。有意识地引导这种潜力需要施法者花费数年时间和钜万金钱才能找到能获得永生且仅适合他一人的仪式，但有时，机运也会和不幸联合起来捉弄一个毫无戒心的施法者。 \n你尚未转化为不死生物，但已经很接近了。你会像不死生物一样被正能量伤害，被负能量治疗。 \n在5级时，将号令死灵加入2环先知已知法术列表中。 \n在10级时，将唤起死灵加入5环先知已知法术列表中。 \n在15级时，你免疫即死效应。",
       "enGB": "Every living spellcaster hides a secret in their flesh—a unique, personalized set of conditions that, when all are fulfilled in the correct order, can trigger the transformation into a lich. Normally, one must expend years and tens of thousands of gold pieces to research this deeply personalized method of attaining immortality. Yet, in a rare few cases, chance and ill fortune can conspire against an unsuspecting spellcaster. \nYou have yet to turn into an undead creature, but you are close. You take damage from positive energy and heal from negative energy as if you were undead.\nAt 5th level, add command undead to your list of 2nd-level oracle spells known. \nAt 10th level, add create undead to your list of 5th-level oracle spells known. \nAt 15th level, you are immune to death effects."
     },
     {
       "Key": "37d2276fd1d44672bbd65739f9e5372f",
       "SimpleName": "LichCurseProgression.Description",
       "ProcessTemplates": true,
-      "zhCN": "每个活着的施法者的血肉深处都隐藏着一个秘密——一组独特的、个性化的条件，当这些条件按照正确顺序一一满足时，就能将生灵转化为巫妖。有意识地引导这种潜力需要魔术师花费数年和钜万金钱才能找到获得永生且仅适合他一人的仪式，但有时，机运也会和不幸联合起来捉弄一个毫无戒心的施法者。 \n你尚未转化为不死生物，但已经很接近了。你会像不死生物一样被正能量伤害，被负能量治疗。 \n在5级时，将号令死灵加入2环先知已知法术列表中。 \n在10级时，将唤起死灵加入5环先知已知法术列表中。 \n在15级时，你免疫即死效应。",
+      "zhCN": "每个活着的施法者的血肉深处都隐藏着一个秘密——一组独特且个性化的条件，当这些条件按照正确顺序一一满足时，就能从生者转化为巫妖。有意识地引导这种潜力需要施法者花费数年时间和钜万金钱才能找到能获得永生且仅适合他一人的仪式，但有时，机运也会和不幸联合起来捉弄一个毫无戒心的施法者。 \n你尚未转化为不死生物，但已经很接近了。你会像不死生物一样被正能量伤害，被负能量治疗。 \n在5级时，将号令死灵加入2环先知已知法术列表中。 \n在10级时，将唤起死灵加入5环先知已知法术列表中。 \n在15级时，你免疫即死效应。",
       "enGB": "Every living spellcaster hides a secret in their flesh—a unique, personalized set of conditions that, when all are fulfilled in the correct order, can trigger the transformation into a lich. Normally, one must expend years and tens of thousands of gold pieces to research this deeply personalized method of attaining immortality. Yet, in a rare few cases, chance and ill fortune can conspire against an unsuspecting spellcaster. \nYou have yet to turn into an undead creature, but you are close. You take damage from positive energy and heal from negative energy as if you were undead.\nAt 5th level, add command undead to your list of 2nd-level oracle spells known. \nAt 10th level, add create undead to your list of 5th-level oracle spells known. \nAt 15th level, you are immune to death effects."
+    },
+    {
+      "Key": "f6fb6951c7ff4a24b3578ccd8a3c4e30",
+      "SimpleName": "DivineHerbalistMetalMysteryFeature.Description",
+      "ProcessTemplates": true,
+      "zhCN": "获取钢铁秘示域的法术和启示。\n由于神圣草药师变体，获得的职业技能被草药学大师特性和调制药水专长所取代。"
+      "enGB": "Gain access to the spells and revelations of the Metal mystery. \nDue to the divine herbalist archetype the class skills gained from this archetypeare replaced by the master herbalist feature and the brew potions feat."
+    },
+    {
+      "Key": "8778cffe7221444f836a79f050378bf7",
+      "SimpleName": "EnlightnedPhilosopherMetalMysteryFeature.Description",
+      "ProcessTemplates": true,
+      "IsUsed": false,
+      "zhCN": "具有钢铁秘示域的先知将感知和知识（世界）添加到她的本职技能列表中。"
+      "enGB": "An oracle with the Metal mystery adds Athletics, Persuasion and Use Magic Device to her list of class skills."
+    },
+    {
+      "Key": "f6fb6951c7ff4a24b3578ccd8a3c4e30",
+      "SimpleName": "DivineHerbalistMetalMysteryFeature.Description",
+      "ProcessTemplates": true,
+      "zhCN": "获取钢铁秘示域的法术和启示。\n由于神圣草药师变体，获得的职业技能被草药学大师特性和调制药水专长所取代。",
+      "enGB": "Gain access to the spells and revelations of the Metal mystery. \nDue to the divine herbalist archetype the class skills gained from this archetypeare replaced by the master herbalist feature and the brew potions feat."
+    },
+    {
+      "Key": "8778cffe7221444f836a79f050378bf7",
+      "SimpleName": "EnlightnedPhilosopherMetalMysteryFeature.Description",
+      "ProcessTemplates": true,
+      "IsUsed": false,
+      "zhCN": "具有钢铁秘示域的先知将运动、沟通和使用魔法装置添加到她的本职技能列表中。",
+      "enGB": "An oracle with the Metal mystery adds Athletics, Persuasion and Use Magic Device to her list of class skills."
+    },
+    {
+      "Key": "4706cd0960c644b3a35f49889e5ee6f4",
+      "SimpleName": "OceansEchoMetalMysteryFeature.Description",
+      "ProcessTemplates": true,
+      "zhCN": "获得钢铁秘示域的法术和启示。\n由于海洋回声变体，从该变体获得的本职技能更改为沟通、知识（世界）和学识（自然）。",
+      "enGB": "Gain access to the spells and revelations of the Metal mystery. \nDue to the ocean's echo archetype the class skills gained from this archtypeare changed to Persuasion, Knowledge (world) and Lore (nature)"
+    },
+    {
+      "Key": "c527360fbfeb472e84cda4015d359c75",
+      "SimpleName": "OracleMetalFinalRevelation.Description",
+      "ProcessTemplates": true,
+      "IsUsed": false,
+      "zhCN": "达到20级后，你将成为钢铁大师。 当你使用任何擅长的武器时，都将获得武器专攻，高等武器专攻和精通重击的专长效果。\n你的盔甲就像你的第二层皮肤——当你穿着擅长的金属盔甲时，盔甲的最大敏捷加值增加+5，并且你不会受到任何防具检定减值的影响。",
+      "enGB": "Upon reaching 20th level, you become a master of iron and steel. You gain the benefits of Weapon Focus, Greater Weapon Focus, and Improved Critical with any weapon that you are proficient with. \nYour armor is like a second skin to you—while wearing metal armor you are proficient with, the armor’s maximum Dexterity bonus increases by +5 and you take no armor check penalty."
+    },
+    {
+      "Key": "39ab248f3c634ac6bd82f700cc011cde",
+      "SimpleName": "OracleMetalFinalRevelationFocusSelection.Description",
+      "ProcessTemplates": true,
+      "IsUsed": false,
+      "zhCN": "达到20级后，你将成为钢铁大师。 当你使用任何擅长的武器时，都将获得武器专攻，高等武器专攻和精通重击的专长效果。\n你的盔甲就像你的第二层皮肤——当你穿着擅长的金属盔甲时，盔甲的最大敏捷加值增加+5，并且你不会受到任何防具检定减值的影响。",
+      "enGB": "Upon reaching 20th level, you become a master of iron and steel. You gain the benefits of Weapon Focus, Greater Weapon Focus, and Improved Critical with any weapon that you are proficient with. \nYour armor is like a second skin to you—while wearing metal armor you are proficient with, the armor’s maximum Dexterity bonus increases by +5 and you take no armor check penalty."
+    },
+    {
+      "Key": "17e8c7c3a5594f328002e8b350890d98",
+      "SimpleName": "OracleMetalFinalRevelationFocusSelection.Name",
+      "ProcessTemplates": false,
+      "zhCN": "最终启示 - 武器专攻",
+      "enGB": "Final Revelation - Weapon Focus"
+    },
+    {
+      "Key": "8df0705ea6e14b8c8f643919472896d2",
+      "SimpleName": "OracleMetalFinalRevelationGreaterFocusSelection.Description",
+      "ProcessTemplates": true,
+      "IsUsed": false,
+      "zhCN": "达到20级后，你将成为钢铁大师。 当你使用任何擅长的武器时，都将获得武器专攻，高等武器专攻和精通重击的专长效果。\n你的盔甲就像你的第二层皮肤——当你穿着擅长的金属盔甲时，盔甲的最大敏捷加值增加+5，并且你不会受到任何防具检定减值的影响。",
+      "enGB": "Upon reaching 20th level, you become a master of iron and steel. You gain the benefits of Weapon Focus, Greater Weapon Focus, and Improved Critical with any weapon that you are proficient with. \nYour armor is like a second skin to you—while wearing metal armor you are proficient with, the armor’s maximum Dexterity bonus increases by +5 and you take no armor check penalty."
+    },
+    {
+      "Key": "2a77a26847f742d3ab797f7b334acab5",
+      "SimpleName": "OracleMetalFinalRevelationGreaterFocusSelection.Name",
+      "ProcessTemplates": false,
+      "zhCN": "最终启示 - 高等武器专攻",
+      "enGB": "Final Revelation - Greater Weapon Focus"
+    },
+    {
+      "Key": "5019ef5472d94cacb4c1c2cc6ca48769",
+      "SimpleName": "OracleMetalFinalRevelationImprovedCritSelection.Description",
+      "ProcessTemplates": true,
+      "zhCN": "达到20级后，你将成为钢铁大师。 当你使用任何擅长的武器时，都将获得武器专攻，高等武器专攻和精通重击的专长效果。\n你的盔甲就像你的第二层皮肤——当你穿着擅长的金属盔甲时，盔甲的最大敏捷加值增加+5，并且你不会受到任何防具检定减值的影响。",
+      "enGB": "Upon reaching 20th level, you become a master of iron and steel. You gain the benefits of Weapon Focus, Greater Weapon Focus, and Improved Critical with any weapon that you are proficient with. \nYour armor is like a second skin to you—while wearing metal armor you are proficient with, the armor’s maximum Dexterity bonus increases by +5 and you take no armor check penalty."
+    },
+    {
+      "Key": "cb359b41b17940c6a88babcbea846ab0",
+      "SimpleName": "OracleMetalFinalRevelationImprovedCritSelection.Name",
+      "ProcessTemplates": false,
+      "zhCN": "最终启示 - 精通重击",
+      "enGB": "Final Revelation - Improved Critical"
+    },
+    {
+      "Key": "2c26ca14eda54a41a79fc2289bc695c0",
+      "SimpleName": "OracleMetalMysteryFeature.Description",
+      "ProcessTemplates": true,
+      "zhCN": "具有钢铁秘示域的先知将运动、沟通和使用魔法装置添加到她的本职技能列表中。",
+      "enGB": "An oracle with the Metal mystery adds Athletics, Persuasion and Use Magic Device to her list of class skills."
+    },
+    {
+      "Key": "b16f2f57993e411f867173dd5a3d9d02",
+      "SimpleName": "OracleMetalMysteryFeature.Name",
+      "ProcessTemplates": false,
+      "zhCN": "钢铁",
+      "enGB": "Metal"
+    },
+    {
+      "Key": "c2b536b196a24f1ea1cb93290e8000de",
+      "SimpleName": "OracleRevelationArmorMasteryEffectFeature.Name",
+      "ProcessTemplates": false,
+      "zhCN": "先知启示盔甲熟练效果专长",
+      "enGB": "OracleRevelationArmorMasteryEffectFeature"
+    },
+    {
+      "Key": "f06ce8a112f748aba288321c0d10d9bb",
+      "SimpleName": "OracleRevelationArmorMasteryFeature.Description",
+      "ProcessTemplates": true,
+      "zhCN": "当你穿戴盔甲时，你会变得更加灵活。 你可以在穿戴由金属制成的中甲时以正常速度移动。 这不会赋予你盔甲擅长。\n在5级时，每当你穿戴金属盔甲时，你承受的防具检定减值将减少1点（最少降至0），且最大敏捷加值增加1点。\n在10级以及15级时，这些加值会再次增加1点。",
+      "enGB": "You become more maneuverable while wearing armor. You can move at your normal speed in medium armor that is made of metal. This does not grant proficiency in armor. \nAt 5th level, whenever you are wearing metal armor, you reduce the armor check penalty by 1 (to a minimum of 0) and increase the maximum Dexterity bonus allowed by your armor by 1. \nAt 10th level, and again at 15th level, these bonuses increase by 1."
+    },
+    {
+      "Key": "15339469bc0345bba7d2822f9c6e9026",
+      "SimpleName": "OracleRevelationArmorMasteryFeature.Name",
+      "ProcessTemplates": false,
+      "zhCN": "钢铁",
+      "enGB": "Armor Mastery"
+    },
+    {
+      "Key": "7eacb1bc9ee44c3cbba6306249f94409",
+      "SimpleName": "OracleRevelationDanceOfTheBladesAbility.Description",
+      "ProcessTemplates": true,
+      "IsUsed": false,
+      "zhCN": "以一个移动动作，你可以舞动你的武器，在你周围创造一片刀锋壁障，直到你的下个回合开始；当壁障激活时，针对你的非实体近战和远程攻击有20%的失手几率。 你必须挥舞金属武器才能使用此能力。",
+      "enGB": "As a move action, you can maneuver your weapon to create a shield of whirling steel around yourself until the start of your next turn; non-incorporeal melee and ranged attacks against you have a 20% miss chance while the shield is active. You must be wielding a metal weapon to use this ability."
+    },
+    {
+      "Key": "16a83ab3b4984259a6d7158d73e2a016",
+      "SimpleName": "OracleRevelationDanceOfTheBladesAbility.Name",
+      "ProcessTemplates": false,
+      "zhCN": "刀刃之舞",
+      "enGB": "Dance of the Blades"
+    },
+    {
+      "Key": "7d545aa8adbf40e0b1873418e746b2e4",
+      "SimpleName": "OracleRevelationDanceOfTheBladesAbilityBuff.Description",
+      "ProcessTemplates": true,
+      "enGB": "As a move action, you can maneuver your weapon to create a shield of whirling steel around yourself until the start of your next turn; non-incorporeal melee and ranged attacks against you have a 20% miss chance while the shield is active. You must be wielding a metal weapon to use this ability.",
+      "zhCN": "以一个移动动作，你可以舞动你的武器，在你周围创造一片刀锋壁障，直到你的下个回合开始；当壁障激活时，针对你的非实体近战和远程攻击有20%的失手几率。 你必须挥舞金属武器才能使用此能力。",
+    },
+    {
+      "Key": "2b37c92ca0f1439da6cf9cbd7376987e",
+      "SimpleName": "OracleRevelationDanceOfTheBladesAbilityBuff.Name",
+      "ProcessTemplates": false,
+      "zhCN": "刀刃之舞 - 壁障Buff",
+      "enGB": "Dance of the Blades - Shield Buff"
+    },
+    {
+      "Key": "e52d0f079b2942428030b3e2c3c0192f",
+      "SimpleName": "OracleRevelationDanceOfTheBladesAbilityFeature.Name",
+      "ProcessTemplates": false,
+      "zhCN": "刀刃之舞 - 能力持有者",
+      "enGB": "Dance of the Blades - Ability Holder"
+    },
+    {
+      "Key": "0fbe2487ab554c099cc1b481cde01f6f",
+      "SimpleName": "OracleRevelationDanceOfTheBladesFeature.Description",
+      "ProcessTemplates": true,
+      "zhCN": "你的基础速度增加10英尺。\n在7级时，在任何你移动至少10英尺的回合中，你使用金属武器的攻击检定获得+1加值。 此加值在11级时增加到+2，之后每四个等级再增加+1。\n在11级时，以一个移动动作，你可以舞动你的武器，在你周围创造一片刀锋壁障，直到你的下个回合开始；当壁障激活时，针对你的非实体近战和远程攻击有20%的失手几率。 你必须挥舞金属武器才能使用此能力。",
+      "enGB": "Your base speed increases by 10 feet. \nAt 7th level, you gain a +1 bonus on attack rolls with a metal weapon in any round in which you move at least 10 feet. This bonus increases by +1 at 11th level, and every four levels thereafter. \nAt 11th level, as a move action, you can maneuver your weapon to create a shield of whirling steel around yourself until the start of your next turn; non-incorporeal melee and ranged attacks against you have a 20% miss chance while the shield is active. You must be wielding a metal weapon to use this ability."
+    },
+    {
+      "Key": "5eb36940dbfd4c93bcfe3952d6b2011f",
+      "SimpleName": "OracleRevelationDanceOfTheBladesFeatureBuff.Name",
+      "ProcessTemplates": false,
+      "zhCN": "刀刃之舞 - 攻击Buff",
+      "enGB": "Dance of the Blades - Attack Buff"
+    },
+    {
+      "Key": "d79f26270457464783cf32a057390144",
+      "SimpleName": "OracleRevelationDanceOfTheBladesFeatureBuff.Description",
+      "ProcessTemplates": true,
+      "zhCN": "在任何你移动至少10英尺的回合中，你使用金属武器的攻击检定获得+1加值。 此加值在11级时增加到+2，之后每四个等级再增加+1。",
+      "enGB": "You gain a +1 bonus on attack rolls with a metal weapon in any round in which you move at least 10 feet. This bonus increases by +1 at 11th level, and every four levels thereafter."
+    },
+    {
+      "Key": "1e97961b60c7463897a8dc2f4299662d",
+      "SimpleName": "OracleRevelationIronConstitutionFeature.Description",
+      "ProcessTemplates": true,
+      "zhCN": "你的强韧豁免获得+1加值。 在7级和14级时，此加值将再增加+1。",
+      "enGB": "You gain a +1 bonus on Fortitude saves. At 7th level, and again at 14th level, this bonus increases by +1."
+    },
+    {
+      "Key": "1abaa478535c4f31a9d8b2e7e55d18fc",
+      "SimpleName": "OracleRevelationIronConstitutionFeature.Name",
+      "ProcessTemplates": false,
+      "zhCN": "精铁强韧",
+      "enGB": "Iron Constitution"
+    },
+    {
+      "Key": "5b7431503955413898b8087944827232",
+      "SimpleName": "OracleRevelationIronSkinAbility.Description",
+      "ProcessTemplates": true,
+      "IsUsed": false,
+      "zhCN": "每日限一次，你的皮肤的外观和硬度都变得犹如钢铁，获得10/精金的{g|Encyclopedia:Damage_Reduction}伤害减免{/g}。此效果类似{g|SpellsStoneskin}石肤{/g}，以你的先知等级作为{g|Encyclopedia:Caster_Level}施法者等级{/g}。达到15级后，你每天可使用两次此能力。\n石肤\n受保护的生物获得对钝击、削砍、戳刺和切割的抵抗力。受术者获得10/精金的{g|Encyclopedia:Damage_Reduction}伤害减免{/g}。每次受到武器{g|Encyclopedia:Damage}伤害{/g}时，可忽略前10点伤害，但精金武器能够穿透此减免效果。当此法术累计阻止了每{g|Encyclopedia:Caster_Level}施法者等级{/g}10点伤害时（最高150点），效果就会消散。",
+      "enGB": "Once per day, your skin hardens and takes on the appearance of iron, granting you DR 10/adamantine. This ability functions as stoneskin, using your oracle level as the caster level, except it only affects you. At 15th level, you can use this ability twice per day. \nStoneskin \nThe warded creature gains resistance to blows, cuts, stabs, and slashes. The subject gains DR 10/adamantine, for 10 minutes per caster level. It ignores the first 10 points of damage each time it takes damage from a weapon, though an adamantine weapon overcomes the reduction. Once the spell has prevented a total of 10 points of damage per caster level (maximum 150 points), it is discharged."
+    },
+    {
+      "Key": "7bc7dfb71a2544cc968e7561eff81752",
+      "SimpleName": "OracleRevelationIronSkinBuff.Description",
+      "ProcessTemplates": true,
+      "zhCN": "受保护的生物获得对钝击、削砍、戳刺和切割的抵抗力。受术者获得10/精金的{g|Encyclopedia:Damage_Reduction}伤害减免{/g}。每次受到武器{g|Encyclopedia:Damage}伤害{/g}时，可忽略前10点伤害，但精金武器能够穿透此减免效果。当此法术累计阻止了每{g|Encyclopedia:Caster_Level}施法者等级{/g}10点伤害时（最高150点），效果就会消散。",
+      "enGB": "The warded creature gains resistance to blows, cuts, stabs, and slashes. The subject gains DR 10/adamantine. It ignores the first 10 points of damage each time it takes damage from a weapon, though an adamantine weapon overcomes the reduction. Once the spell has prevented a total of 10 points of damage per caster level (maximum 150 points), it is discharged."
+    },
+    {
+      "Key": "4b38278158d14f48bad421e302d128b3",
+      "SimpleName": "OracleRevelationIronSkinBuff.Name",
+      "ProcessTemplates": false,
+      "zhCN": "钢铁皮肤",
+      "enGB": "Iron Skin"
+    },
+    {
+      "Key": "d58dde4228fb4852b73781111019c0d5",
+      "SimpleName": "OracleRevelationIronSkinFeature.Description",
+      "ProcessTemplates": true,
+      "zhCN": "每日限一次，你的皮肤的外观和硬度都变得犹如钢铁，获得10/精金的{g|Encyclopedia:Damage_Reduction}伤害减免{/g}。此效果类似{g|SpellsStoneskin}石肤{/g}，以你的先知等级作为{g|Encyclopedia:Caster_Level}施法者等级{/g}。达到15级后，你每天可使用两次此能力。\n石肤\n受保护的生物获得对钝击、削砍、戳刺和切割的抵抗力。受术者获得10/精金的{g|Encyclopedia:Damage_Reduction}伤害减免{/g}。每次受到武器{g|Encyclopedia:Damage}伤害{/g}时，可忽略前10点伤害，但精金武器能够穿透此减免效果。当此法术累计阻止了每{g|Encyclopedia:Caster_Level}施法者等级{/g}10点伤害时（最高150点），效果就会消散。",
+      "enGB": "Once per day, your skin hardens and takes on the appearance of iron, granting you DR 10/adamantine. This ability functions as stoneskin, using your oracle level as the caster level, except it only affects you. At 15th level, you can use this ability twice per day. \nStoneskin \nThe warded creature gains resistance to blows, cuts, stabs, and slashes. The subject gains DR 10/adamantine, for 10 minutes per caster level. It ignores the first 10 points of damage each time it takes damage from a weapon, though an adamantine weapon overcomes the reduction. Once the spell has prevented a total of 10 points of damage per caster level (maximum 150 points), it is discharged."
+    },
+    {
+      "Key": "3c5c197dfe8d41848fceeb2c25e7df3b",
+      "SimpleName": "OracleRevelationIronWeaponEnchantAbility.Description",
+      "ProcessTemplates": true,
+      "IsUsed": false,
+      "zhCN": "你可以为手中金属制成的武器附魔，武器在被附魔后会被视为寒铁武器。 在7级、15级和19级时，武器获得+1增强加值。 在11级时，武器被视为精金武器。 此效果持续时间为你的先知等级分钟数。 你每天可以使用此能力的次数等于3+你的魅力调整值。",
+      "enGB": "You can imbue held weapons made mostly of metal, while enchanted the weapons are considered made of cold iron. At 7th level, 15th level, and 19th level, the weapon gains a +1 enhancement bonus. At 11th level, the weapon is considered made of adamantine. This effect lasts a number of minutes equal to your oracle level. You can use this ability a number of times per day equal to 3 + your Charisma modifier."
+    },
+    {
+      "Key": "4e1c3730be334fae9ed2d7029f3e1138",
+      "SimpleName": "OracleRevelationIronWeaponEnchantAbility.Name",
+      "ProcessTemplates": false,
+      "zhCN": "坚钢兵刃",
+      "enGB": "Iron Weapon Enchant"
+    },
+    {
+      "Key": "f0fd729949d04811999606667785c1a4",
+      "SimpleName": "OracleRevelationIronWeaponEnchantAbilityMainHand.Description",
+      "ProcessTemplates": true,
+      "IsUsed": false,
+      "zhCN": "你可以为手中金属制成的武器附魔，武器在被附魔后会被视为寒铁武器。 在7级、15级和19级时，武器获得+1增强加值。 在11级时，武器被视为精金武器。 此效果持续时间为你的先知等级分钟数。 你每天可以使用此能力的次数等于3+你的魅力调整值。",
+      "enGB": "You can imbue held weapons made mostly of metal, while enchanted the weapons are considered made of cold iron. At 7th level, 15th level, and 19th level, the weapon gains a +1 enhancement bonus. At 11th level, the weapon is considered made of adamantine. This effect lasts a number of minutes equal to your oracle level. You can use this ability a number of times per day equal to 3 + your Charisma modifier."
+    },
+    {
+      "Key": "444d9c6b1c614d57acd882e7c22b1997",
+      "SimpleName": "OracleRevelationIronWeaponEnchantAbilityOffHand.Description",
+      "ProcessTemplates": true,
+      "IsUsed": false,
+      "zhCN": "你可以为手中金属制成的武器附魔，武器在被附魔后会被视为寒铁武器。 在7级、15级和19级时，武器获得+1增强加值。 在11级时，武器被视为精金武器。 此效果持续时间为你的先知等级分钟数。 你每天可以使用此能力的次数等于3+你的魅力调整值。",
+      "enGB": "You can imbue held weapons made mostly of metal, while enchanted the weapons are considered made of cold iron. At 7th level, 15th level, and 19th level, the weapon gains a +1 enhancement bonus. At 11th level, the weapon is considered made of adamantine. This effect lasts a number of minutes equal to your oracle level. You can use this ability a number of times per day equal to 3 + your Charisma modifier."
+    },
+    {
+      "Key": "14eff016d97f42849aaf99901e1d400c",
+      "SimpleName": "OracleRevelationIronWeaponEnchantBuff11Main.Description",
+      "ProcessTemplates": true,
+      "IsUsed": false,
+      "zhCN": "你可以为手中金属制成的武器附魔，武器在被附魔后会被视为寒铁武器。 在7级、15级和19级时，武器获得+1增强加值。 在11级时，武器被视为精金武器。 此效果持续时间为你的先知等级分钟数。 你每天可以使用此能力的次数等于3+你的魅力调整值。",
+      "enGB": "You can imbue held weapons made mostly of metal, while enchanted the weapons are considered made of cold iron. At 7th level, 15th level, and 19th level, the weapon gains a +1 enhancement bonus. At 11th level, the weapon is considered made of adamantine. This effect lasts a number of minutes equal to your oracle level. You can use this ability a number of times per day equal to 3 + your Charisma modifier."
+    },
+    {
+      "Key": "d5fa010e53af483fa82dd325509cd6bc",
+      "SimpleName": "OracleRevelationIronWeaponEnchantBuff11OffHand.Description",
+      "ProcessTemplates": true,
+      "IsUsed": false,
+      "zhCN": "你可以为手中金属制成的武器附魔，武器在被附魔后会被视为寒铁武器。 在7级、15级和19级时，武器获得+1增强加值。 在11级时，武器被视为精金武器。 此效果持续时间为你的先知等级分钟数。 你每天可以使用此能力的次数等于3+你的魅力调整值。",
+      "enGB": "You can imbue held weapons made mostly of metal, while enchanted the weapons are considered made of cold iron. At 7th level, 15th level, and 19th level, the weapon gains a +1 enhancement bonus. At 11th level, the weapon is considered made of adamantine. This effect lasts a number of minutes equal to your oracle level. You can use this ability a number of times per day equal to 3 + your Charisma modifier."
+    },
+    {
+      "Key": "6aff291e85424f0bb692374efd1d769b",
+      "SimpleName": "OracleRevelationIronWeaponEnchantBuff15Main.Description",
+      "ProcessTemplates": true,
+      "IsUsed": false,
+      "zhCN": "你可以为手中金属制成的武器附魔，武器在被附魔后会被视为寒铁武器。 在7级、15级和19级时，武器获得+1增强加值。 在11级时，武器被视为精金武器。 此效果持续时间为你的先知等级分钟数。 你每天可以使用此能力的次数等于3+你的魅力调整值。",
+      "enGB": "You can imbue held weapons made mostly of metal, while enchanted the weapons are considered made of cold iron. At 7th level, 15th level, and 19th level, the weapon gains a +1 enhancement bonus. At 11th level, the weapon is considered made of adamantine. This effect lasts a number of minutes equal to your oracle level. You can use this ability a number of times per day equal to 3 + your Charisma modifier."
+    },
+    {
+      "Key": "297c456c8d1944e68f2136ea7ede79ac",
+      "SimpleName": "OracleRevelationIronWeaponEnchantBuff15OffHand.Description",
+      "ProcessTemplates": true,
+      "IsUsed": false,
+      "zhCN": "你可以为手中金属制成的武器附魔，武器在被附魔后会被视为寒铁武器。 在7级、15级和19级时，武器获得+1增强加值。 在11级时，武器被视为精金武器。 此效果持续时间为你的先知等级分钟数。 你每天可以使用此能力的次数等于3+你的魅力调整值。",
+      "enGB": "You can imbue held weapons made mostly of metal, while enchanted the weapons are considered made of cold iron. At 7th level, 15th level, and 19th level, the weapon gains a +1 enhancement bonus. At 11th level, the weapon is considered made of adamantine. This effect lasts a number of minutes equal to your oracle level. You can use this ability a number of times per day equal to 3 + your Charisma modifier."
+    },
+    {
+      "Key": "1183e40bdad34e37a2409303a2625433",
+      "SimpleName": "OracleRevelationIronWeaponEnchantBuff19Main.Description",
+      "ProcessTemplates": true,
+      "IsUsed": false,
+      "zhCN": "你可以为手中金属制成的武器附魔，武器在被附魔后会被视为寒铁武器。 在7级、15级和19级时，武器获得+1增强加值。 在11级时，武器被视为精金武器。 此效果持续时间为你的先知等级分钟数。 你每天可以使用此能力的次数等于3+你的魅力调整值。",
+      "enGB": "You can imbue held weapons made mostly of metal, while enchanted the weapons are considered made of cold iron. At 7th level, 15th level, and 19th level, the weapon gains a +1 enhancement bonus. At 11th level, the weapon is considered made of adamantine. This effect lasts a number of minutes equal to your oracle level. You can use this ability a number of times per day equal to 3 + your Charisma modifier."
+    },
+    {
+      "Key": "dee0e6aa99b54832b9ac9b3770e71c10",
+      "SimpleName": "OracleRevelationIronWeaponEnchantBuff19OffHand.Description",
+      "ProcessTemplates": true,
+      "IsUsed": false,
+      "zhCN": "你可以为手中金属制成的武器附魔，武器在被附魔后会被视为寒铁武器。 在7级、15级和19级时，武器获得+1增强加值。 在11级时，武器被视为精金武器。 此效果持续时间为你的先知等级分钟数。 你每天可以使用此能力的次数等于3+你的魅力调整值。",
+      "enGB": "You can imbue held weapons made mostly of metal, while enchanted the weapons are considered made of cold iron. At 7th level, 15th level, and 19th level, the weapon gains a +1 enhancement bonus. At 11th level, the weapon is considered made of adamantine. This effect lasts a number of minutes equal to your oracle level. You can use this ability a number of times per day equal to 3 + your Charisma modifier."
+    },
+    {
+      "Key": "50ca4ce97b8c4b61b48a93746b91141d",
+      "SimpleName": "OracleRevelationIronWeaponEnchantBuff7Main.Description",
+      "ProcessTemplates": true,
+      "IsUsed": false,
+      "zhCN": "你可以为手中金属制成的武器附魔，武器在被附魔后会被视为寒铁武器。 在7级、15级和19级时，武器获得+1增强加值。 在11级时，武器被视为精金武器。 此效果持续时间为你的先知等级分钟数。 你每天可以使用此能力的次数等于3+你的魅力调整值。",
+      "enGB": "You can imbue held weapons made mostly of metal, while enchanted the weapons are considered made of cold iron. At 7th level, 15th level, and 19th level, the weapon gains a +1 enhancement bonus. At 11th level, the weapon is considered made of adamantine. This effect lasts a number of minutes equal to your oracle level. You can use this ability a number of times per day equal to 3 + your Charisma modifier."
+    },
+    {
+      "Key": "6d096d31a9b9447382a4d7d2f341a9cd",
+      "SimpleName": "OracleRevelationIronWeaponEnchantBuff7OffHand.Description",
+      "ProcessTemplates": true,
+      "IsUsed": false,
+      "zhCN": "你可以为手中金属制成的武器附魔，武器在被附魔后会被视为寒铁武器。 在7级、15级和19级时，武器获得+1增强加值。 在11级时，武器被视为精金武器。 此效果持续时间为你的先知等级分钟数。 你每天可以使用此能力的次数等于3+你的魅力调整值。",
+      "enGB": "You can imbue held weapons made mostly of metal, while enchanted the weapons are considered made of cold iron. At 7th level, 15th level, and 19th level, the weapon gains a +1 enhancement bonus. At 11th level, the weapon is considered made of adamantine. This effect lasts a number of minutes equal to your oracle level. You can use this ability a number of times per day equal to 3 + your Charisma modifier."
+    },
+    {
+      "Key": "236f8df41d104726a6a9e6f6914a39de",
+      "SimpleName": "OracleRevelationIronWeaponEnchantBuffBaseMain.Description",
+      "ProcessTemplates": true,
+      "IsUsed": false,
+      "zhCN": "你可以为手中金属制成的武器附魔，武器在被附魔后会被视为寒铁武器。 在7级、15级和19级时，武器获得+1增强加值。 在11级时，武器被视为精金武器。 此效果持续时间为你的先知等级分钟数。 你每天可以使用此能力的次数等于3+你的魅力调整值。",
+      "enGB": "You can imbue held weapons made mostly of metal, while enchanted the weapons are considered made of cold iron. At 7th level, 15th level, and 19th level, the weapon gains a +1 enhancement bonus. At 11th level, the weapon is considered made of adamantine. This effect lasts a number of minutes equal to your oracle level. You can use this ability a number of times per day equal to 3 + your Charisma modifier."
+    },
+    {
+      "Key": "9e84d60541d640deaada0539b1a70072",
+      "SimpleName": "OracleRevelationIronWeaponEnchantBuffBaseMain.Name",
+      "ProcessTemplates": false,
+      "zhCN": "坚钢兵刃（主手）",
+      "enGB": "Iron Weapon Enchant (Main Hand)"
+    },
+    {
+      "Key": "997940ef0dac415b853542fdee829a09",
+      "SimpleName": "OracleRevelationIronWeaponEnchantBuffBaseOffHand.Description",
+      "ProcessTemplates": true,
+      "IsUsed": false,
+      "zhCN": "你可以为手中金属制成的武器附魔，武器在被附魔后会被视为寒铁武器。 在7级、15级和19级时，武器获得+1增强加值。 在11级时，武器被视为精金武器。 此效果持续时间为你的先知等级分钟数。 你每天可以使用此能力的次数等于3+你的魅力调整值。",
+      "enGB": "You can imbue held weapons made mostly of metal, while enchanted the weapons are considered made of cold iron. At 7th level, 15th level, and 19th level, the weapon gains a +1 enhancement bonus. At 11th level, the weapon is considered made of adamantine. This effect lasts a number of minutes equal to your oracle level. You can use this ability a number of times per day equal to 3 + your Charisma modifier."
+    },
+    {
+      "Key": "f79704eef5184391b5f44a3122188205",
+      "SimpleName": "OracleRevelationIronWeaponEnchantBuffBaseOffHand.Name",
+      "ProcessTemplates": false,
+      "zhCN": "坚钢兵刃（副手）",
+      "enGB": "Iron Weapon Enchant (Off Hand)"
+    },
+    {
+      "Key": "29982f76eb73460aa9da8e5fdc0b0e67",
+      "SimpleName": "OracleRevelationIronWeaponEnchantFeature.Description",
+      "ProcessTemplates": true,
+      "zhCN": "你可以为手中金属制成的武器附魔，武器在被附魔后会被视为寒铁武器。 在7级、15级和19级时，武器获得+1增强加值。 在11级时，武器被视为精金武器。 此效果持续时间为你的先知等级分钟数。 你每天可以使用此能力的次数等于3+你的魅力调整值。",
+      "enGB": "You can imbue held weapons made mostly of metal, while enchanted the weapons are considered made of cold iron. At 7th level, 15th level, and 19th level, the weapon gains a +1 enhancement bonus. At 11th level, the weapon is considered made of adamantine. This effect lasts a number of minutes equal to your oracle level. You can use this ability a number of times per day equal to 3 + your Charisma modifier."
+    },
+    {
+      "Key": "d82f30be74e8481ab4bed5c71c215185",
+      "SimpleName": "OracleRevelationIronWeaponEnchantFlag11.Name",
+      "ProcessTemplates": false,
+      "enGB": "OracleRevelationIronWeaponEnchantFlag11"
+    },
+    {
+      "Key": "61213cfbd2174da38f9c4793846816be",
+      "SimpleName": "OracleRevelationIronWeaponEnchantFlag15.Name",
+      "ProcessTemplates": false,
+      "enGB": "OracleRevelationIronWeaponEnchantFlag15"
+    },
+    {
+      "Key": "89ef1e3a297c470288570a532f03ec75",
+      "SimpleName": "OracleRevelationIronWeaponEnchantFlag19.Name",
+      "ProcessTemplates": false,
+      "enGB": "OracleRevelationIronWeaponEnchantFlag19"
+    },
+    {
+      "Key": "dc16690af6a1487e9d12bf0439c61656",
+      "SimpleName": "OracleRevelationIronWeaponEnchantFlag7.Name",
+      "ProcessTemplates": false,
+      "enGB": "OracleRevelationIronWeaponEnchantFlag7"
+    },
+    {
+      "Key": "1cba744dcb2b4a619704378ee802830c",
+      "SimpleName": "OracleRevelationSkillAtArmsFeature.Description",
+      "ProcessTemplates": true,
+      "zhCN": "你将擅长所有军用武器，中型盔甲和重型盔甲。",
+      "enGB": "You gain proficiency in all martial weapons and heavy armor."
+    },
+    {
+      "Key": "6c7e04741d6044bc954d3c42f9a54325",
+      "SimpleName": "OracleRevelationSkillAtArmsFeature.Name",
+      "ProcessTemplates": false,
+      "zhCN": "诸武精通",
+      "enGB": "Skill at Arms"
+    },
+    {
+      "Key": "5fa4dd112eb1494e8c9e7f02c97b5a4e",
+      "SimpleName": "InsectDomainAnimalCompanionSelection.Description",
+      "ProcessTemplates": true,
+      "zhCN": "4级时，你将获得虫类动物伙伴。在确定动物伙伴的能力时，你的有效德鲁伊等级等于赋予你此领域的职业等级-3。（通过职业特性“自然联结”选取此能力的德鲁伊，会依照德鲁伊等级-3的原则来决定动物伙伴的能力）。",
+      "enGB": "At 4th level, you gain the service of an vermin animal companion. Your effective druid level for this animal companion is equal to your level in the class that gave you access to this domain – 3. (Druids who take this ability through their nature bond class feature use their druid level – 3 to determine the abilities of their animal companions.)"
+    },
+    {
+      "Key": "6fe4e1d637cf4cd797019e43ecc25d66",
+      "SimpleName": "InsectDomainAnimalCompanionSelection.Name",
+      "ProcessTemplates": false,
+      "zhCN": "昆虫子域 虫类伙伴",
+      "enGB": "Insect Subdomain Vermin Companion"
+    },
+    {
+      "Key": "b8f0ce507d864783ba5258f2e0937bae",
+      "SimpleName": "InsectDomainBaseAbility.Description",
+      "ProcessTemplates": true,
+      "IsUsed": false,
+      "zhCN": "以一个迅捷动作，你可以生长出一副外骨骼，这将给予你+1天生防御上增强加值以及1d4+1/2牧师等级的临时生命。你每有5个牧师等级，你的天生防御加值增加1点。",
+      "enGB": "As a swift action, you can grow an exoskeleton that grants you a +1 enhancement bonus to your natural armor and 1d4 temporary hit points + 1 for every 2 cleric levels you have. The natural armor bonus increases by 1 for every 5 cleric levels you have. The exoskeleton retracts after 1 round, ending its benefits. You can use this ability a number of times per day equal to 3 + your Wisdom modifier."
+    },
+    {
+      "Key": "008868543a694688a8b4f41b35baa195",
+      "SimpleName": "InsectDomainBaseAbilitySeparatist.Description",
+      "ProcessTemplates": true,
+      "IsUsed": false,
+      "zhCN": "以一个迅捷动作，你可以生长出一副外骨骼，这将给予你+1天生防御上增强加值以及1d4+1/2牧师等级的临时生命。你每有5个牧师等级，你的天生防御加值增加1点。",
+      "enGB": "As a swift action, you can grow an exoskeleton that grants you a +1 enhancement bonus to your natural armor and 1d4 temporary hit points + 1 for every 2 cleric levels you have. The natural armor bonus increases by 1 for every 5 cleric levels you have. The exoskeleton retracts after 1 round, ending its benefits. You can use this ability a number of times per day equal to 3 + your Wisdom modifier."
+    },
+    {
+      "Key": "578563b7b64d4655a62b530557154e48",
+      "SimpleName": "InsectDomainBaseBuff.Description",
+      "ProcessTemplates": true,
+      "IsUsed": false,
+      "zhCN": "以一个迅捷动作，你可以生长出一副外骨骼，这将给予你+1天生防御上增强加值以及1d4+1/2牧师等级的临时生命。你每有5个牧师等级，你的天生防御加值增加1点。",
+      "enGB": "As a swift action, you can grow an exoskeleton that grants you a +1 enhancement bonus to your natural armor and 1d4 temporary hit points + 1 for every 2 cleric levels you have. The natural armor bonus increases by 1 for every 5 cleric levels you have. The exoskeleton retracts after 1 round, ending its benefits. You can use this ability a number of times per day equal to 3 + your Wisdom modifier."
+    },
+    {
+      "Key": "ac9b4da5e1de479387908ba27bfa778f",
+      "SimpleName": "InsectDomainBaseBuff.Name",
+      "ProcessTemplates": false,
+      "zhCN": "外骨骼",
+      "enGB": "Exoskeleton"
+    },
+    {
+      "Key": "18cb6a5e527e42d8b2a12b32d78b297e",
+      "SimpleName": "InsectDomainBaseBuffSeparatist.Description",
+      "ProcessTemplates": true,
+      "zhCN": "以一个迅捷动作，你可以生长出一副外骨骼，这将给予你+1天生防御上增强加值以及1d4+1/2牧师等级的临时生命。你每有5个牧师等级，你的天生防御加值增加1点。",
+      "enGB": "As a swift action, you can grow an exoskeleton that grants you a +1 enhancement bonus to your natural armor and 1d4 temporary hit points + 1 for every 2 cleric levels you have. The natural armor bonus increases by 1 for every 5 cleric levels you have. The exoskeleton retracts after 1 round, ending its benefits. You can use this ability a number of times per day equal to 3 + your Wisdom modifier."
+    },
+    {
+      "Key": "c448b27c2dc241c4a28df0b14ecb8372",
+      "SimpleName": "InsectDomainBaseFeature.Description",
+      "ProcessTemplates": true,
+      "IsUsed": false,
+      "zhCN": "你操控着虫类的意识。你将学识（自然）加入技能列表\n外骨骼：以一个迅捷动作，你可以生长出一副外骨骼，这将给予你+1天生防御上增强加值以及1d4+1/2牧师等级的临时生命。你每有5个牧师等级，你的天生防御加值增加1点。\n虫类伙伴：4级时，你将获得虫类动物伙伴。在确定动物伙伴的能力时，你的有效德鲁伊等级等于赋予你此领域的职业等级-3。（通过职业特性“自然联结”选取此能力的德鲁伊，会依照德鲁伊等级-3的原则来决定动物伙伴的能力）。",
+      "enGB": "You command the minds of vermin. You treat Lore (nature) as a class skill.\nExoskeleton: As a swift action, you can grow an exoskeleton that grants you a +1 enhancement bonus to your natural armor and 1d4 temporary hit points + 1 for every 2 cleric levels you have. The natural armor bonus increases by 1 for every 5 cleric levels you have. The exoskeleton retracts after 1 round, ending its benefits. You can use this ability a number of times per day equal to 3 + your Wisdom modifier.\nVermin Companion: At 4th level, you gain the service of an vermin animal companion. Your effective druid level for this animal companion is equal to your level in the class that gave you access to this domain – 3. (Druids who take this ability through their nature bond class feature use their druid level – 3 to determine the abilities of their animal companions.)"
+    },
+    {
+      "Key": "90dba41194844fbbbc33dbb9c61e75ff",
+      "SimpleName": "InsectDomainBaseFeature.Name",
+      "ProcessTemplates": false,
+      "zhCN": "昆虫子域",
+      "enGB": "Insect Subdomain"
+    },
+    {
+      "Key": "182e92f09aa141219105abe8230f462f",
+      "SimpleName": "InsectDomainBaseFeatureSeparatist.Description",
+      "ProcessTemplates": true,
+      "zhCN": "你操控着虫类的意识。你将学识（自然）加入技能列表\n外骨骼：以一个迅捷动作，你可以生长出一副外骨骼，这将给予你+1天生防御上增强加值以及1d4+1/2牧师等级的临时生命。你每有5个牧师等级，你的天生防御加值增加1点。\n虫类伙伴：4级时，你将获得虫类动物伙伴。在确定动物伙伴的能力时，你的有效德鲁伊等级等于赋予你此领域的职业等级-3。（通过职业特性“自然联结”选取此能力的德鲁伊，会依照德鲁伊等级-3的原则来决定动物伙伴的能力）。",
+      "enGB": "You command the minds of vermin. You treat Lore (nature) as a class skill.\nExoskeleton: As a swift action, you can grow an exoskeleton that grants you a +1 enhancement bonus to your natural armor and 1d4 temporary hit points + 1 for every 2 cleric levels you have. The natural armor bonus increases by 1 for every 5 cleric levels you have. The exoskeleton retracts after 1 round, ending its benefits. You can use this ability a number of times per day equal to 3 + your Wisdom modifier.\nVermin Companion: At 4th level, you gain the service of an vermin animal companion. Your effective druid level for this animal companion is equal to your level in the class that gave you access to this domain – 3. (Druids who take this ability through their nature bond class feature use their druid level – 3 to determine the abilities of their animal companions.)"
+    },
+    {
+      "Key": "faec58d588a04967b644b5cf75fc6a4d",
+      "SimpleName": "InsectDomainProgression.Description",
+      "ProcessTemplates": true,
+      "IsUsed": false,
+      "zhCN": "你操控着虫类的意识。你将学识（自然）加入技能列表\n外骨骼：以一个迅捷动作，你可以生长出一副外骨骼，这将给予你+1天生防御上增强加值以及1d4+1/2牧师等级的临时生命。你每有5个牧师等级，你的天生防御加值增加1点。\n虫类伙伴：4级时，你将获得虫类动物伙伴。在确定动物伙伴的能力时，你的有效德鲁伊等级等于赋予你此领域的职业等级-3。（通过职业特性“自然联结”选取此能力的德鲁伊，会依照德鲁伊等级-3的原则来决定动物伙伴的能力）。\n领域法术：魔牙，定身动物，虫类形态I，虫类形态II，蜂群斗篷，瘟疫风暴，召唤自然盟友VII，召唤自然盟友VIII，变化形体。",
+      "enGB": "You command the minds of vermin. You treat Lore (nature) as a class skill.\nExoskeleton: As a swift action, you can grow an exoskeleton that grants you a +1 enhancement bonus to your natural armor and 1d4 temporary hit points + 1 for every 2 cleric levels you have. The natural armor bonus increases by 1 for every 5 cleric levels you have. The exoskeleton retracts after 1 round, ending its benefits. You can use this ability a number of times per day equal to 3 + your Wisdom modifier.\nVermin Companion: At 4th level, you gain the service of an vermin animal companion. Your effective druid level for this animal companion is equal to your level in the class that gave you access to this domain – 3. (Druids who take this ability through their nature bond class feature use their druid level – 3 to determine the abilities of their animal companions.)\nDomain Spells: magic fang, hold animal, vermin shape I, vermin shape II, cape of wasps, plague storm, summon nature's ally VII, summon nature's ally VIII, shapechange."
+    },
+    {
+      "Key": "3c2547fe0c574604b8fcfe1c2190288a",
+      "SimpleName": "InsectDomainProgressionDruid.Description",
+      "ProcessTemplates": true,
+      "IsUsed": false,
+      "zhCN": "你操控着虫类的意识。你将学识（自然）加入技能列表\n外骨骼：以一个迅捷动作，你可以生长出一副外骨骼，这将给予你+1天生防御上增强加值以及1d4+1/2牧师等级的临时生命。你每有5个牧师等级，你的天生防御加值增加1点。\n虫类伙伴：4级时，你将获得虫类动物伙伴。在确定动物伙伴的能力时，你的有效德鲁伊等级等于赋予你此领域的职业等级-3。（通过职业特性“自然联结”选取此能力的德鲁伊，会依照德鲁伊等级-3的原则来决定动物伙伴的能力）。\n领域法术：魔牙，定身动物，虫类形态I，虫类形态II，蜂群斗篷，瘟疫风暴，召唤自然盟友VII，召唤自然盟友VIII，变化形体。",
+      "enGB": "You command the minds of vermin. You treat Lore (nature) as a class skill.\nExoskeleton: As a swift action, you can grow an exoskeleton that grants you a +1 enhancement bonus to your natural armor and 1d4 temporary hit points + 1 for every 2 cleric levels you have. The natural armor bonus increases by 1 for every 5 cleric levels you have. The exoskeleton retracts after 1 round, ending its benefits. You can use this ability a number of times per day equal to 3 + your Wisdom modifier.\nVermin Companion: At 4th level, you gain the service of an vermin animal companion. Your effective druid level for this animal companion is equal to your level in the class that gave you access to this domain – 3. (Druids who take this ability through their nature bond class feature use their druid level – 3 to determine the abilities of their animal companions.)\nDomain Spells: magic fang, hold animal, vermin shape I, vermin shape II, cape of wasps, plague storm, summon nature's ally VII, summon nature's ally VIII, shapechange."
+    },
+    {
+      "Key": "e830dd2765aa4066863bc6031a190008",
+      "SimpleName": "InsectDomainProgressionSecondary.Description",
+      "ProcessTemplates": true,
+      "IsUsed": false,
+      "zhCN": "你操控着虫类的意识。你将学识（自然）加入技能列表\n外骨骼：以一个迅捷动作，你可以生长出一副外骨骼，这将给予你+1天生防御上增强加值以及1d4+1/2牧师等级的临时生命。你每有5个牧师等级，你的天生防御加值增加1点。\n虫类伙伴：4级时，你将获得虫类动物伙伴。在确定动物伙伴的能力时，你的有效德鲁伊等级等于赋予你此领域的职业等级-3。（通过职业特性“自然联结”选取此能力的德鲁伊，会依照德鲁伊等级-3的原则来决定动物伙伴的能力）。\n领域法术：魔牙，定身动物，虫类形态I，虫类形态II，蜂群斗篷，瘟疫风暴，召唤自然盟友VII，召唤自然盟友VIII，变化形体。",
+      "enGB": "You command the minds of vermin. You treat Lore (nature) as a class skill.\nExoskeleton: As a swift action, you can grow an exoskeleton that grants you a +1 enhancement bonus to your natural armor and 1d4 temporary hit points + 1 for every 2 cleric levels you have. The natural armor bonus increases by 1 for every 5 cleric levels you have. The exoskeleton retracts after 1 round, ending its benefits. You can use this ability a number of times per day equal to 3 + your Wisdom modifier.\nVermin Companion: At 4th level, you gain the service of an vermin animal companion. Your effective druid level for this animal companion is equal to your level in the class that gave you access to this domain – 3. (Druids who take this ability through their nature bond class feature use their druid level – 3 to determine the abilities of their animal companions.)\nDomain Spells: magic fang, hold animal, vermin shape I, vermin shape II, cape of wasps, plague storm, summon nature's ally VII, summon nature's ally VIII, shapechange."
+    },
+    {
+      "Key": "52a905044ce14f8cb54f474ed8336dad",
+      "SimpleName": "InsectDomainProgressionSeparatist.Description",
+      "ProcessTemplates": true,
+      "zhCN": "你操控着虫类的意识。你将学识（自然）加入技能列表\n外骨骼：以一个迅捷动作，你可以生长出一副外骨骼，这将给予你+1天生防御上增强加值以及1d4+1/2牧师等级的临时生命。你每有5个牧师等级，你的天生防御加值增加1点。\n虫类伙伴：4级时，你将获得虫类动物伙伴。在确定动物伙伴的能力时，你的有效德鲁伊等级等于赋予你此领域的职业等级-3。（通过职业特性“自然联结”选取此能力的德鲁伊，会依照德鲁伊等级-3的原则来决定动物伙伴的能力）。\n领域法术：魔牙，定身动物，虫类形态I，虫类形态II，蜂群斗篷，瘟疫风暴，召唤自然盟友VII，召唤自然盟友VIII，变化形体。",
+      "enGB": "You command the minds of vermin. You treat Lore (nature) as a class skill.\nExoskeleton: As a swift action, you can grow an exoskeleton that grants you a +1 enhancement bonus to your natural armor and 1d4 temporary hit points + 1 for every 2 cleric levels you have. The natural armor bonus increases by 1 for every 5 cleric levels you have. The exoskeleton retracts after 1 round, ending its benefits. You can use this ability a number of times per day equal to 3 + your Wisdom modifier.\nVermin Companion: At 4th level, you gain the service of an vermin animal companion. Your effective druid level for this animal companion is equal to your level in the class that gave you access to this domain – 3. (Druids who take this ability through their nature bond class feature use their druid level – 3 to determine the abilities of their animal companions.)\nDomain Spells: magic fang, hold animal, vermin shape I, vermin shape II, cape of wasps, plague storm, summon nature's ally VII, summon nature's ally VIII, shapechange."
+    },
+    {
+      "Key": "200161451d314279a07bc4b123cfdb7b",
+      "SimpleName": "AldinachFeature.Description",
+      "ProcessTemplates": true,
+      "zhCN": "\n头衔：六毒之女，蝎之君主\n阵营：混乱邪恶 \n神职：沙、蝎子和干涸\n领域：动物、混乱、邪恶、太阳 \n子领域：恶魔、羽毛、毛兽、光明、干涸\n偏好武器：反曲刀 \n圣徽：沙金蝎 \n圣兽：蝎子\n奥迪娜克的邪教在沙漠，尤其是奥斯里昂的野外与拉哈多姆的偏远地区，祂的邪教徒常出没于此以引诱或服饰当地的无神论者。如同祂背负着自己无数的子孙一般，奥迪娜克也是拉玛什图众多子女之一，但拉玛什图登神后便鲜有往来。而与其姊妹阿雷什卡高则是另一幅场景，因祂们二位正在进行永无休止的斗争。自从奥迪娜克从对方手中夺走了低语沙海这一层深渊位面，将其流放到荒凉的血色裂谷后，祂便一直驻留在自己的沙漠国度中抵御其姊妹那永无休止且越发拼命的反攻。奥迪娜克占领这一层不过数十个世纪，但祂通过不断鼓励手下以祂的名义建立了数百座隐匿于砂砾之中的诡异城市。",
+      "enGB": "\nTitles: She of the Six Venoms, Lord of Scorpions \nAlignment: Chaotic Evil   \nAreas of Concern: Sand, Scorpions, Thirst   \nDomains: Animal, Chaos, Evil, Sun   \nSubdomains: Demon, Feather, Fur, Insect, Light, Thirst \nFavoured Weapon: Kukri   \nHoly Symbol: Sandy gold scorpion   \nSacred Animal: Scorpion   \nAldinach’s cults are strongest in deserts, particularly in Osirion’s wastelands and the remote reaches of Rahadoum, where her cultists work to seduce and corrupt that realm’s godless citizens. Aldinach is one of Lamashtu’s daughters, although since Lamashtu’s ascension to divinity, the two have not associated overmuch. The same cannot be said of her relationship with her sister Areshkagal, with whom Aldinach is locked in an eternal war. Ever since Aldinach stole the Abyssal realm known as the Sea of Whispering Sands from her sister, forcing Areshkagal into exile in the desolate Blood Clefts, Aldinach has been forced to defend her desert realm constantly from her sister’s increasingly desperate attempts to reclaim her lost territory. Although she has ruled the Whispering Sands for only a few dozen centuries, already she has inspired her minions to create hundreds of eerie desert cities in her honor, hidden amid the trackless sands."
+    },
+    {
+      "Key": "223be63dbb814111acccdfd076bdd122",
+      "SimpleName": "AldinachFeature.Name",
+      "ProcessTemplates": false,
+      "zhCN": "奥迪娜克",
+      "enGB": "Aldinach"
+    },
+    {
+      "Key": "62cb844e94ba41eaaff26e8ff49577ed",
+      "SimpleName": "GhlaunderFeature.Description",
+      "ProcessTemplates": true,
+      "zhCN": "\n头衔：罗网之王\n阵营：混乱邪恶 \n神职：感染、昆虫、寄生虫、萧条\n领域：空气、动物、混乱、破坏、 \n子领域：天灾、恶魔、云、毛兽、昆虫、狂怒、风、瘟疫\n偏好武器：矛 \n圣徽：蚊子的侧面 \n圣兽：蚊子\n格隆德是瘟疫、感染和昆虫之神。它的外形是一只巨大的蚊子，因为身上的寄生虫而卷曲膨胀。它四处散播疫病，在所到之处全力破坏，践踏一切，留下一片荒芜。痛苦和挣扎让格隆德感到欢欣，尤其病痛之痛苦最使祂狂喜：充满脓液的肺呼近的最后一口空气，最炽热的高烧中才会出现的可怖之噩梦……传说罗网之王曾被包裹在一个虫茧之中，但好奇的德斯娜女神用她的星刃劈开了它的茧，从此，祂被释放到了人间。从那之后，女神就一直追逐着祂，渴望在它们穿行在各个星球之间时将祂杀死，就像一场致命的舞蹈。格隆德的信徒是那些被同胞遗弃之人。祂的牧师是那些在童年时患过致命疾病，并因此变得面目全非，心存怨恨的幸存者们，或是那些在缺乏经验的治疗师手下经历过无以言喻的折磨，并希望所有人都遭受同样痛苦之人。祂吸引那些想要传播疾病的厌世者，从被排斥的麻风病人，伤口感染的伤兵，和满身水疱的家伙。格隆德要求祂的追随者在所行之处传播疫病，无论是自己携带的疾病，还是通过其他方式传播的疾病，那些崇拜祂的人小声传诵祂的圣名，而他们的敌人则是医生，助产士和黛丝娜女神的信徒。",
+      "enGB": "\nTitles: The Gossamer King\nAlignment: Chaotic Evil   \nAreas of Concern: Infection, Insects, Parasites, Stagnation \nDomains: Air, Animal, Chaos, Destruction, Evil \nSubdomains: Catastrophe, Cloud, Demon, Fur, Insect, Plague, Rage, Wind \nFavoured Weapon: Spear   \nHoly Symbol: Mosquito in profile   \nSacred Animal: Mosquito   \nGhlaunder is associated with stirges, giant mosquitos, fungoid creatures, and vampires. His vague, buzzing doctrine is that parasites and infection are necessary, lest the weak and old overrun the world. His cultists usually live in secluded communes and travel in secret, concealing their true devotion for fear of reprisal. They call their god by mysterious names-the Gossamer King, the Dream Tender, or the Slumberer-and only in areas ravaged by disease do they make themselves known, preaching salvation from afflictions for the price of eternally worshiping their blood-drinking god. Members of Ghlaunder's faith may be carriers of parasites or disease, but most experience few to no ill effects. Some disguise themselves as members of other churches taking special pleasure in pretending to be from obscure branches of Desna's faith-and seed contagions or parasites in settlements to weed out those they consider unfit."
+    },
+    {
+      "Key": "a919c31e927a403c87aea678d4b3f6a3",
+      "SimpleName": "GhlaunderFeature.Name",
+      "ProcessTemplates": false,
+      "zhCN": "格隆德",
+      "enGB": "Ghlaunder"
+    }
+  ]
+}
     }
   ]
 }
