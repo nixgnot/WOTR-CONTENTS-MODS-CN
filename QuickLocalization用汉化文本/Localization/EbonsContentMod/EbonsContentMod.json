@@ -3187,5 +3187,221 @@
     "Key": "Hobgoblin.HobgoblinRacialTrait.Description",
     "zhCN": "虽然许多大地精表现其族裔的典型表现，但更多大地精并非如此。那些拥有不同背景的大地精可能会展现出截然不同的传承特征，无论是在外貌还是能力上。",
     "enGB": "Although many hobgoblins follow the general model of the hobgoblin, many more do not. Those of different backgrounds may evince dramatically different manifestations of their heritage, both in appearance and in ability."
+  },
+
+  {
+    "Key": "ProteanSorcererBloodline.Name",
+    "ProcessTemplates": false,
+    "zhCN": "无常血承",
+    "enGB": "Protean Bloodline"
+  },
+
+  {
+    "Key": "ProteanSorcererBloodline.Description",
+    "zhCN": "你的血脉中流淌着最为变幻无常的狂野混沌之力，这一本质深深烙印于你的灵魂之中不可磨灭。你的念头脱跃不定，充斥着各种新奇古怪的念头。对你而言集中精力全神贯注地完成某项工作是极其困难的，因为你总会在半途被其他更加新鲜有趣的事物转移注意力。",
+    "enGB": "You have in your veins the ever-changing wildness of primal chaos, the raw essence of unbound creation. Your mind and spirit burst with the constant inspiration of consummate freedom, though you have difficulty following through on a task when another, new and exciting, catches your interest."
+  },
+
+  {
+    "Key": "ProteanSorcererBloodlineClassSkill.Name",
+    "ProcessTemplates": false,
+    "zhCN": "本职技能（学识：自然）",
+    "enGB": "Class Skill - Lore (Nature)"
+  },
+
+  {
+    "Key": "ProteanSorcererBloodlineClassSkill.Description",
+    "zhCN": "无常血承的额外职业技能",
+    "enGB": "Additional class skill from the potean bloodline."
+  },
+
+  {
+    "Key": "ProteanSorcererBloodlineSpells.Description",
+    "zhCN": "达到3级时，以及之后每升2级，术士都可以额外学习一个来自于血承的法术。",
+    "enGB": "At 3rd level, and every two levels thereafter, a sorcerer learns an additional spell, derived from her bloodline."
+  },
+
+  {
+    "Key": "ProteanSorcererBloodlineFeats.Name",
+    "ProcessTemplates": false,
+    "zhCN": "血承专长选择",
+    "enGB": "Bloodline Feat Selection"
+  },
+
+  {
+    "Key": "ProteanSorcererBloodlineFeats.Description",
+    "zhCN": "达到7级时，以及之后每升6级，术士都会获得1个额外专长，从各血承对应的专长列表中选择。角色必须满足额外专长的先决条件。\n无常血承额外专长：灵巧战技、防御式战斗训练、顽石强韧、精通顽石强韧、法术专攻、健壮、超魔（法术强效） 。",
+    "enGB": "At 7th level, and every six levels thereafter, a sorcerer receives one bonus feat, chosen from a list specific to each bloodline. The sorcerer must meet the prerequisites for these bonus feats. \nBonus Feats: Agile Maneuvers, Defensive Combat Training, Great Fortitude, Improved Great Fortitude, Spell Focus, Toughness, and Metamagic (Empower Spell)."
+  },
+
+  {
+    "Key": "ProteanSorcererBloodlineRequisiteFeature.Name",
+    "ProcessTemplates": false,
+    "zhCN": "无常血承",
+    "enGB": "Protean Bloodline"
+  },
+
+  {
+    "Key": "ProteanSorcererBloodlineRequisiteFeature.Description",
+    "zhCN": "无常血承前置要求",
+    "enGB": "Protean bloodline requisite feature."
+  },
+
+  {
+    "Key": "ProteanSorcererBloodlineArcana.Name",
+    "ProcessTemplates": false,
+    "zhCN": "无常血承奥法",
+    "enGB": "Protean Bloodline Arcana"
+  },
+
+  {
+    "Key": "ProteanSorcererBloodlineArcana.Description",
+    "zhCN": "由于你混乱无常的血统所致，你的变形魔法和创造魔法极难被解除。你的变化法术和咒法法术的解除DC+4。",
+    "enGB": "Your magic of creation and changing is hard to unravel. The DC to dispel transmutation or conjuration spells that you cast is increased by +4."
+  },
+
+  {
+    "Key": "ProteanSorcererBloodlineProtoplasm.Name",
+    "ProcessTemplates": false,
+    "zhCN": "未名物质",
+    "enGB": "Protoplasm"
+  },
+
+  {
+    "Key": "ProteanSorcererBloodlineProtoplasmImmobile.Name",
+    "ProcessTemplates": false,
+    "zhCN": "未名物质（粘住）",
+    "enGB": "Protoplasm (Immobilized)"
+  },
+
+  {
+    "Key": "ProteanSorcererBloodlineProtoplasmEntangled.Name",
+    "ProcessTemplates": false,
+    "zhCN": "未名物质（纠缠）",
+    "enGB": "Protoplasm (Entangled)"
+  },
+
+  {
+    "Key": "ProteanSorcererBloodlineProtoplasm.Description",
+    "zhCN": "1级起，你可以创造一团由未名物质组合而成的球体将其操朝近距离内的目标投掷。术士需要进行远程攻击检定，成功命中目标会使目标陷入纠缠状态，每轮受到1点酸蚀伤害，持续1d3轮。如果目标未通过反射豁免检定，则未名物质还会将目标粘在地上，使其无法移动。目标每轮可以通过对抗该能力DC的战技检定、运动或灵巧检定来试图摆脱纠缠的未名物质。你每天可使用此能力的次数等于3+魅力调整值。",
+    "enGB": "At 1st level, you can create a ball of entropic protoplasm and hurl it at targets within close range. The sorcerer makes a ranged touch attack and a successful hit inflicts the entangled condition on the target and inflicts 1 point of acid damage per round for 1d3 rounds. If the target fails a Reflex save, the protoplasm also glues the target to the floor, preventing movement. Each round, a target can attempt to break free of the entangling protoplasm by making a combat maneuver check, Athletics check, or Mobility check against the DC of this ability. You may use this ability a number of times per day equal to 3 + your Charisma modifier."
+  },
+
+  {
+    "Key": "ProteanSorcererBloodlineResistances.Name",
+    "ProcessTemplates": false,
+    "zhCN": "无常抗性",
+    "enGB": "Protean Resistnaces"
+  },
+
+  {
+    "Key": "ProteanSorcererBloodlineResistances.Description",
+    "zhCN": "达到3级时，你获得5点强酸抗力，在对抗变形、石化、变化学派的法术及类似效果上获得+2豁免检定加值。达到9级后，你的强酸抗力变为10，同时豁免加值变为+4。",
+    "enGB": "At 3rd level, you gain resist acid 5 and a +2 bonus on saving throws against polymorph, petrification, and transmutation spells or effects. At 9th level, you gain resist acid 10 and your save bonus increases to +4."
+  },
+
+  {
+    "Key": "ProteanSorcererBloodlineRealityWrinkle.Name",
+    "ProcessTemplates": false,
+    "zhCN": "无定波纹",
+    "enGB": "Reality Wrinkle"
+  },
+
+  {
+    "Key": "ProteanSorcererBloodlineRealityWrinkle.Description",
+    "zhCN": "达到9级时，你可以让自身10尺范围内的现实变化成一种无定的混沌状态，这一状态随着你的移动而移动。这种无定的扭曲使对范围内盟友的攻击获得20%失手率，就像“朦胧术”一样。你每天可施展此能力的轮数等于术士等级，但生效轮次无需连续。",
+    "enGB": "At 9th level, you can surround yourself with a mobile, 10-foot-radius emanation of mutable reality. This rippling distortion grants a 20% miss chance to all allies inside the aura as with the blur spell. You may use this ability a number of rounds per day equal to your sorcerer level, though this duration need not be continuous."
+  },
+
+  {
+    "Key": "ProteanSorcererBloodlineBlackTentacles.Name",
+    "ProcessTemplates": false,
+    "zhCN": "黑触手",
+    "enGB": "Black Tentacles"
+  },
+
+  {
+    "Key": "ProteanSorcererBloodlineBlackTentacles.Description",
+    "zhCN": "这个法术产生一片具有韧性的黑色触手，它们从地上涌起并伸向区域内的任何生物。法术区域内的每个生物都会在每一轮中，你的回合开始时成为一次擒抱战技检定的目标，这也包括施放黑触手的那一轮。进入效果区域的生物也会被自动攻击。触手不会进行藉机攻击。在确定触手的CMB时，使用你的CL作为它们的BAB，并且CMB由于它们的力量而获得+4加值，外加+1体型加值。每轮只需要为整个法术效果投掷一次检定，并将结果应用至所有在效果区域内的生物上。若黑触手成功擒抱一个敌人，那么该名敌人会受到 {1d6+4} 点伤害，并且处于擒抱状态。被擒抱的敌人首先需要挣脱擒抱，之后才能移动。黑触手法术对在对抗已经被擒抱的生物时，擒抱检定会获得+5加值，但是无法移动敌人或压制敌人。在摆脱擒抱时，黑触手的CMD等同于其 {CMB+10}。",
+    "enGB": "Every enemy creature within the area of the spell is the target of a combat maneuver check made to grapple each round at the beginning of your turn, including the round that black tentacles is cast. Enemies that enter the area of effect are also automatically attacked. The tentacles do not provoke attacks of opportunity. When determining the tentacles' CMB, the tentacles use your caster level as their base attack bonus and receive a +4 bonus due to their Strength and a +1 size bonus. Roll only once for the entire spell effect each round and apply the result to all creatures in the area of effect. \nIf the tentacles succeed in grappling a foe, that foe takes 1d6+4 points of damage and gains the grappled condition. Grappled opponents cannot move without first breaking the grapple. All other movement is prohibited unless the creature breaks the grapple first. The black tentacles spell receives a +5 bonus on grapple checks made against opponents it is already grappling, but cannot move foes or pin foes. Each round that black tentacles succeeds on a grapple check, it deals an additional 1d6+4 points of damage. The CMD of black tentacles, for the purposes of escaping the grapple, is equal to 10 + its CMB."
+  },
+
+  {
+    "Key": "ProteanSorcererBloodlineSpatialTear.Name",
+    "ProcessTemplates": false,
+    "zhCN": "空间扭曲",
+    "enGB": "Spatial Tear"
+  },
+
+  {
+    "Key": "ProteanSorcererBloodlineSpatialTear.Description",
+    "zhCN": "达到15级时，每天1次，你可以拆分重组空间的构成，以一己之喜好而对空间进行扭曲变形。此能力类似于“任意门”，但同时在你消失的地点创造出大量的“黑触手”，计算施法者等级效果时使用你的术士等级。达到20级时，你每天可以使用2次此能力。",
+    "enGB": "At 15th level, once per day, you can unravel the fibers of reality and ride along them as they snap back into place. This power functions as dimension door, while also creating a mass of black tentacles centered on your former location. Both of these effects use your sorcerer level as the caster level. At 20th level, you can use this ability twice per day."
+  },
+
+  {
+    "Key": "ProteanSorcererBloodlineSpatialTearSingle.Name",
+    "ProcessTemplates": false,
+    "zhCN": "空间扭曲（施法者）",
+    "enGB": "Spatial Tear (Caster)"
+  },
+
+  {
+    "Key": "ProteanSorcererBloodlineSpatialTearMass.Name",
+    "ProcessTemplates": false,
+    "zhCN": "空间扭曲（范围）",
+    "enGB": "Spatial Tear (Mass)"
+  },
+
+  {
+    "Key": "ProteanSorcererBloodlineAvatarOfChaos.Name",
+    "ProcessTemplates": false,
+    "zhCN": "混沌化身",
+    "enGB": "Avatar Of Chaos"
+  },
+
+  {
+    "Key": "ProteanSorcererBloodlineAvatarOfChaos.Description",
+    "zhCN": "达到20级时，你已经被最纯粹的混沌彻底浸染。你对强酸、石化、以及变形效应免疫。在施法对抗秩序生物的法术抗力时，你在施法者等级检定上获得+2加值。",
+    "enGB": "At 20th level, you are infused with the essence of raw chaos. You gain immunity to acid, petrification, and polymorph effects (except when cast on self), as well as a +2 bonus to save DCs of spells with the Chaos descriptor and on checks to overcome spell resistance against lawful creatures."
+  },
+
+  {
+    "Key": "BloodlineMutation.BloodHavoc.Name",
+    "ProcessTemplates": false,
+    "zhCN": "血之毁灭",
+    "enGB": "Blood Havoc"
+  },
+
+  {
+    "Key": "BloodlineMutation.BloodHavoc.Description",
+    "zhCN": "当你施放一个造成伤害的血脉狂怒者或术士法术时，每有一个伤害骰就增加1点伤害。这个效果只会应用在属于你用法术专攻专长选择的学派的法术，或者你的血承法术上。",
+    "enGB": "Whenever you cast a spell that deals damage, add 1 point of damage per die rolled. This benefit applies only to damaging spells that belong to schools you have selected with Spell Focus or that are bloodline spells for your bloodline."
+  },
+
+  {
+    "Key": "BloodlineMutation.BloodIntensity.Name",
+    "ProcessTemplates": false,
+    "zhCN": "血之强化",
+    "enGB": "Blood Intensity"
+  },
+
+  {
+    "Key": "BloodlineMutation.BloodIntensity.Description",
+    "zhCN": "当你施放一个造成伤害的血脉狂怒者或术士法术时，你能增加它的最大伤害骰数量，等同于力量或魅力调整值（取其高者）。该能力在其他方面如同专长“法术加剧”一般运作，并不与其叠加。你在3级时每天可以使用该能力1次，每比3级多4个施法者等级就可以多使用一次，最高在19级可每天使用5次。",
+    "enGB": "Whenever you cast a bloodrager or sorcerer spell that deals damage, you can increase its maximum number of damage dice by an amount equal to your Strength or Charisma modifier, whichever is higher. This otherwise functions as梐nd does not stack with梩he Intensified Spell feat. You can use this ability once per day at 3rd level and one additional time per day for every 4 caster levels you have beyond 3rd, up to five times per day at 19th level."
+  },
+
+  {
+    "Key": "BloodlineMutation.BloodPiercing.Name",
+    "ProcessTemplates": false,
+    "zhCN": "穿刺之血",
+    "enGB": "Blood Piercing"
+  },
+
+  {
+    "Key": "BloodlineMutation.BloodPiercing.Description",
+    "zhCN": "当你施放一个造成伤害的血脉狂怒者或术士法术时，被该法术影响的生物在对抗法术效果时，他们的能量抗性和法术抗力减少等同于你力量或魅力调整值的数值，取其高者。你在4级时每天能使用该能力一次，每比3级高5个施法者等级就可额外多使用一次，最高在18级可使用4次。",
+    "enGB": "When you cast a bloodrager or sorcerer spell that deals damage, creatures affected by the spell reduce their energy resistance and spell resistance against the spell's effects by an amount equal to your Strength or Charisma modifier, whichever is higher. You can use this ability once per day at 4th level and one additional time per day for every 5 caster levels you have beyond 3rd, up to four times per day at 18th level."
   }
 ]
