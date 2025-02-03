@@ -21743,7 +21743,7 @@
       "SimpleName": "MindchemistArchetype.Description",
       "ProcessTemplates": false,
       "enGB": "While most alchemists use mutagens to boost their physical ability at the cost of mental ability, some use alchemy for the opposite purpose—to boost the power of the mind and memory. A mindchemist can reach incredible levels of mental acuity, but suffers lingering debilitating effects to his physique.",
-      "zhCN": "当大多数炼金术士用突变药剂削弱他们的心灵并强化肉体的时候，有些炼金术士反其道而行——他们强化自己的第六感和记忆力。心智药师可以让自己获得其他人难以想像的心灵敏锐度，但要在肉体上付出衰弱缠身的代价。"
+      "zhCN": "当大多数炼金术士用诱变剂削弱他们的心灵并强化肉体的时候，有些炼金术士反其道而行——他们强化自己的第六感和记忆力。心智药师可以让自己获得其他人难以想像的心灵敏锐度，但要在肉体上付出衰弱缠身的代价。"
     },
     {
       "Key": "6742a866950e42b7b83f4f7d29f6eeed",
@@ -27964,13 +27964,6 @@
       "enGB": "You are cursed with misfortune and sorrow, and you cannot gain benefit from morale bonuses. However, you gain a +4 bonus to all saving throws against curse effects. "
     },
     {
-      "Key": "3b238d4ef38a435a9693fa4c6e8fb686",
-      "SimpleName": "AccursedCurseBeneficialFeatureLevel1.Description",
-      "ProcessTemplates": true,
-      "zhCN": "你被厄运与悲伤所诅咒，无法获得士气加值带来的增益。然而，你在对抗诅咒效果的豁免检定上获得+4加值。",
-      "enGB": "You are cursed with misfortune and sorrow, and you cannot gain benefit from morale bonuses. However, you gain a +4 bonus to all saving throws against curse effects. "
-    },
-    {
       "Key": "5c512b385b3843019166961c271a2295",
       "SimpleName": "AccursedCurseFeatureLevel1.Description",
       "ProcessTemplates": true,
@@ -28198,21 +28191,6 @@
       "Key": "f6fb6951c7ff4a24b3578ccd8a3c4e30",
       "SimpleName": "DivineHerbalistMetalMysteryFeature.Description",
       "ProcessTemplates": true,
-      "zhCN": "获取钢铁秘示域的法术和启示。\n由于神圣草药师变体，获得的职业技能被草药学大师特性和调制药水专长所取代。"
-      "enGB": "Gain access to the spells and revelations of the Metal mystery. \nDue to the divine herbalist archetype the class skills gained from this archetypeare replaced by the master herbalist feature and the brew potions feat."
-    },
-    {
-      "Key": "8778cffe7221444f836a79f050378bf7",
-      "SimpleName": "EnlightnedPhilosopherMetalMysteryFeature.Description",
-      "ProcessTemplates": true,
-      "IsUsed": false,
-      "zhCN": "具有钢铁秘示域的先知将感知和知识（世界）添加到她的本职技能列表中。"
-      "enGB": "An oracle with the Metal mystery adds Athletics, Persuasion and Use Magic Device to her list of class skills."
-    },
-    {
-      "Key": "f6fb6951c7ff4a24b3578ccd8a3c4e30",
-      "SimpleName": "DivineHerbalistMetalMysteryFeature.Description",
-      "ProcessTemplates": true,
       "zhCN": "获取钢铁秘示域的法术和启示。\n由于神圣草药师变体，获得的职业技能被草药学大师特性和调制药水专长所取代。",
       "enGB": "Gain access to the spells and revelations of the Metal mystery. \nDue to the divine herbalist archetype the class skills gained from this archetypeare replaced by the master herbalist feature and the brew potions feat."
     },
@@ -28338,7 +28316,7 @@
       "SimpleName": "OracleRevelationDanceOfTheBladesAbilityBuff.Description",
       "ProcessTemplates": true,
       "enGB": "As a move action, you can maneuver your weapon to create a shield of whirling steel around yourself until the start of your next turn; non-incorporeal melee and ranged attacks against you have a 20% miss chance while the shield is active. You must be wielding a metal weapon to use this ability.",
-      "zhCN": "以一个移动动作，你可以舞动你的武器，在你周围创造一片刀锋壁障，直到你的下个回合开始；当壁障激活时，针对你的非实体近战和远程攻击有20%的失手几率。 你必须挥舞金属武器才能使用此能力。",
+      "zhCN": "以一个移动动作，你可以舞动你的武器，在你周围创造一片刀锋壁障，直到你的下个回合开始；当壁障激活时，针对你的非实体近战和远程攻击有20%的失手几率。 你必须挥舞金属武器才能使用此能力。"
     },
     {
       "Key": "2b37c92ca0f1439da6cf9cbd7376987e",
@@ -28720,9 +28698,583 @@
       "ProcessTemplates": false,
       "zhCN": "格隆德",
       "enGB": "Ghlaunder"
+    },
+    {
+      "Key": "4d03d796505c482fb13319048042243d",
+      "SimpleName": "BeastmorphArchetype.Description",
+      "ProcessTemplates": false,
+      "enGB": "Beastmorphs study the anatomy of monsters, learning how they achieve their strange powers. They use their knowledge to duplicate these abilities, but at the cost of taking on inhuman shapes when they use mutagens.",
+      "zhCN": "化形异变者透过解剖怪兽，了解这些生物如何产生强大力量，化形者用他们的知识复制这些能力化为己用。代价则是他们在使用诱变剂时，会变成非人外型。"
+    },
+    {
+      "Key": "3c754b6d8a5f4142b645b064f5d8a224",
+      "SimpleName": "BeastmorphArchetype.Name",
+      "ProcessTemplates": false,
+      "enGB": "Beastmorph",
+      "zhCN": "化形异变者"
+    },
+    {
+      "Key": "87240715a9a244f9b910d8c040ebbab4",
+      "SimpleName": "BeastmorphBeastformGrandMutagenFeature.Description",
+      "ProcessTemplates": true,
+      "enGB": "At 14th level, a beastmorph’s mutagen grants him more exotic abilities and options. He may select four different abilities at once before using his mutagen, and the following effects are added to the list of beastform options. \nBlindsense - Detect unseen foes within 30 feet, this range does not stack with the range from the scent mutagen. \nFerocity - When your hit point total is below 0 but you are not killed, you can fight on for 1 more round. At the end of your next turn, unless brought to above 0 hit points, you immediately fall unconscious. \nWeb - You gain the ability to fire webs as if a spider, you must wait one minute between uses and the DC of the web is 10 + half your beastmorph level + constitution modifier.",
+      "zhCN": "14级起，化形异变者获得额外的异变能力选项，并且在使用诱变剂前可以选择4个特殊异变能力。\n盲感 - 侦测30尺内隐形单位，范围灵敏嗅觉突变不能叠加。\n凶猛 - 生命值低于0后依旧意识清醒，可以继续战斗1轮。下个回合结束前，除非生命值回升到0以上，否则会立即失去意识。\n蛛网 - 允许如同蜘蛛一样射出蛛网，使用间隔为1分钟，DC为10 + 化形异变者等级一半 + 体质调整。"
+    },
+    {
+      "Key": "f8d0f17303084d4785a37911ffc1577f",
+      "SimpleName": "BeastmorphBeastformGrandMutagenFeature.Name",
+      "ProcessTemplates": false,
+      "enGB": "Grand Beastform Mutagen",
+      "zhCN": "究极兽形突变"
+    },
+    {
+      "Key": "819c0c11acc3407f8de0e02c707d1577",
+      "SimpleName": "BeastmorphBeastformGreaterMutagenFeature.Description",
+      "ProcessTemplates": true,
+      "enGB": "At 10th level, a beastmorph’s mutagen grants him more additional abilities and options. He may select three different abilities at once before using his mutagen, and the following effects are added to the list of beastform options. \nPounce - You can perform a full attack at the end of your charge. \nTrip - Make a free trip attempt on your first melee attack that hits each round. ",
+      "zhCN": "10级起，化形异变者获得额外的异变能力选项，并且在使用诱变剂前可以选择3个特殊异变能力。\n猛扑 - 冲锋后能够进行一次整轮攻击。\n绊摔 - 每轮第一次近战攻击命中时可以用自由动作进行一次尝试绊摔。"
+    },
+    {
+      "Key": "6afc64c11f45406db69d8277f5aa03cd",
+      "SimpleName": "BeastmorphBeastformGreaterMutagenFeature.Name",
+      "ProcessTemplates": false,
+      "enGB": "Greater Beastform Mutagen",
+      "zhCN": "高级兽形突变"
+    },
+    {
+      "Key": "8536c826f0a440fc97d5071f2b22afd9",
+      "SimpleName": "BeastmorphBeastformImprovedMutagenFeature.Description",
+      "ProcessTemplates": true,
+      "enGB": "At 6th level, a beastmorph’s mutagen grants him additional abilities and options. He may select two different abilities at once before using his mutagen, and the following effects are added to the list of beastform options. \nSpeed - Your movement speed is increased by 10 feet, increasing to 20 feet at 10th level, and 30 feet at 14th level. \nBuoyancy - You are immune to ground effects and being tripped. ",
+      "zhCN": "6级起，化形异变者获得额外的异变能力选项，并且在使用诱变剂前可以选择2个特殊异变能力。\n速度 - 速度增加10尺，10级起加值增加到20尺，14级起增加到30尺。\n漂浮 - 免疫地面效果和绊摔。"
+    },
+    {
+      "Key": "a4bf956c318949f0ac27813eb6061d2c",
+      "SimpleName": "BeastmorphBeastformImprovedMutagenFeature.Name",
+      "ProcessTemplates": false,
+      "enGB": "Improved Beastform Mutagen",
+      "zhCN": "进阶兽形突变"
+    },
+    {
+      "Key": "d31d0f2333f14cc2ab94e43beda9f683",
+      "SimpleName": "BeastmorphBeastformMutagenBase.Description",
+      "ProcessTemplates": true,
+      "enGB": "A beastmorph’s mutagen causes him to take on animalistic features. Before using his mutagen the beastmorph may select one of the following additional effects to gain for the duration of his mutagens effect.",
+      "zhCN": "化形异变者的诱变剂将带给他动物的特性，使用药剂期间可以从如下异变能力中选择1项，在诱变剂有效期期间生效。"
+    },
+    {
+      "Key": "eab6b4a5658d4ae190311f2b110350d1",
+      "SimpleName": "BeastmorphBeastformMutagenBlindsenseBuff.Name",
+      "ProcessTemplates": false,
+      "enGB": "Beastform Mutagen - Blindsense Toggle",
+      "zhCN": "兽形突变（盲感开关）"
+    },
+    {
+      "Key": "1d6f4100794a4114a1fb6dae7c3d6619",
+      "SimpleName": "BeastmorphBeastformMutagenBlindsenseEffectBuff.Description",
+      "ProcessTemplates": true,
+      "enGB": "A beastmorph’s mutagen causes him to take on animalistic features. \nDetect unseen foes within 30 feet, this range does not stack with the range from the scent mutagen.",
+      "zhCN": "化形异变者的诱变剂将带给他动物的特性。\n侦测30尺内隐形单位，范围灵敏嗅觉突变不能叠加。"
+    },
+    {
+      "Key": "31e6cb33caf343ad8b55aad17ab3bd2b",
+      "SimpleName": "BeastmorphBeastformMutagenBlindsenseEffectBuff.Name",
+      "ProcessTemplates": false,
+      "enGB": "Beastform Mutagen - Blindsense",
+      "zhCN": "兽形突变（盲感）"
+    },
+    {
+      "Key": "c6badec4554441469671082f4c7f71c7",
+      "SimpleName": "BeastmorphBeastformMutagenBuoyancyBuff.Name",
+      "ProcessTemplates": false,
+      "enGB": "Beastform Mutagen - Buoyancy Toggle",
+      "zhCN": "兽形突变（漂浮开关）"
+    },
+    {
+      "Key": "47bb5e433c564412bcf991c9f9edead7",
+      "SimpleName": "BeastmorphBeastformMutagenBuoyancyEffectBuff.Description",
+      "ProcessTemplates": true,
+      "enGB": "A beastmorph’s mutagen causes him to take on animalistic features. \nYou are immune to ground effects and being tripped.",
+      "zhCN": "化形异变者的诱变剂将带给他动物的特性。\n免疫地面效果和绊摔。"
+    },
+    {
+      "Key": "5448293f5b3f4fb3a0ef8a708635a091",
+      "SimpleName": "BeastmorphBeastformMutagenBuoyancyEffectBuff.Name",
+      "ProcessTemplates": false,
+      "enGB": "Beastform Mutagen - Buoyancy",
+      "zhCN": "兽形突变（漂浮）"
+    },
+    {
+      "Key": "1f92f6a534a943d4bad63ae3fbffbd79",
+      "SimpleName": "BeastmorphBeastformMutagenEyes.Description",
+      "ProcessTemplates": true,
+      "enGB": "A beastmorph’s mutagen causes him to take on animalistic features. \nGain a +4 bonus to perception.",
+      "zhCN": "化形异变者的诱变剂将带给他动物的特性。\n+4 察觉检定"
+    },
+    {
+      "Key": "0216a9bb658a45a79cda9ebf8d57c98b",
+      "SimpleName": "BeastmorphBeastformMutagenEyesBuff.Name",
+      "ProcessTemplates": false,
+      "enGB": "Beastform Mutagen - Eyes Toggle",
+      "zhCN": "兽形突变（复眼开关）"
+    },
+    {
+      "Key": "40c318e3e12843ebb2d343182441ecc9",
+      "SimpleName": "BeastmorphBeastformMutagenEyesEffectBuff.Description",
+      "ProcessTemplates": true,
+      "enGB": "A beastmorph’s mutagen causes him to take on animalistic features. \nGain a +4 bonus to perception.",
+      "zhCN": "化形异变者的诱变剂将带给他动物的特性。\n获得+4 察觉检定"
+    },
+    {
+      "Key": "1754ae2cb9714202a59b1a49196cea2e",
+      "SimpleName": "BeastmorphBeastformMutagenEyesEffectBuff.Name",
+      "ProcessTemplates": false,
+      "enGB": "Beastform Mutagen - Compound Eyes",
+      "zhCN": "兽形突变（复眼）"
+    },
+    {
+      "Key": "5024b2115bdb4dfba2934750f218640e",
+      "SimpleName": "BeastmorphBeastformMutagenFeature.Description",
+      "ProcessTemplates": true,
+      "enGB": "At 3rd level, a beastmorph’s mutagen causes him to take on animalistic features, such as a furry muzzle and pointed ears like a werewolf, scaly skin like a lizardfolk or sahuagin, or compound eyes and mandibles like a giant insect. Before using his mutagen the beastmorph may select one of the following additional effects for the duration. \nScent - Detect unseen foes within 15 feet by sense of smell, as if you had blindsense. \nScaly Skin - Gain a +2 natural armor bonus to AC. \nCompound Eyes - Gain a +4 bonus to perception.",
+      "zhCN": "3级起，化形异变者的诱变剂将带给他动物的特性，比如动物的皮毛、狼人的尖耳、蜥蜴的鳞皮，或者昆虫的复眼和口气。使用诱变剂前化形异变者可以从下列异变能力中选择1个，在诱变剂期间持续获得效果。\n敏锐嗅觉 - 如同拥有盲感一般，用嗅觉侦测15尺内的不可见敌人。\n鳞皮 - 获得+2天生防御加值。\n复眼 - 获得+4察觉检定。"
+    },
+    {
+      "Key": "1ee9429a4efc42788e3ffce4e719757a",
+      "SimpleName": "BeastmorphBeastformMutagenFeature.Name",
+      "ProcessTemplates": false,
+      "enGB": "Beastform Mutagen",
+      "zhCN": "兽形突变"
+    },
+    {
+      "Key": "7f89170971f645f0b38642961cbee103",
+      "SimpleName": "BeastmorphBeastformMutagenFerocityBuff.Name",
+      "ProcessTemplates": false,
+      "enGB": "Beastform Mutagen - Ferocity Toggle",
+      "zhCN": "兽形突变（凶猛开关）"
+    },
+    {
+      "Key": "d0f3208f18c84653962a31770e98a7d6",
+      "SimpleName": "BeastmorphBeastformMutagenFerocityEffectBuff.Description",
+      "ProcessTemplates": true,
+      "enGB": "A beastmorph’s mutagen causes him to take on animalistic features. \nWhen your hit point total is below 0 but you are not killed, you can fight on for 1 more round.",
+      "zhCN": "化形异变者的诱变剂将带给他动物的特性。\n生命值低于0后依旧意识清醒，可以继续战斗1轮。下个回合结束前，除非生命值回升到0以上，否则会立即失去意识。"
+    },
+    {
+      "Key": "b56ffd91f3e747b09c30d5e9b8ba05a5",
+      "SimpleName": "BeastmorphBeastformMutagenFerocityEffectBuff.Name",
+      "ProcessTemplates": false,
+      "enGB": "Beastform Mutagen - Ferocity",
+      "zhCN": "兽形突变（凶猛）"
+    },
+    {
+      "Key": "19ac0af49e8547d5939db9d19dbfae05",
+      "SimpleName": "BeastmorphBeastformMutagenPounce.Description",
+      "ProcessTemplates": true,
+      "enGB": "A beastmorph’s mutagen causes him to take on animalistic features. \nYou can perform a full attack at the end of your charge.",
+      "zhCN": "化形异变者的诱变剂将带给他动物的特性。\n冲锋后能够进行一次整轮攻击。"
+    },
+    {
+      "Key": "73d2b21a1f4b4dc88e1e178245669c13",
+      "SimpleName": "BeastmorphBeastformMutagenPounceBuff.Name",
+      "ProcessTemplates": false,
+      "enGB": "Beastform Mutagen - Pounce Toggle",
+      "zhCN": "兽形突变（猛扑开关）"
+    },
+    {
+      "Key": "3ce82de447ef43c0908dc81be462fcf7",
+      "SimpleName": "BeastmorphBeastformMutagenPounceEffectBuff.Description",
+      "ProcessTemplates": true,
+      "enGB": "A beastmorph’s mutagen causes him to take on animalistic features. \nYou can perform a full attack at the end of your charge.",
+      "zhCN": "化形异变者的诱变剂将带给他动物的特性。\n冲锋后能够进行一次整轮攻击。"
+    },
+    {
+      "Key": "4841a67e4ed448a4b50a4d6af3ba5a6d",
+      "SimpleName": "BeastmorphBeastformMutagenPounceEffectBuff.Name",
+      "ProcessTemplates": false,
+      "enGB": "Beastform Mutagen - Pounce",
+      "zhCN": "兽形突变（猛扑）"
+    },
+    {
+      "Key": "519cba1324d042a9b24279f50cc26c7f",
+      "SimpleName": "BeastmorphBeastformMutagenScales.Description",
+      "ProcessTemplates": true,
+      "enGB": "A beastmorph’s mutagen causes him to take on animalistic features. \nGain a +2 natural armor bonus to AC.",
+      "zhCN": "化形异变者的诱变剂将带给他动物的特性。\n获得+2天生防御加值。"
+    },
+    {
+      "Key": "7526b4ad43834d09851b02a04411d3b6",
+      "SimpleName": "BeastmorphBeastformMutagenScalesBuff.Name",
+      "ProcessTemplates": false,
+      "enGB": "Beastform Mutagen - Scales Toggle",
+      "zhCN": "兽形突变（鳞皮开关）"
+    },
+    {
+      "Key": "b23027dce29543979511f1c12746c8be",
+      "SimpleName": "BeastmorphBeastformMutagenScalesEffectBuff.Description",
+      "ProcessTemplates": true,
+      "enGB": "A beastmorph’s mutagen causes him to take on animalistic features. \nGain a +2 natural armor bonus to AC.",
+      "zhCN": "化形异变者的诱变剂将带给他动物的特性。\n获得+2天生防御加值。"
+    },
+    {
+      "Key": "3c6391c205614e17a0b0fdb591def39a",
+      "SimpleName": "BeastmorphBeastformMutagenScalesEffectBuff.Name",
+      "ProcessTemplates": false,
+      "enGB": "Beastform Mutagen - Scaly Skin",
+      "zhCN": "兽形突变（鳞皮）"
+    },
+    {
+      "Key": "9e4b9a6a3d5f42f29ccea9c19f2beb95",
+      "SimpleName": "BeastmorphBeastformMutagenScentBuff.Name",
+      "ProcessTemplates": false,
+      "enGB": "Beastform Mutagen - Scent Toggle",
+      "zhCN": "兽形突变（敏锐嗅觉开关）"
+    },
+    {
+      "Key": "c5597f424d294c278e16f91924711e3e",
+      "SimpleName": "BeastmorphBeastformMutagenScentEffectBuff.Description",
+      "ProcessTemplates": true,
+      "enGB": "A beastmorph’s mutagen causes him to take on animalistic features. \nDetect unseen foes within 15 feet by sense of smell, as if you had blindsense.",
+      "zhCN": "化形异变者的诱变剂将带给他动物的特性。\n如同拥有盲感一般，用嗅觉侦测15尺内的不可见敌人。"
+    },
+    {
+      "Key": "ea16385192e44786b915662002500821",
+      "SimpleName": "BeastmorphBeastformMutagenScentEffectBuff.Name",
+      "ProcessTemplates": false,
+      "enGB": "Beastform Mutagen - Scent",
+      "zhCN": "兽形突变（敏锐嗅觉）"
+    },
+    {
+      "Key": "998bccc262e44897af6558b80b807ed4",
+      "SimpleName": "BeastmorphBeastformMutagenSpeed.Description",
+      "ProcessTemplates": true,
+      "enGB": "A beastmorph’s mutagen causes him to take on animalistic features. \nYour movement speed is increased by 10 feet, increasing to 20 feet at 10th level, and 30 feet at 14th level.",
+      "zhCN": "化形异变者的诱变剂将带给他动物的特性。\n速度增加10尺，10级起加值增加到20尺，14级起增加到30尺。"
+    },
+    {
+      "Key": "4f54b8569fb149bd8a2d997f5c0e560d",
+      "SimpleName": "BeastmorphBeastformMutagenSpeedBuff.Name",
+      "ProcessTemplates": false,
+      "enGB": "Beastform Mutagen - Speed Toggle",
+      "zhCN": "兽形突变（速度开关）"
+    },
+    {
+      "Key": "cfaaa75e225e4ee89711b168800661ca",
+      "SimpleName": "BeastmorphBeastformMutagenSpeedEffectBuff.Description",
+      "ProcessTemplates": true,
+      "enGB": "A beastmorph’s mutagen causes him to take on animalistic features. \nYour movement speed is increased by 10 feet, increasing to 20 feet at 10th level, and 30 feet at 14th level.",
+      "zhCN": "化形异变者的诱变剂将带给他动物的特性。\n速度增加10尺，10级起加值增加到20尺，14级起增加到30尺。"
+    },
+    {
+      "Key": "c3c7b46712ba4159aba3b350c2f0571b",
+      "SimpleName": "BeastmorphBeastformMutagenSpeedEffectBuff.Name",
+      "ProcessTemplates": false,
+      "enGB": "Beastform Mutagen - Speed",
+      "zhCN": "兽形突变（速度）"
+    },
+    {
+      "Key": "a98bb875dc614ca281aad8fc90073f6f",
+      "SimpleName": "BeastmorphBeastformMutagenTrip.Description",
+      "ProcessTemplates": true,
+      "enGB": "A beastmorph’s mutagen causes him to take on animalistic features. \nMake a free trip attempt on your first melee attack that hits each round.",
+      "zhCN": "化形异变者的诱变剂将带给他动物的特性。\n每轮第一次近战攻击命中时可以用自由动作进行一次尝试绊摔。"
+    },
+    {
+      "Key": "176bef4ed33646b1aa2c110c0817471e",
+      "SimpleName": "BeastmorphBeastformMutagenTripBuff.Name",
+      "ProcessTemplates": false,
+      "enGB": "Beastform Mutagen - Trip Toggle",
+      "zhCN": "兽形突变（绊摔开关）"
+    },
+    {
+      "Key": "fea05887f75d41c3be0b52546b76452f",
+      "SimpleName": "BeastmorphBeastformMutagenTripEffectBuff.Description",
+      "ProcessTemplates": true,
+      "enGB": "A beastmorph’s mutagen causes him to take on animalistic features. \nMake a free trip attempt on your first melee attack that hits each round.",
+      "zhCN": "化形异变者的诱变剂将带给他动物的特性。\n每轮第一次近战攻击命中时可以用自由动作进行一次尝试绊摔。"
+    },
+    {
+      "Key": "11971167cd0b4a09ae458cce83ad3046",
+      "SimpleName": "BeastmorphBeastformMutagenTripEffectBuff.Name",
+      "ProcessTemplates": false,
+      "enGB": "Beastform Mutagen - Trip",
+      "zhCN": "兽形突变（绊摔）"
+    },
+    {
+      "Key": "a410d0e92dee471db14c0c6855cb3ecb",
+      "SimpleName": "BeastmorphBeastformMutagenWeb.Description",
+      "ProcessTemplates": true,
+      "enGB": "A beastmorph’s mutagen causes him to take on animalistic features. \nYou gain the ability to fire webs as if a spider, you must wait one minute between uses and the DC of the web is 10 + half your level + constitution modifier.",
+      "zhCN": "化形异变者的诱变剂将带给他动物的特性。\n允许如同蜘蛛一样射出蛛网，使用间隔为1分钟，DC为10 + 化形异变者等级一半 + 体质调整。"
+    },
+    {
+      "Key": "3f5c6615692e43c08d0371516062f4cb",
+      "SimpleName": "BeastmorphBeastformMutagenWebBuff.Name",
+      "ProcessTemplates": false,
+      "enGB": "Beastform Mutagen - Web Toggle",
+      "zhCN": "兽形突变（蛛网开关）"
+    },
+    {
+      "Key": "cd7acb6dfd4f4bf9b15bddc5222f407c",
+      "SimpleName": "BeastmorphBeastformMutagenWebEffectBuff.Description",
+      "ProcessTemplates": true,
+      "enGB": "A beastmorph’s mutagen causes him to take on animalistic features. \nYou gain the ability to fire webs as if a spider, you must wait one minute between uses and the DC of the web is 10 + half your level + constitution modifier.",
+      "zhCN": "化形异变者的诱变剂将带给他动物的特性。\n允许如同蜘蛛一样射出蛛网，使用间隔为1分钟，DC为10 + 化形异变者等级一半 + 体质调整。"
+    },
+    {
+      "Key": "4829700ed9984e85b023cb7b3f436918",
+      "SimpleName": "BeastmorphBeastformMutagenWebEffectBuff.Name",
+      "ProcessTemplates": false,
+      "enGB": "Beastform Mutagen - Web",
+      "zhCN": "兽形突变（蛛网）"
+    },
+    {
+      "Key": "4709926c70d04236a1051247331a7b28",
+      "SimpleName": "SoldierOfGaiaArchetype.Description",
+      "ProcessTemplates": false,
+      "enGB": "Every war needs soldiers. Most people don’t know it, but a war rages every day between the forces of the natural world and those that would defile and destroy it. Whether these enemies be the obscene monstrosities of other planes or the foulness known as “civilization”, Golarion calls upon a few mortal emissaries to serve as her warriors in this fight.",
+      "zhCN": "每一场战争都需要士兵。大多数人并不知道，但自然世界的力量与那些企图玷污和破坏它的势力之间，每天都在上演激烈的战争。无论是为了对抗来自其他位面的可憎怪物，还是为了阻挡那些被称为文明的污秽之物，格拉利昂都在召唤少数凡人使者，在这场战斗中担任她的战士。"
+    },
+    {
+      "Key": "8beeeaa60450470cb4b5dcfa11ea76de",
+      "SimpleName": "SoldierOfGaiaArchetype.Name",
+      "ProcessTemplates": false,
+      "enGB": "Soldier of Gaia",
+      "zhCN": "盖亚军士"
+    },
+    {
+      "Key": "25ca3fa46eed48c9b8f2602c9acfd5b6",
+      "SimpleName": "SoldierOfGaiaBlessingSelection.Description",
+      "ProcessTemplates": true,
+      "enGB": "At least one of a soldier’s blessings must be drawn from the following list: Air, Animal, Earth, Fire, Plant, Water, or Weather. \nThe soldier cannot worship a deity that does not offer at least one of those blessings. ",
+      "zhCN": "军士必须从下列列表中选择祝福：动物、天气、大地、植物、流水、火焰、空气。\n军士必须选择至少能提供上述一项祝福的神祇。"
+    },
+    {
+      "Key": "6e8908bfe1854c86ba0689b71f36876d",
+      "SimpleName": "SoldierOfGaiaBlessingSelection.Name",
+      "ProcessTemplates": false,
+      "enGB": "Soldier's Blessing",
+      "zhCN": "军士赐福"
+    },
+    {
+      "Key": "a78b6557b0ff4ec5998dfed2c19edb86",
+      "SimpleName": "SoldierOfGaiaFriendOfTheForestAbility.Description",
+      "ProcessTemplates": true,
+      "enGB": "A soldier of gaia can call upon their connection with nature to receive aid from the natural world. \nEvery enemy within the area of the spell is the target of a combat maneuver check made to grapple each round at the beginning of your turn, as well as when entering the area. The CMB of this grapple attempt is equal to your warpriest level plus 5, increasing to plus 10 when trying to escape the grapple.",
+      "zhCN": "7级起，每日1次，盖亚军士可以召唤自然的联结来获取自然世界的救助。\n法术范围内每个敌人在你的回合开始时或者进入区域时，成为擒抱战技检定的目标。擒抱尝试的CMB等于你的战斗祭司等级+5，在试图摆脱擒抱时增加到+10。"
     }
-  ]
-}
+    {
+      "Key": "f0e54e48c5a4444ab06caaff15936fdb",
+      "SimpleName": "SoldierOfGaiaFriendOfTheForestBuff.Description",
+      "ProcessTemplates": true,
+      "enGB": "A soldier of gaia can call upon their connection with nature to receive aid from the natural world. \nEvery enemy within the area of the spell is the target of a combat maneuver check made to grapple each round at the beginning of your turn, as well as when entering the area. The CMB of this grapple attempt is equal to your warpriest level plus 5, increasing to plus 10 when trying to escape the grapple.",
+      "zhCN": "7级起，每日1次，盖亚军士可以召唤自然的联结来获取自然世界的救助。\n法术范围内每个敌人在你的回合开始时或者进入区域时，成为擒抱战技检定的目标。擒抱尝试的CMB等于你的战斗祭司等级+5，在试图摆脱擒抱时增加到+10。"
+    },
+    {
+      "Key": "3273bcc8c00b410ba9916fd6ac272504",
+      "SimpleName": "SoldierOfGaiaFriendOfTheForestBuff.Name",
+      "ProcessTemplates": false,
+      "enGB": "Friend of the Forest",
+      "zhCN": "森林之友"
+    },
+    {
+      "Key": "3ae814bb880040db90c56607d10af542",
+      "SimpleName": "SoldierOfGaiaFriendOfTheForestFeature.Description",
+      "ProcessTemplates": true,
+      "enGB": "At 7th level, once per day, a soldier of gaia can call upon their connection with nature to receive aid from the natural world. \nEvery enemy within the area of the spell is the target of a combat maneuver check made to grapple each round at the beginning of your turn, as well as when entering the area. The CMB of this grapple attempt is equal to your warpriest level plus 5, increasing to plus 10 when trying to escape the grapple. \nA soldier of gaia can use this ability twice per day at 13th level and three times per day at 19th level.",
+      "zhCN": "7级起，每日1次，盖亚军士可以召唤自然的联结来获取自然世界的救助。\n法术范围内每个敌人在你的回合开始时或者进入区域时，成为擒抱战技检定的目标。擒抱尝试的CMB等于你的战斗祭司等级+5，在试图摆脱擒抱时增加到+10。\n盖亚士兵13级起可以每天使用该能力2次，19级起3次。"
+    },
+    {
+      "Key": "5624e05bf7b142339ff134ae0b542f5b",
+      "SimpleName": "SoldierOfGaiaSpontaneousCasting.Description",
+      "ProcessTemplates": true,
+      "enGB": "A soldier of gaia can expend any prepared spell of 1st level or higher to cast a summon nature’s ally spell of that level.",
+      "zhCN": "盖亚军士可以将1级或者更高的已准备法术转化为召唤自然盟友法术。"
+    },
+    {
+      "Key": "48480ad0f79144b985e9bf9d38c97f4f",
+      "SimpleName": "SoldierOfGaiaSpontaneousCasting.Name",
+      "ProcessTemplates": false,
+      "enGB": "Spontaneous Casting",
+      "zhCN": "自发施法"
+    },
+    {
+      "Key": "aba9a8f7e9ba4cb58bdd4543f0ebe0b5",
+      "SimpleName": "VerminShapeICentipedeAbility.Description",
+      "ProcessTemplates": true,
+      "enGB": "You become a giant-centipede. You gain a +2 size bonus to Strength and Constitution and a +3 natural armor bonus. You gain two 1d6 bite attacks plus poison, cannot be be tripped, and have a +2 resistance bonus on all saving throws against mind-affecting effects.",
+      "zhCN": "你变身为蜈蚣形态，获得以下增益：力量和体质获得+2体型加值、+3天生防御加值；拥有两次1d6啮咬攻击附加毒素效果，免疫拌摔，并对影响心智的效果获得所有豁免+2抗性加值。"
+    },
+    {
+      "Key": "0c1fb255d3264a33b3719616d77340a2",
+      "SimpleName": "VerminShapeICentipedeBuff.Description",
+      "ProcessTemplates": true,
+      "enGB": "You are in centipede form now. You have a +2 size bonus to Strength and Constitution and a +3 natural armor bonus. You have two 1d6 bite attacks plus poison, cannot be be tripped, and have a +2 resistance bonus on all saving throws against mind-affecting effects.",
+      "zhCN": "你变身为蜈蚣形态，获得以下增益：力量和体质获得+2体型加值、+3天生防御加值；拥有两次1d6啮咬攻击附加毒素效果，免疫拌摔，并对影响心智的效果获得所有豁免+2抗性加值。"
+    },
+    {
+      "Key": "098600e2820544528c21a19437a6e233",
+      "SimpleName": "VerminShapeICentipedeBuff.Name",
+      "ProcessTemplates": false,
+      "enGB": "Vermin Shape (Centipede)",
+      "zhCN": "虫类形态（蜈蚣）"
+    },
+    {
+      "Key": "cab12f1e62ef4638ac75f63aa21e9f24",
+      "SimpleName": "VerminShapeIFlyAbility.Description",
+      "ProcessTemplates": true,
+      "enGB": "You become a giant-fly. You gain a +2 size bonus to Strength and Constitution and a +3 natural armor bonus. Your movement speed is increased by 10 feet. You have two 1d6 bite attacks, trip and ground effect immunity, and have a +2 resistance bonus on all saving throws against mind-affecting effects.",
+      "zhCN": "你变身为巨型苍蝇形态，获得以下增益：力量和体质获得+2体型加值、+3天生防御加值。移动速度提升10尺。拥有两次1d6啮咬攻击，免疫拌摔与地面效果，并对影响心智的效果获得所有豁免+2抗性加值。"
+    },
+    {
+      "Key": "ea3d6f56972f4a14a68ff14725b1a563",
+      "SimpleName": "VerminShapeIFlyBuff.Description",
+      "ProcessTemplates": true,
+      "enGB": "You are in giant fly form now. You have a +2 size bonus to Strength and Constitution and a +3 natural armor bonus. Your movement speed is increased by 10 feet. You have two 1d6 bite attacks, trip and ground effect immunity, and have a +2 resistance bonus on all saving throws against mind-affecting effects.",
+      "zhCN": "你变身为巨型苍蝇形态，获得以下增益：力量和体质获得+2体型加值、+3天生防御加值。移动速度提升10尺。拥有两次1d6啮咬攻击，免疫拌摔与地面效果，并对影响心智的效果获得所有豁免+2抗性加值。"
+    },
+    {
+      "Key": "c3f4c844433a4528b104dd59fd982cf9",
+      "SimpleName": "VerminShapeIFlyBuff.Name",
+      "ProcessTemplates": false,
+      "enGB": "Vermin Shape (Giant Fly)",
+      "zhCN": "虫类形态（巨苍蝇）"
+    },
+    {
+      "Key": "cb58fd94e7544c3dabdd0dd574ba957f",
+      "SimpleName": "VerminShapeIIAbility.Description",
+      "ProcessTemplates": true,
+      "enGB": "You become a giant spider. You gain a +4 size bonus to your Strength, a -2 penalty to your Dexterity, a +2 size bonus to your Constitution, +5 natural armor bonus, trip immunity, web immunity, and a web ability with a (DC of 10 + half the casters level + their Constitution modifier); after use, the web ability cannot be used for 1 minute. Your movement speed is increased by 10 feet. You have have two 2d6 bite attacks plus poison",
+      "zhCN": "你变身为巨型蜘蛛，获得以下增益：力量获得+4体型加值、-2敏捷、体质获得+2体型加值、+5天生防御、免疫拌摔、免疫蛛网，并获得蛛网能力（DC为10+施法者等级的一半+体质调整值）；该蛛网能力使用后1分钟内无法再次使用。移动速度提升10尺。拥有两次2d6啮咬攻击附加毒素效果。"
+    },
+    {
+      "Key": "070d89322d4a43d78d35a0e5bb99f134",
+      "SimpleName": "VerminShapeIIAbility.Name",
+      "ProcessTemplates": false,
+      "enGB": "Vermin Shape II",
+      "zhCN": "虫类形态 II"
+    },
+    {
+      "Key": "0c69a40924e345379b6f00dec4eabf33",
+      "SimpleName": "VerminShapeIISpiderBuff.Description",
+      "ProcessTemplates": true,
+      "enGB": "You become a giant spider. You gain a +4 size bonus to your Strength, a -2 penalty to your Dexterity, a +2 size bonus to your Constitution, +5 natural armor bonus, trip immunity, web immunity, and a web ability with a (DC of 10 + half the casters level + their Constitution modifier); after use, the web ability cannot be used for 1 minute. Your movement speed is increased by 10 feet. You have have two 2d6 bite attacks plus poison",
+      "zhCN": "你变身为巨型蜘蛛，获得以下增益：力量获得+4体型加值、-2敏捷、体质获得+2体型加值、+5天生防御、免疫拌摔、免疫蛛网，并获得蛛网能力（DC为10+施法者等级的一半+体质调整值）；该蛛网能力使用后1分钟内无法再次使用。移动速度提升10尺。拥有两次2d6啮咬攻击附加毒素效果。"
+    },
+    {
+      "Key": "22cc3cb66c3e4312aa0894a47ebe55fa",
+      "SimpleName": "VerminShapeIISpiderBuff.Name",
+      "ProcessTemplates": false,
+      "enGB": "Vermin Shape (Giant Spider)",
+      "zhCN": "虫类形态（巨蜘蛛）"
+    },
+    {
+      "Key": "e41bf4d7eaca416ca78fe6019ed1d197",
+      "SimpleName": "VerminShapeIParentAbility.Description",
+      "ProcessTemplates": true,
+      "enGB": "You become a giant-centipede or a giant-fly.",
+      "zhCN": "你变成巨蜈蚣或者巨苍蝇。"
+    },
+    {
+      "Key": "120a627786964805bd8e7e09e83cd4f4",
+      "SimpleName": "VerminShapeWebAbility.Description",
+      "ProcessTemplates": true,
+      "enGB": "Web creates a many-layered mass of strong, sticky strands. These strands trap those caught in them. Creatures caught within a web become grappled by the sticky fibers.\nAnyone in the effect's area when spider's web is cast must make a Reflex save. If this save succeeds, the creature is inside the web but is otherwise unaffected. If the save fails, the creature gains the grappled condition, but can break free by making a combat maneuver check, Athletics check, or Mobility check as a standard action against the DC of this ability. The entire area of the web is considered difficult terrain. Anyone moving through the webs must make a Reflex save each round. Creatures that fail lose their movement and become grappled in the first square of webbing that they enter. Spiders are immune to this ability. \nAfter use you cannot use this ability for 1 minute.",
+      "zhCN": "蛛网术生成一片由多层强韧粘丝构成的区域。被困于其中的目标将被蛛丝束缚。陷入蛛网的生物会被粘性纤维擒抱。\n当法术施放时，位于效果区域内的所有生物必须进行反射豁免。豁免成功者虽身处蛛网但不受影响；豁免失败者陷入擒抱状态，但可通过标准动作以战技检定、运动检定或灵巧检定对抗该能力DC来挣脱。整片蛛网区域视为困难地形。任何穿越蛛网的生物每轮都需进行反射豁免，失败者将失去移动能力并在进入的第一个蛛网方格内被擒抱。蜘蛛类生物对此能力免疫。\n使用该能力后，1分钟内无法再次使用。"
+    },
+    {
+      "Key": "9dc3e68fae83453589a31f89e2af6d46",
+      "SimpleName": "VerminShapeWebAbilityCooldown.Description",
+      "ProcessTemplates": true,
+      "enGB": "After use you cannot use the spiders web ability for 1 minute.",
+      "zhCN": "使用后你在1分钟内不能再次使用蛛网。"
+    },
+    {
+      "Key": "9d6413d4f57c468f80306602e0499e65",
+      "SimpleName": "VerminShapeWebAbilityCooldown.Name",
+      "ProcessTemplates": false,
+      "enGB": "Web Ability Cooldown",
+      "zhCN": "蛛网冷却中"
+    }
+    
+    
+    
+    {
+      "Key": "a0e6bd20ba9f40f190b579fc01b9e166",
+      "SimpleName": "InsanityDomainBaseAbility.Description",
+      "ProcessTemplates": true,
+      "enGB": "You can touch a willing creature as a standard action, granting it a +4 bonus on all saving throws made against mind-affecting effects and immunity to confusion. This bonus lasts for 1 minute. If the creature fails a saving throw against a mind-affecting effect during this period, it loses its immunity to confusion and is immediately confused for one round. You can use this ability a number of times per day equal to 3 + your Wisdom modifier.",
+      "zhCN": ""
+    },
+    {
+      "Key": "d4b871b2e11b4e0a926f998e23b901dd",
+      "SimpleName": "InsanityDomainBaseAbility.Name",
+      "ProcessTemplates": false,
+      "enGB": "Insane Focus",
+      "zhCN": ""
+    },
+    {
+      "Key": "94278fd035fd4d96bae59a0e0e29b04d",
+      "SimpleName": "InsanityDomainBaseAbilitySeparatist.Description",
+      "ProcessTemplates": true,
+      "enGB": "You can touch a willing creature as a standard action, granting it a +4 bonus on all saving throws made against mind-affecting effects and immunity to confusion. This bonus lasts for 1 minute. If the creature fails a saving throw against a mind-affecting effect during this period, it loses its immunity to confusion and is immediately confused for one round. You can use this ability a number of times per day equal to 3 + your Wisdom modifier.",
+      "zhCN": ""
+    },
+    {
+      "Key": "87639bad93bd4da5b50e87f639ddedb6",
+      "SimpleName": "InsanityDomainBaseBuff.Description",
+      "ProcessTemplates": true,
+      "enGB": "You have a +4 bonus on all saving throws made against mind-affecting effects and immunity to confusion. This bonus lasts for 1 minute. If you fail a saving throw against a mind-affecting effect during this period, you lose your immunity to confusion and are immediately confused for one round.",
+      "zhCN": ""
+    },
+    {
+      "Key": "a8b894ea9ae04818b074b24bfa171c1f",
+      "SimpleName": "InsanityDomainBaseBuff.Name",
+      "ProcessTemplates": false,
+      "enGB": "Insanity Beacon - DC",
+      "zhCN": ""
+    },
+    {
+      "Key": "23414c3056ea43689a4b337ff133c0fa",
+      "SimpleName": "InsanityDomainBaseFeature.Description",
+      "ProcessTemplates": true,
+      "enGB": "\nYou see it, the uncertain uncertainty; you can help them understand, make them understand. \nInsane Focus: You can touch a willing creature as a standard action, granting it a +4 bonus on all saving throws made against mind-affecting effects and immunity to confusion. This bonus lasts for 1 minute. If the creature fails a saving throw against a mind-affecting effect during this period, it loses its immunity to confusion and is immediately confused for one round. You can use this ability a number of times per day equal to 3 + your Wisdom modifier. \nAura of Madness: At 8th level, you can emit a 30-foot aura of madness for a number of rounds per day equal to your level in the class that gave you access to this domain. Enemies within this aura are affected by confusion unless they make a Will save with a DC equal to 10 + 1/2 your level in the class that gave you access to this domain + your Wisdom modifier. The confusion effect ends immediately when the creature leaves the area or the aura expires. Creatures that succeed on their saving throw are immune to this aura for 24 hours.",
+      "zhCN": ""
+    },
+    {
+      "Key": "8052c8ed90a94c8c908318a7d1058d7d",
+      "SimpleName": "InsanityDomainBaseFeature.Name",
+      "ProcessTemplates": false,
+      "enGB": "Insanity Subdomain",
+      "zhCN": ""
+    },
+    {
+      "Key": "e6ac04f94524446ab16dc52d115713e9",
+      "SimpleName": "InsanityDomainBaseFeatureSeparatist.Description",
+      "ProcessTemplates": true,
+      "enGB": "\nYou see it, the uncertain uncertainty; you can help them understand, make them understand. \nInsane Focus: You can touch a willing creature as a standard action, granting it a +4 bonus on all saving throws made against mind-affecting effects and immunity to confusion. This bonus lasts for 1 minute. If the creature fails a saving throw against a mind-affecting effect during this period, it loses its immunity to confusion and is immediately confused for one round. You can use this ability a number of times per day equal to 3 + your Wisdom modifier. \nAura of Madness: At 8th level, you can emit a 30-foot aura of madness for a number of rounds per day equal to your level in the class that gave you access to this domain. Enemies within this aura are affected by confusion unless they make a Will save with a DC equal to 10 + 1/2 your level in the class that gave you access to this domain + your Wisdom modifier. The confusion effect ends immediately when the creature leaves the area or the aura expires. Creatures that succeed on their saving throw are immune to this aura for 24 hours.",
+      "zhCN": ""
+    },
+    {
+      "Key": "91fd7f455ed047159ee548b62dc19211",
+      "SimpleName": "InsanityDomainProgression.Description",
+      "ProcessTemplates": true,
+      "enGB": "\nYou see it, the uncertain uncertainty; you can help them understand, make them understand. \nInsane Focus: You can touch a willing creature as a standard action, granting it a +4 bonus on all saving throws made against mind-affecting effects and immunity to confusion. This bonus lasts for 1 minute. If the creature fails a saving throw against a mind-affecting effect during this period, it loses its immunity to confusion and is immediately confused for one round. You can use this ability a number of times per day equal to 3 + your Wisdom modifier. \nAura of Madness: At 8th level, you can emit a 30-foot aura of madness for a number of rounds per day equal to your level in the class that gave you access to this domain. Enemies within this aura are affected by confusion unless they make a Will save with a DC equal to 10 + 1/2 your level in the class that gave you access to this domain + your Wisdom modifier. The confusion effect ends immediately when the creature leaves the area or the aura expires. Creatures that succeed on their saving throw are immune to this aura for 24 hours. \nDomain Spells: cause fear, cacophonous call, rage, moonstruck, feeblemind, phantasmal web, insanity, frightful aspect, weird.",
+      "zhCN": ""
+    },
+    {
+      "Key": "7dba00e6caed46199dc516938ebe7b0c",
+      "SimpleName": "InsanityDomainProgressionSecondary.Description",
+      "ProcessTemplates": true,
+      "enGB": "\nYou see it, the uncertain uncertainty; you can help them understand, make them understand. \nInsane Focus: You can touch a willing creature as a standard action, granting it a +4 bonus on all saving throws made against mind-affecting effects and immunity to confusion. This bonus lasts for 1 minute. If the creature fails a saving throw against a mind-affecting effect during this period, it loses its immunity to confusion and is immediately confused for one round. You can use this ability a number of times per day equal to 3 + your Wisdom modifier. \nAura of Madness: At 8th level, you can emit a 30-foot aura of madness for a number of rounds per day equal to your level in the class that gave you access to this domain. Enemies within this aura are affected by confusion unless they make a Will save with a DC equal to 10 + 1/2 your level in the class that gave you access to this domain + your Wisdom modifier. The confusion effect ends immediately when the creature leaves the area or the aura expires. Creatures that succeed on their saving throw are immune to this aura for 24 hours. \nDomain Spells: cause fear, cacophonous call, rage, moonstruck, feeblemind, phantasmal web, insanity, frightful aspect, weird.",
+      "zhCN": ""
+    },
+    {
+      "Key": "daf9e829f7bd4b25a23b8e49edc8638a",
+      "SimpleName": "InsanityDomainProgressionSeparatist.Description",
+      "ProcessTemplates": true,
+      "enGB": "\nYou see it, the uncertain uncertainty; you can help them understand, make them understand. \nInsane Focus: You can touch a willing creature as a standard action, granting it a +4 bonus on all saving throws made against mind-affecting effects and immunity to confusion. This bonus lasts for 1 minute. If the creature fails a saving throw against a mind-affecting effect during this period, it loses its immunity to confusion and is immediately confused for one round. You can use this ability a number of times per day equal to 3 + your Wisdom modifier. \nAura of Madness: At 8th level, you can emit a 30-foot aura of madness for a number of rounds per day equal to your level in the class that gave you access to this domain. Enemies within this aura are affected by confusion unless they make a Will save with a DC equal to 10 + 1/2 your level in the class that gave you access to this domain + your Wisdom modifier. The confusion effect ends immediately when the creature leaves the area or the aura expires. Creatures that succeed on their saving throw are immune to this aura for 24 hours. \nDomain Spells: cause fear, cacophonous call, rage, moonstruck, feeblemind, phantasmal web, insanity, frightful aspect, weird.",
+      "zhCN": ""
     }
   ]
 }
