@@ -29068,7 +29068,7 @@
       "SimpleName": "SoldierOfGaiaFriendOfTheForestBuff.Description",
       "ProcessTemplates": true,
       "enGB": "A soldier of gaia can call upon their connection with nature to receive aid from the natural world. \nEvery enemy within the area of the spell is the target of a combat maneuver check made to grapple each round at the beginning of your turn, as well as when entering the area. The CMB of this grapple attempt is equal to your warpriest level plus 5, increasing to plus 10 when trying to escape the grapple.",
-      "zhCN": "7级起，每日1次，盖亚军士可以召唤自然的联结来获取自然世界的救助。\n法术范围内每个敌人在你的回合开始时或者进入区域时，成为擒抱战技检定的目标。擒抱尝试的CMB等于你的战斗祭司等级+5，在试图摆脱擒抱时增加到+10。"
+      "zhCN": "7级起，每日1次，盖亚军士可以召唤自然的联结来获取自然世界的帮助。\n法术范围内每个敌人在你的回合开始时或者进入区域时，成为擒抱战技检定的目标。擒抱尝试的CMB等于你的战斗祭司等级+5，在试图摆脱擒抱时增加到+10。"
     },
     {
       "Key": "3273bcc8c00b410ba9916fd6ac272504",
@@ -29082,7 +29082,7 @@
       "SimpleName": "SoldierOfGaiaFriendOfTheForestFeature.Description",
       "ProcessTemplates": true,
       "enGB": "At 7th level, once per day, a soldier of gaia can call upon their connection with nature to receive aid from the natural world. \nEvery enemy within the area of the spell is the target of a combat maneuver check made to grapple each round at the beginning of your turn, as well as when entering the area. The CMB of this grapple attempt is equal to your warpriest level plus 5, increasing to plus 10 when trying to escape the grapple. \nA soldier of gaia can use this ability twice per day at 13th level and three times per day at 19th level.",
-      "zhCN": "7级起，每日1次，盖亚军士可以召唤自然的联结来获取自然世界的救助。\n法术范围内每个敌人在你的回合开始时或者进入区域时，成为擒抱战技检定的目标。擒抱尝试的CMB等于你的战斗祭司等级+5，在试图摆脱擒抱时增加到+10。\n盖亚士兵13级起可以每天使用该能力2次，19级起3次。"
+      "zhCN": "7级起，每日1次，盖亚军士可以召唤自然的联结来获取自然世界的帮助。\n法术范围内每个敌人在你的回合开始时或者进入区域时，成为擒抱战技检定的目标。擒抱尝试的CMB等于你的战斗祭司等级+5，在试图摆脱擒抱时增加到+10。\n盖亚军士13级起可以每天使用该能力2次，19级起3次。"
     },
     {
       "Key": "5624e05bf7b142339ff134ae0b542f5b",
