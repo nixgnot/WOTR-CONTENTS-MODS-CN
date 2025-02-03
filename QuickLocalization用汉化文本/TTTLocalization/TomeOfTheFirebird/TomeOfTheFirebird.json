@@ -276,14 +276,6 @@
       "zhCN": "奥法传贤者"
     },
     {
-      "Key": "DragonClaws1d4DamageFeature.Desc",
-      "zhCN": "1级起，你能够以{g|Encyclopedia:Free_Action}自由动作{/g}长出利爪。利爪被视为{g|Encyclopedia:NaturalAttack}天生武器{/g}，使你能够在整轮{g|Encyclopedia:Attack}攻击{/g}时，以最高{g|Encyclopedia:BAB}基础攻击加值{/g}进行2次爪抓攻击。每次攻击造成{g|Encyclopedia:Dice}1d4{/g}（小体型则为1d3点）+{g|Encyclopedia:Strength}力量{/g}调整值的{g|Encyclopedia:Damage}伤害{/g}。达到5级后，利爪在穿透{g|Encyclopedia:Damage_Reduction}伤害减免{/g}时可视为魔法武器。达到7级后，伤害提高一级，变为1d6点（小体型则为1d4点）。达到11级后，利爪在攻击命中后额外造成1d6点{g|Encyclopedia:Energy_Damage}伤害（类型取决于血承）{/g}。你每天可使用爪抓的{g|Encyclopedia:Combat_Round}轮数{/g}等于3+{g|Encyclopedia:Charisma}魅力{/g}调整值。生效轮次无需连续。"
-    },
-    {
-      "Key": "DragonClaws1d4DamageFeature.Name",
-      "zhCN": "龙爪"
-    },
-    {
       "Key": "ElementalStrikesFireBurstBuff.Desc",
       "zhCN": "元素打击爆发模式"
     },
