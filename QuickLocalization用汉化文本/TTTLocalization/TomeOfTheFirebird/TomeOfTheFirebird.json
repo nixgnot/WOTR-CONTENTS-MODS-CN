@@ -1167,6 +1167,96 @@
       "Key": "MetakinesisDoubleExpert.Desc",
       "enGB": "Metakinesis - Double now only costs 3 points of burn.",
       "zhCN": "双发超念只消耗3点超载。"
+    },
+    {
+      "Key": "DragonClaws1d4DamageFeature.Name",
+      "enGB": "Dragon Claws",
+      "zhCN": "龙爪"
+    },
+    {
+      "Key": "DragonClaws1d4DamageFeature.Desc",
+      "enGB": "Starting at 1st level, you can grow claws as a {g|Encyclopedia:Free_Action}free action{/g}. These claws are treated as {g|Encyclopedia:NaturalAttack}natural weapons{/g}, allowing you to make two claw {g|Encyclopedia:Attack}attacks{/g} as a full attack using your full {g|Encyclopedia:BAB}base attack bonus{/g}. Each of these attacks deals {g|Encyclopedia:Dice}1d4{/g} points of {g|Encyclopedia:Damage}damage{/g} plus your {g|Encyclopedia:Strength}Strength{/g} modifier (1d3 if you are Small). At 5th level, these claws are considered magic weapons for the purpose of overcoming {g|Encyclopedia:Damage_Reduction}DR{/g}. At 7th level, the damage increases by one step to 1d6 points of damage (1d4 if you are Small). At 11th level, these claws deal an additional 1d6 points of energy damage (type based on bloodline) on a successful hit. You can use your claws for a number of {g|Encyclopedia:Combat_Round}rounds{/g} per day equal to 3 + your {g|Encyclopedia:Charisma}Charisma{/g} modifier. These rounds do not need to be consecutive.",
+      "zhCN": "1级起，你能够以{g|Encyclopedia:Free_Action}自由动作{/g}长出利爪。利爪被视为{g|Encyclopedia:NaturalAttack}天生武器{/g}，使你能够在整轮{g|Encyclopedia:Attack}攻击{/g}时，以最高{g|Encyclopedia:BAB}基础攻击加值{/g}进行2次爪抓攻击。每次攻击造成{g|Encyclopedia:Dice}1d4{/g}（小体型则为1d3点）+{g|Encyclopedia:Strength}力量{/g}调整值的{g|Encyclopedia:Damage}伤害{/g}。达到5级后，利爪在穿透{g|Encyclopedia:Damage_Reduction}伤害减免{/g}时可视为魔法武器。达到7级后，伤害提高一级，变为1d6点（小体型则为1d4点）。达到11级后，利爪在攻击命中后额外造成1d6点{g|Encyclopedia:Energy_Damage}酸蚀伤害{/g}。你每天可使用爪抓的{g|Encyclopedia:Combat_Round}轮数{/g}等于3+{g|Encyclopedia:Charisma}魅力{/g}调整值。生效轮次无需连续。"
+    },
+    {
+      "Key": "BloodlineDraconicUnifiedClawsBuffLevel1.Name",
+      "enGB": "Dragon Claws",
+      "zhCN": "龙爪"
+    },
+    {
+      "Key": "BloodlineDraconicUnifiedClawsBuffLevel1.Desc",
+      "enGB": "Starting at 1st level, you can grow claws as a {g|Encyclopedia:Free_Action}free action{/g}. These claws are treated as {g|Encyclopedia:NaturalAttack}natural weapons{/g}, allowing you to make two claw {g|Encyclopedia:Attack}attacks{/g} as a full attack using your full {g|Encyclopedia:BAB}base attack bonus{/g}. Each of these attacks deals {g|Encyclopedia:Dice}1d4{/g} points of {g|Encyclopedia:Damage}damage{/g} plus your {g|Encyclopedia:Strength}Strength{/g} modifier (1d3 if you are Small). At 5th level, these claws are considered magic weapons for the purpose of overcoming {g|Encyclopedia:Damage_Reduction}DR{/g}. At 7th level, the damage increases by one step to 1d6 points of damage (1d4 if you are Small). At 11th level, these claws deal an additional 1d6 points of energy damage (type based on bloodline) on a successful hit. You can use your claws for a number of {g|Encyclopedia:Combat_Round}rounds{/g} per day equal to 3 + your {g|Encyclopedia:Charisma}Charisma{/g} modifier. These rounds do not need to be consecutive.",
+      "zhCN": "1级起，你能够以{g|Encyclopedia:Free_Action}自由动作{/g}长出利爪。利爪被视为{g|Encyclopedia:NaturalAttack}天生武器{/g}，使你能够在整轮{g|Encyclopedia:Attack}攻击{/g}时，以最高{g|Encyclopedia:BAB}基础攻击加值{/g}进行2次爪抓攻击。每次攻击造成{g|Encyclopedia:Dice}1d4{/g}（小体型则为1d3点）+{g|Encyclopedia:Strength}力量{/g}调整值的{g|Encyclopedia:Damage}伤害{/g}。达到5级后，利爪在穿透{g|Encyclopedia:Damage_Reduction}伤害减免{/g}时可视为魔法武器。达到7级后，伤害提高一级，变为1d6点（小体型则为1d4点）。达到11级后，利爪在攻击命中后额外造成1d6点{g|Encyclopedia:Energy_Damage}酸蚀伤害{/g}。你每天可使用爪抓的{g|Encyclopedia:Combat_Round}轮数{/g}等于3+{g|Encyclopedia:Charisma}魅力{/g}调整值。生效轮次无需连续。"
+    },
+    {
+      "Key": "BloodlineDraconicUnifiedClawsBuffLevel2.Name",
+      "enGB": "Dragon Claws",
+      "zhCN": "龙爪"
+    },
+    {
+      "Key": "BloodlineDraconicUnifiedClawsBuffLevel2.Desc",
+      "enGB": "Starting at 1st level, you can grow claws as a {g|Encyclopedia:Free_Action}free action{/g}. These claws are treated as {g|Encyclopedia:NaturalAttack}natural weapons{/g}, allowing you to make two claw {g|Encyclopedia:Attack}attacks{/g} as a full attack using your full {g|Encyclopedia:BAB}base attack bonus{/g}. Each of these attacks deals {g|Encyclopedia:Dice}1d4{/g} points of {g|Encyclopedia:Damage}damage{/g} plus your {g|Encyclopedia:Strength}Strength{/g} modifier (1d3 if you are Small). At 5th level, these claws are considered magic weapons for the purpose of overcoming {g|Encyclopedia:Damage_Reduction}DR{/g}. At 7th level, the damage increases by one step to 1d6 points of damage (1d4 if you are Small). At 11th level, these claws deal an additional 1d6 points of energy damage (type based on bloodline) on a successful hit. You can use your claws for a number of {g|Encyclopedia:Combat_Round}rounds{/g} per day equal to 3 + your {g|Encyclopedia:Charisma}Charisma{/g} modifier. These rounds do not need to be consecutive.",
+      "zhCN": "1级起，你能够以{g|Encyclopedia:Free_Action}自由动作{/g}长出利爪。利爪被视为{g|Encyclopedia:NaturalAttack}天生武器{/g}，使你能够在整轮{g|Encyclopedia:Attack}攻击{/g}时，以最高{g|Encyclopedia:BAB}基础攻击加值{/g}进行2次爪抓攻击。每次攻击造成{g|Encyclopedia:Dice}1d4{/g}（小体型则为1d3点）+{g|Encyclopedia:Strength}力量{/g}调整值的{g|Encyclopedia:Damage}伤害{/g}。达到5级后，利爪在穿透{g|Encyclopedia:Damage_Reduction}伤害减免{/g}时可视为魔法武器。达到7级后，伤害提高一级，变为1d6点（小体型则为1d4点）。达到11级后，利爪在攻击命中后额外造成1d6点{g|Encyclopedia:Energy_Damage}酸蚀伤害{/g}。你每天可使用爪抓的{g|Encyclopedia:Combat_Round}轮数{/g}等于3+{g|Encyclopedia:Charisma}魅力{/g}调整值。生效轮次无需连续。"
+    },
+    {
+      "Key": "BloodlineDraconicUnifiedClawsBuffLevel3.Name",
+      "enGB": "Dragon Claws",
+      "zhCN": "龙爪"
+    },
+    {
+      "Key": "BloodlineDraconicUnifiedClawsBuffLevel3.Desc",
+      "enGB": "Starting at 1st level, you can grow claws as a {g|Encyclopedia:Free_Action}free action{/g}. These claws are treated as {g|Encyclopedia:NaturalAttack}natural weapons{/g}, allowing you to make two claw {g|Encyclopedia:Attack}attacks{/g} as a full attack using your full {g|Encyclopedia:BAB}base attack bonus{/g}. Each of these attacks deals {g|Encyclopedia:Dice}1d4{/g} points of {g|Encyclopedia:Damage}damage{/g} plus your {g|Encyclopedia:Strength}Strength{/g} modifier (1d3 if you are Small). At 5th level, these claws are considered magic weapons for the purpose of overcoming {g|Encyclopedia:Damage_Reduction}DR{/g}. At 7th level, the damage increases by one step to 1d6 points of damage (1d4 if you are Small). At 11th level, these claws deal an additional 1d6 points of energy damage (type based on bloodline) on a successful hit. You can use your claws for a number of {g|Encyclopedia:Combat_Round}rounds{/g} per day equal to 3 + your {g|Encyclopedia:Charisma}Charisma{/g} modifier. These rounds do not need to be consecutive.",
+      "zhCN": "1级起，你能够以{g|Encyclopedia:Free_Action}自由动作{/g}长出利爪。利爪被视为{g|Encyclopedia:NaturalAttack}天生武器{/g}，使你能够在整轮{g|Encyclopedia:Attack}攻击{/g}时，以最高{g|Encyclopedia:BAB}基础攻击加值{/g}进行2次爪抓攻击。每次攻击造成{g|Encyclopedia:Dice}1d4{/g}（小体型则为1d3点）+{g|Encyclopedia:Strength}力量{/g}调整值的{g|Encyclopedia:Damage}伤害{/g}。达到5级后，利爪在穿透{g|Encyclopedia:Damage_Reduction}伤害减免{/g}时可视为魔法武器。达到7级后，伤害提高一级，变为1d6点（小体型则为1d4点）。达到11级后，利爪在攻击命中后额外造成1d6点{g|Encyclopedia:Energy_Damage}酸蚀伤害{/g}。你每天可使用爪抓的{g|Encyclopedia:Combat_Round}轮数{/g}等于3+{g|Encyclopedia:Charisma}魅力{/g}调整值。生效轮次无需连续。"
+    },
+    {
+      "Key": "BloodlineDraconicUnifiedClawsBuffLeve4.Name",
+      "enGB": "Dragon Claws",
+      "zhCN": "龙爪"
+    },
+    {
+      "Key": "BloodlineDraconicUnifiedClawsBuffLevel4.Desc",
+      "enGB": "Starting at 1st level, you can grow claws as a {g|Encyclopedia:Free_Action}free action{/g}. These claws are treated as {g|Encyclopedia:NaturalAttack}natural weapons{/g}, allowing you to make two claw {g|Encyclopedia:Attack}attacks{/g} as a full attack using your full {g|Encyclopedia:BAB}base attack bonus{/g}. Each of these attacks deals {g|Encyclopedia:Dice}1d4{/g} points of {g|Encyclopedia:Damage}damage{/g} plus your {g|Encyclopedia:Strength}Strength{/g} modifier (1d3 if you are Small). At 5th level, these claws are considered magic weapons for the purpose of overcoming {g|Encyclopedia:Damage_Reduction}DR{/g}. At 7th level, the damage increases by one step to 1d6 points of damage (1d4 if you are Small). At 11th level, these claws deal an additional 1d6 points of energy damage (type based on bloodline) on a successful hit. You can use your claws for a number of {g|Encyclopedia:Combat_Round}rounds{/g} per day equal to 3 + your {g|Encyclopedia:Charisma}Charisma{/g} modifier. These rounds do not need to be consecutive.",
+      "zhCN": "1级起，你能够以{g|Encyclopedia:Free_Action}自由动作{/g}长出利爪。利爪被视为{g|Encyclopedia:NaturalAttack}天生武器{/g}，使你能够在整轮{g|Encyclopedia:Attack}攻击{/g}时，以最高{g|Encyclopedia:BAB}基础攻击加值{/g}进行2次爪抓攻击。每次攻击造成{g|Encyclopedia:Dice}1d4{/g}（小体型则为1d3点）+{g|Encyclopedia:Strength}力量{/g}调整值的{g|Encyclopedia:Damage}伤害{/g}。达到5级后，利爪在穿透{g|Encyclopedia:Damage_Reduction}伤害减免{/g}时可视为魔法武器。达到7级后，伤害提高一级，变为1d6点（小体型则为1d4点）。达到11级后，利爪在攻击命中后额外造成1d6点{g|Encyclopedia:Energy_Damage}酸蚀伤害{/g}。你每天可使用爪抓的{g|Encyclopedia:Combat_Round}轮数{/g}等于3+{g|Encyclopedia:Charisma}魅力{/g}调整值。生效轮次无需连续。"
+    },
+    {
+      "Key": "DragonClawsT1ActivatableAbility.Name",
+      "enGB": "Dragon Claws",
+      "zhCN": "龙爪"
+    },
+    {
+      "Key": "DragonClawsT1ActivatableAbility.Desc",
+      "enGB": "Starting at 1st level, you can grow claws as a {g|Encyclopedia:Free_Action}free action{/g}. These claws are treated as {g|Encyclopedia:NaturalAttack}natural weapons{/g}, allowing you to make two claw {g|Encyclopedia:Attack}attacks{/g} as a full attack using your full {g|Encyclopedia:BAB}base attack bonus{/g}. Each of these attacks deals {g|Encyclopedia:Dice}1d4{/g} points of {g|Encyclopedia:Damage}damage{/g} plus your {g|Encyclopedia:Strength}Strength{/g} modifier (1d3 if you are Small). At 5th level, these claws are considered magic weapons for the purpose of overcoming {g|Encyclopedia:Damage_Reduction}DR{/g}. At 7th level, the damage increases by one step to 1d6 points of damage (1d4 if you are Small). At 11th level, these claws deal an additional 1d6 points of energy damage (type based on bloodline) on a successful hit. You can use your claws for a number of {g|Encyclopedia:Combat_Round}rounds{/g} per day equal to 3 + your {g|Encyclopedia:Charisma}Charisma{/g} modifier. These rounds do not need to be consecutive.",
+      "zhCN": "1级起，你能够以{g|Encyclopedia:Free_Action}自由动作{/g}长出利爪。利爪被视为{g|Encyclopedia:NaturalAttack}天生武器{/g}，使你能够在整轮{g|Encyclopedia:Attack}攻击{/g}时，以最高{g|Encyclopedia:BAB}基础攻击加值{/g}进行2次爪抓攻击。每次攻击造成{g|Encyclopedia:Dice}1d4{/g}（小体型则为1d3点）+{g|Encyclopedia:Strength}力量{/g}调整值的{g|Encyclopedia:Damage}伤害{/g}。达到5级后，利爪在穿透{g|Encyclopedia:Damage_Reduction}伤害减免{/g}时可视为魔法武器。达到7级后，伤害提高一级，变为1d6点（小体型则为1d4点）。达到11级后，利爪在攻击命中后额外造成1d6点{g|Encyclopedia:Energy_Damage}酸蚀伤害{/g}。你每天可使用爪抓的{g|Encyclopedia:Combat_Round}轮数{/g}等于3+{g|Encyclopedia:Charisma}魅力{/g}调整值。生效轮次无需连续。"
+    },
+    {
+      "Key": "DragonClawsT2ActivatableAbility.Name",
+      "enGB": "Dragon Claws",
+      "zhCN": "龙爪"
+    },
+    {
+      "Key": "DragonClawsT2ActivatableAbility.Desc",
+      "enGB": "Starting at 1st level, you can grow claws as a {g|Encyclopedia:Free_Action}free action{/g}. These claws are treated as {g|Encyclopedia:NaturalAttack}natural weapons{/g}, allowing you to make two claw {g|Encyclopedia:Attack}attacks{/g} as a full attack using your full {g|Encyclopedia:BAB}base attack bonus{/g}. Each of these attacks deals {g|Encyclopedia:Dice}1d4{/g} points of {g|Encyclopedia:Damage}damage{/g} plus your {g|Encyclopedia:Strength}Strength{/g} modifier (1d3 if you are Small). At 5th level, these claws are considered magic weapons for the purpose of overcoming {g|Encyclopedia:Damage_Reduction}DR{/g}. At 7th level, the damage increases by one step to 1d6 points of damage (1d4 if you are Small). At 11th level, these claws deal an additional 1d6 points of energy damage (type based on bloodline) on a successful hit. You can use your claws for a number of {g|Encyclopedia:Combat_Round}rounds{/g} per day equal to 3 + your {g|Encyclopedia:Charisma}Charisma{/g} modifier. These rounds do not need to be consecutive.",
+      "zhCN": "1级起，你能够以{g|Encyclopedia:Free_Action}自由动作{/g}长出利爪。利爪被视为{g|Encyclopedia:NaturalAttack}天生武器{/g}，使你能够在整轮{g|Encyclopedia:Attack}攻击{/g}时，以最高{g|Encyclopedia:BAB}基础攻击加值{/g}进行2次爪抓攻击。每次攻击造成{g|Encyclopedia:Dice}1d4{/g}（小体型则为1d3点）+{g|Encyclopedia:Strength}力量{/g}调整值的{g|Encyclopedia:Damage}伤害{/g}。达到5级后，利爪在穿透{g|Encyclopedia:Damage_Reduction}伤害减免{/g}时可视为魔法武器。达到7级后，伤害提高一级，变为1d6点（小体型则为1d4点）。达到11级后，利爪在攻击命中后额外造成1d6点{g|Encyclopedia:Energy_Damage}酸蚀伤害{/g}。你每天可使用爪抓的{g|Encyclopedia:Combat_Round}轮数{/g}等于3+{g|Encyclopedia:Charisma}魅力{/g}调整值。生效轮次无需连续。"
+    },
+    {
+      "Key": "DragonClawsT3ActivatableAbility.Name",
+      "enGB": "Dragon Claws",
+      "zhCN": "龙爪"
+    },
+    {
+      "Key": "DragonClawsT3ActivatableAbility.Desc",
+      "enGB": "Starting at 1st level, you can grow claws as a {g|Encyclopedia:Free_Action}free action{/g}. These claws are treated as {g|Encyclopedia:NaturalAttack}natural weapons{/g}, allowing you to make two claw {g|Encyclopedia:Attack}attacks{/g} as a full attack using your full {g|Encyclopedia:BAB}base attack bonus{/g}. Each of these attacks deals {g|Encyclopedia:Dice}1d4{/g} points of {g|Encyclopedia:Damage}damage{/g} plus your {g|Encyclopedia:Strength}Strength{/g} modifier (1d3 if you are Small). At 5th level, these claws are considered magic weapons for the purpose of overcoming {g|Encyclopedia:Damage_Reduction}DR{/g}. At 7th level, the damage increases by one step to 1d6 points of damage (1d4 if you are Small). At 11th level, these claws deal an additional 1d6 points of energy damage (type based on bloodline) on a successful hit. You can use your claws for a number of {g|Encyclopedia:Combat_Round}rounds{/g} per day equal to 3 + your {g|Encyclopedia:Charisma}Charisma{/g} modifier. These rounds do not need to be consecutive.",
+      "zhCN": "1级起，你能够以{g|Encyclopedia:Free_Action}自由动作{/g}长出利爪。利爪被视为{g|Encyclopedia:NaturalAttack}天生武器{/g}，使你能够在整轮{g|Encyclopedia:Attack}攻击{/g}时，以最高{g|Encyclopedia:BAB}基础攻击加值{/g}进行2次爪抓攻击。每次攻击造成{g|Encyclopedia:Dice}1d4{/g}（小体型则为1d3点）+{g|Encyclopedia:Strength}力量{/g}调整值的{g|Encyclopedia:Damage}伤害{/g}。达到5级后，利爪在穿透{g|Encyclopedia:Damage_Reduction}伤害减免{/g}时可视为魔法武器。达到7级后，伤害提高一级，变为1d6点（小体型则为1d4点）。达到11级后，利爪在攻击命中后额外造成1d6点{g|Encyclopedia:Energy_Damage}酸蚀伤害{/g}。你每天可使用爪抓的{g|Encyclopedia:Combat_Round}轮数{/g}等于3+{g|Encyclopedia:Charisma}魅力{/g}调整值。生效轮次无需连续。"
+    },
+    {
+      "Key": "DragonClawsT4ActivatableAbility.Name",
+      "enGB": "Dragon Claws",
+      "zhCN": "龙爪"
+    },
+    {
+      "Key": "DragonClawsT4ActivatableAbility.Desc",
+      "enGB": "Starting at 1st level, you can grow claws as a {g|Encyclopedia:Free_Action}free action{/g}. These claws are treated as {g|Encyclopedia:NaturalAttack}natural weapons{/g}, allowing you to make two claw {g|Encyclopedia:Attack}attacks{/g} as a full attack using your full {g|Encyclopedia:BAB}base attack bonus{/g}. Each of these attacks deals {g|Encyclopedia:Dice}1d4{/g} points of {g|Encyclopedia:Damage}damage{/g} plus your {g|Encyclopedia:Strength}Strength{/g} modifier (1d3 if you are Small). At 5th level, these claws are considered magic weapons for the purpose of overcoming {g|Encyclopedia:Damage_Reduction}DR{/g}. At 7th level, the damage increases by one step to 1d6 points of damage (1d4 if you are Small). At 11th level, these claws deal an additional 1d6 points of energy damage (type based on bloodline) on a successful hit. You can use your claws for a number of {g|Encyclopedia:Combat_Round}rounds{/g} per day equal to 3 + your {g|Encyclopedia:Charisma}Charisma{/g} modifier. These rounds do not need to be consecutive.",
+      "zhCN": "1级起，你能够以{g|Encyclopedia:Free_Action}自由动作{/g}长出利爪。利爪被视为{g|Encyclopedia:NaturalAttack}天生武器{/g}，使你能够在整轮{g|Encyclopedia:Attack}攻击{/g}时，以最高{g|Encyclopedia:BAB}基础攻击加值{/g}进行2次爪抓攻击。每次攻击造成{g|Encyclopedia:Dice}1d4{/g}（小体型则为1d3点）+{g|Encyclopedia:Strength}力量{/g}调整值的{g|Encyclopedia:Damage}伤害{/g}。达到5级后，利爪在穿透{g|Encyclopedia:Damage_Reduction}伤害减免{/g}时可视为魔法武器。达到7级后，伤害提高一级，变为1d6点（小体型则为1d4点）。达到11级后，利爪在攻击命中后额外造成1d6点{g|Encyclopedia:Energy_Damage}酸蚀伤害{/g}。你每天可使用爪抓的{g|Encyclopedia:Combat_Round}轮数{/g}等于3+{g|Encyclopedia:Charisma}魅力{/g}调整值。生效轮次无需连续。"
     }
   ]
 }
