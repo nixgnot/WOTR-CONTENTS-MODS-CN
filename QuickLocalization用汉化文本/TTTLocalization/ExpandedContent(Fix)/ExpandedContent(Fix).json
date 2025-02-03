@@ -29062,7 +29062,7 @@
       "ProcessTemplates": true,
       "enGB": "A soldier of gaia can call upon their connection with nature to receive aid from the natural world. \nEvery enemy within the area of the spell is the target of a combat maneuver check made to grapple each round at the beginning of your turn, as well as when entering the area. The CMB of this grapple attempt is equal to your warpriest level plus 5, increasing to plus 10 when trying to escape the grapple.",
       "zhCN": "7级起，每日1次，盖亚军士可以召唤自然的联结来获取自然世界的救助。\n法术范围内每个敌人在你的回合开始时或者进入区域时，成为擒抱战技检定的目标。擒抱尝试的CMB等于你的战斗祭司等级+5，在试图摆脱擒抱时增加到+10。"
-    }
+    },
     {
       "Key": "f0e54e48c5a4444ab06caaff15936fdb",
       "SimpleName": "SoldierOfGaiaFriendOfTheForestBuff.Description",
@@ -29195,7 +29195,7 @@
       "ProcessTemplates": false,
       "enGB": "Web Ability Cooldown",
       "zhCN": "蛛网冷却中"
-    }
+    },
     
     
     
