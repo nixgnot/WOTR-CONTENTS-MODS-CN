@@ -2176,8 +2176,9 @@
            <td>Living Scripture 活圣经</td></tr> 
 	   <tr><td>Ravener Hunter 狩魔猎手</td></tr> 
 	   <tr><td>Sworn of the Eldest 原初誓者</td></tr> 
-       <tr><td rowspan="1">战斗祭司</td>
+       <tr><td rowspan="2">战斗祭司</td>
            <td>Mantis Zealot 螳螂狂徒</td></tr> 
+           <td>Soldier of gaia 盖亚军士</td></tr> 
        <tr><td rowspan="1">牧师</td>
            <td>Divine Scourge 神圣鞭笞者</td></tr> 
        <tr><td rowspan="6">德鲁伊</td>
@@ -2213,13 +2214,14 @@
            <td>Plant Master 植物大师</td></tr>
        <tr><td rowspan="1">骑将</td>
            <td>Drakerider 龙兽骑士</td></tr> 
-       <tr><td rowspan="1">炼金术师</td>
+       <tr><td rowspan="2">炼金术师</td>
            <td>Mindchemist 心智药师</td></tr> 
+           <td>Beastmorph 化形异变者</td></tr> 
        <tr><td rowspan="1">武僧</td>
            <td>Water Dancer 水舞僧</td></tr> 
    <tr><td rowspan="7">职业特性</td>
        <td>先知秘示域</td>
-       <td>Dragon 龙、Heavens 苍天、Succor 救助 Wood 林木 Winter 凛冬 Lunar 月亮 Shadow 阴影 Dark Tapestry 暗幕</td></tr>
+       <td>Dragon 龙、Heavens 苍天、Succor 救助 Wood 林木 Winter 凛冬 Lunar 月亮 Shadow 阴影 Dark Tapestry 暗幕 Metal 钢铁</td></tr>
    <tr><td>战斗祭司祝福</td>
        <td>Community 团队 Plant 植物 Artifice 手艺 War 战争</td></tr>
    <tr><td>炼金术师科研发现</td>
@@ -2250,7 +2252,7 @@
    <tr><td>领域</td>
        <td>Scalykind 鳞状<br>Plant 植物领域修改为桌面规则</td></tr>
    <tr><td>子领域</td>
-       <td>Agathion 阿加西翁、 Archon 亚空, Blood 血液、Caves 洞穴、Curse 诅咒、 Demon, Dragon 龙、Ferocity 凶猛、Ice 冰、Lust 欲望、Psychopomp 招魂、Rage 狂暴、 Resolve 决心、Restoration 恢复、Revelation 启示、Revolution 革命、Rivers 河流、Stars 星空、Storm 风暴、Thievery 盗窃、Undead 不死、Whimsy 滑稽、Wind 风、Growth 生长、Fist 铁拳、Loyalty 忠诚 Fist 铁拳 Loyalty 忠诚 Lightning 闪电</td></tr>
+       <td>Agathion 阿加西翁、 Archon 亚空, Blood 血液、Caves 洞穴、Curse 诅咒、 Demon, Dragon 龙、Ferocity 凶猛、Ice 冰、Lust 欲望、Psychopomp 招魂、Rage 狂暴、 Resolve 决心、Restoration 恢复、Revelation 启示、Revolution 革命、Rivers 河流、Stars 星空、Storm 风暴、Thievery 盗窃、Undead 不死、Whimsy 滑稽、Wind 风、Growth 生长、Fist 铁拳、Loyalty 忠诚 Fist 铁拳 Loyalty 忠诚 Lightning 闪电 Insect 昆虫</td></tr>
    <tr><td colspan="2" rowspan="43">法术<br><i>参阅PF文档</i></td>
        <td>Hydraulic push 水流冲击</td></tr>
    <tr><td>Slipstream 滑流</td></tr>
@@ -2295,6 +2297,7 @@
    <tr><td>Mass Mydriatic Spontaneity 群体自发性散瞳</td></tr>
    <tr><td>Burst of Nettles 爆射荨麻</td></tr>
    <tr><td>Transmute Blood To Acid 转血为酸</td></tr>
+   <tr><td>Vermin Shape I & II 虫类形态 I & II</td></tr>
  </table>   
 
 -------------------------------------------
