@@ -1918,7 +1918,7 @@
    <tr><td>职业</td>
        <td>Antipaladin 反圣武士及变体：Knight of the Sepulcher 死骸骑士、Iron Tyrant 钢铁暴君、Tyrant 暴君<br><i>参阅PF文档</i></td>
    <tr><td rowspan="5">职业特性</td>
-       <td>Druidic Herbalism 德鲁伊草药学：德鲁伊可以免费酿造任何药水，还能将本来只能对自己释放的法术如同应用了炼金术师的注入炼成释放于盟友</td></tr>
+       <td>Druidic Herbalism 德鲁伊草药学：德鲁伊可以免费酿造任何药水，还能将本来只能对自己释放的法术如同应用了炼金术士的注入炼成释放于盟友</td></tr>
    <tr><td>Antipaladin exclusive companion and mount - Nightmare (flaming horse) 反圣武士专属坐骑-梦魇</td></tr>
    <tr><td>Legion's Blessing 军团祝福（牧师变体圣教军8级能力）：通过额外献祭高3环法术位，将正常范围为接触的无害法术，用于 10 英尺半径内的所有盟友。</td></tr>
    <tr><td>Timeless Body 不老身躯：17级起，武僧的属性将不再因年龄而承受减值，也不会因为魔法而衰老。</td></tr>
@@ -2171,7 +2171,7 @@
    <tr><td rowspan="2">DreadKnight 恐惧骑士<br>（新版本默认隐藏，需要在选项中开启）</td>
            <td>Conqueror 征服者</td></tr> 
            <tr><td>Claw of the False Wyrm 虚龙之爪</td></tr> 
-   <tr><td rowspan="29">变体</td>
+   <tr><td rowspan="28">变体</td>
        <td rowspan="3">审判官</td>
            <td>Living Scripture 活圣经</td></tr> 
 	   <tr><td>Ravener Hunter 狩魔猎手</td></tr> 
@@ -2181,8 +2181,6 @@
            <td>Soldier of gaia 盖亚军士</td></tr> 
        <tr><td rowspan="1">牧师</td>
            <td>Divine Scourge 神圣鞭笞者</td></tr> 
-       <tr><td rowspan="1">炼金术士</td>
-           <td>Beastmorph 化形异变者</td></tr> 
        <tr><td rowspan="6">德鲁伊</td>
            <td>Mooncaller 唤月者</td></tr> 
            <tr><td>Draconic Druid 龙之德鲁伊</td></tr> 
@@ -2216,7 +2214,7 @@
            <td>Plant Master 植物大师</td></tr>
        <tr><td rowspan="1">骑将</td>
            <td>Drakerider 龙兽骑士</td></tr> 
-       <tr><td rowspan="2">炼金术师</td>
+       <tr><td rowspan="2">炼金术士</td>
            <td>Mindchemist 心智药师</td></tr> 
            <td>Beastmorph 化形异变者</td></tr> 
        <tr><td rowspan="1">武僧</td>
@@ -2226,7 +2224,7 @@
        <td>Dragon 龙、Heavens 苍天、Succor 救助 Wood 林木 Winter 凛冬 Lunar 月亮 Shadow 阴影 Dark Tapestry 暗幕 Metal 钢铁</td></tr>
    <tr><td>战斗祭司祝福</td>
        <td>Community 团队 Plant 植物 Artifice 手艺 War 战争</td></tr>
-   <tr><td>炼金术师科研发现</td>
+   <tr><td>炼金术士科研发现</td>
        <td>Pheromones 信息素 Healer's Touch</td></tr>
    <tr><td>先知诅咒</td>
        <td>Vampirism 吸血鬼、Deep One 深裔 Aboleth 底栖魔鱼 Accursed 厄运缠身 God Meddled 神之干涉 Lich 巫染</td></tr>
@@ -3921,7 +3919,7 @@ C:\Users\你的用户名\AppData\LocalLow\Owlcat Games\Pathfinder Wrath Of The R
 <table>
  <tr><th colspan="3">新增内容列表<br></th></tr> 
   <tr><td rowspan="45">变体</i></td>
-       <td rowspan="3">炼金术师 Alchemist</td>
+       <td rowspan="3">炼金术士 Alchemist</td>
        <td>构装骑士 Construct Rider</td></tr>
        <tr><td>内修药师 Internal Alchemist</td></tr>
        <tr><td>科学狂人 Mad Scientist</td></tr>
@@ -4048,7 +4046,7 @@ C:\Users\你的用户名\AppData\LocalLow\Owlcat Games\Pathfinder Wrath Of The R
        <tr><td rowspan="2">骑士团 Order</td></tr>
        <td>大锤骑士团 Order of the Hammer<br>大锤骑士团的骑将在全回合攻击她正在挑战的对手时，可以用自由动作进行一次擒抱或击破战技，此战技不会引发借机攻击。15级起，以标准动作，她可以给自己和30尺内所有盟友的近战攻击，战技检定，强韧豁免和运动检定提供+4士气加值。她可以用自由动作维持，每日可使用此能力的轮数等同1/2骑将等级，不必连续。"</td></tr>
        <tr><td>魔宠 Familiar</td><td>蟹王 Crab King<br>主人获得+2擒抱检定加值。</td></tr>
-       <tr><td>炼金科研发现 Discovery</td><td>触手 Tentacle<br>此触手不会给予炼金术师每轮额外的攻击或动作，但触手的“攫抓”能力具有+4擒抱检定加值。</td></tr>
+       <tr><td>炼金科研发现 Discovery</td><td>触手 Tentacle<br>此触手不会给予炼金术士每轮额外的攻击或动作，但触手的“攫抓”能力具有+4擒抱检定加值。</td></tr>
        <tr><td rowspan="6">诗人传世名作 Bardic Masterpieces<br>吟游诗人必须花费一个已知法术或是通过专长来学习传世名作，他可以花费比该传世名作要求最低等级还高的法术位以学习传世名作。</td></tr>
        <td>三倍时制御（1）Triple Time (1)<br>你那如簧的活泼曲调一般让人可以不倦的行进。响亮、活泼的声音模仿了人类的脚步，缓缓的建立出一个稳健、刚毅的步伐。当你完成此表演的时候，你可以使所有听觉范围内的盟友受到此传世名作的影响，此效果可以在之后的每个诗人等级10分钟，最多1小时之内，让目标的陆地移动速度得到10尺增强加值。</td></tr>
        <td>折剑物语（3）Tales of Twisting Steel (3)<br>这组寓言激励着听众攀登英勇和自我奉献的新高度，其中包含广阔天空，兔王子和疫病三则故事。当你完成这个表演时，选择一个相邻的生物。如同你对其施放了护卫他人。</td></tr>
