@@ -29196,85 +29196,166 @@
       "enGB": "Web Ability Cooldown",
       "zhCN": "蛛网冷却中"
     },
-    
-    
-    
-    {
+        {
       "Key": "a0e6bd20ba9f40f190b579fc01b9e166",
       "SimpleName": "InsanityDomainBaseAbility.Description",
       "ProcessTemplates": true,
       "enGB": "You can touch a willing creature as a standard action, granting it a +4 bonus on all saving throws made against mind-affecting effects and immunity to confusion. This bonus lasts for 1 minute. If the creature fails a saving throw against a mind-affecting effect during this period, it loses its immunity to confusion and is immediately confused for one round. You can use this ability a number of times per day equal to 3 + your Wisdom modifier.",
-      "zhCN": ""
+      "zhCN": "你以标准动作接触一个自愿生物，给予其对抗心智效果的豁免+4加值，并且免疫困惑，持续1分钟。若生物在上述豁免中失败，则马上失去对困惑免疫，然后困惑一轮。每日可用次数为3+感知调整值。"
     },
     {
       "Key": "d4b871b2e11b4e0a926f998e23b901dd",
       "SimpleName": "InsanityDomainBaseAbility.Name",
       "ProcessTemplates": false,
       "enGB": "Insane Focus",
-      "zhCN": ""
+      "zhCN": "狂乱专注"
     },
     {
       "Key": "94278fd035fd4d96bae59a0e0e29b04d",
       "SimpleName": "InsanityDomainBaseAbilitySeparatist.Description",
       "ProcessTemplates": true,
       "enGB": "You can touch a willing creature as a standard action, granting it a +4 bonus on all saving throws made against mind-affecting effects and immunity to confusion. This bonus lasts for 1 minute. If the creature fails a saving throw against a mind-affecting effect during this period, it loses its immunity to confusion and is immediately confused for one round. You can use this ability a number of times per day equal to 3 + your Wisdom modifier.",
-      "zhCN": ""
+      "zhCN": "你以标准动作接触一个自愿生物，给予其对抗心智效果的豁免+4加值，并且免疫困惑，持续1分钟。若生物在上述豁免中失败，则马上失去对困惑免疫，然后困惑一轮。每天可用次数为3+感知调整值。"
     },
     {
       "Key": "87639bad93bd4da5b50e87f639ddedb6",
       "SimpleName": "InsanityDomainBaseBuff.Description",
       "ProcessTemplates": true,
       "enGB": "You have a +4 bonus on all saving throws made against mind-affecting effects and immunity to confusion. This bonus lasts for 1 minute. If you fail a saving throw against a mind-affecting effect during this period, you lose your immunity to confusion and are immediately confused for one round.",
-      "zhCN": ""
+      "zhCN": "你获得对抗心智效果的豁免+4加值，并且免疫困惑，持续1分钟。若生物在上述豁免中失败，则马上失去对困惑免疫，然后困惑一轮。"
     },
     {
       "Key": "a8b894ea9ae04818b074b24bfa171c1f",
       "SimpleName": "InsanityDomainBaseBuff.Name",
       "ProcessTemplates": false,
       "enGB": "Insanity Beacon - DC",
-      "zhCN": ""
+      "zhCN": "狂乱灯塔（DC）"
     },
     {
       "Key": "23414c3056ea43689a4b337ff133c0fa",
       "SimpleName": "InsanityDomainBaseFeature.Description",
       "ProcessTemplates": true,
       "enGB": "\nYou see it, the uncertain uncertainty; you can help them understand, make them understand. \nInsane Focus: You can touch a willing creature as a standard action, granting it a +4 bonus on all saving throws made against mind-affecting effects and immunity to confusion. This bonus lasts for 1 minute. If the creature fails a saving throw against a mind-affecting effect during this period, it loses its immunity to confusion and is immediately confused for one round. You can use this ability a number of times per day equal to 3 + your Wisdom modifier. \nAura of Madness: At 8th level, you can emit a 30-foot aura of madness for a number of rounds per day equal to your level in the class that gave you access to this domain. Enemies within this aura are affected by confusion unless they make a Will save with a DC equal to 10 + 1/2 your level in the class that gave you access to this domain + your Wisdom modifier. The confusion effect ends immediately when the creature leaves the area or the aura expires. Creatures that succeed on their saving throw are immune to this aura for 24 hours.",
-      "zhCN": ""
+      "zhCN": "\n你已见，不确定中的不确定；你可以助他们理解，让他们明白。\n狂乱专注：你以标准动作接触一个自愿生物，给予其对抗心智效果的豁免+4加值，并且免疫困惑，持续1分钟。若生物在上述豁免中失败，则马上失去对困惑免疫，然后困惑一轮。每日可用次数为3+感知调整值。\n疯狂灵光：在8级时，你可发出30英尺范围的疯狂灵光，每天可持续的{g|Encyclopedia:Combat_Round}轮数{/g}等于赋予你此领域的职业等级。在此灵光范围内的敌人若意志豁免检定失败，就会受到{g|ConditionConfusion}困惑{/g}效果影响，{g|Encyclopedia:DC}难度等级{/g}等于10+1/2赋予你此领域的职业等级+你的感知调整值。该生物离开灵光范围或灵光消失时，困惑效果将立即终止。豁免检定成功的生物将在24小时内免疫此灵光。"
     },
     {
       "Key": "8052c8ed90a94c8c908318a7d1058d7d",
       "SimpleName": "InsanityDomainBaseFeature.Name",
       "ProcessTemplates": false,
       "enGB": "Insanity Subdomain",
-      "zhCN": ""
+      "zhCN": "狂乱子域"
     },
     {
       "Key": "e6ac04f94524446ab16dc52d115713e9",
       "SimpleName": "InsanityDomainBaseFeatureSeparatist.Description",
       "ProcessTemplates": true,
       "enGB": "\nYou see it, the uncertain uncertainty; you can help them understand, make them understand. \nInsane Focus: You can touch a willing creature as a standard action, granting it a +4 bonus on all saving throws made against mind-affecting effects and immunity to confusion. This bonus lasts for 1 minute. If the creature fails a saving throw against a mind-affecting effect during this period, it loses its immunity to confusion and is immediately confused for one round. You can use this ability a number of times per day equal to 3 + your Wisdom modifier. \nAura of Madness: At 8th level, you can emit a 30-foot aura of madness for a number of rounds per day equal to your level in the class that gave you access to this domain. Enemies within this aura are affected by confusion unless they make a Will save with a DC equal to 10 + 1/2 your level in the class that gave you access to this domain + your Wisdom modifier. The confusion effect ends immediately when the creature leaves the area or the aura expires. Creatures that succeed on their saving throw are immune to this aura for 24 hours.",
-      "zhCN": ""
+      "zhCN": "\n你已见，不确定中的不确定；你可以助他们理解，让他们明白。\n狂乱专注：你以标准动作接触一个自愿生物，给予其对抗心智效果的豁免+4加值，并且免疫困惑，持续1分钟。若生物在上述豁免中失败，则马上失去对困惑免疫，然后困惑一轮。每日可用次数为3+感知调整值。\n疯狂灵光：在8级时，你可发出30英尺范围的疯狂灵光，每天可持续的{g|Encyclopedia:Combat_Round}轮数{/g}等于赋予你此领域的职业等级。在此灵光范围内的敌人若意志豁免检定失败，就会受到{g|ConditionConfusion}困惑{/g}效果影响，{g|Encyclopedia:DC}难度等级{/g}等于10+1/2赋予你此领域的职业等级+你的感知调整值。该生物离开灵光范围或灵光消失时，困惑效果将立即终止。豁免检定成功的生物将在24小时内免疫此灵光。"
     },
     {
       "Key": "91fd7f455ed047159ee548b62dc19211",
       "SimpleName": "InsanityDomainProgression.Description",
       "ProcessTemplates": true,
       "enGB": "\nYou see it, the uncertain uncertainty; you can help them understand, make them understand. \nInsane Focus: You can touch a willing creature as a standard action, granting it a +4 bonus on all saving throws made against mind-affecting effects and immunity to confusion. This bonus lasts for 1 minute. If the creature fails a saving throw against a mind-affecting effect during this period, it loses its immunity to confusion and is immediately confused for one round. You can use this ability a number of times per day equal to 3 + your Wisdom modifier. \nAura of Madness: At 8th level, you can emit a 30-foot aura of madness for a number of rounds per day equal to your level in the class that gave you access to this domain. Enemies within this aura are affected by confusion unless they make a Will save with a DC equal to 10 + 1/2 your level in the class that gave you access to this domain + your Wisdom modifier. The confusion effect ends immediately when the creature leaves the area or the aura expires. Creatures that succeed on their saving throw are immune to this aura for 24 hours. \nDomain Spells: cause fear, cacophonous call, rage, moonstruck, feeblemind, phantasmal web, insanity, frightful aspect, weird.",
-      "zhCN": ""
+      "zhCN": "\n你已见，不确定中的不确定；你可以助他们理解，让他们明白。\n狂乱专注：你以标准动作接触一个自愿生物，给予其对抗心智效果的豁免+4加值，并且免疫困惑，持续1分钟。若生物在上述豁免中失败，则马上失去对困惑免疫，然后困惑一轮。每日可用次数为3+感知调整值。\n疯狂灵光：在8级时，你可发出30英尺范围的疯狂灵光，每天可持续的{g|Encyclopedia:Combat_Round}轮数{/g}等于赋予你此领域的职业等级。在此灵光范围内的敌人若意志豁免检定失败，就会受到{g|ConditionConfusion}困惑{/g}效果影响，{g|Encyclopedia:DC}难度等级{/g}等于10+1/2赋予你此领域的职业等级+你的感知调整值。该生物离开灵光范围或灵光消失时，困惑效果将立即终止。豁免检定成功的生物将在24小时内免疫此灵光。\n领域法术：惊恐术，杂音贯耳，狂暴术，痴狂月光，弱智术，魅影蛛网，神智错乱，可怖外表，诡影杀手。"
     },
     {
       "Key": "7dba00e6caed46199dc516938ebe7b0c",
       "SimpleName": "InsanityDomainProgressionSecondary.Description",
       "ProcessTemplates": true,
       "enGB": "\nYou see it, the uncertain uncertainty; you can help them understand, make them understand. \nInsane Focus: You can touch a willing creature as a standard action, granting it a +4 bonus on all saving throws made against mind-affecting effects and immunity to confusion. This bonus lasts for 1 minute. If the creature fails a saving throw against a mind-affecting effect during this period, it loses its immunity to confusion and is immediately confused for one round. You can use this ability a number of times per day equal to 3 + your Wisdom modifier. \nAura of Madness: At 8th level, you can emit a 30-foot aura of madness for a number of rounds per day equal to your level in the class that gave you access to this domain. Enemies within this aura are affected by confusion unless they make a Will save with a DC equal to 10 + 1/2 your level in the class that gave you access to this domain + your Wisdom modifier. The confusion effect ends immediately when the creature leaves the area or the aura expires. Creatures that succeed on their saving throw are immune to this aura for 24 hours. \nDomain Spells: cause fear, cacophonous call, rage, moonstruck, feeblemind, phantasmal web, insanity, frightful aspect, weird.",
-      "zhCN": ""
+      "zhCN": "\n你已见，不确定中的不确定；你可以助他们理解，让他们明白。\n狂乱专注：你以标准动作接触一个自愿生物，给予其对抗心智效果的豁免+4加值，并且免疫困惑，持续1分钟。若生物在上述豁免中失败，则马上失去对困惑免疫，然后困惑一轮。每日可用次数为3+感知调整值。\n疯狂灵光：在8级时，你可发出30英尺范围的疯狂灵光，每天可持续的{g|Encyclopedia:Combat_Round}轮数{/g}等于赋予你此领域的职业等级。在此灵光范围内的敌人若意志豁免检定失败，就会受到{g|ConditionConfusion}困惑{/g}效果影响，{g|Encyclopedia:DC}难度等级{/g}等于10+1/2赋予你此领域的职业等级+你的感知调整值。该生物离开灵光范围或灵光消失时，困惑效果将立即终止。豁免检定成功的生物将在24小时内免疫此灵光。\n领域法术：惊恐术，杂音贯耳，狂暴术，痴狂月光，弱智术，魅影蛛网，神智错乱，可怖外表，诡影杀手。"
     },
     {
       "Key": "daf9e829f7bd4b25a23b8e49edc8638a",
       "SimpleName": "InsanityDomainProgressionSeparatist.Description",
       "ProcessTemplates": true,
       "enGB": "\nYou see it, the uncertain uncertainty; you can help them understand, make them understand. \nInsane Focus: You can touch a willing creature as a standard action, granting it a +4 bonus on all saving throws made against mind-affecting effects and immunity to confusion. This bonus lasts for 1 minute. If the creature fails a saving throw against a mind-affecting effect during this period, it loses its immunity to confusion and is immediately confused for one round. You can use this ability a number of times per day equal to 3 + your Wisdom modifier. \nAura of Madness: At 8th level, you can emit a 30-foot aura of madness for a number of rounds per day equal to your level in the class that gave you access to this domain. Enemies within this aura are affected by confusion unless they make a Will save with a DC equal to 10 + 1/2 your level in the class that gave you access to this domain + your Wisdom modifier. The confusion effect ends immediately when the creature leaves the area or the aura expires. Creatures that succeed on their saving throw are immune to this aura for 24 hours. \nDomain Spells: cause fear, cacophonous call, rage, moonstruck, feeblemind, phantasmal web, insanity, frightful aspect, weird.",
-      "zhCN": ""
+      "zhCN": "\n你已见，不确定中的不确定；你可以助他们理解，让他们明白。\n狂乱专注：你以标准动作接触一个自愿生物，给予其对抗心智效果的豁免+4加值，并且免疫困惑，持续1分钟。若生物在上述豁免中失败，则马上失去对困惑免疫，然后困惑一轮。每日可用次数为3+感知调整值。\n疯狂灵光：在8级时，你可发出30英尺范围的疯狂灵光，每天可持续的{g|Encyclopedia:Combat_Round}轮数{/g}等于赋予你此领域的职业等级。在此灵光范围内的敌人若意志豁免检定失败，就会受到{g|ConditionConfusion}困惑{/g}效果影响，{g|Encyclopedia:DC}难度等级{/g}等于10+1/2赋予你此领域的职业等级+你的感知调整值。该生物离开灵光范围或灵光消失时，困惑效果将立即终止。豁免检定成功的生物将在24小时内免疫此灵光。\n领域法术：惊恐术，杂音贯耳，狂暴术，痴狂月光，弱智术，魅影蛛网，神智错乱，可怖外表，诡影杀手。"
+    },
+    {
+      "Key": "d772d0254aa240a186d433e42f29614e",
+      "SimpleName": "DuelsDomainBaseAbility.Description",
+      "ProcessTemplates": true,
+      "enGB": "As a swift action, you can challenge a visible foe within 30 feet, gaining a +1 sacred bonus to your AC against that creature’s attacks and a bonus equal to 1/2 your cleric level on Bluff skill checks to feint against it. These bonuses last for a number of rounds equal to 1/2 your cleric level. You can use this ability a number of times per day equal to 3 + your Wisdom modifier.",
+      "zhCN": "以一个迅捷动作，你挑战30尺内的一个可见敌人，在对抗该生物的AC上获得+1崇圣加值，对其进行的佯攻沟通（唬骗）检定上获得等于牧师等级一半的加值。这些加值持续轮数等于你牧师等级的一半。每日可用次数为3+感知调整值。"
+    },
+    {
+      "Key": "21d6904f0f3f4d7a9c48e25cf68ae4ec",
+      "SimpleName": "DuelsDomainBaseAbilitySeparatist.Description",
+      "ProcessTemplates": true,
+      "enGB": "As a swift action, you can challenge a visible foe within 30 feet, gaining a +1 sacred bonus to your AC against that creature’s attacks and a bonus equal to 1/2 your cleric level on Bluff skill checks to feint against it. These bonuses last for a number of rounds equal to 1/2 your cleric level. You can use this ability a number of times per day equal to 3 + your Wisdom modifier.",
+      "zhCN": "以一个迅捷动作，你挑战30尺内的一个可见敌人，在对抗该生物的AC上获得+1崇圣加值，对其进行的佯攻沟通（唬骗）检定上获得等于牧师等级一半的加值。这些加值持续轮数等于你牧师等级的一半。每日可用次数为3+感知调整值。"
+    },
+    {
+      "Key": "a5f7a868d4c64126a27cccca89ecd07b",
+      "SimpleName": "DuelsDomainBaseBuff.Description",
+      "ProcessTemplates": true,
+      "enGB": "This creature is the target of a divine challenge. \nAs a swift action, you can challenge a visible foe within 30 feet, gaining a +1 sacred bonus to your AC against that creature’s attacks and a bonus equal to 1/2 your cleric level on Bluff skill checks to feint against it. These bonuses last for a number of rounds equal to 1/2 your cleric level.",
+      "zhCN": "目标生物成为神圣挑战的目标。\n以一个迅捷动作，你挑战30尺内的一个可见敌人，在对抗该生物的AC上获得+1崇圣加值，对其进行的佯攻沟通（唬骗）检定上获得等于牧师等级一半的加值。这些加值持续轮数等于你牧师等级的一半。"
+    },
+    {
+      "Key": "834018efd2f049b48b963b56aee054e3",
+      "SimpleName": "DuelsDomainBaseBuff.Name",
+      "ProcessTemplates": false,
+      "enGB": "Divine Challenge",
+      "zhCN": "神圣挑战"
+    },
+    {
+      "Key": "8ca4771d1ff74c128acb7e32579985ac",
+      "SimpleName": "DuelsDomainBaseFeature.Description",
+      "ProcessTemplates": true,
+      "enGB": "\nYou seek to honour your deity with duels against worthy opponents.\nDivine Challenge: As a swift action, you can challenge a visible foe within 30 feet, gaining a +1 sacred bonus to your AC against that creature’s attacks and a bonus equal to 1/2 your cleric level on Bluff skill checks to feint against it. These bonuses last for a number of rounds equal to 1/2 your cleric level. You can use this ability a number of times per day equal to 3 + your Wisdom modifier.",
+      "zhCN": "\n你通过挑战恰如其分的对手来追寻神赐的荣耀。\n神圣挑战：以一个迅捷动作，你挑战30尺内的一个可见敌人，在对抗该生物的AC上获得+1崇圣加值，对其进行的佯攻沟通（唬骗）检定上获得等于牧师等级一半的加值。这些加值持续轮数等于你牧师等级的一半。每日可用次数为3+感知调整值。"
+    },
+    {
+      "Key": "2b1f4b8fcb8f46bc8fbe86b2c7d55d99",
+      "SimpleName": "DuelsDomainBaseFeature.Name",
+      "ProcessTemplates": false,
+      "enGB": "Duels Subdomain",
+      "zhCN": "挑战子域"
+    },
+    {
+      "Key": "894fb44874af45a5859965b6242fbc76",
+      "SimpleName": "DuelsDomainBaseFeatureSeparatist.Description",
+      "ProcessTemplates": true,
+      "enGB": "\nYou seek to honour your deity with duels against worthy opponents.\nDivine Challenge: As a swift action, you can challenge a visible foe within 30 feet, gaining a +1 sacred bonus to your AC against that creature’s attacks and a bonus equal to 1/2 your cleric level on Bluff skill checks to feint against it. These bonuses last for a number of rounds equal to 1/2 your cleric level. You can use this ability a number of times per day equal to 3 + your Wisdom modifier.",
+      "zhCN": "\n你通过挑战恰如其分的对手来追寻神赐的荣耀。\n神圣挑战：以一个迅捷动作，你挑战30尺内的一个可见敌人，在对抗该生物的AC上获得+1崇圣加值，对其进行的佯攻沟通（唬骗）检定上获得等于牧师等级一半的加值。这些加值持续轮数等于你牧师等级的一半。每日可用次数为3+感知调整值。"
+    },
+    {
+      "Key": "0f1b79e9e8624b95a7ff066f25ea6a76",
+      "SimpleName": "DuelsDomainFeintBluffBuff.Name",
+      "ProcessTemplates": false,
+      "enGB": "DuelsDomainFeintBluffBuff",
+      "zhCN": "DuelsDomainFeintBluffBuff"
+    },
+    {
+      "Key": "6472ae64eac34d32ac4a50bed9ab7c02",
+      "SimpleName": "DuelsDomainFeintBluffBuffSeparatist.Name",
+      "ProcessTemplates": false,
+      "enGB": "DuelsDomainFeintBluffBuffSeparatist",
+      "zhCN": "DuelsDomainFeintBluffBuffSeparatist"
+    },
+    {
+      "Key": "32451a5d2512452caf2ae42b2f7e8900",
+      "SimpleName": "DuelsDomainProgression.Description",
+      "ProcessTemplates": true,
+      "enGB": "\nYou seek to honour your deity with duels against worthy opponents.\nDivine Challenge: As a swift action, you can challenge a visible foe within 30 feet, gaining a +1 sacred bonus to your AC against that creature’s attacks and a bonus equal to 1/2 your cleric level on Bluff skill checks to feint against it. These bonuses last for a number of rounds equal to 1/2 your cleric level. You can use this ability a number of times per day equal to 3 + your Wisdom modifier.\nDomain Spells: magic weapon, grace, magical vestment, divine power, dance of a hundred cuts, blade barrier, power word blind, dance of a thousand cuts, power word kill.",
+      "zhCN": "\n你通过挑战恰如其分的对手来追寻神赐的荣耀。\n神圣挑战：以一个迅捷动作，你挑战30尺内的一个可见敌人，在对抗该生物的AC上获得+1崇圣加值，对其进行的佯攻沟通（唬骗）检定上获得等于牧师等级一半的加值。这些加值持续轮数等于你牧师等级的一半。每日可用次数为3+感知调整值。\n领域法术：魔化武器，优雅步伐，魔化防具，神能，百袭战舞，剑刃障壁，律令目盲，千袭战舞，律令死亡。"
+    },
+    {
+      "Key": "4a4cde5eda3149e783304e3d927feab2",
+      "SimpleName": "DuelsDomainProgressionSecondary.Description",
+      "ProcessTemplates": true,
+      "enGB": "\nYou seek to honour your deity with duels against worthy opponents.\nDivine Challenge: As a swift action, you can challenge a visible foe within 30 feet, gaining a +1 sacred bonus to your AC against that creature’s attacks and a bonus equal to 1/2 your cleric level on Bluff skill checks to feint against it. These bonuses last for a number of rounds equal to 1/2 your cleric level. You can use this ability a number of times per day equal to 3 + your Wisdom modifier.\nDomain Spells: magic weapon, grace, magical vestment, divine power, dance of a hundred cuts, blade barrier, power word blind, dance of a thousand cuts, power word kill.",
+      "zhCN": "\n你通过挑战恰如其分的对手来追寻神赐的荣耀。\n神圣挑战：以一个迅捷动作，你挑战30尺内的一个可见敌人，在对抗该生物的AC上获得+1崇圣加值，对其进行的佯攻沟通（唬骗）检定上获得等于牧师等级一半的加值。这些加值持续轮数等于你牧师等级的一半。每日可用次数为3+感知调整值。\n领域法术：魔化武器，优雅步伐，魔化防具，神能，百袭战舞，剑刃障壁，律令目盲，千袭战舞，律令死亡。"
+    },
+    {
+      "Key": "aa0c57c52f7745f9a837724deeccb855",
+      "SimpleName": "DuelsDomainProgressionSeparatist.Description",
+      "ProcessTemplates": true,
+      "enGB": "\nYou seek to honour your deity with duels against worthy opponents.\nDivine Challenge: As a swift action, you can challenge a visible foe within 30 feet, gaining a +1 sacred bonus to your AC against that creature’s attacks and a bonus equal to 1/2 your cleric level on Bluff skill checks to feint against it. These bonuses last for a number of rounds equal to 1/2 your cleric level. You can use this ability a number of times per day equal to 3 + your Wisdom modifier.\nDomain Spells: magic weapon, grace, magical vestment, divine power, dance of a hundred cuts, blade barrier, power word blind, dance of a thousand cuts, power word kill.",
+      "zhCN": "\n你通过挑战恰如其分的对手来追寻神赐的荣耀。\n神圣挑战：以一个迅捷动作，你挑战30尺内的一个可见敌人，在对抗该生物的AC上获得+1崇圣加值，对其进行的佯攻沟通（唬骗）检定上获得等于牧师等级一半的加值。这些加值持续轮数等于你牧师等级的一半。每日可用次数为3+感知调整值。\n领域法术：魔化武器，优雅步伐，魔化防具，神能，百袭战舞，剑刃障壁，律令目盲，千袭战舞，律令死亡。"
     }
   ]
 }
