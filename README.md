@@ -2168,10 +2168,10 @@
    <tr><td rowspan="3">职业及变体</td>
        <td>Oathbreaker 复仇暴徒</td>
            <td>Castigator 惩戒者</td></tr> 
-   <tr><td rowspan="2">DreadKnight 恐惧骑士</td>
+   <tr><td rowspan="2">DreadKnight 恐惧骑士<br>（新版本默认隐藏，需要在选项中开启）</td>
            <td>Conqueror 征服者</td></tr> 
            <tr><td>Claw of the False Wyrm 虚龙之爪</td></tr> 
-   <tr><td rowspan="28">变体</td>
+   <tr><td rowspan="29">变体</td>
        <td rowspan="3">审判官</td>
            <td>Living Scripture 活圣经</td></tr> 
 	   <tr><td>Ravener Hunter 狩魔猎手</td></tr> 
@@ -2181,6 +2181,8 @@
            <td>Soldier of gaia 盖亚军士</td></tr> 
        <tr><td rowspan="1">牧师</td>
            <td>Divine Scourge 神圣鞭笞者</td></tr> 
+       <tr><td rowspan="1">炼金术士</td>
+           <td>Beastmorph 化形异变者</td></tr> 
        <tr><td rowspan="6">德鲁伊</td>
            <td>Mooncaller 唤月者</td></tr> 
            <tr><td>Draconic Druid 龙之德鲁伊</td></tr> 
@@ -2252,7 +2254,7 @@
    <tr><td>领域</td>
        <td>Scalykind 鳞状<br>Plant 植物领域修改为桌面规则</td></tr>
    <tr><td>子领域</td>
-       <td>Agathion 阿加西翁、 Archon 亚空, Blood 血液、Caves 洞穴、Curse 诅咒、 Demon, Dragon 龙、Ferocity 凶猛、Ice 冰、Lust 欲望、Psychopomp 招魂、Rage 狂暴、 Resolve 决心、Restoration 恢复、Revelation 启示、Revolution 革命、Rivers 河流、Stars 星空、Storm 风暴、Thievery 盗窃、Undead 不死、Whimsy 滑稽、Wind 风、Growth 生长、Fist 铁拳、Loyalty 忠诚 Fist 铁拳 Loyalty 忠诚 Lightning 闪电 Insect 昆虫</td></tr>
+       <td>Agathion 阿加西翁、 Archon 亚空, Blood 血液、Caves 洞穴、Curse 诅咒、 Demon, Dragon 龙、Ferocity 凶猛、Ice 冰、Lust 欲望、Psychopomp 招魂、Rage 狂暴、 Resolve 决心、Restoration 恢复、Revelation 启示、Revolution 革命、Rivers 河流、Stars 星空、Storm 风暴、Thievery 盗窃、Undead 不死、Whimsy 滑稽、Wind 风、Growth 生长、Fist 铁拳、Loyalty 忠诚、Fist 铁拳、Loyalty 忠诚、Lightning 闪电、Insect 昆虫、Insanity 疯狂、Duel 决斗</td></tr>
    <tr><td colspan="2" rowspan="43">法术<br><i>参阅PF文档</i></td>
        <td>Hydraulic push 水流冲击</td></tr>
    <tr><td>Slipstream 滑流</td></tr>
