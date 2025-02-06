@@ -2057,6 +2057,7 @@
            <tr><td>NPC职业：5个NPC用职业，基本白板</td></tr>
 	   <tr><td>Champion 英杰：无阵营限制的圣武士，可选择誓约</td></tr>
 	   <tr><td>Freedom Fighter 自由斗士：包含子职业天运承者、彼方行者、爆破专家</td></tr>
+	   <tr><td>Herald 先驱</td></tr>	 
   <tr><td rowspan="32">变体</td>
     <td rowspan="2">奥能师</td>
          <td>Blood Arcanist 血奥师</td></tr>
