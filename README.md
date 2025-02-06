@@ -2052,7 +2052,7 @@
   + ACTestingGrounds：将部分队友变为原创职业、规则书职业或变体，未汉化<br>
  <table>
  <tr><th colspan="3">新增内容列表<br>详细介绍可以参阅汉化发布贴或游戏内说明</th></tr> 
-   <tr><td colspan="2" rowspan="4">职业</td>
+   <tr><td colspan="2" rowspan="5">职业</td>
        <td>Investigator 调查员及变体：Jinyiwei 锦衣卫、Questioner 发问者、Empiricist 演绎家</td></tr>
            <tr><td>NPC职业：5个NPC用职业，基本白板</td></tr>
 	   <tr><td>Champion 英杰：无阵营限制的圣武士，可选择誓约</td></tr>
