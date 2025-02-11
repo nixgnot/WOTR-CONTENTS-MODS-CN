@@ -5067,7 +5067,7 @@ C:\Users\你的用户名\AppData\LocalLow\Owlcat Games\Pathfinder Wrath Of The R
        <td>独角兽 Unicorn</td><td></td></tr>
        <td>狮鹫 Griffon</td><td>开发中，外观存在错误</td></tr>
   <tr><td rowspan="2">专长</i></td>
-       <td>强力投掷 Powerful Throw</td><td>你使用{g}力量{/g}调整值取代{g}敏捷{/g}调整值，来计算使用投掷武器时的远程攻击检定。同时你也可以对远程投掷武器应用猛力攻击专长，来替代致命瞄准。</td></tr>
+       <td>强力投掷 Powerful Throw</td><td>你使用力量调整值取代敏捷调整值，来计算使用投掷武器时的远程攻击检定。同时你也可以对远程投掷武器应用猛力攻击专长，来替代致命瞄准。</td></tr>
        <td>强力之翼 Powerful Wings</td><td>你获得两次翼击攻击（2d8伤害），视为次要天生攻击。</td></tr>
   <tr><td rowspan="1">职业</i></td>
        <td>贴吧老哥</td><td>纯娱乐滥强职业，魅力上一切，默认选项不开启</td></tr>    
