@@ -2175,7 +2175,7 @@
    <tr><td rowspan="2">DreadKnight 恐惧骑士<br>（新版本默认隐藏，需要在选项中开启）</td>
            <td>Conqueror 征服者</td></tr> 
            <tr><td>Claw of the False Wyrm 虚龙之爪</td></tr> 
-   <tr><td rowspan="28">变体</td>
+   <tr><td rowspan="29">变体</td>
        <td rowspan="3">审判官</td>
            <td>Living Scripture 活圣经</td></tr> 
 	   <tr><td>Ravener Hunter 狩魔猎手</td></tr> 
