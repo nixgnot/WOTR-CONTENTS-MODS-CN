@@ -35,12 +35,13 @@
 + UMM是**Unity Mod Manager**的简称，用于很多Unity游戏的MOD管理。对正义之怒UMM基本属于必需的前置MOD管理工具。你需要先安装UMM来启用MOD，并可对MOD进行统一管理。
 + 大部分MOD都通过UMM来进行安装和管理。少部分例外我会特别提示。
 + 关于UMM和相关Mod的安装，[上面链接](https://github.com/1onepower/KM-WotR_Modding_Wiki/blob/main/%E4%B8%AD%E6%96%87%E7%89%88.md) 已经有非常详细的阐述，在此不再赘述。
++ 你也可以使用[ModFinder工具](#ModFinder工具)来替代UMM进行安装。
 
 ### 非基于UMM的Mod的安装
 + 此类Mod包括覆盖型的Mod（比如头像包）和基于官方Mod工具的Mod
 + 前者请直接参考作者安装说明，后者建议使用[ModFinder工具](#ModFinder工具)来快速安装
 + 如果你的电脑无法使用ModFinder（通常是由于网络问题），这里有一段简短教程。
-以[HomebrewArchetypes](#HomebrewArchetypes)
+以[HomebrewArchetypes](#HomebrewArchetypes)为例：
 1. 打开通常位于C盘的Users/Username/AppData/LocalLow/Owlcat Games/Pathfinder Wrath of the Righteous<br>
 友情提示：可以在资源管理器直接输入%localappdata%打开Users/Username/AppData/LocalLow/文件夹，随后点击向上就能回到AppData文件夹<br>
 2. 将你下载到的"OwlcatModificationManagerSettings.json"放置在这里，这是作者准备好的配置文件<br>
@@ -55,10 +56,10 @@
 
 ### ModFinder工具
 + ModFinder是一个非必需的第三方工具，可以便捷的管理正义之怒MOD，检查MOD更新情况（包括在Github和Nexus更新的MOD），快速下载和安装（可以替代部分UMM功能）
-+ 非UMM安装的MOD也可以使用ModFinder快速安装，强烈推荐
-+ ModFinder可以在[这里](https://github.com/Pathfinder-WOTR-Modding-Community/ModFinder)下载。
-+ ModFinder为绿色工具，可以在任何路径打开（但是最好不要用中文路径），会自动识别正义之怒的安装位置。
-+ ModFinder在启动时可能会出现弹框错误，发生此种情况多半是Github访问失败的导致的，请参照下一节解决。
++ 强烈推荐使用ModFinder，因为其可以同时安装基于UMM的MOD和非基于UMM的MOD
++ ModFinder可以在[这里](https://github.com/Pathfinder-WOTR-Modding-Community/ModFinder)下载
++ ModFinder为绿色工具，可以在任何路径打开（但是最好不要用中文路径），会自动识别正义之怒的安装位置
++ ModFinder在启动时可能会出现弹框错误，发生此种情况多半是Github访问失败的导致的，请参照下一节解决
 
 ### GITHUB访问和MOD下载
 + 在国内很多网络环境，Github访问都存在一定抽风现象，会出现时不时打开失败。通常刷新就可以解决。如果实在问题严重，[Watt Toolkit](https://steampp.net/)可以帮到你。
