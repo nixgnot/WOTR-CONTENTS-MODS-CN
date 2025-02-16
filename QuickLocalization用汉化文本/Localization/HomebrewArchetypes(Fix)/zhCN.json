@@ -5803,7 +5803,7 @@ Duty - Be responsible for your actions and their consequences, protect those ent
         },
 		{
             "Key": "AC_WoljifArchetypeCapstoneDesc", 
-            "zhCN": "20级起，每当贼裔使用腐蚀之触、力场拳、极寒之触、电爪或吸血鬼之触触命中目标，其下一次攻击将分别额外造成5d6点强酸、力场、寒冷、电击或污邪伤害伤害。\n可变精髓的持续时间增加到1分钟。"
+            "zhCN": "20级起，每当贼裔使用腐蚀之触、力场拳、极寒之触、电爪或吸血鬼之触命中目标，其下一次攻击将分别额外造成5d6点强酸、力场、寒冷、电击或污邪伤害伤害。\n可变精髓的持续时间增加到1分钟。"
         },
 		{
             "Key": "AC_WoljifArchetypeCapstoneSelection", 
