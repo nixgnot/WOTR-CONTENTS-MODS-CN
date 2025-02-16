@@ -4427,7 +4427,7 @@
 		{
             "Key": "HomebrewArchtypes_ChampionOathDevotionDesc", 
             "zhCN": "The Oath of Devotion binds a champion to the loftiest ideals of justice, virtue, and order. Sometimes called cavaliers, white knights, or holy warriors, these champions meet the ideal of the knight in shining armor, acting with honor in pursuit of justice and the greater good. They hold themselves to the highest standards of conduct, and some, for better or worse, hold the rest of the world to the same standards. Many who swear this oath are devoted to gods of law and good and use their gods' tenets as the measure of their devotion. They hold angels – the perfect servants of good – as their ideals, and incorporate images of angelic wings into their helmets or coats of arms.
-			
+
 Tenets of Devotion
 
 Though the exact words and strictures of the Oath of Devotion vary, champions of this oath share these tenets.
@@ -5591,19 +5591,19 @@ Duty - Be responsible for your actions and their consequences, protect those ent
         },
 		{
             "Key": "HomebrewArchtypes_BardArchetypeStrategistPeerlessStrategyName", 
-            "zhCN": "Peerless Strategy"
+            "zhCN": "无双战策"
         },
 		{
             "Key": "HomebrewArchtypes_BardArchetypeStrategistPeerlessStrategyDesc", 
-            "zhCN": "Once learned, this ability improves the effects of Battle Tactics, increasing the minimum damage modifier to +4 and granting all allies a +1 bonus to casting speed. Additionally, allies with backstab modifiers are able to backstab targets from any direction while under the effect of Battle Tactics."
+            "zhCN": "习得后，该能力可以提升战场谋略的效果，增加最小伤害加值到+4，施法速度获得+1加值。此外，所有拥有背刺能力的友军在战场谋略效果影响下时，可以从任何方位对目标发动背刺。"
         },
 		{
             "Key": "HomebrewArchtypes_BardArchetypeStrategistTacticalAcumenName", 
-            "zhCN": "Tactical Acumen"
+            "zhCN": "战术洞察"
         },
 		{
             "Key": "HomebrewArchtypes_BardArchetypeStrategistTacticalAcumenDesc", 
-            "zhCN": "Using this ability, the strategist maximizes their efficiency in forming and executing field tactics, gaining Aura Cleansing for the next two rounds. However, after the duration has expired, the strategist is unable to attack, cast spells, use items or abilities, or use Battle Tactics for another two rounds."
+            "zhCN": "使用该能力，策士可以最大化他们制定和执行战场战术的效率，在接下来两轮内获得灵气光净化。然而，持续时间过后，策士将在之后2轮内无法攻击、施法、使用物品和能力，以及使用战场谋略。"
         },
 		{
             "Key": "HomebrewArchtypes_BardArchetypeStrategistProficienciesName", 
@@ -5660,5 +5660,623 @@ Duty - Be responsible for your actions and their consequences, protect those ent
 		{
             "Key": "HomebrewArchtypes_BardArchetypeBladeDesc", 
             "zhCN": "Blades are master artisans with bladed weapons. Everyone has seen a blade in action at fairs and carnivals. They are the knife throwers who pop balloons while blindfolded and swallow slender sabers such as those used by lawless pirates on the high seas. Blades also perform amazing displays of weapon skill and control as they flash various weapons all about their bodies with deadly precision."
-        }
+        },
+		{
+            "Key": "AC_WoljifArchetype", 
+            "zhCN": "贼裔"
+        },
+		{
+            "Key": "AC_WoljifArchetypeDesc", 
+            "zhCN": "通过抱团取暖来自保的蒙蒂维贼裔是一群被俗世放逐之人。贼裔已经学会使用深渊遗赠的一部分，来在世界之伤影响范围内的人们所施加的残酷现实中生存。"
+        },
+		{
+            "Key": "AC_WoljifArchetypeProficiency", 
+            "zhCN": "贼裔擅长"
+        },
+		{
+            "Key": "AC_WoljifArchetypeProficiencyDesc", 
+            "zhCN": "贼裔擅长使用所有简单武器，以及细剑、短剑和短弓。贼裔不擅长使用任何盾牌，但擅长使用轻甲，并且可以在穿戴轻甲时施放法术。"
+        },
+		{
+            "Key": "AC_WoljifArchetypeTalentSelection", 
+            "zhCN": "贼裔奥秘"
+        },
+		{
+            "Key": "AC_WoljifArchetypeTalentSelectionDesc", 
+            "zhCN": "贼裔可以选择一部分魔战士奥秘来代替游荡者天赋。也可以选择普通的游荡者天赋。"
+        },
+		{
+            "Key": "AC_WoljifArchetypeArcanePool", 
+            "zhCN": "奥法池"
+        },
+		{
+            "Key": "AC_WoljifArchetypeArcanePoolDesc", 
+            "zhCN": "2级时，贼裔获得一个类似魔战士的奥法池来使用贼裔奥秘。奥法点数等于奥法池的奥法点数等于1/2贼裔等级（最低为1）+{g|Encyclopedia:Intelligence}智力{/g}调整值。当贼裔准备{g|Encyclopedia:Spell}法术{/g}时，奥法池会刷新，每天1次。"
+        },
+		{
+            "Key": "AC_WoljifArchetypeArcaneAccuracyDesc", 
+            "zhCN": "贼裔能够以{g|Encyclopedia:Swift_Action}迅捷动作{/g}从奥法池中付出1点奥法点数，使所有{g|Encyclopedia:Attack}攻击检定{/g}获得等于{g|Encyclopedia:Intelligence}智力{/g}{g|Encyclopedia:Bonus}加值{/g}的洞察加值，效果持续至本回合结束。"
+        },
+		{
+            "Key": "AC_WoljifArchetypeDimensionStrike", 
+            "zhCN": "空间斩"
+        },
+		{
+            "Key": "AC_WoljifArchetypeDimensionStrikeDesc", 
+            "zhCN": "贼裔能够以{g|Encyclopedia:Swift_Action}迅捷动作{/g}从奥法池中付出2点奥法点数，将所有近战武器{g|Encyclopedia:Attack}攻击{/g}变为近战{g|Encyclopedia:TouchAttack}接触攻击{/g}，持续到本回合结束。",
+        },
+		{
+            "Key": "AC_WoljifArchetypeHastedAssault", 
+            "zhCN": "极速突击"
+        },
+		{
+            "Key": "AC_WoljifArchetypeHastedAssaultDesc", 
+            "zhCN": "贼裔能够以{g|Encyclopedia:Swift_Action}迅捷动作{/g}从奥法池中付出1点奥法点数，从而提高行动速度。此效果类似{g|SpellsHaste}加速术{/g}，但只对贼裔生效，持续{g|Encyclopedia:Combat_Round}轮数{/g}等于贼裔的{g|Encyclopedia:Intelligence}智力{/g}{g|Encyclopedia:Bonus}加值{/g}。"
+        },
+		{
+            "Key": "AC_WoljifArchetypePrescientAttack", 
+            "zhCN": "远见打击"
+        },
+		{
+            "Key": "AC_WoljifArchetypePrescientAttackDesc", 
+            "zhCN": "贼裔能够以{g|Encyclopedia:Swift_Action}迅捷动作{/g}从奥法池中付出1点奥法点数，使自身能够预见敌人的防御。敌人在受到贼裔{g|Encyclopedia:Attack}攻击{/g}时，防御等级失去{g|Encyclopedia:Dexterity}敏捷{/g}{g|Encyclopedia:Bonus}加值{/g}，效果持续至贼裔的下一回合结束。"
+        },
+		{
+            "Key": "AC_WoljifArchetypeWandMastery", 
+            "zhCN": "魔杖大师"
+        },
+		{
+            "Key": "AC_WoljifArchetypeWandMasteryDesc", 
+            "zhCN": "当贼裔使用魔杖时，使用{g|Encyclopedia:Intelligence}智力{/g}调整值计算{g|Encyclopedia:Spell}法术{/g}{g|Encyclopedia:DC}DC{/g}，而非施放该等级法术所需的最小调整值。"
+        },
+		{
+            "Key": "AC_WoljifArchetypeEmpoweredArcana", 
+            "zhCN": "强效魔法"
+        },
+		{
+            "Key": "AC_WoljifArchetypeEmpoweredArcanaDesc", 
+            "zhCN": "每天三次，贼裔可以如同运用{g|Encyclopedia:Feat}专长{/g}{g|FeatureEmpoweredSpell}法术强效{/g}一般施放{g|Encyclopedia:Spell}法术{/g}。"
+        },
+		{
+            "Key": "AC_WoljifArchetypeExtendArcana", 
+            "zhCN": "延时魔法"
+        },
+		{
+            "Key": "AC_WoljifArchetypeExtendArcanaDesc", 
+            "zhCN": "每天三次，贼裔可以如同运用{g|Encyclopedia:Feat}专长{/g}{g|FeatureExtendSpell}法术延时{/g}一般施放{g|Encyclopedia:Spell}法术{/g}。"
+        },
+		{
+            "Key": "AC_WoljifArchetypeMaximizeArcana", 
+            "zhCN": "极效魔法"
+        },
+		{
+            "Key": "AC_WoljifArchetypeMaximizeArcanaDesc", 
+            "zhCN": "每天三次，贼裔可以如同运用{g|Encyclopedia:Feat}专长{/g}{g|FeatureMaximizeSpell}法术极效{/g}一般施放{g|Encyclopedia:Spell}法术{/g}。"
+        },
+		{
+            "Key": "AC_WoljifArchetypeQuickenArcana", 
+            "zhCN": "瞬发魔法"
+        },
+		{
+            "Key": "AC_WoljifArchetypeQuickenArcanaDesc", 
+            "zhCN": "每天三次，贼裔可以如同运用{g|Encyclopedia:Feat}专长{/g}{g|FeatureQuickenSpell}法术瞬发{/g}一般施放{g|Encyclopedia:Spell}法术{/g}。"
+        },
+		{
+            "Key": "AC_WoljifArchetypeReachArcana", 
+            "zhCN": "及远魔法"
+        },
+		{
+            "Key": "AC_WoljifArchetypeReachArcanaDesc", 
+            "zhCN": "每天三次，贼裔可以如同运用{g|Encyclopedia:Feat}专长{/g}{g|FeatureReachSpell}法术及远{/g}一般施放{g|Encyclopedia:Spell}法术{/g}。"
+        },
+		{
+            "Key": "AC_WoljifArchetypeBladeEnergyEnhancementArcana", 
+            "zhCN": "可变精髓"
+        },
+		{
+            "Key": "AC_WoljifArchetypeBladeEnergyEnhancementArcanaDesc", 
+            "zhCN": "贼裔能够以{g|Encyclopedia:Free_Action }自由动作{/g}从奥法池中付出1点奥法点数，将其所有近战攻击造成的{g|Encyclopedia:Damage }伤害{/g}类型转变为下列选项之一：寒冷、电击或火焰。付出2点奥法点数，则可将{g|Encyclopedia:Damage_Type }伤害类型{/g}转变为音波或力场。此效果持续至贼裔下个回合开始。"
+        },
+		{
+            "Key": "AC_WoljifArchetypeBladeEnergyEnhancementArcanaCold", 
+            "zhCN": "寒冷"
+        },
+		{
+            "Key": "AC_WoljifArchetypeBladeEnergyEnhancementArcanaFire", 
+            "zhCN": "火焰"
+        },
+		{
+            "Key": "AC_WoljifArchetypeBladeEnergyEnhancementArcanaElectric", 
+            "zhCN": "电击"
+        },
+		{
+            "Key": "AC_WoljifArchetypeBladeEnergyEnhancementArcanaSonic", 
+            "zhCN": "音波"
+        },
+		{
+            "Key": "AC_WoljifArchetypeBladeEnergyEnhancementArcanaForce", 
+            "zhCN": "立场"
+        },
+		{
+            "Key": "AC_WoljifArchetypeCapstone", 
+            "zhCN": "奥秘格斗"
+        },
+		{
+            "Key": "AC_WoljifArchetypeCapstoneDesc", 
+            "zhCN": "20级起，每当贼裔使用腐蚀之触、力场拳、极寒之触、电爪或吸血鬼之触触命中目标，其下一次攻击将分别额外造成5d6点强酸、力场、寒冷、电击或污邪伤害伤害。\n可变精髓的持续时间增加到1分钟。"
+        },
+		{
+            "Key": "AC_WoljifArchetypeCapstoneSelection", 
+            "zhCN": "拥抱遗赠选择"
+        },
+		{
+            "Key": "AC_WoljifArchetypeCapstoneHuman", 
+            "zhCN": "人性"
+        },
+		{
+            "Key": "AC_WoljifArchetypeCapstoneHumanDesc", 
+            "zhCN": "人性"
+        },
+		{
+            "Key": "AC_WoljifArchetypeExtraArcana", 
+            "zhCN": "额外贼裔奥秘"
+        },
+		{
+            "Key": "AC_WoljifArchetypeExtraArcanaDesc", 
+            "zhCN": "你获得额外一项游荡者天赋，必须满足该游荡者天赋的先决条件。\n本{g|Encyclopedia:Feat}专长{/g}可被选取多次。"
+        },
+		{
+            "Key": "AC_WoljifArchetypeExtraArcanePool", 
+            "zhCN": "额外奥法池"
+        },
+		{
+            "Key": "AC_WoljifArchetypeExtraArcanePoolDesc", 
+            "zhCN": "你的奥法池增加2点。\n你可以多次获得此{g|Encyclopedia:Feat}专长{/g}。其效果可叠加，每次获得此专长时，你的奥法池点数都会增加。"
+        },
+		{
+            "Key": "AC_GreyborArchetype", 
+            "zhCN": "合同杀手"
+        },
+		{
+            "Key": "AC_GreyborArchetypeDesc", 
+            "zhCN": "有的人为荣誉而战，有的人为善行奔走，亦有的人为特殊事业献身——而合同杀手只为黄金效力。受雇执行暗杀或战斗任务的合同杀手，能为雇主提供多种特殊技能服务，其中部分工作可能另行计费。"
+        },
+		{
+            "Key": "AC_GreyborArchetypeArmorBuffMain", 
+            "zhCN": "幽影迷雾"
+        },
+		{
+            "Key": "AC_GreyborArchetypeArmorBuffMainDesc", 
+            "zhCN": "合同杀手将自己掩蔽于幽影迷雾，每日可用次数等于其体质调整值。此迷雾赋予其相当于体质调整值的闪避防御加值和快速回复，持续每职业等级1轮。"
+        },
+		{
+            "Key": "AC_GreyborArchetypeFadeBuff", 
+            "zhCN": "渐隐"
+        },
+		{
+            "Key": "AC_GreyborArchetypeFadeDesc", 
+            "zhCN": "合同杀手可以通过把自己灵体化，获得50%概率无视攻击或者法术，这项能力持续轮数等于其职业等级的一半，每日可用3次。"
+        },
+		{
+            "Key": "AC_GreyborArchetypeWeaponFocus", 
+            "zhCN": "武器精通"
+        },
+		{
+            "Key": "AC_GreyborArchetypeWeaponFocusDesc", 
+            "zhCN": "6级起，合同杀手获得武器专精作为奖励专长。10级起获得高等武器专攻作为奖励专长。12级起获得高等武器专精作为奖励专长。合同杀手不需要满足这些专长的的前提条件，比如战士等级或者武器专攻。"
+        },
+		{
+            "Key": "AC_GreyborArchetypePreparations", 
+            "zhCN": "特殊准备"
+        },
+		{
+            "Key": "AC_GreyborArchetypePreparationsDesc", 
+            "zhCN": "契约杀手除了能选择常规杀手绝技外，还可使用特殊准备（需满足其佣金要求）。该能力可在2级、6级、10级、14级、18级时获得。"
+        },
+		{
+            "Key": "AC_GreyborArchetypePreparationsResource", 
+            "zhCN": "准备库存"
+        },
+		{
+            "Key": "AC_GreyborArchetypePreparationsResourceDesc", 
+            "zhCN": "合同杀手准备了帮助自己终结目标的方法，每日可用次数等于其职业等级。"
+        },
+		{
+            "Key": "AC_GreyborArchetypePreparationsAssassinateFeature", 
+            "zhCN": "迷魂杀法"
+        },
+		{
+            "Key": "AC_GreyborArchetypePreparationsAssassinateFeatureDesc", 
+            "zhCN": "合同杀手使用整轮动作扰乱目标的心神3d2轮。目标必须通过DC = 10 + 合同杀手职业等级+魅力调整值的意志豁免，否则会被迷魂。当被迷魂时，受到任何伤害都会导致目标清醒。当目标被迷魂时合同杀手可以如同目标无助时尝试进行致命一击。该次尝试不会引发借机攻击。"
+        },
+		{
+            "Key": "AC_GreyborArchetypePreparationsAssassinateFascinate", 
+            "zhCN": "迷魂"
+        },
+		{
+            "Key": "AC_GreyborArchetypePreparationsAssassinateFascinateDesc", 
+            "zhCN": "合同杀手使用整轮动作扰乱目标的心神3d2轮。目标必须通过DC = 10 + 合同杀手职业等级+魅力调整值的意志豁免，否则会被迷魂。当被迷魂时，受到任何伤害都会导致目标清醒。"
+        },
+		{
+            "Key": "AC_GreyborArchetypePreparationsAssassinateAbility", 
+            "zhCN": "杀法"
+        },
+		{
+            "Key": "AC_GreyborArchetypePreparationsAssassinateAbilityDesc", 
+            "zhCN": "当目标被迷魂时合同杀手可以如同目标无助时尝试进行致命一击。该次尝试不会引发借机攻击。"
+        },
+		{
+            "Key": "AC_GreyborArchetypeGolemShift", 
+            "zhCN": "傀儡战形"
+        },
+		{
+            "Key": "AC_GreyborArchetypeGolemShiftDesc", 
+            "zhCN": "14级起，合同杀手可以每天一次临时变成钢铁魔像，临时增加防御，持续时间等于每职业等级1分钟。"
+        },
+		{
+            "Key": "AC_GreyborArchetypeGolemSummon", 
+            "zhCN": "口袋魔像"
+        },
+		{
+            "Key": "AC_GreyborArchetypeGolemSummonDesc", 
+            "zhCN": "合同杀手总是会准备好备用计划。每天3次，合同杀手可以召唤精金魔像来帮助自己战斗，持续时间等于每职业等级1轮。"
+        },
+		{
+            "Key": "AC_GreyborArchetypeSpellbook", 
+            "zhCN": "杀手"
+        },
+		{
+            "Key": "AC_GreyborArchetypeProficiencies", 
+            "zhCN": "合同杀手擅长"
+        },
+		{
+            "Key": "AC_GreyborArchetypeProficienciesDesc", 
+            "zhCN": "合同杀手擅长所有简易和{g|Encyclopedia:Weapon_Proficiency}军用武器{/g}，以及轻甲、中甲和盾牌（塔盾除外）。合同杀手可以在穿着轻甲和中甲时施放杀手{g|Encyclopedia:Spell}法术{/g}，且不会承受{g|Encyclopedia:Spell_Fail_Chance}奥术失败率{/g}。与其他奥术施法者一样，合同杀手在穿戴重甲或盾牌时会承受正常的奥术失败率。"
+        },
+		{
+            "Key": "AC_ArueshalaeArchetype", 
+            "zhCN": "密探专家"
+        },
+		{
+            "Key": "AC_ArueshalaeArchetypeDesc", 
+            "zhCN": "密探专家乃是欺敌之术的登峰造极者，以计谋制胜，而非依赖蛮力或法术。他们精于魔法与非魔法的双重潜行手段，机敏过人，尤擅临机应变。"
+        },
+		{
+            "Key": "AC_ArueshalaeArchetypeArtofDeception", 
+            "zhCN": "欺诈艺术"
+        },
+		{
+            "Key": "AC_ArueshalaeArchetypeArtofDeceptionDesc", 
+            "zhCN": "密探专家在{g|Encyclopedia:Perception}察觉{/g}和{g|Encyclopedia:Persuasion}沟通{/g}检定上获得等于其职业等级一半的加值。"
+        },
+		{
+            "Key": "AC_ArueshalaeArchetypeHiddenMind", 
+            "zhCN": "隐藏心机"
+        },
+		{
+            "Key": "AC_ArueshalaeArchetypeHiddenMindDesc", 
+            "zhCN": "密探专家可以通过一个标准动作获得心灵屏障法术的效果。每次使用持续时间为 1 分钟，使用时间不必连续。 谍报专家每4级可以额外使用该能力1次。"
+        },
+		{
+            "Key": "AC_ArueshalaeArchetypeHiddenMindCooldown", 
+            "zhCN": "精神疲惫"
+        },
+		{
+            "Key": "AC_ArueshalaeArchetypeDeathAttack", 
+            "zhCN": "夺命攻击"
+        },
+		{
+            "Key": "AC_ArueshalaeArchetypeDeathAttackDesc", 
+            "zhCN": "8级起，密探专家学会通过谨慎的攻击杀死或者麻痹对手的艺术。该能力效果如同刺客的夺命攻击。如果密探专家通过其他职业获得了夺命攻击能力，将其等级加入密探专家的职业等级来计算夺命攻击的DC，即使密探专家的职业等级还达到8也是如此。"
+        },
+		{
+            "Key": "AC_ArueshalaeArchetypeCharmMonster", 
+            "zhCN": "魅惑怪物"
+        },
+		{
+            "Key": "AC_ArueshalaeArchetypeCharmMonsterDesc", 
+            "zhCN": "这种魅力让一个生物当你认为是其可信任的朋友或者盟友（将目标的态度视为友好）。晋升魅魔每日可使用此能力3次，持续轮数为角色等级半数，豁免DC=10+魅力调整值+变体等级。"
+        },
+		{
+            "Key": "AC_ArueshalaeArchetypeBootsofSpeed", 
+            "zhCN": "速度之靴"
+        },
+		{
+            "Key": "AC_ArueshalaeArchetypeBootsofSpeedDesc", 
+            "zhCN": "以一个自由动作，速度之靴的穿着着可以As a free action, the wearer of boots of speed can click her heels together, letting her act as though affected by a haste spell for up to 10 rounds each day. The haste effect's duration need not be consecutive rounds."
+        },
+		{
+            "Key": "AC_NenioClass", 
+            "zhCN": "Scholar"
+        },
+		{
+            "Key": "AC_NenioClassDesc", 
+            "zhCN": "Scholar"
+        },
+		{
+            "Key": "AC_NenioClassShortDesc", 
+            "zhCN": "Scholar"
+        },
+		{
+            "Key": "AC_NenioClassSpellbookname", 
+            "zhCN": "Scholar"
+        },
+		{
+            "Key": "AC_NenioClassProficiencies", 
+            "zhCN": "Scholar Proficiencies"
+        },
+		{
+            "Key": "AC_NenioClassProficienciesDesc", 
+            "zhCN": "Scholar"
+        },
+		{
+            "Key": "AC_NenioClassSecrets", 
+            "zhCN": "Secrets of the World"
+        },
+		{
+            "Key": "AC_NenioClassSecretsDesc", 
+            "zhCN": "At 2nd level and every other level after, the scholar chooses one secret from the following list. He can't choose the same secret twice."
+        },
+		{
+            "Key": "AC_NenioClassSecretsCleric", 
+            "zhCN": "Secret of the Cleric"
+        },
+		{
+            "Key": "AC_NenioClassSecretsClericDesc", 
+            "zhCN": "Secret of the Cleric"
+        },
+		{
+            "Key": "AC_NenioClassSecretsDruid", 
+            "zhCN": "Secret of the Druid"
+        },
+		{
+            "Key": "AC_NenioClassSecretsDruidDesc", 
+            "zhCN": "Secret of the Druid"
+        },
+		{
+            "Key": "AC_NenioClassSecretsWizard", 
+            "zhCN": "Secret of the Wizard"
+        },
+		{
+            "Key": "AC_NenioClassSecretsWizardDesc", 
+            "zhCN": "Secret of the Druid"
+        },
+		{
+            "Key": "AC_NenioClassSecretsCombatFeat", 
+            "zhCN": "Secret of Combat"
+        },
+		{
+            "Key": "AC_NenioClassSecretsCombatFeatDesc", 
+            "zhCN": "Secret of Combat"
+        },
+		{
+            "Key": "AC_NenioClassSecretsRogueTalent", 
+            "zhCN": "Secret of the Rogue"
+        },
+		{
+            "Key": "AC_NenioClassSecretsRogueTalentDesc", 
+            "zhCN": "Secret of the Rogue"
+        },
+		{
+            "Key": "AC_NenioClassSecretsCasterFeat", 
+            "zhCN": "Secret of the Spellcaster"
+        },
+		{
+            "Key": "AC_NenioClassSecretsCasterFeatDesc", 
+            "zhCN": "Secret of the Spellcaster"
+        },
+		{
+            "Key": "AC_NenioClassSecretsWill", 
+            "zhCN": "Secret of Will"
+        },
+		{
+            "Key": "AC_NenioClassSecretsWillDesc", 
+            "zhCN": "Secret of Will"
+        },
+		{
+            "Key": "AC_NenioClassSecretsFort", 
+            "zhCN": "Secret of Fortitude"
+        },
+		{
+            "Key": "AC_NenioClassSecretsFortDesc", 
+            "zhCN": "Secret of Fortitude"
+        },
+		{
+            "Key": "AC_NenioClassSecretsReflex", 
+            "zhCN": "Secret of Reflex"
+        },
+		{
+            "Key": "AC_NenioClassSecretsReflexDesc", 
+            "zhCN": "Secret of Reflex"
+        },
+		{
+            "Key": "AC_NenioClassSmartDefense", 
+            "zhCN": "Smart Defense"
+        },
+		{
+            "Key": "AC_NenioClassSmartDefenseDesc", 
+            "zhCN": "A scholar adds her Intelligence bonus to her armor class. Any time she would lose her Dexterity bonus to AC, she loses her Int bonus, as well."
+        },
+		{
+            "Key": "AC_NenioClassKnowledgeFocus", 
+            "zhCN": "Knowledge Focus"
+        },
+		{
+            "Key": "AC_NenioClassKnowledgeFocusDesc", 
+            "zhCN": "The scholar gains Skill Focus in any one Knowledge skill of her choice."
+        },
+		{
+            "Key": "AC_NenioClassLoremaster", 
+            "zhCN": "Lore Master"
+        },
+		{
+            "Key": "AC_NenioClassLoremasterDesc", 
+            "zhCN": "At 5th level the scholar takes 10 in any skill checks of Knowledge(Arcana) and Knowledge(World)"
+        },
+		{
+            "Key": "AC_NenioClassErudition", 
+            "zhCN": "Erudition"
+        },
+		{
+            "Key": "AC_NenioClassEruditionDesc", 
+            "zhCN": "At 7th level, the scholar’s logical mind becomes a powerful tool of persuasion. Add her modifier to Intelligence to Bluff, Diplomacy, and Intimidate checks, in addition to her Charisma bonus."
+        },
+		{
+            "Key": "AC_NenioClassSagacity", 
+            "zhCN": "Sagacity"
+        },
+		{
+            "Key": "AC_NenioClassSagacityDesc", 
+            "zhCN": "At 20th level, the scholar’s powerful mind leads her to enlightenment. Her Intelligence, Wisdom, and Charisma all increase by 2 points. She becomes immune to fear and confusion."
+        },
+		{
+            "Key": "AC_NenioClassSecretsCoordinate", 
+            "zhCN": "Coordinate"
+        },
+		{
+            "Key": "AC_NenioClassSecretsCoordinateDesc", 
+            "zhCN": "Coordinate"
+        },
+		{
+            "Key": "AC_NenioClassSecretsCreatureFocus", 
+            "zhCN": "Creature Focus"
+        },
+		{
+            "Key": "AC_NenioClassSecretsCreatureFocusDesc", 
+            "zhCN": "Creature Focus"
+        },
+		{
+            "Key": "AC_NenioClassSecretsCreatureMythology", 
+            "zhCN": "Creature Mythology"
+        },
+		{
+            "Key": "AC_NenioClassSecretsCreatureMythologyDesc", 
+            "zhCN": "Creature Mythology"
+        },
+		{
+            "Key": "AC_NenioClassSecretsSneakAttack", 
+            "zhCN": "Secret of Sneak Attack"
+        },
+		{
+            "Key": "AC_NenioClassSecretsSneakAttackDesc", 
+            "zhCN": "Secret of Sneak Attack"
+        },
+		{
+            "Key": "AC_NenioClassSecretsBardSongCourage", 
+            "zhCN": "Secret of Inspire Courage"
+        },
+		{
+            "Key": "AC_NenioClassSecretsBardSongCourageDesc", 
+            "zhCN": "Secret of Inspire Courage"
+        },
+		{
+            "Key": "AC_NenioClassSecretsSmartWeapons", 
+            "zhCN": "Smart Weapons"
+        },
+		{
+            "Key": "AC_NenioClassSecretsSmartWeaponsDesc", 
+            "zhCN": "Smart Weapons"
+        },
+		{
+            "Key": "HA_ChampionClassOathofSelfPerfectionName", 
+            "zhCN": " 臻我誓约"
+        },
+		{
+            "Key": "HA_ChampionClassOathofSelfPerfectionDesc", 
+            "zhCN": "此誓乃个人修行之道而非普世信条。缔造专属誓约，作为灵性征程之基石；恪守自铸戒律，乃臻至圆满必经试炼。"
+        },
+		{
+            "Key": "HA_ChampionClassOathofSelfPerfectionConfidentDefenseName", 
+            "zhCN": "泰然守御"
+        },
+		{
+            "Key": "HA_ChampionClassOathofSelfPerfectionConfidentDefenseDesc", 
+            "zhCN": "1级起，当穿着轻甲或不着甲，且不使用盾牌和武器时，臻我英杰将其魅力调整值作为闪避加值到AC上， 该加值不会超过+20。该能力取代对中甲、重甲和盾牌的擅长。"
+        },
+		{
+            "Key": "HA_ChampionClassOathofSelfPerfectionUnarmedCombatName", 
+            "zhCN": "徒手击打"
+        },
+		{
+            "Key": "HA_ChampionClassOathofSelfPerfectionUnarmedCombatDesc", 
+            "zhCN": "1级起，臻我英杰获得精通徒手击打作为奖励专长。中体形臻我英杰使用{g|Encyclopedia:UnarmedAttack}徒手击打{/g}造成的{g|Encyclopedia:Damage}伤害{/g}随等级提升：1-3级为{g|Encyclopedia:Dice}1d6{/g}点、4-7级为1d8点、8-11级为1d10点、12-15级为2d6点、16-19级为2d8点，20级为2d10点。\n若臻我英杰为小型，徒手击打伤害提升如下：1-3级为1d4点、4-7级为1d6点、8-11级为1d8点、12-15级为1d10点、16-19级为2d6点，20级为2d8点。\n若臻我英杰为大型，徒手击打伤害提升如下：1-3级为1d8点、4-7级为2d6点、8-11级为2d8点、12-15级为3d6点、16-19级为3d8点，20级为4d8点。"
+        },
+		{
+            "Key": "HA_ChampionClassOathofSelfPerfectionPersonalTrialName", 
+            "zhCN": "吾道试炼"
+        },
+		{
+            "Key": "HA_ChampionClassOathofSelfPerfectionPersonalTrialDesc", 
+            "zhCN": "每日一次，臻我英杰可消耗一个迅捷动作，指定视线内一个目标进行吾道试炼，获得以下对抗该目标的增益：攻击检定与伤害掷骰获得+1洞察加值；对抗目标攻击的AC获得+1洞察加值；该加值在4级时提升1点，之后每4级再提升1点，20级时达到最高+6。吾道试炼效果持续到目标死亡，或者下次英杰通过休息重新获得该能力使用次数时。4级时以及之后每3级，英杰获得额外一次每日可用次数。"
+        },
+		{
+            "Key": "HA_ChampionClassOathofSelfPerfectionPersonalTrialAdditionalUseName", 
+            "zhCN": "吾道试炼 - 额外使用次数"
+        },
+		{
+            "Key": "HA_ChampionClassOathofSelfPerfectionKiPoolName", 
+            "zhCN": "气海"
+        },
+		{
+            "Key": "HA_ChampionClassOathofSelfPerfectionKiPoolDesc", 
+            "zhCN": "4级起， 臻我英杰获得武僧的气海，将其职业等级视为有效武僧等级。气海中的点数等于其职业等级的一半+魅力调整值。通过消耗气海中的1点真气，他们可以忽略敌人的所有伤害减免1轮。除此之外该能力和武僧的同名能力完全相同。"
+        },
+		{
+            "Key": "HA_ChampionClassOathofSelfPerfectionKipowerspeedName", 
+            "zhCN": "气力：加速"
+        },
+		{
+            "Key": "HA_ChampionClassOathofSelfPerfectionKipowerspeedDesc", 
+            "zhCN": "通过从气海中消耗1点真气，武僧可以在1轮内增加移动速度20尺。"
+        },
+		{
+            "Key": "HA_ChampionClassOathofSelfPerfectionKipowerACName", 
+            "zhCN": "气力：防御等级"
+        },
+		{
+            "Key": "HA_ChampionClassOathofSelfPerfectionKipowerACDesc", 
+            "zhCN": "通过从气海中消耗1点真气，武僧可以在1轮内在AC上获得+4闪避加值。"
+        },
+		{
+            "Key": "HA_ChampionClassOathofSelfPerfectionKipowerDRbypassName", 
+            "zhCN": "气力：无视伤害减免"
+        },
+		{
+            "Key": "HA_ChampionClassOathofSelfPerfectionKipowerDRbypassDesc", 
+            "zhCN": "通过从气海中消耗1点真气，武僧可以在1轮内无视对手的伤害减免。"
+        },
+		{
+            "Key": "HA_ChampionClassOathofSelfPerfectionAuraofPerfectionName", 
+            "zhCN": "Aura of Perfection"
+        },
+		{
+            "Key": "HA_ChampionClassOathofSelfPerfectionAuraofPerfectionDesc", 
+            "zhCN": "Aura of Perfection"
+        },
+		{
+            "Key": "HA_ChampionClassOathofUndeathName", 
+            "zhCN": "Oath of the Lost"
+        },
+		{
+            "Key": "HA_ChampionClassOathofUndeathDesc", 
+            "zhCN": "When wars are waged many soldiers lose their lives on the battlefield and many souls are trapped in the material plane becoming undead whether through happenstance or because of a grudge. No matter the case some champions seek to guide these souls to the afterlife and grant them the freedom they deserve.
+			
+Tenets of the Lost
+			
+Guide the Lost: You must seek battlefields finding those souls who are trapped on the material plane and grant them release.
+
+Erase Grudges: Just as in life undeath can have grudges against the living keeping them from eternal rest. Seek to erase these grudges so that these undead have no reason to remain. 
+
+Deny Undeath: Those that desecrate the dead are vile beings and you must stop them at all costs.
+
+Be Understanding: Necromancy by itself is not evil and you understand this. You do not persecute practitioners just because they exist, but may even join them to learn how to better guide the lost."
+        },
+		{
+            "Key": "HA_ChampionClassOathofUndeathShepardoftheLostName", 
+            "zhCN": "Shepherd of Lost Souls"
+        },
+		{
+            "Key": "HA_ChampionClassOathofUndeathShepardoftheLostDesc", 
+            "zhCN": "At 5th level, a champion of the lost gains an undead companion who follows them."
+        },
 	]	
