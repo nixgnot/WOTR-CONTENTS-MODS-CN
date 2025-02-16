@@ -2056,10 +2056,10 @@
    <tr><td colspan="2" rowspan="5">职业</td>
        <td>Investigator 调查员及变体：Jinyiwei 锦衣卫、Questioner 发问者、Empiricist 演绎家</td></tr>
            <tr><td>NPC职业：5个NPC用职业，基本白板</td></tr>
-	   <tr><td>Champion 英杰：无阵营限制的圣武士，可选择誓约</td></tr>
+	   <tr><td>Champion 英杰：无阵营限制的圣武士，可选择誓约英杰、不屈、臻我</td></tr>
 	   <tr><td>Freedom Fighter 自由斗士：包含子职业天运承者、彼方行者、爆破专家</td></tr>
 	   <tr><td>Herald 先驱</td></tr>	 
-  <tr><td rowspan="32">变体</td>
+  <tr><td rowspan="35">变体</td>
     <td rowspan="2">奥能师</td>
          <td>Blood Arcanist 血奥师</td></tr>
          <tr><td>School Savant 学派家</td></tr>
@@ -2105,10 +2105,14 @@
          <td>Undead Master 死灵之主</td></tr>
      <tr><td rowspan="1">巫师</td>      
          <td>Scarred Witch Doctor 疤痕巫医</td></tr>
-     <tr><td rowspan="1">游荡者</td>      
+     <tr><td rowspan="2">游荡者</td>      
          <td>Carnivalist 游艺人</td></tr>
+         <td>Thiefling 贼裔</td></tr>
+         <td>Espionage Expert 密探专家</td></tr>
      <tr><td rowspan="1">审判官</td>      
          <td>Umbral Stalker 本影追踪者</td></tr>
+     <tr><td rowspan="1">杀手</td>      
+         <td>Contract Killer 合同杀手</td></tr>
   <tr><td rowspan="1">职业选项</td>
     <td rowspan="1">奥能师（魔法诈欺师）</td>
          <td>False Prophet 伪先知</td></tr>   
