@@ -657,5 +657,184 @@
         "zhCN": "你用死灵能量灌注弓箭1轮，造成额外1d6伤害，并在击杀每个目标时唤起骷髅战将",
         "enGB": "Enchant your bow with necrotic damage 1d6 for one round and raise skeletal champion by each target killed",
         "esES": "Encanta tú arco con daño necrótico 1d6 por una ronda y levanta un skeleto campeón por cada objetivo eliminado"
+    },
+    {
+        "Key": "PPbookDeathknight.Name",
+        "ProcessTemplates": false,
+        "zhCN": "死亡骑士",
+        "enGB": "Deathknight",
+        "esES": "Caballero de la Muerte"
+    },
+    {
+        "Key": "PPbookDeathknight.Description",
+        "zhCN": "死亡骑士",
+        "enGB": "Deathknight",
+        "esES": "Caballero de la Muerte"
+    },
+    {
+        "Key": "ChannelDeathCoilBuff.Name",
+        "zhCN": "引导死亡缠绕",
+        "enGB": "Channel Death Coil",
+        "esES": "Canalizar Espiral de Muerte"
+    },
+    {
+        "Key": "ChannelDeathCoilBuff.Description",
+        "zhCN": "为你的武器注入死亡缠绕，仅限首次命中时生效，但伤害减半",
+        "enGB": "Imbues your weapon with Death Coil for only first attack if impact but have half damage",
+        "esES": "Puedes usar death coil con mitad de daño en el primer ataque si aciertas"
+    },
+    {
+        "Key": "ChannelDeathCoilAbility.Name",
+        "zhCN": "引导死亡缠绕",
+        "enGB": "Channel Death Coil",
+        "esES": "Canalizar Espiral de Muerte"
+    },
+    {
+        "Key": "ChannelDeathCoilAbility.Description",
+        "zhCN": "在进行近战攻击检定前，你可以选择以自由动作消耗一次死亡缠绕的使用次数。若命中一个活体生物，该生物将承受等同于你死亡缠绕能力一半伤害的额外伤害。目标可如常进行意志豁免以减半此额外伤害。若攻击未命中，引导死亡缠绕的能力仍会消耗且无效果。",
+        "enGB": "Before you make a melee attack roll, you can choose to spend one use of your death coil ability as a free action. If you hit an living creature, that creature takes an amount of additional damage equal to the damage dealt by half your death coil ability. Your target can make a Will save, as normal, to halve this additional damage. If your attack misses, the channel death coil ability is still expended with no effect",
+        "esES": "Antes de realizar una tirada de ataque cuerpo a cuerpo, puedes elegir gastar un uso de tu habilidad Espiral de la muerte como acción gratuita. Si golpeas a una criatura viva, esa criatura recibe una cantidad de daño adicional igual al daño infligido por la mitad de tu habilidad Espiral de la muerte. Tu objetivo puede hacer una tirada de salvación de Voluntad, como siempre, para reducir a la mitad este daño adicional. Si tu ataque falla, la habilidad Canalizar Espiral de la muerte se sigue gastando sin efecto."
+    },
+    {
+        "Key": "ChannelDeathCoilFeature.Name",
+        "zhCN": "引导死亡缠绕",
+        "enGB": "Channel Death Coil",
+        "esES": "Canalizar Espiral de Muerte"
+    },
+    {
+        "Key": "ChannelDeathCoilFeature.Description",
+        "zhCN": "在进行近战攻击检定前，你可以选择以自由动作消耗一次死亡缠绕的使用次数。若命中一个活体生物，该生物将承受等同于你死亡缠绕能力一半伤害的额外伤害。目标可如常进行意志豁免以减半此额外伤害。若攻击未命中，引导死亡缠绕的能力仍会消耗且无效果。若拥有神话引导，则提供等同于2*魅力的加值。",
+        "enGB": "Before you make a melee attack roll, you can choose to spend one use of your death coil ability as a free action. If you hit an living creature, that creature takes an amount of additional damage equal to the damage dealt by half your death coil ability. Your target can make a Will save, as normal, to halve this additional damage. If your attack misses, the channel death coil ability is still expended with no effect. Give bonus equal to 2*Charisma when have Mythic Channel",
+        "esES": "Antes de realizar una tirada de ataque cuerpo a cuerpo, puedes elegir gastar un uso de tu habilidad Espiral de la muerte como acción gratuita. Si golpeas a una criatura viva, esa criatura recibe una cantidad de daño adicional igual al daño infligido por la mitad de tu habilidad Espiral de la muerte. Tu objetivo puede hacer una tirada de salvación de Voluntad, como siempre, para reducir a la mitad este daño adicional. Si tu ataque falla, la habilidad Canalizar Espiral de la muerte se sigue gastando sin efecto. Da un bonus igual a 2*Carisma cuando tienes Canalización Mítica"
+    },
+    {
+        "Key": "DrakePerfectBody.Name",
+        "ProcessTemplates": false,
+        "zhCN": "完美龙躯",
+        "enGB": "Drake Perfect Body",
+        "esES": "Draco Cuerpo Perfecto"
+    },
+    {
+        "Key": "DrakePerfectBody.Description",
+        "zhCN": "你的躯体升华至更接近古老而强大的巨龙，随等级提升获得更高的体质与意志豁免",
+        "enGB": "Your body ascends to look more like that of the ancient and powerful dragons gain better constitution and will saves by level",
+        "esES": "Tu cuerpo asciende a parecerse mas como el de los antiguos y poderosos dragones consigue extra constitución y salvaciones de voluntad por nivel"
+    },
+    {
+        "Key": "DrakeArmour.Name",
+        "ProcessTemplates": false,
+        "zhCN": "龙鳞护甲",
+        "enGB": "Dragon Skin",
+        "esES": "Piel de Dragon"
+    },
+    {
+        "Key": "DrakeArmour.Description",
+        "zhCN": "14级后，你的鳞片将如巨龙般强化，提供更强的护甲",
+        "enGB": "Your scales improved give better armour how dragons after level 14",
+        "esES": "Tus escamas mejoran dando mejor armadura como la de los dragones despues del nivel 14"
+    },
+    {
+        "Key": "DrakePerfectBodyII.Name",
+        "ProcessTemplates": false,
+        "zhCN": "龙鳞",
+        "enGB": "Dragon Scales",
+        "esES": "Escamas de Dragon"
+    },
+    {
+        "Key": "DrakePerfectBodyII.Description",
+        "zhCN": "龙裔同伴的躯体升华至更接近古老而强大的巨龙，其体质、意志豁免随等级-8提升，护甲等级（AC）与力量随等级-14提升。",
+        "enGB": "The drake companion body ascends to look more like that of the ancient and powerful dragons Constitution, WildSaves scale with level -8 and AC witH Strength scale with level -14",
+        "esES": "El cuerpo de tu draco asciende a parecerse mas como el de los antiguos y poderosos dragones su Constitución y Voluntad con su nivel -8 y AC con Fuerza escalan con nivel -14"
+    },
+    {
+        "Key": "WeaponShiftFeature.Name",
+        "ProcessTemplates": false,
+        "zhCN": "武器形态转换",
+        "enGB": "Weapon Shift",
+        "esES": "Armas de Cambiante"
+    },
+    {
+        "Key": "WeaponShiftFeature.Description",
+        "zhCN": "当你使用野性形态或变形者主要形态时，你熟练使用的近战武器将融入新形态。在新形态下，你的自然攻击将继承主武器的材质特性，以及缴械、绊摔和破武特性。",
+        "enGB": "When you use your wild shape ability or shifter major form, any melee weapons you are wielding and proficient with meld into your new form. While in your new form, your natural attacks gain all your primary weapon's material properties, as well as disarm, trip and sunder properties.",
+        "esES": "Cuando usas tu habilidad de cambio de forma o forma mayor de shifter cualquier arma de cuerpo a cuerpo que lleves se fusionará en tu nueva forma. Mientras en tu nueva forma, tus ataques naturales ganan todas las propiedades del material de tu arma primaria, como desarmar, trip y sunder"
+    },
+    {
+        "Key": "WeaponShiftBuff.Name",
+        "ProcessTemplates": false,
+        "zhCN": "武器形态转换增益",
+        "enGB": "Weapon Shift Buff",
+        "esES": "Armas de Cambiante Buff"
+    },
+    {
+        "Key": "WeaponShiftBuff.Description",
+        "zhCN": "当你使用野性形态或变形者主要形态时，你熟练使用的近战武器将融入新形态。在新形态下，你的自然攻击将继承主武器的材质特性，以及缴械、绊摔和破武特性。",
+        "enGB": "When you use your wild shape ability or shifter major form, any melee weapons you are wielding and proficient with meld into your new form. While in your new form, your natural attacks gain all your primary weapon's material properties, as well as disarm, trip and sunder properties.",
+        "esES": "Cuando usas tu habilidad de cambio de forma o forma mayor de shifter cualquier arma de cuerpo a cuerpo que lleves se fusionará en tu nueva forma. Mientras en tu nueva forma, tus ataques naturales ganan todas las propiedades del material de tu arma primaria, como desarmar, trip y sunder"
+    },
+    {
+        "Key": "ImprovedWeaponShiftFeature.Name",
+        "ProcessTemplates": false,
+        "zhCN": "强化武器形态转换",
+        "enGB": "Improved Weapon Shift",
+        "esES": "Armas de Cambiante Mejoradas"
+    },
+    {
+        "Key": "ImprovedWeaponShiftFeature.Description",
+        "zhCN": "当你通过武器形态转换专长将一把近战武器的伤害类型和特性赋予自然攻击时，你的自然攻击还将获得该武器的特殊能力（例如火焰特性）。强化武器形态转换不会将武器的增强加值应用于攻击。",
+        "enGB": "When you apply a melee weapon’s damage type and properties to your natural attacks using the Weapon Shift feat, your natural attacks also gain the weapon special abilities of the weapon, such as the flaming special ability. Improved Weapon Shift does not apply the weapon’s enhancement bonuses to your attacks.",
+        "esES": "Cuando aplicas el tipo de daño y las propiedades de un arma cuerpo a cuerpo a tus ataques naturales usando la dote Cambio de arma, tus ataques naturales también obtienen las habilidades especiales del arma, como la habilidad especial de fuego. Cambio de arma mejorado no aplica las bonificaciones de mejora del arma a tus ataques."
+    },
+    {
+        "Key": "ImprovedWeaponShiftBuff.Name",
+        "ProcessTemplates": false,
+        "zhCN": "强化武器形态转换",
+        "enGB": "Improved Weapon Shift",
+        "esES": "Armas de Cambiante Mejoradas"
+    },
+    {
+        "Key": "ImprovedWeaponShiftBuff.Description",
+        "zhCN": "当你通过武器形态转换专长将一把近战武器的伤害类型和特性赋予自然攻击时，你的自然攻击还将获得该武器的特殊能力（例如火焰特性）。强化武器形态转换不会将武器的增强加值应用于攻击。",
+        "enGB": "When you apply a melee weapon’s damage type and properties to your natural attacks using the Weapon Shift feat, your natural attacks also gain the weapon special abilities of the weapon, such as the flaming special ability. Improved Weapon Shift does not apply the weapon’s enhancement bonuses to your attacks.",
+        "esES": "Cuando aplicas el tipo de daño y las propiedades de un arma cuerpo a cuerpo a tus ataques naturales usando la dote Cambio de arma, tus ataques naturales también obtienen las habilidades especiales del arma, como la habilidad especial de fuego. Cambio de arma mejorado no aplica las bonificaciones de mejora del arma a tus ataques."
+    },
+    {
+        "Key": "GreaterWeaponShiftFeature.Name",
+        "ProcessTemplates": false,
+        "zhCN": "高等武器形态转换",
+        "enGB": "Greater Weapon Shift",
+        "esES": "Armas de Cambiante Mejoradas II"
+    },
+    {
+        "Key": "GreaterWeaponShiftFeature.Description",
+        "zhCN": "当你通过武器形态转换专长将一把近战武器的伤害类型和特性赋予自然攻击时，你的自然攻击还将获得等同于该武器增强加值（若有）的攻击与伤害检定增强加值。",
+        "enGB": "When you apply a melee weapon’s damage type and properties to your natural attacks using the Weapon Shift feat, your natural attacks also gain an enhancement bonus on attack and damage rolls equal to the enhancement bonus (if any) of the weapon.",
+        "esES": "Cuando aplicas el tipo de daño y las propiedades de un arma cuerpo a cuerpo a tus ataques naturales usando la dote Cambio de arma, tus ataques naturales también obtienen una bonificación de mejora en las tiradas de ataque y daño igual a la bonificación de mejora (si la hay) del arma."
+    },
+    {
+        "Key": "GreaterWeaponShiftBuff.Name",
+        "ProcessTemplates": false,
+        "zhCN": "高等武器形态转换",
+        "enGB": "Greater Weapon Shift",
+        "esES": "Armas de Cambiante Mejoradas II"
+    },
+    {
+        "Key": "GreaterWeaponShiftBuff.Description",
+        "zhCN": "当你通过武器形态转换专长将一把近战武器的伤害类型和特性赋予自然攻击时，你的自然攻击还将获得等同于该武器增强加值（若有）的攻击与伤害检定增强加值。",
+        "enGB": "When you apply a melee weapon’s damage type and properties to your natural attacks using the Weapon Shift feat, your natural attacks also gain an enhancement bonus on attack and damage rolls equal to the enhancement bonus (if any) of the weapon.",
+        "esES": "Cuando aplicas el tipo de daño y las propiedades de un arma cuerpo a cuerpo a tus ataques naturales usando la dote Cambio de arma, tus ataques naturales también obtienen una bonificación de mejora en las tiradas de ataque y daño igual a la bonificación de mejora (si la hay) del arma."
+    },
+    {
+        "Key": "ActivateWeaponShift.Name",
+        "ProcessTemplates": false,
+        "zhCN": "激活武器形态转换",
+        "enGB": "Activate Weapon Shift",
+        "esES": "Activar Armas de Cambiante"
+    },
+    {
+        "Key": "ActivateWeaponShift.Description",
+        "zhCN": "允许激活武器形态转换增益",
+        "enGB": "Allow activate weapon shift buffs",
+        "esES": "Permite activar las bonificaciones de cambiante"
     }
 ]
