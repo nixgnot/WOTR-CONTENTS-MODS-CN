@@ -29356,6 +29356,468 @@
       "ProcessTemplates": true,
       "enGB": "\nYou seek to honour your deity with duels against worthy opponents.\nDivine Challenge: As a swift action, you can challenge a visible foe within 30 feet, gaining a +1 sacred bonus to your AC against that creature’s attacks and a bonus equal to 1/2 your cleric level on Bluff skill checks to feint against it. These bonuses last for a number of rounds equal to 1/2 your cleric level. You can use this ability a number of times per day equal to 3 + your Wisdom modifier.\nDomain Spells: magic weapon, grace, magical vestment, divine power, dance of a hundred cuts, blade barrier, power word blind, dance of a thousand cuts, power word kill.",
       "zhCN": "\n你通过挑战恰如其分的对手来追寻神赐的荣耀。\n神圣挑战：以一个迅捷动作，你挑战30尺内的一个可见敌人，在对抗该生物的AC上获得+1崇圣加值，对其进行的佯攻沟通（唬骗）检定上获得等于牧师等级一半的加值。这些加值持续轮数等于你牧师等级的一半。每日可用次数为3+感知调整值。\n领域法术：魔化武器，优雅步伐，魔化防具，神能，百袭战舞，剑刃障壁，律令目盲，千袭战舞，律令死亡。"
-    }
+    },
+    {
+      "Key": "04c002ea025f4d40a92b6dc2a64f61c1",
+      "SimpleName": "FaithfulParagonArchetype.Description",
+      "ProcessTemplates": false,
+      "enGB": "For warprieists that find themselves fighting back to back with paladins, the call to take up additional oaths in service to their god is often expected. Those who do gain the power to manifest their faith in battle granting them enhanced vitality. Their strong devotion grants them the title of faithful paragon.",
+      "zhCN": "对于那些发现自己与圣骑士并肩作战的战斗祭司而言，响应神圣召唤、为其神明立下更多誓言往往是必然之举。践行者将获得在战斗中显化信仰的力量，从而提升生命力。他们坚定的奉献为其赢得了忠贞典范的称号。"
+    },
+    {
+      "Key": "5fd7a6b7e4b843c39cddc28058cb6ccb",
+      "SimpleName": "FaithfulParagonArchetype.Name",
+      "ProcessTemplates": false,
+      "enGB": "Faithful Paragon",
+      "zhCN": "忠贞典范"
+    },
+    {
+      "Key": "90be6c4edf07422abdc4ec5fcd2eedb1",
+      "SimpleName": "FaithfulParagonDivineConvictionAbility.Description",
+      "ProcessTemplates": true,
+      "enGB": "At 4th level, a faithful paragon may expend a use of fervor as a free action to add his charisma bonus (if any) to the next saving throw he makes. \nThis effect is expended after a saving throw, or during a long rest.",
+      "zhCN": "4级起，忠贞典范可以用自由动作消耗一次热诚使用次数，将自身的魅力加值（若有）添加到下一次豁免检定中。\n此效果在完成一次豁免检定后或下一次长休时失效。"
+    },
+    {
+      "Key": "c7dbe4f9471f4ae5ae7db77a35044f61",
+      "SimpleName": "FaithfulParagonDivineConvictionBuff.Description",
+      "ProcessTemplates": true,
+      "enGB": "At 4th level, a faithful paragon may expend a use of fervor as a free action to add his charisma bonus (if any) to the next saving throw he makes. \nThis effect is expended after a saving throw, or during a long rest.",
+      "zhCN": "4级起，忠贞典范可以用自由动作消耗一次热诚使用次数，将自身的魅力加值（若有）添加到下一次豁免检定中。\n此效果在完成一次豁免检定后或下一次长休时失效。"
+    },
+    {
+      "Key": "97fef949e2244ce385a3584a7385f906",
+      "SimpleName": "FaithfulParagonDivineConvictionBuff.Name",
+      "ProcessTemplates": false,
+      "enGB": "Divine Conviction",
+      "zhCN": "神圣信念"
+    },
+    {
+      "Key": "cb7cdc2ca6304a74b5c5825ef11fcadf",
+      "SimpleName": "FaithfulParagonDivineConvictionFeature.Description",
+      "ProcessTemplates": true,
+      "enGB": "At 4th level, a faithful paragon may expend a use of fervor as a free action to add his charisma bonus (if any) to the next saving throw he makes. \nThis effect is expended after a saving throw, or during a long rest.",
+      "zhCN": "4级起，忠贞典范可以用自由动作消耗一次热诚使用次数，将自身的魅力加值（若有）添加到下一次豁免检定中。\n此效果在完成一次豁免检定后或下一次长休时失效。"
+    },
+    {
+      "Key": "33cff2a3b106410dbb5f765a8289ab26",
+      "SimpleName": "FaithfulParagonFaithSustainsAbility.Description",
+      "ProcessTemplates": true,
+      "enGB": "At 3rd level, a faithful paragon draws upon his convictions to sustain him in battle. As a move action, by expending a use of fervor he gains a +2 morale bonus to constitution for a number of rounds equal to his faithful paragon level + his constitution modifier. The morale bonus increases to +4 at 9th level, and to +6 at 15th level.",
+      "zhCN": "3级起，忠贞典范可借助信念在战斗中维持坚韧。通过以一个移动动作，消耗一次热诚使用次数（，其体质获得+2士气加值，持续轮数等于忠贞典范等级+体质调整值。此士气加值在9级时提升至+4，15级时提升至+6。"
+    },
+    {
+      "Key": "8ffdfe7a849f4bee936e3b8d70f9c729",
+      "SimpleName": "FaithfulParagonFaithSustainsAbility.Duration",
+      "ProcessTemplates": false,
+      "enGB": "1 round/level + constitution modifier",
+      "zhCN": "1轮/每等级 + 体质调整值"
+    },
+    {
+      "Key": "45567ba611d747e283be9aef466dec9a",
+      "SimpleName": "FaithfulParagonFaithSustainsBuff.Description",
+      "ProcessTemplates": true,
+      "enGB": "At 3rd level, a faithful paragon draws upon his convictions to sustain him in battle. As a move action, by expending a use of fervor he gains a +2 morale bonus to constitution for a number of rounds equal to his faithful paragon level + his constitution modifier. The morale bonus increases to +4 at 9th level, and to +6 at 15th level.",
+      "zhCN": "3级起，忠贞典范可借助信念在战斗中维持坚韧。通过以一个移动动作，消耗一次热诚使用次数（，其体质获得+2士气加值，持续轮数等于忠贞典范等级+体质调整值。此士气加值在9级时提升至+4，15级时提升至+6。"
+    },
+    {
+      "Key": "ab527e9e3b384150ac9b6fc3de74bb30",
+      "SimpleName": "FaithfulParagonFaithSustainsBuff.Name",
+      "ProcessTemplates": false,
+      "enGB": "Faith Sustains",
+      "zhCN": "信仰支撑"
+    },
+    {
+      "Key": "47cdd1537daf4b78976edb96b9735071",
+      "SimpleName": "FaithfulParagonFaithSustainsFeature.Description",
+      "ProcessTemplates": true,
+      "enGB": "At 3rd level, a faithful paragon draws upon his convictions to sustain him in battle. As a move action, by expending a use of fervor he gains a +2 morale bonus to constitution for a number of rounds equal to his faithful paragon level + his constitution modifier. The morale bonus increases to +4 at 9th level, and to +6 at 15th level.",
+      "zhCN": "3级起，忠贞典范可借助信念在战斗中维持坚韧。通过以一个移动动作，消耗一次热诚使用次数（，其体质获得+2士气加值，持续轮数等于忠贞典范等级+体质调整值。此士气加值在9级时提升至+4，15级时提升至+6。"
+    },
+    {
+      "Key": "b730c733f14445e382dbb5cf6e3dc4c3",
+      "SimpleName": "FaithfulParagonFervorFeature.Description",
+      "ProcessTemplates": true,
+      "enGB": "A faithful paragon adds his Wisdom bonus (minimum 1) to his daily uses of fervor. ",
+      "zhCN": "忠贞典范的每日热诚使用次数额外增加其感知加值（至少为1）。"
+    },
+    {
+      "Key": "50ba0fb34669484b95ff81e9928d1afe",
+      "SimpleName": "FaithfulParagonFervorFeature.Name",
+      "ProcessTemplates": false,
+      "enGB": "Paragons Fervor",
+      "zhCN": "典范热诚"
+    },
+    {
+      "Key": "8503028868d544c5a860431c1fbe81c1",
+      "SimpleName": "FaithfulParagonSpellsFeature.Description",
+      "ProcessTemplates": true,
+      "enGB": "A faithful paragon casts spell drawn from the paladin list in addition to the spells from the cleric list normally available to a warpriest. If a spell appears on both lists the faithful paragon may prepare it at the lowest of the two spell levels presented.",
+      "zhCN": "忠贞典范可额外从圣武士列表中选取法术，并同样正常获得战斗祭司的牧师法术列表。若某法术同时存在于两个列表中，忠贞典范可按照两者中较低的法术等级准备该法术。"
+    },
+    {
+      "Key": "127140eb38894d97aee719fe42a31e5e",
+      "SimpleName": "FaithfulParagonSpellsFeature.Name",
+      "ProcessTemplates": false,
+      "enGB": "Paragon Spells",
+      "zhCN": "典范法术"
+    },
+    {
+      "Key": "280c5fb9c3ad4591ae43a16cf6f577b3",
+      "SimpleName": "DetonateAcidAbility.Description",
+      "ProcessTemplates": true,
+      "enGB": "You flood yourself with a potent surge of elemental energy. One round after completing the casting of the spell, the energy explodes from your body. \nChoose one of the following four energy types: acid, cold, electricity, or fire. The explosion inflicts 1d8 points of damage of that energy type per caster level (maximum 10d8) to all creatures within 15 feet, and half that amount to targets past 15 feet but within 30 feet. You automatically take half damage from the explosion, without a saving throw, but any other energy resistance or energy immunity effects you may have in place can prevent or lessen this overflow damage caused by the explosion.",
+      "zhCN": "你将汹涌的元素能量注入体内。施法完成一回合后，能量从体内爆发。\n选择以下四种能量类型之一：酸蚀、寒冷、电击或火焰。爆炸对15尺内所有生物造成每施法者等级1d8点该类型伤害（最高10d8），15尺外至30尺内的目标承受半数伤害。你自动受到半数伤害（无需豁免），已有的能量抗性或免疫效果可减免此伤害。"
+    },
+    {
+      "Key": "4bf4726c96d74c288f7bb40956f1cf35",
+      "SimpleName": "DetonateAcidAbility.Duration",
+      "ProcessTemplates": false,
+      "enGB": "1 round, then instantaneous",
+      "zhCN": "1轮，随后立即生效"
+    },
+    {
+      "Key": "363450baa5124f05af78d23754c70f8b",
+      "SimpleName": "DetonateAcidBuff.Description",
+      "ProcessTemplates": true,
+      "enGB": "You flood yourself with a potent surge of elemental energy. One round after completing the casting of the spell, the energy explodes from your body. \nChoose one of the following four energy types: acid, cold, electricity, or fire. The explosion inflicts 1d8 points of damage of that energy type per caster level (maximum 10d8) to all creatures within 15 feet, and half that amount to targets past 15 feet but within 30 feet. You automatically take half damage from the explosion, without a saving throw, but any other energy resistance or energy immunity effects you may have in place can prevent or lessen this overflow damage caused by the explosion.",
+      "zhCN": "你将汹涌的元素能量注入体内。施法完成一回合后，能量从体内爆发。\n选择以下四种能量类型之一：酸蚀、寒冷、电击或火焰。爆炸对15尺内所有生物造成每施法者等级1d8点该类型伤害（最高10d8），15尺外至30尺内的目标承受半数伤害。你自动受到半数伤害（无需豁免），已有的能量抗性或免疫效果可减免此伤害。"
+    },
+    {
+      "Key": "b10ff4ad28a5420691e71cb922ae4644",
+      "SimpleName": "DetonateAcidBuff.Name",
+      "ProcessTemplates": false,
+      "enGB": "Detonate - Acid",
+      "zhCN": "自爆 - 酸蚀"
+    },
+    {
+      "Key": "1f610ba2a02b4f61a0f36181f25e5d05",
+      "SimpleName": "DetonateAcidExplosion.Description",
+      "ProcessTemplates": true,
+      "enGB": "The explosion inflicts 1d8 points of damage of that energy type per caster level (maximum 10d8) to all creatures within 15 feet, and half that amount to targets past 15 feet but within 30 feet. You automatically take half damage from the explosion, without a saving throw, but any other energy resistance or energy immunity effects you may have in place can prevent or lessen this overflow damage caused by the explosion.",
+      "zhCN": "爆炸对15尺内所有生物造成每施法者等级1d8点该类型伤害（最高10d8），15尺外至30尺内的目标承受半数伤害。你自动受到半数伤害（无需豁免），已有的能量抗性或免疫效果可减免此伤害。"
+    },
+    {
+      "Key": "3636b0915fd940838891b754b7ef6cba",
+      "SimpleName": "DetonateAcidExplosion.SavingThrow",
+      "ProcessTemplates": false,
+      "enGB": "Relex half",
+      "zhCN": "反射减半"
+    },
+    {
+      "Key": "610207fbbe9a414cb466bbb06b564463",
+      "SimpleName": "DetonateBaseAbility.Description",
+      "ProcessTemplates": true,
+      "enGB": "You flood yourself with a potent surge of elemental energy. One round after completing the casting of the spell, the energy explodes from your body. \nChoose one of the following four energy types: acid, cold, electricity, or fire. The explosion inflicts 1d8 points of damage of that energy type per caster level (maximum 10d8) to all creatures within 15 feet, and half that amount to targets past 15 feet but within 30 feet. You automatically take half damage from the explosion, without a saving throw, but any other energy resistance or energy immunity effects you may have in place can prevent or lessen this overflow damage caused by the explosion.",
+      "zhCN": "你将汹涌的元素能量注入体内。施法完成一回合后，能量从体内爆发。\n选择以下四种能量类型之一：酸蚀、寒冷、电击或火焰。爆炸对15尺内所有生物造成每施法者等级1d8点该类型伤害（最高10d8），15尺外至30尺内的目标承受半数伤害。你自动受到半数伤害（无需豁免），已有的能量抗性或免疫效果可减免此伤害。"
+    },
+    {
+      "Key": "df7fb1a13ae6460689e3054c836dcef7",
+      "SimpleName": "DetonateBaseAbility.Name",
+      "ProcessTemplates": false,
+      "enGB": "Detonate",
+      "zhCN": "自爆"
+    },
+    {
+      "Key": "aea16b45129540b287e1f08ed336abf6",
+      "SimpleName": "DetonateColdAbility.Description",
+      "ProcessTemplates": true,
+      "enGB": "You flood yourself with a potent surge of elemental energy. One round after completing the casting of the spell, the energy explodes from your body. \nChoose one of the following four energy types: acid, cold, electricity, or fire. The explosion inflicts 1d8 points of damage of that energy type per caster level (maximum 10d8) to all creatures within 15 feet, and half that amount to targets past 15 feet but within 30 feet. You automatically take half damage from the explosion, without a saving throw, but any other energy resistance or energy immunity effects you may have in place can prevent or lessen this overflow damage caused by the explosion.",
+      "zhCN": "你将汹涌的元素能量注入体内。施法完成一回合后，能量从体内爆发。\n选择以下四种能量类型之一：酸蚀、寒冷、电击或火焰。爆炸对15尺内所有生物造成每施法者等级1d8点该类型伤害（最高10d8），15尺外至30尺内的目标承受半数伤害。你自动受到半数伤害（无需豁免），已有的能量抗性或免疫效果可减免此伤害。"
+    },
+    {
+      "Key": "2232496c051243fb87af3243e8d96d45",
+      "SimpleName": "DetonateColdBuff.Description",
+      "ProcessTemplates": true,
+      "enGB": "You flood yourself with a potent surge of elemental energy. One round after completing the casting of the spell, the energy explodes from your body. \nChoose one of the following four energy types: acid, cold, electricity, or fire. The explosion inflicts 1d8 points of damage of that energy type per caster level (maximum 10d8) to all creatures within 15 feet, and half that amount to targets past 15 feet but within 30 feet. You automatically take half damage from the explosion, without a saving throw, but any other energy resistance or energy immunity effects you may have in place can prevent or lessen this overflow damage caused by the explosion.",
+      "zhCN": "你将汹涌的元素能量注入体内。施法完成一回合后，能量从体内爆发。\n选择以下四种能量类型之一：酸蚀、寒冷、电击或火焰。爆炸对15尺内所有生物造成每施法者等级1d8点该类型伤害（最高10d8），15尺外至30尺内的目标承受半数伤害。你自动受到半数伤害（无需豁免），已有的能量抗性或免疫效果可减免此伤害。"
+    },
+    {
+      "Key": "f4907be53c3240f494751599d8db344e",
+      "SimpleName": "DetonateColdBuff.Name",
+      "ProcessTemplates": false,
+      "enGB": "Detonate - Cold",
+      "zhCN": "自爆 - 寒冷"
+    },
+    {
+      "Key": "bab97c97105448419796253d9b8e4c49",
+      "SimpleName": "DetonateColdExplosion.Description",
+      "ProcessTemplates": true,
+      "enGB": "The explosion inflicts 1d8 points of damage of that energy type per caster level (maximum 10d8) to all creatures within 15 feet, and half that amount to targets past 15 feet but within 30 feet. You automatically take half damage from the explosion, without a saving throw, but any other energy resistance or energy immunity effects you may have in place can prevent or lessen this overflow damage caused by the explosion.",
+      "zhCN": "爆炸对15尺内所有生物造成每施法者等级1d8点该类型伤害（最高10d8），15尺外至30尺内的目标承受半数伤害。你自动受到半数伤害（无需豁免），已有的能量抗性或免疫效果可减免此伤害。"
+    },
+    {
+      "Key": "0c6478c8687345fcbdc1d70e9a4ff7a6",
+      "SimpleName": "DetonateElectricityAbility.Description",
+      "ProcessTemplates": true,
+      "enGB": "You flood yourself with a potent surge of elemental energy. One round after completing the casting of the spell, the energy explodes from your body. \nChoose one of the following four energy types: acid, cold, electricity, or fire. The explosion inflicts 1d8 points of damage of that energy type per caster level (maximum 10d8) to all creatures within 15 feet, and half that amount to targets past 15 feet but within 30 feet. You automatically take half damage from the explosion, without a saving throw, but any other energy resistance or energy immunity effects you may have in place can prevent or lessen this overflow damage caused by the explosion.",
+      "zhCN": "你将汹涌的元素能量注入体内。施法完成一回合后，能量从体内爆发。\n选择以下四种能量类型之一：酸蚀、寒冷、电击或火焰。爆炸对15尺内所有生物造成每施法者等级1d8点该类型伤害（最高10d8），15尺外至30尺内的目标承受半数伤害。你自动受到半数伤害（无需豁免），已有的能量抗性或免疫效果可减免此伤害。"
+    },
+    {
+      "Key": "9fae0e9927f54a23a4c37145b6ff60a1",
+      "SimpleName": "DetonateElectricityBuff.Description",
+      "ProcessTemplates": true,
+      "enGB": "You flood yourself with a potent surge of elemental energy. One round after completing the casting of the spell, the energy explodes from your body. \nChoose one of the following four energy types: acid, cold, electricity, or fire. The explosion inflicts 1d8 points of damage of that energy type per caster level (maximum 10d8) to all creatures within 15 feet, and half that amount to targets past 15 feet but within 30 feet. You automatically take half damage from the explosion, without a saving throw, but any other energy resistance or energy immunity effects you may have in place can prevent or lessen this overflow damage caused by the explosion.",
+      "zhCN": "你将汹涌的元素能量注入体内。施法完成一回合后，能量从体内爆发。\n选择以下四种能量类型之一：酸蚀、寒冷、电击或火焰。爆炸对15尺内所有生物造成每施法者等级1d8点该类型伤害（最高10d8），15尺外至30尺内的目标承受半数伤害。你自动受到半数伤害（无需豁免），已有的能量抗性或免疫效果可减免此伤害。"
+    },
+    {
+      "Key": "8d891d772c3b47478dc066f9d04f5f5f",
+      "SimpleName": "DetonateElectricityBuff.Name",
+      "ProcessTemplates": false,
+      "enGB": "Detonate - Electricity",
+      "zhCN": "自爆 - 电击"
+    },
+    {
+      "Key": "03e5d0e773f44e6aa1a4669ca4179049",
+      "SimpleName": "DetonateElectricityExplosion.Description",
+      "ProcessTemplates": true,
+      "enGB": "The explosion inflicts 1d8 points of damage of that energy type per caster level (maximum 10d8) to all creatures within 15 feet, and half that amount to targets past 15 feet but within 30 feet. You automatically take half damage from the explosion, without a saving throw, but any other energy resistance or energy immunity effects you may have in place can prevent or lessen this overflow damage caused by the explosion.",
+      "zhCN": "爆炸对15尺内所有生物造成每施法者等级1d8点该类型伤害（最高10d8），15尺外至30尺内的目标承受半数伤害。你自动受到半数伤害（无需豁免），已有的能量抗性或免疫效果可减免此伤害。"
+    },
+    {
+      "Key": "bf4672b97c934cbb90b19489654a4727",
+      "SimpleName": "DetonateFireAbility.Description",
+      "ProcessTemplates": true,
+      "enGB": "You flood yourself with a potent surge of elemental energy. One round after completing the casting of the spell, the energy explodes from your body. \nChoose one of the following four energy types: acid, cold, electricity, or fire. The explosion inflicts 1d8 points of damage of that energy type per caster level (maximum 10d8) to all creatures within 15 feet, and half that amount to targets past 15 feet but within 30 feet. You automatically take half damage from the explosion, without a saving throw, but any other energy resistance or energy immunity effects you may have in place can prevent or lessen this overflow damage caused by the explosion.",
+      "zhCN": "你将汹涌的元素能量注入体内。施法完成一回合后，能量从体内爆发。\n选择以下四种能量类型之一：酸蚀、寒冷、电击或火焰。爆炸对15尺内所有生物造成每施法者等级1d8点该类型伤害（最高10d8），15尺外至30尺内的目标承受半数伤害。你自动受到半数伤害（无需豁免），已有的能量抗性或免疫效果可减免此伤害。"
+    },
+    {
+      "Key": "37c4d62ee0fd4290ba19250db59dec62",
+      "SimpleName": "DetonateFireBuff.Description",
+      "ProcessTemplates": true,
+      "enGB": "You flood yourself with a potent surge of elemental energy. One round after completing the casting of the spell, the energy explodes from your body. \nChoose one of the following four energy types: acid, cold, electricity, or fire. The explosion inflicts 1d8 points of damage of that energy type per caster level (maximum 10d8) to all creatures within 15 feet, and half that amount to targets past 15 feet but within 30 feet. You automatically take half damage from the explosion, without a saving throw, but any other energy resistance or energy immunity effects you may have in place can prevent or lessen this overflow damage caused by the explosion.",
+      "zhCN": "你将汹涌的元素能量注入体内。施法完成一回合后，能量从体内爆发。\n选择以下四种能量类型之一：酸蚀、寒冷、电击或火焰。爆炸对15尺内所有生物造成每施法者等级1d8点该类型伤害（最高10d8），15尺外至30尺内的目标承受半数伤害。你自动受到半数伤害（无需豁免），已有的能量抗性或免疫效果可减免此伤害。"
+    },
+    {
+      "Key": "a54b2f123a284ca7ad918b01d72e1d80",
+      "SimpleName": "DetonateFireBuff.Name",
+      "ProcessTemplates": false,
+      "enGB": "Detonate - Fire",
+      "zhCN": "自爆 - 火焰"
+    },
+    {
+      "Key": "22a9f5e4b01e4f1c930360fecf1d28f4",
+      "SimpleName": "DetonateFireExplosion.Description",
+      "ProcessTemplates": true,
+      "enGB": "The explosion inflicts 1d8 points of damage of that energy type per caster level (maximum 10d8) to all creatures within 15 feet, and half that amount to targets past 15 feet but within 30 feet. You automatically take half damage from the explosion, without a saving throw, but any other energy resistance or energy immunity effects you may have in place can prevent or lessen this overflow damage caused by the explosion.",
+      "zhCN": "爆炸对15尺内所有生物造成每施法者等级1d8点该类型伤害（最高10d8），15尺外至30尺内的目标承受半数伤害。你自动受到半数伤害（无需豁免），已有的能量抗性或免疫效果可减免此伤害。"
+    },
+    {
+      "Key": "7251958508a14b1aaeaf3dc918172077",
+      "SimpleName": "IncendiaryCloudAbility.Description",
+      "ProcessTemplates": true,
+      "enGB": "An incendiary cloud spell creates a cloud of roiling smoke shot through with white-hot embers. All targets within the mist gain concealment. the white-hot embers within the cloud deal 6d6 points of fire damage to everything within the cloud on your turn each round. All targets can make Reflex saves each round to take half damage.\nUnlike a fog cloud, the incendiary cloud moves away from you at 10 feet per round, rolling along the surface of the ground.",
+      "zhCN": "炽焰火云术创造一片翻腾的烟雾，其中夹杂着白热的余烬。雾中的所有目标获得隐蔽。每回合你的行动阶段，火云中的白热余烬对范围内所有生物造成6d6点火焰伤害。所有目标每回合可进行反射豁免以减半伤害。\n与云雾术不同，炽焰火云以每轮10尺的速度远离施法者，沿地面滚动。"
+    },
+    {
+      "Key": "9a5a73d0156f409484d9cc3b2d2b6ff1",
+      "SimpleName": "IncendiaryCloudAbility.Name",
+      "ProcessTemplates": false,
+      "enGB": "Incendiary Cloud",
+      "zhCN": "炽焰火云"
+    },
+    {
+      "Key": "262bb9d039d64f30a88a4fb69f0b5247",
+      "SimpleName": "IncendiaryCloudConcealmentBuff.Description",
+      "ProcessTemplates": true,
+      "enGB": "All targets within the incendiary cloud gain concealment.",
+      "zhCN": "炽焰火云内的所有目标获得隐蔽。"
+    },
+    {
+      "Key": "2ec0b49b80684e899bebf26ce92848cf",
+      "SimpleName": "IncendiaryCloudConcealmentBuff.Name",
+      "ProcessTemplates": false,
+      "enGB": "Incendiary Cloud Concealment",
+      "zhCN": "炽焰火云隐蔽"
+    },
+    {
+      "Key": "a47744f28dfb49d6a6cde5737ea0f822",
+      "SimpleName": "AshDomainBaseFeature.Name",
+      "ProcessTemplates": false,
+      "enGB": "Ash Subdomain",
+      "zhCN": "灰烬子域"
+    },
+    {
+      "Key": "cec481d3b054462a8ae7175fc0a2819a",
+      "SimpleName": "AshDomainBaseFeatureSeparatist.Description",
+      "ProcessTemplates": true,
+      "enGB": "\nYou can focus flame to a fine point, and use the embers left to blind your foes. \nFire Bolt: As a standard action, you can unleash a scorching bolt of divine fire from your outstretched hand. You can target any single foe within 30 feet as a ranged touch attack with this bolt of fire. If you hit the foe, the fire bolt deals 1d6 points of fire damage + 1 point for every two levels you possess in the class that gave you access to this domain. You can use this ability a number of times per day equal to 3 + your Wisdom modifier. \nWall of Ashes: At 8th level, you can create a wall of swirling ashes lasting for one minute. Any creature passing through it must make a Fortitude save or be blinded for 1d4 rounds. The wall of ash reveals invisible creatures that are inside it, although they become invisible again if they move out of the wall. You can use this ability a number of times per day equal to your cleric level.",
+      "zhCN": "\n你能将火焰凝聚为一点，并用余烬致盲敌人。\n火焰箭：以标准动作，你从掌心射出一道神圣火焰箭。可对30尺内单一目标进行远程接触攻击，命中后造成1d6火焰伤害+每2个提供此子域的职业等级1点伤害。每日使用次数为3+感知调整值。\n灰烬之墙：8级时，你能创造一道持续1分钟的旋转灰烬墙。穿过墙体的生物需通过强韧豁免，否则目盲1d4轮。灰烬墙会显形其中的隐形生物，但若其离开墙体则会恢复隐形。每日使用次数等于牧师等级。"
+    },
+    {
+      "Key": "83a8e23511c14421a7e44f160f0a5e01",
+      "SimpleName": "AshDomainGreaterAbility.Description",
+      "ProcessTemplates": true,
+      "enGB": "At 8th level, you can create a wall of swirling ashes lasting for one minute. Any creature passing through it must make a Fortitude save or be blinded for 1d4 rounds. The wall of ash reveals invisible creatures that are inside it, although they become invisible again if they move out of the wall. You can use this ability a number of times per day equal to your cleric level.",
+      "zhCN": "8级时，你能创造一道持续1分钟的旋转灰烬墙。穿过墙体的生物需通过强韧豁免，否则目盲1d4轮。灰烬墙会显形其中的隐形生物，但若其离开墙体则会恢复隐形。每日使用次数等于牧师等级。"
+    },
+    {
+      "Key": "0a673566cbcc4fee822c182e9a16ff3b",
+      "SimpleName": "AshDomainGreaterAbility.Name",
+      "ProcessTemplates": false,
+      "enGB": "Wall of Ashes",
+      "zhCN": "灰烬之墙"
+    },
+    {
+      "Key": "94078de14de2414eac6d9321549e7397",
+      "SimpleName": "AshDomainGreaterAbilitySeparatist.Description",
+      "ProcessTemplates": true,
+      "enGB": "At 8th level, you can create a wall of swirling ashes lasting for one minute. Any creature passing through it must make a Fortitude save or be blinded for 1d4 rounds. The wall of ash reveals invisible creatures that are inside it, although they become invisible again if they move out of the wall. You can use this ability a number of times per day equal to your cleric level.",
+      "zhCN": "8级时，你能创造一道持续1分钟的旋转灰烬墙。穿过墙体的生物需通过强韧豁免，否则目盲1d4轮。灰烬墙会显形其中的隐形生物，但若其离开墙体则会恢复隐形。每日使用次数等于牧师等级。"
+    },
+    {
+      "Key": "d4b5ca52d5ae4434885880e7946939de",
+      "SimpleName": "AshDomainGreaterBuffBlind.Description",
+      "ProcessTemplates": true,
+      "enGB": "Any creature that fails the Fortitude save from wall of ashes is blinded for 1d4 rounds.",
+      "zhCN": "未能通过灰烬之墙强韧豁免的生物将目盲1d4轮。"
+    },
+    {
+      "Key": "2039bbf0b494400193ef9072d2c50301",
+      "SimpleName": "AshDomainGreaterBuffBlind.Name",
+      "ProcessTemplates": false,
+      "enGB": "Wall of Ashes - Blind",
+      "zhCN": "灰烬之墙 - 目盲"
+    },
+    {
+      "Key": "9aa7ee8336154101890c88d3433238ec",
+      "SimpleName": "AshDomainGreaterBuffRemoveInvisible.Description",
+      "ProcessTemplates": true,
+      "enGB": "All creatures in the wall of ashes are made visible by the gaps in the smoke.",
+      "zhCN": "灰烬之墙中的生物因烟雾间隙而显形。"
+    },
+    {
+      "Key": "30cadd22820e49798232c49e744d1444",
+      "SimpleName": "AshDomainGreaterBuffRemoveInvisible.Name",
+      "ProcessTemplates": false,
+      "enGB": "Wall of Ashes - Visible",
+      "zhCN": "灰烬之墙 - 显形"
+    },
+    {
+      "Key": "9225a2ee08c54ac9aa8b63c0d1c4c4d4",
+      "SimpleName": "AshDomainGreaterFeature.Description",
+      "ProcessTemplates": true,
+      "enGB": "At 8th level, you can create a wall of swirling ashes lasting for one minute. Any creature passing through it must make a Fortitude save or be blinded for 1d4 rounds. The wall of ash reveals invisible creatures that are inside it, although they become invisible again if they move out of the wall. You can use this ability a number of times per day equal to your cleric level.",
+      "zhCN": "8级时，你能创造一道持续1分钟的旋转灰烬墙。穿过墙体的生物需通过强韧豁免，否则目盲1d4轮。灰烬墙会显形其中的隐形生物，但若其离开墙体则会恢复隐形。每日使用次数等于牧师等级。"
+    },
+    {
+      "Key": "5b28aaaf6b804a8fa3e7f79f99d3e2b6",
+      "SimpleName": "AshDomainProgression.Description",
+      "ProcessTemplates": true,
+      "enGB": "\nYou can focus flame to a fine point, and use the embers left to blind your foes. \nFire Bolt: As a standard action, you can unleash a scorching bolt of divine fire from your outstretched hand. You can target any single foe within 30 feet as a ranged touch attack with this bolt of fire. If you hit the foe, the fire bolt deals 1d6 points of fire damage + 1 point for every two levels you possess in the class that gave you access to this domain. You can use this ability a number of times per day equal to 3 + your Wisdom modifier. \nWall of Ashes: At 8th level, you can create a wall of swirling ashes lasting for one minute. Any creature passing through it must make a Fortitude save or be blinded for 1d4 rounds. The wall of ash reveals invisible creatures that are inside it, although they become invisible again if they move out of the wall. You can use this ability a number of times per day equal to your cleric level. \nDomain Spells: burning hands, scorching ray, fireball, controlled fireball, flame strike, summon huge fire elemental, disintegrate, summon elder fire elemental, fiery body.",
+      "zhCN": "\n你能将火焰凝聚为一点，并用余烬致盲敌人。\n火焰箭：以标准动作，你从掌心射出一道神圣火焰箭。可对30尺内单一目标进行远程接触攻击，命中后造成1d6火焰伤害+每2个提供此子域的职业等级1点伤害。每日使用次数为3+感知调整值。\n灰烬之墙：8级时，你能创造一道持续1分钟的旋转灰烬墙。穿过墙体的生物需通过强韧豁免，否则目盲1d4轮。灰烬墙会显形其中的隐形生物，但若其离开墙体则会恢复隐形。每日使用次数等于牧师等级。\n领域法术：燃烧之手、灼热射线、火球术、可控火球术、炽焰击、召唤超大型火元素、解离术、召唤火元素长者、火焰之躯。"
+    },
+    {
+      "Key": "8eb23c3045ee4660888aaebbdc5e2b25",
+      "SimpleName": "AshDomainProgressionDruid.Description",
+      "ProcessTemplates": true,
+      "enGB": "\nYou can focus flame to a fine point, and use the embers left to blind your foes. \nFire Bolt: As a standard action, you can unleash a scorching bolt of divine fire from your outstretched hand. You can target any single foe within 30 feet as a ranged touch attack with this bolt of fire. If you hit the foe, the fire bolt deals 1d6 points of fire damage + 1 point for every two levels you possess in the class that gave you access to this domain. You can use this ability a number of times per day equal to 3 + your Wisdom modifier. \nWall of Ashes: At 8th level, you can create a wall of swirling ashes lasting for one minute. Any creature passing through it must make a Fortitude save or be blinded for 1d4 rounds. The wall of ash reveals invisible creatures that are inside it, although they become invisible again if they move out of the wall. You can use this ability a number of times per day equal to your cleric level. \nDomain Spells: burning hands, scorching ray, fireball, controlled fireball, flame strike, summon huge fire elemental, disintegrate, summon elder fire elemental, fiery body.",
+      "zhCN": "\n你能将火焰凝聚为一点，并用余烬致盲敌人。\n火焰箭：以标准动作，你从掌心射出一道神圣火焰箭。可对30尺内单一目标进行远程接触攻击，命中后造成1d6火焰伤害+每2个提供此子域的职业等级1点伤害。每日使用次数为3+感知调整值。\n灰烬之墙：8级时，你能创造一道持续1分钟的旋转灰烬墙。穿过墙体的生物需通过强韧豁免，否则目盲1d4轮。灰烬墙会显形其中的隐形生物，但若其离开墙体则会恢复隐形。每日使用次数等于牧师等级。\n领域法术：燃烧之手、灼热射线、火球术、可控火球术、炽焰击、召唤超大型火元素、解离术、召唤火元素长者、火焰之躯。"
+    },
+    {
+      "Key": "999e88cb7479403fbd3de4219834a1e1",
+      "SimpleName": "AshDomainProgressionSecondary.Description",
+      "ProcessTemplates": true,
+      "enGB": "\nYou can focus flame to a fine point, and use the embers left to blind your foes. \nFire Bolt: As a standard action, you can unleash a scorching bolt of divine fire from your outstretched hand. You can target any single foe within 30 feet as a ranged touch attack with this bolt of fire. If you hit the foe, the fire bolt deals 1d6 points of fire damage + 1 point for every two levels you possess in the class that gave you access to this domain. You can use this ability a number of times per day equal to 3 + your Wisdom modifier. \nWall of Ashes: At 8th level, you can create a wall of swirling ashes lasting for one minute. Any creature passing through it must make a Fortitude save or be blinded for 1d4 rounds. The wall of ash reveals invisible creatures that are inside it, although they become invisible again if they move out of the wall. You can use this ability a number of times per day equal to your cleric level. \nDomain Spells: burning hands, scorching ray, fireball, controlled fireball, flame strike, summon huge fire elemental, disintegrate, summon elder fire elemental, fiery body.",
+      "zhCN": "\n你能将火焰凝聚为一点，并用余烬致盲敌人。\n火焰箭：以标准动作，你从掌心射出一道神圣火焰箭。可对30尺内单一目标进行远程接触攻击，命中后造成1d6火焰伤害+每2个提供此子域的职业等级1点伤害。每日使用次数为3+感知调整值。\n灰烬之墙：8级时，你能创造一道持续1分钟的旋转灰烬墙。穿过墙体的生物需通过强韧豁免，否则目盲1d4轮。灰烬墙会显形其中的隐形生物，但若其离开墙体则会恢复隐形。每日使用次数等于牧师等级。\n领域法术：燃烧之手、灼热射线、火球术、可控火球术、炽焰击、召唤超大型火元素、解离术、召唤火元素长者、火焰之躯。"
+    },
+    {
+      "Key": "ebd3b3d94c2140cbbc04ce9d3d56bba0",
+      "SimpleName": "AshDomainProgressionSeparatist.Description",
+      "ProcessTemplates": true,
+      "enGB": "\nYou can focus flame to a fine point, and use the embers left to blind your foes. \nFire Bolt: As a standard action, you can unleash a scorching bolt of divine fire from your outstretched hand. You can target any single foe within 30 feet as a ranged touch attack with this bolt of fire. If you hit the foe, the fire bolt deals 1d6 points of fire damage + 1 point for every two levels you possess in the class that gave you access to this domain. You can use this ability a number of times per day equal to 3 + your Wisdom modifier. \nWall of Ashes: At 8th level, you can create a wall of swirling ashes lasting for one minute. Any creature passing through it must make a Fortitude save or be blinded for 1d4 rounds. The wall of ash reveals invisible creatures that are inside it, although they become invisible again if they move out of the wall. You can use this ability a number of times per day equal to your cleric level. \nDomain Spells: burning hands, scorching ray, fireball, controlled fireball, flame strike, summon huge fire elemental, disintegrate, summon elder fire elemental, fiery body.",
+      "zhCN": "\n你能将火焰凝聚为一点，并用余烬致盲敌人。\n火焰箭：以标准动作，你从掌心射出一道神圣火焰箭。可对30尺内单一目标进行远程接触攻击，命中后造成1d6火焰伤害+每2个提供此子域的职业等级1点伤害。每日使用次数为3+感知调整值。\n灰烬之墙：8级时，你能创造一道持续1分钟的旋转灰烬墙。穿过墙体的生物需通过强韧豁免，否则目盲1d4轮。灰烬墙会显形其中的隐形生物，但若其离开墙体则会恢复隐形。每日使用次数等于牧师等级。\n领域法术：燃烧之手、灼热射线、火球术、可控火球术、炽焰击、召唤超大型火元素、解离术、召唤火元素长者、火焰之躯。"
+    },
+    {
+      "Key": "5987e17ab9f14aa78c0862477990dd06",
+      "SimpleName": "SmokeDomainBaseAbility.Description",
+      "ProcessTemplates": true,
+      "enGB": "As a standard action, you can create a 5-foot-radius cloud of smoke lasting 1 minute. Creatures inside the cloud take a –2 penalty on attack rolls and Perception skill checks for as long as they remain inside and for 1 round after exiting the cloud. Creatures inside the cloud gain concealment from attacks made by opponents that are not adjacent to them. You can use this ability a number of times per day equal to 3 + your Wisdom modifier.",
+      "zhCN": "以标准动作，你可创造一团半径5尺、持续1分钟的烟雾云。云内生物的攻击检定与察觉技能检定承受-2减值（停留在云内期间及离开后的1轮内）。云内生物对非相邻敌人的攻击获得隐蔽。每日使用次数为3+感知调整值。"
+    },
+    {
+      "Key": "fe797ce3d2de4c3aa5241b06d00c4425",
+      "SimpleName": "SmokeDomainBaseAbilitySeparatist.Description",
+      "ProcessTemplates": true,
+      "enGB": "As a standard action, you can create a 5-foot-radius cloud of smoke lasting 1 minute. Creatures inside the cloud take a –2 penalty on attack rolls and Perception skill checks for as long as they remain inside and for 1 round after exiting the cloud. Creatures inside the cloud gain concealment from attacks made by opponents that are not adjacent to them. You can use this ability a number of times per day equal to 3 + your Wisdom modifier.",
+      "zhCN": "以标准动作，你可创造一团半径5尺、持续1分钟的烟雾云。云内生物的攻击检定与察觉技能检定承受-2减值（停留在云内期间及离开后的1轮内）。云内生物对非相邻敌人的攻击获得隐蔽。每日使用次数为3+感知调整值。"
+    },
+    {
+      "Key": "c39614963421405fb97ae87427e2b845",
+      "SimpleName": "SmokeDomainBaseFeature.Description",
+      "ProcessTemplates": true,
+      "enGB": "\nYou can blind and choke with smoke, those who dare not to burn. \nCloud of Smoke: As a standard action, you can create a 5-foot-radius cloud of smoke lasting 1 minute. Creatures inside the cloud take a –2 penalty on attack rolls and Perception skill checks for as long as they remain inside and for 1 round after exiting the cloud. Creatures inside the cloud gain concealment from attacks made by opponents that are not adjacent to them. You can use this ability a number of times per day equal to 3 + your Wisdom modifier. \nFire Resistance: At 6th level, you gain resist fire 10. This resistance increases to 20 at 12th level. At 20th level, you gain immunity to fire.",
+      "zhCN": "\n你能用烟雾致盲与窒息那些敢于不燃之人。\n烟雾云：以标准动作，你可创造一团半径5尺、持续1分钟的烟雾云。云内生物的攻击检定与察觉技能检定承受-2减值（停留在云内期间及离开后的1轮内）。云内生物对非相邻敌人的攻击获得隐蔽。每日使用次数为3+感知调整值。\n火焰抗性：6级时，你获得火焰抗性10；12级时提升至20；20级时免疫火焰伤害。"
+    },
+    {
+      "Key": "2a1e64d9568b4ffdbbd328f7a49a75d0",
+      "SimpleName": "SmokeDomainBaseFeature.Name",
+      "ProcessTemplates": false,
+      "enGB": "Smoke Subdomain",
+      "zhCN": "烟雾子域"
+    },
+    {
+      "Key": "3f30049e50874bd08225d315f6db9794",
+      "SimpleName": "SmokeDomainBaseFeatureSeparatist.Description",
+      "ProcessTemplates": true,
+      "enGB": "\nYou can blind and choke with smoke, those who dare not to burn. \nCloud of Smoke: As a standard action, you can create a 5-foot-radius cloud of smoke lasting 1 minute. Creatures inside the cloud take a –2 penalty on attack rolls and Perception skill checks for as long as they remain inside and for 1 round after exiting the cloud. Creatures inside the cloud gain concealment from attacks made by opponents that are not adjacent to them. You can use this ability a number of times per day equal to 3 + your Wisdom modifier. \nFire Resistance: At 6th level, you gain resist fire 10. This resistance increases to 20 at 12th level. At 20th level, you gain immunity to fire.",
+      "zhCN": "\n你能用烟雾致盲与窒息那些敢于不燃之人。\n烟雾云：以标准动作，你可创造一团半径5尺、持续1分钟的烟雾云。云内生物的攻击检定与察觉技能检定承受-2减值（停留在云内期间及离开后的1轮内）。云内生物对非相邻敌人的攻击获得隐蔽。每日使用次数为3+感知调整值。\n火焰抗性：6级时，你获得火焰抗性10；12级时提升至20；20级时免疫火焰伤害。"
+    },
+    {
+      "Key": "36f562af5d034bf38b4edbd1987df6c4",
+      "SimpleName": "SmokeDomainCloudBuff.Description",
+      "ProcessTemplates": true,
+      "enGB": "Creatures inside the cloud take a –2 penalty on attack rolls and Perception skill checks for as long as they remain inside and for 1 round after exiting the cloud. Creatures inside the cloud gain concealment from attacks made by opponents that are not adjacent to them.",
+      "zhCN": "云内生物的攻击检定与察觉技能检定承受-2减值（停留在云内期间及离开后的1轮内）。云内生物对非相邻敌人的攻击获得隐蔽。"
+    },
+    {
+      "Key": "a3f3478486904f90a8bd042f4f7048a1",
+      "SimpleName": "SmokeDomainCloudBuff.Name",
+      "ProcessTemplates": false,
+      "enGB": "Cloud of Smoke",
+      "zhCN": "烟雾云"
+    },
+    {
+      "Key": "19cc1e4bd1bb450997e1d9568e30eba9",
+      "SimpleName": "SmokeDomainCloudExitBuff.Description",
+      "ProcessTemplates": true,
+      "enGB": "Creatures escaping from the cloud of smoke take a –2 penalty on attack rolls and Perception skill checks for 1 round after exiting the cloud.",
+      "zhCN": "逃离烟雾云的生物在离开后的1轮内，攻击检定与感知技能检定承受-2减值。"
+    },
+    {
+      "Key": "e03b10f3d01f4a778b0b3ee0aa5b6918",
+      "SimpleName": "SmokeDomainCloudExitBuff.Name",
+      "ProcessTemplates": false,
+      "enGB": "Cloud of Smoke - Lingering effect",
+      "zhCN": "烟雾云 - 残留效果"
+    },
+    {
+      "Key": "b0a45260361646f88ae8fbd950774f04",
+      "SimpleName": "SmokeDomainProgression.Description",
+      "ProcessTemplates": true,
+      "enGB": "\nYou can blind and choke with smoke, those who dare not to burn. \nCloud of Smoke: As a standard action, you can create a 5-foot-radius cloud of smoke lasting 1 minute. Creatures inside the cloud take a –2 penalty on attack rolls and Perception skill checks for as long as they remain inside and for 1 round after exiting the cloud. Creatures inside the cloud gain concealment from attacks made by opponents that are not adjacent to them. You can use this ability a number of times per day equal to 3 + your Wisdom modifier. \nFire Resistance: At 6th level, you gain resist fire 10. This resistance increases to 20 at 12th level. At 20th level, you gain immunity to fire. \nDomain Spells: burning hands, glitterdust, stinking cloud, controlled fireball, flame strike, summon huge fire elemental, elemental body IV (fire), summon elder fire elemental, fiery body.",
+      "zhCN": "\n你能用烟雾致盲与窒息那些敢于不燃之人。\n烟雾云：以标准动作，你可创造一团半径5尺、持续1分钟的烟雾云。云内生物的攻击检定与察觉技能检定承受-2减值（停留在云内期间及离开后的1轮内）。云内生物对非相邻敌人的攻击获得隐蔽。每日使用次数为3+感知调整值。\n火焰抗性：6级时，你获得火焰抗性10；12级时提升至20；20级时免疫火焰伤害。\n领域法术：燃烧之手、闪光尘、臭云术、可控火球术、炽焰击、召唤超大型火元素、元素之躯IV（火）、召唤火元素长者、火焰之躯。"
+    },
+    {
+      "Key": "b1b19000574b4fe3ab7b59ab79a2a0b3",
+      "SimpleName": "SmokeDomainProgressionDruid.Description",
+      "ProcessTemplates": true,
+      "enGB": "\nYou can blind and choke with smoke, those who dare not to burn. \nCloud of Smoke: As a standard action, you can create a 5-foot-radius cloud of smoke lasting 1 minute. Creatures inside the cloud take a –2 penalty on attack rolls and Perception skill checks for as long as they remain inside and for 1 round after exiting the cloud. Creatures inside the cloud gain concealment from attacks made by opponents that are not adjacent to them. You can use this ability a number of times per day equal to 3 + your Wisdom modifier. \nFire Resistance: At 6th level, you gain resist fire 10. This resistance increases to 20 at 12th level. At 20th level, you gain immunity to fire. \nDomain Spells: burning hands, glitterdust, stinking cloud, controlled fireball, flame strike, summon huge fire elemental, elemental body IV (fire), summon elder fire elemental, fiery body.",
+      "zhCN": "\n你能用烟雾致盲与窒息那些敢于不燃之人。\n烟雾云：以标准动作，你可创造一团半径5尺、持续1分钟的烟雾云。云内生物的攻击检定与察觉技能检定承受-2减值（停留在云内期间及离开后的1轮内）。云内生物对非相邻敌人的攻击获得隐蔽。每日使用次数为3+感知调整值。\n火焰抗性：6级时，你获得火焰抗性10；12级时提升至20；20级时免疫火焰伤害。\n领域法术：燃烧之手、闪光尘、臭云术、可控火球术、炽焰击、召唤超大型火元素、元素之躯IV（火）、召唤火元素长者、火焰之躯。"
+    },
+    {
+      "Key": "737b558534b04600bb5e18500e48f7d7",
+      "SimpleName": "SmokeDomainProgressionSecondary.Description",
+      "ProcessTemplates": true,
+      "enGB": "\nYou can blind and choke with smoke, those who dare not to burn. \nCloud of Smoke: As a standard action, you can create a 5-foot-radius cloud of smoke lasting 1 minute. Creatures inside the cloud take a –2 penalty on attack rolls and Perception skill checks for as long as they remain inside and for 1 round after exiting the cloud. Creatures inside the cloud gain concealment from attacks made by opponents that are not adjacent to them. You can use this ability a number of times per day equal to 3 + your Wisdom modifier. \nFire Resistance: At 6th level, you gain resist fire 10. This resistance increases to 20 at 12th level. At 20th level, you gain immunity to fire. \nDomain Spells: burning hands, glitterdust, stinking cloud, controlled fireball, flame strike, summon huge fire elemental, elemental body IV (fire), summon elder fire elemental, fiery body.",
+      "zhCN": "\n你能用烟雾致盲与窒息那些敢于不燃之人。\n烟雾云：以标准动作，你可创造一团半径5尺、持续1分钟的烟雾云。云内生物的攻击检定与察觉技能检定承受-2减值（停留在云内期间及离开后的1轮内）。云内生物对非相邻敌人的攻击获得隐蔽。每日使用次数为3+感知调整值。\n火焰抗性：6级时，你获得火焰抗性10；12级时提升至20；20级时免疫火焰伤害。\n领域法术：燃烧之手、闪光尘、臭云术、可控火球术、炽焰击、召唤超大型火元素、元素之躯IV（火）、召唤火元素长者、火焰之躯。"
+    },
+    {
+      "Key": "a97fbe690a134025a2bee5c7e0f3acb3",
+      "SimpleName": "SmokeDomainProgressionSeparatist.Description",
+      "ProcessTemplates": true,
+      "enGB": "\nYou can blind and choke with smoke, those who dare not to burn. \nCloud of Smoke: As a standard action, you can create a 5-foot-radius cloud of smoke lasting 1 minute. Creatures inside the cloud take a –2 penalty on attack rolls and Perception skill checks for as long as they remain inside and for 1 round after exiting the cloud. Creatures inside the cloud gain concealment from attacks made by opponents that are not adjacent to them. You can use this ability a number of times per day equal to 3 + your Wisdom modifier. \nFire Resistance: At 6th level, you gain resist fire 10. This resistance increases to 20 at 12th level. At 20th level, you gain immunity to fire. \nDomain Spells: burning hands, glitterdust, stinking cloud, controlled fireball, flame strike, summon huge fire elemental, elemental body IV (fire), summon elder fire elemental, fiery body.",
+      "zhCN": "\n你能用烟雾致盲与窒息那些敢于不燃之人。\n烟雾云：以标准动作，你可创造一团半径5尺、持续1分钟的烟雾云。云内生物的攻击检定与察觉技能检定承受-2减值（停留在云内期间及离开后的1轮内）。云内生物对非相邻敌人的攻击获得隐蔽。每日使用次数为3+感知调整值。\n火焰抗性：6级时，你获得火焰抗性10；12级时提升至20；20级时免疫火焰伤害。\n领域法术：燃烧之手、闪光尘、臭云术、可控火球术、炽焰击、召唤超大型火元素、元素之躯IV（火）、召唤火元素长者、火焰之躯。"
+    }    
   ]
 }
