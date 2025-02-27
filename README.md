@@ -2059,10 +2059,12 @@
 	   <tr><td>Champion 英杰：无阵营限制的圣武士，可选择誓约英杰、不屈、臻我</td></tr>
 	   <tr><td>Freedom Fighter 自由斗士：包含子职业天运承者、彼方行者、爆破专家</td></tr>
 	   <tr><td>Herald 先驱</td></tr>	 
-  <tr><td rowspan="35">变体</td>
+  <tr><td rowspan="37">变体</td>
     <td rowspan="2">奥能师</td>
          <td>Blood Arcanist 血奥师</td></tr>
          <tr><td>School Savant 学派家</td></tr>
+    <td rowspan="1">法师</td>
+         <td>Eldritch Knight 玄秘骑士</td></tr>
     <tr><td rowspan="2">野蛮人</td>
          <td>Hateful Rager 恨意狂暴者</td></tr>
          <tr><td>Primal Hunter 原始猎手</td></tr>
@@ -2084,7 +2086,8 @@
     <tr><td rowspan="1">德鲁伊</td>      
          <td>Halcyon Druid 宁静德鲁伊</td></tr>
     <tr><td rowspan="1">战士</td>      
-         <td>Viking 维京人</td></tr>
+         <td>Viking 维京人</td></tr>      
+         <tr><td>Berserker 狂战士</td></tr>
     <tr><td rowspan="2">武僧</td>      
          <td>Hellcat 地狱猫</td></tr>
          <tr><td>Monk of the Mantis 螳螂拳僧</td></tr>
