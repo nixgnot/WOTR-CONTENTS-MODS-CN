@@ -2085,7 +2085,7 @@
          <tr><td>Elder Mythos Cultist 旧神密教徒</td></tr>
     <tr><td rowspan="1">德鲁伊</td>      
          <td>Halcyon Druid 宁静德鲁伊</td></tr>
-    <tr><td rowspan="1">战士</td>      
+    <tr><td rowspan="2">战士</td>      
          <td>Viking 维京人</td></tr>      
          <tr><td>Berserker 狂战士</td></tr>
     <tr><td rowspan="2">武僧</td>      
@@ -2108,7 +2108,7 @@
          <td>Undead Master 死灵之主</td></tr>
      <tr><td rowspan="1">巫师</td>      
          <td>Scarred Witch Doctor 疤痕巫医</td></tr>
-     <tr><td rowspan="2">游荡者</td>      
+     <tr><td rowspan="3">游荡者</td>      
          <td>Carnivalist 游艺人</td></tr>
          <td>Thiefling 贼裔</td></tr>
          <td>Espionage Expert 密探专家</td></tr>
