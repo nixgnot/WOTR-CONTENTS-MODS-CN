@@ -2053,12 +2053,13 @@
   + ACTestingGrounds：将部分队友变为原创职业、规则书职业或变体，未汉化<br>
  <table>
  <tr><th colspan="3">新增内容列表<br>详细介绍可以参阅汉化发布贴或游戏内说明</th></tr> 
-   <tr><td colspan="2" rowspan="5">职业</td>
+   <tr><td colspan="2" rowspan="6">职业</td>
        <td>Investigator 调查员及变体：Jinyiwei 锦衣卫、Questioner 发问者、Empiricist 演绎家</td></tr>
            <tr><td>NPC职业：5个NPC用职业，基本白板</td></tr>
 	   <tr><td>Champion 英杰：无阵营限制的圣武士，可选择誓约英杰、不屈、臻我</td></tr>
 	   <tr><td>Freedom Fighter 自由斗士：包含子职业天运承者、彼方行者、爆破专家</td></tr>
-	   <tr><td>Herald 先驱</td></tr>	 
+	   <tr><td>Herald 先驱</td></tr>
+	   <tr><td>Ninja 忍者及变体：Nokizaru 轩猿众、Formless Ninja 千面狐、Rappa 火影忍者</td></tr>
   <tr><td rowspan="37">变体</td>
     <td rowspan="2">奥能师</td>
          <td>Blood Arcanist 血奥师</td></tr>
