@@ -4726,7 +4726,7 @@ Duty - Be responsible for your actions and their consequences, protect those ent
         },
 		{
             "Key": "HomebrewArchtypes_FreedomFighterLuckAbilityRolltheDiceDesc", 
-            "zhCN": "自由斗士运用他们的运气，转化为实实在在的好处。这种运气以+3运气加值的形式固化在目标上，该加值自护甲等级、攻击加值或伤害加值中随机选择。"
+            "zhCN": "自由斗士运用他们的运气，转化为实实在在的好处。这种运气以+3运气加值的形式固化在目标上，该加值自防御等级、攻击加值或伤害加值中随机选择。"
         },
 		{
             "Key": "HomebrewArchtypes_FreedomFighterMythicAbilityAbundantLuckName", 
@@ -4942,7 +4942,7 @@ Duty - Be responsible for your actions and their consequences, protect those ent
         },
 		{
             "Key": "HomebrewArchtypes_FreedomFighterLuckAbilityBurrowDesc", 
-            "zhCN": "在伏地潜步时，你的{g|Encyclopedia:Armor_Class}护甲等级{/g}和{g|Encyclopedia:Concealment}隐蔽{/g}会获得+8的{g|Encyclopedia:Bonus}闪避加值{/g}，但你除了移动外不能采取任何{g|Encyclopedia:CA_Types}动作{/g}。你可以根据需要随意使用伏地潜步。"
+            "zhCN": "在伏地潜步时，你的{g|Encyclopedia:Armor_Class}防御等级{/g}和{g|Encyclopedia:Concealment}隐蔽{/g}会获得+8的{g|Encyclopedia:Bonus}闪避加值{/g}，但你除了移动外不能采取任何{g|Encyclopedia:CA_Types}动作{/g}。你可以根据需要随意使用伏地潜步。"
         },
 		{
             "Key": "HomebrewArchtypes_FreedomFighterLuckAbilityTrainedLeverageName", 
@@ -6247,11 +6247,11 @@ Duty - Be responsible for your actions and their consequences, protect those ent
         },
 		{
             "Key": "HA_ChampionClassOathofSelfPerfectionAuraofPerfectionName", 
-            "zhCN": "Aura of Perfection"
+            "zhCN": "至臻灵光"
         },
 		{
             "Key": "HA_ChampionClassOathofSelfPerfectionAuraofPerfectionDesc", 
-            "zhCN": "Aura of Perfection"
+            "zhCN": "至臻灵光"
         },
 		{
             "Key": "HA_ChampionClassOathofUndeathName", 
@@ -6279,4 +6279,192 @@ Be Understanding: Necromancy by itself is not evil and you understand this. You 
             "Key": "HA_ChampionClassOathofUndeathShepardoftheLostDesc", 
             "zhCN": "At 5th level, a champion of the lost gains an undead companion who follows them."
         },
+       {
+            "Key": "HomebrewArchtypes_BardArchetypeDarkbloomName", 
+            "zhCN": "暗花"
+        },
+		{
+            "Key": "HomebrewArchtypes_BardArchetypeDarkbloomDesc", 
+            "zhCN": "暗花吟游诗人在诸国度中极为罕见，他们以驾驭自然力量的能力著称。但与德鲁伊不同，暗花吟游诗人似乎将动植物的美丽扭曲为邪恶而怪异的幻象——仿佛源自不可名状的梦境与噩梦。有人认为这些幻象源于施法者自身的异界幻想，但也有人担忧，暗花吟游诗人实际上是在汲取试图渗透现实世界的异界畸变体的力量。"
+        },
+		{
+            "Key": "HomebrewArchtypes_BardArchetypeDarkbloomDarkEntanglementName", 
+            "zhCN": "暗花缠结"
+        },
+		{
+            "Key": "HomebrewArchtypes_BardArchetypeDarkbloomDarkEntanglementDesc", 
+            "zhCN": "通过这个法术，施法者能够使作用区域内的黑暗植物和根须缠绕生物。每轮一次，生物可以尝试进行对抗法术的豁免检定，并获得+3加值以避免被缠绕。被缠绕的生物仍可攻击，但其防御等级会受到-2惩罚，魔法抗性减少10%。被缠绕时，有10%的几率使生物中毒，并在5秒内每秒受到1点伤害。"
+        },
+		{
+            "Key": "HomebrewArchtypes_BardArchetypeDarkbloomDarkbloomSneakName", 
+            "zhCN": "暗花之吻"
+        },
+		{
+            "Key": "HomebrewArchtypes_BardArchetypeDarkbloomDarkbloomSneakDesc", 
+            "zhCN": "10级起，暗花的偷袭攻击将额外造成1d8点强酸伤害，且每次成功的偷袭会使目标必须通过反射检定，否则被暗色藤蔓缠绕。此伤害自10级后每提升3级再增加1d8。"
+        },
+		{
+            "Key": "HomebrewArchtypes_BardArchetypeDarkbloomSilenceoftheDreamRealmName", 
+            "zhCN": "Silence of the Dream Realm"
+        },
+		{
+            "Key": "HomebrewArchtypes_BardArchetypeDarkbloomSilenceoftheDreamRealmDesc", 
+            "zhCN": "Silence of the Dream Realm"
+        },
+		{
+            "Key": "HomebrewArchtypes_BardArchetypeDarkbloomMilleniaofDeathlySilenceName", 
+            "zhCN": "Millenia of Deathly Silence"
+        },
+		{
+            "Key": "HomebrewArchtypes_BardArchetypeDarkbloomMilleniaofDeathlySilenceDesc", 
+            "zhCN": "Millenia of Deathly Silence"
+        },
+		{
+            "Key": "HomebrewArchtypes_WizardArchetypeEldritchKnightName", 
+            "zhCN": "玄秘骑士"
+        },
+		{
+            "Key": "HomebrewArchtypes_WizardArchetypeEldritchKnightDesc", 
+            "zhCN": "玄秘骑士将战斗职业与施法者的能力相结合，既能向敌人投掷魔法，也能用坚铁砍杀对手。他们既能酣战于前线，也能安全地躲在队友身后施法。当战斗形势不明时，他们的多面性使其成为宝贵的盟友。"
+        },
+		{
+            "Key": "HomebrewArchtypes_WizardArchetypeEldritchKnightProficienciesName", 
+            "zhCN": "玄秘擅长"
+        },
+		{
+            "Key": "HomebrewArchtypes_WizardArchetypeEldritchKnightProficienciesDesc", 
+            "zhCN": "玄秘骑士擅长所有简易和{g|Encyclopedia:Weapon_Proficiency}军用武器{/g}，并精通轻甲。穿着轻甲时，诡术骑士施放法师{g|Encyclopedia:Spell}法术{/g}不会承受通常的{g|Encyclopedia:Spell_Fail_Chance}奥术失败率{/g}。若穿戴中甲、重甲或使用盾牌，则仍可能触发奥术失败率。兼职的诡术骑士从其他职业获得的奥术法术仍按正常规则计算失败率。"
+        },
+		{
+            "Key": "HomebrewArchtypes_WizardArchetypeEldritchKnightArmoredCasterMediumName", 
+            "zhCN": "着甲法师 - 中甲"
+        },
+		{
+            "Key": "HomebrewArchtypes_WizardArchetypeEldritchKnightArmoredCasterMediumDesc", 
+            "zhCN": "4级起，玄秘骑士精通中甲。穿着中甲施放法师{g|Encyclopedia:Spell}法术{/g}时不会承受奥术失败率。若穿着重甲或使用盾牌，则仍可能触发失败率。"
+        },
+		{
+            "Key": "HomebrewArchtypes_WizardArchetypeEldritchKnightArmoredCasterHeavyName", 
+            "zhCN": "着甲法师 - 重甲"
+        },
+		{
+            "Key": "HomebrewArchtypes_WizardArchetypeEldritchKnightArmoredCasterHeavyDesc", 
+            "zhCN": "7级起，玄秘骑士精通重甲。穿着重甲施放法师{g|Encyclopedia:Spell}法术{/g}时不会承受奥术失败率。若使用盾牌，则仍可能触发失败率。"
+        },
+		{
+            "Key": "HomebrewArchtypes_WizardArchetypeEldritchKnightDiverseTrainingName", 
+            "zhCN": "多样训练"
+        },
+		{
+            "Key": "HomebrewArchtypes_WizardArchetypeEldritchKnightDiverseTrainingDesc", 
+            "zhCN": "玄秘骑士可将自身等级与战士等级相加以满足{g|Encyclopedia:Feat}专长{/g}的先决条件（若无战士等级，则玄秘骑士骑士等级视为战士等级）。同时，他也会将其等级加入任何奥术{g|Encyclopedia:Spell}施法{/g}职业等级来用于满足专长条件。此外，其基础攻击加值（BAB）可视为中成长职业。"
+        },
+		{
+            "Key": "HomebrewArchtypes_WizardArchetypeEldritchKnightEldritchStrikeName", 
+            "zhCN": "玄秘打击"
+        },
+		{
+            "Key": "HomebrewArchtypes_WizardArchetypeEldritchKnightEldritchStrikeDesc", 
+            "zhCN": "玄秘骑士强化下一次成功的攻击，削弱目标对其法术的抗性，使其豁免检定和法术抗性各降低2点，持续3轮。此减益每提升4级（3级后）再增加2点（最大-10）。此能力每3级可使用1次。"
+        },
+        {
+            "Key": "HomebrewArchtypes_WizardArchetypeEldritchKnightWarcasterName", 
+            "zhCN": "战地法师"
+        },
+        {
+            "Key": "HomebrewArchtypes_WizardArchetypeEldritchKnightWarcasterDesc", 
+            "zhCN": "玄秘骑士施放法术后，下一轮内的所有攻击将额外造成5d8点魔法伤害。若在该轮内成功命中，则下次施法将"
+        },
+        {
+            "Key": "HomebrewArchtypes_WizardArchetypeEldritchKnightWarcasterAttackName", 
+            "zhCN": "战地法师 - 攻击"
+        },
+        {
+            "Key": "HomebrewArchtypes_WizardArchetypeEldritchKnightWarcasterCastName", 
+            "zhCN": "战地法师 - 施法"
+        },
+		{
+            "Key": "HomebrewArchtypes_FighterArchetypeBerserkerName", 
+            "zhCN": "狂战士"
+        },
+		{
+            "Key": "HomebrewArchtypes_FighterArchetypeBerserkerDesc", 
+            "zhCN": "这类战士与自身的兽性共鸣，能在战斗中进入狂热状态，战斗时间更长、更凶猛、更残暴。狂战士通常类似野蛮人，但并非绝对。有时这是战士训练中的主动选择。无论如何，战场上的敌人会因狂战士个性中的野蛮与非人特质而深感不安。"
+        },
+		{
+            "Key": "HomebrewArchtypes_FighterArchetypeBerserkerInExtremisName", 
+            "zhCN": "死境"
+        },
+		{
+            "Key": "HomebrewArchtypes_FighterArchetypeBerserkerInExtremisDesc", 
+            "zhCN": "狂战士近乎受虐狂一般沉醉于屠杀的刺激，在接近死亡时比大多数战士更加凶猛地战斗，而其他人可能会动摇或撤退。尽管强大，狂战士的技巧是一把双刃剑——随着狂战士在战斗中积累更多伤口，他们的攻击变得更加致命，但防御却变得脆弱，更容易受到进一步的伤害。\n生命值低于75%时：近战攻击加值和伤害+2，防御等级-2\n生命值低于50%时：近战攻击加值和伤害+4，防御等级-4\n生命值低于25%时：近战攻击加值和伤害+8，防御等级-6"
+        },
+		{
+            "Key": "HomebrewArchtypes_FighterArchetypeBerserkerInExtremisOneName", 
+            "zhCN": "死境 - 阶段 1"
+        },
+		{
+            "Key": "HomebrewArchtypes_FighterArchetypeBerserkerInExtremisTwoName", 
+            "zhCN": "死境 - 阶段 2"
+        },
+		{
+            "Key": "HomebrewArchtypes_FighterArchetypeBerserkerInExtremisThreeName", 
+            "zhCN": "死境 - 阶段 3"
+        },
+		{
+            "Key": "HomebrewArchtypes_FighterArchetypeBerserkerInExtremisSpeedName", 
+            "zhCN": "死境 - 迅捷移动"
+        },
+		{
+            "Key": "HomebrewArchtypes_FighterArchetypeBerserkerInExtremisSpeedDesc", 
+            "zhCN": "7级起，狂战士在死境效果下移动速度增加+10/+20/+40。"
+        },
+		{
+            "Key": "HomebrewArchtypes_FighterArchetypeBerserkerInExtremisSavingThrowsName", 
+            "zhCN": "死境 - 豁免检定"
+        },
+		{
+            "Key": "HomebrewArchtypes_FighterArchetypeBerserkerInExtremisSavingThrowsDesc", 
+            "zhCN": "10级起，狂战士在死境效果下的恍惚状态中能忽视减益效果，获得+2/+4/+8全豁免加值。"
+        },
+		{
+            "Key": "HomebrewArchtypes_FighterArchetypeBerserkerInExtremisExtraAttackName", 
+            "zhCN": "死境 - 额外攻击"
+        },
+		{
+            "Key": "HomebrewArchtypes_FighterArchetypeBerserkerInExtremisExtraAttackDesc", 
+            "zhCN": "14级起，狂战士在死境效果下每轮获得+1/+2/+4次额外攻击。"
+        },
+		{
+            "Key": "HomebrewArchtypes_FighterArchetypeBerserkerInExtremisDamageName", 
+            "zhCN": "死境 - 毁灭打击"
+        },
+		{
+            "Key": "HomebrewArchtypes_FighterArchetypeBerserkerInExtremisDamageDesc", 
+            "zhCN": "20级起，狂战士在死境效果下近战伤害额外增加10%/25%/50%。"
+        },
+		{
+            "Key": "HomebrewArchtypes_FighterArchetypeBerserkerRecklessFrenzyName", 
+            "zhCN": "鲁莽狂热"
+        },
+		{
+            "Key": "HomebrewArchtypes_FighterArchetypeBerserkerRecklessFrenzyDesc", 
+            "zhCN": "狂战士主动自伤，立即将生命值降至2倍狂战士等级+体质调整值。若生命值已低于25%最大值，则此能力无效。此外，鲁莽狂热可解除狂战士的乏力状态。自4级后每提升4级，可额外使用1次。"
+        },
+        {
+            "Key": "HomebrewArchtypes_FighterArchetypeBerserkerEnrageName", 
+            "zhCN": "激怒"
+        },
+        {
+            "Key": "HomebrewArchtypes_FighterArchetypeBerserkerEnrageDesc", 
+            "zhCN": "狂战士通过意志强行激发狂热，立即获得死境的最大增益，持续1轮。但强行激发力量会导致每轮受到1.5倍角色等级的伤害。每轮可进行强韧豁免以避免伤害。当生命值≤0时，狂热自动终止。此伤害为致命伤害。自1级后每提升4级，可额外使用1次。"
+        },
+        {
+            "Key": "HomebrewArchtypes_FighterArchetypeBerserkerWindedName", 
+            "zhCN": "乏力"
+        },
+        {
+            "Key": "HomebrewArchtypes_FighterArchetypeBerserkerWindedDesc", 
+            "zhCN": "狂战士防御等级、攻击加值和伤害检定-2，且无法获得死境的效果。"
+        }
 	]	
