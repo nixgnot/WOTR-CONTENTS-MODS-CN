@@ -836,5 +836,21 @@
         "zhCN": "允许激活武器形态转换增益",
         "enGB": "Allow activate weapon shift buffs",
         "esES": "Permite activar las bonificaciones de cambiante"
+    },
+    {
+        "Key": "SpellPenetration.Description",
+        "zhCN": "（已被Deathknight Mod加强）\n你的{g|Encyclopedia:Spell}法术{/g}与大部分人相比，更容易击穿{g|Encyclopedia:Spell_Resistance}法术抗力{/g}。\n你在为突破生物的法术抗力进行{g|Encyclopedia:Caster_Level}施法者等级{/g}{g|Encyclopedia:Check}检定{/g}时，获得+4{g|Encyclopedia:Bonus}加值{/g}（{g|Encyclopedia:Dice}1d20{/g}+施法者等级）。",
+    },
+    {
+        "Key": "GreaterSpellPenetration.Description",
+        "zhCN": "（已被Deathknight Mod加强）\n你的{g|Encyclopedia:Spell}法术{/g}与绝大部分人相比，更容易击穿{g|Encyclopedia:Spell_Resistance}法术抗力{/g}。\n你在为突破生物的法术抗力进行{g|Encyclopedia:Caster_Level}施法者等级{/g}{g|Encyclopedia:Check}检定{/g}时，获得+4{g|Encyclopedia:Bonus}加值{/g}（{g|Encyclopedia:Dice}1d20{/g}+施法者等级）。此加值可与法术穿透提供的加值叠加。",
+    },
+    {
+        "Key": "SpellFocus.Description",
+        "zhCN": "（已被Deathknight Mod加强）\n选择一个{g|Encyclopedia:Magic_School}魔法学派{/g}。你施放的该学派{g|Encyclopedia:Spell}法术{/g}非常难以抵抗。\n效果：若要对抗你所选学派的法术，其{g|Encyclopedia:Saving_Throw}豁免检定{/g}{g|Encyclopedia:DC}难度等级{/g}+2。\n特殊：你可以多次获得此{g|Encyclopedia:Feat}专长{/g}。效果不叠加。每次获得此专长，必须应用于新的魔法学派上。"
+    },
+    {
+        "Key": "SpellFocusGreater.Description",
+        "zhCN": "（已被Deathknight Mod加强）\n从法术专攻{g|Encyclopedia:Feat}专长{/g}所选的{g|Encyclopedia:Magic_School}学派{/g}中再选择一种魔法学派。你施放的该魔法学派{g|Encyclopedia:Spell}法术{/g}非常难以抵抗。\n效果：针若要对抗你所选学派的法术，其{g|Encyclopedia:Saving_Throw}豁免检定{/g}{g|Encyclopedia:DC}难度等级{/g}+2。此{g|Encyclopedia:Bonus}加值{/g}可与法术专攻提供的加值叠加。\n特殊：你可以多次获得此专长。效果不叠加。每次获得此专长，必须应用于新的魔法学派上，且该学派必须是法术专攻已经选择过的学派。"
     }
 ]
