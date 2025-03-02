@@ -2065,7 +2065,7 @@
          <td>Blood Arcanist 血奥师</td></tr>
          <tr><td>School Savant 学派家</td></tr>
     <td rowspan="1">法师</td>
-         <td>Eldritch Knight 玄秘骑士<br>注：该变体及奥法诡士和原版进阶职业奥法骑士、诡术师相同，为进行区分故更改译名</td></tr>
+         <td>Eldritch Knight 玄秘骑士<br>注：该变体及奥法诡士和原版进阶职业奥法骑士、诡术师同名，为进行区分故更改译名</td></tr>
     <td rowspan="2">术士</td>
          <td>Eldritch Knight 玄秘骑士</td></tr>
          <tr><td>ArcaneTrickster 奥法诡士</td></tr>
