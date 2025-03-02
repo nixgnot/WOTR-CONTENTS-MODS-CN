@@ -2060,12 +2060,15 @@
 	   <tr><td>Freedom Fighter 自由斗士：包含子职业天运承者、彼方行者、爆破专家</td></tr>
 	   <tr><td>Herald 先驱</td></tr>
 	   <tr><td>Ninja 忍者及变体：Nokizaru 轩猿众、Formless Ninja 千面狐、Rappa 火影忍者</td></tr>
-  <tr><td rowspan="37">变体</td>
+  <tr><td rowspan="39">变体</td>
     <td rowspan="2">奥能师</td>
          <td>Blood Arcanist 血奥师</td></tr>
          <tr><td>School Savant 学派家</td></tr>
     <td rowspan="1">法师</td>
+         <td>Eldritch Knight 玄秘骑士\n注：该变体及奥法诡士和原版进阶职业奥法骑士、诡术师相同，为进行区分故更改译名</td></tr>
+    <td rowspan="2">术士</td>
          <td>Eldritch Knight 玄秘骑士</td></tr>
+         <tr><td>ArcaneTrickster 奥法诡士</td></tr>
     <tr><td rowspan="2">野蛮人</td>
          <td>Hateful Rager 恨意狂暴者</td></tr>
          <tr><td>Primal Hunter 原始猎手</td></tr>
