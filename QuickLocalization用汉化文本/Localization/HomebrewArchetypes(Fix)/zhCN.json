@@ -6477,7 +6477,7 @@ Be Understanding: Necromancy by itself is not evil and you understand this. You 
         },
         {
             "Key": "HomebrewArchtypes_SorcererArchetypeArcaneTricksterImpromptuSneakAttackDesc", 
-            "zhCN": "从3级起，奥法诡士可以进入一种特殊姿态，使他能够即兴发挥，对目标进行偷袭，无论目标是否察觉。奥法诡士每天可以维持这种姿态1{g|Encyclopedia:Combat_Round}轮{/g}。每提升两级，诡术师可以额外维持这种姿态1轮，最多在19级时达到9轮。即兴偷袭的目标在被奥法诡士{g|Encyclopedia:Attack}攻击{/g}时将失去任何{g|Encyclopedia:Dexterity}敏捷{/g}{g|Encyclopedia:Bonus}调整值{/g}对{g|Encyclopedia:Armor_Class}AC{/g}的加值。此能力可用于任何目标，但对不受偷袭影响的生物不会造成额外{g|Encyclopedia:Damage}伤害{/g}（尽管他们仍会在攻击中失去任何敏捷对AC的加值）。"
+            "zhCN": "从3级起，奥法诡士可以进入一种特殊姿态，使他能够即兴发挥，对目标进行偷袭，无论目标是否察觉。奥法诡士每天可以维持这种姿态1{g|Encyclopedia:Combat_Round}轮{/g}。每提升两级，奥法诡士可以额外维持这种姿态1轮，最多在19级时达到9轮。即兴偷袭的目标在被奥法诡士{g|Encyclopedia:Attack}攻击{/g}时将失去任何{g|Encyclopedia:Dexterity}敏捷{/g}{g|Encyclopedia:Bonus}调整值{/g}对{g|Encyclopedia:Armor_Class}AC{/g}的加值。此能力可用于任何目标，但对不受偷袭影响的生物不会造成额外{g|Encyclopedia:Damage}伤害{/g}（尽管他们仍会在攻击中失去任何敏捷对AC的加值）。"
         },
         {
             "Key": "HomebrewArchtypes_FighterArchetypeBruiserName", 
