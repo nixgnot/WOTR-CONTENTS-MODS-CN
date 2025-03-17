@@ -1738,5 +1738,269 @@
     {
       "Key": "MM_EsotericTraining_Desc",
       "zhCN": "你对奥术与神术的融合已经成为传奇。\n效果: 你用来进入秘术师的神术法术书基础施法者等级+1，如果你已经拥有奥秘训练专长，其加值增加2，但是神秘训练的加值依然保持为1。"
+    },
+    {
+      "Key": "MM_S_Theurgy_Boost",
+      "zhCN": "以神通专长作为秘术师提前进阶条件"
+    },
+    {
+      "Key": "MM_S_Theurgy_Boost_Desc",
+      "zhCN": "启用此设置允许使用神通专长来替代秘术师进阶的法术等级需求，如同COTW Mod 在Kingmaker中的设置一样。\n这允许你使用准备施法者或者自发施法者在4级进入秘术师进阶，但是你依然需要在学识（宗教）和知识（神秘）上至少拥有3技能等级。\n该选项需要重启后才能生效。"
+    },
+    {
+      "Key": "MM_UI_MT_Prereqs",
+      "zhCN": "能够释放2级神术和2级奥术"
+    },
+    {
+      "Key": "MM_UI_MT_Spellbook_Prereqs_1",
+      "zhCN": "能够施法"
+    },
+    {
+      "Key": "MM_UI_MT_Spellbook_Prereqs_2",
+      "zhCN": " 1级法术和神通专长"
+    },
+    {
+      "Key": "MM_BorrowedTime_Name",
+      "zhCN": "时间借贷"
+    },
+    {
+      "Key": "MM_BorrowedTime_Desc",
+      "zhCN": "此法术由大法师奈克斯创造，可让你透支未来时光以获取迅捷行动，代价是自身健康。法术持续期间，你每回合获得一个额外迅捷动作。每次使用时受到1点体质伤害。若免疫属性伤害，则改为受到5点生命值伤害。法术结束时，因时间反噬陷入恍惚状态1d4+1轮。"
+    },
+    {
+      "Key": "MM_MammothHeart_Name",
+      "zhCN": "猛犸之心"
+    },
+    {
+      "Key": "MM_MammothHeart_Buff_Desc",
+      "zhCN": "获得力量与体质+8增强加值，免疫恐惧效果，意志豁免+4士气加值，且对龙类生物攻击的重击范围加倍（不与精通重击、锐锋术等类似效果叠加）。"
+    },
+    {
+      "Key": "MM_MammothHeart_Desc",
+      "zhCN": "目标生物将获得苔原巨型生物的强健体魄与无畏勇气。\n\n此法术赋予力量与体质+8增强加值，免疫恐惧效果，意志豁免+4士气加值，且对龙类生物攻击的重击范围加倍（不与精通重击、锐锋术等类似效果叠加）。"
+    },
+    {
+      "Key": "MM_S_tomek_option",
+      "zhCN": "强化时间借贷消耗"
+    },
+    {
+      "Key": "MM_S_tomek_option_Desc",
+      "zhCN": "取代 1 体质/5 HP，时间借贷改为消耗 1d20 体质/50 HP。\n该选项立即生效。\n\ntomek，我期待在短期内收到六个月分量的土豆。"
+    },
+    {
+      "Key": "MM_BorrowedTime_tomek_ver_Desc",
+      "zhCN": "此法术由大法师奈克斯创造，可让你透支未来时光以获取迅捷行动，代价是自身健康。法术持续期间，你每回合获得一个额外迅捷动作。每次使用时受到1d20点体质伤害。若免疫属性伤害，则改为受到50点生命值伤害。法术结束时，因时间反噬陷入恍惚状态1d4+1轮。"
+    },
+    {
+      "Key": "MM_CypherMagic_Name",
+      "zhCN": "秘文魔法"
+    },
+    {
+      "Key": "MM_CypherMagic_Desc",
+      "zhCN": "你深谙符文奥秘与古代魔法，掌握了从魔法文书汲取更强力量的秘法。\n效果：使用卷轴施法时，施法者等级比卷轴等级高1级。"
+    },
+    {
+      "Key": "MM_Paranoia_Name",
+      "zhCN": "偏执成魔"
+    },
+    {
+      "Key": "MM_Paranoia_Desc",
+      "zhCN": "目标将视野内所有生物视为敌人，对所有单位采取敌对态度。每当有生物能触发借机攻击时，目标必须发动攻击。当目标邻接两个或更多生物时，其偏执狂发作，攻击检定、武器伤害、属性检定、技能检定和豁免检定均承受-2减值。"
+    },
+    {
+      "Key": "MM_CypherMage_Name",
+      "zhCN": "秘文法师"
+    },
+    {
+      "Key": "MM_CypherMage_Desc",
+      "zhCN": "秘文法师是古代历史与符文知识的研究者，他们专注于古国塔西伦的遗迹与魔法。秘文法师在某些方面受到尊重，这源于他们对该地区的历史所具有的渊博知识，不过有的人发觉他们可能会固执地去追寻那些最好被遗忘的秘密而引起危害，或者几近痴迷于任何带有雕刻的瓦砾残片或碎块。就像著名的秘文之门本身一样，许多秘文法师的努力在他人眼中，不过是追寻可能本就不存在的隐藏含义与崇高价值的无用功。尽管如此，秘文法师仍旧顽固地追寻他们想要的知识，并且经常对外人和其他同僚保密，因为每个人都力求找到遗落学识的残片，找到某处塔西伦的建筑，亦或者对在秘文会的同僚或世界另一端的学者们展现华丽的学术演讲"
+    },
+    {
+      "Key": "MM_CypherLore_Name",
+      "zhCN": "秘文学识"
+    },
+    {
+      "Key": "MM_CypherLore_Desc",
+      "zhCN": "当秘文法师提升等级时，他会变得越来越擅长书写诸如卷轴，刻文以及徽记的魔法。同时开始发现能够进一步巩固自身力量的古代塔西伦魔法。这些发现均被称为秘文学识。10级前的每个等级秘文法师都会习得一种新方式以增强他的魔法。"
+    },
+    {
+      "Key": "MM_Cyphermage_Spellbook_Name",
+      "zhCN": "秘文法术书选择"
+    },
+    {
+      "Key": "MM_Cyphermage_Spellbook_Desc",
+      "zhCN": "当获取新的秘文法师等级时，其每日法术数量将如同在进阶此职业前所属的施法职业等级提升时一样增加。但除每日法术数量、已知法术（若为自发施法者）及施法者等级提升外，不获得该职业的其他增益。若角色在成为秘法使前拥有多个施法职业，则需指定一个职业用于计算每日法术数量。"
+    },
+    {
+      "Key": "MM_AnalyzeScroll_Name",
+      "zhCN": "解析卷轴"
+    },
+    {
+      "Key": "MM_AnalyzeScroll_Desc",
+      "zhCN": "秘文法师利用使用魔法装置技能从卷轴中施放法术时，使用魔法装置检定获得等同于秘文法师等级的洞察加值。"
+    },
+    {
+      "Key": "MM_DefensiveScrollcaster_Name",
+      "zhCN": "防御式卷轴施法"
+    },
+    {
+      "Key": "MM_DefensiveScrollcaster_Desc",
+      "zhCN": "秘法使从卷轴施放法术并进行防御式施法时，专注检定获得+4加值。"
+    },
+    {
+      "Key": "MM_EnhanceScroll_Name",
+      "zhCN": "强效卷轴"
+    },
+    {
+      "Key": "MM_EnhanceScroll_Desc",
+      "zhCN": "以一个迅捷动作，秘文法师能够使任何他所阅读的卷轴法术使用他自身的施法者等级，而非卷轴本身的施法者等级。他每日能够使用该能力的次数等于1/3他的秘文法师等级（最低1次）。"
+    },
+    {
+      "Key": "MM_EnhanceScroll_Buff_Desc",
+      "zhCN": "下一次从卷轴释放的法术使用你秘文法师的施法者等级。"
+    },
+    {
+      "Key": "MM_ExtendedScroll_Name",
+      "zhCN": "延时卷轴"
+    },
+    {
+      "Key": "MM_ExtendedScroll_Desc",
+      "zhCN": "以一个迅捷动作，秘文法师能够使任何他所阅读的卷轴法术的持续时间翻倍，就如同使用法术延时专长调整过的法术。他每日能够使用该能力的次数等于1/3他的秘文法师等级（最低1次）。"
+    },
+    {
+      "Key": "MM_ExtendedScroll_Buff_Desc",
+      "zhCN": "你下次从卷轴施放的法术将自动获得法术延时超魔效果。"
+    },
+    {
+      "Key": "MM_FocusedScroll_Name",
+      "zhCN": "专攻卷轴"
+    },
+    {
+      "Key": "MM_FocusedScroll_Desc",
+      "zhCN": "以一个迅捷动作，秘文法师能够将双倍智力调整值加到任何由卷轴法术而进行的施法者等级检定中，包括克服法术抗力的检定。他每日能够使用该能力的次数等于1/3他的秘文法师等级（最低1次）。"
+    },
+    {
+      "Key": "MM_FocusedScroll_Buff_Desc",
+      "zhCN": "你下次从卷轴施放法术时，施法者等级检定将获得智力修正值两倍的加值。"
+    },
+    {
+      "Key": "MM_InsightfulScroll_Name",
+      "zhCN": "洞悉卷轴"
+    },
+    {
+      "Key": "MM_InsightfulScroll_Desc",
+      "zhCN": "以一个迅捷动作，秘文法师能够改变一个他从卷轴中施放的法术，使其使用他自身的施法关键属性（比如智力之于法师，等等）并能够使用相关专长设置法术的DC。他每日能够使用该能力的次数等于1/3他的秘文法师等级（最低1次）。"
+    },
+    {
+      "Key": "MM_InsightfulScroll_Buff_Desc",
+      "zhCN": "你下次从卷轴施放的法术将使用自身施法属性计算其豁免DC。"
+    },
+    {
+      "Key": "MM_SwiftScrivener_Name",
+      "zhCN": "迅捷抄写者"
+    },
+    {
+      "Key": "MM_SwiftScrivener_Desc",
+      "zhCN": "秘文法师每次宿营能够抄写2个卷轴。此外秘文法师能够用标准动作释放将所有原本需要整轮动作的徽记类法术。"
+    },
+    {
+      "Key": "MM_ThassilonianFocus_Name",
+      "zhCN": "塔西伦专攻"
+    },
+    {
+      "Key": "MM_ThassilonianFocus_Desc",
+      "zhCN": "秘文法师选择塔西伦魔法的七大学派之一（如果其为塔西伦专精法师，则必须选择原学派）。其对抗所选学派法术及类法术能力的豁免检定获得+2洞察加值。"
+    },
+    {
+      "Key": "MM_ThassilonianFocus_Envy_Name",
+      "zhCN": "塔西伦专攻（嫉妒）Envy"
+    },
+    {
+      "Key": "MM_ThassilonianFocus_Sloth_Name",
+      "zhCN": "塔西伦专攻（懒惰）"
+    },
+    {
+      "Key": "MM_ThassilonianFocus_Lust_Name",
+      "zhCN": "塔西伦专攻（肉欲）"
+    },
+    {
+      "Key": "MM_ThassilonianFocus_Wrath_Name",
+      "zhCN": "塔西伦专攻（暴怒）"
+    },
+    {
+      "Key": "MM_ThassilonianFocus_Pride_Name",
+      "zhCN": "塔西伦专攻（傲慢）"
+    },
+    {
+      "Key": "MM_ThassilonianFocus_Gluttony_Name",
+      "zhCN": "塔西伦专攻（暴食）"
+    },
+    {
+      "Key": "MM_ThassilonianFocus_Greed_Name",
+      "zhCN": "塔西伦专攻（贪婪）"
+    },
+    {
+      "Key": "MM_GlyphFinder_Name",
+      "zhCN": "刻文探知者"
+    },
+    {
+      "Key": "MM_GlyphFinder_Desc",
+      "zhCN": "秘文法师在察觉检定中发现陷阱时获得+5加值，此加值与「寻找陷阱」等类似效果叠加。"
+    },
+    {
+      "Key": "MM_RuneMaster_Name",
+      "zhCN": "符文主宰"
+    },
+    {
+      "Key": "MM_RuneMaster_Desc",
+      "zhCN": "创造符文的攻击性法术（比如燃烧符文）造成的伤害额外增加每秘文法师等级1d4点。"
+    },
+    {
+      "Key": "MM_BypassSymbol_Name",
+      "zhCN": "穿越徽记"
+    },
+    {
+      "Key": "MM_BypassSymbol_Desc",
+      "zhCN": "秘文法师免疫所有徽记法术的效果。"
+    },
+    {
+      "Key": "MM_EnhanceScroll_Free_Name",
+      "zhCN": "强效卷轴（自由动作）"
+    },
+    {
+      "Key": "MM_EnhanceScroll_Free_Desc",
+      "zhCN": "强效卷轴可以自由动作使用。"
+    },
+    {
+      "Key": "MM_ExtendedScroll_Free_Name",
+      "zhCN": "延时卷轴（自由动作）"
+    },
+    {
+      "Key": "MM_ExtendedScroll_Free_Desc",
+      "zhCN": "延时卷轴可以自由动作使用。"
+    },
+    {
+      "Key": "MM_FocusedScroll_Free_Name",
+      "zhCN": "专攻卷轴（自由动作）"
+    },
+    {
+      "Key": "MM_FocusedScroll_Free_Desc",
+      "zhCN": "专攻卷轴可以自由动作使用。"
+    },
+    {
+      "Key": "MM_InsightfulScroll_Free_Name",
+      "zhCN": "洞悉卷轴（自由动作）"
+    },
+    {
+      "Key": "MM_InsightfulScroll_Free_Desc",
+      "zhCN": "洞悉卷轴可以自由动作使用。"
+    },
+    {
+      "Key": "MM_Cypherlord_Name",
+      "zhCN": "秘文领主"
+    },
+    {
+      "Key": "MM_Cypherlord_Desc",
+      "zhCN": "10级起，秘法领主从卷轴施放的法术施法者等级与豁免DC均获得+1加值，此加值可与其他类似效果叠加。"
     }
   ]
