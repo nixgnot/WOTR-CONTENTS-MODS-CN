@@ -29818,6 +29818,638 @@
       "ProcessTemplates": true,
       "enGB": "\nYou can blind and choke with smoke, those who dare not to burn. \nCloud of Smoke: As a standard action, you can create a 5-foot-radius cloud of smoke lasting 1 minute. Creatures inside the cloud take a –2 penalty on attack rolls and Perception skill checks for as long as they remain inside and for 1 round after exiting the cloud. Creatures inside the cloud gain concealment from attacks made by opponents that are not adjacent to them. You can use this ability a number of times per day equal to 3 + your Wisdom modifier. \nFire Resistance: At 6th level, you gain resist fire 10. This resistance increases to 20 at 12th level. At 20th level, you gain immunity to fire. \nDomain Spells: burning hands, glitterdust, stinking cloud, controlled fireball, flame strike, summon huge fire elemental, elemental body IV (fire), summon elder fire elemental, fiery body.",
       "zhCN": "\n你能用烟雾致盲与窒息那些敢于不燃之人。\n烟雾云：以标准动作，你可创造一团半径5尺、持续1分钟的烟雾云。云内生物的攻击检定与察觉技能检定承受-2减值（停留在云内期间及离开后的1轮内）。云内生物对非相邻敌人的攻击获得隐蔽。每日使用次数为3+感知调整值。\n火焰抗性：6级时，你获得火焰抗性10；12级时提升至20；20级时免疫火焰伤害。\n领域法术：燃烧之手、闪光尘、臭云术、可控火球术、炽焰击、召唤超大型火元素、元素之躯IV（火）、召唤火元素长者、火焰之躯。"
-    }    
+    },
+    {
+      "Key": "3f3217aee1e246c1bf47fbd52b8c809b",
+      "SimpleName": "CorrosiveConsumptionAbility.Description",
+      "ProcessTemplates": true,
+      "enGB": "With a touch, this spell causes a small, rapidly growing patch of corrosive acid to appear on the target. On application, the acid deals 1 point of acid damage per caster level (maximum 15). \nNext round on the casters turn, the acid patch grows and deals 1d4 points of acid damage per caster level (maximum 15d4). \nDuring the second round on the casters turn, the acid patch covers the entire creature and deals 1d6 points of acid damage per caster level (maximum 15d6), the acid then evaporates. \nA creature can only be affected by one instance of corrosive consumption at a time.",
+      "zhCN": "随着一次触摸，这个法术会在目标身上造成一个起初微小但快速增殖的酸蚀区域。生效时，酸液造成每施法者等级1点酸蚀伤害 (最高15)。\n下一次轮到施法者的回合时，酸蚀扩散造成每施法者等级1d4点伤害 (最高15d4)。\n第二次轮到施法者的回合时，酸蚀覆盖整个生物，造成每施法者等级1d6点伤害 (最高15d6)，酸液随后消散。\n一个生物同时只能受到一次酸液腐蚀的效果。"
+    },
+    {
+      "Key": "6d9ade30a4994a5eafdde2c8198ee2d2",
+      "SimpleName": "CorrosiveConsumptionBuff.Description",
+      "ProcessTemplates": true,
+      "enGB": "With a touch, this spell causes a small, rapidly growing patch of corrosive acid to appear on the target. On application, the acid deals 1 point of acid damage per caster level (maximum 15). \nNext round on the casters turn, the acid patch grows and deals 1d4 points of acid damage per caster level (maximum 15d4). \nDuring the second round on the casters turn, the acid patch covers the entire creature and deals 1d6 points of acid damage per caster level (maximum 15d6), the acid then evaporates. \nA creature can only be affected by one instance of corrosive consumption at a time.",
+      "zhCN": "随着一次触摸，这个法术会在目标身上造成一个起初微小但快速增殖的酸蚀区域。生效时，酸液造成每施法者等级1点酸蚀伤害 (最高15)。\n下一次轮到施法者的回合时，酸蚀扩散造成每施法者等级1d4点伤害 (最高15d4)。\n第二次轮到施法者的回合时，酸蚀覆盖整个生物，造成每施法者等级1d6点伤害 (最高15d6)，酸液随后消散。\n一个生物同时只能受到一次酸液腐蚀的效果。"
+    },
+    {
+      "Key": "78592054ab914e46aaeacfaeb13b1562",
+      "SimpleName": "CorrosiveConsumptionBuff.Name",
+      "ProcessTemplates": false,
+      "enGB": "Corrosive Consumption",
+      "zhCN": "酸液腐蚀"
+    },
+    {
+      "Key": "6cb74407851346d083b42600bc10faf8",
+      "SimpleName": "CorrosiveConsumptionFlagBuff.Name",
+      "ProcessTemplates": false,
+      "enGB": "CorrosiveConsumptionFlagBuff",
+      "zhCN": "CorrosiveConsumptionFlagBuff"
+    },
+    {
+      "Key": "cf59e50f7f1340989680cab9f719fdb1",
+      "SimpleName": "TrialOfFireAndAcidAbility.Description",
+      "ProcessTemplates": true,
+      "enGB": "The target creature is covered in burning acid that deals 1d6 points of acid damage and 1d6 points of fire damage each round. The subject can attempt a Fortitude saving throw each round to reduce the damage by half.",
+      "zhCN": "目标生物被卷入一层燃烧的强酸物质中，每轮承受1d6点酸蚀和1d6点火焰伤害。每一轮法术的目标都可以通过一个强韧豁免检定减半所受的伤害。"
+    },
+    {
+      "Key": "80ae3639ec56433d9a55468fcba20c0b",
+      "SimpleName": "TrialOfFireAndAcidAbility.SavingThrow",
+      "ProcessTemplates": false,
+      "enGB": "Fortitude half (see text)",
+      "zhCN": "强韧，伤害减半（见下文）"
+    },
+    {
+      "Key": "4a921b1c5e4f4ab08c713c1616dd8777",
+      "SimpleName": "TrialOfFireAndAcidBuff.Description",
+      "ProcessTemplates": true,
+      "enGB": "The target creature is covered in burning acid that deals 1d6 points of acid damage and 1d6 points of fire damage each round. The subject can attempt a Fortitude saving throw each round to reduce the damage by half.",
+      "zhCN": "目标生物被卷入一层燃烧的强酸物质中，每轮承受1d6点酸蚀和1d6点火焰伤害。每一轮法术的目标都可以通过一个强韧豁免检定减半所受的伤害。"
+    },
+    {
+      "Key": "5c8594c47a794e9d9344bdbab548757a",
+      "SimpleName": "TrialOfFireAndAcidBuff.Name",
+      "ProcessTemplates": false,
+      "enGB": "Trial of Fire and Acid",
+      "zhCN": "酸火试炼"
+    },
+    {
+      "Key": "4bb12db0cdb24763b2bbc787a2b0fbac",
+      "SimpleName": "OracleApocalypseFinalCriticalCurseAbility.Description",
+      "ProcessTemplates": true,
+      "enGB": "While in combat you may expend a swift action; during this combat the next creature you confirm a critical hit against is cursed by your attack as the bestow curse spell, except the target doesn’t receive a Will saving throw to negate the effects and spell resistance does not apply against this ability.\nBestow Curse\nYou place a curse on the subject. Choose one of the following:\r\nCurse of Feeble Body — The subject suffers a –6 penalty to Constitution score.\r\nCurse of Weakness — The subject suffers a –6 penalty to Strength and Dexterity scores.\r\nCurse of Idiocy — The subject suffers a –6 penalty to Intelligence, Wisdom, and Charisma scores.\r\nCurse of Deterioration — The subject suffers a –4 penalty on attack rolls, saves, ability checks, and skill checks.",
+      "zhCN": "战斗时消耗一个迅捷动作发动；本场战斗中，你下次成功造成重击的目标将受到等同于降咒法术的诅咒效果，但目标无法通过意志豁免检定抵抗，且法术抗性对此能力无效。\n降咒\n你对目标施以诅咒。从下列诅咒中选择一项：\n弱体诅咒——受术目标的{g|Encyclopedia:Constitution}体质{/g}值受到-6{g|Encyclopedia:Penalty}减值{/g}。\n无能诅咒——受术目标的{g|Encyclopedia:Strength}力量{/g}与{g|Encyclopedia:Dexterity}敏捷{/g}值受到-6减值。\n愚痴诅咒——受术目标的{g|Encyclopedia:Intelligence}智力{/g}、{g|Encyclopedia:Wisdom}感知{/g}与{g|Encyclopedia:Charisma}魅力{/g}值受到-6减值。\n衰颓诅咒——受术目标在{g|Encyclopedia:Attack}攻击检定{/g}、{g|Encyclopedia:Saving_Throw}豁免检定{/g}、{g|Encyclopedia:Ability_Scores}属性检定{/g}与{g|Encyclopedia:Skills}技能{/g}{g|Encyclopedia:Check}检定{/g}时受到-4减值。"
+    },
+    {
+      "Key": "5704cd12713e4852a74429acc0286e61",
+      "SimpleName": "OracleApocalypseFinalCriticalCurseAbility.Name",
+      "ProcessTemplates": false,
+      "enGB": "Critical Curse",
+      "zhCN": "致命诅咒"
+    },
+    {
+      "Key": "19c4cd7d89344e5eb0a4496d718fd4c5",
+      "SimpleName": "OracleApocalypseFinalDeteriorationAbility.Description",
+      "ProcessTemplates": true,
+      "enGB": "While in combat you may expend a swift action; during this combat the next creature you confirm a critical hit against is cursed by your attack as the bestow curse spell, except the target doesn’t receive a Will saving throw to negate the effects and spell resistance does not apply against this ability.\r\nCurse of Idiocy — The subject suffers a –6 penalty to Intelligence, Wisdom, and Charisma scores.",
+      "zhCN": "战斗时消耗一个迅捷动作发动；本场战斗中，你下次成功造成重击的目标将受到等同于降咒法术的诅咒效果，但目标无法通过意志豁免检定抵抗，且法术抗性对此能力无效。\n\n衰颓诅咒——受术目标在{g|Encyclopedia:Attack}攻击检定{/g}、{g|Encyclopedia:Saving_Throw}豁免检定{/g}、{g|Encyclopedia:Ability_Scores}属性检定{/g}与{g|Encyclopedia:Skills}技能{/g}{g|Encyclopedia:Check}检定{/g}时受到-4减值。"
+    },
+    {
+      "Key": "e18ecb95e04d4f5e8215d0b04762f058",
+      "SimpleName": "OracleApocalypseFinalDeteriorationBuff.Description",
+      "ProcessTemplates": true,
+      "enGB": "During this combat the next creature you confirm a critical hit against is cursed by your attack as the bestow curse spell, except the target doesn’t receive a Will saving throw to negate the effects and spell resistance does not apply against this ability.\r\nCurse of Idiocy — The subject suffers a –6 penalty to Intelligence, Wisdom, and Charisma scores.",
+      "zhCN": "战斗时消耗一个迅捷动作发动；本场战斗中，你下次成功造成重击的目标将受到等同于降咒法术的诅咒效果，但目标无法通过意志豁免检定抵抗，且法术抗性对此能力无效。\n\n衰颓诅咒——受术目标在{g|Encyclopedia:Attack}攻击检定{/g}、{g|Encyclopedia:Saving_Throw}豁免检定{/g}、{g|Encyclopedia:Ability_Scores}属性检定{/g}与{g|Encyclopedia:Skills}技能{/g}{g|Encyclopedia:Check}检定{/g}时受到-4减值。"
+    },
+    {
+      "Key": "302fac384c92414c9e674ad9fa4f4270",
+      "SimpleName": "OracleApocalypseFinalDeteriorationBuff.Name",
+      "ProcessTemplates": false,
+      "enGB": "Critical Curse - Deterioration",
+      "zhCN": "致命诅咒（衰颓）"
+    },
+    {
+      "Key": "edfa1ca95d8a46f089d86dc80d86bbce",
+      "SimpleName": "OracleApocalypseFinalFeebleBodyAbility.Description",
+      "ProcessTemplates": true,
+      "enGB": "While in combat you may expend a swift action; during this combat the next creature you confirm a critical hit against is cursed by your attack as the bestow curse spell, except the target doesn’t receive a Will saving throw to negate the effects and spell resistance does not apply against this ability.\r\nCurse of Feeble Body — The subject suffers a –6 penalty to Constitution score.",
+      "zhCN": "战斗时消耗一个迅捷动作发动；本场战斗中，你下次成功造成重击的目标将受到等同于降咒法术的诅咒效果，但目标无法通过意志豁免检定抵抗，且法术抗性对此能力无效。\n\n弱体诅咒——受术目标的{g|Encyclopedia:Constitution}体质{/g}值受到-6{g|Encyclopedia:Penalty}减值{/g}。"
+    },
+    {
+      "Key": "43fc8f23d1034facb2cbdde3fcbe0d0a",
+      "SimpleName": "OracleApocalypseFinalFeebleBodyBuff.Description",
+      "ProcessTemplates": true,
+      "enGB": "During this combat the next creature you confirm a critical hit against is cursed by your attack as the bestow curse spell, except the target doesn’t receive a Will saving throw to negate the effects and spell resistance does not apply against this ability.\r\nCurse of Feeble Body — The subject suffers a –6 penalty to Constitution score.",
+      "zhCN": "战斗时消耗一个迅捷动作发动；本场战斗中，你下次成功造成重击的目标将受到等同于降咒法术的诅咒效果，但目标无法通过意志豁免检定抵抗，且法术抗性对此能力无效。\n\n弱体诅咒——受术目标的{g|Encyclopedia:Constitution}体质{/g}值受到-6{g|Encyclopedia:Penalty}减值{/g}。"
+    },
+    {
+      "Key": "854dc850c3ce495cbc3f52d2938d567f",
+      "SimpleName": "OracleApocalypseFinalFeebleBodyBuff.Name",
+      "ProcessTemplates": false,
+      "enGB": "Critical Curse - Feeble Body",
+      "zhCN": "致命诅咒（弱体）"
+    },
+    {
+      "Key": "1cab4be4b45843da9951fd91a9b32d41",
+      "SimpleName": "OracleApocalypseFinalIdiocyAbility.Description",
+      "ProcessTemplates": true,
+      "enGB": "While in combat you may expend a swift action; during this combat the next creature you confirm a critical hit against is cursed by your attack as the bestow curse spell, except the target doesn’t receive a Will saving throw to negate the effects and spell resistance does not apply against this ability.\r\nCurse of Idiocy — The subject suffers a –6 penalty to Intelligence, Wisdom, and Charisma scores.",
+      "zhCN": "战斗时消耗一个迅捷动作发动；本场战斗中，你下次成功造成重击的目标将受到等同于降咒法术的诅咒效果，但目标无法通过意志豁免检定抵抗，且法术抗性对此能力无效。\n\n愚痴诅咒——受术目标的{g|Encyclopedia:Intelligence}智力{/g}、{g|Encyclopedia:Wisdom}感知{/g}与{g|Encyclopedia:Charisma}魅力{/g}值受到-6减值。"
+    },
+    {
+      "Key": "86bea2cd99414caf8c712c4ce812fefb",
+      "SimpleName": "OracleApocalypseFinalIdiocyBuff.Description",
+      "ProcessTemplates": true,
+      "enGB": "During this combat the next creature you confirm a critical hit against is cursed by your attack as the bestow curse spell, except the target doesn’t receive a Will saving throw to negate the effects and spell resistance does not apply against this ability.\r\nCurse of Idiocy — The subject suffers a –6 penalty to Intelligence, Wisdom, and Charisma scores.",
+      "zhCN": "战斗时消耗一个迅捷动作发动；本场战斗中，你下次成功造成重击的目标将受到等同于降咒法术的诅咒效果，但目标无法通过意志豁免检定抵抗，且法术抗性对此能力无效。\n\n愚痴诅咒——受术目标的{g|Encyclopedia:Intelligence}智力{/g}、{g|Encyclopedia:Wisdom}感知{/g}与{g|Encyclopedia:Charisma}魅力{/g}值受到-6减值。"
+    },
+    {
+      "Key": "f224c49c64cf4bdf9b7c52147e1c7ecf",
+      "SimpleName": "OracleApocalypseFinalIdiocyBuff.Name",
+      "ProcessTemplates": false,
+      "enGB": "Critical Curse - Idiocy",
+      "zhCN": "致命诅咒（愚痴）"
+    },
+    {
+      "Key": "5772cd1e9aad46f0bc1e68dc27088bbc",
+      "SimpleName": "OracleApocalypseFinalRevelation.Description",
+      "ProcessTemplates": true,
+      "enGB": "Upon reaching 20th level, you become a herald of the apocalypse and wield the awesome power to fulfill such prophecy. Anytime you successfully cast a spell or use an ability that bestows 1 or more negative levels, you then bestow an 1d4 additional negative levels.\nAdditionally, while in combat you may expend a swift action; during this combat the next creature you confirm a critical hit against is cursed by your attack as the bestow curse spell, except the target doesn’t receive a Will saving throw to negate the effects and spell resistance does not apply against this ability.",
+      "zhCN": "在20级时，你化身为万物终结的使者，掌握着毁灭的真理。每当你施放一个会对目标造成一个或更多负向等级的法术或能力时，这个效果会造成额外1d4个负向等级。\n此外，战斗时消耗一个迅捷动作发动；本场战斗中，你下次成功造成重击的目标将受到等同于降咒法术的诅咒效果，但目标无法通过意志豁免检定抵抗，且法术抗性对此能力无效。"
+    },
+    {
+      "Key": "ab554cfc89c84464a2e4c75ee7319ed3",
+      "SimpleName": "OracleApocalypseFinalWeaknessAbility.Description",
+      "ProcessTemplates": true,
+      "enGB": "While in combat you may expend a swift action; during this combat the next creature you confirm a critical hit against is cursed by your attack as the bestow curse spell, except the target doesn’t receive a Will saving throw to negate the effects and spell resistance does not apply against this ability.\r\nCurse of Weakness — The subject suffers a –6 penalty to Strength and Dexterity scores.",
+      "zhCN": "战斗时消耗一个迅捷动作发动；本场战斗中，你下次成功造成重击的目标将受到等同于降咒法术的诅咒效果，但目标无法通过意志豁免检定抵抗，且法术抗性对此能力无效。\n\n无能诅咒——受术目标的{g|Encyclopedia:Strength}力量{/g}与{g|Encyclopedia:Dexterity}敏捷{/g}值受到-6减值。"
+    },
+    {
+      "Key": "eb3c7754815d4133b65e1590d6321efb",
+      "SimpleName": "OracleApocalypseFinalWeaknessBuff.Description",
+      "ProcessTemplates": true,
+      "enGB": "During this combat the next creature you confirm a critical hit against is cursed by your attack as the bestow curse spell, except the target doesn’t receive a Will saving throw to negate the effects and spell resistance does not apply against this ability.\r\nCurse of Weakness — The subject suffers a –6 penalty to Strength and Dexterity scores.",
+      "zhCN": "战斗时消耗一个迅捷动作发动；本场战斗中，你下次成功造成重击的目标将受到等同于降咒法术的诅咒效果，但目标无法通过意志豁免检定抵抗，且法术抗性对此能力无效。\n\n无能诅咒——受术目标的{g|Encyclopedia:Strength}力量{/g}与{g|Encyclopedia:Dexterity}敏捷{/g}值受到-6减值。"
+    },
+    {
+      "Key": "450b31fc99ed43bf86a0a81ce9d033fe",
+      "SimpleName": "OracleApocalypseFinalWeaknessBuff.Name",
+      "ProcessTemplates": false,
+      "enGB": "Critical Curse - Weakness",
+      "zhCN": "致命诅咒（无能）"
+    },
+    {
+      "Key": "e64c031163574c369d4cda7aef445b81",
+      "SimpleName": "OracleApocalypseLazyCombatBuff.Name",
+      "ProcessTemplates": false,
+      "enGB": "Not in combat",
+      "zhCN": "不在战斗中"
+    },
+    {
+      "Key": "c5795531e07d49829b0990b435e817ca",
+      "SimpleName": "OracleApocalypseMysteryFeature.Description",
+      "ProcessTemplates": true,
+      "enGB": "An oracle with the apocalypse mystery adds Lore (nature), Persuasion and Stealth to her list of class skills.",
+      "zhCN": "浩劫秘示域的先知将学识（自然）、沟通和潜行{g|Encyclopedia:Skills}技能{/g}加入本职技能列表。"
+    },
+    {
+      "Key": "2329bee569c44054b14a4d59d88cd865",
+      "SimpleName": "OracleApocalypseMysteryFeature.Name",
+      "ProcessTemplates": false,
+      "enGB": "Apocalypse",
+      "zhCN": "浩劫"
+    },
+    {
+      "Key": "db8e1725b38942c4ab33db8cb2250f64",
+      "SimpleName": "OracleRevelationDefyElementsAcidRank.Description",
+      "ProcessTemplates": true,
+      "enGB": "You gain resistance 5 to the acid energy damage, this can be chosen on future selection of the defy elements revelation to increase the effect to a maximum resistance of 20.",
+      "zhCN": "你获得5点酸蚀能量抗性，在之后的蔑视元素选择中可以再次选择该元素，获得最大20点能量抗性。"
+    },
+    {
+      "Key": "19deb923fca54631a7d8d6fec6a74175",
+      "SimpleName": "OracleRevelationDefyElementsAcidRank.Name",
+      "ProcessTemplates": false,
+      "enGB": "Defy Elements - Acid",
+      "zhCN": "蔑视元素（酸蚀）"
+    },
+    {
+      "Key": "ac7407ff1fd744e994481ed5ddcce48b",
+      "SimpleName": "OracleRevelationDefyElementsColdRank.Description",
+      "ProcessTemplates": true,
+      "enGB": "You gain resistance 5 to the cold energy damage, this can be chosen on future selection of the defy elements revelation to increase the effect to a maximum resistance of 20.",
+      "zhCN": "你获得5点寒冷能量抗性，在之后的蔑视元素选择中可以再次选择该元素，获得最大20点能量抗性。"
+    },
+    {
+      "Key": "07afa99105684c4da99321f203dfd6a5",
+      "SimpleName": "OracleRevelationDefyElementsColdRank.Name",
+      "ProcessTemplates": false,
+      "enGB": "Defy Elements - Cold",
+      "zhCN": "蔑视元素（寒冷）"
+    },
+    {
+      "Key": "324680c246ff477d998d855cb8a08d46",
+      "SimpleName": "OracleRevelationDefyElementsElectricityRank.Description",
+      "ProcessTemplates": true,
+      "enGB": "You gain resistance 5 to the electricity energy damage, this can be chosen on future selection of the defy elements revelation to increase the effect to a maximum resistance of 20.",
+      "zhCN": "你获得5点电击能量抗性，在之后的蔑视元素选择中可以再次选择该元素，获得最大20点能量抗性。"
+    },
+    {
+      "Key": "c8c56e320f974ea4968b162676a3cc72",
+      "SimpleName": "OracleRevelationDefyElementsElectricityRank.Name",
+      "ProcessTemplates": false,
+      "enGB": "Defy Elements - Electricity",
+      "zhCN": "蔑视元素（电击）"
+    },
+    {
+      "Key": "9774264b75a84258b1a9656e1a80ccc7",
+      "SimpleName": "OracleRevelationDefyElementsFireRank.Description",
+      "ProcessTemplates": true,
+      "enGB": "You gain resistance 5 to the fire energy damage, this can be chosen on future selection of the defy elements revelation to increase the effect to a maximum resistance of 20.",
+      "zhCN": "你获得5点火焰能量抗性，在之后的蔑视元素选择中可以再次选择该元素，获得最大20点能量抗性。"
+    },
+    {
+      "Key": "7351257098974bb8875e8213d2357ea9",
+      "SimpleName": "OracleRevelationDefyElementsFireRank.Name",
+      "ProcessTemplates": false,
+      "enGB": "Defy Elements - Fire",
+      "zhCN": "蔑视元素（火焰）"
+    },
+    {
+      "Key": "0096856008514f10bbae43386afb2763",
+      "SimpleName": "OracleRevelationDefyElementsResistanceFeature.Name",
+      "ProcessTemplates": false,
+      "enGB": "Defy Elements Res Handler",
+      "zhCN": "Defy Elements Res Handler"
+    },
+    {
+      "Key": "68959b1e709446c6b0614bcae8913ac8",
+      "SimpleName": "OracleRevelationDefyElementsSelection.Description",
+      "ProcessTemplates": true,
+      "enGB": "Choose one energy type (acid, cold, fire, electricity, or sonic). You gain resistance 5 to the selected energy type. At 5th level and every 5 levels thereafter, you can choose an additional energy type for which to gain resistance 5, or you can choose a previously chosen energy type and increase that resistance by 5 (to a maximum resistance of 20 for any one energy type).",
+      "zhCN": "选择一种能量类型（酸蚀、寒冷、火焰、电击、音波），你获得5点该型能量的抗性。在5级以及之后每5级时，你可以选择另一种能量类型，获得5点抗性；或者将你已经选择的一种能量抗性提升5点（最多在同一种能量上达到20点抗性）。"
+    },
+    {
+      "Key": "eac35a62c9cb401d978a8685726e42a3",
+      "SimpleName": "OracleRevelationDefyElementsSelection.Name",
+      "ProcessTemplates": false,
+      "enGB": "Defy Elements",
+      "zhCN": "蔑视元素"
+    },
+    {
+      "Key": "2f338988500942b8a32a20831731903d",
+      "SimpleName": "OracleRevelationDefyElementsSonicRank.Description",
+      "ProcessTemplates": true,
+      "enGB": "You gain resistance 5 to the sonic energy damage, this can be chosen on future selection of the defy elements revelation to increase the effect to a maximum resistance of 20.",
+      "zhCN": "你获得5点音波能量抗性，在之后的蔑视元素选择中可以再次选择该元素，获得最大20点能量抗性。"
+    },
+    {
+      "Key": "dd35af94a9254a7895a001d9426cafc1",
+      "SimpleName": "OracleRevelationDefyElementsSonicRank.Name",
+      "ProcessTemplates": false,
+      "enGB": "Defy Elements - Sonic",
+      "zhCN": "蔑视元素（音波）"
+    },
+    {
+      "Key": "e827d4a95b7149b7b4928f3690d9a51a",
+      "SimpleName": "OracleRevelationDoomsayerAbility.Description",
+      "ProcessTemplates": true,
+      "enGB": "As a standard action, you can utter a dire prophecy that strikes fear in enemies within 30 feet, causing them to become shaken until the end of your next round.",
+      "zhCN": "以一个标准动作，你开始宣导末日即将降临的布道，并将恐惧注入周围敌人的内心。所有距离你30尺内且可以听到你的敌人将会陷入战栗。"
+    },
+    {
+      "Key": "0f5add394a894d1b970c7bb46cc5f276",
+      "SimpleName": "OracleRevelationDoomsayerAbility.Duration",
+      "ProcessTemplates": false,
+      "enGB": "2 rounds",
+      "zhCN": "2 轮"
+    },
+    {
+      "Key": "f8e5cf75c08c4fe9964a3da3989e0339",
+      "SimpleName": "OracleRevelationDoomsayerAbility.Name",
+      "ProcessTemplates": false,
+      "enGB": "Doomsayer",
+      "zhCN": "末日预言"
+    },
+    {
+      "Key": "2f5c2ea9b0c04ff28eae82e35e45df1f",
+      "SimpleName": "OracleRevelationDoomsayerCooldownBuff.Name",
+      "ProcessTemplates": false,
+      "enGB": "Doomsayer - Once Per Round",
+      "zhCN": "末日预言（每轮一次）"
+    },
+    {
+      "Key": "2a20ca465cf9400d9fc9e4a58d9cda59",
+      "SimpleName": "OracleRevelationDoomsayerExtendAbility.Description",
+      "ProcessTemplates": true,
+      "enGB": "Continue doomsaying as a move action, extending the effect an additional round on all enemies withing range.",
+      "zhCN": "以移动动作延续末日预言，使范围内所有敌人的效果延长1轮。"
+    },
+    {
+      "Key": "fc95f7c1a8d44538b87d933953e57a8c",
+      "SimpleName": "OracleRevelationDoomsayerExtendAbility.Name",
+      "ProcessTemplates": false,
+      "enGB": "Doomsayer - Extend",
+      "zhCN": "末日预言（延续）"
+    },
+    {
+      "Key": "f975e92071394b46b8811c7280a68318",
+      "SimpleName": "OracleRevelationDoomsayerFeature.Description",
+      "ProcessTemplates": true,
+      "enGB": "As a standard action, you can utter a dire prophecy that strikes fear in enemies within 30 feet, causing them to become shaken until the end of your next round. During a round you have not used this ability, you can continue doomsaying as a move action, extending the effect an additional round on all enemies withing range. This ability cannot cause a creature to become frightened or panicked, even if the target was already shaken from another effect; and for the purpose of immunities is a mind altering fear effect. \nAt 15th level you may extend the shaken effect as a swift action instead. \nYou must be at least 7th level to select this revelation.",
+      "zhCN": "以一个标准动作，你开始宣导末日即将降临的布道，并将恐惧注入周围敌人的内心。所有距离你30尺内且可以听到你的敌人将会陷入战栗。当轮未使用此能力时，可以移动动作延续效果，使范围内所有敌人的状态延长1轮。此能力不会使目标陷入惊恐或慌乱状态（即使目标已受其他战栗效果影响），考虑免疫时将其视其为精神类恐惧效应。\n15级起，你每轮只需要一个迅捷动作就可以保持布道。\n你必须达到7级才能选择本启示。"
+    },
+    {
+      "Key": "bb21ce703bae4cac9fbc76bde9901b6a",
+      "SimpleName": "OracleRevelationDoomsayerShakenBuff.Description",
+      "ProcessTemplates": true,
+      "enGB": "This debuff has the same effect as being shaken, with the addition of being able to be extended by the doomsayers actions. \nShaken\nA shaken character takes a –2 penalty on attack rolls, saving throws, skill checks, and ability checks. Shaken is a less severe state of fear than frightened.",
+      "zhCN": "该效果和战栗相同，此外可以被末日预言用动作延续\n战栗\n陷入战栗状态的角色在{g|Encyclopedia:Attack}攻击检定{/g}、{g|Encyclopedia:Saving_Throw}豁免检定{/g}、{g|Encyclopedia:Skills}技能检定{/g}和{g|Encyclopedia:Ability_Scores}属性检定{/g}上承受-2{g|Encyclopedia:Penalty}减值{/g}。战栗是一种比{g|ConditionFrightened}惊恐{/g}程度低的恐惧状态。"
+    },
+    {
+      "Key": "061cda27ed3f482ca0c2bcd15ab76d4f",
+      "SimpleName": "OracleRevelationDoomsayerShakenBuff.Name",
+      "ProcessTemplates": false,
+      "enGB": "Doomsayers Prophecy",
+      "zhCN": "末日预言"
+    },
+    {
+      "Key": "d48a0cac0d01446685d19e92ad0f9c87",
+      "SimpleName": "OracleRevelationDoomsayerSwiftExtend.Name",
+      "ProcessTemplates": false,
+      "enGB": "OracleRevelationDoomsayerSwiftExtend",
+      "zhCN": "OracleRevelationDoomsayerSwiftExtend"
+    },
+    {
+      "Key": "f293d6e853d44a96a116ccd298d94476",
+      "SimpleName": "OracleRevelationDustToDustAbility.Description",
+      "ProcessTemplates": true,
+      "enGB": "Once per day as a standard action, you can cause the weapons around you to shatter in their wielders’ hands. When you use this ability, attempt a disarm combat maneuver against every creature in a 10-foot radius, using your caster level in place of your base attack bonus and your Charisma modifier in place of Strength. \nAt 10th level, you can use this ability twice per day.",
+      "zhCN": "每天一次以一个标准动作，你可以让周围所有敌人持有的武器崩解成碎片。对10尺内所有生物进行进行一次缴械战技检定，你可以在检定上将你的施法者等级作为基本攻击加值并用魅力调整值取代力量调整值。\n10级起，你每天可以使用本能力2次。"
+    },
+    {
+      "Key": "4babe933e4234605b4f4cc988cfe8013",
+      "SimpleName": "OracleRevelationDustToDustAbility.Name",
+      "ProcessTemplates": false,
+      "enGB": "Dust to Dust",
+      "zhCN": "万物归尘"
+    },
+    {
+      "Key": "9db00390486746f8a384330cee5f0f7c",
+      "SimpleName": "OracleRevelationDustToDustFeature.Description",
+      "ProcessTemplates": true,
+      "enGB": "Once per day as a standard action, you can cause the weapons around you to shatter in their wielders’ hands. When you use this ability, attempt a disarm combat maneuver against every creature in a 10-foot radius, using your caster level in place of your base attack bonus and your Charisma modifier in place of Strength. \nAt 10th level, you can use this ability twice per day.",
+      "zhCN": "每天一次以一个标准动作，你可以让周围所有敌人持有的武器崩解成碎片。对10尺内所有生物进行进行一次缴械战技检定，你可以在检定上将你的施法者等级作为基本攻击加值并用魅力调整值取代力量调整值。\n10级起，你每天可以使用本能力2次。"
+    },
+    {
+      "Key": "e95f38e1afe5467984e2e3edc34fce03",
+      "SimpleName": "OracleRevelationPassTheTorchAbility.Description",
+      "ProcessTemplates": true,
+      "enGB": "Once per day as a swift action, you can channel the energy of the apocalypse into your body, causing you to ignite. You take 1d4 points of fire damage when you activate this ability and again at the beginning of your turn until you end the effect. Any creature that begins the next round adjacent to you takes 1d6 points of fire damage as the fire spreads, plus 1 additional point of fire damage for each previous round you have had this ability active. For example, adjacent creatures take 1d6+5 points of damage if you have had this ability active for 5 rounds. You can use this ability each time for a number of rounds equal to 1/2 your oracle level, and you can end this ability as a free action. At 5th level and every 5 levels thereafter, you can use this ability one additional time per day.",
+      "zhCN": ""
+    },
+    {
+      "Key": "9f072567186347fdadae26582b157e28",
+      "SimpleName": "OracleRevelationPassTheTorchAbility.Duration",
+      "ProcessTemplates": false,
+      "enGB": "1 round/2 levels, unless ended by caster",
+      "zhCN": "1 轮/ 2级，除非由施法者结束"
+    },
+    {
+      "Key": "eb17784469824fbb8ec8c67c82b23389",
+      "SimpleName": "OracleRevelationPassTheTorchBuff.Description",
+      "ProcessTemplates": true,
+      "enGB": "You take 1d4 points of fire damage when you activate this ability and again at the beginning of your turn until you end the effect. Any creature that begins the next round adjacent to you takes 1d6 points of fire damage as the fire spreads, plus 1 additional point of fire damage for each previous round you have had this ability active. For example, adjacent creatures take 1d6+5 points of damage if you have had this ability active for 5 rounds. You can end this ability early as a free action.",
+      "zhCN": "你在启动本能力时受到1d4点火焰伤害，并在结束本能力前的每一轮都受到等量火焰伤害。任何在你的邻接位置开始回合的生物都要承受1d6附加你每启动本能力1轮时间叠加1点火焰伤害。举例来说，如果你已经启动燃烧5轮时间，那么周围的生物就会受到1d6+5点火焰伤害。你可以保持本能力的轮数相当于你的先知等级的一半，并可以以一个自由动作结束本能力。"
+    },
+    {
+      "Key": "7389732e4dbf492087a9c3a8b3423c2a",
+      "SimpleName": "OracleRevelationPassTheTorchBuff.Name",
+      "ProcessTemplates": false,
+      "enGB": "Pass the Torch",
+      "zhCN": "递薪传火"
+    },
+    {
+      "Key": "8d025c88ead544b7b5e4171d5de83acd",
+      "SimpleName": "OracleRevelationPassTheTorchFeature.Description",
+      "ProcessTemplates": true,
+      "enGB": "Once per day as a swift action, you can channel the energy of the apocalypse into your body, causing you to ignite. You take 1d4 points of fire damage when you activate this ability and again at the beginning of your turn until you end the effect. Any creature that begins the next round adjacent to you takes 1d6 points of fire damage as the fire spreads, plus 1 additional point of fire damage for each previous round you have had this ability active. For example, adjacent creatures take 1d6+5 points of damage if you have had this ability active for 5 rounds. You can use this ability each time for a number of rounds equal to 1/2 your oracle level, and you can end this ability as a free action. At 5th level and every 5 levels thereafter, you can use this ability one additional time per day.",
+      "zhCN": "每天一次以一个迅捷动作，你可以将末日之炎从体内喷发而出，将自己当成火炬焚烧世界。你在启动本能力时受到1d4点火焰伤害，并在结束本能力前的每一轮都受到等量火焰伤害。任何在你的邻接位置开始回合的生物都要承受1d6附加你每启动本能力1轮时间叠加1点火焰伤害。举例来说，如果你已经启动燃烧5轮时间，那么周围的生物就会受到1d6+5点火焰伤害。你可以保持本能力的轮数相当于你的先知等级的一半，并可以以一个自由动作结束本能力。在5级和之后每5级时，你获得额外一次本能力的每日使用次数。"
+    },
+    {
+      "Key": "cdbbc9b829294817845033430c3469e3",
+      "SimpleName": "OracleRevelationPassTheTorchPulse.Description",
+      "ProcessTemplates": true,
+      "enGB": "Once per day as a swift action, you can channel the energy of the apocalypse into your body, causing you to ignite. You take 1d4 points of fire damage when you activate this ability and again at the beginning of your turn until you end the effect. Any creature that begins the next round adjacent to you takes 1d6 points of fire damage as the fire spreads, plus 1 additional point of fire damage for each previous round you have had this ability active. For example, adjacent creatures take 1d6+5 points of damage if you have had this ability active for 5 rounds. You can use this ability each time for a number of rounds equal to 1/2 your oracle level, and you can end this ability as a free action. At 5th level and every 5 levels thereafter, you can use this ability one additional time per day.",
+      "zhCN": "每天一次以一个迅捷动作，你可以将末日之炎从体内喷发而出，将自己当成火炬焚烧世界。你在启动本能力时受到1d4点火焰伤害，并在结束本能力前的每一轮都受到等量火焰伤害。任何在你的邻接位置开始回合的生物都要承受1d6附加你每启动本能力1轮时间叠加1点火焰伤害。举例来说，如果你已经启动燃烧5轮时间，那么周围的生物就会受到1d6+5点火焰伤害。你可以保持本能力的轮数相当于你的先知等级的一半，并可以以一个自由动作结束本能力。在5级和之后每5级时，你获得额外一次本能力的每日使用次数。"
+    },
+    {
+      "Key": "33c26f5d16754243b376a6868198684b",
+      "SimpleName": "OracleRevelationPassTheTorchPulse.Name",
+      "ProcessTemplates": false,
+      "enGB": "Pass the Torch - Pulse",
+      "zhCN": "递薪传火（脉冲）"
+
+    },
+    {
+      "Key": "eb7606f90cb84adb821e6ea1649736e1",
+      "SimpleName": "OracleRevelationPassTheTorchRemoveAbility.Description",
+      "ProcessTemplates": true,
+      "enGB": "You may end the effect of pass the torch early by removing the buff as a free action.",
+      "zhCN": "你可以用自由动作提早结束递薪传火的效果。"
+    },
+    {
+      "Key": "01f334e0b7924697a088b772599243d0",
+      "SimpleName": "OracleRevelationPassTheTorchRemoveAbility.Name",
+      "ProcessTemplates": false,
+      "enGB": "Pass the Torch - Early Remove",
+      "zhCN": "递薪传火（提前结束）"
+
+    },
+    {
+      "Key": "828f34a3f6564f89b0040f17fbeb5fda",
+      "SimpleName": "OracleRevelationPassTheTorchRoundToken.Name",
+      "ProcessTemplates": false,
+      "enGB": "Pass the Torch - Round Token",
+      "zhCN": "Pass the Torch - Round Token"
+    },
+    {
+      "Key": "76e5a483a19c446da7a139961d0a7261",
+      "SimpleName": "OracleRevelationSpelBlastAbility.Description",
+      "ProcessTemplates": true,
+      "enGB": "As a swift action empower your ray spells for 1 minute, whenever you confirm a critical hit against an opponent with a ranged touch attack spell, you immediately attempt to bull rush your opponent away from you. You don’t provoke an attack of opportunity for this bull rush attempt.",
+      "zhCN": "以一个迅捷动作增强你的射线法术1分钟，每当你成功的用远程接触攻击法术对对手造成重击，你都可以立刻对目标进行一次冲撞战技尝试并能将它撞向远离你的方向，你不会因为这次战技尝试而引发借机攻击。"
+    },
+    {
+      "Key": "567c74bd66da4545ae7c7ef9f4fe691a",
+      "SimpleName": "OracleRevelationSpelBlastBuff.Description",
+      "ProcessTemplates": true,
+      "enGB": "As a swift action empower your ray spells for 1 minute, whenever you confirm a critical hit against an opponent with a ranged touch attack spell, you immediately attempt to bull rush your opponent away from you. You don’t provoke an attack of opportunity for this bull rush attempt.",
+      "zhCN": "以一个迅捷动作增强你的射线法术1分钟，每当你成功的用远程接触攻击法术对对手造成重击，你都可以立刻对目标进行一次冲撞战技尝试并能将它撞向远离你的方向，你不会因为这次战技尝试而引发借机攻击。"
+    },
+    {
+      "Key": "778773029f30469a9840a8bb603f3117",
+      "SimpleName": "OracleRevelationSpelBlastBuff.Name",
+      "ProcessTemplates": false,
+      "enGB": "Spell Blast",
+      "zhCN": "法术爆冲"
+    },
+    {
+      "Key": "73406c7a731c40a5ba878f861cee3f4f",
+      "SimpleName": "OracleRevelationSpelBlastFeature.Description",
+      "ProcessTemplates": true,
+      "enGB": "As a swift action empower your ray spells for 1 minute, whenever you confirm a critical hit against an opponent with a ranged touch attack spell, you immediately attempt to bull rush your opponent away from you. You don’t provoke an attack of opportunity for this bull rush attempt.",
+      "zhCN": "以一个迅捷动作增强你的射线法术1分钟，每当你成功的用远程接触攻击法术对对手造成重击，你都可以立刻对目标进行一次冲撞战技尝试并能将它撞向远离你的方向，你不会因为这次战技尝试而引发借机攻击。"
+    },
+    {
+      "Key": "9b055c6a2ec04fa1a61c7bd39102b727",
+      "SimpleName": "ShamanSlumsSpiritBaseAbility.Description",
+      "ProcessTemplates": true,
+      "enGB": "You instantly transfer yourself from your current location to any other spot within range, as if using the dimention door spell. However only you are transported and not your allies. You can use this ability three times per day, plus one additional time per day at 12th level and at 20th level.",
+      "zhCN": "你立即将自己转移到范围内的另一点，如同法术次元门的效果。与之不同的是这只能传送你而不包括你的盟友。你每天可以使用该能力三次，在达到12级和20级时每天可以再多使用一次。"
+    },
+    {
+      "Key": "34d93e87175a4d74b2779ab2b497a65d",
+      "SimpleName": "ShamanSlumsSpiritBaseAbility.Name",
+      "ProcessTemplates": false,
+      "enGB": "Doors to Everywhere",
+      "zhCN": "任意门"
+    },
+    {
+      "Key": "e42c15bc7cca47b988b34b3f586dd6ba",
+      "SimpleName": "ShamanSlumsSpiritBaseFeature.Description",
+      "ProcessTemplates": true,
+      "enGB": "You instantly transfer yourself from your current location to any other spot within range, as if using the dimention door spell. However only you are transported and not your allies. You can use this ability three times per day, plus one additional time per day at 12th level and at 20th level.",
+      "zhCN": "你立即将自己转移到范围内的另一点，如同法术次元门的效果。与之不同的是这只能传送你而不包括你的盟友。你每天可以使用该能力三次，在达到12级和20级时每天可以再多使用一次。"
+    },
+    {
+      "Key": "67e2642f3f294a1dbc30949651424046",
+      "SimpleName": "ShamanSlumsSpiritGreaterBuff.Description",
+      "ProcessTemplates": true,
+      "enGB": "When in an urban environment, the shaman blends into the streets around her, making her difficult to pin down. She gains the effects of the evasion and improved uncanny dodge class features.\nEvasion\nA character can avoid even magical and unusual attacks with great agility. If a character makes a successful Reflex saving throw against an attack that normally deals half damage on a successful save, he instead takes no damage. A helpless character does not gain the benefit of evasion.\nImproved Uncanny Dodge\nThe character can no longer be flanked.\r\nThis defense denies another rogue the ability to sneak attack the character by flanking her, unless the attacker has at least four more rogue levels than the target does.",
+      "zhCN": "当身处城镇环境中时，似乎萨满身边的一砖一瓦都在无形地保护着他，使萨满难以被伤害到。萨满可以获得反射闪避和精通直觉闪避职业能力。\n反射闪避\n角色可凭借惊人的身手躲避魔法和非寻常攻击。对于在正常情况下{g|Encyclopedia:Saving_Throw}反射豁免{/g}成功会使{g|Encyclopedia:Damage}伤害{/g}减半的攻击，角色在豁免成功后改为不受到任何伤害。陷入{g|Encyclopedia:Helpless}无助{/g}状态的角色无法获得反射闪避提供的效果。\n精通直觉闪避\n该角色无法被{g|Encyclopedia:Flanking}夹击{/g}。\n该防御使得其他游荡者通过夹击进行偷袭的能力无效，除非攻击者的游荡者等级高于目标4级。"
+    },
+    {
+      "Key": "2c1d919e05504e6092348e5db74a043a",
+      "SimpleName": "ShamanSlumsSpiritGreaterBuff.Name",
+      "ProcessTemplates": false,
+      "enGB": "City’s Shroud",
+      "zhCN": "都市帷幕"
+    },
+    {
+      "Key": "2e7e905f37674126b514b946c6d005c6",
+      "SimpleName": "ShamanSlumsSpiritGreaterFeature.Description",
+      "ProcessTemplates": true,
+      "enGB": "When in an urban environment, the shaman blends into the streets around her, making her difficult to pin down. She gains the effects of the evasion and improved uncanny dodge class features.\nEvasion\nA character can avoid even magical and unusual attacks with great agility. If a character makes a successful Reflex saving throw against an attack that normally deals half damage on a successful save, he instead takes no damage. A helpless character does not gain the benefit of evasion.\nImproved Uncanny Dodge\nThe character can no longer be flanked.\r\nThis defense denies another rogue the ability to sneak attack the character by flanking her, unless the attacker has at least four more rogue levels than the target does.",
+      "zhCN": "当身处城镇环境中时，似乎萨满身边的一砖一瓦都在无形地保护着他，使萨满难以被伤害到。萨满可以获得反射闪避和精通直觉闪避职业能力。\n反射闪避\n角色可凭借惊人的身手躲避魔法和非寻常攻击。对于在正常情况下{g|Encyclopedia:Saving_Throw}反射豁免{/g}成功会使{g|Encyclopedia:Damage}伤害{/g}减半的攻击，角色在豁免成功后改为不受到任何伤害。陷入{g|Encyclopedia:Helpless}无助{/g}状态的角色无法获得反射闪避提供的效果。\n精通直觉闪避\n该角色无法被{g|Encyclopedia:Flanking}夹击{/g}。\n该防御使得其他游荡者通过夹击进行偷袭的能力无效，除非攻击者的游荡者等级高于目标4级。"
+    },
+    {
+      "Key": "ab3d9b1677bf4d62968b2e11cd5dda95",
+      "SimpleName": "ShamanSlumsSpiritManifestationFeature.Description",
+      "ProcessTemplates": true,
+      "enGB": "Upon reaching 20th level, the shaman becomes a spirit of the slums. She is immune to all diseases and poisons. When in an urban environment, she gains a +4 insight bonus to her AC and on Reflex saves.",
+      "zhCN": "在20级时，萨满与城市破败核心的精魂融为一体，他将免疫疾病和毒素效果。当身处城镇环境中时，萨满在她的防御等级和反射豁免上获得+4洞察加值。"
+    },
+    {
+      "Key": "9fde7f1e93d44ee8b253ca746cda14a0",
+      "SimpleName": "ShamanSlumsSpiritProgression.Description",
+      "ProcessTemplates": true,
+      "enGB": "A shaman who selects the slums spirit gains the city’s alleys and avenues as steadfast allies. The rats in the gutter, the torches along the walls, the coins that flow through the market are all a part of her and serve her whim.",
+      "zhCN": " 敬奉陋巷魂域的萨满会获得一座城市的大街小巷与往来行人对他的援助。无论是在暗夜悄悄溜过的野猫和老鼠，摇摇欲坠的城市街灯或是在市场中川流不息的钱币，陋巷萨满熟知这人类造物的一切秘密。"
+    },
+    {
+      "Key": "7a83b6d8d8eb452a9c9b0249230917ee",
+      "SimpleName": "ShamanSlumsSpiritProgression.Name",
+      "ProcessTemplates": false,
+      "enGB": "Slums",
+      "zhCN": "陋巷"
+    },
+    {
+      "Key": "36d023a7ecd8453e913557df5144afaa",
+      "SimpleName": "ShamanSlumsSpiritTrueAbility.Description",
+      "ProcessTemplates": true,
+      "enGB": "As a standard action, the shaman assumes a spirit-infused paragon form that makes her a lethal stalker of the alleys and shadows. She gains the ability to make sneak attacks as a rogue of her shaman level for 1 minute. (If she already has sneak attack dice, these stack.) She can use this ability a number of times per day equal to 3 + her Charisma modifier.",
+      "zhCN": "以一个标准动作，萨满呼唤一座城市最强大的杀戮之灵寄宿于他的体内，在接下来的1分钟（或是他自愿遣送该精魂离开前）之中，萨满获得相当于她萨满等级的游荡者的偷袭职业能力（如果她已有偷袭能力则效果叠加）。萨满每天可以发动本精魂之力的次数等同于3+她的魅力调整值次。"
+    },
+    {
+      "Key": "7de2fe70bbb04f939872a645ecac0a0f",
+      "SimpleName": "ShamanSlumsSpiritTrueBuff.Description",
+      "ProcessTemplates": true,
+      "enGB": "As a standard action, the shaman assumes a spirit-infused paragon form that makes her a lethal stalker of the alleys and shadows. She gains the ability to make sneak attacks as a rogue of her shaman level for 1 minute. (If she already has sneak attack dice, these stack.) She can use this ability a number of times per day equal to 3 + her Charisma modifier.",
+      "zhCN": "以一个标准动作，萨满呼唤一座城市最强大的杀戮之灵寄宿于他的体内，在接下来的1分钟（或是他自愿遣送该精魂离开前）之中，萨满获得相当于她萨满等级的游荡者的偷袭职业能力（如果她已有偷袭能力则效果叠加）。萨满每天可以发动本精魂之力的次数等同于3+她的魅力调整值次。"
+    },
+    {
+      "Key": "2bdc76f4931e4d2bbe246e10ebf7dc9a",
+      "SimpleName": "ShamanSlumsSpiritTrueBuff.Name",
+      "ProcessTemplates": false,
+      "enGB": "Paragon of the City",
+      "zhCN": "城市之尊"
+    },
+    {
+      "Key": "bfaf7c0f91c9455c99ded628c1883cb6",
+      "SimpleName": "ShamanSlumsSpiritTrueFeature.Description",
+      "ProcessTemplates": true,
+      "enGB": "As a standard action, the shaman assumes a spirit-infused paragon form that makes her a lethal stalker of the alleys and shadows. She gains the ability to make sneak attacks as a rogue of her shaman level for 1 minute. (If she already has sneak attack dice, these stack.) She can use this ability a number of times per day equal to 3 + her Charisma modifier.",
+      "zhCN": "以一个标准动作，萨满呼唤一座城市最强大的杀戮之灵寄宿于他的体内，在接下来的1分钟（或是他自愿遣送该精魂离开前）之中，萨满获得相当于她萨满等级的游荡者的偷袭职业能力（如果她已有偷袭能力则效果叠加）。萨满每天可以发动本精魂之力的次数等同于3+她的魅力调整值次。"
+    },
+    {
+      "Key": "c476b67202c04dfdb8fdb6f29970130e",
+      "SimpleName": "ShamanHexAccidentAbility.Description",
+      "ProcessTemplates": true,
+      "enGB": "The shaman causes a target within 30 feet to stumble and fall. The shaman attempts a trip combat maneuver using her caster level as its base attack bonus against the target’s CMD. On a successful trip attempt, the target falls prone and takes 1d6 points of damage.",
+      "zhCN": "萨满可以让一个距离他不超过30尺的生物突然绊一跤摔倒在地。萨满使用施法者等级作为基本攻击加值来进行一个绊摔战技检定，对抗目标的CMD。如果检定成功，目标就会摔倒，承受1d6点伤害并陷入俯卧状态。"
+    },
+    {
+      "Key": "0fd12741056c43c1be6104cb2d9b9850",
+      "SimpleName": "ShamanHexAccidentAbility.Name",
+      "ProcessTemplates": false,
+      "enGB": "Accident",
+      "zhCN": "横祸"
+    },
+    {
+      "Key": "d98e6efba10c468d850a15005f423802",
+      "SimpleName": "ShamanHexAccidentFeature.Description",
+      "ProcessTemplates": true,
+      "enGB": "The shaman causes a target within 30 feet to stumble and fall. The shaman attempts a trip combat maneuver using her caster level as its base attack bonus against the target’s CMD. On a successful trip attempt, the target falls prone and takes 1d6 points of damage.",
+      "zhCN": "萨满可以让一个距离他不超过30尺的生物突然绊一跤摔倒在地。萨满使用施法者等级作为基本攻击加值来进行一个绊摔战技检定，对抗目标的CMD。如果检定成功，目标就会摔倒，承受1d6点伤害并陷入俯卧状态。"
+    },
+    {
+      "Key": "34c756ad7d7d48a993ea1a8450a272fc",
+      "SimpleName": "ShamanHexBadPennyAbility.Description",
+      "ProcessTemplates": true,
+      "enGB": "As a standard action, the shaman can curse a coin, and place it in the pockets of a target, attempting to plant the coin is a melee touch attack. The bearer of the cursed coin takes a –2 penalty on all saving throws and skill checks as long he has the coin on his person. Once the coin leaves his person, the curse ends and the coin becomes a mundane piece of tender again. At 8th level, the penalty becomes –4. If the shaman curses a new coin, the previous curse ends. This is a curse effect.",
+      "zhCN": "以一个标准动作，萨满可以为一枚钱币施加诅咒，并将其置于目标的钱包中。这种动作被视为一个近战接触攻击。钱币的持有者会在所有的技能检定和豁免检定上承受-2减值。一旦这块钱离开了他的下一个主人，那么它的诅咒会立刻消解并变回一枚普普通通的硬币。8级起，这个诅咒硬币造成的减值上升到-4。如果萨满对另一枚硬币下咒，那么之前的诅咒立即结束。这是一个诅咒效果。"
+    },
+    {
+      "Key": "5fa165b503714a4bb68b83a45320e4c7",
+      "SimpleName": "ShamanHexBadPennyBuff.Description",
+      "ProcessTemplates": true,
+      "enGB": "As a standard action, the shaman can curse a coin, and place it in the pockets of a target, attempting to plant the coin is a melee touch attack. The bearer of the cursed coin takes a –2 penalty on all saving throws and skill checks as long he has the coin on his person. Once the coin leaves his person, the curse ends and the coin becomes a mundane piece of tender again. At 8th level, the penalty becomes –4. If the shaman curses a new coin, the previous curse ends. This is a curse effect.",
+      "zhCN": "以一个标准动作，萨满可以为一枚钱币施加诅咒，并将其置于目标的钱包中。这种动作被视为一个近战接触攻击。钱币的持有者会在所有的技能检定和豁免检定上承受-2减值。一旦这块钱离开了他的下一个主人，那么它的诅咒会立刻消解并变回一枚普普通通的硬币。8级起，这个诅咒硬币造成的减值上升到-4。如果萨满对另一枚硬币下咒，那么之前的诅咒立即结束。这是一个诅咒效果。"
+    },
+    {
+      "Key": "b46188c8536a488aacc4dba04a78425c",
+      "SimpleName": "ShamanHexBadPennyBuff.Name",
+      "ProcessTemplates": false,
+      "enGB": "Bad Penny",
+      "zhCN": "厄钱"
+    },
+    {
+      "Key": "ec36cb54d6ef40479e06c303b35b593e",
+      "SimpleName": "ShamanHexBadPennyFeature.Description",
+      "ProcessTemplates": true,
+      "enGB": "As a standard action, the shaman can curse a coin, and place it in the pockets of a target, attempting to plant the coin is a melee touch attack. The bearer of the cursed coin takes a –2 penalty on all saving throws and skill checks as long he has the coin on his person. Once the coin leaves his person, the curse ends and the coin becomes a mundane piece of tender again. At 8th level, the penalty becomes –4. If the shaman curses a new coin, the previous curse ends. This is a curse effect.",
+      "zhCN": "以一个标准动作，萨满可以为一枚钱币施加诅咒，并将其置于目标的钱包中。这种动作被视为一个近战接触攻击。钱币的持有者会在所有的技能检定和豁免检定上承受-2减值。一旦这块钱离开了他的下一个主人，那么它的诅咒会立刻消解并变回一枚普普通通的硬币。8级起，这个诅咒硬币造成的减值上升到-4。如果萨满对另一枚硬币下咒，那么之前的诅咒立即结束。这是一个诅咒效果。"
+    },
+    {
+      "Key": "29193b6e752242bb97bae06431cdc1c9",
+      "SimpleName": "ShamanHexCitySpiritAbility.Description",
+      "ProcessTemplates": true,
+      "enGB": "As a swift action, the shaman channels the city’s spirit through herself, gaining a +4 bonus on all Dexterity– and Wisdom-based skill checks. She can use this ability for a number of rounds per day equal to 3 + her Charisma modifier. These rounds need not be consecutive.",
+      "zhCN": "以一个迅捷动作，萨满可以找来他所处城市的精魂相助，为她在一次基于敏捷或感知的技能检定上提供+4加值。萨满每天可以发动本巫术的次数等同于3+他的魅力调整值轮的时间，这些轮数不必持续。"
+    },
+    {
+      "Key": "edf9c94e92944ef8aa88dff3c8155c61",
+      "SimpleName": "ShamanHexCitySpiritBuff.Description",
+      "ProcessTemplates": true,
+      "enGB": "As a swift action, the shaman channels the city’s spirit through herself, gaining a +4 bonus on all Dexterity– and Wisdom-based skill checks. She can use this ability for a number of rounds per day equal to 3 + her Charisma modifier. These rounds need not be consecutive.",
+      "zhCN": "以一个迅捷动作，萨满可以找来他所处城市的精魂相助，为她在一次基于敏捷或感知的技能检定上提供+4加值。萨满每天可以发动本巫术的次数等同于3+他的魅力调整值轮的时间，这些轮数不必持续。"
+    },
+    {
+      "Key": "0b303758f48e466199e1bdb5e1ba11d0",
+      "SimpleName": "ShamanHexCitySpiritBuff.Name",
+      "ProcessTemplates": false,
+      "enGB": "City Spirit",
+      "zhCN": "城市之魂"
+    },
+    {
+      "Key": "feeb29573f12489f8df21dd5c24cc83f",
+      "SimpleName": "ShamanHexCitySpiritFeature.Description",
+      "ProcessTemplates": true,
+      "enGB": "As a swift action, the shaman channels the city’s spirit through herself, gaining a +4 bonus on all Dexterity– and Wisdom-based skill checks. She can use this ability for a number of rounds per day equal to 3 + her Charisma modifier. These rounds need not be consecutive.",
+      "zhCN": "以一个迅捷动作，萨满可以找来他所处城市的精魂相助，为她在一次基于敏捷或感知的技能检定上提供+4加值。萨满每天可以发动本巫术的次数等同于3+他的魅力调整值轮的时间，这些轮数不必持续。"
+    }
   ]
 }
