@@ -6482,5 +6482,61 @@ Be Understanding: Necromancy by itself is not evil and you understand this. You 
         {
             "Key": "HomebrewArchtypes_FighterArchetypeBruiserName", 
             "zhCN": "Bruiser"
+        },
+        {
+            "Key": "HomebrewArchtypes_FighterArchetypeBruiserDesc", 
+            "zhCN": "Bruiser"
+        },
+        {
+            "Key": "HomebrewArchtypes_FighterArchetypeBruiserProvokeName", 
+            "zhCN": "Provoke"
+        },
+        {
+            "Key": "HomebrewArchtypes_FighterArchetypeBruiserProvokeDesc", 
+            "zhCN": "Taunt the target causing them to go berserk and uncontrollably attack the nearest creature for 3 rounds unless they make a save of 10 + bruiser level + charisma modifier will save against the effect. While provoked the target gets a penalty of -4 AC, -4 AB, and a bonus of 4 additional damage dealt. Provoke will not work on animals, undead, plants, aberrations, constructs, vermin or magical beasts."
+        },
+        {
+            "Key": "HomebrewArchtypes_FighterArchetypeBruiserFerociousBiteName", 
+            "zhCN": "Ferocious Bite"
+        },
+        {
+            "Key": "HomebrewArchtypes_FighterArchetypeBruiserFerociousBiteDesc", 
+            "zhCN": "Ferocious Bite"
+        },
+        {
+            "Key": "HomebrewArchtypes_FighterArchetypeBruiserInspireFerocityName", 
+            "zhCN": "Inspire Ferocity"
+        },
+        {
+            "Key": "HomebrewArchtypes_FighterArchetypeBruiserInspireFerocityDesc", 
+            "zhCN": "Inspire Ferocity"
+        },
+        {
+            "Key": "HomebrewArchtypes_FighterArchetypeBruiserInspirePackTacticsName", 
+            "zhCN": "Pack Tactics"
+        },
+        {
+            "Key": "HomebrewArchtypes_FighterArchetypeBruiserInspirePackTacticsDesc", 
+            "zhCN": "Pack Tactics"
+        },
+        {
+            "Key": "HomebrewArchtypes_FighterArchetypeBruiserInspirePackTacticsACName", 
+            "zhCN": "Pack Tactics - Armor Class"
+        },
+        {
+            "Key": "HomebrewArchtypes_ClericArchetypeUndeadLordExtraChannelFeatSelectionName", 
+            "zhCN": "Bonus Channel Feat"
+        },
+        {
+            "Key": "HomebrewArchtypes_ClericArchetypeUndeadLordExtraChannelFeatSelectionDesc", 
+            "zhCN": "At 10th level undead lords get a small selection of channel feats to choose from."
+        },
+        {
+            "Key": "HomebrewArchtypes_MythicAbilityRelentlessSneaksName", 
+            "zhCN": "无情连击"
+        },
+        {
+            "Key": "HomebrewArchtypes_MythicAbilityRelentlessSneaksDesc", 
+            "zhCN": "当偷袭成功命中目标时，获得当轮成功偷袭次数乘以1d6的额外偷袭伤害，效果持续到下一轮开始。"
         }
 ]	
