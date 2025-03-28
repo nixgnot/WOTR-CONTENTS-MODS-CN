@@ -25,8 +25,6 @@
   - [MOD外挂汉化工具QuickLocalization](#MOD外挂汉化工具QuickLocalization)
 - [MOD列表](#MOD列表)
   - [附录：功能MOD索引](#功能MOD索引)
-  - [附录：打包MOD网盘分流](#打包MOD网盘分流) 
-
 ------------------------------------------- 
 
 ## 基础知识
@@ -5101,7 +5099,3 @@ C:\Users\你的用户名\AppData\LocalLow\Owlcat Games\Pathfinder Wrath Of The R
 + [FamiliarPlus](https://www.nexusmods.com/pathfinderwrathoftherighteous/mods/192) 宠物加强（物品小宠物不召唤出来能力也生效）
 + [PuzzleSkip](https://github.com/Balkoth-dev/PuzzleSkip) 跳过部分解谜
 
-### 打包MOD网盘分流
-由网友猫猫虫分享的百度网盘，收集了大部分MOD，便于下载
-链接：https://pan.baidu.com/s/153DyjGYLKe7Vc1dczhGYBg 
-提取码：wotr
