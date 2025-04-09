@@ -665,5 +665,655 @@
     "Key": "TranceMaster.description",
     "enGB": "Allows the Swordmaster to enter 2 trances at a time",
     "zhCN": "允许同时使用2个默想"
+  },
+
+  {
+    "Key": "AutoMaximize.name",
+    "ProcessTemplates": false,
+    "enGB": "Auto-Maximize",
+    "zhCN": "自动极效"
+  },
+
+  {
+    "Key": "AutoMaximize.description",
+    "enGB": "You become so familiar with the metamagic that you can apply it at will with no additional cost.",
+    "zhCN": "你如此擅长这项超魔技艺，可以不需要额外消耗就将其应用。"
+  },
+
+  {
+    "Key": "AutoMaximize-ability.name",
+    "ProcessTemplates": false,
+    "enGB": "Auto-Maximize",
+    "zhCN": "自动极效"
+  },
+
+  {
+    "Key": "AutoMaximize-ability.description",
+    "enGB": "Enable to give your spells Maximum through your mythic power!",
+    "zhCN": "允许你通过神话力量给予你的法术极效超魔。"
+  },
+
+  {
+    "Key": "AutoMaximize-buff.name",
+    "ProcessTemplates": false,
+    "enGB": "Auto-Maximize",
+    "zhCN": "自动极效"
+  },
+
+  {
+    "Key": "AutoMaximize-buff.description",
+    "enGB": "Spells will have Maximum applied to them",
+    "zhCN": "法术被应用了极效超魔"
+  },
+
+  {
+    "Key": "AutoExtend.name",
+    "ProcessTemplates": false,
+    "enGB": "Auto-Extend",
+    "zhCN": "自动延时"
+  },
+
+  {
+    "Key": "AutoExtend.description",
+    "enGB": "You become so familiar with the metamagic that you can apply it at will with no additional cost.",
+    "zhCN": "你如此擅长这项超魔技艺，可以不需要额外消耗就将其应用。"
+  },
+
+  {
+    "Key": "AutoExtend-ability.name",
+    "ProcessTemplates": false,
+    "enGB": "Auto-Extend",
+    "zhCN": "自动延时"
+  },
+
+  {
+    "Key": "AutoExtend-ability.description",
+    "enGB": "Enable to give your spells Extend through your mythic power!",
+    "zhCN": "允许你通过神话力量给予你的法术延时超魔。"
+  },
+
+  {
+    "Key": "AutoExtend-buff.name",
+    "ProcessTemplates": false,
+    "enGB": "Auto-Extend",
+    "zhCN": "自动延时"
+  },
+
+  {
+    "Key": "AutoExtend-buff.description",
+    "enGB": "Spells will have Extend applied to them",
+    "zhCN": "法术被应用了延时超魔"
+  },
+
+  {
+    "Key": "AutoEmpower.name",
+    "ProcessTemplates": false,
+    "enGB": "Auto-Empower",
+    "zhCN": "自动强效"
+  },
+
+  {
+    "Key": "AutoEmpower.description",
+    "enGB": "You become so familiar with the metamagic that you can apply it at will with no additional cost.",
+    "zhCN": "你如此擅长这项超魔技艺，可以不需要额外消耗就将其应用。"
+  },
+
+  {
+    "Key": "AutoEmpower-ability.name",
+    "ProcessTemplates": false,
+    "enGB": "Auto-Empower",
+    "zhCN": "自动强效"
+  },
+
+  {
+    "Key": "AutoEmpower-ability.description",
+    "enGB": "Enable to give your spells Empower through your mythic power!",
+    "zhCN": "允许你通过神话力量给予你的法术强效超魔。"
+  },
+
+  {
+    "Key": "AutoEmpower-buff.name",
+    "ProcessTemplates": false,
+    "enGB": "Auto-Empower",
+    "zhCN": "自动强效"
+  },
+
+  {
+    "Key": "AutoEmpower-buff.description",
+    "enGB": "Spells will have Empower applied to them",
+    "zhCN": "法术被应用了强效超魔"
+  },
+
+  {
+    "Key": "AutoQuicken.name",
+    "ProcessTemplates": false,
+    "enGB": "Auto-Quicken",
+    "zhCN": "自动瞬发"
+  },
+
+  {
+    "Key": "AutoQuicken.description",
+    "enGB": "You become so familiar with the metamagic that you can apply it at will with no additional cost.",
+    "zhCN": "你如此擅长这项超魔技艺，可以不需要额外消耗就将其应用。"
+  },
+
+  {
+    "Key": "AutoQuicken-ability.name",
+    "ProcessTemplates": false,
+    "enGB": "Auto-Quicken",
+    "zhCN": "自动瞬发"
+  },
+
+  {
+    "Key": "AutoQuicken-ability.description",
+    "enGB": "Enable to give your spells Quicken through your mythic power!",
+    "zhCN": "允许你通过神话力量给予你的法术瞬发超魔。"
+  },
+
+  {
+    "Key": "AutoQuicken-buff.name",
+    "ProcessTemplates": false,
+    "enGB": "Auto-Quicken",
+    "zhCN": "自动瞬发"
+  },
+
+  {
+    "Key": "AutoQuicken-buff.description",
+    "enGB": "Spells will have Quicken applied to them",
+    "zhCN": "法术被应用了瞬发超魔"
+  },
+
+  {
+    "Key": "AutoReach.name",
+    "ProcessTemplates": false,
+    "enGB": "Auto-Reach",
+    "zhCN": "自动及远"
+  },
+
+  {
+    "Key": "AutoReach.description",
+    "enGB": "You become so familiar with the metamagic that you can apply it at will with no additional cost.",
+    "zhCN": "你如此擅长这项超魔技艺，可以不需要额外消耗就将其应用。"
+  },
+
+  {
+    "Key": "AutoReach-ability.name",
+    "ProcessTemplates": false,
+    "enGB": "Auto-Reach",
+    "zhCN": "自动及远"
+  },
+
+  {
+    "Key": "AutoReach-ability.description",
+    "enGB": "Enable to give your spells Reach through your mythic power!",
+    "zhCN": "允许你通过神话力量给予你的法术及远超魔。"
+  },
+
+  {
+    "Key": "AutoReach-buff.name",
+    "ProcessTemplates": false,
+    "enGB": "Auto-Reach",
+    "zhCN": "自动及远"
+  },
+
+  {
+    "Key": "AutoReach-buff.description",
+    "enGB": "Spells will have Reach applied to them",
+    "zhCN": "法术被应用了及远超魔"
+  },
+
+  {
+    "Key": "AutoBolstered.name",
+    "ProcessTemplates": false,
+    "enGB": "Auto-Bolster",
+    "zhCN": "自动增效"
+  },
+
+  {
+    "Key": "AutoBolstered.description",
+    "enGB": "You become so familiar with the metamagic that you can apply it at will with no additional cost.",
+    "zhCN": "你如此擅长这项超魔技艺，可以不需要额外消耗就将其应用。"
+  },
+
+  {
+    "Key": "AutoBolstered-ability.name",
+    "ProcessTemplates": false,
+    "enGB": "Auto-Bolster",
+    "zhCN": "自动增效"
+  },
+
+  {
+    "Key": "AutoBolstered-ability.description",
+    "enGB": "Enable to give your spells Bolster through your mythic power!",
+    "zhCN": "允许你通过神话力量给予你的法术增效超魔。"
+  },
+
+  {
+    "Key": "AutoBolstered-buff.name",
+    "ProcessTemplates": false,
+    "enGB": "Auto-Bolster",
+    "zhCN": "自动增效"
+  },
+
+  {
+    "Key": "AutoBolstered-buff.description",
+    "enGB": "Spells will have Bolster applied to them",
+    "zhCN": "法术被应用了增效超魔"
+  },
+
+  {
+    "Key": "AutoSelective.name",
+    "ProcessTemplates": false,
+    "enGB": "Auto-Selective",
+    "zhCN": "自动甄选"
+  },
+
+  {
+    "Key": "AutoSelective.description",
+    "enGB": "You become so familiar with the metamagic that you can apply it at will with no additional cost.",
+    "zhCN": "你如此擅长这项超魔技艺，可以不需要额外消耗就将其应用。"
+  },
+
+  {
+    "Key": "AutoSelective-ability.name",
+    "ProcessTemplates": false,
+    "enGB": "Auto-Selective",
+    "zhCN": "自动甄选"
+  },
+
+  {
+    "Key": "AutoSelective-ability.description",
+    "enGB": "Enable to give your spells Selective through your mythic power!",
+    "zhCN": "允许你通过神话力量给予你的法术甄选超魔。"
+  },
+
+  {
+    "Key": "AutoSelective-buff.name",
+    "ProcessTemplates": false,
+    "enGB": "Auto-Selective",
+    "zhCN": "自动甄选"
+  },
+
+  {
+    "Key": "AutoSelective-buff.description",
+    "enGB": "Spells will have Selective applied to them",
+    "zhCN": "法术被应用了甄选超魔"
+  },
+
+  {
+    "Key": "AutoPersistent.name",
+    "ProcessTemplates": false,
+    "enGB": "Auto-Persistent",
+    "zhCN": "自动顽强"
+  },
+
+  {
+    "Key": "AutoPersistent.description",
+    "enGB": "You become so familiar with the metamagic that you can apply it at will with no additional cost.",
+    "zhCN": "你如此擅长这项超魔技艺，可以不需要额外消耗就将其应用。"
+  },
+
+  {
+    "Key": "AutoPersistent-ability.name",
+    "ProcessTemplates": false,
+    "enGB": "Auto-Persistent",
+    "zhCN": "自动顽强"
+  },
+
+  {
+    "Key": "AutoPersistent-ability.description",
+    "enGB": "Enable to give your spells Persistent through your mythic power!",
+    "zhCN": "允许你通过神话力量给予你的法术顽强超魔。"
+  },
+
+  {
+    "Key": "AutoPersistent-buff.name",
+    "ProcessTemplates": false,
+    "enGB": "Auto-Persistent",
+    "zhCN": "自动顽强"
+  },
+
+  {
+    "Key": "AutoPersistent-buff.description",
+    "enGB": "Spells will have Persistent applied to them",
+    "zhCN": "法术被应用了顽强超魔"
+  },
+
+  {
+    "Key": "AutoIntensified.name",
+    "ProcessTemplates": false,
+    "enGB": "Auto-Intensify",
+    "zhCN": "自动强化"
+  },
+
+  {
+    "Key": "AutoIntensified.description",
+    "enGB": "You become so familiar with the metamagic that you can apply it at will with no additional cost.",
+    "zhCN": "你如此擅长这项超魔技艺，可以不需要额外消耗就将其应用。"
+  },
+
+  {
+    "Key": "AutoIntensified-ability.name",
+    "ProcessTemplates": false,
+    "enGB": "Auto-Intensify",
+    "zhCN": "自动强化"
+  },
+
+  {
+    "Key": "AutoIntensified-ability.description",
+    "enGB": "Enable to give your spells Intensify through your mythic power!",
+    "zhCN": "允许你通过神话力量给予你的法术强化超魔。"
+  },
+
+  {
+    "Key": "AutoIntensified-buff.name",
+    "ProcessTemplates": false,
+    "enGB": "Auto-Intensify",
+    "zhCN": "自动强化"
+  },
+
+  {
+    "Key": "AutoIntensified-buff.description",
+    "enGB": "Spells will have Intensify applied to them",
+    "zhCN": "法术被应用了强化超魔"
+  },
+
+  {
+    "Key": "AutoPiercing.name",
+    "ProcessTemplates": false,
+    "enGB": "Auto-Piercing",
+    "zhCN": "自动穿刺"
+  },
+
+  {
+    "Key": "AutoPiercing.description",
+    "enGB": "You become so familiar with the metamagic that you can apply it at will with no additional cost.",
+    "zhCN": "你如此擅长这项超魔技艺，可以不需要额外消耗就将其应用。"
+  },
+
+  {
+    "Key": "AutoPiercing-ability.name",
+    "ProcessTemplates": false,
+    "enGB": "Auto-Piercing",
+    "zhCN": "自动穿刺"
+  },
+
+  {
+    "Key": "AutoPiercing-ability.description",
+    "enGB": "Enable to give your spells Piercing through your mythic power!",
+    "zhCN": "允许你通过神话力量给予你的法术穿刺超魔。"
+  },
+
+  {
+    "Key": "AutoPiercing-buff.name",
+    "ProcessTemplates": false,
+    "enGB": "Auto-Piercing",
+    "zhCN": "自动穿刺"
+  },
+
+  {
+    "Key": "AutoPiercing-buff.description",
+    "enGB": "Spells will have Piercing applied to them",
+    "zhCN": "法术被应用了穿刺超魔"
+  },
+
+  {
+    "Key": "AutoBurning.name",
+    "ProcessTemplates": false,
+    "enGB": "Auto-Burning",
+    "zhCN": "自动燃烧"
+  },
+
+  {
+    "Key": "AutoBurning.description",
+    "enGB": "You become so familiar with the metamagic that you can apply it at will with no additional cost.",
+    "zhCN": "你如此擅长这项超魔技艺，可以不需要额外消耗就将其应用。"
+  },
+
+  {
+    "Key": "AutoBurning-ability.name",
+    "ProcessTemplates": false,
+    "enGB": "Auto-Burning",
+    "zhCN": "自动燃烧"
+  },
+
+  {
+    "Key": "AutoBurning-ability.description",
+    "enGB": "Enable to give your spells Burning through your mythic power!",
+    "zhCN": "允许你通过神话力量给予你的法术燃烧超魔。"
+  },
+
+  {
+    "Key": "AutoBurning-buff.name",
+    "ProcessTemplates": false,
+    "enGB": "Auto-Burning",
+    "zhCN": "自动燃烧"
+  },
+
+  {
+    "Key": "AutoBurning-buff.description",
+    "enGB": "Spells will have Burning applied to them",
+    "zhCN": "法术被应用了燃烧超魔"
+  },
+
+  {
+    "Key": "AutoEncourage.name",
+    "ProcessTemplates": false,
+    "enGB": "Auto-Encouraging",
+    "zhCN": "自动激励"
+  },
+
+  {
+    "Key": "AutoEncourage.description",
+    "enGB": "You become so familiar with the metamagic that you can apply it at will with no additional cost.",
+    "zhCN": "你如此擅长这项超魔技艺，可以不需要额外消耗就将其应用。"
+  },
+
+  {
+    "Key": "AutoEncourage-ability.name",
+    "ProcessTemplates": false,
+    "enGB": "Auto-Encouraging",
+    "zhCN": "自动激励"
+  },
+
+  {
+    "Key": "AutoEncourage-ability.description",
+    "enGB": "Enable to give your spells Encouraging through your mythic power!",
+    "zhCN": "允许你通过神话力量给予你的法术激励超魔。"
+  },
+
+  {
+    "Key": "AutoEncourage-buff.name",
+    "ProcessTemplates": false,
+    "enGB": "Auto-Encouraging",
+    "zhCN": "自动激励"
+  },
+
+  {
+    "Key": "AutoEncourage-buff.description",
+    "enGB": "Spells will have Encouraging applied to them",
+    "zhCN": "法术被应用了激励超魔"
+  },
+
+  {
+    "Key": "AutoFlare.name",
+    "ProcessTemplates": false,
+    "enGB": "Auto-Flaring",
+    "zhCN": "自动闪耀"
+  },
+
+  {
+    "Key": "AutoFlare.description",
+    "enGB": "You become so familiar with the metamagic that you can apply it at will with no additional cost.",
+    "zhCN": "你如此擅长这项超魔技艺，可以不需要额外消耗就将其应用。"
+  },
+
+  {
+    "Key": "AutoFlare-ability.name",
+    "ProcessTemplates": false,
+    "enGB": "Auto-Flaring",
+    "zhCN": "自动闪耀"
+  },
+
+  {
+    "Key": "AutoFlare-ability.description",
+    "enGB": "Enable to give your spells Flaring through your mythic power!",
+    "zhCN": "允许你通过神话力量给予你的法术闪耀超魔。"
+  },
+
+  {
+    "Key": "AutoFlare-buff.name",
+    "ProcessTemplates": false,
+    "enGB": "Auto-Flaring",
+    "zhCN": "自动闪耀"
+  },
+
+  {
+    "Key": "AutoFlare-buff.description",
+    "enGB": "Spells will have Flaring applied to them",
+    "zhCN": "法术被应用了闪耀超魔"
+  },
+
+  {
+    "Key": "AutoRime.name",
+    "ProcessTemplates": false,
+    "enGB": "Auto-Rime",
+    "zhCN": "自动霜冻"
+  },
+
+  {
+    "Key": "AutoRime.description",
+    "enGB": "You become so familiar with the metamagic that you can apply it at will with no additional cost.",
+    "zhCN": "你如此擅长这项超魔技艺，可以不需要额外消耗就将其应用。"
+  },
+
+  {
+    "Key": "AutoRime-ability.name",
+    "ProcessTemplates": false,
+    "enGB": "Auto-Rime",
+    "zhCN": "自动霜冻"
+  },
+
+  {
+    "Key": "AutoRime-ability.description",
+    "enGB": "Enable to give your spells Rime through your mythic power!",
+    "zhCN": "允许你通过神话力量给予你的法术霜冻超魔。"
+  },
+
+  {
+    "Key": "AutoRime-buff.name",
+    "ProcessTemplates": false,
+    "enGB": "Auto-Rime",
+    "zhCN": "自动霜冻"
+  },
+
+  {
+    "Key": "AutoRime-buff.description",
+    "enGB": "Spells will have Rime applied to them",
+    "zhCN": "法术被应用了霜冻超魔"
+  },
+
+  {
+    "Key": "AutoSolidShadows.name",
+    "ProcessTemplates": false,
+    "enGB": "Auto-Solid-Shadows",
+    "zhCN": "自动实体幽影"
+  },
+
+  {
+    "Key": "AutoSolidShadows.description",
+    "enGB": "You become so familiar with the metamagic that you can apply it at will with no additional cost.",
+    "zhCN": "你如此擅长这项超魔技艺，可以不需要额外消耗就将其应用。"
+  },
+
+  {
+    "Key": "AutoSolidShadows-ability.name",
+    "ProcessTemplates": false,
+    "enGB": "Auto-Solid-Shadows",
+    "zhCN": "自动实体幽影"
+  },
+
+  {
+    "Key": "AutoSolidShadows-ability.description",
+    "enGB": "Enable to give your spells Solid Shadows through your mythic power!",
+    "zhCN": "允许你通过神话力量给予你的法术实体幽影超魔。"
+  },
+
+  {
+    "Key": "AutoSolidShadows-buff.name",
+    "ProcessTemplates": false,
+    "enGB": "Auto-Solid-Shadows",
+    "zhCN": "自动实体幽影"
+  },
+
+  {
+    "Key": "AutoSolidShadows-buff.description",
+    "enGB": "Spells will have Solid Shadows applied to them",
+    "zhCN": "法术被应用了实体幽影超魔"
+  },
+
+  {
+    "Key": "HeavenRay.name",
+    "ProcessTemplates": false,
+    "enGB": "Heavenfire Ray",
+    "zhCN": "天火射线"
+  },
+
+  {
+    "Key": "HeavenRay.description",
+    "enGB": "A blast of heavenfire blazes from your hands. You can fire one ray, plus one additional ray for every 4 {g|Encyclopedia:Caster_Level}caster levels{/g} beyond 11th (to a maximum of three rays at 19th level). Each ray requires a ranged {g|Encyclopedia:TouchAttack}touch attack{/g} to hit and deals {g|Encyclopedia:Dice}1d6{/g} points of {g|Encyclopedia:Damage}damage{/g} per caster level (maximum 15d6). Half the damage is {g|Encyclopedia:Energy_Damage}fire damage{/g}, but the other half results directly from holy power and is therefore not subject to being reduced by fire {g|Encyclopedia:Energy_Resistance}resistance{/g}.",
+    "zhCN": "你从手中射出地狱烈焰。你可以发射1道射线，11级之后，每提升4个{g|Encyclopedia:Caster_Level}施法者等级{/g}，你就可以再发射1道射线（19级时达到最高，即3道射线）。每道射线都需要进行远程{g|Encyclopedia:TouchAttack}接触攻击{/g}检定来命中目标，并可造成每施法者等级{g|Encyclopedia:Dice}1d6{/g}点{g|Encyclopedia:Damage}伤害{/g}（最大值为15d6点）。该{g|Encyclopedia:Damage}伤害{/g}一半为火焰伤害，另一半为神圣伤害，因此火焰{g|Encyclopedia:Energy_Resistance}抗性{/g}不能减免这部分伤害。"
+  },
+
+  {
+    "Key": "HellBall.name",
+    "ProcessTemplates": false,
+    "enGB": "HellBall",
+    "zhCN": "地狱之球"
+  },
+
+  {
+    "Key": "HellBall.description",
+    "enGB": "You unleash a massive blast of energy that detonates upon all in the AoE, dealing 20d6 fire, 20d6 acid, 20d6 electrical and 20d6 sonic damage. A reflex save halves damage.",
+    "zhCN": "你释放一个巨大的能量爆，在范围区域引爆，造成20d6火焰，20d6酸蚀，20d6电击和20d6音波伤害。反射豁免能够减半伤害。"
+  },
+
+  {
+    "Key": "HellBall-feature.name",
+    "ProcessTemplates": false,
+    "enGB": "HellBall Spell",
+    "zhCN": "地狱之球法术"
+  },
+
+  {
+    "Key": "HellBall-feature.description",
+    "enGB": "Grants you a new powerful spell called Hellbell, which does 10d6 damage of multiple elements! Requires being able to cast spell level 9.",
+    "zhCN": "给予你被称为地狱之球的强力法术，造成多种元素的10d6伤害。需要能够释放9级法术。"
+  },
+
+  {
+    "Key": "StorvalsThunder.name",
+    "ProcessTemplates": false,
+    "enGB": "Storval's Thunder",
+    "zhCN": "斯托瓦尔之雷"
+  },
+
+  {
+    "Key": "StorvalsThunder.description",
+    "enGB": "The hematite head of this +1 earth breaker crackles with electricity, dealing an additional 1d6 points of electricity and 1d6 points of sonic damage on each hit.",
+    "zhCN": "这把+1裂地锤的赤铁矿锤头萦绕着电光，每次命中时会额外造成1d6点电击伤害和1d6点音波伤害。"
+  },
+
+  {
+    "Key": "StorvalsThunder-enchant.name",
+    "ProcessTemplates": false,
+    "enGB": "Storval's Thunder",
+    "zhCN": "斯托瓦尔之雷"
+  },
+
+  {
+    "Key": "StorvalsThunder-enchant.description",
+    "enGB": "Deals an additional 1d6 points of electricity and 1d6 points of sonic damage on each hit.",
+    "zhCN": "每次命中时会额外造成1d6点电击伤害和1d6点音波伤害。"
   }
 ]
