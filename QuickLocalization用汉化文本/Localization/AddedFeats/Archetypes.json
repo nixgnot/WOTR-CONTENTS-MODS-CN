@@ -1,3 +1,19 @@
 [
-
+ {
+        "Key": "Stalker.Name",
+        "ProcessTemplates": false,
+        "enGB": "Stalker",        "zhCN": "漫游者"
+    },
+    {
+        "Key": "Stalker.Description",
+        "enGB": "The Stalker and his pet hunts with deadly precision.",        "zhCN": "漫游者和其宠物以致命的精确性进行狩猎"
+    },
+    {
+        "Key": "StalkerTactics.Name",
+        "ProcessTemplates": false,
+        "enGB": "Stalker Tactics",        "zhCN": "漫游者战术"
+    },
+    {
+        "Key": "StalkerTactics.Description",
+        "enGB": "At 9th level, the stalker's pet learns to inflict a debilitating injury (per the 4th level rogue ability). The pet also gains 1d6 sneak attack damage..",        "zhCN": "达到9级时，潜行者的动物伙伴学会弱化之创（如同4级游荡者职业能力）。该动物伙伴同时获得1d6偷袭伤害。" }
 ]

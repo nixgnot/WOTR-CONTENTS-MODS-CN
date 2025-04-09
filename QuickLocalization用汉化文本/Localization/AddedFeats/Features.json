@@ -1,5 +1,197 @@
 [
   {
+    "Key": "PlanarFocusWater.Description",
+    "enGB": "You gain immunity to combat maneuvers.",
+    "zhCN": "动物伙伴对战技免疫。"
+  },
+  {
+    "Key": "FavoredAnimalFocus.Name",
+    "ProcessTemplates": false,
+    "enGB": "Favored Animal Focus",
+    "zhCN": "偏好动物之力"
+  },
+  {
+    "Key": "FavoredAnimalFocus.Description",
+    "enGB": "Choose one animal focus. When you apply that animal focus to your animal companion, the benefits increase by one step. For example, if you are 6th level and choose the bear animal focus, then when you apply the animal focus to your animal companion, it gains a +4 inherent bonus to Constitution instead of +2.",
+    "zhCN": "选择一个动物之力。 当你对动物伙伴应用拟态时，增益获得强化。例如，如果你在6级时选择了熊类动物之力，并对动物伙伴使用时，将获得+4加值而不是+2。"
+  },
+  {
+    "Key": "FavoredBull.Name",
+    "ProcessTemplates": false,
+    "enGB": "Favored Animal Focus - Bull",
+    "zhCN": "偏好动物之力（牛）"
+  },
+  {
+    "Key": "FavoredBull.Description",
+    "enGB": "The animal companions Strength bonus increases by one step when using Animal Focus - Bull up to +8.",
+    "zhCN": "使用动物之力（牛）时，动物伙伴上的力量加成进一步提高，至多获得+8。"
+  },
+  {
+    "Key": "FavoredBear.Name",
+    "ProcessTemplates": false,
+    "enGB": "Favored Animal Focus - Bear",
+    "zhCN": "偏好动物之力（熊）"
+  },
+  {
+    "Key": "FavoredBear.Description",
+    "enGB": "The animal companions Constitution bonus increases by one step when using Animal Focus - Bear up to +8.",
+    "zhCN": "使用动物之力（熊）时，动物伙伴上的体质加成进一步提高，至多获得+8。"
+  },
+  {
+    "Key": "FavoredTiger.Name",
+    "ProcessTemplates": false,
+    "enGB": "Favored Animal Focus - Tiger",
+    "zhCN": "偏好动物之力（虎）"
+  },
+  {
+    "Key": "FavoredTiger.Description",
+    "enGB": "The animal companions Dexterity bonus increases to by one step when using Animal Focus - Tiger up to +8",
+    "zhCN": "使用动物之力（虎）时，动物伙伴敏捷上的加成进一步提高，至多获得+8。"
+  },
+  {
+    "Key": "FavoredStag.Name",
+    "ProcessTemplates": false,
+    "enGB": "Favored Animal Focus - Stag",
+    "zhCN": "偏好动物之力（鹿）"
+  },
+  {
+    "Key": "FavoredStag.Description",
+    "enGB": "The animal companions movement speed bonus increases by one step when using Animal Focus - Stag up to +30.",
+    "zhCN": "使用动物之力（鹿）时，动物伙伴移动速度上的加成进一步提高，至多获得+30。"
+  },
+  {
+    "Key": "FavoredFalcon.Name",
+    "ProcessTemplates": false,
+    "enGB": "Favored Animal Focus - Falcon",
+    "zhCN": "偏好动物之力（隼）"
+  },
+  {
+    "Key": "FavoredFalcon.Description",
+    "enGB": "The animal companions Perception bonus increases by one step when using Animal Focus - Falcon up to +12.",
+    "zhCN": "使用动物之力（隼）时，动物伙伴在察觉检定上的加成进一步提高，至多获得+12。"
+  },
+  {
+    "Key": "FavoredMouse.Name",
+    "ProcessTemplates": false,
+    "enGB": "Favored Animal Focus - Mouse",
+    "zhCN": "偏好动物之力（鼠）"
+  },
+  {
+    "Key": "FavoredMouse.Description",
+    "enGB": "The animal companions gains Improved Uncanny Dodge when using Animal Focus - Mouse using its level as rogue levels for the purpose of determining flanking.",
+    "zhCN": "使用动物之力（鼠）时，动物伙伴面对夹击时视为拥有精通直觉闪避"
+  },
+  {
+    "Key": "FavoredOwl.Name",
+    "ProcessTemplates": false,
+    "enGB": "Favored Animal Focus - Owl",
+    "zhCN": "偏好动物之力（枭）"
+  },
+  {
+    "Key": "FavoredOwl.Description",
+    "enGB": "The animal companions stealth bonus increases by one step when using Animal Focus - Owl up to +12.",
+    "zhCN": "使用动物之力（枭）时，动物伙伴在隐匿检定上的加成进一步提高，至多获得+12。"
+  },
+  {
+    "Key": "FavoredMonkey.Name",
+    "ProcessTemplates": false,
+    "enGB": "Favored Animal Focus - Monkey",
+    "zhCN": "偏好动物之力（猴）"
+  },
+  {
+    "Key": "FavoredMonkey.Description",
+    "enGB": "The animal companions athletics bonus increases by one step when using Animal Focus - Monkey up to +12.",
+    "zhCN": "使用动物之力（猴）时，动物伙伴在运动检定上的加成进一步提高，至多获得+12。"
+  },
+    {
+        "Key": "FavoredBat.Name",
+        "ProcessTemplates": false,
+        "enGB": "Favored Animal Focus - Bat",
+        "zhCN": "偏好动物之力（蝙蝠）"
+    },
+    {
+        "Key": "FavoredBat.Description",
+        "enGB": "The range of the animal companion’s blindsense increases by one step when using Animal Focus - Bat up to 20 feet.",
+        "zhCN": "使用动物之力（蝙蝠）时，动物伙伴的盲感能力范围进一步提高，至多到20尺。"
+    },
+    {
+        "Key": "FavoredFrog.Name",
+        "ProcessTemplates": false,
+        "enGB": "Favored Animal Focus - Frog",
+        "zhCN": "偏好动物之力（蛙）"
+    },
+    {
+        "Key": "FavoredFrog.Description",
+        "enGB": "The animal companions mobility bonus increases by one step when using Animal Focus - Frog up to +12.",
+        "zhCN": "使用动物之力（蛙）时，动物伙伴在隐匿检定上的加成进一步提高，至多获得+12。"
+    },
+    {
+        "Key": "FavoredSnake.Name",
+        "ProcessTemplates": false,
+        "enGB": "Favored Animal Focus - Snake",
+        "zhCN": "偏好动物之力（蛇）"
+    },
+    {
+        "Key": "FavoredSnake.Description",
+        "enGB": "The animal companions bonus to attacks of opportunity and dodge bonus to attacks of opportunity increase by one step when using Animal Focus - Snake up to +8.",
+        "zhCN": "使用动物之力（蛇）时，动物伙伴的借机攻击和闪避加值进一步提高，至多获得+8。"
+    },
+    {
+        "Key": "FavoredWolf.Name",
+        "ProcessTemplates": false,
+        "enGB": "Favored Animal Focus - Wolf",
+        "zhCN": "偏好动物之力（狼）"
+    },
+    {
+        "Key": "FavoredWolf.Description",
+        "enGB": "The animal companions bonus to its scent range increases by one step when using Animal Focus - Wolf, up to 60 feet.",
+        "zhCN": "使用动物之力（狼）时，动物伙伴的灵敏嗅觉范围进一步提高，至多到60尺。"
+    },
+    {
+        "Key": "AnimalFocusBat.Name",
+        "ProcessTemplates": false,
+        "enGB": "Animal Focus - Bat",
+        "zhCN": "动物之力（蝙蝠）"
+    },
+    {
+        "Key": "AnimalFocusBat.Description",
+        "enGB": "The creature gains blindsense to a range of 10 feet with immunity to gaze attacks.",
+        "zhCN": "该生物获得10尺范围盲感并且免疫凝视攻击。"
+    },
+    {
+        "Key": "AnimalFocusFrog.Name",
+        "ProcessTemplates": false,
+        "enGB": "Animal Focus - Frog",
+        "zhCN": "动物之力（蛙）"
+    },
+    {
+        "Key": "AnimalFocusFrog.Description",
+        "enGB": "The creature gains a +4 competence bonus on Mobility checks. These bonuses increase to +6 at 8th level and +8 at 15th level.",
+        "zhCN": "该生物在灵巧检定上获得+4表现加值。加值在8级时增加到+6，在15级时达到+8."
+    },
+    {
+        "Key": "AnimalFocusSnake.Name",
+        "ProcessTemplates": false,
+        "enGB": "Animal Focus - Snake",
+        "zhCN": "动物之力（蛇）"
+    },
+    {
+        "Key": "AnimalFocusSnake.Description",
+        "enGB": "The creature gains a +2 bonus on attack rolls when making attacks of opportunity and a +2 dodge bonus to AC against attacks of opportunity. These bonuses increase to +4 at 8th level and +6 at 15th level.",
+        "zhCN": "该生物借机攻击的攻击检定获得+2加值，且AC上获得+2闪避加值。这些加值在8级时增加到+4，15级时达到+6。 "
+    },
+    {
+        "Key": "AnimalFocusWolf.Name",
+        "ProcessTemplates": false,
+        "enGB": "Animal Focus - Wolf",
+        "zhCN": "动物之力（狼）"
+    },
+    {
+        "Key": "AnimalFocusWolf.Description",
+        "enGB": "The creature gains the scent ability with a range of 30 feet.",
+        "zhCN": "该生物获得30尺范围灵敏嗅觉。"
+    },
+    {
     "Key": "PlanarFocus.Name",
     "ProcessTemplates": false,
     "enGB": "Planar Focus",
@@ -123,111 +315,30 @@
     "ProcessTemplates": false,
     "enGB": "Planar Focus - Water",
     "zhCN": "位面之力（流水）"
-  },
+  },  
   {
-    "Key": "PlanarFocusWater.Description",
-    "enGB": "You gain immunity to combat maneuvers.",
-    "zhCN": "动物伙伴对战技免疫。"
-  },
-  {
-    "Key": "FavoredAnimalFocus.Name",
+    "Key": "ImprovedSpellShare.Name",
     "ProcessTemplates": false,
-    "enGB": "Favored Animal Focus",
-    "zhCN": "偏好动物之力"
+    "enGB": "Improved Spell Sharing",
+    "zhCN": "精通法术共享"
   },
   {
-    "Key": "FavoredAnimalFocus.Description",
-    "enGB": "Choose one animal focus. When you apply that animal focus to your animal companion, the benefits increase by one step. For example, if you are 6th level and choose the bear animal focus, then when you apply the animal focus to your animal companion, it gains a +4 inherent bonus to Constitution instead of +2.",
-    "zhCN": "选择一个动物之力。 当你对动物伙伴应用拟态时，增益获得强化。例如，如果你在6级时选择了熊类动物之力，并对动物伙伴使用时，将获得+4加值而不是+2。"
+    "Key": "ImprovedSpellShare.Description",
+    "enGB": "When you have this ability toggled and that companion creature has this feat, you can cast a spell on yourself and divide the duration evenly between yourself and the companion creature. You can use this feat only on spells with a duration of at least 2 rounds. For example, you could cast bulls strength on yourself, and instead of the spell lasting 1 minute per level on yourself, it lasts 5 rounds per level on yourself and 5 rounds per level on your companion.",
+    "zhCN": "当你和动物伙伴同时拥有此专长时，你可以将一个施放到自己身上的法术平分给你和动物伙伴，法术的持续时间也同样平分。 你只能在持续时间超过2回合的法术上使用此专长。例如，你对自己施放牛之蛮力，以分别在自己和伙伴身上持续5轮来代替在你自己身上持续1分钟的效果。"
   },
   {
-    "Key": "FavoredBull.Name",
+    "Key": "VampiricCompanion.Name",
     "ProcessTemplates": false,
-    "enGB": "Favored Animal Focus - Bull",
-    "zhCN": "偏好动物之力（牛）"
+    "enGB": "Vampiric Companion",
+    "zhCN": "吸血伴兽"
   },
   {
-    "Key": "FavoredBull.Description",
-    "enGB": "The animal companions Strength bonus increases by one step when using Animal Focus - Bull up to +8.",
-    "zhCN": "使用动物之力（牛）时，动物伙伴上的力量加成进一步提高，至多获得+8。"
+    "Key": "VampiricCompanion.Description",
+    "enGB": "Your animal companion or familiars type changes to �gundead.�h The creature gains fast healing 5 as well as your vampire or dhampir weaknesses.",
+    "zhCN": "你的动物同伴或仆从的类型变为不死生物。这个生物获得快速医疗5以及吸血鬼或吸血裔的弱点。"
   },
-  {
-    "Key": "FavoredBear.Name",
-    "ProcessTemplates": false,
-    "enGB": "Favored Animal Focus - Bear",
-    "zhCN": "偏好动物之力（熊）"
-  },
-  {
-    "Key": "FavoredBear.Description",
-    "enGB": "The animal companions Constitution bonus increases by one step when using Animal Focus - Bear up to +8.",
-    "zhCN": "使用动物之力（熊）时，动物伙伴上的体质加成进一步提高，至多获得+8。"
-  },
-  {
-    "Key": "FavoredTiger.Name",
-    "ProcessTemplates": false,
-    "enGB": "Favored Animal Focus - Tiger",
-    "zhCN": "偏好动物之力（虎）"
-  },
-  {
-    "Key": "FavoredTiger.Description",
-    "enGB": "The animal companions Dexterity bonus increases to by one step when using Animal Focus - Tiger up to +8",
-    "zhCN": "使用动物之力（虎）时，动物伙伴敏捷上的加成进一步提高，至多获得+8。"
-  },
-  {
-    "Key": "FavoredStag.Name",
-    "ProcessTemplates": false,
-    "enGB": "Favored Animal Focus - Stag",
-    "zhCN": "偏好动物之力（鹿）"
-  },
-  {
-    "Key": "FavoredStag.Description",
-    "enGB": "The animal companions movement speed bonus increases by one step when using Animal Focus - Stag up to +30.",
-    "zhCN": "使用动物之力（鹿）时，动物伙伴移动速度上的加成进一步提高，至多获得+30。"
-  },
-  {
-    "Key": "FavoredFalcon.Name",
-    "ProcessTemplates": false,
-    "enGB": "Favored Animal Focus - Falcon",
-    "zhCN": "偏好动物之力（隼）"
-  },
-  {
-    "Key": "FavoredFalcon.Description",
-    "enGB": "The animal companions Perception bonus increases by one step when using Animal Focus - Falcon up to +12.",
-    "zhCN": "使用动物之力（隼）时，动物伙伴在察觉检定上的加成进一步提高，至多获得+12。"
-  },
-  {
-    "Key": "FavoredMouse.Name",
-    "ProcessTemplates": false,
-    "enGB": "Favored Animal Focus - Mouse",
-    "zhCN": "偏好动物之力（鼠）"
-  },
-  {
-    "Key": "FavoredMouse.Description",
-    "enGB": "The animal companions gains Improved Uncanny Dodge when using Animal Focus - Mouse using its level as rogue levels for the purpose of determining flanking.",
-    "zhCN": "使用动物之力（鼠）时，动物伙伴面对夹击时视为拥有精通直觉闪避"
-  },
-  {
-    "Key": "FavoredOwl.Name",
-    "ProcessTemplates": false,
-    "enGB": "Favored Animal Focus - Owl",
-    "zhCN": "偏好动物之力（枭）"
-  },
-  {
-    "Key": "FavoredOwl.Description",
-    "enGB": "The animal companions stealth bonus increases by one step when using Animal Focus - Owl up to +12.",
-    "zhCN": "使用动物之力（枭）时，动物伙伴在隐匿检定上的加成进一步提高，至多获得+12。"
-  },
-  {
-    "Key": "FavoredMonkey.Name",
-    "ProcessTemplates": false,
-    "enGB": "Favored Animal Focus - Monkey",
-    "zhCN": "位面之力（猴）"
-  },
-  {
-    "Key": "FavoredMonkey.Description",
-    "enGB": "The animal companions athletics bonus increases by one step when using Animal Focus - Monkey up to +12.",
-    "zhCN": "使用动物之力（猴）时，动物伙伴在运动检定上的加成进一步提高，至多获得+12。"
-  },
+  
   {
     "Key": "ForcefulCharge.Name",
     "ProcessTemplates": false,
@@ -249,343 +360,6 @@
     "Key": "ImprovedForcefulCharge.Description",
     "enGB": "If the animal companion pushes the target at least 10 feet as a result of Forceful Charge, it can attempt a trip combat maneuver check against the target as a free action. This trip combat maneuver provokes attacks of opportunity as normal.",
     "zhCN": "如果动物伙伴通过暴力冲锋而将目标击退至少10尺，它可以以一个自由动作尝试对目标进行绊摔。这个动作会如常的引发借机攻击。"
-  },
-  {
-    "Key": "ImprovedNaturalArmor.Name",
-    "ProcessTemplates": false,
-    "enGB": "Improved Natural Armor",
-    "zhCN": "强化天防"
-  },
-  {
-    "Key": "ImprovedNaturalArmor.Description",
-    "enGB": "The creatures natural armor bonus increases by +1. A creature can gain this feat multiple times. Each time the creature takes the feat, its natural armor bonus increases by another point.",
-    "zhCN": "生物的天生防御加成+1。一个生物可以多次获得此专长。每次该生物获得该专长，其天生防御加成增加1点。"
-  },
-  {
-    "Key": "ImprovedNaturalAttack.Name",
-    "ProcessTemplates": false,
-    "enGB": "Improved Natural Attack",
-    "zhCN": "强化天武"
-  },
-  {
-    "Key": "ImprovedNaturalAttack.Description",
-    "enGB": "Choose one of the creatures natural attack forms (not an unarmed strike). The damage for this natural attack increases by one step on the following list, as if the creatures size had increased by one category. Damage dice increase as follows: 1d2, 1d3, 1d4, 1d6, 1d8, 2d6, 3d6, 4d6, 6d6, 8d6, 12d6. This feat can be taken multiple times for a different natural attack.",
-    "zhCN": "选择一个生物的天生武器(不是徒手打击)。这种天生武器的伤害骰增大，如同生物的体型增大一级。\n伤害骰增加列表:1d2, 1d3, 1d4, 1d6, 1d8, 2d6, 3d6, 4d6, 6d6, 8d6, 12d6。这个专长可以多次选取，每次必须应用于不同的天生武器。"
-  },
-  {
-    "Key": "EvolvedCompanion.Name",
-    "ProcessTemplates": false,
-    "enGB": "Evolved Companion",
-    "zhCN": "伙伴进化 "
-  },
-  {
-    "Key": "EvolvedCompanion.Description",
-    "enGB": "Select a 1-point evolution other than pounce or reach from those available to a summoners eidolon. Your animal companion gains this evolution. The animal companion must conform to any limitations of the evolution. You may take this feat multiple times for a unique evolution.",
-    "zhCN": "选择除了猛扑和触及增加以外的1进化点的进化，如同召唤师幻灵。你的动物伙伴获得这个进化。动物伙伴获必须符合进化的前提条件。你可以多次使用此专长以获得独特的进化。"
-  },
-  {
-    "Key": "ImprovedDamage.Name",
-    "ProcessTemplates": false,
-    "enGB": "Evolution: Improved Damage",
-    "zhCN": "进化（天武强化）"
-  },
-  {
-    "Key": "ImprovedDamage.Description",
-    "enGB": "One of the eidolons natural attacks is particularly deadly. Select one natural attack form and increase the damage die type by one step. This evolution can be selected more than once. Its effects do not stack. Each time an eidolon selects this evolution, it applies to a different natural attack.",
-    "zhCN": "幻灵的一项天生武器变得特别致命。选择一种天生武器，伤害提升一级。该进化可以被多次选取，效果不叠加。每次选择该进化都应用于不同的天生武器。"
-  },
-  {
-    "Key": "Claw.Name",
-    "ProcessTemplates": false,
-    "enGB": "Evolution: Claw",
-    "zhCN": "进化（爪抓）"
-  },
-  {
-    "Key": "Claw.Description",
-    "enGB": "An eidolon has a pair of vicious claws at the end of its limbs, giving it two claw attacks. These attacks are primary attacks. The claws deal 1d4 points of damage (1d6 if Large, 1d8 if Huge).",
-    "zhCN": "幻灵在肢体末端长出凶暴的爪，给予它2次爪抓攻击。这项攻击是主要攻击。爪抓造成1d4点伤害（大型1d6，超大型1d8）。幻灵必须拥有“肢体”才能选择该进化，且仅能为肢体（腿）添加一次。该进化可以多次选取，但是幻灵必须要有对应数量的肢体。"
-  },
-  {
-    "Key": "TotemBeastSelection.Name",
-    "ProcessTemplates": false,
-    "enGB": "Totem Beast",
-    "zhCN": "兽魂图腾"
-  },
-  {
-    "Key": "TotemBeastSelection.Description",
-    "enGB": "Select one animal aspect from the list presented in the hunter classs animal focus class feature. Your animal companion gains the benefits of the selected animal aspect, treating its Hit Dice as its effective hunter level for this ability.",
-    "zhCN": "从猎人的动物之力中选择一个动物属性。你的动物伙伴将获得所选动物之力的增益，以动物伙伴等级作为猎人等级计算增益。"
-  },
-  {
-    "Key": "TotemBeastBull.Name",
-    "ProcessTemplates": false,
-    "enGB": "Totem Beast - Bull",
-    "zhCN": "兽魂图腾（牛）"
-  },
-  {
-    "Key": "TotemBeastBull.Description",
-    "enGB": "The creature gains a +2 inherent bonus to Strength. This bonus increases to +4 at 8th level and +6 at 15th level.",
-    "zhCN": "生物的力量获得+2天赋加值。8级起，这个加值增加至+4点。15级起，这个加值增加至+6点。"
-  },
-  {
-    "Key": "TotemBeastBear.Name",
-    "ProcessTemplates": false,
-    "enGB": "Totem Beast - Bear",
-    "zhCN": "兽魂图腾（熊）"
-  },
-  {
-    "Key": "TotemBeastBear.Description",
-    "enGB": "The creature gains a +2 inherent bonus to Constitution. This bonus increases to +4 at 8th level and +6 at 15th level.",
-    "zhCN": "生物的体质获得+2天赋加值。8级起，这个加值增加至+4点。15级起，这个加值增加至+6点。"
-  },
-  {
-    "Key": "TotemBeastTiger.Name",
-    "ProcessTemplates": false,
-    "enGB": "Totem Beast - Tiger",
-    "zhCN": "兽魂图腾（虎）"
-  },
-  {
-    "Key": "TotemBeastTiger.Description",
-    "enGB": "The creature gains a +2 inherent bonus to Dexterity. This bonus increases to +4 at 8th level and +6 at 15th level.",
-    "zhCN": "生物的敏捷获得+2天赋加值。8级起，这个加值增加至+4点。15级起，这个加值增加至+6点。"
-  },
-  {
-    "Key": "TotemBeastFalcon.Name",
-    "ProcessTemplates": false,
-    "enGB": "Totem Beast - Falcon",
-    "zhCN": "兽魂图腾（隼）"
-  },
-  {
-    "Key": "TotemBeastFalcon.Description",
-    "enGB": "The creature gains a +4 inherent bonus to Perception. This bonus increases to +6 at 8th level and +8 at 15th level.",
-    "zhCN": "生物的察觉获得+2天赋加值。8级起，这个加值增加至+4点。15级起，这个加值增加至+6点。"
-  },
-  {
-    "Key": "TotemBeastMonkey.Name",
-    "ProcessTemplates": false,
-    "enGB": "Totem Beast - Monkey",
-    "zhCN": "兽魂图腾（猴）"
-  },
-  {
-    "Key": "TotemBeastMonkey.Description",
-    "enGB": "The creature gains a +4 inherent bonus to Athletics. This bonus increases to +6 at 8th level and +8 at 15th level.",
-    "zhCN": "生物的运动获得+2天赋加值。8级起，这个加值增加至+4点。15级起，这个加值增加至+6点。"
-  },
-  {
-    "Key": "TotemBeastStag.Name",
-    "ProcessTemplates": false,
-    "enGB": "Totem Beast - Stag",
-    "zhCN": "兽魂图腾（鹿）"
-  },
-  {
-    "Key": "TotemBeastStag.Description",
-    "enGB": "The creature gains a +5 inherent bonus to Movement Speed. This bonus increases to +10 at 8th level and +20 at 15th level.",
-    "zhCN": "生物的移动速度获得+5天赋加值。8级起，这个加值增加至+10点。15级起，这个加值增加至+20点。"
-  },
-  {
-    "Key": "TotemBeastOwl.Name",
-    "ProcessTemplates": false,
-    "enGB": "Totem Beast - Owl",
-    "zhCN": "兽魂图腾（枭）"
-  },
-  {
-    "Key": "TotemBeastOwl.Description",
-    "enGB": "The creature gains a +4 inherent bonus to Stealth. This bonus increases to +6 at 8th level and +8 at 15th level.",
-    "zhCN": "生物的隐匿获得+4天赋加值。8级起，这个加值增加至+6点。15级起，这个加值增加至+8点。"
-  },
-  {
-    "Key": "TotemBeastMouse.Name",
-    "ProcessTemplates": false,
-    "enGB": "Totem Beast - Mouse",
-    "zhCN": "兽魂图腾（鼠）"
-  },
-  {
-    "Key": "TotemBeastMouse.Description",
-    "enGB": "The creature gains evasion, as the rogue class feature. At 12th level, this increases to improved evasion, as the rogue advanced talent.",
-    "zhCN": "生物获得反射闪避。12级起，该能力提升至精通反射闪避，就如同盗贼高等天赋一般。"
-  },
-  {
-    "Key": "BiteImprovedDamage.Name",
-    "ProcessTemplates": false,
-    "enGB": "Evolution: Improved Damage (Bite)",
-    "zhCN": "进化：天武强化（啮咬）"
-  },
-  {
-    "Key": "ClawImprovedDamage.Name",
-    "ProcessTemplates": false,
-    "enGB": "Evolution: Improved Damage (Claw)",
-    "zhCN": "进化：天武强化（爪抓）"
-  },
-  {
-    "Key": "GoreImprovedDamage.Name",
-    "ProcessTemplates": false,
-    "enGB": "Evolution: Improved Damage (Gore)",
-    "zhCN": "进化：天武强化（抵刺）"
-  },
-  {
-    "Key": "HoofImprovedDamage.Name",
-    "ProcessTemplates": false,
-    "enGB": "Evolution: Improved Damage (Hoof)",
-    "zhCN": "进化：天武强化（翼击）"
-  },
-  {
-    "Key": "TalonImprovedDamage.Name",
-    "ProcessTemplates": false,
-    "enGB": "Evolution: Improved Damage (Talon)",
-    "zhCN": "进化：天武强化（爪击）"
-  },
-  {
-    "Key": "SlamImprovedDamage.Name",
-    "ProcessTemplates": false,
-    "enGB": "Evolution: Improved Damage (Slam)",
-    "zhCN": "进化：天武强化（挥击）"
-  },
-  {
-    "Key": "TailImprovedDamage.Name",
-    "ProcessTemplates": false,
-    "enGB": "Evolution: Improved Damage (Tail)",
-    "zhCN": "进化：天武强化（尾扫）"
-  },
-  {
-    "Key": "Skilled.Name",
-    "ProcessTemplates": false,
-    "enGB": "Evolution: Skilled",
-    "zhCN": "进化：技能精通"
-  },
-  {
-    "Key": "Skilled.Description",
-    "enGB": "The creature becomes especially adept at a specific skill, gaining a +8 racial bonus on that skill. This evolution can be selected more than once. Its effects do not stack.",
-    "zhCN": "该生物变得特别擅长某项技能，在该技能检定上获得+8种族加值。这个进化可以重复选择。但它的效果不会叠加。"
-  },
-  {
-    "Key": "SkilledAthletics.Name",
-    "ProcessTemplates": false,
-    "enGB": "Evolution: Skilled (Athletics)",
-    "zhCN": "进化：技能精通（运动）"
-  },
-  {
-    "Key": "SkilledMobility.Name",
-    "ProcessTemplates": false,
-    "enGB": "Evolution: Skilled (Mobility)",
-    "zhCN": "进化：技能精通（灵巧）"
-  },
-  {
-    "Key": "SkilledTrickery.Name",
-    "ProcessTemplates": false,
-    "enGB": "Evolution: Skilled (Trickery)",
-    "zhCN": "进化：技能精通（巧手）"
-  },
-  {
-    "Key": "SkilledStealth.Name",
-    "ProcessTemplates": false,
-    "enGB": "Evolution: Skilled (Stealth)",
-    "zhCN": "进化：技能精通（隐匿）"
-  },
-  {
-    "Key": "SkilledArcana.Name",
-    "ProcessTemplates": false,
-    "enGB": "Evolution: Skilled (Arcana)",
-    "zhCN": "进化：技能精通（神秘知识）"
-  },
-  {
-    "Key": "SkilledWorld.Name",
-    "ProcessTemplates": false,
-    "enGB": "Evolution: Skilled (World)",
-    "zhCN": "进化：技能精通（世界知识）"
-  },
-  {
-    "Key": "SkilledNature.Name",
-    "ProcessTemplates": false,
-    "enGB": "Evolution: Skilled (Nature)",
-    "zhCN": "进化：技能精通（自然学识）"
-  },
-  {
-    "Key": "SkilledReligion.Name",
-    "ProcessTemplates": false,
-    "enGB": "Evolution: Skilled (Religion)",
-    "zhCN": "进化：技能精通（宗教学识）"
-  },
-  {
-    "Key": "SkilledPerception.Name",
-    "ProcessTemplates": false,
-    "enGB": "Evolution: Skilled (Perception)",
-    "zhCN": "进化：技能精通（察觉）"
-  },
-  {
-    "Key": "SkilledPersuasion.Name",
-    "ProcessTemplates": false,
-    "enGB": "Evolution: Skilled (Persuasion)",
-    "zhCN": "进化：技能精通（沟通）"
-  },
-  {
-    "Key": "SkilledUMD.Name",
-    "ProcessTemplates": false,
-    "enGB": "Evolution: Skilled (UMD)",
-    "zhCN": "进化：技能精通（使用魔法装置）"
-  },
-  {
-    "Key": "EvolutionImprovedNaturalArmor.Name",
-    "ProcessTemplates": false,
-    "enGB": "Evolution: Improved Natural Armor",
-    "zhCN": "进化：天防强化"
-  },
-  {
-    "Key": "EvolutionImprovedNaturalArmor.Description",
-    "enGB": "The creatures hide grows thick fur, rigid scales, or bony plates, giving it a +2 bonus to its natural armor. This evolution can be taken once for every five levels the character possesses.",
-    "zhCN": "幻灵长出厚厚的皮毛、坚硬的鳞片或是骨质的盾片，给予它+2天生护甲加值。每5个召唤师等级可以额外选择该进化一次。"
-  },
-  {
-    "Key": "ImprovedNaturalAttackBite.Name",
-    "ProcessTemplates": false,
-    "enGB": "Improved Natural Attack (Bite)",
-    "zhCN": "强化天生攻击（啮咬）"
-  },
-  {
-    "Key": "ImprovedNaturalAttackClaw.Name",
-    "ProcessTemplates": false,
-    "enGB": "Improved Natural Attack (Claw)",
-    "zhCN": "强化天生攻击（爪抓）"
-  },
-  {
-    "Key": "ImprovedNaturalAttackGore.Name",
-    "ProcessTemplates": false,
-    "enGB": "Improved Natural Attack (Gore)",
-    "zhCN": "强化天生攻击（抵刺）"
-  },
-  {
-    "Key": "ImprovedNaturalAttackTalon.Name",
-    "ProcessTemplates": false,
-    "enGB": "Improved Natural Attack (Talon)",
-    "zhCN": "强化天生攻击（爪击）"
-  },
-  {
-    "Key": "ImprovedNaturalAttackHoof.Name",
-    "ProcessTemplates": false,
-    "enGB": "Improved Natural Attack (Hoof)",
-    "zhCN": "强化天生攻击（蹄踢）"
-  },
-  {
-    "Key": "ImprovedNaturalAttackTail.Name",
-    "ProcessTemplates": false,
-    "enGB": "Improved Natural Attack (Tail)",
-    "zhCN": "强化天生攻击（尾扫）"
-  },
-  {
-    "Key": "ImprovedNaturalAttackSlam.Name",
-    "ProcessTemplates": false,
-    "enGB": "Improved Natural Attack (Slam)",
-    "zhCN": "强化天生攻击（挥击）"
-  },
-  {
-    "Key": "VampiricCompanion.Name",
-    "ProcessTemplates": false,
-    "enGB": "Vampiric Companion",
-    "zhCN": "吸血伴兽"
-  },
-  {
-    "Key": "VampiricCompanion.Description",
-    "enGB": "Your animal companion or familiars type changes to �gundead.�h The creature gains fast healing 5 as well as your vampire or dhampir weaknesses.",
-    "zhCN": "你的动物同伴或仆从的类型变为不死生物。这个生物获得快速医疗5以及吸血鬼或吸血裔的弱点。"
   },
   {
     "Key": "SpiritsGift.Name",
@@ -731,16 +505,532 @@
     "zhCN": "该魂兽移动时会发出细微的电爆声，并如同蜡烛般闪耀。这种电爆不会伤害触碰魂兽者。该魂兽获得10电击抗力。"
   },
   {
-    "Key": "ShareSpells.Name",
+    "Key": "ImprovedNaturalAttack.Name",
     "ProcessTemplates": false,
-    "enGB": "Improved Spell Sharing",
-    "zhCN": "精通法术共享"
+    "enGB": "Improved Natural Attack",
+    "zhCN": "强化天武"
   },
   {
-    "Key": "ShareSpells.Description",
-    "enGB": "When you have this ability toggled and that companion creature has this feat, you can cast a spell on yourself and divide the duration evenly between yourself and the companion creature. You can use this feat only on spells with a duration of at least 2 rounds. For example, you could cast bulls strength on yourself, and instead of the spell lasting 1 minute per level on yourself, it lasts 5 rounds per level on yourself and 5 rounds per level on your companion.",
-    "zhCN": "当你和动物伙伴同时拥有此专长时，你可以将一个施放到自己身上的法术平分给你和动物伙伴，法术的持续时间也同样平分。 你只能在持续时间超过2回合的法术上使用此专长。例如，你对自己施放牛之蛮力，以分别在自己和伙伴身上持续5轮来代替在你自己身上持续1分钟的效果。"
+    "Key": "ImprovedNaturalAttack.Description",
+    "enGB": "Choose one of the creatures natural attack forms (not an unarmed strike). The damage for this natural attack increases by one step on the following list, as if the creatures size had increased by one category. Damage dice increase as follows: 1d2, 1d3, 1d4, 1d6, 1d8, 2d6, 3d6, 4d6, 6d6, 8d6, 12d6. This feat can be taken multiple times for a different natural attack.",
+    "zhCN": "选择一个生物的天生武器(不是徒手打击)。这种天生武器的伤害骰增大，如同生物的体型增大一级。\n伤害骰增加列表:1d2, 1d3, 1d4, 1d6, 1d8, 2d6, 3d6, 4d6, 6d6, 8d6, 12d6。这个专长可以多次选取，每次必须应用于不同的天生武器。"
+  },
+  {
+        "Key": "MythicAnimalFocus.Name",
+        "ProcessTemplates": false,
+        "enGB": "Mythic Animal Focus",
+        "zhCN": "神话动物之力"
+    },
+    {
+        "Key": "MythicAnimalFocus.Description",
+        "ProcessTemplates": false,
+        "enGB": "You use your mythic powers to power your bond with your animal companion. Benefit: You may now apply an additional animal focus to both herself and her animal companion.",
+        "zhCN": "你使用神话之力强化和动物伙伴的羁绊。效果：你可以同时对自身和动物伙伴应用额外一个动物之力。"
+    },
+  {
+    "Key": "EvolvedCompanion.Name",
+    "ProcessTemplates": false,
+    "enGB": "Evolved Companion",
+    "zhCN": "进化伙伴"
+  },
+  {
+    "Key": "EvolvedCompanion.Description",
+    "enGB": "Select a 1-point evolution other than pounce or reach from those available to a summoners eidolon. Your animal companion gains this evolution. The animal companion must conform to any limitations of the evolution. You may take this feat multiple times for a unique evolution.",
+    "zhCN": "你可以选择一项1进化点的进化。"
+  },
+  {
+        "Key": "EvolvedCompanionBite.Name",
+        "ProcessTemplates": false,
+        "enGB": "Evolved Companion - Bite",
+        "zhCN": "进化伙伴 - 啮咬"
+    },
+    {
+        "Key": "EvolvedCompanionBite.Description",
+        "ProcessTemplates": false,
+        "enGB": "Your animal companion gains a bite attack that deals 1d4 damage.",
+        "zhCN": "你的动物伙伴获得造成1d4点伤害的啮咬攻击。"
+    },
+    {
+        "Key": "EvolvedCompanionClaws.Name",
+        "ProcessTemplates": false,
+        "enGB": "Evolved Companion - Claws",
+        "zhCN": "进化伙伴 - 爪抓"
+    },
+    {
+        "Key": "EvolvedCompanionClaws.Description",
+        "ProcessTemplates": false,
+        "enGB": "You animal companion grows claws that deals 1d4 damage as a secondary attack. This feat does not benefit an animal companion that already has claw attacks.",
+        "zhCN": "你的动物伙伴长出可造成1d4点伤害的爪抓作为次要攻击。该专长对已有爪抓攻击的动物伙伴无效。"
+    },
+    {
+        "Key": "EvolvedCompanionMagicAttacks.Name",
+        "ProcessTemplates": false,
+        "enGB": "Evolved Companion - Magic Attacks",
+        "zhCN": "进化伙伴 - 魔法攻击"
+    },
+    {
+        "Key": "EvolvedCompanionMagicAttacks.Description",
+        "ProcessTemplates": false,
+        "enGB": "You animal companion is infused with magic, allowing it to treat all of its natural attacks as if they were magic for the purposes of overcoming damage reduction.",
+        "zhCN": "你的动物伙伴被灌注了魔法能量，其所有天生武器攻击在克服伤害减免时均视为魔法武器。"
+    },
+    {
+        "Key": "EvolvedCompanionPincers.Name",
+        "ProcessTemplates": false,
+        "enGB": "Evolved Companion - Pincers",
+        "zhCN": "进化伙伴 - 螯夹"
+    },
+    {
+        "Key": "EvolvedCompanionPincers.Description",
+        "ProcessTemplates": false,
+        "enGB": "You animal companion grows pincers that deals 1d6 damage as a secondary attack. This feat does not benefit an animal companion that already has pincer attacks.",
+        "zhCN": "你的动物伙伴长出可造成1d6点伤害的螯钳作为次要攻击。该专长对已有螯夹攻击的动物伙伴无效。"
+    },
+    {
+        "Key": "EvolvedCompanionScent.Name",
+        "ProcessTemplates": false,
+        "enGB": "Evolved Companion - Scent",
+        "zhCN": "进化伙伴 - 灵敏嗅觉"
+    },
+
+    {
+        "Key": "EvolvedCompanionScent.Description",
+        "ProcessTemplates": false,
+        "enGB": "Your animal companion gaints the scent feature. They gain blindsense with a range of up to 30 feet. This feat does not benefit an animal companion that already has the scent feature.",
+        "zhCN": "你的动物伙伴获得灵敏嗅觉特性，得到30尺范围内的盲感能力。该专长对已有嗅觉特性的动物伙伴无效。"
+    },
+    {
+        "Key": "EvolvedCompanionSlam.Name",
+        "ProcessTemplates": false,
+        "enGB": "Evolved Companion - Slam",
+        "zhCN": "进化伙伴 - 挥击"
+    },
+    {
+        "Key": "EvolvedCompanionSlam.Description",
+        "ProcessTemplates": false,
+        "enGB": "You animal companion gains a slam as a primary attack that deals 1d8 damage.",
+        "zhCN": "你的动物伙伴获得造成1d8点伤害的挥击作为主要攻击。"
+    },
+    {
+        "Key": "EvolvedCompanionSpike.Name",
+        "ProcessTemplates": false,
+        "enGB": "Evolved Companion - Spike",
+        "zhCN": "进化伙伴 - 尖刺"
+    },
+    {
+        "Key": "EvolvedCompanionSpike.Description",
+        "ProcessTemplates": false,
+        "enGB": "You animal companion gains a spike as a primary attack that deals 1d4 damage.",
+        "zhCN": "你的动物伙伴获得造成1d4点伤害的尖刺作为主要攻击。"
+    },
+    {
+        "Key": "EvolvedCompanionTail.Name",
+        "ProcessTemplates": false,
+        "enGB": "Evolved Companion - Tail",
+        "zhCN": "进化伙伴 - 长尾"
+    },
+    {
+        "Key": "EvolvedCompanionTail.Description",
+        "ProcessTemplates": false,
+        "enGB": "You animal companion gains a tail that provides an racial mobility bonus of +2. This evolution is required for tail slap.",
+        "zhCN": "你的动物伙伴长出提供+2种族移动加值的尾部，此进化为获得尾扫能力的前置条件。"
+    },
+    {
+        "Key": "EvolvedCompanionTailSlap.Name",
+        "ProcessTemplates": false,
+        "enGB": "Evolved Companion - Tail Slap",
+        "zhCN": "进化伙伴 - 尾扫"
+    },
+    {
+        "Key": "EvolvedCompanionTailSlap.Description",
+        "ProcessTemplates": false,
+        "enGB": "You animal companion gains a secondary tail attack that does 1d4 damage.",
+        "zhCN": "你的动物伙伴获得造成1d4点伤害的尾扫次要攻击。"
+    },
+    {
+        "Key": "EvolvedCompanionTentacle.Name",
+        "ProcessTemplates": false,
+        "enGB": "Evolved Companion - Tentacle",
+        "zhCN": "进化伙伴 - 触手"
+    },
+    {
+        "Key": "EvolvedCompanionTentacle.Description",
+        "ProcessTemplates": false,
+        "enGB": "You animal companion gains a secondary tentacle attack that does 1d4 damage.",
+        "zhCN": "你的动物伙伴获得造成1d4点伤害的触手次要攻击。"
+    },
+  {
+    "Key": "TotemBeastSelection.Name",
+    "ProcessTemplates": false,
+    "enGB": "Totem Beast",
+    "zhCN": "兽魂图腾"
+  },
+  {
+    "Key": "TotemBeastSelection.Description",
+    "enGB": "Select one animal aspect from the list presented in the hunter classs animal focus class feature. Your animal companion gains the benefits of the selected animal aspect, treating its Hit Dice as its effective hunter level for this ability.",
+    "zhCN": "从猎人的动物之力中选择一个动物属性。你的动物伙伴将获得所选动物之力的增益，以动物伙伴等级作为猎人等级计算增益。"
+  },
+  {
+    "Key": "TotemBeastBull.Name",
+    "ProcessTemplates": false,
+    "enGB": "Totem Beast - Bull",
+    "zhCN": "兽魂图腾（牛）"
+  },
+  {
+    "Key": "TotemBeastBull.Description",
+    "enGB": "The creature gains a +2 inherent bonus to Strength. This bonus increases to +4 at 8th level and +6 at 15th level.",
+    "zhCN": "生物的力量获得+2天赋加值。8级起，这个加值增加至+4点。15级起，这个加值增加至+6点。"
+  },
+  {
+    "Key": "TotemBeastBear.Name",
+    "ProcessTemplates": false,
+    "enGB": "Totem Beast - Bear",
+    "zhCN": "兽魂图腾（熊）"
+  },
+  {
+    "Key": "TotemBeastBear.Description",
+    "enGB": "The creature gains a +2 inherent bonus to Constitution. This bonus increases to +4 at 8th level and +6 at 15th level.",
+    "zhCN": "生物的体质获得+2天赋加值。8级起，这个加值增加至+4点。15级起，这个加值增加至+6点。"
+  },
+  {
+    "Key": "TotemBeastTiger.Name",
+    "ProcessTemplates": false,
+    "enGB": "Totem Beast - Tiger",
+    "zhCN": "兽魂图腾（虎）"
+  },
+  {
+    "Key": "TotemBeastTiger.Description",
+    "enGB": "The creature gains a +2 inherent bonus to Dexterity. This bonus increases to +4 at 8th level and +6 at 15th level.",
+    "zhCN": "生物的敏捷获得+2天赋加值。8级起，这个加值增加至+4点。15级起，这个加值增加至+6点。"
+  },
+  {
+    "Key": "TotemBeastFalcon.Name",
+    "ProcessTemplates": false,
+    "enGB": "Totem Beast - Falcon",
+    "zhCN": "兽魂图腾（隼）"
+  },
+  {
+    "Key": "TotemBeastFalcon.Description",
+    "enGB": "The creature gains a +4 inherent bonus to Perception. This bonus increases to +6 at 8th level and +8 at 15th level.",
+    "zhCN": "生物的察觉获得+2天赋加值。8级起，这个加值增加至+4点。15级起，这个加值增加至+6点。"
+  },
+  {
+    "Key": "TotemBeastMonkey.Name",
+    "ProcessTemplates": false,
+    "enGB": "Totem Beast - Monkey",
+    "zhCN": "兽魂图腾（猴）"
+  },
+  {
+    "Key": "TotemBeastMonkey.Description",
+    "enGB": "The creature gains a +4 inherent bonus to Athletics. This bonus increases to +6 at 8th level and +8 at 15th level.",
+    "zhCN": "生物的运动获得+2天赋加值。8级起，这个加值增加至+4点。15级起，这个加值增加至+6点。"
+  },
+  {
+    "Key": "TotemBeastStag.Name",
+    "ProcessTemplates": false,
+    "enGB": "Totem Beast - Stag",
+    "zhCN": "兽魂图腾（鹿）"
+  },
+  {
+    "Key": "TotemBeastStag.Description",
+    "enGB": "The creature gains a +5 inherent bonus to Movement Speed. This bonus increases to +10 at 8th level and +20 at 15th level.",
+    "zhCN": "生物的移动速度获得+5天赋加值。8级起，这个加值增加至+10点。15级起，这个加值增加至+20点。"
+  },
+  {
+    "Key": "TotemBeastOwl.Name",
+    "ProcessTemplates": false,
+    "enGB": "Totem Beast - Owl",
+    "zhCN": "兽魂图腾（枭）"
+  },
+  {
+    "Key": "TotemBeastOwl.Description",
+    "enGB": "The creature gains a +4 inherent bonus to Stealth. This bonus increases to +6 at 8th level and +8 at 15th level.",
+    "zhCN": "生物的隐匿获得+4天赋加值。8级起，这个加值增加至+6点。15级起，这个加值增加至+8点。"
+  },
+  {
+    "Key": "TotemBeastMouse.Name",
+    "ProcessTemplates": false,
+    "enGB": "Totem Beast - Mouse",
+    "zhCN": "兽魂图腾（鼠）"
+  },
+  {
+        "Key": "TotemBeastBat.Name",
+        "ProcessTemplates": false,
+        "enGB": "Totem Beast - Bat",
+    "zhCN": "兽魂图腾（蝙蝠）"
+    },
+    {
+        "Key": "TotemBeastBat.Description",
+        "enGB": "The creature gains blindsense to a range of 10 feet with immunity to gaze attacks.",
+        "zhCN": "该生物获得10尺范围盲感并且免疫凝视攻击。"
+    },
+    {
+        "Key": "TotemBeastFrog.Name",
+        "ProcessTemplates": false,
+        "enGB": "Totem Beast - Frog",
+    "zhCN": "兽魂图腾（蛙）"
+    },
+    {
+        "Key": "TotemBeastFrog.Description",
+        "enGB": "The creature gains a +4 competence bonus on Mobility checks. These bonuses increase to +6 at 8th level and +8 at 15th level.",
+        "zhCN": "该生物在灵巧检定上获得+4表现加值。加值在8级时增加到+6，在15级时达到+8."
+    },
+    {
+        "Key": "TotemBeastSnake.Name",
+        "ProcessTemplates": false,
+        "enGB": "Totem Beast - Snake",
+    "zhCN": "兽魂图腾（蛇）"
+    },
+    {
+        "Key": "TotemBeastSnake.Description",
+        "enGB": "The creature gains a +2 bonus on attack rolls when making attacks of opportunity and a +2 dodge bonus to AC against attacks of opportunity. These bonuses increase to +4 at 8th level and +6 at 15th level.",
+        "zhCN": "该生物借机攻击的攻击检定获得+2加值，且AC上获得+2闪避加值。这些加值在8级时增加到+4，15级时达到+6。 "
+    },
+    {
+        "Key": "TotemBeastWolf.Name",
+        "ProcessTemplates": false,
+        "enGB": "Totem Beast - Wolf",
+    "zhCN": "兽魂图腾（狼）"
+    },
+    {
+        "Key": "TotemBeastWolf.Description",
+        "enGB": "The creature gains the scent ability with a range of 30 feet.",
+        "zhCN": "该生物获得30尺范围灵敏嗅觉。"
+    },
+  {
+        "Key": "EvolvedCompanionSkilled.Name",
+        "ProcessTemplates": false,
+        "enGB": "Evolved Companion - Skilled",
+        "zhCN": "进化伙伴 - 专精"
+    },
+    {
+        "Key": "EvolvedCompanionSkilled.Description",
+        "enGB": "The creature becomes especially adept at a specific skill, gaining a +8 racial bonus on that skill. This evolution can be selected more than once. Its effects do not stack.",
+        "zhCN": "该生物特别专精于某项技能，获得该技能的+8种族加值。此进化可多次选择，但效果不叠加。"
+    },
+    {
+        "Key": "EvolvedCompanionSkilledAthletics.Name",
+        "ProcessTemplates": false,
+        "enGB": "Evolved Companion: Skilled (Athletics)",
+        "zhCN": "进化伙伴：专精（运动）"
+    },
+    {
+        "Key": "EvolvedCompanionSkilledMobility.Name",
+        "ProcessTemplates": false,
+        "enGB": "Evolved Companion: Skilled (Mobility)",
+        "zhCN": "进化伙伴：专精（灵巧）"
+    },
+    {
+        "Key": "EvolvedCompanionSkilledTrickery.Name",
+        "ProcessTemplates": false,
+        "enGB": "Evolved Companion: Skilled (Trickery)",
+        "zhCN": "进化伙伴：专精（巧手）"
+    },
+    {
+        "Key": "EvolvedCompanionSkilledStealth.Name",
+        "ProcessTemplates": false,
+        "enGB": "Evolved Companion: Skilled (Stealth)",
+        "zhCN": "进化伙伴：专精（隐匿）"
+    },
+    {
+        "Key": "EvolvedCompanionSkilledArcana.Name",
+        "ProcessTemplates": false,
+        "enGB": "Evolved Companion: Skilled (Arcana)",
+        "zhCN": "进化伙伴：专精（神秘）"
+    },
+    {
+        "Key": "EvolvedCompanionSkilledWorld.Name",
+        "ProcessTemplates": false,
+        "enGB": "Evolved Companion: Skilled (World)",
+        "zhCN": "进化伙伴：专精（世界）"
+    },
+    {
+        "Key": "EvolvedCompanionSkilledNature.Name",
+        "ProcessTemplates": false,
+        "enGB": "Evolved Companion: Skilled (Nature)",
+        "zhCN": "进化伙伴：专精（自然）"
+    },
+    {
+        "Key": "EvolvedCompanionSkilledReligion.Name",
+        "ProcessTemplates": false,
+        "enGB": "Evolved Companion: Skilled (Religion)",
+        "zhCN": "进化伙伴：专精（宗教）"
+    },
+    {
+        "Key": "EvolvedCompanionSkilledPerception.Name",
+        "ProcessTemplates": false,
+        "enGB": "Evolved Companion: Skilled (Perception)",
+        "zhCN": "进化伙伴：专精（察觉）"
+    },
+    {
+        "Key": "EvolvedCompanionSkilledPersuasion.Name",
+        "ProcessTemplates": false,
+        "enGB": "Evolved Companion: Skilled (Persuasion)",
+        "zhCN": "进化伙伴：专精（交涉）"
+    },
+    {
+        "Key": "EvolvedCompanionSkilledUMD.Name",
+        "ProcessTemplates": false,
+        "enGB": "Evolved Companion: Skilled (Use Magic Device)",
+        "zhCN": "进化伙伴：专精（使用魔法装置）"
+    },
+  
+  
+  {
+    "Key": "ImprovedNaturalArmor.Name",
+    "ProcessTemplates": false,
+    "enGB": "Improved Natural Armor",
+    "zhCN": "强化天防"
+  },
+  {
+    "Key": "ImprovedNaturalArmor.Description",
+    "enGB": "The creatures natural armor bonus increases by +1. A creature can gain this feat multiple times. Each time the creature takes the feat, its natural armor bonus increases by another point.",
+    "zhCN": "生物的天生防御加成+1。一个生物可以多次获得此专长。每次该生物获得该专长，其天生防御加成增加1点。"
+  },
+  {
+    "Key": "ImprovedDamage.Name",
+    "ProcessTemplates": false,
+    "enGB": "Evolution: Improved Damage",
+    "zhCN": "进化（天武强化）"
+  },
+  {
+    "Key": "ImprovedDamage.Description",
+    "enGB": "One of the eidolons natural attacks is particularly deadly. Select one natural attack form and increase the damage die type by one step. This evolution can be selected more than once. Its effects do not stack. Each time an eidolon selects this evolution, it applies to a different natural attack.",
+    "zhCN": "幻灵的一项天生武器变得特别致命。选择一种天生武器，伤害提升一级。该进化可以被多次选取，效果不叠加。每次选择该进化都应用于不同的天生武器。"
+  },
+  {
+    "Key": "Claw.Name",
+    "ProcessTemplates": false,
+    "enGB": "Evolution: Claw",
+    "zhCN": "进化（爪抓）"
+  },
+  {
+    "Key": "Claw.Description",
+    "enGB": "An eidolon has a pair of vicious claws at the end of its limbs, giving it two claw attacks. These attacks are primary attacks. The claws deal 1d4 points of damage (1d6 if Large, 1d8 if Huge).",
+    "zhCN": "幻灵在肢体末端长出凶暴的爪，给予它2次爪抓攻击。这项攻击是主要攻击。爪抓造成1d4点伤害（大型1d6，超大型1d8）。幻灵必须拥有“肢体”才能选择该进化，且仅能为肢体（腿）添加一次。该进化可以多次选取，但是幻灵必须要有对应数量的肢体。"
+  },
+  {
+    "Key": "TotemBeastMouse.Description",
+    "enGB": "The creature gains evasion, as the rogue class feature. At 12th level, this increases to improved evasion, as the rogue advanced talent.",
+    "zhCN": "生物获得反射闪避。12级起，该能力提升至精通反射闪避，就如同盗贼高等天赋一般。"
+  },
+  {
+    "Key": "BiteImprovedDamage.Name",
+    "ProcessTemplates": false,
+    "enGB": "Evolution: Improved Damage (Bite)",
+    "zhCN": "进化：天武强化（啮咬）"
+  },
+  {
+    "Key": "ClawImprovedDamage.Name",
+    "ProcessTemplates": false,
+    "enGB": "Evolution: Improved Damage (Claw)",
+    "zhCN": "进化：天武强化（爪抓）"
+  },
+  {
+    "Key": "GoreImprovedDamage.Name",
+    "ProcessTemplates": false,
+    "enGB": "Evolution: Improved Damage (Gore)",
+    "zhCN": "进化：天武强化（抵刺）"
+  },
+  {
+    "Key": "HoofImprovedDamage.Name",
+    "ProcessTemplates": false,
+    "enGB": "Evolution: Improved Damage (Hoof)",
+    "zhCN": "进化：天武强化（翼击）"
+  },
+  {
+    "Key": "TalonImprovedDamage.Name",
+    "ProcessTemplates": false,
+    "enGB": "Evolution: Improved Damage (Talon)",
+    "zhCN": "进化：天武强化（爪击）"
+  },
+  {
+    "Key": "SlamImprovedDamage.Name",
+    "ProcessTemplates": false,
+    "enGB": "Evolution: Improved Damage (Slam)",
+    "zhCN": "进化：天武强化（挥击）"
+  },
+  {
+    "Key": "TailImprovedDamage.Name",
+    "ProcessTemplates": false,
+    "enGB": "Evolution: Improved Damage (Tail)",
+    "zhCN": "进化：天武强化（尾扫）"
+  },
+  {
+    "Key": "Skilled.Name",
+    "ProcessTemplates": false,
+    "enGB": "Evolution: Skilled",
+    "zhCN": "进化：技能精通"
+  },
+  {
+    "Key": "Skilled.Description",
+    "enGB": "The creature becomes especially adept at a specific skill, gaining a +8 racial bonus on that skill. This evolution can be selected more than once. Its effects do not stack.",
+    "zhCN": "该生物变得特别擅长某项技能，在该技能检定上获得+8种族加值。这个进化可以重复选择。但它的效果不会叠加。"
+  },
+  {
+    "Key": "SkilledAthletics.Name",
+    "ProcessTemplates": false,
+    "enGB": "Evolution: Skilled (Athletics)",
+    "zhCN": "进化：技能精通（运动）"
+  },
+  {
+    "Key": "SkilledMobility.Name",
+    "ProcessTemplates": false,
+    "enGB": "Evolution: Skilled (Mobility)",
+    "zhCN": "进化：技能精通（灵巧）"
+  },
+  {
+    "Key": "SkilledTrickery.Name",
+    "ProcessTemplates": false,
+    "enGB": "Evolution: Skilled (Trickery)",
+    "zhCN": "进化：技能精通（巧手）"
+  },
+  {
+    "Key": "SkilledStealth.Name",
+    "ProcessTemplates": false,
+    "enGB": "Evolution: Skilled (Stealth)",
+    "zhCN": "进化：技能精通（隐匿）"
+  },
+  {
+    "Key": "SkilledArcana.Name",
+    "ProcessTemplates": false,
+    "enGB": "Evolution: Skilled (Arcana)",
+    "zhCN": "进化：技能精通（神秘知识）"
+  },
+  {
+    "Key": "SkilledWorld.Name",
+    "ProcessTemplates": false,
+    "enGB": "Evolution: Skilled (World)",
+    "zhCN": "进化：技能精通（世界知识）"
+  },
+  {
+    "Key": "SkilledNature.Name",
+    "ProcessTemplates": false,
+    "enGB": "Evolution: Skilled (Nature)",
+    "zhCN": "进化：技能精通（自然学识）"
+  },
+  {
+    "Key": "SkilledReligion.Name",
+    "ProcessTemplates": false,
+    "enGB": "Evolution: Skilled (Religion)",
+    "zhCN": "进化：技能精通（宗教学识）"
+  },
+  {
+    "Key": "SkilledPerception.Name",
+    "ProcessTemplates": false,
+    "enGB": "Evolution: Skilled (Perception)",
+    "zhCN": "进化：技能精通（察觉）"
+  },
+  {
+    "Key": "SkilledPersuasion.Name",
+    "ProcessTemplates": false,
+    "enGB": "Evolution: Skilled (Persuasion)",
+    "zhCN": "进化：技能精通（沟通）"
+  },
+  {
+    "Key": "SkilledUMD.Name",
+    "ProcessTemplates": false,
+    "enGB": "Evolution: Skilled (UMD)",
+    "zhCN": "进化：技能精通（使用魔法装置）"
   }
-
-
 ]
