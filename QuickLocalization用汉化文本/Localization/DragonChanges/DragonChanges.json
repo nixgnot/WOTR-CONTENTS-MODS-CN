@@ -1256,13 +1256,13 @@
     "Key": "HeavenRay.name",
     "ProcessTemplates": false,
     "enGB": "Heavenfire Ray",
-    "zhCN": "天火射线"
+    "zhCN": "天堂烈焰射线"
   },
 
   {
     "Key": "HeavenRay.description",
     "enGB": "A blast of heavenfire blazes from your hands. You can fire one ray, plus one additional ray for every 4 {g|Encyclopedia:Caster_Level}caster levels{/g} beyond 11th (to a maximum of three rays at 19th level). Each ray requires a ranged {g|Encyclopedia:TouchAttack}touch attack{/g} to hit and deals {g|Encyclopedia:Dice}1d6{/g} points of {g|Encyclopedia:Damage}damage{/g} per caster level (maximum 15d6). Half the damage is {g|Encyclopedia:Energy_Damage}fire damage{/g}, but the other half results directly from holy power and is therefore not subject to being reduced by fire {g|Encyclopedia:Energy_Resistance}resistance{/g}.",
-    "zhCN": "你从手中射出地狱烈焰。你可以发射1道射线，11级之后，每提升4个{g|Encyclopedia:Caster_Level}施法者等级{/g}，你就可以再发射1道射线（19级时达到最高，即3道射线）。每道射线都需要进行远程{g|Encyclopedia:TouchAttack}接触攻击{/g}检定来命中目标，并可造成每施法者等级{g|Encyclopedia:Dice}1d6{/g}点{g|Encyclopedia:Damage}伤害{/g}（最大值为15d6点）。该{g|Encyclopedia:Damage}伤害{/g}一半为火焰伤害，另一半为神圣伤害，因此火焰{g|Encyclopedia:Energy_Resistance}抗性{/g}不能减免这部分伤害。"
+    "zhCN": "你从手中射出天堂烈焰。你可以发射1道射线，11级之后，每提升4个{g|Encyclopedia:Caster_Level}施法者等级{/g}，你就可以再发射1道射线（19级时达到最高，即3道射线）。每道射线都需要进行远程{g|Encyclopedia:TouchAttack}接触攻击{/g}检定来命中目标，并可造成每施法者等级{g|Encyclopedia:Dice}1d6{/g}点{g|Encyclopedia:Damage}伤害{/g}（最大值为15d6点）。该{g|Encyclopedia:Damage}伤害{/g}一半为火焰伤害，另一半为神圣伤害，因此火焰{g|Encyclopedia:Energy_Resistance}抗性{/g}不能减免这部分伤害。"
   },
 
   {
