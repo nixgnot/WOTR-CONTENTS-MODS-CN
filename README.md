@@ -5089,15 +5089,15 @@ C:\Users\你的用户名\AppData\LocalLow\Owlcat Games\Pathfinder Wrath Of The R
 -------------------------------------------
 
 ### 功能MOD索引
-+ [ToyBox](https://github.com/xADDBx/ToyBox-Wrath) :v::v::v:应该不用介绍？
++ [ToyBox]:v::v::v:(https://github.com/xADDBx/ToyBox-Wrath) 应该不用介绍？
 + [ModTag](https://github.com/YLMstring/ModTag) mod标记（建议换用ModTagEx）
-+ [ModTagEx](https://github.com/alterasc/ModTagEx) :v::v::v:直接标记Mod内容的来源Mod
-+ [RespecMod](https://github.com/BarleyFlour/RespecMod) :v::v::v:洗点MOD（允许更自由洗点，自定义初始点数等）
-+ [BubblesBuffs](https://www.nexusmods.com/pathfinderwrathoftherighteous/mods/195) :v::v::v:自动BUFF
-+ [Performance Fixes](https://www.nexusmods.com/pathfinderwrathoftherighteous/mods/797):v::v::v:加快Mod载入速度
-+ [BubbleTweaks](https://github.com/factubsio/BubbleTweaks) 选项调节（调节动画速度等）
-+ [MoreBulkSell](https://www.nexusmods.com/pathfinderwrathoftherighteous/mods/163) 强化自动出售（一键出售支持更多物品）
-+ [SpellPouch](https://github.com/Truinto/SpellPouch) 图标合一（可以将多个能力合为一个层叠图标便于使用）
-+ [FamiliarPlus](https://www.nexusmods.com/pathfinderwrathoftherighteous/mods/192) 宠物加强（物品小宠物不召唤出来能力也生效）
++ [ModTagEx]:v::v::v:(https://github.com/alterasc/ModTagEx) 直接标记Mod内容的来源Mod
++ [RespecMod]:v::v::v:(https://github.com/BarleyFlour/RespecMod) 洗点MOD（允许更自由洗点，自定义初始点数等）
++ [BubblesBuffs]:v::v::v:(https://www.nexusmods.com/pathfinderwrathoftherighteous/mods/195) 自动BUFF
++ [Performance Fixes]:v::v::v:(https://www.nexusmods.com/pathfinderwrathoftherighteous/mods/797)加快Mod载入速度
++ [BubbleTweaks]:v:(https://github.com/factubsio/BubbleTweaks) 选项调节（调节动画速度等）
++ [MoreBulkSell]:v:(https://www.nexusmods.com/pathfinderwrathoftherighteous/mods/163) 强化自动出售（一键出售支持更多物品）
++ [SpellPouch]:v:(https://github.com/Truinto/SpellPouch) 图标合一（可以将多个能力合为一个层叠图标便于使用）
++ [FamiliarPlus]:v::v:(https://www.nexusmods.com/pathfinderwrathoftherighteous/mods/192) 宠物加强（物品小宠物不召唤出来能力也生效）
 + [PuzzleSkip](https://github.com/Balkoth-dev/PuzzleSkip) 跳过部分解谜
 
