@@ -5095,6 +5095,7 @@ C:\Users\你的用户名\AppData\LocalLow\Owlcat Games\Pathfinder Wrath Of The R
 + [RespecMod](https://github.com/BarleyFlour/RespecMod) :v::v::v:洗点MOD（允许更自由洗点，自定义初始点数等）
 + [BubblesBuffs](https://www.nexusmods.com/pathfinderwrathoftherighteous/mods/195) :v::v::v:自动BUFF
 + [Performance Fixes](https://www.nexusmods.com/pathfinderwrathoftherighteous/mods/797):v::v::v:加快Mod载入速度
++ [NWN2QuickCast](https://github.com/thehambeard/NWN2QuickCast):v::v:类似无冬之夜2的快速施法菜单
 + [BubbleTweaks](https://github.com/factubsio/BubbleTweaks) :v:选项调节（调节动画速度等）
 + [MoreBulkSell](https://www.nexusmods.com/pathfinderwrathoftherighteous/mods/163) :v:强化自动出售（一键出售支持更多物品）
 + [SpellPouch](https://github.com/Truinto/SpellPouch) :v:图标合一（可以将多个能力合为一个层叠图标便于使用）
