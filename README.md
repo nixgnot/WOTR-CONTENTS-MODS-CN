@@ -185,7 +185,7 @@
 | [Commander](#Commander) | 神圣圣徒 | QL汉化 | :heavy_check_mark: || :file_folder: |||
 | [WOTRNineSwords](#WOTRNineSwords) | 九剑 | QL汉化 | :heavy_check_mark:  | :+1::+1::+1:| :file_folder:  :file_folder: |||
 | [EarlierMythicLevelUps](#EarlierMythicLevelUps) | 更早的神话等级 |  | :heavy_check_mark:  | :+1::+1::+1:| :file_folder: |🛠️||
-| [Ebon's Content Mod](#Ebon'sContentMod) | Ebon的内容mod |  | :heavy_check_mark:  | :+1::+1::+1:| :file_folder: |🛠️||
+| [Ebon's Content Mod](#Ebon'sContentMod) | Ebon的内容mod | QL汉化 | :heavy_check_mark:  | :+1::+1::+1:| :file_folder: |🛠️||
 | [DragonChanges](#DragonChanges) | DragonChanges |  | :heavy_check_mark:  | :+1::+1:| :file_folder: |🛠️||
 
 
