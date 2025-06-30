@@ -1,0 +1,27 @@
+[
+    {
+        "Key": "abruptendbuff.name",
+        "ProcessTemplates": false,
+        "enGB": "Abrupt End",
+        "zhCN": "骤止"
+    },
+
+    {
+        "Key": "abruptendbuff.description",
+        "enGB": "+2 Insight bonus to attack rolls",
+        "zhCN": "攻击检定上获得+2洞察加值"
+    },
+
+    {
+        "Key": "devitalizerbuff.name",
+        "ProcessTemplates": false,
+        "enGB": "Devitalizer",
+        "zhCN": "灭活者"
+    },
+
+    {
+        "Key": "devitalizerbuff.description",
+        "enGB": "+2 Circumstance bonus to attack and damage rolls against Exhausted enemies.",
+        "zhCN": "对力竭的敌人，攻击和伤害检定会获得+2环境加值。"
+    }
+]
