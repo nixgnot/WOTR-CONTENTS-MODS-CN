@@ -1315,5 +1315,278 @@
     "Key": "StorvalsThunder-enchant.description",
     "enGB": "Deals an additional 1d6 points of electricity and 1d6 points of sonic damage on each hit.",
     "zhCN": "每次命中时会额外造成1d6点电击伤害和1d6点音波伤害。"
-  }
+  },
+  
+  {
+        "Key": "GraveSingerPlus.name",
+        "ProcessTemplates": false,
+        "enGB": "Grave Singer Plus",
+        "zhCN": "坟中歌者加强"
+    },
+
+    {
+        "Key": "GraveSingerPlus.description",
+        "enGB": "Gives you +1 bonus to both crit range and crit multiplier. (Gives these bonuses for all weapons/unarmed, despite needing Improved Crit & Improved Crit Mythic)",
+        "zhCN": "使你的重击范围与重击倍率均获得+1加值。（此加值适用于所有武器/徒手攻击，即使需要精通重击及其神话专长）"
+    },
+
+    {
+        "Key": "StorvalsThunder-ability.name",
+        "ProcessTemplates": false,
+        "enGB": "Storval's Thunder ",
+        "zhCN": "斯托瓦尔之雷"
+    },
+
+    {
+        "Key": "StorvalsThunder-ability.description",
+        "enGB": "3 times per day, Storval's Thunder can call down a thunder clap on an enemy. If they fail a {g|Encyclopedia:DC}DC{/g} 20 Fortitude save, they are stunned for one round. (period for Hero of Cows)",
+        "zhCN": "每日3次，斯托瓦尔之雷可对敌人降下雷鸣震击。若其未通过{g|Encyclopedia:DC}DC{/g}20的强韧豁免，则震慑1轮。（给奶牛英雄的句号）"
+    },
+
+    {
+        "Key": "StorvalsFang.name",
+        "ProcessTemplates": false,
+        "enGB": "Storval's Fang",
+        "zhCN": "斯托瓦尔之牙"
+    },
+
+    {
+        "Key": "StorvalsFang.description",
+        "enGB": "This metal +1 klar is shaped like the head of a storm roc, whose sharp feathers serve as the klar’s spikes, and it hums and crackles like a distant stormy sky. When used to make a shield bash attack, a Storval’s fang deals an additional 1d6 points of sonic damage. In addition, the wielder gains electricity resistance 10.\nIf the wielder of a Storval’s Fang also wields a Storval’s Thunder and uses the Thunder and Fang feat, Storval’s Thunder deals an additional 2d6 points of electricity damage and the DCs to negate their critical hit effects increase by 5.",
+        "zhCN": "这面+1金属钉盾被塑造成风暴巨鹏的头颅形状，其锋利的羽毛构成了盾钉，并如遥远的风暴天空般嗡鸣作响。当用于进行盾牌猛击时，斯托瓦尔之牙额外造成1d6点音波伤害。此外，持用者获得10点电击抗力。\n若斯托瓦尔之牙的持用者同时持用斯托瓦尔之雷并使用雷牙双绝专长，则斯托瓦尔之雷额外造成2d6点电击伤害，且其重击效果对应的豁免DC提高5点。"
+    },
+
+    {
+        "Key": "SpikedLightShieldPlus1Sonic.name",
+        "ProcessTemplates": false,
+        "enGB": "Spiked Light Shield Plus 1 Sonic",
+        "zhCN": "+1音波钉刺轻盾"
+    },
+
+    {
+        "Key": "SpikedLightShieldPlus1Sonic.description",
+        "enGB": "Spiked Light Shield Plus 1 Sonic",
+        "zhCN": "+1音波钉刺轻盾"
+    },
+
+    {
+        "Key": "StorvalSetBonus.name",
+        "ProcessTemplates": false,
+        "enGB": "StorvalSetBonus",
+        "zhCN": "斯托瓦尔套装奖励"
+    },
+
+    {
+        "Key": "StorvalSetBonus.description",
+        "enGB": "If the wielder of a Storval’s Fang also wields a Storval’s Thunder and uses the Thunder and Fang feat, Storval’s Thunder deals an additional 2d6 points of electricity damage and the DCs to negate their critical hit effects increase by 5.",
+        "zhCN": "若斯托瓦尔之牙的持用者同时持用斯托瓦尔之雷并使用雷牙双绝专长，则斯托瓦尔之雷额外造成2d6点电击伤害，且其重击效果对应的豁免DC提高5点。"
+    },
+
+    {
+        "Key": "AneviaVendorAnswer.text",
+        "ProcessTemplates": false,
+        "enGB": "(DragonChanges) Show me your wares!",
+        "zhCN": "（DragonChanges）让我看看你的货品！"
+    },
+
+    {
+        "Key": "ChaMemeRingAC.name",
+        "ProcessTemplates": false,
+        "enGB": "Tomek's Ring",
+        "zhCN": "托梅克之戒"
+    },
+
+    {
+        "Key": "ChaMemeRingAC.description",
+        "enGB": "Ring of Tomek, the Eternally Green. His hatred is so skilled, that his ring adds your CHA modifier to your AC as a Profane bonus.",
+        "zhCN": "永恒之绿托梅克的戒指。他的憎恨技艺精湛，以至于其戒指能以亵渎加值形式将你的魅力调整值加至AC。"
+    },
+
+    {
+        "Key": "MemeRing1Feature.name",
+        "ProcessTemplates": false,
+        "enGB": "Tomek's Ring",
+        "zhCN": "托梅克之戒"
+    },
+
+    {
+        "Key": "MemeRing1Feature.description",
+        "enGB": "Ring of Tomek, the Eternally Green. His hatred is so skilled, that his ring adds your CHA modifier to your AC as a Profane bonus.",
+        "zhCN": "永恒之绿托梅克的戒指。他的憎恨技艺精湛，以至于其戒指能以亵渎加值形式将你的魅力调整值加至AC。"
+    },
+
+    {
+        "Key": "LesbianPolyculeDeity.name",
+        "ProcessTemplates": false,
+        "enGB": "Radiant Prism",
+        "zhCN": "辉光棱镜"
+    },
+
+    {
+        "Key": "LesbianPolyculeDeity.description",
+        "enGB": "The shining sun of Sarenrae, the twinkling stars of Desna, and the shimmering rainbow of Shelyn come together to form the Radiant Prism, a relatively small pantheon worshipped by those who actively fight against evil to protect the innocent. These three goddesses have been romantically involved with one another from time to time, so it makes sense that they would form a coalition. In addition to defeating the wicked, the Radiant Prism promotes the creation of beautiful works of art to bring more grace to the world.\nThough devotees of the Radiant Prism are tasked with battling all sources of evil, they are encouraged to refrain from becoming ruthless butchers. The wicked must be offered the chance to capitulate once it becomes clear their defeat is inevitable. Sarenrae’s compassion is a major pillar of the pantheon, and priests of the Radiant Prism attempt to redeem their enemies where possible. Of course, some creatures are remorseless in their evil (such as fiends and some undead), and the Radiant Prism doesn’t expect their worshippers to waste their lives trying to save such beings.",
+        "zhCN": "莎恩芮的闪耀烈阳、德丝娜的闪烁繁星与雪琳的璀璨虹光汇聚成辉光棱镜，这是一个相对较小的神系，受那些积极对抗邪恶以保护无辜者的人们所崇拜。这三位女神彼此间不时卷入浪漫关系，因此她们结成同盟合情合理。除了击败邪恶，辉光棱镜还提倡创造美丽的艺术品，为世界增添更多优雅。\n尽管辉光棱镜的信徒肩负着对抗所有邪恶源头的使命，但他们被鼓励避免沦为无情的屠夫。一旦恶徒的败局已定，必须给予他们投降的机会。莎恩芮的慈悲是此神系的主要支柱，辉光棱镜的祭司们会尽可能尝试救赎敌人。当然，某些生物在其邪恶中毫无悔意（如魔鬼和某些亡灵），辉光棱镜并不期望其信徒浪费生命去试图拯救此类存在。"
+    },
+
+    {
+        "Key": "MemeRing2.name",
+        "ProcessTemplates": false,
+        "enGB": "Ring of Heavy Body",
+        "zhCN": "沉重之躯戒指"
+    },
+
+    {
+        "Key": "MemeRing2.description",
+        "enGB": "The ring is imbued with the hope that having a heavy body will make your attacks better.\nAdds your CON bonus to your Critical range.",
+        "zhCN": "此戒指注入了“拥有沉重之躯将使你的攻击更佳”的期许。\n将你的体质调整值加至重击范围。"
+    },
+
+    {
+        "Key": "MemeRing2Feature.name",
+        "ProcessTemplates": false,
+        "enGB": "not implemented",
+        "zhCN": "未实装"
+    },
+
+    {
+        "Key": "MemeRing2Feature.description",
+        "enGB": "not implemented",
+        "zhCN": "未实装"
+    },
+
+    {
+        "Key": "SuperDexShot.name",
+        "ProcessTemplates": false,
+        "enGB": "Super Dextrous Shot",
+        "zhCN": "超凡敏捷射击"
+    },
+
+    {
+        "Key": "SuperDexShot.description",
+        "enGB": "With your Mythic PowerTM, you can now add your Dex bonus to your attack's damage with long bows and short bows, replacing your Str bonus.",
+        "zhCN": "凭借你的神话之力™，你现在可以在使用长弓与短弓进行攻击时，将敏捷调整值（取代力量调整值）加至伤害。"
+    },
+
+    {
+        "Key": "Str2DRNecklace.name",
+        "ProcessTemplates": false,
+        "enGB": "Strongman's Necklace",
+        "zhCN": "壮士项链"
+    },
+
+    {
+        "Key": "Str2DRNecklace.description",
+        "enGB": "Strongman's Necklace make's it's user's skin as tough as their Strength!\nAdds STR bonus to DR.",
+        "zhCN": "壮士项链令佩戴者的皮肤坚韧如其力量！\n将力量调整值加至伤害减免（DR）。"
+    },
+
+    {
+        "Key": "Str2DRNecklaceFeature.name",
+        "ProcessTemplates": false,
+        "enGB": "Strongman's Necklace",
+        "zhCN": "壮士项链"
+    },
+
+    {
+        "Key": "Str2DRNecklaceFeature.description",
+        "enGB": "Strongman's Necklace",
+        "zhCN": "壮士项链"
+    },
+
+    {
+        "Key": "FTKMemeRing.name",
+        "ProcessTemplates": false,
+        "enGB": "King's Ring",
+        "zhCN": "王者之戒"
+    },
+
+    {
+        "Key": "FTKMemeRing.description",
+        "enGB": "Allows the wearer to cast For The King.",
+        "zhCN": "允许佩戴者施放“为了吾王”。"
+    },
+
+    {
+        "Key": "AbundantAIS.name",
+        "ProcessTemplates": false,
+        "enGB": "Abundant All Is Darkness",
+        "zhCN": "充裕无光绝境"
+    },
+
+    {
+        "Key": "AbundantAIS.description",
+        "enGB": "You've learned a way to increase the number of uses of your All is Darkness ability.\nBenefit: You can use All is Darnkess a number of additional times per day equal to half your mythic rank.",
+        "zhCN": "你已学会增加“无光绝境”能力使用次数的方法。\n效果：你每日可额外使用“无光绝境”的次数等于你神话阶层的一半。"
+    },
+
+    {
+        "Key": "RangedCleaveBracers.name",
+        "ProcessTemplates": false,
+        "enGB": "Bracers of Cleaving Rafanat",
+        "zhCN": "裂敌护腕·拉法纳特"
+    },
+
+    {
+        "Key": "RangedCleaveBracers.description",
+        "enGB": "These bracers were crafted by a blacksmith for those strange people who try to hit multiple people with one arrow.\nAllows the user to cleave with ranged weapons in a 30ft radius of themself.",
+        "zhCN": "这副护腕由铁匠为那些试图一箭射中多人的怪人所打造。\n允许使用者在自身30英尺半径范围内，使用远程武器发动顺势斩。"
+    },
+
+    {
+        "Key": "RangedCleaveBracersFeature.name",
+        "ProcessTemplates": false,
+        "enGB": "not implemented",
+        "zhCN": "未实装"
+    },
+
+    {
+        "Key": "RangedCleaveBracersFeature.description",
+        "enGB": "not implemented",
+        "zhCN": "未实装"
+    },
+
+    {
+        "Key": "SpellFailureRing.name",
+        "ProcessTemplates": false,
+        "enGB": "Ring of Arcane Success",
+        "zhCN": "奥术成功之戒"
+    },
+
+    {
+        "Key": "SpellFailureRing.description",
+        "enGB": "This ring is imbued with the willpower of a very successful mage.\nLowers arcane spell failure by 25.",
+        "zhCN": "此戒指注入了某位极其成功的法师的意志力。\n降低25%奥术失败率。"
+    },
+
+    {
+        "Key": "SpellFailureRingFeature.name",
+        "ProcessTemplates": false,
+        "enGB": "not implemented",
+        "zhCN": "未实装"
+    },
+
+    {
+        "Key": "SpellFailureRingFeature.description",
+        "enGB": "not implemented",
+        "zhCN": "未实装"
+    },
+
+    {
+        "Key": "SpellFailureRingFeature2.name",
+        "ProcessTemplates": false,
+        "enGB": "not implemented",
+        "zhCN": "未实装"
+    },
+
+    {
+        "Key": "SpellFailureRingFeature2.description",
+        "enGB": "not implemented",
+        "zhCN": "未实装"
+    },
+
+    {
+        "Key": "InsightfulContemplation.description",
+        "enGB": "At 1st level, affected allies gain a +2 morale {g|Encyclopedia:Bonus}bonus{/g} to {g|Encyclopedia:Intelligence}Intelligence{/g}, {g|Encyclopedia:Intelligence}Wisdom{/g} and {g|Encyclopedia:Charisma}Charisma{/g} and a +1 morale bonus on {g|Encyclopedia:Saving_Throw}Will saving throws{/g}, but they also take a –1 {g|Encyclopedia:Penalty}penalty{/g} to {g|Encyclopedia:Armor_Class}AC{/g}. At 4th level and every 4 skald levels thereafter, the song's bonus on Will saves increases by 1; the penalty to AC doesn't change. At 8th and 16th levels, the song's bonuses to Intelligence, Wisdom, and Charisma increase by 2. (Unlike the barbarian's rage ability, those affected are not {g|ConditionFatigued}fatigued{/g} after the song ends.)",
+        "zhCN": "1级起，受影响盟友的{g|Encyclopedia:Intelligence}智力{/g}、{g|Encyclopedia:Wisdom}感知{/g}和{g|Encyclopedia:Charisma}魅力属性{/g}获得+2士气{g|Encyclopedia:Bonus}加值{/g}，{g|Encyclopedia:Saving_Throw}意志豁免检定{/g}获得+1士气加值，但{g|Encyclopedia:Armor_Class}防御等级（AC）{/g}也会承受-1{g|Encyclopedia:Penalty}减值{/g}。4级时，以及之后每提升4级，歌曲对意志豁免的加值提高1点，防御等级（AC）上的减值则保持不变。8级和16级时，歌曲对智力和魅力属性的加值提高2点（和野蛮人的狂暴能力不同，被歌曲影响的生物在歌曲结束时不会陷入{g|ConditionFatigued}疲劳{/g}）。"
+    }
 ]
