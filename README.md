@@ -6,8 +6,9 @@
 + 特别注意，本文档作者的游戏理解还是新手，很可能评价并不贴切。
 + 强烈建议先行阅读[正义之怒MOD教程](https://github.com/1onepower/KM-WotR_Modding_Wiki/blob/main/%E4%B8%AD%E6%96%87%E7%89%88.md) （1onepower）。该文档含有详细的**UMM安装教程**和部分MOD介绍，但文档时间较早，部分MOD可能已经失效。
 
-**欢迎加入正义之怒MOD专门讨论群 755831390**
-
+**欢迎加入正义之怒MOD专门讨论群**
+(由于特殊原因，直接通过群号可能无法搜索到群，建议使用手机QQ扫码)
+<img width="282" height="346" alt="QQ截图20250723195057" src="https://github.com/user-attachments/assets/92cd3926-6a41-4441-99f1-7a8325fa4e91" />
     
 
 ## 目录
