@@ -395,27 +395,27 @@
   },
 
   {
-    "Key": "swordmaster-tengu.featureselection.name",
+    "Key": "TranceSelection.name",
     "ProcessTemplates": false,
     "enGB": "Trance Selection",
     "zhCN": "默想选择"
   },
 
   {
-    "Key": "swordmaster-tengu.featureselection.description",
+    "Key": "TranceSelection.description",
     "enGB": "At 3rd level, the swordmaster chooses one trance from the list below. She chooses another trance at 6th, 9th, 12th, 15th, and 18th level. She can only use one type of trance at a time.",
     "zhCN": "3级起，剑术宗师可以从下列列出的默想体势中选择一种。在6级，9级，12级，15级以及18级时她可以选择分别选择一新的种默想体势。同一时间剑术宗师只能使用一种默想体势。"
   },
 
   {
-    "Key": "swordmaster-tengu.cranetrance.feature.name",
+    "Key": "CraneTrance.name",
     "ProcessTemplates": false,
     "enGB": "Crane Trance",
     "zhCN": "流鹤势"
   },
 
   {
-    "Key": "swordmaster-tengu.cranetrance.feature.description",
+    "Key": "CraneTrance.description",
     "enGB": "The swordmaster’s blade rises and falls with the graceful sweeping arcs of the mountain crane. When in this trance, a swordmaster gains the benefits of the Crane Style feat.",
     "zhCN": "剑术宗师的剑刃划着优雅的圆弧上下舞动就如同那山中的青鹤一般。在这种默想体势中，剑术宗师获得鹤形拳专长的效果。"
   },
@@ -447,14 +447,14 @@
   },
 
   {
-    "Key": "swordmaster-tengu.dragontrance.feature.name",
+    "Key": "DragonTrance.name",
     "ProcessTemplates": false,
     "enGB": "Dragon Trance",
-    "zhCN": "镇龙势"
+    "zhCN": "潜龙势"
   },
 
   {
-    "Key": "swordmaster-tengu.dragontrance.feature.description",
+    "Key": "DragonTrance.description",
     "enGB": "Like the dragon, the swordmaster has honed the steadiness of her mind and body. When in this trance, a swordmaster gains the benefits of the Dragon Style feat.",
     "zhCN": "剑术宗师将她的身心磨练得如同巨龙一般稳固。在这种默想体势中，剑术宗师获得龙形拳专长的效果。"
   },
@@ -463,7 +463,7 @@
     "Key": "swordmaster-tengu.dragontrance.ability.name",
     "ProcessTemplates": false,
     "enGB": "Dragon Trance (Ability)",
-    "zhCN": "镇龙势（能力）"
+    "zhCN": "潜龙势（能力）"
   },
 
   {
@@ -476,7 +476,7 @@
     "Key": "swordmaster-tengu.dragontrance.buff.name",
     "ProcessTemplates": false,
     "enGB": "Dragon Trance Buff",
-    "zhCN": "镇龙势效果"
+    "zhCN": "潜龙势效果"
   },
 
   {
@@ -486,14 +486,14 @@
   },
 
   {
-    "Key": "swordmaster-tengu.leopardtrance.feature.name",
+     "Key": "LeopardTrance.name",
     "ProcessTemplates": false,
     "enGB": "Leopard Trance",
     "zhCN": "飞豹势"
   },
 
   {
-    "Key": "swordmaster-tengu.leopardtrance.feature.description",
+    "Key": "LeopardTrance.description",
     "enGB": "Using the swiftness of the leopard, a swordmaster’s evasive footwork confuses her opponents. When in this trance, a swordmaster gains the benefits of the Mobility feat.",
     "zhCN": "剑术宗师使用那豹子般迅捷闪烁的步法迷惑她的敌人。在这种默想体势中，剑术宗师获得灵活移动专长的效果。"
   },
@@ -525,14 +525,14 @@
   },
 
   {
-    "Key": "swordmaster-tengu.monkeytrance.feature.name",
+    "Key": "MonkeyTrance.name",
     "ProcessTemplates": false,
     "enGB": "Monkey Trance",
     "zhCN": "跃猿势"
   },
 
   {
-    "Key": "swordmaster-tengu.monkeytrance.feature.description",
+    "Key": "MonkeyTrance.description",
     "enGB": "As the monkey springs, the swordmaster leaps from the reach of her enemies. While in this trance, a swordmaster gains the benefits of the Trip feat and Fury's Fall feat.",
     "zhCN": "就如同猿猴一般灵活，剑术宗师跳离敌人的进攻范围。在这种默想体势中，剑术宗师获得绊摔和欲魔落袭专长的效果。"
   },
@@ -564,14 +564,14 @@
   },
 
   {
-    "Key": "swordmaster-tengu.serpenttrance.feature.name",
+    "Key": "SerpentTrance.name",
     "ProcessTemplates": false,
     "enGB": "Serpent Trance",
-    "zhCN": "蛇突势"
+    "zhCN": "突蛇势"
   },
 
   {
-    "Key": "swordmaster-tengu.serpenttrance.feature.description",
+    "Key": "SerpentTrance.description",
     "enGB": "Like the serpent, the swordmaster’s quick movements allow her to catch her opponent unawares. While in this trance, a swordmaster gains the benefits of the Feint feat with a +4 bonus to Feint.",
     "zhCN": "剑术宗师的如蛇一般迅捷的突袭使她的敌人措不及防。在这种默想体势中，剑术宗师获得佯攻专长的效果并在佯攻上获得+4加值。"
   },
@@ -580,7 +580,7 @@
     "Key": "swordmaster-tengu.serpenttrance.ability.name",
     "ProcessTemplates": false,
     "enGB": "Serpent Trance (Ability)",
-    "zhCN": "蛇突势（能力）"
+    "zhCN": "突蛇势（能力）"
   },
 
   {
@@ -593,7 +593,7 @@
     "Key": "swordmaster-tengu.serpenttrance.buff.name",
     "ProcessTemplates": false,
     "enGB": "Serpent Trance Buff",
-    "zhCN": "蛇突势效果"
+    "zhCN": "突蛇势效果"
   },
 
   {
@@ -603,14 +603,14 @@
   },
 
   {
-    "Key": "swordmaster-tengu.tigertrance.feature.name",
+    "Key": "TigerTrance.name",
     "ProcessTemplates": false,
     "enGB": "Tiger Trance",
-    "zhCN": "虎袭势"
+    "zhCN": "猛虎势"
   },
 
   {
-    "Key": "swordmaster-tengu.tigertrance.feature.description",
+    "Key": "TigerTrance.description",
     "enGB": "The swordmaster pounces upon her opponents, striking with the ferocity and brute force of a wild tiger. While in this trance, a swordmaster gains the benefits of the Pounce feat.",
     "zhCN": "剑术宗师对她的对手进行突袭，就好似凶暴残忍的野生猛虎一般。在这种默想体势中，剑术宗师获得猛扑专长的效果。"
   },
@@ -619,7 +619,7 @@
     "Key": "swordmaster-tengu.tigertrance.ability.name",
     "ProcessTemplates": false,
     "enGB": "Tiger Trance (Ability)",
-    "zhCN": "虎袭势（能力）"
+    "zhCN": "猛虎势（能力）"
   },
 
   {
@@ -632,7 +632,7 @@
     "Key": "swordmaster-tengu.tigertrance.buff.name",
     "ProcessTemplates": false,
     "enGB": "Tiger Trance Buff",
-    "zhCN": "虎袭势效果"
+    "zhCN": "猛虎势效果"
   },
 
   {
@@ -1588,5 +1588,53 @@
         "Key": "InsightfulContemplation.description",
         "enGB": "At 1st level, affected allies gain a +2 morale {g|Encyclopedia:Bonus}bonus{/g} to {g|Encyclopedia:Intelligence}Intelligence{/g}, {g|Encyclopedia:Intelligence}Wisdom{/g} and {g|Encyclopedia:Charisma}Charisma{/g} and a +1 morale bonus on {g|Encyclopedia:Saving_Throw}Will saving throws{/g}, but they also take a –1 {g|Encyclopedia:Penalty}penalty{/g} to {g|Encyclopedia:Armor_Class}AC{/g}. At 4th level and every 4 skald levels thereafter, the song's bonus on Will saves increases by 1; the penalty to AC doesn't change. At 8th and 16th levels, the song's bonuses to Intelligence, Wisdom, and Charisma increase by 2. (Unlike the barbarian's rage ability, those affected are not {g|ConditionFatigued}fatigued{/g} after the song ends.)",
         "zhCN": "1级起，受影响盟友的{g|Encyclopedia:Intelligence}智力{/g}、{g|Encyclopedia:Wisdom}感知{/g}和{g|Encyclopedia:Charisma}魅力属性{/g}获得+2士气{g|Encyclopedia:Bonus}加值{/g}，{g|Encyclopedia:Saving_Throw}意志豁免检定{/g}获得+1士气加值，但{g|Encyclopedia:Armor_Class}防御等级（AC）{/g}也会承受-1{g|Encyclopedia:Penalty}减值{/g}。4级时，以及之后每提升4级，歌曲对意志豁免的加值提高1点，防御等级（AC）上的减值则保持不变。8级和16级时，歌曲对智力和魅力属性的加值提高2点（和野蛮人的狂暴能力不同，被歌曲影响的生物在歌曲结束时不会陷入{g|ConditionFatigued}疲劳{/g}）。"
-    }
+    },
+  {
+    "Key": "dragonchanges.disabled",
+    "ProcessTemplates": false,
+    "enGB": "Disabled DragonChanges Content",
+    "zhCN": "禁止DragonChanges内容"
+  },
+  {
+    "Key": "Invincible.name",
+    "ProcessTemplates": false,
+    "enGB": "Invincible",
+    "zhCN": "无懈可击"
+  },
+  {
+    "Key": "Invincible.description",
+    "ProcessTemplates": false,
+    "enGB": "The Juggernaut's bodily consituation is so great, she can shrug off attacks.\nAt 2nd level, she gains DR/- equal to her CON bonus. This stacks with other sources of DR/-.",
+    "zhCN": "主宰的身躯强健程度让她可以忽视攻击。\n2级起，她获得等于其体质加值的 DR/- ，可以和其它来源的 DR/- 叠加。"
+  },
+  {
+    "Key": "Juggernaut.name",
+    "ProcessTemplates": false,
+    "enGB": "Juggernaut",
+    "zhCN": "主宰"
+  },
+  {
+    "Key": "Juggernaut.description",
+    "ProcessTemplates": true,
+    "enGB": "Juggernaut, DR focused Barbarian. Inspired by Rafantat on Discord",
+    "zhCN": "主宰，专注于减免伤害的野蛮人。"
+  },
+  {
+    "Key": "Juggernaut.shortdescription",
+    "ProcessTemplates": true,
+    "enGB": "Juggernaut, DR focused Barbarian. Inspired by Rafantat on Discord",
+    "zhCN": "主宰，专注于减免伤害的野蛮人。"
+  },
+  {
+    "Key": "JuggernautProficiencies.name",
+    "ProcessTemplates": false,
+    "enGB": "Juggernaut Proficiencies",
+    "zhCN": "主宰擅长"
+  },
+  {
+    "Key": "JuggernautProficiencies.description",
+    "ProcessTemplates": false,
+    "enGB": "A Juggernaut is proficient with simple and martial weapons, and shields.",
+    "zhCN": "主宰擅长简易和军用武器，还有盾牌。"
+  }
 ]
