@@ -29060,15 +29060,15 @@
       "Key": "a78b6557b0ff4ec5998dfed2c19edb86",
       "SimpleName": "SoldierOfGaiaFriendOfTheForestAbility.Description",
       "ProcessTemplates": true,
-      "enGB": "A soldier of gaia can call upon their connection with nature to receive aid from the natural world. \nEvery enemy within the area of the spell is the target of a combat maneuver check made to grapple each round at the beginning of your turn, as well as when entering the area. The CMB of this grapple attempt is equal to your warpriest level plus 5, increasing to plus 10 when trying to escape the grapple.",
-      "zhCN": "7级起，每日1次，盖亚军士可以召唤自然的联结来获取自然世界的救助。\n法术范围内每个敌人在你的回合开始时或者进入区域时，成为擒抱战技检定的目标。擒抱尝试的CMB等于你的战斗祭司等级+5，在试图摆脱擒抱时增加到+10。"
+      "enGB": "A soldier of gaia can call upon their connection with nature to receive aid from the natural world. \nEvery enemy within the area of the spell is the target of a combat maneuver check made to grapple each round at the beginning of your turn, as well as when entering the area. The CMB of this grapple attempt is equal to your warpriest level plus 5, increasing to plus 10 when trying to escape the grapple. If a creature is grappled by this ability, or fails to escape the grapple, it takes 1d6+4 points of damage.",
+      "zhCN": "7级起，每日1次，盖亚军士可以召唤自然的联结来获取自然世界的救助。\n法术范围内每个敌人在你的回合开始时或者进入区域时，成为擒抱战技检定的目标。擒抱尝试的CMB等于你的战斗祭司等级+5，在试图摆脱擒抱时增加到+10。如果有生物被该能力擒抱或者逃脱擒抱失败，其受到1d6+4的伤害。"
     },
     {
       "Key": "f0e54e48c5a4444ab06caaff15936fdb",
       "SimpleName": "SoldierOfGaiaFriendOfTheForestBuff.Description",
       "ProcessTemplates": true,
-      "enGB": "A soldier of gaia can call upon their connection with nature to receive aid from the natural world. \nEvery enemy within the area of the spell is the target of a combat maneuver check made to grapple each round at the beginning of your turn, as well as when entering the area. The CMB of this grapple attempt is equal to your warpriest level plus 5, increasing to plus 10 when trying to escape the grapple.",
-      "zhCN": "7级起，每日1次，盖亚军士可以召唤自然的联结来获取自然世界的帮助。\n法术范围内每个敌人在你的回合开始时或者进入区域时，成为擒抱战技检定的目标。擒抱尝试的CMB等于你的战斗祭司等级+5，在试图摆脱擒抱时增加到+10。"
+      "enGB": "A soldier of gaia can call upon their connection with nature to receive aid from the natural world. \nEvery enemy within the area of the spell is the target of a combat maneuver check made to grapple each round at the beginning of your turn, as well as when entering the area. The CMB of this grapple attempt is equal to your warpriest level plus 5, increasing to plus 10 when trying to escape the grapple. If a creature is grappled by this ability, or fails to escape the grapple, it takes 1d6+4 points of damage.",
+      "zhCN": "7级起，每日1次，盖亚军士可以召唤自然的联结来获取自然世界的帮助。\n法术范围内每个敌人在你的回合开始时或者进入区域时，成为擒抱战技检定的目标。擒抱尝试的CMB等于你的战斗祭司等级+5，在试图摆脱擒抱时增加到+10。如果有生物被该能力擒抱或者逃脱擒抱失败，其受到1d6+4的伤害。"
     },
     {
       "Key": "3273bcc8c00b410ba9916fd6ac272504",
@@ -29081,8 +29081,8 @@
       "Key": "3ae814bb880040db90c56607d10af542",
       "SimpleName": "SoldierOfGaiaFriendOfTheForestFeature.Description",
       "ProcessTemplates": true,
-      "enGB": "At 7th level, once per day, a soldier of gaia can call upon their connection with nature to receive aid from the natural world. \nEvery enemy within the area of the spell is the target of a combat maneuver check made to grapple each round at the beginning of your turn, as well as when entering the area. The CMB of this grapple attempt is equal to your warpriest level plus 5, increasing to plus 10 when trying to escape the grapple. \nA soldier of gaia can use this ability twice per day at 13th level and three times per day at 19th level.",
-      "zhCN": "7级起，每日1次，盖亚军士可以召唤自然的联结来获取自然世界的帮助。\n法术范围内每个敌人在你的回合开始时或者进入区域时，成为擒抱战技检定的目标。擒抱尝试的CMB等于你的战斗祭司等级+5，在试图摆脱擒抱时增加到+10。\n盖亚军士13级起可以每天使用该能力2次，19级起3次。"
+      "enGB": "At 7th level, once per day, a soldier of gaia can call upon their connection with nature to receive aid from the natural world. \nEvery enemy within the area of the spell is the target of a combat maneuver check made to grapple each round at the beginning of your turn, as well as when entering the area. The CMB of this grapple attempt is equal to your warpriest level plus 5, increasing to plus 10 when trying to escape the grapple. If a creature is grappled by this ability, or fails to escape the grapple, it takes 1d6+4 points of damage. \nA soldier of gaia can use this ability twice per day at 13th level and three times per day at 19th level.",
+      "zhCN": "7级起，每日1次，盖亚军士可以召唤自然的联结来获取自然世界的帮助。\n法术范围内每个敌人在你的回合开始时或者进入区域时，成为擒抱战技检定的目标。擒抱尝试的CMB等于你的战斗祭司等级+5，在试图摆脱擒抱时增加到+10。如果有生物被该能力擒抱或者逃脱擒抱失败，其受到1d6+4的伤害。\n盖亚军士13级起可以每天使用该能力2次，19级起3次。"
     },
     {
       "Key": "5624e05bf7b142339ff134ae0b542f5b",
@@ -30450,6 +30450,595 @@
       "ProcessTemplates": true,
       "enGB": "As a swift action, the shaman channels the city’s spirit through herself, gaining a +4 bonus on all Dexterity– and Wisdom-based skill checks. She can use this ability for a number of rounds per day equal to 3 + her Charisma modifier. These rounds need not be consecutive.",
       "zhCN": "以一个迅捷动作，萨满可以找来他所处城市的精魂相助，为她在一次基于敏捷或感知的技能检定上提供+4加值。萨满每天可以发动本巫术的次数等同于3+他的魅力调整值轮的时间，这些轮数不必持续。"
+    },
+    {
+      "Key": "2d5cfa4e761249bb88a79903b1ff8d68",
+      "SimpleName": "ShamanHexBitingFrostAbility.Description",
+      "ProcessTemplates": true,
+      "enGB": "The shaman turns the air frigid around a target within medium range for a number of rounds equal to the shaman’s Charisma modifier (minimum 1). The target must attempt a Fortitude saving throw at the beginning of each turn or be damaged by exposure to the extreme cold. On a failed save, the target takes 1d6 points of nonlethal damage. On a successful save, the effect ends immediately. Whether or not the initial save is successful, the creature cannot be the target of this hex again for 24 hours.",
+      "zhCN": "萨满使中距离内一个目标周围的空气变得极度寒冷，持续回合数等同于萨满的魅力调整值（最少1轮）。目标必须在每回合开始时尝试一次强韧豁免检定，否则会因暴露在极寒中而受到伤害。豁免失败时，目标受到1d6点非致命伤害。豁免成功时，效果立即结束。无论初始豁免是否成功，该生物在24小时内无法再次成为此巫术的目标。"
+    },
+    {
+      "Key": "ecbd8f4530e04be0a25f6edf01908fca",
+      "SimpleName": "ShamanHexBitingFrostBuff.Description",
+      "ProcessTemplates": true,
+      "enGB": "The target must attempt a Fortitude saving throw at the beginning of each turn or be damaged by exposure to the extreme cold. On a failed save, the target takes 1d6 points of nonlethal damage. On a successful save, the effect ends immediately. Whether or not the initial save is successful, the creature cannot be the target of this hex again for 24 hours.",
+      "zhCN": "目标必须在每回合开始时尝试一次强韧豁免检定，否则会因暴露在极寒中而受到伤害。豁免失败时，目标受到1d6点非致命伤害。豁免成功时，效果立即结束。无论初始豁免是否成功，该生物在24小时内无法再次成为此巫术的目标。"
+    },
+    {
+      "Key": "5e96833f7bad414dbd3680518b7e878f",
+      "SimpleName": "ShamanHexBitingFrostBuff.Name",
+      "ProcessTemplates": false,
+      "enGB": "Biting Frost",
+      "zhCN": "刺骨寒霜"
+    },
+    {
+      "Key": "cdf73518581b43c791a7ddc70a0acaf7",
+      "SimpleName": "ShamanHexBitingFrostCooldown.Name",
+      "ProcessTemplates": false,
+      "enGB": "Already targeted by this hex today",
+      "zhCN": "今日已被此巫术选定过"
+    },
+    {
+      "Key": "748abd7ad10c4c068dc5994298700c8c",
+      "SimpleName": "ShamanHexBitingFrostFeature.Description",
+      "ProcessTemplates": true,
+      "enGB": "The shaman turns the air frigid around a target within medium range for a number of rounds equal to the shaman’s Charisma modifier (minimum 1). The target must attempt a Fortitude saving throw at the beginning of each turn or be damaged by exposure to the extreme cold. On a failed save, the target takes 1d6 points of nonlethal damage. On a successful save, the effect ends immediately. Whether or not the initial save is successful, the creature cannot be the target of this hex again for 24 hours.",
+      "zhCN": "萨满使中距离内一个目标周围的空气变得极度寒冷，持续回合数等同于萨满的魅力调整值（最少1轮）。目标必须在每回合开始时尝试一次强韧豁免检定，否则会因暴露在极寒中而受到伤害。豁免失败时，目标受到1d6点非致命伤害。豁免成功时，效果立即结束。无论初始豁免是否成功，该生物在24小时内无法再次成为此巫术的目标。"
+    },
+    {
+      "Key": "d29932590d414cc1aee1b913daf1d50a",
+      "SimpleName": "ShamanHexSluggishAbility.Description",
+      "ProcessTemplates": true,
+      "enGB": "The shaman causes the speed of a creature within 30 feet to be halved. The target can attempt a Fortitude saving throw to negate this effect. The penalty lasts for a number of rounds equal to the shaman’s character level and does not stack with other effects that reduce speed. Whether or not the save is successful, the creature can’t be the target of this hex again for 24 hours.",
+      "zhCN": "萨满使30英尺内一个生物的速度减半。目标可以尝试一次强韧豁免检定来抵消此效果。该减值持续回合数等同于萨满的角色等级，且不与其它减速效果叠加。无论豁免是否成功，该生物在24小时内无法再次成为此巫术的目标。"
+    },
+    {
+      "Key": "be206af452084a6793178c13844f9936",
+      "SimpleName": "ShamanHexSluggishBuff.Description",
+      "ProcessTemplates": true,
+      "enGB": "The shaman causes the speed of a creature within 30 feet to be halved. The target can attempt a Fortitude saving throw to negate this effect. The penalty lasts for a number of rounds equal to the shaman’s character level and does not stack with other effects that reduce speed. Whether or not the save is successful, the creature can’t be the target of this hex again for 24 hours.",
+      "zhCN": "萨满使30英尺内一个生物的速度减半。目标可以尝试一次强韧豁免检定来抵消此效果。该减值持续回合数等同于萨满的角色等级，且不与其它减速效果叠加。无论豁免是否成功，该生物在24小时内无法再次成为此巫术的目标。"
+    },
+    {
+      "Key": "5c67532e335e4eb299aca7f23d13be96",
+      "SimpleName": "ShamanHexSluggishBuff.Name",
+      "ProcessTemplates": false,
+      "enGB": "Sluggish",
+      "zhCN": "行动迟缓"
+    },
+    {
+      "Key": "cbafa7a28ef44752b3a824129f2b225a",
+      "SimpleName": "ShamanHexSluggishFeature.Description",
+      "ProcessTemplates": true,
+      "enGB": "The shaman causes the speed of a creature within 30 feet to be halved. The target can attempt a Fortitude saving throw to negate this effect. The penalty lasts for a number of rounds equal to the shaman’s character level and does not stack with other effects that reduce speed. Whether or not the save is successful, the creature can’t be the target of this hex again for 24 hours.",
+      "zhCN": "萨满使30英尺内一个生物的速度减半。目标可以尝试一次强韧豁免检定来抵消此效果。该减值持续回合数等同于萨满的角色等级，且不与其它减速效果叠加。无论豁免是否成功，该生物在24小时内无法再次成为此巫术的目标。"
+    },
+    {
+      "Key": "2f0f7e7a095e42178361de77ce8dbe5b",
+      "SimpleName": "ShamanHexSparkingAuraAbility.Description",
+      "ProcessTemplates": true,
+      "IsUsed": false,
+      "enGB": "The shaman causes a creature within 30 feet to spark and shimmer with electrical energy. Though this does not harm the creature, it does cause the creature to emit light like a torch, preventing it from gaining any benefit from concealment or invisibility. Furthermore, while the aura lasts, whenever the target is hit with a metal melee weapon, it also takes an amount of electricity damage equal to the shaman’s Charisma modifier. The sparking aura lasts a 1 round for every 2 shaman levels the shaman possesses. A creature affected by this hex cannot be affected by it again for 24 hours.",
+      "zhCN": "萨满使30英尺内一个生物迸发出闪烁的电能火花。虽然这不会伤害该生物，但会使其像火把一样发光，使其无法从隐蔽或隐形中获得任何好处。此外，在光环持续期间，每当目标被金属近战武器击中时，还会受到等同于萨满魅力调整值的电击伤害。闪光光环每持续1轮，需要萨满拥有2个萨满等级。受此巫术影响的生物在24小时内无法再次受其影响。"
+    },
+    {
+      "Key": "be0e42f1d29e49ffae945b9a5082a532",
+      "SimpleName": "ShamanHexSparkingAuraBuff.Description",
+      "ProcessTemplates": true,
+      "IsUsed": false,
+      "enGB": "The shaman causes a creature within 30 feet to spark and shimmer with electrical energy. Though this does not harm the creature, it does cause the creature to emit light like a torch, preventing it from gaining any benefit from concealment or invisibility. Furthermore, while the aura lasts, whenever the target is hit with a metal melee weapon, it also takes an amount of electricity damage equal to the shaman’s Charisma modifier. The sparking aura lasts a 1 round for every 2 shaman levels the shaman possesses. A creature affected by this hex cannot be affected by it again for 24 hours.",
+      "zhCN": "萨满使30英尺内一个生物迸发出闪烁的电能火花。虽然这不会伤害该生物，但会使其像火把一样发光，使其无法从隐蔽或隐形中获得任何好处。此外，在光环持续期间，每当目标被金属近战武器击中时，还会受到等同于萨满魅力调整值的电击伤害。闪光光环每持续1轮，需要萨满拥有2个萨满等级。受此巫术影响的生物在24小时内无法再次受其影响。"
+    },
+    {
+      "Key": "3409cc30798a4e18ba6638283642fb2c",
+      "SimpleName": "ShamanHexSparkingAuraBuff.Name",
+      "ProcessTemplates": false,
+      "enGB": "Sparking Aura",
+      "zhCN": "火花灵光"
+    },
+    {
+      "Key": "9e670f2b9d304c4ba708ad57290f146b",
+      "SimpleName": "ShamanHexSparkingAuraFeature.Description",
+      "ProcessTemplates": true,
+      "enGB": "The shaman causes a creature within 30 feet to spark and shimmer with electrical energy. Though this does not harm the creature, it does cause the creature to emit light like a torch, preventing it from gaining any benefit from concealment or invisibility. Furthermore, while the aura lasts, whenever the target is hit with a metal melee weapon, it also takes an amount of electricity damage equal to the shaman’s Charisma modifier. The sparking aura lasts a 1 round for every 2 shaman levels the shaman possesses. A creature affected by this hex cannot be affected by it again for 24 hours.",
+      "zhCN": "萨满使30英尺内一个生物迸发出闪烁的电能火花。虽然这不会伤害该生物，但会使其像火把一样发光，使其无法从隐蔽或隐形中获得任何好处。此外，在光环持续期间，每当目标被金属近战武器击中时，还会受到等同于萨满魅力调整值的电击伤害。闪光光环每持续1轮，需要萨满拥有2个萨满等级。受此巫术影响的生物在24小时内无法再次受其影响。"
+    },
+    {
+      "Key": "23373e1a973d4e10afc672f93bcb2ece",
+      "SimpleName": "ShamanHexWardOfStoneAbility.Description",
+      "ProcessTemplates": true,
+      "IsUsed": false,
+      "enGB": "The shaman touches a willing creature (including herself) and grants a ward of stoene. The next time the warded creature is struck with a melee attack, it is treated as if it has DR 5/adamantine. This ward lasts for 1 minute, after which it fades away if not already expended. At 8th and 16th levels, the ward lasts for one additional attack. A creature affected by this hex cannot be affected by it again for 24 hours.",
+      "zhCN": "萨满触摸一个自愿的生物（包括自己），并授予其石之护。下次受护生物被近战攻击击中时，被视为拥有伤害减免5/精金。该护盾持续1分钟，若未被消耗则在此后消失。在8级和16级时，护盾可额外抵挡一次攻击。受此巫术影响的生物在24小时内无法再次受其影响。"
+    },
+    {
+      "Key": "c986800b39ed4378a6db1971e81209c3",
+      "SimpleName": "ShamanHexWardOfStoneBuff1.Description",
+      "ProcessTemplates": true,
+      "IsUsed": false,
+      "enGB": "The shaman touches a willing creature (including herself) and grants a ward of stoene. The next time the warded creature is struck with a melee attack, it is treated as if it has DR 5/adamantine. This ward lasts for 1 minute, after which it fades away if not already expended. At 8th and 16th levels, the ward lasts for one additional attack. A creature affected by this hex cannot be affected by it again for 24 hours.",
+      "zhCN": "萨满触摸一个自愿的生物（包括自己），并授予其石之护。下次受护生物被近战攻击击中时，被视为拥有伤害减免5/精金。该护盾持续1分钟，若未被消耗则在此后消失。在8级和16级时，护盾可额外抵挡一次攻击。受此巫术影响的生物在24小时内无法再次受其影响。"
+    },
+    {
+      "Key": "c8ceee673d5f4c9a901ac5987c21699e",
+      "SimpleName": "ShamanHexWardOfStoneBuff1.Name",
+      "ProcessTemplates": false,
+      "enGB": "Ward of Stone",
+      "zhCN": "石之护"
+    },
+    {
+      "Key": "8fc90b4a95964f2ca73fb2c723c4c4dd",
+      "SimpleName": "ShamanHexWardOfStoneBuff2.Description",
+      "ProcessTemplates": true,
+      "IsUsed": false,
+      "enGB": "The shaman touches a willing creature (including herself) and grants a ward of stoene. The next time the warded creature is struck with a melee attack, it is treated as if it has DR 5/adamantine. This ward lasts for 1 minute, after which it fades away if not already expended. At 8th and 16th levels, the ward lasts for one additional attack. A creature affected by this hex cannot be affected by it again for 24 hours.",
+      "zhCN": "萨满触摸一个自愿的生物（包括自己），并授予其石之护。下次受护生物被近战攻击击中时，被视为拥有伤害减免5/精金。该护盾持续1分钟，若未被消耗则在此后消失。在8级和16级时，护盾可额外抵挡一次攻击。受此巫术影响的生物在24小时内无法再次受其影响。"
+    },
+    {
+      "Key": "0de39ea5025d414bb884c53d17840189",
+      "SimpleName": "ShamanHexWardOfStoneBuff2.Name",
+      "ProcessTemplates": false,
+      "enGB": "Ward of Stone - 2 Strikes",
+      "zhCN": "石之护 - 2次打击"
+    },
+    {
+      "Key": "593425d51b9b418eaef663e11e64d625",
+      "SimpleName": "ShamanHexWardOfStoneBuff3.Description",
+      "ProcessTemplates": true,
+      "IsUsed": false,
+      "enGB": "The shaman touches a willing creature (including herself) and grants a ward of stoene. The next time the warded creature is struck with a melee attack, it is treated as if it has DR 5/adamantine. This ward lasts for 1 minute, after which it fades away if not already expended. At 8th and 16th levels, the ward lasts for one additional attack. A creature affected by this hex cannot be affected by it again for 24 hours.",
+      "zhCN": "萨满触摸一个自愿的生物（包括自己），并授予其石之护。下次受护生物被近战攻击击中时，被视为拥有伤害减免5/精金。该护盾持续1分钟，若未被消耗则在此后消失。在8级和16级时，护盾可额外抵挡一次攻击。受此巫术影响的生物在24小时内无法再次受其影响。"
+    },
+    {
+      "Key": "7fe42d182bd24cb7a932bd6be894fd8f",
+      "SimpleName": "ShamanHexWardOfStoneBuff3.Name",
+      "ProcessTemplates": false,
+      "enGB": "Ward of Stone - 3 Strikes",
+      "zhCN": "石之护 - 3次打击"
+    },
+    {
+      "Key": "f20719772a2344d5b4fee3ac718c4892",
+      "SimpleName": "ShamanHexWardOfStoneFeature.Description",
+      "ProcessTemplates": true,
+      "enGB": "The shaman touches a willing creature (including herself) and grants a ward of stoene. The next time the warded creature is struck with a melee attack, it is treated as if it has DR 5/adamantine. This ward lasts for 1 minute, after which it fades away if not already expended. At 8th and 16th levels, the ward lasts for one additional attack. A creature affected by this hex cannot be affected by it again for 24 hours.",
+      "zhCN": "萨满触摸一个自愿的生物（包括自己），并授予其石之护。下次受护生物被近战攻击击中时，被视为拥有伤害减免5/精金。该护盾持续1分钟，若未被消耗则在此后消失。在8级和16级时，护盾可额外抵挡一次攻击。受此巫术影响的生物在24小时内无法再次受其影响。"
+    },
+    {
+      "Key": "743ce66812a14c88b3a6efc27999e6da",
+      "SimpleName": "ShamanMammothSpiritBaseAbility.Description",
+      "ProcessTemplates": true,
+      "enGB": "As a standard action, the shaman can attack an enemy with an unarmed strike as if she had the Improved Unarmed Strike feat. If the shaman hits a creature in this way, that creature must succeed at a Fortitude save (DC = 10 + half the shaman’s class level + her Charisma modifier) or be dazed for 1 round. The shaman can use this ability a number of times per day equal to 3 + her Charisma modifier. \nYou must be unarmed in your main hand to use this ability.",
+      "zhCN": "以一个标准动作，萨满可以如同拥有精通徒手击打专长般用徒手打击攻击敌人。如果萨满以此方式命中一个生物，该生物必须成功通过一次强韧豁免（DC = 10 + 萨满职业等级的一半 + 她的魅力调整值），否则恍惚1轮。萨满每日可使用此能力的次数等同于3 + 她的魅力调整值。\n你必须主手未持武器才能使用此能力。"
+    },
+    {
+      "Key": "8585841013df4d2fa9553f48fa70c9f3",
+      "SimpleName": "ShamanMammothSpiritBaseAbility.Name",
+      "ProcessTemplates": false,
+      "enGB": "Powerful Smash",
+      "zhCN": "强力重击"
+    },
+    {
+      "Key": "5a4055f7906e4e7bb9a019b3c43aae66",
+      "SimpleName": "ShamanMammothSpiritBaseFeature.Description",
+      "ProcessTemplates": true,
+      "enGB": "As a standard action, the shaman can attack an enemy with an unarmed strike as if she had the Improved Unarmed Strike feat. If the shaman hits a creature in this way, that creature must succeed at a Fortitude save (DC = 10 + half the shaman’s class level + her Charisma modifier) or be dazed for 1 round. The shaman can use this ability a number of times per day equal to 3 + her Charisma modifier.",
+      "zhCN": "以一个标准动作，萨满可以如同拥有精通徒手击打专长般用徒手打击攻击敌人。如果萨满以此方式命中一个生物，该生物必须成功通过一次强韧豁免（DC = 10 + 萨满职业等级的一半 + 她的魅力调整值），否则恍惚1轮。萨满每日可使用此能力的次数等同于3 + 她的魅力调整值。"
+    },
+    {
+      "Key": "e49134dd040145a49fa37460f2311adf",
+      "SimpleName": "ShamanMammothSpiritGreaterFeature.Description",
+      "ProcessTemplates": true,
+      "IsUsed": false,
+      "enGB": "The shaman gains a +2 enhancement bonus to her Strength score. This bonus increases by 2 every 6 shaman levels thereafter (at 14th and 20th levels for her spirit, and at 18th level for her wandering spirit).",
+      "zhCN": "萨满的力量属性获得+2增强加值。此后每6个萨满等级（对于她的主要精魂为14级和20级，对于她的游荡精魂为18级），此加值再增加2。"
+    },
+    {
+      "Key": "8df82930a8414932a31c329af488b096",
+      "SimpleName": "ShamanMammothSpiritGreaterFeature.Name",
+      "ProcessTemplates": false,
+      "enGB": "Strength of the Beast",
+      "zhCN": "野兽之力"
+    },
+    {
+      "Key": "7dc2c066fdfc47bea0c90da6d579c8b0",
+      "SimpleName": "ShamanMammothSpiritGreaterFeatureWandering .Description",
+      "ProcessTemplates": true,
+      "enGB": "The shaman gains a +2 enhancement bonus to her Strength score. This bonus increases by 2 every 6 shaman levels thereafter (at 14th and 20th levels for her spirit, and at 18th level for her wandering spirit).",
+      "zhCN": "萨满的力量属性获得+2增强加值。此后每6个萨满等级（对于她的主要精魂为14级和20级，对于她的游荡精魂为18级），此加值再增加2。"
+    },
+    {
+      "Key": "2d7086dbe3944a8c94c2e4f1b211d23f",
+      "SimpleName": "ShamanMammothSpiritManifestationAbility.Description",
+      "ProcessTemplates": true,
+      "IsUsed": false,
+      "enGB": "At 20th level, the shaman can transform into any animal form granted by the beast shape spells, able to activate and dismiss the ability as often as she likes.",
+      "zhCN": "在20级时，萨满可以变形为野兽形态法术所允许的任何动物形态，并能随心所欲地激活和解消此能力。"
+    },
+    {
+      "Key": "6353b2b4fefe402ba531ef30e9d16a65",
+      "SimpleName": "ShamanMammothSpiritManifestationAbility.Name",
+      "ProcessTemplates": false,
+      "enGB": "Beast Shape Manifestation",
+      "zhCN": "野兽形态显现"
+    },
+    {
+      "Key": "8478383cf1614fea943fd1bf98c974f4",
+      "SimpleName": "ShamanMammothSpiritManifestationAbilityI.Name",
+      "ProcessTemplates": false,
+      "enGB": "Beast Shape Manifestation (Wolf)",
+      "zhCN": "野兽形态显现（狼）"
+    },
+    {
+      "Key": "f6c2ef61931c4221af41b56a0c73ca9f",
+      "SimpleName": "ShamanMammothSpiritManifestationAbilityII.Name",
+      "ProcessTemplates": false,
+      "enGB": "Beast Shape Manifestation (Leopard)",
+      "zhCN": "野兽形态显现（豹）"
+    },
+    {
+      "Key": "196fe4849cdf4054b009842931de1b80",
+      "SimpleName": "ShamanMammothSpiritManifestationAbilityIII.Name",
+      "ProcessTemplates": false,
+      "enGB": "Beast Shape Manifestation (Bear)",
+      "zhCN": "野兽形态显现（熊）"
+    },
+    {
+      "Key": "1211a30ce1bf4f38b763a0a9a6bae801",
+      "SimpleName": "ShamanMammothSpiritManifestationAbilityIVS.Name",
+      "ProcessTemplates": false,
+      "enGB": "Beast Shape Manifestation (Smilodon)",
+      "zhCN": "野兽形态显现（刃齿虎）"
+    },
+    {
+      "Key": "ecf8fb663d934d5cbb927f3e26d6ba86",
+      "SimpleName": "ShamanMammothSpiritManifestationAbilityIVW.Name",
+      "ProcessTemplates": false,
+      "enGB": "Beast Shape Manifestation (Wyvern)",
+      "zhCN": "野兽形态显现（双足飞龙）"
+    },
+    {
+      "Key": "0fe77d4198864a219650a9817ae5c962",
+      "SimpleName": "ShamanMammothSpiritManifestationFeature.Description",
+      "ProcessTemplates": true,
+      "enGB": "At 20th level, the shaman can transform into any animal form granted by the beast shape spells, able to activate and dismiss the ability as often as she likes.",
+      "zhCN": "在20级时，萨满可以变形为野兽形态法术所允许的任何动物形态，并能随心所欲地激活和解消此能力。"
+    },
+    {
+      "Key": "85624e01418e446392e32099afc02b1a",
+      "SimpleName": "ShamanMammothSpiritProgression.Description",
+      "ProcessTemplates": true,
+      "enGB": "A shaman who selects the mammoth spirit is abnormally tall and stocky, with thick shaggy hair. When she uses a special ability of this spirit, her muscles ripple and flex, and her stature seems even greater than before.",
+      "zhCN": "选择猛犸精魂的萨满异常高大粗壮，毛发浓密蓬乱。当她使用此精魂的特殊能力时，肌肉会如波浪般起伏收缩，身形显得比之前更为魁梧。"
+    },
+    {
+      "Key": "70549dd1b1fa4cc2a5cb85bf2f54b74e",
+      "SimpleName": "ShamanMammothSpiritProgression.Name",
+      "ProcessTemplates": false,
+      "enGB": "Mammoth",
+      "zhCN": "猛犸"
+    },
+    {
+      "Key": "afc122d6c06e4a6ea8cca5f0c6c55ddb",
+      "SimpleName": "DivineDomainBaseAbility.Description",
+      "ProcessTemplates": true,
+      "enGB": "As a swift action you become a divine vessel for one round. If you are targeted by a divine spell during this round, grant each ally within 15 feet of you a divine boon. This boon grants a +2 bonus on the next attack roll, skill check, or ability check made before the end of their next turn. You can use this ability a number of times per day equal to 3 + your Wisdom modifier.",
+      "zhCN": "以一个迅捷动作，你成为神圣容器，持续1轮。若在此轮内你成为神圣法术的目标，则授予15英尺内每位盟友一个神圣恩惠。此恩惠使其在下回合结束前进行的下一次攻击检定、技能检定或属性检定时获得+2加值。你每日可使用此能力的次数等同于3 + 你的感知调整值。"
+    },
+    {
+      "Key": "b7c176b43cd64c788c87a3011ce5bf50",
+      "SimpleName": "DivineDomainBaseAbilitySeparatist.Description",
+      "ProcessTemplates": true,
+      "enGB": "As a swift action you become a divine vessel for one round. If you are targeted by a divine spell during this round, grant each ally within 15 feet of you a divine boon. This boon grants a +2 bonus on the next attack roll, skill check, or ability check made before the end of their next turn. You can use this ability a number of times per day equal to 3 + your Wisdom modifier.",
+      "zhCN": "以一个迅捷动作，你成为神圣容器，持续1轮。若在此轮内你成为神圣法术的目标，则授予15英尺内每位盟友一个神圣恩惠。此恩惠使其在下回合结束前进行的下一次攻击检定、技能检定或属性检定时获得+2加值。你每日可使用此能力的次数等同于3 + 你的感知调整值。"
+    },
+    {
+      "Key": "acc2cb08c7584d8cb92a849181015042",
+      "SimpleName": "DivineDomainBaseBoonBuff.Description",
+      "ProcessTemplates": true,
+      "enGB": "This boon grants a +2 bonus on the next attack roll, skill check, or ability check made before the end of their next turn.",
+      "zhCN": "此恩惠使其在下回合结束前进行的下一次攻击检定、技能检定或属性检定时获得+2加值。"
+    },
+    {
+      "Key": "82ed7b27e36249488b936d255ec58800",
+      "SimpleName": "DivineDomainBaseBoonBuff.Name",
+      "ProcessTemplates": false,
+      "enGB": "Divine Vessel - Boon",
+      "zhCN": "神圣容器 - 恩惠"
+    },
+    {
+      "Key": "8db668b7d6604bd3ad07c01d507f2a05",
+      "SimpleName": "DivineDomainBaseFeature.Description",
+      "ProcessTemplates": true,
+      "enGB": "\nMany worshippers harness the magic of the divine, you wield the magic of divinity itself. \nDivine Vessel: As a swift action you become a divine vessel for one round. If you are targeted by a divine spell during this round, grant each ally within 15 feet of you a divine boon. This boon grants a +2 bonus on the next attack roll, skill check, or ability check made before the end of their next turn. You can use this ability a number of times per day equal to 3 + your Wisdom modifier. \nDispelling Touch: At 8th level, you can use a targeted dispel magic effect as a melee touch attack. You can use this ability once per day at 8th level and one additional time per day for every four levels in the class that gave you access to this domain beyond 8th.",
+      "zhCN": "\n许多崇拜者驾驭神圣的魔法，而你则挥舞着神性本身的魔法。\n神圣容器：以一个迅捷动作，你成为神圣容器，持续1轮。若在此轮内你成为神圣法术的目标，则授予15英尺内每位盟友一个神圣恩惠。此恩惠使其在下回合结束前进行的下一次攻击检定、技能检定或属性检定时获得+2加值。你每日可使用此能力的次数等同于3 + 你的感知调整值。\n解除之触：在8级时，你可以使用一次目标解除魔法效果，如同一次近战接触攻击。在8级时你每日可使用此能力1次，此后每拥有4个赋予你此领域的职业等级（超过8级的部分），每日使用次数增加1次。"
+    },
+    {
+      "Key": "345b85027f1d43e0a8b5b2a06281a215",
+      "SimpleName": "DivineDomainBaseFeature.Name",
+      "ProcessTemplates": false,
+      "enGB": "Divine Subdomain",
+      "zhCN": "神圣子域"
+    },
+    {
+      "Key": "0b190ba8666d49b3a560957654803303",
+      "SimpleName": "DivineDomainBaseFeatureSeparatist.Description",
+      "ProcessTemplates": true,
+      "enGB": "\nMany worshippers harness the magic of the divine, you wield the magic of divinity itself. \nDivine Vessel: As a swift action you become a divine vessel for one round. If you are targeted by a divine spell during this round, grant each ally within 15 feet of you a divine boon. This boon grants a +2 bonus on the next attack roll, skill check, or ability check made before the end of their next turn. You can use this ability a number of times per day equal to 3 + your Wisdom modifier. \nDispelling Touch: At 8th level, you can use a targeted dispel magic effect as a melee touch attack. You can use this ability once per day at 8th level and one additional time per day for every four levels in the class that gave you access to this domain beyond 8th.",
+      "zhCN": "\n许多崇拜者驾驭神圣的魔法，而你则挥舞着神性本身的魔法。\n神圣容器：以一个迅捷动作，你成为神圣容器，持续1轮。若在此轮内你成为神圣法术的目标，则授予15英尺内每位盟友一个神圣恩惠。此恩惠使其在下回合结束前进行的下一次攻击检定、技能检定或属性检定时获得+2加值。你每日可使用此能力的次数等同于3 + 你的感知调整值。\n解除之触：在8级时，你可以使用一次目标解除魔法效果，如同一次近战接触攻击。在8级时你每日可使用此能力1次，此后每拥有4个赋予你此领域的职业等级（超过8级的部分），每日使用次数增加1次。"
+    },
+    {
+      "Key": "a59da6ce90ba43c59623937237c8bbb0",
+      "SimpleName": "DivineDomainBaseSelfBuff.Description",
+      "ProcessTemplates": true,
+      "enGB": "If you are targeted by a divine spell during this round, grant each ally within 15 feet of you a divine boon. This boon grants a +2 bonus on the next attack roll, skill check, or ability check made before the end of their next turn.",
+      "zhCN": "若在此轮内你成为神圣法术的目标，则授予15英尺内每位盟友一个神圣恩惠。此恩惠使其在下回合结束前进行的下一次攻击检定、技能检定或属性检定时获得+2加值。"
+    },
+    {
+      "Key": "f409bd17cb7b47faad72593eb5009d46",
+      "SimpleName": "DivineDomainBaseSelfBuff.Name",
+      "ProcessTemplates": false,
+      "enGB": "Divine Vessel",
+      "zhCN": "神圣容器"
+    },
+    {
+      "Key": "9e77d64c750841d99f41fb069a539d83",
+      "SimpleName": "DivineDomainProgression.Description",
+      "ProcessTemplates": true,
+      "enGB": "\nMany worshippers harness the magic of the divine, you wield the magic of divinity itself. \nDivine Vessel: As a swift action you become a divine vessel for one round. If you are targeted by a divine spell during this round, grant each ally within 15 feet of you a divine boon. This boon grants a +2 bonus on the next attack roll, skill check, or ability check made before the end of their next turn. You can use this ability a number of times per day equal to 3 + your Wisdom modifier. \nDispelling Touch: At 8th level, you can use a targeted dispel magic effect as a melee touch attack. You can use this ability once per day at 8th level and one additional time per day for every four levels in the class that gave you access to this domain beyond 8th. \nDomain Spells: color spray, bless, dispel magic, protection from energy, communal, cleanse, dispel magic, greater, resurrection, protection from spells, heroic invocation.",
+      "zhCN": "\n许多崇拜者驾驭神圣的魔法，而你则挥舞着神性本身的魔法。\n神圣容器：以一个迅捷动作，你成为神圣容器，持续1轮。若在此轮内你成为神圣法术的目标，则授予15英尺内每位盟友一个神圣恩惠。此恩惠使其在下回合结束前进行的下一次攻击检定、技能检定或属性检定时获得+2加值。你每日可使用此能力的次数等同于3 + 你的感知调整值。\n解除之触：在8级时，你可以使用一次目标解除魔法效果，如同一次近战接触攻击。在8级时你每日可使用此能力1次，此后每拥有4个赋予你此领域的职业等级（超过8级的部分），每日使用次数增加1次。\n领域法术：七彩喷射，祝福术，解除魔法，防能量护罩（群体），净化术，高等解除魔法，复生术，防法术护罩，英雄祈神。"
+    },
+    {
+      "Key": "038dff9e529a45b28d6277d3e7654c07",
+      "SimpleName": "DivineDomainProgressionSecondary.Description",
+      "ProcessTemplates": true,
+      "enGB": "\nMany worshippers harness the magic of the divine, you wield the magic of divinity itself. \nDivine Vessel: As a swift action you become a divine vessel for one round. If you are targeted by a divine spell during this round, grant each ally within 15 feet of you a divine boon. This boon grants a +2 bonus on the next attack roll, skill check, or ability check made before the end of their next turn. You can use this ability a number of times per day equal to 3 + your Wisdom modifier. \nDispelling Touch: At 8th level, you can use a targeted dispel magic effect as a melee touch attack. You can use this ability once per day at 8th level and one additional time per day for every four levels in the class that gave you access to this domain beyond 8th. \nDomain Spells: color spray, bless, dispel magic, protection from energy, communal, cleanse, dispel magic, greater, resurrection, protection from spells, heroic invocation.",
+      "zhCN": "\n许多崇拜者驾驭神圣的魔法，而你则挥舞着神性本身的魔法。\n神圣容器：以一个迅捷动作，你成为神圣容器，持续1轮。若在此轮内你成为神圣法术的目标，则授予15英尺内每位盟友一个神圣恩惠。此恩惠使其在下回合结束前进行的下一次攻击检定、技能检定或属性检定时获得+2加值。你每日可使用此能力的次数等同于3 + 你的感知调整值。\n解除之触：在8级时，你可以使用一次目标解除魔法效果，如同一次近战接触攻击。在8级时你每日可使用此能力1次，此后每拥有4个赋予你此领域的职业等级（超过8级的部分），每日使用次数增加1次。\n领域法术：七彩喷射，祝福术，解除魔法，防能量护罩（群体），净化术，高等解除魔法，复生术，防法术护罩，英雄祈神。"
+    },
+    {
+      "Key": "ec4102df9a1e4fb5bcbdd2a76df2eeaa",
+      "SimpleName": "DivineDomainProgressionSeparatist.Description",
+      "ProcessTemplates": true,
+      "enGB": "\nMany worshippers harness the magic of the divine, you wield the magic of divinity itself. \nDivine Vessel: As a swift action you become a divine vessel for one round. If you are targeted by a divine spell during this round, grant each ally within 15 feet of you a divine boon. This boon grants a +2 bonus on the next attack roll, skill check, or ability check made before the end of their next turn. You can use this ability a number of times per day equal to 3 + your Wisdom modifier. \nDispelling Touch: At 8th level, you can use a targeted dispel magic effect as a melee touch attack. You can use this ability once per day at 8th level and one additional time per day for every four levels in the class that gave you access to this domain beyond 8th. \nDomain Spells: color spray, bless, dispel magic, protection from energy, communal, cleanse, dispel magic, greater, resurrection, protection from spells, heroic invocation.",
+      "zhCN": "\n许多崇拜者驾驭神圣的魔法，而你则挥舞着神性本身的魔法。\n神圣容器：以一个迅捷动作，你成为神圣容器，持续1轮。若在此轮内你成为神圣法术的目标，则授予15英尺内每位盟友一个神圣恩惠。此恩惠使其在下回合结束前进行的下一次攻击检定、技能检定或属性检定时获得+2加值。你每日可使用此能力的次数等同于3 + 你的感知调整值。\n解除之触：在8级时，你可以使用一次目标解除魔法效果，如同一次近战接触攻击。在8级时你每日可使用此能力1次，此后每拥有4个赋予你此领域的职业等级（超过8级的部分），每日使用次数增加1次。\n领域法术：七彩喷射，祝福术，解除魔法，防能量护罩（群体），净化术，高等解除魔法，复生术，防法术护罩，英雄祈神。"
+    },
+    {
+      "Key": "990082e4f14e4f46915420a831076a00",
+      "SimpleName": "ShamanHexHexOfLignificationAbility.Description",
+      "ProcessTemplates": true,
+      "enGB": "The shaman causes a creature within 30 feet to turn into a twisted, treelike shape for 2 rounds. The target gains hardness 5 but is staggered, and can negate the effect with a successful Fortitude saving throw. Whether or not the target succeeds at its save, it can’t be the target of this hex again for 24 hours.",
+      "zhCN": "萨满使30英尺内一个生物变成扭曲的树状形态，持续2轮。目标获得硬度5但陷入恍惚状态，并可通过一次成功的强韧豁免检定来抵消此效果。无论目标豁免是否成功，它在24小时内无法再次成为此巫术的目标。"
+    },
+    {
+      "Key": "254c594b8a594dd1b3afef4b8af44737",
+      "SimpleName": "ShamanHexHexOfLignificationBuff.Description",
+      "ProcessTemplates": true,
+      "enGB": "The shaman causes a creature within 30 feet to turn into a twisted, treelike shape for 2 rounds. The target gains hardness 5 but is staggered, and can negate the effect with a successful Fortitude saving throw. Whether or not the target succeeds at its save, it can’t be the target of this hex again for 24 hours.",
+      "zhCN": "萨满使30英尺内一个生物变成扭曲的树状形态，持续2轮。目标获得硬度5但陷入恍惚状态，并可通过一次成功的强韧豁免检定来抵消此效果。无论目标豁免是否成功，它在24小时内无法再次成为此巫术的目标。"
+    },
+    {
+      "Key": "fad2d90cfd984f39a9457e9c9075a871",
+      "SimpleName": "ShamanHexHexOfLignificationBuff.Name",
+      "ProcessTemplates": false,
+      "enGB": "Hex of Lignification",
+      "zhCN": "木质化巫术"
+    },
+    {
+      "Key": "8b2c41ed5e144cf893086a6e59eb0c56",
+      "SimpleName": "ShamanHexHexOfLignificationFeature.Description",
+      "ProcessTemplates": true,
+      "enGB": "The shaman causes a creature within 30 feet to turn into a twisted, treelike shape for 2 rounds. The target gains hardness 5 but is staggered, and can negate the effect with a successful Fortitude saving throw. Whether or not the target succeeds at its save, it can’t be the target of this hex again for 24 hours.",
+      "zhCN": "萨满使30英尺内一个生物变成扭曲的树状形态，持续2轮。目标获得硬度5但陷入恍惚状态，并可通过一次成功的强韧豁免检定来抵消此效果。无论目标豁免是否成功，它在24小时内无法再次成为此巫术的目标。"
+    },
+    {
+      "Key": "8f95460e1cb24b3c85fc182f2a9452c7",
+      "SimpleName": "ShamanHexVerdantPathFeature.Description",
+      "ProcessTemplates": true,
+      "enGB": "Even the most tangled briars make way for the shaman, and suitable roots and branches appear to support her feet. The shaman gains woodland stride, as per the druid ability of the same name. \nYou can move through any sort difficult terrain at your normal speed and without taking damage or suffering any other impairment.",
+      "zhCN": "即使是最纠缠的荆棘丛也会为萨满让路，适宜的根茎枝条会显现支撑她的脚步。萨满获得林地穿行能力，如同德鲁伊的同名能力。\n你能以正常速度穿越任何类型的困难地形，且不会受到伤害或遭受任何其它减损。"
+    },
+    {
+      "Key": "ed9b2131f1c94054ab5fb13f6b617b7d",
+      "SimpleName": "ShamanHexVerdantPathFeature.Name",
+      "ProcessTemplates": false,
+      "enGB": "Verdant Path",
+      "zhCN": "青翠小径"
+    },
+    {
+      "Key": "c21bfa36dfa045049b215fb518692e1f",
+      "SimpleName": "ShamanWoodSpiritBaseAbility.Description",
+      "ProcessTemplates": true,
+      "enGB": "As a swift action, the shaman can turn her arms into heavy, branch-like limbs. Until the beginning of her next turn her unarmed strikes are replaced by slam attacks, these slam attacks deal 1d8 points of damage (for a Medium shaman; 1d6 if Small, 2d6 if Large). A shaman can use this ability a number of times per day equal to 3 + her Charisma modifier.\nAt 8th level, the reach of these slam attacks increases by 5 feet.",
+      "zhCN": "以一个迅捷动作，萨满可以将她的手臂变成沉重的、树枝状的肢体。直到她下回合开始前，她的徒手打击被挥击攻击取代，这些挥击攻击造成1d8点伤害（中型萨满；小型为1d6，大型为2d6）。萨满每日可使用此能力的次数等同于3 + 她的魅力调整值。\n在8级时，这些挥击攻击的触及范围增加5英尺。"
+    },
+    {
+      "Key": "55f50fd2ea4745c8ad7aa83f8e97c313",
+      "SimpleName": "ShamanWoodSpiritBaseBuff.Description",
+      "ProcessTemplates": true,
+      "enGB": "As a swift action, the shaman can turn her arms into heavy, branch-like limbs. Until the beginning of her next turn her unarmed strikes are replaced by slam attacks, these slam attacks deal 1d8 points of damage (for a Medium shaman; 1d6 if Small, 2d6 if Large). A shaman can use this ability a number of times per day equal to 3 + her Charisma modifier.\nAt 8th level, the reach of these slam attacks increases by 5 feet.",
+      "zhCN": "以一个迅捷动作，萨满可以将她的手臂变成沉重的、树枝状的肢体。直到她下回合开始前，她的徒手打击被挥击攻击取代，这些挥击攻击造成1d8点伤害（中型萨满；小型为1d6，大型为2d6）。萨满每日可使用此能力的次数等同于3 + 她的魅力调整值。\n在8级时，这些挥击攻击的触及范围增加5英尺。"
+    },
+    {
+      "Key": "0a3e7663ab6448d1a508e9268998fe3a",
+      "SimpleName": "ShamanWoodSpiritBaseBuff.Name",
+      "ProcessTemplates": false,
+      "enGB": "Tree Limb",
+      "zhCN": "树之臂"
+    },
+    {
+      "Key": "22c5eaa668a74d6684cbba57de183203",
+      "SimpleName": "ShamanWoodSpiritBaseFeature.Description",
+      "ProcessTemplates": true,
+      "enGB": "As a swift action, the shaman can turn her arms into heavy, branch-like limbs. Until the beginning of her next turn her unarmed strikes are replaced by slam attacks, these slam attacks deal 1d8 points of damage (for a Medium shaman; 1d6 if Small, 2d6 if Large). A shaman can use this ability a number of times per day equal to 3 + her Charisma modifier.\nAt 8th level, the reach of these slam attacks increases by 5 feet.",
+      "zhCN": "以一个迅捷动作，萨满可以将她的手臂变成沉重的、树枝状的肢体。直到她下回合开始前，她的徒手打击被挥击攻击取代，这些挥击攻击造成1d8点伤害（中型萨满；小型为1d6，大型为2d6）。萨满每日可使用此能力的次数等同于3 + 她的魅力调整值。\n在8级时，这些挥击攻击的触及范围增加5英尺。"
+    },
+    {
+      "Key": "4fd166e59ba346bd87c64af204773a44",
+      "SimpleName": "ShamanWoodSpiritBaseReachBuff.Description",
+      "ProcessTemplates": true,
+      "enGB": "As a swift action, the shaman can turn her arms into heavy, branch-like limbs. Until the beginning of her next turn her unarmed strikes are replaced by slam attacks, these slam attacks deal 1d8 points of damage (for a Medium shaman; 1d6 if Small, 2d6 if Large). A shaman can use this ability a number of times per day equal to 3 + her Charisma modifier.\nAt 8th level, the reach of these slam attacks increases by 5 feet.",
+      "zhCN": "以一个迅捷动作，萨满可以将她的手臂变成沉重的、树枝状的肢体。直到她下回合开始前，她的徒手打击被挥击攻击取代，这些挥击攻击造成1d8点伤害（中型萨满；小型为1d6，大型为2d6）。萨满每日可使用此能力的次数等同于3 + 她的魅力调整值。\n在8级时，这些挥击攻击的触及范围增加5英尺。"
+    },
+    {
+      "Key": "1d28bb74efeb4e878090dd1510a4a41b",
+      "SimpleName": "ShamanWoodSpiritGreaterAbility.Description",
+      "ProcessTemplates": true,
+      "enGB": "As a standard action, the shaman can cause a field of thick roots to burrow up from the ground, for a number of rounds per day equal to her Charisma modifier. All creatures other than the shaman treat the area as difficult terrain. \nEvery enemy within the area of the spell is the target of a combat maneuver check made to grapple each round at the beginning of your turn, as well as when entering the area. The CMB of this grapple attempt is equal to your shaman level plus 5, increasing to plus 10 when trying to escape the grapple. If a creature is grappled by this ability, or fails to escape the grapple, it takes 1d6+4 points of damage.\nThe shaman can use this ability once per day, increasing to twice per day at 16th level.",
+      "zhCN": "以一个标准动作，萨满可以令一片粗壮的根须从地面钻出，每日持续轮数等同于她的魅力调整值。除萨满外的所有生物视该区域为困难地形。\n法术区域内的每个敌人在你每回合开始时以及进入该区域时，都是擒抱战技检定的目标。此擒抱尝试的战技加值（CMB）等于你的萨满等级加5（尝试挣脱擒抱时则增加至加10）。若一个生物被此能力擒抱，或未能挣脱擒抱，则受到1d6+4点伤害。\n萨满每日可使用此能力1次，在16级时增加至每日2次。"
+    },
+    {
+      "Key": "abca774c46a649ee898e737119942bfd",
+      "SimpleName": "ShamanWoodSpiritGreaterBuff.Description",
+      "ProcessTemplates": true,
+      "enGB": "As a standard action, the shaman can cause a field of thick roots to burrow up from the ground, for a number of rounds per day equal to her Charisma modifier. All creatures other than the shaman treat the area as difficult terrain. \nEvery enemy within the area of the spell is the target of a combat maneuver check made to grapple each round at the beginning of your turn, as well as when entering the area. The CMB of this grapple attempt is equal to your shaman level plus 5, increasing to plus 10 when trying to escape the grapple. If a creature is grappled by this ability, or fails to escape the grapple, it takes 1d6+4 points of damage.\nThe shaman can use this ability once per day, increasing to twice per day at 16th level.",
+      "zhCN": "以一个标准动作，萨满可以令一片粗壮的根须从地面钻出，每日持续轮数等同于她的魅力调整值。除萨满外的所有生物视该区域为困难地形。\n法术区域内的每个敌人在你每回合开始时以及进入该区域时，都是擒抱战技检定的目标。此擒抱尝试的战技加值（CMB）等于你的萨满等级加5（尝试挣脱擒抱时则增加至加10）。若一个生物被此能力擒抱，或未能挣脱擒抱，则受到1d6+4点伤害。\n萨满每日可使用此能力1次，在16级时增加至每日2次。"
+    },
+    {
+      "Key": "fb51cb3e63b74a7c9f2ec8c6c071b48c",
+      "SimpleName": "ShamanWoodSpiritGreaterBuff.Name",
+      "ProcessTemplates": false,
+      "enGB": "Bloody Roots",
+      "zhCN": "血腥根须"
+    },
+    {
+      "Key": "de2356ce54d34464a757a1d083ce71c8",
+      "SimpleName": "ShamanWoodSpiritGreaterFeature.Description",
+      "ProcessTemplates": true,
+      "enGB": "As a standard action, the shaman can cause a field of thick roots to burrow up from the ground, for a number of rounds per day equal to her Charisma modifier. All creatures other than the shaman treat the area as difficult terrain. \nEvery enemy within the area of the spell is the target of a combat maneuver check made to grapple each round at the beginning of your turn, as well as when entering the area. The CMB of this grapple attempt is equal to your shaman level plus 5, increasing to plus 10 when trying to escape the grapple. If a creature is grappled by this ability, or fails to escape the grapple, it takes 1d6+4 points of damage.\nThe shaman can use this ability once per day, increasing to twice per day at 16th level.",
+      "zhCN": "以一个标准动作，萨满可以令一片粗壮的根须从地面钻出，每日持续轮数等同于她的魅力调整值。除萨满外的所有生物视该区域为困难地形。\n法术区域内的每个敌人在你每回合开始时以及进入该区域时，都是擒抱战技检定的目标。此擒抱尝试的战技加值（CMB）等于你的萨满等级加5（尝试挣脱擒抱时则增加至加10）。若一个生物被此能力擒抱，或未能挣脱擒抱，则受到1d6+4点伤害。\n萨满每日可使用此能力1次，在16级时增加至每日2次。"
+    },
+    {
+      "Key": "e7333964399f4c47afc8e4aff879db0d",
+      "SimpleName": "ShamanWoodSpiritGreaterTerrainBuff.Description",
+      "ProcessTemplates": true,
+      "enGB": "Affected by difficult terrain",
+      "zhCN": "受困难地形影响"
+    },
+    {
+      "Key": "3a95bac0960e4472ad300a294b9d8a0e",
+      "SimpleName": "ShamanWoodSpiritGreaterTerrainBuff.Name",
+      "ProcessTemplates": false,
+      "enGB": "ShamanWoodSpiritGreaterTerrainBuff",
+      "zhCN": "萨满木精魂高等地形Buff"
+    },
+    {
+      "Key": "6aa459828498409e97fa7252a02ea557",
+      "SimpleName": "ShamanWoodSpiritManifestationFeature.Description",
+      "ProcessTemplates": true,
+      "enGB": "Upon reaching 20th level, the shaman becomes a living creature of wood. She gains a +4 natural armor bonus to her Armor Class and damage reduction 10/— against wooden weapons. She gains immunity to paralysis, poison, sleep, and stun, along with enemy polymorph spells.",
+      "zhCN": "达到20级时，萨满成为一个活体木造生物。她的护甲等级获得+4天生护甲加值，并对木制武器拥有伤害减免10/—。她获得对麻痹、毒素、睡眠和震慑的免疫，以及对敌人变形法术的免疫。"
+    },
+    {
+      "Key": "a4ed5b868dd043e4b4892252d3ee6855",
+      "SimpleName": "ShamanWoodSpiritProgression.Description",
+      "ProcessTemplates": true,
+      "enGB": "A shaman who selects the wood spirit has a skin tone similar to the coloration of trees in her home region. Her vibrant hair is fragrant and resembles leaves and blossoms.",
+      "zhCN": "选择木精魂的萨满，其肤色与她家乡地区的树木颜色相似。她鲜艳的头发散发着芬芳，形似树叶和花朵。"
+    },
+    {
+      "Key": "4bb34bdce34e491a8f04c655a08f7727",
+      "SimpleName": "ShamanWoodSpiritTrueAbility.Description",
+      "ProcessTemplates": true,
+      "enGB": "You become a Huge Treant or a Huge Giant Flytrap. \nTreant: You become a huge treant. You gain a +8 size bonus to your Strength, +4 to Constitution, -2 penalty to Dexterity and a +6 natural armor bonus. You also gain two 2d6 slam attacks, damage reduction 10/slashing, vulnerability to fire and overrun ability. Giant Flytrap: You become a huge giant flytrap. You gain a +8 size bonus to your Strength, +4 to Constitution, -2 penalty to Dexterity and a +6 natural armor bonus. You also gain four 1d8 bite attacks, acid Resistance 20 and blindsight and poison ability.",
+      "zhCN": "你变成一个超大型树人（Treant）或超大型巨型捕蝇草（Giant Flytrap）。\n树人：你变成一个超大型树人。你的力量获得+8体型加值，体质+4，敏捷-2惩罚，并获得+6天生护甲加值。你还获得两次2d6挥击攻击，伤害减免10/挥砍，火焰易伤以及碾压能力。\n巨型捕蝇草：你变成一个超大型巨型捕蝇草。你的力量获得+8体型加值，体质+4，敏捷-2惩罚，并获得+6天生护甲加值。你还获得四次1d8啮咬攻击，酸蚀抗力20以及盲视和毒素能力。"
+    },
+    {
+      "Key": "5acee9678d5744358b1fcdc1171dde8a",
+      "SimpleName": "ShamanWoodSpiritTrueFeature.Description",
+      "ProcessTemplates": true,
+      "enGB": "As a standard action, the shaman can assume the form of a plant creature as per plant shape III with a duration of 1 hour per level. She can use this ability once per day. \nYou become a Huge Treant or a Huge Giant Flytrap. \\nTreant: You become a huge treant. You gain a +8 size bonus to your Strength, +4 to Constitution, -2 penalty to Dexterity and a +6 natural armor bonus. You also gain two 2d6 slam attacks, damage reduction 10/slashing, vulnerability to fire and overrun ability. Giant Flytrap: You become a huge giant flytrap. You gain a +8 size bonus to your Strength, +4 to Constitution, -2 penalty to Dexterity and a +6 natural armor bonus. You also gain four 1d8 bite attacks, acid Resistance 20 and blindsight and poison ability.",
+      "zhCN": "以一个标准动作，萨满可以如同植物形态III（Plant Shape III）般变形成植物生物形态，持续时间为每等级1小时。她每日可使用此能力1次。\n你变成一个超大型树人（Treant）或超大型巨型捕蝇草（Giant Flytrap）。\n树人：你变成一个超大型树人。你的力量获得+8体型加值，体质+4，敏捷-2惩罚，并获得+6天生护甲加值。你还获得两次2d6挥击攻击，伤害减免10/挥砍，火焰易伤以及碾压能力。\n巨型捕蝇草：你变成一个超大型巨型捕蝇草。你的力量获得+8体型加值，体质+4，敏捷-2惩罚，并获得+6天生护甲加值。你还获得四次1d8啮咬攻击，酸蚀抗力20以及盲视和毒素能力。"
+    },
+    {
+      "Key": "3887e59015dd46b5ac613a8785db3a07",
+      "SimpleName": "SlamReachEnchantment.Name",
+      "ProcessTemplates": false,
+      "enGB": "Reach",
+      "zhCN": "触及"
+    },
+    {
+      "Key": "b14de8fad343451f843ff532826bfb70",
+      "SimpleName": "GoblinHeroGodsSelection.Name",
+      "ProcessTemplates": false,
+      "enGB": "Goblin Hero-Gods",
+      "zhCN": "哥布林英雄神"
+    },
+    {
+      "Key": "89859e25ec43496abbe922c643fb866a",
+      "SimpleName": "ZogmugotFeature.Description",
+      "ProcessTemplates": true,
+      "enGB": "\nTitles: Lady Lastbreath   \nAlignment: Chaotic Evil   \nAreas of Concern: Drowning, Invention, Self-sufficiency \nDomains: Chaos, Evil, Trickery, Water \nSubdomains: Demon, Flotsam, Oceans, Thievery \nFavoured Weapon: Sickle   \nHoly Symbol: Seaweed draped chest  \nSacred Animal: Crab   \nThe most clever and observant of the four goblin hero-gods, but also the easiest to distract, Zogmugot encourages her followers to make the most out of their surroundings. Any goblin who discovers a way to make broken or discarded objects useful (or, even better, deadly) earns her favor. She rewards those who need her the least, showering luck and inspiration on goblins who find their own solutions to problems. Though she answers prayers as often as any of the four, her blessings frequently fade once her attention wanes. Goblins wishing to do her honor typically swim out of sight of land, hold their breath underwater until they nearly fall unconscious, or do something similar that risks drowning. As the closest thing goblins have to a patron of invention, craft, and creativity, most tribes have at least one member who pays her homage by creating weapons or clever deathtraps.",
+      "zhCN": "\n头衔：终息女士\n阵营：混乱邪恶\n关注领域：溺水、发明、自给自足\n领域：混乱、邪恶、诡术、水\n子域：恶魔、漂浮物、海洋、盗窃\n偏好武器：镰刀\n圣徽：披挂海藻的箱子\n圣兽：螃蟹\n作为四位哥布林英雄神中最聪明且最敏锐的（但也最容易分心），佐格穆戈特鼓励她的信徒充分利用周围环境。任何发现将破碎或废弃物品变废为宝（或者更好，变得致命）方法的哥布林都能赢得她的青睐。她奖赏那些最不需要她的人，将幸运和灵感倾注于那些自己解决问题的哥布林。尽管她回应祈祷的频率与其他三位相当，但她的祝福常常在注意力转移后消退。希望向她致敬的哥布林通常会游到看不见陆地的地方，在水下屏住呼吸直到几乎失去意识，或做出其他类似可能溺水的危险行为。作为哥布林最接近的发明、工艺和创造力守护者，大多数部落至少有一位成员通过制造武器或巧妙的死亡陷阱来向她致敬。"
+    },
+    {
+      "Key": "9655d8f0f8a542fba1c40219d8368dc0",
+      "SimpleName": "ZogmugotFeature.Name",
+      "ProcessTemplates": false,
+      "enGB": "Zogmugot",
+      "zhCN": "佐格穆戈特"
+    },
+    {
+      "Key": "aa434ae1a0444c33b64b8d2e68791fb6",
+      "SimpleName": "WarhoundAnimalCompanionProgression.Name",
+      "ProcessTemplates": false,
+      "enGB": "Warhound Animal Companion Progression",
+      "zhCN": "战狼动物伙伴成长"
+    },
+    {
+      "Key": "683409e6bd0e4402a09e56cbf2369ee5",
+      "SimpleName": "WarhoundAnimalCompanionSelection.Description",
+      "ProcessTemplates": true,
+      "enGB": "The warhound has finished training their animal companion to aid in their hunt. This functions like the druid animal companion ability, except that the warhound’s effective druid level is equal to his warhound level –3. \nUnlike normal animals of its kind, an animal companion's Hit Dice, abilities, skills, and feats advance as the druid advances in level. If a character receives an animal companion from more than one source, her effective druid levels stack for the purposes of determining the statistics and abilities of the companion. Most animal companions increase in size when their druid reaches 4th or 7th level, depending on the companion.",
+      "zhCN": "战狼已完成训练其动物伙伴以协助狩猎。其功能类似于德鲁伊的动物伙伴能力，但战狼的有效德鲁伊等级等于其战狼等级–3。\n与同类的普通动物不同，动物伙伴的生命骰、能力、技能和专长会随着德鲁伊等级的提升而提升。如果一个角色从多个来源获得动物伙伴，她的有效德鲁伊等级将叠加，用于确定伙伴的属性和能力。大多数动物伙伴在它们的德鲁伊达到4级或7级时会增大体型，具体取决于伙伴类型。"
+    },
+    {
+      "Key": "e0b24924f342470ab241df2491306ce5",
+      "SimpleName": "WarhoundAnimalCompanionSelection.Name",
+      "ProcessTemplates": false,
+      "enGB": "Warhound Animal Companion",
+      "zhCN": "战狼动物伙伴"
+    },
+    {
+      "Key": "eab68728dea04c74b0d8522c297637bc",
+      "SimpleName": "WarhoundArchetype.Description",
+      "ProcessTemplates": false,
+      "enGB": "A warhound is a humanoid beast, a trained stalker who hunts and kills his master’s enemies with the aid of an animal companion.",
+      "zhCN": "战狼是人形的猛兽，是训练有素的潜行者，在动物伙伴的协助下猎杀他主人的敌人。"
+    },
+    {
+      "Key": "8fa3c8d1407d472fb01ca18c1b6142dd",
+      "SimpleName": "WarhoundArchetype.Name",
+      "ProcessTemplates": false,
+      "enGB": "Warhound",
+      "zhCN": "战狼"
+    },
+    {
+      "Key": "5c1ce2781ad7493195243a4e6a0e8c94",
+      "SimpleName": "WarhoundsEyeFeature.Description",
+      "ProcessTemplates": true,
+      "enGB": "At 1st level, a warhounds training helps them spot and track targets. They gain a +2 bonus to their Perception and Lore (nature) checks. \nAdditionally, the warhound does not get the studied target feature at 1st level, instead gaining it at 5th level with the bonus granted being 1 less than the standard slayer progression.",
+      "zhCN": "在1级时，战狼的训练帮助他们发现和追踪目标。他们在察觉和自然学识检定上获得+2加值。\n此外，战狼在1级时不获得研究目标特性，而是在5级时获得，且提供的加值比标准杀手职业的加值少1点。"
+    },
+    {
+      "Key": "b1b03759901d4c35b928b3c4f62d8a6c",
+      "SimpleName": "WarhoundsEyeFeature.Name",
+      "ProcessTemplates": false,
+      "enGB": "Warhounds Eye",
+      "zhCN": "战狼之眼"
+    },
+    {
+      "Key": "5c64f550f8a64fbf9e473a4723ba04ab",
+      "SimpleName": "WarhoundSwiftAidHuntFeature.Description",
+      "ProcessTemplates": true,
+      "enGB": "At 14th level, the warhound and their animal companion both gain the swift aid feat.",
+      "zhCN": "在14级时，战狼及其动物伙伴均获得迅捷援助专长。"
+    },
+    {
+      "Key": "c72443f592e740179630a6688a1d4c69",
+      "SimpleName": "WarhoundSwiftAidHuntFeature.Name",
+      "ProcessTemplates": false,
+      "enGB": "Swift Hunting",
+      "zhCN": "迅捷狩猎"
     }
   ]
 }
