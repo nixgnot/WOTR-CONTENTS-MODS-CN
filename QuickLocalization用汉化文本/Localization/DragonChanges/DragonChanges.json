@@ -1596,6 +1596,72 @@
     "zhCN": "禁止DragonChanges内容"
   },
   {
+    "Key": "StudentOfNethys.name",
+    "ProcessTemplates": false,
+    "enGB": "Student Of Nethys",
+    "zhCN": "涅希斯学徒"
+  },
+  {
+    "Key": "StudentOfNethys.description",
+    "ProcessTemplates": false,
+    "enGB": "By studying the teachings of Nethys, your spells have an increased difficulty class, with a bonus of 2.",
+    "zhCN": "研习魔法之神涅希斯的教义后，你的法术豁免难度提升，获得+2加值。"
+  },
+  {
+    "Key": "ProfessorOfNethys.name",
+    "ProcessTemplates": false,
+    "enGB": "Professor Of Nethys",
+    "zhCN": "涅希斯导师"
+  },
+  {
+    "Key": "ProfessorOfNethys.description",
+    "ProcessTemplates": false,
+    "enGB": "By studying the teachings of Nethys, your spells have an increased difficulty class, with an additional bonus of 4.",
+    "zhCN": "精研魔法之神涅希斯的教义后，你的法术豁免难度进一步提升，获得额外+4加值。"
+  },
+  {
+    "Key": "ScholarOfNethys.name",
+    "ProcessTemplates": false,
+    "enGB": "Scholar Of Nethys",
+    "zhCN": "涅希斯学者"
+  },
+  {
+    "Key": "ScholarOfNethys.description",
+    "ProcessTemplates": false,
+    "enGB": "By studying the teachings of Nethys, your spells have an increased difficulty class, with an additional bonus of 2.",
+    "zhCN": "钻研魔法之神涅希斯的教义后，你的法术豁免难度提升，获得额外+2加值。"
+  },
+  {
+    "Key": "MythicSupportNethys.name",
+    "ProcessTemplates": false,
+    "enGB": "Mythic Support of Nethys",
+    "zhCN": "涅希斯神话援护"
+  },
+  {
+    "Key": "MythicSupportNethys.description",
+    "ProcessTemplates": false,
+    "enGB": "Nethys is so impressed with your dedication to his teachings, that he helps your spells difficult class grow even more. Bonus of +6",
+    "zhCN": "你对魔法之神的虔诚研习令涅希斯深感赞赏，祂亲自强化了你的法术威能。法术豁免难度获得+6加值。"
+  },
+  {
+    "Key": "buildsenjoyer.name",
+    "ProcessTemplates": false,
+    "enGB": "BuildsEnjoyer",
+    "zhCN": "百变宗师"
+  },
+  {
+    "Key": "buildsenjoyer.description",
+    "ProcessTemplates": false,
+    "enGB": "Builds Enjoyer combines Inciter, Dronk, and Marine archetypes into one handy class!",
+    "zhCN": "融合滋事者、醉拳大师与深黯军团兵士三大变体，铸就这全能的传奇职业！"
+  },
+  {
+    "Key": "buildsenjoyer.shortdescription",
+    "ProcessTemplates": false,
+    "enGB": "Builds Enjoyer combines Inciter, Drunken Monk, and Sable Marine archetypes into one handy class! Also gives Magic Deceiver spellbook at KC's request!",
+    "zhCN": "融合煽动者、醉拳大师与深黯军团兵士变体（应KC要求额外获得魔法诈欺师法术书）的全能职业。"
+  }
+  {
     "Key": "Invincible.name",
     "ProcessTemplates": false,
     "enGB": "Invincible",
