@@ -1,0 +1,182 @@
+{
+  "LocalizationList": [
+    {
+      "desc": "新增专长 - 小型内容Mod，持续开发中，增加神话羁绊、多种专长和法术",
+      "target": "AddedFeats"
+    },
+    {
+      "desc": "人类替换特性 - 提供来自规则书的人类可选替换种族特性",
+      "target": "AlternateRacialTraits"
+    },
+    {
+      "desc": "自动增长加值 - 引入变体规则，角色无需给予加值和属性的物品，将在等级成长过程中自动获得这些加值",
+      "target": "AutomaticBonusProgression"
+    },
+    {
+      "desc": "更多背景 - 修改了大量原版背景，还加入几个新背景，包括奥法技工、骑士、终焉之墙骑士团等",
+      "target": "BetterBackgrounds"
+    },
+    {
+      "desc": "拳师职业 - 加入了Brawler拳师职业",
+      "target": "BrawlerClassWrath"
+    },
+    {
+      "desc": "法师虚学派 - 增加了法师的虚学派",
+      "target": "BrokenFeatures"
+    },
+    {
+      "desc": "BubbleTweaks - 游戏微调和平衡性修改",
+      "target": "BubbleTweaks"
+    },
+    {
+      "desc": "CO+扩展 - 大型MOD，增加很多新内容，法术专长为主，包括多种变体和职业特性",
+      "target": "CharacterOptionsPlus(Fix)"
+    },
+    {
+      "desc": "神圣圣徒 - 新增先知变体神圣圣徒",
+      "target": "Commander"
+    },
+    {
+      "desc": "死亡骑士 - 添加以魔兽世界中的死亡骑士为原型的反圣武士变体",
+      "target": "Deathknight"
+    },
+    {
+      "desc": "DragonChanges - 对龙类相关内容进行调整和改进",
+      "target": "DragonChanges"
+    },
+    {
+      "desc": "DragonFix - 修复龙类相关的BUG和问题",
+      "target": "DragonFix"
+    },
+    {
+      "desc": "Ebon的内容mod - Ebon制作的内容扩展MOD",
+      "target": "EbonsContentMod"
+    },
+    {
+      "desc": "持久重置 - 对持久相关机制进行重制和调整",
+      "target": "EnduringRework"
+    },
+    {
+      "desc": "FinessableSabers - 使军刀类武器可以使用武器娴熟专长",
+      "target": "FinessableSabers"
+    },
+    {
+      "desc": "半身人游击者 - 新增半身人游击者相关内容",
+      "target": "HalflingPartisan"
+    },
+    {
+      "desc": "房规变体 - 提供大量自制的职业变体选项",
+      "target": "HomebrewArchetypes(Fix)"
+    },
+    {
+      "desc": "3.5e邪术师 - 移植并改编DND3.5E的邪术师到WOTR，增加原邪术师职业和相关专长",
+      "target": "HomebrewWarlock"
+    },
+    {
+      "desc": "自定义爱乌 - 允许自定义爱乌的成长和发展",
+      "target": "LevelableAivu"
+    },
+    {
+      "desc": "魔法军械库 - 新增两个装备：弱效猛力投掷腰带和驴背短衫",
+      "target": "MagicArmory"
+    },
+    {
+      "desc": "催眠师 - 增加催眠师职业及变体：迷踪侠、欺诈怪客等",
+      "target": "Mesmerist"
+    },
+    {
+      "desc": "MPE扩展 - 游戏风格扩展MOD，增加新的游戏玩法和选项",
+      "target": "MorvarchsPlaystyleExpansions"
+    },
+    {
+      "desc": "神秘骚乱 - 大型内容扩展MOD，增加神秘相关的法术、能力和机制",
+      "target": "MysticalMayhem"
+    },
+    {
+      "desc": "九剑 - 添加来自DND中九剑的武技系统，包含专长和武技，所有武技无需准备可自由使用",
+      "target": "Nine Swords"
+    },
+    {
+      "desc": "战争之路 - 添加第三方资源战争之路中的武技系统，包含多种武术流派、击技和架势",
+      "target": "PathofWar"
+    },
+    {
+      "desc": "灵能MOD - 增加了灵能内容，目前增加了魂刃基础职业和少量灵能专长，仍在开发阶段",
+      "target": "Psionics"
+    },
+    {
+      "desc": "RespecMod - 提供角色重新分配属性点和技能点的功能",
+      "target": "RespecMod"
+    },
+    {
+      "desc": "SmolCraft - 小型制作和生活系统扩展",
+      "target": "SmolCraft"
+    },
+    {
+      "desc": "游荡剑客 - 增加基础职业游荡剑客及变体：灵感之刃、灵使剑客、花间诗剑、雷斯兰暴徒",
+      "target": "Swashbuckler"
+    },
+    {
+      "desc": "切换投掷 - 小型MOD，持有匕首和星刃时会多出开关型能力，可以自由在远程使用和近战使用间切换",
+      "target": "ToggleableThrowingWeapons"
+    },
+    {
+      "desc": "原创魔战 - 训练有素的魔战士和传承者变体",
+      "target": "Trained Magus&Scion"
+    },
+    {
+      "desc": "施法者变体 - 新增多种施法者职业的变体选项",
+      "target": "TransfiguredCasterArchetypes"
+    },
+    {
+      "desc": "召唤师 - 添加召唤师职业，包含进化召唤神话能力和相关法术",
+      "target": "WOTR_MAKING_FRIENDS"
+    },
+    {
+      "desc": "金龙/恶魔/魔鬼重做 - 对神话道途进行重制和平衡调整",
+      "target": "WOTR_PATH_OF_XXX"
+    }
+  ],
+  "TTTLocalizationList": [
+    {
+      "desc": "内容扩展2022 - 大型MOD，增加很多新内容，包括大量信仰、变体、专长等",
+      "target": "ExpandedContent(Fix)"
+    },
+    {
+      "desc": "异世界主角 - 提供异世界风格的角色创建和游戏体验",
+      "target": "IsekaiMod"
+    },
+    {
+      "desc": "MCE内容扩展 - 增加反圣武士职业及变体、职业特性、专长、法术等新内容",
+      "target": "MicroscopicContentExpansion"
+    },
+    {
+      "desc": "牛头人种族 - 新增牛头人种族",
+      "target": "MinosRace"
+    },
+    {
+      "desc": "神话秘术 - 为秘术师职业添加神话能力和扩展内容",
+      "target": "MythicArcanist(Fix)"
+    },
+    {
+      "desc": "物品扩展 - 主要增加物品，包括约40件前作装备和10件新物品，修复辉光最终形态附魔效果",
+      "target": "SparsSorcerousSundries"
+    },
+    {
+      "desc": "TTT夹击扩展 - TTT的新扩展附件，主要集中在夹击规则的修改，恢复了桌面规则对夹击角度的要求，同时增加了相关专长",
+      "target": "TabletopTweaks-Flanking"
+    },
+    {
+      "desc": "TOTF扩展 - 大型MOD，增加很多新内容，包括物品、法术等，重要改动：驱散魔法类现在成为了安全法术",
+      "target": "TomeOfTheFirebird"
+    },
+    {
+      "desc": "TTT基础 - 提到正义之怒MOD就必定会提到TTT，新增海量游戏内容，包括变体、巅峰、法术、专长、种族、背景等，对原版做出大量修改和修复",
+      "target": "TTT-Base(Fix)"
+    },
+    {
+      "desc": "TTT神话扩展 - TTT的扩展附件，主要集中在神话道途的修改，对神话能力、神话专长、道途均有修改",
+      "target": "TTT-Rework(Fix)"
+    }
+  ]
+}
