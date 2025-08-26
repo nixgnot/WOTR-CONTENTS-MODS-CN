@@ -1,0 +1,12 @@
+{
+  "baseUrls": [
+    "https://raw.githubusercontent.com/nixgnot/WOTR-CONTENTS-MODS-CN/main",
+    "https://cdn.jsdelivr.net/gh/nixgnot/WOTR-CONTENTS-MODS-CN@main"
+  ],
+  "relativePaths": {
+    "info": "info.json",
+    "localization": "QuickLocalization用汉化文本/Localization",
+    "tttLocalization": "QuickLocalization用汉化文本/TTTLocalization"
+  }
+}
+}

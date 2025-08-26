@@ -1,0 +1,60 @@
+name: Update info.json
+
+on:
+  push:
+    branches: [ main ]
+    paths:
+      - 'QuickLocalization用汉化文本/**'
+  workflow_dispatch:
+
+jobs:
+  update-info:
+    runs-on: ubuntu-latest
+    
+    steps:
+    - name: Checkout repository
+      uses: actions/checkout@v4
+      with:
+        fetch-depth: 0
+        token: ${{ secrets.GITHUB_TOKEN }}
+    
+    - name: Setup Python
+      uses: actions/setup-python@v4
+      with:
+        python-version: '3.x'
+    
+    - name: Update info.json
+      run: python update_info.py
+    
+    - name: Check for changes
+      id: check_changes
+      run: |
+        if git diff --quiet HEAD -- info.json; then
+          echo "no_changes=true" >> $GITHUB_OUTPUT
+          echo "info.json 没有变化"
+        else
+          echo "no_changes=false" >> $GITHUB_OUTPUT
+          echo "info.json 有变化"
+          git diff --stat HEAD -- info.json
+        fi
+    
+    - name: Commit and push changes
+      if: steps.check_changes.outputs.no_changes == 'false'
+      run: |
+        git config --local user.email "action@github.com"
+        git config --local user.name "GitHub Action"
+        git add info.json
+        git commit -m "自动更新 info.json 文件信息
+
+        - 更新文件列表和最后修改时间
+        - 检测到的变化: $(git diff --name-only HEAD~1 HEAD | grep 'QuickLocalization用汉化文本/' | wc -l) 个文件"
+        git push
+    
+    - name: Check for new directories
+      if: steps.check_changes.outputs.no_changes == 'false'
+      run: |
+        # 检查脚本退出码，如果为1表示有新目录需要填写描述
+        if [ $? -eq 1 ]; then
+          echo "⚠️ 发现新目录需要填写描述，请查看提交并手动更新描述"
+          # 这里可以添加创建Issue的逻辑
+        fi
