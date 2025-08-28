@@ -6538,5 +6538,296 @@ Be Understanding: Necromancy by itself is not evil and you understand this. You 
         {
             "Key": "HomebrewArchtypes_MythicAbilityRelentlessSneaksDesc", 
             "zhCN": "当偷袭成功命中目标时，获得当轮成功偷袭次数乘以1d6的额外偷袭伤害，效果持续到下一轮开始。"
-        }
+        },
+        {
+            "Key": "HomebrewArchtypes_WizardArchetypeBladesingerName", 
+            "zhCN": "剑咏者"
+        },{
+        "Key": "HomebrewArchtypes_WizardArchetypeBladesingerDesc",
+        "zhCN": "剑咏者掌握着一种融合了剑术与舞蹈的魔武传统。这一传统最初由精灵所创，现已被非精灵的修行者所采纳，他们尊崇并拓展了精灵之道。\n在战斗中，剑咏者运用一系列繁复而优雅的招式来抵御伤害，并能将魔法引导至剑锋，形成毁灭性的攻击与精妙的防御。许多目睹过剑咏者战斗的人都将其身姿铭记为一生中最为赏心悦目的体验之一——一场由歌咏之刃伴奏的辉煌舞蹈。"
+    },
+    {
+        "Key": "HomebrewArchtypes_WizardArchetypeBladesingerTraininginWarandSongName",
+        "zhCN": "战艺与歌艺训练"
+    },
+    {
+        "Key": "HomebrewArchtypes_WizardArchetypeBladesingerTraininginWarandSongDesc",
+        "zhCN": "剑咏者精通所有简易武器，以及长剑、短剑、细剑和弯刀。剑咏者精通轻甲，且在穿戴任何轻甲时都不会承受施法惩罚。"
+    },
+    {
+        "Key": "HomebrewArchtypes_WizardArchetypeBladesingerBladesongName",
+        "zhCN": "剑歌"
+    },
+    {
+        "Key": "HomebrewArchtypes_WizardArchetypeBladesingerBladesongDesc",
+        "zhCN": "剑歌"
+    },
+    {
+        "Key": "HomebrewArchtypes_WizardArchetypeBladesingerSongofDefenseName",
+        "zhCN": "防御之歌"
+    },
+    {
+        "Key": "HomebrewArchtypes_WizardArchetypeBladesingerSongofDefenseDesc",
+        "zhCN": "防御之歌"
+    },
+    {
+        "Key": "HomebrewArchtypes_WizardArchetypeBladesingerSongofVictoryName",
+        "zhCN": "胜利之歌"
+    },
+    {
+        "Key": "HomebrewArchtypes_WizardArchetypeBladesingerSongofVictoryDesc",
+        "zhCN": "胜利之歌"
+    },
+    {
+        "Key": "HomebrewArchtypes_WizardArchetypeBladesingerBladesongClimaxName",
+        "zhCN": "剑歌高潮"
+    },
+    {
+        "Key": "HomebrewArchtypes_WizardArchetypeBladesingerBladesongClimaxDesc",
+        "zhCN": "剑歌高潮"
+    },
+    {
+        "Key": "HomebrewArchtypes_SwordmasterClassName",
+        "zhCN": "剑主"
+    },
+    {
+        "Key": "HomebrewArchtypes_SwordmasterClassDesc",
+        "zhCN": "完美的剑术需要戒律与激情之间微妙的和谐。戒律带来精准的预判，激情带来灵感与速度。体会过此种和谐的剑士深知它无法被永久维持，而必须不停的追求。正是对这种和谐的不懈追求、对自身与剑刃通明境界的永恒探索，定义了何为剑主。"
+    },
+    {
+        "Key": "HomebrewArchtypes_SwordmasterClassShort",
+        "zhCN": "在单打独斗中，不会有战士士比剑主更令人畏惧。其精妙的佯攻与格挡足以将学艺不精的对手摧枯拉朽，而其钢铁的鋒刃则会在仿佛嘲弄般的交击声中阻拦对手的全部进攻。"
+    },
+    {
+        "Key": "HomebrewArchtypes_SwordmasterClassProficienciesName",
+        "zhCN": "剑主擅长"
+    },
+    {
+        "Key": "HomebrewArchtypes_SwordmasterClassProficienciesDesc",
+        "zhCN": "剑主精通所有简易和军用剑类武器，以及木棍。他们精通轻甲，但不精通盾牌。"
+    },
+    {
+        "Key": "HomebrewArchtypes_SwordmasterClassTactfulDeflectionsName",
+        "zhCN": "巧技偏斜"
+    },
+    {
+        "Key": "HomebrewArchtypes_SwordmasterClassTactfulDeflectionsDesc",
+        "zhCN": "当穿着轻甲或不穿甲、未使用盾牌且仅持用单剑时，剑主在AC上获得等同于其职业等级的偏斜加值（最高为其智力调整值）。若剑主陷入措手不及或因其他原因失去敏捷加值，则也失去此加值。此加值不与决斗家类似能力提供的加值叠加——剑主必须选择其中之一生效。"
+    },
+    {
+        "Key": "HomebrewArchtypes_SwordmasterClassTactfulStrikesName",
+        "zhCN": "巧技打击"
+    },
+    {
+        "Key": "HomebrewArchtypes_SwordmasterClassTactfulStrikesDesc",
+        "zhCN": "当穿着轻甲或不穿甲、未使用盾牌且仅持用单剑时，剑主在使用剑进行攻击检定时可以用敏捷调整值代替力量调整值。巧技打击时剑主的力量调整值不应用于伤害掷骰。若剑主具有力量减值，则该减值的一半（向下取整）应用于巧技打击的攻击检定。"
+    },
+    {
+        "Key": "HomebrewArchtypes_SwordmasterClassArtofSwordplayName",
+        "zhCN": "剑术艺术"
+    },
+    {
+        "Key": "HomebrewArchtypes_SwordmasterClassArtofSwordplayDesc",
+        "zhCN": "剑术艺术"
+    },
+    {
+        "Key": "HomebrewArchtypes_SwordmasterClassSwordArtsName",
+        "zhCN": "剑艺"
+    },
+    {
+        "Key": "HomebrewArchtypes_SwordmasterClassSwordArtsDesc",
+        "zhCN": "剑艺"
+    },
+    {
+        "Key": "HomebrewArchtypes_SwordmasterClassOpenersName",
+        "zhCN": "起手式"
+    },
+    {
+        "Key": "HomebrewArchtypes_SwordmasterClassOpenersDesc",
+        "zhCN": "剑艺按顺序施展，起手式是序列中的第一式。"
+    },
+    {
+        "Key": "HomebrewArchtypes_SwordmasterClassSequitersName",
+        "zhCN": "续连式"
+    },
+    {
+        "Key": "HomebrewArchtypes_SwordmasterClassSequitersDesc",
+        "zhCN": "剑艺按顺序施展，续连式在成功的起手式之后接续。"
+    },
+    {
+        "Key": "HomebrewArchtypes_SwordmasterClassFinishersName",
+        "zhCN": "终结式"
+    },
+    {
+        "Key": "HomebrewArchtypes_SwordmasterClassFinisherDesc",
+        "zhCN": "剑艺按顺序施展，终结式在成功的续连式之后完成整个序列。"
+    },
+    {
+        "Key": "HomebrewArchtypes_SwordmasterClassOpenerMisdirectionName",
+        "zhCN": "误导 (起手式)"
+    },
+    {
+        "Key": "HomebrewArchtypes_SwordmasterClassOpenerMisdirectionDesc",
+        "zhCN": "表演：对范围内能看见你的一个生物进行虚招。\n成功：如同一次成功的虚招，但效果仅应用于你的下一个剑艺。\n窗口：你的下一回合结束。"
+    },
+    {
+        "Key": "HomebrewArchtypes_SwordmasterClassSequiterIncisiveStrikeName",
+        "zhCN": "精准刺击 (续连式)"
+    },
+    {
+        "Key": "HomebrewArchtypes_SwordmasterClassSequiterIncisiveStrikeDesc",
+        "zhCN": "表演：攻击你的目标。\n成功：造成剑艺伤害。\n窗口：直至你的下一回合。"
+    },
+    {
+        "Key": "HomebrewArchtypes_SwordmasterClassFinisherDeadlyArcName",
+        "zhCN": "致命弧光 (终结式)"
+    },
+    {
+        "Key": "HomebrewArchtypes_SwordmasterClassFinisherDeadlyArcDesc",
+        "zhCN": "表演：攻击你的目标。\n成功：造成双倍剑艺伤害。"
+    },
+    {
+        "Key": "HomebrewArchtypes_SwordmasterClassOpenerBeatName",
+        "zhCN": "敲击 (起手式)"
+    },
+    {
+        "Key": "HomebrewArchtypes_SwordmasterClassOpenerBeatDesc",
+        "zhCN": "表演：攻击一个与你体型相差不超过1级的生物。此攻击以接触AC为目标。\n成功：该生物使用由你选择的一把武器进行的攻击检定承受-2减值，持续1轮。此外，你对该生物的下一个剑艺攻击检定获得+1洞察加值，持续至你的下一回合结束。\n窗口：你的回合结束。"
+    },
+    {
+        "Key": "HomebrewArchtypes_SwordmasterClassOpenerThrowSwordName",
+        "zhCN": "投掷剑刃 (起手式)"
+    },
+    {
+        "Key": "HomebrewArchtypes_SwordmasterClassOpenerThrowSwordDesc",
+        "zhCN": "表演：投掷你的武器，视同它是一把匕首。\n成功：造成剑艺伤害。\n窗口：你的回合结束。"
+    },
+    {
+        "Key": "HomebrewArchtypes_SwordmasterClassOpenerWhirlingDefenseName",
+        "zhCN": "旋风防御 (起手式)"
+    },
+    {
+        "Key": "HomebrewArchtypes_SwordmasterClassOpenerWhirlingDefenseDesc",
+        "zhCN": "效果：你获得AC+4加值。选择一名你能看见的生物。你针对该生物的AC获得额外+4加值。此旋风防御生效期间，你无法获得谨慎战斗或战斗专家的好处。\n特殊：所选生物必须攻击你并失手。\n窗口：你的下一回合结束。"
+    },
+    {
+        "Key": "HomebrewArchtypes_SwordmasterClassOpenerMeasureFailingsName",
+        "zhCN": "衡量弱点 (起手式)"
+    },
+    {
+        "Key": "HomebrewArchtypes_SwordmasterClassOpenerMeasureFailingsDesc",
+        "zhCN": "触发：你在上一回合中对目标造成了伤害。\n成功：你对该敌人的伤害获得等于你智力调整值的加值，持续3轮。\n窗口：你的下一回合结束。"
+    },
+    {
+        "Key": "HomebrewArchtypes_SwordmasterClassOpenerOpportunistFeintName",
+        "zhCN": "投机者虚招 (起手式)"
+    },
+    {
+        "Key": "HomebrewArchtypes_SwordmasterClassOpenerOpportunistFeintDesc",
+        "zhCN": "触发：一名近战中的盟友击中了被夹击的敌人。\n表演：对该敌人使用虚招。\n成功：你与进行夹击的盟友在夹击时获得攻击检定+2加值。\n窗口：你的下一回合结束。"
+    },
+    {
+        "Key": "HomebrewArchtypes_SwordmasterClassOpenerFindTellName",
+        "zhCN": "寻觅破绽 (起手式)"
+    },
+    {
+        "Key": "HomebrewArchtypes_SwordmasterClassOpenerFindTellDesc",
+        "zhCN": "表演：对触及范围内的一个生物使用虚招。\n成功：获得对目标攻击检定的永久+1洞察加值。\n窗口：你的下一回合结束。"
+    },
+    {
+        "Key": "HomebrewArchtypes_BarbarianArchetypeUnarmoredDefenseName",
+        "zhCN": "无甲防御"
+    },
+    {
+        "Key": "HomebrewArchtypes_BarbarianArchetypeUnarmoredDefenseDesc",
+        "zhCN": "当你未穿着任何盔甲时，你的护甲等级等于 10 + 你的敏捷调整值 + 你的体质调整值。"
+    },
+    {
+        "Key": "HomebrewArchtypes_BarbarianArchetypeRageName",
+        "zhCN": "狂暴抗性"
+    },
+    {
+        "Key": "HomebrewArchtypes_BarbarianArchetypeRageDesc",
+        "zhCN": "狂暴时，野蛮人受到的近战和远程攻击伤害减少50%。"
+    },
+    {
+        "Key": "HomebrewArchtypes_BarbarianArchetypeBrutalCriticalName",
+        "zhCN": "致命重击"
+    },
+    {
+        "Key": "HomebrewArchtypes_BarbarianArchetypeBrutalCriticalDesc",
+        "zhCN": "在决定近战攻击重击的额外伤害时，你可以多投一个武器伤害骰。\n此额外骰数在13级时增加至2个，17级时增加至3个。"
+    },
+    {
+        "Key": "HomebrewArchtypes_BarbarianArchetypeFeralInstinctName",
+        "zhCN": "野性直觉"
+    },
+    {
+        "Key": "HomebrewArchtypes_BarbarianArchetypeFeralInstinctDesc",
+        "zhCN": "你的直觉如此敏锐，以至于你可以重掷先攻检定并取两次掷骰中的较高值。"
+    },
+    {
+        "Key": "HomebrewArchtypes_SorcererArchetypeDragonStrengthName",
+        "zhCN": "属性提升——力量 (+2)"
+    },
+    {
+        "Key": "HomebrewArchtypes_SorcererArchetypeDragonStrengthDesc",
+        "zhCN": "随着龙脉术士等级提升，他会愈发显现其先祖的物理特征。在4级、8级、12级和16级时，龙脉术士的角色{g|Encyclopedia:Strength}力量{/g}属性获得+2提升。这些{g|Encyclopedia:Bonus}加值{/g}可叠加。"
+    },
+    {
+        "Key": "HomebrewArchtypes_SorcererArchetypeDragonACName",
+        "zhCN": "天生护甲提升 (+1)"
+    },
+    {
+        "Key": "HomebrewArchtypes_SorcererArchetypeDragonACDesc",
+        "zhCN": "随着皮肤增厚，龙脉术士会愈发显现其先祖的物理特征。在1级及之后每3级，龙脉术士角色现有的{g|Encyclopedia:Armor_Class}AC{/g}天生护甲{g|Encyclopedia:Bonus}加值{/g}（若有）获得+1提升。这些护甲加值可叠加。"
+    },
+    {
+        "Key": "HomebrewArchtypes_SorcererArchetypeDragonConName",
+        "zhCN": "属性提升——体质 (+2)"
+    },
+    {
+        "Key": "HomebrewArchtypes_SorcererArchetypeDragonConDesc",
+        "zhCN": "达到6级、12级和18级时，龙脉术士的角色{g|Encyclopedia:Constitution}体质{/g}属性获得+2提升。"
+    },
+    {
+        "Key": "HomebrewArchtypes_SorcererArchetypeDragonIntName",
+        "zhCN": "属性提升——智力 (+2)"
+    },
+    {
+        "Key": "HomebrewArchtypes_SorcererArchetypeDragonIntDesc",
+        "zhCN": "达到8级和16级时，龙脉术士的角色{g|Encyclopedia:Intelligence}智力{/g}属性获得+2提升。"
+    },
+    {
+        "Key": "HomebrewArchtypes_SorcererArchetypeDragonBlindSenseName",
+        "zhCN": "盲感"
+    },
+    {
+        "Key": "HomebrewArchtypes_SorcererArchetypeDragonBlindSenseDesc",
+        "zhCN": "10级时，龙脉术士获得25尺范围的{g|Encyclopedia:Blindsense}盲感{/g}。利用非视觉感官，龙脉术士可以察觉他无法看见的事物。通常他无需进行{g|Encyclopedia:Perception}感知{/g}{g|Encyclopedia:Check}检定{/g}即可注意并 pinpoint（确定）其盲感范围内生物的位置，只要他与该生物之间有效果线。\n龙脉术士无法看见的对手仍然对他具有全{g|Encyclopedia:Concealment}隐蔽{/g}，且龙脉术士攻击具有隐蔽的敌人时仍有正常的失手几率。具有盲感的生物在对抗无法看见的生物的{g|Encyclopedia:Attack}攻击{/g}时，仍然会失去其{g|Encyclopedia:Dexterity}敏捷{/g}对{g|Encyclopedia:Armor_Class}AC{/g}的{g|Encyclopedia:Bonus}加值{/g}。15级时，此能力的范围增加至50尺。"
+    },
+    {
+        "Key": "HomebrewArchtypes_SorcererArchetypeDragonBiteName",
+        "zhCN": "龙之啃咬"
+    },
+    {
+        "Key": "HomebrewArchtypes_SorcererArchetypeDragonBiteDesc",
+        "zhCN": "2级时，龙脉术士获得一次啃咬攻击。这是一次主要{g|Encyclopedia:NaturalAttack}天生武器攻击{/g}，造成{g|Encyclopedia:Dice}1d6{/g}点{g|Encyclopedia:Damage}伤害{/g}（若龙脉术士为小型则为1d4），加上龙脉术士{g|Encyclopedia:Strength}力量{/g}调整值的1.5倍。达到6级时，此啃咬还会造成1d6点{g|Encyclopedia:Energy_Damage}能量伤害{/g}。伤害类型由龙脉术士的血统决定。"
+    },
+    {
+        "Key": "HomebrewArchtypes_SorcererArchetypeDragonBreathName",
+        "zhCN": "喷吐武器"
+    },
+    {
+        "Key": "HomebrewArchtypes_SorcererArchetypeDragonBreathDesc",
+        "zhCN": "3级时，龙脉术士获得喷吐武器血统能力，即使其等级尚未授予该能力。龙脉术士每提升2级，此能力的使用次数增加一次。一旦其等级高到足以通过血统授予此能力，龙脉术士每日可额外使用一次其喷吐武器。喷吐武器的类型和形状取决于龙脉术士所选择的龙类类型。"
+    },
+    {
+        "Key": "HomebrewArchtypes_SorcererArchetypeDragonFormOneName",
+        "zhCN": "龙形"
+    },
+    {
+        "Key": "HomebrewArchtypes_SorcererArchetypeDragonFormOneDesc",
+        "zhCN": "7级时，龙脉术士可以变身为龙形。此能力效果如同{g|SpellsDragonkindI}龙形 I{/g}法术。14级时，此能力效果如同{g|SpellsDragonkindII}龙形 II{/g}法术，且龙脉术士每日可使用此能力两次。其此效果的{g|Encyclopedia:Caster_Level}施法者等级{/g}等于其龙血血统的有效术士等级。"
+    }
 ]	
