@@ -4,13 +4,13 @@
       "desc": "新增专长 - 小型内容Mod，持续开发中，增加神话羁绊、多种专长和法术",
       "target": "AddedFeats",
       "files": [
-        "Archetypes.json",
+        "Spells.json",
         "ClassFeatures.json",
+        "Homebrew.json",
+        "Archetypes.json",
         "Settings.json",
         "Features.json",
         "BugFixes.json",
-        "Homebrew.json",
-        "Spells.json",
         "Components.json"
       ],
       "lastUpdate": "2025-08-27T08:47:49.000000+0800"
@@ -30,10 +30,10 @@
         "UI.json",
         "LegendaryGifts.json",
         "Abilities.json",
-        "LegendaryWeapon.json",
+        "Settings.json",
         "LegendaryArmor.json",
         "Attunement.json",
-        "Settings.json",
+        "LegendaryWeapon.json",
         "Items.json"
       ],
       "lastUpdate": "2023-11-25T22:26:00.000000+0800"
@@ -74,14 +74,14 @@
       "desc": "CO+扩展 - 大型MOD，增加很多新内容，法术专长为主，包括多种变体和职业特性",
       "target": "CharacterOptionsPlus(Fix)",
       "files": [
-        "Feats.json",
-        "Archetypes.json",
+        "Spells.json",
         "ClassFeatures.json",
+        "Homebrew.json",
+        "Archetypes.json",
         "Settings.json",
         "BugFixes.json",
-        "Homebrew.json",
-        "Spells.json",
-        "Components.json"
+        "Components.json",
+        "Feats.json"
       ],
       "lastUpdate": "2023-12-01T22:29:16.000000+0800"
     },
@@ -154,10 +154,10 @@
       "target": "HomebrewArchetypes(Fix)",
       "files": [
         "zhCN.json",
-        "NinjazhCN.json",
-        "ACTestingGrounds.json"
+        "ACTestingGrounds.json",
+        "NinjazhCN.json"
       ],
-      "lastUpdate": "2025-03-21T12:11:07.000000+0800"
+      "lastUpdate": "2025-08-28T21:05:24.000000+0800"
     },
     {
       "desc": "3.5e邪术师 - 移植并改编DND3.5E的邪术师到WOTR，增加原邪术师职业和相关专长",
@@ -187,11 +187,11 @@
       "desc": "催眠师 - 增加催眠师职业及变体：迷踪侠、欺诈怪客等",
       "target": "Mesmerist",
       "files": [
-        "Archetypes.json",
         "ClassFeatures.json",
+        "Homebrew.json",
+        "Archetypes.json",
         "Settings.json",
-        "Features.json",
-        "Homebrew.json"
+        "Features.json"
       ],
       "lastUpdate": "2024-08-02T12:07:46.000000+0800"
     },
@@ -281,13 +281,13 @@
       "desc": "施法者变体 - 新增多种施法者职业的变体选项",
       "target": "TransfiguredCasterArchetypes",
       "files": [
-        "Feats.json",
-        "Classes.json",
-        "Archetypes.json",
-        "ClassFeatures.json",
-        "Settings.json",
         "Weapons.json",
-        "Homebrew.json"
+        "ClassFeatures.json",
+        "Classes.json",
+        "Homebrew.json",
+        "Archetypes.json",
+        "Settings.json",
+        "Feats.json"
       ],
       "lastUpdate": "2023-11-25T22:27:59.000000+0800"
     },
@@ -295,14 +295,14 @@
       "desc": "召唤师 - 添加召唤师职业，包含进化召唤神话能力和相关法术",
       "target": "WOTR_MAKING_FRIENDS",
       "files": [
-        "Other.json",
-        "Units.json",
+        "Spells.json",
         "Scrolls.json",
-        "Settings.json",
-        "CharacterClasses.json",
-        "Features.json",
+        "Other.json",
         "Progression.json",
-        "Spells.json"
+        "Settings.json",
+        "Features.json",
+        "Units.json",
+        "CharacterClasses.json"
       ],
       "lastUpdate": "2025-02-02T19:06:54.000000+0800"
     },
@@ -310,8 +310,8 @@
       "desc": "金龙/恶魔/魔鬼重做 - 对神话道途进行重制和平衡调整",
       "target": "WOTR_PATH_OF_XXX",
       "files": [
-        "WOTR_PATH_OF_BLING.json",
         "WOTR_PATH_OF_RAGE.json",
+        "WOTR_PATH_OF_BLING.json",
         "WOTR_PATH_OF_HELL.json"
       ],
       "lastUpdate": "2024-05-01T17:25:42.000000+0800"
