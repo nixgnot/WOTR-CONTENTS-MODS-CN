@@ -1702,5 +1702,149 @@
     "ProcessTemplates": false,
     "enGB": "A Juggernaut is proficient with simple and martial weapons, and shields.",
     "zhCN": "主宰擅长简易和军用武器，还有盾牌。"
+  },
+   {
+    "Key": "AmberSpindleItem.name",
+    "ProcessTemplates": false,
+    "enGB": "Amber Spindle - Ioun Stone",
+    "zhCN": "琥珀纺锤 - 艾恩石"
+  },
+  {
+    "Key": "AmberSpindleItem.description",
+    "ProcessTemplates": false,
+    "enGB": "This stone grants you a +1 resistance bonus on saving throws. The bonuses from multiple amber spindles stack  (up to a maximum of a +5 resistance bonus to saving throws).",
+    "zhCN": "这块石头使你在豁免检定上获得+1抗力加值。多个琥珀纺锤的加值可叠加（最高为豁免检定提供+5抗力加值）。"
+  },
+  {
+    "Key": "CrimsonSphereItem.name",
+    "ProcessTemplates": false,
+    "enGB": "Crimson Sphere - Ioun Stone",
+    "zhCN": "深红圆石 - 艾恩石"
+  },
+  {
+    "Key": "CrimsonSphereItem.description",
+    "ProcessTemplates": false,
+    "enGB": "This stone grants you a +2 enhancement bonus to Intelligence. The bonuses from multiple crimson spheres stack (up to a maximum of a +10 enhancement bonus to Intelligence).",
+    "zhCN": "这块石头使你的智力获得+2增强加值。多个深红圆石的加值可叠加（最高为智力提供+10增强加值）。"
+  },
+  {
+    "Key": "DarkBlueRhomboidItem.name",
+    "ProcessTemplates": false,
+    "enGB": "Dark Blue Rhomboid - Ioun Stone",
+    "zhCN": "暗蓝菱形石 - 艾恩石"
+  },
+  {
+    "Key": "DarkBlueRhomboidItem.description",
+    "ProcessTemplates": false,
+    "enGB": "This stone grants the wearer the effects of the Alertness feat.",
+    "zhCN": "这块石头赋予佩戴者“警觉”专长的效果。"
+  },
+  {
+    "Key": "DeepRedSphereItem.name",
+    "ProcessTemplates": false,
+    "enGB": "Deep Red Sphere - Ioun Stone",
+    "zhCN": "暗红圆石 - 艾恩石"
+  },
+  {
+    "Key": "DeepRedSphereItem.description",
+    "ProcessTemplates": false,
+    "enGB": "This stone grants you a +2 enhancement bonus to Dexterity. The bonuses from multiple crimson spheres stack (up to a maximum of a +10 enhancement bonus to Dexterity).",
+    "zhCN": "这块石头使你的敏捷获得+2增强加值。多个深红圆石的加值可叠加（最高为敏捷提供+10增强加值）。"
+  },
+  {
+    "Key": "AmberSpindleBuff.name",
+    "ProcessTemplates": false,
+    "enGB": "Amber Spinder (buff)",
+    "zhCN": "琥珀纺锤 (增益)"
+  },
+  {
+    "Key": "AmberSpindleBuff.description",
+    "ProcessTemplates": false,
+    "enGB": "This stone grants you a +1 resistance bonus on saving throws.",
+    "zhCN": "这块石头使你在豁免检定上获得+1抗力加值。"
+  },
+  {
+    "Key": "CrimsonSphereBuff.name",
+    "ProcessTemplates": false,
+    "enGB": "Crimson Sphere(buff)",
+    "zhCN": "深红圆石 (增益)"
+  },
+  {
+    "Key": "CrimsonSphereBuff.description",
+    "ProcessTemplates": false,
+    "enGB": "This stone grants you a +2 enhancement bonus to Intelligence.",
+    "zhCN": "这块石头使你的智力获得+2增强加值。"
+  },
+  {
+    "Key": "DarkBlueRhomboidBuff.name",
+    "ProcessTemplates": false,
+    "enGB": "Dark Blue Rhomboid (buff)",
+    "zhCN": "暗蓝菱形石 (增益)"
+  },
+  {
+    "Key": "DarkBlueRhomboidBuff.description",
+    "ProcessTemplates": false,
+    "enGB": "This stone grants the wearer the effects of the Alertness feat.",
+    "zhCN": "这块石头赋予佩戴者“警觉”专长的效果。"
+  },
+  {
+    "Key": "DeepRedSphereBuff.name",
+    "ProcessTemplates": false,
+    "enGB": "Deep Red Sphere (buff)",
+    "zhCN": "暗红圆石 (增益)"
+  },
+  {
+    "Key": "DeepRedSphereBuff.description",
+    "ProcessTemplates": false,
+    "enGB": "This stone grants you a +2 enhancement bonus to Dexterity.",
+    "zhCN": "这块石头使你的敏捷获得+2增强加值。"
+  },
+  {
+    "Key": "AmberSpindleAbility.name",
+    "ProcessTemplates": false,
+    "enGB": "Amber Spindle",
+    "zhCN": "琥珀纺锤"
+  },
+  {
+    "Key": "AmberSpindleAbility.description",
+    "ProcessTemplates": false,
+    "enGB": "This stone grants you a +1 resistance bonus on saving throws.",
+    "zhCN": "这块石头使你在豁免检定上获得+1抗力加值。"
+  },
+  {
+    "Key": "CrimsonSphereAbility.name",
+    "ProcessTemplates": false,
+    "enGB": "Crimson Sphere",
+    "zhCN": "深红圆石"
+  },
+  {
+    "Key": "CrimsonSphereAbility.description",
+    "ProcessTemplates": false,
+    "enGB": "This stone grants you a +2 enhancement bonus to Intelligence.",
+    "zhCN": "这块石头使你的智力获得+2增强加值。"
+  },
+  {
+    "Key": "DarkBlueRhomboidAbility.name",
+    "ProcessTemplates": false,
+    "enGB": "Dark Blue Rhomboid",
+    "zhCN": "暗蓝菱形石"
+  },
+  {
+    "Key": "DarkBlueRhomboidAbility.description",
+    "ProcessTemplates": false,
+    "enGB": "This stone grants the wearer the effects of the Alertness feat.",
+    "zhCN": "这块石头赋予佩戴者“警觉”专长的效果。"
+  },
+  {
+    "Key": "DeepRedSphereAbility.name",
+    "ProcessTemplates": false,
+    "enGB": "Deep Red Sphere",
+    "zhCN": "暗红圆石"
+  },
+  {
+    "Key": "DeepRedSphereAbility.description",
+    "ProcessTemplates": false,
+    "enGB": "This stone grants you a +2 enhancement bonus to Dexterity.",
+    "zhCN": "这块石头使你的敏捷获得+2增强加值。"
   }
 ]
