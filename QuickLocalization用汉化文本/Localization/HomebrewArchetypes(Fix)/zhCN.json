@@ -6740,7 +6740,7 @@ Be Understanding: Necromancy by itself is not evil and you understand this. You 
     },
     {
         "Key": "HomebrewArchtypes_BarbarianArchetypeUnarmoredDefenseDesc",
-        "zhCN": "当你未穿着任何盔甲时，你的护甲等级等于 10 + 你的敏捷调整值 + 你的体质调整值。"
+        "zhCN": "当你未穿着任何盔甲时，你的防御等级等于 10 + 你的敏捷调整值 + 你的体质调整值。"
     },
     {
         "Key": "HomebrewArchtypes_BarbarianArchetypeRageName",
@@ -6829,5 +6829,65 @@ Be Understanding: Necromancy by itself is not evil and you understand this. You 
     {
         "Key": "HomebrewArchtypes_SorcererArchetypeDragonFormOneDesc",
         "zhCN": "7级时，龙脉术士可以变身为龙形。此能力效果如同{g|SpellsDragonkindI}龙形 I{/g}法术。14级时，此能力效果如同{g|SpellsDragonkindII}龙形 II{/g}法术，且龙脉术士每日可使用此能力两次。其此效果的{g|Encyclopedia:Caster_Level}施法者等级{/g}等于其龙血血统的有效术士等级。"
+    },
+        {
+            "Key": "HomebrewArchtypes_FighterArchetypeBlackguardName", 
+            "zhCN": "黑暗卫士"
+        },
+        {
+        "Key": "HomebrewArchtypes_FighterArchetypeBlackguardDesc",
+        "zhCN": "极少有邪恶生物会自称邪恶，而敢于公然捍卫邪恶者更是凤毛麟角。这些被选中的少数便是黑暗卫士。黑暗卫士要么信奉邪神，要么拥护暴政，要么坚信邪恶本身是制衡善良的必要存在。他们是大地上的灾厄，所到之处必带来恐惧、苦难与毁灭。许多强大的黑暗卫士会谋求权位——或是统率志同道合的军团，或是掌控城镇都市——以此满足其黑暗欲望。与多数邪恶生物不同，黑暗卫士无所畏惧，并愿为信念赴死。"
+    },
+    {
+        "Key": "HomebrewArchtypes_FighterArchetypeBlackguardProficienciesName",
+        "zhCN": "黑暗卫士擅长"
+    },
+    {
+        "Key": "HomebrewArchtypes_FighterArchetypeBlackguardProficienciesDesc",
+        "zhCN": "黑暗卫士擅长所有简易武器与{g|Encyclopedia:Weapon_Proficiency}军用武器{/g}，所有盔甲类型（重甲、中甲、轻甲）以及盾牌（塔盾除外）。"
+    },
+    {
+        "Key": "HomebrewArchtypes_FighterArchetypeBlackguardSpellCorruptWeaponName",
+        "zhCN": "腐化武器"
+    },
+    {
+        "Key": "HomebrewArchtypes_FighterArchetypeBlackguardSpellCorruptWeaponDesc",
+        "zhCN": "该变化系法术使武器能精准打击敌人。你主手所持武器在穿透{g|Encyclopedia:Damage_Reduction}伤害减免{/g}时被视为魔法武器，同时转变为邪恶阵营武器，可穿透某些善良生物的伤害减免。此外，对敌人发动的所有{g|Encyclopedia:Critical}重击{/g}威胁都会自动确认，即每次威胁均直接转化为重击。"
+    },
+    {
+        "Key": "HomebrewArchtypes_FighterArchetypeBlackguardSpellCorruptWeaponAutoCritDesc",
+        "zhCN": "对敌人进行的所有{g|Encyclopedia:Critical}重击{/g}{g|Encyclopedia:Dice}检定{/g}均自动成功。"
+    },
+    {
+        "Key": "HomebrewArchtypes_FighterArchetypeBlackguardDarkBlessingName",
+        "zhCN": "黑暗祝福"
+    },
+    {
+        "Key": "HomebrewArchtypes_FighterArchetypeBlackguardDarkBlessingDesc",
+        "zhCN": "黑暗卫士将其魅力调整值（若为正值）作为所有豁免检定的加值。"
+    },
+    {
+        "Key": "HomebrewArchtypes_FighterArchetypeBlackguardAuraofDespairName",
+        "zhCN": "绝望灵光"
+    },
+    {
+        "Key": "HomebrewArchtypes_FighterArchetypeBlackguardAuraofDespairDesc",
+        "zhCN": "自3级起，黑暗卫士会散发恶性灵光，使10尺范围内的敌人在所有豁免检定中承受-2惩罚。"
+    },
+    {
+        "Key": "HomebrewArchtypes_FighterArchetypeBlackguardSmiteName",
+        "zhCN": "邪破斩"
+    },
+    {
+        "Key": "HomebrewArchtypes_FighterArchetypeBlackguardSmiteDesc",
+        "zhCN": "每日一次，黑暗卫士可呼唤邪恶之力助其对抗敌人。通过一个{g|Encyclopedia:Swift_Action}迅捷动作{/g}，黑暗卫士选择视线内一个目标发动邪破斩。其对目标进行{g|Encyclopedia:Attack}攻击检定{/g}时获得魅力加值（若有），所有{g|Encyclopedia:Damage}伤害检定{/g}均附加黑暗卫士等级，且破善攻击自动穿透目标可能拥有的任何{g|Encyclopedia:Damage_Reduction}伤害减免{/g}。\n此外，邪破斩生效期间，黑暗卫士对抗目标攻击时，其{g|Encyclopedia:Armor_Class}防御等级{/g}获得等同于魅力调整值（若有）的偏斜{g|Encyclopedia:Bonus}加值{/g}。\n邪破斩效果持续至目标死亡或黑暗卫士选择新目标。4级及之后每三级，黑暗卫士每日可额外使用一次邪破斩。"
+    },
+    {
+        "Key": "HomebrewArchtypes_FighterArchetypeBlackguardVileChampionName",
+        "zhCN": "秽邪冠军"
+    },
+    {
+        "Key": "HomebrewArchtypes_FighterArchetypeBlackguardVileChampionDesc",
+        "zhCN": "20级时，黑暗卫士的邪恶本质使其造成伤害类法术效果大幅增强。其造成伤害类法术将获得强化、增效、瞬发及极效效果，如同同时使用了{g|FeatureBolsteredSpell}强效法术{/g}、{g|FeatureEmpoweredSpell}增效法术{/g}、{g|FeatureQuickenSpell}瞬发法术{/g}和{g|FeatureMaximizeSpell}极效法术{/g}{g|Encyclopedia:Feat}专长{/g}。此外，每日可额外使用5次破邪斩，且黑暗卫士的{g|Encyclopedia:Dexterity}敏捷{/g}、{g|Encyclopedia:Charisma}魅力{/g}与{g|Encyclopedia:Strength}力量{/g}获得+6固有{g|Encyclopedia:Bonus}加值{/g}。"
     }
 ]	
