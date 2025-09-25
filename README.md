@@ -188,7 +188,8 @@
 | [EarlierMythicLevelUps](#EarlierMythicLevelUps) | 更早的神话等级 |  | :heavy_check_mark:  | :+1::+1::+1:| :file_folder: |🛠️||
 | [Ebon's Content Mod](#Ebon'sContentMod) | Ebon的内容mod | QL汉化 | :heavy_check_mark:  | :+1::+1::+1:| :file_folder: |🛠️||
 | [DragonChanges](#DragonChanges) | DragonChanges |  | :heavy_check_mark:  | :+1::+1:| :file_folder: |🛠️||
-
+| [RelationsAndRomances](#RelationsandRomances) | 浪漫事件链    |   N网汉化 |   :heavy_check_mark: | :+1::+1::+1:| :file_folder: |🛠️||
+| [RandomReinforcementsperEncounter](#RandomReinforcementsperEncounter) | 随机遭遇 |  | :heavy_check_mark:  | :+1::+1:| |🛠️||
 
 备注
 + UMM一栏为是否使用UMM安装
@@ -5089,6 +5090,48 @@ C:\Users\你的用户名\AppData\LocalLow\Owlcat Games\Pathfinder Wrath Of The R
 </table>   
 -------------------------------------------
 
+### [RelationsAndRomances](https://www.nexusmods.com/pathfinderwrathoftherighteous/mods/776)
+> *前置：* 无<br>
+> *中文：**[N网汉化](https://www.nexusmods.com/pathfinderwrathoftherighteous/mods/819) by Lyanman**<br>
+> *安装方式：* **UMM**<br>
+> *新增内容：增加6个女性角色的恋爱ppt
+<table>
+<tr><th colspan="3">新增内容</th></tr>
+    <tr><td rowspan="12" style="text-align:center; vertical-align:middle;">新增关系/恋爱</td>
+    <td rowspan="2">诺提库拉</i></td>
+        <td><b>要求:</b> 拥有“亵渎之礼”，未攻击过她，非传奇/金龙道途。</td></tr>
+        <td><b>简介:</b> 在第四、五章通过特殊事件展开，为非邪恶指挥官提供特殊的飞升结局。</td></tr>
+    <td rowspan="2">努拉</td>
+        <td><b>要求:</b> 第二章说服她并放走，指挥官非魔鬼道途。</td></tr>
+        <td><b>简介:</b> 拥有善/恶/混乱三种路线，事件贯穿第三、五章，对巫妖和诡术道途有特殊互动。</td></tr>
+    <td rowspan="2">塔尔贡娜</td>
+        <td><b>要求:</b> 塔尔贡娜存活且双翼完整，恶魔、魔鬼和巫妖道途无法完成。</td></tr>
+        <td><b>简介:</b> 通过分享神话之力治愈她的翅膀来发展关系，对多个神话道途有特殊反应。</td></tr>
+    <td rowspan="2">特伦笛利弗</td>
+        <td><b>要求:</b> 让说书人看过龙鳞，恶魔、魔鬼和巫妖道途无法完成。</td></tr>
+        <td><b>简介:</b> 通过使用龙鳞在不同章节触发回忆，最终结局取决于你如何处置。</td></tr>
+    <td rowspan="2">阿兰卡</td>
+        <td><b>要求:</b> 解锁灵使道途，恶魔、魔鬼和巫妖道途无法完成。</td></tr>
+        <td><b>简介:</b> 灵使专属恋爱线，通过休息事件推进，根据是否保留神器有不同结局。</td></tr>
+    <td rowspan="2">冥娜蛊</td>
+        <td><b>要求:</b> 冥娜蛊脱离巴弗灭麾下。</td></tr>
+        <td><b>简介:</b> 迷你关系线，在第五章通过一系列对话展开，有腐化或尝试救赎等路线。</td></tr>
+    <tr><td rowspan="2">注意</td>
+        <td colspan="2"><b>重要提示:</b> Mod处于Beta测试阶段，强烈建议在触发Mod对话前<b>随时存档</b><td></tr>
+        <tr><td colspan="2"><b>通用限制:</b> 虫群道途无法完成任何事件链，“完全体”巫妖无法完成任何恋爱</td></tr>
+</table>
+
+### [RandomReinforcementsperEncounter](https://www.nexusmods.com/pathfinderwrathoftherighteous/mods/839)
+> *前置：* 无<br>
+> *中文：*umm菜单选项无法汉化<br>
+> *安装方式：* **UMM**<br>
+> *新增内容：* 在回合制战斗开始时添加随机敌人，会根据队伍等级进行调整
++ 自动计算队伍的平均 CR，生成匹配队伍等级的随机敌人
++ 打怪掉经验需要在umm中勾选获得经验
++ 掉落物有随机战利品
++ 可以根据个人要求在umm中调整敌人和战利品的数值
++ 兼容其他mod，但是获得生成的战利品装备后不能中途卸载
+
 ### 功能MOD索引
 + [ToyBox](https://github.com/xADDBx/ToyBox-Wrath) :v::v::v:应该不用介绍？
 + [ModTag](https://github.com/YLMstring/ModTag) mod标记（建议换用ModTagEx）
@@ -5102,4 +5145,5 @@ C:\Users\你的用户名\AppData\LocalLow\Owlcat Games\Pathfinder Wrath Of The R
 + [SpellPouch](https://github.com/Truinto/SpellPouch) :v:图标合一（可以将多个能力合为一个层叠图标便于使用）
 + [FamiliarPlus](https://www.nexusmods.com/pathfinderwrathoftherighteous/mods/192) :v::v:宠物加强（物品小宠物不召唤出来能力也生效）
 + [PuzzleSkip](https://github.com/Balkoth-dev/PuzzleSkip) 跳过部分解谜
+
 
