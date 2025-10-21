@@ -5,13 +5,13 @@
       "target": "AddedFeats",
       "files": [
         "Spells.json",
+        "Components.json",
+        "Features.json",
+        "Settings.json",
         "ClassFeatures.json",
         "Homebrew.json",
-        "Archetypes.json",
-        "Settings.json",
-        "Features.json",
         "BugFixes.json",
-        "Components.json"
+        "Archetypes.json"
       ],
       "lastUpdate": "2025-08-27T08:47:49.000000+0800"
     },
@@ -27,13 +27,13 @@
       "desc": "自动增长加值 - 引入变体规则，角色无需给予加值和属性的物品，将在等级成长过程中自动获得这些加值",
       "target": "AutomaticBonusProgression",
       "files": [
-        "UI.json",
-        "LegendaryGifts.json",
         "Abilities.json",
-        "Settings.json",
-        "LegendaryArmor.json",
         "Attunement.json",
         "LegendaryWeapon.json",
+        "Settings.json",
+        "LegendaryGifts.json",
+        "LegendaryArmor.json",
+        "UI.json",
         "Items.json"
       ],
       "lastUpdate": "2023-11-25T22:26:00.000000+0800"
@@ -75,12 +75,12 @@
       "target": "CharacterOptionsPlus(Fix)",
       "files": [
         "Spells.json",
+        "Components.json",
+        "Settings.json",
         "ClassFeatures.json",
         "Homebrew.json",
-        "Archetypes.json",
-        "Settings.json",
         "BugFixes.json",
-        "Components.json",
+        "Archetypes.json",
         "Feats.json"
       ],
       "lastUpdate": "2023-12-01T22:29:16.000000+0800"
@@ -153,9 +153,9 @@
       "desc": "房规变体 - 提供大量自制的职业变体选项",
       "target": "HomebrewArchetypes(Fix)",
       "files": [
-        "zhCN.json",
         "ACTestingGrounds.json",
-        "NinjazhCN.json"
+        "NinjazhCN.json",
+        "zhCN.json"
       ],
       "lastUpdate": "2025-09-17T19:39:02.000000+0800"
     },
@@ -187,11 +187,11 @@
       "desc": "催眠师 - 增加催眠师职业及变体：迷踪侠、欺诈怪客等",
       "target": "Mesmerist",
       "files": [
+        "Features.json",
+        "Settings.json",
         "ClassFeatures.json",
         "Homebrew.json",
-        "Archetypes.json",
-        "Settings.json",
-        "Features.json"
+        "Archetypes.json"
       ],
       "lastUpdate": "2024-08-02T12:07:46.000000+0800"
     },
@@ -281,12 +281,12 @@
       "desc": "施法者变体 - 新增多种施法者职业的变体选项",
       "target": "TransfiguredCasterArchetypes",
       "files": [
-        "Weapons.json",
-        "ClassFeatures.json",
         "Classes.json",
+        "Settings.json",
+        "ClassFeatures.json",
+        "Weapons.json",
         "Homebrew.json",
         "Archetypes.json",
-        "Settings.json",
         "Feats.json"
       ],
       "lastUpdate": "2023-11-25T22:27:59.000000+0800"
@@ -295,13 +295,13 @@
       "desc": "召唤师 - 添加召唤师职业，包含进化召唤神话能力和相关法术",
       "target": "WOTR_MAKING_FRIENDS",
       "files": [
-        "Spells.json",
         "Scrolls.json",
         "Other.json",
-        "Progression.json",
-        "Settings.json",
+        "Spells.json",
         "Features.json",
         "Units.json",
+        "Settings.json",
+        "Progression.json",
         "CharacterClasses.json"
       ],
       "lastUpdate": "2025-02-02T19:06:54.000000+0800"
@@ -310,9 +310,9 @@
       "desc": "金龙/恶魔/魔鬼重做 - 对神话道途进行重制和平衡调整",
       "target": "WOTR_PATH_OF_XXX",
       "files": [
-        "WOTR_PATH_OF_RAGE.json",
         "WOTR_PATH_OF_BLING.json",
-        "WOTR_PATH_OF_HELL.json"
+        "WOTR_PATH_OF_HELL.json",
+        "WOTR_PATH_OF_RAGE.json"
       ],
       "lastUpdate": "2024-05-01T17:25:42.000000+0800"
     }
@@ -380,7 +380,7 @@
       "files": [
         "LocalizationPack.json"
       ],
-      "lastUpdate": "2024-07-03T00:28:09.000000+0800"
+      "lastUpdate": "2025-10-20T21:15:20.000000+0800"
     },
     {
       "desc": "TTT夹击扩展 - TTT的新扩展附件，主要集中在夹击规则的修改，恢复了桌面规则对夹击角度的要求，同时增加了相关专长",
