@@ -98,7 +98,6 @@
     "zhCN": "可学习九级的武技和战姿",
     "enGB": "Can learn Maneuvers and Stances of Level 9"
   },
-
   {
     "Key": "RecoverManeuvers.Name",
     "ProcessTemplates": false,
@@ -106,9 +105,42 @@
     "enGB": "Recover Maneuvers"
   },
   {
+    "Key": "ParryActive.Name",
+    "ProcessTemplates": false,
+    "zhCN": "招架已激活",
+    "enGB": "Actively Parrying"
+  },
+  {
+    "Key": "ParryActive.Desc",
+    "zhCN": "你已架起防御。",
+    "enGB": "Your guard is up."
+  },
+  {
+    "Key": "CounterAttack.Name",
+    "ProcessTemplates": false,
+    "zhCN": "反击已激活",
+    "enGB": "Actively Counterattacking"
+  },
+  {
+    "Key": "CounterAttack.Desc",
+    "zhCN": "你已架起防御。",
+    "enGB": "Your guard is up."
+  },
+  {
+    "Key": "BonusWeaponFocus.Name",
+    "ProcessTemplates": false,
+    "zhCN": "额外武器专攻",
+    "enGB": "Bonus Weapon Focus"
+  },
+  {
+    "Key": "BonusWeaponFocus.Desc",
+    "zhCN": "专精于使用特定的武器。",
+    "enGB": "Specialise in the use of a weapon."
+  },
+  {
     "Key": "RecoverManeuvers.Desc",
-    "zhCN": "恢复一个已耗竭的武技",
-    "enGB": "Recover one expended Maneuver."
+    "zhCN": "攻击一个敌人，如果命中则恢复2点武技点",
+    "enGB": "Attacks an enemy, if the attack hits restores 2 maneuver points."
   },
   {
     "Key": "ManeuverFocus.Name",
@@ -146,12 +178,12 @@
   {
     "Key": "IronHeartAura.Name",
     "ProcessTemplates": false,
-    "zhCN": "石心之佑",
+    "zhCN": "铁心之佑",
     "enGB": "Iron Heart Aura"
   },
   {
     "Key": "IronHeartAura.Desc",
-    "zhCN": "你的精神力量和武术训练激励着你周围的人。\n效果：当你处于任何铁心姿态时，你周围20尺内的盟友（不包括你自己）豁免检定获得+2士气加值。此外，你所有铁心武技的豁免DC+1。",
+    "zhCN": "你的精神力量和武术训练激励着你周围的人。\n效果：当你处于任何铁心战姿时，你周围20尺内的盟友（不包括你自己）豁免检定获得+2士气加值。此外，你所有铁心武技的豁免DC+1。",
     "enGB": "Your strength of spirit and martial training inspires those around you.\nBenefit: While you are in any Iron Heart stance, allies (not yourself) in a 20ft-circle around you gain +2 morale bonus to saving throws. In addition you add +1 to the Difficulty Class for all saving throws against your Iron Heart maneuvers."
   },
   {
@@ -189,8 +221,51 @@
   },
   {
     "Key": "WhiteRavenDefense.Desc",
-    "zhCN": "当你的白鸦击技命中时，移除30尺范围内盟友困惑、胁迫、情绪、恐惧、震慑和影响心智的状态。此外，你所有白鸦武技的豁免DC+1。",
+    "zhCN": "当你的白鸦击技命中时，移除30尺范围内盟友的困惑、胁迫、情绪、恐惧、战栗以及影响心智的状态。此外，你所有白鸦武技的豁免DC+1。[目前没有白鸦流武技允许进行豁免检定]",
     "enGB": "On hitting with a White Raven strike removes the confused, compulsion, emotion, fear, shaken and mind affecting conditions from allies in a 30 feet radius. In addition you add +1 to the Difficulty Class for all saving throws against your White Raven maneuvers. [Currently no White Raven strike allows a saving throw]"
+  },
+  {
+    "Key": "ShadowPresence.Name",
+    "ProcessTemplates": false,
+    "zhCN": "暗影威仪",
+    "enGB": "Shadow Presence"
+  },
+  {
+    "Key": "ShadowPresence.Desc",
+    "zhCN": "当你处于影手战姿时，你的AC获得+2加值。此外，你所有影手武技的豁免DC+1。",
+    "enGB": "While you are in a Shadow Hand stance you gain +2 AC. In addition you add +1 to the Difficulty Class for all saving throws against your Shadow Hand maneuvers."
+  },
+  {
+    "Key": "EternalMoment.Name",
+    "ProcessTemplates": false,
+    "zhCN": "永恒瞬间",
+    "enGB": "Eternal Moment"
+  },
+  {
+    "Key": "EternalMoment.Desc",
+    "zhCN": "当你的裂时击技命中时，你可以对同一生物进行一次免费攻击。此外，你所有裂时武技的豁免DC+1。",
+    "enGB": "When you hit with a Riven Hourglass strike you can make a free attack against the same creature. In addition you add +1 to the Difficulty Class for all saving throws against your Riven Hourglass maneuvers."
+  },
+  {
+    "Key": "RelentlessSirocco.Name",
+    "ProcessTemplates": false,
+    "zhCN": "无情热风",
+    "enGB": "Relentless Sirocco"
+  },
+  {
+    "Key": "RelentlessSirocco.Desc",
+    "zhCN": "被你武器击中的生物必须进行一次意志豁免检定（DC 17），否则将在10轮内获得火焰易伤。此外，你所有漠风武技的豁免DC+1。",
+    "enGB": "A creature struck by your weapon must make a will save (DC 17) or become vulnerable to fire for 10 rounds. In addition you add +1 to the Difficulty Class for all saving throws against your Desert Wind maneuvers."
+  },
+  {
+    "Key": "RelentlessSirocco.EnchantDesc",
+    "zhCN": "被你武器击中的生物必须进行一次意志豁免检定（DC 17），否则将在10轮内获得火焰易伤。",
+    "enGB": "A creature struck by your weapon must make a will save (DC 17) or become vulnerable to fire for 10 rounds."
+  },
+  {
+    "Key": "RelentlessSirocco.DeBuffDesc",
+    "zhCN": "此生物具有火焰易伤。",
+    "enGB": "This creature is vulnerable to fire."
   },
   {
     "Key": "WarbladeC.Name",
@@ -200,8 +275,8 @@
   },
   {
     "Key": "WarbladeC.Desc",
-    "zhCN": "军道之剑生来就是为了战斗。迅速，强壮，持久并且对于战斗技巧的绝对自信，他寻找值得交战的对手来检验自己。",
-    "enGB": "The warblade was born for conflict. Swift, strong, enduring, and utterly confident in his martial skills, he seeks to test himself against worthy foes."
+    "zhCN": "军道之剑生来就是为了战斗。迅速，强壮，持久并且对于战斗技巧的绝对自信，他寻找值得交战的对手来检验自己。对他而言，战斗是美丽的——那是生命悬于闪亮剑刃之上的完美瞬间。\n\n除了所有近战职业都可以使用的常规武器攻击之外，军道之剑还能使用武技和应对技，并能进入战姿。武技是一种在效果上可以媲美魔法的特殊武器攻击。\n应对技也类似，但需要对敌人的特定状态或动作做出反应。\n\n军道之剑可以使用来自钢魂、铁心、石龙、虎爪和白鸦流派的武技。\n在一级时，每场战斗中可以执行3个武技，随着军道之剑等级的提升，这个数字还会增加。在战斗中，可以通过“恢复武技”能力来恢复可用武技的数量。",
+    "enGB": "The warblade was born for conflict. Swift, strong, enduring, and utterly confident in his martial skills, he seeks to test himself against worthy foes. Battle is beautiful to him - a perfect moment in which life hangs suspended on the bright edge of a sword.\n\nIn addition to normal weapon attacks available to all martial classes warblades can perform maneuvers and counters as well as enter stances. Maneuvers are special weapon attack that rival magic in effect.\nCounters are similar but react to specific conditions or actions performed by enemies.\n\nWarblades have access to maneuvers from the Diamond Mind, Iron Heart, Stone Dragon, Tiger Claw and White Raven disciplines.\nAt level one 3 maneuvers can be performed per battle, this number increases as more warblades levels are taken. During battle the number of available maneuvers can be restored using the Recover Maneuvers ability."
   },
   {
     "Key": "WarbladeProficiencies.Name",
@@ -211,7 +286,7 @@
   },
   {
     "Key": "WarbladeProficiencies.Desc",
-    "zhCN": "军道之剑擅长使用所有简易和军用的近战（包括当做投掷武器使用的武器）武器、轻甲、中甲以及盾牌（塔盾除外）。",
+    "zhCN": "军道之剑擅长使用所有简易和军用近战武器（包括可当做投掷武器使用的武器）、轻甲、中甲以及盾牌（塔盾除外）。",
     "enGB": "You are proficient with simple and martial melee weapons (including those that can be used as thrown weapons), light and medium armor, and all shields except tower shields."
   },
   {
@@ -233,7 +308,7 @@
   },
   {
     "Key": "WarbladeStanceSelection.Desc",
-    "zhCN": "在开始时军道之剑会习得1种来自可选流派的战姿。在第4，第10以及第16级你可以选择一个额外的战姿。不像武技，战姿永不耗竭且不需要准备。所有的已知战姿随时都可以使用，你可以用一个迅捷动作来改变你目前使用的战姿。除非在战姿描述中说明，否则战姿视为特异能力。",
+    "zhCN": "在开始时军道之剑会习得1种来自可选流派的一级战姿。。在第4，第10以及第16级你可以选择一个额外的战姿。不像武技，战姿永不耗竭且不需要准备。所有的已知战姿随时都可以使用，你可以用一个迅捷动作来改变你目前使用的战姿。除非在战姿描述中说明，否则战姿视为特异能力。",
     "enGB": " You begin with knowledge of one 1st level stance from any discipline open to warblades. At 4th, 10th, and 16th level, you can choose additional stances. Unlike maneuvers, stances are not expended, and you do not have to ready them. All the stances you know are available to you at all times, and you can change the stance you are currently using as a swift action. A stance is an extraordinary ability unless otherwise stated in the stance description."
   },
   {
@@ -244,7 +319,7 @@
   },
   {
     "Key": "WeaponAptitude.Desc",
-    "zhCN": "军道之剑将其总军道等级-2作为其战士等级，以便获得{g|Encyclopedia:Feat}专长{/g}。如果其已有战士等级，则这些等级将叠加。",
+    "zhCN": "军道之剑将其总军道等级-2作为其战士等级，以满足获得{g|Encyclopedia:Feat}专长{/g}的前置条件。如果其已有战士等级，则这些等级将叠加。",
     "enGB": "A Warblade counts his total Warblade level -2 as his fighter levels for the purpose of qualifying for {g|Encyclopedia:Feat}feats{/g}. If he has levels in fighter, these levels stack."
   },
   {
@@ -255,7 +330,7 @@
   },
   {
     "Key": "BattleClarityReflex.Desc",
-    "zhCN": "只要你不处于措手不及，你就会在反射豁免获得等同于智力调整值的洞察加值（最高等同于其军道之剑等级）",
+    "zhCN": "只要你不处于措手不及，你就会在反射豁免获得等同于智力调整值的洞察加值（最高等同于你的军道之剑等级）",
     "enGB": "As long as you are not flat-footed, you gain an insight bonus equal to your Intelligence bonus (maximum equals your warblade level) on your Reflex saves."
   },
   {
@@ -299,7 +374,7 @@
   },
   {
     "Key": "BattleMastery.Desc",
-    "zhCN": "当你进行借机攻击时，你将在攻击检定和伤害检定上获得等同于于你智力调整值的洞察加值。",
+    "zhCN": "当你进行借机攻击时，你将在攻击检定和伤害检定上获得等同于你智力调整值的洞察加值。",
     "enGB": "You gain an insight bonus equal to your Intelligence bonus on melee attack rolls and melee damage rolls made whenever you make an attack of opportunity."
   },
   {
@@ -313,7 +388,121 @@
     "zhCN": "20级时，你可以同时启用两种战姿",
     "enGB": "At 20th level, you can have two stances active simultaneously."
   },
-
+  {
+    "Key": "SwordsageC.Name",
+    "ProcessTemplates": false,
+    "zhCN": "贤者之剑",
+    "enGB": "Swordsage"
+  },
+  {
+    "Key": "SwordsageC.Desc",
+    "zhCN": "作为武技的大师，贤者之剑是肉体的宗师——一名藉由九剑之道（Sublime Way）解锁了强大能力的剑之巫师，这些能力中有很多明显具备超自然或魔法的性质。根据所选修流派的不同，一名贤者之剑可能能够穿墙而过、跃起数十尺高、一触即碎巨石，甚至是掌握火焰或暗影的力量。无论其具体接受过何种训练，贤者之剑都模糊了纯粹武力与魔法技巧之间的界限。",
+    "enGB": "A master of martial maneuvers, the sword sage is a physical adept — a blade wizard whose knowledge of the Sublime Way lets him unlock potent abilities, many of which are overtly supernatural or magical in nature. Depending on which disciplines he chooses to study, a swordsage might be capable of walking through walls, leaping dozens of feet into the air, shattering boulders with a single touch, or even mastering the elements of fire or shadow. Whatever his specific training, a swordsage blurs the line between martial prowess and magical skill."
+  },
+  {
+    "Key": "SwordsageProficiencies.Name",
+    "ProcessTemplates": false,
+    "zhCN": "贤者之剑擅长",
+    "enGB": "Swordsage proficiencies"
+  },
+  {
+    "Key": "SwordsageProficiencies.Desc",
+    "zhCN": "你擅长使用所有的简易和军用近战武器（包括那些可以作为投掷武器来使用的武器）以及轻甲，但不擅长盾牌。",
+    "enGB": "You are proficient with simple, martial melee weapons (including those that can be used as thrown weapons) and light armor, but not shields."
+  },
+  {
+    "Key": "SwordsageRecoverManeuvers.Desc",
+    "zhCN": "冥想一轮以恢复所有武技点。",
+    "enGB": "Meditate for a round to restores all maneuver points."
+  },
+  {
+    "Key": "SwordsageManeuverSelection.Name",
+    "ProcessTemplates": false,
+    "zhCN": "贤者之剑武技选择",
+    "enGB": "Swordsage Maneuver Selection"
+  },
+  {
+    "Key": "SwordsageManeuverSelection.Desc",
+    "zhCN": "在开始时贤者之剑会习得6个武技。你可以选择的流派是漠风、钢魂、落日、影手、石龙和虎爪。",
+    "enGB": "You begin your career with knowledge of six martial maneuvers. The disciplines available to you are Desert Wind, Diamond Mind, Setting Sun, Shadow Hand, Stone Dragon and Tiger Claw."
+  },
+  {
+    "Key": "SwordsageStanceSelection.Name",
+    "ProcessTemplates": false,
+    "zhCN": "贤者之剑战姿选择",
+    "enGB": "Swordsage Stance Selection"
+  },
+  {
+    "Key": "SwordsageStanceSelection.Desc",
+    "zhCN": "在开始时贤者之剑会习得1种来自可选流派的1级战姿。在第2，第5，第9，第14以及第20级你可以选择一个额外的战姿。不像武技，战姿永不耗竭且不需要准备。所有的已知战姿随时都可以使用，你可以用一个迅捷动作来改变你目前使用的战姿。除非在战姿描述中说明，否则战姿视为特异能力。\n\n除了所有近战职业都可以使用的常规武器攻击之外，贤者之剑还能使用武技和应对技，并能进入战姿。武技是一种在效果上可以媲美魔法的特殊武器攻击。\n应对技也类似，但需要对敌人的特定状态或动作做出反应。\n\n贤者之剑可以使用来自漠风、钢魂、落日、影手、石龙和虎爪流派的武技。\n在一级时，每场战斗中可以执行4个武技，随着贤者之剑等级的提升，这个数字还会增加。在战斗中，可以通过“恢复武技”能力来恢复可用武技的数量。",
+    "enGB": "You begin with knowledge of one 1st level stance from any discipline open to swordsages. At 2nd, 5th, 9th, 14th, and 20th level, you can choose additional stances. Unlike maneuvers, stances are not expended, and you do not have to ready them. All the stances you know are available to you at all times, and you can change the stance you are currently using as a swift action. A stance is an extraordinary ability unless otherwise stated in the stance description.\n\nIn addition to normal weapon attacks available to all martial classes swordsages can perform maneuvers and counters as well as enter stances. Maneuvers are special weapon attack that rival magic in effect.\nCounters are similar but react to specific conditions or actions performed by enemies.\n\nSwordsages have access to maneuvers from the Desert Wind, Diamond Mind, Setting Sun, shadow Hand, Stone Dragon and Tiger Claw disciplines.\nAt level one 4 maneuvers can be performed per battle, this number increases as more swordsage levels are taken. During battle the number of available maneuvers can be restored using the Recover Maneuvers ability."
+  },
+  {
+    "Key": "SwordsageDisciplineFocusSelection.Name",
+    "ProcessTemplates": false,
+    "zhCN": "贤者之剑流派专攻选择",
+    "enGB": "Swordsage Discipline Focus Selection"
+  },
+  {
+    "Key": "SwordsageDisciplineFocusSelection.Desc",
+    "zhCN": "在1级时，选择一个贤者之剑可用的流派。你将获得该流派的专攻专长。",
+    "enGB": "At level 1 choose a discipline available to Swordsages. You gain the Focus feat for that discipline."
+  },
+  {
+    "Key": "QuickToAct.Name",
+    "ProcessTemplates": false,
+    "zhCN": "动如脱兔",
+    "enGB": "Quick to Act"
+  },
+  {
+    "Key": "QuickToAct.Desc",
+    "zhCN": "你的先攻检定获得+1加值。此加值在第5，第10，第15以及第20级时再增加1。",
+    "enGB": "You gain a +1 bonus on initiative checks. This bonus increases by 1 at 5th, 10th, 15th, and 20th level."
+  },
+  {
+    "Key": "SwordsageACBonus.Name",
+    "ProcessTemplates": false,
+    "zhCN": "流转防御",
+    "enGB": "Flowing Defense"
+  },
+  {
+    "Key": "SwordsageACBonus.Desc",
+    "zhCN": "只要你穿着轻甲并且不使用盾牌，你就可以将你的感知调整值作为加值加到防御等级（AC）上。这种AC加值在对抗接触攻击或者当你处于措手不及状态时也同样有效。但是在陷入无法移动或无助状态时则会失去此加值。",
+    "enGB": "You can add your Wisdom modifier as a bonus to Armor Class, so long as you wear light armor and do not use a shield. This bonus to AC applies even against touch attacks or when you are flat-footed. However, you lose this bonus when you are immobilized or helpless."
+  },
+  {
+    "Key": "SwordInsight.Name",
+    "ProcessTemplates": false,
+    "zhCN": "剑之洞察",
+    "enGB": "Sword Insight"
+  },
+  {
+    "Key": "SwordInsight.Desc",
+    "zhCN": "只要你穿着轻甲并且不使用盾牌，你就可以将你的感知调整值作为攻击加值。",
+    "enGB": "You can add your Wisdom modifier as an Attack Bonus, so long as you wear light armor and do not use a shield."
+  },
+  {
+    "Key": "SwordsageDamageBonus.Name",
+    "ProcessTemplates": false,
+    "zhCN": "洞察之击",
+    "enGB": "Insightful Strikes"
+  },
+  {
+    "Key": "SwordsageDamageBonus.Desc",
+    "zhCN": "你可以将你的感知调整值作为加值加到伤害检定上。",
+    "enGB": "You can add your Wisdom modifier as a bonus on damage rolls."
+  },
+  {
+    "Key": "SwordsageDefensiveStance.Name",
+    "ProcessTemplates": false,
+    "zhCN": "防御战姿",
+    "enGB": "Defensive Swordsage Stance"
+  },
+  {
+    "Key": "SwordsageDefensiveStance.Desc",
+    "zhCN": "你在豁免检定中获得等同于你感知调整值的加值。",
+    "enGB": "You gain a bonus to saving throws equal to your Wisdom Bonus."
+  },
   {
     "Key": "PunishingStance.Name",
     "ProcessTemplates": false,
@@ -322,13 +511,13 @@
   },
   {
     "Key": "PunishingStanceBuff.Description",
-    "zhCN": "流派：铁心\n需求武术家等级：军道之剑 1\n你所有的近战攻击都会额外造成1D6伤害。但在AC上承受-2减值。",
-    "enGB": "Discipline: Iron Heart\nRequired Initiater Level: Warblade 1\nYou deal an extra 1d6 points of damage with all melee attacks and take a -2 penalty to AC."
+    "zhCN": "你所有的近战攻击都会额外造成1d6伤害。但在AC上承受-2减值。",
+    "enGB": "You deal an extra 1d6 points of damage with all melee attacks and take a -2 penalty to AC."
   },
   {
     "Key": "PunishingStance.Description",
-    "zhCN": "当你的对手斩向你毫无防备的腿部和侧面时，你狠狠的用你的武器迎面斩下，从你的战姿中获得额外的力量。当你处于此战姿下时，你所有的近战攻击都会额外造成1D6伤害。但在AC上承受-2减值，因为这是一个牺牲防御性来换取力量的战姿。",
-    "enGB": "You chop down violently with your weapon, lending extra force to your blows. These attacks come at a cost, as your enemies slash at your undefended legs and flanks. While you are in this stance, you deal an extra 1d6 points of damage with all melee attacks. You also take a -2 penalty to AC, because this fighting stance emphasizes power over a defensive posture."
+    "zhCN": "流派：铁心\n需求武术家等级：军道之剑 1\n当你的对手斩向你毫无防备的腿部和侧面时，你狠狠的用你的武器迎面斩下，从你的战姿中获得额外的力量。当你处于此战姿下时，你所有的近战攻击都会额外造成1d6伤害。但在AC上承受-2减值，因为这是一个牺牲防御性来换取力量的战姿。",
+    "enGB": "Discipline: Iron Heart\nRequired Initiater Level: Warblade 1\nYou chop down violently with your weapon, lending extra force to your blows. These attacks come at a cost, as your enemies slash at your undefended legs and flanks. While you are in this stance, you deal an extra 1d6 points of damage with all melee attacks. You also take a -2 penalty to AC, because this fighting stance emphasizes power over a defensive posture."
   },
   {
     "Key": "StoneBones.Name",
@@ -338,7 +527,7 @@
   },
   {
     "Key": "StoneBones.Desc",
-    "zhCN": "流派：石龙\n武技类别:击技\n需求武术家等级：军道之剑 1\n当你使用此武技时，你将进行一次近战攻击，如果这次攻击命中，你获得DR5/精金，持续1轮。",
+    "zhCN": "流派：石龙\n武技类别:击技\n需求武术家等级：军道之剑 1 贤者之剑 1\n当你使用此武技时，你将进行一次近战攻击，如果这次攻击命中，你获得DR5/精金，持续1轮。",
     "enGB": "Discipline: Stone Dragon\nManeuver Type: Strike\nRequired Initiater Level: Warblade 1, Swordsage 1\nWhen you use this maneuver, you make a single melee attack. If this attack hits, you gain damage reduction 5/adamantine for 1 round."
   },
   {
@@ -349,7 +538,7 @@
   },
   {
     "Key": "ChargingMinotaur.Desc",
-    "zhCN": "流派：石龙\n武技类别:强化技\n需求武术家等级：军道之剑 1\n此强化技使你能够在冲锋时进行一次冲撞攻击。移动和冲撞攻击都不会引发借机攻击。如常的处理这次冲撞尝试。如果你的力量检定结果超过对手的结果，你除了将目标击退正常距离外，还会造成相当于2d6+你的力量调整值的钝击伤害。假设你的力量检定足够高，你可以将目标击退超过 5 英尺（与冲撞的正常情况相同，但无需跟随）",
+    "zhCN": "流派：石龙\n武技类别:强化技\n需求武术家等级：军道之剑 1 贤者之剑 1\n此强化技使你能够在冲锋时进行一次冲撞攻击。移动和冲撞攻击都不会引发借机攻击。如常的处理这次冲撞尝试。如果你的力量检定结果超过对手的结果，你除了将目标击退正常距离外，还会造成相当于2d6+你的力量调整值的钝击伤害。假设你的力量检定足够高，你可以将目标击退超过 5尺（与冲撞的正常情况相同，但无需跟随）。",
     "enGB": "Discipline: Stone Dragon\nManeuver Type: Boost\nRequired Initiator Level: Warblade 1, Swordsage 1\nThis boost enables you to make a bull rush attack as part of a charge. Neither the movement nor the bull rush attack provokes attacks of opportunity. Resolve the bull rush attempt normally. If your Strength check exceeds the opponents result, you deal bludgeoning damage equal to 2d6 + your Str modifier in addition to pushing the target back as normal. Assuming your Strength check is high enough, you can push your target back more than 5 feet (as normal for a bull rush, but without having to follow)."
   },
   {
@@ -360,7 +549,7 @@
   },
   {
     "Key": "SteelyStrike.Desc",
-    "zhCN": "流派：铁心\n武技类别:击技\n需求武术家等级：军道之剑 1\n作为此武技的一部分，你进行一次近战攻击。你在这次攻击骰上获得+4的加值，除你的攻击目标以外的敌人在对你的攻击骰上获得+4加值，持续1轮。",
+    "zhCN": "流派：铁心\n武技类别:击技\n需求武术家等级：军道之剑 1\n作为此武技的一部分，你进行一次近战攻击。你在这次攻击检定上获得+4的加值，除你的攻击目标以外的敌人在对你的攻击检定上获得+4加值，持续1轮。",
     "enGB": "Discipline: Iron Heart\nManeuver Type: Strike\nRequired Initiater Level: Warblade 1\nYou make a single melee attack as part of this strike. You gain a +4 bonus on the attack roll. All opponents other than the one you attacked gain a +4 bonus on attack rolls against you for 1 round."
   },
   {
@@ -371,8 +560,8 @@
   },
   {
     "Key": "SapphireNightmareBlade.Desc",
-    "zhCN": "流派：钢魂\n武技类别:击技\n需求武术家等级：军道之剑 1\n作为此武技的一部分，你需要进行一次察觉检定。检定的DC等同目标生物的AC。然后对目标进行一次近战攻击，同样视为此武技的一部分。如果察觉检定成功，那么目标视为对你的攻击措手不及，同时你还可以造成1d6点额外伤害。如果察觉检定失败，那么此攻击命中检定将受到-2的惩罚并造成正常伤害。",
-    "enGB": "Discipline: Diamond Mind\nManeuver Type: Strike\nRequired Initiater Level: Warblade 1, Swordsage 1\nYou attempt a Perception check as part of this maneuver, using the target creatures AC as the DC of the check. You then make a single melee attack against your target. The attack is also part of this maneuver. If your Perception check succeeds,  you deal an extra 1d6 points of damage. If your check fails, your attack is made with a -2 penalty and deals normal damage."
+    "zhCN": "流派：钢魂\n武技类别:击技\n需求武术家等级：军道之剑 1 贤者之剑 1\n作为此武技的一部分，你需要进行一次察觉检定。检定的DC等同目标生物的AC。然后对目标进行一次近战攻击，同样视为此武技的一部分。如果察觉检定成功，你造成额外1d6点伤害。如果察觉检定失败，那么此攻击的命中检定将受到-2的减值并造成正常伤害。",
+    "enGB": "Discipline: Diamond Mind\nManeuver Type: Strike\nRequired Initiator Level: Warblade 1, Swordsage 1\nYou attempt a Perception check as part of this maneuver, using the target creatures AC as the DC of the check. You then make a single melee attack against your target. The attack is also part of this maneuver. If your Perception check succeeds,  you deal an extra 1d6 points of damage. If your check fails, your attack is made with a -2 penalty and deals normal damage."
   },
   {
     "Key": "BolsteringVoice.Name",
@@ -420,7 +609,7 @@
   },
   {
     "Key": "ClawAtTheMoon.Desc",
-    "zhCN": "流派：虎爪\n武技类别:击技\n需求武术家等级：军道之剑 3 贤者之剑 3\n作为此武技的一部分，你进行一次跳跃检定来跳入空中，接着进行一次针对你决定的目标的上身或脖子的近战攻击。跳跃检定的DC相当于目标的AC。如果这次检定成功，你能造成额外2D6伤害。如果这次攻击造成重击威胁，你在确认重击骰上获得+4加值。如果你的检定失败，你仍然能正常攻击，但不会造成额外伤害或在确认重击骰上获得加值。此武技依然视做被消耗。",
+    "zhCN": "流派：虎爪\n武技类别:击技\n需求武术家等级：军道之剑 3 贤者之剑 3\n作为此武技的一部分，你进行一次跳跃检定来跳入空中，接着进行一次针对你决定的目标的上身、面孔或脖子的近战攻击。跳跃检定的DC相当于目标的AC。如果这次检定成功，你能造成额外2d6伤害。如果这次攻击造成重击威胁，你在确认重击检定上获得+4加值。如果你的检定失败，你仍然能正常攻击，但不会造成额外伤害或在确认重击检定上获得加值。此武技依然视做被消耗。",
     "enGB": "Discipline: Tiger Claw\nManeuver Type: Strike\nRequired Initiater Level: Warblade 3, Swordsage 3\nAs part of this maneuver, you attempt a Jump check to leap into the air and make a melee attack that targets your foe's upper body, face, and neck. The Jump check's DC is equal to your target's AC. If this check succeeds, your attack deals an extra 2d6 points of damage. If this attack threatens a critical hit, you gain a +4 bonus on your roll to confirm the critical hit. If your check fails, you can still attack, but you do not deal extra damage or gain a bonus on a roll to confirm a critical hit. The maneuver is still considered expended."
   },
   {
@@ -431,18 +620,18 @@
   },
   {
     "Key": "DisarmingStrike.Desc",
-    "zhCN": "流派：铁心\n武技类别:击技\n需求武术家等级：军道之剑 3 贤者之剑 3\n此武技让你可以同时进行正常攻击和缴械。作为武技的一部分，你进行一次近战攻击，如果这次攻击命中并造成伤害，你能够立刻尝试卸除对手的武器。这次缴械不会导致借机攻击，你的对手也没有机会反过来卸除你的武器。",
+    "zhCN": "流派：铁心\n武技类别:击技\n需求武术家等级：军道之剑 3 贤者之剑 3\n此武技让你可以同时进行正常攻击和缴械。作为武技的一部分，你进行一次近战攻击，如果这次攻击命中并造成伤害，你能够立刻尝试卸除对手的武器。这次缴械不会引发借机攻击，你的对手也没有机会反过来卸除你的武器。",
     "enGB": "Discipline: Iron Heart\nManeuver Type: Strike\nRequired Initiater Level: Warblade 3, Swordsage 3\nThis maneuver allows you to combine a disarm attempt with a normal attack. You make a single melee attack as part of this strike. If this attack hits and deals damage, you can also attempt to disarm your opponent (PH 155). This disarm attempt does not provoke attacks of opportunity, nor is there any risk that your foe can disarm you."
   },
   {
     "Key": "EmeraldRazor.Name",
     "ProcessTemplates": false,
-    "zhCN": "隔山打牛",
+    "zhCN": "翠玉斩",
     "enGB": "Emerald Razor"
   },
   {
     "Key": "EmeraldRazor.Desc",
-    "zhCN": "流派：钢魂\n武技类别:击技\n需求武术家等级：军道之剑 3 贤者之剑 3\n对目标进行一次接触近战攻击，如果命中会造成正常的近战武器伤害。",
+    "zhCN": "流派：钢魂\n武技类别:击技\n需求武术家等级：军道之剑 3 贤者之剑 3\n需求武技：一种钢魂流武技\n对目标进行一次近战接触攻击，如果命中会造成正常的近战武器伤害。",
     "enGB": "Discipline: Diamond Mind\nManeuver Type: Strike\nRequired Initiater Level: Warblade 3, Swordsage 3\nRequired Maneuvers: 1 Diamond Mind\nMake a single touch attack against an opponent. If you hit, you deal normal melee weapon damage."
   },
   {
@@ -453,7 +642,7 @@
   },
   {
     "Key": "MountainHammer.Desc",
-    "zhCN": "流派：石龙\n武技类别:击技\n需求武术家等级：军道之剑 3 贤者之剑 3\n作为此武技的一部分，你进行一次近战攻击，这次攻击造成额外2D6伤害并自动克服伤害减免和硬度。",
+    "zhCN": "流派：石龙\n武技类别:击技\n需求武术家等级：军道之剑 3 贤者之剑 3\n作为此武技的一部分，你进行一次近战攻击，这次攻击造成额外2d6伤害并自动克服伤害减免和硬度。",
     "enGB": "Discipline: Stone Dragon\nManeuver Type: Strike\nRequired Initiater Level: Warblade 3, Swordsage 3\nAs part of this maneuver, you make a single melee attack. This attack deals an extra 2d6 points of damage and automatically overcomes damage reduction and hardness."
   },
   {
@@ -464,7 +653,7 @@
   },
   {
     "Key": "RabidWolfStrike.Desc",
-    "zhCN": "流派：虎爪\n武技类别:击技\n需求武术家等级：军道之剑 3 贤者之剑 3\n作为此武技的一部分，你进行一次近战攻击，你在这次攻击的攻击检定上获得+4加值并额外造成2D6点伤害，同时你在AC上承受-4减值直到下一轮结束。",
+    "zhCN": "流派：虎爪\n武技类别:击技\n需求武术家等级：军道之剑 3 贤者之剑 3\n作为此武技的一部分，你进行一次近战攻击，你在这次攻击的攻击检定上获得+4加值并额外造成2d6点伤害，同时你在AC上承受-4减值直到你下一回合开始时。",
     "enGB": "Discipline: Tiger Claw\nManeuver Type: Strike\nRequired Initiater Level: Warblade 3, Swordsage 3\nAs part of this maneuver, you make a single melee attack. You gain a +4 bonus on this attack roll and deal an extra 2d6 points of damage. You take a -4 penalty to AC until the start of your next turn."
   },
   {
@@ -475,7 +664,7 @@
   },
   {
     "Key": "StoneVise.Desc",
-    "zhCN": "流派：石龙\n武技类别:击技\n需求武术家等级：军道之剑 3 贤者之剑 3\n作为此武技的一部分，你进行一次近战攻击。此次攻击造成额外1d6点伤害。你的攻击还会使目标的速度在1轮内降至0英尺。它可以正常进行其他行动。被击中的生物进行一次强韧豁免（DC= 12+你的力量调整值）成功可以无效此效果，但不能豁免额外伤害。",
+    "zhCN": "流派：石龙\n武技类别:击技\n需求武术家等级：军道之剑 3 贤者之剑 3\n作为此武技的一部分，你进行一次近战攻击。此次攻击造成额外1d6点伤害。你的攻击还会使目标的速度在1轮内降至0尺。它可以正常进行其他行动。被击中的生物进行一次强韧豁免（DC= 12+你的力量调整值）成功可以无效此效果，但不能豁免额外伤害。",
     "enGB": "Discipline: Stone Dragon\nManeuver Type: Strike\nRequired Initiater Level: Warblade 3, Swordsage 3\nAs part of this maneuver, you make a single melee attack. This attack deals an extra 1d6 points of damage. Your attack also drops the target's speed to 0 feet for 1 round. It can otherwise act normally. A successful Fortitude save (DC 12 + your Str modifier) by the creature struck negates the immobilization, but not the extra damage."
   },
   {
@@ -513,7 +702,7 @@
   },
   {
     "Key": "FleshRipper.Desc",
-    "zhCN": "流派：虎爪\n武技类别:击技\n需求武术家等级：军道之剑 5 贤者之剑 5\n需求武技：两种虎爪流武技\n作为此武技的一部分，你进行一次近战攻击。如果这次攻击命中，目标必须通过一个强韧豁免检定（DC= 13+力量调整值）否则将在攻击骰和AC上承受-4罚值，持续1轮。如果你的攻击造成重击，这种惩罚将持续的时间相当于你武器的重击倍数。此武技仅对可以被重击的生物有效。",
+    "zhCN": "流派：虎爪\n武技类别:击技\n需求武术家等级：军道之剑 5 贤者之剑 5\n需求武技：两种虎爪流武技\n作为此武技的一部分，你进行一次近战攻击。如果这次攻击命中，目标必须通过一个强韧豁免检定（DC= 13+力量调整值）否则将在攻击检定和AC上承受-4减值，持续1轮。如果你的攻击造成重击，此减值将持续相当于你武器重击倍数的轮数。此武技仅对可以被重击的生物有效。",
     "enGB": "Discipline: Tiger Claw\nManeuver Type: Strike\nRequired Initiater Level: Warblade 5, Swordsage 5\nRequired Maneuvers: 2 Tiger Claw\nAs part of this maneuver, you make a melee attack against a single opponent. If this attack hits, the target must make a successful Fortitude save (DC 13 + your Str modifier) or take a -4 penalty on attacks and to AC for 1 round. If your attack is a critical hit, these penalties last for a number of rounds equal to your weapon's critical multiplier. This maneuver functions only against creatures that are vulnerable to critical hits."
   },
   {
@@ -524,7 +713,7 @@
   },
   {
     "Key": "LionsRoar.Desc",
-    "zhCN": "流派：虎爪\n武技类别:强化技\n需求武术家等级：军道之剑 5\n需求武技：两种虎爪流武技\n你和60尺内的盟友在伤害掷骰中获得+5士气加成，持续1轮。",
+    "zhCN": "流派：虎爪\n武技类别:强化技\n需求武术家等级：军道之剑 5\n需求武技：两种虎爪流武技\n你和60尺内的盟友在伤害掷骰中获得+5士气加值，持续1轮。",
     "enGB": "Discipline: Tiger Claw\nManeuver Type: Boost\nRequired Initiater Level: Warblade 5\nRequired Maneuvers: 2 Tiger Claw\nYou and allies within 60 feet gain a +5 morale bonus on damage rolls for 1 round."
   },
   {
@@ -546,8 +735,8 @@
   },
   {
     "Key": "BoundingAssault.Desc",
-    "zhCN": "流派：钢魂\n武技类别:击技\n需求武术家等级：军道之剑 7 贤者之剑 7\n需求武技：两种钢魂流武技\n作为此武技的一部分，你进行两次移动动作，在移动结束后，你可以进行一次近战攻击。在此攻击中你获得+2加值。",
-    "enGB": "Discipline: Diamond Mind\nManeuver Type: Strike\nRequired Initiater Level: Warblade 7, Swordsage 7\nRequired Maneuvers: 2 Diamond Mind\nAs part of this maneuver, make a double move. After you move, you can also make a melee attack. You gain a +2 bonus on this attack."
+    "zhCN": "流派：钢魂\n武技类别:击技\n需求武术家等级：军道之剑 7 贤者之剑 7\n需求武技：两种钢魂流武技\n你传送到目标身边并进行一次近战攻击。在此攻击中你获得+2加值。",
+    "enGB": "Discipline: Diamond Mind\nManeuver Type: Strike\nRequired Initiator Level: Warblade 7, Swordsage 7\nRequired Maneuvers: 2 Diamond Mind\nYou teleport next to your target and make an attack with a +2 bonus."
   },
   {
     "Key": "MindStrike.Name",
@@ -557,7 +746,7 @@
   },
   {
     "Key": "MindStrike.Desc",
-    "zhCN": "流派：钢魂\n武技类别:击技\n需求武术家等级：军道之剑 7 贤者之剑 7\n需求武技：两种钢魂流武技\n作为此武技的一部分，你进行一次近战攻击。如果该攻击命中，目标必须进行一次意志豁免检定（DC= 14+角色力量调整值），如果目标没有通过意志豁免检定，将承受1d4点感知伤害。",
+    "zhCN": "流派：钢魂\n武技类别:击技\n需求武术家等级：军道之剑 7 贤者之剑 7\n需求武技：两种钢魂流武技\n作为此武技的一部分，你进行一次近战攻击。如果该攻击命中，目标必须进行一次意志豁免检定（DC= 14+你的力量调整值），如果目标没有通过意志豁免检定，将承受1d4点感知伤害。",
     "enGB": "Discipline: Diamond Mind\nManeuver Type: Strike\nRequired Initiater Level: Warblade 7, Swordsage 7\nRequired Maneuvers: 2 Diamond Mind\nAs part of this maneuver, make a melee attack. If this attack hits, your target must make a Will save (DC 14 + your Str modifier) or take 1d4 points of Wisdom damage."
   },
   {
@@ -568,7 +757,7 @@
   },
   {
     "Key": "MithralTornado.Desc",
-    "zhCN": "流派：铁心\n武技类别:击技\n需求武术家等级：军道之剑 7 贤者之剑 7\n需求武技：两种铁心流武技\n当你使用此武技时，你对所有与你相邻的对手进行一次近战攻击。",
+    "zhCN": "流派：铁心\n武技类别:击技\n需求武术家等级：军道之剑 7\n需求武技：两种铁心流武技\n当你使用此武技时，你对所有与你相邻的对手进行一次近战攻击。",
     "enGB": "Discipline: Iron Heart\nManeuver Type: Strike\nRequired Initiater Level: Warblade 7\nRequired Maneuvers: 2 Iron Heart\nWhen you initiate this strike, you make a melee attack against every opponent adjacent to you."
   },
   {
@@ -579,7 +768,7 @@
   },
   {
     "Key": "OverwhelmingMountainStrike.Desc",
-    "zhCN": "流派：石龙\n武技类别:击技\n需求武术家等级：军道之剑 7 贤者之剑 7\n作为此武技的一部分，你进行一次近战攻击。这次攻击造成2D6点额外伤害，还会使敌人恍惚一轮，除非其成功通过强韧豁免检定（DC= 14+力量调整值）。",
+    "zhCN": "流派：石龙\n武技类别:击技\n需求武术家等级：军道之剑 7 贤者之剑 7\n作为此武技的一部分，你进行一次近战攻击。这次攻击造成2d6点额外伤害，还会使敌人恍惚一轮，除非其成功通过强韧豁免检定（DC= 14+力量调整值）。",
     "enGB": "Discipline: Stone Dragon\nManeuver Type: Strike\nRequired Initiater Level: Warblade 7, Swordsage 7\nAs part of this maneuver, you make a melee attack. This attack deals an extra 2d6 points of damage. Your attack also staggers the target for 1 round unless it makes a successful Fortitude save (DC 14 + your Str modifier)."
   },
   {
@@ -601,7 +790,7 @@
   },
   {
     "Key": "WhiteRavenStrike.Desc",
-    "zhCN": "流派：白鸦\n武技类别:击技\n需求武术家等级：军道之剑 7 贤者之剑 7\n需求武技：一种白鸦流武技\n作为此武技的一部分，你进行一次近战攻击。如果击中，你将造成额外的4d6点伤害，并且目标在下一回合开始前将被视为措手不及。",
+    "zhCN": "流派：白鸦\n武技类别:击技\n需求武术家等级：军道之剑 7\n需求武技：一种白鸦流武技\n作为此武技的一部分，你进行一次近战攻击。如果击中，你将造成额外的4d6点伤害，并且目标在下一回合开始前将被视为措手不及。",
     "enGB": "Discipline: White Raven\nManeuver Type: Strike\nRequired Initiater Level: Warblade 7\nRequired Maneuvers: 1 White Raven\nAs part of this maneuver, you make a single melee attack. If it hits, you deal an extra 4d6 points of damage, and the target is considered flat-footed until the start of his next turn."
   },
   {
@@ -656,7 +845,7 @@
   },
   {
     "Key": "ElderMountainHammer.Desc",
-    "zhCN": "流派：石龙\n武技类别:击技\n需求武术家等级：军道之剑 9 贤者之剑 9\n需求武技：两种石龙流武技\n作为此武技的一部分，你进行一次近战攻击，这次攻击造成额外6D6伤害并自动克服伤害减免和硬度。",
+    "zhCN": "流派：石龙\n武技类别:击技\n需求武术家等级：军道之剑 9 贤者之剑 9\n需求武技：两种石龙流武技\n作为此武技的一部分，你进行一次近战攻击，这次攻击造成额外6d6伤害并自动克服伤害减免和硬度。",
     "enGB": "Discipline: Stone Dragon\nManeuver Type: Strike\nRequired Initiater Level: Warblade 9, Swordsage 9\nRequired Maneuvers: 2 Stone Dragon\nAs part of this maneuver, you make a single melee attack. This attack deals an extra 6d6 points of damage and automatically overcomes damage reduction and hardness."
   },
   {
@@ -678,7 +867,7 @@
   },
   {
     "Key": "HearingTheAir.Desc",
-    "zhCN": "流派：钢魂\n需求武术家等级：军道之剑 9 贤者之剑 9\n需求武技：两种钢魂流武技\n当你处于此战姿中时，你获得30尺盲视，且在感知检定获得+5加值。",
+    "zhCN": "流派：钢魂\n需求武术家等级：军道之剑 9 贤者之剑 9\n需求武技：两种钢魂流武技\n当你处于此战姿中时，你获得30尺盲视，且在察觉检定上获得+5洞察加值。",
     "enGB": "Discipline: Diamond Mind\nRequired Initiater Level: Warblade 9, Swordsage 9\nRequired Maneuvers: 2 Diamond Mind\nWhile you are in this stance, you gain blindsight out to 30 feet and a +5 insight bonus on Perception checks."
   },
   {
@@ -700,7 +889,7 @@
   },
   {
     "Key": "CrushingVise.Desc",
-    "zhCN": "流派：石龙\n武技类别:击技\n需求武术家等级：军道之剑 11 贤者之剑 11\n作为此武技的一部分，你进行一次近战攻击。此次攻击造成额外4d6点伤害。你的攻击还会使目标的速度在1轮内降至0英尺。它可以正常进行其他行动。",
+    "zhCN": "流派：石龙\n武技类别:击技\n需求武术家等级：军道之剑 11 贤者之剑 11\n作为此武技的一部分，你进行一次近战攻击。此次攻击造成额外4d6点伤害。你的攻击还会使目标的速度在1轮内降至0尺。它可以正常进行其他行动。",
     "enGB": "Discipline: Stone Dragon\nManeuver Type: Strike \nRequired Initiater Level: Warblade 11, Swordsage 11\nAs part of this maneuver, you make a melee attack. This attack deals an extra 4d6 points of damage. Your attack also drops the target's speed to 0 feet for 1 round. It can act normally in all other ways."
   },
   {
@@ -717,7 +906,7 @@
   {
     "Key": "IronHeartEndurance.Name",
     "ProcessTemplates": false,
-    "zhCN": "心如铁石",
+    "zhCN": "铁心之韧",
     "enGB": "Iron Heart Endurance"
   },
   {
@@ -733,7 +922,7 @@
   },
   {
     "Key": "IrresistibleMountainStrike.Desc",
-    "zhCN": "流派：石龙\n武技类别:击技\n需求武术家等级：军道之剑 11 贤者之剑 11\n作为此武技的一部分，你进行一次近战攻击。这次攻击造成4D6点额外伤害，还会使敌人恍惚一轮，除非其成功通过强韧豁免检定（DC= 15+力量调整值）。",
+    "zhCN": "流派：石龙\n武技类别:击技\n需求武术家等级：军道之剑 11 贤者之剑 11\n作为此武技的一部分，你进行一次近战攻击。这次攻击造成4d6点额外伤害，还会使敌人恍惚一轮，除非其成功通过强韧豁免检定（DC= 16 +力量调整值）。",
     "enGB": "Discipline: Stone Dragon\nManeuver Type: Strike\nRequired Initiater Level: Warblade 11, Swordsage 11\nAs part of this maneuver, you make a melee attack. This attack deals an extra 4d6 points of damage. Your attack also staggers the target for 1 round unless it makes a successful Fortitude save (DC 16 + your Str modifier)."
   },
   {
@@ -744,7 +933,7 @@
   },
   {
     "Key": "RabidBearStrike.Desc",
-    "zhCN": "流派：虎爪\n武技类别:击技\n需求武术家等级：军道之剑 11 贤者之剑 11\n需求武技：两种虎爪流武技\n作为此武技的一部分，你进行一次近战攻击，你在这次攻击的攻击检定上获得+4加值并能造成额外10D6点伤害，同时你在AC上承受-4减值直到下一轮结束。",
+    "zhCN": "流派：虎爪\n武技类别:击技\n需求武术家等级：军道之剑 11 贤者之剑 11\n需求武技：两种虎爪流武技\n作为此武技的一部分，你进行一次近战攻击，你在这次攻击的攻击检定上获得+4加值并能造成额外10d6点伤害，同时你在AC上承受-4减值直到你下一回合开始时。",
     "enGB": "Discipline: Tiger Claw\nManeuver Type: Strike\nRequired Initiater Level: Warblade 11, Swordsage 11\nRequired Maneuvers: 2 Tiger Claw\nAs part of this maneuver, you make a single melee attack. You gain a +4 bonus on this attack roll and deal an extra 10d6 points of damage. You take a -4 penalty to AC until the start of your next turn."
   },
   {
@@ -766,7 +955,7 @@
   },
   {
     "Key": "AncientMountainHammer.Desc",
-    "zhCN": "流派：石龙\n武技类别:击技\n需求武术家等级：军道之剑 13 贤者之剑 13\n需求武技：三种石龙流武技\n作为此武技的一部分，你进行一次近战攻击。这次攻击造成额外12D6伤害并自动克服伤害减免和硬度。",
+    "zhCN": "流派：石龙\n武技类别:击技\n需求武术家等级：军道之剑 13 贤者之剑 13\n需求武技：三种石龙流武技\n作为此武技的一部分，你进行一次近战攻击。这次攻击造成额外12d6伤害并自动克服伤害减免和硬度。",
     "enGB": "Discipline: Stone Dragon\nManeuver Type: Strike\nRequired Initiater Level: Warblade 13, Swordsage 13\nRequired Maneuvers: 3 Stone Dragon\nAs part of this maneuver, you make a single melee attack. This attack deals an extra 12d6 points of damage and automatically overcomes damage reduction and hardness."
   },
   {
@@ -777,7 +966,7 @@
   },
   {
     "Key": "AvalancheOfBlades.Desc",
-    "zhCN": "流派：钢魂\n武技类别:击技\n需求武术家等级：军道之剑 13\n需求武技：三种钢魂流武技\n作为此武技的一部分，你进行一次近战攻击。如果该攻击命中，你可以对敌人进行一次攻击，但攻击检定承受－4减值。如果这次攻击也命中，你可以对敌人再进行一次攻击，但攻击检定承受－8减值。以此类推，可以进行多次额外攻击，直到攻击未命中为止。",
+    "zhCN": "流派：钢魂\n武技类别:击技\n需求武术家等级：军道之剑 13\n需求武技：三种钢魂流武技\n作为此武技的一部分，你进行一次近战攻击。如果该攻击命中，你可以对敌人进行一次攻击，但攻击检定承受-4减值。如果这次攻击也命中，你可以对敌人再进行一次攻击，但攻击检定承受-8减值。以此类推，可以进行多次额外攻击，直到攻击未命中为止。",
     "enGB": "Discipline: Diamond Mind\nManeuver Type: Strike\nRequired Initiater Level: Warblade 13\nRequired Maneuvers: 3 Diamond Mind\nAs part of this maneuver, you make a single melee attack against an opponent. If that attack hits, you can then make another attack against that foe with a -4 penalty on your attack roll. If that attack hits, you can make another attack against that opponent with a -8 penalty. You continue to make additional attacks, each one with an additional -4 penalty, until you miss."
   },
   {
@@ -788,7 +977,7 @@
   },
   {
     "Key": "ColossusStrike.Desc",
-    "zhCN": "流派：石龙\n武技类别:击技\n需求武术家等级：军道之剑 13\n需求武技：两种种石龙流武技\n作为此武技的一部分，你进行一次近战攻击。此攻击造成额外6D6伤害并且被攻击的生物必须通过一次强韧豁免检定（DC= 17+你的力量调整值），否则将被投出1D4个方格外并跌倒在那里。",
+    "zhCN": "流派：石龙\n武技类别:击技\n需求武术家等级：军道之剑 13\n需求武技：两种石龙流武技\n作为此武技的一部分，你进行一次近战攻击。此攻击造成额外6d6伤害并且被攻击的生物必须通过一次强韧豁免检定（DC= 17+你的力量调整值），否则将被投出1d4个方格外并跌倒在那里。",
     "enGB": "Discipline: Stone Dragon\nManeuver Type: Strike\nRequired Initiater Level: Warblade 13\nRequired Maneuvers: 2 Stone Dragon\nAs part of this maneuver, you make a melee attack against your foe. This attack deals an extra 6d6 points of damage, and the creature struck must succeed on a Fortitude save (DC 17 + your Str modifier) or be hurled 1d4 squares away from you, falling prone in that square."
   },
   {
@@ -799,7 +988,7 @@
   },
   {
     "Key": "FinishingMove.Desc",
-    "zhCN": "流派：铁心\n武技类别:击技\n需求武术家等级：军道之剑 13\n需求武技：三种铁心流武技\n作为此武技的一部分，你进行一次近战攻击。这次攻击将造成额外4D6伤害。如果目标的当前生命值小于它的最大生命值，这次攻击将造成额外6D6伤害而不是4D6，如果它的当前生命值为它的最大生命值的一半或更少，这次攻击将造成14D6额外伤害而不是6D6。",
+    "zhCN": "流派：铁心\n武技类别:击技\n需求武术家等级：军道之剑 13\n需求武技：三种铁心流武技\n作为此武技的一部分，你进行一次近战攻击。这次攻击将造成额外4d6伤害。如果目标的当前生命值小于它的最大生命值，这次攻击将造成额外6d6伤害而不是4d6，如果它的当前生命值为它的最大生命值的一半或更少，这次攻击将造成14d6额外伤害而不是6d6。",
     "enGB": "Discipline: Iron Heart\nManeuver Type: Strike\nRequired Initiater Level: Warblade 13\nRequired Maneuvers: 3 Iron Heart\nAs part of this maneuver, you make a melee attack against a creature. This attack deals an extra 4d6 points of damage. If the target's current hit points are less than its full normal hit points, the attack instead deals an extra 6d6 points of damage. If its hit points are equal to or less than one-half its full normal hit points, the attack instead deals an extra 14d6 points of damage."
   },
   {
@@ -810,7 +999,7 @@
   },
   {
     "Key": "HamstringAttack.Desc",
-    "zhCN": "流派：虎爪\n武技类别:击技\n需求武术家等级：军道之剑 13 贤者之剑 13\n需求武技：三种虎爪流武技\n作为此武技的一部分，你进行一次近战攻击。如果这次攻击命中，除了造成正常伤害外，目标还将受到1D8点敏捷伤害，并在移动速度上-10尺，持续1分钟。成功的强韧豁免检定（DC= 17+你的力量调整值）能使敏捷伤害和移动速度惩罚均减半。",
+    "zhCN": "流派：虎爪\n武技类别:击技\n需求武术家等级：军道之剑 13 贤者之剑 13\n需求武技：三种虎爪流武技\n作为此武技的一部分，你进行一次近战攻击。如果这次攻击命中，除了造成正常伤害外，目标还将受到1d8点敏捷伤害，并在移动速度上承受-10尺的减值，持续1分钟。成功的强韧豁免检定（DC= 17+你的力量调整值）能使敏捷伤害和移动速度惩罚均减半。",
     "enGB": "Discipline: Tiger Claw\nManeuver Type: Strike\nRequired Initiater Level: Warblade 13, Swordsage 13\nRequired Maneuvers: 3 Tiger Claw\nAs part of this maneuver, you make a single melee attack. If this attack hits, it deals damage as normal. In addition, the target takes 1d8 points of Dexterity damage and a -10-foot penalty to speed for 1 minute. A successful Fortitude save (DC 17 + your Str modifier) halves both the Dexterity damage and the speed penalty."
   },
   {
@@ -854,7 +1043,7 @@
   },
   {
     "Key": "SteelWind.Desc",
-    "zhCN": "流派：铁心\n武技类别:击技\n需求武术家等级：军道之剑 1 贤者之剑 1\n当你使用此武技时，你将进行两次次近战攻击，分别攻击两个处于你威胁范围内的敌人。",
+    "zhCN": "流派：铁心\n武技类别:击技\n需求武术家等级：军道之剑 1 贤者之剑 1\n当你使用此武技时，你将进行两次近战攻击，分别攻击两个处于你威胁范围内的敌人。",
     "enGB": "Discipline: Iron Heart\nManeuver Type: Strike\nRequired Initiater Level: Warblade 1, Swordsage 1\nAs you initiate this strike, you make two melee attacks, each against a different foe that you threaten."
   },
   {
@@ -865,7 +1054,7 @@
   },
   {
     "Key": "AdamantineHurricane.Desc",
-    "zhCN": "流派：铁心\n武技类别:击技\n需求武术家等级：军道之剑 15 贤者之剑 15\n需求武技：三种铁心流武技\n当你使用此武技时，你将对每一个处于你威胁范围内的敌人进行两次次近战攻击，这些攻击使用你的最高基础攻击加值且获得+4加值。",
+    "zhCN": "流派：铁心\n武技类别:击技\n需求武术家等级：军道之剑 15\n需求武技：三种铁心流武技\n当你使用此武技时，你将对每一个处于你威胁范围内的敌人进行两次近战攻击，这些攻击使用你的最高基础攻击加值且获得+4加值。",
     "enGB": "Discipline: Iron Heart\nManeuver Type: Strike\nRequired Initiater Level: Warblade 15\nRequired Maneuvers: 3 Iron Heart\nYou make two melee attacks against each adjacent opponent you threaten when you initiate this maneuver. You receive a +4 bonus on each of these attacks, which are otherwise made with your highest attack bonus."
   },
   {
@@ -887,7 +1076,7 @@
   },
   {
     "Key": "EarthstrikeQuake.Desc",
-    "zhCN": "流派：石龙\n武技类别:击技\n需求武术家等级：军道之剑 15 贤者之剑 15\n需求武技：两种石龙流武技\n你通过强力的攻击将气导向大地，使大地产生惊人的震动。在这种武技发动时，任何站在地面上的生物必须通过反射豁免检定（DC= 18+力量调整值）否则将被震倒在地。",
+    "zhCN": "流派：石龙\n武技类别:击技\n需求武术家等级：军道之剑 15 贤者之剑 15\n需求武技：两种石龙流武技\n你通过强力的攻击将气导向大地，使大地产生惊人的震动。在这种武技发动时，20尺范围内任何站在地面上的生物必须通过反射豁免检定（DC= 18+力量调整值）否则将被震倒在地。",
     "enGB": "Discipline: Stone Dragon\nManeuver Type: Strike\nRequired Initiater Level: Warblade 15, Swordsage 15\nRequired Maneuvers: 2 Stone Dragon\nYou channel ki into the earth with your mighty strike, causing the ground to rumble and shake briefly. Anyone in a 20 feet area must make a successful Reflex save (DC 18 + your Str modifier) or be knocked prone."
   },
   {
@@ -910,7 +1099,7 @@
   },
   {
     "Key": "ViciousThrow.Desc",
-    "zhCN": "流派：铁心\n需求武术家等级：军道之剑 5\n需求武技：一种铁心流武技\n将武器投掷向近距离的目标敌人。额外造成2d8额外伤害。攻击后武器会回到你的手中。",
+    "zhCN": "流派：铁心\n需求武术家等级：军道之剑 5\n需求武技：一种铁心流武技\n将武器投掷向中距离的目标敌人。额外造成2d8额外伤害。攻击后武器会回到你的手中。",
     "enGB": "Discipline: Iron Heart\nRequired Initiater Level: Warblade 5\nRequired Maneuvers: 1 Iron Heart\nThrow your weapon at target enemy in medium range. You deal 2d8 extra damage. After the attack the weapon returns to your hand."
   },
   {
@@ -921,7 +1110,7 @@
   },
   {
     "Key": "LightningThrow.Desc",
-    "zhCN": "流派：铁心\n需求武术家等级：军道之剑 15\n需求武技：两种铁心流武技\n当你使用此武技时，你将进行一次近战攻击，此攻击将对30尺范围内的每个生物造成相当于你正常近战伤害的伤害，外带12D6点额外伤害，在攻击范围内的生物可以进行一次反射豁免检定，DC相当于你的攻击骰结果，通过此检定可以使伤害减半。",
+    "zhCN": "流派：铁心\n需求武术家等级：军道之剑 15\n需求武技：两种铁心流武技\n当你使用此武技时，你将进行一次近战攻击，此攻击将对30尺线形范围内的每个生物造成相当于你正常近战伤害的伤害，外加12d6点额外伤害，在攻击范围内的生物可以进行一次反射豁免检定，DC相当于你的攻击检定结果，通过此检定可以使伤害减半。",
     "enGB": "Discipline: Iron Heart\nRequired Initiater Level: Warblade 15\nRequired Maneuvers: 2 Iron Heart\nWhen you use this strike, you make a single melee attack. You deal damage to each creature in a 30 foot line equal to your normal melee damage, plus an extra 12d6 points of damage. Each creature in the attack's area can make a Reflex save with a DC equal to the result of your attack roll. A successful save halves the damage dealt."
   },
   {
@@ -954,12 +1143,12 @@
   },
   {
     "Key": "SwarmTactics.Desc",
-    "zhCN": "流派：白鸦\n需求武术家等级：军道之剑 15\n需求武技：一种白鸦流武技\n当你在此战姿中时，相邻敌人将在AC上获得－5减值。",
+    "zhCN": "流派：白鸦\n需求武术家等级：军道之剑 15\n需求武技：一种白鸦流武技\n当你在此战姿中时，相邻敌人将在AC上承受-5减值。",
     "enGB": "Discipline: White Raven\nRequired Initiater Level: Warblade 15\nRequired Maneuvers: 1 White Raven\nWhile you are in this stance adjacent enemies gain -5 to AC."
   },
   {
     "Key": "SwarmTactics.BuffDesc",
-    "zhCN": "在AC上获得－5减值",
+    "zhCN": "在AC上承受-5减值",
     "enGB": "Getting -5 to AC."
   },
   {
@@ -1025,8 +1214,8 @@
   },
   {
     "Key": "WallOfBlades.Desc",
-    "zhCN": "流派：钢魂\n武技类别:应对技\n需求武术家等级：军道之剑 3\n当此应对技激活时，你可以尝试格挡来袭的攻击。当你在一轮内受到第一次攻击时，消耗两个武技点格挡攻击。每次成功的格挡都会为一轮内的后续格挡增加-1减值。",
-    "enGB": "Discipline: Iron Heart\nManeuver Type: Counter\nRequired Initiater Level: Warblade 3\nWhile this counter is active you attempt to parry incoming attacks. Uses two maneuver points when you are being attacked for the first time in a round."
+    "zhCN": "流派：铁心\n武技类别:应对技\n需求武术家等级：军道之剑 3\n当此应对技激活时，你可以尝试格挡来袭的攻击。当你在一轮内受到第一次攻击时，消耗两个武技点格挡攻击，在同一轮内，每次成功的反击都会使后续格挡承受累计的-1减值。",
+    "enGB": "Discipline: Iron Heart\nManeuver Type: Counter\nRequired Initiator Level: Warblade 3\nWhile this counter is active you attempt to parry incoming attacks. Uses two maneuver points when you are being attacked for the first time in a round. Each successful parry adds a cummulative -1 penalty to subsequent parries in the same round."
   },
   {
     "Key": "WallOfBladesBuff.Desc",
@@ -1046,7 +1235,7 @@
   },
   {
     "Key": "LightningRecovery.Desc",
-    "zhCN": "流派：铁心\n武技类别:应对技\n需求武术家等级：军道之剑 7\n如果你的近战攻击检定失败，你可以激活此武技以重掷攻击检定并额外获得+2加值。每次近战攻击检定失败都会消耗一个武技点来重掷检定。",
+    "zhCN": "流派：铁心\n武技类别:应对技\n需求武术家等级：军道之剑 7\n需求武技：两种铁心流武技\n如果你的近战攻击检定失败，你可以激活此武技以重掷攻击检定并额外获得+2加值。每次近战攻击检定失败都会消耗一个武技点来重掷检定。",
     "enGB": "Discipline: Iron Heart\nManeuver Type: Counter\nRequired Initiater Level: Warblade 7\nRequired Maneuvers: 2 Iron Heart\nIf one of your melee attacks misses, you can initiate this maneuver to reroll that attack roll with a +2 bonus. Uses a maneuver point whenever you miss an attack."
   },
   {
@@ -1057,7 +1246,7 @@
   {
     "Key": "IronHeartFocus.Name",
     "ProcessTemplates": false,
-    "zhCN": "心如铁石已激活",
+    "zhCN": "心如铁石",
     "enGB": "Iron Heart Focus"
   },
   {
@@ -1083,7 +1272,7 @@
   },
   {
     "Key": "RapidCounter.Desc",
-    "zhCN": "流派：钢魂\n武技类别:应对技\n需求武术家等级：军道之剑 9 贤者之剑 9\n当此应对技激活时，你在一轮内可以进行无限次借机攻击次数。当你在一轮内第一次消耗光借机攻击次数时时，消耗一个武技点激活此效果。",
+    "zhCN": "流派：钢魂\n武技类别:应对技\n需求武术家等级：军道之剑 9 贤者之剑 9\n当此应对技激活时，你在一轮内可以进行无限次借机攻击次数。当你在一轮内第一次消耗光借机攻击次数时，消耗一个武技点激活此效果。",
     "enGB": "Discipline: Diamond Mind\nManeuver Type: Counter\nRequired Initiater Level: Warblade 9, Swordsage 9\nWhile this counter is active you can make an unlimited amount of attacks of opportunity in a round. Uses a maneuver point when you would run out of attacks of opportunity for the first time in a round."
   },
   {
@@ -1104,8 +1293,8 @@
   },
   {
     "Key": "ManticoreParry.Desc",
-    "zhCN": "流派：铁心\n武技类别:应对技\n需求武术家等级：军道之剑 11\n需求武技：两种铁心流武技\n当此应对技激活时，你可以尝试格挡来袭的攻击，如果格挡成功则将此攻击改为击中相邻的敌人。当你在一轮内受到第一次攻击时，消耗两个武技点格挡攻击。每次成功的格挡都会为一轮内的后续格挡增加-1减值。",
-    "enGB": "Discipline: Iron Heart\nManeuver Type: Counter\nRequired Initiater Level: Warblade 11\nRequired Maneuvers: 2 Iron Heart\nWhile this counter is active you attempt to parry incoming attacks with melee weapon attacks, if your parry succeeds the attacks hits an adjacent enemy instead. Uses two maneuver points when you are being attacked for the first time in a round."
+    "zhCN": "流派：铁心\n武技类别:应对技\n需求武术家等级：军道之剑 11\n需求武技：两种铁心流武技\n当此应对技激活时，你可以尝试格挡来袭的攻击，如果格挡成功则将此攻击改为击中相邻的敌人。当你在一轮内受到第一次攻击时，消耗两个武技点格挡攻击，在同一轮内，每次成功的反击都会使后续格挡承受累计的-1减值。",
+    "enGB": "Discipline: Iron Heart\nManeuver Type: Counter\nRequired Initiator Level: Warblade 11\nRequired Maneuvers: 2 Iron Heart\nWhile this counter is active you attempt to parry incoming attacks with melee weapon attacks, if your parry succeeds the attacks hits an adjacent enemy instead. Uses two maneuver points when you are being attacked for the first time in a round. Each successful parry adds a cummulative -1 penalty to subsequent parries in the same round."
   },
   {
     "Key": "ManticoreParry.LogMsg",
@@ -1120,7 +1309,7 @@
   },
   {
     "Key": "DiamondDefense.Desc",
-    "zhCN": "流派：钢魂\n武技类别:应对技\n需求武术家等级：军道之剑 15 贤者之剑 15\n当此应对技激活时，你在所有豁免上获得+9加值。每轮消耗一个武技点维持此效果。",
+    "zhCN": "流派：钢魂\n武技类别:特殊技\n需求武术家等级：军道之剑 15 贤者之剑 15\n当此特殊技激活时，你在所有豁免上获得+9加值。每轮消耗一个武技点维持此效果。",
     "enGB": "Discipline: Diamond Mind\nManeuver Type: Special\nRequired Initiater Level: Warblade 15, Swordsage 15\nWhile this counter is active you gain +9 on all saves. Uses one maneuver point per round."
   },
   {
@@ -1134,6 +1323,706 @@
     "Key": "WhiteRavenCall.Desc",
     "zhCN": "流派：白鸦\n武技类别:强化技\n需求武术家等级：军道之剑 17\n你和60尺内的盟友在攻击检定、伤害检定、防御等级、豁免和战技防御上获得+5士气加值，持续一轮。",
     "enGB": "Discipline: White Raven\nManeuver Type: Boost\nRequired Initiater Level: Warblade 17\nYou and allies within 60 feet gain a +5 morale bonus on attack rolls, damage rolls, armor class, saves and Combat Maneuver Defense for 1 round."
+  },
+  {
+    "Key": "WhiteRavenCall.BuffDesc",
+    "zhCN": "在攻击检定、伤害检定、防御等级、豁免和战技防御上获得+5士气加值。",
+    "enGB": "+5 morale bonus on attack rolls, damage rolls, armor class, saves and Combat Maneuver Defense."
+  },
+  {
+    "Key": "BlisteringFlourish.Name",
+    "ProcessTemplates": false,
+    "zhCN": "炫目闪",
+    "enGB": "Blistering Flourish"
+  },
+  {
+    "Key": "BlisteringFlourish.Desc",
+    "zhCN": "流派：漠风\n武技类别:击技\n需求武术家等级：贤者之剑 1\n当你使用此武技时，你释放出一阵耀目光芒。此武技范围内除你以外的任何生物都必须进行一次强韧豁免检定（DC= 11 + 你的感知调整值），否则将目眩1分钟。",
+    "enGB": "Discipline: Desert Wind\nManeuver Type: Strike\nRequired Initiator Level: Swordsage 1\nWhen you use this strike, you generate a burst of brilliant light. Any creature other than you caught in this maneuver's area must make a Fortitude save (DC 11 + your Wis modifier) or be dazzled for 1 minute."
+  },
+  {
+    "Key": "BurningBlade.Name",
+    "ProcessTemplates": false,
+    "zhCN": "燃烧之刃",
+    "enGB": "Burning Blade"
+  },
+  {
+    "Key": "BurningBlade.Desc",
+    "zhCN": "流派：漠风\n武技类别:强化技\n需求武术家等级：贤者之剑 1\n当你激活此强化技时，火焰将缠绕在你的近战武器上。在你回合的剩余时间里，你的近战攻击会造成额外1d6点火焰伤害，外加每武术家等级1点火焰伤害。",
+    "enGB": "Discipline: Desert Wind\nManeuver Type: Boost\nRequired Initiator Level: Swordsage 1\nWhen you activate this boost, fire trails from your melee weapon. For the rest of your turn, your melee attacks deal an extra 1d6 points of fire damage +1 point per initiator level."
+  },
+  {
+    "Key": "BurningBladeBuff.Desc",
+    "zhCN": "你的近战攻击会造成额外1d6点火焰伤害，外加每武术家等级1点火焰伤害。",
+    "enGB": "Your melee attacks deal an extra 1d6 points of fire damage +1 point per initiator level."
+  },
+  {
+    "Key": "ChildOfShadow.Name",
+    "ProcessTemplates": false,
+    "zhCN": "战姿·阴影之子",
+    "enGB": "Child of Shadow"
+  },
+  {
+    "Key": "ChildOfShadow.Desc",
+    "zhCN": "流派：影手\n需求武术家等级：贤者之剑 1\n如果在你的回合中你移动了至少10尺，你将在对抗所有近战和远程攻击时获得隐蔽，持续直到你下一回合开始。",
+    "enGB": "Discipline: Shadow Hand\nRequired Initiator Level: Swordsage 1\nIf you move at least 10 feet during your turn, you gain concealment against all melee and ranged attacks until the start of your next turn."
+  },
+  {
+    "Key": "ClingingShadowStrike.Name",
+    "ProcessTemplates": false,
+    "zhCN": "缠影击",
+    "enGB": "Clinging Shadow Strike"
+  },
+  {
+    "Key": "ClingingShadowStrike.Desc",
+    "zhCN": "流派：影手\n武技类别:击技\n需求武术家等级：贤者之剑 1\n你进行一次近战攻击。如果命中，你将造成额外1d6点伤害，且你的对手必须通过一次强韧豁免检定（DC= 11 + 你的感知调整值），否则将目盲1轮。成功的豁免可以免受目盲效果，但不能减免额外伤害。",
+    "enGB": "Discipline: Shadow Hand\nManeuver Type: Strike\nRequired Initiator Level: Swordsage 1\nYou make a single melee attack. If it hits, you deal an extra 1d6 points of damage, and your opponent must make a successful Fortitude save (DC 11 + your Wis modifier) or become blinded for 1 round. A successful save negates the blindness, but not the extra damage."
+  },
+  {
+    "Key": "FlamesBlessing.Name",
+    "ProcessTemplates": false,
+    "zhCN": "战姿·烈焰之赐",
+    "enGB": "Flames Blessing"
+  },
+  {
+    "Key": "FlamesBlessing.Desc",
+    "zhCN": "流派：漠风\n需求武术家等级：贤者之剑 1\n你获得等同于你灵巧技能点数两倍的火焰抗性。",
+    "enGB": "Discipline: Desert Wind\nRequired Initiator Level: Swordsage 1\nYou gain fire resistance equal to twice your ranks in Mobility."
+  },
+  {
+    "Key": "ShadowBladeTechnique.Name",
+    "ProcessTemplates": false,
+    "zhCN": "影刃术",
+    "enGB": "Shadow Blade Technique"
+  },
+  {
+    "Key": "ShadowBladeTechnique.Desc",
+    "zhCN": "流派：影手\n武技类别:击技\n需求武术家等级：贤者之剑 1\n作为此击技的一部分，你要进行第二次攻击检定。如果两次检定都命中，你将造成1d6点额外伤害。如果只有一次检定命中，你造成正常伤害。",
+    "enGB": "Discipline: Shadow Hand\nManeuver Type: Strike\nRequired Initiator Level: Swordsage 1\nMake a second attack roll as part of this strike. If both rolls hit you deal 1d6 extra damage. If one roll hits, you deal normal damage."
+  },
+  {
+    "Key": "CloakOfDeception.Name",
+    "ProcessTemplates": false,
+    "zhCN": "欺诈披风",
+    "enGB": "Cloak of Deception"
+  },
+  {
+    "Key": "CloakOfDeception.Desc",
+    "zhCN": "流派：影手\n武技类别:强化技\n需求武术家等级：贤者之剑 3\n你进入隐形状态，持续直到你的下个回合开始。",
+    "enGB": "Discipline: Shadow Hand\nManeuver Type: Boost\nRequired Initiator Level: Swordsage 3\nYou turn invisible until the start of your next turn."
+  },
+  {
+    "Key": "DrainVitality.Name",
+    "ProcessTemplates": false,
+    "zhCN": "汲取活力",
+    "enGB": "Drain Vitality"
+  },
+  {
+    "Key": "DrainVitality.Desc",
+    "zhCN": "流派：影手\n武技类别:击技\n需求武术家等级：贤者之剑 3\n需求武技：一种影手流武技\n进行一次近战攻击。如果这次攻击命中，你造成正常的近战伤害，且目标必须通过一次强韧豁免检定（DC= 12 + 你的感知调整值），否则将承受2点体质伤害和2点力量伤害。",
+    "enGB": "Discipline: Shadow Hand\nManeuver Type: Strike\nRequired Initiator Level: Swordsage 3\nRequired Maneuvers: 1 Shadow Hand\nMake a single melee attack. If this attack hits, you deal normal melee damage and the target must make a successful Fortitude save (DC 12 + your Wis modifier) or take 2 points of Consitution damage and 2 points of Strength damage."
+  },
+  {
+    "Key": "FireRiposte.Name",
+    "ProcessTemplates": false,
+    "zhCN": "烈焰反击",
+    "enGB": "Fire Riposte"
+  },
+  {
+    "Key": "FireRiposte.Desc",
+    "zhCN": "流派：漠风\n武技类别:应对技\n需求武术家等级：贤者之剑 3\n需求武技：一种漠风流武技\n当此应对技激活时，你尝试对伤害你的生物进行一次近战接触攻击。当你在一轮内受到第一次伤害时，消耗两个武技点。在同一轮内，每次成功的反击都会使后续反击承受累计的-1减值。",
+    "enGB": "Discipline: Desert Wind\nManeuver Type: Counter\nRequired Initiator Level: Swordsage 3\nRequired Maneuvers: 1 Desert Wind\nWhile this counter is active you attempt a melee touch attack against creatures damaging you. Uses two maneuver points when you are damaged for the first time in a round. Each successful counterattack adds a cummulative -1 penalty to subsequent counterattacks in the same round."
+  },
+  {
+    "Key": "FireRiposte.LogMsg",
+    "zhCN": "烈焰反击消耗了一个武技点",
+    "enGB": "Spent 1 maneuver points on Fire Riposte"
+  },
+  {
+    "Key": "WindStride.Name",
+    "ProcessTemplates": false,
+    "zhCN": "御风而行",
+    "enGB": "Wind Stride"
+  },
+  {
+    "Key": "WindStride.Desc",
+    "zhCN": "流派：漠风\n武技类别:强化技\n需求武术家等级：贤者之剑 1\n直到你的回合结束，你的移动速度获得+20尺增强加值。",
+    "enGB": "Discipline: Desert Wind\nManeuver Type: Boost\nRequired Initiator Level: Swordsage 1\nUntil the end of your turn, you gain a +20-foot enhancement bonus to your speed."
+  },
+  {
+    "Key": "FlashingSun.Name",
+    "ProcessTemplates": false,
+    "zhCN": "闪耀之阳",
+    "enGB": "Flashing Sun"
+  },
+  {
+    "Key": "FlashingSun.Desc",
+    "zhCN": "流派：漠风\n武技类别:击技\n需求武术家等级：贤者之剑 3\n需求武技：一种漠风流武技\n作为此武技的一部分，你对单个生物进行一次包含一次额外攻击的整轮攻击。",
+    "enGB": "Discipline: Desert Wind\nManeuver Type: Strike\nRequired Initiator Level: Swordsage 3\nRequired Maneuvers: 1 Desert Wind\nAs part of this maneuver you make a full attack with one additional attack against a single create."
+  },
+  {
+    "Key": "ShadowJaunt.Name",
+    "ProcessTemplates": false,
+    "zhCN": "暗影跳跃",
+    "enGB": "Shadow Jaunt"
+  },
+  {
+    "Key": "ShadowJaunt.Desc",
+    "zhCN": "流派：影手\n武技类别:特殊技\n需求武术家等级：贤者之剑 3\n你消失在一团黑暗之中，并传送到最多50尺外的地方。",
+    "enGB": "Discipline: Shadow Hand\nManeuver Type: Special\nRequired Initiator Level: Swordsage 3\nYou disappear in a cloud of darkness and teleport up to 50 feet away."
+  },
+  {
+    "Key": "HatchlingsFlame.Name",
+    "ProcessTemplates": false,
+    "zhCN": "雏龙之焰",
+    "enGB": "Hatchling's Flame"
+  },
+  {
+    "Key": "HatchlingsFlame.Desc",
+    "zhCN": "流派：漠风\n武技类别:击技\n需求武术家等级：贤者之剑 3\n需求武技：一种漠风流武技\n当你使用此武技时，你释放出一道30尺锥形火焰，造成2d6点火焰伤害。被范围波及的生物可以尝试进行一次反射豁免检定（DC= 12 + 你的感知调整值），成功则伤害减半。",
+    "enGB": "Discipline: Desert Wind\nManeuver Type: Strike\nRequired Initiator Level: Swordsage 3\nRequired Maneuvers: 1 Desert Wind\nWhen you initiate this maneuver, you blast forth a 30ft cone of flame that deals 2d6 points of fire damage. Creatures in the area can attempt Reflex saves (DC 12 + your Wis modifier) for half damage."
+  },
+  {
+    "Key": "DeathMark.Name",
+    "ProcessTemplates": false,
+    "zhCN": "死亡印记",
+    "enGB": "Death Mark"
+  },
+  {
+    "Key": "DeathMark.Desc",
+    "zhCN": "流派：漠风\n武技类别:击技\n需求武术家等级：贤者之剑 5\n当你使用此击技时，你将庞大的炽热能量导入敌人的体内。除了造成正常的近战伤害外，你还会使敌人的身体爆发出一股30尺半径的火焰。范围内除你以外的所有生物（包括你的敌人），将受到6d6点火焰伤害。",
+    "enGB": "Discipline: Desert Wind\nManeuver Type: Strike\nRequired Initiator Level: Swordsage 5\nWhen you use the strike, you channel overwhelming fiery energy into the body of your foe. In addition to dealing normal melee damage with your attack, you cause fire to erupt from your enemy's body in a radius of 30 ft. All creatures in the area, including your enemy, excluding yourself, take 6d6 points of fire damage."
+  },
+  {
+    "Key": "FanTheFlames.Name",
+    "ProcessTemplates": false,
+    "zhCN": "风助火势",
+    "enGB": "Fan the Flames"
+  },
+  {
+    "Key": "FanTheFlames.Desc",
+    "zhCN": "流派：漠风\n武技类别:击技\n需求武术家等级：贤者之剑 5\n需求武技：一种漠风流武技\n你向最远30尺外的一名对手发射一颗拳头大小的炽白火球。如果你的远程接触攻击命中，目标将受到6d6点火焰伤害。",
+    "enGB": "Discipline: Desert Wind\nManeuver Type: Strike\nRequired Initiator Level: Swordsage 5\nRequired Maneuvers: 1 Desert Wind\nYou launch a fist-sized ball of white-hot fire at a single opponent up to 30 ft away. If you make a successful ranged touch attack, your target takes 6d6 points of fire damage."
+  },
+  {
+    "Key": "ShadowGarotte.Name",
+    "ProcessTemplates": false,
+    "zhCN": "暗影绞索",
+    "enGB": "Shadow Garotte"
+  },
+  {
+    "Key": "ShadowGarotte.Desc",
+    "zhCN": "流派：影手\n武技类别:击技\n需求武术家等级：贤者之剑 5\n你制造出一条暗影所化成的绳索掷向对手。绳索紧紧缠绕住目标的喉咙并使其窒息。作为此武技的一部分，你对60尺内的一个生物进行一次远程接触攻击。如果你的攻击命中，你的对手将受到5d6点伤害。此外，它必须通过一次强韧豁免检定（DC= 13 + 你的感知调整值），否则将恍惚直到其下一个回合开始。此击技对构装体和亡灵等非活物无效。",
+    "enGB": "Discipline: Shadow Hand\nManeuver Type: Strike\nRequired Initiator Level: Swordsage 5\nYou create a strand of shadow that you hurl at an opponent. The strand wraps around the target's throat and chokes it. As part of this maneuver, you make a ranged touch attack against a creature within 60 ft. If your attack is successful, your opponent takes 5d6 points of damage. In addition, it must make a successful Fortitude save (DC 13 + your Wis modifier) or become staggered until the start of its next turn. This strike has no effect against nonliving creatures, such as constructs and undead."
+  },
+  {
+    "Key": "StrengthDrainingStrike.Name",
+    "ProcessTemplates": false,
+    "zhCN": "损力击",
+    "enGB": "Strength Draining Strike"
+  },
+  {
+    "Key": "StrengthDrainingStrike.Desc",
+    "zhCN": "流派：影手\n武技类别:击技\n需求武术家等级：贤者之剑 5\n需求武技：一种影手流武技\n作为此武技的一部分，你对一名对手进行一次近战攻击。除了造成正常的近战伤害外，你还将造成4点力量伤害。成功的强韧豁免检定（DC= 13 + 你的感知调整值）可使此力量伤害减半，但对该击技造成的正常近战伤害没有影响。",
+    "enGB": "Discipline: Shadow Hand\nManeuver Type: Strike\nRequired Initiator Level: Swordsage 5\nRequired Maneuvers: 1 Shadow Hand\nAs part of this maneuver, you make a single melee attack against an opponent. In addition to dealing normal melee damage with the attack, you deal 4 points of Strength damage. A successful Fortitude save (DC 13 + your Wis modifier) halves this Strength damage, but has no effect on the normal melee damage you deal with the strike."
+  },
+  {
+    "Key": "ZephyrDance.Name",
+    "ProcessTemplates": false,
+    "zhCN": "西风之舞",
+    "enGB": "Zephyr Dance"
+  },
+  {
+    "Key": "ZephyrDance.Desc",
+    "zhCN": "流派：漠风\n武技类别:应对技\n需求武术家等级：贤者之剑 5\n需求武技：一种漠风流武技\n待定",
+    "enGB": "Discipline: Desert Wind\nManeuver Type: Counter\nRequired Initiator Level: Swordsage 5\nRequired Maneuvers: 1 Desert Wind\ntbd"
+  },
+  {
+    "Key": "ObscuringShadowVeil.Name",
+    "ProcessTemplates": false,
+    "zhCN": "幽影障目",
+    "enGB": "Obscuring Shadow Veil"
+  },
+  {
+    "Key": "ObscuringShadowVeil.Desc",
+    "zhCN": "流派：影手\n武技类别:击技\n需求武术家等级：贤者之剑 7\n需求武技：两种影手流武技\n你进行一次近战攻击。如果命中，你将造成额外5d6点伤害，且你的对手必须通过一次强韧豁免检定（DC= 14 + 你的感知调整值），否则将目盲2轮。成功的豁免可以免受目盲效果，但不能减免额外伤害。",
+    "enGB": "Discipline: Shadow Hand\nManeuver Type: Strike\nRequired Initiator Level: Swordsage 7\nRequired Maneuvers: 2 Shadow Hand\nYou make a single melee attack. If it hits, you deal an extra 5d6 points of damage, and your opponent must make a successful Fortitude save (DC 14 + your Wis modifier) or become blinded for 2 rounds. A successful save negates the blindness, but not the extra damage."
+  },
+  {
+    "Key": "SearingBlade.Name",
+    "ProcessTemplates": false,
+    "zhCN": "灼火之刃",
+    "enGB": "Searing Blade"
+  },
+  {
+    "Key": "SearingBlade.Desc",
+    "zhCN": "流派：漠风\n武技类别:强化技\n需求武术家等级：贤者之剑 7\n需求武技：两种漠风流武技\n当你激活此强化技时，火焰将缠绕在你的近战武器上。在你回合的剩余时间里，你的近战攻击会造成额外2d6点火焰伤害，外加每武术家等级1点火焰伤害。",
+    "enGB": "Discipline: Desert Wind\nManeuver Type: Boost\nRequired Initiator Level: Swordsage 7\nRequired Maneuvers: 2 Desert Wind\nWhen you activate this boost, fire trails from your melee weapon. For the rest of your turn, your melee attacks deal an extra 2d6 points of fire damage +1 point per initiator level."
+  },
+  {
+    "Key": "SearingBladeBuff.Desc",
+    "zhCN": "你的近战攻击会造成额外2d6点火焰伤害，外加每武术家等级1点火焰伤害。",
+    "enGB": "Your melee attacks deal an extra 2d6 points of fire damage +1 point per initiator level."
+  },
+  {
+    "Key": "SearingCharge.Name",
+    "ProcessTemplates": false,
+    "zhCN": "灼火冲锋",
+    "enGB": "Searing Charge"
+  },
+  {
+    "Key": "SearingCharge.Desc",
+    "zhCN": "流派：漠风\n武技类别:强化技\n需求武术家等级：贤者之剑 7\n需求武技：一种漠风流武技\n你在本回合内的下一次冲锋过程中的移动不会引发借机攻击。如果该冲锋攻击命中，它将造成额外5d6点火焰伤害。",
+    "enGB": "Discipline: Desert Wind\nManeuver Type: Boost\nRequired Initiator Level: Swordsage 7\nRequired Maneuvers: 1 Desert Wind\nYour next charge this turn does not provoke attacks of opportunity for moving as part of this charge, if that charge attack hits, it deals an extra 5d6 points of fire damage."
+  },
+  {
+    "Key": "BloodlettingStrike.Name",
+    "ProcessTemplates": false,
+    "zhCN": "放血击",
+    "enGB": "Bloodletting Strike"
+  },
+  {
+    "Key": "BloodlettingStrike.Desc",
+    "zhCN": "流派：影手\n武技类别:击技\n需求武术家等级：贤者之剑 9\n需求武技：两种影手流武技\n作为此武技的一部分，你对一名对手进行一次近战攻击。除了造成正常的近战伤害外，你还将造成4点体质伤害。成功的强韧豁免检定（DC= 15 + 你的感知调整值）可使此体质伤害减半，但对击技造成的正常近战伤害没有影响。",
+    "enGB": "Discipline: Shadow Hand\nManeuver Type: Strike\nRequired Initiator Level: Swordsage 9\nRequired Maneuvers: 2 Shadow Hand\nAs part of this maneuver, you make a single melee attack against an opponent. In addition to dealing normal melee damage with the attack, you deal 4 points of Constitution damage. A successful Fortitude save (DC 15 + your Wis modifier) halves this Constitution damage, but has no effect on the normal melee damage you deal with the strike."
+  },
+  {
+    "Key": "DragonsFlame.Name",
+    "ProcessTemplates": false,
+    "zhCN": "巨龙之焰",
+    "enGB": "Dragon's Flame"
+  },
+  {
+    "Key": "DragonsFlame.Desc",
+    "zhCN": "流派：漠风\n武技类别:击技\n需求武术家等级：贤者之剑 9\n当你使用此武技时，你释放出一道30尺锥形火焰，造成6d6点火焰伤害。被范围波及的生物可以尝试进行一次反射豁免检定（DC= 15 + 你的感知调整值），成功则伤害减半。",
+    "enGB": "Discipline: Desert Wind\nManeuver Type: Strike\nRequired Initiator Level: Swordsage 9\nhen you initiate this maneuver, you blast forth a 30ft cone of flame that deals 6d6 points of fire damage. Creatures in the area can attempt Reflex saves (DC 15 + your Wis modifier) for half damage."
+  },
+  {
+    "Key": "LeapingFlame.Name",
+    "ProcessTemplates": false,
+    "zhCN": "跃动之炎",
+    "enGB": "Leaping Flame"
+  },
+  {
+    "Key": "LeapingFlame.Desc",
+    "zhCN": "流派：漠风\n武技类别:应对技\n需求武术家等级：贤者之剑 9\n需求武技：两种漠风流武技\n当此应对技激活时，若你在一轮内第一次受到攻击，你会立即传送到攻击者相邻的一个空格（最远100尺），然后使用你的武器进行反击。",
+    "enGB": "Discipline: Desert Wind\nManeuver Type: Counter\nRequired Initiator Level: Swordsage 9\nRequired Maneuvers: 2 Desert Wind\nWhile this counter is active you when you are attacked for the first time in a round you instanstly teleport to a space adjacent to your attacker (up to 100 feet), then attack with your weapon."
+  },
+  {
+    "Key": "LingeringInferno.Name",
+    "ProcessTemplates": false,
+    "zhCN": "萦回烈火",
+    "enGB": "Lingering Inferno"
+  },
+  {
+    "Key": "LingeringInferno.Desc",
+    "zhCN": "流派：漠风\n武技类别:击技\n需求武术家等级：贤者之剑 9\n需求武技：两种漠风流武技\n你进行一次近战攻击，造成额外2d6点火焰伤害。此外，如果你的击技命中，附着在你武器上的火焰会束缚在目标身上，使其在接下来的3轮内每轮受到额外2d6点火焰伤害。",
+    "enGB": "Discipline: Desert Wind\nManeuver Type: Strike\nRequired Initiator Level: Swordsage 9\nRequired Maneuvers: 2 Desert Wind\nYou make a single melee attack that deals an extra 2d6 points of fire damage. In addition, if your strike hits, the flames upon your weapon bind to the target, which takes an extra 2d6 points of fire damage each round for 3 rounds."
+  },
+  {
+    "Key": "ShadowStride.Name",
+    "ProcessTemplates": false,
+    "zhCN": "暗影步",
+    "enGB": "Shadow Stride"
+  },
+  {
+    "Key": "ShadowStride.Desc",
+    "zhCN": "流派：影手\n武技类别:特殊技\n需求武术家等级：贤者之剑 9\n施法时间：迅捷动作\n你消失在一团黑暗之中，并传送到最多50尺外的地方。",
+    "enGB": "Discipline: Shadow Hand\nManeuver Type: Special\nRequired Initiator Level: Swordsage 9\nCasting Time: Swift Action\nYou disappear in a cloud of darkness and teleport up to 50 feet away."
+  },
+  {
+    "Key": "InfernoBlade.Name",
+    "ProcessTemplates": false,
+    "zhCN": "炼狱之刃",
+    "enGB": "Inferno Blade"
+  },
+  {
+    "Key": "InfernoBlade.Desc",
+    "zhCN": "流派：漠风\n武技类别:强化技\n需求武术家等级：贤者之剑 13\n当你激活此强化技时，火焰将缠绕在你的近战武器上。在你回合的剩余时间里，你的近战攻击会造成额外3d6点火焰伤害，外加每武术家等级1点火焰伤害。",
+    "enGB": "Discipline: Desert Wind\nManeuver Type: Boost\nRequired Initiator Level: Swordsage 13\nWhen you activate this boost, fire trails from your melee weapon. For the rest of your turn, your melee attacks deal an extra 3d6 points of fire damage +1 point per initiator level."
+  },
+  {
+    "Key": "InfernoBladeBuff.Desc",
+    "zhCN": "你的近战攻击会造成额外3d6点火焰伤害，外加每武术家等级1点火焰伤害。",
+    "enGB": "Your melee attacks deal an extra 3d6 points of fire damage +1 point per initiator level."
+  },
+  {
+    "Key": "ShadowBlink.Name",
+    "ProcessTemplates": false,
+    "zhCN": "暗影闪烁",
+    "enGB": "Shadow Blink"
+  },
+  {
+    "Key": "ShadowBlink.Desc",
+    "zhCN": "流派：影手\n武技类别:特殊技\n需求武术家等级：贤者之剑 13\n施法时间：自由动作\n你消失在一团黑暗之中，并传送到最多50尺外的地方。",
+    "enGB": "Discipline: Shadow Hand\nManeuver Type: Special\nRequired Initiator Level: Swordsage 13\nCasting Time: Free Action\nYou disappear in a cloud of darkness and teleport up to 50 feet away."
+  },
+  {
+    "Key": "EnervatingShadowStrike.Name",
+    "ProcessTemplates": false,
+    "zhCN": "弱能影击",
+    "enGB": "Enervating Shadow Strike"
+  },
+  {
+    "Key": "EnervatingShadowStrike.Desc",
+    "zhCN": "流派：影手\n武技类别:击技\n需求武术家等级：贤者之剑 15\n需求武技：三种影手流武技\n作为此武技的一部分，你进行一次近战攻击。如果命中，目标必须通过一次强韧豁免检定（DC= 18 + 你的感知调整值），否则将承受1d4个负向等级。你同时获得5d4点临时生命值。",
+    "enGB": "Discipline: Shadow Hand\nManeuver Type: Strike\nRequired Initiator Level: Swordsage 15\nRequired Maneuvers: 3 Shadow Hand\nAs part of this maneuver, you make a single melee attack. If this attack hits, the target must make a successful Fortitude save (DC 18 + your Wis modifier) or gain 1d4 negative levels. You gain 5d4 temporary hit points."
+  },
+  {
+    "Key": "WyrmsFlame.Name",
+    "ProcessTemplates": false,
+    "zhCN": "真龙之焰",
+    "enGB": "Wyrm's Flame"
+  },
+  {
+    "Key": "WyrmsFlame.Desc",
+    "zhCN": "流派：漠风\n武技类别:击技\n需求武术家等级：贤者之剑 15\n当你使用此武技时，你释放出一道30尺锥形火焰，造成10d6点火焰伤害。被范围波及的生物可以尝试进行一次反射豁免检定（DC= 18 + 你的感知调整值），成功则伤害减半。",
+    "enGB": "Discipline: Desert Wind\nManeuver Type: Strike\nRequired Initiator Level: Swordsage 15\nhen you initiate this maneuver, you blast forth a 30ft cone of flame that deals 10d6 points of fire damage. Creatures in the area can attempt Reflex saves (DC 18 + your Wis modifier) for half damage."
+  },
+  {
+    "Key": "CreepingIceStrike.Name",
+    "ProcessTemplates": false,
+    "zhCN": "五影寒冰击",
+    "enGB": "Five-Shadow Creeping Ice Enervating Strike"
+  },
+  {
+    "Key": "CreepingIceStrike.Desc",
+    "zhCN": "流派：影手\n武技类别:击技\n需求武术家等级：贤者之剑 17\n需求武技：五种影手流武技\n你进行一次近战攻击，如果命中，你在造成正常近战伤害的同时会额外造成15d6点伤害，并且一道暗影会从你的敌人的心脏蔓延开来，冻结其静脉中的血液。掷一次d20分别参考以下信息，来判定寒冰暗影将扩散到其身体的哪个部位。\n结果为1-7：扩散到腿部。属性伤害：2d6敏捷。特殊效果：移动速度降至0尺。\n结果为8-14：扩散到双臂。属性伤害：2d6力量。特殊效果：所有攻击检定承受-6减值。\n结果为15-20：命中在心脏。属性伤害：2d6敏捷，2d6力量。特殊效果：2d6点体质伤害。\n被该击技击中的敌人必须通过一次强韧豁免检定（DC= 19 + 你的感知调整值）来抵抗这些影响。通过豁免后，该目标不受任何特殊效果影响，并只承受一半的对应属性伤害（但仍需承受正常近战伤害以及额外的15d6点伤害）。",
+    "enGB": "Discipline: Shadow Hand\nManeuver Type: Strike\nRequired Initiator Level: Swordsage 17\nRequired Maneuvers: 5 Shadow Hand\nYou make a single melee attack, if you hit, you deal normal melee damage plus an extra 15d6 points of damage, and a shadow spreads out from your enemy's heart, freezing the blood in his veins. Roll a d20 and refer to the information below to determine toward which point of his body the freezing shadow spreads.\nResult of 1-7: Spreads out to legs. Ability damage: 2d6 Dex. Special effect: Speed is reduced to 0 feet.\nResult of 8-14: Spreads out to arms. Ability damage: 2d6 Str. Special effect: -6 penalty on attack rolls.\nResult of 15-20: Struck in the heart. Ability damage: 2d6 Dex, 2d6 Str. Special effect: 2d6 points of Constitution damage.\nA foe struck by this attack must make a successful Fortitude save (DC 19 + your Wis modifier) to resist its effects. On a successful save, the target ignores any special effect from the attack and takes half the indicated ability damage (but still takes normal melee damage as well as the extra 15d6 points of damage)."
+  },
+  {
+    "Key": "InfernoBlast.Name",
+    "ProcessTemplates": false,
+    "zhCN": "炼狱爆",
+    "enGB": "Inferno Blast"
+  },
+  {
+    "Key": "InfernoBlast.Desc",
+    "zhCN": "流派：漠风\n武技类别:击技\n需求武术家等级：贤者之剑 17\n需求武技：五种漠风流武技\n你对以你为中心60尺爆发范围内的所有生物造成100点火焰伤害。你不会受到自己的炼狱爆伤害。",
+    "enGB": "Discipline: Desert Wind\nManeuver Type: Strike\nRequired Initiator Level: Swordsage 17\nRequired Maneuvers: 5 Desert Wind\nYou deal 100 points of fire damage to all creatures in a 60-ft.-radius burst centered on you. You are not harmed by your own inferno blast."
+  },
+  {
+    "Key": "DeepShadowAura.Name",
+    "ProcessTemplates": false,
+    "zhCN": "战姿·深影光环",
+    "enGB": "Deep Shadow Aura"
+  },
+  {
+    "Key": "DeepShadowAura.Desc",
+    "zhCN": "流派：影手\n需求武术家等级：贤者之剑 9\n需求武技：一种影手流武技\n当你维持此战姿时，40尺内的所有对手在豁免检定上承受-4减值。",
+    "enGB": "Discipline: Shadow Hand\nRequired Initiator Level: Swordsage 9\nRequired Maneuvers: 1 Shadow Hand\nWhile you maintain this stance, all opponents within 40ft take a -4 penalty on saving throws."
+  },
+  {
+    "Key": "DeepShadowAura.BuffDesc",
+    "zhCN": "在豁免检定上承受-4减值。",
+    "enGB": "-4 to saving throws"
+  },
+  {
+    "Key": "MinuteHand.Name",
+    "ProcessTemplates": false,
+    "zhCN": "分针击",
+    "enGB": "Minute Hand"
+  },
+  {
+    "Key": "MinuteHand.Desc",
+    "zhCN": "流派：裂时\n武技类别:击技\n需求武术家等级：贤者之剑 1\n以迅捷动作进行一次攻击，此次攻击在攻击检定上承受-2减值。",
+    "enGB": "Discipline: Riven Hourglass\nManeuver Type: Strike\nRequired Initiator Level: Swordsage 1\nMake an attack with an -2 penalty as a swift action."
+  },
+  {
+    "Key": "SandsOfTime.Name",
+    "ProcessTemplates": false,
+    "zhCN": "战姿·时光之沙",
+    "enGB": "Sands of Time"
+  },
+  {
+    "Key": "SandsOfTime.Desc",
+    "zhCN": "流派：裂时\n需求武术家等级：贤者之剑 1\n当你维持此战姿时，你将在先攻检定和反射豁免上获得+3加值。",
+    "enGB": "Discipline: Riven Hourglass\nRequired Initiator Level: Swordsage 1\nWhile you maintain this stance, you gain a +3 bonus on Initiative checks and Reflex saves."
+  },
+  {
+    "Key": "TiringTouch.Name",
+    "ProcessTemplates": false,
+    "zhCN": "疲惫之触",
+    "enGB": "Tiring Touch"
+  },
+  {
+    "Key": "TiringTouch.Desc",
+    "zhCN": "流派：裂时\n武技类别:击技\n需求武术家等级：贤者之剑 1\n进行一次攻击。如果命中，它将造成正常的武器伤害，且目标必须通过一次意志豁免检定（DC= 11 + 你的感知调整值），否则将陷入疲乏，持续1d4轮。",
+    "enGB": "Discipline: Riven Hourglass\nManeuver Type: Strike\nRequired Initiator Level: Swordsage 1\nMake an attack. If it hits, it deals weapon damage as normal and the target must succeed at a Will save (DC 11 + your Wis modifier) or become fatigued for 1d4 rounds."
+  },
+  {
+    "Key": "EyeOfTheStorm.Name",
+    "ProcessTemplates": false,
+    "zhCN": "战姿·风暴之眼",
+    "enGB": "Eye of the Storm"
+  },
+  {
+    "Key": "EyeOfTheStorm.Desc",
+    "zhCN": "流派：漠风\n需求武术家等级：贤者之剑 9\n需求武技：一种漠风流武技\n当你维持此战姿时，20尺内的对手每轮受到2d6点火焰伤害。",
+    "enGB": "Discipline: Desert Wind\nRequired Initiator Level: Swordsage 9\nRequired Maneuvers: 1 Desert Wind\nWhile you maintain this stance, opponents within 20ft suffer 2d6 fire damage per round."
+  },
+  {
+    "Key": "EyeOfTheStorm.BuffDesc",
+    "zhCN": "每轮受到2d6点火焰伤害",
+    "enGB": "suffers 2d6 fire damage per round"
+  },
+  {
+    "Key": "LocalEclipse.Name",
+    "ProcessTemplates": false,
+    "zhCN": "战姿·日蚀之域",
+    "enGB": "Local Eclipse"
+  },
+  {
+    "Key": "LocalEclipse.Desc",
+    "zhCN": "流派：影手\n需求武术家等级：贤者之剑 11\n需求武技：两种影手流武技\n当你维持此战姿时，20尺内的所有对手都会陷入目盲。",
+    "enGB": "Discipline: Shadow Hand\nRequired Initiator Level: Swordsage 11\nRequired Maneuvers: 2 Shadow Hand\nWhile you maintain this stance, all opponents within 20ft are blinded."
+  },
+  {
+    "Key": "ThickShadows.Name",
+    "ProcessTemplates": false,
+    "zhCN": "战姿·暗影重重",
+    "enGB": "Thick Shadows"
+  },
+  {
+    "Key": "ThickShadows.Desc",
+    "zhCN": "流派：影手\n需求武术家等级：贤者之剑 5\n需求武技：一种影手流武技\n当你维持此战姿时，你在力量和敏捷上获得+2加值，20尺内的对手在力量和敏捷上承受-2减值。",
+    "enGB": "Discipline: Shadow Hand\nRequired Initiator Level: Swordsage 5\nRequired Maneuvers: 1 Shadow Hand\nWhile you maintain this stance, you gain +2 bonus to strength and dexterity, opponents within 20ft suffer a -2 penalty to strenght and dexterity."
+  },
+  {
+    "Key": "ThickShadows.BuffDesc",
+    "zhCN": "在力量和敏捷上承受-2减值。",
+    "enGB": "-2 to strength and dexterity"
+  },
+  {
+    "Key": "Shadowsight.Name",
+    "ProcessTemplates": false,
+    "zhCN": "战姿·幽影视觉",
+    "enGB": "Shadowsight"
+  },
+  {
+    "Key": "Shadowsight.Desc",
+    "zhCN": "流派：影手\n需求武术家等级：贤者之剑 3\n需求武技：一种影手流武技\n当你维持此战姿时，你将获得“盲斗”专长的好处。",
+    "enGB": "Discipline: Shadow Hand\nRequired Initiator Level: Swordsage 3\nRequired Maneuvers: 1 Shadow Hand\nWhile you maintain this stance, you gain the benefits of the Blind Fight feat."
+  },
+  {
+    "Key": "StrikeTheHourglass.Name",
+    "ProcessTemplates": false,
+    "zhCN": "击打沙漏",
+    "enGB": "Strike the Hourglass"
+  },
+  {
+    "Key": "StrikeTheHourglass.Desc",
+    "zhCN": "流派：裂时\n武技类别:击技\n需求武术家等级：贤者之剑 1\n进行一次攻击。如果命中，它将造成正常的武器伤害，且目标必须通过一次意志豁免检定（DC= 11 + 你的感知调整值），否则将陷入恍惚，持续1轮。",
+    "enGB": "Discipline: Riven Hourglass\nManeuver Type: Strike\nRequired Initiator Level: Swordsage 1\nMake an attack. If it hits, it deals weapon damage as normal and the target must succeed at a Will save (DC 11 + your Wis modifier) or become staggered for 1 round."
+  },
+  {
+    "Key": "ChronalAgression.Name",
+    "ProcessTemplates": false,
+    "zhCN": "时光侵袭",
+    "enGB": "Chronal Agression"
+  },
+  {
+    "Key": "ChronalAgression.Desc",
+    "zhCN": "流派：裂时\n武技类别:击技\n需求武术家等级：贤者之剑 3\n你向近距离内的一名对手发射一道射线。此射线需要进行一次远程接触攻击才能命中，造成2d6点外加你感知调整值的伤害，且目标必须通过一次强韧豁免检定（DC= 12 + 你的感知调整值），否则将陷入恶心1分钟。如果豁免成功，目标则仅陷入恶心1轮。",
+    "enGB": "Discipline: Riven Hourglass\nManeuver Type: Strike\nRequired Initiator Level: Swordsage 3\nYou fire a ray against an opponent within close range. This ray requires a ranged touch attack to hit and deals 2d6 points of damage plus your wisdom modifier, and the target must succeed at a Fortitude save (DC 12 + your wis modifier) or become sickened for one minute. On a successful save, the target is instead sickened for one round."
+  },
+  {
+    "Key": "TemporalBurn.Name",
+    "ProcessTemplates": false,
+    "zhCN": "光阴灼烧",
+    "enGB": "Temporal Burn"
+  },
+  {
+    "Key": "TemporalBurn.Desc",
+    "zhCN": "流派：裂时\n武技类别:击技\n需求武术家等级：贤者之剑 3\n进行一次攻击。如果命中，它将造成正常的武器伤害外加额外的2d6点伤害，并自动克服伤害减免。",
+    "enGB": "Discipline: Riven Hourglass\nManeuver Type: Strike\nRequired Initiator Level: Swordsage 3\nMake an attack. If it hits, it deals weapon damage as normal plus an additional 2d6 points of damage, automatically overcomes damage reduction."
+  },
+  {
+    "Key": "UnhinderedStep.Name",
+    "ProcessTemplates": false,
+    "zhCN": "无碍漫步",
+    "enGB": "Unhindered Step"
+  },
+  {
+    "Key": "UnhinderedStep.Desc",
+    "zhCN": "流派：裂时\n武技类别:强化技\n需求武术家等级：贤者之剑 3\n你的移动速度增加30尺，持续直到你的下个回合开始。",
+    "enGB": "Discipline: Riven Hourglass\nManeuver Type: Boost\nRequired Initiator Level: Swordsage 3\nYour speed increases by 30 feet until the beginning of your next turn."
+  },
+  {
+    "Key": "TigerSnap.Name",
+    "ProcessTemplates": false,
+    "zhCN": "猛虎啃咬",
+    "enGB": "Tiger Snap"
+  },
+  {
+    "Key": "TigerSnap.Desc",
+    "zhCN": "流派：虎爪\n武技类别:击技\n需求武术家等级：军道之剑 5 贤者之剑 5\n你对目标进行两次攻击，造成正常伤害。如果两次攻击都命中，你的目标将开始流血持续3轮，每轮受到2d6点伤害。",
+    "enGB": "Discipline: Tiger Claw\nManeuver Type: Strike\nRequired Initiator Level: Warblade 5, Swordsage 5\nYou attack your target twice, dealing normal damage. If both attacks hit your target starts bleeding for 3 rounds suffering 2d6 damage per round."
+  },
+  {
+    "Key": "TigerRake.Name",
+    "ProcessTemplates": false,
+    "zhCN": "猛虎裂爪",
+    "enGB": "Tiger Rake"
+  },
+  {
+    "Key": "TigerRake.Desc",
+    "zhCN": "流派：虎爪\n武技类别:击技\n需求武术家等级：军道之剑 5 贤者之剑 5\n你对目标进行三次攻击，造成正常伤害。如果至少有两次攻击命中，你的目标将开始流血持续3轮，每轮受到2d6点伤害。如果三次攻击全部命中，你的目标将受到1d6点力量伤害。",
+    "enGB": "Discipline: Tiger Claw\nManeuver Type: Strike\nRequired Initiator Level: Warblade 5, Swordsage 5\nYou attack your target three times, dealing normal damage. If at least two attacks hit your target starts bleeding for 3 rounds suffering 2d6 damage per round. If all three attacks hit your target suffers 1d6 strength damage."
+  },
+  {
+    "Key": "TigerMaul.Name",
+    "ProcessTemplates": false,
+    "zhCN": "猛虎裂体",
+    "enGB": "Tiger Maul"
+  },
+  {
+    "Key": "TigerMaul.Desc",
+    "zhCN": "流派：虎爪\n武技类别:击技\n需求武术家等级：军道之剑 5 贤者之剑 5\n你对目标进行四次攻击，造成正常伤害。如果至少有两次攻击命中，你的目标将开始流血持续3轮，每轮受到2d6点伤害。如果至少有三次命中，你的目标将受到1d6点力量伤害。如果四次全中，你将造成4d12点额外伤害。",
+    "enGB": "Discipline: Tiger Claw\nManeuver Type: Strike\nRequired Initiator Level: Warblade 5, Swordsage 5\nYou attack your target four times, dealing normal damage. If at least two attacks hit your target starts bleeding for 3 rounds suffering 2d6 damage per round. If at least three attacks hit your target suffers 1d6 strength damage. If all four attacks hit you deal 4d12 bonus damage."
+  },
+  {
+    "Key": "HourglassStance.Name",
+    "ProcessTemplates": false,
+    "zhCN": "战姿·沙漏之仪",
+    "enGB": "Hourglass Stance"
+  },
+  {
+    "Key": "HourglassStance.Desc",
+    "zhCN": "流派：裂时\n需求武术家等级：贤者之剑 5\n需求武技：一种裂时流武技\n当你维持此战姿时，你的AC获得+4闪避加值，先攻检定获得+4加值，并获得20点法术抗力。此外，你将免疫阻碍移动的魔法效果，例如麻痹、重雾术、缓慢术以及蛛网术。",
+    "enGB": "Discipline: Riven Hourglass\nRequired Initiator Level: Swordsage 5\nRequired Maneuvers: 1 Riven Hourglass\nWhile you maintain this stance, you gain a +4 dodge bonus to your AC, a +4 bonus on Initiative checks, and 20 spell resistance. In addition, you become immune to magic that impedes movement, such as paralysis, solid fog, slow, and web."
+  },
+  {
+    "Key": "TemporalFury.Name",
+    "ProcessTemplates": false,
+    "zhCN": "时光狂怒",
+    "enGB": "Temporal Fury"
+  },
+  {
+    "Key": "TemporalFury.Desc",
+    "zhCN": "流派：裂时\n武技类别:击技\n需求武术家等级：贤者之剑 5\n需求武技：一种裂时流武技\n进行一次攻击。如果命中，它将造成正常的武器伤害外加额外的2d6点伤害，此外目标必须通过强韧豁免检定（DC= 13 + 你的感知调整值），否则将被施加缓慢状态，持续2轮。",
+    "enGB": "Discipline: Riven Hourglass\nManeuver Type: Strike\nRequired Initiator Level: Swordsage 5\nRequired Maneuvers: 1 Riven Hourglass\nMake an attack. If it hits, it deals weapon damage as normal plus an additional 2d6 points of damage, additionally the target must make a Fortitude (DC 13 + your Wisdom modifier) or become slowed for 2 rounds."
+  },
+  {
+    "Key": "ChronalDraw.Name",
+    "ProcessTemplates": false,
+    "zhCN": "岁月榨取",
+    "enGB": "Chronal Draw"
+  },
+  {
+    "Key": "ChronalDraw.Desc",
+    "zhCN": "流派：裂时\n武技类别:击技\n需求武术家等级：贤者之剑 7\n需求武技：一种裂时流武技\n进行一次攻击。如果命中，它将造成正常的武器伤害外加额外的4d6点伤害，且目标必须通过一次意志豁免检定（DC= 14 + 你的感知调整值），否则将陷入力竭状态，持续轮数等同于你的感知调整值。",
+    "enGB": "Discipline: Riven Hourglass\nManeuver Type: Strike\nRequired Initiator Level: Swordsage 7\nRequired Maneuvers: 1 Riven Hourglass\nMake an attack. If it hits, it deals weapon damage as normal plus an additional 4d6 points of damage, and the target must succeed at a Will save (DC 14 + your Wisdom modifier) or become exhausted for a number of rounds equal to your Wisdom modifier."
+  },
+  {
+    "Key": "TipTheHourglass.Name",
+    "ProcessTemplates": false,
+    "zhCN": "倾倒沙漏",
+    "enGB": "Tip the Hourglass"
+  },
+  {
+    "Key": "TipTheHourglass.Desc",
+    "zhCN": "流派：裂时\n武技类别:击技\n需求武术家等级：贤者之剑 7\n需求武技：一种裂时流武技\n进行一次近战攻击。如果命中，它将造成正常的武器伤害外加额外的4d6点伤害，且目标必须通过一次强韧豁免检定（DC= 14 + 你的感知调整值），否则将受到如同缓慢术般的影响，持续轮数等同于你的感知调整值。",
+    "enGB": "Discipline: Riven Hourglass\nManeuver Type: Strike\nRequired Initiator Level: Swordsage 7\nRequired Maneuvers: 1 Riven Hourglass\nMake a melee attack. If it hits, it deals weapon damage as normal plus an additional 4d6 points of damage, and target must succeed at a Fortitude save (DC 14 + your Wisdom modifier) or be affected as if by a slow spell for a number of rounds equal to your Wisdom modifier."
+  },
+  {
+    "Key": "HourHand.Name",
+    "ProcessTemplates": false,
+    "zhCN": "时针击",
+    "enGB": "Hour Hand"
+  },
+  {
+    "Key": "HourHand.Desc",
+    "zhCN": "流派：裂时\n武技类别:击技\n需求武术家等级：贤者之剑 7\n需求武技：一种裂时流武技\n以迅捷动作进行一次攻击，此次攻击在攻击检定上承受-4减值，命中将造成正常的武器伤害外加额外的4d6点伤害。",
+    "enGB": "Discipline: Riven Hourglass\nManeuver Type: Strike\nRequired Initiator Level: Swordsage 7\nRequired Maneuvers: 1 Riven Hourglass\nMake an attack with an -4 penalty as a swift action, dealing normal weapon damage plus 4d6 points of damage."
+  },
+  {
+    "Key": "SandsOfTimeTornado.Name",
+    "ProcessTemplates": false,
+    "zhCN": "时沙龙卷",
+    "enGB": "Sands of Time Tornado"
+  },
+  {
+    "Key": "SandsOfTimeTornado.Desc",
+    "zhCN": "流派：裂时\n武技类别:击技\n需求武术家等级：贤者之剑 9\n需求武技：两种裂时流武技\n对每个相邻对手进行一次近战攻击检定。每个被击中的目标都会承受正常的武器伤害外加等同于你感知调整值两倍的额外伤害，且目标必须通过一次强韧豁免检定（DC= 15 + 你的感知调整值），否则将陷入恶心状态，持续1d4轮。",
+    "enGB": "Discipline: Riven Hourglass\nManeuver Type: Strike\nRequired Initiator Level: Swordsage 9\nRequired Maneuvers: 2 Riven Hourglass\nMake a melee attack roll against each adjacent opponent. Each target hit, suffers weapon damage as normal plus additional points of damage equal to twice your Wisdom modifier, and the target must succeed at a Fortitude save (DC 15 + your Wisdom modifier) or become sickened for 1d4 rounds."
+  },
+  {
+    "Key": "SandBearersSwiftness.Name",
+    "ProcessTemplates": false,
+    "zhCN": "战姿·持沙者之捷",
+    "enGB": "Sand-Bearer’s Swiftness"
+  },
+  {
+    "Key": "SandBearersSwiftness.Desc",
+    "zhCN": "流派：裂时\n需求武术家等级：贤者之剑 11\n需求武技：两种裂时流武技\n当你维持此战姿时，你将获得加速术的好处以及20点法术抗力。此外，你将免疫阻碍移动的魔法效果，比如麻痹、重雾术、缓慢术以及蛛网术。",
+    "enGB": "Discipline: Riven Hourglass\nRequired Initiator Level: Swordsage 11\nRequired Maneuvers: 2 Riven Hourglass\nWhile you maintain this stance, you gain the benefits of the haste spell and 20 spell resistance. In addition, you become immune to magic that impedes movement, such as paralysis, solid fog, slow, and web."
+  },
+  {
+    "Key": "ShatterTheHourglass.Name",
+    "ProcessTemplates": false,
+    "zhCN": "粉碎沙漏",
+    "enGB": "Shatter the Hourglass"
+  },
+  {
+    "Key": "ShatterTheHourglass.Desc",
+    "zhCN": "流派：裂时\n武技类别:击技\n需求武术家等级：贤者之剑 11\n需求武技：两种裂时流武技\n进行一次近战攻击。如果命中，它将造成正常的武器伤害，且目标必须通过一次强韧豁免检定（DC= 16 + 你的感知调整值），否则将陷入麻痹，持续1d4轮。成功的豁免可以免于麻痹，但仍会受到如同缓慢术般的影响，持续1d4轮。",
+    "enGB": "Discipline: Riven Hourglass\nManeuver Type: Strike\nRequired Initiator Level: Swordsage 11\nRequired Maneuvers: 2 Riven Hourglass\nMake a melee attack. If it hits, it deals weapon damage as normal, and target must succeed at a Fortitude save (DC 16 + your Wisdom modifier) or become paralyzed for 1d4 rounds. A successful save negates the paralysis and causes the foe to be affected as if by a slow spell for 1d4 rounds."
+  },
+  {
+    "Key": "TemporalWave.Name",
+    "ProcessTemplates": false,
+    "zhCN": "时光波动",
+    "enGB": "Temporal Wave"
+  },
+  {
+    "Key": "TemporalWave.Desc",
+    "zhCN": "流派：裂时\n武技类别:击技\n需求武术家等级：贤者之剑 11\n需求武技：两种裂时流武技\n当你使用此武技时，你释放出一道30尺锥形的时间精华。处于范围内的生物必须通过一次意志豁免检定（DC= 16 + 你的感知调整值），否则将陷入反胃并受到如同缓慢术般的影响，持续轮数等同于你的感知调整值。豁免成功的生物仅受到如同缓慢术般的影响，持续1轮。",
+    "enGB": "Discipline: Riven Hourglass\nManeuver Type: Strike\nRequired Initiator Level: Swordsage 11\nRequired Maneuvers: 2 Riven Hourglass\nWhen you initiate this maneuver, you create a 30-foot cone of quintessence. Creatures caught within the cone must succeed at a Will save (DC 16 + your Wisdom modifier) or become nauseated and affected as if by a slow spell for a number of rounds equal to your Wisdom modifier. Creatures that succeed on their save are instead affected as if by a slow spell for one round."
+  },
+  {
+    "Key": "SandsOfTimeHurricane.Name",
+    "ProcessTemplates": false,
+    "zhCN": "时沙飓风",
+    "enGB": "Sand of Time Hurricane"
+  },
+  {
+    "Key": "SandsOfTimeHurricane.Desc",
+    "zhCN": "流派：裂时\n武技类别:击技\n需求武术家等级：贤者之剑 13\n需求武技：两种裂时流武技\n对每个相邻对手进行两次近战攻击，并在这些攻击检定中获得+4加值。每个被命中的目标都会承受正常的武器伤害。第一次命中会使目标陷入力竭2d4轮，第二次命中会使其陷入缓慢1d4轮。这两种效果都可以通过强韧豁免检定（DC= 17 + 你的感知调整值）将持续时间缩短至1轮。",
+    "enGB": "Discipline: Riven Hourglass\nManeuver Type: Strike\nRequired Initiator Level: Swordsage 13\nRequired Maneuvers: 2 Riven Hourglass\nMake two melee attack rolls with a +4 bonus against each adjacent opponent. Each target hit, suffers weapon damage as normal. The first hit exhausts targets for 2d4 rounds, the second slows them for 1d4 rounds. Both effects can be resisted with a Fortitude save (DC 17 + your Wisdom modified) to reduce the duration to 1 round."
+  },
+  {
+    "Key": "WrathOfTime.Name",
+    "ProcessTemplates": false,
+    "zhCN": "时光之怒",
+    "enGB": "Wrath of Time"
+  },
+  {
+    "Key": "WrathOfTime.Desc",
+    "zhCN": "流派：裂时\n武技类别:击技\n需求武术家等级：贤者之剑 15\n需求武技：三种裂时流武技\n当你使用此武技时，你释放出一道120尺锥形的狂暴时间能量，对范围内的所有生物造成12d6点伤害，成功的意志豁免检定（DC= 18 + 你的感知调整值）可使此伤害减半。",
+    "enGB": "Discipline: Riven Hourglass\nManeuver Type: Strike\nRequired Initiator Level: Swordsage 15\nRequired Maneuvers: 3 Riven Hourglass\nWhen you initiate this maneuver, you unleash a 120-foot cone of violent temporal energy dealing 12d6 damage to all creatures, a Will save (DC 18 + your Wisdom modifier) reduces this damage by half."
+  },
+  {
+    "Key": "BreakTheHourglass.Name",
+    "ProcessTemplates": false,
+    "zhCN": "打破沙漏",
+    "enGB": "Break the Hourglass"
+  },
+  {
+    "Key": "BreakTheHourglass.Desc",
+    "zhCN": "流派：裂时\n武技类别:击技\n需求武术家等级：贤者之剑 17\n需求武技：四种裂时流武技\n当你使用此武技时，你在一个30尺的锥形范围内释放出具有破坏性的时间干扰。被范围波及的敌人必须通过一次意志豁免检定（DC= 19 + 你的感知调整值），否则将立刻死亡。豁免成功的生物改为陷入力竭和缓慢，持续2d4轮。",
+    "enGB": "Discipline: Riven Hourglass\nManeuver Type: Strike\nRequired Initiator Level: Swordsage 17\nRequired Maneuvers: 4 Riven Hourglass\nWhen you initiate this maneuver, you unleash a destructive temporal disturbance in a 30-foot cone. Enemies caught in the cone must make a Will save (DC 19 + your Wisdom modifier) or die. Creatures that succeed on their save are instead exhausted and slowed for 2d4 rounds."
+  },
+  {
+    "Key": "Shadowcloak.Name",
+    "ProcessTemplates": false,
+    "zhCN": "暗影斗篷",
+    "enGB": "Shadowcloak"
+  },
+  {
+    "Key": "Shadowcloak.Desc",
+    "zhCN": "流派：影手\n武技类别:应对技\n需求武术家等级：贤者之剑 9\n需求武技：两种影手流武技\n在一轮内你第一次受到攻击时，你在判定攻击结果前获得隐蔽。如果在同一回合你遭受了第二次攻击，你将获得全隐蔽。这两次触发每次都会消耗1个武技点。",
+    "enGB": "Discipline: Shadow Hand\nManeuver Type: Counter\nRequired Initiator Level: Swordsage 9\nRequired Maneuvers: 2 Shadow Hand\nThe first time you are attacked in a round you gain partial concealment before the attack resolves. If you are attacked a second time in the same turn you gain total concealment. Both activations cost 1 Maneuver Point."
   },
   {
     "Key": "nam.Name",
