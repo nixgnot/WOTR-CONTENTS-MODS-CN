@@ -227,7 +227,7 @@
   {
     "Key": "ShadowPresence.Name",
     "ProcessTemplates": false,
-    "zhCN": "暗影威仪",
+    "zhCN": "暗影之佑",
     "enGB": "Shadow Presence"
   },
   {
@@ -238,7 +238,7 @@
   {
     "Key": "EternalMoment.Name",
     "ProcessTemplates": false,
-    "zhCN": "永恒瞬间",
+    "zhCN": "永恒之刹",
     "enGB": "Eternal Moment"
   },
   {
@@ -1332,7 +1332,7 @@
   {
     "Key": "BlisteringFlourish.Name",
     "ProcessTemplates": false,
-    "zhCN": "炫目闪",
+    "zhCN": "炫目闪光",
     "enGB": "Blistering Flourish"
   },
   {
@@ -1392,7 +1392,7 @@
   {
     "Key": "ShadowBladeTechnique.Name",
     "ProcessTemplates": false,
-    "zhCN": "影刃术",
+    "zhCN": "影刃之技",
     "enGB": "Shadow Blade Technique"
   },
   {
@@ -1693,7 +1693,7 @@
   {
     "Key": "InfernoBlast.Name",
     "ProcessTemplates": false,
-    "zhCN": "炼狱爆",
+    "zhCN": "炼狱爆风",
     "enGB": "Inferno Blast"
   },
   {
