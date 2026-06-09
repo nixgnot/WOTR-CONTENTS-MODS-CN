@@ -4891,7 +4891,7 @@ C:\Users\你的用户名\AppData\LocalLow\Owlcat Games\Pathfinder Wrath Of The R
            <td colspan="2">磐石之韧 Endurance of Stone<br>当你的石龙击技命中时，你恢复1d6点生命值。此外，你所有石龙武技的豁免DC+1。</td></tr>
            <td colspan="2">血虎之疾 Tiger Blooded<br>当你使用虎爪击技时，你获得+3攻击加值。此外，你所有虎爪武技的豁免DC+1。</td></tr>
            <td colspan="2">白鸦之御 White Raven Defense<br>当你的白鸦击技命中时，移除30尺范围内盟友的困惑、胁迫、情绪、恐惧、战栗以及影响心智的状态。此外，你所有白鸦武技的豁免DC+1。[目前没有白鸦流武技允许进行豁免检定]</td></tr>
-           <td colspan="2">暗影之佑 Shadow Presence<br>当你处于影手战姿时，你的AC获得+2加值。此外，你所有影手武技的豁免DC+1。</td></tr>
+           <td colspan="2">暗影之仪 Shadow Presence<br>当你处于影手战姿时，你的AC获得+2加值。此外，你所有影手武技的豁免DC+1。</td></tr>
            <td colspan="2">永恒之刹 Eternal Moment<br>当你的裂时击技命中时，你可以对同一生物进行一次免费攻击。此外，你所有裂时武技的豁免DC+1。</td></tr>
            <td colspan="2">灼命之风 Relentless Sirocco<br>被你武器击中的生物必须进行一次意志豁免检定（DC 17），否则将在10轮内获得火焰易伤。此外，你所有漠风武技的豁免DC+1。</td></tr>
    <tr><td rowspan="3">职业<br></th></tr>
