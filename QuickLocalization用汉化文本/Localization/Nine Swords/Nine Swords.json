@@ -1698,7 +1698,7 @@
   },
   {
     "Key": "InfernoBlast.Desc",
-    "zhCN": "流派：漠风\n武技类别:击技\n需求武术家等级：贤者之剑 17\n需求武技：五种漠风流武技\n你对以你为中心60尺爆发范围内的所有生物造成100点火焰伤害。你不会受到自己的炼狱爆风伤害。",
+    "zhCN": "流派：漠风\n武技类别:击技\n需求武术家等级：贤者之剑 17\n需求武技：五种漠风流武技\n你对以你为中心60尺爆发范围内的所有生物造成100点火焰伤害。你不会受到自己炼狱爆风的伤害。",
     "enGB": "Discipline: Desert Wind\nManeuver Type: Strike\nRequired Initiator Level: Swordsage 17\nRequired Maneuvers: 5 Desert Wind\nYou deal 100 points of fire damage to all creatures in a 60-ft.-radius burst centered on you. You are not harmed by your own inferno blast."
   },
   {
