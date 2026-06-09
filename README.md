@@ -4994,7 +4994,7 @@ C:\Users\你的用户名\AppData\LocalLow\Owlcat Games\Pathfinder Wrath Of The R
        <td colspan="2">白鸦啸令 White Raven Call 需求武术家等级：军道之剑 17<br>你和60尺内的盟友在攻击检定、伤害检定、防御等级、豁免和战技防御上获得+5士气加值，持续一轮。</td></tr>
 <tr><th colspan="5">漠风 Desert Wind<br></th></tr>
   <tr><td rowspan="9">击技 Strike</td>
-       <td colspan="2">炫目闪 Blistering Flourish 需求武术家等级：贤者之剑 1<br>当你使用此武技时，你释放出一阵耀目光芒。此武技范围内除你以外的任何生物都必须进行一次强韧豁免检定（DC= 11 + 你的感知调整值），否则将目眩1分钟。</td></tr>
+       <td colspan="2">炫目闪光 Blistering Flourish 需求武术家等级：贤者之剑 1<br>当你使用此武技时，你释放出一阵耀目光芒。此武技范围内除你以外的任何生物都必须进行一次强韧豁免检定（DC= 11 + 你的感知调整值），否则将目眩1分钟。</td></tr>
        <tr><td colspan="2">闪耀之阳 Flashing Sun 需求武术家等级：贤者之剑 3 需求武技：一种漠风流武技<br>作为此武技的一部分，你对单个生物进行一次包含一次额外攻击的整轮攻击。</td></tr>
        <tr><td colspan="2">雏龙之焰 Hatchling's Flame 需求武术家等级：贤者之剑 3 需求武技：一种漠风流武技<br>当你使用此武技时，你释放出一道30尺锥形火焰，造成2d6点火焰伤害。被范围波及的生物可以尝试进行一次反射豁免检定（DC= 12 + 你的感知调整值），成功则伤害减半。</td></tr>
        <tr><td colspan="2">死亡印记 Death Mark 需求武术家等级：贤者之剑 5<br>当你使用此击技时，你将庞大的炽热能量导入敌人的体内。除了造成正常的近战伤害外，你还会使敌人的身体爆发出一股30尺半径的火焰。范围内除你以外的所有生物，将受到6d6点火焰伤害。</td></tr>
