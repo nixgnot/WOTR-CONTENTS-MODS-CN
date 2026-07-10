@@ -5197,6 +5197,7 @@ C:\Users\你的用户名\AppData\LocalLow\Owlcat Games\Pathfinder Wrath Of The R
         <td colspan="2"><b>重要提示:</b> Mod处于Beta测试阶段，强烈建议在触发Mod对话前<b>随时存档</b><td></tr>
         <tr><td colspan="2"><b>通用限制:</b> 虫群道途无法完成任何事件链，“完全体”巫妖无法完成任何恋爱</td></tr>
 </table>
+-------------------------------------------
 
 ### [RandomReinforcementsperEncounter](https://www.nexusmods.com/pathfinderwrathoftherighteous/mods/839)
 > *前置：* 无<br>
@@ -5208,6 +5209,58 @@ C:\Users\你的用户名\AppData\LocalLow\Owlcat Games\Pathfinder Wrath Of The R
 + 掉落物有随机战利品
 + 可以根据个人要求在umm中调整敌人和战利品的数值
 + 兼容其他mod，但是获得生成的战利品装备后不能中途卸载
+-------------------------------------------
+
+### [Cowboys&Demons](https://github.com/Sumotoad987/Cowboys-and-Demons)
+> *前置：* 请参考N网页面的安装教程(https://www.nexusmods.com/pathfinderwrathoftherighteous/mods/1111)<br>
+> *中文：* **[QL汉化](QuickLocalization用汉化文本/Localization/Cowboys&Demons)**<br>
+> *安装方式：* **UMM**<br>
+> *新增内容：* 铳士、枪械武器与模型与相关内容<br>
++ 仍处于开发阶段的mod，但核心内容已可使用
+<table>
+<tr><th colspan="5">新增内容列表<br></th></tr> 
+   <tr><td rowspan="2">职业<br></th></tr> 
+           <td colspan="2">铳士 Gunslinger</td></tr> 
+<tr><td rowspan="6">炫技<br>Deeds</td>
+	<td>快速清膛<br>Quick Clear</td>
+		<td>1级时，只要有勇毅值，可通过标准动作或花费1点勇毅以移动动作移除火器的破损状态（限哑火导致）。</td>
+	<tr><td>把握主动<br>Gunslinger Initiative</td>
+		<td>3级时，只要拥有至少1点勇毅值，先攻检定获得+2加值。</td>
+	<tr><td>精确瞄准<br>Targeting</td>
+		<td>7级时，花费1点勇毅进行整轮攻击特定部位，可附加缴械（手臂）、困惑（头部）或击倒（腿部）效果。</td>
+	<tr><td>出血射击<br>Bleeding Shot</td>
+		<td>11级时，命中花费1点勇毅造成敏捷调整值的生命出血，或花费2点勇毅造成力量、敏捷或体质属性出血。</td>
+	<tr><td>铳士闪避<br>Gunslinger's Evasion</td>
+		<td>15级时，拥有勇毅值即可获得游荡者的反射闪避、直觉闪避和精通直觉闪避特性。</td>
+  	<tr><td>震慑射击<br>Stunning Shot</td>
+		<td>19级时，命中花费2点勇毅迫使目标进行强韧豁免，失败则震慑1轮。</td>
+<tr><td rowspan="2">专长<br>Feat</td>
+	<td>武器擅长（火器）<br>Weapon Proficiency (firearms)</td>
+		<td>使你能够无惩罚地使用所有火器。</td>
+	<tr><td>快速装填<br>Rapid Reload</td>
+		<td>降低火器装填所需动作等级，且允许使用先进火器进行整轮攻击。</td>
+<tr><td rowspan="5">机制<br>Mechanic</td>
+	<td>哑火<br>Misfire</td>
+		<td>攻若你的攻击检定骰值位于火器的哑火值范围内则将必定失手并使武器获得破损状态，破损时哑火值+2。</td>
+	<tr><td>损坏的火器<br>Damaged Firearm</td>
+		<td>破损状态的早期火器再次哑火会发生炸膛，对爆发范围内的生物造成反射豁免(DC 12)减半的伤害。</td>
+	<tr><td>穿甲<br>Armor Penetrating</td>
+		<td>火器能穿透大多数类型的盔甲，忽略盾牌、盔甲和天生防御带来的AC加值。</td>
+	<tr><td>前装填<br>Muzzle Loading</td>
+		<td>早期火器装填方式，装填单手为标准动作，装填双手为整轮动作。</td>
+	<tr><td>弹仓装填<br>Chamber Loading</td>
+		<td>先进火器装填方式，移动动作可装满容量，搭配快速装填可降为自由动作。</td>
+<tr><td rowspan="5">武器<br>Firearms</td>
+	<tr><td>滑膛枪<br>Musket</td>
+		<td>早期双手火器，比手枪射程远得多，单发装填。</td>
+	<tr><td>手枪<br>Pistol</td>
+		<td>早期单手火器，基本的单发射击火器。</td>
+  	<tr><td>步枪<br>Rifle</td>
+		<td>先进火器，刻有膛线增加稳定和射程，使用金属弹药。</td>
+  	<tr><td>转轮枪<br>Revolver</td>
+		<td>先进单手火器，转轮弹巢包含六个弹仓，开火后自动旋转准备下一发。</td>
+</table>   
+------------------------------------------- 
 
 ### 功能MOD索引
 + [ToyBox](https://github.com/xADDBx/ToyBox-Wrath) :v::v::v:应该不用介绍？
