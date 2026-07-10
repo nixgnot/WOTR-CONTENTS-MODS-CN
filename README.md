@@ -190,6 +190,7 @@
 | [DragonChanges](#DragonChanges) | DragonChanges |  | :heavy_check_mark:  | :+1::+1:| :file_folder: |🛠️||
 | [RelationsAndRomances](#RelationsandRomances) | 浪漫事件链    |   N网汉化 |   :heavy_check_mark: | :+1::+1::+1:| :file_folder: |🛠️||
 | [RandomReinforcementsperEncounter](#RandomReinforcementsperEncounter) | 随机遭遇 |  | :heavy_check_mark:  | :+1::+1:| |🛠️||
+| [Cowboys&Demons](#Cowboys&Demons) | 牛仔与恶魔 |  | :heavy_check_mark:  | :+1::+1:| :file_folder:  :file_folder: |||
 
 备注
 + UMM一栏为是否使用UMM安装
