@@ -1,0 +1,567 @@
+[
+{
+"Key": "Gunslinger.Class.Name",
+"enGB": "Gunslinger",
+"zhCN": "铳士"
+},
+{
+"Key": "Gunslinger.Class.Description",
+"enGB": "For a renegade few, battle sounds different than it does for the typical fighter. The clash of steel and the sizzle of spell energy are drowned out by the thunderous rhythm of gunfire—the pounding beat of the gunslinger.\r\n\r\nGunslingers are a bold and mysterious lot. While many treat the secrets of black powder with the same care and reverence that a wizard typically reserves for his spellbook, most gunslingers know that firearms are a secret that cannot remain concealed forever. While current firearms are simple, often imprecise, and even dangerous devices, they are a technology on the move, and one that will become even more powerful when it is fully fused with magic.",
+"zhCN": "对少数叛逆者而言，战斗的声音与普通战士截然不同。刀剑的碰撞声和法术能量的嘶嘶声，被枪火雷鸣般的节奏——铳士那震撼的鼓点——所淹没。\r\n\r\n铳士是一群大胆而神秘的家伙。尽管许多人对待黑火药的秘密，如同法师对待法术书一般谨慎而敬畏，但大多数铳士都明白，火器是一个无法永远隐藏的秘密。虽然当前的火器是简单、往往不够精确甚至危险的装置，但它们是一项不断发展的技术，一旦与魔法完全融合，将变得更为强大。"
+},
+{
+"Key": "Gunslinger.Proficiencies.Name",
+"enGB": "Gunslinger Proficiencies",
+"zhCN": "铳士擅长"
+},
+{
+"Key": "Gunslinger.Proficiencies.Description",
+"enGB": "Gunslingers are proficient with all simple and martial weapons, and with all firearms. They are proficient with all light armor. ",
+"zhCN": "铳士擅长所有简易武器、军用武器和所有火器。她们擅长所有轻型盔甲。"
+},
+{
+"Key": "Gunslinger.Class.DescriptionShort",
+"enGB": "Brave, clever, and frequently foolhardy gunslingers are thunderous artillery, often found where the fighting is fiercest.",
+"zhCN": "勇敢、机敏且常常鲁莽的铳士是雷鸣般的炮手，常出没于战斗最激烈之处。"
+},
+{
+"Key": "Deeds.QuickClear.Name",
+"enGB": "Quick Clear",
+"zhCN": "快速清膛"
+},
+{
+"Key": "Deeds.QuickClear.Description",
+"enGB": "At 1st level, as a standard action, the gunslinger can remove the broken condition from a single firearm she is currently wielding, as long as that condition was gained by a firearm misfire. The gunslinger must have at least 1 grit point to perform this deed. Alternatively, if the gunslinger spends 1 grit point to perform this deed, she can perform quick clear as a move-equivalent action instead of a standard action.",
+"zhCN": "1级时，铳士可以用一个标准动作移除她当前持用的一把火器上的破损状态，只要该破损状态是由火器哑火造成的。铳士必须拥有至少1点勇毅值才能执行此炫技。或者，如果铳士花费1点勇毅值执行此炫技，她可以用一个移动等效动作而非标准动作执行快速清膛。"
+},
+{
+"Key": "Deeds.QuickClear.Standard.Name",
+"enGB": "Quick Clear (Standard)",
+"zhCN": "快速清膛（标准动作）"
+},
+{
+"Key": "Deeds.QuickClear.Standard.Description",
+"enGB": "As a standard action, the gunslinger can remove the broken condition from a single firearm she is currently wielding. The gunslinger must have at least 1 grit point to perform this deed. ",
+"zhCN": "以标准动作，铳士可以移除她当前所持一把火器上的破损状态。执行此炫技铳士必须拥有至少1点勇毅值。"
+},
+{
+"Key": "Deeds.QuickClear.Move.Name",
+"enGB": "Quick Clear (Move)",
+"zhCN": "快速清膛（移动动作）"
+},
+{
+"Key": "Deeds.QuickClear.Move.Description",
+"enGB": "The gunslinger can remove the broken condition from a single firearm she is currently wielding as a move action if she spends 1 grit point.",
+"zhCN": "花费1点勇毅值，铳士可以以一个移动动作移除她当前所持一把火器上的破损状态。"
+},
+{
+"Key": "Deeds.SlingerInitiative.Name",
+"enGB": "Gunslinger Initiative",
+"zhCN": "把握主动"
+},
+{
+"Key": "Deeds.SlingerInitiative.Description",
+"enGB": "At 3rd level, as long as the gunslinger has at least 1 grit point, she gains a +2 bonus on initiative checks.",
+"zhCN": "3级时，只要铳士拥有至少1点勇毅值，她在先攻检定上获得+2加值。"
+},
+{
+"Key": "Deeds.Targeting.Name",
+"enGB": "Targeting",
+"zhCN": "精确瞄准"
+},
+{
+"Key": "Deeds.Targeting.Description",
+"enGB": "At 7th level, as a full-round action, the gunslinger can make a single firearm attack and choose part of the body to target. She gains the following effects depending on the part of the body targeted. This deed costs 1 grit point to perform no matter which part of the creature she targets.\r\n\r\n Arms: On a hit, the target takes no damage from the hit but is disarmed.\r\n Head: On a hit, the target is damaged normally, and is also confused for 1 round. This is a mind-affecting effect.\r\n Legs: On a hit, the target is damaged normally and knocked prone.\r\n",
+"zhCN": "7级时，以整轮动作，铳士可以进行一次火器攻击并选择目标身体的某个部位。根据目标部位获得以下效果。无论瞄准哪个部位，执行此炫技都需花费1点勇毅值。\r\n\r\n 手臂：命中时，目标不受此次攻击的伤害，但被缴械。\r\n 头部：命中时，目标正常承受伤害，并困惑1轮。此为影响心灵效果。\r\n 腿部：命中时，目标正常承受伤害并被击倒。\r\n"
+},
+{
+"Key": "Deeds.Targeting.Head.Name",
+"enGB": "Targeting (Headshot)",
+"zhCN": "精确瞄准（头部）"
+},
+{
+"Key": "Deeds.Targeting.Head.Description",
+"enGB": "On a hit, the target is damaged normally, and is also confused for 1 round. This is a mind-affecting effect.",
+"zhCN": "命中时，目标正常承受伤害，并困惑1轮。此为影响心灵效果。"
+},
+{
+"Key": "Deeds.Targeting.Arms.Name",
+"enGB": "Targeting (Arms)",
+"zhCN": "精确瞄准（手臂）"
+},
+{
+"Key": "Deeds.Targeting.Arms.Description",
+"enGB": "On a hit, the target takes no damage from the hit but is disarmed for 1 round plus 1 additional round for each 5 by which the hit roll exceeds their AC.",
+"zhCN": "命中时，目标不受此次攻击的伤害，但被缴械1轮，并且攻击检定每超过其AC 5点，额外增加1轮。"
+},
+{
+"Key": "Deeds.Targeting.Legs.Name",
+"enGB": "Targeting (Legs)",
+"zhCN": "精确瞄准（腿部）"
+},
+{
+"Key": "Deeds.Targeting.Legs.Description",
+"enGB": "Legs: On a hit, the target is damaged normally and knocked prone.",
+"zhCN": "腿部：命中时，目标正常承受伤害并被击倒。"
+},
+{
+"Key": "Deeds.BleedingShot.Standard.Name",
+"enGB": "Bleeding Shot",
+"zhCN": "出血射击"
+},
+{
+"Key": "Deeds.BleedingShot.Standard.Description",
+"enGB": "At 11th level, when the gunslinger hits a living creature with a firearm attack, she can spend 1 grit point as a free action to have that attack deal extra bleed damage. The amount of bleed damage is equal to the gunslinger's Dexterity modifier.",
+"zhCN": "11级时，当铳士以火器攻击命中一个活物时，她可以用自由动作花费1点勇毅值，使该次攻击造成额外出血伤害。出血伤害值等于铳士的敏捷调整值。"
+},
+{
+"Key": "Deeds.BleedingShot.Strength.Name",
+"enGB": "Bleeding Shot (Strength)",
+"zhCN": "出血射击（力量）"
+},
+{
+"Key": "Deeds.BleedingShot.Strength.Description",
+"enGB": "At 11th level, when the gunslinger hits a living creature with a firearm attack, she can spend 2 grit points as a free action to have that attack deal 1 point of Strength bleed damage.",
+"zhCN": "11级时，当铳士以火器攻击命中一个活物时，她可以用自由动作花费2点勇毅值，使该次攻击造成1点力量出血伤害。"
+},
+{
+"Key": "Deeds.BleedingShot.Constitution.Name",
+"enGB": "Bleeding Shot (Constitution)",
+"zhCN": "出血射击（体质）"
+},
+{
+"Key": "Deeds.BleedingShot.Constitution.Description",
+"enGB": "At 11th level, when the gunslinger hits a living creature with a firearm attack, she can spend 2 grit points as a free action to have that attack deal 1 point of Constitution bleed damage.",
+"zhCN": "11级时，当铳士以火器攻击命中一个活物时，她可以用自由动作花费2点勇毅值，使该次攻击造成1点体质出血伤害。"
+},
+{
+"Key": "Deeds.BleedingShot.Dexterity.Name",
+"enGB": "Bleeding Shot (Dexterity)",
+"zhCN": "出血射击（敏捷）"
+},
+{
+"Key": "Deeds.BleedingShot.Dexterity.Description",
+"enGB": "At 11th level, when the gunslinger hits a living creature with a firearm attack, she can spend 2 grit points as a free action to have that attack deal 1 point of Dexterity bleed damage.",
+"zhCN": "11级时，当铳士以火器攻击命中一个活物时，她可以用自由动作花费2点勇毅值，使该次攻击造成1点敏捷出血伤害。"
+},
+{
+"Key": "Deeds.BleedingShot.Description",
+"enGB": "At 11th level, when the gunslinger hits a living creature with a firearm attack, she can spend 1 grit point as a free action to have that attack deal extra bleed damage. The amount of bleed damage is equal to the gunslinger's Dexterity modifier. Alternatively, the gunslinger can spend 2 grit points to deal 1 point of Strength, Dexterity, or Constitution bleed damage (gunslinger's choice) instead.",
+"zhCN": "11级时，当铳士以火器攻击命中一个活物时，她可以用自由动作花费1点勇毅值，使该次攻击造成额外出血伤害。出血伤害量等于铳士的敏捷调整值。或者，铳士可以花费2点勇毅值，改为造成1点力量、敏捷或体质出血伤害（由铳士选择）。"
+},
+{
+"Key": "Bleed.Standard.Name",
+"enGB": "Bleed",
+"zhCN": "出血"
+},
+{
+"Key": "Bleed.Standard.Description",
+"enGB": "This creature takes {g|Encyclopedia:HP}hit point{/g} {g|Encyclopedia:Damage}damage{/g} each turn equal to the dexterity modifier of the gunslinger who wounded them. Bleeding can be stopped through the application of any effect that {g|Encyclopedia:Healing}cures{/g} hit point damage (even if the bleed is {g|Encyclopedia:AbilityDamage}ability damage{/g}).",
+"zhCN": "该生物每回合承受{g|Encyclopedia:HP}生命值{/g}{g|Encyclopedia:Damage}伤害{/g}，数值等于造成此伤的铳士的敏捷调整值。出血可通过任何能{g|Encyclopedia:Healing}治愈{/g}生命值伤害的效果来止住（即使出血是{g|Encyclopedia:AbilityDamage}属性伤害{/g}）。"
+},
+{
+"Key": "Bleed.Strength.Name",
+"enGB": "Strength Bleed",
+"zhCN": "力量出血"
+},
+{
+"Key": "Bleed.Strength.Description",
+"enGB": "This creature takes strength damage each turn equal to the dexterity modifier of the gunslinger who wounded them. Bleeding can be stopped through the application of any effect that {g|Encyclopedia:Healing}cures{/g} hit point damage (even if the bleed is {g|Encyclopedia:AbilityDamage}ability damage{/g}).",
+"zhCN": "该生物每回合承受力量伤害，数值等于造成此伤的铳士的敏捷调整值。出血可通过任何能{g|Encyclopedia:Healing}治愈{/g}生命值伤害的效果来止住（即使出血是{g|Encyclopedia:AbilityDamage}属性伤害{/g}）。"
+},
+{
+"Key": "Bleed.Constitution.Name",
+"enGB": "Constitution Bleed",
+"zhCN": "体质出血"
+},
+{
+"Key": "Bleed.Constitution.Description",
+"enGB": "This creature takes constitution damage each turn equal to the dexterity modifier of the gunslinger who wounded them. Bleeding can be stopped through the application of any effect that {g|Encyclopedia:Healing}cures{/g} hit point damage (even if the bleed is {g|Encyclopedia:AbilityDamage}ability damage{/g}).",
+"zhCN": "该生物每回合承受体质伤害，数值等于造成此伤的铳士的敏捷调整值。出血可通过任何能{g|Encyclopedia:Healing}治愈{/g}生命值伤害的效果来止住（即使出血是{g|Encyclopedia:AbilityDamage}属性伤害{/g}）。"
+},
+{
+"Key": "Bleed.Dexterity.Name",
+"enGB": "Dexterity Bleed",
+"zhCN": "敏捷出血"
+},
+{
+"Key": "Bleed.Dexterity.Description",
+"enGB": "This creature takes Dexterity damage each turn equal to the dexterity modifier of the gunslinger who wounded them. Bleeding can be stopped through the application of any effect that {g|Encyclopedia:Healing}cures{/g} hit point damage (even if the bleed is {g|Encyclopedia:AbilityDamage}ability damage{/g}).",
+"zhCN": "该生物每回合承受敏捷伤害，数值等于造成此伤的铳士的敏捷调整值。出血可通过任何能{g|Encyclopedia:Healing}治愈{/g}生命值伤害的效果来止住（即使出血是{g|Encyclopedia:AbilityDamage}属性伤害{/g}）。"
+},
+{
+"Key": "Deeds.Evasive.Name",
+"enGB": "Gunslinger's Evasion",
+"zhCN": "铳士闪避"
+},
+{
+"Key": "Deeds.Evasive.Description",
+"enGB": "At 15th level, when the gunslinger has at least 1 grit point, she gains the benefit of the evasion, uncanny dodge, and improved uncanny dodge rogue class features. She uses her gunslinger level as her rogue level for improved uncanny dodge. ",
+"zhCN": "15级时，当铳士拥有至少1点勇毅值，她获得游荡者职业特性的反射闪避、直觉闪避和精通直觉闪避的好处。她以铳士等级作为游荡者等级来决定精通直觉闪避。"
+},
+{
+"Key": "Deeds.StunningShot.Name",
+"enGB": "Stunning Shot",
+"zhCN": "震慑射击"
+},
+{
+"Key": "Deeds.StunningShot.Description",
+"enGB": "At 19th level, when a gunslinger hits a creature, she can spend 2 grit points to stun the creature for 1 round. The creature must make a Fortitude saving throw (the DC = 10 + 1/2 the gunslinger's level + the gunslinger's Wisdom modifier). If the creature fails, it is stunned for 1 round.",
+"zhCN": "19级时，当铳士命中一个生物，她可以花费2点勇毅值使该生物震慑1轮。该生物必须进行强韧豁免（DC = 10 + 1/2铳士等级 + 铳士的感知调整值）。若失败，则震慑1轮。"
+},
+{
+"Key": "DamagedFirearm.Name",
+"enGB": "Damaged Firearm",
+"zhCN": "损坏的火器"
+},
+{
+"Key": "DamagedFirearm.Description",
+"enGB": "When a firearm misfires, it gains the broken condition. While it has the broken condition its misfire value increases by 2. If an early firearm with the broken condition misfires again, it explodes. Each firearm has a burst size noted in parentheses after its misfire value. Any creature within this burst (including the firearm's wielder) takes damage as if it had been hit by the weapon—a DC 12 Reflex save halves this damage.",
+"zhCN": "当火器哑火时，它会获得破损状态。在破损状态下，其哑火值增加2。如果具有破损状态的早期火器再次哑火，它会炸膛。每种火器在其哑火值后的括号内标明了爆发范围。任何在该爆发范围内的生物（包括火器持用者）承受等同于被该武器命中的伤害——通过DC 12的反射豁免可使此伤害减半。"
+},
+{
+"Key": "Misfire.Early.Description",
+"enGB": "If the natural result of your attack roll falls within a firearm's misfire value, that shot misses, even if you would have otherwise hit the target. When a firearm misfires, it gains the broken condition. While it has the broken condition its misfire value increases by 2. If an early firearm with the broken condition misfires again, it explodes. Each firearm has a burst size noted in parentheses after its misfire value. Any creature within this burst (including the firearm's wielder) takes damage as if it had been hit by the weapon—a DC 12 Reflex save halves this damage.",
+"zhCN": "若你的攻击检定骰值位于火器的哑火值范围内，则该次射击失手，即使原本可以命中目标。当火器哑火时，它会获得破损状态。在破损状态下，其哑火值增加2。如果具有破损状态的早期火器再次哑火，它会炸膛。每种火器在其哑火值后的括号内标明了爆发范围。任何在该爆发范围内的生物（包括火器持用者）承受等同于被该武器命中的伤害——通过DC 12的反射豁免可使此伤害减半。"
+},
+{
+"Key": "Misfire.1.5.Name",
+"enGB": "Misfire 1 (5ft)",
+"zhCN": "哑火 1（5尺）"
+},
+{
+"Key": "Misfire.12.5.Name",
+"enGB": "Misfire 1-2 (5ft)",
+"zhCN": "哑火 1-2（5尺）"
+},
+{
+"Key": "Misfire.12.10.Name",
+"enGB": "Misfire 1-2 (10ft)",
+"zhCN": "哑火 1-2（10尺）"
+},
+{
+"Key": "Misfire.Advanced.Description",
+"enGB": "If the natural result of your attack roll falls within a firearm's misfire value, that shot misses, even if you would have otherwise hit the target. When a firearm misfires, it gains the broken condition. While it has the broken condition its misfire value increases by 2.",
+"zhCN": "若你的攻击检定骰值位于火器的哑火值范围内，则该次射击失手，即使原本可以命中目标。当火器哑火时，它会获得破损状态。在破损状态下，其哑火值增加2。"
+},
+{
+"Key": "Misfire.1.A.Name",
+"enGB": "Misfire 1",
+"zhCN": "哑火 1"
+},
+{
+"Key": "Misfire.12.A.Name",
+"enGB": "Misfire 1-2",
+"zhCN": "哑火 1-2"
+},
+{
+"Key": "Grit.Name",
+"enGB": "Grit",
+"zhCN": "勇毅"
+},
+{
+"Key": "Grit.Description",
+"enGB": "A gunslinger makes her mark upon the world with daring deeds. Some gunslingers claim they belong to a mystical way of the gun, but it's more likely that the volatile nature of firearms simply prunes the unlucky and careless from their ranks. Whatever the reason, all gunslingers have grit. In game terms, grit is a fluctuating measure of a gunslinger's ability to perform amazing actions in combat. At the start of each day, a gunslinger gains a number of grit points equal to her Wisdom modifier (minimum 1). Her grit goes up or down throughout the day, but usually cannot go higher than her Wisdom modifier (minimum 1), though some feats and magic items may affect this maximum. A gunslinger spends grit to accomplish deeds (see below), and regains grit in the following ways.\r\n\r\nCritical Hit with a Firearm: Each time the gunslinger confirms a critical hit with a firearm attack while in the heat of combat, she regains 1 grit point.\r\n\r\nKilling Blow with a Firearm: When the gunslinger reduces a creature to 0 or fewer hit points with a firearm attack while in the heat of combat, she regains 1 grit point.",
+"zhCN": "铳士以大胆的炫技在世界上留下自己的印记。有些铳士声称她们属于某种神秘的枪之大道，但更可能的是，火器的不稳定性只会淘汰掉不幸和粗心的人。无论何种原因，所有铳士都拥有勇毅。在游戏术语中，勇毅是一个用来衡量铳士在战斗中完成惊人动作能力的浮动值。每天开始时，铳士获得等于其感知调整值（最低1点）的勇毅值。她的勇毅值会在一天中上下浮动，但通常不能高于她的感知调整值（最低1点），尽管某些专长和魔法物品可能影响此上限。铳士花费勇毅值来执行炫技（见下文），并通过以下方式回复勇毅。\r\n\r\n火器造成重击：每次铳士在战斗中用火器攻击确认重击，她回复1点勇毅值。\r\n\r\n火器完成击杀：当铳士在战斗中用火器攻击将一个生物的生命值降至0或更低时，她回复1点勇毅值。"
+},
+{
+"Key": "Grit.Description.Short",
+"enGB": "At the start of each day, a gunslinger gains a number of grit points equal to her Wisdom modifier (minimum 1). Her grit goes up or down throughout the day, but usually cannot go higher than her Wisdom modifier (minimum 1)",
+"zhCN": "每天开始时，铳士获得等于其感知调整值（最低1点）的勇毅值。她的勇毅值会在一天中上下浮动，但通常不能高于她的感知调整值（最低1点）"
+},
+{
+"Key": "TrueGrit.Name",
+"enGB": "True Grit",
+"zhCN": "纯正勇毅"
+},
+{
+"Key": "TrueGrit.Description",
+"enGB": "At 20th level, a gunslinger recoveres 1 grit each time she spends it allowing her to perform deeds for 1 grit less so long as she has enough grit to perform them at their standard cost.",
+"zhCN": "20级时，铳士每次花费勇毅值时回复1点，这使她只要拥有足以支付炫技标准消耗的勇毅值，就可以以少花费1点勇毅的代价执行炫技。"
+},
+{
+"Key": "GunTraining.Name",
+"enGB": "Gun Training",
+"zhCN": "枪械训练"
+},
+{
+"Key": "GunTraining.Description",
+"enGB": "Starting at 5th level, a gunslinger gains a bonus equal to her Dexterity modifier on damage rolls with firearms.",
+"zhCN": "从5级开始，铳士在火器的伤害检定上获得等于其敏捷调整值的加值。"
+},
+{
+"Key": "Nimble.Name",
+"enGB": "Nimble",
+"zhCN": "机敏"
+},
+{
+"Key": "Nimble.Description",
+"enGB": "Starting at 2nd level, a gunslinger gains a +1 dodge bonus to AC while wearing light or no armor. Anything that causes the gunslinger to lose her Dexterity bonus to AC also causes the gunslinger to lose this dodge bonus. This bonus increases by +1 for every four levels beyond 2nd level (to a maximum of +5 at 20th level).",
+"zhCN": "从2级开始，铳士在穿戴轻型盔甲或无甲时，AC获得+1闪避加值。任何导致铳士失去AC敏捷加值的情况也会使她失去此闪避加值。此加值在2级后每4级额外+1（20级时达到最大+5）。"
+},
+{
+"Key": "Nimble.Buff.Name",
+"enGB": "AC Bonus (Nimble)",
+"zhCN": "AC加值（机敏）"
+},
+{
+"Key": "Firearms.Early.Reload.Name",
+"enGB": "Muzzle Loading",
+"zhCN": "前装填"
+},
+{
+"Key": "Firearms.Early.Reload.Description",
+"enGB": "Early firearms are muzzle-loaded, requiring bullets or pellets and black powder to be rammed down the muzzle.. It is a standard action to load a one-handed early firearm and a full-round action to load a two-handed early firearm.",
+"zhCN": "早期火器为前装填，需要将弹丸或霰弹和黑火药从枪口捣入。装填一把单手早期火器是标准动作，装填一把双手早期火器是整轮动作。"
+},
+{
+"Key": "Firearms.Advanced.Reload.Name",
+"enGB": "Chamber Loading",
+"zhCN": "弹仓装填"
+},
+{
+"Key": "Firearms.Advanced.Reload.Description",
+"enGB": "Advanced firearms are chamber-loaded. It is a move action to load a one-handed or two-handed advanced firearm to its full capacity. The Rapid Reload feat reduces this to a free action (allowing you to ignore the requirement to reload between shots).",
+"zhCN": "先进火器为弹仓装填。装填一把单手或双手先进火器至满容量是一个移动动作。快速装填专长可将其降为自由动作（使你忽略两次射击间必须装填的要求）。"
+},
+{
+"Key": "Firearms.Reload.Name",
+"enGB": "Reload",
+"zhCN": "装填"
+},
+{
+"Key": "Firearms.RapidReload.Name",
+"enGB": "Rapid Reload",
+"zhCN": "快速装填"
+},
+{
+"Key": "Firearms.AP.Name",
+"enGB": "Armor Penetrating",
+"zhCN": "穿甲"
+},
+{
+"Key": "Firearms.AP.Description",
+"enGB": "Firearms penetrate most forms of armor: bypassing shield, armor, and natural armor bonuses to AC",
+"zhCN": "火器能穿透大多数类型的盔甲：忽略盾牌、盔甲和天生防御带来的AC加值"
+},
+{
+"Key": "Firearms.Musket.Name",
+"enGB": "Musket",
+"zhCN": "滑膛枪"
+},
+{
+"Key": "Firearms.Musket.Description",
+"enGB": "This long-barreled firearm has a much greater range than a pistol. A musket uses either a bullet and 1 dose of black powder or a single alchemical cartridge as its ammunition. This is an early firearm.",
+"zhCN": "这种长管火器比手枪射程远得多。滑膛枪使用一颗子弹和一份黑火药或一枚炼金弹药作为弹药。这是一件早期火器。"
+},
+{
+"Key": "Firearms.Pistol.Name",
+"enGB": "Pistol",
+"zhCN": "手枪"
+},
+{
+"Key": "Firearms.Pistol.Description",
+"enGB": "The basic single-shot pistol is one of the most common firearms, although it is still rare enough to be an object of envy or curiosity to most. This is an early firearm.",
+"zhCN": "基本单发手枪是最常见的火器之一，但仍然罕见，足以成为大多数人羡慕或好奇的对象。这是一件早期火器。"
+},
+{
+"Key": "Firearms.Rifle.Name",
+"enGB": "Rifle",
+"zhCN": "步枪"
+},
+{
+"Key": "Firearms.Rifle.Description",
+"enGB": "This improvement on the musket features a grooved barrel that imparts a twisting, spiral motion to the bullet as it exits, stabilizing it and preventing the end-over-end tumbling common to projectiles from simpler firearms. As a result, a rifle can fire significantly farther and with more accuracy than early long-bore firearms. A rifle uses metal cartridges as ammunition. This is an advanced firearm.",
+"zhCN": "这种滑膛枪的改进型具有刻有膛线的枪管，能在子弹射出时赋予其旋转、螺旋的运动，稳定弹道并防止简单火器弹药常见的翻滚。因此，步枪的射程和精度远优于早期长管火器。步枪使用金属弹药作为弹药。这是一件先进火器。"
+},
+{
+"Key": "Firearms.Revolver.Name",
+"enGB": "Revolver",
+"zhCN": "转轮枪"
+},
+{
+"Key": "Firearms.Revolver.Description",
+"enGB": "A revolver is a pistol with a revolving cylinder containing six chambers. Each chamber can hold a metal cartridge, and when one cartridge is fired, the cylinder automatically rotates (no extra hand or action required), readying the next chamber for firing. A revolver uses metal cartridges as ammunition. This is an advanced firearm.",
+"zhCN": "转轮枪是一种带有转轮式弹巢的手枪，弹巢内有六个弹仓。每个弹仓可以容纳一发金属弹药，当一发弹药发射后，弹巢会自动旋转（无需额外手部或动作），准备好下一发弹药发射。转轮枪使用金属弹药作为弹药。这是一件先进火器。"
+},
+{
+"Key": "Feats.FirearmProficiency.Name",
+"enGB": "Weapon Proficiency (firearms)",
+"zhCN": "武器擅长（火器）"
+},
+{
+"Key": "Feats.FirearmProficiency.Description",
+"enGB": "The Weapon Proficiency (firearms) feat allows you to use all firearms without penalty.",
+"zhCN": "武器擅长（火器）专长让你可以无惩罚地使用所有火器。"
+},
+{
+"Key": "Feats.RapidReload.Name",
+"enGB": "Rapid Reload",
+"zhCN": "快速装填"
+},
+{
+"Key": "Feats.RapidReload.Description",
+"enGB": "The time required for you to reload a firearm is reduced to a move action (for a one-handed firearm), or a standard action (two-handed firearm). Reloading a firearm still provokes attacks of opportunity.\r\n\r\nIf you have this feat you may fire an advanced firearm as a full-attack action.",
+"zhCN": "你装填火器所需的时间降低为移动动作（对于单手火器）或标准动作（双手火器）。装填火器仍会引发借机攻击。\r\n\r\n如果你拥有此专长，则可以在使用先进火器时进行整轮攻击。"
+},
+{
+"Key": "Feats.WeaponFocus.Musket.Name",
+"enGB": "Weapon Focus (Musket)",
+"zhCN": "武器专攻（滑膛枪）"
+},
+{
+"Key": "Feats.WeaponFocus.Musket.Description",
+"enGB": "You gain a +1 {g|Encyclopedia:Bonus}bonus{/g} on all {g|Encyclopedia:Attack}attack rolls{/g} you make using muskets.",
+"zhCN": "你使用滑膛枪进行的所有{g|Encyclopedia:Attack}攻击检定{/g}获得+1{g|Encyclopedia:Bonus}加值{/g}。"
+},
+{
+"Key": "Feats.WeaponFocus.Greater.Musket.Name",
+"enGB": "Greater Weapon Focus (Musket)",
+"zhCN": "高等武器专攻（滑膛枪）"
+},
+{
+"Key": "Feats.WeaponFocus.Greater.Musket.Description",
+"enGB": "You gain a +1 {g|Encyclopedia:Bonus}bonus{/g} on all {g|Encyclopedia:Attack}attack rolls{/g} you make using muskets.",
+"zhCN": "你使用滑膛枪进行的所有{g|Encyclopedia:Attack}攻击检定{/g}获得+1{g|Encyclopedia:Bonus}加值{/g}。"
+},
+{
+"Key": "Feats.WeaponSpecialization.Musket.Name",
+"enGB": "Weapon Specialization (Musket)",
+"zhCN": "武器专精（滑膛枪）"
+},
+{
+"Key": "Feats.WeaponSpecialization.Musket.Description",
+"enGB": "You gain a +2 {g|Encyclopedia:Bonus}bonus{/g} on all {g|Encyclopedia:Damage}damage rolls{/g} you make using muskets.",
+"zhCN": "你使用滑膛枪进行的所有{g|Encyclopedia:Damage}伤害检定{/g}获得+2{g|Encyclopedia:Bonus}加值{/g}。"
+},
+{
+"Key": "Feats.WeaponSpecialization.Greater.Musket.Name",
+"enGB": "Greater Weapon Specialization (Musket)",
+"zhCN": "高等武器专精（滑膛枪）"
+},
+{
+"Key": "Feats.WeaponSpecialization.Greater.Musket.Description",
+"enGB": "You gain a +2 {g|Encyclopedia:Bonus}bonus{/g} on all {g|Encyclopedia:Damage}damage rolls{/g} you make using muskets.",
+"zhCN": "你使用滑膛枪进行的所有{g|Encyclopedia:Damage}伤害检定{/g}获得+2{g|Encyclopedia:Bonus}加值{/g}。"
+},
+{
+"Key": "Feats.WeaponFocus.Pistol.Name",
+"enGB": "Weapon Focus (Pistol)",
+"zhCN": "武器专攻（手枪）"
+},
+{
+"Key": "Feats.WeaponFocus.Pistol.Description",
+"enGB": "You gain a +1 {g|Encyclopedia:Bonus}bonus{/g} on all {g|Encyclopedia:Attack}attack rolls{/g} you make using pistols.",
+"zhCN": "你使用手枪进行的所有{g|Encyclopedia:Attack}攻击检定{/g}获得+1{g|Encyclopedia:Bonus}加值{/g}。"
+},
+{
+"Key": "Feats.WeaponFocus.Greater.Pistol.Name",
+"enGB": "Greater Weapon Focus (Pistol)",
+"zhCN": "高等武器专攻（手枪）"
+},
+{
+"Key": "Feats.WeaponFocus.Greater.Pistol.Description",
+"enGB": "You gain a +1 {g|Encyclopedia:Bonus}bonus{/g} on all {g|Encyclopedia:Attack}attack rolls{/g} you make using pistols.",
+"zhCN": "你使用手枪进行的所有{g|Encyclopedia:Attack}攻击检定{/g}获得+1{g|Encyclopedia:Bonus}加值{/g}。"
+},
+{
+"Key": "Feats.WeaponSpecialization.Pistol.Name",
+"enGB": "Weapon Specialization (Pistol)",
+"zhCN": "武器专精（手枪）"
+},
+{
+"Key": "Feats.WeaponSpecialization.Pistol.Description",
+"enGB": "You gain a +2 {g|Encyclopedia:Bonus}bonus{/g} on all {g|Encyclopedia:Damage}damage rolls{/g} you make using pistols.",
+"zhCN": "你使用手枪进行的所有{g|Encyclopedia:Damage}伤害检定{/g}获得+2{g|Encyclopedia:Bonus}加值{/g}。"
+},
+{
+"Key": "Feats.WeaponSpecialization.Greater.Pistol.Name",
+"enGB": "Greater Weapon Specialization (Pistol)",
+"zhCN": "高等武器专精（手枪）"
+},
+{
+"Key": "Feats.WeaponSpecialization.Greater.Pistol.Description",
+"enGB": "You gain a +2 {g|Encyclopedia:Bonus}bonus{/g} on all {g|Encyclopedia:Damage}damage rolls{/g} you make using pistols.",
+"zhCN": "你使用手枪进行的所有{g|Encyclopedia:Damage}伤害检定{/g}获得+2{g|Encyclopedia:Bonus}加值{/g}。"
+},
+{
+"Key": "Feats.WeaponFocus.Rifle.Name",
+"enGB": "Weapon Focus (Rifle)",
+"zhCN": "武器专攻（步枪）"
+},
+{
+"Key": "Feats.WeaponFocus.Rifle.Description",
+"enGB": "You gain a +1 {g|Encyclopedia:Bonus}bonus{/g} on all {g|Encyclopedia:Attack}attack rolls{/g} you make using rifles.",
+"zhCN": "你使用步枪进行的所有{g|Encyclopedia:Attack}攻击检定{/g}获得+1{g|Encyclopedia:Bonus}加值{/g}。"
+},
+{
+"Key": "Feats.WeaponFocus.Greater.Rifle.Name",
+"enGB": "Greater Weapon Focus (Rifle)",
+"zhCN": "高等武器专攻（步枪）"
+},
+{
+"Key": "Feats.WeaponFocus.Greater.Rifle.Description",
+"enGB": "You gain a +1 {g|Encyclopedia:Bonus}bonus{/g} on all {g|Encyclopedia:Attack}attack rolls{/g} you make using rifles.",
+"zhCN": "你使用步枪进行的所有{g|Encyclopedia:Attack}攻击检定{/g}获得+1{g|Encyclopedia:Bonus}加值{/g}。"
+},
+{
+"Key": "Feats.WeaponSpecialization.Rifle.Name",
+"enGB": "Weapon Specialization (Rifle)",
+"zhCN": "武器专精（步枪）"
+},
+{
+"Key": "Feats.WeaponSpecialization.Rifle.Description",
+"enGB": "You gain a +2 {g|Encyclopedia:Bonus}bonus{/g} on all {g|Encyclopedia:Damage}damage rolls{/g} you make using rifles.",
+"zhCN": "你使用步枪进行的所有{g|Encyclopedia:Damage}伤害检定{/g}获得+2{g|Encyclopedia:Bonus}加值{/g}。"
+},
+{
+"Key": "Feats.WeaponSpecialization.Greater.Rifle.Name",
+"enGB": "Greater Weapon Specialization (Rifle)",
+"zhCN": "高等武器专精（步枪）"
+},
+{
+"Key": "Feats.WeaponSpecialization.Greater.Rifle.Description",
+"enGB": "You gain a +2 {g|Encyclopedia:Bonus}bonus{/g} on all {g|Encyclopedia:Damage}damage rolls{/g} you make using rifles.",
+"zhCN": "你使用步枪进行的所有{g|Encyclopedia:Damage}伤害检定{/g}获得+2{g|Encyclopedia:Bonus}加值{/g}。"
+},
+{
+"Key": "Feats.WeaponFocus.Revolver.Name",
+"enGB": "Weapon Focus (Revolver)",
+"zhCN": "武器专攻（转轮枪）"
+},
+{
+"Key": "Feats.WeaponFocus.Revolver.Description",
+"enGB": "You gain a +1 {g|Encyclopedia:Bonus}bonus{/g} on all {g|Encyclopedia:Attack}attack rolls{/g} you make using revolvers.",
+"zhCN": "你使用转轮枪进行的所有{g|Encyclopedia:Attack}攻击检定{/g}获得+1{g|Encyclopedia:Bonus}加值{/g}。"
+},
+{
+"Key": "Feats.WeaponFocus.Greater.Revolver.Name",
+"enGB": "Greater Weapon Focus (Revolver)",
+"zhCN": "高等武器专攻（转轮枪）"
+},
+{
+"Key": "Feats.WeaponFocus.Greater.Revolver.Description",
+"enGB": "You gain a +1 {g|Encyclopedia:Bonus}bonus{/g} on all {g|Encyclopedia:Attack}attack rolls{/g} you make using revolvers.",
+"zhCN": "你使用转轮枪进行的所有{g|Encyclopedia:Attack}攻击检定{/g}获得+1{g|Encyclopedia:Bonus}加值{/g}。"
+},
+{
+"Key": "Feats.WeaponSpecialization.Revolver.Name",
+"enGB": "Weapon Specialization (Revolver)",
+"zhCN": "武器专精（转轮枪）"
+},
+{
+"Key": "Feats.WeaponSpecialization.Revolver.Description",
+"enGB": "You gain a +2 {g|Encyclopedia:Bonus}bonus{/g} on all {g|Encyclopedia:Damage}damage rolls{/g} you make using revolvers.",
+"zhCN": "你使用转轮枪进行的所有{g|Encyclopedia:Damage}伤害检定{/g}获得+2{g|Encyclopedia:Bonus}加值{/g}。"
+},
+{
+"Key": "Feats.WeaponSpecialization.Greater.Revolver.Name",
+"enGB": "Greater Weapon Specialization (Revolver)",
+"zhCN": "高等武器专精（转轮枪）"
+},
+{
+"Key": "Feats.WeaponSpecialization.Greater.Revolver.Description",
+"enGB": "You gain a +2 {g|Encyclopedia:Bonus}bonus{/g} on all {g|Encyclopedia:Damage}damage rolls{/g} you make using revolvers.",
+"zhCN": "你使用转轮枪进行的所有{g|Encyclopedia:Damage}伤害检定{/g}获得+2{g|Encyclopedia:Bonus}加值{/g}。"
+}
+]
