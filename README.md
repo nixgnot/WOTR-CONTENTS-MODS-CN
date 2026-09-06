@@ -5261,7 +5261,7 @@ C:\Users\你的用户名\AppData\LocalLow\Owlcat Games\Pathfinder Wrath Of The R
   	<tr><td>转轮枪<br>Revolver</td>
 		<td>先进单手火器，转轮弹巢包含六个弹仓，开火后自动旋转准备下一发。</td>
 </table>   
-------------------------------------------- 
+-------------------------------------------
 
 ### 功能MOD索引
 + [ToyBox](https://github.com/xADDBx/ToyBox-Wrath) :v::v::v:应该不用介绍？
@@ -5276,5 +5276,6 @@ C:\Users\你的用户名\AppData\LocalLow\Owlcat Games\Pathfinder Wrath Of The R
 + [SpellPouch](https://github.com/Truinto/SpellPouch) :v:图标合一（可以将多个能力合为一个层叠图标便于使用）
 + [FamiliarPlus](https://www.nexusmods.com/pathfinderwrathoftherighteous/mods/192) :v::v:宠物加强（物品小宠物不召唤出来能力也生效）
 + [PuzzleSkip](https://github.com/Balkoth-dev/PuzzleSkip) 跳过部分解谜
++ [CombatLogDCBreakdown](https://github.com/alterasc/CombatLogDCBreakdown) :v::v::v:在战斗日志中更详细展示豁免难度DC来源
 
 
