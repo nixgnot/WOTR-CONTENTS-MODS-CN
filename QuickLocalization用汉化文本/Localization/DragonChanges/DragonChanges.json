@@ -404,7 +404,7 @@
   {
     "Key": "AutoMaximize-ability.description",
     "enGB": "Enable to apply Maximize metamagic to all spells without increasing casting time or using a higher-level spell slot.",
-    "zhCN": "允许你通过神话力量给予你的法术极效超魔。"
+    "zhCN": "开启后，对所有法术应用极效超魔，且无需增加施法时间或占用更高环位的法术位。"
   },
   {
     "Key": "AutoMaximize-buff.name",
@@ -437,7 +437,7 @@
   {
     "Key": "AutoExtend-ability.description",
     "enGB": "Enable to apply Extend metamagic to all spells without increasing casting time or using a higher-level spell slot.",
-    "zhCN": "允许你通过神话力量给予你的法术延时超魔。"
+    "zhCN": "启用后，对所有法术应用法术延时超魔，而不会增加施法时间或占用更高环级的法术位。"
   },
   {
     "Key": "AutoExtend-buff.name",
@@ -470,7 +470,7 @@
   {
     "Key": "AutoEmpower-ability.description",
     "enGB": "Enable to apply Empower metamagic to all spells without increasing casting time or using a higher-level spell slot.",
-    "zhCN": "允许你通过神话力量给予你的法术强效超魔。"
+    "zhCN": "启用后，对所有法术应用法术强效超魔，而不会增加施法时间或占用更高环级的法术位。"
   },
   {
     "Key": "AutoEmpower-buff.name",
@@ -503,7 +503,7 @@
   {
     "Key": "AutoQuicken-ability.description",
     "enGB": "Enable to apply Quicken metamagic to all spells without increasing casting time or using a higher-level spell slot.",
-    "zhCN": "允许你通过神话力量给予你的法术瞬发超魔。"
+    "zhCN": "启用后，对所有法术应用法术瞬发超魔，而不会增加施法时间或占用更高环级的法术位。"
   },
   {
     "Key": "AutoQuicken-buff.name",
@@ -536,7 +536,7 @@
   {
     "Key": "AutoReach-ability.description",
     "enGB": "Enable to apply Reach metamagic to all spells without increasing casting time or using a higher-level spell slot.",
-    "zhCN": "允许你通过神话力量给予你的法术及远超魔。"
+    "zhCN": "启用后，对所有法术应用法术及远超魔，而不会增加施法时间或占用更高环级的法术位。"
   },
   {
     "Key": "AutoReach-buff.name",
@@ -569,7 +569,7 @@
   {
     "Key": "AutoBolstered-ability.description",
     "enGB": "Enable to apply Bolster metamagic to all spells without increasing casting time or using a higher-level spell slot.",
-    "zhCN": "允许你通过神话力量给予你的法术增效超魔。"
+    "zhCN": "启用后，对所有法术应用法术增效超魔，而不会增加施法时间或占用更高环级的法术位。"
   },
   {
     "Key": "AutoBolstered-buff.name",
@@ -602,7 +602,7 @@
   {
     "Key": "AutoSelective-ability.description",
     "enGB": "Enable to apply Selective metamagic to all spells without increasing casting time or using a higher-level spell slot.",
-    "zhCN": "允许你通过神话力量给予你的法术甄选超魔。"
+    "zhCN": "启用后，对所有法术应用法术甄选超魔，而不会增加施法时间或占用更高环级的法术位。"
   },
   {
     "Key": "AutoSelective-buff.name",
@@ -635,7 +635,7 @@
   {
     "Key": "AutoPersistent-ability.description",
     "enGB": "Enable to apply Persistent metamagic to all spells without increasing casting time or using a higher-level spell slot.",
-    "zhCN": "允许你通过神话力量给予你的法术顽强超魔。"
+    "zhCN": "启用后，对所有法术应用法术顽强超魔，而不会增加施法时间或占用更高环级的法术位。"
   },
   {
     "Key": "AutoPersistent-buff.name",
@@ -668,7 +668,7 @@
   {
     "Key": "AutoIntensified-ability.description",
     "enGB": "Enable to apply Itensify metamagic to all spells without increasing casting time or using a higher-level spell slot.",
-    "zhCN": "允许你通过神话力量给予你的法术强化超魔。"
+    "zhCN": "启用后，对所有法术应用法术强化超魔，而不会增加施法时间或占用更高环级的法术位。"
   },
   {
     "Key": "AutoIntensified-buff.name",
@@ -701,7 +701,7 @@
   {
     "Key": "AutoPiercing-ability.description",
     "enGB": "Enable to apply Piercing metamagic to all spells without increasing casting time or using a higher-level spell slot.",
-    "zhCN": "允许你通过神话力量给予你的法术穿刺超魔。"
+    "zhCN": "启用后，对所有法术应用法术穿刺超魔，而不会增加施法时间或占用更高环级的法术位。"
   },
   {
     "Key": "AutoPiercing-buff.name",
@@ -734,7 +734,7 @@
   {
     "Key": "AutoBurning-ability.description",
     "enGB": "Enable to apply Burning metamagic to all spells without increasing casting time or using a higher-level spell slot.",
-    "zhCN": "允许你通过神话力量给予你的法术燃烧超魔。"
+    "zhCN": "启用后，对所有法术应用法术燃烧超魔，而不会增加施法时间或占用更高环级的法术位。"
   },
   {
     "Key": "AutoBurning-buff.name",
@@ -767,7 +767,7 @@
   {
     "Key": "AutoEncourage-ability.description",
     "enGB": "Enable to apply Encouraging metamagic to all spells without increasing casting time or using a higher-level spell slot.",
-    "zhCN": "允许你通过神话力量给予你的法术激励超魔。"
+    "zhCN": "启用后，对所有法术应用法术激励超魔，而不会增加施法时间或占用更高环级的法术位。"
   },
   {
     "Key": "AutoEncourage-buff.name",
@@ -800,7 +800,7 @@
   {
     "Key": "AutoFlare-ability.description",
     "enGB": "Enable to apply Flaring metamagic to all spells without increasing casting time or using a higher-level spell slot.",
-    "zhCN": "允许你通过神话力量给予你的法术闪耀超魔。"
+    "zhCN": "启用后，对所有法术应用法术闪耀超魔，而不会增加施法时间或占用更高环级的法术位。"
   },
   {
     "Key": "AutoFlare-buff.name",
@@ -833,7 +833,7 @@
   {
     "Key": "AutoRime-ability.description",
     "enGB": "Enable to apply Rime metamagic to all spells without increasing casting time or using a higher-level spell slot.",
-    "zhCN": "允许你通过神话力量给予你的法术霜冻超魔。"
+    "zhCN": "启用后，对所有法术应用法术霜冻超魔，而不会增加施法时间或占用更高环级的法术位。"
   },
   {
     "Key": "AutoRime-buff.name",
@@ -866,7 +866,7 @@
   {
     "Key": "AutoSolidShadows-ability.description",
     "enGB": "Enable to apply Solid Shadows metamagic to all spells without increasing casting time or using a higher-level spell slot.",
-    "zhCN": "允许你通过神话力量给予你的法术实体幽影超魔。"
+    "zhCN": "启用后，对所有法术应用法术实体幽影超魔，而不会增加施法时间或占用更高环级的法术位。"
   },
   {
     "Key": "AutoSolidShadows-buff.name",
