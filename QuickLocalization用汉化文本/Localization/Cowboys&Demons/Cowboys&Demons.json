@@ -1,567 +1,2703 @@
 [
-{
-"Key": "Gunslinger.Class.Name",
-"enGB": "Gunslinger",
-"zhCN": "铳士"
-},
-{
-"Key": "Gunslinger.Class.Description",
-"enGB": "For a renegade few, battle sounds different than it does for the typical fighter. The clash of steel and the sizzle of spell energy are drowned out by the thunderous rhythm of gunfire—the pounding beat of the gunslinger.\r\n\r\nGunslingers are a bold and mysterious lot. While many treat the secrets of black powder with the same care and reverence that a wizard typically reserves for his spellbook, most gunslingers know that firearms are a secret that cannot remain concealed forever. While current firearms are simple, often imprecise, and even dangerous devices, they are a technology on the move, and one that will become even more powerful when it is fully fused with magic.",
-"zhCN": "对少数叛逆者而言，战斗的声音与普通战士截然不同。刀剑的碰撞声和法术能量的嘶嘶声，被枪火雷鸣般的节奏——铳士那震撼的鼓点——所淹没。\r\n\r\n铳士是一群大胆而神秘的家伙。尽管许多人对待黑火药的秘密，如同法师对待法术书一般谨慎而敬畏，但大多数铳士都明白，火器是一个无法永远隐藏的秘密。虽然当前的火器是简单、往往不够精确甚至危险的装置，但它们是一项不断发展的技术，一旦与魔法完全融合，将变得更为强大。"
-},
-{
-"Key": "Gunslinger.Proficiencies.Name",
-"enGB": "Gunslinger Proficiencies",
-"zhCN": "铳士擅长"
-},
-{
-"Key": "Gunslinger.Proficiencies.Description",
-"enGB": "Gunslingers are proficient with all simple and martial weapons, and with all firearms. They are proficient with all light armor. ",
-"zhCN": "铳士擅长所有简易武器、军用武器和所有火器。她们擅长所有轻型盔甲。"
-},
-{
-"Key": "Gunslinger.Class.DescriptionShort",
-"enGB": "Brave, clever, and frequently foolhardy gunslingers are thunderous artillery, often found where the fighting is fiercest.",
-"zhCN": "勇敢、机敏且常常鲁莽的铳士是雷鸣般的炮手，常出没于战斗最激烈之处。"
-},
-{
-"Key": "Deeds.QuickClear.Name",
-"enGB": "Quick Clear",
-"zhCN": "快速清膛"
-},
-{
-"Key": "Deeds.QuickClear.Description",
-"enGB": "At 1st level, as a standard action, the gunslinger can remove the broken condition from a single firearm she is currently wielding, as long as that condition was gained by a firearm misfire. The gunslinger must have at least 1 grit point to perform this deed. Alternatively, if the gunslinger spends 1 grit point to perform this deed, she can perform quick clear as a move-equivalent action instead of a standard action.",
-"zhCN": "1级时，铳士可以用一个标准动作移除她当前持用的一把火器上的破损状态，只要该破损状态是由火器哑火造成的。铳士必须拥有至少1点勇毅值才能执行此炫技。或者，如果铳士花费1点勇毅值执行此炫技，她可以用一个移动等效动作而非标准动作执行快速清膛。"
-},
-{
-"Key": "Deeds.QuickClear.Standard.Name",
-"enGB": "Quick Clear (Standard)",
-"zhCN": "快速清膛（标准动作）"
-},
-{
-"Key": "Deeds.QuickClear.Standard.Description",
-"enGB": "As a standard action, the gunslinger can remove the broken condition from a single firearm she is currently wielding. The gunslinger must have at least 1 grit point to perform this deed. ",
-"zhCN": "以标准动作，铳士可以移除她当前所持一把火器上的破损状态。执行此炫技铳士必须拥有至少1点勇毅值。"
-},
-{
-"Key": "Deeds.QuickClear.Move.Name",
-"enGB": "Quick Clear (Move)",
-"zhCN": "快速清膛（移动动作）"
-},
-{
-"Key": "Deeds.QuickClear.Move.Description",
-"enGB": "The gunslinger can remove the broken condition from a single firearm she is currently wielding as a move action if she spends 1 grit point.",
-"zhCN": "花费1点勇毅值，铳士可以以一个移动动作移除她当前所持一把火器上的破损状态。"
-},
-{
-"Key": "Deeds.SlingerInitiative.Name",
-"enGB": "Gunslinger Initiative",
-"zhCN": "把握主动"
-},
-{
-"Key": "Deeds.SlingerInitiative.Description",
-"enGB": "At 3rd level, as long as the gunslinger has at least 1 grit point, she gains a +2 bonus on initiative checks.",
-"zhCN": "3级时，只要铳士拥有至少1点勇毅值，她在先攻检定上获得+2加值。"
-},
-{
-"Key": "Deeds.Targeting.Name",
-"enGB": "Targeting",
-"zhCN": "精确瞄准"
-},
-{
-"Key": "Deeds.Targeting.Description",
-"enGB": "At 7th level, as a full-round action, the gunslinger can make a single firearm attack and choose part of the body to target. She gains the following effects depending on the part of the body targeted. This deed costs 1 grit point to perform no matter which part of the creature she targets.\r\n\r\n Arms: On a hit, the target takes no damage from the hit but is disarmed.\r\n Head: On a hit, the target is damaged normally, and is also confused for 1 round. This is a mind-affecting effect.\r\n Legs: On a hit, the target is damaged normally and knocked prone.\r\n",
-"zhCN": "7级时，以整轮动作，铳士可以进行一次火器攻击并选择目标身体的某个部位。根据目标部位获得以下效果。无论瞄准哪个部位，执行此炫技都需花费1点勇毅值。\r\n\r\n 手臂：命中时，目标不受此次攻击的伤害，但被缴械。\r\n 头部：命中时，目标正常承受伤害，并困惑1轮。此为影响心灵效果。\r\n 腿部：命中时，目标正常承受伤害并被击倒。\r\n"
-},
-{
-"Key": "Deeds.Targeting.Head.Name",
-"enGB": "Targeting (Headshot)",
-"zhCN": "精确瞄准（头部）"
-},
-{
-"Key": "Deeds.Targeting.Head.Description",
-"enGB": "On a hit, the target is damaged normally, and is also confused for 1 round. This is a mind-affecting effect.",
-"zhCN": "命中时，目标正常承受伤害，并困惑1轮。此为影响心灵效果。"
-},
-{
-"Key": "Deeds.Targeting.Arms.Name",
-"enGB": "Targeting (Arms)",
-"zhCN": "精确瞄准（手臂）"
-},
-{
-"Key": "Deeds.Targeting.Arms.Description",
-"enGB": "On a hit, the target takes no damage from the hit but is disarmed for 1 round plus 1 additional round for each 5 by which the hit roll exceeds their AC.",
-"zhCN": "命中时，目标不受此次攻击的伤害，但被缴械1轮，并且攻击检定每超过其AC 5点，额外增加1轮。"
-},
-{
-"Key": "Deeds.Targeting.Legs.Name",
-"enGB": "Targeting (Legs)",
-"zhCN": "精确瞄准（腿部）"
-},
-{
-"Key": "Deeds.Targeting.Legs.Description",
-"enGB": "Legs: On a hit, the target is damaged normally and knocked prone.",
-"zhCN": "腿部：命中时，目标正常承受伤害并被击倒。"
-},
-{
-"Key": "Deeds.BleedingShot.Standard.Name",
-"enGB": "Bleeding Shot",
-"zhCN": "出血射击"
-},
-{
-"Key": "Deeds.BleedingShot.Standard.Description",
-"enGB": "At 11th level, when the gunslinger hits a living creature with a firearm attack, she can spend 1 grit point as a free action to have that attack deal extra bleed damage. The amount of bleed damage is equal to the gunslinger's Dexterity modifier.",
-"zhCN": "11级时，当铳士以火器攻击命中一个活物时，她可以用自由动作花费1点勇毅值，使该次攻击造成额外出血伤害。出血伤害值等于铳士的敏捷调整值。"
-},
-{
-"Key": "Deeds.BleedingShot.Strength.Name",
-"enGB": "Bleeding Shot (Strength)",
-"zhCN": "出血射击（力量）"
-},
-{
-"Key": "Deeds.BleedingShot.Strength.Description",
-"enGB": "At 11th level, when the gunslinger hits a living creature with a firearm attack, she can spend 2 grit points as a free action to have that attack deal 1 point of Strength bleed damage.",
-"zhCN": "11级时，当铳士以火器攻击命中一个活物时，她可以用自由动作花费2点勇毅值，使该次攻击造成1点力量出血伤害。"
-},
-{
-"Key": "Deeds.BleedingShot.Constitution.Name",
-"enGB": "Bleeding Shot (Constitution)",
-"zhCN": "出血射击（体质）"
-},
-{
-"Key": "Deeds.BleedingShot.Constitution.Description",
-"enGB": "At 11th level, when the gunslinger hits a living creature with a firearm attack, she can spend 2 grit points as a free action to have that attack deal 1 point of Constitution bleed damage.",
-"zhCN": "11级时，当铳士以火器攻击命中一个活物时，她可以用自由动作花费2点勇毅值，使该次攻击造成1点体质出血伤害。"
-},
-{
-"Key": "Deeds.BleedingShot.Dexterity.Name",
-"enGB": "Bleeding Shot (Dexterity)",
-"zhCN": "出血射击（敏捷）"
-},
-{
-"Key": "Deeds.BleedingShot.Dexterity.Description",
-"enGB": "At 11th level, when the gunslinger hits a living creature with a firearm attack, she can spend 2 grit points as a free action to have that attack deal 1 point of Dexterity bleed damage.",
-"zhCN": "11级时，当铳士以火器攻击命中一个活物时，她可以用自由动作花费2点勇毅值，使该次攻击造成1点敏捷出血伤害。"
-},
-{
-"Key": "Deeds.BleedingShot.Description",
-"enGB": "At 11th level, when the gunslinger hits a living creature with a firearm attack, she can spend 1 grit point as a free action to have that attack deal extra bleed damage. The amount of bleed damage is equal to the gunslinger's Dexterity modifier. Alternatively, the gunslinger can spend 2 grit points to deal 1 point of Strength, Dexterity, or Constitution bleed damage (gunslinger's choice) instead.",
-"zhCN": "11级时，当铳士以火器攻击命中一个活物时，她可以用自由动作花费1点勇毅值，使该次攻击造成额外出血伤害。出血伤害量等于铳士的敏捷调整值。或者，铳士可以花费2点勇毅值，改为造成1点力量、敏捷或体质出血伤害（由铳士选择）。"
-},
-{
-"Key": "Bleed.Standard.Name",
-"enGB": "Bleed",
-"zhCN": "出血"
-},
-{
-"Key": "Bleed.Standard.Description",
-"enGB": "This creature takes {g|Encyclopedia:HP}hit point{/g} {g|Encyclopedia:Damage}damage{/g} each turn equal to the dexterity modifier of the gunslinger who wounded them. Bleeding can be stopped through the application of any effect that {g|Encyclopedia:Healing}cures{/g} hit point damage (even if the bleed is {g|Encyclopedia:AbilityDamage}ability damage{/g}).",
-"zhCN": "该生物每回合承受{g|Encyclopedia:HP}生命值{/g}{g|Encyclopedia:Damage}伤害{/g}，数值等于造成此伤的铳士的敏捷调整值。出血可通过任何能{g|Encyclopedia:Healing}治愈{/g}生命值伤害的效果来止住（即使出血是{g|Encyclopedia:AbilityDamage}属性伤害{/g}）。"
-},
-{
-"Key": "Bleed.Strength.Name",
-"enGB": "Strength Bleed",
-"zhCN": "力量出血"
-},
-{
-"Key": "Bleed.Strength.Description",
-"enGB": "This creature takes strength damage each turn equal to the dexterity modifier of the gunslinger who wounded them. Bleeding can be stopped through the application of any effect that {g|Encyclopedia:Healing}cures{/g} hit point damage (even if the bleed is {g|Encyclopedia:AbilityDamage}ability damage{/g}).",
-"zhCN": "该生物每回合承受力量伤害，数值等于造成此伤的铳士的敏捷调整值。出血可通过任何能{g|Encyclopedia:Healing}治愈{/g}生命值伤害的效果来止住（即使出血是{g|Encyclopedia:AbilityDamage}属性伤害{/g}）。"
-},
-{
-"Key": "Bleed.Constitution.Name",
-"enGB": "Constitution Bleed",
-"zhCN": "体质出血"
-},
-{
-"Key": "Bleed.Constitution.Description",
-"enGB": "This creature takes constitution damage each turn equal to the dexterity modifier of the gunslinger who wounded them. Bleeding can be stopped through the application of any effect that {g|Encyclopedia:Healing}cures{/g} hit point damage (even if the bleed is {g|Encyclopedia:AbilityDamage}ability damage{/g}).",
-"zhCN": "该生物每回合承受体质伤害，数值等于造成此伤的铳士的敏捷调整值。出血可通过任何能{g|Encyclopedia:Healing}治愈{/g}生命值伤害的效果来止住（即使出血是{g|Encyclopedia:AbilityDamage}属性伤害{/g}）。"
-},
-{
-"Key": "Bleed.Dexterity.Name",
-"enGB": "Dexterity Bleed",
-"zhCN": "敏捷出血"
-},
-{
-"Key": "Bleed.Dexterity.Description",
-"enGB": "This creature takes Dexterity damage each turn equal to the dexterity modifier of the gunslinger who wounded them. Bleeding can be stopped through the application of any effect that {g|Encyclopedia:Healing}cures{/g} hit point damage (even if the bleed is {g|Encyclopedia:AbilityDamage}ability damage{/g}).",
-"zhCN": "该生物每回合承受敏捷伤害，数值等于造成此伤的铳士的敏捷调整值。出血可通过任何能{g|Encyclopedia:Healing}治愈{/g}生命值伤害的效果来止住（即使出血是{g|Encyclopedia:AbilityDamage}属性伤害{/g}）。"
-},
-{
-"Key": "Deeds.Evasive.Name",
-"enGB": "Gunslinger's Evasion",
-"zhCN": "铳士闪避"
-},
-{
-"Key": "Deeds.Evasive.Description",
-"enGB": "At 15th level, when the gunslinger has at least 1 grit point, she gains the benefit of the evasion, uncanny dodge, and improved uncanny dodge rogue class features. She uses her gunslinger level as her rogue level for improved uncanny dodge. ",
-"zhCN": "15级时，当铳士拥有至少1点勇毅值，她获得游荡者职业特性的反射闪避、直觉闪避和精通直觉闪避的好处。她以铳士等级作为游荡者等级来决定精通直觉闪避。"
-},
-{
-"Key": "Deeds.StunningShot.Name",
-"enGB": "Stunning Shot",
-"zhCN": "震慑射击"
-},
-{
-"Key": "Deeds.StunningShot.Description",
-"enGB": "At 19th level, when a gunslinger hits a creature, she can spend 2 grit points to stun the creature for 1 round. The creature must make a Fortitude saving throw (the DC = 10 + 1/2 the gunslinger's level + the gunslinger's Wisdom modifier). If the creature fails, it is stunned for 1 round.",
-"zhCN": "19级时，当铳士命中一个生物，她可以花费2点勇毅值使该生物震慑1轮。该生物必须进行强韧豁免（DC = 10 + 1/2铳士等级 + 铳士的感知调整值）。若失败，则震慑1轮。"
-},
-{
-"Key": "DamagedFirearm.Name",
-"enGB": "Damaged Firearm",
-"zhCN": "损坏的火器"
-},
-{
-"Key": "DamagedFirearm.Description",
-"enGB": "When a firearm misfires, it gains the broken condition. While it has the broken condition its misfire value increases by 2. If an early firearm with the broken condition misfires again, it explodes. Each firearm has a burst size noted in parentheses after its misfire value. Any creature within this burst (including the firearm's wielder) takes damage as if it had been hit by the weapon—a DC 12 Reflex save halves this damage.",
-"zhCN": "当火器哑火时，它会获得破损状态。在破损状态下，其哑火值增加2。如果具有破损状态的早期火器再次哑火，它会炸膛。每种火器在其哑火值后的括号内标明了爆发范围。任何在该爆发范围内的生物（包括火器持用者）承受等同于被该武器命中的伤害——通过DC 12的反射豁免可使此伤害减半。"
-},
-{
-"Key": "Misfire.Early.Description",
-"enGB": "If the natural result of your attack roll falls within a firearm's misfire value, that shot misses, even if you would have otherwise hit the target. When a firearm misfires, it gains the broken condition. While it has the broken condition its misfire value increases by 2. If an early firearm with the broken condition misfires again, it explodes. Each firearm has a burst size noted in parentheses after its misfire value. Any creature within this burst (including the firearm's wielder) takes damage as if it had been hit by the weapon—a DC 12 Reflex save halves this damage.",
-"zhCN": "若你的攻击检定骰值位于火器的哑火值范围内，则该次射击失手，即使原本可以命中目标。当火器哑火时，它会获得破损状态。在破损状态下，其哑火值增加2。如果具有破损状态的早期火器再次哑火，它会炸膛。每种火器在其哑火值后的括号内标明了爆发范围。任何在该爆发范围内的生物（包括火器持用者）承受等同于被该武器命中的伤害——通过DC 12的反射豁免可使此伤害减半。"
-},
-{
-"Key": "Misfire.1.5.Name",
-"enGB": "Misfire 1 (5ft)",
-"zhCN": "哑火 1（5尺）"
-},
-{
-"Key": "Misfire.12.5.Name",
-"enGB": "Misfire 1-2 (5ft)",
-"zhCN": "哑火 1-2（5尺）"
-},
-{
-"Key": "Misfire.12.10.Name",
-"enGB": "Misfire 1-2 (10ft)",
-"zhCN": "哑火 1-2（10尺）"
-},
-{
-"Key": "Misfire.Advanced.Description",
-"enGB": "If the natural result of your attack roll falls within a firearm's misfire value, that shot misses, even if you would have otherwise hit the target. When a firearm misfires, it gains the broken condition. While it has the broken condition its misfire value increases by 2.",
-"zhCN": "若你的攻击检定骰值位于火器的哑火值范围内，则该次射击失手，即使原本可以命中目标。当火器哑火时，它会获得破损状态。在破损状态下，其哑火值增加2。"
-},
-{
-"Key": "Misfire.1.A.Name",
-"enGB": "Misfire 1",
-"zhCN": "哑火 1"
-},
-{
-"Key": "Misfire.12.A.Name",
-"enGB": "Misfire 1-2",
-"zhCN": "哑火 1-2"
-},
-{
-"Key": "Grit.Name",
-"enGB": "Grit",
-"zhCN": "勇毅"
-},
-{
-"Key": "Grit.Description",
-"enGB": "A gunslinger makes her mark upon the world with daring deeds. Some gunslingers claim they belong to a mystical way of the gun, but it's more likely that the volatile nature of firearms simply prunes the unlucky and careless from their ranks. Whatever the reason, all gunslingers have grit. In game terms, grit is a fluctuating measure of a gunslinger's ability to perform amazing actions in combat. At the start of each day, a gunslinger gains a number of grit points equal to her Wisdom modifier (minimum 1). Her grit goes up or down throughout the day, but usually cannot go higher than her Wisdom modifier (minimum 1), though some feats and magic items may affect this maximum. A gunslinger spends grit to accomplish deeds (see below), and regains grit in the following ways.\r\n\r\nCritical Hit with a Firearm: Each time the gunslinger confirms a critical hit with a firearm attack while in the heat of combat, she regains 1 grit point.\r\n\r\nKilling Blow with a Firearm: When the gunslinger reduces a creature to 0 or fewer hit points with a firearm attack while in the heat of combat, she regains 1 grit point.",
-"zhCN": "铳士以大胆的炫技在世界上留下自己的印记。有些铳士声称她们属于某种神秘的枪之大道，但更可能的是，火器的不稳定性只会淘汰掉不幸和粗心的人。无论何种原因，所有铳士都拥有勇毅。在游戏术语中，勇毅是一个用来衡量铳士在战斗中完成惊人动作能力的浮动值。每天开始时，铳士获得等于其感知调整值（最低1点）的勇毅值。她的勇毅值会在一天中上下浮动，但通常不能高于她的感知调整值（最低1点），尽管某些专长和魔法物品可能影响此上限。铳士花费勇毅值来执行炫技（见下文），并通过以下方式回复勇毅。\r\n\r\n火器造成重击：每次铳士在战斗中用火器攻击确认重击，她回复1点勇毅值。\r\n\r\n火器完成击杀：当铳士在战斗中用火器攻击将一个生物的生命值降至0或更低时，她回复1点勇毅值。"
-},
-{
-"Key": "Grit.Description.Short",
-"enGB": "At the start of each day, a gunslinger gains a number of grit points equal to her Wisdom modifier (minimum 1). Her grit goes up or down throughout the day, but usually cannot go higher than her Wisdom modifier (minimum 1)",
-"zhCN": "每天开始时，铳士获得等于其感知调整值（最低1点）的勇毅值。她的勇毅值会在一天中上下浮动，但通常不能高于她的感知调整值（最低1点）"
-},
-{
-"Key": "TrueGrit.Name",
-"enGB": "True Grit",
-"zhCN": "纯正勇毅"
-},
-{
-"Key": "TrueGrit.Description",
-"enGB": "At 20th level, a gunslinger recoveres 1 grit each time she spends it allowing her to perform deeds for 1 grit less so long as she has enough grit to perform them at their standard cost.",
-"zhCN": "20级时，铳士每次花费勇毅值时回复1点，这使她只要拥有足以支付炫技标准消耗的勇毅值，就可以以少花费1点勇毅的代价执行炫技。"
-},
-{
-"Key": "GunTraining.Name",
-"enGB": "Gun Training",
-"zhCN": "枪械训练"
-},
-{
-"Key": "GunTraining.Description",
-"enGB": "Starting at 5th level, a gunslinger gains a bonus equal to her Dexterity modifier on damage rolls with firearms.",
-"zhCN": "从5级开始，铳士在火器的伤害检定上获得等于其敏捷调整值的加值。"
-},
-{
-"Key": "Nimble.Name",
-"enGB": "Nimble",
-"zhCN": "机敏"
-},
-{
-"Key": "Nimble.Description",
-"enGB": "Starting at 2nd level, a gunslinger gains a +1 dodge bonus to AC while wearing light or no armor. Anything that causes the gunslinger to lose her Dexterity bonus to AC also causes the gunslinger to lose this dodge bonus. This bonus increases by +1 for every four levels beyond 2nd level (to a maximum of +5 at 20th level).",
-"zhCN": "从2级开始，铳士在穿戴轻型盔甲或无甲时，AC获得+1闪避加值。任何导致铳士失去AC敏捷加值的情况也会使她失去此闪避加值。此加值在2级后每4级额外+1（20级时达到最大+5）。"
-},
-{
-"Key": "Nimble.Buff.Name",
-"enGB": "AC Bonus (Nimble)",
-"zhCN": "AC加值（机敏）"
-},
-{
-"Key": "Firearms.Early.Reload.Name",
-"enGB": "Muzzle Loading",
-"zhCN": "前装填"
-},
-{
-"Key": "Firearms.Early.Reload.Description",
-"enGB": "Early firearms are muzzle-loaded, requiring bullets or pellets and black powder to be rammed down the muzzle.. It is a standard action to load a one-handed early firearm and a full-round action to load a two-handed early firearm.",
-"zhCN": "早期火器为前装填，需要将弹丸或霰弹和黑火药从枪口捣入。装填一把单手早期火器是标准动作，装填一把双手早期火器是整轮动作。"
-},
-{
-"Key": "Firearms.Advanced.Reload.Name",
-"enGB": "Chamber Loading",
-"zhCN": "弹仓装填"
-},
-{
-"Key": "Firearms.Advanced.Reload.Description",
-"enGB": "Advanced firearms are chamber-loaded. It is a move action to load a one-handed or two-handed advanced firearm to its full capacity. The Rapid Reload feat reduces this to a free action (allowing you to ignore the requirement to reload between shots).",
-"zhCN": "先进火器为弹仓装填。装填一把单手或双手先进火器至满容量是一个移动动作。快速装填专长可将其降为自由动作（使你忽略两次射击间必须装填的要求）。"
-},
-{
-"Key": "Firearms.Reload.Name",
-"enGB": "Reload",
-"zhCN": "装填"
-},
-{
-"Key": "Firearms.RapidReload.Name",
-"enGB": "Rapid Reload",
-"zhCN": "快速装填"
-},
-{
-"Key": "Firearms.AP.Name",
-"enGB": "Armor Penetrating",
-"zhCN": "穿甲"
-},
-{
-"Key": "Firearms.AP.Description",
-"enGB": "Firearms penetrate most forms of armor: bypassing shield, armor, and natural armor bonuses to AC",
-"zhCN": "火器能穿透大多数类型的盔甲：忽略盾牌、盔甲和天生防御带来的AC加值"
-},
-{
-"Key": "Firearms.Musket.Name",
-"enGB": "Musket",
-"zhCN": "滑膛枪"
-},
-{
-"Key": "Firearms.Musket.Description",
-"enGB": "This long-barreled firearm has a much greater range than a pistol. A musket uses either a bullet and 1 dose of black powder or a single alchemical cartridge as its ammunition. This is an early firearm.",
-"zhCN": "这种长管火器比手枪射程远得多。滑膛枪使用一颗子弹和一份黑火药或一枚炼金弹药作为弹药。这是一件早期火器。"
-},
-{
-"Key": "Firearms.Pistol.Name",
-"enGB": "Pistol",
-"zhCN": "手枪"
-},
-{
-"Key": "Firearms.Pistol.Description",
-"enGB": "The basic single-shot pistol is one of the most common firearms, although it is still rare enough to be an object of envy or curiosity to most. This is an early firearm.",
-"zhCN": "基本单发手枪是最常见的火器之一，但仍然罕见，足以成为大多数人羡慕或好奇的对象。这是一件早期火器。"
-},
-{
-"Key": "Firearms.Rifle.Name",
-"enGB": "Rifle",
-"zhCN": "步枪"
-},
-{
-"Key": "Firearms.Rifle.Description",
-"enGB": "This improvement on the musket features a grooved barrel that imparts a twisting, spiral motion to the bullet as it exits, stabilizing it and preventing the end-over-end tumbling common to projectiles from simpler firearms. As a result, a rifle can fire significantly farther and with more accuracy than early long-bore firearms. A rifle uses metal cartridges as ammunition. This is an advanced firearm.",
-"zhCN": "这种滑膛枪的改进型具有刻有膛线的枪管，能在子弹射出时赋予其旋转、螺旋的运动，稳定弹道并防止简单火器弹药常见的翻滚。因此，步枪的射程和精度远优于早期长管火器。步枪使用金属弹药作为弹药。这是一件先进火器。"
-},
-{
-"Key": "Firearms.Revolver.Name",
-"enGB": "Revolver",
-"zhCN": "转轮枪"
-},
-{
-"Key": "Firearms.Revolver.Description",
-"enGB": "A revolver is a pistol with a revolving cylinder containing six chambers. Each chamber can hold a metal cartridge, and when one cartridge is fired, the cylinder automatically rotates (no extra hand or action required), readying the next chamber for firing. A revolver uses metal cartridges as ammunition. This is an advanced firearm.",
-"zhCN": "转轮枪是一种带有转轮式弹巢的手枪，弹巢内有六个弹仓。每个弹仓可以容纳一发金属弹药，当一发弹药发射后，弹巢会自动旋转（无需额外手部或动作），准备好下一发弹药发射。转轮枪使用金属弹药作为弹药。这是一件先进火器。"
-},
-{
-"Key": "Feats.FirearmProficiency.Name",
-"enGB": "Weapon Proficiency (firearms)",
-"zhCN": "武器擅长（火器）"
-},
-{
-"Key": "Feats.FirearmProficiency.Description",
-"enGB": "The Weapon Proficiency (firearms) feat allows you to use all firearms without penalty.",
-"zhCN": "武器擅长（火器）专长让你可以无惩罚地使用所有火器。"
-},
-{
-"Key": "Feats.RapidReload.Name",
-"enGB": "Rapid Reload",
-"zhCN": "快速装填"
-},
-{
-"Key": "Feats.RapidReload.Description",
-"enGB": "The time required for you to reload a firearm is reduced to a move action (for a one-handed firearm), or a standard action (two-handed firearm). Reloading a firearm still provokes attacks of opportunity.\r\n\r\nIf you have this feat you may fire an advanced firearm as a full-attack action.",
-"zhCN": "你装填火器所需的时间降低为移动动作（对于单手火器）或标准动作（双手火器）。装填火器仍会引发借机攻击。\r\n\r\n如果你拥有此专长，则可以在使用先进火器时进行整轮攻击。"
-},
-{
-"Key": "Feats.WeaponFocus.Musket.Name",
-"enGB": "Weapon Focus (Musket)",
-"zhCN": "武器专攻（滑膛枪）"
-},
-{
-"Key": "Feats.WeaponFocus.Musket.Description",
-"enGB": "You gain a +1 {g|Encyclopedia:Bonus}bonus{/g} on all {g|Encyclopedia:Attack}attack rolls{/g} you make using muskets.",
-"zhCN": "你使用滑膛枪进行的所有{g|Encyclopedia:Attack}攻击检定{/g}获得+1{g|Encyclopedia:Bonus}加值{/g}。"
-},
-{
-"Key": "Feats.WeaponFocus.Greater.Musket.Name",
-"enGB": "Greater Weapon Focus (Musket)",
-"zhCN": "高等武器专攻（滑膛枪）"
-},
-{
-"Key": "Feats.WeaponFocus.Greater.Musket.Description",
-"enGB": "You gain a +1 {g|Encyclopedia:Bonus}bonus{/g} on all {g|Encyclopedia:Attack}attack rolls{/g} you make using muskets.",
-"zhCN": "你使用滑膛枪进行的所有{g|Encyclopedia:Attack}攻击检定{/g}获得+1{g|Encyclopedia:Bonus}加值{/g}。"
-},
-{
-"Key": "Feats.WeaponSpecialization.Musket.Name",
-"enGB": "Weapon Specialization (Musket)",
-"zhCN": "武器专精（滑膛枪）"
-},
-{
-"Key": "Feats.WeaponSpecialization.Musket.Description",
-"enGB": "You gain a +2 {g|Encyclopedia:Bonus}bonus{/g} on all {g|Encyclopedia:Damage}damage rolls{/g} you make using muskets.",
-"zhCN": "你使用滑膛枪进行的所有{g|Encyclopedia:Damage}伤害检定{/g}获得+2{g|Encyclopedia:Bonus}加值{/g}。"
-},
-{
-"Key": "Feats.WeaponSpecialization.Greater.Musket.Name",
-"enGB": "Greater Weapon Specialization (Musket)",
-"zhCN": "高等武器专精（滑膛枪）"
-},
-{
-"Key": "Feats.WeaponSpecialization.Greater.Musket.Description",
-"enGB": "You gain a +2 {g|Encyclopedia:Bonus}bonus{/g} on all {g|Encyclopedia:Damage}damage rolls{/g} you make using muskets.",
-"zhCN": "你使用滑膛枪进行的所有{g|Encyclopedia:Damage}伤害检定{/g}获得+2{g|Encyclopedia:Bonus}加值{/g}。"
-},
-{
-"Key": "Feats.WeaponFocus.Pistol.Name",
-"enGB": "Weapon Focus (Pistol)",
-"zhCN": "武器专攻（手枪）"
-},
-{
-"Key": "Feats.WeaponFocus.Pistol.Description",
-"enGB": "You gain a +1 {g|Encyclopedia:Bonus}bonus{/g} on all {g|Encyclopedia:Attack}attack rolls{/g} you make using pistols.",
-"zhCN": "你使用手枪进行的所有{g|Encyclopedia:Attack}攻击检定{/g}获得+1{g|Encyclopedia:Bonus}加值{/g}。"
-},
-{
-"Key": "Feats.WeaponFocus.Greater.Pistol.Name",
-"enGB": "Greater Weapon Focus (Pistol)",
-"zhCN": "高等武器专攻（手枪）"
-},
-{
-"Key": "Feats.WeaponFocus.Greater.Pistol.Description",
-"enGB": "You gain a +1 {g|Encyclopedia:Bonus}bonus{/g} on all {g|Encyclopedia:Attack}attack rolls{/g} you make using pistols.",
-"zhCN": "你使用手枪进行的所有{g|Encyclopedia:Attack}攻击检定{/g}获得+1{g|Encyclopedia:Bonus}加值{/g}。"
-},
-{
-"Key": "Feats.WeaponSpecialization.Pistol.Name",
-"enGB": "Weapon Specialization (Pistol)",
-"zhCN": "武器专精（手枪）"
-},
-{
-"Key": "Feats.WeaponSpecialization.Pistol.Description",
-"enGB": "You gain a +2 {g|Encyclopedia:Bonus}bonus{/g} on all {g|Encyclopedia:Damage}damage rolls{/g} you make using pistols.",
-"zhCN": "你使用手枪进行的所有{g|Encyclopedia:Damage}伤害检定{/g}获得+2{g|Encyclopedia:Bonus}加值{/g}。"
-},
-{
-"Key": "Feats.WeaponSpecialization.Greater.Pistol.Name",
-"enGB": "Greater Weapon Specialization (Pistol)",
-"zhCN": "高等武器专精（手枪）"
-},
-{
-"Key": "Feats.WeaponSpecialization.Greater.Pistol.Description",
-"enGB": "You gain a +2 {g|Encyclopedia:Bonus}bonus{/g} on all {g|Encyclopedia:Damage}damage rolls{/g} you make using pistols.",
-"zhCN": "你使用手枪进行的所有{g|Encyclopedia:Damage}伤害检定{/g}获得+2{g|Encyclopedia:Bonus}加值{/g}。"
-},
-{
-"Key": "Feats.WeaponFocus.Rifle.Name",
-"enGB": "Weapon Focus (Rifle)",
-"zhCN": "武器专攻（步枪）"
-},
-{
-"Key": "Feats.WeaponFocus.Rifle.Description",
-"enGB": "You gain a +1 {g|Encyclopedia:Bonus}bonus{/g} on all {g|Encyclopedia:Attack}attack rolls{/g} you make using rifles.",
-"zhCN": "你使用步枪进行的所有{g|Encyclopedia:Attack}攻击检定{/g}获得+1{g|Encyclopedia:Bonus}加值{/g}。"
-},
-{
-"Key": "Feats.WeaponFocus.Greater.Rifle.Name",
-"enGB": "Greater Weapon Focus (Rifle)",
-"zhCN": "高等武器专攻（步枪）"
-},
-{
-"Key": "Feats.WeaponFocus.Greater.Rifle.Description",
-"enGB": "You gain a +1 {g|Encyclopedia:Bonus}bonus{/g} on all {g|Encyclopedia:Attack}attack rolls{/g} you make using rifles.",
-"zhCN": "你使用步枪进行的所有{g|Encyclopedia:Attack}攻击检定{/g}获得+1{g|Encyclopedia:Bonus}加值{/g}。"
-},
-{
-"Key": "Feats.WeaponSpecialization.Rifle.Name",
-"enGB": "Weapon Specialization (Rifle)",
-"zhCN": "武器专精（步枪）"
-},
-{
-"Key": "Feats.WeaponSpecialization.Rifle.Description",
-"enGB": "You gain a +2 {g|Encyclopedia:Bonus}bonus{/g} on all {g|Encyclopedia:Damage}damage rolls{/g} you make using rifles.",
-"zhCN": "你使用步枪进行的所有{g|Encyclopedia:Damage}伤害检定{/g}获得+2{g|Encyclopedia:Bonus}加值{/g}。"
-},
-{
-"Key": "Feats.WeaponSpecialization.Greater.Rifle.Name",
-"enGB": "Greater Weapon Specialization (Rifle)",
-"zhCN": "高等武器专精（步枪）"
-},
-{
-"Key": "Feats.WeaponSpecialization.Greater.Rifle.Description",
-"enGB": "You gain a +2 {g|Encyclopedia:Bonus}bonus{/g} on all {g|Encyclopedia:Damage}damage rolls{/g} you make using rifles.",
-"zhCN": "你使用步枪进行的所有{g|Encyclopedia:Damage}伤害检定{/g}获得+2{g|Encyclopedia:Bonus}加值{/g}。"
-},
-{
-"Key": "Feats.WeaponFocus.Revolver.Name",
-"enGB": "Weapon Focus (Revolver)",
-"zhCN": "武器专攻（转轮枪）"
-},
-{
-"Key": "Feats.WeaponFocus.Revolver.Description",
-"enGB": "You gain a +1 {g|Encyclopedia:Bonus}bonus{/g} on all {g|Encyclopedia:Attack}attack rolls{/g} you make using revolvers.",
-"zhCN": "你使用转轮枪进行的所有{g|Encyclopedia:Attack}攻击检定{/g}获得+1{g|Encyclopedia:Bonus}加值{/g}。"
-},
-{
-"Key": "Feats.WeaponFocus.Greater.Revolver.Name",
-"enGB": "Greater Weapon Focus (Revolver)",
-"zhCN": "高等武器专攻（转轮枪）"
-},
-{
-"Key": "Feats.WeaponFocus.Greater.Revolver.Description",
-"enGB": "You gain a +1 {g|Encyclopedia:Bonus}bonus{/g} on all {g|Encyclopedia:Attack}attack rolls{/g} you make using revolvers.",
-"zhCN": "你使用转轮枪进行的所有{g|Encyclopedia:Attack}攻击检定{/g}获得+1{g|Encyclopedia:Bonus}加值{/g}。"
-},
-{
-"Key": "Feats.WeaponSpecialization.Revolver.Name",
-"enGB": "Weapon Specialization (Revolver)",
-"zhCN": "武器专精（转轮枪）"
-},
-{
-"Key": "Feats.WeaponSpecialization.Revolver.Description",
-"enGB": "You gain a +2 {g|Encyclopedia:Bonus}bonus{/g} on all {g|Encyclopedia:Damage}damage rolls{/g} you make using revolvers.",
-"zhCN": "你使用转轮枪进行的所有{g|Encyclopedia:Damage}伤害检定{/g}获得+2{g|Encyclopedia:Bonus}加值{/g}。"
-},
-{
-"Key": "Feats.WeaponSpecialization.Greater.Revolver.Name",
-"enGB": "Greater Weapon Specialization (Revolver)",
-"zhCN": "高等武器专精（转轮枪）"
-},
-{
-"Key": "Feats.WeaponSpecialization.Greater.Revolver.Description",
-"enGB": "You gain a +2 {g|Encyclopedia:Bonus}bonus{/g} on all {g|Encyclopedia:Damage}damage rolls{/g} you make using revolvers.",
-"zhCN": "你使用转轮枪进行的所有{g|Encyclopedia:Damage}伤害检定{/g}获得+2{g|Encyclopedia:Bonus}加值{/g}。"
-}
+  {
+    "Key": "Plot.CowgirlMeeting.Title",
+    "enGB": "Lone Rider",
+    "zhCN": "独行骑士"
+  },
+  {
+    "Key": "Plot.CowgirlMeeting.Cue.0",
+    "enGB": "One rarely enocunters a lone traveler in a place as harsh as the worldwound. Yet as the Commander crests a craggy hilltop that is exactly what {mf|he|she} finds. In the valley below a figure knees down in the dirt with an unnaturaly still horse by their side. Anywhere else such as sight would little more than an oddity yet here nothing is quite so simple. The sight of something so mundane sets the commander's company strangely on edge.",
+    "zhCN": "在世界之伤这般险恶之地，极少能撞见独行的旅人。然而，当指挥官登上崎岖的山头时，这恰恰就是{mf|他|她}所见到的景象。在下方的山谷中，一个人影跪在泥泞中，身旁伴着一匹异样静止的马。换作其他任何地方，这番光景不过是一桩奇闻，但在这里，事情绝非如此简单。这般寻常的景象，反倒让指挥官的同伴们莫名地警惕起来。"
+  },
+  {
+    "Key": "Plot.CowgirlMeeting.Cue.1",
+    "enGB": "From the safety of the hilltop the Commander decides too...",
+    "zhCN": "居于安全的山顶之上，指挥官决定……"
+  },
+  {
+    "Key": "Plot.CowgirlMeeting.Answer.0",
+    "enGB": "... watch the stranger closely.",
+    "zhCN": "……密切观察那个陌生人。"
+  },
+  {
+    "Key": "Plot.CowgirlMeeting.Cue.2",
+    "enGB": "The Commander's keen eyes make out a body lying dead in the dirt. The stranger seems to be searching the body for something.",
+    "zhCN": "指挥官敏锐的目光捕捉到了泥泞中躺着的一具死尸。那个陌生人似乎正在尸体上翻找着什么。"
+  },
+  {
+    "Key": "Plot.CowgirlMeeting.Cue.3",
+    "enGB": "But the stranger is too far away to make out what their are doing.",
+    "zhCN": "但那个陌生人距离实在太远，看不清究竟在做什么。"
+  },
+  {
+    "Key": "Plot.CowgirlMeeting.Answer.1",
+    "enGB": "...try and identify the stranger.",
+    "zhCN": "……尝试辨认那个陌生人。"
+  },
+  {
+    "Key": "Plot.CowgirlMeeting.Cue.4",
+    "enGB": "The unusual clothes and weapons worn by the stranger marks her out as a native of Alkenstar a nation in Garund famous for it's advanced technology. Most notably it is one of the few places which holds the secrets of gunsmithing. Allowing them to create powerful firearms such she bears.",
+    "zhCN": "陌生人身上奇特的衣着与武器，表明她来自加伦德的阿尔肯星——一个以先进科技闻名的国度。最值得注意的是，那是少数掌握枪械制造秘奥的地方之一，这让他们得以打造出如她所携那般强大的火器。"
+  },
+  {
+    "Key": "Plot.CowgirlMeeting.Cue.5",
+    "enGB": "The unusual clothes and weaponry worn by the stranger suggests they're not from around here but the Commander has never seen the like of them before.",
+    "zhCN": "陌生人奇特的衣着与武器表明他们并非本地人，但指挥官此前从未见过类似的东西。"
+  },
+  {
+    "Key": "Plot.CowgirlMeeting.Answer.2",
+    "enGB": "...sense the air for any sign of illusions.",
+    "zhCN": "……感应空气中是否有任何幻术的迹象。"
+  },
+  {
+    "Key": "Plot.CowgirlMeeting.Cue.6",
+    "enGB": "It's hard to tell amidst the raw chaos of the Worldwound but there is a trace of something in the air. There was magic here but whatever it was it's gone now.",
+    "zhCN": "在世界之伤那纯粹的混乱之中很难分辨，但空气中确实残留着一丝痕迹。此处曾有魔法的气息，但无论那究竟是什么，现在都已经消散了。"
+  },
+  {
+    "Key": "Plot.CowgirlMeeting.Cue.7",
+    "enGB": "Any signs of magic are lost amidst the raw chaos of the Wound.",
+    "zhCN": "在世界之伤纯粹的混乱之中，一切魔法痕迹都荡然无存。"
+  },
+  {
+    "Key": "Plot.CowgirlMeeting.Answer.3",
+    "enGB": "...move in closer.",
+    "zhCN": "……靠得更近一些。"
+  },
+  {
+    "Key": "Plot.CowgirlMeeting.Cue.8",
+    "enGB": "It would seem the Commander is not the only one interested in this strange precence within the Wound. From the scant cover of withering vegetation the Commander spots a motly gang of demons and cultists creeping through the valley towards the stranger.",
+    "zhCN": "看来对伤口中这股诡异动静感兴趣的，并不只有指挥官。借着枯萎植被稀薄的掩护，指挥官发现了一群恶魔与邪教徒组成的乌合之众，正悄悄穿过山谷，向那个陌生人摸索过去。"
+  },
+  {
+    "Key": "Plot.CowgirlMeeting.Cue.9",
+    "enGB": "Still possessing the element of surprise the Commander...",
+    "zhCN": "依然保有突袭优势的指挥官……"
+  },
+  {
+    "Key": "Plot.CowgirlMeeting.Answer.4",
+    "enGB": "...charges into the fray.",
+    "zhCN": "……冲入战局。"
+  },
+  {
+    "Key": "Plot.CowgirlMeeting.Cue.10",
+    "enGB": "The Commander bursts into the fray meeting the demons head on. The sudden onslaught catches the demons off guard inflicting serious damage and forcing them back into the valley wall. Even so the Commander is greatly outnumbered and slowly the battle begins to turn against {mf|him|her}",
+    "zhCN": "指挥官纵身杀入混战，与恶魔正面交锋。这突如其来的猛攻打了恶魔们一个措手不及，给予它们重创，并将它们逼退至山谷绝壁旁。即便如此，指挥官依然寡不敌众，战局逐渐开始向不利于{mf|他|她}的方向倾斜。"
+  },
+  {
+    "Key": "Plot.CowgirlMeeting.Cue.11",
+    "enGB": "The slope proves rougher than expected and the Commander is exhuasted before {mf|he|she} even reaches the bottom. When the two forces meet the demons hold their ground and begin to push the Commander back uphill.",
+    "zhCN": "斜坡比预想中还要崎岖难行，指挥官甚至还没到底部，{mf|他|她}就已精疲力竭。当双方交锋时，恶魔们稳住了阵脚，开始将指挥官向山坡上推挤回去。"
+  },
+  {
+    "Key": "Plot.CowgirlMeeting.Answer.5",
+    "enGB": "...clambers down the rockface to outflank the enemy.",
+    "zhCN": "……攀下岩壁以包抄敌人侧翼。"
+  },
+  {
+    "Key": "Plot.CowgirlMeeting.Cue.12",
+    "enGB": "The Commander slips around and strikes the enemy from the rear inflicting serious damage and forcing them back into the valley wall. Even so the Commander is greatly outnumbered and slowly the battle begins to turn against {mf|him|her}",
+    "zhCN": "指挥官悄然绕后，自后方突袭敌人，造成重创并将它们逼至山谷绝壁旁。即便如此，指挥官依然寡不敌众，战局逐渐开始向不利于{mf|他|她}的方向倾斜。"
+  },
+  {
+    "Key": "Plot.CowgirlMeeting.Cue.13",
+    "enGB": "The slope proves rougher than expected and the Commander is exhuasted before {mf|he|she} even reaches the bottom. When the two forces meet the demons hold their ground and begin to push the Commander back uphill.",
+    "zhCN": "斜坡比预想中还要崎岖难行，指挥官甚至还没到底部，{mf|他|她}就已精疲力竭。当双方交锋时，恶魔们稳住了阵脚，开始将指挥官向山坡上推挤回去。"
+  },
+  {
+    "Key": "Plot.CowgirlMeeting.Cue.14",
+    "enGB": "A sudden bang as loud as thunder echoes through the valley. Metal pellets rend through demon hide as the stranger joins the battle. For a moment everything seems to slow as all eyes turn to the newcomer and the smoking metal rod in her hands.",
+    "zhCN": "山谷中骤然回荡起一声如惊雷般的巨响。随着陌生人加入战局，金属弹丸瞬间撕裂了恶魔的坚皮。一时间，一切仿佛都慢了下来，所有的目光都投向了这位新来者，以及她手中那根冒着青烟的金属管。"
+  },
+  {
+    "Key": "Plot.CowgirlMeeting.Cue.15",
+    "enGB": "\"So these are demons then ey? Seem they'll bleed just like the rest of us.\" she mutters before firing again.",
+    "zhCN": "“看来这就是恶魔了，哈？瞅着也跟咱们一样会流血嘛。”她喃喃自语着，随即再次开火。"
+  },
+  {
+    "Key": "Plot.CowgirlMeeting.Cue.16",
+    "enGB": "With the strangers help the tide turns in the Commander's favour and the demons soon lie dead and {mf|his|her} feet.",
+    "zhCN": "在陌生人的协助下，战局逆转为对指挥官有利，不久恶魔们便横尸于{mf|他|她}脚下。"
+  },
+  {
+    "Key": "Plot.CowgirlMeeting.Cue.17",
+    "enGB": "As the smoke clears the stranger steps forward \"Thanks for the help there. Bell Tarvil, Shieldmarshal of Alkenstar at your service\" she tips her hat the commanders way.",
+    "zhCN": "硝烟散去，陌生人走上前去：“多谢方才搭了把手。阿尔肯星治安官贝尔·塔尔维尔，竭诚为您效劳。”她朝指挥官的方向按了按帽檐致意。"
+  },
+  {
+    "Key": "Plot.CowgirlMeeting.Answer.6",
+    "enGB": "Offer a hand: \"I'm {name} pleasure to make your acquaintance\"",
+    "zhCN": "伸出手：“我是{name}，很高兴认识你。”"
+  },
+  {
+    "Key": "Plot.CowgirlMeeting.Answer.7",
+    "enGB": "\"You fought well yourself. I'm {name} Commander of the Fifth Crusade\"",
+    "zhCN": "“你刚才的表现也很出色。我是{name}，第五次圣战的指挥官。”"
+  },
+  {
+    "Key": "Plot.CowgirlMeeting.Cue.18",
+    "enGB": "\"Ah so you're the one I heard about back in Kenebres. Things are rough back there but I reckon they'd've been worse without your help. Anyway you're probably wondering what brings a gal like me all the way out here all by my lonesome. I'm on the trail of a villain. He's a real monster who loves to delve into all the worst kinds of magic, alchemy and any other kind of dark knowledge he can get his hands on.\"",
+    "zhCN": "“啊，原来你就是我在坎娜布利听说的那个大人物。那地方的情况糟糕透顶，但我琢磨着要是没你帮忙，恐怕还会更糟。话说回来，你肯定纳闷我这么个姑娘家，怎么会单枪匹马跑到这么老远的地方来。我在追踪一个恶棍。那家伙是个不折不扣的怪物，就喜欢钻研各种最恶毒的魔法、炼金术，以及任何他能弄到手的黑暗知识。”"
+  },
+  {
+    "Key": "Plot.CowgirlMeeting.Answer.8",
+    "enGB": "\"Who is he?\"",
+    "zhCN": "“他是谁？”"
+  },
+  {
+    "Key": "Plot.CowgirlMeeting.Answer.9",
+    "enGB": "\"Is he working with the demons?\"",
+    "zhCN": "“他是在跟恶魔勾结吗？”"
+  },
+  {
+    "Key": "Plot.CowgirlMeeting.Answer.10",
+    "enGB": "\"What makes him so important to travel halfway around the world for?\"",
+    "zhCN": "“他究竟有何重要之处，值得你跨越半个世界来追捕？”"
+  },
+  {
+    "Key": "Plot.CowgirlMeeting.Answer.11",
+    "enGB": "\"Is there anything I can do to help?\"",
+    "zhCN": "“有什么我能帮上忙的吗？”"
+  },
+  {
+    "Key": "Plot.CowgirlMeeting.Answer.12",
+    "enGB": "\"Would you consider joining the crusade?\"",
+    "zhCN": "“你愿意考虑加入圣战军吗？”"
+  },
+  {
+    "Key": "Plot.CowgirlMeeting.Cue.19",
+    "enGB": "\"He's taken to calling himself the Brainweaver. He's a master of the twisted art of fleshwarping and head of a cult of crazies who think he understands the mysteries of reality or some such rot.\"",
+    "zhCN": "“他自称‘织脑者’。他是扭曲的变体肉造妖术大师，手底下还统领着一帮疯子教徒，以为他参透了现实的奥秘还是什么别的鬼话。”"
+  },
+  {
+    "Key": "Plot.CowgirlMeeting.Cue.20",
+    "enGB": "\"I don't think so but I wouldn't put it past him to make a deal with 'em. Him an' his cronies are dedicated to Yog-Sothoth which is whole other brand of madness. I'm not sure why they came round 'ere but I'd guess either it cause he wanted to study the worldwound or he thought's it'd be a good place to lay low after all the heat on 'em back home.\"",
+    "ProcessTemplate": "false",
+    "zhCN": "“我想应该没有，但他要是真跟它们做交易，我也一点都不意外。他和他的爪牙信奉尤格-索托斯，那又是另一套疯癫名堂了。我不确定他们为什么会跑到这儿来，但我猜要么是他想研究世界之伤，要么是觉得在老家被追得太紧，想找个地方避避风头。”"
+  },
+  {
+    "Key": "Plot.CowgirlMeeting.Cue.21",
+    "enGB": "\"If it were just 'im well... But it's not. Before I left home he went on another one of his rampages and this time he took a whole lot of people prisoner. I hate to imagine what kind of horrors he has in mind for 'em so I've been keeping as hard on his trail as I can. I hope that at least if he can't settle down he won't have time for whatever else he's up ta.\"",
+    "zhCN": "“要是只抓他一个倒还好说……但事情没那么简单。在我离开家乡前，他又大闹了一通，而且这次他抓走了大批俘虏。我简直不敢想象他打算对他们施加怎样的恐怖折磨，所以我只能拼了命咬紧他的踪迹。我只希望，只要他不消停下来，就没工夫去折腾别的勾当。”"
+  },
+  {
+    "Key": "Plot.CowgirlMeeting.Cue.22",
+    "enGB": "Theres something more too it than that, something personal, but whatever it is she's not letting on.",
+    "zhCN": "事情显然不止于此，还牵涉到某种私人恩怨，但无论那究竟是什么，她都守口如瓶。"
+  },
+  {
+    "Key": "Plot.CowgirlMeeting.Cue.23",
+    "enGB": "\"I don't think so but thank you for asking. Right now I've gotta keep after him and from what I've heard you've got plenty of problems of your own to deal with. But I'll remember your offer, try an' keep ya in the loop.\"",
+    "zhCN": "“我想不必了，不过多谢你的好意。眼下我必须继续咬住他不放，而且听闻你手头上也有数不清的麻烦要应付。不过这份心意我领了，我会尽量和你保持联络的。”"
+  },
+  {
+    "Key": "Plot.CowgirlMeeting.Cue.24",
+    "enGB": "She gives a dry laugh \"You sure are eager to get new recruits aren't ya. As for me, well. I 'ave a responsibility to rescue my own people first. But.. hmmm. I can see you've got a worthy cause of your own going on here. I had planned on bringing 'em all back home but maybe I'll stick around seems there's plenty of good to be done 'round here. Until then I wish you the best of luck and maybe I'll take down a few demons for ya along the way.\"",
+    "zhCN": "她干笑了一声：“你招募新人的劲头还真足啊。至于我嘛，嗯……我得先担起责任，把自己的同胞救出来。不过……唔。看得出你们在这儿干的是件正经的大事。我原本打算把他们全都带回老家，但留下来倒也不错，看来这地方还有大把的好事值得去做。在那之前，祝你一切顺利，说不定在路上我也能顺手替你收拾几只恶魔。”"
+  },
+  {
+    "Key": "Plot.CowgirlMeeting.Cue.25",
+    "enGB": "\"Well if this lot are anything to go by it's probably not safe to stick around these parts too long. 'Sides I'd best get back on the hunt. May we both live long enough for our paths to cross again.\" With a final nod in the commanders direction the Shieldmarshal swings up on her horse and rides away.",
+    "zhCN": "“行了，看这帮家伙的架势，在这片地方待太久怕是不安全。再说我也得赶紧回去继续追捕了。愿我们都能活到下次相遇的那一天。”治安官最后朝指挥官点了点头，随后翻身上马，扬长而去。"
+  },
+  {
+    "Key": "Plot.CowgirlMeeting.Answer.14",
+    "enGB": "Search the area.",
+    "zhCN": "搜查这片区域。"
+  },
+  {
+    "Key": "Plot.CowgirlMeeting.Cue.26",
+    "enGB": "The Commander spots the body of a humanoid clearly killed by a bullet wound. The figure wore a tattered grey cloak and an amulet bearing the image of a black spiral over a silver portal. By his side is the battered remains of a book with a large hole has been burned through its centre. It looks like the cover once bore the same symbol as the cultists amulet and the spine shows the title 'Gateways of Mystery'",
+    "zhCN": "指挥官发现了一具显然死于枪伤的人形生物尸体。死者身穿破旧的灰色斗篷，佩戴着一枚刻有黑色螺旋与银色传送门图样的护身符。尸体旁散落着一本破烂不堪的书，正中央被烧穿了一个大洞。封面上似乎曾印有与邪教徒护身符相同的图案，书脊上隐约可见书名《奥秘之门》。"
+  },
+  {
+    "Key": "Plot.CowgirlMeeting.Answer.15",
+    "enGB": "Examine the book.",
+    "zhCN": "检查这本书。"
+  },
+  {
+    "Key": "Plot.CowgirlMeeting.Cue.27",
+    "enGB": "The book is too heavily damaged to make out much beyond a few sentences here are there. But something about even those few words is profoundly unsettling. It hints at secrets at the edge of time, bears fragments of diagrams of the most horrid monstrous forms and whispers that true enlightenment lies in the mysteries hidden between the stars.",
+    "zhCN": "书籍受损过于严重，除了零星的几句话外难以辨识更多内容。然而，哪怕仅是这只言片语，也令人深感不安。字里行间暗示着位于时间边缘的秘密，残存着可怖异形怪物的示意图残片，并低语着唯有星辰之间的隐秘深处，才蕴藏着真正的顿悟。"
+  },
+  {
+    "Key": "Plot.CowgirlMeeting.Cue.28",
+    "enGB": "There is however one section that catches the Commanders eye. An essay on planer gateways and passages between worlds. It speaks of how such passageways warp the space around them interfering with normal teleportation yet to one with true understanding that distorted space can allow for a whole other kind of transport.",
+    "zhCN": "不过，有一章节引起了指挥官的注意——那是一篇关于位面裂隙与界域通道的论文。文中论述了此类通道如何扭曲周围的空间并干扰常规的传送术，但对真正掌握其精妙之人而言，这种扭曲的空间反倒能实现某种全然不同的传送方式。"
+  },
+  {
+    "Key": "Plot.DemonsHerey.Cowgirl.1",
+    "enGB": "\"Watch yerselves.\" Bell's gun remains fixed on Jaruunika's chest \"Hags are masters of deception and we all saw what she was like when we arrived.\"",
+    "zhCN": "“小心着点。”贝尔的枪口始终直指贾鲁妮卡的胸口，“鬼婆个个精于伪装，咱们来的时候她是什么副德行，大伙可都瞧得一清二楚。”"
+  },
+  {
+    "Key": "Plot.DemonsHerey.Cowgirl.2",
+    "enGB": "\"It's a step backwards to be sure...\" Bell shurgs. \"Still no real harm done. An' we can't really expect that she'd 'ave everything right overnight. Overcoming the worse parts of yerself takes time.\"",
+    "zhCN": "“确实是走了一步倒退的路……”贝尔耸了耸肩。“不过也没出什么大乱子。咱们总不能指望她一眨眼工夫就脱胎换骨。克服自己骨子里最恶劣的毛病，总归是需要时间的。”"
+  },
+  {
+    "Key": "Plot.DemonsHerey.Cowgirl.3",
+    "enGB": "\"So she made a mistake\" Bell give Arueshalae a reassuring smile, \"We all make 'em. Even the best of us stumble along the way. Redemption's ain't just some switch ya flip an' suddenly yer good. Give her time. The important thing is she's trying ta be better.\"",
+    "zhCN": "“她不过是犯了个错罢了。”贝尔朝阿鲁瑟菈佐露出安抚的微笑，“谁都会犯错。哪怕再厉害的人，路上也难免会踉跄跌跤。救赎这档子事，可不是随手一拨就能突然立地成佛的开关。给她点时间吧。最重要的是，她正在努力变好。”"
+  },
+  {
+    "Key": "Plot.KnowTheyEnemy.Cowgirl.1",
+    "enGB": "\"Wow that looks nasty. Why would anyone want ta do that to themselves.\"",
+    "zhCN": "“哇，那副模样看着可真渗人。怎么会有人想对自己下这种狠手啊。”"
+  },
+  {
+    "Key": "Plot.KnowTheyEnemy.Cowgirl.2",
+    "enGB": "\"I don't know what game he's playin' but this guy seems a nasty piece a' work. I doubt we can trust a word he says...\" Bell trails off considering. \"On the other hand, maybe he does actually wanta die. It'd be no surprise realy. Who'd wanta live as a horrid swarm o' locust like that.\"",
+    "zhCN": "“我不知道他在耍什么花招，但这老兄看着绝非善类。我觉得他说的话连一个字都信不得……”贝尔若有所思地停顿了一下。“不过换个角度看，说不定他真的一心求死。倒也并不奇怪就是了。谁乐意变成那么一团恶心的蝗群活受罪啊。”"
+  },
+  {
+    "Key": "Plot.CowgirlQuest1Intro.Cue.0",
+    "enGB": "You've been doing well for yerself. This fort looks a whole let better than before. You an' yer troops sure have proven yerself quite the force ta be reckoned with haven't ya.",
+    "zhCN": "“您这阵子过得挺风光嘛。这处要塞看起来可比先前体面多了。看来您和手底下的军队确实是一股不容小觑的硬实力啊。”"
+  },
+  {
+    "Key": "Plot.CowgirlQuest1Intro.Cue.1",
+    "enGB": "Anyways I said I'd try and keep ya in the loop with my own investigation so 'ere I am 'oping yer offers still on the table.",
+    "zhCN": "“不管怎么说，我答应过一有调查消息就跟您通个气，所以这不就来了——希望您之前的提议依然算数。”"
+  },
+  {
+    "Key": "Plot.CowgirlQuest1Intro.Cue.2",
+    "enGB": "I've found where the Brainweaver an' his cult of loonies are hiding out. Even better it sounds like at least some of his captives might still be alive. Problem is, well there's a whole lot more of 'em than I thought. He musta picked up a few local demon loving nuts to bolster 'is ranks. On toppa that the place's underground, well fortified and probably got a load of traps and curses. Short version I don't reckon I can take it on my own.",
+    "zhCN": "“我已经摸清了织脑者和他那群疯癫狂教徒的藏身处。更妙的是，听风声他抓走的俘虏里至少还有人活着。但麻烦在于，咳，他们的人手比我料想的多得多。他一准是在本地拉拢了些崇拜恶魔的疯子来充实队伍。再加上那鬼地方建在地下，不仅防备森严，八成还布满了陷阱与诅咒。长话短说：我琢磨着单凭自个儿是啃不下这块硬骨头了。”"
+  },
+  {
+    "Key": "Plot.CowgirlQuest1Intro.Answer.0",
+    "enGB": "We'd best hurry then if his prisoners are still alive there's no telling how long they'll stay that way.",
+    "zhCN": "“那我们最好抓紧时间。倘若他的俘虏还活着，谁也料不准他们还能撑多久。”"
+  },
+  {
+    "Key": "Plot.CowgirlQuest1Intro.Answer.1",
+    "enGB": "I'm guessing that's why you've come to me",
+    "zhCN": "“我猜，这就是你来找我的缘由。”"
+  },
+  {
+    "Key": "Plot.CowgirlQuest1Intro.Answer.2",
+    "enGB": "This doesn't sound like its any of my business",
+    "zhCN": "“这听起来可不关我的事。”"
+  },
+  {
+    "Key": "Plot.CowgirlQuest1Intro.Cue.3",
+    "enGB": "Exactly. Ya see I've 'eard of how skilled you an' yer company are on the battlefield and I was 'oping yall might tag along and help me finish dis thing. I'm sure you're plenty busy what with running a whole war against the Abyss but well if you leave this lot to fester on yer border they'll no doubt come back ta bite ya later.",
+    "zhCN": "“一点没错。您瞧，您和您的部下在沙场上的骁勇善战我可是早有耳闻，所以我盘算着大伙儿能不能一块儿走一遭，帮我把这桩麻烦彻底了结。我知道您主持整场对抗深渊的大战肯定是日理万机，但要是放任这帮祸害在您的眼皮子底下滋生溃烂，迟早会回过头来咬您一口的。”"
+  },
+  {
+    "Key": "Plot.CowgirlQuest1Intro.Cue.5",
+    "enGB": "On toppa that once this monsters in the dirt or behind bars I'll suddenly find myself with a whole lotta time on my hands. Yer cause seems as good as any so I'd be happy to sign up if you still want a wandering gunslinger like me in yer ranks.",
+    "zhCN": "“此外，等把这帮怪物埋进黄土或者关进大牢，我一下子可就空闲大把时间了。您的大义在我看来无可挑剔，要是您的队伍里还缺一个我这样的流浪铳士，我乐意随时入伙。”"
+  },
+  {
+    "Key": "Plot.CowgirlQuest1Intro.Answer.3",
+    "enGB": "In that case what can I do to help?",
+    "zhCN": "“既然如此，我能帮上什么忙？”"
+  },
+  {
+    "Key": "Plot.CowgirlQuest1Intro.Cue.6",
+    "enGB": "Well if you don't care about the poor souls he's doing all kinds of horrors to or of the threat his madhouse 'll cause you down the road maybe some gold'll change yer mind. Would it make any difference if I said he's got a bounty on his head back home?",
+    "zhCN": "“好吧，要是您对那些正惨遭他非人折磨的可怜灵魂不屑一顾，也无所谓这群疯子往后会给您添什么乱子，说不定黄澄澄的金币能让您转转心思？要是我告诉您他在我老家还挂着一笔高额悬赏，这能让您松口吗？”"
+  },
+  {
+    "Key": "Plot.CowgirlQuest1Intro.Answer.4",
+    "enGB": "No.",
+    "zhCN": "“不能。”"
+  },
+  {
+    "Key": "Plot.CowgirlQuest1Intro.Answer.5",
+    "enGB": "I think we can come to an arrangement.",
+    "zhCN": "“我想我们可以达成某种共识。”"
+  },
+  {
+    "Key": "Plot.CowgirlQuest1Intro.Cue.7",
+    "enGB": "\"Alright then 'ere's the plan.\" She marks a point on the commander's map \"Brainweaver's lair is here, the entrance lookes like some kinda mouth craved outa the rock hard ta miss once you know where ta look. I'll head there keep an eye on things, see if I can't scout a bit of the place learn any more about what's inside. As soon as your ready meet me at this cliff overlooking the place. Once you get there we can make our way inside rescue those poor souls and put an end to this madness before it's too late.\"",
+    "zhCN": "“那成，计划是这样的。”她在指挥官的地图上标出一处位置，“织脑者的巢穴就在这儿。入口被雕琢成某种岩石巨口，只要认准方位就绝不会漏看。我先赶过去盯梢，看看能不能摸摸底细，探听探听里头的虚实。您一准备妥当，就在俯瞰那地方的悬崖边跟我碰头。等您赶到，咱们就潜入内部解救那些苦难之人，趁着为时未晚，彻底终结这场疯狂。”"
+  },
+  {
+    "Key": "Plot.CowgirlQuest1Intro.Answer.6",
+    "enGB": "I'll meet you there.",
+    "zhCN": "“我会去那里与你汇合。”"
+  },
+  {
+    "Key": "Plot.CowgirlQuest1Intro.Cue.8",
+    "enGB": "In that case I'd best be off. Don't want 'em slipping away somewhere while we're talking. Thanks for yer help.",
+    "zhCN": "“既然如此，那我最好立刻动身。可别咱们在这儿扯皮的当口，叫他们溜之大吉了。多谢您的施援。”"
+  },
+  {
+    "Key": "Plot.CowgirlQuest1Intro.Cue.9",
+    "enGB": "\"Okay then. I can see where I'm not wanted I do what I can on my own but mark my words if you think this'll just go away on its own yer very much mistaken. One way or another this guy will be causing ya a whole mess of grief.\" Without another word she turns and marches from the city.",
+    "zhCN": "“行吧。我看得出这里不欢迎我。我自己能做多少便做多少，但我把话撂在这儿，您要是觉得这档子祸事会自生自灭，那您可就大错特错了。横竖迟早有一天，这家伙会给您惹出天大的麻烦。”她不再多言，转身大步离开了城市。"
+  },
+  {
+    "Key": "Plot.GatewayToInsanity.Title",
+    "enGB": "The Gateway to Insanity",
+    "zhCN": "癫狂之门"
+  },
+  {
+    "Key": "Plot.GatewayToInsanity.Description",
+    "enGB": "The worldwound attracts strange visitors. Perhaps then it should come as no suprise that a cult of Yog-Sothoth outer being know for parceling out powerful secrets about gates between worlds would be attracted to the largest gate on the planet. But a being that powerful doesn't give out knowledge for free. Are his secrets worth the loss of sanity that so often comes from the barest contact with this being.",
+    "zhCN": "世界之伤总会引来形形色色的古怪访客。既然如此，信奉外神尤格-索托斯的狂乱教团会被引诱至这颗星球上最宏伟的门扉前，似乎也就不足为奇了——毕竟那位外神本就以兜售有关界域门扉的深奥秘奥而闻名。然而，如此可怖的存在绝非做亏本买卖的善类。即便仅仅是与其产生最微末的接触，便往往伴随着理智的崩解，其揭示的隐秘当真抵得上这般代价吗？"
+  },
+  {
+    "Key": "Plot.GatewayToInsanity.Reach.Title",
+    "enGB": "Reach the Gateway to Insanity",
+    "zhCN": "抵达癫狂之门"
+  },
+  {
+    "Key": "Plot.GatewayToInsanity.Reach.Description",
+    "enGB": "The lair of the brainweaver is located in the wastes south of drezen marked by an X on the commanders map.",
+    "zhCN": "织脑者的巢穴坐落于眷泽城南方的荒原之上，已在指挥官的地图上以叉号标明。"
+  },
+  {
+    "Key": "Plot.GatewayToInsanity.Completion",
+    "enGB": "The commander escorts the mutated prisoners out of the building and sends for a team of clerics to take them back to Drezen in hopes of a more complete cure.",
+    "zhCN": "指挥官护送着产生异变的俘虏走出据点，并派人召来一队牧师将他们接应回眷泽城，期冀能寻得更为彻底的治愈之法。"
+  },
+  {
+    "Key": "Plot.GatewayToInsanity.Fleshwarps.Title",
+    "enGB": "Rescue the Brainweaver's captives",
+    "zhCN": "解救织脑者的俘虏"
+  },
+  {
+    "Key": "Plot.GatewayToInsanity.Fleshwarps.Description",
+    "enGB": "The cult leader know as the Brainweaver took several people captive from Alkenstar to use in his vile experiments. Bell hopes to save them before it's too late.'",
+    "zhCN": "自称“织脑者”的狂乱教团首领从阿尔肯星掠走了一批民众，用以进行其险恶卑劣的实验。贝尔希望能在一切无可挽回之前救出他们。"
+  },
+  {
+    "Key": "Plot.GatewayToInsanity.Cue.0",
+    "enGB": "As the commander approaches the Shieldmarshal's rendezvous the very air seems to change. Even in the midst of the wound with the Abyss bleeding through the fabric of reality something in this place feels profoundly wrong. Its a different kind of wrongness nothing so blatant as the energy of the Abyss there are no floating rocks or rains of blood just a niggling sense of something alien.",
+    "zhCN": "当指挥官接近治安官约定的汇合点时，周遭的空气似乎都发生了异变。哪怕身处世界之伤的腹地、眼见深渊不断侵蚀撕裂着现实的维系，此地散发的气息依然透着一种深沉透骨的乖谬。那是一种截然不同的异样感——远不如深渊能量那般张扬跋扈，没有悬浮的岩石，亦无腥红的血雨，有的只是一种令人毛骨悚然、仿佛异界之物暗中窥伺的隐约不安。"
+  },
+  {
+    "Key": "Plot.GatewayToInsanity.Cue.1",
+    "enGB": "It takes the commander a while to realise that its more than just an odd feeling. The very landscape seems to be changing. Despite never having turned the road seems to have lead back on itself. The commanders eye is drawn to a stream only to see the water flowing uphill. Realising something is wrong the commander...",
+    "zhCN": "指挥官过了一阵才猛然察觉，这绝非单纯的心悸作祟。就连眼前的地貌山川似乎都在诡谲地流转更迭。明明从未折转方向，脚下的道路却诡异地兜回了原处。指挥官的目光被一条溪流所吸引，赫然发现水流竟逆势向上涌流。意识到事态反常，指挥官……"
+  },
+  {
+    "Key": "Plot.GatewayToInsanity.Answer.0",
+    "enGB": "...calls on the wisdom of the Aeons",
+    "zhCN": "……唤起御衡者的智慧。"
+  },
+  {
+    "Key": "Plot.GatewayToInsanity.Cue.2",
+    "enGB": "The commander's gaze pierces through this place. Everything about the Worldwound is a violation of the laws of reality. Demons and the Abyss to not belong on this plane. But what is here, it does not belong anywhere. Not only should it not exist it should not be possible for it to exist. If the rift to the abyss is a wound in reality this place is an infection, a disease that must be purged at all costs.",
+    "zhCN": "指挥官的视线洞穿了此处的虚妄。世界之伤的一切本就是对现实律法的践踏——恶魔与深渊绝不属于这个位面。但存在于此地的事物，却不属于任何常理所容之地。它不仅本不该存在，甚至其存在本身便违背了可能性的法则。倘若深渊裂隙是现实上被撕裂的伤痕，那么此地便是一处恶毒的溃疡与瘟疫，必须不惜一切代价予以净化涤除。"
+  },
+  {
+    "Key": "Plot.GatewayToInsanity.Answer.1",
+    "enGB": "...tries to find a pattern to the changes.",
+    "zhCN": "……尝试寻找地貌变化的规律。"
+  },
+  {
+    "Key": "Plot.GatewayToInsanity.Cue.3",
+    "enGB": "Having faced all kinds of strange forces in the wound the commander is able to plot the limits of this phenomenon and charts a course though the most stable regions.",
+    "zhCN": "在世界之伤中历经了各式各样的诡谲怪异之后，指挥官成功划定了此番异象的边界，并勘测出一条穿过最稳定区域的路径。"
+  },
+  {
+    "Key": "Plot.GatewayToInsanity.Cue.4",
+    "enGB": "No matter how hard {mf|he|she} looks at it {mf|he|she} can find no pattern. What is in this place is beyond mortal ken. It should not exist, it cannot exist, yet it exists.",
+    "zhCN": "无论{mf|他|她}如何竭力端详，都寻不出半点规律可循。盘踞在此地的存在早已超脱凡俗的认知。它不应存在，绝不可能存在，但它却确凿地存在着。"
+  },
+  {
+    "Key": "Plot.GatewayToInsanity.Answer.2",
+    "enGB": "...tries to outrun the changes.",
+    "zhCN": "……试图赶在变化之前飞速通过。"
+  },
+  {
+    "Key": "Plot.GatewayToInsanity.Cue.5",
+    "enGB": "The very fabric of the world here is moving but the commander moves faster and before {mf|he|she} knows it the rendezvous point comes into view ahead.",
+    "zhCN": "此地现实的基质在不停挪移流转，但指挥官的身形更为迅捷。未等回过神来，前方的接头点便已赫然映入眼帘。"
+  },
+  {
+    "Key": "Plot.GatewayToInsanity.Cue.6",
+    "enGB": "The commander tries to run but the world just changes too fast everywhere {mf|he|she} tries to go it is always somewhere different by the time {mf|he|she} arrives. Losing {mf|his|her} footing the commander finds {mf|him|her}self falling uphill.",
+    "zhCN": "指挥官试图疾奔穿过，但天地的剧变实在快得不可思议——每当{mf|他|她}试图赶赴某处，赶到之时却早已沧海桑田。指挥官脚下一滑，竟发现自己正朝着山坡上方失重跌落。"
+  },
+  {
+    "Key": "Plot.GatewayToInsanity.Answer.3",
+    "enGB": "...stubbornly presses forwards.",
+    "zhCN": "……执拗地硬着头皮向前挺进。"
+  },
+  {
+    "Key": "Plot.GatewayToInsanity.Cue.7",
+    "enGB": "Eventually the commander arrives at a wide cliff-face dotted with dying shubs. Bell lies out near the edge staring through her gun sights at whatever lies below.",
+    "zhCN": "历经一番跋涉，指挥官终于抵达了一处点缀着枯槁灌木的宽阔岩壁前。贝尔正趴在崖壁边缘，借着枪上的瞄准具警惕地凝视着下方的一举一动。"
+  },
+  {
+    "Key": "Plot.GatewayToInsanity.Cue.8",
+    "enGB": "As the commander approaches she creeps back from the edge to meet {mf|him|her}. \"Thanks again for coming boss. I've been keeping an eye on the place, but there not been much activity since last we spoke. A few cultists coming an' going for supplies, mostly food an' such.\"",
+    "zhCN": "见指挥官接近，她悄然从悬崖边缘退回，上前接应{mf|他|她}：“再次多谢您赏脸赶来，长官。我一直死死盯着这地方，但打上回聊过之后就没什么大动静。只有几个狂教徒进进出出采办补给，多半是粮食之类的杂物。”"
+  },
+  {
+    "Key": "Plot.GatewayToInsanity.Cue.9",
+    "enGB": "She gestures down to the wall on the far side of the valley where a crack in the rock has been sculpted out into the shape of a vast worm whose open maw is filled with row upon row of jagged metal teeth. \"As far as I can see that... thing there's the only way in or out. At least by conventional means anyhow. You never can tell what sorta magic they've got up their sleeves.\"",
+    "zhCN": "她指向山谷对侧的绝壁，岩壁上一道裂隙被人工开凿雕琢成巨虫的模样，大张的血盆巨口中嵌着一排排参差交错的生锈锯齿铁牙：“据我打探，那……鬼东西是进出的唯一通道。至少走寻常路子是这样。天晓得他们袖子里还藏着什么稀奇古怪的魔法名堂。”"
+  },
+  {
+    "Key": "Plot.GatewayToInsanity.Answer.5",
+    "enGB": "Any word on the prisoners?",
+    "zhCN": "“俘虏那边有什么消息吗？”"
+  },
+  {
+    "Key": "Plot.GatewayToInsanity.Cue.10",
+    "enGB": "\"I overheard some of them talking 'bout em a few days ago. Sounds like they're being kept for some kinda experiment. Probably means there still alive at least. Though I fear they might be wishing they weren't.\"",
+    "zhCN": "“前几天我偷听到他们几个嚼舌根。听起来他们被留着好像是要当某种实验的活材。这多半意味着他们至少还吊着一口气。不过我打心眼里怕他们早就宁可死了才好。”"
+  },
+  {
+    "Key": "Plot.GatewayToInsanity.Answer.6",
+    "enGB": "How many are in this cult?",
+    "zhCN": "“这个教团一共有多少人？”"
+  },
+  {
+    "Key": "Plot.GatewayToInsanity.Cue.11",
+    "enGB": "\"I count at least forty of them plus Brainweaver himself. Most of 'em aren't that much of a threat on their own any more than your demon cultists but Brainweaver'll be a tricky one. He's got a range of nasty spells plus all sorta alchemical horrors.\"",
+    "zhCN": "“我算下来起码有四十号人，这还没算织脑者自个儿。大多数家伙单拎出来倒不算什么大气候，就跟你们常见的恶魔教徒差不多；可织脑者绝对是个棘手货色。他掌握着一系列阴毒的法术，手头上还有大把耸人听闻的炼金怪胎。”"
+  },
+  {
+    "Key": "Plot.GatewayToInsanity.Answer.7",
+    "enGB": "Anything I should know before we go?",
+    "zhCN": "“动身前还有什么需要我了解的吗？”"
+  },
+  {
+    "Key": "Plot.GatewayToInsanity.Cue.12",
+    "enGB": "\"Look this place... It'll be trapped that much is obvious, an' I'm sure you and your team 'ave dealt with that kinda thing before. But what you see down there... It'll go beyond your typical traps or curses or whatnot. Things are gonna get pretty crazy. My advice: keep yer eyes an' yer heart open but yer mind closed. You'll see stuff you don't understand but trust me your better off that way. There are some questions best left unanswered an knowledge like that... well it does strange things ta people.\"",
+    "zhCN": "“听好了，这地方……布满陷阱那是明摆着的，我相信您和您的队伍对付那种玩意儿早就驾轻就熟。但你在下面亲眼见到的东西……可绝非寻常的机关陷阱或者诅咒之流所能比拟。事态会变得诡异得要命。听我一句劝：眼观六路、心存警觉，但千万别让脑子跟着往里陷。你会看见一些根本没法理解的诡异之物，但相信我，搞不懂反倒是你的福气。有些谜团最好永远不见天日，那种知识……嘿，它会把活人折腾得不人不鬼。”"
+  },
+  {
+    "Key": "Plot.GatewayToInsanity.Cue.13",
+    "enGB": "Bell leads the commander down a carefully concealed pathway to the valley below. From up close the opening is even more grotesque. Eyes seem to burst from its skull like boils and the metal teeth are stained with dry blood. Even to the most untrained eye it would be clear that these spikes mark some kind of trap. Being far from untrained the commander...",
+    "zhCN": "贝尔领着指挥官沿一条精心掩蔽的小道下潜到山谷底部。近距离观察下，那座洞口显得愈发狰狞骇人。眼珠仿佛脓疮般从头骨中暴突而出，金属利齿上沾染着早已干涸发黑的血迹。哪怕是最不谙世事的新手，也能一眼看出这些尖刺象征着某种致命机关。而身经百战的指挥官自然绝非外行，{mf|他|她}……"
+  },
+  {
+    "Key": "Plot.GatewayToInsanity.Answer.9",
+    "enGB": "...searches for a safe path forward.",
+    "zhCN": "……搜寻一条能够安全通行的路径。"
+  },
+  {
+    "Key": "Plot.GatewayToInsanity.Cue.14",
+    "enGB": "The commander moves slowly through the blades watching {mf|his|her} every step. They make it several paces through the jaw before hearing a faint click.",
+    "zhCN": "指挥官在交错的刀刃间步步为营，凝神紧盯着脚下的每一步。他们顺着巨口刚刚迈出数步，耳畔便骤然传来一声细微的机簧脆响。"
+  },
+  {
+    "Key": "Plot.GatewayToInsanity.Cue.15",
+    "enGB": "Searching the area carefully the commander notices one of the sculpture's eyes is different from the others. Taking a closer look {mf|he|she} discovers a hidden passageway through the pupil. It's a tight squeeze but the party manage to crawl through. It opens out above a wide entrance hall decorated with a strange medley of purples and greens. The commander can make out a few figures milling about below. Seeing that they haven't noticed {mf|him|her} yet {mf|he|she}...",
+    "zhCN": "指挥官细致地搜查着四周，赫然发现雕像的一只眼珠与其它截然不同。走近仔细端详，{mf|他|她}顺着瞳孔寻出了一条暗道。通道虽然极为狭窄，但一行人勉力匍匐爬了进去。暗道尽头豁然开朗，通向一座宽阔的门厅上方，四周涂抹着斑驳诡秘的紫绿杂色。指挥官隐约能辨认出几道人影正在下方游荡晃动。眼见对方尚未察觉到自己的存在，{mf|他|她}……"
+  },
+  {
+    "Key": "Plot.GatewayToInsanity.Answer.10",
+    "enGB": "...attempts to disarm the mechanism.",
+    "zhCN": "……尝试解除该机械装置。"
+  },
+  {
+    "Key": "Plot.GatewayToInsanity.Cue.16",
+    "enGB": "The machine gets the better of the commander whirling into action the moment {mf|he|she} touches it.",
+    "zhCN": "机关压倒了指挥官的手段，就在{mf|他|她}触碰的一刹那，机关骤然轰鸣飞转起来。"
+  },
+  {
+    "Key": "Plot.GatewayToInsanity.Cue.17",
+    "enGB": "Slipping a hand in under one of the teeth the commander find a series of gears that drive the mechanism. One well place cut and the system jams up allowing the party to advance.",
+    "zhCN": "指挥官将手悄然伸入其中一颗利齿下方，摸索到了一连串驱动整个机械的联动齿轮。随着精准的一刀卡入，整个机关系统瞬间咬死瘫痪，令队伍得以安然挺进。"
+  },
+  {
+    "Key": "Plot.GatewayToInsanity.Answer.11",
+    "enGB": "...tries to power through it.",
+    "zhCN": "……试图强行突破。"
+  },
+  {
+    "Key": "Plot.GatewayToInsanity.Cue.18",
+    "enGB": "It takes only a moment for the blades to whirl into action.",
+    "zhCN": "不出片刻，利刃便疯狂旋转呼啸起来。"
+  },
+  {
+    "Key": "Plot.GatewayToInsanity.Cue.19",
+    "enGB": "Deciding there's no way round it and it would take too long to try and disarm the commander chooses to march headlong through. The teeth begin to spin wilding round the edge of the cavern but the commander steps forward and blocks the blade holding back the mechanism as the party rushes forwards.",
+    "zhCN": "自忖既无迂回之路，尝试拆除又太耗费时辰，指挥官决定径直硬闯过去。森森利齿在洞口边缘疯狂旋转翻飞，但指挥官毅然挺身上前，悍然挡住了刀刃，死死卡住运转的机关，掩护全队飞速疾冲而过。"
+  },
+  {
+    "Key": "Plot.GatewayToInsanity.Answer.12",
+    "enGB": "...tries to pass as a member of the cult.",
+    "zhCN": "……试图伪装成教团信徒蒙混过关。"
+  },
+  {
+    "Key": "Plot.GatewayToInsanity.Cue.20",
+    "enGB": "The bluff lasts all of a few seconds before one of the cultists recognises the commander. Sometimes being a famous hero has its disadvantages.",
+    "zhCN": "这场骗局仅仅维持了数秒，便有一名邪教徒当场认出了指挥官。有时候，名震四海的威名反倒成了累赘。"
+  },
+  {
+    "Key": "Plot.GatewayToInsanity.Cue.21",
+    "enGB": "The commander drops down in plain sight of the cultists greeting them as brothers and sisters in mystery and aside from a few odd looks is able to walk passed unobstructed.",
+    "zhCN": "指挥官泰然自若地落至邪教徒的眼皮底下，以同参奥秘的兄弟姐妹相称互相致意，除了引来几道诧异的目光外，竟顺畅无阻地穿行而过。"
+  },
+  {
+    "Key": "Plot.GatewayToInsanity.Answer.13",
+    "enGB": "...tries to ambush the cultists.",
+    "zhCN": "……试图突袭这群邪教徒。"
+  },
+  {
+    "Key": "Plot.GatewayToInsanity.Cue.22",
+    "enGB": "Unfortunatly one of the cultists spots {mf|him|her} before {mf|he|she} has a chance to strike",
+    "zhCN": "遗憾的是，还没等{mf|他|她}出手，便有一名邪教徒提前撞破了{mf|他|她}的身形。"
+  },
+  {
+    "Key": "Plot.GatewayToInsanity.Cue.23",
+    "enGB": "The commander falls upon them like a wraith. Before they can as much as scream the cultists lie dead on the floor.",
+    "zhCN": "指挥官如厉鬼般扑杀而下。这群邪教徒甚至连一声惨叫都未能发出，便尽数横尸当场。"
+  },
+  {
+    "Key": "Plot.GatewayToInsanity.Cue.24",
+    "enGB": "The carved teeth spin and close inwards pinning the commander in place as the passageway begins to fill with murky brown bile.",
+    "zhCN": "石雕利齿飞旋着向内合拢，将指挥官死死锁在原地，与此同时，通道中开始涌出浑浊发褐的恶臭胆汁。"
+  },
+  {
+    "Key": "Plot.GatewayToInsanity.Answer.14",
+    "enGB": "The commander tries to wriggle free.",
+    "zhCN": "指挥官试图挣脱束缚。"
+  },
+  {
+    "Key": "Plot.GatewayToInsanity.Cue.25",
+    "enGB": "The traps grasp proves stronger than expected and by the time the commander has made it the far end {mf|he|she} has gotten several mouthfuls of the foul tasting liquid",
+    "zhCN": "机关的钳制力道远超预想，等指挥官好不容易挣扎脱困抵达另一端时，{mf|他|她}已经被灌了好几口恶臭扑鼻的脏液。"
+  },
+  {
+    "Key": "Plot.GatewayToInsanity.Cue.26",
+    "enGB": "Slipping from the traps grasp the commander makes a rush for the far side bursting through just in time to avoid the rising bile.",
+    "zhCN": "指挥官敏捷地滑脱陷阱的钳制，全力向另一端猛冲，赶在不断上涨的胆汁漫过前堪堪破水而出。"
+  },
+  {
+    "Key": "Plot.GatewayToInsanity.Answer.15",
+    "enGB": "The commander holds {mf|his|her} breath",
+    "zhCN": "指挥官屏住了呼吸。"
+  },
+  {
+    "Key": "Plot.GatewayToInsanity.Cue.27",
+    "enGB": "The vile liquid forces its into {mf|his|her} mouth before {mf|he|she} is able to clamp it shut. Eventually the commander breaks free and swims through the disguising liquid to the far side.",
+    "zhCN": "污秽的黏液赶在指挥官紧闭嘴唇前便硬生生灌了进去。最终，指挥官挣脱束缚，泅渡过恶心的液体游到了对岸。"
+  },
+  {
+    "Key": "Plot.GatewayToInsanity.Cue.28",
+    "enGB": "The commander holds {mf|his|her} breath and carefully works {mf|his|her} way free swimming through the bile to the far side covered in the disgusting liquid but otherwise unharmed.",
+    "zhCN": "指挥官屏住呼吸，小心翼翼地奋力挣脱束缚，游过胆汁抵达了对侧。虽然浑身沾满了令人作呕的黏液，但好在安然无恙。"
+  },
+  {
+    "Key": "Plot.GatewayToInsanity.Cue.29",
+    "enGB": "The passageway opens up into a entrance hall decorated in purples and greens. Before the commander has a chance to investigate any further however {mf|he|she} is spotted by a gang of cultists.",
+    "zhCN": "通道尽头豁然开朗，通向一座以紫绿相间装饰的门厅。然而还没等指挥官进一步勘查，便被一伙邪教徒撞了个正着。"
+  },
+  {
+    "Key": "Plot.GatewayToInsanity.Cue.30",
+    "enGB": "One of the cultists turns to run while the rest bar the commanders path forwards. They begin chanting in unfathomable tongues as they approach.",
+    "zhCN": "其中一名邪教徒扭头便跑，其余人则横刀立马封死了指挥官前行的去路。他们逼近上来，口中开始吟诵起常人难以参透的晦涩异语。"
+  },
+  {
+    "Key": "Plot.GatewayToInsanity.Answer.16",
+    "enGB": "The commander attempts to disrupt their spellcraft",
+    "zhCN": "指挥官试图打断他们的施法。"
+  },
+  {
+    "Key": "Plot.GatewayToInsanity.Cue.31",
+    "enGB": "The commander tries to ward against whatever power these cultists are drawing upon but nothing seems to work as it should. Their magic is just to different. Forces to resort to brute force the commander is able to take out the cultists but not before their magic has sapped at {mf|his|her} own mind. To make matters worse bells ring out the alert. The escaping cultist must have warned the others who was coming.",
+    "zhCN": "指挥官试图布下防护来抵御这群邪教徒汲取的诡秘力量，但一切法理似乎都失效了。他们的魔法委实过于离经叛道。被迫诉诸蛮力的指挥官终究斩杀了这帮邪教徒，但{mf|他|她}自己的心智也已被诡谲的魔力大幅削弱。更糟糕的是，急促的警钟声四下回荡——逃脱的狂徒显然已向其他人通风报信，告知了来者的身份。"
+  },
+  {
+    "Key": "Plot.GatewayToInsanity.Cue.32",
+    "enGB": "Thinking quickly the commander brings up wards to protect against the onslaught and takes out the oncoming cultists before then can finish whatever they were trying to cast. Unfortunately {mf|he|she} is not quick enough to catch the retreating cultist, moments later a the ringing of bells warns that the alarm has been raised.",
+    "zhCN": "指挥官急中生智，迅速张开法术护罩抵御猛攻，赶在迎面扑来的邪教徒完成吟唱前将他们尽数歼灭。可惜的是，{mf|他|她}没能快到拦下逃跑的狂徒；片刻之后，震耳欲聋的警钟声骤然敲响，昭示着警报已被拉响。"
+  },
+  {
+    "Key": "Plot.GatewayToInsanity.Answer.17",
+    "enGB": "The commander shouts trying to cow them into silence",
+    "zhCN": "指挥官厉声咆哮，试图震慑得他们噤声。"
+  },
+  {
+    "Key": "Plot.GatewayToInsanity.Cue.33",
+    "enGB": "It's unclear if the cultists are brave enough to stand their ground, more afraid of their boss than the commander or simply too detached from reality to comprehend the danger. Either way they keep chanting without the slightest pause. Their spells weaves an intricate web of magic which saps the the commanders mind even as {mf|he|she} cuts them down. To make matters worse bells ring out the alert. The escaping cultist must have warned the others who was coming.",
+    "zhCN": "不知这群邪教徒是悍不畏死、惧怕首领甚于指挥官，亦或是心智早已脱离现实、全然不知危险为何物。无论如何，他们的吟诵没有片刻停歇。他们的法术编织出一张错综复杂的魔网，即便在指挥官将他们斩于剑下时，仍不断侵蚀削弱着{mf|他|她}的心智。更糟糕的是，警钟声骤然大作——逃窜的狂徒显然已向其他人通风报信，揭露了入侵者的身份。"
+  },
+  {
+    "Key": "Plot.GatewayToInsanity.Cue.34",
+    "enGB": "The commander's roar breaks through the chanting, distrupting the intricate pattern of magic being woven and providing an opening to strike. The battle is over quickly but not quickly enough to stop the fleeing cultists escape and soon bells ring out the alarm through the tunnels. ",
+    "zhCN": "指挥官的一声怒吼震断了尖锐的吟诵，粉碎了那张正在交织的复杂魔网，并撕扯出一道破绽。战斗转瞬便告结束，但依然没能快到阻止那名仓皇逃窜的邪教徒；不久，刺耳的警钟声便在整座坑道中激荡开来。"
+  },
+  {
+    "Key": "Plot.GatewayToInsanity.Answer.18",
+    "enGB": "The commander makes a rush for the fleeing cultist",
+    "zhCN": "指挥官直扑那名逃跑的邪教徒。"
+  },
+  {
+    "Key": "Plot.GatewayToInsanity.Cue.35",
+    "enGB": "But the cultist proves too quick diving down a passageway and out of sight before the commander can reach them. Worse still when the commander turns back to {mf|his|her} attackers they're able to finish their spell and begin to drain energy from the commander's mind before {mf|he|she} silences them.",
+    "zhCN": "然而那名狂徒动作过于敏捷，身形一晃便钻进一条通道，赶在指挥官追上之前消失得无影无踪。更糟的是，当指挥官回身应对围攻的敌人时，他们已经完成了法术，在指挥官将他们封喉之前，硬生生汲取了其心智的力量。"
+  },
+  {
+    "Key": "Plot.GatewayToInsanity.Cue.36",
+    "enGB": "Pushing right through the chanting cultist the commander makes a dive for the retreating figure catching them before they have a chance to raise the alarm. However this victory is not without its cost.The rest of the cultists are able to complete their spell draining energy directly from the {mf|his|her} mind. Turning back the commander strikes them down before they have a chance to capitalise on what they've done.",
+    "zhCN": "指挥官径直穿过吟诵的教徒，飞身扑向那道溃退的人影，赶在他拉响警报之前将其当场按倒。然而，这番斩获并非没有代价——其余的狂徒趁机完成了法术，直接自{mf|他|她}的心智中抽干了一股能量。指挥官回身横扫，赶在他们借机发难前将其彻底斩草除根。"
+  },
+  {
+    "Key": "Plot.GatewayToInsanity.Cue.37",
+    "enGB": "With the immediate threat dealt with the Commander pauses to consider {mf|his|her} options. The entrance hall itself would seem to have served an entirely ornamental function. Disturbing tapestries line the walls bearing images of tendrils wrapped in eyes coiling around the world or bursting out of human bodies. Chairs and tables a scattered haphazardly about the place suggesting the room was used for casual meetings. Two doorways lead deeper into the structure. Ahead is large stone archway and on the left lines a smaller door covered in runes.",
+    "zhCN": "解决了迫在眉睫的威胁后，指挥官驻足权衡当下的抉择。这处门厅看起来纯粹是装饰之用。墙壁上挂着令人毛骨悚然的挂毯，描绘着布满眼球的触须缠绕着世界、或是从人体中破体而出的骇人景象。桌椅杂乱无章地散落各处，表明这里曾用于非正式的集会。两道门廊通向建筑更深处：正前方矗立着一座宏伟的石拱门，左侧则是一扇刻满符文的偏门。"
+  },
+  {
+    "Key": "Plot.GatewayToInsanity.Answer.19",
+    "enGB": "The commander ploughs forwards through the double doors.",
+    "zhCN": "指挥官径直穿过对开的大门向前挺进。"
+  },
+  {
+    "Key": "Plot.GatewayToInsanity.Answer.20",
+    "enGB": "The commander turns to the runic doorway.",
+    "zhCN": "指挥官转向那扇刻满符文的门扉。"
+  },
+  {
+    "Key": "Plot.GatewayToInsanity.Cue.38",
+    "enGB": "The room beyond is filled with scrolls but unlike a typical library they are not neatly catalogued to lined up in selves. Instead the scolls seems to burst out from the walls themselves unrolled at full length and swaying slightly in an unseen wind. \"This 'ere looks like one of their libraries. I'd steer clear of it if I were you.\" Bell suggests",
+    "zhCN": "门后的房间堆满了卷轴，但与寻常的图书馆不同，这些卷轴并未井井有条地编目陈列在书架上。相反，卷轴仿佛是从墙壁本身喷涌而出，全幅舒展铺开，在一阵无形的阴风中微微飘摇。“瞧这模样，像是他们的藏书室。要我是您，我就绕着它走。”贝尔提议道。"
+  },
+  {
+    "Key": "Plot.GatewayToInsanity.Answer.21",
+    "enGB": "Heeding her advice the commander turns back the way {mf|he|she} came",
+    "zhCN": "听从她的劝告，指挥官转身原路返回。"
+  },
+  {
+    "Key": "Plot.GatewayToInsanity.Answer.22",
+    "enGB": "The commander decides to take a closer look.",
+    "zhCN": "指挥官决定近前一探究竟。"
+  },
+  {
+    "Key": "Plot.GatewayToInsanity.Cue.39",
+    "enGB": "Most of the scrolls are written in an unknown script but there is something compelling about the words nonetheless. Without knowing how or why the commander finds {mf|him|her}self drawn to keep reading this unfathomable text.",
+    "zhCN": "绝大多数卷轴都由未知的异形文字写就，然而字里行间却透着某种摄人心魄的吸引力。不知何故，指挥官竟情不自禁地沉溺其中，执拗地想要读懂这晦涩难解的文本。"
+  },
+  {
+    "Key": "Plot.GatewayToInsanity.Cue.40",
+    "enGB": "Most of the scrolls are written in an unknown script but there is something compelling about the words nonetheless. Relying on the diagrams and general arcane principles the commander is able to decipher that they are notes on inter-planer travel, summoning, and the creation of gateways. These cult is clearing researching some highly esoteric forms of magic and now some of their knowledge belongs to the commander.",
+    "zhCN": "绝大多数卷轴都由未知的文字写就，然而字里行间却透着某种摄人心魄的魔力。凭借图表注记与通用的奥术原理，指挥官破译出其内容乃是关于跨位面旅行、召唤术以及界域门扉构筑的札记。这个教团显然在钻研某些极度深奥晦涩的秘学，而如今，其中的一部分知识已归指挥官所有。"
+  },
+  {
+    "Key": "Plot.GatewayToInsanity.Cue.41",
+    "enGB": "As the commander reads the text something strange starts the happen. The writing seems to be reading {mf|him|her} back. First its just a niggling sense of being watched but it grows. The wall knows {mf|him|her}. {mf|he|she} is just another story to be read and catalogued. To be understood down to the slightest stroke of a pen.",
+    "zhCN": "随着指挥官逐字阅读，异变陡生。那些文字仿佛反过来在“阅读”{mf|他|她}。起初只是一种被窥伺的刺骨不安，但这种感觉愈演愈烈。整面墙壁都在审视着{mf|他|她}。{mf|他|她}不过是另一部等待被翻阅、被编目的故事，注定要在最微末的一笔一划间被解析得彻彻底底。"
+  },
+  {
+    "Key": "Plot.GatewayToInsanity.Cue.42",
+    "enGB": "The commander wrenches {mf|him|her}self free of the walls gaze. Averting {mf|his|her} own eyes from the scrolls before anything worse happens. Yet something of the experience still lingers a memory that can't be easily shaken.",
+    "zhCN": "指挥官猛力挣脱了墙壁的凝视。赶在更可怕的后果降临前，{mf|他|她}将视线从卷轴上硬生生移开。然而那番经历的余悸依然萦绕不去，宛如一段无法轻易驱散的梦魇。"
+  },
+  {
+    "Key": "Plot.GatewayToInsanity.Cue.43",
+    "enGB": "{name} is a book being read by something incomprehensible. The commander can feel eyes running through {mf|his|her} words, a hand slowly flicking through {mf|his|her} pages. A sharp bang seems to echo vaguely in the distance and a voice speaks. \"Snap out of it!\" But Bell's words don't matter she's just another book on the self after all. There's a heavy thud and all goes black. When the commander comes to {mf|he|she} is a person again lying back in the entrance hall with a fresh bruise on {mf|his|her} face. \"Are ya back with us?\" Bell asks.",
+    "zhCN": "{name}成了一本书，正被某种不可名状的可怖存在细细翻阅。指挥官能感觉到有视线在自己的字句间游移，一只手正缓缓翻动着属于{mf|他|她}的书页。隐约间，远处似乎回荡起一声尖锐的巨响，接着是一个焦急的声音：“醒醒！”但贝尔的话无关紧要——毕竟，她也不过是书架上的另一本书罢了。伴随着一声沉重的闷响，眼前化作一片漆黑。当指挥官苏醒过来时，{mf|他|她}重新变回了凡人，仰躺在门厅的地面上，脸上还带着新鲜的淤青。“缓过劲儿来了吗？”贝尔问道。"
+  },
+  {
+    "Key": "Plot.GatewayToInsanity.Cue.44",
+    "enGB": "\"What happened?\" The words come out garbled as the commander's mind slowly recovers. \"I don't rightly know. Something was happening to ya. I had to knock you out and drag you outa there. Sorry 'bout the bruise but whatever that was I'm sure it woulda been worse.\"",
+    "zhCN": "“发生什么事了？”随着神智缓缓恢复，指挥官吐字含糊不清地发问。“我也说不大清楚。你身上刚才起了怪异的动静。我只能把你打晕，死拖活拽弄了出来。脸上的伤实在抱歉，但不管刚才那是啥鬼名堂，再待下去一准更要命。”"
+  },
+  {
+    "Key": "Plot.GatewayToInsanity.Cue.45",
+    "enGB": "A shudder runs up the commander's spine as {mf|he|she} wonders what might have happened if that had gone on much longer. Even in so short a time the mark of that place runs deep. It feels as though something has folded down a corner of the commander's pages ready to read again later. After taking some time to recover from the experience the commander resumes the journey deeper into the cultist lair.",
+    "zhCN": "一股寒意顺着指挥官的脊梁骨直往上窜，{mf|他|她}不禁后怕：若是再深陷片刻，究竟会招致何等下场。哪怕只是这短短一瞬，那座藏书室的烙印也已深入骨髓。那种感觉，就仿佛有什么可怖的存在将属于指挥官的书页折起了一角，备好日后再度翻阅。在休整片刻以从这番震颤中回过神后，指挥官动身继续向教团巢穴深处进发。"
+  },
+  {
+    "Key": "Plot.GatewayToInsanity.Cue.46",
+    "enGB": "Past the entrance hall the commander finds the living and sleeping quarters of the cultists.",
+    "zhCN": "穿过门厅，指挥官找到了狂教徒们的生活与起居区域。"
+  },
+  {
+    "Key": "Plot.GatewayToInsanity.Cue.47",
+    "enGB": "The whole place is deserted. Objects are strews about as though everyone left in a hurry. After a brief search the commander finds nothing of interest.",
+    "zhCN": "整片区域空无一人。物品散落一地，宛如所有人都在仓促间仓皇撤离。经过一番简短的搜寻，指挥官并未发现有价值的事物。"
+  },
+  {
+    "Key": "Plot.GatewayToInsanity.Cue.48",
+    "enGB": "Cultists mill about the room whispering to each other in some strange language. All eyes turn to look at the newcommer...",
+    "zhCN": "邪教徒们在房间里游荡踱步，用某种古怪的语言交头接耳。所有的目光瞬间齐刷刷投向了这位不速之客……"
+  },
+  {
+    "Key": "Plot.GatewayToInsanity.Cue.49",
+    "enGB": "After clearing the cultists living area the commander spots several objects discarded in haste. Most of it is everyday objects worth little to nothing but some of them were carrying some interesting weapons.",
+    "zhCN": "肃清了邪教徒的生活区后，指挥官发现了数样被仓促遗弃的物件。其中大多是不值一文的日常杂物，但也有某些人携带着颇为奇特的武器。"
+  },
+  {
+    "Key": "Plot.GatewayToInsanity.Answer.24",
+    "enGB": "...who tries to blend in with the crowd.",
+    "zhCN": "……试图混入人群之中。"
+  },
+  {
+    "Key": "Plot.GatewayToInsanity.Cue.50",
+    "enGB": "Without knowing the secret language of the cult its hard to pass as one of them for long. The commander's ruse isn't enough to fool so many at once. One of the cultists shouts something and all hell breaks loose. Some charge forward weapons drawn only to fall before the commander's power. Others flee deeper in and yet more make a rush for the exit. While they prove little threat a few of them manage to escape to warn the others.",
+    "zhCN": "不懂得教团的隐秘语言，终究难以长时间鱼目混珠。指挥官的伪装不足以一次性瞒过这么多双眼睛。其中一名邪教徒高声叫嚷了句什么，刹那间场面大乱。有的拔出兵刃猛冲上前，旋即便毙命于指挥官的威能之下；有的仓皇逃向深处；更有甚者拼命扑向出口。尽管这帮人构不成多少威胁，但仍有几只漏网之鱼成功逃脱，前去向其他人报信。"
+  },
+  {
+    "Key": "Plot.GatewayToInsanity.Cue.51",
+    "enGB": "A good robe a slight slouch and some incoherent mumbling is enough to keep the commander from drawing too much attention as {mf|he|she} slips by the cultists",
+    "zhCN": "一件得体的长袍、微微佝偻的身形加上几句含糊不清的咕哝，便足以让指挥官在穿过这群邪教徒时不致引来过多疑虑。"
+  },
+  {
+    "Key": "Plot.GatewayToInsanity.Answer.25",
+    "enGB": "...who offers them a chance to leave peacefully.",
+    "zhCN": "……给他们一个和平离开的机会。"
+  },
+  {
+    "Key": "Plot.GatewayToInsanity.Cue.52",
+    "enGB": "The cultists fanaticism wins out over their sense of self preservation. Many charge the commander only to fall to {mf|his|her} far greater skill. However their sacrifice buys time for some of the others to retreat deeper into the structure and raise the alarm. ",
+    "zhCN": "狂教徒的狂热终究压倒了求生的本能。许多人咆哮着冲向指挥官，却尽数饮恨于{mf|他|她}那压倒性的精湛武艺之下。然而，他们的牺牲却为其余狂徒争取了时间，令其得以溃退入据点深处拉响警报。"
+  },
+  {
+    "Key": "Plot.GatewayToInsanity.Cue.53",
+    "enGB": "The commander's reputation proceeds {mf|him|her} and a quick glance confirms to the cultists that they don't stand a chance in a fight. After some debate the cultists accept the commander's offer. The group head out into the wound leaving the commander's path forwards clear.",
+    "zhCN": "指挥官的大名早已威名远播，仅仅一瞥，狂徒们便心知正面交锋绝无胜算。经过一番低语商榷，邪教徒们接受了指挥官的开恩提议。这群人迅速撤出、逃向世界之伤，为指挥官扫清了继续向前的道路。"
+  },
+  {
+    "Key": "Plot.GatewayToInsanity.Answer.26",
+    "enGB": "...who charges into battle.",
+    "zhCN": "……径直杀入战局。"
+  },
+  {
+    "Key": "Plot.GatewayToInsanity.Cue.54",
+    "enGB": "The commander's charge is fierce but {mf|he|she} is soon bogged down by the sheer number of bodies. While the battle is decidedly in {mf|his|her} favour {mf|he|she} is unable to prevent many of the cultists escaping deeper inside to raise the alarm.",
+    "zhCN": "指挥官的冲锋势不可挡，但很快便被眼前密密麻麻的人群所缠住。尽管战局毫无悬念地偏向{mf|他|她}这一边，但{mf|他|她}仍旧无法阻止许多邪教徒趁乱逃向内部去拉响警报。"
+  },
+  {
+    "Key": "Plot.GatewayToInsanity.Cue.55",
+    "enGB": "The commander takes them by storm. A few cultists move to block the commander but are swept aside like dust before {mf|his|her} onslaught. The remaining cultists who were trying to retreat deeper into the building are cut off before they can escape to warn the others.",
+    "zhCN": "指挥官如狂风骤雨般袭向他们。数名邪教徒试图上前阻拦，却在{mf|他|她}的猛攻下如微尘般被横扫开来。其余企图向据点深处溃退的邪教徒也尽数被截断了去路，根本没机会去向其他人通风报信。"
+  },
+  {
+    "Key": "Plot.GatewayToInsanity.Cue.56",
+    "enGB": "As the commander nears the far end of the cultists living space a odd acrid scent fills the air punctuated by dull moans. Pushing forwards {mf|he|she} finds {mf|him|her}self in a grim laboratory. A large table dominates the room. Mercifully it's shackles are currently empty but its surface is stained with blood and other fluids.  The room is divided down the middle by a wall of iron bars and beyond them strange distorted shapes shamble around in the dark growling and moaning.",
+    "zhCN": "随着指挥官走近邪教徒生活区的另一端，空气中弥漫开一股刺鼻难闻的怪味，其间还夹杂着低沉沉的痛苦呻吟。{mf|他|她}快步向前，发现自己置身于一处阴森可怖的实验室中。一张巨大的石台赫然占据了房间的正中；所幸上面的镣铐眼下空无一物，但台面早已浸透了斑驳的血迹与其他体液。房间正中被一道铁栅栏一分为二，栅栏后方，几个扭曲异形的怪诞轮廓正于昏暗中踉跄晃荡，口中发出阵阵低吼与哀嚎。"
+  },
+  {
+    "Key": "Plot.GatewayToInsanity.Cue.57",
+    "enGB": "\"I... I think those are the townsfolk he took\" Bells face is grim as she stares through the bars at the remains of once familiar faces. \"We gotta help 'em.\"",
+    "zhCN": "“那……我看那些就是他抓走的镇民。”贝尔隔着铁栏凝视着那些依稀尚能辨认出旧日面容的残存痕迹，神色凝重万分，“咱们得救他们。”"
+  },
+  {
+    "Key": "Plot.GatewayToInsanity.Cue.58",
+    "enGB": "As she moves closer one of the figures jumps forwards reaching through the bars towards her with a screeching roar. Instead of the hand one might expect their arm opens up into a mouth which gnashes its teeth straining to get close enough to bite down on the gunslinger.",
+    "zhCN": "见她上前靠近，其中一道身影猛地扑了上来，发出一声刺耳尖锐的咆哮，穿过铁栏向她抓来。然而伸过来的却并非寻常的手掌，其手臂竟裂开化作一张血盆大口，利齿不住开合咬动，拼命想要凑上前狠狠咬下这位铳士一口肉。"
+  },
+  {
+    "Key": "Plot.GatewayToInsanity.Answer.28",
+    "enGB": "\"I'm sorry Bell they might be passed saving. Are you prepared for that?\"",
+    "zhCN": "“抱歉，贝尔，他们恐怕已经无药可救了。你做好这层心理准备了吗？”"
+  },
+  {
+    "Key": "Plot.GatewayToInsanity.Cue.59",
+    "enGB": "\"I know... and if it comes to it I... I can do what needs ta be done. But we 'ave ta try don't we? They deserve that much.\"",
+    "zhCN": "“我明白……要真到了那一步，我……我下得去手。可咱们总得试上一试，不是吗？他们受了这么多苦，至少配得上这个。”"
+  },
+  {
+    "Key": "Plot.GatewayToInsanity.Answer.29",
+    "enGB": "\"What has he done to these people?!\"",
+    "zhCN": "“他到底对这些人做了什么？！”"
+  },
+  {
+    "Key": "Plot.GatewayToInsanity.Cue.60",
+    "enGB": "\"It's what I was afraid of. It's called fleshwarping. I don't know if he learnt it from Drow or the Nexian fleshforges but its truly nasty stuff. Taking people's bodies and making all kinds of changes. Sewing parts together like some crazed tailor. I don't know what we wants to learn from all this but no knowledge is worth what he's done to these people.\"",
+    "zhCN": "“正是我一直担心的勾当。这叫做变体肉造妖术。我不知道他是从卓尔精灵那里还是内克斯的血肉锻炉学来的，但那绝对是恶毒透顶的邪术。拿活人的躯体肆意改造，像个疯癫的裁缝一样把各种器官缝合在一起。我不知道他想从这堆烂摊子里探求什么名堂，但没有任何知识配得上对这些人犯下的这般暴行。”"
+  },
+  {
+    "Key": "Plot.GatewayToInsanity.Answer.30",
+    "enGB": "\"They're nothing but monsters now.\"",
+    "zhCN": "“他们现在已经彻头彻尾沦为怪物了。”"
+  },
+  {
+    "Key": "Plot.Alignment.Fleshwarps.TreatedAsMonsters",
+    "enGB": "Treated the brainweaver's fleshwarps as monsters",
+    "zhCN": "将织脑者的变体肉造造物视作怪物"
+  },
+  {
+    "Key": "Plot.GatewayToInsanity.Answer.31",
+    "enGB": "\"Of course. We'll do everything we can.\"",
+    "zhCN": "“那是自然。我们会尽一切可能施救。”"
+  },
+  {
+    "Key": "Plot.Alignment.Fleshwarps.TreatedAsVictims",
+    "enGB": "Tried to help the brainweaver's fleshwarps'",
+    "zhCN": "尝试解救织脑者的变体肉造受害者"
+  },
+  {
+    "Key": "Plot.GatewayToInsanity.Cue.61",
+    "enGB": "\"We can't just leave 'em here! They're innocent people, just minding their own business before this lot got to 'em. What are we fightin' for is not ta help folks like this.\"",
+    "zhCN": "“咱们不能就这么把他们撂在这儿！他们都是无辜的百姓，在遭这帮畜生毒手前不过是在过自己的安分日子。要是连这种苦难之人都不救，咱们打这场仗到底图个啥！”"
+  },
+  {
+    "Key": "Plot.GatewayToInsanity.Answer.32",
+    "enGB": "\"I'm sorry but the only thing we can do now is put them out of their misery.\"",
+    "zhCN": "“我很抱歉，但我们眼下唯一能做的，就是帮他们解脱痛苦。”"
+  },
+  {
+    "Key": "Plot.GatewayToInsanity.Cue.62",
+    "enGB": "\"But... I knew these people how can we just...\" Bell's eyes are full of tears \"I know they wouldn't want to live like this but surely there's another way. I just wish... I wish I'd gotten here sooner maybe then I coulda saved 'em.\" she turns to face the mutants. \"I... I am so sorry. I failed you. I failed you all.\"",
+    "zhCN": "“可是……我认得这些人啊，咱们怎么能就这么……”贝尔眼里噙满了泪水，“我知道他们绝不乐意变成这副鬼模样活受罪，可肯定还有别的法子。我只是恨……恨自己没能早点赶来，那样说不定还能救下他们。”她转过身面对着那些畸变者，“对……对不起。是我辜负了你们。我没能护住大家。”"
+  },
+  {
+    "Key": "Plot.GatewayToInsanity.Answer.33",
+    "enGB": "\"We can't help them but we can at least learn from what was done to them. Let's take a look around the lab.\"",
+    "zhCN": "“我们救不了他们，但至少能从他们的遭遇里查清究竟发生了什么。在这间实验室里四处搜查一番吧。”"
+  },
+  {
+    "Key": "Plot.GatewayToInsanity.Cue.63",
+    "enGB": "\"You're just gonna read his notes after what it's led too? This kinda knowledge, its evil crazed. You'd be better off not knowing.\"",
+    "zhCN": "“亲眼见识了这种惨状之后，您居然还想去研读他的笔记？这种知识根本就是邪恶疯狂的祸根。一无所知反倒对您更好！”"
+  },
+  {
+    "Key": "Plot.GatewayToInsanity.Cue.64",
+    "enGB": "In spite of Bells protests the commander makes a thorough search of the room reading through details notes of the most heinous and grizzly experiments imaginable. There's more here than can be read in a day but even in a short time the commander is able to get a grasp of the basics of fleshwarping.",
+    "zhCN": "不顾贝尔的抗议，指挥官在房间内展开了彻底的搜查，翻阅着那些详尽记录了所能想象的最凶残、最可怖实验的手稿。此处的记录浩瀚得难以在一天之内通读，但仅仅在这片刻之间，指挥官便已掌握了变体肉造妖术的精要底细。"
+  },
+  {
+    "Key": "Plot.GatewayToInsanity.Cue.65",
+    "enGB": "Bells warnings bear out as the commander struggles through the papers. Each experiment is more grisly than the last and their collective toll wears down even the strongest stomach. This is the stuff of nightmares, horrors the commander won't soon be able to forget.",
+    "zhCN": "当指挥官艰难地翻阅着文稿时，贝尔的警告被残忍地印证了。上面的每一次实验都比前一次更加血腥残忍，字里行间的酷烈暴行令哪怕铁石心肠之人也胃部翻江倒海。那是唯有梦魇中才会浮现的恐怖，指挥官恐怕长久都无法将其从脑海中抹去。"
+  },
+  {
+    "Key": "Plot.GatewayToInsanity.Answer.35",
+    "enGB": "\"There's nothing we can do for them now. Once we're finished here we'll send a team to investigate.\"",
+    "zhCN": "“眼下我们对他们无能为力。等解决完这里的事，我们会派一队人手来妥善处理。”"
+  },
+  {
+    "Key": "Plot.GatewayToInsanity.Cue.66",
+    "enGB": "Bell nods. \"Whatever happens, thank you for trying.\"",
+    "zhCN": "贝尔点了点头：“无论最终如何，都多谢您愿意施以援手。”"
+  },
+  {
+    "Key": "Plot.GatewayToInsanity.Cue.67",
+    "enGB": "The commander steps towards the bars and surveys the horrors beyond. Most are barely recognisable as humanoid. Extra limbs or eyes or tentacles jut of their bodies at odd angles. Some press up against the bars jaws and pincers snapping. Others retreat back in fear cowering in the corner. Yet others barely move at all, twitching slightly on the ground. Yet all their mismatched eyes are turned to the commander who...",
+    "zhCN": "指挥官走向铁栏，端详着面前的恐怖光景。这些生物大多已难以辨认出原本的人形。畸生的肢体、眼球或触须以怪异的角度从躯干中暴突而出。有的猛扑在铁栏上，巨颚与螯钳发出清脆的开合声；有的则恐惧地退缩回阴暗角落里瑟瑟发抖；还有的几乎瘫软在地上抽搐，气息奄奄。然而，他们所有错落怪异的眼睛，此刻齐刷刷凝视着指挥官，而{mf|他|她}……"
+  },
+  {
+    "Key": "Plot.GatewayToInsanity.Answer.36",
+    "enGB": "...appeals to their humanity.",
+    "zhCN": "……尝试唤醒他们残存的人性。"
+  },
+  {
+    "Key": "Plot.GatewayToInsanity.Cue.68",
+    "enGB": "The commander's words cut through the madness eating away at their minds to reach the shreds of who they once were. The mutants calm. One of them tries to speak but the words come out in a garble. Finally they step back from the bars signalling without words that they are no longer a danger to anyone.",
+    "zhCN": "指挥官的话语穿透了正在蚕食他们心智的癫狂，触及了他们曾为凡人的残破回忆。畸变者们渐渐平静下来。其中一人试图开口说话，吐出的字句却含混成难以辨识的咕哝。最终，他们默默从铁栏前退后，以无声的举动表明他们已不再对任何人构成威胁。"
+  },
+  {
+    "Key": "Plot.GatewayToInsanity.Cue.69",
+    "enGB": "It's unclear if the creatures can even understand the commanders words. They continue to act more like animals than people struggling and roaring incoherently.",
+    "zhCN": "很难说这些造物是否真能听懂指挥官的话语。他们依然更像野兽而非人类，暴躁地挣扎着，发出语无伦次的狂吼。"
+  },
+  {
+    "Key": "Plot.GatewayToInsanity.Answer.37",
+    "enGB": "...searches through the research notes for a way to undo what was done.",
+    "zhCN": "……翻查研究笔记，寻找逆转这一惨状的方法。"
+  },
+  {
+    "Key": "Plot.GatewayToInsanity.Cue.70",
+    "enGB": "\"This kinda knowledge, its evil, crazed.\" Bell warns \"You'd be better off not knowing but... if its to 'elp these poor folk out I guess we've got no choice\"",
+    "zhCN": "“这种知识根本就是邪恶疯狂的祸根。”贝尔告诫道，“一无所知本该对您更好……可要是为了帮这帮可怜人解脱，我看咱们也别无选择了。”"
+  },
+  {
+    "Key": "Plot.GatewayToInsanity.Cue.71",
+    "enGB": "The commander makes a thorough search of the room reading through detailed notes of the most heinous and grizzly experiments imaginable. There's more here than can be read in a day but even in a short time the commander is able to get a grasp of the basics of fleshwarping. Enough to offer hope that with enough work a cure may one day be found.",
+    "zhCN": "指挥官在房间内展开了彻底的搜寻，仔细翻阅着那些详尽记录了所能想象的最凶残、最可怖实验的手稿。此处的文稿多得令人难以在一天之内通读，但仅仅在这片刻之间，指挥官便已摸清了变体肉造妖术的基础脉络。这足以燃起一丝微光——只要倾注足够心血，有朝一日或许真能寻得治愈之法。"
+  },
+  {
+    "Key": "Plot.GatewayToInsanity.Cue.72",
+    "enGB": "Bell's warnings bear out as the commander struggles through the papers. Each experiment is more grisly than the last and their collective toll wears down even the strongest stomach. This is the stuff of nightmares, horrors the commander won't soon be able to forget.",
+    "zhCN": "随着指挥官艰难地翻阅着文稿，贝尔的警告被残酷地印证了。每一次实验都比前一次更加骇人听闻，累积的惨状令哪怕最具定力的人也反胃作呕。这完全是来自梦魇深处的残酷折磨，指挥官短时间内恐怕很难将其彻底忘却。"
+  },
+  {
+    "Key": "Plot.GatewayToInsanity.Answer.38",
+    "enGB": "...calls on the divine to help heal these poor souls.",
+    "zhCN": "……祈求神圣威能，以抚慰治愈这些可怜的灵魂。"
+  },
+  {
+    "Key": "Plot.GatewayToInsanity.Cue.73",
+    "enGB": "The commander's prayers are answered and a healing light washes over the victims. They slowly calm as their minds regain a semblance of control. Even so horrors like this don't fade so easily. The physical changes are still there but at least they have regained a shred of their humanity.",
+    "zhCN": "指挥官的祈祷得到了回应，一道治愈的圣光笼罩了这群受害者。随着心智重新寻回一丝掌控，他们渐渐平静下来。即便如此，这般深重的苦难并不能轻易烟消云散。肉体上的异化依旧未能逆转，但至少，他们重新找回了一丝属于凡人的神智。"
+  },
+  {
+    "Key": "Plot.GatewayToInsanity.Cue.74",
+    "enGB": "The commander's efforts are not enough to overcome the sheer extent of damage inflicted on these people's minds. {mf|He|She} succeeds only in healing a few of the more mundane injuries and malnutrition these people have suffered.",
+    "zhCN": "面对这些人受创至深的心智，指挥官的努力终究显得力不从心。{mf|他|她}仅仅治愈了这群受害者遭受的某些寻常外伤与营养不良。"
+  },
+  {
+    "Key": "Plot.GatewayToInsanity.Answer.39",
+    "enGB": "...attempts to restore cosmic order and reverse these unnatural changes.",
+    "zhCN": "……尝试重构宇宙秩序，逆转这些违背常理的异化。"
+  },
+  {
+    "Key": "Plot.GatewayToInsanity.Cue.75",
+    "enGB": "The power of the aeon washes over the crowd but its effects are not all that might be expected. Much of what was done to these people was through a combination of alchemy and twisted medicine. These actions while vile are not themselves a violation of the cosmic order. What was done to their minds however was different these people were touched by something alien, something corrupting and that at least can be purged restoring them to some semblance of sanity.",
+    "zhCN": "御衡者的威能如潮水般拂过人群，但带来的回响却并非如预期那般完美。施加在这些人身上的绝大多数异化，皆源于炼金术与扭曲医术的结合。此类行径固然恶毒阴损，其本身却并未违背宇宙常理。然而，强加于他们心智上的手段却全然不同——这些人被某种异界、腐化的存在所污染侵蚀；而至少这一部分可以被彻底涤除，令他们重获几分理智与清明。"
+  },
+  {
+    "Key": "Plot.GatewayToInsanity.Answer.40",
+    "enGB": "...calls on the light of heaven to cleanse the victims' affliction.",
+    "zhCN": "……唤起天堂的神圣辉光，净化受害者的苦厄。"
+  },
+  {
+    "Key": "Plot.GatewayToInsanity.Cue.76",
+    "enGB": "Heaven's light shines forth from the commander a beacon marking the way back. A lighthouse guiding the souls of these people through the veil of madness and back to reality. Their bodies remain changed but the chaos in the minds has stilled. They step back all their former aggression gone.",
+    "zhCN": "天堂的圣光自指挥官身上绽放开来，宛如一座照亮归途的道标，指引着这些苦难者的灵魂穿透疯癫的迷雾、重返清醒的现实。他们的躯体依旧扭曲畸变，但脑海中的狂乱混沌却已归于平静。他们缓缓后退，先前的凶戾暴虐已荡然无存。"
+  },
+  {
+    "Key": "Plot.GatewayToInsanity.Answer.41",
+    "enGB": "Realising there's nothing more {mf|he|she} can do for them now the commander prepares to continue on vowing to come back for these poor souls.",
+    "zhCN": "意识到眼下对他们已无能为力，指挥官决意继续前行，并立誓日后定当折返救助这些受难的灵魂。"
+  },
+  {
+    "Key": "Plot.GatewayToInsanity.Cue.77",
+    "enGB": "One of the mutants steps forward pointing to a door at the far end of the room \"He... that... way. You... stop him... We wait\"",
+    "zhCN": "其中一名畸变者走上前去，指向房间另一端的一扇门：“他……在……那边。去……阻止他……我们……等。”"
+  },
+  {
+    "Key": "Plot.GatewayToInsanity.Cue.78",
+    "enGB": "Leaving the grisly laboratory behind the commander finds {mf|him|her}self in a rough-hewn stone corridor. A large contingent of cultists stand at the far end of the hall some appear to be spellcasters the rest point firearms back at the commander.",
+    "zhCN": "走出这间阴森的实验室后，指挥官置身于一条粗粝开凿的岩石长廊中。一大队邪教徒驻守在长廊尽头，其中一部分似乎是施法者，其余的人则纷纷举起火器，枪口齐刷刷对准了指挥官。"
+  },
+  {
+    "Key": "Plot.GatewayToInsanity.Cue.79",
+    "enGB": "The cultists are prepared for the commander's arrival and immediately begin their attack. Soon the corridor is filled with bullets and spells as the cultist volley fire from their position at the far side.",
+    "zhCN": "邪教徒对指挥官的到来早有戒备，立刻发动了攻击。随着邪教徒自远端阵地展开齐射，转瞬间长廊内便充斥着呼啸的弹丸与飞掠的法术。"
+  },
+  {
+    "Key": "Plot.GatewayToInsanity.Cue.80",
+    "enGB": "The cultists are well prepared for the commander's arrival having had the time to erect barricades and entrench themselves at the far end of the corridor. The moment they spot the commander they begin their attack filling the air with spell and shot.",
+    "zhCN": "狂教徒对指挥官的突入做足了万全准备，他们早早构筑好了街垒路障，固守在长廊尽头。一见到指挥官的身影，他们便倾巢发难，密集的枪火与法术呼啸着倾泻而出。"
+  },
+  {
+    "Key": "Plot.GatewayToInsanity.Cue.81",
+    "enGB": "But the cultists are unprepared for the commander's arrival. Caught off-guard they struggle to maintain a solid defence against the commander's attack. ",
+    "zhCN": "但邪教徒对指挥官的突然杀到毫无防备。被猝不及防打了个措手不及的狂徒们，仓皇之间根本无法组织起抵御指挥官攻势的严密防线。"
+  },
+  {
+    "Key": "Plot.GatewayToInsanity.Cue.82",
+    "enGB": "However the cultists are not the only threat in this place. Even space itself turns against the commander. As {mf|he|she} makes to move down the corridor it's shape begins to distort around {mf|him|her}. No matter how fast {mf|he|she} runs the cultists never seem to get any closer and yet their weapons seems to have no trouble reaching {mf|him|her}. Struggling against these strange forces the commander...",
+    "zhCN": "然而，盘踞在此处的威胁并不只有这帮邪教徒。就连空间本身似乎也在与指挥官为敌。当{mf|他|她}试图顺着走廊突进时，周遭的空间竟开始诡异地扭曲变形。无论{mf|他|她}疾奔得多快，与邪教徒之间的距离却始终分毫不减；然而对方的枪弹与法术袭向{mf|他|她}时，却丝毫不受阻碍。面对这股诡谲的力量，指挥官……"
+  },
+  {
+    "Key": "Plot.GatewayToInsanity.Answer.44",
+    "enGB": "...embraces the chaotic space.",
+    "zhCN": "……顺应这片混乱扭曲的空间。"
+  },
+  {
+    "Key": "Plot.GatewayToInsanity.Cue.83",
+    "enGB": "The commander lets the chaos flow through {mf|him|her}. Mythic power to guides {mf|him|her} through the storm. To an outside view it would seem like the {mf|he|she} was walking competly at random but yet bit bit {mf|he|she} makes her way across the room while the enemys' attacks drift harmlessly by.",
+    "zhCN": "指挥官任由混乱的力量在体内流转，依凭神话之力引路，横穿这场时空风暴。在旁人看来，{mf|他|她}的步伐宛如盲目乱撞，然而步步为营之间，{mf|他|她}竟已寸寸横跨了整个大厅，而敌人的攻击则尽数徒劳地从身侧滑过。"
+  },
+  {
+    "Key": "Plot.GatewayToInsanity.Answer.45",
+    "enGB": "[Mythos]...uses what {mf|he|she} has learned to turn the distortion to {mf|his|her} advantage.",
+    "zhCN": "【秘奥】……运用所习得的秘识，反过来将空间扭曲化为{mf|他|她}的利器。"
+  },
+  {
+    "Key": "Plot.GatewayToInsanity.Cue.84",
+    "enGB": "The commander slips through the folded space appearing behind the cultists. Taken totally by surprise the cultist provide little resistance before being cut down.",
+    "zhCN": "指挥官悄然滑过折叠的空间，鬼魅般赫然现身于邪教徒的阵线后方。猝不及防之下，这群狂教徒根本毫无招架之力，瞬间被尽数斩于剑下。"
+  },
+  {
+    "Key": "Plot.GatewayToInsanity.Answer.46",
+    "enGB": "...focuses on avoiding enemy fire as {mf|he|she} advances",
+    "zhCN": "……在稳步推进的同时，全神贯注躲避敌人的交叉火力。"
+  },
+  {
+    "Key": "Plot.GatewayToInsanity.Cue.85",
+    "enGB": "It's slow going and the commander feels {mf|he|she} has walked about twenty times the corridors lengths but {mf|he|she} eventually reaches the other side having avoided suffering any major injury.",
+    "zhCN": "步伐艰难而缓慢，指挥官感觉自己仿佛走过了足有这条走廊二十倍长的距离，但最终还算有惊无险地抵达了另一端，未受任何重创。"
+  },
+  {
+    "Key": "Plot.GatewayToInsanity.Cue.86",
+    "enGB": "It's slow going and the commander feels {mf|he|she} has walked about twenty times the corridors length but {mf|he|she} eventually reaches the other side. But {mf|he|she} is unable to avoid the sheer volume of fire headed {mf|his|her} way and gets hit by several stray spells.",
+    "zhCN": "步伐艰难而缓慢，指挥官感觉自己仿佛走过了足有这条走廊二十倍长的距离，好不容易才抵达了另一端。然而，迎面倾泻而来的凶猛火力实在令人避无可避，{mf|他|她}不幸被几记乱窜的法术击中了。"
+  },
+  {
+    "Key": "Plot.GatewayToInsanity.Answer.47",
+    "enGB": "...watches {mf|his|her} step to find a way through the warped space.",
+    "zhCN": "……步步为营，寻找穿过扭曲空间的方法。"
+  },
+  {
+    "Key": "Plot.GatewayToInsanity.Cue.89",
+    "enGB": "Beyond the cultists the warping of space only gets worse and it soon becomes clear why. A portal twisted and pulsating has been cut through space just around the corner. It looks in many ways like another part of the Worldwound. A seething purple and red mass of abyssal energy. One of many rifts in that vast network. But something about this one is different. Sickly green light shines around its edges, its opening seems to fold in upon itself and the energy bursting out comes in tortured fits. If all rifts were describes as a bleeding wound in the world this one you might say was infected.",
+    "zhCN": "越过这帮邪教徒，空间的扭曲愈发剧烈起来，而个中缘由很快便水落石出。转过拐角，一道扭曲跳动的传送门赫然撕裂了虚空。从许多方面看，它都酷似世界之伤的另一块裂片——由翻滚沸腾的深渊能量交织而成的紫红烂肉，庞大裂隙网络中的又一处创口。但眼前这一道却透着不可名状的诡谲：幽绿病态的荧光在其边缘流转，门扉的开口仿佛在一层层向内回卷坍缩，喷薄而出的能量带着痛苦痉挛般的阵阵抽搐。倘若将所有深渊裂隙比作这方世界上不断淌血的伤口，那么眼前这道裂痕，无疑已经彻底溃烂流脓。"
+  },
+  {
+    "Key": "Plot.GatewayToInsanity.Cue.90",
+    "enGB": "It's foreboding appearance doesn't appear to bother the surviving cultists who begin to leap through fleeing the commander's wrath as it begins to sputter and die. The commander watches with horror as the portal starts to close in on itself around the last of the cultists folding his body inside out and twisting it beyond all recognition. With a sickly splat the mass to distorted flesh slumps to the ground, the last remnant of the tainted rift.",
+    "zhCN": "这般凶险可怖的景象似乎并未吓退幸存的邪教徒，面对指挥官的怒火，他们争先恐后地纵身跃入那正在剧烈闪烁、即将熄灭的门扉。指挥官惊骇地目睹着传送门在最后一名狂徒穿过时骤然向内坍缩闭合，硬生生将他的躯体由内向外反转翻折，扭曲得面目全非。伴随着一声令人作呕的啪嗒闷响，一团烂泥般扭曲畸变的碎肉瘫软在地，成为这处污秽裂隙残留的最后一丝痕迹。"
+  },
+  {
+    "Key": "Plot.GatewayToInsanity.Cue.91",
+    "enGB": "\"Blast!\" Bell shouts at the now empty space \"I was sure I had 'em this time. But that creep always seems to find some way to slip off without a scratch. An' now he's gone again an' I don't even 'ave a trail ta follow.\"",
+    "zhCN": "“该死！”贝尔对着空荡荡的原地怒骂出声，“这回我明明十拿九稳能逮住他！可那混账人渣每次都能毫发无损地溜掉。现在他又不知逃哪儿去了，我手头连半点能追踪的线索都没了。”"
+  },
+  {
+    "Key": "Plot.GatewayToInsanity.Cue.92",
+    "enGB": "\"But at least we were able to 'elp out his victims that's the important thing. I just wish we could tell 'em we've stopped him from doing this ever again.\"",
+    "zhCN": "“不过至少咱们帮到了那些遭他毒手的无辜百姓，这才是最要紧的。我只是恨……恨咱们没法亲口告诉他们，再也不会有人遭这罪了。”"
+  },
+  {
+    "Key": "Plot.GatewayToInsanity.Cue.93",
+    "enGB": "\"I suppose we put a stop to 'is opperations for now anyway. I'm sure he'll be back but we'll 'ave slowed him down at least.\"",
+    "zhCN": "“不管怎么说，咱们横竖是端掉了他的老巢。我笃定他迟早还会卷土重来，但至少这回狠狠挫了他的锐气。”"
+  },
+  {
+    "Key": "Plot.GatewayToInsanity.Cue.94",
+    "enGB": "\"Anyways I don't think there's much you can do 'ere. I'll stay and look after 'is victims see they don't 'urt themselves nor nobody else. Once I've got 'em some-place safe I'll meet ya back in Drezen an' maybe we can discuss workin' together again.\"",
+    "zhCN": "“行了，我看这地方也没啥您能搭手的了。我留下来照看那些受害的可怜人，免得他们伤了自个儿或者伤及旁人。等把他们安顿到稳妥的地界，我就回眷泽城找您汇合，到时候咱们说不定能再琢磨琢磨一起共事的事儿。”"
+  },
+  {
+    "Key": "Plot.GatewayToInsanity.Answer.49",
+    "enGB": "\"The crusades would be honoured to have you Bell.\"",
+    "zhCN": "“圣战军能有你加入，实属荣幸，贝尔。”"
+  },
+  {
+    "Key": "Plot.GatewayToInsanity.Answer.50",
+    "enGB": "\"We're always looking for experienced fighters. Welcome aboard.\"",
+    "zhCN": "“我们永远欢迎经验老到的战士。欢迎加入。”"
+  },
+  {
+    "Key": "Plot.GatewayToInsanity.Answer.51",
+    "enGB": "\"I don't think it'll work out.\"",
+    "zhCN": "“我觉得我们不太合得来。”"
+  },
+  {
+    "Key": "Plot.GatewayToInsanity.Cue.95",
+    "enGB": "\"In that case I look forward to fighting by your side boss.\"",
+    "zhCN": "“既然这样，那我可就盼着跟在您麾下并肩作战了，长官。”"
+  },
+  {
+    "Key": "Plot.GatewayToInsanity.Cue.96",
+    "enGB": "\"Well I suppose I'd best be off then. Maybe I'll see you around again but I doubt it.\"",
+    "zhCN": "“成吧，那我看我也该动身了。说不定咱们往后还能再碰面——不过我估摸着是悬了。”"
+  },
+  {
+    "Key": "Plot.GatewayToInsanity.Cue.97",
+    "enGB": "With the threat ended the commander takes some time to search the bodies of the cultists.",
+    "zhCN": "威胁解除后，指挥官抽出时间仔细搜查了邪教徒的尸体。"
+  },
+  {
+    "Key": "Plot.GatewayToInsanity.Cue.98",
+    "enGB": "While some of the cultists escaped through the rift many more fell here leaving behind some valuables and a very interesting weapon.",
+    "zhCN": "虽然有几名邪教徒侥幸借裂隙逃脱，但更多的人殒命于此，遗留下了些许财物以及一把颇为奇特的武器。"
+  },
+  {
+    "Key": "Plot.GatewayToInsanity.Cue.99",
+    "enGB": "Whilst most of the cultists managed to escape through the rift a few fell here leaving behind some valuables.",
+    "zhCN": "尽管大多数邪教徒成功借裂隙逃之夭夭，但仍有几具尸首倒在此处，留下了些许值钱的物件。"
+  },
+  {
+    "Key": "Plot.GatewayToInsanity.Cue.100",
+    "enGB": "The commander escorts the mutated prisoners out of the building and sends for a team of clerics to take them back to Drezen in hopes of a more complete cure.",
+    "zhCN": "指挥官护送着产生异变的俘虏走出据点，并派人召来一队牧师将他们接应回眷泽城，期冀能寻得更为彻底的治愈之法。"
+  },
+  {
+    "Key": "Plot.CowgirlRecruitment.Cue.0",
+    "enGB": "\"Howdy partner I see y'all made it back 'ere in once piece. You'll be happy to know I've got Brainweaver's victims safe and under the care of you're medics. They seem a pretty skilled bunch so I've hope they'll be able to do something for 'em. In the mean time I ain't got no more leads on Brainweaver besides 'im being somewhere out there in the Worldwound so it looks like I've got some free time on my hands. Any chance y'all could use the help of a 'slinger from the wastes?\"",
+    "zhCN": "“幸会啊，搭档！瞧见大伙儿都全须全尾地回来了。说来让您高兴高兴，织脑者的那些受害者我都给安顿妥当了，如今全在您的随军医官手底下照看着呢。那帮人手艺看着挺扎实，我估摸着能替他们想想辙。眼下除了知道织脑者还躲在世界之伤的某个角落外，我手里头半点线索都没了，看来这阵子我算是个大闲人了。不知您那儿用不用得上一位从废土来的铳士搭把手？”"
+  },
+  {
+    "Key": "Plot.CowgirlRecruitment.Cue.1",
+    "enGB": "\"I'd be happy ta help. This wound of yours is much worse than I ever imagined back 'ome. Puttin' an' end to it seems like quite the worthy cause. 'Sides Brainweavers still out there somewhere workin' alongside you ought ta give me plenty of chances to find out where he's gone.\"",
+    "zhCN": "“我乐意效劳。您这片伤口的情况，可比我在老家听闻的邪乎多了。平定这桩乱子，怎么看都是件顶天立地的大义。再说织脑者那厮还在外头游荡呢，在您手底下干活，我也好有大把机会打探他究竟缩在哪儿。”"
+  },
+  {
+    "Key": "Plot.CowgirlRecruitment.Cue.2",
+    "enGB": "\"Well I suppose I'd best be off then. Maybe I'll see you around again but I doubt it.\"",
+    "zhCN": "“成吧，那我看我也该动身了。说不定咱们往后还能再碰面——不过我估摸着是悬了。”"
+  },
+  {
+    "Key": "Cowgirl.Name",
+    "enGB": "Bell",
+    "zhCN": "贝尔"
+  },
+  {
+    "Key": "Cowgirl.Secret.Template.Name",
+    "enGB": "???",
+    "zhCN": "？？？"
+  },
+  {
+    "Key": "Cowgirl.Secret.Template.Description",
+    "enGB": "There is something strange about this woman. Perhaps it is nothing more than the side effects of prolonged exposure to occult forces in her work or a mutation from the mana wastes. Whatever it is it makes her differnt.",
+    "zhCN": "这个女人身上透着某种诡谲的气息。或许这不过是她在执行公务时长期接触神秘异力留下的后遗症，亦或是法力废土带来的变异影响。但无论究竟为何，都使她异于常人。"
+  },
+  {
+    "Key": "Cowgirl.Secret.Template.Description.Short",
+    "enGB": "There is something strange about this woman.",
+    "zhCN": "这个女人身上透着某种诡谲的气息。"
+  },
+  {
+    "Key": "Plot.Cowgirl.Cue.0",
+    "enGB": "Bell looks up from cleaning her gun and gives you a wave as you approach. \"Howdy partner\"",
+    "zhCN": "贝尔停下擦拭枪支的动作，抬头望向你，见你走近便招了招手：“幸会啊，搭档。”"
+  },
+  {
+    "Key": "Plot.Cowgirl.Answer.0",
+    "enGB": "I'd like to know a bit more about you.",
+    "zhCN": "“我想多了解你一些。”"
+  },
+  {
+    "Key": "Plot.Cowgirl.Cue.1",
+    "enGB": "\"Sure what do ya want ta know?\"",
+    "zhCN": "“成啊，您想打听点啥？”"
+  },
+  {
+    "Key": "Plot.Cowgirl.Answer.1",
+    "enGB": "What are things like back home?",
+    "zhCN": "“你老家那边是个什么光景？”"
+  },
+  {
+    "Key": "Plot.Cowgirl.Cue.2",
+    "enGB": "\"Well I'm from this little frontier town out in the Spellscar Desert. Things are rough but we all stick together to survive. The whole place is riddled with the remnants of broken magic. Leftovers of da war between Nex and Geb. In some ways I guess its a bit like yer worldwound but less... I don't know less evil more mundane and desolate. On toppa that magic don't work so good there. That's why we've got some 'a the best alchemists an' engineers in all Golarion. A lotta people look at the place an' just see it as a desolate wasteland, a harsh reminder of the consequences of war, that or they look at Alkenstar City and see a hub of innovation and technology. In many ways it's all of those things but ta me it's just home.\"",
+    "zhCN": "“这么说吧，我打小长在法痕荒漠边缘的一座拓荒小镇。那地方日子艰苦得很，大伙儿全得抱团取暖才能活命。整片地界全被破碎魔法的残渣糟践了个遍——全是当年内克斯和吉布那场大战留下的烂摊子。从某些角度看，我估摸着跟你们的世界之伤差不多，就是没那么……怎么说呢，没那么邪恶，更多的是荒凉和死寂。再加上那地方魔法根本不顶用，所以我们那儿才出了全格拉里昂最拔尖的一批炼金术师和机械师。外人瞧着那地方，要么只当它是个不毛荒原、一场敲响战争代价的残酷警钟；要么就盯着阿尔肯星城，赞叹那是个发明与科技的荟萃之地。讲真，这些说法都没错，但对我来说，那儿就是我的家。”"
+  },
+  {
+    "Key": "Plot.Cowgirl.Answer.2",
+    "enGB": "Do you miss it?",
+    "zhCN": "“你想家了吗？”"
+  },
+  {
+    "Key": "Plot.Cowgirl.Cue.3",
+    "enGB": "\"Suppose I do. But I can't go back while Brainweaver's still at large. Brining him in is my responsibility. 'Sides this Worldwound a problem for all of Golarion and I'm sure I'm not the only 'omesick solider you've got under yer command, I'll manage. An' one day this wound'll close and we can all go 'ome to a better, safer, world.\"",
+    "zhCN": "“大概是想的吧。可织脑者一日逍遥法外，我就一日不能回乡。将他绳之以法是我的分内之责。再说这世界之伤是整个格拉里昂的祸患，我料想您麾下犯思乡病的兵卒也不止我一个，我扛得住。等有朝一日这道伤口彻底合拢，咱们大家伙儿就能各回各家，回一个更美好、更太平的世道去。”"
+  },
+  {
+    "Key": "Plot.Cowgirl.Answer.3",
+    "enGB": "Anyone you've left behind there?",
+    "zhCN": "“你在老家还有什么牵挂的人吗？”"
+  },
+  {
+    "Key": "Plot.Cowgirl.Cue.4",
+    "enGB": "\"I knew everyone back there. It was just one of those places ya know. Still if you're looking for anyone specific there's Aunty. She ain't my real aunt but she's da one what raised me after... Well that's a long story but suffice it ta say I was an orphan since before I can remember. But she's a good soul. Ran the local temple of Sarenrae an' made sure I was looked after. I miss having her council but I'm just glad she's back there safe an' sound an' far from all this evil.\"",
+    "zhCN": "“镇上那帮街坊邻居我都熟得很，那种小地方你懂的。不过要是说打心眼里挂念谁，那就是姑妈了。她虽不是我的亲姑妈，但自从……咳，说来话长，反正打我有记性起我就是个孤儿，是她把我一把拉扯大的。她是个顶好的人，操持着镇上的莎恩芮神殿，打小把我照料得周周全全。我真想念她的指引教导，不过只要她在那头平平安安的，离这堆邪门歪道远远的，我就心满意足了。”"
+  },
+  {
+    "Key": "Plot.Cowgirl.Answer.4",
+    "enGB": "What about lovers?",
+    "zhCN": "“那意中人呢？”"
+  },
+  {
+    "Key": "Plot.Cowgirl.Cue.5",
+    "enGB": "\"That's always been complicated... but the short answer is no I don't have anyone like that.\" she doesn't seem willing to elaborate any further. ",
+    "zhCN": "“这桩事儿一向复杂得很……但长话短说：没有，我没那号人。”她似乎并不打算在这个话题上多费口舌。"
+  },
+  {
+    "Key": "Plot.Cowgirl.Answer.5",
+    "enGB": "Why did you want to join the crusades?",
+    "zhCN": "“你当初为何想加入圣战军？”"
+  },
+  {
+    "Key": "Plot.Cowgirl.Cue.6",
+    "enGB": "\"The truth is I'd probably have come joined up a lot sooner but I didn't think things were as bad as they are. Ya see we hear a lotta wild stories back home. People like to exaggerate so when we heard about the worldwound most of us just assumed it was another wild tale grown outta proportion in the retelling. After all home's a long way from 'ere and we'd never met no-one who'd actually been here just people what said a friend of a friend knew someone who'd fought. But now that I'm here I can see if anything the stories were underselling just how bad things are out here. A demon lord walking through a city like he owns the place. Literal armys of da things marching around of Golarion soil. Not ta mention the corruption in the land itself. This battle needs ta be fought an' I'm happy to help anyway I can.\"",
+    "zhCN": "“实话跟您说了吧，要不是当初不知道这儿的烂摊子有多严重，我一早就赶来入伙了。您瞧，我们在老家总听见一堆离奇荒诞的传闻。说书的总爱添油加醋，所以一听说世界之伤的事儿，我们大多只当是传来传去传走样的市井怪谈。毕竟老家离这儿山高水远，大伙儿从没遇见过真来过这儿的活人，尽是些‘我朋友的朋友认得某个上过战场的兵卒’之类的嚼舌根。直到我真站在这儿才看明白，那些传言非但没夸大，反倒是把此地的惨状往轻里说了！一位恶魔领主大摇大摆地穿过城池，跟逛自家后院似的；漫山遍野真真切切的恶魔军团在格拉里昂的泥土上行军；更甭提这片大地本身受到的腐化了。这场硬仗必须得打，只要能派上用场，我乐意豁出命去帮衬。”"
+  },
+  {
+    "Key": "Plot.Cowgirl.Answer.6",
+    "enGB": "You called yourself a Shieldmarshal what does that mean?",
+    "zhCN": "“你之前自称为治安官，那代表着什么？”"
+  },
+  {
+    "Key": "Plot.Cowgirl.Cue.7",
+    "enGB": "\"Well I ain't always proud of the title.\" she fidgets with a golden badge the shape of a shield on her chest. \"It's supposed ta mean that we're the defenders of the people of the Duchy of Alkenstar. We keep the peace and protect folks from bandits and monsters and other nasty stuff that comes in off the wastes. But there's plenty of sheildmarshals who ain't so honest. Particularly in Alkenstar City there's a lotta folks on the take from corrupt politicians, rich merchants, and worse. But I signed up to help look after the town that took care o' me all my life. That's what da badge means to me.\"",
+    "zhCN": "“咳，我对这劳什子头衔倒也谈不上多光彩。”她局促地摆弄着胸前那枚盾牌形状的金色徽章，“按理说，这代表我们是阿尔肯星公国百姓的护卫者。我们弹压治安，护着乡亲们免遭土匪、恶兽，还有从废土深处溜出来的邪门玩意儿侵害。可治安官里头心术不正的腌臜货也多了去了。尤其是在阿尔肯星城，多得是收受黑钱的败类，给那些黑心政客、富商巨贾当狗，甚至还有更见不得人的勾当。但我当初接下这副担子，纯粹是为了守护那座打小养育我的小镇。于我而言，这枚徽章代表的仅仅是这个。”"
+  },
+  {
+    "Key": "Plot.Cowgirl.Answer.7",
+    "enGB": "Thanks for telling me.",
+    "zhCN": "“多谢你同我讲这些。”"
+  },
+  {
+    "Key": "Plot.Cowgirl.Cue.8",
+    "enGB": "\"No problem.\"",
+    "zhCN": "“小事一桩。”"
+  },
+  {
+    "Key": "Plot.Cowgirl.Answer.8",
+    "enGB": "Chasing a criminal all the way around the world must have taken a lot of dedication. What made it worth coming all this way on your own?",
+    "zhCN": "“为了缉拿一个罪犯而一路追遍大半个世界，想必需要极大的毅力。究竟是什么让你觉得单枪匹马跋涉至此是值得的？”"
+  },
+  {
+    "Key": "Plot.Cowgirl.Cue.9",
+    "enGB": "\"You say what he did ta those people back there. He's a true monster and he needs to be stopped. I've seen him do all kinds of other unspeakable things and I've been trying ta take him down for years. When I heard he'd left to 'ead for this place I knew I coudln't just sit back and 'ope someone else'd deal with him. I'm the one who knows 'im and I'm gonna stop 'im before he if it's the last thing I do.\"",
+    "zhCN": "“您方才在后头亲眼瞧见了他对那些百姓犯下的暴行。那是个不折不扣的畜生怪物，必须被绳之以法。我亲眼见识过他犯下的各式各样惨绝人寰的恶行，追捕他已经追了整整好些年。一听说他动身往这儿逃，我就明白自己绝不能干坐着指望旁人替天行道。我是最清楚他底细的人，哪怕拼上这条老命，我也要亲手拦下他。”"
+  },
+  {
+    "Key": "Plot.Cowgirl.Cue.10",
+    "enGB": "Her anger is more than just that of an officer and a criminal. Its more than just the abstract crimes or evils he's done. This feud is personal.",
+    "zhCN": "她的怒火远非执法官对罪犯那般简单，亦非出于对抽象罪行或邪恶的义愤——这场恩怨带有极其深刻的私人色彩。"
+  },
+  {
+    "Key": "Plot.Cowgirl.Cue.11",
+    "enGB": "There's a rage behind her eyes but perhaps it's nothing more than the fury of one whose seen a monster get away with terrible things.",
+    "zhCN": "她的眸中燃烧着怒火，但这或许仅仅是一个目睹了怪物犯下滔天罪行却逍遥法外之人所宣泄的满腔愤懑。"
+  },
+  {
+    "Key": "Plot.Cowgirl.Answer.9",
+    "enGB": "There's more going on between you and the Brainweaver than your letting on.",
+    "zhCN": "“你和织脑者之间的过节，绝不止你透露的这星半点。”"
+  },
+  {
+    "Key": "Plot.Cowgirl.Cue.12",
+    "enGB": "Her face falls at the accusation \"I don't like ta talk about it, but yer right.\" her voice is grave her eyes downcast. \"I knew 'im as a kid. He was a little monster even then and I don't just mean figuratively he was born spawn of Yog-Sothoth, a product of the cult. But he was still a thinking being with a soul all his own so Aunty bleeding heart that she is took him in as well as me. Her eyes grow a little wet, her voice wavers but holds. \"No matter how hard she tried ta redeem 'im to teach him to be better and 'elp him find tha light, he never did. He ran away and went on a rampage when he was ten. She tried to find him and take him back in. Ya know to help. I don't know what he said to her but she came back a different person. It was like he cut a whole in her very heart and the scar of it's been with her every since. She's still the kindest person I know but it's like a part of her is closed off an' every time he does something foul she blames herself. She thinks if she'd just tried harder maybe he'd have turned out different.\" She looked up staring you right in the eye. \"I don't think he every wanted to be better and ya can't redeem someone by force. For everyone's sake this sorry story has ta end.\"",
+    "zhCN": "听到这番诛心之论，她的神色颓然垮了下来：“我本不愿提起这档子事，但……您说得没错。”她垂下眼帘，语调低沉悲戚，“我打小就认得他。哪怕还是个毛头孩子那会儿，他就是个小怪物了——我指的可不光是打个比方，他是狂乱教团的孽种，生来便是尤格-索托斯的眷族子嗣。可他终究是个有自主神智、有灵魂的生灵，所以姑妈——她那颗菩萨心肠您是知道的——便把他同我一块儿收养了下来。”她的眼角渐渐泛红湿润，声音止不住地颤抖，却依然强撑着说下去，“可无论姑妈当年如何竭力感化他、教导他向善、引他寻访光明，全都是徒劳一场。十岁那年，他逃出了家门，掀起了一场血腥杀戮。姑妈还试图去找他、带他回家……您懂的，她总想着去拉人一把。我不知道他究竟对姑妈说了些什么混账话，但姑妈回来时，整个人全变了样。就仿佛他在姑妈心口上硬生生剜走了一块肉，那道伤疤自此往后就没愈合过。她至今仍是我见过最善良的人，但她心底里的一方天地却彻底封闭死了；每逢那畜生在外面犯下什么伤天害理的恶行，姑妈都把罪责全揽在自己头上。她总以为，要是当年自己能再多尽几分心力，说不定他就不至于沦落成这副模样。”她猛地抬起头，目光直直对上你的双眼，“可我打心眼里明白，他从来就没想过要变好，这世上哪有按着牛头强行救赎的道理？为了所有人着想，这段荒唐造孽的惨剧必须彻底画上句号。”"
+  },
+  {
+    "Key": "Plot.Cowgirl.Answer.10",
+    "enGB": "What do you think of the crusades?",
+    "zhCN": "“你对圣战军有何看法？”"
+  },
+  {
+    "Key": "Plot.Cowgirl.Cue.13",
+    "enGB": "\"It's a good cause and a well trained army. Still most of the old Mendevian veterans a bit strict for my liking. Maybe that's what ya need to withstand fighting the Abyss so long but I think some of them see the world as all black and white and can be a bit quick ta judge folks.\"",
+    "zhCN": "“这是个顶崇高的义举，手底下的兵也训练有素。不过蒙蒂维那些老资历的军伍前辈，行事作风对我来说未免死板了些。兴许在跟深渊死磕了这般年头后，非得这副铁板一块的硬脾气才能撑得住，但我总觉得他们里头有些人把这世道看得太非黑即白，给旁人定罪下断言也未免太急躁了些。”"
+  },
+  {
+    "Key": "Plot.Cowgirl.Answer.11",
+    "enGB": "How are the Brainweaver's victim's doing?",
+    "zhCN": "“织脑者的那些受害者眼下情况如何？”"
+  },
+  {
+    "Key": "Plot.Cowgirl.Cue.14",
+    "enGB": "\"They're better thanks ta you. Yer clerics are 'opeful they'll find a way to get their mind back at least and maybe restore at least some o' there bodies back ta normal.\"",
+    "zhCN": "“托您的福，他们的情况见好了。您的牧师们很有信心，觉得至少能帮他们找回神智，说不定还能让肉体的某些异化恢复如初呢。”"
+  },
+  {
+    "Key": "Plot.Cowgirl.Cue.15",
+    "enGB": "\"There's alive at least,\" she gives a grim smile \"Yer clerics are looking after 'em but it don't look good. It was hard enough just getten 'em here let alone having them stay calm enough ta try and treat em.\"",
+    "zhCN": "“好歹还吊着一口气，”她露出一抹苦涩的微笑，“您的牧师正在照看他们，但瞧着不太乐观。光是把他们弄到这儿来就够费劲了，更别提让他们安生下来配合诊治了。”"
+  },
+  {
+    "Key": "Plot.Cowgirl.Answer.12",
+    "enGB": "There's something off about you. What exactly are you?",
+    "zhCN": "“你身上透着某种古怪。你到底是什么底细？”"
+  },
+  {
+    "Key": "Plot.Cowgirl.Cue.16",
+    "enGB": "\"I grew up in the spellscar desert surrounded by all sorts of errant magic and have spent years chasing down the 'ead of a cult of Yog Sothoth. That kinda stuff would leave a mark on anyone.\"",
+    "zhCN": "“我打小在法痕荒漠长大，成天被各式各样的紊乱异变魔法包围着，后来又花了这么些年去追捕尤格-索托斯邪教团的头子。换作是谁经历这些，身上都难免会留下点烙印。”"
+  },
+  {
+    "Key": "Plot.Cowgirl.Cue.17",
+    "enGB": "It's not a lie but she is keeping something back.",
+    "zhCN": "这并非虚言，但她显然有所隐瞒。"
+  },
+  {
+    "Key": "Plot.Cowgirl.Answer.13",
+    "enGB": "Any thoughts on my mythic powers?",
+    "zhCN": "“关于我的神话之力，你怎么看？”"
+  },
+  {
+    "Key": "Plot.Cowgirl.Cue.19",
+    "enGB": "\"Well I reckon it ain't right ta judge someone based on what kinda powers they have but on what they do with 'em.\"",
+    "zhCN": "“咳，我琢磨着评价一个人，可不能看他手头握着啥样的本事，得看他拿这些本事去干啥事。”"
+  },
+  {
+    "Key": "Plot.Cowgirl.Cue.20",
+    "enGB": "\"In this case your powers seem to match your nature. The light inside ya shines out on those around you and you use it to help and protect others. So wherever these powers came from I for one don't have a problem with 'em\"",
+    "zhCN": "“就拿您来说，您的力量倒是很衬您的秉性。您心底里的光辉普照着身旁的每一个人，而您也正用它去扶危济困、守护苍生。所以不管这力量打哪儿来，反正我是没半点意见。”"
+  },
+  {
+    "Key": "Plot.Cowgirl.Cue.21",
+    "enGB": "\"I can see the light you shine out on everyone around ya but having that light don't make ya a saint. Yer a person just like that rest of us and I 'ope you remember that cause a lot of folks'll treat ya like yer a something else cause of these powers. Don't let it go to yer head.\"",
+    "zhCN": "“我瞧得出您照耀在周遭众人身上的光芒，但身怀这般圣光并不意味着您就是毫无瑕疵的圣人。您同咱们大伙儿一样都是凡夫俗子，我希望您能牢记这点——毕竟就因为这身本事，不少人可会把您奉若神明。可别让虚名冲昏了头脑。”"
+  },
+  {
+    "Key": "Plot.Cowgirl.Cue.22",
+    "enGB": "\"I can see the light you shine out on everyone around ya but having that light don't make ya a saint. With power that looks like yours you can get away with all sorts of things because folk'll only be looking at the surface. I pray Sarenrae will show you the path to be worthy of the light you've been given.\"",
+    "zhCN": "“我瞧得出您照耀在周遭众人身上的光芒，但身怀这般圣光并不意味着您就是毫无瑕疵的圣人。顶着您这般耀眼夺目的力量，您大可以为所欲为，因为世人只顾得看光鲜亮丽的表象。我向莎恩芮祈求，愿她指引您走上一条配得上赐予您的这身圣光的道途。”"
+  },
+  {
+    "Key": "Plot.Cowgirl.Cue.23",
+    "enGB": "\"Yer powers have set ya up as judge jury and often times executioner. I'm just glad it ain't gone to yer head and that you remember that not everything\"s a simple right or wrong.\"",
+    "zhCN": "“您的力量让您成了法官、陪审团，而且往往还是行刑人。好在您没被冲昏头脑，还记得这世上的事并非非黑即白那么简单，对此我打心眼里欣慰。”"
+  },
+  {
+    "Key": "Plot.Cowgirl.Cue.24",
+    "enGB": "\"Yer powers have set ya up as judge jury and often times executioner. That's a lot of power for one person ta have. I see you try and remain impartial but sometimes true justice is more complex than that. A system needs to be flexible enough to allow folks a chance for redemption.\"",
+    "zhCN": "“您的力量让您成了法官、陪审团，而且往往还是行刑人。对单单一个人而言，这担子实在太沉了。我看得出您在竭力秉公持平，但有时候真正的正义可比这复杂得多。一套法度总得留有余地，给迷途之人一个救赎改过的机会。”"
+  },
+  {
+    "Key": "Plot.Cowgirl.Cue.25",
+    "enGB": "\"Yer powers have set ya up as judge jury and often times executioner. And that's too much power for one person ta have. I can understand that dealing with a crisis like this sometimes calls for harsher methods but I reckon you've gone too far. Just because someone has broken the law don't mean there's no hope for 'em. I pray you'll learn this.\"",
+    "zhCN": "“您的力量让您成了法官、陪审团，而且往往还是行刑人。对单单一个人而言，这权力实在太过了。我能体谅应付眼下这般滔天祸患免不了要下猛药，但我琢磨着您未免走得太偏了些。不能因为有人犯了法度，就断定他们彻底无药可救。我祈祷您能参透这个理儿。”"
+  },
+  {
+    "Key": "Plot.Cowgirl.Cue.26",
+    "enGB": "\"Yer powers seem ta fray reality at the edges but that ain't yer fault. You pull a lot of crazy stuff but yer hearts in the right place. I just hope yer powers don't run away with you some day.\"",
+    "zhCN": "“您的力量仿佛在撕扯着现实的边缘，不过那怪不着您。您办的事虽说出格癫狂，但心眼总归是好的。我只希望有朝一日，您的这身力量不至于反客为主、脱缰失控。”"
+  },
+  {
+    "Key": "Plot.Cowgirl.Cue.27",
+    "enGB": "\"Still sometimes I wonder if even you can control what's happening around ya. You break a lot a rules and bend even more which given the stakes I can understand just be careful you don't break something important.\"",
+    "zhCN": "“不过有时候我甚至怀疑，就连您自个儿究竟能不能把控周遭发生的异变。您打破的规矩有一箩筐，打擦边球的就更数不清了——念在局势凶险的份上我也能体谅，可千万留神别把什么紧要的大事给砸烂了。”"
+  },
+  {
+    "Key": "Plot.Cowgirl.Cue.28",
+    "enGB": "\"Even so I worry about you sometimes. Yer powers are just so wild and out of control and you don't seem worried about the harm you do along the way. All I ask is that you be careful. It may seem like a lot of fun at the time but there are a lotta people who depend on you that ya might hurt if you keep carrying on like this.\"",
+    "zhCN": "“即便如此，我有时还是替您捏把汗。您的力量实在过于狂暴失控，而您似乎压根不在乎顺带造成的祸患。我只求您多留个心眼。眼下胡闹看着兴许挺痛快，可指望您的人多了去了，要是再由着性子这么折腾下去，迟早会伤及无辜。”"
+  },
+  {
+    "Key": "Plot.Cowgirl.Cue.29",
+    "enGB": "\"I know a lot of folks judge you for how these powers have manifested in ya but I won't. Your heart is good. Even if its been touched by the magic of the Abyss it ain't been conquered. Stay true to who you are and you'll be a real hero no matter what ya look like.\"",
+    "zhCN": "“我知道很多人因为这股力量在您身上的显现形式而对您说三道四，但我不会。您的心肠是纯善的。哪怕沾染了深渊的魔性，您的神魂也并未被其所俘虏。坚守自己的本心，无论这副皮囊变成何种模样，您都是当之无愧的英雄。”"
+  },
+  {
+    "Key": "Plot.Cowgirl.Cue.30",
+    "enGB": "\"I know a lot of folks judge you for how these powers have manifested but I won't. You've been touched by the Abyss but you've not let it consume you. Remember that you are not yer powers and you can decide to be better even if all the world prejudges ya. An' I'll be here if ya need me.\"",
+    "zhCN": "“我知道很多人因为这股力量的显现而对您指指点点，但我不会。深渊侵蚀了您，但您并未任由它将您吞噬。请牢记，力量并不代表您本身，即便全世界都对您心存偏见，您依然有权抉择做一个向善之人。只要您用得上，我随时听候差遣。”"
+  },
+  {
+    "Key": "Plot.Cowgirl.Cue.31",
+    "enGB": "\"I worry about ya. The Abyss has it's hook in you and you don't seem inclined ta fight it. You don't have ta be this way you can be better than people expect. Don't let these place claim yer soul too.\"",
+    "zhCN": "“我很为您悬心。深渊的毒钩已经深嵌进您的骨髓，而您看起来根本没有抗拒的心思。您犯不上非走这条路不可，您本可以活得超出世人的预期。别让这鬼地方把您的灵魂也一并夺了去。”"
+  },
+  {
+    "Key": "Plot.Cowgirl.Cue.32",
+    "enGB": "\"I know Sarenrae tends to make an exception when it comes to the undead but in this case I won't blame ya. Just be careful. Undeath can rob you of so much of what makes you who ya are. Be careful you don't give up something ya can't get back.\"",
+    "zhCN": "“我知道莎恩芮的教义在对待亡灵时往往不留情面，但眼下这种情况，我不会怪罪于您。只是千万要当心。沦为亡灵会剥夺掉太多使您成其为您的珍贵之物。千万留神，别丢掉了那些一旦失去就再也找不回来的东西。”"
+  },
+  {
+    "Key": "Plot.Cowgirl.Cue.33",
+    "enGB": "\"I know Sarenrae tends to make an exception when it comes to the undead but I won't try and smite ya if that's what yer worried about. Just be careful undeath can rob you of so much of what make you who you are. Be careful you don't give up something ya can't get back.\"",
+    "zhCN": "“我知道莎恩芮的教义在对待亡灵时往往不留情面，但要是您担心我会拔枪讨伐，那大可不必。只是千万要当心，沦为亡灵会剥夺掉太多使您成其为您的珍贵之物。千万留神，别丢掉了那些一旦失去就再也找不回来的东西。”"
+  },
+  {
+    "Key": "Plot.Cowgirl.Cue.34",
+    "enGB": "\"I know Sarenrae tends to make an exception when it comes to the undead but I won't try and smite ya if that's what yer worried about. Still I won't be able ta stand by and watch if you keep down this road. From all I've seen the crusades need ya so I won't fight ya but if you don't turn back it'll only be a matter of time 'fore I can't stay 'ere any more.\"",
+    "zhCN": "“我知道莎恩芮的教义在对待亡灵时向来不留情面，但要是您担心我会拔枪讨伐，那大可不必。可要是您执意在这条绝路上走到黑，我可没法在一旁干瞪眼看着。依我所见，圣战军眼下还离不开您，所以我不会与您刀兵相向；但要是您再不悬崖勒马，我在这儿待不下去也是迟早的事了。”"
+  },
+  {
+    "Key": "Plot.Cowgirl.Answer.14",
+    "enGB": "I have to go",
+    "zhCN": "“我得动身了。”"
+  },
+  {
+    "Key": "Plot.Cowgirl.Cue.35",
+    "enGB": "\"Nice chattin' to ya'\"",
+    "zhCN": "“跟您聊得挺痛快。”"
+  },
+  {
+    "Key": "Deeds.QuickClear.Name",
+    "enGB": "Quick Clear",
+    "zhCN": "快速清膛"
+  },
+  {
+    "Key": "Deeds.QuickClear.Description",
+    "enGB": "At 1st level, as a standard action, the gunslinger can remove the broken condition from a single firearm she is currently wielding, as long as that condition was gained by a firearm misfire. The gunslinger must have at least 1 grit point to perform this deed. Alternatively, if the gunslinger spends 1 grit point to perform this deed, she can perform quick clear as a move-equivalent action instead of a standard action.",
+    "zhCN": "1级时，铳士可以用一个标准动作移除她当前持用的一把火器上的破损状态，只要该破损状态是由火器哑火造成的。铳士必须拥有至少1点勇毅值才能执行此炫技。或者，如果铳士花费1点勇毅值执行此炫技，她可以用一个移动等效动作而非标准动作执行快速清膛。"
+  },
+  {
+    "Key": "Deeds.QuickClear.Standard.Name",
+    "enGB": "Quick Clear (Standard)",
+    "zhCN": "快速清膛（标准动作）"
+  },
+  {
+    "Key": "Deeds.QuickClear.Standard.Description",
+    "enGB": "As a standard action, the gunslinger can remove the broken condition from a single firearm she is currently wielding. The gunslinger must have at least 1 grit point to perform this deed. ",
+    "zhCN": "以标准动作，铳士可以移除她当前所持一把火器上的破损状态。执行此炫技铳士必须拥有至少1点勇毅值。"
+  },
+  {
+    "Key": "Deeds.QuickClear.Move.Name",
+    "enGB": "Quick Clear (Move)",
+    "zhCN": "快速清膛（移动动作）"
+  },
+  {
+    "Key": "Deeds.QuickClear.Move.Description",
+    "enGB": "The gunslinger can remove the broken condition from a single firearm she is currently wielding as a move action if she spends 1 grit point.",
+    "zhCN": "花费1点勇毅值，铳士可以以一个移动动作移除她当前所持一把火器上的破损状态。"
+  },
+  {
+    "Key": "Deeds.SlingerInitiative.Name",
+    "enGB": "Gunslinger Initiative",
+    "zhCN": "把握主动"
+  },
+  {
+    "Key": "Deeds.SlingerInitiative.Description",
+    "enGB": "At 3rd level, as long as the gunslinger has at least 1 grit point, she gains a +2 bonus on initiative checks.",
+    "zhCN": "3级时，只要铳士拥有至少1点勇毅值，她在先攻检定上获得+2加值。"
+  },
+  {
+    "Key": "Deeds.Targeting.Name",
+    "enGB": "Targeting",
+    "zhCN": "精确瞄准"
+  },
+  {
+    "Key": "Deeds.Targeting.Description",
+    "enGB": "At 7th level, as a full-round action, the gunslinger can make a single firearm attack and choose part of the body to target. She gains the following effects depending on the part of the body targeted. This deed costs 1 grit point to perform no matter which part of the creature she targets.\r\n\r\n    Arms: On a hit, the target takes no damage from the hit but is disarmed.\r\n    Head: On a hit, the target is damaged normally, and is also confused for 1 round. This is a mind-affecting effect.\r\n    Legs: On a hit, the target is damaged normally and knocked prone.\r\n",
+    "zhCN": "7级时，以整轮动作，铳士可以进行一次火器攻击并选择目标身体的某个部位。根据目标部位获得以下效果。无论瞄准哪个部位，执行此炫技都需花费1点勇毅值。\r\n\r\n 手臂：命中时，目标不受此次攻击的伤害，但被缴械。\r\n 头部：命中时，目标正常承受伤害，并困惑1轮。此为影响心灵效果。\r\n 腿部：命中时，目标正常承受伤害并被击倒。\r\n"
+  },
+  {
+    "Key": "Deeds.Targeting.Head.Name",
+    "enGB": "Targeting (Headshot)",
+    "zhCN": "精确瞄准（头部）"
+  },
+  {
+    "Key": "Deeds.Targeting.Head.Description",
+    "enGB": "On a hit, the target is damaged normally, and is also confused for 1 round. This is a mind-affecting effect.",
+    "zhCN": "命中时，目标正常承受伤害，并困惑1轮。此为影响心灵效果。"
+  },
+  {
+    "Key": "Deeds.Targeting.Arms.Name",
+    "enGB": "Targeting (Arms)",
+    "zhCN": "精确瞄准（手臂）"
+  },
+  {
+    "Key": "Deeds.Targeting.Arms.Description",
+    "enGB": "On a hit, the target takes no damage from the hit but is disarmed for 1 round plus 1 additional round for each 5 by which the hit roll exceeds their AC.",
+    "zhCN": "命中时，目标不受此次攻击的伤害，但被缴械1轮，并且攻击检定每超过其AC 5点，额外增加1轮。"
+  },
+  {
+    "Key": "Deeds.Targeting.Legs.Name",
+    "enGB": "Targeting (Legs)",
+    "zhCN": "精确瞄准（腿部）"
+  },
+  {
+    "Key": "Deeds.Targeting.Legs.Description",
+    "enGB": "Legs: On a hit, the target is damaged normally and knocked prone.",
+    "zhCN": "腿部：命中时，目标正常承受伤害并被击倒。"
+  },
+  {
+    "Key": "Deeds.BleedingShot.Standard.Name",
+    "enGB": "Bleeding Shot",
+    "zhCN": "出血射击"
+  },
+  {
+    "Key": "Deeds.BleedingShot.Standard.Description",
+    "enGB": "At 11th level, when the gunslinger hits a living creature with a firearm attack, she can spend 1 grit point as a free action to have that attack deal extra bleed damage. The amount of bleed damage is equal to the gunslinger's Dexterity modifier.",
+    "zhCN": "11级时，当铳士以火器攻击命中一个活物时，她可以用自由动作花费1点勇毅值，使该次攻击造成额外出血伤害。出血伤害值等于铳士的敏捷调整值。"
+  },
+  {
+    "Key": "Deeds.BleedingShot.Strength.Name",
+    "enGB": "Bleeding Shot (Strength)",
+    "zhCN": "出血射击（力量）"
+  },
+  {
+    "Key": "Deeds.BleedingShot.Strength.Description",
+    "enGB": "At 11th level, when the gunslinger hits a living creature with a firearm attack, she can spend 2 grit points as a free action to have that attack deal 1 point of Strength bleed damage.",
+    "zhCN": "11级时，当铳士以火器攻击命中一个活物时，她可以用自由动作花费2点勇毅值，使该次攻击造成1点力量出血伤害。"
+  },
+  {
+    "Key": "Deeds.BleedingShot.Constitution.Name",
+    "enGB": "Bleeding Shot (Constitution)",
+    "zhCN": "出血射击（体质）"
+  },
+  {
+    "Key": "Deeds.BleedingShot.Constitution.Description",
+    "enGB": "At 11th level, when the gunslinger hits a living creature with a firearm attack, she can spend 2 grit points as a free action to have that attack deal 1 point of Constitution bleed damage.",
+    "zhCN": "11级时，当铳士以火器攻击命中一个活物时，她可以用自由动作花费2点勇毅值，使该次攻击造成1点体质出血伤害。"
+  },
+  {
+    "Key": "Deeds.BleedingShot.Dexterity.Name",
+    "enGB": "Bleeding Shot (Dexterity)",
+    "zhCN": "出血射击（敏捷）"
+  },
+  {
+    "Key": "Deeds.BleedingShot.Dexterity.Description",
+    "enGB": "At 11th level, when the gunslinger hits a living creature with a firearm attack, she can spend 2 grit points as a free action to have that attack deal 1 point of Dexterity bleed damage.",
+    "zhCN": "11级时，当铳士以火器攻击命中一个活物时，她可以用自由动作花费2点勇毅值，使该次攻击造成1点敏捷出血伤害。"
+  },
+  {
+    "Key": "Deeds.BleedingShot.Description",
+    "enGB": "At 11th level, when the gunslinger hits a living creature with a firearm attack, she can spend 1 grit point as a free action to have that attack deal extra bleed damage. The amount of bleed damage is equal to the gunslinger's Dexterity modifier. Alternatively, the gunslinger can spend 2 grit points to deal 1 point of Strength, Dexterity, or Constitution bleed damage (gunslinger's choice) instead.",
+    "zhCN": "11级时，当铳士以火器攻击命中一个活物时，她可以用自由动作花费1点勇毅值，使该次攻击造成额外出血伤害。出血伤害量等于铳士的敏捷调整值。或者，铳士可以花费2点勇毅值，改为造成1点力量、敏捷或体质出血伤害（由铳士选择）。"
+  },
+  {
+    "Key": "Bleed.Standard.Name",
+    "enGB": "Bleed",
+    "zhCN": "出血"
+  },
+  {
+    "Key": "Bleed.Standard.Description",
+    "enGB": "This creature takes {g|Encyclopedia:HP}hit point{/g} {g|Encyclopedia:Damage}damage{/g} each turn equal to the dexterity modifier of the gunslinger who wounded them. Bleeding can be stopped through the application of any effect that {g|Encyclopedia:Healing}cures{/g} hit point damage (even if the bleed is {g|Encyclopedia:AbilityDamage}ability damage{/g}).",
+    "zhCN": "该生物每回合承受{g|Encyclopedia:HP}生命值{/g}{g|Encyclopedia:Damage}伤害{/g}，数值等于造成此伤的铳士的敏捷调整值。出血可通过任何能{g|Encyclopedia:Healing}治愈{/g}生命值伤害的效果来止住（即使出血是{g|Encyclopedia:AbilityDamage}属性伤害{/g}）。"
+  },
+  {
+    "Key": "Bleed.Strength.Name",
+    "enGB": "Strength Bleed",
+    "zhCN": "力量出血"
+  },
+  {
+    "Key": "Bleed.Strength.Description",
+    "enGB": "This creature takes strength damage each turn equal to the dexterity modifier of the gunslinger who wounded them. Bleeding can be stopped through the application of any effect that {g|Encyclopedia:Healing}cures{/g} hit point damage (even if the bleed is {g|Encyclopedia:AbilityDamage}ability damage{/g}).",
+    "zhCN": "该生物每回合承受力量伤害，数值等于造成此伤的铳士的敏捷调整值。出血可通过任何能{g|Encyclopedia:Healing}治愈{/g}生命值伤害的效果来止住（即使出血是{g|Encyclopedia:AbilityDamage}属性伤害{/g}）。"
+  },
+  {
+    "Key": "Bleed.Constitution.Name",
+    "enGB": "Constitution Bleed",
+    "zhCN": "体质出血"
+  },
+  {
+    "Key": "Bleed.Constitution.Description",
+    "enGB": "This creature takes constitution damage each turn equal to the dexterity modifier of the gunslinger who wounded them. Bleeding can be stopped through the application of any effect that {g|Encyclopedia:Healing}cures{/g} hit point damage (even if the bleed is {g|Encyclopedia:AbilityDamage}ability damage{/g}).",
+    "zhCN": "该生物每回合承受体质伤害，数值等于造成此伤的铳士的敏捷调整值。出血可通过任何能{g|Encyclopedia:Healing}治愈{/g}生命值伤害的效果来止住（即使出血是{g|Encyclopedia:AbilityDamage}属性伤害{/g}）。"
+  },
+  {
+    "Key": "Bleed.Dexterity.Name",
+    "enGB": "Dexterity Bleed",
+    "zhCN": "敏捷出血"
+  },
+  {
+    "Key": "Bleed.Dexterity.Description",
+    "enGB": "This creature takes Dexterity damage each turn equal to the dexterity modifier of the gunslinger who wounded them. Bleeding can be stopped through the application of any effect that {g|Encyclopedia:Healing}cures{/g} hit point damage (even if the bleed is {g|Encyclopedia:AbilityDamage}ability damage{/g}).",
+    "zhCN": "该生物每回合承受敏捷伤害，数值等于造成此伤的铳士的敏捷调整值。出血可通过任何能{g|Encyclopedia:Healing}治愈{/g}生命值伤害的效果来止住（即使出血是{g|Encyclopedia:AbilityDamage}属性伤害{/g}）。"
+  },
+  {
+    "Key": "Deeds.Evasive.Name",
+    "enGB": "Gunslinger's Evasion",
+    "zhCN": "铳士闪避"
+  },
+  {
+    "Key": "Deeds.Evasive.Description",
+    "enGB": "At 15th level, when the gunslinger has at least 1 grit point, she gains the benefit of the evasion, uncanny dodge, and improved uncanny dodge rogue class features. She uses her gunslinger level as her rogue level for improved uncanny dodge. ",
+    "zhCN": "15级时，当铳士拥有至少1点勇毅值，她获得游荡者职业特性的反射闪避、直觉闪避和精通直觉闪避的好处。她以铳士等级作为游荡者等级来决定精通直觉闪避。"
+  },
+  {
+    "Key": "Deeds.StunningShot.Name",
+    "enGB": "Stunning Shot",
+    "zhCN": "震慑射击"
+  },
+  {
+    "Key": "Deeds.StunningShot.Description",
+    "enGB": "At 19th level, when a gunslinger hits a creature, she can spend 2 grit points to stun the creature for 1 round. The creature must make a Fortitude saving throw (the DC = 10 + 1/2 the gunslinger's level + the gunslinger's Wisdom modifier). If the creature fails, it is stunned for 1 round.",
+    "zhCN": "19级时，当铳士命中一个生物，她可以花费2点勇毅值使该生物震慑1轮。该生物必须进行强韧豁免（DC = 10 + 1/2铳士等级 + 铳士的感知调整值）。若失败，则震慑1轮。"
+  },
+  {
+    "Key": "Feats.FirearmProficiency.Name",
+    "enGB": "Weapon Proficiency (firearms)",
+    "zhCN": "武器擅长（火器）"
+  },
+  {
+    "Key": "Feats.FirearmProficiency.Description",
+    "enGB": "The Weapon Proficiency (firearms) feat allows you to use all firearms without penalty.",
+    "zhCN": "武器擅长（火器）专长让你可以无惩罚地使用所有火器。"
+  },
+  {
+    "Key": "Feats.RapidReload.Name",
+    "enGB": "Rapid Reload",
+    "zhCN": "快速装填"
+  },
+  {
+    "Key": "Feats.RapidReload.Description",
+    "enGB": "The time required for you to reload a firearm is reduced to a move action (for a one-handed firearm), or a standard action (two-handed firearm). Reloading a firearm still provokes attacks of opportunity.\r\n\r\nIf you have this feat you may fire an advanced firearm as a full-attack action.",
+    "zhCN": "你装填火器所需的时间降低为移动动作（对于单手火器）或标准动作（双手火器）。装填火器仍会引发借机攻击。\r\n\r\n如果你拥有此专长，则可以在使用先进火器时进行整轮攻击。"
+  },
+  {
+    "Key": "Feats.AmateurGunslinger.Name",
+    "enGB": "Amateur Gunslinger",
+    "zhCN": "业余铳士"
+  },
+  {
+    "Key": "Feats.AmateurGunslinger.Description",
+    "enGB": "You gain grit and the ability to perform the quick clear deed from the gunslinger class. At the start of the day, you gain grit equal to your Wisdom modifier (minimum 1) You can regain grit using the rules for the gunslinger�s grit class feature.",
+    "zhCN": "你获得铳士职业的勇毅以及执行快速清膛炫技的能力。每天开始时，你获得等于你感知调整值（最低1点）的勇毅值。你可以按照铳士的勇毅职业特性规则来回复勇毅值。"
+  },
+  {
+    "Key": "Feats.AmateurGunslinger.Drifter.Description",
+    "enGB": "You gain grit and the ability to perform the quick clear deed from the gunslinger class. At the start of the day, you gain grit equal to your Charisma modifier (minimum 1) You can regain grit using the rules for the gunslinger�s grit class feature.",
+    "zhCN": "你获得铳士职业的勇毅以及执行快速清膛炫技的能力。每天开始时，你获得等于你魅力调整值（最低1点）的勇毅值。你可以按照铳士的勇毅职业特性规则来回复勇毅值。"
+  },
+  {
+    "Key": "Feats.AmateurGunslinger.Description.Short",
+    "enGB": "You gain grit and the ability to perform the quick clear deed from the gunslinger class.",
+    "zhCN": "你获得铳士职业的勇毅以及执行快速清膛炫技的能力。"
+  },
+  {
+    "Key": "Feats.BlowoutShot.Name",
+    "enGB": "Blowout Shot",
+    "zhCN": "爆风射击"
+  },
+  {
+    "Key": "Feats.BlowoutShot.Description",
+    "enGB": "Benefit: Spend 1 grit point to retrieve a specially prepared dose of black powder from your person. The next time you use the firearm you've loaded with this special black powder, the concussive blast knocks you back 5 feet from the direction at which you were aiming. If there is no available space behind you, you brace yourself against the obstacle and do not move from your square. Any creatures struck by this attack take damage as normal and must succeed at a Reflex save (DC = 10 + 1/2 your gunslinger level + your Int modifier) or be pushed back 10 feet",
+    "zhCN": "效果：花费1点勇毅值，从身上取出一份特制的黑火药。下次你使用装填了这种特制黑火药的火器射击时，震荡的冲击波会将你朝瞄准方向的反方向击退5尺。若你身后没有可用空间，你将倚靠在障碍物上并不离开所在方格。任何被此次攻击命中的生物正常承受伤害，且必须通过反射豁免（DC = 10 + 1/2你的铳士等级 + 你的智力调整值），否则被击退10尺。"
+  },
+  {
+    "Key": "Feats.DragonShot.Acid.Name",
+    "enGB": "Dragon Shot (Acid)",
+    "zhCN": "龙息射击（强酸）"
+  },
+  {
+    "Key": "Feats.DragonShot.Fire.Name",
+    "enGB": "Dragon Shot (Fire)",
+    "zhCN": "龙息射击（火焰）"
+  },
+  {
+    "Key": "Feats.DragonShot.Electricity.Name",
+    "enGB": "Dragon Shot (Electricity)",
+    "zhCN": "龙息射击（电击）"
+  },
+  {
+    "Key": "Feats.DragonShot.Cold.Name",
+    "enGB": "Dragon Shot (Cold)",
+    "zhCN": "龙息射击（寒冷）"
+  },
+  {
+    "Key": "Feats.DragonShot.Name",
+    "enGB": "Dragon Shot",
+    "zhCN": "龙息射击"
+  },
+  {
+    "Key": "Feats.DragonShot.Description",
+    "enGB": "Benefit: As a swift action, you can spend 1 grit point to convert your gun's damage into acid, fire, electricity, or cold damage for 1 round. You can choose a different damage type each time you use this ability. This still counts as a ranged weapon attack for critical hit multipliers and abilities such as Deadly Aim.",
+    "zhCN": "效果：以一个迅捷动作，你可以花费1点勇毅值，将火器的伤害类型转化为强酸、火焰、电击或寒冷伤害，持续1轮。每次使用此能力时你可以选择不同的伤害类型。在计算重击倍率以及致命瞄准等能力时，该攻击仍视为远程武器攻击。"
+  },
+  {
+    "Key": "Feats.ExtraGrit.Name",
+    "enGB": "Extra Grit",
+    "zhCN": "额外勇毅"
+  },
+  {
+    "Key": "Feats.ExtraGrit.Description",
+    "enGB": "Benefit: You gain 2 extra grit points at the start of each day, and your maximum grit increases by 2. This {g|Encyclopedia:Feat}feat{/g} can be taken multiple times. Its effects stack.",
+    "zhCN": "效果：每天开始时，你额外获得2点勇毅值，且你的勇毅值上限提升2点。此{g|Encyclopedia:Feat}专长{/g}可多次选取，其效果叠加。"
+  },
+  {
+    "Key": "Feats.WeaponFocus.Musket.Name",
+    "enGB": "Weapon Focus (Musket)",
+    "zhCN": "武器专攻（滑膛枪）"
+  },
+  {
+    "Key": "Feats.WeaponFocus.Musket.Description",
+    "enGB": "You gain a +1 {g|Encyclopedia:Bonus}bonus{/g} on all {g|Encyclopedia:Attack}attack rolls{/g} you make using muskets.",
+    "zhCN": "你使用滑膛枪进行的所有{g|Encyclopedia:Attack}攻击检定{/g}获得+1{g|Encyclopedia:Bonus}加值{/g}。"
+  },
+  {
+    "Key": "Feats.WeaponFocus.Greater.Musket.Name",
+    "enGB": "Greater Weapon Focus (Musket)",
+    "zhCN": "高等武器专攻（滑膛枪）"
+  },
+  {
+    "Key": "Feats.WeaponFocus.Greater.Musket.Description",
+    "enGB": "You gain a +1 {g|Encyclopedia:Bonus}bonus{/g} on all {g|Encyclopedia:Attack}attack rolls{/g} you make using muskets.",
+    "zhCN": "你使用滑膛枪进行的所有{g|Encyclopedia:Attack}攻击检定{/g}获得+1{g|Encyclopedia:Bonus}加值{/g}。"
+  },
+  {
+    "Key": "Feats.WeaponSpecialization.Musket.Name",
+    "enGB": "Weapon Specialization (Musket)",
+    "zhCN": "武器专精（滑膛枪）"
+  },
+  {
+    "Key": "Feats.WeaponSpecialization.Musket.Description",
+    "enGB": "You gain a +2 {g|Encyclopedia:Bonus}bonus{/g} on all {g|Encyclopedia:Damage}damage rolls{/g} you make using muskets.",
+    "zhCN": "你使用滑膛枪进行的所有{g|Encyclopedia:Damage}伤害检定{/g}获得+2{g|Encyclopedia:Bonus}加值{/g}。"
+  },
+  {
+    "Key": "Feats.WeaponSpecialization.Greater.Musket.Name",
+    "enGB": "Greater Weapon Specialization (Musket)",
+    "zhCN": "高等武器专精（滑膛枪）"
+  },
+  {
+    "Key": "Feats.WeaponSpecialization.Greater.Musket.Description",
+    "enGB": "You gain a +2 {g|Encyclopedia:Bonus}bonus{/g} on all {g|Encyclopedia:Damage}damage rolls{/g} you make using muskets.",
+    "zhCN": "你使用滑膛枪进行的所有{g|Encyclopedia:Damage}伤害检定{/g}获得+2{g|Encyclopedia:Bonus}加值{/g}。"
+  },
+  {
+    "Key": "Feats.ImprovedCritical.Musket.Description",
+    "enGB": "When using the weapon you selected, your {g|Encyclopedia:Critical}threat range{/g} is doubled.",
+    "zhCN": "使用所选武器时，你的{g|Encyclopedia:Critical}重击威胁范围{/g}翻倍。"
+  },
+  {
+    "Key": "Feats.ImprovedCritical.Musket.Name",
+    "enGB": "Improved Critical (Musket)",
+    "zhCN": "精通重击（滑膛枪）"
+  },
+  {
+    "Key": "Feats.WeaponFocus.Mythic.Musket.Description",
+    "enGB": "You're a mythical master of your chosen weapon./nBenefit: Double the {g|Encyclopedia:Bonus}bonuses{/g} on your {g|Encyclopedia:Attack}attack rolls{/g} from Weapon Focus and Greater Weapon Focus.",
+    "zhCN": "你对所选武器的掌握已达超凡神话之境。/n效果：使武器专攻与高等武器专攻为你提供的{g|Encyclopedia:Attack}攻击检定{/g}{g|Encyclopedia:Bonus}加值{/g}翻倍。"
+  },
+  {
+    "Key": "Feats.WeaponFocus.Mythic.Musket.Name",
+    "enGB": "Weapon Focus Mythic (Musket)",
+    "zhCN": "神话武器专攻（滑膛枪）"
+  },
+  {
+    "Key": "Feats.WeaponSpecialization.Mythic.Musket.Description",
+    "enGB": "The {g|Encyclopedia:Damage}damage{/g} you deal with your chosen weapon is truly awesome to behold./nBenefit: When using your chosen weapon, you gain a {g|Encyclopedia:Bonus}bonus{/g} equal to half your mythic rank on damage rolls. This stacks with the bonus from Weapon Specialization and Greater Weapon Specialization.",
+    "zhCN": "你使用所选武器造成的{g|Encyclopedia:Damage}伤害{/g}惊世骇俗。/n效果：使用所选武器时，你的伤害检定获得等于你神话阶层一半的{g|Encyclopedia:Bonus}加值{/g}。此加值与武器专精及高等武器专精的加值叠加。"
+  },
+  {
+    "Key": "Feats.WeaponSpecialization.Mythic.Musket.Name",
+    "enGB": "Weapon Specialization Mythic (Musket)",
+    "zhCN": "神话武器专精（滑膛枪）"
+  },
+  {
+    "Key": "Feats.ImprovedCritical.Mythic.Musket.Description",
+    "enGB": "Your {g|Encyclopedia:Critical}critical{/g} strikes with your chosen weapon are deadlier than most./nBenefit: Your critical multiplier with your chosen weapon is increased by 1.",
+    "zhCN": "你使用所选武器造成的{g|Encyclopedia:Critical}重击{/g}比常人更为致命。/n效果：你使用所选武器时的重击倍率提升1。"
+  },
+  {
+    "Key": "Feats.ImprovedCritical.Mythic.Musket.Name",
+    "enGB": "Improved Critical Mythic (Musket)",
+    "zhCN": "神话精通重击（滑膛枪）"
+  },
+  {
+    "Key": "Feats.ImprovedImprovedCritical.Musket.Description",
+    "enGB": "Choose one type of weapon for which you have the Improved Critical feat. When using the weapon you selected, its {g|Encyclopedia:Critical}critical threat range{/g} is increased by one.",
+    "zhCN": "选择一种你已拥有精通重击专长的武器。使用所选武器时，其{g|Encyclopedia:Critical}重击威胁范围{/g}增加1。"
+  },
+  {
+    "Key": "Feats.ImprovedImprovedCritical.Musket.Name",
+    "enGB": "Improved Improved Critical (Musket)",
+    "zhCN": "强效精通重击（滑膛枪）"
+  },
+  {
+    "Key": "Feats.ImprovedImprovedImprovedCritical.Musket.Description",
+    "enGB": "Choose one type of weapon for which you have the Improved Improved Critical feat. When using the weapon you selected, its {g|Encyclopedia:Critical}critical threat range{/g} is increased by one. Again.",
+    "zhCN": "选择一种你已拥有强效精通重击专长的武器。使用所选武器时，其{g|Encyclopedia:Critical}重击威胁范围{/g}增加1。对，再加一次。"
+  },
+  {
+    "Key": "Feats.ImprovedImprovedImprovedCritical.Musket.Name",
+    "enGB": "Improved Improved Improved Critical (Musket)",
+    "zhCN": "超强效精通重击（滑膛枪）"
+  },
+  {
+    "Key": "Feats.ImprovedImprovedImprovedCriticalImproved.Musket.Description",
+    "enGB": "Choose one type of weapon for which you have the Improved Improved Improved Critical feat. When using the weapon you selected, its {g|Encyclopedia:Critical}critical{/g} multiplier is increased by one.",
+    "zhCN": "选择一种你已拥有超强效精通重击专长的武器。使用所选武器时，其{g|Encyclopedia:Critical}重击{/g}倍率提升1。"
+  },
+  {
+    "Key": "Feats.ImprovedImprovedImprovedCriticalImproved.Musket.Name",
+    "enGB": "Improved Improved Improved Critical Improved (Musket)",
+    "zhCN": "精通超强效精通重击（滑膛枪）"
+  },
+  {
+    "Key": "Feats.WeaponFocus.Shotgun.Name",
+    "enGB": "Weapon Focus (Shotgun)",
+    "zhCN": "武器专攻（霰弹枪）"
+  },
+  {
+    "Key": "Feats.WeaponFocus.Shotgun.Description",
+    "enGB": "You gain a +1 {g|Encyclopedia:Bonus}bonus{/g} on all {g|Encyclopedia:Attack}attack rolls{/g} you make using shotguns.",
+    "zhCN": "你使用霰弹枪进行的所有{g|Encyclopedia:Attack}攻击检定{/g}获得+1{g|Encyclopedia:Bonus}加值{/g}。"
+  },
+  {
+    "Key": "Feats.WeaponFocus.Greater.Shotgun.Name",
+    "enGB": "Greater Weapon Focus (Shotgun)",
+    "zhCN": "高等武器专攻（霰弹枪）"
+  },
+  {
+    "Key": "Feats.WeaponFocus.Greater.Shotgun.Description",
+    "enGB": "You gain a +1 {g|Encyclopedia:Bonus}bonus{/g} on all {g|Encyclopedia:Attack}attack rolls{/g} you make using shotguns.",
+    "zhCN": "你使用霰弹枪进行的所有{g|Encyclopedia:Attack}攻击检定{/g}获得+1{g|Encyclopedia:Bonus}加值{/g}。"
+  },
+  {
+    "Key": "Feats.WeaponSpecialization.Shotgun.Name",
+    "enGB": "Weapon Specialization (Shotgun)",
+    "zhCN": "武器专精（霰弹枪）"
+  },
+  {
+    "Key": "Feats.WeaponSpecialization.Shotgun.Description",
+    "enGB": "You gain a +2 {g|Encyclopedia:Bonus}bonus{/g} on all {g|Encyclopedia:Damage}damage rolls{/g} you make using shotguns.",
+    "zhCN": "你使用霰弹枪进行的所有{g|Encyclopedia:Damage}伤害检定{/g}获得+2{g|Encyclopedia:Bonus}加值{/g}。"
+  },
+  {
+    "Key": "Feats.WeaponSpecialization.Greater.Shotgun.Name",
+    "enGB": "Greater Weapon Specialization (Shotgun)",
+    "zhCN": "高等武器专精（霰弹枪）"
+  },
+  {
+    "Key": "Feats.WeaponSpecialization.Greater.Shotgun.Description",
+    "enGB": "You gain a +2 {g|Encyclopedia:Bonus}bonus{/g} on all {g|Encyclopedia:Damage}damage rolls{/g} you make using shotguns.",
+    "zhCN": "你使用霰弹枪进行的所有{g|Encyclopedia:Damage}伤害检定{/g}获得+2{g|Encyclopedia:Bonus}加值{/g}。"
+  },
+  {
+    "Key": "Feats.ImprovedCritical.Shotgun.Description",
+    "enGB": "When using the weapon you selected, your {g|Encyclopedia:Critical}threat range{/g} is doubled.",
+    "zhCN": "使用所选武器时，你的{g|Encyclopedia:Critical}重击威胁范围{/g}翻倍。"
+  },
+  {
+    "Key": "Feats.ImprovedCritical.Shotgun.Name",
+    "enGB": "Improved Critical (Shotgun)",
+    "zhCN": "精通重击（霰弹枪）"
+  },
+  {
+    "Key": "Feats.WeaponFocus.Mythic.Shotgun.Description",
+    "enGB": "You're a mythical master of your chosen weapon./nBenefit: Double the {g|Encyclopedia:Bonus}bonuses{/g} on your {g|Encyclopedia:Attack}attack rolls{/g} from Weapon Focus and Greater Weapon Focus.",
+    "zhCN": "你对所选武器的掌握已达超凡神话之境。/n效果：使武器专攻与高等武器专攻为你提供的{g|Encyclopedia:Attack}攻击检定{/g}{g|Encyclopedia:Bonus}加值{/g}翻倍。"
+  },
+  {
+    "Key": "Feats.WeaponFocus.Mythic.Shotgun.Name",
+    "enGB": "Weapon Focus Mythic (Shotgun)",
+    "zhCN": "神话武器专攻（霰弹枪）"
+  },
+  {
+    "Key": "Feats.WeaponSpecialization.Mythic.Shotgun.Description",
+    "enGB": "The {g|Encyclopedia:Damage}damage{/g} you deal with your chosen weapon is truly awesome to behold./nBenefit: When using your chosen weapon, you gain a {g|Encyclopedia:Bonus}bonus{/g} equal to half your mythic rank on damage rolls. This stacks with the bonus from Weapon Specialization and Greater Weapon Specialization.",
+    "zhCN": "你使用所选武器造成的{g|Encyclopedia:Damage}伤害{/g}惊世骇俗。/n效果：使用所选武器时，你的伤害检定获得等于你神话阶层一半的{g|Encyclopedia:Bonus}加值{/g}。此加值与武器专精及高等武器专精的加值叠加。"
+  },
+  {
+    "Key": "Feats.WeaponSpecialization.Mythic.Shotgun.Name",
+    "enGB": "Weapon Specialization Mythic (Shotgun)",
+    "zhCN": "神话武器专精（霰弹枪）"
+  },
+  {
+    "Key": "Feats.ImprovedCritical.Mythic.Shotgun.Description",
+    "enGB": "Your {g|Encyclopedia:Critical}critical{/g} strikes with your chosen weapon are deadlier than most./nBenefit: Your critical multiplier with your chosen weapon is increased by 1.",
+    "zhCN": "你使用所选武器造成的{g|Encyclopedia:Critical}重击{/g}比常人更为致命。/n效果：你使用所选武器时的重击倍率提升1。"
+  },
+  {
+    "Key": "Feats.ImprovedCritical.Mythic.Shotgun.Name",
+    "enGB": "Improved Critical Mythic (Shotgun)",
+    "zhCN": "神话精通重击（霰弹枪）"
+  },
+  {
+    "Key": "Feats.ImprovedImprovedCritical.Shotgun.Description",
+    "enGB": "Choose one type of weapon for which you have the Improved Critical feat. When using the weapon you selected, its {g|Encyclopedia:Critical}critical threat range{/g} is increased by one.",
+    "zhCN": "选择一种你已拥有精通重击专长的武器。使用所选武器时，其{g|Encyclopedia:Critical}重击威胁范围{/g}增加1。"
+  },
+  {
+    "Key": "Feats.ImprovedImprovedCritical.Shotgun.Name",
+    "enGB": "Improved Improved Critical (Shotgun)",
+    "zhCN": "强效精通重击（霰弹枪）"
+  },
+  {
+    "Key": "Feats.ImprovedImprovedImprovedCritical.Shotgun.Description",
+    "enGB": "Choose one type of weapon for which you have the Improved Improved Critical feat. When using the weapon you selected, its {g|Encyclopedia:Critical}critical threat range{/g} is increased by one. Again.",
+    "zhCN": "选择一种你已拥有强效精通重击专长的武器。使用所选武器时，其{g|Encyclopedia:Critical}重击威胁范围{/g}增加1。对，再加一次。"
+  },
+  {
+    "Key": "Feats.ImprovedImprovedImprovedCritical.Shotgun.Name",
+    "enGB": "Improved Improved Improved Critical (Shotgun)",
+    "zhCN": "超强效精通重击（霰弹枪）"
+  },
+  {
+    "Key": "Feats.ImprovedImprovedImprovedCriticalImproved.Shotgun.Description",
+    "enGB": "Choose one type of weapon for which you have the Improved Improved Improved Critical feat. When using the weapon you selected, its {g|Encyclopedia:Critical}critical{/g} multiplier is increased by one.",
+    "zhCN": "选择一种你已拥有超强效精通重击专长的武器。使用所选武器时，其{g|Encyclopedia:Critical}重击{/g}倍率提升1。"
+  },
+  {
+    "Key": "Feats.ImprovedImprovedImprovedCriticalImproved.Shotgun.Name",
+    "enGB": "Improved Improved Improved Critical Improved (Shotgun)",
+    "zhCN": "精通超强效精通重击（霰弹枪）"
+  },
+  {
+    "Key": "Feats.WeaponFocus.Pistol.Name",
+    "enGB": "Weapon Focus (Pistol)",
+    "zhCN": "武器专攻（手枪）"
+  },
+  {
+    "Key": "Feats.WeaponFocus.Pistol.Description",
+    "enGB": "You gain a +1 {g|Encyclopedia:Bonus}bonus{/g} on all {g|Encyclopedia:Attack}attack rolls{/g} you make using pistols.",
+    "zhCN": "你使用手枪进行的所有{g|Encyclopedia:Attack}攻击检定{/g}获得+1{g|Encyclopedia:Bonus}加值{/g}。"
+  },
+  {
+    "Key": "Feats.WeaponFocus.Greater.Pistol.Name",
+    "enGB": "Greater Weapon Focus (Pistol)",
+    "zhCN": "高等武器专攻（手枪）"
+  },
+  {
+    "Key": "Feats.WeaponFocus.Greater.Pistol.Description",
+    "enGB": "You gain a +1 {g|Encyclopedia:Bonus}bonus{/g} on all {g|Encyclopedia:Attack}attack rolls{/g} you make using pistols.",
+    "zhCN": "你使用手枪进行的所有{g|Encyclopedia:Attack}攻击检定{/g}获得+1{g|Encyclopedia:Bonus}加值{/g}。"
+  },
+  {
+    "Key": "Feats.WeaponSpecialization.Pistol.Name",
+    "enGB": "Weapon Specialization (Pistol)",
+    "zhCN": "武器专精（手枪）"
+  },
+  {
+    "Key": "Feats.WeaponSpecialization.Pistol.Description",
+    "enGB": "You gain a +2 {g|Encyclopedia:Bonus}bonus{/g} on all {g|Encyclopedia:Damage}damage rolls{/g} you make using pistols.",
+    "zhCN": "你使用手枪进行的所有{g|Encyclopedia:Damage}伤害检定{/g}获得+2{g|Encyclopedia:Bonus}加值{/g}。"
+  },
+  {
+    "Key": "Feats.WeaponSpecialization.Greater.Pistol.Name",
+    "enGB": "Greater Weapon Specialization (Pistol)",
+    "zhCN": "高等武器专精（手枪）"
+  },
+  {
+    "Key": "Feats.WeaponSpecialization.Greater.Pistol.Description",
+    "enGB": "You gain a +2 {g|Encyclopedia:Bonus}bonus{/g} on all {g|Encyclopedia:Damage}damage rolls{/g} you make using pistols.",
+    "zhCN": "你使用手枪进行的所有{g|Encyclopedia:Damage}伤害检定{/g}获得+2{g|Encyclopedia:Bonus}加值{/g}。"
+  },
+  {
+    "Key": "Feats.ImprovedCritical.Pistol.Description",
+    "enGB": "When using the weapon you selected, your {g|Encyclopedia:Critical}threat range{/g} is doubled.",
+    "zhCN": "使用所选武器时，你的{g|Encyclopedia:Critical}重击威胁范围{/g}翻倍。"
+  },
+  {
+    "Key": "Feats.ImprovedCritical.Pistol.Name",
+    "enGB": "Improved Critical (Pistol)",
+    "zhCN": "精通重击（手枪）"
+  },
+  {
+    "Key": "Feats.WeaponFocus.Mythic.Pistol.Description",
+    "enGB": "You're a mythical master of your chosen weapon./nBenefit: Double the {g|Encyclopedia:Bonus}bonuses{/g} on your {g|Encyclopedia:Attack}attack rolls{/g} from Weapon Focus and Greater Weapon Focus.",
+    "zhCN": "你对所选武器的掌握已达超凡神话之境。/n效果：使武器专攻与高等武器专攻为你提供的{g|Encyclopedia:Attack}攻击检定{/g}{g|Encyclopedia:Bonus}加值{/g}翻倍。"
+  },
+  {
+    "Key": "Feats.WeaponFocus.Mythic.Pistol.Name",
+    "enGB": "Weapon Focus Mythic (Pistol)",
+    "zhCN": "神话武器专攻（手枪）"
+  },
+  {
+    "Key": "Feats.WeaponSpecialization.Mythic.Pistol.Description",
+    "enGB": "The {g|Encyclopedia:Damage}damage{/g} you deal with your chosen weapon is truly awesome to behold./nBenefit: When using your chosen weapon, you gain a {g|Encyclopedia:Bonus}bonus{/g} equal to half your mythic rank on damage rolls. This stacks with the bonus from Weapon Specialization and Greater Weapon Specialization.",
+    "zhCN": "你使用所选武器造成的{g|Encyclopedia:Damage}伤害{/g}惊世骇俗。/n效果：使用所选武器时，你的伤害检定获得等于你神话阶层一半的{g|Encyclopedia:Bonus}加值{/g}。此加值与武器专精及高等武器专精的加值叠加。"
+  },
+  {
+    "Key": "Feats.WeaponSpecialization.Mythic.Pistol.Name",
+    "enGB": "Weapon Specialization Mythic (Pistol)",
+    "zhCN": "神话武器专精（手枪）"
+  },
+  {
+    "Key": "Feats.ImprovedCritical.Mythic.Pistol.Description",
+    "enGB": "Your {g|Encyclopedia:Critical}critical{/g} strikes with your chosen weapon are deadlier than most./nBenefit: Your critical multiplier with your chosen weapon is increased by 1.",
+    "zhCN": "你使用所选武器造成的{g|Encyclopedia:Critical}重击{/g}比常人更为致命。/n效果：你使用所选武器时的重击倍率提升1。"
+  },
+  {
+    "Key": "Feats.ImprovedCritical.Mythic.Pistol.Name",
+    "enGB": "Improved Critical Mythic (Pistol)",
+    "zhCN": "神话精通重击（手枪）"
+  },
+  {
+    "Key": "Feats.ImprovedImprovedCritical.Pistol.Description",
+    "enGB": "Choose one type of weapon for which you have the Improved Critical feat. When using the weapon you selected, its {g|Encyclopedia:Critical}critical threat range{/g} is increased by one.",
+    "zhCN": "选择一种你已拥有精通重击专长的武器。使用所选武器时，其{g|Encyclopedia:Critical}重击威胁范围{/g}增加1。"
+  },
+  {
+    "Key": "Feats.ImprovedImprovedCritical.Pistol.Name",
+    "enGB": "Improved Improved Critical (Pistol)",
+    "zhCN": "强效精通重击（手枪）"
+  },
+  {
+    "Key": "Feats.ImprovedImprovedImprovedCritical.Pistol.Description",
+    "enGB": "Choose one type of weapon for which you have the Improved Improved Critical feat. When using the weapon you selected, its {g|Encyclopedia:Critical}critical threat range{/g} is increased by one. Again.",
+    "zhCN": "选择一种你已拥有强效精通重击专长的武器。使用所选武器时，其{g|Encyclopedia:Critical}重击威胁范围{/g}增加1。对，再加一次。"
+  },
+  {
+    "Key": "Feats.ImprovedImprovedImprovedCritical.Pistol.Name",
+    "enGB": "Improved Improved Improved Critical (Pistol)",
+    "zhCN": "超强效精通重击（手枪）"
+  },
+  {
+    "Key": "Feats.ImprovedImprovedImprovedCriticalImproved.Pistol.Description",
+    "enGB": "Choose one type of weapon for which you have the Improved Improved Improved Critical feat. When using the weapon you selected, its {g|Encyclopedia:Critical}critical{/g} multiplier is increased by one.",
+    "zhCN": "选择一种你已拥有超强效精通重击专长的武器。使用所选武器时，其{g|Encyclopedia:Critical}重击{/g}倍率提升1。"
+  },
+  {
+    "Key": "Feats.ImprovedImprovedImprovedCriticalImproved.Pistol.Name",
+    "enGB": "Improved Improved Improved Critical Improved (Pistol)",
+    "zhCN": "精通超强效精通重击（手枪）"
+  },
+  {
+    "Key": "Feats.WeaponFocus.Rifle.Name",
+    "enGB": "Weapon Focus (Rifle)",
+    "zhCN": "武器专攻（步枪）"
+  },
+  {
+    "Key": "Feats.WeaponFocus.Rifle.Description",
+    "enGB": "You gain a +1 {g|Encyclopedia:Bonus}bonus{/g} on all {g|Encyclopedia:Attack}attack rolls{/g} you make using rifles.",
+    "zhCN": "你使用步枪进行的所有{g|Encyclopedia:Attack}攻击检定{/g}获得+1{g|Encyclopedia:Bonus}加值{/g}。"
+  },
+  {
+    "Key": "Feats.WeaponFocus.Greater.Rifle.Name",
+    "enGB": "Greater Weapon Focus (Rifle)",
+    "zhCN": "高等武器专攻（步枪）"
+  },
+  {
+    "Key": "Feats.WeaponFocus.Greater.Rifle.Description",
+    "enGB": "You gain a +1 {g|Encyclopedia:Bonus}bonus{/g} on all {g|Encyclopedia:Attack}attack rolls{/g} you make using rifles.",
+    "zhCN": "你使用步枪进行的所有{g|Encyclopedia:Attack}攻击检定{/g}获得+1{g|Encyclopedia:Bonus}加值{/g}。"
+  },
+  {
+    "Key": "Feats.WeaponSpecialization.Rifle.Name",
+    "enGB": "Weapon Specialization (Rifle)",
+    "zhCN": "武器专精（步枪）"
+  },
+  {
+    "Key": "Feats.WeaponSpecialization.Rifle.Description",
+    "enGB": "You gain a +2 {g|Encyclopedia:Bonus}bonus{/g} on all {g|Encyclopedia:Damage}damage rolls{/g} you make using rifles.",
+    "zhCN": "你使用步枪进行的所有{g|Encyclopedia:Damage}伤害检定{/g}获得+2{g|Encyclopedia:Bonus}加值{/g}。"
+  },
+  {
+    "Key": "Feats.WeaponSpecialization.Greater.Rifle.Name",
+    "enGB": "Greater Weapon Specialization (Rifle)",
+    "zhCN": "高等武器专精（步枪）"
+  },
+  {
+    "Key": "Feats.WeaponSpecialization.Greater.Rifle.Description",
+    "enGB": "You gain a +2 {g|Encyclopedia:Bonus}bonus{/g} on all {g|Encyclopedia:Damage}damage rolls{/g} you make using rifles.",
+    "zhCN": "你使用步枪进行的所有{g|Encyclopedia:Damage}伤害检定{/g}获得+2{g|Encyclopedia:Bonus}加值{/g}。"
+  },
+  {
+    "Key": "Feats.ImprovedCritical.Rifle.Description",
+    "enGB": "When using the weapon you selected, your {g|Encyclopedia:Critical}threat range{/g} is doubled.",
+    "zhCN": "使用所选武器时，你的{g|Encyclopedia:Critical}重击威胁范围{/g}翻倍。"
+  },
+  {
+    "Key": "Feats.ImprovedCritical.Rifle.Name",
+    "enGB": "Improved Critical (Rifle)",
+    "zhCN": "精通重击（步枪）"
+  },
+  {
+    "Key": "Feats.WeaponFocus.Mythic.Rifle.Description",
+    "enGB": "You're a mythical master of your chosen weapon./nBenefit: Double the {g|Encyclopedia:Bonus}bonuses{/g} on your {g|Encyclopedia:Attack}attack rolls{/g} from Weapon Focus and Greater Weapon Focus.",
+    "zhCN": "你对所选武器的掌握已达超凡神话之境。/n效果：使武器专攻与高等武器专攻为你提供的{g|Encyclopedia:Attack}攻击检定{/g}{g|Encyclopedia:Bonus}加值{/g}翻倍。"
+  },
+  {
+    "Key": "Feats.WeaponFocus.Mythic.Rifle.Name",
+    "enGB": "Weapon Focus Mythic (Rifle)",
+    "zhCN": "神话武器专攻（步枪）"
+  },
+  {
+    "Key": "Feats.WeaponSpecialization.Mythic.Rifle.Description",
+    "enGB": "The {g|Encyclopedia:Damage}damage{/g} you deal with your chosen weapon is truly awesome to behold./nBenefit: When using your chosen weapon, you gain a {g|Encyclopedia:Bonus}bonus{/g} equal to half your mythic rank on damage rolls. This stacks with the bonus from Weapon Specialization and Greater Weapon Specialization.",
+    "zhCN": "你使用所选武器造成的{g|Encyclopedia:Damage}伤害{/g}惊世骇俗。/n效果：使用所选武器时，你的伤害检定获得等于你神话阶层一半的{g|Encyclopedia:Bonus}加值{/g}。此加值与武器专精及高等武器专精的加值叠加。"
+  },
+  {
+    "Key": "Feats.WeaponSpecialization.Mythic.Rifle.Name",
+    "enGB": "Weapon Specialization Mythic (Rifle)",
+    "zhCN": "神话武器专精（步枪）"
+  },
+  {
+    "Key": "Feats.ImprovedCritical.Mythic.Rifle.Description",
+    "enGB": "Your {g|Encyclopedia:Critical}critical{/g} strikes with your chosen weapon are deadlier than most./nBenefit: Your critical multiplier with your chosen weapon is increased by 1.",
+    "zhCN": "你使用所选武器造成的{g|Encyclopedia:Critical}重击{/g}比常人更为致命。/n效果：你使用所选武器时的重击倍率提升1。"
+  },
+  {
+    "Key": "Feats.ImprovedCritical.Mythic.Rifle.Name",
+    "enGB": "Improved Critical Mythic (Rifle)",
+    "zhCN": "神话精通重击（步枪）"
+  },
+  {
+    "Key": "Feats.ImprovedImprovedCritical.Rifle.Description",
+    "enGB": "Choose one type of weapon for which you have the Improved Critical feat. When using the weapon you selected, its {g|Encyclopedia:Critical}critical threat range{/g} is increased by one.",
+    "zhCN": "选择一种你已拥有精通重击专长的武器。使用所选武器时，其{g|Encyclopedia:Critical}重击威胁范围{/g}增加1。"
+  },
+  {
+    "Key": "Feats.ImprovedImprovedCritical.Rifle.Name",
+    "enGB": "Improved Improved Critical (Rifle)",
+    "zhCN": "强效精通重击（步枪）"
+  },
+  {
+    "Key": "Feats.ImprovedImprovedImprovedCritical.Rifle.Description",
+    "enGB": "Choose one type of weapon for which you have the Improved Improved Critical feat. When using the weapon you selected, its {g|Encyclopedia:Critical}critical threat range{/g} is increased by one. Again.",
+    "zhCN": "选择一种你已拥有强效精通重击专长的武器。使用所选武器时，其{g|Encyclopedia:Critical}重击威胁范围{/g}增加1。对，再加一次。"
+  },
+  {
+    "Key": "Feats.ImprovedImprovedImprovedCritical.Rifle.Name",
+    "enGB": "Improved Improved Improved Critical (Rifle)",
+    "zhCN": "超强效精通重击（步枪）"
+  },
+  {
+    "Key": "Feats.ImprovedImprovedImprovedCriticalImproved.Rifle.Description",
+    "enGB": "Choose one type of weapon for which you have the Improved Improved Improved Critical feat. When using the weapon you selected, its {g|Encyclopedia:Critical}critical{/g} multiplier is increased by one.",
+    "zhCN": "选择一种你已拥有超强效精通重击专长的武器。使用所选武器时，其{g|Encyclopedia:Critical}重击{/g}倍率提升1。"
+  },
+  {
+    "Key": "Feats.ImprovedImprovedImprovedCriticalImproved.Rifle.Name",
+    "enGB": "Improved Improved Improved Critical Improved (Rifle)",
+    "zhCN": "精通超强效精通重击（步枪）"
+  },
+  {
+    "Key": "Feats.WeaponFocus.Revolver.Name",
+    "enGB": "Weapon Focus (Revolver)",
+    "zhCN": "武器专攻（转轮枪）"
+  },
+  {
+    "Key": "Feats.WeaponFocus.Revolver.Description",
+    "enGB": "You gain a +1 {g|Encyclopedia:Bonus}bonus{/g} on all {g|Encyclopedia:Attack}attack rolls{/g} you make using revolvers.",
+    "zhCN": "你使用转轮枪进行的所有{g|Encyclopedia:Attack}攻击检定{/g}获得+1{g|Encyclopedia:Bonus}加值{/g}。"
+  },
+  {
+    "Key": "Feats.WeaponFocus.Greater.Revolver.Name",
+    "enGB": "Greater Weapon Focus (Revolver)",
+    "zhCN": "高等武器专攻（转轮枪）"
+  },
+  {
+    "Key": "Feats.WeaponFocus.Greater.Revolver.Description",
+    "enGB": "You gain a +1 {g|Encyclopedia:Bonus}bonus{/g} on all {g|Encyclopedia:Attack}attack rolls{/g} you make using revolvers.",
+    "zhCN": "你使用转轮枪进行的所有{g|Encyclopedia:Attack}攻击检定{/g}获得+1{g|Encyclopedia:Bonus}加值{/g}。"
+  },
+  {
+    "Key": "Feats.WeaponSpecialization.Revolver.Name",
+    "enGB": "Weapon Specialization (Revolver)",
+    "zhCN": "武器专精（转轮枪）"
+  },
+  {
+    "Key": "Feats.WeaponSpecialization.Revolver.Description",
+    "enGB": "You gain a +2 {g|Encyclopedia:Bonus}bonus{/g} on all {g|Encyclopedia:Damage}damage rolls{/g} you make using revolvers.",
+    "zhCN": "你使用转轮枪进行的所有{g|Encyclopedia:Damage}伤害检定{/g}获得+2{g|Encyclopedia:Bonus}加值{/g}。"
+  },
+  {
+    "Key": "Feats.WeaponSpecialization.Greater.Revolver.Name",
+    "enGB": "Greater Weapon Specialization (Revolver)",
+    "zhCN": "高等武器专精（转轮枪）"
+  },
+  {
+    "Key": "Feats.WeaponSpecialization.Greater.Revolver.Description",
+    "enGB": "You gain a +2 {g|Encyclopedia:Bonus}bonus{/g} on all {g|Encyclopedia:Damage}damage rolls{/g} you make using revolvers.",
+    "zhCN": "你使用转轮枪进行的所有{g|Encyclopedia:Damage}伤害检定{/g}获得+2{g|Encyclopedia:Bonus}加值{/g}。"
+  },
+  {
+    "Key": "Feats.ImprovedCritical.Revolver.Description",
+    "enGB": "When using the weapon you selected, your {g|Encyclopedia:Critical}threat range{/g} is doubled.",
+    "zhCN": "使用所选武器时，你的{g|Encyclopedia:Critical}重击威胁范围{/g}翻倍。"
+  },
+  {
+    "Key": "Feats.ImprovedCritical.Revolver.Name",
+    "enGB": "Improved Critical (Revolver)",
+    "zhCN": "精通重击（转轮枪）"
+  },
+  {
+    "Key": "Feats.WeaponFocus.Mythic.Revolver.Description",
+    "enGB": "You're a mythical master of your chosen weapon./nBenefit: Double the {g|Encyclopedia:Bonus}bonuses{/g} on your {g|Encyclopedia:Attack}attack rolls{/g} from Weapon Focus and Greater Weapon Focus.",
+    "zhCN": "你对所选武器的掌握已达超凡神话之境。/n效果：使武器专攻与高等武器专攻为你提供的{g|Encyclopedia:Attack}攻击检定{/g}{g|Encyclopedia:Bonus}加值{/g}翻倍。"
+  },
+  {
+    "Key": "Feats.WeaponFocus.Mythic.Revolver.Name",
+    "enGB": "Weapon Focus Mythic (Revolver)",
+    "zhCN": "神话武器专攻（转轮枪）"
+  },
+  {
+    "Key": "Feats.WeaponSpecialization.Mythic.Revolver.Description",
+    "enGB": "The {g|Encyclopedia:Damage}damage{/g} you deal with your chosen weapon is truly awesome to behold./nBenefit: When using your chosen weapon, you gain a {g|Encyclopedia:Bonus}bonus{/g} equal to half your mythic rank on damage rolls. This stacks with the bonus from Weapon Specialization and Greater Weapon Specialization.",
+    "zhCN": "你使用所选武器造成的{g|Encyclopedia:Damage}伤害{/g}惊世骇俗。/n效果：使用所选武器时，你的伤害检定获得等于你神话阶层一半的{g|Encyclopedia:Bonus}加值{/g}。此加值与武器专精及高等武器专精的加值叠加。"
+  },
+  {
+    "Key": "Feats.WeaponSpecialization.Mythic.Revolver.Name",
+    "enGB": "Weapon Specialization Mythic (Revolver)",
+    "zhCN": "神话武器专精（转轮枪）"
+  },
+  {
+    "Key": "Feats.ImprovedCritical.Mythic.Revolver.Description",
+    "enGB": "Your {g|Encyclopedia:Critical}critical{/g} strikes with your chosen weapon are deadlier than most./nBenefit: Your critical multiplier with your chosen weapon is increased by 1.",
+    "zhCN": "你使用所选武器造成的{g|Encyclopedia:Critical}重击{/g}比常人更为致命。/n效果：你使用所选武器时的重击倍率提升1。"
+  },
+  {
+    "Key": "Feats.ImprovedCritical.Mythic.Revolver.Name",
+    "enGB": "Improved Critical Mythic (Revolver)",
+    "zhCN": "神话精通重击（转轮枪）"
+  },
+  {
+    "Key": "Feats.ImprovedImprovedCritical.Revolver.Description",
+    "enGB": "Choose one type of weapon for which you have the Improved Critical feat. When using the weapon you selected, its {g|Encyclopedia:Critical}critical threat range{/g} is increased by one.",
+    "zhCN": "选择一种你已拥有精通重击专长的武器。使用所选武器时，其{g|Encyclopedia:Critical}重击威胁范围{/g}增加1。"
+  },
+  {
+    "Key": "Feats.ImprovedImprovedCritical.Revolver.Name",
+    "enGB": "Improved Improved Critical (Revolver)",
+    "zhCN": "强效精通重击（转轮枪）"
+  },
+  {
+    "Key": "Feats.ImprovedImprovedImprovedCritical.Revolver.Description",
+    "enGB": "Choose one type of weapon for which you have the Improved Improved Critical feat. When using the weapon you selected, its {g|Encyclopedia:Critical}critical threat range{/g} is increased by one. Again.",
+    "zhCN": "选择一种你已拥有强效精通重击专长的武器。使用所选武器时，其{g|Encyclopedia:Critical}重击威胁范围{/g}增加1。对，再加一次。"
+  },
+  {
+    "Key": "Feats.ImprovedImprovedImprovedCritical.Revolver.Name",
+    "enGB": "Improved Improved Improved Critical (Revolver)",
+    "zhCN": "超强效精通重击（转轮枪）"
+  },
+  {
+    "Key": "Feats.ImprovedImprovedImprovedCriticalImproved.Revolver.Description",
+    "enGB": "Choose one type of weapon for which you have the Improved Improved Improved Critical feat. When using the weapon you selected, its {g|Encyclopedia:Critical}critical{/g} multiplier is increased by one.",
+    "zhCN": "选择一种你已拥有超强效精通重击专长的武器。使用所选武器时，其{g|Encyclopedia:Critical}重击{/g}倍率提升1。"
+  },
+  {
+    "Key": "Feats.ImprovedImprovedImprovedCriticalImproved.Revolver.Name",
+    "enGB": "Improved Improved Improved Critical Improved (Revolver)",
+    "zhCN": "精通超强效精通重击（转轮枪）"
+  },
+  {
+    "Key": "Feats.WeaponTraining.CrossbowsAndFirearms.Name",
+    "enGB": "Weapon Training (Crossbows and Firearms)",
+    "zhCN": "武器训练（十字弩与火器）"
+  },
+  {
+    "Key": "Feats.WeaponTraining.CrossbowsAndFirearms.Description",
+    "enGB": "Whenever a fighter {g|Encyclopedia:Attack}attacks{/g} with a weapon from this group, he gains a +1 {g|Encyclopedia:Bonus}bonus{/g} on attack and {g|Encyclopedia:Damage}damage rolls{/g}. This group includes all crossbows and firearms.",
+    "zhCN": "每当战士使用此武器组的武器进行{g|Encyclopedia:Attack}攻击{/g}时，他在攻击检定与{g|Encyclopedia:Damage}伤害检定{/g}上获得+1{g|Encyclopedia:Bonus}加值{/g}。该武器组包含所有十字弩与火器。"
+  },
+  {
+    "Key": "DamagedFirearm.Name",
+    "enGB": "Damaged Firearm",
+    "zhCN": "损坏的火器"
+  },
+  {
+    "Key": "DamagedFirearm.Description",
+    "enGB": "When a firearm misfires, it gains the broken condition. While it has the broken condition its misfire value increases by 2. If an early firearm with the broken condition misfires again, it explodes. Each firearm has a burst size noted in parentheses after its misfire value. Any creature within this burst (including the firearm's wielder) takes damage as if it had been hit by the weapon. A DC 12 Reflex save halves this damage.",
+    "zhCN": "当火器哑火时，它会获得破损状态。在破损状态下，其哑火值增加2。如果具有破损状态的早期火器再次哑火，它会炸膛。每种火器在其哑火值后的括号内标明了爆发范围。任何在该爆发范围内的生物（包括火器持用者）承受等同于被该武器命中的伤害——通过DC 12的反射豁免可使此伤害减半。"
+  },
+  {
+    "Key": "Misfire.Early.Description",
+    "enGB": "If the natural result of your attack roll falls within a firearm's misfire value, that shot misses, even if you would have otherwise hit the target. When a firearm misfires, it gains the broken condition. While it has the broken condition its misfire value increases by 2. If an early firearm with the broken condition misfires again, it explodes. Each firearm has a burst size noted in parentheses after its misfire value. Any creature within this burst (including the firearm's wielder) takes damage as if it had been hit by the weapon. A DC 12 Reflex save halves this damage.",
+    "zhCN": "若你的攻击检定骰值位于火器的哑火值范围内，则该次射击失手，即使原本可以命中目标。当火器哑火时，它会获得破损状态。在破损状态下，其哑火值增加2。如果具有破损状态的早期火器再次哑火，它会炸膛。每种火器在其哑火值后的括号内标明了爆发范围。任何在该爆发范围内的生物（包括火器持用者）承受等同于被该武器命中的伤害——通过DC 12的反射豁免可使此伤害减半。"
+  },
+  {
+    "Key": "Misfire.1.5.Name",
+    "enGB": "Misfire 1 (5ft)",
+    "zhCN": "哑火 1（5尺）"
+  },
+  {
+    "Key": "Misfire.12.5.Name",
+    "enGB": "Misfire 1-2 (5ft)",
+    "zhCN": "哑火 1-2（5尺）"
+  },
+  {
+    "Key": "Misfire.12.10.Name",
+    "enGB": "Misfire 1-2 (10ft)",
+    "zhCN": "哑火 1-2（10尺）"
+  },
+  {
+    "Key": "Misfire.Advanced.Description",
+    "enGB": "If the natural result of your attack roll falls within a firearm's misfire value, that shot misses, even if you would have otherwise hit the target. When a firearm misfires, it gains the broken condition. While it has the broken condition its misfire value increases by 2.",
+    "zhCN": "若你的攻击检定骰值位于火器的哑火值范围内，则该次射击失手，即使原本可以命中目标。当火器哑火时，它会获得破损状态。在破损状态下，其哑火值增加2。"
+  },
+  {
+    "Key": "Misfire.1.A.Name",
+    "enGB": "Misfire 1",
+    "zhCN": "哑火 1"
+  },
+  {
+    "Key": "Misfire.12.A.Name",
+    "enGB": "Misfire 1-2",
+    "zhCN": "哑火 1-2"
+  },
+  {
+    "Key": "Firearms.Capacity.6.Name",
+    "enGB": "Capacity 6",
+    "zhCN": "载弹量 6"
+  },
+  {
+    "Key": "Firearms.Capacity.6.Description",
+    "enGB": "A firearm's capacity is the number of shots it can hold at one time.",
+    "zhCN": "火器的载弹量是指其一次能够容纳的弹药发数。"
+  },
+  {
+    "Key": "Firearms.Scatter.30.Name",
+    "enGB": "Scatter (30ft)",
+    "zhCN": "散射（30尺）"
+  },
+  {
+    "Key": "Firearms.Scatter.15.Name",
+    "enGB": "Scatter (15ft)",
+    "zhCN": "散射（15尺）"
+  },
+  {
+    "Key": "Firearms.Scatter.Description",
+    "enGB": "A weapon with the scatter weapon quality can shoot two different types of ammunition. It can fire normal bullets that target one creature, or it can make a scattering shot, attacking all creatures within a cone.  When a scatter weapon attacks all creatures within a cone, it makes a separate attack roll against each creature within the cone. Each attack roll takes a -2 penalty, and its attack damage cannot be modified by precision damage or damage-increasing feats such as Vital Strike. Effects that grant concealment, such as fog or smoke, or the blur, invisibility, or mirror image spells, do not foil a scatter attack.",
+    "zhCN": "具有散射武器特性的火器可以发射两种不同类型的弹药。它可以发射对单一生物射击的普通弹丸，也可以进行散射射击，攻击锥形范围内的所有生物。当散射武器攻击锥形范围内的所有生物时，它会对该锥形范围内的每个生物分别进行一次攻击检定。每次攻击检定承受-2减值，且其造成的攻击伤害无法受到精准伤害或增伤专长（如致命一击）的修正。提供隐蔽的效果（如浓雾、烟雾，或虚假视线、隐形术、镜影术等法术）无法阻碍散射攻击。"
+  },
+  {
+    "Key": "Firearms.Early.Reload.Name",
+    "enGB": "Muzzle Loading",
+    "zhCN": "前装填"
+  },
+  {
+    "Key": "Firearms.Early.Reload.Description",
+    "enGB": "Early firearms are muzzle-loaded, requiring bullets or pellets and black powder to be rammed down the muzzle.. It is a standard action to load a one-handed early firearm and a full-round action to load a two-handed early firearm.",
+    "zhCN": "早期火器为前装填，需要将弹丸或霰弹和黑火药从枪口捣入。装填一把单手早期火器是标准动作，装填一把双手早期火器是整轮动作。"
+  },
+  {
+    "Key": "Firearms.Advanced.Reload.Name",
+    "enGB": "Chamber Loading",
+    "zhCN": "弹仓装填"
+  },
+  {
+    "Key": "Firearms.Advanced.Reload.Description",
+    "enGB": "Advanced firearms are chamber-loaded. It is a move action to load a one-handed or two-handed advanced firearm to its full capacity. The Rapid Reload feat reduces this to a free action (allowing you to ignore the requirement to reload between shots).",
+    "zhCN": "先进火器为弹仓装填。装填一把单手或双手先进火器至满容量是一个移动动作。快速装填专长可将其降为自由动作（使你忽略两次射击间必须装填的要求）。"
+  },
+  {
+    "Key": "Firearms.Reload.Name",
+    "enGB": "Reload",
+    "zhCN": "装填"
+  },
+  {
+    "Key": "Firearms.RapidReload.Name",
+    "enGB": "Rapid Reload",
+    "zhCN": "快速装填"
+  },
+  {
+    "Key": "Firearms.AP.Name",
+    "enGB": "Armor Penetrating",
+    "zhCN": "穿甲"
+  },
+  {
+    "Key": "Firearms.AP.Description",
+    "enGB": "Firearms penetrate most forms of armor: bypassing shield, armor, and natural armor bonuses to AC",
+    "zhCN": "火器能穿透大多数类型的盔甲：忽略盾牌、盔甲和天生防御带来的AC加值"
+  },
+  {
+    "Key": "Firearms.Musket.Name",
+    "enGB": "Musket",
+    "zhCN": "滑膛枪"
+  },
+  {
+    "Key": "Firearms.Musket.Description",
+    "enGB": "This long-barreled firearm has a much greater range than a pistol. A musket uses either a bullet and 1 dose of black powder or a single alchemical cartridge as its ammunition. This is an early firearm.",
+    "zhCN": "这种长管火器比手枪射程远得多。滑膛枪使用一颗子弹和一份黑火药或一枚炼金弹药作为弹药。这是一件早期火器。"
+  },
+  {
+    "Key": "Firearms.Pistol.Name",
+    "enGB": "Pistol",
+    "zhCN": "手枪"
+  },
+  {
+    "Key": "Firearms.Pistol.Description",
+    "enGB": "The basic single-shot pistol is one of the most common firearms, although it is still rare enough to be an object of envy or curiosity to most. This is an early firearm.",
+    "zhCN": "基本单发手枪是最常见的火器之一，但仍然罕见，足以成为大多数人羡慕或好奇的对象。这是一件早期火器。"
+  },
+  {
+    "Key": "Firearms.Shotgun.Name",
+    "enGB": "Shotgun",
+    "zhCN": "霰弹枪"
+  },
+  {
+    "Key": "Firearms.Shotgun.Description",
+    "enGB": "This advanced version of the blunderbuss shoots in a 30-foot cone when firing pellets, and has a 20-foot range increment when firing a bullet (often called a slug). Shotguns can either be simple and functional, or art pieces in their own right, with engravings and inlay on the stocks and breeches. Those used by the upper class are often emblazoned with images of game animals, family crests, or elaborate maker's marks.",
+    "zhCN": "这种喇叭枪的先进改良版在装填霰弹发射时呈30尺锥形范围，而在发射单颗重弹（通常称为独头弹）时拥有20尺的基础射程。霰弹枪既可以是朴素实用的工具，也可以是一件真正的艺术品，枪托与枪膛上饰有精美的雕花与镶嵌工艺。上流社会所使用的枪械通常饰有猎兽图案、家族纹章或繁复考究的制作者印记。"
+  },
+  {
+    "Key": "Firearms.Rifle.Name",
+    "enGB": "Rifle",
+    "zhCN": "步枪"
+  },
+  {
+    "Key": "Firearms.GatewayRifle.Name",
+    "enGB": "Mind-Render Rifle",
+    "zhCN": "裂脑步枪"
+  },
+  {
+    "Key": "Firearms.GatewayRifle.Description",
+    "enGB": "Whenever this +3 keen rifle confirms a critical hit the target suffers an additional 1d6 intelligence damage.",
+    "zhCN": "每当这把+3追击步枪确认重击时，目标额外承受1d6点智力伤害。"
+  },
+  {
+    "Key": "Firearms.GatewayRifle.Enchant.Name",
+    "enGB": "Mind-Render",
+    "zhCN": "裂脑"
+  },
+  {
+    "Key": "Firearms.GatewayRifle.Enchant.Description",
+    "enGB": "Whenever this weapon confirms a critical hit the target suffers an additional 1d6 intelligence damage.",
+    "zhCN": "每当此武器确认重击时，目标额外承受1d6点智力伤害。"
+  },
+  {
+    "Key": "Firearms.Rifle.Description",
+    "enGB": "This improvement on the musket features a grooved barrel that imparts a twisting, spiral motion to the bullet as it exits, stabilizing it and preventing the end-over-end tumbling common to projectiles from simpler firearms. As a result, a rifle can fire significantly farther and with more accuracy than early long-bore firearms. A rifle uses metal cartridges as ammunition. This is an advanced firearm.",
+    "zhCN": "这种滑膛枪的改进型具有刻有膛线的枪管，能在子弹射出时赋予其旋转、螺旋的运动，稳定弹道并防止简单火器弹药常见的翻滚。因此，步枪的射程和精度远优于早期长管火器。步枪使用金属弹药作为弹药。这是一件先进火器。"
+  },
+  {
+    "Key": "Firearms.Revolver.Name",
+    "enGB": "Revolver",
+    "zhCN": "转轮枪"
+  },
+  {
+    "Key": "Firearms.Revolver.Description",
+    "enGB": "A revolver is a pistol with a revolving cylinder containing six chambers. Each chamber can hold a metal cartridge, and when one cartridge is fired, the cylinder automatically rotates (no extra hand or action required), readying the next chamber for firing. A revolver uses metal cartridges as ammunition. This is an advanced firearm.",
+    "zhCN": "转轮枪是一种带有转轮式弹巢的手枪，弹巢内有六个弹仓。每个弹仓可以容纳一发金属弹药，当一发弹药发射后，弹巢会自动旋转（无需额外手部或动作），准备好下一发弹药发射。转轮枪使用金属弹药作为弹药。这是一件先进火器。"
+  },
+  {
+    "Key": "Gunslinger.Class.Name",
+    "enGB": "Gunslinger",
+    "zhCN": "铳士"
+  },
+  {
+    "Key": "Gunslinger.Class.Description",
+    "enGB": "For a renegade few, battle sounds different than it does for the typical fighter. The clash of steel and the sizzle of spell energy are drowned out by the thunderous rhythm of gunfire: the pounding beat of the gunslinger.\r\n\r\nGunslingers are a bold and mysterious lot. While many treat the secrets of black powder with the same care and reverence that a wizard typically reserves for his spellbook, most gunslingers know that firearms are a secret that cannot remain concealed forever. While current firearms are simple, often imprecise, and even dangerous devices, they are a technology on the move, and one that will become even more powerful when it is fully fused with magic.",
+    "zhCN": "对少数叛逆者而言，战斗的声音与普通战士截然不同。刀剑的碰撞声和法术能量的嘶嘶声，被枪火雷鸣般的节奏——铳士那震撼的鼓点——所淹没。\r\n\r\n铳士是一群大胆而神秘的家伙。尽管许多人对待黑火药的秘密，如同法师对待法术书一般谨慎而敬畏，但大多数铳士都明白，火器是一个无法永远隐藏的秘密。虽然当前的火器是简单、往往不够精确甚至危险的装置，但它们是一项不断发展的技术，一旦与魔法完全融合，将变得更为强大。"
+  },
+  {
+    "Key": "Gunslinger.Proficiencies.Name",
+    "enGB": "Gunslinger Proficiencies",
+    "zhCN": "铳士擅长"
+  },
+  {
+    "Key": "Gunslinger.Proficiencies.Description",
+    "enGB": "Gunslingers are proficient with all simple and martial weapons, and with all firearms. They are proficient with all light armor.",
+    "zhCN": "铳士擅长所有简易武器、军用武器和所有火器。她们擅长所有轻型盔甲。"
+  },
+  {
+    "Key": "Gunslinger.Class.DescriptionShort",
+    "enGB": "Brave, clever, and frequently foolhardy gunslingers are thunderous artillery, often found where the fighting is fiercest.",
+    "zhCN": "勇敢、机敏且常常鲁莽的铳士是雷鸣般的炮手，常出没于战斗最激烈之处。"
+  },
+  {
+    "Key": "Grit.Name",
+    "enGB": "Grit",
+    "zhCN": "勇毅"
+  },
+  {
+    "Key": "Grit.Description",
+    "enGB": "A gunslinger makes her mark upon the world with daring deeds. Some gunslingers claim they belong to a mystical way of the gun, but it's more likely that the volatile nature of firearms simply prunes the unlucky and careless from their ranks. Whatever the reason, all gunslingers have grit. In game terms, grit is a fluctuating measure of a gunslinger's ability to perform amazing actions in combat. At the start of each day, a gunslinger gains a number of grit points equal to her Wisdom modifier (minimum 1). Her grit goes up or down throughout the day, but usually cannot go higher than her Wisdom modifier (minimum 1), though some feats and magic items may affect this maximum. A gunslinger spends grit to accomplish deeds (see below), and regains grit in the following ways.\r\n\r\nCritical Hit with a Firearm: Each time the gunslinger confirms a critical hit with a firearm attack while in the heat of combat, she regains 1 grit point.\r\n\r\nKilling Blow with a Firearm: When the gunslinger reduces a creature to 0 or fewer hit points with a firearm attack while in the heat of combat, she regains 1 grit point.",
+    "zhCN": "铳士以大胆的炫技在世界上留下自己的印记。有些铳士声称她们属于某种神秘的枪之大道，但更可能的是，火器的不稳定性只会淘汰掉不幸和粗心的人。无论何种原因，所有铳士都拥有勇毅。在游戏术语中，勇毅是一个用来衡量铳士在战斗中完成惊人动作能力的浮动值。每天开始时，铳士获得等于其感知调整值（最低1点）的勇毅值。她的勇毅值会在一天中上下浮动，但通常不能高于她的感知调整值（最低1点），尽管某些专长和魔法物品可能影响此上限。铳士花费勇毅值来执行炫技（见下文），并通过以下方式回复勇毅。\r\n\r\n火器造成重击：每次铳士在战斗中用火器攻击确认重击，她回复1点勇毅值。\r\n\r\n火器完成击杀：当铳士在战斗中用火器攻击将一个生物的生命值降至0或更低时，她回复1点勇毅值。"
+  },
+  {
+    "Key": "Grit.Description.Short",
+    "enGB": "At the start of each day, a gunslinger gains a number of grit points equal to her Wisdom modifier (minimum 1). Her grit goes up or down throughout the day, but usually cannot go higher than her Wisdom modifier (minimum 1)",
+    "zhCN": "每天开始时，铳士获得等于其感知调整值（最低1点）的勇毅值。她的勇毅值会在一天中上下浮动，但通常不能高于她的感知调整值（最低1点）"
+  },
+  {
+    "Key": "Grit.Cha.Description",
+    "enGB": "Instead of using her Wisdom modifier to determine the number of grit points she gains at the start of each day, she uses her Charisma modifier. This ability works in all other ways like the gunslinger’s grit class feature.",
+    "zhCN": "她在每天开始时获得勇毅值的数量改为由其魅力调整值决定，而非感知调整值。在其他所有方面，此能力运作方式皆与铳士的勇毅职业特性相同。"
+  },
+  {
+    "Key": "Grit.Cha.Description.Short",
+    "enGB": "At the start of each day, a gunslinger gains a number of grit points equal to her Charisma modifier (minimum 1). Her grit goes up or down throughout the day, but usually cannot go higher than her Charisma modifier (minimum 1)",
+    "zhCN": "每天开始时，铳士获得等于其魅力调整值（最低1点）的勇毅值。她的勇毅值会在一天中上下浮动，但通常不能高于她的魅力调整值（最低1点）"
+  },
+  {
+    "Key": "TrueGrit.Name",
+    "enGB": "True Grit",
+    "zhCN": "纯正勇毅"
+  },
+  {
+    "Key": "TrueGrit.Description",
+    "enGB": "At 20th level, a gunslinger recoveres 1 grit each time she spends it allowing her to perform deeds for 1 grit less so long as she has enough grit to perform them at their standard cost.",
+    "zhCN": "20级时，铳士每次花费勇毅值时回复1点，这使她只要拥有足以支付炫技标准消耗的勇毅值，就可以以少花费1点勇毅的代价执行炫技。"
+  },
+  {
+    "Key": "GunTraining.Name",
+    "enGB": "Gun Training",
+    "zhCN": "枪械训练"
+  },
+  {
+    "Key": "GunTraining.Description",
+    "enGB": "Starting at 5th level, a gunslinger gains a bonus equal to her Dexterity modifier on damage rolls with firearms.",
+    "zhCN": "从5级开始，铳士在火器的伤害检定上获得等于其敏捷调整值的加值。"
+  },
+  {
+    "Key": "Nimble.Name",
+    "enGB": "Nimble",
+    "zhCN": "机敏"
+  },
+  {
+    "Key": "Nimble.Description",
+    "enGB": "Starting at 2nd level, a gunslinger gains a +1 dodge bonus to AC while wearing light or no armor. Anything that causes the gunslinger to lose her Dexterity bonus to AC also causes the gunslinger to lose this dodge bonus. This bonus increases by +1 for every four levels beyond 2nd level (to a maximum of +5 at 20th level).",
+    "zhCN": "从2级开始，铳士在穿戴轻型盔甲或无甲时，AC获得+1闪避加值。任何导致铳士失去AC敏捷加值的情况也会使她失去此闪避加值。此加值在2级后每4级额外+1（20级时达到最大+5）。"
+  },
+  {
+    "Key": "Nimble.Buff.Name",
+    "enGB": "AC Bonus (Nimble)",
+    "zhCN": "AC加值（机敏）"
+  },
+  {
+    "Key": "Buccaneer.SeaDog.Name",
+    "enGB": "Seadog's Gait",
+    "zhCN": "老水手步法"
+  },
+  {
+    "Key": "Buccaneer.SeaDog.Description",
+    "enGB": "At 1st level, the buccaneer gains a +2 bonus on mobility checks. If she spends 1 grit point, she can ignore difficult terrain until the end of her turn. This replaces the quick clear deed.",
+    "zhCN": "1级时，海盗在机动检定上获得+2加值。若她花费1点勇毅值，则可以在其回合结束前忽略困难地形。此能力取代快速清膛炫技。"
+  },
+  {
+    "Key": "Buccaneer.SeaDog.Ability.Description",
+    "enGB": "Spend 1 grit point, to ignore difficult terrain until the end of your turn",
+    "zhCN": "花费1点勇毅值，在其回合结束前忽略困难地形"
+  },
+  {
+    "Key": "Buccaneer.Jargon.Name",
+    "enGB": "Pirate’s Jargon",
+    "zhCN": "海盗行话"
+  },
+  {
+    "Key": "Buccaneer.Jargon.Description",
+    "enGB": "At 3rd level, the buccaneer’s baffling palaver of nautical jargon and piratical cant provides a +2 bonus on Bluff and Intimidate checks. Furthermore, she can spend a swift action and 1 grit point to cause a single living creature within 30 feet to make a Will saving throw (DC = 10 + 1/2 her buccaneer level + her Charisma modifier) or become confused for 1 round. This is a mind-affecting language-dependent effect.",
+    "zhCN": "3级时，海盗口中那套令人摸不着头脑的航海术语与海盗黑话使其在欺骗和威吓检定上获得+2加值。此外，她可以用一个迅捷动作并花费1点勇毅值，使30尺内的一个活物进行一次意志豁免（DC = 10 + 1/2海盗等级 + 她的魅力调整值），若未通过则困惑1轮。此为影响心灵且依赖语言的效果。"
+  },
+  {
+    "Key": "Buccaneer.Jargon.Ability.Description",
+    "enGB": "Spend a swift action and 1 grit point to cause a single living creature within 30 feet to make a Will saving throw (DC = 10 + 1/2 her buccaneer level + her Charisma modifier) or become confused for 1 round. This is a mind-affecting language-dependent effect.",
+    "zhCN": "以迅捷动作花费1点勇毅值，使30尺内的一个活物进行一次意志豁免（DC = 10 + 1/2海盗等级 + 她的魅力调整值），若未通过则困惑1轮。此为影响心灵且依赖语言的效果。"
+  },
+  {
+    "Key": "Buccaneer.Grog.Name",
+    "enGB": "Liquid Courage",
+    "zhCN": "借酒壮胆"
+  },
+  {
+    "Key": "Buccaneer.Grog.Description",
+    "enGB": "At 2nd level, a buccaneer gains the ability to fortify her grit with strong drink. The act of drinking is a standard action that provokes attacks of opportunity, and each drink provides 1 grog point. Grog points can be used in place of grit points to fuel deeds or grit feats (including those requiring a minimum of 1 grit point to use). The buccaneer can gain a maximum number of grog points each day equal to her Constitution modifier (minimum 1), and they last for 1 hour or until used, whichever comes first. She gains a morale bonus on saves against fear and a dodge bonus to AC against attacks of opportunity equal to her current grog point total. This ability replaces the nimble ability.",
+    "zhCN": "2级时，海盗获得了饮用烈酒来激发勇毅的能力。饮酒是一个会引发借机攻击的标准动作，每喝一次便获得1点烈酒点。烈酒点可代替勇毅点用于驱动炫技或勇毅专长（包括那些需要至少拥有1点勇毅值才能使用的能力）。海盗每天可获得的烈酒点上限等于其体质调整值（最低1点），持续1小时或直至消耗完毕，以先到者为准。她在对抗恐惧的豁免检定上获得士气加值，并在对抗借机攻击时获得AC闪避加值，数值等于其当前拥有的烈酒点总数。此能力取代机敏能力。"
+  },
+  {
+    "Key": "Buccaneer.Grog.Buff.Name",
+    "enGB": "Grog",
+    "zhCN": "烈酒"
+  },
+  {
+    "Key": "Buccaneer.Name",
+    "enGB": "Buccaneer",
+    "zhCN": "海盗"
+  },
+  {
+    "Key": "Buccaneer.Description",
+    "enGB": "Freebooters who cling to the convoluted codes that rule independent ships, the buccaneer is a gunslinger of the high seas. Their exploits are fueled by the thrill of danger and often by the temporary courage provided by grog.",
+    "zhCN": "作为信奉独立船只间繁复戒律的亡命之徒，海盗乃是大洋之上的铳士。惊心动魄的危险滋养着他们的壮举，而劣酒所带来的短暂勇气更屡屡为其推波助澜。"
+  },
+  {
+    "Key": "Mythos.WarpSpace.Name",
+    "enGB": "Warp Space",
+    "zhCN": "扭曲空间"
+  },
+  {
+    "Key": "Mythos.WarpSpace.Description",
+    "enGB": "Gateways between planes can warp the space around them interfering with normal teleportation yet to one with true understanding that distorted space can allow for a whole other kind of transport. This ability can be used at will and functions as dimension door however it can only be used while under the effects of Tear Proximity.",
+    "zhCN": "位面之间的通道会扭曲周遭的空间并干扰常规的传送术，但对真正掌握其精妙之人而言，这种扭曲的空间反倒能实现某种全然不同的位移方式。此能力可随意使用，效果如同任意门，但唯有处于“临近裂隙”状态下时方可施展。"
+  },
+  {
+    "Key": "Mythos.WarpSpace.Description.Short",
+    "enGB": "This ability can be used at will and functions as dimension door however it can only be used while under the effects of Tear Proximity.",
+    "zhCN": "此能力可随意使用，效果如同任意门，但唯有处于“临近裂隙”状态下时方可施展。"
+  },
+  {
+    "Key": "Finnean",
+    "enGB": "Finnean the Talking Weapon",
+    "zhCN": "话痨武器芬恩"
+  },
+  {
+    "Key": "Finnean.Lich",
+    "enGB": "Finnean",
+    "zhCN": "芬恩"
+  },
+  {
+    "Key": "Finnean.Lich.Flavor",
+    "enGB": "This weapon was once the seat of Finnean's soul. Now that the soul of the Sarkorian Pathfinder has left the weapon, it has fallen silent forever.",
+    "zhCN": "这把武器曾是芬恩灵魂的居所。如今，萨克里斯探索者的灵魂已离它而去，武器陷入了永恒的沉寂。"
+  },
+  {
+    "Key": "AberrantBile.Name",
+    "enGB": "Aberrant Bile",
+    "zhCN": "异化胆汁"
+  },
+  {
+    "Key": "AberrantBile.Description",
+    "enGB": "Aberrant bile has  worked its way into your lungs. Dealing 2 inteligence damage once per hour requires 3 successful fortitude saves to cure.",
+    "zhCN": "异化胆汁渗入了你的肺部。每小时造成2点智力伤害，需要成功通过3次强韧豁免方可治愈。"
+  },
+  {
+    "Key": "Plot.Leave",
+    "enGB": "Leave",
+    "zhCN": "离开"
+  },
+  {
+    "Key": "Plot.Continue",
+    "enGB": "Continue.",
+    "zhCN": "继续。"
+  },
+  {
+    "Key": "SpellscarDrifter.Name",
+    "enGB": "Spellscar Drifter",
+    "zhCN": "法痕流浪者"
+  },
+  {
+    "Key": "SpellscarDrifter.Description",
+    "enGB": "The Spellscar Desert is a dangerous wasteland into which few venture without a guide. Spellscar drifters have made themselves at home in these badlands. When not scouring the desert for forgotten treasures or magic hidden by the region's shifting magic-dead zones, a Spellscar drifter might hire himself out as a guide, bodyguard, or assassin. There are even a few Spellscar drifters who are temporarily deputized by the Grand Duchy of Alkenstar to perform law enforcement tasks beyond the reach of the city's normal constabulary. Spellscar drifters are self-reliant and always keep their firearms loaded in the Spellscar Desert, a rider with a slow draw doesn't live long.",
+    "zhCN": "法痕荒漠是一片危机四伏的废土，鲜有人敢在没有向导的情况下涉足其中。法痕流浪者却在这片不毛之地如鱼得水。当不在荒漠中搜寻被遗忘的宝藏，或是发掘被当地游移不定的死魔法区所掩埋的秘法时，法痕流浪者也会受雇充当向导、保镖或刺客。甚至有少数法痕流浪者会接受阿尔肯星大公国的临时委派，去执行城中寻常警备队力所不及的执法任务。法痕流浪者凡事皆靠自己，在法痕荒漠中枪械永远处于装填就绪的状态——毕竟拔枪慢半拍的枪手可活不长久。"
+  },
+  {
+    "Key": "SpellscarDrifter.Description.Short",
+    "enGB": "Spellscar drifters are self-reliant and always keep their firearms loaded in the Spellscar Desert, a rider with a slow draw doesn't live long.",
+    "zhCN": "法痕流浪者凡事皆靠自己，在法痕荒漠中枪械永远处于装填就绪的状态——毕竟拔枪慢半拍的枪手可活不长久。"
+  },
+  {
+    "Key": "ToughAsNails.Name",
+    "enGB": "Tough As Nails",
+    "zhCN": "坚毅硬汉"
+  },
+  {
+    "Key": "ToughAsNails.Description",
+    "enGB": "At 20th level, if the Spellscar drifter confirms a critical hit on an attack made with a firearm, the target is stunned for 1d4 rounds. A successful Will saving throw (DC = 10 + the Spellscar drifter's base attack bonus) reduces this effect to staggered instead of stunned",
+    "zhCN": "20级起，若法痕流浪者使用火器发动的攻击确认重击，目标将震慑1d4轮。成功的意志豁免（DC = 10 + 法痕流浪者的基本攻击加值）可将该效果减轻为恍惚而非震慑。"
+  },
+  {
+    "Key": "ToughAsNails.Description.Short",
+    "enGB": "The Spellscar drifter can stun or stagger an enemy on a critical hit with a firearm.",
+    "zhCN": "法痕流浪者在使用火器造成重击时，可令敌人陷入震慑或恍惚。"
+  },
+  {
+    "Key": "SpellSevered.Name",
+    "enGB": "Spell Severed",
+    "zhCN": "魔力断绝"
+  },
+  {
+    "Key": "SpellSevered.Description",
+    "enGB": "At 12th level, a Spellscar drifter becomes permanently marked by long exposure to the Spellscar Desert. The Spellscar drifter gains spell resistance equal to 10 + her character level.",
+    "zhCN": "12级起，长年累月暴露在法痕荒漠的环境中，使法痕流浪者留下了永久的异质烙印。法痕流浪者获得等于10 + 其角色等级的法术抗力。"
+  },
+  {
+    "Key": "SpellSevered.Description.Short",
+    "enGB": "The Spellscar drifter gains spell resistance equal to 10 + her character level.",
+    "zhCN": "法痕流浪者获得等于10 + 其角色等级的法术抗力。"
+  },
+  {
+    "Key": "OldReliable.Name",
+    "enGB": "Old Reliable",
+    "zhCN": "忠实老伙计"
+  },
+  {
+    "Key": "OldReliable.Description",
+    "enGB": "At 11th level, whenever a Spellscar drifter declares a challenge, the threat range of the Spellscar drifter's firearm is doubled against the target of her challenge. This increase does not stack with other effects that double the threat range of the weapon.",
+    "zhCN": "11级起，每当法痕流浪者发起挑战时，其持用的火器针对其挑战目标的威胁范围翻倍。此增幅不与其它使武器威胁范围翻倍的效果叠加。"
+  },
+  {
+    "Key": "OldReliable.Description.Short",
+    "enGB": "The threat range of the Spellscar drifter's firearms is doubled against the target of her challenge.",
+    "zhCN": "法痕流浪者针对其挑战目标时，其火器的威胁范围翻倍。"
+  },
+  {
+    "Key": "OrderOfTheEasternStar.Name",
+    "enGB": "Order of the Eastern Star",
+    "zhCN": "东方之星骑士团"
+  },
+  {
+    "Key": "OrderOfTheEasternStar.Description",
+    "enGB": "This cavalier order exists to keep dangerous secrets hidden from the world and secretly protect the world against unimaginable threats from beyond the mortal realms. These cavaliers scout and observe, concerning themselves not with the trivial pursuit of morality, but rather with ensuring the survival of society itself. Edicts: The cavalier must preserve the secrets of his order while acting to protect civilization against occult threats. He must thwart the schemes of otherworldly horrors and must give his order a full accounting of any potential threats.",
+    "zhCN": "该骑士团的存在旨在将凶险的秘辛深埋于世，并暗中庇御这方天地免遭来自凡俗界域之外不可名状的恐怖侵害。这些骑士充当斥候并密切监视，从不将心思耗费在繁文缛节的道德教条上，而是矢志确保整个人类社会得以存续。教条：骑士必须恪守其骑士团的机密，同时奋身庇护文明免遭神秘异象的威胁。他必须挫败异界可怖存在的阴谋，并向其所属的骑士团巨细靡遗地汇报任何潜在隐患。"
+  },
+  {
+    "Key": "CavalierEasternStarChallenge.Name",
+    "enGB": "Challenge",
+    "zhCN": "挑战"
+  },
+  {
+    "Key": "CavalierEasternStarChallenge.Description",
+    "enGB": "Whenever a cavalier of the order of the eastern star issues a challenge, she receives a +1 dodge bonus to AC and a +1 insight bonus on saves against the attacks and abilities of the target of his challenge. She must be wearing light armor or no armor to receive these bonuses. These bonuses increase by 1 for every 4 class levels the cavalier possesses.",
+    "zhCN": "每当东方之星骑士团的骑士发起挑战时，在对抗其挑战目标的攻击与能力时，其AC获得+1闪避加值，豁免检定获得+1洞察加值。她必须穿戴轻型盔甲或无甲才能获得这些加值。骑士每拥有4个职业等级，这些加值便再提升1点。"
+  },
+  {
+    "Key": "CavalierEasternStarSkills.Name",
+    "enGB": "Skills",
+    "zhCN": "技能"
+  },
+  {
+    "Key": "CavalierEasternStarSkills.Description",
+    "enGB": "A cavalier belonging to the order of the eastern star adds Knowledge (arcana) to her class skills. She receives a bonus on Knowledge (arcana) checks equal to 1/2 his cavalier level (minimum +1).",
+    "zhCN": "隶属于东方之星骑士团的骑士将知识（神秘）加入其本职技能。她在知识（神秘）检定上获得等于其骑士等级一半的加值（最低+1）。"
+  },
+  {
+    "Key": "CavalierEasternStarGuarded.Name",
+    "enGB": "Guarded",
+    "zhCN": "戒备体势"
+  },
+  {
+    "Key": "CavalierEasternStarGuarded.Description",
+    "enGB": "At 2nd level, the cavalier gains DR 1/- and a +2 morale bonus on saving throws when wearing light armor or no armor and fighting defensively or using Combat Expertise. At 6th level and every 4 levels thereafter, this DR increases by 1.",
+    "zhCN": "2级起，当穿戴轻型盔甲或无甲，且处于全防御或使用战斗专长防御姿态时，骑士获得DR 1/-，并在豁免检定上获得+2士气加值。在6级以及之后每提升4级，此DR均额外提升1点。"
+  },
+  {
+    "Key": "CavalierEasterStarPierceTheGuard.Name",
+    "enGB": "Pierce the Guard",
+    "zhCN": "破防之刺"
+  },
+  {
+    "Key": "CavalierEasterStarPierceTheGuard.Description",
+    "enGB": "At 8th level, the cavalier's weapons are treated as having the cavalier's {g|Encyclopedia:Alignment}alignment{/g} for the purpose of overcoming the {g|Encyclopedia:Damage_Reduction}damage reduction{/g} of extraplaner creatures. Against an extraplaner target of her challenge, the cavalier automatically overcomes all damage reduction that creature possesses.",
+    "zhCN": "8级起，在克服异界生物的{g|Encyclopedia:Damage_Reduction}伤害减免{/g}时，骑士的武器视同具备骑士自身的{g|Encyclopedia:Alignment}阵营{/g}属性。对抗其挑战的异界目标时，骑士自动穿透该生物拥有的所有伤害减免。"
+  },
+  {
+    "Key": "CavalierEasternStarOnePurpose.Name",
+    "enGB": "One Purpose",
+    "zhCN": "戮力同心"
+  },
+  {
+    "Key": "CavalierEasternStarOnePurpose.Description",
+    "enGB": "At 15th level, the cavalier's mount shares the benefits of the cavalier's guarded ability. The cavalier must fight defensively or use Combat Expertise to grant these benefits, but the mount need not. In addition, the mount gains all the benefits of the cavalier's challenge.",
+    "zhCN": "15级起，骑士的坐骑可共享骑士“戒备体势”能力带来的增益。骑士必须处于全防御或使用战斗专长防御姿态方可赋予这些增益，但坐骑本身无需如此。此外，坐骑还能获得骑士“挑战”能力带来的全部益处。"
+  }
 ]
