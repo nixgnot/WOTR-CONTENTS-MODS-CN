@@ -8,7 +8,7 @@
   {
     "Key": "ChaToDamage.Description",
     "enGB": "The Redditor adds his {g|Encyclopedia:Charisma}Charisma{/g} bonus (if any) to his damage.",
-    "zhCN": "贴吧老哥将其{g|Encyclopedia:Charisma}魅力{/g}调整值（如果有） 加到其伤害。"
+    "zhCN": "贴吧老哥将其{g|Encyclopedia:Charisma}魅力{/g}调整值（如果有）加到其伤害。"
   },
   {
     "Key": "ChaToBAB.Name",
@@ -19,7 +19,7 @@
   {
     "Key": "ChaToBAB.Description",
     "enGB": "The Redditor adds his {g|Encyclopedia:Charisma}Charisma{/g} bonus (if any) to his {g|Encyclopedia:BaseAttackBonus}Base Attack Bonus{/g}.",
-    "zhCN": "贴吧老哥将其{g|Encyclopedia:Charisma}魅力{/g}调整值（如果有） 加到其{g|Encyclopedia:BaseAttackBonus}基本攻击加值{/g}。"
+    "zhCN": "贴吧老哥将其{g|Encyclopedia:Charisma}魅力{/g}调整值（如果有）加到其{g|Encyclopedia:BaseAttackBonus}基本攻击加值{/g}。"
   },
   {
     "Key": "ChaToCrit.Name",
@@ -30,7 +30,7 @@
   {
     "Key": "ChaToCrit.Description",
     "enGB": "The Redditor adds his {g|Encyclopedia:Charisma}Charisma{/g} bonus (if any) to his Critical bonus.",
-    "zhCN": "贴吧老哥将其{g|Encyclopedia:Charisma}魅力{/g}调整值（如果有） 加到其重击范围。"
+    "zhCN": "贴吧老哥将其{g|Encyclopedia:Charisma}魅力{/g}调整值（如果有）加到其重击范围。"
   },
   {
     "Key": "ChaToSR.Name",
@@ -41,7 +41,7 @@
   {
     "Key": "ChaToSR.Description",
     "enGB": "The Redditor adds his {g|Encyclopedia:Charisma}Charisma{/g} bonus (if any) to his Spell Resistance.",
-    "zhCN": "贴吧老哥将其{g|Encyclopedia:Charisma}魅力{/g}调整值（如果有） 加到其法术抗力。"
+    "zhCN": "贴吧老哥将其{g|Encyclopedia:Charisma}魅力{/g}调整值（如果有）加到其法术抗力。"
   },
   {
     "Key": "ChaToDR.Name",
@@ -63,7 +63,7 @@
   {
     "Key": "ChaToSpellPen.Description",
     "enGB": "The Redditor adds his {g|Encyclopedia:Charisma}Charisma{/g} bonus (if any) to his Spell Penetration. ",
-    "zhCN": "贴吧老哥将其{g|Encyclopedia:Charisma}魅力{/g}调整值（如果有） 加到其法术穿透。"
+    "zhCN": "贴吧老哥将其{g|Encyclopedia:Charisma}魅力{/g}调整值（如果有）加到其法术穿透。"
   },
   {
     "Key": "ChaToSpellDC.Name",
@@ -74,7 +74,7 @@
   {
     "Key": "ChaToSpellDC.Description",
     "enGB": "The Redditor adds his {g|Encyclopedia:Charisma}Charisma{/g} bonus (if any) to his spell's DC. ",
-    "zhCN": "贴吧老哥将其{g|Encyclopedia:Charisma}魅力{/g}调整值（如果有） 加到其法术DC。"
+    "zhCN": "贴吧老哥将其{g|Encyclopedia:Charisma}魅力{/g}调整值（如果有）加到其法术DC。"
   },
   {
     "Key": "ChaToChaCap.Name",
@@ -85,7 +85,7 @@
   {
     "Key": "ChaToChaCap.Description",
     "enGB": "The Redditor adds his {g|Encyclopedia:Charisma}Charisma{/g} bonus (if any) to his {g|Encyclopedia:Charisma}Charisma{/g}, again!.",
-    "zhCN": "贴吧老哥将其{g|Encyclopedia:Charisma}魅力{/g}调整值（如果有） 加到其{g|Encyclopedia:Charisma}魅力{/g}，对，再加一次！"
+    "zhCN": "贴吧老哥将其{g|Encyclopedia:Charisma}魅力{/g}调整值（如果有）加到其{g|Encyclopedia:Charisma}魅力{/g}，对，再加一次！"
   },
   {
     "Key": "redditor.spellbook.name",
@@ -1519,7 +1519,7 @@
     "Key": "CrackDustyRosePrismItem.name",
     "ProcessTemplates": false,
     "enGB": "Cracked Dusty Rose Prism - Ioun Stone",
-    "zhCN": "暗淡蔷薇棱晶（裂纹） - 艾恩石"
+    "zhCN": "暗淡蔷薇棱晶（裂纹）- 艾恩石"
   },
   {
     "Key": "CrackDustyRosePrismItem.description",
@@ -1885,7 +1885,7 @@
     "Key": "ChaToCha.Description",
     "ProcessTemplates": true,
     "enGB": "The Redditor adds his {g|Encyclopedia:Charisma}Charisma{/g} bonus (if any) to his {g|Encyclopedia:Charisma}Charisma{/g}.",
-    "zhCN": "贴吧老哥将其{g|Encyclopedia:Charisma}魅力{/g}调整值（如果有） 加到其{g|Encyclopedia:Charisma}魅力{/g}。"
+    "zhCN": "贴吧老哥将其{g|Encyclopedia:Charisma}魅力{/g}调整值（如果有）加到其{g|Encyclopedia:Charisma}魅力{/g}。"
   },
   {
     "Key": "ChaToAC.Name",
@@ -1897,7 +1897,7 @@
     "Key": "ChaToAC.Description",
     "ProcessTemplates": true,
     "enGB": "The Redditor adds his {g|Encyclopedia:Charisma}Charisma{/g} bonus (if any) to his {g|Encyclopedia:Armor_Class}AC{/g}.",
-    "zhCN": "贴吧老哥将其{g|Encyclopedia:Charisma}魅力{/g}调整值（如果有） 加到其{g|Encyclopedia:Armor_Class}AC{/g}。"
+    "zhCN": "贴吧老哥将其{g|Encyclopedia:Charisma}魅力{/g}调整值（如果有）加到其{g|Encyclopedia:Armor_Class}AC{/g}。"
   },
   {
     "Key": "ChaToStr.Name",
@@ -1909,7 +1909,7 @@
     "Key": "ChaToStr.Description",
     "ProcessTemplates": true,
     "enGB": "The Redditor adds his {g|Encyclopedia:Charisma}Charisma{/g} bonus (if any) to his {g|Encyclopedia:Strength}Strength{/g}.",
-    "zhCN": "贴吧老哥将其{g|Encyclopedia:Charisma}魅力{/g}调整值（如果有） 加到其{g|Encyclopedia:Strength}力量{/g}。"
+    "zhCN": "贴吧老哥将其{g|Encyclopedia:Charisma}魅力{/g}调整值（如果有）加到其{g|Encyclopedia:Strength}力量{/g}。"
   },
   {
     "Key": "ChaToDex.Name",
@@ -1921,7 +1921,7 @@
     "Key": "ChaToDex.Description",
     "ProcessTemplates": true,
     "enGB": "The Redditor adds his {g|Encyclopedia:Charisma}Charisma{/g} bonus (if any) to his {g|Encyclopedia:Dexterity}Dexterity{/g}.",
-    "zhCN": "贴吧老哥将其{g|Encyclopedia:Charisma}魅力{/g}调整值（如果有） 加到其{g|Encyclopedia:Dexterity}敏捷{/g}。"
+    "zhCN": "贴吧老哥将其{g|Encyclopedia:Charisma}魅力{/g}调整值（如果有）加到其{g|Encyclopedia:Dexterity}敏捷{/g}。"
   },
   {
     "Key": "ChaToCon.Name",
@@ -1933,7 +1933,7 @@
     "Key": "ChaToCon.Description",
     "ProcessTemplates": true,
     "enGB": "The Redditor adds his {g|Encyclopedia:Charisma}Charisma{/g} bonus (if any) to his {g|Encyclopedia:Constitution}Constitution{/g}.",
-    "zhCN": "贴吧老哥将其{g|Encyclopedia:Charisma}魅力{/g}调整值（如果有） 加到其{g|Encyclopedia:Constitution}体质{/g}。"
+    "zhCN": "贴吧老哥将其{g|Encyclopedia:Charisma}魅力{/g}调整值（如果有）加到其{g|Encyclopedia:Constitution}体质{/g}。"
   },
   {
     "Key": "ChaToInt.Name",
@@ -1945,7 +1945,7 @@
     "Key": "ChaToInt.Description",
     "ProcessTemplates": true,
     "enGB": "The Redditor adds his {g|Encyclopedia:Charisma}Charisma{/g} bonus (if any) to his {g|Encyclopedia:Intelligence}Intelligence{/g}.",
-    "zhCN": "贴吧老哥将其{g|Encyclopedia:Charisma}魅力{/g}调整值（如果有） 加到其{g|Encyclopedia:Intelligence}智力{/g}。"
+    "zhCN": "贴吧老哥将其{g|Encyclopedia:Charisma}魅力{/g}调整值（如果有）加到其{g|Encyclopedia:Intelligence}智力{/g}。"
   },
   {
     "Key": "ChaToWis.Name",
@@ -1957,7 +1957,7 @@
     "Key": "ChaToWis.Description",
     "ProcessTemplates": true,
     "enGB": "The Redditor adds his {g|Encyclopedia:Charisma}Charisma{/g} bonus (if any) to his {g|Encyclopedia:Wisdom}Wisdom{/g}.",
-    "zhCN": "贴吧老哥将其{g|Encyclopedia:Charisma}魅力{/g}调整值（如果有） 加到其{g|Encyclopedia:Wisdom}感知{/g}。"
+    "zhCN": "贴吧老哥将其{g|Encyclopedia:Charisma}魅力{/g}调整值（如果有）加到其{g|Encyclopedia:Wisdom}感知{/g}。"
   },
   {
     "Key": "ChaToSaves.Name",
@@ -1969,7 +1969,7 @@
     "Key": "ChaToSaves.Description",
     "ProcessTemplates": true,
     "enGB": "The Redditor adds his {g|Encyclopedia:Charisma}Charisma{/g} bonus (if any) to his {g|Encyclopedia:SaveFortitude}Fortitude{/g}, {g|Encyclopedia:SaveReflex}Reflex{/g}, and {g|Encyclopedia:SaveWill}Will{/g} saves.",
-    "zhCN": "贴吧老哥将其{g|Encyclopedia:Charisma}魅力{/g}调整值（如果有） 加到其{g|Encyclopedia:SaveFortitude}强韧{/g}。{g|Encyclopedia:SaveReflex}反射{/g}和{g|Encyclopedia:SaveWill}意志{/g}豁免。"
+    "zhCN": "贴吧老哥将其{g|Encyclopedia:Charisma}魅力{/g}调整值（如果有）加到其{g|Encyclopedia:SaveFortitude}强韧{/g}。{g|Encyclopedia:SaveReflex}反射{/g}和{g|Encyclopedia:SaveWill}意志{/g}豁免。"
   },
   {
     "Key": "ChaToInit.Name",
@@ -1981,7 +1981,7 @@
     "Key": "ChaToInit.Description",
     "ProcessTemplates": true,
     "enGB": "The Redditor adds his {g|Encyclopedia:Charisma}Charisma{/g} bonus (if any) to his {g|Encyclopedia:Initiative}Initiative{/g}.",
-    "zhCN": "贴吧老哥将其{g|Encyclopedia:Charisma}魅力{/g}调整值（如果有） 加到其{g|Encyclopedia:Initiative}先攻{/g}。"
+    "zhCN": "贴吧老哥将其{g|Encyclopedia:Charisma}魅力{/g}调整值（如果有）加到其{g|Encyclopedia:Initiative}先攻{/g}。"
   },
   {
     "Key": "ChaToSpeed.Name",
@@ -1993,7 +1993,7 @@
     "Key": "ChaToSpeed.Description",
     "ProcessTemplates": true,
     "enGB": "The Redditor adds his {g|Encyclopedia:Charisma}Charisma{/g} bonus (if any) to his {g|Encyclopedia:Speed}Speed{/g}.",
-    "zhCN": "贴吧老哥将其{g|Encyclopedia:Charisma}魅力{/g}调整值（如果有） 加到其{g|Encyclopedia:Speed}速度{/g}。"
+    "zhCN": "贴吧老哥将其{g|Encyclopedia:Charisma}魅力{/g}调整值（如果有）加到其{g|Encyclopedia:Speed}速度{/g}。"
   },
   {
     "Key": "ChaToSkills.Name",
@@ -2005,7 +2005,7 @@
     "Key": "ChaToSkills.Description",
     "ProcessTemplates": true,
     "enGB": "The Redditor adds his {g|Encyclopedia:Charisma}Charisma{/g} bonus (if any) to his skills.",
-    "zhCN": "贴吧老哥将其{g|Encyclopedia:Charisma}魅力{/g}调整值（如果有） 加到其所有技能。"
+    "zhCN": "贴吧老哥将其{g|Encyclopedia:Charisma}魅力{/g}调整值（如果有）加到其所有技能。"
   },
   {
     "Key": "redditor.name",
