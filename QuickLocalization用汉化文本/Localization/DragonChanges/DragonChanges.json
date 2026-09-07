@@ -1,1850 +1,1146 @@
 [
   {
-    "Key": "PowerfulThrow.name",
-    "ProcessTemplates": false,
-    "enGB": "Powerful Throw",
-    "zhCN": "强力投掷"
-  },
-
-  {
-    "Key": "PowerfulThrow.description",
-    "enGB": "You may use your {g}Strength{/g} modifier in place of your {g}Dexterity{/g} modifier for your attack rolls when making a ranged attack with thrown weapons. You may also use the Power Attack feat instead of the Deadly Aim feat when attacking with thrown weapons.",
-    "zhCN": "你使用{g}力量{/g}调整值取代{g}敏捷{/g}调整值，来计算使用投掷武器时的远程攻击检定。同时你也可以对远程投掷武器应用猛力攻击专长，来替代致命瞄准。"
-  },
-
-  {
-    "Key": "undeadmountfeature.name",
-    "ProcessTemplates": false,
-    "enGB": "Animal Companion - Undead Horse",
-    "zhCN": "动物伙伴 （亡灵战马）"
-  },
-
-  {
-    "Key": "undeadmountfeature.description",
-        "enGB": "{g|Encyclopedia:Size}Size{/g}: Large\n{g|Encyclopedia:Speed}Speed{/g}: 50 ft.\n{g|Encyclopedia:Armor_Class}AC{/g}: +4 natural armor\n{g|Encyclopedia:Attack}Attacks{/g}: bite ({g|Encyclopedia:Dice}1d4{/g}), 2 hooves (1d6)\n{g|Encyclopedia:Ability_Scores}Ability scores{/g}: {g|Encyclopedia:Strength}Str{/g} 16, {g|Encyclopedia:Dexterity}Dex{/g} 13, {g|Encyclopedia:Constitution}Con{/g} 15, {g|Encyclopedia:Intelligence}Int{/g} 2, {g|Encyclopedia:Wisdom}Wis{/g} 12, {g|Encyclopedia:Charisma}Cha{/g} 6\nSpecial qualities: {g|Encyclopedia:Scent}scent{/g}\nAt 4th level, a horse gains Str +2 and Con +2 and its hoof attacks become primary.\nWhen riding a horse, you gain a +1 {g|Encyclopedia:Bonus}bonus{/g} to AC and on attack rolls against enemies of Medium size or smaller.",
-        "zhCN": "{g|Encyclopedia:Size}体型{/g}：大型\n{g|Encyclopedia:Speed}速度{/g}: 50 尺.\n{g|Encyclopedia:Armor_Class}防御等级{/g}: +4 天生防御\n{g|Encyclopedia:Attack}攻击{/g}: 啮咬 ({g|Encyclopedia:Dice}1d4{/g}), 2 蹄踢 (1d6)\n{g|Encyclopedia:Ability_Scores}属性值{/g}: {g|Encyclopedia:Strength}力量{/g} 16, {g|Encyclopedia:Dexterity}敏捷{/g} 13, {g|Encyclopedia:Constitution}体质{/g} 15, {g|Encyclopedia:Intelligence}智力{/g} 2, {g|Encyclopedia:Wisdom}感知{/g} 12, {g|Encyclopedia:Charisma}魅力{/g} 6\n特性: {g|Encyclopedia:Scent}灵敏嗅觉{/g}\n达到4级后，马的力量+2，体质+2，蹄踢成为主要攻击。\n骑马对抗中等体型或更小的敌人时，防御等级与攻击检定获得+1{g|Encyclopedia:Bonus}加值{/g}。"
-  },
-
-  {
-    "Key": "unicornmountfeature.name",
-    "ProcessTemplates": false,
-    "enGB": "Animal Companion - Unicorn",
-    "zhCN": "动物伙伴 （独角兽）"
-  },
-
-  {
-    "Key": "unicornmountfeature.description",
-    "enGB": "{g|Encyclopedia:Size}Size{/g}: Large\n{g|Encyclopedia:Speed}Speed{/g}: 50 ft.\n{g|Encyclopedia:Armor_Class}AC{/g}: +4 natural armor\n{g|Encyclopedia:Attack}Attacks{/g}: bite ({g|Encyclopedia:Dice}1d4{/g}), 2 hooves (1d6)\n{g|Encyclopedia:Ability_Scores}Ability scores{/g}: {g|Encyclopedia:Strength}Str{/g} 16, {g|Encyclopedia:Dexterity}Dex{/g} 13, {g|Encyclopedia:Constitution}Con{/g} 15, {g|Encyclopedia:Intelligence}Int{/g} 2, {g|Encyclopedia:Wisdom}Wis{/g} 12, {g|Encyclopedia:Charisma}Cha{/g} 6\nSpecial qualities: {g|Encyclopedia:Scent}scent{/g}\nAt 4th level, a horse gains Str +2 and Con +2 and its hoof attacks become primary.\nWhen riding a horse, you gain a +1 {g|Encyclopedia:Bonus}bonus{/g} to AC and on attack rolls against enemies of Medium size or smaller.",
-    "zhCN": "{g|Encyclopedia:Size}体型{/g}: 大型\n{g|Encyclopedia:Speed}速度{/g}: 50 尺.\n{g|Encyclopedia:Armor_Class}防御等级{/g}: +4 天生防御 \n{g|Encyclopedia:Attack}攻击{/g}: 啮咬 ({g|Encyclopedia:Dice}1d4{/g}), 2 蹄踢 (1d6)\n{g|Encyclopedia:Ability_Scores}属性值{/g}: {g|Encyclopedia:Strength}力量{/g} 16, {g|Encyclopedia:Dexterity}敏捷{/g} 13, {g|Encyclopedia:Constitution}体质{/g} 15, {g|Encyclopedia:Intelligence}智力{/g} 2, {g|Encyclopedia:Wisdom}感知{/g} 12, {g|Encyclopedia:Charisma}魅力{/g} 6\n特性：{g|Encyclopedia:Scent}灵敏嗅觉{/g}\n达到4级后，马的力量+2，体质+2，蹄踢成为主要攻击。\n骑马对抗中等体型或更小的敌人时，防御等级与攻击检定获得+1{g|Encyclopedia:Bonus}加值{/g}。"
-  },
-
-  {
-    "Key": "griffonmountfeature.name",
-    "ProcessTemplates": false,
-    "enGB": "Animal Companion - Griffon",
-    "zhCN": "动物伙伴（狮鹫）"
-  },
-
-  {
-    "Key": "griffonmountfeature.description",
-    "enGB": "MOUNTING IS VISUALLY BROKEN\nTODO",
-    "zhCN": "外观存在错误\n开发中"
-  },
-
-  {
-    "Key": "redditor.name",
-    "ProcessTemplates": false,
-    "enGB": "Redditor",
-    "zhCN": "贴吧老哥"
-  },
-
-  {
-    "Key": "redditor.description",
-    "enGB": "Reddit's own character class. CHA TO EVERYTHING! \nBasically Fighter class with +CHA to all stats and CHA spellcasting. (This is a meme class I made, don't take it too seriously)'",
-    "zhCN": "魅力上一切的网红职业！\n拥有魅力上一切和魅力施法的战士。（这是纯粹的娱乐职业，别太认真了）"
-  },
-
-  {
-    "Key": "redditor.shortdescription",
-    "enGB": "Reddit's own character class. CHA TO EVERYTHING!",
-    "zhCN": "魅力上一切的网红职业！"
-  },
-
-  {
-    "Key": "ChaToInit.Name",
-    "ProcessTemplates": false,
-    "enGB": "Redditor Initiative",
-    "zhCN": "贴吧老哥先攻"
-  },
-
-  {
-    "Key": "ChaToInit.Description",
-    "enGB": "The Redditor adds his {g|Encyclopedia:Charisma}Charisma{/g} bonus (if any) to his {g|Encyclopedia:Initiative}Initiative{/g}.",
-    "zhCN": "贴吧老哥将其{g|Encyclopedia:Charisma}魅力{/g}调整值（如果有） 加到其{g|Encyclopedia:Initiative}先攻{/g}。"
-  },
-
-  {
-    "Key": "ChaToSaves.Name",
-    "ProcessTemplates": false,
-    "enGB": "Redditor Saving Throws",
-    "zhCN": "贴吧老哥豁免"
-  },
-
-  {
-    "Key": "ChaToSaves.Description",
-    "enGB": "The Redditor adds his {g|Encyclopedia:Charisma}Charisma{/g} bonus (if any) to his {g|Encyclopedia:SaveFortitude}Fortitude{/g}, {g|Encyclopedia:SaveReflex}Reflex{/g}, and {g|Encyclopedia:SaveWill}Will{/g} saves.",
-    "zhCN": "贴吧老哥将其{g|Encyclopedia:Charisma}魅力{/g}调整值（如果有） 加到其{g|Encyclopedia:SaveFortitude}强韧{/g}。{g|Encyclopedia:SaveReflex}反射{/g}和{g|Encyclopedia:SaveWill}意志{/g}豁免。"
-  },
-
-  {
-    "Key": "ChaToWis.Name",
-    "ProcessTemplates": false,
-    "enGB": "Redditor Wisdom",
-    "zhCN": "贴吧老哥感知"
-  },
-
-  {
-    "Key": "ChaToWis.Description",
-    "enGB": "The Redditor adds his {g|Encyclopedia:Charisma}Charisma{/g} bonus (if any) to his {g|Encyclopedia:Wisdom}Wisdom{/g}.",
-    "zhCN": "贴吧老哥将其{g|Encyclopedia:Charisma}魅力{/g}调整值（如果有） 加到其{g|Encyclopedia:Wisdom}感知{/g}。"
-  },
-
-  {
-    "Key": "ChaToInt.Name",
-    "ProcessTemplates": false,
-    "enGB": "Redditor Intelligence",
-    "zhCN": "贴吧老哥智力"
-  },
-
-  {
-    "Key": "ChaToInt.Description",
-    "enGB": "The Redditor adds his {g|Encyclopedia:Charisma}Charisma{/g} bonus (if any) to his {g|Encyclopedia:Intelligence}Intelligence{/g}.",
-    "zhCN": "贴吧老哥将其{g|Encyclopedia:Charisma}魅力{/g}调整值（如果有） 加到其{g|Encyclopedia:Intelligence}智力{/g}。"
-  },
-
-  {
-    "Key": "ChaToAC.Name",
-    "ProcessTemplates": false,
-    "enGB": "Redditor Armor",
-    "zhCN": "贴吧老哥厚皮"
-  },
-
-  {
-    "Key": "ChaToAC.Description",
-    "enGB": "The Redditor adds his {g|Encyclopedia:Charisma}Charisma{/g} bonus (if any) to his {g|Encyclopedia:Armor_Class}AC{/g}.",
-    "zhCN": "贴吧老哥将其{g|Encyclopedia:Charisma}魅力{/g}调整值（如果有） 加到其{g|Encyclopedia:Armor_Class}AC{/g}。"
-  },
-
-  {
-    "Key": "ChaToCha.Name",
-    "ProcessTemplates": false,
-    "enGB": "Redditor Charisma",
-    "zhCN": "贴吧老哥魅力"
-  },
-
-  {
-    "Key": "ChaToCha.Description",
-    "enGB": "The Redditor adds his {g|Encyclopedia:Charisma}Charisma{/g} bonus (if any) to his {g|Encyclopedia:Charisma}Charisma{/g}.",
-    "zhCN": "贴吧老哥将其{g|Encyclopedia:Charisma}魅力{/g}调整值（如果有） 加到其{g|Encyclopedia:Charisma}魅力{/g}。"
-  },
-
-  {
-    "Key": "ChaToDex.Name",
-    "ProcessTemplates": false,
-    "enGB": "Redditor Dexterity",
-    "zhCN": "贴吧老哥敏捷"
-  },
-
-  {
-    "Key": "ChaToDex.Description",
-    "enGB": "The Redditor adds his {g|Encyclopedia:Charisma}Charisma{/g} bonus (if any) to his {g|Encyclopedia:Dexterity}Dexterity{/g}.",
-    "zhCN": "贴吧老哥将其{g|Encyclopedia:Charisma}魅力{/g}调整值（如果有） 加到其{g|Encyclopedia:Dexterity}敏捷{/g}。"
-  },
-
-  {
-    "Key": "ChaToCon.Name",
-    "ProcessTemplates": false,
-    "enGB": "Redditor Constitution",
-    "zhCN": "贴吧老哥体质"
-  },
-
-  {
-    "Key": "ChaToCon.Description",
-    "enGB": "The Redditor adds his {g|Encyclopedia:Charisma}Charisma{/g} bonus (if any) to his {g|Encyclopedia:Constitution}Constitution{/g}.",
-    "zhCN": "贴吧老哥将其{g|Encyclopedia:Charisma}魅力{/g}调整值（如果有） 加到其{g|Encyclopedia:Constitution}体质{/g}。"
-  },
-
-  {
-    "Key": "ChaToStr.Name",
-    "ProcessTemplates": false,
-    "enGB": "Redditor Strength",
-    "zhCN": "贴吧老哥力量"
-  },
-
-  {
-    "Key": "ChaToStr.Description",
-    "enGB": "The Redditor adds his {g|Encyclopedia:Charisma}Charisma{/g} bonus (if any) to his {g|Encyclopedia:Strength}Strength{/g}.",
-    "zhCN": "贴吧老哥将其{g|Encyclopedia:Charisma}魅力{/g}调整值（如果有） 加到其{g|Encyclopedia:Strength}力量{/g}。"
-  },
-
-  {
-    "Key": "ChaToSkills.Name",
-    "ProcessTemplates": false,
-    "enGB": "Redditor Skills",
-    "zhCN": "贴吧万事通"
-  },
-
-  {
-    "Key": "ChaToSkills.Description",
-    "enGB": "The Redditor adds his {g|Encyclopedia:Charisma}Charisma{/g} bonus (if any) to his skills.",
-    "zhCN": "贴吧老哥将其{g|Encyclopedia:Charisma}魅力{/g}调整值（如果有） 加到其所有技能。"
-  },
-  {
-    "Key": "ChaToSpeed.Name",
-    "ProcessTemplates": false,
-    "enGB": "Redditor Speed",
-    "zhCN": "贴吧老哥秒回"
-  },
-
-  {
-    "Key": "ChaToSpeed.Description",
-    "enGB": "The Redditor adds his {g|Encyclopedia:Charisma}Charisma{/g} bonus (if any) to his {g|Encyclopedia:Speed}Speed{/g}.",
-    "zhCN": "贴吧老哥将其{g|Encyclopedia:Charisma}魅力{/g}调整值（如果有） 加到其{g|Encyclopedia:Speed}速度{/g}。"
-  },
-
-  {
     "Key": "ChaToDamage.Name",
     "ProcessTemplates": false,
     "enGB": "Redditor Damage",
     "zhCN": "贴吧老哥伤害"
   },
-
   {
     "Key": "ChaToDamage.Description",
     "enGB": "The Redditor adds his {g|Encyclopedia:Charisma}Charisma{/g} bonus (if any) to his damage.",
     "zhCN": "贴吧老哥将其{g|Encyclopedia:Charisma}魅力{/g}调整值（如果有） 加到其伤害。"
   },
-
   {
     "Key": "ChaToBAB.Name",
     "ProcessTemplates": false,
     "enGB": "Redditor BAB",
     "zhCN": "贴吧老哥BAB"
   },
-
   {
     "Key": "ChaToBAB.Description",
     "enGB": "The Redditor adds his {g|Encyclopedia:Charisma}Charisma{/g} bonus (if any) to his {g|Encyclopedia:BaseAttackBonus}Base Attack Bonus{/g}.",
     "zhCN": "贴吧老哥将其{g|Encyclopedia:Charisma}魅力{/g}调整值（如果有） 加到其{g|Encyclopedia:BaseAttackBonus}基本攻击加值{/g}。"
   },
-
   {
     "Key": "ChaToCrit.Name",
     "ProcessTemplates": false,
     "enGB": "Redditor Critical",
     "zhCN": "贴吧老哥暴击"
   },
-
   {
     "Key": "ChaToCrit.Description",
     "enGB": "The Redditor adds his {g|Encyclopedia:Charisma}Charisma{/g} bonus (if any) to his Critical bonus.",
     "zhCN": "贴吧老哥将其{g|Encyclopedia:Charisma}魅力{/g}调整值（如果有） 加到其重击范围。"
   },
-
   {
     "Key": "ChaToSR.Name",
     "ProcessTemplates": false,
     "enGB": "Redditor Spell Resistance",
     "zhCN": "贴吧老哥抗力"
   },
-
   {
     "Key": "ChaToSR.Description",
     "enGB": "The Redditor adds his {g|Encyclopedia:Charisma}Charisma{/g} bonus (if any) to his Spell Resistance.",
     "zhCN": "贴吧老哥将其{g|Encyclopedia:Charisma}魅力{/g}调整值（如果有） 加到其法术抗力。"
   },
-
   {
     "Key": "ChaToDR.Name",
     "ProcessTemplates": false,
     "enGB": "Redditor Damage Reduction",
     "zhCN": "贴吧老哥免伤"
   },
-
   {
     "Key": "ChaToDR.Description",
-    "enGB": "The Redditor adds his {g|Encyclopedia:Charisma}Charisma{/g} bonus (if any) to his Damage Reduction. (CURRENTLY BROKEN).",
+    "enGB": "The Redditor adds his {g|Encyclopedia:Charisma}Charisma{/g} bonus (if any) to his Damage Reduction.",
     "zhCN": "贴吧老哥将其{g|Encyclopedia:Charisma}魅力{/g}调整值（如果有） 加到其伤害减免（目前失效）。"
   },
-
   {
     "Key": "ChaToSpellPen.Name",
     "ProcessTemplates": false,
     "enGB": "Redditor Spell Penetration",
     "zhCN": "贴吧老哥法穿"
   },
-
   {
     "Key": "ChaToSpellPen.Description",
     "enGB": "The Redditor adds his {g|Encyclopedia:Charisma}Charisma{/g} bonus (if any) to his Spell Penetration. ",
     "zhCN": "贴吧老哥将其{g|Encyclopedia:Charisma}魅力{/g}调整值（如果有） 加到其法术穿透。"
   },
-
   {
     "Key": "ChaToSpellDC.Name",
     "ProcessTemplates": false,
     "enGB": "Redditor Spell DC",
     "zhCN": "贴吧老哥法术DC"
   },
-
   {
     "Key": "ChaToSpellDC.Description",
     "enGB": "The Redditor adds his {g|Encyclopedia:Charisma}Charisma{/g} bonus (if any) to his spell's DC. ",
     "zhCN": "贴吧老哥将其{g|Encyclopedia:Charisma}魅力{/g}调整值（如果有） 加到其法术DC。"
   },
-
   {
     "Key": "ChaToChaCap.Name",
     "ProcessTemplates": false,
     "enGB": "Reddit Moderator Charisma",
     "zhCN": "贴吧调停者魅力"
   },
-
   {
     "Key": "ChaToChaCap.Description",
     "enGB": "The Redditor adds his {g|Encyclopedia:Charisma}Charisma{/g} bonus (if any) to his {g|Encyclopedia:Charisma}Charisma{/g}, again!.",
     "zhCN": "贴吧老哥将其{g|Encyclopedia:Charisma}魅力{/g}调整值（如果有） 加到其{g|Encyclopedia:Charisma}魅力{/g}，对，再加一次！"
   },
-
   {
     "Key": "redditor.spellbook.name",
     "ProcessTemplates": false,
     "enGB": "Redditor Spell Book",
     "zhCN": "贴吧老哥法术书"
   },
-
   {
     "Key": "swordmaster.class.name",
     "ProcessTemplates": false,
     "enGB": "Swordmaster (WIP)",
     "zhCN": "Swordmaster (WIP)"
   },
-
   {
     "Key": "swordmaster.class.description",
     "enGB": "TODO Swordmaster description",
     "zhCN": "TODO Swordmaster description"
   },
-
   {
     "Key": "swordmaster.class.shortdescription",
     "enGB": "TODO Swordmaster description",
     "zhCN": "TODO Swordmaster description"
   },
-
   {
     "Key": "swordmaster.progression.name",
     "ProcessTemplates": false,
     "enGB": "Swordmaster Progression",
     "zhCN": "Swordmaster Progression"
   },
-
   {
     "Key": "swordmaster.prociencies.name",
     "ProcessTemplates": false,
     "enGB": "Swordmaster Proficiencies",
     "zhCN": "Swordmaster Proficiencies"
   },
-
   {
     "Key": "swordmaster.prociencies.description",
     "enGB": "Swordmasters are proficient with all simpe and martial swords, plut the quarterstaff. They are proficient with light armor, but not with shields.",
     "zhCN": "Swordmasters are proficient with all simpe and martial swords, plut the quarterstaff. They are proficient with light armor, but not with shields."
   },
-
   {
     "Key": "PowerfulWings.name",
     "ProcessTemplates": false,
     "enGB": "Powerful Wings",
     "zhCN": "强力之翼"
   },
-
   {
     "Key": "PowerfulWings.description",
     "enGB": "You gain two wing attacks. These are secondary natural attacks that each deal 2d8 damage ",
     "zhCN": "你获得两次翼击攻击（2d8伤害），视为次要天生攻击。"
   },
-
   {
     "Key": "swordmaster-tengu.archetype.name",
     "ProcessTemplates": false,
     "enGB": "Swordmaster",
     "zhCN": "剑术宗师"
   },
-
   {
     "Key": "swordmaster-tengu.archetype.description",
     "enGB": "A swordmaster meditates to strengthen her spiritual connection to her blade. She strives to perfect her skills by mastering six deadly trances.",
     "zhCN": "剑术宗师通过冥想增强她的精神与剑刃之联接。并力求通过默想使用六种体势将她的技法发挥至极致。"
   },
-
   {
     "Key": "swordmaster-tengu.archetype.shortdescription",
     "enGB": "A swordmaster meditates to strengthen her spiritual connection to her blade. She strives to perfect her skills by mastering six deadly trances.",
     "zhCN": "剑术宗师通过冥想增强她的精神与剑刃之联接。并力求通过默想使用六种体势将她的技法发挥至极致。"
   },
-
   {
     "Key": "TranceSelection.name",
     "ProcessTemplates": false,
     "enGB": "Trance Selection",
     "zhCN": "默想选择"
   },
-
   {
     "Key": "TranceSelection.description",
     "enGB": "At 3rd level, the swordmaster chooses one trance from the list below. She chooses another trance at 6th, 9th, 12th, 15th, and 18th level. She can only use one type of trance at a time.",
     "zhCN": "3级起，剑术宗师可以从下列列出的默想体势中选择一种。在6级，9级，12级，15级以及18级时她可以选择分别选择一新的种默想体势。同一时间剑术宗师只能使用一种默想体势。"
   },
-
   {
     "Key": "CraneTrance.name",
     "ProcessTemplates": false,
     "enGB": "Crane Trance",
     "zhCN": "流鹤势"
   },
-
   {
     "Key": "CraneTrance.description",
     "enGB": "The swordmaster’s blade rises and falls with the graceful sweeping arcs of the mountain crane. When in this trance, a swordmaster gains the benefits of the Crane Style feat.",
     "zhCN": "剑术宗师的剑刃划着优雅的圆弧上下舞动就如同那山中的青鹤一般。在这种默想体势中，剑术宗师获得鹤形拳专长的效果。"
   },
-
   {
     "Key": "swordmaster-tengu.cranetrance.ability.name",
     "ProcessTemplates": false,
     "enGB": "Crane Trance (Ability)",
     "zhCN": "流鹤势（能力）"
   },
-
   {
     "Key": "swordmaster-tengu.cranetrance.ability.description",
     "enGB": "The swordmaster’s blade rises and falls with the graceful sweeping arcs of the mountain crane. When in this trance, a swordmaster gains the benefits of the Crane Style feat.",
     "zhCN": "剑术宗师的剑刃划着优雅的圆弧上下舞动就如同那山中的青鹤一般。在这种默想体势中，剑术宗师获得鹤形拳专长的效果。"
   },
-
   {
     "Key": "swordmaster-tengu.cranetrance.buff.name",
     "ProcessTemplates": false,
     "enGB": "Crane Trance Buff",
     "zhCN": "流鹤势效果"
   },
-
   {
     "Key": "swordmaster-tengu.cranetrance.buff.description",
     "enGB": "The swordmaster’s blade rises and falls with the graceful sweeping arcs of the mountain crane. When in this trance, a swordmaster gains the benefits of the Crane Style feat.",
     "zhCN": "剑术宗师的剑刃划着优雅的圆弧上下舞动就如同那山中的青鹤一般。在这种默想体势中，剑术宗师获得鹤形拳专长的效果。"
   },
-
   {
     "Key": "DragonTrance.name",
     "ProcessTemplates": false,
     "enGB": "Dragon Trance",
     "zhCN": "潜龙势"
   },
-
   {
     "Key": "DragonTrance.description",
     "enGB": "Like the dragon, the swordmaster has honed the steadiness of her mind and body. When in this trance, a swordmaster gains the benefits of the Dragon Style feat.",
     "zhCN": "剑术宗师将她的身心磨练得如同巨龙一般稳固。在这种默想体势中，剑术宗师获得龙形拳专长的效果。"
   },
-
   {
     "Key": "swordmaster-tengu.dragontrance.ability.name",
     "ProcessTemplates": false,
     "enGB": "Dragon Trance (Ability)",
     "zhCN": "潜龙势（能力）"
   },
-
   {
     "Key": "swordmaster-tengu.dragontrance.ability.description",
     "enGB": "Like the dragon, the swordmaster has honed the steadiness of her mind and body. When in this trance, a swordmaster gains the benefits of the Dragon Style feat.",
     "zhCN": "剑术宗师将她的身心磨练得如同巨龙一般稳固。在这种默想体势中，剑术宗师获得龙形拳专长的效果。"
   },
-
   {
     "Key": "swordmaster-tengu.dragontrance.buff.name",
     "ProcessTemplates": false,
     "enGB": "Dragon Trance Buff",
     "zhCN": "潜龙势效果"
   },
-
   {
     "Key": "swordmaster-tengu.dragontrance.buff.description",
     "enGB": "Like the dragon, the swordmaster has honed the steadiness of her mind and body. When in this trance, a swordmaster gains the benefits of the Dragon Style feat.",
     "zhCN": "剑术宗师将她的身心磨练得如同巨龙一般稳固。在这种默想体势中，剑术宗师获得龙形拳专长的效果。"
   },
-
   {
-     "Key": "LeopardTrance.name",
+    "Key": "LeopardTrance.name",
     "ProcessTemplates": false,
     "enGB": "Leopard Trance",
     "zhCN": "飞豹势"
   },
-
   {
     "Key": "LeopardTrance.description",
     "enGB": "Using the swiftness of the leopard, a swordmaster’s evasive footwork confuses her opponents. When in this trance, a swordmaster gains the benefits of the Mobility feat.",
     "zhCN": "剑术宗师使用那豹子般迅捷闪烁的步法迷惑她的敌人。在这种默想体势中，剑术宗师获得灵活移动专长的效果。"
   },
-
   {
     "Key": "swordmaster-tengu.leopardtrance.ability.name",
     "ProcessTemplates": false,
     "enGB": "Leopard Trance (Ability)",
     "zhCN": "飞豹势（能力）"
   },
-
   {
     "Key": "swordmaster-tengu.leopardtrance.ability.description",
     "enGB": "Using the swiftness of the leopard, a swordmaster’s evasive footwork confuses her opponents. When in this trance, a swordmaster gains the benefits of the Mobility feat.",
     "zhCN": "剑术宗师使用那豹子般迅捷闪烁的步法迷惑她的敌人。在这种默想体势中，剑术宗师获得灵活移动专长的效果。"
   },
-
   {
     "Key": "swordmaster-tengu.leopardtrance.buff.name",
     "ProcessTemplates": false,
     "enGB": "Leopard Trance Buff",
     "zhCN": "飞豹势效果"
   },
-
   {
     "Key": "swordmaster-tengu.leopardtrance.buff.description",
     "enGB": "Using the swiftness of the leopard, a swordmaster’s evasive footwork confuses her opponents. When in this trance, a swordmaster gains the benefits of the Mobility feat.",
     "zhCN": "剑术宗师使用那豹子般迅捷闪烁的步法迷惑她的敌人。在这种默想体势中，剑术宗师获得灵活移动专长的效果。"
   },
-
   {
     "Key": "MonkeyTrance.name",
     "ProcessTemplates": false,
     "enGB": "Monkey Trance",
     "zhCN": "跃猿势"
   },
-
   {
     "Key": "MonkeyTrance.description",
     "enGB": "As the monkey springs, the swordmaster leaps from the reach of her enemies. While in this trance, a swordmaster gains the benefits of the Trip feat and Fury's Fall feat.",
     "zhCN": "就如同猿猴一般灵活，剑术宗师跳离敌人的进攻范围。在这种默想体势中，剑术宗师获得绊摔和欲魔落袭专长的效果。"
   },
-
   {
     "Key": "swordmaster-tengu.monkeytrance.ability.name",
     "ProcessTemplates": false,
     "enGB": "Monkey Trance (Ability)",
     "zhCN": "跃猿势（能力）"
   },
-
   {
     "Key": "swordmaster-tengu.monkeytrance.ability.description",
     "enGB": "As the monkey springs, the swordmaster leaps from the reach of her enemies. While in this trance, a swordmaster gains the benefits of the Trip feat and Fury's Fall feat.",
     "zhCN": "就如同猿猴一般灵活，剑术宗师跳离敌人的进攻范围。在这种默想体势中，剑术宗师获得绊摔和欲魔落袭专长的效果。"
   },
-
   {
     "Key": "swordmaster-tengu.monkeytrance.buff.name",
     "ProcessTemplates": false,
     "enGB": "Monkey Trance Buff",
     "zhCN": "跃猿势效果"
   },
-
   {
     "Key": "swordmaster-tengu.monkeytrance.buff.description",
     "enGB": "As the monkey springs, the swordmaster leaps from the reach of her enemies. While in this trance, a swordmaster gains the benefits of the Trip feat and Fury's Fall feat.",
     "zhCN": "就如同猿猴一般灵活，剑术宗师跳离敌人的进攻范围。在这种默想体势中，剑术宗师获得绊摔和欲魔落袭专长的效果。"
   },
-
   {
     "Key": "SerpentTrance.name",
     "ProcessTemplates": false,
     "enGB": "Serpent Trance",
     "zhCN": "突蛇势"
   },
-
   {
     "Key": "SerpentTrance.description",
     "enGB": "Like the serpent, the swordmaster’s quick movements allow her to catch her opponent unawares. While in this trance, a swordmaster gains the benefits of the Feint feat with a +4 bonus to Feint.",
     "zhCN": "剑术宗师的如蛇一般迅捷的突袭使她的敌人措不及防。在这种默想体势中，剑术宗师获得佯攻专长的效果并在佯攻上获得+4加值。"
   },
-
   {
     "Key": "swordmaster-tengu.serpenttrance.ability.name",
     "ProcessTemplates": false,
     "enGB": "Serpent Trance (Ability)",
     "zhCN": "突蛇势（能力）"
   },
-
   {
     "Key": "swordmaster-tengu.serpenttrance.ability.description",
     "enGB": "Like the serpent, the swordmaster’s quick movements allow her to catch her opponent unawares. While in this trance, a swordmaster gains the benefits of the Feint feat with a +4 bonus to Feint.",
     "zhCN": "剑术宗师的如蛇一般迅捷的突袭使她的敌人措不及防。在这种默想体势中，剑术宗师获得佯攻专长的效果并在佯攻上获得+4加值。"
   },
-
   {
     "Key": "swordmaster-tengu.serpenttrance.buff.name",
     "ProcessTemplates": false,
     "enGB": "Serpent Trance Buff",
     "zhCN": "突蛇势效果"
   },
-
   {
     "Key": "swordmaster-tengu.serpenttrance.buff.description",
     "enGB": "Like the serpent, the swordmaster’s quick movements allow her to catch her opponent unawares. While in this trance, a swordmaster gains the benefits of the Feint feat with a +4 bonus to Feint.",
     "zhCN": "剑术宗师的如蛇一般迅捷的突袭使她的敌人措不及防。在这种默想体势中，剑术宗师获得佯攻专长的效果并在佯攻上获得+4加值。"
   },
-
   {
     "Key": "TigerTrance.name",
     "ProcessTemplates": false,
     "enGB": "Tiger Trance",
     "zhCN": "猛虎势"
   },
-
   {
     "Key": "TigerTrance.description",
     "enGB": "The swordmaster pounces upon her opponents, striking with the ferocity and brute force of a wild tiger. While in this trance, a swordmaster gains the benefits of the Pounce feat.",
     "zhCN": "剑术宗师对她的对手进行突袭，就好似凶暴残忍的野生猛虎一般。在这种默想体势中，剑术宗师获得猛扑专长的效果。"
   },
-
   {
     "Key": "swordmaster-tengu.tigertrance.ability.name",
     "ProcessTemplates": false,
     "enGB": "Tiger Trance (Ability)",
     "zhCN": "猛虎势（能力）"
   },
-
   {
     "Key": "swordmaster-tengu.tigertrance.ability.description",
     "enGB": "The swordmaster pounces upon her opponents, striking with the ferocity and brute force of a wild tiger. While in this trance, a swordmaster gains the benefits of the Pounce feat.",
     "zhCN": "剑术宗师对她的对手进行突袭，就好似凶暴残忍的野生猛虎一般。在这种默想体势中，剑术宗师获得猛扑专长的效果。"
   },
-
   {
     "Key": "swordmaster-tengu.tigertrance.buff.name",
     "ProcessTemplates": false,
     "enGB": "Tiger Trance Buff",
     "zhCN": "猛虎势效果"
   },
-
   {
     "Key": "swordmaster-tengu.tigertrance.buff.description",
     "enGB": "The swordmaster pounces upon her opponents, striking with the ferocity and brute force of a wild tiger. While in this trance, a swordmaster gains the benefits of the Pounce feat.",
     "zhCN": "剑术宗师对她的对手进行突袭，就好似凶暴残忍的野生猛虎一般。在这种默想体势中，剑术宗师获得猛扑专长的效果。"
   },
-
   {
     "Key": "Wanderer.name",
     "ProcessTemplates": false,
     "enGB": "Cursed (lycanthropy)",
     "zhCN": "诅咒（兽化）"
   },
-
   {
     "Key": "Wanderer.description",
-    "enGB": "Adds Perception and Mobility to list of class skills. She also is able to use her curse to qualify for feats that require lycanthropy.",
+    "enGB": "Adds Perception and Mobility to list of class skills. She also is able to use her curse to qualify for feats that require lycanthropy. (Such as Aspect of the Beast, from Homebrew Archetypes.)",
     "zhCN": "将精准和灵巧技能加入本职技能。同时也能使用这诅咒来满足需要兽化的专长条件。"
   },
-  
   {
     "Key": "TranceMaster.name",
     "ProcessTemplates": false,
     "enGB": "Trance Master",
     "zhCN": "默想大师"
   },
-  
   {
     "Key": "TranceMaster.description",
     "enGB": "Allows the Swordmaster to enter 2 trances at a time",
     "zhCN": "允许同时使用2个默想"
   },
-
   {
     "Key": "AutoMaximize.name",
     "ProcessTemplates": false,
     "enGB": "Auto-Maximize",
     "zhCN": "自动极效"
   },
-
   {
     "Key": "AutoMaximize.description",
     "enGB": "You become so familiar with the metamagic that you can apply it at will with no additional cost.",
     "zhCN": "你如此擅长这项超魔技艺，可以不需要额外消耗就将其应用。"
   },
-
   {
     "Key": "AutoMaximize-ability.name",
     "ProcessTemplates": false,
     "enGB": "Auto-Maximize",
     "zhCN": "自动极效"
   },
-
   {
     "Key": "AutoMaximize-ability.description",
-    "enGB": "Enable to give your spells Maximum through your mythic power!",
+    "enGB": "Enable to apply Maximize metamagic to all spells without increasing casting time or using a higher-level spell slot.",
     "zhCN": "允许你通过神话力量给予你的法术极效超魔。"
   },
-
   {
     "Key": "AutoMaximize-buff.name",
     "ProcessTemplates": false,
     "enGB": "Auto-Maximize",
     "zhCN": "自动极效"
   },
-
   {
     "Key": "AutoMaximize-buff.description",
-    "enGB": "Spells will have Maximum applied to them",
+    "enGB": "Spells will have Maximize metamagic applied to them",
     "zhCN": "法术被应用了极效超魔"
   },
-
   {
     "Key": "AutoExtend.name",
     "ProcessTemplates": false,
     "enGB": "Auto-Extend",
     "zhCN": "自动延时"
   },
-
   {
     "Key": "AutoExtend.description",
     "enGB": "You become so familiar with the metamagic that you can apply it at will with no additional cost.",
     "zhCN": "你如此擅长这项超魔技艺，可以不需要额外消耗就将其应用。"
   },
-
   {
     "Key": "AutoExtend-ability.name",
     "ProcessTemplates": false,
     "enGB": "Auto-Extend",
     "zhCN": "自动延时"
   },
-
   {
     "Key": "AutoExtend-ability.description",
-    "enGB": "Enable to give your spells Extend through your mythic power!",
+    "enGB": "Enable to apply Extend metamagic to all spells without increasing casting time or using a higher-level spell slot.",
     "zhCN": "允许你通过神话力量给予你的法术延时超魔。"
   },
-
   {
     "Key": "AutoExtend-buff.name",
     "ProcessTemplates": false,
     "enGB": "Auto-Extend",
     "zhCN": "自动延时"
   },
-
   {
     "Key": "AutoExtend-buff.description",
-    "enGB": "Spells will have Extend applied to them",
+    "enGB": "Spells will have Extend metamagic applied to them",
     "zhCN": "法术被应用了延时超魔"
   },
-
   {
     "Key": "AutoEmpower.name",
     "ProcessTemplates": false,
     "enGB": "Auto-Empower",
     "zhCN": "自动强效"
   },
-
   {
     "Key": "AutoEmpower.description",
     "enGB": "You become so familiar with the metamagic that you can apply it at will with no additional cost.",
     "zhCN": "你如此擅长这项超魔技艺，可以不需要额外消耗就将其应用。"
   },
-
   {
     "Key": "AutoEmpower-ability.name",
     "ProcessTemplates": false,
     "enGB": "Auto-Empower",
     "zhCN": "自动强效"
   },
-
   {
     "Key": "AutoEmpower-ability.description",
-    "enGB": "Enable to give your spells Empower through your mythic power!",
+    "enGB": "Enable to apply Empower metamagic to all spells without increasing casting time or using a higher-level spell slot.",
     "zhCN": "允许你通过神话力量给予你的法术强效超魔。"
   },
-
   {
     "Key": "AutoEmpower-buff.name",
     "ProcessTemplates": false,
     "enGB": "Auto-Empower",
     "zhCN": "自动强效"
   },
-
   {
     "Key": "AutoEmpower-buff.description",
-    "enGB": "Spells will have Empower applied to them",
+    "enGB": "Spells will have Empower metamagic applied to them",
     "zhCN": "法术被应用了强效超魔"
   },
-
   {
     "Key": "AutoQuicken.name",
     "ProcessTemplates": false,
     "enGB": "Auto-Quicken",
     "zhCN": "自动瞬发"
   },
-
   {
     "Key": "AutoQuicken.description",
     "enGB": "You become so familiar with the metamagic that you can apply it at will with no additional cost.",
     "zhCN": "你如此擅长这项超魔技艺，可以不需要额外消耗就将其应用。"
   },
-
   {
     "Key": "AutoQuicken-ability.name",
     "ProcessTemplates": false,
     "enGB": "Auto-Quicken",
     "zhCN": "自动瞬发"
   },
-
   {
     "Key": "AutoQuicken-ability.description",
-    "enGB": "Enable to give your spells Quicken through your mythic power!",
+    "enGB": "Enable to apply Quicken metamagic to all spells without increasing casting time or using a higher-level spell slot.",
     "zhCN": "允许你通过神话力量给予你的法术瞬发超魔。"
   },
-
   {
     "Key": "AutoQuicken-buff.name",
     "ProcessTemplates": false,
     "enGB": "Auto-Quicken",
     "zhCN": "自动瞬发"
   },
-
   {
     "Key": "AutoQuicken-buff.description",
-    "enGB": "Spells will have Quicken applied to them",
+    "enGB": "Spells will have Quicken metamagic applied to them",
     "zhCN": "法术被应用了瞬发超魔"
   },
-
   {
     "Key": "AutoReach.name",
     "ProcessTemplates": false,
     "enGB": "Auto-Reach",
     "zhCN": "自动及远"
   },
-
   {
     "Key": "AutoReach.description",
     "enGB": "You become so familiar with the metamagic that you can apply it at will with no additional cost.",
     "zhCN": "你如此擅长这项超魔技艺，可以不需要额外消耗就将其应用。"
   },
-
   {
     "Key": "AutoReach-ability.name",
     "ProcessTemplates": false,
     "enGB": "Auto-Reach",
     "zhCN": "自动及远"
   },
-
   {
     "Key": "AutoReach-ability.description",
-    "enGB": "Enable to give your spells Reach through your mythic power!",
+    "enGB": "Enable to apply Reach metamagic to all spells without increasing casting time or using a higher-level spell slot.",
     "zhCN": "允许你通过神话力量给予你的法术及远超魔。"
   },
-
   {
     "Key": "AutoReach-buff.name",
     "ProcessTemplates": false,
     "enGB": "Auto-Reach",
     "zhCN": "自动及远"
   },
-
   {
     "Key": "AutoReach-buff.description",
-    "enGB": "Spells will have Reach applied to them",
+    "enGB": "Spells will have Reach metamagic applied to them",
     "zhCN": "法术被应用了及远超魔"
   },
-
   {
     "Key": "AutoBolstered.name",
     "ProcessTemplates": false,
     "enGB": "Auto-Bolster",
     "zhCN": "自动增效"
   },
-
   {
     "Key": "AutoBolstered.description",
     "enGB": "You become so familiar with the metamagic that you can apply it at will with no additional cost.",
     "zhCN": "你如此擅长这项超魔技艺，可以不需要额外消耗就将其应用。"
   },
-
   {
     "Key": "AutoBolstered-ability.name",
     "ProcessTemplates": false,
     "enGB": "Auto-Bolster",
     "zhCN": "自动增效"
   },
-
   {
     "Key": "AutoBolstered-ability.description",
-    "enGB": "Enable to give your spells Bolster through your mythic power!",
+    "enGB": "Enable to apply Bolster metamagic to all spells without increasing casting time or using a higher-level spell slot.",
     "zhCN": "允许你通过神话力量给予你的法术增效超魔。"
   },
-
   {
     "Key": "AutoBolstered-buff.name",
     "ProcessTemplates": false,
     "enGB": "Auto-Bolster",
     "zhCN": "自动增效"
   },
-
   {
     "Key": "AutoBolstered-buff.description",
-    "enGB": "Spells will have Bolster applied to them",
+    "enGB": "Spells will have Bolster metamagic applied to them",
     "zhCN": "法术被应用了增效超魔"
   },
-
   {
     "Key": "AutoSelective.name",
     "ProcessTemplates": false,
     "enGB": "Auto-Selective",
     "zhCN": "自动甄选"
   },
-
   {
     "Key": "AutoSelective.description",
     "enGB": "You become so familiar with the metamagic that you can apply it at will with no additional cost.",
     "zhCN": "你如此擅长这项超魔技艺，可以不需要额外消耗就将其应用。"
   },
-
   {
     "Key": "AutoSelective-ability.name",
     "ProcessTemplates": false,
     "enGB": "Auto-Selective",
     "zhCN": "自动甄选"
   },
-
   {
     "Key": "AutoSelective-ability.description",
-    "enGB": "Enable to give your spells Selective through your mythic power!",
+    "enGB": "Enable to apply Selective metamagic to all spells without increasing casting time or using a higher-level spell slot.",
     "zhCN": "允许你通过神话力量给予你的法术甄选超魔。"
   },
-
   {
     "Key": "AutoSelective-buff.name",
     "ProcessTemplates": false,
     "enGB": "Auto-Selective",
     "zhCN": "自动甄选"
   },
-
   {
     "Key": "AutoSelective-buff.description",
-    "enGB": "Spells will have Selective applied to them",
+    "enGB": "Spells will have Selective metamagic applied to them",
     "zhCN": "法术被应用了甄选超魔"
   },
-
   {
     "Key": "AutoPersistent.name",
     "ProcessTemplates": false,
     "enGB": "Auto-Persistent",
     "zhCN": "自动顽强"
   },
-
   {
     "Key": "AutoPersistent.description",
     "enGB": "You become so familiar with the metamagic that you can apply it at will with no additional cost.",
     "zhCN": "你如此擅长这项超魔技艺，可以不需要额外消耗就将其应用。"
   },
-
   {
     "Key": "AutoPersistent-ability.name",
     "ProcessTemplates": false,
     "enGB": "Auto-Persistent",
     "zhCN": "自动顽强"
   },
-
   {
     "Key": "AutoPersistent-ability.description",
-    "enGB": "Enable to give your spells Persistent through your mythic power!",
+    "enGB": "Enable to apply Persistent metamagic to all spells without increasing casting time or using a higher-level spell slot.",
     "zhCN": "允许你通过神话力量给予你的法术顽强超魔。"
   },
-
   {
     "Key": "AutoPersistent-buff.name",
     "ProcessTemplates": false,
     "enGB": "Auto-Persistent",
     "zhCN": "自动顽强"
   },
-
   {
     "Key": "AutoPersistent-buff.description",
-    "enGB": "Spells will have Persistent applied to them",
+    "enGB": "Spells will have Persistent metamagic applied to them",
     "zhCN": "法术被应用了顽强超魔"
   },
-
   {
     "Key": "AutoIntensified.name",
     "ProcessTemplates": false,
     "enGB": "Auto-Intensify",
     "zhCN": "自动强化"
   },
-
   {
     "Key": "AutoIntensified.description",
     "enGB": "You become so familiar with the metamagic that you can apply it at will with no additional cost.",
     "zhCN": "你如此擅长这项超魔技艺，可以不需要额外消耗就将其应用。"
   },
-
   {
     "Key": "AutoIntensified-ability.name",
     "ProcessTemplates": false,
     "enGB": "Auto-Intensify",
     "zhCN": "自动强化"
   },
-
   {
     "Key": "AutoIntensified-ability.description",
-    "enGB": "Enable to give your spells Intensify through your mythic power!",
+    "enGB": "Enable to apply Itensify metamagic to all spells without increasing casting time or using a higher-level spell slot.",
     "zhCN": "允许你通过神话力量给予你的法术强化超魔。"
   },
-
   {
     "Key": "AutoIntensified-buff.name",
     "ProcessTemplates": false,
     "enGB": "Auto-Intensify",
     "zhCN": "自动强化"
   },
-
   {
     "Key": "AutoIntensified-buff.description",
-    "enGB": "Spells will have Intensify applied to them",
+    "enGB": "Spells will have Intensify metamagic applied to them",
     "zhCN": "法术被应用了强化超魔"
   },
-
   {
     "Key": "AutoPiercing.name",
     "ProcessTemplates": false,
     "enGB": "Auto-Piercing",
     "zhCN": "自动穿刺"
   },
-
   {
     "Key": "AutoPiercing.description",
     "enGB": "You become so familiar with the metamagic that you can apply it at will with no additional cost.",
     "zhCN": "你如此擅长这项超魔技艺，可以不需要额外消耗就将其应用。"
   },
-
   {
     "Key": "AutoPiercing-ability.name",
     "ProcessTemplates": false,
     "enGB": "Auto-Piercing",
     "zhCN": "自动穿刺"
   },
-
   {
     "Key": "AutoPiercing-ability.description",
-    "enGB": "Enable to give your spells Piercing through your mythic power!",
+    "enGB": "Enable to apply Piercing metamagic to all spells without increasing casting time or using a higher-level spell slot.",
     "zhCN": "允许你通过神话力量给予你的法术穿刺超魔。"
   },
-
   {
     "Key": "AutoPiercing-buff.name",
     "ProcessTemplates": false,
     "enGB": "Auto-Piercing",
     "zhCN": "自动穿刺"
   },
-
   {
     "Key": "AutoPiercing-buff.description",
-    "enGB": "Spells will have Piercing applied to them",
+    "enGB": "Spells will have Piercing metamagic applied to them",
     "zhCN": "法术被应用了穿刺超魔"
   },
-
   {
     "Key": "AutoBurning.name",
     "ProcessTemplates": false,
     "enGB": "Auto-Burning",
     "zhCN": "自动燃烧"
   },
-
   {
     "Key": "AutoBurning.description",
     "enGB": "You become so familiar with the metamagic that you can apply it at will with no additional cost.",
     "zhCN": "你如此擅长这项超魔技艺，可以不需要额外消耗就将其应用。"
   },
-
   {
     "Key": "AutoBurning-ability.name",
     "ProcessTemplates": false,
     "enGB": "Auto-Burning",
     "zhCN": "自动燃烧"
   },
-
   {
     "Key": "AutoBurning-ability.description",
-    "enGB": "Enable to give your spells Burning through your mythic power!",
+    "enGB": "Enable to apply Burning metamagic to all spells without increasing casting time or using a higher-level spell slot.",
     "zhCN": "允许你通过神话力量给予你的法术燃烧超魔。"
   },
-
   {
     "Key": "AutoBurning-buff.name",
     "ProcessTemplates": false,
     "enGB": "Auto-Burning",
     "zhCN": "自动燃烧"
   },
-
   {
     "Key": "AutoBurning-buff.description",
-    "enGB": "Spells will have Burning applied to them",
+    "enGB": "Spells will have Burning metamagic applied to them",
     "zhCN": "法术被应用了燃烧超魔"
   },
-
   {
     "Key": "AutoEncourage.name",
     "ProcessTemplates": false,
     "enGB": "Auto-Encouraging",
     "zhCN": "自动激励"
   },
-
   {
     "Key": "AutoEncourage.description",
     "enGB": "You become so familiar with the metamagic that you can apply it at will with no additional cost.",
     "zhCN": "你如此擅长这项超魔技艺，可以不需要额外消耗就将其应用。"
   },
-
   {
     "Key": "AutoEncourage-ability.name",
     "ProcessTemplates": false,
     "enGB": "Auto-Encouraging",
     "zhCN": "自动激励"
   },
-
   {
     "Key": "AutoEncourage-ability.description",
-    "enGB": "Enable to give your spells Encouraging through your mythic power!",
+    "enGB": "Enable to apply Encouraging metamagic to all spells without increasing casting time or using a higher-level spell slot.",
     "zhCN": "允许你通过神话力量给予你的法术激励超魔。"
   },
-
   {
     "Key": "AutoEncourage-buff.name",
     "ProcessTemplates": false,
     "enGB": "Auto-Encouraging",
     "zhCN": "自动激励"
   },
-
   {
     "Key": "AutoEncourage-buff.description",
-    "enGB": "Spells will have Encouraging applied to them",
+    "enGB": "Spells will have Encouraging metamagic applied to them",
     "zhCN": "法术被应用了激励超魔"
   },
-
   {
     "Key": "AutoFlare.name",
     "ProcessTemplates": false,
     "enGB": "Auto-Flaring",
     "zhCN": "自动闪耀"
   },
-
   {
     "Key": "AutoFlare.description",
     "enGB": "You become so familiar with the metamagic that you can apply it at will with no additional cost.",
     "zhCN": "你如此擅长这项超魔技艺，可以不需要额外消耗就将其应用。"
   },
-
   {
     "Key": "AutoFlare-ability.name",
     "ProcessTemplates": false,
     "enGB": "Auto-Flaring",
     "zhCN": "自动闪耀"
   },
-
   {
     "Key": "AutoFlare-ability.description",
-    "enGB": "Enable to give your spells Flaring through your mythic power!",
+    "enGB": "Enable to apply Flaring metamagic to all spells without increasing casting time or using a higher-level spell slot.",
     "zhCN": "允许你通过神话力量给予你的法术闪耀超魔。"
   },
-
   {
     "Key": "AutoFlare-buff.name",
     "ProcessTemplates": false,
     "enGB": "Auto-Flaring",
     "zhCN": "自动闪耀"
   },
-
   {
     "Key": "AutoFlare-buff.description",
-    "enGB": "Spells will have Flaring applied to them",
+    "enGB": "Spells will have Flaring metamagic applied to them",
     "zhCN": "法术被应用了闪耀超魔"
   },
-
   {
     "Key": "AutoRime.name",
     "ProcessTemplates": false,
     "enGB": "Auto-Rime",
     "zhCN": "自动霜冻"
   },
-
   {
     "Key": "AutoRime.description",
     "enGB": "You become so familiar with the metamagic that you can apply it at will with no additional cost.",
     "zhCN": "你如此擅长这项超魔技艺，可以不需要额外消耗就将其应用。"
   },
-
   {
     "Key": "AutoRime-ability.name",
     "ProcessTemplates": false,
     "enGB": "Auto-Rime",
     "zhCN": "自动霜冻"
   },
-
   {
     "Key": "AutoRime-ability.description",
-    "enGB": "Enable to give your spells Rime through your mythic power!",
+    "enGB": "Enable to apply Rime metamagic to all spells without increasing casting time or using a higher-level spell slot.",
     "zhCN": "允许你通过神话力量给予你的法术霜冻超魔。"
   },
-
   {
     "Key": "AutoRime-buff.name",
     "ProcessTemplates": false,
     "enGB": "Auto-Rime",
     "zhCN": "自动霜冻"
   },
-
   {
     "Key": "AutoRime-buff.description",
-    "enGB": "Spells will have Rime applied to them",
+    "enGB": "Spells will have Rime metamagic applied to them",
     "zhCN": "法术被应用了霜冻超魔"
   },
-
   {
     "Key": "AutoSolidShadows.name",
     "ProcessTemplates": false,
     "enGB": "Auto-Solid-Shadows",
     "zhCN": "自动实体幽影"
   },
-
   {
     "Key": "AutoSolidShadows.description",
     "enGB": "You become so familiar with the metamagic that you can apply it at will with no additional cost.",
     "zhCN": "你如此擅长这项超魔技艺，可以不需要额外消耗就将其应用。"
   },
-
   {
     "Key": "AutoSolidShadows-ability.name",
     "ProcessTemplates": false,
     "enGB": "Auto-Solid-Shadows",
     "zhCN": "自动实体幽影"
   },
-
   {
     "Key": "AutoSolidShadows-ability.description",
-    "enGB": "Enable to give your spells Solid Shadows through your mythic power!",
+    "enGB": "Enable to apply Solid Shadows metamagic to all spells without increasing casting time or using a higher-level spell slot.",
     "zhCN": "允许你通过神话力量给予你的法术实体幽影超魔。"
   },
-
   {
     "Key": "AutoSolidShadows-buff.name",
     "ProcessTemplates": false,
     "enGB": "Auto-Solid-Shadows",
     "zhCN": "自动实体幽影"
   },
-
   {
     "Key": "AutoSolidShadows-buff.description",
-    "enGB": "Spells will have Solid Shadows applied to them",
+    "enGB": "Spells will have Solid Shadows metamagic applied to them",
     "zhCN": "法术被应用了实体幽影超魔"
   },
-
   {
     "Key": "HeavenRay.name",
     "ProcessTemplates": false,
     "enGB": "Heavenfire Ray",
     "zhCN": "天堂烈焰射线"
   },
-
   {
     "Key": "HeavenRay.description",
     "enGB": "A blast of heavenfire blazes from your hands. You can fire one ray, plus one additional ray for every 4 {g|Encyclopedia:Caster_Level}caster levels{/g} beyond 11th (to a maximum of three rays at 19th level). Each ray requires a ranged {g|Encyclopedia:TouchAttack}touch attack{/g} to hit and deals {g|Encyclopedia:Dice}1d6{/g} points of {g|Encyclopedia:Damage}damage{/g} per caster level (maximum 15d6). Half the damage is {g|Encyclopedia:Energy_Damage}fire damage{/g}, but the other half results directly from holy power and is therefore not subject to being reduced by fire {g|Encyclopedia:Energy_Resistance}resistance{/g}.",
     "zhCN": "你从手中射出天堂烈焰。你可以发射1道射线，11级之后，每提升4个{g|Encyclopedia:Caster_Level}施法者等级{/g}，你就可以再发射1道射线（19级时达到最高，即3道射线）。每道射线都需要进行远程{g|Encyclopedia:TouchAttack}接触攻击{/g}检定来命中目标，并可造成每施法者等级{g|Encyclopedia:Dice}1d6{/g}点{g|Encyclopedia:Damage}伤害{/g}（最大值为15d6点）。该{g|Encyclopedia:Damage}伤害{/g}一半为火焰伤害，另一半为神圣伤害，因此火焰{g|Encyclopedia:Energy_Resistance}抗性{/g}不能减免这部分伤害。"
   },
-
   {
     "Key": "HellBall.name",
     "ProcessTemplates": false,
-    "enGB": "HellBall",
+    "enGB": "Hellball",
     "zhCN": "地狱之球"
   },
-
   {
     "Key": "HellBall.description",
     "enGB": "You unleash a massive blast of energy that detonates upon all in the AoE, dealing 20d6 fire, 20d6 acid, 20d6 electrical and 20d6 sonic damage. A reflex save halves damage.",
     "zhCN": "你释放一个巨大的能量爆，在范围区域引爆，造成20d6火焰，20d6酸蚀，20d6电击和20d6音波伤害。反射豁免能够减半伤害。"
   },
-
   {
     "Key": "HellBall-feature.name",
     "ProcessTemplates": false,
-    "enGB": "HellBall Spell",
+    "enGB": "Hellball Spell",
     "zhCN": "地狱之球法术"
   },
-
   {
     "Key": "HellBall-feature.description",
-    "enGB": "Grants you a new powerful spell called Hellbell, which does 10d6 damage of multiple elements! Requires being able to cast spell level 9.",
+    "enGB": "Grants you a new powerful spell called Hellball, which deals 20d6 each of fire, acid, electrical, and sonic damage. Hellball is a 9th-level spell.",
     "zhCN": "给予你被称为地狱之球的强力法术，造成多种元素的10d6伤害。需要能够释放9级法术。"
   },
-
   {
     "Key": "StorvalsThunder.name",
     "ProcessTemplates": false,
     "enGB": "Storval's Thunder",
     "zhCN": "斯托瓦尔之雷"
   },
-
   {
     "Key": "StorvalsThunder.description",
-    "enGB": "The hematite head of this +1 earth breaker crackles with electricity, dealing an additional 1d6 points of electricity and 1d6 points of sonic damage on each hit.",
+    "enGB": "The hematite head of this +1 earth breaker crackles with electricity, dealing an additional 1d6 points of electricity and 1d6 points of sonic damage on each hit. 3 times per day, Storval's Thunder can call down a thunder clap on an enemy. If they fail a {g|Encyclopedia:DC}DC{/g} 20 Fortitude save, they are stunned for one round.",
     "zhCN": "这把+1裂地锤的赤铁矿锤头萦绕着电光，每次命中时会额外造成1d6点电击伤害和1d6点音波伤害。"
   },
-
   {
     "Key": "StorvalsThunder-enchant.name",
     "ProcessTemplates": false,
     "enGB": "Storval's Thunder",
     "zhCN": "斯托瓦尔之雷"
   },
-
   {
     "Key": "StorvalsThunder-enchant.description",
     "enGB": "Deals an additional 1d6 points of electricity and 1d6 points of sonic damage on each hit.",
     "zhCN": "每次命中时会额外造成1d6点电击伤害和1d6点音波伤害。"
   },
-  
   {
-        "Key": "GraveSingerPlus.name",
-        "ProcessTemplates": false,
-        "enGB": "Grave Singer Plus",
-        "zhCN": "坟中歌者加强"
-    },
-
-    {
-        "Key": "GraveSingerPlus.description",
-        "enGB": "Gives you +1 bonus to both crit range and crit multiplier. (Gives these bonuses for all weapons/unarmed, despite needing Improved Crit & Improved Crit Mythic)",
-        "zhCN": "使你的重击范围与重击倍率均获得+1加值。（此加值适用于所有武器/徒手攻击，即使需要精通重击及其神话专长）"
-    },
-
-    {
-        "Key": "StorvalsThunder-ability.name",
-        "ProcessTemplates": false,
-        "enGB": "Storval's Thunder ",
-        "zhCN": "斯托瓦尔之雷"
-    },
-
-    {
-        "Key": "StorvalsThunder-ability.description",
-        "enGB": "3 times per day, Storval's Thunder can call down a thunder clap on an enemy. If they fail a {g|Encyclopedia:DC}DC{/g} 20 Fortitude save, they are stunned for one round. (period for Hero of Cows)",
-        "zhCN": "每日3次，斯托瓦尔之雷可对敌人降下雷鸣震击。若其未通过{g|Encyclopedia:DC}DC{/g}20的强韧豁免，则震慑1轮。（给奶牛英雄的句号）"
-    },
-
-    {
-        "Key": "StorvalsFang.name",
-        "ProcessTemplates": false,
-        "enGB": "Storval's Fang",
-        "zhCN": "斯托瓦尔之牙"
-    },
-
-    {
-        "Key": "StorvalsFang.description",
-        "enGB": "This metal +1 klar is shaped like the head of a storm roc, whose sharp feathers serve as the klar’s spikes, and it hums and crackles like a distant stormy sky. When used to make a shield bash attack, a Storval’s fang deals an additional 1d6 points of sonic damage. In addition, the wielder gains electricity resistance 10.\nIf the wielder of a Storval’s Fang also wields a Storval’s Thunder and uses the Thunder and Fang feat, Storval’s Thunder deals an additional 2d6 points of electricity damage and the DCs to negate their critical hit effects increase by 5.",
-        "zhCN": "这面+1金属刺盾被塑造成风暴巨鹏的头颅形状，其锋利的羽毛构成了盾钉，并如遥远的风暴天空般嗡鸣作响。当用于进行盾牌猛击时，斯托瓦尔之牙额外造成1d6点音波伤害。此外，持用者获得10点电击抗力。\n若斯托瓦尔之牙的持用者同时持用斯托瓦尔之雷并使用雷牙双绝专长，则斯托瓦尔之雷额外造成2d6点电击伤害，且其重击效果对应的豁免DC提高5点。"
-    },
-
-    {
-        "Key": "SpikedLightShieldPlus1Sonic.name",
-        "ProcessTemplates": false,
-        "enGB": "Spiked Light Shield Plus 1 Sonic",
-        "zhCN": "+1音波钉刺轻盾"
-    },
-
-    {
-        "Key": "SpikedLightShieldPlus1Sonic.description",
-        "enGB": "Spiked Light Shield Plus 1 Sonic",
-        "zhCN": "+1音波钉刺轻盾"
-    },
-
-    {
-        "Key": "StorvalSetBonus.name",
-        "ProcessTemplates": false,
-        "enGB": "StorvalSetBonus",
-        "zhCN": "斯托瓦尔套装奖励"
-    },
-
-    {
-        "Key": "StorvalSetBonus.description",
-        "enGB": "If the wielder of a Storval’s Fang also wields a Storval’s Thunder and uses the Thunder and Fang feat, Storval’s Thunder deals an additional 2d6 points of electricity damage and the DCs to negate their critical hit effects increase by 5.",
-        "zhCN": "若斯托瓦尔之牙的持用者同时持用斯托瓦尔之雷并使用雷牙双绝专长，则斯托瓦尔之雷额外造成2d6点电击伤害，且其重击效果对应的豁免DC提高5点。"
-    },
-
-    {
-        "Key": "AneviaVendorAnswer.text",
-        "ProcessTemplates": false,
-        "enGB": "(DragonChanges) Show me your wares!",
-        "zhCN": "（DragonChanges）让我看看你的货品！"
-    },
-
-    {
-        "Key": "ChaMemeRingAC.name",
-        "ProcessTemplates": false,
-        "enGB": "Tomek's Ring",
-        "zhCN": "托梅克之戒"
-    },
-
-    {
-        "Key": "ChaMemeRingAC.description",
-        "enGB": "Ring of Tomek, the Eternally Green. His hatred is so skilled, that his ring adds your CHA modifier to your AC as a Profane bonus.",
-        "zhCN": "永恒之绿托梅克的戒指。他的憎恨技艺精湛，以至于其戒指能以亵渎加值形式将你的魅力调整值加至AC。"
-    },
-
-    {
-        "Key": "MemeRing1Feature.name",
-        "ProcessTemplates": false,
-        "enGB": "Tomek's Ring",
-        "zhCN": "托梅克之戒"
-    },
-
-    {
-        "Key": "MemeRing1Feature.description",
-        "enGB": "Ring of Tomek, the Eternally Green. His hatred is so skilled, that his ring adds your CHA modifier to your AC as a Profane bonus.",
-        "zhCN": "永恒之绿托梅克的戒指。他的憎恨技艺精湛，以至于其戒指能以亵渎加值形式将你的魅力调整值加至AC。"
-    },
-
-    {
-        "Key": "LesbianPolyculeDeity.name",
-        "ProcessTemplates": false,
-        "enGB": "Radiant Prism",
-        "zhCN": "辉光棱镜"
-    },
-
-    {
-        "Key": "LesbianPolyculeDeity.description",
-        "enGB": "The shining sun of Sarenrae, the twinkling stars of Desna, and the shimmering rainbow of Shelyn come together to form the Radiant Prism, a relatively small pantheon worshipped by those who actively fight against evil to protect the innocent. These three goddesses have been romantically involved with one another from time to time, so it makes sense that they would form a coalition. In addition to defeating the wicked, the Radiant Prism promotes the creation of beautiful works of art to bring more grace to the world.\nThough devotees of the Radiant Prism are tasked with battling all sources of evil, they are encouraged to refrain from becoming ruthless butchers. The wicked must be offered the chance to capitulate once it becomes clear their defeat is inevitable. Sarenrae’s compassion is a major pillar of the pantheon, and priests of the Radiant Prism attempt to redeem their enemies where possible. Of course, some creatures are remorseless in their evil (such as fiends and some undead), and the Radiant Prism doesn’t expect their worshippers to waste their lives trying to save such beings.",
-        "zhCN": "莎恩芮的闪耀烈阳、德丝娜的闪烁繁星与雪琳的璀璨虹光汇聚成辉光棱镜，这是一个相对较小的神系，受那些积极对抗邪恶以保护无辜者的人们所崇拜。这三位女神彼此间不时卷入浪漫关系，因此她们结成同盟合情合理。除了击败邪恶，辉光棱镜还提倡创造美丽的艺术品，为世界增添更多优雅。\n尽管辉光棱镜的信徒肩负着对抗所有邪恶源头的使命，但他们被鼓励避免沦为无情的屠夫。一旦恶徒的败局已定，必须给予他们投降的机会。莎恩芮的慈悲是此神系的主要支柱，辉光棱镜的祭司们会尽可能尝试救赎敌人。当然，某些生物在其邪恶中毫无悔意（如魔鬼和某些亡灵），辉光棱镜并不期望其信徒浪费生命去试图拯救此类存在。"
-    },
-
-    {
-        "Key": "MemeRing2.name",
-        "ProcessTemplates": false,
-        "enGB": "Ring of Heavy Body",
-        "zhCN": "沉重之躯戒指"
-    },
-
-    {
-        "Key": "MemeRing2.description",
-        "enGB": "The ring is imbued with the hope that having a heavy body will make your attacks better.\nAdds your CON bonus to your Critical range.",
-        "zhCN": "此戒指注入了“拥有沉重之躯将使你的攻击更佳”的期许。\n将你的体质调整值加至重击范围。"
-    },
-
-    {
-        "Key": "MemeRing2Feature.name",
-        "ProcessTemplates": false,
-        "enGB": "not implemented",
-        "zhCN": "未实装"
-    },
-
-    {
-        "Key": "MemeRing2Feature.description",
-        "enGB": "not implemented",
-        "zhCN": "未实装"
-    },
-
-    {
-        "Key": "SuperDexShot.name",
-        "ProcessTemplates": false,
-        "enGB": "Super Dextrous Shot",
-        "zhCN": "超凡敏捷射击"
-    },
-
-    {
-        "Key": "SuperDexShot.description",
-        "enGB": "With your Mythic PowerTM, you can now add your Dex bonus to your attack's damage with long bows and short bows, replacing your Str bonus.",
-        "zhCN": "凭借你的神话之力™，你现在可以在使用长弓与短弓进行攻击时，将敏捷调整值（取代力量调整值）加至伤害。"
-    },
-
-    {
-        "Key": "Str2DRNecklace.name",
-        "ProcessTemplates": false,
-        "enGB": "Strongman's Necklace",
-        "zhCN": "壮士项链"
-    },
-
-    {
-        "Key": "Str2DRNecklace.description",
-        "enGB": "Strongman's Necklace make's it's user's skin as tough as their Strength!\nAdds STR bonus to DR.",
-        "zhCN": "壮士项链令佩戴者的皮肤坚韧如其力量！\n将力量调整值加至伤害减免（DR）。"
-    },
-
-    {
-        "Key": "Str2DRNecklaceFeature.name",
-        "ProcessTemplates": false,
-        "enGB": "Strongman's Necklace",
-        "zhCN": "壮士项链"
-    },
-
-    {
-        "Key": "Str2DRNecklaceFeature.description",
-        "enGB": "Strongman's Necklace",
-        "zhCN": "壮士项链"
-    },
-
-    {
-        "Key": "FTKMemeRing.name",
-        "ProcessTemplates": false,
-        "enGB": "King's Ring",
-        "zhCN": "王者之戒"
-    },
-
-    {
-        "Key": "FTKMemeRing.description",
-        "enGB": "Allows the wearer to cast For The King.",
-        "zhCN": "允许佩戴者施放“为了吾王”。"
-    },
-
-    {
-        "Key": "AbundantAIS.name",
-        "ProcessTemplates": false,
-        "enGB": "Abundant All Is Darkness",
-        "zhCN": "充裕无光绝境"
-    },
-
-    {
-        "Key": "AbundantAIS.description",
-        "enGB": "You've learned a way to increase the number of uses of your All is Darkness ability.\nBenefit: You can use All is Darnkess a number of additional times per day equal to half your mythic rank.",
-        "zhCN": "你已学会增加“无光绝境”能力使用次数的方法。\n效果：你每日可额外使用“无光绝境”的次数等于你神话阶层的一半。"
-    },
-
-    {
-        "Key": "RangedCleaveBracers.name",
-        "ProcessTemplates": false,
-        "enGB": "Bracers of Cleaving Rafanat",
-        "zhCN": "裂敌护腕·拉法纳特"
-    },
-
-    {
-        "Key": "RangedCleaveBracers.description",
-        "enGB": "These bracers were crafted by a blacksmith for those strange people who try to hit multiple people with one arrow.\nAllows the user to cleave with ranged weapons in a 30ft radius of themself.",
-        "zhCN": "这副护腕由铁匠为那些试图一箭射中多人的怪人所打造。\n允许使用者在自身30英尺半径范围内，使用远程武器发动顺势斩。"
-    },
-
-    {
-        "Key": "RangedCleaveBracersFeature.name",
-        "ProcessTemplates": false,
-        "enGB": "not implemented",
-        "zhCN": "未实装"
-    },
-
-    {
-        "Key": "RangedCleaveBracersFeature.description",
-        "enGB": "not implemented",
-        "zhCN": "未实装"
-    },
-
-    {
-        "Key": "SpellFailureRing.name",
-        "ProcessTemplates": false,
-        "enGB": "Ring of Arcane Success",
-        "zhCN": "奥术成功之戒"
-    },
-
-    {
-        "Key": "SpellFailureRing.description",
-        "enGB": "This ring is imbued with the willpower of a very successful mage.\nLowers arcane spell failure by 25.",
-        "zhCN": "此戒指注入了某位极其成功的法师的意志力。\n降低25%奥术失败率。"
-    },
-
-    {
-        "Key": "SpellFailureRingFeature.name",
-        "ProcessTemplates": false,
-        "enGB": "not implemented",
-        "zhCN": "未实装"
-    },
-
-    {
-        "Key": "SpellFailureRingFeature.description",
-        "enGB": "not implemented",
-        "zhCN": "未实装"
-    },
-
-    {
-        "Key": "SpellFailureRingFeature2.name",
-        "ProcessTemplates": false,
-        "enGB": "not implemented",
-        "zhCN": "未实装"
-    },
-
-    {
-        "Key": "SpellFailureRingFeature2.description",
-        "enGB": "not implemented",
-        "zhCN": "未实装"
-    },
-
-    {
-        "Key": "InsightfulContemplation.description",
-        "enGB": "At 1st level, affected allies gain a +2 morale {g|Encyclopedia:Bonus}bonus{/g} to {g|Encyclopedia:Intelligence}Intelligence{/g}, {g|Encyclopedia:Intelligence}Wisdom{/g} and {g|Encyclopedia:Charisma}Charisma{/g} and a +1 morale bonus on {g|Encyclopedia:Saving_Throw}Will saving throws{/g}, but they also take a –1 {g|Encyclopedia:Penalty}penalty{/g} to {g|Encyclopedia:Armor_Class}AC{/g}. At 4th level and every 4 skald levels thereafter, the song's bonus on Will saves increases by 1; the penalty to AC doesn't change. At 8th and 16th levels, the song's bonuses to Intelligence, Wisdom, and Charisma increase by 2. (Unlike the barbarian's rage ability, those affected are not {g|ConditionFatigued}fatigued{/g} after the song ends.)",
-        "zhCN": "1级起，受影响盟友的{g|Encyclopedia:Intelligence}智力{/g}、{g|Encyclopedia:Wisdom}感知{/g}和{g|Encyclopedia:Charisma}魅力属性{/g}获得+2士气{g|Encyclopedia:Bonus}加值{/g}，{g|Encyclopedia:Saving_Throw}意志豁免检定{/g}获得+1士气加值，但{g|Encyclopedia:Armor_Class}防御等级（AC）{/g}也会承受-1{g|Encyclopedia:Penalty}减值{/g}。4级时，以及之后每提升4级，歌曲对意志豁免的加值提高1点，防御等级（AC）上的减值则保持不变。8级和16级时，歌曲对智力和魅力属性的加值提高2点（和野蛮人的狂暴能力不同，被歌曲影响的生物在歌曲结束时不会陷入{g|ConditionFatigued}疲劳{/g}）。"
-    },
-  {
-    "Key": "dragonchanges.disabled",
+    "Key": "GraveSingerPlus.name",
     "ProcessTemplates": false,
-    "enGB": "Disabled DragonChanges Content",
-    "zhCN": "禁止DragonChanges内容"
+    "enGB": "Ascendant Critical",
+    "zhCN": "坟中歌者加强"
   },
   {
-    "Key": "StudentOfNethys.name",
+    "Key": "GraveSingerPlus.description",
+    "enGB": "Your mastery of critical strikes is unmatched.\nYour critical threat range and critical damage multiplier for all weapons, including unarmed strikes and natural weapons, are both increased by 1, stacking with all other similar effects.",
+    "zhCN": "使你的重击范围与重击倍率均获得+1加值。（此加值适用于所有武器/徒手攻击，即使需要精通重击及其神话专长）"
+  },
+  {
+    "Key": "StorvalsThunder-ability.name",
     "ProcessTemplates": false,
-    "enGB": "Student Of Nethys",
-    "zhCN": "涅希斯学徒"
+    "enGB": "Storval's Thunder ",
+    "zhCN": "斯托瓦尔之雷"
   },
   {
-    "Key": "StudentOfNethys.description",
+    "Key": "StorvalsThunder-ability.description",
+    "enGB": "3 times per day, Storval's Thunder can call down a thunder clap on an enemy. If they fail a {g|Encyclopedia:DC}DC{/g} 20 Fortitude save, they are stunned for one round. (period for Hero of Cows)",
+    "zhCN": "每日3次，斯托瓦尔之雷可对敌人降下雷鸣震击。若其未通过{g|Encyclopedia:DC}DC{/g}20的强韧豁免，则震慑1轮。（给奶牛英雄的句号）"
+  },
+  {
+    "Key": "StorvalsFang.name",
     "ProcessTemplates": false,
-    "enGB": "By studying the teachings of Nethys, your spells have an increased difficulty class, with a bonus of 2.",
-    "zhCN": "研习魔法之神涅希斯的教义后，你的法术豁免难度提升，获得+2加值。"
+    "enGB": "Storval's Fang",
+    "zhCN": "斯托瓦尔之牙"
   },
   {
-    "Key": "ProfessorOfNethys.name",
+    "Key": "StorvalsFang.description",
+    "enGB": "This metal +1 klar is shaped like the head of a storm roc, whose sharp feathers serve as the klar’s spikes, and it hums and crackles like a distant stormy sky. When used to make a shield bash attack, a Storval’s fang deals an additional 1d6 points of sonic damage. In addition, the wielder gains electricity resistance 10.\nIf the wielder of a Storval’s Fang also wields a Storval’s Thunder and uses the Thunder and Fang feat, Storval’s Thunder deals an additional 2d6 points of electricity damage and the DCs to negate their critical hit effects increase by 5.",
+    "zhCN": "这面+1金属刺盾被塑造成风暴巨鹏的头颅形状，其锋利的羽毛构成了盾钉，并如遥远的风暴天空般嗡鸣作响。当用于进行盾牌猛击时，斯托瓦尔之牙额外造成1d6点音波伤害。此外，持用者获得10点电击抗力。\n若斯托瓦尔之牙的持用者同时持用斯托瓦尔之雷并使用雷牙双绝专长，则斯托瓦尔之雷额外造成2d6点电击伤害，且其重击效果对应的豁免DC提高5点。"
+  },
+  {
+    "Key": "SpikedLightShieldPlus1Sonic.name",
     "ProcessTemplates": false,
-    "enGB": "Professor Of Nethys",
-    "zhCN": "涅希斯导师"
+    "enGB": "Spiked Light Shield Plus 1 Sonic",
+    "zhCN": "+1音波钉刺轻盾"
   },
   {
-    "Key": "ProfessorOfNethys.description",
+    "Key": "SpikedLightShieldPlus1Sonic.description",
+    "enGB": "Spiked Light Shield Plus 1 Sonic",
+    "zhCN": "+1音波钉刺轻盾"
+  },
+  {
+    "Key": "StorvalSetBonus.name",
     "ProcessTemplates": false,
-    "enGB": "By studying the teachings of Nethys, your spells have an increased difficulty class, with an additional bonus of 4.",
-    "zhCN": "精研魔法之神涅希斯的教义后，你的法术豁免难度进一步提升，获得额外+4加值。"
+    "enGB": "StorvalSetBonus",
+    "zhCN": "斯托瓦尔套装奖励"
   },
   {
-    "Key": "ScholarOfNethys.name",
+    "Key": "StorvalSetBonus.description",
+    "enGB": "If the wielder of a Storval’s Fang also wields a Storval’s Thunder and uses the Thunder and Fang feat, Storval’s Thunder deals an additional 2d6 points of electricity damage and the DCs to negate their critical hit effects increase by 5.",
+    "zhCN": "若斯托瓦尔之牙的持用者同时持用斯托瓦尔之雷并使用雷牙双绝专长，则斯托瓦尔之雷额外造成2d6点电击伤害，且其重击效果对应的豁免DC提高5点。"
+  },
+  {
+    "Key": "AneviaVendorAnswer.text",
     "ProcessTemplates": false,
-    "enGB": "Scholar Of Nethys",
-    "zhCN": "涅希斯学者"
+    "enGB": "(DragonChanges) Show me your wares!",
+    "zhCN": "（DragonChanges）让我看看你的货品！"
   },
   {
-    "Key": "ScholarOfNethys.description",
+    "Key": "ChaMemeRingAC.name",
     "ProcessTemplates": false,
-    "enGB": "By studying the teachings of Nethys, your spells have an increased difficulty class, with an additional bonus of 2.",
-    "zhCN": "钻研魔法之神涅希斯的教义后，你的法术豁免难度提升，获得额外+2加值。"
+    "enGB": "Tomek's Ring",
+    "zhCN": "托梅克之戒"
   },
   {
-    "Key": "MythicSupportNethys.name",
+    "Key": "ChaMemeRingAC.description",
+    "enGB": "Ring of Tomek, the Eternally Green. His hatred is so skilled, that his ring adds your CHA modifier to your AC as a Profane bonus.",
+    "zhCN": "永恒之绿托梅克的戒指。他的憎恨技艺精湛，以至于其戒指能以亵渎加值形式将你的魅力调整值加至AC。"
+  },
+  {
+    "Key": "MemeRing1Feature.name",
     "ProcessTemplates": false,
-    "enGB": "Mythic Support of Nethys",
-    "zhCN": "涅希斯神话援护"
+    "enGB": "Tomek's Ring",
+    "zhCN": "托梅克之戒"
   },
   {
-    "Key": "MythicSupportNethys.description",
+    "Key": "MemeRing1Feature.description",
+    "enGB": "Ring of Tomek, the Eternally Green. His hatred is so skilled, that his ring adds your CHA modifier to your AC as a Profane bonus.",
+    "zhCN": "永恒之绿托梅克的戒指。他的憎恨技艺精湛，以至于其戒指能以亵渎加值形式将你的魅力调整值加至AC。"
+  },
+  {
+    "Key": "LesbianPolyculeDeity.name",
     "ProcessTemplates": false,
-    "enGB": "Nethys is so impressed with your dedication to his teachings, that he helps your spells difficult class grow even more. Bonus of +6",
-    "zhCN": "你对魔法之神的虔诚研习令涅希斯深感赞赏，祂亲自强化了你的法术威能。法术豁免难度获得+6加值。"
+    "enGB": "Radiant Prism",
+    "zhCN": "辉光棱镜"
   },
   {
-    "Key": "buildsenjoyer.name",
+    "Key": "LesbianPolyculeDeity.description",
+    "enGB": "The shining sun of Sarenrae, the twinkling stars of Desna, and the shimmering rainbow of Shelyn come together to form the Radiant Prism, a relatively small pantheon worshipped by those who actively fight against evil to protect the innocent. These three goddesses have been romantically involved with one another from time to time, so it makes sense that they would form a coalition. In addition to defeating the wicked, the Radiant Prism promotes the creation of beautiful works of art to bring more grace to the world.\nThough devotees of the Radiant Prism are tasked with battling all sources of evil, they are encouraged to refrain from becoming ruthless butchers. The wicked must be offered the chance to capitulate once it becomes clear their defeat is inevitable. Sarenrae’s compassion is a major pillar of the pantheon, and priests of the Radiant Prism attempt to redeem their enemies where possible. Of course, some creatures are remorseless in their evil (such as fiends and some undead), and the Radiant Prism doesn’t expect their worshippers to waste their lives trying to save such beings.",
+    "zhCN": "莎恩芮的闪耀烈阳、德丝娜的闪烁繁星与雪琳的璀璨虹光汇聚成辉光棱镜，这是一个相对较小的神系，受那些积极对抗邪恶以保护无辜者的人们所崇拜。这三位女神彼此间不时卷入浪漫关系，因此她们结成同盟合情合理。除了击败邪恶，辉光棱镜还提倡创造美丽的艺术品，为世界增添更多优雅。\n尽管辉光棱镜的信徒肩负着对抗所有邪恶源头的使命，但他们被鼓励避免沦为无情的屠夫。一旦恶徒的败局已定，必须给予他们投降的机会。莎恩芮的慈悲是此神系的主要支柱，辉光棱镜的祭司们会尽可能尝试救赎敌人。当然，某些生物在其邪恶中毫无悔意（如魔鬼和某些亡灵），辉光棱镜并不期望其信徒浪费生命去试图拯救此类存在。"
+  },
+  {
+    "Key": "MemeRing2.name",
     "ProcessTemplates": false,
-    "enGB": "BuildsEnjoyer",
-    "zhCN": "百变宗师"
+    "enGB": "Ring of Heavy Body",
+    "zhCN": "沉重之躯戒指"
   },
   {
-    "Key": "buildsenjoyer.description",
+    "Key": "MemeRing2.description",
+    "enGB": "The ring is imbued with the hope that having a heavy body will make your attacks better.\nAdds your CON bonus to your Critical range.",
+    "zhCN": "此戒指注入了“拥有沉重之躯将使你的攻击更佳”的期许。\n将你的体质调整值加至重击范围。"
+  },
+  {
+    "Key": "MemeRing2Feature.name",
     "ProcessTemplates": false,
-    "enGB": "Builds Enjoyer combines Inciter, Dronk, and Marine archetypes into one handy class!",
-    "zhCN": "融合滋事者、醉拳大师与深黯军团兵士三大变体，铸就这全能的传奇职业！"
+    "enGB": "not implemented",
+    "zhCN": "未实装"
   },
   {
-    "Key": "buildsenjoyer.shortdescription",
+    "Key": "MemeRing2Feature.description",
+    "enGB": "not implemented",
+    "zhCN": "未实装"
+  },
+  {
+    "Key": "SuperDexShot.name",
     "ProcessTemplates": false,
-    "enGB": "Builds Enjoyer combines Inciter, Drunken Monk, and Sable Marine archetypes into one handy class! Also gives Magic Deceiver spellbook at KC's request!",
-    "zhCN": "融合煽动者、醉拳大师与深黯军团兵士变体（应KC要求额外获得魔法诈欺师法术书）的全能职业。"
+    "enGB": "Mythic Archer",
+    "zhCN": "超凡敏捷射击"
   },
   {
-    "Key": "Invincible.name",
+    "Key": "SuperDexShot.description",
+    "enGB": "When using longbows or shortbows, you may use your Dexterity modifier instead of your Strength modifier on your damage rolls, if the former is higher.",
+    "zhCN": "凭借你的神话之力™，你现在可以在使用长弓与短弓进行攻击时，将敏捷调整值（取代力量调整值）加至伤害。"
+  },
+  {
+    "Key": "Str2DRNecklace.name",
     "ProcessTemplates": false,
-    "enGB": "Invincible",
-    "zhCN": "无懈可击"
+    "enGB": "Strongman's Necklace",
+    "zhCN": "壮士项链"
   },
   {
-    "Key": "Invincible.description",
+    "Key": "Str2DRNecklace.description",
+    "enGB": "Strongman's Necklace make's it's user's skin as tough as their Strength!\nAdds STR bonus to DR.",
+    "zhCN": "壮士项链令佩戴者的皮肤坚韧如其力量！\n将力量调整值加至伤害减免（DR）。"
+  },
+  {
+    "Key": "Str2DRNecklaceFeature.name",
     "ProcessTemplates": false,
-    "enGB": "The Juggernaut's bodily consituation is so great, she can shrug off attacks.\nAt 2nd level, she gains DR/- equal to her CON bonus. This stacks with other sources of DR/-.",
-    "zhCN": "主宰的身躯强健程度让她可以忽视攻击。\n2级起，她获得等于其体质加值的 DR/- ，可以和其它来源的 DR/- 叠加。"
+    "enGB": "Strongman's Necklace",
+    "zhCN": "壮士项链"
   },
   {
-    "Key": "Juggernaut.name",
+    "Key": "Str2DRNecklaceFeature.description",
+    "enGB": "Strongman's Necklace",
+    "zhCN": "壮士项链"
+  },
+  {
+    "Key": "FTKMemeRing.name",
     "ProcessTemplates": false,
-    "enGB": "Juggernaut",
-    "zhCN": "主宰"
+    "enGB": "King's Ring",
+    "zhCN": "王者之戒"
   },
   {
-    "Key": "Juggernaut.description",
-    "ProcessTemplates": true,
-    "enGB": "Juggernaut, DR focused Barbarian. Inspired by Rafantat on Discord",
-    "zhCN": "主宰，专注于减免伤害的野蛮人。"
+    "Key": "FTKMemeRing.description",
+    "enGB": "Allows the wearer to cast For The King.",
+    "zhCN": "允许佩戴者施放“为了吾王”。"
   },
   {
-    "Key": "Juggernaut.shortdescription",
-    "ProcessTemplates": true,
-    "enGB": "Juggernaut, DR focused Barbarian. Inspired by Rafantat on Discord",
-    "zhCN": "主宰，专注于减免伤害的野蛮人。"
-  },
-  {
-    "Key": "JuggernautProficiencies.name",
+    "Key": "AbundantAIS.name",
     "ProcessTemplates": false,
-    "enGB": "Juggernaut Proficiencies",
-    "zhCN": "主宰擅长"
+    "enGB": "Abundant All Is Darkness",
+    "zhCN": "充裕无光绝境"
   },
   {
-    "Key": "JuggernautProficiencies.description",
-    "ProcessTemplates": false,
-    "enGB": "A Juggernaut is proficient with simple and martial weapons, and shields.",
-    "zhCN": "主宰擅长简易和军用武器，还有盾牌。"
-  },
-   {
-    "Key": "AmberSpindleItem.name",
-    "ProcessTemplates": false,
-    "enGB": "Amber Spindle - Ioun Stone",
-    "zhCN": "琥珀纺锤 - 艾恩石"
+    "Key": "AbundantAIS.description",
+    "enGB": "You've learned a way to increase the number of uses of your All is Darkness ability.\nBenefit: You can use All is Darnkess a number of additional times per day equal to half your mythic rank.",
+    "zhCN": "你已学会增加“无光绝境”能力使用次数的方法。\n效果：你每日可额外使用“无光绝境”的次数等于你神话阶层的一半。"
   },
   {
-    "Key": "AmberSpindleItem.description",
+    "Key": "SpellFailureRing.name",
     "ProcessTemplates": false,
-    "enGB": "This stone grants you a +1 resistance bonus on saving throws. The bonuses from multiple amber spindles stack  (up to a maximum of a +5 resistance bonus to saving throws).",
-    "zhCN": "这块石头使你在豁免检定上获得+1抗力加值。多个琥珀纺锤的加值可叠加（最高为豁免检定提供+5抗力加值）。"
+    "enGB": "Ring of Arcane Success",
+    "zhCN": "奥术成功之戒"
   },
   {
-    "Key": "CrimsonSphereItem.name",
-    "ProcessTemplates": false,
-    "enGB": "Crimson Sphere - Ioun Stone",
-    "zhCN": "深红圆石 - 艾恩石"
+    "Key": "SpellFailureRing.description",
+    "enGB": "This ring is imbued with the willpower of a very successful mage.\nLowers arcane spell failure by 25.",
+    "zhCN": "此戒指注入了某位极其成功的法师的意志力。\n降低25%奥术失败率。"
   },
   {
-    "Key": "CrimsonSphereItem.description",
+    "Key": "SpellFailureRingFeature.name",
     "ProcessTemplates": false,
-    "enGB": "This stone grants you a +2 enhancement bonus to Intelligence. The bonuses from multiple crimson spheres stack (up to a maximum of a +10 enhancement bonus to Intelligence).",
-    "zhCN": "这块石头使你的智力获得+2增强加值。多个深红圆石的加值可叠加（最高为智力提供+10增强加值）。"
+    "enGB": "not implemented",
+    "zhCN": "未实装"
   },
   {
-    "Key": "DarkBlueRhomboidItem.name",
-    "ProcessTemplates": false,
-    "enGB": "Dark Blue Rhomboid - Ioun Stone",
-    "zhCN": "暗蓝菱形石 - 艾恩石"
+    "Key": "SpellFailureRingFeature.description",
+    "enGB": "not implemented",
+    "zhCN": "未实装"
   },
   {
-    "Key": "DarkBlueRhomboidItem.description",
+    "Key": "SpellFailureRingFeature2.name",
     "ProcessTemplates": false,
-    "enGB": "This stone grants the wearer the effects of the Alertness feat.",
-    "zhCN": "这块石头赋予佩戴者“警觉”专长的效果。"
+    "enGB": "not implemented",
+    "zhCN": "未实装"
   },
   {
-    "Key": "DeepRedSphereItem.name",
-    "ProcessTemplates": false,
-    "enGB": "Deep Red Sphere - Ioun Stone",
-    "zhCN": "暗红圆石 - 艾恩石"
+    "Key": "SpellFailureRingFeature2.description",
+    "enGB": "not implemented",
+    "zhCN": "未实装"
   },
   {
-    "Key": "DeepRedSphereItem.description",
-    "ProcessTemplates": false,
-    "enGB": "This stone grants you a +2 enhancement bonus to Dexterity. The bonuses from multiple crimson spheres stack (up to a maximum of a +10 enhancement bonus to Dexterity).",
-    "zhCN": "这块石头使你的敏捷获得+2增强加值。多个深红圆石的加值可叠加（最高为敏捷提供+10增强加值）。"
-  },
-  {
-    "Key": "AmberSpindleBuff.name",
-    "ProcessTemplates": false,
-    "enGB": "Amber Spinder (buff)",
-    "zhCN": "琥珀纺锤 (增益)"
-  },
-  {
-    "Key": "AmberSpindleBuff.description",
-    "ProcessTemplates": false,
-    "enGB": "This stone grants you a +1 resistance bonus on saving throws.",
-    "zhCN": "这块石头使你在豁免检定上获得+1抗力加值。"
-  },
-  {
-    "Key": "CrimsonSphereBuff.name",
-    "ProcessTemplates": false,
-    "enGB": "Crimson Sphere(buff)",
-    "zhCN": "深红圆石 (增益)"
-  },
-  {
-    "Key": "CrimsonSphereBuff.description",
-    "ProcessTemplates": false,
-    "enGB": "This stone grants you a +2 enhancement bonus to Intelligence.",
-    "zhCN": "这块石头使你的智力获得+2增强加值。"
-  },
-  {
-    "Key": "DarkBlueRhomboidBuff.name",
-    "ProcessTemplates": false,
-    "enGB": "Dark Blue Rhomboid (buff)",
-    "zhCN": "暗蓝菱形石 (增益)"
-  },
-  {
-    "Key": "DarkBlueRhomboidBuff.description",
-    "ProcessTemplates": false,
-    "enGB": "This stone grants the wearer the effects of the Alertness feat.",
-    "zhCN": "这块石头赋予佩戴者“警觉”专长的效果。"
-  },
-  {
-    "Key": "DeepRedSphereBuff.name",
-    "ProcessTemplates": false,
-    "enGB": "Deep Red Sphere (buff)",
-    "zhCN": "暗红圆石 (增益)"
-  },
-  {
-    "Key": "DeepRedSphereBuff.description",
-    "ProcessTemplates": false,
-    "enGB": "This stone grants you a +2 enhancement bonus to Dexterity.",
-    "zhCN": "这块石头使你的敏捷获得+2增强加值。"
-  },
-  {
-    "Key": "AmberSpindleAbility.name",
-    "ProcessTemplates": false,
-    "enGB": "Amber Spindle",
-    "zhCN": "琥珀纺锤"
-  },
-  {
-    "Key": "AmberSpindleAbility.description",
-    "ProcessTemplates": false,
-    "enGB": "This stone grants you a +1 resistance bonus on saving throws.",
-    "zhCN": "这块石头使你在豁免检定上获得+1抗力加值。"
-  },
-  {
-    "Key": "CrimsonSphereAbility.name",
-    "ProcessTemplates": false,
-    "enGB": "Crimson Sphere",
-    "zhCN": "深红圆石"
-  },
-  {
-    "Key": "CrimsonSphereAbility.description",
-    "ProcessTemplates": false,
-    "enGB": "This stone grants you a +2 enhancement bonus to Intelligence.",
-    "zhCN": "这块石头使你的智力获得+2增强加值。"
-  },
-  {
-    "Key": "DarkBlueRhomboidAbility.name",
-    "ProcessTemplates": false,
-    "enGB": "Dark Blue Rhomboid",
-    "zhCN": "暗蓝菱形石"
-  },
-  {
-    "Key": "DarkBlueRhomboidAbility.description",
-    "ProcessTemplates": false,
-    "enGB": "This stone grants the wearer the effects of the Alertness feat.",
-    "zhCN": "这块石头赋予佩戴者“警觉”专长的效果。"
-  },
-  {
-    "Key": "DeepRedSphereAbility.name",
-    "ProcessTemplates": false,
-    "enGB": "Deep Red Sphere",
-    "zhCN": "暗红圆石"
-  },
-  {
-    "Key": "DeepRedSphereAbility.description",
-    "ProcessTemplates": false,
-    "enGB": "This stone grants you a +2 enhancement bonus to Dexterity.",
-    "zhCN": "这块石头使你的敏捷获得+2增强加值。"
+    "Key": "InsightfulContemplation.description",
+    "enGB": "At 1st level, affected allies gain a +2 morale {g|Encyclopedia:Bonus}bonus{/g} to {g|Encyclopedia:Intelligence}Intelligence{/g}, {g|Encyclopedia:Intelligence}Wisdom{/g} and {g|Encyclopedia:Charisma}Charisma{/g} and a +1 morale bonus on {g|Encyclopedia:Saving_Throw}Will saving throws{/g}, but they also take a –1 {g|Encyclopedia:Penalty}penalty{/g} to {g|Encyclopedia:Armor_Class}AC{/g}. At 4th level and every 4 skald levels thereafter, the song's bonus on Will saves increases by 1; the penalty to AC doesn't change. At 8th and 16th levels, the song's bonuses to Intelligence, Wisdom, and Charisma increase by 2. (Unlike the barbarian's rage ability, those affected are not {g|ConditionFatigued}fatigued{/g} after the song ends.)",
+    "zhCN": "1级起，受影响盟友的{g|Encyclopedia:Intelligence}智力{/g}、{g|Encyclopedia:Wisdom}感知{/g}和{g|Encyclopedia:Charisma}魅力属性{/g}获得+2士气{g|Encyclopedia:Bonus}加值{/g}，{g|Encyclopedia:Saving_Throw}意志豁免检定{/g}获得+1士气加值，但{g|Encyclopedia:Armor_Class}防御等级（AC）{/g}也会承受-1{g|Encyclopedia:Penalty}减值{/g}。4级时，以及之后每提升4级，歌曲对意志豁免的加值提高1点，防御等级（AC）上的减值则保持不变。8级和16级时，歌曲对智力和魅力属性的加值提高2点（和野蛮人的狂暴能力不同，被歌曲影响的生物在歌曲结束时不会陷入{g|ConditionFatigued}疲劳{/g}）。"
   }
 ]
