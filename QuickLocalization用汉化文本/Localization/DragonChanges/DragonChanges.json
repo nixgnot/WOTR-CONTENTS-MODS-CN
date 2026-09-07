@@ -52,7 +52,7 @@
   {
     "Key": "ChaToDR.Description",
     "enGB": "The Redditor adds his {g|Encyclopedia:Charisma}Charisma{/g} bonus (if any) to his Damage Reduction.",
-    "zhCN": "贴吧老哥将其{g|Encyclopedia:Charisma}魅力{/g}调整值（如果有） 加到其伤害减免（目前失效）。"
+    "zhCN": "贴吧老哥将他的{g|Encyclopedia:Charisma}魅力{/g}调整值（若有）加到伤害减免上。"
   },
   {
     "Key": "ChaToSpellPen.Name",
@@ -938,12 +938,12 @@
     "Key": "GraveSingerPlus.name",
     "ProcessTemplates": false,
     "enGB": "Ascendant Critical",
-    "zhCN": "坟中歌者加强"
+    "zhCN": "巅峰重击"
   },
   {
     "Key": "GraveSingerPlus.description",
     "enGB": "Your mastery of critical strikes is unmatched.\nYour critical threat range and critical damage multiplier for all weapons, including unarmed strikes and natural weapons, are both increased by 1, stacking with all other similar effects.",
-    "zhCN": "使你的重击范围与重击倍率均获得+1加值。（此加值适用于所有武器/徒手攻击，即使需要精通重击及其神话专长）"
+    "zhCN": "你对重击的掌握无人能及。\n你使用所有武器（包括徒手攻击和天生武器）时，重击威胁范围和重击伤害倍率均提高 1，且可与其他类似效果叠加。"
   },
   {
     "Key": "StorvalsThunder-ability.name",
@@ -1054,12 +1054,12 @@
     "Key": "SuperDexShot.name",
     "ProcessTemplates": false,
     "enGB": "Mythic Archer",
-    "zhCN": "超凡敏捷射击"
+    "zhCN": "神话射手"
   },
   {
     "Key": "SuperDexShot.description",
     "enGB": "When using longbows or shortbows, you may use your Dexterity modifier instead of your Strength modifier on your damage rolls, if the former is higher.",
-    "zhCN": "凭借你的神话之力™，你现在可以在使用长弓与短弓进行攻击时，将敏捷调整值（取代力量调整值）加至伤害。"
+    "zhCN": "使用长弓或短弓时，若你的敏捷调整值高于力量调整值，则可在伤害检定中以敏捷调整值取代力量调整值。"
   },
   {
     "Key": "Str2DRNecklace.name",
@@ -1142,5 +1142,1265 @@
     "Key": "InsightfulContemplation.description",
     "enGB": "At 1st level, affected allies gain a +2 morale {g|Encyclopedia:Bonus}bonus{/g} to {g|Encyclopedia:Intelligence}Intelligence{/g}, {g|Encyclopedia:Intelligence}Wisdom{/g} and {g|Encyclopedia:Charisma}Charisma{/g} and a +1 morale bonus on {g|Encyclopedia:Saving_Throw}Will saving throws{/g}, but they also take a –1 {g|Encyclopedia:Penalty}penalty{/g} to {g|Encyclopedia:Armor_Class}AC{/g}. At 4th level and every 4 skald levels thereafter, the song's bonus on Will saves increases by 1; the penalty to AC doesn't change. At 8th and 16th levels, the song's bonuses to Intelligence, Wisdom, and Charisma increase by 2. (Unlike the barbarian's rage ability, those affected are not {g|ConditionFatigued}fatigued{/g} after the song ends.)",
     "zhCN": "1级起，受影响盟友的{g|Encyclopedia:Intelligence}智力{/g}、{g|Encyclopedia:Wisdom}感知{/g}和{g|Encyclopedia:Charisma}魅力属性{/g}获得+2士气{g|Encyclopedia:Bonus}加值{/g}，{g|Encyclopedia:Saving_Throw}意志豁免检定{/g}获得+1士气加值，但{g|Encyclopedia:Armor_Class}防御等级（AC）{/g}也会承受-1{g|Encyclopedia:Penalty}减值{/g}。4级时，以及之后每提升4级，歌曲对意志豁免的加值提高1点，防御等级（AC）上的减值则保持不变。8级和16级时，歌曲对智力和魅力属性的加值提高2点（和野蛮人的狂暴能力不同，被歌曲影响的生物在歌曲结束时不会陷入{g|ConditionFatigued}疲劳{/g}）。"
+  },
+  {
+    "Key": "ChargingHurler-feat.name",
+    "ProcessTemplates": false,
+    "enGB": "Charging Hurler",
+    "zhCN": "冲锋投掷"
+  },
+  {
+    "Key": "ChargingHurler-feat.description",
+    "ProcessTemplates": false,
+    "enGB": "You can use the charge rules to make a thrown weapon attack. All the parameters of a charge apply, except that you must only move closer to your opponent, and you must end your movement within 30 feet of that opponent. If you do, you can make a single thrown weapon attack against that opponent, gaining the +2 bonus on the attack roll and taking a –2 penalty to your AC until the start of your next turn.",
+    "zhCN": "你可以按照冲锋规则进行一次投掷武器攻击。冲锋的所有参数均适用，唯一的区别在于你必须径直接近对手，且必须在距该对手30尺以内结束移动。若你如此做，可对该对手进行一次单独的投掷武器攻击，在攻击检定上获得+2加值，并在防御等级（AC）上承受-2减值，持续至你的下个回合开始。"
+  },
+  {
+    "Key": "StudentOfNethys.name",
+    "ProcessTemplates": false,
+    "enGB": "Potent Spellcasting",
+    "zhCN": "强效施法"
+  },
+  {
+    "Key": "StudentOfNethys.description",
+    "ProcessTemplates": false,
+    "enGB": "Your spells are more difficult to resist.\nAdd +2 to the Difficulty Class for all saving throws against spells you cast.",
+    "zhCN": "你的法术更难被抵抗。\n针对你施放的所有法术，其豁免检定的难度等级+2。"
+  },
+  {
+    "Key": "ExoticWeaponMaster.name",
+    "ProcessTemplates": false,
+    "enGB": "Exotic Weapon Master",
+    "zhCN": "异种武器大师"
+  },
+  {
+    "Key": "ExoticWeaponMaster.description",
+    "ProcessTemplates": false,
+    "enGB": "Allows you to use all exotic weapons.",
+    "zhCN": "允许你使用所有异种武器。"
+  },
+  {
+    "Key": "ProfessorOfNethys.name",
+    "ProcessTemplates": false,
+    "enGB": "Greater Potent Spellcasting",
+    "zhCN": "高等强效施法"
+  },
+  {
+    "Key": "ProfessorOfNethys.description",
+    "ProcessTemplates": false,
+    "enGB": "Your spells are extremely difficult to resist.\nAdd +4 to the Difficulty Class for all saving throws against spells you cast. This bonus stacks with the bonuses from Potent Spellcasting and Improved Potent Spellcasting.",
+    "zhCN": "你的法术极难被抵抗。\n针对你施放的所有法术，其豁免检定的难度等级+4。此加值可与强效施法和精通强效施法的加值叠加。"
+  },
+  {
+    "Key": "griffonmountfeature.name",
+    "ProcessTemplates": false,
+    "enGB": "Animal Companion - Griffon",
+    "zhCN": "动物伙伴（狮鹫）"
+  },
+  {
+    "Key": "griffonmountfeature.description",
+    "ProcessTemplates": true,
+    "enGB": "MOUNTING IS VISUALLY BROKEN\nTODO",
+    "zhCN": "外观存在错误\n开发中"
+  },
+  {
+    "Key": "ScholarOfNethys.name",
+    "ProcessTemplates": false,
+    "enGB": "Improved Potent Spellcasting",
+    "zhCN": "精通强效施法"
+  },
+  {
+    "Key": "ScholarOfNethys.description",
+    "ProcessTemplates": false,
+    "enGB": "Your spells are even more difficult to resist.\nAdd +2 to the Difficulty Class for all saving throws against spells you cast. This bonus stacks with the bonus provided by Potent Spellcasting.",
+    "zhCN": "你的法术更加难以抵抗。\n针对你施放的所有法术，其豁免检定的难度等级+2。此加值可与强效施法提供的加值叠加。"
+  },
+  {
+    "Key": "LimitlessSwordOfHeaven.name",
+    "ProcessTemplates": false,
+    "enGB": "Limitless Sword of Heaven",
+    "zhCN": "无尽天堂之剑"
+  },
+  {
+    "Key": "LimitlessSwordOfHeaven.description",
+    "ProcessTemplates": false,
+    "enGB": "Your Angelic Sword knows neither limits. Benefit: The number of {g|Encyclopedia:Combat_Round}rounds{/g} per day for your Sword of Heaven ability is no longer limited.",
+    "zhCN": "你的天堂之剑永无止境。效果：你的“天堂之剑”能力每日可使用的{g|Encyclopedia:Combat_Round}轮数{/g}不再受限。"
+  },
+  {
+    "Key": "MythicSupportNethys.name",
+    "ProcessTemplates": false,
+    "enGB": "Potent Spellcasting (Mythic)",
+    "zhCN": "强效施法（神话）"
+  },
+  {
+    "Key": "MythicSupportNethys.description",
+    "ProcessTemplates": false,
+    "enGB": "Mythic power makes your spells almost impossible to resist.\nAdd +6 to the Difficulty Class for all saving throws against spells you cast. This bonus stacks with the bonuses from Potent Spellcasting, Improved Potent Spellcasting, and Greater Potent Spellcasting.",
+    "zhCN": "神话之力让你的法术几乎不可能被抵抗。\n针对你施放的所有法术，其豁免检定的难度等级+6。此加值可与强效施法、精通强效施法以及高等强效施法的加值叠加。"
+  },
+  {
+    "Key": "MyThicFeat.name",
+    "ProcessTemplates": false,
+    "enGB": "My Thic Feat",
+    "zhCN": "我的肉装神话专长"
+  },
+  {
+    "Key": "MyThicFeat.description",
+    "ProcessTemplates": false,
+    "enGB": "You are so THICCCCC that your CON score raises by 2!",
+    "zhCN": "你的体格实在太太太结实了，体质属性提升2点！"
+  },
+  {
+    "Key": "PowerfulThrow.name",
+    "ProcessTemplates": false,
+    "enGB": "Powerful Throw",
+    "zhCN": "强力投掷"
+  },
+  {
+    "Key": "PowerfulThrow.description",
+    "ProcessTemplates": true,
+    "enGB": "You may use your {g}Strength{/g} modifier in place of your {g}Dexterity{/g} modifier for your attack rolls when making a ranged attack with thrown weapons. You may also use the Power Attack feat instead of the Deadly Aim feat when attacking with thrown weapons.",
+    "zhCN": "你使用{g}力量{/g}调整值取代{g}敏捷{/g}调整值，来计算使用投掷武器时的远程攻击检定。同时你也可以对远程投掷武器应用猛力攻击专长，来替代致命瞄准。"
+  },
+  {
+    "Key": "PresenceofMind.name",
+    "ProcessTemplates": false,
+    "enGB": "Presence of Mind",
+    "zhCN": "镇定自若"
+  },
+  {
+    "Key": "PresenceofMind.description",
+    "ProcessTemplates": false,
+    "enGB": "You add your Intelligence modifier to initiative checks. This is in addition to other modifiers to initiative checks, like the bonus provided by a high Dexterity or the Improved Initiative feat.",
+    "zhCN": "你将智力调整值加到先攻检定上。此加值可与先攻检定的其他调整值叠加，例如高敏捷带来的加值或“精通先攻”专长提供的加值。"
+  },
+  {
+    "Key": "snakeladfeature.name",
+    "ProcessTemplates": false,
+    "enGB": "Animal Companion - Viper",
+    "zhCN": "动物伙伴（毒蛇）"
+  },
+  {
+    "Key": "snakeladfeature.description",
+    "ProcessTemplates": false,
+    "enGB": "Viper pet",
+    "zhCN": "毒蛇宠物"
+  },
+  {
+    "Key": "snakeladunit.name",
+    "ProcessTemplates": false,
+    "enGB": "Animal Companion - Viper",
+    "zhCN": "动物伙伴（毒蛇）"
+  },
+  {
+    "Key": "snakeladunit.description",
+    "ProcessTemplates": false,
+    "enGB": "Viper pet",
+    "zhCN": "毒蛇宠物"
+  },
+  {
+    "Key": "undeadmountfeature.name",
+    "ProcessTemplates": false,
+    "enGB": "Animal Companion - Undead Horse",
+    "zhCN": "动物伙伴 （亡灵战马）"
+  },
+  {
+    "Key": "undeadmountfeature.description",
+    "ProcessTemplates": true,
+    "enGB": "{g|Encyclopedia:Size}Size{/g}: Large\n{g|Encyclopedia:Speed}Speed{/g}: 50 ft.\n{g|Encyclopedia:Armor_Class}AC{/g}: +4 natural armor\n{g|Encyclopedia:Attack}Attacks{/g}: bite ({g|Encyclopedia:Dice}1d4{/g}), 2 hooves (1d6)\n{g|Encyclopedia:Ability_Scores}Ability scores{/g}: {g|Encyclopedia:Strength}Str{/g} 16, {g|Encyclopedia:Dexterity}Dex{/g} 13, {g|Encyclopedia:Constitution}Con{/g} 15, {g|Encyclopedia:Intelligence}Int{/g} 2, {g|Encyclopedia:Wisdom}Wis{/g} 12, {g|Encyclopedia:Charisma}Cha{/g} 6\nSpecial qualities: {g|Encyclopedia:Scent}scent{/g}\nAt 4th level, a horse gains Str +2 and Con +2 and its hoof attacks become primary.\nWhen riding a horse, you gain a +1 {g|Encyclopedia:Bonus}bonus{/g} to AC and on attack rolls against enemies of Medium size or smaller.",
+    "zhCN": "{g|Encyclopedia:Size}体型{/g}：大型\n{g|Encyclopedia:Speed}速度{/g}: 50 尺.\n{g|Encyclopedia:Armor_Class}防御等级{/g}: +4 天生防御\n{g|Encyclopedia:Attack}攻击{/g}: 啮咬 ({g|Encyclopedia:Dice}1d4{/g}), 2 蹄踢 (1d6)\n{g|Encyclopedia:Ability_Scores}属性值{/g}: {g|Encyclopedia:Strength}力量{/g} 16, {g|Encyclopedia:Dexterity}敏捷{/g} 13, {g|Encyclopedia:Constitution}体质{/g} 15, {g|Encyclopedia:Intelligence}智力{/g} 2, {g|Encyclopedia:Wisdom}感知{/g} 12, {g|Encyclopedia:Charisma}魅力{/g} 6\n特性: {g|Encyclopedia:Scent}灵敏嗅觉{/g}\n达到4级后，马的力量+2，体质+2，蹄踢成为主要攻击。\n骑马对抗中等体型或更小的敌人时，防御等级与攻击检定获得+1{g|Encyclopedia:Bonus}加值{/g}。"
+  },
+  {
+    "Key": "unicornmountfeature.name",
+    "ProcessTemplates": false,
+    "enGB": "Animal Companion - Unicorn",
+    "zhCN": "动物伙伴 （独角兽）"
+  },
+  {
+    "Key": "unicornmountfeature.description",
+    "ProcessTemplates": true,
+    "enGB": "{g|Encyclopedia:Size}Size{/g}: Large\n{g|Encyclopedia:Speed}Speed{/g}: 50 ft.\n{g|Encyclopedia:Armor_Class}AC{/g}: +4 natural armor\n{g|Encyclopedia:Attack}Attacks{/g}: bite ({g|Encyclopedia:Dice}1d4{/g}), 2 hooves (1d6)\n{g|Encyclopedia:Ability_Scores}Ability scores{/g}: {g|Encyclopedia:Strength}Str{/g} 16, {g|Encyclopedia:Dexterity}Dex{/g} 13, {g|Encyclopedia:Constitution}Con{/g} 15, {g|Encyclopedia:Intelligence}Int{/g} 2, {g|Encyclopedia:Wisdom}Wis{/g} 12, {g|Encyclopedia:Charisma}Cha{/g} 6\nSpecial qualities: {g|Encyclopedia:Scent}scent{/g}\nAt 4th level, a horse gains Str +2 and Con +2 and its hoof attacks become primary.\nWhen riding a horse, you gain a +1 {g|Encyclopedia:Bonus}bonus{/g} to AC and on attack rolls against enemies of Medium size or smaller.",
+    "zhCN": "{g|Encyclopedia:Size}体型{/g}: 大型\n{g|Encyclopedia:Speed}速度{/g}: 50 尺.\n{g|Encyclopedia:Armor_Class}防御等级{/g}: +4 天生防御 \n{g|Encyclopedia:Attack}攻击{/g}: 啮咬 ({g|Encyclopedia:Dice}1d4{/g}), 2 蹄踢 (1d6)\n{g|Encyclopedia:Ability_Scores}属性值{/g}: {g|Encyclopedia:Strength}力量{/g} 16, {g|Encyclopedia:Dexterity}敏捷{/g} 13, {g|Encyclopedia:Constitution}体质{/g} 15, {g|Encyclopedia:Intelligence}智力{/g} 2, {g|Encyclopedia:Wisdom}感知{/g} 12, {g|Encyclopedia:Charisma}魅力{/g} 6\n特性：{g|Encyclopedia:Scent}灵敏嗅觉{/g}\n达到4级后，马的力量+2，体质+2，蹄踢成为主要攻击。\n骑马对抗中等体型或更小的敌人时，防御等级与攻击检定获得+1{g|Encyclopedia:Bonus}加值{/g}。"
+  },
+  {
+    "Key": "VaelsSuperSpecialFeat.name",
+    "ProcessTemplates": false,
+    "enGB": "Mythic Body and Mind",
+    "zhCN": "神话身心"
+  },
+  {
+    "Key": "VaelsSuperSpecialFeat.description",
+    "ProcessTemplates": false,
+    "enGB": "Your baseline attributes grow alongside your mythic powers.\nYou gain a bonus to all ability scores equal to 1 + half of your mythic rank.",
+    "zhCN": "你的基础属性随神话力量一同成长。\n你的所有属性值获得加值，数值等于1加上你神话阶层的一半。"
+  },
+  {
+    "Key": "CommunalDeathWard.name",
+    "ProcessTemplates": false,
+    "enGB": "Death Ward, Communal",
+    "zhCN": "共用死亡防护"
+  },
+  {
+    "Key": "CommunalDeathWard.description",
+    "ProcessTemplates": false,
+    "enGB": "This {g|Encyclopedia:Spell}spell{/g} functions like Death Ward, except it affects all party members and it lasts for 4 hours.",
+    "zhCN": "该{g|Encyclopedia:Spell}法术{/g}的效果类似于“死亡防护”，但会影响所有队伍成员，且持续4小时。"
+  },
+  {
+    "Key": "communaleaglesoul.name",
+    "ProcessTemplates": false,
+    "enGB": "Eaglesoul, Communal",
+    "zhCN": "共用鹰之灵"
+  },
+  {
+    "Key": "communaleaglesoul.description",
+    "ProcessTemplates": false,
+    "enGB": "This {g|Encyclopedia:Spell}spell{/g} functions like Eaglesoul, except it affects all party members and it lasts for 4 hours.",
+    "zhCN": "该{g|Encyclopedia:Spell}法术{/g}的效果类似于“鹰之灵”，但会影响所有队伍成员，且持续4小时。"
+  },
+  {
+    "Key": "CommnualSenseVitals.name",
+    "ProcessTemplates": false,
+    "enGB": "Sense Vitals, Communal",
+    "zhCN": "共用要害察觉"
+  },
+  {
+    "Key": "CommnualSenseVitals.description",
+    "ProcessTemplates": false,
+    "enGB": "This {g|Encyclopedia:Spell}spell{/g} functions like Sense Vitals, except it affects all party members and it lasts for 4 hours.",
+    "zhCN": "该{g|Encyclopedia:Spell}法术{/g}的效果类似于“要害察觉”，但会影响所有队伍成员，且持续4小时。"
+  },
+  {
+    "Key": "superlongarm.name",
+    "ProcessTemplates": false,
+    "enGB": "Super Long Arm",
+    "zhCN": "超长臂术"
+  },
+  {
+    "Key": "superlongarm.description",
+    "ProcessTemplates": false,
+    "enGB": "Your arms temporarily grow in length, increasing your reach with those limbs by 15 feet.",
+    "zhCN": "你的手臂暂时变长，使这些肢体的触及范围增加15尺。"
+  },
+  {
+    "Key": "superlongarmbuff.name",
+    "ProcessTemplates": false,
+    "enGB": "Super Long Arm",
+    "zhCN": "超长臂术"
+  },
+  {
+    "Key": "superlongarmbuff.description",
+    "ProcessTemplates": false,
+    "enGB": "Your arms temporarily grow in length, increasing your reach with those limbs by 15 feet.",
+    "zhCN": "你的手臂暂时变长，使这些肢体的触及范围增加15尺。"
+  },
+  {
+    "Key": "mithchainbarding.name",
+    "ProcessTemplates": false,
+    "enGB": "Mithral Chainmail Barding",
+    "zhCN": "秘银锁子甲马铠"
+  },
+  {
+    "Key": "mithchainbardingplus1.name",
+    "ProcessTemplates": false,
+    "enGB": "Mithral Chainmail Barding +1",
+    "zhCN": "秘银锁子甲马铠+1"
+  },
+  {
+    "Key": "mithchainbardingplus2.name",
+    "ProcessTemplates": false,
+    "enGB": "Mithral Chainmail Barding +2",
+    "zhCN": "秘银锁子甲马铠+2"
+  },
+  {
+    "Key": "mithchainbardingplus3.name",
+    "ProcessTemplates": false,
+    "enGB": "Mithral Chainmail Barding +3",
+    "zhCN": "秘银锁子甲马铠+3"
+  },
+  {
+    "Key": "mithchainbardingplus4.name",
+    "ProcessTemplates": false,
+    "enGB": "Mithral Chainmail Barding +4",
+    "zhCN": "秘银锁子甲马铠+4"
+  },
+  {
+    "Key": "mithchainbardingplus5.name",
+    "ProcessTemplates": false,
+    "enGB": "Mithral Chainmail Barding +5",
+    "zhCN": "秘银锁子甲马铠+5"
+  },
+  {
+    "Key": "haramakichainbarding.name",
+    "ProcessTemplates": false,
+    "enGB": "Haramaki Chainmail Barding",
+    "zhCN": "腹卷锁子甲马铠"
+  },
+  {
+    "Key": "mithfullbarding.name",
+    "ProcessTemplates": false,
+    "enGB": "Mithral Full Barding",
+    "zhCN": "秘银全身马铠"
+  },
+  {
+    "Key": "mithfullbardingplus1.name",
+    "ProcessTemplates": false,
+    "enGB": "Mithral Full Barding +1",
+    "zhCN": "秘银全身马铠+1"
+  },
+  {
+    "Key": "mithfullbardingplus2.name",
+    "ProcessTemplates": false,
+    "enGB": "Mithral Full Barding +2",
+    "zhCN": "秘银全身马铠+2"
+  },
+  {
+    "Key": "mithfullbardingplus3.name",
+    "ProcessTemplates": false,
+    "enGB": "Mithral Full Barding +3",
+    "zhCN": "秘银全身马铠+3"
+  },
+  {
+    "Key": "mithfullbardingplus4.name",
+    "ProcessTemplates": false,
+    "enGB": "Mithral Full Barding +4",
+    "zhCN": "秘银全身马铠+4"
+  },
+  {
+    "Key": "mithfullbardingplus5.name",
+    "ProcessTemplates": false,
+    "enGB": "Mithral Full Barding +5",
+    "zhCN": "秘银全身马铠+5"
+  },
+  {
+    "Key": "haramakifullbarding.name",
+    "ProcessTemplates": false,
+    "enGB": "Haramaki Full Barding",
+    "zhCN": "腹卷全身马铠"
+  },
+  {
+    "Key": "RangedCleaveBracers.name",
+    "ProcessTemplates": false,
+    "enGB": "Bracers of Cleaving Rafanat",
+    "zhCN": "裂敌护腕·拉法纳特"
+  },
+  {
+    "Key": "RangedCleaveBracers.description",
+    "ProcessTemplates": true,
+    "enGB": "These bracers were crafted by a blacksmith for those strange people who try to hit multiple people with one arrow.\nAllows the user to cleave with ranged weapons in a 15ft radius of themself.",
+    "zhCN": "这对护腕是一位铁匠为那些试图一箭射中多人的怪人打造的。\n允许使用者在自身周围15英尺半径范围内使用远程武器进行顺劈斩。"
+  },
+  {
+    "Key": "RangedCleaveBracersFeature.name",
+    "ProcessTemplates": false,
+    "enGB": "not implemented",
+    "zhCN": "未实装"
+  },
+  {
+    "Key": "RangedCleaveBracersFeature.description",
+    "ProcessTemplates": false,
+    "enGB": "not implemented",
+    "zhCN": "未实装"
+  },
+  {
+    "Key": "AmberSpindleItem.name",
+    "ProcessTemplates": false,
+    "enGB": "Amber Spindle - Ioun Stone",
+    "zhCN": "琥珀纺锤 - 艾恩石"
+  },
+  {
+    "Key": "AmberSpindleItem.description",
+    "ProcessTemplates": false,
+    "enGB": "This stone grants you a +1 resistance bonus on saving throws. The bonuses from multiple amber spindles stack  (up to a maximum of a +5 resistance bonus to saving throws).",
+    "zhCN": "这块石头使你在豁免检定上获得+1抗力加值。多个琥珀纺锤的加值可叠加（最高为豁免检定提供+5抗力加值）。"
+  },
+  {
+    "Key": "CrackDustyRosePrismItem.name",
+    "ProcessTemplates": false,
+    "enGB": "Cracked Dusty Rose Prism - Ioun Stone",
+    "zhCN": "暗淡蔷薇棱晶（裂纹） - 艾恩石"
+  },
+  {
+    "Key": "CrackDustyRosePrismItem.description",
+    "ProcessTemplates": false,
+    "enGB": "This stone grants a +1 competence bonus on initiative checks.",
+    "zhCN": "这块石头在先攻检定上提供+1表现加值。"
+  },
+  {
+    "Key": "CrimsonSphereItem.name",
+    "ProcessTemplates": false,
+    "enGB": "Crimson Sphere - Ioun Stone",
+    "zhCN": "深红圆石 - 艾恩石"
+  },
+  {
+    "Key": "CrimsonSphereItem.description",
+    "ProcessTemplates": false,
+    "enGB": "This stone grants you a +2 enhancement bonus to Intelligence. The bonuses from multiple crimson spheres stack (up to a maximum of a +10 enhancement bonus to Intelligence).",
+    "zhCN": "这块石头使你的智力获得+2增强加值。多个深红圆石的加值可叠加（最高为智力提供+10增强加值）。"
+  },
+  {
+    "Key": "DarkBlueRhomboidItem.name",
+    "ProcessTemplates": false,
+    "enGB": "Dark Blue Rhomboid - Ioun Stone",
+    "zhCN": "暗蓝菱形石 - 艾恩石"
+  },
+  {
+    "Key": "DarkBlueRhomboidItem.description",
+    "ProcessTemplates": false,
+    "enGB": "This stone grants the wearer the effects of the Alertness feat.",
+    "zhCN": "这块石头赋予佩戴者“警觉”专长的效果。"
+  },
+  {
+    "Key": "DeepRedSphereItem.name",
+    "ProcessTemplates": false,
+    "enGB": "Deep Red Sphere - Ioun Stone",
+    "zhCN": "暗红圆石 - 艾恩石"
+  },
+  {
+    "Key": "DeepRedSphereItem.description",
+    "ProcessTemplates": false,
+    "enGB": "This stone grants you a +2 enhancement bonus to Dexterity. The bonuses from multiple crimson spheres stack (up to a maximum of a +10 enhancement bonus to Dexterity).",
+    "zhCN": "这块石头使你的敏捷获得+2增强加值。多个深红圆石的加值可叠加（最高为敏捷提供+10增强加值）。"
+  },
+  {
+    "Key": "DustyRosePrismItem.name",
+    "ProcessTemplates": false,
+    "enGB": "Dusty Rose Prism - Ioun Stone",
+    "zhCN": "暗淡蔷薇棱晶 - 艾恩石"
+  },
+  {
+    "Key": "DustyRosePrismItem.description",
+    "ProcessTemplates": false,
+    "enGB": "This stone grants the wearer a +5 insight bonus to AC.",
+    "zhCN": "这块石头使佩戴者的防御等级（AC）获得+5洞察加值。"
+  },
+  {
+    "Key": "IncandescentBlueSphereItem.name",
+    "ProcessTemplates": false,
+    "enGB": "Incandescent Blue Sphere - Ioun Stone",
+    "zhCN": "白炽青蓝圆石 - 艾恩石"
+  },
+  {
+    "Key": "IncandescentBlueSphereItem.description",
+    "ProcessTemplates": false,
+    "enGB": "This stone grants you a +2 enhancement bonus to Wisdom. The bonuses from multiple spheres stack (up to a maximum of a +10 enhancement bonus to Wisdom).",
+    "zhCN": "这块石头使你的感知获得+2增强加值。多个此类圆石的加值可叠加（最高为感知提供+10增强加值）。"
+  },
+  {
+    "Key": "OnyxRhomboidItem.name",
+    "ProcessTemplates": false,
+    "enGB": "Onyx Rhomboid - Ioun Stone",
+    "zhCN": "缟玛瑙菱形石 - 艾恩石"
+  },
+  {
+    "Key": "OnyxRhomboidItem.description",
+    "ProcessTemplates": false,
+    "enGB": "This stone grants you a +2 enhancement bonus to Constitution. The bonuses from multiple crimson spheres stack (up to a maximum of a +10 enhancement bonus to Constitution).",
+    "zhCN": "这块石头使你的体质获得+2增强加值。多个此类圆石的加值可叠加（最高为体质提供+10增强加值）。"
+  },
+  {
+    "Key": "OrangePrismItem.name",
+    "ProcessTemplates": false,
+    "enGB": "Orange Prism - Ioun Stone",
+    "zhCN": "橙色棱晶 - 艾恩石"
+  },
+  {
+    "Key": "OrangePrismItem.description",
+    "ProcessTemplates": false,
+    "enGB": "This stone grants you a +2 enhancement bonus to Caster Level. The bonuses from multiple prisms stack (up to a maximum of a +6 bonus to CL).",
+    "zhCN": "这块石头使你的施法者等级获得+2增强加值。多个此类棱晶的加值可叠加（最高为施法者等级提供+6加值）。"
+  },
+  {
+    "Key": "PaleBlueRhomboidItem.name",
+    "ProcessTemplates": false,
+    "enGB": "Pale Blue Rhomboid - Ioun Stone",
+    "zhCN": "浅蓝菱形石 - 艾恩石"
+  },
+  {
+    "Key": "PaleBlueRhomboidItem.description",
+    "ProcessTemplates": false,
+    "enGB": "This stone grants you a +2 enhancement bonus to Strength. The bonuses from multiple crimson spheres stack (up to a maximum of a +10 enhancement bonus to Strength).",
+    "zhCN": "这块石头使你的力量获得+2增强加值。多个此类圆石的加值可叠加（最高为力量提供+10增强加值）。"
+  },
+  {
+    "Key": "AmberSpindleBuff.name",
+    "ProcessTemplates": false,
+    "enGB": "Amber Spinder (buff)",
+    "zhCN": "琥珀纺锤 (增益)"
+  },
+  {
+    "Key": "AmberSpindleBuff.description",
+    "ProcessTemplates": false,
+    "enGB": "This stone grants you a +1 resistance bonus on saving throws.",
+    "zhCN": "这块石头使你在豁免检定上获得+1抗力加值。"
+  },
+  {
+    "Key": "CrackDustyRosePrismBuff.name",
+    "ProcessTemplates": false,
+    "enGB": "Cracked Dusty Rose Prism(buff)",
+    "zhCN": "暗淡蔷薇棱晶（增益）"
+  },
+  {
+    "Key": "CrackDustyRosePrismBuff.description",
+    "ProcessTemplates": false,
+    "enGB": "This stone grants a +1 competence bonus on initiative checks.",
+    "zhCN": "这块石头在先攻检定上提供+1表现加值。"
+  },
+  {
+    "Key": "CrimsonSphereBuff.name",
+    "ProcessTemplates": false,
+    "enGB": "Crimson Sphere(buff)",
+    "zhCN": "深红圆石 (增益)"
+  },
+  {
+    "Key": "CrimsonSphereBuff.description",
+    "ProcessTemplates": false,
+    "enGB": "This stone grants you a +2 enhancement bonus to Intelligence.",
+    "zhCN": "这块石头使你的智力获得+2增强加值。"
+  },
+  {
+    "Key": "DarkBlueRhomboidBuff.name",
+    "ProcessTemplates": false,
+    "enGB": "Dark Blue Rhomboid (buff)",
+    "zhCN": "暗蓝菱形石 (增益)"
+  },
+  {
+    "Key": "DarkBlueRhomboidBuff.description",
+    "ProcessTemplates": false,
+    "enGB": "This stone grants the wearer the effects of the Alertness feat.",
+    "zhCN": "这块石头赋予佩戴者“警觉”专长的效果。"
+  },
+  {
+    "Key": "DeepRedSphereBuff.name",
+    "ProcessTemplates": false,
+    "enGB": "Deep Red Sphere (buff)",
+    "zhCN": "暗红圆石 (增益)"
+  },
+  {
+    "Key": "DeepRedSphereBuff.description",
+    "ProcessTemplates": false,
+    "enGB": "This stone grants you a +2 enhancement bonus to Dexterity.",
+    "zhCN": "这块石头使你的敏捷获得+2增强加值。"
+  },
+  {
+    "Key": "DustyRosePrismBuff.name",
+    "ProcessTemplates": false,
+    "enGB": "Dusty Rose Prism(buff)",
+    "zhCN": "暗淡蔷薇棱晶（增益）"
+  },
+  {
+    "Key": "DustyRosePrismBuff.description",
+    "ProcessTemplates": false,
+    "enGB": "This stone grants the wearer a +5 insight bonus to AC.",
+    "zhCN": "这块石头使佩戴者的防御等级（AC）获得+5洞察加值。"
+  },
+  {
+    "Key": "IncandescentBlueSphereBuff.name",
+    "ProcessTemplates": false,
+    "enGB": "Incandescent Blue Sphere(buff)",
+    "zhCN": "白炽青蓝圆石（增益）"
+  },
+  {
+    "Key": "IncandescentBlueSphereBuff.description",
+    "ProcessTemplates": false,
+    "enGB": "This stone grants you a +2 enhancement bonus to Wisdom.",
+    "zhCN": "这块石头使你的感知获得+2增强加值。"
+  },
+  {
+    "Key": "OnyxRhomboidBuff.name",
+    "ProcessTemplates": false,
+    "enGB": "Onyx Rhomboid(buff)",
+    "zhCN": "缟玛瑙菱形石（增益）"
+  },
+  {
+    "Key": "OnyxRhomboidBuff.description",
+    "ProcessTemplates": false,
+    "enGB": "This stone grants you a +2 enhancement bonus to Constitution.",
+    "zhCN": "这块石头使你的体质获得+2增强加值。"
+  },
+  {
+    "Key": "OrangePrismBuff.name",
+    "ProcessTemplates": false,
+    "enGB": "Orange Prism(buff)",
+    "zhCN": "橙色棱晶（增益）"
+  },
+  {
+    "Key": "OrangePrismBuff.description",
+    "ProcessTemplates": false,
+    "enGB": "This stone grants you a +2 enhancement bonus to CL.",
+    "zhCN": "这块石头使你的施法者等级获得+2增强加值。"
+  },
+  {
+    "Key": "PaleBlueRhomboidBuff.name",
+    "ProcessTemplates": false,
+    "enGB": "Pale Blue Rhomboid(buff)",
+    "zhCN": "浅蓝菱形石（增益）"
+  },
+  {
+    "Key": "PaleBlueRhomboidBuff.description",
+    "ProcessTemplates": false,
+    "enGB": "This stone grants you a +2 enhancement bonus to Strength.",
+    "zhCN": "这块石头使你的力量获得+2增强加值。"
+  },
+  {
+    "Key": "AmberSpindleAbility.name",
+    "ProcessTemplates": false,
+    "enGB": "Amber Spindle",
+    "zhCN": "琥珀纺锤"
+  },
+  {
+    "Key": "AmberSpindleAbility.description",
+    "ProcessTemplates": false,
+    "enGB": "This stone grants you a +1 resistance bonus on saving throws.",
+    "zhCN": "这块石头使你在豁免检定上获得+1抗力加值。"
+  },
+  {
+    "Key": "CrackDustyRosePrismAbility.name",
+    "ProcessTemplates": false,
+    "enGB": "Cracked Dusty Rose Prism",
+    "zhCN": "暗淡蔷薇棱晶"
+  },
+  {
+    "Key": "CrackDustyRosePrismAbility.description",
+    "ProcessTemplates": false,
+    "enGB": "This stone grants a +1 competence bonus on initiative checks.",
+    "zhCN": "这块石头在先攻检定上提供+1表现加值。"
+  },
+  {
+    "Key": "CrimsonSphereAbility.name",
+    "ProcessTemplates": false,
+    "enGB": "Crimson Sphere",
+    "zhCN": "深红圆石"
+  },
+  {
+    "Key": "CrimsonSphereAbility.description",
+    "ProcessTemplates": false,
+    "enGB": "This stone grants you a +2 enhancement bonus to Intelligence.",
+    "zhCN": "这块石头使你的智力获得+2增强加值。"
+  },
+  {
+    "Key": "DarkBlueRhomboidAbility.name",
+    "ProcessTemplates": false,
+    "enGB": "Dark Blue Rhomboid",
+    "zhCN": "暗蓝菱形石"
+  },
+  {
+    "Key": "DarkBlueRhomboidAbility.description",
+    "ProcessTemplates": false,
+    "enGB": "This stone grants the wearer the effects of the Alertness feat.",
+    "zhCN": "这块石头赋予佩戴者“警觉”专长的效果。"
+  },
+  {
+    "Key": "DeepRedSphereAbility.name",
+    "ProcessTemplates": false,
+    "enGB": "Deep Red Sphere",
+    "zhCN": "暗红圆石"
+  },
+  {
+    "Key": "DeepRedSphereAbility.description",
+    "ProcessTemplates": false,
+    "enGB": "This stone grants you a +2 enhancement bonus to Dexterity.",
+    "zhCN": "这块石头使你的敏捷获得+2增强加值。"
+  },
+  {
+    "Key": "DustyRosePrismAbility.name",
+    "ProcessTemplates": false,
+    "enGB": "Dusty Rose Prism",
+    "zhCN": "暗淡蔷薇棱晶"
+  },
+  {
+    "Key": "DustyRosePrismAbility.description",
+    "ProcessTemplates": false,
+    "enGB": "This stone grants the wearer a +5 insight bonus to AC.",
+    "zhCN": "这块石头使佩戴者的防御等级（AC）获得+5洞察加值。"
+  },
+  {
+    "Key": "IncandescentBlueSphereAbility.name",
+    "ProcessTemplates": false,
+    "enGB": "Incandescent Blue Sphere",
+    "zhCN": "白炽青蓝圆石"
+  },
+  {
+    "Key": "IncandescentBlueSphereAbility.description",
+    "ProcessTemplates": false,
+    "enGB": "This stone grants you a +2 enhancement bonus to Wisdom.",
+    "zhCN": "这块石头使你的感知获得+2增强加值。"
+  },
+  {
+    "Key": "OnyxRhomboidAbility.name",
+    "ProcessTemplates": false,
+    "enGB": "Onyx Rhomboid",
+    "zhCN": "缟玛瑙菱形石"
+  },
+  {
+    "Key": "OnyxRhomboidAbility.description",
+    "ProcessTemplates": false,
+    "enGB": "This stone grants you a +2 enhancement bonus to Constitution.",
+    "zhCN": "这块石头使你的体质获得+2增强加值。"
+  },
+  {
+    "Key": "OrangePrismAbility.name",
+    "ProcessTemplates": false,
+    "enGB": "Orange Prism",
+    "zhCN": "橙色棱晶"
+  },
+  {
+    "Key": "OrangePrismAbility.description",
+    "ProcessTemplates": false,
+    "enGB": "This stone grants you a +2 enhancement bonus to CL.",
+    "zhCN": "这块石头使你的施法者等级获得+2增强加值。"
+  },
+  {
+    "Key": "PaleBlueRhomboidAbility.name",
+    "ProcessTemplates": false,
+    "enGB": "Pale Blue Rhomboid",
+    "zhCN": "浅蓝菱形石"
+  },
+  {
+    "Key": "PaleBlueRhomboidAbility.description",
+    "ProcessTemplates": false,
+    "enGB": "This stone grants you a +2 enhancement bonus to Strength.",
+    "zhCN": "这块石头使你的力量获得+2增强加值。"
+  },
+  {
+    "Key": "ChargingHurler.name",
+    "ProcessTemplates": false,
+    "enGB": "Charging Hurler",
+    "zhCN": "冲锋投掷"
+  },
+  {
+    "Key": "ChargingHurler.description",
+    "ProcessTemplates": false,
+    "enGB": "You can use the charge rules to make a thrown weapon attack. All the parameters of a charge apply, except that you must only move closer to your opponent, and you must end your movement within 30 feet of that opponent. If you do, you can make a single thrown weapon attack against that opponent, gaining the +2 bonus on the attack roll and taking a –2 penalty to your AC until the start of your next turn.",
+    "zhCN": "你可以按照冲锋规则进行一次投掷武器攻击。冲锋的所有参数均适用，唯一的区别在于你必须径直接近对手，且必须在距该对手30尺以内结束移动。若你如此做，可对该对手进行一次单独的投掷武器攻击，在攻击检定上获得+2加值，并在防御等级（AC）上承受-2减值，持续至你的下个回合开始。"
+  },
+  {
+    "Key": "ChaToCha.Name",
+    "ProcessTemplates": false,
+    "enGB": "Redditor Charisma",
+    "zhCN": "贴吧老哥魅力"
+  },
+  {
+    "Key": "ChaToCha.Description",
+    "ProcessTemplates": true,
+    "enGB": "The Redditor adds his {g|Encyclopedia:Charisma}Charisma{/g} bonus (if any) to his {g|Encyclopedia:Charisma}Charisma{/g}.",
+    "zhCN": "贴吧老哥将其{g|Encyclopedia:Charisma}魅力{/g}调整值（如果有） 加到其{g|Encyclopedia:Charisma}魅力{/g}。"
+  },
+  {
+    "Key": "ChaToAC.Name",
+    "ProcessTemplates": false,
+    "enGB": "Redditor Armor",
+    "zhCN": "贴吧老哥厚皮"
+  },
+  {
+    "Key": "ChaToAC.Description",
+    "ProcessTemplates": true,
+    "enGB": "The Redditor adds his {g|Encyclopedia:Charisma}Charisma{/g} bonus (if any) to his {g|Encyclopedia:Armor_Class}AC{/g}.",
+    "zhCN": "贴吧老哥将其{g|Encyclopedia:Charisma}魅力{/g}调整值（如果有） 加到其{g|Encyclopedia:Armor_Class}AC{/g}。"
+  },
+  {
+    "Key": "ChaToStr.Name",
+    "ProcessTemplates": false,
+    "enGB": "Redditor Strength",
+    "zhCN": "贴吧老哥力量"
+  },
+  {
+    "Key": "ChaToStr.Description",
+    "ProcessTemplates": true,
+    "enGB": "The Redditor adds his {g|Encyclopedia:Charisma}Charisma{/g} bonus (if any) to his {g|Encyclopedia:Strength}Strength{/g}.",
+    "zhCN": "贴吧老哥将其{g|Encyclopedia:Charisma}魅力{/g}调整值（如果有） 加到其{g|Encyclopedia:Strength}力量{/g}。"
+  },
+  {
+    "Key": "ChaToDex.Name",
+    "ProcessTemplates": false,
+    "enGB": "Redditor Dexterity",
+    "zhCN": "贴吧老哥敏捷"
+  },
+  {
+    "Key": "ChaToDex.Description",
+    "ProcessTemplates": true,
+    "enGB": "The Redditor adds his {g|Encyclopedia:Charisma}Charisma{/g} bonus (if any) to his {g|Encyclopedia:Dexterity}Dexterity{/g}.",
+    "zhCN": "贴吧老哥将其{g|Encyclopedia:Charisma}魅力{/g}调整值（如果有） 加到其{g|Encyclopedia:Dexterity}敏捷{/g}。"
+  },
+  {
+    "Key": "ChaToCon.Name",
+    "ProcessTemplates": false,
+    "enGB": "Redditor Constitution",
+    "zhCN": "贴吧老哥体质"
+  },
+  {
+    "Key": "ChaToCon.Description",
+    "ProcessTemplates": true,
+    "enGB": "The Redditor adds his {g|Encyclopedia:Charisma}Charisma{/g} bonus (if any) to his {g|Encyclopedia:Constitution}Constitution{/g}.",
+    "zhCN": "贴吧老哥将其{g|Encyclopedia:Charisma}魅力{/g}调整值（如果有） 加到其{g|Encyclopedia:Constitution}体质{/g}。"
+  },
+  {
+    "Key": "ChaToInt.Name",
+    "ProcessTemplates": false,
+    "enGB": "Redditor Intelligence",
+    "zhCN": "贴吧老哥智力"
+  },
+  {
+    "Key": "ChaToInt.Description",
+    "ProcessTemplates": true,
+    "enGB": "The Redditor adds his {g|Encyclopedia:Charisma}Charisma{/g} bonus (if any) to his {g|Encyclopedia:Intelligence}Intelligence{/g}.",
+    "zhCN": "贴吧老哥将其{g|Encyclopedia:Charisma}魅力{/g}调整值（如果有） 加到其{g|Encyclopedia:Intelligence}智力{/g}。"
+  },
+  {
+    "Key": "ChaToWis.Name",
+    "ProcessTemplates": false,
+    "enGB": "Redditor Wisdom",
+    "zhCN": "贴吧老哥感知"
+  },
+  {
+    "Key": "ChaToWis.Description",
+    "ProcessTemplates": true,
+    "enGB": "The Redditor adds his {g|Encyclopedia:Charisma}Charisma{/g} bonus (if any) to his {g|Encyclopedia:Wisdom}Wisdom{/g}.",
+    "zhCN": "贴吧老哥将其{g|Encyclopedia:Charisma}魅力{/g}调整值（如果有） 加到其{g|Encyclopedia:Wisdom}感知{/g}。"
+  },
+  {
+    "Key": "ChaToSaves.Name",
+    "ProcessTemplates": false,
+    "enGB": "Redditor Saving Throws",
+    "zhCN": "贴吧老哥豁免"
+  },
+  {
+    "Key": "ChaToSaves.Description",
+    "ProcessTemplates": true,
+    "enGB": "The Redditor adds his {g|Encyclopedia:Charisma}Charisma{/g} bonus (if any) to his {g|Encyclopedia:SaveFortitude}Fortitude{/g}, {g|Encyclopedia:SaveReflex}Reflex{/g}, and {g|Encyclopedia:SaveWill}Will{/g} saves.",
+    "zhCN": "贴吧老哥将其{g|Encyclopedia:Charisma}魅力{/g}调整值（如果有） 加到其{g|Encyclopedia:SaveFortitude}强韧{/g}。{g|Encyclopedia:SaveReflex}反射{/g}和{g|Encyclopedia:SaveWill}意志{/g}豁免。"
+  },
+  {
+    "Key": "ChaToInit.Name",
+    "ProcessTemplates": false,
+    "enGB": "Redditor Initiative",
+    "zhCN": "贴吧老哥先攻"
+  },
+  {
+    "Key": "ChaToInit.Description",
+    "ProcessTemplates": true,
+    "enGB": "The Redditor adds his {g|Encyclopedia:Charisma}Charisma{/g} bonus (if any) to his {g|Encyclopedia:Initiative}Initiative{/g}.",
+    "zhCN": "贴吧老哥将其{g|Encyclopedia:Charisma}魅力{/g}调整值（如果有） 加到其{g|Encyclopedia:Initiative}先攻{/g}。"
+  },
+  {
+    "Key": "ChaToSpeed.Name",
+    "ProcessTemplates": false,
+    "enGB": "Redditor Speed",
+    "zhCN": "贴吧老哥秒回"
+  },
+  {
+    "Key": "ChaToSpeed.Description",
+    "ProcessTemplates": true,
+    "enGB": "The Redditor adds his {g|Encyclopedia:Charisma}Charisma{/g} bonus (if any) to his {g|Encyclopedia:Speed}Speed{/g}.",
+    "zhCN": "贴吧老哥将其{g|Encyclopedia:Charisma}魅力{/g}调整值（如果有） 加到其{g|Encyclopedia:Speed}速度{/g}。"
+  },
+  {
+    "Key": "ChaToSkills.Name",
+    "ProcessTemplates": false,
+    "enGB": "Redditor Skills",
+    "zhCN": "贴吧万事通"
+  },
+  {
+    "Key": "ChaToSkills.Description",
+    "ProcessTemplates": true,
+    "enGB": "The Redditor adds his {g|Encyclopedia:Charisma}Charisma{/g} bonus (if any) to his skills.",
+    "zhCN": "贴吧老哥将其{g|Encyclopedia:Charisma}魅力{/g}调整值（如果有） 加到其所有技能。"
+  },
+  {
+    "Key": "redditor.name",
+    "ProcessTemplates": false,
+    "enGB": "Redditor",
+    "zhCN": "贴吧老哥"
+  },
+  {
+    "Key": "redditor.description",
+    "ProcessTemplates": false,
+    "enGB": "Reddit's own character class. CHA TO EVERYTHING! \nBasically Fighter class with +CHA to all stats and CHA spellcasting. (This is a meme class I made, don't take it too seriously)",
+    "zhCN": "贴吧老哥专属职业。魅力加万物！\n本质上就是所有属性均可获得魅力加值、且以魅力作为施法属性的战士职业。（这是我做的一个梗职业，别太当真）"
+  },
+  {
+    "Key": "redditor.shortdescription",
+    "ProcessTemplates": false,
+    "enGB": "Reddit's own character class. CHA TO EVERYTHING!",
+    "zhCN": "魅力上一切的网红职业！"
+  },
+  {
+    "Key": "buildsenjoyer.name",
+    "ProcessTemplates": false,
+    "enGB": "BuildsEnjoyer",
+    "zhCN": "百变宗师"
+  },
+  {
+    "Key": "buildsenjoyer.description",
+    "ProcessTemplates": false,
+    "enGB": "Builds Enjoyer combines Inciter, Dronk, and Marine archetypes into one handy class!",
+    "zhCN": "融合滋事者、醉拳大师与深黯军团兵士三大变体，铸就这全能的传奇职业！"
+  },
+  {
+    "Key": "buildsenjoyer.shortdescription",
+    "ProcessTemplates": false,
+    "enGB": "Builds Enjoyer combines Inciter, Drunken Monk, and Sable Marine archetypes into one handy class! Also gives Magic Deceiver spellbook at KC's request!",
+    "zhCN": "融合煽动者、醉拳大师与深黯军团兵士变体（应KC要求额外获得魔法诈欺师法术书）的全能职业。"
+  },
+  {
+    "Key": "DrakeboundRider.name",
+    "ProcessTemplates": false,
+    "enGB": "Drakebound Rider",
+    "zhCN": "缚龙骑手"
+  },
+  {
+    "Key": "DrakeboundRider.description",
+    "ProcessTemplates": true,
+    "enGB": "The Drakebound Rider lives the dream of many Cavaliers, riding a drake into battle.",
+    "zhCN": "缚龙骑手实现了许多骑将的梦想——驾驭龙兽奔赴战场。"
+  },
+  {
+    "Key": "DrakeboundRider.shortdescription",
+    "ProcessTemplates": true,
+    "enGB": "The Drakebound Rider lives the dream of many Cavaliers, riding a drake into battle.",
+    "zhCN": "缚龙骑手实现了许多骑将的梦想——驾驭龙兽奔赴战场。"
+  },
+  {
+    "Key": "resepc.key",
+    "ProcessTemplates": true,
+    "enGB": "Respec this, content was removed.",
+    "zhCN": "请重训此项，相关内容已被移除。"
+  },
+  {
+    "Key": "Invincible.name",
+    "ProcessTemplates": false,
+    "enGB": "Invincible",
+    "zhCN": "无懈可击"
+  },
+  {
+    "Key": "Invincible.description",
+    "ProcessTemplates": false,
+    "enGB": "The Juggernaut's bodily consituation is so great, she can shrug off attacks.\nAt 2nd level, she gains DR/- equal to her CON bonus. This stacks with other sources of DR/-.",
+    "zhCN": "主宰的身躯强健程度让她可以忽视攻击。\n2级起，她获得等于其体质加值的 DR/- ，可以和其它来源的 DR/- 叠加。"
+  },
+  {
+    "Key": "Juggernaut.name",
+    "ProcessTemplates": false,
+    "enGB": "Juggernaut",
+    "zhCN": "主宰"
+  },
+  {
+    "Key": "Juggernaut.description",
+    "ProcessTemplates": true,
+    "enGB": "Juggernaut, DR focused Barbarian. Inspired by Rafantat on Discord",
+    "zhCN": "主宰，专注于减免伤害的野蛮人。"
+  },
+  {
+    "Key": "Juggernaut.shortdescription",
+    "ProcessTemplates": true,
+    "enGB": "Juggernaut, DR focused Barbarian. Inspired by Rafantat on Discord",
+    "zhCN": "主宰，专注于减免伤害的野蛮人。"
+  },
+  {
+    "Key": "JuggernautProficiencies.name",
+    "ProcessTemplates": false,
+    "enGB": "Juggernaut Proficiencies",
+    "zhCN": "主宰擅长"
+  },
+  {
+    "Key": "JuggernautProficiencies.description",
+    "ProcessTemplates": false,
+    "enGB": "A Juggernaut is proficient with simple and martial weapons, and shields.",
+    "zhCN": "主宰擅长简易和军用武器，还有盾牌。"
+  },
+  {
+    "Key": "dragonweaponfocus",
+    "ProcessTemplates": false,
+    "enGB": "When using your chosen weapon, you gain a bonus equal to one plus half your mythic rank on attack rolls. If you have Greater Weapon Focus, the bonus is equal to one plus your full mythic rank instead. This stacks with the bonus from Weapon Focus and Greater Weapon Focus.",
+    "zhCN": "使用你选定的武器时，你的攻击检定获得等于1加上你神话阶层一半的加值。若你拥有“高等武器专攻”，该加值改为等于1加上你的全部神话阶层。此加值可与“武器专攻”和“高等武器专攻”的加值叠加。"
+  },
+  {
+    "Key": "dragonweaponspecial",
+    "ProcessTemplates": false,
+    "enGB": "When using your chosen weapon, you gain a bonus equal to one plus half your mythic rank on damage rolls. If you have Greater Weapon Specialization, the bonus is equal to one plus your full mythic rank instead. This stacks with the bonus from Weapon Specialization and Greater Weapon Specialization.",
+    "zhCN": "使用你选定的武器时，你的伤害检定获得等于1加上你神话阶层一半的加值。若你拥有“高等武器专精”，该加值改为等于1加上你的全部神话阶层。此加值可与“武器专精”和“高等武器专精”的加值叠加。"
+  },
+  {
+    "Key": "SpellcasterDelights-Damage.name",
+    "ProcessTemplates": false,
+    "enGB": "Spellcaster Delights - Damage",
+    "zhCN": "施法者之乐 - 伤害"
+  },
+  {
+    "Key": "SpellcasterDelights-Damage.description",
+    "ProcessTemplates": false,
+    "enGB": "Your spells become even more powerful. Adds your spellcasting attribute bonus to your spell's damage.",
+    "zhCN": "你的法术变得更加强大。将你的关键施法属性调整值加到你的法术伤害上。"
+  },
+  {
+    "Key": "SpellcasterDelights.name",
+    "ProcessTemplates": false,
+    "enGB": "Spellcaster Delights - DC",
+    "zhCN": "施法者之乐 - DC"
+  },
+  {
+    "Key": "SpellcasterDelights.description",
+    "ProcessTemplates": false,
+    "enGB": "Your spells become even more hard to resist. Adds your spellcasting attribute bonus to your spell's DC.",
+    "zhCN": "你的法术变得更难被抵抗。将你的关键施法属性调整值加到你的法术DC上。"
+  },
+  {
+    "Key": "AcidRay.name",
+    "ProcessTemplates": false,
+    "enGB": "Hellacid Ray",
+    "zhCN": "地狱酸射线"
+  },
+  {
+    "Key": "AcidRay.description",
+    "ProcessTemplates": false,
+    "enGB": "A blast of hellacid blazes from your hands. You can fire one ray, plus one additional ray for every 4 {g|Encyclopedia:Caster_Level}caster levels{/g} beyond 11th (to a maximum of three rays at 19th level). Each ray requires a ranged {g|Encyclopedia:TouchAttack}touch attack{/g} to hit and deals {g|Encyclopedia:Dice}1d6{/g} points of {g|Encyclopedia:Damage}damage{/g} per caster level (maximum 15d6). Half the damage is {g|Encyclopedia:Energy_Damage}acid damage{/g}, but the other half results directly from unholy power and is therefore not subject to being reduced by acid {g|Encyclopedia:Energy_Resistance}resistance{/g}.",
+    "zhCN": "你从手中射出地狱强酸。你可以发射1道射线，11级之后，每提升4个{g|Encyclopedia:Caster_Level}施法者等级{/g}，你就可以再发射1道射线（19级时达到最高，即3道射线）。每道射线都需要进行远程{g|Encyclopedia:TouchAttack}接触攻击{/g}检定来命中目标，并可造成每施法者等级{g|Encyclopedia:Dice}1d6{/g}点{g|Encyclopedia:Damage}伤害{/g}（最大值为15d6点）。该伤害一半为{g|Encyclopedia:Energy_Damage}酸蚀伤害{/g}，另一半直接源自邪恶力量，因此酸蚀{g|Encyclopedia:Energy_Resistance}抗性{/g}不能减免这部分伤害。"
+  },
+  {
+    "Key": "ColdRay.name",
+    "ProcessTemplates": false,
+    "enGB": "Hellice Ray",
+    "zhCN": "地狱冰射线"
+  },
+  {
+    "Key": "ColdRay.description",
+    "ProcessTemplates": false,
+    "enGB": "A blast of hellice blazes from your hands. You can fire one ray, plus one additional ray for every 4 {g|Encyclopedia:Caster_Level}caster levels{/g} beyond 11th (to a maximum of three rays at 19th level). Each ray requires a ranged {g|Encyclopedia:TouchAttack}touch attack{/g} to hit and deals {g|Encyclopedia:Dice}1d6{/g} points of {g|Encyclopedia:Damage}damage{/g} per caster level (maximum 15d6). Half the damage is {g|Encyclopedia:Energy_Damage}cold damage{/g}, but the other half results directly from unholy power and is therefore not subject to being reduced by cold {g|Encyclopedia:Energy_Resistance}resistance{/g}.",
+    "zhCN": "你从手中射出地狱寒冰。你可以发射1道射线，11级之后，每提升4个{g|Encyclopedia:Caster_Level}施法者等级{/g}，你就可以再发射1道射线（19级时达到最高，即3道射线）。每道射线都需要进行远程{g|Encyclopedia:TouchAttack}接触攻击{/g}检定来命中目标，并可造成每施法者等级{g|Encyclopedia:Dice}1d6{/g}点{g|Encyclopedia:Damage}伤害{/g}（最大值为15d6点）。该伤害一半为{g|Encyclopedia:Energy_Damage}寒冷伤害{/g}，另一半直接源自邪恶力量，因此寒冷{g|Encyclopedia:Energy_Resistance}抗性{/g}不能减免这部分伤害。"
+  },
+  {
+    "Key": "ElectricRay.name",
+    "ProcessTemplates": false,
+    "enGB": "Hellacid Ray",
+    "zhCN": "地狱酸射线"
+  },
+  {
+    "Key": "ElectricRay.description",
+    "ProcessTemplates": false,
+    "enGB": "A blast of hell lightning blazes from your hands. You can fire one ray, plus one additional ray for every 4 {g|Encyclopedia:Caster_Level}caster levels{/g} beyond 11th (to a maximum of three rays at 19th level). Each ray requires a ranged {g|Encyclopedia:TouchAttack}touch attack{/g} to hit and deals {g|Encyclopedia:Dice}1d6{/g} points of {g|Encyclopedia:Damage}damage{/g} per caster level (maximum 15d6). Half the damage is {g|Encyclopedia:Energy_Damage}electric damage{/g}, but the other half results directly from unholy power and is therefore not subject to being reduced by electric {g|Encyclopedia:Energy_Resistance}resistance{/g}.",
+    "zhCN": "你从手中射出地狱雷电。你可以发射1道射线，11级之后，每提升4个{g|Encyclopedia:Caster_Level}施法者等级{/g}，你就可以再发射1道射线（19级时达到最高，即3道射线）。每道射线都需要进行远程{g|Encyclopedia:TouchAttack}接触攻击{/g}检定来命中目标，并可造成每施法者等级{g|Encyclopedia:Dice}1d6{/g}点{g|Encyclopedia:Damage}伤害{/g}（最大值为15d6点）。该伤害一半为{g|Encyclopedia:Energy_Damage}电击伤害{/g}，另一半直接源自邪恶力量，因此电击{g|Encyclopedia:Energy_Resistance}抗性{/g}不能减免这部分伤害。"
+  },
+  {
+    "Key": "archmage.name",
+    "ProcessTemplates": false,
+    "enGB": "Discordant Archmage",
+    "zhCN": "不协大法师"
+  },
+  {
+    "Key": "archmage.description",
+    "ProcessTemplates": false,
+    "enGB": "A Discordant Archmage is a mage who is focused on disrupting their enemies magic.",
+    "zhCN": "不协大法师是一位专注于扰乱敌人魔法的法师。"
+  },
+  {
+    "Key": "archmage.shortdescription",
+    "ProcessTemplates": false,
+    "enGB": "A Discordant Archmage is a mage who is focused on disrupting their enemies magic.",
+    "zhCN": "不协大法师是一位专注于扰乱敌人魔法的法师。"
+  },
+  {
+    "Key": "dlcvendor.name",
+    "ProcessTemplates": false,
+    "enGB": "TestLocalizationChanges",
+    "zhCN": "TestLocalizationChanges"
+  },
+  {
+    "Key": "Wooloo.Name",
+    "ProcessTemplates": false,
+    "enGB": "Wooloo",
+    "zhCN": "毛毛角羊"
+  },
+  {
+    "Key": "wooloofeature.name",
+    "ProcessTemplates": false,
+    "enGB": "Pokemon Companion — Wooloo",
+    "zhCN": "宝可梦伙伴 — 毛毛角羊"
+  },
+  {
+    "Key": "wooloofeature.description",
+    "ProcessTemplates": false,
+    "enGB": "It's a pokeman",
+    "zhCN": "一只宝可梦"
+  },
+  {
+    "Key": "lannpetunit.name",
+    "ProcessTemplates": false,
+    "enGB": "Lann The Pet",
+    "zhCN": "宠物兰恩"
+  },
+  {
+    "Key": "lannpetfeature.name",
+    "ProcessTemplates": false,
+    "enGB": "Animal Companion - Lann",
+    "zhCN": "动物伙伴（兰恩）"
+  },
+  {
+    "Key": "lannpetfeature.description",
+    "ProcessTemplates": true,
+    "enGB": "It's Lann!",
+    "zhCN": "是兰恩！"
+  },
+  {
+    "Key": "bloodslugs.name",
+    "ProcessTemplates": false,
+    "enGB": "Blood Slugs",
+    "zhCN": "嗜血水蛭"
+  },
+  {
+    "Key": "bloodslugs.description",
+    "ProcessTemplates": false,
+    "enGB": "You create blood-thirsty slugs that burrow into flesh and settle in veins. The slugs appear on the subject’s body and immediately attempt to penetrate their skin. Targets must make a Fortitude save for each blood slug affecting them. Each failed saving throw deals 1 point of Constitution damage and reduces the target’s speed by 5 feet (minimum 5). The damage from multiple blood slugs stacks.",
+    "zhCN": "你制造出嗜血的水蛭，它们会钻入肌肉并在血管中筑巢。水蛭会出现在受术者体表并立刻试图穿透其皮肤。目标必须针对影响自身的每只嗜血水蛭进行一次强韧豁免。每次豁免失败都会造成1点体质伤害，并使目标的速度降低5尺（最低降至5尺）。来自多只嗜血水蛭的伤害可叠加。"
+  },
+  {
+    "Key": "gloryoffaithful.name",
+    "ProcessTemplates": false,
+    "enGB": "Glory of the Faithful",
+    "zhCN": "信徒荣耀"
+  },
+  {
+    "Key": "gloryoffaithful.description",
+    "ProcessTemplates": false,
+    "enGB": "You are infused with the power and glory of all those faithful to your god, both living and dead. You gain a divine bonus to attack, damage, and AC equal to your caster level.",
+    "zhCN": "你体内注入了所有信仰你神祇的生者与亡者的力量与荣耀。你的攻击检定、伤害检定和防御等级（AC）获得等于你施法者等级的神圣加值。"
+  },
+  {
+    "Key": "gloryoffaithfulbuff.name",
+    "ProcessTemplates": false,
+    "enGB": "Glory of the Faithful",
+    "zhCN": "信徒荣耀"
+  },
+  {
+    "Key": "gloryoffaithfulbuff.description",
+    "ProcessTemplates": false,
+    "enGB": "You are infused with the power and glory of all those faithful to your god, both living and dead. You gain a divine bonus to attack, damage, and AC equal to your caster level.",
+    "zhCN": "你体内注入了所有信仰你神祇的生者与亡者的力量与荣耀。你的攻击检定、伤害检定和防御等级（AC）获得等于你施法者等级的神圣加值。"
+  },
+  {
+    "Key": "illfortune.name",
+    "ProcessTemplates": false,
+    "enGB": "Child of Ill Fortune",
+    "zhCN": "厄运之子"
+  },
+  {
+    "Key": "illfortune.description",
+    "ProcessTemplates": false,
+    "enGB": "For the spell’s duration, the target suffers -2 penalties to all attack, damage (weapon and spell), skill check and ability check rolls. Any spells cast by the target have their DC decreased by 5. Child of ill fortune lasts a full 24 hours unless removed by dispel magic or remove curse.",
+    "zhCN": "在法术持续时间内，目标的所有攻击检定、伤害检定（武器与法术）、技能检定和属性检定均承受-2减值。目标施放的所有法术其豁免DC降低5点。厄运之子持续整整24小时，除非通过“解除魔法”或“移除诅咒”来解除。"
+  },
+  {
+    "Key": "spiritofwar.name",
+    "ProcessTemplates": false,
+    "enGB": "Spirit of War",
+    "zhCN": "战魂"
+  },
+  {
+    "Key": "spiritofwar.description",
+    "ProcessTemplates": false,
+    "enGB": "You are imbued with the essence of war as divine power courses through your veins.\nWhile under the effects of this spell, you gain the following benefits:\nYour speed increases by 10 feet.\nYou gain a +2 bonus to your AC and Reflex saves",
+    "zhCN": "神圣之力流淌在你的血脉中，战争的精髓浸透了你的身躯。\n处于该法术效果下时，你获得以下增益：\n你的速度增加10尺。\n你的防御等级（AC）和反射豁免获得+2加值。"
+  },
+  {
+    "Key": "warriorreflexs.name",
+    "ProcessTemplates": false,
+    "enGB": "Warrior’s Reflexes",
+    "zhCN": "战士反射"
+  },
+  {
+    "Key": "warriorreflexs.description",
+    "ProcessTemplates": false,
+    "enGB": "Your allies become aware of what is about to happen in combat. This precognitive awareness grants each creature a +1 insight bonus to AC and Reflex saves.",
+    "zhCN": "你的盟友能预知战斗中即将发生的变故。这种预知感知使每个生物的防御等级（AC）和反射豁免获得+1洞察加值。"
+  },
+  {
+    "Key": "bloodslugsbuff.name",
+    "ProcessTemplates": false,
+    "enGB": "Blood Slugs",
+    "zhCN": "嗜血水蛭"
+  },
+  {
+    "Key": "bloodslugsbuff.description",
+    "ProcessTemplates": false,
+    "enGB": "The slugs appear on the subject’s body and immediately attempt to penetrate their skin. Targets must make a Fortitude save for each blood slug affecting them. Each failed saving throw deals 1 point of Constitution damage and reduces the target’s speed by 5 feet (minimum 5)",
+    "zhCN": "水蛭会出现在受术者体表并立刻试图穿透其皮肤。目标必须针对影响自身的每只嗜血水蛭进行一次强韧豁免。每次豁免失败都会造成1点体质伤害，并使目标的速度降低5尺（最低降至5尺）。"
+  },
+  {
+    "Key": "illfortunebuff.name",
+    "ProcessTemplates": false,
+    "enGB": "Child of Ill Fortune",
+    "zhCN": "厄运之子"
+  },
+  {
+    "Key": "illfortunebuff.description",
+    "ProcessTemplates": false,
+    "enGB": "For the spell’s duration, the target suffers -2 penalties to all attack, damage (weapon and spell), skill check and ability check rolls. Any spells cast by the target have their DC decreased by 5. Child of ill fortune lasts a full 24 hours unless removed by dispel magic or remove curse.",
+    "zhCN": "在法术持续时间内，目标的所有攻击检定、伤害检定（武器与法术）、技能检定和属性检定均承受-2减值。目标施放的所有法术其豁免DC降低5点。厄运之子持续整整24小时，除非通过“解除魔法”或“移除诅咒”来解除。"
+  },
+  {
+    "Key": "spiritofwarbuff.name",
+    "ProcessTemplates": false,
+    "enGB": "Spirit of War",
+    "zhCN": "战魂"
+  },
+  {
+    "Key": "spiritofwarbuff.description",
+    "ProcessTemplates": false,
+    "enGB": "You gain the following benefits:\nYour speed increases by 10 feet.\nYou gain a +2 bonus to your AC and Reflex saves",
+    "zhCN": "你获得以下增益：\n你的速度增加10尺。\n你的防御等级（AC）和反射豁免获得+2加值。"
+  },
+  {
+    "Key": "warriorreflexsbuff.name",
+    "ProcessTemplates": false,
+    "enGB": "Warrior’s Reflexes",
+    "zhCN": "战士反射"
+  },
+  {
+    "Key": "warriorreflexsbuff.description",
+    "ProcessTemplates": false,
+    "enGB": "Your allies become aware of what is about to happen in combat. This precognitive awareness grants each creature a +1 insight bonus to AC and Reflex saves.",
+    "zhCN": "你的盟友能预知战斗中即将发生的变故。这种预知感知使每个生物的防御等级（AC）和反射豁免获得+1洞察加值。"
+  },
+  {
+    "Key": "dragonscales.name",
+    "ProcessTemplates": false,
+    "enGB": "Dragon Scales",
+    "zhCN": "龙鳞术"
+  },
+  {
+    "Key": "dragonscales.description",
+    "ProcessTemplates": false,
+    "enGB": "Your skin hardens, turning the shade and texture of a dragon’s hide, granting +3 natural armor bonus to AC for 8 hours.",
+    "zhCN": "你的皮肤硬化并呈现出龙皮的色泽与质地，使防御等级（AC）获得+3天生护甲加值，持续8小时。"
+  },
+  {
+    "Key": "energeticburst.name",
+    "ProcessTemplates": false,
+    "enGB": "Energetic Burst",
+    "zhCN": "活力爆发"
+  },
+  {
+    "Key": "energeticburst.description",
+    "ProcessTemplates": false,
+    "enGB": "The caster gains 10 temporary hit points and a +1 sacred bonus to all saving throws for the spell’s duration.",
+    "zhCN": "在法术持续时间内，施法者获得10点临时生命值，且所有豁免检定获得+1神圣加值。"
+  },
+  {
+    "Key": "flashofinsight.name",
+    "ProcessTemplates": false,
+    "enGB": "Flash of Insight",
+    "zhCN": "灵光一现"
+  },
+  {
+    "Key": "flashofinsight.description",
+    "ProcessTemplates": false,
+    "enGB": "Peering into the immediate future, you guide your attack with the knowledge of your opponent’s actions. Your next single attack roll (if made before the end of the round in which you cast the spell) gains a +1 insight bonus for every three caster levels you possess (minimum +1).",
+    "zhCN": "凝视近在咫尺的未来，你洞悉对手的行动来指引自己的攻击。你的下一次单独攻击检定（若在施放该法术的同一轮结束前进行）每有三个施法者等级便获得+1洞察加值（最低+1）。"
+  },
+  {
+    "Key": "dragonchanges.disabled",
+    "ProcessTemplates": false,
+    "enGB": "Disabled DragonChanges Content",
+    "zhCN": "禁止DragonChanges内容"
   }
 ]
