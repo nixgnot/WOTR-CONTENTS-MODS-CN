@@ -196,6 +196,22 @@
       "lastUpdate": "2024-08-02T12:07:46.000000+0800"
     },
     {
+      "desc": "通灵者 - 增加通灵者职业",
+      "target": "MediumClass",
+      "files": [
+        "MediumClass.json"
+      ],
+      "lastUpdate": "2024-08-02T12:07:46.000000+0800"
+    },
+    {
+      "desc": "Cowboys&Demons - 增加枪械及配套职业",
+      "target": "Cowboys&Demons",
+      "files": [
+        "Cowboys&Demons.json"
+      ],
+      "lastUpdate": "2024-08-02T12:07:46.000000+0800"
+    },
+    {
       "desc": "MPE扩展 - 游戏风格扩展MOD，增加新的游戏玩法和选项",
       "target": "MorvarchsPlaystyleExpansions",
       "files": [
