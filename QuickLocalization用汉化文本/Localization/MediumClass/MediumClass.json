@@ -313,7 +313,7 @@
   {
     "Key": "Guardian.Description",
     "enGB": "A guardian spirit is an exemplar of protection and defense.\nSpirit Bonus: When you channel a guardian, your spirit bonus applies to AC and on Constitution checks, Fortitude saves, and Reflex saves.\nSeance Boon: You gain a +1 bonus to CMD.\nInfluence Penalty: You are incredibly cautious and guarded in all things, and your caution sometimes gets in the way. When attacking, you always fight defensively, and when casting a spell, you always cast defensively. Because of your focus on defense, you take a penalty on damage rolls equal to your spirit bonus.\nGuardian’s Shield (Lesser, Su): You gain proficiency in heavy armors and shields (including tower shields).\nAbsorb Blow (Intermediate, Su): You gain DR/— and resistance to acid, cold, electricity, fire, and sonic equal to 1/2 your medium level. Add Bestow Grace to your medium spells known as a 2nd-level spell.\nGuardian Smite (Greater, Su): The medium allows the guardian to gain one influence over him to use Smite Evil as per the Paladin class feature.\nLegendary Guardian (Supreme, Su): Medium's Charisma inspires her allies so much that even when their hit points drop below 0 they continue to fight, even though they are still considered dead (or unconscious) for all effects and can be cured by Breath of Life or similar Spells as per spell description. After the encounter or upon receiving a number of attacks equal to Medium's Charisma modifier allies in this state fall dead (or unconscious). If all of the Medium's allies die that way, she becomes fully drained and dies.'",
-    "zhCN": "守护者英灵顽强坚韧，是守护与防御的典范。\n英灵同调：每当你降灵守护者时，你的英灵同调加值适用于防御等级（AC）、体质检定、强韧豁免与反射豁免。\n降灵奖励：你的CMD获得+1加值。\n共鸣惩罚：你在所有事情上都极其戒备与保守，而你的谨小慎微有时会碍手碍脚。在攻击时，你必须始终防御式战斗；在施法时，你必须始终防御式施法。由于专注于防御，你在伤害投骰上承受相当于你英灵同调加值的减值。\n守护者坚盾（次级，Su）：你获得重甲和盾牌擅长（包括塔盾）。\n吸收冲击（中级，Su）：你获得等同于你通灵者等级一半的DR/—，以及强酸、寒冷、电击、火焰与音波抗力。将赐福（Bestow Grace）作为2环法术加入你的通灵者已知法术中。\n守护者破邪（高等，Su）：通灵者可以允许守护者英灵对自己获得1点共鸣，借此如同圣武士职业特性一般使用破邪斩。\n传奇守护者（至高，Su）：通灵者的魅力极大鼓舞了盟友，即使盟友的生命值降至0以下，他们依然会继续战斗，尽管在所有判定中他们仍被视为死亡（或失去意识），并且可以按照法术说明通过生命之息或类似法术治愈。在遭遇结束或承受了总计相当于通灵者魅力调整值次数的攻击后，处于该状态的盟友倒地死亡（或失去意识）。若通灵者的所有盟友均以此种方式死亡，她将被彻底吸干并死亡。"
+    "zhCN": "守护者英灵顽强坚韧，是守护与防御的典范。\n英灵同调：每当你降灵守护者时，你的英灵同调加值适用于防御等级（AC）、体质检定、强韧豁免与反射豁免。\n降灵奖励：你的CMD获得+1加值。\n共鸣惩罚：你在所有事情上都极其戒备与保守，而你的谨小慎微有时会碍手碍脚。在攻击时，你必须始终防御式战斗；在施法时，你必须始终防御式施法。由于专注于防御，你在伤害投骰上承受相当于你英灵同调加值的减值。\n守护者坚盾（次级，Su）：你获得重甲和盾牌擅长（包括塔盾）。\n吸收冲击（中级，Su）：你获得等同于你通灵者等级一半的DR/—，以及强酸、寒冷、电击、火焰与音波抗力。将赐福（Bestow Grace）作为2环法术加入你的通灵者已知法术中。\n守护者破邪（高等，Su）：通灵者可以允许守护者英灵对自己获得1点共鸣，借此如同圣武士职业特性一般使用制裁邪恶。\n传奇守护者（至高，Su）：通灵者的魅力极大鼓舞了盟友，即使盟友的生命值降至0以下，他们依然会继续战斗，尽管在所有判定中他们仍被视为死亡（或失去意识），并且可以按照法术说明通过生命之息或类似法术治愈。在遭遇结束或承受了总计相当于通灵者魅力调整值次数的攻击后，处于该状态的盟友倒地死亡（或失去意识）。若通灵者的所有盟友均以此种方式死亡，她将被彻底吸干并死亡。"
   },
   {
     "Key": "GuardianSpiritBonus.Name",
@@ -368,7 +368,7 @@
   {
     "Key": "GuardianGreater.Description",
     "enGB": "You can allow the guardian to gain 1 point of influence over you as a swift action to smite evil as per the paladin class.",
-    "zhCN": "你可以以一个迅捷动作允许守护者英灵对自己获得1点共鸣，借此如同圣武士职业一般使用破邪斩。"
+    "zhCN": "你可以以一个迅捷动作允许守护者英灵对自己获得1点共鸣，借此如同圣武士职业一般使用制裁邪恶。"
   },
   {
     "Key": "Hierophant.Name",
