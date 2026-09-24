@@ -755,5 +755,16 @@
     "ProcessTemplates": false,
     "enGB": "Seance Boon - UMD",
     "zhCN": "降灵奖励 - 使用魔法装置"
+  },
+  {
+    "Key": "BackgroundMedium.Name",
+    "ProcessTemplates": false,
+    "enGB": "Favored Class - Medium",
+    "zhCN": "天赋职业 - 通灵者"
+  },
+  {
+    "Key": "BackgroundMedium.Description",
+    "enGB": "You've been plagued by spirits for as long as you can remember. Because of this, you have a deeper connection with the Medium spirits that can be channeled. Increase the medium's spirit bonus by 1/6 for every level you take in the medium class.",
+    "zhCN": "你从小就饱受灵体的困扰。正因如此，你与能够引导的英灵们有着更深层次的联系。每提升一级通灵者等级，你的英灵同调加值就增加1/6。"
   }
 ]
