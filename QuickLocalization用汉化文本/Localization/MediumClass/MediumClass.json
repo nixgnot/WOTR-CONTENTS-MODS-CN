@@ -1,0 +1,759 @@
+[
+  {
+    "Key": "SpiritPower.Name",
+    "ProcessTemplates": false,
+    "enGB": "Spirit Powers",
+    "zhCN": "英灵之力"
+  },
+  {
+    "Key": "SpiritPower.Description",
+    "enGB": "The medium gains the spirit’s listed seance boon and lesser spirit power for 24 hours. The medium also gains the spirit’s intermediate spirit power at 6th level, its greater spirit power at 11th level, and its supreme spirit power at 17th level. After a day, the medium loses contact with the channeled spirit and can perform another seance.",
+    "zhCN": "通灵者获得该英灵列出的降灵奖励与次级英灵之力，持续24小时。通灵者还会在6级时获得该英灵的中级英灵之力，在11级时获得高等英灵之力，在17级时获得至高英灵之力。一天之后，通灵者与所降灵英灵的联系断开，便可以举行另一次降灵仪式。"
+  },
+  {
+    "Key": "SpiritSurge.Name",
+    "ProcessTemplates": false,
+    "enGB": "Spirit Surge",
+    "zhCN": "灵力奔涌"
+  },
+  {
+    "Key": "SpiritSurge.Description",
+    "ProcessTemplates": false,
+    "enGB": "A medium can allow his spirit to gain 1 additional point of influence over him in order to add 1d6 to a value modified by his spirit bonus.\n The medium must be conscious and aware to use this ability. At 10th level, the medium’s spirit surge die increases to 1d8, and at 20th level it increases to 1d10. The bonuses last for 5 rounds (30 seconds).",
+    "zhCN": "通灵者可以允许英灵对自己增加1点共鸣，使英灵同调所加值的数据获得1d6加值。\n通灵者必须神志清醒且有自我意识才能使用该能力。在10级时，通灵者的灵力奔涌骰提升至1d8，在20级时提升至1d10。此加值持续5轮（30秒）。"
+  },
+  {
+    "Key": "MediumClass.Name",
+    "ProcessTemplates": false,
+    "enGB": "Medium",
+    "zhCN": "通灵者"
+  },
+  {
+    "Key": "MediumClass.Description",
+    "enGB": "Mediums channel spirits into themselves, using their own bodies as vessels for astral entities spawned from myths and legends. A medium balances his need for the spirits' power with the danger of allowing such beings influence over his mind.",
+    "zhCN": "通灵者将英灵引渡入体内，以自己的身躯作为诞生自神话与传说的星界实体的容器。通灵者需要权衡借用英灵力量的需求，以及让此类存在影响自己心智的危险。"
+  },
+  {
+    "Key": "MediumProficiencies.Name",
+    "ProcessTemplates": false,
+    "enGB": "Medium Proficiencies",
+    "zhCN": "通灵者武器与护甲擅长"
+  },
+  {
+    "Key": "MediumProficiencies.Description",
+    "ProcessTemplates": false,
+    "enGB": "Mediums are proficient with all simple {g|Encyclopedia:Weapon_Proficiency}weapons{/g}, light armor, and medium armor. A medium can cast {g|Encyclopedia:Spell}spells{/g} while wearing armor.",
+    "zhCN": "通灵者擅长所有简易{g|Encyclopedia:Weapon_Proficiency}武器{/g}、轻甲和中甲。通灵者可以在穿戴护甲时施放{g|Encyclopedia:Spell}法术{/g}。"
+  },
+  {
+    "Key": "MediumSpiritBonus.Name",
+    "ProcessTemplates": false,
+    "enGB": "Spirit Bonus",
+    "zhCN": "英灵同调"
+  },
+  {
+    "Key": "MediumSpiritBonus.Description",
+    "ProcessTemplates": false,
+    "enGB": "When a medium channels a spirit, he gains a bonus on certain checks and abilities, depending on the spirit. A 1st-level medium's spirit bonus is +1; it increases by 1 at 4th level and every 4 levels thereafter.",
+    "zhCN": "当通灵者降灵英灵时，根据所降灵的英灵不同，他在特定检定和能力上获得加值。1级通灵者的英灵同调加值为+1；在4级以及之后每提升4级时额外+1。"
+  },
+  {
+    "Key": "MediumChannelSpirit.Name",
+    "ProcessTemplates": false,
+    "enGB": "Channel Spirit",
+    "zhCN": "英灵降灵"
+  },
+  {
+    "Key": "MediumChannelSpirit.Description",
+    "enGB": "A medium serves as a vessel to channel spirits; astral echoes of powerful souls from ages past that live on in myth and legend. Each day, a medium can channel a spirit through a ritual known as a seance. At the end of a seance, the medium invites a local spirit to inhabit him and serve as his spirit for that day.\nThe medium gains the spirit’s listed seance boon and spirit power(s) for 24 hours. A channeled spirit can influence the medium. By channeling a spirit, the medium allows the spirit to gain 1 point of influence over him. If the medium loses that 1 point of influence, he loses contact with the spirit, though he is still unable to perform a new seance until after his next rest. When the spirit leaves after the channeled duration and before the next seance, the spirit’s influence over the medium resets to 0. Certain abilities allow the medium to gain additional power in exchange for allowing the spirit more influence over him.\nWhen a spirit gains at least 3 points of influence over the medium, the dual impulses housed within the same body cause the medium to meld with his spirit’s consciousness.\nThe resulting muddled sense of self and struggle for control causes the medium to take a -2 penalty on initiative checks as well as a specific additional penalty listed in each spirit’s entry. However, the spirit’s mental presence grants the medium a +4 bonus against possession effects and a +2 bonus on saving throws against mind-affecting effects that are not related to possession.\nIf a spirit ever attains 5 or more points of influence over the medium, the medium completely loses control to the spirit.",
+    "zhCN": "通灵者作为媒介引渡英灵入体；这些英灵是来自遥远过去、在神话与传说中长存的强大灵魂在星界的回响。每天，通灵者都可以通过一种名为降灵的仪式来引导英灵附身。在降灵仪式结束时，通灵者邀请当地的英灵寄宿于体内，作为他当天的英灵。\n通灵者获得该英灵列出的降灵奖励和英灵之力，持续24小时。被降灵的英灵会对通灵者造成影响。通过降灵英灵，通灵者允许英灵对自己获得1点共鸣。如果通灵者失去这1点共鸣，他将失去与英灵的联系，但他直到下一次休息后才能进行新的降灵。在降灵持续时间结束后英灵离开且在下一次降灵之前，英灵对通灵者的共鸣重置为0。某些能力允许通灵者以让英灵对自己施加更多共鸣为代价来获得额外的力量。\n当英灵对通灵者获得至少3点共鸣时，容纳在同一具躯体内的双重意识会导致通灵者的心智与英灵的意识相融合。\n由此带来的自我意识混乱与争夺控制权的精神冲突，会导致通灵者在先攻检定上承受-2减值，并承受每个英灵条目中所列出的特定额外减值。然而，英灵的精神存在会使通灵者在对抗占据效果时获得+4加值，并在对抗与占据无关的心智影响效果的豁免检定中获得+2加值。\n如果英灵对通灵者的共鸣达到或超过5点，通灵者将彻底失去对身体的控制权，被英灵所支配。"
+  },
+  {
+    "Key": "MediumInfluence.Name",
+    "ProcessTemplates": false,
+    "enGB": "Influence",
+    "zhCN": "共鸣"
+  },
+  {
+    "Key": "MediumInfluence.Description",
+    "ProcessTemplates": false,
+    "enGB": "By channeling a spirit, the medium allows the spirit to gain 1 point of influence over him. If the medium loses that 1 point of influence, he loses contact with the spirit, though he is still unable to perform a new seance until the normal 24 hour period has elapsed since his last seance. When the spirit leaves after the 24-hour duration and before the next seance, the spirit’s influence over the medium resets to  0. Certain abilities allow the medium to gain additional power in exchange for allowing the spirit more influence over him.\n\nWhen a spirit gains at least 3 points of influence over the medium, the dual impulses housed within the same body cause the medium to meld with his spirit’s consciousness.\n\nThe resulting muddled sense of self and struggle for control causes the medium to take a –2 penalty on initiative checks as well as a specific additional penalty listed in each spirit’s entry. However, the spirit’s mental presence grants the medium a +4 bonus against possession effects and a +2 bonus on saving throws against mind-affecting effects that are not related to possession.\n\nIf a spirit ever attains 5 or more points of influence over the medium, the medium completely loses control to the spirit. He effectively becomes an NPC under the GM’s control until after he awakens the next day with the spirit gone.",
+    "zhCN": "通过降灵英灵，通灵者允许英灵对自己获得1点共鸣。如果通灵者失去这1点共鸣，他将失去与英灵的联系，但他直到上次降灵仪式经过正常的24小时周期后才能进行新的降灵。在24小时持续时间结束后英灵离开且在下一次降灵之前，英灵对通灵者的共鸣重置为0。某些能力允许通灵者以让英灵对自己施加更多共鸣为代价来获得额外的力量。\n\n当英灵对通灵者获得至少3点共鸣时，容纳在同一具躯体内的双重意识会导致通灵者的心智与英灵的意识相融合。\n\n由此带来的自我意识混乱与争夺控制权的精神冲突，会导致通灵者在先攻检定上承受-2减值，并承受每个英灵条目中所列出的特定额外减值。然而，英灵的精神存在会使通灵者在对抗占据效果时获得+4加值，并在对抗与占据无关的心智影响效果的豁免检定中获得+2加值。\n\n如果英灵对通灵者的共鸣达到或超过5点，通灵者将彻底失去对身体的控制权，被英灵所支配。他实际上会变成由GM控制的NPC角色，直到第二天英灵离去他醒来为止。"
+  },
+  {
+    "Key": "MediumSharedSeance.Name",
+    "ProcessTemplates": false,
+    "enGB": "Shared Seance",
+    "zhCN": "降灵会"
+  },
+  {
+    "Key": "MediumSharedSeance.Description",
+    "ProcessTemplates": false,
+    "enGB": "At 2nd level, a medium can share his channeled spirit’s aid with his allies. All allies who participate in the medium’s seance gain the channeled spirit’s seance boon for 24 hours.",
+    "zhCN": "在2级时，通灵者可以与盟友共享所降灵英灵的援助。所有参与通灵者降灵仪式的盟友都会获得该英灵的降灵奖励，持续24小时。"
+  },
+  {
+    "Key": "MediumPropitation.Name",
+    "ProcessTemplates": false,
+    "enGB": "Propitation",
+    "zhCN": "慰灵之术"
+  },
+  {
+    "Key": "MediumPropitation.Description",
+    "ProcessTemplates": false,
+    "enGB": "At 9th level, a medium has learned hidden techniques and rites that allow him to mollify his channeled spirit once per day, increasing the number of influence the spirit can gain over them before any negative effects.",
+    "zhCN": "在9级时，通灵者习得了隐秘的技巧与祭仪，使他每天可以安抚一次所降灵的英灵，从而提高英灵在产生负面效果前能够对他施加的共鸣上限。"
+  },
+  {
+    "Key": "MediumSpiritMastery.Name",
+    "ProcessTemplates": false,
+    "enGB": "Spirit Mastery",
+    "zhCN": "英灵化"
+  },
+  {
+    "Key": "MediumSpiritMastery.Description",
+    "enGB": "At 19th level, he medium becomes a legend among spirits, particularly lesser spirits. He can use his spirit surge ability an additional two times per day without incurring influence, regardless of whether he accepts a taboo or channels a weaker spirit. When channeling a weaker spirit, he can use his spirit surge ability an additional four times per day for each power he forgoes, instead of an additional two times.",
+    "zhCN": "在19级时，通灵者本人已位列英灵的传说之中，尤其受到低等精魂的敬仰。无论他是否接受禁忌或降灵较弱的英灵，他每天都可以额外使用两次灵力奔涌能力而不承受共鸣。当降灵较弱的英灵时，他每放弃一项英灵之力，每天便可额外使用四次灵力奔涌能力而不承受共鸣，而非额外两次。"
+  },
+  {
+    "Key": "MediumTranceOfThree.Name",
+    "ProcessTemplates": false,
+    "enGB": "Trance Of Three",
+    "zhCN": "三重降灵"
+  },
+  {
+    "Key": "MediumTranceOfThree.Description",
+    "enGB": "At 15th level, as a swift action, a medium can allow his spirit to gain 1 point of influence over him in order to allow a portion of a legendary spirit from another legend to enter him for 1 round per level, granting him the intermediate spirit power from another legend.\nIf that power has a limited number of uses per day, the medium must keep track of the remaining uses even after the secondary spirit is gone; if the medium calls the secondary spirit again that day, it can grant the remaining uses of that power. If the medium uses an ability that incurs influence, the medium’s primary spirit gains that amount of influence over him, not the secondary spirit. The medium doesn’t gain the benefits of his spirit bonus from the secondary spirit.\nThe medium can end the trance of three early as a free action.",
+    "zhCN": "在15级时，以一个迅捷动作，通灵者可以允许当前英灵对自己增加1点共鸣，借此让来自另一职阶的传奇英灵的一部分力量附身于自己，持续每等级1轮，从而获得另一个职阶的中级英灵之力。\n如果该能力具有每日使用次数限制，通灵者必须在第二英灵离去后继续记录剩余使用次数；如果通灵者在当天再次召唤该第二英灵，它只能提供该能力剩余的使用次数。如果通灵者使用了会累积共鸣的能力，该共鸣将累积在通灵者的主英灵身上，而非第二英灵身上。通灵者不会从第二英灵处获得英灵同调的加值增益。\n通灵者可以以一个自由动作提前结束三重降灵。"
+  },
+  {
+    "Key": "WeakerSpiritChannel.Name",
+    "ProcessTemplates": false,
+    "enGB": "Forego Power(s)",
+    "zhCN": "放弃英灵之力"
+  },
+  {
+    "Key": "WeakerSpiritChannel1.Name",
+    "ProcessTemplates": false,
+    "enGB": "Forego One Power",
+    "zhCN": "放弃一项英灵之力"
+  },
+  {
+    "Key": "WeakerSpiritChannel.Description",
+    "enGB": "During his seance, the medium can choose to channel a weaker spirit to gain its help without incurring as much of its influence. If he does so, he can forgo any number of spirit powers, starting with his most powerful spirit power. For each spirit power he forgoes, the medium can use his spirit surge ability twice without incurring influence. If the medium has the Spirit Mastery class feature this value increases to four additional times per power he forgoes.",
+    "zhCN": "在降灵仪式期间，通灵者可以选择降灵一个较弱的英灵，以此获得其帮助而无需承受过多的共鸣。如果这样做，他可以放弃任意数量的英灵之力，从他最强大的英灵之力开始依次放弃。每放弃一项英灵之力，通灵者就可以使用两次灵力奔涌能力而不承受共鸣。如果通灵者拥有“英灵化”职业特性，该数值提升为每放弃一项能力额外获得四次使用次数。"
+  },
+  {
+    "Key": "WeakerSpiritChannel2.Name",
+    "ProcessTemplates": false,
+    "enGB": "Forego Two Powers",
+    "zhCN": "放弃两项英灵之力"
+  },
+  {
+    "Key": "WeakerSpiritChannel3.Name",
+    "ProcessTemplates": false,
+    "enGB": "Forego Three Powers",
+    "zhCN": "放弃三项英灵之力"
+  },
+  {
+    "Key": "WeakerSpiritChannel4.Name",
+    "ProcessTemplates": false,
+    "enGB": "Forego Four Powers",
+    "zhCN": "放弃四项英灵之力"
+  },
+  {
+    "Key": "AstralBeacon.Name",
+    "ProcessTemplates": false,
+    "enGB": "Astral Beacon",
+    "zhCN": "星界灯塔"
+  },
+  {
+    "Key": "AstralBeacon.Description",
+    "enGB": "At 20th level, a medium is an open connection to the Astral Plane and a shining beacon for spirits. As part of his seance for his primary legend, he channel the spirits of all of the five legends he did not contact via his seance. This ability lasts for the duration of the day and grants access to the intermediate, greater, and supreme spirit powers of the five additional legends.",
+    "zhCN": "在20级时，通灵者成为了连接星界的敞开通道，是英灵眼中闪耀的道标。作为其主职阶降灵仪式的一部分，他可以降灵其仪式中未曾联络的所有其他五个职阶的英灵。该能力持续一整天，并赋予通灵者使用额外五个职阶的中级、高等与至高英灵之力的能力。"
+  },
+  {
+    "Key": "Archmage.Name",
+    "ProcessTemplates": false,
+    "enGB": "Archmage",
+    "zhCN": "大法师"
+  },
+  {
+    "Key": "Archmage.Description",
+    "enGB": "An archmage spirit is a font of knowledge and arcane power.\nSpirit Bonus: When you channel an archmage, your spirit bonus applies on concentration checks, Intelligence checks, and Intelligence-based skill checks.\nSeance Boon: Your damaging spells deal an additional 2 points of damage of the same type that they would normally deal to each target.\nInfluence Penalty: Your body begins to respond as if you were a frail, aged scholar. You take a penalty equal to your spirit bonus on Strength checks, Strength-based skill checks, Constitution checks, attack rolls, and non-spell damage rolls.\nArchmage Arcana (Lesser, Su): Instead of your normal spells per day for your medium level, you use the spells per day from Table: Mesmerist. For each level of spell you can now cast (including level 0), each time you channel an archmage spirit, select a single spell of that level from the sorcerer/wizard spell list to add to your medium spell list and spells known until you lose contact with the archmage. When you cast these spells, they count as arcane (though not for the purpose of fulfilling prerequisites), and thus you must provide verbal and somatic components instead of thought and emotion components.\nArcane Surge (Intermediate, Su): You can allow the archmage spirit to gain 1 point of influence over you in order to cast one of your medium spells known without expending a spell slot. When you do so, the caster level and DC of the spell increase by 1.\nWild Arcana (Greater, Su): You can allow the archmage spirit to gain 1 point of influence over you in order to cast any sorcerer/wizard spell of a level you can cast.\nLegendary Archmage (Supreme, Su): Once per day, you can cast any spell on the sorcerer/wizard spell list as if using the wild arcana ability, except the archmage doesn't gain 1 point of influence over you, the spell doesn't require a spell slot, and you can select a spell of any level.",
+    "zhCN": "大法师英灵是学识与奥法力量的源泉。\n英灵同调：每当你降灵大法师时，你的英灵同调加值适用于专注检定、智力检定以及基于智力的技能检定。\n降灵奖励：你的伤害性法术对每个目标造成的伤害额外增加2点，伤害类型与法术原本的伤害类型相同。\n共鸣惩罚：你的身躯开始表现得如同虚弱衰老的老学者。你在力量检定、基于力量的技能检定、体质检定、攻击检定以及非法术伤害投骰上承受相当于你英灵同调加值的减值。\n大法师魔术（次级，Su）：你不再使用通灵者等级原本的每日法术位，而是改用催眠师（Mesmerist）的每日法术位。对于你当前能够施放的每个法术环级（包括0环），每次降灵大法师英灵时，从术士/法师法术列表中选择一个该环级的法术加入你的通灵者法术列表与已知法术中，直到你与大法师断开联系。当你施放这些法术时，它们视为奥术（但不能用于满足先决条件），因此你必须提供语言与姿势成分，而非思想与情绪成分。\n奥法奔涌（中级，Su）：你可以允许大法师英灵对自己获得1点共鸣，借此在不消耗法术位的情况下施放一个你的通灵者已知法术。当你这样做时，该法术的施法者等级与DC均提高1。\n无拘奥法（高等，Su）：你可以允许大法师英灵对自己获得1点共鸣，借此施放任意一个环级在你可施法范围内的术士/法师法术。\n传奇大法师（至高，Su）：每天一次，你可以如同使用无拘奥法能力一般施放术士/法师法术列表中的任意法术，但大法师不会对你获得1点共鸣，该法术无需消耗法术位，且你可以选择任意环级的法术。"
+  },
+  {
+    "Key": "ArchmageSpiritBonus.Name",
+    "ProcessTemplates": false,
+    "enGB": "Spirit Bonus - Archmage",
+    "zhCN": "英灵同调 - 大法师"
+  },
+  {
+    "Key": "ArchmageSpiritBonus.Description",
+    "enGB": "When you channel an archmage, your spirit bonus applies on concentration checks, Intelligence checks, and Intelligence-based skill checks.",
+    "zhCN": "当你降灵大法师时，你的英灵同调加值适用于专注检定、智力检定以及基于智力的技能检定。"
+  },
+  {
+    "Key": "ArchmageSeanceBoon.Name",
+    "ProcessTemplates": false,
+    "enGB": "Seance Boon - Archmage",
+    "zhCN": "降灵奖励 - 大法师"
+  },
+  {
+    "Key": "ArchmageSeanceBoon.Description",
+    "enGB": "Your damaging spells deal an additional 2 points of damage of the same type that they would normally deal to each target.",
+    "zhCN": "你的伤害性法术对每个目标造成的伤害额外增加2点，伤害类型与法术原本的伤害类型相同。"
+  },
+  {
+    "Key": "ArchmageIntermediate.Name",
+    "ProcessTemplates": false,
+    "enGB": "Arcane Surge",
+    "zhCN": "奥法奔涌"
+  },
+  {
+    "Key": "ArchmageIntermediate.Description",
+    "enGB": "You can allow the archmage spirit to gain 1 point of influence over you in order to cast one of your medium spells known without expending a spell slot. When you do so, the caster level and DC of the spell increase by 1.",
+    "zhCN": "你可以允许大法师英灵对自己获得1点共鸣，借此在不消耗法术位的情况下施放一个你的通灵者已知法术。当你这样做时，该法术的施法者等级与DC均提高1。"
+  },
+  {
+    "Key": "ArchmageGreater.Name",
+    "ProcessTemplates": false,
+    "enGB": "Wild Arcana",
+    "zhCN": "无拘奥法"
+  },
+  {
+    "Key": "ArchmageGreater.Description",
+    "enGB": "You can allow the archmage spirit to gain 1 point of influence over you in order to cast any sorcerer/wizard spell of a level you can cast.",
+    "zhCN": "你可以允许大法师英灵对自己获得1点共鸣，借此施放任意一个环级在你可施法范围内的术士/法师法术。"
+  },
+  {
+    "Key": "ArchmageSupreme.Name",
+    "ProcessTemplates": false,
+    "enGB": "Legendary Archmage",
+    "zhCN": "传奇大法师"
+  },
+  {
+    "Key": "ArchmageSupreme.Description",
+    "enGB": "Once per day, you can cast any 7th, 8th, or 9th level wizard spell for free. This does not accrue influence. ",
+    "zhCN": "每天一次，你可以免费施放任意一个7环、8环或9环的法师法术。此能力不会累积共鸣。"
+  },
+  {
+    "Key": "Champion.Name",
+    "ProcessTemplates": false,
+    "enGB": "Champion",
+    "zhCN": "勇士"
+  },
+  {
+    "Key": "Champion.Description",
+    "enGB": "A champion spirit is a paragon of skill at arms.\nSpirit Bonus: When you channel a champion, your spirit bonus applies on attack rolls, non-spell damage rolls, Strength checks, Strength-based skill checks, and Fortitude saves.\nSeance Boon: You gain a +2 bonus on all non-spell damage rolls.\nInfluence Penalty: You take a penalty equal to your spirit bonus on Intelligence checks and Intelligence-based skill checks, and to your caster level (to a minimum of caster level 0); as usual, a reduced caster level may render you unable to cast spells.\nChampion’s Prowess (Lesser, Su): You gain proficiency in all martial and exotic weapons.\nSudden Attack (Intermediate, Su): Whenever you take a full-attack action, you gain one additional attack at your highest base attack bonus. This ability stacks with the extra attack from haste, but it doesn’t stack with special actions that grant extra attacks, such as flurry of blows or spell combat. Sudden attack works as normal with full-attack options such as twoweapon fighting.\nFleet Charge (Greater, Su): You can take a swift action and a full-round action to move up to your speed and then make a full attack. This special action doesn’t combine with sudden attack, but works as normal with effects such as haste and two-weapon fighting. As soon as you begin moving, you are considered to have begun the full-round action, even if circumstances prevent you from attacking at the end of your movement.\nLegendary Champion (Supreme, Su): You gain Armor and Weapon Training as per the fighter.",
+    "zhCN": "勇士英灵强悍异常，是武艺绝伦的典范。\n英灵同调：每当你降灵勇士时，你的英灵同调加值适用于攻击检定、非法术伤害投骰、力量检定、基于力量的技能检定以及强韧豁免。\n降灵奖励：你造成的所有非法术伤害获得+2加值。\n共鸣惩罚：你在智力检定、基于智力的技能检定以及施法者等级上承受相当于你英灵同调加值的减值（最低降至CL 0；通常而言，施法者等级降低可能会使你无法施法）。\n斗士之威（次级，Su）：你获得所有军用武器和异种武器的擅长。\n瞬袭（中级，Su）：每当你进行整轮攻击动作时，你可以以最高基础攻击加值额外发动一次攻击。此能力与加速术提供的额外攻击叠加，但不与提供额外攻击的特殊动作叠加（例如疾风连击或法术战斗）。瞬袭可正常与双武器战斗等整轮攻击机制配合生效。\n狂飙猛进（高等，Su）：你可以使用一个迅捷动作和一个整轮动作，移动至多为你移动速度的距离并进行一次整轮攻击。此特殊动作不可与瞬袭结合使用，但可正常与加速术和双武器战斗等效果配合生效。当你开始移动时，即视为已开始执行整轮动作，即使后续情况导致你在移动结束时无法发动攻击也是如此。\n传奇勇士（至高，Su）：你如同战士一般获得防具训练和武器训练。"
+  },
+  {
+    "Key": "ChampionSpiritBonus.Name",
+    "ProcessTemplates": false,
+    "enGB": "Spirit Bonus - Champion",
+    "zhCN": "英灵同调 - 勇士"
+  },
+  {
+    "Key": "ChampionSpiritBonus.Description",
+    "enGB": "When you channel a champion, your spirit bonus applies on attack rolls, non-spell damage rolls, Strength checks, Strength-based skill checks, and Fortitude saves.",
+    "zhCN": "当你降灵勇士时，你的英灵同调加值适用于攻击检定、非法术伤害投骰、力量检定、基于力量的技能检定以及强韧豁免。"
+  },
+  {
+    "Key": "ChampionSeanceBoon.Name",
+    "ProcessTemplates": false,
+    "enGB": "Seance Boon - Champion",
+    "zhCN": "降灵奖励 - 勇士"
+  },
+  {
+    "Key": "ChampionSeanceBoon.Description",
+    "enGB": "You gain a +2 bonus on all non-spell damage rolls.",
+    "zhCN": "你造成的所有非法术伤害获得+2加值。"
+  },
+  {
+    "Key": "ChampionSuddenAttack.Name",
+    "ProcessTemplates": false,
+    "enGB": "Sudden Attack - Champion",
+    "zhCN": "瞬袭 - 勇士"
+  },
+  {
+    "Key": "ChampionSuddenAttack.Description",
+    "enGB": "Whenever you take a full-attack action, you gain one additional attack at your highest base attack bonus. This ability stacks with the extra attack from haste, but it doesn’t stack with special actions that grant extra attacks, such as flurry of blows or spell combat. Sudden attack works as normal with full-attack options such as twoweapon fighting.",
+    "zhCN": "每当你进行整轮攻击动作时，你可以以最高基础攻击加值额外发动一次攻击。此能力与加速术提供的额外攻击叠加，但不与提供额外攻击的特殊动作叠加（例如疾风连击或法术战斗）。瞬袭可正常与双武器战斗等整轮攻击机制配合生效。"
+  },
+  {
+    "Key": "ChampionFleetCharge.Name",
+    "ProcessTemplates": false,
+    "enGB": "Fleet Charge - Champion",
+    "zhCN": "狂飙猛进 - 勇士"
+  },
+  {
+    "Key": "ChampionFleetCharge.Description",
+    "enGB": ": You can take a swift action and a full-round action to move up to your speed and then make a full attack. This special action doesn’t combine with sudden attack, but works as normal with effects such as haste and two-weapon fighting. As soon as you begin moving, you are considered to have begun the full-round action, even if circumstances prevent you from attacking at the end of your movement.",
+    "zhCN": "你可以使用一个迅捷动作和一个整轮动作，移动至多为你移动速度的距离并进行一次整轮攻击。此特殊动作不可与瞬袭结合使用，但可正常与加速术和双武器战斗等效果配合生效。当你开始移动时，即视为已开始执行整轮动作，即使后续情况导致你在移动结束时无法发动攻击也是如此。"
+  },
+  {
+    "Key": "LegendaryChampion.Name",
+    "ProcessTemplates": false,
+    "enGB": "Legendary Champion",
+    "zhCN": "传奇勇士"
+  },
+  {
+    "Key": "LegendaryChampion.Description",
+    "enGB": "The champion spirit gives you some of his strength, granting you armor and weapon training feats.",
+    "zhCN": "勇士英灵赋予你一部分力量，赋予你防具训练与武器训练专长。"
+  },
+  {
+    "Key": "Guardian.Name",
+    "ProcessTemplates": false,
+    "enGB": "Guardian",
+    "zhCN": "守护者"
+  },
+  {
+    "Key": "Guardian.Description",
+    "enGB": "A guardian spirit is an exemplar of protection and defense.\nSpirit Bonus: When you channel a guardian, your spirit bonus applies to AC and on Constitution checks, Fortitude saves, and Reflex saves.\nSeance Boon: You gain a +1 bonus to CMD.\nInfluence Penalty: You are incredibly cautious and guarded in all things, and your caution sometimes gets in the way. When attacking, you always fight defensively, and when casting a spell, you always cast defensively. Because of your focus on defense, you take a penalty on damage rolls equal to your spirit bonus.\nGuardian’s Shield (Lesser, Su): You gain proficiency in heavy armors and shields (including tower shields).\nAbsorb Blow (Intermediate, Su): You gain DR/— and resistance to acid, cold, electricity, fire, and sonic equal to 1/2 your medium level. Add Bestow Grace to your medium spells known as a 2nd-level spell.\nGuardian Smite (Greater, Su): The medium allows the guardian to gain one influence over him to use Smite Evil as per the Paladin class feature.\nLegendary Guardian (Supreme, Su): Medium's Charisma inspires her allies so much that even when their hit points drop below 0 they continue to fight, even though they are still considered dead (or unconscious) for all effects and can be cured by Breath of Life or similar Spells as per spell description. After the encounter or upon receiving a number of attacks equal to Medium's Charisma modifier allies in this state fall dead (or unconscious). If all of the Medium's allies die that way, she becomes fully drained and dies.'",
+    "zhCN": "守护者英灵顽强坚韧，是守护与防御的典范。\n英灵同调：每当你降灵守护者时，你的英灵同调加值适用于防御等级（AC）、体质检定、强韧豁免与反射豁免。\n降灵奖励：你的CMD获得+1加值。\n共鸣惩罚：你在所有事情上都极其戒备与保守，而你的谨小慎微有时会碍手碍脚。在攻击时，你必须始终防御式战斗；在施法时，你必须始终防御式施法。由于专注于防御，你在伤害投骰上承受相当于你英灵同调加值的减值。\n守护者坚盾（次级，Su）：你获得重甲和盾牌擅长（包括塔盾）。\n吸收冲击（中级，Su）：你获得等同于你通灵者等级一半的DR/—，以及强酸、寒冷、电击、火焰与音波抗力。将赐福（Bestow Grace）作为2环法术加入你的通灵者已知法术中。\n守护者破邪（高等，Su）：通灵者可以允许守护者英灵对自己获得1点共鸣，借此如同圣武士职业特性一般使用破邪斩。\n传奇守护者（至高，Su）：通灵者的魅力极大鼓舞了盟友，即使盟友的生命值降至0以下，他们依然会继续战斗，尽管在所有判定中他们仍被视为死亡（或失去意识），并且可以按照法术说明通过生命之息或类似法术治愈。在遭遇结束或承受了总计相当于通灵者魅力调整值次数的攻击后，处于该状态的盟友倒地死亡（或失去意识）。若通灵者的所有盟友均以此种方式死亡，她将被彻底吸干并死亡。"
+  },
+  {
+    "Key": "GuardianSpiritBonus.Name",
+    "ProcessTemplates": false,
+    "enGB": "Spirit Bonus - Guardian",
+    "zhCN": "英灵同调 - 守护者"
+  },
+  {
+    "Key": "GuardianSpiritBonus.Description",
+    "enGB": "When you channel a guardian, your spirit bonus applies to AC and on Constitution checks, Fortitude saves, and Reflex saves.",
+    "zhCN": "当你降灵守护者时，你的英灵同调加值适用于防御等级（AC）、体质检定、强韧豁免与反射豁免。"
+  },
+  {
+    "Key": "GuardianSeanceBoon.Name",
+    "ProcessTemplates": false,
+    "enGB": "Seance Boon - Guardian",
+    "zhCN": "降灵奖励 - 守护者"
+  },
+  {
+    "Key": "GuardianSeanceBoon.Description",
+    "enGB": "You gain a +1 bonus to CMD.",
+    "zhCN": "你的CMD获得+1加值。"
+  },
+  {
+    "Key": "GuardianAbsorbBlow.Name",
+    "ProcessTemplates": false,
+    "enGB": "Absorb Blow - Guardian",
+    "zhCN": "吸收冲击 - 守护者"
+  },
+  {
+    "Key": "GuardianAbsorbBlow.Description",
+    "enGB": "You gain DR/? and resistance to acid, cold, electricity, fire, and sonic equal to 1/2 your medium level. Add bestow grace to your medium spells known as a 2nd-level spell.",
+    "zhCN": "你获得等同于你通灵者等级一半的DR/—，以及强酸、寒冷、电击、火焰与音波抗力。将赐福作为2环法术加入你的通灵者已知法术中。"
+  },
+  {
+    "Key": "LegendaryGuardian.Name",
+    "ProcessTemplates": false,
+    "enGB": "Legendary Guardian",
+    "zhCN": "传奇守护者"
+  },
+  {
+    "Key": "LegendaryGuardian.Description",
+    "enGB": "The Guardian {g|Encyclopedia:Charisma}Charisma{/g} inspires her allies so much that even when their {g|Encyclopedia:HP}hit points{/g} drop below 0 they continue to fight, even though they are still considered dead (or {g|Encyclopedia:Injury_Death}unconscious{/g}) for all effects and can be cured by breath of life or similar {g|Encyclopedia:Spell}spells{/g} as per spell description. After the encounter or upon receiving a total number of {g|Encyclopedia:Attack}attacks{/g} equal to Medium's Charisma ability modifier shared among all allies, the allies in this state fall dead (or unconscious). If all of the Medium's allies die that way, she becomes fully drained and dies.",
+    "zhCN": "守护者的{g|Encyclopedia:Charisma}魅力{/g}极大鼓舞了她的盟友，即使盟友的{g|Encyclopedia:HP}生命值{/g}降至0以下，他们依然会继续战斗，尽管在所有判定中他们仍被视为死亡（或{g|Encyclopedia:Injury_Death}失去意识{/g}），并且可以按照法术说明通过生命之息或类似{g|Encyclopedia:Spell}法术{/g}治愈。在遭遇结束或承受了总计相当于通灵者魅力属性调整值次数的{g|Encyclopedia:Attack}攻击{/g}（由所有盟友共享受击次数）后，处于该状态的盟友倒地死亡（或失去意识）。若通灵者的所有盟友均以此种方式死亡，她将被彻底吸干并死亡。"
+  },
+  {
+    "Key": "GuardianGreater.Name",
+    "ProcessTemplates": false,
+    "enGB": "Guardian Smite",
+    "zhCN": "守护者破邪"
+  },
+  {
+    "Key": "GuardianGreater.Description",
+    "enGB": "You can allow the guardian to gain 1 point of influence over you as a swift action to smite evil as per the paladin class.",
+    "zhCN": "你可以以一个迅捷动作允许守护者英灵对自己获得1点共鸣，借此如同圣武士职业一般使用破邪斩。"
+  },
+  {
+    "Key": "Hierophant.Name",
+    "ProcessTemplates": false,
+    "enGB": "Hierophant",
+    "zhCN": "大祭司"
+  },
+  {
+    "Key": "Hierophant.Description",
+    "enGB": "A hierophant spirit is a being of true and pure faith.\nSpirit Bonus: When you channel a hierophant, your spirit bonus applies on Wisdom checks, Wisdom-based skill checks, and Will saves.\nSeance Boon: Your healing spells and abilities heal an additional 2 points of damage to each target.\nInfluence Penalty: Whether the spirit hopes to offer a chance for redemption or to sacrifice foes later on a dark altar, You must strike for nonlethal damage in combat whenever possible. You take a penalty equal to your spirit bonus on all Charisma checks and Charisma-based skill checks.\nDivine Surge (Lesser, Su): This power functions as the archmage arcana spirit power, except that you add spells from the cleric/oracle list instead of the sorcerer/wizard list (these spells count as divine), and you need a divine focus if the spell requires one.\nEnergy Font (Intermediate, Su): You can channel energy a number of times per day equal to 1 + your Charisma modifier. add cure and inflict spells of each level you can cast from the cleric list to your medium spell list and spells known. These spells count as divine, as in the divine surge spirit power.\nOverflowing Grace (Greater, Su): When you heal a creature to full hit points or a creature already at full hit points with your positive or negative energy, that creature gains a +1 sacred bonus on attack rolls, skill checks, ability checks, and saving throws for 1 round. The bonus is sacred if you use positive energy and profane if you use negative energy. If you destroy or kill one or more creatures with positive or negative energy, you gain a +1 bonus of the same type on attack rolls, skill checks, ability checks, and saving throws for 1 round.\nLegendary Hierophant (Supreme, Su): Once per day, You can request a minor miracle. This request must be in line with the options for miracle that donft cost powdered diamond.",
+    "zhCN": "大祭司英灵拥有真诚而纯粹的信仰。\n英灵同调：每当你降灵大祭司时，你的英灵同调加值适用于感知检定、基于感知的技能检定与意志豁免。\n降灵奖励：你的治疗法术与能力对每个目标额外恢复2点伤害。\n共鸣惩罚：无论英灵是希望给敌人救赎的机会，还是打算日后在黑暗祭坛上将其献祭，你在战斗中都必须尽可能造成非致命伤害。你在所有魅力检定和基于魅力的技能检定上承受相当于你英灵同调加值的减值。\n大祭司神力（次级，Su）：此能力的效果与大法师奥秘英灵之力相同，但改为从牧师/先知法术列表中添加法术（而非术士/法师列表），这些法术视为神术，且若法术需要圣徽则你必须持有圣徽。\n能量源泉（中级，Su）：你每天可以引导能量的次数等同于1+你的魅力调整值。将牧师列表中你所能施放的每个环位的治疗和造成伤害法术加入你的通灵者法术列表与已知法术中。如同大祭司神力一样，这些法术视为神术。\n恩赐溢满（高等，Su）：当你使用正能量或负能量将一个生物的生命值回满，或以此能量影响一个生命值已满的生物时，该生物在攻击检定、技能检定、属性检定与豁免检定上获得+1神圣加值（若使用正能量）或亵渎加值（若使用负能量），持续1轮。若你使用正能量或负能量消灭或杀死了一个或多个生物，你在攻击检定、技能检定、属性检定与豁免检定上获得同类型的+1加值，持续1轮。\n传奇大祭司（至高，Su）：每天一次，你可以祈求一次次等神迹。该祈求必须符合不消耗钻石尘的神迹术效果选项。"
+  },
+  {
+    "Key": "HierophantSpiritBonus.Name",
+    "ProcessTemplates": false,
+    "enGB": "Spirit Bonus - Hierophant",
+    "zhCN": "英灵同调 - 大祭司"
+  },
+  {
+    "Key": "HierophantSpiritBonus.Description",
+    "enGB": "When you channel a hierophant, your spirit bonus applies on Wisdom checks, Wisdom-based skill checks, and Will saves.",
+    "zhCN": "当你降灵大祭司时，你的英灵同调加值适用于感知检定、基于感知的技能检定与意志豁免。"
+  },
+  {
+    "Key": "HierophantSeanceBoon.Name",
+    "ProcessTemplates": false,
+    "enGB": "Seance Boon - Hierophant",
+    "zhCN": "降灵奖励 - 大祭司"
+  },
+  {
+    "Key": "HierophantSeanceBoon.Description",
+    "enGB": "Your healing spells and abilities heal an additional 2 points of damage to each target. This does not affect healing conferred by magic items, nor does it add to fast healing or similar effects.",
+    "zhCN": "你的治疗法术与能力对每个目标额外恢复2点伤害。此效果不会影响魔法物品提供的治疗，也不会叠加至快速医疗或类似效果中。"
+  },
+  {
+    "Key": "HierophantEnergyFont.Name",
+    "ProcessTemplates": false,
+    "enGB": "Energy Font - Hierophant",
+    "zhCN": "能量源泉 - 大祭司"
+  },
+  {
+    "Key": "HierophantEnergyFont.Description",
+    "enGB": "You can channel energy a number of times per day equal to 1 + your Charisma modifier. Add cure and inflict spells of each level you can cast from the cleric list to your medium spell list and spells known. These spells count as divine, as in the divine surge spirit power.",
+    "zhCN": "你每天可以引导能量的次数等同于1+你的魅力调整值。将牧师列表中你所能施放的每个环位的治疗和造成伤害法术加入你的通灵者法术列表与已知法术中。如同大祭司神力一样，这些法术视为神术。"
+  },
+  {
+    "Key": "HierophantOverflowingGrace.Name",
+    "ProcessTemplates": false,
+    "enGB": "Overflowing Grace - Hierophant",
+    "zhCN": "恩赐溢满 - 大祭司"
+  },
+  {
+    "Key": "HierophantOverflowingGrace.Description",
+    "enGB": "When you heal a creature to full hit points or a creature already at full hit points with your positive or negative energy, that creature gains a +1 sacred bonus on attack rolls, skill checks, ability checks, and saving throws for 1 round. The bonus is sacred if you use positive energy and profane if you use negative energy. If you destroy or kill one or more creatures with positive or negative energy, you gain a +1 bonus of the same type on attack rolls, skill checks, ability checks, and saving throws for 1 round.",
+    "zhCN": "当你使用正能量或负能量将一个生物的生命值回满，或以此能量影响一个生命值已满的生物时，该生物在攻击检定、技能检定、属性检定与豁免检定上获得+1神圣加值（若使用正能量）或亵渎加值（若使用负能量），持续1轮。若你使用正能量或负能量消灭或杀死了一个或多个生物，你在攻击检定、技能检定、属性检定与豁免检定上获得同类型的+1加值，持续1轮。"
+  },
+  {
+    "Key": "HierophantSupreme.Name",
+    "ProcessTemplates": false,
+    "enGB": "Legendary Hierophant",
+    "zhCN": "传奇大祭司"
+  },
+  {
+    "Key": "HierophantSupreme.Description",
+    "enGB": "Once per day, you may cast any cleric spell up to 8th level without expending a spell slot.",
+    "zhCN": "每天一次，你可以施放任意一个最高为8环的牧师法术，而无需消耗法术位。"
+  },
+  {
+    "Key": "Marshal.Name",
+    "ProcessTemplates": false,
+    "enGB": "Marshal",
+    "zhCN": "统帅"
+  },
+  {
+    "Key": "Marshal.Description",
+    "enGB": "A marshal spirit is a towering presence and an inspiration to others.\nSpirit Bonus: When you channel a marshal, your spirit bonus applies on Charisma checks and Charisma-based skill checks, as well as on spirit surge rolls. This allows the bonus to apply twice to the total result if you use a spirit surge on a Charisma check or on a Charisma-based skill check.\nSeance Boon: Choose a seance boon from any of the other legends to benefit from. When using the shared seance class feature, each participant can choose a different boon.\nInfluence Penalty: The time you spend concentrating on your allies prevents you from attending to other important matters. You take a penalty equal to your spirit bonus on Wisdom checks and Wisdom-based skill checks.\nMarshal's Order (Lesser, Su): You can use your spirit surge on attack rolls, saving throws, ability checks, concentration checks, and skill checks rolled by you or any allies who participated in your seance as long as you have line of sight and line of effect, and are within 30 feet of the chosen ally. You can still use spirit surge only once per round.\nInspiring Call (Intermediate, Su): As a standard action, you can grant all allies who can see and hear you a competence bonus equal to your spirit bonus on either saving throws or attack and damage rolls. You choose which bonus to grant each time you use inspiring call. This ability lasts for 1 round. If you have the decisive strike greater spirit power, you can use inspiring call as a move action. If you have the legendary marshal supreme spirit power, you can use inspiring call as a swift action.\nDecisive Strike (Greater, Su): You can allow the marshal to gain 1 point of influence over you as a swift action to allow an ally within 30 feet who can see and hear you to make a single melee or ranged attack during your turn. You can use this ability as a standard action to instead allow the ally to cast any standard action spell as a free action.\nLegendary Marshal (Supreme, Su): You can use a lesser spirit surge without incurring influence. This lesser surge adds a maximum of 1d6 to the roll and does not apply your spirit bonus, regardless of other effects or abilities you have that alter your spirit surge. A lesser surge still counts as a spirit surge for the purpose of the limit of one spirit surge per round, but it does not consume any free uses of spirit surge you may have from effects such as taboo.",
+    "zhCN": "统帅英灵威风凛凛，懂得人心，能够极大地鼓舞他人。\n英灵同调：每当你降灵统帅时，你的英灵同调加值适用于魅力检定、基于魅力的技能检定以及灵力奔涌投骰。若你在魅力检定或基于魅力的技能检定上使用灵力奔涌，此加值在计算总结果时可以生效两次。\n降灵奖励：从其他任意传奇英灵的降灵奖励中选择一项获得其益处。当使用共享降灵职业特性时，每名参与者都可以选择不同的降灵奖励。\n共鸣惩罚：你专注于盟友的时间使你无法顾及其他要务。你在感知检定和基于感知的技能检定上承受相当于你英灵同调加值的减值。\n统帅之令（次级，Su）：你可以在你或任何参与了你降灵会的盟友所进行的攻击检定、豁免检定、属性检定、专注检定和技能检定上使用你的灵力奔涌，只要你与选定的盟友之间拥有视线和效果线，且距离在30尺以内。每轮你依然只能使用一次灵力奔涌。\n振奋呼声（中级，Su）：以一个标准动作，你可以使所有能够看见并听见你的盟友在豁免检定或攻击与伤害检定上获得相当于你英灵同调加值的表现加值。每次使用振奋呼声时由你选择提供哪种加值。此能力持续1轮。若你拥有果断出击高等英灵之力，你可以以一个移动动作使用振奋呼声。若你拥有传奇统帅至高英灵之力，你可以以一个迅捷动作使用振奋呼声。\n果断出击（高等，Su）：你可以以一个迅捷动作允许统帅英灵对自己获得1点共鸣，借此允许30尺内一名能够看见并听见你的盟友在你的回合内进行一次单次近战或远程攻击。你也可以以一个标准动作使用此能力，改为允许该盟友以一个自由动作施放任何标准动作法术。\n传奇统帅（至高，Su）：你可以使用次等灵力奔涌而不会产生共鸣。此种次等奔涌至多只能为投骰增加1d6且不计入你的英灵同调加值，无论你拥有何种改变灵力奔涌的其他效果或能力。次等奔涌在计算每轮一次灵力奔涌的限制时仍视为一次灵力奔涌，但它不会消耗你因禁忌等效果所获得的任何灵力奔涌免费使用次数。"
+  },
+  {
+    "Key": "MarshalSpiritBonus.Name",
+    "ProcessTemplates": false,
+    "enGB": "Spirit Bonus - Marshal",
+    "zhCN": "英灵同调 - 统帅"
+  },
+  {
+    "Key": "MarshalSpiritBonus.Description",
+    "enGB": "When you channel a marshal, your spirit bonus applies on Charisma checks and Charisma-based skill checks, as well as on spirit surge rolls. This allows the bonus to apply twice to the total result if you use a spirit surge on a Charisma check or on a Charisma-based skill check.",
+    "zhCN": "当你降灵统帅时，你的英灵同调加值适用于魅力检定、基于魅力的技能检定以及灵力奔涌投骰。若你在魅力检定或基于魅力的技能检定上使用灵力奔涌，此加值在计算总结果时可以生效两次。"
+  },
+  {
+    "Key": "MarshalSeanceBoon.Name",
+    "ProcessTemplates": false,
+    "enGB": "Seance Boon - Marshal",
+    "zhCN": "降灵奖励 - 统帅"
+  },
+  {
+    "Key": "MarshalSeanceBoon.Description",
+    "enGB": "Choose a seance boon from any of the other legends to benefit from. When using the shared seance class feature, each participant can choose a different boon. ",
+    "zhCN": "从其他任意传奇英灵的降灵奖励中选择一项获得其益处。当使用共享降灵职业特性时，每名参与者都可以选择不同的降灵奖励。"
+  },
+  {
+    "Key": "MarshalInspiringCall.Name",
+    "ProcessTemplates": false,
+    "enGB": "Inspiring Call",
+    "zhCN": "振奋呼声"
+  },
+  {
+    "Key": "MarshalInspiringCallAttack.Name",
+    "ProcessTemplates": false,
+    "enGB": "Inspiring Call - Attack",
+    "zhCN": "振奋呼声 - 攻击"
+  },
+  {
+    "Key": "MarshalInspiringCallSaves.Name",
+    "ProcessTemplates": false,
+    "enGB": "Inspiring Call - Saves",
+    "zhCN": "振奋呼声 - 豁免"
+  },
+  {
+    "Key": "MarshalInspiringCall.Description",
+    "enGB": "As a standard action, you can grant all allies who can see and hear you a competence bonus equal to your spirit bonus on either saving throws or attack and damage rolls. You choose which bonus to grant each time you use inspiring call. This ability lasts for 1 round. If you have the decisive strike greater spirit power, you can use inspiring call as a move action. If you have the legendary marshal supreme spirit power, you can use inspiring call as a swift action.",
+    "zhCN": "以一个标准动作，你可以使所有能够看见并听见你的盟友在豁免检定或攻击与伤害检定上获得相当于你英灵同调加值的表现加值。每次使用振奋呼声时由你选择提供哪种加值。此能力持续1轮。若你拥有果断出击高等英灵之力，你可以以一个移动动作使用振奋呼声。若你拥有传奇统帅至高英灵之力，你可以以一个迅捷动作使用振奋呼声。"
+  },
+  {
+    "Key": "MarshalLesser.Name",
+    "ProcessTemplates": false,
+    "enGB": "Marshal's Order",
+    "zhCN": "统帅之令"
+  },
+  {
+    "Key": "MarshalLesser.Description",
+    "enGB": "You can use your spirit surge on attack rolls, saving throws, ability checks, concentration checks, and skill checks rolled by you or any allies who participated in your seance as long as you have line of sight and line of effect, and are within 30 feet of the chosen ally.",
+    "zhCN": "你可以在你或任何参与了你降灵会的盟友所进行的攻击检定、豁免检定、属性检定、专注检定和技能检定上使用你的灵力奔涌，只要你与选定的盟友之间拥有视线和效果线，且距离在30尺以内。"
+  },
+  {
+    "Key": "MarshalGreaterSwift.Name",
+    "ProcessTemplates": false,
+    "enGB": "Decisive Strike - Swift",
+    "zhCN": "果断出击 - 迅捷"
+  },
+  {
+    "Key": "MarshalGreaterSwift.Description",
+    "enGB": "You can allow the marshal to gain 1 point of influence over you as a swift action to allow an ally within 30 feet who can see and hear you to make a single melee or ranged attack during your turn.",
+    "zhCN": "你可以以一个迅捷动作允许统帅英灵对自己获得1点共鸣，借此允许30尺内一名能够看见并听见你的盟友在你的回合内进行一次单次近战或远程攻击。"
+  },
+  {
+    "Key": "MarshalGreaterStandard.Name",
+    "ProcessTemplates": false,
+    "enGB": "Decisive Strike - Standard",
+    "zhCN": "果断出击 - 标准"
+  },
+  {
+    "Key": "MarshalGreaterStandard.Description",
+    "enGB": "You can allow the marshal to gain 1 point of influence over you as a standard action to allow an ally within 30 feet who can see and hear you to make their next standard action spell a free action.",
+    "zhCN": "你可以以一个标准动作允许统帅英灵对自己获得1点共鸣，借此允许30尺内一名能够看见并听见你的盟友以自由动作施放其下一个标准动作法术。"
+  },
+  {
+    "Key": "MarshalGreaterFeat.Name",
+    "ProcessTemplates": false,
+    "enGB": "Decisive Strike",
+    "zhCN": "果断出击"
+  },
+  {
+    "Key": "MarshalGreaterFeat.Description",
+    "enGB": "You can allow the marshal to gain 1 point of influence over you as a swift action to allow an ally within 30 feet who can see and hear you to make a single melee or ranged attack during your turn. You may use this ability as a standard action to allow an ally to make their next standard action spell a free action.",
+    "zhCN": "你可以以一个迅捷动作允许统帅英灵对自己获得1点共鸣，借此允许30尺内一名能够看见并听见你的盟友在你的回合内进行一次单次近战或远程攻击。你也可以以一个标准动作使用此能力，允许盟友以自由动作施放其下一个标准动作法术。"
+  },
+  {
+    "Key": "MarshalSupreme.Name",
+    "ProcessTemplates": false,
+    "enGB": "Legendary Marshal",
+    "zhCN": "传奇统帅"
+  },
+  {
+    "Key": "MarshalSupreme.Description",
+    "enGB": "You can use a lesser spirit surge without incurring influence. This lesser surge adds a maximum of 1d6 to the roll and does not apply your spirit bonus, regardless of other effects or abilities you have that alter your spirit surge.",
+    "zhCN": "你可以使用次等灵力奔涌而不会产生共鸣。此种次等奔涌至多只能为投骰增加1d6且不计入你的英灵同调加值，无论你拥有何种改变灵力奔涌的其他效果或能力。"
+  },
+  {
+    "Key": "Trickster.Name",
+    "ProcessTemplates": false,
+    "enGB": "Trickster",
+    "zhCN": "诡术师"
+  },
+  {
+    "Key": "Trickster.Description",
+    "enGB": "A trickster spirit is a savvy and manipulative master of skills.\nSpirit Bonus: When you channel a trickster, your spirit bonus applies on Dexterity checks, skill checks, and Reflex saves.\nSeance Boon: Choose one skill when you gain this seance boon. You gain a +1 bonus on skill checks using that skill, and that skill counts as a class skill for you.\nInfluence Penalty: The time you spend focusing on skills makes you weak of body and mind. You take a penalty to Will, Fortitude, AC, CMD, and CMB.\nTrickster's Edge (Lesser, Su): Choose any one skill. This skill counts as a class skills for you, and you are treated as if you had an additional number of ranks in that skill equal to your medium level (to a maximum of your character level).\nSurprise Strike (Intermediate, Su): When you attack an opponent thatfs denied its Dexterity bonus to AC, you deal 1d6 points of extra precision damage for every 3 medium levels. Your target counts as flat-footed against the first attack you make against that target in a day, regardless of abilities like uncanny dodge. After your first attack, that target is immune to being made flat-footed by your surprise strike for 24 hours.\nTransfer Magic (Greater, Su): You can allow the trickster to gain 1 point of influence over you to make a melee touch attack against another creature as a standard action. If the attack succeeds, you randomly steal one of the harmless spells active on that creature, ending the effect for the original creature and gaining all remaining duration for yourself. This ability does not work on personal range or instantaneous- or permanent-duration spells.\nLegendary Trickster (Supreme, Su): Once per day, instead of rolling for a skill check, you can choose your d20 result. Additionally, you gain the ability to change form at will as if using greater polymorph and use the ability on others.",
+    "zhCN": "诡术师英灵精明干练、机变百出，是玩弄各项技能的行家里手。\n英灵同调：每当你降灵诡术师时，你的英灵同调加值适用于敏捷检定、技能检定与反射豁免。\n降灵奖励：获得此降灵奖励时选择一项技能。你在该技能的技能检定上获得+1加值，且该技能对你视为本职技能。\n共鸣惩罚：你专注于技能的时间使你身心衰弱。你的意志豁免、强韧豁免、防御等级（AC）、战技防御（CMD）与战技加值（CMB）受到减值。\n诡术师绝技（次级，Su）：选择任意一项技能。该技能对你视为本职技能，且你在该技能上视作拥有额外等同于你通灵者等级的技能点数（至多为你的人物等级）。\n诡击（中级，Su）：当你攻击失去AC敏捷加值的对手时，你每拥有3个通灵者等级便额外造成1d6点精准伤害。无论目标是否拥有诸如直觉闪避等能力，你在一天中对其进行的首次攻击中，该目标都视作措手不及。在你的首次攻击后，该目标对因你的诡击陷入措手不及免疫24小时。\n妙手窃法（高等，Su）：你可以以一个标准动作允许诡术师对自己获得1点共鸣，对另一名生物进行一次近战接触攻击。若攻击命中，你随机窃取该生物身上生效的一项无害法术，使原生物失去该效果，并使你自己获得剩余的全部持续时间。该能力对个人范围、立即生效或永久持续时间的法术无效。\n传奇诡术师（至高，Su）：每天一次，在进行技能检定时你可以不进行投骰，而是直接选择你的d20结果。此外，你获得随意改变形态的能力，如同使用高等变形术，且可以对他人使用此能力。"
+  },
+  {
+    "Key": "TricksterSpiritBonus.Name",
+    "ProcessTemplates": false,
+    "enGB": "Spirit Bonus - Trickster",
+    "zhCN": "英灵同调 - 诡术师"
+  },
+  {
+    "Key": "TricksterSpiritBonus.Description",
+    "enGB": "When you channel a trickster, your spirit bonus applies on Dexterity checks, skill checks, and Reflex saves.",
+    "zhCN": "当你降灵诡术师时，你的英灵同调加值适用于敏捷检定、技能检定与反射豁免。"
+  },
+  {
+    "Key": "TricksterSeanceBoon.Name",
+    "ProcessTemplates": false,
+    "enGB": "Seance Boon - Trickster",
+    "zhCN": "降灵奖励 - 诡术师"
+  },
+  {
+    "Key": "TricksterSeanceBoon.Description",
+    "enGB": "Choose one skill when you gain this seance boon. You gain a +1 bonus on skill checks using that skill, and that skill counts as a class skill for you.",
+    "zhCN": "获得此降灵奖励时选择一项技能。你在该技能的技能检定上获得+1加值，且该技能对你视为本职技能。"
+  },
+  {
+    "Key": "TricksterTransferMagic.Name",
+    "ProcessTemplates": false,
+    "enGB": "Transfer Magic - Trickster",
+    "zhCN": "妙手窃法 - 诡术师"
+  },
+  {
+    "Key": "TricksterTransferMagic.Description",
+    "enGB": "You can allow the trickster to gain 1 point of influence over you to make a melee touch attack against another creature as a standard action. If the attack succeeds, you randomly steal one of the harmless spells of the highest spell level active on that creature, ending the effect for the original creature and gaining all remaining duration for yourself. This ability does not work on personal range or instantaneous- or permanent-duration spells.",
+    "zhCN": "你可以以一个标准动作允许诡术师对自己获得1点共鸣，对另一名生物进行一次近战接触攻击。若攻击命中，你随机窃取该生物身上生效的最高环位无害法术中的一项，使原生物失去该效果，并使你自己获得剩余的全部持续时间。该能力对个人范围、立即生效或永久持续时间的法术无效。"
+  },
+  {
+    "Key": "TrickstersEdge.Name",
+    "ProcessTemplates": false,
+    "enGB": "Trickster's Edge",
+    "zhCN": "诡术师绝技"
+  },
+  {
+    "Key": "TrickstersEdge.Description",
+    "enGB": "Choose any one skill. This skill counts as a class skill for you, and you are treated as if you had an additional number of ranks in that skill equal to your medium level (to a maximum of your character level).",
+    "zhCN": "选择任意一项技能。该技能对你视为本职技能，且你在该技能上视作拥有额外等同于你通灵者等级的技能点数（至多为你的人物等级）。"
+  },
+  {
+    "Key": "TrickstersEdgeAthletics.Name",
+    "ProcessTemplates": false,
+    "enGB": "Trickster's Edge - Athletics",
+    "zhCN": "诡术师绝技 - 运动"
+  },
+  {
+    "Key": "TrickstersEdgeThievery.Name",
+    "ProcessTemplates": false,
+    "enGB": "Trickster's Edge - Thievery",
+    "zhCN": "诡术师绝技 - 巧手"
+  },
+  {
+    "Key": "TrickstersEdgeMobility.Name",
+    "ProcessTemplates": false,
+    "enGB": "Trickster's Edge - Mobility",
+    "zhCN": "诡术师绝技 - 灵巧"
+  },
+  {
+    "Key": "TrickstersEdgeStealth.Name",
+    "ProcessTemplates": false,
+    "enGB": "Trickster's Edge - Stealth",
+    "zhCN": "诡术师绝技 - 隐匿"
+  },
+  {
+    "Key": "TrickstersEdgeNature.Name",
+    "ProcessTemplates": false,
+    "enGB": "Trickster's Edge - Lore Nature",
+    "zhCN": "诡术师绝技 - 学识（自然）"
+  },
+  {
+    "Key": "TrickstersEdgeReligion.Name",
+    "ProcessTemplates": false,
+    "enGB": "Trickster's Edge - Lore Religion",
+    "zhCN": "诡术师绝技 - 学识（宗教）"
+  },
+  {
+    "Key": "TrickstersEdgeArcana.Name",
+    "ProcessTemplates": false,
+    "enGB": "Trickster's Edge - Knowledge Arcana",
+    "zhCN": "诡术师绝技 - 知识（神秘）"
+  },
+  {
+    "Key": "TrickstersEdgeWorld.Name",
+    "ProcessTemplates": false,
+    "enGB": "Trickster's Edge - Knowledge World",
+    "zhCN": "诡术师绝技 - 知识（世界）"
+  },
+  {
+    "Key": "TrickstersEdgePerception.Name",
+    "ProcessTemplates": false,
+    "enGB": "Trickster's Edge - Perception",
+    "zhCN": "诡术师绝技 - 察觉"
+  },
+  {
+    "Key": "TrickstersEdgePersuasion.Name",
+    "ProcessTemplates": false,
+    "enGB": "Trickster's Edge - Persuasion",
+    "zhCN": "诡术师绝技 - 说服"
+  },
+  {
+    "Key": "TrickstersEdgeUMD.Name",
+    "ProcessTemplates": false,
+    "enGB": "Trickster's Edge - Use Magic Device",
+    "zhCN": "诡术师绝技 - 使用魔法装置"
+  },
+  {
+    "Key": "TricksterLegendaryTrickster.Name",
+    "ProcessTemplates": false,
+    "enGB": "Legendary Trickster",
+    "zhCN": "传奇诡术师"
+  },
+  {
+    "Key": "TricksterLegendaryTrickster.Description",
+    "enGB": "Once per day, instead of rolling for a skill check, you can choose your d20 result. Additionally, you gain the ability to change form at will as if using greater polymorph.",
+    "zhCN": "每天一次，在进行技能检定时你可以不进行投骰，而是直接选择你的d20结果。此外，你获得随意改变形态的能力，如同使用高等变形术。"
+  },
+  {
+    "Key": "SurpriseStrike.Name",
+    "ProcessTemplates": false,
+    "enGB": "Surprise Strike - Trickster",
+    "zhCN": "诡击 - 诡术师"
+  },
+  {
+    "Key": "SurpriseStrike.Description",
+    "enGB": "When you attack an opponent thatfs denied its Dexterity bonus to AC, you deal 1d6 points of extra precision damage for every 3 medium levels. Your target counts as flat-footed against the first attack you make against that target in a day, regardless of abilities like uncanny dodge. After your first attack, that target is immune to being made flat-footed by your surprise strike for 24 hours.",
+    "zhCN": "当你攻击失去AC敏捷加值的对手时，你每拥有3个通灵者等级便额外造成1d6点精准伤害。无论目标是否拥有诸如直觉闪避等能力，你在一天中对其进行的首次攻击中，该目标都视作措手不及。在你的首次攻击后，该目标对因你的诡击陷入措手不及免疫24小时。"
+  },
+  {
+    "Key": "TricksterSeanceBoonAthletics.Name",
+    "ProcessTemplates": false,
+    "enGB": "Seance Boon - Athletics",
+    "zhCN": "降灵奖励 - 运动"
+  },
+  {
+    "Key": "TricksterSeanceBoonMobility.Name",
+    "ProcessTemplates": false,
+    "enGB": "Seance Boon - Mobility",
+    "zhCN": "降灵奖励 - 灵巧"
+  },
+  {
+    "Key": "TricksterSeanceBoonStealth.Name",
+    "ProcessTemplates": false,
+    "enGB": "Seance Boon - Stealth",
+    "zhCN": "降灵奖励 - 隐匿"
+  },
+  {
+    "Key": "TricksterSeanceBoonThievery.Name",
+    "ProcessTemplates": false,
+    "enGB": "Seance Boon - Thievery",
+    "zhCN": "降灵奖励 - 巧手"
+  },
+  {
+    "Key": "TricksterSeanceBoonArcana.Name",
+    "ProcessTemplates": false,
+    "enGB": "Seance Boon - Arcana",
+    "zhCN": "降灵奖励 - 知识（神秘）"
+  },
+  {
+    "Key": "TricksterSeanceBoonWorld.Name",
+    "ProcessTemplates": false,
+    "enGB": "Seance Boon - World",
+    "zhCN": "降灵奖励 - 知识（世界）"
+  },
+  {
+    "Key": "TricksterSeanceBoonNature.Name",
+    "ProcessTemplates": false,
+    "enGB": "Seance Boon - Nature",
+    "zhCN": "降灵奖励 - 学识（自然）"
+  },
+  {
+    "Key": "TricksterSeanceBoonReligion.Name",
+    "ProcessTemplates": false,
+    "enGB": "Seance Boon - Religion",
+    "zhCN": "降灵奖励 - 学识（宗教）"
+  },
+  {
+    "Key": "TricksterSeanceBoonPerception.Name",
+    "ProcessTemplates": false,
+    "enGB": "Seance Boon - Perception",
+    "zhCN": "降灵奖励 - 察觉"
+  },
+  {
+    "Key": "TricksterSeanceBoonPersuasion.Name",
+    "ProcessTemplates": false,
+    "enGB": "Seance Boon - Persuasion",
+    "zhCN": "降灵奖励 - 说服"
+  },
+  {
+    "Key": "TricksterSeanceBoonUMD.Name",
+    "ProcessTemplates": false,
+    "enGB": "Seance Boon - UMD",
+    "zhCN": "降灵奖励 - 使用魔法装置"
+  }
+]
