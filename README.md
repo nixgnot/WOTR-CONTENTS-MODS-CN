@@ -191,6 +191,7 @@
 | [RelationsAndRomances](#RelationsandRomances) | 浪漫事件链    |   N网汉化 |   :heavy_check_mark: | :+1::+1::+1:| :file_folder: |🛠️||
 | [RandomReinforcementsperEncounter](#RandomReinforcementsperEncounter) | 随机遭遇 |  | :heavy_check_mark:  | :+1::+1:| |🛠️||
 | [Cowboys&Demons](#Cowboys&Demons) | 牛仔与恶魔 | QL汉化 | :heavy_check_mark:  | :+1::+1:| :file_folder:  :file_folder: |||
+| [qqyx的3r扩展](#qqyx的3r扩展) | qqyx的3r扩展 | QL汉化 | :heavy_check_mark:  | :+1::+1:| :file_folder: |||
 
 备注
 + UMM一栏为是否使用UMM安装
@@ -5261,6 +5262,15 @@ C:\Users\你的用户名\AppData\LocalLow\Owlcat Games\Pathfinder Wrath Of The R
   	<tr><td>转轮枪<br>Revolver</td>
 		<td>先进单手火器，转轮弹巢包含六个弹仓，开火后自动旋转准备下一发。</td>
 </table>   
+-------------------------------------------
+
+### [qqyx的3r扩展](https://github.com/qianqianyuxi233/Qqyx3RExpansion)
+> *前置：* TabletopTweaks-Core
+> *中文：* **自带汉化**<br>
+> *安装方式：* **UMM**<br>
+> *新增内容：* 把 D&D 3.5 的部分内容搬进《正义之怒》，部分内容经过作者修改<br>
++ 作者看起来像是国人，mod页面介绍也是纯中文，所以我也懒得写了，去mod页面看加了什么吧
+
 -------------------------------------------
 
 ### 功能MOD索引
