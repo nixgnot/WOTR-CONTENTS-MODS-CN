@@ -192,6 +192,7 @@
 | [RandomReinforcementsperEncounter](#RandomReinforcementsperEncounter) | 随机遭遇 |  | :heavy_check_mark:  | :+1::+1:| |🛠️||
 | [Cowboys&Demons](#Cowboys&Demons) | 牛仔与恶魔 | QL汉化 | :heavy_check_mark:  | :+1::+1:| :file_folder:  :file_folder: |||
 | [qqyx的3r扩展](#qqyx的3r扩展) | qqyx的3r扩展 | QL汉化 | :heavy_check_mark:  | :+1::+1:| :file_folder: |||
+| [CotW-Wrath](#CotW-Wrath) | COTW的移植 | QL汉化 | :x:  | 未正式完成，但也能用| :file_folder::file_folder: |🛠️🛠️||
 
 备注
 + UMM一栏为是否使用UMM安装
@@ -5270,6 +5271,18 @@ C:\Users\你的用户名\AppData\LocalLow\Owlcat Games\Pathfinder Wrath Of The R
 > *安装方式：* **UMM**<br>
 > *新增内容：* 把 D&D 3.5 的部分内容搬进《正义之怒》，部分内容经过作者修改<br>
 + 作者看起来像是国人，mod页面介绍也是纯中文，所以我也懒得写了，去mod页面看加了什么吧
+
+-------------------------------------------
+
+### [CotW-Wrath](https://github.com/shenzhoudadi/CotW-Wrath)
+> *前置：* TabletopTweaks-Core、Wrath Patches。或许还有Ebon's Content Mod和Ha之类的
+> *中文：* **暂无**<br>
+> *安装方式：* **非UMM**<br>
+> *新增内容：* 使用ai将拥王者的大型mod-cotw的内容移植进正义之怒中<br>
++ 目前仍在缓慢移植中，法术和专长已移植得差不多了，异能者职业与一些变体也已经完成，但整体还是属于测试阶段
++ 内容并不局限于cotw，不能使用的通灵者和盾牌之道mod也已一并修复整合进了此mod，未来移植完cotw也将做点其他东西
++ 至于为什么没有中文，是因为打算等移植完cotw再整
++ 如遇bug，请加群找我QQ：2923986197反馈
 
 -------------------------------------------
 
