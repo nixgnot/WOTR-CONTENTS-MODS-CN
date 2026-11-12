@@ -6,9 +6,12 @@
 """
 
 import os
+import re
+import sys
 import json
 import subprocess
 from datetime import datetime
+from functools import lru_cache
 from pathlib import Path
 
 
@@ -61,9 +64,59 @@ def get_git_last_commit_time(file_path):
         return datetime.utcnow().strftime('%Y-%m-%dT%H:%M:%S.%fZ')
 
 
+@lru_cache(maxsize=1)
+def readme_index():
+    """解析 README，返回 (小节 [(名称, 正文)], 表格短名 {名称: 短名})"""
+    try:
+        text = Path('README.md').read_text(encoding='utf-8')
+    except OSError:
+        return [], {}
+    headings = list(re.finditer(r'^### \[([^\]]+)\]\([^)]*\)\s*$', text, re.M))
+    sections = []
+    for i, match in enumerate(headings):
+        end = headings[i + 1].start() if i + 1 < len(headings) else len(text)
+        sections.append((match.group(1), text[match.end():end]))
+    rows = {
+        m.group(1): m.group(2).strip()
+        for m in re.finditer(r'^\| *\[([^\]]+)\]\(#[^)]+\) *\|([^|]*)\|', text, re.M)
+    }
+    return sections, rows
+
+
+def readme_desc(target, kind):
+    """用 README 对应 MOD 小节的「短名 - 简介」作 desc，找不到返回空串"""
+    sections, rows = readme_index()
+    needle = f'QuickLocalization用汉化文本/{kind}/{target}'
+    label = body = None
+    for section_label, section_body in sections:
+        if needle in section_body:
+            label, body = section_label, section_body
+            break
+    if label is None:
+        for section_label, section_body in sections:
+            if section_label == target:
+                label, body = section_label, section_body
+                break
+    short = rows.get(label) if label else rows.get(target)
+    intro = None
+    if body:
+        for line in body.splitlines():
+            text = line.strip()
+            if text.startswith('+ '):
+                text = text[2:].strip()
+                if text.startswith(('**注意', '特别注意', '**建议')):
+                    continue
+                intro = text.replace('<br>', '').strip()
+                break
+    if short and intro:
+        return f'{short} - {intro}'
+    return short or intro or ''
+
+
 def scan_directory(base_path, target_list):
     """扫描指定目录，更新目标列表"""
     full_path = Path(base_path)
+    kind = full_path.name  # Localization / TTTLocalization，用于匹配 README 链接
     print(f"\n扫描目录: {full_path}")
     
     if not full_path.exists():
@@ -77,8 +130,8 @@ def scan_directory(base_path, target_list):
     for dir_path in directories:
         dir_name = dir_path.name
         
-        # 查找目录下的所有JSON文件
-        json_files = [f.name for f in dir_path.iterdir() if f.is_file() and f.suffix.lower() == '.json']
+        # 查找目录下的所有JSON文件（排序，避免不同平台枚举顺序不同）
+        json_files = sorted(f.name for f in dir_path.iterdir() if f.is_file() and f.suffix.lower() == '.json')
         
         print(f"  {dir_name}: {len(json_files)} 个JSON文件 {json_files}")
         
@@ -102,11 +155,18 @@ def scan_directory(base_path, target_list):
             old_files = existing_item.get('files', [])
             existing_item['files'] = json_files
             existing_item['lastUpdate'] = last_update
+            # 描述为空（或只是目录名）时，用 README 重新生成
+            if not existing_item.get('desc') or existing_item['desc'] == dir_name:
+                existing_item['desc'] = readme_desc(dir_name, kind) or dir_name
             print(f"    -> 更新现有条目，文件变化: {len(old_files)} -> {len(json_files)}")
         else:
-            # 创建新条目
+            # 创建新条目，描述自动从 README 生成
+            desc = readme_desc(dir_name, kind)
+            if not desc:
+                desc = dir_name
+                print(f"::warning:: {kind}/{dir_name} 在 README 中找不到介绍，desc 暂用目录名")
             new_item = {
-                "desc": "",  # 新目录描述为空，需要手动填写
+                "desc": desc,
                 "target": dir_name,
                 "files": json_files,
                 "lastUpdate": last_update
@@ -149,45 +209,36 @@ def main():
     info['TTTLocalizationList'].sort(key=lambda x: x['target'])
     
     # 写入文件
-    try:
-        with open(info_path, 'w', encoding='utf-8') as f:
-            json.dump(info, f, ensure_ascii=False, indent=2)
-            f.write('\n')  # 添加换行符
-        print(f"\ninfo.json 更新完成")
-    except Exception as e:
-        print(f"写入 info.json 失败: {e}")
-        return False
-    
+    with open(info_path, 'w', encoding='utf-8') as f:
+        json.dump(info, f, ensure_ascii=False, indent=2)
+        f.write('\n')  # 添加换行符
+    print(f"\ninfo.json 更新完成")
+
     # 显示统计信息
     print(f"\n=== 统计信息 ===")
     print(f"常规本地化目录数: {len(info['LocalizationList'])}")
     print(f"TTT本地化目录数: {len(info['TTTLocalizationList'])}")
-    
-    # 显示需要填写描述的新目录
-    empty_desc_items = [
-        item for item in info['LocalizationList'] + info['TTTLocalizationList']
-        if not item.get('desc') or item['desc'].strip() == ''
-    ]
-    
-    if empty_desc_items:
-        print(f"\n需要填写描述的目录:")
-        for item in empty_desc_items:
-            print(f"- {item['target']}")
-        return False  # 有需要手动处理的项目
-    else:
-        print("\n所有目录都有描述")
-        return True
+
+
+def self_test():
+    """断言 README 解析仍可用，防止 README 模板变化后静默回退目录名"""
+    for target, kind in [
+        ('WorldCrawl', 'Localization'),
+        ('BrawlerClassWrath', 'Localization'),
+        ('TTT-Base(Fix)', 'TTTLocalization'),
+    ]:
+        desc = readme_desc(target, kind)
+        assert desc and desc != target, f'{target} 未从 README 解析出简介'
+    print("✅ self-test 通过")
 
 
 if __name__ == '__main__':
     try:
-        success = main()
-        if not success:
-            print("\n⚠️  需要手动处理一些项目")
-            exit(1)
+        if '--self-test' in sys.argv:
+            self_test()
         else:
+            main()
             print("\n✅ 更新完成")
-            exit(0)
     except Exception as e:
         print(f"\n❌ 执行失败: {e}")
         exit(1)
