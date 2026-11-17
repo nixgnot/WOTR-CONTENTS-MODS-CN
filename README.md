@@ -5274,7 +5274,7 @@ C:\Users\你的用户名\AppData\LocalLow\Owlcat Games\Pathfinder Wrath Of The R
 
 -------------------------------------------
 
-### [CotW-Wrath](https://github.com/shenzhoudadi/CotW-Wrath)
+### [CotW-Wrath](https://github.com/sxl1216/CotW-Wrath)
 > *前置：* modmenu、TabletopTweaks-Core、Wrath Patches。或许还有Ebon's Content Mod和Ha之类的
 > *中文：* **暂无**<br>
 > *安装方式：* **非UMM**<br>
