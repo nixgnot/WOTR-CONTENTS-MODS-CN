@@ -5275,7 +5275,7 @@ C:\Users\你的用户名\AppData\LocalLow\Owlcat Games\Pathfinder Wrath Of The R
 -------------------------------------------
 
 ### [CotW-Wrath](https://github.com/sxl1216/CotW-Wrath)
-> *前置：* modmenu、TabletopTweaks-Core、Wrath Patches。或许还有Ebon's Content Mod和Ha之类的
+> *前置：* modmenu、TabletopTweaks-Core、Wrath Patches、ExpandedContent。或许还有Ebon's Content Mod、Character Options+、DarkCodex、Prestige Plus、Tome of the Firebird和Ha之类的，主要我测试环境是把这些mod装全了的，一些职业也会给这些mod做了的法术
 > *中文：* **暂无**<br>
 > *安装方式：* **非UMM**<br>
 > *新增内容：* 使用ai将拥王者的大型mod-cotw的内容移植进正义之怒中<br>
